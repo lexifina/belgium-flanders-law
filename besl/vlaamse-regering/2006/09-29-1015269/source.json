@@ -1,0 +1,17 @@
+{
+  "codex_id": 1015269,
+  "title": "Besluit van de Vlaamse Regering van 2006-09-29 tot wijziging van het besluit van de Vlaamse Regering van 10 december 2004 houdende de organisatie van het Vlaams Instituut voor het Zelfstandig Ondernemen en de instellingsspecifieke regeling van de rechtspositie van het personeel",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1015269/VolledigDocument?datum=2005-01-01",
+  "source_sha256": "8a64ad6360bee987789ca530c1c3733a965d75c8e58bee9807e9781fc23552be",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1015269&param=informatie",
+  "as_of": "2005-01-01",
+  "made": "2006-09-29",
+  "gazette": "2006-12-12",
+  "numac": 2006036781,
+  "document_start": "2005-01-01",
+  "document_end": null,
+  "in_force": "2005-01-01",
+  "article_versions": 6,
+  "record_form": "consolidated version as in force on 2005-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
