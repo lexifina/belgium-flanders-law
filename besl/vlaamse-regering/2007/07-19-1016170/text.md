@@ -12,6 +12,10 @@ In artikel 1 van het besluit van de Vlaamse Regering van 13 juli 2007 tot uitvoe
 
 In artikel 2 van hetzelfde besluit van 13 juli 2007 wordt de bestaande tekst § 1 en wordt onverminderd vroegere bepalingen en louter ter verduidelijking een § 2 toegevoegd die luidt als volgt :<br /><br />« § 2 Elke heffingsplichtige die de toepassing vraagt van artikel 35quinquies, § 1 moet zelf zorgen voor de nodige meet- en bemonsteringresultaten ».<br /><br />
 
+### ART. 3.
+
+In artikel 3, § 1 van hetzelfde besluit van 13 juli 2007 worden de woorden :<br /><br />« De monsters voor contra - analyses moeten door het erkende laboratorium gedurende vijf werkdagen na het etmaal waarin bemonsterd werd, bewaard worden » . <br /><br />vervangen door :<br /><br />« De monsters en de monsters voor contra-analyses moeten door het erkende laboratorium elk etmaal afgehaald worden. De monsters voor contra-analyse moeten op het exploitatie-adres van het laboratorium dat de monsterneming uitvoert gedurende vijf werkdagen bewaard worden na het etmaal waarin bemonsterd werd ».<br />
+
 ### ART. 4.
 
 In artikel 3, § 6 van hetzelfde besluit van 13 juli 2007 worden de woorden « in deze paragraaf » vervangen door « in dit artikel ».<br />
@@ -19,6 +23,10 @@ In artikel 3, § 6 van hetzelfde besluit van 13 juli 2007 worden de woorden « i
 ### ART. 5.
 
 In artikel 5 van hetzelfde besluit van 13 juli 2007 wordt de bestaande tekst § 1 en wordt onverminderd vroegere bepalingen en louter ter verduidelijking een § 2 toegevoegd die luidt als volgt :<br /><br />« § 2 Elke heffingsplichtige die de toepassing vraagt van artikel 35sexies, § 1 moet zelf zorgen voor de nodige meet- en bemonsteringresultaten ».<br />
+
+### ART. 6.
+
+Artikel 6 van hetzelfde besluit van 13 juli 2007 wordt aangevuld met de volgende leden :<br /><br />« De meet- en bemonsteringresultaten uitgevoerd op de contra-analyses, moeten per aangetekend schrijven en binnen dertig werkdagen na de eerste monsternamedag aan de tegenpartij medegedeeld worden voorzover de heffingsplichtige en/of de Vlaamse Milieumaatschappij die wenst te gebruiken bij de berekening van de heffing.<br /><br />De debietmeting, de monsterneming en de analyses die in opdracht van de heffingsplichtige gebeuren dienen verricht te worden door één en hetzelfde erkend laboratorium ».<br />
 
 ### ART. 7.
 
