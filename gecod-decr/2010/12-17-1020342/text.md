@@ -385,6 +385,10 @@ Voor cursussen godsdienst of niet-confessionele zedenleer geldt een eigen regeli
 
 ## Afdeling 2. Fusie van scholen
 
+### ART. 201.
+
+§ 1. Na vrijwillige fusie van scholen wordt het extra aantal wekelijkse uren-leraar dat aan het schoolbestuur wordt toegekend na fusie, gekoppeld aan de volgende voorwaarden :<br />1° de scholen dienen op 1 februari van het schooljaar voor de fusie de toepasbare rationalisatienorm te bereiken;<br />2° de scholen die na de fusie overblijven, moeten onder hetzelfde schoolbestuur ressorteren;<br />3° het aantal scholen dat na de fusie overblijft, moet kleiner zijn dan het oorspronkelijk aantal scholen en mag gedurende de eerste vier schooljaren na de fusie niet toenemen;<br />4° in het onderwijsaanbod van de scholen die na de fusie overblijven, zijn - met uitzondering van de eerste graad - geen overlappingen van structuuronderdelen toegelaten.<br /><br />§ 2. Het extra aantal wekelijkse uren-leraar wordt vastgesteld als volgt :<br />1° tussen de som van het respectievelijk aantal wekelijkse uren-leraar dat op basis van de regelmatige schoolbevolking van 1 februari van het schooljaar voorafgaand aan de fusie overeenkomstig de reglementering wordt toegekend zonder met de fusie rekening te houden en een analoge som wel rekening houdend met de fusie, wordt het verschil gemaakt;<br />2° van het verschil, bedoeld in 1°, wordt aan het schoolbestuur toegekend :<br />a) gedurende het eerste schooljaar vanaf de fusie : 100 %;<br />b) gedurende het tweede schooljaar vanaf de fusie : 75 %;<br />c) gedurende het derde schooljaar vanaf de fusie : 50 %;<br />d) gedurende het vierde schooljaar vanaf de fusie : 25 %. <br /><br />§ 3. De bepalingen van dit artikel worden evenwel buiten werking gesteld vanaf het schooljaar 2010-2011, behoudens voor vrijwillige fusies die uiterlijk op 1 september 2009 hebben plaatsgevonden. (200)
+
 ## HOOFDSTUK 5. [... (geschr. decr. 19 juli 2013, art. III.49, I: 1 januari 2014)] Overheveling
 
 ## Afdeling 1. Toepassingsgebied
