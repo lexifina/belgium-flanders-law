@@ -1,0 +1,17 @@
+{
+  "codex_id": 1014868,
+  "title": "Besluit van de Vlaamse Regering van 2006-05-19 houdende de aanpassing van de regelgeving van het beleidsdomein Mobiliteit en Openbare Werken als gevolg van het bestuurlijk beleid",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1014868/VolledigDocument?datum=2004-06-30",
+  "source_sha256": "b50c76fc5330d0fcab94a006310125fc5cc1347009e90f5cb59e88d11942aec1",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1014868&param=informatie",
+  "as_of": "2004-06-30",
+  "made": "2006-05-19",
+  "gazette": "2006-08-24",
+  "numac": 2006036180,
+  "document_start": null,
+  "document_end": null,
+  "in_force": "2004-06-30",
+  "article_versions": 24,
+  "record_form": "consolidated version as in force on 2004-06-30; oldest version available; future article versions excluded; article text as the API gives it"
+}
