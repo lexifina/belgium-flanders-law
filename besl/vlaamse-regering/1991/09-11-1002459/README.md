@@ -1,0 +1,5 @@
+# Besluit van de Vlaamse Regering van 1991-09-11 tot wijziging, met betrekking tot outplacement en loopbaanbegeleiding, van het besluit van de Vlaamse regering van 21 december 1988 houdende de organisatie van de arbeidsbemiddeling en de beroepsopleiding
+
+Official record: https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1002459&param=informatie
+
+Metadata and official link only: the Codex holds no article text for this instrument.
