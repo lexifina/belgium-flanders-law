@@ -1,0 +1,5 @@
+# Decreet van 2004-05-07 houdende instemming met: 1. de Overeenkomst betreffende de bouw en exploitatie van een Europese synchrotronstralingsinstallatie, de bijlagen 1 tot 4, de Slotakte en de resoluties 1 tot 5, ondertekend in Parijs op 16 december 1988; 2. de Overeenkomst tussen het Koninkrijk België en het Koninkrijk der Nederlanden betreffende de gezamenlijke deelname aan de Europese synchrotronstralingsinstallatie, alsook de wijze van uitvoering daarvan, en de briefwisseling, ondertekend in Brussel op 12 november 1990; 3. het Protocol van toetreding van het Koninkrijk der Nederlanden tot de overeenkomst van 16 december 1988 betreffende de bouw en exploitatie van een Europese installatie voor synchrotronstraling en de bijlage 1 bij het Protocol, ondertekend in Parijs op 9 december 1991; 4. het Addendum bij de Slotakte van de Conferentie van Gevolmachtigden voor de oprichting van een Europese installatie voor synchrotroninstallatie, ondertekend te Parijs op 16 december 1988
+
+Official record: https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1013233&param=informatie
+
+Metadata and official link only: the Codex holds no article text for this instrument.
