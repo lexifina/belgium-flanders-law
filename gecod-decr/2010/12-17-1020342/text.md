@@ -134,6 +134,10 @@ In geval van overname van een school door een ander schoolbestuur, wordt het bed
 
 ## Onderafdeling 4. Bijzondere maatregelen voor technisch of beroepsgerichte opleidingen
 
+### ART. 47.
+
+§ 1. De Vlaamse Regering kan, afhankelijk van de beschikbare begrotingskredieten, aan scholen met technisch of beroepsgerichte opleidingen, extra middelen toekennen die bestemd zijn voor investeringen in didactische uitrusting. Onder investering in didactische uitrusting wordt verstaan : de aankoop van didactische uitrusting of de beveiliging van reeds aanwezige didactische uitrusting.<br /><br />De Vlaamse Regering bepaalt de lijst van structuuronderdelen die onder de investeringsoperatie vallen.<br /><br />§ 2. Per regelmatige leerling op de door de Vlaamse Regering te bepalen teldatum worden extra middelen toegekend.<br /><br />Om voor extra middelen in aanmerking te kunnen komen, moeten de betrokken scholen een investeringsplan opstellen. Het investeringsplan moet voldoen aan de door de Vlaamse Regering vastgelegde, minimale onderdelen.<br /><br />§ 3. De beoordeling van de ingediende investeringsplannen gebeurt door een commissie die paritair is samengesteld uit drie afgevaardigden van het Vlaams Ministerie van Onderwijs en Vorming en twee afgevaardigden van de onderwijsinspectie, enerzijds, en één afgevaardigde per onderwijsnet, voorgedragen door het Gemeenschapsonderwijs en de betrokken representatieve verenigingen van schoolbesturen van het gesubsidieerd onderwijs, en één afgevaardigde van het Vlaams Agentschap voor Ondernemersvorming-Syntra Vlaanderen, anderzijds.<br /><br />De commissie stelt haar huishoudelijk reglement op en kan experten toelaten tot de vergadering.<br /><br />De commissie garandeert dat een aanvankelijk als « onvoldoende » bevonden plan, bijgestuurd kan worden en éénmaal opnieuw mag worden ingediend binnen een door haar vooropgestelde termijn, die evenwel nooit minder kan zijn dan 10 werkdagen te rekenen vanaf de beslissing van de commissie.<br /><br />§ 4. De Vlaamse Regering kan verdere regels vastleggen inzake de toekenning, de uitbetaling en de controle op de aanwending van deze extra middelen. (46)<br /><br />
+
 ## [Onderafdeling 5. Extra financiering en subsidiëring in het kader van de maatregelen VV15 Digisprong en VV17 Van kwetsbaar naar weerbaar van het Vlaams relanceplan voor schooljaren 2021-2022 en 2022- 2023 (ing. decr. 9 juli 2021, art. 37, I: 1 september 2021)]
 
 ## HOOFDSTUK 4. Scholengemeenschappen
@@ -159,6 +163,10 @@ In geval van overname van een school door een ander schoolbestuur, wordt het bed
 § 1. Een CABO heeft tot taak gemotiveerde adviezen uit te brengen in de gevallen haar opgedragen door de Vlaamse minister, bevoegd voor het onderwijs. <br /><br />De Vlaamse Regering kan haar ook met andere opdrachten belasten. <br /><br />§ 2. In de hierna volgende gevallen heeft de CABO een recht van beslissing :<br />1° de tijdelijke of permanente vrijstelling van de leerplicht voor een leerling; <br />2° het beroep ingesteld tegen een advies of een beslissing uitgebracht door een persoon of een instantie in uitvoering van de codificatie betreffende het secundair onderwijs of een uitvoeringsbesluit.<br /><br />§ 3. De voorzitters van de Commissies van advies voor het buitengewoon onderwijs zenden jaarlijks een activiteitsverslag aan de Vlaamse minister, bevoegd voor het onderwijs. (67)
 
 ## [Afdeling 1. (verv. decr. 21 maart 2014, art. III.4, I: 1 april 2014)] Representatieve vakorganisaties
+
+### ART. 69.
+
+§ 1. De vakorganisaties aangesloten bij een in de Sociaal-Economische Raad van Vlaanderen vertegenwoordigde syndicale organisatie, kunnen beschikken over personeelsleden uit het onderwijs met verlof wegens bijzondere opdracht in het belang van het onderwijs, ofwel een verlof wegens vakbondsopdracht overeenkomstig de geldende reglementaire bepalingen. <br /><br />In tegenstelling met de geldende reglementaire bepalingen zijn de representatieve vakorganisaties er evenwel niet toe gehouden, voor de in dit artikel bedoelde personeelsleden die genieten van een verlof, aan de overheid een som terug te storten die gelijk is aan het globaal bedrag van de salarissen, salaristoelagen, vergoedingen en toelagen die door de overheid aan deze personeelsleden werden uitgekeerd. <br /><br />Deze personeelsleden moeten door die vakorganisaties belast worden met de begeleiding van onderwijsvernieuwingen voor wat betreft de gevolgen ervan voor de personeelsleden en met de begeleiding en de ondersteuning van de lokale comités. <br /><br />§ 2. Het totaal aantal toegevoegde personeelsleden mag voor de verschillende in § 1 bedoelde vakorganisaties samen niet meer dan vijftien bedragen.<br /><br />§ 3. De Vlaamse Regering bepaalt de wijze van verdeling van de hier bedoelde personeelsleden over de betrokken organisaties en legt de aanvraagprocedure vast. (68)
 
 ## [Afdeling 2. (verv. decr. 21 maart 2014, art. III.4, I: 1 april 2014)] Overlegorganen inzake fundamentele onderwijshervormingen
 
@@ -284,9 +292,29 @@ Vanaf het schooljaar 2009-2010 bestaat het voltijds secundair onderwijs uit :<br
 
 Teneinde overeenstemming te bereiken met de structuur, zoals vermeld in voorgaande artikel, wordt per 1 september 2009 :<br />1° de optie verpleegkunde van de vierde graad van het beroepssecundair onderwijs van rechtswege omgezet naar een gelijknamige opleiding van het hoger beroepsonderwijs met een duurtijd van zes semesters;<br />2° elke tot en met het schooljaar 2008-2009 bestaande optie van het derde leerjaar van de derde graad van het technisch of het kunstsecundair onderwijs aangeduid als specialisatiejaar, van rechtswege omgezet naar een gelijknamige optie aangeduid als Se-n-Se met een duurtijd van twee semesters en gerangschikt als specifiek. (124)
 
+### ART. 126.
+
+Het aanbod in het secundair onderwijs, met uitzondering van de eerste graad, wordt ingedeeld in studiegebieden.<br /><br />De studiegebieden zijn :<br />1) algemeen secundair onderwijs;<br />2) sport;<br />3) auto;<br />4) bouw;<br />5) chemie;<br />6) decoratieve technieken;<br />7) fotografie;<br />8) glastechnieken;<br />9) grafische communicatie en media;<br />10) handel;<br />11) hout;<br />12) juwelen;<br />13) koeling en warmte;<br />14) land- en tuinbouw;<br />15) lichaamsverzorging;<br />16) maatschappelijke veiligheid;<br />17) maritieme opleidingen;<br />18) mechanica-elektriciteit;<br />19) mode;<br />20) muziekinstrumentenbouw;<br />21) optiek;<br />22) orthopedische technieken;<br />23) personenzorg;<br />24) tandtechnieken;<br />25) textiel;<br />26) toerisme;<br />27) voeding;<br />28) ballet;<br />29) beeldende kunsten;<br />30) podiumkunsten.<br /><br />De Vlaamse Regering rangschikt elk structuuronderdeel in één van desbetreffende studiegebieden. <br /><br />Voor de toepassing van deze bepaling wordt met structuuronderdeel bedoeld : een optie van de tweede, derde of vierde graad en de opleiding verpleegkunde van het hoger beroepsonderwijs. (125)
+
+### ART. 127.
+
+De Vlaamse Regering wijst de structuuronderdelen aan die specifiek zijn; alle resterende structuuronderdelen worden als niet-specifiek beschouwd. In afwijking op deze bepaling zijn opties aangeduid als Se-n-Se steeds specifiek. Voor de toepassing van deze bepaling wordt met structuuronderdelen bedoeld : de basisopties, de beroepenvelden, de opties van de tweede, derde en vierde graad, en de opleiding verpleegkunde van het hoger beroepsonderwijs. (126)<br />
+
+### ART. 128.
+
+De Vlaamse Regering kan beslissen om omzettingen van bestaande naar nieuwe benamingen van structuuronderdelen door te voeren. <br /><br />Voor de toepassing van deze bepaling wordt met structuuronderdelen bedoeld : de basisopties, de beroepenvelden en de opties van de tweede en derde graad. (127)
+
+### ART. 129.
+
+§ 1. De Vlaamse Regering kan, afhankelijk van maatschappelijke, onderwijskundige of technologische ontwikkelingen of afhankelijk van arbeidsmarktbehoeften, nieuwe structuuronderdelen vastleggen. Ze kan hiertoe zelf het initiatief nemen of onderbouwde voorstellen in overweging nemen die door onderwijsverstrekkers of derden worden ingediend. Voor die voorstellen bepaalt de Vlaamse Regering de indienings- en adviseringsprocedure.<br /><br />Als een nieuw structuuronderdeel wordt vastgelegd, dan bepaalt de Vlaamse Regering :<br />1° of dit structuuronderdeel al dan niet als specifiek moet worden beschouwd, behoudens voor de Se-n-Se die altijd als specifiek worden beschouwd;<br />2° in welk studiegebied dit structuuronderdeel, voor zover het de tweede of de derde graad betreft, wordt gerangschikt;<br />3° voor wat betreft de Se-n-Se : de duurtijd uitgedrukt in semesters.<br /><br />Voor uitzonderlijke gevallen kan de Vlaamse Regering bepalen dat tijdens het eerste schooljaar waarin een geprogrammeerd structuuronderdeel wordt georganiseerd de telling van regelmatige leerlingen of cursisten van dat structuuronderdeel, voor de toepassing van de omkaderingsnormen voor de diverse personeelscategorieën enerzijds en de bepaling van de werkingsmiddelen anderzijds, vastgesteld wordt op een bepaalde datum of data in de loop van het betrokken schooljaar. Onder uitzonderlijke gevallen worden programmaties van structuuronderdelen verstaan die :<br />a) rechtstreeks en onmiddellijk tegemoetkomen aan dringende of onvoorziene lokale of regionale ontwikkelingen op socio-economisch, maatschappelijk of onderwijskundig vlak, waarbij de betrokken schoolbesturen tot een ingreep in het studieaanbod genoodzaakt zijn; en <br />b) in de aanvangsperiode van effectieve organisatie de inzet van een groter aantal personele en materiële middelen vereisen dan in het gewone financierings- en subsidiëringssysteem is voorzien.<br /><br />§ 2. Voor de toepassing van § 1 wordt met structuuronderdelen bedoeld : basisopties, beroepenvelden, opties van de tweede of derde graad. (128)
+
 ### ART. 131.
 
 De Vlaamse Regering neemt de nodige maatregelen om alle opties aangeduid als Se-n-Se als vermeld in artikel 125, 2°, te toetsen aan erkende onderwijskwalificaties en te bepalen :<br />1° of die optie als Se-n-Se blijft behouden, in een ander structuuronderdeel wordt ondergebracht dan wel wordt opgeheven;<br />2° tenzij opgeheven, onder welke benaming en in welke onderwijsvorm en studiegebied die optie verder wordt ingericht;<br />3° of de voor die optie vigerende leerplannen al dan niet hun goedkeuring behouden;<br />4° indien Se-n-Se, met welke duurtijd die optie verder wordt ingericht.<br /><br />De beslissingen van de Vlaamse Regering zullen voor de schoolbesturen en scholen in werking treden per 1 september 2012, met inbegrip van, in voorkomend geval, de toepassing van nieuwe leerplannen die overeenkomstig de vigerende regelgeving ter zake door de Vlaamse Regering zijn goedgekeurd. (130)
+
+### ART. 133.
+
+De opties « elektronica militaire wapensystemen », « militaire en sociale wetenschappen » en « militaire bewapeningstechnieken » van het eerste en het tweede leerjaar van de derde graad van het technisch secundair onderwijs zijn voorbehouden voor de instellingen van de Krijgsmacht. Op deze opties zijn de bepalingen van artikelen 126, 127 en 128 niet van toepassing. (132)
 
 ## [Afdeling 1/1. Structuur en organisatie op macroniveau (ing. decr. 20 april 2018, art. 8, I: 1 september 2019)]
 
@@ -399,25 +427,93 @@ Voor cursussen godsdienst of niet-confessionele zedenleer geldt een eigen regeli
 
 ## Afdeling 1. Rationalisatienormen
 
+### ART. 189.
+
+Voor de toepassing van de rationalisatienorm worden niet in aanmerking genomen :<br />1° de leerlingen van het onthaaljaar voor anderstalige nieuwkomers;<br />2° de leerlingen van het derde leerjaar van de derde graad, ingericht als een voorbereidend jaar op het hoger onderwijs;<br />3° de leerlingen van de Se-n-Se. (188)<br />
+
+### ART. 190.
+
+§ 1.Voor elke school geldt een rationalisatienorm.<br /><br />§ 2. De rationalisatienorm wordt, op basis van de gradenstructuur van de school, als volgt vastgesteld :<br />1° voor de scholen die niet ressorteren onder 2° : <br />a) met enkel een eerste graad : 111; <br />b) met een eerste + tweede graad : 200; <br />c) met een tweede + derde graad : 150; <br />d) met een eerste + tweede + derde graad : 261; <br />2° voor de scholen gelegen in het administratief arrondissement Brussel-hoofdstad of in een gemeente met een bevolkingsdichtheid van minder dan 250 inwoners per km2 en voor de scholen waarvan meer dan 75 % van de regelmatige leerlingen in een internaat verblijven : <br />a) met enkel een eerste graad : 83; <br />b) met een eerste + tweede graad : 150; <br />c) met een tweede + derde graad : 113; <br />d) met een eerste + tweede + derde graad : 196. (189)
+
+### ART. 191.
+
+In afwijking van artikel 190, § 2, wordt de rationalisatienorm voor een school die tot een scholengemeenschap behoort met 15 % verminderd zoals hierna bepaald : <br />1° voor de scholen die niet ressorteren onder 2° : <br />a) met enkel een eerste graad : 94; <br />b) met een eerste + tweede graad : 170; <br />c) met een tweede + derde graad : 129; <br />d) met een eerste + tweede + derde graad : 223; <br />2° voor de scholen gelegen in het administratief arrondissement Brussel-hoofdstad of in een gemeente met een bevolkingsdichtheid van minder dan 250 inwoners per km2 en voor de scholen waarvan meer dan 75 % van de regelmatige leerlingen in een internaat verblijven : <br />a) met enkel een eerste graad : 71; <br />b) met een eerste + tweede graad : 128; <br />c) met een tweede + derde graad : 97; <br />d) met een eerste + tweede + derde graad : 168. (190)
+
+### ART. 192.
+
+§ 1. In afwijking van artikel 190, § 2, wordt de rationalisatienorm voor een school zonder een derde graad die gelegen is op een afstand van ten minste 4 km van een andere school van hetzelfde onderwijsnet en die, voor wat het gesubsidieerd vrij onderwijs betreft, ten minste eenzelfde erkende godsdienst organiseert of levensbeschouwing aanhangt, waarin dezelfde graad of graden georganiseerd worden, met 33 % verminderd zoals hierna bepaald : <br />1° voor de scholen die niet ressorteren onder 2° : <br />a) met enkel een eerste graad : 74; <br />b) met een eerste + tweede graad : 133;<br />2° voor de scholen gelegen in het administratief arrondissement Brussel-hoofdstad of in een gemeente met een bevolkingsdichtheid van minder dan 250 inwoners per km2 en voor de scholen waarvan meer dan 75 % van de regelmatige leerlingen in een internaat verblijven : <br />a) met enkel een eerste graad : 55; <br />b) met een eerste + tweede graad : 99. <br /><br />§ 2. In afwijking van artikel 190, § 2, wordt de rationalisatienorm voor een school met een derde graad die gelegen is op een afstand van ten minste 6 km van een andere school van hetzelfde onderwijsnet en die, voor wat het gesubsidieerd vrij onderwijs betreft, ten minste eenzelfde erkende godsdienst organiseert of levensbeschouwing aanhangt, waarin dezelfde graad georganiseerd wordt, met 33 % verminderd zoals hierna bepaald : <br />1° voor de scholen die niet ressorteren onder 2° : <br />a) met een tweede + derde graad : 100; <br />b) met een eerste + tweede + derde graad : 174; <br />2° voor de scholen gelegen in het administratief arrondissement Brussel-hoofdstad of in een gemeente met een bevolkingsdichtheid van minder dan 250 inwoners per km2 en voor de scholen waarvan meer dan 75 % van de regelmatige leerlingen in een internaat verblijven : <br />a) met een tweede + derde graad : 75; <br />b) met een eerste + tweede + derde graad : 130. <br /><br />§ 3. Voor de vaststelling of een school binnen de in § 1 of § 2 vermelde afstand valt, wordt geen rekening gehouden met : <br />1° een school die slechts unieke structuuronderdelen aanbiedt; voor de toepassing van deze bepaling wordt bedoeld met : <br />a) uniek : per onderwijsnet slechts een keer georganiseerd per provincie dan wel in het administratief arrondissement Brussel-hoofdstad; <br />b) structuuronderdeel : <br />- een basisoptie; <br />- een beroepenveld; <br />- een optie van de tweede, derde of vierde graad van een bepaalde onderwijsvorm; <br />- het derde leerjaar van de derde graad van het beroepssecundair onderwijs, al dan niet georganiseerd als een specialisatiejaar; <br />- een opleiding van het hoger beroepsonderwijs;<br />2° een school van het gesubsidieerd vrij onderwijs : <br />a) die noch het vak godsdienst noch het vak niet-confessionele zedenleer maar wel het vak cultuurbeschouwing of eigen cultuur en religie organiseert; en <br />b) waarvoor het schoolbestuur uitsluitend eigen leerplannen hanteert die door de Vlaamse Regering zijn goedgekeurd; en <br />c) die ressorteert onder een schoolbestuur dat in de betrokken gemeente slechts één school organiseert. (191)
+
+### ART. 193.
+
+§ 1. In afwijking van artikel 190, § 2, wordt de rationalisatienorm voor een school zonder een derde graad die gelegen is op een afstand van ten minste 8 km van een andere school van hetzelfde onderwijsnet en die, voor wat het gesubsidieerd vrij onderwijs betreft, ten minste eenzelfde erkende godsdienst organiseert of levensbeschouwing aanhangt, waarin dezelfde graad of graden georganiseerd worden, met 66 % verminderd zoals hierna bepaald : <br />1° met enkel een eerste graad : 37; <br />2° met een eerste + tweede graad : 67.<br /><br />§ 2. In afwijking van artikel 190, § 2, wordt de rationalisatienorm voor een school met een derde graad die gelegen is op een afstand van ten minste 12 km van een andere school van hetzelfde onderwijsnet en die, voor wat het gesubsidieerd vrij onderwijs betreft, ten minste eenzelfde erkende godsdienst organiseert of levensbeschouwing aanhangt, waarin dezelfde graad georganiseerd wordt, met 66 % verminderd zoals hierna bepaald :<br />1° met een tweede + derde graad : 50; <br />2° met een eerste + tweede + derde graad : 87. <br /><br />§ 3. Voor de vaststelling of een school binnen de in § 1 of § 2 vermelde afstand valt, wordt geen rekening gehouden met scholen, bedoeld in artikel 192, § 3. (192)
+
+### ART. 194.
+
+§ 1. In afwijking van artikel 190, § 2, wordt de rationalisatienorm voor een school die slechts unieke structuuronderdelen aanbiedt zoals bedoeld in artikel 192, § 3, 1°, als volgt vastgesteld : <br />1° met enkel een eerste graad : 37; <br />2° met een eerste + tweede graad : 67; <br />3° met een tweede + derde graad : 50; <br />4° met een eerste + tweede + derde graad : 87. <br /><br />§ 2. In afwijking van artikel 190, § 2, wordt de rationalisatienorm voor een school van het gesubsidieerd vrij onderwijs : <br />a) die noch het vak godsdienst noch het vak niet-confessionele zedenleer maar wel het vak cultuurbeschouwing of eigen cultuur en religie organiseert; en <br />b) waarvoor het schoolbestuur uitsluitend eigen leerplannen hanteert die door de Vlaamse Regering zijn goedgekeurd; en <br />c) die ressorteert onder een schoolbestuur dat in de betrokken gemeente slechts één school organiseert, als volgt vastgesteld : <br />1° met enkel een eerste graad : 37; <br />2° met een eerste + tweede graad : 67; <br />3° met een tweede + derde graad : 50; <br />4° met een eerste + tweede + derde graad : 87. (193)
+
+### ART. 195.
+
+§ 1. De rationalisatienorm voor een school die enkel de vierde graad of hoger beroepsonderwijs organiseert, wordt vastgesteld op 100. <br /><br />§ 2. De respectieve rationalisatienormen vermeld in artikel 190 tot en met 194 worden verhoogd met 100 indien de school naast andere graden eveneens een vierde graad of hoger beroepsonderwijs organiseert. (194)
+
+### ART. 196.
+
+§ 1. In afwijking van artikel 190, § 2, wordt per graad de rationalisatienorm voor een school die uitsluitend zeevisserijonderwijs organiseert als volgt vastgesteld : <br />1° eerste graad : 37; <br />2° tweede graad : 30; <br />3° derde graad : 20. <br /><br />§ 2. De rationalisatienormen vermeld in § 1 zijn niet vereist indien de school de enige is die in het betrokken onderwijsnet zeevisserijonderwijs organiseert. (195)
+
+### ART. 198.
+
+Elke school die de rationalisatienorm niet bereikt op 1 februari van het voorafgaand schooljaar, dient : <br />1° hetzij over te gaan tot geleidelijke afbouw, leerjaar na leerjaar te beginnen met het eerste, van de af te bouwen graad of graden of tot geleidelijke afbouw van het hoger beroepsonderwijs, onverminderd het in artikel 134 gestelde;<br />2° hetzij te fusioneren met een andere school voor voltijds gewoon secundair onderwijs. (197)
+
 ## Afdeling 2. Fusie van scholen
+
+### ART. 200.
+
+Een fusie van scholen, al dan niet ingevolge het niet bereiken van de toepasbare rationalisatienorm door één of meer scholen : <br />1° houdt het ontstaan in van een school die niet als nieuw wordt beschouwd en die alle voorheen bestaande vestigingsplaatsen mag omvatten waaronder één hoofdvestigingsplaats; <br />2° wordt in een keer tot stand gebracht, wat impliceert dat er nog slechts één schoolbestuur en één directeur is; <br />3° vindt plaats : <br />a) hetzij door samenvoeging tot één school van twee of meer scholen die gelijktijdig worden afgeschaft; <br />b) hetzij door samenvoeging van twee of meer scholen waarbij één blijft bestaan die de andere opslorpt; <br />4° kan betrekking hebben op één of meer scholen die in geleidelijke afbouw zijn. (199)
 
 ### ART. 201.
 
 § 1. Na vrijwillige fusie van scholen wordt het extra aantal wekelijkse uren-leraar dat aan het schoolbestuur wordt toegekend na fusie, gekoppeld aan de volgende voorwaarden :<br />1° de scholen dienen op 1 februari van het schooljaar voor de fusie de toepasbare rationalisatienorm te bereiken;<br />2° de scholen die na de fusie overblijven, moeten onder hetzelfde schoolbestuur ressorteren;<br />3° het aantal scholen dat na de fusie overblijft, moet kleiner zijn dan het oorspronkelijk aantal scholen en mag gedurende de eerste vier schooljaren na de fusie niet toenemen;<br />4° in het onderwijsaanbod van de scholen die na de fusie overblijven, zijn - met uitzondering van de eerste graad - geen overlappingen van structuuronderdelen toegelaten.<br /><br />§ 2. Het extra aantal wekelijkse uren-leraar wordt vastgesteld als volgt :<br />1° tussen de som van het respectievelijk aantal wekelijkse uren-leraar dat op basis van de regelmatige schoolbevolking van 1 februari van het schooljaar voorafgaand aan de fusie overeenkomstig de reglementering wordt toegekend zonder met de fusie rekening te houden en een analoge som wel rekening houdend met de fusie, wordt het verschil gemaakt;<br />2° van het verschil, bedoeld in 1°, wordt aan het schoolbestuur toegekend :<br />a) gedurende het eerste schooljaar vanaf de fusie : 100 %;<br />b) gedurende het tweede schooljaar vanaf de fusie : 75 %;<br />c) gedurende het derde schooljaar vanaf de fusie : 50 %;<br />d) gedurende het vierde schooljaar vanaf de fusie : 25 %. <br /><br />§ 3. De bepalingen van dit artikel worden evenwel buiten werking gesteld vanaf het schooljaar 2010-2011, behoudens voor vrijwillige fusies die uiterlijk op 1 september 2009 hebben plaatsgevonden. (200)
 
+### ART. 202.
+
+§ 1. Na vrijwillige fusie van scholen, gekoppeld aan de voorwaarden genoemd in artikel 201, § 1, wordt aan het schoolbestuur gedurende twee schooljaren vanaf de fusie één fusiebegeleider bij één van de betrokken scholen toegekend. <br /><br />§ 2. De functie van fusiebegeleider heeft betrekking op één personeelslid naar keuze van het bestuurspersoneel dat door de fusie overeenkomstig de reglementering ter beschikking is gesteld wegens ontstentenis van betrekking; de aanstelling als fusiebegeleider wordt beschouwd als reaffectatie of wedertewerkstelling. De verplichting tot reaffectatie en wedertewerkstelling buiten de fusie-school of buiten de scholen die deelnemen aan de fusie wordt voor twee schooljaren opgeschort. <br /><br />Indien er door de fusie en op datum van de fusie een nieuwe betrekking in het ambt van adjunct-directeur geschapen wordt, dan mag dit niet toegewezen worden aan een nieuw personeelslid als er nog terbeschikkinggestelden zijn in het ambt van directeur of adjunct-directeur.<br /><br />§ 3. De bepalingen van dit artikel worden buiten werking gesteld vanaf het schooljaar 2010-2011, behoudens voor vrijwillige fusies die uiterlijk op 1 september 2009 hebben plaatsgevonden. (201)
+
 ## HOOFDSTUK 5. [... (geschr. decr. 19 juli 2013, art. III.49, I: 1 januari 2014)] Overheveling
 
 ## Afdeling 1. Toepassingsgebied
 
+### ART. 203.
+
+De bepalingen van dit hoofdstuk zijn van toepassing op het voltijds gewoon secundair onderwijs. De bepalingen van afdeling 2 zijn vanaf het schooljaar 1999-2000 niet van toepassing op scholen die tot een scholengemeenschap behoren. <br /><br />De bepalingen inzake omvormingen en overhevelingen worden buiten werking gesteld vanaf het schooljaar 2010-2011. <br /><br />In afwijking op deze bepaling kan in uitzonderlijke gevallen de Vlaamse Regering aan een schoolbestuur toelating geven tot overheveling of omvorming :<br />1° na schriftelijke aanvraag van dat schoolbestuur, ingediend bij het Agentschap voor Onderwijsdiensten uiterlijk 30 november van het voorafgaand schooljaar en vergezeld van het protocol van de onderhandeling ter zake in het bevoegd lokaal comité, en <br />2° na advies van enerzijds de Vlaamse Onderwijsraad en anderzijds het Agentschap voor Onderwijsdiensten en de onderwijsinspectie. (202)
+
+### ART. 204.
+
+Een omvorming of overheveling kan door de Vlaamse Gemeenschap slechts worden gefinancierd of gesubsidieerd als ze in overeenstemming is met de afspraken, bedoeld in artikel 57, 1°. (203)
+
 ## Afdeling 2. Omvorming
 
+### ART. 205.
+
+§ 1. Door de Vlaamse Gemeenschap kan een in de betrokken school op 1 oktober van het voorafgaand schooljaar niet georganiseerd structuuronderdeel worden gefinancierd of gesubsidieerd, als aan alle volgende voorwaarden gelijktijdig is voldaan : <br />1° het structuuronderdeel ontstaat door omvorming van een op 1 oktober van het voorafgaand schooljaar in de school ingericht structuuronderdeel van dezelfde groep, bedoeld in § 2; <br />2° de omvorming naar een specifiek structuuronderdeel kan slechts plaatsvinden vanuit een ander specifiek structuuronderdeel van dezelfde groep, bedoeld in § 2, en voorzover is voldaan, vanaf het schooljaar 1999-2000, aan artikel 181, § 2 en § 3, en artikel 186; <br />3° de omvorming gebeurt steeds binnen eenzelfde studiegebied dat op 1 oktober van het voorafgaand schooljaar werd georganiseerd; in afwijking hiervan kan, voor de derde leerjaren van de derde graad en Se-n-Se, de omvorming plaatsvinden tussen verschillende studiegebieden die op 1 oktober van het voorafgaand schooljaar werden georganiseerd; <br />4° de omvorming van een specifieke optie naar een niet- specifieke optie van de tweede of de derde graad en de omvorming van een specifiek naar een niet-specifiek derde leerjaar van de derde graad is slechts mogelijk indien op 1 oktober van het voorafgaand schooljaar in de school tenminste één niet-specifieke optie van het betrokken studiegebied in het eerste en/of tweede leerjaar van de betrokken graad werd ingericht; <br />5° de omvorming mag er geen aanleiding toe geven dat afbreuk wordt gedaan vanaf het schooljaar 1999-2000 aan artikel 188;<br />6° een omvorming naar een derde leerjaar van de derde graad, georganiseerd als een specialisatiejaar kinderzorg of thuis- en bejaardenzorg van het beroepssecundair onderwijs, is niet mogelijk; <br />7° voor een optie van de tweede of derde graad vindt de omvorming geleidelijk, leerjaar na leerjaar, plaats, te beginnen met het eerste. <br /><br />§ 2. De respectieve groepen van structuuronderdelen zijn : <br />1° de basisopties en beroepenvelden;<br />2° de opties van de tweede graad; <br />3° de opties van de derde graad; <br />4° de derde leerjaren van de derde graad, georganiseerd als een voorbereidend jaar op het hoger onderwijs, als een specialisatiejaar of - in het beroepssecundair onderwijs - niet als een specialisatiejaar;<br />5° de Se-n-Se (204)
+
 ## Afdeling 3. Overheveling
+
+### ART. 206.
+
+§ 1. Door de Vlaamse Gemeenschap kan in een school een structuuronderdeel gefinancierd of gesubsidieerd worden of blijven, als aan alle volgende voorwaarden gelijktijdig is voldaan : <br />1° het structuuronderdeel ontstaat of wordt verder georganiseerd door overheveling van een op 1 oktober van het voorafgaand schooljaar georganiseerd structuuronderdeel in : <br />a) hetzij een andere school van hetzelfde schoolbestuur gelegen in dezelfde gemeente; <br />b) hetzij een andere school van dezelfde scholengemeenschap; <br />c) hetzij, maar wel uitsluitend voor de overheveling van het volledig onderwijsaanbod van een vestigingsplaats, een andere school van hetzelfde schoolbestuur gelegen in een aangrenzende gemeente. <br />2° elke overheveling vindt in een keer plaats. <br /><br />§ 2. Voor de toepassing van § 1 wordt met structuuronderdeel bedoeld : <br />1° hetzij de volledige eerste graad van een school; <br />2° hetzij een volledig studiegebied van een school; <br />3° hetzij een derde leerjaar van de derde graad van het beroepssecundair onderwijs, niet georganiseerd als een specialisatiejaar; indien de overheveling betrekking heeft op alle georganiseerde studiegebieden van het beroepssecundair onderwijs, moet het derde leerjaar voorzover het georganiseerd wordt, mee worden overgeheveld; <br />4° hetzij een bepaalde vestigingsplaats van een school met inbegrip van het volledig aldaar georganiseerd onderwijsaanbod; voorzover dit onderwijsaanbod ook wordt georganiseerd op één of meer andere vestigingsplaatsen van de betrokken school die buiten de overheveling vallen, mag bedoeld onderwijsaanbod gehandhaafd blijven voorzover deze vestigingsplaatsen in een andere gemeente zijn gelegen. <br /><br />§ 3. Voor de toepassing van de omkaderingsnormen van het personeel, de toepassing van de minimale schoolbevolkingsnormen en de vaststelling van het werkingsbudget, wordt de overheveling geacht reeds op 1 februari van het voorafgaand schooljaar te hebben plaatsgevonden. <br /><br />§ 4. Elke overheveling zal het voorwerp uitmaken van onderhandeling in het lokaal comité. (205)
 
 ## HOOFDSTUK 6. Financiering en subsidiëring
 
 ## Afdeling 1. Financiering en subsidiëring van de personeelsleden
 
 ## Onderafdeling 1. Directeur
+
+### ART. 207.
+
+In het voltijds gewoon secundair onderwijs wordt een voltijdse betrekking van directeur toegekend aan een school met ten minste 83 regelmatige leerlingen op de voorziene teldatum. <br /><br />In afwijking hierop wordt aan een school die enkel de eerste graad of de eerste en de tweede graad organiseert en die in de financierings- of subsidiëringsregeling werd opgenomen vanaf 1 september 1989, een voltijdse betrekking van directeur toegekend indien de school ten minste 120 regelmatige leerlingen telt op de voorziene teldatum.<br /><br />Indien het minimum aantal leerlingen niet wordt bereikt, wordt de directeur belast met een onderwijsopdracht die gelijk is aan een halve onderwijsopdracht, verminderd met vier uren-leraar of met een halftijdse opdracht van beheerder van het internaat verbonden aan een school voor zeevisserijonderwijs. De uren-leraar vallen binnen het urenpakket. Hij behoudt echter het recht op de salarisschaal van directeur met een volledige opdracht of op de overeenstemmende salaristoelage. (206)
+
+### ART. 208.
+
+Van zodra de titularis van het ambt van directeur van een ingebouwde middenschool, bedoeld in het tot vaststelling van de benaming en de structuur van de door de Staat georganiseerde instellingen voor secundair onderwijs, ontslag neemt, met pensioen gaat, een terbeschikkingstelling wegens persoonlijke aangelegenheden voorafgaand aan het rustpensioen neemt, muteert of overlijdt, wordt de betrokken school niet meer als een ingebouwde middenschool beschouwd. (207)
 
 ## Onderafdeling 2. Onderwijzend personeel
 
@@ -796,6 +892,10 @@ Voor de toelating tot het buitengewoon secundair onderwijs komen in aanmerking p
 
 ## Onderafdeling 1. Directeur
 
+### ART. 296.
+
+In het buitengewoon secundair onderwijs wordt een voltijdse betrekking van directeur toegekend aan een school met ten minste 72 regelmatige leerlingen op de gebruikelijke teldatum. <br /><br />Indien het minimum aantal leerlingen niet wordt bereikt, wordt de directeur belast met een onderwijsopdracht pro rata van 2 lesuren per volledige reeks van 9 leerlingen die ontbreken. De lesuren vallen binnen het lesurenpakket. Hij behoudt echter het recht op de salarisschaal van directeur met een volledige opdracht of op het overeenstemmende salaris of salaristoelage.<br /><br />Voor de toepassing van deze bepalingen worden enerzijds de regelmatige leerlingen van de opleidingsvormen 1 en 2 vermenigvuldigd met 1,33 en anderzijds in scholen die minimaal 10 regelmatige leerlingen in het geïntegreerd onderwijs begeleiden, de leerlingen die op de eerste schooldag van oktober van het voorafgaande schooljaar in het kader van geïntegreerd onderwijs begeleid werden, in aanmerking genomen. (295)
+
 ## Onderafdeling 2. Onderwijzend personeel
 
 ### ART. 297.
@@ -922,11 +1022,35 @@ In het buitengewoon secundair onderwijs kunnen twee of meer vakken van de algeme
 
 ## Afdeling 1. Structuur en organisatie
 
+### ART. 336.
+
+In opleidingsvorm 3 van het buitengewoon secundair beroepsonderwijs kan een facultatieve integratiefase van één schooljaar worden georganiseerd in de vorm van een alternerende beroepsopleiding voor de verdere vorming van : <br />1° leerlingen die in opleidingsvorm 3 het (kwalificatie)getuigschrift hebben behaald; <br />2° leerlingen die in opleidingsvorm 3 het getuigschrift van verworven competenties hebben behaald die daartoe door de klassenraad bekwaam worden geacht.<br />3° leerlingen die in opleidingsvorm 3 het attest van verworven bekwaamheden hebben behaald die daartoe door de klassenraad bekwaam worden geacht. (335)
+
+### ART. 337.
+
+§ 1. Op weekbasis omvat de integratiefase ten minste 14 lesuren op school, bestaande uit algemene en sociale vorming en beroepsgerichte vorming, aangevuld met 24 uren werkervaring in een regulier bedrijf. <br /><br />§ 2. Op jaarbasis omvat de integratiefase minimaal 1.200 lesuren, waarvan minimaal 450 lesuren algemene en sociale vorming en beroepsgerichte vorming en minimaal 700 uren werkervaring in het werkervaringsbedrijf. (336)
+
+### ART. 338.
+
+De integratiefase wordt bekrachtigd met een getuigschrift van alternerende beroepsopleiding in een bepaalde bedrijfssector, en in voorkomend geval, een (kwalificatie)getuigschrift, een getuigschrift van verworven competenties of een attest van verworven bekwaamheden. (337)
+
+### ART. 339.
+
+De Vlaamse Regering bepaalt de nadere regelen inzake de organisatie van de alternerende beroepsopleiding alsook de vorm van het getuigschrift van alternerende beroepsopleiding. De Vlaamse Regering bepaalt de wijze waarop het lesurenpakket en het werkingsbudget en - in voorkomend geval - de middelen van het Europees Sociaal Fonds worden aangewend voor de organisatie van de alternerende beroepsopleiding. (338)
+
+### ART. 340.
+
+Er kan geen tweede alternerende beroepsopleiding worden georganiseerd. (339)
+
 ## TITEL 4. SPECIFIEKE BEPALINGEN BETREFFENDE DE OPLEIDINGSVORM 4
 
 ## HOOFDSTUK 1. Bepalingen betreffende de scholen van de opleidingsvorm 4, met uitzondering van de ziekenhuisscholen
 
 ## Afdeling 1. Structuur en organisatie
+
+### ART. 350.
+
+De artikelen 124, 125, 126, 127, 128, 129, 130, 131, 133, 134, 135, 136, 137, 148, 149, 150, 151, 152, 153, 154, 155, 156, 157 en 170 zijn eveneens van toepassing in de scholen met opleidingsvorm 4. (349)
 
 ## [HOOFDSTUK 2. Bepalingen betreffende de scholen van opleidingsvorm 4, in de ziekenhuisscholen (ing. decr. 21 maart 2014, art. III.70, I: 1 september 2014)]
 
