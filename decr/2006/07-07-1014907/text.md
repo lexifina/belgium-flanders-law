@@ -50,6 +50,10 @@ In artikel 2 van decreet van 14 juli 1998 houdende diverse maatregelen met betre
 
 ## Afdeling I Volwassenenonderwijs
 
+### ART. IV.4.
+
+Artikel 55 van hetzelfde decreet, gewijzigd bij de decreten van 14 februari 2003 en 24 december 2004, wordt vervangen door wat volgt :<br /><br />« Artikel 55<br />De ambten die de personeelsleden van een centrum kunnen uitoefenen, worden als volgt vastgesteld en ingedeeld : <br />1° in de categorie onderwijzend personeel, in een wervingsambt : <br />a) leraar hoger onderwijs voor sociale promotie;<br />b) leraar secundair onderwijs voor sociale promotie;<br />2° in de categorie bestuurspersoneel :<br />a) in een selectieambt :<br />1) adjunct-directeur voor hoger onderwijs voor sociale promotie;<br />2) adjunct-directeur voor secundair onderwijs voor sociale promotie;<br />3) technisch adviseur; <br />b) in een bevorderingsambt :<br />1) directeur;<br />2) technisch-adviseur coördinator;<br />3° in de categorie ondersteunend personeel, in een wervingsambt, het ambt van administratief medewerker. <br /><br />De ambten van het bestuurs- en ondersteunend personeel worden ten minste per tiende van een eenheid gefinancierd of gesubsidieerd. ». <br /><br />
+
 ## Afdeling II Basiseducatie
 
 ## Afdeling III Deeltijds kunstonderwijs
