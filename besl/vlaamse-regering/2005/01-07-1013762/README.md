@@ -1,0 +1,5 @@
+# Besluit van de Vlaamse Regering van 2005-01-07 tot wijziging van de besluiten van de Vlaamse Regering van 1 juni 1995 houdende algemene en sectorale bepalingen inzake milieuhygiëne, 18 maart 1997 houdende vaststelling van de modaliteiten voor aangifte van de opgepompte of gewonnen hoeveelheden grondwater door de maatschappijen die instaan voor de openbare drinkwatervoorziening ten behoeve van de bepaling van de heffing, 28 juni 2002 tot uitvoering van het hoofdstuk IIIbis van de wet van 26 maart 1971 op de bescherming van de oppervlaktewateren tegen verontreiniging en hoofdstuk IVbis van het decreet van 24 januari 1984 houdende maatregelen inzake het grondwaterbeheer, 5 december 2003 tot vaststelling van het Vlaams reglement inzake afvalvoorkoming en -beheer en 2 april 2004 tot invoering van het integrale milieujaarverslag
+
+Official record: https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1013762&param=informatie
+
+Metadata and official link only: the Codex holds no article text for this instrument.
