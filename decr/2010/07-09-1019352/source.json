@@ -1,0 +1,17 @@
+{
+  "codex_id": 1019352,
+  "title": "Decreet van 2010-07-09 betreffende het onderwijs XX",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1019352/VolledigDocument?datum=1996-11-01",
+  "source_sha256": "071d36f109a725bfc40a1c72d085f37fb502f9ecb6ba7997eb5b488f21ce93d7",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1019352&param=informatie",
+  "as_of": "1996-11-01",
+  "made": "2010-07-09",
+  "gazette": "2010-08-31",
+  "numac": 2010035634,
+  "document_start": "2010-09-01",
+  "document_end": null,
+  "in_force": "1996-11-01",
+  "article_versions": 8,
+  "record_form": "consolidated version as in force on 1996-11-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
