@@ -28,6 +28,10 @@ In artikel 57, tweede lid, van hetzelfde besluit worden de woorden « drie weken
 
 In artikel 60, § 1, van hetzelfde besluit worden de volgende wijzigingen aangebracht :<br />1° er wordt een punt 4° toegevoegd, dat luidt als volgt :<br />« 4° een ongeval van gemeen recht, veroorzaakt door de schuld van een derde; »;<br /><br />2° er wordt een punt 5° toegevoegd, dat luidt als volgt :<br />« 5° de dagen afwezigheid wegens ziekte die zich voordoen binnen zes weken voor de werkelijke bevallingsdatum. Bij geboorte van een meerling wordt die periode verlengd tot acht weken. »<br /><br />
 
+### ART. 19.
+
+In artikel 81, § 1, 2, van hetzelfde besluit worden de woorden « 4 werkdagen » vervangen door de woorden « 10 werkdagen ».<br /><br />
+
 ### ART. 24.
 
 Aan deel VII, titel 1, hoofdstuk 3, afdeling 3, van hetzelfde besluit worden een artikel 94/1 en 94/2 toegevoegd, die luiden als volgt :<br />« Art. 94/1. De verplichte deeltijdse prestaties verricht in het kader van de stages der jongeren gepresteerd binnen de openbare sector worden met ingang van 1 januari 2007 in aanmerking genomen voor de berekening van het salaris.<br /><br />Art. 94/2. De geldelijke anciënniteit van de arrondissementscommissaris bij zijn indiensttreding kan niet minder bedragen dan de geldelijke anciënniteit die in rekening werd gebracht bij een vorige werkgever uit de openbare sector. »<br /><br />
