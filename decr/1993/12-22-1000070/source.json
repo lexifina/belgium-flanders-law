@@ -1,0 +1,13 @@
+{
+  "codex_id": 1000070,
+  "title": "Decreet van 1993-12-22 houdende de middelenbegroting van de Vlaamse Gemeenschap voor het begrotingsjaar 1994",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/WetgevingDocument/1000070",
+  "source_sha256": "3381534176d34fdba5574059b5fe085672902680971b581805d9b7c081548f2f",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1000070&param=informatie",
+  "made": "1993-12-22",
+  "gazette": "1994-04-13",
+  "numac": 1994035259,
+  "in_force": "1994-01-01",
+  "record_form": "metadata and official link only: the Codex holds no article text for this instrument"
+}
