@@ -1,0 +1,17 @@
+{
+  "codex_id": 1024671,
+  "title": "Samenwerkingsakkoord van 1995-05-18 tussen de Federale Staat, de Gemeenschappen en de Gewesten betreffende het statuut van de vertegenwoordigers van de Gemeenschappen en de Gewesten in de diplomatieke en consulaire posten",
+  "type": "Samenwerkingsakkoord",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1024671/VolledigDocument?datum=1995-05-18",
+  "source_sha256": "59cff578e9f9b23c4adfa0a01680672ba4cde948276ca4c4f8bc16819bebe387",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1024671&param=informatie",
+  "as_of": "1995-05-18",
+  "made": "1995-05-18",
+  "gazette": "2014-10-16",
+  "numac": 2014036507,
+  "document_start": "1995-05-18",
+  "document_end": null,
+  "in_force": "1995-05-18",
+  "article_versions": 20,
+  "record_form": "consolidated version as in force on 1995-05-18; oldest version available; future article versions excluded; article text as the API gives it"
+}
