@@ -6,6 +6,10 @@
 
 ## Afdeling I Decreet Basisonderwijs
 
+### ART. II.28.
+
+In artikel 120, § 2, eerste lid, en § 3, eerste lid, van hetzelfde decreet worden tussen de woorden « van dezelfde groep » en de woorden « waar onderwijs van hetzelfde niveau gegeven wordt » de woorden « en van hetzelfde taalstelsel » ingevoegd.<br /><br />
+
 ## Afdeling II Inwerkingtreding
 
 ## HOOFDSTUK III Secundair onderwijs
