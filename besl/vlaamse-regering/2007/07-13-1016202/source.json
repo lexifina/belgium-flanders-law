@@ -2,16 +2,16 @@
   "codex_id": 1016202,
   "title": "Besluit van de Vlaamse Regering van 2007-07-13 tot uitvoering van hoofdstuk IIIbis van de wet van 26 maart 1971 op de bescherming van de oppervlaktewateren tegen verontreiniging",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1016202/VolledigDocument?datum=1994-01-01",
-  "source_sha256": "fff34b57c2e4c3dc70a67b8234038d891e2bccad791f17fc3ff4eae23ae9ccec",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1016202/VolledigDocument?datum=1994-05-09",
+  "source_sha256": "2bc591d34c0c61317ab49d53361db06e2286101d0c95f030c7d479bbf2130df0",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1016202&param=informatie",
-  "as_of": "1994-01-01",
+  "as_of": "1994-05-09",
   "made": "2007-07-13",
   "gazette": "2007-10-04",
   "numac": 2007036608,
   "document_start": "1993-01-01",
   "document_end": "2016-02-29",
-  "in_force": "1994-01-01",
+  "in_force": "1994-05-09",
   "article_versions": 16,
-  "record_form": "consolidated version as in force on 1994-01-01; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 1994-05-09; future article versions excluded; article text as the API gives it"
 }
