@@ -30,6 +30,10 @@ In het gewoon, buitengewoon en het deeltijds beroepssecundair onderwijs bestaan 
 
 § 1. Krachtens het bijzonder decreet betreffende het gemeenschapsonderwijs wordt gewoon, buitengewoon, deeltijds secundair onderwijs ingericht en wordt waar daaraan behoefte bestaat, de daartoe nodige scholen of centra en afdelingen van scholen of centra tot stand gebracht.<br /><br />§ 2. De Vlaamse Gemeenschap financiert en subsidieert, overeenkomstig de decretale bepalingen betreffende het secundair onderwijs, de scholen, afdelingen of structuuronderdelen of andere onderdelen van scholen, die aan de decretale normen beantwoorden en door provincies, gemeenten, verenigingen van gemeenten, andere publiekrechtelijke personen en private personen, zijn tot stand gebracht. <br /><br />Waar er reglementaire programmatie- of rationalisatienormen gelden kunnen geen scholen, afdelingen of structuuronderdelen of andere onderdelen van scholen in stand gehouden of opgericht worden indien zij niet beantwoorden aan de gestelde normen. Evenmin kunnen scholen en centra of afdelingen ervan nieuw of verder gefinancierd of gesubsidieerd worden indien zij niet beantwoorden aan de gestelde normen.<br /><br />§ 3. Voor de toepassing van reglementaire programmatie- of rationalisatienormen wordt met karakter van het onderwijs verstrekt door een school of centrum bedoeld, het behoren ervan tot één van de categorieën van officiële of vrije scholen, zoals deze in de artikelen 5 en 110 gedefinieerd werden. (5)
 
+### ART. 11.
+
+De overheveling van een school naar een ander schoolbestuur heeft ten aanzien van het Vlaams Ministerie van Onderwijs en Vorming uitwerking op 1 september. (10)
+
 ### ART. 12.
 
 De Vlaamse Regering bepaalt de verlofregeling en de aanwending van de schooltijd voor het voltijds gewoon en buitengewoon secundair onderwijs en voor het deeltijds secundair onderwijs in de door de Vlaamse Gemeenschap gefinancierde of gesubsidieerde scholen en centra. (11)
@@ -901,6 +905,10 @@ Maximum 3 % van het urenpakket en van het lesurenpakket kan worden aangewend voo
 ## HOOFDSTUK 1. Bepalingen betreffende de scholen van de opleidingsvormen 1, 2 en 3
 
 ## Afdeling 1. Structuur en organisatie
+
+### ART. 334.
+
+In het buitengewoon secundair onderwijs kunnen twee of meer vakken van de algemene en sociale vorming geïntegreerd worden gegeven. <br /><br />De Vlaamse Regering bepaalt welke vakken hiervoor niet in aanmerking komen en de administratieve en financiële gevolgen voor de personeelsleden die belast worden met het geven van geïntegreerde vakken. (333)
 
 ## [HOOFDSTUK 1/1. Bepalingen betreffende de scholen van opleidingsvorm 1 (ing. decr. 21 maart 2014, art. III.61, I: 1 september 2014)]
 
