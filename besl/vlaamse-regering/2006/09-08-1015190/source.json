@@ -2,16 +2,16 @@
   "codex_id": 1015190,
   "title": "Besluit van de Vlaamse Regering van 2006-09-08 betreffende bepaalde maatregelen voor het ondersteunend personeel in het buitengewoon secundair onderwijs",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1015190/VolledigDocument?datum=2001-09-01",
-  "source_sha256": "fd3febe4ba4d9c7d9003dc9acea46a28588731ba6121f18ce446723039415a63",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1015190/VolledigDocument?datum=2002-09-01",
+  "source_sha256": "d87e6aabc9ffc1cedffde6d3fe60ff13b8e1529273d46ec93d2cd0b907d11c68",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1015190&param=informatie",
-  "as_of": "2001-09-01",
+  "as_of": "2002-09-01",
   "made": "2006-09-08",
   "gazette": "2006-11-24",
   "numac": 2006036845,
   "document_start": "2006-09-01",
   "document_end": null,
-  "in_force": "2001-09-01",
-  "article_versions": 2,
-  "record_form": "consolidated version as in force on 2001-09-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "in_force": "2002-09-01",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2002-09-01; future article versions excluded; article text as the API gives it"
 }

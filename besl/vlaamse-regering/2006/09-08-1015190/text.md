@@ -12,6 +12,10 @@ De Vlaamse Regering,<br /><br />Gelet op het decreet van 27 maart 1991 betreffen
 
 ## HOOFDSTUK IV Wijziging van het besluit van de Vlaamse Regering van 14 maart 2003 betreffende de vastlegging van de prestaties van een ambt in het buitengewoon secundair onderwijs
 
+### ART. 13.
+
+In artikel 4, van hetzelfde besluit wordt § 2 vervangen door wat volgt :<br />« § 2. Voor de toepassing van artikel 44ter, § 2, van hetzelfde koninklijk besluit, is de deler voor een bijbetrekking in een ambt genoemd in artikel 2 en 3, gelijk aan :<br />1° 25 als de deler voor een ambt met onvolledige prestaties 22 bedraagt;<br />2° 30 als de deler voor een ambt met onvolledige prestaties 24 bedraagt;<br />3° 35 als de deler voor een ambt met onvolledige prestaties 30 bedraagt. »<br /><br />
+
 ### ART. 17.
 
 Artikel 18 van hetzelfde besluit wordt opgeheven.<br /><br />
