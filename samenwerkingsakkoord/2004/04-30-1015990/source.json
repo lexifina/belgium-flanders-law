@@ -1,0 +1,17 @@
+{
+  "codex_id": 1015990,
+  "title": "Samenwerkingsakkoord van 2004-04-30 tussen de Federale Staat, de Gewesten en de gemeenschappen betreffende de actieve begeleiding en opvolging van werklozen",
+  "type": "Samenwerkingsakkoord",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1015990/VolledigDocument?datum=2004-07-01",
+  "source_sha256": "88e33de28248abc4b63d253a312484a713473dafe23632cdb575a61b8e04074a",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1015990&param=informatie",
+  "as_of": "2004-07-01",
+  "made": "2004-04-30",
+  "gazette": "2007-07-25",
+  "numac": 2006012616,
+  "document_start": "2004-07-01",
+  "document_end": null,
+  "in_force": "2004-07-01",
+  "article_versions": 31,
+  "record_form": "consolidated version as in force on 2004-07-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
