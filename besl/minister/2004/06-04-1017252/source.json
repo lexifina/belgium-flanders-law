@@ -1,0 +1,17 @@
+{
+  "codex_id": 1017252,
+  "title": "Ministerieel besluit van 2004-06-04 tot uitvoering van artikel 6, tweede alinea van het besluit van de Vlaamse Regering van 18 juli 2003 betreffende de opleidings- en begeleidingscheques voor werknemers",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1017252/VolledigDocument?datum=2004-08-01",
+  "source_sha256": "7ccb3e70a63243ee649422221328d7ffe4d84d805f5e9ab88a78d428c8654342",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1017252&param=informatie",
+  "as_of": "2004-08-01",
+  "made": "2004-06-04",
+  "gazette": "2008-10-30",
+  "numac": 2008203790,
+  "document_start": "2004-08-01",
+  "document_end": null,
+  "in_force": "2004-08-01",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2004-08-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
