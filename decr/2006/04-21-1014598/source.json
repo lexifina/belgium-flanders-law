@@ -1,0 +1,17 @@
+{
+  "codex_id": 1014598,
+  "title": "Decreet van 2006-04-21 houdende de decretale aanpassingen binnen het beleidsdomein Mobiliteit en Openbare Werken als gevolg van het bestuurlijk beleid",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1014598/VolledigDocument?datum=2004-06-30",
+  "source_sha256": "c54f2b6d953a753ba8fc0c3819ffb01fd39a8db675f8df0cd5a6cf87a577814c",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1014598&param=informatie",
+  "as_of": "2004-06-30",
+  "made": "2006-04-21",
+  "gazette": "2006-06-21",
+  "numac": 2006035931,
+  "document_start": null,
+  "document_end": null,
+  "in_force": "2004-06-30",
+  "article_versions": 6,
+  "record_form": "consolidated version as in force on 2004-06-30; oldest version available; future article versions excluded; article text as the API gives it"
+}
