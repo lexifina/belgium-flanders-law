@@ -1,0 +1,5 @@
+# Besluit van de Vlaamse Regering van 1999-12-03 tot herverdeling van basisallocaties van de begroting van de Vlaamse Gemeenschap voor het begrotingsjaar 1999
+
+Official record: https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1007132&param=informatie
+
+Metadata and official link only: the Codex holds no article text for this instrument.
