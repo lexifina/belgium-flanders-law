@@ -40,6 +40,14 @@ In artikel 120, § 2, eerste lid, en § 3, eerste lid, van hetzelfde decreet wor
 
 ## Afdeling II Decreet betreffende de hogescholen in de Vlaamse Gemeenschap
 
+### ART. V.5.
+
+In artikel 89, 7°, van het decreet van 13 juli 1994 betreffende de hogescholen in de Vlaamse Gemeenschap worden de tweede en derde zin opgeheven.<br /><br />
+
+### ART. V.6.
+
+Artikel 92, § 1, 3°, van hetzelfde decreet wordt opgeheven.<br /><br />
+
 ### ART. V.17.
 
 De laatste zin van artikel 322 van hetzelfde decreet wordt vervangen door wat volgt :<br />« Met uitzondering van diegenen die in toepassing van artikel 17 van de wet van 7 juli 1970 zoals gewijzigd door artikel 12 van de wet van 18 februari 1977 een afwijking, onbeperkt in de tijd, van het vereiste bekwaamheidsbewijs verkregen hebben, kunnen de tijdelijke personeelsleden in dit nieuwe ambt niet benoemd worden. ».<br /><br />
