@@ -645,6 +645,10 @@ In afwijking van artikel 190, § 1, geldt geen rationalisatienorm voor een schoo
 
 Elke school die de rationalisatienorm niet bereikt op 1 februari van het voorafgaand schooljaar, dient : <br />1° hetzij over te gaan tot geleidelijke afbouw, leerjaar na leerjaar te beginnen met het eerste, van de af te bouwen graad of graden of tot geleidelijke afbouw van het hoger beroepsonderwijs, onverminderd het in artikel 134 gestelde;<br />2° hetzij te fusioneren met een andere school voor voltijds gewoon secundair onderwijs. (197)
 
+### ART. 199.
+
+Op verzoek van het betrokken schoolbestuur kan de Vlaamse Regering, na advies van de Vlaamse Onderwijsraad, voor een school een afwijking toestaan op de rationalisatienorm. De Vlaamse Regering bepaalt de periode waarvoor de afwijking geldt. Het schoolbestuur stuurt daartoe uiterlijk op 1 maart van het voorafgaande schooljaar een gemotiveerde aanvraag aan het Agentschap voor Onderwijsdiensten. (198)
+
 ## Afdeling 2. Fusie van scholen
 
 ### ART. 200.
