@@ -1,0 +1,17 @@
+{
+  "codex_id": 1015000,
+  "title": "Besluit van de Vlaamse Regering van 2006-07-20 tot wijziging van het besluit van de Vlaamse Regering van 23 mei 2003 houdende organisatie van de Vlaamse Huisvestingsmaatschappij en de instellingsspecifieke regeling van de rechtspositie van het personeel",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1015000/VolledigDocument?datum=1997-05-01",
+  "source_sha256": "84b34c669025a95aad9ff6393d035ff32a2a8803e19c3811ef60cb88f515ad1d",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1015000&param=informatie",
+  "as_of": "1997-05-01",
+  "made": "2006-07-20",
+  "gazette": "2006-10-03",
+  "numac": 2006036415,
+  "document_start": "1997-05-01",
+  "document_end": null,
+  "in_force": "1997-05-01",
+  "article_versions": 5,
+  "record_form": "consolidated version as in force on 1997-05-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
