@@ -1,0 +1,17 @@
+{
+  "codex_id": 1019206,
+  "title": "Besluit van de Vlaamse Regering van 2010-06-18 tot wijziging van het besluit van de Vlaamse Regering van 5 maart 2004 tot vaststelling van het statuut van de arrondissementscommissarissen en de adjunct-arrondissementscommissaris",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1019206/VolledigDocument?datum=2004-03-01",
+  "source_sha256": "4a98b9f56f40e429dcfda39a7803d344819824c612d8836dc8c92bb5f3a310ca",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1019206&param=informatie",
+  "as_of": "2004-03-01",
+  "made": "2010-06-18",
+  "gazette": "2010-07-13",
+  "numac": 2010035465,
+  "document_start": "2010-07-13",
+  "document_end": null,
+  "in_force": "2004-03-01",
+  "article_versions": 9,
+  "record_form": "consolidated version as in force on 2004-03-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
