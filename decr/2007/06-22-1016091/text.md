@@ -34,6 +34,10 @@ In artikel 120, § 2, eerste lid, en § 3, eerste lid, van hetzelfde decreet wor
 
 ## Afdeling II Decreet tot regeling van een aantal aangelegenheden van het volwassenenonderwijs
 
+### ART. IV.3.
+
+In artikel 41 van het decreet van 2 maart 1999 tot regeling van een aantal aangelegenheden van het volwassenenonderwijs, worden de volgende wijzigingen aangebracht :<br />1° in § 4, 2°, worden de volgende woorden toegevoegd : « of voor zover deze combinatie door de Vlaamse Regering bekrachtigd wordt »;<br />2° in § 4, 3°, worden de woorden « dat nieuw verworven diploma in het voltijds secundair onderwijs kan worden uitgereikt » vervangen door de woorden « de opleiding conform 2° leidt tot een diploma secundair onderwijs »;<br />3° er wordt een § 6 toegevoegd, die luidt als volgt :<br />« § 6. Ter uitvoering van § 4, 2°, bepaalt de Vlaamse Regering de opleidingen TSO of BSO van de derde graad van andere studiegebieden die in combinatie met een opleiding algemene vorming TSO of BSO van de derde graad van het studiegebied algemene vorming leiden tot een diploma secundair onderwijs. Hiertoe moeten die opleidingen voldoen aan volgende voorwaarden :<br />1° de minimale duur van de opleiding omvat 480 lestijden;<br />2° de opleiding beoogt een brede maatschappelijke participatie;<br />3° de opleiding, in combinatie met een opleiding algemene vorming TSO of BSO van de derde graad van het studiegebied algemene vorming, verleent toegang tot het hoger onderwijs;<br />4° de opleiding, in combinatie met een opleiding algemene vorming TSO of BSO van de derde graad van het studiegebied algemene vorming, verleent in voldoende mate toegang tot de arbeidsmarkt. ».<br /><br />
+
 ## HOOFDSTUK V Hoger Onderwijs
 
 ## Afdeling I Decreet betreffende de universiteiten in de Vlaamse Gemeenschap
