@@ -18,6 +18,10 @@ In artikel 3 van hetzelfde decreet, gewijzigd bij de decreten van 14 juli 1998, 
 
 In artikel 138 van hetzelfde decreet, gewijzigd bij de decreten van 13 juli 2001, 28 juni 2002 en 10 juli 2003, worden de volgende wijzigingen aangebracht : <br />1° in § 1 worden punt 5° en punt 7° vervangen door wat volgt :<br />« 5° lestijden voor lichamelijke opvoeding; »; <br />« 7° lestijden ter ondersteuning van de integratie van de anderstalige leerlingen voor de Nederlandstalige scholen in de rand- en taalgrensgemeenten, voor de scholen in de gemeenten die grenzen aan de randgemeenten en/of aan het Brusselse Hoofdstedelijke Gewest en voor de scholen in de gemeenten die bepaald worden door de Vlaamse Gemeenschap. »;<br />2° in § 2 worden de woorden « , zoals bepaald in artikel 171, » geschrapt.<br /><br />
 
+### ART. II.27.
+
+Artikel 177, § 1, 3°, van hetzelfde decreet wordt vervangen door wat volgt : <br />« 3° het niet naleven van de bepalingen inzake de keuze en de vrijstelling van keuze tussen godsdienst en niet-confessionele zedenleer zoals bedoeld in artikel 29; ». <br /><br />
+
 ## Afdeling II Inwerkingtreding
 
 ## HOOFDSTUK III Secundair onderwijs
