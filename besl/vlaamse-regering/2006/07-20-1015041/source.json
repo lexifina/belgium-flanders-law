@@ -1,0 +1,17 @@
+{
+  "codex_id": 1015041,
+  "title": "Besluit van de Vlaamse Regering van 2006-07-20 tot wijziging van het besluit van de Vlaamse Regering van 13 juli 2001 houdende de aanduiding van de maritieme toegangswegen en de bestanddelen van de haveninfrastructuur",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1015041/VolledigDocument?datum=2005-01-01",
+  "source_sha256": "eda12bf922557ae3e50e02631aa65d8f98ed043a4012c5de9d2cdf2e775426a9",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1015041&param=informatie",
+  "as_of": "2005-01-01",
+  "made": "2006-07-20",
+  "gazette": "2006-10-17",
+  "numac": 2006036570,
+  "document_start": "2005-01-01",
+  "document_end": null,
+  "in_force": "2005-01-01",
+  "article_versions": 6,
+  "record_form": "consolidated version as in force on 2005-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
