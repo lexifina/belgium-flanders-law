@@ -1,0 +1,13 @@
+{
+  "codex_id": 1000025,
+  "title": "Besluit van de Vlaamse Regering van 1994-01-19 tot uitvoering van het decreet van 15 december 1993 tot bevordering van de economische expansie in het Vlaamse Gewest met betrekking tot de kleine ondernemingen",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/WetgevingDocument/1000025",
+  "source_sha256": "316ff0e6b34d61d578f389494db400e00b031a389e5ae384a01e426227b93847",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1000025&param=informatie",
+  "made": "1994-01-19",
+  "gazette": "1994-05-05",
+  "numac": 1994035472,
+  "in_force": "1994-01-19",
+  "record_form": "metadata and official link only: the title names or concerns individual persons"
+}
