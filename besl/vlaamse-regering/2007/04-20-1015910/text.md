@@ -1,0 +1,13 @@
+# Besluit van de Vlaamse Regering van 2007-04-20 tot wijziging van het besluit van de Vlaamse Regering van 21 februari 2003 houdende vaststelling van de salarisschalen en de concordantie van de ambten van de leden van het bestuurs- en onderwijzend personeel en houdende vaststelling van de loopbaanstructuur, de salarisschalen en de concordantie van de ambten van de leden van het administratief en technisch personeel van de Hogere Zeevaartschool
+
+### Aanhef.
+
+De Vlaamse Regering,<br /><br />Gelet op het decreet van 9 juni 1998 betreffende de Hogere Zeevaartschool, inzonderheid op artikel 8, 16, § 1, 22, § 1, en 26;<br /><br />Gelet op het besluit van de Vlaamse Regering van 21 februari 2003 houdende vaststelling van de salarisschalen en de concordantie van de ambten van de leden van het bestuurs- en onderwijzend personeel en houdende vaststelling van de loopbaanstructuur, de salarisschalen en de concordantie van de ambten van de leden van het administratief en technisch personeel van de Hogere Zeevaartschool;<br /><br />Gelet op het akkoord van de Vlaamse minister, bevoegd voor de begroting, gegeven op 7 december 2006;<br /><br />Gelet op het advies van de Inspectie van Financiën, gegeven op 6 april 2007;<br /><br />Gelet op het protocol nr. 17 van 2 februari 2007, waarin de conclusies zijn neergelegd van de onderhandelingen, gevoerd in het Vlaams onderhandelingscomité voor het hoger onderwijs;<br /><br />Gelet op het advies 42.321/1 van de Raad van State, gegeven op 8 maart 2007, met toepassing van artikel 84, § 1, eerste lid, 1°, van de gecoördineerde wetten op de Raad van state;<br /><br />Op voorstel van de Vlaamse minister van Werk, Onderwijs en Vorming;<br /><br />Na beraadslaging,<br /><br />Besluit : <br />
+
+### ART. 1.
+
+Aan artikel 3 van het besluit van de Vlaamse Regering van 21 februari 2003 houdende vaststelling van de salarisschalen en de concordantie van de ambten van de leden van het bestuurs- en onderwijzend personeel en houdende vaststelling van de loopbaanstructuur, de salarisschalen en de concordantie van de ambten van de leden van het administratief en technisch personeel van de Hogere Zeevaartschool worden de volgende zinnen toegevoegd :<br /><br />« Op 1 december 2001 worden de salarisschalen met 1 procent verhoogd. Op 1 juni 2003 worden deze bedragen verhoogd met tweemaal hetzelfde nominaal bedrag als de verhoging die werd toegepast op 1 december 2001. »<br />
+
+### ART. 8.
+
+Aan artikel 19 van hetzelfde besluit worden de volgende zinnen toegevoegd :<br /><br />« Op 1 december 2001 worden de salarisschalen met 1 procent verhoogd. Op 1 juni 2003 worden deze bedragen verhoogd met tweemaal hetzelfde nominaal bedrag als de verhoging die werd toegepast op 1 december 2001. »<br />
