@@ -6,6 +6,10 @@
 
 ## Afdeling I Decreet basisonderwijs
 
+### ART. II.11.
+
+In hetzelfde decreet wordt artikel 75, gewijzigd bij het decreet van 13   juli 2001, opgeheven.<BR>
+
 ## Afdeling II Opheffingen
 
 ## Afdeling III Inwerkingtreding
