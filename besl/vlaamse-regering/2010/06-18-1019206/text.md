@@ -16,6 +16,10 @@ In artikel 53 van hetzelfde besluit worden de volgende wijzigingen aangebracht :
 
 Artikel 54 van hetzelfde besluit wordt vervangen door wat volgt :<br />« Art. 54. De periode waarin de moederschapsrust bezoldigd wordt, mag niet meer dan vijftien weken bedragen bij één kind, en niet meer dan negentien weken bij een meerling, tenzij :<br />1° de bevalling plaatsvindt na de vermoedelijke bevallingsdatum;<br />2° de verlenging van de moederschapsrust met één week, ingevolge zes of acht weken ononderbroken arbeidsongeschiktheid voor de werkelijke bevallingsdatum, tot gevolg heeft dat de periode van 15 of 19 weken wordt overschreden.<br /><br />Bij verlenging van de postnatale rustperiode overeenkomstig artikel 39, vijfde lid, van de arbeidswet van 16 maart 1971 wordt de bezoldiging doorbetaald tijdens de duur van die verlenging en maximaal gedurende 24 weken. »<br /><br />
 
+### ART. 14.
+
+Artikel 55 van hetzelfde besluit wordt opgeheven.<br /><br />
+
 ### ART. 15.
 
 In artikel 56 van hetzelfde besluit worden de volgende wijzigingen aangebracht :<br />1° in § 1 worden de woorden « het bevallingsverlof » vervangen door de woorden « de moederschapsrust »;<br /><br />2° in § 2, eerste lid, wordt het woord « dagen » vervangen door het woord « kalenderdagen »;<br /><br />3° in § 2, tweede lid, worden de woorden « het bevallingsverlof » vervangen door de woorden « de moederschapsrust ».<br /><br />
