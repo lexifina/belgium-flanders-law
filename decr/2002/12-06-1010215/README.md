@@ -1,0 +1,5 @@
+# Decreet van 2002-12-06 houdende instemming met : 1. de overeenkomst tussen de Belgisch-Luxemburgse Economische Unie en de regering van de republiek Bolivië inzake de wederzijdse bevordering en bescherming van investeringen, ondertekend in Brussel op 25 april 1990; 2. de overeenkomst tussen de Belgisch-Luxemburgse Economische Unie en de republiek Paraguay inzake de wederzijdse bevordering en bescherming van investeringen, ondertekend in Brussel op 6 oktober 1992; 3. de overeenkomst tussen de Belgisch-Luxemburgse Economische Unie en de regering van de republiek Venezuela inzake de wederzijdse bevordering en bescherming van investeringen, ondertekend in Brussel op 17 maart 1998; 4. de overeenkomst tussen de Belgisch-Luxemburgse Economische Unie en de regering van de Federatieve republiek Brazilië inzake de wederzijdse bevordering en bescherming van investeringen, ondertekend in Brasilia op 6 januari 1999
+
+Official record: https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1010215&param=informatie
+
+Metadata and official link only: the Codex holds no article text for this instrument.
