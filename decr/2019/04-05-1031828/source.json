@@ -1,0 +1,17 @@
+{
+  "codex_id": 1031828,
+  "title": "Decreet van 2019-04-05 betreffende het Onderwijs XXIX",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1031828/VolledigDocument?datum=2002-01-01",
+  "source_sha256": "7fc131915f1ba4e6c74e1f9b470f6e202858cc8639332cc7d67faca065f54e5d",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1031828&param=informatie",
+  "as_of": "2002-01-01",
+  "made": "2019-04-05",
+  "gazette": "2019-06-24",
+  "numac": 2019041224,
+  "document_start": "2019-09-01",
+  "document_end": null,
+  "in_force": "2002-01-01",
+  "article_versions": 1,
+  "record_form": "consolidated version as in force on 2002-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
