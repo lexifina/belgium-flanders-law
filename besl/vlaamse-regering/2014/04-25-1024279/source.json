@@ -1,0 +1,17 @@
+{
+  "codex_id": 1024279,
+  "title": "Besluit van de Vlaamse Regering van 2014-04-25 tot wijziging van de regelgeving betreffende het verlenen van steun voor deelname aan Europees erkende voedselkwaliteitsregelingen en voor bijhorende afzetbevorderingsacties",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1024279/VolledigDocument?datum=2005-01-01",
+  "source_sha256": "ee66e1b9dfe84330c507b186698398330c060d900bffc6f99bac3d28e698c018",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1024279&param=informatie",
+  "as_of": "2005-01-01",
+  "made": "2014-04-25",
+  "gazette": "2014-07-07",
+  "numac": 2014203634,
+  "document_start": "2014-07-17",
+  "document_end": null,
+  "in_force": "2005-01-01",
+  "article_versions": 2,
+  "record_form": "consolidated version as in force on 2005-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
