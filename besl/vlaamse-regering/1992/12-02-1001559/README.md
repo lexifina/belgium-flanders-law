@@ -1,0 +1,5 @@
+# Besluit van de Vlaamse Regering van 1992-12-02 tot verhoging van de vastleggingsmachtigingen voor de gehandicaptenvoorzieningen en blokkering van de kredieten voor de privé-bejaardenvoorzieningen, voor het begrotingsjaar 1992
+
+Official record: https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1001559&param=informatie
+
+Metadata and official link only: the Codex holds no article text for this instrument.
