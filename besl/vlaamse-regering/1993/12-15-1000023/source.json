@@ -1,0 +1,13 @@
+{
+  "codex_id": 1000023,
+  "title": "Besluit van de Vlaamse Regering van 1993-12-15 houdende wijziging van de machtigingen vermeld in de uitgavenbegroting van de Vlaamse Gemeenschap voor het begrotingsjaar 1993",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/WetgevingDocument/1000023",
+  "source_sha256": "f1dcd594008164eeeaecc8b3a9c6b0232837660a646839708330d44d1d5dbb5f",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1000023&param=informatie",
+  "made": "1993-12-15",
+  "gazette": "1994-05-05",
+  "numac": 1994035208,
+  "in_force": "1993-12-15",
+  "record_form": "metadata and official link only: the Codex holds no article text for this instrument"
+}
