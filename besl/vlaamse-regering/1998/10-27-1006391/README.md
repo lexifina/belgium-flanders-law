@@ -1,0 +1,5 @@
+# Besluit van de Vlaamse Regering van 1998-10-27 tot wijziging van het koninklijk besluit nr. 63 van 20 juli 1982 houdende wijziging van de bezoldigingsregels van toepassing op het onderwijzend en daarmee gelijkgesteld personeel van het onderwijs met volledig leerplan en van het onderwijs voor sociale promotie of met beperkt leerplan
+
+Official record: https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1006391&param=informatie
+
+Metadata and official link only: the Codex holds no article text for this instrument.
