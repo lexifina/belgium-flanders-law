@@ -1,0 +1,17 @@
+{
+  "codex_id": 1016152,
+  "title": "Decreet van 2007-06-29 houdende bepalingen tot begeleiding van de aanpassing van de begroting 2007",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1016152/VolledigDocument?datum=1999-01-01",
+  "source_sha256": "5275de3d47a601603708671d85a086c912e9cfd9cd2938821f00e62c7fa6f7f4",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1016152&param=informatie",
+  "as_of": "1999-01-01",
+  "made": "2007-06-29",
+  "gazette": "2007-09-14",
+  "numac": 2007036524,
+  "document_start": "2007-09-14",
+  "document_end": null,
+  "in_force": "1999-01-01",
+  "article_versions": 10,
+  "record_form": "consolidated version as in force on 1999-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
