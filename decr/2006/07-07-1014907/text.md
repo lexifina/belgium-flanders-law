@@ -68,6 +68,14 @@ In artikel 17 van hetzelfde decreet, gewijzigd bij de decreten van 18 mei 1999, 
 
 In artikel 28bis van hetzelfde decreet, ingevoegd bij het decreet van 14 juli 1998 en gewijzigd bij de decreten van 18 mei 1999, 14 februari 2003 en 15 juli 2005, worden de volgende wijzigingen aangebracht : <br />1° § 3 wordt vervangen door wat volgt :<br />« § 3. In afwijking van § 2 deelt de raad van bestuur tijdens het schooljaar 2006-2007 de lijst mee van vacant verklaarde betrekkingen in de categorie van het ondersteunend personeel in het buitengewoon secundair onderwijs, na 15 september 2006 en vóór 15 oktober 2006. De vacante betrekkingen worden vastgesteld in functie van de toestand op 15 september 2006.<br /><br />De vacante betrekkingen in de categorie van het opvoedend hulppersoneel en administratief personeel in het buitengewoon secundair onderwijs, met uitzondering van de internaten, die werden meegedeeld vóór 15 mei 2006 op basis van de toestand op 15 april 2006 hebben geen uitwerking. »;<br /><br />2° een § 7 wordt toegevoegd, die luidt als volgt :<br />« § 7. Met het oog op de vaste benoemingen op 1 januari 2007 in de centra voor volwassenenonderwijs worden, in afwijking op § 2 en rekening houdend met artikel 57 van het decreet van 2 maart 1999 tot regeling van een aantal gelegenheden van het volwassenenonderwijs, de vacante betrekkingen in het vak of de specialiteit grafische technieken in de vierde graad BSO beschouwd als vacante betrekkingen in het vak of de specialiteit grafische technieken in de derde graad TSO. ». <br /><br />
 
+### ART. VII.8.
+
+In artikel 40bis, § 4, van hetzelfde decreet, ingevoegd bij het decreet van 18 mei 1999, worden de woorden « de vaste benoeming wordt meegedeeld » vervangen door de woorden « de vaste benoeming, de nieuwe affectatie en de mutatie worden meegedeeld » en worden de woorden « opdat zij zou » vervangen door de woorden « opdat zij zouden ». <br /><br />
+
+### ART. VII.12.
+
+In artikel 47, § 2, van hetzelfde decreet, vervangen bij het decreet van 21 december 1994, worden de woorden « en de vaste benoeming in een selectie- of bevorderingsambt wordt meegedeeld » vervangen door de woorden « , de vaste benoeming, de nieuwe affectatie en de mutatie in een selectie- of bevorderingsambt worden meegedeeld » en worden de woorden « opdat zij zou » vervangen door de woorden « opdat zij zouden ». <br /><br />
+
 ## Afdeling II Decreet betreffende de rechtspositie van bepaaldepersoneelsleden van het gesubsidieerd onderwijs en van de gesubsidieerde centravoor leerlingenbegeleiding
 
 ### ART. VII.31.
@@ -81,6 +89,10 @@ In artikel 31 van hetzelfde decreet, gewijzigd bij de decreten van 14 februari 2
 ### ART. VII.34.
 
 In artikel 33, § 1, van hetzelfde decreet, gewijzigd bij de decreten van 14 juli 1998, 18 mei 1999, 14 februari 2003 en 15 juli 2005, worden de volgende wijzigingen aangebracht : <br />1° het vijfde lid wordt vervangen door wat volgt :<br />« In het buitengewoon secundair onderwijs, met uitzondering van de internaten, deelt de inrichtende macht voor het schooljaar 2006-2007 de vacante betrekkingen in de categorie van het ondersteunend personeel mee na 15 september 2006 en voor 15 oktober 2006. De vacante betrekkingen worden vastgesteld op basis van de toestand op 15 september 2006.<br /><br />De vacante betrekkingen in de categorie van het opvoedend hulppersoneel en administratief personeel die werden meegedeeld voor 15 mei 2006 op basis van de toestand op 15 april 2006 hebben geen uitwerking. »; <br /><br />2° tussen het vijfde en zesde lid wordt een nieuw lid ingevoegd, dat luidt als volgt :<br />« Met het oog op de vaste benoemingen in de centra voor volwassenenonderwijs op 1 januari 2007 worden de vacante betrekkingen in het vak of de specialiteit grafische technieken in de vierde graad BSO die, rekening houdend met artikel 57 van het decreet van 2 maart 1999 tot regeling van een aantal gelegenheden van het volwassenenonderwijs, worden meegedeeld aan de personeelsleden die de voorwaarden voor een vaste benoeming vervullen, beschouwd als vacante betrekkingen in het vak of de specialiteit grafische technieken in de derde graad TSO. ». <br /><br />
+
+### ART. VII.37.
+
+In artikel 41, § 2, van hetzelfde decreet, vervangen bij het decreet van 21 december 1994, worden de woorden « de vaste benoeming in een selectie- of bevorderingsambt wordt meegedeeld » vervangen door de woorden « de vaste benoeming, de nieuwe affectatie en de mutatie in een selectie- of bevorderingsambt worden meegedeeld » en worden de woorden « opdat zij zou » vervangen door de woorden « opdat zij zouden ». <br /><br />
 
 ## Afdeling III Inwerkingtreding
 
