@@ -1,0 +1,17 @@
+{
+  "codex_id": 1020860,
+  "title": "Besluit van de Vlaamse Regering van 2011-09-09 tot wijziging van het besluit van de Vlaamse Regering van 5 maart 2004 tot vaststelling van het statuut van de provinciegouverneurs en de adjunct van de gouverneur van de provincie Vlaams-Brabant wat betreft de loopbaanonderbreking en andere bepalingen",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1020860/VolledigDocument?datum=2004-03-01",
+  "source_sha256": "8ab12387841c5af8f90a4670cfdb9aa385577735cfe718dc9860d0203601ec0e",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1020860&param=informatie",
+  "as_of": "2004-03-01",
+  "made": "2011-09-09",
+  "gazette": "2011-10-24",
+  "numac": 2011205215,
+  "document_start": "2011-10-24",
+  "document_end": null,
+  "in_force": "2004-03-01",
+  "article_versions": 2,
+  "record_form": "consolidated version as in force on 2004-03-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
