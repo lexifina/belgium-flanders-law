@@ -1,0 +1,17 @@
+{
+  "codex_id": 1016580,
+  "title": "Besluit van de Vlaamse Regering van 2007-12-14 betreffende de voorwaarden voor en de procedures tot toekenning, wijziging en intrekking van projectgebonden subsidies en medefinanciering aan de havenbedrijven, alsmede betreffende de subsidie- en medefinancieringspercentages",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1016580/VolledigDocument?datum=2005-01-01",
+  "source_sha256": "ce90b4701e3d049d2ac9153625ae9d2b0689e7efa179223aeb1ab9667576b419",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1016580&param=informatie",
+  "as_of": "2005-01-01",
+  "made": "2007-12-14",
+  "gazette": "2008-02-07",
+  "numac": 2008035151,
+  "document_start": "2005-01-01",
+  "document_end": null,
+  "in_force": "2005-01-01",
+  "article_versions": 22,
+  "record_form": "consolidated version as in force on 2005-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
