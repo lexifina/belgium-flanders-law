@@ -1,0 +1,17 @@
+{
+  "codex_id": 1015086,
+  "title": "Besluit van de Vlaamse Regering van 2006-09-01 houdende de bepaling van het aantal particuliere landelijke, regionale en lokale radio-omroepen dat kan worden erkend en houdende de opstelling van het frequentieplan en de vaststelling van de frequentiepakketten en de frequenties die ter beschikking worden gesteld van de particuliere landelijke, regionale en lokale radio-omroepen",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1015086/VolledigDocument?datum=2003-07-25",
+  "source_sha256": "ffd10f31e0c8f94095dd14457af2ddba00cc17b82d3fb9dc340b2ca396d1d697",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1015086&param=informatie",
+  "as_of": "2003-07-25",
+  "made": "2006-09-01",
+  "gazette": "2006-10-26",
+  "numac": 2006036544,
+  "document_start": "2003-07-25",
+  "document_end": "2019-04-03",
+  "in_force": "2003-07-25",
+  "article_versions": 13,
+  "record_form": "consolidated version as in force on 2003-07-25; oldest version available; future article versions excluded; article text as the API gives it"
+}
