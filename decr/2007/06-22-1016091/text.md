@@ -50,6 +50,10 @@ De laatste zin van artikel 322 van hetzelfde decreet wordt vervangen door wat vo
 
 ## Afdeling V Statuut beheerders van publiekrechtelijke universiteiten
 
+### ART. V.24.
+
+Aan artikel 13 van het decreet van 22 december 1995 houdende wijziging van diverse decreten met betrekking tot de Universiteit Antwerpen, gewijzigd bij het decreet van 4 april 2003, worden de volgende wijzigingen aangebracht :<br />1° in het eerste lid worden na de woorden « te wijzigen » de woorden « in het algemeen belang » ingevoegd;<br />2° er wordt een tweede lid toegevoegd dat luidt als volgt :<br />« Behoudens het bepaalde in het eerste lid, krijgen personeelsleden van een universiteit of hogeschool die bezoldigd worden op de werkingsuitkeringen of ambtenaren van een ministerie of instelling van de Vlaamse overheid die het mandaat van beheerder of algemeen beheerder opnemen, voor de duur van het mandaat een verlof voor de uitoefening van een mandaat waarvan het algemeen belang wordt erkend. Het verlof wordt gelijkgesteld met dienstactiviteit. Het wordt niet bezoldigd. ».<br /><br />
+
 ## Afdeling VI Inwerkingtreding
 
 ## HOOFDSTUK VI Centra voor leerlingenbegeleiding
