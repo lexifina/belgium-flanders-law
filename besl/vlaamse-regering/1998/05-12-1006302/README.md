@@ -1,0 +1,5 @@
+# Besluit van de Vlaamse Regering van 1998-05-12 tot wijziging van het Vlaams personeelsstatuut van 24 november 1993,wat de kustloodsen en de aanwervingsreglementen betreft
+
+Official record: https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1006302&param=informatie
+
+Metadata and official link only: the Codex holds no article text for this instrument.
