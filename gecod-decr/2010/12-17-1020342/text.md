@@ -234,6 +234,18 @@ Voor het secundair onderwijs, erkend, gefinancierd of gesubsidieerd door de Vlaa
 
 ## [Onderafdeling 4. Leerplannen (ing. decr. 26 januari 2018, art. 6, I: 19 maart 2018)]
 
+### ART. 148.
+
+Het gefinancierd en gesubsidieerd secundair onderwijs wordt verstrekt gedurende een maximum aantal wekelijkse lestijden. (147)
+
+### ART. 149.
+
+Het gefinancierd en gesubsidieerd secundair onderwijs wordt verstrekt gedurende een maximum aantal wekelijkse lestijden dat op 32 is vastgesteld, met uitzondering van het onderwijs in :<br />1° het tweede leerjaar van de eerste graad met tenminste 4 wekelijkse lestijden praktische vakken en het beroepsvoorbereidend leerjaar, waarvoor dit maximum 34 bedraagt;<br />2° de derde graad van het algemeen secundair onderwijs met tenminste 2 wekelijkse lestijden lichamelijke opvoeding en tenminste 1 wekelijkse lestijd artistieke opvoeding of esthetica, waarvoor dit maximum 33 bedraagt;<br />3° het technisch, het kunst- en het beroepssecundair onderwijs en het hoger beroepsonderwijs, waarvoor dit maximum 36 bedraagt.<br /><br />De hiervoor vermelde maxima kunnen worden overschreden door die worden georganiseerd in de eerste en in de tweede graad en in het eerste leerjaar van de derde graad. (148)<br />
+
+### ART. 151.
+
+De toepassing van de bepalingen van deze afdeling mag niet tot gevolg hebben dat de school gedurende minder dan negen halve dagen per week zou open zijn. (150)
+
 ## [Afdeling 4/1. Lessenrooster (ing. decr. 20 april 2019, art. 22, I: 1 september 2019)]
 
 ## [Afdeling 4/2. CLIL (Content and Language Integrated Learning) (ing. decr. 20 april 2016, art. 30, I: 1 september 2019)]
