@@ -1,0 +1,5 @@
+# Bijzonder Decreet van 1995-04-19 houdende wijziging van het bijzonder decreet van 19 december 1988 betreffende de Autonome Raad voor het Gemeenschapsonderwijs
+
+Official record: https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1003878&param=informatie
+
+Metadata and official link only: the Codex holds no article text for this instrument.
