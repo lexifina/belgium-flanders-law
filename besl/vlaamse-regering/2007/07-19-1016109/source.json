@@ -1,0 +1,17 @@
+{
+  "codex_id": 1016109,
+  "title": "Besluit van de Vlaamse Regering van 2007-07-19 tot wijziging van het besluit van de Vlaamse Regering van 17 juni 1997 betreffende de personeelsformatie in het buitengewoon basisonderwijs en het besluit van de Vlaamse Regering van 17 juni 1997 betreffende de personeelsformatie in het gewoon basisonderwijs",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1016109/VolledigDocument?datum=2002-09-01",
+  "source_sha256": "b7fae4aebff77dd9e5265ec26378d0ac14b99f5df6132fa7f8c000ed6b5efdbc",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1016109&param=informatie",
+  "as_of": "2002-09-01",
+  "made": "2007-07-19",
+  "gazette": "2007-08-27",
+  "numac": 2007036444,
+  "document_start": "2007-09-01",
+  "document_end": null,
+  "in_force": "2002-09-01",
+  "article_versions": 2,
+  "record_form": "consolidated version as in force on 2002-09-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
