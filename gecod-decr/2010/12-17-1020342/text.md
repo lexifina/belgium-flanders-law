@@ -112,6 +112,10 @@ Wat de overeenkomsten betreft voor aanneming van werken, leveringen en diensten 
 
 Aan het Gemeenschapsonderwijs wordt jaarlijks een globale dotatie toegekend, bestemd om de kosten te dekken die verbonden zijn aan de werking en de uitrusting van de school en aan het kosteloos verstrekken van leerboeken en schoolbehoeften aan de leerplichtige leerlingen. Deze dotatie bestaat uit een forfaitair bedrag per school en een forfaitair bedrag per leerling. Deze bedragen kunnen verschillen per niveau en vorm van onderwijs. (38)<br />
 
+### ART. 40.
+
+De Raad van het Gemeenschapsonderwijs, de scholengroepen en de schoolbesturen van het gesubsidieerd onderwijs kunnen voor de aanschaf van uitrustingsapparatuur leningsovereenkomsten en leasingsovereenkomsten aangaan bij de door de Vlaamse Regering daartoe erkende financiële instellingen. (39)
+
 ### ART. 41.
 
 Het werkingsbudget wordt uitbetaald aan het schoolbestuur van elke school. Het kan worden aangewend ten behoeve van al de scholen behorende tot hetzelfde schoolbestuur. Bij deze aanwending dient het schoolbestuur rekening te houden met een gelijke behandeling van zijn scholen en van de leerlingen of studenten die tot deze scholen behoren. <br /><br />De Vlaamse Regering bepaalt : <br />1° de wijze waarop de school zijn aanvraag tot financiering of subsidiëring indient; <br />2° de controlemaatregelen inzonderheid wat de aanwending van het werkingsbudget betreft. Deze controle mag evenwel geen betrekking hebben op de opportuniteit van de aanwending. (40)
