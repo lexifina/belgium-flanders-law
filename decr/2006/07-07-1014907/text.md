@@ -88,6 +88,10 @@ In artikel 40bis, § 4, van hetzelfde decreet, ingevoegd bij het decreet van 18 
 
 In artikel 47, § 2, van hetzelfde decreet, vervangen bij het decreet van 21 december 1994, worden de woorden « en de vaste benoeming in een selectie- of bevorderingsambt wordt meegedeeld » vervangen door de woorden « , de vaste benoeming, de nieuwe affectatie en de mutatie in een selectie- of bevorderingsambt worden meegedeeld » en worden de woorden « opdat zij zou » vervangen door de woorden « opdat zij zouden ». <br /><br />
 
+### ART. VII.19.
+
+In artikel 77quater, § 3, van hetzelfde decreet wordt 3° vervangen door wat volgt : <br />« 3°ten aanzien van de instelling waar het personeelslid geaffecteerd of aangesteld is : <br />- de wijze waarop zij in het beslissingsproces wordt betrokken. ». <br /><br />
+
 ## Afdeling II Decreet betreffende de rechtspositie van bepaaldepersoneelsleden van het gesubsidieerd onderwijs en van de gesubsidieerde centravoor leerlingenbegeleiding
 
 ### ART. VII.31.
@@ -105,6 +109,10 @@ In artikel 33, § 1, van hetzelfde decreet, gewijzigd bij de decreten van 14 jul
 ### ART. VII.37.
 
 In artikel 41, § 2, van hetzelfde decreet, vervangen bij het decreet van 21 december 1994, worden de woorden « de vaste benoeming in een selectie- of bevorderingsambt wordt meegedeeld » vervangen door de woorden « de vaste benoeming, de nieuwe affectatie en de mutatie in een selectie- of bevorderingsambt worden meegedeeld » en worden de woorden « opdat zij zou » vervangen door de woorden « opdat zij zouden ». <br /><br />
+
+### ART. VII.41.
+
+In artikel 51quater, § 3, van hetzelfde decreet wordt 3° vervangen door wat volgt : <br />« 3° ten aanzien van de instelling waar het personeelslid geaffecteerd of aangesteld is :<br />- de wijze waarop zij in het beslissingsproces wordt betrokken. ». <br /><br />
 
 ## Afdeling III Inwerkingtreding
 
