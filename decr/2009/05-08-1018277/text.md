@@ -120,6 +120,10 @@ In hetzelfde decreet wordt een artikel 84sexies decies ingevoegd dat luidt als v
 
 ## Afdeling V. Wet betreffende de taalregeling in het onderwijs
 
+### ART. VIII.62.
+
+In artikel 16 van dezelfde wet worden de woorden « en kan slechts twee maal hernieuwd worden » geschrapt.
+
 ## Afdeling VI. Inwerkingtreding
 
 ## HOOFDSTUK IX. Andere bepalingen

@@ -2,16 +2,16 @@
   "codex_id": 1018277,
   "title": "Decreet van 2009-05-08 betreffende het onderwijs XIX",
   "type": "Decreet",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1018277/VolledigDocument?datum=2001-09-01",
-  "source_sha256": "664870d1190a59ea1e3091d6e50a253b571185e48b4965ec0b85ecfe13940062",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1018277/VolledigDocument?datum=2004-09-01",
+  "source_sha256": "64fee729f891ed363950d44ba30c0cce501ae5cb59aecf89a6e5d973f280084f",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1018277&param=informatie",
-  "as_of": "2001-09-01",
+  "as_of": "2004-09-01",
   "made": "2009-05-08",
   "gazette": "2009-08-28",
   "numac": 2009035809,
   "document_start": "2009-09-01",
   "document_end": null,
-  "in_force": "2001-09-01",
-  "article_versions": 6,
-  "record_form": "consolidated version as in force on 2001-09-01; future article versions excluded; article text as the API gives it"
+  "in_force": "2004-09-01",
+  "article_versions": 7,
+  "record_form": "consolidated version as in force on 2004-09-01; future article versions excluded; article text as the API gives it"
 }
