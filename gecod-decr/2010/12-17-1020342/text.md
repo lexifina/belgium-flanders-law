@@ -142,6 +142,10 @@ Het werkingsbudget wordt uitbetaald aan het schoolbestuur van elke school. Het k
 
 ## HOOFDSTUK 7. Sancties
 
+### ART. 100.
+
+Waar er reglementaire programmatie- of rationalisatienormen gelden heeft elke nieuwe oprichting van school, vestigingsplaats, niveau, type, opleidingsvorm, cyclus, leerjaar, afdeling, basisoptie, beroepenveld, optie, studierichting, specialisatiejaar of vervolmakingsjaar, in strijd met de regels van de programmatie of rationalisatie tot gevolg, dat de financiering of subsidiëring voor het bedoelde onderdeel wordt ingetrokken.<br /><br />De Vlaamse Regering bepaalt de regels voor de toepassing van de hiervoor voorziene sancties. (99)<br />
+
 ### ART. 103.
 
 Onverminderd de strafvervolging waartoe zij aanleiding zou geven, kan elke valse of onnauwkeurige verklaring, afgelegd met de bedoeling om de berekening van het bedrag van een salaristoelage of werkingsbudget te beïnvloeden, voor de betrokken school medebrengen dat de subsidiëring bij gemotiveerd besluit van de Vlaamse Regering wordt ingehouden gedurende een periode van niet meer dan zes maanden voor elke overtreding. De teruggave van de ten onrechte als subsidiëring gestorte bedragen wordt geëist tenzij de fout te wijten is aan de betalende overheid. (102)<br />
