@@ -1,0 +1,5 @@
+# Decreet van 2002-03-08 houdende instemming met :- de overeenkomst tussen de Belgisch-Luxemburgse Economische Unie en de Algerijnse Democratische Volksrepubliek inzake de wederzijdse bevordering en bescherming van investeringen, ondertekend in Algiers op 24 april 1991;- de overeenkomst tussen de Belgisch-Luxemburgse Economische Unie en de republiek Tunesië inzake de wederzijdse bevordering en bescherming van investeringen, ondertekend in Tunis op 8 januari 1997;- de overeenkomst tussen de Belgisch-Luxemburgse Economische Unie en de Arabische republiek Egypte inzake de wederzijdse bevordering en bescherming van investeringen, ondertekend in Caïro op 28 februari 1999;- de overeenkomst tussen de Belgisch-Luxemburgse Economische Unie en de regering van het Koninkrijk Marokko inzake de wederzijdse bevordering en bescherming van investeringen, ondertekend in Rabat op 13 april 1999.
+
+Official record: https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1009051&param=informatie
+
+Metadata and official link only: the Codex holds no article text for this instrument.
