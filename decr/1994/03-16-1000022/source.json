@@ -1,0 +1,13 @@
+{
+  "codex_id": 1000022,
+  "title": "Decreet van 1994-03-16 houdende goedkeuring van het samenwerkingsakkoord houdende oprichting van een Raadgevend Comité voor Bio-ethiek gesloten te Brussel op 15 januari 1993 tussen de Staat, de Vlaamse Gemeenschap, de Franse Gemeenschap, de Duitstalige Gemeenschap en de Gemeenschappelijke Gemeenschapscommissie",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/WetgevingDocument/1000022",
+  "source_sha256": "789366b8b844dde0789cf4431e432ee93a49e93454b8d8cc13305734b4e7b79e",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1000022&param=informatie",
+  "made": "1994-03-16",
+  "gazette": "1994-05-05",
+  "numac": 1994035500,
+  "in_force": "1994-03-16",
+  "record_form": "metadata and official link only: the Codex holds no article text for this instrument"
+}
