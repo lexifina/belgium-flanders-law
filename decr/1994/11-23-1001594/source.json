@@ -1,0 +1,13 @@
+{
+  "codex_id": 1001594,
+  "title": "Decreet van 1994-11-23 houdende goedkeuring van volgende internationale akten : 1. de Europa-overeenkomst waarbij een associatie tot stand wordt gebracht tussen de Europese Gemeenschappen en hun lidstaten, enerzijds, en de Tsechische Republiek, anderzijds, Bijlagen I,II,III,IV,V,VI,VII,VIII,IX,X,XIa, XIb,XII,XIII,XIV,XV,XVIa,XVIb,XVIc en XVII, Protocollen 1,2,3,4,5,6,7 en 8, en Slotakte, ondertekend te Luxemburg op 4 oktober 1993; 2. de Europa-overeenkomst waarbij een associatie tot stand wordt gebracht tussen de Europese Gemeenschappen en hun lidstaten, enerzijds, en de Slowaakse Republiek, anderzijds, Bijlagen I,II,III,IV,V,VI,VII,VIII,IX,X,XIa, XIb,XII,XIII,XIV,XV,XVIa,XVIb,XVIc, en XVII, Protocollen 1,2,3,4,5,6,7 en 8, en Slotakte, ondertekend te Luxemburg op 4 oktober 1993",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/WetgevingDocument/1001594",
+  "source_sha256": "6819fb41fff6adaa6977e2f9d9a30adff850d5a38d6df82a39b9d28119375ab5",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1001594&param=informatie",
+  "made": "1994-11-23",
+  "gazette": "1994-12-29",
+  "numac": 1994036578,
+  "in_force": "1994-11-23",
+  "record_form": "metadata and official link only: the Codex holds no article text for this instrument"
+}
