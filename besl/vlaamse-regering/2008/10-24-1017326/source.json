@@ -1,0 +1,17 @@
+{
+  "codex_id": 1017326,
+  "title": "Besluit van de Vlaamse Regering van 2008-10-24 houdende maatregelen betreffende sommige administratieve standen en de bezoldigingsregeling van het ondersteunend personeel tewerkgesteld in de centra voor volwassenenonderwijs",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1017326/VolledigDocument?datum=1999-09-01",
+  "source_sha256": "ba4e3b8192e589ddb17813275886a484d873005b09dc935aa256db4498d90c98",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1017326&param=informatie",
+  "as_of": "1999-09-01",
+  "made": "2008-10-24",
+  "gazette": "2008-11-27",
+  "numac": 2008204235,
+  "document_start": "1999-09-01",
+  "document_end": null,
+  "in_force": "1999-09-01",
+  "article_versions": 6,
+  "record_form": "consolidated version as in force on 1999-09-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
