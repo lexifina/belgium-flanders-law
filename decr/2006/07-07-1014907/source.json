@@ -1,0 +1,17 @@
+{
+  "codex_id": 1014907,
+  "title": "Decreet van 2006-07-07 betreffende het onderwijs XVI",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1014907/VolledigDocument?datum=1982-08-07",
+  "source_sha256": "ea81497d0c3bfd0d3d45cce275ffab4811e9f7782ce14459714f265d38312129",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1014907&param=informatie",
+  "as_of": "1982-08-07",
+  "made": "2006-07-07",
+  "gazette": "2006-08-31",
+  "numac": 2006036322,
+  "document_start": null,
+  "document_end": null,
+  "in_force": "1982-08-07",
+  "article_versions": 11,
+  "record_form": "consolidated version as in force on 1982-08-07; oldest version available; future article versions excluded; article text as the API gives it"
+}
