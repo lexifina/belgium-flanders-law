@@ -313,6 +313,10 @@ Het gefinancierd en gesubsidieerd secundair onderwijs wordt verstrekt gedurende 
 
 Het gefinancierd en gesubsidieerd secundair onderwijs wordt verstrekt gedurende een maximum aantal wekelijkse lestijden dat op 32 is vastgesteld, met uitzondering van het onderwijs in :<br />1° het tweede leerjaar van de eerste graad met tenminste 4 wekelijkse lestijden praktische vakken en het beroepsvoorbereidend leerjaar, waarvoor dit maximum 34 bedraagt;<br />2° de derde graad van het algemeen secundair onderwijs met tenminste 2 wekelijkse lestijden lichamelijke opvoeding en tenminste 1 wekelijkse lestijd artistieke opvoeding of esthetica, waarvoor dit maximum 33 bedraagt;<br />3° het technisch, het kunst- en het beroepssecundair onderwijs en het hoger beroepsonderwijs, waarvoor dit maximum 36 bedraagt.<br /><br />De hiervoor vermelde maxima kunnen worden overschreden door die worden georganiseerd in de eerste en in de tweede graad en in het eerste leerjaar van de derde graad. (148)<br />
 
+### ART. 150.
+
+In afwijking van artikel 149 :<br />1° kan het onderwijs worden verstrekt gedurende twintig weken per jaar in die structuuronderdelen waarvoor dit decreet de duurtijd in semesters uitdrukt; voor de HBO5-opleiding verpleegkunde geldt deze bepaling enkel bij modulaire organisatie;<br />2° wordt het minimum aantal wekelijkse lesuren voor de opleiding verpleegkunde van het hoger beroepsonderwijs vastgesteld op 36. (149)
+
 ### ART. 151.
 
 De toepassing van de bepalingen van deze afdeling mag niet tot gevolg hebben dat de school gedurende minder dan negen halve dagen per week zou open zijn. (150)
