@@ -30,6 +30,26 @@ In het gewoon, buitengewoon en het deeltijds beroepssecundair onderwijs bestaan 
 
 § 1. Krachtens het bijzonder decreet betreffende het gemeenschapsonderwijs wordt gewoon, buitengewoon, deeltijds secundair onderwijs ingericht en wordt waar daaraan behoefte bestaat, de daartoe nodige scholen of centra en afdelingen van scholen of centra tot stand gebracht.<br /><br />§ 2. De Vlaamse Gemeenschap financiert en subsidieert, overeenkomstig de decretale bepalingen betreffende het secundair onderwijs, de scholen, afdelingen of structuuronderdelen of andere onderdelen van scholen, die aan de decretale normen beantwoorden en door provincies, gemeenten, verenigingen van gemeenten, andere publiekrechtelijke personen en private personen, zijn tot stand gebracht. <br /><br />Waar er reglementaire programmatie- of rationalisatienormen gelden kunnen geen scholen, afdelingen of structuuronderdelen of andere onderdelen van scholen in stand gehouden of opgericht worden indien zij niet beantwoorden aan de gestelde normen. Evenmin kunnen scholen en centra of afdelingen ervan nieuw of verder gefinancierd of gesubsidieerd worden indien zij niet beantwoorden aan de gestelde normen.<br /><br />§ 3. Voor de toepassing van reglementaire programmatie- of rationalisatienormen wordt met karakter van het onderwijs verstrekt door een school of centrum bedoeld, het behoren ervan tot één van de categorieën van officiële of vrije scholen, zoals deze in de artikelen 5 en 110 gedefinieerd werden. (5)
 
+### ART. 7.
+
+Een schoolbestuur mag informatie verstrekken over het eigen opvoedingsproject en het onderwijsaanbod, maar het mag geen oneerlijke concurrentie voeren. (6)<br /><br />
+
+### ART. 8.
+
+Er mag geen politieke propaganda worden gevoerd in een school. (7)
+
+### ART. 9.
+
+Een schoolbestuur kan handelsactiviteiten verrichten, voorzover deze geen daden van koophandel zijn en voorzover ze verenigbaar zijn met zijn onderwijsopdracht. (8)
+
+### ART. 10.
+
+Een schoolbestuur dat sponsoring of mededelingen die rechtstreeks of onrechtstreeks ten doel hebben de verkoop van producten of diensten te bevorderen, toelaat, waakt erover dat :<br>
+1° door het schoolbestuur verstrekte leermiddelen vrij blijven van bedoelde mededelingen;<br>
+2° activiteiten vrij blijven van bedoelde mededelingen, behoudens indien deze mededelingen louter attenderen op het feit dat de activiteit of een gedeelte van de activiteit ingericht werd door middel van een gift, een schenking of een prestatie om niet of verricht onder reële prijs door een bij name genoemde natuurlijke persoon, rechtspersoon of feitelijke vereniging;<br>
+3° sponsoring en bedoelde mededelingen kennelijk niet onverenigbaar zijn met de pedagogische en onderwijskundige taken en doelstellingen van de school;<br>
+4° sponsoring en bedoelde mededelingen de objectiviteit, de geloofwaardigheid, de betrouwbaarheid en onafhankelijkheid van de school niet in het gedrang brengen.
+
 ### ART. 11.
 
 De overheveling van een school naar een ander schoolbestuur heeft ten aanzien van het Vlaams Ministerie van Onderwijs en Vorming uitwerking op 1 september. (10)
@@ -719,6 +739,14 @@ Het aantal wekelijkse uren-leraar dat aan elke school wordt toegekend en dat aan
 
 Het aantal wekelijkse uren-leraar dat aan elke school wordt toegekend is bestemd voor de toewijzing van de opdrachten aan de titularissen van het onderwijzend personeel.<br /><br />Onder titularis wordt het personeelslid verstaan dat in een vacante betrekking vast benoemd, tijdelijk aangesteld of tot de proeftijd toegelaten is, met uitzondering van wie voor een tijd de tijdelijke titularis vervangt. <br /><br />Bovenstaande bepaling impliceert dat de prestaties, geleverd door tijdelijke vervangers van voornoemde titularissen, onafhankelijk van het voor de school beschikbare pakket uren-leraar gefinancierd of gesubsidieerd worden.(213)
 
+### ART. 215.
+
+Bij toewijzing aan titularissen van het onderwijzend personeel of aan hun tijdelijke vervangers van opdrachten die niet gebaseerd zijn op het aantal wekelijkse uren-leraar dat aan elke school wordt toegekend, op andere gefinancierde of gesubsidieerde uren-leraar of op uren, bedoeld in de bepalingen betreffende de plage-uren, valt de bezoldiging ten laste van het schoolbestuur. (214)
+
+### ART. 216.
+
+§ 1. Het aantal organiseerbare plage-uren wordt gereduceerd volgens het hierna bepaalde. <br /><br />Voor de toepassing van dit artikel wordt verstaan onder :<br />a) aantal uren-leraar : de uren, verkregen in toepassing van de bepalingen inzake het aantal wekelijkse uren leraar dat aan elke school wordt toegekend, en, in voorkomend geval, in toepassing van de bepalingen inzake deeltijds beroepssecundair onderwijs, vermeerderd of verminderd met de uren-leraar ingevolge herverdeling van uren-leraar door het schoolbestuur van de school, door overname van uren-leraar van het voorgaande schooljaar, door overname van uren-leraar van een andere school, ingevolge fusie of door toetreding tot een scholengemeenschap;<br />b) plage-uren : de uren boven het minimum maar binnen het maximum aantal uren, vereist voor het ambt met volledige prestaties van leraar of godsdienstleraar, ongeacht het feit of deze uren wel of niet worden geput uit de uren, bedoeld onder a).<br /><br />§ 2. Scholen die behoren tot een scholengemeenschap : vanaf het schooljaar 2004-2005 : ten opzichte van de som van de aantallen uren-leraar van de individuele scholen mogen binnen de scholengemeenschap maximum 1,3 % plage-uren worden georganiseerd.<br /><br />§ 3. Scholen die niet behoren tot een scholengemeenschap : vanaf het schooljaar 2002-2003 mag het maximum % niet hoger liggen dan het % van het schooljaar 2001-2002.<br /><br />§ 4. De scholengemeenschappen en de scholen informeren de bevoegde onderhandelingsorganen over de verdeling en aanwending van de plage-uren. <br /><br />§ 5. Personeelsleden kunnen slechts met plage-uren worden belast als die plage-uren om organisatorische redenen noodzakelijk zijn en op een billijke en transparante wijze georganiseerd worden. Over de algemene regels die het schoolbestuur hierbij zal hanteren, wordt bij de voorbereiding van het schooljaar in elke school onderhandeld in de bevoegde organen. (215)
+
 ## [Onderafdeling 3. Scholen met studierichting Binnenvaart en Beperkte Kustvaart (verv. decr. 20 april 2018, art. 45, I: 1 september 2019)]
 
 ## Onderafdeling 4. Topsportscholen
@@ -756,6 +784,10 @@ De Vlaamse Regering kan aan scholen die voltijds gewoon kunstsecundair onderwijs
 ### ART. 252.
 
 § 1. Met regelmatige leerling wordt bedoeld de leerling die :<br />hetzij aan alle onderstaande voorwaarden voldoet :<br />1) beantwoorden aan de toelatingsvoorwaarden tot het leerjaar waarin de leerling is ingeschreven;<br />2) het geheel van de vorming van dit leerjaar werkelijk en regelmatig volgen, behoudens in geval van gewettigde afwezigheid;<br />b) hetzij aan alle onderstaande voorwaarden voldoet :<br />1) voldoen aan de toelatingsvoorwaarden tot een eerste leerjaar van de eerste graad van het secundair onderwijs, zoals bepaald in Hoofdstuk III van het besluit van de Vlaamse Regering van 19 juli 2002 betreffende de organisatie van het voltijds secundair onderwijs;<br />2) het leerprogramma dat voor hem of haar individueel is bepaald door de klassenraad werkelijk en regelmatig volgen, behoudens in geval van gewettigde afwezigheid;<br />3) onder het toepassingsgebied vallen van het besluit van de Vlaamse Regering van 12 december 2003 betreffende de integratie van leerlingen met een matige of ernstige verstandelijke handicap in het gewoon lager en secundair onderwijs.<br /><br />§ 2. Leerlingen die niet beantwoorden aan het onder a) of b) gestelde, worden beschouwd als vrije leerlingen. (251)
+
+### ART. 253.
+
+Een leerling blijft in de volgende gevallen beschouwd als regelmatige leerling in zijn oorspronkelijke school :<br />- een leerling van het voltijds gewoon secundair onderwijs of het deeltijds beroepssecundair onderwijs die op de datum van de telling van het aantal leerlingen onderwijs volgen in een school van type 5; <br />- een leerling van het voltijds gewoon secundair onderwijs, het deeltijds beroepssecundair onderwijs of het buitengewoon secundair onderwijs die op de datum van de telling van het aantal leerlingen onderwijs volgen in een school van type 5 of een dienst neuropsychiatrie voor kinderen die van het Vlaams Ministerie van Onderwijs en Vorming een subsidie-enveloppe ontvangt. <br /><br />Hij is daarenboven regelmatige leerling :<br />- in de ziekenhuisschool, voor periodes van minimum vijf al dan niet opeenvolgende dagen waarin hij per dag gemiddeld ten minste één lestijd onderwijs krijgt;<br />- in de preventoriumschool, wanneer hij voldoet aan de bepalingen van artikel 10 van het koninklijk besluit van 28 juni 1978 houdende de omschrijving van de types en de organisatie van het buitengewoon onderwijs en vaststellende de toelatings- en behoudsvoorwaarden in de diverse niveaus van het buitengewoon onderwijs. (252)
 
 ## [HOOFDSTUK 1/1. Inschrijvingsrecht voor scholen gelegen in het Nederlandse taalgebied (ing. decr. 17 mei 2019, art. III.3, I: 1 september 2022)]
 
@@ -1070,6 +1102,10 @@ Voor de toelating tot het buitengewoon secundair onderwijs komen in aanmerking p
 
 ## Onderafdeling 3. Type 5
 
+### ART. 295.
+
+Een leerling blijft in de volgende gevallen beschouwd als regelmatige   leerling in zijn oorspronkelijke school :<BR>- een leerling van het voltijds   gewoon secundair onderwijs of het deeltijds beroepssecundair onderwijs die op de   datum van de telling van het aantal leerlingen onderwijs volgen in een school   van type 5; <BR>- een leerling van het voltijds gewoon secundair onderwijs, het   deeltijds beroepssecundair onderwijs of het buitengewoon secundair onderwijs die   op de datum van de telling van het aantal leerlingen onderwijs volgen in een   school van type 5 of een dienst neuropsychiatrie voor kinderen die van het   Vlaams Ministerie van Onderwijs en Vorming een subsidie-enveloppe ontvangt.   <BR>Hij is daarenboven regelmatige leerling :<BR>- in de ziekenhuisschool, voor   periodes van minimum vijf al dan niet opeenvolgende dagen waarin hij per dag   gemiddeld ten minste één lestijd onderwijs krijgt;<BR>- in de   preventoriumschool, wanneer hij voldoet aan de bepalingen van artikel 10 van het   koninklijk besluit van 28 juni 1978 houdende de omschrijving van de types en de   organisatie van het buitengewoon onderwijs en vaststellende de toelatings- en   behoudsvoorwaarden in de diverse niveaus van het buitengewoon onderwijs. (294)
+
 ## [Afdeling 2. Recht op inschrijving (ing. decr. 17 mei 2019, art. III.44, I: 1 september 2020)]
 
 ## [Onderafdeling 1. Inwerkingtreding (ing. decr. 17 mei 2019, art. III.45, I: 1 september 2020)]
@@ -1215,6 +1251,10 @@ In het buitengewoon secundair onderwijs kunnen twee of meer vakken van de algeme
 ## HOOFDSTUK 2. Bepalingen betreffende de scholen van de opleidingsvorm 3
 
 ## Afdeling 1. Structuur en organisatie
+
+### ART. 335.
+
+De Vlaamse Regering deelt de opleidingsvorm 3 van het buitengewoon secundair beroepsonderwijs op in opleidingen die tevens worden ingericht in het voltijds beroeps- en technisch secundair onderwijs, het deeltijds beroepssecundair onderwijs en het secundair volwassenenonderwijs.<br /><br />Voor elk van deze opleidingen worden de competenties, de nodige algemene en sociale vaardigheden en de sleutelvaardigheden vastgelegd in opleidingsprofielen. (334)
 
 ### ART. 336.
 
