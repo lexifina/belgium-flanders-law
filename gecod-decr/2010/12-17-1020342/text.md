@@ -120,6 +120,10 @@ De Raad van het Gemeenschapsonderwijs, de scholengroepen en de schoolbesturen va
 
 Het werkingsbudget wordt uitbetaald aan het schoolbestuur van elke school. Het kan worden aangewend ten behoeve van al de scholen behorende tot hetzelfde schoolbestuur. Bij deze aanwending dient het schoolbestuur rekening te houden met een gelijke behandeling van zijn scholen en van de leerlingen of studenten die tot deze scholen behoren. <br /><br />De Vlaamse Regering bepaalt : <br />1° de wijze waarop de school zijn aanvraag tot financiering of subsidiëring indient; <br />2° de controlemaatregelen inzonderheid wat de aanwending van het werkingsbudget betreft. Deze controle mag evenwel geen betrekking hebben op de opportuniteit van de aanwending. (40)
 
+### ART. 42.
+
+In geval van overname van een school door een ander schoolbestuur, wordt het bedrag van het werkingsbudget waarop de overgenomen school recht had volgens de vigerende bepalingen ter zake, voor het eerste schooljaar van de overname, aan het nieuwe schoolbestuur toegekend. (41)
+
 ## [Onderafdeling 2. Naadloze flexibele trajecten onderwijs-welzijn (verv. decr. 3 juli 2015, art. 16, I: 1 september 2015)]
 
 ## Onderafdeling 3. Brussels ondersteuningscentrum secundair onderwijs
@@ -482,6 +486,10 @@ Het aantal wekelijkse uren-leraar dat aan elke school wordt toegekend is bestemd
 ## [Afdeling 5. Bemiddelings- en klachtenprocedure (ing. decr. 17 mei 2019, art. VI.34, I: 1 september 2021)]
 
 ## [HOOFDSTUK 1/3. Specifieke bepalingen over cursisten van het hoger beroepsonderwijs in scholen voor voltijds secundair onderwijs (ing. decr. 14 juli 2023, art. 23, I: 1 september 2023)]
+
+### ART. 254.
+
+§ 1. De schoolbesturen, in voorkomend geval op voordracht en na beslissing van de klassenraden of de gelijkgestelde organen, zijn bevoegd om aan de leerlingen de van rechtswege geldende studiebewijzen toe te kennen voor zover het structuuronderdeel in kwestie voldoet aan de voorwaarden inzake erkenning.<br /><br />Voor het gewoon secundair onderwijs en de opleidingsvorm 4 van het buitengewoon secundair onderwijs fungeert de delibererende klassenraad als enig orgaan op het vlak van de beslissingen inzake het al dan niet geslaagd zijn. De delibererende klassenraad oordeelt of een regelmatige leerling in voldoende mate de doelstellingen die in het leerplan zijn opgenomen, heeft bereikt om al dan niet te kunnen overgaan naar een volgend leerjaar en/of een van rechtswege geldend studiebewijs behaalt dat een bepaald civiel effect impliceert.<br /><br />De Vlaamse Regering bepaalt de samenstelling en de werking van deze delibererende klassenraad en de beroepsprocedure. <br /><br />§ 2. De Vlaamse Regering richt de examencommissies van de Vlaamse Gemeenschap op, die bevoegd zijn om, naast de erkende scholen, van rechtswege geldende studiebewijzen te verlenen. Zij regelt de inrichting ervan en stelt het programma en het inschrijvingsgeld van de examens vast. De examencommissies zijn derwijze samengesteld dat de leden die tot het officieel onderwijs behoren en de leden die tot het vrij onderwijs behoren er in gelijk aantal vertegenwoordigd zijn. (253)
 
 ## [HOOFDSTUK 3. Examencommissie van de Vlaamse Gemeenschap voor het secundair onderwijs (ing. Decr. 29 juni 2012, art. III.4, I: 1 oktober 2012)]
 
