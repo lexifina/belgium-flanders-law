@@ -920,6 +920,10 @@ Maximum 3 % van het urenpakket en van het lesurenpakket kan worden aangewend voo
 
 ## [HOOFDSTUK 2. De speciale onderwijsleermiddelen (verv. decr. 16 juni 2017, art. III.21, I: 1 september 2017)]
 
+### ART. 357.
+
+§ 1. Aan leerlingen of cursisten met een handicap die gefinancierd of gesubsidieerd gewoon secundair onderwijs volgen kunnen speciale onderwijsleermiddelen ter beschikking worden gesteld.<br /><br />§ 2. De Vlaamse Regering bepaalt de procedure voor de aanvraag van de middelen en de criteria van de toepassing. (356)
+
 ## [DEEL V/1. SPECIFIEKE BEPALINGEN OVER DUALE STRUCTUURONDERDELEN IN HET SECUNDAIR ONDERWIJS (ing. decr. 30 maart 2018, art. 9, I: 1 september 2019)]
 
 ## [TITEL 1. INLEIDENDE BEPALINGEN (ing. decr. 30 maart 2018, art. 10, I: 1 september 2019)]
