@@ -68,6 +68,14 @@ Artikel 55 van hetzelfde decreet, gewijzigd bij de decreten van 14 februari 2003
 
 ## HOOFDSTUK VI Decreten inzake inspectie en begeleiding
 
+### ART. VI.10.
+
+In artikel 82, § 3, van hetzelfde decreet, gewijzigd bij het decreet van 13 april 1999, wordt punt 5° opgeheven. <br /><br />
+
+### ART. VI.13.
+
+In artikel 13 van het decreet van 1 december 1993 betreffende de inspectie en de begeleiding van de levensbeschouwelijke vakken, gewijzigd bij het decreet van 8 juli 1996 en 13 april 1999, wordt punt 7° opgeheven. <br /><br />
+
 ## HOOFDSTUK VII Rechtspositie van het onderwijspersoneel
 
 ## Afdeling I Decreet betreffende de rechtspositie van bepaalde personeelsleden van het gemeenschapsonderwijs
@@ -76,9 +84,17 @@ Artikel 55 van hetzelfde decreet, gewijzigd bij de decreten van 14 februari 2003
 
 In artikel 17 van hetzelfde decreet, gewijzigd bij de decreten van 18 mei 1999, 13 juli 2001 en 14 februari 2003, worden de volgende wijzigingen aangebracht : <br />1° in § 2 worden de woorden « hem voor de vervulling van de betrekking ongeschikt maken » vervangen door de woorden « een gevaar vormen voor de gezondheidstoestand van de leerlingen »; <br />2° in § 3 worden de woorden « of in strijd met de bepalingen van hoofdstuk IV van het decreet van 8 juni 2000 houdende dringende maatregelen betreffende het lerarenambt » geschrapt. <br /><br />
 
+### ART. VII.5.
+
+In artikel 23 van hetzelfde decreet, gewijzigd bij de decreten van 18 mei 1999 en 14 februari 2003, wordt punt d) opgeheven. <br /><br />
+
 ### ART. VII.6.
 
 In artikel 28bis van hetzelfde decreet, ingevoegd bij het decreet van 14 juli 1998 en gewijzigd bij de decreten van 18 mei 1999, 14 februari 2003 en 15 juli 2005, worden de volgende wijzigingen aangebracht : <br />1° § 3 wordt vervangen door wat volgt :<br />« § 3. In afwijking van § 2 deelt de raad van bestuur tijdens het schooljaar 2006-2007 de lijst mee van vacant verklaarde betrekkingen in de categorie van het ondersteunend personeel in het buitengewoon secundair onderwijs, na 15 september 2006 en vóór 15 oktober 2006. De vacante betrekkingen worden vastgesteld in functie van de toestand op 15 september 2006.<br /><br />De vacante betrekkingen in de categorie van het opvoedend hulppersoneel en administratief personeel in het buitengewoon secundair onderwijs, met uitzondering van de internaten, die werden meegedeeld vóór 15 mei 2006 op basis van de toestand op 15 april 2006 hebben geen uitwerking. »;<br /><br />2° een § 7 wordt toegevoegd, die luidt als volgt :<br />« § 7. Met het oog op de vaste benoemingen op 1 januari 2007 in de centra voor volwassenenonderwijs worden, in afwijking op § 2 en rekening houdend met artikel 57 van het decreet van 2 maart 1999 tot regeling van een aantal gelegenheden van het volwassenenonderwijs, de vacante betrekkingen in het vak of de specialiteit grafische technieken in de vierde graad BSO beschouwd als vacante betrekkingen in het vak of de specialiteit grafische technieken in de derde graad TSO. ». <br /><br />
+
+### ART. VII.7.
+
+In artikel 36 van hetzelfde decreet, gewijzigd bij de decreten van 14 februari 2003 en 10 juli 2003, worden de volgende wijzigingen aangebracht : <br />1° in § 1 wordt punt 3° opgeheven;<br />2° § 3 wordt opgeheven. <br /><br />
 
 ### ART. VII.8.
 
@@ -97,6 +113,10 @@ In artikel 77quater, § 3, van hetzelfde decreet wordt 3° vervangen door wat vo
 ### ART. VII.31.
 
 In artikel 19, van hetzelfde decreet, gewijzigd bij het decreet van 8 juni 2000, worden de volgende wijzigingen aangebracht : <br />1° in § 2 worden de woorden « of in strijd met de bepalingen van hoofdstuk IV van het decreet van 8 juni 2000 houdende dringende maatregelen betreffende het lerarenambt » geschrapt; <br />2° § 3 wordt geschrapt. <br /><br />
+
+### ART. VII.32.
+
+In artikel 21, § 1, van hetzelfde decreet, gewijzigd bij de decreten van 22 april 1993, 20 december 1994, 18 mei 1999 en 14 februari 2003 wordt punt e) opgeheven. <br /><br />
 
 ### ART. VII.33.
 
