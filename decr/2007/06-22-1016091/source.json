@@ -1,0 +1,17 @@
+{
+  "codex_id": 1016091,
+  "title": "Decreet van 2007-06-22 betreffende het onderwijs XVII",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1016091/VolledigDocument?datum=1996-01-01",
+  "source_sha256": "5e7c7c46bdef691bac33b0fa7ae69e1f312678e97bd1ad53a8ea36c520e71e90",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1016091&param=informatie",
+  "as_of": "1996-01-01",
+  "made": "2007-06-22",
+  "gazette": "2007-08-21",
+  "numac": 2007036415,
+  "document_start": "2007-09-01",
+  "document_end": null,
+  "in_force": "1996-01-01",
+  "article_versions": 1,
+  "record_form": "consolidated version as in force on 1996-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
