@@ -787,6 +787,10 @@ Maximum 3 % van het urenpakket en van het lesurenpakket kan worden aangewend voo
 
 ## [HOOFDSTUK 1. De ondersteuning voor het gewoon onderwijs vanuit het buitengewoon onderwijs (verv. decr. 6 juni 2018, art. 53, I: 1 september 2018)]
 
+### ART. 351.
+
+§ 1. Geïntegreerd secundair onderwijs is een samenwerking tussen het gefinancierd of gesubsidieerd gewoon secundair en het gefinancierd of gesubsidieerd buitengewoon onderwijs. Het is bedoeld om leerlingen met een handicap of leer- en opvoedingsmoeilijkheden tijdelijk of permanent, gedeeltelijk of volledig de lessen of activiteiten te laten volgen in een school voor gewoon secundair onderwijs met hulp vanuit een school voor buitengewoon onderwijs die daartoe aanvullende lestijden of lesuren of aanvullende uren en een integratietoelage of -krediet krijgt. <br /><br />Geïntegreerd secundair onderwijs bestaat zowel op het niveau secundair onderwijs als op het niveau hoger onderwijs. Het geïntegreerd secundair onderwijs in de opleiding verpleegkunde behoort tot het niveau hoger onderwijs, het geïntegreerd secundair onderwijs in de overige structuuronderdelen van het secundair onderwijs behoort tot het niveau secundair onderwijs.<br /><br />§ 2. De integratie is permanent als de leerling ten minste vanaf de laatste schooldag van september van het lopende schooljaar tot het einde van dat schooljaar de lessen en activiteiten in het gewoon secundair onderwijs volgt. Als die periode korter is, is de integratie tijdelijk. <br /><br />§ 3. Als de geïntegreerde leerling alle lessen of activiteiten in het gewoon secundair onderwijs volgt, is de integratie volledig. Bij gedeeltelijke integratie volgt de leerling minstens twee halve dagen per week gewoon secundair onderwijs. (350)
+
 ## [HOOFDSTUK 2. De speciale onderwijsleermiddelen (verv. decr. 16 juni 2017, art. III.21, I: 1 september 2017)]
 
 ## [DEEL V/1. SPECIFIEKE BEPALINGEN OVER DUALE STRUCTUURONDERDELEN IN HET SECUNDAIR ONDERWIJS (ing. decr. 30 maart 2018, art. 9, I: 1 september 2019)]
