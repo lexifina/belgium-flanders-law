@@ -190,6 +190,10 @@ Onverminderd de strafvervolging waartoe zij aanleiding zou geven, kan elke valse
 
 Indien een personeelslid van het gemeenschaps- of van het gesubsidieerd onderwijs in strijd met het personeelsstatuut of buiten de normen is benoemd, kan de Vlaamse Regering binnen een periode van één jaar, te rekenen vanaf de datum van ontvangst door de administratieve diensten van de Vlaamse Regering van de beslissing houdende deze benoeming, het salaris of de salaristoelage terugvorderen met betrekking tot de periode. <br /><br />In het Gemeenschapsonderwijs zijn de aldus wederrechtelijke benoemde personeelsleden van ambtswege ontslagnemend. In het gesubsidieerd onderwijs is deze benoeming niet tegenstelbaar aan de betalende overheid. Daarenboven wordt in het officieel gesubsidieerd onderwijs het onregelmatig vast benoemd personeelslid in zijnen hoofde geacht aangesteld te zijn in een ambt dat opgeheven werd vanaf het ogenblik dat het schoolbestuur door de bevoegde overheid in kennis wordt gesteld dat de benoeming niet voldoet aan de voorwaarden.<br /><br />Indien de benoeming wordt bekomen door bedrieglijke handelingen of door valse of welbewust onvolledige verklaringen, bedraagt de in het eerste lid vermelde termijn 30 jaar. (104)
 
+### ART. 106.
+
+Het niet-naleven van de verplichting bedoeld in artikel 123 kan, voor elementen waar de directie niet afhankelijk is van derden, aanleiding geven tot sancties. <br /><br />De bedoelde sanctie kan een gedeeltelijke terugvordering van het werkingsbudget zijn. Bij een eerste overtreding kan die terugvordering maximum 5 % bedragen van de werkingsbudget van het voorgaand schooljaar. Bij een tweede of volgende overtreding kan de terugvordering maximum 10 % bedragen van het werkingsbudget van het voorgaand schooljaar. <br /><br />De Vlaamse Regering bepaalt de regels voor de vaststelling van de overtredingen en voor de toepassing van de sancties. Het bedoelde besluit waarborgt het recht op verdediging. (105)<br />
+
 ### ART. 108.
 
 § 1. De overtreding van de regeling inzake verlofregeling en aanwending van de schooltijd, bedoeld in artikel 12, kan aanleiding geven tot sancties.<br /><br />De bedoelde sanctie kan voor het Gemeenschapsonderwijs en voor het gesubsidieerd onderwijs een gedeeltelijke terugvordering van het werkingsbudget zijn. <br /><br />§ 2. De Vlaamse Regering bepaalt de regels voor de toepassing van de sancties. (107)<br /><br />
@@ -239,6 +243,10 @@ Voor het secundair onderwijs, erkend, gefinancierd of gesubsidieerd door de Vlaa
 ## [HOOFDSTUK 4/1. Interactief afstandsonderwijs (ing. decr. 24 maart 2023, art. 5, I: 17 april 2023)]
 
 ## HOOFDSTUK 5. [Leerplicht (verv. decr. 25 april 2014, art. III.27, I: 1 september 2014)]
+
+### ART. 123.
+
+§ 1. De Vlaamse Regering regelt de controle op de inschrijving van de niet-leerplichtige regelmatige leerlingen en cursisten. <br /><br />§ 2. De directies van scholen met niet-leerplichtige regelmatige leerlingen en/of cursisten zijn verplicht hun medewerking te verlenen aan die controle. (122)
 
 ## [HOOFDSTUK 6. Toegang tot en verwerking van persoonsgegevens (ing. decr. 4 april 2014, art. V.11, I: 1 september 2014)]
 
