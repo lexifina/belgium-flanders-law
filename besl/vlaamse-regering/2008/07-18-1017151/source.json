@@ -1,0 +1,17 @@
+{
+  "codex_id": 1017151,
+  "title": "Besluit van de Vlaamse Regering van 2008-07-18 tot wijziging van het besluit van de Vlaamse Regering van 8 juli 2005 tot instelling van een bedrijfstoeslagregeling en tot vaststelling van bepaalde steunregelingen voor landbouwers en tot toepassing van de randvoorwaarden, tot wijziging van het koninklijk besluit van 15 mei 2001 betreffende de administratieve geldboeten, bedoeld bij artikel 8 van de wet van 28 maart 1975 betreffende de handel in landbouw-, tuinbouw- en zeevisserijproducten en tot bepaling van de controlebevoegdheden bij het uitoefenen van het toezicht op de uitvoering van de wet van 28 maart 1975 betreffende de handel in landbouw-, tuinbouw- en zeevisserijproducten, voor wat betreft de bevoegdheden van het Agentschap voor Landbouw en Visserij",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1017151/VolledigDocument?datum=2005-01-01",
+  "source_sha256": "2f4a5a6338a0c1284abd7f06e0b484264c3bd0c91524e557c2f212e07595706c",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1017151&param=informatie",
+  "as_of": "2005-01-01",
+  "made": "2008-07-18",
+  "gazette": "2008-10-15",
+  "numac": 2008036140,
+  "document_start": "2008-10-25",
+  "document_end": null,
+  "in_force": "2005-01-01",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2005-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
