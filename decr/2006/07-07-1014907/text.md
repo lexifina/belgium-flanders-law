@@ -44,6 +44,10 @@ In artikel 2 van decreet van 14 juli 1998 houdende diverse maatregelen met betre
 
 ## Onderafdeling I De wet betreffende het buitengewoon en geïntegreerd onderwijs
 
+### ART. III.48.
+
+In artikel 5quater van dezelfde wet, ingevoegd bij het decreet van 13 juli 2001, wordt § 2 vervangen door wat volgt : <br />« § 2. Op jaarbasis omvat de integratiefase minimaal 1200 lesuren, waarvan minimaal 450 lesuren algemene en sociale vorming en beroepsgerichte vorming en minimaal 700 uren werkervaring in het werkervaringsbedrijf. ». <br /><br />
+
 ## Afdeling VII Inwerkingtreding
 
 ## HOOFDSTUK IV Permanente vorming
