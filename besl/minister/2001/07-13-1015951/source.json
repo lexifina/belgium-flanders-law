@@ -1,0 +1,17 @@
+{
+  "codex_id": 1015951,
+  "title": "Ministerieel besluit van 2001-07-13 tot uitvoering van het kwaliteitsdecreet voor het maatschappelijk opbouwwerk",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1015951/VolledigDocument?datum=2002-01-01",
+  "source_sha256": "2205e64ef39e07d04c4da596cf445a81b7f3e01931967e23ff277b624037fe79",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1015951&param=informatie",
+  "as_of": "2002-01-01",
+  "made": "2001-07-13",
+  "gazette": "2007-07-10",
+  "numac": 2007036022,
+  "document_start": "2002-01-01",
+  "document_end": "2015-12-31",
+  "in_force": "2002-01-01",
+  "article_versions": 9,
+  "record_form": "consolidated version as in force on 2002-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
