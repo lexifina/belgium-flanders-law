@@ -1,0 +1,17 @@
+{
+  "codex_id": 1018552,
+  "title": "Besluit van de Vlaamse Regering van 2009-09-04 betreffende de individuele concordantie naar het vak podiumtechniek in de studierichting podiumtechnieken van de derde graad van het technisch secundair onderwijs, en tot wijziging van het besluit van de Vlaamse Regering van 5 juni 1989 tot vaststelling van de algemene vakken, de kunstvakken, de technische vakken en de praktische vakken in de instellingen voor voltijds secundair onderwijs en in de instellingen voor voltijds secundair onderwijs die als centra voor deeltijds beroepssecundair onderwijs fungeren, georganiseerd of gesubsidieerd door de Vlaamse Gemeenschap, met uitzondering van de instellingen voor buitengewoon secundair onderwijs, tot wijziging van het besluit van de Vlaamse Regering van 14 juni 1989 betreffende de bekwaamheidsbewijzen, de salarisschalen, het prestatiestelsel en de bezoldigingsregeling in het secundair onderwijs en tot wijziging van het besluit van de Vlaamse Regering van 26 september 1990 betreffende de bekwaamheidsbewijzen, de salarisschalen en de bezoldigingsregeling van de leermeesters godsdienst en de godsdienstleraars",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1018552/VolledigDocument?datum=1996-09-01",
+  "source_sha256": "5a5bee83fd54781b9a3598a287e00444f96d16255d1d1568a9b81c6dab81690d",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1018552&param=informatie",
+  "as_of": "1996-09-01",
+  "made": "2009-09-04",
+  "gazette": "2009-12-07",
+  "numac": 2009036081,
+  "document_start": "2009-09-01",
+  "document_end": null,
+  "in_force": "1996-09-01",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 1996-09-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
