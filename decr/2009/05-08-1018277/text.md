@@ -64,6 +64,10 @@ In artikel 55 van hetzelfde decreet worden de volgende wijzigingen aangebracht :
 
 ## Onderafdeling I. Decreet betreffende het volwassenenonderwijs
 
+### ART. IV.45.
+
+In hetzelfde decreet wordt een artikel 197ter ingevoegd, dat luidt als volgt :<br /><br />« Artikel 197ter <br /><br />Tijdens de periode 1 september 2001 tot en met 31 augustus 2008 kan het getuigschrift, vermeld in artikel 41, § 3, ook samen met het certificaat van de opleiding kantooradministratie en gegevensbeheer BSO 3 of het certificaat van de opleiding boekhouden-informatica TSO 3 van het studiegebied handel worden uitgereikt, in het geval het bestuur van het Centrum voor Volwassenenonderwijs hiervoor over een goedgekeurd leerplan beschikt. ».
+
 ## Onderafdeling II. Inwerkingtreding
 
 ## HOOFDSTUK V. Hoger onderwijs
