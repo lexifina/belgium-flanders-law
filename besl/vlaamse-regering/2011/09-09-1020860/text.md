@@ -11,3 +11,7 @@ Artikel 21 van hetzelfde besluit wordt opgeheven. <br /><br />
 ### ART. 9.
 
 In artikel 23, tweede lid, van hetzelfde besluit worden de woorden "drie weken" vervangen door de woorden "drie jaar".<br /><br />
+
+### ART. 15.
+
+In artikel 51 van hetzelfde besluit wordt paragraaf 2 vervangen door wat volgt : <br />"§ 2. Het bedrag van de eindejaarstoelage is gelijk aan een percentage van het brutosalaris van de maand november. Dat percentage is gelijk aan het percentage dat bepaald is voor de personeelsleden met rang A2 en hoger van de diensten van de Vlaamse overheid."<br /><br />
