@@ -1,0 +1,5 @@
+# Decreet van 1999-02-09 houdende goedkeuring van de volgende internationale akten : 1° het protocol bij de partnerschaps- en samenwerkingsovereenkomst waarbij een partnerschap tot stand wordt gebracht tussen de Europese Gemeenschappen en hun lidstaten, enerzijds, en de republiek Oekraïne, anderzijds, ondertekend in Brussel op 10 april 1997; 2° het protocol bij de partnerschaps- en samenwerkingsovereenkomst waarbij een partnerschap tot stand wordt gebracht tussen de Europese Gemeenschappen en hun lidstaten, enerzijds, en de Russische Federatie, anderzijds, ondertekend in Brussel op 21 mei 1997; 3° het protocol bij de partenerschaps- en samenwerkingsovereenkomst waarbij een partnerschap tot stand wordt gebracht tussen de Europese Gemeenschappen en hun lidstaten, enerzijds, en de republiek Moldavië, anderzijds, ondertekend in Brussel op 15 mei 1997
+
+Official record: https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1006547&param=informatie
+
+Metadata and official link only: the Codex holds no article text for this instrument.
