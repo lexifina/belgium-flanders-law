@@ -1,0 +1,5 @@
+# Ministerieel besluit van 2004-11-08 houdende vaststelling van de tabel in uitvoering van het besluit van de Vlaamse Regering van 15 maart 2002 tot uitvoering van de artikelen 14, §6 en 17, §8 van het decreet van 23 januari 1991 inzake de bescherming van het leefmilieu tegen de verontreiniging door meststoffen
+
+Official record: https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1013562&param=informatie
+
+Metadata and official link only: the Codex holds no article text for this instrument.
