@@ -96,6 +96,10 @@ Jaarlijks wordt een forfaitair werkingsbudget verleend om de kosten te dekken di
 
 Wat de overeenkomsten betreft voor aanneming van werken, leveringen en diensten met betrekking tot uitgaven op de dotatie van het Gemeenschapsonderwijs en met betrekking tot uitgaven die geheel of gedeeltelijk ten laste van het werkingsbudget, de uitrustingstoelagen, de bouwtoelagen of de rentetoelagen worden gelegd, zijn de bestuursorganen van het Gemeenschapsonderwijs en de schoolbesturen ertoe gehouden de overeenkomsten af te sluiten volgens de procedure en onder de voorwaarden die voor de federale overheid gelden met dien verstande dat de bestuursorganen van het Gemeenschapsonderwijs en de schoolbesturen : <br />- de bevoegdheden uitoefenen die in de federale reglementering aan een Minister zijn toegekend;<br />- het in dezelfde reglementering bepaald advies niet hoeven in te winnen vooraleer een overeenkomst ingevolge offerteaanvragen of onderhands af te sluiten;<br />- onderhandse overeenkomsten mogen sluiten voor de aankoop van didactisch materieel, welke ook de prijs hiervan is;<br />- van de regels betreffende de keuze van een aannemer mogen afwijken bij openbare of beperkte aanbesteding, als de Vlaamse minister, bevoegd voor het onderwijs zich binnen de dertig dagen na de aanvraag hiertegen niet verzet. (37)
 
+### ART. 39.
+
+Aan het Gemeenschapsonderwijs wordt jaarlijks een globale dotatie toegekend, bestemd om de kosten te dekken die verbonden zijn aan de werking en de uitrusting van de school en aan het kosteloos verstrekken van leerboeken en schoolbehoeften aan de leerplichtige leerlingen. Deze dotatie bestaat uit een forfaitair bedrag per school en een forfaitair bedrag per leerling. Deze bedragen kunnen verschillen per niveau en vorm van onderwijs. (38)<br />
+
 ### ART. 41.
 
 Het werkingsbudget wordt uitbetaald aan het schoolbestuur van elke school. Het kan worden aangewend ten behoeve van al de scholen behorende tot hetzelfde schoolbestuur. Bij deze aanwending dient het schoolbestuur rekening te houden met een gelijke behandeling van zijn scholen en van de leerlingen of studenten die tot deze scholen behoren. <br /><br />De Vlaamse Regering bepaalt : <br />1° de wijze waarop de school zijn aanvraag tot financiering of subsidiëring indient; <br />2° de controlemaatregelen inzonderheid wat de aanwending van het werkingsbudget betreft. Deze controle mag evenwel geen betrekking hebben op de opportuniteit van de aanwending. (40)
@@ -414,11 +418,202 @@ Het buitengewoon secundair onderwijs wordt onderscheiden in verschillende types 
 
 ## Onderafdeling 1. Begrippen en inleidende bepalingen
 
+### ART. 268.
+
+§ 1. Voor de toepassing van deze afdeling wordt verstaan onder : <br />1° Hoofdgebouw : de vestigingsplaats door het schoolbestuur gekozen als administratieve zetel voor de gehele school; <br />2° Vestigingsplaats : gebouw of gebouwencomplex gevestigd op één adres waar al de lessen en de opvoedende activiteiten voor een leerjaar, een type of een opleidingsvorm worden georganiseerd; <br />3° De structuur omvat in het buitengewoon secundair onderwijs : de leerjaren, de opleidingen in opleidingsvorm 3 en de vestigingsplaatsen;<br />4° Regelmatige leerling : de leerling die beantwoordt aan de toelatingsvoorwaarden en, waar het voorzien is, aan de overgangsvoorwaarden en die regelmatig de activiteiten volgt in functie van zijn opvoedingsbehoeften; <br />5° Agglomeratie : de agglomeraties bepaald in de wet van 26 juli 1971 houdende de organisatie van agglomeraties en federaties van gemeenten;<br />6° Bevolkingsdichtheid van een arrondissement : de bevolking per bestuurlijk arrondissement, zoals die berekend werd ten gevolge van de laatst uitgevoerde volkstelling en vastgesteld door het Nationaal Instituut voor de Statistiek, gedeeld door de totale oppervlakte van het arrondissement, uitgedrukt in km2. <br /><br />De bevolkingsdichtheid, in aanmerking te nemen voor een school die vestigingsplaatsen heeft in verschillende arrondissementen, wordt vastgesteld op basis van volgende berekening : de totale bevolking van deze arrondissementen worden gedeeld door de totale oppervlakte uitgedrukt in km2. <br /><br />Voor een vestigingsplaats wordt steeds de bevolkingsdichtheid van het arrondissement waarin die vestigingsplaats werkelijk ligt, in aanmerking genomen. <br /><br />§ 2. De scholen van het buitengewoon onderwijs worden, naargelang van het schoolbestuur waarvan zij afhangen, voor de toepassing van dit besluit ingedeeld in de volgende groepen :<br />- scholen van het gemeenschapsonderwijs;<br />- gesubsidieerde officiële scholen;<br />- gesubsidieerde vrije katholieke scholen;<br />- gesubsidieerde vrije protestantse scholen;<br />- gesubsidieerde vrije israëlitische scholen;<br />- gesubsidieerde vrije islamitische scholen;<br />- gesubsidieerde vrije orthodoxe scholen;<br />- gesubsidieerde vrije anglicaanse scholen;<br />- gesubsidieerde vrije niet-confessionele scholen.<br /><br />§ 3. In geval van overmacht wordt de tijdelijke overbrenging van een school of vestigingsplaats niet gelijkgesteld met een nieuwe oprichting.<br /><br />In geval van definitieve ontruiming mag het verlaten schoolgebouw niet meer geheel of gedeeltelijk in gebruik genomen blijven. (267)
+
+### ART. 269.
+
+Aan de rationalisatie of programmatie wordt per taalstelsel uitvoering gegeven. (268)
+
+### ART. 270.
+
+Voor de toepassing van deze afdeling wordt bij de rekenkundige bewerkingen op de schoolbevolkingsminima het eindresultaat afgerond tot de hogere eenheid indien het eerste cijfer na de komma 5 of meer is. (269)
+
+### ART. 271.
+
+Zonder afbreuk te doen aan artikel 286 worden voor de toepassing van de bevolkingsminima de regelmatige leerlingen in aanmerking genomen, die op 1 oktober voldoen aan de voorwaarden bepaald in de artikelen 291 tot en met 295 en het koninklijk besluit van 28 juni 1978 houdende de omschrijving van de types en de organisatie van het buitengewoon onderwijs en vaststellende de toelatings- en behoudsvoorwaarden in de diverse niveaus van het buitengewoon onderwijs. (270)
+
+### ART. 272.
+
+Er wordt geen onderscheid gemaakt tussen de scholen voor jongens, de scholen voor meisjes en de scholen met gemengd onderwijs. (271)
+
+### ART. 273.
+
+Voor de toepassing van deze afdeling is de afstand tussen het hoofdgebouw van de school en een vestigingsplaats de kortst mogelijke afstand gemeten langs de rijbaan zoals omschreven in artikel 2 van het koninklijk besluit van 1 december 1975 houdende algemeen reglement op de politie van het wegverkeer, zonder dat rekening wordt gehouden met wegomleggingen en eenrichtingsverkeer. (272)
+
 ## Onderafdeling 2. Fusie
+
+### ART. 274.
+
+§ 1. De fusie van scholen kan worden doorgevoerd onder volgende voorwaarden : <br />1. De fusie geschiedt : <br />- ofwel door samenvoeging tot één school van twee of meer scholen die gelijktijdig worden afgeschaft;<br />- ofwel door de samenvoeging van twee of meer scholen waarbij één van de betrokken scholen blijft bestaan die de andere school of scholen opslorpt.<br />2. De fusie wordt zowel uit oogpunt van de administratieve, als van pedagogische organisatie in éénmaal tot stand gebracht. <br />Zij sluit in dat er nog slechts één schoolbestuur en één schooldirectie is.<br />3. De fusie moet ingaan uiterlijk op 1 oktober van het lopende schooljaar. <br /><br />§ 2. De scholen gefinancierd of gesubsidieerd in functie van artikel 286 kunnen in de periode van programmatie geen beroep doen op de bepalingen van § 1 van dit artikel.<br /><br />§ 3. De school ontstaan uit een fusie wordt niet beschouwd als een oprichting van een nieuwe school. (273)<br />
+
+### ART. 275.
+
+§ 1. Een bestaande school of een school die ontstaat door fusie, kan verschillende vestigingsplaatsen hebben, of zich aldus organiseren, op voorwaarde dat ze één pedagogisch en administratief geheel vormt, gevestigd in eenzelfde geheel van gebouwen of in ieder geval in eenzelfde gemeente of agglomeratie, en onder leiding van eenzelfde directie staat. <br /><br />Dit alles behoudens afwijking door de Vlaamse Regering toegestaan, in exceptionele gevallen. <br /><br />§ 2. De vestigingsplaatsen buiten het hoofdgebouw komen niet in aanmerking voor de berekeningen van de afstand naar de dichtstbijzijnde school. (274)
 
 ## Onderafdeling 3. Rationalisatie
 
+### ART. 276.
+
+Elke school voor buitengewoon secundair onderwijs moet op de datum bepaald in artikel 271 ten minste 15 leerlingen tellen. (275)
+
+### ART. 277.
+
+<p>§ 1. Elke school voor buitengewoon secundair onderwijs moet op de datum bepaald in artikel 271 aan de bevolkingsminima voldoen bepaald in § 5 van dit artikel.<br>
+<br>
+§ 2. In de scholen voor secundair onderwijs met meer dan één opleidingsvorm wordt het bevolkingsminimum bepaald door de som te maken van de bevolkingsminima, zoals bepaald in § 5 van dit artikel, van de opleidingsvormen die in de school gefinancierd of gesubsidieerd zijn.<br>
+<br>
+§ 3. De rationalisatienormen, zoals bepaald in § 5 van dit artikel, worden toegepast op de globale bevolking van al de vestigingsplaatsen. Het hoofdgebouw wordt daarbij in aanmerking genomen als vestigingsplaats.<br>
+<br>
+§ 4. Onverminderd de bepalingen van § 3 van dit artikel, moet in elke vestigingsplaats gelegen op een afstand van 2 km en meer ten minste per opleidingsvorm de 2/3 bereikt worden van de norm bepaald in § 5 van dit artikel.<br>
+<br>
+§ 5. De minima worden voor de verschillende opleidingsvormen afzonderlijk vastgesteld als volgt :</p>
+
+<table border="1" cellpadding="0">
+	<tbody>
+		<tr>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; width:142.5pt">
+			<p>Opleidingsvorm<!--?xml:namespace         prefix = o ns = "urn:schemas-microsoft-com:office:office"         /--></p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; width:139.5pt">
+			<p>Bevolkingsminimum</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; width:142.5pt">
+			<p>1</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; width:139.5pt">
+			<p>7</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; width:142.5pt">
+			<p>2</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; width:139.5pt">
+			<p>12</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; width:142.5pt">
+			<p>3</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; width:139.5pt">
+			<p>24</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; width:142.5pt">
+			<p>4</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; width:139.5pt">
+			<p>12</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+<p>&nbsp;</p>
+
+<p>§ 6. In de opleidingsvorm 4 mag het aantal leerlingen van de types 6 en 7 met 2 vermenigvuldigd worden om de norm te bereiken bepaald in § 5 van dit artikel. (276)</p>
+
+### ART. 278.
+
+In afwijking van artikel 277 worden de minima verminderd met één vierde : <br />- voor de scholen, gelegen in arrondissementen met een bevolkingsdichtheid van minder dan 75 inwoners/km2;<br />- voor de scholen met het Nederlands als onderwijstaal, die gelegen zijn in het tweetalig gebied Brussel-Hoofdstad. (277)
+
+### ART. 279.
+
+§ 1. In afwijking van de artikelen 277 en 281, § 1, kan, indien in het tweetalig gebied Brussel-Hoofdstad geen enkele school van een bepaalde groep met het Nederlands als onderwijstaal, de rationalisatienormen voorzien in deze afdeling bereikt, één school van deze groep in dit arrondissement de georganiseerde opleidingsvormen en haar volledige structuur behouden op voorwaarde dat ze ten minste 15 leerlingen telt, ongeacht de bevolking per opleidingsvorm. <br /><br />§ 2. Indien meerdere scholen hiervoor in aanmerking komen dan blijft de school met het grootste aantal regelmatige leerlingen op 1 oktober verder bestaan. (278)
+
+### ART. 280.
+
+§ 1. Elke school met verschillende opleidingsvormen, die het totaal van de normen bereikt met toepassing van de artikelen 277, § 5, en 278, maar waarvan de bevolking van één of meer opleidingsvormen beneden de normen gesteld bij dezelfde artikelen ligt, mag deze opleidingsvormen behouden wanneer de bevolking van elke opleidingsvorm afzonderlijk niet minder bedraagt dan 2/3 van deze norm. <br /><br />§ 2. Elke school bestaande uit verschillende opleidingsvormen die het totaal van de normen bereikt met toepassing van de artikelen 277, § 5, en 278, maar waarvan de bevolking van één of meer opleidingsvormen gedurende twee opeenvolgende schooljaren de norm gesteld in § 1 van dit artikel niet bereikt, moet de in gebreke blijvende opleidingsvorm(en) met ingang van 1 oktober van dit tweede schooljaar afschaffen of de school moet vanaf dezelfde datum fusioneren.<br /><br />§ 3. Elke school bestaande uit verschillende opleidingsvormen, die gedurende twee opeenvolgende schooljaren niet het totaal van de norm bereikt met toepassing van de artikelen 277, § 5, en 278, maar waarvan elke opleidingsvorm de norm bereikt gesteld in § 1, van dit artikel, moet uiterlijk met ingang van 1 oktober van het tweede schooljaar de in gebreke blijvende opleidingsvorm(en) afschaffen, ofwel moet de school vanaf dezelfde datum fusioneren.<br /><br />§ 4. Onverminderd de bepalingen van artikel 276 moet elke school die slechts opleidingsvorm 3 inricht, en die gedurende twee opeenvolgende schooljaren de norm met toepassing van de artikelen 277, § 5, en 278, niet bereikt maar waarvan de bevolking niet minder bedraagt dan 2/3 van de norm die daarop toepasselijk is, uiterlijk met ingang van 1 oktober van het tweede schooljaar afgeschaft worden ofwel moet de school vanaf dezelfde datum fusioneren.<br /><br />§ 5. In een school met verschillende opleidingsvormen, waar opleidingsvorm 3 afgeschaft moet worden krachtens deze afdeling en waar binnen deze opleidingsvorm slechts één opleiding bestond, mag deze opleiding geleidelijk opgeheven worden, leerjaar na leerjaar, te beginnen met het laagste, op voorwaarde dat binnen een afstand van 20 km geen enkele school van dezelfde groep deze opleiding organiseert. (279)
+
+### ART. 281.
+
+<p>§ 1. Onverminderd de bepalingen van artikel 276 dient de bevolking in de opleidingsvorm 3 van een school voor buitengewoon secundair onderwijs, om het hieronder bepaald aantal opleidingen te behouden, aan volgende minima te voldoen :<br>
+</p>
+
+<table border="1" cellpadding="0">
+	<tbody>
+		<tr>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; width:142.5pt">
+			<p>Opleidingsvorm<!--?xml:namespace         prefix = o ns = "urn:schemas-microsoft-com:office:office"         /--></p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; width:139.5pt">
+			<p>Bevolkingsminimum</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; width:142.5pt">
+			<p>2</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; width:139.5pt">
+			<p>32</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; width:142.5pt">
+			<p>3</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; width:139.5pt">
+			<p>48</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; width:142.5pt">
+			<p>4</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; width:139.5pt">
+			<p>64</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+<p>&nbsp;</p>
+
+<p>en één bijkomende opleiding per reeks van 16 leerlingen.<br>
+<br>
+§ 2. Bij deze berekening worden de in aanmerking komende leerlingen van de types 6 en 7 vermenigvuldigd met 2.<br>
+<br>
+§ 3. Voor de scholen bedoeld in artikel 278, die opleidingsvorm 3 organiseren, wordt de minimum schoolbevolking vereist voor 2 opleidingen bepaald op 24. (280)</p>
+
+### ART. 282.
+
+In afwijking van artikel 276 moet de school die gedurende twee opeenvolgende schooljaren de norm met toepassing van artikel 281 niet bereikt, uiterlijk met ingang van 1 oktober van dit tweede schooljaar, de niet meer te financieren of te subsidiëren opleiding geleidelijk opheffen, leerjaar na leerjaar, te beginnen met het laagste, ofwel moet de school fusioneren. (281)
+
+### ART. 283.
+
+Indien voor een bepaalde opleidingsvorm in een bepaalde provincie en per taalstelsel geen enkele school van een bepaalde groep de rationalisatienorm voorzien in deze afdeling bereikt, dan mag één school van deze groep in deze provincie en dit taalstelsel de opleidingsvorm behouden op voorwaarde dat de totale schoolbevolking van 15 leerlingen bereikt wordt. (282)<br />
+
+### ART. 284.
+
+Indien op de datum bepaald in artikel 271 de rationalisatienormen voorzien in de artikelen 276 tot en met 279 niet bereikt worden, dan moet(en) ofwel de in gebreke blijvende opleidingsvorm(en) uiterlijk met ingang van 1 oktober van het lopende schooljaar afgeschaft worden ofwel moet de school vanaf dezelfde datum fusioneren. (283)
+
+### ART. 285.
+
+In een vestigingsplaats ontstaan door fusie met toepassing van artikel 275 kunnen alleen de opleidingsvormen en opleidingen die er bestonden vóór de fusie verder georganiseerd blijven. (284)
+
 ## Onderafdeling 4. Programmatie
+
+### ART. 286.
+
+§ 1. Per 1 september kan een school worden opgenomen in de financiering of subsdiëring indien op de datum bepaald in artikel 271 aan de drie volgende voorwaarden wordt voldaan : <br />1° ten minste 2 opleidingsvormen organiseren;<br />2° voor elke opleidingsvorm afzonderlijk 150 % van de rationalisatienorm, bepaald in de artikelen 277, 278 en 281 van deze afdeling bereiken;<br />3° ten minste : het eerste jaar 200 %, het tweede jaar 250 %, en het derde jaar 300 %,<br />van het totaal van de rationalisatienormen bepaald in de artikelen 277 en 278, voor elke gefinancierde of gesubsidieerde opleidingsvorm bereiken.<br /><br />§ 2. Worden deze minima niet bereikt, dan moet(en) hetzij de in gebreke blijvende opleidingsvorm(en) hetzij de school met ingang van 1 september daaropvolgend worden opgeheven. <br /><br />§ 3. Met ingang van het vierde schooljaar zijn uitsluitend de bepalingen van de rationalisatie van toepassing. (285)
+
+### ART. 287.
+
+§ 1. Elke school, die voldoet aan de rationalisatienormen bepaald bij de artikelen 276 tot en met 278 mag binnen een afstand van minder dan 2 km van het hoofdgebouw één of meer vestigingsplaatsen oprichten. <br /><br />§ 2. Elke school, die voldoet aan de rationalisatienormen bepaald bij de artikelen 276 tot en met 278 van deze afdeling mag op een afstand van 2 km en meer van het hoofdgebouw één of meer vestigingsplaatsen oprichten op voorwaarde dat de schoolbevolking in iedere vestigingsplaats ten minste de rationalisatienormen bereikt.<br /><br />§ 3. In de vestigingsplaatsen bedoeld bij de § 1 en § 2 kunnen uitsluitend reeds in de school gefinancierde of gesubsidieerde opleidingsvormen en opleidingen worden opgericht. (286)<br />
+
+### ART. 288.
+
+§ 1. In afwijking van artikel 286 is de financiering of subsidiering van buitengewoon onderwijs van het type 5 in opleidingsvorm 4 op secundair niveau op 1 september onderworpen aan de rationalisatienorm bepaald in de artikelen 277 en 278, op voorwaarde dat dit onderwijs van het type 5 gehecht is aan een ziekenhuis of aan een door de Vlaamse Gemeenschap opgerichte of erkende medische-sociale instelling en dat er een school voor buitengewoon basisonderwijs gefinancierd of gesubsidieerd is op de datum van inwerkingtreding. <br /><br />§ 2. 1° In afwijking van artikel 286 en van § 1 van dit artikel, is de financiering of subsidiëring van het type 5 op secundair niveau in de opleidingsvorm 4 mogelijk voor een school voor buitengewoon basisonderwijs, op voorwaarde dat op 1 september :<br />het eerste jaar 200 %, het tweede jaar 250 %, het derde jaar 300 %, van de rationalisatienorm bepaald in de artikelen 277 en 278 voor de opleidingsvorm 4 wordt bereikt; <br />2° Indien deze opleidingsvorm de programmatienorm niet bereikt moet hij worden opgeheven op 1 september daaropvolgend; <br />3° Met ingang van het vierde schooljaar zijn uitsluitend de bepalingen van de rationalisatie van toepassing; <br />4° Deze opleidingsvorm 4 voor het type 5 kan niet worden gefinancierd of gesubsidieerd tijdens de periode van programmatie van de school voor buitengewoon basisonderwijs. <br /><br />§ 3. Met toepassing van § 1 van dit artikel wordt de directeur van de basisschool belast met de administratieve directie van het buitengewoon onderwijs van het type 5 op secundair niveau en wordt er geen enkel selectieambt of bevorderingsambt gefiancierd of gesubsidieerd op het niveau van het secundair onderwijs. (287)
+
+### ART. 289.
+
+§ 1. Bij beslissing van het schoolbestuur kan een bestaande school die voldoet aan de rationalisatienorm per 1 september : <br />1° een bestaande opleidingsvorm 1 of 2 die aan de rationalisatienorm voldoet omvormen tot een andere opleidingsvorm op voorwaarde dat de bestaande opleidingsvorm volledig en gelijktijdig wordt opgeheven en dat, op 1 oktober van het schooljaar waarin de omvorming wordt aangevat, in de ontstane opleidingsvorm de rationalisatienorm wordt bereikt; <br />2° een bestaande opleidingsvorm 3 of 4 die aan de rationalisatienorm voldoet omvormen tot een andere opleidingsvorm, op voorwaarde dat de bestaande opleidingsvorm gelijktijdig, leerjaar na leerjaar, te beginnen met het laagste, wordt opgeheven en dat op 1 oktober van het schooljaar waarin de omvorming wordt aangevat, in de ontstane opleidingsvorm de rationalisatienorm wordt bereikt; <br />3° een bestaande opleiding in opleidingsvorm 3 die beantwoordt aan de rationalisatienorm omvormen tot een andere opleiding, op voorwaarde dat de bestaande opleiding gelijktijdig, leerjaar na leerjaar, te beginnen met het laatste, wordt opgeheven en dat op 1 oktober van het schooljaar waarin de omvorming wordt aangevat, voldaan wordt aan de normen voorzien in artikel 281.<br />Tijdens de periode van omvorming kunnen in de opleidingsvorm of de opleiding, die opgeheven wordt, geen nieuwe leerlingen ingeschreven worden, nochtans mogen de leerlingen die deze opleidingsvorm of deze opleiding in deze school volgen hun opleiding daarin beëindigen. De leerlingen van de opleidingsvorm of de opleiding, die opgeheven wordt, komen evenwel niet in aanmerking voor de berekening van de rationalisatienormen zoals bepaald in deze afdeling; <br />4° deze omvormingen voorzien in de punten 1°, 2° en 3° van deze paragraaf moeten doorgevoerd worden in al de vestigingsplaatsen van de school waar deze opleidingsvorm of deze opleiding wordt georganiseerd; <br />5° een opleidingsvorm 1, 2 of 3 oprichten op voorwaarde dat, op de datum bepaald in artikel 271 : <br />- het vorig schooljaar ten minste 150 % van het totaal van de rationalisatienormen bepaald in de artikelen 277 en 278 voor de georganiseerde opleidingsvormen werd bereikt;<br />- 250 % van de rationalisatienorm bepaald in de artikelen 277 en 278 voor deze opleidingsvorm gedurende twee opeenvolgende schooljaren wordt bereikt.<br />Met ingang van het derde schooljaar zijn uitsluitend de bepalingen inzake rationalisatie van toepassing; <br />6° een opleidingsvorm 4 oprichten, op voorwaarde dat op de datum bepaald in artikel 271 : <br />- het vorig schooljaar tenminste 150 % van het totaal van de rationalisatienormen bepaald in de artikelen 277 en 278 voor de georganiseerde opleidingsvormen werd bereikt;<br />- 125 % van de rationalisatienorm bepaald in de artikelen 277, § 5, en 278 voor deze opleidingsvorm gedurende twee opeenvolgende schooljaren wordt bereikt.<br />Met ingang van het derde schooljaar zijn uitsluitend de bepalingen inzake rationalisatie van toepassing. <br /><br />§ 2. Per provincie en per groep en per taalstelsel kan in een bestaande school een opleidingsvorm gefinancierd of gesubsidieerd worden op voorwaarde dat op de datum die in artikel 271 wordt bepaald aan volgende voorwaarden wordt voldaan :<br />- deze opleidingsvorm op 1 september 1986 in deze provincie en in deze groep niet gefinancierd of gesubsidieerd was;<br />- het vorig schooljaar tenminste het totaal van de rationalisatienormen bepaald in de artikelen 277 en 278 voor de georganiseerde opleidingsvormen werd bereikt;<br />- voor elk van de nieuw georganiseerde opleidingsvormen gedurende twee opeenvolgende schooljaren de rationalisatienormen bepaald in de artikelen 277 en 278 bereiken.<br /><br />Met ingang van het derde schooljaar zijn uitsluitend de bepalingen inzake rationalisatie van toepassing. <br /><br />De bepalingen van § 1, 1°, 2° en 3° van dit artikel zijn tijdens de periode van programmatie niet van toepassing voor de opleidingsvormen opgericht of in de toelageregeling opgenomen overeenkomstig deze paragraaf. <br /><br />§ 3. In een bestaande school die een opleidingsvorm 3 organiseert die aan de rationalisatienorm voldoet, kan :<br />- een tweede opleiding worden opgericht wanneer de opleidingsvorm 60 leerlingen telt;<br />- een derde opleiding indien hij 90 leerlingen telt;<br />- een vierde opleiding wanneer hij 140 leerlingen telt.<br /><br />Vervolgens mag een bijkomende opleiding opgericht worden per bijkomende schijf van 50 leerlingen. <br /><br />Elke nieuwe opleiding dient gedurende twee opeenvolgende schooljaren op de datum vermeld in artikel 271 te voldoen aan de overeenkomstige norm. <br /><br />Met ingang van het derde schooljaar zijn uitsluitend de bepalingen van de rationalisatie van toepassing. <br /><br />De bepalingen van § 1, 3°, van dit artikel zijn niet van toepassing tijdens de periode van programmatie van de opleidingen gefinancierd of gesubsidieerd overeenkomstig deze paragraaf. <br /><br />§ 4. De bepalingen van § 1, 5° en 6° van § 2 en § 3 van dit artikel worden afzonderlijk per school toegepast op het hoofdgebouw en iedere vestigingsplaats gelegen op 2 km en meer van het hoofdgebouw. (288)<br />
 
 ## HOOFDSTUK 2. Bepalingen betreffende leerlingen van de opleidingsvormen 1, 2, 3 en 4
 
