@@ -1,0 +1,5 @@
+# Besluit van de Vlaamse Regering van 2002-06-14 tot wijziging van het besluit van de Vlaamse regering van 5 maart 1996 houdende vaststelling van het Vlaams reglement betreffende de bodemsanering
+
+Official record: https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1009340&param=informatie
+
+Metadata and official link only: the Codex holds no article text for this instrument.
