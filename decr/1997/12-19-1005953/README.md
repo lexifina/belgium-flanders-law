@@ -1,0 +1,5 @@
+# Decreet van 1997-12-19 houdende instemming met het samenwerkingsakkoord inzake astrofysica met bijlage, ondertekend in Santa Cruz de la Palma op 26 mei 1979; het prototcol van samenwerking inzake astrofysisch onderzoek in Spanje, ondertekend in Santa Cruz de la Palma op 26 mei 1979; het addendum bij het protocol van samenwerking inzake astrofysisch onderzoek in Spanje, ondertekend in Madrid op 8 april 1983;het protocol bij het samenwerkingsakkoord inzake astrofysica, ondertekend in Madrid op 18 april 1983; het protocol bij het samenwerkingsakkoord inzake astrofysica, ondertekend in Madrid op 18 april 1988; het protocol tot wijziging van het prototcol van samenwerking inzake astrofysisch onderzoek in Spanje, ondertekend in Madrid op 18 april 1988; en het protocol tot wijziging van het addendum bij het protocol van samenwerking inzake astrofysisch onderzoek in Spanje, ondertekend in Madrid op 18 april 1988
+
+Official record: https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1005953&param=informatie
+
+Metadata and official link only: the Codex holds no article text for this instrument.
