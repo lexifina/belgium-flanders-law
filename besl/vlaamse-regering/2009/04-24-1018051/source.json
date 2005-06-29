@@ -1,0 +1,17 @@
+{
+  "codex_id": 1018051,
+  "title": "Besluit van de Vlaamse Regering van 2009-04-24 tot verlenging van het samenwerkingsakkoord tussen de Vlaamse Gemeenschap en het Waalse Gewest betreffende de integratie van personen met een handicap",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1018051/VolledigDocument?datum=2005-06-29",
+  "source_sha256": "4bfc888a400349e2d0b817a5dc02a210d22a13135d1f2528bf32e2c4e02db42c",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1018051&param=informatie",
+  "as_of": "2005-06-29",
+  "made": "2009-04-24",
+  "gazette": "2009-06-26",
+  "numac": 2009202691,
+  "document_start": "2005-06-29",
+  "document_end": null,
+  "in_force": "2005-06-29",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2005-06-29; oldest version available; future article versions excluded; article text as the API gives it"
+}
