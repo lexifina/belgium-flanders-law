@@ -1,0 +1,17 @@
+{
+  "codex_id": 1014998,
+  "title": "Besluit van de Vlaamse Regering van 2006-07-14 betreffende de overdracht van goederen, rechten en verplichtingen van de VOI Export Vlaanderen en de DAB Dienst Investeren in Vlaanderen aan het publiekrechtelijk vormgegeven extern verzelfstandigd agentschap Vlaams Agentschap voor Internationaal Ondernemen",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1014998/VolledigDocument?datum=2005-07-01",
+  "source_sha256": "6de74a64cf4fe203732f4cbb035032c9db5d517aefdf3572eeeeb4dd26a00291",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1014998&param=informatie",
+  "as_of": "2005-07-01",
+  "made": "2006-07-14",
+  "gazette": "2006-10-03",
+  "numac": 2006036406,
+  "document_start": "2005-07-01",
+  "document_end": null,
+  "in_force": "2005-07-01",
+  "article_versions": 7,
+  "record_form": "consolidated version as in force on 2005-07-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
