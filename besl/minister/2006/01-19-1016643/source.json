@@ -1,0 +1,17 @@
+{
+  "codex_id": 1016643,
+  "title": "Ministerieel besluit van 2006-01-19 houdende bepaling van de periodes die met een periode van inactiviteit worden gelijkgesteld, in uitvoering van artikel 1, 3°, laatste lid van het besluit van de Vlaamse Regering van 15 juli 2005 betreffende de erkenning en financiering van de invoegbedrijven",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1016643/VolledigDocument?datum=2005-07-01",
+  "source_sha256": "1d5e834a2aec838864615974ecf3c0b577fcb7ce58fc914f49e7e342f2312afd",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1016643&param=informatie",
+  "as_of": "2005-07-01",
+  "made": "2006-01-19",
+  "gazette": "2008-03-06",
+  "numac": 2008035343,
+  "document_start": null,
+  "document_end": null,
+  "in_force": "2005-07-01",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2005-07-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
