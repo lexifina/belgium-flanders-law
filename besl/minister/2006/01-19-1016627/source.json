@@ -1,0 +1,17 @@
+{
+  "codex_id": 1016627,
+  "title": "Ministerieel besluit van 2006-01-19 houdende bepaling van de invoegwerknemers",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1016627/VolledigDocument?datum=2005-07-01",
+  "source_sha256": "8085730a02da49e7b39a1d10945a1de5371143126d89e6b291bffd669558a8e1",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1016627&param=informatie",
+  "as_of": "2005-07-01",
+  "made": "2006-01-19",
+  "gazette": "2008-03-03",
+  "numac": 2008035342,
+  "document_start": "2005-07-01",
+  "document_end": null,
+  "in_force": "2005-07-01",
+  "article_versions": 5,
+  "record_form": "consolidated version as in force on 2005-07-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
