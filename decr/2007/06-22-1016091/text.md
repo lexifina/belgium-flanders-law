@@ -82,7 +82,19 @@ Aan artikel 13 van het decreet van 22 december 1995 houdende wijziging van diver
 
 ## Afdeling I Decreet betreffende de rechtspositie van bepaalde personeelsleden van het gemeenschapsonderwijs
 
+### ART. VIII.4.
+
+In artikel 40octies van hetzelfde decreet, ingevoegd bij het decreet van 14 juli 1998 en vervangen bij het decreet van 10 juli 2003, wordt in punt 2° het woord « beleidsmedewerker » vervangen door de woorden « ICT-coördinator en de zorgcoördinator ».<br /><br />
+
+### ART. VIII.8.
+
+In artikel 55octiesdecies van hetzelfde decreet, ingevoegd bij het decreet van 18 mei 1999 en gewijzigd bij het decreet van 13 juli 2001, worden de woorden « op een bijwedde » en de woorden « de grootte van de bijwedde » respectievelijk vervangen door de woorden « op een niet-verworven salarisschaal » en de woorden « de niet-verworven salarisschaal ».<br /><br />
+
 ## Afdeling II Decreet betreffende de rechtspositie van sommige personeelsleden van het gesubsidieerd onderwijs en de gesubsidieerde centra voor leerlingenbegeleiding
+
+### ART. VIII.21.
+
+In artikel 36sexies van hetzelfde decreet, ingevoegd bij het decreet van 14 juli 1998 en vervangen bij het decreet van 10 juli 2003, wordt in punt 2° het woord « beleidsmedewerker » vervangen door de woorden « ICT-coördinator en de zorgcoördinator ».<br /><br />
 
 ## HOOFDSTUK IX Andere bepalingen
 
