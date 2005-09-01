@@ -180,6 +180,10 @@ Het werkingsbudget wordt uitbetaald aan het schoolbestuur van elke school. Het k
 
 In geval van overname van een school door een ander schoolbestuur, wordt het bedrag van het werkingsbudget waarop de overgenomen school recht had volgens de vigerende bepalingen ter zake, voor het eerste schooljaar van de overname, aan het nieuwe schoolbestuur toegekend. (41)
 
+### ART. 43.
+
+§ 1. De representatieve verenigingen van de schoolbesturen of schoolbesturen van de gesubsidieerde vrije scholen bepalen, voor de schoolbesturen of schoolbesturen die dit wensen, de boekhoudkundige verplichtingen inzake de vereenvoudigde boekhouding en de dubbele boekhouding zoals bepaald in artikel 17, § 4, van de wet van 27 juni 1921 betreffende de verenigingen zonder winstoogmerk, de internationale verenigingen zonder winstoogmerk en de stichtingen. <br /><br />Deze boekhoudkundige verplichtingen dienen in bijkomende orde er mee rekening te houden dat de saldi, zoals bepaald conform het Europees Rekening Stelsel, door de Vlaamse Gemeenschap kunnen worden afgeleid uit de afgelegde rekeningen, zodat de Vlaamse Gemeenschap kan voldoen aan de terzake geldende Europese verplichtingen.<br /><br />§ 2. De onder § 1 bedoelde vereenvoudigde boekhouding omvat, rekening houdend met de aard en de omvang van de schoolbesturen, ten minste alle verrichtingen betreffende de mutaties in contant geld of op de rekeningen.<br /><br />§ 3. De onder § 1 bedoelde regels voor de vereenvoudigde boekhouding omvatten minimaal :<br />1° basisregels met betrekking tot het voeren van een vereenvoudigde boekhouding;<br />2° de staat van de ontvangsten en de uitgaven;<br />3° de jaarrekening;<br />4° de inventaris.<br /><br />§ 4. De onder § 1 bedoelde dubbele boekhouding omvat, rekening houdend met de aard en de omvang van de scholen, alle verrichtingen, bezittingen en schulden, rechten en verplichtingen van welke aard ook, betreffende de door de subsidiërende overheid verstrekte toelagen en de eigen middelen van elk schoolbestuur.<br /><br />§ 5. De onder § 1 bedoelde regels voor de economische boekhouding omvatten minimaal :<br />1° de vorm en de inhoud van de jaarrekening;<br />2° de waarderingsregels;<br />3° de structuur van de jaarrekening;<br />4° het schema van de balans;<br />5° het schema van de resultatenrekening;<br />6° de inhoud van de toelichting;<br />7° de inhoud van de rubrieken van de balans en van de resultatenrekening;<br />8° het minimum algemeen rekeningenstelsel.<br /><br />§ 6. De in § 1 bedoelde regels worden door elke representatieve vereniging van de schoolbesturen of schoolbesturen van de gesubsidieerde vrije scholen meegedeeld aan de Vlaamse Regering.<br /><br />§ 7. Voor de eerste maal vervullen de representatieve verenigingen van de schoolbesturen of schoolbesturen van de gesubsidieerde vrije scholen binnen 30 dagen na de inwerkingtreding van deze bepalingen, de in § 6 bedoelde verplichtingen. (42)
+
 ## [Onderafdeling 2. Naadloze flexibele trajecten onderwijs-welzijn (verv. decr. 3 juli 2015, art. 16, I: 1 september 2015)]
 
 ## Onderafdeling 3. Brussels ondersteuningscentrum secundair onderwijs
@@ -413,6 +417,34 @@ Voor het secundair onderwijs, erkend, gefinancierd of gesubsidieerd door de Vlaa
 ## [HOOFDSTUK 3/1. De Vlaamse toetsen (ing. decr. 28 april 2023, art. 11, I: 1 april 2023)]
 
 ## HOOFDSTUK 4. [Specifieke maatregelen voor bepaalde doelgroepen (verv. decr. 17 juni 2016, art. III.15, I: 1 september 2016)]
+
+### ART. 116.
+
+Voor de toepassing van artikel 116 tot en met 120 wordt verstaan onder :<br />1° secundair onderwijs : het secundair onderwijs met uitzondering van :<br />a) in het voltijds secundair onderwijs, het derde leerjaar van het algemeen en het kunstsecundair onderwijs aangeduid als voorbereidend jaar op het hoger onderwijs, de Se-n-Se van het technisch en het kunstsecundair onderwijs, de vierde graad van het secundair onderwijs, het hoger beroepsonderwijs;<br />b) het deeltijds beroepssecundair onderwijs; <br />c) de alternerende beroepsopleiding in het buitengewoon secundair onderwijs;<br />2° onderwijs aan huis voor zieke jongeren : onderwijs dat thuis of in een medische instelling verstrekt wordt aan zieke leerlingen of leerlingen met een handicap;<br />3° toelatingsvoorwaarden : de toelatingsvoorwaarden bepaald in artikel 294, § 1 en in artikel 10 van het koninklijk besluit van 28 juni 1978 houdende de omschrijving van de types en de organisatie van het buitengewoon onderwijs en vaststellende de toelatings- en behoudsvoorwaarden in de diverse niveaus van het buitengewoon onderwijs. (115)
+
+### ART. 117.
+
+§ 1. Leerlingen voor wie het door ziekte of ongeval tijdelijk onmogelijk is om secundair onderwijs te volgen in hun school, hebben, onder de voorwaarden door de Vlaamse Regering bepaald, recht op tijdelijk onderwijs aan huis voor zieke jongeren.<br /><br />§ 2. Bij langdurige afwezigheid van een leerling is de directie van de school waar deze leerling is ingeschreven, verplicht op vraag van de betrokken personen, tijdelijk onderwijs aan huis voor zieke jongeren te organiseren. Die verplichting vervalt voor de periode dat de leerling in een preventorium of in een ziekenhuis verblijft waar onderwijs van type 5 gefinancierd of gesubsidieerd wordt of in een dienst neuropsychiatrie voor kinderen die van het Vlaams Ministerie van Onderwijs en Vorming een subsidie-enveloppe ontvangen.<br /><br />§ 3. De Vlaamse Regering legt de voorwaarden vast om in aanmerking te komen voor tijdelijk onderwijs aan huis voor zieke jongeren, bepaalt hoe het onderwijs aan huis georganiseerd wordt en welke vorm van hulp de school krijgt om het onderwijs aan huis te organiseren. <br /><br />De Vlaamse Regering bepaalt ook wat onder langdurige afwezigheid moet worden begrepen, met dien verstande dat een afwezigheid van minder dan 21 kalenderdagen geen langdurige afwezigheid is voor de toepassing van dit artikel, tenzij het gaat om een afwezigheid vanwege een chronische ziekte. (116)
+
+### ART. 118.
+
+§ 1. Leerlingen die voldoen aan de toelatingsvoorwaarden maar voor wie het omwille van een handicap permanent onmogelijk is secundair onderwijs te volgen op school, hebben na gunstig advies van de Commissie van Advies voor het Buitengewoon Onderwijs, recht op permanent onderwijs aan huis.<br /><br />§ 2. Rekening houdend met de vrije keuze van de betrokken personen, duidt de Commissie van Advies voor het Buitengewoon Onderwijs de dichtstbijzijnde school voor buitengewoon secundair onderwijs aan om het permanent onderwijs aan huis te organiseren. Omwille van omstandigheden eigen aan de leerling en mits omstandige motivering kan een andere school voor buitengewoon secundair onderwijs worden aangeduid. (117)
+
+### ART. 119.
+
+De Vlaamse Regering bepaalt op welke wijze het permanent onderwijs aan huis georganiseerd wordt en welke vorm van hulp de school krijgt om het permanent onderwijs aan huis te organiseren. (118)
+
+### ART. 120.
+
+Een personeelslid dat wordt aangesteld in een betrekking, georganiseerd in het kader van het tijdelijk of permanent onderwijs aan huis, wordt steeds aangesteld als tijdelijk personeelslid.<br /><br />De bepalingen van het decreet rechtspositie personeelsleden gemeenschapsonderwijs en het decreet rechtspositie personeelsleden gesubsidieerd onderwijs zijn van toepassing op deze personeelsleden, met uitzondering van de volgende bepalingen :<br />1° de betrekking is niet onderworpen aan de reglementering inzake ter beschikkingstelling wegens ontstentenis van betrekking, de reaffectatie en de wedertewerkstelling. Het schoolbestuur van de school die de betrekking organiseert, kan evenwel op vrijwillige basis een personeelslid aanstellen dat ter beschikking is gesteld wegens ontstentenis van betrekking. Die aanstelling wordt beschouwd als een reaffectatie of een wedertewerkstelling. Voor deze reaffectatie of wedertewerkstelling is steeds de toestemming vereist van het terbeschikking gestelde personeelslid;<br />2° de betrekking kan niet vacant worden verklaard. Het schoolbestuur kan in geen geval een personeelslid vast benoemen, affecteren of muteren in die betrekking. (119)
+
+### ART. 121.
+
+Voor leerlingen die wegens ziekte of ongeval het geheel van de vorming van een bepaald leerjaar niet binnen een schooljaar kunnen volgen, kan de klassenraad een spreiding van het lessenprogramma van een leerjaar over twee schooljaren toestaan. (120)<br />
+
+### ART. 122.
+
+Voor leerlingen die wegens ziekte of ongeval bepaalde vakken niet kunnen volgen, kan de klassenraad vrijstellingen toestaan op voorwaarde dat de leerlingen vervangende activiteiten volgen. (121)
 
 ## [HOOFDSTUK 4/1. Interactief afstandsonderwijs (ing. decr. 24 maart 2023, art. 5, I: 17 april 2023)]
 
@@ -1371,6 +1403,10 @@ Maximum 3 % van het urenpakket en van het lesurenpakket kan worden aangewend voo
 ## [Onderafdeling 3/4. .. (opgeh. decr. 5 mei 2023, art. 178, I: 1 september 2023)]
 
 ## Onderafdeling 4. Plage uren
+
+### ART. 315.
+
+Artikel 216, § 5, is eveneens van toepassing in de scholen van het buitengewoon secundair onderwijs. (314)
 
 ## Onderafdeling 5. Geïntegreerd ondersteuningsaanbod, gelijke onderwijskansen
 
