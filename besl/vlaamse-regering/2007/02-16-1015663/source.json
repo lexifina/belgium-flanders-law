@@ -1,0 +1,17 @@
+{
+  "codex_id": 1015663,
+  "title": "Besluit van de Vlaamse Regering van 2007-02-16 tot wijziging van sommige besluiten van de Vlaamse Regering met betrekking tot erkende deeltijdse vormingen voor de vervulling van de deeltijdse leerplicht",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1015663/VolledigDocument?datum=2005-09-01",
+  "source_sha256": "758992fb386ffecc3d715e511f922be9a99dfba44e3bb8caa9dfafe6b4d1409f",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1015663&param=informatie",
+  "as_of": "2005-09-01",
+  "made": "2007-02-16",
+  "gazette": "2007-03-29",
+  "numac": 2007035443,
+  "document_start": "2005-09-01",
+  "document_end": null,
+  "in_force": "2005-09-01",
+  "article_versions": 7,
+  "record_form": "consolidated version as in force on 2005-09-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
