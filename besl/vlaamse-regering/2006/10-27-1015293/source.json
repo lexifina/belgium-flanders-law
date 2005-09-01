@@ -1,0 +1,17 @@
+{
+  "codex_id": 1015293,
+  "title": "Besluit van de Vlaamse Regering van 2006-10-27 tot wijziging van het besluit van de Vlaamse Regering van 21 november 2003 houdende de salarisschalen van bepaalde personeelsleden van het onderwijs en tot wijziging van het besluit van de Vlaamse Regering van 12 december 2003 tot vaststelling van de bekwaamheidsbewijzen en de salarisschalen van de personeelsleden van de centra voor leerlingenbegeleiding",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1015293/VolledigDocument?datum=2005-09-01",
+  "source_sha256": "5c91fb3a0c96bea3d2d3d69f6991e146cca653c483514ed512797a8b331b8c9b",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1015293&param=informatie",
+  "as_of": "2005-09-01",
+  "made": "2006-10-27",
+  "gazette": "2006-12-15",
+  "numac": 2006036979,
+  "document_start": null,
+  "document_end": null,
+  "in_force": "2005-09-01",
+  "article_versions": 2,
+  "record_form": "consolidated version as in force on 2005-09-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
