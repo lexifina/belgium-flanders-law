@@ -1,0 +1,17 @@
+{
+  "codex_id": 1015339,
+  "title": "Besluit van de Vlaamse Regering van 2006-11-24 tot wijziging van het besluit van de Vlaamse Regering van 4 juni 2004 inzake sommige werkingsregelen betreffende de Raad voor examenbetwistingen bevoegd voor het hoger onderwijs",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1015339/VolledigDocument?datum=2005-09-01",
+  "source_sha256": "fa113858b46f46b1f836cfedd697c621ca40fde820f23fad32bdc6757f6d129a",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1015339&param=informatie",
+  "as_of": "2005-09-01",
+  "made": "2006-11-24",
+  "gazette": "2007-01-09",
+  "numac": 2006037054,
+  "document_start": "2006-06-01",
+  "document_end": null,
+  "in_force": "2005-09-01",
+  "article_versions": 2,
+  "record_form": "consolidated version as in force on 2005-09-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
