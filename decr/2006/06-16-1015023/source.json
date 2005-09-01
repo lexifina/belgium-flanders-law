@@ -2,16 +2,16 @@
   "codex_id": 1015023,
   "title": "Decreet van 2006-06-16 tot instelling van een aantal maatregelen tot herstructurering en flexibilisering van het hoger onderwijs in Vlaanderen",
   "type": "Decreet",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1015023/VolledigDocument?datum=2005-02-01",
-  "source_sha256": "93169067eb872c57aa447176a7ccd86720fd270afcb169ef77c81690deb5e5f5",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1015023/VolledigDocument?datum=2005-09-01",
+  "source_sha256": "0131d1e2b7b2d6afa74cb82f51a9e5ab0408fca5dd1f8209b041462eb8d07faa",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1015023&param=informatie",
-  "as_of": "2005-02-01",
+  "as_of": "2005-09-01",
   "made": "2006-06-16",
   "gazette": "2006-10-12",
   "numac": 2006036591,
   "document_start": "2005-09-01",
   "document_end": null,
-  "in_force": "2005-02-01",
-  "article_versions": 3,
-  "record_form": "consolidated version as in force on 2005-02-01; future article versions excluded; article text as the API gives it"
+  "in_force": "2005-09-01",
+  "article_versions": 84,
+  "record_form": "consolidated version as in force on 2005-09-01; future article versions excluded; article text as the API gives it"
 }
