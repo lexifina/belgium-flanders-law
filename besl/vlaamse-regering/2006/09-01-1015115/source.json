@@ -1,0 +1,17 @@
+{
+  "codex_id": 1015115,
+  "title": "Besluit van de Vlaamse Regering van 2006-09-01 betreffende de modulaire structuur van het secundair onderwijs voor sociale promotie voor het studiegebied Koeling en warmte",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1015115/VolledigDocument?datum=2005-09-01",
+  "source_sha256": "ceaa45545b00ab6b49c9b7e461e279c26e3d1a125436bb5bec8ff79808393d93",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1015115&param=informatie",
+  "as_of": "2005-09-01",
+  "made": "2006-09-01",
+  "gazette": "2006-11-07",
+  "numac": 2006036680,
+  "document_start": "2005-09-01",
+  "document_end": "2023-08-31",
+  "in_force": "2005-09-01",
+  "article_versions": 20,
+  "record_form": "consolidated version as in force on 2005-09-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
