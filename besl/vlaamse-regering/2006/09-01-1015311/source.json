@@ -1,0 +1,17 @@
+{
+  "codex_id": 1015311,
+  "title": "Besluit van de Vlaamse Regering van 2006-09-01 tot wijziging, vanaf het schooljaar 2005-2006, van het besluit van de Vlaamse Regering van 21 oktober 2005 betreffende de structuur van het secundair onderwijs voor sociale promotie",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1015311/VolledigDocument?datum=2005-09-01",
+  "source_sha256": "9c17e1318afe3f6737050a2299a95cb5e3c9f490329a171477a497a0b173b42a",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1015311&param=informatie",
+  "as_of": "2005-09-01",
+  "made": "2006-09-01",
+  "gazette": "2006-12-22",
+  "numac": 2006036933,
+  "document_start": "2005-09-01",
+  "document_end": null,
+  "in_force": "2005-09-01",
+  "article_versions": 20,
+  "record_form": "consolidated version as in force on 2005-09-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
