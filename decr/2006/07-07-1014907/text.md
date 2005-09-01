@@ -14,9 +14,29 @@ Dit decreet regelt een gemeenschapsaangelegenheid.<br /><br />
 
 In artikel 3 van hetzelfde decreet, gewijzigd bij de decreten van 14 juli 1998, 22 december 2000, 13 juli 2001, 28 juni 2002, 14 februari 2003, 10 juli 2003 en 15 juli 2005, worden de volgende wijzigingen aangebracht : <br />1° in punt 1° worden de woorden « in het kleuteronderwijs » geschrapt; <br />2° in punt 34° wordt het woord « tellingsdatum » vervangen door de woorden « teldag of tijdens een welbepaalde telperiode »; <br />3° in punt 45° worden de woorden « bepaalde datum » vervangen door de woorden « welbepaalde teldag of tijdens een welbepaalde telperiode » en worden de woorden « , een vestigingsplaats » geschrapt; <br />4° een punt 45°ter wordt toegevoegd, dat luidt als volgt :<br />« 45°ter randgemeenten : de gemeenten van het Vlaamse Gewest, vermeld in artikel 7 van de wetten op het gebruik van de talen in bestuurszaken, gecoördineerd op 18 juli 1966; »; <br />5° een punt 45°quater wordt toegevoegd, dat luidt als volgt :<br />« 45°quater taalgrensgemeenten : de gemeenten van het Vlaamse Gewest, vermeld in artikel 3, 1°, van de wet van 30 juli 1963 houdende taalregeling in het onderwijs; »; <br />6° in punt 46° wordt het woord « datum » vervangen door de woorden « teldag of tijdens een welbepaalde telperiode »; <br />7° in punt 55° wordt het woord « tellingsdatum » vervangen door de woorden « teldag of tijdens een welbepaalde telperiode ». <br /><br />
 
+### ART. II.17.
+
+Aan artikel 125duodecies van hetzelfde decreet, ingevoegd bij het decreet van 10 juli 2003 en gewijzigd bij het decreet van 15 juli 2005, wordt een § 4 toegevoegd, die luidt als volgt : <br />« § 4. Scholengemeenschappen, waar scholen van het gemeenschapsonderwijs deel van uitmaken, kunnen de puntenenveloppe ter ondersteuning van de werking aanwenden om het personeelslid dat belast is met het mandaat van algemeen directeur in de scholengroep, waar één of meerdere scholen van de scholengemeenschap deel van uit maken, school- of klasvrij te maken. ». <br /><br />
+
+### ART. II.18.
+
+In artikel 130, § 2, van hetzelfde decreet, gewijzigd bij de decreten van 14 juli 1998 en 10 juli 2003, wordt het tweede lid vervangen door wat volgt : <br />« Beneden een door de Vlaamse Regering vastgelegd leerlingenaantal moet de directie, afhankelijk van de beslissing van het schoolbestuur, een gedeeltelijke lesopdracht of een gedeeltelijke opdracht van zorg of ICT opnemen. De gedeeltelijke opdracht van zorg of ICT kan opgenomen worden op basis van de puntenenveloppe ter ondersteuning van de werking van de scholengemeenschap, de puntenenveloppe ter ondersteuning en coördinatie van het zorgbeleid in het gewoon basisonderwijs, de puntenenveloppe voor ICT-coördinatie of op basis van de in artikel 153sexies, § 4, vermelde vrij aan te wenden samengelegde punten op het niveau van de scholengemeenschap. Het schoolbestuur kan zijn beslissing maar herzien als dat niet leidt tot een terbeschikkingstelling wegens ontstentenis van betrekking. ». <br /><br />
+
 ### ART. II.20.
 
 In artikel 138 van hetzelfde decreet, gewijzigd bij de decreten van 13 juli 2001, 28 juni 2002 en 10 juli 2003, worden de volgende wijzigingen aangebracht : <br />1° in § 1 worden punt 5° en punt 7° vervangen door wat volgt :<br />« 5° lestijden voor lichamelijke opvoeding; »; <br />« 7° lestijden ter ondersteuning van de integratie van de anderstalige leerlingen voor de Nederlandstalige scholen in de rand- en taalgrensgemeenten, voor de scholen in de gemeenten die grenzen aan de randgemeenten en/of aan het Brusselse Hoofdstedelijke Gewest en voor de scholen in de gemeenten die bepaald worden door de Vlaamse Gemeenschap. »;<br />2° in § 2 worden de woorden « , zoals bepaald in artikel 171, » geschrapt.<br /><br />
+
+### ART. II.21.
+
+Artikel 139 van hetzelfde decreet, gewijzigd bij het decreet van 28 juni 2002, wordt vervangen door wat volgt : <br />« Artikel 139<br />De Vlaamse Regering bepaalt de voorwaarden tot het verkrijgen van aanvullende lestijden, vermeld in artikel 138, 1°, 2°, 3°, 4°, 5° en 7°, alsook het aantal en de wijze van berekening ervan. ». <br /><br />
+
+### ART. II.22.
+
+In artikel 139ter van hetzelfde decreet, ingevoegd bij het decreet van 28 juni 2002, wordt het laatste lid vervangen door de volgende bepaling : « Wanneer een school op 1 januari van het voorafgaand schooljaar vestigingsplaatsen heeft die niet in eenzelfde of aangrenzende gemeente of in het tweetalig gebied Brussel-Hoofdstad gelegen zijn, worden de verschillende vestigingsplaatsen voor de toepassing van de bepalingen van het eerste lid en van artikel 139quater als school beschouwd.».<br /><br /><br /><br />
+
+### ART. II.23.
+
+Aan artikel 153sexies, § 4, van hetzelfde decreet, ingevoegd bij het decreet van 10 juli 2003, wordt de volgende zin toegevoegd : <br />« Scholengemeenschappen, waar scholen van het gemeenschapsonderwijs deel van uitmaken, kunnen deze vrij aan te wenden punten aanwenden om het personeelslid dat belast is met het mandaat van algemeen directeur in de scholengroep, waar één of meerdere scholen van de scholengemeenschap deel van uit maken, school- of klasvrij te maken. ». <br /><br />
 
 ### ART. II.27.
 
@@ -29,6 +49,10 @@ Artikel 177, § 1, 3°, van hetzelfde decreet wordt vervangen door wat volgt : <
 ## Afdeling I Wet tot wijziging van sommige bepalingen van de onderwijswetgeving
 
 ## Afdeling II Decreet betreffende het onderwijs
+
+### ART. III.15.
+
+Aan de afdeling 4bis, bestaande uit artikelen 74bis tot en met 74quinquies van hetzelfde decreet, ingevoegd bij het decreet van 15 juli 2005, wordt een artikel 74quinquies 1 toegevoegd, dat luidt als volgt : <br />« Artikel 74quinquies 1<br />Een personeelslid dat wordt aangesteld in een betrekking die wordt georganiseerd in het kader van het tijdelijk of permanent onderwijs aan huis wordt steeds aangesteld als tijdelijk personeelslid. <br /><br />De bepalingen van het decreet rechtspositie personeelsleden gemeenschapsonderwijs en het decreet rechtspositie personeelsleden gesubsidieerd onderwijs zijn van toepassing op deze personeelsleden, met uitzondering van de volgende bepalingen : <br />1° de betrekking is niet onderworpen aan de reglementering inzake terbeschikkingstelling wegens ontstentenis van betrekking, de reaffectatie en de wedertewerkstelling. De inrichtende macht van de instelling die de betrekking organiseert, kan evenwel op vrijwillige basis een personeelslid aanstellen dat ter beschikking is gesteld wegens ontstentenis van betrekking. Die aanstelling wordt beschouwd als een reaffectatie of een wedertewerkstelling. Voor deze reaffectatie of wedertewerkstelling is steeds de toestemming vereist van het terbeschikking gestelde personeelslid; <br />2° de betrekking kan niet vacant worden verklaard. De inrichtende macht kan in geen geval een personeelslid vast benoemen, affecteren of muteren in die betrekking. ».<br /><br />
 
 ## Afdeling III Decreet betreffende het onderwijs
 
@@ -104,6 +128,10 @@ In artikel 40bis, § 4, van hetzelfde decreet, ingevoegd bij het decreet van 18 
 
 In artikel 47, § 2, van hetzelfde decreet, vervangen bij het decreet van 21 december 1994, worden de woorden « en de vaste benoeming in een selectie- of bevorderingsambt wordt meegedeeld » vervangen door de woorden « , de vaste benoeming, de nieuwe affectatie en de mutatie in een selectie- of bevorderingsambt worden meegedeeld » en worden de woorden « opdat zij zou » vervangen door de woorden « opdat zij zouden ». <br /><br />
 
+### ART. VII.14.
+
+In artikel 56ter, van hetzelfde decreet, ingevoegd bij het decreet van 15 juli 2005, wordt § 2 vervangen door wat volgt : <br />« § 2. Voor de toepassing van dit artikel kan de Vlaamse Regering de nadere administratieve en geldelijke bepalingen voor de betrokken personeelsleden vastleggen. <br /><br />Het betreft bepalingen inzake : <br />- de prestaties geleverd als tijdelijk personeelslid; <br />- de rechten met betrekking tot de tijdelijke aanstelling van doorlopende duur; <br />- de kandidaatstelling voor een tijdelijke aanstelling, een toelating tot de proeftijd, een vaste benoeming of een mutatie; <br />- de vacantverklaring van betrekkingen met het oog op een toelating tot de proeftijd, een vaste benoeming of een mutatie; <br />- de draagwijdte van de vaste benoeming; <br />- de terbeschikkingstelling wegens ontstentenis van betrekking, reaffectatie en wedertewerkstelling; <br />- de bekwaamheidsbewijzen; <br />- de weddenschalen. ». <br /><br />
+
 ### ART. VII.19.
 
 In artikel 77quater, § 3, van hetzelfde decreet wordt 3° vervangen door wat volgt : <br />« 3°ten aanzien van de instelling waar het personeelslid geaffecteerd of aangesteld is : <br />- de wijze waarop zij in het beslissingsproces wordt betrokken. ». <br /><br />
@@ -134,6 +162,10 @@ In artikel 41, § 2, van hetzelfde decreet, vervangen bij het decreet van 21 dec
 
 In artikel 51quater, § 3, van hetzelfde decreet wordt 3° vervangen door wat volgt : <br />« 3° ten aanzien van de instelling waar het personeelslid geaffecteerd of aangesteld is :<br />- de wijze waarop zij in het beslissingsproces wordt betrokken. ». <br /><br />
 
+### ART. VII.46.
+
+In artikel 74quater, van hetzelfde decreet, ingevoegd bij het decreet van 15 juli 2005, wordt § 2 vervangen door wat volgt : <br />« § 2. Voor de toepassing van dit artikel kan de Vlaamse Regering de nadere administratieve en geldelijke bepalingen voor de betrokken personeelsleden vastleggen. <br /><br />Het betreft bepalingen inzake : <br />- de prestaties geleverd als tijdelijk personeelslid; <br />- de rechten met betrekking tot de tijdelijke aanstelling van doorlopende duur; <br />- de mededeling van vacante betrekkingen met het oog op een vaste benoeming; <br />- de kandidaatstelling voor een tijdelijke aanstelling van doorlopende duur of een vaste benoeming; <br />- de draagwijdte van de vaste benoeming; <br />- de terbeschikkingstelling wegens ontstentenis van betrekking, reaffectatie en wedertewerkstelling; <br />- de bekwaamheidsbewijzen; <br />- de weddenschalen. ».<br /><br />
+
 ## Afdeling III Inwerkingtreding
 
 ## HOOFDSTUK VIII Andere bepalingen
@@ -142,9 +174,33 @@ In artikel 51quater, § 3, van hetzelfde decreet wordt 3° vervangen door wat vo
 
 ## Afdeling II Internaten
 
+### ART. VIII.6.
+
+In artikel 4, § 2, van hetzelfde besluit, gewijzigd bij de decreten van 28 april 1993, 19 april 1995 en 8 juli 1996, wordt het punt a) vervangen door wat volgt : <br />« a) de interne leerlingen van verschillende vestigingsplaatsen van eenzelfde internaat worden samengeteld. Een gebouw of een gebouwen-complex van een internaat kan niet tezelfdertijd een vestigingsplaats zijn van een ander internaat; ». <br /><br />
+
 ## Afdeling III Politiek verlof
 
 ## Afdeling IV Gelijke kansen
+
+### ART. VIII.11.
+
+In artikel VI.3 van hetzelfde decreet worden in het laatste lid de datum « 1 januari 2002 » vervangen door de datum « 1 januari van het voorgaande schooljaar. ». <br /><br />
+
+### ART. VIII.13.
+
+In artikel VIII.3 van hetzelfde decreet, gewijzigd bij het decreet van 15 juli 2005, worden de volgende wijzigingen aangebracht : <br />1° in § 3 worden tussen het woord « meewerkende » en het woord « instelling » de woorden « school voor basis- en secundair onderwijs of » ingevoegd; <br />2° in § 4 worden tussen het woord « werkingsbudget » en het woord « om » de woorden « bestemd voor materiaalkosten, vervoerskosten en uitrustingskosten of » ingevoegd. <br /><br />
+
+### ART. VIII.14.
+
+Aan artikel VIII.4 van hetzelfde decreet, gewijzigd bij het decreet van 15 juli 2005, wordt een vierde lid toegevoegd, dat luidt als volgt : <br /><br />« Het betrokken personeelslid kan, mits zijn instemming, voor de vervulling van zijn opdracht in het kader van het tijdelijk project kunstinitiatie worden ingezet voor en in andere scholen of instellingen die de in artikel VIII.3, § 2, vermelde samenwerkingsovereenkomst hebben gesloten. ». <br /><br />
+
+### ART. VIII.15.
+
+In artikel VIII.5, van hetzelfde decreet, gewijzigd bij het decreet van 15 juli 2005, wordt punt 1° vervangen door wat volgt : <br /><br />« 1° het bedrag dat toegekend wordt aan elk punt dat omgezet wordt in een werkingsbudget, bestemd voor materiaalkosten, vervoerskosten en uitrustingskosten of om voordrachtgevers in te zetten; ». <br /><br />
+
+### ART. VIII.16.
+
+In artikel IV.4, 9°, van het decreet van 15 juli 2005 houdende wijziging van het decreet van 28 juni 2002 betreffende gelijke onderwijskansen-I, wordt de zinsnede « artikel III.4, § 2 » vervangen door de zinsnede « artikel III.9, § 2 ». <br /><br />
 
 ## Afdeling V Controle ziekteverlof
 
