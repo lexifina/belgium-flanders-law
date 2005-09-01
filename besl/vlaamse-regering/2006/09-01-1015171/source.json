@@ -1,0 +1,17 @@
+{
+  "codex_id": 1015171,
+  "title": "Besluit van de Vlaamse Regering van 2006-09-01 betreffende de modulaire structuur van het secundair onderwijs voor sociale promotie voor het studiegebied Personenzorg",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1015171/VolledigDocument?datum=2005-09-01",
+  "source_sha256": "2de3bb95190adc2c29ddab7851142ef123030de22323605e7450c9ea0dff77b4",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1015171&param=informatie",
+  "as_of": "2005-09-01",
+  "made": "2006-09-01",
+  "gazette": "2006-11-22",
+  "numac": 2006036768,
+  "document_start": "2005-09-01",
+  "document_end": "2008-01-31",
+  "in_force": "2005-09-01",
+  "article_versions": 8,
+  "record_form": "consolidated version as in force on 2005-09-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
