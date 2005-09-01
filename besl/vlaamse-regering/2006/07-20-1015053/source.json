@@ -1,0 +1,17 @@
+{
+  "codex_id": 1015053,
+  "title": "Besluit van de Vlaamse Regering van 2006-07-20 houdende de incorporatie van sommige bijwedden en vergoedingen in de salarisschalen",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1015053/VolledigDocument?datum=2005-09-01",
+  "source_sha256": "5cd8278b55ab8426dc277a1b4c9a6b120f48d5993766ae42bb8ece03056c5244",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1015053&param=informatie",
+  "as_of": "2005-09-01",
+  "made": "2006-07-20",
+  "gazette": "2006-10-20",
+  "numac": 2006036405,
+  "document_start": "2005-09-01",
+  "document_end": null,
+  "in_force": "2005-09-01",
+  "article_versions": 25,
+  "record_form": "consolidated version as in force on 2005-09-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
