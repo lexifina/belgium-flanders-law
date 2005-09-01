@@ -117,6 +117,10 @@ De dienst Beroepsopleiding van het departement Onderwijs van het ministerie van 
 
 ## HOOFDSTUK III Slotbepalingen
 
+### ART. 27.
+
+Het besluit van de Vlaamse Regering van 17 september 2004 betreffende onderwijsprojecten « Accent op talent », gewijzigd bij het besluit van de Vlaamse Regering van 4 februari 2005, wordt opgeheven.<br /><br />
+
 ### ART. 28.
 
 Dit besluit heeft uitwerking met ingang van 15 maart 2005, met uitzondering van : <br />1° de bepalingen van hoofdstuk II voor zover ze betrekking hebben op het project diplomering in het deeltijds beroepssecundair onderwijs die uitwerking hebben met ingang van 15 maart 2006; <br />2° artikel 27 dat uitwerking heeft met ingang van 1 september 2005.<br /><br />Dit besluit houdt op van kracht te zijn op 31 augustus 2008.<br /><br />
