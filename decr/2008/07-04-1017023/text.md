@@ -92,6 +92,10 @@ De bepalingen van dit hoofdstuk treden in werking op 1 september 2008, met uitzo
 
 ## Afdeling VI Decreet betreffende de herstructurering van het hoger onderwijs
 
+### ART. V.43.
+
+Artikel 53bis van hetzelfde decreet wordt vervangen door wat volgt :<br />« Artikel 53bis<br />De ambtshalve geregistreerde instellingen en de geregistreerde instellingen met hoofdzetel in Vlaanderen kunnen de opleidingen die ze bij of krachtens dit decreet mogen aanbieden ook organiseren buiten het Belgische grondgebied en de daarop betrekking hebbende graden verlenen op voorwaarde dat :<br />1° die opleidingen afzonderlijk geaccrediteerd werden overeenkomstig dit decreet en de accreditatieprocedure volgen van de Vlaamse opleiding, of die opleidingen afzonderlijk erkend zijn als nieuwe opleiding overeenkomstig dit decreet als de instelling een nieuwe opleiding start buiten het Belgische grondgebied al dan niet gelijktijdig met eenzelfde opleiding in Vlaanderen;<br />2° die opleidingen voldoen aan de wettelijke bepalingen van het land van vestiging;<br />3° de opleidingen afzonderlijk worden geregistreerd in het Hoger Onderwijsregister;<br />4° de kosten van die opleidingen integraal gedekt worden met andere middelen dan de middelen uit de begroting van de Vlaamse Gemeenschap.<br /><br />De in het vorige lid vermelde voorwaarde geldt niet voor de voortgezette academische opleidingen in afbouw en voor de opleidingen die door de instelling ook aangeboden worden in België en die aldaar genieten van een overgangsaccreditatie. ».<br /><br />
+
 ## Afdeling VII Decreet betreffende de rechtspositieregeling van de student, de medezeggenschap in het hoger onderwijs, de integratie van bepaalde afdelingen van het hoger onderwijs voor sociale promotie in de hogescholen en de begeleiding van de herstructurering van het hoger onderwijs
 
 ## Afdeling VIII Decreet betreffende de studiefinanciering en studentenvoorzieningen in het hoger onderwijs
