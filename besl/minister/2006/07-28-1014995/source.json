@@ -1,0 +1,17 @@
+{
+  "codex_id": 1014995,
+  "title": "Ministerieel besluit van 2006-07-28 houdende wijziging van artikel 66 van het ministerieel besluit van 21 oktober 2005 betreffende het sluiten van beheersovereenkomsten ter uitvoering van de Verordening (EG) nr. 1257/99 van de Raad van 17 mei 1999 inzake steun voor plattelandsontwikkeling",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1014995/VolledigDocument?datum=2005-10-01",
+  "source_sha256": "8bbfa1b2cf24ebd158a8ab84e39c408f9aac4ee2007f5259926db51f56d43162",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1014995&param=informatie",
+  "as_of": "2005-10-01",
+  "made": "2006-07-28",
+  "gazette": "2006-09-29",
+  "numac": 2006036562,
+  "document_start": "2005-10-01",
+  "document_end": null,
+  "in_force": "2005-10-01",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2005-10-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
