@@ -1,0 +1,17 @@
+{
+  "codex_id": 1020397,
+  "title": "Protocol van 2006-06-19 Aanhangsel nr. 1 bij het Protocolakkoord nr. 3 gesloten op 13 juni 2006 tussen de Federale Overheid en de Overheden bedoeld in artikelen 128, 130, 135 en 138 van de Grondwet, betreffende het te voeren ouderenzorgbeleid",
+  "type": "Protocol",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1020397/VolledigDocument?datum=2005-10-02",
+  "source_sha256": "86c8842bf2d303c2b63cb9431de3fa8e2f06769366b2c04ba22cd7f7ff89d482",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1020397&param=informatie",
+  "as_of": "2005-10-02",
+  "made": "2006-06-19",
+  "gazette": "2007-05-04",
+  "numac": 2007022445,
+  "document_start": "2005-10-02",
+  "document_end": null,
+  "in_force": "2005-10-02",
+  "article_versions": 2,
+  "record_form": "consolidated version as in force on 2005-10-02; oldest version available; future article versions excluded; article text as the API gives it"
+}
