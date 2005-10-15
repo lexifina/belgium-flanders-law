@@ -1,0 +1,17 @@
+{
+  "codex_id": 1016518,
+  "title": "Decreet van 2007-12-14 houdende instemming met het samenwerkingsakkoord van 24 februari 2005 betreffende de interregionale mobiliteit van de werkzoekenden gesloten tussen het Brussels Hoofdstedelijk Gewest, het Waals Gewest, het Vlaams Gewest, de Vlaamse Gemeenschap, de Duitstalige Gemeenschap en de Franse Gemeenschapscommissie",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1016518/VolledigDocument?datum=2005-10-15",
+  "source_sha256": "2ce319958589a88c6ca0675deaf983cf92e006247fdb4aa9633d36793ca7cb1d",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1016518&param=informatie",
+  "as_of": "2005-10-15",
+  "made": "2007-12-14",
+  "gazette": "2008-01-21",
+  "numac": 2007037386,
+  "document_start": "2005-10-15",
+  "document_end": null,
+  "in_force": "2005-10-15",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2005-10-15; oldest version available; future article versions excluded; article text as the API gives it"
+}
