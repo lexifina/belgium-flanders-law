@@ -1,0 +1,17 @@
+{
+  "codex_id": 1016199,
+  "title": "Samenwerkingsakkoord van 2006-05-24 tussen de Staat, de Gemeenschappen en de Gewesten inzake de ondersteuning van de \"Belgian Coordinated Collections of Micro-organisms, BCCM\" en de omvorming van het BCCM-consortium tot een Belgisch \"Biological Resource Centre\"",
+  "type": "Samenwerkingsakkoord",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1016199/VolledigDocument?datum=2005-12-01",
+  "source_sha256": "13c9dbb495c8ac5ffa5e8f5207b1aee9429a902dac5fbd6b54a9bffca7f4e4e7",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1016199&param=informatie",
+  "as_of": "2005-12-01",
+  "made": "2006-05-24",
+  "gazette": "2007-10-04",
+  "numac": 2007202792,
+  "document_start": "2005-12-01",
+  "document_end": "2008-11-30",
+  "in_force": "2005-12-01",
+  "article_versions": 6,
+  "record_form": "consolidated version as in force on 2005-12-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
