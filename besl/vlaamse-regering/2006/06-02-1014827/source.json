@@ -1,0 +1,17 @@
+{
+  "codex_id": 1014827,
+  "title": "Besluit van de Vlaamse Regering van 2006-06-02 tot wijziging van het besluit van de Vlaamse Regering van 19 december 1996 houdende subsidieregeling van het loon en de sociale lasten van de werknemers in de beschutte werkplaatsen die erkend zijn door het Vlaams Fonds voor de Sociale Integratie van Personen met een Handicap",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1014827/VolledigDocument?datum=2005-12-01",
+  "source_sha256": "48ed8a888dec0607cd088aa6c2049202a496f88051732c0b2a50af5138072a53",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1014827&param=informatie",
+  "as_of": "2005-12-01",
+  "made": "2006-06-02",
+  "gazette": "2006-08-09",
+  "numac": 2006036165,
+  "document_start": "2005-12-01",
+  "document_end": null,
+  "in_force": "2005-12-01",
+  "article_versions": 5,
+  "record_form": "consolidated version as in force on 2005-12-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
