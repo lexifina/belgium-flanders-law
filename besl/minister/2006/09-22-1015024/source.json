@@ -1,0 +1,17 @@
+{
+  "codex_id": 1015024,
+  "title": "Ministerieel besluit van 2006-09-22 tot wijziging van het ministerieel besluit van 9 juli 2001 houdende de voorwaarden inzake subsidiëring van initiatieven voor buitenschoolse opvang",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1015024/VolledigDocument?datum=2006-01-01",
+  "source_sha256": "299796765b5705e3ac8f2c7124d5807e524ccbf007eeffe8bd460c8f63f69752",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1015024&param=informatie",
+  "as_of": "2006-01-01",
+  "made": "2006-09-22",
+  "gazette": "2006-10-12",
+  "numac": 2006036578,
+  "document_start": "2006-01-01",
+  "document_end": null,
+  "in_force": "2006-01-01",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2006-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
