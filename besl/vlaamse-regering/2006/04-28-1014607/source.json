@@ -1,0 +1,17 @@
+{
+  "codex_id": 1014607,
+  "title": "Besluit van de Vlaamse Regering van 2006-04-28 tot wijziging van het besluit van de Vlaamse Regering van 10 juli 2001 tot regeling van de subsidiëring van de diensten voor logistieke hulp en aanvullende thuiszorg",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1014607/VolledigDocument?datum=2006-01-01",
+  "source_sha256": "abe55fa1e994b5e7f298852cf80f15efeb7ab9bad25dea1d4ff5b76bc094c5d3",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1014607&param=informatie",
+  "as_of": "2006-01-01",
+  "made": "2006-04-28",
+  "gazette": "2006-06-27",
+  "numac": 2006035902,
+  "document_start": "2006-01-01",
+  "document_end": null,
+  "in_force": "2006-01-01",
+  "article_versions": 5,
+  "record_form": "consolidated version as in force on 2006-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
