@@ -1,0 +1,17 @@
+{
+  "codex_id": 1015253,
+  "title": "Besluit van de Vlaamse Regering van 2006-09-08 houdende de toekenning van VIA-subsidies aan de Centra voor Geestelijke Gezondheidszorg",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1015253/VolledigDocument?datum=2006-01-01",
+  "source_sha256": "99d893cf36f530082bc0075579503e0a1f20c464eb2cbb6f4ee73e093fca115b",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1015253&param=informatie",
+  "as_of": "2006-01-01",
+  "made": "2006-09-08",
+  "gazette": "2006-12-07",
+  "numac": 2006036733,
+  "document_start": "2006-01-01",
+  "document_end": null,
+  "in_force": "2006-01-01",
+  "article_versions": 10,
+  "record_form": "consolidated version as in force on 2006-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
