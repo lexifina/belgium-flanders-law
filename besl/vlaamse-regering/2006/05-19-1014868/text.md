@@ -38,6 +38,14 @@ In artikel 1 van hetzelfde besluit worden de woorden « de Dienst voor de Scheep
 
 ## HOOFDSTUK V Wijzigingen van het besluit van de Vlaamse Regering van 3 mei 1991 betreffende het afleveren van vergunningen voor het capteren van water uit de in het Vlaamse Gewest gelegen bevaarbare waterlopen, kanalen en havens
 
+### ART. 7.
+
+In artikel 25 van het besluit van de Vlaamse Regering van 3 mei 1991 betreffende het afleveren van vergunningen voor het capteren van water uit de in het Vlaamse Gewest gelegen bevaarbare waterlopen, kanalen en havens worden de woorden « de Vlaamse minister bevoegd voor de openbare werken en het vervoer » vervangen door de woorden « de Vlaamse minister, bevoegd voor de openbare werken ». <br /><br />
+
+### ART. 8.
+
+In artikel 26, tweede lid, van hetzelfde besluit worden de woorden « de Vlaamse Minister die bevoegd is over de Administratie Waterinfrastructuur en Zeewezen » vervangen door de woorden « de Vlaamse minister, bevoegd voor de openbare werken ».<br /><br />
+
 ### ART. 9.
 
 In artikel 26, vijfde lid, van hetzelfde besluit worden de volgende wijzigingen aangebracht :<br />1° de woorden « de Directeur-generaal van de Administratie Waterinfrastructuur en Zeewezen » worden vervangen door de woorden « het hoofd van het Departement Mobiliteit en Openbare Werken »;<br />2° de woorden « de Diensten voor de Scheepvaart » worden vervangen door de woorden « het Agentschap De Scheepvaart en het Agentschap Waterwegen en Zeekanaal ».<br /><br />
@@ -51,6 +59,10 @@ In het opschrift van het besluit van de Vlaamse Regering van 9 november 1994 hou
 ### ART. 11.
 
 In artikel 1 van hetzelfde besluit worden de volgende wijzigingen aangebracht :<br />1° de woorden « de N.V. Zeekanaal en Watergebonden Grondbeheer Vlaanderen » worden vervangen door de woorden « het Agentschap Waterwegen en Zeekanaal »;<br />2° de woorden « de bevoegde administratie : de Administratie Waterwegen en Zeewezen, die voor de aanleg en het beheer van de bevaarbare waterlopen instaat » worden opgeheven.<br /><br />
+
+### ART. 12.
+
+In artikel 4 van hetzelfde besluit worden de woorden « de bevoegde administratie » vervangen door de woorden « het Departement Mobiliteit en Openbare Werken ».<br /><br />
 
 ## HOOFDSTUK VII Wijzigingen van het besluit van de Vlaamse Regering van 7 oktober 1997 betreffende de kennisgeving van werken ter uitvoering van het decreet van 16 april 1996 betreffende de waterkeringen
 
@@ -96,11 +108,55 @@ In artikel 1 van het besluit van de Vlaamse Regering van 7 oktober 1997 betreffe
 
 ## HOOFDSTUK X Wijzigingen van het besluit van de Vlaamse Regering van 12 januari 2001 betreffende de bevoegdheid, de samenstelling en de werking van de Vlaamse Havencommissie
 
+### ART. 22.
+
+In artikel 1, §6, en artikel 4 van het besluit van de Vlaamse Regering van 12 januari 2001 betreffende de bevoegdheid, de samenstelling en de werking van de Vlaamse Havencommissie worden de woorden « de administratie Waterwegen en Zeewezen van het ministerie van de Vlaamse Gemeenschap » vervangen door de woorden « het Departement Mobiliteit en Openbare Werken ».<br /><br />
+
 ## HOOFDSTUK XI Wijzigingen van het besluit van de Vlaamse Regering van 13 juli 2001 betreffende de bepalingen inzake het toekennen van subsidies aan de havenbedrijven ten behoeve van de havenkapiteinsdiensten die expliciet kunnen worden toegewezen aan de verkeersafwikkeling, de veiligheid en de vrijwaring van het milieu
+
+### ART. 23.
+
+In artikel 1 van het besluit van de Vlaamse Regering van 13 juli 2001 betreffende de bepalingen inzake het toekennen van subsidies aan de havenbedrijven ten behoeve van de havenkapiteinsdiensten die expliciet kunnen worden toegewezen aan de verkeersafwikkeling, de veiligheid en de vrijwaring van het milieu, wordt punt 1° vervangen door wat volgt :<br />« 1° bevoegde departement : het Departement Mobiliteit en Openbare Werken; ».<br /><br />
+
+### ART. 24.
+
+In artikel 3, § 1, van hetzelfde besluit worden de woorden « de bevoegde afdeling » vervangen door de woorden « het bevoegde departement ».<br /><br />
 
 ## HOOFDSTUK XII Wijzigingen van het besluit van de Vlaamse Regering van 13 juli 2001 betreffende de medefinanciering van de instandhouding, met inbegrip van het verwerken van de specie, en het onderhoud van het gedeelte van de maritieme toegangsweg waaraan aanmeerinstallaties voor zee- en binnenschepen gelegen zijn met het oog op de overslag van goederen of het vervoer van personen
 
+### ART. 25.
+
+In artikel 1 van het besluit van de Vlaamse Regering van 13 juli 2001 betreffende de medefinanciering van de instandhouding, met inbegrip van het verwerken van de specie, en het onderhoud van het gedeelte van de maritieme toegangsweg waaraan aanmeerinstallaties voor zee- en binnenschepen gelegen zijn met het oog op de overslag van goederen of het vervoer van personen, wordt punt 1° vervangen door wat volgt :<br />« 1° bevoegde departement : het Departement Mobiliteit en Openbare Werken ».<br /><br />
+
+### ART. 26.
+
+In artikel 2,2°, van hetzelfde besluit worden de woorden « de door hem gemachtigde bevoegde administratie » vervangen door de woorden « het door hem gemachtigde bevoegde departement ».<br /><br />
+
+### ART. 27.
+
+In artikel 4, § 2, 1°, van hetzelfde besluit worden de woorden « de bevoegde administratie » vervangen door de woorden « het bevoegde departement ».<br /><br />
+
+### ART. 28.
+
+In bijlage I van hetzelfde besluit worden de woorden « de Vlaamse administratie Waterwegen en Zeewezen » vervangen door de woorden « het Departement Mobiliteit en Openbare Werken ».<br />
+
 ## HOOFDSTUK XIII Wijzigingen van het besluit van de Vlaamse Regering van 13 juli 2001 betreffende de voorwaarden voor en de procedures tot toekenning, wijziging en intrekking van projectgebonden subsidies en medefinanciering aan de havenbedrijven, alsmede betreffende de subsidie- en medefinancieringspercentages
+
+### ART. 29.
+
+In artikel 1 van het besluit van de Vlaamse Regering van 13 juli 2001 betreffende de voorwaarden voor en de procedures tot toekenning, wijziging en intrekking van projectgebonden subsidies en medefinanciering aan de havenbedrijven, alsmede betreffende de subsidie- en medefinancieringspercentages, wordt punt 1° vervangen door wat volgt :<br />« 1° bevoegde departement : het Departement Mobiliteit en Openbare Werken ».<br />
+
+### ART. 30.
+
+In artikel 2, 3°, van hetzelfde besluit worden de woorden « de bevoegde administratie » vervangen door de woorden « het bevoegde departement ».<br /><br />
+
+### ART. 31.
+
+In artikel 3, §5, van hetzelfde besluit worden de woorden « de bevoegde buitenafdeling van de administratie Waterwegen en Zeewezen » vervangen door de woorden « de bevoegde afdeling van het bevoegde departement » en de woorden « de bevoegde afdeling » worden vervangen door de woorden « het bevoegde departement ».<br /><br />
+
+### ART. 33.
+
+In bijlage I van hetzelfde besluit worden de woorden « de Vlaamse administratie Waterwegen en Zeewezen » vervangen door de woorden « het Departement Mobiliteit en Openbare Werken ».<br /><br />
 
 ## HOOFDSTUK XIV Slotbepalingen
 
