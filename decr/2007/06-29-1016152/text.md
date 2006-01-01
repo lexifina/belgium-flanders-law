@@ -94,6 +94,10 @@
 
 ## HOOFDSTUK XVI Oppervlaktewateren
 
+### ART. 50.
+
+In artikel 35quinquies, § 1, van de wet van 26 maart 1971 op de bescherming van de oppervlaktewateren tegen verontreiniging, vervangen bij het decreet van 19 mei 2006, wordt tussen de zinsnede "- tenzij de heffingsplichtige het bewijs levert dat de reëel geloosde hoeveelheid kleiner is. » en de zinsnede "a : deze term is gelijk aan 0,825 voor de heffingsjaren 1992, 1993, 1994 en 1995 en is gelijk aan 0,550 met ingang van het heffingsjaar 1996. » de zin "De Vlaamse Regering stelt de nadere regels hiervan vast. » ingevoegd.<br /><br />
+
 ### ART. 51.
 
 <p>In de bijlage van dezelfde wet, gewijzigd bij het decreet van 23 december 2005, wordt<br>
