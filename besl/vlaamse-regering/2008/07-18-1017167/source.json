@@ -1,0 +1,17 @@
+{
+  "codex_id": 1017167,
+  "title": "Besluit van de Vlaamse Regering van 2008-07-18 houdende de toewijzing van de goederen, de rechten en verplichtingen van het Vlaams Instituut voor het Zelfstandig Ondernemen (VIZO) aan het publiekrechtelijk vormgegeven extern verzelfstandigd agentschap Vlaams Agentschap voor Ondernemersvorming - Syntra Vlaanderen en aan het intern verzelfstandigd agentschap met rechtspersoonlijkheid Vlaams Agentschap Ondernemen",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1017167/VolledigDocument?datum=2006-01-01",
+  "source_sha256": "e372f248390ae0b9804cda4f61feb867153a457d774dde5aa80253bcf8bc58fe",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1017167&param=informatie",
+  "as_of": "2006-01-01",
+  "made": "2008-07-18",
+  "gazette": "2008-10-17",
+  "numac": 2008036189,
+  "document_start": "2006-01-01",
+  "document_end": null,
+  "in_force": "2006-01-01",
+  "article_versions": 11,
+  "record_form": "consolidated version as in force on 2006-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
