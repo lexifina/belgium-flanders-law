@@ -1,0 +1,17 @@
+{
+  "codex_id": 1015634,
+  "title": "Besluit van de Vlaamse Regering van 2007-02-09 houdende de vaststelling van de verplichte bijdrage van de reders van Belgische vissersvaartuigen om het Fonds voor Scheepsjongens in 2006 te spijzen",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1015634/VolledigDocument?datum=2006-01-01",
+  "source_sha256": "98d30778c938198cfef26a5df920f370799c9602a9f1bfc7c567808375aa8be8",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1015634&param=informatie",
+  "as_of": "2006-01-01",
+  "made": "2007-02-09",
+  "gazette": "2007-03-21",
+  "numac": 2007035395,
+  "document_start": "2006-01-01",
+  "document_end": null,
+  "in_force": "2006-01-01",
+  "article_versions": 6,
+  "record_form": "consolidated version as in force on 2006-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
