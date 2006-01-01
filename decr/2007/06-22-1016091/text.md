@@ -108,6 +108,10 @@ In artikel 36sexies van hetzelfde decreet, ingevoegd bij het decreet van 14 juli
 
 ## Afdeling V Decreet betreffende de subsidiëring van ouderkoepelverenigingen
 
+### ART. IX.21.
+
+In artikel 5 van het decreet betreffende de subsidiëring van ouderkoepelverenigingen van 20 juni 1996 worden de woorden « legt het bedrag van de subsidie-enveloppes vast op basis van » vervangen door de woorden « houdt bij het vastleggen van het bedrag van de subsidie-enveloppes ten dele rekening met ».<br /><br />
+
 ## Afdeling VI Decreet betreffende het onderwijs VII
 
 ## Afdeling VII Decreet betreffende het onderwijs XIII-Mozaïek
