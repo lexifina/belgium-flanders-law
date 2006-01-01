@@ -1,0 +1,17 @@
+{
+  "codex_id": 1015228,
+  "title": "Besluit van de Vlaamse Regering van 2006-09-15 betreffende de steunpunten voor beleidsrelevant onderzoek",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1015228/VolledigDocument?datum=2006-01-01",
+  "source_sha256": "365801ab41a6a9f0c8f280d663c244c3100a9da2f7b9a3575a3f9b984c06d586",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1015228&param=informatie",
+  "as_of": "2006-01-01",
+  "made": "2006-09-15",
+  "gazette": "2006-12-04",
+  "numac": 2006036840,
+  "document_start": "2007-01-01",
+  "document_end": null,
+  "in_force": "2006-01-01",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2006-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
