@@ -1,0 +1,17 @@
+{
+  "codex_id": 1015134,
+  "title": "Ministerieel besluit van 2006-03-15 houdende de uitvoering van het besluit van de Vlaamse Regering van 13 januari 2006 betreffende de boekhouding en het financieel verslag voor de voorzieningen in de sectoren Welzijn, Volksgezondheid en Gezin en dit voor de Bijzondere Jeugdbijstand",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1015134/VolledigDocument?datum=2006-01-01",
+  "source_sha256": "b19d143796d90ce823c3c781f8fb8b35d7367a6ccabc263bbc0a9ed04d5f71d6",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1015134&param=informatie",
+  "as_of": "2006-01-01",
+  "made": "2006-03-15",
+  "gazette": "2006-11-10",
+  "numac": 2006036767,
+  "document_start": "2006-01-01",
+  "document_end": null,
+  "in_force": "2006-01-01",
+  "article_versions": 9,
+  "record_form": "consolidated version as in force on 2006-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
