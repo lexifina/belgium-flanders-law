@@ -1,0 +1,17 @@
+{
+  "codex_id": 1015247,
+  "title": "Ministerieel besluit van 2006-11-16 tot vaststelling van het bedrag van de extra subsidie aan de vertrouwenscentra kindermishandeling voor het jaar 2006",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1015247/VolledigDocument?datum=2006-01-01",
+  "source_sha256": "1b5d2472481902cc65df9a841075dcfa1aa6d0b5dfdc93be25b0eb7fe45624d7",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1015247&param=informatie",
+  "as_of": "2006-01-01",
+  "made": "2006-11-16",
+  "gazette": "2006-12-05",
+  "numac": 2006036901,
+  "document_start": "2006-01-01",
+  "document_end": null,
+  "in_force": "2006-01-01",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2006-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
