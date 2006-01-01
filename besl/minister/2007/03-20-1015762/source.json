@@ -1,0 +1,17 @@
+{
+  "codex_id": 1015762,
+  "title": "Ministerieel besluit van 2007-03-20 tot aanpassing van de uiterste inzaaidatum voor het oogstjaar 2006 als gevolg van de uitzonderlijke weersomstandigheden",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1015762/VolledigDocument?datum=2006-01-01",
+  "source_sha256": "dbc93d21aeec56c9e893baf6eb165f10e34a88bbebc8253c929d1f1b9d41388f",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1015762&param=informatie",
+  "as_of": "2006-01-01",
+  "made": "2007-03-20",
+  "gazette": "2007-05-11",
+  "numac": 2007035641,
+  "document_start": "2006-01-01",
+  "document_end": "2006-12-31",
+  "in_force": "2006-01-01",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2006-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
