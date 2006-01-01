@@ -1,0 +1,17 @@
+{
+  "codex_id": 1016068,
+  "title": "Besluit van de Vlaamse Regering van 2007-07-19 tot wijziging van het besluit van de Vlaamse Regering van 13 juli 1994 inzake de erkenningsvoorwaarden en de subsidienormen voor voorzieningen van de Bijzondere Jeugdbijstand",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1016068/VolledigDocument?datum=2006-01-01",
+  "source_sha256": "3ef7c36205fe0c9b7d173b3b9a797fe629941788a359b99a4e9ee2ac4bb41943",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1016068&param=informatie",
+  "as_of": "2006-01-01",
+  "made": "2007-07-19",
+  "gazette": "2007-08-10",
+  "numac": 2007036348,
+  "document_start": "2006-01-01",
+  "document_end": null,
+  "in_force": "2006-01-01",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2006-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
