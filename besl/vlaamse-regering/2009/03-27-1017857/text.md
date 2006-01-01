@@ -60,6 +60,10 @@ De personeelsleden, zoals nominatief opgenomen in bijlage III bij dit besluit, c
 
 ## HOOFDSTUK 10. Vergoeding voor het kuisen van het uniform
 
+### ART. 19.
+
+De personeelsleden die verplicht zijn een uniform te dragen en die zelf instaan voor het kuisen ervan, ontvangen een vergoeding van 7,5 euro (100 %) per maand.
+
 ## HOOFDSTUK 11. Snelle verplaatsing naar de standplaats buiten de diensturen (verstoring)
 
 ## HOOFDSTUK 12. Gemeenschappelijke bepaling
