@@ -1,0 +1,17 @@
+{
+  "codex_id": 1015046,
+  "title": "Ministerieel besluit van 2006-09-15 betreffende de herziening van de referentiegegevens ter uitvoering van de bedrijfstoeslagregeling in de sector suiker",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1015046/VolledigDocument?datum=2006-01-01",
+  "source_sha256": "0348987defaef2148f67c6ed105e31037ed7969e007e9f5bf3483d2dd7e3042d",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1015046&param=informatie",
+  "as_of": "2006-01-01",
+  "made": "2006-09-15",
+  "gazette": "2006-10-17",
+  "numac": 2006036613,
+  "document_start": "2006-01-01",
+  "document_end": "2008-12-31",
+  "in_force": "2006-01-01",
+  "article_versions": 20,
+  "record_form": "consolidated version as in force on 2006-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
