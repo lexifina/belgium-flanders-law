@@ -1,0 +1,17 @@
+{
+  "codex_id": 1018041,
+  "title": "Decreet van 2009-05-08 houdende wijziging van het decreet van 21 december 1988 houdende de oprichting van de Vlaamse Landmaatschappij en van het decreet van 16 juni 2006 houdende oprichting van de Vlaamse Grondenbank en houdende wijziging van diverse bepalingen, wat het principe van uitstel van betaling betreft",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1018041/VolledigDocument?datum=2006-01-01",
+  "source_sha256": "f41c622ec79b95aee814025d7eafcf73abc0a95828d4540f1df8143abd692c5c",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1018041&param=informatie",
+  "as_of": "2006-01-01",
+  "made": "2009-05-08",
+  "gazette": "2009-06-25",
+  "numac": 2009202688,
+  "document_start": "2006-01-01",
+  "document_end": null,
+  "in_force": "2006-01-01",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2006-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
