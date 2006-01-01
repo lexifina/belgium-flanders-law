@@ -1,0 +1,17 @@
+{
+  "codex_id": 1016015,
+  "title": "Besluit van de Vlaamse Regering van 2007-07-06 tot wijziging van de besluiten van de Vlaamse Regering die de werking van het intern verzelfstandigd agentschap met rechtspersoonlijkheid Vlaams Agentschap Ondernemen regelen",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1016015/VolledigDocument?datum=2006-01-01",
+  "source_sha256": "bb911c798300d20534ee21d18bc5e9e8a9d0bcc36304f3f6f1dfd81f8af87685",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1016015&param=informatie",
+  "as_of": "2006-01-01",
+  "made": "2007-07-06",
+  "gazette": "2007-08-01",
+  "numac": 2007036242,
+  "document_start": "2006-01-01",
+  "document_end": null,
+  "in_force": "2006-01-01",
+  "article_versions": 11,
+  "record_form": "consolidated version as in force on 2006-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
