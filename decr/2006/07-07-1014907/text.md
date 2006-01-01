@@ -50,6 +50,10 @@ Artikel 177, § 1, 3°, van hetzelfde decreet wordt vervangen door wat volgt : <
 
 ## Afdeling II Decreet betreffende het onderwijs
 
+### ART. III.9.
+
+In het decreet van 31 juli 1990 betreffende het onderwijs-II wordt een artikel 3quinquies ingevoegd, dat luidt als volgt : <br />« Artikel 3quinquies <br />§ 1. De vereniging zonder winstoogmerk Koninklijk Werk IBIS in Bredene, heeft : <br />1° als opdracht basisonderwijs en voltijds secundair zeevisserijonderwijs te organiseren voor jongeren die wezen zijn van vissers, zeelieden en binnenschippers of die kansarm zijn, en voor hen een internaat op te richten; <br />2° als bijzondere opdracht en in zoverre de ouders of de personen die in rechte of in feite de ouderlijke macht uitoefenen hierom verzoeken te zorgen voor de opvoeding en de verzorging, voeding en kleding inbegrepen, van die jongeren. <br /><br />§ 2. Onverminderd de gewone subsidiëring en binnen de perken van de algemene uitgavenbegroting van de Vlaamse Gemeenschap wordt aan het Koninklijk Werk IBIS per leerling een buitengewone subsidie van 12.460 euro per begrotingsjaar toegekend. <br /><br />Dit bedrag wordt jaarlijks geïndexeerd door het bedrag van het voorgaande jaar te vermenigvuldigen met de aanpassingscoëfficiënt A = 0,4 (C1/C0) + 0,6 (Lkl/Lk0), waarbij : <br />1° Cl/C0 gelijk is aan de verhouding tussen het geraamde indexcijfer van de consumptieprijzen op het einde van het volgende begrotingsjaar en het geraamde indexcijfer van de consumptieprijzen op het einde van het lopende begrotingsjaar; <br />2° Lkl/Lk0 gelijk is aan de verhouding tussen het geraamde indexcijfer van de eenheidsloonkosten op het einde van het volgende begrotingsjaar en het geraamde indexcijfer van de eenheidsloonkosten op het einde van het lopende begrotingsjaar. <br /><br />Voor de berekening van die subsidie komen de regelmatige leerlingen die op 1 februari van het vorige begrotingsjaar in het internaat verblijven in aanmerking. Er komen niet meer dan 100 leerlingen voor subsidiëring in aanmerking. <br /><br />§ 3. Het Koninklijk Werk IBIS kan geen aanspraak maken op andere subsidies of financiële tegemoetkomingen van de Vlaamse Gemeenschap voor de opdracht, vermeld in § 1. <br /><br />§ 4. De subsidie wordt als volgt uitbetaald : <br />1° een voorschot van 2/3 van de totale subsidie voor het einde van het tweede kwartaal; <br />2° een saldo van 1/3 van de totale subsidie bij het begin van het vierde kwartaal. <br /><br />§ 5. Voor 1 juli legt het Koninklijk Werk IBIS de begroting voor haar internaatswerking van het volgende jaar ter goedkeuring voor aan de Vlaamse Regering. Die begroting moet in evenwicht zijn. <br /><br />Voor 31 maart wordt de rekening van het voorgaande jaar ter goedkeuring voorgelegd. ». <br /><br />
+
 ### ART. III.15.
 
 Aan de afdeling 4bis, bestaande uit artikelen 74bis tot en met 74quinquies van hetzelfde decreet, ingevoegd bij het decreet van 15 juli 2005, wordt een artikel 74quinquies 1 toegevoegd, dat luidt als volgt : <br />« Artikel 74quinquies 1<br />Een personeelslid dat wordt aangesteld in een betrekking die wordt georganiseerd in het kader van het tijdelijk of permanent onderwijs aan huis wordt steeds aangesteld als tijdelijk personeelslid. <br /><br />De bepalingen van het decreet rechtspositie personeelsleden gemeenschapsonderwijs en het decreet rechtspositie personeelsleden gesubsidieerd onderwijs zijn van toepassing op deze personeelsleden, met uitzondering van de volgende bepalingen : <br />1° de betrekking is niet onderworpen aan de reglementering inzake terbeschikkingstelling wegens ontstentenis van betrekking, de reaffectatie en de wedertewerkstelling. De inrichtende macht van de instelling die de betrekking organiseert, kan evenwel op vrijwillige basis een personeelslid aanstellen dat ter beschikking is gesteld wegens ontstentenis van betrekking. Die aanstelling wordt beschouwd als een reaffectatie of een wedertewerkstelling. Voor deze reaffectatie of wedertewerkstelling is steeds de toestemming vereist van het terbeschikking gestelde personeelslid; <br />2° de betrekking kan niet vacant worden verklaard. De inrichtende macht kan in geen geval een personeelslid vast benoemen, affecteren of muteren in die betrekking. ».<br /><br />
@@ -89,6 +93,14 @@ Artikel 55 van hetzelfde decreet, gewijzigd bij de decreten van 14 februari 2003
 ## Afdeling IV Inwerkingtreding
 
 ## HOOFDSTUK V Decreet betreffende de centra voor leerlingenbegeleiding
+
+### ART. V.4.
+
+Aan artikel 53 van hetzelfde decreet, gewijzigd bij het decreet van 24 december 2004, wordt een § 3 toegevoegd, die luidt als volgt : <br />« § 3. De Vlaamse Regering stelt, onder de door haar te bepalen voorwaarden, jaarlijks 238.476 euro ter beschikking van netoverschrijdende informatiseringsprojecten ten behoeve van de centra. Die middelen worden jaarlijks geïndexeerd. ». <br /><br />
+
+### ART. V.5.
+
+In artikel 70, § 2, van hetzelfde decreet, gewijzigd bij de decreten van 14 februari 2003 en 10 juli 2003 worden de woorden « OG = 2.779 » vervangen door de woorden « OG = 2.772 ». <br /><br />
 
 ## HOOFDSTUK VI Decreten inzake inspectie en begeleiding
 
