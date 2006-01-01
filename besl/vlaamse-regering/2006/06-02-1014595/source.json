@@ -1,0 +1,17 @@
+{
+  "codex_id": 1014595,
+  "title": "Besluit van de Vlaamse Regering van 2006-06-02 tot opheffing van bepaalde artikelen van het decreet van 28 april 1993 houdende regeling, voor het Vlaamse Gewest, van het administratief toezicht op de gemeenten",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1014595/VolledigDocument?datum=2006-01-01",
+  "source_sha256": "6557d957ac8ba934afec03efc14ae70ebc80b903c6349fb6d40ef0ec72e36414",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1014595&param=informatie",
+  "as_of": "2006-01-01",
+  "made": "2006-06-02",
+  "gazette": "2006-06-16",
+  "numac": 2006035919,
+  "document_start": "2006-01-01",
+  "document_end": null,
+  "in_force": "2006-01-01",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2006-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
