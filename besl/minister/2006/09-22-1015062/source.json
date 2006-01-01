@@ -1,0 +1,17 @@
+{
+  "codex_id": 1015062,
+  "title": "Ministerieel besluit van 2006-09-22 tot wijziging van het ministerieel besluit van 9 juli 2001 betreffende de bepaling van de forfaitaire subsidiebedragen voor het basisaanbod van kinderdagverblijven en diensten voor opvanggezinnen",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1015062/VolledigDocument?datum=2006-01-01",
+  "source_sha256": "823ccf8ae1d16345a5c9ed6632af911c42ab1f1779eb3dc1aa8d50da781c4eda",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1015062&param=informatie",
+  "as_of": "2006-01-01",
+  "made": "2006-09-22",
+  "gazette": "2006-10-20",
+  "numac": 2006036577,
+  "document_start": "2006-01-01",
+  "document_end": null,
+  "in_force": "2006-01-01",
+  "article_versions": 5,
+  "record_form": "consolidated version as in force on 2006-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
