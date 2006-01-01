@@ -1,0 +1,17 @@
+{
+  "codex_id": 1018775,
+  "title": "Besluit van de Vlaamse Regering van 2009-12-11 tot wijziging van de reglementering houdende de erkennings- en subsidiëringsvoorwaarden voor de samenwerkings- en overlegstructuur voor de erkende huurdiensten",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1018775/VolledigDocument?datum=2006-01-01",
+  "source_sha256": "3a97df7f32cd47544cfc3c795e0346ac5daad834aa2bf8118d79a6e519f0df20",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1018775&param=informatie",
+  "as_of": "2006-01-01",
+  "made": "2009-12-11",
+  "gazette": "2010-02-22",
+  "numac": 201035142,
+  "document_start": "2006-01-01",
+  "document_end": null,
+  "in_force": "2006-01-01",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2006-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
