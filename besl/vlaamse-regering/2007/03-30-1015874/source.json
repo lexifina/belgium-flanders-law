@@ -1,0 +1,17 @@
+{
+  "codex_id": 1015874,
+  "title": "Besluit van de Vlaamse Regering van 2007-03-30 houdende de voorwaarden voor toestemming en subsidiëring van lokale diensten buurtgerichte kinderopvang",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1015874/VolledigDocument?datum=2006-01-01",
+  "source_sha256": "100244c33e4796285cfb735f71f78969cf0136bbf6b15e07b2f688f22a1977d8",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1015874&param=informatie",
+  "as_of": "2006-01-01",
+  "made": "2007-03-30",
+  "gazette": "2007-06-20",
+  "numac": 2007035836,
+  "document_start": "2007-01-01",
+  "document_end": "2007-12-31",
+  "in_force": "2006-01-01",
+  "article_versions": 2,
+  "record_form": "consolidated version as in force on 2006-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
