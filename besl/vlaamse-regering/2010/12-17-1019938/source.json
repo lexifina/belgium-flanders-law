@@ -1,0 +1,17 @@
+{
+  "codex_id": 1019938,
+  "title": "Besluit van de Vlaamse Regering van 2010-12-17 tot wijziging van artikel 5 van het besluit van de Vlaamse Regering van 10 februari 2006 houdende de erkennings- en subsidiëringsvoorwaarden voor de samenwerkings- en overlegstructuur voor de erkende huurdiensten",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1019938/VolledigDocument?datum=2006-01-01",
+  "source_sha256": "1d8fa7125e1de00a64e7cbfecb38a33a2877d823e6ec92a7b6a8da3c66eaa449",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1019938&param=informatie",
+  "as_of": "2006-01-01",
+  "made": "2010-12-17",
+  "gazette": "2011-01-24",
+  "numac": 2011200160,
+  "document_start": "2006-01-01",
+  "document_end": null,
+  "in_force": "2006-01-01",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2006-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
