@@ -1,0 +1,5 @@
+# Besluit van de Vlaamse Regering van 2005-12-02 tot wijziging van het besluit van de Vlaamse Regering van 14 mei 2004 tot organisatie, inrichting en beheer van begraafplaatsen en crematoria
+
+Official record: https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1014186&param=informatie
+
+Metadata and official link only: the Codex holds no article text for this instrument.
