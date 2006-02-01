@@ -88,6 +88,10 @@ Artikel 55 van hetzelfde decreet, gewijzigd bij de decreten van 14 februari 2003
 
 ## Afdeling II Basiseducatie
 
+### ART. IV.8.
+
+In artikel 5, § 3, 1°, van het decreet van 12 juli 1990 houdende de regeling van basiseducatie voor laaggeschoolde volwassenen, zoals gewijzigd bij het decreet van 7 mei 2004, worden de woorden « Nederlands moedertaal » vervangen door het woord « Nederlands ». <br />
+
 ## Afdeling III Deeltijds kunstonderwijs
 
 ## Afdeling IV Inwerkingtreding
