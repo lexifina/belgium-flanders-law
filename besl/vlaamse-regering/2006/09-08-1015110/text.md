@@ -16,6 +16,10 @@ In artikel 2, § 3, van hetzelfde besluit wordt punt 2° vervangen door wat volg
 
 Aan artikel 2, § 3, van hetzelfde besluit wordt een punt 3° toegevoegd, dat luidt als volgt :<br />« 3° de met de betalingen voor suikerbieten en cichoreiwortels voor de productie van respectievelijk suiker en inulinestroop overeenkomende component, vermeld in artikel 37, 1, van Verordening (EG) nr. 1782/2003 van de Raad. De minister bepaalt de representatieve periode voor suikerbieten en voor cichoreiwortels, de wijze van berekening van de referentiebedragen en het daarmee overeenstemmende areaal vermeld in bijlage VII, punt K, van Verordening (EG) nr. 1782/2003, evenals de mogelijkheden en procedure voor herziening van de referentiegegevens voor de sector suikerbieten en cichoreiwortels voor de productie van respectievelijk suiker en inulinestroop. De minister bepaalt eveneens het percentage van de inhouding voor de nationale reserve op het referentiebedrag dat overeenkomt met de component suikerbieten en cichoreiwortels. »<br /><br />
 
+### ART. 4.
+
+Aan artikel 2 van hetzelfde besluit wordt een paragraaf 5 toegevoegd, die luidt als volgt :<br />« § 5. De minister bepaalt de nadere modaliteiten voor de areaalbetaling voor noten, zoals vermeld in artikel 83 van Verordening (EG) nr. 1782/2003 van de Raad.<br /><br />Het steunbedrag per hectare boomgaard wordt vastgesteld, overeenkomstig de bepalingen van het samenwerkingsakkoord van 30 maart 2004 tussen het Vlaamse Gewest, het Waalse Gewest en het Brussels Hoofdstedelijk Gewest met betrekking tot de uitoefening van de geregionaliseerde bevoegdheden op het gebied van Landbouw en Visserij. »<br /><br />
+
 ### ART. 5.
 
 In hetzelfde besluit wordt het opschrift van hoofdstuk III vervangen door wat volgt :<br />« HOOFDSTUK III. De verzamelaanvraag en de deelname aan de bedrijfstoeslagregeling ».<br /><br />
@@ -30,7 +34,7 @@ In artikel 11 van hetzelfde besluit wordt punt 3° vervangen door wat volgt : <b
 
 ### ART. 8.
 
-De volgende regelingen worden opgeheven :<br />1° <br />2° het koninklijk besluit van 16 maart 2000 betreffende de uitvoering van de premieregeling, de productiequotaregeling en de toekenning van specifieke steun aan de telersverenigingen in de sector ruwe tabak, gewijzigd bij het koninklijk besluit van 19 april 2001, wordt opgeheven. Het blijft van toepassing voor het beheer van en voor de controle op de premieregeling voor de oogst 2005.<br /><br />
+De volgende regelingen worden opgeheven :<br />1° het besluit van de Vlaamse Regering van 18 maart 2005 betreffende de areaalbetaling voor noten;<br />2° het koninklijk besluit van 16 maart 2000 betreffende de uitvoering van de premieregeling, de productiequotaregeling en de toekenning van specifieke steun aan de telersverenigingen in de sector ruwe tabak, gewijzigd bij het koninklijk besluit van 19 april 2001, wordt opgeheven. Het blijft van toepassing voor het beheer van en voor de controle op de premieregeling voor de oogst 2005.<br /><br />
 
 ### ART. 9.
 
