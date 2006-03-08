@@ -1,0 +1,17 @@
+{
+  "codex_id": 1016398,
+  "title": "Ministerieel besluit van 2007-11-19 betreffende de vaststelling van het huishoudelijk reglement van de adviescommissie internationaal",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1016398/VolledigDocument?datum=2006-03-08",
+  "source_sha256": "08391e56bc8b5610b78142cddb784f0eed5e8636fb04e644dcce4a9cb9a83064",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1016398&param=informatie",
+  "as_of": "2006-03-08",
+  "made": "2007-11-19",
+  "gazette": "2007-12-05",
+  "numac": 2007037130,
+  "document_start": "2006-03-08",
+  "document_end": null,
+  "in_force": "2006-03-08",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2006-03-08; oldest version available; future article versions excluded; article text as the API gives it"
+}
