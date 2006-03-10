@@ -1,0 +1,17 @@
+{
+  "codex_id": 1014874,
+  "title": "Besluit van de Vlaamse Regering van 2006-06-16 tot wijziging van het besluit van de Vlaamse Regering van 24 november 2000 betreffende steun aan de investeringen en aan de installatie in de landbouw",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1014874/VolledigDocument?datum=2006-03-10",
+  "source_sha256": "70375e580ee8ad15997a60746537d6fb06572455fa6385bb02110f2ce0ce7915",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1014874&param=informatie",
+  "as_of": "2006-03-10",
+  "made": "2006-06-16",
+  "gazette": "2006-08-25",
+  "numac": 2006036279,
+  "document_start": "2006-03-10",
+  "document_end": null,
+  "in_force": "2006-03-10",
+  "article_versions": 12,
+  "record_form": "consolidated version as in force on 2006-03-10; oldest version available; future article versions excluded; article text as the API gives it"
+}
