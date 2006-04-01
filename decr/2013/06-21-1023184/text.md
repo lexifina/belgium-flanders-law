@@ -24,6 +24,10 @@ Aan artikel 30 van hetzelfde decreet wordt een paragraaf 4 toegevoegd, die   lui
 
 ## HOOFDSTUK 10 Personen met een handicap
 
+### ART. 36.
+
+<P>De Vlaamse Dienst voor Arbeidsbemiddeling en Beroepsopleiding treedt in de   rechten en verplichtingen, met inbegrip van de rechten en verplichtingen die   voortvloeien uit gerechtelijke procedures, van het Vlaams Fonds voor de Sociale   Integratie van Personen met een Handicap, die betrekking hebben op de taken en   opdrachten van het Vlaams Fonds voor de Sociale Integratie van Personen met een   Handicap die aan die dienst zijn toevertrouwd.<BR></P>  <P>Het Vlaams Subsidieagentschap voor Werk en Sociale Economie treedt in de   rechten en verplichtingen, met inbegrip van de rechten en verplichtingen die   voortvloeien uit gerechtelijke procedures, van het Vlaams Fonds voor de Sociale   Integratie van Personen met een Handicap, die betrekking hebben op de taken en   opdrachten van het Vlaams Fonds voor de Sociale Integratie van Personen met een   Handicap die aan die dienst zijn toevertrouwd.<BR></P>  <P>De roerende goederen waarover de personeelsleden van het Vlaams Fonds voor de   Sociale Integratie van Personen met een Handicap die overgaan naar de Vlaamse   Dienst voor Arbeidsbemiddeling en Beroepsopleiding of naar het Vlaams   Subsidieagentschap voor Werk en Sociale Economie, beschikken, worden   respectievelijk aan de Vlaamse Dienst voor Arbeidsbemiddeling en   Beroepsopleiding en aan het Vlaams Subsidieagentschap voor Werk en Sociale   Economie overgedragen.<BR></P>
+
 ## HOOFDSTUK 11 Interlandelijke adoptie van kinderen
 
 ## HOOFDSTUK 12 Zorg- en bijstandsverlening
