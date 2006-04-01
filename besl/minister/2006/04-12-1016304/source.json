@@ -1,0 +1,17 @@
+{
+  "codex_id": 1016304,
+  "title": "Ministerieel besluit van 2006-04-12 tot delegatie van aanvullende en specifieke bevoegdheden aan het hoofd van de Openbare Vlaamse Afvalstoffenmaatschappij in het kader van het besluit van de Vlaamse Regering van 10 oktober 2003 tot regeling van de delegatie van beslissingsbevoegdheden aan de hoofden van de intern verzelfstandigde agentschappen van de Vlaamse overheid",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1016304/VolledigDocument?datum=2006-04-01",
+  "source_sha256": "0eb50cc8410c0279526d72167b5538814a153aeb422538a2e17317ed66ac4ea4",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1016304&param=informatie",
+  "as_of": "2006-04-01",
+  "made": "2006-04-12",
+  "gazette": "2007-11-06",
+  "numac": 2007036890,
+  "document_start": "2006-04-01",
+  "document_end": null,
+  "in_force": "2006-04-01",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2006-04-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
