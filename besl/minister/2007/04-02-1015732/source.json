@@ -1,0 +1,17 @@
+{
+  "codex_id": 1015732,
+  "title": "Ministerieel besluit van 2007-04-02 tot wijziging van het ministerieel besluit van 1 april 2006 houdende delegatie van sommige bevoegdheden inzake onderwijs aan ambtenaren van het Vlaams Ministerie van Onderwijs en Vorming",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1015732/VolledigDocument?datum=2006-04-01",
+  "source_sha256": "249b12c51cc66859bbd4f703ab75f1bd302fdc467afc14e9c3460cf741a4f304",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1015732&param=informatie",
+  "as_of": "2006-04-01",
+  "made": "2007-04-02",
+  "gazette": "2007-04-26",
+  "numac": 2007035587,
+  "document_start": "2006-04-01",
+  "document_end": null,
+  "in_force": "2006-04-01",
+  "article_versions": 5,
+  "record_form": "consolidated version as in force on 2006-04-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
