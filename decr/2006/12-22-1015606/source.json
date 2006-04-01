@@ -1,0 +1,17 @@
+{
+  "codex_id": 1015606,
+  "title": "Decreet van 2006-12-22 tot wijziging van het decreet van 30 april 2004 tot oprichting van het intern verzelfstandigd agentschap met rechtspersoonlijkheid Kind en Gezin",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1015606/VolledigDocument?datum=2006-04-01",
+  "source_sha256": "2f0fdb626c379fb372add3c7d4bc967d10bf3571a5b2ab4617c721deb2afc953",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1015606&param=informatie",
+  "as_of": "2006-04-01",
+  "made": "2006-12-22",
+  "gazette": "2007-03-06",
+  "numac": 2007035302,
+  "document_start": null,
+  "document_end": null,
+  "in_force": "2006-04-01",
+  "article_versions": 2,
+  "record_form": "consolidated version as in force on 2006-04-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
