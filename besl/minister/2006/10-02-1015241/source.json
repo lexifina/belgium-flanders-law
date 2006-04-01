@@ -1,0 +1,17 @@
+{
+  "codex_id": 1015241,
+  "title": "Ministerieel besluit van 2006-10-02 tot wijziging van het ministerieel besluit van 6 november 2001 tot vaststelling van de referentiemethoden en de principes van de routinemethoden voor de officiële bepaling van de kwaliteit en de samenstelling van melk geleverd aan kopers",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1015241/VolledigDocument?datum=2006-04-01",
+  "source_sha256": "41b91909a2d0e35e3d84881edc20d992b6211b032df46626e099c5f5081efa2c",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1015241&param=informatie",
+  "as_of": "2006-04-01",
+  "made": "2006-10-02",
+  "gazette": "2006-12-05",
+  "numac": 2006036834,
+  "document_start": "2006-04-01",
+  "document_end": null,
+  "in_force": "2006-04-01",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2006-04-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
