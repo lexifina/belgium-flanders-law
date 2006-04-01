@@ -1,0 +1,17 @@
+{
+  "codex_id": 1016474,
+  "title": "Besluit van de Vlaamse Regering van 2007-11-23 tot wijziging van de besluiten van de Vlaamse Regering van 2 september 2005 tot oprichting van het intern verzelfstandigd agentschap « Agentschap voor Onderwijsdiensten » en tot oprichting van het intern verzelfstandigd agentschap « Onderwijsdienstencentrum Hoger Onderwijs en Volwassenenonderwijs »",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1016474/VolledigDocument?datum=2006-04-01",
+  "source_sha256": "048fac6485a1f92e1bf9bd1e41c1e926873bb00ec27b9ff0d2169898d65a9bdb",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1016474&param=informatie",
+  "as_of": "2006-04-01",
+  "made": "2007-11-23",
+  "gazette": "2008-01-07",
+  "numac": 2007037288,
+  "document_start": "2006-04-01",
+  "document_end": null,
+  "in_force": "2006-04-01",
+  "article_versions": 9,
+  "record_form": "consolidated version as in force on 2006-04-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
