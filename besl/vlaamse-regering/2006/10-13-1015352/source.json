@@ -1,0 +1,17 @@
+{
+  "codex_id": 1015352,
+  "title": "Besluit van de Vlaamse Regering van 2006-10-13 houdende de toewijzing van goederen, rechten en verplichtingen van de afdeling Water van de Administratie Milieu-, Natuur-, Land- en Waterbeheer van het departement Leefmilieu en Infrastructuur van het ministerie van de Vlaamse Gemeenschap en van de cel Hydrologisch Onderzoek van het Instituut voor Natuurbehoud aan het intern verzelfstandigd agentschap met rechtspersoonlijkheid de Vlaamse Milieumaatschappij",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1015352/VolledigDocument?datum=2006-04-01",
+  "source_sha256": "232624f4c6a76d758c9222976b350d1492d5f03f0d2f6f13d3df80ba5f869f49",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1015352&param=informatie",
+  "as_of": "2006-04-01",
+  "made": "2006-10-13",
+  "gazette": "2006-11-24",
+  "numac": 2006036865,
+  "document_start": "2006-04-01",
+  "document_end": null,
+  "in_force": "2006-04-01",
+  "article_versions": 9,
+  "record_form": "consolidated version as in force on 2006-04-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
