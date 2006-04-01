@@ -1,0 +1,17 @@
+{
+  "codex_id": 1014688,
+  "title": "Besluit van de Vlaamse Regering van 2006-04-28 tot aanpassing van de sectorale regelgeving inzake het landbouw- en visserijbeleid aan de herstructurering van de Vlaamse administratie",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1014688/VolledigDocument?datum=2006-04-01",
+  "source_sha256": "386e5915767eb121666e7a209e8931ca022a38ab99d8449e0a91c40b206ab756",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1014688&param=informatie",
+  "as_of": "2006-04-01",
+  "made": "2006-04-28",
+  "gazette": "2006-07-20",
+  "numac": 2006036061,
+  "document_start": "2006-04-01",
+  "document_end": null,
+  "in_force": "2006-04-01",
+  "article_versions": 145,
+  "record_form": "consolidated version as in force on 2006-04-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
