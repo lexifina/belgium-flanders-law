@@ -2,16 +2,16 @@
   "codex_id": 1017363,
   "title": "Besluit van de Vlaamse Regering van 2008-11-21 houdende de agentschapsspecifieke regeling van de rechtspositie van het personeel van de Vlaamse Milieumaatschappij",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1017363/VolledigDocument?datum=2002-12-01",
-  "source_sha256": "e7ac227dfbd9275ccb8ab11d69d9e3f5fe23f8d83cfe897c769967dcf37257a0",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1017363/VolledigDocument?datum=2006-04-01",
+  "source_sha256": "813aabf0aa667567dcf88b684b24a8e28888c72193eb6e3bffb19823696c724b",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1017363&param=informatie",
-  "as_of": "2002-12-01",
+  "as_of": "2006-04-01",
   "made": "2008-11-21",
   "gazette": "2008-12-17",
   "numac": 2008036410,
   "document_start": "2008-12-27",
   "document_end": null,
-  "in_force": "2002-12-01",
-  "article_versions": 3,
-  "record_form": "consolidated version as in force on 2002-12-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "in_force": "2006-04-01",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2006-04-01; future article versions excluded; article text as the API gives it"
 }

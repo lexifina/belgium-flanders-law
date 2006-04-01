@@ -26,4 +26,8 @@ De instellingsspecifieke salarisschalen van niveau C worden gevoegd als bijlage 
 
 ## TITEL II. Toelagen
 
+### ART. 10.
+
+De personeelsleden van het agentschap ontvangen maaltijdcheques overeenkomstig de geldende federale reglementering.
+
 ## DEEL IV. OPHEFFINGS-, OVERGANGS- EN SLOTBEPALINGEN
