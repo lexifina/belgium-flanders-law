@@ -1,0 +1,17 @@
+{
+  "codex_id": 1015165,
+  "title": "Besluit van de Vlaamse Regering van 2006-09-29 tot vaststelling van de regels voor het algemene personeelsbeleid en het specifieke personeelsbeleid in de diensten van de Vlaamse overheid en in de Vlaamse openbare instellingen",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1015165/VolledigDocument?datum=2006-04-01",
+  "source_sha256": "c5b4aecad6e311f051d4070b619493e5ea0fef9ec2a51f8745b97f2448b3feba",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1015165&param=informatie",
+  "as_of": "2006-04-01",
+  "made": "2006-09-29",
+  "gazette": "2006-11-20",
+  "numac": 2006036819,
+  "document_start": "2006-04-01",
+  "document_end": "2014-07-24",
+  "in_force": "2006-04-01",
+  "article_versions": 12,
+  "record_form": "consolidated version as in force on 2006-04-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
