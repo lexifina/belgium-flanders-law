@@ -1,0 +1,17 @@
+{
+  "codex_id": 1015368,
+  "title": "Besluit van de Vlaamse Regering van 2006-12-01 houdende de aanpassing van de regelgeving inzake het Grootschalig Referentie Bestand (GRB) als gevolg van het bestuurlijk beleid",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1015368/VolledigDocument?datum=2006-04-01",
+  "source_sha256": "dadf0e5f9a1efe704fbe887175fbece244119023619844ab569142c9db017356",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1015368&param=informatie",
+  "as_of": "2006-04-01",
+  "made": "2006-12-01",
+  "gazette": "2007-01-15",
+  "numac": 2007037075,
+  "document_start": "2006-04-01",
+  "document_end": null,
+  "in_force": "2006-04-01",
+  "article_versions": 9,
+  "record_form": "consolidated version as in force on 2006-04-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
