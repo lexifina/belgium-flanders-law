@@ -1,0 +1,17 @@
+{
+  "codex_id": 1014612,
+  "title": "Ministerieel besluit van 2006-06-15 houdende aanduiding van de secretaris van de disciplinaire commissie en disciplinaire raad inzake medisch verantwoorde sportbeoefeni",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1014612/VolledigDocument?datum=2006-04-01",
+  "source_sha256": "0cdc153a1eee4943e44fe3293548ac893860aa3bc77432ccf2562217ba89cb60",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1014612&param=informatie",
+  "as_of": "2006-04-01",
+  "made": "2006-06-15",
+  "gazette": "2006-06-27",
+  "numac": 2006035954,
+  "document_start": "2006-04-01",
+  "document_end": null,
+  "in_force": "2006-04-01",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2006-04-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
