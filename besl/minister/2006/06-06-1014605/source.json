@@ -1,0 +1,17 @@
+{
+  "codex_id": 1014605,
+  "title": "Ministerieel besluit van 2006-06-06 tot aanwijzing van sociaalrechtelijke inspecteurs en de ambtenaren bevoegd voor het opleggen van de administratieve geldboete",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1014605/VolledigDocument?datum=2006-04-01",
+  "source_sha256": "eb7a8c33b1d4e432747eda8bf063b7b00b09c0c0ed5d2497ee23836e1dd0d936",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1014605&param=informatie",
+  "as_of": "2006-04-01",
+  "made": "2006-06-06",
+  "gazette": "2006-06-26",
+  "numac": 2006035924,
+  "document_start": "2006-04-01",
+  "document_end": "2009-02-17",
+  "in_force": "2006-04-01",
+  "article_versions": 6,
+  "record_form": "consolidated version as in force on 2006-04-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
