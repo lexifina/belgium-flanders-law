@@ -1,0 +1,17 @@
+{
+  "codex_id": 1018302,
+  "title": "Ministerieel besluit van 2006-06-21 houdende oprichting van het orgaan dat de bevoegdheden uitoefent inzake de rechtpositie van het personeel voor het Intern Verzelfstandigd Agentschap met rechtspersoonlijkheid Vlaamse Milieumaatschappij",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1018302/VolledigDocument?datum=2006-04-01",
+  "source_sha256": "2c13a236fc8b35d904014faa67f8834e450f2b4c5379631ba829d56d7fa4e1aa",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1018302&param=informatie",
+  "as_of": "2006-04-01",
+  "made": "2006-06-21",
+  "gazette": "2009-09-04",
+  "numac": 2009035830,
+  "document_start": "2006-04-01",
+  "document_end": null,
+  "in_force": "2006-04-01",
+  "article_versions": 6,
+  "record_form": "consolidated version as in force on 2006-04-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
