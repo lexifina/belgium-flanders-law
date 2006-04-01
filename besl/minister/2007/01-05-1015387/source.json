@@ -1,0 +1,17 @@
+{
+  "codex_id": 1015387,
+  "title": "Ministerieel besluit van 2007-01-05 houdende de aanpassing van de regelgeving inzake het Grootschalig Referentie Bestand (GRB) als gevolg van het bestuurlijk beleid",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1015387/VolledigDocument?datum=2006-04-01",
+  "source_sha256": "d8f7dc35bcfd13e43cc0ddc4c2ca7058efa52937a6be2552b197c454ccfc0cd7",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1015387&param=informatie",
+  "as_of": "2006-04-01",
+  "made": "2007-01-05",
+  "gazette": "2007-01-23",
+  "numac": 2007035047,
+  "document_start": "2006-04-01",
+  "document_end": null,
+  "in_force": "2006-04-01",
+  "article_versions": 9,
+  "record_form": "consolidated version as in force on 2006-04-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
