@@ -1,0 +1,58 @@
+# Besluit van de Vlaamse Regering van 2006-03-31 tot operationalisering van het beleidsdomein Cultuur, Jeugd, Sport en Media
+
+### Aanhef
+
+De Vlaamse Regering,<br /><br />Gelet op de bijzondere wet van 8 augustus 1980 tot hervorming der instellingen, inzonderheid artikelen 20 en 87, § 1;<br /><br />Gelet op het decreet van 19 december 1998 houdende bepalingen tot begeleiding van de begroting 1999, inzonderheid artikel 54;<br /><br />Gelet op het kaderdecreet Bestuurlijk Beleid van 18 juli 2003, inzonderheid de artikelen 6, § 2 en 7, gewijzigd bij de decreten van 7 mei 2004 en 15 juli 2005; <br /><br />Gelet op het decreet van 7 mei 2004 tot omvorming van de Vlaamse openbare instelling Commissariaat-generaal voor de Bevordering van de Lichamelijke Ontwikkeling, de Sport en de Openluchtrecreatie tot het intern verzelfstandigd agentschap met rechtspersoonlijkheid BLOSO, inzonderheid artikel 15;<br /><br />Gelet op het besluit van de Vlaamse Regering van 31 juli 1991 houdende het reglement van inwendige orde van de Raad van Bestuur van het Commissariaat-generaal voor de Bevordering van de Lichamelijke Ontwikkeling, de Sport en de Openluchtrecreatie;<br /><br />Gelet op het besluit van de Vlaamse Regering van 22 december 1993 houdende oprichting van een cultureel centrum van de Vlaamse Gemeenschap in Bilzen, genaamd « Landcommanderij Alden Biesen », gewijzigd bij het besluit van de Vlaamse Regering van 22 juni 1999;<br /><br />Gelet op het besluit van de Vlaamse Regering van 2 februari 1999 tot regeling van het beheer en de werking van het Fonds culturele infrastructuur;<br /><br />Gelet op het besluit van de Vlaamse Regering van 10 oktober 2003 tot regeling van de delegatie van beslissingsbevoegdheden aan de hoofden van de departementen van de Vlaamse ministeries;<br /><br />Gelet op het besluit van de Vlaamse Regering van 10 oktober 2003 tot regeling van de delegatie van beslissingsbevoegdheden aan de hoofden van de intern verzelfstandigde agentschappen van de Vlaamse overheid;<br /><br />Gelet op het besluit van de Vlaamse Regering van 11 juni 2004 tot oprichting van het intern verzelfstandigd agentschap Kunsten en Erfgoed;<br /><br />Gelet op het besluit van de Vlaamse Regering van 11 juni 2004 tot oprichting van het intern verzelfstandigd agentschap Sociaal-Cultureel Werk, gewijzigd bij het besluit van de Vlaamse Regering van 16 december 2005;<br /><br />Gelet op het besluit van de Vlaamse Regering van 3 juni 2005 met betrekking tot de organisatie van de Vlaamse administratie;<br /><br />Gelet op het ministerieel besluit van 2 oktober 1996 houdende de delegatie van sommige bevoegdheden inzake media aan ambtenaren van het ministerie van de Vlaamse Gemeenschap; <br /><br />Gelet op het ministerieel besluit van 20 juli 2000 houdende de delegatie van sommige bevoegdheden inzake cultuur aan ambtenaren van het ministerie van de Vlaamse Gemeenschap, gewijzigd bij het ministerieel besluit van 15 mei 2002;<br /><br />Gelet op het ministerieel besluit van 8 juni 2000 houdende de delegatie van sommige bevoegdheden inzake sport aan ambtenaren van het ministerie van de Vlaamse Gemeenschap, gewijzigd bij het ministerieel besluit van 15 mei 2002;<br /><br />Gelet op het ministerieel besluit van 24 februari 2005 houdende delegatie van sommige bevoegdheden inzake medisch verantwoorde sportbeoefening aan ambtenaren van het ministerie van de Vlaamse Gemeenschap;<br /><br />Gelet op advies 39.915/3 van de Raad van State, gegeven op 14 maart 2006, met toepassing van artikel 84, § 1, eerste lid, 1°, van de gecoördineerde wetten op de Raad van State; <br /><br />Op voorstel van de minister-president van de Vlaamse Regering, de Vlaamse minister van Cultuur, Jeugd, Sport en Brussel en de Vlaamse minister van Bestuurszaken, Buitenlands Beleid, Media en Toerisme;<br /><br />Na beraadslaging,<br /><br />Besluit : <br />
+
+### ART. 1.
+
+Met het oog op de operationalisering van het beleidsdomein Cultuur, Jeugd, Sport en Media treden de volgende regelingen in werking op 1 april 2006 :<br />1° het decreet van 7 mei 2004 tot omvorming van de Vlaamse openbare instelling Commissariaat-generaal voor de Bevordering van de Lichamelijke Ontwikkeling, de Sport en de Openluchtrecreatie tot het intern verzelfstandigd agentschap met rechtspersoonlijkheid BLOSO;<br />2° het besluit van de Vlaamse Regering van 11 juni 2004 tot oprichting van het intern verzelfstandigd agentschap Sociaal-Cultureel Werk voor Jeugd en Volwassenen;<br />3° het besluit van de Vlaamse Regering van 11 juni 2004 houdende de oprichting van het intern verzelfstandigd agentschap Kunsten en Erfgoed.<br /><br />
+
+### ART. 2.
+
+§ 1. Het besluit van de Vlaamse Regering van 10 oktober 2003 tot regeling van de delegatie van beslissingsbevoegdheden aan de hoofden van de departementen van de Vlaamse ministeries treedt voor het departement Cultuur, Jeugd, Sport en Media in werking op 1 april 2006.<br /><br />§ 2. Het besluit van de Vlaamse Regering van 10 oktober 2003 tot regeling van de delegatie van beslissingsbevoegdheden aan de hoofden van de intern verzelfstandigde agentschappen van de Vlaamse overheid treedt voor de agentschappen van het beleidsdomein Cultuur, Jeugd, Sport en Media in werking op 1 april 2006.<br /><br />
+
+### ART. 3.
+
+Het departement heeft volgende taken :<br />1° de taken waarmee het departement is belast overeenkomstig artikel 30 van het besluit van de Vlaamse Regering van 3 juni 2005 met betrekking tot organisatie van de Vlaamse administratie voor wat betreft de bevoegdheden opgesomd in artikel 10 van hetzelfde besluit;<br />2° de taken van beleidsuitvoering betreffende materies die tot het beleidsdomein Cultuur, Jeugd, Sport en Media behoren die niet werden toevertrouwd aan een verzelfstandigd agentschap van dat beleidsdomein;<br />3° het organiseren van de managementondersteunende dienstverlening voor het departement, het intern verzelfstandigd agentschap Kunsten en Erfgoed, het intern verzelfstandigd agentschap Sociaal-Cultureel Werk voor Jeugd en Volwassenen en het extern verzelfstandigd agentschap Vlaamse Regulator voor de Media.<br /><br />
+
+### ART. 4.
+
+Naast de delegaties betreffende de aangelegenheden bedoeld in het besluit van de Vlaamse Regering van 10 oktober 2003 tot regeling van de delegatie van beslissingsbevoegdheden aan de hoofden van de departementen van de Vlaamse ministeries worden aan het hoofd van het departement volgende delegaties verleend met betrekking tot de taken vermeld in artikel 3, 2° en 3° :<br />1° de invordering en inning van belastingen, heffingen, retributies en niet-fiscale schuldvorderingen;<br />2° het verlenen en intrekken van vergunningen;<br />3° het verlenen en intrekken van erkenningen;<br />4° toezichts-, controle- en inspectietaken.<br /><br />
+
+### ART. 5.
+
+§ 1. De raad van bestuur van BLOSO maakt uiterlijk op 15 maart 2006 de jaarlijkse uitvoeringsrekening op van de begroting van BLOSO voor het jaar 2005.<br /><br />§ 2. De raad van bestuur van BLOSO maakt tevens een toestandsopgave van het actief en het passief op 31 maart 2006.<br /><br />§ 3. De raad van bestuur van BLOSO bezorgt de documenten vermeld in § 1 en § 2 aan de Vlaamse Regering en verstrekt alle inlichtingen die de Vlaamse Regering daarover vraagt. <br /><br />§ 4. De VOI BLOSO blijft tot en met 31 maart 2006 bevoegd voor het verrichten van uitgaven lastens de begroting van BLOSO voor het jaar 2006.<br /><br />
+
+### ART. 6.
+
+In artikel 1, 4°, van het besluit van de Vlaamse Regering van 2 februari 1999 tot regeling van het beheer en de werking van het Fonds culturele infrastructuur worden de volgende wijzigingen aangebracht :<br />1° de woorden « de directeur-generaal » worden vervangen door de woorden « de leidend ambtenaar »;<br />2° de woorden « van het departement van het beleidsdomein Cultuur, Jeugd, Sport en Media » worden toegevoegd.<br /><br />
+
+### ART. 7.
+
+In artikelen 2 en 6 van hetzelfde besluit worden de woorden « de administratie Cultuur » vervangen door de woorden « het departement van het beleidsdomein Cultuur, Jeugd, Sport en Media ».<br /><br />
+
+### ART. 8.
+
+In artikelen 4, 5, 6 en 8 van hetzelfde besluit worden de woorden « de directeur-generaal » vervangen door de woorden « de leidend ambtenaar ».<br /><br />
+
+### ART. 9.
+
+In artikelen 3 en 4, § 4, van het besluit van de Vlaamse Regering van 22 december 1993 houdende oprichting van een cultureel centrum van de Vlaamse Gemeenschap in Bilzen, genaamd « Landcommanderij Alden Biesen » worden de woorden « bestuur Volksontwikkeling en Openbaar Bibliotheekwerk » vervangen door de woorden « het intern verzelfstandigd agentschap Sociaal-Cultureel Werk voor Jeugd en Volwassenen ».<br /><br />
+
+### ART. 10.
+
+In artikel 24, § 2, van het besluit van de Vlaamse Regering van 3 juni 2005 met betrekking tot de organisatie van de Vlaamse administratie worden de woorden « 3° Vlaamse Radio- en Televisieomroep* » en « 4° Vlaamse Opera* » geschrapt.<br>
+&nbsp;
+
+### ART. 11.
+
+De volgende regelingen worden opgeheven : <br />1° het besluit van de Vlaamse Regering van 31 juli 1991 houdende het reglement van inwendige orde van de raad van bestuur van het commissariaat-generaal voor de Bevordering van de Lichamelijke Ontwikkeling, de Sport en de Openluchtrecreatie;<br />2° het ministerieel besluit van 2 oktober 1996 houdende de delegatie van sommige bevoegdheden inzake media aan ambtenaren van het ministerie van de Vlaamse Gemeenschap;<br />3° het ministerieel besluit van 20 juli 2000 houdende de delegatie van sommige bevoegdheden inzake cultuur aan ambtenaren van het ministerie van de Vlaamse Gemeenschap, gewijzigd bij het ministerieel besluit van 15 mei 2002;<br />4° het ministerieel besluit van 8 juni 2000 houdende de delegatie van sommige bevoegdheden inzake sport aan ambtenaren van het ministerie van de Vlaamse Gemeenschap, gewijzigd bij het ministerieel besluit van 15 mei 2002;<br />5° het ministerieel besluit van 24 februari 2005 houdende delegatie van sommige bevoegdheden inzake medisch verantwoorde sportbeoefening aan ambtenaren van het ministerie van de Vlaamse Gemeenschap.<br /><br />
+
+### ART. 12.
+
+Dit besluit heeft uitwerking met ingang van 1 april 2006.<br /><br />
+
+### ART. 13.
+
+De minister-president van de Vlaamse Regering, de Vlaamse minister, bevoegd voor de Culturele Aangelegenheden, de Vlaamse minister, bevoegd voor het Filmbeleid, de Vlaamse minister, bevoegd voor de Lichamelijke Opvoeding, de Sport en het Openluchtleven, de Vlaamse minister, bevoegd voor de Coördinatie van het Kinderrechtenbeleid, de Vlaamse minister, bevoegd voor het Algemeen Beleid inzake Personeel en Organisatieontwikkeling en de Vlaamse minister, bevoegd voor het Mediabeleid, zijn, ieder wat hem of haar betreft, belast met de uitvoering van dit besluit.<br /><br />

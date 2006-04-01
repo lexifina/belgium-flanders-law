@@ -1,0 +1,17 @@
+{
+  "codex_id": 1014569,
+  "title": "Besluit van de Vlaamse Regering van 2006-03-31 tot operationalisering van het beleidsdomein Cultuur, Jeugd, Sport en Media",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1014569/VolledigDocument?datum=2006-04-01",
+  "source_sha256": "04abbe2cbcb6065aee7841dd59e0e07a15049ec7f4571b9ff914d36734b1b42d",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1014569&param=informatie",
+  "as_of": "2006-04-01",
+  "made": "2006-03-31",
+  "gazette": "2006-06-15",
+  "numac": 2006035824,
+  "document_start": "2006-04-01",
+  "document_end": null,
+  "in_force": "2006-04-01",
+  "article_versions": 14,
+  "record_form": "consolidated version as in force on 2006-04-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
