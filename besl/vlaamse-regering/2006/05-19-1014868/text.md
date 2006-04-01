@@ -154,6 +154,10 @@ In artikel 2, 3°, van hetzelfde besluit worden de woorden « de bevoegde admini
 
 In artikel 3, §5, van hetzelfde besluit worden de woorden « de bevoegde buitenafdeling van de administratie Waterwegen en Zeewezen » vervangen door de woorden « de bevoegde afdeling van het bevoegde departement » en de woorden « de bevoegde afdeling » worden vervangen door de woorden « het bevoegde departement ».<br /><br />
 
+### ART. 32.
+
+In artikel 5, § 1, 2°, van hetzelfde besluit worden de woorden « de directeur-generaal van de administratie Waterwegen en Zeewezen » vervangen door de woorden « het hoofd van het Departement Mobiliteit en Openbare Werken ».<br /><br />
+
 ### ART. 33.
 
 In bijlage I van hetzelfde besluit worden de woorden « de Vlaamse administratie Waterwegen en Zeewezen » vervangen door de woorden « het Departement Mobiliteit en Openbare Werken ».<br /><br />
