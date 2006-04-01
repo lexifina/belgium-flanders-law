@@ -1,0 +1,17 @@
+{
+  "codex_id": 1014639,
+  "title": "Ministerieel besluit van 2006-05-04 tot vaststelling van de subsidiëringswijze van de centra voor kortverblijf",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1014639/VolledigDocument?datum=2006-04-01",
+  "source_sha256": "080f8f95b8b4ee1f64c462890e9488924b0fc15c7ef0d15ad1369e4b23522fc4",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1014639&param=informatie",
+  "as_of": "2006-04-01",
+  "made": "2006-05-04",
+  "gazette": "2006-07-07",
+  "numac": 2006036037,
+  "document_start": "2006-04-01",
+  "document_end": "2008-12-31",
+  "in_force": "2006-04-01",
+  "article_versions": 9,
+  "record_form": "consolidated version as in force on 2006-04-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
