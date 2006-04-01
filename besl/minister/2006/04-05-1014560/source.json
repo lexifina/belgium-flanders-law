@@ -1,0 +1,17 @@
+{
+  "codex_id": 1014560,
+  "title": "Ministerieel besluit van 2006-04-05 houdende toekenning van delegaties aan het hoofd van het departement Leefmilieu, Natuur en Energie",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1014560/VolledigDocument?datum=2006-04-01",
+  "source_sha256": "70e6fe32cadafd0d4fd0c428ae5e784090c6de3a08b8523c008e9683742c6a25",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1014560&param=informatie",
+  "as_of": "2006-04-01",
+  "made": "2006-04-05",
+  "gazette": "2006-06-13",
+  "numac": 2006035841,
+  "document_start": "2006-04-01",
+  "document_end": null,
+  "in_force": "2006-04-01",
+  "article_versions": 17,
+  "record_form": "consolidated version as in force on 2006-04-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
