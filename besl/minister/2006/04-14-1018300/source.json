@@ -1,0 +1,17 @@
+{
+  "codex_id": 1018300,
+  "title": "Ministerieel besluit van 2006-04-14 tot delegatie van aanvullende en specifieke bevoegdheden aan het hoofd van het Intern Verzelfstandigd Agentschap met rechtspersoonlijkheid \"Vlaamse Milieumaatschappij\" in het kader van het besluit van de Vlaamse Regering van 10 oktober 2003 tot regeling van de delegatie van beslissingsbevoegdheden aan de hoofden van de intern verzelfstandigde agentschappen",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1018300/VolledigDocument?datum=2006-04-01",
+  "source_sha256": "db8dbf00e53df23928e484d69a4a3d6b5db64b0c59f57d449073682f149770fc",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1018300&param=informatie",
+  "as_of": "2006-04-01",
+  "made": "2006-04-14",
+  "gazette": "2009-09-04",
+  "numac": 2009035831,
+  "document_start": "2006-04-01",
+  "document_end": null,
+  "in_force": "2006-04-01",
+  "article_versions": 5,
+  "record_form": "consolidated version as in force on 2006-04-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
