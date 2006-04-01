@@ -1,0 +1,17 @@
+{
+  "codex_id": 1015991,
+  "title": "Besluit van de Vlaamse Regering van 2007-06-22 houdende de toewijzing van de goederen, de rechten en de verplichtingen van de Vlaamse Dienst voor Arbeidsbemiddeling en Beroepsopleiding, aan het publiekrechtelijk vormgegeven extern verzelfstandigd agentschap, Vlaamse Dienst voor Arbeidsbemiddeling en Beroepsopleiding, aan het Vlaams Subsidieagentschap voor Werk en Sociale Economie en aan het Departement Werk en Sociale Economie",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1015991/VolledigDocument?datum=2006-04-01",
+  "source_sha256": "8ab46390fcf2d399e21ebe9dc970b162c0104391bb7ae64f13da60b5ffd665a8",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1015991&param=informatie",
+  "as_of": "2006-04-01",
+  "made": "2007-06-22",
+  "gazette": "2007-07-26",
+  "numac": 2007036094,
+  "document_start": "2006-04-01",
+  "document_end": null,
+  "in_force": "2006-04-01",
+  "article_versions": 9,
+  "record_form": "consolidated version as in force on 2006-04-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
