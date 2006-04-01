@@ -1,0 +1,17 @@
+{
+  "codex_id": 1017319,
+  "title": "Besluit van de Vlaamse Regering van 2008-07-10 tot wijziging van het besluit van de Vlaamse Regering van 27 oktober 1993 tot veralgemening van het stelsel van gesubsidieerde contractuelen",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1017319/VolledigDocument?datum=2006-04-01",
+  "source_sha256": "8f6ec3570bb06635a8cf941192467b9bdb73a63352b5d2c2b9cd50d57eb24f88",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1017319&param=informatie",
+  "as_of": "2006-04-01",
+  "made": "2008-07-10",
+  "gazette": "2008-11-26",
+  "numac": 2008204225,
+  "document_start": "2009-01-01",
+  "document_end": null,
+  "in_force": "2006-04-01",
+  "article_versions": 9,
+  "record_form": "consolidated version as in force on 2006-04-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
