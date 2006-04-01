@@ -1,0 +1,17 @@
+{
+  "codex_id": 1016001,
+  "title": "Besluit van de Vlaamse Regering van 2007-06-29 tot wijziging van het besluit van de Vlaamse Regering van 23 februari 2001 houdende de voorwaarden inzake erkenning en subsidiëring van initiatieven voor buitenschoolse opvang",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1016001/VolledigDocument?datum=2006-04-01",
+  "source_sha256": "06bf5f40ec3ba8eba8dd154c26612a7e033d7da5ecda87a7c2da54f45bc4e7a4",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1016001&param=informatie",
+  "as_of": "2006-04-01",
+  "made": "2007-06-29",
+  "gazette": "2007-07-31",
+  "numac": 2007036181,
+  "document_start": "2006-04-01",
+  "document_end": null,
+  "in_force": "2006-04-01",
+  "article_versions": 8,
+  "record_form": "consolidated version as in force on 2006-04-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
