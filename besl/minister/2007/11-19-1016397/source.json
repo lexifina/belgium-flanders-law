@@ -1,0 +1,17 @@
+{
+  "codex_id": 1016397,
+  "title": "Ministerieel besluit van 2007-11-19 betreffende de vaststelling van het huishoudelijk reglement van de adviescommissie experimenteel jeugdwerk",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1016397/VolledigDocument?datum=2006-04-12",
+  "source_sha256": "c8b8c8db1e19f78b56bef762f49792b98ee34bb37bea5e9aabd1b37b2d39989f",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1016397&param=informatie",
+  "as_of": "2006-04-12",
+  "made": "2007-11-19",
+  "gazette": "2007-12-05",
+  "numac": 2007037131,
+  "document_start": "2006-04-12",
+  "document_end": null,
+  "in_force": "2006-04-12",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2006-04-12; oldest version available; future article versions excluded; article text as the API gives it"
+}
