@@ -1,0 +1,13 @@
+# Ministerieel besluit van 2006-11-14 houdende wijziging van de enige bijlage bij het ministerieel besluit van 6 januari 2006 houdende de goedkeuring van de handleiding zorgverzekering
+
+### Aanhef
+
+De Vlaamse minister van Welzijn, Volksgezondheid en Gezin<br /><br />Gelet op het decreet van 30 maart 1999 houdende de organisatie van de zorgverzekering, gewijzigd bij de decreten van 22 december 1999, 8 december 2000, 18 mei 2001, 20 december 2002, 30 april 2004, 24 juli 2005, 25 november 2005 en 23 december 2005;<br /><br />Gelet op het besluit van de Vlaamse Regering van 17 juli 2000 betreffende de organisatie, het beheer, de werking en de erkenning van de zorgkassen en betreffende de controle op de zorgkassen, zoals gewijzigd bij het besluit van de Vlaamse Regering van 14 december 2001;<br /><br />Gelet op besluit van de Vlaamse Regering van 28 september 2001 houdende de erkenning, de registratie en de machtiging, en houdende de aansluiting, de aanvraag en de tenlasteneming in het kader van de zorgverzekering, zoals gewijzigd bij de besluiten van de Vlaamse Regering van 14 december 2001, 25 oktober 2002, 13 december 2002, 9 mei 2003, 14 november 2003, 2 april 2004, 22 oktober 2004, 11 maart 2005, 2 december 2005 en 19 mei 2006;<br /><br />Gelet op het besluit van de Vlaamse Regering van 27 juli 2004 tot bepaling van de bevoegdheden van de leden van de Vlaamse Regering, gewijzigd bij de besluiten van de Vlaamse Regering van 15 oktober 2004 en 23 december 2005;<br /><br />Gelet op het besluit van de Vlaamse Regering van 2 december 2005 houdende de voorwaarden van de vaststelling, de uitbetaling en de terugvordering van de subsidies van de zorgkassen in het kader van de zorgverzekering voor het jaar 2006;<br /><br />Gelet op het advies van de Inspectie van Financiën, gegeven op 25 oktober 2006,<br /><br />Besluit : <br /><br />
+
+### ART. 1.
+
+In deel II, hoofdstuk IV, van de enige bijlage bij het ministerieel besluit van 6 januari 2006 houdende de goedkeuring van de handleiding zorgverzekering, wordt aan punt 39bis een § 6 toegevoegd, luidend als volgt :<br />« Wanneer na het opleggen van een administratieve geldboete aan de zorgkas of het Vlaams Zorgfonds een kennisgeving wordt gedaan van een collectieve schuldenregeling, worden de aan de kennisgeving voorafgaande niet-betalingen, gedeeltelijke betalingen of laattijdige betalingen van de bijdrage, met terugwerkende kracht niet in aanmerking genomen voor het opleggen van de betreffende administratieve geldboete. Wanneer de kennisgeving van een collectieve schuldenregeling wordt gedaan aan de zorgkas, bezorgt de zorgkas onverwijld de documenten aan het Vlaams Zorgfonds. »<br /><br />
+
+### ART. 2.
+
+Dit besluit heeft uitwerking met ingang van 1 mei 2006. <br /><br />
