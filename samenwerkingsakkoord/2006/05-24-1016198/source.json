@@ -1,0 +1,17 @@
+{
+  "codex_id": 1016198,
+  "title": "Samenwerkingsakkoord van 2006-05-24 tussen de Staat en de Gemeenschappen met betrekking tot de Interuniversitaire attractiepolen fase VI",
+  "type": "Samenwerkingsakkoord",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1016198/VolledigDocument?datum=2006-05-01",
+  "source_sha256": "1aa2e1dd02219d3c8ed1a5ef58b01f0c2eeb571482e0c8639e030c150d94459c",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1016198&param=informatie",
+  "as_of": "2006-05-01",
+  "made": "2006-05-24",
+  "gazette": "2007-10-04",
+  "numac": 2007202947,
+  "document_start": "2006-05-01",
+  "document_end": "2012-06-30",
+  "in_force": "2006-05-01",
+  "article_versions": 8,
+  "record_form": "consolidated version as in force on 2006-05-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
