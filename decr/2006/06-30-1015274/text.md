@@ -28,6 +28,10 @@ In hetzelfde decreet wordt een nieuw artikel 120bis ingevoegd, dat luidt als vol
 
 ## Afdeling IV Volwassenenonderwijs
 
+### ART. 22.
+
+Aan artikel 3 van het decreet tot regeling van een aantal aangelegenheden van het volwassenenonderwijs van 2 maart 1999 worden een punt 19°bis en een punt 49° toegevoegd, die luiden als volgt :<br /><br />"19°bis hoofdvestigingsplaats : vestigingsplaats waar de administratieve zetel van een centrum ondergebracht is;";<br /><br />"49° vestigingsplaats : alle gebouwde of ongebouwde onroerende goederen die ingeplant zijn op eenzelfde kadastraal perceel of op percelen gelegen in dezelfde gemeente en die volledig of gedeeltelijk door personeelsleden van het betrokken centrum worden gebruikt voor onderwijsactiviteiten, met uitzondering van stages en buitenschoolse activiteiten.".<br /><br />
+
 ## Afdeling V Recuperatiefonds studietoelagen
 
 ## HOOFDSTUK III Cultuur
