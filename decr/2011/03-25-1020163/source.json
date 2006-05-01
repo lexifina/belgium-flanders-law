@@ -1,0 +1,17 @@
+{
+  "codex_id": 1020163,
+  "title": "Decreet van 2011-03-25 tot wijziging van het decreet van 30 maart 1999 houdende de organisatie van de zorgverzekering",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1020163/VolledigDocument?datum=2006-05-01",
+  "source_sha256": "5f4ac99286e5af16a411ea8eaeea0cf8af1e48ea7a31d80e8b031a43f91337d8",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1020163&param=informatie",
+  "as_of": "2006-05-01",
+  "made": "2011-03-25",
+  "gazette": "2011-04-14",
+  "numac": 2011035289,
+  "document_start": "2011-01-01",
+  "document_end": null,
+  "in_force": "2006-05-01",
+  "article_versions": 2,
+  "record_form": "consolidated version as in force on 2006-05-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
