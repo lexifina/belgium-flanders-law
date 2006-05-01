@@ -1,0 +1,5 @@
+# Decreet van 2009-04-30 tot wijziging van het decreet van 30 maart 1999 houdende de organisatie van de zorgverzekering
+
+### ART. 7.
+
+In artikel 21bis, § 1, van hetzelfde decreet, ingevoegd bij het decreet van 8 december 2000, vervangen bij het decreet van 24 juni 2005 en gewijzigd bij het decreet van 19 december 2008, worden de volgende wijzigingen aangebracht : <br />1° het eerste lid wordt vervangen door wat volgt : <br />« Met behoud van de toepassing van artikel 10, § 3, wordt een administratieve boete opgelegd aan iedereen die aangesloten is bij een zorgkas en die drie keren, niet noodzakelijk opeenvolgende keren, de bijdrage, vermeld in artikel 4, § 5, niet of slechts gedeeltelijk heeft betaald. » ; <br /><br />2° in het derde lid worden tussen de woorden "verhoogde verzekeringstegemoetkoming" en het woord "bedoeld" de woorden "of het OMNIO-statuut" ingevoegd;<br /><br />3° in het derde lid worden tussen de woorden "tweede lid" en de woorden "en § 19" de woorden "en derde lid" ingevoegd.<br /><br />
