@@ -1,0 +1,17 @@
+{
+  "codex_id": 1014900,
+  "title": "Ministerieel besluit van 2006-07-10 houdende oprichting van het orgaan dat de bevoegdheden uitoefent inzake de rechtspositie van het personeel voor het Instituut voor Natuur- en Bosonderzoek",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1014900/VolledigDocument?datum=2006-05-08",
+  "source_sha256": "2b2c5d2d29f44c38f87272c3d0f4600840c207d24031c8c1c22a6a1060685132",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1014900&param=informatie",
+  "as_of": "2006-05-08",
+  "made": "2006-07-10",
+  "gazette": "2006-08-30",
+  "numac": 2006036211,
+  "document_start": "2006-05-08",
+  "document_end": null,
+  "in_force": "2006-05-08",
+  "article_versions": 5,
+  "record_form": "consolidated version as in force on 2006-05-08; oldest version available; future article versions excluded; article text as the API gives it"
+}
