@@ -1,0 +1,17 @@
+{
+  "codex_id": 1014667,
+  "title": "Besluit van de Vlaamse Regering van 2006-05-12 tot wijziging van het besluit van de Vlaamse Regering van 4 april 2003 ter ondersteuning van brugprojecten tussen economie en onderwijs",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1014667/VolledigDocument?datum=2006-05-12",
+  "source_sha256": "11db7e17429416c5cee571430e862fedfbb457ad68b305628480dd1c204b39b0",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1014667&param=informatie",
+  "as_of": "2006-05-12",
+  "made": "2006-05-12",
+  "gazette": "2006-07-14",
+  "numac": 2006036068,
+  "document_start": "2006-05-12",
+  "document_end": null,
+  "in_force": "2006-05-12",
+  "article_versions": 6,
+  "record_form": "consolidated version as in force on 2006-05-12; oldest version available; future article versions excluded; article text as the API gives it"
+}
