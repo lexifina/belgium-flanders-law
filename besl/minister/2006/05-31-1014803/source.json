@@ -1,0 +1,17 @@
+{
+  "codex_id": 1014803,
+  "title": "Ministerieel besluit van 2006-05-31 tot wijziging van het ministerieel besluit van 1 september 2004 tot aanwijzing van de ambtenaren die belast zijn met de uitvoerbaarverklaring, met de inning en met de invordering van de heffing, als bedoeld in het decreet van 19 april 1995 houdende maatregelen ter bestrijding en voorkoming van leegstand en verwaarlozing van bedrijfsruimten",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1014803/VolledigDocument?datum=2006-05-31",
+  "source_sha256": "e27d3b73379b0582228ca72624ef0987d1d4b9a4edaf985f04ea3b7c0f7384df",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1014803&param=informatie",
+  "as_of": "2006-05-31",
+  "made": "2006-05-31",
+  "gazette": "2006-06-30",
+  "numac": 2006035968,
+  "document_start": "2006-05-31",
+  "document_end": null,
+  "in_force": "2006-05-31",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2006-05-31; oldest version available; future article versions excluded; article text as the API gives it"
+}
