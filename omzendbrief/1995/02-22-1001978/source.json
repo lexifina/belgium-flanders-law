@@ -1,0 +1,17 @@
+{
+  "codex_id": 1001978,
+  "title": "Omzendbrief van 1995-02-22 BA-95/04 betreffende het decreet van 22 februari 1995 houdende regeling van het administratief toezicht op de provincies in het Vlaamse Gewest",
+  "type": "Omzendbrief",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1001978/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "11cb64c6fc28620d495fd9941f61ed9b67696d76b79d74133dca44c974176c64",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1001978&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "1995-02-22",
+  "gazette": "1995-02-28",
+  "numac": 1995801613,
+  "document_start": "1995-02-22",
+  "document_end": "2018-12-13",
+  "in_force": "2006-06-01",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
