@@ -1,0 +1,17 @@
+{
+  "codex_id": 1011463,
+  "title": "Bijzonder Decreet van 2003-04-04 houdende opheffing van het bijzonder decreet van 26 juni 1991 betreffende de Universiteit Gent en het Universitair Centrum Antwerpen, wat het Universitair Centrum Antwerpen betreft",
+  "type": "Bijzonder Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1011463/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "6063392e6dfddcf07174235bb079427a66e3e763cc6de7b7041b9064451fb69d",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1011463&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "2003-04-04",
+  "gazette": "2003-07-16",
+  "numac": 2003035706,
+  "document_start": null,
+  "document_end": null,
+  "in_force": "2006-06-01",
+  "article_versions": 5,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
