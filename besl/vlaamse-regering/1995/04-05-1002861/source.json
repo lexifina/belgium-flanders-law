@@ -1,0 +1,17 @@
+{
+  "codex_id": 1002861,
+  "title": "Besluit van de Vlaamse Regering van 1995-04-05 tot vaststelling van de presentiegelden en vergoedingen van de voorzitter en van de leden van de bijzondere bijstandscommissie bedoeld bij artikel 9bis van het besluit van de Vlaamse regering van 31 juli 1992 tot vaststelling van de criteria, modaliteiten en bedragen van de tussenkomsten voor individuele materiële bijstand ten gunste van personen met een handicap",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1002861/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "f19fd540df5d8d9ca0f0710618036ccb3d0d616d479a93d6e7702cbb73fc3f90",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1002861&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "1995-04-05",
+  "gazette": "1995-06-16",
+  "numac": 1995035647,
+  "document_start": "1994-11-22",
+  "document_end": null,
+  "in_force": "2006-06-01",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
