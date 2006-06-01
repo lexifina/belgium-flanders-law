@@ -1,0 +1,17 @@
+{
+  "codex_id": 1003492,
+  "title": "Besluit van de Vlaamse Regering van 1990-06-27 tot toekenning van een dag verlof op 11 juli ter gelegenheid van het feest van de Vlaamse Gemeenschap aan het personeel van de diensten van de Vlaamse regering, van de instellingen van openbaar nut die afhangen van de Vlaamse Gemeenschap en/of het Vlaamse Gewest en van de Vlaamse wetenschappelijke instellingen",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1003492/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "1e74b34863e8866e7a49a4a91b863d9ad586644d4a449756e8e29bd6e872c029",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1003492&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "1990-06-27",
+  "gazette": "1990-07-10",
+  "numac": 1990029866,
+  "document_start": "1990-07-10",
+  "document_end": null,
+  "in_force": "2006-06-01",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
