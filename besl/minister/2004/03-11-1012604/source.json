@@ -1,0 +1,17 @@
+{
+  "codex_id": 1012604,
+  "title": "Ministerieel besluit van 2004-03-11 houdende een overgangsregeling voor de toekenning van een subsidie aan uiteenlopende actoren voor het natuur-, bos- en groenbeheer via groene, duurzame jobs toegankelijk voor doelgroepwerknemers",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1012604/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "3b35f4cae8401befb49fc48e1405666d5abf973c52d35648356b2eb24bfa9413",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1012604&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "2004-03-11",
+  "gazette": "2004-04-23",
+  "numac": 2004035577,
+  "document_start": "2004-01-26",
+  "document_end": null,
+  "in_force": "2006-06-01",
+  "article_versions": 14,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
