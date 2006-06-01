@@ -1,0 +1,17 @@
+{
+  "codex_id": 1005144,
+  "title": "Besluit van de Vlaamse Regering van 1996-11-26 tot vaststelling van de goedkeuringscriteria en indieningsmodaliteiten van de leerplannen voor het secundair onderwijs",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1005144/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "e86781d8e1f5d594196cfeb52fb57b6eaf957d950b814006ceeb0b3fdf589df6",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1005144&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "1996-11-26",
+  "gazette": "1997-02-06",
+  "numac": 1997035127,
+  "document_start": "1996-10-01",
+  "document_end": "2007-08-31",
+  "in_force": "2006-06-01",
+  "article_versions": 19,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
