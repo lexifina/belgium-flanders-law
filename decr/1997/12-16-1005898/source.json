@@ -1,0 +1,17 @@
+{
+  "codex_id": 1005898,
+  "title": "Decreet van 1997-12-16 houdende bepaling inzake kas-, schuld- en waarborgbeheer van de Vlaamse Gemeenschap",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1005898/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "b7a9b9edc5b498598388d1716f4776b66c101af02ce0da379472a9c083dbd9f6",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1005898&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "1997-12-16",
+  "gazette": "1997-12-30",
+  "numac": 1997036537,
+  "document_start": "1998-01-01",
+  "document_end": null,
+  "in_force": "2006-06-01",
+  "article_versions": 16,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
