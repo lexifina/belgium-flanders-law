@@ -1,0 +1,17 @@
+{
+  "codex_id": 1007788,
+  "title": "Omzendbrief van 2000-11-17 BA 2000/08 betreffende de toepassing van de wet van 29 juli 1991 betreffende de uitdrukkelijke motivering van de bestuurshandelingen op besluiten van provinciale en gemeentelijke overheden en de OCMW's - gecoördineerde onderrichtingen",
+  "type": "Omzendbrief",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1007788/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "b72054f0b2f2d8475effe8b1268c168b120861140103a87fa07b4e11866500f2",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1007788&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "2000-11-17",
+  "gazette": "2001-01-12",
+  "numac": 2000036292,
+  "document_start": null,
+  "document_end": null,
+  "in_force": "2006-06-01",
+  "article_versions": 1,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
