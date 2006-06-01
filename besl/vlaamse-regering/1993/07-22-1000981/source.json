@@ -1,0 +1,17 @@
+{
+  "codex_id": 1000981,
+  "title": "Besluit van de Vlaamse Regering van 1993-07-22 [betreffende het bevallings- en borstvoedingsverlof voor de personeelsleden van het onderwijs en de centra voor leerlingenbegeleiding]",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1000981/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "7eaff8c74f1ee89d84af91be16cb2676fb7ac7cd280beacb5ec9581c3667e801",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1000981&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "1993-07-22",
+  "gazette": "1993-09-15",
+  "numac": 1993036012,
+  "document_start": null,
+  "document_end": "2011-12-31",
+  "in_force": "2006-06-01",
+  "article_versions": 9,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
