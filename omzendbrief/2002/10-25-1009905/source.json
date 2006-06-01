@@ -1,0 +1,17 @@
+{
+  "codex_id": 1009905,
+  "title": "Omzendbrief van 2002-10-25 RO/2002/03 in verband met het opmaken van een gemeentelijke woonbehoeftestudie en het ontwikkelen van woonuitbreidingsgebieden met of zonder woonbehoeftestudie",
+  "type": "Omzendbrief",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1009905/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "13e322eb787a6fb9dfb9b75550c01fca72d027228f221411ecbaaa46429bb425",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1009905&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "2002-10-25",
+  "gazette": "2002-11-30",
+  "numac": 0,
+  "document_start": null,
+  "document_end": null,
+  "in_force": "2006-06-01",
+  "article_versions": 1,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
