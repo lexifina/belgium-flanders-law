@@ -1,0 +1,17 @@
+{
+  "codex_id": 1010762,
+  "title": "Ministerieel besluit van 2003-02-19 houdende vaststelling van de algemene voorwaarden voor toezicht van Kind en Gezin voor de zelfstandige onthaalouders, de mini-crèches en de zelfstandige kinderdagverblijven",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1010762/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "a301773cd023892c86de6bc670257925148f1f1dfdf2c6d6ce3ea29e4791ebde",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1010762&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "2003-02-19",
+  "gazette": "2003-03-07",
+  "numac": 2003200270,
+  "document_start": "2003-02-15",
+  "document_end": "2009-05-26",
+  "in_force": "2006-06-01",
+  "article_versions": 5,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
