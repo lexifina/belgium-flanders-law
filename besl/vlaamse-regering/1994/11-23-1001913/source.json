@@ -1,0 +1,17 @@
+{
+  "codex_id": 1001913,
+  "title": "Besluit van de Vlaamse Regering van 1994-11-23 tot regeling van de toekenning van een waarborg aan financiers die actief zijn in de sector van de sociale economie",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1001913/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "0be0421851c23f3b7c292d9df8d753cd631e2bc59c07d720338ecc4e010bfd68",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1001913&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "1994-11-23",
+  "gazette": "1995-02-04",
+  "numac": 1995035037,
+  "document_start": "1995-02-04",
+  "document_end": null,
+  "in_force": "2006-06-01",
+  "article_versions": 18,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
