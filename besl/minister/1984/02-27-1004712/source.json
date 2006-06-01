@@ -1,0 +1,17 @@
+{
+  "codex_id": 1004712,
+  "title": "Ministerieel besluit van 1984-02-27 tot vaststelling van de vergoeding van de voordrachthouders bij de rijksinrichtingen voor kunstonderwijs, ressorterend onder de Vlaamse Gemeenschap",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1004712/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "8eb86a2466dbed03b705171a16541c21f0d278e09931587bcc8fcd4854bb6619",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1004712&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "1984-02-27",
+  "gazette": "1986-04-04",
+  "numac": 0,
+  "document_start": null,
+  "document_end": null,
+  "in_force": "2006-06-01",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
