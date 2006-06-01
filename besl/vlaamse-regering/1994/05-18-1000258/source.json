@@ -1,0 +1,17 @@
+{
+  "codex_id": 1000258,
+  "title": "Besluit van de Vlaamse Regering van 1994-05-18 tot vaststelling op 1 november 1993 van de weddeschalen verbonden aan de ambten van het administratief personeel, het meesters-, vak- en dienstpersoneel van het door de Vlaamse Gemeenschap georganiseerde onderwijs en van het gesubsidieerd administratief personeel van de door de Vlaamse Gemeenschap gesubsidieerde onderwijsinstellingen",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1000258/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "e744cd72fd85e01da941572c7ebc7c1952a34370b29f477876f6fe517f454492",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1000258&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "1994-05-18",
+  "gazette": "1994-08-04",
+  "numac": 1994035882,
+  "document_start": null,
+  "document_end": null,
+  "in_force": "2006-06-01",
+  "article_versions": 5,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
