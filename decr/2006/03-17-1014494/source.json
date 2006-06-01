@@ -1,0 +1,17 @@
+{
+  "codex_id": 1014494,
+  "title": "Decreet van 2006-03-17 tot omzetting van Richtlijn 2001/96/EG van het Europees Parlement en de Raad van 4 december 2001 tot vaststelling van geharmoniseerde voorschriften en procedures voor het veilig laden en lossen van bulkschepen",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1014494/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "1f81442b997c101bfc3787e0261362a7c1958f9f3c935493a99c4f67fff10f36",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1014494&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "2006-03-17",
+  "gazette": "2006-05-11",
+  "numac": 2006035684,
+  "document_start": null,
+  "document_end": "2022-05-31",
+  "in_force": "2006-06-01",
+  "article_versions": 12,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
