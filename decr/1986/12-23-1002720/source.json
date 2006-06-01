@@ -1,0 +1,17 @@
+{
+  "codex_id": 1002720,
+  "title": "Decreet van 1986-12-23 houdende bevoegdverklaring van de Administratie van de belasting over de toegevoegde waarde, Registratie en Domeinen tot het uitvoeren van bepaalde vermogensrechtelijke verrichtingen voor rekening van het Vlaamse gewest en van de instellingen die ervan afhangen",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1002720/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "1772a431141fdbad7810ef30a93a719928bcabc245bd92903f0e2cd2c55dba7d",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1002720&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "1986-12-23",
+  "gazette": "1987-03-03",
+  "numac": 1987929116,
+  "document_start": null,
+  "document_end": null,
+  "in_force": "2006-06-01",
+  "article_versions": 2,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
