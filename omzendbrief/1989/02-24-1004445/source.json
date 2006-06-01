@@ -1,0 +1,17 @@
+{
+  "codex_id": 1004445,
+  "title": "Omzendbrief van 1989-02-24 betreffende de procedure voor de goedkeuring van verbintenissenmachtigingen, leningsmachtigingen en leningen ten behoeve van de huisvestingsmaatschappijen en het Vlaams Woningfonds",
+  "type": "Omzendbrief",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1004445/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "b78008014a997bb102e9fcf48c1abe335f1edf4556c8dcdf6ebda469acc8bc71",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1004445&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "1989-02-24",
+  "gazette": "1989-03-31",
+  "numac": 0,
+  "document_start": null,
+  "document_end": null,
+  "in_force": "2006-06-01",
+  "article_versions": 1,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
