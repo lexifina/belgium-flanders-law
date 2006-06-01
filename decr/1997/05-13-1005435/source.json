@@ -1,0 +1,17 @@
+{
+  "codex_id": 1005435,
+  "title": "Decreet van 1997-05-13 houdende oprichting van een financieringsinstrument voor de Vlaamse visserij- en [aquacultuursector]",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1005435/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "07fe92cbfd8b7050fcd254d2e01bba5e0fa38b92d4105895331120452d531aca",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1005435&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "1997-05-13",
+  "gazette": "1997-06-17",
+  "numac": 1997035663,
+  "document_start": "1997-01-01",
+  "document_end": null,
+  "in_force": "2006-06-01",
+  "article_versions": 13,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
