@@ -1,0 +1,17 @@
+{
+  "codex_id": 1002733,
+  "title": "Besluit van de Vlaamse Regering van 1991-06-19 tot oprichting van paritaire comités voor het gesubsidieerd vrij onderwijs en de pedagogische begeleidingsdiensten en de gesubsidieerde vrije psycho-medisch-sociale centra en tot vaststelling van hun benaming, bevoegdheid, samenstelling en werkwijze",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1002733/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "e827a2e0d5226574b0ea0a71fd31daa7ba20bef95973b54ef22da2e319683d49",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1002733&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "1991-06-19",
+  "gazette": "1991-08-15",
+  "numac": 1991035981,
+  "document_start": "1991-06-01",
+  "document_end": null,
+  "in_force": "2006-06-01",
+  "article_versions": 19,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
