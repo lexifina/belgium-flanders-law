@@ -1,0 +1,17 @@
+{
+  "codex_id": 1014004,
+  "title": "Besluit van de Vlaamse Regering van 2005-09-02 betreffende de invoering van de vergoeding voor het inzetten van een helikopter voor het beloodsen en het afhalen van een loods van vaartuigen",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1014004/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "dc684c5fd19c32555f79893788ef95370b05a3ac75bad9f12cfe6d8385f052e0",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1014004&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "2005-09-02",
+  "gazette": "2005-10-03",
+  "numac": 2005036210,
+  "document_start": "2005-10-01",
+  "document_end": "2012-06-24",
+  "in_force": "2006-06-01",
+  "article_versions": 9,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
