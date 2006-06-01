@@ -1,0 +1,295 @@
+# Besluit van de Vlaamse Regering van 2002-03-29 betreffende het toekennen van vergunningen, het vaststellen en innen van retributies voor het privatieve gebruik van het openbaar domein van de wegen, de waterwegen en hun aanhorigheden, de zeewering en de dijken
+
+## DEEL I ALGEMENE BEPALINGEN
+
+## HOOFDSTUK I DEFINITIES
+
+### ART. 1.
+
+In dit besluit wordt verstaan onder:<br /><br />1° het decreet: het decreet van 18 december 1992 houdende bepalingen tot begeleiding van de begroting 1993;<br /><br />2° het domeingoed: het openbare domein van de wegen en de waterwegen en hun aanhorigheden, de zeewering, de dijken die ressorteren onder het beheer van het Vlaamse Gewest zoals bedoeld in artikel 40, § 1, van het decreet;<br /><br />3° [de domeinbeheerder: het voor het beheer van het domeingoed bevoegde agentschap of de voor het beheer van het domeingoed bevoegde publiekrechtelijke rechtspersoon die afhangt van het Vlaamse Gewest;  <span class="reference">(verv. B.V.R. 7 oktober 2005, art. 17, I: 1 april 2006)</span> ]<br /><br />4° natte infrastructuur: de maximale wateroppervlakte die binnen de oevers of waterkeringen ingenomen kan worden;<br /><br />5° droge infrastructuur: alle infrastructuur die buiten de natte infrastructuur gelegen is;<br /><br />6° collectieve ligplaats: ligplaats die voor minstens 20 vaartuigen is ingericht;<br /><br />7° leiding: elke buigbare of onbuigbare buis, pijp, goot, kanaal, kabel, geleider of tot één streng samengebundelde geleiders voor het vervoer of de [verdeling  <span class="reference">(verv. B.V.R. 25 juni 2004, art. 1, I: 10 september 2004)</span> ] van informatie, grond-stoffen of energie;<br /><br />8° [ ...  <span class="reference">(opgeh. B.V.R. 25 juni 2004, art. 1, I: 10 september 2004)</span> ]<br /><br />9° vervoerleidingen: het geheel van leidingen en hun lokale installaties die gebruikt worden voor het vervoer van informatie, grondstoffen of energie van de productiecentra, schakel- en transmissiestations of opslagplaatsen naar de distributienetwerken, rechtstreekse eindverbruikers van grote capaciteiten, tussen centra, stations of opslagplaatsen onderling of naar het buitenland;<br /><br />10° [afvoerleidingen: het geheel van leidingen en openluchtgreppels, bestemd voor het opvangen en transporteren van hemelwater, afvalwater, het water van pompstations en zuiveringsinstallaties;  <span class="reference">(verv. B.V.R. 25 juni 2004, art. 1, I: 10 september 2004)</span> ]<br /><br />11° netwerk: geheel van leidingen en toebehoren nodig voor de uitbating of de werking van de aangelegde leidingen en lokale installaties;<br /><br />12° lokale installaties: elke bijzondere plaatselijke voorziening nodig voor de werking of de uitbating van de aangelegde leiding of het netwerk.
+
+## HOOFDSTUK II TOEPASSINGSGEBIED
+
+### ART. 2.
+
+§ 1. Onverminderd artikel 4 [...  <span class="reference">(geschr. B.V.R. 25 juni 2004, art. 2, I: 10 september 2004)</span> ] moet voor de in deel II omschreven ingebruiknemingen van het domeingoed vooraf een vergunning verkregen worden van de do-meinbeheerder.<br /><br />Dat geldt ook ingeval installaties of infrastructuur waar een vergunning voor werd verleend, later gewijzigd of verplaatst worden, tenzij het Vlaamse Gewest opdrachtgever is. In dat laatste geval dienen er enkel aangepaste technische documenten overeenkomstig artikel 4, § 1, 3°, b) te worden ingediend bij de domeinbeheerder.<br /><br />§ 2. De bepalingen van dit besluit zijn niet van toepassing indien het gebruik van het domeingoed bij wijze van concessie wordt geregeld.
+
+### ART. 3.
+
+De domeinbeheerder oordeelt erover of de gevraagde vergunning verenigbaar is met het beleid inzake het beheer van het domeingoed. Hij weigert de vergunning indien dit niet het geval is.
+
+## HOOFDSTUK III DE VERGUNNINGSAANVRAAG
+
+### ART. 4.
+
+§ 1. Tenzij anders bepaald is in deel II of in een protocol, wordt de vergunningsaanvraag minstens dertig kalenderdagen voor de aanvang van de geplande werken of activiteiten ingediend bij de domeinbeheerder. De aanvraag bevat de volgende documenten en gegevens:<br /><br />1° een duidelijke omschrijving van het doel van de vergunning;<br /><br />2° een aantal administratieve gegevens, namelijk:<br /><br />a) de naam van de natuurlijke persoon of van de rechtspersoon en zijn gevolmachtigde die de aanvraag indient of namens wie ze wordt ingediend;<br /><br />b) de woonplaats en het volledige adres van de aanvrager en in voorkomend geval de maatschappelijke zetel en exploitatiezetel;<br /><br />c) de naam van de verantwoordelijke van de exploitatiezetel waarvoor de aanvraag wordt ingediend;<br /><br />d) de naam en het telefoonnummer van de persoon die inlichtingen kan geven over de aanvraag;<br /><br />3° technische documenten, namelijk:<br /><br />a) een technische beschrijving van het te gebruiken domeingoed en van de uit te voeren werkzaamheden;<br /><br />b) een plan indien de vergunning tot doel heeft op het domeingoed infrastructuur op te richten of te wijzigen. Dit plan bestaat uit:<br /><br />1) een situatietekening, op een schaal van minstens 1/500, waarop nauwkeurig de inplanting van de infrastructuur ten opzichte van de waterweg of weg en ten opzichte van de grens van het domeingoed aangegeven wordt;<br /><br />2) een gedetailleerde uitvoeringstekening met dwars- en langsprofielen, evenals bijkomende inlichtingen en vermeldingen indien de domeinbeheerder daarom verzoekt.<br /><br />Het plan, bedoeld in het eerste lid, 3°, b), wordt in 5 exemplaren bij de vergunningsaanvraag gevoegd. De aanvrager of zijn gevolmachtigde ondertekent het plan onder de vermelding: "Plan betreffend......, gevoegd bij de huidige vergunningsaanvraag, waar het een integrerend deel van uitmaakt."<br /><br />Indien de domeinbeheerder beslist om op verzoek van de aanvrager zelf het plan, bedoeld in het eerste lid, 3°, b), op te stellen, is de aanvrager hiervoor een vergoeding verschuldigd van 500 euro per m2 planoppervlakte, met een minimumbedrag van 75 euro. Die bedragen zijn gekoppeld aan de schommelingen van het indexcijfer van de consumptieprijzen overeenkomstig de formule van artikel 18, § 3.<br /><br />§ 2. De vergunning verwijst naar het goedgekeurde plan dat de domeinbeheerder heeft ondertekend onder de vermelding: "Goedgekeurd........ op........ met het nummer...... ".
+
+## HOOFDSTUK IV ALGEMENE VERGUNNINGSVOORWAARDEN
+
+### ART. 5.
+
+§ 1. De vergunning is precair en wordt in beginsel verleend voor onbepaalde duur. Ze kan evenwel ook worden toegekend voor een eenmalige, een periodieke of een in de tijd beperkte ingebruikneming.<br /><br />§ 2. Onverminderd de bepalingen inzake het in gebreke blijven van de vergunninghouder kan de domeinbeheerder de vergunning op elk ogenblik geheel of gedeeltelijk intrekken, schorsen of wijzigen in het algemeen belang, zonder dat de vergunninghouder aanspraak kan maken op schadeloosstelling.<br /><br />In geval van intrekking in het algemeen belang worden de al betaalde bedragen van de variabele retributie voor het lopende jaar pro rata per kalendermaand terugbetaald.
+
+### ART. 6.
+
+De vergunninghouder kan op grond van de vergunning nooit zakelijke rechten op het domeingoed verwerven, noch op andere rechten aanspraak maken dan de rechten die uitdrukkelijk in de vergunning zijn opgenomen.
+
+### ART. 7.
+
+§ 1. Tenzij anders vermeld is in een protocol of in de bijzondere voorwaarden van de vergunning, moet de vergunninghouder tien kalenderdagen voor de aanvang van de werkzaamheden de domeinbeheerder meedelen wanneer de werkzaamheden worden aangevat. In voorkomend geval kan hij pas starten met de werkzaamheden nadat hij de nodige aanwijzingen van de toezichthoudende ambtenaar heeft ontvangen. De vergunninghouder dient de aanwijzingen van deze ambtenaar stipt te volgen.<br /><br />§ 2. De vergunde werken worden uitgevoerd onder de volledige en uitsluitende verantwoordelijkheid van de vergunninghouder, volgens de regels van de kunst en gelijkvormig met de goedgekeurde plannen.<br /><br />§ 3. De vergunde werken dienen na aanvang onafgebroken te worden uitgevoerd. De oorspronkelijke infrastructuur dient in zijn oorspronkelijke staat hersteld te worden, tenzij de domeinbeheerder hem hiervan uitdrukkelijk ontslaat.<br /><br />§ 4. De vergunninghouder moet op elk ogenblik de passende maatregelen nemen om de veiligheid van het verkeer te garanderen. Hij mag de scheepvaart, het toegelaten verkeer op de jaag- en voetpaden en op de dijken en de zeewering alsook de waterafvoer nooit beletten.<br /><br />§ 5. De vergunninghouder erkent de juistheid van de oppervlakte van het in gebruik te nemen domeingoed en verklaart het domeingoed te kennen.<br /><br />Elke partij kan vooraf verzoeken om een tegensprekelijke plaatsbeschrijving of een grondmechanisch bodemonderzoek van het in gebruik te nemen domeingoed. Dat gebeurt op kosten van de vergunninghouder.<br /><br />§ 6. De bestaande afpalingsstenen die ter plaatse de grens van het domeingoed aanduiden, worden in hun oorspronkelijke staat behouden en mogen niet beschadigd worden. De afpalingsstenen die verplaatst of verwijderd worden, moeten op kosten van de vergunninghouder door een beëdigd landmeter, in aanwezigheid van de toezichthoudende ambtenaar worden teruggeplaatst.<br /><br />§ 7. De domeinbeheerder ziet toe op de uitvoering van de vergunde werkzaamheden. Dat toezicht houdt enkel een controle in van de vergunningsvoorwaarden, zonder dat de domeinbeheerder hiervoor enige verantwoordelijkheid draagt.
+
+### ART. 8.
+
+De vergunning ontslaat de vergunninghouder niet van zijn verplichting zich te gedragen naar de bepalingen van de vigerende wetten en reglementen, onder andere inzake politie, weg- en scheepvaartverkeer, inzake milieu en ruimtelijke ordening.
+
+### ART. 9.
+
+Als de domeinbeheerder overeenkomstig artikel 21, § 6, door ambtshalve maatregelen zelf instaat voor de uitvoering van de voorwaarden en bepalingen van de vergunning gebeurt dit op kosten en voor risico van de vergunninghouder.
+
+### ART. 10.
+
+De vergunninghouder zal het Vlaamse Gewest tegen alle aanspraken van derden vrijwaren voor alle verliezen, schade, ongevallen of nadelen die kunnen volgen uit het gebruik van de vergunnning. De vergoedingen die in dit verband uitbetaald worden aan derden kunnen van de waarborg worden afgehouden overeenkomstig de bepalingen van artikel 20.
+
+### ART. 11.
+
+Ten behoeve van het beheer van het openbaar domein moet aan de toezichthoudende ambtenaren te allen tijde toegang worden verleend tot het vergunde domeingoed en zo nodig tot de gronden van de vergunninghouder.
+
+### ART. 12.
+
+De vergunninghouder is verplicht alle belastingen en heffingen van welke aard ook te betalen die op het vergunde domeingoed geheven worden.<br /><br />Het zegelrecht, dat bij de afgifte van een vergunning verschuldigd is, valt ten laste van de vergunninghouder.
+
+### ART. 13.
+
+De vergunninghouder mag het bij de vergunning verleende gebruiksrecht geheel noch gedeeltelijk afstaan aan derden, zonder voorafgaande schriftelijke toestemming van de domeinbeheerder.
+
+### ART. 14.
+
+Alle bepalingen en voorwaarden met betrekking tot de vergunning zijn uitvoerbaar lastens de vergunninghouder en zijn rechtsopvolgers. Die moeten de domeinbeheerder van de rechtsopvolging op de hoogte brengen binnen negentig kalenderdagen, tenzij anders bepaald is in dit besluit.
+
+### ART. 15.
+
+Bij elke vergunning kan de domeinbeheerder bijzondere voorwaarden opleggen, naargelang van de plaatselijke toestand en de specifieke behoeften.
+
+## HOOFDSTUK V BEËINDIGING VAN DE VERGUNNING
+
+### ART. 16.
+
+§ 1. In de gevallen omschreven in de artikelen 5 § 2, 17, 19 § 2 en 21 § 3, kan de domeinbeheerder de vergunning beëindigen. De vergunninghouder kan, bij aangetekend schrijven, een einde stellen aan de hem verleende vergunning mits hij een opzegtermijn van dertig kalenderdagen in acht neemt, die ingaat vanaf het versturen van het aangetekend schrijven, tenzij anders bepaald in de vergunning.<br /><br />§ 2. Bij het einde van de vergunning, ongeacht de reden ervan, heeft de vergunninghouder de verplichting binnen de hem daartoe verleende termijn, het domeingoed in zijn oorspronkelijke staat te herstellen, tenzij de domeinbeheerder hem hiervan uitdrukkelijk ontslaat.<br /><br />Als die verplichting niet of slechts gebrekkig wordt uitgevoerd, zal ze ambtshalve worden uitgevoerd op kosten en voor risico van de vergunninghouder.<br /><br />In voorkomend geval wordt de vergunninghouder geacht ten gunste van het Vlaamse Gewest onherroepelijk afstand te hebben gedaan van alle rechten op achtergelaten constructies, materialen, beplantingen en dergelijke.
+
+### ART. 17.
+
+Als de vergunninghouder binnen of gedurende een jaar geen gebruik gemaakt heeft van de vergun-ning, kan de domeinbeheerder de vergunning intrekken.
+
+## HOOFDSTUK VI RETRIBUTIES, TOEZICHTSKOSTEN, LAATTIJDIGE BETALINGEN EN WAARBORG
+
+## AFDELING 1 RETRIBUTIES EN TOEZICHTSKOSTEN
+
+### ART. 18.
+
+§ 1. Voor de in deel II omschreven ingebruiknemingen van het domeingoed is de vergunninghouder aan de domeinbeheerder een retributie verschuldigd die bestaat uit een eenmalige vaste retributie en een variabele retributie, [tenzij de ingebruikneming van vaste en variabele retributie of van variabele retributie is vrijgesteld krachtens de bepalingen van het decreet of dit besluit  <span class="reference">(verv. B.V.R. 25 juni 2004, art. 3, I: 10 september 2004)</span> ]<br /><br />§ 2. De vaste retributie bedraagt 62 euro per vergunning. De vergunninghouder betaalt dat bedrag vooraf of bij de afgifte van de vergunning.<br /><br />De variabele retributie is jaarlijks verschuldigd. Ze wordt berekend overeenkomstig de bepalingen van deel II en de tarieven, vermeld in de bijlage bij dit besluit. De variabele retributie bedraagt minstens 62 euro per vergunning.<br /><br />De betalingstermijn bedraagt zestig kalenderdagen, te rekenen vanaf de verzending van de vordering.<br /><br />Als het domeingoed niet gedurende een volledig jaar wordt gebruikt, maar periodiek of eenmalig wordt gebruikt of als het gebruik ervan in de loop van een kalenderjaar een aanvang neemt, wordt de variabele retributie pro rata en per kalendermaand berekend.<br /><br />§ 3. De retributies zijn gekoppeld aan de schommelingen van het indexcijfer en worden berekend aan de hand van de volgende formule:<br /><br />verschuldigd bedrag x nieuw indexcijfer<br /><br />basisindexcijfer<br /><br />Het nieuwe indexcijfer is het indexcijfer van de consumptieprijzen van de maand december van het jaar dat voorafgaat aan het jaar waarop de heffing slaat.<br /><br />Het basisindexcijfer is het indexcijfer van de consumptieprijzen van december 2001.<br /><br />§ 4. Onverminderd artikel 5 § 2, tweede lid kunnen de betaalde retributies van het lopende jaar niet teruggevorderd worden bij het beÙindigen van de vergunning.<br /><br />§ 5. De toezichtskosten op de uitvoering van de vergunde werkzaamheden worden ten laste gelegd van de vergunninghouder.<br /><br />Tenzij anders bepaald is in een protocol, worden de toezichtskosten aangerekend tegen de werkelijke kostprijs van de geleverde prestaties.<br /><br />De betalingstermijn bedraagt zestig kalenderdagen, te rekenen vanaf de verzending van de vordering.<br /><br />§ 6. Tenzij anders bepaald in een protocol, wordt de vergunning ingeval zich meerdere kandidaten aanbieden voor het verkrijgen op eenzelfde plaats van een vergunning voor een ingebruikneming met commerciële inslag, verleend na offerteaanvraag.<br /><br />§ 7. De vergunninghouder kan tegen de variabele retributie een bezwaarschrift indienen bij de bevoegde leidend ambtenaar, als hij meent dat die verkeerd is berekend. Met een bezwaarschrift kan hij tevens om uitstel of spreiding van betaling van de retributie verzoeken.<br /><br />Het met redenen omklede bezwaarschrift wordt binnen de dertig kalenderdagen na de verzending van de vordering aangetekend verstuurd naar de in het eerste lid genoemde ambtenaar.<br /><br />De leidend ambtenaar neemt een beslissing binnen zestig kalenderdagen vanaf de datum van verzending van het bezwaarschrift. De leidend ambtenaar kan deze termijn eenmaal verlengen met zestig kalenderdagen. Hij richt hiervoor een met redenen omkleed aangetekend schrijven aan de vergunninghouder.<br /><br />De leidend ambtenaar of de door hem gedelegeerde ambtenaar brengt de vergunninghouder op de hoogte van de beslissing via een aangetekende brief.<br /><br />Als de vergunninghouder binnen de in deze paragraaf gestelde termijn, geen kennisgeving van de beslissing heeft ontvangen, wordt het bezwaarschrift als ingewilligd beschouwd.
+
+## AFDELING 2 LAATTIJDIGE BETALINGEN
+
+### ART. 19.
+
+§ 1. Als de vergunninghouder de variabele retributie niet heeft betaald binnen de termijn, vastge-steld in artikel 18, § 2, dan is hij de wettelijke verwijlintrest van rechtswege verschuldigd en wordt een forfaitaire vergoeding aangerekend die gelijk is aan de vaste retributie om de administratiekosten te dekken.<br /><br />De vergunninghouder wordt hiervan schriftelijk op de hoogte gebracht.<br /><br />§ 2. Als de vergunninghouder niet heeft betaald binnen dertig kalenderdagen na de verzending van de in § 1, tweede lid, vermelde brief, dan kan de domeinbeheerder de vergunning intrekken. In dat geval moet de vergunninghouder de variabele retributie, de intrest en de forfaitaire vergoeding toch betalen.<br /><br />§ 3. Als de vergunninghouder de toezichtskosten niet heeft betaald binnen de termijn, vastgesteld in artikel 18, § 5, dan is de verwijlintrest van rechtswege verschuldigd.<br /><br />§ 4. Als de vergunninghouder de door de domeinbeheerder ambtshalve gemaakte kosten niet heeft betaald binnen de zestig kalenderdagen te rekenen vanaf de verzending van de vordering, dan is de verwijlintrest van rechtswege verschuldigd.
+
+## AFDELING 3 WAARBORG
+
+### ART. 20.
+
+§ 1. Er kan een waarborg geëist worden als een vergunning wordt verleend voor werkzaamheden of activiteiten die, bij niet-naleving van de vergunningsvoorwaarden, aanleiding kunnen geven tot extra kosten voor de domeinbeheerder.<br /><br />§ 2. De waarborg kan in speciën of publieke fondsen worden gesteld bij de Deposito- en Consignatiekas of onder de vorm van een bankgarantie op eerste verzoek.<br /><br />§ 3. Het bedrag van de waarborg wordt bepaald aan de hand van de kosten die verbonden zijn aan het herstel van het domeingoed in zijn oorspronkelijke of in de vergunning bepaalde staat, tenzij anders bepaald is in een protocol.<br /><br />§ 4. Met een vergunninghouder die over meerdere vergunningen beschikt, kan een overeenkomst gesloten worden voor het stellen van een globale waarborg waarvan de voorwaarden bepaald worden in een protocol.<br /><br />§ 5. De waarborg kan aangesproken worden voor zowel achterstallige retributies, alle door de domeinbeheerder ambtshalve gemaakte kosten, evenals voor vergoedingen en voor intresten.<br /><br />Aan de afname gaat een aanmaning bij aangetekend schrijven vooraf waarin een betalings- of uitvoeringstermijn van minstens acht kalenderdagen wordt verleend.<br /><br />§ 6. De vergunning wordt gegeven na bewijs van het stellen van een waarborg.<br /><br />§ 7. Na afloop van de vergunning wordt de waarborg op verzoek van de vergunninghouder vrijgegeven. Van de waarborg worden de verschuldigde sommen afgetrokken. Met uitzondering van de in de tijd beperkte vergunningen, kan de waarborg in schijven worden vrijgegeven: de helft wordt terugbetaald na aflevering van een gunstig attest van goede uitvoering van de vergunde werken, de tweede helft na de definitieve eindcontrole na de waarborgperiode, waarvan de termijn wordt bepaald in de vergunning of in het protocol.<br /><br />De vergunninghouder zal binnen veertien kalenderdagen na iedere afname de waarborg aanzuiveren tot het vastgestelde bedrag.
+
+## HOOFDSTUK VII OVERTREDINGEN
+
+### ART. 21.
+
+§ 1. Elke vaststelling van overtreding van de vergunningsvoorwaarden wordt bij aangetekend schrijven meegedeeld aan de vergunninghouder.<br /><br />§ 2. De mededeling bevat de termijn waarbinnen hij zijn verplichtingen moet nakomen of zijn verweer kenbaar kan maken.<br /><br />§ 3. Indien de vergunninghouder binnen de in § 2 bedoelde termijn zijn verplichtingen niet is nagekomen en geen verweer kenbaar heeft gemaakt, kan de domeinbeheerder naast het opleggen van een forfaitaire vergoeding gelijk aan de vaste retributie, de overtreding doen ophouden op kosten van de vergunninghouder en zo nodig de vergunning intrekken.<br /><br />§ 4. Indien het verweer wordt verworpen, deelt de domeinbeheerder dat schriftelijk mee met vermelding van de termijn waarbinnen de vergunninghouder zijn verplichtingen moet nakomen.<br /><br />Geeft de vergunninghouder hieraan geen gevolg, dan treedt de domeinbeheerder op zoals bepaald in § 3.<br /><br />§ 5. Indien de vergunninghouder na zestig kalenderdagen, na het kenbaar maken van zijn verweer, geen antwoord ontvangen heeft op zijn verweer, wordt dat als ingewilligd beschouwd.<br /><br />§ 6. In afwijking van § 2 moet de vergunninghouder, in de gevallen waarin geen uitstel kan worden geduld, onmiddellijk gevolg geven aan de aanmaning, zo niet zal de domeinbeheerder ambtshalve optreden.
+
+## HOOFDSTUK VIII RETRIBUTIEVRIJSTELLINGEN
+
+## HOOFDSTUK IX BESTAANDE VERGUNNINGEN EN REGULARISATIES
+
+### ART. 23.
+
+§ 1. De bestaande vergunningen blijven van kracht met toepassing, tot op de eerstvolgende verval-dag, van het tarief van de retributie die in de vergunning vermeld staat. Vanaf de voormelde vervaldag gelden de voorwaarden en tarieven van dit besluit.<br /><br />De wijziging van die tarieven en voorwaarden geven geen aanleiding tot het toepassen van de vaste retributie.<br /><br />§ 2. Bestaande privatieve ingebruiknemingen waarvoor geen vergunning kan worden overgelegd, maken binnen één jaar na de inwerkingtreding van dit besluit het voorwerp uit van een aanvraag tot regularisatie, overeenkomstig de bepalingen voor de vergunningsaanvraag, vastgesteld in dit besluit.<br /><br />§ 3. Als deze aanvraag tot regularisatie niet wordt ingediend, binnen de in § 2 bedoelde termijn, kan de domeinbeheerder naast het opleggen van een forfaitaire vergoeding gelijk aan de vaste retributie, de overtreding doen ophouden op kosten van de vergunninghouder.<br /><br />§ 4. Indien de aanvrager bij de aanvraag tot regularisatie, bedoeld in § 2, aantoont dat door een gebrek aan gegevens redelijkerwijze geen dossier kan worden voorgelegd dat voldoet aan de bepalingen van artikel 4, § 1, 3°, dan kan de Vlaamse regering, op voorstel van de domeinbeheerder, beslissen om voor deze ingebruiknemingen een vereenvoudigde regeling toe te passen voor het verlenen van de vergunning en het bepalen van de basis voor de berekening van de retributie.
+
+## DEEL II BIJZONDERE BEPALINGEN
+
+## HOOFDSTUK I DWARSAFSLUITINGEN
+
+### ART. 24.
+
+§ 1. Op dijken en jaagpaden die niet bij erfdienstbaarheid zijn gevestigd, kan een vergunning worden verleend voor het plaatsen van dwarsafsluitingen. Die vergunning wordt enkel uitzonderlijk en om ernstige redenen toegekend. Binnen de strook, vastgesteld door de voorschriften betreffende de politie en de scheepvaart, moet de vrije doorgang behouden blijven. Daartoe kan de vergunning voorschrijven dat de dwarsafsluitingen de vorm moeten aannemen van wegneembare of automatisch sluitende poorten.<br /><br />Als een aanvrager verscheidene afsluitingen wil plaatsen, kan hij met één vergunningsaanvraag volstaan.<br /><br />§ 2. De retributies zijn bepaald in tarief A van de bijlage, gevoegd bij dit besluit.
+
+## HOOFDSTUK II AANKONDIGINGEN EN PUBLICITEIT
+
+### ART. 25.
+
+§ 1. Binnen de perken van de vigerende wetgeving en reglementering en onverminderd de toepassing van artikel 31, § 1, 3°, b), kan een vergunning worden verleend voor:<br /><br />1° aankondigingen van [...  <span class="reference">(geschr. B.V.R. 25 juni 2004, art. 5, I: 10 september 2004)</span> ] tijdelijke activiteiten;<br /><br />2° publiciteit van commerciële aard:<br /><br />a) op straatmeubilair;<br /><br />b) op de door de vergunninghouder geplaatste constructies zoals terrassen en afsluitingen aangebracht naar aanleiding van vergunde manifestaties.<br /><br />§ 2. De aankondigingen, genoemd in § 1, 1°, met een tijdsduur van ten hoogste vijftien kalenderdagen, kunnen aangebracht worden op eigen dragers of op door de overheid beschikbaar gestelde dragers.<br /><br />De aankondigingen, genoemd in § 1, 1°, die voor een langere periode gelden, of wisselende aankondigingen kunnen enkel aangebracht worden op door de overheid beschikbaar gestelde dragers.<br /><br />§ 3. De retributies zijn bepaald in tarief B van de bijlage, gevoegd bij dit besluit.
+
+## HOOFDSTUK III LEIDINGEN EN NETWERKEN
+
+### ART. 26.
+
+§ 1. Voor het gebruik van het domeingoed voor leidingen, netwerken en lokale installaties van algemeen en privaat belang is een vergunning vereist en is een retributie verschuldigd.<br /><br />§ 2. De retributie wordt berekend op basis van de ingenomen ruimte op, in of boven het domeingoed.<br /><br />De ingenomen ruimte wordt bepaald door de diepte, breedte en lengte van de ingenomen ruimte met elkaar te vermenigvuldigen. De diepte is de afstand tussen de onderkant van de laagst gelegen leiding of installatie, en de bovenkant van de hoogst gelegen installatie. De breedte is de afstand tussen de meest links en de meest rechts gelegen leiding of installatie. De lengte wordt uitgedrukt in meter. Zowel voor de diepte als voor de breedte wordt een minimum van 10 cm genomen.<br /><br />Beschermende mantelbuizen of wachtbuizen met of zonder kabel worden samen met de leiding als één geheel beschouwd en bepalen mee de ingenomen ruimte.<br /><br />Meerdere bovengrondse lijnen die op dezelfde steunen zijn aangebracht, worden aangerekend overeenkomstig het aantal leidingen.<br /><br />In afwijking van het eerste lid wordt de retributie voor lokale installaties berekend op basis van de ingenomen oppervlakte op het domeingoed.<br /><br />§ 3. [...  <span class="reference">(opgeh. B.V.R. 25 juni 2004, art. 6, I: 10 september 2004)</span> ]<br /><br />§ 4. Het buiten gebruik stellen van een leiding, netwerk of lokale installatie heft de retributie niet op. Pas nadat de vergunninghouder ze effectief heeft laten verwijderen of nadat hij zich daartoe bereid heeft verklaard, maar om welbepaalde redenen de toestemming van de domeinbeheerder daartoe niet verkrijgt, is de retributie voor herziening vatbaar, na schriftelijke aanvraag.<br /><br />Tenzij de domeinbeheerder hem hiervan ontslaat, voert de vergunninghouder de verwijdering uit naar aanleiding van werkzaamheden door de domeinbeheerder of naar aanleiding van het aanleggen van nieuwe leidingen door de vergunninghouder zelf of een andere vergunninghouder.<br /><br />§ 5. De retributies zijn bepaald in tarief C van de bijlage, gevoegd bij dit besluit.
+
+## HOOFDSTUK IV AFVOERLEIDINGEN
+
+### ART. 27.
+
+§ 1. [Er is een vergunning vereist voor:<br /><br />1° afvoerleidingen, uitsluitend bestemd voor hemelwater;<br /><br />2° afvoerleidingen voor huishoudelijk afvalwater of voor bedrijfsafvalwater of het mengsel van huishoudelijk afvalwater en/of bedrijfsafvalwater en/of afvloeiend hemelwater;<br /><br />3° afvoerleidingen van pompstations in polders en wateringen, naar grachten en waterlopen;<br /><br />4° afvoerleidingen onder jaagpaden die niet bij erfdienstbaarheid zijn gevestigd, in oevers en dijken.  <span class="reference">(verv. B.V.R. 25 juni 2004, art. 7, I: 10 september 2004)</span> ]<br /><br />§ 2. [ ...  <span class="reference">(opgeh. B.V.R. 25 juni 2004, art. 7, I: 10 september 2004)</span> ]<br /><br />§ 3. De retributies zijn bepaald in tarief C [...  <span class="reference">(geschr. B.V.R. 25 juni 2004, art. 7, I: 10 september 2004)</span> ] van de bijlage, ge-voegd bij dit besluit.
+
+## HOOFDSTUK V INRICHTINGEN IN DE VAARWEG EN ZIJN AANHORIGHEDEN
+
+## AFDELING 1 DRIJVENDE INRICHTINGEN
+
+### ART. 28.
+
+§ 1. Vanaf het ogenblik dat ze zestig kalenderdagen op dezelfde plaats blijven liggen of over een gereserveerde plaats beschikken, zijn de hiernavolgende vaartuigen vergunningsplichtig:<br /><br />1° de vaartuigen die niet worden aangewend voor goederentransport;<br /><br />2° de magazijnschepen, ponten, baggerschepen en vaartuigen voor toeristische rondvaarten, alsook schuiten en vlotten die tijdelijk of definitief buiten gebruik zijn of wachten op sloop;<br /><br />3° horecavaartuigen.<br /><br />Voor inrichtingen als bedoeld in het eerste lid die worden ingezet voor opdrachten van de domeinbeheerder of van de dienst, belast met de bouw van de infrastructuur, is geen vergunning vereist voor de duur van de opdracht.<br /><br />§ 2. Voor de in het eerste lid, 1°, en 2°, vermelde vaartuigen wordt de retributie berekend op basis van de ingenomen wateroppervlakte en de periode dat het vaartuig ter plaatse ligt.<br /><br />Voor de in het eerste lid, 3°, vermelde vaartuigen wordt de retributie berekend op basis van de ingenomen wateroppervlakte. De ingenomen wateroppervlakte wordt berekend door de grootste lengte van het vaartuig te vermenigvuldigen met de grootste breedte, waarbij zowel voor de lengte als voor de breedte alles in aanmerking wordt genomen.<br /><br />§ 3. De retributies zijn bepaald in tarief D1 van de bijlage, gevoegd bij dit besluit.
+
+## AFDELING 2 VASTE INRICHTINGEN
+
+### ART. 29.
+
+§ 1. Vergunningsplichtig zijn:<br /><br />1° overbruggingen, onderdoorgangen en droogdokken;<br /><br />2° trappen, ook als ze in de oeverversterking zijn aangebracht;<br /><br />3° hefwerktuigen voor tewaterlating van pleziervaartuigen;<br /><br />4° langs- en dwarssporen;<br /><br />5° slipways en toegangsgeulen;<br /><br />6° steigers.<br /><br />§ 2. Voor collectieve ligplaatsen of jachthavens wordt een onderscheid gemaakt tussen kustjachthavens en binnenjachthavens.<br /><br />Voor kustjachthavens wordt de retributie berekend op basis van de totale vergunde oppervlakte, die zowel de natte als de droge infrastructuur behelst.<br /><br />Voor binnenjachthavens wordt de retributie berekend op basis van de nuttig ingenomen oppervlakten.<br /><br />De vergunninghouders zijn verplicht 10 % van de ligplaatsen te reserveren als passantenplaatsen. Voor de oppervlakte die door de passantenplaatsen wordt ingenomen, is geen retributie vereist.<br /><br />Voor overbruggingen, onderdoorgangen en droogdokken voor particulier gebruik worden de retributies berekend op basis van de ingenomen oppervlakte.<br /><br />Voor trappen wordt de retributie berekend per trap, behalve als de vergunninghouder een watersportvereniging is. In dat geval wordt de retributie berekend per honderd meter op basis van de vergunde afstand, ongeacht het aantal trappen in de oever.<br /><br />Voor hefwerktuigen voor tewaterlating van pleziervaartuigen is de retributie verschuldigd voor vaste hefwerktuigen en voor verplaatsbare hefwerktuigen. De vrije doorgang voor het toegelaten verkeer op het jaagpad en de dijk mag niet worden gehinderd of onderbroken.<br /><br />Voor langs- en dwarssporen wordt de retributie berekend per vierkante meter aangelegd spoor.<br /><br />Voor het bouwen en gebruiken van slipways en toegangsgeulen voor particulier gebruik wordt de retributie berekend op basis van de oppervlakte van de slipway en/of de toegangsgeul.<br /><br />Voor het bouwen en gebruiken van steigers wordt de retributie berekend op basis van de oppervlakte van de steiger en van de lengte van de oever die de aanmerende vaartuigen innemen.<br /><br />§ 3. De retributies zijn bepaald in tarief D2 van de bijlage, gevoegd bij dit besluit.
+
+## HOOFDSTUK VI VERSTERKTE OEVERS, KAAIMUREN, LAAD- EN- LOSPLAATSEN
+
+### ART. 30.
+
+§ 1. Het gebruik van een oever, kaaimuur of aanlegplaats met het oog op het laden, lossen, plaatsen van laad- en losinstallaties en het aanleggen van schepen is vergunningsplichtig.<br /><br />In afwijking van artikel 4, § 1, wordt de aanvraagtermijn beperkt tot drie werkdagen ingeval geladen of gelost wordt met mobiele installaties.<br /><br />De vergunninghouder kan aan derden toestemming geven voor het tijdelijke gebruik van de oever, vergunde kaaimuur of aanlegplaats. In periodes van niet-gebruik kan de domeinbeheerder hem daartoe verplichten.<br /><br />Bij het gebruik van vaste laad- of lostoestellen mag de vrije doorgang op het jaagpad en de dijk niet worden gehinderd.<br /><br />De vergunninghouder brengt op eigen kosten de reglementaire signalisatie aan en neemt de nodige maatregelen om te zorgen voor een veilige doorgang voor het scheepvaartverkeer, en voor het toegelaten verkeer op het jaagpad en de dijk.<br /><br />§ 2. De retributie wordt berekend op basis van de ingenomen wateroppervlakte en de ingenomen grondoppervlakte.<br /><br />De wateroppervlakte, ingenomen door de aanlegplaats, wordt berekend door de lengte van de ter beschikking gestelde kaaimuur of oever te vermenigvuldigen met de grootste breedte van het scheepstype dat aan die kaaimuur of aanlegplaats kan aanleggen.<br /><br />De grondinneming aan de landzijde van de kaaimuur of de oever wordt berekend door vermenigvuldiging van de lengte van de ingenomen oever met de breedte van het ingenomen domeingoed.<br /><br />§ 3. De retributies zijn bepaald in tarief E van de bijlage, gevoegd bij dit besluit.
+
+## HOOFDSTUK VII ANDERE INGEBRUIKNEMINGEN
+
+### ART. 31.
+
+§ 1. Vergunningsplichtig zijn:<br /><br />1° wijzigingen aan het domeingoed zoals aanvullingen, uitgravingen, inbuizingen, het overbruggen van grachten, het maken van onderdoorgangen, [...  <span class="reference">(geschr. B.V.R. 25 juni 2004, art. 8, I: 10 september 2004)</span> ] het verharden van bermen;<br /><br />2° de inname van het domeingoed door parkeerplaatsen;<br /><br />3° de inname van het domeingoed met bestendige constructies zoals:<br /><br />a) zendmasten voor telecommunicatie, transformator-huisjes;<br /><br />b) terrassen, telefooncellen, informatiezuilen, [straatmeubilair,  <span class="reference">(verv. B.V.R. 25 juni 2004, art. 8, I: 10 september 2004)</span> ] kiosken, aanwijzingsborden naar instellingen van privaat nut, door de overheid beschikbaar gestelde dragers voor-zien in artikel 25, § 2;<br /><br />4° de in tijd beperkte inname van het domeingoed door gemakkelijk wegneembare constructies - onder meer werfinstallaties - zoals asfalt-, beton- en breekinstallaties met inbegrip van stapelruimten, werfkranen, omheiningen, werfketen, tijdelijke terrassen, verkoopsstallen, containers, eigen dragers voor aankondigingen voorzien in artikel 25, § 2. Deze installaties zijn niet vergunningsplichtig als de domeinbeheerder de opdrachtgever is.<br /><br />[...  <span class="reference">(opgeh. B.V.R. 25 juni 2004, art. 8, I: 10 september 2004)</span> ]<br /><br />§ 2. Ongeacht de bevoegdheid terzake van plaatselijke overheden zijn de volgende activiteiten vergunningsplichtig zodra ze leiden tot exclusief gebruik of tot het geheel of gedeeltelijk afsluiten van wegen, waterwegen, dijken of jaagpaden en zeedijken:<br /><br />1° sportieve of sociaal-culturele activiteiten zoals loop-, zwem-, wielerwedstrijden, spelen, watersportwedstrijden, hengelwedstrijden;<br /><br />2° activiteiten met commerciële inslag, zoals avondmarkten, kermissen, spelen, optredens.<br /><br />§ 3. De retributies zijn bepaald in tarief F van de bijlage, gevoegd bij dit besluit.<br /><br />[...  <span class="reference">(opgeh. B.V.R. 25 juni 2004, art. 8, I: 10 september 2004)</span> ]<br /><br />Indien een vergunning wordt aangevraagd voor een aankondiging [van commerciële aard  <span class="reference">(ing. B.V.R. 25 juni 2004, art. 8, I: 10 september 2004)</span> ] op eigen dragers als bedoeld in artikel 25, § 2, eerste lid en 31, § 1, 3°, b), is de vaste retributie slechts eenmaal verschuldigd.
+
+## DEEL III SLOTBEPALINGEN
+
+### ART. 32.
+
+(niet opgenomen)<br /><br />(Heft de volgende regelingen op:<br /><br />1° het koninklijk besluit van 4 december 1933 tot regeling van het innen der rechten wegens gebruik van het openbaar domein voor elektrische leidingen, in zoverre het betrekking heeft op het domein van de wegen en hun aanhorigheden ressorterend onder het beheer van het Vlaamse Gewest, van de waterwegen en hun aanhorigheden, de zeewering en de dijken;<br /><br />2° het koninklijk besluit van 15 maart 1966 tot heffing van retributies voor de bezetting van het openbaar of privaat domein van de Staat, de provinciën of de gemeenten door installaties voor gasvervoer door middel van leidingen, in zoverre het betrekking heeft op het domein van de wegen en hun aanhorigheden ressorterend onder het beheer van het Vlaamse Gewest, van de waterwegen en hun aanhorigheden, de zeewering en de dijken;<br /><br />3° het koninklijk besluit van 26 november 1973 betreffende de wegvergunningen bedoeld bij de wet van 10 maart 1925 op de elektriciteitsvoorziening, in zoverre het betrekking heeft op het domein van de wegen en hun aanhorigheden ressorterend onder het beheer van het Vlaamse Gewest, van de waterwegen en hun aanhorigheden, de zeewering en de dijken;<br /><br />4° het koninklijk besluit van 26 november 1973 tot vaststelling van de door de Staat, de provinciën, de gemeenten, de verenigingen van gemeenten en de houders van een concessie van elektriciteitsvoorziening te volgen regelen voor het benutten van een weg die geen deel uitmaakt, naar gelang het geval, van hun eigen openbaar domein, van dat van de gemeenten aangesloten bij de vereniging van gemeenten, of dat van de concessieverlenende gemeente of van de ge-meenten aangesloten bij de concessieverlenende vereniging van gemeenten, in zoverre het betrekking heeft op het domein van de wegen en hun aanhorigheden ressorterend onder het beheer van het Vlaamse Gewest, van de waterwegen en hun aanhorigheden, de zeewering en de dijken;<br /><br />5° het besluit van de Vlaamse regering van 16 maart 1994 betreffende het toekennen van vergunningen, het vaststellen en innen van retributies voor het privatief gebruik van het domein van de waterwegen en hun aanhorigheden, de zeewering en de dijken)
+
+### ART. 33.
+
+Dit besluit treedt in werking op de 1e dag van de maand volgend op de dag waarop het in het Belgisch Staatsblad wordt bekendgemaakt.
+
+### ART. 34.
+
+De Vlaamse minister, bevoegd voor de openbare werken, is belast met de uitvoering van dit besluit.
+
+## Bijlage TARIEF VAN DE VARIABELE RETRIBUTIES
+
+### Tekst
+
+Tarief A: DWARSAFSLUITINGEN<br>
+<br>
+1. Dwarsafsluitingen: 12,5 euro/m/jaar<br>
+<br>
+2. Dwarsafsluitingen uitsluitend bestemd voor begrazing: 0,6 euro/m/jaar<br>
+<br>
+Tarief B: AANKONDIGINGEN EN PUBLICITEIT<br>
+<br>
+Publiciteit van commerciële aard:<br>
+<br>
+a) op installaties van openbaar nut: [25 euro/m2/jaar (verv. B.V.R. 25 juni 2004, art. 9, I: 10 september 2004) ]<br>
+<br>
+b) op door de vergunninghouder geplaatste constructies: 250 euro/m2/jaar<br>
+<br>
+Tarief C: LEIDINGEN, NETWERKEN EN LOKALE INSTALLATIES<br>
+<br>
+[ ... (geschr. B.V.R. 25 juni 2004, art. 9, I: 10 september 2004) ]<br>
+<br>
+Vervoerleidingen, [mantelbuizen, wachtbuizen (ing. B.V.R. 25 juni 2004, art. 9, I: 10 september 2004) ] en afvoerleidingen: 5 euro/m3 ingenomen ruimte met een minimum van 0,05 euro per lopende meter.<br>
+<br>
+Lokale installaties: 2,5 euro/m2 met een minimum van 2,5 euro/lokale installatie.<br>
+<br>
+Bovengrondse leidingen op dezelfe steun aangebracht: 0,5 euro/m per leiding.<br>
+<br>
+Tarief D: INRICHTINGEN IN DE VAARWEG EN ZIJN AANHORIGHEDEN<br>
+<br>
+D1. Drijvende inrichtingen<br>
+<br>
+a) Niet voor goederentransport aangewende vaartuigen: 2,5 euro/m2/jaar<br>
+<br>
+b) Magazijnschepen, ponten, baggerschepen, schuiten en<br>
+<br>
+vaartuigen voor toeristische rondvaarten: 2,5 euro/m2/jaar<br>
+<br>
+c) Horecavaartuigen: 12,5 euro/m2/jaar<br>
+<br>
+D2. Vaste inrichtingen<br>
+<br>
+1. Collectieve ligplaatsen:<br>
+<br>
+a) Kustjachthavens: 2,5 euro/m2/jaar<br>
+<br>
+b) Binnenjachthavens:<br>
+<br>
+1) verticale oevers, kaaimuren en steigers gebouwd door de overheid: 1,25 euro/m2/jaar<br>
+<br>
+2) steigers van de vergunninghouder: 0,6 euro/m2/jaar<br>
+<br>
+3) wateroppervlakte langs de langssteigers over drie meter en tussen de vingersteigers: 0,25 euro/m2/jaar<br>
+<br>
+2. Overbruggingen, onderdoorgangen, droogdokken voor particulier gebruik: 1,25 euro/m2/jaar<br>
+<br>
+3. Trappen: 37 euro/100 m of per trap<br>
+<br>
+4. Hefwerktuigen voor de tewaterlating van pleziervaartuigen: 75 euro/jaar<br>
+<br>
+5. Langs- en dwarssporen: 0,6 euro/m2/jaar<br>
+<br>
+6. Slipways, toegangsgeulen: 0,6 euro/m2/jaar<br>
+<br>
+7. Steigers voor particulier gebruik:<br>
+<br>
+a) oppervlakte steiger: 2,5 euro/m2/jaar<br>
+<br>
+b) ingenomen lengte aan de oever: 3,7 euro/m/jaar<br>
+<br>
+Tarief E: VERSTERKTE OEVERS, KAAIMUREN, LAAD- EN LOSLAATSEN<br>
+<br>
+Oevers, kaaimuren of aanlegplaatsen:<br>
+<br>
+1. Wateroppervlakte ingenomen door de aanlegplaats: 0,75 euro/m2/jaar<br>
+<br>
+2. Met infrastructuur gebouwd door de vergunninghouder: 0,25 euro/m2/jaar<br>
+<br>
+3. Grondinneming: 0,75 euro/m2/jaar<br>
+<br>
+Tarief F: ANDERE INGEBRUIKNEMINGEN<br>
+<br>
+1.a) wijzigingen aan het domeingoed: 1,25 euro/m2/jaar<br>
+<br>
+b) inname van het domeingoed met bestendige constructies: 5 euro/m2/jaar<br>
+<br>
+behalve:<br>
+<br>
+1) [... (<em><a href="http://www.raadvst-consetat.be/Arresten/203000/300/203302.pdf#xml=http://www.raadvst-consetat.be/apps/dtsearch/getpdf.asp?DocId=23054&amp;Index=c%3a%5csoftware%5cdtsearch%5cindex%5carrets%5fnl%5c&amp;HitCount=6&amp;hits=348d+350d+350e+350f+3510+3511+&amp;45419222020810">vernietigd RvSt, arrest nr. 203.302 van 27 april 2010</a>)]</em><br>
+<br>
+2) transformatorhuisjes: 62 euro/m2/jaar<br>
+<br>
+3) telefooncellen (minimum 1 m2 bezetting): 62 euro/jaar<br>
+<br>
+4) parkeerterrein: 1,25 euro/m2/jaar<br>
+<br>
+5) terrassen langs zeedijk: 12,5 euro/m2/jaar<br>
+<br>
+6) aanwijzingsborden naar instellingen van privaat nut: 62 euro/bord/jaar<br>
+<br>
+c) in tijd beperkte inname van het domeingoed: 2,5 euro/m2/maand<br>
+<br>
+behalve:<br>
+<br>
+eigen dragers voor aankondigingen: 62 euro/activiteit<br>
+<br>
+2. [ ... (geschr. B.V.R. 25 juni 2004, art. 8, I: 10 september 2004) ]<br>
+<br>
+3. activiteiten met commerciële inslag:<br>
+<br>
+1) op zeedijken en stranden: 250 euro/activiteit/dag<br>
+<br>
+2) [ ... (geschr. B.V.R. 25 juni 2004, art. 8, I: 10 september 2004) ]
