@@ -1,0 +1,17 @@
+{
+  "codex_id": 1001680,
+  "title": "Besluit van de Vlaamse Regering van 1992-09-16 houdende vaststelling van het statuut van de waarnemer van de Vlaamse regering overeenkomstig de bijakte nr.2 d.d. 6 januari 1992 aan de oorspronkelijke huurovereenkomst tussen AG en de Vlaamse Gemeenschap d.d. 23 december 1985 inzake het Vlaams Europees Conferentiecentrum, gesitueerd in het Vlaams Administratief Centrum in de Markiesstraat 1 te Brussel",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1001680/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "b74a70dd9c82d47cc1a65c9b55ff32a98880e55392bc960371e27eb4d8e1e5be",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1001680&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "1992-09-16",
+  "gazette": "1992-11-27",
+  "numac": 1992036210,
+  "document_start": null,
+  "document_end": null,
+  "in_force": "2006-06-01",
+  "article_versions": 8,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
