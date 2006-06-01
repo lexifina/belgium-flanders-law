@@ -1,0 +1,17 @@
+{
+  "codex_id": 1006648,
+  "title": "Ministerieel besluit van 1999-03-17 houdende de vaststelling van de evaluatiecriteria met betrekking tot de programmatie van de centra voor kortverblijf",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1006648/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "cb661f1119934d46542b5ed714283ca6e9b31d5886af8d90f2060b8e2c8797df",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1006648&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "1999-03-17",
+  "gazette": "1999-05-15",
+  "numac": 1999035376,
+  "document_start": "1999-01-01",
+  "document_end": "2006-03-31",
+  "in_force": "2006-06-01",
+  "article_versions": 12,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
