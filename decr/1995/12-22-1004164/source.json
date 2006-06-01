@@ -1,0 +1,17 @@
+{
+  "codex_id": 1004164,
+  "title": "Decreet van 1995-12-22 tot wijziging van sommige bepalingen van Titel I en Titel II van de decreten betreffende de radio-omroep en de televisie, gecoördineerd op 25 januari 1995",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1004164/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "fc2cce9ae95b37f94871af5b1d2911f7dc93d3fd2eb03d61e9195b8604d604f9",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1004164&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "1995-12-22",
+  "gazette": "1996-01-12",
+  "numac": 1996035011,
+  "document_start": null,
+  "document_end": null,
+  "in_force": "2006-06-01",
+  "article_versions": 14,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
