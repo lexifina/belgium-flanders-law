@@ -1,0 +1,17 @@
+{
+  "codex_id": 1002469,
+  "title": "Besluit van de Vlaamse Regering van 1991-07-24 tot vaststelling van de presentiegelden en vergoedingen van de voorzitter en de leden van de Raad van Bestuur, van de gemachtigde van financiën en van de commissaris van de Vlaamse regering van de Vlaamse Instelling voor Technologisch Onderzoek",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1002469/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "15c640c67fa30a96c852fd0b52a4d5862a4529285631c829bc934bdbc26bdf93",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1002469&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "1991-07-24",
+  "gazette": "1991-10-22",
+  "numac": 1991036313,
+  "document_start": "1991-07-24",
+  "document_end": null,
+  "in_force": "2006-06-01",
+  "article_versions": 7,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
