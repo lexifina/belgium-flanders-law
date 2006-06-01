@@ -1,0 +1,17 @@
+{
+  "codex_id": 1013115,
+  "title": "Besluit van de Vlaamse Regering van 2004-03-12 betreffende de richtlijnen voor maatschappelijke oriëntatie en trajectbegeleiding in het kader van het Vlaamse inburgeringsbeleid",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1013115/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "1791b143853b5747d78a66d19ad2c4e09ed3015b2e943c378e2b5fa5ed83f99b",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1013115&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "2004-03-12",
+  "gazette": "2004-06-14",
+  "numac": 2004035897,
+  "document_start": "2004-04-01",
+  "document_end": "2006-12-31",
+  "in_force": "2006-06-01",
+  "article_versions": 13,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
