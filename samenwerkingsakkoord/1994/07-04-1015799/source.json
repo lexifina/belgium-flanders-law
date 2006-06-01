@@ -1,0 +1,17 @@
+{
+  "codex_id": 1015799,
+  "title": "Samenwerkingsakkoord van 1994-07-04 tussen het vlaamse gewest, het waalse gewest en het brussels hoofdstedelijk gewest betreffende de uitwisseling van informatie over projecten met gewest-grensoverschrijdende milieu-effecten",
+  "type": "Samenwerkingsakkoord",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1015799/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "61099fdf75fca6f04e4b14f471a26ba610118c87f9544d118ec37c1931be44fb",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1015799&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "1994-07-04",
+  "gazette": "1994-08-11",
+  "numac": 1994031323,
+  "document_start": "1994-09-04",
+  "document_end": null,
+  "in_force": "2006-06-01",
+  "article_versions": 8,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
