@@ -1,0 +1,17 @@
+{
+  "codex_id": 1001790,
+  "title": "Besluit van de Vlaamse Regering van 1988-09-07 houdende instelling en samenstelling van een Raad van beroep en van een Raad van beroep voor leidende ambtenaren voor sommige instellingen van openbaar nut, die onder het gezag of de controlebevoegdheid staan van de Vlaamse regering",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1001790/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "fdfac987978f792617fad32bfd11042a4101e0d48874ebdbe8b851bcacaa74d5",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1001790&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "1988-09-07",
+  "gazette": "1988-10-19",
+  "numac": 1988029809,
+  "document_start": null,
+  "document_end": null,
+  "in_force": "2006-06-01",
+  "article_versions": 8,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
