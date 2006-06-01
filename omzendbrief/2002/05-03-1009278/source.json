@@ -1,0 +1,17 @@
+{
+  "codex_id": 1009278,
+  "title": "Omzendbrief van 2002-05-03 LNW 2002/1 betreffende het besluit van de Vlaamse regering van 29 maart 2002 en het ministerieel besluit van 3 mei 2002 betreffende de subsidiëring van bepaalde werken, leveringen en diensten die in het Vlaamse Gewest door of op initiatief van lagere besturen of ermee gelijkgestelde rechtspersonen worden uitgevoerd",
+  "type": "Omzendbrief",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1009278/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "9c318c8205c20ba92bf44adf13a030b72382251d1c09b7af428896d0fef0acd9",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1009278&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "2002-05-03",
+  "gazette": "2002-07-18",
+  "numac": 2002035833,
+  "document_start": null,
+  "document_end": null,
+  "in_force": "2006-06-01",
+  "article_versions": 1,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
