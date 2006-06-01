@@ -1,0 +1,17 @@
+{
+  "codex_id": 1008640,
+  "title": "Besluit van de Vlaamse Regering van 2001-11-23 tot invoering van de euro in de regelgeving betreffende de sociale integratie van personen met een handicap",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1008640/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "031368d7c01acb50599898949c64e9076a846db9f8c34ab31ee1a76cb41172ca",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1008640&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "2001-11-23",
+  "gazette": "2002-01-31",
+  "numac": 2002035028,
+  "document_start": "2002-01-01",
+  "document_end": null,
+  "in_force": "2006-06-01",
+  "article_versions": 18,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
