@@ -1,0 +1,17 @@
+{
+  "codex_id": 1007342,
+  "title": "Ministerieel besluit van 2000-05-15 inzake de kwaliteitszorg in de centra voor ontwikkelingsstoornissen",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1007342/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "8fd6a8306d99120eb8ba33751aa47c7841c6fe46d4a1cee88cc4233b50f2c33a",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1007342&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "2000-05-15",
+  "gazette": "2000-06-23",
+  "numac": 2000035583,
+  "document_start": null,
+  "document_end": null,
+  "in_force": "2006-06-01",
+  "article_versions": 7,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
