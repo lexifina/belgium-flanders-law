@@ -1,0 +1,17 @@
+{
+  "codex_id": 1013948,
+  "title": "Ministerieel besluit van 2005-08-03 houdende de goedkeuring van het huishoudelijk reglement van het erkenningscomité met betrekking tot de erkenning van kopers en exploitanten",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1013948/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "f9178306a7166e6fbee2986e24248457db052535fc315f30f1eb305031b238c5",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1013948&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "2005-08-03",
+  "gazette": "2005-08-31",
+  "numac": 2005036033,
+  "document_start": null,
+  "document_end": null,
+  "in_force": "2006-06-01",
+  "article_versions": 18,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
