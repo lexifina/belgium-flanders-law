@@ -1,0 +1,17 @@
+{
+  "codex_id": 1007627,
+  "title": "Besluit van de Vlaamse Regering van 1982-01-28 houdende organisatie van de delegatie van bevoegdheden aan de leden van de Vlaamse regering",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1007627/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "e789458a9a83794f63c4142adfcc0819e5c562bbbec114550fa069a270774fb4",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1007627&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "1982-01-28",
+  "gazette": "1982-02-12",
+  "numac": 1982000193,
+  "document_start": "1982-02-12",
+  "document_end": "1985-12-11",
+  "in_force": "2006-06-01",
+  "article_versions": 9,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
