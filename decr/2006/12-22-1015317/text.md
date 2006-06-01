@@ -204,6 +204,18 @@ In het decreet van 12 juni 1991 betreffende de universiteiten in de Vlaamse Geme
 
 ## Afdeling VI Toegepast biomedisch onderzoek
 
+### ART. 72.
+
+Aan artikel 1 van het decreet van 7 mei 2004 tot oprichting van het intern verzelfstandigd agentschap met rechtspersoonlijkheid « Instituut voor Innovatie door Wetenschap en Technologie » wordt een tweede lid toegevoegd, dat luidt als volgt :<br />« Artikel 5bis regelt een gemeenschapsaangelegenheid. ».<br /><br />
+
+### ART. 73.
+
+Aan hoofdstuk III van hetzelfde decreet wordt een artikel 5bis toegevoegd, dat luidt als volgt :<br />« Art. 5bis. § 1. De Vlaamse Regering verleent binnen de beschikbare begrotingskredieten projectsubsidies voor toegepast biomedisch onderzoek met een primair maatschappelijke finaliteit, zijnde onderzoek dat voldoet aan volgende kenmerken :<br />1° er is een sterke focus op het verwerven van inzicht in de basis van ziekte en gezondheid van de mens;<br />2° wetenschappelijke bevindingen worden uitgewerkt en vertaald naar klinische toepassingen;<br />3° er is een maatschappelijke toepasbaarheid waarvoor op het ogenblik van indiening de industriële interesse beperkt is.<br />Projectvoorstellen kunnen worden ingediend door een Vlaams universitair ziekenhuis, een Vlaams ziekenhuis of een consortium dat ten minste een Vlaams universitair ziekenhuis of een Vlaams ziekenhuis omvat.<br />§ 2. Het IWT wordt benevens de generieke missie en taken, als vermeld in artikelen 4 en 5, belast met het nemen van beslissingen tot ondersteuning van de in § 1 bedoelde projectvoorstellen, op grond van een advies van een expertencollege. De beoordeling van de projectvoorstellen betreft zowel de wetenschappelijke kwaliteit als de maatschappelijke utilisatieperspectieven van het projectvoorstel.<br />§ 3. De Vlaamse Regering stelt nadere regelen vast betreffende :<br />1° de procedurele, formele en materiële voorwaarden voor het verkrijgen van de projectfinanciering;<br />2° de subsidiabele kosten;<br />3° het steunpercentage;<br />4° het beslissingsproces en de beslissingscriteria aangaande de projectvoorstellen;<br />5° de bewaking van de doelstellingen van het financieringskanaal. ».<br /><br />
+
+### ART. 74.
+
+Aan artikel 14 van hetzelfde decreet wordt een tweede lid toegevoegd, dat luidt als volgt :<br />« Artikel 5bis treedt in werking op 1 juni 2006, met dien verstande dat, voor de toepassing van die bepaling, in de periode tussen 1 juni 2006 en de globale inwerkingtredingsdatum van dit decreet onder IWT moet worden verstaan : het Instituut voor de aanmoediging van innovatie door wetenschap en technologie in Vlaanderen. ».
+
 ## Afdeling VII Herculesstichting
 
 ## HOOFDSTUK XXI Schenking meubilair aan onderwijsnetten
