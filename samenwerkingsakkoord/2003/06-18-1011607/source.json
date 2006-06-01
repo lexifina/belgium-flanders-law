@@ -1,0 +1,17 @@
+{
+  "codex_id": 1011607,
+  "title": "Samenwerkingsakkoord van 2003-06-18 tussen de Federale Staat, het Vlaamse Gewest, het Waalse Gewest en het Brussels Hoofdstedelijk Gewest met betrekking tot de uitoefening van de geregionaliseerde bevoegdheden op het gebied van Landbouw en Visserij",
+  "type": "Samenwerkingsakkoord",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1011607/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "587ffce8d4240871f739a4b721407a20eeb59e577b23bbc64bb6a8831680366e",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1011607&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "2003-06-18",
+  "gazette": "2003-09-01",
+  "numac": 0,
+  "document_start": null,
+  "document_end": null,
+  "in_force": "2006-06-01",
+  "article_versions": 46,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
