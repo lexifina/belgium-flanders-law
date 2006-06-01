@@ -1,0 +1,17 @@
+{
+  "codex_id": 1021373,
+  "title": "Protocol van 2004-05-24 gesloten tussen de Federale Overheid en de Overheden bedoeld in artikel 128, 130 en 135 van de Grondwet, betreffende het gezondheidsbeleid t.a.v. patiënten in een persisterende vegetatieve status",
+  "type": "Protocol",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1021373/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "729c00c81329ea1b9c9924383f449c9ed96c0f8d362d5f47b3f7a7a679be6e32",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1021373&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "2004-05-24",
+  "gazette": "2004-09-27",
+  "numac": 2004022535,
+  "document_start": null,
+  "document_end": null,
+  "in_force": "2006-06-01",
+  "article_versions": 17,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
