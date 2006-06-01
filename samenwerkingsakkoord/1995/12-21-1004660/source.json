@@ -1,0 +1,17 @@
+{
+  "codex_id": 1004660,
+  "title": "Samenwerkingsakkoord van 1995-12-21 tussen de Belgische Staat, het Vlaamse Gewest, het Waalse Gewest en het Brussels Hoofdstedelijk Gewest betreffende de structurering van de gegevens inzake Leefmilieu bestemd voor het Europees Milieuagentschap",
+  "type": "Samenwerkingsakkoord",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1004660/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "43be38b8fb99e2d2002af9529e21cfae47966ac8e814ede9660ba6f2832c8033",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1004660&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "1995-12-21",
+  "gazette": "1996-06-14",
+  "numac": 0,
+  "document_start": "1995-12-21",
+  "document_end": null,
+  "in_force": "2006-06-01",
+  "article_versions": 8,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
