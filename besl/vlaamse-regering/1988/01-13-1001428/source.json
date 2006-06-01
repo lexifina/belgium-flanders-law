@@ -1,0 +1,17 @@
+{
+  "codex_id": 1001428,
+  "title": "Besluit van de Vlaamse Regering van 1988-01-13 tot vaststelling van de voorwaarden om als persoon met bescheiden inkomsten te worden beschouwd voor het bouwen of kopen van een kleine landeigendom",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1001428/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "2b0e9e2c7b232148aee0a98166393cbb72cb2b1683dd0bf02f61933090282925",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1001428&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "1988-01-13",
+  "gazette": "1988-02-23",
+  "numac": 1988029173,
+  "document_start": null,
+  "document_end": null,
+  "in_force": "2006-06-01",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
