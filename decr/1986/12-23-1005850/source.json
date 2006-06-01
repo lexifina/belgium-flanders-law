@@ -1,0 +1,17 @@
+{
+  "codex_id": 1005850,
+  "title": "Decreet van 1986-12-23 houdende het invoeren van een eenvormige medische urgentiekaart",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1005850/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "91794fb27a982e43a4335e91ebede9d6641ac7807f8c2734425cac10ca275b2f",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1005850&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "1986-12-23",
+  "gazette": "1987-02-19",
+  "numac": 1987029084,
+  "document_start": null,
+  "document_end": null,
+  "in_force": "2006-06-01",
+  "article_versions": 5,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
