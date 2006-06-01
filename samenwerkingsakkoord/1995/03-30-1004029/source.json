@@ -1,0 +1,17 @@
+{
+  "codex_id": 1004029,
+  "title": "Samenwerkingsakkoord van 1995-03-30 tussen de Federale Staat, het Vlaamse Gewest, het Waalse Gewest en het Brussels Hoofdstedelijk Gewest betreffende de uitvoering van de Verordening 1836/93/EEG van de Raad van 29 juni 1993 inzake de vrijwillige deelneming van bedrijven uit de industriële sector aan een communautair milieubeheer- en Milieu-auditsysteem",
+  "type": "Samenwerkingsakkoord",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1004029/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "30f90611a40cdf8c20c81e25cc34086c11799c7a1e3f59830e7c51959489dc2e",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1004029&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "1995-03-30",
+  "gazette": "1995-10-03",
+  "numac": 0,
+  "document_start": "1995-10-03",
+  "document_end": "2099-12-31",
+  "in_force": "2006-06-01",
+  "article_versions": 11,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
