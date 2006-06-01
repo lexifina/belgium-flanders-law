@@ -1,0 +1,17 @@
+{
+  "codex_id": 1006102,
+  "title": "Decreet van 1998-03-17 houdende diverse beleidsbepalingen",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1006102/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "a357bc3d7ee9d459cfa4e39f745b80577f2b7e4ee727fc5b97db26655d1b2ecc",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1006102&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "1998-03-17",
+  "gazette": "1998-04-17",
+  "numac": 1998035402,
+  "document_start": null,
+  "document_end": null,
+  "in_force": "2006-06-01",
+  "article_versions": 18,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
