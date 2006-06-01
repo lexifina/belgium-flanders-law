@@ -1,0 +1,17 @@
+{
+  "codex_id": 1005341,
+  "title": "Besluit van de Vlaamse Regering van 1997-02-04 houdende erkenning tot Vlaams Promotiecentrum voor Agro- en Visserijmarketing",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1005341/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "ce4378f0854c7e91e2996eb8a51747c2f7d3e884bfb9ac37c03b9eb1f1b14c1a",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1005341&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "1997-02-04",
+  "gazette": "1997-03-20",
+  "numac": 1997035359,
+  "document_start": "1997-01-01",
+  "document_end": null,
+  "in_force": "2006-06-01",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
