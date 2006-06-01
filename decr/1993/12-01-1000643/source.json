@@ -1,0 +1,17 @@
+{
+  "codex_id": 1000643,
+  "title": "Decreet van 1993-12-01 houdende de erkenning en de subsidiëring van de Stichting voor de Vlaamse Schoolsport",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1000643/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "18b0566e4c1a46e10a4b03fe3a334b9f17d6739e36b36d842d5461c88115d5bf",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1000643&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "1993-12-01",
+  "gazette": "1994-01-22",
+  "numac": 1994036563,
+  "document_start": "1994-01-01",
+  "document_end": "2008-12-31",
+  "in_force": "2006-06-01",
+  "article_versions": 8,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
