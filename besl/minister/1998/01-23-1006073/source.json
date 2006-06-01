@@ -1,0 +1,17 @@
+{
+  "codex_id": 1006073,
+  "title": "Ministerieel besluit van 1998-01-23 houdende uitvoering van artikel 18, §4 van het decreet van 19 april 1995 tot regeling van de arbeidsbemiddeling tegen betaling in het Vlaamse Gewest",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1006073/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "ed1b1619ad276324a1fa8f4dfbb1992b29ee9cd0dd59b351ec796f320fa19120",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1006073&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "1998-01-23",
+  "gazette": "1998-03-21",
+  "numac": 1998035313,
+  "document_start": null,
+  "document_end": null,
+  "in_force": "2006-06-01",
+  "article_versions": 2,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
