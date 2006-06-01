@@ -1,0 +1,17 @@
+{
+  "codex_id": 1004425,
+  "title": "Besluit van de Vlaamse Regering van 1988-12-14 houdende vaststelling van maatregelen ter voorkoming en bestrijding van verontreiniging van de lucht door asbest",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1004425/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "47fefce0ab664b22839c2ef14e521e8e0610cb12035eeaabd991675fbb4d0300",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1004425&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "1988-12-14",
+  "gazette": "1989-05-13",
+  "numac": 1989029312,
+  "document_start": "1989-05-13",
+  "document_end": null,
+  "in_force": "2006-06-01",
+  "article_versions": 11,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
