@@ -1,0 +1,17 @@
+{
+  "codex_id": 1001151,
+  "title": "Besluit van de Vlaamse Regering van 1993-04-01 betreffende de functies van algemeen secretaris bij de centrale raad en van een secretaris bij het dagelijks bestuur van de Autonome Raad voor het Gemeenschapsonderwijs, evenals houdende machtiging aan de Centrale Raad om tijdelijk bij arbeidsovereenkomst een bestuursdirecteur in dienst te nemen",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1001151/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "e3d9c3c5a958a8cf6c8edd57780133f3cde131730906bda2c07d6615ef4fa2d1",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1001151&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "1993-04-01",
+  "gazette": "1993-07-09",
+  "numac": 1993035773,
+  "document_start": "1993-04-01",
+  "document_end": null,
+  "in_force": "2006-06-01",
+  "article_versions": 7,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
