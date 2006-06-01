@@ -1,0 +1,17 @@
+{
+  "codex_id": 1000171,
+  "title": "Besluit van de Vlaamse Regering van 1992-10-20 tot bepaling van de bevoegdheden van de leden van de Vlaamse regering",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1000171/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "5c6bf92739a5d83f2a4c70f93fc46640c7bc68a902cccb501373acd3e6c6b0d3",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1000171&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "1992-10-20",
+  "gazette": "1992-10-28",
+  "numac": 1992036130,
+  "document_start": "1992-10-20",
+  "document_end": "1995-06-19",
+  "in_force": "2006-06-01",
+  "article_versions": 17,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
