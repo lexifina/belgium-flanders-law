@@ -1,0 +1,17 @@
+{
+  "codex_id": 1015297,
+  "title": "Samenwerkingsakkoord van 1997-06-02 tussen het Waalse Gewest en het Vlaamse Gewest inzake de grondwaterlaag in de kolenkalk in het gebied van Doornik",
+  "type": "Samenwerkingsakkoord",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1015297/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "0166467d5aa4aeabf577985234cbfc1900ae8742b0071df5bc93e3f8e91a3835",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1015297&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "1997-06-02",
+  "gazette": "1997-12-17",
+  "numac": 0,
+  "document_start": "1997-12-17",
+  "document_end": "2022-12-16",
+  "in_force": "2006-06-01",
+  "article_versions": 8,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
