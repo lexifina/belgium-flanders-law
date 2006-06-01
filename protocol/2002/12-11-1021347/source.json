@@ -1,0 +1,17 @@
+{
+  "codex_id": 1021347,
+  "title": "Protocol van 2002-12-11 gesloten tussen de Federale Overheid en de Overheden bedoeld in artikel 128, 130 en 135 van de Grondwet betreffende de preventie van, en in het bijzonder de vaccinatie tegen infecties door meningkokken van groep C",
+  "type": "Protocol",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1021347/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "55dc13ebe724044a8ab7606f2718e2e088c3310fae63f0b36bffe0739e2a60a4",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1021347&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "2002-12-11",
+  "gazette": "2003-03-11",
+  "numac": 2003022118,
+  "document_start": "2003-01-01",
+  "document_end": "2003-12-31",
+  "in_force": "2006-06-01",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
