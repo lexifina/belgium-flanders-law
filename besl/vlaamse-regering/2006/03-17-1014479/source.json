@@ -1,0 +1,17 @@
+{
+  "codex_id": 1014479,
+  "title": "Besluit van de Vlaamse Regering van 2006-03-17 tot erkenning van de Provinciale Ontwikkelingsmaatschappij West-Vlaanderen als erkende provinciale ontwikkelingsmaatschappij",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1014479/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "707188532961c75f3515bcc041b3f0c03d74e2ae99e75f02455d778a3dc5a727",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1014479&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "2006-03-17",
+  "gazette": "2006-05-05",
+  "numac": 2006035666,
+  "document_start": "2006-05-15",
+  "document_end": null,
+  "in_force": "2006-06-01",
+  "article_versions": 2,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
