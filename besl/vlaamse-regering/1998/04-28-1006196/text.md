@@ -1,0 +1,9 @@
+# Besluit van de Vlaamse Regering van 1998-04-28 betreffende de terugvordering van expansiesteun toegekend door de wet van 30 december 1970 betreffende de economische expansie
+
+### ART. 1.
+
+Ter uitvoering van artikel 38 van de wet van 30 december 1970 wordt er een bijkomend geval van terugvordering voorzien:<br /><br />In geval van het niet naleven van de informatie- en raadplegingsprocedures bij collectief ontslag, kan de Vlaamse regering de steun die is toegekend terugvorderen. Deze tekortkoming moet zich hebben voorgedaan binnen een periode van 5 jaar die ingaat op de datum van de registratie van het dossier.<br /><br />Onder informatie- en raadplegingsprocedures wordt verstaan: de procedures bedoeld in de artikelen 3, 7 en 11 van CAO nummer 9 van 9 maart 1972 houdende ordening van de in de Nationale Arbeidsraad gesloten nationale akkoorden en collectieve arbeidsovereenkomsten betreffende de ondernemingsraden, algemeen verbindend verklaard bij koninklijk besluit van 12 september 1972, artikel 6 van CAO nummer 24 van 2 oktober 1975 betreffende de procedure van inlichting en raadpleging van de werknemersvertegenwoordiging met betrekking tot het collectief ontslag, algemeen verbindend verklaard bij koninklijk besluit van 21 januari 1976, de artikelen 6 tot 8 van het koninklijk besluit van 24 mei 1976 betreffende het collectief ontslag, de artikelen 4 en 37 van CAO nummer 62 van 6 februari 1996 betreffende de instelling van een Europese Ondernemingsraad of van een procedure in ondernemingen of concerns met een communautaire dimensie ter informatie en raadpleging van de werknemers, algemeen verbindend verklaard bij koninklijk besluit van 22 maart 1996 en artikel 66 van de wet van 13 februari 1998 houdende bepalingen tot bevordering van de tewerkstelling.
+
+### ART. 2.
+
+De Vlaamse minister, bevoegd voor het economisch beleid, is belast met de uitvoering van dit besluit.

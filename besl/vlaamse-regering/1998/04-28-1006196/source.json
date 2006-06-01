@@ -1,0 +1,17 @@
+{
+  "codex_id": 1006196,
+  "title": "Besluit van de Vlaamse Regering van 1998-04-28 betreffende de terugvordering van expansiesteun toegekend door de wet van 30 december 1970 betreffende de economische expansie",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1006196/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "e2f5aa6e5e8a6fdd022b30139eea06fdcb28a8ab491eda4cc3a98249f131b16b",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1006196&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "1998-04-28",
+  "gazette": "1998-06-26",
+  "numac": 1998035632,
+  "document_start": null,
+  "document_end": null,
+  "in_force": "2006-06-01",
+  "article_versions": 2,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
