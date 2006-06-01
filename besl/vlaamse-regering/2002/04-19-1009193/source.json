@@ -1,0 +1,17 @@
+{
+  "codex_id": 1009193,
+  "title": "Besluit van de Vlaamse Regering van 2002-04-19 tot vaststelling van de totale investeringssubsidie en de bouwtechnische normen voor de voorzieningen van de bijzondere jeugdbijstand",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1009193/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "092b9f9f63377d507c587c3780b33090ecffadb238fa7b1236ecd3b9ae22a466",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1009193&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "2002-04-19",
+  "gazette": "2002-06-07",
+  "numac": 2002035718,
+  "document_start": "2002-01-01",
+  "document_end": "2010-08-05",
+  "in_force": "2006-06-01",
+  "article_versions": 16,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
