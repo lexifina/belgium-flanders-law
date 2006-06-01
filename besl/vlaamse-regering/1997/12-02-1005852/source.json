@@ -1,0 +1,17 @@
+{
+  "codex_id": 1005852,
+  "title": "Besluit van de Vlaamse Regering van 1997-12-02 houdende het algemeen reglement van het Fonds Vlaanderen-Azië",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1005852/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "ad97cde687da5b304f2914f3b687ad2a1fd07e70495382c1383fe3c78a491e2b",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1005852&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "1997-12-02",
+  "gazette": "1997-12-13",
+  "numac": 1997036474,
+  "document_start": "1997-12-02",
+  "document_end": null,
+  "in_force": "2006-06-01",
+  "article_versions": 31,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
