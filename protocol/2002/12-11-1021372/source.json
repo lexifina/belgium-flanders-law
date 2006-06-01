@@ -1,0 +1,17 @@
+{
+  "codex_id": 1021372,
+  "title": "Protocol van 2002-12-11 tussen de Federale Regering en de in artikel 128, 130 en 135 van de Grondwet bedoelde overheden inzake de organisatie en financiering van een gezondheidsenquete",
+  "type": "Protocol",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1021372/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "969d4e9b00de66239e87048d800924b5cc442a6ef8aab899fdc05b9a99d781f4",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1021372&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "2002-12-11",
+  "gazette": "2003-04-02",
+  "numac": 2003022117,
+  "document_start": null,
+  "document_end": null,
+  "in_force": "2006-06-01",
+  "article_versions": 37,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
