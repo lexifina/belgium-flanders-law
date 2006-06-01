@@ -1,0 +1,17 @@
+{
+  "codex_id": 1007626,
+  "title": "Besluit van de Vlaamse Regering van 1982-01-18 houdende bepaling van de bevoegdheden van de leden van de Vlaamse regering",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1007626/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "4a1b3164b71ed26c3533f8e67eb3106a1274d807cf5048f5ce603451358c8fe1",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1007626&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "1982-01-18",
+  "gazette": "1982-02-05",
+  "numac": 1982000148,
+  "document_start": "1981-12-22",
+  "document_end": "1985-12-10",
+  "in_force": "2006-06-01",
+  "article_versions": 16,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
