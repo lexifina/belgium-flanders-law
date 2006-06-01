@@ -1,0 +1,17 @@
+{
+  "codex_id": 1001647,
+  "title": "Besluit van de Vlaamse Regering van 1992-10-14 tot vaststelling van de gewaarborgde bezoldiging en van de haard- en standplaatstoelage in de diensten van de Vlaamse regering",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1001647/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "a9cc5ad792fc973abcfad4559ea87de9db05409c103ef97ea50d05fbee2030bd",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1001647&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "1992-10-14",
+  "gazette": "1992-12-16",
+  "numac": 1992036220,
+  "document_start": "1992-01-01",
+  "document_end": null,
+  "in_force": "2006-06-01",
+  "article_versions": 16,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
