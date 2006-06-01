@@ -1,0 +1,17 @@
+{
+  "codex_id": 1014062,
+  "title": "Omzendbrief van 2005-09-23 LNW 2005/01 met betrekking tot verwerking van bedrijfafvalwater via de openbare zuiveringsinfrastructuur",
+  "type": "Omzendbrief",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1014062/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "52f6123117a4c942492b3ffafd762ad5f9f5a3d4671e5dd7aa1e6d4cdd02982e",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1014062&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "2005-09-23",
+  "gazette": "2005-11-14",
+  "numac": 2005036366,
+  "document_start": null,
+  "document_end": "2014-04-18",
+  "in_force": "2006-06-01",
+  "article_versions": 1,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
