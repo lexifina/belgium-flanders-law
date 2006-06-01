@@ -1,0 +1,17 @@
+{
+  "codex_id": 1000001,
+  "title": "Decreet van 1994-05-18 houdende regeling van het taalgebruik bij de verkiezingen",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1000001/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "d0ee3795925f3710be16ae97d300a142b362f139772c86c6737f4e6d63f1df14",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1000001&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "1994-05-18",
+  "gazette": "1994-05-31",
+  "numac": 1994035728,
+  "document_start": null,
+  "document_end": null,
+  "in_force": "2006-06-01",
+  "article_versions": 8,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
