@@ -1,0 +1,17 @@
+{
+  "codex_id": 1039818,
+  "title": "Ministerieel besluit van 2024-05-16 tot vervanging van de bijlage bij het ministerieel besluit van 13 juni 2012 houdende de vaststelling van het te gebruiken digitaal stemsysteem bij de lokale en provinciale verkiezingen en houdende de aanwijzing van de gemeenten die dat digitaal stemsysteem kunnen gebruiken",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1039818/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "7d0127be643742673e66a4eac9d055f311b609704558ee99a51c70445c3a8935",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1039818&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "2024-05-16",
+  "gazette": "0001-01-01",
+  "numac": 2024005988,
+  "document_start": "2024-07-01",
+  "document_end": null,
+  "in_force": "2006-06-01",
+  "article_versions": 1,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
