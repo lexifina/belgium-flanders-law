@@ -1,0 +1,17 @@
+{
+  "codex_id": 1005380,
+  "title": "Omzendbrief van 1997-02-18 LNW 97/1 betreffende richtlijnen voor de toepassing van het besluit van de Vlaamse regering van 22 juli 1993 betreffende de toegankelijkheid en het occasionele gebruik van de bossen (B.S. van 15 september 1993), gewijzigd bij besluit van de Vlaamse regering van 24 januari 1996 (B.S. van 30 april 1996)",
+  "type": "Omzendbrief",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1005380/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "7aac1d4570403f062125aee0675961e89bac1ae6b63204d5ca5734909ec9af18",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1005380&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "1997-02-18",
+  "gazette": "1997-04-15",
+  "numac": 1997801899,
+  "document_start": null,
+  "document_end": null,
+  "in_force": "2006-06-01",
+  "article_versions": 1,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
