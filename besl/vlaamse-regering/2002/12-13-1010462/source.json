@@ -1,0 +1,17 @@
+{
+  "codex_id": 1010462,
+  "title": "Besluit van de Vlaamse Regering van 2002-12-13 houdende reglementering inzake de kwaliteit en levering van water, bestemd voor menselijke consumptie",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1010462/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "0b19db67676f1ce28bf346c8d1a0f523d0173e8952c42de8fda1455576fff7ca",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1010462&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "2002-12-13",
+  "gazette": "2003-01-28",
+  "numac": 2003035094,
+  "document_start": null,
+  "document_end": "2099-12-31",
+  "in_force": "2006-06-01",
+  "article_versions": 26,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
