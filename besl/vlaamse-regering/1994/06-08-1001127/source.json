@@ -1,0 +1,17 @@
+{
+  "codex_id": 1001127,
+  "title": "Besluit van de Vlaamse Regering van 1994-06-08 betreffende het financiële en materiële beheer van de dienst met afzonderlijk beheer \"Fonds voor medische, sociale en pedagogische zorg voor gehandicapten",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1001127/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "3a523a62c55e2f43d6eca9aebb9db8d9075516b17a03f39ff6eb0ee64125869c",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1001127&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "1994-06-08",
+  "gazette": "1994-10-20",
+  "numac": 1994036120,
+  "document_start": null,
+  "document_end": null,
+  "in_force": "2006-06-01",
+  "article_versions": 24,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
