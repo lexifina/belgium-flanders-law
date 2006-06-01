@@ -1,0 +1,17 @@
+{
+  "codex_id": 1008448,
+  "title": "Samenwerkingsakkoord van 1997-07-25 tussen de Franse Gemeenschap, de Vlaamse Gemeenschap en de Duitstalige Gemeenschap betreffende de heffing van het kijk- en luistergeld",
+  "type": "Samenwerkingsakkoord",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1008448/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "4e5eda19d11f6a89fc7e705087d726b960df0f4d6989e15cf44abf5de6eb839d",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1008448&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "1997-07-25",
+  "gazette": "1998-02-21",
+  "numac": 1998029086,
+  "document_start": null,
+  "document_end": null,
+  "in_force": "2006-06-01",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
