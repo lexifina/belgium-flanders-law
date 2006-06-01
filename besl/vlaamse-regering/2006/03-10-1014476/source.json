@@ -1,0 +1,17 @@
+{
+  "codex_id": 1014476,
+  "title": "Besluit van de Vlaamse Regering van 2006-03-10 tot erkenning van de Provinciale Ontwikkelingsmaatschappij Limburg als erkende provinciale ontwikkelingsmaatschappij",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1014476/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "302a4ad45e6cc08c68fe89f51e6895ffe4487b06f195ba33dd0896706f9c8d4f",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1014476&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "2006-03-10",
+  "gazette": "2006-05-05",
+  "numac": 2006035669,
+  "document_start": null,
+  "document_end": null,
+  "in_force": "2006-06-01",
+  "article_versions": 2,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
