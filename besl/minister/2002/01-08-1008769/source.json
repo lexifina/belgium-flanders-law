@@ -1,0 +1,17 @@
+{
+  "codex_id": 1008769,
+  "title": "Ministerieel besluit van 2002-01-08 houdende de vastlegging van de bevolkingsprojectie zoals bedoeld in artikel 4 van het besluit van de Vlaamse regering van 17 maart 1998 houdende vaststelling van het programma voor serviceflatgebouwen, woningcomplexen met dienstverlening en rusthuizen",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1008769/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "114afed58f8b430543253ed4e34fd1ba667d82a12412ffd15edf3f72ecbe5be4",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1008769&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "2002-01-08",
+  "gazette": "2002-02-16",
+  "numac": 2002035170,
+  "document_start": "2002-01-01",
+  "document_end": null,
+  "in_force": "2006-06-01",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
