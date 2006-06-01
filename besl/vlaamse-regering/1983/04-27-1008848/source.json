@@ -1,0 +1,17 @@
+{
+  "codex_id": 1008848,
+  "title": "Besluit van de Vlaamse Regering van 1983-04-27 tot vaststelling van de personeelsformatie van de Waterzuiveringsmaatschappij van het Kustbekken",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1008848/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "2a58ec483d71c971ad7509500f6177cdc272516cd23cf30ebd75a4462da8a307",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1008848&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "1983-04-27",
+  "gazette": "1983-06-07",
+  "numac": 1983023218,
+  "document_start": null,
+  "document_end": null,
+  "in_force": "2006-06-01",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
