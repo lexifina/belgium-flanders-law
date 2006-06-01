@@ -1,0 +1,17 @@
+{
+  "codex_id": 1013032,
+  "title": "Ministerieel besluit van 2004-04-28 betreffende de aanvraag tot erkenning van organisaties voor coördinatie en toeleiding tot de opleiding ervaringsdeskundigen in de armoede",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1013032/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "515a050da0b8d377cbf865605aef2c04ef8d83bbd60c8dc0aed69da20b7348dc",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1013032&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "2004-04-28",
+  "gazette": "2004-05-26",
+  "numac": 2004035779,
+  "document_start": "2004-04-28",
+  "document_end": null,
+  "in_force": "2006-06-01",
+  "article_versions": 7,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
