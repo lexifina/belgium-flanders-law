@@ -1,0 +1,17 @@
+{
+  "codex_id": 1001045,
+  "title": "Omzendbrief van 1993-07-22 HV 93/3 betreffende de toepassing van het besluit van de Vlaamse regering van 3 februari 1993 houdende instelling van een tegemoetkoming in de last van hypothecaire leningen aangegaan om een woning te bouwen, te kopen of te renoveren",
+  "type": "Omzendbrief",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1001045/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "bb033aaed314fe4b829fba30c9f03607463051f1e45ce753634f6deb744876b2",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1001045&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "1993-07-22",
+  "gazette": "1993-08-26",
+  "numac": 0,
+  "document_start": null,
+  "document_end": null,
+  "in_force": "2006-06-01",
+  "article_versions": 8,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
