@@ -1,0 +1,17 @@
+{
+  "codex_id": 1005659,
+  "title": "Besluit van de Vlaamse Regering van 1987-09-16 houdende de criteria met betrekking tot de duur van de erkenningen van niet-openbare televisieverenigingen",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1005659/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "b316bd65d01b953b8f24bff59dda50a8d5c3219a1ea8f4aa658cccf1d448d987",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1005659&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "1987-09-16",
+  "gazette": "1987-10-15",
+  "numac": 1987029798,
+  "document_start": null,
+  "document_end": null,
+  "in_force": "2006-06-01",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
