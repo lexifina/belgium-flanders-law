@@ -1,0 +1,17 @@
+{
+  "codex_id": 1010308,
+  "title": "Samenwerkingsakkoord van 2002-12-12 tussen de Staat en de gefederaliseerde entiteiten houdende de algemeen verbindend verklaring van de collectieve arbeidsovereenkomsten",
+  "type": "Samenwerkingsakkoord",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1010308/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "01df9e3409fc6512ce4233bbb95eea112dbd14fca1b04257be9e003845f3eef7",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1010308&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "2002-12-12",
+  "gazette": "2003-01-10",
+  "numac": 0,
+  "document_start": null,
+  "document_end": null,
+  "in_force": "2006-06-01",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
