@@ -1,0 +1,17 @@
+{
+  "codex_id": 1006071,
+  "title": "Besluit van de Vlaamse Regering van 1998-01-13 betreffende de verkiezing van de leden van de raden voor maatschappelijk welzijn",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1006071/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "af68b94fcbfb497b799aa127c7cf4186071111dbde9581eba4f9c1682445c343",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1006071&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "1998-01-13",
+  "gazette": "1998-03-21",
+  "numac": 1998035268,
+  "document_start": null,
+  "document_end": "2006-11-23",
+  "in_force": "2006-06-01",
+  "article_versions": 17,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
