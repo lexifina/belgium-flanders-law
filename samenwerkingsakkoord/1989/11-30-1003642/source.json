@@ -1,0 +1,17 @@
+{
+  "codex_id": 1003642,
+  "title": "Samenwerkingsakkoord van 1989-11-30 tussen de Belgische Staat die optreedt voor de Regie der Luchtwegen en de Gewesten",
+  "type": "Samenwerkingsakkoord",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1003642/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "349995f12a86181ccac51429e83ff641cba1b97d024e2dd800d644634599dc1f",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1003642&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "1989-11-30",
+  "gazette": "1990-03-09",
+  "numac": 0,
+  "document_start": null,
+  "document_end": null,
+  "in_force": "2006-06-01",
+  "article_versions": 13,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
