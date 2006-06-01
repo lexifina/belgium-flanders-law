@@ -1,0 +1,17 @@
+{
+  "codex_id": 1006932,
+  "title": "Ministerieel besluit van 1999-06-07 tot vaststelling van de subsidiëringswijze van de verenigingen van gebruikers en mantelzorgers",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1006932/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "165da20ca7e19002ef82101417f4c84a22e965959e9a6961040ffee550361100",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1006932&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "1999-06-07",
+  "gazette": "1999-09-21",
+  "numac": 0,
+  "document_start": null,
+  "document_end": null,
+  "in_force": "2006-06-01",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
