@@ -1,0 +1,17 @@
+{
+  "codex_id": 1011483,
+  "title": "Besluit van de Vlaamse Regering van 2003-07-18 betreffende de procedure en de aanvullende kwalificatiecriteria en voorwaarden voor de erkenning van particuliere landelijke, regionale en lokale radio-omroepen",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1011483/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "9f47429421299e8d21900368b23847ed60026cbd81391c8359b4b855fc4d9d8e",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1011483&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "2003-07-18",
+  "gazette": "2003-07-25",
+  "numac": 2003035763,
+  "document_start": null,
+  "document_end": "2007-05-13",
+  "in_force": "2006-06-01",
+  "article_versions": 7,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
