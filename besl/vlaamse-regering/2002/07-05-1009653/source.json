@@ -1,0 +1,17 @@
+{
+  "codex_id": 1009653,
+  "title": "Besluit van de Vlaamse Regering van 2002-07-05 houdende vaststelling van de wijze van berekenen van de 80-85-procentnorm voor de vaststelling van de begroting en de personeelsformatie van de universiteiten in de Vlaamse Gemeenschap",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1009653/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "1a2a42c9592e50a17840df0905c4ec42e8b1f9264bfd3a4ad0d7d3fe331c34dc",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1009653&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "2002-07-05",
+  "gazette": "2002-09-12",
+  "numac": 2002036164,
+  "document_start": "2001-10-01",
+  "document_end": null,
+  "in_force": "2006-06-01",
+  "article_versions": 7,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
