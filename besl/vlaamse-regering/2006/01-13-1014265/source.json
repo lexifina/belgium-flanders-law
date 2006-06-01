@@ -1,0 +1,17 @@
+{
+  "codex_id": 1014265,
+  "title": "Besluit van de Vlaamse Regering van 2006-01-13 houdende de oprichting van een basisoverlegcomité, bevoegd voor de gewestelijke ontvangers",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1014265/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "896811c33c749b7a1df5e95c7967045ee5eb3d09585f08e61c4fa610b6c6f2b4",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1014265&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "2006-01-13",
+  "gazette": "2006-02-10",
+  "numac": 2006035201,
+  "document_start": null,
+  "document_end": null,
+  "in_force": "2006-06-01",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
