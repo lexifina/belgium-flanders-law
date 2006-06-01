@@ -1,0 +1,17 @@
+{
+  "codex_id": 1020409,
+  "title": "Protocol van 2005-06-13 nr. 3 gesloten tussen de federale Regering en de Overheden bedoeld in de artikelen 128, 130, 135 en 138 van de Grondwet, over het te voeren ouderenzorgbeleid",
+  "type": "Protocol",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1020409/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "5d1768ba113aa0927b20beae9904c7dd7d118ba2342efa5337006ca5dab38745",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1020409&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "2005-06-13",
+  "gazette": "2006-04-28",
+  "numac": 2006022284,
+  "document_start": "2005-10-01",
+  "document_end": "2011-09-30",
+  "in_force": "2006-06-01",
+  "article_versions": 24,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
