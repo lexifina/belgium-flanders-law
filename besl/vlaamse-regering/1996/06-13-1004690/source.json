@@ -1,0 +1,17 @@
+{
+  "codex_id": 1004690,
+  "title": "Besluit van de Vlaamse Regering van 1996-06-13 houdende vaststelling van de personeelsformatie van het ministerie van de Vlaamse Gemeenschap",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1004690/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "bef669f1ca5ae3cf36e96150b076c822755f775d2165f6bd3c5100b4bbf700c4",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1004690&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "1996-06-13",
+  "gazette": "1996-07-20",
+  "numac": 1996035838,
+  "document_start": "1996-06-15",
+  "document_end": null,
+  "in_force": "2006-06-01",
+  "article_versions": 11,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
