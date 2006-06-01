@@ -1,0 +1,28 @@
+# Besluit van de Vlaamse Regering van 2026-04-03 tot herverdeling vanuit een provisioneel krediet van de Vlaamse Gemeenschap voor het begrotingsjaar 2026
+
+### Aanhef
+
+Rechtsgronden<br>
+Dit besluit is gebaseerd op:<br>
+- de Vlaamse Codex Overheidsfinanciën van 29 maart 2019, artikel 21, eerste lid, 2°, b, artikel 22 en artikel 24, eerste lid;<br>
+- het decreet van 19 december 2025 houdende de uitgavenbegroting van de Vlaamse Gemeenschap voor het begrotingsjaar 2026.<br>
+<br>
+Vormvereiste<br>
+De volgende vormvereiste is vervuld:<br>
+- de Vlaamse minister, bevoegd voor het budgettair beleid, zijn akkoord werd verkregen op 31 maart 2026.<br>
+<br>
+Motivering<br>
+Dit besluit is gebaseerd op het volgende motief:<br>
+- de financiering van beleidsinitiatieven in het kader van Programmatische Aanpak Stikstof.<br>
+<br>
+Juridisch kader<br>
+Dit besluit sluit aan bij de volgende regelgeving:<br>
+- de Vlaamse Codex Overheidsfinanciën van 29 maart 2019;&nbsp;<br>
+- het Besluit Vlaamse Codex Overheidsfinanciën van 17 mei 2019.<br>
+<br>
+Initiatiefnemer<br>
+Dit besluit wordt voorgesteld door de Vlaamse minister van Omgeving en Landbouw<br>
+<br>
+Na beraadslaging,<br>
+<br>
+DE VLAAMSE REGERING BESLUIT:
