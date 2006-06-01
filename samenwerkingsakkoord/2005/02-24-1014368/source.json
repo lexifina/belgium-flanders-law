@@ -1,0 +1,17 @@
+{
+  "codex_id": 1014368,
+  "title": "Samenwerkingsakkoord van 2005-02-24 tussen het Brussels Hoofdstedelijk Gewest, het Waals Gewest, het Vlaams Gewest, de Vlaamse Gemeenschap, de Duitstalige Gemeenschap en de Franse Gemeenschapscommissie betreffende de interregionale mobiliteit van de werkzoekenden",
+  "type": "Samenwerkingsakkoord",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1014368/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "fca36aa82b5b5895a068eb2f87e0e50c9e22bd4eddf525ed482cbb1ff6840d41",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1014368&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "2005-02-24",
+  "gazette": "2006-03-15",
+  "numac": 2006031110,
+  "document_start": null,
+  "document_end": null,
+  "in_force": "2006-06-01",
+  "article_versions": 1,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
