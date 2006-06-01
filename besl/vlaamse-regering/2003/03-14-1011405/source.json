@@ -1,0 +1,17 @@
+{
+  "codex_id": 1011405,
+  "title": "Besluit van de Vlaamse Regering van 2003-03-14 betreffende de concordantie van de specialiteiten in opleidingsvorm 3 van het buitengewoon secundair onderwijs",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1011405/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "da40d36478d12b5e6649a8e09531bf28785332a9f9858b3b1a02f1ab63057c60",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1011405&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "2003-03-14",
+  "gazette": "2003-07-09",
+  "numac": 2003035703,
+  "document_start": "2002-09-01",
+  "document_end": null,
+  "in_force": "2006-06-01",
+  "article_versions": 10,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
