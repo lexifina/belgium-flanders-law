@@ -1,0 +1,17 @@
+{
+  "codex_id": 1006306,
+  "title": "Besluit van de Vlaamse Regering van 1998-07-23 houdende vaststelling van de personeelsformatie van de Vlaamse Milieumaatschappij",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1006306/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "4995afd3fdaa8a8a14a5818fca58950ea41b0fcbd230aa651f5d89eff552eadd",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1006306&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "1998-07-23",
+  "gazette": "1998-09-08",
+  "numac": 1998035934,
+  "document_start": null,
+  "document_end": null,
+  "in_force": "2006-06-01",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
