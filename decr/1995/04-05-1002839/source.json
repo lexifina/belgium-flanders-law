@@ -1,0 +1,17 @@
+{
+  "codex_id": 1002839,
+  "title": "Decreet van 1995-04-05 tot oprichting van onderhandelingscomités in het vrij gesubsidieerd onderwijs",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1002839/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "802693ca4d58ffafe4d9229986f3983236a04b8b58a53e740403e29eb8d50b9a",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1002839&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "1995-04-05",
+  "gazette": "1995-06-08",
+  "numac": 1995035721,
+  "document_start": null,
+  "document_end": null,
+  "in_force": "2006-06-01",
+  "article_versions": 67,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
