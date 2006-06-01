@@ -1,0 +1,17 @@
+{
+  "codex_id": 1006223,
+  "title": "Omzendbrief van 1998-06-23 BA-98/04 voor de gemeenten, de provincies en de OCMW's aangaande sommige financiële diensten en andere aanbevelingen betreffende enige toepassingsproblemen i.v.m. de wetgeving op de overheidsopdrachten",
+  "type": "Omzendbrief",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1006223/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "cba39c2a61baf6eaeb9defeba6a7e776dd4f7840004e36b66792c0a6514e41d4",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1006223&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "1998-06-23",
+  "gazette": "1998-07-23",
+  "numac": 1998035764,
+  "document_start": null,
+  "document_end": null,
+  "in_force": "2006-06-01",
+  "article_versions": 1,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
