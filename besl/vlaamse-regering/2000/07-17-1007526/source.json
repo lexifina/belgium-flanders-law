@@ -1,0 +1,17 @@
+{
+  "codex_id": 1007526,
+  "title": "Besluit van de Vlaamse Regering van 2000-07-17 houdende vaststelling van de personeelsformatie van het Instituut voor het Archeologisch Patrimonium",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1007526/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "81e3333937de6a94253b2989af00aa03eeac5f0bae9b40f904e1560318b5f794",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1007526&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "2000-07-17",
+  "gazette": "2000-08-19",
+  "numac": 2000035842,
+  "document_start": null,
+  "document_end": null,
+  "in_force": "2006-06-01",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
