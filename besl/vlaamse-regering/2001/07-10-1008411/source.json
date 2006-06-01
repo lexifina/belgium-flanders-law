@@ -1,0 +1,17 @@
+{
+  "codex_id": 1008411,
+  "title": "Besluit van de Vlaamse Regering van 2001-07-10 houdende toekenning van een subsidie aan initiatieven in gezondheidszorg",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1008411/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "ad775c97c17cde9afff5c9a9cfe5c9d62daf107ec670bd5cc27af35312409cc5",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1008411&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "2001-07-10",
+  "gazette": "2001-10-13",
+  "numac": 2001036141,
+  "document_start": "2001-01-01",
+  "document_end": null,
+  "in_force": "2006-06-01",
+  "article_versions": 11,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
