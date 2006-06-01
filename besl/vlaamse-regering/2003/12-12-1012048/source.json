@@ -1,0 +1,17 @@
+{
+  "codex_id": 1012048,
+  "title": "Besluit van de Vlaamse Regering van 2003-12-12 houdende de bonus van de centra voor vorming van zelfstandigen en kleine en middelgrote ondernemingen, bedoeld bij het besluit van de Vlaamse regering van 14 december 2001 betreffende de erkenning en de subsidiëring van de centra voor vorming van zelfstandigen en kleine en middelgrote ondernemingen",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1012048/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "9524ee262abd6158045d02e579cf59bd4b1c9c9ca850a80e3660f957d80ccc53",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1012048&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "2003-12-12",
+  "gazette": "2004-02-10",
+  "numac": 2003035178,
+  "document_start": "2003-09-01",
+  "document_end": "2008-08-31",
+  "in_force": "2006-06-01",
+  "article_versions": 5,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
