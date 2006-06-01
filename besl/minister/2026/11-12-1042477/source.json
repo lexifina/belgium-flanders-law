@@ -1,0 +1,17 @@
+{
+  "codex_id": 1042477,
+  "title": "Ministerieel besluit van 2026-11-12 tot uitvoering van het besluit van de Vlaamse Regering van 1 oktober 2026 tot uitvoering van het decreet van 19 juni 2026 over het stelsel van loopbaankrediet, wat betreft de diploma’s en gelijkstellingen met de beroepskwalificatie loopbaanbegeleider",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1042477/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "23ee08fdcf7b61f850365433f847d5e6d203c8123a6f13474dc278a28acc5389",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1042477&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "2026-11-12",
+  "gazette": "0001-01-01",
+  "numac": 2026008321,
+  "document_start": "2027-01-01",
+  "document_end": null,
+  "in_force": "2006-06-01",
+  "article_versions": 1,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
