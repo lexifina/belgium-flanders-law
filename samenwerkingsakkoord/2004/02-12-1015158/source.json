@@ -1,0 +1,17 @@
+{
+  "codex_id": 1015158,
+  "title": "Samenwerkingsakkoord van 2004-02-12 Avenant aan het samenwerkingsakkoord tussen de Staat, de Gewesten en de Duitstalige Gemeenschap van 4 juli 2000 betreffende de sociale economie, bekrachtigd door de wet van 26 juni 2001, gewijzigd door de wet van 6 mei 2003 houdende instemming met de avenant van 15 augustus 2002 aan het Samenwerkingsakkoord tussen de Staat, de Gewesten en de Duitstalige Gemeenschap van 4 juli 2000 betreffende de sociale economie",
+  "type": "Samenwerkingsakkoord",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1015158/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "2085cb5cd83fea76c51dfe51c2c245912961f5d66d7d162b4321eb3afe14f9ef",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1015158&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "2004-02-12",
+  "gazette": "2004-12-31",
+  "numac": 0,
+  "document_start": null,
+  "document_end": null,
+  "in_force": "2006-06-01",
+  "article_versions": 2,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
