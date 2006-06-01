@@ -1,0 +1,17 @@
+{
+  "codex_id": 1014151,
+  "title": "Ministerieel besluit van 2005-11-21 betreffende de wervingsprocedure bij de pedagogische begeleidingsdienst van de vzw. Onderwijssecretariaat van de steden en gemeenten van de Vlaamse Gemeenschap",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1014151/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "b8a3831df16f6ff78f6c29265303f38d7aa4999e7eb07ac242ea867d84e6abe8",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1014151&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "2005-11-21",
+  "gazette": "2005-12-23",
+  "numac": 2005036573,
+  "document_start": "2005-09-01",
+  "document_end": null,
+  "in_force": "2006-06-01",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
