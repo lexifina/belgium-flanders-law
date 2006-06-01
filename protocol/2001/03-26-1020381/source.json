@@ -1,0 +1,17 @@
+{
+  "codex_id": 1020381,
+  "title": "Protocol van 2001-03-26 Protocolakkoord tussen de federale minister van Justitie en de Vlaamse minister van Welzijn, Gezondheid en Gelijk Kansen, houdende de krachtlijnen van de verdere samenwerking op het grensgebied welzijn-justitie",
+  "type": "Protocol",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1020381/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "f1f6ced5faaabd222499be48a10836e21084c59aa3ae52c979abb353f55cb4fb",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1020381&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "2001-03-26",
+  "gazette": "0001-01-01",
+  "numac": 0,
+  "document_start": null,
+  "document_end": null,
+  "in_force": "2006-06-01",
+  "article_versions": 1,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
