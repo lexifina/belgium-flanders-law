@@ -1,0 +1,17 @@
+{
+  "codex_id": 1006095,
+  "title": "Omzendbrief van 1998-03-17 BA-98/01 betreffende het statuut van de lokale en provinciale mandataris : enkele kwaliteitsbevorderende maatregelen",
+  "type": "Omzendbrief",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1006095/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "fb593a960aa43b199c8bb2c6e0a5097128a9a36cc8fa48bb40dd09d0b5f76099",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1006095&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "1998-03-17",
+  "gazette": "1998-04-11",
+  "numac": 1998035407,
+  "document_start": null,
+  "document_end": null,
+  "in_force": "2006-06-01",
+  "article_versions": 1,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
