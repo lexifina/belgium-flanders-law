@@ -1,0 +1,17 @@
+{
+  "codex_id": 1012043,
+  "title": "Besluit van de Vlaamse Regering van 2003-12-05 ter uitvoering van het decreet van 24 januari 2003 houdende bescherming van het roerend cultureel erfgoed van uitzonderlijk belang",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1012043/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "8c55a538ea35c793c18db35fedcb1b25795113225c1e2a9f9dcd13a98d238de0",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1012043&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "2003-12-05",
+  "gazette": "2004-02-06",
+  "numac": 2004035147,
+  "document_start": "2003-12-05",
+  "document_end": null,
+  "in_force": "2006-06-01",
+  "article_versions": 62,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
