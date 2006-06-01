@@ -1,0 +1,17 @@
+{
+  "codex_id": 1000235,
+  "title": "Decreet van 1994-06-01 tot regeling van de overdracht van roerende en onroerende goederen van de Vlaamse Gemeenschap aan de Vlaamse Gemeenschapscommissie",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1000235/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "645840aab31d05e391c919352f03228af1321a9684031b54e305d6d8bf638f81",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1000235&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "1994-06-01",
+  "gazette": "1994-08-02",
+  "numac": 1994035848,
+  "document_start": null,
+  "document_end": null,
+  "in_force": "2006-06-01",
+  "article_versions": 7,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
