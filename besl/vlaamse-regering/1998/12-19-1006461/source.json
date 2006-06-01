@@ -1,0 +1,17 @@
+{
+  "codex_id": 1006461,
+  "title": "Besluit van de Vlaamse Regering van 1998-12-19 tot uitvoering van het decreet van 14 juli 1998 betreffende de euro en houdende diverse wijzigingsbepalingen ingevolge de invoering van de euro",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1006461/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "420fd205119eba11a19d06196c80cdcccea85a21f47a5aeef3965b530fd84dee",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1006461&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "1998-12-19",
+  "gazette": "1999-01-22",
+  "numac": 1999035019,
+  "document_start": null,
+  "document_end": null,
+  "in_force": "2006-06-01",
+  "article_versions": 25,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
