@@ -1,0 +1,17 @@
+{
+  "codex_id": 1005162,
+  "title": "Omzendbrief van 1996-12-17 B.A./FB 96/10 betreffende het beheer van de schuldenportefeuilles in lokale en regionale besturen",
+  "type": "Omzendbrief",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1005162/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "c8683c3bef95fa43bf1ac7d87be94de6d6d0d0759e62b26d0df92d70ecfcb33a",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1005162&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "1996-12-17",
+  "gazette": "1997-02-07",
+  "numac": 1997801880,
+  "document_start": null,
+  "document_end": null,
+  "in_force": "2006-06-01",
+  "article_versions": 1,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
