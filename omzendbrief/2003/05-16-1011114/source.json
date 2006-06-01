@@ -1,0 +1,17 @@
+{
+  "codex_id": 1011114,
+  "title": "Omzendbrief van 2003-05-16 BA 2003/05 met toelichting bij het sectoraal akkoord 2003-2004 voor het personeel van de lokale en provinciale besturen en met de mededeling omtrent nieuwe grensbedragen haard- en standplaatstoelage",
+  "type": "Omzendbrief",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1011114/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "ee1b6ce8db6e2cc0df4876b7fba53c5b02da0554187c4326b0d15f9bde362274",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1011114&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "2003-05-16",
+  "gazette": "2003-06-12",
+  "numac": 2003035616,
+  "document_start": null,
+  "document_end": null,
+  "in_force": "2006-06-01",
+  "article_versions": 2,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
