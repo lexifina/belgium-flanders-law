@@ -1,0 +1,17 @@
+{
+  "codex_id": 1005630,
+  "title": "Besluit van de Vlaamse Regering van 1997-07-23 betreffende de aanwijzing van de personeelsleden bedoeld in artikel 182, §1, 3° van het decreet van 13 juli 1994 betreffende de hogescholen in de Vlaamse Gemeenschap",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1005630/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "936bf489273c724df54e378f095dba9a8ef2dd802df9d4400bf3759bc109a8ba",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1005630&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "1997-07-23",
+  "gazette": "1997-10-15",
+  "numac": 1997036214,
+  "document_start": "1996-01-01",
+  "document_end": "2016-12-31",
+  "in_force": "2006-06-01",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
