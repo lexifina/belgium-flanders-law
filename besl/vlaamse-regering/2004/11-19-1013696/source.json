@@ -1,0 +1,17 @@
+{
+  "codex_id": 1013696,
+  "title": "Besluit van de Vlaamse Regering van 2004-11-19 betreffende de rechtsopvolging van de Vlaamse openbare instelling \"Toerisme Vlaanderen\" en de overdracht van personeel en goederen naar het Intern Verzelfstandigd Agentschap \"Toerisme Vlaanderen",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1013696/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "4d003369ee9ba6a16435adc2a3b71d168bac59a77584f4d5879524e880ea1a0a",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1013696&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "2004-11-19",
+  "gazette": "2005-03-11",
+  "numac": 2005035299,
+  "document_start": "2004-04-29",
+  "document_end": null,
+  "in_force": "2006-06-01",
+  "article_versions": 6,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
