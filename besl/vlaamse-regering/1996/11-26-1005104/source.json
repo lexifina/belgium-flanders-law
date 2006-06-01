@@ -1,0 +1,17 @@
+{
+  "codex_id": 1005104,
+  "title": "Besluit van de Vlaamse Regering van 1996-11-26 tot vaststelling van de goedkeuringscriteria en indieningsmodaliteiten van de leerplannen voor het basisonderwijs",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1005104/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "0ca77202676b5fe9f7d900c511fafe4affcbfe609cff9f3c19bba87197666411",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1005104&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "1996-11-26",
+  "gazette": "1997-01-24",
+  "numac": 1997035056,
+  "document_start": "1996-10-01",
+  "document_end": "2007-08-31",
+  "in_force": "2006-06-01",
+  "article_versions": 18,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
