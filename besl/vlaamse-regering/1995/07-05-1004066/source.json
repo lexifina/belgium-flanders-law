@@ -1,0 +1,17 @@
+{
+  "codex_id": 1004066,
+  "title": "Besluit van de Vlaamse Regering van 1995-07-05 betreffende het personeelskader van de diensten van het college van commissarissen van de Vlaamse regering bij de hogescholen",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1004066/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "1f54fe2785700394f3c3e160c69488bf07ebfc9fc94ae99fc137ea0cac5c6ba1",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1004066&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "1995-07-05",
+  "gazette": "1995-10-20",
+  "numac": 1995036167,
+  "document_start": "1994-12-01",
+  "document_end": null,
+  "in_force": "2006-06-01",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
