@@ -1,0 +1,17 @@
+{
+  "codex_id": 1009712,
+  "title": "Besluit van de Vlaamse Regering van 2002-07-15 betreffende de melding van aankomst en vertrek van vaartuigen onderworpen aan de verplichting van het gewone loodsen of loodsen op afstand gebruik te maken",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1009712/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "2922aef63eb22f5ac6e25fa04fad83300f5098b542aa55a60ec20fd52c7ae8f6",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1009712&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "2002-07-15",
+  "gazette": "2002-09-28",
+  "numac": 2002036251,
+  "document_start": "2002-10-01",
+  "document_end": "2015-09-16",
+  "in_force": "2006-06-01",
+  "article_versions": 21,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
