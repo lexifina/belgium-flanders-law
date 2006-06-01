@@ -1,0 +1,17 @@
+{
+  "codex_id": 1006812,
+  "title": "Omzendbrief van 1999-06-29 BA-99/07 betreffende de gemeentebelastingen - Gemeentebelastingen op schotelantennes onverenigbaar met het EG-verdrag",
+  "type": "Omzendbrief",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1006812/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "02506bc4d18005e2bcfb0f8759c93277d8314f373670e346f382c825cf97af9b",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1006812&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "1999-06-29",
+  "gazette": "1999-08-06",
+  "numac": 0,
+  "document_start": null,
+  "document_end": null,
+  "in_force": "2006-06-01",
+  "article_versions": 1,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
