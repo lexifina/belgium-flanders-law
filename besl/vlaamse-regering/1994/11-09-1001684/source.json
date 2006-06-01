@@ -1,0 +1,17 @@
+{
+  "codex_id": 1001684,
+  "title": "Besluit van de Vlaamse Regering van 1994-11-09 betreffende het opvangverlof voor de personeelsleden van het onderwijs en de [centra voor leerlingenbegeleiding] met het oog op adoptie en pleegvoogdij",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1001684/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "8d76ed6d01dc3c20873e274304fec2d4d6e98b1dc5b8e2334069282fca029911",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1001684&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "1994-11-09",
+  "gazette": "1995-01-21",
+  "numac": 1995036566,
+  "document_start": "1994-09-01",
+  "document_end": null,
+  "in_force": "2006-06-01",
+  "article_versions": 9,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
