@@ -1,0 +1,17 @@
+{
+  "codex_id": 1006817,
+  "title": "Ministerieel besluit van 1999-05-16 tot bepaling van de voorwaarden voor de aanvraag van een programmatie in het deeltijds kunstonderwijs en de behandeling ervan, de voorwaarden voor de melding van een structuurwijziging in het bestaande studieaanbod in het deeltijds kunstonderwijs en de infrastructuurvereisten voor de studierichting dans in het deeltijds kunstonderwijs",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1006817/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "d354dd98308e0a948acc83d467a3e81a894466e23fb09259c6e06803911264d6",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1006817&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "1999-05-16",
+  "gazette": "1999-08-11",
+  "numac": 0,
+  "document_start": "1999-02-01",
+  "document_end": null,
+  "in_force": "2006-06-01",
+  "article_versions": 18,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
