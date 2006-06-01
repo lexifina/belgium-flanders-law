@@ -1,0 +1,17 @@
+{
+  "codex_id": 1012525,
+  "title": "Besluit van de Vlaamse Regering van 2004-02-20 tot goedkeuring van de statuten van de Koninklijke Academie voor Geneeskunde van België",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1012525/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "be264a25a846f1d1bf906869e221675fd70ba084bdbcf29035689b73e24efcf1",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1012525&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "2004-02-20",
+  "gazette": "2004-04-13",
+  "numac": 2004035538,
+  "document_start": "2004-05-01",
+  "document_end": null,
+  "in_force": "2006-06-01",
+  "article_versions": 19,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
