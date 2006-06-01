@@ -1,0 +1,17 @@
+{
+  "codex_id": 1004578,
+  "title": "Besluit van de Vlaamse Regering van 1996-01-31 houdende vaststelling van de personeelsformatie van Kind en Gezin",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1004578/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "f926a96590206747c8ebee9b531745f4cd02d06265a1e935c9845021c081bd22",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1004578&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "1996-01-31",
+  "gazette": "1996-04-19",
+  "numac": 1996035268,
+  "document_start": null,
+  "document_end": null,
+  "in_force": "2006-06-01",
+  "article_versions": 9,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
