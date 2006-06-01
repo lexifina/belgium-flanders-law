@@ -1,0 +1,17 @@
+{
+  "codex_id": 1012060,
+  "title": "Ministerieel besluit van 2003-12-19 betreffende de toekenning van subsidies voor de bescherming van de genetische diversiteit van hoogstamboomgaarden met toepassing van het Vlaams Programma voor Plattelandsontwikkeling",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1012060/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "c2cede631f6528039484fb53be8237617601c0b8d1458d1fba39701d76ef288f",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1012060&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "2003-12-19",
+  "gazette": "2004-02-11",
+  "numac": 2004035186,
+  "document_start": null,
+  "document_end": "2006-12-31",
+  "in_force": "2006-06-01",
+  "article_versions": 16,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
