@@ -1,0 +1,17 @@
+# Besluit van de Vlaamse Regering van 1997-03-04 houdende delegatie van de bepaling van de vorm van modelformulieren inzake ruimtelijke ordening
+
+### ART. 1.
+
+§ 1. De Vlaamse minister, bevoegd voor de ruimtelijke ordening, wordt gemachtigd om het gebruik van modelformulieren te regelen, die aangewend dienen te worden door het college van burgemeester en schepenen, in verband met volgende aangelegenheden:<br /><br />- bij beslissingen tot verlening of weigering van de bouwvergunning;<br /><br />- bij beslissingen tot verlening of weigering van de verkavelingsvergunning.<br /><br />§ 2. De Vlaamse minister, bevoegd voor de ruimtelijke ordening, wordt gemachtigd om het gebruik van modelformulieren te regelen, die aangewend dienen te worden door de gemachtigde ambtenaar, in verband met volgende aangelegenheden:<br /><br />- bij schorsing van een bouwvergunning;<br /><br />- bij schorsing van een verkavelingsvergunning;<br /><br />- bij beslissingen tot verlening of weigering van de bouw- of verkavelingsvergunning ter uitvoering van artikel 52, § 1, tweede lid van het decreet betreffende de ruimtelijke ordening gecoördineerd op 22 oktober 1996;<br /><br />- bij beslissingen tot verlening of weigering van de bouw- of verkavelingsvergunning ter uitvoering van artikel 46 van het decreet betreffende de ruimtelijke ordening gecordineerd op 22 oktober 1996.<br /><br />§ 3. De Vlaamse minister, bevoegd voor de ruimtelijke ordening, wordt gemachtigd om de volgende wetteksten te wijzigen of op te heffen:<br /><br />- het koninklijk besluit van 6 februari 1971 tot bepaling van de vorm der beslissingen met betrekking tot de bouwvergunningen;<br /><br />- het koninklijk besluit van 6 februari 1971 tot bepaling van de vorm der beslissingen met betrekking tot de verkavelingsaanvragen;<br /><br />- het koninklijk besluit van 20 februari 1971 tot bepaling van de vorm der beslissingen die met betrekking tot bouw- en verkavelingsvergunningen worden genomen door de gemachtigde ambtenaar, ter uitvoering van artikel 54, § 1, tweede lid, van de wet houdende organisatie van de ruimtelijke ordening en van de stedenbouw;<br /><br />- artikelen 2 en 3 van het koninklijk besluit van 22 juni 1971 tot bepaling van de publiekrechtelijke personen voor wie de bouw- en verkavelingsvergunningen worden afgegeven door de gemachtigde ambtenaar, de vorm waarin deze zijn beslissingen neemt en de behandeling van de bouw- en verkavelingsaanvragen, gewijzigd bij besluiten van de Vlaamse regering van 5 november 1986 en 23 maart 1989.
+
+### ART. 2.
+
+De Vlaamse minister, bevoegd voor de ruimtelijke ordening, wordt gemachtigd om de modelformulieren te wijzigen, die als bijlage gevoegd zijn bij het ministerieel besluit van 6 februari 1971 tot vaststelling van de samenstelling van het dossier van de aanvraag om bouwvergunning, gewijzigd door het ministerieel besluit van 28 oktober 1972 en de besluiten van de Vlaamse regering van 16 februari 1983, 3 oktober 1984, 19 december 1984, 20 november 1985, 23 maart 1989 en 30 juli 1992.
+
+### ART. 3.
+
+De Vlaamse minister, bevoegd voor de ruimtelijke ordening, wordt gemachtigd om het modelformulier te wijzigen, dat als bijlage gevoegd is bij het ministerieel besluit van 6 februari 1971 tot vaststelling van de voorwaarden waaraan een dossier betreffende een verkavelingsaanvraag moet voldoen om als volledig te worden beschouwd.
+
+### ART. 4.
+
+De Vlaamse minister, bevoegd voor de ruimtelijke ordening, is belast met de uitvoering van dit besluit.
