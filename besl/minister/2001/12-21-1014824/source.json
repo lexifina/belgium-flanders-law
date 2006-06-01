@@ -1,0 +1,17 @@
+{
+  "codex_id": 1014824,
+  "title": "Ministerieel besluit van 2001-12-21 tot vaststelling van een keurings- en certificeringsreglement van bietenzaad van landbouwrassen",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1014824/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "1516156cadc9df111da72c43076ade1e6306b13156cfb4192e7e897b5f306f8b",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1014824&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "2001-12-21",
+  "gazette": "2002-03-06",
+  "numac": 0,
+  "document_start": "2002-03-06",
+  "document_end": "2010-06-29",
+  "in_force": "2006-06-01",
+  "article_versions": 16,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
