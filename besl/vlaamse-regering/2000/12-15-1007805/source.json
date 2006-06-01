@@ -1,0 +1,17 @@
+{
+  "codex_id": 1007805,
+  "title": "Besluit van de Vlaamse Regering van 2000-12-15 houdende vrijstelling voor bepaalde categorieën gehandicapte personen van de vervulling van verblijfsduurvoorwaarden om de bijstand te genieten van het Vlaams [Agentschap voor] Personen met een Handicap",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1007805/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "a04581145518ad9f8622b7193ea4f169fa0ea53e6f6289092946a4a579a0cf6a",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1007805&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "2000-12-15",
+  "gazette": "2001-01-24",
+  "numac": 2001035032,
+  "document_start": "2001-01-24",
+  "document_end": null,
+  "in_force": "2006-06-01",
+  "article_versions": 5,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
