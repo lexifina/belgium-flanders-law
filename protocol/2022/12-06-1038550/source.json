@@ -1,0 +1,17 @@
+{
+  "codex_id": 1038550,
+  "title": "Protocol van 2022-12-06 tot wijziging van het Protocol inzake voorrechten en immuniteiten van de Benelux Organisatie voor de Intellectuele Eigendom (merken en tekeningen of modellen)",
+  "type": "Protocol",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1038550/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "a7b23c5d06742423876326803644d74066503f02752d440c5a51ec5e198156e5",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1038550&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "2022-12-06",
+  "gazette": "0001-01-01",
+  "numac": 0,
+  "document_start": null,
+  "document_end": null,
+  "in_force": "2006-06-01",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
