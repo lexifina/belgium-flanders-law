@@ -1,0 +1,17 @@
+{
+  "codex_id": 1008230,
+  "title": "Besluit van de Vlaamse Regering van 1984-09-05 houdende toekenning van een eindejaarstoelage aan het personeel van de Belgische Radio en Televisie, Nederlandse Uitzendingen",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1008230/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "297aa1a22708dd007046be78357edcc2c2d9f04ba75b86d679950bcdf2829e03",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1008230&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "1984-09-05",
+  "gazette": "1984-09-22",
+  "numac": 1984024503,
+  "document_start": null,
+  "document_end": null,
+  "in_force": "2006-06-01",
+  "article_versions": 8,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
