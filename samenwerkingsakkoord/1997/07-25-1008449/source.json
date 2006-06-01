@@ -1,0 +1,17 @@
+{
+  "codex_id": 1008449,
+  "title": "Samenwerkingsakkoord van 1997-07-25 tussen de Franse Gemeenschap en de Vlaamse Gemeenschap betreffende de heffing van het kijk- en luistergeld op het grondgebied van het tweetalige gebied Brussel-Hoofdstad",
+  "type": "Samenwerkingsakkoord",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1008449/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "ec0d769ddc5452ba7f61453c91f5f38b93ccef8979b3cab10a2cbc7eb378d087",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1008449&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "1997-07-25",
+  "gazette": "1998-02-21",
+  "numac": 1998029085,
+  "document_start": null,
+  "document_end": null,
+  "in_force": "2006-06-01",
+  "article_versions": 13,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
