@@ -1,0 +1,17 @@
+{
+  "codex_id": 1006112,
+  "title": "Besluit van de Vlaamse Regering van 1998-03-03 betreffende de Gezins- en Welzijnsraad",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1006112/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "93618d9ef29661d10ca9551037fbb79b39439a1d5c05eb83cfe207a9d67a2a6e",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1006112&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "1998-03-03",
+  "gazette": "1998-04-24",
+  "numac": 1998035422,
+  "document_start": "1998-01-27",
+  "document_end": null,
+  "in_force": "2006-06-01",
+  "article_versions": 7,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
