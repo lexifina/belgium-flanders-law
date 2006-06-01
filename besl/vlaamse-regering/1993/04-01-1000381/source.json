@@ -1,0 +1,17 @@
+{
+  "codex_id": 1000381,
+  "title": "Besluit van de Vlaamse Regering van 1993-04-01 betreffende de organisatie van het gewoon kleuter- en lager onderwijs op basis van een lestijdenpakket",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1000381/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "e23940b503b9f442b5d9ccc81b878aebd6f3826664c710fc2b3dc4f11704fd59",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1000381&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "1993-04-01",
+  "gazette": "1993-06-23",
+  "numac": 1993035701,
+  "document_start": null,
+  "document_end": null,
+  "in_force": "2006-06-01",
+  "article_versions": 36,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
