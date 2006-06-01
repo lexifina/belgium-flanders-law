@@ -1,0 +1,17 @@
+{
+  "codex_id": 1014135,
+  "title": "Ministerieel besluit van 2005-11-18 houdende erkenning van Heuvellandse wijn als kwaliteitswijn met gecontroleerde oorsprongsbenaming V.Q.P.R.D.",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1014135/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "375d41ae82fdf148f2de8154f492e880e8a73d6b2a80dfb8605b9c038df09bed",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1014135&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "2005-11-18",
+  "gazette": "2005-12-06",
+  "numac": 2005036494,
+  "document_start": null,
+  "document_end": null,
+  "in_force": "2006-06-01",
+  "article_versions": 2,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
