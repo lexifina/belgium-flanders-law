@@ -1,0 +1,17 @@
+{
+  "codex_id": 1006464,
+  "title": "Decreet van 1998-12-08 houdende diverse bepalingen naar aanleiding van de begrotingscontrole 1998",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1006464/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "ee84b519a4189befaf5d4e484e94b30ddf27b1c3f4492ea7863bf6dc5c1b6daa",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1006464&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "1998-12-08",
+  "gazette": "1999-01-26",
+  "numac": 1999035050,
+  "document_start": null,
+  "document_end": null,
+  "in_force": "2006-06-01",
+  "article_versions": 16,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
