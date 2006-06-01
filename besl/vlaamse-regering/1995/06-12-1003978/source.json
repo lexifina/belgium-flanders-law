@@ -1,0 +1,17 @@
+{
+  "codex_id": 1003978,
+  "title": "Besluit van de Vlaamse Regering van 1995-06-12 houdende concordantie van de ambten van de leden van het bestuurs- en onderwijzend personeel van de hogescholen",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1003978/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "5e429be31478195cb53447f6e492c97b48e5550a504abb79762c67ee1fe0d649",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1003978&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "1995-06-12",
+  "gazette": "1995-09-06",
+  "numac": 1995036169,
+  "document_start": "1996-01-01",
+  "document_end": null,
+  "in_force": "2006-06-01",
+  "article_versions": 6,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
