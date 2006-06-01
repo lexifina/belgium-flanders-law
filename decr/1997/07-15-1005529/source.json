@@ -1,0 +1,17 @@
+{
+  "codex_id": 1005529,
+  "title": "Decreet van 1997-07-15 houdende invoering van een meer evenwichtige vertegenwoordiging van mannen en vrouwen in adviesorganen",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1005529/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "94f6fbb9ccd649b014c65d077aafc67f9bc3781d37260b070d445b2ea8a2c937",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1005529&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "1997-07-15",
+  "gazette": "1997-09-02",
+  "numac": 1997036077,
+  "document_start": "1997-09-15",
+  "document_end": "2007-08-15",
+  "in_force": "2006-06-01",
+  "article_versions": 10,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
