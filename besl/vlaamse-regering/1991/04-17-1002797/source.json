@@ -1,0 +1,17 @@
+{
+  "codex_id": 1002797,
+  "title": "Besluit van de Vlaamse Regering van 1991-04-17 houdende uitvoering van artikel 16 van het besluit van de Vlaamse regering van 31 juli 1990 houdende inrichting van het deeltijds beroepssecundair onderwijs",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1002797/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "5a938cfcc527195cf5f4b5651265fe7fa126db587e25d776bcf76674d78c9c12",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1002797&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "1991-04-17",
+  "gazette": "1991-06-12",
+  "numac": 1991035724,
+  "document_start": null,
+  "document_end": "2008-08-31",
+  "in_force": "2006-06-01",
+  "article_versions": 7,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
