@@ -1,0 +1,17 @@
+{
+  "codex_id": 1008467,
+  "title": "Besluit van de Vlaamse Regering van 2001-11-09 houdende normalisatie van sommige contractuele personeelsleden",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1008467/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "3691a4ddd3dc2781146da46c09aacc460060d039df87afbe620d733b5d450568",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1008467&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "2001-11-09",
+  "gazette": "2001-11-30",
+  "numac": 2001036366,
+  "document_start": "2001-12-01",
+  "document_end": null,
+  "in_force": "2006-06-01",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
