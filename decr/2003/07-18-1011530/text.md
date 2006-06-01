@@ -1,0 +1,207 @@
+# Decreet van 2003-07-18 kaderdecreet bestuurlijk beleid
+
+## HOOFDSTUK I ALGEMENE BEPALING
+
+### ART. 1.
+
+Dit decreet regelt een gemeenschaps- en gewestaangelegenheid.
+
+## HOOFDSTUK II ORGANISATIE VAN DE VLAAMSE ADMINISTRATIE
+
+### ART. 2.
+
+De Vlaamse administratie wordt opgebouwd op basis van homogene beleidsdomeinen.<br /><br />De Vlaamse regering stelt de homogene beleidsdomeinen vast.
+
+### ART. 3.
+
+Per homogeen beleidsdomein wordt een Vlaams ministerie opgericht. Een Vlaams ministerie bestaat uit een departement en, desgevallend, intern verzelfstandigde agentschappen zonder rechtspersoonlijkheid.<br /><br />Per homogeen beleidsdomein kunnen intern verzelfstandigde agentschappen met rechtspersoonlijkheid en extern verzelfstandigde agentschappen worden opgericht.<br /><br />Per homogeen beleidsdomein richt de Vlaamse regering een beleidsraad op. De beleidsraad is het forum waarop het politieke en het administratieve niveau overleg plegen en dat de regering ondersteunt bij de aansturing van het beleidsdomein. De regering bepaalt de samenstelling van de beleidsraad.
+
+### ART. 4.
+
+§ 1. De beleidsondersteunende taken worden toevertrouwd aan de departementen.<br /><br />§ 2. Taken van beleidsuitvoering worden toevertrouwd aan intern of extern verzelfstandigde agentschappen wanneer voldaan is aan de volgende cumulatieve voorwaarden:<br /><br />1° voldoende massa uitvoeringstaken voor het verzelfstandigde agentschap;<br /><br />2° meetbaarheid van de door het verzelfstandigde agentschap te leveren producten of diensten;<br /><br />3° reële mogelijkheid tot aansturing van het verzelfstandigde agentschap op grond van doelmatigheid, prestaties en kwaliteit;<br /><br />4° reëel invulbare informatierelatie.<br /><br />Als niet is voldaan aan de voorwaarden om taken van beleidsuitvoering aan een verzelfstandigd agentschap toe te vertrouwen, worden de departementen belast met die taken.<br /><br />§ 3. Per homogeen beleidsdomein wordt tussen de minister, het departement en de verzelfstandigde agentschappen een structurele samenspraak en samenwerking uitgebouwd, met het oog op de optimale realisatie van de beleidsdoelstellingen, en met respect voor ieders taakstelling en verantwoordelijkheid. Vanuit hun taakstelling inzake beleidsuitvoering leveren de agentschappen beleidsgerichte input.
+
+### ART. 5.
+
+De Vlaamse regering bepaalt de rechtspositieregeling van het personeel van de departementen, de intern verzelfstandigde agentschappen en de publiekrechtelijk vormgegeven extern verzelfstandigde agentschappen. De door de Vlaamse regering uitgewerkte regelingen voorzien in een globale interne arbeidsmarkt.
+
+## HOOFDSTUK III INTERN VERZELFSTANDIGDE AGENTSCHAPPEN
+
+## AFDELING 1 INTERN VERZELFSTANDIGDE AGENTSCHAPPEN ZONDER RECHTSPERSOONLIJKHEID
+
+### ART. 6.
+
+§ 1. De intern verzelfstandigde agentschappen zonder rechtspersoonlijkheid zijn diensten van de Vlaamse Gemeenschap die belast worden met taken van beleidsuitvoering en die beschikken over operationele autonomie zoals bedoeld in artikel 7.<br /><br />§ 2. De Vlaamse regering is gemachtigd om intern verzelfstandigde agentschappen zonder rechtspersoonlijkheid op te richten.<br /><br />Het oprichtingsbesluit omvat een opsomming van de doelstellingen en taken die aan het intern verzelfstandigde agentschap worden toevertrouwd. Bij het agentschap kan een raadgevend comité worden opgericht.<br /><br />§ 3. Het hoofd van een intern verzelfstandigd agentschap is het personeelslid dat, onverminderd de mogelijkheid tot delegatie en subdelegatie van die bevoegdheid, en in voorkomend geval bijgestaan door een adjunct, hierna algemeen directeur genoemd, door de Vlaamse regering wordt belast met de algemene leiding, de werking en de vertegenwoordiging van het agentschap.<br /><br />§ 4. De Vlaamse regering deelt het oprichtingsbesluit van een intern verzelfstandigd agentschap, evenals elke wijziging, opheffing of intrekking ervan, binnen de dertig dagen mee aan het Vlaams Parlement. De Vlaamse regering maakt een afschrift van dit besluit over aan het Rekenhof.
+
+### ART. 7.
+
+De intern verzelfstandigde agentschappen beschikken over operationele autonomie.<br /><br />Deze operationele autonomie en de wijze waarop de Vlaamse regering in dit kader ten aanzien van het hoofd van het agentschap van haar hiërarchisch gezag kan gebruikmaken, wordt op eenvormige wijze vastgesteld door de Vlaamse regering. Er wordt in ieder geval operationele autonomie gewaarborgd inzake:<br /><br />1° het vaststellen en wijzigen van de organisatiestructuur van het agentschap;<br /><br />2° de organisatie van de operationele processen met het oog op de realisatie van de afgesproken doelstellingen;<br /><br />3° de uitvoering van het personeelsbeleid;<br /><br />4° het aanwenden van de ter beschikking gestelde middelen voor:<br /><br />a) de werking van het agentschap;<br /><br />b) de uitvoering van de doelstellingen en taken van het agentschap;<br /><br />c) het sluiten van contracten ter verwezenlijking van de opdrachten van het agentschap;<br /><br />5° de interne controle binnen het intern verzelfstandigde agentschap.<br /><br />De Vlaamse regering kan specifieke delegaties aan het hoofd van het intern verzelfstandigde agentschap verlenen.
+
+### ART. 8.
+
+Tussen de Vlaamse regering en het hoofd van een intern verzelfstandigd agentschap wordt na onder-handeling een beheersovereenkomst gesloten.<br /><br />Artikel 1184 van het Burgerlijk Wetboek is niet van toepassing op de beheersovereenkomst. Het intern verzelfstandigd agentschap jegens wie een verbintenis in het beheersovereenkomst niet wordt uitgevoerd, kan enkel de uitvoering van de verplichting eisen, en in voorkomend geval, schadevergoeding vragen, onverminderd de toepassing van de bijzondere sancties bepaald in de beheersovereenkomst.<br /><br />De beheersovereenkomst, evenals elke verlenging, wijziging, schorsing of ontbinding ervan, wordt, voor de ondertekening ervan, door de Vlaamse regering meegedeeld aan het Vlaams Parlement. Het Vlaams Parlement toetst binnen de maand de overeenstemming tussen de beheersovereenkomst en de doelstellingen van de goedgekeurde beleidsnota.
+
+### ART. 9.
+
+§ 1. De beheersovereenkomst regelt de volgende aangelegenheden:<br /><br />1° de concretisering van de kwalitatieve en kwantitatieve wijze waarop het agentschap zijn taken moet vervullen, met strategische en operationele doelstellingen, beschreven aan de hand van meetbare criteria;<br /><br />2° de toekenning van middelen voor de eigen werking van het agentschap en de toekenning van middelen voor de uitvoering van de doelstellingen en taken waarvoor het agentschap werd opgericht;<br /><br />3° de voorwaarden waaronder eigen inkomsten of andere financieringen mogen worden verworven of ter beschikking mogen worden gesteld;<br /><br />4° de informatieverstrekking door het agentschap aan de Vlaamse regering; er wordt minstens voorzien in een jaarlijks ondernemingsplan en een operationeel plan op middellange en lange termijn;<br /><br />5° de rapportering door het agentschap aan de Vlaamse regering op basis van beleids- en beheersrelevante indicatoren en kengetallen; er wordt minstens voorzien in:<br /><br />a) een jaarlijks rapport vóór 31 maart van het volgende jaar, betreffende de uitvoering van de beheersovereenkomst gedurende het afgelopen kalenderjaar;<br /><br />b) een eindrapport betreffende de uitvoering van de beheersovereenkomst sinds de inwerkingtreding ervan, zes maanden vóór het aflopen van de duurtijd van de beheersovereenkomst;<br /><br />6° in voorkomend geval, de structuur van de tarieven die betrekking hebben op de door het agentschap aan de burgers te leveren diensten;<br /><br />7° in voorkomend geval, de gedragsregels die betrekking hebben op de door het agentschap aan de burgers te leveren diensten;<br /><br />8° in voorkomend geval, de bepalingen inzake de toewijzing door de Vlaamse regering aan het agentschap van bijzondere opdrachten die aansluiten bij de doelstellingen van het agentschap;<br /><br />9° de maatregelen bij niet-naleving door een partij van haar verbintenissen uit hoofde van de beheersovereenkomst en de bepalingen inzake beslechting van geschillen die rijzen bij de uitvoering van de beheersovereenkomst;<br /><br />10° de omstandigheden waarin en de wijze waarop de beheersovereenkomst kan worden verlengd, gewijzigd, geschorst en ontbonden;<br /><br />11° de wijze waarop de beheersovereenkomst, de verlenging, de wijziging, de schorsing en de ontbinding ervan worden bekendgemaakt.<br /><br />§ 2. De Vlaamse regering kan de inhoud, vorm, modaliteiten, opvolging en evaluatie van de beheersovereenkomsten nader regelen bij besluit.<br /><br />§ 3. Onder voorbehoud van de mogelijkheid tot verlenging, wijziging, schorsing en ontbinding van de beheersovereen-komst, wordt die gesloten voor een periode die eindigt uiterlijk negen maanden na de beëdiging van een nieuwe Vlaamse regering na algehele vernieuwing van het Vlaams Parlement.<br /><br />De beheersovereenkomst en de uitvoering ervan wordt jaarlijks geëvalueerd door de Vlaamse regering.<br /><br />§ 4. Als bij het verstrijken van een beheersovereenkomst geen nieuwe beheersovereenkomst in werking is getreden, wordt de bestaande overeenkomst van rechtswege verlengd, tot op het ogenblik dat een nieuwe beheersovereenkomst in werking treedt.<br /><br />Als geen nieuwe beheersovereenkomst in werking is getreden binnen een termijn van één jaar na de in het voorgaande lid bedoelde verlenging, of wanneer een beheersovereenkomst werd ontbonden of geschorst, kan de Vlaamse regering na overleg met het hoofd van het intern verzelfstandigde agentschap voorlopige regels vaststellen inzake de in paragraaf 1 bedoelde aangelegenheden. Deze voorlopige regels zullen als beheersovereenkomst gelden tot op het ogenblik dat een nieuwe beheersovereenkomst in werking treedt.
+
+## AFDELING 2 INTERN VERZELFSTANDIGDE AGENTSCHAPPEN MET RECHTSPERSOONLIJKHEID
+
+### ART. 10.
+
+§ 1. Intern verzelfstandigde agentschappen met rechtspersoonlijkheid zijn rechtspersonen die belast worden met taken van beleidsuitvoering, die onderworpen zijn aan het gezag van de Vlaamse regering maar beschikken over operationele autonomie zoals bedoeld in artikel 7.<br /><br />§ 2. Intern verzelfstandigde agentschappen met rechtspersoonlijkheid worden opgericht bij decreet.<br /><br />Het oprichtingsdecreet omvat een opsomming van de doelstellingen en taken die aan het intern verzelfstandigde agentschap met rechtspersoonlijkheid worden toevertrouwd. Bij het agentschap kan een raadgevend comité worden opgericht.<br /><br />§ 3. Een intern verzelfstandigd agentschap met rechtspersoonlijkheid wordt slechts opgericht na een voorafgaande afweging van de voor- en nadelen van het verlenen van rechtspersoonlijkheid en als hieruit blijkt dat een intern verzelfstandigd agentschap zonder rechtspersoonlijkheid niet dezelfde voordelen kan bieden.<br /><br />§ 4. De artikelen 6, § 3, 7, 8, 9, 24, 25, 26, 27 en 28 zijn toepasselijk op de intern verzelfstandigde agentschappen met rechtspersoonlijkheid.
+
+## HOOFDSTUK IV EXTERN VERZELFSTANDIGDE AGENTSCHAPPEN
+
+## AFDELING 1 TOEPASSINGSGEBIED
+
+### ART. 11.
+
+§ 1. Dit hoofdstuk is van toepassing op de extern verzelfstandigde agentschappen die afhangen van de Vlaamse Gemeenschap of het Vlaamse Gewest.<br /><br />§ 2. Tot de categorie van de extern verzelfstandigde agentschappen behoort elke rechtspersoon die:<br /><br />1° door de Vlaamse Gemeenschap of het Vlaamse Gewest wordt opgericht voor het vervullen van taken van beleidsuitvoering, of waarin die overheden met dat doel participeren;<br /><br />2° en onder een determinerende invloed staat van de Vlaamse Gemeenschap of het Vlaamse Gewest, hetgeen blijkt als:<br /><br />a) ofwel de werkzaamheden ervan in hoofdzaak gefinancierd of gedekt worden door de Vlaamse Gemeenschap of het Vlaamse Gewest;<br /><br />b) ofwel het beheer ervan onderworpen is aan het toezicht van de Vlaamse Gemeenschap of het Vlaamse Gewest;<br /><br />c) ofwel de leden van de bestuursorganen voor meer dan de helft door de Vlaamse Gemeenschap of het Vlaamse Gewest zijn aangewezen, in voorkomend geval met uitsluiting van de onafhankelijke bestuurders bedoeld in artikel 18, § 2;<br /><br />3° met uitsluiting van volgende rechtspersonen:<br /><br />a) de inrichtende macht van het Gemeenschapsonderwijs en de onderwijsinstellingen die gefinancierd of gesubsidieerd worden door de Vlaamse Gemeenschap;<br /><br />b) de socialehuisvestingsmaatschappijen;<br /><br />c) de intern verzelfstandigde agentschappen met rechtspersoonlijkheid.<br /><br />§ 3. Een extern verzelfstandigd agentschap wordt opgericht na een voorafgaande afweging van de voor- en de nadelen van externe verzelfstandiging en als hieruit blijkt dat een interne verzelfstandiging niet dezelfde voordelen kan bieden.<br /><br />Als voordelen voor externe verzelfstandiging gelden minimaal:<br /><br />1° de mogelijkheid te voorzien in een verregaande autonomie en onafhankelijkheid van de uitvoering;<br /><br />2° het mogelijk maken van een structurele medezeggenschap of een financiële participatie van een andere overheid of andere personen.
+
+## AFDELING 2 DEELNAME IN ANDERE RECHTSPERSONEN
+
+### ART. 12.
+
+Met uitzondering voor de participaties in het kader van de Vlaamse publiek-private samenwerkings-projecten, kunnen de extern verzelfstandigde agentschappen binnen de perken van hun maatschappelijk doel instellingen, verenigingen en ondernemingen oprichten, erin deelnemen of zich erin laten vertegenwoordigen. Ingeval deze oprichting, deelneming of vertegenwoordiging gebeurt met het oog op de uitvoering van taken van beleidsuitvoering, moet daartoe een voorafgaande machtiging door de Vlaamse regering worden verleend. De verleende machtigingen worden binnen dertig dagen meegedeeld aan het Vlaams Parlement.
+
+## AFDELING 3 DE PUBLIEKRECHTELIJK VORMGEGEVEN EXTERN VERZELFSTANDIGDE AGENTSCHAPPEN
+
+## ONDERAFDELING 1 DEFINITIE EN OPRICHTING
+
+### ART. 13.
+
+De publiekrechtelijk vormgegeven extern verzelfstandigde agentschappen zijn de in artikel 11 bedoelde rechtspersonen, waarvan de rechtsvorm niet in overeenstemming is met de dwingende bepalingen van het private vennootschaps- of verenigingsrecht.<br /><br />De publiekrechtelijk vormgegeven extern verzelfstandigde agentschappen worden opgericht bij decreet.
+
+## ONDERAFDELING 2 [... (opgeh. decr. 26 juni 2015, art. 8, I: 1 januari 2015)]
+
+### ART. 14.
+
+§ 1. Tussen de Vlaamse regering die optreedt voor de Vlaamse Gemeenschap of het Vlaamse Gewest enerzijds en een publiekrechtelijk vormgegeven extern verzelfstandigd agentschap anderzijds, wordt na onderhandeling een beheersovereenkomst gesloten.<br /><br />Het publiekrechtelijk vormgegeven extern verzelfstandigde agentschap wordt bij het sluiten van de beheersovereenkomst vertegenwoordigd door de raad van bestuur.<br /><br />Artikel 1184 van het Burgerlijk Wetboek is niet van toepassing op de beheersovereenkomst. Het publiekrechtelijk vormgegeven extern verzelfstandigd agentschap jegens wie een verbintenis in het beheersovereenkomst niet wordt uitgevoerd, kan enkel de uitvoering van de verplichting eisen, en in voorkomend geval, schadevergoeding vragen, onverminderd de toepassing van de bijzondere sancties bepaald in de beheersovereenkomst.<br /><br />§ 2. De beheersovereenkomst, evenals elke verlenging, wijziging, schorsing of ontbinding ervan, wordt, voor de ondertekening ervan, door de Vlaamse regering meegedeeld aan het Vlaams Parlement. Het Vlaams Parlement toetst binnen de maand de overeenstemming tussen de beheersovereenkomst en de doelstellingen van de goedgekeurde beleidsnota.
+
+### ART. 15.
+
+§ 1. De beheersovereenkomst regelt de volgende aangelegenheden:<br /><br />1° de concretisering van de kwalitatieve en kwantitatieve wijze waarop het agentschap zijn taken moet vervullen, met strategische en operationele doelstellingen, beschreven aan de hand van meetbare criteria;<br /><br />2° de toekenning van middelen voor enerzijds de eigen werking van het agentschap en anderzijds de uitvoering van de doelstellingen en taken waarvoor het agentschap werd opgericht;<br /><br />3° de voorwaarden waaronder eigen inkomsten of andere financieringen mogen worden verworven of ter beschikking mogen worden gesteld;<br /><br />4° de informatieverstrekking door het agentschap aan de Vlaamse regering; er wordt minstens voorzien in een jaarlijks ondernemingsplan en een operationeel plan op middellange en lange termijn;<br /><br />5° de rapportering door het agentschap aan de Vlaamse regering op basis van beleids- en beheersrelevante indicatoren en kengetallen; er wordt minstens voorzien in:<br /><br />a) een jaarlijks rapport vóór 31 maart van het volgende jaar, betreffende de uitvoering van de beheersovereenkomst gedurende het afgelopen kalenderjaar;<br /><br />b) een eindrapport betreffende de uitvoering van de beheersovereenkomst sinds de inwerkingtreding ervan, zes maanden voor het aflopen van de duurtijd van de beheersovereenkomst;<br /><br />6° in voorkomend geval, de structuur van de tarieven die betrekking hebben op de door het agentschap aan de burgers te leveren diensten;<br /><br />7° in voorkomend geval, de gedragsregels die betrekking hebben op de door het agentschap aan de burgers te leveren diensten;<br /><br />8° in voorkomend geval, de bepalingen inzake de toewijzing door de Vlaamse regering aan het agentschap van bijzondere opdrachten die aansluiten bij de doelstellingen van het agentschap;<br /><br />9° de maatregelen bij niet-naleving door een partij van haar verbintenissen uit hoofde van de beheersovereenkomst en de bepalingen inzake beslechting van geschillen die rijzen bij de uitvoering van de beheersovereenkomst;<br /><br />10° de omstandigheden waarin en de wijze waarop de beheersovereenkomst kan worden verlengd, gewijzigd, geschorst en ontbonden;<br /><br />11° de wijze waarop de beheersovereenkomst, de verlenging, de wijziging, de schorsing en de ontbinding ervan worden bekendgemaakt.<br /><br />§ 2. De Vlaamse regering kan in dit kader de inhoud, vorm, modaliteiten, opvolging en evaluatie van de beheersovereen-komsten nader regelen bij besluit.
+
+### ART. 16.
+
+§ 1. Onder voorbehoud van de mogelijkheid tot verlenging, wijziging, schorsing en ontbinding van de beheersovereenkomst, wordt die gesloten voor een periode die eindigt uiterlijk negen maanden na de beëdiging van een nieuwe Vlaamse regering na algehele vernieuwing van het Vlaams Parlement.<br /><br />De beheersovereenkomst en de uitvoering ervan wordt jaarlijks geëvalueerd door de Vlaamse regering.<br /><br />§ 2. Als bij het verstrijken van een beheersovereenkomst geen nieuwe beheersovereenkomst in werking is getreden, wordt de bestaande overeenkomst van rechtswege verlengd, tot op het ogenblik dat een nieuwe beheersovereenkomst in werking treedt.<br /><br />Als geen nieuwe beheersovereenkomst in werking is getreden binnen een termijn van één jaar na de in het voorgaande lid bedoelde verlenging, of wanneer een beheersovereenkomst werd ontbonden of geschorst, kan de Vlaamse regering na overleg met het publiekrechtelijk vormgegeven extern verzelfstandigde agentschap in kwestie voorlopige regels vaststellen inzake de in artikel 15 bedoelde aangelegenheden. Deze voorlopige regels zullen als nieuwe beheersovereenkomst gelden tot op het ogenblik dat een nieuwe beheersovereenkomst in werking treedt.
+
+## ONDERAFDELING 3 BESTUUR
+
+### ART. 17.
+
+Ieder publiekrechtelijk vormgegeven extern verzelfstandigd agentschap heeft een raad van bestuur die als college bevoegd is om alle handelingen te verrichten die nodig of dienstig zijn voor de verwezenlijking van het doel van het agentschap.
+
+### ART. 18.
+
+§ 1. De leden van de raad van bestuur, de onafhankelijke leden uitgezonderd, worden door de Vlaamse regering aangesteld voor een hernieuwbare termijn van vijf jaar die in beginsel aanvangt zes maanden na de beëdiging van een nieuwe Vlaamse regering na algehele vernieuwing van het Vlaams Parlement. Wanneer tussen de beëdiging van twee opeenvolgende regeringen minder of meer dan vijf jaar is verlopen, wordt deze termijn overeenkomstig aangepast.<br /><br />Wanneer in de loop van de in het eerste lid bepaalde termijn een mandaat van lid van de raad van bestuur vrijkomt, stelt de Vlaamse regering een nieuwe mandataris aan die het mandaat overneemt voor de nog resterende looptijd ervan.<br /><br />In voorkomend geval wordt het mandaat van al de zittende bestuurders ambtshalve verlengd tot wanneer de Vlaamse regering bij het verstrijken van de overeenkomstig het eerste lid bepaalde termijn de leden van de raad van bestuur heeft aangesteld.<br /><br />§ 2. De door de Vlaamse regering aangestelde leden van de raad van bestuur kunnen bij consensus onafhankelijke bestuurders coöpteren, voor een termijn die eindigt uiterlijk samen met de in § 1 bedoelde termijn. De onafhankelijke bestuurders, waarvan het aantal een vierde van het aantal stemgerechtigde leden van de raad van bestuur niet mag overschrijden, worden gecopteerd vanwege hun voor het bestuur van het agentschap relevante expertise en vanwege hun onafhankelijkheid ten aanzien van het dagelijks bestuur van het publiekrechtelijk vormgegeven extern verzelfstandigde agentschap, de Vlaamse Gemeenschap, het Vlaamse Gewest en de andere personen die eventueel participeren of vertegenwoordigd zijn in het agentschap.<br /><br />§ 3. De door de Vlaamse regering voorgedragen leden van de raad van bestuur kunnen te allen tijde worden ontslagen door de Vlaamse regering.<br /><br />De onafhankelijke bestuurders kunnen te allen tijde bij tweederde meerderheid ontslagen worden door de leden van de raad van bestuur die door de Vlaamse regering zijn aangesteld.<br /><br />§ 4. De Vlaamse regering zal een organieke regeling inzake de vergoeding van bestuurders bepalen.
+
+### ART. 19.
+
+Als een bestuurder, rechtstreeks of onrechtstreeks, een belang van vermogensrechtelijke aard heeft dat strijdig is met een beslissing of een verrichting die tot de bevoegdheid behoort van de raad van bestuur, mag hij niet deelnemen aan de beraadslagingen van de raad van bestuur over deze verrichtingen of beslissingen, noch aan de stemming in dat verband.
+
+### ART. 20.
+
+De bestuurders zijn verantwoordelijk voor de vervulling van de hun opgedragen taak en aansprakelijk voor de tekortkomingen in hun bestuur. Zij zijn hetzij jegens het publiekrechtelijk vormgegeven extern verzelfstandigde agentschap, hetzij jegens derden, hoofdelijk aansprakelijk voor alle schade die het gevolg is van overtreding van dit decreet, het oprichtingsdecreet van het publiekrechtelijk vormgegeven extern verzelfstandigde agentschap en de uitvoeringsbesluiten van die decreten.<br /><br />Ten aanzien van de overtredingen waaraan zij geen deel hebben gehad, worden de bestuurders van die aansprakelijkheid ontheven als hun geen schuld kan worden verweten en als zij die overtredingen hebben aangeklaagd bij de Vlaamse regering binnen een maand nadat zij er kennis van hebben gekregen.<br /><br />Jaarlijks beslist de Vlaamse regering over de aan de bestuurders te verlenen kwijting, na goedkeuring van de rekeningen door het Vlaams Parlement. Deze kwijting is alleen rechtsgeldig wanneer de ware toestand van het agentschap niet wordt verborgen door enige weglating of onjuiste opgave in de rekeningen van het agentschap of in de rapportering betreffende de uitvoering van de beheersovereenkomst.
+
+### ART. 21.
+
+§ 1. Onder voorbehoud van eventuele andere onverenigbaarheden, is het mandaat van bestuurder van een publiekrechtelijk vormgegeven extern verzelfstandigd agentschap onverenigbaar met:<br /><br />1° een mandaat in het Europees Parlement, de Kamer van volksvertegenwoordigers, de Senaat, het Vlaams Parlement en de Brusselse Hoofdstedelijke Raad;<br /><br />2° het ambt van minister, staatssecretaris en hun kabinetsleden;<br /><br />3° het ambt van personeelslid van het extern verzelfstandigde agentschap, de gedelegeerd bestuurder en algemeen directeur in voorkomend geval uitgezonderd.<br /><br />§ 2. Wanneer een bestuurder de bepalingen van § 1 overtreedt, beschikt hij over een termijn van drie maanden om de mandaten of functies die tot de onverenigbaarheid aanleiding geven, neer te leggen.<br /><br />Als de bestuurder nalaat de onverenigbare mandaten of functies neer te leggen, wordt hij na afloop van de in het eerste lid bepaalde termijn van rechtswege geacht zijn mandaat in het agentschap te hebben neergelegd, zonder dat dit afbreuk doet aan de rechtsgeldigheid van de handelingen die hij inmiddels heeft gesteld of van de beraadslagingen waaraan hij inmiddels heeft deelgenomen. In zijn vervanging wordt voorzien overeenkomstig de bepalingen in artikel 18.
+
+### ART. 22.
+
+§ 1. De raad van bestuur en de managementfunctie van een publiekrechtelijk vormgegeven extern verzelfstandigd agentschap worden volgens een van de volgende modellen gestructureerd:<br /><br />1° de Vlaamse regering stelt de gedelegeerd bestuurder aan die belast is met het dagelijks bestuur, evenals in voorkomend geval een algemeen directeur;<br /><br />2° de raad van bestuur stelt het hoofd van het agentschap aan dat belast is met het dagelijks bestuur, evenals in voorkomend geval een algemeen directeur.<br /><br />§ 2. De raad van bestuur kan bevoegdheden delegeren aan de organen die hij intern opricht, alsook aan, naargelang van het geval, het hoofd of de gedelegeerd bestuurder.
+
+## ONDERAFDELING 4 TOEZICHT
+
+### ART. 23.
+
+Een publiekrechtelijk vormgegeven extern verzelfstandigd agentschap staat onder het toezicht van de Vlaamse regering overeenkomstig de bepalingen van dit decreet.<br /><br />De Vlaamse regering kan te allen tijde ter plaatse inzage nemen van de boeken, brieven, notulen en, in het algemeen, van alle documenten en geschriften van het publiekrechtelijk vormgegeven extern verzelfstandigde agentschap. Ze kan van de gedelegeerd bestuurder of van het hoofd van het agentschap en van de leden van de raad van bestuur alle ophelderingen en inlichtingen vorderen en alle verificaties laten verrichten die ze nodig acht.
+
+## ONDERAFDELING 5 FINANCIËLE BEPALINGEN
+
+### ART. 24.
+
+§ 1. De publiekrechtelijk vormgegeven extern verzelfstandigde agentschappen kunnen verplicht worden hun financiële rekeningen te hebben en hun beleggingen onder te brengen bij een door de Vlaamse regering aan te wijzen kredietinstelling.<br /><br />§ 2. De Vlaamse regering wordt ertoe gemachtigd de modaliteiten van § 1 te bepalen.<br /><br />§ 3. De middelen die vanuit de begroting van de Vlaamse Gemeenschap aan de publiekrechtelijk vormgegeven extern verzelfstandigde agentschappen toegekend worden, mogen gestort worden via rekeningen die hiertoe door de Vlaamse Gemeenschap bij haar financiële instelling en op haar naam geopend worden.
+
+### ART. 25.
+
+Publiekrechtelijk vormgegeven extern verzelfstandigde agentschappen kunnen verplicht worden de Vlaamse Gemeenschap als lasthebber aan te wijzen voor hun financieringen.<br /><br />De Vlaamse regering stelt de lijst vast van de agentschappen waarvoor de Vlaamse Gemeenschap kan optreden als lasthebber bij het aangaan van leningen.
+
+### ART. 26.
+
+Publiekrechtelijk vormgegeven extern verzelfstandigde agentschappen kunnen door de Vlaamse regering verplicht worden verzekeringen aan te gaan bij een of meer door de Vlaamse regering aan te wijzen instellingen.
+
+## ONDERAFDELING 6 DIVERSE BEPALINGEN
+
+### ART. 27.
+
+De publiekrechtelijk vormgegeven extern verzelfstandigde agentschappen worden met de Vlaamse Gemeenschap en het Vlaamse Gewest gelijkgesteld voor de toepassing van de wetten en decreten betreffende de indirecte en directe belastingen waarvoor de Vlaamse Gemeenschap of het Vlaamse Gewest bevoegd is het toepassingsgebied te bepalen.
+
+### ART. 28.
+
+§ 1. Op verzoek van een publiekrechtelijk vormgegeven extern verzelfstandigd agentschap en met akkoord van de Vlaamse regering kunnen de door de Vlaamse regering aangestelde personeelsleden belast worden met het invorderen van de onbetwiste en opeisbare niet-fiscale schuldvorderingen in naam en voor rekening van dit agentschap.<br /><br />De met invordering belaste personeelsleden zijn gemachtigd om een dwangbevel uit te vaardigen. Het dwangbevel wordt geviseerd en uitvoerbaar verklaard door het daartoe door de Vlaamse regering aangewezen personeelslid en wordt betekend bij exploot van een gerechtsdeurwaarder.<br /><br />§ 2. Onverminderd specifieke regelingen in wetten, decreten en verordeningen, zijn de in § 1 bedoelde personeelsleden gemachtigd om, mits instemming van het publiekrechtelijk vormgegeven extern verzelfstandigde agentschap in kwestie, aan de schuldenaars van onbetwiste en opeisbare niet-fiscale schuldvorderingen die bijzondere omstandigheden kunnen bewijzen, uitstel van betaling toe te staan en gedeeltelijke betalingen vooreerst op het kapitaal aan te rekenen.<br /><br />De in § 1 bedoelde personeelsleden kunnen, met instemming van het betrokken publiekrechtelijk vormgegeven extern verzelfstandigde agentschap in kwestie, gehele of gedeeltelijke kwijtschelding van de schuld in intresten verlenen wanneer de schuldenaar kennelijk onvermogend is.
+
+## AFDELING 4 DE PRIVAATRECHTELIJK VORMGEGEVEN EXTERN VERZELFSTANDIGDE AGENTSCHAPPEN
+
+### ART. 29.
+
+De privaatrechtelijk vormgegeven extern verzelfstandigde agentschappen zijn de in artikel 11 bedoelde rechtspersonen, waarvan de rechtsvorm volledig in overeenstemming is met de dwingende bepalingen van het private vennootschaps- of verenigingsrecht.<br /><br />Tot oprichting van een extern verzelfstandigd agentschap in privaatrechtelijke vorm kan pas worden overgegaan na een voorafgaande afweging van de voor- en de nadelen van externe verzelfstandiging in privaatrechtelijke vorm en als hieruit blijkt dat een externe verzelfstandiging in publiekrechtelijke vorm niet dezelfde voordelen kan bieden.
+
+### ART. 30.
+
+De Vlaamse Gemeenschap en het Vlaamse Gewest kunnen een privaatrechtelijk vormgegeven extern verzelfstandigd agentschap oprichten of erin deelnemen, op grond van een uitdrukkelijk hiertoe door de decreetgever verstrekte machtiging. Die machtiging stelt de beleidsuitvoerende taken vast met het oog waarop die oprichting of deelname kan plaatsvinden, alsook de personeelsleden, infrastructuur en middelen die hiertoe aan de privaatrechtelijk vormgegeven extern verzelfstandigde agentschappen ter beschikking kunnen worden gesteld.
+
+### ART. 31.
+
+Tussen een privaatrechtelijk vormgegeven extern verzelfstandigd agentschap en de Vlaamse regering, die optreedt voor de Vlaamse Gemeenschap of het Vlaamse Gewest, wordt na onderhandeling een samenwerkingsovereen-komst gesloten betreffende de samenwerking tussen de Vlaamse Gemeenschap of het Vlaamse Gewest, enerzijds, en het privaatrechtelijk vormgegeven extern verzelfstandigde agentschap, anderzijds, en, in voorkomend geval, betreffende de aanwending van de aan het agentschap ter beschikking gestelde personeelsleden, middelen en infrastructuur.<br /><br />De samenwerkingsovereenkomst, evenals elke verlenging, wijziging, schorsing of ontbinding ervan, wordt door de Vlaamse regering binnen dertig kalenderdagen meegedeeld aan het Vlaams Parlement.
+
+## HOOFDSTUK V DEELNAME VAN DE VLAAMSE GEMEENSCHAP EN HET VLAAMSE GEWEST IN ANDERE RECHTSPERSONEN
+
+### ART. 32.
+
+Met uitzondering voor de participaties in het kader van de Vlaamse publiek-private samenwerkings-projecten, zijn de Vlaamse Gemeenschap, het Vlaamse Gewest en de intern verzelfstandigde agentschappen met rechtspersoonlijkheid gemachtigd om op grond van het private vennootschaps- of verenigingsrecht, instellingen, verenigingen en ondernemingen op te richten of erin deel te nemen, voorzover het niet met een bevoegdheidsoverdracht gepaard gaat.
+
+## HOOFDSTUK VI INTERNE CONTROLE EN INTERNE AUDIT
+
+### ART. 33.
+
+De departementen, de intern verzelfstandigde agentschappen en de extern verzelfstandigde agent-schappen staan in voor de interne controle van hun bedrijfsprocessen en activiteiten.<br /><br />De interne controle is in het bijzonder gericht op:<br /><br />1° het effectief en efficiënt beheer van risico's;<br /><br />2° de betrouwbaarheid van de financiële en beheersrapportering;<br /><br />3° de naleving van de regelgeving en de procedures;<br /><br />4° de effectieve en efficiënte werking van de diensten;<br /><br />5° de bescherming van de activa.
+
+### ART. 34.
+
+§ 1. De entiteit Interne Audit van de Vlaamse Gemeenschap evalueert de interne controlesystemen van de departementen, de intern verzelfstandigde agentschappen en de publiekrechtelijk vormgegeven extern verzelfstandigde agentschappen, gaat na of ze adequaat zijn en formuleert aanbevelingen tot verbetering daarvan. Zij voert daartoe financiële audits, overeenstemmingsaudits en operationele audits uit en is gemachtigd alle bedrijfsprocessen en activiteiten te onderzoeken.<br /><br />De entiteit Interne Audit is tevens bevoegd voor het uitvoeren van administratieve onderzoeken bij de voormelde administratieve entiteiten.<br /><br />De Vlaamse regering regelt de oprichting en de interne werking van en het toezicht op deze entiteit.<br /><br />§ 2. Om haar bevoegdheid te kunnen uitoefenen, heeft de entiteit Interne Audit toegang tot alle informatie en documenten. Ze kan aan ieder personeelslid de inlichtingen vragen die ze voor de uitvoering van haar opdrachten nodig acht. Ieder personeelslid is ertoe gehouden op een volledige wijze te antwoorden en alle relevante informatie en documenten te verstrekken.<br /><br />[§ 3. Elk personeelslid heeft het recht om de Interne Audit rechtstreeks op de hoogte te brengen van onregelmatigheden die hij in de uitoefening van zijn functie vaststelt.  <span class="reference">(ing. decr. 7 mei 2004, art. 7, I: 1 januari 2005)</span> ]
+
+## HOOFDSTUK VII OVERGANG VAN PERSONEEL, GOEDEREN, RECHTEN EN VERPLICHTINGEN
+
+### ART. 35.
+
+§ 1. De Vlaamse regering regelt de toewijzing van de personeelsleden, de goederen, de rechten en verplichtingen, van de diensten, instellingen en rechtspersonen die afhangen van de Vlaamse Gemeenschap of van het Vlaamse Gewest, aan de departementen, de intern verzelfstandigde agentschappen en de extern verzelfstandigde agentschappen, met het oog op de uitoefening van de hun toegewezen taken.<br /><br />De besluiten die krachtens het eerste lid worden vastgesteld, kunnen de van kracht zijnde decretale bepalingen wijzigen, vervangen of opheffen.<br /><br />§ 2. De bevoegdheid die bij § 1 aan de Vlaamse regering wordt opgedragen, vervalt op de datum van de toewijzing van het personeel, van de goederen en van de rechten en plichten.<br /><br />De besluiten die krachtens § 1 zijn vastgesteld, houden op uitwerking te hebben indien zij niet bij decreet bekrachtigd zijn binnen de 12 maanden na de datum van hun inwerkingtreding. De bekrachtiging werkt terug tot deze laatste datum.<br /><br />Na de in het eerste lid bedoelde data kunnen de besluiten die krachtens § 1 zijn vastgesteld en bekrachtigd alleen bij decreet worden gewijzigd, vervangen of opgeheven.
+
+## HOOFDSTUK VIII INFORMATIEVERSTREKKING AAN HET VLAAMS PARLEMENT
+
+### ART. 36.
+
+§ 1. De Vlaamse regering houdt een volledig en geactualiseerd overzicht bij van alle intern en extern verzelfstandigde agentschappen, hun beheersovereenkomsten en eventuele statuten.<br /><br />De lijst van de intern en extern verzelfstandigde agentschappen wordt jaarlijks als bijlage bij het ontwerp van begrotingsdecreet aan het Vlaams Parlement toegestuurd.<br /><br />§ 2. De Vlaamse regering brengt jaarlijks verslag uit aan het Vlaams Parlement over de activiteiten van de intern en extern verzelfstandigde agentschappen, over de uitvoering van de beheersovereenkomsten en over de activiteiten van de instellingen, verenigingen en ondernemingen, bedoeld in artikelen 12 en 32.<br /><br />De Vlaamse regering bezorgt de rekeningen van de intern en extern verzelfstandigde agentschappen aan het Vlaams Parlement.
+
+## HOOFDSTUK IX OPHEFFINGSBEPALINGEN EN OVERGANGSMAATREGELEN
+
+### ART. 37.
+
+(niet opgenomen)<br /><br />(De volgende regelingen worden opgeheven voor de rechtspersonen die afhangen van de Vlaamse Gemeenschap of van het Vlaamse Gewest:<br /><br />1° hoofdstuk II van de wet van 20 februari 1990 betreffende het personeel van de overheidsbesturen en van sommige instellingen van openbaar nut;<br /><br />2° titel II en hoofdstuk 3 van titel III van het decreet van 12 december 1990 betreffende het bestuurlijk beleid;<br /><br />3° de wet van 16 maart 1954 betreffende de controle op sommige instellingen van openbaar nut, wat betreft de aangelegenheden geregeld in dit decreet;<br /><br />4° artikel 11 van het decreet van 20 december 1996 houdende bepalingen tot begeleiding van de begroting 1997;<br /><br />5° artikelen 9 en 10 van het decreet van 16 december 1997 houdende bepaling inzake kas-, schuld- en waarborgbeheer van de Vlaamse Gemeenschap;<br /><br />6° artikelen 25 tot 28 van het decreet van 8 december 2000 houdende diverse bepalingen)
+
+### ART. 38.
+
+Voor de diensten, instellingen en rechtspersonen die afhangen van de Vlaamse Gemeenschap of het Vlaamse Gewest en bestaan op het ogenblik van de inwerkingtreding van dit decreet, blijven de bepalingen die hun rechtspositie regelen van toepassing tot op het moment dat hun organieke regelgeving aangepast is aan de bepalingen van dit decreet.
+
+### ART. 39.
+
+§ 1. In de departementen, de intern verzelfstandigde agentschappen zonder rechtspersoonlijkheid, de intern verzelfstandigde agentschappen met rechtspersoonlijkheid en de publiekrechtelijk vormgegeven extern verzelfstandigde agentschappen wordt de dagelijkse leiding uitgeoefend door de houders van een managementfunctie van N-niveau, onverminderd artikel 6, § 3.<br /><br />In voorkomend geval oefenen de houders van een projectleiderfunctie van N-niveau de dagelijkse leiding uit over het project waarmee zij zijn belast.<br /><br />De houders van een management- of projectleiderfunctie en de algemeen directeur worden aangeduid overeenkomstig de reglementaire bepalingen betreffende de aanduiding en uitoefening van de management- en projectleiderfunctie van N-niveau en de functie van algemeen directeur binnen de Vlaamse overheid.<br /><br />§ 2. In afwijking van § 1 worden de management- en projectleiderfuncties van N-niveau, bij de eerste bezetting, ingevuld via herplaatsing van de leidinggevenden die benoemd zijn of benoemd zijn geweest in een graad van rang A4 of A3 of een contractuele betrekking bekleden waaraan ten minste een salarisschaal van rang A4 of A3 gekoppeld is, in één van de in § 1 vermelde entiteiten of hun rechtsvoorganger.<br /><br />§ 3. In afwijking van § 1 wordt in voorkomend geval de functie van algemeen directeur bij de eerste bezetting ingevuld via herplaatsing van de leidinggevenden die een graad bekleden van rang A2L.<br /><br />§ 4. De Vlaamse regering of de raad van bestuur, voor de extern verzelfstandigde agentschappen die krachtens hun oprichtingsdecreet zelf het hoofd van het agentschap aanstellen, voert de herplaatsing uit. [...  <span class="reference">(geschr. decr. 15 juli 2005, art. 2, I: 4 september 2005)</span> ]
+
+### ART. 40.
+
+De leidinggevenden die benoemd zijn of benoemd zijn geweest in een graad van rang A4 of A3 of een graad bekleden van rang A2L, en die naar aanleiding van de eerste bezetting van de management- en projectleiderfuncties van N-niveau of van de functie van algemeen directeur in de in artikel 39, § 1 bedoelde entiteiten [niet worden herplaatst,  <span class="reference">(verv. decr. 15 juli 2005, art. 3, I: 4 september 2005)</span> ] genieten een van volgende regelingen:<br /><br />1° zij krijgen door de Vlaamse regering, na overleg, een gelijkwaardige en passende functie aangeboden binnen de diensten van de Vlaamse overheid; zij behouden hun graad ten persoonlijken titel en behouden het voordeel van de salarisschaal verbonden aan hun graad;<br /><br />2° zij krijgen door de Vlaamse regering, na overleg, een billijke bilateraal onderhandelde regeling aangeboden tot beëindiging van hun arbeidsrelatie.<br /><br />De leidinggevenden die een contractuele betrekking bekleden waaraan tenminste een salarisschaal van rang A4 of A3 is gekoppeld, genieten enkel de sub 2° vermelde regeling.
+
+### ART. 41.
+
+Na toepassing van de herplaatsingen vermeld in artikel 39, §§ 2 en 3, worden de resterende vacante management- en projectleidersfuncties van N-niveau bij voorrang ingevuld via herplaatsing van de leidinggevenden die een graad bekleden van rang A2L, nadat zij hiervoor werden gescreend.
