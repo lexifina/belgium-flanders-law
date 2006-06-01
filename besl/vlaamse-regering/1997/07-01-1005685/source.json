@@ -1,0 +1,17 @@
+{
+  "codex_id": 1005685,
+  "title": "Besluit van de Vlaamse Regering van 1997-07-01 tot instelling en organisatie van een tweede preventiestimulerend programma",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1005685/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "cd35aaab32eb90318e769c1690b9f5a6d784dc2ea658524a19f27e7e53fe698c",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1005685&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "1997-07-01",
+  "gazette": "1997-10-30",
+  "numac": 1997036298,
+  "document_start": "1997-10-30",
+  "document_end": null,
+  "in_force": "2006-06-01",
+  "article_versions": 25,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
