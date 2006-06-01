@@ -1,0 +1,17 @@
+{
+  "codex_id": 1021312,
+  "title": "Protocol van 2000-03-29 gesloten tussen de Federale Overheid en de Overheden bedoeld bij artikelen 128, 130 en 135 van de Grondwet, betreffende de preventie, meer bepaald de vaccinatie, tegen poliomyelitis",
+  "type": "Protocol",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1021312/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "f6bf3f4a2040abb7de4f651b38aeb3b66d8f07909c1c571e3c498e4e0923c316",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1021312&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "2000-03-29",
+  "gazette": "2000-08-29",
+  "numac": 2000022401,
+  "document_start": null,
+  "document_end": null,
+  "in_force": "2006-06-01",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
