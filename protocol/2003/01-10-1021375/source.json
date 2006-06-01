@@ -1,0 +1,17 @@
+{
+  "codex_id": 1021375,
+  "title": "Protocol van 2003-01-10 betreffende dierlijk afval in de sectoren van vlees en visserijproducten",
+  "type": "Protocol",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1021375/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "216c60c3623e80c06eda21f1746ebe211f66f94da2afb9dc0ea4c5c1604f23d9",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1021375&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "2003-01-10",
+  "gazette": "2003-02-21",
+  "numac": 2003022072,
+  "document_start": null,
+  "document_end": "2005-10-27",
+  "in_force": "2006-06-01",
+  "article_versions": 69,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
