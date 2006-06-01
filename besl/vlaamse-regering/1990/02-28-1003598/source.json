@@ -1,0 +1,17 @@
+{
+  "codex_id": 1003598,
+  "title": "Besluit van de Vlaamse Regering van 1990-02-28 tot uitvoering van het besluit van de Vlaamse regering van 27 januari 1988 houdende sommige maatregelen tot harmonisatie van de toelagen en presentiegelden aan commissarissen, gemachtigden van financiën, afgevaardigden van de Vlaamse regering, voorzitters en leden van niet-adviserende bijzondere commissies of van raden van bestuur van instellingen en ondernemingen die onder de Vlaamse regering behoren",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1003598/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "636ec8d7b27d5a9696b25c2a835107598ce7c1f2259085c3bdf94950eda80a49",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1003598&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "1990-02-28",
+  "gazette": "1990-04-24",
+  "numac": 1990029446,
+  "document_start": "1989-01-01",
+  "document_end": null,
+  "in_force": "2006-06-01",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
