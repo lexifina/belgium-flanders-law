@@ -1,0 +1,17 @@
+{
+  "codex_id": 1000728,
+  "title": "Omzendbrief van 1994-07-20 BA 94/10 betreffende verplichte toezending van de agenda van de vergaderingen van het college van burgemeester en schepenen aan de voorzitter van het OCMW (toepassing artikel 28, § 4, organieke OCMW)-wet",
+  "type": "Omzendbrief",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1000728/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "01808330e0296bf8e3e85597c7573aca5541eafd2f8926cbef0663a0cba3aae3",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1000728&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "1994-07-20",
+  "gazette": "1994-09-21",
+  "numac": 0,
+  "document_start": null,
+  "document_end": null,
+  "in_force": "2006-06-01",
+  "article_versions": 1,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
