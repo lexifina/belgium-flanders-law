@@ -1,0 +1,17 @@
+{
+  "codex_id": 1007493,
+  "title": "Besluit van de Vlaamse Regering van 2000-06-30 houdende de delegatie van sommige bevoegdheden inzake onderwijs aan de Vlaamse minister, bevoegd voor het onderwijs",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1007493/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "54ffd8a9abe892ddbb3dd955cc59eb870f1a675acd14e010d395ffafea072bf9",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1007493&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "2000-06-30",
+  "gazette": "2000-08-05",
+  "numac": 2000035761,
+  "document_start": "2000-09-01",
+  "document_end": "2011-12-31",
+  "in_force": "2006-06-01",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
