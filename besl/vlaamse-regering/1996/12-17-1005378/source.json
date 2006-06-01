@@ -1,0 +1,17 @@
+{
+  "codex_id": 1005378,
+  "title": "Besluit van de Vlaamse Regering van 1996-12-17 tot vaststelling van de erkenningsvoorwaarden en -modaliteiten van de centra of diensten voor revalidatie",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1005378/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "07f6e355edd9f8a070951b611b4e543cfa38fa9b6c78cce9eb6adf89a62fabaa",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1005378&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "1996-12-17",
+  "gazette": "1997-01-30",
+  "numac": 1997035038,
+  "document_start": "1997-01-01",
+  "document_end": "2025-12-31",
+  "in_force": "2006-06-01",
+  "article_versions": 7,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
