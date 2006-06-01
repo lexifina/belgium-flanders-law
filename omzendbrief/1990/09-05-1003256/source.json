@@ -1,0 +1,17 @@
+{
+  "codex_id": 1003256,
+  "title": "Omzendbrief van 1990-09-05 betreffende de toepassing van artikel 80 van de Huisvestingscode",
+  "type": "Omzendbrief",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1003256/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "22fbf3815a780584e9333554da15b02c28beb445e6de6316260feb9b6f29c471",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1003256&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "1990-09-05",
+  "gazette": "1990-12-11",
+  "numac": 0,
+  "document_start": "1990-06-10",
+  "document_end": null,
+  "in_force": "2006-06-01",
+  "article_versions": 1,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
