@@ -1,0 +1,17 @@
+{
+  "codex_id": 1007696,
+  "title": "Decreet van 1985-06-27 betreffende de subsidiëring van het oprichten, verbeteren en/of aankopen van particuliere sportinfrastructuur",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1007696/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "26c80dc229a00796da5e1f94ec3a1581ee596a0ad25fc96e1ee20c1eb98637f0",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1007696&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "1985-06-27",
+  "gazette": "1985-08-27",
+  "numac": 1985024593,
+  "document_start": null,
+  "document_end": null,
+  "in_force": "2006-06-01",
+  "article_versions": 12,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
