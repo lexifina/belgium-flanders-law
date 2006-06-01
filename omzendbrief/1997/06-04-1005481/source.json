@@ -1,0 +1,17 @@
+{
+  "codex_id": 1005481,
+  "title": "Omzendbrief van 1997-06-04 BA-97/11 betreffende de bevlagging van openbare gebouwen met de Vlaamse vlag",
+  "type": "Omzendbrief",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1005481/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "27b268d4a920b162aca305e7e07005c871e3aac72b8716cfd9ed841520413d1f",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1005481&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "1997-06-04",
+  "gazette": "1997-07-25",
+  "numac": 1997801932,
+  "document_start": null,
+  "document_end": null,
+  "in_force": "2006-06-01",
+  "article_versions": 1,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
