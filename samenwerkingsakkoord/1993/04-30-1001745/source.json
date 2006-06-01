@@ -1,0 +1,17 @@
+{
+  "codex_id": 1001745,
+  "title": "Samenwerkingsakkoord van 1993-04-30 tussen het Vlaamse Gewest, het Waalse Gewest en het Brussels Hoofdstedelijk Gewest betreffende de bestemming van de milieutaks en de coördinatie van het gewestelijk beleid ter zake",
+  "type": "Samenwerkingsakkoord",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1001745/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "d587564f5c8c4f5e7c5e24fc74f2ac6ddc1b2178ddf3ab4e0a6d9d1c58cae5ea",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1001745&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "1993-04-30",
+  "gazette": "1995-01-25",
+  "numac": 0,
+  "document_start": null,
+  "document_end": null,
+  "in_force": "2006-06-01",
+  "article_versions": 5,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
