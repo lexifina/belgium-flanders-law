@@ -1,0 +1,17 @@
+{
+  "codex_id": 1014167,
+  "title": "Besluit van de Vlaamse Regering van 2005-09-02 tot oprichting van het intern verzelfstandigd agentschap [Agentschap voor Onderwijsdiensten]",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1014167/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "870408c2b225bc61b6728f413d80c7bc06ffcb9902514143294fc3d33c6e0355",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1014167&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "2005-09-02",
+  "gazette": "2005-12-30",
+  "numac": 2005036613,
+  "document_start": "2006-04-01",
+  "document_end": null,
+  "in_force": "2006-06-01",
+  "article_versions": 15,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
