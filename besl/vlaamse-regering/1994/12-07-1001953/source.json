@@ -1,0 +1,17 @@
+{
+  "codex_id": 1001953,
+  "title": "Besluit van de Vlaamse Regering van 1994-12-07 tot het aannemen van de statuten van de N.V. Zeekanaal en Watergebonden Grondbeheer Vlaanderen",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1001953/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "dce521164d004c0c662accb9c0c00e21ebf558644fbca756d2b5a409adad7ee0",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1001953&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "1994-12-07",
+  "gazette": "1995-02-18",
+  "numac": 1995035242,
+  "document_start": null,
+  "document_end": null,
+  "in_force": "2006-06-01",
+  "article_versions": 53,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
