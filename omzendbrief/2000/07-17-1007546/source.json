@@ -1,0 +1,17 @@
+{
+  "codex_id": 1007546,
+  "title": "Omzendbrief van 2000-07-17 EME/2000.01 afwegingskader en randvoorwaarden voor de inplanting van windturbines",
+  "type": "Omzendbrief",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1007546/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "95f8f62af392268d6e45fc14c42dc095d392c746e3563bb9ffc2868cbeb13f51",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1007546&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "2000-07-17",
+  "gazette": "2000-09-01",
+  "numac": 2000035889,
+  "document_start": null,
+  "document_end": null,
+  "in_force": "2006-06-01",
+  "article_versions": 2,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
