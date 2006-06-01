@@ -1,0 +1,17 @@
+{
+  "codex_id": 1000330,
+  "title": "Besluit van de Vlaamse Regering van 1994-02-23 houdende bepaling van het normatieve en niet-normatieve delen van het definitief vastgestelde gewestplan",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1000330/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "ccbca2c47bbbfab2cd07cb8972e398c4aec7554ce7371fb39ffdb7d6bfee4e57",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1000330&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "1994-02-23",
+  "gazette": "1994-03-24",
+  "numac": 1994035409,
+  "document_start": null,
+  "document_end": null,
+  "in_force": "2006-06-01",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
