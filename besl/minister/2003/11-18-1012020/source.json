@@ -1,0 +1,17 @@
+{
+  "codex_id": 1012020,
+  "title": "Ministerieel besluit van 2003-11-18 tot uitvoering van het besluit van de Vlaamse regering van 10 oktober 2003 tot toekenning van steun aan kleine en middelgrote onderneming voor investeringen in het Vlaamse Gewest",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1012020/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "fc637a3af17b5bab07563eb78b0e2247e6b3d7228f62958f26cce5cd0bd1981c",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1012020&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "2003-11-18",
+  "gazette": "2004-01-30",
+  "numac": 2004035106,
+  "document_start": null,
+  "document_end": null,
+  "in_force": "2006-06-01",
+  "article_versions": 18,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
