@@ -1,0 +1,17 @@
+{
+  "codex_id": 1015231,
+  "title": "Samenwerkingsakkoord van 2002-11-14 tussen de federale Staat, het Vlaamse Gewest, Waalse Gewest en het Brussels Hoofdstedelijk Gewest betreffende het opstellen, het uitvoeren en het opvolgen van een Nationaal Klimaatplan, alsook het rapporteren, in het kader van het Raamverdrag van de Verenigde Naties inzake Klimaatverandering en het Protocol van Kyoto",
+  "type": "Samenwerkingsakkoord",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1015231/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "aa9677b16bdd2314b8790c3b8291643d34e21adbb7735ff2dbf6a1e02bae9d22",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1015231&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "2002-11-14",
+  "gazette": "2003-06-27",
+  "numac": 2003031298,
+  "document_start": "2003-11-13",
+  "document_end": null,
+  "in_force": "2006-06-01",
+  "article_versions": 29,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
