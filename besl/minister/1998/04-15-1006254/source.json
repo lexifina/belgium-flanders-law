@@ -1,0 +1,17 @@
+{
+  "codex_id": 1006254,
+  "title": "Ministerieel besluit van 1998-04-15 houdende uitvoering van artikel 7, § 5 van het decreet van 19 april 1995 tot regeling van de arbeidsbemiddeling tegen betaling in het Vlaamse Gewest",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1006254/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "3c6ce6903c8f286be59ff11256f8fc310bfefdd2da976060ab9859fdd3fb578a",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1006254&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "1998-04-15",
+  "gazette": "1998-08-12",
+  "numac": 1998035862,
+  "document_start": null,
+  "document_end": null,
+  "in_force": "2006-06-01",
+  "article_versions": 1,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
