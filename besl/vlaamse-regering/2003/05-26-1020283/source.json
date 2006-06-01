@@ -1,0 +1,17 @@
+{
+  "codex_id": 1020283,
+  "title": "Besluit van de Vlaamse Regering van 2003-05-26 tot bepaling van de bevoegdheden van de leden van de Vlaamse regering",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1020283/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "3e6f7ebb09e1f1debb4b273ce148b8d5214489622331525447a907db334aa8a3",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1020283&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "2003-05-26",
+  "gazette": "2003-06-02",
+  "numac": 2003035578,
+  "document_start": "2003-05-26",
+  "document_end": "2003-06-09",
+  "in_force": "2006-06-01",
+  "article_versions": 33,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
