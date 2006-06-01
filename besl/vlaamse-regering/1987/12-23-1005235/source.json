@@ -1,0 +1,17 @@
+{
+  "codex_id": 1005235,
+  "title": "Besluit van de Vlaamse Regering van 1987-12-23 tot vaststelling van een regeling inzake de vergoedingen die aan de Voorzitter en de leden van de Vlaamse raad voor Wetenschapsbeleid en aan de leden van de door de Raad ingestelde commissies worden toegekend",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1005235/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "61238aca520d9fc2403ccb019c61c778d8701e4634def06f9ea21d29be44ea04",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1005235&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "1987-12-23",
+  "gazette": "1988-02-17",
+  "numac": 0,
+  "document_start": null,
+  "document_end": null,
+  "in_force": "2006-06-01",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
