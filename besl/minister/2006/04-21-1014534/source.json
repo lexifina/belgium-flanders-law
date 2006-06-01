@@ -1,0 +1,17 @@
+{
+  "codex_id": 1014534,
+  "title": "Ministerieel besluit van 2006-04-21 houdende delegatie van sommige bevoegdheden inzake zorg en gezondheid aan de administrateur-generaal van het agentschap Zorg en Gezondheid",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1014534/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "a86921a12ebccb11b3f5a9c52ff9c2abc7446ab78b82b5de7b533503daf3c7e2",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1014534&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "2006-04-21",
+  "gazette": "2006-05-24",
+  "numac": 2006035806,
+  "document_start": "2006-04-01",
+  "document_end": "2006-06-30",
+  "in_force": "2006-06-01",
+  "article_versions": 12,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
