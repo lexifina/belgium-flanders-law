@@ -1,0 +1,17 @@
+{
+  "codex_id": 1013409,
+  "title": "Besluit van de Vlaamse Regering van 2004-06-04 tot uitvoering van artikel 145 van het decreet van 18 mei 1999 houdende de organisatie van de ruimtelijke ordening",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1013409/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "6e0a9de8c0b5869a20172ee20e43773908975d3257eba8c7a74e6d30d6d3fddd",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1013409&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "2004-06-04",
+  "gazette": "2004-09-20",
+  "numac": 2004036445,
+  "document_start": null,
+  "document_end": "2009-08-31",
+  "in_force": "2006-06-01",
+  "article_versions": 5,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
