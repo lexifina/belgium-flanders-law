@@ -1,0 +1,17 @@
+{
+  "codex_id": 1010114,
+  "title": "Ministerieel besluit van 2002-11-07 tot voorlopige erkenning van het Vlaams betaalorgaan voor het Europees Oriëntatie- en Garantiefonds voor de Lanbouw, afdeling Garantie",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1010114/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "1cbfe04d77e838fb4cc0d445f8c4d0230c8331483337c749d20f446ca9320fbc",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1010114&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "2002-11-07",
+  "gazette": "2002-12-06",
+  "numac": 0,
+  "document_start": "2002-03-01",
+  "document_end": null,
+  "in_force": "2006-06-01",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}

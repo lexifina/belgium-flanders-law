@@ -1,0 +1,13 @@
+# Ministerieel besluit van 2002-11-07 tot voorlopige erkenning van het Vlaams betaalorgaan voor het Europees Oriëntatie- en Garantiefonds voor de Lanbouw, afdeling Garantie
+
+### ART. 1.
+
+Het Vlaams betaalorgaan voor het EOGFL Garantie wordt voorlopig erkend conform de bepalingen van artikel 1 van Verordening (EG) nr. 1663/95 van de Commissie van 7 juli 1995 houdende uitvoeringsbepalingen van Verordening (EEG) nr. 729/70 van de Raad aangaande de procedure inzake de goedkeuring van de rekeningen van het EOGFL, afdeling Garantie.
+
+### ART. 2.
+
+§ 1. De delegatie van bepaalde bevoegdheden van het Vlaams Betaalorgaan aan de verschillende beheersdiensten wordt geregeld in protocols tussen het Vlaams Betaalorgaan en de beheersdiensten in kwestie zoals bedoeld in artikel 2, § 5, 2°, en artikel 3, § 4, van het besluit van de Vlaamse regering van 8 juni 2001 tot oprichting van een Vlaams betaalorgaan voor het Europees Oriëntatie- en Garantiefonds voor de Landbouw, afdeling Garantie.<br /><br />§ 2. De protocols, bedoeld in § 1, leggen in ieder geval de volgende zaken vast:<br /><br />1° de algemene samenwerkingsregels;<br /><br />2° de controle- en beheerssystemen, bedoeld in artikel 2, § 5, 2°, van voornoemd besluit;<br /><br />3° de delegatie van de Technische dienst en het toestaan van betalingen, bedoeld in artikel 3, § 4, van voornoemd besluit;<br /><br />4° de verzekering van een tijdige en correcte uitvoering van het toestaan van betalingen, het uitvoeren van de betalingen, het voeren van de administratie van de betalingen en van de taken van de Technische dienst en de dienst Interne Controle, bedoeld in artikel 3, § 3, van voornoemd besluit;<br /><br />5° de afhandelingsprocedure van foutieve betaalopdrachten zonder de continuïteit van het beheerssysteem en de correcte uitbetaling in het gedrang te brengen;<br /><br />6° de responsabiliseringsregels, afspraken en eventuele verdeelsleutels met betrekking tot de sancties die het betaalorgaan kan oplopen;<br /><br />7° de verzekering dat de uitoefening door de beheersdiensten van alle gedelegeerde bevoegdheden gebeurt:<br /><br />a) overeenkomstig de Europese, federale en Vlaamse regelgeving ter zake;<br /><br />b) rekeninghoudend met de tekortkomingen, vastgesteld of nog vast te stellen door:<br /><br />1) de dienst Interne Controle van het Vlaams Betaalorgaan of een gelijkwaardige procedure;<br /><br />2) het extern erkenningsonderzoek;<br /><br />3) het jaarlijks extern onderzoek voor de certificering van de rekeningen;<br /><br />4) controlemissies van de Europese Instellingen.
+
+### ART. 3.
+
+Dit besluit heeft uitwerking met ingang van 1 maart 2002.
