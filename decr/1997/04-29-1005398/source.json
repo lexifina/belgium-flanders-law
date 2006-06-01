@@ -1,0 +1,17 @@
+{
+  "codex_id": 1005398,
+  "title": "Decreet van 1997-04-29 betreffende de omzetting van de BRTN in een naamloze vennootschap van publiek recht",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1005398/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "eca0265164cb4ea080581d2deee0eed68f14c3d44edc1463e866685d28691322",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1005398&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "1997-04-29",
+  "gazette": "1997-05-01",
+  "numac": 1997035537,
+  "document_start": null,
+  "document_end": null,
+  "in_force": "2006-06-01",
+  "article_versions": 18,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
