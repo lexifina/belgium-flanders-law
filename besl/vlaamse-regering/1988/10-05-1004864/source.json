@@ -1,0 +1,17 @@
+{
+  "codex_id": 1004864,
+  "title": "Besluit van de Vlaamse Regering van 1988-10-05 houdende oprichting en regeling van de werking van provinciale coördinatiecommissies voor de waterhuishouding",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1004864/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "ba50e37cf426674450103f1eb453781ee910b99c4ace8c72498bdf6a15f84de0",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1004864&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "1988-10-05",
+  "gazette": "1988-12-10",
+  "numac": 1988030026,
+  "document_start": null,
+  "document_end": null,
+  "in_force": "2006-06-01",
+  "article_versions": 7,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
