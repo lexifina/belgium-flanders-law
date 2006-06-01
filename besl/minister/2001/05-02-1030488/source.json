@@ -1,0 +1,17 @@
+{
+  "codex_id": 1030488,
+  "title": "Ministerieel besluit van 2001-05-02 tot instelling van het natuurinrichtingsproject Bergerven",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1030488/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "b68afd450e59df10aed86f80e44b6b6e2ccecadae3874b84075de15d4d52990e",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1030488&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "2001-05-02",
+  "gazette": "2005-05-22",
+  "numac": 0,
+  "document_start": "2005-06-01",
+  "document_end": null,
+  "in_force": "2006-06-01",
+  "article_versions": 6,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
