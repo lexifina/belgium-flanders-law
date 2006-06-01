@@ -1,0 +1,17 @@
+{
+  "codex_id": 1004090,
+  "title": "Omzendbrief van 1995-10-24 betreffende bijzondere subsidies aan voorzieningen in de gehandicaptensector",
+  "type": "Omzendbrief",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1004090/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "7545d3d47f7c342f8b6ca68fa191ca8577a2b395feb4f216e7f84082a033c2e8",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1004090&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "1995-10-24",
+  "gazette": "1995-11-21",
+  "numac": 0,
+  "document_start": null,
+  "document_end": null,
+  "in_force": "2006-06-01",
+  "article_versions": 1,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
