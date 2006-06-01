@@ -1,0 +1,17 @@
+{
+  "codex_id": 1002267,
+  "title": "Besluit van de Vlaamse Regering van 1991-10-09 tot vaststelling van de presentiegelden en vergoedingen van de voorzitters en van de leden van de provinciale evaluatiecommissie en van de adviescommissie bij het Vlaams Fonds voor de Sociale Integratie van Personen met een Handicap",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1002267/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "0621526f5078f6a7bc9d335688e3338f5af4e092de5077a28c93c416bf0a940a",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1002267&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "1991-10-09",
+  "gazette": "1992-01-22",
+  "numac": 1992036714,
+  "document_start": null,
+  "document_end": "2026-09-30",
+  "in_force": "2006-06-01",
+  "article_versions": 5,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
