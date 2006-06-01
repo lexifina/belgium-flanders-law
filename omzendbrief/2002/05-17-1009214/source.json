@@ -1,0 +1,17 @@
+{
+  "codex_id": 1009214,
+  "title": "Omzendbrief van 2002-05-17 BA/2002/08 betreffende de invloed van de beginbalans van de politie op de boekhouding van de gemeenten",
+  "type": "Omzendbrief",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1009214/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "078e8aef88e86bfc678771cfdd07cdb2aa4ed697bb5457a06f1703c6696aa6ff",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1009214&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "2002-05-17",
+  "gazette": "2002-06-18",
+  "numac": 2002035730,
+  "document_start": null,
+  "document_end": null,
+  "in_force": "2006-06-01",
+  "article_versions": 2,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
