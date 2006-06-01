@@ -1,0 +1,17 @@
+{
+  "codex_id": 1002051,
+  "title": "Besluit van de Vlaamse Regering van 1991-07-10 tot goedkeuring van de overeenkomst van 31 juli 1991 afgesloten tussen het Vlaamse Gewest en de Maatschappij voor het Grond- en Industrialisatiebeleid van het Linkerscheldeoevergebied, betreffende de algemene voorwaarden voor de overdracht of het in concessie geven van gronden in het Linkerscheldeoevergebied, ter hoogte van Antwerpen",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1002051/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "7cde04586997e60ae9b909175e5c82df9d63489a86551bb4422decc1d2c21a58",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1002051&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "1991-07-10",
+  "gazette": "1992-02-08",
+  "numac": 1992035068,
+  "document_start": "1991-07-31",
+  "document_end": null,
+  "in_force": "2006-06-01",
+  "article_versions": 23,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
