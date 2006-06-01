@@ -1,0 +1,9 @@
+# Ministerieel besluit van 2006-02-10 tot wijziging van het ministerieel besluit van 13 juni 2005 tot oprichting van de stuurgroep voor de Speciale Beschermingszones (SBZ) en de groene bestemmingsgebieden voor het natuurrichtplan « Hoppeland van Poperinge en Zuidelijke IJzervlakte »
+
+### Aanhef
+
+De Vlaamse minister van Openbare Werken, Energie, Leefmilieu en Natuur,<br /><br />Gelet op het decreet betreffende het natuurbehoud en het natuurlijk milieu van 21 oktober 1997, inzonderheid het artikel 50, gewijzigd bij de decreten van 18 mei 1999 en 19 juli 2002;<br /><br />Gelet op het besluit van de Vlaamse Regering van 28 februari 2003 betreffende natuurrichtplannen, inzonderheid op de artikelen 9 en 11;<br /><br />Gelet op het besluit van de Vlaamse Regering van 27 juli 2004 tot bepaling van de bevoegdheden van de leden van de Vlaamse Regering;<br /><br />Gelet op het ministerieel besluit 12 mei 2004 tot het opstarten van de procedure voor de opmaak van een natuurrichtplan voor de Speciale Beschermingszones (SBZ) en de groene bestemmingsgebieden voor « het Hoppeland van Poperinge en de Zuidelijke IJzervlakte » en aanstelling van de coördinator;<br /><br />Gelet op het ministerieel besluit van 13 juni 2005 tot oprichting van de stuurgroep voor de Speciale Beschermingszones (SBZ) en de groene bestemmingsgebieden voor het natuurrichtplan « Hoppeland van Poperinge en Zuidelijke IJzervlakte »;<br /><br />Gelet op het advies van de coördinator,<br /><br />Besluit : <br /><br />
+
+### ART. 1.
+
+In Artikel 3, 3° van het ministerieel besluit van 13 juni 2005 tot oprichting van de stuurgroep voor de Speciale Beschermingszones (SBZ) en de groene bestemmingsgebieden voor het natuurrichtplan « Hoppeland van Poperinge en Zuidelijke IJzervlakte » wordt Mevr. Marie-Christine Parret vervangen door Mevr. Lien Vlamynck.<br /><br />

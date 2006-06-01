@@ -1,0 +1,17 @@
+{
+  "codex_id": 1015161,
+  "title": "Ministerieel besluit van 2006-02-10 tot wijziging van het ministerieel besluit van 13 juni 2005 tot oprichting van de stuurgroep voor de Speciale Beschermingszones (SBZ) en de groene bestemmingsgebieden voor het natuurrichtplan « Hoppeland van Poperinge en Zuidelijke IJzervlakte »",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1015161/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "1d5e96ecc5bc6967d4a0279f5e66b977ebc51734cb741c304447f1dde2fb769a",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1015161&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "2006-02-10",
+  "gazette": "2006-02-28",
+  "numac": 2006035295,
+  "document_start": null,
+  "document_end": null,
+  "in_force": "2006-06-01",
+  "article_versions": 2,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
