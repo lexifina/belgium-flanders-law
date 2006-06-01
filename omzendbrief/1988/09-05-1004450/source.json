@@ -1,0 +1,17 @@
+{
+  "codex_id": 1004450,
+  "title": "Omzendbrief van 1988-09-05 betreffende infrastructuurwerken",
+  "type": "Omzendbrief",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1004450/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "3417529d745151735d68dde65755f2b2bbc7fe68c7a7e2ae685d200a86844351",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1004450&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "1988-09-05",
+  "gazette": "1989-03-14",
+  "numac": 0,
+  "document_start": null,
+  "document_end": null,
+  "in_force": "2006-06-01",
+  "article_versions": 1,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
