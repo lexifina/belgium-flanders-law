@@ -1,0 +1,17 @@
+{
+  "codex_id": 1005714,
+  "title": "Besluit van de Vlaamse Regering van 1987-06-17 houdende machtiging van de instelling Kind en Gezin tot deelname aan de pensioenregeling ingesteld bij de wet van 28 april 1958 betreffende het pensioen van het personeel van zekere organismen van openbaar nut alsmede van hun rechthebbenden",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1005714/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "b21974d529b8620ac8ccf1dc03caf66ed32fe568a8fc82e65b445da4458e61d8",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1005714&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "1987-06-17",
+  "gazette": "1987-08-08",
+  "numac": 1987029582,
+  "document_start": null,
+  "document_end": null,
+  "in_force": "2006-06-01",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
