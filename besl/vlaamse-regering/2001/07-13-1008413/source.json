@@ -1,0 +1,17 @@
+{
+  "codex_id": 1008413,
+  "title": "Besluit van de Vlaamse Regering van 2001-07-13 betreffende de bepalingen inzake het toekennen van subsidies aan de havenbedrijven ten behoeve van de havenkapiteinsdiensten die expliciet kunnen worden toegewezen aan de verkeersafwikkeling, de veiligheid en de vrijwaring van het milieu",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1008413/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "4bb6083288aee7caacbb9ba223339963e55a57deb522a7b38578dda692b7b086",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1008413&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "2001-07-13",
+  "gazette": "2001-10-13",
+  "numac": 2001036145,
+  "document_start": null,
+  "document_end": "2020-12-31",
+  "in_force": "2006-06-01",
+  "article_versions": 14,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
