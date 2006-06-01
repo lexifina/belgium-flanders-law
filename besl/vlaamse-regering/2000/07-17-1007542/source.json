@@ -1,0 +1,17 @@
+{
+  "codex_id": 1007542,
+  "title": "Besluit van de Vlaamse Regering van 2000-07-17 tot vaststelling van de criteria, de voorwaarden en de nadere regelen volgens welke subsidies worden verleend met betrekking tot het VESOC-actieplan voor migranten",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1007542/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "9a76284c9c55d49217bc78bd02f9e18ec57523730c6a091b4328611480a60129",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1007542&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "2000-07-17",
+  "gazette": "2000-08-31",
+  "numac": 2000035888,
+  "document_start": "2000-07-17",
+  "document_end": null,
+  "in_force": "2006-06-01",
+  "article_versions": 16,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
