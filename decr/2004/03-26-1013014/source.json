@@ -1,0 +1,17 @@
+{
+  "codex_id": 1013014,
+  "title": "Decreet van 2004-03-26 houdende instemming met het protocol bij het verdrag betreffende grensoverschrijdende luchtverontreiniging over lange afstand, inzake zware metalen, met bijlagen, ondertekend in Aarhus op 24 juni 1998",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1013014/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "2fcfac35bf487a73139163f5ce0ff947a59cef2f602a793e5ae77b9e9a676943",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1013014&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "2004-03-26",
+  "gazette": "2004-05-21",
+  "numac": 2004035677,
+  "document_start": "2004-05-31",
+  "document_end": null,
+  "in_force": "2006-06-01",
+  "article_versions": 2,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
