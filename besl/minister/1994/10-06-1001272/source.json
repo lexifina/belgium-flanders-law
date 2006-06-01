@@ -1,0 +1,17 @@
+{
+  "codex_id": 1001272,
+  "title": "Ministerieel besluit van 1994-10-06 tot uitvoering van artikel 7 van het besluit van de Vlaamse regering van 9 juni 1993 tot uitvoering van het decreet van 3 maart 1993 houdende regeling tot erkenning van de outplacement-, wervings- en selectiebureaus in het Vlaamse Gewest",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1001272/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "4382226b6866ab9770f3f5f9043cb012bd8b70888045873cedbe1339f86a42e6",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1001272&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "1994-10-06",
+  "gazette": "1994-12-07",
+  "numac": 0,
+  "document_start": "1994-10-01",
+  "document_end": null,
+  "in_force": "2006-06-01",
+  "article_versions": 2,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
