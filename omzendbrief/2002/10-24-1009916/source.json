@@ -1,0 +1,17 @@
+{
+  "codex_id": 1009916,
+  "title": "Omzendbrief van 2002-10-24 BA 2002/15 betreffende de vaststelling van de code van goede praktijk voor het ontwerp en gebruik van droogweerafvoersystemen (DWA-systemen)",
+  "type": "Omzendbrief",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1009916/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "054737e02ab5f2447fe0de40e4d789aec8bf40b3d1a43cfad1aedbe6a89aa488",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1009916&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "2002-10-24",
+  "gazette": "2002-11-27",
+  "numac": 2002036443,
+  "document_start": null,
+  "document_end": null,
+  "in_force": "2006-06-01",
+  "article_versions": 1,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
