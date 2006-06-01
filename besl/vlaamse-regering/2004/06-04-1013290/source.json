@@ -1,0 +1,17 @@
+{
+  "codex_id": 1013290,
+  "title": "Besluit van de Vlaamse Regering van 2004-06-04 tot oprichting van het Subsidieagentschap voor Economie en Werkgelegenheid",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1013290/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "5334f3b01974f8b6d9b2bbde535a6687107a687e22ee8464d25d4aca6cdfe530",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1013290&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "2004-06-04",
+  "gazette": "2004-08-03",
+  "numac": 2004036257,
+  "document_start": null,
+  "document_end": "2006-06-30",
+  "in_force": "2006-06-01",
+  "article_versions": 14,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
