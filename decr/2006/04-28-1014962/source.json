@@ -1,0 +1,17 @@
+{
+  "codex_id": 1014962,
+  "title": "Decreet van 2006-04-28 houdende wijziging van het decreet van 24 juli 1996 houdende regeling tot erkenning van de instellingen voor schuldbemiddeling in de Vlaamse Gemeenschap, met het oog op een onderbouwd Vlaams beleid inzake schuldoverlast",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1014962/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "3e2f2d0dd1ad38eafbda421739323c24d8c9dda90497525ee57ea56dd8b5a252",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1014962&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "2006-04-28",
+  "gazette": "2006-09-20",
+  "numac": 2006036354,
+  "document_start": "2006-06-01",
+  "document_end": null,
+  "in_force": "2006-06-01",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
