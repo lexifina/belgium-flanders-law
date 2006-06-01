@@ -1,0 +1,17 @@
+{
+  "codex_id": 1015230,
+  "title": "Samenwerkingsakkoord van 2002-12-13 tussen de federale Staat, het Vlaams Gewest, het Waals Gewest en het Brussels Hoofdstedelijk Gewest betreffende de uitvoering en financiering van de bodemsanering van tankstations",
+  "type": "Samenwerkingsakkoord",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1015230/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "183d7d73d98592a1b36f1c3d776fd2bd4ff8f70a5dac9141d82fd3df92cd4fe8",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1015230&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "2002-12-13",
+  "gazette": "2003-07-10",
+  "numac": 2003027572,
+  "document_start": "2003-07-10",
+  "document_end": "2019-05-07",
+  "in_force": "2006-06-01",
+  "article_versions": 32,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
