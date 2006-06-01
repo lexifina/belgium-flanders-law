@@ -1,0 +1,17 @@
+{
+  "codex_id": 1008308,
+  "title": "Decreet van 1984-03-06 betreffende de keuze van Brussel tot hoofdstad van de Vlaamse Gemeenschap",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1008308/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "1e998eaf2c3681242188b7883c6506a51e543cb5c8d3aec17ccaecda94141c05",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1008308&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "1984-03-06",
+  "gazette": "1984-05-12",
+  "numac": 1984923734,
+  "document_start": null,
+  "document_end": null,
+  "in_force": "2006-06-01",
+  "article_versions": 2,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
