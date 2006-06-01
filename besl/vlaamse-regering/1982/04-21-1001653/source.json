@@ -1,0 +1,17 @@
+{
+  "codex_id": 1001653,
+  "title": "Besluit van de Vlaamse Regering van 1982-04-21 houdende algemene voorwaarden die gelden voor composteringsinstallaties voor huishoudelijke afvalstoffen en daarmee gelijkgestelde afvalstoffen",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1001653/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "1697dbdbf9f6505b832cbad42c9b1ed4de9ea06c8e9bdd59f94ccd13d4d86cb3",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1001653&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "1982-04-21",
+  "gazette": "1982-06-10",
+  "numac": 1982000835,
+  "document_start": "1982-06-10",
+  "document_end": null,
+  "in_force": "2006-06-01",
+  "article_versions": 22,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
