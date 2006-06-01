@@ -1,0 +1,17 @@
+{
+  "codex_id": 1009634,
+  "title": "Besluit van de Vlaamse Regering van 2002-05-31 tot vaststelling van de erkennings- en subsidiëringsvoorwaarden van de Vlaamse sportfederaties, de koepelorganisatie en de organisaties voor de sportieve vrijetijdsbesteding",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1009634/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "dd87a34c8585be67264abc209b529720ae579f9b88a11613a73f66d6f265e869",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1009634&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "2002-05-31",
+  "gazette": "2002-09-05",
+  "numac": 2002036083,
+  "document_start": "2002-01-01",
+  "document_end": "2009-02-26",
+  "in_force": "2006-06-01",
+  "article_versions": 75,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
