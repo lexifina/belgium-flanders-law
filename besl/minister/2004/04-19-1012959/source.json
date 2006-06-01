@@ -1,0 +1,17 @@
+{
+  "codex_id": 1012959,
+  "title": "Ministerieel besluit van 2004-04-19 tot uitvoering van het besluit van de Vlaamse regering van 26 maart 2004 betreffende de gratis starterscheques voor starters",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1012959/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "88b7b41e780143b5b5dbdec0761df9598adc46af5bd7f23ba065aeb4d6fd943e",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1012959&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "2004-04-19",
+  "gazette": "2004-05-12",
+  "numac": 2004035730,
+  "document_start": "2004-04-19",
+  "document_end": null,
+  "in_force": "2006-06-01",
+  "article_versions": 13,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
