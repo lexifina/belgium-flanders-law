@@ -1,0 +1,17 @@
+{
+  "codex_id": 1014400,
+  "title": "Besluit van de Vlaamse Regering van 2006-02-24 tot uitvoering van het decreet van 19 maart 2004 betreffende het lokaal sociaal beleid",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1014400/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "28f6645389b55f69dafe1a7b98515b313cadcb532c0ef7e174750eea1707546f",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1014400&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "2006-02-24",
+  "gazette": "2006-04-04",
+  "numac": 2006035478,
+  "document_start": "2006-01-01",
+  "document_end": "2013-12-31",
+  "in_force": "2006-06-01",
+  "article_versions": 7,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
