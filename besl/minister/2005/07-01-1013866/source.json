@@ -1,0 +1,17 @@
+{
+  "codex_id": 1013866,
+  "title": "Ministerieel besluit van 2005-07-01 tot definiëring van de begrippen achterstallige schulden bij de Rijksdienst voor Sociale Zekerheid en de Belastingdienst Vlaanderen inzake onroerende voorheffing",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1013866/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "cf9929b3ebf554d3f6c003cd56a6f1b687e7d2e2c2db895fec3d34e6e7879ae8",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1013866&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "2005-07-01",
+  "gazette": "2005-07-15",
+  "numac": 2005035801,
+  "document_start": "2005-07-01",
+  "document_end": null,
+  "in_force": "2006-06-01",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
