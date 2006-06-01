@@ -1,0 +1,17 @@
+{
+  "codex_id": 1007942,
+  "title": "Ministerieel besluit van 2001-04-06 houdende de bepaling van de registers voor producenten en gebruikers in uitvoering van het besluit van de Vlaamse regering van 26 mei 2000 tot uitvoering van sommige artikelen van het decreet van 23 januari 1991 inzake de bescherming van het leefmilieu tegen de verontreiniging door meststoffen",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1007942/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "27a2fd47bc595eee4c283eaed46c87e5d831baf637a276edadaf9bd5853796a3",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1007942&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "2001-04-06",
+  "gazette": "2001-04-25",
+  "numac": 2001035431,
+  "document_start": "2001-01-01",
+  "document_end": null,
+  "in_force": "2006-06-01",
+  "article_versions": 9,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
