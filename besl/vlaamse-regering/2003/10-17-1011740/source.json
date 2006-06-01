@@ -1,0 +1,17 @@
+{
+  "codex_id": 1011740,
+  "title": "Besluit van de Vlaamse Regering van 2003-10-17 houdende toekenning van een forfaitaire onkostenvergoeding aan de leden van de Inspectie van Financiën ter beschikking gesteld van de Vlaamse regering",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1011740/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "e3c2601677584634b8621fd4622254b17046c62c3157eeb87d27a237aa4b200f",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1011740&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "2003-10-17",
+  "gazette": "2003-11-27",
+  "numac": 2003202007,
+  "document_start": "2003-11-01",
+  "document_end": null,
+  "in_force": "2006-06-01",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
