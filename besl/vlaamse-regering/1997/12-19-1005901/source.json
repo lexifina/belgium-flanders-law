@@ -1,0 +1,17 @@
+{
+  "codex_id": 1005901,
+  "title": "Besluit van de Vlaamse Regering van 1997-12-19 tot bepaling van de bevoegdheden van de leden van de Vlaamse regering",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1005901/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "fc0b085a2b02b68a8b34ed9b93fde7ccfcac9963a49afffd4edd1d4a3188728f",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1005901&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "1997-12-19",
+  "gazette": "1997-12-31",
+  "numac": 1997036534,
+  "document_start": "1998-01-01",
+  "document_end": "1999-07-12",
+  "in_force": "2006-06-01",
+  "article_versions": 32,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
