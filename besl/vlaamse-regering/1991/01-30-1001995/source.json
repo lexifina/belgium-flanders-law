@@ -1,0 +1,17 @@
+{
+  "codex_id": 1001995,
+  "title": "Besluit van de Vlaamse Regering van 1991-01-30 houdende vaststelling van de regelen tot het beheer en de werking van het Fonds voor de Economische Expansie en de Regionale Reconversie - Grote Ondernemingen",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1001995/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "5a724bdc20d002ddb10059528ad00b47d3259745e408dc0736b1640364a23a4f",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1001995&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "1991-01-30",
+  "gazette": "1992-04-28",
+  "numac": 1992035485,
+  "document_start": null,
+  "document_end": null,
+  "in_force": "2006-06-01",
+  "article_versions": 13,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
