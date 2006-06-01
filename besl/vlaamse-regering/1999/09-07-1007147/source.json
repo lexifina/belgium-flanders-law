@@ -1,0 +1,17 @@
+{
+  "codex_id": 1007147,
+  "title": "Besluit van de Vlaamse Regering van 1999-09-07 betreffende de studiegebieden en structuuronderdelen in het secundair onderwijs",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1007147/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "895ca4a1bbe6d3285d114eb9e5c90f1d3d4cdd3554d7b3a828238cc1bf4af745",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1007147&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "1999-09-07",
+  "gazette": "2000-02-01",
+  "numac": 2000035018,
+  "document_start": "1998-09-01",
+  "document_end": "2007-08-31",
+  "in_force": "2006-06-01",
+  "article_versions": 45,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
