@@ -1,0 +1,17 @@
+{
+  "codex_id": 1015105,
+  "title": "Samenwerkingsakkoord van 1998-07-07 tussen de Staat en de Gemeenschappen met betrekking tot de Interuniversitaire attractiepolen. - Fase IV",
+  "type": "Samenwerkingsakkoord",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1015105/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "61231cd7fc67cd65df9d2585a4c8da69613eafe3bfefa3644952aeb5ec198368",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1015105&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "1998-07-07",
+  "gazette": "1998-11-25",
+  "numac": 1998021413,
+  "document_start": "1997-01-01",
+  "document_end": "2001-12-31",
+  "in_force": "2006-06-01",
+  "article_versions": 7,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
