@@ -1,0 +1,17 @@
+{
+  "codex_id": 1021308,
+  "title": "Protocol van 1995-09-12 tot regeling van de onderscheiden vormen van medewerking tussen de Federale Regering en de Gemeenschaps- en Gewestregeringen",
+  "type": "Protocol",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1021308/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "2852bb0627b4f9aefc73ff20cf6d19bbd43858375e81758f6e66ec473cb9b2f4",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1021308&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "1995-09-12",
+  "gazette": "1995-10-05",
+  "numac": 0,
+  "document_start": "1995-09-12",
+  "document_end": null,
+  "in_force": "2006-06-01",
+  "article_versions": 12,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
