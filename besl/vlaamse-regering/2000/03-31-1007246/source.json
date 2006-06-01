@@ -1,0 +1,17 @@
+{
+  "codex_id": 1007246,
+  "title": "Besluit van de Vlaamse Regering van 2000-03-31 tot aanwijzing van de gebiedsgerichte verscherpingen zoals bedoeld in artikel 13bis, 15, 15bis, 15quater, 15quinquies en 17 van het decreet van 23 januari 1991 inzake de bescherming van het leefmilieu tegen de verontreiniging door meststoffen",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1007246/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "70510c985774f02a33413a291b513e4b5e7c022c432ece0656e68807bc8a090f",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1007246&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "2000-03-31",
+  "gazette": "2000-04-26",
+  "numac": 2000035287,
+  "document_start": "2000-01-01",
+  "document_end": null,
+  "in_force": "2006-06-01",
+  "article_versions": 24,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
