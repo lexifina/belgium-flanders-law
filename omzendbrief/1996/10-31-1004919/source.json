@@ -1,0 +1,17 @@
+{
+  "codex_id": 1004919,
+  "title": "Omzendbrief van 1996-10-31 B.A.-F.B. 96/7 betreffende onteigeningen voor openbaar nut - Toepassing van het Bodemsaneringsdecreet",
+  "type": "Omzendbrief",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1004919/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "3c0b01abc72330b2fe431ac941709aeba4e16cb5e28b0fdf6dff92523f4cbbee",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1004919&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "1996-10-31",
+  "gazette": "1996-11-30",
+  "numac": 0,
+  "document_start": null,
+  "document_end": null,
+  "in_force": "2006-06-01",
+  "article_versions": 1,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
