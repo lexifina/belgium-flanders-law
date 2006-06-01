@@ -1,0 +1,17 @@
+{
+  "codex_id": 1002370,
+  "title": "Besluit van de Vlaamse Regering van 1989-06-05 [tot vaststelling van de bekwaamheidsbewijzen vereist van de kandidaten voor wervingsambten van het administratief personeel van de onderwijsinstellingen en van de psycho-medisch-sociale centra van de Vlaamse Gemeenschap en voor de gesubsidieerde betrekkingen van het administratief personeel in de door de Vlaamse Gemeenschap gesubsidieerde onderwijsinstellingen]",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1002370/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "c562196793a2797485269f21d3c0c00cd0d37ba921a0cbf28a51c0fb62cd12a1",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1002370&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "1989-06-05",
+  "gazette": "1989-08-31",
+  "numac": 1989029497,
+  "document_start": "1989-09-01",
+  "document_end": null,
+  "in_force": "2006-06-01",
+  "article_versions": 5,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
