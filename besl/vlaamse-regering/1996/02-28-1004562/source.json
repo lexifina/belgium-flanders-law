@@ -1,0 +1,17 @@
+{
+  "codex_id": 1004562,
+  "title": "Besluit van de Vlaamse Regering van 1996-02-28 betreffende de vergoeding verschuldigd door de gebruikers van het verkeersbegeleidingssysteem voor vaartuigen",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1004562/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "4f67b61de2de09e9c7957d8ee1a2b56e65f531930780fa60ce337bcc6aa235d7",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1004562&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "1996-02-28",
+  "gazette": "1996-03-29",
+  "numac": 1996035414,
+  "document_start": "1996-04-01",
+  "document_end": null,
+  "in_force": "2006-06-01",
+  "article_versions": 9,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
