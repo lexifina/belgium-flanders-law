@@ -1,0 +1,17 @@
+{
+  "codex_id": 1002973,
+  "title": "Besluit van de Vlaamse Regering van 1995-04-05 tot vaststelling van de voorwaarden waarop [de Vlaamse Dienst voor Arbeidsbemiddeling en Beroepsopleiding] een loonsubsidie toekent aan de werkgevers die personen met een handicap tewerkstellen onder gewone arbeidsvoorwaarden",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1002973/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "f6cb00fd713aa12e78f65bc77cc85bfed46ff6fc1470ee09357f3006d167f7e3",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1002973&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "1995-04-05",
+  "gazette": "1995-07-04",
+  "numac": 1995035822,
+  "document_start": "1995-01-01",
+  "document_end": "2008-09-30",
+  "in_force": "2006-06-01",
+  "article_versions": 8,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
