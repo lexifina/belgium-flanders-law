@@ -1,0 +1,17 @@
+{
+  "codex_id": 1008345,
+  "title": "Besluit van de Vlaamse Regering van 2001-06-15 met betrekking tot de leveringsvergunningen voor elektriciteit",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1008345/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "ec5ce30b1d0d7b02a6bddafae6620383de6039cff607b85a63d29efb1b6fafb7",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1008345&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "2001-06-15",
+  "gazette": "2001-09-05",
+  "numac": 2001035999,
+  "document_start": null,
+  "document_end": "2010-12-31",
+  "in_force": "2006-06-01",
+  "article_versions": 26,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
