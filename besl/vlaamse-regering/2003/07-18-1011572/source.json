@@ -1,0 +1,17 @@
+{
+  "codex_id": 1011572,
+  "title": "Besluit van de Vlaamse Regering van 2003-07-18 houdende de goedkeuring van het Programma Natuur- en Milieueducatie vanaf 1 september 2003",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1011572/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "5fb0774ae9a966a83f14bfcdc930d2bd5eabc04659a628c24fd94bfda8ed8df3",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1011572&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "2003-07-18",
+  "gazette": "2003-09-16",
+  "numac": 2003036005,
+  "document_start": null,
+  "document_end": null,
+  "in_force": "2006-06-01",
+  "article_versions": 7,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
