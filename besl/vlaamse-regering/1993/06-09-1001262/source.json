@@ -1,0 +1,17 @@
+{
+  "codex_id": 1001262,
+  "title": "Besluit van de Vlaamse Regering van 1993-06-09 tot uitvoering van het decreet van 3 maart 1993 houdende regeling tot erkenning van de outplacement-, wervings- en selectiebureaus in het Vlaamse Gewest",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1001262/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "600b5ad9dda99c5bc8f769c6d202efbb5ec121107cfcfebb06bb0054c7958b7c",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1001262&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "1993-06-09",
+  "gazette": "1993-06-22",
+  "numac": 1993035735,
+  "document_start": "1993-09-01",
+  "document_end": null,
+  "in_force": "2006-06-01",
+  "article_versions": 15,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
