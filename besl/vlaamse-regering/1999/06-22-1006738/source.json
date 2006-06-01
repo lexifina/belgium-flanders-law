@@ -1,0 +1,17 @@
+{
+  "codex_id": 1006738,
+  "title": "Besluit van de Vlaamse Regering van 1999-06-22 houdende vaststelling van de wijze waarop personeelsleden vanuit Toerisme Vlaanderen kunnen worden overgedragen naar de diensten van de Vlaamse regering en geïntegreerd worden in het ministerie van de Vlaamse Gemeenschap",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1006738/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "cedf846f6893d88bc2e4e1a43e4c8ff47c4be41a1738501f28e1c1c47896c0ab",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1006738&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "1999-06-22",
+  "gazette": "1999-07-10",
+  "numac": 1999035845,
+  "document_start": "1999-06-22",
+  "document_end": null,
+  "in_force": "2006-06-01",
+  "article_versions": 14,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
