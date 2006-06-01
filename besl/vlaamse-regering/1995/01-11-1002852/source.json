@@ -1,0 +1,17 @@
+{
+  "codex_id": 1002852,
+  "title": "Besluit van de Vlaamse Regering van 1995-01-11 houdende de voorwaarden betreffende sociale leningen met gewestwaarborg voor het bouwen, kopen of verbouwen van woningen",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1002852/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "7e193548e84630b96069e17436d5e955cc505c7b42f678c769f22d40b5c7fbd5",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1002852&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "1995-01-11",
+  "gazette": "1995-06-16",
+  "numac": 1995035526,
+  "document_start": "1995-01-01",
+  "document_end": "2007-06-30",
+  "in_force": "2006-06-01",
+  "article_versions": 17,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
