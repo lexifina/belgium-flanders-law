@@ -1,0 +1,17 @@
+{
+  "codex_id": 1006606,
+  "title": "Besluit van de Vlaamse Regering van 1998-12-15 tot instelling en organisatie van een vierde preventiestimulerend programma",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1006606/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "23a31bd24ffc0fb2ec529e4bfb90bf13716bf36bcfe9b3856aadeb093aa1adcf",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1006606&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "1998-12-15",
+  "gazette": "1999-04-21",
+  "numac": 1999035469,
+  "document_start": "1998-09-01",
+  "document_end": null,
+  "in_force": "2006-06-01",
+  "article_versions": 27,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
