@@ -1,0 +1,17 @@
+{
+  "codex_id": 1009530,
+  "title": "Decreet van 2002-07-19 houdende de overdracht van de Vlaamse economische vertegenwoordigers van de Vlaamse regering naar Export Vlaanderen, Vlaamse openbare instelling",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1009530/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "c192bf433436aa1c0e305090e3357444e50397bc0ddad5eda310b00bd335eaf1",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1009530&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "2002-07-19",
+  "gazette": "2002-08-27",
+  "numac": 2002036044,
+  "document_start": null,
+  "document_end": null,
+  "in_force": "2006-06-01",
+  "article_versions": 2,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
