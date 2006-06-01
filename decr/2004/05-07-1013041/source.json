@@ -1,0 +1,17 @@
+{
+  "codex_id": 1013041,
+  "title": "Decreet van 2004-05-07 [houdende regeling van de controle van de verkiezingsuitgaven en de herkomst van de geldmiddelen voor de verkiezing van het Vlaams Parlement (verv. decr. 8 juli 2011, art. 279)]",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1013041/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "bdea9295bc066bb4255a158d672a44fc2b298760beda8b40aee059364b033944",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1013041&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "2004-05-07",
+  "gazette": "2004-05-28",
+  "numac": 2004035800,
+  "document_start": null,
+  "document_end": null,
+  "in_force": "2006-06-01",
+  "article_versions": 22,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
