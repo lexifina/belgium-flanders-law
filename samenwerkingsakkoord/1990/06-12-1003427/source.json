@@ -1,0 +1,17 @@
+{
+  "codex_id": 1003427,
+  "title": "Samenwerkingsakkoord van 1990-06-12 tussen de Belgische Staat en het Vlaamse Gewest ter vrijwaring van de Noordzee van nadelige milieu-effecten ingevolge baggerspecielossingen in de wateren die vallen onder de toepassing van de Conventie van Oslo",
+  "type": "Samenwerkingsakkoord",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1003427/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "3f1e2ad60f5ec4944ad505080743c4f00d6b4e386b7e1123f7711112ff69e521",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1003427&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "1990-06-12",
+  "gazette": "1990-08-22",
+  "numac": 0,
+  "document_start": null,
+  "document_end": null,
+  "in_force": "2006-06-01",
+  "article_versions": 1,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
