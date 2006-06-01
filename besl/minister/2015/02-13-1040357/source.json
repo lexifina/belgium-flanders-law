@@ -1,0 +1,17 @@
+{
+  "codex_id": 1040357,
+  "title": "Ministerieel besluit van 2015-02-13 houdende oprichting van basisoverlegcomités in het Beleidsdomein Financiën en Begroting",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1040357/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "63d73aa69e7dcf2c17d47c8fa69cdcc8a7684a272d452886c83619e20032f4cf",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1040357&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "2015-02-13",
+  "gazette": "0001-01-01",
+  "numac": 0,
+  "document_start": "2015-02-13",
+  "document_end": null,
+  "in_force": "2006-06-01",
+  "article_versions": 1,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
