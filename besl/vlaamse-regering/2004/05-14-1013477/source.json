@@ -1,0 +1,17 @@
+{
+  "codex_id": 1013477,
+  "title": "Besluit van de Vlaamse Regering van 2004-05-14 tot vaststelling van de procedure voor het indienen van de aanvragen en van de voorwaarden tot het toekennen van de studietoelagen voor het secundair onderwijs",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1013477/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "8d8ffe9b9d49708610c1bac7ae7049c0664e6ea2eab0c786a7909b9ec42f988b",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1013477&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "2004-05-14",
+  "gazette": "2004-10-15",
+  "numac": 2004036559,
+  "document_start": "2004-09-01",
+  "document_end": null,
+  "in_force": "2006-06-01",
+  "article_versions": 9,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
