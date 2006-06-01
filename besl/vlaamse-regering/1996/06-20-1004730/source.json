@@ -1,0 +1,17 @@
+{
+  "codex_id": 1004730,
+  "title": "Besluit van de Vlaamse Regering van 1996-06-20 tot bepaling van [de vakgebonden eindtermen en de vakgebonden ontwikkelingsdoelen] van de eerste graad van het gewoon secundair onderwijs",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1004730/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "12ceb4ea3d38077691ba203ff432fedf82fcce8e3c620ed88a7a2694cf22a22c",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1004730&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "1996-06-20",
+  "gazette": "1996-08-08",
+  "numac": 1996035836,
+  "document_start": "1996-06-20",
+  "document_end": null,
+  "in_force": "2006-06-01",
+  "article_versions": 5,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
