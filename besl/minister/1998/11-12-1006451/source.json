@@ -1,0 +1,17 @@
+{
+  "codex_id": 1006451,
+  "title": "Ministerieel besluit van 1998-11-12 tot uitvoering van artikel 12, §1 van het besluit van de Vlaamse regering van 21 oktober 1997 houdende bepaling van de erkennings- en subsidievoorwaarden van sociale verhuurkantoren",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1006451/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "c8ccd471dca86335a4d8c0fff26af55a175729c11b002e9521692cedd5e735a4",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1006451&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "1998-11-12",
+  "gazette": "1999-01-14",
+  "numac": 1998036429,
+  "document_start": null,
+  "document_end": null,
+  "in_force": "2006-06-01",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
