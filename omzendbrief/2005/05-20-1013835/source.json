@@ -1,0 +1,17 @@
+{
+  "codex_id": 1013835,
+  "title": "Omzendbrief van 2005-05-20 OVO 2004/1 met betrekking tot de gevolgen van de prijsstijging van ferrometalen (staal) en ruw gietijzer",
+  "type": "Omzendbrief",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1013835/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "464c2df67c169dc126bd29604c17d8e00837e92c7325fbfa11813dedbcf3e016",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1013835&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "2005-05-20",
+  "gazette": "2005-06-24",
+  "numac": 2005035732,
+  "document_start": "2004-07-12",
+  "document_end": null,
+  "in_force": "2006-06-01",
+  "article_versions": 1,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
