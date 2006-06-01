@@ -1,0 +1,17 @@
+{
+  "codex_id": 1004145,
+  "title": "Samenwerkingsakkoord van 1994-10-26 tussen de Belgische Staat, het Vlaamse Gewest, het Waalse Gewest en het Brussels Hoofdstedelijk Gewest, betreffende de coördinatie van het beleid inzake invoer, uitvoer en doorvoer van afvalstoffen",
+  "type": "Samenwerkingsakkoord",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1004145/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "13e1bffe6cc90e9a88cc99abe59b6fcbbedb1005e2d0f0f37cf24298a2836b4d",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1004145&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "1994-10-26",
+  "gazette": "1995-12-13",
+  "numac": 1995021125,
+  "document_start": null,
+  "document_end": "2023-04-30",
+  "in_force": "2006-06-01",
+  "article_versions": 14,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
