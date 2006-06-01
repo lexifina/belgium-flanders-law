@@ -1,0 +1,17 @@
+{
+  "codex_id": 1001225,
+  "title": "Besluit van de Vlaamse Regering van 1990-05-23 tot uitvoering van het decreet van 23 mei 1990 betreffende de afgifte van jachtverloven en jachtvergunningen",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1001225/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "3e27870533901a00801af428f0f1e9f61b75f7dff6efe437cea8317a84805350",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1001225&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "1990-05-23",
+  "gazette": "1990-06-01",
+  "numac": 1990029676,
+  "document_start": "1990-06-01",
+  "document_end": "2014-06-30",
+  "in_force": "2006-06-01",
+  "article_versions": 8,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
