@@ -1,0 +1,17 @@
+{
+  "codex_id": 1009331,
+  "title": "Besluit van de Vlaamse Regering van 1982-03-22 tot vaststelling van het administratief statuut van het personeel van het Commissariaat-generaal voor de Internationale Culturele Samenwerking van de Nederlandse Cultuurgemeenschap in België",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1009331/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "e452e8716cf5fde94e8148c18420a738cb71bf67511d272fe8d42903cb1d0acf",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1009331&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "1982-03-22",
+  "gazette": "1982-03-25",
+  "numac": 1982100234,
+  "document_start": null,
+  "document_end": null,
+  "in_force": "2006-06-01",
+  "article_versions": 12,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
