@@ -1,0 +1,17 @@
+{
+  "codex_id": 1013534,
+  "title": "Ministerieel besluit van 2004-07-12 betreffende de toekenning van subsidies voor naschoolse opleidingsinitiatieven in de landbouwsector",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1013534/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "184c02937c5d97b2887920d801a71793c28daddb096d49494e8216f2646e7513",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1013534&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "2004-07-12",
+  "gazette": "2004-11-16",
+  "numac": 2004036572,
+  "document_start": "2004-09-01",
+  "document_end": "2007-12-20",
+  "in_force": "2006-06-01",
+  "article_versions": 24,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
