@@ -1,0 +1,17 @@
+{
+  "codex_id": 1001722,
+  "title": "Omzendbrief van 1992-09-09 BA-G-92/12 houdende toelichtingen inzake de toepassing van de wet van 24 mei 1991 tot wijziging van de Nieuwe Gemeentewet wat de tuchtregeling betreft en van het decreet van 24 juli 1991 houdende regeling, voor het Vlaamse Gewest, van het administratief toezicht op de handelingen betreffende tucht- en sommige ordemaatregelen genomen ten opzichte van het gemeentepersoneel bedoeld in de nieuwe gemeentewet",
+  "type": "Omzendbrief",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1001722/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "7cbf439224881dff92eb8a6db97b47b4e4d72feaa37652e248fbbfe7cd2a953a",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1001722&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "1992-09-09",
+  "gazette": "1992-11-07",
+  "numac": 1992801351,
+  "document_start": null,
+  "document_end": null,
+  "in_force": "2006-06-01",
+  "article_versions": 1,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
