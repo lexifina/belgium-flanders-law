@@ -1,0 +1,17 @@
+{
+  "codex_id": 1013007,
+  "title": "Ministerieel besluit van 2004-04-02 tot uitvoering van het besluit van de Vlaamse regering van 2 april 2004 betreffende de opleidingscheques",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1013007/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "c4b4468ddc53fd8c7ee5d1095797c0f3a95972dfa5e3601efc01f770830a79ee",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1013007&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "2004-04-02",
+  "gazette": "2004-05-17",
+  "numac": 2004035695,
+  "document_start": "2004-04-02",
+  "document_end": null,
+  "in_force": "2006-06-01",
+  "article_versions": 10,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
