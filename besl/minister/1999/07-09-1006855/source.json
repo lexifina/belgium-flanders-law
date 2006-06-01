@@ -1,0 +1,17 @@
+{
+  "codex_id": 1006855,
+  "title": "Ministerieel besluit van 1999-07-09 tot bepaling van de nader aan te wijzen inkomsten van de huurder of de kandidaat-huurder van een sociale woning",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1006855/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "148803371278098b363ebc754c959872cc33232cf08146a0fa9a02ff357574ab",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1006855&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "1999-07-09",
+  "gazette": "1999-08-25",
+  "numac": 0,
+  "document_start": null,
+  "document_end": null,
+  "in_force": "2006-06-01",
+  "article_versions": 1,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
