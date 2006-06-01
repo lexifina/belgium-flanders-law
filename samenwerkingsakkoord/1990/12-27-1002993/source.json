@@ -1,0 +1,17 @@
+{
+  "codex_id": 1002993,
+  "title": "Samenwerkingsakkoord van 1990-12-27 tussen de Vlaamse Gemeenschap, de Franse Gemeenschap, de Duitstalige Gemeenschap en de Gemeenschappelijke Gemeenschapscommissie van Brussel-Hoofdstad betreffende de oprichting, samenstelling en werking van de intergemeenschapscommissie voor de filmkeuring",
+  "type": "Samenwerkingsakkoord",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1002993/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "0e78783f55c48c79bfa4c2823b5d8e1df6d4240ce38bb7d095528ac6208f4dea",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1002993&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "1990-12-27",
+  "gazette": "1991-04-20",
+  "numac": 1991035493,
+  "document_start": "1991-01-01",
+  "document_end": "2019-07-04",
+  "in_force": "2006-06-01",
+  "article_versions": 25,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
