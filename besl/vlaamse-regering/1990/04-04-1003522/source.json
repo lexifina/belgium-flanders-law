@@ -1,0 +1,17 @@
+{
+  "codex_id": 1003522,
+  "title": "Besluit van de Vlaamse Regering van 1990-04-04 houdende verdeling van de personeelsformatie van de sociale diensten van de Vlaamse Gemeenschap bij de jeugdrechtbanken, de sociale diensten voor bijzondere jeugdbijstand en de administratieve secretariaten bij de comités voor bijzondere jeugdzorg en bij de bemiddelingscommissies voor bijzondere jeugdbijstand",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1003522/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "9d1f33ff2aca8a69790dff810edbc52fd29576e817dff75a5e8780704b9b7e07",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1003522&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "1990-04-04",
+  "gazette": "1990-06-12",
+  "numac": 1990029659,
+  "document_start": "1990-02-15",
+  "document_end": null,
+  "in_force": "2006-06-01",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
