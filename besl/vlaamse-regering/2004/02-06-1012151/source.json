@@ -1,0 +1,17 @@
+{
+  "codex_id": 1012151,
+  "title": "Besluit van de Vlaamse Regering van 2004-02-06 houdende inventarisatie, terugwinning en verwijdering van halonen",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1012151/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "ec6a67e3a1df11d4ba00c0fee6e488874b9344292124d1980c600fd24b917d4a",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1012151&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "2004-02-06",
+  "gazette": "2004-03-09",
+  "numac": 2004035354,
+  "document_start": "2004-06-01",
+  "document_end": null,
+  "in_force": "2006-06-01",
+  "article_versions": 9,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
