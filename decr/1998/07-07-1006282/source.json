@@ -1,0 +1,17 @@
+{
+  "codex_id": 1006282,
+  "title": "Decreet van 1998-07-07 betreffende de organisatie van de Vlaamse Hogescholenraad",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1006282/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "abf769840bb5569e557b36c91e4504d79df62a54fc433ed0119c6426a31327e6",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1006282&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "1998-07-07",
+  "gazette": "1998-08-28",
+  "numac": 1998035892,
+  "document_start": null,
+  "document_end": "2013-09-30",
+  "in_force": "2006-06-01",
+  "article_versions": 12,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
