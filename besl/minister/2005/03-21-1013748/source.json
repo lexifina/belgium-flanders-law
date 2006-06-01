@@ -1,0 +1,17 @@
+{
+  "codex_id": 1013748,
+  "title": "Ministerieel besluit van 2005-03-21 betreffende de organisatie van de fokkerij van kleine herkauwers",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1013748/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "eeb4e13baca29acaee10a8ab8be08223196e65057acb2d086ecd323a2a6c455d",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1013748&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "2005-03-21",
+  "gazette": "2005-04-22",
+  "numac": 2005035435,
+  "document_start": "2005-01-01",
+  "document_end": "2010-12-31",
+  "in_force": "2006-06-01",
+  "article_versions": 9,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
