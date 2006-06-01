@@ -1,0 +1,17 @@
+{
+  "codex_id": 1000400,
+  "title": "Besluit van de Vlaamse Regering van 1993-12-23 betreffende het financieel en materieel beheer van de dienst met afzonderlijk beheer \"Investeren in Vlaanderen",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1000400/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "41922130a27b7a65ebb3d69f81d3e83d1538b6a71928a98d58c504bc5fd9384c",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1000400&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "1993-12-23",
+  "gazette": "1994-02-25",
+  "numac": 1994035149,
+  "document_start": "1994-01-01",
+  "document_end": null,
+  "in_force": "2006-06-01",
+  "article_versions": 27,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
