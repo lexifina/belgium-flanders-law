@@ -1,0 +1,17 @@
+{
+  "codex_id": 1021343,
+  "title": "Protocol van 2001-05-30 gesloten tussen de Federale Overheid en de Overheden bedoeld in artikelen 128, 130 en 135 van de Grondwet betreffende de preventie van, en in het bijzonder de vaccinatie tegen Haemophilus influenzae type b",
+  "type": "Protocol",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1021343/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "85d99c71c71529b3bddd8954ed7aa6132f428ab1b1bd79fa972795fbb104da1e",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1021343&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "2001-05-30",
+  "gazette": "2001-08-11",
+  "numac": 2001022552,
+  "document_start": null,
+  "document_end": null,
+  "in_force": "2006-06-01",
+  "article_versions": 6,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
