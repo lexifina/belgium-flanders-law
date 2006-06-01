@@ -1,0 +1,17 @@
+{
+  "codex_id": 1000972,
+  "title": "Omzendbrief van 1992-10-08 HV 92/3 tot vaststelling van de oppervlakte- en technische normen in het kader van het urgentieplan voor de sociale huisvesting",
+  "type": "Omzendbrief",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1000972/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "b7cf34ed9a3ea265309bcacaa8483ead8a6ea5b310d4f994ddb56a194b786d37",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1000972&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "1992-10-08",
+  "gazette": "1992-12-23",
+  "numac": 0,
+  "document_start": null,
+  "document_end": null,
+  "in_force": "2006-06-01",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
