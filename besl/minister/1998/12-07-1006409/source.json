@@ -1,0 +1,17 @@
+{
+  "codex_id": 1006409,
+  "title": "Ministerieel besluit van 1998-12-07 houdende nadere bepalingen omtrent het abonnement ter financiering van de ophaling van dierlijk afval",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1006409/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "aee56324cb48a7c4911eebfc1a96932a4f01445cd2727e143eb1fa870bc8fc5f",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1006409&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "1998-12-07",
+  "gazette": "1998-12-19",
+  "numac": 0,
+  "document_start": "1998-12-19",
+  "document_end": null,
+  "in_force": "2006-06-01",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
