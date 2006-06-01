@@ -1,0 +1,17 @@
+{
+  "codex_id": 1014508,
+  "title": "Besluit van de Vlaamse Regering van 2006-03-31 tot operationalisering van het beleidsdomein Werk en Sociale Economie",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1014508/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "de2d798352d30a65fed36b641c948fb4188c322006e077ab50b0ad939da3155a",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1014508&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "2006-03-31",
+  "gazette": "2006-05-12",
+  "numac": 2006035736,
+  "document_start": "2006-04-01",
+  "document_end": null,
+  "in_force": "2006-06-01",
+  "article_versions": 6,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
