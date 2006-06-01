@@ -1,0 +1,17 @@
+{
+  "codex_id": 1021345,
+  "title": "Protocol van 2001-07-02 gesloten tussen de Federale Overheid en de Overheden bedoeld bij artikelen 128, 130 en 136 van de Grondwet, en betreffende de preventie, meer bepaald de vaccinatie tegen hepatitis B, gewijzigd door het avenant van 29 maart 2000",
+  "type": "Protocol",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1021345/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "f0418dc83f3a1443e04c57816f653d79a85b9a8ffbe3f869a3f681a88b6e8c52",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1021345&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "2001-07-02",
+  "gazette": "2001-08-02",
+  "numac": 2001022482,
+  "document_start": null,
+  "document_end": null,
+  "in_force": "2006-06-01",
+  "article_versions": 1,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
