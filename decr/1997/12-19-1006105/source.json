@@ -1,0 +1,17 @@
+{
+  "codex_id": 1006105,
+  "title": "Decreet van 1997-12-19 houdende oprichting van de naamloze vennootschap \"Mijnschade en Bemaling Limburgs Mijngebied",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1006105/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "ace5117b49f628b7a50b95ca04a6394eb30fbb682d00db22bfaf94bdbd3b5a28",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1006105&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "1997-12-19",
+  "gazette": "1998-04-18",
+  "numac": 1998035415,
+  "document_start": "1999-07-01",
+  "document_end": null,
+  "in_force": "2006-06-01",
+  "article_versions": 27,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
