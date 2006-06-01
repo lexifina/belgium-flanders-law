@@ -1,0 +1,17 @@
+{
+  "codex_id": 1006143,
+  "title": "Omzendbrief van 1998-04-06 ML/9 betreffende de problematiek rond verwaarlozing, verval en sloping",
+  "type": "Omzendbrief",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1006143/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "c5baaa3146b99da04c5d3e3dafe466f0a778469ee94ba651cfd95ebf9696ca0d",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1006143&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "1998-04-06",
+  "gazette": "1998-05-16",
+  "numac": 1998035547,
+  "document_start": null,
+  "document_end": "2899-12-31",
+  "in_force": "2006-06-01",
+  "article_versions": 1,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
