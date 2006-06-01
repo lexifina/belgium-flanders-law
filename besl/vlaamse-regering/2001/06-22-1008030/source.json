@@ -1,0 +1,17 @@
+{
+  "codex_id": 1008030,
+  "title": "Besluit van de Vlaamse Regering van 2001-06-22 houdende de goedkeuring van de oprichting door Gimvindus nv. van twee gespecialiseerde dochtervennootschappen, nv. Staal Vlaanderen en nv. Textiel Vlaanderen",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1008030/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "0ed38bb5adcba7b42ec51bb51f5309b4269eff4d9ff75ee46b2c561c1cf99b3c",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1008030&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "2001-06-22",
+  "gazette": "2001-06-30",
+  "numac": 2001035729,
+  "document_start": null,
+  "document_end": null,
+  "in_force": "2006-06-01",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
