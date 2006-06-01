@@ -1,0 +1,17 @@
+{
+  "codex_id": 1002998,
+  "title": "Ministerieel besluit van 1991-01-04 houdende de bevoegdheden die worden toegewezen aan de directeur-generaal van de Openbare Afvalstoffenmaatschappij voor het Vlaamse Gewest",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1002998/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "b6f3ed2d3b50acf09a5516120be2862e8f9849582e31c0ca86186f4f983f26a4",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1002998&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "1991-01-04",
+  "gazette": "1991-04-19",
+  "numac": 0,
+  "document_start": "1991-01-15",
+  "document_end": null,
+  "in_force": "2006-06-01",
+  "article_versions": 5,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
