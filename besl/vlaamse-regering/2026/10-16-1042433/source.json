@@ -1,0 +1,17 @@
+{
+  "codex_id": 1042433,
+  "title": "Besluit van de Vlaamse Regering van 2026-10-16 tot herverdeling vanuit een provisioneel krediet van de Vlaamse Gemeenschap voor het begrotingsjaar 2026 in het kader van de toekenning van middelen voor de Einsteintelescoop aan het FWO",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1042433/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "3ccc43b5003f90c996f8f294b5487bb03b4c53764ffd4110ea361a215b44f78c",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1042433&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "2026-10-16",
+  "gazette": "0001-01-01",
+  "numac": 0,
+  "document_start": "2026-10-16",
+  "document_end": null,
+  "in_force": "2006-06-01",
+  "article_versions": 1,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
