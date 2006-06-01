@@ -1,0 +1,17 @@
+{
+  "codex_id": 1039197,
+  "title": "Protocol van 2022-11-24 Aanvullend Protocol tussen het Koninkrijk België en de Europese Vrijhandelsassociatie",
+  "type": "Protocol",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1039197/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "4723bca539fd921c36797b3e7a0d9ec6d582f6842fb09a0b12017c8a0f73c229",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1039197&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "2022-11-24",
+  "gazette": "0001-01-01",
+  "numac": 0,
+  "document_start": null,
+  "document_end": null,
+  "in_force": "2006-06-01",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
