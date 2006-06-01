@@ -1,0 +1,17 @@
+{
+  "codex_id": 1014378,
+  "title": "Decreet van 2006-01-27 tot bekrachtiging van het reglement van de Nederlandse-Vlaamse Accreditatieorganisatie tot bepaling van de bestuursbeginselen die van toepassing zijn bij de besluitvorming inzake accreditatie en toets nieuwe opleiding ten aanzien van hogeronderwijsopleidingen in de Vlaamse Gemeenschap",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1014378/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "fc7575b45c801c7481cd94e17610ecb8122959d9a2686f96b82f7147eab96e37",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1014378&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "2006-01-27",
+  "gazette": "2006-03-21",
+  "numac": 2006035401,
+  "document_start": "2005-02-01",
+  "document_end": null,
+  "in_force": "2006-06-01",
+  "article_versions": 26,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
