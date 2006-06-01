@@ -1,0 +1,17 @@
+{
+  "codex_id": 1006754,
+  "title": "Besluit van de Vlaamse Regering van 1999-07-13 tot bepaling van de bevoegdheden van de leden van de Vlaamse regering",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1006754/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "23a196daed7f890653dba1c3bd4bd6c9a053931562a29995130f390033bd8736",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1006754&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "1999-07-13",
+  "gazette": "1999-07-15",
+  "numac": 1999035976,
+  "document_start": "1999-07-13",
+  "document_end": "2001-07-31",
+  "in_force": "2006-06-01",
+  "article_versions": 33,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
