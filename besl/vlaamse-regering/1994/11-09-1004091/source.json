@@ -1,0 +1,17 @@
+{
+  "codex_id": 1004091,
+  "title": "Besluit van de Vlaamse Regering van 1994-11-09 houdende afbakening van de territoriale bevoegdheid van de NV. Zeekanaal en Watergebonden Grondbeheer Vlaanderen",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1004091/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "a9fa26b7ae1025dfc2e1bc7af24c198db12d4dde11ea463bbeb978ee944a01a5",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1004091&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "1994-11-09",
+  "gazette": "1995-11-22",
+  "numac": 1995036190,
+  "document_start": null,
+  "document_end": "2017-12-31",
+  "in_force": "2006-06-01",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
