@@ -1,0 +1,17 @@
+{
+  "codex_id": 1002418,
+  "title": "Decreet van 1991-10-23 houdende wijziging van artikel 19 en artikel 108 van het decreet van 17 juli 1991 betreffende inspectie en pedagogische begeleidingsdiensten",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1002418/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "78239747a186fe2fd396b602314723939d3e1b9542a66c3731bbdf1d89f212cd",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1002418&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "1991-10-23",
+  "gazette": "1991-11-20",
+  "numac": 1991036481,
+  "document_start": null,
+  "document_end": "2016-12-31",
+  "in_force": "2006-06-01",
+  "article_versions": 2,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
