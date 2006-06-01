@@ -1,0 +1,17 @@
+{
+  "codex_id": 1008447,
+  "title": "Besluit van de Vlaamse Regering van 2001-07-13 houdende de heroverweging van de budgettaire middelen door de organisatie van de ambulante begeleiding door bepaalde voorzieningen inzake sociale integratie van personen met een handicap en houdende de aanpassing van de werkingskosten van de semi-internaten voor schoolgaanden",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1008447/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "f799f0a248f3e6bf3eb20fd68e71114e1aee1ac79a974a9fba0145d6b6f992bd",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1008447&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "2001-07-13",
+  "gazette": "2001-10-31",
+  "numac": 2001036234,
+  "document_start": null,
+  "document_end": null,
+  "in_force": "2006-06-01",
+  "article_versions": 10,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
