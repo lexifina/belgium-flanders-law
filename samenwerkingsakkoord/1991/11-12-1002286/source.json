@@ -1,0 +1,17 @@
+{
+  "codex_id": 1002286,
+  "title": "Samenwerkingsakkoord van 1991-11-12 tussen de Staat, het Vlaamse Gewest, het Waalse Gewest en het Brusselse Hoofdstedelijk Gewest betreffende de liquidatiecel van het Wegenfonds",
+  "type": "Samenwerkingsakkoord",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1002286/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "57c049449b60ee9fc5bb59e7a1051d901acb3b59aff2ebf726f5279783e20c39",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1002286&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "1991-11-12",
+  "gazette": "1992-01-15",
+  "numac": 0,
+  "document_start": null,
+  "document_end": null,
+  "in_force": "2006-06-01",
+  "article_versions": 12,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
