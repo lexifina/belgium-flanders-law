@@ -1,0 +1,17 @@
+{
+  "codex_id": 1000195,
+  "title": "Besluit van de Vlaamse Regering van 1994-04-20 betreffende de deeltijdse terbeschikkingstelling wegens persoonlijke aangelegenheden voorafgaand aan het rustpensioen voor personeelsleden van het onderwijs en van de psycho-medisch-sociale centra",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1000195/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "c1611729996befed989865473e6c57668dbae00f4b1d6c48485e66e672431a01",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1000195&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "1994-04-20",
+  "gazette": "1994-07-14",
+  "numac": 1994035722,
+  "document_start": "1993-12-31",
+  "document_end": null,
+  "in_force": "2006-06-01",
+  "article_versions": 10,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
