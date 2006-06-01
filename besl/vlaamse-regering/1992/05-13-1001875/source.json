@@ -1,0 +1,17 @@
+{
+  "codex_id": 1001875,
+  "title": "Besluit van de Vlaamse Regering van 1992-05-13 betreffende de opvangcentra",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1001875/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "f9aafa1387ca993e279c7480b2a6f6cfe89c17094e2ebbf2859b92a2eb1b67fe",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1001875&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "1992-05-13",
+  "gazette": "1992-07-14",
+  "numac": 1992035719,
+  "document_start": null,
+  "document_end": "2015-08-31",
+  "in_force": "2006-06-01",
+  "article_versions": 26,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
