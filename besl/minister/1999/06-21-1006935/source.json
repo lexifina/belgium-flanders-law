@@ -1,0 +1,17 @@
+{
+  "codex_id": 1006935,
+  "title": "Ministerieel besluit van 1999-06-21 tot wijziging van het ministerieel besluit van 14 januari 1998 tot uitvoering van het besluit van de Vlaamse regering van 17 juni 1997 houdende harmonisering van diverse stelsels werkervaringsprojecten",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1006935/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "fa4feabbacc2fe7967a2b2881775a8f894ccfff76893dca0c0dca73833528f59",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1006935&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "1999-06-21",
+  "gazette": "1999-09-21",
+  "numac": 0,
+  "document_start": null,
+  "document_end": "2008-12-31",
+  "in_force": "2006-06-01",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
