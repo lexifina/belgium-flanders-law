@@ -1,0 +1,17 @@
+{
+  "codex_id": 1001852,
+  "title": "Ministerieel besluit van 1991-01-04 houdende programmatie van de samenwerkingsinitiatieven en het aantal zorgenplannen in het kader van de thuisverzorging",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1001852/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "68587a5a9f1997446aa4d1e1450d641c0eee9f1984e2db6d66b6fdedc5b73b79",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1001852&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "1991-01-04",
+  "gazette": "1991-04-19",
+  "numac": 0,
+  "document_start": "1991-01-01",
+  "document_end": null,
+  "in_force": "2006-06-01",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
