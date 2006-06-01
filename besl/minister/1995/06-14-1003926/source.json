@@ -1,0 +1,17 @@
+{
+  "codex_id": 1003926,
+  "title": "Ministerieel besluit van 1995-06-14 houdende de vaststelling van de salarisschalen voor de personeelsleden tewerkgesteld in de centra voor Integrale Gezinszorg en in de centra voor Kinderzorg en Gezinsondersteuning",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1003926/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "3f47f6f9b870c29792da8309d5cd348886db0f9759fec7111df3e340a9c42288",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1003926&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "1995-06-14",
+  "gazette": "1995-08-17",
+  "numac": 1995036196,
+  "document_start": "1993-01-01",
+  "document_end": null,
+  "in_force": "2006-06-01",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
