@@ -1,0 +1,17 @@
+{
+  "codex_id": 1008149,
+  "title": "Besluit van de Vlaamse Regering van 1985-01-25 houdende samenstelling van de directieraad van het Ministerie van de Vlaamse Gemeenschap",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1008149/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "50c024d5006b37f2cd3d8db81c8edf454eee9932eeebb21a948c443c67b18506",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1008149&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "1985-01-25",
+  "gazette": "1985-02-14",
+  "numac": 1985024078,
+  "document_start": null,
+  "document_end": null,
+  "in_force": "2006-06-01",
+  "article_versions": 8,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
