@@ -1,0 +1,17 @@
+{
+  "codex_id": 1001965,
+  "title": "Ministerieel besluit van 1995-02-01 houdende aanwijzing van de gemachtigde ambtenaren inzake ruimtelijke ordening",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1001965/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "649b288ad4d85ed9d8a41095dc199a00a98518cdb0eeab5ec3f24aba946adef0",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1001965&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "1995-02-01",
+  "gazette": "1995-02-22",
+  "numac": 0,
+  "document_start": "1995-02-22",
+  "document_end": null,
+  "in_force": "2006-06-01",
+  "article_versions": 6,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
