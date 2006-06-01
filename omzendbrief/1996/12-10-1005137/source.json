@@ -1,0 +1,17 @@
+{
+  "codex_id": 1005137,
+  "title": "Omzendbrief van 1996-12-10 LNW96/1 houdende toelichting bij het besluit van de Vlaamse regering van 26 juni 1996 betreffende de subsidiëring van de bebossing van landbouwgronden ter uitvoering van de verordening (EEG) 2080/92 van de Raad van 30 juni 1992 tot instelling van een communautaire steunmaatregel voor bosbouwmaatregelen in de landbouw (Belgisch Staatsblad van 11 oktober 1996) - Mededeling aan gemeenten en belanghebbenden",
+  "type": "Omzendbrief",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1005137/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "9368da940f5f7781751bb1e0014a6c256dfa777bc2f8c28c0f999a75cc4d320c",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1005137&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "1996-12-10",
+  "gazette": "1997-02-04",
+  "numac": 1997801875,
+  "document_start": null,
+  "document_end": null,
+  "in_force": "2006-06-01",
+  "article_versions": 7,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
