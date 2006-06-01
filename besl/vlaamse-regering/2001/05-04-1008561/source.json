@@ -1,0 +1,17 @@
+{
+  "codex_id": 1008561,
+  "title": "Besluit van de Vlaamse Regering van 2001-05-04 tot vaststelling van de salarisschalen van het assisterend academisch personeel van de universiteiten in de Vlaamse Gemeenschap",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1008561/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "052d3db9d3b1a4e18a966907b3bd7c3967756a2cff52d6342e88f748ca2764c2",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1008561&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "2001-05-04",
+  "gazette": "2002-01-09",
+  "numac": 2001036476,
+  "document_start": null,
+  "document_end": null,
+  "in_force": "2006-06-01",
+  "article_versions": 6,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
