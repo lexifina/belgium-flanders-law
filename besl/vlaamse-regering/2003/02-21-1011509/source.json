@@ -1,0 +1,17 @@
+{
+  "codex_id": 1011509,
+  "title": "Besluit van de Vlaamse Regering van 2003-02-21 houdende bepaling van het administratief en geldelijk statuut van het personeel van de Vlaamse Reguleringsinstantie voor de Elektriciteits- en Gasmarkt",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1011509/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "e276dafd1a7872b004f42d8fd1e0647700c5276d6cf69258f933ade80d27d82d",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1011509&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "2003-02-21",
+  "gazette": "2003-08-12",
+  "numac": 2003035812,
+  "document_start": null,
+  "document_end": "2010-12-31",
+  "in_force": "2006-06-01",
+  "article_versions": 386,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
