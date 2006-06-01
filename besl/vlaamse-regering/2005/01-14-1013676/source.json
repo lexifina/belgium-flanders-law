@@ -1,0 +1,17 @@
+{
+  "codex_id": 1013676,
+  "title": "Besluit van de Vlaamse Regering van 2005-01-14 tot uitvoering van het decreet van 30 april 2004 tot uniformisering van de toezichts-, sanctie- en strafbepalingen die zijn opgenomen in de regelgeving van de sociaalrechtelijke aangelegenheden, waarvoor de Vlaamse Gemeenschap en het Vlaamse Gewest bevoegd zijn",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1013676/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "faf217e5a1a1804844a1ed4db71640f432ff7b1ce07cf667c2ff1c7dea3be9be",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1013676&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "2005-01-14",
+  "gazette": "2005-02-24",
+  "numac": 2005035166,
+  "document_start": "2005-02-24",
+  "document_end": null,
+  "in_force": "2006-06-01",
+  "article_versions": 17,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
