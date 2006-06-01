@@ -1,0 +1,17 @@
+{
+  "codex_id": 1042434,
+  "title": "Besluit van de Vlaamse Regering van 2026-10-16 tot herverdeling van kredieten ingeschreven onder begrotingsartikel FC0-1FBE2AA-PR van de algemene uitgavenbegroting van de Vlaamse Gemeenschap voor het begrotingsjaar 2026",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1042434/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "5fa87025b8292cdf5cdb065bb194b3c5a047ff96d96e68f1f0a1a3802809279e",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1042434&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "2026-10-16",
+  "gazette": "0001-01-01",
+  "numac": 0,
+  "document_start": "2026-10-16",
+  "document_end": null,
+  "in_force": "2006-06-01",
+  "article_versions": 1,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
