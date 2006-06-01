@@ -1,0 +1,17 @@
+{
+  "codex_id": 1015283,
+  "title": "Samenwerkingsakkoord van 2001-03-23 tussen de Federale Staat, de Vlaamse, de Franse en de Duitstalige Gemeenschap, het Vlaamse Gewest, Het Waalse Gewest, het Brusselse Hoofdstedelijk Gewest, de Vlaamse Gemeenschapscommissie, de Franse Gemeenschapscommissie en de Gemeenschappelijke Gemeenschapscommissie betreffende de bouw en exploitatie van een gemeenschappelijk e-platform",
+  "type": "Samenwerkingsakkoord",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1015283/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "53e7747470e89f7cc8feb71c22d72d49d9634495cd390d4a5f08d9cba139782a",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1015283&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "2001-03-23",
+  "gazette": "2001-08-08",
+  "numac": 2001021364,
+  "document_start": "2001-03-23",
+  "document_end": "2005-03-22",
+  "in_force": "2006-06-01",
+  "article_versions": 19,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
