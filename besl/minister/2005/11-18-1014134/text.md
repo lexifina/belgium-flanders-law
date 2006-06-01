@@ -1,0 +1,53 @@
+# Ministerieel besluit van 2005-11-18 houdende erkenning van tafelwijn met een geografische aanduiding als "Vlaamse landwijn"
+
+### ART. 1.
+
+Enkel de wijnen die voldoen aan de hierna vermelde voorwaarden mogen onder de benaming "Vlaamse landwijn" met het oog op verkoop in voorraad worden gehouden, op de markt worden gebracht of verkocht, eventueel aangevuld met één van de volgende geografische eenheden:<br /><br />« uit de Kuststreek »: de gemeenten: De Panne, Koksijde, Nieuwpoort, Middelkerke, Oostende, Bredene, De Haan,, Blankenberge, Knokke-Heist;<br /><br />« uit de Westhoek »: de gemeenten: Alveringem, Diksmuide, Heuvelland, Houthulst, Ieper, Koekelare, Kortemark, Langemark-Poelkapelle, Lo-Reninge, Mesen, Poperinge, Staden, Veurne, Vleteren en Zonnebeke;<br /><br />« uit Brugge en Ommeland »: de gemeenten: Ardooie, Beernem, Brugge, Damme, Gistel, Ichtegem, Jabbeke, Lichtervelde, Oostkamp, Oudenburg, Pittem, Ruiselede, Tielt, Torhout, Wingene, Zedelgem en Zuienkerke;<br /><br />« uit de Leiestreek »: de gemeenten: Anzegem, Avelgem, De Pinte, Deerlijk, Deinze, Dentergem, Harelbeke, Hooglede, Ingelmunster, Izegem Kortrijk, Kuurne, Ledegem, Lendelede, Menen, Meulebeke, Moorslede, Nazareth, Oostrozebeke, Roeselare, Sint-Martens-Latem, Spiere-Helkijn, Waregem, Wervik, Wevelgem, Wielsbeke, Zulte en Zwevegem;<br /><br />« uit het Meetjesland »: de gemeenten: Aalter, Assenede, Eeklo, Evergem, Kaprijke, Knesselare, Lovendegem, Maldegem, Nevele, Sint-Laureins, Waarschoot, Zelzate en Zomergem;<br /><br />« uit de Vlaamse Ardennen »: de gemeenten: Brakel, Gavere, Geraardsbergen, Herzele, Horebeke, Kluisbergen, Kruishoutem, Lierde, Maarkedal, Oosterzele, Oudenaarde, Ronse, Sint-Lievens-Houtem, Wortegem-Petegem, Zingem, Zottegem en Zwalm;<br /><br />« uit de Schelde- en Denderstreek »: de gemeenten: Aalst, Aartselaar, Berlare, Boom, Bornem, Buggenhout, Denderleeuw, Dendermonde, Destelbergen, Erpe-Mere,Gent, Haaltert, Hamme, Hemiksem, Laarne, Lebbeke, Lede, Melle, Merelbeke, Niel, Ninove, Puurs, Rumst, Schelle, Sint-Amands, Wetteren, Wichelen, Willebroek en Zele;<br /><br />- « uit het Waasland »: de gemeenten: Beveren, Kruibeke, Lochristi, Lokeren, Moerbeke, Sint-Gillis-Waas, Sint-Niklaas, Stekene, Temse, Waasmunster en Wachtebeke;<br /><br />« uit het Pajottenland en Zennevallei »: de gemeenten: Affligem, Asse, Beersel,, Bever, Dilbeek, Drogenbos, Galmaarden, Gooik, Halle, Herne, Kraainem, Lennik, Liedekerke, Linkebeek, Merchtem, Meise, Opwijk, Pepingen, Roosdaal, Sint-Genesius-Rode, Sint-Pieters-Leeuw, Ternat, Wemmel;<br /><br />« uit de Dijlevallei » de gemeenten: Bertem, Boortmeerbeek, Duffel, Grimbergen, Haacht, Herent, Hoeilaart, Huldenberg, Kampenhout, Kapelle Op Den Bos, Keerbergen, Kortenberg, Londerzeel, Mechelen, Oud-Heverlee, Overijse, Sint-Katelijne-Waver, Steenokkerzeel, Tervuren, Machelen, Vilvoorde, Wezembeek-Oppem, Zaventem en Zemst;<br /><br />« uit Antwerpen en de Antwerpse Kempen »: de gemeenten:Antwerpen, Arendonk, Baarle-Hertog, Balen, Beerse, Berlaar, Boechout, Bonheiden, Borsbeek, Brasschaat, Brecht, Dessel, Edegem, Essen, Geel, Grobbendonk, Heist-op-den-Berg, Herentals, Herenthout, Herselt, Hoogstraten, Hove, Hulshout, Kalmthout, Kapellen, Kasterlee, Kontich, Laakdal, Lier, Lille, Lint, Malle, Meerhout, Merksplas, Mol, Mortsel, Nijlen, Olen Oud-Turnhout, Putte, Ranst, Ravels, Retie, Rijkevorsel, Schilde, Schoten, Stabroek, Turnhout, Vorselaar, Vosselaar, Westerlo, Wijnegem, Wommelgem, Wuustwezel, Zandhoven, Zoersel en Zwijndrecht;<br /><br />« uit de Limburgse Kempen »: de gemeenten: Bocholt, Bree, Ham, Hamont-Achel, Hasselt, Hechtel-Eksel, Leopoldsburg, Lommel, Lummen, Meeuwen-Gruitrode, Neerpelt, Opglabbeek, Overpelt, Peer, Tessenderlo en Zutendaal;<br /><br />« uit de Mijnstreek »: de gemeenten: As, Beringen, Genk, Heusden-Zolder, Houthalen-Helchteren en Zonhoven;<br /><br />« uit het Maasland »: de gemeenten: Dilsen-Stokkem, Kinrooi, Lanaken, Maaseik, Maasmechelen en Neeroeteren;<br /><br />« uit de Voerstreek »: de gemeente Voeren;<br /><br />« uit de Oost-Brabantse Heuvelstreek »: de gemeenten: Aarschot, Begijnendijk, Bekkevoort, Bierbeek, Boutersem, Diest, Geetbets, Glabbeek, Halen, Hoegaarden, Holsbeek, Kortenaken, Landen, Leuven, Linter, Lubbeek, Rotselaar, Scherpenheuvel-Zichem, Tielt-Winge, Tienen, Tremelo en Zoutleeuw;<br /><br />« uit de Zuid-Limburgse Fruitstreek »: de gemeenten: Alken, Bilzen, Borgloon, Diepenbeek, Gingelom, Heers, Herk-De-Stad,, Herstappe, Hoeselt, Kortessem, Nieuwerkerken, Riemst, Sint-Truiden, Tongeren en Wellen.
+
+### ART. 2.
+
+Om in aanmerking te komen voor de benaming "Vlaamse landwijn " moeten de druiven volledig uit het Vlaams Gewest en in voorkomend geval uit de op het etiket vermelde geografische eenheid afkomstig zijn.
+
+### ART. 3.
+
+Om aanspraak te kunnen maken op de benaming "Vlaamse landwijn" moet de wijn afkomstig zijn van wijnstokrassen behorende tot de soort Vitis Vinifera of uit een kruising van deze soort met andere soorten van het geslacht Vitis zijn verkregen.
+
+### ART. 4.
+
+De verwerking van druiven afkomstig uit de in artikel 3 bedoelde rassen tot druivenmost en van de druivenmost tot wijn geschiedt binnen de geografische eenheid waar de druiven zijn geoogst.
+
+### ART. 5.
+
+Voor de verse druiven, het gedeeltelijk gegiste druivenmost of de jonge nog gistende wijn mag:<br /><br />5.1. een verhoging van het natuurlijk alcohol-volumegehalte geschieden door toevoeging van saccharose, geconcentreerde druivenmost of gerectificeerde geconcentreerde druivenmost;<br /><br />5.2. een gedeeltelijke ontzuring van wijn geschieden. Deze ontzuring mag slechts plaatshebben tot een maximum van 1 gram per liter, uitgedrukt in wijnsteenzuur, ofwel 13,3 milli-equivalent per liter.<br /><br />Deze oenologische procédés mogen enkel op het wijnbouwbedrijf worden uitgevoerd.
+
+### ART. 6.
+
+Het minimum natuurlijk alcohol-volumegehalte moet 8 % vol bereiken.<br /><br />Het totale alcohol-volumegehalte mag niet lager zijn dan 9 % vol.<br /><br />Het effectieve alcohol-volumegehalte moet minstens 8,5 % vol bedragen.
+
+### ART. 7.
+
+De gemiddelde maximale opbrengst is beperkt tot 90 hl/ha. De opbrengst kan jaarlijks door de Erkenningscommissie worden aangepast.
+
+### ART. 8.
+
+Om voor de benaming "Vlaamse landwijn " in aanmerking te komen moet een aanvraag bij de Erkenningscommissie worden ingediend. Een minimum-productie van 60 liter per lot is vereist om een erkenningsaanvraag te mogen indienen. Het dossier moet volgende elementen bevatten:<br /><br />- naam en adres van aanvrager/producent;<br /><br />- kuip/vat-nummer;<br /><br />- productiejaar en volume;<br /><br />- wijnstokras(sen);<br /><br />- productie per lot;<br /><br />- natuurlijk alcoholgehalte (= suikergehalte: 17)<br /><br />- een verklaring volgens dewelke de hele bewerking van druif tot wijn in de erkende productiezone heeft plaatsgevonden.
+
+### ART. 9.
+
+De producenten moeten wijn die voor de benaming "Vlaamse landwijn" in aanmerking komt, aan een analytisch en een organoleptisch onderzoek onderwerpen.<br /><br />Doel van het analytisch onderzoek is controleren of de wijn voldoet aan de door de Erkenningscommissie opgesomde factoren. Alleen wijnen die voldoen, worden aan een organoleptisch onderzoek onderworpen.<br /><br />Het organoleptisch onderzoek heeft betrekking op kleur, klaarheid, reuk en smaak. De onderzochte wijn moet ten minste elf punten behalen op een maximum van 20.<br /><br />Met het oog op deze analyses moeten 3 flessen van 75 cl aan de Erkenningscommissie worden bezorgd. Het eerste monster is bestemd voor het analytisch onderzoek en het tweede voor het organoleptisch onderzoek. Het derde monster wordt door het secretariaat van de Erkenningscommissie, voor een eventuele tegen-expertise, bewaard gedurende drie jaar vanaf datum van het analysebulletin.<br /><br />De kosten die gepaard gaan met het analytisch en organoleptisch onderzoek in het kader van de erkenningsaanvraag zijn ten laste van de aanvrager.
+
+### ART. 10.
+
+Onverminderd de door de Erkenningscommissie toegestane aanvullende vermeldingen mag, mits de hierboven vermelde voorwaarden werden vervuld, de wijn de benaming "Vlaamse landwijn" dragen.<br /><br />De etikettering dient verplicht de vermelding "Vlaamse landwijn" eventueel gevolgd door één van de in artikel 1 vermelde geografische eenheid te dragen. De termen "Vlaamse landwijn" en elke term die naar deze benaming verwijst zijn verboden voor de niet erkende wijnen.
+
+### ART. 11.
+
+De producent mag de wijn die recht heeft op de benaming "Vlaamse landwijn" tot tafelwijn zonder geografische aanduiding declasseren.<br />De Erkenningscommissie, die voorafgaandelijk van elk bulktransport moet worden verwittigd, zal desgevallend de bevoegde controlediensten van de andere Lidstaten verwittigen.<br /><br />De toepassingsmodaliteiten van de monsterneming worden door de Erkenningscommissie vastgelegd. Bedoelde producten mogen zich binnen de Gemeenschap slechts in het verkeer bevinden met een begeleidend document dat door de overheid is gecontroleerd.
+
+### ART. 12.
+
+Er wordt een Erkenningscommissie « Vlaamse landwijn » opgericht, die belast wordt met de uitvoering van dit besluit en meer in het bijzonder de erkenning van volgens dit besluit geproduceerde wijn als « Vlaamse landwijn ».<br /><br />De Erkenningscommissie is als volgt samengesteld:<br /><br />- 4 vertegenwoordigers van de Vlaamse wijnbouwers;<br /><br />- 2 vertegenwoordigers van de vzw Belgische Federatie van Wijn & Gedistilleerd;<br /><br />- 1 vertegenwoordiger van de Horeca;<br /><br />- 1 vertegenwoordiger van de Kleinhandel;<br /><br />- 1 vertegenwoordiger van de Distributie;<br /><br />- 1 vertegenwoordiger van de Algemene Directie Controle en Bemiddeling van de Federale Overheidsdienst Economie, KMO, Middenstand & Energie, belast met de officiële controle voor de Lidstaat;<br /><br />- 1 vertegenwoordiger van vzw VLAM, Vlaams Centrum voor Agro- en Visserijmarketing.<br /><br />Organisatie en werking van de Erkenningscommissie worden bij huishoudelijk reglement geregeld.<br /><br />Alleen de Erkenningscommissie is bevoegd, met een tweederde meerderheid van de aanwezige en vertegenwoordigde leden wijzigingen voor te stellen aan dit Ministerieel Besluit.
+
+### ART. 13.
+
+Elke producent die een erkenningsdossier heeft ingediend of beschikt over een erkende Vlaamse landwijn moet zich op elk ogenblik onderwerpen aan controles door de Erkenningscommissie en door de bevoegde overheden.<br /><br />Indien uit de controle blijkt dat de bepalingen van dit besluit niet gerespecteerd werden, worden de kosten van de controle ten laste gelegd van de betrokken producent, onverminderd mogelijke andere wettelijke of administratieve sancties.
