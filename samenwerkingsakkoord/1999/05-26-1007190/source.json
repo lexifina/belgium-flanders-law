@@ -1,0 +1,17 @@
+{
+  "codex_id": 1007190,
+  "title": "Samenwerkingsakkoord van 1999-05-26 tussen de federale staat, de Franse Gemeenschap, de Vlaamse Gemeenschap, de Duitstalige Gemeenschap, het Waalse Gewest, het Vlaamse Gewest en het Brussels Hoofdstedelijk Gewest houdende de aanstellingsmodaliteiten voor de vertegenwoordigers van de Gemeenschappen en de Gewesten in het oriënteringscomité en het wetenschappelijk comité voor de economische begroting, zoals die zijn opgericht krachtens de artikelen 115 en 116 van de wet van 21 december 1994 houdende sociale en diverse bepalingen",
+  "type": "Samenwerkingsakkoord",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1007190/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "d60acbbfae567196741f69a8cf24d668cb54b8429a07ed25b0e0252fc4c90c4d",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1007190&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "1999-05-26",
+  "gazette": "2000-03-10",
+  "numac": 0,
+  "document_start": null,
+  "document_end": null,
+  "in_force": "2006-06-01",
+  "article_versions": 6,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
