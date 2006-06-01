@@ -1,0 +1,17 @@
+{
+  "codex_id": 1015296,
+  "title": "Samenwerkingsakkoord van 1997-10-29 tot verlenging van het samenwerkingsakkoord van 13 februari 1996 tussen de Staat, de Gemeenschappen en de Gewesten betreffende het Begeleidingsplan der werklozen",
+  "type": "Samenwerkingsakkoord",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1015296/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "8ebc7793d580da30cc4bc3021484bd4ee0f65da41abbcf887c0d2dbaca56b3d7",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1015296&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "1997-10-29",
+  "gazette": "1997-12-02",
+  "numac": 1997012772,
+  "document_start": null,
+  "document_end": null,
+  "in_force": "2006-06-01",
+  "article_versions": 2,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
