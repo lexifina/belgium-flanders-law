@@ -1,0 +1,17 @@
+{
+  "codex_id": 1006952,
+  "title": "Ministerieel besluit van 1999-06-07 houdende de vastlegging van evaluatiecriteria zoals bedoeld in artikel 5 van het besluit van de Vlaamse regering van 17 maart 1998 houdende vaststelling van het programma voor serviceflatgebouwen, woningcomplexen met dienstverlening en rusthuizen",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1006952/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "464ab1c9b92124e811d19d2f106aea8554b7bd57e6e9a7da0cddc98c64dd729c",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1006952&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "1999-06-07",
+  "gazette": "1999-09-29",
+  "numac": 0,
+  "document_start": null,
+  "document_end": null,
+  "in_force": "2006-06-01",
+  "article_versions": 30,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
