@@ -1,0 +1,17 @@
+{
+  "codex_id": 1004357,
+  "title": "Omzendbrief van 1989-06-14 betreffende de neerlegging van een plan van de jachtterreinen",
+  "type": "Omzendbrief",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1004357/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "68004b72097b21831a197fac2a4957b630100649212dcda3ff80d106ab0089ab",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1004357&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "1989-06-14",
+  "gazette": "1989-06-30",
+  "numac": 0,
+  "document_start": null,
+  "document_end": null,
+  "in_force": "2006-06-01",
+  "article_versions": 1,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
