@@ -1,0 +1,17 @@
+{
+  "codex_id": 1013350,
+  "title": "Besluit van de Vlaamse Regering van 2004-06-04 houdende vaststelling van de grenzen en de toekenningsvoorwaarden van het presentiegeld en de andere vergoedingen die in het kader van de bestuurlijke werking van een dienstverlenende of opdrachthoudende vereniging kunnen worden toegekend",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1013350/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "d9e0b64ecdd6055483b29f584eac864682341fa9fec0d5a970bd1e91f4a563da",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1013350&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "2004-06-04",
+  "gazette": "2004-08-27",
+  "numac": 2004036356,
+  "document_start": null,
+  "document_end": "2018-12-31",
+  "in_force": "2006-06-01",
+  "article_versions": 18,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
