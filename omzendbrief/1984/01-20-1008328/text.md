@@ -1,0 +1,5 @@
+# Omzendbrief van 1984-01-20 aan de gemeenten en provincies i.v.m. de bescherming van de Vlaamse circussen
+
+### Tekst
+
+Betreft: beslissing van de Vlaamse regering d.d. 14 september 1983 tot bescherming van de Vlaamse circussen.<br /><br />Ingevolge de beslissing van de Vlaamse regering vraag ik de medewerking van de gemeentebesturen bij het nemen van maatregelen die overlevingskansen voor de Vlaamse circussen inhouden.<br /><br />Feit is dat er piraatcircussen bestaan die frequent de werkingsmogelijkheden van de Vlaamse circussen beperken. Deze piraatcircussen zijn wettelijk niet in orde wat betreft handelsregister, BTW-nummer, een vaste woonplaats in België.<br /><br />De gemeenten zijn dus in staat hiertegen op te treden.<br /><br />Drie Vlaamse circussen met namen het Wiener Circus, het circus Appolo en het circus Ronaldo zijn wettelijk wel in orde.<br /><br />De Vlaamse regering vraagt aan alle Vlaamse gemeentebesturen een extra inspanning te doen ten voordele van de Vlaamse circussen en dit vooral op het vlak van het ter beschikking stellen van geschikte standplaatsen, en het bieden van bescherming tegen de piraatcircussen.

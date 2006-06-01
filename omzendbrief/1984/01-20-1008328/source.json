@@ -1,0 +1,17 @@
+{
+  "codex_id": 1008328,
+  "title": "Omzendbrief van 1984-01-20 aan de gemeenten en provincies i.v.m. de bescherming van de Vlaamse circussen",
+  "type": "Omzendbrief",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1008328/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "2f7ccd79a70bf18fdfb91c0a1f186f28f4ba59ff4851d7ac49467b3b56a0f0d1",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1008328&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "1984-01-20",
+  "gazette": "1984-02-25",
+  "numac": 0,
+  "document_start": null,
+  "document_end": null,
+  "in_force": "2006-06-01",
+  "article_versions": 1,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
