@@ -1,0 +1,17 @@
+{
+  "codex_id": 1005282,
+  "title": "Besluit van de Vlaamse Regering van 1996-12-10 betreffende de vorm van de diploma's uitgereikt door de hogescholen in de Vlaamse Gemeenschap",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1005282/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "4812b09e5f7afad60f1bccf4c92ba3e65375d35b843a54d49055b281e8c8e5b9",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1005282&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "1996-12-10",
+  "gazette": "1997-02-20",
+  "numac": 1997035183,
+  "document_start": "1995-09-01",
+  "document_end": "2016-12-31",
+  "in_force": "2006-06-01",
+  "article_versions": 7,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
