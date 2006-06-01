@@ -1,0 +1,17 @@
+{
+  "codex_id": 1013260,
+  "title": "Besluit van de Vlaamse Regering van 2004-05-14 betreffende de exploitatie en de tarieven van de VVM",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1013260/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "060a2ee9aade806209109593936c4f8dc4e8038bb9235767e99f93fabc0499be",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1013260&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "2004-05-14",
+  "gazette": "2004-07-20",
+  "numac": 2004036217,
+  "document_start": null,
+  "document_end": null,
+  "in_force": "2006-06-01",
+  "article_versions": 93,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
