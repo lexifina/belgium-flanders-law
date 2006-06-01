@@ -1,0 +1,17 @@
+{
+  "codex_id": 1001769,
+  "title": "Besluit van de Vlaamse Regering van 1994-11-30 houdende de voorwaarden inzake erkenning en subsidiëring van huurdersbonden [...]",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1001769/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "fa60f751954bc4211cbd640367be94dc9aa701998089eb20383a57e6ec20eee8",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1001769&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "1994-11-30",
+  "gazette": "1995-01-27",
+  "numac": 1995035105,
+  "document_start": null,
+  "document_end": "2005-12-31",
+  "in_force": "2006-06-01",
+  "article_versions": 24,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
