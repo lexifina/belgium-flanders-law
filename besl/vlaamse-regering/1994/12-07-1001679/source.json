@@ -1,0 +1,17 @@
+{
+  "codex_id": 1001679,
+  "title": "Besluit van de Vlaamse Regering van 1994-12-07 houdende de vaststelling van de modaliteiten voor het bepalen van schadevergoeding tot uitvoering van artikel 87, zesde lid, van de wet van 29 maart 1962 houdende organisatie van de ruimtelijke ordening en van de stedenbouw, zoals vervangen door artikel 2 van het decreet van 30 juni 1994 houdende wijziging van artikel 87 van de wet van 29 maart 1962",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1001679/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "550096b4fb78a4544579a8e321eb8c1775cb58237af9f46a956c47b1a7cfd4a3",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1001679&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "1994-12-07",
+  "gazette": "1995-01-14",
+  "numac": 1995035040,
+  "document_start": "1995-01-14",
+  "document_end": null,
+  "in_force": "2006-06-01",
+  "article_versions": 8,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
