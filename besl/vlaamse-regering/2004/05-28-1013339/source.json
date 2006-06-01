@@ -1,0 +1,17 @@
+{
+  "codex_id": 1013339,
+  "title": "Besluit van de Vlaamse Regering van 2004-05-28 betreffende de erkenning en de financiële ondersteuning van ondersteuningspunten in het kader van \"Toerisme voor Allen",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1013339/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "bbbb46205688f15cae6cb49fe6b80b6f7e57ea8bb0c855d26b3518ec7259f322",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1013339&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "2004-05-28",
+  "gazette": "2004-08-19",
+  "numac": 2004036323,
+  "document_start": null,
+  "document_end": null,
+  "in_force": "2006-06-01",
+  "article_versions": 17,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
