@@ -1,0 +1,5 @@
+# Omzendbrief van 1995-02-02 BA-G 95/3 betreffende de veiligheid van de weggebruiker
+
+### Tekst
+
+Regelmatig word ik in mijn bevoegdheid inzake openbare werken in het Vlaamse Gewest geconfronteerd met personen en belangengroepen die klachten formuleren in verband met de aanleg van verkeersdrempels en -plateaus en de hoogteligging van rioolschouwdeksels op gemeente- en provinciewegen, omdat de constructies de veiligheid van de weggebruikers in gevaar brengen.<br /><br />Vanuit mijn bevoegdheid inzake Binnenlandse Aangelegenheden wens ik bij de provincie- en gemeentebesturen aan te dringen dat de uitgevaardigde reglementaire bepalingen in verband met de vermelde constructies strikt zouden worden nageleefd. Bij ontstentenis van dergelijke bepalingen verzoek ik de besturen bij het aanleggen van deze constructies maximaal rekening te houden met de veiligheid van elke weggebruiker.<br /><br />Het zorgvuldig aanleggen van deze constructies kan tevens de aansprakelijkheid van het bestuur in het geding brengen.

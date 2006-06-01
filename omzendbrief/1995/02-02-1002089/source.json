@@ -1,0 +1,17 @@
+{
+  "codex_id": 1002089,
+  "title": "Omzendbrief van 1995-02-02 BA-G 95/3 betreffende de veiligheid van de weggebruiker",
+  "type": "Omzendbrief",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1002089/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "b144c9ccf1d8cc56e725405a88f028b8e6f2acf01954670eaa50d79e261e1fe5",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1002089&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "1995-02-02",
+  "gazette": "1995-03-22",
+  "numac": 0,
+  "document_start": null,
+  "document_end": null,
+  "in_force": "2006-06-01",
+  "article_versions": 1,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
