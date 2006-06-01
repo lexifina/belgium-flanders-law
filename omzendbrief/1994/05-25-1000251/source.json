@@ -1,0 +1,17 @@
+{
+  "codex_id": 1000251,
+  "title": "Omzendbrief van 1994-05-25 GIS/94/1 betreffende de geografische informatie in Vlaanderen",
+  "type": "Omzendbrief",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1000251/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "53d1009b9ec7502005752cce743a5fcfac845ba4ff42000855457b800a33cfb1",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1000251&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "1994-05-25",
+  "gazette": "1994-08-03",
+  "numac": 0,
+  "document_start": null,
+  "document_end": null,
+  "in_force": "2006-06-01",
+  "article_versions": 2,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
