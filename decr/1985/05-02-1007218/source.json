@@ -1,0 +1,17 @@
+{
+  "codex_id": 1007218,
+  "title": "Decreet van 1985-05-02 betreffende de pensioenregeling van de personeelsleden van sommige gemeenschapsinstellingen",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1007218/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "3ee68f119617fd00ced8ef63de8a0bd42c8391ee9b6597fb3f71e260ab13f670",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1007218&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "1985-05-02",
+  "gazette": "1985-06-22",
+  "numac": 1985024407,
+  "document_start": null,
+  "document_end": null,
+  "in_force": "2006-06-01",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
