@@ -1,0 +1,17 @@
+{
+  "codex_id": 1014695,
+  "title": "Ministerieel besluit van 2006-06-21 tot vastelling van de voorwaarden van toekenning van een persoonlijke-assistentiebudget",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1014695/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "058083aac76b4d8f58c06a12b47588a3054ad2e538574c34311d5ad5608d07af",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1014695&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "2006-06-21",
+  "gazette": "2006-07-25",
+  "numac": 2006036125,
+  "document_start": "2006-06-01",
+  "document_end": null,
+  "in_force": "2006-06-01",
+  "article_versions": 5,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
