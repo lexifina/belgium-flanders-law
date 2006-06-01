@@ -1,0 +1,17 @@
+{
+  "codex_id": 1014174,
+  "title": "Ministerieel besluit van 1998-10-30 tot vaststelling van de voorschriften betreffende de biologische productie in de dierlijke sector",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1014174/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "b370a727f372cf50688cf7c1cc09c2ed8832b1edb087ac640cfe4886d4b00d5f",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1014174&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "1998-10-30",
+  "gazette": "1998-12-01",
+  "numac": 0,
+  "document_start": null,
+  "document_end": "2008-12-31",
+  "in_force": "2006-06-01",
+  "article_versions": 6,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
