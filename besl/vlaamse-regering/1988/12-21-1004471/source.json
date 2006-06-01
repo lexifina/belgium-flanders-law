@@ -1,0 +1,17 @@
+{
+  "codex_id": 1004471,
+  "title": "Besluit van de Vlaamse Regering van 1988-12-21 betreffende de samenstelling en werking van de Hoge Raad voor de Samenlevingsopbouw",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1004471/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "33a498ca35cfc34d1c7497277bfd366d747f4d4da03fbe3abcfbe9c90c067e11",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1004471&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "1988-12-21",
+  "gazette": "1989-02-15",
+  "numac": 1989029088,
+  "document_start": null,
+  "document_end": null,
+  "in_force": "2006-06-01",
+  "article_versions": 15,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
