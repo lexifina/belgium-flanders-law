@@ -1,0 +1,17 @@
+{
+  "codex_id": 1007705,
+  "title": "Besluit van de Vlaamse Regering van 2000-06-23 tot vaststelling van [de vakgebonden eindtermen] van de tweede en de derde graad van het gewoon secundair onderwijs",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1007705/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "7a65b9439ccfb61fa338f1b8f990365026946cbec01cb31e45b7b278d9b578ec",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1007705&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "2000-06-23",
+  "gazette": "2000-11-29",
+  "numac": 2000036061,
+  "document_start": null,
+  "document_end": null,
+  "in_force": "2006-06-01",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
