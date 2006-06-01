@@ -1,0 +1,17 @@
+{
+  "codex_id": 1000758,
+  "title": "Ministerieel besluit van 1994-07-14 houdende goedkeuring van het huishoudelijk reglement van het comité van beroep met betrekking tot de beheersplannen van privé-bossen",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1000758/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "43e230bc2548b8ad40b4e3a4cfc9cdbb25d0be18198994d4e4924d53bac1e3f9",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1000758&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "1994-07-14",
+  "gazette": "1994-09-24",
+  "numac": 0,
+  "document_start": null,
+  "document_end": null,
+  "in_force": "2006-06-01",
+  "article_versions": 11,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
