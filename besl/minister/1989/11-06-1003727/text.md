@@ -1,0 +1,5 @@
+# Ministerieel besluit van 1989-11-06 betreffende aanpassing van de lenersbijdragen die de nederlandstalige openbare bibliotheken moeten voorzien in hun dienstreglement voor de uitleen van audio-visuele materialen
+
+### Enig ikel. Enig ikel.
+
+Enig artikel. De uitleengelden voor audiovisuele materialen, zoals voorzien in artikel 42 van het koninklijk besluit van 13 september 1979 houdende de voorwaarden tot erkenning door de Staat van de nederlandstalige openbare bibliotheken, worden als volgt aangepast:<br /><br />a) een uitleengeld van ten hoogste 10 F per uitlening en per drie weken voor de uitlening van grammofoonplaten, muziekcassettes en dia-reeksen;<br /><br />b) een uitleengeld van ten hoogste 20 F per uitlening en per drie weken voor de uitlening van compact-discs;<br /><br />c) een uitleengeld voor video-cassettes van ten hoogste 100 F voor twee dagen en ten hoogste 50 F per extra dag voor de uitlening van fiction, en van ten hoogste 50 F voor twee dagen en ten hoogste 25 F per extra dag voor de uitlening van non-fiction.
