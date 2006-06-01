@@ -1,0 +1,17 @@
+{
+  "codex_id": 1003608,
+  "title": "Omzendbrief van 1989-09-12 verwijdering van schroot en autowrakken",
+  "type": "Omzendbrief",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1003608/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "66d853fcf26874da822ec204d7e7d5144a955ee237d14b028b2208d9887161f4",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1003608&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "1989-09-12",
+  "gazette": "1990-04-20",
+  "numac": 0,
+  "document_start": null,
+  "document_end": null,
+  "in_force": "2006-06-01",
+  "article_versions": 1,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
