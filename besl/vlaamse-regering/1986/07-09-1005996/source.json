@@ -1,0 +1,17 @@
+{
+  "codex_id": 1005996,
+  "title": "Besluit van de Vlaamse Regering van 1986-07-09 tot goedkeuring van de aanpassing van de statuten van de Gewestelijke Investeringsmaatschappij voor Vlaanderen",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1005996/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "0ab892ba61e0de69ad25ea3b07b00218c06a26ad8527555a97a90566db74b2cf",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1005996&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "1986-07-09",
+  "gazette": "1986-10-14",
+  "numac": 1986029519,
+  "document_start": null,
+  "document_end": null,
+  "in_force": "2006-06-01",
+  "article_versions": 55,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
