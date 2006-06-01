@@ -1,0 +1,17 @@
+{
+  "codex_id": 1003164,
+  "title": "Besluit van de Vlaamse Regering van 1985-05-02 tot uitvoering van het decreet van 27 november 1984 houdende subsidiëring van verenigingen voor vakantiespeelpleinwerk en van verenigingen voor jeugdvakanties",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1003164/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "8f81d34879b50fc994eb7dfa2bfcab3357bd1f27486b3f1f305060b18d26e130",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1003164&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "1985-05-02",
+  "gazette": "1985-07-26",
+  "numac": 1985024588,
+  "document_start": null,
+  "document_end": null,
+  "in_force": "2006-06-01",
+  "article_versions": 15,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
