@@ -1,0 +1,17 @@
+{
+  "codex_id": 1003764,
+  "title": "Decreet van 1995-04-19 houdende diverse wijzigingsbepalingen betreffende het hoger onderwijs in de Vlaamse Gemeenschap",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1003764/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "ce5d580bc23a5dedbe1f02ef91b184190acb20b9f0735f1046f32b0e44fa8f01",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1003764&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "1995-04-19",
+  "gazette": "1995-07-20",
+  "numac": 1995035906,
+  "document_start": null,
+  "document_end": null,
+  "in_force": "2006-06-01",
+  "article_versions": 23,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
