@@ -1,0 +1,17 @@
+{
+  "codex_id": 1009264,
+  "title": "Ministerieel besluit van 2002-07-08 houdende bepalingen wat betreft het gebruik van zeeflappen bij de garnaalvisserij",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1009264/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "83a365c4e5be84500c98662a0dbf0d2b62fb4c1daf9074fac274216d61184454",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1009264&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "2002-07-08",
+  "gazette": "2002-07-13",
+  "numac": 2002016167,
+  "document_start": "2002-07-13",
+  "document_end": null,
+  "in_force": "2006-06-01",
+  "article_versions": 5,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
