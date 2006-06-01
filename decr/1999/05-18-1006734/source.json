@@ -1,0 +1,17 @@
+{
+  "codex_id": 1006734,
+  "title": "Decreet van 1999-05-18 houdende oprichting van een Vlaamse Land- en Tuinbouwraad",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1006734/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "30fae4d9ddc264c01af311cf4c35bc9dac418a299278a68e9e0c18f95bcf1e77",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1006734&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "1999-05-18",
+  "gazette": "1999-07-10",
+  "numac": 1999035824,
+  "document_start": null,
+  "document_end": "2008-10-11",
+  "in_force": "2006-06-01",
+  "article_versions": 10,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
