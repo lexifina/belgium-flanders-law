@@ -1,0 +1,17 @@
+{
+  "codex_id": 1000431,
+  "title": "Besluit van de Vlaamse Regering van 1994-07-06 tot regeling van de werking en het financieel beheer van het Vlaams Infrastructuurfonds voor persoonsgebonden aangelegenheden",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1000431/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "72fb1ff4828cfa7c60ee0fd95a334c888ac9ebcba3d3e8077ffcdcd68ef0eb5e",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1000431&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "1994-07-06",
+  "gazette": "1994-08-30",
+  "numac": 1994036083,
+  "document_start": "1994-07-01",
+  "document_end": "2008-11-08",
+  "in_force": "2006-06-01",
+  "article_versions": 21,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
