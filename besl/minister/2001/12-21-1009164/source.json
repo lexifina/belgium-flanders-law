@@ -1,0 +1,17 @@
+{
+  "codex_id": 1009164,
+  "title": "Ministerieel besluit van 2001-12-21 tot uitvoering van het besluit van de Vlaamse regering van 14 december 2001 betreffende de opleidingscheques",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1009164/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "5bab46fd1bb6b201dfadef39cc7972ca219dd803fd7f0863cbc5f05b4d90f8b5",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1009164&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "2001-12-21",
+  "gazette": "2002-05-25",
+  "numac": 2002035178,
+  "document_start": "2001-12-21",
+  "document_end": null,
+  "in_force": "2006-06-01",
+  "article_versions": 9,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
