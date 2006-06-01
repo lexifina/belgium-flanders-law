@@ -1,0 +1,17 @@
+{
+  "codex_id": 1007623,
+  "title": "Omzendbrief van 1985-09-01 WBB/85/2 betreffende de organisatie van de kwaliteitscontrole van putwater",
+  "type": "Omzendbrief",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1007623/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "6d3c518ad3c1e08d22d15d05c21cd76175c3d91a74c5cab6abf8f35ef6db4928",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1007623&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "1985-09-01",
+  "gazette": "1985-12-05",
+  "numac": 0,
+  "document_start": null,
+  "document_end": null,
+  "in_force": "2006-06-01",
+  "article_versions": 2,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
