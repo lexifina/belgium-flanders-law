@@ -1,0 +1,17 @@
+{
+  "codex_id": 1006202,
+  "title": "Omzendbrief van 1998-03-23 RO/98/2 betreffende de algemene bouwverordening inzake wegen voor voetgangersverkeer",
+  "type": "Omzendbrief",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1006202/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "a4d3d72c7d3d91270309d35d50a6a13ab133485258a6de1918d60ab482049d68",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1006202&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "1998-03-23",
+  "gazette": "1998-04-07",
+  "numac": 1998035371,
+  "document_start": null,
+  "document_end": null,
+  "in_force": "2006-06-01",
+  "article_versions": 1,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
