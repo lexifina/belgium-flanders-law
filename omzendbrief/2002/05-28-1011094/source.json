@@ -1,0 +1,17 @@
+{
+  "codex_id": 1011094,
+  "title": "Omzendbrief van 2002-05-28 WEL/KWAL/01/1 betreffende de kwalificatievereisten van de verzorgende personeelsleden in de rusthuizen",
+  "type": "Omzendbrief",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1011094/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "3b7ccfc0bde5369d5e1b2074e3e1c0481e66975095e5ed824463ee4ff8b4593b",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1011094&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "2002-05-28",
+  "gazette": "2003-06-02",
+  "numac": 2003035580,
+  "document_start": "2001-01-01",
+  "document_end": null,
+  "in_force": "2006-06-01",
+  "article_versions": 1,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
