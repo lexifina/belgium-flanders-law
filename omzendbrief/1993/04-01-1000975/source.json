@@ -1,0 +1,17 @@
+{
+  "codex_id": 1000975,
+  "title": "Omzendbrief van 1993-04-01 betreffende het besluit van de Vlaamse regering van 1 april 1993 tot regeling van de tegemoetkoming van het Vlaamse Gewest voor de uitvoering van stads- of dorpsherwaarderingsprojecten",
+  "type": "Omzendbrief",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1000975/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "075b60c9854baca1a065299039156b439e7d8c52f771848aa1f2eac5dbfac20d",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1000975&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "1993-04-01",
+  "gazette": "1993-09-21",
+  "numac": 1993801468,
+  "document_start": null,
+  "document_end": null,
+  "in_force": "2006-06-01",
+  "article_versions": 1,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
