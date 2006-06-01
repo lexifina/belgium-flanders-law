@@ -1,0 +1,17 @@
+{
+  "codex_id": 1013974,
+  "title": "Besluit van de Vlaamse Regering van 2005-07-22 betreffende de Huizen van het Nederlands",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1013974/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "7c0468e95f441753f69a4c94d52124e39b009b9056f8d2a59b5476b70fb467b7",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1013974&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "2005-07-22",
+  "gazette": "2005-09-16",
+  "numac": 2005036108,
+  "document_start": "2005-07-01",
+  "document_end": "2016-02-28",
+  "in_force": "2006-06-01",
+  "article_versions": 19,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
