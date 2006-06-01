@@ -1,0 +1,17 @@
+{
+  "codex_id": 1000732,
+  "title": "Besluit van de Vlaamse Regering van 1994-07-20 tot uitvoering van het decreet van 13 juli 1994 houdende wijziging van artikel 79 van de wet van 29 maart 1962 houdende organisatie van de ruimtelijke ordening en van de stedebouw",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1000732/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "29d6dcb3df5244fb5d1d890a0c7c35c20c7515dfc22ceaa5edd022cf779120fc",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1000732&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "1994-07-20",
+  "gazette": "1994-09-22",
+  "numac": 1994036170,
+  "document_start": "1994-09-22",
+  "document_end": null,
+  "in_force": "2006-06-01",
+  "article_versions": 5,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
