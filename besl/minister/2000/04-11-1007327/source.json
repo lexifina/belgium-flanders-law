@@ -1,0 +1,17 @@
+{
+  "codex_id": 1007327,
+  "title": "Ministerieel besluit van 2000-04-11 betreffende de vaststelling van het huishoudelijk reglement van de Adviserende Beroepscommissie voor sportaangelegenheden",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1007327/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "9e287d91d135bfa87a01f57075ff003b3e77a4ffce11b3f6fb62e294c7c59ef7",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1007327&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "2000-04-11",
+  "gazette": "2000-06-16",
+  "numac": 2000035535,
+  "document_start": "2000-04-11",
+  "document_end": null,
+  "in_force": "2006-06-01",
+  "article_versions": 14,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
