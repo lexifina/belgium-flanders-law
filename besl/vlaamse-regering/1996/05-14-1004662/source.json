@@ -1,0 +1,17 @@
+{
+  "codex_id": 1004662,
+  "title": "Besluit van de Vlaamse Regering van 1996-05-14 tot uitvoering, wat de Vlaamse Gemeenschapscommissie betreft, van het decreet van 14 mei 1996 tot vaststelling van de regelen inzake de werking en de verdeling van het Sociaal Impulsfonds",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1004662/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "ce40c18f2788b8175ebc2f794a729cc09dab2cbc69e85c3fe9bd53a60f5286c0",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1004662&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "1996-05-14",
+  "gazette": "1996-07-03",
+  "numac": 1996035734,
+  "document_start": "1996-01-01",
+  "document_end": null,
+  "in_force": "2006-06-01",
+  "article_versions": 23,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
