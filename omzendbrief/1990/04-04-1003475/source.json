@@ -1,0 +1,17 @@
+{
+  "codex_id": 1003475,
+  "title": "Omzendbrief van 1990-04-04 nr. B.A.-G- 90/3 betreffende de uitstapmogelijkheid voor bepaalde leden van het gemeentepersoneel",
+  "type": "Omzendbrief",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1003475/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "952beee3108b171fad9e56e320c44f99d63455228310f3b4fc68c6aab7143090",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1003475&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "1990-04-04",
+  "gazette": "1990-07-13",
+  "numac": 0,
+  "document_start": null,
+  "document_end": null,
+  "in_force": "2006-06-01",
+  "article_versions": 1,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
