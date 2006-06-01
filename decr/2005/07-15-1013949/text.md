@@ -1,0 +1,433 @@
+# Decreet van 2005-07-15 Gemeentedecreet
+
+## TITEL I Algemene bepalingen
+
+### ART. 1.
+
+Dit decreet regelt een gemeenschaps- en gewestaangelegenheid.
+
+### ART. 2.
+
+De gemeenten beogen om op het lokale niveau bij te dragen tot het welzijn van de burgers en tot de duurzame ontwikkeling van het gemeentelijk gebied. Overeenkomstig artikel 41 van de Grondwet zijn ze bevoegd voor de aangelegenheden van gemeentelijk belang voor de verwezenlijking waarvan ze alle initiatieven kunnen nemen.<br /><br />Overeenkomstig artikel 6, § 1, VIII, tweede lid, van de bijzondere wet van 8 augustus 1980 tot hervorming der instellingen en artikel 46 van de gewone wet van 9 augustus 1980 tot hervorming der instellingen en met toepassing van het subsidiariteitsbeginsel, oefenen de gemeenten ook de bevoegdheden uit die hen door of krachtens de wet of het decreet zijn toevertrouwd.<br /><br />Enkel als dat bij decreet uitdrukkelijk is bepaald, kunnen de provincies de medewerking van de gemeenten regelen.
+
+### ART. 3.
+
+De gemeenten verzekeren een burgernabije, democratische, transparante en doelmatige uitoefening van de gemeentelijke bevoegdheden.<br /><br />Ze betrekken de inwoners zo veel mogelijk bij het beleid en zorgen voor openheid van bestuur.
+
+### ART. 4.
+
+Dit decreet is van toepassing op alle gemeenten van het Vlaamse Gewest onder voorbehoud van de toepassing van de regelingen, bepaald in artikel 6, § 1, VIII, eerste lid, 1°, eerste streepje, en 4°, eerste lid, a, en artikel 7, § 1, eerste en derde lid, van de bijzondere wet van 8 augustus 1980 tot hervorming der instellingen.
+
+## TITEL II Het gemeentebestuur
+
+## HOOFDSTUK I De gemeenteraad
+
+## Afdeling I De organisatie van de gemeenteraad
+
+### ART. 5.
+
+§ 1. De gemeenteraad vertegenwoordigt de hele bevolking van de gemeente. Hij bestaat uit:<br /><br />1° 7 leden in de gemeenten met minder dan 1000 inwoners;<br /><br />2° 9 leden in de gemeenten met 1000 tot 1999 inwoners;<br /><br />3° 11 leden in de gemeenten met 2000 tot 2999 inwoners;<br /><br />4° 13 leden in de gemeenten met 3000 tot 3999 inwoners;<br /><br />5° 15 leden in de gemeenten met 4000 tot 4999 inwoners;<br /><br />6° 17 leden in de gemeenten met 5000 tot 6999 inwoners;<br /><br />7° 19 leden in de gemeenten met 7000 tot 8999 inwoners;<br /><br />8° 21 leden in de gemeenten met 9000 tot 11.999 inwoners;<br /><br />9° 23 leden in de gemeenten met 12.000 tot 14.999 inwoners;<br /><br />10° 25 leden in de gemeenten met 15.000 tot 19.999 inwoners;<br /><br />11° 27 leden in de gemeenten met 20.000 tot 24.999 inwoners;<br /><br />12° 29 leden in de gemeenten met 25.000 tot 29.999 inwoners;<br /><br />13° 31 leden in de gemeenten met 30.000 tot 34.999 inwoners;<br /><br />14° 33 leden in de gemeenten met 35.000 tot 39.999 inwoners;<br /><br />15° 35 leden in de gemeenten met 40.000 tot 49.999 inwoners;<br /><br />16° 37 leden in de gemeenten met 50.000 tot 59.999 inwoners;<br /><br />17° 39 leden in de gemeenten met 60.000 tot 69.999 inwoners;<br /><br />18° 41 leden in de gemeenten met 70.000 tot 79.999 inwoners;<br /><br />19° 43 leden in de gemeenten met 80.000 tot 89.999 inwoners;<br /><br />20° 45 leden in de gemeenten met 90.000 tot 99.999 inwoners;<br /><br />21° 47 leden in de gemeenten met 100.000 tot 149.999 inwoners;<br /><br />22° 49 leden in de gemeenten met 150.000 tot 199.999 inwoners;<br /><br />23° 51 leden in de gemeenten met 200.000 tot 249.999 inwoners;<br /><br />24° 53 leden in de gemeenten met 250.000 tot 299.999 inwoners;<br /><br />25° 55 leden in de gemeenten met 300.000 of meer inwoners.<br /><br />§ 2. De schepenen en de burgemeester maken deel uit van de gemeenteraad, behalve indien zij niet als gemeenteraadslid werden verkozen.<br /><br />§ 3. Uiterlijk op 1 juni van het jaar waarin de gemeenteraadsverkiezingen zullen plaatsvinden, stelt de Vlaamse Regering een lijst op van het aantal te verkiezen gemeenteraadsleden per gemeente op basis van de bevolkingsaantallen van de gemeenten die, overeenkomstig artikel 5, laatste lid, van de Nieuwe Gemeentewet door de minister van Binnenlandse Zaken in het Belgisch Staatsblad zijn bekendgemaakt en wordt opdracht gegeven tot bekendmaking van de lijst in het Belgisch Staatsblad. Het in aanmerking te nemen inwonertal is het aantal personen dat ingeschreven is in het rijksregister van de natuurlijke personen die op 1 januari van het jaar van de gemeenteraadsverkiezingen hun hoofdverblijfplaats in de desbetreffende gemeente hadden.
+
+## Afdeling II De werking van de gemeenteraad
+
+## Afdeling III De bevoegdheden van de gemeenteraad
+
+## HOOFDSTUK II Het college van burgemeester en schepenen
+
+## Afdeling I De inrichting van het college van burgemeester en schepenen
+
+## Afdeling II De werking van het college van burgemeester en schepenen
+
+## Afdeling III De bevoegdheden van het college van burgemeester en schepenen
+
+## HOOFDSTUK III De burgemeester
+
+## Afdeling I De benoeming van de burgemeester
+
+## Afdeling II De bevoegdheden van de burgemeester
+
+## HOOFDSTUK IV Rechtspositie, tucht en aansprakelijkheid
+
+## Afdeling I Rechtspositie
+
+## Afdeling II Tucht
+
+## Afdeling III Aansprakelijkheid
+
+## [Afdeling IV Mandatendatabank (ing. decr. 29 juni 2012, art. 27, I: 1 januari 2013)]
+
+## HOOFDSTUK V De gemeentelijke diensten
+
+## Afdeling I Algemene bepaling
+
+## Afdeling II De gemeentesecretaris, de adjunct-gemeentesecretaris, de financieel beheerder en het managementteam
+
+## Onderafdeling I Gemeenschappelijke belangen
+
+### ART. 76.
+
+§ 1. Er is in elke gemeente een gemeentesecretaris en een financieel beheerder.<br /><br />In gemeenten met meer dan 60.000 inwoners kan worden voorzien in de aanstelling van een adjunct-gemeentesecretaris.<br /><br />§ 2. De ambten, bedoeld in § 1, worden uitgeoefend door personeelsleden van de gemeente.<br /><br />§ 3. In afwijking van § 2 worden de volgende uitzonderingen gemaakt :<br />1° in een gemeente die 20 000 inwoners of minder telt, kan met toepassing van artikel 271 het ambt van gemeentesecretaris uitgeoefend worden door de secretaris van het openbaar centrum voor maatschappelijk welzijn van dezelfde gemeente;<br />2° in een gemeente die 20 000 inwoners of minder telt, kan met toepassing van artikel 271 het ambt van financieel beheerder van de gemeente uitgeoefend worden door de financieel beheerder van het centrum voor maatschappelijk welzijn van dezelfde gemeente;<br />3° in de gemeenten die 5 000 inwoners en minder tellen en in de gevallen, bepaald door de Vlaamse Regering, wordt het ambt van financieel beheerder van de gemeente uitgeoefend door een gewestelijk ontvanger. Een gemeente kan geen samenwerkingsovereenkomst, als vermeld in artikel 271, aangaan met het openbaar centrum voor maatschappelijk welzijn om gebruik te maken van de gewestelijk ontvanger die het ambt van financieel beheerder uitoefent bij het centrum voor maatschappelijk welzijn.<br /><br />§ 4. De gemeenten waarin het ambt van financieel beheerder wordt uitgeoefend door een gewestelijk ontvanger, dragen bij in de uitgaven die daaraan verbonden zijn, volgens de regels die de Vlaamse Regering vaststelt.<br /><br />De Vlaamse Regering stelt het statuut van de gewestelijk ontvanger vast. Daarbij kan de Vlaamse Regering afwijken van de bepalingen van dit decreet die betrekking hebben op de rechtspositieregeling van de financieel beheerders van de gemeenten.<br /><br />Bij een vacature van financieel beheerder worden de gewestelijk ontvangers vrijgesteld van de diplomavereisten.<br /><br />§ 5. In een gemeente die, als gevolg van een wijziging van het bevolkingscijfer, in een andere situatie terechtkomt, blijven de gemeentesecretaris en de financieel beheerder die in dienst zijn, hun ambt uitoefenen tot hun loopbaan of hun functie in die gemeente eindigt. Met het akkoord van het betrokken personeelslid kan daarvan worden afgeweken.
+
+### ART. 80.
+
+§ 1. Onder de door de Vlaamse Regering bepaalde voorwaarden kan de gemeenteraad beslissen dat de ambten van gemeentesecretaris en financieel beheerder deeltijds worden uitgeoefend.<br /><br />§ 2. De gemeenteraad kan een deeltijds ambt van gemeentesecretaris laten vervullen door de deeltijdse secretaris van een openbaar centrum voor maatschappelijk welzijn of door de deeltijdse gemeentesecretaris van een andere gemeente.<br /><br />§ 3. De gemeenteraad kan een deeltijds ambt van financieel beheerder laten vervullen door de deeltijdse ontvanger van een openbaar centrum voor maatschappelijk welzijn of door de deeltijdse financieel beheerder van een andere gemeente.
+
+## Onderafdeling II De gemeentesecretaris en de adjunct-gemeentesecretaris
+
+## Onderafdeling III De financieel beheerder
+
+## Onderafdeling IV Het managementteam
+
+## Afdeling III Interne controle
+
+## TITEL III Personeel
+
+## HOOFDSTUK I Toepassingsgebied
+
+### ART. 102.
+
+Deze titel is van toepassing op de leden van het gemeentepersoneel, onder voorbehoud van de toepassing van de bijzondere regelingen die in titel II, hoofdstuk V of door of krachtens andere wettelijke of decretale bepalingen zijn vastgesteld.<br /><br />Voor het gemeentelijk onderwijzend personeel dat niet gesubsidieerd wordt, bepaalt de gemeenteraad de afwijkingen van de rechtspositieregeling, bedoeld in artikel 105, § 2, rekening houdend met de onderwijsopdracht. Die afwijkingen moeten in overeenstemming zijn met de decreten en besluiten betreffende het onderwijs.
+
+## HOOFDSTUK II [... (opgeh. decr. 3 juni 2016, art. 12, I: 8 juli 2016)]
+
+### ART. 103.
+
+De gemeenteraad stelt de personeelsformatie vast.<br /><br />De personeelsformatie bevat de opsomming van het aantal en de soorten betrekkingen, met uitzondering van de betrekkingen die in contractueel dienstverband ingesteld worden ter uitvoering van de werkgelegenheidsmaatregelen van de hogere overheden.<br /><br />De personeelsformatie maakt in voorkomend geval een duidelijk onderscheid tussen het personeel dat in de gemeentelijke diensten tewerkgesteld is enerzijds en het kabinets- en fractiepersoneel, bedoeld in artikel 104, § 3, anderzijds.
+
+## HOOFDSTUK III De rechtspositie van het personeel
+
+## Afdeling I Algemene bepaling
+
+### ART. 104.
+
+§ 1 Het personeel van de gemeente bestaat uit personeelsleden in statutair dienstverband.<br /><br />§ 2. In afwijking van § 1 kunnen personeelsleden in contractueel verband in dienst worden genomen om:<br /><br />1° aan uitzonderlijke en tijdelijke personeelsbehoeften te voldoen, voor in de tijd beperkte acties, of voor een buitengewone toename van werk;<br /><br />2° personeelsleden te vervangen die hun betrekking niet of slechts deeltijds bekleden of die tijdens een zolange periode afwezig zijn dat vervanging noodzakelijk is;<br /><br />3° aanvullende of specifieke opdrachten te vervullen;<br /><br />4° te voorzien in de personeelsbehoeften voor activiteiten die door een andere overheid gesubsidieerd worden;<br /><br />5° te voorzien in de personeelsbehoeften voor activiteiten die hoofdzakelijk verricht worden in mededinging met andere marktdeelnemers;<br /><br />6° te voorzien in uitvoering van taken, die een bijzondere expertise vereisen.<br /><br />§ 3. Binnen de grenzen die de Vlaamse Regering bepaalt, kan de gemeente personeel in contractueel verband in dienst nemen om te voorzien in de personeelsbehoeften van het kabinet van de burgemeester of de schepenen, of van de fracties in de gemeenteraad. Die personeelsleden worden, naar gelang van het geval, kabinets- of fractiepersoneel genoemd.<br /><br />De Vlaamse Regering stelt nadere regels vast voor de aanwerving of terbeschikkingstelling van het kabinets- en fractiepersoneel.
+
+## Afdeling II De rechtspositieregeling
+
+### ART. 105.
+
+§ 1. De gemeenteraad stelt de rechtspositieregeling van het personeel vast.<br /><br />§ 2. De rechtspositieregeling voor het personeel in statutair dienstverband regelt minstens:<br /><br />1° de bezoldiging van de personeelsleden en de salarisschalen die van toepassing zijn, rekening houdend met onder meer de gestelde bekwaamheidsvereisten en functievereisten;<br /><br />2° de toekenning van toelagen en vergoedingen;<br /><br />3° de voorwaarden en procedures voor aanwerving en bevordering. Die procedures waarborgen de objectiviteit van de aanwervingen en bevorderingen en de gelijke behandeling van de kandidaten. Alle personeelsleden worden steeds op proef aangesteld;<br /><br />4° de bekendmaking van de vacatures en de proeftijd;<br /><br />5° de evaluatie, de wijze van aanwijzing van evaluatoren, de daarbijbehorende procedures, de periodiciteit en de rechtsgevolgen ervan, rekening houdend met de aard van de functie;<br /><br />6° de organisatie van de loopbaan van de personeelsleden en van de interne mobiliteit;<br /><br />7° de administratieve standen en de anciënniteit van de ambtenaren alsook de dienstbeëindiging;<br /><br />8° de arbeidsduur, het verlof en de afwezigheden;<br /><br />9° de onverenigbaarheden, en de beperkingen en voorwaarden voor cumulatie van activiteiten in overheids- of in privé-dienst;<br /><br />10° de nadere regels betreffende het tuchtstelsel;<br /><br />11° de toepasselijkheid van de nieuwe regels ten aanzien van het statutair personeel dat al in dienst is van de gemeente;<br /><br />12° het verlies van de hoedanigheid van ambtenaar en de ambtsneerlegging.<br /><br />§ 3. Het bepaalde in § 2, met uitzondering van 7°, 10°, 11° en 12°, is van overeenkomstige toepassing op de rechtspositie van de personeelsleden in contractueel verband.<br /><br />§ 4. De rechtspositieregeling kan in een mandaatstelsel voorzien.
+
+## Afdeling III [Eedaflegging van het personeel (verv. decr. 3 juni 2016, art. 16, I: 8 juli 2016)]
+
+### ART. 106.
+
+Het college van burgemeester en schepenen is bevoegd voor de aanstelling en het ontslag van de personeelsleden, behoudens in de gevallen waarin door of krachtens de wet of het decreet die bevoegdheid aan de gemeenteraad is opgedragen.<br /><br />Het college van burgemeester en schepenen kan de uitoefening van die bevoegdheid toevertrouwen aan de gemeentesecretaris. In voorkomend geval kan de gemeentesecretaris die gedelegeerde bevoegdheid niet toevertrouwen aan andere personeelsleden van de gemeente.<br /><br />Onverminderd artikel 77 leggen de personeelsleden van de gemeente de volgende eed af in handen van de gemeentesecretaris: « Ik zweer de verplichtingen van mijn ambt trouw na te komen. ». De weigering tot eedaflegging staat gelijk met verzaking van de aanstelling.
+
+## Afdeling IV Deontologische rechten en plichten
+
+### ART. 107.
+
+§ 1. De personeelsleden oefenen hun ambt op een loyale en correcte wijze uit.<br /><br />De personeelsleden zetten zich op een actieve en constructieve wijze in voor de realisatie van de opdracht en de doelstellingen van de gemeente.<br /><br />§ 2. De personeelsleden respecteren de persoonlijke waardigheid van iedereen.
+
+### ART. 108.
+
+§ 1. De personeelsleden hebben spreekrecht ten aanzien van derden met betrekking tot de feiten waarvan zij kennis hebben uit hoofde van hun ambt.<br /><br />Onder voorbehoud van de toepassing van de regelgeving inzake openbaarheid van bestuur is het voor hen verboden feiten bekend te maken die betrekking hebben op:<br /><br />1° de veiligheid van het land;<br /><br />2° de bescherming van de openbare orde;<br /><br />3° de financiële belangen van de overheid;<br /><br />4° het voorkomen en het bestraffen van strafbare feiten;<br /><br />5° het medisch geheim;<br /><br />6° het vertrouwelijke karakter van commerciële, intellectuele en industriële gegevens;<br /><br />7° het vertrouwelijke karakter van de beraadslagingen.<br /><br />Het is voor hen verboden feiten bekend te maken als de bekendmaking ervan een inbreuk vormt op de rechten en de vrijheden van de burger, in het bijzonder op het privé-leven, tenzij de betrokkene toestemming heeft verleend om de gegevens die op haar of hem betrekking hebben, openbaar te maken.<br /><br />Deze paragraaf geldt eveneens voor personeelsleden die hun ambt hebben beëindigd.<br /><br />§ 2. De personeelsleden die in de uitoefening van hun ambt nalatigheden, misbruiken of misdrijven vaststellen, brengen een hiërarchische meerdere hiervan onmiddellijk op de hoogte.
+
+### ART. 109.
+
+§ 1. De personeelsleden behandelen de gebruikers van hun dienst welwillend en zonder enige discriminatie.<br /><br />§ 2. De personeelsleden mogen, zelfs buiten hun ambt, noch rechtstreeks noch via een tussenpersoon, giften, beloningen of enig ander voordeel dat verband houdt met het ambt, vragen, eisen of aannemen.
+
+### ART. 110.
+
+De hoedanigheid van personeelslid is onverenigbaar met elke activiteit die het personeelslid zelf of via een tussenpersoon verricht en waardoor:<br /><br />1° de ambtsplichten niet kunnen worden vervuld;<br /><br />2° de waardigheid van het ambt in het gedrang komt;<br /><br />3° de eigen onafhankelijkheid wordt aangetast;<br /><br />4° een belangenconflict ontstaat.
+
+### ART. 111.
+
+§ 1. De personeelsleden hebben recht op informatie en vorming zowel met betrekking tot aspecten die nuttig zijn voor de uitoefening van de functie als om te kunnen voldoen aan de bevorderingsvereisten.<br /><br />§ 2. De personeelsleden houden zich op de hoogte van de ontwikkelingen en de nieuwe inzichten in de materies waarmee zij beroepshalve belast zijn.<br /><br />§ 3. De vorming is een plicht als ze noodzakelijk blijkt voor een betere uitoefening van de functie of het functioneren van een dienst, of als ze een onderdeel uitmaakt van een herstructurering of reorganisatie van een afdeling of een implementatie van nieuwe werkmethodes en infrastructuur.
+
+### ART. 112.
+
+De gemeenteraad stelt een deontologische code voor het gemeentepersoneel vast. Die concretiseert de bepalingen van deze afdeling en kan bijkomende deontologische rechten en verplichtingen opnemen.
+
+## Afdeling V De evaluatie van het personeel
+
+### ART. 113.
+
+De evaluatie is de procedure waarbij een oordeel wordt geformuleerd over de manier waarop een personeelslid functioneert.
+
+### ART. 114.
+
+Onverminderd de nadere regeling van de gevolgen van de evaluatie in de rechtspositieregeling, neemt de gemeentesecretaris naar aanleiding van de evaluatie in voorkomend geval de passende maatregelen met het oog op het verbeteren van de wijze waarop het betrokken personeelslid functioneert.
+
+### ART. 115.
+
+De personeelsleden van de gemeente worden geëvalueerd op ambtelijk niveau.<br /><br />De gemeentesecretaris, de adjunct-gemeentesecretaris en de financieel beheerder worden echter geëvalueerd door een bijzondere gemeenteraadscommissie, samengesteld overeenkomstig artikel 39, § 3. Die commissie wordt voorgezeten door de voorzitter van de gemeenteraad. Die evaluatie vindt plaats op basis van een voorbereidend rapport, opgesteld door externe deskundigen in het personeelsbeleid, en op basis van een verslag van het college van burgemeester en schepenen. Bij staking van stemmen wordt het betrokken personeelslid geacht te voldoen.
+
+## HOOFDSTUK IV Verdere uitvoeringsmaatregelen
+
+### ART. 116.
+
+§ 1. De Vlaamse Regering stelt de minimale voorwaarden vast voor:<br /><br />1° de personeelsformatie;<br /><br />2° de rechtspositieregeling van het personeel;<br /><br />3° de toepassing van een mandaatstelsel.<br /><br />§ 2. De Vlaamse Regering neemt de nodige maatregelen voor de externe mobiliteit van het gemeentepersoneel.
+
+## [HOOFDSTUK IVbis Samenwerking inzake personeel (ing. decr. 29 juni 2012, art. 35, I: 1 januari 2013)]
+
+## HOOFDSTUK V Bijzondere bepalingen betreffende het bestuurlijk toezicht
+
+### ART. 117.
+
+§ 1. Onverminderd de bevoegdheid van de toezichthoudende overheid tot schorsing en vernietiging wegens schending van het recht of wegens strijdigheid met het algemeen belang overeenkomstig artikelen 252 tot en met 260, schorst de provinciegouverneur de uitvoering van de besluiten tot vaststelling of wijziging van de personeelsformatie als die worden aangenomen zonder dat de financiële haalbaarheid door middel van de financiële nota van het meerjarenplan wordt aangetoond.<br /><br />De provinciegouverneur kan de schorsing beperken tot een of meer delen van het besluit, op voorwaarde dat het niet-geschorste deel nog op samenhangende wijze kan worden uitgevoerd.<br /><br />§ 2. In geval van schorsing is artikel 256 van toepassing, met dien verstande dat de Vlaamse Regering besluit tot vernietiging van het aangepaste of gerechtvaardigde besluit tot vaststelling of wijziging van de personeelsformatie in de gevallen, vermeld in § 1.<br /><br />De Vlaamse Regering kan de vernietiging beperken tot een of meer delen van het besluit, op voorwaarde dat het niet-vernietigde deel nog op samenhangende wijze kan worden uitgevoerd.
+
+## HOOFDSTUK VI Tucht
+
+## Afdeling I Toepassingsgebied
+
+## Afdeling II De tuchtvergrijpen
+
+## Afdeling III De tuchtstraffen
+
+## Afdeling IV De tuchtoverheid
+
+## Afdeling V De tuchtprocedure
+
+## Afdeling VI De verjaring van de tuchtvordering
+
+## Afdeling VII De preventieve schorsing
+
+## Afdeling VIII Beroep
+
+## Afdeling IX De doorhaling van de tuchtstraf
+
+## TITEL IV Planning en financieel beheer
+
+## HOOFDSTUK I Algemene bepaling
+
+## HOOFDSTUK II Strategische meerjarenplanning
+
+## HOOFDSTUK III Het budget
+
+## HOOFDSTUK IV Uitvoering van het budget, budgethouderschap en beheer van de middelen
+
+## Afdeling I Budgethouderschap
+
+## Afdeling II Uitvoering van de betalingen, inning van de ontvangsten en beheer van de kasmiddelen
+
+## HOOFDSTUK V Boekhouding, financiële rapportering en kascontrole
+
+## HOOFDSTUK VI Inventaris, jaarrekening en kwijting
+
+## HOOFDSTUK VII Bijzondere bepalingen betreffende het bestuurlijk toezicht
+
+## HOOFDSTUK VIII Nadere uitwerking door de Vlaamse Regering
+
+## TITEL V Bepalingen over de werking van de gemeente
+
+## HOOFDSTUK I Akten van de gemeente
+
+## Afdeling I Opmaken en ondertekenen van akten
+
+## Afdeling II Bekendmaking en inwerkingtreding
+
+## Afdeling III Wijze van kennisgeving
+
+## Afdeling IV Briefwisseling aan de gemeente
+
+## HOOFDSTUK II Wijze van berekening van termijnen
+
+### ART. 190.
+
+§ 1. Voor de toepassing van dit decreet wordt de termijn berekend vanaf de dag na de dag van de akte of de gebeurtenis die de termijn doet ingaan, en omvat de termijn alle dagen, ook de zaterdag, de zondag en de wettelijke feestdagen. De vervaldag is in de termijn begrepen. Als die dag echter een zaterdag, een zondag of een wettelijke feestdag is, dan wordt de vervaldag verplaatst naar de eerstvolgende werkdag.<br /><br />§ 2. Bij gebrek aan een akte of gebeurtenis die de termijn doet ingaan, wordt de termijn berekend door terug te tellen vanaf de gebeurtenis die de termijn doet eindigen. In dat geval wordt de dag van de gebeurtenis die de termijn doet eindigen in de termijn begrepen. De dag van verzending is niet in de termijn begrepen.
+
+## HOOFDSTUK III Goederen van de gemeente
+
+## Afdeling I Afwijking van het domeinrecht
+
+### ART. 191.
+
+De gemeente en de autonome gemeentebedrijven kunnen, op voorwaarde van bijzondere en omstandige motivering, zakelijke rechten vestigen op openbare domeingoederen voorzover die rechten niet kennelijk onverenigbaar zijn met de bestemming van die goederen.
+
+## Afdeling II Gemeentewegen
+
+### ART. 192.
+
+De Vlaamse Regering bepaalt, na advies van de gemeenteraad en provincieraad in kwestie, welke wegen op het grondgebied van die gemeente als gewest- of provinciewegen beschouwd worden.<br /><br />Als bestaande wegen of weggedeelten niet langer beschouwd worden als gewest- of provinciewegen, worden ze beschouwd als gemeentewegen, mits de gemeenteraad daarmee instemt. Die overdracht heeft de toekenning om niet van de eigendom van die wegen tot gevolg. Bij de eigendomsoverdracht moeten deze wegen zich in goede staat van onderhoud bevinden.
+
+## [HOOFDSTUK IIIbis Aanstellen van landmeters-experten (ing. Decr. 10 december 2010, art. 2, I: 31 december 2010)]
+
+## HOOFDSTUK IV Optreden in rechte
+
+### ART. 193.
+
+Het college van burgemeester en schepenen beslist tot het optreden in rechte namens de gemeente.
+
+### ART. 194.
+
+Als het college van burgemeester en schepenen niet in rechte optreedt, kunnen een of meer inwoners in rechte optreden namens de gemeente, mits zij onder zekerheidstelling aanbieden om persoonlijk de kosten van het geding te dragen en in te staan voor de veroordeling tot schadevergoeding of boete wegens tergend en roekeloos geding of hoger beroep die kan worden uitgesproken.<br /><br />Dit recht staat ook open voor de rechtspersonen waarvan de maatschappelijke zetel in de gemeente is gevestigd.<br /><br />De gemeente kan over het geding geen dading aangaan of er afstand van doen zonder instemming van degene die het geding in haar naam heeft gevoerd.
+
+## HOOFDSTUK V Deelname van de gemeenten aan rechtspersonen
+
+## HOOFDSTUK VI Contracten tussen gemeenten
+
+## TITEL VI Participatie van de burger
+
+## HOOFDSTUK I Klachtenbehandeling
+
+## HOOFDSTUK II Inspraak
+
+## HOOFDSTUK IIbis Voorstellen van burgers
+
+## HOOFDSTUK III [Verzoekschriften aan de organen van de gemeente (verv. decr. 23 januari 2009, art.118, I: 1 juli 2009)])]
+
+## HOOFDSTUK IV De gemeentelijke volksraadpleging
+
+## TITEL VII De gemeentelijke verzelfstandigde agentschappen
+
+## HOOFDSTUK I De gemeentelijke intern verzelfstandigde agentschappen
+
+## HOOFDSTUK II De gemeentelijke extern verzelfstandigde agentschappen
+
+## Afdeling I Algemene bepalingen
+
+## Afdeling II Het autonoom gemeentebedrijf
+
+### ART. 243.
+
+Het autonoom gemeentebedrijf maakt een budget op overeenkomstig de regels die krachtens artikelen 149, 150, 151, § 1, § 2, eerste lid, § 3 en § 4 en 179 worden gesteld voor het budget van de gemeente. De boekhouding wordt gevoerd en de jaarrekening wordt opgesteld overeenkomstig de regelen die krachtens artikel 164, 172 en 179 worden gesteld voor de boekhouding en de jaarrekening van de gemeente. Het autonoom gemeentebedrijf doet uiterlijk op 31 december van ieder jaar de nodige opnemingen, verificaties, opzoekingen en waarderingen om de inventaris op te maken van al de bezittingen, vorderingen, schulden en verplichtingen van het autonoom gemeentebedrijf, van welke aard ook.<br /><br />De boekhouding wordt gevoerd onder de verantwoordelijkheid en het toezicht van de raad van bestuur.<br /><br />De raad van bestuur stelt de jaarrekening vast en legt jaarlijks en uiterlijk op 30 maart de jaarrekening van het voorbije boekjaar ter goedkeuring voor aan de gemeenteraad.<br /><br />De raad van bestuur stelt het budget vast en legt jaarlijks en uiterlijk op 31 oktober het budget van het volgende boekjaar ter goedkeuring voor aan de gemeenteraad.<br />
+
+## Afdeling III Het gemeentelijke extern verzelfstandigd agentschap IN privaatrechtelijke vorm
+
+## Afdeling IV Het autonoom gemeentelijk havenbedrijf
+
+## TITEL VIII Bestuurlijk toezicht en externe audit
+
+## HOOFDSTUK I Bestuurlijk toezicht
+
+## Afdeling I Algemene bepalingen
+
+### ART. 248.
+
+§ 1. Voor de toepassing van deze titel wordt verstaan onder:<br /><br />1° gemeenteoverheid: de organen en personeelsleden van de gemeente en de autonome gemeentebedrijven die een beslissing nemen;<br /><br />2° toezichthoudende overheid: de Vlaamse Regering en, namens de Vlaamse Regering, de provinciegouverneur die handelt overeenkomstig de instructies van de Vlaamse Regering.<br /><br />§ 2. Wat betreft de eengemeentezones en de meergemeentezones wordt het bestuurlijk toezicht geregeld door de bepalingen van hoofdstuk I, afdeling IV.
+
+### ART. 249.
+
+Bij de uitoefening van het door dit decreet ingestelde toezicht beperkt de toezichthoudende overheid zich tot een toetsing aan het recht en aan het algemeen belang, met name elk belang dat ruimer is dan het gemeentelijk belang.
+
+### ART. 250.
+
+De toezichthoudende overheid kan bij de gemeenteoverheid alle documenten en inlichtingen opvragen of die ter plaatse raadplegen. Ze bepaalt de informatiedrager en de vorm waarin deze gegevens worden verstrekt.
+
+### ART. 251.
+
+§ 1. Alle kennisgevingen tussen de gemeenteoverheid en de toezichthoudende overheid gebeuren met een aangetekende zending of worden afgegeven tegen ontvangstbewijs. De kennisgevingen aan de gemeenteoverheid worden, naar gelang van het geval, gericht aan de gemeentesecretaris of aan de raad van bestuur van het autonoom gemeentebedrijf.<br /><br />§ 2. Buiten de gevallen waarin een gemeenteoverheid krachtens dit decreet besluiten ter kennis van de toezichthoudende overheid moet brengen, heeft het verzenden van een beslissing aan de toezichthoudende overheid niet tot gevolg dat de termijn om het toezicht uit te oefenen een aanvang neemt.<br /><br />§ 3. Voor de berekening van de toezichtstermijn wordt de vervaldag in de termijn gerekend. Is die dag echter een zaterdag, een zondag of een wettelijke feestdag, dan wordt de vervaldag verplaatst naar de eerstvolgende werkdag.<br /><br />§ 4. Op straffe van nietigheid gebeurt de verzending van het besluit dat in het kader van het toezicht wordt genomen uiterlijk de laatste dag van de voorgeschreven termijn.
+
+## Afdeling II Algemeen bestuurlijk toezicht
+
+### ART. 252.
+
+§ 1. Van de besluiten van de gemeenteraad en van de besluiten van de raad van bestuur van de autonome gemeentebedrijven wordt binnen twintig dagen na het nemen van de besluiten een lijst met een beknopte omschrijving van de daarin geregelde aangelegenheden verzonden aan de provinciegouverneur.<br /><br />§ 2. Vanaf de dag van de verzending aan de provinciegouverneur wordt de in de eerste paragraaf bedoelde lijst met beknopte omschrijving van de besluiten van de gemeenteraad gedurende minstens tien dagen na het nemen van de besluiten openbaar gemaakt op het gemeentehuis, zodat het publiek er te allen tijde kennis van kan nemen. De bekendmaking vermeldt de agenda van de raadszitting, de duur en de plaats waar de beslissingen die op de lijst zijn vermeld, gedurende minstens tien dagen na het nemen van de besluiten ter inzage liggen van het publiek.
+
+### ART. 253.
+
+§ 1. Binnen twintig dagen na het besluit wordt naar de provinciegouverneur een kopie verzonden van:<br /><br />1° de besluiten van de gemeenteraad betreffende de rechtspositieregeling van het gemeentepersoneel, de vaststellingen en wijzigingen van de personeelsformatie;<br /><br />2° de besluiten van de gemeenteraad betreffende het budget, de budgetwijzigingen en het meerjarenplan van de gemeente;<br /><br />3° de besluiten van de gemeenteraad betreffende de belastingen en de retributies;<br /><br />4° de besluiten van de gemeenteraad betreffende de vaststelling van de gemeentelijke dotatie aan de politiezone;<br /><br />5° de besluiten van de gemeenteraad en van het college van burgemeester en schepenen betreffende de kosten die door dwingende en onvoorziene omstandigheden worden vereist;<br /><br />6° de besluiten van de gemeenteraad tot oprichting van gemeentelijke intern verzelfstandigde agentschappen;<br /><br />7° de besluiten van de gemeenteraad betreffende de herschikking van de financiële lasten van opgenomen leningen;<br /><br />8° de besluiten van de gemeenteraad betreffende het aangaan van beheers- en samenwerkingsovereenkomsten met een gemeentelijk extern verzelfstandigd agentschap, evenals de besluiten tot wijziging ervan;<br /><br />9° de besluiten van de gemeenteraad tot het opnemen van leningen ter sanering van de financiën;<br /><br />10° de besluiten betreffende de deelname aan intergemeentelijke samenwerkingsverbanden, bedoeld in het decreet van 6 juli 2001 houdende de intergemeentelijke samenwerking;<br /><br />11° de rekeningen van de gemeenten;<br /><br />12° de besluiten van de gemeenteraad genomen op basis van het rapport van de externe auditcommissie, bedoeld in artikel 265.<br /><br />§ 2. Binnen twintig dagen na het besluit wordt een kopie naar de provinciegouverneur verzonden van:<br /><br />1° de besluiten van de raad van bestuur van het autonoom gemeentebedrijf waarbij wordt afgeweken van de rechtspositieregeling van het gemeentepersoneel;<br /><br />2° de besluiten van de raad van bestuur van het autonoom gemeentebedrijf betreffende retributies;<br /><br />3° de rekeningen van de extern verzelfstandigde agentschappen.
+
+### ART. 254.
+
+§ 1. Onder voorbehoud van de toepassing van artikelen 252 en 253 kan de toezichthoudende overheid besluiten van een gemeenteoverheid ambtshalve opvragen.<br /><br />§ 2. Bij ontvangst van een klacht vraagt de toezichthoudende overheid het besluit en het bijbehorende dossier op.
+
+### ART. 255.
+
+§ 1. De gouverneur beschikt over dertig dagen om de uitvoering van de besluiten van een gemeenteoverheid te schorsen en om de gemeenteoverheid daarvan kennis te geven. Als het een besluit betreft waarvan overeenkomstig artikel 253 een afschrift aan de provinciegouverneur moet worden gezonden, wordt de termijn op vijftig dagen gebracht.<br /><br />Behoudens de vernietiging van de besluiten waarvan de uitvoering is geschorst door de provinciegouverneur overeenkomstig artikel 117, 176 en 255 § 1, eerste lid kan de Vlaamse Regering de besluiten van de gemeenteoverheid rechtstreeks vernietigen binnen de in het eerste lid bepaalde termijn.<br /><br />§ 2. De termijn, bedoeld in § 1, gaat in op de derde dag die volgt op de verzending van de besluiten, bedoeld in artikel 253 of van de lijst van de aangelegenheden, bedoeld in artikel 252 of van de besluiten van een gemeenteoverheid die door de toezichthoudende overheid ambtshalve of na ontvangst van een klacht werden opgevraagd.<br /><br />§ 3. De termijn, bedoeld in § 1, wordt geschorst door de verzending van een aangetekende brief waarbij de toezichthoudende overheid een bepaald besluit, het dossier, bepaalde documenten of inlichtingen betreffende een bepaald besluit bij de gemeenteoverheid opvraagt.<br /><br />In geval van schorsing overeenkomstig deze paragraaf beschikt de gouverneur over een nieuwe termijn als bedoeld in § 1, om de uitvoering van het besluit te schorsen. Deze termijn gaat in op de derde dag die volgt op de dag van de verzending van alle gevraagde gegevens. De termijn waarover de Vlaamse Regering in dat geval beschikt om het besluit rechtstreeks te vernietigen is gelijk aan de termijn waarover de gouverneur beschikt om tot schorsing over te gaan, vermeerderd met twintig dagen.<br /><br />§ 4. De termijn, bedoeld in § 1, wordt gestuit door de aangetekende verzending van een klacht aan de toezichthoudende overheid op voorwaarde dat die verzending gebeurt binnen de in de eerste paragraaf bedoelde termijn.<br /><br />De termijn, bedoeld in § 1, gaat vervolgens pas opnieuw in op de derde dag die volgt op de verzending van de overeenkomstig artikel 254, § 2, gevraagde documenten.<br /><br />§ 5. De provinciegouverneur bezorgt een afschrift van elk schorsingsbesluit aan de Vlaamse Regering.
+
+### ART. 256.
+
+In geval van schorsing beschikt de gemeenteoverheid over honderd dagen volgend op de dag van de verzending van het schorsingsbesluit aan de gemeenteoverheid, om een van de volgende beslissingen te nemen en ter kennis te brengen van de Vlaamse Regering.<br /><br />De gemeenteoverheid kan het geschorste besluit intrekken en geeft daarvan kennis aan de provinciegouverneur.<br /><br />Als de gemeenteoverheid het besluit waarvan de uitvoering is geschorst, gemotiveerd rechtvaardigt of aanpast, beschikt de Vlaamse Regering over vijftig dagen om tot vernietiging over te gaan. Deze termijn gaat in op de derde dag die volgt op de dag van de verzending van de rechtvaardigingsbeslissing. Bij gebrek aan vernietiging binnen deze termijn is de schorsing opgeheven. De Vlaamse Regering bezorgt een afschrift van elk vernietigingsbesluit aan de provinciegouverneur.<br /><br />Als binnen de in het eerste lid bedoelde termijn geen besluit aan de Vlaamse Regering wordt verzonden, wordt het besluit waarvan de uitvoering is geschorst geacht nooit te hebben bestaan. De Vlaamse Regering stelt de provinciegouverneur hiervan op de hoogte.
+
+### ART. 257.
+
+De Vlaamse Regering bezorgt een afschrift van elk vernietigingsbesluit aan de provinciegouverneur.
+
+### ART. 258.
+
+Als een klacht wordt ingediend tegen een besluit van de gemeenteoverheid, brengt de toezichthoudende overheid de indiener van de klacht regelmatig op de hoogte van de behandeling van de klacht.<br /><br />De toezichthoudende overheid brengt de indiener van de klacht via een gewone brief op de hoogte van:<br /><br />1° de ontvangst van de klacht, binnen tien dagen nadat ze toegekomen is;<br /><br />2° het verzoek van de toezichthoudende overheid aan de gemeenteoverheid om het besluit en het bijbehorende dossier te bezorgen, binnen tien dagen na dat verzoek;<br /><br />3° de motieven van de toezichthoudende overheid om het besluit van de gemeenteoverheid waartegen de klacht was ingediend niet te schorsen of te vernietigen, binnen tien dagen na het nemen van dit besluit of na het verstrijken van de termijn;<br /><br />4° het gemotiveerde besluit van de toezichthoudende overheid waarbij het bestreden besluit van de gemeenteoverheid wordt geschorst of vernietigd, binnen tien dagen na het nemen van dit besluit;<br /><br />5° de stand van het dossier als de behandeling van de klacht verschillende weken of maanden in beslag neemt. In dat geval informeert de toezichthoudende overheid de indiener van een klacht minstens om de drie maanden over de stand van zaken. Zodra de toezichthoudende overheid het onderzoek heeft afgerond, stuurt ze haar definitieve antwoord aan de indiener van de klacht en geeft ze er ook kennis van aan de gemeenteoverheid in kwestie.<br /><br />De bepalingen van dit artikel zijn zowel van toepassing op de besluiten van de gemeenteoverheid, waarvan met toepassing van artikel 253 een afschrift naar de provinciegouverneur gestuurd moet worden, als op de besluiten waarvan geen afschrift naar de provinciegouverneur gestuurd moet worden.
+
+### ART. 259.
+
+De termijn om een beroep in te stellen bij de Raad van State tegen een beslissing van de gemeenteoverheid wordt gestuit ten voordele van degene die een klacht indient bij de toezichthoudende overheid, op voorwaarde dat deze klacht aangetekend wordt verzonden voor het verstrijken van de beroepstermijn en vóór het verstrijken van de termijn voor het uitoefenen van het toezicht.<br /><br />De stuiting duurt tot de ontvangst van de mededeling aan de indiener van de klacht van het gevolg dat aan zijn klacht wordt gegeven, voorzover die mededeling melding maakt van de beroepsmogelijkheden bij de Raad van State.
+
+### ART. 260.
+
+De definitieve vaststelling van de rekeningen overeenkomstig artikel 175 en artikel 243, derde lid, brengt met zich mee dat de beslissingen van de gemeenteoverheid die genomen werden in de loop van het jaar waarop de rekeningen betrekking hebben en die niet werden opgevraagd, geschorst of vernietigd, niet langer vatbaar zijn voor schorsing of vernietiging.
+
+## Afdeling III Dwangtoezicht
+
+### ART. 261.
+
+§ 1. De toezichthoudende overheid kan, na een schriftelijke ingebrekestelling, een of meer commissarissen gelasten zich ter plaatse te begeven om de gevraagde inlichtingen of opmerkingen in te zamelen van de gemeenteoverheid of om de maatregelen ten uitvoer te brengen die in rechte zijn voorgeschreven.<br /><br />De toezichthoudende overheid kan pas optreden na het verstrijken van de in de ingebrekestelling bepaalde termijn.<br /><br />§ 2. Het optreden van een of meer commissarissen gebeurt op de persoonlijke kosten van de personen die verzuimd hebben aan de ingebrekestelling gevolg te geven.<br /><br />De kosten worden ingevorderd door de financieel beheerder op zicht van een daartoe genomen besluit van de overheid die de dwangprocedure heeft ingesteld dat geldt als een door de financieel beheerder ambtshalve uit te voeren bevelschrift.
+
+## Afdeling IV Eengemeentezones en meergemeentezones, ingesteld door de wet van 7 december 1998 tot organisatie van een geïntegreerde politiedienst, gestructureerd op twee niveaus
+
+### ART. 262.
+
+De bepalingen van afdeling I tot III van dit hoofdstuk zijn binnen de grenzen van hun bevoegdheden van overeenkomstige toepassing op de eengemeentezones en de meergemeentezones en op de besluiten die door hen worden genomen inzake de lokale politie, met dien verstande dat in die bepalingen, wat de meergemeentezones betreft, de hiernavolgende woorden worden gelezen als volgt:<br /><br />1° gemeenteraad als politieraad;<br /><br />2° college van burgemeester en schepenen als politiecollege;<br /><br />3° gemeenteoverheid als politieraad of politiecollege;<br /><br />4° gemeentepersoneel als politiepersoneel.
+
+### ART. 263.
+
+Voorzover de overheden van de eengemeentezones en de meergemeentezones hun besluiten en handelingen, met toepassing van hoofdstuk V van de wet van 7 december 1998 tot organisatie van een geïntegreerde politiedienst, gestructureerd op twee niveaus, onderworpen zijn aan een specifiek toezicht, kan tegen die overheden, hun besluiten en handelingen, geen enkele toezichtsmaatregel als bedoeld in titel VIII, hoofdstuk I, afdeling II, worden genomen op grond van de schending van een bepaling, vervat in of genomen krachtens deze wet.
+
+### ART. 264.
+
+Artikel 117 is van overeenkomstige toepassing op de personeelsformatie van het politiepersoneel.
+
+## [Afdeling V Hulpverleningszones, ingesteld met toepassing van de wet van 15 mei 2007 betreffende de civiele veiligheid (ing. decr. 3 juni 2016, art. 27, I: 8 juli 2016)]
+
+## HOOFDSTUK II Externe audit
+
+## TITEL IX Samenwerking met het openbaar centrum voor maatschappelijk welzijn
+
+## TITEL X De binnengemeentelijke territoriale organen, bedoeld in artikel 41 van de Grondwet
+
+## HOOFDSTUK I Het bestuur van het district
+
+## HOOFDSTUK II Werking van de districtsraad
+
+## HOOFDSTUK III Vergaderingen, beraadslagingen en besluiten van het districtscollege
+
+## HOOFDSTUK IV Bepalingen die van toepassing zijn op de akten van de districtsoverheden
+
+## HOOFDSTUK V Bevoegdheden
+
+## HOOFDSTUK VI Toezicht
+
+## TITEL XI Diverse bepalingen
+
+## HOOFDSTUK I Schrijfwijze van de naam van de gemeente
+
+### ART. 296.
+
+De Vlaamse Regering bepaalt de schrijfwijze van de namen van de gemeenten en de deelgemeenten.
+
+## [HOOFDSTUK II Samenvoeging op initiatief van de Vlaamse Regering en splitsing van gemeenten (verv. decr. 24 juni 2016, art. 61, I: 29 augustus 2016)]
+
+## TITEL XII Slotbepalingen
+
+## HOOFDSTUK I Wijzigings- en opheffingsbepalingen
+
+### ART. 302.
+
+De volgende bepalingen van de Nieuwe Gemeentewet worden   opgeheven:<BR><BR>1° artikel 1;<BR><BR>2° artikel 2;<BR><BR>3° artikel   3;<BR><BR>4° artikel 4;<BR><BR>5° artikel 5, behoudens voor wat betreft de   vaststelling van de bevolkingscijfers en de bekendmaking ervan;<BR><BR>6°   artikel 7;<BR><BR>7° artikel 8;<BR><BR>8° artikel 9;<BR><BR>9° artikel   10;<BR><BR>10° artikel 11;<BR><BR>11° artikel 12, § 1 en § 1bis;<BR><BR>12°   artikel 12bis;<BR><BR>13° artikel 13, eerste, tweede en vierde lid, behoudens in   zoverre de betrokken bepaling een nationaliteitsvereiste bevat;<BR><BR>14°   artikel 14, eerste lid, behoudens in zoverre de betrokken bepaling een   nationaliteitsvereiste bevat;<BR><BR>15° artikel 14bis;<BR><BR>16° artikel 15, §   1 behoudens in zoverre de betrokken bepaling een nationaliteitsvereiste   bevat;<BR><BR>17° artikel 16, behoudens in zoverre de betrokken bepaling een   nationaliteitsvereiste bevat en behoudens voor de gemeenten, bedoeld in artikel   7 van de wetten op het gebruik van de talen in bestuurszaken en de gemeente   Voeren;<BR><BR>18° artikel 17;<BR><BR>19° artikel 18, behoudens in zoverre de   betrokken bepaling een nationaliteitsvereiste bevat;<BR><BR>20° artikel 19, § 1,   § 2 en § 3;<BR><BR>21° artikel 20;<BR><BR>22° artikel 20bis;<BR><BR>23° artikel   21;<BR><BR>24° artikel 22;<BR><BR>25° artikel 23;<BR><BR>26° artikel 24, § 1 en   § 4;<BR><BR>27° artikel 25;<BR><BR>28° artikel 26;<BR><BR>29° artikel   26bis;<BR><BR>30° artikel 27;<BR><BR>31° artikel 28,§ 1;<BR><BR>32° artikel   29;<BR><BR>33° artikel 30;<BR><BR>34° artikel 31;<BR><BR>35° artikel   32;<BR><BR>36° artikel 33;<BR><BR>37° artikel 34;<BR><BR>38° artikel   35;<BR><BR>39° artikel 38;<BR><BR>40° artikel 40;<BR><BR>41° artikel   42;<BR><BR>42° artikel 43;<BR><BR>43° artikel 44;<BR><BR>44° artikel 47,§   1;<BR><BR>45° artikel 50;<BR><BR>46° artikel 51;<BR><BR>47° artikel   52;<BR><BR>48° artikel 53;<BR><BR>49° artikel 54;<BR><BR>50° artikel   54bis;<BR><BR>51° artikel 55;<BR><BR>52° artikel 56;<BR><BR>53° artikel   57;<BR><BR>54° artikel 58;<BR><BR>55° artikel 59;<BR><BR>56° artikel   60;<BR><BR>57° artikel 61;<BR><BR>58° artikel 62;<BR><BR>59° artikel   63;<BR><BR>60° artikel 64;<BR><BR>61° artikel 65, § 1;<BR><BR>62° artikel   66;<BR><BR>63° artikel 67;<BR><BR>64° artikel 68, § 1 en § 2;<BR><BR>65° artikel   70;<BR><BR>66° artikel 71, behoudens in zoverre de betrokken bepaling een   nationaliteitsvereiste bevat;<BR><BR>67° artikel 72, behoudens in zoverre de   betrokken bepaling een nationaliteitsvereiste bevat;<BR><BR>68° artikel   73;<BR><BR>69° artikel 74;<BR><BR>70° artikel 75;<BR><BR>71° artikel   76;<BR><BR>72° artikel 77;<BR><BR>73° artikel 78;<BR><BR>74° artikel   79;<BR><BR>75° artikel 80;<BR><BR>76° artikel 81;<BR><BR>77° artikel   82;<BR><BR>78° artikel 83, eerste en derde lid;<BR><BR>79° artikel   84;<BR><BR>80° artikel 85;<BR><BR>81° artikel 86;<BR><BR>82° artikel   87;<BR><BR>83° artikel 87bis;<BR><BR>84° artikel 88;<BR><BR>85° artikel   89;<BR><BR>86° artikel 90;<BR><BR>87° artikel 91;<BR><BR>88° artikel   92;<BR><BR>89° artikel 93;<BR><BR>90° artikel 94;<BR><BR>91° artikel   95;<BR><BR>92° artikel 96;<BR><BR>93° artikel 97;<BR><BR>94° artikel   98;<BR><BR>95° artikel 99;<BR><BR>96° artikel 100;<BR><BR>97° artikel   101;<BR><BR>98° artikel 102;<BR><BR>99° artikel 103;<BR><BR>100° artikel 104,   eerste en tweede lid;<BR><BR>101° artikel 105;<BR><BR>102° artikel   106;<BR><BR>103° artikel 108;<BR><BR>104° artikel 108bis;<BR><BR>105° artikel   109;<BR><BR>106° artikel 110;<BR><BR>107° artikel 111;<BR><BR>108° artikel   112;<BR><BR>109° artikel 114;<BR><BR>110° artikel 115;<BR><BR>111° artikel   116;<BR><BR>112° artikel 117;<BR><BR>113° artikel 118;<BR><BR>114° artikel   120;<BR><BR>115° artikel 120bis;<BR><BR>116° artikel 122;<BR><BR>117° artikel   123;<BR><BR>118° artikel 124;<BR><BR>119° artikel 128;<BR><BR>120° artikel   131;<BR><BR>121° artikel 132, behoudens voor de registers van de burgerlijke   stand;<BR><BR>122° artikel 133, eerste lid;<BR><BR>123° artikel 135, §   1;<BR><BR>124° artikel 136;<BR><BR>125° artikel 136bis;<BR><BR>126° artikel   137;<BR><BR>127° artikel 138;<BR><BR>128° artikel 138bis;<BR><BR>129° artikel   139;<BR><BR>130° artikel 140;<BR><BR>131° artikel 141;<BR><BR>132° artikel   142;<BR><BR>133° artikelen 143, eerste lid, 145, 146, § 1, 147, § 1, 149, 150, §   1, 151, 152, 153, § 1, behoudens voor het personeel van de politie en de   brandweer;<BR><BR>134° artikel 144, tweede lid;<BR><BR>135° artikel   154;<BR><BR>136° artikel 155, § 1;<BR><BR>137° artikel 231, met uitzondering van   artikel 231, § 3, eerste lid, 2°;<BR><BR>138° artikel 232;<BR><BR>139° artikel   233;<BR><BR>140° artikel 234;<BR><BR>141° artikel 236;<BR><BR>141° artikel   237bis;<BR><BR>142° artikel 238;<BR><BR>143° artikel 239;<BR><BR>144° artikel   240, § 1;<BR><BR>145° artikel 241, § 1;<BR><BR>146° artikel 242;<BR><BR>147°   artikel 242bis;<BR><BR>148° artikel 243;<BR><BR>149° artikel 245;<BR><BR>150°   artikel 247;<BR><BR>151° artikel 248, § 1en § 2;<BR><BR>152° artikel 249, §   1;<BR><BR>153° artikel 250;<BR><BR>154° artikel 252;<BR><BR>155° artikel   253;<BR><BR>156° artikel 255, uitgezonderd 1°, 8°, 11° en 15°;<BR><BR>157°   artikel 256, § 1;<BR><BR>158° artikel 258, § 1, met uitzondering voor de   gemeente Voeren;<BR><BR>159° artikel 259;<BR><BR>160° artikel 260;<BR><BR>161°   artikel 261, § 1;<BR><BR>162° artikel 262;<BR><BR>163° artikel 263;<BR><BR>164°   artikel [263bis tot en met 263novies (verv. decr. 23 januari 2009, art. 147, I:   1 juli 2009)] behoudens voor de havenbedrijven in de zin van het decreet van 2   maart 1999 houdende het beleid en het beheer van de zeehavens;<BR><BR>165°   artikel 265, § 1, met uitzondering voor de gemeente Voeren;<BR><BR>166° artikel   270, eerste en tweede lid;<BR><BR>167° artikel 271, § 1;<BR><BR>168° artikel   271bis;<BR><BR>169° artikel 271ter;<BR><BR>170° artikel 272, behoudens voor de   gemeenten, bedoeld in artikel 7 van de wetten op het gebruik van de talen in   bestuurszaken en de gemeente Voeren;<BR><BR>171° artikel 273, behoudens voor de   gemeenten bedoeld in artikel 7 van de wetten op het gebruik van de talen in   bestuurszaken en de gemeente Voeren;<BR><BR>172° artikel 274;<BR><BR>173°   artikel 275;<BR><BR>174° artikel 276;<BR><BR>175° artikel 277;<BR><BR>176°   artikel 278;<BR><BR>177° artikel 281;<BR><BR>178° artikel 282;<BR><BR>179°   artikel 283;<BR><BR>180° artikel 284;<BR><BR>181° artikel 285;<BR><BR>182°   artikel 286;<BR><BR>183° artikel 287, § 1 en § 2;<BR><BR>184° artikel   288;<BR><BR>185° artikel 298;<BR><BR>186° artikel 299;<BR><BR>187° artikel   300;<BR><BR>188° artikel 301;<BR><BR>189° artikel 302;<BR><BR>190° artikel   303;<BR><BR>191° artikel 304;<BR><BR>192° artikel 305;<BR><BR>193° artikel   306;<BR><BR>194° artikel 307;<BR><BR>195° artikel 309;<BR><BR>196° artikel   310;<BR><BR>197° artikel 311;<BR><BR>198° artikel 312;<BR><BR>199° artikel   313;<BR><BR>200° artikel 314;<BR><BR>201° artikel 315;<BR><BR>202° artikel   316;<BR><BR>203° artikel 317;<BR><BR>204° artikel 318;<BR><BR>205° artikel   319;<BR><BR>206° artikel 320;<BR><BR>207° artikel 321;<BR><BR>208° artikel   322;<BR><BR>209° artikel 323;<BR><BR>210° artikel 324;<BR><BR>211° artikel   325;<BR><BR>212° artikel 326;<BR><BR>213° artikel 327;<BR><BR>214° artikel   328;<BR><BR>215° artikel 329;<BR><BR>216° artikel 329bis;<BR><BR>217° artikel   330 tot en met 351, uitgezonderd artikel 332, § 4)
+
+### ART. 303.
+
+(niet opgenomen)<BR><BR>(Heft de volgende bepalingen en regelgevende   teksten op:<BR><BR>1° ...<BR><BR>2° de wet van 10 maart 1980 betreffende het   verlenen van de eretitel van hun ambt aan de burgemeesters, aan de schepenen en   aan de voorzitters van de raden van de Openbare Centra voor Maatschappelijk   Welzijn of van de gewezen commissies voor openbare onderstand;<BR><BR>3° het   decreet van 24 juli 1991 houdende regeling, voor het Vlaamse gewest, van het   administratief toezicht op de handelingen betreffende tucht- en sommige   ordemaatregelen, genomen ten opzichte van het personeel, bedoeld in de Nieuwe   Gemeentewet;<BR><BR>4° het decreet van 28 april 1993 houdende regeling voor het   Vlaamse gewest van het administratief toezicht op de gemeenten;<BR><BR>5° het   regentsbesluit van 18 juni 1946 betreffende het financieel beheer van de   gemeentebedrijven;<BR><BR>6° het koninklijk besluit van 20 juli 1976 tot   vaststelling van de grens van de algemene bepalingen betreffende de voorwaarden   tot benoeming in de graden van gemeentesecretaris, adjunct-secretaris en   gemeentelijke ontvanger;<BR><BR>7° het koninklijk besluit van 2 september 1976   tot vaststelling van de wedden van burgemeesters en schepenen;<BR><BR>8° het   koninklijk besluit van 24 oktober 1978 houdende de vaststelling van de criteria   voor de klassenverheffing van de gemeenten;<BR><BR>9° het koninklijk besluit van   25 juni 1990 tot vaststelling van de algemene bepalingen betreffende de   weddenschalen van het provincie- en gemeentepersoneel;<BR><BR>10° het koninklijk   besluit van 23 juli 1990 tot vaststelling van de wijze waarop de in artikel 19 §   1, vierde lid, Nieuwe Gemeentewet bedoelde weddenvermindering wordt toegestaan   aan de burgemeesters en schepenen;<BR><BR>11° het koninklijk besluit van 2   augustus 1990 houdende het algemeen reglement op de gemeentelijke   comptabiliteit;<BR><BR>12° het koninklijk besluit van 29 maart 1995 tot   vaststelling van de regels betreffende de geldelijke valorisatie van vroegere   diensten die in de overheidssector door de gemeentesecretarissen en   gemeenteontvangers werden verricht;<BR><BR>13° het koninklijk besluit van 10   april 1995 tot bepaling van de activiteiten van industriële of commerciële aard   waarvoor de gemeenteraad een autonoom gemeentebedrijf met rechtspersoonlijkheid   kan oprichten, behoudens voor wat betreft de havenbedrijven in de zin van het   decreet van 2 maart 1999 houdende het beleid en het beheer van de zeehavens,   zoals gewijzigd bij het koninklijk besluit van 9 maart 1999;<BR><BR>14° het   koninklijk besluit van 29 maart 2000 houdende nadere regels aangaande de   verhoging van het presentiegeld van gemeenteraadsleden en de wedde van   burgemeesters en schepenen)
+
+## HOOFDSTUK II Overgangsbepalingen
+
+## Afdeling I Overgangsbepalingen inzake de gemeentelijke diensten en het personeel
+
+### ART. 308.
+
+§ 1. De Vlaamse Regering stelt de overgangsregelen vast betreffende het administratief en geldelijk statuut van de plaatselijke ontvangers die op het moment van de volledige inwerkingtreding van hoofdstuk V van titel II van dit decreet in dienst van de gemeenten zijn, met inachtneming van de volgende principes:<br /><br />1° de waarborg van aanstelling in het ambt van financieel beheerder in de betrokken gemeente in kwestie;<br /><br />2° onverminderd 1°, de mogelijkheid om te worden tewerkgesteld als lid van de externe auditcommissie zoals bedoeld in 265;<br /><br />3° het behoud van de verworven rechten inzake het geldelijk statuut.<br /><br />§ 2. Het mandaatstelsel, bedoeld in artikel 105, § 4, treedt slechts in werking bij de eerste nieuwe benoeming of aanstelling in de betrekking, nadat het mandaatstelsel voor deze betrekking in de rechtspositieregeling werd voorzien. De in § 1 vermelde gewaarborgde aanstelling van de plaatselijke ontvanger in het ambt van financieel beheerder, wordt niet geacht een nieuwe benoeming of aanstelling te zijn.<br /><br />§ 3. In afwijking van § 2 kan de gemeenteraad beslissen dat voor de vacatures uitgeschreven na de publicatie van onderhavig decreet het mandaatstelsel kan worden toegepast.
+
+## Afdeling II Overgangsbepalingen voor de gemeentelijke financiën
+
+## Afdeling III Overgangsbepalingen voor de gemeentelijke externe verzelfstandiging
+
+## Afdeling IV Overgangsbepalingen voor het bestuurlijk toezicht
+
+## Afdeling V Overgangsbepalingen voor de toevoeging van de voorzitter van de raad voor maatschappelijk welzijn aan het college van burgemeester en schepenen
+
+## HOOFDSTUK III Inwerkingtreding
+
+### ART. 313.
+
+§ 1. Onverminderd §§ 2 en 3 bepaalt de Vlaamse Regering voor elk artikel, of onderdelen ervan, van dit decreet en de daarmee overeenstemmende opheffingsbepalingen, genoemd in artikel 302, de dag waarop het in werking treedt.<br /><br />Artikel 71 kan, voor de burgemeester, niet voor 1 januari 2007 in werking treden.<br /><br />Voor de wetten, decreten en besluiten, vermeld in artikel 303, bepaalt de Vlaamse Regering per wet, decreet of besluit de datum waarop de opheffing in werking treedt.<br /><br />§ 2. De volgende bepalingen treden in werking op 1 januari 2006:<br /><br />1° artikel 1 tot en met 5;<br /><br />2° artikel 102 tot en met 117;<br /><br />3° artikel 190 tot en met 194;<br /><br />4° artikel 248 tot en met 264;<br /><br />5° artikel 296.<br /><br />§ 3. Artikel 308 treedt in werking op datum van publicatie van onderhavig decreet in het Belgisch Staatsblad.
