@@ -1,0 +1,17 @@
+{
+  "codex_id": 1012994,
+  "title": "Besluit van de Vlaamse Regering van 2004-04-02 betreffende de erkenning en financiële ondersteuning van toeristisch-recreatieve projecten en strategische plannen",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1012994/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "fd7a20ab1574e8e1437049ba407f7ca8bdc96e1d4c1af28ad5668100dbc9c4b2",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1012994&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "2004-04-02",
+  "gazette": "2004-05-14",
+  "numac": 2004035681,
+  "document_start": "2004-01-31",
+  "document_end": "2012-12-31",
+  "in_force": "2006-06-01",
+  "article_versions": 30,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
