@@ -1,0 +1,17 @@
+{
+  "codex_id": 1008797,
+  "title": "Besluit van de Vlaamse Regering van 1982-12-22 houdende oprichting van de Syndicale Raad van Advies bij het ministerie van de Vlaamse Gemeenschap",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1008797/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "c5a4f0e204c936ccc3237929b28396e915295694dd51bf146f7b94e2172beeba",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1008797&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "1982-12-22",
+  "gazette": "1983-07-01",
+  "numac": 1983023250,
+  "document_start": "1983-01-01",
+  "document_end": null,
+  "in_force": "2006-06-01",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
