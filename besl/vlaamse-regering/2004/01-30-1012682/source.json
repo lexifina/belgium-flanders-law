@@ -1,0 +1,17 @@
+{
+  "codex_id": 1012682,
+  "title": "Besluit van de Vlaamse Regering van 2004-01-30 betreffende het Vlaamse inburgeringsbeleid",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1012682/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "b7d3c1fb9ae22e32e9e8ce4265160026fe9ae60b007dab484937f855db8e64b1",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1012682&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "2004-01-30",
+  "gazette": "2004-04-26",
+  "numac": 2004035539,
+  "document_start": "2004-04-01",
+  "document_end": "2006-12-31",
+  "in_force": "2006-06-01",
+  "article_versions": 44,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
