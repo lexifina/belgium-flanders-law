@@ -1,0 +1,17 @@
+{
+  "codex_id": 1004141,
+  "title": "Samenwerkingsakkoord van 1995-04-05 tussen de federale staat, het Vlaamse Gewest, het Waalse Gewest en het Brussels Hoofdstedelijk Gewest met betrekking tot het internationaal milieubeleid",
+  "type": "Samenwerkingsakkoord",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1004141/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "6c671e533b06e1a65bc1ce2bf581555c46c6115204f73aecca3feab90b63be23",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1004141&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "1995-04-05",
+  "gazette": "1995-12-13",
+  "numac": 0,
+  "document_start": null,
+  "document_end": null,
+  "in_force": "2006-06-01",
+  "article_versions": 17,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
