@@ -1,0 +1,17 @@
+{
+  "codex_id": 1011115,
+  "title": "Besluit van de Vlaamse Regering van 2003-05-23 houdende organisatie van de Vlaamse Huisvestingsmaatschappij en de instellingsspecifieke regeling van de rechtspositie van het personeel",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1011115/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "a9eb20df836d524073345cb00724e0fec6935c0cda14f44ef6fe9753e0e2ed7a",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1011115&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "2003-05-23",
+  "gazette": "2003-06-12",
+  "numac": 2003035604,
+  "document_start": "2000-10-01",
+  "document_end": "2009-09-04",
+  "in_force": "2006-06-01",
+  "article_versions": 22,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
