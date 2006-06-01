@@ -1,0 +1,17 @@
+{
+  "codex_id": 1003139,
+  "title": "Samenwerkingsakkoord van 1990-11-30 tussen de Staat en de Gemeenschappen betreffende de naleving van de verplichtingen van België tegenover de Europese scholen en hun financiering",
+  "type": "Samenwerkingsakkoord",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1003139/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "26842ab476dd8d3920fac0ad6ee44a84a8a4e77daa91cf079885f12529b0f81b",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1003139&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "1990-11-30",
+  "gazette": "1991-02-20",
+  "numac": 0,
+  "document_start": null,
+  "document_end": null,
+  "in_force": "2006-06-01",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
