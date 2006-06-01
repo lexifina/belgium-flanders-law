@@ -1,0 +1,17 @@
+{
+  "codex_id": 1013579,
+  "title": "Besluit van de Vlaamse Regering van 2004-09-17 betreffende onderwijsprojecten \"accent op talent\"",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1013579/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "22ab1334e5c99f487147366df7bb12fe60d063e3c6737f3325b76cf371f0dc35",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1013579&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "2004-09-17",
+  "gazette": "2004-12-09",
+  "numac": 2004036793,
+  "document_start": "2003-09-01",
+  "document_end": "2005-08-31",
+  "in_force": "2006-06-01",
+  "article_versions": 9,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
