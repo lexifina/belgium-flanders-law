@@ -1,0 +1,17 @@
+{
+  "codex_id": 1003240,
+  "title": "Decreet van 1988-12-21 houdende oprichting van de Vlaamse Huisvestingsmaatschappij",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1003240/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "0d39fe8953705be2651b65b6aedf6de37486bc3eed7b3d78b3f99afd037e98c4",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1003240&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "1988-12-21",
+  "gazette": "1988-12-29",
+  "numac": 1988030139,
+  "document_start": null,
+  "document_end": null,
+  "in_force": "2006-06-01",
+  "article_versions": 12,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
