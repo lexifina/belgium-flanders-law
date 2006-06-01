@@ -1,0 +1,17 @@
+{
+  "codex_id": 1007320,
+  "title": "Besluit van de Vlaamse Regering van 2000-04-14 houdende een waarborgregeling voor de ondernemingen die zijn getroffen door de dioxinecrisis in 1999",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1007320/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "2d5d8824a353f1f3b821b0809606f1f067aecee487e36911f9641b0ac84ba5e3",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1007320&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "2000-04-14",
+  "gazette": "2000-06-08",
+  "numac": 2000035503,
+  "document_start": "2000-05-23",
+  "document_end": "2023-01-27",
+  "in_force": "2006-06-01",
+  "article_versions": 14,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
