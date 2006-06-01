@@ -1,0 +1,17 @@
+{
+  "codex_id": 1001895,
+  "title": "Besluit van de Vlaamse Regering van 1990-09-05 houdende vaststelling van de presentiegelden en sommige vergoedingen voor de leden van de raad van bestuur van de Dienst voor Infrastructuurwerken van het Gesubsidieerd Onderwijs en van de commissaris van de Vlaamse regering bij deze Dienst",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1001895/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "91f294f62dedbee5b04f4a30576d8a621720751803093d4c8d8eb3f37a3ba27f",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1001895&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "1990-09-05",
+  "gazette": "1992-06-17",
+  "numac": 1992035646,
+  "document_start": "1990-03-07",
+  "document_end": null,
+  "in_force": "2006-06-01",
+  "article_versions": 7,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
