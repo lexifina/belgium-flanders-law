@@ -1,0 +1,17 @@
+{
+  "codex_id": 1000724,
+  "title": "Decreet van 1993-03-03 houdende het statuut van de terreinen voor openluchtrecreatieve verblijven",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1000724/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "240c4d0fba454adc23b541c4b6de2e8771871fa57c0e88415efe54dfa55e0106",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1000724&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "1993-03-03",
+  "gazette": "1993-04-28",
+  "numac": 1993035508,
+  "document_start": "1995-03-15",
+  "document_end": "2999-12-31",
+  "in_force": "2006-06-01",
+  "article_versions": 13,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
