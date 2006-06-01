@@ -1,0 +1,17 @@
+{
+  "codex_id": 1003515,
+  "title": "Besluit van de Vlaamse Regering van 1990-01-17 betreffende de organisatie en de samenstelling van de Hoge Raad voor het maritiem hoger onderwijs en tot regeling van zijn werking",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1003515/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "d21868e7cd7154e9396f33e1ce4f68320dd612e923bb1c6400e7492dd904022d",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1003515&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "1990-01-17",
+  "gazette": "1990-06-20",
+  "numac": 1990029695,
+  "document_start": "1989-12-20",
+  "document_end": null,
+  "in_force": "2006-06-01",
+  "article_versions": 16,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
