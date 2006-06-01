@@ -1,0 +1,17 @@
+{
+  "codex_id": 1001276,
+  "title": "Besluit van de Vlaamse Regering van 1993-04-07 betreffende de voorwaarden tot organisatie van het onderzoek van het vereenvoudigen en eenvormig maken van de administratieve regelen, bedoeld bij artikel 19 van het decreet van 23 januari 1991 betreffende de vorming en de begeleiding van de zelfstandigen en de kleine en middelgrote ondernemingen",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1001276/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "7435b60b7e95f6457fdfda78426c3380b8d28e8e0add545c288e1da4a05062fa",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1001276&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "1993-04-07",
+  "gazette": "1993-06-11",
+  "numac": 1993035653,
+  "document_start": "1993-01-01",
+  "document_end": "2005-12-31",
+  "in_force": "2006-06-01",
+  "article_versions": 7,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
