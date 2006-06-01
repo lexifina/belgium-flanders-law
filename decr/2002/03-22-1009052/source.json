@@ -1,0 +1,17 @@
+{
+  "codex_id": 1009052,
+  "title": "Decreet van 2002-03-22 tot bekrachtiging van het besluit van de Vlaamse regering van 23 november 2001 tot bepaling van de ontwikkelingsdoelen voor het buitengewoon basisonderwijs type 1",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1009052/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "2be75f2ed044bbebff2329d8dab40010d0847f407551eac1bb58a491deb77d08",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1009052&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "2002-03-22",
+  "gazette": "2002-04-27",
+  "numac": 2002035544,
+  "document_start": null,
+  "document_end": null,
+  "in_force": "2006-06-01",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
