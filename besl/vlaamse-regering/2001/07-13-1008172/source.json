@@ -1,0 +1,17 @@
+{
+  "codex_id": 1008172,
+  "title": "Besluit van de Vlaamse Regering van 2001-07-13 betreffende de elektriciteitsvoorziening aan bepaalde afnemers",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1008172/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "f8aff1561f530c25e2e31a4f617469a27ce150b11b6875a66dbaf23bdc2ed2a3",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1008172&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "2001-07-13",
+  "gazette": "2001-08-11",
+  "numac": 2001035907,
+  "document_start": null,
+  "document_end": "2010-12-31",
+  "in_force": "2006-06-01",
+  "article_versions": 7,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
