@@ -1,0 +1,17 @@
+{
+  "codex_id": 1004052,
+  "title": "Omzendbrief van 1995-03-14 3/94 betreffende de erkenning van opleidingen voor verzorgende personeelsleden in de rusthuizen in het kader van de R.I.Z.I.V.-reglementering",
+  "type": "Omzendbrief",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1004052/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "dca9faae6ed36f3f49855bb4ae9a342f9ab3af7a92e891e1c550c0dd86b34db9",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1004052&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "1995-03-14",
+  "gazette": "1995-10-13",
+  "numac": 0,
+  "document_start": null,
+  "document_end": null,
+  "in_force": "2006-06-01",
+  "article_versions": 1,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
