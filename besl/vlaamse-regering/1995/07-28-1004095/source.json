@@ -1,0 +1,17 @@
+{
+  "codex_id": 1004095,
+  "title": "Besluit van de Vlaamse Regering van 1995-07-28 houdende oprichting van basis- en tussenoverlegcomités voor het ministerie van de Vlaamse Gemeenschap en de Vlaamse wetenschappelijke instellingen",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1004095/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "3571525432f6a0c0bf4c45a5ac1f9d8b1eca8abf70030378bf7c4a4cd1b93cfb",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1004095&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "1995-07-28",
+  "gazette": "1995-11-22",
+  "numac": 1995036507,
+  "document_start": null,
+  "document_end": "2008-05-31",
+  "in_force": "2006-06-01",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
