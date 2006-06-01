@@ -1,0 +1,17 @@
+{
+  "codex_id": 1009259,
+  "title": "Decreet van 2002-06-28 betreffende de oprichting van de vennootschappen T-Groep en Werkholding",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1009259/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "5a3c031ea9ce4769bc4075d949d556713b42aefc9bd6d78893a4ce8087c5eeb3",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1009259&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "2002-06-28",
+  "gazette": "2002-07-11",
+  "numac": 2002035863,
+  "document_start": null,
+  "document_end": null,
+  "in_force": "2006-06-01",
+  "article_versions": 13,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
