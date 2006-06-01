@@ -1,0 +1,17 @@
+{
+  "codex_id": 1009806,
+  "title": "Besluit van de Vlaamse Regering van 2002-06-07 tot vaststelling van de modaliteiten van overdracht van sommige personeelsleden van het ministerie van de Vlaamse Gemeenschap naar de nv. Zeekanaal en Watergebonden Grondbeheer Vlaanderen",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1009806/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "5d81f89c5d18cabe3995f06c92a71e237fb03895b3d6ef0a20970741ae46fcd6",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1009806&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "2002-06-07",
+  "gazette": "2002-11-07",
+  "numac": 2002036386,
+  "document_start": "2002-06-07",
+  "document_end": null,
+  "in_force": "2006-06-01",
+  "article_versions": 9,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
