@@ -1,0 +1,17 @@
+{
+  "codex_id": 1014037,
+  "title": "Ministerieel besluit van 2005-10-10 tot toekenning van delegatie van sommige bevoegdheden inzake de uitvoering van het VESOC-actieplan 2005 \"Evenredige arbeidsdeelname en diversiteit\" aan personeelsleden van het ministerie van de Vlaamse Gemeenschap",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1014037/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "2bf7663dffec3bb3325192086b99387605654cf0d3cbb5c423f9513831a74e09",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1014037&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "2005-10-10",
+  "gazette": "2005-10-24",
+  "numac": 2005036277,
+  "document_start": "2005-10-17",
+  "document_end": null,
+  "in_force": "2006-06-01",
+  "article_versions": 6,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
