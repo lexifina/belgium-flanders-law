@@ -1,0 +1,17 @@
+{
+  "codex_id": 1003707,
+  "title": "Besluit van de Vlaamse Regering van 1989-11-15 tot oprichting en samenstelling van een Vlaamse Havencommissie",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1003707/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "5342283dae6720fcb3019af7b2cb7d814a1e57a5d2cd91c5daf39042107280b8",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1003707&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "1989-11-15",
+  "gazette": "1990-02-17",
+  "numac": 1990029149,
+  "document_start": "1990-02-17",
+  "document_end": null,
+  "in_force": "2006-06-01",
+  "article_versions": 13,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
