@@ -1,0 +1,17 @@
+{
+  "codex_id": 1005069,
+  "title": "Decreet van 1988-04-13 tot bepaling van de gevallen en de modaliteiten waarbij de Vlaamse regering kan overgaan tot onteigeningen ten algemenen nutte inzake de gewestelijke aangelegenheden",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1005069/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "f300fafa3b935a55b6a68632e375233ad50a3e56d0bbd2a97b6f0d08ae424478",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1005069&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "1988-04-13",
+  "gazette": "1988-05-12",
+  "numac": 1988029385,
+  "document_start": "1980-10-01",
+  "document_end": "2017-12-31",
+  "in_force": "2006-06-01",
+  "article_versions": 5,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
