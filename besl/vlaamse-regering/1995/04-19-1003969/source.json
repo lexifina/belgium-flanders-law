@@ -1,0 +1,17 @@
+{
+  "codex_id": 1003969,
+  "title": "Besluit van de Vlaamse Regering van 1995-04-19 tot vaststelling van de personeelsformatie van het permanent secretariaat van de Vlaamse Onderwijsraad",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1003969/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "78131b896af9f449c074ac8665c690c5d7350d445fbeab7807be11b2f1c1337a",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1003969&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "1995-04-19",
+  "gazette": "1995-09-05",
+  "numac": 1995035958,
+  "document_start": null,
+  "document_end": null,
+  "in_force": "2006-06-01",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
