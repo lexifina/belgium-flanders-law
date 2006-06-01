@@ -1,0 +1,17 @@
+{
+  "codex_id": 1014513,
+  "title": "Decreet van 2006-03-31 tot overname van personeelsleden van VZW Info-Toerisme door het Intern Verzelfstandigd Agentschap Toerisme Vlaanderen",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1014513/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "76a3062cc0af86f68a8dfbefa5de5b6bb9bb723dfacfc44a7d823cde93001a8b",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1014513&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "2006-03-31",
+  "gazette": "2006-05-16",
+  "numac": 2006035727,
+  "document_start": null,
+  "document_end": null,
+  "in_force": "2006-06-01",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
