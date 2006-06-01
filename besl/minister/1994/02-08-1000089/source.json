@@ -1,0 +1,17 @@
+{
+  "codex_id": 1000089,
+  "title": "Ministerieel besluit van 1994-02-08 houdende vaststelling van de termijn zoals bedoeld in artikel 4, §4, van het besluit van de Vlaamse regering van 9 juni 1993 tot uitvoering van het decreet van 3 maart 1993 houdende regeling tot erkenning van de outplacement-, wervings- en selectiebureaus in het Vlaamse Gewest",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1000089/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "8795dc8b76258bc3893c5b4dda955382f5762aeaa181788c3a6227a0c290a28b",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1000089&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "1994-02-08",
+  "gazette": "1994-04-12",
+  "numac": 1994035419,
+  "document_start": null,
+  "document_end": null,
+  "in_force": "2006-06-01",
+  "article_versions": 1,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
