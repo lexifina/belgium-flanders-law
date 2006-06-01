@@ -1,0 +1,17 @@
+{
+  "codex_id": 1002496,
+  "title": "Ministerieel besluit van 1991-07-26 houdende vaststelling van regelen omtrent de stages tot het bekomen van het diploma van vroedvrouw en gegradueerde verpleegkundige",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1002496/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "3c810351cb6be5bfc6d219daae1a9c8b738500a6e23b1f78b9d3fa07b4b5818d",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1002496&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "1991-07-26",
+  "gazette": "1991-10-10",
+  "numac": 0,
+  "document_start": "1991-09-01",
+  "document_end": null,
+  "in_force": "2006-06-01",
+  "article_versions": 9,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
