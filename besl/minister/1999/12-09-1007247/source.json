@@ -1,0 +1,17 @@
+{
+  "codex_id": 1007247,
+  "title": "Ministerieel besluit van 1999-12-09 tot vaststelling van de type-huurovereenkomst voor de woningen die aan het Vlaams Woningfonds van de Grote Gezinnen toebehoren",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1007247/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "679a2bc48b0ea180a9411e1b3f99f21350a0e7d87991f56f4d79875a09c2705d",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1007247&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "1999-12-09",
+  "gazette": "2000-04-28",
+  "numac": 2000035391,
+  "document_start": null,
+  "document_end": "2009-04-03",
+  "in_force": "2006-06-01",
+  "article_versions": 72,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
