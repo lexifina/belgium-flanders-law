@@ -1,0 +1,17 @@
+{
+  "codex_id": 1015550,
+  "title": "Samenwerkingsakkoord van 1989-08-07 tussen de Staat, de Vlaamse Gemeenschap, de Franse Gemeenschap en de Duitstalige Gemeenschap betreffende het personeel van het Nationaal Waarborgfonds voor schoolgebouwen",
+  "type": "Samenwerkingsakkoord",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1015550/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "54322ffdc4d29100af2c6f8831604ff55e83a3c8899f262c8614193a09e8c7d5",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1015550&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "1989-08-07",
+  "gazette": "1989-10-05",
+  "numac": 0,
+  "document_start": null,
+  "document_end": null,
+  "in_force": "2006-06-01",
+  "article_versions": 5,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}

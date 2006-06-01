@@ -1,0 +1,21 @@
+# Samenwerkingsakkoord van 1989-08-07 tussen de Staat, de Vlaamse Gemeenschap, de Franse Gemeenschap en de Duitstalige Gemeenschap betreffende het personeel van het Nationaal Waarborgfonds voor schoolgebouwen
+
+### Aanhef
+
+Gelet op artikel 59bis, § 2, 2°, van de Grondwet;<br /><br />Gelet op de bijzondere wet van 8 augustus 1980 tot hervorming der instellingen, inzonderheid op de artikelen 87, 89, 91bis, 92bis, §§ 1 en 5, en 94, § 1;<br /><br />Gelet op de bijzondere wet van 16 januari 1989 betreffende de financiering van de Gemeenschappen en de Gewesten, inzonderheid op de artikelen 61, § 3, en 73;<br /><br />Gelet op de wet van 29 mei 1959 tot wijziging van sommige bepalingen van de wetgeving inzake onderwijs;<br /><br />Gelet op de wet van 31 december 1983 tot hervorming der instellingen voor de Duitstalige Gemeenschap;<br /><br />Gelet op de wet van 23 januari 1989 op het rechtscollege bedoeld bij de artikelen 92bis, §§ 5 en 6, en 94, § 3, van de bijzondere wet van 8 augustus 1980 tot hervorming der instellingen;<br /><br />Overwegende dat het personeel van het Nationaal Waarborgfonds voor schoolgebouwen eerlang overgedragen zal worden naar de Gemeenschappen; dat het Fonds niettemin zijn rechtspersoonlijkheid zal behouden voor de behoeften van zijn vereffening;<br /><br />Overwegende dat het aangewezen is dat het Fonds over voldoende personeel beschikt naar aantal en hoedanigheid, om, enerzijds zolang de Gemeenschappen er niet anders over beschikken, de opdrachten die voortaan onder de bevoegdheid van de Gemeenschappen vallen uit te oefenen en om, anderzijds, de opdrachten uit te oefenen die verder tot de bevoegdheid van de Staat behoren daar zij betrekking hebben op de lasten uit het verleden die de Staat gehouden is te dragen overeenkomstig de bijzondere wet van 16 januari 1989 of op de vereffeningsverrichtingen van het Fonds; dat in dit verband rekening dient te worden gehouden met de bijzondere toestand van de Duitstalige Gemeenschap, zowel in verband met de toekomstige wijzigingen van de wet tot regeling van haar bevoegdheden en haar financiering als met betrekking tot het personeel dat tot hiertoe belast was met het beheer van de dossiers betreffende deze Gemeenschap, terwijl dit personeel overgedragen zal worden naar de Franse Gemeenschap;<br /><br />De Staat, vertegenwoordigd door de heer Philippe Moureaux, Vice-Eerste Minister en Minister van Institutionele Hervormingen, belast met de Herstructurering van het “Ministère de l’Education nationale” en door de heer Willy Claes, Vice-Eerste Minister en Minister van Economische Zaken en het Plan, belast met de Herstructurering van het Ministerie van Onderwijs,<br /><br />De Vlaamse Gemeenschap, vertegenwoordigd door de heer Daniël Coens, Gemeenschapsminister van Onderwijs,<br /><br />De Franse Gemeenschap, vertegenwoordigd door de heer Valmy Feaux, Minister-Voorzitter, de heer Yvan Ylieff, Minister van Opvoeding en Wetenschappelijk Onderzoek en de heer Jean-Pierre Grafé, Minister van Onderwijs, Vorming, Sport, Toerisme en Internationale Betrekkingen,<br />De Duitstalige Gemeenschap, vertegenwoordigd door de heer Joseph Maraite, Minister-Voorzitter en de heer Bruno Fagnoul, Gemeenschapsminister van Onderwijs,<br />	<br />Zijn overeengekomen hetgeen volgt:
+
+### ART. 1.
+
+De Gemeenschappen, die partij zijn in deze overeenkomst, stellen ter beschikking van het Fonds de personeelsleden ervan die hen overgedragen werden.<br /><br />In geval van vertrek van de onder het eerste lid van dit artikel bedoelde personeelsleden, voorzien ze bovendien onverwijld, ieder wat haar betreft, in hun vervanging door personeel van gelijkwaardige niveau, graad, hoedanigheid en bevoegdheid.
+
+### ART. 2.
+
+Het personeel dat overeenkomstig artikel 1 van dit akkoord ter beschikking wordt gesteld van het Fonds, is onderworpen aan het functioneel gezag van de raad van beheer van het Fonds.
+
+### ART. 3.
+
+Dit samenwerkingsakkoord wordt volledig in het Belgisch Staatsblad gepubliceerd.  Het geldt ten opzichte van elke Gemeenschap vanaf de dag van inwerkingtreding van het koninklijk besluit dat al het personeel van het Fonds of een gedeelte ervan naar de bevoegde Executieve overdraagt.
+
+### ART. 4.
+
+Dit akkoord neemt een einde op de dag dat het Nationaal Waarborgfonds wordt afgeschaft.
