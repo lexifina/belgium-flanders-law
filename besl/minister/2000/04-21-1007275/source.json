@@ -1,0 +1,17 @@
+{
+  "codex_id": 1007275,
+  "title": "Ministerieel besluit van 2000-04-21 houdende bepaling van de vorm der beslissingen inzake verkavelingaanvragen volgens het decreet betreffende de ruimtelijke ordening, gecoördineerd op 22 oktober 1996",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1007275/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "e46f61d6c7113aee9ce16fb67a904e424e89a9ca7c14b0ba93da47728a462022",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1007275&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "2000-04-21",
+  "gazette": "2000-05-19",
+  "numac": 2000035465,
+  "document_start": "2000-05-01",
+  "document_end": "2007-05-09",
+  "in_force": "2006-06-01",
+  "article_versions": 6,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
