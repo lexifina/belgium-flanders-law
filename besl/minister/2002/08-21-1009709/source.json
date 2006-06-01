@@ -1,0 +1,17 @@
+{
+  "codex_id": 1009709,
+  "title": "Ministerieel besluit van 2002-08-21 houdende vaststelling van het \"besluit vrijstelling loodsplicht Scheldereglement",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1009709/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "779b458aa96300252c01e5d41eadd9cf04e6565b039ec9d0727979705d445159",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1009709&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "2002-08-21",
+  "gazette": "2002-09-28",
+  "numac": 0,
+  "document_start": null,
+  "document_end": null,
+  "in_force": "2006-06-01",
+  "article_versions": 5,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
