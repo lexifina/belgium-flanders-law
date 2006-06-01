@@ -1,0 +1,17 @@
+{
+  "codex_id": 1001925,
+  "title": "Besluit van de Vlaamse Regering van 1994-11-30 tot instelling van de verplichte bijdragen in het promotiefonds \"Pluimvee, eieren en kleinvee\"",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1001925/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "9e90784ac7b965290a05f996e248533d5edc3290c6b25ee035e817167efb8798",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1001925&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "1994-11-30",
+  "gazette": "1995-02-09",
+  "numac": 1995735057,
+  "document_start": "1994-12-01",
+  "document_end": null,
+  "in_force": "2006-06-01",
+  "article_versions": 9,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
