@@ -1,0 +1,17 @@
+{
+  "codex_id": 1014211,
+  "title": "Ministerieel besluit van 2005-11-22 betreffende de berekening en herziening van de voorlopige toeslagrechten ter uitvoering van de bedrijfstoeslagregeling",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1014211/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "6c7b7988a06ed2287f44dbda58a0534724693a7fe07205fd1ea9bb3841ce1052",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1014211&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "2005-11-22",
+  "gazette": "2006-01-19",
+  "numac": 2005036648,
+  "document_start": "2004-11-01",
+  "document_end": "2014-12-31",
+  "in_force": "2006-06-01",
+  "article_versions": 12,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
