@@ -1,0 +1,17 @@
+{
+  "codex_id": 1001207,
+  "title": "Ministerieel besluit van 1994-09-23 tot goedkeuring van het huishoudelijk reglement van de Dienst voor Infrastructuurwerken van het Gesubsidieerd Onderwijs",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1001207/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "339b96f91c4522fbc1ee9ab2b4309277ebbe5c0b4e3da8b6e055cddb7a43b984",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1001207&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "1994-09-23",
+  "gazette": "1994-10-28",
+  "numac": 0,
+  "document_start": "1994-09-19",
+  "document_end": null,
+  "in_force": "2006-06-01",
+  "article_versions": 44,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
