@@ -1,0 +1,17 @@
+{
+  "codex_id": 1004062,
+  "title": "Besluit van de Vlaamse Regering van 1995-06-01 tot vaststelling van de mate waarin bepaalde diensten die voor 1 januari 1980 bij het Nationaal Werk voor Kinderwelzijn werden gepresteerd in aanmerking komen voor de berekening van de niveau-, de graad- of de dienstanciënniteit",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1004062/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "43ff08dc8266b0a2c894c8b7af9b2838ebe870722fb9778b97002d2768b97b86",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1004062&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "1995-06-01",
+  "gazette": "1995-10-20",
+  "numac": 1995036316,
+  "document_start": "1995-10-20",
+  "document_end": null,
+  "in_force": "2006-06-01",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
