@@ -1,0 +1,17 @@
+{
+  "codex_id": 1021385,
+  "title": "Protocol van 1997-06-03 tussen de Federale Regering en de in artikelen 128, 130 en 136 van de Grondwet bedoelde overheden inzake de organisatie en financiering van een gezondheidsenquête",
+  "type": "Protocol",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1021385/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "057be5893380178664e0b41f2b84163b4bd44fbd39a0c557acf1376622902a13",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1021385&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "1997-06-03",
+  "gazette": "1997-06-03",
+  "numac": 0,
+  "document_start": "1996-07-01",
+  "document_end": "1998-06-30",
+  "in_force": "2006-06-01",
+  "article_versions": 17,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
