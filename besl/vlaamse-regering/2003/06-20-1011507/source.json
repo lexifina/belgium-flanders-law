@@ -1,0 +1,17 @@
+{
+  "codex_id": 1011507,
+  "title": "Besluit van de Vlaamse Regering van 2003-06-20 met betrekking tot de sociale openbaredienstverplichtingen in de vrijgemaakte aardgasmarkt",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1011507/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "e227f10ba92e6d2c7ed45a2907a0dd11c5ed48a45be1b4eae61d81719e9eb64a",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1011507&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "2003-06-20",
+  "gazette": "2003-08-11",
+  "numac": 2003035871,
+  "document_start": null,
+  "document_end": "2009-06-30",
+  "in_force": "2006-06-01",
+  "article_versions": 23,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
