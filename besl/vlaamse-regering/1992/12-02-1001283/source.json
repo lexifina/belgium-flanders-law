@@ -1,0 +1,17 @@
+{
+  "codex_id": 1001283,
+  "title": "Besluit van de Vlaamse Regering van 1992-12-02 tot vaststelling van de voorwaarden voor de overheveling van lestijden van een onderwijsinstelling naar een andere onderwijsinstelling in het hoger onderwijs met volledig leerplan",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1001283/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "46cf7a5b7b3f9b2a06944c36f4839cb479105dfca06226a5d826c98b2ca202fa",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1001283&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "1992-12-02",
+  "gazette": "1993-06-08",
+  "numac": 1993035591,
+  "document_start": null,
+  "document_end": null,
+  "in_force": "2006-06-01",
+  "article_versions": 5,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
