@@ -1,0 +1,17 @@
+{
+  "codex_id": 1006523,
+  "title": "Ministerieel besluit van 1999-01-19 houdende vaststelling van de kernsteden in uitvoering van het besluit van de Vlaamse regering van 23 november 1994 houdende de voorwaarden betreffende het toestaan van leningen aan particulieren door de Vlaamse Huisvestingsmaatschappij en van het besluit van de Vlaamse regering van 23 november 1994 betreffende de aanwending, door het Vlaams Woningfonds van de Grote Gezinnen, van de kapitalen die voortkomen van het Fonds B2",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1006523/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "2c19833dc5c1c90420d68af6f301d98c697a172e9827d0aeda8033cff89f02fb",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1006523&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "1999-01-19",
+  "gazette": "1999-02-20",
+  "numac": 1999035204,
+  "document_start": null,
+  "document_end": "2006-06-30",
+  "in_force": "2006-06-01",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
