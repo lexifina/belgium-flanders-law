@@ -1,0 +1,17 @@
+{
+  "codex_id": 1008957,
+  "title": "Omzendbrief van 2001-11-20 Wel/2001/04 betreffende het recht op minimumlevering van elektriciteit en de rol van de lokale adviescommissie",
+  "type": "Omzendbrief",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1008957/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "ae58936a6ccbb32515dcd40230ad0f685f7c8592925c7a71717cc18dff68bdd0",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1008957&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "2001-11-20",
+  "gazette": "2002-03-28",
+  "numac": 2002035381,
+  "document_start": null,
+  "document_end": null,
+  "in_force": "2006-06-01",
+  "article_versions": 1,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
