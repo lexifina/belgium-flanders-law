@@ -1,0 +1,17 @@
+{
+  "codex_id": 1021350,
+  "title": "Samenwerkingsakkoord van 2003-12-16 tussen de federale Regering, de Vlaamse regering, de Waalse Regering en de regering van het Brussels Hoofdstedelijk Gewest betreffende de definitieve regeling van de schulden van het verleden en de ermee verband houdende lasten inzake sociale huisvesting",
+  "type": "Samenwerkingsakkoord",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1021350/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "ae0f80027286a5b06ae9fd80ca311adc1716eb19dd4545103a4522604ec453a2",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1021350&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "2003-12-16",
+  "gazette": "2004-07-15",
+  "numac": 0,
+  "document_start": null,
+  "document_end": null,
+  "in_force": "2006-06-01",
+  "article_versions": 9,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
