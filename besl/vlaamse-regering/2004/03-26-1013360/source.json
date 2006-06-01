@@ -1,0 +1,17 @@
+{
+  "codex_id": 1013360,
+  "title": "Besluit van de Vlaamse Regering van 2004-03-26 inzake de organisatie van het toezicht op de associaties in het hoger onderwijs (citeeropschrift: «Toezichtsbesluit associatie»)",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1013360/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "9592ee3ebe2584f67835c6e459fa9dbd2f9e4693adb74432361ac736a5d715dd",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1013360&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "2004-03-26",
+  "gazette": "2004-08-31",
+  "numac": 2004036382,
+  "document_start": null,
+  "document_end": null,
+  "in_force": "2006-06-01",
+  "article_versions": 14,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
