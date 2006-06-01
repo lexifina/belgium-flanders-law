@@ -1,0 +1,17 @@
+{
+  "codex_id": 1001194,
+  "title": "Samenwerkingsakkoord van 1994-06-17 tussen de federale Staat, het Vlaamse Gewest, het Waalse Gewest en het Brussels Hoofdstedelijk Gewest betreffende de gewestelijke economische en handelsattachés en de modaliteiten op het vlak van de handelspromotie",
+  "type": "Samenwerkingsakkoord",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1001194/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "55d696ed0e74f1bb52c9143a70992bca7c8f6eccf53e48e34c04a31be008e974",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1001194&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "1994-06-17",
+  "gazette": "1994-10-26",
+  "numac": 0,
+  "document_start": "1994-01-01",
+  "document_end": null,
+  "in_force": "2006-06-01",
+  "article_versions": 24,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
