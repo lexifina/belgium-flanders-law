@@ -1,0 +1,17 @@
+{
+  "codex_id": 1011093,
+  "title": "Omzendbrief van 2003-04-25 BA 2003/02 betreffende de afschaffing van de jaarlijkse herwaardering van de materiële, vaste activa van de intercommunale verenigingen en van de gemeentebedrijven",
+  "type": "Omzendbrief",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1011093/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "afbc200897e0a5ad8c9d4d7cf3905dbefe637b6ba06e0647d7e4787f9f514104",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1011093&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "2003-04-25",
+  "gazette": "2003-06-02",
+  "numac": 2003035545,
+  "document_start": null,
+  "document_end": null,
+  "in_force": "2006-06-01",
+  "article_versions": 1,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
