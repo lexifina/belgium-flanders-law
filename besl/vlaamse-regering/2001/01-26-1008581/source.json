@@ -1,0 +1,17 @@
+{
+  "codex_id": 1008581,
+  "title": "Besluit van de Vlaamse Regering van 2001-01-26 betreffende de mandaten van directeur, algemeen directeur en coördinerend directeur in het niet-tertiair onderwijs",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1008581/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "9cff8223a5a834669e9f38840aae4e0b95fb9e1c30cac59f468b7ed90351c56e",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1008581&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "2001-01-26",
+  "gazette": "2002-01-17",
+  "numac": 2001036514,
+  "document_start": null,
+  "document_end": null,
+  "in_force": "2006-06-01",
+  "article_versions": 15,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
