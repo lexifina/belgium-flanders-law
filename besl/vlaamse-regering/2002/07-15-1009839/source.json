@@ -1,0 +1,17 @@
+{
+  "codex_id": 1009839,
+  "title": "Besluit van de Vlaamse Regering van 2002-07-15 houdende organisatie van het ministerie van de Vlaamse Gemeenschap en de regeling van de rechtspositie van het personeel",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1009839/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "9e08d0502e4f4425eaf566cc2f2f824481e86cbdf7c8d908f788d9dcc806f005",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1009839&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "2002-07-15",
+  "gazette": "2002-11-27",
+  "numac": 2002036336,
+  "document_start": null,
+  "document_end": "2007-03-15",
+  "in_force": "2006-06-01",
+  "article_versions": 381,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
