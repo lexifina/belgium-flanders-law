@@ -1,0 +1,17 @@
+{
+  "codex_id": 1003335,
+  "title": "Besluit van de Vlaamse Regering van 1987-03-18 houdende machtiging van sommige gewestinstellingen tot deelname aan de pensioenregeling ingesteld bij de wet van 28 april 1958 betreffende het pensioen van het personeel van sommige instellingen van openbaar nut alsmede van hun rechthebbenden",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1003335/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "e1854525361dd6477e043fa895d498b8f9d42fbb0c4520bf03487631525d8017",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1003335&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "1987-03-18",
+  "gazette": "1987-10-23",
+  "numac": 1987029815,
+  "document_start": null,
+  "document_end": null,
+  "in_force": "2006-06-01",
+  "article_versions": 2,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
