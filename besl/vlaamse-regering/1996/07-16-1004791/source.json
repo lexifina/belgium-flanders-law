@@ -1,0 +1,17 @@
+{
+  "codex_id": 1004791,
+  "title": "Besluit van de Vlaamse Regering van 1996-07-16 houdende vaststelling van de regelen tot de werking en het beheer van het Vlaams Landbouwinvesteringsfonds",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1004791/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "6bc3a7413944e2fe950dd8c931727f2689228cf1d0f00fa3715ef1d80e218618",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1004791&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "1996-07-16",
+  "gazette": "1996-09-13",
+  "numac": 1996036095,
+  "document_start": "1996-04-01",
+  "document_end": "2016-01-27",
+  "in_force": "2006-06-01",
+  "article_versions": 18,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
