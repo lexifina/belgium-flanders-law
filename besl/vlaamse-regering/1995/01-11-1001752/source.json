@@ -1,0 +1,17 @@
+{
+  "codex_id": 1001752,
+  "title": "Besluit van de Vlaamse Regering van 1995-01-11 tot bepaling van de procedure van het openbaar onderzoek bedoeld in artikel 2 van het decreet van 21 december 1994 houdende bekrachtiging van het besluit van de Vlaamse regering van 16 november 1994 betreffende de definitieve aanwijzing van de beschermde duingebieden en van de voor het duingebied belangrijke landbouwgebieden, en houdende wijziging van de wet van 12 juli 1973 op het natuurbehoud",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1001752/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "e2e75a98e0abe59495f9eba7efaf25c03627471769b47cbfd62274fcda3b58d6",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1001752&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "1995-01-11",
+  "gazette": "1995-01-25",
+  "numac": 1995035109,
+  "document_start": null,
+  "document_end": null,
+  "in_force": "2006-06-01",
+  "article_versions": 7,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
