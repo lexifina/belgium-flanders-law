@@ -1,0 +1,17 @@
+{
+  "codex_id": 1005835,
+  "title": "Decreet van 1986-12-23 houdende integratie van kunstwerken in gebouwen van openbare diensten en daarmee gelijkgestelde diensten en van door de overheid gesubsidieerde inrichtingen, verenigingen en instellingen die tot het Vlaamse Gewest behoren",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1005835/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "34e5beed8f18cd63416cbc226de865c41af48a23a2340ffaf176ddf1db746038",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1005835&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "1986-12-23",
+  "gazette": "1987-02-13",
+  "numac": 1987029067,
+  "document_start": "1987-07-01",
+  "document_end": "2019-03-28",
+  "in_force": "2006-06-01",
+  "article_versions": 6,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
