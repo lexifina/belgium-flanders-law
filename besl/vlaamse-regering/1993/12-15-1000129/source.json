@@ -1,0 +1,17 @@
+{
+  "codex_id": 1000129,
+  "title": "Besluit van de Vlaamse Regering van 1993-12-15 houdende uitvoeringsbepalingen van het decreet van 27 januari 1993 houdende regeling van de subsidiëring voor de werking van organisaties voor podiumkunsten, voor wat de kunstencentra betreft",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1000129/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "b7734152be1872c5ad195caa13bbe477e5b109b230b00b5f06888bc02bddee22",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1000129&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "1993-12-15",
+  "gazette": "1994-06-11",
+  "numac": 1994035615,
+  "document_start": "1992-12-21",
+  "document_end": null,
+  "in_force": "2006-06-01",
+  "article_versions": 12,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
