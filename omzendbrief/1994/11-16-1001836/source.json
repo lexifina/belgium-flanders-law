@@ -1,0 +1,17 @@
+{
+  "codex_id": 1001836,
+  "title": "Omzendbrief van 1994-11-16 FB 94/1 budgettaire implementatieplannen",
+  "type": "Omzendbrief",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1001836/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "851d28188e9eb68c17082347f848258bf437b7aeb24ea2bdd7d5d64dc4b69760",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1001836&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "1994-11-16",
+  "gazette": "1995-02-01",
+  "numac": 0,
+  "document_start": null,
+  "document_end": null,
+  "in_force": "2006-06-01",
+  "article_versions": 1,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
