@@ -1,0 +1,17 @@
+{
+  "codex_id": 1015798,
+  "title": "Samenwerkingsakkoord van 1994-03-08 tussen de federale overheid, de Gemeenschappen en de Gewesten en het Verenigd College van de Gemeenschappelijke Gemeenschapscommissie over de nadere regelen voor het sluiten van gemengde verdragen",
+  "type": "Samenwerkingsakkoord",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1015798/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "4b862ff55e670b74550665dfd924a7595972412a250b1e0a855a49298a64f42c",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1015798&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "1994-03-08",
+  "gazette": "1996-12-17",
+  "numac": 0,
+  "document_start": null,
+  "document_end": null,
+  "in_force": "2006-06-01",
+  "article_versions": 5,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
