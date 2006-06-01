@@ -1,0 +1,17 @@
+{
+  "codex_id": 1011103,
+  "title": "Besluit van de Vlaamse Regering van 2003-02-14 betreffende het ICT-infrastructuurproject voor de informatisering van het onderwijs",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1011103/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "51c2d353f549d0754bfa3481d2a772c55b75846f2a364e46e8228d0e0627ca40",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1011103&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "2003-02-14",
+  "gazette": "2003-06-06",
+  "numac": 2003200610,
+  "document_start": "2002-09-01",
+  "document_end": null,
+  "in_force": "2006-06-01",
+  "article_versions": 9,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
