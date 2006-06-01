@@ -1,0 +1,17 @@
+{
+  "codex_id": 1005503,
+  "title": "Decreet van 1997-07-15 betreffende het onderwijs VIII",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1005503/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "14701dc551f3cb62142c0681c387aed32a9308ad2cf4a3de2a3ccfaf8eb6a19c",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1005503&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "1997-07-15",
+  "gazette": "1997-08-21",
+  "numac": 1997036004,
+  "document_start": null,
+  "document_end": null,
+  "in_force": "2006-06-01",
+  "article_versions": 78,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
