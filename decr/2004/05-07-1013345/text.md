@@ -1,0 +1,43 @@
+# Decreet van 2004-05-07 inzake de Sociaal-Economische Raad van Vlaanderen
+
+## HOOFDSTUK I ALGEMENE BEPALINGEN
+
+## HOOFDSTUK II OPDRACHTEN EN HOEDANIGHEDEN VAN DE SOCIAAL-ECONOMISCHE RAAD VAN VLAANDEREN
+
+## HOOFDSTUK III STATUUT, SAMENSTELLING EN WERKING VAN DE RAAD
+
+## HOOFDSTUK IV SOCIAAL-ECONOMISCH OVERLEG
+
+## AFDELING 1 ALGEMENE BEVOEGDHEDEN VAN DE RAAD
+
+## AFDELING 2 BIJZONDERE OPDRACHTEN VAN DE RAAD
+
+## ONDERAFDELING 1 STICHTING INNOVATIE & ARBEID (verv. decr. 19/12/2008, art. 12)]
+
+## [ONDERAFDELING 2 BEROEPSCOMPETENTIEPROFIELEN EN STANDAARDEN (ing. decr.19 december 2008)]
+
+## [AFDELING 3 BIJZONDERE OVERLEGINSTANTIES, OPGERICHT BIJ DE RAAD (ing. decr. 19 december 2008)]
+
+## [ONDERAFDELING 1 SECTORALE COMMISSIES (verv. decr. 19 december 2008)]
+
+## [ONDERAFDELING 2 VLAAMSE HAVENCOMMISSIE (verv. decr. 19 december 2008)]
+
+## [ONDERAFDELING 3 VLAAMSE LUCHTHAVENCOMMISSIE (ver. decr. 19 december 2008)]
+
+## [ONDERAFDELING 4 COMMISSIE DIVERSITEIT (verv. decr. 19 december 2008)]
+
+## HOOFDSTUK V DE RAAD ALS STRATEGISCHE ADVIESRAAD
+
+## HOOFDSTUK Vbis MOBILITEITSRAAD VAN VLAANDEREN
+
+## [HOOFDSTUK Vter. (ing. decr. 7 december 2007, art. 18, I: 1 januari 2009)] [... (opgeh Decr. 29 juni 2018, art. 29, I: 1 januari 2019)]
+
+## [HOOFDSTUK Vquater. Strategische Adviesraad voor Landbouw en Visserij (ing. decr. 3 juli 2015, art. 6, I: 1 januari 2016)]
+
+## [HOOFDSTUK Vquinquies. Vlaamse Raad voor Welzijn, Volksgezondheid en Gezin (ing. Decr. 29 juni 2018, art. 30, I: 1 januari 2019)]
+
+## HOOFDSTUK VI OPHEFFINGS-, WIJZIGINGS- EN SLOTBEPALINGEN
+
+### ART. 26.
+
+De Vlaamse regering bepaalt de datum van inwerkingtreding van dit decreet.
