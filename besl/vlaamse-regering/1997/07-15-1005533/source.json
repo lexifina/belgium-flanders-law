@@ -1,0 +1,17 @@
+{
+  "codex_id": 1005533,
+  "title": "Besluit van de Vlaamse Regering van 1997-07-15 betreffende de omvorming van de lerarenopleidingen van de hogescholen in de Vlaamse Gemeenschap",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1005533/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "dd9a943bbb6d260fc5d91eb6dae22bd379687d0e268dc0c19427620333635f37",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1005533&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "1997-07-15",
+  "gazette": "1997-09-02",
+  "numac": 1997036097,
+  "document_start": null,
+  "document_end": "2016-12-31",
+  "in_force": "2006-06-01",
+  "article_versions": 8,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
