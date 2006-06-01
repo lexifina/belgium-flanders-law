@@ -1,0 +1,17 @@
+{
+  "codex_id": 1000609,
+  "title": "Besluit van de Vlaamse Regering van 1983-07-28 tot vaststelling van de financiële bijdrage van [de personen met een handicap], geplaatst ten laste van [het Vlaams Agentschap voor Personen met een Handicap]",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1000609/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "74436c130da5207e1dc73534b3415319809a7ba0b1365a4b10e1ffa97c2d2cb5",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1000609&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "1983-07-28",
+  "gazette": "1983-09-30",
+  "numac": 1983023267,
+  "document_start": "1983-10-01",
+  "document_end": "2016-12-30",
+  "in_force": "2006-06-01",
+  "article_versions": 12,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
