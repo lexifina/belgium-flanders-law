@@ -1,0 +1,17 @@
+{
+  "codex_id": 1006083,
+  "title": "Samenwerkingsakkoord van 1997-10-24 tussen de staat en de gewesten betreffende het plan voor wetenschappelijke ondersteuning van een beleid gericht op duurzame ontwikkeling",
+  "type": "Samenwerkingsakkoord",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1006083/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "2fba87fc5daa11094272c2bde7a3b87fb9fe8358e8b1eaaa217acc656e610649",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1006083&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "1997-10-24",
+  "gazette": "1998-02-04",
+  "numac": 1998021017,
+  "document_start": null,
+  "document_end": null,
+  "in_force": "2006-06-01",
+  "article_versions": 6,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
