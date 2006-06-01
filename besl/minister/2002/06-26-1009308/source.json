@@ -1,0 +1,17 @@
+{
+  "codex_id": 1009308,
+  "title": "Ministerieel besluit van 2002-06-26 houdende de delegatie van sommige bevoegdheden inzake het economisch beleid aan personeelsleden van het ministerie van de Vlaamse Gemeenschap",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1009308/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "d47cd789ebde5ce206c078a0c61e1e992a4a152c8eb669d26a4f990baa11eed4",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1009308&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "2002-06-26",
+  "gazette": "2002-08-01",
+  "numac": 2002035913,
+  "document_start": null,
+  "document_end": "2006-06-30",
+  "in_force": "2006-06-01",
+  "article_versions": 20,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
