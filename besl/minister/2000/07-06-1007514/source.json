@@ -1,0 +1,17 @@
+{
+  "codex_id": 1007514,
+  "title": "Ministerieel besluit van 2000-07-06 tot regeling van de werking van de begeleidingscommissie voor de vervangingspool bij het Ministerie van de Vlaamse Gemeenschap - departement Onderwijs",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1007514/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "e337b7abc28f4118f465e86cb2b182896ea079ec67a63205c5c951ddbc7500b4",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1007514&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "2000-07-06",
+  "gazette": "2000-08-12",
+  "numac": 2000035795,
+  "document_start": null,
+  "document_end": null,
+  "in_force": "2006-06-01",
+  "article_versions": 13,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
