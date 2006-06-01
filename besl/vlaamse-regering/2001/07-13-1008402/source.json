@@ -1,0 +1,17 @@
+{
+  "codex_id": 1008402,
+  "title": "Besluit van de Vlaamse Regering van 2001-07-13 betreffende de medefinanciering van de instandhouding, met inbegrip van het verwerken van de specie, en het onderhoud van het gedeelte van de maritieme toegangsweg waaraan aanmeerinstallaties voor zee- en binnenschepen gelegen zijn met het oog op de overslag van goederen of het vervoer van personen",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1008402/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "87b4a57baa3f26762fc8436d722eb06dad05acf19d5adfba324a1bdccb1e7216",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1008402&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "2001-07-13",
+  "gazette": "2001-10-09",
+  "numac": 2001036139,
+  "document_start": "2001-10-09",
+  "document_end": null,
+  "in_force": "2006-06-01",
+  "article_versions": 17,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
