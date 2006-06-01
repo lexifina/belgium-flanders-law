@@ -1,0 +1,17 @@
+{
+  "codex_id": 1002570,
+  "title": "Decreet van 1991-07-24 houdende regeling, voor het Vlaamse Gewest, van het administratief toezicht op de handelingen betreffende tucht- en sommige ordemaatregelen genomen ten opzichte van het gemeentepersoneel bedoeld in de nieuwe gemeentewet",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1002570/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "592d6ee9fa18641d46c88a4dba02c737553139acac943ea34eec52b067ad0055",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1002570&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "1991-07-24",
+  "gazette": "1991-08-29",
+  "numac": 1991036067,
+  "document_start": "1991-09-01",
+  "document_end": "2006-12-31",
+  "in_force": "2006-06-01",
+  "article_versions": 18,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
