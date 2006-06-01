@@ -1,0 +1,17 @@
+{
+  "codex_id": 1005294,
+  "title": "Besluit van de Vlaamse Regering van 1987-11-19 houdende erkenning van de Vlaamse Televisie Maatschappij, als niet-openbare televisievereniging zicht richtend tot de gehele Vlaamse Gemeenschap",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1005294/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "ecd411152716bda64cdec355c9d3739804bc5f88d500cae1ee1f739643794545",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1005294&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "1987-11-19",
+  "gazette": "1988-01-07",
+  "numac": 1988030063,
+  "document_start": null,
+  "document_end": null,
+  "in_force": "2006-06-01",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
