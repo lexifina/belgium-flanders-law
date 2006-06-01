@@ -1,0 +1,17 @@
+{
+  "codex_id": 1001086,
+  "title": "Besluit van de Vlaamse Regering van 1991-05-03 betreffende het afleveren van vergunningen voor het capteren van water uit de in het Vlaamse Gewest gelegen bevaarbare waterlopen, kanalen en havens",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1001086/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "4fdb5e2ae9af0e7231018d0d5614602f7ca27972fbe7fb1b0a1a675e775e4892",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1001086&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "1991-05-03",
+  "gazette": "1991-07-19",
+  "numac": 1991035883,
+  "document_start": "1991-01-01",
+  "document_end": null,
+  "in_force": "2006-06-01",
+  "article_versions": 36,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
