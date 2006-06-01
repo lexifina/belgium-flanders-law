@@ -1,0 +1,17 @@
+{
+  "codex_id": 1008330,
+  "title": "Besluit van de Vlaamse Regering van 1983-12-14 houdende oprichting van een Vlaams Ministercomité voor Buitenlands Beleid",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1008330/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "493bdc92707ae3070ebb1abf2005b35128b73cd5c4ece2002b374415e33ce8ee",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1008330&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "1983-12-14",
+  "gazette": "1984-02-03",
+  "numac": 1984023079,
+  "document_start": null,
+  "document_end": null,
+  "in_force": "2006-06-01",
+  "article_versions": 7,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
