@@ -1,0 +1,17 @@
+{
+  "codex_id": 1013914,
+  "title": "Besluit van de Vlaamse Regering van 2005-07-08 houdende vaststelling van een gewestelijke stedenbouwkundige verordening inzake openluchtrecreatieve verblijven en de inrichting van gebieden voor dergelijke verblijven",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1013914/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "95deed8d0c29df01abcfeb5a7e1201b94490a82f1dcb27a69e1b06e3d4f73300",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1013914&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "2005-07-08",
+  "gazette": "2005-08-10",
+  "numac": 2005035956,
+  "document_start": "2005-08-20",
+  "document_end": null,
+  "in_force": "2006-06-01",
+  "article_versions": 9,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
