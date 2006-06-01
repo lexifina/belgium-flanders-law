@@ -1,0 +1,17 @@
+{
+  "codex_id": 1013907,
+  "title": "Besluit van de Vlaamse Regering van 2005-06-24 tot invoering van de weerwerkpremie",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1013907/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "cfd03897b0ff0ca1f6918749c016ace06a4601575348448b7981a660dd917a23",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1013907&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "2005-06-24",
+  "gazette": "2005-08-05",
+  "numac": 2005035905,
+  "document_start": "2005-07-01",
+  "document_end": null,
+  "in_force": "2006-06-01",
+  "article_versions": 11,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
