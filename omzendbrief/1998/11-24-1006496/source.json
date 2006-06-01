@@ -1,0 +1,17 @@
+{
+  "codex_id": 1006496,
+  "title": "Omzendbrief van 1998-11-24 Wel/98-07 betreffende nieuwe regels inzake het administratief toezicht op de OCMW's; decreet van 14 juli 1998 tot wijziging van de organieke wet van 8 juli 1976 betreffende de openbare centra voor maatschappelijk welzijn",
+  "type": "Omzendbrief",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1006496/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "ef5643476f1cb2d5918a6f1f193a1a1ce4d9daf151acdceaac580d5d2f340053",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1006496&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "1998-11-24",
+  "gazette": "1999-02-05",
+  "numac": 1999035012,
+  "document_start": null,
+  "document_end": null,
+  "in_force": "2006-06-01",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
