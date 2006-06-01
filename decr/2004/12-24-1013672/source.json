@@ -1,0 +1,17 @@
+{
+  "codex_id": 1013672,
+  "title": "Decreet van 2004-12-24 houdende bepalingen tot begeleiding van de tweede aanpassing van de begroting 2004",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1013672/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "8f42193bb3d6e972196ad943faa432975568ee6073da36f45de5315c23f11c66",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1013672&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "2004-12-24",
+  "gazette": "2005-02-21",
+  "numac": 2005035133,
+  "document_start": null,
+  "document_end": null,
+  "in_force": "2006-06-01",
+  "article_versions": 36,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
