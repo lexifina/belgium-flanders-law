@@ -1,0 +1,17 @@
+{
+  "codex_id": 1008169,
+  "title": "Omzendbrief van 2001-07-23 BA 2001/09 betreffende de organisatie van de administratie Binnenlandse Aangelegenheden na de integratie van de \"afdelingen provinciale gouvernementen",
+  "type": "Omzendbrief",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1008169/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "645a06dc619d2325fa1befa9f14c451cc6fcd4d72f10299951432ff4d2c150a7",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1008169&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "2001-07-23",
+  "gazette": "2001-08-10",
+  "numac": 2001035899,
+  "document_start": null,
+  "document_end": null,
+  "in_force": "2006-06-01",
+  "article_versions": 1,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
