@@ -1,0 +1,17 @@
+{
+  "codex_id": 1003375,
+  "title": "Samenwerkingsakkoord van 1990-07-31 tussen de Belgische Staat en de Vlaamse Gemeenschap, betreffende de tussenkomst van de Brandweerinspectie, opgericht door de wet van 31 december 1963 betreffende de civiele bescherming, in de erkenningsprocedure van voorzieningen voor bejaarden",
+  "type": "Samenwerkingsakkoord",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1003375/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "e4b302f86b40535a3fd4ee7a5d19fb81535a4b348e5c9863095af73755de8e3d",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1003375&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "1990-07-31",
+  "gazette": "1990-09-13",
+  "numac": 0,
+  "document_start": null,
+  "document_end": null,
+  "in_force": "2006-06-01",
+  "article_versions": 8,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
