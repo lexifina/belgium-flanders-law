@@ -1,0 +1,17 @@
+{
+  "codex_id": 1004355,
+  "title": "Decreet van 1995-12-20 houdende machtiging van de intercommunales voor kabeldistributie tot deelname aan vennootschappen die het kabelnetwerk in Vlaanderen tot een interactief communicatie-netwerk uitbouwen en/of exploiteren",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1004355/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "9ca5eef064d47483e1575be0a39b0c01c8fa07842e680f05dfe91ccb19273226",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1004355&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "1995-12-20",
+  "gazette": "1996-02-20",
+  "numac": 1996035205,
+  "document_start": null,
+  "document_end": null,
+  "in_force": "2006-06-01",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
