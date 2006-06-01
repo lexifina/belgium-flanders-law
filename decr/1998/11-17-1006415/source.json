@@ -1,0 +1,17 @@
+{
+  "codex_id": 1006415,
+  "title": "Decreet van 1998-11-17 houdende begrotingstechnische aanpassingen in het licht van de bijstandverlening ingevolge de watersnood van september 1998",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1006415/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "51707218ee2134ae0ce1381f21881800b2b0c0216664e98e348413b8b517cd18",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1006415&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "1998-11-17",
+  "gazette": "1998-12-30",
+  "numac": 1998036364,
+  "document_start": null,
+  "document_end": null,
+  "in_force": "2006-06-01",
+  "article_versions": 11,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
