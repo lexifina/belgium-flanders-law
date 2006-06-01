@@ -1,0 +1,17 @@
+{
+  "codex_id": 1001923,
+  "title": "Besluit van de Vlaamse Regering van 1994-11-30 tot vaststelling van de verplichte bijdragen in het promotiefonds \"Zeevisserij\"",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1001923/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "3bc88f0824069b2add9ed876713aa9a2b3a214b3cb8d413934e6ea84fe3342e8",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1001923&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "1994-11-30",
+  "gazette": "1995-02-09",
+  "numac": 1995935057,
+  "document_start": "1994-12-01",
+  "document_end": null,
+  "in_force": "2006-06-01",
+  "article_versions": 7,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
