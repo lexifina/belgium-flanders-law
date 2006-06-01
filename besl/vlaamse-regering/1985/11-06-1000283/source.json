@@ -1,0 +1,17 @@
+{
+  "codex_id": 1000283,
+  "title": "Besluit van de Vlaamse Regering van 1985-11-06 betreffende de subsidieregeling van het nederlandstalige sociaal-cultureel vormingswerk met volwassenen in politieke vormingsinstellingen",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1000283/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "ee182cb586785a7c173a3544822549c7beec013af61fa730bed710b69055934f",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1000283&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "1985-11-06",
+  "gazette": "1986-03-04",
+  "numac": 1986029046,
+  "document_start": null,
+  "document_end": null,
+  "in_force": "2006-06-01",
+  "article_versions": 32,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
