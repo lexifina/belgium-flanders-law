@@ -1,0 +1,17 @@
+{
+  "codex_id": 1005686,
+  "title": "Besluit van de Vlaamse Regering van 1997-07-01 tot instelling en organisatie van een derde preventiestimulerend programma",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1005686/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "92acdf6dbc001b717d4daffe7cce94374a4d8f5300718cfc8233cdaefdd9a347",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1005686&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "1997-07-01",
+  "gazette": "1997-10-30",
+  "numac": 1997036297,
+  "document_start": "1997-10-30",
+  "document_end": null,
+  "in_force": "2006-06-01",
+  "article_versions": 23,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
