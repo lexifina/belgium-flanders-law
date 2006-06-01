@@ -1,0 +1,17 @@
+{
+  "codex_id": 1007558,
+  "title": "Besluit van de Vlaamse Regering van 2000-06-30 houdende de regeling van de rechtspositie van het personeel van sommige Vlaamse openbare instellingen (citeeropschrift: \"stambesluit VOI\" afgekort \"SB VOI\")",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1007558/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "80d4b738a94b7e4550bbdfe25ce3ca61b48df66473a0b18305a63d06fb52a673",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1007558&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "2000-06-30",
+  "gazette": "2000-09-26",
+  "numac": 2000035890,
+  "document_start": null,
+  "document_end": "2007-03-15",
+  "in_force": "2006-06-01",
+  "article_versions": 416,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
