@@ -1,0 +1,17 @@
+{
+  "codex_id": 1011800,
+  "title": "Besluit van de Vlaamse Regering van 2003-10-10 tot regeling van de delegatie van beslissingsbevoegdheden aan de hoofden van de departementen van de Vlaamse ministeries",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1011800/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "bc7be5d11a6df5bbbe67838e1261e580512007c8a9e1fca9025fe842f3069df4",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1011800&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "2003-10-10",
+  "gazette": "2003-12-02",
+  "numac": 2003202017,
+  "document_start": null,
+  "document_end": "2015-12-31",
+  "in_force": "2006-06-01",
+  "article_versions": 29,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
