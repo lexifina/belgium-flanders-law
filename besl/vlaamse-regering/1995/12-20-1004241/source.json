@@ -1,0 +1,17 @@
+{
+  "codex_id": 1004241,
+  "title": "Besluit van de Vlaamse Regering van 1995-12-20 houdende stopzetting van de opdracht tot scheepsbouwsteunverlening door de naamloze vennootschap GIMVINDUS",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1004241/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "32cef7b6306dd7688755c3d2dce252fd72afed2ecfdb68afeac5b049a73ce06e",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1004241&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "1995-12-20",
+  "gazette": "1996-02-08",
+  "numac": 0,
+  "document_start": null,
+  "document_end": null,
+  "in_force": "2006-06-01",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
