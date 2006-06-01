@@ -1,0 +1,17 @@
+{
+  "codex_id": 1013997,
+  "title": "Ministerieel besluit van 2005-09-07 tot vaststelling van het model van legitimatiekaart voor de personeelsleden van de Vlaamse Vervoermaatschappij -De Lijn belast met het opsporen en vaststellen van overtredingen met betrekking tot het geregeld vervoer",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1013997/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "a72b96a23346ad93cbff899bf9ad11604720f8cdd131560842bd60cf16493882",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1013997&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "2005-09-07",
+  "gazette": "2005-09-27",
+  "numac": 2005036181,
+  "document_start": null,
+  "document_end": null,
+  "in_force": "2006-06-01",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
