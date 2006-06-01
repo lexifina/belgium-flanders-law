@@ -1,0 +1,17 @@
+{
+  "codex_id": 1004146,
+  "title": "Decreet van 1995-12-20 tot wijziging van het decreet van 23 januari 1991 inzake de bescherming van het leefmilieu tegen de verontreiniging door meststoffen",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1004146/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "dc8e5a65b1fff220cb0375414cbc0c2b6a6b57ffed5c762498b4f0441dc010e7",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1004146&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "1995-12-20",
+  "gazette": "1995-12-30",
+  "numac": 1995036799,
+  "document_start": null,
+  "document_end": null,
+  "in_force": "2006-06-01",
+  "article_versions": 33,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
