@@ -1,0 +1,17 @@
+{
+  "codex_id": 1001714,
+  "title": "Besluit van de Vlaamse Regering van 1992-05-13 houdende vaststelling van de academische opleidingen die slechts door één universiteit in de Vlaamse Gemeenschap worden aangeboden",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1001714/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "0227501d6b65b28abad6d8b736c77472248d470c9afa5adca86e27aef6f70c26",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1001714&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "1992-05-13",
+  "gazette": "1992-11-14",
+  "numac": 1992036150,
+  "document_start": null,
+  "document_end": "2016-12-31",
+  "in_force": "2006-06-01",
+  "article_versions": 2,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
