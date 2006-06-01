@@ -1,0 +1,17 @@
+{
+  "codex_id": 1013184,
+  "title": "Ministerieel besluit van 2004-06-11 betreffende de richtlijnen voor de inburgering van minderjarige anderstalige nieuwkomers in het kader van het Vlaamse inburgeringsbeleid",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1013184/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "00ad5f4bffbc5a7600935a3d1f991096ff30e9cca1587b8f12f3e4cd7f61acc0",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1013184&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "2004-06-11",
+  "gazette": "2004-07-06",
+  "numac": 2004036034,
+  "document_start": "2004-06-18",
+  "document_end": "2016-02-28",
+  "in_force": "2006-06-01",
+  "article_versions": 6,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
