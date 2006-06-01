@@ -1,0 +1,17 @@
+{
+  "codex_id": 1004621,
+  "title": "Decreet van 1996-03-19 houdende goedkeuring van het Verdrag inzake biologische diversiteit, en van de bijlagen I en II, ondertekend te Rio de Janeiro op 5 juni 1992",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1004621/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "433e79bd8036f429fe178871b85e396e14d70386818e1df6c14dcc306af8614f",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1004621&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "1996-03-19",
+  "gazette": "1996-05-24",
+  "numac": 1996035448,
+  "document_start": null,
+  "document_end": null,
+  "in_force": "2006-06-01",
+  "article_versions": 46,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
