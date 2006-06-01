@@ -1,0 +1,17 @@
+{
+  "codex_id": 1000110,
+  "title": "Besluit van de Vlaamse Regering van 1991-10-30 tot vaststelling van de weddeschalen verbonden aan de bijzondere graden bij de Vlaamse Huisvestingsmaatschappij",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1000110/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "f1ca1523d19812fd4c772d181693bf4d921ed8be65eb01c1f8e323f11ed312c7",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1000110&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "1991-10-30",
+  "gazette": "1991-12-24",
+  "numac": 1991036592,
+  "document_start": "1990-01-01",
+  "document_end": null,
+  "in_force": "2006-06-01",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
