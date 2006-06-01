@@ -1,0 +1,17 @@
+{
+  "codex_id": 1001640,
+  "title": "Omzendbrief van 1992-11-04 betreffende de toepassing van het besluit van de Vlaamse regering van 11 december 1991 gewijzigd bij het besluit van de Vlaamse regering van 24 juni 1992, tot instelling van individuele huursubsidies en een installatiepremie bij het betrekken van een gezonde of aangepaste huurwoning",
+  "type": "Omzendbrief",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1001640/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "d7e74f3aa76d3b17e3281c38cb26a43f578c93d96c11c0fa7e74e132fb0c2171",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1001640&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "1992-11-04",
+  "gazette": "1992-12-19",
+  "numac": 0,
+  "document_start": null,
+  "document_end": null,
+  "in_force": "2006-06-01",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
