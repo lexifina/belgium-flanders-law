@@ -1,0 +1,17 @@
+{
+  "codex_id": 1004157,
+  "title": "Besluit van de Vlaamse Regering van 1995-12-20 houdende aanvullende bepalingen inzake artikel 17, par.7 en artikel 18 van het decreet van 23 januari 1991 inzake de bescherming van het leefmilieu tegen de verontreiniging door meststoffen",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1004157/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "1ae1fe4021ac6c6a0439001c184d37ffed51e6ef27a3424a2e778dac8eaed104",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1004157&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "1995-12-20",
+  "gazette": "1995-12-30",
+  "numac": 1995036809,
+  "document_start": "1996-01-01",
+  "document_end": null,
+  "in_force": "2006-06-01",
+  "article_versions": 9,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
