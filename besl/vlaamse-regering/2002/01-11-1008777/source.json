@@ -1,0 +1,17 @@
+{
+  "codex_id": 1008777,
+  "title": "Besluit van de Vlaamse Regering van 2002-01-11 ter uitvoering van de artikelen 21, vierde lid, 42, vierde lid en 55 van de wet van 10 januari 1978 houdende bijzondere maatregelen inzake ruilverkaveling van landeigendommen in der minne",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1008777/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "2b3c29d6757d0f700e8f7aac6cdb5f258f4c57bcd0f81fc68582abc1df7b740a",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1008777&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "2002-01-11",
+  "gazette": "2002-02-19",
+  "numac": 2002035184,
+  "document_start": "2002-01-01",
+  "document_end": null,
+  "in_force": "2006-06-01",
+  "article_versions": 5,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
