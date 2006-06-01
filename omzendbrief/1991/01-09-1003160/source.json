@@ -1,0 +1,17 @@
+{
+  "codex_id": 1003160,
+  "title": "Omzendbrief van 1991-01-09 B.A.-G-91/2 betreffende het Geografisch Informatiesysteem",
+  "type": "Omzendbrief",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1003160/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "137973214638d4c05a02c4628584f99c753ae0d4a6e2c27063106b2c971161fa",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1003160&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "1991-01-09",
+  "gazette": "1991-02-15",
+  "numac": 0,
+  "document_start": null,
+  "document_end": null,
+  "in_force": "2006-06-01",
+  "article_versions": 1,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
