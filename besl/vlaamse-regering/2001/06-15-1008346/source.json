@@ -1,0 +1,17 @@
+{
+  "codex_id": 1008346,
+  "title": "Besluit van de Vlaamse Regering van 2001-06-15 met betrekking tot de distributienetbeheerders voor elektriciteit",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1008346/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "a40feabf4d984f79ffe7677c403504b5ce7f3dddc138d3021dad2e0bed65f183",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1008346&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "2001-06-15",
+  "gazette": "2001-09-05",
+  "numac": 2001036000,
+  "document_start": null,
+  "document_end": "2010-12-31",
+  "in_force": "2006-06-01",
+  "article_versions": 35,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
