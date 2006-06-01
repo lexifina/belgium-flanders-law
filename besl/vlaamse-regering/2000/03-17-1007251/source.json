@@ -1,0 +1,17 @@
+{
+  "codex_id": 1007251,
+  "title": "Besluit van de Vlaamse Regering van 2000-03-17 houdende de vaststelling van de nadere regelen van de overdracht van studiegebieden tussen de centra voor volwassenenonderwijs",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1007251/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "a21a03c6b1a26d1812e1f56a25f233fae50950771f497465b44eaeb6f48e1628",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1007251&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "2000-03-17",
+  "gazette": "2000-05-11",
+  "numac": 2000035407,
+  "document_start": "2000-09-01",
+  "document_end": "2007-08-31",
+  "in_force": "2006-06-01",
+  "article_versions": 5,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
