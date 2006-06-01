@@ -1,0 +1,17 @@
+{
+  "codex_id": 1012599,
+  "title": "Besluit van de Vlaamse Regering van 2004-03-26 tot vaststelling van de openbaredienstverplichting, opgelegd aan de netbeheerders met betrekking tot de openbare verlichting",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1012599/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "3e32e4c40322b583d31f555ebb702701e250d9385dc1e0ec0ee893a032821309",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1012599&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "2004-03-26",
+  "gazette": "2004-04-23",
+  "numac": 2004035606,
+  "document_start": null,
+  "document_end": "2010-12-31",
+  "in_force": "2006-06-01",
+  "article_versions": 5,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
