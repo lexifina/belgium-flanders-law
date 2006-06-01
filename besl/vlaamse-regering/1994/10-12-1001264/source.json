@@ -1,0 +1,17 @@
+{
+  "codex_id": 1001264,
+  "title": "Besluit van de Vlaamse Regering van 1994-10-12 tot instelling en organisatie van een preventie stimulerend programma",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1001264/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "ab7289a9557403c74ffe31b95fda95d3d57d0c4dc06a9000b8be91c8f929eecd",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1001264&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "1994-10-12",
+  "gazette": "1994-12-06",
+  "numac": 1994036471,
+  "document_start": "1994-12-06",
+  "document_end": null,
+  "in_force": "2006-06-01",
+  "article_versions": 21,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
