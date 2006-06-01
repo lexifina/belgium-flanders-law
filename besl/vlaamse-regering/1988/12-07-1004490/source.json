@@ -1,0 +1,17 @@
+{
+  "codex_id": 1004490,
+  "title": "Besluit van de Vlaamse Regering van 1988-12-07 houdende nadere regelen tot uitvoering van het koninklijk besluit nr. 474 van 28 oktober 1986 tot opzetting van een stelsel van door de Staat gesubsidieerde contractuelen bij sommige plaatselijke besturen",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1004490/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "ddb3576f564ab2cd186aefc124a813b49219d63bce95f0bbf201fbb053dd4655",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1004490&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "1988-12-07",
+  "gazette": "1989-01-31",
+  "numac": 1989029029,
+  "document_start": null,
+  "document_end": null,
+  "in_force": "2006-06-01",
+  "article_versions": 17,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
