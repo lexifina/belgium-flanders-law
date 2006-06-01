@@ -1,0 +1,17 @@
+{
+  "codex_id": 1006658,
+  "title": "Ministerieel besluit van 1999-03-02 houdende bekendmaking van de beslissing van de Vlaamse regering houdende de opmaak van afbakeningsplannen in toepassing van het decreet betreffende het natuurbehoud en het natuurlijk milieu van 21 oktober 1997",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1006658/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "4b5b3cfb6a2edbfcf9f437bb1f9a404b695f906388e081a226321ddd9f3f6f49",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1006658&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "1999-03-02",
+  "gazette": "1999-05-26",
+  "numac": 1999035616,
+  "document_start": null,
+  "document_end": null,
+  "in_force": "2006-06-01",
+  "article_versions": 1,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
