@@ -1,0 +1,17 @@
+{
+  "codex_id": 1005627,
+  "title": "Besluit van de Vlaamse Regering van 1997-01-28 houdende statuut en organisatie van de Vlaamse wetenschappelijke instellingen en de regeling van de rechtspositie van het personeel",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1005627/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "6ea6cefc130ea07f8bf304aaca11256df67890137c9dba71013be2589a971447",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1005627&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "1997-01-28",
+  "gazette": "1997-10-15",
+  "numac": 1997036057,
+  "document_start": null,
+  "document_end": "2007-03-15",
+  "in_force": "2006-06-01",
+  "article_versions": 280,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
