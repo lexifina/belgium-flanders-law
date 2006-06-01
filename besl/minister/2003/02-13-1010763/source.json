@@ -1,0 +1,17 @@
+{
+  "codex_id": 1010763,
+  "title": "Ministerieel besluit van 2003-02-13 tot vaststelling van het lastenboek en het veldboek betreffende de geïntegreerde productiemethode van pitfruit",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1010763/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "39629772c0e300d73bc8ece41d26fc0cc1e8dde009d9042e85b14c79a113931d",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1010763&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "2003-02-13",
+  "gazette": "2003-03-07",
+  "numac": 2003035268,
+  "document_start": "2003-01-01",
+  "document_end": "2018-12-29",
+  "in_force": "2006-06-01",
+  "article_versions": 24,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
