@@ -1,0 +1,17 @@
+{
+  "codex_id": 1014147,
+  "title": "Ministerieel besluit van 2005-12-07 houdende delegatie van de bevoegdheid tot vaststelling van personeelsformatie/-plan aan de leidend ambtenaar van een Vlaamse openbare instelling",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1014147/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "f8f3f01015fde7f92276943ca2d529aa0273acf578c6b904ead3a17f595af5b7",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1014147&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "2005-12-07",
+  "gazette": "2005-12-20",
+  "numac": 2005036583,
+  "document_start": "2005-12-07",
+  "document_end": null,
+  "in_force": "2006-06-01",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
