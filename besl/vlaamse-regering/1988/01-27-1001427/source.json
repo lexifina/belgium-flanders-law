@@ -1,0 +1,17 @@
+{
+  "codex_id": 1001427,
+  "title": "Besluit van de Vlaamse Regering van 1988-01-27 tot vaststelling van de voorwaarden om als persoon met bescheiden inkomsten te worden beschouwd voor het kopen van een volkswoning",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1001427/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "ccf101ed9d4b1b116477c17bf759076f8fa0dfc7881ebfd97e65e04af8822301",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1001427&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "1988-01-27",
+  "gazette": "1988-02-23",
+  "numac": 1988029174,
+  "document_start": null,
+  "document_end": null,
+  "in_force": "2006-06-01",
+  "article_versions": 2,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
