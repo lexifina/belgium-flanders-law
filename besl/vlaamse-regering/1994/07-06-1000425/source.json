@@ -1,0 +1,17 @@
+{
+  "codex_id": 1000425,
+  "title": "Besluit van de Vlaamse Regering van 1994-07-06 tot vaststelling van de totale investeringssubsidie en de bouwtechnische normen voor de voorzieningen voor de sociale integratie van personen met een handicap",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1000425/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "6bbc62bd93e4662d30c8350f47cd2c2fbd7a68fc51920af24763e4059eb397c0",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1000425&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "1994-07-06",
+  "gazette": "1994-08-30",
+  "numac": 1994036081,
+  "document_start": "1994-07-01",
+  "document_end": "2011-11-05",
+  "in_force": "2006-06-01",
+  "article_versions": 21,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
