@@ -1,0 +1,17 @@
+{
+  "codex_id": 1014759,
+  "title": "Ministerieel besluit van 1995-04-19 tot vaststelling van retributies voor de controle op de facultatieve aanduiding in de etikettering van pluimveevlees",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1014759/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "b173f6fd5a310a7494469736dd4b5688f37829aacfa00cae7d577c317c6e5cf4",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1014759&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "1995-04-19",
+  "gazette": "1995-07-14",
+  "numac": 0,
+  "document_start": "1995-07-14",
+  "document_end": "2008-07-31",
+  "in_force": "2006-06-01",
+  "article_versions": 5,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
