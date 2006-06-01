@@ -1,0 +1,17 @@
+{
+  "codex_id": 1000883,
+  "title": "Besluit van de Vlaamse Regering van 1993-09-15 tot vaststelling van het statuut van het personeel van sommige Vlaamse openbare instellingen",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1000883/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "85dfa1470622d8136ee04f830dad85785a8f37a0feed7b39b07f73919107fec6",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1000883&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "1993-09-15",
+  "gazette": "1993-11-19",
+  "numac": 1993036371,
+  "document_start": "1991-12-24",
+  "document_end": null,
+  "in_force": "2006-06-01",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
