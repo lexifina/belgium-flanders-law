@@ -1,0 +1,17 @@
+{
+  "codex_id": 1014418,
+  "title": "Omzendbrief van 2006-03-17 BA 2006/05 betreffende het Gemeentedecreet van 15 juli 2005, artikelen 102 tot en met 117, personeel; Provinciedecreet van 9 december 2005, artikelen 98 tot en met 113, personeel (inwerkingtreding op 1 januari 2006)",
+  "type": "Omzendbrief",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1014418/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "10f36b29c28b90296e6cb94009bdeafe345e8016f14c310e6f12a6cad219ec01",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1014418&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "2006-03-17",
+  "gazette": "2006-04-12",
+  "numac": 2006035528,
+  "document_start": null,
+  "document_end": null,
+  "in_force": "2006-06-01",
+  "article_versions": 1,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
