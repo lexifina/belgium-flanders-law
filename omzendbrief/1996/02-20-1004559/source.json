@@ -1,0 +1,17 @@
+{
+  "codex_id": 1004559,
+  "title": "Omzendbrief van 1996-02-20 B.A./FB-96/1 betreffende gemeentelijke omslagbelastingen op groeven",
+  "type": "Omzendbrief",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1004559/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "9b76b2b35df883bdc61ce8e4afca078049209484262d3e2241bc7696238e99d7",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1004559&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "1996-02-20",
+  "gazette": "1996-03-27",
+  "numac": 0,
+  "document_start": null,
+  "document_end": null,
+  "in_force": "2006-06-01",
+  "article_versions": 1,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
