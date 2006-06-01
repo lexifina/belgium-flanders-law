@@ -1,0 +1,17 @@
+{
+  "codex_id": 1041519,
+  "title": "Besluit van de Vlaamse Regering van 2025-11-21 tot herverdeling vanuit een provisioneel krediet van de Vlaamse Gemeenschap voor het begrotingsjaar 2025",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1041519/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "bd86de7ce79a7716a8f3aa941d5c5882e384d655ff9ac9bf8704c6c74d1bb0b7",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1041519&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "2025-11-21",
+  "gazette": "0001-01-01",
+  "numac": 0,
+  "document_start": "2025-11-21",
+  "document_end": null,
+  "in_force": "2006-06-01",
+  "article_versions": 1,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
