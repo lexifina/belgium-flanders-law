@@ -1,0 +1,17 @@
+{
+  "codex_id": 1012187,
+  "title": "Decreet van 2004-02-13 tot vaststelling van de algemene regels inzake de erkenning en basissubsidiëring van mobiliteitsverenigingen en koepels van verenigingen en de subsidiëring van mobiliteitsprojecten",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1012187/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "d1bd5cbd1c28591dc0d4828ce4ba4b1c4d84f50d46935dc70583759b39a484a6",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1012187&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "2004-02-13",
+  "gazette": "2004-03-29",
+  "numac": 2004035480,
+  "document_start": "2005-01-01",
+  "document_end": null,
+  "in_force": "2006-06-01",
+  "article_versions": 19,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
