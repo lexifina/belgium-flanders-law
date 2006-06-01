@@ -1,0 +1,17 @@
+{
+  "codex_id": 1021341,
+  "title": "Protocol van 1997-04-22 betreffende de preventie, in het bijzonder de preventie tegen hepatitis B, afgesloten tussen de Federale Overheid en de Overheden bedoeld in artikel 128, 130 en 136 van de Grondwet",
+  "type": "Protocol",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1021341/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "2880e66a4812e8ad4b2df05877418acb1491c7cb172ac74b4556c9f3e7bc08e8",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1021341&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "1997-04-22",
+  "gazette": "1997-04-22",
+  "numac": 0,
+  "document_start": null,
+  "document_end": null,
+  "in_force": "2006-06-01",
+  "article_versions": 6,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
