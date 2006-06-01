@@ -1,0 +1,17 @@
+{
+  "codex_id": 1013289,
+  "title": "Samenwerkingsakkoord van 2003-12-10 tussen de federale Staat, de Vlaamse Gemeenschap, de Franse Gemeenschap, de Duitstalige Gemeenschap, de Gemeenschappelijke Gemeenschapscommissie, de Franse Gemeenschapscommissie, het Vlaamse Gewest, het Waalse Gewest, het Brussels Hoofdstedelijk Gewest, voor de samenwerking tussen de beleidsdomeinen van milieu en gezondheid",
+  "type": "Samenwerkingsakkoord",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1013289/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "2c970cc829b14d6a91da4d40ac329e56d059771a39b28db3cc7b0ed0f080aa6e",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1013289&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "2003-12-10",
+  "gazette": "2004-08-03",
+  "numac": 0,
+  "document_start": null,
+  "document_end": null,
+  "in_force": "2006-06-01",
+  "article_versions": 21,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
