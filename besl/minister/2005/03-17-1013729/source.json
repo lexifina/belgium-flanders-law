@@ -1,0 +1,17 @@
+{
+  "codex_id": 1013729,
+  "title": "Ministerieel besluit van 2005-03-17 houdende de erkenning en subsidiëring van organisaties in het kader van de aanmoediging en de verbetering van de pluimvee- en konijnenfokkerij",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1013729/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "a81f69f0aeb58937a2b0f6301ec98eadcbbb647cf345f53d69cdf188d0bb009d",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1013729&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "2005-03-17",
+  "gazette": "2005-04-18",
+  "numac": 2005035438,
+  "document_start": "2005-04-18",
+  "document_end": "2019-09-22",
+  "in_force": "2006-06-01",
+  "article_versions": 6,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
