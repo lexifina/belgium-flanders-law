@@ -1,0 +1,17 @@
+{
+  "codex_id": 1001295,
+  "title": "Besluit van de Vlaamse Regering van 1991-07-17 betreffende de toewijzing van de taken, rechten en verplichtingen van het Fonds voor Medisch, Sociale en Pedagogische Zorg voor Gehandicapten en van sommige taken, rechten en verplichtingen van het Vlaams Fonds voor de Bouw van Ziekenhuizen en Medisch-Sociale Instellingen aan het Vlaams Fonds voor de Sociale Integratie van Personen met een Handicap",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1001295/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "b4fefa41a5b2454f6e6ac772fbad508665423b334afdc011104c86aadc59e909",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1001295&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "1991-07-17",
+  "gazette": "1991-10-03",
+  "numac": 1991036243,
+  "document_start": "1992-04-01",
+  "document_end": null,
+  "in_force": "2006-06-01",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
