@@ -1,0 +1,17 @@
+{
+  "codex_id": 1005765,
+  "title": "Besluit van de Vlaamse Regering van 1997-09-16 betreffende de samenstelling en de werking van de lokale adviescommissie omtrent de minimale levering van elektriciteit, gas en water [en de levering van thermische energie]",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1005765/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "179108fdf3fc9de5bd3cd7f2a6d7cdab161d9d8e8d5c03b1a49a006ae5e2c51e",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1005765&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "1997-09-16",
+  "gazette": "1997-11-15",
+  "numac": 1997036368,
+  "document_start": null,
+  "document_end": null,
+  "in_force": "2006-06-01",
+  "article_versions": 12,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
