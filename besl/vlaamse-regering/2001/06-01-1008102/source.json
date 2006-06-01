@@ -1,0 +1,17 @@
+{
+  "codex_id": 1008102,
+  "title": "Besluit van de Vlaamse Regering van 2001-06-01 tot regeling van de beroepsprocedure tegen beslissingen van het Vlaams Fonds voor de Letteren voor inbreuken van formele of procedurele aard",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1008102/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "1df2200f52f170390a706cf14d67686508702889e62cb6e664bdce4692e775a8",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1008102&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "2001-06-01",
+  "gazette": "2001-07-28",
+  "numac": 2001035815,
+  "document_start": "2001-07-28",
+  "document_end": null,
+  "in_force": "2006-06-01",
+  "article_versions": 9,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
