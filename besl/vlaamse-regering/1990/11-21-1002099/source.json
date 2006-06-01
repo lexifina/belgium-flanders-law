@@ -1,0 +1,17 @@
+{
+  "codex_id": 1002099,
+  "title": "Besluit van de Vlaamse Regering van 1990-11-21 betreffende de sociale dienst van de Vlaamse Gemeenschap",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1002099/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "11d93aaa99ac5814d65e195d04f6bfd423cea6894812f699b86ae15c0a05f989",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1002099&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "1990-11-21",
+  "gazette": "1990-12-13",
+  "numac": 1990030481,
+  "document_start": null,
+  "document_end": "2999-12-31",
+  "in_force": "2006-06-01",
+  "article_versions": 16,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
