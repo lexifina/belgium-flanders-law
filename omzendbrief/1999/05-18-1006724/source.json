@@ -1,0 +1,17 @@
+{
+  "codex_id": 1006724,
+  "title": "Omzendbrief van 1999-05-18 BA-99/04 houdende toelichtingen bij de wijzigingen die bij twee decreten van 13 april 1999 en bij decreet van 18 mei 1999 werden aangebracht aan het decreet van 28 april 1993 houdende regeling, voor het Vlaamse Gewest, van het administratief toezicht op de gemeenten",
+  "type": "Omzendbrief",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1006724/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "dd63f54d9c64ddb4b79bac138d7e88a7abc35d530d01998e11768498eaedf675",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1006724&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "1999-05-18",
+  "gazette": "1999-06-30",
+  "numac": 1999035693,
+  "document_start": "1999-05-18",
+  "document_end": "2018-12-13",
+  "in_force": "2006-06-01",
+  "article_versions": 1,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
