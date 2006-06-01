@@ -1,0 +1,17 @@
+{
+  "codex_id": 1004916,
+  "title": "Ministerieel besluit van 1996-10-21 houdende delegatie van sommige bevoegdheden inzake informatica aan de secretaris-generaal van het departement Wetenschap, Innovatie en Media",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1004916/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "3f443af66679cef0ee84a648cf68f0e2ad0e7840785afe10732fdb92c2915471",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1004916&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "1996-10-21",
+  "gazette": "1996-11-29",
+  "numac": 0,
+  "document_start": null,
+  "document_end": null,
+  "in_force": "2006-06-01",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
