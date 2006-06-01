@@ -1,0 +1,17 @@
+{
+  "codex_id": 1011494,
+  "title": "Decreet van 2003-06-27 houdende goedkeuring van het Samenwerkingsakkoord tussen de Vlaamse regering en de regering van de republiek Slowakije, ondertekend in Bratislava op 30 mei 2002",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1011494/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "56c2c7c59ca07c36a23e126caefdc94273b3438cecf3065ca042d260a9982787",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1011494&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "2003-06-27",
+  "gazette": "2003-08-01",
+  "numac": 2003035847,
+  "document_start": "2003-08-11",
+  "document_end": null,
+  "in_force": "2006-06-01",
+  "article_versions": 16,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
