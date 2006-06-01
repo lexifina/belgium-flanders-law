@@ -1,0 +1,17 @@
+{
+  "codex_id": 1014146,
+  "title": "Omzendbrief van 2005-11-18 BA 2005/07 betreffende het sectoraal akkoord 2005-2007 voor het personeel van de lokale en provinciale besturen - kennisgeving",
+  "type": "Omzendbrief",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1014146/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "6033d344b98a099b917f3f943395250d070875366417569a877a5af4952bdc50",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1014146&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "2005-11-18",
+  "gazette": "2005-12-19",
+  "numac": 2005036549,
+  "document_start": null,
+  "document_end": null,
+  "in_force": "2006-06-01",
+  "article_versions": 1,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
