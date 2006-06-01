@@ -1,0 +1,17 @@
+{
+  "codex_id": 1008456,
+  "title": "Besluit van de Vlaamse Regering van 2001-09-24 houdende oprichting van een adviescommissie voor informatie-, communicatie- en inspraakprojecten voor de jeugd",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1008456/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "9e431760cb227be63bf2303f8ae34da6fda9ab7a2bc001b7e7f3b947d44a3f8b",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1008456&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "2001-09-24",
+  "gazette": "2001-11-15",
+  "numac": 2001036248,
+  "document_start": "2001-09-01",
+  "document_end": null,
+  "in_force": "2006-06-01",
+  "article_versions": 12,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
