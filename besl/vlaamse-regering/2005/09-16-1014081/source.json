@@ -1,0 +1,17 @@
+{
+  "codex_id": 1014081,
+  "title": "Besluit van de Vlaamse Regering van 2005-09-16 houdende de machtiging tot uitvoering en de bekrachtiging van sommige regelingen van de Nederlands-Vlaamse Accreditatieorganisatie",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1014081/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "17344e602b09ddd45b533d96f84571ae67d9cdf1084d5d0b684aa4e698f4d0f4",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1014081&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "2005-09-16",
+  "gazette": "2005-11-22",
+  "numac": 2005036379,
+  "document_start": null,
+  "document_end": null,
+  "in_force": "2006-06-01",
+  "article_versions": 5,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
