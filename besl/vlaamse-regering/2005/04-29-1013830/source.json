@@ -1,0 +1,17 @@
+{
+  "codex_id": 1013830,
+  "title": "Besluit van de Vlaamse Regering van 2005-04-29 tot uitvoering van artikel 17, §4bis van het decreet van 23 januari 1991 inzake de bescherming van het leefmilieu tegen de verontreinging door meststoffen, tot wijziging van het besluit van 15 maart 2002 van de Vlaamse Regering tot uitvoering van de artilelen 14, §6 en 17, §8 van het decreet van 23 januari 1991 inzake de bescherming van het leefmilieu tegen de verontreiniging door meststoffen en tot wijziging van het besluit van 31 maart 2000 tot aanwijzing van de gebiedsgerichte verscherpingen zoals bedoeld in artikelen 13bis, 15, 15bis, 15quater, 15quinquies en 17 van het decreet van 23 januari 1991 inzake de bescherming van het leefmilieu tegen de verontreiniging door meststoffen",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1013830/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "16878e4d7745d1275c6861a74448b75ab2722d5059133bbf32360e2f81bbc573",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1013830&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "2005-04-29",
+  "gazette": "2005-06-23",
+  "numac": 2005035667,
+  "document_start": null,
+  "document_end": null,
+  "in_force": "2006-06-01",
+  "article_versions": 23,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
