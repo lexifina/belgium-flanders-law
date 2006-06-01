@@ -1,0 +1,17 @@
+{
+  "codex_id": 1008174,
+  "title": "Decreet van 2001-07-06 [houdende ondersteuning van de federatie van erkende organisaties voor volksontwikkelingswerk en houdende ondersteuning van de Vereniging van Vlaamse cultuurcentra]",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1008174/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "ed907ba68bda21cb56591a7fa4518806bdf4af34516198c82bf66670ea78ad28",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1008174&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "2001-07-06",
+  "gazette": "2001-08-17",
+  "numac": 2001035848,
+  "document_start": "2002-01-01",
+  "document_end": "2013-12-31",
+  "in_force": "2006-06-01",
+  "article_versions": 8,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
