@@ -1,0 +1,17 @@
+{
+  "codex_id": 1004915,
+  "title": "Ministerieel besluit van 1996-10-02 houdende delegatie van sommige bevoegdheden inzake media aan ambtenaren van het ministerie van de Vlaamse Gemeenschap",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1004915/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "36b54fb344ad5a8cbcf9adcdf78bb5ab51fa15149b94cff6f5577607bfc57eb7",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1004915&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "1996-10-02",
+  "gazette": "1996-11-29",
+  "numac": 0,
+  "document_start": "1996-11-29",
+  "document_end": "2006-03-31",
+  "in_force": "2006-06-01",
+  "article_versions": 15,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
