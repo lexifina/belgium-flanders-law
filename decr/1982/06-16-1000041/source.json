@@ -1,0 +1,17 @@
+{
+  "codex_id": 1000041,
+  "title": "Decreet van 1982-06-16 houdende maatregelen voor een sociaal grondbeleid",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1000041/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "ec0f98b118a58acc7476f6523ada8198c185db123ad866af4322a1a83a4e8a6f",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1000041&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "1982-06-16",
+  "gazette": "1982-08-05",
+  "numac": 1982001167,
+  "document_start": null,
+  "document_end": null,
+  "in_force": "2006-06-01",
+  "article_versions": 10,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
