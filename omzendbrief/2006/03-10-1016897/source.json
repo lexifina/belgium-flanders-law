@@ -1,0 +1,17 @@
+{
+  "codex_id": 1016897,
+  "title": "Omzendbrief van 2006-03-10 BA-2006/03 betreffende de toepassing van het decreet van 16 januari 2004 op de begraafplaatsen en de lijkbezorging en de uitvoeringsbesluiten",
+  "type": "Omzendbrief",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1016897/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "2b61480eea285356891a8c14310a3317d35e8333bd71919ca8d8d4bd410c1a41",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1016897&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "2006-03-10",
+  "gazette": "2006-04-07",
+  "numac": 2006035461,
+  "document_start": "2006-03-10",
+  "document_end": "2024-09-19",
+  "in_force": "2006-06-01",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
