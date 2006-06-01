@@ -1,0 +1,17 @@
+{
+  "codex_id": 1013817,
+  "title": "Ministerieel besluit van 2005-04-28 tot bepaling van de voorwaarden tot toelating van de digitale mammografie in het Vlaamse bevolkingsonderzoek inzake borstkanker",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1013817/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "a39e0ba8f96f19fa80de5be44fb9d74054b74e93a79b67ecb6427db7a30fa2c3",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1013817&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "2005-04-28",
+  "gazette": "2005-06-15",
+  "numac": 2005035701,
+  "document_start": null,
+  "document_end": "2012-04-01",
+  "in_force": "2006-06-01",
+  "article_versions": 11,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
