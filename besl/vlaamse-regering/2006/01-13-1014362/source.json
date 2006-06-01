@@ -1,0 +1,17 @@
+{
+  "codex_id": 1014362,
+  "title": "Besluit van de Vlaamse Regering van 2006-01-13 betreffende het secundair onderwijs aan huis voor zieke jongeren en tot wijziging van het besluit van de Vlaamse Regering van 17 juni 1997 betreffende het onderwijs aan huis",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1014362/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "5d4de374497ae8acea449a33b5920a30867ba21c5b159e0f350770bb8d9917f9",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1014362&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "2006-01-13",
+  "gazette": "2006-03-14",
+  "numac": 2006035373,
+  "document_start": "2005-09-01",
+  "document_end": "2007-09-09",
+  "in_force": "2006-06-01",
+  "article_versions": 13,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
