@@ -1,0 +1,17 @@
+{
+  "codex_id": 1002050,
+  "title": "Besluit van de Vlaamse Regering van 1992-01-07 ter uitvoering van artikel 98 van het decreet van 21 december 1990 houdende begrotingstechnische bepalingen alsmede bepalingen tot begeleiding van de begroting 1991",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1002050/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "49ffc1fb12400a27cbb4573d909fae892cb05c7a8a364609415317f66bf0dd20",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1002050&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "1992-01-07",
+  "gazette": "1992-04-02",
+  "numac": 1992035393,
+  "document_start": "1992-04-02",
+  "document_end": null,
+  "in_force": "2006-06-01",
+  "article_versions": 6,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
