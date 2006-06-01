@@ -1,0 +1,17 @@
+{
+  "codex_id": 1006519,
+  "title": "Besluit van de Vlaamse Regering van 1998-09-15 betreffende de adviserende beroepscommissie inzake gezins- en welzijnsaangelegenheden",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1006519/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "3ed2ab4ed114704479aca966130f15e726a5654cc4ddf86cece8e7922c40049f",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1006519&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "1998-09-15",
+  "gazette": "1999-02-19",
+  "numac": 1999035183,
+  "document_start": null,
+  "document_end": "2013-12-31",
+  "in_force": "2006-06-01",
+  "article_versions": 18,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
