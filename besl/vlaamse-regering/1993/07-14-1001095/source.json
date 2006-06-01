@@ -1,0 +1,17 @@
+{
+  "codex_id": 1001095,
+  "title": "Besluit van de Vlaamse Regering van 1993-07-14 houdende aanwijzing van de vice-gouverneur van Brabant voor het uitoefenen ten aanzien van de gemeenten van de provincie Brabant van de bevoegdheden die door het decreet van 28 april 1993 houdende regeling, voor het Vlaamse Gewest, van het administratief toezicht op de gemeenten, aan de provinciegouverneur zijn opgedragen",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1001095/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "f9fcd5027722040f4420996ee3175414a02030905bae412890b689a458bedfeb",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1001095&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "1993-07-14",
+  "gazette": "1993-08-03",
+  "numac": 1993035920,
+  "document_start": "1993-10-01",
+  "document_end": null,
+  "in_force": "2006-06-01",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
