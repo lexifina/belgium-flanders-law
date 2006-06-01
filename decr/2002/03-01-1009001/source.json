@@ -1,0 +1,17 @@
+{
+  "codex_id": 1009001,
+  "title": "Decreet van 2002-03-01 houdende instemming met het Verdrag inzake de grensoverschrijdende gevolgen van industriële ongevallen en met de bijlagen I tot XIII, ondertekend in Helsinki op 17 maart 1992",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1009001/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "7e598d2ed2b13ec269f2f44056e0e281e089a16eb9b65ca76605f91137b0d289",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1009001&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "2002-03-01",
+  "gazette": "2002-04-12",
+  "numac": 2002035444,
+  "document_start": null,
+  "document_end": null,
+  "in_force": "2006-06-01",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
