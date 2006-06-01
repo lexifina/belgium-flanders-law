@@ -1,0 +1,17 @@
+{
+  "codex_id": 1013060,
+  "title": "Decreet van 2004-05-07 [betreffende het intern verzelfstandigd agentschap met rechtspersoonlijkheid \"Sport Vlaanderen\" (verv. decr. 4 december 2015, art. 2, I: 1 januari 2016)]",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1013060/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "54cb074ee90bcc39096bdf95592ef11e7d4887b58a439dfd2caaaee3c62cc812",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1013060&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "2004-05-07",
+  "gazette": "2004-06-07",
+  "numac": 2004035801,
+  "document_start": "2006-04-01",
+  "document_end": null,
+  "in_force": "2006-06-01",
+  "article_versions": 16,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
