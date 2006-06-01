@@ -1,0 +1,17 @@
+{
+  "codex_id": 1002427,
+  "title": "Ministerieel besluit van 1991-07-31 betreffende de wervingsprocedures bij de pedagogische begeleidingsdiensten van het gesubsidieerd onderwijs",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1002427/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "f58ee50d0c322b2326ced98531a35f326ace8f94862c6ef93f55c31d95f12d62",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1002427&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "1991-07-31",
+  "gazette": "1991-10-16",
+  "numac": 0,
+  "document_start": null,
+  "document_end": null,
+  "in_force": "2006-06-01",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
