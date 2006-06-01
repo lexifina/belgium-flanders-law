@@ -1,0 +1,17 @@
+{
+  "codex_id": 1010307,
+  "title": "Omzendbrief van 2002-12-06 BA-2002/19 betreffende de openbaarheid van vergaderingen van de raad voor maatschappelijk welzijn, de bijzondere comités en het vast bureau, de OCMW-meerjarenplanning en het samenwerkingsprotocol tussen gemeente en ocmw",
+  "type": "Omzendbrief",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1010307/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "2e41c13ce1ac5ae2b9bd39192cc5fc63f4a88e60ce2bc0e839114e196fc8988a",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1010307&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "2002-12-06",
+  "gazette": "2003-01-14",
+  "numac": 0,
+  "document_start": null,
+  "document_end": null,
+  "in_force": "2006-06-01",
+  "article_versions": 1,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
