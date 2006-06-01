@@ -1,0 +1,17 @@
+{
+  "codex_id": 1014501,
+  "title": "Besluit van de Vlaamse Regering van 2006-03-10 betreffende de oprichting en instandhouding van betrekkingen in het ambt van leraar secundair onderwijs, belast met het geven van praktische vakken, die voor de verzorging en het onderhoud van de teelten en de veestapel in het voltijds gewoon secundair onderwijs worden ingezet",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1014501/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "70be9706b6a2f90cb13b8f9a452e83e5ca980a9439b7eb82d97a7c85350c561f",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1014501&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "2006-03-10",
+  "gazette": "2006-05-12",
+  "numac": 2006035705,
+  "document_start": "2006-01-01",
+  "document_end": "2022-08-31",
+  "in_force": "2006-06-01",
+  "article_versions": 7,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
