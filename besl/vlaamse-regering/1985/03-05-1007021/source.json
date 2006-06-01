@@ -1,0 +1,17 @@
+{
+  "codex_id": 1007021,
+  "title": "Besluit van de Vlaamse Regering van 1985-03-05 tot bepaling van de modaliteiten van behandeling van het verhaal ingediend door de kandidaat-huurder van een woning toebehorend aan de Nationale Maatschappij voor de Huisvesting of aan de door haar erkende vennootschap",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1007021/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "d6d3816528b3da18bd4e88adf2e24507d3b4afbfa0a07c02e9ee523216862cdb",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1007021&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "1985-03-05",
+  "gazette": "1985-05-15",
+  "numac": 1985024257,
+  "document_start": null,
+  "document_end": "2006-06-30",
+  "in_force": "2006-06-01",
+  "article_versions": 7,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
