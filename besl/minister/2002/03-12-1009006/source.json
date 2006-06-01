@@ -1,0 +1,17 @@
+{
+  "codex_id": 1009006,
+  "title": "Ministerieel besluit van 2002-03-12 tot bepaling van de werkingsregels van de adviescommissie bodemsanering en van de vergoeding van sommige van haar leden",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1009006/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "2740e17e02f60d91bd86af36e7055273a4faf047f9f1ff2784b97236f6fd49b6",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1009006&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "2002-03-12",
+  "gazette": "2002-04-13",
+  "numac": 2002035403,
+  "document_start": "2002-04-01",
+  "document_end": null,
+  "in_force": "2006-06-01",
+  "article_versions": 10,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
