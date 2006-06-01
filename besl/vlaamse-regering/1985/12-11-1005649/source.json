@@ -1,0 +1,17 @@
+{
+  "codex_id": 1005649,
+  "title": "Besluit van de Vlaamse Regering van 1985-12-11 tot bepaling van de bevoegdheden van de leden van de Vlaamse regering",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1005649/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "5eaab35f87c3f9192baa9480bf8901d8b442dce26555ad94ffd9e076d6c75d63",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1005649&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "1985-12-11",
+  "gazette": "1985-12-14",
+  "numac": 1985024903,
+  "document_start": "1985-12-11",
+  "document_end": "1987-10-20",
+  "in_force": "2006-06-01",
+  "article_versions": 15,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
