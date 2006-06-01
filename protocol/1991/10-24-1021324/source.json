@@ -1,0 +1,17 @@
+{
+  "codex_id": 1021324,
+  "title": "Protocol van 1991-10-24 tussen de Nationale Regering en de Overheid bevoegd voor het gezondheidsbeleid krachtens artikel 59ter van de Grondwet met betrekking tot de vaststelling en de goedkeuring van de kalender van de werken bedoeld in artikel 46bis van de wet op de ziekenhuizen",
+  "type": "Protocol",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1021324/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "a3430adf019c6d0cfb88225da8dd49db0de95695de1561de15fb52665af9c175",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1021324&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "1991-10-24",
+  "gazette": "1992-01-31",
+  "numac": 1992025391,
+  "document_start": null,
+  "document_end": null,
+  "in_force": "2006-06-01",
+  "article_versions": 14,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
