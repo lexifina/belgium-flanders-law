@@ -1,0 +1,17 @@
+{
+  "codex_id": 1005614,
+  "title": "Besluit van de Vlaamse Regering van 1997-07-23 houdende regeling van de vorm en de wijze van onderzoek van de aanvragen tot het verkrijgen van een vergunning voor het opsporen en het ontginnen van petroleum en brandbare gassen",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1005614/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "25beb47b8c9e4f171c87a81160c4bd4ed95b44433ad2384c2f00cb64651c0774",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1005614&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "1997-07-23",
+  "gazette": "1997-10-08",
+  "numac": 1997036205,
+  "document_start": null,
+  "document_end": "2011-09-05",
+  "in_force": "2006-06-01",
+  "article_versions": 24,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
