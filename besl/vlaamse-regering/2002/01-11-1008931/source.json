@@ -1,0 +1,17 @@
+{
+  "codex_id": 1008931,
+  "title": "Besluit van de Vlaamse Regering van 2002-01-11 tot wijziging van het besluit van de Vlaamse regering van 26 september 1990 betreffende de bekwaamheidsbewijzen, de weddenschalen en de bezoldigingsregeling van de leermeesters godsdienst en de godsdienstleraars",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1008931/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "c45bccdf345d9a9ce225e5b193afad6f3d2b82e34d49c778d21efccbf9d807f9",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1008931&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "2002-01-11",
+  "gazette": "2002-03-21",
+  "numac": 2002035308,
+  "document_start": null,
+  "document_end": null,
+  "in_force": "2006-06-01",
+  "article_versions": 12,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
