@@ -1,0 +1,17 @@
+{
+  "codex_id": 1008389,
+  "title": "Ministerieel besluit van 2001-07-27 tot oprichting van het Strategisch Digitaal Forum",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1008389/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "140106a2e016a643315460ef700129f4a79bb0abc9afd928374c67f18ea21b19",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1008389&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "2001-07-27",
+  "gazette": "2001-08-11",
+  "numac": 2001035916,
+  "document_start": null,
+  "document_end": null,
+  "in_force": "2006-06-01",
+  "article_versions": 11,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
