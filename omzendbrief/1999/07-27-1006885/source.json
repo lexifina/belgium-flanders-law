@@ -1,0 +1,17 @@
+{
+  "codex_id": 1006885,
+  "title": "Omzendbrief van 1999-07-27 betreffende de vrijetijdsbesteding van personen met een handicap",
+  "type": "Omzendbrief",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1006885/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "70a2aed80bb200a647eab80dfc30cbf02cf9c4bebb0ef25c081d064f22e5c4eb",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1006885&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "1999-07-27",
+  "gazette": "1999-09-08",
+  "numac": 0,
+  "document_start": null,
+  "document_end": null,
+  "in_force": "2006-06-01",
+  "article_versions": 1,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
