@@ -1,0 +1,17 @@
+{
+  "codex_id": 1006351,
+  "title": "Besluit van de Vlaamse Regering van 1998-07-23 tot vaststelling van het statuut van de regeringscommissarissen bij de universiteiten in de Vlaamse Gemeenschap",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1006351/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "3ce2e1f04438db8a64e510fd90519020c7adf148024464bd6ce4ee262ab9a16d",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1006351&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "1998-07-23",
+  "gazette": "1998-10-15",
+  "numac": 1998036097,
+  "document_start": null,
+  "document_end": null,
+  "in_force": "2006-06-01",
+  "article_versions": 10,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
