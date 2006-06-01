@@ -1,0 +1,17 @@
+{
+  "codex_id": 1001657,
+  "title": "Besluit van de Vlaamse Regering van 1982-04-21 houdende nadere regelen voor het aanvragen, verlenen, weigeren, vervallen en intrekken van een vergunning voor de verwijdering van afvalstoffen",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1001657/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "cb86d376e5e3104afb597d1ed8b7a3f4b5a9f0777f8c1391f0cfd33710fb966f",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1001657&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "1982-04-21",
+  "gazette": "1982-05-15",
+  "numac": 1982000726,
+  "document_start": "1982-05-15",
+  "document_end": null,
+  "in_force": "2006-06-01",
+  "article_versions": 13,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
