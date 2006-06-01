@@ -1,0 +1,17 @@
+{
+  "codex_id": 1006637,
+  "title": "Besluit van de Vlaamse Regering van 1999-03-30 tot uitvoering van de artikelen 3, §1, 4° en 6, §2 en §3 van het decreet van 23 januari 1991 inzake de bescherming van het leefmilieu tegen de verontreiniging door meststoffen, tot aanpassing van bijlage 4 van het besluit van de Vlaamse regering van 20 december 1995 tot uitvoering van de artilelen 33 en 34 van hetzelfde decreet en tot aanpassing van het besluit van de Vlaamse regering van 20 december 1995 tot uitvoering van artikel 14, §7 van hetzelfde decreet",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1006637/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "55123f50529d0af3af252099bde8f5d082e796b1918c7431c3fd94fe97c1c6c9",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1006637&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "1999-03-30",
+  "gazette": "1999-05-08",
+  "numac": 1999035535,
+  "document_start": null,
+  "document_end": null,
+  "in_force": "2006-06-01",
+  "article_versions": 6,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
