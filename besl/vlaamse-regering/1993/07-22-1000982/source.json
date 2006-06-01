@@ -1,0 +1,17 @@
+{
+  "codex_id": 1000982,
+  "title": "Besluit van de Vlaamse Regering van 1993-07-22 betreffende het bij arbeidsovereenkomst in dienst houden van sommige niet-vastbenoemde personeelsleden bij sommige Vlaamse openbare instellingen",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1000982/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "d3bfa2c3ce237a989820af3cbc85720180d0cc2f18a58b183b813954a7668753",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1000982&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "1993-07-22",
+  "gazette": "1993-09-15",
+  "numac": 1993036040,
+  "document_start": "1994-01-01",
+  "document_end": null,
+  "in_force": "2006-06-01",
+  "article_versions": 9,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
