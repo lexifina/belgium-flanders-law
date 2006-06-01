@@ -1,0 +1,17 @@
+{
+  "codex_id": 1010586,
+  "title": "Decreet van 2002-12-20 houdende bepalingen tot begeleiding van de derde aanpassing van de begroting 2002",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1010586/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "4f428123fbc2284f575d0554596eeaabb3d779034cdac163836e5c368563d4cd",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1010586&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "2002-12-20",
+  "gazette": "2003-02-10",
+  "numac": 2003035133,
+  "document_start": "2002-10-15",
+  "document_end": null,
+  "in_force": "2006-06-01",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
