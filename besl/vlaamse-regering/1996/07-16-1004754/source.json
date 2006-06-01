@@ -1,0 +1,17 @@
+{
+  "codex_id": 1004754,
+  "title": "Besluit van de Vlaamse Regering van 1996-07-16 houdende vaststelling van de personeelsformatie van het Openbaar Psychiatrisch Ziekenhuis Geel",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1004754/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "7bfa7ee7a63499cd51e2688bd1ae12c0006c712254ce392db7e0433d791bf1f1",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1004754&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "1996-07-16",
+  "gazette": "1996-08-28",
+  "numac": 1996035946,
+  "document_start": null,
+  "document_end": null,
+  "in_force": "2006-06-01",
+  "article_versions": 6,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
