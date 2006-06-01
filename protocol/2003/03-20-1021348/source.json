@@ -1,0 +1,17 @@
+{
+  "codex_id": 1021348,
+  "title": "Protocol van 2003-03-20 Aanhangsel bij het protocolakkoord over de harmonisering van het vaccinatiebeleid inzake het netwerk voor de distributie van vaccins en inzake het akkoord gesloten tussen de Gemeenschappen en de Gemeenschappelijke Gemeenschapscommissie van het tweetalig gebied Brussel-Hoofdstad",
+  "type": "Protocol",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1021348/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "865341965de401571a459246c990ce1ce392956c66e67c74502858a7076c03f4",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1021348&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "2003-03-20",
+  "gazette": "2003-07-24",
+  "numac": 2003022607,
+  "document_start": null,
+  "document_end": null,
+  "in_force": "2006-06-01",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
