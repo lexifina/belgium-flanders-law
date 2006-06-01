@@ -1,0 +1,17 @@
+{
+  "codex_id": 1004614,
+  "title": "Omzendbrief van 1996-03-11 R.O. 96/2 betreffende het instellen van hoger beroep tegen de beslissing van de bestendige deputatie door het college van burgemeester en schepenen of de gemachtigde ambtenaar",
+  "type": "Omzendbrief",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1004614/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "72aa4a4eb4042ecebf8a25cf4a5ed2c6cde5a2be084cad31f26f07e465130b1b",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1004614&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "1996-03-11",
+  "gazette": "1996-05-21",
+  "numac": 0,
+  "document_start": null,
+  "document_end": null,
+  "in_force": "2006-06-01",
+  "article_versions": 1,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
