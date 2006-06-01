@@ -1,0 +1,17 @@
+{
+  "codex_id": 1015232,
+  "title": "Samenwerkingsakkoord van 2002-10-17 tussen de federale Staat en de Gewesten met betrekking tot het beheer van vrijgegeven afvalstoffen",
+  "type": "Samenwerkingsakkoord",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1015232/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "38fc97a72549972d6db9abd21e1be9e621f22c050657172ee03de7092b2a0561",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1015232&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "2002-10-17",
+  "gazette": "2003-01-15",
+  "numac": 2002021494,
+  "document_start": "2003-01-15",
+  "document_end": null,
+  "in_force": "2006-06-01",
+  "article_versions": 8,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
