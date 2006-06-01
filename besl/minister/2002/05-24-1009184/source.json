@@ -1,0 +1,17 @@
+{
+  "codex_id": 1009184,
+  "title": "Ministerieel besluit van 2002-05-24 betreffende de vaststelling van de aanvang van de tweede inschrijfperiode tot indiening van een aanvraag voor het verkrijgen van een vergoeding voor het vrijwillig, volledig en defintitief stoppen van de productie van alle dierlijke mest, afkomstig van varkens",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1009184/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "1f2a1c4e7c168a96c411246d81074170ab3ca659c3e8c3c0e35c8652b14ffd10",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1009184&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "2002-05-24",
+  "gazette": "2002-05-31",
+  "numac": 2002035671,
+  "document_start": "2002-06-03",
+  "document_end": null,
+  "in_force": "2006-06-01",
+  "article_versions": 2,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
