@@ -1,0 +1,17 @@
+{
+  "codex_id": 1041588,
+  "title": "Besluit van de Vlaamse Regering van 2025-12-12 tot herverdeling van VAK op begrotingsartikelen van de algemene uitgavenbegroting voor het begrotingsjaar 2025 betreffende de financiering van projecten voor de medefinanciering van EuroHPC projecten",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1041588/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "cd13dae033c493a5a7346386a30ab2d70e2f731a98671aae2a248c39935ae43d",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1041588&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "2025-12-12",
+  "gazette": "0001-01-01",
+  "numac": 0,
+  "document_start": "2025-12-12",
+  "document_end": null,
+  "in_force": "2006-06-01",
+  "article_versions": 1,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
