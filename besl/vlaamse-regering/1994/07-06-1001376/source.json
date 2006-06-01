@@ -1,0 +1,17 @@
+{
+  "codex_id": 1001376,
+  "title": "Besluit van de Vlaamse Regering van 1994-07-06 houdende regeling tot de toekenning van subsidies aan de Vlaamse Huisvestingsmaatschappij voor de financiering van haar investeringsprogramma",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1001376/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "372e1ed17aead4a430d75fb2103417ad2ae7c23d0972a0ea8dad5c0d17aeed72",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1001376&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "1994-07-06",
+  "gazette": "1994-12-13",
+  "numac": 1994036517,
+  "document_start": "1994-06-29",
+  "document_end": "2006-06-30",
+  "in_force": "2006-06-01",
+  "article_versions": 13,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
