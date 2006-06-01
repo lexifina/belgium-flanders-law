@@ -1,0 +1,17 @@
+{
+  "codex_id": 1014419,
+  "title": "Besluit van de Vlaamse Regering van 2006-02-03 betreffende de verdeling van personeelsleden die ten behoeve van het buitengewoon onderwijs, het volwassenenonderwijs, het deeltijds kunstonderwijs en de centra voor leerlingenbegeleiding met verlof zijn voor de ondersteuning van de lokale comités",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1014419/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "5d4de4c8f3f35f1a3e3cfa9d833bffd0851d33d957332b8db091c42b4538dd75",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1014419&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "2006-02-03",
+  "gazette": "2006-04-13",
+  "numac": 2006035543,
+  "document_start": "2005-09-01",
+  "document_end": null,
+  "in_force": "2006-06-01",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
