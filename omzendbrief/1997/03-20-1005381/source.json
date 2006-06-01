@@ -1,0 +1,17 @@
+{
+  "codex_id": 1005381,
+  "title": "Omzendbrief van 1997-03-20 betreffende de toepassing van de Vlarem-subrubriek 32.1 \"Feestzalen en lokalen met een dansgelegenheid",
+  "type": "Omzendbrief",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1005381/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "8e2ded94da5929a515282e1895e136b38f323bef4a13971df239203e46b456fc",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1005381&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "1997-03-20",
+  "gazette": "1997-04-15",
+  "numac": 1997801900,
+  "document_start": null,
+  "document_end": null,
+  "in_force": "2006-06-01",
+  "article_versions": 1,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
