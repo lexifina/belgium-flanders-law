@@ -1,0 +1,17 @@
+{
+  "codex_id": 1006245,
+  "title": "Besluit van de Vlaamse Regering van 1998-06-02 betreffende de nadere erkenningsvoorwaarden, de erkenningsprocedure, de modaliteiten inzake inspectie en begeleiding en de wijze van subsidiëring van het landelijk georganiseerd jeugdwerk",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1006245/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "360cd690c4c3b50e6242c0f73c85039631e92cdede3a79b7a2e9f41786ab16c1",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1006245&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "1998-06-02",
+  "gazette": "1998-08-04",
+  "numac": 1998035793,
+  "document_start": "1998-07-01",
+  "document_end": null,
+  "in_force": "2006-06-01",
+  "article_versions": 25,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
