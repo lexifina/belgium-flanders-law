@@ -1,0 +1,17 @@
+{
+  "codex_id": 1008562,
+  "title": "Besluit van de Vlaamse Regering van 2001-10-05 tot uitvoering van artikel 33ter van het decreet van 23 januari 1991 inzake de bescherming van het leefmilieu tegen de verontreiniging door meststoffen en tot wijziging van het besluit van de Vlaamse regering van 6 februari 1991 houdende vaststelling van het Vlaams reglement betreffende de milieuvergunning",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1008562/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "82acf35253d260c06686aae24a5a68e58b61e87b79a9079a12d9dc8e712163b0",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1008562&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "2001-10-05",
+  "gazette": "2002-01-09",
+  "numac": 2001036454,
+  "document_start": null,
+  "document_end": null,
+  "in_force": "2006-06-01",
+  "article_versions": 14,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
