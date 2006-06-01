@@ -1,0 +1,17 @@
+{
+  "codex_id": 1011087,
+  "title": "Besluit van de Vlaamse Regering van 2003-04-04 tot wijziging van het besluit van de Vlaamse regering van 14 februari 2003 betreffende de adviescheques en tot oprichting van de Raad van Advies en Consultancy",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1011087/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "8e10fda3919df85df0af47be2e865fdc5c0b5e4ed5e8c188c6b21f8dfb6f0c7a",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1011087&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "2003-04-04",
+  "gazette": "2003-06-02",
+  "numac": 2003035546,
+  "document_start": "2003-03-05",
+  "document_end": null,
+  "in_force": "2006-06-01",
+  "article_versions": 18,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
