@@ -1,0 +1,17 @@
+{
+  "codex_id": 1001615,
+  "title": "Besluit van de Vlaamse Regering van 1992-10-14 houdende vaststelling van de voorwaarden tot en van de procedure van de erkenning van de volledige gelijkwaardigheid van buitenlandse diploma's en studiegetuigschriften met de diploma's van de academische graden met uitzondering van de academische graden van de eerste cyclus",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1001615/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "9acade0f3d58f606d3dca24de29150f810384eb4bcf3fc368710d92301a609fa",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1001615&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "1992-10-14",
+  "gazette": "1992-12-31",
+  "numac": 1992036283,
+  "document_start": "1992-10-01",
+  "document_end": "2013-08-31",
+  "in_force": "2006-06-01",
+  "article_versions": 10,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
