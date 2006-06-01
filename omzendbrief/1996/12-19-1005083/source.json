@@ -1,0 +1,17 @@
+{
+  "codex_id": 1005083,
+  "title": "Omzendbrief van 1996-12-19 betreffende de toepassing van het mestdecreet en de uitvoeringsbesluiten ervan",
+  "type": "Omzendbrief",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1005083/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "2b215efc51e217a210c07bb58c5fc53d5f8c009e4fd0690ed8bede42239a7508",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1005083&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "1996-12-19",
+  "gazette": "1997-01-11",
+  "numac": 1997801867,
+  "document_start": null,
+  "document_end": null,
+  "in_force": "2006-06-01",
+  "article_versions": 1,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
