@@ -1,0 +1,17 @@
+{
+  "codex_id": 1005541,
+  "title": "Besluit van de Vlaamse Regering van 1997-06-24 betreffende de bezoldiging van het tijdelijk onderwijzend personeel van de hogescholen in de Vlaamse Gemeenschap",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1005541/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "26af5a8bac7d71fa051c33bf05675ad2d30f9197668b8faf5ba7b7776d1897d2",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1005541&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "1997-06-24",
+  "gazette": "1997-09-06",
+  "numac": 1997036121,
+  "document_start": null,
+  "document_end": null,
+  "in_force": "2006-06-01",
+  "article_versions": 10,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
