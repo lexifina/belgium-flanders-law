@@ -1,0 +1,17 @@
+{
+  "codex_id": 1001074,
+  "title": "Omzendbrief van 1993-05-26 HV 93/1 betreffende de toepassing van het besluit van de Vlaamse regering van 21 december 1988 houdende de uitvoering van de artikelen 57 tot 60 van de Huisvestingscode inzake leningen aan mijnwerkers, gewijzigd bij besluit van de Vlaamse regering van 23 mei 1990",
+  "type": "Omzendbrief",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1001074/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "ec8d16605bc4860d07e153acd1be742d0071dcf15847c1f3bb88ab0ab45f0b27",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1001074&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "1993-05-26",
+  "gazette": "1993-08-12",
+  "numac": 0,
+  "document_start": null,
+  "document_end": null,
+  "in_force": "2006-06-01",
+  "article_versions": 6,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
