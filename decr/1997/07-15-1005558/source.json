@@ -1,0 +1,17 @@
+{
+  "codex_id": 1005558,
+  "title": "Decreet van 1997-07-15 houdende oprichting van een Gezin- en Welzijnsraad en van een adviserende beroepscommissie inzake gezins- en welzijnsaangelegenheden",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1005558/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "4a2c6b973a81450b496a0392fe1d70a20e827cc281561427fb3f63e8e4c9fa03",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1005558&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "1997-07-15",
+  "gazette": "1997-09-17",
+  "numac": 1997036107,
+  "document_start": null,
+  "document_end": "2013-12-31",
+  "in_force": "2006-06-01",
+  "article_versions": 26,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
