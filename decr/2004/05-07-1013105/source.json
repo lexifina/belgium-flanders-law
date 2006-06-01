@@ -1,0 +1,17 @@
+{
+  "codex_id": 1013105,
+  "title": "Decreet van 2004-05-07 tot wijziging van het decreet van 5 april 1995 houdende algemene bepalingen inzake milieubeleid, tot aanvulling ervan met een titel Agentschappen tot wijziging van diverse andere wetten en decreten",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1013105/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "2d364cc7b9fd5a5e163ed6d15730fe230c8b0d4bedbdec8640a4fbcbdde78763",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1013105&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "2004-05-07",
+  "gazette": "2004-06-11",
+  "numac": 2004035927,
+  "document_start": "2006-04-01",
+  "document_end": null,
+  "in_force": "2006-06-01",
+  "article_versions": 38,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
