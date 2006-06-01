@@ -1,0 +1,17 @@
+{
+  "codex_id": 1015109,
+  "title": "Samenwerkingsakkoord van 2001-11-20 tussen de Staat en de Gewesten met betrekking tot de tegemoetkoming van de overheid in de deelname van het Belgische bedrijfsleven aan de programma's AIRBUS A380",
+  "type": "Samenwerkingsakkoord",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1015109/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "623d646627320ae40364196c7c172f7352536867958e37be095032c2415453fb",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1015109&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "2001-11-20",
+  "gazette": "2002-09-12",
+  "numac": 2002021338,
+  "document_start": "2001-11-20",
+  "document_end": null,
+  "in_force": "2006-06-01",
+  "article_versions": 8,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
