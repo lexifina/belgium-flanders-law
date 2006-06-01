@@ -1,0 +1,17 @@
+{
+  "codex_id": 1003484,
+  "title": "Omzendbrief van 1990-05-30 BA-G-90/5 betreffende het Geografisch Informatiesysteem",
+  "type": "Omzendbrief",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1003484/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "fdb9ad325dd8a984e28ebbadff35539caca51b25e0246792f0be6072adf83ca2",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1003484&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "1990-05-30",
+  "gazette": "1990-07-19",
+  "numac": 0,
+  "document_start": null,
+  "document_end": null,
+  "in_force": "2006-06-01",
+  "article_versions": 1,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
