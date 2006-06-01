@@ -1,0 +1,17 @@
+{
+  "codex_id": 1021299,
+  "title": "Protocol van 1990-05-15 tussen de Regering en de Gewest- en Gemeenschapsexecutieven betreffende de Belgische deelname aan Eureka",
+  "type": "Protocol",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1021299/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "6190486bf541e2b9a9c78abee98271035536eab5914a4ec3be9ed410cc5c8009",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1021299&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "1990-05-15",
+  "gazette": "1990-05-15",
+  "numac": 0,
+  "document_start": null,
+  "document_end": null,
+  "in_force": "2006-06-01",
+  "article_versions": 6,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
