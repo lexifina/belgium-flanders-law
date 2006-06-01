@@ -1,0 +1,17 @@
+{
+  "codex_id": 1038180,
+  "title": "Samenwerkingsakkoord van 2022-12-19 tussen de Federale Staat, de Vlaamse Gemeenschap, het Vlaamse Gewest, het Waalse Gewest, het Brusselse Hoofdstedelijke Gewest, de Franse Gemeenschap en de Duitstalige Gemeenschap betreffende het gebruik van de herstel- en veerkrachtfaciliteit",
+  "type": "Samenwerkingsakkoord",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1038180/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "6f22414c7dde185e0f49999fd7f898d8c458b6e97ec386f5423b79d9a5507d99",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1038180&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "2022-12-19",
+  "gazette": "0001-01-01",
+  "numac": 0,
+  "document_start": null,
+  "document_end": null,
+  "in_force": "2006-06-01",
+  "article_versions": 17,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
