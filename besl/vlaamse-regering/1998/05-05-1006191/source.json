@@ -1,0 +1,17 @@
+{
+  "codex_id": 1006191,
+  "title": "Besluit van de Vlaamse Regering van 1998-05-05 betreffende de Raad voor Cultuur, de Raad voor de Kunsten en de Raad voor Volksontwikkeling en Cultuurspreiding",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1006191/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "01e6621da4d0610acfe6bb2cc55f2a3a696c2c0a3ddeb98ee944f861f29f2b4e",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1006191&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "1998-05-05",
+  "gazette": "1998-06-25",
+  "numac": 1998035669,
+  "document_start": "1998-05-05",
+  "document_end": null,
+  "in_force": "2006-06-01",
+  "article_versions": 12,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
