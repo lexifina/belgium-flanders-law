@@ -1,0 +1,17 @@
+{
+  "codex_id": 1007652,
+  "title": "Samenwerkingsakkoord van 1985-05-22 tussen de Vlaamse Gemeenschap en de Duitstalige Gemeenschap ondertekend te Alden Biesen",
+  "type": "Samenwerkingsakkoord",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1007652/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "f441375430de68d876e13bd1880291ce385af06e9656a83e607982d3ada1e1dd",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1007652&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "1985-05-22",
+  "gazette": "1985-10-23",
+  "numac": 0,
+  "document_start": null,
+  "document_end": "2002-08-15",
+  "in_force": "2006-06-01",
+  "article_versions": 28,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
