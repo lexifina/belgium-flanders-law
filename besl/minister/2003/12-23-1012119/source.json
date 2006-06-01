@@ -1,0 +1,17 @@
+{
+  "codex_id": 1012119,
+  "title": "Ministerieel besluit van 2003-12-23 houdende delegatie van bevoegdheden aan de ICT-manager",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1012119/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "061a3e91023c5889dc97da2f61332e5967b695c955cf56cbf51b34f58577d4d1",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1012119&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "2003-12-23",
+  "gazette": "2004-02-24",
+  "numac": 2004035254,
+  "document_start": "2003-12-23",
+  "document_end": null,
+  "in_force": "2006-06-01",
+  "article_versions": 6,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
