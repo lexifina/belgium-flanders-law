@@ -1,0 +1,197 @@
+# Besluit van de Vlaamse Regering van 2003-10-03 houdende de instelling van een financieringskanaal voor het strategisch basisonderzoek in Vlaanderen
+
+## HOOFDSTUK I ALGEMENE BEPALINGEN
+
+### ART. 1.
+
+In dit besluit wordt verstaan onder:<br>
+<br>
+1° het agentschap: het Vlaams Agentschap voor Basisonderzoek;<br>
+<br>
+2° de raad van bestuur: de raad van bestuur van het agentschap;<br>
+<br>
+3° de minister: de Vlaamse minister belast met het toezicht op het agentschap;<br>
+<br>
+4° O&amp;O-actor: rechtspersoon die actief is in het domein van onderzoek en technologische innovatie;<br>
+<br>
+5° Vlaamse universiteit: de instellingen vermeld in artikel 3 van het decreet van 12 juni 1991 betreffende de universiteiten in de Vlaamse Gemeenschap;<br>
+<br>
+6° Vlaamse hogeschool: de instellingen bedoeld artikel 2, 1° van het decreet van 13 juli 1994 betreffende de hogescholen in de Vlaamse Gemeenschap;<br>
+<br>
+7° Vlaamse O&amp;O-actor: een in het Vlaamse Gewest gevestigde O&amp;O-actor evenals een in het Brussels Hoofdstedelijk Gewest gevestigde Vlaamse universiteit of Vlaamse hogeschool.
+
+## HOOFDSTUK II KARAKTERISTIEKEN VAN HET FINANCIERINGSKANAAL VOOR HET BASISONDERZOEK
+
+## AFDELING 1 DEFINITIE EN DOELSTELLINGEN
+
+### ART. 2.
+
+Strategisch basisonderzoek is kwalitatief hoogwaardig op langere termijn gericht onderzoek dat het opbouwen van wetenschappelijke of technologische capaciteit beoogt die de basis vormt voor economische en/of maatschappelijke toepassingen waarbij op het moment dat het onderzoek start deze nog niet duidelijk gedefinieerd zijn en om deze te ontwikkelen nog vervolgonderzoek nodig is.
+
+### ART. 3.
+
+Voor het verlenen van steun aan op projectmatige basis uitgevoerd strategisch basisonderzoek op initiatief van Vlaamse O&amp;O-actoren, wordt een financieringskanaal ingesteld. Binnen de perken van de begrotingskredieten worden hiervoor middelen voorzien.
+
+## AFDELING 2 KENMERKEN VAN PROJECTVOORSTELLEN EN PROJECTAANVRAGERS
+
+### ART. 4.
+
+Een projectvoorstel wordt ingediend door minstens één Vlaamse O&amp;O-actor.<br>
+<br>
+Het Interuniversitair Instituut voor Micro-Electronica, de Vlaamse Instelling voor Technologisch Onderzoek, het Vlaams Interuniversitair Instituut voor Biotechnologie, het Vlaams Instituut voor de Zee en de Vlaamse wetenschappelijke instellingen met een dotatie van de Vlaamse overheid, dienen steeds een projectvoorstel in, in samenwerking met minstens één andere Vlaamse O&amp;O-actor.<br>
+<br>
+Een Vlaamse hogeschool dient steeds een projectvoorstel in, in samenwerking met of na advies van de associatie waarmee ze verbonden is, volgens artikel 97 van het decreet betreffende de herstructurering van het hoger onderwijs in Vlaanderen goedgekeurd door het Vlaams Parlement op 2 april 2003. Vlaamse hogescholen dienen steeds een projectvoorstel in, in samenwerking met minstens één andere Vlaamse O&amp;O-actor.<br>
+<br>
+Indien in het projectvoorstel wordt aangetoond dat de inbreng noodzakelijk is voor het uitvoeren van het onderzoek en binnen de beperkingen vastgelegd in artikel 5, kan een Vlaamse O&amp;O-actor in samenwerking met één of meerdere O&amp;O-actoren van buiten Vlaanderen een projectvoorstel indienen.<br>
+<br>
+In een projectvoorstel dat door twee of meer O&amp;O-actoren, verder projectaanvragers genoemd samen, verder een consortium genoemd, wordt ingediend, wordt één van de Vlaamse O&amp;O-actoren als projectcoördinator aangeduid.
+
+### ART. 5.
+
+De uitvoeringstijd van een projectvoorstel bedraagt vier jaar. Mits een grondige motivering kan in een projectvoorstel een kortere uitvoeringstijd worden voorzien, waarbij deze echter niet minder dan twee jaar kan bedragen.<br>
+<br>
+In het projectvoorstel wordt aangegeven of het onderzoek primair een maatschappelijke of een economische finaliteit heeft.<br>
+<br>
+Een projectvoorstel bevat een voorstel van projectbegroting met een overzicht van de kosten verbonden aan de uitvoering van het project. In geval van een consortium wordt voor elke projectaanvrager een voorstel van deelprojectbegroting opgesteld. Bij de opstelling van het voorstel van projectbegroting worden de richtlijnen gevolgd die zijn opgenomen als bijlage bij dit besluit.<br>
+<br>
+De voorgestelde projectbegroting bedraagt tenminste 185.000 euro per jaar en ten hoogste 500.000 euro per jaar. Indien het project in consortiumverband wordt uitgevoerd kan de projectbegroting worden verhoogd tot een maximum van 500.000 euro per jaar vermenigvuldigd met het aantal rechtspersonen die als projectaanvrager optreden op voorwaarde dat de deelprojectbegroting van deze projectaanvragers minimaal 15 % van de totale projectbegroting bedraagt.<br>
+<br>
+De voorgestelde deelbegroting van de niet in Vlaanderen gevestigde O&amp;O-actoren die deel uitmaken van een consortium of die als derden specifieke deeltaken uitvoeren, kan cumulatief niet meer dan 20 procent van de voorgestelde projectbegroting bedragen<br>
+<br>
+Voor het uitvoeren van specifieke deeltaken, kan in het projectvoorstel worden voorzien dat beroep wordt gedaan op de diensten van derden, verder contractant(en) genoemd. De totale kostprijs van de taken die worden voorgesteld om aan contractanten toe te vertrouwen, kan niet meer dan 30 % van de voorgestelde projectbegroting bedragen.<br>
+<br>
+Indien een projectvoorstel wordt ingediend door een consortium bestaande uit ten minste drie projectaanvragers kan ongeacht de eerder in dit artikel vermelde maximumbedragen de voorgestelde projectbegroting, worden vermeerderd met een forfaitaire toeslag van 5 % voor het dekken van de coördinatiekosten.
+
+## HOOFDSTUK III MAXIMALE STEUNPERCENTAGE EN CUMULATIE MET ANDERE STEUN
+
+## AFDELING 1 MAXIMAAL STEUNPERCENTAGE
+
+### ART. 6.
+
+In toepassing van de Communautaire Kaderregeling inzake Staatssteun voor Onderzoek en Ontwik-keling (96/C 45/06), bedraagt de steun voor een projectvoorstel of een gedeelte van een projectvoorstel uitgevoerd door een openbare hoger-onderwijsinstelling of een openbaar onderzoekscentrum 100 % van de kosten die overeenkomstig de bijlage bij dit besluit aanvaard worden.<br>
+<br>
+Voor het bepalen van de steun aan een projectvoorstel of gedeelte van een projectvoorstel uitgevoerd door een andere projectaanvrager dan deze hierboven vermeld in dit artikel, gelden de regels voor de ondersteuning van het industrieel basisonderzoek zoals vastgelegd in de artikelen 4 tot en met 6 van het besluit van de Vlaamse regering van 5 oktober 2001 tot regeling van de steun aan projecten van technologisch onderzoek en ontwikkeling van het bedrijfsleven in Vlaanderen.
+
+## AFDELING 2 CUMULATIE MET ANDERE STEUN
+
+### ART. 7.
+
+Inzake de cumulatie van steun toegekend in het kader van dit besluit met andere steun gelden de regels vastgelegd in artikel 7 van het in artikel 6, § 2 vermeld O&amp;O besluit.
+
+## HOOFDSTUK IV PROCEDURE VOOR HET BEHANDELEN VAN PROJECTVOORSTELLEN
+
+### ART. 8.
+
+De projectvoorstellen moeten worden geformuleerd overeenkomstig de aanvraagprocedure en -moda-liteiten die de raad van bestuur vastlegt en bekendmaakt. De raad van bestuur voorziet in één of meerdere uiterste indiendata in de loop van elk kalenderjaar, waarbij rekening kan worden gehouden met de finaliteit van het onderzoek.<br /><br />De raad van bestuur oordeelt over de ontvankelijkheid van een projectvoorstel met het oog op de grondige behandeling op basis van de formele indieningsvoorwaarden en instructies zoals bedoeld hiervoor in dit artikel.<br /><br />Een projectvoorstel dat niet ontvankelijk wordt verklaard, wordt uitgesloten van verdere behandeling.<br /><br />Ten laatste 30 kalenderdagen na de uiterste indiendatum deelt het agentschap aan de projectuitvoerder of in geval van een consortium aan de projectcoördinator de gemotiveerde beslissing over de ontvankelijkheid van het projectvoorstel mee.<br /><br />Naast de ontvankelijkheidsanalyse kan de Raad van Bestuur een preselectie doorvoeren van de projectvoorstellen op basis van: 1) het strategisch karakter van het onderzoek en de aanwezige competenties van de aanvragers om de beoogde onderzoeksresultaten te kunnen bereiken; en 2) het belang en de omvang van het economische of maatschappelijk valorisatiepotentieel in Vlaanderen onder de vorm van een belangrijke kennistransfer. De indieners van de gepreselecteerde projectvoorstellen worden uitgenodigd om een volledig uitgewerkt projectvoorstel in te dienen tegen een vastgestelde indiendatum
+
+### ART. 9.
+
+De raad van bestuur stelt expertencolleges samen, en bepaalt de procedure voor de adviesverstrekking en houdt rekening met de aard van de te evalueren projectvoorstellen. De expertscolleges kunnen het schriftelijk advies van deskundigen inwinnen.<br /><br />De raad van bestuur kan ook een overkoepelende commissie van externe deskundigen aanstellen per finaliteitsluik, die een finale rangschikking- en selectievoorstel zal doorvoeren op basis van de resultaten van de afzonderlijke expertencolleges.
+
+### ART. 10.
+
+De identiteit van de projectaanvrager(s) wordt bekendgemaakt aan het expertscollege tenzij een projectaanvrager uitdrukkelijk wenst en motiveert dat de anonimiteit in acht wordt genomen ten aanzien van leden van dit college en/of van deskundigen waarvan het schriftelijk advies wordt ingewonnen.
+
+### ART. 11.
+
+De raad van bestuur beslist op basis van het projectvoorstel en het advies van het expertencollege en van de overkoepelende commissie van externe deskundigen, indien deze werd aangesteld. De raad van bestuur legt ook de omvang van de steun vast alsmede de bijzondere voorwaarden en de nadere regelingen ervan.
+
+### ART. 12.
+
+Ten laatste 120 kalenderdagen na de uiterste indiendatum van de volledige projectvoorstellen deelt het agentschap aan de projectaanvrager of ingeval van een consortium aan de projectcoördinator, de beslissing vermeld in artikel 11 mee.
+
+### ART. 13.
+
+Onverminderd de toepassing van artikel 27, worden voor projectenvoorstellen waaraan steun wordt toegekend, verder projecten genoemd, de voorwaarden en de nadere regelen die de raad van bestuur heeft vastgelegd voor de steun, opgenomen in een overeenkomst die het agentschap sluit met de projectaanvrager en in geval van een consortium met de projectaanvragers, volgens een type-overeenkomst goedgekeurd door de raad van bestuur.
+
+### ART. 14.
+
+In geval dat een project in consortiumverband wordt uitgevoerd sluiten de projectaanvragers een consortiumovereenkomst die als bijlage bij de overeenkomst vermeld in artikel 13 wordt gevoegd. De projectcoördinator maakt deze consortiumovereenkomst ter goedkeuring over aan het agentschap ten laatste binnen de vier maanden na de ontvangst van de overeenkomst bedoeld in artikel 13.<br /><br />Indien voor de uitvoering van een project wordt samengewerkt met contractanten, sluit de projectaanvrager of in geval van een consortium sluiten de projectaanvragers een samenwerkingsovereenkomst met elk van deze contractanten. Deze samenwerkingsovereenkomsten worden als bijlage bij de overeenkomst vermeld in artikel 13 gevoegd.
+
+## HOOFDSTUK V BESLISSINGSBEPALINGEN EN -CRITERIA
+
+### ART. 15.
+
+De raad van bestuur kan een negatieve beslissing nemen of bijkomende voorwaarden stellen op basis van de volgende elementen:<br /><br />1° bij onvoldoende financiële draagkracht van een projectaanvrager ten behoeve van de uitvoering van een projectvoorstel;<br /><br />2° indien een projectaanvrager niet voldoet aan overige verplichtingen of vergunningen vanwege de overheid;<br /><br />3° indien een projectaanvrager blijk heeft gegeven van niet-correct gedrag naar aanleiding van vorige projectvoorstellen, onder meer inzake informatieverstrekking, inhoudelijke of financiële verplichtingen of verslaggeving.
+
+### ART. 16.
+
+De raad van bestuur steunt bij zijn beslissing om aan een projectvoorstel dat overeenkomstig artikel 8 ontvankelijk werd verklaard, al dan niet steun te verlenen, op volgende beoordelingsdimensies:<br /><br />1° de wetenschappelijke kwaliteit W van het projectvoorstel;<br /><br />2° de utiliteitsperspectieven U van het projectvoorstel: de gebruiksmogelijkheden van de resultaten op de langere termijn en mits vervolgonderzoek door economische, maatschappelijke of overheidsactoren.<br /><br />De Vlaamse regering kan bijkomende algemene beleidslijnen met betrekking tot de selectievoorwaarden opleggen. De raad van bestuur zal bij de nadere invulling van de indiening en de beoordeling tevens uitvoering geven aan de algemene beleidslijnen van de politieke overheid zoals beslist door de Vlaamse regering of zoals voorzien in de beheersovereenkomst met het agentschap.
+
+### ART. 17.
+
+Voor de beoordeling van de wetenschappelijke kwaliteit W worden volgende subcriteria gebruikt:<br /><br />a) het strategisch karakter van het onderzoek en de bijdrage tot de uitbouw van een ruim kennisplatform met brede mogelijkheden voor verdere onderzoeksactiviteiten (multiplicatoreffect, potentieel voor vervolgprojecten);<br /><br />b) de doelmatigheid en de kwaliteit van de onderzoeksaanpak, de projectplanning (incl. de wijze waarop de coördinatie wordt verzekerd voor projectvoorstellen die in consortiumverband worden uitgevoerd), het werkprogramma en het voorziene projectbeheer;<br /><br />c) de "value for money" en de uitvoerbaarheid of haalbaarheid van het voorgestelde onderzoek met de voorziene menskracht en middelen;<br /><br />d) de aanwezige competentie, infrastructuur en potentieel in de schoot van de projectaanvrager of in geval van een consortium van de projectaanvragers om het voorgestelde onderzoek uit te voeren.<br /><br />Aan elk projectvoorstel wordt een globale kwantitatieve score toegekend op basis van de subcriteria vermeld in dit artikel.
+
+### ART. 18.
+
+Voor de beoordeling van de utiliteitsperspectieven U van een projectvoorstel worden volgende subcriteria gebruikt:<br /><br />a) het belang en de omvang van het verwachte economisch of maatschappelijk valorisatiepotentieel in Vlaanderen;<br /><br />b) de kwaliteit van de voorgestelde strategie en de aanpak ter ondersteuning van de verdere economische of maatschappelijke benutting van onderzoeksresultaten (kennistransfer);<br /><br />c) de aanwezige competentie op vlak van het beheer van onderzoeksresultaten en de transfer ervan naar economische of maatschappelijke actoren;<br /><br />d) de meerwaarde van het project op vlak van duurzame ontwikkeling indien van toepassing.<br /><br />Aan elk projectvoorstel wordt een globale kwantitatieve score toegekend op basis van de subcriteria vermeld in dit artikel.
+
+### ART. 19.
+
+De minimale kwaliteitsvereisten waaraan een projectvoorstel moet voldoen om voor steun in aanmer-king te komen zijn een beoordeling van minstens "redelijk goed" op alle criteria vermeld in art. 17 en art. 18 alsook op de globale scores vermeld in art. 17 en art. 18. Een beoordeling "redelijk goed" komt overeen met een score van 6 op een schaal van 10.<br /><br />Projecten die aan deze minimale vereisten voldoen worden gerangschikt op basis van een gelijk gewicht aan de scores op de wetenschappelijke kwaliteit W en de utilisatieperspectieven U en van de nodige diversiteit inzake toepassingsdomeinen bij gelijkwaardige scores. Op basis van de budgettaire mogelijkheden worden de hoogst gerangschikte projectvoorstellen gesteund.<br /><br />Indien een overkoepelende commissie van externe deskundigen werd aangesteld, zal deze op basis van de beoordeling en verslaggeving vanwege de gespecialiseerde expertscolleges, een globaal advies uitbrengen over de selectie en rangschikking van de projectvoorstellen conform de principes van dit artikel.<br /><br />In functie van het jaarlijks beschikbare steunvolume legt de minister de verdeling vast tussen middelen voor projecten met een primaire economische finaliteit en deze met een primaire maatschappelijke finaliteit.
+
+### ART. 20.
+
+De raad van bestuur legt jaarlijks omstandig verantwoording af bij de Vlaamse regering inzake het beheer van het financieringskanaal voor basisonderzoek. Concrete bepalingen terzake worden vastgelegd in de beheersovereenkomst die zal worden afgesloten tussen de Vlaamse regering en het agentschap.
+
+## HOOFDSTUK VI EIGENDOMSRECHTEN EN VALORISATIE
+
+### ART. 21.
+
+In geval de projectaanvrager een universitaire onderzoeksgroep betreft gelden de bepalingen van art. 169ter van het Decreet van 12 juni 1991 betreffende de universiteiten in de Vlaamse Gemeenschap.
+
+### ART. 22.
+
+De projectaanvragers verbinden zich ertoe alle inspanningen te leveren die redelijker wijze mogen verwacht worden om de projectresultaten in het Vlaams Gewest te valoriseren.<br>
+<br>
+Ingeval van valorisatie van de projectresultaten buiten het Vlaams Gewest, dienen de projectaanvragers zich te verbinden tot een valorisatie van de projectresultaten in het Vlaams Gewest met een bruto toegevoegde waarde die minimaal gelijk is aan het tienvoud van het bedrag van de steun gemeten over een valorisatietijd van maximum tien jaar te meten vanaf datum van de valorisatie van de projectresultaten.<br>
+<br>
+De in artikel 13 bedoelde overeenkomst regelt de nadere verplichtingen inzake valorisatie.
+
+## HOOFDSTUK VII TOEZICHT
+
+### ART. 23.
+
+Het agentschap wordt belast met het toezicht op de aanwending door de projectaanvragers van de steun die krachtens dit besluit wordt toegekend.
+
+### ART. 24.
+
+De projectaanvragers leveren op geregelde tijdstippen schriftelijk verslag aan het agentschap betreffende de vordering van het project en de aanwending van de steun. Ze brengen na afloop van het project een eindverslag uit over het verloop en de resultaten van het project.
+
+### ART. 25.
+
+De projectaanvrager die de voorwaarden en de bepalingen waaronder de steun werd toegekend niet naleeft, wordt bij de beslissing van de raad van bestuur in gebreke gesteld.<br /><br />Vanaf de ingebrekestelling wordt elke verdere steun aan het project geschorst.<br /><br />De vordering van terugbetaling van de oneigenlijk aangewende steun wordt ingeleid door de raad van bestuur.<br /><br />Indien het project in consortiumverband wordt uitgevoerd, is de terugvordering beperkt tot de steun die de projectaanvrager heeft ontvangen.<br /><br />De raad van bestuur kan de bevoegdheid tot vordering van terugbetaling delegeren.
+
+### ART. 26.
+
+De projectaanvrager kan in beroep gaan tegen de beslissing van de raad van bestuur inzake de inge-brekestelling of vordering tot terugbetaling overeenkomstig artikel 25 van dit besluit.<br /><br />Het beroep moet aangetekend bezorgd worden binnen een termijn van dertig werkdagen na de betekening van de beslissing.<br /><br />Het beroep moet door het agentschap behandeld worden binnen een termijn van dertig werkdagen, waarna de raad van bestuur een nieuwe beslissing kan bepalen.
+
+### ART. 27.
+
+De toekenning van de steun en het recht op het behoud ervan is afhankelijk van de uitdrukkelijke voorwaarde dat, indien van toepassing, de projectaanvrager de informatie- en raadplegingsprocedures zoals beschreven in artikel 35, § 2 van het decreet van 19 december 1998 houdende bepalingen tot begeleiding van de begroting 1999 volledig naleeft ingeval van collectief ontslag van het personeel.<br /><br />De niet naleving van de informatie- en raadplegingsprocedures wordt door de Vlaamse regering vastgesteld. De datum van haar beslissing geldt als uitgangspunt voor het bepalen van de periode van vijf jaar waarbinnen alle steun zal worden terug gevorderd, zoals bepaald in artikel 35, § 1 van het eerder in dit artikel vermeld decreet.<br /><br />Met ingang van de datum van de in het eerste lid vermelde beslissing van de Vlaamse regering is het agentschap bevrijd van elke verdere verplichting tot uitbetaling waarin de contractuele bepalingen van op dat ogenblik lopende overeenkomsten waarvan de projectaanvrager één van de partijen is, zouden voorzien.<br /><br />Het recht op terugvorderen door het agentschap betreft het geheel van de in voormelde periode van vijf jaar door de projectaanvrager ontvangen betalingen, ongeacht het aantal projecten of het aantal aparte overeenkomsten en hun stand van uitvoering in de periode van vijf jaar voorafgaand aan de in het tweede lid bedoelde beslissing van de Vlaamse regering.<br /><br />Indien projecten in consortiumverband worden uitgevoerd, is de terugvordering beperkt tot de steun die de projectaanvrager heeft ontvangen.
+
+## HOOFDSTUK VIII GEHEIMHOUDING
+
+### ART. 28.
+
+De personeelsleden van het agentschap, de leden van de raad van bestuur, de leden van de expert-scolleges alsmede alle andere personen die ambtshalve kennis krijgen van een dossier zoals bedoeld in dit besluit, zullen de gegevens in kwestie als strikt vertrouwelijk behandelen, ze niet mededelen aan derden, noch in hun eigen voordeel aanwenden.
+
+## HOOFDSTUK IX SLOT- EN OVERGANGSBEPALINGEN
+
+### ART. 29.
+
+In afwachting van de oprichting van het Vlaams Agentschap voor Basisonderzoek, wordt het woord "Agentschap" gelezen als "Instituut voor de aanmoediging van Innovatie door Wetenschap en Technologie in Vlaanderen", verder IWT-Vlaanderen genoemd, en "de raad van bestuur" als "de raad van bestuur van het IWT-Vlaanderen".
+
+### ART. 30.
+
+Dit besluit treedt in werking op 3 oktober 2003.
+
+### ART. 31.
+
+De Vlaamse minister bevoegd voor wetenschaps- en technologisch innovatiebeleid is belast met de uitvoering van dit besluit.
+
+## Bijlage
+
+### Tekst
+
+Als projectkosten kunnen in aanmerking worden genomen de volgende kosten die, na de in artikel 13 vermelde overeenkomst opgenomen startdatum door de projectuitvoerders worden gemaakt en betaald zijn. Deze kosten moeten noodzakelijk zijn en rechtstreeks aan het project toegerekend kunnen worden. Wanneer de kosten ook uit andere O&O-projecten voortvloeien, moeten zij worden omgeslagen over het gesteunde project en de andere activiteiten:<br /><br />- personeelskosten (onderzoekers, technici en ander ondersteunend personeel dat zich uitsluitend met onderzoek bezighoudt);<br /><br />- kosten van apparatuur, uitrusting, land en gebouwen die uitsluitend en permanent (behalve indien zij op commerciële basis worden afgestaan) voor onderzoek worden gebruikt;<br /><br />- kosten verschuldigd aan derden voor advies en soortgelijke diensten die uitsluitend voor onderzoek worden gebruikt, met inbegrip van uitbesteed onderzoek, aangekochte technische kennis, octrooien, etc.;<br /><br />- extra algemene kosten die rechtstreeks uit de onderzoeksactiviteiten voortvloeien maar die niet direct toewijsbaar zijn;<br /><br />- andere exploitatiekosten (zoals die van materiaal, leveranties en dergelijke) die rechtstreeks uit de onderzoeksactiviteiten voortvloeien.<br /><br />Het is toegestaan extra algemene kosten en andere exploitatiekosten forfaitair te berekenen met een maximum van 20 % van de directe kosten. Conform artikel 5 wordt dit percentage verhoogd met vijf percent voor consortia met ten minste drie projectuitvoerders. De raad van bestuur kan binnen deze algemene bepalingen de aanvaarde kosten vastleggen en beperken. Hierbij zullen de nodige garanties worden ingebouwd dat de gemaakte kosten reÙel zijn en betrekking hebben op onderzoek.
