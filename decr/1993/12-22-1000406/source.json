@@ -1,0 +1,17 @@
+{
+  "codex_id": 1000406,
+  "title": "Decreet van 1993-12-22 houdende bepalingen tot begeleiding van de begroting 1994",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1000406/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "4627fc0595a3f3772f8be4a9f8fd897b1cc0cd0da3d1103ae1736628359d3ff7",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1000406&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "1993-12-22",
+  "gazette": "1993-12-29",
+  "numac": 1993036556,
+  "document_start": null,
+  "document_end": null,
+  "in_force": "2006-06-01",
+  "article_versions": 109,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
