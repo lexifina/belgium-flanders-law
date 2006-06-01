@@ -1,0 +1,17 @@
+{
+  "codex_id": 1002936,
+  "title": "Besluit van de Vlaamse Regering van 1991-03-13 tot wijziging van het besluit van de Vlaamse regering van 17 juli 1985 betreffende de instelling en organisatie van het Instituut voor Natuurbehoud",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1002936/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "480db0fed3fa82c3cb9e4ce2ff0768518e625c7edd4c99a35d986d0d68ae2ef4",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1002936&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "1991-03-13",
+  "gazette": "1991-05-14",
+  "numac": 1991035118,
+  "document_start": "1991-01-01",
+  "document_end": null,
+  "in_force": "2006-06-01",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
