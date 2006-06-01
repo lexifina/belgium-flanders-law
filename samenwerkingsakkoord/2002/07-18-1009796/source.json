@@ -1,0 +1,17 @@
+{
+  "codex_id": 1009796,
+  "title": "Samenwerkingsakkoord van 2002-07-18 tussen de Federale Staat en de Gewesten en de Duitstalige Gemeenschap inzake de invoering van sociale clausules in de door een federaal organisme gegunde overheidsopdrachten",
+  "type": "Samenwerkingsakkoord",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1009796/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "8ec37d8d3a5a78b4d2022444b5ecaa6831ccb5d02499137e1f7df5bbe8a89a73",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1009796&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "2002-07-18",
+  "gazette": "2002-10-03",
+  "numac": 0,
+  "document_start": null,
+  "document_end": null,
+  "in_force": "2006-06-01",
+  "article_versions": 1,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
