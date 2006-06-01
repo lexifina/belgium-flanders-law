@@ -1,0 +1,17 @@
+{
+  "codex_id": 1006896,
+  "title": "Samenwerkingsakkoord van 1998-10-08 tussen de federale staat en de Vlaamse Gemeenschap inzake de begeleiding en behandeling van daders van seksueel misbruik",
+  "type": "Samenwerkingsakkoord",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1006896/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "981d1cfd11643645037972f8d26067b33916256fd7ca3cb8f6d8a6b6e704ef54",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1006896&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "1998-10-08",
+  "gazette": "1999-09-11",
+  "numac": 0,
+  "document_start": null,
+  "document_end": null,
+  "in_force": "2006-06-01",
+  "article_versions": 15,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
