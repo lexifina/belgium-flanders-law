@@ -1,0 +1,17 @@
+{
+  "codex_id": 1004922,
+  "title": "Besluit van de Vlaamse Regering van 1988-02-04 tot delegatie van beslissingsbevoegdheden aan de leden van de Vlaamse regering",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1004922/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "ccc0e740ca725a37303b408eb747886b9c3d7897fe19e8cb291f589d4deb5286",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1004922&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "1988-02-04",
+  "gazette": "1988-02-10",
+  "numac": 1988029136,
+  "document_start": "1988-02-04",
+  "document_end": "1988-10-23",
+  "in_force": "2006-06-01",
+  "article_versions": 8,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
