@@ -1,0 +1,17 @@
+{
+  "codex_id": 1002202,
+  "title": "Besluit van de Vlaamse Regering van 1994-12-22 tot vaststelling van de nadere regels voor het afsluiten van een beheerscontract met de investeringsmaatschappijen",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1002202/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "89816206d2701e3bbebf7030c8e4804664b89b46f2f332130667c04feb757956",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1002202&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "1994-12-22",
+  "gazette": "1995-03-29",
+  "numac": 1995035297,
+  "document_start": "1995-03-29",
+  "document_end": null,
+  "in_force": "2006-06-01",
+  "article_versions": 7,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
