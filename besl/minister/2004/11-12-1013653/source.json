@@ -1,0 +1,17 @@
+{
+  "codex_id": 1013653,
+  "title": "Ministerieel besluit van 2004-11-12 houdende het huishoudelijk reglement van de GRB-raad",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1013653/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "234318f01a1bf35dc3539edf50be792702a02036bf5fa123ffbca703e8f21f34",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1013653&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "2004-11-12",
+  "gazette": "2005-02-04",
+  "numac": 2005035130,
+  "document_start": "2005-02-04",
+  "document_end": null,
+  "in_force": "2006-06-01",
+  "article_versions": 26,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
