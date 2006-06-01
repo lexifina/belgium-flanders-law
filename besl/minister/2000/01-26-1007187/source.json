@@ -1,0 +1,17 @@
+{
+  "codex_id": 1007187,
+  "title": "Ministerieel besluit van 2000-01-26 inzake de kwaliteitszorg in de verenigingen voor gezinseducatie",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1007187/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "459d91848719b7f616eb8c83dc6c0bbe5ce52998d6d35e6e204ce2a0ca8a9bca",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1007187&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "2000-01-26",
+  "gazette": "2000-03-09",
+  "numac": 2000035217,
+  "document_start": "2000-01-01",
+  "document_end": null,
+  "in_force": "2006-06-01",
+  "article_versions": 7,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
