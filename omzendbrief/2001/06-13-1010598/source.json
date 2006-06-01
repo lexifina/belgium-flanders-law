@@ -1,0 +1,17 @@
+{
+  "codex_id": 1010598,
+  "title": "Omzendbrief van 2001-06-13 nr. 29 betreffende de wijziging van het besluit van de Vlaamse regering van 16 juli 1996 houdende vaststelling van de regelen tot de werking en het beheer van het Vlaams Landbouwinvesteringsfonds",
+  "type": "Omzendbrief",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1010598/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "9d423123b179b89c628caa01ba644c425e85bc0f62dc355a1aca11f9304f0a39",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1010598&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "2001-06-13",
+  "gazette": "2003-02-10",
+  "numac": 2003035076,
+  "document_start": null,
+  "document_end": null,
+  "in_force": "2006-06-01",
+  "article_versions": 1,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
