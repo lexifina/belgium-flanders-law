@@ -1,0 +1,17 @@
+{
+  "codex_id": 1008882,
+  "title": "Decreet van 1982-12-15 strekkende tot een beter arbeidsmarktbeleid in het Vlaamse Gewest",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1008882/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "9e236f0d9e4c383f99226ea6d1104b3f2b4b8bdd076838ba15301b90ddd0e481",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1008882&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "1982-12-15",
+  "gazette": "1983-03-18",
+  "numac": 1983012038,
+  "document_start": null,
+  "document_end": null,
+  "in_force": "2006-06-01",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
