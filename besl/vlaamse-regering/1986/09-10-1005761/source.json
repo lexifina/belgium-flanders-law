@@ -1,0 +1,17 @@
+{
+  "codex_id": 1005761,
+  "title": "Besluit van de Vlaamse Regering van 1986-09-10 tot goedkeuring van het reglement houdende de bepaling van de wijze waarop de raad van beheer van het Vlaams-Commissariaat-Generaal voor Toerisme zijn bevoegdheid uitoefent",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1005761/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "0cbfff52c224c04fa3ecad47f4a73e99477b5b9e75da8091408d845fd4b83e4d",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1005761&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "1986-09-10",
+  "gazette": "1987-05-26",
+  "numac": 1987029371,
+  "document_start": "1986-10-01",
+  "document_end": null,
+  "in_force": "2006-06-01",
+  "article_versions": 37,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
