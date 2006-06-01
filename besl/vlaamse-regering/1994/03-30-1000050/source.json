@@ -1,0 +1,17 @@
+{
+  "codex_id": 1000050,
+  "title": "Besluit van de Vlaamse Regering van 1994-03-30 houdende de rechtspositieregeling van het personeel bij arbeidsovereenkomst aangeworven bij de Vlaamse Dienst voor Arbeidsbemiddeling en Beroepsopleiding belast met outplacement en loopbaanbegeleiding",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1000050/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "64f0768b4d1767587e843fc488917883d65c66cfca9a1a3f53a0a02eaea45359",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1000050&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "1994-03-30",
+  "gazette": "1994-04-26",
+  "numac": 1994035533,
+  "document_start": null,
+  "document_end": null,
+  "in_force": "2006-06-01",
+  "article_versions": 16,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
