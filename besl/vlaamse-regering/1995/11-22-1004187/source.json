@@ -1,0 +1,17 @@
+{
+  "codex_id": 1004187,
+  "title": "Besluit van de Vlaamse Regering van 1995-11-22 tot oprichting van de sectoriële commissie Hout en Bouw bij de Sociaal-Economische Raad van Vlaanderen",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1004187/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "0355f119f467498440e9022fc62f698e1efdfbc5935394ffef1d47ecc141e5dc",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1004187&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "1995-11-22",
+  "gazette": "1996-01-30",
+  "numac": 1996036779,
+  "document_start": "1995-12-01",
+  "document_end": null,
+  "in_force": "2006-06-01",
+  "article_versions": 5,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
