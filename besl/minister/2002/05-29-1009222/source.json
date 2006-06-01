@@ -1,0 +1,17 @@
+{
+  "codex_id": 1009222,
+  "title": "Ministerieel besluit van 2002-05-29 houdende vastlegging van de structuur van een gemeentelijk cultuurbeleidsplan, een beleidsplan van een bibliotheek en een beleidsplan van een cultuurcentrum",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1009222/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "bae7328652d5e0afcf72aa38022ed3fe19ce574cb3acc4d0953e21979551639f",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1009222&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "2002-05-29",
+  "gazette": "2002-06-19",
+  "numac": 0,
+  "document_start": null,
+  "document_end": "2013-12-31",
+  "in_force": "2006-06-01",
+  "article_versions": 6,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
