@@ -1,0 +1,17 @@
+{
+  "codex_id": 1003127,
+  "title": "Besluit van de Vlaamse Regering van 1990-12-12 tot vaststelling van het presentiegeld en de vergoedingen van de voorzitter, de ondervoorzitters en de gemeenschapscommissarissen, de leden van de bestuursorganen en van de adviescomités van het Vlaams Fonds voor Sociale Integratie van Personen met een Handicap",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1003127/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "86754a34c99e2c485cec4c06a1f9ba53ee95b2438bb6616e2658bfb538b79d85",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1003127&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "1990-12-12",
+  "gazette": "1991-02-22",
+  "numac": 1991035178,
+  "document_start": "1991-01-01",
+  "document_end": null,
+  "in_force": "2006-06-01",
+  "article_versions": 7,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
