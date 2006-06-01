@@ -1,0 +1,17 @@
+{
+  "codex_id": 1005327,
+  "title": "Omzendbrief van 1997-02-18 BA-97/05 aangaande de wet van 24 december 1996 betreffende de vestiging en de invordering van de provincie- en gemeentebelastingen",
+  "type": "Omzendbrief",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1005327/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "1525b9f72b06ec5410160dbaeecce0f23899e2ea1f15b00881c9f25147131df1",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1005327&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "1997-02-18",
+  "gazette": "1997-03-13",
+  "numac": 1997801889,
+  "document_start": null,
+  "document_end": null,
+  "in_force": "2006-06-01",
+  "article_versions": 1,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
