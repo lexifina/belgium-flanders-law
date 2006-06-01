@@ -1,0 +1,17 @@
+{
+  "codex_id": 1001234,
+  "title": "Besluit van de Vlaamse Regering van 1994-07-20 tot wijziging van het besluit van de Vlaamse regering van 10 juni 1992 betreffende de subsidieregeling van verenigingen voor amateuristische kunstbeoefening in het kader van het nederlandstalige sociaal-cultureel vormings- en ontwikkelingswerk en tot vaststelling van de subsidiabele salarisschalen voor de personeelsleden van de verenigingen voor amateuristische kunstbeoefening.",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1001234/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "4cdb7b1e561904a65acdb04490ee85637b5be434de30e7a42cd2699811c3c16d",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1001234&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "1994-07-20",
+  "gazette": "1994-11-23",
+  "numac": 1994036337,
+  "document_start": "1993-01-01",
+  "document_end": null,
+  "in_force": "2006-06-01",
+  "article_versions": 9,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
