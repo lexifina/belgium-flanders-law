@@ -1,0 +1,17 @@
+{
+  "codex_id": 1007782,
+  "title": "Omzendbrief van 2000-12-22 BA 2000/10 betreffende de verkiezing van de leden van de raad voor maatschappelijk welzijn",
+  "type": "Omzendbrief",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1007782/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "e269cc50f99f5f1d38988ba9f9ca8b983cf3586eee95c7ae79da6cfe38e5272f",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1007782&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "2000-12-22",
+  "gazette": "2001-01-11",
+  "numac": 2001035005,
+  "document_start": null,
+  "document_end": null,
+  "in_force": "2006-06-01",
+  "article_versions": 1,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
