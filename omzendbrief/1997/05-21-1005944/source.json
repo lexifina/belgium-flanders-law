@@ -1,0 +1,17 @@
+{
+  "codex_id": 1005944,
+  "title": "Omzendbrief van 1997-05-21 BA 97/10 betreffende het toepassingsgebied van de wet van 19 december 1974 tot regeling van de betrekkingen tussen de overheid en de vakbonden van haar personeel en van het koninklijk besluit van 28 september 1984 tot uitvoering van die wet",
+  "type": "Omzendbrief",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1005944/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "2eb559d39238cbf5bd02aab84a1f22f072bbc117b0551e11114aca2a9b0cb39e",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1005944&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "1997-05-21",
+  "gazette": "1998-01-31",
+  "numac": 1998035047,
+  "document_start": null,
+  "document_end": null,
+  "in_force": "2006-06-01",
+  "article_versions": 1,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
