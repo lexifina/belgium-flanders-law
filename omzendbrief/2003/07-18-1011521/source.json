@@ -1,0 +1,17 @@
+{
+  "codex_id": 1011521,
+  "title": "Omzendbrief van 2003-07-18 BA-2003/08 betreffende de openbaarheid van de vergaderingen in de openbare centra voor maatschappelijk welzijn",
+  "type": "Omzendbrief",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1011521/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "2bd85f576d0d40a77838f713491e7bac6ce07e88408e3aa8d5e87e2fba4f2665",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1011521&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "2003-07-18",
+  "gazette": "2003-08-19",
+  "numac": 2003035913,
+  "document_start": null,
+  "document_end": null,
+  "in_force": "2006-06-01",
+  "article_versions": 1,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
