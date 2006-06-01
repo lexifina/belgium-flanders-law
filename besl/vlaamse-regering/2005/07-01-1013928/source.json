@@ -1,0 +1,17 @@
+{
+  "codex_id": 1013928,
+  "title": "Besluit van de Vlaamse Regering van 2005-07-01 tot bepaling van de nadere regels voor de aanvraag en de afgifte van het stedenbouwkundig attest",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1013928/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "5e4319fea82da2356ef18f12b8ee601ac2fefb3ab469e7e2ebd23892f843bba2",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1013928&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "2005-07-01",
+  "gazette": "2005-08-23",
+  "numac": 2005035955,
+  "document_start": "2005-10-01",
+  "document_end": "2010-03-31",
+  "in_force": "2006-06-01",
+  "article_versions": 20,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
