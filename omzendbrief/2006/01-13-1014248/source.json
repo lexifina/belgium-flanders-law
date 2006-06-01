@@ -1,0 +1,17 @@
+{
+  "codex_id": 1014248,
+  "title": "Omzendbrief van 2006-01-13 Ba 2006/01 betreffende het Gemeentedecreet en het Provinciedecreet; inwerkingtreding van de bepalingen inzake het bestuurlijk toezicht",
+  "type": "Omzendbrief",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1014248/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "ecf7766525a50e9ec77a89e964ab2ea20a673ac10f2c4f2d3b57463d7f610ed6",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1014248&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "2006-01-13",
+  "gazette": "2006-02-02",
+  "numac": 2006035140,
+  "document_start": "2006-01-13",
+  "document_end": "2018-12-13",
+  "in_force": "2006-06-01",
+  "article_versions": 1,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
