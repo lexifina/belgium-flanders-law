@@ -1,0 +1,17 @@
+{
+  "codex_id": 1011485,
+  "title": "Besluit van de Vlaamse Regering van 2003-06-13 betreffende de omschakeling in de sector ruwe tabak",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1011485/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "6cdc50f2dcef3834e2992dd849b2132ad7c1dcd4be03a8c9eae1c81a072a48e9",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1011485&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "2003-06-13",
+  "gazette": "2003-07-28",
+  "numac": 2003035751,
+  "document_start": "2003-01-01",
+  "document_end": null,
+  "in_force": "2006-06-01",
+  "article_versions": 12,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
