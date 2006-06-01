@@ -1,0 +1,17 @@
+{
+  "codex_id": 1009808,
+  "title": "Besluit van de Vlaamse Regering van 2002-09-13 betreffende de ondersteuning van interfaceactiviteiten van de universiteiten in de Vlaamse Gemeenschap",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1009808/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "71dc2faf3e94e226727fb7088d92571c9e94bfcd1b07d6f21f51718a1dcab92f",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1009808&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "2002-09-13",
+  "gazette": "2002-11-07",
+  "numac": 2002036393,
+  "document_start": null,
+  "document_end": "2009-06-04",
+  "in_force": "2006-06-01",
+  "article_versions": 15,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
