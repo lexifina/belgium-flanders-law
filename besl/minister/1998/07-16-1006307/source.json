@@ -1,0 +1,17 @@
+{
+  "codex_id": 1006307,
+  "title": "Ministerieel besluit van 1998-07-16 houdende de vastlegging van de bevolkingsprojectie zoals bedoeld in artikel 4 van het besluit van de Vlaamse regering van 17 maart 1998 houdende vaststelling van het programma voor dienstencentra, serviceflatgebouwen, woningcomplexen met dienstverlening, rusthuizen en dagverzorgingscentra",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1006307/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "b064d7fafcb8a2a6f16b9dfac2e44ca8d3e3c0a7cf46a2007947a23c54594f6e",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1006307&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "1998-07-16",
+  "gazette": "1998-09-15",
+  "numac": 1998035896,
+  "document_start": "1998-07-01",
+  "document_end": null,
+  "in_force": "2006-06-01",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
