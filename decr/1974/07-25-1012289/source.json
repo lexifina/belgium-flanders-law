@@ -1,0 +1,17 @@
+{
+  "codex_id": 1012289,
+  "title": "Decreet van 1974-07-25 tot het waarborgen van de rechten van de nederlandstalige ideologische en filosofische strekkingen in Brussel-Hoofdstad",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1012289/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "006468e27b4aa5f89d0fede6cb2b1ee6a56b447d63c8ff8206e31e7142b1fd57",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1012289&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "1974-07-25",
+  "gazette": "1974-10-29",
+  "numac": 1974072515,
+  "document_start": "1974-11-08",
+  "document_end": null,
+  "in_force": "2006-06-01",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
