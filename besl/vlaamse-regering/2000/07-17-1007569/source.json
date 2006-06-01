@@ -1,0 +1,17 @@
+{
+  "codex_id": 1007569,
+  "title": "Besluit van de Vlaamse Regering van 2000-07-17 betreffende de overdracht van de leerlingendossiers van de PMS- en MST-Centra naar de centra voor leerlingenbegeleiding",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1007569/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "90ea509c79d1186d86feec93aac1145ad9f594e87ab1287d67ef7c2d97fcaf07",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1007569&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "2000-07-17",
+  "gazette": "2000-10-07",
+  "numac": 2000035955,
+  "document_start": null,
+  "document_end": "2016-12-31",
+  "in_force": "2006-06-01",
+  "article_versions": 16,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
