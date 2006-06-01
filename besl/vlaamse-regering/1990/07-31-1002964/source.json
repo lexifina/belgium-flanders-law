@@ -1,0 +1,17 @@
+{
+  "codex_id": 1002964,
+  "title": "Besluit van de Vlaamse Regering van 1990-07-31 betreffende de concordantie van de leer- en opvoedende activiteiten/vakken/specialiteiten in de opleidingsvormen 1, 2 en 3 van het buitengewoon secundair onderwijs",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1002964/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "710b5c1ba95fb8c01018eae55e5638fda49bc4b6e0f231e61c3cd05a592ecd64",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1002964&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "1990-07-31",
+  "gazette": "1991-05-03",
+  "numac": 1991030447,
+  "document_start": "1990-09-01",
+  "document_end": null,
+  "in_force": "2006-06-01",
+  "article_versions": 8,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
