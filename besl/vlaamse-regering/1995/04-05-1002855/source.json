@@ -1,0 +1,17 @@
+{
+  "codex_id": 1002855,
+  "title": "Besluit van de Vlaamse Regering van 1995-04-05 betreffende de taken van commissaris-coördinator en commissarissen van de Vlaamse regering bij de hogescholen",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1002855/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "bf6e77b547c24c16ad0a89598f03f70ec7e9075a996167dd8268c1989e53c534",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1002855&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "1995-04-05",
+  "gazette": "1995-06-16",
+  "numac": 1995035697,
+  "document_start": "1995-09-01",
+  "document_end": "2014-08-31",
+  "in_force": "2006-06-01",
+  "article_versions": 6,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
