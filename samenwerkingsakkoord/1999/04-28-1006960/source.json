@@ -1,0 +1,17 @@
+{
+  "codex_id": 1006960,
+  "title": "Samenwerkingsakkoord van 1999-04-28 tussen de Federale overheid,de Gemeenschappen en de Gewesten betreffende de deelname van België aan de wereldtentoonstelling van Hannover in 2000",
+  "type": "Samenwerkingsakkoord",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1006960/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "ee77f7d486ad81c5e1f39d570016fdcde1d518f16024feb2a44b8dd403eb1a44",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1006960&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "1999-04-28",
+  "gazette": "1999-09-07",
+  "numac": 0,
+  "document_start": null,
+  "document_end": null,
+  "in_force": "2006-06-01",
+  "article_versions": 9,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
