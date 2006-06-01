@@ -1,0 +1,17 @@
+{
+  "codex_id": 1014169,
+  "title": "Besluit van de Vlaamse Regering van 2005-12-16 tot inwerkingtreding van het decreet van 7 mei 2004 tot oprichting van het intern verzelfstandigd agentschap met rechtspersoonlijkheid Vlaams Agentschap Ondernemen",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1014169/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "605bc89f7487c2a99c1dac8716f5396a980090ef5be7e70cef966f967f1139e1",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1014169&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "2005-12-16",
+  "gazette": "2005-12-30",
+  "numac": 2005036612,
+  "document_start": "2005-12-30",
+  "document_end": "2999-12-31",
+  "in_force": "2006-06-01",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
