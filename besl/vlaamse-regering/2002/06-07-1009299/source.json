@@ -1,0 +1,17 @@
+{
+  "codex_id": 1009299,
+  "title": "Besluit van de Vlaamse Regering van 2002-06-07 betreffende de vorm van de kapvergunning voor houtkavels in openbare bossen en de wijze waarop die wordt afgeleverd",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1009299/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "4ce7c522a86816f3c76731b9712e7acf38fa457a342b7743dae306b3d2ba23a7",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1009299&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "2002-06-07",
+  "gazette": "2002-07-30",
+  "numac": 2002035902,
+  "document_start": null,
+  "document_end": "2020-01-22",
+  "in_force": "2006-06-01",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
