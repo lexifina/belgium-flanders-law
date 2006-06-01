@@ -1,0 +1,17 @@
+{
+  "codex_id": 1006176,
+  "title": "Besluit van de Vlaamse Regering van 1998-04-21 betreffende het uitzenden door de VRT van mededelingen van het Vlaams Parlement, van de Vlaamse regering en van de ministers en staatssecretarissen van het Brusselse Hoofdstedelijke Gewest",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1006176/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "9db54303b18d001f4e72491f54bcd7a2329dbbea8091be992b8e4dc440a969d7",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1006176&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "1998-04-21",
+  "gazette": "1998-06-12",
+  "numac": 1998035589,
+  "document_start": null,
+  "document_end": null,
+  "in_force": "2006-06-01",
+  "article_versions": 8,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
