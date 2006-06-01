@@ -1,0 +1,17 @@
+{
+  "codex_id": 1014423,
+  "title": "Besluit van de Vlaamse Regering van 2006-03-10 houdende algemene bepalingen inzake medisch verantwoorde sportbeoefening bij de deelname van minderjarigen aan sportmanifestaties, proeven, wedstrijden en opleidingen in bepaalde sporttakken",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1014423/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "c4269540dc33cb56fd1b44ba32bc3ec545177bb7f93fb7aacac7c19166112c0c",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1014423&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "2006-03-10",
+  "gazette": "2006-04-18",
+  "numac": 2006035591,
+  "document_start": "2006-04-18",
+  "document_end": null,
+  "in_force": "2006-06-01",
+  "article_versions": 12,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
