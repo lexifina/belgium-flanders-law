@@ -1,0 +1,17 @@
+{
+  "codex_id": 1007697,
+  "title": "Besluit van de Vlaamse Regering van 2000-01-14 tot vaststelling van de bekwaamheidsbewijzen en de weddenschalen voor de ambten van opsteller en intercultureel medewerker in de psycho-medisch-sociale-centra",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1007697/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "c3fc502914a6b03f7635246f1db3b48f88b2f428221f59d80a9f5cd83f0f535f",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1007697&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "2000-01-14",
+  "gazette": "2000-11-25",
+  "numac": 2000036150,
+  "document_start": "1999-09-01",
+  "document_end": null,
+  "in_force": "2006-06-01",
+  "article_versions": 7,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
