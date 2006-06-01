@@ -1,0 +1,17 @@
+{
+  "codex_id": 1012527,
+  "title": "Besluit van de Vlaamse Regering van 2004-03-05 houdende wijziging van het Instituut voor het Archeologisch Patrimonium tot het Vlaams Instituut voor het Onroerend Erfgoed",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1012527/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "f87bd6657aa5f7537bc9efcdac52b17d9bc04baccc8a373c2a6291c9021fd6f9",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1012527&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "2004-03-05",
+  "gazette": "2004-04-13",
+  "numac": 2004035557,
+  "document_start": "2004-03-01",
+  "document_end": "2006-06-30",
+  "in_force": "2006-06-01",
+  "article_versions": 7,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
