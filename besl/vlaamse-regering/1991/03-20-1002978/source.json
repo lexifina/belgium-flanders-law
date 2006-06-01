@@ -1,0 +1,17 @@
+{
+  "codex_id": 1002978,
+  "title": "Besluit van de Vlaamse Regering van 1991-03-20 tot uitvoering, behalve wat de Vlaamse Gemeenschapscommissie betreft, van het decreet van 20 maart 1991 betreffende het Investeringsfonds ter verdeling van de subsidies voor bepaalde onroerende investeringen die in de Vlaamse Gemeenschap en het Vlaamse Gewest door of op initiatief van de provincies, de gemeenten of de Vlaamse Gemeenschapscommissie worden gedaan",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1002978/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "39e6414997a813a3e9c22007e8a34fe1ee5cd1c9d014a55e8dbfa47da90ce395",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1002978&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "1991-03-20",
+  "gazette": "1991-04-30",
+  "numac": 1991035571,
+  "document_start": "1991-01-01",
+  "document_end": null,
+  "in_force": "2006-06-01",
+  "article_versions": 15,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}

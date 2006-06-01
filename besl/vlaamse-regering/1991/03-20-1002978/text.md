@@ -1,0 +1,61 @@
+# Besluit van de Vlaamse Regering van 1991-03-20 tot uitvoering, behalve wat de Vlaamse Gemeenschapscommissie betreft, van het decreet van 20 maart 1991 betreffende het Investeringsfonds ter verdeling van de subsidies voor bepaalde onroerende investeringen die in de Vlaamse Gemeenschap en het Vlaamse Gewest door of op initiatief van de provincies, de gemeenten of de Vlaamse Gemeenschapscommissie worden gedaan
+
+### ART. 1.
+
+Inzake het Investeringsfonds wordt verstaan onder:<br /><br />1° het decreet: het decreet van 20 maart 1991 betreffende het Investeringsfonds ter verdeling van de subsidies voor bepaalde onroerende investeringen die in de Vlaamse Gemeenschap en het Vlaamse Gewest door of op initiatief van de provincies, de gemeenten of de Vlaamse Gemeenschapscommissie worden gedaan;<br /><br />2° onroerende investeringen:<br /><br />a) de aankoop van gebouwen of andere onroerende goederen, met inbegrip van de goederen die onroerend zijn door bestemming of door het voorwerp waarop zij betrekking hebben;<br /><br />b) de uitvoering van werken en de aankoop van materialen nodig voor de uitvoering van werken, met het oog op de realisatie van onroerende investeringen of van onroerende eigendommen;<br /><br />3° infrastructuurwerken:<br /><br />a) het aanleggen van wegen: zijnde de circulatieruimten voor voetgangers, fietsers en gemotoriseerd verkeer met inbegrip van parkeerplaatsen en de vaste constructies binnen de circulatieruimte die verkeersgeleidend of wegondersteunend zijn;<br /><br />b) het aanleggen van riolen die kaderen in het totaal rioleringsplan van de gemeente, en die tot doel hebben de afval- of oppervlaktewaters te centraliseren naar het verzamelpunt van het (deel-)bekken, van waaruit het water, eventueel via een prioritaire riolering, naar een collector of waterzuiveringsinstallatie wordt afgevoerd; inbegrepen de aansluitingen, voor zover deze gelegen zijn op het openbaar domein, van private bebouwde of nog te bouwen onroerende goederen;<br /><br />c) het aanleggen en geschikt maken van circulatieruimten voor voetgangers, van plantsoenen en grasperken, alsmede van de hiertoe noodzakelijke grondwerken en grondverbeteringen, de verhardingen en vaste constructies ter verwezenlijking van plant-, water- en speelvakken;<br /><br />d) het aanleggen en uitbreiden van het watervoorzieningsnet, hydranten inbegrepen;<br /><br />e) de openbare verlichting;<br /><br />4° infrastructuurwerken op gronden bestemd voor industrie, het ambachtswezen en de diensten: de werken zoals aangehaald onder 3°, alsmede het bouwen van kaaimuren en de aanleg van spoorwegzaten;<br /><br />5° werken aan het openbaar domein in herwaarderingsgebieden: de werken zoals aangehaald onder 3°.
+
+### ART. 2.
+
+Dit besluit is van toepassing op de financiering van de toelagen voor de onroerende investeringen zoals bepaald in artikel 2, eerste lid, van het decreet, behalve wat het deel van het Investeringsfonds betreft dat als toelage wordt gegeven aan de Vlaamse Gemeenschapscommissie.
+
+### ART. 3.
+
+De onroerende investeringen kunnen worden gefinancierd met trekkingsrechten die de provincies of gemeenten kunnen besteden ten belope van:<br /><br />a) ten hoogste 87,6 % van het totale bedrag van de betoelaagbare uitgaven, verminderd met het bedrag van de toegekende subsidie waarin het decreet van 31 juli 1990 betreffende het onderwijs II voorziet, voor het bouwen, uitbreiden, verbouwen of moderniseren van scholen, voor zover voldaan wordt aan de geldende fysische en financiële normen;<br /><br />b) [100 % van de betoelaagbare uitgaven voor alle andere investeringen.  <span class="reference">(verv. B.V.R. 2 maart 1999, art. 1, I: 17 april 1999)</span> ]
+
+### ART. 4.
+
+De waarde van het in artikel 3 bedoelde totale bedrag van de betoelaagbare uitgaven is die van de reële kostprijs, beperkt tot het gunningsbedrag, inclusief B.T.W., van de onroerende investering en, wat het aankopen van onroerende goederen betreft, die van de kostprijs van de aankoop, inclusief de aktekosten.<br /><br />Wat de onroerende leasing en de promotieopdrachten betreft, is de waarde van het totale bedrag de kostprijs van de onroerende investering waarop de verbintenis betrekking heeft, inclusief de B.T.W. en de aktekosten.
+
+### ART. 5.
+
+De Provinciegouverneur verleent, in naam en voor rekening van de Vlaamse Gemeenschap, aan de gemeenten de toestemming tot gebruik van trekkingsrechten voor een bepaalde investering en geeft machtiging tot de betaling met trekkingsrechten, op voorwaarde dat:<br /><br />1° hij de overeenkomst tussen de Vlaamse regering en de N.V. Gemeentekrediet van België naleeft;<br /><br />2° hij toestaat dat het Rekenhof ter plaatse een controle a posteriori verricht met betrekking tot de toepassing van het decreet.
+
+### ART. 6.
+
+§ 1. De aanvraag tot gebruik van trekkingsrechten ter financiering van een bepaalde onroerende investering van een gemeente of een gemeentebedrijf, gebeurt in een besluit van het college van burgemeester en schepenen en wordt samen met het ontwerpbesluit van gunning en, wat de aankoop van een onroerend goed betreft, samen met het desbetreffend besluit van de gemeenteraad en het ontwerp van koopakte, aan de Provinciegouverneur gezonden.<br /><br />De aanvraag tot gebruik van trekkingsrechten ter financiering van een leasing- of een promotie-overeenkomst van een gemeente of een gemeentebedrijf, gebeurt in een besluit van het college van burgemeester en schepenen en wordt samen met het desbetreffend gemeenteraadsbesluit en het ontwerp van specifieke overeenkomst, aan de Provinciegouverneur gezonden.<br /><br />§ 2. De aanvraag tot gebruik van trekkingsrechten ter financiering van een bepaalde onroerende investering van een provincie, gebeurt in een besluit van de bestendige deputatie van de provincieraad en wordt samen met het ontwerp van gunning en, wat de aankoop van een onroerend goed betreft, samen met het desbetreffend besluit van de provincieraad en het ontwerp van koopakte, aan de Vlaamse regering gezonden.<br /><br />De aanvraag tot gebruik van trekkingsrechten ter financiering van een leasing- of een promotie-overeenkomst van een provincie, gebeurt in een besluit van de bestendige deputatie van de provincieraad en wordt samen met het desbetreffend besluit van de provincieraad en het ontwerp van specifieke overeenkomst, aan de Vlaamse regering gezonden.
+
+### ART. 7.
+
+[§1. De provinciegouverneur machtigt het Gemeentekrediet van België om de trekkingsrechten op de rekening van de gemeenten te storten. Hij machtigt de vrijgave van:<br /><br />1° voorschotten:<br /><br />- tot 25 % van het toegekende bedrag, bij ontvangst van een eensluidend verklaard afschrift van het bevel om met de werkzaamheden te beginnen;<br /><br />- tot 75 % van het toegekende bedrag, wanneer uit de vorderingsstaten en de daarbijhorende facturen van de aannemer blijkt dat 60 % van de geplande werkzaamheden is uitgevoerd en 60 % van de kostprijs, inclusief BTW, verschuldigd is;<br /><br />2° het resterende saldo, na overlegging van de nodige bewijsstukken, namelijk de volledige eindafrekening en het proces-verbaal van voorlopige oplevering van het werk.<br /><br />Wat de leasing- en promotie-overeenkomsten betreft, machtigt de provinciegouverneur het Gemeentekrediet van België om de trekkingsrechten op de rekening van de gemeenten te storten na overlegging van een eensluidend verklaard afschrift van het proces-verbaal van voorlopige oplevering van het werk en van het afrekeningsdossier.<br /><br />Wat de verwerving van een onroerend goed betreft, machtigt de provinciegouverneur het Gemeentekrediet van België om de trekkingsrechten op de rekening van de gemeenten te storten na overlegging van een eensluidend verklaard afschrift van de akte van aankoop van het onroerend goed of van het vonnis van de rechtbank houdende gerechtelijke onteigening.<br /><br />§ 2. De Vlaamse regering machtigt het Gemeentekrediet van België om de trekkingsrechten op de rekening van de provincies te storten. Zij machtigt de vrijgaven van:<br /><br />1° voorschotten:<br /><br />- tot 25 % van het toegekende bedrag, bij ontvangst van een eensluidend verklaard afschrift van het bevel om met de wekzaamheden te beginnen;<br /><br />- tot 75 % van het toegekende bedrag, wanneer uit de vorderingsstaten en de daarbijhorende facturen van aannemer blijkt dat 60 % van de geplande werkzaamheden is uitgevoerd en 60 % van de kostprijs, inclusief BTW, verschuldigd is;<br /><br />2° het resterende saldo, na overlegging van de nodige bewijsstukken, namelijk de volledige eindafrekening en het proces-verbaal van voorlopige oplevering van het werk.<br /><br />Wat de leasing- en promotie-overeenkomsten betreft, machtigt de Vlaamse regering het Gemeentekrediet van België om de trekkingsrechten op de rekening van de provincies te storten na overlegging van een eensluidend verklaard afschrift van het proces-verbaal van voorlopige oplevering van de werken en van het afrekeningsdossier.<br /><br />Wat de verwerving van een onroerend goed betreft, machtigt de Vlaamse regering het Gemeentekrediet van België om de trekkingsrechten op de rekening van de provincies te storten na overlegging van een eensluidend verklaard afschrift van de akte van aankoop van het onroerend goed of van het vonnis van de rechtbank houdende gerechtelijke onteigening.  <span class="reference">(verv. B.V.R. 1 juni 1995, art. 1, I: 1 juni 1995)</span> ]
+
+### ART. 8.
+
+Voor de toepassing van de artikelen 5, 6 § 1 en 7, § 1, met betrekking tot de gemeenten van het Nederlandse Taalgebied gelegen in de provincie Brabant, wordt in de plaats van de "Gouverneur", "Vice-gouverneur" gelezen.
+
+### ART. 9.
+
+Bij de toestemming tot gebruik en bij de machtiging tot betaling worden de oudste trekkingsrechten eerst volledig uitgeput alvorens er trekkingsrechten van een volgend jaar kunnen gebruikt worden.
+
+### ART. 10.
+
+[De cumulatie van trekkingsrechten uit het Investeringsfonds met een andere investeringssubsidie is toegelaten.<br /><br />De gecumuleerde subsidie is beperkt tot het totale bedrag van de subsidieerbare uitgaven van de desbetreffende werken.  <span class="reference">(verv. B.V.R. 2 maart 1999, art. 2, I: 17 april 1999)</span> ]
+
+### ART. 11.
+
+De provincies en gemeenten zijn verplicht de trekkingsrechten gebruikt ter financiering van een onroerende investering, en de trekkingsrechten en uitzonderlijke toelagen verkregen ingevolge de toepassing van het decreet van 24 januari 1985 houdende instelling van een Investeringsfonds, terug te storten in het Investeringsfonds wanneer, zonder de uitdrukkelijke toestemming van de Vlaamse regering, binnen een termijn van twintig jaar de bestemming van de onroerende investering wordt gewijzigd of de onroerende investering wordt vervreemd. Deze termijn gaat in op de dag dat, op basis van de eindafrekening van de desbetreffende investering, de trekkingsrechten op rekening van de gemeenten werden gestort.<br /><br />De provincies en gemeenten zijn eveneens verplicht de trekkingsrechten gebruikt ter financiering van de verwerving van een onbebouwd onroerend goed terug te storten in het Investeringsfonds, wanneer, zonder een uitdrukkelijke toestemming van de Vlaamse regering, binnen een termijn van vijf jaar ingaande de dag waarop het trekkingsrecht op de rekening van de gemeente werd gestort, de gunning van de investeringsopdracht, die nodig is om de doelstelling te verwezenlijken waarvoor de verwerving gebeurde, niet werd toegewezen.
+
+### ART. 12.
+
+Het saldo op 1 januari 1991, van de trekkingsrechten die aan elke gemeente zijn toegekend op basis van het decreet van 24 januari 1985, blijft voor de gemeente verworven. Het wordt besteed overeenkomstig de bepalingen van het decreet en dit uitvoeringsbesluit.
+
+### ART. 13.
+
+Binnen de perken van het toepassingsgebied van het decreet, en onverminderd artikel 11 ervan, worden de koninklijke besluiten en de besluiten van de Vlaamse regering, die op de in het decreet vermelde materies van toepassing zijn, opgeheven met ingang van 1 januari 1991.
+
+### ART. 14.
+
+Dit besluit heeft uitwerking met ingang van 1 januari 1991.
+
+### ART. 15.
+
+De Vlaamse minister, bevoegd voor de Binnenlandse Aangelegenheden, is belast met de uitvoering van dit besluit.
