@@ -1,0 +1,17 @@
+{
+  "codex_id": 1004806,
+  "title": "Besluit van de Vlaamse Regering van 1996-07-24 betreffende het uitzetten van fazanten",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1004806/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "2d2cfc1982039210dd1f67f47bc5bc1fa34f362bf54acb47d97c969b8d14effd",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1004806&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "1996-07-24",
+  "gazette": "1996-08-01",
+  "numac": 1996035864,
+  "document_start": "1996-08-01",
+  "document_end": null,
+  "in_force": "2006-06-01",
+  "article_versions": 18,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
