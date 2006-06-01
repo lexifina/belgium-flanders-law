@@ -1,0 +1,17 @@
+{
+  "codex_id": 1008500,
+  "title": "Decreet van 2001-12-14 voor enkele bouwvergunningen waarvoor dwingende redenen van groot algemeen belang gelden",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1008500/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "97551dc279dbd8630e748f0c5ddd26071d756e4bd29769dff8e77cd617276427",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1008500&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "2001-12-14",
+  "gazette": "2001-12-20",
+  "numac": 2001036440,
+  "document_start": "2001-12-20",
+  "document_end": null,
+  "in_force": "2006-06-01",
+  "article_versions": 12,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
