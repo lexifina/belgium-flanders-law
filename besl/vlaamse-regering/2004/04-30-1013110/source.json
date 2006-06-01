@@ -1,0 +1,17 @@
+{
+  "codex_id": 1013110,
+  "title": "Besluit van de Vlaamse Regering van 2004-04-30 tot vaststelling van de statuten van de Vlaamse Vervoermaatschappij - De Lijn",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1013110/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "91c8f0eafe06dbbc518334b9ea2029958406b6ac447d15fe341f3180e66e891e",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1013110&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "2004-04-30",
+  "gazette": "2004-06-11",
+  "numac": 2004035907,
+  "document_start": null,
+  "document_end": "2012-01-14",
+  "in_force": "2006-06-01",
+  "article_versions": 30,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
