@@ -1,0 +1,17 @@
+{
+  "codex_id": 1007163,
+  "title": "Omzendbrief van 2000-01-17 AZ/VOI/2000/1 betreffende de uitvoering van enkele maatregelen opgenomen in het ontwerp van stambesluit Vlaamse openbare instellingen",
+  "type": "Omzendbrief",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1007163/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "290d2ed4bd524d85bba51fea8e633092099f172e5bb27f733921f931693ac7d8",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1007163&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "2000-01-17",
+  "gazette": "2000-02-18",
+  "numac": 2000035090,
+  "document_start": null,
+  "document_end": null,
+  "in_force": "2006-06-01",
+  "article_versions": 1,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
