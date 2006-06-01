@@ -1,0 +1,17 @@
+{
+  "codex_id": 1007334,
+  "title": "Besluit van de Vlaamse Regering van 2000-04-28 tot erkenning van geval van overmacht inzake steun aan de bedrijfsbegeleiding van land- en tuinbouwbedrijven in financiële moeilijkheden",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1007334/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "0bfb4a77c886e91e9f65bd92f7f70518841d6bbff8ab1b75873d304bf327c1ef",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1007334&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "2000-04-28",
+  "gazette": "2000-06-21",
+  "numac": 2000035599,
+  "document_start": null,
+  "document_end": null,
+  "in_force": "2006-06-01",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
