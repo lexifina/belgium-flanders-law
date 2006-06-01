@@ -1,0 +1,17 @@
+{
+  "codex_id": 1005209,
+  "title": "Besluit van de Vlaamse Regering van 1996-10-22 houdende oprichting van een Vlaams Observatorium voor de Werkgelegenheid",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1005209/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "af6a10a8d3ecaa64d79bb6ad99217775e783edfb0889c66cc3d7eda5a0787d9e",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1005209&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "1996-10-22",
+  "gazette": "1997-02-14",
+  "numac": 1997036550,
+  "document_start": "1997-02-14",
+  "document_end": null,
+  "in_force": "2006-06-01",
+  "article_versions": 9,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
