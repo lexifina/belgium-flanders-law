@@ -1,0 +1,17 @@
+{
+  "codex_id": 1004771,
+  "title": "Decreet van 1996-07-08 betreffende het onderwijs VII",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1004771/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "49b17e02ec1c5bc37a9dad3869c17c8a0d56b46bfd8983fa96d839b441a9679f",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1004771&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "1996-07-08",
+  "gazette": "1996-09-05",
+  "numac": 1996036078,
+  "document_start": null,
+  "document_end": null,
+  "in_force": "2006-06-01",
+  "article_versions": 200,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
