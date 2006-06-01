@@ -1,0 +1,17 @@
+{
+  "codex_id": 1013720,
+  "title": "Ministerieel besluit van 2005-02-22 tot uitvoering van bepaalde bepalingen van het besluit van de Vlaamse Regering van 18 februari 2005 betreffende bepaalde procedurele aspecten van de waarborgregeling voor kleine en middelgrote ondernemingen",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1013720/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "d9a7f1e2389b6416975602ea04139064a61514492bd8fd931c70b97b593c1fcb",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1013720&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "2005-02-22",
+  "gazette": "2005-04-13",
+  "numac": 2005035333,
+  "document_start": "2005-03-16",
+  "document_end": "2023-01-27",
+  "in_force": "2006-06-01",
+  "article_versions": 19,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
