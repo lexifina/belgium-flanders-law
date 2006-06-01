@@ -1,0 +1,17 @@
+{
+  "codex_id": 1005465,
+  "title": "Besluit van de Vlaamse Regering van 1997-06-17 over de wijze van verdeling en de aanvraagprocedure om personeelsleden te krijgen die ten behoeve van het basisonderwijs met verlof zijn voor de ondersteuning van de lokale comités",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1005465/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "865a6c15ea561bc96b51353a203da9c4477187f1116e832c75f4305212314b64",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1005465&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "1997-06-17",
+  "gazette": "1997-07-12",
+  "numac": 1997035825,
+  "document_start": "1997-09-01",
+  "document_end": null,
+  "in_force": "2006-06-01",
+  "article_versions": 7,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
