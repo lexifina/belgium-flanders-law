@@ -1,0 +1,17 @@
+{
+  "codex_id": 1011834,
+  "title": "Decreet van 1975-05-07 betreffende het bewijs van de kennis van het Nederlands in de arbeidsgeneeskundige diensten",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1011834/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "1c5c6dcaa39665c07f797021710119b49490d94ea60d169a360fad45b7e30de3",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1011834&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "1975-05-07",
+  "gazette": "1975-05-24",
+  "numac": 1975050702,
+  "document_start": "1975-06-03",
+  "document_end": null,
+  "in_force": "2006-06-01",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
