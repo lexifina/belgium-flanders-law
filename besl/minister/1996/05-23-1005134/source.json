@@ -1,0 +1,17 @@
+{
+  "codex_id": 1005134,
+  "title": "Ministerieel besluit van 1996-05-23 tot uitvoering van het besluit van de Vlaamse regering van 21 december 1992 betreffende de permanente vorming van de personen die in de Landbouw werkzaam zijn, gewijzigd bij het besluit van de Vlaamse regering van 13 december 1995, voor het bekomen van een installatie-attest",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1005134/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "fbaf68bc6ce96419ca212fd042a2e03bd441360483594580947e114f37e014f3",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1005134&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "1996-05-23",
+  "gazette": "1997-02-04",
+  "numac": 1997035033,
+  "document_start": "1996-01-01",
+  "document_end": null,
+  "in_force": "2006-06-01",
+  "article_versions": 6,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
