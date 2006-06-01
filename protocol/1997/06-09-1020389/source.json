@@ -1,0 +1,17 @@
+{
+  "codex_id": 1020389,
+  "title": "Protocol van 1997-06-09 gesloten tussen de federale regering en de overheden bedoeld in de artikelen 128, 130 en 135 van de Grondwet, over het te voeren ouderenzorgbeleid",
+  "type": "Protocol",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1020389/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "5f50e367db20bf50b13f029c5637c3ed65d1a43050b45208d8c6c67a3e91cc80",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1020389&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "1997-06-09",
+  "gazette": "1997-07-30",
+  "numac": 1997022443,
+  "document_start": "1997-06-09",
+  "document_end": null,
+  "in_force": "2006-06-01",
+  "article_versions": 11,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
