@@ -1,0 +1,17 @@
+{
+  "codex_id": 1002863,
+  "title": "Samenwerkingsakkoord van 1994-07-12 houdende uitvoering van artikel 6bis, §2, punt 6 van de bijzondere wet van 8 augustus 1980 tot hervorming der instellingen, ingevoegd door de wet van 8 augustus 1988 en gewijzigd bij de wet van 16 juli 1993",
+  "type": "Samenwerkingsakkoord",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1002863/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "2b3f1b5a5dd77a0c83025410d4500f01112c189a1cfdfb86c91f3b411aa90dac",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1002863&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "1994-07-12",
+  "gazette": "1995-06-17",
+  "numac": 0,
+  "document_start": null,
+  "document_end": null,
+  "in_force": "2006-06-01",
+  "article_versions": 1,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
