@@ -1,0 +1,17 @@
+{
+  "codex_id": 1009444,
+  "title": "Besluit van de Vlaamse Regering van 2002-05-24 tot vaststelling van de gebieden die in uitvoering van artikel 4, lid 1, van Richtlijn 92/43/EEG van de Raad van de Europese Gemeenschappen van 21 mei 1992 inzake de instandhouding van de natuurlijke habitats en de wilde flora en fauna aan de Europese Commissie zijn voorgesteld als speciale beschermingszones",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1009444/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "d188064ce36fcadab6c3e1c4f79691543fe3c00b701f4819b30e67d7da22cadb",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1009444&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "2002-05-24",
+  "gazette": "2002-08-17",
+  "numac": 2002036027,
+  "document_start": "2002-08-17",
+  "document_end": null,
+  "in_force": "2006-06-01",
+  "article_versions": 13,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
