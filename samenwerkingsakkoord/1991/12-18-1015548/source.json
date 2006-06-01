@@ -1,0 +1,17 @@
+{
+  "codex_id": 1015548,
+  "title": "Samenwerkingsakkoord van 1991-12-18 tussen de Staat, het Waalse Gewest, het Vlaamse Gewest en het Brusselse Hoofdstedelijk Gewest m.b.t. de coördinatie van de activiteiten i.v.m. energie",
+  "type": "Samenwerkingsakkoord",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1015548/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "204c9679d221d2c6923c91f12d51ef9272d23dfe44ce7ee864d7723ed60a1854",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1015548&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "1991-12-18",
+  "gazette": "1992-02-26",
+  "numac": 0,
+  "document_start": null,
+  "document_end": null,
+  "in_force": "2006-06-01",
+  "article_versions": 24,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
