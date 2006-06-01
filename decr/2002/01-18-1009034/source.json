@@ -1,0 +1,17 @@
+{
+  "codex_id": 1009034,
+  "title": "Decreet van 2002-01-18 tot bekrachtiging van de eindtermen van de tweede en derde graad van het gewoon secundair onderwijs",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1009034/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "e2f576306d3c2b332fb520d04eb82d2af881d1c95771fcff67dd9928f23ff2d3",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1009034&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "2002-01-18",
+  "gazette": "2002-04-19",
+  "numac": 2002035492,
+  "document_start": null,
+  "document_end": null,
+  "in_force": "2006-06-01",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
