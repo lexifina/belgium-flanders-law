@@ -1,0 +1,17 @@
+{
+  "codex_id": 1007949,
+  "title": "Besluit van de Vlaamse Regering van 2001-04-20 houdende de erkenning en subsidiëring van centra voor bedrijfsbegeleiding in de biologische landbouw",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1007949/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "3441d3da5ca8d594e766a6d4abc5c134d1aff261e83777411c584eea3791f519",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1007949&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "2001-04-20",
+  "gazette": "2001-04-28",
+  "numac": 2001035461,
+  "document_start": null,
+  "document_end": "2014-03-31",
+  "in_force": "2006-06-01",
+  "article_versions": 14,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
