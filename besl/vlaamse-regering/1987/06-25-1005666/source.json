@@ -1,0 +1,17 @@
+{
+  "codex_id": 1005666,
+  "title": "Besluit van de Vlaamse Regering van 1987-06-25 tot vaststelling van de praktische modaliteiten ter uitvoering van artikel 4 van het decreet van 23 december 1986 houdende het invoeren van een eenvormige medische urgentiekaart",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1005666/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "4d318b565c6c65ca9ec60bd33922096781a232c1d4ba7369cd607d3ea1e797c8",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1005666&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "1987-06-25",
+  "gazette": "1987-09-30",
+  "numac": 1987029744,
+  "document_start": "1987-06-15",
+  "document_end": null,
+  "in_force": "2006-06-01",
+  "article_versions": 8,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
