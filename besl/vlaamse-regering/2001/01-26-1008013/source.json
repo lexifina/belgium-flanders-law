@@ -1,0 +1,17 @@
+{
+  "codex_id": 1008013,
+  "title": "Besluit van de Vlaamse Regering van 2001-01-26 betreffende het financiële en materiële beheer van de [dienst met afzonderlijke beheer Catering en Schoonmaak]",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1008013/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "193c2ce04ffc05024ce83fc32a38532893e9aa52d992917430a6557660773ede",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1008013&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "2001-01-26",
+  "gazette": "2001-06-22",
+  "numac": 2001035621,
+  "document_start": "2000-01-01",
+  "document_end": "2011-12-31",
+  "in_force": "2006-06-01",
+  "article_versions": 24,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
