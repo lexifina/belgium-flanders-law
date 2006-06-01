@@ -1,0 +1,17 @@
+{
+  "codex_id": 1010789,
+  "title": "Besluit van de Vlaamse Regering van 2002-12-13 houdende uitvoering van het decreet van 19 juli 2002 houdende de privaatrechtelijke culturele archiefwerking",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1010789/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "7a958bfccdfcb2e01f1b89ad515a52c56c843c0e5a46582e81d7af25ddb8754b",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1010789&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "2002-12-13",
+  "gazette": "2003-03-20",
+  "numac": 2003200303,
+  "document_start": "2003-01-01",
+  "document_end": "2008-12-31",
+  "in_force": "2006-06-01",
+  "article_versions": 29,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
