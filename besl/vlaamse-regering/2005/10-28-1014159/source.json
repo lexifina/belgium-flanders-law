@@ -1,0 +1,17 @@
+{
+  "codex_id": 1014159,
+  "title": "Besluit van de Vlaamse Regering van 2005-10-28 houdende machtiging van de Vlaamse Reguleringsinstantie van de Elektriciteits- en Gasmarkt (VREG) tot deelname aan de pensioenregeling ingesteld bij de wet van 28 april 1958 betreffende het pensioen van het personeel van zekere organismen van openbaar nut alsmede van hun rechthebbenden",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1014159/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "3197a2b1e3048dccacdb68a8228a328f53c6eaff7616ce4dd6d099b9b8ec8144",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1014159&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "2005-10-28",
+  "gazette": "2005-12-29",
+  "numac": 2005036616,
+  "document_start": "2006-01-01",
+  "document_end": null,
+  "in_force": "2006-06-01",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
