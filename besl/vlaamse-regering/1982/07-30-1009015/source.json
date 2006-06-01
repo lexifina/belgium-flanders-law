@@ -1,0 +1,17 @@
+{
+  "codex_id": 1009015,
+  "title": "Besluit van de Vlaamse Regering van 1982-07-30 tot oprichting en organisatie van de adviescommissies voor het secundair kunstonderwijs",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1009015/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "1e75edfa4ed4ea2e3b23c16e85c6edbe018f2799ba4b60c40b7a43aa4ff89442",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1009015&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "1982-07-30",
+  "gazette": "1982-12-14",
+  "numac": 1982001842,
+  "document_start": "1982-09-01",
+  "document_end": null,
+  "in_force": "2006-06-01",
+  "article_versions": 12,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
