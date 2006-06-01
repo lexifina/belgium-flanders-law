@@ -1,0 +1,17 @@
+{
+  "codex_id": 1013175,
+  "title": "Besluit van de Vlaamse Regering van 2004-04-02 houdende de werking van het universitair Steunpunt Werkgelegenheid, Arbeid en Vorming",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1013175/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "2085db46b6ed4d3f4b9f48736f422965f7d07842d2e1175d88cca5dea99e8bd7",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1013175&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "2004-04-02",
+  "gazette": "2004-07-05",
+  "numac": 2004036051,
+  "document_start": null,
+  "document_end": "2006-12-31",
+  "in_force": "2006-06-01",
+  "article_versions": 5,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
