@@ -1,0 +1,17 @@
+{
+  "codex_id": 1001973,
+  "title": "Ministerieel besluit van 1994-12-07 houdende aanwijzing van de categorieën van ambtenaren van de Administratie Milieu-, Natuur-, Land- en Waterbeheer, belast met het toezicht op de naleving van het decreet van 2 juli 1981 betreffende de voorkoming en het beheer van afvalstoffen en de uitvoeringsbesluiten ervan, inzonderheid wat de bossen en aanverwante grondoppervlakten, de onbevaarbare waterlopen en de natuurreservaten betreft",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1001973/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "0fbdf07c2fecd2001daa3ae221bbdae331e553f69a1729233262b17aaf95a58b",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1001973&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "1994-12-07",
+  "gazette": "1995-02-25",
+  "numac": 0,
+  "document_start": null,
+  "document_end": null,
+  "in_force": "2006-06-01",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
