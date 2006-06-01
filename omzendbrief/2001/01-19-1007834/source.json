@@ -1,0 +1,17 @@
+{
+  "codex_id": 1007834,
+  "title": "Omzendbrief van 2001-01-19 BA 2001/01 betreffende de certificering van Dexia-aandelen",
+  "type": "Omzendbrief",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1007834/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "20a6fef9469fb808278e79291d1a46f9f80974d2e403cbaf14642c0b1ee808e5",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1007834&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "2001-01-19",
+  "gazette": "2001-02-15",
+  "numac": 0,
+  "document_start": null,
+  "document_end": null,
+  "in_force": "2006-06-01",
+  "article_versions": 1,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
