@@ -1,0 +1,17 @@
+{
+  "codex_id": 1005320,
+  "title": "Besluit van de Vlaamse Regering van 1996-12-19 houdende de subsidiëring van het bouwrijp maken van gronden en de aanleg van de infrastructuur en gemeenschapsvoorzieningen voor sociale woonwijken",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1005320/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "d87ab8f17b45a5569d24702481a6014c31219b917b0f77c41645f4408c92eb4e",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1005320&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "1996-12-19",
+  "gazette": "1997-03-06",
+  "numac": 1997035197,
+  "document_start": null,
+  "document_end": "2006-06-30",
+  "in_force": "2006-06-01",
+  "article_versions": 16,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
