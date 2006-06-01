@@ -1,0 +1,17 @@
+{
+  "codex_id": 1014329,
+  "title": "Besluit van de Vlaamse Regering van 2006-02-10 houdende de bepaling van het bedrag van de vergoedingen en de vergoedingen voor reis- en verblijfsonkosten die aan de leden van de Vlaamse Regulator voor de Media worden toegekend",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1014329/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "18364df4c025d64ea7812d41e9e26a6da859f21b91962af348a4936223a6c916",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1014329&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "2006-02-10",
+  "gazette": "2006-03-07",
+  "numac": 2006035317,
+  "document_start": "2006-02-10",
+  "document_end": null,
+  "in_force": "2006-06-01",
+  "article_versions": 7,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
