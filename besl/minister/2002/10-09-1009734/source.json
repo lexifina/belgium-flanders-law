@@ -1,0 +1,17 @@
+{
+  "codex_id": 1009734,
+  "title": "Ministerieel besluit van 2002-10-09 houdende de vaststelling van de procedures voor de geschillenadviescommissie, bedoeld in artikel 23 van het besluit van de Vlaamse regering van 18 mei 2001 betreffende de toekenning van subsidies voor het toepassen van milieuvriendelijke landbouwproductiemethoden en het in stand houden van de genetische diversiteit",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1009734/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "a3a509b8c270c62d0a794d20bb1209cbca0269f37382dcaf321390ef00188a39",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1009734&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "2002-10-09",
+  "gazette": "2002-10-16",
+  "numac": 2002036298,
+  "document_start": "2002-09-15",
+  "document_end": null,
+  "in_force": "2006-06-01",
+  "article_versions": 12,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
