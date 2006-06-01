@@ -1,0 +1,17 @@
+{
+  "codex_id": 1013645,
+  "title": "Ministerieel besluit van 2004-12-24 houdende vaststelling van de personeelsformatie van de Vlaamse Landmaatschappij",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1013645/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "9dcfa3e0edb0c0f14f77ae04bf0a3ca1028bd5fd0de9875b0140cdc5be940af8",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1013645&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "2004-12-24",
+  "gazette": "2005-01-31",
+  "numac": 2005035071,
+  "document_start": null,
+  "document_end": null,
+  "in_force": "2006-06-01",
+  "article_versions": 6,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
