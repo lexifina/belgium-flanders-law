@@ -1,0 +1,17 @@
+{
+  "codex_id": 1001938,
+  "title": "Besluit van de Vlaamse Regering van 1992-03-18 tot vaststelling van de voorwaarden en de wijze waarop de commissarissen van de Vlaamse regering bij de Gewestelijke Ontwikkelingsmaatschappijen in dienst worden genomen",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1001938/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "3415cd38ee89be4213ac3e943713beb05c87fce9986655acb9fbc88b55ddb0a4",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1001938&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "1992-03-18",
+  "gazette": "1992-05-14",
+  "numac": 1992035565,
+  "document_start": "1991-11-01",
+  "document_end": null,
+  "in_force": "2006-06-01",
+  "article_versions": 11,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
