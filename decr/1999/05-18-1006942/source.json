@@ -1,0 +1,17 @@
+{
+  "codex_id": 1006942,
+  "title": "Decreet van 1999-05-18 houdende oprichting van een Herplaatsingsfonds",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1006942/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "d5977f00d1d622404b68470e5eaf4521fe3589dd63ea058579a6a74daeb98f77",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1006942&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "1999-05-18",
+  "gazette": "1999-09-24",
+  "numac": 1999036230,
+  "document_start": null,
+  "document_end": "2999-12-31",
+  "in_force": "2006-06-01",
+  "article_versions": 11,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
