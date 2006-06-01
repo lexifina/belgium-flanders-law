@@ -1,0 +1,17 @@
+{
+  "codex_id": 1013229,
+  "title": "Besluit van de Vlaamse Regering van 2004-06-04 houdende de omschrijving van de territoriale bevoegdheid van De Scheepvaart",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1013229/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "7c2f7848d87e974d93153f4c185296f8089ca4cd38869f5d94fffb8ca8addade",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1013229&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "2004-06-04",
+  "gazette": "2004-07-14",
+  "numac": 2004036174,
+  "document_start": null,
+  "document_end": "2017-12-31",
+  "in_force": "2006-06-01",
+  "article_versions": 5,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
