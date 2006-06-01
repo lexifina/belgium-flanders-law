@@ -1,0 +1,17 @@
+{
+  "codex_id": 1006279,
+  "title": "Bijzonder Decreet van 1998-07-14 houdende uitvoering van artikel 37bis van de bijzondere wet van 8 augustus 1980 tot hervorming der instellingen",
+  "type": "Bijzonder Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1006279/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "ef04d178ce0d38f97169d26584af528f6ec4472e91c62c854a07b416031a60f9",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1006279&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "1998-07-14",
+  "gazette": "1998-08-26",
+  "numac": 1998035870,
+  "document_start": null,
+  "document_end": "2006-10-26",
+  "in_force": "2006-06-01",
+  "article_versions": 2,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
