@@ -1,0 +1,17 @@
+{
+  "codex_id": 1013398,
+  "title": "Besluit van de Vlaamse Regering van 2004-07-14 houdende de bekrachtiging van de reglementen van de instellingen voor hoger onderwijs met betrekking tot de afwijkende algemene of bijzondere toelatingsvoorwaarden tot een bachelorsopleiding",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1013398/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "14d516ec668f08fa35085c21bd657f9418b81540d65f1535507200abfd29b0a0",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1013398&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "2004-07-14",
+  "gazette": "2004-09-09",
+  "numac": 2004036383,
+  "document_start": "2004-10-01",
+  "document_end": null,
+  "in_force": "2006-06-01",
+  "article_versions": 90,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
