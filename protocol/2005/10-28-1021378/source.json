@@ -1,0 +1,17 @@
+{
+  "codex_id": 1021378,
+  "title": "Protocol van 2005-10-28 tussen de Federale Staat en de Gewesten inzake niet voor menselijke consumptie bestemde dierlijke bijproducten",
+  "type": "Protocol",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1021378/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "adb418f679858cd1d8c198498ab291a81ed41bd4db450a80578dc7655ff346d9",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1021378&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "2005-10-28",
+  "gazette": "2005-12-12",
+  "numac": 2005022925,
+  "document_start": null,
+  "document_end": "2014-02-07",
+  "in_force": "2006-06-01",
+  "article_versions": 126,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
