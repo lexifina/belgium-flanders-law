@@ -1,0 +1,17 @@
+{
+  "codex_id": 1014455,
+  "title": "Ministerieel besluit van 2006-03-30 houdende delegatie van specifieke bevoegdheden inzake het landbouwbeleid en de zeevisserij aan de leidend ambtenaar van het departement Landbouw en Visserij",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1014455/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "6c7d9423007dc166eb5d7977c0b578a62790b2d0ca5751bcd78dcbb75f22a2ce",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1014455&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "2006-03-30",
+  "gazette": "2006-04-21",
+  "numac": 2006035598,
+  "document_start": null,
+  "document_end": "2015-04-30",
+  "in_force": "2006-06-01",
+  "article_versions": 11,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
