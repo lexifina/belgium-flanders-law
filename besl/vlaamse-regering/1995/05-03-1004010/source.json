@@ -1,0 +1,17 @@
+{
+  "codex_id": 1004010,
+  "title": "Besluit van de Vlaamse Regering van 1995-05-03 tot regeling van de vrijstelling inzake successierechten verbonden aan de maatschappelijke rechten in vennootschappen opgericht in het kader van de realisatie en/of financiering van investeringsprogramma's van serviceflats",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1004010/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "c12ee48e7633a88e01198e28548a260720ec702e1eb62821c4c3e50031918d19",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1004010&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "1995-05-03",
+  "gazette": "1995-09-20",
+  "numac": 1995036250,
+  "document_start": "1995-09-20",
+  "document_end": null,
+  "in_force": "2006-06-01",
+  "article_versions": 16,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
