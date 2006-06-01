@@ -1,0 +1,17 @@
+{
+  "codex_id": 1003357,
+  "title": "Omzendbrief van 1990-08-16 aangaande de wet van 17 oktober 1921 betreffende de openbare bibliotheken, gewijzigd bij de wetten van 19 juni 1947 en 7 juli 1969",
+  "type": "Omzendbrief",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1003357/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "77addb275235adad799d1f729291f25582facdb89596ec43f12944c95c90d577",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1003357&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "1990-08-16",
+  "gazette": "1990-09-25",
+  "numac": 0,
+  "document_start": null,
+  "document_end": null,
+  "in_force": "2006-06-01",
+  "article_versions": 2,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
