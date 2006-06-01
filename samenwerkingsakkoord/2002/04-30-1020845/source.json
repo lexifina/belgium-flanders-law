@@ -1,0 +1,17 @@
+{
+  "codex_id": 1020845,
+  "title": "Samenwerkingsakkoord van 2002-04-30 tussen de Federale Staat, de Duitstalige Gemeenschap, de Franse Gemeenschap en de Vlaamse Gemeenschap betreffende het gesloten centrum voor voorlopige plaatsing van minderjarigen die een als misdrijf omschreven feit hebben gepleegd.",
+  "type": "Samenwerkingsakkoord",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1020845/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "65d8be7f5a7f61d2575caaef60d431705c2ab45df06dfd19d5731d3c1263462d",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1020845&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "2002-04-30",
+  "gazette": "0001-01-01",
+  "numac": 0,
+  "document_start": "2002-03-01",
+  "document_end": null,
+  "in_force": "2006-06-01",
+  "article_versions": 37,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
