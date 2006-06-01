@@ -1,0 +1,17 @@
+{
+  "codex_id": 1011787,
+  "title": "Decreet van 1975-09-25 tot verbetering van de sociaalrechtelijke terminologie in de overheidsdiensten",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1011787/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "8525546f1439690aa1c2721026604f3363fa633ebe9d07768d01cd6a8fcd233f",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1011787&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "1975-09-25",
+  "gazette": "1975-10-22",
+  "numac": 1975092502,
+  "document_start": null,
+  "document_end": null,
+  "in_force": "2006-06-01",
+  "article_versions": 2,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
