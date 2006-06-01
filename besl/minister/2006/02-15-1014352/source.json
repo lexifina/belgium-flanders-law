@@ -1,0 +1,17 @@
+{
+  "codex_id": 1014352,
+  "title": "Ministerieel besluit van 2006-02-15 tot bepaling van de standaard voor de titel van autobuschauffeur",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1014352/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "d6b0cc017f2fd6beaffd57d7d1d2e8d751db803e6c21435809cc0c2be0a7e39a",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1014352&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "2006-02-15",
+  "gazette": "2006-03-13",
+  "numac": 2006035325,
+  "document_start": "2006-03-13",
+  "document_end": "2018-12-31",
+  "in_force": "2006-06-01",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
