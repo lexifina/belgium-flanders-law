@@ -1,0 +1,17 @@
+{
+  "codex_id": 1003789,
+  "title": "Besluit van de Vlaamse Regering van 1994-07-20 tot vaststelling van de weddeschalen van de werknemers tewerkgesteld in het derde arbeidscircuit",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1003789/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "adaa99559dc4b91ed04b8eec8f9b35d11a5b0f71fe2e9a1d200a91ebc63ab545",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1003789&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "1994-07-20",
+  "gazette": "1995-07-29",
+  "numac": 1995036053,
+  "document_start": "1993-01-01",
+  "document_end": null,
+  "in_force": "2006-06-01",
+  "article_versions": 11,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
