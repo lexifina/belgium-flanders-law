@@ -1,0 +1,17 @@
+{
+  "codex_id": 1030516,
+  "title": "Samenwerkingsakkoord van 2018-12-21 betreffende het gebruik van de FM-frequentie Brussegem 95.2 MHz",
+  "type": "Samenwerkingsakkoord",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1030516/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "d2e71b2db84ed1e8eb061b5e244a13ad171bead1f9a786c7ef92736d8f3c5aec",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1030516&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "2018-12-21",
+  "gazette": "0001-01-01",
+  "numac": 0,
+  "document_start": "2019-05-10",
+  "document_end": null,
+  "in_force": "2006-06-01",
+  "article_versions": 5,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
