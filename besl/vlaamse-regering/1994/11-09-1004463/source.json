@@ -1,0 +1,17 @@
+{
+  "codex_id": 1004463,
+  "title": "Besluit van de Vlaamse Regering van 1994-11-09 houdende de algemene regels met betrekking tot de overeenkomsten te sluiten met [het Agentschap Waterwegen en Zeekanaal] betreffende het grondbeheer",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1004463/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "674b0be8bc7d8716f9843934b52a1422d5f688af5880126ad77f37833930448e",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1004463&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "1994-11-09",
+  "gazette": "1996-02-29",
+  "numac": 1996035249,
+  "document_start": null,
+  "document_end": null,
+  "in_force": "2006-06-01",
+  "article_versions": 20,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
