@@ -1,0 +1,17 @@
+{
+  "codex_id": 1013701,
+  "title": "Ministerieel besluit van 2004-12-20 houdende delegatie van sommige bevoegdheden inzake werkgelegenheid aan personeelsleden van het ministerie van de Vlaamse Gemeenschap",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1013701/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "374c8d481bd65e7382f57a35cd8d2440ab2b98495aefd5f194e0a0aaf104069e",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1013701&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "2004-12-20",
+  "gazette": "2005-03-22",
+  "numac": 2005035323,
+  "document_start": "2005-01-01",
+  "document_end": null,
+  "in_force": "2006-06-01",
+  "article_versions": 16,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
