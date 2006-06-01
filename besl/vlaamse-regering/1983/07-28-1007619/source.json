@@ -1,0 +1,17 @@
+{
+  "codex_id": 1007619,
+  "title": "Besluit van de Vlaamse Regering van 1983-07-28 tot vaststelling van de vorm van het begrotingsontwerp, het boekhoudplan en het boekhoudkundig reglement van de Vlaamse Waterzuiveringsmaatschappij en de Waterzuiveringsmaatschappij van het Kustbekken",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1007619/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "4f66cdd2065e3a6795456c5e9758f7b1379e9c60fb5552a5aecd04d58999557f",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1007619&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "1983-07-28",
+  "gazette": "1983-08-25",
+  "numac": 1983005482,
+  "document_start": "1984-01-01",
+  "document_end": null,
+  "in_force": "2006-06-01",
+  "article_versions": 9,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
