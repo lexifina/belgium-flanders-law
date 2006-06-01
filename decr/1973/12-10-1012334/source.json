@@ -1,0 +1,17 @@
+{
+  "codex_id": 1012334,
+  "title": "Decreet van 1973-12-10 betreffende de officiële benaming van de taal gebruikt door de [Vlaamse Gemeenschap]",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1012334/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "4d4c324b1996b1454d739a7e0a3e28fa9e54ccd98adfd61649173d3c65f1c39a",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1012334&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "1973-12-10",
+  "gazette": "1974-04-10",
+  "numac": 1973121009,
+  "document_start": "1974-04-20",
+  "document_end": null,
+  "in_force": "2006-06-01",
+  "article_versions": 5,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
