@@ -1,0 +1,17 @@
+{
+  "codex_id": 1014443,
+  "title": "Besluit van de Vlaamse Regering van 2006-03-17 betreffende het tijdelijke project voor de toekenning van extra lestijden aan de scholen van het basisonderwijs in de gemeenten die grenzen aan de Brusselse randgemeenten en in de gemeenten die grenzen aan het Brussels Hoofdstedelijk Gewest",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1014443/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "f0a4999054f299a246875f0f3ffd0d8f6833bb4b639aba04e6a5dbafc1b4c390",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1014443&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "2006-03-17",
+  "gazette": "2006-04-20",
+  "numac": 2006035585,
+  "document_start": null,
+  "document_end": "2012-08-31",
+  "in_force": "2006-06-01",
+  "article_versions": 9,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
