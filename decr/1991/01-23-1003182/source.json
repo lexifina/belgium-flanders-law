@@ -1,0 +1,17 @@
+{
+  "codex_id": 1003182,
+  "title": "Decreet van 1991-01-23 tot oprichting van Export Vlaanderen",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1003182/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "934ce07918a4fee8c6a019ff32d92a15521150ac8d56cda4bb4acfa03342327e",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1003182&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "1991-01-23",
+  "gazette": "1991-02-02",
+  "numac": 1991030536,
+  "document_start": null,
+  "document_end": null,
+  "in_force": "2006-06-01",
+  "article_versions": 29,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
