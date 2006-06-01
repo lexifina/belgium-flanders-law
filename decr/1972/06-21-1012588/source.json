@@ -1,0 +1,17 @@
+{
+  "codex_id": 1012588,
+  "title": "Decreet van 1972-06-21 betreffende de gevolgen van een vernieuwing van [het Vlaams Parlement ten aanzien van de bij het Vlaams Parlement] aanhangige ontwerpen en voorstellen van decreet",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1012588/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "57b0014be873fddbf5008d17637ecd2deae399613ae158fc222bb329eb4889dd",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1012588&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "1972-06-21",
+  "gazette": "1972-06-29",
+  "numac": 1972062101,
+  "document_start": "1972-07-09",
+  "document_end": null,
+  "in_force": "2006-06-01",
+  "article_versions": 2,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
