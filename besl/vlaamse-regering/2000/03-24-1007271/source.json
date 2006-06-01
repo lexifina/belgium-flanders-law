@@ -1,0 +1,17 @@
+{
+  "codex_id": 1007271,
+  "title": "Besluit van de Vlaamse Regering van 2000-03-24 tot aanwijzing van de sectoren waarvoor uitzonderlijk de termijn wordt verlengd voor de aanpassing van de erkenningsvoorwaarden en procedureregels voor erkenning in het kader van het decreet van 29 april 1997 inzake de kwaliteitszorg in de welzijnsvoorzieningen",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1007271/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "2969b4c41528f1bc2eefe68901e2d84672ef267c33150bbcf83fb4aa69e3a9e9",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1007271&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "2000-03-24",
+  "gazette": "2000-05-19",
+  "numac": 2000035435,
+  "document_start": "2000-01-01",
+  "document_end": null,
+  "in_force": "2006-06-01",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
