@@ -1,0 +1,17 @@
+{
+  "codex_id": 1000318,
+  "title": "Besluit van de Vlaamse Regering van 1993-12-22 houdende maatregelen ter uitvoering van het project \"geïntegreerde opvang van kinderen van zigeuners of woonwagenbewoners\" in het basisonderwijs",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1000318/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "895dff7a719822d54d567e9f4d04fc41fb03622cac3ea46227ee2353e5f9a088",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1000318&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "1993-12-22",
+  "gazette": "1994-03-24",
+  "numac": 1994035273,
+  "document_start": null,
+  "document_end": "2012-08-31",
+  "in_force": "2006-06-01",
+  "article_versions": 9,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
