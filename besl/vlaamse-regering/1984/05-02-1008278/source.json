@@ -1,0 +1,17 @@
+{
+  "codex_id": 1008278,
+  "title": "Besluit van de Vlaamse Regering van 1984-05-02 houdende reglement voor het personeel van de Waterzuiveringsmaatschappij van het Kustbekken",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1008278/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "ab1f9a71a38d2f176248a1193fbfa53feddd002b6b1418802ad1299b99b93027",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1008278&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "1984-05-02",
+  "gazette": "1984-07-21",
+  "numac": 1984024060,
+  "document_start": null,
+  "document_end": null,
+  "in_force": "2006-06-01",
+  "article_versions": 8,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
