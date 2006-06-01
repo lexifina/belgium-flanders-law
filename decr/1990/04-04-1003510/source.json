@@ -1,0 +1,17 @@
+{
+  "codex_id": 1003510,
+  "title": "Decreet van 1990-04-04 houdende instelling van een tweejaarlijkse prijs van de Vlaamse Gemeenschap voor een werk over een wetenschappelijk onderwerp",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1003510/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "91950cc31ff3a783f94c129d589c2fff422e3e4b9d2c7da26d3b8e7819306326",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1003510&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "1990-04-04",
+  "gazette": "1990-07-04",
+  "numac": 1990029771,
+  "document_start": null,
+  "document_end": "2005-08-31",
+  "in_force": "2006-06-01",
+  "article_versions": 6,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
