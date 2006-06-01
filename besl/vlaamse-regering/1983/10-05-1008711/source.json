@@ -1,0 +1,17 @@
+{
+  "codex_id": 1008711,
+  "title": "Besluit van de Vlaamse Regering van 1983-10-05 tot vaststelling van de presentiegelden en vergoedingen ten voordele van de voorzitter, de leden en de deskundigen van de Raad van Niet-Openbare Radio's",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1008711/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "2d630b6a827c0403f2e4f92d985f6c3d0be5635ed0fb22725b8938e3821b9176",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1008711&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "1983-10-05",
+  "gazette": "1983-11-04",
+  "numac": 1983023592,
+  "document_start": null,
+  "document_end": null,
+  "in_force": "2006-06-01",
+  "article_versions": 5,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
