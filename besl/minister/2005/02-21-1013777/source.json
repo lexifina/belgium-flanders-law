@@ -1,0 +1,17 @@
+{
+  "codex_id": 1013777,
+  "title": "Ministerieel besluit van 2005-02-21 houdende de bepaling van de vorm van de beslissingen inzake verkavelingsaanvragen volgens het decreet van 18 mei 1999 houdende de organisatie van de ruimtelijke ordening",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1013777/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "4f94d1b7cfe5413bb5f152191f243d17f31dbda765d08ee4628883291bb08862",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1013777&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "2005-02-21",
+  "gazette": "2005-05-11",
+  "numac": 2005035523,
+  "document_start": null,
+  "document_end": "2009-08-31",
+  "in_force": "2006-06-01",
+  "article_versions": 2,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
