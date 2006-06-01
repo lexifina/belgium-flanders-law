@@ -1,0 +1,17 @@
+{
+  "codex_id": 1002104,
+  "title": "Besluit van de Vlaamse Regering van 1991-12-19 tot wijziging van het besluit van de Vlaamse regering van 12 juli 1990 betreffende de concordantie van de vakken en specialiteiten in het gewoon secundair onderwijs met volledig leerplan",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1002104/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "a22e1bc5c7adbc788c1c52c85ffc427630a34de52b507554ea39ffee545686d2",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1002104&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "1991-12-19",
+  "gazette": "1992-03-14",
+  "numac": 1992035267,
+  "document_start": null,
+  "document_end": null,
+  "in_force": "2006-06-01",
+  "article_versions": 9,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
