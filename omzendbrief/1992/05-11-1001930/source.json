@@ -1,0 +1,17 @@
+{
+  "codex_id": 1001930,
+  "title": "Omzendbrief van 1992-05-11 LH 92/1 inzake de toepassing van artikel 74 van titel I van het VLAREM",
+  "type": "Omzendbrief",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1001930/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "916971dbced0efa70bc6e9e49a398fc80826f6531ba998a4275fb8ff930da481",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1001930&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "1992-05-11",
+  "gazette": "1992-05-21",
+  "numac": 0,
+  "document_start": null,
+  "document_end": null,
+  "in_force": "2006-06-01",
+  "article_versions": 1,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
