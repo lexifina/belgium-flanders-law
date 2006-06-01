@@ -1,0 +1,17 @@
+{
+  "codex_id": 1011742,
+  "title": "Ministerieel besluit van 2003-10-31 houdende uitvoering van artikel 33, 1e lid, van het besluit van de Vlaamse regering van 28 september 2001 houdende de erkenning, de registratie en de machtiging en houdende de aansluiting, de aanvraag en de tenlasteneming in het kader van de zorgverzekering",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1011742/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "08f7f5eb4587a3433336023ed0ebd88f64d7f8d87af0256f1e279e3e5a824780",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1011742&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "2003-10-31",
+  "gazette": "2003-11-27",
+  "numac": 2003202027,
+  "document_start": "2003-11-01",
+  "document_end": "2018-12-31",
+  "in_force": "2006-06-01",
+  "article_versions": 6,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
