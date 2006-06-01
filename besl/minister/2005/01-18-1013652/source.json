@@ -1,0 +1,17 @@
+{
+  "codex_id": 1013652,
+  "title": "Ministerieel besluit van 2005-01-18 houdende de delegatie van sommige bevoegdheden inzake het landbouwbeleid en de zeevisserij aan personeelsleden van het ministerie van de Vlaamse Gemeenschap",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1013652/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "357ddba57f92e12beaeb6609feb7b8c401a5e991cc3e3749c77cd039c4ed53d8",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1013652&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "2005-01-18",
+  "gazette": "2005-02-04",
+  "numac": 2005035117,
+  "document_start": "2005-02-04",
+  "document_end": "2006-03-31",
+  "in_force": "2006-06-01",
+  "article_versions": 19,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
