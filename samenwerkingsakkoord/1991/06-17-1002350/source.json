@@ -1,0 +1,17 @@
+{
+  "codex_id": 1002350,
+  "title": "Samenwerkingsakkoord van 1991-06-17 tussen de Staat, het Vlaamse Gewest, het Waalse Gewest en het Brusselse Hoofdstedelijk Gewest betreffende de bouwtechnische kwaliteitszorg",
+  "type": "Samenwerkingsakkoord",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1002350/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "e2edca388ef9c190e6591e4a928d3864e2fc84dbeef11be7a41e940ef80ccd0a",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1002350&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "1991-06-17",
+  "gazette": "1991-12-11",
+  "numac": 0,
+  "document_start": "1991-06-18",
+  "document_end": null,
+  "in_force": "2006-06-01",
+  "article_versions": 8,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
