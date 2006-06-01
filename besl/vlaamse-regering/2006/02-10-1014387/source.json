@@ -1,0 +1,17 @@
+{
+  "codex_id": 1014387,
+  "title": "Besluit van de Vlaamse Regering van 2006-02-10 betreffende de uitreiking van premies aan leerlingen in studierichtingen van het secundair onderwijs die leiden naar de invulling van knelpuntenberoepen",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1014387/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "c21663af2f3af05fc2b75e7e8b584d441c1a06b445c1d7ade0d8bf3720d9abd3",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1014387&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "2006-02-10",
+  "gazette": "2006-03-24",
+  "numac": 2006035434,
+  "document_start": "2005-09-01",
+  "document_end": null,
+  "in_force": "2006-06-01",
+  "article_versions": 10,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
