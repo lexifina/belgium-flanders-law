@@ -1,0 +1,17 @@
+{
+  "codex_id": 1004251,
+  "title": "Besluit van de Vlaamse Regering van 1996-01-31 tot regeling van de administratieve en geldelijke situatie van de administrateur-generaal en de directeurs-generaal van de Nederlandse Radio- en Televisie-uitzendingen in België, Omroep van de Vlaamse Gemeenschap",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1004251/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "35a10cc706d24673d16ca2d65f91cde25b2b20ab327aee312c56b73b4ce2898e",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1004251&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "1996-01-31",
+  "gazette": "1996-02-09",
+  "numac": 1996035151,
+  "document_start": null,
+  "document_end": null,
+  "in_force": "2006-06-01",
+  "article_versions": 6,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
