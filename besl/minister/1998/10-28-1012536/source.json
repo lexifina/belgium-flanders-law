@@ -1,0 +1,17 @@
+{
+  "codex_id": 1012536,
+  "title": "Ministerieel besluit van 1998-10-28 houdende toekenning van een toelage voor onregelmatige prestaties aan het personeel van de wetenschappelijke inrichtingen van het Ministerie van Middenstand en Landbouw",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1012536/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "567ce07394c02e7ee6a82c628977aa3d40d1f409a7a09df4639eb2aab7cd7f5e",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1012536&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "1998-10-28",
+  "gazette": "1998-11-19",
+  "numac": 0,
+  "document_start": null,
+  "document_end": null,
+  "in_force": "2006-06-01",
+  "article_versions": 10,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
