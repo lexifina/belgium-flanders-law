@@ -1,0 +1,17 @@
+{
+  "codex_id": 1007998,
+  "title": "Besluit van de Vlaamse Regering van 2001-04-27 houdende de voorwaarden inzake financiële ondersteuning van zelfstandige opvangvoorzieningen",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1007998/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "b7645d56db6aa74b3e0e47a0b843a7dea2bcdd85f10040447d99a10bcd8cbad0",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1007998&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "2001-04-27",
+  "gazette": "2001-06-16",
+  "numac": 2001035581,
+  "document_start": "2001-01-01",
+  "document_end": "2006-12-31",
+  "in_force": "2006-06-01",
+  "article_versions": 23,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
