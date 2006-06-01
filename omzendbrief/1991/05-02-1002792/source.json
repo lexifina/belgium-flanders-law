@@ -1,0 +1,17 @@
+{
+  "codex_id": 1002792,
+  "title": "Omzendbrief van 1991-05-02 AW/91-1 in toepassing van artikel 8 van het besluit van de Vlaamse regering van 6 januari 1983 tot vaststelling van de voorwaarden voor de erkenning van laboratoria ter uitvoering van de wet van 26 maart 1971 op de bescherming van de oppervlaktewateren tegen verontreiniging en in toepassing van artikel 8 van het koninklijk besluit van 23 oktober 1965 betreffende de inrichting en de werking van de laboratoria voor de ontleding van voedingswaren",
+  "type": "Omzendbrief",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1002792/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "60be71c8921adfea66bf59fc862bb1de28cb090fff3a0df04bc24a49c22e846c",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1002792&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "1991-05-02",
+  "gazette": "1991-06-18",
+  "numac": 1991801112,
+  "document_start": null,
+  "document_end": null,
+  "in_force": "2006-06-01",
+  "article_versions": 1,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
