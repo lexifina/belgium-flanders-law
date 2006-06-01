@@ -1,0 +1,17 @@
+{
+  "codex_id": 1012114,
+  "title": "Besluit van de Vlaamse Regering van 2004-01-23 houdende vaststelling en organisatie van de indeling van geslachte varkens",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1012114/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "46d3e83a6b26b42d16f9f18b2f24980fe0b230ec79eded0914779842535ac703",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1012114&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "2004-01-23",
+  "gazette": "2004-02-24",
+  "numac": 2004035267,
+  "document_start": "2004-02-24",
+  "document_end": "2013-06-29",
+  "in_force": "2006-06-01",
+  "article_versions": 33,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
