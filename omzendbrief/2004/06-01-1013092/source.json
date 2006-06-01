@@ -1,0 +1,17 @@
+{
+  "codex_id": 1013092,
+  "title": "Omzendbrief van 2004-06-01 RO/2004/1 betreffende de verdere opheffing van omzendbrieven en richtlijnen inzake ruimtelijke ordening - Herwerking 2004",
+  "type": "Omzendbrief",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1013092/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "6ad6d5f217c08a609417df37965315bf39a3d7aa1d35c2c68cd4321724784557",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1013092&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "2004-06-01",
+  "gazette": "2004-06-10",
+  "numac": 2004035888,
+  "document_start": "2004-06-20",
+  "document_end": "2016-12-30",
+  "in_force": "2006-06-01",
+  "article_versions": 1,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
