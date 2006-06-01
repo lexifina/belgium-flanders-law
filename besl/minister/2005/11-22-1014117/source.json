@@ -1,0 +1,17 @@
+{
+  "codex_id": 1014117,
+  "title": "Ministerieel besluit van 2005-11-22 betreffende de toekenning van subsidies voor de vermindering van gewasbeschermingsmiddelen en meststoffen in de sierteelt in toepassing van het Vlaams Programma voor PLattelandsontwikkeling",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1014117/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "75847b96b493ba877335bb17899d153507047c46f49e3ae48b6b2ffa80de93ee",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1014117&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "2005-11-22",
+  "gazette": "2005-12-02",
+  "numac": 2005036489,
+  "document_start": "2005-12-02",
+  "document_end": "2006-12-31",
+  "in_force": "2006-06-01",
+  "article_versions": 17,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
