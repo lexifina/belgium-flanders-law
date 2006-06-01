@@ -1,0 +1,17 @@
+{
+  "codex_id": 1000108,
+  "title": "Besluit van de Vlaamse Regering van 1983-07-28 houdende toekenningsvoorwaarden van het bedrag voor de Vlaamse Gemeenschap van de dagprijs voorzien in artikel 3, §6, van het koninklijk besluit van 10 november 1967 tot instelling van een Fonds voor medische, sociale en pedagogische zorg voor gehandicapten en houdende wijziging van het koninklijk besluit van 30 maart 1973 tot bepaling van de te volgen gemeenschappelijke regels voor de vaststelling van de toelagen per dag toegekend voor onderhoud, opvoeding en behandeling van minderjarigen en gehandicapten, geplaatst ten laste van de openbare besturen, van het ministerieel besluit van 24 april 1973 en van het ministerieel besluit van 18 juni 1975",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1000108/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "5acb2633f32144034438e139ec3a495bd4136dcfa08e0a1a9b1e0cd8f54553c3",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1000108&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "1983-07-28",
+  "gazette": "1983-09-30",
+  "numac": 1983023468,
+  "document_start": null,
+  "document_end": null,
+  "in_force": "2006-06-01",
+  "article_versions": 5,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
