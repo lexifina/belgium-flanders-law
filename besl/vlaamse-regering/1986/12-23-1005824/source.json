@@ -1,0 +1,17 @@
+{
+  "codex_id": 1005824,
+  "title": "Besluit van de Vlaamse Regering van 1986-12-23 tot vaststelling van de personeelsformatie van het Vlaams Fonds voor de bouw van ziekenhuizen en medische-sociale instellingen",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1005824/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "f6169a839cf7697771c9229e9bc586957179c1bdb699f9480e3b524ccae9b72b",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1005824&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "1986-12-23",
+  "gazette": "1987-03-14",
+  "numac": 1986029172,
+  "document_start": "1987-01-01",
+  "document_end": null,
+  "in_force": "2006-06-01",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
