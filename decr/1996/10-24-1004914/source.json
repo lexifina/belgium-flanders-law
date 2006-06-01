@@ -1,0 +1,17 @@
+{
+  "codex_id": 1004914,
+  "title": "Decreet van 1996-10-24 tot goedkeuring van het Verdrag tot verbod van de ontwikkeling, de productie, de aanleg van voorraden en het gebruik van chemische wapens en inzake de vernietiging van deze wapens en van drie bijlagen, ondertekend in Parijs op 13 januari 1993",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1004914/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "cd26e7739a10f9bdf3e4755b2c7e67f9f94c8b26f1bf9675e95b46f5f8c8a050",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1004914&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "1996-10-24",
+  "gazette": "1996-11-29",
+  "numac": 1996036370,
+  "document_start": "1996-12-09",
+  "document_end": null,
+  "in_force": "2006-06-01",
+  "article_versions": 1,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
