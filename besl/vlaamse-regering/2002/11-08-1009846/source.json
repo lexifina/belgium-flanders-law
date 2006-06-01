@@ -1,0 +1,17 @@
+{
+  "codex_id": 1009846,
+  "title": "Besluit van de Vlaamse Regering van 2002-11-08 houdende de voorwaarden tot toekenning van subsidies afkomstig van de over de Vlaamse Gemeenschap verdeelde winst van de Nationale Loterij",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1009846/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "2951cc708c53dc72e69998a7af8abcf363831727550d82d8841376decd5ca5d0",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1009846&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "2002-11-08",
+  "gazette": "2002-11-28",
+  "numac": 2002036459,
+  "document_start": "2002-11-28",
+  "document_end": "2024-08-03",
+  "in_force": "2006-06-01",
+  "article_versions": 13,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
