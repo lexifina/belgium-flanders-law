@@ -1,0 +1,17 @@
+{
+  "codex_id": 1009841,
+  "title": "Besluit van de Vlaamse Regering van 2002-09-20 tot vaststelling van de [vakgebonden eindtermen (verv. BVR 16 oktober 2009, art. 4)] van het derde leerjaar van de derde graad van het gewoon beroepssecundair onderwijs",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1009841/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "291ed9119b27222d9e0f27659268661a07547cb29a3054248e77a81677245be9",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1009841&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "2002-09-20",
+  "gazette": "2002-11-28",
+  "numac": 2002036435,
+  "document_start": "2006-09-01",
+  "document_end": null,
+  "in_force": "2006-06-01",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
