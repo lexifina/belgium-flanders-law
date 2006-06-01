@@ -1,0 +1,17 @@
+{
+  "codex_id": 1000107,
+  "title": "Decreet van 1994-05-04 tot aanpassing van de decreten, wetten, koninklijke en ministeriële besluiten aan de federale terminologie en aan de toepassing van artikel 198 van de Grondwet",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1000107/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "4cad1cf2d72a0c3728886d51edecc19f68d5a641cf807be343426782b1c7d20e",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1000107&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "1994-05-04",
+  "gazette": "1994-06-23",
+  "numac": 1994035724,
+  "document_start": null,
+  "document_end": null,
+  "in_force": "2006-06-01",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
