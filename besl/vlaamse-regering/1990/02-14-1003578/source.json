@@ -1,0 +1,17 @@
+{
+  "codex_id": 1003578,
+  "title": "Besluit van de Vlaamse Regering van 1990-02-14 houdende machtiging van de Vlaamse Dienst voor Arbeidsbemiddeling en Beroepsopleiding tot deelname aan de pensioenregeling, ingesteld bij de wet van 28 april 1958 betreffende het pensioen van het personeel van zekere organismen van openbaar nut alsmede van hun rechthebbenden",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1003578/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "2d112ba9352df301bf8b6bac46fc91d0453b8d1ffe962f90a47c0d580a231cd1",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1003578&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "1990-02-14",
+  "gazette": "1990-04-26",
+  "numac": 1990029473,
+  "document_start": "1988-12-29",
+  "document_end": null,
+  "in_force": "2006-06-01",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
