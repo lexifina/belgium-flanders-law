@@ -1,0 +1,17 @@
+{
+  "codex_id": 1007948,
+  "title": "Besluit van de Vlaamse Regering van 2001-04-20 tot regeling van de vrijwillige, volledige en definitieve stopzetting van de productie van alle dierlijke mest, afkomstig van varkens",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1007948/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "d8165e83f908689922e8f07c8c3f36a0f6c0afd6bbacfb86b17e9b985b878d3c",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1007948&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "2001-04-20",
+  "gazette": "2001-04-28",
+  "numac": 2001035430,
+  "document_start": null,
+  "document_end": null,
+  "in_force": "2006-06-01",
+  "article_versions": 17,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
