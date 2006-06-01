@@ -1,0 +1,17 @@
+{
+  "codex_id": 1014001,
+  "title": "Besluit van de Vlaamse Regering van 2005-07-01 houdende de goedkeuring van de wijziging van de statuten van de Vlaamse Huisvestingsmaatschappij",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1014001/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "d3dc415e07040130f9dd4a39de17d3b1fa8a2f7b5fa80fc817f6523ba500e257",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1014001&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "2005-07-01",
+  "gazette": "2005-07-26",
+  "numac": 2005035842,
+  "document_start": null,
+  "document_end": null,
+  "in_force": "2006-06-01",
+  "article_versions": 39,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
