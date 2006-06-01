@@ -1,0 +1,17 @@
+{
+  "codex_id": 1002564,
+  "title": "Besluit van de Vlaamse Regering van 1991-05-03 tot vaststelling van het begrotings- en rekeningstelsel van de Vlaamse Gemeenschapscommissie",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1002564/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "e4c6c547cfdc83a1a4eda14f7ccaa2991e4a47fb0e7f09a46aacb495d42753b8",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1002564&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "1991-05-03",
+  "gazette": "1991-09-06",
+  "numac": 1991036032,
+  "document_start": null,
+  "document_end": "2021-12-31",
+  "in_force": "2006-06-01",
+  "article_versions": 83,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
