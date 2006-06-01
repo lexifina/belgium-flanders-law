@@ -1,0 +1,17 @@
+{
+  "codex_id": 1006811,
+  "title": "Omzendbrief van 1999-06-10 betreffende de uitvoering van het kwaliteitsdecreet in de centra voor geestelijke gezondheidszorg",
+  "type": "Omzendbrief",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1006811/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "aa273075b263a585e93ffad5be6b0b1b5ec7c7448b05fd81bb663fa0c68da867",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1006811&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "1999-06-10",
+  "gazette": "1999-08-06",
+  "numac": 0,
+  "document_start": null,
+  "document_end": null,
+  "in_force": "2006-06-01",
+  "article_versions": 1,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
