@@ -1,0 +1,17 @@
+{
+  "codex_id": 1000605,
+  "title": "Omzendbrief van 1993-12-15 B.A. 93/11 betreffende de te volgen procedures bij het ter beschikking stellen van gemeentelijke eigendommen aan particulieren en het geven van opdrachten aan het gemeentepersoneel",
+  "type": "Omzendbrief",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1000605/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "27a884f3a68fc986d5f5a181c9f97e52e825fcf0464c050e1d7d8f3a21d9d1da",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1000605&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "1993-12-15",
+  "gazette": "1994-02-04",
+  "numac": 0,
+  "document_start": null,
+  "document_end": null,
+  "in_force": "2006-06-01",
+  "article_versions": 1,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
