@@ -1,0 +1,17 @@
+{
+  "codex_id": 1004855,
+  "title": "Besluit van de Vlaamse Regering van 1985-01-25 [betreffende de huurlasten van de woningen die aan de erkende sociale huisvestingsmaatschappijen of aan de Vlaamse Maatschappij voor Sociaal Wonen toebehoren]",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1004855/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "5b7cb07c0e8f097db7c55521cdcd0336a30eac8beef5955f985a793dde1b8619",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1004855&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "1985-01-25",
+  "gazette": "1985-04-02",
+  "numac": 1985024179,
+  "document_start": "1985-01-01",
+  "document_end": "2007-12-31",
+  "in_force": "2006-06-01",
+  "article_versions": 10,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
