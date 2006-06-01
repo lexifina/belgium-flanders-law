@@ -1,0 +1,17 @@
+{
+  "codex_id": 1007226,
+  "title": "Decreet van 1975-07-04 houdende de oprichting van een Hoge Raad voor de Samenlevingsopbouw",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1007226/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "362d8a80e5bdd30a96fe4868aa9d0aed3242ecc8268178ba48c50804c0686aea",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1007226&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "1975-07-04",
+  "gazette": "1975-10-02",
+  "numac": 1975070410,
+  "document_start": "1975-07-01",
+  "document_end": null,
+  "in_force": "2006-06-01",
+  "article_versions": 6,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
