@@ -1,0 +1,17 @@
+{
+  "codex_id": 1010012,
+  "title": "Omzendbrief van 1979-11-07 Algemene richtlijnen in verband met de werking van de Openbare Centra voor maatschappelijk welzijn van het Vlaamse Gewest",
+  "type": "Omzendbrief",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1010012/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "861371a5a76126b68bc67cba5894d8ee742180a76915703e642728658ccb306e",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1010012&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "1979-11-07",
+  "gazette": "1979-12-18",
+  "numac": 0,
+  "document_start": null,
+  "document_end": null,
+  "in_force": "2006-06-01",
+  "article_versions": 1,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
