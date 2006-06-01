@@ -1,0 +1,17 @@
+{
+  "codex_id": 1008461,
+  "title": "Besluit van de Vlaamse Regering van 2001-10-19 houdende het gratis vervoer en de gratis levering van een hoeveelheid elektriciteit als sociale openbaredienstverplichting",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1008461/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "a008fa6fb31b06adc826e9a6577027dc36d42a9f68d895d434a5148372197eb3",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1008461&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "2001-10-19",
+  "gazette": "2001-11-20",
+  "numac": 2001036255,
+  "document_start": null,
+  "document_end": "2010-12-31",
+  "in_force": "2006-06-01",
+  "article_versions": 8,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
