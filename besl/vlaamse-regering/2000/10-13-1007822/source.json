@@ -1,0 +1,17 @@
+{
+  "codex_id": 1007822,
+  "title": "Besluit van de Vlaamse Regering van 2000-10-13 houdende uitspraak over de op 7 december 1999 door het Vlaams Economisch Verbond (V.E.V.), Brouwersvliet 5, bus 4, te 2000 Antwerpen, ingediende aanvraag tot wijziging van sommige voorwaarden van titel II van het Vlarem voor bepaalde houtafvalverbrandingsinrichtingen",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1007822/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "f5a50d3064e40c417f054e73ec7c9ee4efbb5bbb081739d6bee9043cc1d9570b",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1007822&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "2000-10-13",
+  "gazette": "2001-02-07",
+  "numac": 2001035105,
+  "document_start": null,
+  "document_end": null,
+  "in_force": "2006-06-01",
+  "article_versions": 6,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
