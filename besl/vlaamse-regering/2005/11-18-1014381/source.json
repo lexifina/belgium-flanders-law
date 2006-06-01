@@ -1,0 +1,17 @@
+{
+  "codex_id": 1014381,
+  "title": "Besluit van de Vlaamse Regering van 2005-11-18 tot vaststelling van het scheepvaartreglement voor het kanaal Brussel-Schelde",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1014381/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "6ba7812908fd39fe5ea299dd77b0bba4e4a420f2039d8fe7d5bc6dfe96e43129",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1014381&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "2005-11-18",
+  "gazette": "2006-03-21",
+  "numac": 2006035409,
+  "document_start": null,
+  "document_end": null,
+  "in_force": "2006-06-01",
+  "article_versions": 58,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
