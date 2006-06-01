@@ -1,0 +1,17 @@
+{
+  "codex_id": 1003928,
+  "title": "Ministerieel besluit van 1995-06-19 houdende delegatie van sommige bevoegdheden inzake vervoer, monumenten en landschappen, aan de ambtenaren van het ministerie van de Vlaamse Gemeenschap",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1003928/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "1e4a020863ab3128265f4ceeade047a00dc9989ad60fc20426dc76e0560f5eac",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1003928&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "1995-06-19",
+  "gazette": "1995-08-17",
+  "numac": 0,
+  "document_start": null,
+  "document_end": null,
+  "in_force": "2006-06-01",
+  "article_versions": 16,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
