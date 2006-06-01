@@ -1,0 +1,17 @@
+{
+  "codex_id": 1006222,
+  "title": "Besluit van de Vlaamse Regering van 1998-05-19 betreffende de uitvoering van het muziekdecreet van 31 maart 1998 en de subsidiëring van compositieopdrachten voor muziektheater",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1006222/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "8f065a88714cd25f98fdbc6d35274b8a7dcf8e4e031d1560af8283b1c8dc8369",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1006222&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "1998-05-19",
+  "gazette": "1998-07-21",
+  "numac": 1998035742,
+  "document_start": null,
+  "document_end": null,
+  "in_force": "2006-06-01",
+  "article_versions": 56,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
