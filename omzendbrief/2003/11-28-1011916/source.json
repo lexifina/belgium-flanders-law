@@ -1,0 +1,17 @@
+{
+  "codex_id": 1011916,
+  "title": "Omzendbrief van 2003-11-28 WEL 2003/06 Toekenning van subsidies afkomstig van de aan de Vlaamse Gemeenschap toebedeelde winst van de Nationale Loterij - regeling voor subsidieaanvragen vanaf 2003",
+  "type": "Omzendbrief",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1011916/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "de15b82b35ac5cee3525e571ae5bb60a839d67f4898712cae7df0d65e5ef239c",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1011916&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "2003-11-28",
+  "gazette": "2003-12-18",
+  "numac": 2003036186,
+  "document_start": null,
+  "document_end": "2007-09-02",
+  "in_force": "2006-06-01",
+  "article_versions": 1,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
