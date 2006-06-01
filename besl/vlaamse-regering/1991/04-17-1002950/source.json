@@ -1,0 +1,17 @@
+{
+  "codex_id": 1002950,
+  "title": "Besluit van de Vlaamse Regering van 1991-04-17 tot vaststelling van de voorwaarden waaronder de personeelsleden van de V.Z.W. Nederlandstalig Instituut voor Voortdurende Vorming van de Middenstand opgenomen worden in de personeelsformatie van het Vlaams Instituut voor het Zelfstandig Ondernemen",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1002950/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "90506955b92682dda3ea77218ff85d657b28aed749a0609e1b7e5ff08688644f",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1002950&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "1991-04-17",
+  "gazette": "1991-05-09",
+  "numac": 1991035642,
+  "document_start": "1991-04-17",
+  "document_end": null,
+  "in_force": "2006-06-01",
+  "article_versions": 8,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
