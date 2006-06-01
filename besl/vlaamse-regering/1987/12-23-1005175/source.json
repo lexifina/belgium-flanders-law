@@ -1,0 +1,17 @@
+{
+  "codex_id": 1005175,
+  "title": "Besluit van de Vlaamse Regering van 1987-12-23 tot goedkeuring van het reglement van orde van de raad van beheer van de instelling Kind en Gezin",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1005175/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "01de695ad6b2aa4ea1adae6df092f7fb326b73a6ca0d9cd438b8a197fe6186f2",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1005175&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "1987-12-23",
+  "gazette": "1988-03-22",
+  "numac": 0,
+  "document_start": null,
+  "document_end": null,
+  "in_force": "2006-06-01",
+  "article_versions": 44,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
