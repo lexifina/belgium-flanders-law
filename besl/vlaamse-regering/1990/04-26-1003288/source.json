@@ -1,0 +1,17 @@
+{
+  "codex_id": 1003288,
+  "title": "Besluit van de Vlaamse Regering van 1990-04-26 houdende uitvoering van de Verordening (EEG) nr. 1101/89 van de Raad van 27 april 1989 betreffende de structurele sanering van de binnenvaart en van de Verordening (EEG) nr. 1102/89 van de Commissie van 27 april 1989 ter vaststelling van een aantal uitvoeringsbepalingen van Verordening (EEG) nr. 1101/89 van de Raad inzake de structurele sanering van de binnenvaart",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1003288/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "771d876ea57ed6dca2419c3050d573628c1ab9bf81c07b4b8c7c8f44214426f4",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1003288&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "1990-04-26",
+  "gazette": "1990-11-23",
+  "numac": 1990030386,
+  "document_start": null,
+  "document_end": null,
+  "in_force": "2006-06-01",
+  "article_versions": 11,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
