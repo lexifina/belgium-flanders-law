@@ -1,0 +1,17 @@
+{
+  "codex_id": 1014474,
+  "title": "Ministerieel besluit van 2006-04-18 houdende de procedure voor de behandeling van de aanvraag tot toestemming wegens therapeutische noodzaak door de expertencommissie Medisch Verantwoord Sporten",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1014474/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "32a410d7c9c932351990dcfd449fbe5af97fa9dafc63876d315e6604ea75f7e1",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1014474&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "2006-04-18",
+  "gazette": "2006-05-04",
+  "numac": 2006035664,
+  "document_start": "2006-05-04",
+  "document_end": "2008-07-31",
+  "in_force": "2006-06-01",
+  "article_versions": 7,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
