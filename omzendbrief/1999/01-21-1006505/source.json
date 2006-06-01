@@ -1,0 +1,17 @@
+{
+  "codex_id": 1006505,
+  "title": "Omzendbrief van 1999-01-21 betreffende bijzondere subsidies aan voorzieningen in de gehandicaptensector",
+  "type": "Omzendbrief",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1006505/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "8f1fb0b15dc34af67d6255e7129444fa6f66b838b84bb85f39b6d857b4b03262",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1006505&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "1999-01-21",
+  "gazette": "1999-02-12",
+  "numac": 1999035145,
+  "document_start": null,
+  "document_end": null,
+  "in_force": "2006-06-01",
+  "article_versions": 1,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
