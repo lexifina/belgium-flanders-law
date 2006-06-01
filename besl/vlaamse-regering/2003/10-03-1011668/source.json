@@ -1,0 +1,17 @@
+{
+  "codex_id": 1011668,
+  "title": "Besluit van de Vlaamse Regering van 2003-10-03 betreffende de toekenning van subsidies voor het toepassen van milieuvriendelijke landbouwproductiemethoden en het in stand houden van de genetische diversiteit",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1011668/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "a6104a0c1f98515f953bf6e8753565105c1c80a15f62c86194549a9ddc432d39",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1011668&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "2003-10-03",
+  "gazette": "2003-10-23",
+  "numac": 2003201497,
+  "document_start": "2003-01-01",
+  "document_end": "2006-12-31",
+  "in_force": "2006-06-01",
+  "article_versions": 33,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
