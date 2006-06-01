@@ -1,0 +1,17 @@
+{
+  "codex_id": 1004810,
+  "title": "Decreet van 1996-07-24 houdende regeling tot erkenning en subsidiëring van de instellingen voor schuldbemiddeling [...]",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1004810/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "43efc1cc1bd2beb16734ee4e27d0b2ec417435b57746a58e1066b233391b0ddd",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1004810&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "1996-07-24",
+  "gazette": "1996-10-05",
+  "numac": 199603614,
+  "document_start": "1997-05-30",
+  "document_end": null,
+  "in_force": "2006-06-01",
+  "article_versions": 11,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
