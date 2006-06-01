@@ -1,0 +1,17 @@
+{
+  "codex_id": 1002935,
+  "title": "Besluit van de Vlaamse Regering van 1985-07-17 betreffende de instelling en organisatie van het Instituut voor Natuurbehoud",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1002935/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "63589afc5102a963b667730806da39ce4155f44027309a1dfd9e3bc0f13daff3",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1002935&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "1985-07-17",
+  "gazette": "1985-07-26",
+  "numac": 1985024562,
+  "document_start": null,
+  "document_end": "2008-05-20",
+  "in_force": "2006-06-01",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
