@@ -1,0 +1,17 @@
+{
+  "codex_id": 1014183,
+  "title": "Besluit van de Vlaamse Regering van 2005-11-10 tot oprichting van het intern verzelfstandigd agentschap zonder rechtspersoonlijkheid [Ruimtelijke Ordening (verv. BVR 10 juni 2011, art. 45)]",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1014183/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "3a8e178d74b7445cbbf98e3d5bd098c0987e47708cfb7b9c75e633148594bf56",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1014183&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "2005-11-10",
+  "gazette": "2006-01-11",
+  "numac": 2005036619,
+  "document_start": "2006-07-01",
+  "document_end": "2011-09-30",
+  "in_force": "2006-06-01",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
