@@ -1,0 +1,17 @@
+{
+  "codex_id": 1006617,
+  "title": "Besluit van de Vlaamse Regering van 1999-01-19 betreffende het financiële en materiële beheer van de dienst met afzonderlijk beheer \" Autonome Vlaamse Fiscale Inning",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1006617/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "4eadd0679b64c2d8196ee4f87c35b4528aa0dda5f9a81e3344f5d488588ff8fa",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1006617&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "1999-01-19",
+  "gazette": "1999-04-28",
+  "numac": 1999035457,
+  "document_start": "1998-07-01",
+  "document_end": null,
+  "in_force": "2006-06-01",
+  "article_versions": 25,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
