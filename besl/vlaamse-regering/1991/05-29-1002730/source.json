@@ -1,0 +1,17 @@
+{
+  "codex_id": 1002730,
+  "title": "Besluit van de Vlaamse Regering van 1991-05-29 houdende nadere regelen voor de uitoefening van de opdracht van de gemeenschapscommissarissen bij het [Vlaams Agentschap voor Ondernemersvorming - Syntra Vlaanderen]",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1002730/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "f85e298d2aa8b0a74423a8cca73a39f888fd171b50ebb76de1a2ae126ee7f8da",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1002730&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "1991-05-29",
+  "gazette": "1991-08-15",
+  "numac": 1991035938,
+  "document_start": "1991-05-29",
+  "document_end": "2020-12-31",
+  "in_force": "2006-06-01",
+  "article_versions": 8,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
