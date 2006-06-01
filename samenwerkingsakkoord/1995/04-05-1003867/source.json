@@ -1,0 +1,17 @@
+{
+  "codex_id": 1003867,
+  "title": "Samenwerkingsakkoord van 1995-04-05 betreffende de financiering van de Collectieve Centra",
+  "type": "Samenwerkingsakkoord",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1003867/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "6fc9c2282a6f251d9462d60ad58715d274ec5b4ca938b80d2f10f40fbe44b6a2",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1003867&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "1995-04-05",
+  "gazette": "1995-05-30",
+  "numac": 0,
+  "document_start": "1995-05-18",
+  "document_end": null,
+  "in_force": "2006-06-01",
+  "article_versions": 1,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
