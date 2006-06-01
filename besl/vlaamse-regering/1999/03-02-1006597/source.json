@@ -1,0 +1,17 @@
+{
+  "codex_id": 1006597,
+  "title": "Besluit van de Vlaamse Regering van 1999-03-02 [betreffende de voorwaarden waaronder de taken van promotie van vormgeving, vermeld in artikel 5, § 1, 6°, van het decreet van 7 mei 2004 tot oprichting van het intern verzelfstandigd agentschap met rechtspersoonlijkheid Vlaams Agentschap Ondernemen, worden georganiseerd]",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1006597/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "4ba9ec2ad0022d456b882d98b39e79aa49ee3781d81057be82a4af82283109e9",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1006597&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "1999-03-02",
+  "gazette": "1999-04-13",
+  "numac": 1999035399,
+  "document_start": "1999-04-13",
+  "document_end": null,
+  "in_force": "2006-06-01",
+  "article_versions": 7,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
