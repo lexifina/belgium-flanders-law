@@ -1,0 +1,17 @@
+{
+  "codex_id": 1007232,
+  "title": "Besluit van de Vlaamse Regering van 2000-02-18 houdende vaststelling van de benaming van de diploma's van Master die de Vlerick Leuven, Gent Management School en het Instituut voor Tropische Geneeskunde uitreiken",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1007232/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "80064fa4975ea52d7a0ab1ac239feda0aebc83d7e0bdb83abeaac1e3c5df567a",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1007232&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "2000-02-18",
+  "gazette": "2000-04-15",
+  "numac": 2000035368,
+  "document_start": null,
+  "document_end": null,
+  "in_force": "2006-06-01",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
