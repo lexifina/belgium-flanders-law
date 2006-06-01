@@ -1,0 +1,17 @@
+{
+  "codex_id": 1014226,
+  "title": "Besluit van de Vlaamse Regering van 2005-12-16 houdende de reglementering van de handel in en de keuring van zaaigranen",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1014226/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "d7edaebfbc6734ba9accbf755fb0de4278f131b49de01a985688f90fb04228bd",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1014226&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "2005-12-16",
+  "gazette": "2006-01-25",
+  "numac": 2006035066,
+  "document_start": null,
+  "document_end": null,
+  "in_force": "2006-06-01",
+  "article_versions": 42,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
