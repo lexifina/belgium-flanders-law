@@ -1,0 +1,17 @@
+{
+  "codex_id": 1005444,
+  "title": "Besluit van de Vlaamse Regering van 1997-06-10 houdende de taken die niet in de functiebeschrijvingen van het personeel in het basisonderwijs kunnen opgenomen worden",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1005444/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "f76e3454e95b3d5f83b9b44359ad19d083708c5abac80242892574eca64503ea",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1005444&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "1997-06-10",
+  "gazette": "1997-06-24",
+  "numac": 1997035747,
+  "document_start": "1997-09-01",
+  "document_end": "2008-05-31",
+  "in_force": "2006-06-01",
+  "article_versions": 7,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
