@@ -1,0 +1,17 @@
+{
+  "codex_id": 1001839,
+  "title": "Besluit van de Vlaamse Regering van 1991-12-18 houdende vaststelling van de procedure inzake de subsidiëring van werken aan beschermde monumenten die door of op initiatief van regionale of lokale besturen worden uitgevoerd",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1001839/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "b775a6bcba0ff7295efbc7ec7408b1ba0dd3c3618f3ddcd89d74f2114f613137",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1001839&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "1991-12-18",
+  "gazette": "1992-02-06",
+  "numac": 1992035151,
+  "document_start": "1992-01-01",
+  "document_end": "2014-12-31",
+  "in_force": "2006-06-01",
+  "article_versions": 9,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
