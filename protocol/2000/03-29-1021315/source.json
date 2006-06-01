@@ -1,0 +1,17 @@
+{
+  "codex_id": 1021315,
+  "title": "Protocol van 2000-03-29 inzake gegevensuitwisseling tussen de federale overheid en de overheden bevoegd voor gezondheidszorgbeleid krachtens de artikelen 128, 130, 135 van de Grondwet",
+  "type": "Protocol",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1021315/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "b96930569b1f90e241e027d439edb0baa9088e607fa4958eba00a2a2d54303a8",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1021315&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "2000-03-29",
+  "gazette": "2000-09-19",
+  "numac": 2000022402,
+  "document_start": null,
+  "document_end": null,
+  "in_force": "2006-06-01",
+  "article_versions": 18,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
