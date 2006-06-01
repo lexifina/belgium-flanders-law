@@ -1,0 +1,17 @@
+{
+  "codex_id": 1013176,
+  "title": "Besluit van de Vlaamse Regering van 2004-04-16 houdende de samenstelling en de werking van de GRB-raad",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1013176/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "815b74ccb12dda8d80fbaa25dccf7e941bf86146dd94c95801fea80bc0833813",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1013176&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "2004-04-16",
+  "gazette": "2004-07-05",
+  "numac": 2004036020,
+  "document_start": null,
+  "document_end": "2017-09-26",
+  "in_force": "2006-06-01",
+  "article_versions": 8,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
