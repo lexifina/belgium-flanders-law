@@ -1,0 +1,17 @@
+{
+  "codex_id": 1006694,
+  "title": "Ministerieel besluit van 1999-02-09 houdende vaststelling van de classificatienormen waaraan vakantieparken dienen te voldoen",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1006694/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "a4f406c4f6e82f4a4839b20a328c65ca0bc1d251a54a885c0a707d9d753b496f",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1006694&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "1999-02-09",
+  "gazette": "1999-06-22",
+  "numac": 0,
+  "document_start": "1999-01-01",
+  "document_end": "2009-12-31",
+  "in_force": "2006-06-01",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
