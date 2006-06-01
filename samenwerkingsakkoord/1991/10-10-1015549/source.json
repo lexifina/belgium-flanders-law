@@ -1,0 +1,17 @@
+{
+  "codex_id": 1015549,
+  "title": "Samenwerkingsakkoord van 1991-10-10 tussen de Staat, de Vlaamse Gemeenschap, de Franse Gemeenschap, het Vlaamse Gewest, het Waalse Gewest en het Brusselse Hoofdstedelijk Gewest betreffende het gemeenschappelijk beheer van sommige elementen van het vermogen van het economisch en sociaal instituut voor de middenstand",
+  "type": "Samenwerkingsakkoord",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1015549/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "3f697b479b25a0017831a3d2eca87adf8a60a833ff38b631948a6752de8264f8",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1015549&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "1991-10-10",
+  "gazette": "1991-11-20",
+  "numac": 0,
+  "document_start": "1991-07-01",
+  "document_end": null,
+  "in_force": "2006-06-01",
+  "article_versions": 11,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
