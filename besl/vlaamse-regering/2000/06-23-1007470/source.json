@@ -1,0 +1,17 @@
+{
+  "codex_id": 1007470,
+  "title": "Besluit van de Vlaamse Regering van 2000-06-23 tot vaststelling van de procedure voor [de bijkomende erkenning van een dagverzorgingscentrum (verv. BVR 30 november 2018, art. 541, I: 1 januari 2019)]",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1007470/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "31d79f2bc04bfe675bee66a0ad83a48020767d65bcad6af1fce0e7bd1df53152",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1007470&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "2000-06-23",
+  "gazette": "2000-07-18",
+  "numac": 2000035714,
+  "document_start": "2000-01-01",
+  "document_end": "2024-08-31",
+  "in_force": "2006-06-01",
+  "article_versions": 15,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
