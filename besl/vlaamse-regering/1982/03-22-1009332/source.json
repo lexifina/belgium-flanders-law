@@ -1,0 +1,17 @@
+{
+  "codex_id": 1009332,
+  "title": "Besluit van de Vlaamse Regering van 1982-03-22 betreffende de hiërarchische indeling van de graden waarvan de personeelsleden van het Commissariaat-generaal voor de Internationale Culturele Samenwerking van de Nederlandse Cultuurgemeenschap in België titularis kunnen zijn",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1009332/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "e1f6cd2ab6835cb42598da2ad9d6d099424c3d430bab390e23f862fd95fcc42f",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1009332&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "1982-03-22",
+  "gazette": "1982-03-25",
+  "numac": 1982100235,
+  "document_start": null,
+  "document_end": null,
+  "in_force": "2006-06-01",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
