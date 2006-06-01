@@ -1,0 +1,17 @@
+{
+  "codex_id": 1009049,
+  "title": "Besluit van de Vlaamse Regering van 2002-03-15 tot uitvoering van de artikelen 14, §6 en 17, §8 van het decreet van 23 januari 1991 inzake de bescherming van het leefmilieu tegen de verontreinging door meststoffen",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1009049/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "3c2987605025417c7509485c2a7e302cba72682c7bf13eaf761044ef00766bfd",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1009049&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "2002-03-15",
+  "gazette": "2002-04-26",
+  "numac": 2002035432,
+  "document_start": "2002-04-26",
+  "document_end": null,
+  "in_force": "2006-06-01",
+  "article_versions": 14,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
