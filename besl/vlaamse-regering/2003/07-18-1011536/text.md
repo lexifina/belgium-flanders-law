@@ -1,0 +1,83 @@
+# Besluit van de Vlaamse Regering van 2003-07-18 betreffende de [opleidingscheques] voor werknemers
+
+## HOOFDSTUK I [... (opgeh. BVR 17 mei 2019, art. 18, I: 1 september 2020)]
+
+### ART. 1.
+
+Voor de toepassing van dit besluit wordt verstaan onder:<br /><br />1° de minister: de Vlaamse minister bevoegd voor de Beroepsopleiding;<br /><br />2° de VDAB: de Vlaamse Dienst voor Arbeidsbemiddeling en Beroepsopleiding zoals bedoeld in artikel 3, § 1 van het decreet van 7 mei 2004 tot oprichting van het publiekrechtelijk vormgegeven extern verzelfstandigd agentschap Vlaamse Dienst voor Arbeidsbemiddeling en Beroepsopleiding;<br /><br />3° uitgever: de na mededinging aangewezen organisatie die belast is met de uitgifte en de betaling van de opleidings- en begeleidingscheques;<br /><br />4° werknemer: de persoon, die op het ogenblik van de aanvraag van de opleidings- en/of begeleidingscheque in de private en de publieke sector, tewerkgesteld is krachtens een arbeidsovereenkomst of die anders dan krachtens een arbeidsovereenkomst, arbeid verricht onder het gezag van een ander persoon, en die zijn/haar woonplaats heeft op het grondgebied van het Vlaamse Gewest of het Brussels Hoofdstedelijk Gewest. De Vlaamse regering kan andere categorieën van personen gelijkstellen met een werknemer.<br /><br />Volgende categorieën van personen worden niet beschouwd als werknemers:<br /><br />a) jongeren tussen zestien en vijfentwintig jaar die tewerkgesteld zijn met een studentenovereenkomst;<br /><br />b) jongeren tussen zestien en vijfentwintig jaar die tewerkgesteld zijn met een arbeidsovereenkomst van minder dan 80 uren per maand; (krachtens het B.V.R. 4 juni 2004, B.S., 5 augustus 2004 wordt met werknemer gelijkgesteld: de onthaalouders bedoeld in artikel 3, 9°, van het K.B. van 28 november 1969 tot uitvoering van de wet van 27 juni 1969)<br /><br />5° erkende verstrekker: instelling of organisatie die wordt erkend als verstrekker van opleidingen en begeleidingen voor werknemers in het kader van dit besluit;<br /><br />6° opleidings- en begeleidingscheque: betaalmiddel waarmee directe opleidings- en begeleidingskosten kunnen worden betaald die een erkende verstrekker factureert aan een werknemer. De minister bepaalt de vormvereisten van de opleidings- en begeleidingscheque. De opleidings- en begeleidingscheques kunnen enkel gebruikt worden voor opleidingen en begeleidingen die niet gebeuren in opdracht van de werkgever en die worden gevolgd buiten de normale werkuren of tijdens periodes van wettige schorsing van de arbeidsovereenkomst;<br /><br />7° directe opleidings- en begeleidingskosten: kosten die door de verstrekker worden gefactureerd, inclusief de kosten voor deelname aan het examen of de test;<br /><br />8° opleiding: onderricht dat niet uitsluitend of hoofdzakelijk op de huidige of toekomstige functie van de werknemer gericht is, maar door middel waarvan bekwaamheden worden verkregen die in ruime mate naar andere ondernemingen of werkgebieden overdraagbaar zijn, zodat de brede inzetbaarheid van de werknemer op de arbeidsmarkt rechtstreeks of onrechtstreeks wordt verbeterd;<br /><br />9° begeleiding: het geheel van adviezen en diensten dat er op gericht is een werknemer te begeleiden met het oog op de verdere ontwikkeling van zijn/haar levensloopbaan en/of het participeren aan een traject waarin de meting van competenties centraal staat;<br /><br />10° kalenderjaar: de periode van 1 januari tot en met 31 december;<br /><br />11° SERV: Sociaal Economische Raad van Vlaanderen;<br /><br />12° hogere studies:<br /><br />a) studies die leiden tot het diploma van bachelor;<br /><br />b) studies die leiden tot een diploma van hoger onderwijs, zoals bedoeld in artikel 62 van het decreet van 4 april 2003 betreffende de herstructurering van het hoger onderwijs in Vlaanderen;<br /><br />c) een lerarenopleiding, met inbegrip van de opleiding voor het behalen van het getuigschrift voor pedagogische beroepsbekwaamheid, zoals geregeld in het decreet van 16 april 1996 betreffende de lerarenopleiding en de nascholing;<br /><br />d) studies in het hoger onderwijs dat wordt ingericht door het onderwijs voor sociale promotie, zoals bedoeld in artikel 9 van het decreet van 2 maart 1999 tot regeling van een aantal aangelegenheden van het volwassenenonderwijs.<br /><br />13° kortgeschoold: geen diploma van hoger secundair onderwijs;<br /><br />14° middengeschoold: ten hoogste een diploma van hoger secundair onderwijs.
+
+## HOOFDSTUK II [... (opgeh. BVR 17 mei 2019, art. 17, I: 1 september 2019)]
+
+### ART. 2.
+
+§ 1. Er kan steun worden verleend voor het volgen van opleiding en/of begeleiding door werknemers bij een erkende verstrekker. De werknemer kan voor de opleiding en/of begeleiding kiezen uit een lijst van erkende verstrekkers.<br /><br />§ 2. De erkende verstrekker reikt aan de deelnemer, nadat de opleiding en/of begeleiding werd beëindigd, een attest op naam uit, waaruit blijkt dat de werknemer de opleiding of begeleiding heeft gevolgd en/of welke competenties door de werknemer werden verworven.<br /><br />De minister kan, na advies van de raad van bestuur van de VDAB, nadere vormvereisten van het attest bepalen.
+
+## HOOFDSTUK III [... (opgeh. BVR 17 mei 2019, art. 17, I: 1 september 2019)]
+
+## AFDELING 1 [... (opgeh. BVR 17 mei 2019, art. 17, I: 1 september 2019)]
+
+### ART. 3.
+
+§ 1. De minister erkent, na advies van de raad van bestuur van de VDAB, een instelling of organisatie als opleidingsverstrekker.<br /><br />§ 2. De minister bepaalt de criteria inzake de toekenning van de erkenning van de opleidingsverstrekkers.<br /><br />§ 3. De volgende opleidingsverstrekkers worden automatisch erkend :<br />1° de dienstverleners die al erkend zijn in de pijler opleiding in het kader van het besluit van de Vlaamse Regering van 16 december 2005 tot toekenning van steun aan kleine en middelgrote ondernemingen voor ondernemerschapsbevorderende diensten;<br />2° de sectorale instellingen die nog niet erkend zijn in de pijler opleiding in het kader van het besluit van de Vlaamse Regering van 16 december 2005 tot toekenning van steun aan kleine en middelgrote ondernemingen voor ondernemerschapsbevorderende diensten overeenkomstig artikel 13, § 1, 1°, en die worden beheerd door de sociale partners, op voorwaarde dat ze een aanvraag tot erkenning indienen bij de VDAB;<br />3° de door de VDAB erkende opleidingsverstrekkers in het kader van een uitbesteding of een partnerovereenkomst. »<br /><br /> § 4. De opleidingsverstrekkers die niet vermeld zijn in § 3, kunnen erkend worden, mits zij beschikken over een van de volgende kwaliteitscertificaten:<br />1° Q*for-certificaat;<br />2° ISO-certificaat;<br />3° CEDEO-certificaat;<br />4° Recognised for Excellence;<br />5° K2b- of K2a-label voor opleiding;<br />6° ESF-label voor opleiding;<br />7° andere certificaten of erkenningen die door de raad van bestuur van de VDAB worden aanvaard.<br /><br />De opleidingsverstrekkers dienen hun aanvraag tot erkenning in bij de VDAB.<br /><br />§ 5. De erkenning kan door de minister worden geschorst of ingetrokken wanneer de opleidingsverstrekker zich niet houdt aan de bepalingen van dit besluit.
+
+## AFDELING 2 [... (opgeh. BVR 17 mei 2013, art. 25, I: 1 juli 2013)]
+
+### ART. 4.
+
+§ 1. De minister erkent, na advies van de raad van bestuur van de VDAB, een instelling of organisatie als begeleidingsverstrekker.<br /><br />§ 2. De minister bepaalt de criteria inzake de toekenning van de erkenning van de begeleidingsverstrekkers.<br /><br />§ 3. Volgende begeleidingsverstrekkers worden automatisch erkend:<br />1° de competentiecentra van de VDAB;<br />2° de sectorale instellingen die begeleiding aanbieden en worden beheerd door de sociale partners, op voorwaarde dat ze een aanvraag tot erkenning indienen bij de VDAB;<br />3° de begeleidingsverstrekkers die zijn erkend in het kader van het programma van het Europese Sociale Fonds, doelstelling 3, zwaartepunt 4;<br />4° de centra voor loopbaandienstverlening die zijn erkend in het kader van het besluit van de Vlaamse Regering van 27 augustus 2004 betreffende de erkenning en subsidiëring van centra voor loopbaandienstverlening ; <br />5° de beoordelingsinstanties die zijn erkend in het kader van het besluit van de Vlaamse Regering tot uitvoering van het decreet van 30 april 2004 betreffende het verwerven van een titel van beroepsbekwaamheid. <br /><br />§ 4. De begeleidingsverstrekkers die niet vermeld zijn in de voorgaande paragraaf, richten een verzoek tot erkenning aan de VDAB.<br /><br />§ 5. De erkenning kan door de minister worden geschorst of ingetrokken wanneer de begeleidingsverstrekker zich niet houdt aan de bepalingen van onderhavig besluit.
+
+## HOOFDSTUK IV [... (opgeh. BVR 17 mei 2019, art. 18, I: 1 september 2020)]
+
+### ART. 5.
+
+Een werknemer kan, binnen de perken van het daartoe bestemd begrotingskrediet, per kalenderjaar voor een maximaal volume van tweehonderd vijftig euro aan cheques bij de uitgever aankopen.<br /><br />[Het maximaal volume van tweehonderd vijftig euro, zoals vermeld in het eerste lid, kan verhoogd worden tot vijfhonderd euro per kalenderjaar voor de kort- of middengeschoolde werknemer die hogere studies aanvat.  <span class="reference">(ing. B.V.R. 27 augustus 2004, art. 2, I: 1 september 2004)</span> ]<br /><br />[Het maximaal volume, bedoeld in het eerste en tweede lid, kan voor de kansengroepen, bedoeld in artikel 1, 6°, van het besluit van de Vlaamse Regering betreffende de erkenning en subsidiëring van centra voor loopbaandienstverlening, met uitzondering van de personen die aangesloten zijn bij het Rijksinstituut voor de Sociale Verzekering van Zelfstandigen of bij een sociale verzekeringskas voor zelfstandigen, worden verhoogd met het bedrag dat werd betaald voor de loopbaan-dienstverlening die werd aangeboden door de begeleidingsverstrekkers, erkend overeenkomstig artikel 4.  <span class="reference">(ing. B.V.R. 27 augustus 2004, art. 18, I: 6 december 2004)</span> ]
+
+### ART. 6.
+
+De Vlaamse Gemeenschap levert een bijdrage van 50 % in het totaalbedrag van de opleidings- en begeleidingscheque, de overige 50 % wordt betaald door de werknemer bij aankoop van de cheque.<br /><br />De minister kan, na advies van de SERV, voor welomschreven doelgroepen of opleidings- of begeleidingstrajecten, verminderingen of vrijstellingen toestaan op de bijdrage die de werknemer moet betalen.<br /><br />[De bijdrage van de Vlaamse Gemeenschap wordt in geval van vrijstelling verhoogd tot 100 %. Zij wordt in geval van vermindering verhoogd met een bedrag gelijk aan de vermindering van de bijdrage.  <span class="reference">(ing. B.V.R. 27 augustus 2004, art. 3, I: 1 september 2004)</span> ]
+
+### ART. 7.
+
+De opleidings- en begeleidingscheque mag enkel gebruikt worden om de directe opleidings- en begeleidingskosten te betalen.
+
+### ART. 8.
+
+§ 1. De opleidings- en begeleidingscheque heeft in hoofde van de werknemer een geldigheidsduur van veertien maanden vanaf de datum van uitgifte en wordt aangewend voor een opleiding en/of begeleiding die begonnen is vóór het verstrijken van de geldigheidsdatum van de cheque.<br /><br />§ 2. De cheque wordt niet uitbetaald aan de verstrekker:<br /><br />1° als de cheque buiten de periode van veertien maanden vanaf de uitgiftedatum wordt aangeboden als betaalmiddel door een werknemer;<br /><br />2° voor een opleiding en/of begeleiding, verstrekt door een niet erkende verstrekker;<br /><br />3° als de cheque niet binnen zestien maanden vanaf de uitgiftedatum wordt ingediend bij de uitgever door de erkende verstrekker;<br /><br />4° als wordt vastgesteld dat de verstrekker cheques inlevert waarbij de identiteit van de werknemer die vermeld staat op de cheque verschilt van de identiteit van de werknemer die de opleiding of begeleiding gevolgd heeft.<br /><br />§ 3. De totale waarde van de aangeboden cheques mag niet groter zijn dan het totaal bedrag van de factuur inclusief BTW.<br /><br />§ 4. Cheques waarvan de geldigheidsduur is verstreken komen in aanmerking voor eventuele terugbetaling aan de werknemer,wanneer de werknemer niet heeft kunnen deelnemen aan de opleiding en/of begeleiding:<br /><br />1° in geval van overlijden, ziekte of ongeval van de werknemer die ingeschreven was voor het volgen van een opleiding en/of begeleiding. Het bewijs wordt geleverd aan de hand van een kopie van de overlijdingsakte of een doktersattest;<br /><br />2° in geval van annulatie van de opleiding en/of begeleiding. Het bewijs wordt geleverd aan de hand van een attest van de verstrekker;<br /><br />3° in geval dat de opleiding en/of begeleiding volzet is. Het bewijs wordt geleverd aan de hand van een attest van de verstrekker;<br /><br />4° in andere gevallen van overmacht. De werknemer bewijst de overmacht.<br /><br />§ 5. In de gevallen, vastgesteld in § 4, kan de werknemer of in geval van overlijden een erfgenaam, het door hem/haar betaalde deel van de cheque terugbetaald krijgen door inlevering van de cheque bij de uitgever, die de cheques vernietigt.<br /><br />Indien de cheque verloren is gegaan bij een geval van overmacht zoals vermeld in § 4, 4°, dan wordt het door de werknemer betaalde gedeelte van de cheque terugbetaald na voorlegging van het bewijs van de overmacht aan de VDAB.
+
+## HOOFDSTUK V [... (opgeh. BVR 17 mei 2019, art. 18, I: 1 september 2020)]
+
+### ART. 9.
+
+De cheques worden aangekocht uiterlijk binnen de twee maanden na de aanvang van de opleiding en/of begeleiding, tenzij de directe opleidings- of begeleidingskosten op een later ogenblik door de verstrekker worden gefactureerd.
+
+### ART. 10.
+
+De cheques worden aangevraagd bij de VDAB.
+
+### ART. 11.
+
+§ 1. De werknemer betaalt de gehele verschuldigde som binnen veertien kalenderdagen na bevestiging van de aanvraag van de cheques op de rekening van de uitgever, anders vervalt zijn/haar totale reservatie van rechtswege en komt deze reservatie terug in de beschikbare enveloppe terecht.<br /><br />§ 2. Na bevestiging door de VDAB dat aan de voorwaarden is voldaan en na betaling drukt de uitgever de cheques op naam van de werknemer met vermelding van de vervaldatum, zoals bepaald in artikel 8, § 1, en verstuurt ze binnen een periode van veertien kalenderdagen.<br /><br />§ 3. Indien niet aan de voorwaarden is voldaan, betaalt de uitgever het bedrag terug aan de werknemer.
+
+## HOOFDSTUK VI [... (opgeh. BVR 17 mei 2019, art. 18, I: 1 september 2020)]
+
+### ART. 12.
+
+§ 1. De opleidings- en begeleidingscheques die door een werknemer aan een erkende verstrekker worden afgegeven worden door die laatste ingeleverd bij de uitgever die de erkende verstrekker uitbetaalt. De verstrekker voegt bij de cheques een lijst met de namen van de werknemers die een opleiding of begeleiding gevolgd hebben en met de nummers van de aangeboden cheques. Kopie van het inschrijvingsbewijs kan opgevraagd worden door de VDAB.<br /><br />§ 2. De opleidings- en begeleidingscheques worden alleen uitbetaald onder de voorwaarde dat de erkende verstrekker statistisch relevante informatie aanlevert waarvan de inhoud wordt vastgelegd door de minister.<br /><br />§ 3. De erkende verstrekker dient de cheques binnen zestien maanden na de uitgiftedatum ervan bij de uitgever in.<br /><br />§ 4. Als vaststaat dat de in dit besluit vermelde voorwaarden werden vervuld, dan betaalt de uitgever de erkende verstrekker binnen veertien kalenderdagen nadat de cheques door deze laatste bij hem zijn ingediend.
+
+## HOOFDSTUK VII [... (opgeh. BVR 17 mei 2019, art. 17, I: 1 september 2019)]
+
+### ART. 13.
+
+De opleidingscheques voor werknemers kunnen, voor eenzelfde opleiding, niet gecumuleerd worden met de opleidingscheques voor werkgevers bedoeld in het besluit van de Vlaamse regering van 14 december 2001 betreffende de opleidingscheques.
+
+## [HOOFDSTUK VII/1[... (opgeh. BVR 17 mei 2019, art. 17, I: 1 september 2019)]
+
+## HOOFDSTUK VIII [... (opgeh. BVR 17 mei 2019, art. 18, I: 1 september 2020)]
+
+### ART. 14.
+
+Dit besluit treedt in werking op 1 september 2003.
+
+### ART. 15.
+
+De Vlaamse minister bevoegd voor de Beroepsopleiding is belast met de uitvoering van dit besluit.
