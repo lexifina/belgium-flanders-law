@@ -1,0 +1,17 @@
+{
+  "codex_id": 1012059,
+  "title": "Besluit van de Vlaamse Regering van 2004-01-09 tot invoering van een frequentiekorting op het loodsgeld voor loodsverrichtingen in de loodswateren",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1012059/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "1a07e1e75c16f181d3e531dc8d906cef41449cd4eab4f3a57f1691c467a369a8",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1012059&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "2004-01-09",
+  "gazette": "2004-02-11",
+  "numac": 2004035172,
+  "document_start": null,
+  "document_end": "2008-12-31",
+  "in_force": "2006-06-01",
+  "article_versions": 19,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
