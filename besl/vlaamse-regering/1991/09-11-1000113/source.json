@@ -1,0 +1,17 @@
+{
+  "codex_id": 1000113,
+  "title": "Besluit van de Vlaamse Regering van 1991-09-11 betreffende de werking, de begroting, de controle en de goedkeuring van de boekhouding van het eigen vermogen van het Instituut voor Natuurbehoud",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1000113/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "6159a7de88b94033a374e5411dcb512e5967f4fa9e36513627f11194524acafd",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1000113&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "1991-09-11",
+  "gazette": "1994-06-22",
+  "numac": 1994035775,
+  "document_start": null,
+  "document_end": "2999-12-31",
+  "in_force": "2006-06-01",
+  "article_versions": 30,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
