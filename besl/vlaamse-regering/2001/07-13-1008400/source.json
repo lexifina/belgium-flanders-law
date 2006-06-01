@@ -1,0 +1,17 @@
+{
+  "codex_id": 1008400,
+  "title": "Besluit van de Vlaamse Regering van 2001-07-13 houdende de vaststelling van de voorwaarden waaronder premies kunnen worden toegekend voor het bouwen en moderniseren van [hotels (verv. BVR 11 december 2009, art. 1)], in het bijzonder wat betreft de toegankelijkheid voor personen met een handicap",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1008400/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "2bea4333dc72225dcef525a31f531982fbcc7e1db25b18ecfcc318438fd93b00",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1008400&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "2001-07-13",
+  "gazette": "2001-10-06",
+  "numac": 2001036130,
+  "document_start": "2001-07-13",
+  "document_end": "2011-12-31",
+  "in_force": "2006-06-01",
+  "article_versions": 16,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
