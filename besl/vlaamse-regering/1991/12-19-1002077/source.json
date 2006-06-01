@@ -1,0 +1,17 @@
+{
+  "codex_id": 1002077,
+  "title": "Besluit van de Vlaamse Regering van 1991-12-19 betreffende het verlof dat aan de personeelsleden van het onderwijs en de psycho-medisch-sociale centra wordt verleend voor het verrichten van bepaalde prestaties ten behoeve van in de wetgevende vergaderingen van de Staat en van de Gemeenschappen of de Gewesten erkende politieke groepen, respectievelijk ten behoeve van de voorzitters van die groepen",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1002077/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "8b2389b11b95faf35ae4ac72b81153a064f8f79eb0844bfe5227a8b7d2f3820b",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1002077&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "1991-12-19",
+  "gazette": "1992-03-20",
+  "numac": 1992035362,
+  "document_start": "1991-09-01",
+  "document_end": null,
+  "in_force": "2006-06-01",
+  "article_versions": 8,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
