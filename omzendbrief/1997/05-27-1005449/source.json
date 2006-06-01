@@ -1,0 +1,17 @@
+{
+  "codex_id": 1005449,
+  "title": "Omzendbrief van 1997-05-27 WEL-97/04 betreffende de uitvoering van de beslissing van de Interministeriële Conferentie voor het Migrantenbeleid van 6 november 1996",
+  "type": "Omzendbrief",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1005449/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "60f62de8b6cc30c4d0ccc5f38f27187c976dee11e3bb7513e0a09c115570a2fd",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1005449&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "1997-05-27",
+  "gazette": "1997-06-25",
+  "numac": 1997801925,
+  "document_start": null,
+  "document_end": null,
+  "in_force": "2006-06-01",
+  "article_versions": 1,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
