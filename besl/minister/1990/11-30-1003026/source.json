@@ -1,0 +1,17 @@
+{
+  "codex_id": 1003026,
+  "title": "Ministerieel besluit van 1990-11-30 met betrekking tot de toepassing van artikel 94 van de Huisvestingscode",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1003026/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "1d153f31a080490ebcc69d05701f5e277afde374f9b9e679bdcae5fe78bfd8f6",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1003026&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "1990-11-30",
+  "gazette": "1991-04-03",
+  "numac": 0,
+  "document_start": "1990-06-10",
+  "document_end": null,
+  "in_force": "2006-06-01",
+  "article_versions": 5,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
