@@ -1,0 +1,17 @@
+{
+  "codex_id": 1000180,
+  "title": "Omzendbrief van 1994-05-10 houdende sociale bepalingen",
+  "type": "Omzendbrief",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1000180/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "5de68f8e8861319cafe294c5952911c06e9ef1590d255a8de3407a9548bfc6ba",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1000180&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "1994-05-10",
+  "gazette": "1994-07-21",
+  "numac": 0,
+  "document_start": null,
+  "document_end": null,
+  "in_force": "2006-06-01",
+  "article_versions": 1,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
