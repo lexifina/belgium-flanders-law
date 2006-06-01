@@ -1,0 +1,17 @@
+{
+  "codex_id": 1003078,
+  "title": "Besluit van de Vlaamse Regering van 1990-12-19 tot vaststelling van het aantal leden van de raad van bestuur van de GOM's",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1003078/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "2c557c9c7c1cf044cf88fd50d0863bd53f979ee494239c6f4af148f4d4ffa2d3",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1003078&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "1990-12-19",
+  "gazette": "1991-03-20",
+  "numac": 1991035399,
+  "document_start": null,
+  "document_end": null,
+  "in_force": "2006-06-01",
+  "article_versions": 2,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
