@@ -1,0 +1,17 @@
+{
+  "codex_id": 1009759,
+  "title": "Samenwerkingsakkoord van 2002-07-18 tussen de Federale Overheid en de Gewesten betreffende de vertegenwoordiging van het Koninkrijk België binnen het Coördinatiecomité ingesteld door artikel 14 van het Akkoord van 9 februari 1994 betreffende de heffing van rechten op het gebruik van van bepaalde wegen door zware vrachtwagens (Eurovignet)",
+  "type": "Samenwerkingsakkoord",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1009759/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "1100f4122a174186c11be07ee8faf5ed5ad2f09f0571b575db24d5ed8e41d791",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1009759&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "2002-07-18",
+  "gazette": "2002-10-23",
+  "numac": 0,
+  "document_start": null,
+  "document_end": null,
+  "in_force": "2006-06-01",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
