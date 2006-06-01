@@ -1,0 +1,17 @@
+{
+  "codex_id": 1007551,
+  "title": "Besluit van de Vlaamse Regering van 2000-07-17 tot vaststelling van de criteria, de voorwaarden en de nadere regelen volgens welke subsidies worden verleend met betrekking tot het VESOC-actieplan voor acties rond de man/vrouw-problematiek",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1007551/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "ff513c59883c7a84bcba298cb5bcbb31968513f1646f5c30feca3882e2f44011",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1007551&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "2000-07-17",
+  "gazette": "2000-09-21",
+  "numac": 2000035887,
+  "document_start": null,
+  "document_end": null,
+  "in_force": "2006-06-01",
+  "article_versions": 15,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
