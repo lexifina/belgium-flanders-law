@@ -1,0 +1,17 @@
+{
+  "codex_id": 1014522,
+  "title": "Ministerieel besluit van 2006-05-04 houdende oprichting van het orgaan dat de bevoegdheden uitoefent inzake de rechtspositie van het personeel voor het agentschap de Scheepvaart",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1014522/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "361a5e16847bfb53d2a6110b535663f7ac0ea1f0ca8efd1d052d4414ccf65710",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1014522&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "2006-05-04",
+  "gazette": "2006-05-17",
+  "numac": 2006035733,
+  "document_start": "2006-05-01",
+  "document_end": null,
+  "in_force": "2006-06-01",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
