@@ -1,0 +1,17 @@
+{
+  "codex_id": 1009327,
+  "title": "Besluit van de Vlaamse Regering van 1982-03-11 betreffende sommige taken van de Openbare Afvalstoffenmaatschappij voor het Vlaamse Gewest",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1009327/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "0c62d0dca41230ecaedd8f835effffc7e1aaff3b35db8ecbbaa6713883470b39",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1009327&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "1982-03-11",
+  "gazette": "1982-04-20",
+  "numac": 1982000597,
+  "document_start": "1982-04-20",
+  "document_end": null,
+  "in_force": "2006-06-01",
+  "article_versions": 5,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
