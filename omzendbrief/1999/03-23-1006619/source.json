@@ -1,0 +1,17 @@
+{
+  "codex_id": 1006619,
+  "title": "Omzendbrief van 1999-03-23 met betrekking tot de vaststelling van de codes van goede praktijk voor de herwaardering van grachtenstelsels en voor hemelwaterputten en infiltratievoorzieningen",
+  "type": "Omzendbrief",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1006619/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "4533b4779079689934b52c2857999c0f5d7f202b4fa0e091fb55c9f5b964ffcc",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1006619&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "1999-03-23",
+  "gazette": "1999-04-28",
+  "numac": 1999035468,
+  "document_start": null,
+  "document_end": null,
+  "in_force": "2006-06-01",
+  "article_versions": 1,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
