@@ -1,0 +1,17 @@
+{
+  "codex_id": 1005338,
+  "title": "Besluit van de Vlaamse Regering van 1996-12-19 tot uitvoering van de artikelen 6 en 7 van het decreet van 1 juni 1994 tot regeling van de overdracht van roerende en onroerende goederen van de Vlaamse Gemeenschap aan de Vlaamse Gemeenschapscommissie",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1005338/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "44c169b2d670ad792de9015cdbc3ff5a8534c222eb568249bed16e5ec56400de",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1005338&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "1996-12-19",
+  "gazette": "1997-03-20",
+  "numac": 1997035104,
+  "document_start": null,
+  "document_end": null,
+  "in_force": "2006-06-01",
+  "article_versions": 7,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
