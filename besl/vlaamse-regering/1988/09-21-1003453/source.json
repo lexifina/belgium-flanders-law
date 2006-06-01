@@ -1,0 +1,17 @@
+{
+  "codex_id": 1003453,
+  "title": "Besluit van de Vlaamse Regering van 1988-09-21 tot oprichting en samenstelling van een Vlaamse Hoge Raad voor de Huisvesting",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1003453/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "84d116761cf1c3021ccb2766b4bb30990e62c869daef81bd53051c3d2eafff6b",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1003453&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "1988-09-21",
+  "gazette": "1988-12-22",
+  "numac": 1988030101,
+  "document_start": null,
+  "document_end": null,
+  "in_force": "2006-06-01",
+  "article_versions": 14,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
