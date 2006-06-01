@@ -1,0 +1,17 @@
+{
+  "codex_id": 1009133,
+  "title": "Decreet van 2002-03-22 houdende de ondersteuning van stadsvernieuwingsprojecten",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1009133/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "89389cbb4f749e66221254dff22cf794e0693ae21a6bb86e0d9286fdb8f57c65",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1009133&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "2002-03-22",
+  "gazette": "2002-05-07",
+  "numac": 2002035562,
+  "document_start": null,
+  "document_end": "2016-12-31",
+  "in_force": "2006-06-01",
+  "article_versions": 8,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
