@@ -1,0 +1,17 @@
+{
+  "codex_id": 1000971,
+  "title": "Omzendbrief van 1993-06-23 HV 93/2 tot aanvulling en wijziging van de omzendbrief HV 92/3 van 8 oktober 1992 tot vaststelling van de oppervlakte- en technische normen in het kader van het urgentieplan voor de sociale huisvesting",
+  "type": "Omzendbrief",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1000971/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "3d5c8a6e07d9de6ac16a3bcf0c9ca51a34f5e31e06fee01eb799a574aa29c6b2",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1000971&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "1993-06-23",
+  "gazette": "1993-09-22",
+  "numac": 0,
+  "document_start": null,
+  "document_end": null,
+  "in_force": "2006-06-01",
+  "article_versions": 1,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
