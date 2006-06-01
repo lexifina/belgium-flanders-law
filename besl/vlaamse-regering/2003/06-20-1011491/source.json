@@ -1,0 +1,17 @@
+{
+  "codex_id": 1011491,
+  "title": "Besluit van de Vlaamse Regering van 2003-06-20 tot vaststelling van het statuut van de regeringscommissarissen bij de naamloze vennootschap van publiek recht Beheersmaatschappij Antwerpen Mobiel",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1011491/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "21e5b1a3cd5b12606ff0a6088eb2b8b07c4a10d36fb9ad23fc6323255f8ce69f",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1011491&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "2003-06-20",
+  "gazette": "2003-07-30",
+  "numac": 2003035774,
+  "document_start": null,
+  "document_end": null,
+  "in_force": "2006-06-01",
+  "article_versions": 11,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
