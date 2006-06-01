@@ -1,0 +1,17 @@
+{
+  "codex_id": 1031553,
+  "title": "Ministerieel besluit van 2001-01-16 houdende oprichting van de leden van de natuurinrichtingsprojectcommissie voor het natuurinrichtingsproject Merelbeekse Scheldemeersen",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1031553/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "1dfdb51d2e314148db8fb50f5ffa1e07c0eaedbf7c07d325cc282165d6d62350",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1031553&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "2001-01-16",
+  "gazette": "2001-02-09",
+  "numac": 2001035111,
+  "document_start": "2001-02-19",
+  "document_end": null,
+  "in_force": "2006-06-01",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
