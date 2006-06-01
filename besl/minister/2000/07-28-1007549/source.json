@@ -1,0 +1,17 @@
+{
+  "codex_id": 1007549,
+  "title": "Ministerieel besluit van 2000-07-28 houdende de vaststelling van de planning van de centra voor dagverzorging",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1007549/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "7b9be4d2446fff2e11da04e4a49b6c85be892ffd650c2599823b02f65b653bff",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1007549&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "2000-07-28",
+  "gazette": "2000-09-16",
+  "numac": 2000035912,
+  "document_start": "2000-01-01",
+  "document_end": null,
+  "in_force": "2006-06-01",
+  "article_versions": 5,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
