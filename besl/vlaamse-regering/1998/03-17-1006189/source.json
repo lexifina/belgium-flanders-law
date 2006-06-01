@@ -1,0 +1,17 @@
+{
+  "codex_id": 1006189,
+  "title": "Besluit van de Vlaamse Regering van 1998-03-17 houdende vaststelling van het programma voor [...] serviceflatgebouwen, woningcomplexen met dienstverlening, [en rusthuizen]",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1006189/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "7cc840383377d9ccb2385c294a174701b7408c087bcf86716aca889486021f69",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1006189&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "1998-03-17",
+  "gazette": "1998-06-24",
+  "numac": 1998035637,
+  "document_start": "1998-04-01",
+  "document_end": "2012-12-31",
+  "in_force": "2006-06-01",
+  "article_versions": 9,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
