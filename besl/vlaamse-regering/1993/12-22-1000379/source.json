@@ -1,0 +1,17 @@
+{
+  "codex_id": 1000379,
+  "title": "Besluit van de Vlaamse Regering van 1993-12-22 houdende machtiging van het Vlaamse Instituut voor het Zelfstandig Ondernemen tot deelname aan de pensioenregeling, ingesteld door de wet van 28 april 1958 betreffende het pensioen van het personeel van zekere organismen van openbaar nut alsmede van hun rechthebbenden",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1000379/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "fcf09e86498839e219f7ec0957d5c155925253ae695d29fa685a7723f7622aed",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1000379&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "1993-12-22",
+  "gazette": "1994-03-03",
+  "numac": 1994035168,
+  "document_start": "1991-07-01",
+  "document_end": null,
+  "in_force": "2006-06-01",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
