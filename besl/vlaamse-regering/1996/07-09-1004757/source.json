@@ -1,0 +1,17 @@
+{
+  "codex_id": 1004757,
+  "title": "Besluit van de Vlaamse Regering van 1996-07-09 betreffende de personeelsleden van de vierde graad van het voltijds secundair onderwijs",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1004757/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "71a9b2a1a44e5fc483267122d908eb9e0b63f93ef85efab9919225698ff07487",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1004757&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "1996-07-09",
+  "gazette": "1996-08-29",
+  "numac": 1996035955,
+  "document_start": null,
+  "document_end": null,
+  "in_force": "2006-06-01",
+  "article_versions": 27,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
