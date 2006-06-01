@@ -1,0 +1,17 @@
+{
+  "codex_id": 1010606,
+  "title": "Decreet van 2002-12-18 tot aanvulling van het decreet van 5 april 1995 houdende algemene bepalingen inzake milieubeleid met een titel betreffende de milieueffect- en veiligheidsrapportage",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1010606/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "717bf4d5e8d6ca5492bf3e466a6bfa4c944b09df1481d70f6d64dba014490fcb",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1010606&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "2002-12-18",
+  "gazette": "2003-02-13",
+  "numac": 2003035183,
+  "document_start": "2003-02-13",
+  "document_end": null,
+  "in_force": "2006-06-01",
+  "article_versions": 14,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
