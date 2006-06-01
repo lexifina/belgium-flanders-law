@@ -1,0 +1,17 @@
+{
+  "codex_id": 1002507,
+  "title": "Besluit van de Vlaamse Regering van 1991-06-26 tot vaststelling van de presentiegelden en de vergoedingen van de leden van de provinciale beroepskamers, bedoeld in artikel 69 van de organieke wet van 8 juli 1976 betreffende de Openbare Centra voor maatschappelijk welzijn en van de erelonen verschuldigd uit hoofde van de door deze beroepskamers bevolen medische onderzoeken",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1002507/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "43d2bf6619bed4b06f833647c76935f3413347e3022ef4ebf112f947957d0f7d",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1002507&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "1991-06-26",
+  "gazette": "1991-10-05",
+  "numac": 1991036242,
+  "document_start": "1992-01-01",
+  "document_end": null,
+  "in_force": "2006-06-01",
+  "article_versions": 10,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
