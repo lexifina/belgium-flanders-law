@@ -1,0 +1,17 @@
+{
+  "codex_id": 1006301,
+  "title": "Decreet van 1998-07-14 houdende de erkenning en de subsidiëring van verenigingen en welzijnsvoorzieningen in de thuiszorg",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1006301/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "f0d9388fb12a92172635f4e09ff34002ca72736ffe724b3062719659c2f28e94",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1006301&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "1998-07-14",
+  "gazette": "1998-09-05",
+  "numac": 1998035967,
+  "document_start": null,
+  "document_end": "2009-12-31",
+  "in_force": "2006-06-01",
+  "article_versions": 30,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
