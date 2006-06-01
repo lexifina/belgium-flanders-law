@@ -1,0 +1,17 @@
+{
+  "codex_id": 1004831,
+  "title": "Besluit van de Vlaamse Regering van 1996-10-15 houdende de procedure en de vorm voor de gelijkstelling van de diploma's van een wetenschappelijke graad met de diploma's van een academische graad",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1004831/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "acf385519682e0e55c471728a63053fdcc8ae0dd7b82726713b71e2fe9d76b43",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1004831&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "1996-10-15",
+  "gazette": "1996-10-25",
+  "numac": 1996036276,
+  "document_start": "1996-10-01",
+  "document_end": "2016-12-31",
+  "in_force": "2006-06-01",
+  "article_versions": 8,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
