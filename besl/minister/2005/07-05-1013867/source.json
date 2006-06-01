@@ -1,0 +1,17 @@
+{
+  "codex_id": 1013867,
+  "title": "Ministerieel besluit van 2005-07-05 tot uitvoering van het besluit van de Vlaamse Regering van 20 mei 2005 betreffende de bescherming van geografische aanduidingen en oorsprongsbenamingen van landbouwproducten en levensmiddelen en de specificiteitscertificering voor landbouwproducten en levensmiddelen",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1013867/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "f2a5641783daf3faa4da818f44c17c60cab342738c1349d2c766930970aea40b",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1013867&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "2005-07-05",
+  "gazette": "2005-07-19",
+  "numac": 2005035827,
+  "document_start": "2005-07-19",
+  "document_end": "2008-04-03",
+  "in_force": "2006-06-01",
+  "article_versions": 5,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
