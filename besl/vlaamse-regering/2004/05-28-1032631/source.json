@@ -1,0 +1,17 @@
+{
+  "codex_id": 1032631,
+  "title": "Besluit van de Vlaamse Regering van 2004-05-28 betreffende de toekenning van een dotatie in 2004 en 2005 aan het Industrieel Onderzoeksfonds bij de universiteiten van de Vlaamse Gemeenschap",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1032631/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "a397952f93356579f2e75765f05cb4ecfbb7b9d00d345a1e377124745cb825fb",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1032631&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "2004-05-28",
+  "gazette": "0001-01-01",
+  "numac": 0,
+  "document_start": "2004-07-01",
+  "document_end": "2005-12-31",
+  "in_force": "2006-06-01",
+  "article_versions": 13,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
