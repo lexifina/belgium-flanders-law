@@ -1,0 +1,17 @@
+{
+  "codex_id": 1005507,
+  "title": "Omzendbrief van 1997-07-08 betreffende de inrichting en de toepassing van de ontwerp-gewestplannen en gewestplannen",
+  "type": "Omzendbrief",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1005507/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "6ef2b2681db45d7c24e1622ddb32359817af3dae530af1fa021dff0ea165ca40",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1005507&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "1997-07-08",
+  "gazette": "1997-08-23",
+  "numac": 1997801945,
+  "document_start": null,
+  "document_end": null,
+  "in_force": "2006-06-01",
+  "article_versions": 1,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
