@@ -1,0 +1,17 @@
+{
+  "codex_id": 1008350,
+  "title": "Ministerieel besluit van 2001-07-09 houdende de vaststelling van de bedragen voor het verlenen van de subsidie voor het medisch-sociaal toezicht en de preventieve medisch-sociale consulten in kinderdagverblijven",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1008350/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "6630cd499555fd12232c241c82a7a3b21ee4da207fd22e15f7e77034d919b9ab",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1008350&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "2001-07-09",
+  "gazette": "2001-09-06",
+  "numac": 2001035975,
+  "document_start": "2001-01-01",
+  "document_end": null,
+  "in_force": "2006-06-01",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
