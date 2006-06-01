@@ -1,0 +1,17 @@
+{
+  "codex_id": 1013706,
+  "title": "Omzendbrief van 2005-02-25 BA-2005/2 betreffende de toepassing van het decreet van 7 mei 2004 betreffende de materiële organisatie en werking van de erkende erediensten op de erediensten georganiseerd op provinciaal niveau",
+  "type": "Omzendbrief",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1013706/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "326ecfaac4d1cda06586a1c32a30e07e1c8cd9e84c40d2a74215b36c1f9480c1",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1013706&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "2005-02-25",
+  "gazette": "2005-03-25",
+  "numac": 2005035362,
+  "document_start": "2005-02-25",
+  "document_end": "2024-12-19",
+  "in_force": "2006-06-01",
+  "article_versions": 1,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
