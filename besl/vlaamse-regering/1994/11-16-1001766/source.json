@@ -1,0 +1,17 @@
+{
+  "codex_id": 1001766,
+  "title": "Besluit van de Vlaamse Regering van 1994-11-16 houdende doorvoering van experimenten in verband met invoegbedrijven en leereilandprojecten",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1001766/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "f2e7b46dbd78d35f5e2aa4285790f7bda0d8e30b2d25dd2f81269a024c940b64",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1001766&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "1994-11-16",
+  "gazette": "1995-01-27",
+  "numac": 1995035010,
+  "document_start": "1993-07-01",
+  "document_end": null,
+  "in_force": "2006-06-01",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
