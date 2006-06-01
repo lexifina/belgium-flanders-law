@@ -1,0 +1,17 @@
+{
+  "codex_id": 1005691,
+  "title": "Besluit van de Vlaamse Regering van 1987-07-29 houdende aanduiding van de Gewestcommissaris en zijn afgevaardigden, zoals voorzien in het decreet betreffende de werkwijze van, de controle op en de vaststelling van het ambtsgebied van intercommunales van 1 juli 1987",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1005691/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "cf923a7e9811ac8287ac186e9d1398cce529226dc5766ff1cf08c8d1a4bc280f",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1005691&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "1987-07-29",
+  "gazette": "1987-09-04",
+  "numac": 1987029645,
+  "document_start": "1987-09-04",
+  "document_end": null,
+  "in_force": "2006-06-01",
+  "article_versions": 5,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
