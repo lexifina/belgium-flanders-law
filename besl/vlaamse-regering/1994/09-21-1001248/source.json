@@ -1,0 +1,17 @@
+{
+  "codex_id": 1001248,
+  "title": "Besluit van de Vlaamse Regering van 1994-09-21 houdende de grenzen en voorwaarden voor de studie van, het onderzoek naar en de promotie van de vorming, de bedrijfsbegeleiding en de kunstambachten door het Vlaams Instituut voor het Zelfstandig Ondernemen",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1001248/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "d90f194c7f122ef3ed36e60ca951f55b515391318e3f85dcff7f9cdd804d4e5e",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1001248&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "1994-09-21",
+  "gazette": "1994-12-02",
+  "numac": 1994036402,
+  "document_start": "1994-09-21",
+  "document_end": "2005-12-31",
+  "in_force": "2006-06-01",
+  "article_versions": 8,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
