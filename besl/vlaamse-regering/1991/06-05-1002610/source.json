@@ -1,0 +1,17 @@
+{
+  "codex_id": 1002610,
+  "title": "Besluit van de Vlaamse Regering van 1991-06-05 houdende de organisatie van het secundair zeevisserijonderwijs",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1002610/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "15f37d940718d89aa27f915729890ed687a671879f4c523e812ae53ccb3f46de",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1002610&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "1991-06-05",
+  "gazette": "1991-08-27",
+  "numac": 1991036087,
+  "document_start": "1990-09-01",
+  "document_end": "2008-08-31",
+  "in_force": "2006-06-01",
+  "article_versions": 18,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
