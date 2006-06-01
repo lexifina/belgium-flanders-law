@@ -1,0 +1,17 @@
+{
+  "codex_id": 1001589,
+  "title": "Besluit van de Vlaamse Regering van 1994-10-12 houdende vaststelling van de benamingen van de academische graden van doctor",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1001589/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "1dddacdd364813353ba94145a92e35082dc23fb505ca69a28f6967002fc9c9a2",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1001589&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "1994-10-12",
+  "gazette": "1994-12-23",
+  "numac": 1994036466,
+  "document_start": "1994-10-01",
+  "document_end": "2016-12-31",
+  "in_force": "2006-06-01",
+  "article_versions": 5,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
