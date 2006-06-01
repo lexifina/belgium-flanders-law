@@ -1,0 +1,17 @@
+{
+  "codex_id": 1008869,
+  "title": "Omzendbrief van 1983-01-27 AW/83-1 operationalisering van de waterzuiveringsmaatschappijen",
+  "type": "Omzendbrief",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1008869/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "14c2e0011d0e69058c410212fbb6e32b571ae3e3f0923c17e6256fc6f232d127",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1008869&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "1983-01-27",
+  "gazette": "1983-04-15",
+  "numac": 0,
+  "document_start": null,
+  "document_end": null,
+  "in_force": "2006-06-01",
+  "article_versions": 1,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
