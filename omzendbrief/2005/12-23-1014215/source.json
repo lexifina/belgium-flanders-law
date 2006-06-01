@@ -1,0 +1,17 @@
+{
+  "codex_id": 1014215,
+  "title": "Omzendbrief van 2005-12-23 RO/2005/01 betreffende de beleidsmatige herbevestiging van de gewestplannen in het kader van de afbakening van de gebieden van de natuurlijke en agrarische structuur in uitvoering van het Ruimtelijk Structuurplan Vlaanderen",
+  "type": "Omzendbrief",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1014215/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "ac4a0781fd5f894c3c28fd9f42b15c12f3749eb7944328a7713c93ba5a44b1ff",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1014215&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "2005-12-23",
+  "gazette": "2006-01-19",
+  "numac": 2006035037,
+  "document_start": null,
+  "document_end": null,
+  "in_force": "2006-06-01",
+  "article_versions": 1,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
