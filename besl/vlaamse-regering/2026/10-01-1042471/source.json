@@ -1,0 +1,17 @@
+{
+  "codex_id": 1042471,
+  "title": "Besluit van de Vlaamse Regering van 2026-10-01 tot wijziging van het besluit van de Vlaamse regering van 1 juni 1995 houdende algemene en sectorale bepalingen inzake milieuhygiëne, het besluit van de Vlaamse Regering van 8 december 2006 betreffende het onderhoud en het nazicht van centrale stooktoestellen voor de verwarming van gebouwen of voor de aanmaak van warm verbruikswater, het besluit van de Vlaamse Regering van 19 november 2010 tot vaststelling van het Vlaams reglement inzake erkenningen met betrekking tot het leefmilieu en het besluit van de Vlaamse Regering van 23 mei 2025 over de omgevingshandhaving, wat betreft de implementatie van Europese regelgeving over de luchtkwaliteit",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1042471/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "6d094aa23529780c1ef295c6ee4f7b1149d0afee947e4baa01ef497022720b75",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1042471&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "2026-10-01",
+  "gazette": "0001-01-01",
+  "numac": 0,
+  "document_start": "2026-12-11",
+  "document_end": null,
+  "in_force": "2006-06-01",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
