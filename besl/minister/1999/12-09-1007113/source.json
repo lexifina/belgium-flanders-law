@@ -1,0 +1,17 @@
+{
+  "codex_id": 1007113,
+  "title": "Ministerieel besluit van 1999-12-09 tot uitvoering van artikel 12, eerste lid van het besluit van de Vlaamse regering van 19 december 1996 houdende de subsidiëring van het bouwrijp maken van gronden en de aanleg van de infrastructuur en gemeenschapsvoorzieningen voor sociale woonwijken",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1007113/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "3b32ceea04b770f31d9bd32799a45fe071a119012b2cb81eb2382f42c029460b",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1007113&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "1999-12-09",
+  "gazette": "1999-12-30",
+  "numac": 0,
+  "document_start": "2000-01-01",
+  "document_end": null,
+  "in_force": "2006-06-01",
+  "article_versions": 2,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
