@@ -1,0 +1,17 @@
+{
+  "codex_id": 1004781,
+  "title": "Omzendbrief van 1996-07-31 met betrekking tot de vaststelling van de code van goede praktijk voor de aanleg van openbare riolen en individuele voorbehandelingsinstallaties",
+  "type": "Omzendbrief",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1004781/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "164a4688f3c1d14be897b4c3bef11f4f6bf50e67329e365aae290b59e664a00a",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1004781&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "1996-07-31",
+  "gazette": "1996-09-10",
+  "numac": 0,
+  "document_start": null,
+  "document_end": "2012-10-03",
+  "in_force": "2006-06-01",
+  "article_versions": 2,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
