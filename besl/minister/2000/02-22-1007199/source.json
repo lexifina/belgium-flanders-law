@@ -1,0 +1,17 @@
+{
+  "codex_id": 1007199,
+  "title": "Ministerieel besluit van 2000-02-22 inzake de kwaliteitszorg in de centra voor integrale gezinszorg",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1007199/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "c6a99c118b937965528220927d9f3e0f7ffd589a899e0185ba7a52d2779a0118",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1007199&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "2000-02-22",
+  "gazette": "2000-03-22",
+  "numac": 2000035240,
+  "document_start": "2000-01-01",
+  "document_end": null,
+  "in_force": "2006-06-01",
+  "article_versions": 7,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
