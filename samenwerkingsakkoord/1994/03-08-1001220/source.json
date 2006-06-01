@@ -1,0 +1,17 @@
+{
+  "codex_id": 1001220,
+  "title": "Samenwerkingsakkoord van 1994-03-08 tussen de Federale Staat, de Gemeenschappen en de Gewesten en het Verenigd College van de Gemeenschappelijke Gemeenschapscommissie, met betrekking tot de vertegenwoordiging van het Koninkrijk België in de Ministerraad van de Europese Unie",
+  "type": "Samenwerkingsakkoord",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1001220/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "cfa191c9940fc626c94fd3e6fb07ba861655fd34db4f68c72d4ef5f47823f266",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1001220&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "1994-03-08",
+  "gazette": "1994-11-17",
+  "numac": 0,
+  "document_start": null,
+  "document_end": null,
+  "in_force": "2006-06-01",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
