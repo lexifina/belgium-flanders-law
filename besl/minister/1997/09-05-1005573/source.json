@@ -1,0 +1,17 @@
+{
+  "codex_id": 1005573,
+  "title": "Ministerieel besluit van 1997-09-05 houdende toekenning van gratis openbaar vervoer aan de stadswachten op het net van het stads- en streekvervoer van het Vlaamse Gewest",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1005573/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "b928e60d951101db00c469ba28a5ac9057bc668abf5ee64bc2af37c60f9a0138",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1005573&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "1997-09-05",
+  "gazette": "1997-09-30",
+  "numac": 1997036201,
+  "document_start": null,
+  "document_end": null,
+  "in_force": "2006-06-01",
+  "article_versions": 2,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
