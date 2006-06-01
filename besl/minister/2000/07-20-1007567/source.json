@@ -1,0 +1,17 @@
+{
+  "codex_id": 1007567,
+  "title": "Ministerieel besluit van 2000-07-20 houdende delegatie van sommige bevoegdheden inzake cultuur aan ambtenaren van het ministerie van de Vlaamse Gemeenschap",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1007567/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "f4736a9c66aa93e6cd639a2cad40e033eb785561c867b13cec949985eb7f422c",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1007567&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "2000-07-20",
+  "gazette": "2000-08-19",
+  "numac": 2000035802,
+  "document_start": null,
+  "document_end": "2006-03-31",
+  "in_force": "2006-06-01",
+  "article_versions": 15,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
