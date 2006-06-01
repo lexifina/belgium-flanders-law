@@ -1,0 +1,9 @@
+# Ministerieel besluit van 1995-03-01 tot vaststelling en beperking van de rentevoet met toepassing van het besluit van de Vlaamse regering van 23 juli 1992 tot uitvoering van artikel 49 van het decreet van 25 juni 1992 houdende diverse bepalingen tot begeleiding van de begroting 1992
+
+### ART. 1.
+
+Met toepassing van artikel 6, eerste lid, in fine van het besluit van de Vlaamse regering van 23 juli 1992 tot uitvoering van artikel 49 van het decreet van 25 juni 1992 houdende diverse bepalingen tot begeleiding van de begroting 1992, wordt, voor de berekening van de tegemoetkomingen opgenomen in dit besluit, de effectieve rentevoet van de door de NV Domus Flandria laatst aangegane lening met gewestwaarborg, voor eerste geldopnames vanaf 1 januari 1995 beperkt tot een rentevoet OLO met een resterende looptijd van exact 15 jaar. Voor eerste geldopnames vóór deze datum wordt de aldus verkregen rentevoet verhoogd met 40 basispunten.<br /><br />In afwijking van het vorige lid, is voor leningsovereenkomsten met betrekking tot huurprojecten waarbij de door de Vlaamse Huisvestingsmaatschappij erkend vennootschappen of, in geval van toepassing van artikel 3 van voormeld besluit, het Vlaams Woningfonds optreden als bouwheer of koper, vanaf 1 april 1994 een rentevoet van toepassing gelijk aan de effectieve rentevoet van de door de NV Domus Flandria laatst aangegane lening met gewestwaarborg, evenwel verminderd met 40 basispunten voor eerste geldopnames vanaf 1 januari 1995 voor zover die leningsovereenkomsten met voornoemde vennootschappen of instelling worden afgesloten.<br /><br />De overeenkomstig de vorige leden verkregen rentevoeten worden voor de berekening van de tegemoetkoming bedoeld in afdeling 2 van hoofdstuk II van voormeld besluit verhoogd met 100 basispunten.
+
+### ART. 2.
+
+Dit besluit heeft uitwerking met ingang van 1 januari 1993.
