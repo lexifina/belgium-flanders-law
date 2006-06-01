@@ -1,0 +1,17 @@
+{
+  "codex_id": 1012118,
+  "title": "Ministerieel besluit van 2003-12-19 betreffende de toekenning van subsidies voor mechanische onkruidbestrijding met toepassing van het Vlaams Programma voor Plattelandsontwikkeling",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1012118/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "7c78648bf061d818b17ff1f86e25999905f098f5bd886c391e6d29e8ab2d43d5",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1012118&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "2003-12-19",
+  "gazette": "2004-02-24",
+  "numac": 2004035241,
+  "document_start": null,
+  "document_end": "2006-12-31",
+  "in_force": "2006-06-01",
+  "article_versions": 15,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
