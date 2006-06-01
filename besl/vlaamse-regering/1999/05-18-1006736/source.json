@@ -1,0 +1,17 @@
+{
+  "codex_id": 1006736,
+  "title": "Besluit van de Vlaamse Regering van 1999-05-18 tot vaststelling van het administratieve statuut van de commissaris-coördinator bij de hogescholen in de Vlaamse Gemeenschap",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1006736/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "f2f7441d3654f6be554216e1b74af554b6bb7cf368015ab23963e1b712e6f24b",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1006736&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "1999-05-18",
+  "gazette": "1999-07-10",
+  "numac": 1999035826,
+  "document_start": "1994-12-01",
+  "document_end": "2016-12-31",
+  "in_force": "2006-06-01",
+  "article_versions": 17,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
