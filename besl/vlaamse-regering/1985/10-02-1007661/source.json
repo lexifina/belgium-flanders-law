@@ -1,0 +1,17 @@
+{
+  "codex_id": 1007661,
+  "title": "Besluit van de Vlaamse Regering van 1985-10-02 houdende vaststelling van de datum waarop de Vlaamse Maatschappij voor Watervoorziening haar activiteiten aanvangt",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1007661/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "3b868116ce4139f016b6322602a2aab90c7e3b942177e5bc5ab220c88defafe0",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1007661&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "1985-10-02",
+  "gazette": "1985-10-12",
+  "numac": 1985024760,
+  "document_start": null,
+  "document_end": null,
+  "in_force": "2006-06-01",
+  "article_versions": 2,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
