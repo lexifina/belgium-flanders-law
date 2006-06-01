@@ -1,0 +1,17 @@
+{
+  "codex_id": 1010256,
+  "title": "Samenwerkingsakkoord van 2001-12-07 tussen de federale staat en de gewesten betreffende de uitwisseling van informatie in het kader van de uitoefening van hun fiscale bevoegdheden en betreffende de overlegprocedures inzake technische uitvoerbaarheid van door de gewesten voorgenomen wijzigingen aan degewestelijke belastingen en inzake de technische uitvoerbaarheid van de invoering door de gewesten van algemene belastingverminderingen of -vermeerderingen van de verschuldigde personenbelasting",
+  "type": "Samenwerkingsakkoord",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1010256/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "6818c38387ce28a6a1c32774636fe196051769cc38db4695f110c3e0e5d63f5b",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1010256&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "2001-12-07",
+  "gazette": "2002-12-11",
+  "numac": 0,
+  "document_start": null,
+  "document_end": null,
+  "in_force": "2006-06-01",
+  "article_versions": 22,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
