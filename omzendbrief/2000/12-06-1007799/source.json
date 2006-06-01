@@ -1,0 +1,17 @@
+{
+  "codex_id": 1007799,
+  "title": "Omzendbrief van 2000-12-06 RO/2000/02 met richtlijnen voor de beoordeling van aanvragen om een stedenbouwkundige vergunning voor bedrijfsgebonden mestbe- en mestverwerkingsinstallaties of voor mestbe- en mestverwerkingsinstallaties van beperkte schaal in agrarisch gebied",
+  "type": "Omzendbrief",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1007799/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "ec4bea0ff9e89735d0f9e6feeb9dcfc96ff12fa537800dbd26a478bbe761cebd",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1007799&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "2000-12-06",
+  "gazette": "2001-01-24",
+  "numac": 2001035048,
+  "document_start": null,
+  "document_end": null,
+  "in_force": "2006-06-01",
+  "article_versions": 1,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
