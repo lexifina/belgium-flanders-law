@@ -1,0 +1,17 @@
+{
+  "codex_id": 1013497,
+  "title": "Ministerieel besluit van 2004-06-16 tot goedkeuring van het huishoudelijk reglement van de Koninklijke Academie voor Geneeskunde van België",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1013497/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "9d38d841f9082ee96c7f833eedb288c561992cd1de4447a18057d04f58594744",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1013497&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "2004-06-16",
+  "gazette": "2004-10-27",
+  "numac": 2004036596,
+  "document_start": "2004-06-26",
+  "document_end": null,
+  "in_force": "2006-06-01",
+  "article_versions": 99,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
