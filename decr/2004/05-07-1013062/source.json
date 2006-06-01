@@ -1,0 +1,17 @@
+{
+  "codex_id": 1013062,
+  "title": "Decreet van 2004-05-07 tot oprichting van het intern verzelfstandigd agentschap met rechtspersoonlijkheid \"Vlaams Agentschap Ondernemen\"",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1013062/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "3ee1d16c1b4c7be73d374030fcdb67896e203c80134e1d4a5fd4287577289434",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1013062&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "2004-05-07",
+  "gazette": "2004-06-07",
+  "numac": 2004035864,
+  "document_start": "2005-12-30",
+  "document_end": "2009-12-31",
+  "in_force": "2006-06-01",
+  "article_versions": 19,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}

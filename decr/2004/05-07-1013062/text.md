@@ -1,0 +1,99 @@
+# Decreet van 2004-05-07 tot oprichting van het intern verzelfstandigd agentschap met rechtspersoonlijkheid "Vlaams Agentschap Ondernemen"
+
+## HOOFDSTUK I ALGEMENE BEPALINGEN
+
+### ART. 1.
+
+Dit decreet regelt een gewestaangelegenheid.
+
+### ART. 2.
+
+In dit decreet wordt verstaan onder kaderdecreet: het Kaderdecreet Bestuurlijk Beleid van 18 juli 2003.
+
+## HOOFDSTUK II OPRICHTING
+
+### ART. 3.
+
+§ 1. Er wordt een intern verzelfstandigd agentschap met rechtspersoonlijkheid opgericht als bedoeld in artikel 10 van het Kaderdecreet. Dit agentschap draagt als naam "Vlaams Agentschap Ondernemen".<br /><br />Alle officiële akten, officiële aankondigingen, of andere officiële stukken, uitgaande van het agentschap, moeten de benaming van het agentschap vermelden, met onmiddellijk daarvoor of daarna, deze leesbaar en voluit geschreven woorden: "intern verzelfstandigd agentschap met rechtspersoonlijkheid".<br /><br />§ 2. De Vlaamse regering bepaalt tot welk homogeen beleidsdomein het agentschap behoort.<br /><br />§ 3. De Vlaamse regering bepaalt de vestigingsplaats van het agentschap.<br /><br />§ 4. De bepalingen van het Kaderdecreet zijn van toepassing op het Vlaams Agentschap Ondernemen.
+
+## HOOFDSTUK III MISSIE, TAKEN EN BEVOEGDHEDEN
+
+### ART. 4.
+
+§ 1. Het Vlaams Agentschap Ondernemen heeft als missie het duurzaam ondernemerschap in Vlaande-ren te stimuleren en te faciliteren door te functioneren als een laag- en breeddrempelig contactpunt voor kandidaat-ondernemers, ondernemers en ondernemingen, in een partnership met de sociaaleconomische middenveldorganisaties. Het agentschap staat in voor een pro-actieve dienstverlening aan kandidaat-ondernemers, ondernemers en ondernemingen, zodat in elk van de provincies het basistakenpakket bepaald in artikel 5, § 1, 1° tot 3°, permanent en actief wordt gewaarborgd.<br /><br />§ 2. Het Vlaams Agentschap Ondernemen staat tevens in voor de promotie van vormgeving en voor speciale taken inzake bedrijfsbegeleiding van kandidaat-ondernemers, ondernemers en ondernemingen. Voor de promotie van vormgeving werkt het Vlaams Agentschap Ondernemen onder de benaming "Design Vlaanderen".
+
+### ART. 5.
+
+§ 1. Teneinde de in artikel 4 bedoelde missie waar te maken, staat het Vlaams Agentschap Ondernemen in voor volgende taken:<br /><br />1° taken van sensibiliseren en stimuleren:<br /><br />a) de promotie van het ondernemerschap;<br /><br />b) de promotie en de bevordering van initiatieven die het Vlaamse Gewest en de door het Vlaamse Gewest opgerichte instellingen nemen om het ondernemerschap te ondersteunen;<br /><br />c) het bevorderen en ondersteunen van netwerken van en voor ondernemers;<br /><br />2° taken van eerstelijnsadvies en doorverwijzen:<br /><br />a) het eerstelijnsadvies inzake alle ondernemingsvraagstukken;<br /><br />b) het doorverwijzen naar alle publieke en private actoren die diensten aan ondernemingen aanbieden;<br /><br />3° taken van accountmanagement, waaronder wordt begrepen de onafhankelijke en integrale opvolging en begeleiding van een dossier inzake ondernemers- en of ondernemingsgerelateerde materies doorheen de beleidsdomeinen en agentschappen van de Vlaamse overheid. De Vlaamse regering bepaalt de domeinen waarop het accountmanagement van toepassing moet zijn;<br /><br />4° het actief werken aan synergieÙn en het opzetten van samenwerkingsverbanden met alle actoren op het vlak van ondernemen in Vlaanderen;<br /><br />5° het managen van een kwaliteitsvol netwerk van laag- en breeddrempelige contactpunten voor kandidaat-ondernemers, ondernemers en ondernemingen;<br /><br />6° taken van promotie van vormgeving:<br /><br />a) de uitbouw van Design Vlaanderen als maatschappelijk en economisch centrum voor vormgeving in Vlaanderen in een partnership met overheids- en private diensten die werkzaam zijn op het gebied van vormgeving;<br /><br />b) het ontwikkelen van promotionele acties die de meerwaarde van vormgeving als kwaliteitsbevorderend en innoverend instrument bekend en erkend maken bij een groot publiek en inzonderheid de Vlaamse K.M.O.'s;<br /><br />c) het ontwikkelen van bedrijfsgerichte acties, die aantonen dat vormgeving als kwaliteitsbevorderend en innoverend managementinstrument het bestaan van het bedrijf bestendigt en de export en de competitiviteit stimuleert;<br /><br />7° speciale taken:<br /><br />a) de sensibilisering zowel op eigen initiatief, op vraag van de Vlaamse regering of andere overheids- en private diensten op het gebied van de bedrijfsondersteuning;<br /><br />b) de bedrijfsbegeleiding op maat van bepaalde doelgroepen of thema's.<br /><br />§ 2. De dienstverlening, die in het punt 1° tot 3° van de in de eerste paragraaf opgesomde taken is vervat, waarborgt te allen tijde een pro-actief of preventief bedrijfsbeleid dat ondernemingen aanspoort tot een beleid gericht op het voorkomen van faillissementen.<br /><br />De nadere regels betreffende het preventief bedrijfsbeleid worden vastgelegd door de Vlaamse regering, na overleg met de SERV.<br /><br />§ 3. De Vlaamse regering kan nadere regels uitvaardigen betreffende de in de eerste paragraaf bedoelde taken. In deze regels kunnen de taken van het agentschap verder worden gepreciseerd en geconcretiseerd.<br /><br />Het Vlaams Agentschap Ondernemen kan door de Vlaamse regering worden belast met bijzondere opdrachten die kaderen binnen de in artikel 4 en artikel 5, § 1 en § 2, bedoelde missie en taken, en die zullen worden uitgevoerd conform de voorwaarden en modaliteiten bepaald in de beheersovereenkomst.
+
+### ART. 6.
+
+§ 1. Met het oog op de vervulling van de in artikel 4 bedoelde missie en de in artikel 5 bedoelde taken is het Vlaams Agentschap Ondernemen gerechtigd alle activiteiten te verrichten die rechtstreeks of onrechtstreeks bijdragen tot de verwezenlijking van voormelde missie en voormelde taken.<br /><br />Onverminderd het bepaalde in het kaderdecreet en in andere decreten, beschikt het Vlaams Agentschap Ondernemen voor de uitoefening van de in artikel 5 bedoelde taken, over de hierna vermelde bijzondere bevoegdheden die het uitoefent in overeenstemming met het bepaalde in dit decreet, zijn uitvoeringsbesluiten en de beheersovereenkomst die het verbindt:<br /><br />1° het oprichten van al dan niet duurzame samenwerkingsverbanden, of het erin deelnemen, zulks met het oog op de verwezenlijking van een betere bedrijfsbegeleiding;<br /><br />2° onverminderd de bepalingen inzake retributie of lasten van algemene aard opgenomen in andere decreten en onder de voorwaarden en modaliteiten bepaald door de Vlaamse regering, het heffen van kostenvergoedingen voor dienstverlening die door de Vlaamse regering zijn aangewezen.<br /><br />Naast de bevoegdheden genoemd in het tweede lid van deze paragraaf, beschikt het Vlaams Agentschap Ondernemen ook nog over de hierna opgesomde bevoegdheden, met dien verstande dat deze bevoegdheden uitsluitend zijn toegekend en kunnen worden uitgeoefend met het oog op de vervulling van de taken bedoeld in artikel 5, § 1, 6°, en dat deze bevoegdheden moeten worden uitgeoefend overeenkomstig de voorwaarden en modaliteiten die door de Vlaamse regering worden bepaald:<br /><br />1° het toekennen van subsidies;<br /><br />2° het labelen en/of certificeren van actoren.<br /><br />§ 2. Als rechtspersoon is het Vlaams Agentschap Ondernemen algemeen rechts-, handelings- en procesbekwaam, zulks binnen de perken van zijn missie en takenstelling als bedoeld in respectievelijk de artikelen 4 en 5.<br /><br />§ 3. Met het oog op de vervulling van de in artikel 4 bedoelde missie en de in de eerste paragraaf van artikel 6 bedoelde bevoegdheden kan de Vlaamse regering nadere regels vastleggen inzake de bevoegdheden.
+
+## [HOOFDSTUK IIIbis ERKENNINGEN EN SUBSIDIËRING VAN DE ERKENDE INRICHTERS VAN VLAO-AANSPREEKPUNTEN EN VAN DE ERKENDE VLAO-AANSPREEKPUNTEN (verv. decr. 21 november 2008, art. 55, I: 27 januari 2009)]
+
+## HOOFDSTUK IV BESTUUR EN WERKING
+
+### ART. 7.
+
+De Vlaamse regering regelt nader het bestuur en de werking van het agentschap.
+
+## HOOFDSTUK V BEHEERSOVEREENKOMST
+
+### ART. 8.
+
+Het hoofd van het Vlaams Agentschap Ondernemen raadpleegt het raadgevend comité bedoeld in artikel 9 inzake alle aangelegenheden die het aanbelangt bij het sluiten van de beheersovereenkomst.<br /><br />Onverminderd de bepalingen van artikel 14, 15 en 16 van het Kaderdecreet regelt de beheersovereenkomst:<br /><br />- de voorwaarden waaronder het agentschap samenwerkingsovereenkomsten en duurzame samenwerkingsverbanden met instellingen, ondernemingen of personen kan afsluiten;<br /><br />- de wijze waarop het accountmanagement wordt waargenomen.
+
+## HOOFDSTUK VI RAADGEVEND COMITÉ
+
+### ART. 9.
+
+Bij het Vlaams Agentschap Ondernemen wordt een raadgevend comité opgericht.
+
+### ART. 10.
+
+§ 1. Het hoofd van het Vlaams Agentschap Ondernemen is van rechtswege voorzitter van het raadgevend comité.<br /><br />§ 2. Onverminderd het bepaalde in de eerste paragraaf, wordt het raadgevend comité samengesteld uit:<br /><br />1° vertegenwoordigers van de representatieve organisaties van de werkgevers en de middenstand;<br /><br />2° vertegenwoordigers van de representatieve organisaties van de werknemers.<br /><br />De vertegenwoordigers worden benoemd op voordracht van deze organisaties.<br /><br />In het raadgevend comité kunnen ook andere, door de Vlaamse regering aan te wijzen personen zitting hebben, alsook onafhankelijke deskundigen op het werkterrein van het agentschap.<br /><br />§ 3. Het mandaat van lid van het raadgevend comité, het voorzitterschap uitgezonderd, is onverenigbaar met een functie als lid van het personeel of een leidinggevende functie van het agentschap zelf.<br /><br />§ 4. De Vlaamse regering bepaalt de vergoeding van de leden van het raadgevend comité.
+
+### ART. 11.
+
+§ 1. Het raadgevend comité heeft enkel een adviserende bevoegdheid en geen beslissingsbevoegdheid.<br /><br />§ 2. Het raadgevend comité heeft als concrete taken:<br /><br />1° de verlening van adviezen en het formuleren van voorstellen ten aanzien van het hoofd van het agentschap en met betrekking tot de werking van het agentschap;<br /><br />2° het bijdragen tot de kwaliteit en de optimalisatie van de dienstverlening van het agentschap, zulks inzonderheid door adviesverlening steunende op de expertise van de leden van het raadgevend comité;<br /><br />3° het waken over de kwaliteitsopvolging inzake de dienstverlening van het agentschap;<br /><br />4° het geven van feedback omtrent de werking van het agentschap en, daarbij aansluitend, van advies met het oog op de eventuele bijsturing van de werking van het agentschap.<br /><br />§ 3. De Vlaamse regering kan de in de paragrafen 1 en 2 bedoelde taken nader concretiseren en/of preciseren.
+
+## HOOFDSTUK VII EXPERTGROEPEN
+
+### ART. 12.
+
+§ 1. Het hoofd van het Vlaams Agentschap Ondernemen kan meerdere expertgroepen oprichten.<br /><br />§ 2. De expertgroepen hebben tot opdracht het hoofd van het agentschap voor te lichten in zijn taak.<br /><br />§ 3. De expertgroepen zijn samengesteld uit personen die door het hoofd van het agentschap worden gekozen wegens hun bijzondere bevoegdheid en/of expertise.<br /><br />§ 4. De concrete samenstelling en werking van de expertgroepen worden nader geregeld in het huishoudelijk reglement van het agentschap.<br /><br />§ 5. In elk geval wordt door het hoofd van het agentschap binnen de twee maanden na de inwerkingtreding van dit decreet een expertgroep vormgeving ingesteld.<br /><br />§ 6. De Vlaamse regering bepaalt de vergoeding van de leden van de expertgroepen.
+
+## HOOFDSTUK VIII FINANCIËLE MIDDELEN
+
+### ART. 13.
+
+§ 1. Het Vlaams Agentschap Ondernemen kan beschikken over:<br /><br />1° dotaties;<br /><br />2° leningen;<br /><br />3° fiscale heffingen, voorzover bij decreet toegewezen aan het agentschap;<br /><br />4° retributies, voorzover bij decreet toegewezen aan het agentschap;<br /><br />5° ontvangsten voortvloeiend uit daden van beheer of beschikking met betrekking tot eigen domeingoederen;<br /><br />6° schenkingen en legaten in speciën;<br /><br />7° inkomsten uit eigen participaties en uit door het agentschap verstrekte leningen aan derden;<br /><br />8° opbrengsten uit de verkoop van eigen participaties;<br /><br />9° de subsidies waarvoor het agentschap als begunstigde in aanmerking komt;<br /><br />10° terugvorderingen van ten onrechte gedane uitgaven;<br /><br />11° onverminderd de bepalingen inzake retributie of lasten van algemene aard opgenomen in andere decreten en onder de voorwaarden en modaliteiten bepaald door de Vlaamse regering, vergoedingen voor prestaties aan derden, volgens de modaliteiten bepaald in de beheersovereenkomst.<br /><br />§ 2. Tenzij anders is bepaald in een decreet worden de in de eerste paragraaf genoemde ontvangsten beschouwd als ontvangsten, die bestemd zijn voor de gezamenlijke uitgaven.<br /><br />§ 3. Het agentschap kan schenkingen en legaten aanvaarden.
+
+## HOOFDSTUK IX WIJZIGINGS- EN COÖRDINATIEMACHTIGING
+
+### ART. 14.
+
+§ 1. De Vlaamse regering wordt ermee belast de bestaande wets- en decreetsbepalingen betreffende de missie, taken en bevoegdheden van de Gewestelijke Ontwikkelingsmaatschappijen en het Vlaams Instituut voor het Zelfstandig Ondernemen te wijzigen, aan te vullen, te vervangen of op te heffen, om ze in overeenstemming te brengen met de bepalingen van dit decreet en van het Kaderdecreet.<br /><br />De besluiten die krachtens deze paragraaf worden vastgesteld, houden op uitwerking te hebben indien zij niet bij decreet zijn bekrachtigd binnen de 9 maanden na de datum van hun inwerkingtreding. De bekrachtiging werkt terug tot deze laatste datum.<br /><br />De in deze paragraaf aan de Vlaamse regering opgedragen bevoegdheid vervalt 9 maanden na de inwerkingtreding van dit decreet. Na die datum kunnen de besluiten die krachtens deze paragraaf zijn vastgesteld en zijn bekrachtigd alleen bij een decreet worden gewijzigd, aangevuld, vervangen of opgeheven.<br /><br />§ 2. De Vlaamse regering wordt ermee belast de bepalingen van de wetten en decreten betreffende de Gewestelijke Ontwikkelingsmaatschappijen en het Vlaams Instituut voor het Zelfstandig Ondernemen, alsook de bepalingen die daarin uitdrukkelijk of stilzwijgend wijzigingen hebben aangebracht tot het tijdstip van de coördinatie, te coördineren. Te dien einde kan de regering:<br /><br />1° de te coördineren bepalingen anders inrichten, inzonderheid opnieuw ordenen en vernummeren;<br /><br />2° de verwijzingen in de te co÷rdineren bepalingen dienovereenkomstig vernummeren;<br /><br />3° de te coördineren bepalingen met het oog op onderlinge overeenstemming en eenheid van terminologie herschrijven zonder te raken aan de erin neergelegde beginselen;<br /><br />4° de verwijzingen naar de in de coördinatie opgenomen bepalingen die in andere niet in de cordinatie opgenomen bepalingen voorkomen, naar de vorm aanpassen.<br /><br />De in het eerste lid bedoelde coördinatie treedt pas in werking nadat zij bekrachtigd is door het Vlaams Parlement.
+
+## HOOFDSTUK X SLOTBEPALINGEN
+
+### ART. 15.
+
+(niet opgenomen)<br /><br />(Opgeheven worden:<br /><br />1° artikel 3, § 2, 2° en 3°, van het decreet van 12 juli 1990 houdende organisatie van de Gewestelijke Ontwik-kelingsmaatschappijen;<br /><br />2° het decreet van 31 juli 1990 tot reorganisatie van de Vlaamse commissie voor Preventief Bedrijfsbeleid)
+
+### ART. 16.
+
+Onverminderd de bepalingen van artikel 5 en 35 van het kaderdecreet zijn de hierna volgende overgangsbepalingen van toepassing:<br /><br />1° de Vlaamse regering neemt de nodige maatregelen inzake de overgang van de commissarissen van de Vlaamse regering bij de Gewestelijke Ontwikkelingsmaatschappijen naar het departement of het Vlaams Agentschap Ondernemen;<br /><br />2° de Vlaamse regering wordt er toe gemachtigd personeel in contractueel verband in dienst bij door de provincies gefinancierde V.Z.W.'s inzake economische ontwikkeling en dat in bepaalde provincies volledig ingeschakeld is in de werking van de GOM van de betreffende provincie, in dienst te nemen in het departement of het Vlaams Agentschap Ondernemen;<br /><br />3° met het oog op de in dit artikel sub 1° en 2° bedoelde overgang en indienstneming, moet er tussen de Vlaamse regering en de representatieve werknemersorganisaties, een protocol zijn gesloten. Dit protocol legt vast welke individuele personen in aanmerking komen voor de overdracht en onder welke loons- en arbeidsvoorwaarden de personeelsleden die overgaan in het departement of het Vlaams Agentschap Ondernemen zullen worden tewerkgesteld;<br /><br />4° de uitvoering van het sub 3° bedoelde protocol is voor de individuele contractuele personeelsleden en commissarissen van de Vlaamse regering die bij de Gewestelijke Ontwikkelingsmaatschappijen werden aangesteld afhankelijk van hun akkoord.
+
+### ART. 17.
+
+Behoudens andersluidende bepalingen, worden de begroting en rekeningen opgemaakt en goedgekeurd en de controle door het Rekenhof uitgevoerd overeenkomstig de bepalingen van de wet van 16 maart 1954 betreffende de controle op de instellingen van openbaar nut van categorie A.
+
+### ART. 18.
+
+Voor de huidige titularis van de rang A2L van de rechtsvoorganger van het agentschap wordt een functie van algemeen directeur voorzien, tot hij aangesteld wordt in een andere functie of het agentschap of zijn rechtsvoorganger verlaat.
+
+### ART. 19.
+
+De Vlaamse regering bepaalt de datum waarop dit decreet in werking treedt.<br /><br />
