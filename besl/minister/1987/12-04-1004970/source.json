@@ -1,0 +1,17 @@
+{
+  "codex_id": 1004970,
+  "title": "Ministerieel besluit van 1987-12-04 tot vaststelling van de vergoeding aan de erkende geneesheren, belast met de dopingcontrole bij sportcompetities",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1004970/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "7084666afa3d07ed9143a0e61e904059c55c163656d85e70c08d444b1e1d5959",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1004970&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "1987-12-04",
+  "gazette": "1988-08-31",
+  "numac": 0,
+  "document_start": "1987-02-15",
+  "document_end": null,
+  "in_force": "2006-06-01",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
