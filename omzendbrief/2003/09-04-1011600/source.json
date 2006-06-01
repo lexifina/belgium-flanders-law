@@ -1,0 +1,17 @@
+{
+  "codex_id": 1011600,
+  "title": "Omzendbrief van 2003-09-04 nr. 33 Vlaams Landbouwinvesteringsfonds (VLIF) - steunmaatregelen van het VLIF naar aanleiding van de vogelpest (aviaire influenza)",
+  "type": "Omzendbrief",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1011600/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "d18aee740308c8595470010b7b7cec5a0a472aba7ea1d492acc09534c257a5c2",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1011600&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "2003-09-04",
+  "gazette": "2003-09-25",
+  "numac": 2003200875,
+  "document_start": null,
+  "document_end": null,
+  "in_force": "2006-06-01",
+  "article_versions": 1,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
