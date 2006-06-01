@@ -1,0 +1,17 @@
+{
+  "codex_id": 1005443,
+  "title": "Besluit van de Vlaamse Regering van 1997-04-22 tot regeling van de selectieprocedure en de voorwaarden voor subsidiëring van de projecten ingediend in het kader van de educatieve toepassing van informatie- en communicatietechnologie in het onderwijs",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1005443/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "be8e2e15721de3a11c86dd789ad7cc94611ee10d4d70225478128b22acc46417",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1005443&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "1997-04-22",
+  "gazette": "1997-06-24",
+  "numac": 1997035679,
+  "document_start": "1997-04-22",
+  "document_end": null,
+  "in_force": "2006-06-01",
+  "article_versions": 16,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
