@@ -1,0 +1,17 @@
+{
+  "codex_id": 1007073,
+  "title": "Besluit van de Vlaamse Regering van 1999-07-20 tot herlibellering van de organisatieafdelingen van de begroting van de Vlaamse Gemeenschap",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1007073/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "5dc2f87392d55e90f01e4390c1a37dfaefc9065c995d8282211a8921939d19bf",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1007073&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "1999-07-20",
+  "gazette": "1999-12-21",
+  "numac": 1999036455,
+  "document_start": null,
+  "document_end": null,
+  "in_force": "2006-06-01",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
