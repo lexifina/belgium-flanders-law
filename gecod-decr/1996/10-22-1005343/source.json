@@ -1,0 +1,17 @@
+{
+  "codex_id": 1005343,
+  "title": "Gecodificeerd Decreet van 1996-10-22 betreffende de ruimtelijke ordening",
+  "type": "Gecodificeerd Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1005343/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "c710291a0ec14152c68b17b67e521d7d2983a3d92b80cc2a0c5c46f01df065bd",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1005343&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "1996-10-22",
+  "gazette": "1997-03-15",
+  "numac": 0,
+  "document_start": null,
+  "document_end": "2009-08-31",
+  "in_force": "2006-06-01",
+  "article_versions": 74,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
