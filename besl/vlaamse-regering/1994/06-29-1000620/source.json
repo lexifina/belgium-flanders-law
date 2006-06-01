@@ -1,0 +1,17 @@
+{
+  "codex_id": 1000620,
+  "title": "Besluit van de Vlaamse Regering van 1994-06-29 tot vaststelling van de voorwaarden voor de erkenning van laboratoria voor wateranalyse",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1000620/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "85071ab520e0fbb6b9c649257115cb68b6202973a6aa0eb5c26efb1cd3c6c4a7",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1000620&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "1994-06-29",
+  "gazette": "1994-09-14",
+  "numac": 1994036141,
+  "document_start": null,
+  "document_end": "2010-12-31",
+  "in_force": "2006-06-01",
+  "article_versions": 18,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
