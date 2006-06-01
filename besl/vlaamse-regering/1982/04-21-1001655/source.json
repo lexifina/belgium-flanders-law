@@ -1,0 +1,17 @@
+{
+  "codex_id": 1001655,
+  "title": "Besluit van de Vlaamse Regering van 1982-04-21 houdende algemene voorwaarden die gelden voor verbrandingsinstallaties voor huishoudelijke afvalstoffen en daarmee gelijkgestelde afvalstoffen",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1001655/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "350f131fc237b979fdca622490a93a76d6210a222ac412054cd6d84dc593f340",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1001655&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "1982-04-21",
+  "gazette": "1982-06-10",
+  "numac": 1982000837,
+  "document_start": "1982-06-10",
+  "document_end": null,
+  "in_force": "2006-06-01",
+  "article_versions": 26,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
