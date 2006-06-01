@@ -1,0 +1,17 @@
+{
+  "codex_id": 1013959,
+  "title": "Ministerieel besluit van 2005-03-11 houdende goedkeuring van de GRB-specificaties in uitvoering van het decreet van 16 april 2004 houdende het Grootschalig Referentie Bestand",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1013959/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "3258d8a181f5b1430fc643ade9ab5315c8e65b28cef70d2902e9e492044b1c5b",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1013959&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "2005-03-11",
+  "gazette": "2005-09-01",
+  "numac": 2005036027,
+  "document_start": "2005-09-01",
+  "document_end": null,
+  "in_force": "2006-06-01",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
