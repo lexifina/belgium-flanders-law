@@ -1,0 +1,17 @@
+{
+  "codex_id": 1042157,
+  "title": "Besluit van de Vlaamse Regering van 2026-06-26 tot herverdeling vanuit een provisioneel krediet van de Vlaamse Gemeenschap voor het begrotingsjaar 2026 in het kader van de besteding van de middelen uit het Vlaams Klimaatfonds",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1042157/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "3609aeb969a74ca77319f9c9acaf163b7c87d72b4c4cfdafc2ec46479c5a55e8",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1042157&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "2026-06-26",
+  "gazette": "0001-01-01",
+  "numac": 0,
+  "document_start": "2026-06-26",
+  "document_end": null,
+  "in_force": "2006-06-01",
+  "article_versions": 1,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
