@@ -1,0 +1,17 @@
+{
+  "codex_id": 1001353,
+  "title": "Besluit van de Vlaamse Regering van 1994-10-12 tot vaststelling van de weddeschalen verbonden aan de bijzondere graden bij de Dienst voor de Scheepvaart",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1001353/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "04d3cc1441775a35b13525b14b9490b10c579a8c024894695f871c0244518c94",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1001353&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "1994-10-12",
+  "gazette": "1994-12-09",
+  "numac": 1994036462,
+  "document_start": null,
+  "document_end": null,
+  "in_force": "2006-06-01",
+  "article_versions": 6,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
