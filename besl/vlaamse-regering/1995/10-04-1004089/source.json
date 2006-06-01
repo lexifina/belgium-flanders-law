@@ -1,0 +1,17 @@
+{
+  "codex_id": 1004089,
+  "title": "Besluit van de Vlaamse Regering van 1995-10-04 betreffende de oprichting, de samenstelling en de werking van het overkoepelend onderhandelingscomité van het gesubsidieerd vrij onderwijs",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1004089/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "40ef638c8892282229c0dd3eb6a4fd97f4ac76343c00141c45a497f3f8644cf1",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1004089&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "1995-10-04",
+  "gazette": "1995-11-18",
+  "numac": 1995936567,
+  "document_start": "1995-10-01",
+  "document_end": null,
+  "in_force": "2006-06-01",
+  "article_versions": 24,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
