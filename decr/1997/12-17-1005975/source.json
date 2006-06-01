@@ -1,0 +1,17 @@
+{
+  "codex_id": 1005975,
+  "title": "Decreet van 1997-12-17 houdende subsidiëring van provinciebesturen inzake het voeren van een jeugdwerkbeleid",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1005975/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "d432d5e5646172f26b01533c51acb2d7d2b78c8264071db85bd101be77726f9b",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1005975&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "1997-12-17",
+  "gazette": "1998-02-17",
+  "numac": 1998035186,
+  "document_start": "1997-01-01",
+  "document_end": "2003-03-23",
+  "in_force": "2006-06-01",
+  "article_versions": 11,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
