@@ -1,0 +1,17 @@
+{
+  "codex_id": 1007761,
+  "title": "Besluit van de Vlaamse Regering van 2000-12-22 tot regeling van de werking van het Financieringsfonds voor schuldafbouw en eenmalige investeringsuitgaven",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1007761/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "f6c27a4f015225fc56a26bcbed70313512d5b1f04b66b7c4f2664a19b462c6aa",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1007761&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "2000-12-22",
+  "gazette": "2000-12-30",
+  "numac": 2000036312,
+  "document_start": "2000-12-31",
+  "document_end": null,
+  "in_force": "2006-06-01",
+  "article_versions": 8,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
