@@ -1,0 +1,17 @@
+{
+  "codex_id": 1012422,
+  "title": "Decreet van 1973-05-11 tot oprichting van het \"Collegium Trilingue\"",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1012422/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "e4d793dd586b8e2c8db790227b9fdfa7413ea917714047eaf503974b51b99f0c",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1012422&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "1973-05-11",
+  "gazette": "1973-07-04",
+  "numac": 1973051103,
+  "document_start": "1973-07-14",
+  "document_end": null,
+  "in_force": "2006-06-01",
+  "article_versions": 8,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
