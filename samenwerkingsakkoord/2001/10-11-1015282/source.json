@@ -1,0 +1,17 @@
+{
+  "codex_id": 1015282,
+  "title": "Samenwerkingsakkoord van 2001-10-11 tussen de Staat, het Vlaams Gewest, het Waals Gewest en het Brussels Hoofdstedelijk Gewest met betrekking tot het meerjarig investeringsplan voor 2001-2012 van de N.M.B.S.",
+  "type": "Samenwerkingsakkoord",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1015282/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "5fa66392bc0f0623e175d0b6607fc872390281daaab58d20a0dc965d6ac51bad",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1015282&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "2001-10-11",
+  "gazette": "2002-03-26",
+  "numac": 0,
+  "document_start": "2002-03-23",
+  "document_end": null,
+  "in_force": "2006-06-01",
+  "article_versions": 21,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
