@@ -1,0 +1,17 @@
+{
+  "codex_id": 1001989,
+  "title": "Besluit van de Vlaamse Regering van 1994-11-30 houdende vaststelling van de procedure voor de adviescommissie bedoeld in artikel 24 van het decreet van 23 januari 1991 inzake de bescherming van het leefmilieu tegen verontreiniging door meststoffen",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1001989/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "f321044b6e080a0af648bdec37b3afe790a8b11d65b66c5f6bc6a04be0c4d32c",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1001989&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "1994-11-30",
+  "gazette": "1995-03-11",
+  "numac": 1995035145,
+  "document_start": null,
+  "document_end": null,
+  "in_force": "2006-06-01",
+  "article_versions": 11,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
