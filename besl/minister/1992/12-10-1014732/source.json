@@ -1,0 +1,17 @@
+{
+  "codex_id": 1014732,
+  "title": "Ministerieel besluit van 1992-12-10 betreffende de produktie, de handel, het intracommunautair handelsverkeer en de invoer van varkenssperma",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1014732/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "4334cfa5a29593f5ed7519e900f6348449ce1571b5b384ac31ae6d602675f796",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1014732&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "1992-12-10",
+  "gazette": "1992-12-19",
+  "numac": 0,
+  "document_start": "1992-12-19",
+  "document_end": "2010-12-31",
+  "in_force": "2006-06-01",
+  "article_versions": 16,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
