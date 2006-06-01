@@ -1,0 +1,17 @@
+{
+  "codex_id": 1015151,
+  "title": "Samenwerkingsakkoord van 2005-06-24 tussen het Waalse Gewest, het Vlaamse Gewest en het Brussels Hoofdstedelijk Gewest betreffende de invoering van het begrip \"lichte vrachtauto\" in Titel II van het Wetboek van de met de inkomstenbelastingen gelijkgestelde belastingen, met inachtneming van de fiscale neutraliteit en ter voorkoming van de concurrentie tussen de Gewesten op het vlak van de inschrijving van de voertuigen",
+  "type": "Samenwerkingsakkoord",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1015151/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "49b1fd6b872ed08630cbb3917b675db5ddf3c2bbcb8717b84833c3d59b0886db",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1015151&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "2005-06-24",
+  "gazette": "2006-01-25",
+  "numac": 0,
+  "document_start": null,
+  "document_end": null,
+  "in_force": "2006-06-01",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
