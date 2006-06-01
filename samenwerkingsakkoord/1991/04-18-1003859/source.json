@@ -1,0 +1,17 @@
+{
+  "codex_id": 1003859,
+  "title": "Samenwerkingsakkoord van 1991-04-18 tussen de Staat, de Franse, Vlaamse en Duitstalige Gemeenschap en de Gemeenschappelijke Gemeenschapscommissie om een harmonieuse herstructurering van het Rijksfonds voor sociale reclassering van de minder-validen te verzekeren",
+  "type": "Samenwerkingsakkoord",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1003859/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "b58ebe6c29e99bd729be21143a1c2d37973392ec879c39c96671e052c36d939d",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1003859&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "1991-04-18",
+  "gazette": "1991-08-24",
+  "numac": 0,
+  "document_start": null,
+  "document_end": null,
+  "in_force": "2006-06-01",
+  "article_versions": 14,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
