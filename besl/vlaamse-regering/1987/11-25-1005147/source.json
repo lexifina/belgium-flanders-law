@@ -1,0 +1,17 @@
+{
+  "codex_id": 1005147,
+  "title": "Besluit van de Vlaamse Regering van 1987-11-25 houdende goedkeuring van het reglement inzake samenvoeging van opdrachten, genomen ter uitvoering van artikel 9 van het decreet van 1 augustus 1978 houdende maatregelen tot samenwerking onder de Antwerpse Universitaire Instellingen",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1005147/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "b4944030bf2ab5a92edfc8629592f67a16a0db3cc8c2492189b301f38dde4f06",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1005147&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "1987-11-25",
+  "gazette": "1988-04-16",
+  "numac": 0,
+  "document_start": null,
+  "document_end": null,
+  "in_force": "2006-06-01",
+  "article_versions": 22,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
