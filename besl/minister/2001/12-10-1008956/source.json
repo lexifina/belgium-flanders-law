@@ -1,0 +1,17 @@
+{
+  "codex_id": 1008956,
+  "title": "Ministerieel besluit van 2001-12-10 inzake kwaliteitszorg in de rusthuizen, centra voor dagverzorging, centra voor kortverblijf, serviceflats en woningcomplexen met dienstverlening",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1008956/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "6307e0744ec09bb7ea7c5349f06374031b380fd875a0772da5691a528cf60574",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1008956&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "2001-12-10",
+  "gazette": "2002-03-28",
+  "numac": 2002035324,
+  "document_start": "2001-01-01",
+  "document_end": null,
+  "in_force": "2006-06-01",
+  "article_versions": 5,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
