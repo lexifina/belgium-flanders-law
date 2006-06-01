@@ -1,0 +1,17 @@
+{
+  "codex_id": 1008092,
+  "title": "Besluit van de Vlaamse Regering van 2001-07-13 tot bepaling van de bevoegdheden van de leden van de Vlaamse regering",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1008092/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "eb0a34b61ac0d7000d8365d0371baf767ae43600d4c3faccf6d16a6350efeb7e",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1008092&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "2001-07-13",
+  "gazette": "2001-07-26",
+  "numac": 2001035827,
+  "document_start": "2001-08-01",
+  "document_end": "2002-07-02",
+  "in_force": "2006-06-01",
+  "article_versions": 33,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
