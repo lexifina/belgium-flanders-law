@@ -1,0 +1,17 @@
+{
+  "codex_id": 1015802,
+  "title": "Samenwerkingsakkoord van 1994-12-13 tussen de federale staat en de gemeenschappen betreffende de uitvoering van artikel 45ter van de bijzondere wet van 16 januari 1989 betreffende de financiering van de gemeenschappen en de gewesten en artikel 58quater van de wet van 31 december 1983 tot hervorming der instellingen voor de duitstalige gemeenschap - storting van de bedrijfsvoorheffing",
+  "type": "Samenwerkingsakkoord",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1015802/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "aaacaa69bfadade0a9431e172cfa766e0270b966ce54aaeebe606c4e0494a496",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1015802&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "1994-12-13",
+  "gazette": "1995-01-17",
+  "numac": 1995021472,
+  "document_start": "1994-12-13",
+  "document_end": null,
+  "in_force": "2006-06-01",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
