@@ -1,0 +1,17 @@
+{
+  "codex_id": 1012523,
+  "title": "Ministerieel besluit van 2004-03-29 betreffende de kenmerken waartoe het onderzoek van bepaalde rassen van landbouw- en groentegewassen zich tenminste moeten uitstrekken, en de minimumeisen voor dat onderzoek",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1012523/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "89662bc8037af54bb9228ec6fbadfe2580cae608d779d289789c62a762c0689b",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1012523&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "2004-03-29",
+  "gazette": "2004-04-09",
+  "numac": 2004035550,
+  "document_start": null,
+  "document_end": "2007-07-04",
+  "in_force": "2006-06-01",
+  "article_versions": 7,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
