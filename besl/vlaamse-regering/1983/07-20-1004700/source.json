@@ -1,0 +1,17 @@
+{
+  "codex_id": 1004700,
+  "title": "Besluit van de Vlaamse Regering van 1983-07-20 houdende vaststelling van het aantal aanvaardbare lestijden in het onderwijs in de plastische kunsten met beperkt leerplan en in het hoger onderwijs in de beeldende kunsten met volledig leerplan",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1004700/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "ea4499d8286310d3c5dbeee30ba205a568d00413d8e3d30b8e459d6d0ba33ba5",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1004700&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "1983-07-20",
+  "gazette": "1983-08-13",
+  "numac": 1983923416,
+  "document_start": null,
+  "document_end": null,
+  "in_force": "2006-06-01",
+  "article_versions": 7,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
