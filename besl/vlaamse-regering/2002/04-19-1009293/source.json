@@ -1,0 +1,17 @@
+{
+  "codex_id": 1009293,
+  "title": "Besluit van de Vlaamse Regering van 2002-04-19 tot vaststelling van de ontwikkelingsdoelen algemene en sociale vorming in het buitengewoon secundair onderwijs van opleidingsvorm 3",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1009293/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "832d94d2d2f9ac7b5c4f8c1ae0cad80cdb89d853793b023696beed93ad9ffc8f",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1009293&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "2002-04-19",
+  "gazette": "2002-07-26",
+  "numac": 2002035911,
+  "document_start": "2002-09-01",
+  "document_end": null,
+  "in_force": "2006-06-01",
+  "article_versions": 5,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
