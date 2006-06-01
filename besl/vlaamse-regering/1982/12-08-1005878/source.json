@@ -1,0 +1,17 @@
+{
+  "codex_id": 1005878,
+  "title": "Besluit van de Vlaamse Regering van 1982-12-08 houdende de modaliteiten met betrekking tot de oprichting bij de Belgische radio en Televisie, Nederlandse Uitzendingen, van een reservefonds zonder bijzondere bestemming",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1005878/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "c3abb239a58e9a526ae3be1ea01e6120dc800c131771b884ff10763b1ec09a12",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1005878&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "1982-12-08",
+  "gazette": "1983-02-02",
+  "numac": 1983080006,
+  "document_start": "1983-02-12",
+  "document_end": null,
+  "in_force": "2006-06-01",
+  "article_versions": 6,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
