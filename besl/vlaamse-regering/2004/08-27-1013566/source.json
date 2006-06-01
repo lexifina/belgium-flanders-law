@@ -1,0 +1,17 @@
+{
+  "codex_id": 1013566,
+  "title": "Besluit van de Vlaamse Regering van 2004-08-27 betreffende de erkenning en subsidiëring van centra voor loopbaandienstverlening",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1013566/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "43186dce51a32e9f0980f7f06d421ce31345a683215e6e4e9acdc6ca19cd791d",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1013566&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "2004-08-27",
+  "gazette": "2004-12-06",
+  "numac": 2004036773,
+  "document_start": "2004-12-06",
+  "document_end": "2013-06-30",
+  "in_force": "2006-06-01",
+  "article_versions": 23,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
