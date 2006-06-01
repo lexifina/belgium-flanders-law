@@ -1,0 +1,17 @@
+{
+  "codex_id": 1001877,
+  "title": "Samenwerkingsakkoord van 1991-03-28 tussen de Belgische Staat en de Vlaamse Gemeenschap betreffende het restaureren en het bezettingsklaar maken ten behoeve van de Vlaamse Gemeenschap, voor de huisvesting van haar ministeriële kabinetten en het inrichten van woongelegenheden in de gebouwen gelegen aan het Martelaarsplein te Brussel",
+  "type": "Samenwerkingsakkoord",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1001877/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "fe30d5edfe0b494c010f26cbdc6d50d2f5686ff5f81546378a444431f5e89538",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1001877&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "1991-03-28",
+  "gazette": "1991-06-01",
+  "numac": 0,
+  "document_start": null,
+  "document_end": null,
+  "in_force": "2006-06-01",
+  "article_versions": 12,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
