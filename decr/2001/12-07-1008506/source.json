@@ -1,0 +1,17 @@
+{
+  "codex_id": 1008506,
+  "title": "Decreet van 2001-12-07 tot regeling van enkele gevolgen van de invoering van de euro in de Vlaamse regelgeving",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1008506/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "2a556a27151fcc2f1f00015cbba895a7e1b25219972412a25fb7dcba50f5704b",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1008506&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "2001-12-07",
+  "gazette": "2001-12-28",
+  "numac": 2001036437,
+  "document_start": "2002-01-01",
+  "document_end": null,
+  "in_force": "2006-06-01",
+  "article_versions": 8,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
