@@ -1,0 +1,17 @@
+{
+  "codex_id": 1010306,
+  "title": "Ministerieel besluit van 2001-12-21 betreffende de mobiliteitsconvenants",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1010306/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "7e66861f1a0be6386986ca1b423831dbb570be37f5106e9537940c676dc05f0f",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1010306&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "2001-12-21",
+  "gazette": "2003-01-08",
+  "numac": 2002036512,
+  "document_start": null,
+  "document_end": "2013-02-28",
+  "in_force": "2006-06-01",
+  "article_versions": 26,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
