@@ -1,0 +1,17 @@
+{
+  "codex_id": 1006384,
+  "title": "Omzendbrief van 1998-02-10 RO/98/01 handleiding bij het besluit van de Vlaamse regering van 4 november 1997 tot vaststelling van de samenstelling van het dossier voor de aanvraag om een bouwvergunning",
+  "type": "Omzendbrief",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1006384/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "3fc227db2b6c33c3f24f150c19d3bd6d91d5db5e043cb4dfa32e5e3e38e1d4bf",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1006384&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "1998-02-10",
+  "gazette": "1998-11-17",
+  "numac": 1998036253,
+  "document_start": "1998-11-27",
+  "document_end": "2016-12-30",
+  "in_force": "2006-06-01",
+  "article_versions": 9,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
