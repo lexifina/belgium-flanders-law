@@ -1,0 +1,17 @@
+{
+  "codex_id": 1014781,
+  "title": "Ministerieel besluit van 1998-05-06 betreffende de toekenning van toelagen aan de diensten voor bedrijfsverzorging",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1014781/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "742c0982b008f4c4fd202ba0f2032560ede0a47e630475bc12c939d9e063d81b",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1014781&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "1998-05-06",
+  "gazette": "1998-07-03",
+  "numac": 0,
+  "document_start": "1998-01-01",
+  "document_end": null,
+  "in_force": "2006-06-01",
+  "article_versions": 7,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
