@@ -1,0 +1,17 @@
+{
+  "codex_id": 1013242,
+  "title": "Decreet van 2004-05-07 houdende bepalingen inzake kas-, schuld- en waarborgbeheer van de Vlaamse Gemeenschap en het Vlaamse Gewest",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1013242/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "1c4b6b12010d61a77992d9321f924aff9348816c5cc18248df94be8ca1f4ef51",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1013242&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "2004-05-07",
+  "gazette": "2004-07-16",
+  "numac": 2004036102,
+  "document_start": "2003-12-31",
+  "document_end": "2999-12-31",
+  "in_force": "2006-06-01",
+  "article_versions": 24,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
