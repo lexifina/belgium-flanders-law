@@ -1,0 +1,17 @@
+{
+  "codex_id": 1003860,
+  "title": "Samenwerkingsakkoord van 1991-09-05 tussen de Staat en het Vlaamse Gewest voor de coördinatie van het onderzoeksprogramma \"Zeewetenschappen\"",
+  "type": "Samenwerkingsakkoord",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1003860/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "1167baa5113b297b38472d6ac3e8f00a616535ddef6cbe3e335e0966d798f0aa",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1003860&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "1991-09-05",
+  "gazette": "1991-11-19",
+  "numac": 0,
+  "document_start": null,
+  "document_end": null,
+  "in_force": "2006-06-01",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
