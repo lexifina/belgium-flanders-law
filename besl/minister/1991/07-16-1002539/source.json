@@ -1,0 +1,17 @@
+{
+  "codex_id": 1002539,
+  "title": "Ministerieel besluit van 1991-07-16 tot erkenning van de jachtexamens ingericht door het Brusselse Hoofdstedelijke of Waalse Gewest",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1002539/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "7329f4f666d18f9843987603576fd6d07ff0fdc0cb8540d01344d8fedafda87b",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1002539&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "1991-07-16",
+  "gazette": "1991-09-13",
+  "numac": 0,
+  "document_start": "1991-09-13",
+  "document_end": null,
+  "in_force": "2006-06-01",
+  "article_versions": 2,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
