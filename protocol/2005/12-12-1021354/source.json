@@ -1,0 +1,17 @@
+{
+  "codex_id": 1021354,
+  "title": "Protocol van 2005-12-12 Drugs 13.2. - Registratie van de behandelingsaanvragen via de Treatment Demand Indicator",
+  "type": "Protocol",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1021354/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "4d09c68ca46d5401ef6223e393a0e49975d301755f568c091c18070921f1a98b",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1021354&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "2005-12-12",
+  "gazette": "2006-05-03",
+  "numac": 2006022273,
+  "document_start": null,
+  "document_end": null,
+  "in_force": "2006-06-01",
+  "article_versions": 13,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
