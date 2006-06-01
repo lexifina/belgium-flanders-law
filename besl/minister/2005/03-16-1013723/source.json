@@ -1,0 +1,17 @@
+{
+  "codex_id": 1013723,
+  "title": "Ministerieel besluit van 2005-03-16 tot erkenning en subsidiëring van verenigingen van varkensfokkers",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1013723/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "18fc1498e58900eee6170a189dc37d444701aa5719daf64516c7e926dc5678ad",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1013723&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "2005-03-16",
+  "gazette": "2005-04-15",
+  "numac": 2005035406,
+  "document_start": "2005-01-01",
+  "document_end": "2010-12-31",
+  "in_force": "2006-06-01",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
