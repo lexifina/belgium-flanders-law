@@ -1,0 +1,17 @@
+{
+  "codex_id": 1007924,
+  "title": "Ministerieel besluit van 2001-03-07 tot bekrachtiging van de richtlijnen, genoemd in artikel 16, 1° en 3° van het besluit van de Vlaamse regering van 2 februari 2001 betreffende de erkenning van mammografische eenheden en regionale screeningscentra voor borstkankeropsporing",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1007924/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "0ca8d8c81f22a50fff7fb2f08fabb4c6367d15e96a0c830b9bf29ecf654b8a29",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1007924&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "2001-03-07",
+  "gazette": "2001-04-03",
+  "numac": 2001035361,
+  "document_start": null,
+  "document_end": null,
+  "in_force": "2006-06-01",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
