@@ -1,0 +1,17 @@
+{
+  "codex_id": 1000049,
+  "title": "Besluit van de Vlaamse Regering van 1994-03-30 houdende de rechtspositieregeling van het personeel bij arbeidsovereenkomst aangeworven bij de Vlaamse Dienst voor Arbeidsbemiddeling en Beroepsopleiding belast met het ter beschikking stellen van uitzendkrachten aan gebruikers",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1000049/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "07fc2f858ce5c60aca20706ebe6a2c5544ffa7d7ecd19979a04e03e107505ba0",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1000049&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "1994-03-30",
+  "gazette": "1994-04-26",
+  "numac": 1994035532,
+  "document_start": null,
+  "document_end": null,
+  "in_force": "2006-06-01",
+  "article_versions": 19,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
