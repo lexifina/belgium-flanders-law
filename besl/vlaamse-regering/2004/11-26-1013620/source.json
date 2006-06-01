@@ -1,0 +1,17 @@
+{
+  "codex_id": 1013620,
+  "title": "Besluit van de Vlaamse Regering van 2004-11-26 houdende de organisatie van Kind en Gezin en de instellingsspecifieke regeling van de rechtspositie van het personeel",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1013620/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "b5d445cc6d7bd4812b4ec46c092ad7fcfcce3231fe4046cee200239460ca362a",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1013620&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "2004-11-26",
+  "gazette": "2005-01-12",
+  "numac": 2004036890,
+  "document_start": null,
+  "document_end": "2006-03-31",
+  "in_force": "2006-06-01",
+  "article_versions": 20,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}

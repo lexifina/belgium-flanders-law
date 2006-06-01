@@ -1,0 +1,119 @@
+# Besluit van de Vlaamse Regering van 2004-11-26 houdende de organisatie van Kind en Gezin en de instellingsspecifieke regeling van de rechtspositie van het personeel
+
+## TITEL I TOEPASSINGSGEBIED EN ALGEMENE BEPALINGEN
+
+## HOOFDSTUK I TOEPASSINGSGEBIED
+
+### ART. 1.
+
+...
+
+## HOOFDSTUK II ALGEMENE BEPALINGEN
+
+### ART. 2.
+
+...
+
+### ART. 3.
+
+...
+
+## TITEL II ADMINISTRATIEVE LOOPBAAN
+
+## HOOFDSTUK I DE FUNCTIONERINGSEVALUATIE
+
+### ART. 4.
+
+...
+
+## HOOFDSTUK II OVERGANGSBEPALINGEN
+
+### ART. 5.
+
+...
+
+### ART. 6.
+
+...
+
+## TITEL III GELDELIJK STATUUT
+
+## HOOFDSTUK I TOELAGE VOOR GEVAARLIJK, ONGEZOND OF HINDERLIJK WERK
+
+### ART. 7.
+
+...
+
+## HOOFDSTUK II VERHOOGDE RENTE IN GEVAL VAN ARBEIDSONGEVAL EN ONGEVAL OP DE WEG NAAR EN VAN HET WERK
+
+### ART. 8.
+
+...
+
+## HOOFDSTUK III OVERGANGSBEPALINGEN
+
+### ART. 9.
+
+...
+
+### ART. 10.
+
+...
+
+## TITEL IV RECHTSPOSITIE VAN HET CONTRACTUEEL PERSONEELSLID
+
+## HOOFDSTUK I DE AANWERVING EN DE TOELATINGSVOORWAARDEN
+
+### ART. 11.
+
+...
+
+## HOOFDSTUK II GELDELIJKE REGELING
+
+### ART. 12.
+
+...
+
+## HOOFDSTUK III VERHOOGDE RENTE IN GEVAL VAN ARBEIDSONGEVAL EN ONGEVAL VAN EN NAAR HET WERK
+
+### ART. 13.
+
+...
+
+## HOOFDSTUK IV OVERGANGSBEPALINGEN
+
+### ART. 14.
+
+...
+
+## TITEL V ALGEMENE SLOTBEPALINGEN
+
+### ART. 15.
+
+...
+
+### ART. 16.
+
+...
+
+### ART. 17.
+
+...
+
+## Bijlage I Gevaarlijk, ongezond of hinderlijk werk
+
+### Tekst
+
+...
+
+## Bijlage IIa Tabel van de salarisschalen
+
+### Tekst
+
+...
+
+## Bijlage IIb Tabel van de salarisschalen
+
+### Tekst
+
+...
