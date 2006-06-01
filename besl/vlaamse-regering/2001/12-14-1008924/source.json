@@ -1,0 +1,17 @@
+{
+  "codex_id": 1008924,
+  "title": "Besluit van de Vlaamse Regering van 2001-12-14 houdende de uitvoering van artikel 30 van het decreet van 6 juli 2001 houdende bepalingen tot begeleiding van de aangepaste begroting 2001",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1008924/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "8d7087fe21b981bca7e4af30f8c2bc349a41a7701dfa674e7d5cb7c2cf856906",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1008924&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "2001-12-14",
+  "gazette": "2002-03-19",
+  "numac": 2002035360,
+  "document_start": null,
+  "document_end": null,
+  "in_force": "2006-06-01",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
