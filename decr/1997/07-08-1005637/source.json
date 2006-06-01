@@ -1,0 +1,17 @@
+{
+  "codex_id": 1005637,
+  "title": "Decreet van 1997-07-08 houdende bepalingen tot begeleiding van de aanpassing van de begroting 1997",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1005637/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "2c80ec3e2a2278cecb60c0a3fc7bb40fd2585cace374e2d9e5ac5c221d8816b6",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1005637&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "1997-07-08",
+  "gazette": "1997-10-22",
+  "numac": 1997036256,
+  "document_start": null,
+  "document_end": null,
+  "in_force": "2006-06-01",
+  "article_versions": 33,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
