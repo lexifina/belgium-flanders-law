@@ -7,3 +7,19 @@ De Vlaamse Regering,<br /><br />Gelet op de bijzondere wet van 8 augustus 1980 t
 ### ART. 1.
 
 In het opschrift en in artikel 1 van het besluit van de Vlaamse Regering van 4 juni 2004 inzake sommige werkingsregelen betreffende de Raad voor examenbetwistingen bevoegd voor het hoger onderwijs wordt het woord 'examenbetwistingen' vervangen door de woorden 'betwistingen inzake studievoortgangsbeslissingen'.<br /><br />
+
+### ART. 2.
+
+In artikel 2 van hetzelfde besluit worden in het eerste lid de woorden « 2.480 euro » vervangen door de woorden « 1.240 euro » en in het tweede lid wordt het woord « bijzitters » vervangen door het woord « leden ».<br /><br />
+
+### ART. 3.
+
+In hetzelfde besluit wordt een artikel 2bis ingevoegd, dat luidt als volgt :<br />« Art. 2bis. De bijzitters van de Raad die deelnemen aan een zitting, ontvangen een forfaitaire vergoeding van 50 euro per beroep dat wordt behandeld tijdens de zitting. Indien een beroep verdaagd wordt of tijdens meerdere zittingen wordt behandeld, wordt slechts één zitting in aanmerking genomen voor het vaststellen van de vergoedingen.<br /><br />De voorzitters van de Raad die deelnemen aan een zitting ontvangen een forfaitaire vergoeding van 75 euro per beroep dat wordt behandeld tijdens een zitting. Indien een beroep verdaagd wordt of tijdens meerdere zittingen wordt behandeld, wordt slechts één zitting in aanmerking genomen voor het vaststellen van de vergoedingen. »<br /><br />
+
+### ART. 4.
+
+Dit besluit heeft uitwerking met ingang van 1 juni 2006, met uitzondering van artikel 1 dat uitwerking heeft vanaf het academiejaar 2005-2006.<br /><br />
+
+### ART. 5.
+
+De Vlaamse minister, bevoegd voor het onderwijs, is belast met de uitvoering van dit besluit.<br /><br />
