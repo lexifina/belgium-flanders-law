@@ -1,0 +1,17 @@
+{
+  "codex_id": 1011681,
+  "title": "Besluit van de Vlaamse Regering van 2003-09-19 houdende de voorwaarden voor erkenning van representatieve beroepsorganisaties van chicoreiproducenten",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1011681/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "d49a5762f6b92f177f26d29e708e3534f0e6475bff89a1fe962aae73c418ac99",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1011681&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "2003-09-19",
+  "gazette": "2003-10-27",
+  "numac": 2003201216,
+  "document_start": "2003-10-27",
+  "document_end": null,
+  "in_force": "2006-06-01",
+  "article_versions": 6,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
