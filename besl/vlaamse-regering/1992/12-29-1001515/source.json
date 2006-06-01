@@ -1,0 +1,17 @@
+{
+  "codex_id": 1001515,
+  "title": "Besluit van de Vlaamse Regering van 1992-12-29 houdende herschikking van de financiering van de naamloze vennootschap GIMVINDUS",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1001515/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "cbd1688bcd30a26ec725ccd08d70cc71d5349805a2310503fe424bd4094c973c",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1001515&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "1992-12-29",
+  "gazette": "1993-03-04",
+  "numac": 1993035257,
+  "document_start": null,
+  "document_end": null,
+  "in_force": "2006-06-01",
+  "article_versions": 7,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
