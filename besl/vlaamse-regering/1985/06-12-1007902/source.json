@@ -1,0 +1,17 @@
+{
+  "codex_id": 1007902,
+  "title": "Besluit van de Vlaamse Regering van 1985-06-12 tot vaststelling van de personeelsformatie van de Vlaamse Waterzuiveringsmaatschappij",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1007902/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "72ab3b9ba01815899175a120ac1c3d16729a1a3c2ac560511a13b3b71236e1fd",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1007902&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "1985-06-12",
+  "gazette": "1985-07-30",
+  "numac": 1985024559,
+  "document_start": null,
+  "document_end": null,
+  "in_force": "2006-06-01",
+  "article_versions": 6,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
