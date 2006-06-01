@@ -1,0 +1,17 @@
+{
+  "codex_id": 1013539,
+  "title": "Ministerieel besluit van 2004-11-09 houdende het selecteren en begeleiden van projecten voor projectgebonden mechanismen in het kader van het Protocol van Kyoto",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1013539/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "2f87ef7f5e835ff58abaa91dfba0be738bd2dc97f06a706c62beac58d0a8d2aa",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1013539&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "2004-11-09",
+  "gazette": "2004-11-18",
+  "numac": 2004036709,
+  "document_start": "2004-11-18",
+  "document_end": null,
+  "in_force": "2006-06-01",
+  "article_versions": 15,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
