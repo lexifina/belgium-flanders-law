@@ -1,0 +1,17 @@
+{
+  "codex_id": 1002802,
+  "title": "Decreet van 1991-03-27 inzake medisch verantwoorde sportbeoefening",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1002802/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "db46d613caddb363e9b60908970a354e97d41ee76eefecc76d8e658407a2deca",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1002802&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "1991-03-27",
+  "gazette": "1991-06-11",
+  "numac": 1991035691,
+  "document_start": null,
+  "document_end": "2008-07-31",
+  "in_force": "2006-06-01",
+  "article_versions": 49,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
