@@ -1,0 +1,17 @@
+{
+  "codex_id": 1008453,
+  "title": "Besluit van de Vlaamse Regering van 2001-07-24 betreffende de voorwaarden en de procedure tot toekenning, wijziging en intrekking van projectgebonden subsidies uit het Europees Sociaal Fonds met betrekking tot doelstelling 3, zwaartepunten 1 en 2",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1008453/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "d980670a8ee07b8ea47ba616c75fedb7dfe62a5b3a440fdae7771460f168cfd2",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1008453&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "2001-07-24",
+  "gazette": "2001-11-14",
+  "numac": 2001036243,
+  "document_start": "2001-05-11",
+  "document_end": null,
+  "in_force": "2006-06-01",
+  "article_versions": 24,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
