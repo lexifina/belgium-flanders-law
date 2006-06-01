@@ -1,0 +1,17 @@
+{
+  "codex_id": 1004243,
+  "title": "Omzendbrief van 1989-09-06 B.A.-G-89/15 over de vervreemding van onroerende goederen door de gemeenten - procedure",
+  "type": "Omzendbrief",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1004243/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "14e8abd12b17422ae0e4045ad4a6dcaadb3a06c4e6cd21fa49a49fca66044454",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1004243&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "1989-09-06",
+  "gazette": "1989-10-14",
+  "numac": 0,
+  "document_start": null,
+  "document_end": null,
+  "in_force": "2006-06-01",
+  "article_versions": 1,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
