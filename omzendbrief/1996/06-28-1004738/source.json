@@ -1,0 +1,17 @@
+{
+  "codex_id": 1004738,
+  "title": "Omzendbrief van 1996-06-28 RO/96/3 betreffende de adviezen die door de gemeente bij bouw- en verkavelingsvergunningen en stedebouwkundige attesten ingewonnen worden",
+  "type": "Omzendbrief",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1004738/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "282d7595d8ce046b6149eb7deb7e6e306e5f31ff2993f268b8d8daec8cc290a6",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1004738&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "1996-06-28",
+  "gazette": "1996-08-15",
+  "numac": 0,
+  "document_start": "1996-08-25",
+  "document_end": "2016-12-30",
+  "in_force": "2006-06-01",
+  "article_versions": 1,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
