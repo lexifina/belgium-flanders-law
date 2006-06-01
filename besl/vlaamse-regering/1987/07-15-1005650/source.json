@@ -1,0 +1,17 @@
+{
+  "codex_id": 1005650,
+  "title": "Besluit van de Vlaamse Regering van 1987-07-15 betreffende de subsidiëring van bepaalde werken, leveringen en diensten die in het Vlaamse Gewest door of op initiatief van de Vlaamse Maatschappij voor Watervoorziening worden uitgevoerd",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1005650/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "08b85b467089253f06fdcce49cbee73e2050c6886d6908bcab04fbfa386b2d6b",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1005650&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "1987-07-15",
+  "gazette": "1987-10-23",
+  "numac": 1987029820,
+  "document_start": "1987-04-28",
+  "document_end": null,
+  "in_force": "2006-06-01",
+  "article_versions": 9,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
