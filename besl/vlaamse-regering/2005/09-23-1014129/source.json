@@ -1,0 +1,17 @@
+{
+  "codex_id": 1014129,
+  "title": "Besluit van de Vlaamse Regering van 2005-09-23 [tot uitvoering van het kaderdecreet van 22 juni 2007 inzake ontwikkelingssamenwerking, wat de waarborgverlening voor de stimulering van microfinanciering betreft]",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1014129/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "a7b9ba43cc1cdc7cb7c1ef0946ffce0e4914e9dc6b5cfefc20704bf6abb6071a",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1014129&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "2005-09-23",
+  "gazette": "2005-12-06",
+  "numac": 2005036498,
+  "document_start": "2005-12-06",
+  "document_end": "2014-01-23",
+  "in_force": "2006-06-01",
+  "article_versions": 19,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
