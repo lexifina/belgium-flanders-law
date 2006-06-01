@@ -1,0 +1,17 @@
+{
+  "codex_id": 1020431,
+  "title": "Protocol van 2005-06-13 Aanhangsel nr. 5 bij het Protocol 2 gesloten op 1 januari 2003 tussen de federale Overheid en de Overheden bedoeld in artikelen 128, 130, 135 en 138 van de Grondwet, betreffende het te voeren ouderenzorgbeleid, inzake de prijzen die toegepast worden in de instellingen voor opvang of huisvesting van bejaarden",
+  "type": "Protocol",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1020431/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "12bce1aa28e44c62fefdb917f8515800f513787975c7c9aa692472aaa28db816",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1020431&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "2005-06-13",
+  "gazette": "2006-04-28",
+  "numac": 2006022261,
+  "document_start": "2005-06-13",
+  "document_end": null,
+  "in_force": "2006-06-01",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
