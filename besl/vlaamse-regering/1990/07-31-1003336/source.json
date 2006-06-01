@@ -1,0 +1,17 @@
+{
+  "codex_id": 1003336,
+  "title": "Besluit van de Vlaamse Regering van 1990-07-31 houdende machtiging van de Vlaamse Maatschappij voor Waterzuivering tot deelname aan de pensioenregeling ingesteld bij de wet van 28 april 1958 betreffende het pensioen van het personeel van zekere organismen van openbaar nut alsmede van hun rechthebbenden",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1003336/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "1ec0a0ca1cc2027f93f98dd276dc9f5ff1163768cb8408415d5d62923d591a02",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1003336&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "1990-07-31",
+  "gazette": "1990-10-24",
+  "numac": 1990030187,
+  "document_start": "1988-09-14",
+  "document_end": null,
+  "in_force": "2006-06-01",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
