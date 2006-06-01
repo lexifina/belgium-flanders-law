@@ -1,0 +1,17 @@
+{
+  "codex_id": 1001144,
+  "title": "Besluit van de Vlaamse Regering van 1990-04-19 tot vaststelling van de wijze waarop de personeelsleden van de onthaalformatie van de diensten van de Vlaamse regering, overgedragen van het Ministerie van Onderwijs en het Gebouwenfonds voor de Rijksscholen, overgaan naar de administratieve diensten van de Autonome Raad voor het Gemeenschapsonderwijs",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1001144/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "6b26fd09a08e4040e44dc0869d270618faa02be4636b418363d8db608f558d99",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1001144&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "1990-04-19",
+  "gazette": "1990-05-15",
+  "numac": 1990029583,
+  "document_start": "1990-05-15",
+  "document_end": null,
+  "in_force": "2006-06-01",
+  "article_versions": 13,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
