@@ -1,0 +1,17 @@
+{
+  "codex_id": 1010752,
+  "title": "Ministerieel besluit van 2003-02-10 houdende vaststelling van de uitgaven die bij de uitvoering van onderzoeksprojecten in het kader van de bilaterale wetenschappelijke samenwerking kunnen gedekt worden met de middelen van het Bijzonder Onderzoeksfonds aan de universiteiten in de Vlaamse Gemeenschap",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1010752/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "bcf58dbd5594e16323292590c1d8e7e4665c66564a00b17ae8eaa1103e6b8251",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1010752&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "2003-02-10",
+  "gazette": "2003-02-28",
+  "numac": 2003200199,
+  "document_start": null,
+  "document_end": null,
+  "in_force": "2006-06-01",
+  "article_versions": 2,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
