@@ -1,0 +1,17 @@
+{
+  "codex_id": 1008067,
+  "title": "Besluit van de Vlaamse Regering van 2001-05-18 tot regeling van de subsidiëring van de activiteiten inzake opvoedingsondersteuning",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1008067/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "562fe94cbd44e078b0d1c773647aa88077f85ae74d7d0b13b4d467b9c96e4264",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1008067&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "2001-05-18",
+  "gazette": "2001-07-12",
+  "numac": 2001035707,
+  "document_start": "2001-04-01",
+  "document_end": "2014-03-31",
+  "in_force": "2006-06-01",
+  "article_versions": 9,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
