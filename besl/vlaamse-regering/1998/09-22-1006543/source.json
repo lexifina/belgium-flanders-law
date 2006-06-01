@@ -1,0 +1,17 @@
+{
+  "codex_id": 1006543,
+  "title": "Besluit van de Vlaamse Regering van 1998-09-22 betreffende de toelage voor anderstalige nieuwkomers in het basisonderwijs",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1006543/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "00a9b7db8c0fe654c75a511c37d19aa2232e96dd25c7bb0011e66dfb57bcc6f9",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1006543&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "1998-09-22",
+  "gazette": "1999-03-06",
+  "numac": 1999035102,
+  "document_start": "1998-09-01",
+  "document_end": "2026-08-31",
+  "in_force": "2006-06-01",
+  "article_versions": 6,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
