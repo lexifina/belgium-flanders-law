@@ -1,0 +1,17 @@
+{
+  "codex_id": 1009333,
+  "title": "Besluit van de Vlaamse Regering van 1982-03-22 tot vaststelling van de weddeschalen verbonden aan de bijzondere graden bij het Commissariaat-generaal voor de Internationale Culturele Samenwerking van de Nederlandse Cultuurgemeenschap in België",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1009333/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "82f301a1bd88d625d5765ace070dc7dd25241179fbdf0b5f3b077d8b214eb65d",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1009333&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "1982-03-22",
+  "gazette": "1982-03-25",
+  "numac": 1982100236,
+  "document_start": "1982-03-25",
+  "document_end": null,
+  "in_force": "2006-06-01",
+  "article_versions": 5,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
