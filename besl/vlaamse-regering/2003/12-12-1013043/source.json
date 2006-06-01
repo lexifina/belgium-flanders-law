@@ -1,0 +1,17 @@
+{
+  "codex_id": 1013043,
+  "title": "Besluit van de Vlaamse Regering van 2003-12-12 tot vaststelling van de bekwaamheidsbewijzen en de salarisschalen van de personeelsleden van de centra voor leerlingenbegeleiding",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1013043/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "f7b51601ff610814edea076d533def18d800b9a1a0409b2fef7fbdb5bc7fc95a",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1013043&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "2003-12-12",
+  "gazette": "2004-06-01",
+  "numac": 2004035829,
+  "document_start": null,
+  "document_end": null,
+  "in_force": "2006-06-01",
+  "article_versions": 18,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
