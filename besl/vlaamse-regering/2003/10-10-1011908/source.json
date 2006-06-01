@@ -1,0 +1,17 @@
+{
+  "codex_id": 1011908,
+  "title": "Besluit van de Vlaamse Regering van 2003-10-10 houdende organisatie van de Vlaamse Dienst voor Arbeidsbemiddeling en Beroepsopleiding en de instellingsspecifieke regeling van de rechtspositieregeling van het personeel",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1011908/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "6c922df36e1ac15555442270cc2eafe8d00216abb548b58e9142133f46d7952f",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1011908&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "2003-10-10",
+  "gazette": "2003-12-16",
+  "numac": 2003036143,
+  "document_start": null,
+  "document_end": "2006-03-31",
+  "in_force": "2006-06-01",
+  "article_versions": 29,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
