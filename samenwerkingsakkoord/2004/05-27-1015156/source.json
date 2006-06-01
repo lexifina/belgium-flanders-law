@@ -1,0 +1,17 @@
+{
+  "codex_id": 1015156,
+  "title": "Samenwerkingsakkoord van 2004-05-27 tussen de Federale Overheid, het Vlaamse Gewest, het Waalse Gewest en het Brussels Hoofdstedelijk Gewest betreffende de erkenning van de erediensten, de wedden en pensioenen van de bedienaars der erediensten, de kerkfabrieken en de instellingen belast met het beheer van de temporaliën van de erkende erediensten",
+  "type": "Samenwerkingsakkoord",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1015156/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "ee1e4ea13386463e05eb1f059224aea11245e146909eb2602cc8d2022a91de45",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1015156&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "2004-05-27",
+  "gazette": "2004-06-14",
+  "numac": 2004009401,
+  "document_start": null,
+  "document_end": null,
+  "in_force": "2006-06-01",
+  "article_versions": 6,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
