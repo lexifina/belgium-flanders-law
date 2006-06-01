@@ -1,0 +1,17 @@
+{
+  "codex_id": 1013708,
+  "title": "Ministerieel besluit van 2005-02-24 houdende delegatie van sommige bevoegdheden inzake medisch verantwoorde sportbeoefening aan ambtenaren van het Ministerie van de Vlaamse Gemeenschap",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1013708/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "ab81665808711ea50c0ecc2cf07f41755762b21498c158dbfba301aaaed62c12",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1013708&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "2005-02-24",
+  "gazette": "2005-03-25",
+  "numac": 2005035351,
+  "document_start": "2005-03-25",
+  "document_end": "2006-03-31",
+  "in_force": "2006-06-01",
+  "article_versions": 17,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
