@@ -1,0 +1,17 @@
+{
+  "codex_id": 1002854,
+  "title": "Besluit van de Vlaamse Regering van 1995-03-08 houdende vaststelling van regelen betreffende de toekenning van projectgebonden facultatieve toelagen voor het lokale beleid",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1002854/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "dbf4b3a5ddb8d1bc62e961137b1503a666d082d0bf67f399b628c8dd01e2177b",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1002854&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "1995-03-08",
+  "gazette": "1995-06-16",
+  "numac": 1995035693,
+  "document_start": "1995-03-01",
+  "document_end": null,
+  "in_force": "2006-06-01",
+  "article_versions": 7,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
