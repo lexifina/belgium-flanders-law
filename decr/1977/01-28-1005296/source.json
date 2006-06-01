@@ -1,0 +1,17 @@
+{
+  "codex_id": 1005296,
+  "title": "Decreet van 1977-01-28 tot bescherming van de namen van de openbare wegen en pleinen",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1005296/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "585b8aa42d9ee33df6142a21b58ca5abd54b41e7e519e2e103fada24c6aa4832",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1005296&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "1977-01-28",
+  "gazette": "1977-04-07",
+  "numac": 1977012808,
+  "document_start": null,
+  "document_end": null,
+  "in_force": "2006-06-01",
+  "article_versions": 10,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
