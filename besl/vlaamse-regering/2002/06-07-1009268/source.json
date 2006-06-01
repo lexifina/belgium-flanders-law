@@ -1,0 +1,17 @@
+{
+  "codex_id": 1009268,
+  "title": "Besluit van de Vlaamse Regering van 2002-06-07 betreffende de uitvoering van het decreet op het Vlaamse Jeugdbeleid",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1009268/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "55f56842faab2c81ea35e5137ae1922198e1d4dc32e8ad22a14929b361f869ab",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1009268&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "2002-06-07",
+  "gazette": "2002-07-17",
+  "numac": 2002035890,
+  "document_start": null,
+  "document_end": "2009-12-31",
+  "in_force": "2006-06-01",
+  "article_versions": 15,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
