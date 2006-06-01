@@ -1,0 +1,17 @@
+{
+  "codex_id": 1004685,
+  "title": "Omzendbrief van 1996-03-19 WEL-96/3 betreffende het sectoraal akkoord van 18 juni 1993 voor het personeel van de lokale en provinciale besturen - verduidelijking met betrekking tot de toepassing op OCMW-pezsoneel van ziekenhuizen en andere verzorgingsinstellingen",
+  "type": "Omzendbrief",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1004685/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "c4cfe8278646cb3ad309466bd79ff88b855c2186135a12be8a497c217ab56f83",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1004685&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "1996-03-19",
+  "gazette": "1996-07-18",
+  "numac": 0,
+  "document_start": null,
+  "document_end": null,
+  "in_force": "2006-06-01",
+  "article_versions": 1,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
