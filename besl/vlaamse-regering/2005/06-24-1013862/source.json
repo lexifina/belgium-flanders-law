@@ -1,0 +1,17 @@
+{
+  "codex_id": 1013862,
+  "title": "Besluit van de Vlaamse Regering van 2005-06-24 betreffende de inwerkingtreding van het decreet van 7 mei 2004 tot oprichting van het publiekrechtelijk vormgegeven extern verzelfstandigd agentschap Vlaams Agentschap voor Internationaal Ondernemen",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1013862/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "b789de683c919a8a29b08a880028bbe606d14a6ac0f28dfe4ce90a6085c1c286",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1013862&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "2005-06-24",
+  "gazette": "2005-07-15",
+  "numac": 2005035808,
+  "document_start": null,
+  "document_end": null,
+  "in_force": "2006-06-01",
+  "article_versions": 5,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
