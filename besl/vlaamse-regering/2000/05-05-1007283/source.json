@@ -1,0 +1,17 @@
+{
+  "codex_id": 1007283,
+  "title": "Besluit van de Vlaamse Regering van 2000-05-05 tot regeling van het vooroverleg over voorontwerpen van ruimtelijke structuurplannen",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1007283/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "75d55a496ea3746a7a9755469ff798050fb8945dc7beed02e0bca63cc6c66a45",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1007283&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "2000-05-05",
+  "gazette": "2000-05-20",
+  "numac": 2000035478,
+  "document_start": "2000-05-01",
+  "document_end": null,
+  "in_force": "2006-06-01",
+  "article_versions": 9,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
