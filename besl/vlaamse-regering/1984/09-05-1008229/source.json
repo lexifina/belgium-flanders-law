@@ -1,0 +1,17 @@
+{
+  "codex_id": 1008229,
+  "title": "Besluit van de Vlaamse Regering van 1984-09-05 betreffende de betaling na vervallen termijn van de wedden van het personeel van de Belgische Radio en Televisie, Nederlandse Uitzendingen",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1008229/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "2c8a5b5aeecb452bb178f49b43b573a6a4d52b19d2f9262ca97e353028452e7f",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1008229&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "1984-09-05",
+  "gazette": "1984-09-22",
+  "numac": 1984024502,
+  "document_start": null,
+  "document_end": null,
+  "in_force": "2006-06-01",
+  "article_versions": 10,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
