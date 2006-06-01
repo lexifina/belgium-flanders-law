@@ -1,0 +1,17 @@
+{
+  "codex_id": 1009906,
+  "title": "Samenwerkingsakkoord van 2002-03-22 tussen de staat, het Vlaams Gewest, het Waals Gewest en het Brussels Hoofdstedelijk Gewest met betrekking tot de benoemings- en afzettingsmodaliteiten van de vertegenwoordigers, leden van de gewestelijke vervoersmaatschappijen die zetelen in het Oriënteringscomité van de NMBS",
+  "type": "Samenwerkingsakkoord",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1009906/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "fbd2cc923b6c05c230ec6cee146c1d6e4ed089e8a6627702cc4c201b0e2f8624",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1009906&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "2002-03-22",
+  "gazette": "2002-11-07",
+  "numac": 0,
+  "document_start": null,
+  "document_end": null,
+  "in_force": "2006-06-01",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
