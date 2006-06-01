@@ -1,0 +1,17 @@
+{
+  "codex_id": 1009419,
+  "title": "Decreet van 1981-06-30 houdende aanvulling van de artikelen 12 en 33 van de bij koninklijk besluit van 16 juli 1966 gecoördineerde wetten op het gebruik van de talen in bestuurszaken wat betreft het gebruik van de talen in de betrekkingen tussen de bestuursdiensten van het Nederlandse taalgebied en de particulieren",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1009419/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "92b122ffdcc59ade55ac6a42971e991bb0fafa73be0c7ecdb0968c832b27e1bb",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1009419&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "1981-06-30",
+  "gazette": "1981-11-10",
+  "numac": 1981002008,
+  "document_start": null,
+  "document_end": null,
+  "in_force": "2006-06-01",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
