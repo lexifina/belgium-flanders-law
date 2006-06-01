@@ -1,0 +1,17 @@
+{
+  "codex_id": 1011559,
+  "title": "Besluit van de Vlaamse Regering van 2003-06-27 betreffende de beheerplannen van bossen",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1011559/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "4a7ba39d108452da2f916bbb3a5edd566a77ef7d8aecc447aabded9be810af42",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1011559&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "2003-06-27",
+  "gazette": "2003-09-10",
+  "numac": 2003035994,
+  "document_start": null,
+  "document_end": "2017-10-27",
+  "in_force": "2006-06-01",
+  "article_versions": 23,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
