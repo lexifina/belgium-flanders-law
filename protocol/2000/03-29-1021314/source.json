@@ -1,0 +1,17 @@
+{
+  "codex_id": 1021314,
+  "title": "Protocol van 2000-03-29 Avenant bij het Protocolakkoord zoals gesloten tussen de Federale Overheid en de Overheden bedoeld bij artikelen 128, 130 en 136 van de Grondwet, en betreffende de preventie, meer bepaald de vaccinatie tegen hepatitis B, bekendgemaakt in het Belgisch Staatsblad van 22 april 1997 en gewijzigd door het avenant",
+  "type": "Protocol",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1021314/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "62f6ea347c2481dda9c2f1016a7e8221b81ccabe9ac90c3b0adc01f577a4e286",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1021314&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "2000-03-29",
+  "gazette": "2000-08-29",
+  "numac": 200022400,
+  "document_start": null,
+  "document_end": null,
+  "in_force": "2006-06-01",
+  "article_versions": 1,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
