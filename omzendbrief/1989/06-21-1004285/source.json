@@ -1,0 +1,17 @@
+{
+  "codex_id": 1004285,
+  "title": "Omzendbrief van 1989-06-21 betreffende de subsidiëring van gebouwen en monumenten en aanverwante materies : het samenstellen en indienen van de subsidieaanvragen in toepassing van het besluit van de Vlaamse regering van 21 juni 1989 houdende vaststelling van de procedure inzake subsidiëring van bepaalde werken, leveringen en diensten die door of op initiatief van regionale of lokale besturen of ermee gelijkgestelde rechtspersonen worden uitgevoerd",
+  "type": "Omzendbrief",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1004285/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "476f45b0196a9848a22bf649ab6fa229a31de64d57c2506c163297a2719201b9",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1004285&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "1989-06-21",
+  "gazette": "1989-09-08",
+  "numac": 0,
+  "document_start": null,
+  "document_end": null,
+  "in_force": "2006-06-01",
+  "article_versions": 1,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
