@@ -1,0 +1,17 @@
+{
+  "codex_id": 1000090,
+  "title": "Besluit van de Vlaamse Regering van 1994-03-02 tot bepaling van de procedure van het openbaar onderzoek bij het opmaken van de perceelsgewijze inventaris, bedoeld in artikel 53 van de wet van 12 juli 1973 op het natuurbehoud, zoals gewijzigd bij het decreet van 14 juli 1993 houdende maatregelen tot bescherming van de kustduinen",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1000090/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "02bcd6720f4ed626887aae7c637be7d3a43b13d5aeea4449b5976bcab27d139f",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1000090&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "1994-03-02",
+  "gazette": "1994-04-09",
+  "numac": 1994035515,
+  "document_start": null,
+  "document_end": null,
+  "in_force": "2006-06-01",
+  "article_versions": 7,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
