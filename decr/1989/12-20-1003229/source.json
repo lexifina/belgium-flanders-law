@@ -1,0 +1,17 @@
+{
+  "codex_id": 1003229,
+  "title": "Decreet van 1989-12-20 houdende bepalingen tot uitvoering van de begroting van de Vlaamse Gemeenschap",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1003229/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "e2b09d547c8ae124fe1e328e00ee1e6d5914ee19c00f923d173f16518cf74d8d",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1003229&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "1989-12-20",
+  "gazette": "1989-12-30",
+  "numac": 1989030036,
+  "document_start": null,
+  "document_end": null,
+  "in_force": "2006-06-01",
+  "article_versions": 25,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
