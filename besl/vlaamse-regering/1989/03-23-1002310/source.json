@@ -1,0 +1,17 @@
+{
+  "codex_id": 1002310,
+  "title": "Besluit van de Vlaamse Regering van 1989-03-23 houdende bepaling voor het Vlaamse Gewest van de categorieën van werken en handelingen, andere dan hinderlijke inrichtingen, waarvoor een milieu-effectrapport is vereist voor de volledigheid van de aanvraag om bouwvergunning",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1002310/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "876a035a83f1645d02a2644531cb63ea3b2bf7624382e79be090f68c494ee27b",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1002310&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "1989-03-23",
+  "gazette": "1989-05-17",
+  "numac": 1989029364,
+  "document_start": null,
+  "document_end": "2010-12-31",
+  "in_force": "2006-06-01",
+  "article_versions": 21,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
