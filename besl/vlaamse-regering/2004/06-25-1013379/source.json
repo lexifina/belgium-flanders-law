@@ -1,0 +1,17 @@
+{
+  "codex_id": 1013379,
+  "title": "Besluit van de Vlaamse Regering van 2004-06-25 ter uitvoering van het decreet van 7 mei 2004 houdende de organisatie en subsidiëring van een cultureel-erfgoedbeleid, voor wat betreft de erfgoedconvenants en de advisering",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1013379/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "75f90316a6e24878046326c51653a0b5c22ed9174c54d599e17406ed5d2dc78c",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1013379&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "2004-06-25",
+  "gazette": "2004-09-03",
+  "numac": 2004036376,
+  "document_start": "2004-06-25",
+  "document_end": "2008-12-31",
+  "in_force": "2006-06-01",
+  "article_versions": 27,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
