@@ -1,0 +1,17 @@
+{
+  "codex_id": 1007639,
+  "title": "Besluit van de Vlaamse Regering van 1985-07-30 waarbij de Openbare Afvalstoffenmaatschappij voor het Vlaamse Gewest wordt gelast met de ambtshalve sanering van stortterreinen",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1007639/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "f337ad895c7b22cc23c496c9c88104a7ccc4e18f41ddfe0a4dc60611971568b6",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1007639&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "1985-07-30",
+  "gazette": "1985-11-09",
+  "numac": 1985024762,
+  "document_start": "1985-11-09",
+  "document_end": null,
+  "in_force": "2006-06-01",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
