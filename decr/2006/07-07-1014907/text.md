@@ -66,11 +66,299 @@ Aan de afdeling 4bis, bestaande uit artikelen 74bis tot en met 74quinquies van h
 
 In artikel 2 van decreet van 14 juli 1998 houdende diverse maatregelen met betrekking tot het secundair onderwijs en tot wijziging van het decreet van 25 februari 1997 betreffende het basisonderwijs, gewijzigd bij de decreten van 18 mei 1999 en 14 februari 2003, worden de volgende wijzigingen aangebracht : <br />1° in 7°, b), worden de woorden « die buiten het toepassingsgebied van dit decreet vallen » geschrapt; <br />2° een punt 34° wordt toegevoegd, dat luidt als volgt :<br /><br />« 34° het koninklijk besluit nummer 66 : het koninklijk besluit nummer 66 van 20 juli 1982 tot vaststelling van de wijze waarop de ambten van het administratief personeel en het opvoedend hulppersoneel worden bepaald in de inrichtingen voor buitengewoon onderwijs met uitzondering van de internaten of semi-internaten, gewijzigd bij het koninklijk besluit nummer 463 van 25 september 1986, de wet van 1 augustus 1988, de decreten van 5 juli 1989, 31 juli 1990, 28 april 1993, 25 februari 1997 en 14 juli 1998 en de besluiten van de Vlaamse Regering van 24 mei 1989, 7 december 1994 en 14 juni 2002. ». <br /><br />
 
+### ART. III.31.
+
+In artikel 93 van hetzelfde decreet, gewijzigd bij de decreten van 14 februari 2003 en 15 juli 2005, wordt § 1 vervangen door wat volgt : <br />« § 1. Deze titel is van toepassing op het gewoon en buitengewoon secundair onderwijs. ». <br /><br />
+
+### ART. III.32.
+
+Aan artikel 94, § 1, van hetzelfde decreet, vervangen door het decreet van 14 februari 2003, wordt een lid toegevoegd, dat luidt als volgt : <br />« De Vlaamse Regering bepaalt de classificatie van deze ambten in het gewoon en het buitengewoon secundair onderwijs en kan de indeling van deze ambten wijzigen. ». <br /><br />
+
+### ART. III.33.
+
+<p>In artikel 96 van hetzelfde decreet, gewijzigd bij de decreten van 14 februari 2003 en 15 juli 2005, worden de volgende wijzigingen aangebracht :<br>
+1° in § 2 worden in punten 1° en 2° de woorden « instellingen » telkens vervangen door de woorden « instellingen voor gewoon secundair onderwijs »;<br>
+2° een § 2bis wordt ingevoegd, die luidt als volgt :<br>
+« § 2bis. Als een scholengemeenschap naast instellingen voor gewoon secundair onderwijs eveneens een of meerdere instellingen voor buitengewoon secundair onderwijs bevat, ontvangt zij elk schooljaar naast de punten bedoeld in § 2 ook een aantal punten voor deze instellingen.<br>
+<br>
+Dit aantal punten is samengesteld uit de som van het aantal regelmatige leerlingen op 1 februari van het voorgaande schooljaar van de instellingen voor buitengewoon secundair onderwijs vermenigvuldigd met een variabele coëfficiënt.<br>
+<br>
+Het resultaat van deze vermenigvuldiging wordt wiskundig afgerond naar het dichtstbijliggende gehele getal.<br>
+<br>
+Deze coëfficiënt wordt bepaald door de Vlaamse Regering.<br>
+<br>
+Voor het schooljaar 2006-2007 tot en met het schooljaar 2010-2011 zal dit aantal punten steeds minstens overeenkomen met het aantal punten dat, rekening houdend met artikelen 71, 9° en 97, nodig is voor de instandhouding van de betrekkingen in de ambten van het ondersteunend personeel die de instelling voor buitengewoon secundair onderwijs op 30 juni van het voorafgaande schooljaar heeft georganiseerd mocht ze de normen van het koninklijk besluit nummer 66 nog steeds toepassen.<br>
+<br>
+In afwachting van de vastlegging van deze coëfficiënt ontvangt de scholengemeenschap per instelling voor buitengewoon secundair onderwijs jaarlijks een puntenenveloppe.<br>
+<br>
+Deze puntenenveloppe wordt toegekend op basis van het aantal leerlingen dat de instelling voor buitengewoon secundair onderwijs telt op 1 februari van het voorgaande schooljaar en dit volgens volgende schalen:</p>
+
+<table border="1" cellpadding="0" cellspacing="0" style="border-collapse:collapse">
+	<tbody>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:244.45pt">
+			<p>Aantal leerlingen<!--?xml:namespace prefix = o ns =         "urn:schemas-microsoft-com:office:office" /--></p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:244.45pt">
+			<p>Punten</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:244.45pt">
+			<p>1 t/m 79</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:244.45pt">
+			<p>82</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:244.45pt">
+			<p>80 t/m 159</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:244.45pt">
+			<p>164</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:244.45pt">
+			<p>160 t/m 239</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:244.45pt">
+			<p>246</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:244.45pt">
+			<p>240 t/m 319</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:244.45pt">
+			<p>309</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:244.45pt">
+			<p>320 t/m 399</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:244.45pt">
+			<p>391</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:244.45pt">
+			<p>400 t/m 499</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:244.45pt">
+			<p>473</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:244.45pt">
+			<p>500 t/m 599</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:244.45pt">
+			<p>555</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:244.45pt">
+			<p>600 t/m 759</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:244.45pt">
+			<p>618</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:244.45pt">
+			<p>760 t/m 919</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:244.45pt">
+			<p>700</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:244.45pt">
+			<p>920 t/m 1079</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:244.45pt">
+			<p>782</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:244.45pt">
+			<p>1080 t/m 1239</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:244.45pt">
+			<p>845</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:244.45pt">
+			<p>1240 t/m 1399</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:244.45pt">
+			<p>908</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p>3° in § 3 wordt in de eerste zin het woord « instelling » vervangen door het woord « instelling voor gewoon secundair onderwijs »;<br>
+<br>
+4° een § 3bis wordt ingevoegd, die luidt als volgt :<br>
+« § 3bis. Aan de instelling van het buitengewoon secundair onderwijs die niet tot een scholengemeenschap behoort wordt elk schooljaar een aantal punten toegekend dat bestaat uit de som van het aantal regelmatige leerlingen op 1 februari van het voorgaande schooljaar van de instelling vermenigvuldigd met een variabele coëfficiënt.<br>
+<br>
+Het resultaat van deze vermenigvuldiging wordt wiskundig afgerond naar het dichtstbijliggende gehele getal.<br>
+<br>
+Deze coëfficiënt wordt bepaald door de Vlaamse Regering.<br>
+<br>
+In afwachting van de vastlegging van deze coëfficiënt ontvangt de instelling voor buitengewoon secundair onderwijs jaarlijks een puntenenveloppe op basis van het aantal leerlingen dat de instelling telt op 1 februari van het voorgaande schooljaar en dit volgens volgende schalen :</p>
+
+<table border="1" cellpadding="0" cellspacing="0" style="border-collapse:collapse">
+	<tbody>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:244.45pt">
+			<p>Aantal leerlingen</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:244.45pt">
+			<p>Punten</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:244.45pt">
+			<p>1 t/m 79</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:244.45pt">
+			<p>82</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:244.45pt">
+			<p>80 t/m 159</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:244.45pt">
+			<p>164</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:244.45pt">
+			<p>160 t/m 239</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:244.45pt">
+			<p>246</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:244.45pt">
+			<p>240 t/m 319</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:244.45pt">
+			<p>309</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:244.45pt">
+			<p>320 t/m 399</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:244.45pt">
+			<p>391</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:244.45pt">
+			<p>400 t/m 499</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:244.45pt">
+			<p>473</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:244.45pt">
+			<p>500 t/m 599</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:244.45pt">
+			<p>555</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:244.45pt">
+			<p>600 t/m 759</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:244.45pt">
+			<p>618</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:244.45pt">
+			<p>760 t/m 919</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:244.45pt">
+			<p>700</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:244.45pt">
+			<p>920 t/m 1079</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:244.45pt">
+			<p>782</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:244.45pt">
+			<p>1080 t/m 1239</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:244.45pt">
+			<p>845</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:244.45pt">
+			<p>1240 t/m 1399</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:244.45pt">
+			<p>908</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p>5° een § 3ter wordt ingevoegd, die luidt als volgt :<br>
+« § 3ter. In afwijking op § 3bis heeft een school voor buitengewoon secundair onderwijs van type 5 die beschouwd wordt als een ziekenhuisschool, jaarlijks recht op 82 punten. ».<br>
+&nbsp;</p>
+
+### ART. III.34.
+
+In artikel 97, § 1, van hetzelfde decreet worden de volgende wijzigingen aangebracht : <br />1° een punt 14°bis wordt ingevoegd, dat luidt als volgt :<br />« 14°bis administratief medewerker met weddeschaal 125 : 82; »; <br />2° een punt 29° wordt toegevoegd, dat luidt als volgt :<br />« 29° opvoeder met weddeschaal 125 : 82. ». <br /><br />
+
+### ART. III.35.
+
+In artikel 98 van hetzelfde decreet, gewijzigd bij de decreten van 14 februari 2003 en 15 juli 2005, worden de volgende wijzigingen aangebracht : <br />1° § 2 wordt vervangen door wat volgt :<br /><br />« § 2. In afwijking van § 1 kent de scholengemeenschap tijdens het schooljaar 2006-2007, rekening houdend met artikel 97, aan elke instelling voor buitengewoon secundair onderwijs die behoort tot de scholengemeenschap, voldoende punten toe voor de instandhouding van de betrekkingen in de ambten van het administratief personeel en het opvoedend hulppersoneel die een instelling voor buitengewoon secundair onderwijs op 30 juni 2006 heeft georganiseerd op basis van de op dat ogenblik geldende normen van het koninklijk besluit nr. 66.<br /><br />Hierbij houdt de scholengemeenschap rekening met het feit dat de betrekkingen in ambten van het administratief personeel of het opvoedend hulppersoneel die een instelling voor buitengewoon secundair onderwijs op 30 juni 2006 heeft georganiseerd, op 1 september 2006 worden omgevormd tot betrekkingen van het ondersteunend personeel, rekening houdend met artikel 97. »;<br /><br />2° § 3 wordt vervangen door wat volgt :<br />« § 3. In afwijking van § 1 kent de scholengemeenschap tijdens de schooljaren 2007-2008 tot en met 2010-2011, rekening houdend met artikelen 71, 9°, en 97, aan elke instelling voor buitengewoon secundair onderwijs die behoort tot de scholengemeenschap, het aantal punten toe dat nodig is voor de instandhouding van de betrekkingen in de ambten van het ondersteunend personeel die de instelling voor buitengewoon secundair onderwijs op 30 juni van het voorafgaande schooljaar heeft georganiseerd, mocht ze de normen van het koninklijk besluit nr. 66 nog steeds toepassen, zoals bedoeld in artikel 96, § 2bis. ».<br /><br />
+
+### ART. III.36.
+
+In artikel 98bis van hetzelfde decreet, gewijzigd bij de decreten van 14 februari 2003 en 15 juli 2005, worden de volgende wijzigingen aangebracht : <br />1° § 2 wordt vervangen door wat volgt :<br />« § 2. In afwijking van § 1 ontvangt de instelling voor buitengewoon secundair onderwijs die niet behoort tot een scholengemeenschap, tijdens het schooljaar 2006-2007 voldoende punten voor de instandhouding van de betrekkingen in de ambten van het administratief personeel of het opvoedend hulppersoneel die de instelling voor buitengewoon secundair onderwijs op 30 juni 2006 heeft georganiseerd op basis van de op dat ogenblik geldende normen van het koninklijk besluit nr. 66.<br /><br />Hierbij moet rekening gehouden worden met het feit dat de betrekkingen in ambten van het administratief personeel of het opvoedend hulppersoneel die de school voor buitengewoon secundair onderwijs op 30 juni 2006 heeft georganiseerd, op 1 september 2006 worden omgevormd tot betrekkingen van het ondersteunend personeel, rekening houdend met artikel 97. »;<br /><br />2° § 3 wordt vervangen door wat volgt :<br />« § 3. In afwijking van § 1 ontvangt de instelling voor buitengewoon secundair onderwijs vanaf het schooljaar 2007-2008, rekening houdend met artikel 97, het aantal punten dat nodig is voor de instandhouding van de betrekkingen in de ambten van het ondersteunend personeel die de instelling voor buitengewoon secundair onderwijs op 30 juni van het voorafgaande schooljaar heeft georganiseerd, mocht ze de normen van het koninklijk besluit nr. 66 nog steeds toepassen. ». <br /><br />
+
+### ART. III.37.
+
+Aan artikel 99bis, van hetzelfde decreet, ingevoegd bij het decreet van 14 februari 2003 en gewijzigd bij het decreet van 15 juli 2005, worden volgende wijzigingen aangebracht : <br />1° in § 3, tweede lid, worden de woorden « artikel 125 duodecies » vervangen door de woorden « artikelen 125duodecies en 153sexies »; <br />2° aan § 8 wordt een lid toegevoegd, dat luidt als volgt :<br />« De Vlaamse Regering kan tevens de ambten en de daaraan verbonden puntenwaarden, vermeld in § 6, wijzigen. ». <br /><br />
+
 ## Afdeling V Decreet betreffende het onderwijs XIII-Mozaïek
 
 ## Afdeling VI Buitengewoon onderwijs
 
 ## Onderafdeling I De wet betreffende het buitengewoon en geïntegreerd onderwijs
+
+### ART. III.46.
+
+In dezelfde wet worden artikelen 5bis 1 tot en met 5bis 6 ingevoegd, die luiden als volgt : <br />« Artikel 5bis 1<br />Om toegelaten te worden tot het geïntegreerd secundair onderwijs is het volgende vereist : <br />1° de leerling moet voldoen aan de toelatingsvoorwaarden die gelden voor het gewoon en buitengewoon secundair onderwijs; <br />2° voor de betrokken leerling moet een integratieplan opgesteld worden.<br />De Vlaamse Regering bepaalt de inhoud van het integratieplan en legt de samenstelling van het integratieteam, dat het integratieplan zal opstellen, vast; <br />3° als het attest, vermeld in artikel 5, naar type 1 of 3 oriënteert, moet de leerling in het betreffende type ten minste negen maanden voltijds buitengewoon onderwijs gevolgd hebben onmiddellijk voorafgaand aan de integratie in het gewoon onderwijs. <br /><br />Artikel 5bis 2<br />Een nieuw integratieplan wordt opgesteld bij wijziging van de aard van de integratie, de aard en de ernst van de handicap of het onderwijsniveau, met inbegrip van het beroepenveld, de studierichting, de afdeling of de opties. <br /><br />Artikel 5bis 3<br />Bij wijziging van het integratieteam kan het bestaande integratieplan bevestigd worden. <br /><br />Artikel 5bis 4<br />§ 1. Leerlingen die geïntegreerd secundair onderwijs volgen, zijn, afhankelijk van de aard van de integratie zoals bepaald in artikel 5bis, §§ 2 en 3, regelmatige leerling in de school voor buitengewoon secundair onderwijs of in de school voor gewoon secundair onderwijs.<br /><br />§ 2. De Vlaamse Regering bepaalt de wijze waarop een regelmatige leerling in het geïntegreerd secundair onderwijs hetzij in de school voor gewoon secundair onderwijs, hetzij in de school voor buitengewoon secundair onderwijs, hetzij in beide in aanmerking komt als regelmatige leerling. <br /><br />Artikel 5bis 5<br />§ 1. Leerlingen met een handicap die in het kader van het geïntegreerd onderwijs, gewoon secundair onderwijs volgen, maar door hun handicap bepaalde vakken niet kunnen volgen, kunnen daarvoor een vrijstelling krijgen als ze vervangende activiteiten volgen. <br /><br />§ 2. De klassenraad beslist over de vrijstelling en legt de vervangende activiteiten vast. <br /><br />Artikel 5bis 6<br />De school voor buitengewoon onderwijs die een leerling geïntegreerd onderwijs begeleidt, krijgt daartoe aanvullende lestijden of lesuren of uren en een integratietoelage of -krediet. <br /><br />De Vlaamse Regering bepaalt de voorwaarden voor het verkrijgen van de aanvullende lestijden of lesuren of uren, alsook het aantal en de wijze van de berekening ervan. <br /><br />De Vlaamse Regering bepaalt de voorwaarden voor het verkrijgen van de integratietoelage of -krediet, alsook de vaststelling ervan. ». <br /><br />
 
 ### ART. III.48.
 
@@ -152,6 +440,14 @@ In artikel 56ter, van hetzelfde decreet, ingevoegd bij het decreet van 15 juli 2
 
 In artikel 77quater, § 3, van hetzelfde decreet wordt 3° vervangen door wat volgt : <br />« 3°ten aanzien van de instelling waar het personeelslid geaffecteerd of aangesteld is : <br />- de wijze waarop zij in het beslissingsproces wordt betrokken. ». <br /><br />
 
+### ART. VII.24.
+
+Artikel 100quater van hetzelfde decreet, ingevoegd bij het decreet van 14 juli 1998 en gewijzigd bij het decreet van 14 februari 2003, wordt vervangen door wat volgt :<br />« Artikel 100quater <br />In het buitengewoon secundair onderwijs, met uitzondering van de internaten, kunnen vanaf het schooljaar 2006-2007 geen personeelsleden meer tijdelijk worden aangesteld of worden vast benoemd in betrekkingen in de categorie van het opvoedend hulppersoneel of het administratief personeel. ». <br /><br />
+
+### ART. VII.25.
+
+Artikel 100quinquies van hetzelfde decreet, ingevoegd bij het decreet van 14 juli 1998 en gewijzigd bij het decreet van 14 februari 2003, wordt vervangen door wat volgt :<br />« Artikel 100quinquies <br />§ 1. De personeelsleden die op 30 juni 2006 vast benoemd zijn, toegelaten zijn tot de proeftijd, ter beschikking gesteld zijn wegens ontstentenis van betrekking of tijdelijk aangesteld zijn in een vacante betrekking in een ambt in de categorie van het opvoedend hulppersoneel worden, mits inachtneming van titel XI - Ondersteunend personeel van het decreet van 14 juli 1998 houdende diverse maatregelen met betrekking tot het secundair onderwijs en tot wijziging van het decreet van 25 februari 1997 betreffende het basisonderwijs, met ingang van 1 september 2006 geconcordeerd naar het ambt van opvoeder. Die concordantie is persoonsgebonden. <br /><br />De concordantie heeft geen gevolgen voor de geldelijke en administratieve rechtspositie van het personeelslid. <br /><br />§ 2. De personeelsleden die op 30 juni 2006 vast benoemd zijn, ter beschikking gesteld zijn wegens ontstentenis van betrekking of tijdelijk aangesteld zijn in een vacante betrekking in een ambt in de categorie van het administratief personeel worden, op voorwaarde van titel XI - Ondersteunend personeel van het decreet van 14 juli 1998 houdende diverse maatregelen met betrekking tot het secundair onderwijs en tot wijziging van het decreet van 25 februari 1997 betreffende het basisonderwijs, met ingang van 1 september 2006 geconcordeerd naar het ambt van administratief medewerker. Die concordantie is persoonsgebonden. <br /><br />De concordantie heeft geen gevolgen voor de geldelijke en administratieve rechtspositie van het personeelslid. <br /><br />§ 3. Van de concordantie, vermeld in §§ 1 en 2, kan mits wederzijds akkoord tussen inrichtende macht en betrokken personeelslid worden afgeweken. De afwijking kan enkel op 1 september 2006 worden toegepast en de concordantie is eveneens persoonsgebonden. <br /><br />Het personeelslid volgt vervolgens de geldelijke en administratieve rechtspositie die verbonden is aan het ambt waarnaar hij als gevolg van de afwijking wordt geconcordeerd. <br /><br />Bij de toepassing van deze paragraaf moet de inrichtende macht steeds rekening houden met artikel 95 van het decreet van 14 juli 1998 houdende diverse maatregelen met betrekking tot het secundair onderwijs en tot wijziging van het decreet van 25 februari 1997 betreffende het basisonderwijs.<br /><br />§ 4. Het personeelslid behoudt bij de concordantie steeds de salarisschaal die hij genoot op 30 juni 2006 en de daarmee overeenstemmende puntenwaarde, zoals bepaald in artikel 97 van voormeld decreet van 14 juli 1998. <br /><br />§ 5. Het personeelslid dat op het ogenblik van de concordantie, vermeld in §§ 1 en 2, met toepassing van het besluit van de Vlaamse Regering van 20 april 1994 betreffende de deeltijdse terbeschikkingstelling wegens persoonlijke aangelegenheden voorafgaand aan het rustpensioen voor personeelsleden van het onderwijs en van de psychomedisch-sociale centra of van het besluit van de Vlaamse Regering van 11 februari 2000 betreffende de volledige terbeschikkingstellling wegens persoonlijke aangelegenheden voorafgaand aan het rustpensioen voor personeelsleden van het onderwijs en van de centra voor leerlingenbegeleiding, ter beschikking gesteld is in een ambt van het opvoedend hulppersoneel of van het administratief personeel, wordt beschouwd als ambtshalve geconcordeerd zoals vermeld in §§ 1 en 2. <br /><br />§ 6. In afwijking op artikel 48 kan de raad van bestuur het personeelslid dat uiterlijk op 30 juni 2006 toegelaten is tot de proeftijd in het selectieambt van opvoeder-huismeester of directiesecretaris vast benoemen in dit ambt op voormelde datum. »<br />
+
 ## Afdeling II Decreet betreffende de rechtspositie van bepaaldepersoneelsleden van het gesubsidieerd onderwijs en van de gesubsidieerde centravoor leerlingenbegeleiding
 
 ### ART. VII.31.
@@ -181,6 +477,14 @@ In artikel 51quater, § 3, van hetzelfde decreet wordt 3° vervangen door wat vo
 ### ART. VII.46.
 
 In artikel 74quater, van hetzelfde decreet, ingevoegd bij het decreet van 15 juli 2005, wordt § 2 vervangen door wat volgt : <br />« § 2. Voor de toepassing van dit artikel kan de Vlaamse Regering de nadere administratieve en geldelijke bepalingen voor de betrokken personeelsleden vastleggen. <br /><br />Het betreft bepalingen inzake : <br />- de prestaties geleverd als tijdelijk personeelslid; <br />- de rechten met betrekking tot de tijdelijke aanstelling van doorlopende duur; <br />- de mededeling van vacante betrekkingen met het oog op een vaste benoeming; <br />- de kandidaatstelling voor een tijdelijke aanstelling van doorlopende duur of een vaste benoeming; <br />- de draagwijdte van de vaste benoeming; <br />- de terbeschikkingstelling wegens ontstentenis van betrekking, reaffectatie en wedertewerkstelling; <br />- de bekwaamheidsbewijzen; <br />- de weddenschalen. ».<br /><br />
+
+### ART. VII.48.
+
+Artikel 84quater van hetzelfde decreet, ingevoegd bij het decreet van 14 juli 1998 en gewijzigd bij het decreet van 14 februari 2003, wordt vervangen door wat volgt :<br />« Artikel 84quater <br />In het buitengewoon secundair onderwijs, met uitzondering van de internaten, kunnen vanaf het schooljaar 2006-2007 geen personeelsleden meer tijdelijk worden aangesteld of worden vast benoemd in betrekkingen in de categorie van het opvoedend hulppersoneel of het administratief personeel. ». <br /><br />
+
+### ART. VII.49.
+
+Artikel 84quinquies van hetzelfde decreet, ingevoegd bij het decreet van 14 juli 1998 en gewijzigd bij het decreet van 14 februari 2003, wordt vervangen door wat volgt :<br />« Artikel 84quinquies <br />§ 1. De personeelsleden die op 30 juni 2006 vast benoemd zijn, ter beschikking gesteld zijn wegens ontstentenis van betrekking of tijdelijk aangesteld zijn in een vacante betrekking in een ambt in de categorie van het opvoedend hulppersoneel, worden, mits inachtneming van titel XI - Ondersteunend personeel van het decreet van 14 juli 1998 houdende diverse maatregelen met betrekking tot het secundair onderwijs en tot wijziging van het decreet van 25 februari 1997 betreffende het basisonderwijs, met ingang van 1 september 2006 geconcordeerd naar het ambt van opvoeder. Die concordantie is persoonsgebonden. <br /><br />De concordantie heeft geen gevolgen voor de geldelijke en administratieve rechtspositie van het personeelslid. <br /><br />§ 2. De personeelsleden die op 30 juni 2006 vast benoemd zijn, ter beschikking gesteld zijn wegens ontstentenis van betrekking of tijdelijk aangesteld zijn in een vacante betrekking in een ambt in de categorie van het administratief personeel, worden, mits inachtneming van titel XI - Ondersteunend personeel van het decreet van 14 juli 1998 houdende diverse maatregelen met betrekking tot het secundair onderwijs en tot wijziging van het decreet van 25 februari 1997 betreffende het basisonderwijs, met ingang van 1 september 2006 geconcordeerd naar het ambt van administratief medewerker. Die concordantie is persoonsgebonden. <br /><br />De concordantie heeft geen gevolgen voor de geldelijke en administratieve rechtspositie van het personeelslid. <br /><br />§ 3. Van de concordantie, vermeld in §§ 1 en 2 kan mits wederzijds akkoord tussen inrichtende macht en betrokken personeelslid worden afgeweken. De afwijking kan enkel op 1 september 2006 worden toegepast en de concordantie is eveneens persoonsgebonden. Het personeelslid volgt vervolgens de geldelijke en administratieve rechtspositie die verbonden is aan het ambt waarnaar hij als gevolg van de afwijking wordt geconcordeerd. <br /><br />Bij de toepassing van deze paragraaf moet de inrichtende macht steeds rekening houden met artikel 95 van het decreet van 14 juli 1998 houdende diverse maatregelen met betrekking tot het secundair onderwijs en tot wijziging van het decreet van 25 februari 1997 betreffende het basisonderwijs. <br /><br />§ 4. Het personeelslid behoudt bij de concordantie steeds de salarisschaal die hij genoot op 30 juni 2006 en de daarmee overeenstemmende puntenwaarde, zoals bepaald in artikel 97 van voormeld decreet van 14 juli 1998. <br /><br />§ 5. Het personeelslid dat op het ogenblik van de concordantie, vermeld in §§ 1 en 2, met toepassing van het besluit van de Vlaamse Regering van 20 april 1994 betreffende de deeltijdse terbeschikkingstelling wegens persoonlijke aangelegenheden voorafgaand aan het rustpensioen voor personeelsleden van het onderwijs en van de psychomedisch-sociale centra of van het besluit van de Vlaamse Regering van 11 februari 2000 betreffende de volledige terbeschikkingstellling wegens persoonlijke aangelegenheden voorafgaand aan het rustpensioen, ter beschikking gesteld is in een ambt van het opvoedend hulppersoneel of van het administratief personeel, wordt beschouwd als zijnde ambtshalve geconcordeerd zoals vermeld in §§ 1 en 2. ».<br /><br />
 
 ## Afdeling III Inwerkingtreding
 
