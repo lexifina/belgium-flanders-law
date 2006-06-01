@@ -1,0 +1,17 @@
+{
+  "codex_id": 1001829,
+  "title": "Besluit van de Vlaamse Regering van 1992-05-13 houdende vaststelling van het reglement voor de verkiezing van de leden van de raad van bestuur van het Universitair Centrum Antwerpen",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1001829/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "281384dc3425d5c3499121145274f16821699b15bdf201c70d68f812f64a3e48",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1001829&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "1992-05-13",
+  "gazette": "1992-08-15",
+  "numac": 1992035837,
+  "document_start": null,
+  "document_end": "2016-12-31",
+  "in_force": "2006-06-01",
+  "article_versions": 37,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
