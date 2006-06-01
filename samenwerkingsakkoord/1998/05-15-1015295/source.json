@@ -1,0 +1,17 @@
+{
+  "codex_id": 1015295,
+  "title": "Samenwerkingsakkoord van 1998-05-15 tot wijziging van het samenwerkingsakkoord van 4 maart 1997 tussen de Federale Staat en de Gewesten betreffende doorstromingsprogramma's",
+  "type": "Samenwerkingsakkoord",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1015295/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "b957c07a7082e5e42ef53b4b1ed0ecbfb786d9003bb850e052773809e110bba6",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1015295&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "1998-05-15",
+  "gazette": "1998-12-23",
+  "numac": 0,
+  "document_start": "1998-05-15",
+  "document_end": null,
+  "in_force": "2006-06-01",
+  "article_versions": 8,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
