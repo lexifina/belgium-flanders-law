@@ -1,0 +1,17 @@
+{
+  "codex_id": 1003570,
+  "title": "Ministerieel besluit van 1990-03-13 betreffende de boekhouding voor de erkende thuisbegeleidingsdiensten voor gehandicapten in uitvoering van artikel 14, § 2, van het besluit van de Vlaamse regering van 7 februari 1990 houdende vaststelling van de erkenningsvoorwaarden, de werkings- en subsidiëringsmodaliteiten voor thuisbegeleidingsdiensten, zoals bedoeld in artikel 3, §1bis, van het koninklijk besluit nr. 81 van 10 november 1967 tot instelling van een Fonds voor medische, sociale en pedagogische zorg voor gehandicapten",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1003570/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "26421435e1e3dc6fc9cb52d6be3e19f1cbd23d136d7e36e1c445a13eac9e87b4",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1003570&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "1990-03-13",
+  "gazette": "1990-06-01",
+  "numac": 0,
+  "document_start": "1990-01-01",
+  "document_end": null,
+  "in_force": "2006-06-01",
+  "article_versions": 2,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
