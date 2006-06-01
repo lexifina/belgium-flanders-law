@@ -1,0 +1,17 @@
+{
+  "codex_id": 1007763,
+  "title": "Samenwerkingsakkoord van 2000-10-25 tot samenwerking tussen de Federale Overheid en de Gemeenschappen inzake mammografische borstkankerscreening",
+  "type": "Samenwerkingsakkoord",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1007763/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "df56255d15dad375c793b7485568f531a4c30435cc24108bd045a7b42064fd7d",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1007763&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "2000-10-25",
+  "gazette": "2000-12-22",
+  "numac": 0,
+  "document_start": null,
+  "document_end": null,
+  "in_force": "2006-06-01",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
