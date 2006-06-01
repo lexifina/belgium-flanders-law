@@ -1,0 +1,17 @@
+{
+  "codex_id": 1012067,
+  "title": "Decreet van 2003-12-19 betreffende het activeren van risicokapitaal in Vlaanderen (citeeropschrift: \"ARK-decreet\")",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1012067/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "c52d7941477677d040ce118b2465f3123929482dd885477224d3880682b23a2a",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1012067&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "2003-12-19",
+  "gazette": "2004-02-17",
+  "numac": 2004035222,
+  "document_start": "2005-01-14",
+  "document_end": null,
+  "in_force": "2006-06-01",
+  "article_versions": 37,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
