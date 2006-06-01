@@ -1,0 +1,17 @@
+{
+  "codex_id": 1000954,
+  "title": "Besluit van de Vlaamse Regering van 1993-07-22 tot regeling van de cumulatie van een activiteit als zelfstandige met een ambt in het onderwijs",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1000954/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "9e284e164bacfd3ff85aa541a5a168d6020125c1776818cf4170d45b4cd9b00c",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1000954&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "1993-07-22",
+  "gazette": "1993-10-06",
+  "numac": 1993036140,
+  "document_start": null,
+  "document_end": "2009-08-31",
+  "in_force": "2006-06-01",
+  "article_versions": 13,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
