@@ -1,0 +1,17 @@
+{
+  "codex_id": 1004872,
+  "title": "Besluit van de Vlaamse Regering van 1996-10-15 houdende de oprichting en samenstelling van de afdeling deeltijds kunstonderwijs van de Vlaamse Onderwijsraad",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1004872/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "102c3d938e0a51adef4d2996368aff4207c2a0cc8ac80c553c044390d9d92276",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1004872&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "1996-10-15",
+  "gazette": "1996-11-21",
+  "numac": 1996036331,
+  "document_start": "1996-10-01",
+  "document_end": null,
+  "in_force": "2006-06-01",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
