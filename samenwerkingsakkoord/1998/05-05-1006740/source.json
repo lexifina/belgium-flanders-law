@@ -1,0 +1,17 @@
+{
+  "codex_id": 1006740,
+  "title": "Samenwerkingsakkoord van 1998-05-05 tussen de federale Staat, de Gemeenschappen en de Gewesten betreffende de bestendiging van het armoedebeleid",
+  "type": "Samenwerkingsakkoord",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1006740/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "81ee1cbac880d55a3e9f376318d650445b23e21bdd2c5576539ca7f995707528",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1006740&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "1998-05-05",
+  "gazette": "1999-07-10",
+  "numac": 0,
+  "document_start": null,
+  "document_end": null,
+  "in_force": "2006-06-01",
+  "article_versions": 11,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
