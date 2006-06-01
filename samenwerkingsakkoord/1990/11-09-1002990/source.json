@@ -1,0 +1,17 @@
+{
+  "codex_id": 1002990,
+  "title": "Samenwerkingsakkoord van 1990-11-09 tussen de Vlaamse Gemeenschap, de Franse Gemeenschap en de Duitstalige Gemeenschap betreffende alcohol- en drugpreventie",
+  "type": "Samenwerkingsakkoord",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1002990/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "0d6113f89995640da7244f1bd9797a38d9dd21d3898fe18d97fc2455b057dc2d",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1002990&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "1990-11-09",
+  "gazette": "1991-02-07",
+  "numac": 0,
+  "document_start": null,
+  "document_end": null,
+  "in_force": "2006-06-01",
+  "article_versions": 6,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
