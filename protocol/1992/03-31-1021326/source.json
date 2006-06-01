@@ -1,0 +1,17 @@
+{
+  "codex_id": 1021326,
+  "title": "Protocol van 1992-03-31 tot regeling van de onderscheiden vormen van medewerking tussen de Regering en de Executieven",
+  "type": "Protocol",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1021326/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "7cdb3c7c5598525c186bda62b58558cf7ae49f9092573f2f431ff30c28492a6e",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1021326&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "1992-03-31",
+  "gazette": "1992-06-23",
+  "numac": 0,
+  "document_start": "1992-03-31",
+  "document_end": null,
+  "in_force": "2006-06-01",
+  "article_versions": 12,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
