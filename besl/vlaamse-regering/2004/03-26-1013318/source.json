@@ -1,0 +1,17 @@
+{
+  "codex_id": 1013318,
+  "title": "Besluit van de Vlaamse Regering van 2004-03-26 betreffende de instelling van het kindeffectrapport",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1013318/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "09d27cefef45877e93ac79125ddee1d90245e117b3950e10f1e7df8a759bb5a0",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1013318&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "2004-03-26",
+  "gazette": "2004-08-06",
+  "numac": 2004036258,
+  "document_start": "2004-04-01",
+  "document_end": "2008-12-31",
+  "in_force": "2006-06-01",
+  "article_versions": 14,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
