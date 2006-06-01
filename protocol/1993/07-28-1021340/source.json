@@ -1,0 +1,17 @@
+{
+  "codex_id": 1021340,
+  "title": "Protocol van 1993-07-28 tussen de Federale Regering en de in artikel 59bis, 59ter en 108ter van de Grondwet bedoelde overheden inzake het te voeren gezondheidsbeleid",
+  "type": "Protocol",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1021340/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "0956b8b2e4ac659f1b5c93b8db4e721322f7b5bc2615145f7251dc9a1b0f3d1d",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1021340&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "1993-07-28",
+  "gazette": "1993-09-28",
+  "numac": 0,
+  "document_start": null,
+  "document_end": null,
+  "in_force": "2006-06-01",
+  "article_versions": 31,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
