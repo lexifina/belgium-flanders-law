@@ -1,0 +1,17 @@
+{
+  "codex_id": 1005633,
+  "title": "Besluit van de Vlaamse Regering van 1997-07-15 tot uitvoering van de artikelen 3, §1, 4°, 6, §2, 17, §6 en 18, 1° en 2° van het decreet van 23 januari 1991 inzake de bescherming van het leefmilieu tegen de verontreiniging door meststoffen",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1005633/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "a5d0a1b73d89f1631edbf0da33f4dacd9a738c4259141e903a91c381665e5da7",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1005633&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "1997-07-15",
+  "gazette": "1997-10-17",
+  "numac": 1997036167,
+  "document_start": null,
+  "document_end": null,
+  "in_force": "2006-06-01",
+  "article_versions": 7,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
