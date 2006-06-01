@@ -1,0 +1,17 @@
+{
+  "codex_id": 1007578,
+  "title": "Besluit van de Vlaamse Regering van 2000-09-08 houdende de modaliteiten van de aanwerving, de herbenoeming, de beëindiging, de voortijdige beëindiging en de evaluatie van het mandaat van de directeur-generaal en de adjunct-directeur-generaal van de Vlaamse Vervoermaatschappij - De Lijn",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1007578/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "1b79cea478e7e6e67a69b9090aedacdc190272890b1086097a69b2d085f0eb91",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1007578&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "2000-09-08",
+  "gazette": "2000-10-18",
+  "numac": 2000036008,
+  "document_start": null,
+  "document_end": null,
+  "in_force": "2006-06-01",
+  "article_versions": 17,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
