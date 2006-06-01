@@ -1,0 +1,17 @@
+{
+  "codex_id": 1012595,
+  "title": "Decreet van 1972-05-03 tot regeling van het gebruik van de Nederlandse taal bij de eedaflegging",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1012595/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "53d8f54b8aeff12d040f031a241d208612b6fa1b66170a75562ae29cceca43db",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1012595&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "1972-05-03",
+  "gazette": "1972-05-27",
+  "numac": 1972050301,
+  "document_start": "1972-06-06",
+  "document_end": null,
+  "in_force": "2006-06-01",
+  "article_versions": 2,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
