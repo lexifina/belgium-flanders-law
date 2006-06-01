@@ -1,0 +1,17 @@
+{
+  "codex_id": 1012931,
+  "title": "Omzendbrief van 1973-06-25 betreffende de inrichting van het examen van bijzonder leermeester in de lichamelijke opvoeding aan de lagere scholen",
+  "type": "Omzendbrief",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1012931/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "b024248b9900861d7cebbbe86db9cad3cada625b487030c2a4974103565c436a",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1012931&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "1973-06-25",
+  "gazette": "1973-07-12",
+  "numac": 0,
+  "document_start": "1973-07-22",
+  "document_end": null,
+  "in_force": "2006-06-01",
+  "article_versions": 2,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
