@@ -1,0 +1,17 @@
+{
+  "codex_id": 1005506,
+  "title": "Omzendbrief van 1997-07-29 RO/97/05 met betrekking tot de toepassing van art. 68, § 1, c van het decreet houdende bekrachtiging van het besluit van de Vlaamse regering van 22 oktober 1996 tot wijziging van het besluit van de Vlaamse regering van 24 september 1996 tot coördinatie van de wet van 29 maart 1962 houdende de organisatie van de ruimtelijke ordening en de stedebouw",
+  "type": "Omzendbrief",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1005506/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "a0d3996a8742337a63a250a847245e62d1cb31cfe153d1a2e568827264505074",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1005506&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "1997-07-29",
+  "gazette": "1997-08-23",
+  "numac": 1997801944,
+  "document_start": "1997-09-02",
+  "document_end": "2016-12-30",
+  "in_force": "2006-06-01",
+  "article_versions": 2,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
