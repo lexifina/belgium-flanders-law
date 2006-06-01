@@ -1,0 +1,17 @@
+{
+  "codex_id": 1006632,
+  "title": "Besluit van de Vlaamse Regering van 1999-03-09 tot vaststelling van de datum waarop sommige vaste benoemingen in het voltijds secundair en buitengewoon secundair onderwijs opnieuw uitwerking hebben ten aanzien van de overheid",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1006632/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "15a8ae04ce92388dc34bbd7e75bf2068d74acf645be3709a3a7a32c20d95cc25",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1006632&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "1999-03-09",
+  "gazette": "1999-05-07",
+  "numac": 1999035538,
+  "document_start": null,
+  "document_end": null,
+  "in_force": "2006-06-01",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
