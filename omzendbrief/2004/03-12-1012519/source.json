@@ -1,0 +1,17 @@
+{
+  "codex_id": 1012519,
+  "title": "Omzendbrief van 2004-03-12 BA 2004/02 betreffende de arbeidsduur in de lokale sector",
+  "type": "Omzendbrief",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1012519/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "4628b488e07812278ad40066d63e45d0663c4de5c67cf68a449e671a3b88c070",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1012519&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "2004-03-12",
+  "gazette": "2004-04-08",
+  "numac": 2004035505,
+  "document_start": null,
+  "document_end": null,
+  "in_force": "2006-06-01",
+  "article_versions": 1,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
