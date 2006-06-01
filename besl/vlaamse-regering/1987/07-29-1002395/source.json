@@ -1,0 +1,17 @@
+{
+  "codex_id": 1002395,
+  "title": "Besluit van de Vlaamse Regering van 1987-07-29 tot vaststelling van de voor logiesverstrekkende bedrijven geldende exploitatievoorwaarden en tot regeling van de toekenning van de voor die exploitatie vereiste vergunningen",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1002395/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "d77ab7b87c7bda5e94cdcef2e75647e43e07a76980d78c16ff85ecb2e0ed070b",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1002395&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "1987-07-29",
+  "gazette": "1988-05-27",
+  "numac": 1988029414,
+  "document_start": "1988-06-06",
+  "document_end": "2009-12-31",
+  "in_force": "2006-06-01",
+  "article_versions": 24,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
