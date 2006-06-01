@@ -1,0 +1,17 @@
+{
+  "codex_id": 1011532,
+  "title": "Omzendbrief van 2003-07-18 BA-2003/07 met instructies voor het opstellen van de bergotingen, budgetten en meerjarenplannen voor 2004 van de gemeenten en de openbare centra voor maatschappelijk welzijn van het Vlaamse Gewest",
+  "type": "Omzendbrief",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1011532/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "a6458d6e701da2208024d8a2e08e33cd36e1dba798a5f00300fcc03152485144",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1011532&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "2003-07-18",
+  "gazette": "2003-08-22",
+  "numac": 2003035900,
+  "document_start": null,
+  "document_end": null,
+  "in_force": "2006-06-01",
+  "article_versions": 7,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
