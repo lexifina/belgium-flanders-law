@@ -1,0 +1,17 @@
+{
+  "codex_id": 1008949,
+  "title": "Besluit van de Vlaamse Regering van 2002-01-11 tot wijziging van het koninklijk besluit van 9 november 1978 tot vaststelling op 1 april 1972 van de weddenschalen van het bestuurs en onderwijzend personeel en van het opvoedend hulppersoneel van de rijksinrichtingen voor kunstonderwijs met volledig leerplan, ressorterend onder de Minister van Nederlandse Cultuur en de Minister van Franse Cultuur, alsmede van de personeelsleden van de inspectiedienst belast met het toezicht op de inrichtingen voor kunstonderwijs",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1008949/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "74e8d40d08e4f57cb1d9426b85261e29c8849f0392796302639fdc1caa6345c5",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1008949&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "2002-01-11",
+  "gazette": "2002-03-26",
+  "numac": 2002035309,
+  "document_start": null,
+  "document_end": null,
+  "in_force": "2006-06-01",
+  "article_versions": 13,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
