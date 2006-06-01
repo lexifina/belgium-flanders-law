@@ -1,0 +1,17 @@
+{
+  "codex_id": 1006947,
+  "title": "Besluit van de Vlaamse Regering van 1999-06-08 tot bepaling van de specifieke regelingen van het toezicht op de sociale huisvestingsmaatschappijen",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1006947/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "b2f206ba1c750238c2278fb9f55603ba3511502a37fdc526f7ab10e4ef5d1975",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1006947&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "1999-06-08",
+  "gazette": "1999-09-28",
+  "numac": 1999036228,
+  "document_start": null,
+  "document_end": "2006-06-30",
+  "in_force": "2006-06-01",
+  "article_versions": 10,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
