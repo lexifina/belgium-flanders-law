@@ -1,0 +1,17 @@
+{
+  "codex_id": 1007647,
+  "title": "Besluit van de Vlaamse Regering van 1985-07-17 houdende oprichting van een Vlaams Economisch en Sociaal Overlegcomité",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1007647/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "dc557d40f1e484e6ce706e28d57b979b7f1d2d8ca8d7b921d3f01ca970f2d90a",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1007647&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "1985-07-17",
+  "gazette": "1985-09-07",
+  "numac": 1985024641,
+  "document_start": "1985-09-07",
+  "document_end": null,
+  "in_force": "2006-06-01",
+  "article_versions": 8,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
