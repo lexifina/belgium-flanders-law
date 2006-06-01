@@ -1,0 +1,17 @@
+{
+  "codex_id": 1002634,
+  "title": "Besluit van de Vlaamse Regering van 1991-05-03 tot goedkeuring van de statuten van de Vlaamse Instelling voor Technologisch Onderzoek",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1002634/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "d9f91cd202fb517b90e847661de301ff45777836c8ac070084a620df24ff4fcd",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1002634&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "1991-05-03",
+  "gazette": "1991-07-17",
+  "numac": 1991035681,
+  "document_start": "1991-05-01",
+  "document_end": null,
+  "in_force": "2006-06-01",
+  "article_versions": 58,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
