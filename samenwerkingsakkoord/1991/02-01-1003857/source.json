@@ -1,0 +1,17 @@
+{
+  "codex_id": 1003857,
+  "title": "Samenwerkingsakkoord van 1991-02-01 tot regeling van de betrokkenheid van de Gemeenschappelijke Gemeenschapscommissie, de Gemeenschappen en de Gewesten in de activiteiten inzake wetenschapsbeleid van de Europese Gemeenschappen, evenals in de organisatie van aansluitende activiteiten op binnenlands vlak",
+  "type": "Samenwerkingsakkoord",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1003857/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "59d9d39ffeae0a5b9dcc0bbb44c5c06f4d17aa0f4813952083444f42c57d1cb5",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1003857&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "1991-02-01",
+  "gazette": "1991-02-09",
+  "numac": 0,
+  "document_start": null,
+  "document_end": "2014-02-13",
+  "in_force": "2006-06-01",
+  "article_versions": 21,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
