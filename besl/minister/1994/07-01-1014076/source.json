@@ -1,0 +1,17 @@
+{
+  "codex_id": 1014076,
+  "title": "Ministerieel besluit van 1994-07-01 betreffende de melkafrekeningen aan de producenten",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1014076/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "3d3ba524a2a7901f562ef26ac0595cc362d52aab73a47e222d3095940ab70fa0",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1014076&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "1994-07-01",
+  "gazette": "1994-09-13",
+  "numac": 0,
+  "document_start": "1994-07-01",
+  "document_end": "2009-06-30",
+  "in_force": "2006-06-01",
+  "article_versions": 5,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
