@@ -1,0 +1,17 @@
+{
+  "codex_id": 1004212,
+  "title": "Besluit van de Vlaamse Regering van 1989-09-06 tot erkenning van de dagbladeenheden die het voordeel kunnen genieten van de wet van 19 juli 1979 tot behoud van de verscheidenheid in de opiniedagbladpers",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1004212/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "1e80c0124adfecd814bc3a44636b0332526a223e8b7fbe8f42971203aba4f3c6",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1004212&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "1989-09-06",
+  "gazette": "1989-11-28",
+  "numac": 1989029901,
+  "document_start": "1989-01-01",
+  "document_end": null,
+  "in_force": "2006-06-01",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
