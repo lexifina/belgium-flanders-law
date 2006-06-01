@@ -1,0 +1,17 @@
+{
+  "codex_id": 1007587,
+  "title": "Besluit van de Vlaamse Regering van 2000-07-17 houdende de overdracht van rechten en plichten van het FIOV naar het IWT",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1007587/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "05630b7ee953239160d5ad6074bef1a98d6ae0b53d5e6a26bc3bd7dc4eb415e6",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1007587&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "2000-07-17",
+  "gazette": "2000-10-25",
+  "numac": 2000036007,
+  "document_start": null,
+  "document_end": null,
+  "in_force": "2006-06-01",
+  "article_versions": 10,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
