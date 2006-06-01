@@ -1,0 +1,17 @@
+{
+  "codex_id": 1002524,
+  "title": "Besluit van de Vlaamse Regering van 1991-05-08 houdende samenstelling en werking van de Vlaamse Stichting voor Verkeerskunde",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1002524/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "9fe239f2d5c6b8449145310f5de992c1d3a7b050b4b39ba495f87ecfc9881d59",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1002524&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "1991-05-08",
+  "gazette": "1991-09-18",
+  "numac": 1991035802,
+  "document_start": "1991-03-01",
+  "document_end": null,
+  "in_force": "2006-06-01",
+  "article_versions": 7,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
