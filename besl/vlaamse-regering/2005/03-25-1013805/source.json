@@ -1,0 +1,17 @@
+{
+  "codex_id": 1013805,
+  "title": "Besluit van de Vlaamse Regering van 2005-03-25 houdende reglementering van de handel in en de keuring van zaaizaad van groenvoedergewassen",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1013805/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "ce06a3dcc1f3d52f2502c346938e9411f16fa90204d0fed3a6dce2014fc30fa4",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1013805&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "2005-03-25",
+  "gazette": "2005-06-02",
+  "numac": 2005035613,
+  "document_start": null,
+  "document_end": null,
+  "in_force": "2006-06-01",
+  "article_versions": 42,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
