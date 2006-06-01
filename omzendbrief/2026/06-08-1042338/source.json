@@ -1,0 +1,17 @@
+{
+  "codex_id": 1042338,
+  "title": "Omzendbrief van 2026-06-08 KBBJ/ABB 2026/4 over de opmaak van agressieprotocol voor lokale en provinciale besturen",
+  "type": "Omzendbrief",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1042338/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "60f2aec8b49d2d5b974d5e0420066ffcd53308621cb61b6f96a0a8d488a6adba",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1042338&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "2026-06-08",
+  "gazette": "0001-01-01",
+  "numac": 2026006679,
+  "document_start": null,
+  "document_end": null,
+  "in_force": "2006-06-01",
+  "article_versions": 1,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
