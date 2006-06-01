@@ -1,0 +1,17 @@
+{
+  "codex_id": 1012535,
+  "title": "Ministerieel besluit van 1997-05-16 tot toekenning van een forfaitaire vergoeding wegens verblijfskosten aan de personeelsleden belast met een rondreizende functie van het Ministerie van Middenstand en Landbouw",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1012535/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "da482aa8a4970deab1a2f16aea4468180f6b4840e9058c70e09ecd479777e784",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1012535&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "1997-05-16",
+  "gazette": "1997-07-04",
+  "numac": 97016138,
+  "document_start": null,
+  "document_end": null,
+  "in_force": "2006-06-01",
+  "article_versions": 5,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
