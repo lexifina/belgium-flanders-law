@@ -1,0 +1,17 @@
+{
+  "codex_id": 1004002,
+  "title": "Omzendbrief van 1995-06-08 B.A.-95/09 betreffende de gemeentebelasting op de niet-bebouwde percelen in niet-vervallen verkavelingen en op de niet-bebouwde gronden gelegen in het woongebied en palende aan een voldoende uitgeruste weg - belastingvoet",
+  "type": "Omzendbrief",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1004002/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "6832eb683d30162a1143c4c71377f577fc31ec2a46be13e13a551339244feb76",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1004002&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "1995-06-08",
+  "gazette": "1995-09-14",
+  "numac": 0,
+  "document_start": null,
+  "document_end": null,
+  "in_force": "2006-06-01",
+  "article_versions": 1,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
