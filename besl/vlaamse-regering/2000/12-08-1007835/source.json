@@ -1,0 +1,17 @@
+{
+  "codex_id": 1007835,
+  "title": "Besluit van de Vlaamse Regering van 2000-12-08 houdende vaststelling van de nadere regels betreffende de subsidieverlening voor projecten in het kader van het Kustactieplan",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1007835/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "e0b8d5caebcd0e1b5897612000b5d6ac346173b410026fb958c21934c2de842f",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1007835&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "2000-12-08",
+  "gazette": "2001-02-20",
+  "numac": 2001035173,
+  "document_start": null,
+  "document_end": "2012-12-31",
+  "in_force": "2006-06-01",
+  "article_versions": 25,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
