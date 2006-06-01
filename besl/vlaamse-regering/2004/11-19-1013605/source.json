@@ -1,0 +1,17 @@
+{
+  "codex_id": 1013605,
+  "title": "Besluit van de Vlaamse Regering van 2004-11-19 betreffende de rechtsopvolging naar aanleiding van de omzetting van de Dienst voor de Scheepvaart in een publiekrechtelijk vormgegeven extern verzelfstandigd agentschap De Scheepvaart, en naar aanleiding van de kwalificatie van de NV. Zeekanaal en Watergebonden Grondbeheer Vlaanderen waarvan de naam wordt gewijzigd in Waterwegen en Zeekanaal als publiekrechtelijk vormgegeven extern verzelfstandigd agentschap",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1013605/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "f80c4b5d28a5753930eb63fa8175ba1e19a7867ecb3315c6cf8e119507801cc6",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1013605&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "2004-11-19",
+  "gazette": "2004-12-29",
+  "numac": 2004036879,
+  "document_start": "2005-01-01",
+  "document_end": null,
+  "in_force": "2006-06-01",
+  "article_versions": 7,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
