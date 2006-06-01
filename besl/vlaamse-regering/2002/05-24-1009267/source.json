@@ -1,0 +1,17 @@
+{
+  "codex_id": 1009267,
+  "title": "Besluit van de Vlaamse Regering van 2002-05-24 houdende de nadere regels betreffende de subsidieverlening voor inburgeringstrajecten 2002",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1009267/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "aa3d3dc393ac5b21643be8c9e1ab05797da80bf94db9116c9dfa393e0343faf4",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1009267&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "2002-05-24",
+  "gazette": "2002-07-17",
+  "numac": 2002035837,
+  "document_start": "2002-06-01",
+  "document_end": null,
+  "in_force": "2006-06-01",
+  "article_versions": 12,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
