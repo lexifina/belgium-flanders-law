@@ -1,0 +1,17 @@
+{
+  "codex_id": 1021374,
+  "title": "Protocol van 2004-12-06 Aanhangsel nr. 1 bij het protocol van 24 mei 2004 gesloten tussen de Federale Overheid en de overheden bedoeld in artikelen 128, 130 en 135 van de Grondwet, betreffende het gezondheidsbeleid t.a.v. patiënten in een persisterende vegetatieve status",
+  "type": "Protocol",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1021374/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "506b09259ebbeeb4ac4d2352cc54b2fea4b008e16c0a3de505a92c9d74c7fa43",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1021374&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "2004-12-06",
+  "gazette": "2005-03-10",
+  "numac": 2005022156,
+  "document_start": "2004-12-06",
+  "document_end": null,
+  "in_force": "2006-06-01",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
