@@ -1,0 +1,17 @@
+{
+  "codex_id": 1005139,
+  "title": "Omzendbrief van 1997-01-03 bijzondere subsidies aan voorzieningen in de gehandicaptensector",
+  "type": "Omzendbrief",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1005139/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "3fecc0f73e161852ce2842bf06c5ebf2cda5a8c542424dc9f520367d8f30a7b7",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1005139&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "1997-01-03",
+  "gazette": "1997-02-04",
+  "numac": 0,
+  "document_start": null,
+  "document_end": null,
+  "in_force": "2006-06-01",
+  "article_versions": 1,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
