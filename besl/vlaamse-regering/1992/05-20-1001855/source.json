@@ -1,0 +1,17 @@
+{
+  "codex_id": 1001855,
+  "title": "Besluit van de Vlaamse Regering van 1992-05-20 omtrent de pensioenregeling van de personeelsleden van de Dienst voor Infrastructuurwerken van het Gesubsidieerd Onderwijs",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1001855/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "80aeca912ac9c3ece2490d8ddde317bcca9703809b3952f9853b8accce641527",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1001855&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "1992-05-20",
+  "gazette": "1992-07-30",
+  "numac": 1992035817,
+  "document_start": "1991-06-01",
+  "document_end": null,
+  "in_force": "2006-06-01",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
