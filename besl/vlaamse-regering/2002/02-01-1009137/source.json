@@ -1,0 +1,17 @@
+{
+  "codex_id": 1009137,
+  "title": "Besluit van de Vlaamse Regering van 2002-02-01 ter uitvoering van de artikelen 44, vierde lid, en 48, van de wet van 22 juli 1970 op de ruilverkaveling van landeigendommen uit kracht van de wet",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1009137/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "63b7db424ff48d277bda89619b094b4ec4bdf5d5e20b3a78c4b9ff2a1042794a",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1009137&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "2002-02-01",
+  "gazette": "2002-05-09",
+  "numac": 2002035563,
+  "document_start": "2002-01-01",
+  "document_end": null,
+  "in_force": "2006-06-01",
+  "article_versions": 5,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
