@@ -1,0 +1,17 @@
+{
+  "codex_id": 1000118,
+  "title": "Samenwerkingsakkoord van 1994-05-30 tussen de federale overheid, de Vlaamse Gemeenschap, het Vlaamse Gewest, de Franse Gemeenschap, het Waalse Gewest en het Brusselse Hoofdstedelijk Gewest voor de verplichte overheveling zonder schadeloosstelling van het personeel en de goederen, rechten en verplichtingen van de provincie Brabant naar de provincie Vlaams-Brabant, de provincie Waals-Brabant, het Brusselse Hoofdstedelijk Gewest, de Gemeenschapscommissies bedoeld in artikel 60 van de bijzondere wet van 12 januari 1989 met betrekking tot de Brusselse instellingen, en naar de federale overheid",
+  "type": "Samenwerkingsakkoord",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1000118/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "1936298f46de5a3748c541560b0aa12d6e5fda9d72c4e993f6a3b3f51fccbaca",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1000118&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "1994-05-30",
+  "gazette": "1994-06-17",
+  "numac": 0,
+  "document_start": null,
+  "document_end": null,
+  "in_force": "2006-06-01",
+  "article_versions": 62,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
