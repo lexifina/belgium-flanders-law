@@ -1,0 +1,17 @@
+{
+  "codex_id": 1003036,
+  "title": "Besluit van de Vlaamse Regering van 1995-03-29 tot vaststelling van de weddeschalen verbonden aan de bijzondere graden bij de Vlaamse Landmaatschappij",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1003036/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "29af6d6550228b3368c66a6d18aa6b4d7243da1c67dce0cbb12d6610268e2f4a",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1003036&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "1995-03-29",
+  "gazette": "1995-07-07",
+  "numac": 1995035757,
+  "document_start": "1992-01-01",
+  "document_end": null,
+  "in_force": "2006-06-01",
+  "article_versions": 6,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
