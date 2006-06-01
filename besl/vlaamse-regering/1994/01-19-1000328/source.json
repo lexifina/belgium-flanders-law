@@ -1,0 +1,17 @@
+{
+  "codex_id": 1000328,
+  "title": "Besluit van de Vlaamse Regering van 1994-01-19 houdende machtiging van de Maatschappij van de Brugse Zeevaartinrichtingen tot deelname aan de pensioenregeling, ingesteld bij de wet van 28 april 1958 betreffende het pensioen van het personeel van zekere organismen van openbaar nut alsmede van hun rechthebbenden",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1000328/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "191f0514f781a8361b4778721f8abacae0178fbc03f29424160dd0c79650f653",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1000328&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "1994-01-19",
+  "gazette": "1994-03-24",
+  "numac": 1994035264,
+  "document_start": null,
+  "document_end": null,
+  "in_force": "2006-06-01",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
