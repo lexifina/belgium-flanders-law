@@ -1,0 +1,17 @@
+{
+  "codex_id": 1000270,
+  "title": "Decreet van 1994-06-01 houdende goedkeuring van de overeenkomst inzake de bescherming van het cultureel en natuurlijk erfgoed van de wereld, opgemaakt te Parijs op 16 november 1972",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1000270/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "ec279e394792cb8e6f70f221946e5f8cd27e16fd846317415bec24381afa3ed5",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1000270&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "1994-06-01",
+  "gazette": "1994-08-05",
+  "numac": 1994035811,
+  "document_start": null,
+  "document_end": null,
+  "in_force": "2006-06-01",
+  "article_versions": 40,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
