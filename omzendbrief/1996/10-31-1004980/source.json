@@ -1,0 +1,17 @@
+{
+  "codex_id": 1004980,
+  "title": "Omzendbrief van 1996-10-31 houdende aanvullende toelichtingen voor de provinciale en gemeentelijke overheden met betrekking tot de vervreemding van een gedeelte van hun onroerend patrimonium",
+  "type": "Omzendbrief",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1004980/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "b8934a8583b851437451325cd5475308012f72685dbf5c0e872c68d70a93deef",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1004980&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "1996-10-31",
+  "gazette": "1996-12-10",
+  "numac": 0,
+  "document_start": null,
+  "document_end": null,
+  "in_force": "2006-06-01",
+  "article_versions": 1,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
