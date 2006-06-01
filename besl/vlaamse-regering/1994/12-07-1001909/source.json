@@ -1,0 +1,17 @@
+{
+  "codex_id": 1001909,
+  "title": "Besluit van de Vlaamse Regering van 1994-12-07 tot uitvoering van Titel II van het decreet van 13 juli 1994 betreffende de herstructurering van de GIMV, GIMVINDUS, VMH, Mijnen en LIM en tot oprichting van het Limburgfonds en de Permanente Werkgroep Limburg",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1001909/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "d64233e5717326a6e46870195695d35486a1214fd65edc85be38cd54a303924a",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1001909&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "1994-12-07",
+  "gazette": "1995-02-03",
+  "numac": 1995035083,
+  "document_start": "1994-12-01",
+  "document_end": null,
+  "in_force": "2006-06-01",
+  "article_versions": 15,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
