@@ -1,0 +1,17 @@
+{
+  "codex_id": 1005467,
+  "title": "Ministerieel besluit van 1997-06-17 tot vaststelling van het bijzonder bestek voor vervoer van de leerlingen die door de Vlaamse Gemeenschap georganiseerde onderwijsinstellingen bezoeken",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1005467/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "8b0f455eccdea7ca9f0de65e76fb746217674594f53626f29f1172928d8df56a",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1005467&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "1997-06-17",
+  "gazette": "1997-07-15",
+  "numac": 0,
+  "document_start": "1997-05-01",
+  "document_end": null,
+  "in_force": "2006-06-01",
+  "article_versions": 15,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
