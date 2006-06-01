@@ -1,0 +1,17 @@
+{
+  "codex_id": 1006294,
+  "title": "Ministerieel besluit van 1998-07-24 betreffende de delegatie van sommige bevoegdheden inzake technologie en innovatie aan de secretaris-generaal van het departement onderwijs",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1006294/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "223275d78fe919acf403e670ee6b4e2667bb6187b208b9ea25125198fe6585c2",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1006294&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "1998-07-24",
+  "gazette": "1998-09-01",
+  "numac": 1998035937,
+  "document_start": "1998-06-01",
+  "document_end": null,
+  "in_force": "2006-06-01",
+  "article_versions": 5,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
