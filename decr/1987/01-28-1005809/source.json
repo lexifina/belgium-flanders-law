@@ -1,0 +1,17 @@
+{
+  "codex_id": 1005809,
+  "title": "Decreet van 1987-01-28 houdende vaststelling van het percentage van de afhoudingen, in hoofde van het personeel van de Belgische Radio en Televisie, Nederlandse Uitzendingen, voor de financiering van de overlevingspensioenen",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1005809/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "4369a586eb3e225fde4986b27956f07b7dac5a08b388a6b875bfe42d18ef2fa9",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1005809&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "1987-01-28",
+  "gazette": "1987-03-28",
+  "numac": 1987029190,
+  "document_start": "1982-05-01",
+  "document_end": null,
+  "in_force": "2006-06-01",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
