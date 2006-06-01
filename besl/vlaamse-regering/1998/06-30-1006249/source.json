@@ -1,0 +1,17 @@
+{
+  "codex_id": 1006249,
+  "title": "Besluit van de Vlaamse Regering van 1998-06-30 houdende vaststelling van de salarisschalen van de lectoren van de universiteiten in de Vlaamse Gemeenschap",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1006249/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "df0aba7282d96c5260e26027104c7603d1ad1c2749d71a9afb6b00155c3e8642",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1006249&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "1998-06-30",
+  "gazette": "1998-08-06",
+  "numac": 1998035802,
+  "document_start": null,
+  "document_end": null,
+  "in_force": "2006-06-01",
+  "article_versions": 2,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
