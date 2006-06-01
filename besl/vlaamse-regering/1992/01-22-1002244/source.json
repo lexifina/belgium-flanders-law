@@ -1,0 +1,17 @@
+{
+  "codex_id": 1002244,
+  "title": "Besluit van de Vlaamse Regering van 1992-01-22 tot bepaling van de bevoegdheden van de leden van de Vlaamse regering",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1002244/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "eef0e381dff557adde3d959d368eb8fc4b757fb6f2a3fdb86ae94ee06073e667",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1002244&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "1992-01-22",
+  "gazette": "1992-01-30",
+  "numac": 1992035128,
+  "document_start": "1992-01-22",
+  "document_end": "1992-01-29",
+  "in_force": "2006-06-01",
+  "article_versions": 15,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
