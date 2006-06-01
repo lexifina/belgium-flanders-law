@@ -1,0 +1,17 @@
+{
+  "codex_id": 1002220,
+  "title": "Besluit van de Vlaamse Regering van 1990-04-19 houdende vaststelling van de personeelsformatie van de administratieve diensten van de Autonome Raad voor het Gemeenschapsonderwijs",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1002220/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "aa81dd1d221b1fe7aeeb4fff0dd9418eaf7a08e74f073a7ceb1a03bd88776af3",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1002220&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "1990-04-19",
+  "gazette": "1990-05-15",
+  "numac": 1990029586,
+  "document_start": "1990-04-15",
+  "document_end": null,
+  "in_force": "2006-06-01",
+  "article_versions": 6,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
