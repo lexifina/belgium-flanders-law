@@ -1,0 +1,17 @@
+{
+  "codex_id": 1006655,
+  "title": "Decreet van 1999-03-02 tot bekrachtiging van het besluit van de Vlaamse regering van 1 december 1998 tot bepaling van de ontwikkelingsdoelen voor het buitengewoon basisonderwijs type 2",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1006655/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "3bf6c8f67a7355a44f386ccb45ce0c99d3a40b454e9d1871cbe315dddee1f805",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1006655&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "1999-03-02",
+  "gazette": "1999-05-26",
+  "numac": 1999035546,
+  "document_start": null,
+  "document_end": null,
+  "in_force": "2006-06-01",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
