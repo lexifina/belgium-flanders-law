@@ -1,0 +1,17 @@
+{
+  "codex_id": 1015280,
+  "title": "Samenwerkingsakkoord van 2002-03-13 tussen de federale Staat en de Gewesten betreffende de uitvoering van het specifiek toezicht ingesteld bij de wet van 7 december 1998 (Belgisch Staatsblad van 5 januari 1999) tot organisatie van een geïntegreerde politiedienst, gestructureerd op twee niveaus",
+  "type": "Samenwerkingsakkoord",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1015280/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "76506ac00b0f5d081596975447b2b80c3e55520f7d1f47193f1ea4d8afb37ee6",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1015280&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "2002-03-13",
+  "gazette": "2002-04-19",
+  "numac": 0,
+  "document_start": "2001-04-01",
+  "document_end": null,
+  "in_force": "2006-06-01",
+  "article_versions": 12,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
