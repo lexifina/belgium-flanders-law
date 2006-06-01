@@ -1,0 +1,17 @@
+{
+  "codex_id": 1006516,
+  "title": "Omzendbrief van 1998-12-01 BA 98/11 betreffende de openbaarheid van bestuur - retributie voor afschriften van bestuursdocumenten",
+  "type": "Omzendbrief",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1006516/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "c570a0238dd9f8ced109a3d6101bd35c863dab793bfef69150386aeebba59634",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1006516&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "1998-12-01",
+  "gazette": "1999-01-12",
+  "numac": 1998036425,
+  "document_start": null,
+  "document_end": null,
+  "in_force": "2006-06-01",
+  "article_versions": 1,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
