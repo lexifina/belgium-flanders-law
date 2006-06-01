@@ -1,0 +1,17 @@
+{
+  "codex_id": 1015281,
+  "title": "Samenwerkingsakkoord van 1997-03-04 tussen de Federale Staat en de Gewesten betreffende doorstromingsprogramma's",
+  "type": "Samenwerkingsakkoord",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1015281/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "dd664e377bd8591132b198e1a30898cf16eed63f76e91244b8f80b65b60d7d9a",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1015281&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "1997-03-04",
+  "gazette": "1997-08-09",
+  "numac": 0,
+  "document_start": "1997-03-04",
+  "document_end": null,
+  "in_force": "2006-06-01",
+  "article_versions": 17,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
