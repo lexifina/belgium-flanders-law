@@ -1,0 +1,17 @@
+{
+  "codex_id": 1000564,
+  "title": "Besluit van de Vlaamse Regering van 1993-11-17 houdende vaststelling van de weddeschalen verbonden aan de bijzondere graden en aan de afgeschafte graden bij de N.V. Maatschappij van de Brugse Zeevaartinrichtingen",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1000564/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "2f5c420362f94d3a79811850b07c23255da89d24dd4611a5edb1b180dda7ca5b",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1000564&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "1993-11-17",
+  "gazette": "1994-02-16",
+  "numac": 1994036561,
+  "document_start": null,
+  "document_end": null,
+  "in_force": "2006-06-01",
+  "article_versions": 7,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
