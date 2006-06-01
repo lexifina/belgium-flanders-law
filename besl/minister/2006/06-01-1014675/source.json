@@ -1,0 +1,17 @@
+{
+  "codex_id": 1014675,
+  "title": "Ministerieel besluit van 2006-06-01 houdende erkenning van een arts als keuringsarts inzake medisch verantwoorde sportbeoefening",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1014675/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "bfb1117b11bd176d6edcbd395c8c7d5480f44ce5d9e8e6e29e362a1e58def630",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1014675&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "2006-06-01",
+  "gazette": "2006-07-14",
+  "numac": 2006036063,
+  "document_start": "2006-06-01",
+  "document_end": null,
+  "in_force": "2006-06-01",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
