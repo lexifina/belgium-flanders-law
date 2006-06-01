@@ -1,0 +1,17 @@
+{
+  "codex_id": 1002197,
+  "title": "Besluit van de Vlaamse Regering van 1990-09-12 tot machtiging van de [Nederlandse Radio- en Televisieuitzendingen in België], omroep van de Vlaamse Gemeenschap, om handelspubliciteit op radio uit te zenden",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1002197/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "ce13d2a949d06a5bbea22f0b586ae6d87fb816ba2161fa236fa9db9f05e78ed4",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1002197&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "1990-09-12",
+  "gazette": "1990-11-14",
+  "numac": 1990030333,
+  "document_start": null,
+  "document_end": null,
+  "in_force": "2006-06-01",
+  "article_versions": 1,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
