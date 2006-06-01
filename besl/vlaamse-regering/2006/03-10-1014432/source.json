@@ -1,0 +1,17 @@
+{
+  "codex_id": 1014432,
+  "title": "Besluit van de Vlaamse Regering van 2006-03-10 betreffende de investeringsoperatie in scholen voor technologie en industriële technieken",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1014432/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "cb44f4c279c49a33b8520a8e6ac7c4a83c609c1444244b654cc1f6871be7d908",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1014432&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "2006-03-10",
+  "gazette": "2006-04-19",
+  "numac": 2006035552,
+  "document_start": "2005-09-01",
+  "document_end": null,
+  "in_force": "2006-06-01",
+  "article_versions": 11,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
