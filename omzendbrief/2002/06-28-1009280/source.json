@@ -1,0 +1,17 @@
+{
+  "codex_id": 1009280,
+  "title": "Omzendbrief van 2002-06-28 BA 2002/10 betreffende het inzage- en afschriftrecht van de leden van de gemeenteraden, de politieraden, de provincieraden en de raden voor maatschappelijk welzijn met betreking tot e-mailberichten en geïnformatiseerde stukken",
+  "type": "Omzendbrief",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1009280/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "1438956e2c0a1e5c8690f47b4c59b0a2efc8c3592b1b989faa605e27485fb587",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1009280&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "2002-06-28",
+  "gazette": "2002-07-19",
+  "numac": 2002035894,
+  "document_start": null,
+  "document_end": null,
+  "in_force": "2006-06-01",
+  "article_versions": 1,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
