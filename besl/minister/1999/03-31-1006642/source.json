@@ -1,0 +1,17 @@
+{
+  "codex_id": 1006642,
+  "title": "Ministerieel besluit van 1999-03-31 betreffende de berekeningswijze van de subsidiebedragen voor de personeelskosten in kinderdagverblijven en diensten voor opvanggezinnen",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1006642/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "83c330226a78c8fbee6b1a1ccb79818b200f915bf00b4260de8d644e3f558258",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1006642&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "1999-03-31",
+  "gazette": "1999-05-11",
+  "numac": 1999035557,
+  "document_start": null,
+  "document_end": null,
+  "in_force": "2006-06-01",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
