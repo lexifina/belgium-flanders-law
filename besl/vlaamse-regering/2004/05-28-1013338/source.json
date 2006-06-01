@@ -1,0 +1,17 @@
+{
+  "codex_id": 1013338,
+  "title": "Besluit van de Vlaamse Regering van 2004-05-28 betreffende de erkenning en subsidiëring van jeugdherbergen, jeugdverblijfcentra, ondersteuningsstructuren en de VZW. Algemeen Dienst voor Jeugdtoerisme",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1013338/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "452fc3accf5dd03eccf69bd1b429276f17afbec65f9141aa56955764d6bf90b9",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1013338&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "2004-05-28",
+  "gazette": "2004-08-19",
+  "numac": 2004036325,
+  "document_start": null,
+  "document_end": null,
+  "in_force": "2006-06-01",
+  "article_versions": 11,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
