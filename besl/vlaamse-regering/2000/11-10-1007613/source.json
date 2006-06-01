@@ -1,0 +1,17 @@
+{
+  "codex_id": 1007613,
+  "title": "Besluit van de Vlaamse Regering van 2000-11-10 tot vaststelling van een vergoedingenregeling ter uitvoering van artikel 15, 15bis, 15ter, 15sexies, §§1 en 3 en 15septies van het decreet van 23 januari 1991 inzake de bescherming van het leefmilieu tegen de verontreiniging door meststoffen en tot wijziging van het besluit van de Vlaamse regering van 26 mei 2000 ter uitvoering van sommige artikelen van hetzelfde decreet",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1007613/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "06ead2d6f04f1615f44898ee2427f397906788ce58b8a1ded93087160220f9ea",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1007613&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "2000-11-10",
+  "gazette": "2000-11-22",
+  "numac": 2000036131,
+  "document_start": "2000-01-01",
+  "document_end": "2006-12-31",
+  "in_force": "2006-06-01",
+  "article_versions": 32,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
