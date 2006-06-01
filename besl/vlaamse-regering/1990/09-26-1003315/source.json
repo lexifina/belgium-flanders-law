@@ -1,0 +1,17 @@
+{
+  "codex_id": 1003315,
+  "title": "Besluit van de Vlaamse Regering van 1990-09-26 houdende samenstelling van de directieraad van de Vlaamse Dienst voor Arbeidsbemiddeling en Beroepsopleiding",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1003315/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "48b9e72380088a1ad210c9aa583ff1fd7f9286893a002638b5c5fe11c1b407e3",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1003315&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "1990-09-26",
+  "gazette": "1990-11-06",
+  "numac": 1990030299,
+  "document_start": null,
+  "document_end": null,
+  "in_force": "2006-06-01",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
