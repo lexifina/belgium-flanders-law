@@ -1,0 +1,17 @@
+{
+  "codex_id": 1010196,
+  "title": "Omzendbrief van 2002-11-19 ML/10 betreffende de restauratiepremie voor beveiligingswerken aan beschermde monumenten, volgens besluit van de Vlaamse regering van 14 december 2001 en 20 september 2002 houdende de vaststelling van het premiestelsel voor restauratiewerkzaamheden aan beschermde monumenten",
+  "type": "Omzendbrief",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1010196/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "7477c9b6cad669cac6ddec24e6e397ba8187e89a7fa1332f318221a943572d03",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1010196&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "2002-11-19",
+  "gazette": "2002-12-20",
+  "numac": 2002036567,
+  "document_start": null,
+  "document_end": null,
+  "in_force": "2006-06-01",
+  "article_versions": 1,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
