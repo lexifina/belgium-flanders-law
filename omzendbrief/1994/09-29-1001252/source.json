@@ -1,0 +1,17 @@
+{
+  "codex_id": 1001252,
+  "title": "Omzendbrief van 1994-09-29 B.A. 94/13 betreffende aanvullende subsidiëring van de gemeentebegroting ten gevolge van uitzonderlijke en niet te voorziene omstandigheden - decreet van 6 juli 1994 en besluit van de Vlaamse regering van 29 september 1994",
+  "type": "Omzendbrief",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1001252/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "123cc5dc13da16a5fe4c9ead8df2f7c890ddc587866372ff082338f067eb7a7c",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1001252&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "1994-09-29",
+  "gazette": "1994-12-03",
+  "numac": 0,
+  "document_start": null,
+  "document_end": null,
+  "in_force": "2006-06-01",
+  "article_versions": 1,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
