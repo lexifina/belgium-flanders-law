@@ -1,0 +1,17 @@
+{
+  "codex_id": 1013089,
+  "title": "Besluit van de Vlaamse Regering van 2004-03-26 tot erkenning van de geïntegreerde productiemethode voor pitfruit en van de producenten die volgens deze methode telen",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1013089/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "f48182a71cfeb669eb9785c97a4b9ea675600f589bccc1500ee626e8d61d3108",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1013089&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "2004-03-26",
+  "gazette": "2004-06-10",
+  "numac": 2004035599,
+  "document_start": null,
+  "document_end": "2018-12-29",
+  "in_force": "2006-06-01",
+  "article_versions": 11,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
