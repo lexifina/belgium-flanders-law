@@ -1,0 +1,17 @@
+{
+  "codex_id": 1012479,
+  "title": "Decreet van 1972-12-06 tot regeling van het taalgebruik in de gemeenteraden, de federatieraden, de agglomeratieraden, de provincieraden, de colleges van burgemeester en schepenen, de federatiecolleges, de agglomeratiecolleges, de bestendige deputaties, de aan de gemeenten en provincies ondergeschikte besturen en intercommunale verenigingen",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1012479/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "977e779089b1be46d46e33149b4b76e0c0c06cfa464e90785597d713bee83f79",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1012479&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "1972-12-06",
+  "gazette": "1973-01-09",
+  "numac": 1972120604,
+  "document_start": "1973-01-19",
+  "document_end": null,
+  "in_force": "2006-06-01",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
