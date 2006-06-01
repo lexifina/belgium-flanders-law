@@ -1,0 +1,17 @@
+{
+  "codex_id": 1012988,
+  "title": "Samenwerkingsakkoord van 2002-05-20 tussen de Staat, de Gemeenschappen en de Gewesten betreffende het tweede plan voor wetenschappelijke ondersteuning van een beleid gericht op duurzame ontwikkeling (PODO II)",
+  "type": "Samenwerkingsakkoord",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1012988/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "61da796bd919265cf3b1dcba6b62a56c685c3023bfb6404cb874c8562bc048ee",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1012988&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "2002-05-20",
+  "gazette": "2004-05-14",
+  "numac": 0,
+  "document_start": "2000-06-01",
+  "document_end": "2008-05-31",
+  "in_force": "2006-06-01",
+  "article_versions": 7,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
