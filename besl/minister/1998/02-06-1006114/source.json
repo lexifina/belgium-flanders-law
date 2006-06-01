@@ -1,0 +1,17 @@
+{
+  "codex_id": 1006114,
+  "title": "Ministerieel besluit van 1998-02-06 houdende vaststelling van een type renovatiehuurovereenkomst voor sociale of bijzondere woonprojecten",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1006114/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "8f807e243a097c3812ddf566058839dab5bbe53ecdab4dc5ecebf44ed9d334ae",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1006114&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "1998-02-06",
+  "gazette": "1998-04-24",
+  "numac": 1998035440,
+  "document_start": null,
+  "document_end": null,
+  "in_force": "2006-06-01",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
