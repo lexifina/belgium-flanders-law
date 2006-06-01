@@ -1,0 +1,17 @@
+{
+  "codex_id": 1012034,
+  "title": "Besluit van de Vlaamse Regering van 2003-12-12 houdende de vereffening van het Limburgfonds en de toewijzing van de middelen en de opdrachten van het Limburgfonds aan het provinciebestuur Limburg en aan de N.V. Limburgse Reconversiemaatschappij",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1012034/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "f322d83efef7a508ab2d5c57194c9683d9a4d1c973f8478334d91f452668d007",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1012034&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "2003-12-12",
+  "gazette": "2004-02-05",
+  "numac": 2004035176,
+  "document_start": "2003-12-12",
+  "document_end": null,
+  "in_force": "2006-06-01",
+  "article_versions": 5,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
