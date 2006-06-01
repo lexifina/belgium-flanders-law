@@ -1,0 +1,17 @@
+{
+  "codex_id": 1014168,
+  "title": "Besluit van de Vlaamse Regering van 2005-09-02 [tot oprichting van het intern verzelfstandigd agentschap « Agentschap Hoger Onderwijs, Volwassenenonderwijs en Studietoelagen. »]",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1014168/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "f28ad750cbdfab169b195b775b5c1e7a4b69e69e37fc230228492cb5ba725887",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1014168&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "2005-09-02",
+  "gazette": "2005-12-30",
+  "numac": 2005036614,
+  "document_start": "2006-04-01",
+  "document_end": "2015-06-30",
+  "in_force": "2006-06-01",
+  "article_versions": 14,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
