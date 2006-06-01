@@ -1,0 +1,17 @@
+{
+  "codex_id": 1000582,
+  "title": "Besluit van de Vlaamse Regering van 1994-01-19 tot aanpassing van de besluiten van de Vlaamse regering en van de ministeriële besluiten aan de federale terminologie",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1000582/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "c072356fbc3937a3945ac4872acb6e9cfe13c9e0442e5bc3454bd7df3b60a51f",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1000582&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "1994-01-19",
+  "gazette": "1994-02-15",
+  "numac": 1994035175,
+  "document_start": null,
+  "document_end": null,
+  "in_force": "2006-06-01",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
