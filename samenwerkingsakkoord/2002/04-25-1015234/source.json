@@ -1,0 +1,17 @@
+{
+  "codex_id": 1015234,
+  "title": "Samenwerkingsakkoord van 2002-04-25 tussen het Vlaamse Gewest, het Waalse Gewest en het Brussels Hoofdstedelijk Gewest, betreffende de invoering van een vermindering van de belasting op de inverkeerstelling (BIV) op grond van de emissienorm van de motor (zoals bepaald in de Richtlijn 98/69/EG van 13 oktober 1998) of de aard van de aandrijvingsbrandstof, met inachtneming van de fiscale neutraliteit en ter voorkoming van de concurrentie tussen de Gewesten op het vlak van de inschrijving van de voertuigen",
+  "type": "Samenwerkingsakkoord",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1015234/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "c94015b7e11bd6ed2ec408bd3a25880ddd8178382353d3b7f9ad7151942d61fd",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1015234&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "2002-04-25",
+  "gazette": "2002-07-12",
+  "numac": 0,
+  "document_start": "2002-01-01",
+  "document_end": null,
+  "in_force": "2006-06-01",
+  "article_versions": 6,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
