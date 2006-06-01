@@ -1,0 +1,17 @@
+{
+  "codex_id": 1021344,
+  "title": "Protocol van 2001-05-30 tussen de Federale Regering en de in artikelen 128, 130 en 135 van de Grondwet bedoelde overheden inzake de totstandkoming van een geïntegreerd gezondheidsbeleid inzake drugs",
+  "type": "Protocol",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1021344/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "5f6f4bd84a88ffcf155d97b4a72e255333aaa720db43b562e845d086434e4e73",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1021344&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "2001-05-30",
+  "gazette": "2001-08-23",
+  "numac": 2001022551,
+  "document_start": null,
+  "document_end": null,
+  "in_force": "2006-06-01",
+  "article_versions": 8,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
