@@ -1,0 +1,17 @@
+{
+  "codex_id": 1013737,
+  "title": "Ministerieel besluit van 2005-01-17 betreffende het kwaliteitsbeleid in het kader van het inburgeringsbeleid",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1013737/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "e437544e3b64bc13b08e6095997cedf58f3752c218673f48a036ff6243bf09d5",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1013737&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "2005-01-17",
+  "gazette": "2005-04-19",
+  "numac": 2005035430,
+  "document_start": "2005-04-29",
+  "document_end": "2006-12-31",
+  "in_force": "2006-06-01",
+  "article_versions": 10,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
