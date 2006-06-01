@@ -1,0 +1,17 @@
+{
+  "codex_id": 1012027,
+  "title": "Besluit van de Vlaamse Regering van 2003-09-05 houdende subsidiëring van bedrijventerreinen, wetenschapsparken en bedrijfsgebouwen",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1012027/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "ea4c79d34f9ab2b3bc7691902e54c9bac86ea381a0e31795d6b865d53a4c0708",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1012027&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "2003-09-05",
+  "gazette": "2004-02-05",
+  "numac": 2004035138,
+  "document_start": "2003-09-05",
+  "document_end": "2006-12-31",
+  "in_force": "2006-06-01",
+  "article_versions": 91,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
