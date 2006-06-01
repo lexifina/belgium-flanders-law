@@ -1,0 +1,17 @@
+{
+  "codex_id": 1007815,
+  "title": "Omzendbrief van 2000-12-15 BA 2000/13 nieuw statuut voor ocmw-mandatarissen - ingangsdatum",
+  "type": "Omzendbrief",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1007815/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "92c750b5a8f844391dd31f730540f1e788292bb8255c8a737e4637511b6ae068",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1007815&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "2000-12-15",
+  "gazette": "2001-01-31",
+  "numac": 2001035036,
+  "document_start": null,
+  "document_end": null,
+  "in_force": "2006-06-01",
+  "article_versions": 1,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}

@@ -1,0 +1,5 @@
+# Omzendbrief van 2000-12-15 BA 2000/13 nieuw statuut voor ocmw-mandatarissen - ingangsdatum
+
+### Tekst
+
+Ingevolge de wet van 4 mei 1999 tot verbetering van de bezoldigingsregeling en van het sociaal statuut van de lokale verkozenen, treedt de nieuwe bezoldigingsregeling voor burgemeesters en schepenen vanaf januari 2001 in werking bij de vernieuwing van de gemeenteraden.<br /><br />Een aantal gemeente- en O.C.M.W.-besturen vraagt ons vanaf wanneer die nieuwe bezoldigingsregeling ook toegepast kan worden op de O.C.M.W.-voorzitter.<br /><br />Wij wijzen de besturen erop dat de in de bovengenoemde wet vermelde maatregelen in werking treden bij de volledige vernieuwing van de betrokken raden. Dit betekent dus dat zowel de bezoldigingsregeling voor de O.C.M.W.-voorzitter als de eventuele andere herwaarderingsmaatregelen ten gunste van de gemeentelijke mandatarissen, die van overeenkomstige toepassing zijn op de O.C.M.W.-mandatarissen, voor deze pas vanaf de eerstvolgende volledige vernieuwing van de O.C.M.W.-raad kunnen worden toegepast.
