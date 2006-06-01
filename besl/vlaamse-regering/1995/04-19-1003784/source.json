@@ -1,0 +1,17 @@
+{
+  "codex_id": 1003784,
+  "title": "Besluit van de Vlaamse Regering van 1995-04-19 houdende de voorwaarden en modaliteiten waaronder de N.V. Gimvindus waarborgen kan verlenen in het kader van de scheepsbouw en het Vlaamse Gewest zich borg stelt t.a.v. de N.V. Gimvindus",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1003784/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "67ffaba250dea0066c45068b8d8bfb6edb669496284b10072118e5d96dd1380f",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1003784&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "1995-04-19",
+  "gazette": "1995-07-27",
+  "numac": 1995036091,
+  "document_start": null,
+  "document_end": null,
+  "in_force": "2006-06-01",
+  "article_versions": 15,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
