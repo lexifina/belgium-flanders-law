@@ -1,0 +1,17 @@
+{
+  "codex_id": 1006601,
+  "title": "Besluit van de Vlaamse Regering van 1999-03-16 houdende tijdelijke maatregelen inzake de uitbetaling van de gezinsbijslag aan de vastbenoemde ambtenaren van Kind en Gezin",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1006601/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "dea0bcc9fd117e73e38fa02e2513cdf74927094cfc4e2ad30b1d5fb0a4004526",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1006601&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "1999-03-16",
+  "gazette": "1999-04-15",
+  "numac": 1999035414,
+  "document_start": null,
+  "document_end": null,
+  "in_force": "2006-06-01",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
