@@ -1,0 +1,17 @@
+{
+  "codex_id": 1007809,
+  "title": "Omzendbrief van 2000-12-22 BA-2000/14 betreffende de toekenning van een hospitalisatieverzekering aan het personeel van de lokale besturen",
+  "type": "Omzendbrief",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1007809/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "c36804d0d4240001471eee1b144fc1f83835c24a6ff29b9b61f8b83425016e83",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1007809&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "2000-12-22",
+  "gazette": "2001-01-24",
+  "numac": 2001035067,
+  "document_start": null,
+  "document_end": null,
+  "in_force": "2006-06-01",
+  "article_versions": 1,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
