@@ -1,0 +1,17 @@
+{
+  "codex_id": 1002059,
+  "title": "Besluit van de Vlaamse Regering van 1992-01-07 houdende bepaalde maatregelen met betrekking tot de voorheen nationale sectoren",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1002059/VolledigDocument?datum=2006-06-01",
+  "source_sha256": "ca5c67a7c58d065ee4e871b791fb95f3dfe37b6b1f93d15e8f90e868a142044c",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1002059&param=informatie",
+  "as_of": "2006-06-01",
+  "made": "1992-01-07",
+  "gazette": "1992-03-31",
+  "numac": 1992035391,
+  "document_start": "1992-03-31",
+  "document_end": null,
+  "in_force": "2006-06-01",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
