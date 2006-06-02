@@ -2,16 +2,16 @@
   "codex_id": 1015233,
   "title": "Samenwerkingsakkoord van 2002-09-02 tussen de Staat, de Gemeenschappen, de Gemeenschappelijke Gemeenschapscommissie, de Franse Gemeenschapscommissie en de Gewesten voor een globaal en geïntegreerd drugsbeleid",
   "type": "Samenwerkingsakkoord",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1015233/VolledigDocument?datum=2006-06-01",
-  "source_sha256": "62dc8cf7c6b9fe23be4d5bce1e2feac9f33645e2bd346ad527249baff92e2c3e",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1015233/VolledigDocument?datum=2006-06-02",
+  "source_sha256": "4a7dff465703edfda3be7f8200bcdd398af141c8516e4bb464c0f46e5aa0a7be",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1015233&param=informatie",
-  "as_of": "2006-06-01",
+  "as_of": "2006-06-02",
   "made": "2002-09-02",
   "gazette": "2003-06-02",
   "numac": 0,
   "document_start": "2006-06-02",
   "document_end": null,
-  "in_force": "2006-06-01",
-  "article_versions": 1,
-  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "in_force": "2006-06-02",
+  "article_versions": 28,
+  "record_form": "consolidated version as in force on 2006-06-02; future article versions excluded; article text as the API gives it"
 }
