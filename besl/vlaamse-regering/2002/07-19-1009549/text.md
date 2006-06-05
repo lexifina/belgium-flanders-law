@@ -6,6 +6,10 @@
 
 § 1. Voor de toepassing van dit besluit wordt verstaan onder:<br /><br />- het bijzonder decreet: het bijzonder decreet van 14 juli 1998 betreffende het gemeenschapsonderwijs;<br /><br />- de kiesperiode: het kalenderjaar dat voorafgaat aan de datum waarop de Raad zijn bevoegdheden opneemt op grond van de artikelen 31, § 2 en 73 van het bijzonder decreet;<br /><br />- de Raad: Raad van het Gemeenschapsonderwijs zoals bedoeld in de artikelen 5, § 4 en 31 van het bijzonder decreet [...  <span class="reference">(geschr. B.V.R. 3 februari 2006, art. 1, I: 5 maart 2006)</span> ]<br /><br />- het kiesreglement: de door regering, op voorstel van de Raad, goedgekeurde kiesprocedure;<br /><br />- de rechtstreekse verkiezingen: de verkiezingen zoals bedoeld in artikel 31, § 1, 1° en 2° van het bijzonder decreet;<br /><br />- de schoolraad: elke schoolraad zoals bedoeld in de artikelen 5, § 2 en 7 van het bijzonder decreet;<br /><br />- de geleding: de groep van leden bedoeld in artikel 31, § 1 van het bijzonder decreet.<br /><br />[Voor de berekening van de termijnen heeft de datum van het postmerk bewijskracht zowel voor de verzending als voor de ontvangst van de geschriften. Is de laatste dag van de termijn een zaterdag, een zondag, een wettelijke feestdag of een sluitingsdag van de postdiensten, dan wordt de termijn verlengd tot de eerstvolgende werkdag.  <span class="reference">(ing. B.V.R. 3 februari 2006, art. 2, I: 5 maart 2006)</span> ]<br /><br />§ 2. Indien de schoolraad bevoegd is voor meerdere scholen, worden de verplichtingen, opgelegd door dit besluit, uitgevoerd door de directeur met de grootste ambtsanciënniteit ressorterend onder deze schoolraad.
 
+### ART. 2.
+
+Uiterlijk op [1 april (verv. B.V.R. 3 februari 2006, art. 3, I: 5 maart 2006) ] van de kiesperiode bezorgen de algemeen directeurs de door het college van directeurs opgemaakte lijst van de schoolraden die bestaan op 1 januari van de kiesperiode aan de [afgevaardigd bestuurder. (verv. B.V.R. 3 februari 2006, art. 3, I: 5 maart 2006) ]
+
 ## HOOFDSTUK II VERKIEZING VAN LEDEN VAN DE RAAD DOOR KIESCOLLEGE
 
 ## AFDELING 1 HET KIESBUREAU
