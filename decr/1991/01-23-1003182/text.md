@@ -104,13 +104,13 @@
 
 ### ART. 22bis.
 
-Binnen de perken van de kredieten ingeschreven op de begroting van de Vlaamse Gemeenschap worden op de begroting van de instelling gelden ingeschreven die de Vlaamse regering of de instelling kan aanwenden ter ondersteuning van de activiteiten van ondernemingen die bijdragen tot de bevordering van de uitvoer.<br /><br />De Vlaamse regering bepaalt onder welke voorwaarden en volgens welke regels subidies, leningen, zekerheidsstellingen of andere vormen van tegemoetkomingen onder bezwarende of kosteloze titel binnen de perken van de beschikbare of kosteloze titel binnen de perken van de beschikbare kredieten kunnen worden verleend tot verwezenlijking van de in voorgaand lid bepaalde doelstelling.  <span class="reference">(ing. decr. 24 juli 1996, art. 23, I: 15 oktober 1996)</span> ]
+...
 
 ## HOOFDSTUK VI OVERGANGS- EN SLOTBEPALINGEN
 
 ### ART. 23.
 
-§ 1. [...  <span class="reference">(opgeh. decr. 7 mei 2005, art. 20, I: 1 juli 2005)</span> ]<br /><br />§ 2. De goederen, de rechten en de verplichtingen van de Belgische dienst voor de Buitenlandse Handel die aan het Vlaamse Gewest worden overgedragen, worden vanaf de datum van die overdracht toegewezen aan [de instelling.  <span class="reference">(verv. decr. 24 juli 1996, art. 4, I: 15 oktober 1996)</span> ]
+...
 
 ### ART. 24.
 
