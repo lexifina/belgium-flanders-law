@@ -14,7 +14,7 @@ In dit decreet wordt verstaan onder:<br /><br />- het kaderdecreet: het kaderdec
 
 ### ART. 3.
 
-§ 1. Er wordt een publiekrechtelijk vormgegeven extern verzelfstandigd agentschap opgericht zoals bedoeld in artikel 13 van het kaderdecreet. Dit agentschap draagt als naam 'Vlaams Agentschap voor Internationaal Ondernemen', in het Engels 'Flanders Investment and Trade', afgekort 'FIT'. De bepalingen van het kaderdecreet zijn van toepassing op het agentschap.<br /><br />Alle officiële akten, officiële aankondigingen of andere officiële stukken, uitgaande van het agentschap, moeten de benaming van het agentschap vermelden, met onmiddellijk daarvoor of daarna, deze leesbaar en voluit geschreven woorden: "publiekrechtelijk vormgegeven extern verzelfstandigd agentschap van de Vlaamse overheid".<br /><br />§ 2. De Vlaamse regering bepaalt tot welk homogeen beleidsdomein het agentschap behoort.<br /><br />§ 3. De Vlaamse regering bepaalt de vestigingsplaats van het agentschap.
+§ 1. Er wordt een publiekrechtelijk vormgegeven extern verzelfstandigd agentschap opgericht zoals bedoeld in artikel 13 van het kaderdecreet. Dit agentschap draagt als naam 'Vlaams Agentschap voor Internationaal Ondernemen', in het Engels 'Flanders Investment & Trade', afgekort 'FIT'. De bepalingen van het kaderdecreet zijn van toepassing op het agentschap.<br /><br />Alle officiële akten, officiële aankondigingen of andere officiële stukken, uitgaande van het agentschap, moeten de benaming van het agentschap vermelden, met onmiddellijk daarvoor of daarna, deze leesbaar en voluit geschreven woorden: "publiekrechtelijk vormgegeven extern verzelfstandigd agentschap van de Vlaamse overheid".<br /><br />§ 2. De Vlaamse regering bepaalt tot welk homogeen beleidsdomein het agentschap behoort.<br /><br />§ 3. De Vlaamse regering bepaalt de vestigingsplaats van het agentschap.
 
 ## HOOFDSTUK III MISSIE, TAKEN EN BEVOEGDHEDEN
 
@@ -47,6 +47,14 @@ De missie van het agentschap bestaat erin om, als element in de sociaal-economis
 7° het aangaan van verbintenissen in het buitenland ten behoeve van de werking van kantoren gevestigd in het buitenland en het tewerkgestelde personeel;<br>
 <br>
 8° het oprichten en uitbaten van juridische entiteiten nodig voor de uitoefening van de opdracht.
+
+### ART. 6bis.
+
+Binnen de perken van de kredieten, ingeschreven op de begroting van de Vlaamse Gemeenschap, worden op de begroting van het agentschap gelden ingeschreven die het agentschap of de Vlaamse Regering kan aanwenden ter ondersteuning van de activiteiten van ondernemingen, bedrijfsgroeperingen en andere organisaties die bijdragen tot de bevordering van het internationaal ondernemen.<br /><br />De Vlaamse Regering bepaalt onder welke voorwaarden en volgens welke regels subsidies, leningen, zekerheidsstellingen of andere vormen van tegemoetkomingen onder bezwarende titel of kosteloos, binnen de perken van de beschikbare kredieten, kunnen worden verleend ter verwezenlijking van de in het voorgaande lid bepaalde doelstelling.<br /><br />
+
+### ART. 6ter.
+
+De goederen, de rechten en de verplichtingen van de Belgische Dienst voor de Buitenlandse Handel, die aan het Vlaamse Gewest zijn overgedragen krachtens artikel 6 van het koninklijk besluit van 2 mei 1991 betreffende de overdracht van goederen, rechten en verplichtingen door de Belgische Dienst voor de Buitenlandse Handel aan het Vlaamse Gewest, het Waalse Gewest en het Brussels Hoofdstedelijk Gewest, zijn vanaf de datum van die overdracht toegewezen aan het agentschap.<br />
 
 ## HOOFDSTUK IV RAAD VAN BESTUUR
 
