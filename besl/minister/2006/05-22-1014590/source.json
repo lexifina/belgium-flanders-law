@@ -1,0 +1,17 @@
+{
+  "codex_id": 1014590,
+  "title": "Ministerieel besluit van 2006-05-22 houdende aanwijzing van de ambtenaren belast met het toezicht op de naleving van de bepalingen van het decreet van 23 januari 1991 inzake de bescherming van het leefmilieu tegen de verontreiniging door meststoffen",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1014590/VolledigDocument?datum=2006-06-16",
+  "source_sha256": "8839128f345e0c31d02c1382a6e86935dc1e175f5bc2072b35ff7963b3c50cb5",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1014590&param=informatie",
+  "as_of": "2006-06-16",
+  "made": "2006-05-22",
+  "gazette": "2006-06-16",
+  "numac": 2005035907,
+  "document_start": "2006-06-16",
+  "document_end": "2006-12-31",
+  "in_force": "2006-06-16",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2006-06-16; oldest version available; future article versions excluded; article text as the API gives it"
+}
