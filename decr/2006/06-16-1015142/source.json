@@ -1,0 +1,17 @@
+{
+  "codex_id": 1015142,
+  "title": "Decreet van 2006-06-16 houdende wijziging van het jachtdecreet van 24 juli 1991",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1015142/VolledigDocument?datum=2006-06-16",
+  "source_sha256": "58d7a0887f28c8d98748dcb8528929973d4159c23690878b685647155478027a",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1015142&param=informatie",
+  "as_of": "2006-06-16",
+  "made": "2006-06-16",
+  "gazette": "2006-11-14",
+  "numac": 2006036812,
+  "document_start": "2009-09-01",
+  "document_end": null,
+  "in_force": "2006-06-16",
+  "article_versions": 1,
+  "record_form": "consolidated version as in force on 2006-06-16; oldest version available; future article versions excluded; article text as the API gives it"
+}
