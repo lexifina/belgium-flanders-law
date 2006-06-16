@@ -1,0 +1,17 @@
+{
+  "codex_id": 1014588,
+  "title": "Besluit van de Vlaamse Regering van 2006-06-09 tot verdeling van de provincieraadsleden over de kiesdistricten",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1014588/VolledigDocument?datum=2006-06-16",
+  "source_sha256": "1647ea55a1eca61a099ccce3a0177db7db6525546403446faf4f78c13846c1c7",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1014588&param=informatie",
+  "as_of": "2006-06-16",
+  "made": "2006-06-09",
+  "gazette": "2006-06-16",
+  "numac": 2006035917,
+  "document_start": "2006-06-16",
+  "document_end": "2012-04-30",
+  "in_force": "2006-06-16",
+  "article_versions": 5,
+  "record_form": "consolidated version as in force on 2006-06-16; oldest version available; future article versions excluded; article text as the API gives it"
+}
