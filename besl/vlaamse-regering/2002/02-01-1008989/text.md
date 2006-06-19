@@ -30,6 +30,10 @@ De in artikel 2 en 3 bedoelde gewestbijdrage kan gecumuleerd worden met trekking
 
 De Vlaamse Milieumaatschappij maakt in overleg met de [gemeenten, gemeentebedrijven, inter-communales of intergemeentelijke samenwerkingsverbanden  <span class="reference">(verv. B.V.R. 29 april 2005, art. 4, I: 31 mei 2005)</span> ] een meerjarenprogramma op. Op basis hiervan legt de Vlaamse Milieumaatschappij na overleg met de [gemeenten, gemeentebedrijven, intercommunales of intergemeentelijke samenwerkingsverbanden  <span class="reference">(verv. B.V.R. 29 april 2005, art. 4, I: 31 mei 2005)</span> ] driemaandelijks een ontwerp van subsidiëringsprogramma voor aan de bevoegde Vlaamse minister. Hiertoe wordt dit ontwerp van subsidiëringsprogramma besproken in de ambtelijke commissie waarvan de samenstelling is beschreven in artikel 25. De criteria voor de opmaak van dit programma worden door de bevoegde minister in overleg met de ambtelijke commissie bepaald.<br /><br />Dit subsidiëringsprogramma wordt vastgesteld door de bevoegde Vlaamse minister.
 
+### ART. 6bis.
+
+De gemeenten die binnen een termijn van twintig maanden na de ontvangst van het voorontwerp van zoneringsplan, zoals bepaald in artikel 7 van het besluit van de Vlaamse Regering van ... houdende vaststelling van de regels met betrekking tot de scheiding tussen de gemeentelijke en bovengemeentelijke saneringsverplichting en het vaststellen van de zoneringsplannen, geen definitief zoneringsplan hebben, komen niet meer in aanmerking voor opname op een subsidiëringsprogramma tot het ogenblik waarop het definitieve zoneringsplan is vastgesteld en bekendgemaakt in het Belgisch Staatsblad.<br />
+
 ## HOOFDSTUK IV VOORWAARDEN VOOR TOEKENNING VAN GEWESTBIJDRAGE [VOOR DE AANLEG VAN RIOLERINGEN, ANDERE DAN PRIORITAIRE RIOLERINGEN, EN DE BOUW VAN KLEINSCHALIGE RIOOLWATERZUIVERINGSINSTALLATIES, MET UITZONDERING VAN INDIVIDUELE WATERZUIVERINGSINSTALLATIES (ing. BVR 9 mei 2008, art. 6, I: 15 mei 2008)]
 
 ## AFDELING 1 ALGEMEEN
