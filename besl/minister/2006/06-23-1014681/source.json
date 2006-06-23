@@ -1,0 +1,17 @@
+{
+  "codex_id": 1014681,
+  "title": "Ministerieel besluit van 2006-06-23 tot versterking van buurtwinkels",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1014681/VolledigDocument?datum=2006-06-23",
+  "source_sha256": "f7357f37822c0a5612d7cc4d8db615f4d9fcdb691467bef55f6868e8d42afa3e",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1014681&param=informatie",
+  "as_of": "2006-06-23",
+  "made": "2006-06-23",
+  "gazette": "2006-07-17",
+  "numac": 2006036062,
+  "document_start": "2006-06-23",
+  "document_end": null,
+  "in_force": "2006-06-23",
+  "article_versions": 20,
+  "record_form": "consolidated version as in force on 2006-06-23; oldest version available; future article versions excluded; article text as the API gives it"
+}
