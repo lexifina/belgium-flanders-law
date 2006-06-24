@@ -1,0 +1,17 @@
+{
+  "codex_id": 1014564,
+  "title": "Decreet van 2006-04-28 tot wijziging van het decreet van 5 april 1995 houdende algemene bepalingen inzake milieubeleid en tot wijziging van het decreet van 30 april 2004 tot aanvulling van hetzelfde decreet",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1014564/VolledigDocument?datum=2006-06-24",
+  "source_sha256": "123ed50a13b65ff8c69b166babaf254bdd81a8e997c65bdac0be7455ecbd0bd3",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1014564&param=informatie",
+  "as_of": "2006-06-24",
+  "made": "2006-04-28",
+  "gazette": "2006-06-14",
+  "numac": 2006035759,
+  "document_start": "2006-06-24",
+  "document_end": null,
+  "in_force": "2006-06-24",
+  "article_versions": 19,
+  "record_form": "consolidated version as in force on 2006-06-24; oldest version available; future article versions excluded; article text as the API gives it"
+}
