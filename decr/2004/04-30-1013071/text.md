@@ -10,7 +10,7 @@
 
 ### ART. 3.
 
-(niet opgenomen)<br /><br />(Wijzigt artikel 2.1.14 van het decreet van 5 april 1995 houdende algemene bepalingen inzake milieubeleid)
+...
 
 ## HOOFDSTUK III MACHTIGINGSBEPALING
 
