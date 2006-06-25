@@ -1,0 +1,17 @@
+{
+  "codex_id": 1014571,
+  "title": "Besluit van de Vlaamse Regering van 2006-04-28 houdende overheveling van het krediet ingeschreven onder basisallocatie 00.26 van het programma 24.6 CAO-provisie",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1014571/VolledigDocument?datum=2006-06-25",
+  "source_sha256": "1feadba945a6d30c2e703fc8d48863eaa307d913688109df3a1464284e0bcb1c",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1014571&param=informatie",
+  "as_of": "2006-06-25",
+  "made": "2006-04-28",
+  "gazette": "2006-06-15",
+  "numac": 2006035797,
+  "document_start": "2006-06-25",
+  "document_end": null,
+  "in_force": "2006-06-25",
+  "article_versions": 2,
+  "record_form": "consolidated version as in force on 2006-06-25; oldest version available; future article versions excluded; article text as the API gives it"
+}
