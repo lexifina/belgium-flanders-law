@@ -1,0 +1,17 @@
+{
+  "codex_id": 1014575,
+  "title": "Besluit van de Vlaamse Regering van 2006-05-12 houdende de gedeeltelijke herverdeling van het provisionele krediet met betrekking tot het economisch relancebeleid, ingeschreven onder de basisallocatie 00.17 van het programma 24.6 van de algemene uitgavenbegroting van de Vlaamse Gemeenschap voor het begrotingsjaar 2006",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1014575/VolledigDocument?datum=2006-06-25",
+  "source_sha256": "949bcc35da0b937139c1c1856a5b933de150f74fb3753e5412b46e5aeb6f6726",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1014575&param=informatie",
+  "as_of": "2006-06-25",
+  "made": "2006-05-12",
+  "gazette": "2006-06-15",
+  "numac": 2006035893,
+  "document_start": "2006-06-25",
+  "document_end": null,
+  "in_force": "2006-06-25",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2006-06-25; oldest version available; future article versions excluded; article text as the API gives it"
+}
