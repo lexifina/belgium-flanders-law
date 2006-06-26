@@ -1,0 +1,17 @@
+{
+  "codex_id": 1014592,
+  "title": "Besluit van de Vlaamse Regering van 2006-05-19 tot wijziging van het besluit van de Vlaamse Regering van 7 mei 2004 tot oprichting van het intern verzelfstandigd agentschap Jongerenwelzijn",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1014592/VolledigDocument?datum=2006-06-26",
+  "source_sha256": "d3e7143e0aaf8607ccf237326de3dadd89d85938d443329a2e13559789dbfe45",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1014592&param=informatie",
+  "as_of": "2006-06-26",
+  "made": "2006-05-19",
+  "gazette": "2006-06-16",
+  "numac": 2006035905,
+  "document_start": "2006-06-26",
+  "document_end": null,
+  "in_force": "2006-06-26",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2006-06-26; oldest version available; future article versions excluded; article text as the API gives it"
+}
