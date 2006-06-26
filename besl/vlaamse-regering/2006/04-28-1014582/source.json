@@ -1,0 +1,17 @@
+{
+  "codex_id": 1014582,
+  "title": "Besluit van de Vlaamse Regering van 2006-04-28 tot herverdeling van basisallocaties van de begroting van de Vlaamse Gemeenschap voor het begrotingsjaar 2006",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1014582/VolledigDocument?datum=2006-06-26",
+  "source_sha256": "17bed8d042af3f50c011c408d464bbdab4163a08798bc5a84f5dff0f9b8f142d",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1014582&param=informatie",
+  "as_of": "2006-06-26",
+  "made": "2006-04-28",
+  "gazette": "2006-06-16",
+  "numac": 2006035787,
+  "document_start": "2006-06-26",
+  "document_end": null,
+  "in_force": "2006-06-26",
+  "article_versions": 5,
+  "record_form": "consolidated version as in force on 2006-06-26; oldest version available; future article versions excluded; article text as the API gives it"
+}
