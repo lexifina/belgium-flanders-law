@@ -1,0 +1,17 @@
+{
+  "codex_id": 1014584,
+  "title": "Besluit van de Vlaamse Regering van 2006-04-28 tot wijziging van het besluit van de Vlaamse Regering van 10 juli 2003 tot vaststelling van de nadere regelen betreffende het beheer, de werking en de boekhouding van het Eigen Vermogen Flanders Hydraulics",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1014584/VolledigDocument?datum=2006-06-26",
+  "source_sha256": "3c625bef590c4005edef3611ba444d47a725ee3560180cf2205e5c5142fbb211",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1014584&param=informatie",
+  "as_of": "2006-06-26",
+  "made": "2006-04-28",
+  "gazette": "2006-06-16",
+  "numac": 2006035898,
+  "document_start": "2006-06-26",
+  "document_end": null,
+  "in_force": "2006-06-26",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2006-06-26; oldest version available; future article versions excluded; article text as the API gives it"
+}
