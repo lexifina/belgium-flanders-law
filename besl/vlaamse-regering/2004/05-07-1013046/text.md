@@ -60,7 +60,7 @@ De minister stuurt het agentschap aan, inzonderheid via de beheersovereenkomst.
 
 ### ART. 14.
 
-Het hoofd van het agentschap is belast met de algemene leiding, de werking en de vertegenwoordiging van het agentschap, onverminderd de mogelijkheid tot delegatie en subdelegatie van die bevoegdheid.
+Het hoofd van het agentschap is belast met de algemene leiding, de werking en de vertegenwoordiging van het agentschap, onverminderd de mogelijkheid tot delegatie en subdelegatie van die bevoegdheid.<br /><br />Het hoofd van het agentschap wordt bijgestaan door een algemeen directeur.<br />
 
 ## HOOFDSTUK IV DELEGATIE VAN BESLISSINGSBEVOEGDHEDEN
 
