@@ -2,16 +2,16 @@
   "codex_id": 1011557,
   "title": "Besluit van de Vlaamse Regering van 2003-07-10 tot vaststelling van de nadere regelen betreffende het beheer, de werking en de boekhouding van het Eigen Vermogen \"Flanders Hydraulics",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1011557/VolledigDocument?datum=2006-06-01",
-  "source_sha256": "2fb1c24a8eedeab79ed0579d3549abb5a0e8cf1b68df3b1130a68c97ce60d4a1",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1011557/VolledigDocument?datum=2006-06-26",
+  "source_sha256": "93a35b25afd6b243d74efbcf6141124b3adad8ee8fcc72c1502b1ec5ddc4bc8a",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1011557&param=informatie",
-  "as_of": "2006-06-01",
+  "as_of": "2006-06-26",
   "made": "2003-07-10",
   "gazette": "2003-09-09",
   "numac": 2003035993,
   "document_start": null,
   "document_end": "2021-07-04",
-  "in_force": "2006-06-01",
+  "in_force": "2006-06-26",
   "article_versions": 47,
-  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2006-06-26; future article versions excluded; article text as the API gives it"
 }

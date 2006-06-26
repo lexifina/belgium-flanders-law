@@ -18,7 +18,7 @@ De leden en de voorzitter van de Beheerscommissie, aangewezen in artikel 6 van h
 
 ### ART. 4.
 
-§ 1. Het EVFH wordt in en buiten rechte vertegenwoordigd door de Beheerscommissie voor alle aangelegenheden die bij decreet of besluit aan de Beheerscommissie zijn toegewezen.<br /><br />§ 2. De voorzitter kan evenwel beslissen over alle aangelegenheden die niet uitdrukkelijk bij decreet of besluit aan de Beheerscommissie zijn toegewezen.<br /><br />De voorzitter is ertoe gemachtigd om op treden namens de Beheerscommissie, en in het bijzonder om alle akten en overeenkomsten te ondertekenen die het EVFH verbinden.<br /><br />De voorzitter is er tevens toe gemachtigd om zonder formaliteit te beslissen over het instellen van rechtsvorderingen en over het treffen van alle maatregelen tot bewaring van recht in de meest ruime zin van het woord, in en buiten gerechtelijke procedures.<br /><br />De voorzitter doet uitvoerig verslag aan de Beheerscommissie tijdens haar eerstvolgende vergadering van de akten die hij heeft ondertekend, de rechtsvorderingen die hij heeft ingesteld en de maatregelen die hij heeft getroffen.
+§ 1. Het EVFH wordt in en buiten rechte vertegenwoordigd door de Beheerscommissie voor alle aangelegenheden die bij decreet of besluit aan de Beheerscommissie zijn toegewezen.<br /><br />Voor de aankoop of vervreemding van onroerende goederen is een machtiging van de minister nodig.<br /><br />Voor de aanwerving van personeel voor een periode van meer dan één jaar is een machtiging van de minister nodig. <br /><br />§ 2. De voorzitter kan evenwel beslissen over alle aangelegenheden die niet uitdrukkelijk bij decreet of besluit aan de Beheerscommissie zijn toegewezen.<br /><br />De voorzitter is ertoe gemachtigd om op treden namens de Beheerscommissie, en in het bijzonder om alle akten en overeenkomsten te ondertekenen die het EVFH verbinden.<br /><br />De voorzitter is er tevens toe gemachtigd om zonder formaliteit te beslissen over het instellen van rechtsvorderingen en over het treffen van alle maatregelen tot bewaring van recht in de meest ruime zin van het woord, in en buiten gerechtelijke procedures.<br /><br />De voorzitter doet uitvoerig verslag aan de Beheerscommissie tijdens haar eerstvolgende vergadering van de akten die hij heeft ondertekend, de rechtsvorderingen die hij heeft ingesteld en de maatregelen die hij heeft getroffen.
 
 ### ART. 5.
 
@@ -40,7 +40,7 @@ De begroting omvat de raming van alle inkomsten en uitgaven, activa en passiva w
 
 ### ART. 9.
 
-Een goedgekeurd exemplaar van de begroting wordt vóór 1 januari teruggestuurd naar de Beheers-commissie. Indien de goedkeuring niet vóór 1 januari werd bezorgd mogen de kredieten voorlopig gebruikt worden zoals voorgesteld.
+Een goedgekeurd exemplaar van de begroting wordt vóór 1 januari teruggestuurd naar de Beheers-commissie. Indien de goedkeuring niet vóór 1 januari werd bezorgd mogen de kredieten voorlopig gebruikt worden zoals voorgesteld.<br /><br />Voor overdrachten en overschrijvingen tussen de verschillende rubrieken van de begroting is een machtiging van de minister vereist. <br />
 
 ## HOOFDSTUK IV COMPTABILITEIT
 
