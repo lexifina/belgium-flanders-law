@@ -1,0 +1,5 @@
+# Omzendbrief van 2006-05-31 DLV/DLO/BIO-3 betreffende het gebruik bij de biologische productiemethode van de synthetische vitaminen A, D en E die identiek zijn aan de natuurlijke vitaminen, voor herkauwers
+
+### Tekst
+
+Aan alle marktdeelnemers aan de biologische productiemethode<br />In deze omzendbrief komen de volgende thema's aan bod :<br />1. wettelijke basis;<br />2. gebruik van synthetische vitaminen;<br />3. datum van inwerkingtreding.<br /><br />Wettelijke basis<br /><br />Deze omzendbrief is gebaseerd op Verordening (EEG) Nr. 2092/91 van de Raad inzake de biologische productiemethode en aanduidingen dienaangaande op landbouwproducten en levensmiddelen.<br /><br />Gebruik van synthetische vitaminen<br /><br />Conform bijlage II, deel D, punt 1.2, van Verordening (EEG) Nr. 2092/91, zijn bij de biologische productiemethode de synthetische vitaminen A, D en E die identiek zijn aan de natuurlijke vitaminen, toegestaan voor herkauwers.<br /><br />Datum van inwerkingtreding<br /><br />Deze omzendbrief treedt in werking op de dag van de bekendmaking ervan in het Belgisch Staatsblad.<br /><br />
