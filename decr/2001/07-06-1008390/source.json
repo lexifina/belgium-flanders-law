@@ -2,16 +2,16 @@
   "codex_id": 1008390,
   "title": "Decreet van 2001-07-06 houdende de organisatie van de gasmarkt",
   "type": "Decreet",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1008390/VolledigDocument?datum=2006-06-01",
-  "source_sha256": "fcb06f2045c27a55ddb8a7c3d319b74e1926082e2a198969d49ca1e9240d4955",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1008390/VolledigDocument?datum=2006-06-30",
+  "source_sha256": "d91ed7fc16e4c5132e11c3aa66f53d02f7d7a5605bead011167946b4840b3238",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1008390&param=informatie",
-  "as_of": "2006-06-01",
+  "as_of": "2006-06-30",
   "made": "2001-07-06",
   "gazette": "2001-10-03",
   "numac": 2001036089,
   "document_start": null,
   "document_end": "2010-12-31",
-  "in_force": "2006-06-01",
+  "in_force": "2006-06-30",
   "article_versions": 60,
-  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2006-06-30; future article versions excluded; article text as the API gives it"
 }
