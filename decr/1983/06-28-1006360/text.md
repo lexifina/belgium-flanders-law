@@ -10,7 +10,7 @@ Bij het Ministerie van de Vlaamse gemeenschap wordt een instelling van openbaar 
 
 ### ART. 3.
 
-§ 1. De Maatschappij heeft tot doel de studie, het oprichten en de exploitatie van alle installaties nodig voor de openbare watervoorziening.<br /><br />§ 2. Daarenboven kan de Maatschappij, met andere instellingen van openbaar nut, gemeenten, verenigingen van gemeenten en particulieren, op hun verzoek, contracten aangaan op het gebied van waterproduktie, waterdistributie en afvalwaterzuivering.
+§ 1. De Maatschappij heeft tot doel de studie, het oprichten en de exploitatie van alle installaties nodig voor de openbare watervoorziening en de inzameling en zuivering van afvalwater. <br /><br />§ 2. Daarenboven kan de Maatschappij, met andere instellingen van openbaar nut, gemeenten, verenigingen van gemeenten, private rechtspersonen en particulieren, op hun verzoek, contracten aangaan op het gebied van waterproduktie, waterdistributie en afvalwaterzuivering.
 
 ### ART. 4.
 
@@ -22,23 +22,23 @@ De duur van de Maatschappij is onbeperkt. De ontbinding ervan kan maar uitgespro
 
 ### ART. 6.
 
-§ 1. Het maatschappelijk fonds van de Maatschappij is samengesteld uit:<br /><br />1° een aanvangskapitaal, gelijk aan het door het Rijk aan het Vlaamse Gewest overgedragen gedeelte van het aanvangskapitaal van de nationale Maatschappij der Waterleidingen;<br /><br />2° zoveel reeksen aandelen als er onderscheiden watervoorzieningsdiensten bestaan, die door de Maatschappij opgericht worden met het oog op een doelmatig vervullen van haar taken.<br /><br />Deze reeksen omvatten aandelen die:<br /><br />- enerzijds, door de Staat, de provincies, de gemeenten, verenigingen van gemeenten en instellingen van openbaar nut werden ingeschreven binnen het kader van de Nationale Maatschappij der Waterleidingen en die bij ontbinding van deze Maatschappij door de Staat aan het Vlaamse Gewest worden overgedragen en door deze laatste worden aanvaard;<br /><br />- anderzijds, door het Vlaamse Gewest, de provincies, de gemeenten, verenigingen van gemeenten en instellingen van openbaar nut worden ingeschreven voor de oprichting en verdere uitbouw van bovengenoemde watervoorzieningsdiensten en voor de oprichting, verwerving, uitbreiding en verbetering van installaties en gebouwen die gemeen zijn aan meerdere of aan alle watervoorzieningsdiensten.<br /><br />De deelneming van het Vlaamse Gewest in het kapitaal van iedere watervoorzieningsdienst zal een derde van elke reeks aandelen niet mogen overschrijden. De vennoten mogen hun inschrijvingen aflossen door jaarlijkse stortingen. Alle aandelen zijn op naam en kunnen, mits goedkeuring van de raad van beheer, overgedragen worden aan medevennoten.<br /><br />§ 2. De vennoten verbinden zich slechts afzonderlijk. Zij staan voor de verbintenissen van de Maatschappij slechts in tot beloop van het bedrag van hun inschrijving.
+§ 1. Het maatschappelijk fonds van de Maatschappij is samengesteld uit:<br /><br />1° een aanvangskapitaal, gelijk aan het door het Rijk aan het Vlaamse Gewest overgedragen gedeelte van het aanvangskapitaal van de nationale Maatschappij der Waterleidingen;<br /><br />2° zoveel reeksen aandelen als er onderscheiden waterdiensten bestaan, die door de Maatschappij opgericht worden met het oog op een doelmatig vervullen van haar taken.<br /><br />Deze reeksen omvatten aandelen die:<br /><br />- enerzijds, door de Staat, de provincies, de gemeenten, verenigingen van gemeenten en instellingen van openbaar nut werden ingeschreven binnen het kader van de Nationale Maatschappij der Waterleidingen en die bij ontbinding van deze Maatschappij door de Staat aan het Vlaamse Gewest worden overgedragen en door deze laatste worden aanvaard;<br /><br />- anderzijds, door het Vlaamse Gewest, de provincies, de gemeenten, verenigingen van gemeenten en instellingen van openbaar nut worden ingeschreven voor de oprichting en verdere uitbouw van bovengenoemde waterdiensten en voor de oprichting, verwerving, uitbreiding en verbetering van installaties en gebouwen die gemeen zijn aan meerdere of aan alle waterdiensten.<br /><br />De deelneming van het Vlaamse Gewest in het kapitaal van iedere waterdienst zal een derde van elke reeks aandelen niet mogen overschrijden. De vennoten mogen hun inschrijvingen aflossen door jaarlijkse stortingen. Alle aandelen zijn op naam en kunnen, mits goedkeuring van de raad van beheer, overgedragen worden aan medevennoten.<br /><br />§ 2. De vennoten verbinden zich slechts afzonderlijk. Zij staan voor de verbintenissen van de Maatschappij slechts in tot beloop van het bedrag van hun inschrijving.
 
 ### ART. 7.
 
-Voor elke onderscheiden watervoorzieningsdienst wordt in de maatschappelijke rekening een bijzondere rekening gehouden. Deze bijzondere rekening bevat als uitgaven het aandeel van de dienst in de algemene onkosten van de Maatschappij.<br /><br />In de statuten wordt voorzien in:<br /><br />1° het instellen van een gemeenschappelijk reservefonds, voor al de watervoorzieningsdiensten van de Maatschappij;<br /><br />2° het oprichten voor elke watervoorzieningsdienst van een voorzorgfonds. De statuten bepalen de voorwaarden tot stijving en aanwending van dit fonds;<br /><br />3° de teruggave van de overige winsten aan vennoten die deel uitmaken van de betrokken watervoorzieningsdienst.
+Voor elke onderscheiden waterdienst wordt een bijzondere resultatenrekening gehouden. Deze bijzondere resultatenrekening bevat naast de eigen kosten en opbrengsten van de betrokken waterdienst, als kosten tevens het aandeel van die dienst in de algemene kosten van de Maatschappij.<br /><br />In de statuten wordt voorzien in :<br />1° het instellen van reserverekeningen, gemeenschappelijk aan al de waterdiensten van de Maatschappij;<br />2° het oprichten voor elke waterdienst van eigen afzonderlijke reserverekeningen;<br />3° een regeling met betrekking tot de dividendgerechtigdheid van de aandelen die zijn verbonden aan de verschillende waterdiensten. <br />
 
 ### ART. 8.
 
-Onder winst wordt verstaan het overschot van de ontvangsten na aftrek van de exploitatieuitgaven en van de statutaire bijdrage tot stijving van het gemeenschappelijk reservefonds.<br /><br />Het aan de vennoten toe te kennen jaarlijks winstaandeel is beperkt tot de som van de door deze laatste bij de Maatschappij verschuldigde jaarrenten en interesten.<br /><br />Voor de aandelen van het Vlaamse Gewest, de provincies en de instellingen van openbaar nut moet geen winstaandeel worden toegekend.
+De statuten bepalen de wijze waarop tot de vaststelling en de bestemming van het resultaat van de Maatschappij wordt overgegaan.<br /><br />Voor de aandelen van het Vlaamse Gewest, de provincies en de instellingen van openbaar nut moet geen winstaandeel worden toegekend.
 
 ### ART. 9.
 
-De Maatschappij mag leningen aangaan of schuldbrieven uitgeven in vertegenwoordiging der jaarrenten haar verschuldigd door de gemeenten, de verenigingen van gemeenten, de instellingen van openbaar nut, de provincies en het Vlaamse Gewest.<br /><br />De Vlaamse regering is gemachtigd tegenover derde personen, onder voorwaarden door haar te bepalen, de gewestwaarborg te verlenen aan de interest en de aflossing van die leningen en schuldbrieven; de verbintenissen van het Vlaamse Gewest als borg mogen de sommen bij decreet bepaald niet overschrijden.
+De Maatschappij mag leningen aangaan of schuldbrieven uitgeven.<br /><br />De Vlaamse regering is gemachtigd tegenover derde personen, onder voorwaarden door haar te bepalen, de gewestwaarborg te verlenen aan de interest en de aflossing van die leningen en schuldbrieven; de verbintenissen van het Vlaamse Gewest als borg mogen de sommen bij decreet bepaald niet overschrijden.
 
 ### ART. 10.
 
-De Vlaamse regering wordt gemachtigd binnen de perken der begrotingskredieten, een subsidie toe te kennen aan de Maatschappij en dit onverminderd de tussenkomst van het Vlaamse Gewest in het kapitaal van iedere dienst overeenkomstig artikel 6 van dit decreet. Deze subsidies worden gebruikt voor het volstorten van maatschappelijke aandelen ingeschreven door de gemeentelijke vennoten.
+...
 
 ### ART. 11.
 
@@ -58,7 +58,7 @@ Onverminderd de bepalingen van de wet van 16 maart 1954 betreffende de controle 
 
 ### ART. 15.
 
-De Maatschappij kan, op haar verzoek of op verzoek van de betrokken gemeente of vereniging van gemeenten, onder voorwaarden te bepalen door haar raad van beheer:<br /><br />1° een waterdienst van een gemeenten of een vereniging van gemeenten, in zijn geheel of gedeeltelijk, overnemen;<br /><br />2° aan een gemeente of een vereniging van gemeenten een watervoorzieningsdienst in zijn geheel of gedeeltelijk, overlaten. In laatstgenoemd geval is de machtiging van de Vlaamse regering vereist.
+De Maatschappij kan, op haar verzoek of op verzoek van de betrokken gemeente of vereniging van gemeenten, onder voorwaarden te bepalen door haar raad van beheer:<br /><br />1° een waterdienst van een gemeenten of een vereniging van gemeenten, in zijn geheel of gedeeltelijk, overnemen;<br /><br />2° aan een gemeente of een vereniging van gemeenten een door de Maatschappij ingerichte waterdienst in zijn geheel of gedeeltelijk, overlaten. In laatstgenoemd geval is de machtiging van de Vlaamse regering vereist.
 
 ### ART. 16.
 
