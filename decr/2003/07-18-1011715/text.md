@@ -206,7 +206,7 @@ De Vlaamse regering stelt voor elk bekken een bekkenbeheerplan vast.
 
 ### ART. 40.
 
-§ 1. De bekkenbeheerplannen worden uiterlijk 22 december 2006 voor het eerst vastgesteld en bekend-gemaakt.<br /><br />§ 2. De bekkenbeheerplannen worden vervolgens ten minste om de zes jaar getoetst en zo nodig herzien overeenkomstig de regels voor de opmaak ervan.<br /><br />De plannen blijven in ieder geval van kracht tot de nieuwe bekkenbeheerplannen zijn bekendgemaakt.
+§ 1. De bekkenbeheerplannen worden uiterlijk 22 december 2007 voor het eerst vastgesteld en bekend-gemaakt.<br /><br />§ 2. De bekkenbeheerplannen worden vervolgens ten minste om de zes jaar getoetst en zo nodig herzien overeenkomstig de regels voor de opmaak ervan.<br /><br />De plannen blijven in ieder geval van kracht tot de nieuwe bekkenbeheerplannen zijn bekendgemaakt.
 
 ### ART. 41.
 
@@ -222,7 +222,7 @@ Het in artikel 30 bedoelde waterschap verleent haar goedkeuring aan het deelbekk
 
 ### ART. 44.
 
-§ 1. De deelbekkenbeheerplannen worden uiterlijk op 22 december 2006 voor het eerst vastgesteld en bekendgemaakt.<br /><br />§ 2. De deelbekkenbeheerplannen worden ten minste om de zes jaar getoetst en zo nodig herzien overeenkomstig de regels voor de opmaak ervan.<br /><br />De plannen blijven in ieder geval van kracht tot de nieuwe deelbekkenbeheerplannen zijn bekendgemaakt.
+§ 1. De deelbekkenbeheerplannen worden uiterlijk op 22 december 2007 voor het eerst vastgesteld en bekendgemaakt.<br /><br />§ 2. De deelbekkenbeheerplannen worden ten minste om de zes jaar getoetst en zo nodig herzien overeenkomstig de regels voor de opmaak ervan.<br /><br />De plannen blijven in ieder geval van kracht tot de nieuwe deelbekkenbeheerplannen zijn bekendgemaakt.
 
 ### ART. 45.
 
