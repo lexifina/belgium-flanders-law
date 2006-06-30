@@ -227,9 +227,7 @@ Onverminderd de wetgeving op de ruilverkaveling, wordt voor de toepassing van di
 
 ### ART. 12.
 
-Landinrichting is uitsluitend van toepassing op de landelijke gebieden en de recreatiegebieden, evenals op de woongebieden met een landelijk karakter en de ontginningsgebieden zoals vermeld in artikel 2 van het koninklijk besluit van 28 december 1972 betreffende de inrichting en de toepassing van de ontwerp-gewestplannen en de gewestplannen.<br>
-<br>
-De Vlaamse Regering kan bij wijze van uitzondering gronden in andere gebieden aan landinrichting onderwerpen voor zover het onmisbaar is voor de uitvoering van een landinrichtingsplan opgesteld krachtens artikel 13.
+Landinrichting is uitsluitend van toepassing op de landelijke gebieden en de recreatiegebieden, evenals op de woongebieden met een landelijk karakter en de ontginningsgebieden, en de met een van deze gebieden vergelijkbare bestemmingsgebieden, aangewezen op de plannen van aanleg of ruimtelijke uitvoeringsplannen van kracht in de ruimtelijke ordening.<br /><br />De Vlaamse Regering kan bij wijze van uitzondering gronden in andere gebieden aan landinrichting onderwerpen voorzover het onmisbaar is voor de uitvoering van een landinrichtingsplan opgesteld krachtens artikel 13.<br />
 
 ### ART. 13.
 
