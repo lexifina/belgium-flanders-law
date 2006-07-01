@@ -2,16 +2,16 @@
   "codex_id": 1003954,
   "title": "Besluit van de Vlaamse Regering van 1995-04-26 tot vaststelling van een premie voor werken aan beschermde archeologische goederen",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1003954/VolledigDocument?datum=2006-06-01",
-  "source_sha256": "4585c7a59abd5fce2041175cdb926e2b8c6f0044d90924b39690bac1b6fa40f1",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1003954/VolledigDocument?datum=2006-07-01",
+  "source_sha256": "be6406aae894c68c138027b9e2208a2f1282f045c9750a3d79192f872384aeb8",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1003954&param=informatie",
-  "as_of": "2006-06-01",
+  "as_of": "2006-07-01",
   "made": "1995-04-26",
   "gazette": "1995-08-30",
   "numac": 1995036233,
   "document_start": "1995-05-01",
   "document_end": "2014-12-31",
-  "in_force": "2006-06-01",
+  "in_force": "2006-07-01",
   "article_versions": 15,
-  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2006-07-01; future article versions excluded; article text as the API gives it"
 }
