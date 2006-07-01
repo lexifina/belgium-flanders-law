@@ -4,7 +4,7 @@
 
 ### ART. 1.
 
-In dit besluit wordt verstaan onder:<br /><br />1° decreet: het decreet van 21 maart 2003 betreffende de armoedebestrijding;<br /><br />2° coördinerende minister: de Vlaamse minister, bevoegd voor de bijstand aan personen;<br /><br />3° [administratie : het Departement Welzijn, Volksgezondheid en Gezin of het intern verzelfstandigd agentschap Inspectie Welzijn, Volksgezondheid en Gezin;  <span class="reference">(verv. B.V.R. 31 maart 2006, art. 24, I: 1 april 2006)</span> ]<br /><br />4° actieplan: het Vlaams Actieplan Armoedebestrijding, bedoeld in artikel 5 van het decreet;<br /><br />5° permanent armoedeoverleg: het instrument om in alle beleidsdomeinen het armoedebeleid op elkaar af te stemmen, te bewaken en te evalueren;<br /><br />6° Vlaams netwerk: het Vlaamse netwerk van verenigingen waar armen het woord nemen;<br /><br />7° vereniging: een vereniging waar armen het woord nemen;<br /><br />8° meerjarenplan: het document waarin, het Vlaamse netwerk beschrijft hoe het zijn, opdrachten zal uitvoeren;<br /><br />9° ervaringsdeskundige: een ervaringsdeskundige in de armoede;<br /><br />10° organisatie: organisatie voor de coördinatie van of de toeleiding tot de opleiding van ervaringsdeskundige in de armoede;<br /><br />11° project: een planmatig opgezet en samenhangend geheel van activiteiten, gericht op het realiseren van nieuwe benaderingen en oplossingen in de bestrijding van armoede en bestaansonzekerheid en in de bevordering van sociale inclusie. Projecten hebben concrete doelstellingen, zijn afgebakend in de tijd en worden uitgevoerd met betrokkenheid van de armen;<br /><br />12° adviserende beroepscommissie: de commissie, opgericht bij het decreet van 15 juli 1997 houdende de oprichting van een Gezins- en Welzijnsraad en van een Adviserende Beroepscommissie inzake gezins- en welzijnsaangele-genheden;<br /><br />13° Algemeen Verslag over de Armoede: het verslag, opgesteld in 1994 in opdracht van de Minister van Sociale Integratie en in samenwerking met de doelgroepen, dat de armoede in België beschrijft en dat aanbevelingen en voorstellen inzake armoedebestrijding formuleert;<br /><br />14° samenwerkingsakkoord: het samenwerkingsakkoord tussen de federale Staat, de Gemeenschappen en de Gewesten betreffende de bestendiging van het armoedebeleid, ondertekend op 5 mei 1998;<br /><br />15° beleidsdomein: een aangelegenheid die onder de bevoegdheid van de Vlaamse Gemeenschap of het Vlaamse Gewest valt.
+In dit besluit wordt verstaan onder:<br />1° decreet: het decreet van 21 maart 2003 betreffende de armoedebestrijding;<br />2° coördinerende minister: de Vlaamse minister, bevoegd voor de bijstand aan personen;<br />3° administratie : het Departement Welzijn, Volksgezondheid en Gezin of het intern verzelfstandigd agentschap Inspectie Welzijn, Volksgezondheid en Gezin; <br />4° actieplan: het Vlaams Actieplan Armoedebestrijding, bedoeld in artikel 5 van het decreet;<br />5° permanent armoedeoverleg: het instrument om in alle beleidsdomeinen het armoedebeleid op elkaar af te stemmen, te bewaken en te evalueren;<br />6° Vlaams netwerk: het Vlaamse netwerk van verenigingen waar armen het woord nemen;<br />7° vereniging: een vereniging waar armen het woord nemen;<br />8° meerjarenplan: het document waarin, het Vlaamse netwerk beschrijft hoe het zijn, opdrachten zal uitvoeren;<br />9° ervaringsdeskundige: een ervaringsdeskundige in de armoede;<br />10° organisatie: organisatie voor de coördinatie van of de toeleiding tot de opleiding van ervaringsdeskundige in de armoede;<br />11° project: een planmatig opgezet en samenhangend geheel van activiteiten, gericht op het realiseren van nieuwe benaderingen en oplossingen in de bestrijding van armoede en bestaansonzekerheid en in de bevordering van sociale inclusie. Projecten hebben concrete doelstellingen, zijn afgebakend in de tijd en worden uitgevoerd met betrokkenheid van de armen;<br />12° adviserende beroepscommissie: de commissie, opgericht bij het decreet van 15 juli 1997 houdende de oprichting van een Gezins- en Welzijnsraad en van een Adviserende Beroepscommissie inzake gezins- en welzijnsaangele-genheden;<br />13° Algemeen Verslag over de Armoede: het verslag, opgesteld in 1994 in opdracht van de Minister van Sociale Integratie en in samenwerking met de doelgroepen, dat de armoede in België beschrijft en dat aanbevelingen en voorstellen inzake armoedebestrijding formuleert;<br />14° samenwerkingsakkoord: het samenwerkingsakkoord tussen de federale Staat, de Gemeenschappen en de Gewesten betreffende de bestendiging van het armoedebeleid, ondertekend op 5 mei 1998;<br />15° beleidsdomein: een aangelegenheid die onder de bevoegdheid van de Vlaamse Gemeenschap of het Vlaamse Gewest valt;<br />16° de secretaris-generaal : het personeelslid dat belast is met de leiding van het departement Welzijn, Volksgezondheid en Gezin.
 
 ## HOOFDSTUK II COÖRDINATIE EN ORGANISATIE
 
@@ -82,11 +82,11 @@ Op basis van het meerjarenplan dient het Vlaamse netwerk bij de coördinerende m
 
 ### ART. 18.
 
-Onder voorbehoud van de toepassing van artikel 19 bepaalt de coördinerende minister bepaalt de voorwaarden voor de verantwoording van de subsidie, zowel inhoudelijk als financieel.
+Onder voorbehoud van de toepassing van artikel 19 bepaalt de secretaris-generaal bepaalt de voorwaarden voor de verantwoording van de subsidie, zowel inhoudelijk als financieel.
 
 ### ART. 19.
 
-De verantwoordingsstukken moeten uiterlijk op 31 mei, volgend op het werkjaar waarvoor de subsidie werd verleend, bij de coördinerende minister ingediend worden.
+De verantwoordingsstukken moeten uiterlijk op 31 mei, volgend op het werkjaar waarvoor de subsidie werd verleend, bij de secretaris-generaal ingediend worden.
 
 ### ART. 20.
 
@@ -130,7 +130,7 @@ De aanvraag tot erkenning wordt door de organisatie met een aangetekende brief b
 
 ### ART. 28.
 
-Als de aanvraag niet kan worden behandeld omdat ze niet beantwoordt aan de vereisten, gesteld bij of krachtens artikel 27, of omdat het maximumaantal te erkennen organisaties, bedoeld in artikel 29, bereikt is, deelt de administratie binnen vijftien dagen na ontvangst van de aanvraag dit mee aan de aanvragende organisatie. Ze vermeldt waarom de aanvraag niet wordt behandeld.<br /><br />In het andere geval deelt de administratie, uiterlijk 45 dagen na ontvangst van de aanvraag, de gemotiveerde beslissing van de coördinerende minister om de erkenning te verlenen of het gemotiveerde voornemen van de coördinerende minister om de erkenning te weigeren met een aangetekende brief mee aan de organisatie. Als het voornemen wordt meegedeeld vermeldt de brief de mogelijkheid en de voorwaarden om een bezwaarschrift in te dienen.<br /><br />Op straffe van niet-ontvankelijkheid kan de organisatie tot uiterlijk dertig dagen na ontvangst van het voornemen, bedoeld in het eerste lid, een gemotiveerd bezwaarschrift indienen bij de administratie. Het bezwaarschrift wordt behandeld overeenkomstig hoofdstuk II, afdeling 3, en hoofdstuk III van het besluit van de Vlaamse regering van 15 september 1998 betreffende de Adviserende Beroepscommissie inzake gezins- en welzijnsaangelegenheden.
+Als de aanvraag niet kan worden behandeld omdat ze niet beantwoordt aan de vereisten, gesteld bij of krachtens artikel 27, of omdat het maximumaantal te erkennen organisaties, bedoeld in artikel 29, bereikt is, deelt de administratie binnen vijftien dagen na ontvangst van de aanvraag dit mee aan de aanvragende organisatie. Ze vermeldt waarom de aanvraag niet wordt behandeld.<br /><br />In het andere geval deelt de administratie, uiterlijk 45 dagen na ontvangst van de aanvraag, de gemotiveerde beslissing van de secretaris-generaal om de erkenning te verlenen of het gemotiveerde voornemen van de secretaris-generaal om de erkenning te weigeren met een aangetekende brief mee aan de organisatie. Als het voornemen wordt meegedeeld vermeldt de brief de mogelijkheid en de voorwaarden om een bezwaarschrift in te dienen.<br /><br />Op straffe van niet-ontvankelijkheid kan de organisatie tot uiterlijk dertig dagen na ontvangst van het voornemen, bedoeld in het eerste lid, een gemotiveerd bezwaarschrift indienen bij de administratie. Het bezwaarschrift wordt behandeld overeenkomstig hoofdstuk II, afdeling 3, en hoofdstuk III van het besluit van de Vlaamse regering van 15 september 1998 betreffende de Adviserende Beroepscommissie inzake gezins- en welzijnsaangelegenheden.
 
 ### ART. 29.
 
@@ -142,17 +142,17 @@ Er kunnen maximaal twee organisaties erkend worden.
 
 ### ART. 31.
 
-§ 1. Als de organisatie niet meer voldoet aan één of meer erkenningsvoorwaarden of als ze niet meewerkt aan de uitoefening van het toezicht, kan de administratie haar met een aangetekende brief aanmanen om zich binnen een termijn van maximaal twee maanden te conformeren aan die voorwaarden of aan de regels betreffende het toezicht.<br /><br />§ 2. Als ondanks die aanmaning de erkenningsvoorwaarden niet naleeft of niet meewerkt aan de uitoefening van het toezicht, deelt de administratie het gemotiveerde voornemen van de coördinerende minister om de erkenning in te trekken met een aangetekende brief mee aan de organisatie. Die brief vermeldt de mogelijkheid en de voorwaarden om een bezwaarschrift in te dienen.<br /><br />Artikel 28, derde lid, van dit besluit is van overeenkomstige toepassing wat de indiening en de behandeling van het bezwaarschrift betreft.
+§ 1. Als de organisatie niet meer voldoet aan één of meer erkenningsvoorwaarden of als ze niet meewerkt aan de uitoefening van het toezicht, kan de administratie haar met een aangetekende brief aanmanen om zich binnen een termijn van maximaal twee maanden te conformeren aan die voorwaarden of aan de regels betreffende het toezicht.<br /><br />§ 2. Als ondanks die aanmaning de erkenningsvoorwaarden niet naleeft of niet meewerkt aan de uitoefening van het toezicht, deelt de administratie het gemotiveerde voornemen van de secretaris-generaal om de erkenning in te trekken met een aangetekende brief mee aan de organisatie. Die brief vermeldt de mogelijkheid en de voorwaarden om een bezwaarschrift in te dienen.<br /><br />Artikel 28, derde lid, van dit besluit is van overeenkomstige toepassing wat de indiening en de behandeling van het bezwaarschrift betreft.
 
 ## AFDELING 3 SUBSIDIËRING VAN ORGANISATIES
 
 ### ART. 32.
 
-Om in aanmerking te komen voor een subsidie moeten de erkende organisaties, uiterlijk voor 1 november van het jaar dat voorafgaat aan het jaar waarvoor de subsidie wordt aangevraagd, bij de coördinerende minister een subsidieaanvraag indienen. Die aanvraag bevat minstens:<br /><br />1° een activiteitenplanning met duidelijke opgave van de wijze waarop de opdrachten uitgevoerd worden;<br /><br />2° de jaarbegroting voor de uitvoering van die activiteiten.
+Om in aanmerking te komen voor een subsidie moeten de erkende organisaties, uiterlijk voor 1 november van het jaar dat voorafgaat aan het jaar waarvoor de subsidie wordt aangevraagd, bij de secretaris-generaal een subsidieaanvraag indienen. Die aanvraag bevat minstens:<br /><br />1° een activiteitenplanning met duidelijke opgave van de wijze waarop de opdrachten uitgevoerd worden;<br /><br />2° de jaarbegroting voor de uitvoering van die activiteiten.
 
 ### ART. 33.
 
-Jaarlijks wordt binnen de perken van de begrotingskredieten en na goedkeuring van de activitei-tenplanning door de coördinerende minister aan de erkende organisatie een subsidie-enveloppe toegekend voor infrastructuur, werking en personeelskosten.
+Jaarlijks wordt binnen de perken van de begrotingskredieten en na goedkeuring van de activitei-tenplanning door de secretaris-generaal aan de erkende organisatie een subsidie-enveloppe toegekend voor infrastructuur, werking en personeelskosten.
 
 ### ART. 34.
 
@@ -178,7 +178,7 @@ Een aanvraag voor een projectsubsidie kan slechts ingediend worden door een voor
 
 ### ART. 39.
 
-De coördinerende minister bepaalt de voorwaarden van inhoudelijke en financiële verantwoording van de verkregen projectsubsidies.
+De secretaris-generaal bepaalt de voorwaarden van inhoudelijke en financiële verantwoording van de verkregen projectsubsidies.
 
 ## HOOFDSTUK VI SLOTBEPALINGEN
 
