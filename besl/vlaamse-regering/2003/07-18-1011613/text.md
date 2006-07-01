@@ -2,7 +2,7 @@
 
 ### ART. 1.
 
-De aanvragen tot het verkrijgen van de vrijstelling van de onroerende voorheffing, bedoeld in artikel 253, eerste lid, 7° en 8°, van het Wetboek van de inkomstenbelastingen 1992, toegevoegd bij het decreet van 20 december 2002, worden bij een ter post aangetekende brief ingediend bij de directeur-generaal van de administratie Budgettering, Accounting en Financieel Management, Boudewijnlaan 30, te 1000 Brussel.<br /><br />De aanvragen vermelden de naam of benaming, het adres van de belastingplichtige en de ligging van het onroerend goed en worden door de belastingplichtige of zijn gemachtigde ondertekend.
+De aanvragen tot het verkrijgen van de vrijstelling van de onroerende voorheffing, bedoeld in artikel 253, eerste lid, 7° en 8°, van het Wetboek van de inkomstenbelastingen 1992, toegevoegd bij het decreet van 20 december 2002, worden bij een ter post aangetekende brief ingediend bij het hoofd van de Vlaamse Belastingdienst.<br /><br />De aanvragen vermelden de naam of benaming, het adres van de belastingplichtige en de ligging van het onroerend goed en worden door de belastingplichtige of zijn gemachtigde ondertekend.
 
 ### ART. 2.
 

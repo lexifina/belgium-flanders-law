@@ -2,16 +2,16 @@
   "codex_id": 1011613,
   "title": "Besluit van de Vlaamse Regering van 2003-07-18 tot regeling van de modaliteiten waaronder de in artikel 253, eerste lid, 7° en 8° van het Wetboek van de inkomstenbelastingen 1992 bedoelde vrijstellingen van de onroerende voorheffing worden aangevraagd",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1011613/VolledigDocument?datum=2006-06-01",
-  "source_sha256": "02b7491cfea4293e9a83f66749b77a989bde07e366f72c529d363d8692eb403b",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1011613/VolledigDocument?datum=2006-07-01",
+  "source_sha256": "d401010634ba22f4c3d9890fac61f1c4399a9292e67c9088207b9318f80da778",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1011613&param=informatie",
-  "as_of": "2006-06-01",
+  "as_of": "2006-07-01",
   "made": "2003-07-18",
   "gazette": "2003-10-10",
   "numac": 2003201042,
   "document_start": null,
   "document_end": "2013-12-31",
-  "in_force": "2006-06-01",
+  "in_force": "2006-07-01",
   "article_versions": 8,
-  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2006-07-01; future article versions excluded; article text as the API gives it"
 }
