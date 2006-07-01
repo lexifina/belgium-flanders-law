@@ -26,6 +26,14 @@ In artikel 5 van het besluit van de Vlaamse Regering van 10 februari 2006 houden
 
 ## HOOFDSTUK IX. Wijziging van het besluit van de Vlaamse Regering van 30 juni 2006 tot gedeeltelijke operationalisering van het beleidsdomein ruimtelijke ordening, woonbeleid en onroerend erfgoed en houdende aanpassingen van de regelgeving inzake wonen als gevolg van het bestuurlijk beleid
 
+### ART. 21.
+
+In artikel 171 van hetzelfde besluit wordt een punt 5°bis ingevoegd, dat luidt als volgt :<br /><br />« 5°bis de toepassing van artikel 2, § 2, in fine, van het besluit van de Vlaamse Regering, vermeld in artikel 167, 6°, wordt uitgesloten voor de verworven onroerende goederen die aangewend worden voor een woonproject met sociaal karakter als vermeld in hoofdstuk VI; ».<br /><br />
+
+### ART. 22.
+
+Artikel 175 van hetzelfde besluit wordt vervangen door wat volgt :<br /><br />« Art. 175. Tot de datum waarop de leidend ambtenaar van het agentschap Inspectie RWO toezichthouders voor de sociale huisvesting heeft aangesteld met toepassing van het besluit van de Vlaamse Regering dat uitvoering geeft aan artikel 29bis, § 1, vierde lid, van de Vlaamse Wooncode, ingevoegd bij artikel 30 van het decreet van 24 maart 2006, worden de bevoegdheden van de toezichthouders, vermeld in de Vlaamse Wooncode en de besluiten genomen ter uitvoering ervan, uitgeoefend door de leidend ambtenaar van het agentschap Inspectie RWO of de ambtenaren van niveau A van zijn agentschap, die hij daartoe machtigt.<br /><br />Voor de sociale huisvestingsmaatschappijen worden de bevoegdheden van de toezichthouders uitgeoefend door de commissarissen, vermeld in artikel 109 van de Vlaamse Wooncode, gewijzigd bij artikel 70 van het decreet van 24 maart 2006, tot de datum, vermeld in het eerste lid, of tot de datum van een eerdere beëindiging van de opdracht van de commissarissen. »
+
 ## HOOFDSTUK X. Wijziging van het besluit van de Vlaamse Regering van 29 september 2006 betreffende de voorwaarden voor de overdracht van onroerende goederen door de Vlaamse Maatschappij voor Sociaal Wonen en de sociale huisvestingsmaatschappijen ter uitvoering van de Vlaamse Wooncode
 
 ## HOOFDSTUK XI. Wijziging van het besluit van de Vlaamse Regering van 29 september 2006 houdende de erkenning en de subsidiëring van huurdersorganisaties
