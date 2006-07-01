@@ -1,0 +1,17 @@
+{
+  "codex_id": 1015218,
+  "title": "Ministerieel besluit van 2006-11-10 houdende delegatie van sommige bevoegdheden betreffende PPS-projecten sociale huisvesting aan de gedelegeerd bestuurder van de Vlaamse Maatschappij voor Sociaal Wonen",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1015218/VolledigDocument?datum=2006-07-01",
+  "source_sha256": "e476c355da482a300440ce9f21ff9176ae7bdaae97e349220aef0a5e29336864",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1015218&param=informatie",
+  "as_of": "2006-07-01",
+  "made": "2006-11-10",
+  "gazette": "2006-11-30",
+  "numac": 2006036898,
+  "document_start": "2006-07-01",
+  "document_end": null,
+  "in_force": "2006-07-01",
+  "article_versions": 9,
+  "record_form": "consolidated version as in force on 2006-07-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
