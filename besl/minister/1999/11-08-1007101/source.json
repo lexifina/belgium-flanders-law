@@ -2,16 +2,16 @@
   "codex_id": 1007101,
   "title": "Ministerieel besluit van 1999-11-08 ter uitvoering van het besluit van de Vlaamse regering van 23 maart 1999 houdende de subsidiëring van de renovatie van woningen en gebouwen en van de bouw van nieuwe sociale woningen in de eigendomssector",
   "type": "Ministerieel besluit",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1007101/VolledigDocument?datum=2006-06-01",
-  "source_sha256": "1157afd28bfac4ae3af964d14fe1b23524ca54464705c5da7cbc1dffd8d9c729",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1007101/VolledigDocument?datum=2006-07-01",
+  "source_sha256": "f83c8cafe5625ce6281b5d3317351266e60d2bc67fbebef0d5f233bd2f67cf35",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1007101&param=informatie",
-  "as_of": "2006-06-01",
+  "as_of": "2006-07-01",
   "made": "1999-11-08",
   "gazette": "1999-12-24",
   "numac": 0,
   "document_start": "1999-11-15",
   "document_end": "2006-06-30",
-  "in_force": "2006-06-01",
+  "in_force": "2006-07-01",
   "article_versions": 11,
-  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2006-07-01; future article versions excluded; article text as the API gives it"
 }
