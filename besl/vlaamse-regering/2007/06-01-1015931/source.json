@@ -1,0 +1,17 @@
+{
+  "codex_id": 1015931,
+  "title": "Besluit van de Vlaamse Regering van 2007-06-01 tot wijziging van het besluit van de Vlaamse Regering van 17 juli 2000 omtrent de mestuitscheidingsbalans, ter uitvoering van artikelen 3, § 1, 4°, 5, § 2, 1°, 6, § 2 en 20bis, § 2, § 3 en § 4 van het decreet van 23 januari 1991 inzake de bescherming van het leefmilieu tegen de verontreiniging door meststoffen",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1015931/VolledigDocument?datum=2006-07-01",
+  "source_sha256": "3e7caa2b5f888209faeb345ed7cc5e3d10e061e5506283b232bfc275761234d7",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1015931&param=informatie",
+  "as_of": "2006-07-01",
+  "made": "2007-06-01",
+  "gazette": "2007-07-03",
+  "numac": 2007035939,
+  "document_start": "2006-07-01",
+  "document_end": null,
+  "in_force": "2006-07-01",
+  "article_versions": 15,
+  "record_form": "consolidated version as in force on 2006-07-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
