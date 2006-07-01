@@ -2,11 +2,11 @@
 
 ### ART. 1.
 
-Voor de toepassing van dit besluit wordt verstaan onder:<br /><br />1° het Fonds: het Financieringsfonds voor schuldafbouw en eenmalige investeringsuitgaven;<br /><br />2° de Vlaamse minister: het lid van de Vlaamse regering, bevoegd voor financiën en begroting;<br /><br />3° de directeur-generaal: de leidend ambtenaar, bedoeld in artikel 2.
+Voor de toepassing van dit besluit wordt verstaan onder:<br /><br />1° het Fonds: het Financieringsfonds voor schuldafbouw en eenmalige investeringsuitgaven;<br /><br />2° de Vlaamse minister: het lid van de Vlaamse regering, bevoegd voor financiën en begroting;<br /><br />3° de leidend ambtenaar: het hoofd van het Departement Financiën en Begroting.
 
 ### ART. 2.
 
-De Vlaamse minister sluit met de andere leden van de Vlaamse regering protocollen af met betrekking tot de uitvoering en de opvolging van de door het Fonds gefinancierde eenmalige investeringen. Ieder van de leden van de Vlaamse regering is belast met het beheer van de binnen het Fonds voor zijn bevoegdheden vastgestelde kredieten. De protocollen regelen in ieder geval de wijze waarop de boekhoudkundige verantwoordingsstukken worden voorgelegd aan de leidend ambtenaar.<br /><br />De leidend ambtenaar van de administratie Budgettering, Accounting en Financieel Management wordt belast om namens de Vlaamse regering de boekhouding van het Fonds te voeren en alle desbetreffende documenten en briefwisseling te ondertekenen. Hij wordt daarbij gemachtigd deze bevoegdheid geheel of gedeeltelijk over te dragen aan onder zijn gezag geplaatste ambtenaren van niveau A.
+De Vlaamse minister sluit met de andere leden van de Vlaamse regering protocollen af met betrekking tot de uitvoering en de opvolging van de door het Fonds gefinancierde eenmalige investeringen. Ieder van de leden van de Vlaamse regering is belast met het beheer van de binnen het Fonds voor zijn bevoegdheden vastgestelde kredieten. De protocollen regelen in ieder geval de wijze waarop de boekhoudkundige verantwoordingsstukken worden voorgelegd aan de leidend ambtenaar.<br /><br />De leidend ambtenaar wordt belast om namens de Vlaamse regering de boekhouding van het Fonds te voeren en alle desbetreffende documenten en briefwisseling te ondertekenen. Hij wordt daarbij gemachtigd deze bevoegdheid geheel of gedeeltelijk over te dragen aan onder zijn gezag geplaatste ambtenaren van niveau A.
 
 ### ART. 3.
 
