@@ -1,0 +1,17 @@
+{
+  "codex_id": 1014666,
+  "title": "Ministerieel besluit van 2006-06-28 houdende de tijdelijke erkenning van de procedure van monsterneming voor dopingcontrole van de Internationale Tennisfederatie (ITF) en van een controlelaboratorium in het kader van de medisch verantwoorde sportbeoefening",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1014666/VolledigDocument?datum=2006-07-01",
+  "source_sha256": "bcd84e0ad1e5bf2050d3bca0341f55d1ba97b71244311225ed4fa67c5b725887",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1014666&param=informatie",
+  "as_of": "2006-07-01",
+  "made": "2006-06-28",
+  "gazette": "2006-07-11",
+  "numac": 2006036053,
+  "document_start": "2006-07-01",
+  "document_end": null,
+  "in_force": "2006-07-01",
+  "article_versions": 7,
+  "record_form": "consolidated version as in force on 2006-07-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
