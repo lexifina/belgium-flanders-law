@@ -1,0 +1,17 @@
+{
+  "codex_id": 1014628,
+  "title": "Decreet van 2006-06-16 houdende wijziging van diverse bepalingen inzake financiën en begroting als gevolg van het bestuurlijk beleid",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1014628/VolledigDocument?datum=2006-07-01",
+  "source_sha256": "f3419a5521d526a59b5f5fb660f9cf628ad1f24cc404fd8863f1e914712d10c8",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1014628&param=informatie",
+  "as_of": "2006-07-01",
+  "made": "2006-06-16",
+  "gazette": "2006-07-05",
+  "numac": 2006036002,
+  "document_start": "2006-07-01",
+  "document_end": null,
+  "in_force": "2006-07-01",
+  "article_versions": 15,
+  "record_form": "consolidated version as in force on 2006-07-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
