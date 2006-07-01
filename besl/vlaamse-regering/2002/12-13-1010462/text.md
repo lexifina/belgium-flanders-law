@@ -4,7 +4,7 @@
 
 ### ART. 1.
 
-Voor de toepassing van dit besluit wordt verstaan onder:<br /><br />1° de minister: de Vlaamse minister, bevoegd voor het Leefmilieu en het Waterbeleid;<br /><br />2° nieuwe inrichtingen en waterdistributienetwerken: inrichtingen en waterdistributienetwerken die aangelegd of gewijzigd worden na het inwerking treden van dit besluit;<br /><br />3° het decreet: het decreet van 24 mei 2002 betreffende water, bestemd voor menselijke aanwending;<br /><br />4° de afdeling Water: de afdeling Water van de administratie Milieu-, Natuur-, Land- en Waterbeheer van het departement Leefmilieu en Infrastructuur van het ministerie van de Vlaamse Gemeenschap;<br /><br />5° de gezondheidsinspectie: de afdeling Preventieve en Sociale Gezondheidszorg van de administratie Gezondheidszorg van het departement Welzijn, Volksgezondheid en Cultuur.<br /><br />De definities van het decreet zijn van toepassing op dit besluit.
+Voor de toepassing van dit besluit wordt verstaan onder:<br />1° de minister: de Vlaamse minister, bevoegd voor het Leefmilieu en het Waterbeleid;<br />2° nieuwe inrichtingen en waterdistributienetwerken: inrichtingen en waterdistributienetwerken die aangelegd of gewijzigd worden na het inwerking treden van dit besluit;<br />3° het decreet: het decreet van 24 mei 2002 betreffende water, bestemd voor menselijke aanwending;<br />4° de afdeling Water: de afdeling Water van de administratie Milieu-, Natuur-, Land- en Waterbeheer van het departement Leefmilieu en Infrastructuur van het ministerie van de Vlaamse Gemeenschap;<br />5° de gezondheidsinspectie : de afdeling Toezicht Volksgezondheid van het intern verzelfstandigd agentschap Zorg en Gezondheid <br /><br />De definities van het decreet zijn van toepassing op dit besluit.
 
 ### ART. 2.
 
@@ -40,7 +40,7 @@ Nadat de waterleverancier een aanvraag ingediend heeft bij de afdeling Water en 
 
 ### ART. 9.
 
-De controleambtenaren worden aangesteld door de minister of de Vlaamse minister, bevoegd voor het Gezondheidsbeleid. De minister bepaalt nadere regels in verband met de wijze waarop de controleambtenaren zich legitimeren.
+De controleambtenaren worden aangesteld door de administrateur-generaal van de Vlaamse Milieumaatschappij voor Water en Lucht of de administrateur-generaal van het intern verzelfstandigd agentschap Zorg en Gezondheid. De minister bepaalt nadere regels in verband met de wijze waarop de controleambtenaren zich legitimeren.
 
 ### ART. 10.
 
