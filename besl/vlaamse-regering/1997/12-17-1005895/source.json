@@ -2,16 +2,16 @@
   "codex_id": 1005895,
   "title": "Besluit van de Vlaamse Regering van 1997-12-17 tot bepaling van de erkenningsvoorwaarden van de sociale huisvestingsmaatschappijen",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1005895/VolledigDocument?datum=2006-06-01",
-  "source_sha256": "a6e77f394878b3929b6b7f9bf471e9efce8c1efbbe9a8c560a23a6207beaaa3a",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1005895/VolledigDocument?datum=2006-07-01",
+  "source_sha256": "99c2120cbad85d99d76ed02dbe7a20effcfed5c394d895f115ea7b07d077b500",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1005895&param=informatie",
-  "as_of": "2006-06-01",
+  "as_of": "2006-07-01",
   "made": "1997-12-17",
   "gazette": "1997-12-25",
   "numac": 1997036536,
   "document_start": "1998-01-01",
   "document_end": "2006-06-30",
-  "in_force": "2006-06-01",
+  "in_force": "2006-07-01",
   "article_versions": 9,
-  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2006-07-01; future article versions excluded; article text as the API gives it"
 }
