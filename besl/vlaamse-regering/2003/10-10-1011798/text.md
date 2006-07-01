@@ -144,7 +144,22 @@ Het hoofd van het agentschap heeft delegatie om de beslissingen te nemen inzake 
 
 ### ART. 15.
 
-§ 1. Het hoofd van het agentschap heeft delegatie om:<br /><br />1° advocaten aan te stellen en het bedrag van de erelonen en de vergoedbare kosten van de advocaten goed te keuren en te betalen;<br /><br />2° rechtsgedingen te voeren, als eiser, verweerder of tussenkomende partij, voor de hoven en rechtsbanken, de admini-stratieve rechtscolleges en het Rekenhof, met uitzondering van de rechtsgedingen voor het Arbitragehof. Deze delegatie omvat:<br /><br />a) het instellen van rechtsgedingen;<br /><br />b) het verrichten van alle noodzakelijke proceshandelingen;<br /><br />c) het instellen van rechtsmiddelen tegen vonnissen of arresten, of desgevallend het berusten erin;<br /><br />3° dadingen, minnelijke schikkingen en schulderkenningen aan te gaan, voor zover de budgettaire weerslag ervan niet meer bedraagt dan 65.000 euro;<br /><br />4° de uitgaven verbonden aan de uitvoering van vonnissen, arresten, dadingen, minnelijke schikkingen en schulderken-ningen, goed te keuren en te betalen.<br /><br />§ 2. De beslissing met betrekking tot de dagvaarding van een rekenplichtige voor het Rekenhof wordt genomen door de minister. Deze beslissing kan niet gedelegeerd worden.
+§ 1. Het hoofd van het agentschap heeft delegatie om:<br>
+<br>
+1° advocaten aan te stellen en het bedrag van de erelonen en de vergoedbare kosten van de advocaten goed te keuren en te betalen;<br>
+2° rechtsgedingen te voeren, als eiser, verweerder of tussenkomende partij, voor de hoven en rechtbanken, de administratieve rechtscolleges en het Rekenhof, met uitzondering van de rechtsgedingen voor het Arbitragehof; deze delegatie omvat het nemen van de beslissingen betreffende :<br>
+a) het instellen van rechtsgedingen;<br>
+b) het verrichten van alle noodzakelijke proceshandelingen;<br>
+c) het instellen van rechtsmiddelen tegen vonnissen of arresten, of desgevallend het berusten erin;<br>
+wat de intern verzelfstandigde agentschappen zonder rechtspersoonlijkheid betreft, worden de rechtsgedingen gevoerd namens de Vlaamse Regering, ten verzoeke van de bevoegde Vlaamse minister;<br>
+3° dadingen, minnelijke schikkingen en schulderkenningen aan te gaan, voor zover de budgettaire weerslag ervan niet meer bedraagt dan 65.000 euro;<br>
+4° de uitgaven verbonden aan de uitvoering van vonnissen, arresten, dadingen, minnelijke schikkingen en schulderkenningen, goed te keuren en te betalen.<br>
+<br>
+§ 2. De beslissing met betrekking tot de dagvaarding van een rekenplichtige voor het Rekenhof wordt genomen door de minister. Deze beslissing kan niet gedelegeerd worden.<br>
+<br>
+-----------------------------------------------------------------------------------------------<br>
+(noot: In afwijking van artikel 15, § 1, 2°, heeft het hoofd van het Departement Financiën en Begroting delegatie om verzet aan te tekenen bij de beslagrechter tegen elk bewarend beslag dat gelegd wordt op de tegoeden van de Vlaamse Gemeenschap of het Vlaamse Gewest ter uitvoering van artikel 1412bis, § 2, 1°, van het Gerechtelijk Wetboek, en tegen elk beslag dat gelegd wordt op de tegoeden van de Vlaamse Gemeenschap of het Vlaamse Gewest ter uitvoering van artikel 1412bis, § 2, 2°, van het Gerechtelijk Wetboek. - zie art. 3 BVR 1 september 2006)<br>
+&nbsp;
 
 ## HOOFDSTUK VI DELEGATIES INZAKE DIVERSE AANGELEGENHEDEN
 
