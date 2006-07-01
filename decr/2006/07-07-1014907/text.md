@@ -352,6 +352,14 @@ Aan artikel 99bis, van hetzelfde decreet, ingevoegd bij het decreet van 14 febru
 
 ## Afdeling V Decreet betreffende het onderwijs XIII-Mozaïek
 
+### ART. III.40.
+
+In het decreet van 13 juli 2001 betreffende het onderwijs XIII-Mozaïek, wordt in hoofdstuk XII, zoals vervangen bij het decreet van 7 mei 2004, een afdeling IIIbis RTC Vlaanderen, ingevoegd, bestaande uit het artikel XII.9bis, dat luidt als volgt : <br />« Afdeling IIIbis. - RTC Vlaanderen<br />Artikel XII.9bis <br />Mits onderling akkoord kunnen alle RTC gezamenlijk overgaan tot de oprichting van één RTC Vlaanderen. Het RTC Vlaanderen is een Vlaams centrum georganiseerd door rechtspersonen, verzelfstandigde onderdelen van rechtspersonen of samenwerkingsverbanden tussen rechtspersonen. <br /><br />Het RTC Vlaanderen coördineert de samenwerking tussen de RTC en organiseert zelf activiteiten die in overeenstemming zijn met de werking en de initiatieven van de RTC, zoals bedoeld in artikelen XII.1, tweede lid, en XII.2, doch die omwille van efficiëntie en effectiviteit een RTC-overschrijdende benadering vereisen. <br /><br />De bepalingen van de artikelen XII.3 tot en met XII.9 en XII.15 zijn onverkort van toepassing op het RTC Vlaanderen. ». <br /><br />
+
+### ART. III.41.
+
+Artikelen XII.10 tot en met XII.14 van hetzelfde decreet, zoals vervangen bij het decreet van 7 mei 2004, worden opgeheven.<br /><br />
+
 ## Afdeling VI Buitengewoon onderwijs
 
 ## Onderafdeling I De wet betreffende het buitengewoon en geïntegreerd onderwijs
@@ -545,6 +553,10 @@ De volgende besluiten en omzendbrief worden bekrachtigd vanaf de datum van de re
 ## Afdeling II Experimenteel modulair beroepsonderwijs
 
 ## Afdeling III Experimenten deeltijds kunstonderwijs
+
+### ART. IX.3.
+
+De experimenten die toegestaan werden door de Vlaamse minister, bevoegd voor onderwijs, op basis van het besluit van de Vlaamse Regering van 31 juli 1990 houdende organisatie van het deeltijds kunstonderwijs, studierichting beeldende kunst, en op basis van het Besluit van de Vlaamse Regering van 31 juli 1990 houdende organisatie van het deeltijds kunstonderwijs, studierichting muziek, woordkunst en dans, die aflopen op 30 juni 2006 worden verlengd met een jaar tot en met 30 juni 2007.<br />
 
 ## Afdeling IV Een Partnership
 
