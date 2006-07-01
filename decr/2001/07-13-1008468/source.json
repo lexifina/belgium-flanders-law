@@ -2,16 +2,16 @@
   "codex_id": 1008468,
   "title": "Decreet van 2001-07-13 betreffende het onderwijs-XIII-Mozaïek",
   "type": "Decreet",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1008468/VolledigDocument?datum=2006-06-01",
-  "source_sha256": "8ce1b94d30817d6590a5ad8ac6763c11d8409ae38db3e0e9df14724c49f52d66",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1008468/VolledigDocument?datum=2006-07-01",
+  "source_sha256": "ed60374a9e8e717d6ded627461ebfc862000cecc3aa7346f748498b111ca3c6c",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1008468&param=informatie",
-  "as_of": "2006-06-01",
+  "as_of": "2006-07-01",
   "made": "2001-07-13",
   "gazette": "2001-11-27",
   "numac": 2001036320,
   "document_start": null,
   "document_end": null,
-  "in_force": "2006-06-01",
-  "article_versions": 234,
-  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "in_force": "2006-07-01",
+  "article_versions": 235,
+  "record_form": "consolidated version as in force on 2006-07-01; future article versions excluded; article text as the API gives it"
 }

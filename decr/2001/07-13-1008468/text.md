@@ -967,13 +967,17 @@ De vaste werkingsenveloppe wordt jaarlijks vereffend volgens de volgende formule
 
 ## [AFDELING IIIbis RTC VLAANDEREN]
 
+### ART. XII.9bis.
+
+Mits onderling akkoord kunnen alle RTC gezamenlijk overgaan tot de oprichting van één RTC Vlaanderen. Het RTC Vlaanderen is een Vlaams centrum georganiseerd door rechtspersonen, verzelfstandigde onderdelen van rechtspersonen of samenwerkingsverbanden tussen rechtspersonen. <br /><br />Het RTC Vlaanderen coördineert de samenwerking tussen de RTC en organiseert zelf activiteiten die in overeenstemming zijn met de werking en de initiatieven van de RTC, zoals bedoeld in artikelen XII.1, tweede lid, en XII.2, doch die omwille van efficiëntie en effectiviteit een RTC-overschrijdende benadering vereisen. <br /><br />De bepalingen van de artikelen XII.3 tot en met XII.9 en XII.15 zijn onverkort van toepassing op het RTC Vlaanderen. <br />
+
 ## [AFDELING IV DE RTC-COORDINATOR
 
 ## ONDERAFDELING I AANSTELLING (ing. decr. 7 mei 2004, art. 2)]
 
 ### ART. XII. 10.
 
-§ 1. De Vlaamse Regering stelt één coördinator voor alle RTC's aan op basis van een vooraf bekendgemaakt profiel.<br /><br />§ 2. De functie van RTC-coördinator is een mandaatfunctie. De Vlaamse Regering bepaalt de duurtijd van het mandaat.<br /><br />§ 3. De Vlaamse Regering bepaalt de functiebeschrijving van de RTC-coördinator.<br /><br />De functiebeschrijving bevat de strategische en operationele doelstellingen van de RTC-coördinator en de wijze waarop hij over zijn werking moet rapporteren.<br /><br />§ 4. De Vlaamse Regering kan het mandaat op elk ogenblik beëindigen.  <span class="reference">(ing. decr. 7 mei 2004, art. 2, I: 1 april 2004)</span> ]
+...
 
 ## [ONDERAFDELING II MISSIE EN OPDRACHTEN
 
@@ -981,7 +985,7 @@ De vaste werkingsenveloppe wordt jaarlijks vereffend volgens de volgende formule
 
 ### ART. XII. 11.
 
-De RTC-coördinator heeft als missie:<br /><br />1° de ontwikkeling van een netwerk van RTC's cordineren;<br /><br />2° de werking van de RTC's ondersteunen;<br /><br />3° het overleg tussen de RTC's bevorderen.  <span class="reference">(ing. decr. 7 mei 2004, art. 2, I: 1 april 2004)</span> ]
+...
 
 ## [Sectie II Opdrachten
 
@@ -989,25 +993,19 @@ De RTC-coördinator heeft als missie:<br /><br />1° de ontwikkeling van een net
 
 ### ART. XII. 12.
 
-Het departement Onderwijs van het ministerie van de Vlaamse Gemeenschap verricht, in samenspraak met de RTC-coördinator, op regelmatige basis een behoeftestudie die aan de hand van een analyse van de regionale sociaal-economische structuren aangeeft:<br /><br />1° welke regio's behoefte hebben aan de oprichting van een RTC;<br /><br />2° welke RTC's behoefte hebben aan een gewijzigde of uitgebreide werking.  <span class="reference">(ing. decr. 7 mei 2004, art. 2, I: 1 april 2004)</span> ]<br /><br />[Subsectie II<br /><br />Ontwikkeling van een overlegstructuur<br /><br /> <span class="reference">(ing. decr. 7 mei 2004, art. 2)</span> ]
+...
 
 ## [Subsectie II Ontwikkeling van een overlegstructuur]
 
 ### ART. XII. 13.
 
-De RTC-coördinator ziet toe op de ontwikkeling van een overlegstructuur waarbinnen hij op geregelde basis en ten minste jaarlijks overleg pleegt met vertegenwoordigers van de RTC's.  <span class="reference">(ing. decr. 7 mei 2004, art. 2, I: 1 april 2004)</span> ]<br /><br />[Subsectie III<br /><br />Opdrachten inzake de beheersovereenkomsten<br /><br /> <span class="reference">(ing. decr. 7 mei 2004, art. 2)</span> ]
+...
 
 ## [Subsectie III Opdrachten inzake de beheersovereenkomsten]
 
 ### ART. XII.14.
 
-[De RTC-coördinator vervult een adviserende functie bij:<br>
-<br>
-1° het opstellen van de algemene voorwaarden, bedoeld in artikel XII.3, § 2;<br>
-<br>
-2° het vaststellen van de omvang van de vaste werkingsenveloppe, bedoeld in artikel XII.4.<br>
-<br>
-Hij doet een remediëringsvoorstel indien hij, op grond van de controlemechanismen in de beheersovereenkomst, vaststelt dat een RTC de decretale, reglementaire of conventionele verplichtingen of verbintenissen manifest niet of niet behoorlijk uitvoert of nakomt (ing. decr. 7 mei 2004, art. 2, I: 1 april 2004)].
+....
 
 ## [AFDELING V META-EVALUATIE (ing. decr. 7 mei 2004, art. 2)]
 
