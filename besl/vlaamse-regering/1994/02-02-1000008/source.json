@@ -2,16 +2,16 @@
   "codex_id": 1000008,
   "title": "Besluit van de Vlaamse Regering van 1994-02-02 houdende de aanwending van de extra kredieten goedgekeurd in het kader van de Vlaamse tewerkstellingsconferentie voor de ondersteuning van de renovatie van het huurwoningpatrimonium van de sociale huisvestingsmaatschappijen, erkend door de Vlaamse Huisvestingsmaatschappij",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1000008/VolledigDocument?datum=2006-06-01",
-  "source_sha256": "ccb0ad5c623bc97b722e37fe06bf0841b1ba1f199e17dbe651a69fa38ea05c2e",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1000008/VolledigDocument?datum=2006-07-01",
+  "source_sha256": "ca7e50b2e950784f570907a57e8fabe85d0c254261fcaa26d627cb0fb083b0f5",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1000008&param=informatie",
-  "as_of": "2006-06-01",
+  "as_of": "2006-07-01",
   "made": "1994-02-02",
   "gazette": "1994-05-12",
   "numac": 1994035521,
   "document_start": null,
   "document_end": "2006-06-30",
-  "in_force": "2006-06-01",
+  "in_force": "2006-07-01",
   "article_versions": 13,
-  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2006-07-01; future article versions excluded; article text as the API gives it"
 }
