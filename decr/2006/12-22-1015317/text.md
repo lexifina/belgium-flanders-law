@@ -152,6 +152,10 @@ In het koninklijk besluit van 8 juli 1970 houdende de algemene verordening betre
 
 ## HOOFDSTUK XII Herstelfonds
 
+### ART. 47.
+
+Aan het tweede lid van artikel 159bis van het decreet van 18 mei 1999 houdende de organisatie van de ruimtelijke ordening, zoals ingevoegd bij decreet van 10 maart 2006, wordt een punt 3° toegevoegd, dat luidt als volgt :<br />« 3° het per 31 december van het jaar voorafgaande aan het begrotingsjaar beschikbare saldo van het Herstelfonds. ».<br /><br />
+
 ## HOOFDSTUK XIII Activering van het risicokapitaal in Vlaanderen
 
 ## HOOFDSTUK XIV Fonds ter valorisatie van de GIMV-participatie
