@@ -2,16 +2,16 @@
   "codex_id": 1002871,
   "title": "Besluit van de Vlaamse Regering van 1995-04-06 tot bepaling van de vorm, de inhoud, de wijze van bijhouden, de modaliteiten van de actualisering en de controle van de registers van de kandidaat-huurders voor sociale woningen",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1002871/VolledigDocument?datum=2006-06-01",
-  "source_sha256": "83b751c24c4621d60250292323fbdd438fda808ea52444e9788474733a33eba3",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1002871/VolledigDocument?datum=2006-07-01",
+  "source_sha256": "88bfdc4b0655966254ed8d9d1f2061ca4fc134e74315c374cbd603d46a83a112",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1002871&param=informatie",
-  "as_of": "2006-06-01",
+  "as_of": "2006-07-01",
   "made": "1995-04-06",
   "gazette": "1995-06-22",
   "numac": 1995035754,
   "document_start": "1995-05-01",
   "document_end": "2007-12-31",
-  "in_force": "2006-06-01",
+  "in_force": "2006-07-01",
   "article_versions": 14,
-  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2006-07-01; future article versions excluded; article text as the API gives it"
 }

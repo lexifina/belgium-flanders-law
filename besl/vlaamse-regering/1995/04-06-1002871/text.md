@@ -4,7 +4,7 @@
 
 ### ART. 1.
 
-§ 1. De kandidaatstellingen voor het huren van een sociale woning worden in chronologische volgorde van hun indienen en zonder enige openlating met de hand ingeschreven in het "Register van de kandidaat-huurders". De lokale sociale huisvestingsmaatschappijen worden verplicht gebruik te maken van het "Register van de kandidaat-huurders", dat hen door de Vlaamse Huisvestingsmaatschappij ter beschikking wordt gesteld.<br /><br />Een model van dat register is opgenomen als bijlage 1 van dit besluit. Ieder pagina van het register is genummerd en wordt door een gemachtigde van de Vlaamse Huisvestingsmaatschappij geparafeerd.<br /><br />De lokale sociale huisvestingsmaatschappij kan, mits schriftelijke toestemming van de Vlaamse Huisvestingsmaatschappij, het "Register van de kandiaat-huurders" vervangen door een geautomatiseerd bestand overeenkomstig voormeld model. Deze toestemming kan herroepen worden.<br /><br />Indien gebruik gemaakt wordt van een geautomatiseerd bestand dan wordt maandelijks een lijst van de nieuwe inschrijvingen afgedrukt en geviseerd door de VHM-commissaris.<br /><br />§ 2. De VHM kan een lokale sociale huisvestingsmaatschappij, op haar vezoek, machtigen om het in § 1 bedoelde register te vervangen door registers per wijk of gemeente. Voor die registers gelden de regels gesteld in § 1. In die registers worden enkel die kandidaat-huurders opgenomen die voor deze wijk of gemeente hebben gekozen.
+§ 1. De kandidaatstellingen voor het huren van een sociale woning worden in chronologische volgorde van hun indienen en zonder enige openlating met de hand ingeschreven in het "Register van de kandidaat-huurders". <br /><br />Een model van dat register is opgenomen als bijlage 1 van dit besluit. Ieder pagina van het register is genummerd en wordt door een gemachtigde van het agentschap Inspectie RWO geparafeerd.<br /><br />Het register, vermeld in het eerste lid kan vervangen worden door een geautomatiseerd bestand, opgemaakt overeenkomstig voormeld model. In dat geval wordt er maandelijks een lijst van de nieuwe inschrijvingen afgedrukt en geviseerd door de toezichthouder, vermeld in artikel 29bis van de Vlaamse Wooncode. <br /><br />§ 2. De toezichthouder kan een lokale sociale huisvestingsmaatschappij, op haar vezoek, machtigen om het in § 1 bedoelde register te vervangen door registers per wijk of gemeente. Voor die registers gelden de regels gesteld in § 1. In die registers worden enkel die kandidaat-huurders opgenomen die voor deze wijk of gemeente hebben gekozen.
 
 ### ART. 2.
 
@@ -12,11 +12,11 @@ Gelijktijdig met het in artikel 1 vermelde register wordt een "Uitgebreid regist
 
 ### ART. 3.
 
-Om de controle over de registers en de toewijzingen te kunnen uitoefenen moet de sociale huisvestingsmaatschappij aan de Vlaamse minister, of zijn afgevaardigde, aan de gemachtigde ambtenaar van de Vlaamse Huisvestingsmaatschappij en aan de VHM-commissaris de registers ter beschikking stellen. De Vlaamse minister, of zijn afgevaardigde, de gemachtigde ambtenaar van de Vlaamse Huisvestingsmaatschappij en de VHM-commissaris hebben het recht een afschrift van de registers te vragen.
+De sociale huisvestingsmaatschappij en de Vlaamse Maatschappij voor Sociaal Wonen geven aan de toezichthouder en de gemachtigden van het agentschap Inspectie RWO de mogelijkheid om controle uit te oefenen op de registers en de toewijzingen, en bezorgen hen op eenvoudig verzoek een afschrift van de registers. <br />
 
 ### ART. 4.
 
-De gemachtigde ambtenaar van de Vlaamse Huisvestingsmaatschappij en de VHM-commissaris viseren de registers bij controle.
+De registers worden geviseerd bij elke controle.<br />
 
 ### ART. 5.
 
@@ -36,7 +36,7 @@ De lokale sociale huisvestingsmaatschappij zendt daartoe vóór 1 juni 1995 aan 
 
 ### ART. 8.
 
-De kandidaat-huurders die bij de actualisering voldoen aan de voorwaarden gesteld in artikel 4, § 1, van het besluit van de Vlaamse regering van 29 september 1994 tot reglementering van het sociale huurstelsel, worden in nieuwe registers ingeschreven overeenkomstig de bepalingen van hoofdstuk I van dit besluit, met behoud van hun oorspronkelijke inschrijvingsdatum. De kandidaat-huurder krijgt dan een schriftelijke bevestiging van zijn inschrijving, waarbij hem zijn inschrijvingsnummer wordt meegedeeld, conform het officieel ontvangstbewijs.<br /><br />De kandidaat-huurders die bij de actualisering niet meer voldoen aan de voorwaarden vermeld in het eerste lid, worden geschrapt. Ze worden hiervan schriftelijk op de hoogte gebracht.<br /><br />De kandidaat-huurder die geschrapt is uit de registers kan opnieuw worden ingeschreven van zodra hij opnieuw voldoet aan voormelde voorwaarden. In dat geval krijgt hij een nieuw inschrijvingsnummer.
+De kandidaat-huurders die bij de actualisering voldoen aan de voorwaarden gesteld overeenkomstig titel VII van het decreet van 15 juli 1997 houdende de Vlaamse Wooncode worden in nieuwe registers ingeschreven overeenkomstig de bepalingen van hoofdstuk I van dit besluit, met behoud van hun oorspronkelijke inschrijvingsdatum. De kandidaat-huurder krijgt dan een schriftelijke bevestiging van zijn inschrijving, waarbij hem zijn inschrijvingsnummer wordt meegedeeld, conform het officieel ontvangstbewijs.<br /><br />De kandidaat-huurders die bij de actualisering niet meer voldoen aan de voorwaarden vermeld in het eerste lid, worden geschrapt. Ze worden hiervan schriftelijk op de hoogte gebracht.<br /><br />De kandidaat-huurder die geschrapt is uit de registers kan opnieuw worden ingeschreven van zodra hij opnieuw voldoet aan voormelde voorwaarden. In dat geval krijgt hij een nieuw inschrijvingsnummer.
 
 ## AFDELING 2 DE TWEEJAARLIJKSE ACTUALISERING
 
@@ -48,7 +48,7 @@ Vanaf 1997 worden om de twee jaar - in de loop van het eerste semester- de regis
 
 ### ART. 10.
 
-Aan de kandidaat-huurder wordt schriftelijk meegedeeld dat hem een woning voor toewijzing wordt aangeboden. Zijn kandidatuur kan worden geschrapt uit de registers indien hij, conform artikel 4, § 3, 2°, van het besluit van de Vlaamse regering van 29 september 1994, na twee maal een aanbod te hebben ontvangen niet schriftelijk reageert binnen een maand na de datum van de mededeling of wanneer de mededeling onbestelbaar terugkeert na het tweede aanbod.<br /><br />De kandidaat-huurder die bij de toewijzing van een woning niet aan de toelatingsvoorwaarden blijkt te voldoen, wordt geschrapt uit de registers.<br /><br />De kandidaat-huurder die hierom schriftelijk verzoekt, wordt geschrapt uit de registers.
+Aan de kandidaat-huurder wordt schriftelijk meegedeeld dat hem een woning voor toewijzing wordt aangeboden. Zijn kandidatuur kan worden geschrapt uit de registers indien hij,  na twee maal een aanbod te hebben ontvangen niet schriftelijk reageert binnen een maand na de datum van de mededeling of wanneer de mededeling onbestelbaar terugkeert na het tweede aanbod.<br /><br />De kandidaat-huurder die bij de toewijzing van een woning niet aan de toelatingsvoorwaarden blijkt te voldoen, wordt geschrapt uit de registers.<br /><br />De kandidaat-huurder die hierom schriftelijk verzoekt, wordt geschrapt uit de registers.
 
 ## AFDELING 4 ALGEMENE BEPALINGEN
 
