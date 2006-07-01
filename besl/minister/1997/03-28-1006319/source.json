@@ -2,16 +2,16 @@
   "codex_id": 1006319,
   "title": "Ministerieel besluit van 1997-03-28 houdende delegatie van sommige bevoegdheden inzake monumenten aan ambtenaren van het ministerie van de Vlaamse Gemeenschap",
   "type": "Ministerieel besluit",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1006319/VolledigDocument?datum=2006-06-01",
-  "source_sha256": "c62833429a0dea1d6c658ec468ae6985bab33b0fb994f6236db0db7c449dd46b",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1006319/VolledigDocument?datum=2006-07-01",
+  "source_sha256": "560a9fb9b44205435bf66553602903d49391ee972f31ee15f268c4557d4717c6",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1006319&param=informatie",
-  "as_of": "2006-06-01",
+  "as_of": "2006-07-01",
   "made": "1997-03-28",
   "gazette": "1997-05-27",
   "numac": 97035607,
   "document_start": null,
   "document_end": "2006-06-30",
-  "in_force": "2006-06-01",
+  "in_force": "2006-07-01",
   "article_versions": 8,
-  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2006-07-01; future article versions excluded; article text as the API gives it"
 }
