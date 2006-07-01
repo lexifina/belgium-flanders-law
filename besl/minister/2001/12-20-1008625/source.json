@@ -2,16 +2,16 @@
   "codex_id": 1008625,
   "title": "Ministerieel besluit van 2001-12-20 houdende delegatie van sommige bevoegdheden inzake archeologische monumentenzorg aan ambtenaren van het Instituut voor het Archeologisch Patrimonium van het Vlaams Gewest en aan ambtenaren van het ministerie van de Vlaamse Gemeenschap",
   "type": "Ministerieel besluit",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1008625/VolledigDocument?datum=2006-06-01",
-  "source_sha256": "a4a5902ea53bb970e6b636b76df03eb95b11d1e04f6ae034919cad3e394dca4a",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1008625/VolledigDocument?datum=2006-07-01",
+  "source_sha256": "0c7672bdc3d754b3b1b351dea6b14ee3a0e87788f275bd5ef2526aab9149af09",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1008625&param=informatie",
-  "as_of": "2006-06-01",
+  "as_of": "2006-07-01",
   "made": "2001-12-20",
   "gazette": "2002-01-29",
   "numac": 2002035042,
   "document_start": "2002-01-01",
   "document_end": "2006-06-30",
-  "in_force": "2006-06-01",
+  "in_force": "2006-07-01",
   "article_versions": 12,
-  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2006-07-01; future article versions excluded; article text as the API gives it"
 }
