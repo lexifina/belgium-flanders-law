@@ -4,13 +4,13 @@
 
 ### ART. 1.
 
-Voor de toepassing van dit besluit wordt verstaan onder:<br /><br />1° het decreet: decreet van 18 mei 1999 betreffende de geestelijke gezondheidszorg;<br /><br />2° de Vlaamse minister: Vlaamse minister, bevoegd voor het gezondheidsbeleid;<br /><br />3° de administratie: [het intern verzelfstandigd agentschap Zorg en Gezondheid of het intern verzelfstandigd agentschap Inspectie Welzijn, Volksgezondheid en Gezin  <span class="reference">(verv. B.V.R. 31 maart 2006, art. 57, I : 1 april 2006)</span> ];<br /><br />4° centrum: centrum voor geestelijke gezondheidszorg zoals bepaald in artikel 2, 1°, van het decreet;<br /><br />5° de Vlaamse Gezondheidsraad: de Vlaamse Gezondheidsraad opgericht bij het decreet van 20 december 1996 houdende oprichting van een Vlaamse gezondheidsraad en van een Vlaamse Adviesraad inzake erkenning van verzorgingsvoorzieningen;<br /><br />6° de Vlaamse Adviesraad: de Vlaamse Adviesraad voor erkenning van verzorgingsvoorzieningen, opgericht bij het decreet van 20 december 1996 houdende oprichting van een Vlaamse gezondheidsraad en van een Vlaamse Adviesraad inzake erkenning van verzorgingsvoorzieningen.
+Voor de toepassing van dit besluit wordt verstaan onder:<br />1° het decreet: decreet van 18 mei 1999 betreffende de geestelijke gezondheidszorg;<br />2° de Vlaamse minister: Vlaamse minister, bevoegd voor het gezondheidsbeleid;<br />3° de administratie: het intern verzelfstandigd agentschap Zorg en Gezondheid;<br />4° centrum: centrum voor geestelijke gezondheidszorg zoals bepaald in artikel 2, 1°, van het decreet;<br />5° de Vlaamse Gezondheidsraad: de Vlaamse Gezondheidsraad opgericht bij het decreet van 20 december 1996 houdende oprichting van een Vlaamse gezondheidsraad en van een Vlaamse Adviesraad inzake erkenning van verzorgingsvoorzieningen;<br />6° de Vlaamse Adviesraad: de Vlaamse Adviesraad voor erkenning van verzorgingsvoorzieningen, opgericht bij het decreet van 20 december 1996 houdende oprichting van een Vlaamse gezondheidsraad en van een Vlaamse Adviesraad inzake erkenning van verzorgingsvoorzieningen;<br />7° de administrateur-generaal : het hoofd van het intern verzelfstandigd agentschap Zorg en Gezondheid.
 
 ## HOOFDSTUK II OPDRACHTEN EN WERKING
 
 ### ART. 2.
 
-Ter uitvoering van artikel 9, § 2, van het decreet kan de Vlaamse minister convenants sluiten met centra voor een termijn van maximaal 3 jaar.
+Ter uitvoering van artikel 9, § 2, van het decreet kan de administrateur-generaal convenants sluiten met centra voor een termijn van maximaal 3 jaar.
 
 ### ART. 3.
 
@@ -18,13 +18,13 @@ De centra met specifieke aandacht voor de verslavings-problematiek wijzen een pe
 
 ### ART. 4.
 
-De centra rapporteren jaarlijks over de aard en omvang van de aanvullende taken zoals bedoeld in artikel 9, § 4, van het decreet aan de Vlaamse minister.
+De centra rapporteren jaarlijks over de aard en omvang van de aanvullende taken zoals bedoeld in artikel 9, § 4, van het decreet aan de administrateur-generaal.
 
 ## HOOFDSTUK III ERKENNING VAN CENTRA VOOR GEESTELIJKE GEZONDHEIDSZORG
 
 ### ART. 5.
 
-Een centrum wordt door de Vlaamse minister erkend voor een hernieuwbare periode van 6 jaar.
+Een centrum wordt erkend voor een hernieuwbare periode van 6 jaar.
 
 ### ART. 6.
 
@@ -36,31 +36,31 @@ Een centrum kan enkel worden erkend als:<br /><br />1° het daartoe een ontvanke
 
 ### ART. 8.
 
-§ 1. Als de aanvraag niet ontvankelijk is, wordt de reden daarvan binnen 30 dagen na ontvangst van de aanvraag door de administratie schriftelijk aan het centrum bekendgemaakt.<br /><br />§ 2. Bij een ontvankelijke aanvraag wordt binnen vier maanden na de ontvangst van de aanvraag aan het centrum ofwel de gemotiveerde beslissing van de Vlaamse minister tot erkenning of verlenging van de erkenning, ofwel het gemotiveerde voornemen tot weigering van de erkenning of verlenging van de erkenning betekend per aangetekende brief. De brief waarmee het voornemen tot weigering wordt betekend, vermeldt de mogelijkheid en de voorwaarden om een bezwaarschrift in te dienen, zoals bedoeld in artikel 9, § 1.
+§ 1. Als de aanvraag niet ontvankelijk is, wordt de reden daarvan binnen 30 dagen na ontvangst van de aanvraag door de administratie schriftelijk aan het centrum bekendgemaakt.<br /><br />§ 2. Bij een ontvankelijke aanvraag wordt binnen vier maanden na de ontvangst van de aanvraag aan het centrum ofwel de gemotiveerde beslissing van de administrateur-generaal tot erkenning of verlenging van de erkenning, ofwel het gemotiveerde voornemen tot weigering van de erkenning of verlenging van de erkenning betekend per aangetekende brief. De brief waarmee het voornemen tot weigering wordt betekend, vermeldt de mogelijkheid en de voorwaarden om een bezwaarschrift in te dienen, zoals bedoeld in artikel 9, § 1.
 
 ### ART. 9.
 
-§ 1. De aanvrager kan, tot uiterlijk dertig dagen na ontvangst van het in artikel 8, § 2 genoemde voornemen, met een aangetekende brief een gemotiveerd bezwaarschrift, gericht aan de Vlaamse minister, bij de administratie indienen. Hij kan daarin uitdrukkelijk vragen om gehoord te worden.<br /><br />§ 2. De administratie bezorgt, binnen vijftien dagen na ontvangst ervan, het bezwaarschrift samen met het volledige administratieve dossier aan de Vlaamse adviesraad.
+§ 1. De aanvrager kan, tot uiterlijk dertig dagen na ontvangst van het in artikel 8, § 2 genoemde voornemen, met een aangetekende brief een gemotiveerd bezwaarschrift, gericht aan de administrateur-generaal, bij de administratie indienen. Hij kan daarin uitdrukkelijk vragen om gehoord te worden.<br /><br />§ 2. De administratie bezorgt, binnen vijftien dagen na ontvangst ervan, het bezwaarschrift samen met het volledige administratieve dossier aan de Vlaamse adviesraad.
 
 ### ART. 10.
 
-§ 1. Binnen een maand nadat de Vlaamse minister het advies van de Vlaamse adviesraad heeft ontvangen wordt de gemotiveerde beslissing van de Vlaamse minister tot erkenning of verlenging van erkenning of tot weigering per aangetekende brief aan het centrum betekend. Als de Vlaamse minister het advies niet heeft ontvangen binnen de reglementair bepaalde termijn, gebeurt dat binnen een maand na het verstrijken van die termijn.<br /><br />§ 2. Als het advies ontbreekt, kan de Vlaamse minister geen beslissing nemen zonder dat hij de aanvrager heeft gehoord, als hij daarom in zijn bezwaarschrift heeft verzocht. In dat geval wordt de in § 1 bedoelde termijn met één maand verlengd.
+§ 1. Binnen een maand nadat de administrateur-generaal het advies van de Vlaamse adviesraad heeft ontvangen wordt de gemotiveerde beslissing tot erkenning of verlenging van erkenning of tot weigering per aangetekende brief aan het centrum betekend. Als de administrateur-generaal het advies niet heeft ontvangen binnen de reglementair bepaalde termijn, gebeurt dat binnen een maand na het verstrijken van die termijn. Indien het advies van de Vlaamse Adviesraad afwijkt van het voornemen van de administrateur-generaal, vermeld in artikel 8, § 2, beslist de minister.<br /><br />§ 2. Als het advies ontbreekt, kan de administrateur-generaal geen beslissing nemen zonder dat hij de aanvrager heeft gehoord, als hij daarom in zijn bezwaarschrift heeft verzocht. In dat geval wordt de in § 1 bedoelde termijn met één maand verlengd.
 
 ### ART. 11.
 
-§ 1. Indien tegen het voornemen tot weigering geen bezwaarschrift werd ingediend, wordt binnen een maand na het verstrijken van de termijn genoemd in artikel 9, § 1, de gemotiveerde beslissing van de Vlaamse minister per aangetekende brief aan het centrum bezorgd.<br /><br />§ 2. Indien zulks voor de toepassing van artikel 27, § 4, van het decreet vereist is, kan de Vlaamse minister afwijken van de termijn waarbinnen hij zijn beslissingen over de aanvragen moet betekenen, teneinde deze beslissingen gelijktijdig te kunnen nemen. De Vlaamse minister stelt de betrokken centra bij een gemotiveerd schrijven in kennis van zijn voornemen tot afwijking.
+§ 1. Indien tegen het voornemen tot weigering geen bezwaarschrift werd ingediend, wordt binnen een maand na het verstrijken van de termijn genoemd in artikel 9, § 1, de gemotiveerde beslissing van de administrateur-generaal per aangetekende brief aan het centrum bezorgd.<br /><br />§ 2. Indien zulks voor de toepassing van artikel 27, § 4, van het decreet vereist is, kan de administrateur-generaal afwijken van de termijn waarbinnen hij zijn beslissingen over de aanvragen moet betekenen, teneinde deze beslissingen gelijktijdig te kunnen nemen. De administrateur-generaal stelt de betrokken centra bij een gemotiveerd schrijven in kennis van zijn voornemen tot afwijking.
 
 ### ART. 12.
 
-Als de erkenning of de verlenging van erkenning door de Vlaamse minister wordt geweigerd kan het centrum geen nieuwe erkenningsaanvraag indienen, tenzij het aantoont dat de reden voor de weigering niet langer bestaat.
+Als de erkenning of de verlenging van erkenning wordt geweigerd kan het centrum geen nieuwe erkenningsaanvraag indienen, tenzij het aantoont dat de reden voor de weigering niet langer bestaat.
 
 ### ART. 13.
 
-§ 1. Als een erkend centrum niet langer voldoet aan de voorwaarden van artikel 20, § 1, van het decreet, kan de administratie het centrum per aangetekende brief aanmanen om binnen een door haar te bepalen termijn alle verplichtingen na te komen.<br /><br />§ 2. Als het centrum ondanks die aanmaning de voorwaarden niet naleeft, kan de erkenning worden ingetrokken door de Vlaamse minister.
+§ 1. Als een erkend centrum niet langer voldoet aan de voorwaarden van artikel 20, § 1, van het decreet, kan de administratie het centrum per aangetekende brief aanmanen om binnen een door haar te bepalen termijn alle verplichtingen na te komen.<br /><br />§ 2. Als het centrum ondanks die aanmaning de voorwaarden niet naleeft, kan de erkenning worden ingetrokken.
 
 ### ART. 14.
 
-Het gemotiveerde voornemen van de Vlaamse minister om de erkenning in te   trekken wordt met een aangetekende brief aan het centrum betekend. Daarin worden   de mogelijkheden en de voorwaarden vermeld om een bezwaarschrift in te dienen   zoals bepaald in artikel 10, § 1. Artikelen 10, § 2, tot en met 12, § 1, zijn   van overeenkomstige toepassing.
+Het gemotiveerde voornemen van de administrateur-generaal om de erkenning   in te trekken wordt met een aangetekende brief aan het centrum betekend. Daarin   worden de mogelijkheden en de voorwaarden vermeld om een bezwaarschrift in te   dienen zoals bepaald in artikel 10, § 1. Artikelen 10, § 2, tot en met 12, § 1,   zijn van overeenkomstige toepassing.
 
 ### ART. 15.
 
