@@ -1,0 +1,17 @@
+{
+  "codex_id": 1014683,
+  "title": "Ministerieel besluit van 2006-05-19 tot vaststelling van het model van het volmachtformulier voor de verkiezingen van 8 oktober 2006 en van de attesten die door de burgemeester moeten worden afgegeven aan de kiezers die het beroep van schipper, marktkramer of kermisreiziger uitoefenen of hun gezinsleden die met hen samenwonen of die op de dag van de verkiezingen in het buitenland verblijven om andere dan beroeps- of dienstredenen",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1014683/VolledigDocument?datum=2006-07-01",
+  "source_sha256": "40cb228d6f921d1e8c13e9072e06e2f4ad3e8013294331cb2a9521e1bec7370c",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1014683&param=informatie",
+  "as_of": "2006-07-01",
+  "made": "2006-05-19",
+  "gazette": "2006-07-17",
+  "numac": 2006035908,
+  "document_start": "2006-07-17",
+  "document_end": "2012-05-14",
+  "in_force": "2006-07-01",
+  "article_versions": 2,
+  "record_form": "consolidated version as in force on 2006-07-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
