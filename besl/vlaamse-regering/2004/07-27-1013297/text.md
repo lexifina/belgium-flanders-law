@@ -136,6 +136,10 @@ Deze delegatie geldt enkel binnen het voorwerp van de opdracht en tot een gezame
 2° 625.000 euro voor leveringen;<br>
 3° 150.000 euro voor diensten.</p>
 
+### ART. 9bis.
+
+In de rechtsgedingen van de Vlaamse Gemeenschap of het Vlaamse Gewest met betrekking tot een aangelegenheid die tot de uitsluitende bevoegdheid behoort van één Vlaamse minister, treedt die minister op namens de Vlaamse Regering.<br />Als de rechtsgedingen betrekking hebben op een aangelegenheid die tot de bevoegdheid behoort van meer dan één Vlaamse minister, spreken die ministers onderling af wie van hen namens de Vlaamse Regering zal optreden. Als een dergelijke afspraak ontbreekt, treedt de minister op die eerst komt in de orde van voorrang.<br />
+
 ### ART. 10.
 
 De Vlaamse minister, bevoegd voor het Algemeen Beleid inzake vastgoedbeheer, heeft, met betrekking tot de niet-bestemde onroerende goederen die behoren tot het domein van de Vlaamse Gemeenschap of het Vlaamse Gewest, delegatie voor:<br /><br />1° het beheer ervan;<br /><br />2° de vervreemding ervan, voor zover de budgettaire weerslag niet meer dan 1.250.000 euro bedraagt.
