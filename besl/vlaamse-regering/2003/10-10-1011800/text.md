@@ -143,7 +143,16 @@ Het hoofd van het departement heeft delegatie om de beslissingen te nemen inzake
 
 ### ART. 15.
 
-§ 1. Het hoofd van het departement heeft delegatie om:<br /><br />1° advocaten aan te stellen en het bedrag van de erelonen en de vergoedbare kosten van de advocaten goed te keuren en te betalen;<br /><br />2° rechtsgedingen te voeren, als eiser, verweerder of tussenkomende partij, voor de hoven en rechtsbanken, de administratieve rechtscolleges en het Rekenhof, met uitzondering van de rechtsgedingen voor het Arbitragehof. Deze delegatie omvat:<br /><br />a) het instellen van rechtsgedingen;<br /><br />b) het verrichten van alle noodzakelijke proceshandelingen;<br /><br />c) het instellen van rechtsmiddelen tegen vonnissen of arresten, of desgevallend het berusten erin;<br /><br />3° dadingen, minnelijke schikkingen en schulderkenningen aan te gaan, voor zover de budgettaire weerslag ervan niet meer bedraagt dan 65.000 euro;<br /><br />4° de uitgaven verbonden aan de uitvoering van vonnissen, arresten, dadingen, minnelijke schikkingen en schulderkenningen, goed te keuren en te betalen.<br /><br />§ 2. De beslissing met betrekking tot de dagvaarding van een rekenplichtige voor het Rekenhof wordt genomen door de minister. Deze beslissing kan niet gedelegeerd worden.
+§ 1. Het hoofd van het departement heeft delegatie om:<br>
+1° advocaten aan te stellen en het bedrag van de erelonen en de vergoedbare kosten van de advocaten goed te keuren en te betalen;<br>
+2° rechtsgedingen te voeren namens de Vlaamse Regering, ten verzoeke van de bevoegde Vlaamse minister, als eiser, verweerder of tussenkomende partij, voor de hoven en rechtbanken, de administratieve rechtscolleges en het Rekenhof, met uitzondering van de rechtsgedingen voor het Arbitragehof; deze delegatie omvat het nemen van beslissingen betreffende :<br>
+a) het instellen van rechtsgedingen;<br>
+b) het verrichten van alle noodzakelijke proceshandelingen;<br>
+c) het instellen van rechtsmiddelen tegen vonnissen of arresten, of desgevallend het berusten erin;<br>
+3° dadingen, minnelijke schikkingen en schulderkenningen aan te gaan, voor zover de budgettaire weerslag ervan niet meer bedraagt dan 65.000 euro;<br>
+4° de uitgaven verbonden aan de uitvoering van vonnissen, arresten, dadingen, minnelijke schikkingen en schulderkenningen, goed te keuren en te betalen.<br>
+<br>
+§ 2. De beslissing met betrekking tot de dagvaarding van een rekenplichtige voor het Rekenhof wordt genomen door de minister. Deze beslissing kan niet gedelegeerd worden.
 
 ## HOOFDSTUK VI MOGELIJKHEID TOT HET INSTELLEN VAN BEPERKINGEN OP DE ALGEMENE DELEGATIE
 
