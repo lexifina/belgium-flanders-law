@@ -1,0 +1,17 @@
+{
+  "codex_id": 1014669,
+  "title": "Besluit van de Vlaamse Regering van 2006-06-09 tot wijziging van het besluit van de Vlaamse Regering van 2 februari 2001 betreffende de erkenning van mammografische eenheden en regionale screeningscentra voor borstkankeropsporing",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1014669/VolledigDocument?datum=2006-07-01",
+  "source_sha256": "e0fa92ae1ec3d06a0e669580b22a3155d385c4217769da3671314cacafcdef04",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1014669&param=informatie",
+  "as_of": "2006-07-01",
+  "made": "2006-06-09",
+  "gazette": "2006-07-14",
+  "numac": 2006036051,
+  "document_start": "2006-07-01",
+  "document_end": null,
+  "in_force": "2006-07-01",
+  "article_versions": 6,
+  "record_form": "consolidated version as in force on 2006-07-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
