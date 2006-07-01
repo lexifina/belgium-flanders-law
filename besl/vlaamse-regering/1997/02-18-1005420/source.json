@@ -2,16 +2,16 @@
   "codex_id": 1005420,
   "title": "Besluit van de Vlaamse Regering van 1997-02-18 tot vaststelling van de procedure voor de erkenning en de sluiting van rust- en verzorgingstehuizen, psychiatrische verzorgingstehuizen, initiatieven van beschut wonen en samenwerkingsverbanden van psychiatrische instellingen en diensten",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1005420/VolledigDocument?datum=2006-06-01",
-  "source_sha256": "c9a04f0b5ef8cd8f09cb5335b51db54383441543a1dfa9c92eca0e869719f117",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1005420/VolledigDocument?datum=2006-07-01",
+  "source_sha256": "adee3a4593ca20fdce065ea8db92d3dd31e214dabcbec587782d7e912965522d",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1005420&param=informatie",
-  "as_of": "2006-06-01",
+  "as_of": "2006-07-01",
   "made": "1997-02-18",
   "gazette": "1997-05-17",
   "numac": 1997035420,
   "document_start": "1997-05-17",
   "document_end": "2014-09-06",
-  "in_force": "2006-06-01",
+  "in_force": "2006-07-01",
   "article_versions": 27,
-  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2006-07-01; future article versions excluded; article text as the API gives it"
 }
