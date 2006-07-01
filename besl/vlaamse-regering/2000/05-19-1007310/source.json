@@ -2,16 +2,16 @@
   "codex_id": 1007310,
   "title": "Besluit van de Vlaamse Regering van 2000-05-19 tot vaststelling van nadere regels voor de organisatie en de werkwijze van de Vlaamse Commissie voor Ruimtelijke Ordening",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1007310/VolledigDocument?datum=2006-06-01",
-  "source_sha256": "42fb1e8c86c4db0f65948c03892123ba7ed7e92ee51066e34cf0789b49db5fa2",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1007310/VolledigDocument?datum=2006-07-01",
+  "source_sha256": "b685d0e136f3e5488e72b6c9d0757e3c14a065cb57e9dd3cea1adad71b1ca31e",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1007310&param=informatie",
-  "as_of": "2006-06-01",
+  "as_of": "2006-07-01",
   "made": "2000-05-19",
   "gazette": "2000-06-03",
   "numac": 2000035531,
   "document_start": "2000-05-01",
   "document_end": "2008-11-11",
-  "in_force": "2006-06-01",
+  "in_force": "2006-07-01",
   "article_versions": 10,
-  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2006-07-01; future article versions excluded; article text as the API gives it"
 }
