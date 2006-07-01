@@ -2,16 +2,16 @@
   "codex_id": 1007881,
   "title": "Ministerieel besluit van 2000-12-13 betreffende de subsidiëring van operaties en werken van een sociaal woonproject of een bijzonder woonproject",
   "type": "Ministerieel besluit",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1007881/VolledigDocument?datum=2006-06-01",
-  "source_sha256": "f5d49efbc7b1e696a4f350ef2ab4426c85d6d5049d7769a8bcaa492231f2764f",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1007881/VolledigDocument?datum=2006-07-01",
+  "source_sha256": "f33656eed84ab715a54b5e68b1a757c2813fdd1ddad5cd1667778e6e7818a0f6",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1007881&param=informatie",
-  "as_of": "2006-06-01",
+  "as_of": "2006-07-01",
   "made": "2000-12-13",
   "gazette": "2001-03-16",
   "numac": 2001035270,
   "document_start": "2000-10-01",
   "document_end": "2006-06-30",
-  "in_force": "2006-06-01",
+  "in_force": "2006-07-01",
   "article_versions": 27,
-  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2006-07-01; future article versions excluded; article text as the API gives it"
 }
