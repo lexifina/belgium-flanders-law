@@ -1,0 +1,17 @@
+{
+  "codex_id": 1015014,
+  "title": "Besluit van de Vlaamse Regering van 2006-09-01 tot wijziging van het besluit van de Vlaamse Regering van 9 december 2005 betreffende de modulering en de netwerken rechtstreeks toegankelijke jeugdhulpverlening en crisisjeugdhulpverlening in het raam van de integrale jeugdhulp",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1015014/VolledigDocument?datum=2006-07-01",
+  "source_sha256": "bf4b1dd09170bda64dcf89a0e038045be5e945036033617b233783be4b855d81",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1015014&param=informatie",
+  "as_of": "2006-07-01",
+  "made": "2006-09-01",
+  "gazette": "2006-10-06",
+  "numac": 2006036535,
+  "document_start": "2006-07-01",
+  "document_end": null,
+  "in_force": "2006-07-01",
+  "article_versions": 7,
+  "record_form": "consolidated version as in force on 2006-07-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
