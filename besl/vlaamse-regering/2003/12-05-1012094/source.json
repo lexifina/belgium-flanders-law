@@ -2,16 +2,16 @@
   "codex_id": 1012094,
   "title": "Besluit van de Vlaamse Regering van 2003-12-05 tot regeling van het voeren van de rechtsgedingen van de Vlaamse Gemeenschap en het Vlaamse Gewest",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1012094/VolledigDocument?datum=2006-06-01",
-  "source_sha256": "f3807c3ae078d35c259cc66235e27c0bc2417d6012873a4ed91d31db02e89a9e",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1012094/VolledigDocument?datum=2006-07-01",
+  "source_sha256": "b106459eccb94d2bd8f8bd208ef85a81f0bd34412723ca756d3065344d9d56e6",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1012094&param=informatie",
-  "as_of": "2006-06-01",
+  "as_of": "2006-07-01",
   "made": "2003-12-05",
   "gazette": "2004-02-20",
   "numac": 2004035272,
   "document_start": null,
   "document_end": "2006-06-30",
-  "in_force": "2006-06-01",
+  "in_force": "2006-07-01",
   "article_versions": 7,
-  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2006-07-01; future article versions excluded; article text as the API gives it"
 }
