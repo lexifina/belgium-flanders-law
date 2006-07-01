@@ -1,0 +1,17 @@
+{
+  "codex_id": 1015038,
+  "title": "Besluit van de Vlaamse Regering van 2006-07-14 tot wijziging van het besluit van de Vlaamse Regering van 18 november 1997 betreffende de vrijstelling van successierechten voor familiale ondernemingen en familiale vennootschappen",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1015038/VolledigDocument?datum=2006-07-01",
+  "source_sha256": "aec39c0bd3df23b4b085ff720bd756723ba3436d3d1c3c8aef859107efd1ee54",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1015038&param=informatie",
+  "as_of": "2006-07-01",
+  "made": "2006-07-14",
+  "gazette": "2006-10-17",
+  "numac": 2006036421,
+  "document_start": "2006-10-17",
+  "document_end": null,
+  "in_force": "2006-07-01",
+  "article_versions": 1,
+  "record_form": "consolidated version as in force on 2006-07-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
