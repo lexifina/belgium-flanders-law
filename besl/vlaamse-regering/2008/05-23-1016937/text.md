@@ -32,6 +32,14 @@ In artikel VI 90 van hetzelfde besluit, ingevoegd bij het besluit van de Vlaamse
 
 In artikel VI 92, § 3, eerste lid, van hetzelfde besluit, ingevoegd bij het besluit van de Vlaamse Regering van 16 maart 2007, worden tussen het woord « redenen » en de woorden « of op verzoek » de woorden « , om organisatorische redenen » ingevoegd.
 
+### ART. 66.
+
+In artikel VII 6, § 2, van hetzelfde besluit, ingevoegd bij het besluit van de Vlaamse Regering van 16 maart 2007, worden tussen de woorden "hebben" en de woorden ", ontvangt" de woorden "of die een kind ten laste heeft dat recht geeft op bijkomende kinderbijslag wegens zijn aandoening of handicap" ingevoegd.
+
+### ART. 67.
+
+Aan artikel VII 8 van hetzelfde besluit, ingevoegd bij het besluit van de Vlaamse Regering van 16 maart 2007, wordt een derde lid toegevoegd, dat luidt als volgt :<br /><br />« Het contractuele personeelslid behoudt in geval van carenzdag zijn bezoldiging voor de betrokken dag. »
+
 ### ART. 69.
 
 <p>In artikel VII 12 van hetzelfde besluit, ingevoegd bij het besluit van de Vlaamse Regering van 16 maart 2007, worden de volgende wijzigingen aangebracht :<br>
@@ -164,6 +172,285 @@ a) onder de salarisbepaling van « Adjunct eerste opdrachthouder A263 » worden 
 <br>
 3° § 4 wordt opgeheven.</p>
 
+### ART. 71.
+
+In artikel VII 22 van hetzelfde besluit, ingevoegd bij het besluit van de Vlaamse Regering van 16 maart 2007, wordt § 2 vervangen door wat volgt :<br>
+<br>
+« § 2. De eindejaarstoelage is gelijk aan het hieronder bepaalde percentage van het brutosalaris van de maand november :
+<table border="0" cellpadding="0" cellspacing="0" style="border-collapse:collapse; width:433.75pt">
+	<tbody>
+		<tr>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:black 1pt solid; border-right:black 1pt solid; border-top:black 1pt solid; height:14.2pt; width:149.4pt">
+			<p><!--?xml:namespace         prefix = o ns = "urn:schemas-microsoft-com:office:office"         /-->&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:black 1pt solid; height:14.2pt; width:90pt">
+			<p>tot en met het kalenderjaar</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:black 1pt solid; height:14.2pt; width:90pt">
+			<p>% van het brutosalaris</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:black 1pt solid; height:14.2pt; width:72pt">
+			<p>vanaf kalenderjaar</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:black 1pt solid; height:14.2pt; width:90pt">
+			<p>% van het brutosalaris</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:black 1pt solid; border-right:black 1pt solid; border-top:#f0f0f0; height:14.2pt; width:149.4pt">
+			<p>voor de rangen A2 en hoger, A291, A292, A168, A169, A118, A119, A129, A128 en A148</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.2pt; width:90pt">
+			<p>2008</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.2pt; width:90pt">
+			<p>53 %</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.2pt; width:72pt">
+			<p>2009</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.2pt; width:90pt">
+			<p>54,6 %</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:black 1pt solid; border-right:black 1pt solid; border-top:#f0f0f0; height:14.2pt; width:149.4pt">
+			<p>voor de rangen A1, B3, B2, C3 en C2</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.2pt; width:90pt">
+			<p>2007</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.2pt; width:90pt">
+			<p>59 %</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.2pt; width:72pt">
+			<p>2008</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.2pt; width:90pt">
+			<p>60,8 %</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:black 1pt solid; border-right:black 1pt solid; border-top:#f0f0f0; height:14.2pt; width:149.4pt">
+			<p>voor de rangen B1, C1, D3 en D2</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.2pt; width:90pt">
+			<p>2006</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.2pt; width:90pt">
+			<p>65 %</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.2pt; width:72pt">
+			<p>2007</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.2pt; width:90pt">
+			<p>67,6 %</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:black 1pt solid; border-right:black 1pt solid; border-top:#f0f0f0; height:14.2pt; width:149.4pt">
+			<p>voor de rang D1</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.2pt; width:90pt">
+			<p>2005</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.2pt; width:90pt">
+			<p>70 %</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.2pt; width:72pt">
+			<p>2006</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.2pt; width:90pt">
+			<p>73,5 %</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+<p>&nbsp;</p>
+
+### ART. 73.
+
+In artikel VII 31 van hetzelfde besluit, ingevoegd bij het besluit van de Vlaamse Regering van 16 maart 2007, wordt het bedrag "2 euro" vervangen door het bedrag "3 euro".
+
+### ART. 74.
+
+Aan artikel VII 32, § 2, van hetzelfde besluit, ingevoegd bij het besluit van de Vlaamse Regering van 16 maart 2007, worden volgende woorden toegevoegd :<br />« , de toelage voor overloon en de toelage voor zaterdagprestaties, met uitzondering van :<br /><br />1° het personeelslid van de rang A1 die een diensthoofdentoelage geniet als vermeld in artikel VII 153;<br /><br />2° het personeelslid van de graad van loods. »
+
+### ART. 78.
+
+In artikel VII 60, § 1, van hetzelfde besluit, ingevoegd bij het besluit van de Vlaamse Regering van 16 maart 2007, wordt de tabel vervangen door wat volgt :<br>
+
+<table border="1" cellpadding="0" cellspacing="0" style="border-collapse:collapse; width:460.5pt">
+	<tbody>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; height:14.2pt; width:92.1pt">
+			<p>loodstoelage in euro<!--?xml:namespace prefix = o ns =         "urn:schemas-microsoft-com:office:office" /--></p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; height:14.2pt; width:92.1pt">
+			<p>groep 1</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; height:14.2pt; width:92.1pt">
+			<p>groep 2 na 6 jaar</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; height:14.2pt; width:92.1pt">
+			<p>groep 3 na 12 jaar</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; height:14.2pt; width:92.1pt">
+			<p>groep 4 na 14 jaar</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; width:92.1pt">
+			<p>rivierloodsen</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; width:92.1pt">
+			<p>141,09</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; width:92.1pt">
+			<p>168,27</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; width:92.1pt">
+			<p>199,48</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; width:92.1pt">
+			<p>237,23</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; width:92.1pt">
+			<p>Kanaalloodsen</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; width:92.1pt">
+			<p>140,94</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; width:92.1pt">
+			<p>168,12</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; width:92.1pt">
+			<p>199,33</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; width:92.1pt">
+			<p>237,08</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; width:92.1pt">
+			<p>Scheldemondenloodsen</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; width:92.1pt">
+			<p>55,10</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; width:92.1pt">
+			<p>78,26</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; width:92.1pt">
+			<p>91,34</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; width:92.1pt">
+			<p>134,13</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; width:92.1pt">
+			<p>kustloodsen</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; width:92.1pt">
+			<p>90,43</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; width:92.1pt">
+			<p>122,14</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; width:92.1pt">
+			<p>164,42</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; width:92.1pt">
+			<p>198,65</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+<p>&nbsp;</p>
+
+### ART. 79.
+
+In artikel VII 63 van hetzelfde besluit, ingevoegd bij het besluit van de Vlaamse Regering van 16 maart 2007, wordt de tabel vervangen door wat volgt :
+<table border="1" cellpadding="0" cellspacing="0" style="border-collapse:collapse">
+	<tbody>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; height:14.2pt; width:115.15pt">
+			<p><!--?xml:namespace prefix = o ns =         "urn:schemas-microsoft-com:office:office"   /-->&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; height:14.2pt; width:115.15pt">
+			<p>algemene toelage</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; height:14.2pt; width:115.15pt">
+			<p>toelage voor extraprestaties</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; height:14.2pt; width:115.15pt">
+			<p>toelage voor het effectief geven van opleiding en het afnemen van proefreizen aan de hoofd-schipper - gezagvoerder van de loodsboot Tender en andere nautische functies</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; width:115.15pt">
+			<p>loods, chefloods (dagdienst)</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; width:115.15pt">
+			<p>4.245 euro</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; width:115.15pt">
+			<p>2.305 euro</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; width:115.15pt">
+			<p>&nbsp;</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; width:115.15pt">
+			<p>loods, chefloods (continudienst) of nautisch dienstchef</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; width:115.15pt">
+			<p>4.245 euro</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; width:115.15pt">
+			<p>5.361 euro</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; width:115.15pt">
+			<p>&nbsp;</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; width:115.15pt">
+			<p>loods, kapitein van de loodsboot</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; width:115.15pt">
+			<p>4.245 euro</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; width:115.15pt">
+			<p>13.321 euro</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; width:115.15pt">
+			<p>10.000 euro</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; width:115.15pt">
+			<p>loods, stuurman van de loodsboot</p>
+			</td>
+			<td colspan="3" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; width:345.45pt">
+			<p>80 % van de toelagen van de kapitein</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+<p>&nbsp;</p>
+
+### ART. 90.
+
+In artikel VII 118, § 1, van hetzelfde besluit, ingevoegd bij het besluit van de Vlaamse Regering van 16 maart 2007, wordt het getal « 2.874,03 » vervangen door het getal « 3.056,03 ».
+
 ### ART. 93.
 
 Artikel VII 151 van hetzelfde besluit, ingevoegd bij het besluit van de Vlaamse Regering van 16 maart 2007, wordt als volgt gewijzigd :<br /><br />1° wordt opgeheven;<br /><br />2° wordt terug ingevoegd als volgt :<br /><br />Ambtenaren van rang A1 die op de datum van de inwerkingtreding van dit besluit de diensthoofdentoelage bedoeld in artikel XIII 25 en XIII 26 van het besluit van de Vlaamse Regering van 13 januari 2006 houdende vaststelling van de rechtspositie van het personeel van de diensten van de Vlaamse overheid zoals gewijzigd bij besluit van 16 maart 2007 genieten, behouden in de volgende gevallen deze toelage :<br />1° De huidige titularissen van de A1-diensthoofdentoelage die bevorderd worden tot een functie van N-2 en wiens salaris in N-2 lager is dan het A1-salaris verhoogd met 10% totdat hun salaris in rang A2 hoger wordt dan de som van hun salaris in rang A1 verhoogd met de diensthoofdentoelage;<br />2° De huidige titularissen van de A1-diensthoofdentoelage die niet bevorderd worden in een functie van N-2, maar die de functie blijven uitoefenen en niet gevat worden door toepassing van vermelde overgangsregel, behouden ten persoonlijken titel de A1-diensthoofdentoelage.
@@ -171,6 +458,18 @@ Artikel VII 151 van hetzelfde besluit, ingevoegd bij het besluit van de Vlaamse 
 ### ART. 96.
 
 In artikel X 9 van hetzelfde besluit, gewijzigd bij het besluit van de Vlaamse Regering van 16 maart 2007, worden de volgende wijzigingen aangebracht :<br /><br />1° in § 1 wordt tussen het tweede en het derde lid een nieuw lid ingevoegd, dat luidt als volgt :<br /><br />« Boven op de 35 werkdagen vakantie heeft het personeelslid van 55 jaar of ouder recht op volgend aantal extra werkdagen vakantie :<br />1. vanaf 55 jaar : 1 werkdag;<br />2. vanaf 57 jaar : 2 werkdagen;<br />3. vanaf 59 jaar : 3 werkdagen;<br />4. vanaf 60 jaar : 4 werkdagen;<br />5. vanaf 61 jaar : 5 werkdagen.<br /><br />Deze regeling is niet van toepassing op personeelsleden die van een bijzondere verlofregeling van de openbare ziekenhuizen genieten, of de bijzondere verlofregeling, vermeld in § 3. »<br /><br />2° in § 1 wordt een vijfde lid toegevoegd, dat luidt als volgt :<br /><br />« Ingeval het personeelslid door ziekte of arbeidsongeval zijn vakantieverlofdagen niet heeft kunnen opnemen vóór de pensionering, worden de bepalingen van artikel VII 11, § 2 toegepast. »<br /><br />3° in § 3 wordt het woord « ambtenaren » vervangen door het woord « personeelsleden ».
+
+### ART. 98.
+
+In artikel X 17, § 2, van hetzelfde besluit wordt de tweede zin vervangen door wat volgt :<br /><br />« Een contractueel personeelslid heeft evenwel geen recht op salaris voor de afwezigheid waarvoor een beroep kan worden gedaan op ziekte-uitkeringen ».
+
+### ART. 99.
+
+In artikel X 25, van hetzelfde besluit, wordt § 1 vervangen door wat volgt :<br /><br />« § 1. Een ambtenaar kan een verlof voor deeltijdse prestaties krijgen.<br /><br />Het verlof voor deeltijdse prestaties is alleen een recht voor ambtenaren van rang A2 en lager, die geen directeursfunctie uitoefenen en die zich in een van volgende situaties bevinden :<br />1° de leeftijd van 50 jaar bereikt hebben;<br />2° ten minste twee kinderen ten laste hebben die nog niet de leeftijd van 15 jaar bereikt hebben;<br />3° een kind ten laste hebben dat recht geeft op bijkomende kinderbijslag wegens zijn aandoening of handicap.<br /><br />Voor de top- en middenkaderfuncties gelden de bepalingen van deel V. »
+
+### ART. 109.
+
+Artikel XI 7 van hetzelfde besluit wordt vervangen door wat volgt :<br /><br />« Art. XI 7. De ambtenaar die 60 jaar geworden is, wordt op rust gesteld op de eerste dag van de maand die volgt op de maand waarin hij, zonder definitief ongeschikt te zijn bevonden, komt tot een totaal van 222 werkdagen wegens ziekte, te rekenen vanaf de leeftijd van 60 jaar.<br /><br />Op verzoek van de ambtenaar en na akkoord van de lijnmanager of de functioneel bevoegde minister(s) kan de opruststelling met 6 maanden worden uitgesteld. Die periode kan meermaals stilzwijgend verlengd worden met een periode van 6 maanden.<br /><br />De lijnmanager of de functioneel bevoegde minister kan de beslissing tot uitstel van de opruststelling op elk moment op gemotiveerde wijze intrekken, waardoor de ambtenaar ambtshalve op rust gesteld wordt op de eerste dag van de maand die volgt op de maand waarin de beslissing ingetrokken wordt.<br /><br />Als de opruststelling wordt uitgesteld, moet de ambtenaar de niet-opgenomen vakantieverlofdagen opnemen vóór de datum van opruststelling.<br /><br />Als de ambtenaar de vakantieverlofdagen niet heeft kunnen opnemen vóór de datum van opruststelling, worden de bepalingen van artikel VII 11, § 2 toegepast. »
 
 ### BIJLAGE
 
