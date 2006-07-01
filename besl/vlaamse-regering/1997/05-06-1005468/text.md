@@ -2,19 +2,19 @@
 
 ### ART. 1.
 
-Voor de toepassing van dit besluit wordt verstaan onder:<br /><br />1° centra: de centra voor opsporing van de aangeboren metabolische afwijkingen;<br /><br />2° minister: de Vlaamse minister, bevoegd voor het gezondheidsbeleid;<br /><br />3° administratie: [het intern verzelfstandigd agentschap Zorg en Gezondheid of het intern verzelfstandigd agentschap Inspectie Welzijn, Volksgezondheid en Gezin  <span class="reference">(verv. B.V.R. 31 maart 2006, art. 46, I :1 april 2006)</span> ];<br /><br />4° de aangeboren metabolische afwijkingen: de fenylketonurie en de hypothyreoïdie.
+Voor de toepassing van dit besluit wordt verstaan onder:<br />1° centra: de centra voor opsporing van de aangeboren metabolische afwijkingen;<br />2° minister: de Vlaamse minister, bevoegd voor het gezondheidsbeleid;<br />3° administratie: het intern verzelfstandigd agentschap Zorg en Gezondheid of het intern verzelfstandigd agentschap Inspectie Welzijn, Volksgezondheid en Gezin;<br />4° de aangeboren metabolische afwijkingen: de fenylketonurie en de hypothyreoïdie.<br />5° de administrateur-generaal : het hoofd van het intern verzelfstandigd agentschap Zorg en Gezondheid.
 
 ### ART. 2.
 
-Binnen de perken van de kredieten ingeschreven op de begroting, kan de minister overeenkomstig de bepalingen van dit besluit subsidies verlenen aan de centra.
+Binnen de perken van de kredieten ingeschreven op de begroting, kan de administrateur-generaal overeenkomstig de bepalingen van dit besluit subsidies verlenen aan de centra.
 
 ### ART. 3.
 
-Om die subsidies te kunnen krijgen, moeten de in artikel 2 bedoelde centra door de minister erkend zijn en daartoe aan de onderstaande voorwaarden voldoen:<br /><br />1° beschikken over gespecialiseerde diensten en gespecialiseerd personeel en zich wat de opsporingstechniek betreft, schikken naar de eisen door de minister bepaald;<br /><br />2° geen winstgevend of commercieel karakter hebben;<br /><br />3° zich onderwerpen aan de door de minister ingevoerde inspectie en controle;<br /><br />4° beantwoorden aan de geldende kwaliteitsnormen inzake de opsporing, door deelname aan interne en externe kwaliteitstoetsingssystemen.
+Om die subsidies te kunnen krijgen, moeten de in artikel 2 bedoelde centra door de minister erkend zijn en daartoe aan de onderstaande voorwaarden voldoen:<br />1° beschikken over gespecialiseerde diensten en gespecialiseerd personeel en zich wat de opsporingstechniek betreft, schikken naar de eisen door de administrateur-generaal bepaald;<br />2° geen winstgevend of commercieel karakter hebben;<br />3° zich onderwerpen aan de door de administrateur-generaal ingevoerde inspectie en controle;<br />4° beantwoorden aan de geldende kwaliteitsnormen inzake de opsporing, door deelname aan interne en externe kwaliteitstoetsingssystemen.
 
 ### ART. 4.
 
-De erkenning wordt verleend voor een duur van ten hoogste 6 jaar. Als de erkenningsvoorwaarden niet worden nageleefd, kan de minister te allen tijde de erkenning intrekken. De minister bepaalt daarbij de datum vanaf wanneer de intrekking van erkenning uitwerking heeft.<br /><br />De minister bepaalt de procedure van erkenning, verlenging van erkenning en intrekking van erkenning.
+De erkenning wordt verleend voor een duur van ten hoogste 6 jaar. Als de erkenningsvoorwaarden niet worden nageleefd, kan de administrateur-generaal te allen tijde de erkenning intrekken. De administrateur-generaal bepaalt daarbij de datum vanaf wanneer de intrekking van erkenning uitwerking heeft.<br /><br />De administrateur-generaal bepaalt de procedure van erkenning, verlenging van erkenning en intrekking van erkenning.
 
 ### ART. 5.
 
@@ -34,7 +34,7 @@ De in artikel 6 vastgelegde subsidie wordt alleen verleend voor prestaties die z
 
 ### ART. 9.
 
-De in artikel 6 bepaalde subsidies worden om de drie maanden vereffend aan de erkende centra na overlegging aan de administratie van de nodige bescheiden en bewijsstukken die de minister bepaalt.
+De in artikel 6 bepaalde subsidies worden om de drie maanden vereffend aan de erkende centra na overlegging aan de administratie van de nodige bescheiden en bewijsstukken die de administrateur-generaal bepaalt.
 
 ### ART. 10.
 
