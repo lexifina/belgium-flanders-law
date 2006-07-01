@@ -4,21 +4,17 @@
 
 ### ART. 1.
 
-Voor de toepassing van dit besluit wordt verstaan onder:<br /><br />1° de minister: het lid van de Vlaamse regering, bevoegd voor de ruimtelijke ordening;<br /><br />2° de administratie: de administratie ruimtelijke ordening, huisvesting en monumenten en landschappen;<br /><br />3° strategisch project, verder project te noemen: het project dient een wezenlijke bijdrage te leveren tot de uitvoering van het plan van aanleg, in het bijzonder ter versterking van een geïntegreerd beleid in stedelijke gebieden, en heeft betrekking op de aanleg van het openbaar domein ten voordele van voetgangers, fietsers en openbaar vervoer, verbetering van groenvoorzieningen en verbetering van de woonomgeving;<br /><br />4° initiatiefnemer: een provincie, een gemeente of een openbaar centrum voor maatschappelijk welzijn;<br /><br />5° verwerving: het in eigendom verwerven van gronden en/of panden, hetzij door aankoop, hetzij door onteigening.
-
-### ART. 1.
-
 Voor de toepassing van dit besluit wordt verstaan onder:<br /><br />1° de minister: het lid van de Vlaamse regering, bevoegd voor de ruimtelijke ordening;<br /><br />2° het agentschap : het agentschap RO-Vlaanderen van het Vlaams Ministerie van Ruimtelijke Ordening, Woonbeleid en Onroerend Erfgoed;<br /><br />3° strategisch project, verder project te noemen: het project dient een wezenlijke bijdrage te leveren tot de uitvoering van het plan van aanleg, in het bijzonder ter versterking van een geïntegreerd beleid in stedelijke gebieden, en heeft betrekking op de aanleg van het openbaar domein ten voordele van voetgangers, fietsers en openbaar vervoer, verbetering van groenvoorzieningen en verbetering van de woonomgeving;<br /><br />4° initiatiefnemer: een provincie, een gemeente of een openbaar centrum voor maatschappelijk welzijn;<br /><br />5° verwerving: het in eigendom verwerven van gronden en/of panden, hetzij door aankoop, hetzij door onteigening.
 
 ### ART. 2.
 
-Binnen de perken van de daartoe op de begroting van de Vlaamse Gemeenschap beschikbare kredieten kunnen tegemoetkomingen worden toegekend onder de bij dit besluit gestelde voorwaarden:<br /><br />1° aan een initiatiefnemer, voor verwerving met het oog op de realisatie van een project;<br /><br />2° aan een gemeente, voor het actualiseren van de inventaris van de onbebouwde percelen zoals bedoeld in artikel 63, § 2, van de wet van 29 maart 1962 houdende organisatie van de Ruimtelijke Ordening en van de Stedebouw, zoals nadien gewijzigd;<br /><br />3° aan de provincies, om een eenvormige methode te ontwikkelen voor registratie van gegevens met het oog op de uitbouw van een grond- en pandenbank;<br /><br />4° aan een gemeente, voor herverkavelingsinitiatieven overeenkomstig hoofdstuk IV van Titel I van de wet van 29 maart 1962 houdende organisatie van de Ruimtelijke Ordening en van de Stedebouw, zoals nadien gewijzigd.
+Binnen de perken van de daartoe op de begroting van de Vlaamse Gemeenschap beschikbare kredieten kunnen tegemoetkomingen worden toegekend onder de bij dit besluit gestelde voorwaarden:<br /><br />1° aan een initiatiefnemer, voor verwerving met het oog op de realisatie van een project;<br /><br />2° aan een gemeente, voor het actualiseren van de inventaris van de onbebouwde percelen als vermeld in artikel 62 van het decreet van 18 mei 1999 houdende de organisatie van de ruimtelijke ordening;<br /><br />3° aan de provincies, om een eenvormige methode te ontwikkelen voor registratie van gegevens met het oog op de uitbouw van een grond- en pandenbank;<br /><br />4° aan een gemeente, voor herverkavelingsinitiatieven als vermeld in artikel 78 van het decreet van 18 mei 1999 houdende de organisatie van de ruimtelijke ordening.
 
 ## HOOFDSTUK II TEGEMOETKOMING VOOR VERWERVING
 
 ### ART. 3.
 
-Om in aanmerking te komen voor een tegemoetkoming moet het project een voorbeeldfunctie voor de inrichting van het gemeentelijk grondgebied hebben, leiden tot ruimtelijke ingrepen die op effectieve en kwalitatieve wijze bijdragen tot de uitvoering van een goedgekeurd bijzonder plan van aanleg dat een functionele verwevenheid beoogt.
+Om in aanmerking te komen voor een tegemoetkoming moet het project een voorbeeldfunctie voor de inrichting van het gemeentelijk grondgebied hebben, leiden tot ruimtelijke ingrepen die op effectieve en kwalitatieve wijze bijdragen tot de uitvoering van een goedgekeurd bijzonder plan van aanleg of een ruimtelijk uitvoeringsplan dat een functionele verwevenheid beoogt.
 
 ### ART. 4.
 
@@ -28,9 +24,13 @@ De initiatiefnemer kan een tegemoetkoming krijgen voor verwerving indien dergeli
 
 De tegemoetkoming voor verwerving bedraagt 50 % als de uit te voeren werkzaamheden binnen het kader van het project betrekking hebben op slechts één van de twee volgende groepen:<br /><br />1° werkzaamheden betreffende:<br /><br />a) de aanleg van het openbaar domein ten voordele van voetgangers en/of fietsers, of<br /><br />b) de uitbreiding en/of kwalitatieve verbetering van de infrastructuur voor het openbaar vervoer;<br /><br />2° werkzaamheden betreffende:<br /><br />a) de uitbreiding en/of kwalitatieve verbetering van de groenvoorziening, of<br /><br />b) de verbetering van de woonomgeving.<br /><br />De tegemoetkoming voor verwerving bedraagt 70 % als de uit te voeren werkzaamheden betrekking hebben op de twee vermelde groepen.
 
+### ART. 6.
+
+De aanvraag tot belofte van tegemoetkoming moet door de initiatiefnemer voor de verwerving worden ingediend bij ter post aangetekend schrijven of tegen ontvangstbewijs bij het agentschap.
+
 ### ART. 7.
 
-De aanvraag tot belofte van tegemoetkoming moet de volgende documenten bevatten:<br /><br />1° een uitvoerige beschrijving van het project;<br /><br />2° een nota die de overeenstemming aantoont van het voorgenomen werk met het bijzonder plan van aanleg en in het bijzonder de verantwoording van de verwerving in het kader van de uitvoering ervan;<br /><br />3° de principiële beslissing van de initiatiefnemer tot verwerving;<br /><br />4° een raming van de kostprijs van de beoogde verwerving, op basis van een schattingsverslag opgesteld door het comité tot aankoop of door de bevoegde ontvanger der registratie;<br /><br />5° de verbintenis van de initiatiefnemer om maatregelen te nemen tot herhuisvesting, als er een verwerving van panden plaatsvindt, en deze panden op het moment van de verwerving een of meer personen tot hoofdverblijfplaats dienen;<br /><br />6° de beslissing van de initiatiefnemer waarbij de tegemoetkoming wordt aangevraagd;<br /><br />7° in voorkomend geval, de melding in welke mate voor dezelfde verwerving een beroep gedaan wordt op de bepalingen van het decreet van 20 maart 1991 betreffende het Investeringsfonds ter verdeling van de subsidie voor bepaalde onroerende investeringen die in de Vlaamse Gemeenschap en het Vlaamse Gewest door of op initiatief van de provincies, de gemeenten of de Vlaamse Gemeenschapscommissie worden gedaan.
+De aanvraag tot belofte van tegemoetkoming moet de volgende documenten bevatten:<br /><br />1° een uitvoerige beschrijving van het project;<br /><br />2° een nota die de overeenstemming aantoont van het voorgenomen werk met het bijzonder plan van aanleg of het ruimtelijk uitvoeringsplan en in het bijzonder de verantwoording van de verwerving in het kader van de uitvoering ervan;<br /><br />3° de principiële beslissing van de initiatiefnemer tot verwerving;<br /><br />4° een raming van de kostprijs van de beoogde verwerving, op basis van een schattingsverslag opgesteld door het comité tot aankoop of door de bevoegde ontvanger der registratie;<br /><br />5° de verbintenis van de initiatiefnemer om maatregelen te nemen tot herhuisvesting, als er een verwerving van panden plaatsvindt, en deze panden op het moment van de verwerving een of meer personen tot hoofdverblijfplaats dienen;<br /><br />6° de beslissing van de initiatiefnemer waarbij de tegemoetkoming wordt aangevraagd;<br /><br />7° in voorkomend geval of en in welke mate de initiatiefnemer voor die verwerving een beroep doet op het decreet van 5 juli 2002 tot vaststelling van de regels inzake de dotatie en de verdeling van het Vlaams Gemeentefonds.
 
 ### ART. 8.
 
@@ -38,25 +38,25 @@ De minister verleent de belofte van tegemoetkoming. Deze belofte vermeldt een ra
 
 ### ART. 9.
 
-Na de verwerving dient de initiatiefnemer bij ter post aangetekend schrijven of tegen ontvangtsbewijs bij de administratie een aanvraag in tot uitbetaling van de tegemoetkoming.
+Na de verwerving dient de initiatiefnemer bij ter post aangetekend schrijven of tegen ontvangtsbewijs bij het agentschap een aanvraag in tot uitbetaling van de tegemoetkoming.
 
 ### ART. 10.
 
-De aanvraag tot uitbetaling van de tegemoetkoming moet de volgende documenten bevatten:<br /><br />1° een [kopie  <span class="reference">(verv. B.V.R. 23 april 2004, art. 13, I: 31 maart 2004)</span> ] van de belofte van subsidie;<br /><br />2° een [kopie  <span class="reference">(verv. B.V.R. 23 april 2004, art. 13, I: 31 maart 2004)</span> ] van de aankoopakte of van het vonnis van onteigening, al naargelang het geval;<br /><br />3° de beslissing van de initiatiefnemer waarbij de uitbetaling van de tegemoetkoming wordt aangevraagd;<br /><br />4° in voorkomend geval, de vermelding van het bedrag ten belope waarvan voor dezelfde verwerving een beroep gedaan wordt op de bepalingen van het decreet van 20 maart 1991 betreffende het Investeringsfonds ter verdeling van de subsidies voor bepaalde onroerende investeringen die in de Vlaamse Gemeenschap en het Vlaamse Gewest door of op initiatief van de provincies, de gemeenten of de Vlaamse Gemeenschapscommissie worden gedaan.
+De aanvraag tot uitbetaling van de tegemoetkoming moet de volgende documenten bevatten:<br /><br />1° een kopie van de belofte van subsidie;<br /><br />2° een kopie van de aankoopakte of van het vonnis van onteigening, al naargelang het geval;<br /><br />3° de beslissing van de initiatiefnemer waarbij de uitbetaling van de tegemoetkoming wordt aangevraagd;<br /><br />4° in voorkomend geval, de vermelding van het bedrag ten belope waarvan voor dezelfde verwerving een beroep gedaan wordt op de bepalingen van het decreet van 5 juli 2002 tot vaststelling van de regels inzake de dotatie en de verdeling van het Vlaams Gemeentefonds.
 
 ### ART. 11.
 
-Het bedrag van de tegemoetkoming wordt berekend op basis van de kostprijs van verwerving zoals die blijkt uit de aankoopakte of het vonnis.<br /><br />Als echter deze kostprijs de raming op basis van het schattingsverslag vermeld in artikel 7, 4°, met meer dan 10 % overschrijdt, wordt slechts het bedrag van die raming vermeerderd met 10 % in acht genomen voor de berekening van de tegemoetkoming.<br /><br />De berekening gebeurt met inachtneming van de beperking van artikel 12.<br /><br />De minister of de daartoe door hem aangewezen ambtenaar van de administratie stelt het bedrag van de tegemoetkoming betaalbaar.
+Het bedrag van de tegemoetkoming wordt berekend op basis van de kostprijs van verwerving zoals die blijkt uit de aankoopakte of het vonnis.<br /><br />Als echter deze kostprijs de raming op basis van het schattingsverslag vermeld in artikel 7, 4°, met meer dan 10 % overschrijdt, wordt slechts het bedrag van die raming vermeerderd met 10 % in acht genomen voor de berekening van de tegemoetkoming.<br /><br />De berekening gebeurt met inachtneming van de beperking van artikel 12.<br /><br />De leidend ambtenaar van het agentschap of de daartoe door hem aangewezen ambtenaar van het agentschap stelt het bedrag van de tegemoetkoming betaalbaar.
 
 ### ART. 12.
 
-Inzake de verwerving mag de tegemoetkoming die verleend wordt op basis van dit besluit, uitsluitend gecumuleerd worden met de tegemoetkomingen op basis van de bepalingen van het decreet van 20 maart 1991 betreffende het Investeringsfonds ter verdeling van de subsidies voor bepaalde onroerende investeringen die in de Vlaamse Gemeenschap en het Vlaamse Gewest door of op initiatief van de provincies, de gemeenten of de Vlaamse Gemeenschapscommissie worden gedaan.<br /><br />De totale tegemoetkoming voor verwerving mag echter niet meer bedragen dan 90 % van het bedrag dat overeenkomstig dit besluit voor tegemoetkoming in aanmerking komt.
+Inzake de verwerving mag de tegemoetkoming die verleend wordt op basis van dit besluit, uitsluitend gecumuleerd worden met de tegemoetkomingen op basis van de bepalingen van het decreet van 5 juli 2002 tot vaststelling van de regels inzake de dotatie en de verdeling van het Vlaams Gemeentefonds. <br /><br />De totale tegemoetkoming voor verwerving mag echter niet meer bedragen dan 90 % van het bedrag dat overeenkomstig dit besluit voor tegemoetkoming in aanmerking komt.
 
 ## HOOFDSTUK III TEGEMOETKOMING OM DE GEMEENTELIJKE INVENTARIS VAN ONBEBOUWDE PERCELEN TE ACTUALISEREN
 
 ### ART. 13.
 
-De gemeente kan een tegemoetkoming krijgen voor het actualiseren van de inventaris van onbebouwde percelen, bedoeld in artikel 63, § 2, van de wet van 29 maart 1962 houdende organisatie van de ruimtelijke ordening en van de stedebouw, ingevoegd bij enig artikel van de wet van 28 juni 1978.<br /><br />Deze tegemoetkoming kan worden toegekend als de gemeente:<br /><br />1° over een registratiesysteem beschikt en uitgewerkt heeft voor de verzameling van gegevens met het oog op inventarisatie;<br /><br />2° beschikt over een eerste geactualiseerde inventaris; deze inventaris wordt als volledig beschouwd indien hij minstens de onbebouwde percelen in woongebieden bevat;<br /><br />3° beschikt over een overzicht van de gronden en panden in eigendom van de gemeente, met hun gebruik.
+De gemeente kan een tegemoetkoming krijgen voor het actualiseren van de inventaris van onbebouwde percelen, vermeld in artikel 62 van het decreet van 18 mei 1999 houdende de organisatie van de ruimtelijke ordening.<br /><br />Deze tegemoetkoming kan worden toegekend als de gemeente:<br /><br />1° over een registratiesysteem beschikt en uitgewerkt heeft voor de verzameling van gegevens met het oog op inventarisatie;<br /><br />2° beschikt over een eerste geactualiseerde inventaris; deze inventaris wordt als volledig beschouwd indien hij minstens de onbebouwde percelen in woongebieden bevat;<br /><br />3° beschikt over een overzicht van de gronden en panden in eigendom van de gemeente, met hun gebruik.
 
 ### ART. 14.
 
@@ -64,15 +64,15 @@ Als deze inventaris is opgemaakt overeenkomstig de bepalingen van het koninklijk
 
 ### ART. 15.
 
-Voor de jaarlijkse bijwerking van de inventaris overeenkomstig artikel 6 van het vermelde besluit, wordt een tegemoetkoming toegekend van:<br /><br />1° [250 euro  <span class="reference">(verv. B.V.R. 14 december 2001, art. 1, I: 1 januari 2002)</span> ] voor een gemeente met een inventaris van minder dan 1.000 onbebouwde percelen voor de bijwerking;<br /><br />2° [625 euro  <span class="reference">(verv. B.V.R. 14 december 2001, art. 1, I: 1 januari 2002)</span> ] voor een gemeente met een inventaris van 1.000 of meer maar minder dan 2.000 onbebouwde percelen voor de bijwerking;<br /><br />3° [1.250 euro  <span class="reference">(verv. B.V.R. 14 december 2001, art. 1, I: 1 januari 2002)</span> ] voor een gemeente met een inventaris van 2.000 of meer onbebouwde percelen voor de bijwerking.<br /><br />Deze tegemoetkoming kan slechts worden verleend nadat het dubbel van de eerste nieuwe geactualiseerde inventaris aan de administratie werd bezorgd. Deze tegemoetkoming wordt verleend voor de bijwerking van een niet-geautomatiseerde inventaris zowel als voor de bijwerking van een geautomatiseerde inventaris.
+Voor de jaarlijkse bijwerking van de inventaris overeenkomstig artikel 6 van het vermelde besluit, wordt een tegemoetkoming toegekend van:<br />1° 250 euro voor een gemeente met een inventaris van minder dan 1.000 onbebouwde percelen voor de bijwerking;<br />2° 625 euro voor een gemeente met een inventaris van 1.000 of meer maar minder dan 2.000 onbebouwde percelen voor de bijwerking;<br />3° 1.250 euro voor een gemeente met een inventaris van 2.000 of meer onbebouwde percelen voor de bijwerking.<br /><br />Deze tegemoetkoming kan slechts worden verleend nadat het dubbel van de eerste nieuwe geactualiseerde inventaris aan het agentschap werd bezorgd. Deze tegemoetkoming wordt verleend voor de bijwerking van een niet-geautomatiseerde inventaris zowel als voor de bijwerking van een geautomatiseerde inventaris.
 
 ### ART. 16.
 
-Nadat het dubbel van de eerste nieuwe geactualiseerde inventaris of de wijzigingen naar aanleiding van de jaarlijkse bijwerking aan de administratie werden opgestuurd, dient de gemeente bij ter post aangetekend schrijven of tegen ontvangstbewijs een aanvraag tot uitbetaling van de tegemoetkoming in bij de administratie.
+Nadat het dubbel van de eerste nieuwe geactualiseerde inventaris of de wijzigingen naar aanleiding van de jaarlijkse bijwerking aan het agentschap werden opgestuurd, dient de gemeente bij ter post aangetekend schrijven of tegen ontvangstbewijs een aanvraag tot uitbetaling van de tegemoetkoming in bij het agentschap.
 
 ### ART. 17.
 
-Het bedrag van de tegemoetkoming voor de eerste nieuwe geactualiseerde inventaris wordt berekend op basis van de gegevens van het aan de administratie opgestuurde dubbel van de eerste nieuwe geactualiseerde inventaris.<br /><br />De minister of de daartoe door hem aangewezen ambtenaar van de administratie stelt het bedrag van de tegemoetkoming betaalbaar.
+Het bedrag van de tegemoetkoming voor de eerste nieuwe geactualiseerde inventaris wordt berekend op basis van de gegevens van het aan het agentschap opgestuurde dubbel van de eerste nieuwe geactualiseerde inventaris.<br /><br />De leidend ambtenaar van het agentschap of de daartoe door hem aangewezen ambtenaar van het agentschap stelt het bedrag van de tegemoetkoming betaalbaar.
 
 ## HOOFDSTUK IV TEGEMOETKOMING VOOR PROVINCIES OM EEN EENVORMIGE METHODE TE ONTWIKKELEN VOOR REGISTRATIE VAN GEGEVENS MET HET OOG OP DE UITBOUW VAN EEN GROND- EN PANDENBANK
 
@@ -90,17 +90,17 @@ De tegemoetkoming kan slechts worden toegekend als aangetoond wordt dat voor min
 
 ### ART. 21.
 
-De aanvraag tot uitbetaling van de tegemoetkoming moet na het ontwikkelen van de methode door de betrokken provincies gezamenlijk bij de administratie worden ingediend bij ter post aangetekend schrijven of tegen ontvangstbewijs en het dient de volgende documenten te bevatten:<br /><br />1° de beslissing van de betrokken provincies waarbij de tegemoetkoming wordt aangevraagd;<br /><br />2° een uitvoerige beschrijving van de ontwikkelde methode, waaronder ook de beschrijving van de methode voor gegevensverzameling en de methode om de verzamelde gegevens te actualiseren;<br /><br />3° stukken die de uitgaven met betrekking tot de ontwikkeling van de methode van registratie aantonen ten belope van ten minste [12.500 euro.  <span class="reference">(verv. B.V.R. 14 december 2001, art. 1, I: 1 januari 2002)</span> ]
+De aanvraag tot uitbetaling van de tegemoetkoming moet na het ontwikkelen van de methode door de betrokken provincies gezamenlijk bij het departement Ruimtelijke Ordening, Woonbeleid en Onroerend Erfgoed worden ingediend bij ter post aangetekend schrijven of tegen ontvangstbewijs en het dient de volgende documenten te bevatten:<br />1° de beslissing van de betrokken provincies waarbij de tegemoetkoming wordt aangevraagd;<br />2° een uitvoerige beschrijving van de ontwikkelde methode, waaronder ook de beschrijving van de methode voor gegevensverzameling en de methode om de verzamelde gegevens te actualiseren;<br />3° stukken die de uitgaven met betrekking tot de ontwikkeling van de methode van registratie aantonen ten belope van ten minste 12.500 euro.
 
 ### ART. 22.
 
-De minister of de daartoe door hem aangewezen ambtenaar van de administratie stelt het bedrag van de tegemoetkoming betaalbaar.
+De minister of zijn gemachtigde beslist over de betaalbaarstelling van het bedrag van de tegemoetkoming.
 
 ## HOOFDSTUK V TEGEMOETKOMING VOOR HERVERKAVELINGSINITIATIEVEN
 
 ### ART. 23.
 
-Een gemeente kan een tegemoetkoming krijgen voor een herverkavelinginitiatief als deze herverkaveling effectief bijdraagt tot de uitvoering van een bijzonder plan van aanleg.
+Een gemeente kan een tegemoetkoming krijgen voor een herverkavelinginitiatief als deze herverkaveling effectief bijdraagt tot de uitvoering van een bijzonder plan van aanleg of een ruimtelijk uitvoeringsplan.
 
 ### ART. 24.
 
@@ -108,17 +108,17 @@ De tegemoetkoming bedraagt 20 procent van de kosten voor opmaak van het herverka
 
 ### ART. 25.
 
-Na de goedkeuring van de herverkaveling moet de gemeente de aanvraag voor tegemoetkoming bij de administratie indienen bij een ter post aangetekend schrijven of tegen ontvangstbewijs; het dient de volgende documenten te bevatten<br /><br />1° de beslissing van de gemeente waarbij de tegemoetkoming wordt aangevraagd;<br /><br />2° een nota die het herverkavelingsinitiatief beschrijft en de bijdrage ervan tot de uitvoering van een bijzonder plan van aanleg aantoont;<br /><br />3° stukken die de uitgaven met betrekking tot de opmaak van het herverkavelingsplan aantonen.
+Na de goedkeuring van de herverkaveling moet de gemeente de aanvraag voor tegemoetkoming bij het agentschap indienen bij een ter post aangetekend schrijven of tegen ontvangstbewijs; het dient de volgende documenten te bevatten<br /><br />1° de beslissing van de gemeente waarbij de tegemoetkoming wordt aangevraagd;<br /><br />2° een nota die het herverkavelingsinitiatief beschrijft en de bijdrage ervan tot de uitvoering van een bijzonder plan van aanleg of ruimtelijk uitvoeringsplan aantoont;<br /><br />3° stukken die de uitgaven met betrekking tot de opmaak van het herverkavelingsplan aantonen.
 
 ### ART. 26.
 
-Het bedrag van de tegemoetkoming wordt berekend op basis van de aangetoonde uitgaven.<br /><br />De minister of de daartoe door hem aangewezen ambtenaar van de administratie stelt het bedrag van de tegemoetkoming betaalbaar.
+Het bedrag van de tegemoetkoming wordt berekend op basis van de aangetoonde uitgaven.<br /><br />De leidend ambtenaar van het agentschap of de daartoe door hem aangewezen ambtenaar van het agentschap stelt het bedrag van de tegemoetkoming betaalbaar.
 
 ## HOOFDSTUK VI CONTROLE EN SANCTIES
 
 ### ART. 27.
 
-De administratie voert de controle uit op de naleving van de voorwaarden gesteld in dit besluit, en de voorwaarden vermeld in het koninklijk besluit van 31 mei 1933 betreffende de verklaringen af te leggen in verband met subsidies, vergoedingen en toelagen, gewijzigd bij wet van 7 juni 1994.
+Het agentschap en het agentschap Inspectie RWO voeren, ieder wat zijn eigen bevoegdheid betreft, de controle uit op de naleving van de voorwaarden gesteld in dit besluit, en de voorwaarden vermeld in het koninklijk besluit van 31 mei 1933 betreffende de verklaringen af te leggen in verband met subsidies, vergoedingen en toelagen, gewijzigd bij wet van 7 juni 1994.
 
 ### ART. 28.
 
@@ -130,7 +130,7 @@ Wanneer binnen drie jaar na de betaalbaarstelling van de tegemoetkoming geen aan
 
 ### ART. 30.
 
-Alle in dit hoofdstuk bedoelde terugbetalingen zijn ten voordele van het fonds voor de planschade.
+Alle in dit hoofdstuk bedoelde terugbetalingen zijn ten voordele van het Grondfonds, vermeld in artikel 144 van het decreet van 18 mei 1999 houdende de organisatie van de ruimtelijke ordening. <br />
 
 ## HOOFDSTUK VII OVERGANGSBEPALING
 
