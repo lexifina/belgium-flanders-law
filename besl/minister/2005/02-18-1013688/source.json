@@ -2,16 +2,16 @@
   "codex_id": 1013688,
   "title": "Ministerieel besluit van 2005-02-18 houdende delegatie van sommige bevoegdheden betreffende het algemeen beleid inzake vastgoedbeheer aan ambtenaren van het Ministerie van de Vlaamse Gemeenschap",
   "type": "Ministerieel besluit",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1013688/VolledigDocument?datum=2006-06-01",
-  "source_sha256": "8fca56c21a56f65d733be647aa53eac85d872dfc6bc60ca568c1b1a5eceac5f4",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1013688/VolledigDocument?datum=2006-07-01",
+  "source_sha256": "26161474c5e5b9bd7ef2463df44ac6cebc29efd7ecc7a48e50555e3b28d1b3d9",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1013688&param=informatie",
-  "as_of": "2006-06-01",
+  "as_of": "2006-07-01",
   "made": "2005-02-18",
   "gazette": "2005-03-08",
   "numac": 2005035296,
   "document_start": "2005-02-18",
   "document_end": "2006-06-30",
-  "in_force": "2006-06-01",
+  "in_force": "2006-07-01",
   "article_versions": 16,
-  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2006-07-01; future article versions excluded; article text as the API gives it"
 }
