@@ -2,16 +2,16 @@
   "codex_id": 1007952,
   "title": "Ministerieel besluit van 2001-03-08 tot uitvoering van het besluit van de Vlaamse regering van 23 februari 2001 tot instelling van een tegemoetkoming bij het bouwen van een nieuwe woning of bij het uitvoeren van werken aan een woning",
   "type": "Ministerieel besluit",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1007952/VolledigDocument?datum=2006-06-01",
-  "source_sha256": "41292c27473d536e07f726947359c77f546811fc1e41552887fccb88487d8dde",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1007952/VolledigDocument?datum=2006-07-01",
+  "source_sha256": "cd0e59bea8a0aa878bd9d9ae97a491b2a4a74757386d921a1456ce54d5768ca7",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1007952&param=informatie",
-  "as_of": "2006-06-01",
+  "as_of": "2006-07-01",
   "made": "2001-03-08",
   "gazette": "2001-04-10",
   "numac": 2001035399,
   "document_start": "2001-03-01",
   "document_end": "2006-06-30",
-  "in_force": "2006-06-01",
+  "in_force": "2006-07-01",
   "article_versions": 12,
-  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2006-07-01; future article versions excluded; article text as the API gives it"
 }

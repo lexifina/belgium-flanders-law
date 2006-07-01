@@ -4,57 +4,57 @@
 
 ### ART. 1.
 
-§ 1. De tegemoetkoming voor het bouwen van een nieuwe woning of voor het uitvoeren van werken aan een woning heeft als bedoeling een maximaal aantal bijkomende woningen te realiseren of bestaande woningen te renoveren. De aanvrager kan hiertoe voor dezelfde woning slechts éénmaal bedoelde tegemoetkoming verkrijgen.<br /><br />§ 2. Voor het bekomen van de tegemoetkoming, bedoeld in § 1, stelt de administratie facultatief aanvraagformulieren ter beschikking. Deze formulieren zijn gehecht als bijlage I aan dit besluit.
+...
 
 ### ART. 2.
 
-§ 1. Het inkomen wordt vastgesteld aan de hand van het aanslagbiljet. Als de aanvrager het aanslagbiljet niet kan voorleggen, wordt het inkomen door de administratie opgevraagd bij de Administratie der Directe Belastingen.<br /><br />Als het inkomen, geattesteerd door de Administratie, bedoeld in het eerste lid, "nihil", "niet belastbaar" of minder dan 10 000 euro bedraagt, wordt:<br /><br />1° het effectief genoten inkomen verder opgevraagd bij de bevoegde diensten van vernoemde Administratie;<br /><br />2° desgevallend het inkomen van het laatst afgelopen jaar of het lopende jaar in aanmerking genomen.<br /><br />In geval bedoeld in het vorig lid, 2°, kan het inkomen met alle middelen worden aangetoond.<br /><br />§ 2. Om na te gaan of de aanvrager voldoet aan de minimuminkomensvoorwaarde van 10 000 euro wordt geen rekening gehouden met de vermindering van 2 100 euro per persoon ten laste.
+...
 
 ### ART. 3.
 
-Als ernstig gehandicapt wordt beschouwd de persoon die op de aanvraagdatum één van de attesten kan voorleggen, genoemd in het besluit van de Vlaamse regering van 12 oktober 1988 tot bepaling van de attesten die in aanmerking genomen worden om een ernstige handicap vast te stellen.
+...
 
 ## HOOFDSTUK II DE TEGEMOETKOMING VOOR HET BOUWEN VAN EEN NIEUWE WONING
 
 ### ART. 4.
 
-Onder bouwen of laten bouwen van een woning, verstaat men:<br /><br />a) het eigenhandig bouwen van een woning;<br /><br />b) het laten bouwen van een woning of appartement door één of meerdere geregistreerde aannemers, waaronder ook het laten bouwen volgens het principe van "sleutel-op-de-deur";<br /><br />c) het kopen van een woning of appartement, waarvan de levering niet vrijgesteld is van belasting over de toegevoegde waarde.
+...
 
 ### ART. 5.
 
-§ 1. Onder open bebouwing verstaat men de ééngezinswoning waarvan geen enkele gevel zich op de perceelsgrens bevindt.<br /><br />Onder gesloten of halfopen bebouwing verstaat men:<br /><br />a) de woningen waarvan tenminste één gevel zich op de perceelsgrens bevindt;<br /><br />b) de appartementen.<br /><br />§ 2. De oppervlakte van het perceel waarop de woning wordt opgericht, wordt vermeld op het formulier B, zoals aangevuld door de ontvanger van registratie en domeinen.<br /><br />Is dit niet het geval, dan kan men de oppervlakte bewijzen aan de hand van één van volgende documenten:<br /><br />a) een kopie van de aankoopakte;<br /><br />b) een attest, afgeleverd door de notaris die de aankoopakte verleden heeft;<br /><br />c) een uittreksel uit de kadastrale legger. Het uittreksel uit de kastastrale legger mag niet ouder zijn dan 1 jaar voorafgaand aan de aanvraagdatum.
+...
 
 ### ART. 6.
 
-§ 1. Om het bouwvolume te bepalen worden de buitenmaten van de bovengrondse constructies in aanmerking genomen. Met de ondergrondse delen die onder het maaiveld liggen wordt geen rekening gehouden. In geval het maaiveld hellend is, wordt het gemiddelde maaiveld berekend.<br /><br />In afwijking van het eerste lid worden de gemeenschappelijke muren voor de helft meegerekend.<br /><br />§ 2. De berekeningswijze bedoeld in § 1, geldt:<br /><br />1° eveneens voor appartementen, met dien verstande dat de gemeenschappelijke ruimtes niet worden meegerekend;<br /><br />2° voor de hoofd- en bijgebouwen die in de bouwvergunning zijn opgenomen.<br /><br />§ 3. Het maximaal toegelaten volume van 475 m3 kan worden verhoogd met 50 m3 voor de personen die zullen samenwonen in de op te richten woning. In dit geval wordt de aanvrager als samenwonend beschouwd voor de te vervullen voorwaarden.
+...
 
 ## HOOFDSTUK III DE TEGEMOETKOMING VOOR HET UITVOEREN VAN WERKEN AAN EEN WONING
 
 ### ART. 7.
 
-De werken die voor de tegemoetkoming in aanmerking komen, zijn de volgende:<br /><br />a) dakwerken;<br /><br />b) gevelwerken;<br /><br />c) gevelschrijnwerk;<br /><br />d) werken aan de binnenstructuur;<br /><br />e) werken aan trappen;<br /><br />f) vochtwering;<br /><br />g) elektrische installatie;<br /><br />h) sanitaire installatie;<br /><br />i) verwarmingsinstallatie.<br /><br />Als de aanvrager de werken niet eigenhandig uitvoert, moeten ze uitgevoerd worden door één of meerdere geregistreerde aannemers.<br /><br />De werken, de modaliteiten en de voorwaarden met betrekking tot energiezuinigheid en warmteverlies, waaraan de werken moeten voldoen, worden nader bepaald in bijlage II bij dit besluit.
+...
 
 ### ART. 8.
 
-§ 1. Binnen de zes maand na toekenning van de tegemoetkoming maakt de aanvrager een afschrift van de facturen ter waarde van 7 500 euro over aan de administratie.<br /><br />Onverminderd het eerste lid maakt de aanvrager na het beëindigen van de werken en ten laatste drie maanden na het verstrijken van de termijn van twee jaar om werken uit te voeren, een afschrift van de resterende facturen over aan de administratie. Het totaal bedrag aan facturen bedraagt minimaal 24 800 euro.<br /><br />Drie maanden voorafgaand aan het verstrijken van de termijn van twee jaar, bedoeld in het tweede lid, stuurt de administratie een herinnering dat een afschrift van de facturen haar moeten overgemaakt worden.<br /><br />§ 2. De facturen moeten dateren van na de aanvraagdatum, met uitzondering van de facturen voor materialen. Deze mogen dateren van zes maanden voor de aanvraagdatum.
+...
 
 ## HOOFDSTUK IV DELEGATIE
 
 ### ART. 9.
 
-(niet opgenomen)<br /><br />(Wijzigt artikel 11 van het ministerieel besluit van 17 maart 1995 houdende delegatie van sommige bevoegdheden inzake leefmilieu, landinrichting, natuurbehoud, waterbeleid en huisvesting, aan ambtenaren van het ministerie van de Vlaamse Gemeenschap)
+...
 
 ## HOOFDSTUK V SLOTBEPALINGEN
 
 ### ART. 10.
 
-Dit besluit treedt in werking op 1 maart 2001.
+...
 
 ## Bijlage I
 
 ### BIJLAGE
 
-Formulieren: (niet opgenomen)<br />
+...
 
 ## Bijlage II
 
