@@ -2,16 +2,16 @@
   "codex_id": 1002806,
   "title": "Besluit van de Vlaamse Regering van 1985-07-10 tot vaststelling van de rechtspleging voor erkenning en sluiting van serviceflatgebouwen, woningcomplexen met dienstverlening en rusthuizen",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1002806/VolledigDocument?datum=2006-06-01",
-  "source_sha256": "d93c3bc9948465eb43a81e2b714d68dbf4f3b9612bc6e97ddd793fdf223c66f9",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1002806/VolledigDocument?datum=2006-07-01",
+  "source_sha256": "4c914af3dfc3e570401ca14939d6b36f4f6fe4c6b5a1e528245bf32a1043a37a",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1002806&param=informatie",
-  "as_of": "2006-06-01",
+  "as_of": "2006-07-01",
   "made": "1985-07-10",
   "gazette": "1985-08-30",
   "numac": 1985024630,
   "document_start": null,
   "document_end": "2012-12-31",
-  "in_force": "2006-06-01",
+  "in_force": "2006-07-01",
   "article_versions": 20,
-  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2006-07-01; future article versions excluded; article text as the API gives it"
 }
