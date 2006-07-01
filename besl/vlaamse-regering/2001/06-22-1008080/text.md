@@ -4,11 +4,11 @@
 
 ### ART. 1.
 
-Voor de toepassing van dit besluit wordt verstaan onder:<br /><br />1° de minister: de Vlaamse minister, bevoegd voor de ruimtelijke ordening;<br /><br />2° de administratie: de administratie Ruimtelijke Ordening, Huisvesting en Monumenten en Landschappen van het ministerie van de Vlaamse Gemeenschap;<br /><br />3° gemeentelijke plannen: gemeentelijke plannen van aanleg of gemeentelijke ruimtelijke uitvoeringsplannen en ontwerpen ervan, rooilijnplannen, onteigeningsplannen.
+Voor de toepassing van dit besluit wordt verstaan onder:<br />1° ...<br />2° het agentschap : het agentschap RO-Vlaanderen van het Vlaams Ministerie van Ruimtelijke Ordening, Woonbeleid en Onroerend Erfgoed <br />3° gemeentelijke plannen: gemeentelijke plannen van aanleg of gemeentelijke ruimtelijke uitvoeringsplannen en ontwerpen ervan, rooilijnplannen, onteigeningsplannen.
 
 ### ART. 2.
 
-Binnen de perken van de daartoe bestemde kredieten op de begroting van de Vlaamse Gemeenschap, worden subsidies toegekend aan gemeenten voor de opmaak van het eerste vergunningenregister en van het eerste plannenregister onder de in dit besluit gestelde voorwaarden. Indien de kredieten voor het betrokken begrotingsjaar zijn uitgeput, krijgt de gemeente het daaropvolgende begrotingsjaar de subsidie.<br /><br />Voor de vergunningen- en plannenregisters, die aan de gestelde voorwaarden voldoen, zal de subsidie worden uitbetaald in de volgorde waarin het verslag van de gewestelijke stedenbouwkundige ambtenaar of de conformverklaring door de Vlaamse regering worden opgemaakt.
+Binnen de perken van de daartoe bestemde kredieten op de begroting van de Vlaamse Gemeenschap, worden subsidies toegekend aan gemeenten voor de opmaak van het eerste vergunningenregister en van het eerste plannenregister onder de in dit besluit gestelde voorwaarden. Indien de kredieten voor het betrokken begrotingsjaar zijn uitgeput, krijgt de gemeente het daaropvolgende begrotingsjaar de subsidie.<br /><br />Voor de vergunningen- en plannenregisters, die aan de gestelde voorwaarden voldoen, zal de subsidie worden uitbetaald in de volgorde waarin het verslag van de gewestelijke stedenbouwkundige ambtenaar of de conformverklaring worden opgemaakt.
 
 ## HOOFDSTUK II SUBSIDIËRING VAN HET EERSTE VERGUNNINGENREGISTER
 
@@ -18,7 +18,7 @@ De subsidie voor de opmaak van het eerste vergunningenregister bedraagt 3.718,40
 
 ### ART. 4.
 
-De subsidie voor de opmaak van het eerste vergunningenregister wordt zonder verdere formaliteiten uitbetaald nadat de gewestelijke stedenbouwkundige ambtenaar zijn verslag over het ontwerp van vergunningenregister heeft afgesloten met een gunstige evaluatie.
+De subsidie voor de opmaak van het eerste vergunningenregister wordt zonder verdere formaliteiten uitbetaald door het agentschap nadat de gewestelijke stedenbouwkundige ambtenaar zijn verslag over het ontwerp van vergunningenregister heeft afgesloten met een gunstige evaluatie.
 
 ## HOOFDSTUK III SUBSIDIËRING VAN HET EERSTE PLANNENREGISTER
 
@@ -28,7 +28,7 @@ De subsidie voor de opmaak van het eerste plannenregister bedraagt:<br /><br />1
 
 ### ART. 6.
 
-De subsidie voor de opmaak van het eerste plannenregister wordt zonder verdere formaliteiten uitbetaald na de conformverklaring van het eerste plannenregister door de Vlaamse regering.
+De subsidie voor de opmaak van het eerste plannenregister wordt zonder verdere formaliteiten uitbetaald door het agentschap na de conformverklaring van het eerste plannenregister.<br />
 
 ## HOOFDSTUK IV SLOTBEPALINGEN
 
