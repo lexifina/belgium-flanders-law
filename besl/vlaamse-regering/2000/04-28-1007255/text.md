@@ -2,11 +2,11 @@
 
 ### ART. 1.
 
-De gewestelijke administraties die over een ontwerp van provinciaal ruimtelijk structuurplan een advies uitbrengen bij de bevoegde adviescommissie, zijn:<br /><br />1° [ het Agentschap voor Binnenlands Bestuur;  <span class="reference">(verv. B.V.R. 28 oktober 2005, art. 15, I: te bepalen door de Vlaamse Regering)</span> ]<br /><br />2° de Administratie Economie;<br /><br />3° de Administratie Land-en Tuinbouw;<br /><br />4° de Administratie Milieu-, Natuur-, Land- en Waterbeheer;<br /><br />5° de Administratie Ruimtelijke Ordening, Huisvesting, Monumenten en Landschappen;<br /><br />6° de Administratie Wegen en Verkeer;<br /><br />7° de Administratie Waterwegen en Zeewezen.
+Over een ontwerp van provinciaal ruimtelijk structuurplan wordt bij de bevoegde adviescommissie advies uitgebracht door :<br />1° het Departement Landbouw en Visserij;<br />2° het Departement Leefmilieu, Natuur en Energie;<br />3° het Departement Mobiliteit en Openbare Werken;<br />4° het Departement Ruimtelijke Ordening, Woonbeleid en Onroerend Erfgoed;<br />5° het Agentschap voor Binnenlands Bestuur;<br />6° Toerisme Vlaanderen;<br />7° het Agentschap Economie;<br />8° naar gelang van de provincie, de betrokken erkende Provinciale Ontwikkelingsmaatschappij;<br />9° het Agentschap voor Natuur en Bos;<br />10° de Vlaamse Milieumaatschappij;<br />11° de Vlaamse Landmaatschappij;<br />12° de Vlaamse Vervoermaatschappij - De Lijn;<br />13° de entiteit van het agentschap RO-Vlaanderen van het Vlaams Ministerie van Ruimtelijke Ordening, Woonbeleid en Onroerend Erfgoed, die met de zorg voor het onroerend erfgoed belast is. <br />
 
 ### ART. 2.
 
-De gewestelijke instellingen die over een ontwerp van provinciaal ruimtelijk structuurplan een advies uitbrengen bij de bevoegde adviescommissie, zijn:<br /><br />1° de Gewestelijke Ontwikkelingsmaatschappij, bevoegd voor het grondgebied van de betrokken provincie;<br /><br />2° het Instituut voor het Archeologisch Patrimonium;<br /><br />3° het Instituut voor Natuurbehoud;<br /><br />4° Toerisme Vlaanderen;<br /><br />5° de Vlaamse Landmaatschappij;<br /><br />6° de Vlaamse Vervoermaatschappij - De Lijn.
+...
 
 ### ART. 3.
 
