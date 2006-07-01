@@ -1,0 +1,17 @@
+{
+  "codex_id": 1014865,
+  "title": "Ministerieel besluit van 2006-07-01 houdende wijziging van het ministerieel besluit van 24 oktober 2005 houdende oprichting en samenstelling van de Commissie vrijstellingen Leegstand woningen",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1014865/VolledigDocument?datum=2006-07-01",
+  "source_sha256": "c23ea95baf9f4bd411398660e9d5c1a5d64988028c8795ab7a7d9ab9d0367801",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1014865&param=informatie",
+  "as_of": "2006-07-01",
+  "made": "2006-07-01",
+  "gazette": "2006-08-23",
+  "numac": 2006036208,
+  "document_start": "2006-07-01",
+  "document_end": null,
+  "in_force": "2006-07-01",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2006-07-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
