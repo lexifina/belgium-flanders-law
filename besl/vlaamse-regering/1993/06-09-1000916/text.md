@@ -34,6 +34,10 @@ Op het einde van ieder trimester wordt een staat van ontvangsten en een staat va
 
 Op het einde van ieder jaar worden een beheersrekening, een rekening van uitvoering van de begroting en een staat van activa en passiva opgesteld; vóór uiterlijk 31 maart van het daaropvolgende jaar moeten deze stukken overgelegd worden.
 
+### ART. 7bis.
+
+De leidend ambtenaar van het intern verzelfstandigd agentschap Wonen-Vlaanderen wordt aangesteld als ordonnateur van de dienst. Hij kan andere ambtenaren van niveau A die tot zijn agentschap behoren, voordragen als ordonnateur.<br />
+
 ## HOOFDSTUK IV [... (opgeh. BVR 1 juni 2012, art.8)]
 
 ### ART. 8.
@@ -48,7 +52,7 @@ De rekenplichtige van de dienst die tegenover het Rekenhof verantwoording moet a
 
 ### ART. 10.
 
-§ 1. Onverminderd de bepalingen van § 2, is de dienst onderworpen aan de bepalingen van de administratieve controle en begrotingscontrole die gelden voor het ministerie van de Vlaamse Gemeenschap en aan de bepalingen inzake de delegatie van bevoegdheden die gelden voor de leden van de Vlaamse regering.<br /><br />§ 2. Verrichtingen ter uitvoering van bestaande overeenkomsten zijn niet onderworpen aan een tussenkomst vooraf van de controle-instanties, zoals bepaald in § 1 van dit artikel, als de ontwerpen van de overeenkomsten in kwestie al door de § 1 genoemde controle-instanties behandeld zijn.
+§ 1. Onverminderd de bepalingen van § 2, is de dienst onderworpen aan de bepalingen van de administratieve controle en begrotingscontrole die gelden voor de Vlaamse ministeries en aan de bepalingen inzake de delegatie van bevoegdheden die gelden voor de leden van de Vlaamse regering.<br /><br />§ 2. Verrichtingen ter uitvoering van bestaande overeenkomsten zijn niet onderworpen aan een tussenkomst vooraf van de controle-instanties, zoals bepaald in § 1 van dit artikel, als de ontwerpen van de overeenkomsten in kwestie al door de § 1 genoemde controle-instanties behandeld zijn.
 
 ### ART. 11.
 
