@@ -2,16 +2,16 @@
   "codex_id": 1005317,
   "title": "Besluit van de Vlaamse Regering van 1996-12-19 betreffende het grond- en pandenbeleid voor huisvestingsdoeleinden in woonkernen, ter uitvoering van de artikelen 94 en 95 van de Huisvestingscode",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1005317/VolledigDocument?datum=2006-06-01",
-  "source_sha256": "07d988ba7df18b44aee23d55cdb563ac4e007b5f4087d5c664fff11cc69a971e",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1005317/VolledigDocument?datum=2006-07-01",
+  "source_sha256": "581120dd1a00f0c99f337972355819811ab4540b1e61e3f8d757f82c58ab6704",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1005317&param=informatie",
-  "as_of": "2006-06-01",
+  "as_of": "2006-07-01",
   "made": "1996-12-19",
   "gazette": "1997-03-06",
   "numac": 1997035096,
   "document_start": null,
   "document_end": "2006-06-30",
-  "in_force": "2006-06-01",
+  "in_force": "2006-07-01",
   "article_versions": 11,
-  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2006-07-01; future article versions excluded; article text as the API gives it"
 }
