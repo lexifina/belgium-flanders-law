@@ -2,16 +2,16 @@
   "codex_id": 1007479,
   "title": "Besluit van de Vlaamse Regering van 2000-05-05 tot instelling van het register van ruimtelijke planners, tot bepaling van de voorwaarden voor opname van personen in dat register en tot vaststelling van nadere regels met betrekking tot de verantwoordelijkheid van ruimtelijke planners voor de opmaak van ruimtelijke structuurplannen[, ruimtelijke beleidsplannen] en ruimtelijke uitvoeringsplannen",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1007479/VolledigDocument?datum=2006-06-01",
-  "source_sha256": "56302dc525a1fb09acef6884b79418031ab01d2ba7e3d4f12c70e0564b043b96",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1007479/VolledigDocument?datum=2006-07-01",
+  "source_sha256": "59a5ea2888ea5cf9f811664bef9d3626ca7f924bab170b7e89902ec05cdefdf2",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1007479&param=informatie",
-  "as_of": "2006-06-01",
+  "as_of": "2006-07-01",
   "made": "2000-05-05",
   "gazette": "2000-07-28",
   "numac": 2000035497,
   "document_start": "2000-08-07",
   "document_end": null,
-  "in_force": "2006-06-01",
+  "in_force": "2006-07-01",
   "article_versions": 17,
-  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2006-07-01; future article versions excluded; article text as the API gives it"
 }

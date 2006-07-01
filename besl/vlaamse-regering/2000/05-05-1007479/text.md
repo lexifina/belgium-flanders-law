@@ -4,13 +4,7 @@
 
 ### ART. 1.
 
-Voor de toepassing van dit besluit wordt verstaan onder:<br>
-<br>
-1° de minister: de Vlaamse minister, bevoegd voor de ruimtelijke ordening;<br>
-<br>
-2° de gewestelijke administratie: de administratie Ruimtelijke Ordening, Huisvesting en Monumenten en Landschappen van het ministerie van de Vlaamse Gemeenschap;<br>
-<br>
-3° het decreet: het decreet van 18 mei 1999 houdende de organisatie van de ruimtelijke ordening.
+Voor de toepassing van dit besluit wordt verstaan onder:<br /><br />1° de minister: de Vlaamse minister, bevoegd voor de ruimtelijke ordening;<br /><br />2° het departement : het Departement Ruimtelijke Ordening, Woonbeleid en Onroerend Erfgoed; <br /><br />3° het decreet: het decreet van 18 mei 1999 houdende de organisatie van de ruimtelijke ordening.
 
 ## HOOFDSTUK II HET REGISTER VAN RUIMTELIJKE PLANNERS
 
@@ -20,11 +14,7 @@ Er wordt voor het hele grondgebied van het Vlaamse gewest een register aangelegd
 
 ### ART. 3.
 
-De opname in het register van ruimtelijke planners gebeurt op aanvraag.<br>
-<br>
-De aanvraag moet de identiteit en het adres van de aanvrager vermelden en [kopieën (verv. B.V.R. 23 april 2004, art. 21, I: 31 maart 2004) ] bevatten van de overeenkomstig artikel 5 vereiste diploma's of getuigschriften.<br>
-<br>
-De aanvraag wordt gericht aan de directeur-generaal van de gewestelijke administratie. Ze moet door de aanvrager gedateerd en ondertekend zijn.
+De opname in het register van ruimtelijke planners gebeurt op aanvraag.<br /><br />De aanvraag moet de identiteit en het adres van de aanvrager vermelden en kopieën bevatten van de overeenkomstig artikel 5 vereiste diploma's of getuigschriften.<br /><br />De aanvraag wordt gericht aan de leidend ambtenaar van het departement. Ze moet door de aanvrager gedateerd en ondertekend zijn.
 
 ### ART. 4.
 
@@ -36,7 +26,7 @@ Om te worden opgenomen in het register, moet de aanvrager enerzijds houder zijn 
 
 ### ART. 6.
 
-Binnen 45 dagen na ontvangst van de aanvraag wordt de aanvrager die voldoet aan de vereisten, door de minister of de daartoe door hem gemachtigde schriftelijk op de hoogte gebracht van de opname in het register.<br /><br />Binnen dezelfde termijn worden aanvragers die niet voldoen aan de vereisten, hierover schriftelijk ingelicht.
+Binnen 45 dagen na ontvangst van de aanvraag wordt de aanvrager die voldoet aan de vereisten, door het departement schriftelijk op de hoogte gebracht van de opname in het register.<br /><br />Binnen dezelfde termijn worden aanvragers die niet voldoen aan de vereisten, hierover schriftelijk ingelicht.
 
 ### ART. 7.
 
@@ -48,9 +38,7 @@ Aanvragen voor een hernieuwde opname die niet ingediend worden uiterlijk 60 dage
 
 ### ART. 8.
 
-Het register ligt permanent ter inzage op de centrale zetel van de gewestelijke administratie en op minstens één gedecentraliseerde zetel van die administratie per provincie.<br>
-<br>
-De administratie stuurt onverwijld een gedateerd afschrift van het register op aan elke gemeentelijke of provinciale overheid die daarom verzoekt.
+Het register ligt permanent ter inzage bij het departement en per provincie bij minstens één dienst van het agentschap RO-Vlaanderen van het Vlaams Ministerie van Ruimtelijke Ordening, Woonbeleid en Onroerend Erfgoed; <br /><br />Het departement stuurt onverwijld een gedateerd afschrift van het register op aan elke gemeentelijke of provinciale overheid die daarom verzoekt.
 
 ## HOOFDSTUK III NADERE REGELS MET BETREKKING TOT DE VERANTWOORDELIJKHEID VAN RUIMTELIJKE PLANNERS VOOR DE OPMAAK VAN RUIMTELIJKE STRUCTUURPLANNEN[, RUIMTELIJKE BELEIDSPLANNEN (ing. BVR 30 maart 2018, art. 64, I: 5 mei 2018)] EN RUIMTELIJKE UITVOERINGSPLANNEN
 
@@ -60,7 +48,7 @@ Een ontwerp van gewestelijk, provinciaal en gemeentelijk ruimtelijk structuurpla
 
 ### ART. 10.
 
-Personen die overeenkomstig de bepalingen van het decreet zijn aangesteld als gewestelijk planolo-gisch ambtenaar, als gewestelijk stedenbouwkundig inspecteur, als gewestelijk stedenbouwkundig ambtenaar of als provinciaal of gemeentelijk stedenbouwkundig ambtenaar, kunnen niet als ruimtelijk planner verantwoordelijk zijn voor de opmaak van een ruimtelijk structuurplan of ruimtelijk uitvoeringsplan, behalve in die gevallen waarin dat plan geheel of gedeeltelijk wordt opgemaakt door de betrokken gewestelijke, provinciale of gemeentelijke administratie.
+Personen die overeenkomstig hoofdstuk IV van titel I van het decreet als ambtenaar van ruimtelijke ordening zijn aangesteld, kunnen niet als ruimtelijk planner verantwoordelijk zijn voor de opmaak van een ruimtelijk structuurplan of ruimtelijk uitvoeringsplan, tenzij dat plan geheel of gedeeltelijk opgemaakt wordt door het departement of door de desbetreffende provinciale of gemeentelijke administratie.<br />
 
 ## HOOFDSTUK IV OVERGANGS- EN SLOTBEPALINGEN
 
