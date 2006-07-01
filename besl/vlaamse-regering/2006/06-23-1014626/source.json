@@ -1,0 +1,17 @@
+{
+  "codex_id": 1014626,
+  "title": "Besluit van de Vlaamse Regering van 2006-06-23 tot operationalisering van het beleidsdomein Financiën en Begroting",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1014626/VolledigDocument?datum=2006-07-01",
+  "source_sha256": "7f4964270fc7a90680f800ace7557d45851001ba2aa8ee8d4bd977fbf1055962",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1014626&param=informatie",
+  "as_of": "2006-07-01",
+  "made": "2006-06-23",
+  "gazette": "2006-06-30",
+  "numac": 2006036003,
+  "document_start": "2006-07-01",
+  "document_end": null,
+  "in_force": "2006-07-01",
+  "article_versions": 27,
+  "record_form": "consolidated version as in force on 2006-07-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
