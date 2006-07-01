@@ -97,3 +97,19 @@ In het decreet van 2 april 2004 betreffende de omzetting van de Dienst voor de S
 ## HOOFDSTUK VIII Opheffingsbepalingen
 
 ## HOOFDSTUK IX Slotbepalingen
+
+### ART. 22.
+
+De artikelen 1, 2, 14, 15, 16 en 17 van dit decreet treden in werking op 30 juni 2004. De Vlaamse Regering bepaalt de datum waarop artikel 21 van dit decreet in werking treedt.<br /><br />
+
+### ART. 23.
+
+De artikelen 3, 13 en 20 van dit decreet treden in werking op 1 januari 2006.<br /><br />
+
+### ART. 24.
+
+De artikelen 4 tot en met 12 van dit decreet treden in werking :<br />-voorzover ze betrekking hebben op het Agentschap Waterwegen en Zeekanaal en het Agentschap De Scheepvaart, op 30 juni 2004;<br />- voorzover ze betrekking hebben op het Departement Mobiliteit en Openbare Werken, op 1 januari 2006;<br />- voorzover ze betrekking hebben op het Agentschap voor Maritieme Dienstverlening en Kust, wanneer het besluit van de Vlaamse Regering van 7 oktober 2005 tot oprichting van het intern verzelfstandigd agentschap zonder rechtspersoonlijkheid Agentschap voor Maritieme Dienstverlening en Kust in werking treedt.<br /><br />
+
+### ART. 25.
+
+De artikelen 18 en 19 van dit decreet treden in werking :<br />- voorzover ze betrekking hebben op het Departement Mobiliteit en Openbare Werken, op 1 januari 2006;<br />- voorzover ze betrekking hebben op het Agentschap voor Maritieme Dienstverlening en Kust, wanneer het besluit van de Vlaamse Regering van 7 oktober 2005 tot oprichting van het intern verzelfstandigd agentschap zonder rechtspersoonlijkheid Agentschap voor Maritieme Dienstverlening en Kust in werking treedt.<br /><br />
