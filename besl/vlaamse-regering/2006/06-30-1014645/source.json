@@ -1,0 +1,17 @@
+{
+  "codex_id": 1014645,
+  "title": "Besluit van de Vlaamse Regering van 2006-06-30 betreffende de delegatie voor het voeren van de rechtsgedingen van de Vlaamse Gemeenschap en het Vlaamse Gewest",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1014645/VolledigDocument?datum=2006-07-01",
+  "source_sha256": "cf0edda530b38556a4b179e82d48ee218f20dd314ac6af47f267cfcf37409ca2",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1014645&param=informatie",
+  "as_of": "2006-07-01",
+  "made": "2006-06-30",
+  "gazette": "2006-07-11",
+  "numac": 2006036059,
+  "document_start": "2006-07-01",
+  "document_end": null,
+  "in_force": "2006-07-01",
+  "article_versions": 7,
+  "record_form": "consolidated version as in force on 2006-07-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
