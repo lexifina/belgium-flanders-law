@@ -2,16 +2,16 @@
   "codex_id": 1001809,
   "title": "Besluit van de Vlaamse Regering van 1991-12-11 tot instelling van individuele huursubsidies en een installatiepremie bij het betrekken van een gezonde of aangepaste huurwoning",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1001809/VolledigDocument?datum=2006-06-01",
-  "source_sha256": "1f3d59f542c46a1d8e4dfd9c8a46df888c7907b8bd55cbeef8af92ba5eafd599",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1001809/VolledigDocument?datum=2006-07-01",
+  "source_sha256": "fc5d8ca08c7da8f6d4ff6890a6c38c16bf411e1d6b97aa7358e0a7867fbf899e",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1001809&param=informatie",
-  "as_of": "2006-06-01",
+  "as_of": "2006-07-01",
   "made": "1991-12-11",
   "gazette": "1992-03-17",
   "numac": 1992035346,
   "document_start": "1992-07-01",
   "document_end": "2007-04-30",
-  "in_force": "2006-06-01",
+  "in_force": "2006-07-01",
   "article_versions": 18,
-  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2006-07-01; future article versions excluded; article text as the API gives it"
 }
