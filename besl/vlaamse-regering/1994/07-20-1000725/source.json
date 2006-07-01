@@ -2,16 +2,16 @@
   "codex_id": 1000725,
   "title": "Besluit van de Vlaamse Regering van 1994-07-20 houdende regeling van het beheer van het Investeringsfonds voor Grond- en Woonbeleid voor Vlaams-Brabant, en houdende regeling van de voorwaarden inzake woonprojecten met sociaal karakter",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1000725/VolledigDocument?datum=2006-06-01",
-  "source_sha256": "9b618259f7bc23986a8658f527e0d6447782f6414ebfe14c88660cc5ce5e671d",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1000725/VolledigDocument?datum=2006-07-01",
+  "source_sha256": "3d34563201e0d96cbf5274e561b7ff9aaa59313e12c69c0ad3a7acf45a894fa9",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1000725&param=informatie",
-  "as_of": "2006-06-01",
+  "as_of": "2006-07-01",
   "made": "1994-07-20",
   "gazette": "1994-09-21",
   "numac": 1994036160,
   "document_start": "1994-09-21",
   "document_end": "2011-12-15",
-  "in_force": "2006-06-01",
+  "in_force": "2006-07-01",
   "article_versions": 8,
-  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2006-07-01; future article versions excluded; article text as the API gives it"
 }
