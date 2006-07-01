@@ -2,16 +2,16 @@
   "codex_id": 1011902,
   "title": "Besluit van de Vlaamse Regering van 2003-10-03 betreffende de kwaliteits- en veiligheidsnormen voor kamers en studentenkamers",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1011902/VolledigDocument?datum=2006-06-01",
-  "source_sha256": "b2b9de020ec74cf993a50ba3a0b95c9b0110cf3b7354ce3f37ee0465094436db",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1011902/VolledigDocument?datum=2006-07-01",
+  "source_sha256": "2b45b9fdd3409f105844ffeddf32b0a56186569c2e1f6b082acb23b99c3ef788",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1011902&param=informatie",
-  "as_of": "2006-06-01",
+  "as_of": "2006-07-01",
   "made": "2003-10-03",
   "gazette": "2003-12-10",
   "numac": 2003036146,
   "document_start": "2003-12-10",
   "document_end": "2013-08-10",
-  "in_force": "2006-06-01",
+  "in_force": "2006-07-01",
   "article_versions": 22,
-  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2006-07-01; future article versions excluded; article text as the API gives it"
 }
