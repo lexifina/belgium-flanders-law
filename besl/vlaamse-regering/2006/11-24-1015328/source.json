@@ -1,0 +1,17 @@
+{
+  "codex_id": 1015328,
+  "title": "Besluit van de Vlaamse Regering van 2006-11-24 tot aanpassing van regelgeving in bepaalde sectoren van het beleidsdomein Welzijn, Volksgezondheid en Gezin en van het besluit van de Vlaamse Regering van 3 juni 2005 met betrekking tot de organisatie van de Vlaamse administratie in het kader van het project « Beter Bestuurlijk Beleid »",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1015328/VolledigDocument?datum=2006-07-01",
+  "source_sha256": "1ccb8acd4abef1112257ee650795b0b13a647b9ac1f4f86068e51bbea9ad5ed3",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1015328&param=informatie",
+  "as_of": "2006-07-01",
+  "made": "2006-11-24",
+  "gazette": "2006-12-29",
+  "numac": 2006036990,
+  "document_start": "2006-07-01",
+  "document_end": null,
+  "in_force": "2006-07-01",
+  "article_versions": 14,
+  "record_form": "consolidated version as in force on 2006-07-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
