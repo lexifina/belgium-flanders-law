@@ -40,7 +40,7 @@ De Vlaamse minister kan kredietoverschrijvingen en kredietoverschrijdingen toest
 
 ### ART. 9.
 
-§ 1. De directeur-generaal van de administratie Ruimtelijke Ordening, Huisvesting en Monumenten en Landschappen wordt aangesteld als ordonnateur van het Grondfonds voor de betaalbaarstellingen van kredieten, andere dan die voor de planschadevergoedingen, bedoeld in Titel II, hoofdstuk VIII, afdeling 1 van het decreet. Hij kan andere ambtenaren die tot zijn administratie behoren, voordragen als ordonnateur van het Grondfonds voor de in dit lid bedoelde betaalbaarstellingen.<br /><br />§ 2. De directeur-generaal van de administratie Budgettering, Accounting en Financieel Management wordt belast met de inning van de planbatenheffingen. Hij kan deze bevoegdheid overdragen aan ambtenaren van niveau A die tot zijn administratie behoren.
+De leidend ambtenaar van het Departement Ruimtelijke Ordening, Woonbeleid en Onroerend Erfgoed wordt aangesteld als inhoudelijk ordonnateur van het Grondfonds voor de betaalbaarstelling van kredieten, andere dan voor de verrichtingen inzake de planbatenheffing als vermeld in artikel 87 tot en met 91 van het decreet. Hij kan zijn bevoegdheid delegeren aan ambtenaren van niveau A van het departement.<br /><br />De leidend ambtenaar van de Vlaamse Belastingsdienst wordt aangesteld als inhoudelijk ordonnateur voor de betaalbaarstelling van kredieten voor de verrichtingen inzake de planbatenheffing. Hij wordt tevens belast met de inning van de planbatenheffingen. Hij kan zijn bevoegdheid delegeren aan ambtenaren van niveau A van het agentschap. <br />
 
 ### ART. 10.
 
@@ -48,7 +48,7 @@ Op het einde van ieder kwartaal wordt een staat van ontvangsten en een staat van
 
 ### ART. 11.
 
-§ 1. De Vlaamse minister benoemt, in samenspraak met de Vlaamse minister, bevoegd voor de financiën en de begroting, de rekenplichtigen voor de verrichtingen van het Grondfonds, andere dan de verrichtingen met betrekking tot de planbaten, bedoeld in Titel II, hoofdstuk VIII van het decreet.<br /><br />De directeur-generaal van de administratie Ruimtelijke Ordening, Huisvesting en Monumenten en Landschappen bepaalt voor welke verrichtingen, voortvloeiend uit de toepassing van het decreet betreffende de ruimtelijke ordening, gecoördineerd op 22 oktober 1996 en uit de toepassing van het decreet, de krachtens het eerste lid benoemde rekenplichtigen hun ambt uitoefenen.<br /><br />§ 2. De Vlaamse minister, bevoegd voor de financiën en de begroting benoemt, na overleg met de Vlaamse minister, de rekenplichtige voor alle verrichtingen met betrekking tot de planbaten, bedoeld in Titel II, hoofdstuk VIII van het decreet.
+§ 1. De Vlaamse minister benoemt, in samenspraak met de Vlaamse minister, bevoegd voor de financiën en de begroting, de rekenplichtigen voor de verrichtingen van het Grondfonds, andere dan de verrichtingen met betrekking tot de planbaten, bedoeld in Titel II, hoofdstuk VIII van het decreet.<br /><br />De leidend ambtenaar van het Departement Ruimtelijke Ordening, Woonbeleid en Onroerend Erfgoed bepaalt voor welke verrichtingen, voortvloeiend uit de toepassing van het decreet betreffende de ruimtelijke ordening, gecoördineerd op 22 oktober 1996 en uit de toepassing van het decreet, de krachtens het eerste lid benoemde rekenplichtigen hun ambt uitoefenen.<br /><br />§ 2. De Vlaamse minister, bevoegd voor de financiën en de begroting benoemt, na overleg met de Vlaamse minister, de rekenplichtige voor alle verrichtingen met betrekking tot de planbaten, bedoeld in Titel II, hoofdstuk VIII van het decreet.
 
 ### ART. 12.
 
@@ -70,7 +70,7 @@ Er wordt een vermogenscomptabiliteit gevoerd. Hiertoe wordt onder meer een inven
 
 ### ART. 16.
 
-De directeur-generaal van de administratie Ruimtelijke Ordening, Huisvesting en Monumenten en Landschappen wordt aangesteld als beheerder van het Grondfonds. Hij kan zijn bevoegdheden, bedoeld in dit hoofdstuk, overdragen aan ambtenaren van niveau A die tot zijn administratie behoren. Deze ambtenaren mogen niet als ordonnateur van het Grondfonds worden voorgedragen of benoemd.
+De leidend ambtenaar van het Departement Ruimtelijke Ordening, Woonbeleid en Onroerend Erfgoed wordt aangesteld als beheerder van het Grondfonds. Hij kan zijn bevoegdheden, bedoeld in dit hoofdstuk, overdragen aan ambtenaren van niveau A die tot zijn administratie behoren. Deze ambtenaren mogen niet als ordonnateur van het Grondfonds worden voorgedragen of benoemd.
 
 ### ART. 17.
 
@@ -185,7 +185,7 @@ De rekenplichtige die tegenover het Rekenhof verantwoording moet afleggen, is me
 
 ### ART. 21.
 
-Het Rekenhof en de administratie Budgettering, Accounting en Financieel Management van het ministerie van de Vlaamse Gemeenschap kunnen de rekeningen ter plaatse controleren. Ze mogen te allen tijde alle stukken ter verantwoording, staten, inlichtingen of toelichtingen opvragen die betrekking hebben op de ontvangsten, de uitgaven, de activa en de schulden.<br /><br />De uitgaven worden vereffend en betaald zonder bemiddeling van het Rekenhof en zonder visum van de controleur van de vastleggingen.
+Het Rekenhof en het agentschap Centrale Accounting van het Vlaams Ministerie van Financiën en Begroting kunnen de rekeningen ter plaatse controleren. Ze mogen te allen tijde alle stukken ter verantwoording, staten, inlichtingen of toelichtingen opvragen die betrekking hebben op de ontvangsten, de uitgaven, de activa en de schulden.<br /><br />De uitgaven worden vereffend en betaald zonder bemiddeling van het Rekenhof en zonder visum van de controleur van de vastleggingen.
 
 ## HOOFDSTUK VI SLOTBEPALINGEN
 
