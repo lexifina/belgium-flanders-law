@@ -2,7 +2,7 @@
 
 ### ART. 1.
 
-§ 1. Dit besluit regelt de financiële werking en het financiële beheer van het Fonds voor Flankerend Economisch Beleid, hierna het Hermesfonds te noemen.<br /><br />§ 2. Het inhoudelijke gedeelte dat betrekking heeft op materies waarvan de budgettaire weerslag ten laste valt van het Hermesfonds behoort krachtens het besluit van de Vlaamse regering van 13 juli 2001 tot bepaling van de bevoegdheden van de leden van de Vlaamse regering, tot de bevoegdheid van de Vlaamse minister, bevoegd voor het economisch beleid, die hiervoor subdelegatie kan verlenen aan de leidend ambtenaar van de administratie Economie.
+§ 1. Dit besluit regelt de financiële werking en het financiële beheer van het Fonds voor Flankerend Economisch Beleid, hierna het Hermesfonds te noemen.<br /><br />§ 2. Het inhoudelijke gedeelte dat betrekking heeft op materies waarvan de budgettaire weerslag ten laste valt van het Hermesfonds behoort krachtens het besluit van de Vlaamse regering van 27 juli 2004 tot bepaling van de bevoegdheden van de leden van de Vlaamse regering, tot de bevoegdheid van de Vlaamse minister, bevoegd voor het economisch beleid, die hiervoor subdelegatie kan verlenen aan het hoofd van het Agentschap Economie : intern verzelfstandigd agentschap zonder rechtspersoonlijkheid dat behoort tot het beleidsdomein Economie, Wetenschap en Innovatie.<br />
 
 ### ART. 2.
 
@@ -10,15 +10,15 @@ De bij dit besluit verleende delegaties worden tevens verleend aan het personeel
 
 ### ART. 3.
 
-§ 1. De leidend ambtenaar van de administratie Economie, wordt aangewezen als leidend ambtenaar van het Hermesfonds. Aan hem wordt delegatie van bevoegdheid verleend om, namens de Vlaamse regering, nota's, ambtsberichten, briefwisseling en documenten met betrekking tot het dagelijks beheer en de organisatie van het Hermesfonds te ondertekenen.<br /><br />§ 2. De leidend ambtenaar verleent alle goedkeuringen en ondertekent alle stukken die voor de financiële afhandeling van de dossiers ten laste van het Hermesfonds vereist zijn. Hij voert hierbij de titel van directeur-generaal van het Hermesfonds.
+§ 1. Het hoofd van het Agentschap Economie, wordt aangewezen als leidend ambtenaar van het Hermesfonds. Aan hem wordt delegatie van bevoegdheid verleend om, namens de Vlaamse regering, nota's, ambtsberichten, briefwisseling en documenten met betrekking tot het dagelijks beheer en de organisatie van het Hermesfonds te ondertekenen.<br /><br />§ 2. Het hoofd van het Agentschap Economie verleent alle goedkeuringen en ondertekent alle stukken die voor de financiële afhandeling van de dossiers ten laste van het Hermesfonds vereist zijn. Hij voert hierbij de titel van directeur-generaal van het Hermesfonds.
 
 ### ART. 4.
 
-Het personeel van de administratie Economie en van de Algemene Administratieve Diensten van het departement Economie, Werkgelegenheid, Binnenlandse Aangelegenheden en Landbouw wordt ter beschikking gesteld voor de werking en het beheer van het Hermesfonds.
+Het personeel van het Agentschap Economie en de bevoegde entiteit van het Departement Economie, Wetenschap en Innovatie wordt ter beschikking gesteld voor de werking en het beheer van het Hermesfonds. <br />
 
 ### ART. 5.
 
-De uitrusting en de installaties van de administratie Economie en van de Algemene Administratieve Diensten van het departement Economie, Werkgelegenheid, Binnenlandse Aangelegenheden en Landbouw worden ter beschikking gesteld van het Hermesfonds.
+De uitrusting en de installaties van het Agentschap Economie en de bevoegde entiteit van het Departement Economie, Wetenschap en Innovatie worden ter beschikking gesteld van het Hermesfonds.<br />
 
 ### ART. 6.
 
