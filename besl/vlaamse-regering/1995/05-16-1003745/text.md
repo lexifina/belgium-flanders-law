@@ -2,11 +2,11 @@
 
 ### ART. 1.
 
-[De onbetwiste en opeisbare niet-fiscale schuldvorderingen inzake salarissen, toelagen en vergoedingen van de personeelsleden van het ministerie van de Vlaamse Gemeenschap alsook de administratieve geldboeten, opgenomen in artikel 116septies , § 1, 4°, van de gecoördineerde decreten van 25 januari 1995 betreffende de radio-omroep en de televisie, alsook de administratieve geldboeten met de eventuele invorderingskosten, opgenomen in hoofdstuk III van het decreet van 30 april 2004 tot uniformisering van de toezichts-, sanctie- en strafbepalingen die zijn opgenomen in de regelgeving van de sociaal-rechtelijke aangelegenheden, waarvoor de Vlaamse Gemeenschap en het Vlaams Gewest bevoegd zijn, worden ingevorderd door ambtenaren van de administratie Budgettering, Accounting en Financieel Management van het minsiterie van de Vlaamse Gemeenschap.  <span class="reference">(verv. B.V.R. 14 januari 2005, art. 15, I:24 februari 2005)</span> ]
+De onbetwiste en opeisbare niet-fiscale schuldvorderingen inzake salarissen, toelagen en vergoedingen van de personeelsleden van de Vlaamse ministeries alsook de administratieve geld-boeten, opgenomen in artikel 116septies , § 1, 4°, van de gecoördineerde decreten van 25 januari 1995 betreffende de radio-omroep en de televisie, alsook de administratieve geldboeten met de eventuele invorderingskosten, opgenomen in hoofdstuk III van het decreet van 30 april 2004 tot uniformisering van de toezichts-, sanctie- en strafbepalingen die zijn opgenomen in de regelgeving van de sociaal-rechtelijke aangelegenheden, waarvoor de Vlaamse Gemeenschap en het Vlaams Gewest bevoegd zijn, worden ingevorderd door ambtenaren van de Vlaamse Belastingdienst.
 
 ### ART. 2.
 
-De Vlaamse minister bevoegd voor financiën stelt de in artikel 1 bedoelde ambtenaren aan. Hij wijst tevens de ambtenaar van het ministerie van de Vlaamse Gemeenschap aan die het dwangbevel viseert en uitvoerbaar verklaart.
+...
 
 ### ART. 3.
 
