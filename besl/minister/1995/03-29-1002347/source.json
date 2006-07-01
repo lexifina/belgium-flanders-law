@@ -2,16 +2,16 @@
   "codex_id": 1002347,
   "title": "Ministerieel besluit van 1995-03-29 houdende delegatie van sommige bevoegdheden inzake openbare werken en ruimtelijke ordening aan ambtenaren van het ministerie van de Vlaamse Gemeenschap",
   "type": "Ministerieel besluit",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1002347/VolledigDocument?datum=2006-06-01",
-  "source_sha256": "ef8220a63df6c5821e66a1cfe57cfba4fa2b401453fcc5e95ce032bc7c5f1936",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1002347/VolledigDocument?datum=2006-07-01",
+  "source_sha256": "bd74cfa72eff4461a9cf8e9224dff91e7d6a58490b9e62696ff57a82de4c5137",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1002347&param=informatie",
-  "as_of": "2006-06-01",
+  "as_of": "2006-07-01",
   "made": "1995-03-29",
   "gazette": "1995-05-03",
   "numac": 0,
   "document_start": null,
   "document_end": "2006-06-30",
-  "in_force": "2006-06-01",
+  "in_force": "2006-07-01",
   "article_versions": 15,
-  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2006-07-01; future article versions excluded; article text as the API gives it"
 }
