@@ -4,7 +4,7 @@
 
 ### ART. 1.
 
-Voor de toepassing van dit besluit wordt verstaan onder:<br /><br />1° decreet: het decreet van 31 januari 2003 betreffende het economisch ondersteuningsbeleid;<br /><br />2° besluit van de Vlaamse regering : het besluit van de Vlaamse regering van 10 oktober 2003 tot toekenning van steun aan kleine en middelgrote ondernemingen voor investeringen in het Vlaamse Gewest;<br /><br />3° administratie: de administratie Economie van het ministerie van de Vlaamse Gemeenschap;<br /><br />4° minister: de Vlaamse minister, bevoegd voor het economisch beleid;<br /><br />5° onderneming: de kleine of middelgrote onderneming, bedoeld in artikel 3, 1°, 2° en 3°, van het decreet en artikelen 2, 3 en 4 van het besluit van de Vlaamse regering;<br /><br />6° start van de investeringen: de datum van de eerste factuur, van de akte bij verwerving van een onroerend goed of van de leasingovereenkomst;<br /><br />7° beëindiging van de investeringen: de datum van de laatste factuur, van de akte bij verwerving van een onroerend goed of van de leasingovereenkomst;<br /><br />8° indieningsdatum van de subsidieaanvraag: de datum waarop de administratie de subsidieaanvraag ontvangt;<br /><br />9° website: de website van de Vlaamse Gemeenschap;<br /><br />10° oproep: de oproep tot indiening van de subsidieaanvraag.
+Voor de toepassing van dit besluit wordt verstaan onder:<br /><br />1° decreet: het decreet van 31 januari 2003 betreffende het economisch ondersteuningsbeleid;<br /><br />2° besluit van de Vlaamse regering : het besluit van de Vlaamse regering van 10 oktober 2003 tot toekenning van steun aan kleine en middelgrote ondernemingen voor investeringen in het Vlaamse Gewest;<br /><br />3° het Agentschap Economie : intern verzelfstandigd agentschap zonder rechtspersoonlijkheid dat behoort tot het beleidsdomein Economie, Wetenschap en Innovatie;<br /><br />4° minister: de Vlaamse minister, bevoegd voor het economisch beleid;<br /><br />5° onderneming: de kleine of middelgrote onderneming, bedoeld in artikel 3, 1°, 2° en 3°, van het decreet en artikelen 2, 3 en 4 van het besluit van de Vlaamse regering;<br /><br />6° start van de investeringen: de datum van de eerste factuur, van de akte bij verwerving van een onroerend goed of van de leasingovereenkomst;<br /><br />7° beëindiging van de investeringen: de datum van de laatste factuur, van de akte bij verwerving van een onroerend goed of van de leasingovereenkomst;<br /><br />8° indieningsdatum van de subsidieaanvraag: de datum waarop het Agentschap Economie de subsidieaanvraag ontvangt;<br /><br />9° website: de website van de Vlaamse Gemeenschap;<br /><br />10° oproep: de oproep tot indiening van de subsidieaanvraag.
 
 ## HOOFDSTUK II OPROEP- EN AANVRAAGPROCEDURE
 
@@ -32,7 +32,7 @@ Er kan per oproep slechts één subsidieaanvraag per onderneming worden ingedien
 
 ### ART. 7.
 
-De administratie onderzoekt of de subsidieaanvraag [op de indieningsdatum  <span class="reference">(ing. M.B. 1 februari 2005, art. 2, I: 1 februari 2005)</span> ] voldoet aan de voorwaarden van het decreet, het besluit van de Vlaamse regering en dit besluit.
+Het Agentschap Economie onderzoekt of de subsidieaanvraag op de indieningsdatum voldoet aan de voorwaarden van het decreet, het besluit van de Vlaamse regering en dit besluit.
 
 ### ART. 8.
 
