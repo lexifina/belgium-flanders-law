@@ -2,16 +2,16 @@
   "codex_id": 1013565,
   "title": "Besluit van de Vlaamse Regering van 2004-06-04 tot uitvoering van het decreet van 29 maart 2002 tot bescherming van varend erfgoed",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1013565/VolledigDocument?datum=2006-06-01",
-  "source_sha256": "8b69650ac7cfff8a1f394b1d5095b6b2e1a8280b73734bde94f16f9bf68ae17f",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1013565/VolledigDocument?datum=2006-07-01",
+  "source_sha256": "e813a6e2b877347d43bc1eebb96d8818717b557d095f670af52a1b79a8e2415f",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1013565&param=informatie",
-  "as_of": "2006-06-01",
+  "as_of": "2006-07-01",
   "made": "2004-06-04",
   "gazette": "2004-12-06",
   "numac": 2004036747,
   "document_start": null,
   "document_end": "2015-12-31",
-  "in_force": "2006-06-01",
+  "in_force": "2006-07-01",
   "article_versions": 18,
-  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2006-07-01; future article versions excluded; article text as the API gives it"
 }
