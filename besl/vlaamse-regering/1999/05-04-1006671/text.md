@@ -6,7 +6,7 @@ Artikel 8 tot en met 27 van het decreet van 8 juni 1998 houdende bepalingen tot 
 
 ### ART. 2.
 
-Wat het Vlaams Gewest betreft, wordt de Vlaamse minister, bevoegd voor de financiën, gemachtigd om de ambtenaren aan te wijzen als bedoeld in artikelen 298, 335, 336, 355, 356, 366, 367, 374, 375, 376, § 1 en § 3, 377, 378, 381, 382, 394bis, eerste en derde lid, 410, 414, § 2, 417, 420, 421, 445, 447, 461 en 469 van het Wetboek van de inkomstenbelastingen 1992.<br />
+...
 
 ### ART. 3.
 

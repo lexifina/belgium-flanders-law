@@ -2,16 +2,16 @@
   "codex_id": 1006671,
   "title": "Besluit van de Vlaamse Regering van 1999-05-04 tot vaststelling van de datum van inwerkingtreding van sommige bepalingen van het decreet van 9 juni 1998 houdende bepalingen tot wijziging van het Wetboek van de inkomstenbelastingen voor wat de onroerende voorheffing betreft en tot machtiging van de Vlaamse minister bevoegd voor de financiën om ambtenaren aan te wijzen belast met de vestiging en invordering van de onroerende voorheffing",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1006671/VolledigDocument?datum=2006-06-01",
-  "source_sha256": "109a9e821c31bd4cbebe2490d03295a77763053b755db5ac02b936ca9a2ba964",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1006671/VolledigDocument?datum=2006-07-01",
+  "source_sha256": "c528d309254faa23080f2cd8e0aaea0b414cc7a4f1dea8f63baede87ba911463",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1006671&param=informatie",
-  "as_of": "2006-06-01",
+  "as_of": "2006-07-01",
   "made": "1999-05-04",
   "gazette": "1999-06-08",
   "numac": 1999035663,
   "document_start": null,
   "document_end": null,
-  "in_force": "2006-06-01",
+  "in_force": "2006-07-01",
   "article_versions": 3,
-  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2006-07-01; future article versions excluded; article text as the API gives it"
 }
