@@ -2,16 +2,16 @@
   "codex_id": 1005576,
   "title": "Besluit van de Vlaamse Regering van 1997-06-03 houdende algemene beschermingsvoorschriften, advies- en toestemmingsprocedure, instelling van een register en vaststelling van een herkenningsteken voor beschermde landschappen",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1005576/VolledigDocument?datum=2006-06-01",
-  "source_sha256": "d45f82b6fb5bd4eb23faa67b8cbb3714d081efba7d4e8a7d32c4a6cee3d3b593",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1005576/VolledigDocument?datum=2006-07-01",
+  "source_sha256": "91e322b0de8fee683013644208af055fb8e662cf513c822f94bc294848b6f72f",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1005576&param=informatie",
-  "as_of": "2006-06-01",
+  "as_of": "2006-07-01",
   "made": "1997-06-03",
   "gazette": "1997-10-01",
   "numac": 1997035874,
   "document_start": null,
   "document_end": "2014-12-31",
-  "in_force": "2006-06-01",
+  "in_force": "2006-07-01",
   "article_versions": 18,
-  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2006-07-01; future article versions excluded; article text as the API gives it"
 }
