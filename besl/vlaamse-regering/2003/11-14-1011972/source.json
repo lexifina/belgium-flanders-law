@@ -2,16 +2,16 @@
   "codex_id": 1011972,
   "title": "Besluit van de Vlaamse Regering van 2003-11-14 houdende gelijkstelling van voorzieningen, gevestigd in het tweetalige gebied Brussel-Hoofdstad, met de in het kader van de zorgverzekering van rechtswege erkende voorzieningen",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1011972/VolledigDocument?datum=2006-06-01",
-  "source_sha256": "38e8fe1b323489abe2adf42554c018df48ca84c332713bd5f70f697410bacc47",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1011972/VolledigDocument?datum=2006-07-01",
+  "source_sha256": "6d51cffe7120890fe5bee0c013eaa9a1a83e70eed34d763b98fd75086632fabc",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1011972&param=informatie",
-  "as_of": "2006-06-01",
+  "as_of": "2006-07-01",
   "made": "2003-11-14",
   "gazette": "2004-01-16",
   "numac": 2003036277,
   "document_start": "2004-01-01",
   "document_end": "2007-11-08",
-  "in_force": "2006-06-01",
+  "in_force": "2006-07-01",
   "article_versions": 10,
-  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2006-07-01; future article versions excluded; article text as the API gives it"
 }
