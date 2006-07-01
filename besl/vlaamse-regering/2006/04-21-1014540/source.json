@@ -1,0 +1,17 @@
+{
+  "codex_id": 1014540,
+  "title": "Besluit van de Vlaamse Regering van 2006-04-21 betreffende het financiële en materiële beheer van de dienst met afzonderlijk beheer Herstelfonds",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1014540/VolledigDocument?datum=2006-07-01",
+  "source_sha256": "ee04a2f534e1c797605b9c1d7545f69be7b51be54593ee04f527b070e239debf",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1014540&param=informatie",
+  "as_of": "2006-07-01",
+  "made": "2006-04-21",
+  "gazette": "2006-06-06",
+  "numac": 2006035857,
+  "document_start": "2006-07-01",
+  "document_end": "2016-09-01",
+  "in_force": "2006-07-01",
+  "article_versions": 23,
+  "record_form": "consolidated version as in force on 2006-07-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
