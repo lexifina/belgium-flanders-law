@@ -2,16 +2,16 @@
   "codex_id": 1007707,
   "title": "Besluit van de Vlaamse Regering van 2000-10-20 tot bepaling van de voorwaarden voor de toekenning van subsidies aan gemeenten voor de opmaak van [...] gemeentelijke ruimtelijke uitvoeringsplannen [...]",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1007707/VolledigDocument?datum=2006-06-01",
-  "source_sha256": "3075f4e84b36396b82b43c614862bdc164330d1e71b2b24279414445d2e80320",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1007707/VolledigDocument?datum=2006-07-01",
+  "source_sha256": "9cdbad027e8555abd792d044bddc4873dd791f1b7a6d9d45a7c25cc093a29e26",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1007707&param=informatie",
-  "as_of": "2006-06-01",
+  "as_of": "2006-07-01",
   "made": "2000-10-20",
   "gazette": "2000-11-30",
   "numac": 2000036157,
   "document_start": null,
   "document_end": null,
-  "in_force": "2006-06-01",
+  "in_force": "2006-07-01",
   "article_versions": 18,
-  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2006-07-01; future article versions excluded; article text as the API gives it"
 }

@@ -4,19 +4,11 @@
 
 ### ART. 1.
 
-Voor de toepassing van dit besluit wordt verstaan onder:<br>
-<br>
-1° de minister: de minister, bevoegd voor de ruimtelijke ordening;<br>
-<br>
-2° de administratie: de administratie Ruimtelijke Ordening, Huisvesting en Monumenten en Landschappen van het ministerie van de Vlaamse Gemeenschap;<br>
-<br>
-3° de aanvrager: de gemeente die een subsidie aanvraagt voor de opmaak van een gemeentelijk ruimtelijk structuurplan, een gemeentelijk ruimtelijk uitvoeringsplan of een gemeentelijk plan van aanleg.
+Voor de toepassing van dit besluit wordt verstaan onder:<br /><br />1° de minister: de minister, bevoegd voor de ruimtelijke ordening;<br /><br />2° het agentschap : het agentschap RO-Vlaanderen van het Vlaams Ministerie van Ruimtelijke Ordening, Woonbeleid en Onroerend Erfgoed; <br /><br />3° de aanvrager: de gemeente die een subsidie aanvraagt voor de opmaak van een gemeentelijk ruimtelijk structuurplan, een gemeentelijk ruimtelijk uitvoeringsplan of een gemeentelijk plan van aanleg.
 
 ### ART. 2.
 
-Afhankelijk van de beschikbare kredieten op de begroting van de Vlaamse Gemeenschap kunnen subsidies worden toegekend aan gemeenten voor de opmaak van gemeentelijke ruimtelijke structuurplannen, gemeentelijke ruimtelijke uitvoeringsplannen en gemeentelijke plannen van aanleg onder de in dit besluit gestelde voorwaarden.<br>
-<br>
-Voor de aanvragen die aan de gestelde voorwaarden voldoen, zal de minister de subsidie toekennen in de volgorde waarin de aanvragen bij de administratie worden ingediend.
+Afhankelijk van de beschikbare kredieten op de begroting van de Vlaamse Gemeenschap kunnen subsidies worden toegekend aan gemeenten voor de opmaak van gemeentelijke ruimtelijke structuurplannen, gemeentelijke ruimtelijke uitvoeringsplannen en gemeentelijke plannen van aanleg onder de in dit besluit gestelde voorwaarden.<br /><br />De subsidie wordt toegekend in de volgorde waarin de aanvragen die aan de gestelde voorwaarden voldoen, worden ingediend.<br />
 
 ## HOOFDSTUK II [... (opgeh. BVR 30 maart 2018, art. 70, I: 5 mei 2018)]
 
@@ -60,13 +52,11 @@ Voor de toepassing van het eerste lid worden de meest recent gepubliceerde gegev
 
 ### ART. 4.
 
-[De aanvraag tot subsidie moet door het college van burgemeester en schepenen aangetekend of tegen ontvangstbewijs bij de administratie ingediend worden, onmiddellijk na de voorlopige vaststelling van het ontwerp van het gemeentelijk ruimtelijk structuurplan.<br>
-<br>
-De aanvraag tot subsidie moet een afschrift van de gemeenteraadsbeslissing bevatten waarin het ontwerp van het gemeentelijk ruimtelijk structuurplan voorlopig wordt vastgesteld. (verv. B.V.R. 10 oktober 2003, art. 2, I: 13 november 2003) ]
+De aanvraag tot subsidie moet door het college van burgemeester en schepenen aangetekend of tegen ontvangstbewijs bij het agentschap ingediend worden, onmiddellijk na de voorlopige vaststelling van het ontwerp van het gemeentelijk ruimtelijk structuurplan.<br /><br />De aanvraag tot subsidie moet een afschrift van de gemeenteraadsbeslissing bevatten waarin het ontwerp van het gemeentelijk ruimtelijk structuurplan voorlopig wordt vastgesteld.
 
 ### ART. 5.
 
-De minister verleent de subsidie. De beslissing wordt aan de aanvrager betekend door middel van een aangetekende brief en vermeldt het bedrag van de subsidie op basis van de in artikel 3 vermelde categorieën.
+De minister of zijn gemachtigde verleent de subsidie. De beslissing wordt aan de aanvrager betekend door middel van een aangetekende brief en vermeldt het bedrag van de subsidie op basis van de in artikel 3 vermelde categorieën.
 
 ### ART. 6.
 
@@ -120,25 +110,11 @@ De oppervlakte per hectare wordt per eenheden gerekend en naar beneden afgerond 
 
 ### ART. 10.
 
-[De aanvraag tot subsidie moet door het college van burgemeester en schepenen aangetekend of tegen ontvangstbewijs bij de administratie ingediend worden, onmiddellijk na de goedkeuring van het gemeentelijk ruimtelijk uitvoeringsplan door de minister of de bestendige deputatie.<br>
-<br>
-De aanvraag tot subsidie moet de volgende elementen bevatten:<br>
-<br>
-1° een afschrift van de goedkeuring van het plan door de minister of de bestendige deputatie;<br>
-<br>
-2° een opgave van de categorie van het plan waarvoor de subsidie wordt aangevraagd, de reden waarom het desbetreffende plan of een stuk ervan in aanmerking komt voor de subsidie en de wijze waarop het plan overeenstemt met een bepaalde categorie van subsidieerbare plannen;<br>
-<br>
-3° een berekening van het aantal hectaren waarvoor een subsidie wordt gevraagd;<br>
-<br>
-4° het rekeningnummer van de gemeente waarop de subsidie moet worden gestort.<br>
-<br>
-Er kan geen subsidie worden toegekend voor delen van het grondgebied van de gemeente die zijn opgenomen in één van de in artikel 9 vermelde categorieën van plannen waarvoor reeds een subsidie is verleend met toepassing van dit besluit. (verv. B.V.R. 10 oktober 2003, art. 3, I: 13 november 2003) ]
+De aanvraag tot subsidie moet door het college van burgemeester en schepenen aangetekend of tegen ontvangstbewijs bij het agentschap ingediend worden, onmiddellijk na de goedkeuring van het gemeentelijk ruimtelijk uitvoeringsplan door de minister of de bestendige deputatie.<br /><br />De aanvraag tot subsidie moet de volgende elementen bevatten:<br />1° een afschrift van de goedkeuring van het plan door de minister of de bestendige deputatie;<br />2° een opgave van de categorie van het plan waarvoor de subsidie wordt aangevraagd, de reden waarom het desbetreffende plan of een stuk ervan in aanmerking komt voor de subsidie en de wijze waarop het plan overeenstemt met een bepaalde categorie van subsidieerbare plannen;<br />3° een berekening van het aantal hectaren waarvoor een subsidie wordt gevraagd;<br />4° het rekeningnummer van de gemeente waarop de subsidie moet worden gestort.<br /><br />Er kan geen subsidie worden toegekend voor delen van het grondgebied van de gemeente die zijn opgenomen in één van de in artikel 9 vermelde categorieën van plannen waarvoor reeds een subsidie is verleend met toepassing van dit besluit.
 
 ### ART. 11.
 
-[De minister neemt de beslissing tot subsidie. De beslissing wordt aan de aanvrager betekend met een aangetekende brief en vermeldt het bedrag van de subsidie op basis van de in artikel 9 vermelde categorieën.<br>
-<br>
-De subsidie wordt uitbetaald onmiddellijk na het nemen van de beslissing tot subsidie. (verv. B.V.R. 10 oktober 2003, art. 4, I: 13 november 2003) ]
+De minister of zijn gemachtigde neemt de beslissing tot subsidie. De beslissing wordt aan de aanvrager betekend met een aangetekende brief en vermeldt het bedrag van de subsidie op basis van de in artikel 9 vermelde categorieën.<br /><br />De subsidie wordt uitbetaald onmiddellijk na het nemen van de beslissing tot subsidie.
 
 ### ART. 12.
 
@@ -150,7 +126,7 @@ Voor plannen betreffende de inrichting van de open ruimte en het woongebied kan 
 
 ### ART. 13.
 
-De administratie voert de controle uit op de naleving van de voorwaarden gesteld in dit besluit.
+Het agentschap en het agentschap Inspectie RWO voeren, ieder wat zijn eigen bevoegdheid betreft, de controle uit op de naleving van de voorwaarden gesteld in dit besluit.
 
 ### ART. 14.
 
@@ -168,15 +144,7 @@ Bovendien kan een subsidie worden aangevraagd voor gemeentelijke ruimtelijke str
 
 ### ART. 16.
 
-In afwijking van artikels 2, 8 en 9 kan de subsidie tot 1 januari 2003 worden aangevraagd voor de opmaak van gemeentelijke plannen van aanleg die qua concept en doelstellingen overeenkomen met de in artikel 8 bedoelde ruimtelijke uitvoeringsplannen, op voorwaarde dat er een ruimtelijke afweging gebeurt op basis van de principes en ontwikkelingsperspectieven van het ruimtelijke structuurplan Vlaanderen en op voorwaarde dat de gemeenteraad beslist heeft tot het opmaken van een gemeentelijk ruimtelijk structuurplan. De opmaak van het plan van aanleg moet in voorko-mend geval verantwoord worden op basis van de bepalingen van het voorontwerp of ontwerp van gemeentelijk ruimtelijk structuurplan. De bedragen, vermeld in artikel 9, worden evenwel gehalveerd. De aanvraag tot subsidie en de uitbetaling worden voor het overige ingediend en behandeld op dezelfde manier als de aanvragen, bedoeld in hoofdstuk III van dit besluit.<br>
-<br>
-Er kan ook een subsidie worden verleend voor de opmaak van plannen, zoals bedoeld in het eerste lid, waarvoor de procedure lopend is op het ogenblik van de inwerkingtreding van dit besluit. Er is een lopende procedure in de zin van deze bepaling indien het plan van aanleg of het plan tot herziening van een bestaand plan voorlopig is aangenomen door de gemeenteraad. In dat geval wordt de subsidie aangevraagd en uitbetaald overeenkomstig de aanvragen, bedoeld in hoofd-stuk III van dit besluit.<br>
-<br>
-De aanvraag tot subsidie moet ingediend worden bij de administratie ten laatste de dertigste dag na de publicatie in het Belgisch Staatsblad van de goedkeuring van het betrokken plan. Indien de subsidie wordt aangevraagd na de publicatie in het Belgisch Staatsblad van de goedkeuring van het betrokken plan, wordt de subsidie in één keer uitbetaald, onmiddellijk na het verlenen van de beslissing tot subsidie.<br>
-<br>
-Geen subsidie wordt verleend voor bijzondere plannen van aanleg met betrekking tot bedrijventerreinen of gegroepeerde woningbouw die zich beperken tot het aangeven van de bestaande toestand en de grenzen van het gebied.<br>
-<br>
-De wijziging van een bijzonder plan van aanleg wordt voor de toepassing van dit besluit gelijkgesteld met de opmaak van een dergelijk plan. Er kan evenwel geen subsidie worden toegekend voor de herziening van een plan waarvan de opmaak of een vroegere herziening reeds overeenkomstig dit besluit is gesubsidieerd.
+In afwijking van artikels 2, 8 en 9 kan de subsidie tot 1 januari 2003 worden aangevraagd voor de opmaak van gemeentelijke plannen van aanleg die qua concept en doelstellingen overeenkomen met de in artikel 8 bedoelde ruimtelijke uitvoeringsplannen, op voorwaarde dat er een ruimtelijke afweging gebeurt op basis van de principes en ontwikkelingsperspectieven van het ruimtelijke structuurplan Vlaanderen en op voorwaarde dat de gemeenteraad beslist heeft tot het opmaken van een gemeentelijk ruimtelijk structuurplan. De opmaak van het plan van aanleg moet in voorko-mend geval verantwoord worden op basis van de bepalingen van het voorontwerp of ontwerp van gemeentelijk ruimtelijk structuurplan. De bedragen, vermeld in artikel 9, worden evenwel gehalveerd. De aanvraag tot subsidie en de uitbetaling worden voor het overige ingediend en behandeld op dezelfde manier als de aanvragen, bedoeld in hoofdstuk III van dit besluit.<br /><br />Er kan ook een subsidie worden verleend voor de opmaak van plannen, zoals bedoeld in het eerste lid, waarvoor de procedure lopend is op het ogenblik van de inwerkingtreding van dit besluit. Er is een lopende procedure in de zin van deze bepaling indien het plan van aanleg of het plan tot herziening van een bestaand plan voorlopig is aangenomen door de gemeenteraad. In dat geval wordt de subsidie aangevraagd en uitbetaald overeenkomstig de aanvragen, bedoeld in hoofd-stuk III van dit besluit.<br /><br />De aanvraag tot subsidie moet ingediend worden bij het agentschap ten laatste de dertigste dag na de publicatie in het Belgisch Staatsblad van de goedkeuring van het betrokken plan. Indien de subsidie wordt aangevraagd na de publicatie in het Belgisch Staatsblad van de goedkeuring van het betrokken plan, wordt de subsidie in één keer uitbetaald, onmiddellijk na het verlenen van de beslissing tot subsidie.<br /><br />Geen subsidie wordt verleend voor bijzondere plannen van aanleg met betrekking tot bedrijventerreinen of gegroepeerde woningbouw die zich beperken tot het aangeven van de bestaande toestand en de grenzen van het gebied.<br /><br />De wijziging van een bijzonder plan van aanleg wordt voor de toepassing van dit besluit gelijkgesteld met de opmaak van een dergelijk plan. Er kan evenwel geen subsidie worden toegekend voor de herziening van een plan waarvan de opmaak of een vroegere herziening reeds overeenkomstig dit besluit is gesubsidieerd.
 
 ### ART. 17.
 
