@@ -1040,6 +1040,10 @@ De gewestelijk ontvanger mag de tegemoetkoming niet combineren met de door de we
 
 Dit statuut is ook van toepassing op de gewestelijke ontvangers die contractueel worden geworven met uitzondering van de bepalingen van de delen IV, V, VII, VIII en X en de [artikelen 108 tot en met 113.  <span class="reference">(verv. B.V.R. 17 februari 2006, art. 21, I: 1 maart 2006)</span> ]
 
+### ART. 159bis.
+
+De contractuele gewestelijk ontvanger behoudt in geval van carenzdag, zijn bezoldiging voor die dag.
+
 ## DEEL XIII OPHEFFINGS- EN SLOTBEPALINGEN
 
 ### ART. 160.
