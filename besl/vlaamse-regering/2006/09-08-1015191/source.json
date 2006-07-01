@@ -1,0 +1,17 @@
+{
+  "codex_id": 1015191,
+  "title": "Besluit van de Vlaamse Regering van 2006-09-08 tot wijziging van de bijlage VI bij het besluit van de Vlaamse Regering van 18 december 1998 houdende de erkenning en de subsidiëring van verenigingen en welzijnsvoorzieningen in de thuiszorg",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1015191/VolledigDocument?datum=2006-07-01",
+  "source_sha256": "eb7e8904dc56579e2ca4e4fae0f18aa2e6780184b9c229785b460a7fc0deddca",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1015191&param=informatie",
+  "as_of": "2006-07-01",
+  "made": "2006-09-08",
+  "gazette": "2006-11-24",
+  "numac": 2006036874,
+  "document_start": "2006-07-01",
+  "document_end": null,
+  "in_force": "2006-07-01",
+  "article_versions": 7,
+  "record_form": "consolidated version as in force on 2006-07-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
