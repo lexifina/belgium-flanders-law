@@ -2,16 +2,16 @@
   "codex_id": 1013775,
   "title": "Ministerieel besluit van 2005-03-25 tot toekenning van delegatie voor het verlengen van de erkenning van opleidingsverstrekkers voor het stelsel van de Vlaamse opleidingscheques aan personeelsleden van de afdeling Economisch Ondersteuningsbeleid van de administratie Economie van het ministerie van de Vlaamse Gemeenschap",
   "type": "Ministerieel besluit",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1013775/VolledigDocument?datum=2006-06-01",
-  "source_sha256": "58fb29c43f99b57b38a1bcb72f96739bbaedec7c6da053904e47346c895731bd",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1013775/VolledigDocument?datum=2006-07-01",
+  "source_sha256": "e65b79aaf79f9bd1da26508d6777b76b404cb80c708e1717639fb5744822e81b",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1013775&param=informatie",
-  "as_of": "2006-06-01",
+  "as_of": "2006-07-01",
   "made": "2005-03-25",
   "gazette": "2005-05-09",
   "numac": 2005035503,
   "document_start": "2005-04-01",
   "document_end": "2006-06-30",
-  "in_force": "2006-06-01",
+  "in_force": "2006-07-01",
   "article_versions": 3,
-  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2006-07-01; future article versions excluded; article text as the API gives it"
 }
