@@ -6,7 +6,7 @@
 
 ### ART. 1.
 
-In dit besluit wordt verstaan onder:<br />1° de ministers: de Vlaamse minister, bevoegd voor het Onderwijs, en de Vlaamse minister, bevoegd voor het Economisch Beleid;<br />2° de administratie: de administratie Economie van het ministerie van de Vlaamse Gemeenschap;<br />3° samenwerkingsverband: samenwerking tussen ten minste één erkende Vlaamse onderwijsinstelling uit het basisonderwijs, secundair onderwijs met volledig leerplan, hogeschool of universiteit, en één relevante gestructureerde partner uit het bedrijfsleven, die wordt geformaliseerd met een samenwerkingsovereenkomst tussen de partijen;<br />4° brugproject: een innovatief project of pilootproject dat door een samenwerkingsverband wordt gecreëerd met het oog op het tot stand brengen van nieuwe vormen van kennisuitwisseling tussen het bedrijfsleven en het onderwijs;<br />5° aanvrager: organisatie die naar aanleiding van een oproep namens het samenwerkingsverband een dossier indient voor de subsidiëring van een brugproject;<br />6° commissie: de commissie die de ontvankelijke brugprojecten beoordeelt.
+In dit besluit wordt verstaan onder:<br />1° de ministers: de Vlaamse minister, bevoegd voor het Onderwijs, en de Vlaamse minister, bevoegd voor het Economisch Beleid;<br />2° het Agentschap Economie : intern verzelfstandigd agentschap zonder rechtspersoonlijkheid dat behoort tot het beleidsdomein Economie, Wetenschap en Innovatie;<br />3° samenwerkingsverband: samenwerking tussen ten minste één erkende Vlaamse onderwijsinstelling uit het basisonderwijs, secundair onderwijs met volledig leerplan, hogeschool of universiteit, en één relevante gestructureerde partner uit het bedrijfsleven, die wordt geformaliseerd met een samenwerkingsovereenkomst tussen de partijen;<br />4° brugproject: een innovatief project of pilootproject dat door een samenwerkingsverband wordt gecreëerd met het oog op het tot stand brengen van nieuwe vormen van kennisuitwisseling tussen het bedrijfsleven en het onderwijs;<br />5° aanvrager: organisatie die naar aanleiding van een oproep namens het samenwerkingsverband een dossier indient voor de subsidiëring van een brugproject;<br />6° commissie: de commissie die de ontvankelijke brugprojecten beoordeelt.
 
 ## AFDELING 2 ALGEMENE VOORWAARDEN
 
@@ -24,7 +24,7 @@ Binnen de perken van de beschikbare begrotingskredieten kan steun worden verleen
 
 ### ART. 4.
 
-§ 1. De ministers stellen een commissie samen die bestaat uit:<br /><br />1° drie vertegenwoordigers, voorgedragen door de minister, bevoegd voor het Economisch Beleid;<br /><br />2° drie vertegenwoordigers, voorgedragen door de minister, bevoegd voor het Onderwijs.<br /><br />§ 2. Het secretariaat van de commissie wordt waargenomen door de administratie.
+§ 1. De ministers stellen een commissie samen die bestaat uit:<br />1° drie vertegenwoordigers, voorgedragen door de minister, bevoegd voor het Economisch Beleid;<br />2° drie vertegenwoordigers, voorgedragen door de minister, bevoegd voor het Onderwijs.<br /><br />§ 2. Het secretariaat van de commissie wordt waargenomen door het Agentschap Economie.
 
 ## HOOFDSTUK IV STEUNINTENSITEIT
 
@@ -44,11 +44,11 @@ De steun wordt toegekend in de vorm van een subsidie.
 
 ### ART. 8.
 
-§ 1. De aanvrager die een subsidie wenst te ontvangen in het kader van dit besluit, dient naar aanleiding van een oproep een aanvraag in.<br /><br />§ 2. De aanvraag omvat een dossier bestaande uit een ingevuld gestandaardiseerd aanvraagformulier, dat opgesteld is door de administratie, de projectorganisatie, het projectplan en de projectbegroting.
+§ 1. De aanvrager die een subsidie wenst te ontvangen in het kader van dit besluit, dient naar aanleiding van een oproep een aanvraag in.<br /><br />§ 2. De aanvraag omvat een dossier bestaande uit een ingevuld gestandaardiseerd aanvraagformulier, dat opgesteld is door het Agentschap Economie, de projectorganisatie, het projectplan en de projectbegroting.
 
 ### ART. 9.
 
-§ 1. De administratie onderzoekt de ontvankelijkheid van de aanvragen binnen maximaal dertig kalenderdagen na afsluiting van de oproep. Een aanvraag is ontvankelijk indien aan de volgende voorwaarden cumulatief is voldaan:<br /><br />1° de aanvraag is tijdig ingediend, dit wil zeggen voor het verstrijken van de in de oproep vastgelegde indieningstermijn;<br /><br />2° [de aanvraag is ondertekend en correct en volledig ingevuld, dit wil zeggen alle vragen werden beantwoord en alle velden werden ingevuld;<br /><br />3° de aanvraag bevat het bewijs van een samenwerkingsverband via een geformaliseerde en door alle betrokken partijen ondertekende samenwerkingsovereenkomst;  <span class="reference">(verv. B.V.R. 4 juni 2004, art. 2, I: 4 juni 2004)</span> ]<br /><br />4° de aanvraag bevat het engagement voor een inbreng van de private sector ten belope van minstens 50 %;<br /><br />5° de aanvraag beschrijft een brugproject met een looptijd van ten hoogste drie jaar.<br /><br />§ 2. De aanvrager kan, op verzoek van de administratie, zijn aanvraag vervolledigen tot vijftien kalenderdagen na de af-sluiting van de oproep.<br /><br />§ 3. De ontvankelijke brugprojecten worden ter beoordeling voorgelegd aan de commissie.
+§ 1. Het Agentschap Economie onderzoekt de ontvankelijkheid van de aanvragen binnen maximaal dertig kalenderdagen na afsluiting van de oproep. Een aanvraag is ontvankelijk indien aan de volgende voorwaarden cumulatief is voldaan:<br />1° de aanvraag is tijdig ingediend, dit wil zeggen voor het verstrijken van de in de oproep vastgelegde indieningstermijn;<br />2° de aanvraag is ondertekend en correct en volledig ingevuld, dit wil zeggen alle vragen werden beantwoord en alle velden werden ingevuld;<br />3° de aanvraag bevat het bewijs van een samenwerkingsverband via een geformaliseerde en door alle betrokken partijen ondertekende samenwerkingsovereenkomst; <br />4° de aanvraag bevat het engagement voor een inbreng van de private sector ten belope van minstens 50 %;<br />5° de aanvraag beschrijft een brugproject met een looptijd van ten hoogste drie jaar.<br /><br />§ 2. De aanvrager kan, op verzoek van de administratie, zijn aanvraag vervolledigen tot vijftien kalenderdagen na de afsluiting van de oproep.<br /><br />§ 3. De ontvankelijke brugprojecten worden ter beoordeling voorgelegd aan de commissie.
 
 ### ART. 10.
 
