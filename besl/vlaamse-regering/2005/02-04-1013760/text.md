@@ -4,7 +4,7 @@
 
 ### ART. 1.
 
-Voor de toepassing van dit besluit wordt verstaan onder:<br /><br />1° VEN: Vlaams Ecologisch Netwerk, bedoeld in het decreet van 21 oktober 1997 betreffende het natuurbehoud en het natuurlijk milieu;<br /><br />2° Bosbeheer: de functionele dienst die door de Vlaamse regering wordt belast met het beheer van bossen, zoals bedoeld in artikel 4, 6° van het bosdecreet;<br /><br />3° de administratie: de administratie Budgettering, Accounting en Financieel Management van het departement Algemene Zaken en Financiën van het ministerie van de Vlaamse Gemeenschap;<br /><br />4° contactpersoon: door de erfgenamen aangewezen persoon aan wie de administratie alle betekeningen en mededelingen rechtsgeldig kan doen;<br /><br />5° ontvanger: ontvanger van het bevoegde registratiekantoor waar de aangifte van nalatenschap moet worden ingediend;<br /><br />6° uitgebreid beheerplan van bossen: het beheerplan dat de gegevens bevat zoals vermeld in bijlage I bij het besluit van de Vlaamse Regering van 27 juni 2003 betreffende de beheerplannen van bossen.
+Voor de toepassing van dit besluit wordt verstaan onder:<br /><br />1° VEN: Vlaams Ecologisch Netwerk, bedoeld in het decreet van 21 oktober 1997 betreffende het natuurbehoud en het natuurlijk milieu;<br /><br />2° Bosbeheer: de functionele dienst die door de Vlaamse regering wordt belast met het beheer van bossen, zoals bedoeld in artikel 4, 6° van het bosdecreet;<br /><br />3° de administratie: de Vlaamse Belastingdienst;<br /><br />4° contactpersoon: door de erfgenamen aangewezen persoon aan wie de administratie alle betekeningen en mededelingen rechtsgeldig kan doen;<br /><br />5° ontvanger: ontvanger van het bevoegde registratiekantoor waar de aangifte van nalatenschap moet worden ingediend;<br /><br />6° uitgebreid beheerplan van bossen: het beheerplan dat de gegevens bevat zoals vermeld in bijlage I bij het besluit van de Vlaamse Regering van 27 juni 2003 betreffende de beheerplannen van bossen.
 
 ## HOOFDSTUK II HET ATTEST VAN VRIJSTELLING VAN SUCCESSIERECHTEN EN VAN RECHT VAN OVERGANG BIJ OVERLIJDEN VOOR ONROERENDE GOEDEREN DIE TE BESCHOUWEN ZIJN ALS BOS
 
@@ -29,6 +29,10 @@ De erfgenamen richten hun verzoek, waarvan het model als bijlage I bij dit beslu
 ### ART. 6.
 
 Het attest van vrijstelling van successierechten of van recht van overgang bij overlijden voor gronden gelegen in het VEN, waarvan het model als bijlage II bij dit besluit is gevoegd, wordt afgegeven door de administratie. Het wordt bij de aangifte van nalatenschap gevoegd.
+
+### ART. 6ter.
+
+Tegen de beslissing waarbij de aflevering van een attest, als bedoeld in het derde lid van artikel 55ter van het Wetboek der Successierechten, geheel of gedeeltelijk wordt geweigerd, kunnen de aanvragers van het attest bezwaar aantekenen bij het hoofd van de Vlaamse Belastingdienst. Het hoofd van de Vlaamse Belastingdienst kan de bevoegdheid betreffende de behandeling van de bezwaarschriften delegeren aan de door hem aangewezen ambtenaren.<br />
 
 ## HOOFDSTUK IV SLOTBEPALINGEN
 
