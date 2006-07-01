@@ -2,16 +2,16 @@
   "codex_id": 1002869,
   "title": "Besluit van de Vlaamse Regering van 1995-04-06 [houdende vaststelling van de typehuurovereenkomst van de woningen die toebehoren aan de erkende sociale huisvestingsmaatschappijen of aan de Vlaamse Maatschappij voor Sociaal Wonen]",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1002869/VolledigDocument?datum=2006-06-01",
-  "source_sha256": "cc62c1479b5b98f629abb5b8cb570ef0c6de4a8a566d05d2633cb3659df839e9",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1002869/VolledigDocument?datum=2006-07-01",
+  "source_sha256": "3dd8a0cf8fca8d1fecf138f7aa7799083d21abd09c012c16b0c70173338a1bcb",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1002869&param=informatie",
-  "as_of": "2006-06-01",
+  "as_of": "2006-07-01",
   "made": "1995-04-06",
   "gazette": "1995-06-22",
   "numac": 1995035753,
   "document_start": "1995-05-01",
   "document_end": "2007-12-31",
-  "in_force": "2006-06-01",
+  "in_force": "2006-07-01",
   "article_versions": 35,
-  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2006-07-01; future article versions excluded; article text as the API gives it"
 }
