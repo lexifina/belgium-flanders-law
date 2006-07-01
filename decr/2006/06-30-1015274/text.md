@@ -50,9 +50,17 @@ Artikel 74 van het decreet van 13 juli 2001 houdende het stimuleren van een kwal
 
 ## HOOFDSTUK IV Herstelfonds
 
+### ART. 31.
+
+De bedragen die op grond van artikel 159bis van het decreet van 18 mei 1999 houdende de organisatie van de ruimtelijke ordening in mindering worden gebracht op de middelen die aan het Herstelfonds worden toegewezen, worden verminderd met de bedragen die vanaf 1 januari 2006 tot en met de inwerkingtreding van artikel 159bis ten laste werden genomen van het Grondfonds voor zover deze bedragen betrekking hebben op andere schulden en vorderingen dan die welke betrekking hebben op de toepassing van titel V van het decreet van 18 mei 1999 houdende de organisatie van de ruimtelijke ordening.<br /><br />
+
 ## HOOFDSTUK V Departementale fondsen onroerende goederen
 
 ## HOOFDSTUK VI Afvalstoffen
+
+### ART. 34.
+
+§ 1. In artikel 47, § 2, van het decreet van 2 juli 1981 betreffende de voorkoming en het beheer van afvalstoffen, vervangen bij het decreet van 20 december 1989, en gewijzigd bij de decreten van 21 december 1990, 25 juni 1992, 18 december 1992, 22 december 1993, 21 december 1994, 22 december 1995, 20 december 1996, 19 december 1997, 19 december 1998, 6 juli 2001, 21 december 2001, 5 juli 2002, 20 december 2002 en 22 april 2005, worden in punt 9° de woorden "van bodemsaneringsoperaties goedgekeurd door de OVAM en waarbij overeenkomstig het advies van OVAM andere saneringswijzen dan uitgraven en storten onredelijk hoge kosten met zich meebrengen of onmogelijk zijn," geschrapt.<br /><br />§ 2. In artikel 47, § 2, 11°, van hetzelfde decreet worden de woorden " : - afvalstoffen afkomstig van bodemsaneringsoperaties goedgekeurd door de Openbare Afvalstoffenmaatschappij voor het Vlaamse Gewest en waarbij overeenkomstig het advies van de Openbare Afvalstoffenmaatschappij voor het Vlaamse Gewest andere saneringswijzen dan uitgraven en storten onredelijk hoge kosten met zich meebrengen of onmogelijk zijn en van" geschrapt.<br /><br />§ 3. In artikel 47, § 2, 19°, van hetzelfde decreet worden de woorden "afvalstoffen van bodemsaneringsoperaties goedgekeurd door de OVAM en waarbij overeenkomstig het advies van OVAM andere saneringswijzen dan uitgraven en storten onredelijk hoge kosten met zich meebrengen of onmogelijk zijn en van" geschrapt.<br /><br />§ 4. In artikel 47, § 2, van hetzelfde decreet wordt punt 26° vervangen door wat volgt :<br />"26° a) 1,60 EUR per ton voor het verbranden van residu's, afkomstig van vergunde grondreinigingscentra en van vergunde verwerkingsinrichtingen voor rioolkolkenslib, in een oven vergund voor het verbranden van de voornoemde afvalstoffen, zonder recuperatie van energie of grondstoffen;<br />b) 0,95 EUR per ton voor het verbranden van residu's, afkomstig van vergunde grondreinigingscentra en van vergunde verwerkingsinrichtingen voor rioolkolkenslib, in een oven vergund voor het verbranden van de voornoemde afvalstoffen, met recuperatie van energie en/of grondstoffen;".<br /><br />§ 5. Aan artikel 47, § 2, van hetzelfde decreet wordt een punt 44° toegevoegd dat luidt als volgt :<br />"44° 0 EUR per ton voor het storten op een daartoe vergunde stortplaats of het verbranden of mee verbranden in een daartoe vergunde inrichting van afvalstoffen afkomstig van bodemsaneringsoperaties waarbij overeenkomstig het advies van de OVAM andere saneringswijzen onredelijk hoge kosten met zich meebrengen of onmogelijk zijn.".<br /><br />
 
 ## HOOFDSTUK VII Oppervlaktewateren
 
