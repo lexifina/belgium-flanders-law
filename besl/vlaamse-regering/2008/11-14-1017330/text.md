@@ -19,3 +19,7 @@ In deel XI, titel 3, van hetzelfde besluit wordt hoofdstuk 6, bestaande uit arti
 ### ART. 76.
 
 In deel XI, titel 3, van hetzelfde besluit wordt het hoofdstuk 7, bestaande uit artikel 158septies, opgeheven.
+
+### ART. 80.
+
+In deel XII van hetzelfde besluit wordt een artikel 159bis ingevoegd, dat luidt als volgt :<br /><br />« Art. 159bis. De contractuele gewestelijk ontvanger behoudt in geval van carenzdag, zijn bezoldiging voor die dag. »
