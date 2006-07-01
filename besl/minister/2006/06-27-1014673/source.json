@@ -1,0 +1,17 @@
+{
+  "codex_id": 1014673,
+  "title": "Ministerieel besluit van 2006-06-27 houdende de beslissing tot het sluiten van een overeenkomst houdende gelijkstelling met erkenning met één van de in het kader van de zorgverzekering van rechtswege erkende voorzieningen",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1014673/VolledigDocument?datum=2006-07-01",
+  "source_sha256": "b153ae08ddc9ffc5b2d3232de42739b4d058c379c749602d5678e93e2008edc1",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1014673&param=informatie",
+  "as_of": "2006-07-01",
+  "made": "2006-06-27",
+  "gazette": "2006-07-14",
+  "numac": 2006036066,
+  "document_start": "2006-07-01",
+  "document_end": null,
+  "in_force": "2006-07-01",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2006-07-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
