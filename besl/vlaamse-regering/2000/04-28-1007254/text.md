@@ -2,11 +2,11 @@
 
 ### ART. 1.
 
-De ambtenaren van niveau A, B, C en D van de afdelingen van de administratie Ruimtelijke Ordening, Huisvesting, Monumenten en Landschappen die belast zijn met taken inzake ruimtelijke ordening, zijn bevoegd om de misdrijven omschreven in titel V van het decreet van 18 mei 1999 houdende de organisatie van de ruimtelijke ordening op te sporen en vast te stellen.
+De ambtenaren van niveau A tot en met D van het agentschap Inspectie RWO van het Vlaams Ministerie van Ruimtelijke Ordening, Woonbeleid en Onroerend Erfgoed zijn bevoegd om de misdrijven, omschreven in titel V van het decreet van 18 mei 1999 houdende de organisatie van de ruimtelijke ordening, op te sporen en vast te stellen. <br />
 
 ### ART. 2.
 
-De directeur-generaal van de administratie Ruimtelijke Ordening, Huisvesting, Monumenten en Landschappen stelt het geografisch werkterrein van de ambtenaren, bedoeld in artikel 1, vast. In afwachting van deze vaststelling oefenen ze hun bevoegdheden uit, hetzij op het gehele grondgebied van het Vlaamse Gewest wat de ambtenaren met standplaats Brussel betreft, hetzij op het grondgebied van de provincie waar de ambtenaar zijn standplaats heeft.
+Zolang de leidend ambtenaar van het agentschap Inspectie RWO het geografische werkterrein van de ambtenaren, vermeld in artikel 1, niet heeft vastgesteld, oefenen ze hun bevoegdheid uit op het gehele grondgebied van het Vlaamse Gewest. <br />
 
 ### ART. 3.
 
