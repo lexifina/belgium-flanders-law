@@ -4,7 +4,7 @@
 
 ### ART. 1.
 
-Voor de toepassing van dit besluit wordt verstaan onder:<br /><br />1° de minister: de Vlaamse minister, bevoegd voor de ruimtelijke ordening;<br /><br />2° de gewestelijke administratie: de administratie Ruimtelijke Ordening, Huisvesting en Monumenten en Landschappen van het ministerie van de Vlaamse Gemeenschap.
+Voor de toepassing van dit besluit wordt verstaan onder:<br /><br />1° de minister: de Vlaamse minister, bevoegd voor de ruimtelijke ordening;<br /><br />2° het departement : het Departement Ruimtelijke Ordening, Woonbeleid en Onroerend Erfgoed; <br /><br />3° RO-Vlaanderen : het intern verzelfstandigd agentschap RO-Vlaanderen van het Vlaams Ministerie van Ruimtelijke Ordening, Woonbeleid en Onroerend Erfgoed; <br /><br />4° Inspectie RWO : het intern verzelfstandigd agentschap Inspectie RWO van het Vlaams Ministerie van Ruimtelijke Ordening, Woonbeleid en Onroerend Erfgoed. <br />
 
 ### ART. 2.
 
@@ -16,35 +16,35 @@ Voor de toepassing van dit besluit worden de personen die slaagden in een overga
 
 ### ART. 3.
 
-De directeur-generaal van de gewestelijke administratie vervult steeds tegelijk de functies van gewestelijke planologische en stedenbouwkundige ambtenaar en van gewestelijke stedenbouwkundige inspecteur voor het volledige grondgebied van het gewest.<br /><br />De minister stelt de overige gewestelijke planologische en stedenbouwkundige ambtenaren en de gewestelijke stedenbouwkundige inspecteurs aan door te kiezen uit een lijst van door de directeur-generaal van de gewestelijke administratie voorgedragen kandidaten. Enkel ambtenaren van niveau A uit die administratie kunnen worden voorgedragen en aangesteld.<br /><br />De aanstelling bedoeld in het tweede lid vermeldt een termijn die 6 jaar niet mag overschrijden. De aanstelling is wel hernieuwbaar. De aanstelling kan op elk ogenblik worden beëindigd.<br /><br />Onverminderd het eerste lid, bepaalt de minister of zijn gemachtigde het werkgebied van elk van de gewestelijke ambtenaren van ruimtelijke ordening. Hij kan dit werkgebied wijzigen.<br /><br />Onverminderd het eerste lid, zijn de functies van gewestelijke planologische ambtenaar, gewestelijke stedenbouwkundige ambtenaar en gewestelijke stedenbouwkundige inspecteur onderling onverenigbaar.
+De leidend ambtenaar van het departement vervult steeds tegelijk de functie van gedelegeerd planologisch ambtenaar en de functie van gedelegeerd stedenbouwkundig ambtenaar voor het volledige grondgebied van het Vlaamse Gewest.<br /><br />De minister stelt minstens drie gedelegeerde planologische ambtenaren en minstens drie gedelegeerde stedenbouwkundige ambtenaren aan door te kiezen uit een lijst van door de leidend ambtenaar op dubbeltal voorgedragen kandidaten. Alleen ambtenaren van niveau A uit het departement kunnen worden voorgedragen en aangesteld.<br /><br />Het aanstellingsbesluit vermeldt het werkgebied van de ambtenaren die met toepassing van het tweede lid zijn aangesteld.<br /><br />
 
 ### ART. 4.
 
-Om te kunnen worden aangesteld als gewestelijk planologisch ambtenaar of als gewestelijke stedenbouwkundig ambtenaar met toepassing van artikel 3, tweede lid, moet de ambtenaar houder zijn van een diploma van een opleiding ruimtelijke ordening. [De minister bepaalt, rekening houdend met de voor elke functie vereiste kennis en vaardigheden, welke diploma's van een opleiding ruimtelijke ordening voldoen voor een aanstelling in de respectievelijke functies.  <span class="reference">(verv. B.V.R. 7 juli 2000, art. 1, I: 1 mei 2000)</span> ]<br /><br />(Zie: M.B. 13 juli 2000, B.S., 28 juli 2000)
+Om aangesteld te kunnen worden als gedelegeerd planologisch of stedenbouwkundig ambtenaar met toepassing van artikel 3, tweede lid, moet de ambtenaar houder zijn van een diploma van een opleiding ruimtelijke ordening. De minister bepaalt, rekening houdend met de kennis en vaardigheden die voor elke functie vereist zijn, welke diploma's van een opleiding ruimtelijke ordening voldoen voor een aanstelling.<br /><br />In afwijking van het eerste lid kunnen ook ambtenaren die niet het vereiste diploma hebben worden aangesteld als gedelegeerd stedenbouwkundig ambtenaar voor zover ze voor 1 juli 2006 aangesteld geweest zijn als gewestelijk stedenbouwkundig ambtenaar.<br /><br />
 
 ### ART. 5.
 
-Het aantal gewestelijke planologische ambtenaren bedraagt minstens 13, waaronder de directeur-generaal van de gewestelijke administratie.<br /><br />Gedurende de eerste vijf jaar na de inwerkingtreding van dit besluit mag van dit minimumaantal afgeweken worden.
+Het aanstellingsbesluit vermeldt een termijn van maximaal zes jaar. De aanstelling is hernieuwbaar. Ze kan op elk ogenblik worden beëindigd, hetzij op verzoek van de betrokkene, hetzij na advies van de leidend ambtenaar.<br /><br />
 
 ### ART. 6.
 
-In afwijking van artikel 4 kunnen ook ambtenaren van de gewestelijke administratie van niveau A, die niet het vereiste diploma van een opleiding ruimtelijke ordening hebben, als gewestelijk planologisch ambtenaar aangesteld worden. Zij moeten echter op de datum van inwerkingtreding van dit besluit minstens 6 jaar werkzaam zijn bij die administratie en ze moeten kunnen aantonen dat tijdens die periode de opmaak of de begeleiding van de opmaak van ruimtelijke structuurplannen of plannen van aanleg en de beoordeling ervan één van hun hoofdtaken was.
+Met behoud van de toepassing van artikel 3, eerste lid, zijn de functies van gedelegeerd planologisch ambtenaar en gedelegeerd stedenbouwkundig ambtenaar onderling onverenigbaar.<br /><br /><br />
 
 ## AFDELING II DE GEWESTELIJKE STEDENBOUWKUNDIGE AMBTENAREN
 
 ### ART. 7.
 
-Het aantal gewestelijke stedenbouwkundige ambtenaren bedraagt minstens 13, waaronder de directeur-generaal van de gewestelijke administratie.<br /><br />Gedurende de eerste vijf jaar na de inwerkingtreding van dit besluit mag van dit minimumaantal afgeweken worden.
+De leidend ambtenaar van RO-Vlaanderen stelt per provincie minstens drie ambtenaren van niveau A uit zijn agentschap aan als gewestelijk stedenbouwkundig ambtenaar.<br /><br />Het aanstellingsbesluit vermeldt een termijn van maximaal zes jaar en het werkgebied van de aangestelde ambtenaren. Het aanstellingsbesluit wordt bij uittreksel bekendgemaakt in het Belgisch Staatsblad.<br /><br />De aanstelling is hernieuwbaar. Ze kan op elk ogenblik worden beëindigd, hetzij op verzoek van de betrokkene, hetzij op initiatief van de leidend ambtenaar.<br /><br />
 
 ### ART. 8.
 
-In afwijking van artikel 4 kunnen ook ambtenaren van de gewestelijke administratie van niveau A, die niet het vereiste diploma van een opleiding ruimtelijke ordening hebben, als gewestelijk stedenbouwkundig ambtenaar aangesteld worden. Zij moeten echter ofwel op de datum van inwerkingtreding van dit besluit minstens 6 jaar werkzaam zijn bij die administratie, ofwel op de datum van hun aanstelling minstens 12 jaar werkzaam zijn bij die administratie en in beide gevallen moeten zij kunnen aantonen dat tijdens die periode de beoordeling van aanvragen tot stedenbouwkundige vergunning en verkavelingsvergunning één van hun hoofdtaken was.
+Om aangesteld te kunnen worden als gewestelijk stedenbouwkundig ambtenaar met toepassing van artikel 7 moet de ambtenaar voldoen aan de voorwaarden die overeenkomstig artikel 4 gelden voor de gedelegeerd stedenbouwkundig ambtenaar.<br /><br />In afwijking van het eerste lid kunnen ook ambtenaren die niet het vereiste diploma hebben worden aangesteld voor zover ze voor 1 juli 2006 aangesteld geweest zijn als gewestelijk planologisch ambtenaar, als gewestelijk stedenbouwkundig ambtenaar of als gemachtigde ambtenaar als vermeld in het decreet betreffende de ruimtelijke ordening, gecoördineerd op 22 oktober 1996<br />
 
 ## AFDELING III DE GEWESTELIJKE STEDENBOUWKUNDIGE INSPECTEURS
 
 ### ART. 9.
 
-Het aantal gewestelijke stedenbouwkundige inspecteurs bedraagt minstens 13, waaronder de directeur-generaal van de gewestelijke administratie.<br /><br />Gedurende de eerste vijf jaar na de inwerkingtreding van dit besluit mag van dit minimumaantal afgeweken worden.
+De leidend ambtenaar van Inspectie RWO stelt per provincie minstens twee ambtenaren van niveau A uit zijn agentschap, met een goede kennis van het justitiële apparaat en van het strafprocesrecht, aan als gewestelijk stedenbouwkundig inspecteur.<br /><br />Het aanstellingsbesluit vermeldt een termijn van maximaal zes jaar en het werkgebied van de aangestelde inspecteurs. Het aanstellingsbesluit wordt bij uittreksel bekendgemaakt in het Belgisch Staatsblad.<br /><br />De aanstelling is hernieuwbaar. Ze kan op elk ogenblik worden beëindigd, hetzij op verzoek van de betrokkene, hetzij op initiatief van de leidend ambtenaar. <br />
 
 ## HOOFDSTUK III DE PROVINCIALE STEDENBOUWKUNDIGE AMBTENAREN
 
