@@ -2,16 +2,16 @@
   "codex_id": 1000383,
   "title": "Ministerieel besluit van 1993-12-13 houdende delegatie van sommige bevoegdheden inzake financiën en begroting aan ambtenaren van het ministerie van de Vlaamse Gemeenschap",
   "type": "Ministerieel besluit",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1000383/VolledigDocument?datum=2006-06-01",
-  "source_sha256": "d540c256aea1afdcf451e4cca6792b1d532d588010c81e81848d0ae72cb0cd98",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1000383/VolledigDocument?datum=2006-07-01",
+  "source_sha256": "711179be2c326212a4c61f1f1347d0cbf810b7576f17e934537023a48907bf34",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1000383&param=informatie",
-  "as_of": "2006-06-01",
+  "as_of": "2006-07-01",
   "made": "1993-12-13",
   "gazette": "1994-03-02",
   "numac": 0,
   "document_start": null,
   "document_end": "2006-06-30",
-  "in_force": "2006-06-01",
+  "in_force": "2006-07-01",
   "article_versions": 25,
-  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2006-07-01; future article versions excluded; article text as the API gives it"
 }
