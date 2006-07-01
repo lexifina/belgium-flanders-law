@@ -2,16 +2,16 @@
   "codex_id": 1005796,
   "title": "Besluit van de Vlaamse Regering van 1997-07-24 tot regeling van de erkenning en de subsidiëring van de diensten voor gezins- en bejaardenhulp",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1005796/VolledigDocument?datum=2006-06-01",
-  "source_sha256": "47df61d33444cd3d72fd113fe46b76be9c26e4e02035ae59f1669422671c3219",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1005796/VolledigDocument?datum=2006-07-01",
+  "source_sha256": "20a4ecc9d010e9ea88a3757b9733fabab5ed7462df64c9508254093ea5d236dd",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1005796&param=informatie",
-  "as_of": "2006-06-01",
+  "as_of": "2006-07-01",
   "made": "1997-07-24",
   "gazette": "1997-11-29",
   "numac": 1997036423,
   "document_start": null,
   "document_end": null,
-  "in_force": "2006-06-01",
+  "in_force": "2006-07-01",
   "article_versions": 2,
-  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2006-07-01; future article versions excluded; article text as the API gives it"
 }
