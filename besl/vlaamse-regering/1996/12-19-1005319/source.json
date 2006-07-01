@@ -2,16 +2,16 @@
   "codex_id": 1005319,
   "title": "Besluit van de Vlaamse Regering van 1996-12-19 houdende de subsidiëring van de renovatie van woningen en gebouwen en van de bouw van nieuwe sociale woningen",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1005319/VolledigDocument?datum=2006-06-01",
-  "source_sha256": "c8e484b23e404d9549d980ce77e4eaf8c1920b3215bec1ba9365dc9cec30b888",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1005319/VolledigDocument?datum=2006-07-01",
+  "source_sha256": "c878fa0b8b4a9dba793c0496d8748148156c769900a10bbf54608e651f52867d",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1005319&param=informatie",
-  "as_of": "2006-06-01",
+  "as_of": "2006-07-01",
   "made": "1996-12-19",
   "gazette": "1997-03-06",
   "numac": 1997035273,
   "document_start": null,
   "document_end": "2006-06-30",
-  "in_force": "2006-06-01",
+  "in_force": "2006-07-01",
   "article_versions": 14,
-  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2006-07-01; future article versions excluded; article text as the API gives it"
 }
