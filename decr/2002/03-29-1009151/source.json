@@ -2,16 +2,16 @@
   "codex_id": 1009151,
   "title": "Decreet van 2002-03-29 tot bescherming van varend erfgoed",
   "type": "Decreet",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1009151/VolledigDocument?datum=2006-06-01",
-  "source_sha256": "54b718980678a584895cc079cfd484b878abcc5a99896a02abc9847cb8066ecd",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1009151/VolledigDocument?datum=2006-07-01",
+  "source_sha256": "85bef54ef70787a81376c76d0a590f513b278e642fabffafcaba4cad657197a3",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1009151&param=informatie",
-  "as_of": "2006-06-01",
+  "as_of": "2006-07-01",
   "made": "2002-03-29",
   "gazette": "2002-05-18",
   "numac": 2002035603,
   "document_start": null,
   "document_end": null,
-  "in_force": "2006-06-01",
+  "in_force": "2006-07-01",
   "article_versions": 13,
-  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2006-07-01; future article versions excluded; article text as the API gives it"
 }
