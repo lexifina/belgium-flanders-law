@@ -2,16 +2,16 @@
   "codex_id": 1006070,
   "title": "Decreet van 1998-02-03 houdende vaststelling van het wapen van privé-personen en instellingen",
   "type": "Decreet",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1006070/VolledigDocument?datum=2006-06-01",
-  "source_sha256": "b6b8a610d39c2384c93c3c657ab335a236dcd8e3230b756a1e92e664e336176c",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1006070/VolledigDocument?datum=2006-07-01",
+  "source_sha256": "f527ad73b6d9d302e9937d9ccff7b05aebf2ff50174ecb09cbc18c8a48b93258",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1006070&param=informatie",
-  "as_of": "2006-06-01",
+  "as_of": "2006-07-01",
   "made": "1998-02-03",
   "gazette": "1998-03-21",
   "numac": 1998035312,
   "document_start": null,
   "document_end": null,
-  "in_force": "2006-06-01",
+  "in_force": "2006-07-01",
   "article_versions": 10,
-  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2006-07-01; future article versions excluded; article text as the API gives it"
 }
