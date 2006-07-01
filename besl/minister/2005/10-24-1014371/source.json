@@ -2,16 +2,16 @@
   "codex_id": 1014371,
   "title": "Ministerieel besluit van 2005-10-24 houdende oprichting en samenstelling van de commissie vrijstellingen leegstand woningen",
   "type": "Ministerieel besluit",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1014371/VolledigDocument?datum=2006-06-01",
-  "source_sha256": "4e43fb322ec95eaa0d26e5a69ede4f539543a3aec8a60599e38c1fe4d32608d8",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1014371/VolledigDocument?datum=2006-07-01",
+  "source_sha256": "2f58f0591d651f821f4af040d2cd9f56db6cbc7862b2f5103862d5dd67695b21",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1014371&param=informatie",
-  "as_of": "2006-06-01",
+  "as_of": "2006-07-01",
   "made": "2005-10-24",
   "gazette": "2006-03-15",
   "numac": 2006035368,
   "document_start": null,
   "document_end": "2017-11-01",
-  "in_force": "2006-06-01",
+  "in_force": "2006-07-01",
   "article_versions": 4,
-  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2006-07-01; future article versions excluded; article text as the API gives it"
 }
