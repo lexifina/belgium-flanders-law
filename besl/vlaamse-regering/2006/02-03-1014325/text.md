@@ -4,7 +4,7 @@
 
 ### ART. 1.
 
-§ 1. De intern verzelfstandigde agentschappen met rechtspersoonlijkheid en de publiekrechtelijk vormgegeven extern verzelfstandigde agentschappen behoren tot de cashpooling van het Centraal Financieringorgaan bij de afdeling Financieel Management, hierna afgekort: « het CFO » genoemd.<br /><br />§ 2. Hiertoe openen deze agentschappen al hun financiële rekeningen uitsluitend bij de door de Vlaamse Regering aangestelde kassier.<br /><br />§ 3. De Vlaamse minister bevoegd voor Financiën en Begroting deelt jaarlijks in de loop van de maand december aan de lijst mee van de agentschappen die in het daaropvolgende jaar tot de cashpool van het CFO behoren.
+§ 1. De intern verzelfstandigde agentschappen met rechtspersoonlijkheid en de publiekrechtelijk vormgegeven extern verzelfstandigde agentschappen behoren tot de cashpooling van het Centraal Financieringorgaan bij de Departement Financiën en Begroting, hierna afgekort: « het CFO » genoemd.<br /><br />§ 2. Hiertoe openen deze agentschappen al hun financiële rekeningen uitsluitend bij de door de Vlaamse Regering aangestelde kassier.<br /><br />§ 3. De Vlaamse minister bevoegd voor Financiën en Begroting deelt jaarlijks in de loop van de maand december aan de lijst mee van de agentschappen die in het daaropvolgende jaar tot de cashpool van het CFO behoren.
 
 ### ART. 2.
 
