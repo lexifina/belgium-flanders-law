@@ -1,0 +1,17 @@
+{
+  "codex_id": 1014630,
+  "title": "Ministerieel besluit van 2006-05-30 tot wijziging van het ministerieel besluit van 24 februari 2005 tot wijziging van het ministerieel besluit van 9 november 2004 houdende het selecteren en begeleiden van projecten voor projectgebonden mechanismen in het kader van het Protocol van Kyoto en tot wijziging van het ministerieel besluit van 11 april 2005 houdende de toekenning van begeleiding van projecten voor projectgebonden mechanismen in het kader van het Protocol van Kyoto",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1014630/VolledigDocument?datum=2006-07-05",
+  "source_sha256": "35a4f91cadb34103916defd601b5b30572d3b280262ee8184ed1d564946ba700",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1014630&param=informatie",
+  "as_of": "2006-07-05",
+  "made": "2006-05-30",
+  "gazette": "2006-07-05",
+  "numac": 2006035991,
+  "document_start": "2006-07-05",
+  "document_end": null,
+  "in_force": "2006-07-05",
+  "article_versions": 6,
+  "record_form": "consolidated version as in force on 2006-07-05; oldest version available; future article versions excluded; article text as the API gives it"
+}
