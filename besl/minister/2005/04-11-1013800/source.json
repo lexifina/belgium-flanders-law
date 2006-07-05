@@ -2,16 +2,16 @@
   "codex_id": 1013800,
   "title": "Ministerieel besluit van 2005-04-11 houdende de toekenning van begeleiding van projecten voor projectgebonden mechanismen in het kader van het Protocol van Kyoto",
   "type": "Ministerieel besluit",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1013800/VolledigDocument?datum=2006-06-01",
-  "source_sha256": "55b3bedfcb098e90eea90f4d56538cded7d741fce9222d631351502ec5a84792",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1013800/VolledigDocument?datum=2006-07-05",
+  "source_sha256": "6c291b9ee3e300ac4467eb75100fd8cd3c0733bd839088cbc8602d5c593cd0dd",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1013800&param=informatie",
-  "as_of": "2006-06-01",
+  "as_of": "2006-07-05",
   "made": "2005-04-11",
   "gazette": "2005-05-31",
   "numac": 2005035605,
   "document_start": "2005-05-31",
   "document_end": null,
-  "in_force": "2006-06-01",
+  "in_force": "2006-07-05",
   "article_versions": 18,
-  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2006-07-05; future article versions excluded; article text as the API gives it"
 }
