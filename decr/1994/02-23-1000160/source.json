@@ -2,16 +2,16 @@
   "codex_id": 1000160,
   "title": "Decreet van 1994-02-23 inzake de infrastructuur voor persoonsgebonden aangelegenheden",
   "type": "Decreet",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1000160/VolledigDocument?datum=2006-06-01",
-  "source_sha256": "6584a6f364af0dc0d50f4acc9f3cba27d9169cb3d93c6b181d9ee4c43ae1aa20",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1000160/VolledigDocument?datum=2006-07-07",
+  "source_sha256": "9e739baae3636e27e279d418c528209edee7dc5973eb3724f520d744ddf6f8d4",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1000160&param=informatie",
-  "as_of": "2006-06-01",
+  "as_of": "2006-07-07",
   "made": "1994-02-23",
   "gazette": "1994-06-01",
   "numac": 1994035460,
   "document_start": null,
   "document_end": null,
-  "in_force": "2006-06-01",
-  "article_versions": 22,
-  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "in_force": "2006-07-07",
+  "article_versions": 23,
+  "record_form": "consolidated version as in force on 2006-07-07; future article versions excluded; article text as the API gives it"
 }
