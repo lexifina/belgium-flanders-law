@@ -30,7 +30,7 @@ Dit decreet is van toepassing op alle provincies van het Vlaamse Gewest.
 
 ### ART. 6.
 
-§ 1. De provincieraad wordt om de zes jaar volledig vernieuwd. De leden worden rechtstreeks verkozen. Zij zijn herverkiesbaar. De verkiezingen geschieden per district. Een district bevat één of meer kieskantons als vermeld in artikel 88 van het Kieswetboek.<br /><br />Ieder district telt zoveel keer een raadslid als de provinciale deler in zijn bevolkingscijfer begrepen is. Die deler wordt verkregen door het bevolkingscijfer van de provincie te delen door het totaal van de toe te kennen zetels. De overblijvende zetels worden toegewezen aan de districten met het grootste nog niet vertegenwoordigde bevolkingsoverschot.<br /><br />De verdeling van de raadsleden over de kiesdistricten wordt bij elke volledige vernieuwing van de provincieraden door de Vlaamse Regering in overeenstemming gebracht met de bevolking op basis van de bevolkingscijfers. Het bevolkingsaantal dat in aanmerking moet worden genomen, is het aantal personen dat ingeschreven is in het rijksregister van de natuurlijke personen die op 1 januari van het jaar vóór dat van de volledige vernieuwing van de provincieraden hun hoofdverblijfplaats in de gemeenten van het desbetreffende district hadden.<br /><br />Die lijst wordt uiterlijk vijf maanden voor de volledige vernieuwing van de provincieraden in het Belgisch Staatsblad bekendgemaakt.<br /><br />§ 2. Na een volledige vernieuwing van de provincieraad blijven de uittredende provincieraadsleden in functie tot de geloofsbrieven van de nieuw verkozen provincieraadsleden onderzocht zijn en hun installatie heeft plaatsgehad.
+§ 1. De provincieraad wordt om de zes jaar volledig vernieuwd. De leden worden rechtstreeks verkozen. Zij zijn herverkiesbaar. De verkiezingen geschieden per district. Een district bevat één of meer kieskantons.<br /><br />Ieder district telt zoveel keer een raadslid als de provinciale deler in zijn bevolkingscijfer begrepen is. Die deler wordt verkregen door het bevolkingscijfer van de provincie te delen door het totaal van de toe te kennen zetels. De overblijvende zetels worden toegewezen aan de districten met het grootste nog niet vertegenwoordigde bevolkingsoverschot.<br /><br />De lijst van de districten en de aanwijzing van de districthoofdplaats wordt vastgesteld in de tabel die als bijlage bij dit decreet is gevoegd. De verdeling van de raadsleden over de kiesdistricten wordt bij elke volledige vernieuwing van de provincieraden door de Vlaamse Regering voor elk kiesdistrict in overeenstemming gebracht met de bevolking op basis van de bevolkingscijfers, vastgesteld overeenkomstig artikel 5.<br /><br />Die lijst wordt uiterlijk vijf maanden voor de volledige vernieuwing van de provincieraden in het Belgisch Staatsblad bekendgemaakt.<br /><br />§ 2. Na een volledige vernieuwing van de provincieraad blijven de uittredende provincieraadsleden in functie tot de geloofsbrieven van de nieuw verkozen provincieraadsleden onderzocht zijn en hun installatie heeft plaatsgehad.
 
 ## Afdeling II De werking van de provincieraad
 
@@ -417,3 +417,7 @@ De Vlaamse Regering bepaalt de schrijfwijze van de namen van de provincie.
 ## HOOFDSTUK III Inwerkingtreding
 
 ## Bijlage
+
+### Tekst
+
+[... <em>(vernietigd bij&nbsp;arrest&nbsp;Grondwettelijk Hof 149/2007&nbsp;van 5 december 2007)</em>]
