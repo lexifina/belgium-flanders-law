@@ -1,0 +1,17 @@
+{
+  "codex_id": 1014660,
+  "title": "Ministerieel besluit van 2006-07-04 tot bepaling van het aantal kiezers dat per stemafdeling mag stemmen in de kieskantons en de gemeenten die voor het gebruik van een geautomatiseerd stemsysteem zijn aangewezen voor de verkiezingen van de provincie-, gemeente- en districtsraden",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1014660/VolledigDocument?datum=2006-07-12",
+  "source_sha256": "731bbb62c4f64da66e49a6aae47a26f580c7b5f0862cb2e419cc7bbf7fea2a88",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1014660&param=informatie",
+  "as_of": "2006-07-12",
+  "made": "2006-07-04",
+  "gazette": "2006-07-12",
+  "numac": 2006036077,
+  "document_start": "2006-07-12",
+  "document_end": null,
+  "in_force": "2006-07-12",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2006-07-12; oldest version available; future article versions excluded; article text as the API gives it"
+}
