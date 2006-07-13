@@ -1,0 +1,17 @@
+{
+  "codex_id": 1014664,
+  "title": "Decreet van 2006-07-07 houdende wijziging van de gemeentekieswet, gecoördineerd op 4 augustus 1932, de wet van 19 oktober 1921 tot regeling van de provincieraadsverkiezingen en de wet van 11 april 1994 tot organisatie van de geautomatiseerde stemming",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1014664/VolledigDocument?datum=2006-07-13",
+  "source_sha256": "46547b2b85f401f8418b9bfcffebe28d3ef4449ad8b70540bb2ca4a0fe5064d4",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1014664&param=informatie",
+  "as_of": "2006-07-13",
+  "made": "2006-07-07",
+  "gazette": "2006-07-13",
+  "numac": 2006036112,
+  "document_start": "2006-07-13",
+  "document_end": null,
+  "in_force": "2006-07-13",
+  "article_versions": 20,
+  "record_form": "consolidated version as in force on 2006-07-13; oldest version available; future article versions excluded; article text as the API gives it"
+}
