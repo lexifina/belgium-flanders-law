@@ -1,0 +1,17 @@
+{
+  "codex_id": 1014629,
+  "title": "Besluit van de Vlaamse Regering van 2006-06-16 tot wijziging van het besluit van de Vlaamse Regering van 26 maart 2004 houdende regels tot uitvoering van het oppervlaktedelfstoffendecreet",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1014629/VolledigDocument?datum=2006-07-15",
+  "source_sha256": "45be63adcf39f6399d0e442d9a898334aa49d7fc6fe90c92fc385efddeff43d9",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1014629&param=informatie",
+  "as_of": "2006-07-15",
+  "made": "2006-06-16",
+  "gazette": "2006-07-05",
+  "numac": 2006035987,
+  "document_start": "2006-07-15",
+  "document_end": null,
+  "in_force": "2006-07-15",
+  "article_versions": 12,
+  "record_form": "consolidated version as in force on 2006-07-15; oldest version available; future article versions excluded; article text as the API gives it"
+}
