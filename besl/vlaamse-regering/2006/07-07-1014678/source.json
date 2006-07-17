@@ -1,0 +1,17 @@
+{
+  "codex_id": 1014678,
+  "title": "Besluit van de Vlaamse Regering van 2006-07-07 houdende de algemene regels voor het aanbrengen van verkiezingsaffiches en het organiseren van gemotoriseerde optochten",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1014678/VolledigDocument?datum=2006-07-17",
+  "source_sha256": "19ee5b7d4bf114bbc333e5aad97819ea38045f06de57e02ac95744e3ecc33d93",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1014678&param=informatie",
+  "as_of": "2006-07-17",
+  "made": "2006-07-07",
+  "gazette": "2006-07-17",
+  "numac": 2006036107,
+  "document_start": "2006-07-17",
+  "document_end": "2012-06-23",
+  "in_force": "2006-07-17",
+  "article_versions": 13,
+  "record_form": "consolidated version as in force on 2006-07-17; oldest version available; future article versions excluded; article text as the API gives it"
+}
