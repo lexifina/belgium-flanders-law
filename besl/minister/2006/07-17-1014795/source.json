@@ -1,0 +1,17 @@
+{
+  "codex_id": 1014795,
+  "title": "Ministerieel besluit van 2006-07-17 tot samenstelling van het expertencollege, vermeld in artikel 6 van het besluit van de Vlaamse Regering van 25 november 2005 betreffende de erkenning van voedselkwaliteitsregelingen met toepassing van Verordening (EG) nr. 1257/1999",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1014795/VolledigDocument?datum=2006-07-17",
+  "source_sha256": "f35e48b517b376d0d1603297fd9c9feb2999e552f0662d9c9a115652e6897521",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1014795&param=informatie",
+  "as_of": "2006-07-17",
+  "made": "2006-07-17",
+  "gazette": "2006-08-03",
+  "numac": 2006036171,
+  "document_start": "2006-07-17",
+  "document_end": null,
+  "in_force": "2006-07-17",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2006-07-17; oldest version available; future article versions excluded; article text as the API gives it"
+}
