@@ -1,0 +1,17 @@
+{
+  "codex_id": 1014899,
+  "title": "Ministerieel besluit van 2006-07-19 tot uitvoering van het besluit van de Vlaamse Regering van 25 november 2005 betreffende de erkenning van voedselkwaliteitsregelingen met toepassing van Verordening (EG) nr. 1257/1999",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1014899/VolledigDocument?datum=2006-07-19",
+  "source_sha256": "7328204e962be38e70a704c9b593025e987bac8610fdb584cabf3720428a3fd5",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1014899&param=informatie",
+  "as_of": "2006-07-19",
+  "made": "2006-07-19",
+  "gazette": "2006-08-30",
+  "numac": 2006036277,
+  "document_start": "2006-07-19",
+  "document_end": null,
+  "in_force": "2006-07-19",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2006-07-19; oldest version available; future article versions excluded; article text as the API gives it"
+}
