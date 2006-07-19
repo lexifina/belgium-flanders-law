@@ -1,0 +1,17 @@
+{
+  "codex_id": 1014860,
+  "title": "Ministerieel besluit van 2006-07-19 tot uitvoering van artikelen 11, 3°, en 12 van het ministerieel besluit van 29 oktober 2004 tot uitvoering van het besluit van de Vlaamse Regering van 1 oktober 2004 tot toekenning van steun aan ondernemingen voor ecologie-investeringen in het Vlaamse Gewest",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1014860/VolledigDocument?datum=2006-07-19",
+  "source_sha256": "af43d2fd30fb5d491f59d5c6f87ee447b5accf0c4bbceece81710086f8e81a81",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1014860&param=informatie",
+  "as_of": "2006-07-19",
+  "made": "2006-07-19",
+  "gazette": "2006-08-18",
+  "numac": 2006036241,
+  "document_start": "2006-07-19",
+  "document_end": null,
+  "in_force": "2006-07-19",
+  "article_versions": 14,
+  "record_form": "consolidated version as in force on 2006-07-19; oldest version available; future article versions excluded; article text as the API gives it"
+}
