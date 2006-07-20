@@ -2,16 +2,16 @@
   "codex_id": 1014679,
   "title": "Ministerieel besluit van 2006-05-12 tot uitvoering van het besluit van de Vlaamse Regering van 4 april 2003 ter ondersteuning van brugprojecten tussen economie en onderwijs",
   "type": "Ministerieel besluit",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1014679/VolledigDocument?datum=2006-05-31",
-  "source_sha256": "539efdcb0d4cda62205f67fee2b7aae8adac146560109538df9dbc19c208d6ae",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1014679/VolledigDocument?datum=2006-07-20",
+  "source_sha256": "4aa28dcbf5a2782d2bbd187c45c722bbef1fd1768bed263d585cb427a5f4b669",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1014679&param=informatie",
-  "as_of": "2006-05-31",
+  "as_of": "2006-07-20",
   "made": "2006-05-12",
   "gazette": "2006-07-17",
   "numac": 2006036069,
   "document_start": "2006-05-31",
   "document_end": null,
-  "in_force": "2006-05-31",
+  "in_force": "2006-07-20",
   "article_versions": 11,
-  "record_form": "consolidated version as in force on 2006-05-31; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2006-07-20; future article versions excluded; article text as the API gives it"
 }

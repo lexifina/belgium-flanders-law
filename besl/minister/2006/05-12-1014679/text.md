@@ -34,7 +34,7 @@ De indieningsdatum wordt als volgt bepaald:<br />1° de datum vermeld op het ont
 
 ### ART. 8.
 
-De aanvragen, vermeld in artikel 8, § 2, van hetzelfde besluit, worden ingediend op het volgend adres:<br />Ministerie van de Vlaamse Gemeenschap<br />Afdeling Economisch Ondersteuningsbeleid<br />Markiesstraat 1<br />1000 Brussel<br />oproep.brugprojecten@vlaanderen.be<br /><br />
+De aanvragen, vermeld in artikel 8, § 2, van hetzelfde besluit, worden bovendien schriftelijk ingediend op het volgende adres :<br />Agentschap Economie<br />Entiteit Economisch Ondersteuningsbeleid<br />Markiesstraat 1, 1000 Brussel<br />tel. : 02/553 35 11<br />fax : 02/553 37 88<br />e-mail : oproep.brugprojecten@vlaanderen .be
 
 ### ART. 9.
 
