@@ -1,0 +1,17 @@
+{
+  "codex_id": 1014650,
+  "title": "Ministerieel besluit van 2006-05-04 tot vaststelling van de subsidieerbare urencontingenten 2006 van de private diensten voor gezinszorg",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1014650/VolledigDocument?datum=2006-07-20",
+  "source_sha256": "dcb4d90442eb286139f76f259fe762b2feb254109f2f74ce0144f6b324a148c9",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1014650&param=informatie",
+  "as_of": "2006-07-20",
+  "made": "2006-05-04",
+  "gazette": "2006-07-10",
+  "numac": 2006036033,
+  "document_start": "2006-07-20",
+  "document_end": null,
+  "in_force": "2006-07-20",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2006-07-20; oldest version available; future article versions excluded; article text as the API gives it"
+}
