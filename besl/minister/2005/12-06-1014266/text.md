@@ -41,3 +41,7 @@ De bevoegde entiteit kan een inspectie ter plaatse uitvoeren bij de landbouwer. 
 Dit besluit treedt in werking op 1 december 2005.
 
 ## [HOOFDSTUK V Adviescommissie]
+
+### ART. 7bis.
+
+De adviescommissie, vermeld in artikel 3 van het besluit van de Vlaamse Regering van 14 oktober 2005 betreffende de toekenning van subsidies voor de zorg en activering van zorgvragers op land- en tuinbouwbedrijven met toepassing van het Vlaams Programma voor Plattelandsontwikkeling, is samengesteld uit :<br />1° twee vertegenwoordigers op voordracht van de Vlaamse minister van Institutionele Hervormingen, Landbouw, Zeevisserij en Plattelandsbeleid, waarvan één optreedt als voorzitter;<br />2° twee vertegenwoordigers op voordracht van de Vlaamse minister van Welzijn, Volksgezondheid en Gezin;<br />3° één vertegenwoordiger op voordracht van de Vlaamse minister van Werk, Onderwijs en Vorming.<br /><br />De leden worden benoemd door de minister door wie ze voorgedragen zijn voor een hernieuwbare termijn van vier jaar.<br /><br />De Vlaamse minister, bevoegd voor het landbouwbeleid, benoemt de voorzitter voor een hernieuwbare termijn van vier jaar. <br />
