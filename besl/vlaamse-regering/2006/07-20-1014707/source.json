@@ -1,0 +1,17 @@
+{
+  "codex_id": 1014707,
+  "title": "Besluit van de Vlaamse Regering van 2006-07-20 tot opheffing van de erkenning van de NV SEV Asset Management als gespecialiseerde dochteronderneming van de Vlaamse milieuholding",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1014707/VolledigDocument?datum=2006-07-20",
+  "source_sha256": "93d2af6663ae8503234798d7378ca76657d91710fc5060c5d5cbd953b6db6184",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1014707&param=informatie",
+  "as_of": "2006-07-20",
+  "made": "2006-07-20",
+  "gazette": "2006-07-31",
+  "numac": 2006036177,
+  "document_start": "2006-07-20",
+  "document_end": null,
+  "in_force": "2006-07-20",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2006-07-20; oldest version available; future article versions excluded; article text as the API gives it"
+}
