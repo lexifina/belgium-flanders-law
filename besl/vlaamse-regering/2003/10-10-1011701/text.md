@@ -100,7 +100,7 @@ Voor subsidieaanvragen met een subsidiabel investeringsbedrag tot en met 8.000.0
 
 ### ART. 21.
 
-§ 1. De subsidieaanvragen met een subsidiabel investeringsbedrag van meer dan 8.000.000 euro worden, op voorstel van de minister, beslist door de Vlaamse regering rekening houdend met de beleidsprioriteiten, de Europese regelgeving en dit besluit, met uitzondering van artikellen 16 tot en met 20.<br /><br />§ 2. Deze subsidieaanvragen worden minstens 1 maand vóór de agendering van het subsidievoorstel meegedeeld aan de Vlaamse regering.
+...
 
 ## HOOFDSTUK V UITBETALING EN VERJARING
 
