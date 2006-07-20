@@ -1,0 +1,17 @@
+{
+  "codex_id": 1014644,
+  "title": "Ministerieel besluit van 2006-06-01 houdende vaststelling van het subsidiëringsprogramma voor gemeentelijke rioleringen en KWZI's, voor het eerste kwartaalprogramma 2007",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1014644/VolledigDocument?datum=2006-07-20",
+  "source_sha256": "4a8127c2b13252b2637f33d514c84431bb25120d2e5378fd5fa5862820cb6991",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1014644&param=informatie",
+  "as_of": "2006-07-20",
+  "made": "2006-06-01",
+  "gazette": "2006-07-10",
+  "numac": 2006036055,
+  "document_start": "2006-07-20",
+  "document_end": null,
+  "in_force": "2006-07-20",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2006-07-20; oldest version available; future article versions excluded; article text as the API gives it"
+}
