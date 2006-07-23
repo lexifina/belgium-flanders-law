@@ -2,16 +2,16 @@
   "codex_id": 1014298,
   "title": "Ministerieel besluit van 2005-11-25 betreffende de vaststelling van de modaliteiten van het besluit van de Vlaamse Regering tot instelling van een bedrijfstoeslagregeling en tot vaststelling van bepaalde steunregelingen voor landbouwers en tot toepassing van de randvoorwaarden",
   "type": "Ministerieel besluit",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1014298/VolledigDocument?datum=2006-06-01",
-  "source_sha256": "2b2a7872bd08b6fec5994d01118f7713efab2ca2b254ab47c6bb5636c71c9054",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1014298/VolledigDocument?datum=2006-07-23",
+  "source_sha256": "b3782ad12961d715703e7eed3b8fe5d4920d4103056806c51b7aebd279af1796",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1014298&param=informatie",
-  "as_of": "2006-06-01",
+  "as_of": "2006-07-23",
   "made": "2005-11-25",
   "gazette": "2006-02-21",
   "numac": 2006035208,
   "document_start": "2005-01-01",
   "document_end": "2008-12-31",
-  "in_force": "2006-06-01",
-  "article_versions": 17,
-  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "in_force": "2006-07-23",
+  "article_versions": 18,
+  "record_form": "consolidated version as in force on 2006-07-23; future article versions excluded; article text as the API gives it"
 }
