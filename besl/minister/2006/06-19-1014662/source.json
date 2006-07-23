@@ -1,0 +1,17 @@
+{
+  "codex_id": 1014662,
+  "title": "Ministerieel besluit van 2006-06-19 tot wijziging van het ministerieel besluit van 25 november 2005 betreffende de vaststelling van de modaliteiten van het besluit van de Vlaamse Regering van 8 juli 2005 tot instelling van een bedrijfstoeslagregeling en tot vaststelling van bepaalde steunregelingen voor landbouwers en tot toepassing van de randvoorwaarden",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1014662/VolledigDocument?datum=2006-07-23",
+  "source_sha256": "5c9672dc825492873473c3c47c85cb07fd5d93f6cf5ee650eb58aed7c87c23be",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1014662&param=informatie",
+  "as_of": "2006-07-23",
+  "made": "2006-06-19",
+  "gazette": "2006-07-13",
+  "numac": 2006036042,
+  "document_start": "2006-07-23",
+  "document_end": null,
+  "in_force": "2006-07-23",
+  "article_versions": 13,
+  "record_form": "consolidated version as in force on 2006-07-23; oldest version available; future article versions excluded; article text as the API gives it"
+}
