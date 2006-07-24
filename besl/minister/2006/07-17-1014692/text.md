@@ -6,12 +6,12 @@ De Vlaamse minister van Cultuur, Jeugd, Sport en Brussel,<br /><br />Gelet op he
 
 ### ART. 1.
 
-De procedure voor dopingcontrole, uitgevoerd overeenkomstig de reglementering van de FISA., wordt erkend als gelijkwaardig met de bepalingen in het besluit van de Vlaamse Regering van 16 december 2005 houdende uitvoering van het decreet van 27 maart 1991 inzake medisch verantwoorde sportbeoefening, mits inachtname van de procedurevoorschriften vermeld in artikel 2.<br /><br />
+...
 
 ### ART. 2.
 
-§ 1. De in artikel 1 vermelde gelijkwaardigheid geldt enkel voor de monsternemingen, uitgevoerd tijdens het wereldkampioenschap roeien -23 jaar in Hazewinkel van 20 juli tot en met 23 juli 2006. <br /><br />§ 2.De dopingcontrole moet worden uitgevoerd door een controlearts die erkend is door de Vlaamse minister, bevoegd voor de medisch verantwoorde sportbeoefening.<br /><br />§ 3.Een kopie van elk proces-verbaal van monsterneming, met vermelding van de gebruikte codes, moet onmiddellijk na de meeting, gestuurd worden naar het Vlaams ministerie van Cultuur, Jeugd, Sport en Media.<br /><br />§ 4. Een kopie van elk analyseverslag van het erkende laboratorium moet binnen acht dagen na de opmaak van het analyseverslag gestuurd worden naar het Vlaams ministerie van Cultuur, Jeugd, Sport en Media.<br /><br />
+...
 
 ### ART. 3.
 
-Dit besluit treedt in werking op 20 juli 2006.<br /><br />
+...

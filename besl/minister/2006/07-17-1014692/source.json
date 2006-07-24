@@ -2,16 +2,16 @@
   "codex_id": 1014692,
   "title": "Ministerieel besluit van 2006-07-17 houdende de tijdelijke erkenning van de procedure van monsterneming voor dopingcontrole van de Wereldroeibond (FISA) in het kader van de medisch verantwoorde sportbeoefening",
   "type": "Ministerieel besluit",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1014692/VolledigDocument?datum=2006-07-20",
-  "source_sha256": "934adc55ee7e805f3aec5de34c4ae77627f92aa2d59459f2d834471b724574c1",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1014692/VolledigDocument?datum=2006-07-24",
+  "source_sha256": "ddecd9080f8cc26b75aaa9294bf6c88cf29c813b698e077f177b7d1528c12216",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1014692&param=informatie",
-  "as_of": "2006-07-20",
+  "as_of": "2006-07-24",
   "made": "2006-07-17",
   "gazette": "2006-07-20",
   "numac": 2006036142,
   "document_start": "2006-07-20",
   "document_end": "2006-07-23",
-  "in_force": "2006-07-20",
+  "in_force": "2006-07-24",
   "article_versions": 4,
-  "record_form": "consolidated version as in force on 2006-07-20; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2006-07-24; future article versions excluded; article text as the API gives it"
 }
