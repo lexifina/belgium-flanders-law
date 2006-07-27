@@ -1,0 +1,17 @@
+{
+  "codex_id": 1014680,
+  "title": "Besluit van de Vlaamse Regering van 2006-05-05 betreffende de toekenning van subsidies aan time-outprojecten voor welzijn en onderwijs",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1014680/VolledigDocument?datum=2006-07-27",
+  "source_sha256": "befdc520cc9a6dfcac2768428e63923e313718c882fc426b16f56ecd069a72ed",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1014680&param=informatie",
+  "as_of": "2006-07-27",
+  "made": "2006-05-05",
+  "gazette": "2006-07-17",
+  "numac": 2006036070,
+  "document_start": "2006-07-27",
+  "document_end": null,
+  "in_force": "2006-07-27",
+  "article_versions": 7,
+  "record_form": "consolidated version as in force on 2006-07-27; oldest version available; future article versions excluded; article text as the API gives it"
+}
