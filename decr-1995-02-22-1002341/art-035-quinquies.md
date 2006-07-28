@@ -1,0 +1,3 @@
+# Art. 35quinquies
+De Vlaamse Regering kan subsidies toekennen aan een erkende bodemsaneringsorganisatie voor de gedeeltelijke financiering van de taken inzake historische bodemverontreiniging of als historisch te beschouwen bodemverontreiniging die is veroorzaakt door de activiteit waarvoor een erkende bodemsaneringsorganisatie is opgericht. Voor gevallen van gemengde bodemverontreiniging kan de aan de erkende bodemsaneringsorganisatie toegekende subsidie alleen worden aangewend voor de gedeeltelijke financiering van de taken inzake het als historisch te beschouwen deel van de bodemverontreiniging.
+De Vlaamse Regering stelt de nadere regels voor de subsidies vast.
