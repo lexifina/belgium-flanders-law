@@ -1,0 +1,17 @@
+{
+  "codex_id": 1014866,
+  "title": "Ministerieel besluit van 2006-07-28 houdende delegatie van bevoegdheid tot aankoop van de aandelen van T-Groep",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1014866/VolledigDocument?datum=2006-07-28",
+  "source_sha256": "eae188715abd4d4c44a61b3d6162f44dc42f7361d94e123dd5b895e1fa7d62ba",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1014866&param=informatie",
+  "as_of": "2006-07-28",
+  "made": "2006-07-28",
+  "gazette": "2006-08-23",
+  "numac": 2006036227,
+  "document_start": "2006-07-28",
+  "document_end": null,
+  "in_force": "2006-07-28",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2006-07-28; oldest version available; future article versions excluded; article text as the API gives it"
+}
