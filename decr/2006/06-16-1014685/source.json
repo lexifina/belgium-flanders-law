@@ -1,0 +1,17 @@
+{
+  "codex_id": 1014685,
+  "title": "Decreet van 2006-06-16 tot wijziging van het decreet van 22 februari 1995 betreffende de bodemsanering",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1014685/VolledigDocument?datum=2006-07-28",
+  "source_sha256": "ef15d9f23222f54465c88a526530c724ee81aeafba324c924af087707ee2edc8",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1014685&param=informatie",
+  "as_of": "2006-07-28",
+  "made": "2006-06-16",
+  "gazette": "2006-07-18",
+  "numac": 2006036086,
+  "document_start": "2006-07-28",
+  "document_end": null,
+  "in_force": "2006-07-28",
+  "article_versions": 5,
+  "record_form": "consolidated version as in force on 2006-07-28; oldest version available; future article versions excluded; article text as the API gives it"
+}
