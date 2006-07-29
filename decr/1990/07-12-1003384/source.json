@@ -2,16 +2,16 @@
   "codex_id": 1003384,
   "title": "Decreet van 1990-07-12 houdende organisatie van de Gewestelijke Ontwikkelingsmaatschappijen",
   "type": "Decreet",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1003384/VolledigDocument?datum=2006-06-01",
-  "source_sha256": "f020e8be7090fc1693cf5095a671351579cfc94d0491284ba68cd24bc7010743",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1003384/VolledigDocument?datum=2006-07-29",
+  "source_sha256": "61f1201dbd6f9b94d722a302cdb815c1e9d7de389366263e286d15b7bd963945",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1003384&param=informatie",
-  "as_of": "2006-06-01",
+  "as_of": "2006-07-29",
   "made": "1990-07-12",
   "gazette": "1990-09-11",
   "numac": 1990030004,
   "document_start": null,
   "document_end": "2006-07-28",
-  "in_force": "2006-06-01",
-  "article_versions": 28,
-  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "in_force": "2006-07-29",
+  "article_versions": 27,
+  "record_form": "consolidated version as in force on 2006-07-29; future article versions excluded; article text as the API gives it"
 }
