@@ -2,16 +2,16 @@
   "codex_id": 1014559,
   "title": "Ministerieel besluit van 2006-05-31 houdende de tijdelijke erkenning van de procedure van monsterneming voor dopingcontrole van de Europese Atletiek Associatie (E.A.A.) en de «International Association of Athletics Federations (I.A.A.F.) » in het kader van de medisch verantwoorde sportbeoefening",
   "type": "Ministerieel besluit",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1014559/VolledigDocument?datum=2006-06-01",
-  "source_sha256": "c70819915581388d94b772cdb52cdaed31b6e263992e0c5e28a528df1e042bd2",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1014559/VolledigDocument?datum=2006-08-01",
+  "source_sha256": "037a31947adeeaefee99cab781d75ea407522e5acd1c549b0cd5a6e96d243558",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1014559&param=informatie",
-  "as_of": "2006-06-01",
+  "as_of": "2006-08-01",
   "made": "2006-05-31",
   "gazette": "2006-06-13",
   "numac": 2006035890,
   "document_start": "2006-06-01",
   "document_end": "2006-07-31",
-  "in_force": "2006-06-01",
+  "in_force": "2006-08-01",
   "article_versions": 5,
-  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2006-08-01; future article versions excluded; article text as the API gives it"
 }
