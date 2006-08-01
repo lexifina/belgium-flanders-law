@@ -2,16 +2,16 @@
   "codex_id": 1013586,
   "title": "Besluit van de Vlaamse Regering van 2004-10-01 tot toekenning van steun aan ondernemingen voor ecologie-investeringen in het Vlaamse Gewest",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1013586/VolledigDocument?datum=2006-07-01",
-  "source_sha256": "94e1f05a9671fb90c54a4a385adc587fb7e4737c99129822152bdc343bf31c34",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1013586/VolledigDocument?datum=2006-08-01",
+  "source_sha256": "f29f0bb342ce020617f3cb647c2aa43a2e6f1a1a42db5f77cc9bbe30642cc27a",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1013586&param=informatie",
-  "as_of": "2006-07-01",
+  "as_of": "2006-08-01",
   "made": "2004-10-01",
   "gazette": "2005-02-07",
   "numac": 2004036698,
   "document_start": null,
   "document_end": "2007-05-15",
-  "in_force": "2006-07-01",
-  "article_versions": 32,
-  "record_form": "consolidated version as in force on 2006-07-01; future article versions excluded; article text as the API gives it"
+  "in_force": "2006-08-01",
+  "article_versions": 33,
+  "record_form": "consolidated version as in force on 2006-08-01; future article versions excluded; article text as the API gives it"
 }
