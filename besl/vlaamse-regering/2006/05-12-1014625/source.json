@@ -1,0 +1,17 @@
+{
+  "codex_id": 1014625,
+  "title": "Besluit van de Vlaamse Regering van 2006-05-12 tot wijziging van het besluit van de Vlaamse Regering van 6 februari 1991 houdende vaststelling van het Vlaams reglement betreffende de milieuvergunning en van het besluit van de Vlaamse Regering van 1 juni 1995 houdende algemene en sectorale bepalingen inzake milieuhygiëne ter doorvoering van correcties van errata en verdere omzetting van EG-regelgeving",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1014625/VolledigDocument?datum=2006-08-01",
+  "source_sha256": "4106b8543ffd08e4d182b36cef32e231b0f524edce71b2dd52c483164151d684",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1014625&param=informatie",
+  "as_of": "2006-08-01",
+  "made": "2006-05-12",
+  "gazette": "2006-06-30",
+  "numac": 2006036000,
+  "document_start": "2006-08-01",
+  "document_end": null,
+  "in_force": "2006-08-01",
+  "article_versions": 66,
+  "record_form": "consolidated version as in force on 2006-08-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
