@@ -2,16 +2,16 @@
   "codex_id": 1011944,
   "title": "Besluit van de Vlaamse Regering van 2003-10-24 betreffende het in de handel brengen van vegetatief teeltmateriaal voor wijnstokken",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1011944/VolledigDocument?datum=2006-06-01",
-  "source_sha256": "1a15a5db4043efe496546769216599e3201c65e63e51d6865e2a198ddf35b252",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1011944/VolledigDocument?datum=2006-08-01",
+  "source_sha256": "9cc8c85c3bb412c3c6699853efc70eac0b819fe52794207531485f6b6121ecf0",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1011944&param=informatie",
-  "as_of": "2006-06-01",
+  "as_of": "2006-08-01",
   "made": "2003-10-24",
   "gazette": "2003-12-29",
   "numac": 2003036177,
   "document_start": null,
   "document_end": null,
-  "in_force": "2006-06-01",
+  "in_force": "2006-08-01",
   "article_versions": 34,
-  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2006-08-01; future article versions excluded; article text as the API gives it"
 }
