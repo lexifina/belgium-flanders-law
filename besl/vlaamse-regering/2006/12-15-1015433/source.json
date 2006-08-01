@@ -1,0 +1,17 @@
+{
+  "codex_id": 1015433,
+  "title": "Besluit van de Vlaamse Regering van 2006-12-15 tot wijziging van het besluit van de Vlaamse Regering van 13 juli 1994 inzake de erkenningsvoorwaarden en de subsidienormen voor de voorzieningen van de bijzondere jeugdbijstand",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1015433/VolledigDocument?datum=2006-08-01",
+  "source_sha256": "c58b247d06d81b2ad07a5a9629f0687b9c220719206bbd4113bb85ff9e567ccf",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1015433&param=informatie",
+  "as_of": "2006-08-01",
+  "made": "2006-12-15",
+  "gazette": "2007-02-02",
+  "numac": 2007035103,
+  "document_start": "2006-08-01",
+  "document_end": null,
+  "in_force": "2006-08-01",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2006-08-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
