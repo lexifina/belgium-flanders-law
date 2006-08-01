@@ -1,0 +1,17 @@
+{
+  "codex_id": 1018494,
+  "title": "Besluit van de Vlaamse Regering van 2006-06-30 tot vaststelling van de regels van de officiële spelling en spraakkunst van de Nederlandse taal",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1018494/VolledigDocument?datum=2006-08-01",
+  "source_sha256": "99880cdb7799b79fd29ce1592506ee583780cf2d2f1ea3e3e394ff76e799ff1f",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1018494&param=informatie",
+  "as_of": "2006-08-01",
+  "made": "2006-06-30",
+  "gazette": "2009-10-29",
+  "numac": 2009036011,
+  "document_start": "2006-08-01",
+  "document_end": null,
+  "in_force": "2006-08-01",
+  "article_versions": 7,
+  "record_form": "consolidated version as in force on 2006-08-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
