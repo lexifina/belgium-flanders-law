@@ -4,7 +4,145 @@
 
 ### ART. 1.
 
-Voor de toepassing van dit besluit wordt verstaan onder:<br /><br />1° "de Vlaamse minister": het lid van de Vlaamse regering tot wiens bevoegdheid de bescherming van het leefmilieu behoort;<br /><br />2° "het decreet": het decreet van 28 juni 1985 betreffende de milieuvergunning;<br /><br />3° "de indelingslijst": de aan dit besluit als bijlage 1 toegevoegde [...  <span class="reference">(geschr. B.V.R. 1 juni 1995, art. 7.1.1.1, I: 1 augustus 1995)</span> ] lijst van als hinderlijk beschouwde inrichtingen tot vaststelling, overeenkomstig het bedoelde in artikel 3 van het decreet, bij welke van de drie klassen van inrichtingen zij worden ingedeeld, naargelang van de graad waarin zij geacht worden belastend te zijn voor de mens en het leefmilieu;<br /><br />4° "inrichtingen": fabrieken, werkplaatsen, opslagplaatsen, machines, installaties, toestellen en handelingen die op de indelingslijst voorkomen;<br /><br />5° "exploiteren": in werking stellen of houden, gebruiken, installeren of in stand houden van een inrichting, daaronder begrepen het lozen van afvalwater;<br /><br />6° "exploitant": elke natuurlijke of rechtspersoon die een inrichting exploiteert of voor wiens rekening een inrichting wordt geëxploiteerd;<br /><br />7° "veranderen van een inrichting": wijzigen, uitbreiden, toevoegen:<br /><br />- "wijzigen": het verplaatsen binnen de vergunde inrichting, of het aanwenden van een andere fabricagemethode;<br /><br />- "uitbreiden": het vergroten in capaciteit, in drijfkracht of in oppervlakte op percelen waarop de geldende vergunning betrekking heeft;<br /><br />- "toevoegen": het vergroten in opslagcapaciteit, in drijfkracht of in oppervlakte of percelen, waarop de geldende vergunning geen betrekking heeft;<br /><br />8° "tijdelijke inrichtingen": de in de indelingslijst met de letter T aangeduide vergunningsplichtige inrichtingen waarvan de exploitatie geen blijvende gevolgen voor het leefmilieu veroorzaakt en in principe niet langer zal duren dan:<br /><br />- één jaar, als het een inrichting betreft die verband houdt met een bouwwerf;<br /><br />- drie maanden in de andere gevallen.<br /><br />9° ["afvalwater": verontreinigd water waarvan men zich ontdoet, zich moet ontdoen of de intentie heeft zich van te ontdoen, met uitzondering van hemelwater dat niet in aanraking is geweest met verontreinigende stoffen;<br /><br />10° "huishoudelijk afvalwater": afvalwater dat enkel bestaat uit het water afkomstig van:<br /><br />- normale huishoudelijke activiteiten;<br /><br />- sanitaire installaties;<br /><br />- keukens;<br /><br />- het reinigen van gebouwen zoals woningen, kantoren, plaatsen waar groot- of kleinhandel wordt gedreven, zalen voor vertoningen, kazernen, kampeerterreinen, gevangenissen, onderwijsinrichtingen met of zonder internaat, klinieken, hospitalen en andere inrichtingen waar niet besmettelijke zieken opgenomen en verzorgd worden, zwembaden, hotels, restaurants, drankgelegenheden, kapsalons;<br /><br />- afvalwater afkomstig van wassalons, waar de toestellen uitsluitend door het cliënteel zelf worden bediend;<br /><br />11° "koelwater": het water dat in de nijverheid voor afkoeling gebruikt wordt en dat niet in aanraking is gekomen met af te koelen stoffen of met andere verontreinigende stoffen;<br /><br />12° "bedrijfsafvalwater": alle afvalwater dat niet voldoet aan de bepalingen van huishoudelijk afvalwater of koelwater;  <span class="reference">(verv. B.V.R. 1 juni 1995, art. 7.1.1.1., I: 1 augustus 1995)</span> ]<br /><br />13° [...  <span class="reference">(opgeh. B.V.R. 1 juni 1995, art. 7.1.1.1., I: 1 augustus 1995)</span> ]<br /><br />14° [...  <span class="reference">(opgeh. B.V.R. 1 juni 1995, art. 7.1.1.1., I: 1 augustus 1995)</span> ]<br /><br />15° ["afvalstoffen": afvalstoffen zoals bedoeld in het decreet van 2 juli 1981 betreffende de voorkoming en het beheer van afvalstoffen en zijn uitvoeringsbesluiten. De definities zoals bepaald in dat decreet en zijn uitvoeringsbesluiten zijn eveneens geldig voor de toepassing van dit besluit;  <span class="reference">(verv. B.V.R. 1 juni 1995, art. 7.1.1.1., I: 1 augustus 1995)</span> ]<br /><br />16° ["GPBV-installatie": een inrichting die in de vierde kolom van de indelingslijst is aangeduid met de letter x en die als dusdanig onder de toepassing valt van de bepalingen van de titels I en II van het VLAREM inzake geïntegreerde preventie en bestrijding van verontreiniging als bedoeld in de EU-richtlijn 96/61/EEG van 24 september 1996 en die de vaste technische eenheid omvat waarin de activiteiten en processen, vermeld in de tweede kolom, alsmede andere daarmee rechtstreeks samenhangende activiteiten plaatsvinden die technisch in verband staan met de op die plaats ten uitvoer gebrachte activiteiten en die gevolgen kunnen hebben voor de emissies en de verontreiniging;  <span class="reference">(verv. B.V.R. 12 januari 1999, art. 1, I: 1 mei 1999)</span> ]<br /><br />17° ["vergunning": het gedeelte van (een) schriftelijk(e) besluit(en) of het besluit (die besluiten) in zijn (hun) geheel waarbij machtiging wordt verleend om een inrichting te exploiteren onder bepaalde voorwaarden die moeten garanderen dat de inrichting voldoet aan de eisen van dit reglement alsook van titel II van het VLAREM en waarbij een vergunning betrekking kan hebben op een of meer inrichtingen die zich op dezelfde locatie bevinden en die door dezelfde exploitant worden geëxploiteerd;  <span class="reference">(verv. B.V.R. 12 januari 1999, art. 1, I: 1 mei 1999)</span> ]<br /><br />18° [belangrijke wijziging van een inrichting:<br /><br />a) een aanzienlijke verandering zoals gedefinieerd in artikel 1.1.2 van titel II van het VLAREM;<br /><br />b) een verandering die op zich beantwoordt aan de indelingscriteria van een rubriek of subrubriek uit de indelingslijst die in de vierde kolom is aangeduid met een X;<br /><br />c) beide veranderingen, vermeld in punt a) en b);  <span class="reference">(verv. B.V.R. 3 juni 2005, art. 1, I: 1 juli 2005)</span> ]<br /><br />19° ["gevaarlijke stoffen": stoffen, mengsels of preparaten, genoemd in bijlage 6, deel 1, gevoegd bij dit besluit of beantwoordend aan de criteria in bijlage 6, deel 2, gevoegd bij dit besluit en aanwezig als grondstof, product, bijproduct, residu of tussenproduct, met inbegrip van die stoffen waarvan redelijkerwijs mag worden verwacht dat ze bij een ongeval ontstaan;  <span class="reference">(verv. B.V.R. 12 januari 1999, art. 1; I: op datum inwerkingtreding samenwerkingsakkoord tussen federale staat, het Vlaams Gewest, het Waals Gewest en het Brussels Hoofdstedelijk Gewest betreffende de beheersing van zware ongevallen waarbij gevaarlijke stoffen zijn betrokken)</span> ]<br /><br />20° ["gevaar": de intrinsieke eigenschap van een gevaarlijke stof of van een fysische situatie die potentieel tot schade voor de gezondheid van de mens en/of het milieu kan leiden;  <span class="reference">(verv. B.V.R. 12 januari 1999, art. 1, I: op datum inwerkingtreding samenwerkingsakkoord tussen federale staat, het Vlaams Gewest, het Waals gewest en het Brussels Hoofdstedelijk Gewest betreffende de beheersing van zware ongevallen waarbij gevaarlijke stoffen zijn betrokken)</span> ]<br /><br />21° ["risico": de waarschijnlijkheid dat een bepaald effect zich binnen een bepaalde periode of onder bepaalde omstandigheden voordoet; (verv. B.V.R. 12 januari 1999, art. 1, I: op datum inwerkingtreding samenwerkingsakkoord tussen federale staat, het Vlaams Gewest, het Waals Gewest en het Brussels Hoofdstedelijk gewest betreffende de beheersing van zware ongevallen waarbij gevaarlijke stoffen zijn betrokken)]<br /><br />22° ["Verdrag van Espoo": Verdrag inzake milieu-effectenrapportage in grensoverschrijdend verband en van de aanhangsels I, II, III, IV, V, VI en VII ondertekend in Espoo op 25 februari 1991;  <span class="reference">(verv. B.V.R. 12 januari 1999, art. 1, I: 1 mei 1999)</span> ]<br /><br />23° [... <span class="reference">(opgeh. B.V.R. 27 april 1994, art.2, I: 7 mei 1994)</span> ]<br /><br />24° ["zwaar ongeval": een gebeurtenis, zoals een zware emissie, brand of explosie als gevolg van onbeheerste ontwikkelingen tijdens de bedrijfsuitoefening in een inrichting, waardoor onmiddellijk of na verloop van tijd ernstig gevaar voor de gezondheid van de mens binnen of buiten de inrichting en/of voor het milieu ontstaat en waarbij een of meer gevaarlijke stoffen betrokken zijn;  <span class="reference">(verv. B.V.R. 12 januari 1999, art. 1, I: op datum inwerkingtreding samenwerkingsakkoord tussen federale staat, het Vlaams Gewest, het Waals Gewest en het Brussels Hoofdstedelijk Gewest betreffende de beheersing van zware ongevallen waarbij gevaarlijke stoffen zijn betrokken)</span> ]<br /><br />25° "grondwater": al het water dat zich onder het bodemoppervlak in de verzadigde zone bevindt en dat in direct contact met bodem of ondergrond staat;<br /><br />26° "directe lozing in grondwater": de inleiding van stoffen van bijlage 2 B bij dit besluit in het grondwater zonder doorsijpeling door bodem of ondergrond;<br /><br />27° "indirecte lozing in grondwater": de inleiding van stoffen van bijlage 2 B bij dit besluit in het grondwater na doorsijpeling door bodem of ondergrond;<br /><br />[28° "verontreinigen": het veroorzaken van een emissie die mens of milieu op rechtstreekse of onrechtstreekse wijze nadelig beïnvloedt of kan beïnvloeden;  <span class="reference">(ing. B.V.R. 1 juni 1995, art. 7.1.1.1., I: 1 augustus 1995)</span> ]<br /><br />29° ["beste beschikbare technieken": (BBT): het meest doeltreffende en geavanceerde ontwikkelingsstadium van de activiteiten en exploitatiemethoden, waarbij de praktische bruikbaarheid van speciale technieken om in beginsel het uitgangspunt voor de emissiegrenswaarden te vormen is aangetoond, met het doel emissies en effecten op het milieu in zijn geheel te voorkomen, of wanneer dat niet mogelijk blijkt algemeen te beperken;<br /><br />a) "technieken": zowel de toegepaste technieken als de wijze waarop de installatie wordt ontworpen, gebouwd, onderhouden, geëxploiteerd en ontmanteld;<br /><br />b) "beschikbare": op zodanige schaal ontwikkeld dat de technieken, kosten en baten in aanmerking genomen, economisch en technisch haalbaar in de industriële context kunnen worden toegepast, onafhankelijk van de vraag of die technieken al dan niet op het grondgebied van het Vlaamse Gewest worden toegepast of geproduceerd, mits ze voor de exploitant op redelijke voorwaarden toegankelijk zijn;<br /><br />c) "beste": het meest doeltreffend voor het bereiken van een hoog algemeen niveau van bescherming van het milieu in zijn geheel;  <span class="reference">(verv. B.V.R. 12 januari 1999, art. 1, I: 1 mei 1999)</span> ]<br /><br />[30° genetisch gemodificeerd micro-organisme (GGM) of organisme (GGO): een micro-organisme of een organisme waarvan het genetische materiaal gewijzigd is op een wijze die van nature of door voortplanting of natuurlijke recombinatie niet mogelijk is. Volgens deze definitie vindt genetische modificatie plaats als een van de in bijlage 15 A., deel 1, genoemde technieken wordt toegepast, uitgenomen de technieken, opgesomd in bijlage 15 A., deel 2, bij dit besluit;<br /><br />31° gebruiker: elke natuurlijke of rechtspersoon die verantwoordelijk is voor het ingeperkt gebruik van GGO's en/of pathogene organismen;<br /><br />32° bevoegde instantie: de afdeling Milieuvergunningen van AMINAL, per adres hoofdbestuur;<br /><br />33° technisch deskundige: de sectie Bioveiligheid en Biotechnologie van het Wetenschappelijk Instituut voor Volksgezondheid (SBB), bedoeld in artikel 4 van het samenwerkingsakkoord van 25 april 1997 tussen de Federale Staat en de Gewesten betreffende de administratieve en wetenschappelijke coördinatie inzake bioveiligheid, die op basis van een bevoegdheidsdelegatie overeenkomstig artikel 12, § 2, van het voormelde samenwerkingsakkoord, de evaluatie van de bioveiligheid uitvoert;  <span class="reference">(ing. B.V.R. 6 februari 2004, art. 1, I: 1 april 2004)</span> ]<br /><br />[34°  <span class="reference">(verv. B.V.R. 4 februari 2005, art. 33)</span> ] ["energiestudie": een energiestudie overeenkomstig de bepalingen uit artikel 3 van het besluit inzake energieplanning voor ingedeelde energie-intensieve inrichtingen; <span class="reference">(ing. B.V.R. 14 mei 2004, art. 8, I: 14 oktober 2004)</span> ]<br /><br />[35°  <span class="reference">(verv. B.V.R. 4 februari 2005, art. 33)</span> ] ["energieplan": een energieplan overeenkomstig de bepalingen uit artikel 3 van het besluit inzake energieplanning voor ingedeelde energie-intensieve inrichtingen;  <span class="reference">(ing. B.V.R. 14 mei 2004, art. 8, I: 14 oktober 2004)</span> ]<br /><br />[36°  <span class="reference">(verv. B.V.R. 4 februari 2005, art. 33)</span> ] ["energiegebruik": het primair elektriciteitsgebruik en primair energetisch gebruik van energiedragers en niet het non-energetisch gebruik van energiedragers in de vorm van als grondstof ingezette energiedragers;  <span class="reference">(ing. B.V.R. 14 mei 2004, art. 8, I: 14 oktober 2004)</span> ]<br /><br />[37° "broeikasgassen":<br /><br />a) koolstofdioxide (CO2);<br /><br />b) methaan(CH4);<br /><br />c) distikstofoxide (N2O);<br /><br />d) fluorkoolwaterstoffen (HFK's): de gefluoreerde broeikasgassen die zijn opgenomen in groep I van bijlage 5.16.5 van titel II van het VLAREM, met inbegrip van de isomeren ervan;<br /><br />e) perfluorkoolstoffen (PFK's): de gefluoreerde broeikasgassen die zijn opgenomen in groep II van bijlage 5.16.5 van titel II van het VLAREM, met inbegrip van de isomeren ervan;<br /><br />f) zwavelhexafluoride (SF6): het gefluoreerde broeikasgas in groep III van bijlage 5.16.5 van titel II van het VLAREM;<br /><br />38° "BKG-inrichting": een inrichting die in de vierde kolom van de indelingslijst is aangeduid met de letter Y en die de vaste technische eenheid omvat waarin de activiteiten en processen, vermeld in de tweede kolom, alsmede andere daarmee rechtstreeks samenhangende activiteiten plaatsvinden die technisch in verband staan met de op die plaats ten uitvoer gebrachte activiteiten en die gevolgen kunnen hebben voor de emissies en de verontreiniging;<br /><br />39° "aardgastransportsector": de houders van vervoervergunningen voor aardgas, verleend op grond van de wet van 12 april 1965 betreffende het vervoer van gasachtige producten en andere door middel van leidingen, en de houders van vergunningen voor de ondergrondse opslag van aardgas, verleend op grond van de wet van 18 juli 1975 betreffende het opsporen en exploiteren van ondergrondse bergruimten in situ, bestemd voor het opslaan van gas;<br /><br />40° "verificatiebureau": de organisatie die aangesteld is om de correcte uitvoering van het Vlaams Benchmarking convenant over energie-efficiëntie in de industrie van 29 november 2002 te bewaken, zoals bepaald in artikel 10 van dit convenant;<br /><br />41° "referentiejaar": kalenderjaar waarvoor de directe CO2-emissies uit een BKG-inrichting als representatief kunnen worden beschouwd voor de directe CO2-emissies in een kalenderjaar van een handelsperiode, zoals gedefinieerd in artikel 1 van het besluit inzake de verhandelbare emissierechten en zoals geverifieerd en goedgekeurd door het verificatiebureau;<br /><br />42° "verandering aan een BKG-inrichting": een verandering in de aard of werking van een BKG inrichting of een fysieke uitbreiding van de BKG-inrichting, die als gevolg heeft dat ten opzichte van het referentiejaar de productiecapaciteit van de BKG-inrichting met meer dan 10 % zal stijgen of de CO2 emissies op jaarbasis met meer dan 5.000 ton zullen toenemen ten opzichte van het referentiejaar.  <span class="reference">(ing. B.V.R. 4 februari 2005, art.33, I:28 februari 2005)</span> ]
+Voor de toepassing van dit besluit wordt verstaan onder:<br>
+<br>
+1° "de Vlaamse minister": het lid van de Vlaamse regering tot wiens bevoegdheid de bescherming van het leefmilieu behoort;<br>
+<br>
+2° "het decreet": het decreet van 28 juni 1985 betreffende de milieuvergunning;<br>
+<br>
+3° "de indelingslijst": de aan dit besluit als bijlage 1 toegevoegde lijst van als hinderlijk beschouwde inrichtingen tot vaststelling, overeenkomstig het bedoelde in artikel 3 van het decreet, bij welke van de drie klassen van inrichtingen zij worden ingedeeld, naargelang van de graad waarin zij geacht worden belastend te zijn voor de mens en het leefmilieu;<br>
+<br>
+4° "inrichtingen": fabrieken, werkplaatsen, opslagplaatsen, machines, installaties, toestellen en handelingen die op de indelingslijst voorkomen;<br>
+<br>
+5° "exploiteren": in werking stellen of houden, gebruiken, installeren of in stand houden van een inrichting, daaronder begrepen het lozen van afvalwater;<br>
+<br>
+6° "exploitant": elke natuurlijke of rechtspersoon die een inrichting exploiteert of voor wiens rekening een inrichting wordt geëxploiteerd;<br>
+<br>
+7° "veranderen van een inrichting": wijzigen, uitbreiden, toevoegen:<br>
+<br>
+- "wijzigen": het verplaatsen binnen de vergunde inrichting, of het aanwenden van een andere fabricagemethode;<br>
+<br>
+- "uitbreiden": het vergroten in capaciteit, in drijfkracht of in oppervlakte op percelen waarop de geldende vergunning betrekking heeft;<br>
+<br>
+- "toevoegen": het vergroten in opslagcapaciteit, in drijfkracht of in oppervlakte of percelen, waarop de geldende vergunning geen betrekking heeft;<br>
+<br>
+8° "tijdelijke inrichtingen": de in de indelingslijst met de letter T aangeduide vergunningsplichtige inrichtingen waarvan de exploitatie geen blijvende gevolgen voor het leefmilieu veroorzaakt en in principe niet langer zal duren dan:<br>
+<br>
+- één jaar, als het een inrichting betreft die verband houdt met een bouwwerf;<br>
+<br>
+- drie maanden in de andere gevallen.<br>
+<br>
+9° "afvalwater": verontreinigd water waarvan men zich ontdoet, zich moet ontdoen of de intentie heeft zich van te ontdoen, met uitzondering van hemelwater dat niet in aanraking is geweest met verontreinigende stoffen;<br>
+<br>
+10° "huishoudelijk afvalwater": afvalwater dat enkel bestaat uit het water afkomstig van:<br>
+<br>
+- normale huishoudelijke activiteiten;<br>
+<br>
+- sanitaire installaties;<br>
+<br>
+- keukens;<br>
+<br>
+- het reinigen van gebouwen zoals woningen, kantoren, plaatsen waar groot- of kleinhandel wordt gedreven, zalen voor vertoningen, kazernen, kampeerterreinen, gevangenissen, onderwijsinrichtingen met of zonder internaat, klinieken, hospitalen en andere inrichtingen waar niet besmettelijke zieken opgenomen en verzorgd worden, zwembaden, hotels, restaurants, drankgelegenheden, kapsalons;<br>
+<br>
+- afvalwater afkomstig van wassalons, waar de toestellen uitsluitend door het cliënteel zelf worden bediend;<br>
+<br>
+11° "koelwater": het water dat in de nijverheid voor afkoeling gebruikt wordt en dat niet in aanraking is gekomen met af te koelen stoffen of met andere verontreinigende stoffen;<br>
+<br>
+12° "bedrijfsafvalwater": alle afvalwater dat niet voldoet aan de bepalingen van huishoudelijk afvalwater of koelwater;<br>
+<br>
+13° « gevaarlijke stoffen » : toxische, persistente en bioaccumuleerbare stoffen of groepen van stoffen en andere stoffen of groepen van stoffen die aanleiding geven tot evenveel bezorgdheid;<br>
+<br>
+14° « prioritaire stoffen » : stoffen waarvan de lijst overeenkomstig de EG-richtlijn 2000/60/EG is vastgesteld in lijst III van bijlage 2C bij dit besluit; hiertoe behoren prioritaire gevaarlijke stoffen op gebied van waterbeleid' waarvoor maatregelen moeten worden getroffen;<br>
+<br>
+14bis ° « verontreinigende stoffen »: iedere stof die tot verontreiniging kan leiden, met name de stoffen waarvan de lijst overeenkomstig de EG-richtlijn 2000/60/EG is vastgesteld in bijlage 2A bij dit besluit;<br>
+<br>
+15° "afvalstoffen": afvalstoffen zoals bedoeld in het decreet van 2 juli 1981 betreffende de voorkoming en het beheer van afvalstoffen en zijn uitvoeringsbesluiten. De definities zoals bepaald in dat decreet en zijn uitvoeringsbesluiten zijn eveneens geldig voor de toepassing van dit besluit;<br>
+<br>
+16° "GPBV-installatie": een inrichting die in de vierde kolom van de indelingslijst is aangeduid met de letter x en die als dusdanig onder de toepassing valt van de bepalingen van de titels I en II van het VLAREM inzake geïntegreerde preventie en bestrijding van verontreiniging als bedoeld in de EU-richtlijn 96/61/EEG van 24 september 1996 en die de vaste technische eenheid omvat waarin de activiteiten en processen, vermeld in de tweede kolom, alsmede andere daarmee rechtstreeks samenhangende activiteiten plaatsvinden die technisch in verband staan met de op die plaats ten uitvoer gebrachte activiteiten en die gevolgen kunnen hebben voor de emissies en de verontreiniging;<br>
+<br>
+17° "vergunning": het gedeelte van (een) schriftelijk(e) besluit(en) of het besluit (die besluiten) in zijn (hun) geheel waarbij machtiging wordt verleend om een inrichting te exploiteren onder bepaalde voorwaarden die moeten garanderen dat de inrichting voldoet aan de eisen van dit reglement alsook van titel II van het VLAREM en waarbij een vergunning betrekking kan hebben op een of meer inrichtingen die zich op dezelfde locatie bevinden en die door dezelfde exploitant worden geëxploiteerd;<br>
+<br>
+18°« belangrijke wijziging van een inrichting »:<br>
+een wijziging van de kenmerken of de werking, of een uitbreiding van de installatie die gevolgen voor het milieu kan hebben en die volgens de vergunningverlenende overheid negatieve en significante effecten kan hebben op mens of milieu;<br>
+in de zin van deze definitie wordt elke wijziging of uitbreiding van een exploitatie geacht belangrijk te zijn, indien de wijziging of uitbreiding voldoet aan de in de indelingslijst genoemde drempelwaarden, voorzover deze bestaan;<br>
+<br>
+19° "gevaarlijke stoffen": stoffen, mengsels of preparaten, genoemd in bijlage 6, deel 1, gevoegd bij dit besluit of beantwoordend aan de criteria in bijlage 6, deel 2, gevoegd bij dit besluit en aanwezig als grondstof, product, bijproduct, residu of tussenproduct, met inbegrip van die stoffen waarvan redelijkerwijs mag worden verwacht dat ze bij een ongeval ontstaan;<br>
+<br>
+20° "gevaar": de intrinsieke eigenschap van een gevaarlijke stof of van een fysische situatie die potentieel tot schade voor de gezondheid van de mens en/of het milieu kan leiden;<br>
+<br>
+21° "risico": de waarschijnlijkheid dat een bepaald effect zich binnen een bepaalde periode of onder bepaalde omstandigheden voordoet;<br>
+<br>
+22° "Verdrag van Espoo": Verdrag inzake milieu-effectenrapportage in grensoverschrijdend verband en van de aanhangsels I, II, III, IV, V, VI en VII ondertekend in Espoo op 25 februari 1991;<br>
+<br>
+23° ...<br>
+<br>
+24° "zwaar ongeval": een gebeurtenis, zoals een zware emissie, brand of explosie als gevolg van onbeheerste ontwikkelingen tijdens de bedrijfsuitoefening in een inrichting, waardoor onmiddellijk of na verloop van tijd ernstig gevaar voor de gezondheid van de mens binnen of buiten de inrichting en/of voor het milieu ontstaat en waarbij een of meer gevaarlijke stoffen betrokken zijn;<br>
+<br>
+25° "grondwater": al het water dat zich onder het bodemoppervlak in de verzadigde zone bevindt en dat in direct contact met bodem of ondergrond staat;<br>
+<br>
+25bis ° « watervoerende laag »: een of meer ondergrondse rotslagen of andere geologische lagen die voldoende poreus en doorlatend zijn voor een belangrijke grondwaterstroming of de onttrekking van aanzienlijke hoeveelheden grondwater;<br>
+<br>
+26° "directe lozing in grondwater": de inleiding van stoffen van bijlage 2 B bij dit besluit in het grondwater zonder doorsijpeling door bodem of ondergrond;<br>
+<br>
+27° "indirecte lozing in grondwater": de inleiding van stoffen van bijlage 2 B bij dit besluit in het grondwater na doorsijpeling door bodem of ondergrond;<br>
+<br>
+28° "verontreinigen": het veroorzaken van een emissie die mens of milieu op rechtstreekse of onrechtstreekse wijze nadelig beïnvloedt of kan beïnvloeden;<br>
+<br>
+29° "beste beschikbare technieken": (BBT): het meest doeltreffende en geavanceerde ontwikkelingsstadium van de activiteiten en exploitatiemethoden, waarbij de praktische bruikbaarheid van speciale technieken om in beginsel het uitgangspunt voor de emissiegrenswaarden te vormen is aangetoond, met het doel emissies en effecten op het milieu in zijn geheel te voorkomen, of wanneer dat niet mogelijk blijkt algemeen te beperken;<br>
+<br>
+a) "technieken": zowel de toegepaste technieken als de wijze waarop de installatie wordt ontworpen, gebouwd, onderhouden, geëxploiteerd en ontmanteld;<br>
+<br>
+b) "beschikbare": op zodanige schaal ontwikkeld dat de technieken, kosten en baten in aanmerking genomen, economisch en technisch haalbaar in de industriële context kunnen worden toegepast, onafhankelijk van de vraag of die technieken al dan niet op het grondgebied van het Vlaamse Gewest worden toegepast of geproduceerd, mits ze voor de exploitant op redelijke voorwaarden toegankelijk zijn;<br>
+<br>
+c) "beste": het meest doeltreffend voor het bereiken van een hoog algemeen niveau van bescherming van het milieu in zijn geheel;<br>
+<br>
+30° genetisch gemodificeerd micro-organisme (GGM) of organisme (GGO): een micro-organisme of een organisme waarvan het genetische materiaal gewijzigd is op een wijze die van nature of door voortplanting of natuurlijke recombinatie niet mogelijk is. Volgens deze definitie vindt genetische modificatie plaats als een van de in bijlage 15 A., deel 1, genoemde technieken wordt toegepast, uitgenomen de technieken, opgesomd in bijlage 15 A., deel 2, bij dit besluit;<br>
+<br>
+31° gebruiker: elke natuurlijke of rechtspersoon die verantwoordelijk is voor het ingeperkt gebruik van GGO's en/of pathogene organismen;<br>
+<br>
+32° bevoegde instantie: de afdeling Milieuvergunningen van AMINAL, per adres hoofdbestuur;<br>
+<br>
+33° technisch deskundige: de sectie Bioveiligheid en Biotechnologie van het Wetenschappelijk Instituut voor Volksgezondheid (SBB), bedoeld in artikel 4 van het samenwerkingsakkoord van 25 april 1997 tussen de Federale Staat en de Gewesten betreffende de administratieve en wetenschappelijke coördinatie inzake bioveiligheid, die op basis van een bevoegdheidsdelegatie overeenkomstig artikel 12, § 2, van het voormelde samenwerkingsakkoord, de evaluatie van de bioveiligheid uitvoert;<br>
+<br>
+34° "energiestudie": een energiestudie overeenkomstig de bepalingen uit artikel 3 van het besluit inzake energieplanning voor ingedeelde energie-intensieve inrichtingen;<br>
+<br>
+35° "energieplan": een energieplan overeenkomstig de bepalingen uit artikel 3 van het besluit inzake energieplanning voor ingedeelde energie-intensieve inrichtingen;<br>
+<br>
+36° "energiegebruik": het primair elektriciteitsgebruik en primair energetisch gebruik van energiedragers en niet het non-energetisch gebruik van energiedragers in de vorm van als grondstof ingezette energiedragers;<br>
+<br>
+37° "broeikasgassen":<br>
+<br>
+a) koolstofdioxide (CO2);<br>
+<br>
+b) methaan(CH4);<br>
+<br>
+c) distikstofoxide (N2O);<br>
+<br>
+d) fluorkoolwaterstoffen (HFK's): de gefluoreerde broeikasgassen die zijn opgenomen in groep I van bijlage 5.16.5 van titel II van het VLAREM, met inbegrip van de isomeren ervan;<br>
+<br>
+e) perfluorkoolstoffen (PFK's): de gefluoreerde broeikasgassen die zijn opgenomen in groep II van bijlage 5.16.5 van titel II van het VLAREM, met inbegrip van de isomeren ervan;<br>
+<br>
+f) zwavelhexafluoride (SF6): het gefluoreerde broeikasgas in groep III van bijlage 5.16.5 van titel II van het VLAREM;<br>
+<br>
+38° "BKG-inrichting": een inrichting die in de vierde kolom van de indelingslijst is aangeduid met de letter Y en die de vaste technische eenheid omvat waarin de activiteiten en processen, vermeld in de tweede kolom, alsmede andere daarmee rechtstreeks samenhangende activiteiten plaatsvinden die technisch in verband staan met de op die plaats ten uitvoer gebrachte activiteiten en die gevolgen kunnen hebben voor de emissies en de verontreiniging;<br>
+<br>
+39° "aardgastransportsector": de houders van vervoervergunningen voor aardgas, verleend op grond van de wet van 12 april 1965 betreffende het vervoer van gasachtige producten en andere door middel van leidingen, en de houders van vergunningen voor de ondergrondse opslag van aardgas, verleend op grond van de wet van 18 juli 1975 betreffende het opsporen en exploiteren van ondergrondse bergruimten in situ, bestemd voor het opslaan van gas;<br>
+<br>
+40° "verificatiebureau": de organisatie die aangesteld is om de correcte uitvoering van het Vlaams Benchmarking convenant over energie-efficiëntie in de industrie van 29 november 2002 te bewaken, zoals bepaald in artikel 10 van dit convenant;<br>
+<br>
+41° "referentiejaar": kalenderjaar waarvoor de directe CO2-emissies uit een BKG-inrichting als representatief kunnen worden beschouwd voor de directe CO2-emissies in een kalenderjaar van een handelsperiode, zoals gedefinieerd in artikel 1 van het besluit inzake de verhandelbare emissierechten en zoals geverifieerd en goedgekeurd door het verificatiebureau;<br>
+<br>
+42° "verandering aan een BKG-inrichting": een verandering in de aard of werking van een BKG inrichting of een fysieke uitbreiding van de BKG-inrichting, die als gevolg heeft dat ten opzichte van het referentiejaar de productiecapaciteit van de BKG-inrichting met meer dan 10 % zal stijgen of de CO2 emissies op jaarbasis met meer dan 5.000 ton zullen toenemen ten opzichte van het referentiejaar.<br>
+<br>
+43° « bijzonder beschermd gebied » : een gebied dat behoort tot één of meer van de volgende gebieden :<br>
+a) de speciale beschermingszones, de definitief vastgestelde gebieden die in aanmerking komen als speciale beschermingszone en de waterrijke gebieden van internationale betekenis overeenkomstig het decreet van 21 oktober 1997 betreffende het natuurbehoud en het natuurlijk milieu;<br>
+b) een beschermd duingebied of voor het duingebied belangrijk landbouwgebied zoals aangegeven ter uitvoering van het decreet van 14 juli 1993 houdende maatregelen tot bescherming van de kustduinen;<br>
+c) groengebieden, natuurgebieden, natuurgebieden met wetenschappelijke waarde en de ermee vergelijkbare gebieden, aangewezen op plannen van aanleg en de ruimtelijke uitvoeringsplannen van kracht in de ruimtelijke ordening;<br>
+d) bosgebieden, valleigebieden, brongebieden, overstromingsgebieden, agrarische gebieden met ecologisch belang of ecologische waarde en de ermee vergelijkbare gebieden, aangewezen op plannen van aanleg en de ruimtelijke uitvoeringsplannen van kracht in de ruimtelijke ordening;<br>
+e) een beschermd landschap, stads- of dorpsgezicht, monument of archeologische zone;<br>
+f) de waterwingebieden en bijhorende beschermingszones type I en II vastgesteld ter uitvoering van het decreet van 24 januari 1984 houdende maatregelen inzake het grondwaterbeheer;<br>
+g) het Vlaams Ecologisch Netwerk overeenkomstig het decreet van 21 oktober 1997 betreffende het natuurbehoud en het natuurlijk milieu;<br>
+h) een volgens een plan van aanleg of ruimtelijk uitvoeringsplan vastgesteld erfgoedlandschap.
 
 ## HOOFDSTUK II DE MELDING
 
@@ -24,7 +162,7 @@ De exploitant van een niet als hinderlijk ingedeelde inrichting die na haar inbe
 
 ### ART. 5.
 
-§ 1. [Niemand mag zonder voorafgaande schriftelijke vergunning van de bevoegde overheid een als hinderlijk ingedeelde inrichting die behoort tot de eerste of de tweede klasse exploiteren.  <span class="reference">(verv. B.V.R. 12 januari 1999, art. 4, I: 1 mei 1999)</span> ]<br /><br />§ 2. [De vergunningsaanvraag om een inrichting van klasse 1 of 2 te exploiteren of te veranderen, wanneer de verandering overeenkomstig artikel 6bis vooraf vergund dient te worden, wordt ingediend door middel van een milieuvergunningsaanvraagformulier waarvan het model is vastgesteld in bijlage 4, gevoegd bij dit besluit en dat formulier bevat tenminste de volgende gegevens:  <span class="reference">(verv. B.V.R. 12 januari 1999, art. 5, I: 1 mei 1999)</span> ]<br /><br />1° - indien het om een natuurlijke persoon gaat: de<br /><br />naam, voornaam, hoedanigheid, het adres, telefoon-, R.S.Z.- en B.T.W.-nummer van de exploitant;<br /><br />- indien het om een rechtspersoon gaat: de benaming, de rechtsvorm en de maatschappelijke zetel, telefoon-, R.S.Z.- en B.T.W.-nummer van de exploitant, evenals de naam, de hoedanigheid van de verantwoordelijke persoon die de vergunningsaanvraag namens de exploitant ondertekent;<br /><br />2° de juridische grondslag op basis waarvan de exploitant de beschikking heeft over de bedoelde inrichting(en) alsmede het eigendomsstatuut van de percelen waarop de exploitatie gebeurt of is gepland;<br /><br />3° het adres van de inrichting die het voorwerp uitmaakt van de vergunningsaanvraag evenals de gemeenten en provincies waarin de percelen zijn gelegen waarop de exploitatie of de verandering van de inrichting gebeurt of gepland is;<br /><br />4° de vermelding of het gaat om een inrichting van:<br /><br />- de Staat, de Gemeenschap, het Gewest, een provincie of een door een van hen opgerichte instelling;<br /><br />- een gemeente, een vereniging van gemeenten of een openbaar centrum voor maatschappelijk welzijn;<br /><br />- een niet hiervoren genoemde openbare instelling;<br /><br />5° de vermelding of het gaat om:<br /><br />- de exploitatie van een nieuwe inrichting;<br /><br />- het hernieuwen van een vergunning voor een bestaande inrichting;<br /><br />- de exploitatie van een inrichting die na wijziging of aanvulling van de indelingslijst vergunningsplichtig wordt;<br /><br />- het veranderen van een inrichting met precisering dat het betreft:<br /><br />- een wijziging;<br /><br />- een uitbreiding;<br /><br />- een toevoeging;<br /><br />- de exploitatie van een tijdelijke inrichting;<br /><br />6° de aard en de klasse van de inrichting met vermelding of een milieu-effectrapport en/of een veiligheidsrapport wordt vereist;<br /><br />7° een beschrijving van de aan te wenden procédé's en reagentia;<br /><br />8° de aard en het vermogen van de toestellen;<br /><br />9° de aard, de inhoud, de bedrijfsdruk en -temperatuur en volgnummer van de toestellen, opslagtanks, reservoirs en apparaten;<br /><br />10° de aard, de maximum voorziene hoeveelheid en de fysische, chemische en toxicologische kenmerken van de als hinderlijk ingedeelde opslagplaatsen en van de grondstoffen, tussenprodukten, bijprodukten eindprodukten, afvalstoffen en afvalwaters alsmede de geplande bestemming van de afvalstoffen en afvalwaters; de kenmerkende gegevens van de voorziene emissies, afvalstoffen en afvalwaters;<br /><br />11° [de op basis van de beste beschikbare technieken voorziene maatregelen en/of installaties om:<br /><br />a) zo weinig mogelijk afval te veroorzaken;<br /><br />b) minder gevaarlijke stoffen te gebruiken;<br /><br />c) de in het proces uitgestoten en gebruikte stoffen alsook afval, waar mogelijk, terug te winnen en te recycleren;<br /><br />d) het verbruik van grondstoffen, met inbegrip van water, te beperken en de energie-efficiëntie zo groot mogelijk te maken;<br /><br />e) het algemene effect van de emissies en de risico's op het milieu te voorkomen of tot een minimum te beperken en dit zowel voor geluid, trillingen, stralingen, lucht-, bodem- en waterverontreiniging als voor het gevaar voor de mens buiten de inrichting en het leefmilieu;<br /><br />f) ongevallen te voorkomen en de gevolgen daarvan voor het milieu te beperken;<br /><br />g) te voldoen aan de algemene en sectorale milieuvoorwaarden die van toepassing zijn op de inrichting;<br /><br />h) te voldoen aan artikel 14 en artikel 16, § 4 van het decreet van 21 oktober 1997 betreffende het natuurbehoud en het natuurlijk milieu;  <span class="reference">(verv. B.V.R. 12 januari 1999, art. 5, I: 1 mei 1999)</span> ]<br /><br />12° het maximum voorziene aantal te werk te stellen werknemers alsmede de vermelding of in de onderneming van de exploitant een comité voor veiligheid, gezondheid en verfraaiing der werkplaatsen als bedoeld in het Algemeen Reglement voor de Arbeidsbescherming bestaat;<br /><br />13° de maximum voorziene hoeveelheid jaarlijks te fabriceren goederen;<br /><br />14° [in geval de aanvraag betrekking heeft op een directe of indirecte lozing in grondwater van gevaarlijke stoffen bedoeld in bijlage 2B bij dit besluit, op een stortplaats of opslagplaats voor afvalstoffen in of op de bodem, of op het geheel of gedeeltelijk opvullen met niet-verontreinigde uitgegraven bodem van groeven, graverijen, uitgravingen en andere putten met inbegrip van waterplassen en vijvers, tevens:<br /><br />° de geologische kenmerken, waaronder de kenmerken van de bodem en de ondergrond, van het terrein waarop de lozing of het opvullen met niet-verontreinigde uitgegraven bodem is gepland, respectievelijk de stortplaats of opslagplaats wordt ingericht en van de omgeving in een straal van 100 m rond de perceelsgrenzen<br /><br />° de hydrogeologische kenmerken, zoals de grondwaterhuishouding, van het terrein waarop de lozing of het opvullen met niet-verontreinigde uitgegraven bodem is gepland, respectievelijk de stortplaats of opslagplaats wordt ingericht en van de omgeving;<br /><br />° de beschrijving van de geo- en hydrogeologische kenmerken moet voldoende inzicht verschaffen in:<br /><br />a) de algemene geologische situatie:<br /><br />- geologische opbouw;<br /><br />- preciese granulometrische en lithologische kenmerken van de verschillende formaties;<br /><br />b) de algemene hydrogeologische situatie:<br /><br />- een uitvoerige beschrijving van alle hydrogeologische kenmerken der watervoerende lagen (o.a. hydraulische geleidbaarheid, transmissiviteit, bergingscapaciteit, enz.);<br /><br />- bepalen van stromingsrichtingen en stromingssnelheid van het grondwater;<br /><br />- vermelden en beschrijven der ondoorlatende lagen;<br /><br />- analyse van piëzometrische waarnemingen;<br /><br />c) de fysico-chemische kenmerken van het grondwater<br /><br />d) de waterwinningen in de omgeving (straal = 5km)<br /><br />- algemene historiek;<br /><br />- debiet van afpomping;<br /><br />- piëzometrische effecten;<br /><br />- continuïteit der bemaling;<br /><br />- doelstelling van de bemalingsactiviteiten;<br /><br />- fysico-chemische analyseresultaten der specifieke bemalingsactiviteiten;<br /><br />° een algemene beschrijving van het terrein en de omgeving met vermelding van het huidige gebruik, de begroeiing, het bodembestand en de eventuele bebouwing;<br /><br />wanneer het om een stortplaats voor afvalstoffen gaat, ook nog:<br /><br />° de gegevens inzake stabiliteit van het terrein en haar omgeving:<br /><br />a) berekening van de mogelijke verzakkingen en zettingen van de stortplaats en de ondergrond;<br /><br />b) de mogelijke invloed van de verzakkingen en zettingen op de afsluitlagen, drainagesystemen, taluds;<br /><br />c) de berekening van de hoogte en de opbouw van de stortplaats, de constructie en uitvoering van de afsluitlaag en de drainagesystemen zodat de stabiliteit van de stortplaats en de goede werking van de afsluitlaag en de drainagesystemen verzekerd blijven;  <span class="reference">(verv. B.V.R. 31 mei 2002, art. 1, I: 29 juni 2002)</span> ]<br /><br />15° in geval de aanvraag betrekking heeft op de [verwerking van afvalstoffen,  <span class="reference">(verv. B.V.R. 12 januari 1999, art. 5, I: 1 mei 1999)</span> ] tevens:<br /><br />- de maatregelen die desgevallend kunnen genomen worden, wanneer de installaties of terreinen tijdelijk buiten gebruik zijn, om welke reden ook, zodat de [verwerking van de afvalstoffen  <span class="reference">(verv. B.V.R. 12 januari 1999, art. 5, I: 1 mei 1999)</span> ] verzekerd blijft;<br /><br />- de algemene kenmerken van de soorten van afvalstoffen die per dag of per week, per maand en per jaar [verwerkt kunnen worden  <span class="reference">(verv. B.V.R. 12 januari 1999, art. 5, I: 1 mei 1999)</span> ] , telkens met opgave van:<br /><br />- het volume en het gewicht van de afvalstoffen;<br /><br />- de aard, samenstelling en herkomst van de afvalstoffen;<br /><br />- de kwalificatie en de taken van het personeel belast met de [afvalstoffenverwerking;  <span class="reference">(verv. B.V.R. 12 januari 1999, art. 5, I: 1 mei 1999)</span> ]<br /><br />- vier recente foto's van het terrein, genomen vanuit de verschillende hoofdwindrichtingen;<br /><br />- indien de aanvrager het vervullen van een opdracht van algemeen nut beoogt een verbintenis van de aanvrager om, binnen de perken, het voorwerp en de voorwaarden van de milieuvergunning, afvalstoffen te aanvaarden op schriftelijke vraag van de Openbare Afvalstoffenmaatschappij voor het Vlaamse Gewest of in opdracht ervan;<br /><br />[15°bis in geval de aanvraag betrekking heeft op een tussentijdse opslagplaats voor uitgegraven bodem zoals vermeld in rubriek 61.1. van de indelingslijst of mits er een capaciteit is van meer dan 10.000 m3 voor een tussentijdse opslagplaats voor uitgegraven bodem zoals vermeld in rubriek 61.2. van de indelingslijst, tevens:<br /><br />a) de kenmerken van de bodem en de ondergrond van het terrein waarop de tussentijdse opslag met uitgegraven bodem is gepland, en van de omgeving in een straal van 100 m rond de perceelsgrenzen alsmede de grondwaterhuishouding van het terrein, waarop de tussentijdse opslagplaats wordt ingericht, en van de omgeving;<br /><br />b) een voorstel van werkplan voor opslag overeenkomstig de algemene en sectorale voorwaarden dat is opgesteld op basis van de resultaten van de bij te voegen hydrogeologische studie alsmede een opmetingsplan voor de ophogingen met opgave van het maaiveld en de berekening van de opslagcapaciteit;<br /><br />c) een algemene beschrijving van het terrein en de omgeving met vermelding van het huidige gebruik, de begroeiing, het bodembestand en de eventuele bebouwing;  <span class="reference">(ing. B.V.R. 28 november 2003, art. 1, I: 1 april 2004)</span> ]<br /><br />16° in geval de aanvraag betrekking heeft op de lozing van afvalwaters, tevens:<br /><br />- de aard en de hoeveelheden te lozen:<br /><br />- [huishoudelijk afvalwater;  <span class="reference">(verv. B.V.R. 1 juni 1995, art. 7.1.1.11, I: 1 augustus 1995)</span> ]<br /><br />- [bedrijfsafvalwater;  <span class="reference">(verv. B.V.R. 1 juni 1995, art. 7.1.1.11, I: 1 augustus 1995)</span> ]<br /><br />- koelwater;<br /><br />- regenwater;<br /><br />- de aanduiding waarin en op welke wijze de afvalwaters worden geloosd:<br /><br />- in een gewoon oppervlaktewater;<br /><br />- in een openbare riool;<br /><br />- in een kunstmatige afvoerweg voor regenwater;<br /><br />- in de bodem;<br /><br />- de verschillende waterbevoorradingsbronnen;<br /><br />- een beschrijving van de afvalwaterzuiveringsinstallatie(s);<br /><br />[16bis in geval de aanvraag betrekking heeft op de winning van grondwater, voor elk van de grondwaterwinningen, gegroepeerd per watervoerende laag:<br /><br />a) de activiteit waarvan de grondwaterwinning deel uitmaakt;<br /><br />b) de bestemming van het grondwater;<br /><br />c) de beoogde of noodzakelijke waterkwaliteit;<br /><br />d) de beoogde maximumhoeveelheid te winnen grondwater uitgdrukt in m3 per dag en per jaar;<br /><br />e) de aard van de waterwinning;<br /><br />f) de technische kenmerken van de grondwaterwinning met inzonderheid de aanduiding van:<br /><br />- de diepte waarop het grondwater gewonnen wordt ten opzichte van het maaiveld;<br /><br />- de binnendiameter van de buis, de plaats, de lengte en de doorsnede van de galerij of van de draineerbuis, de plaats en de lengte van de klei- of cementafdichting;<br /><br />- de aard en het maximumvermogen van de pompen uitgedrukt in m3/uur en in kilowatt;<br /><br />g) de apparatuur en/of middelen voor de meting van:<br /><br />- het gewonnen grondwatervolume;<br /><br />- het grondwaterpeil;<br /><br />h) de verschillende waterbevoorradingsbronnen met hun debieten per dag en per jaar;<br /><br />i) de situering van alle (geregistreerde en niet geregistreerde) pompen op kaartmateriaal op schaal van tenminste 1/5.000;<br /><br />16ter in geval de aanvraag betrekking heeft op het kunstmatig aanvullen van het grondwater:<br /><br />a) de activiteit waarvan de kunstmatige aanvulling deel uitmaakt;<br /><br />b) de omschrijving en diepte van de grondwaterlaag die kunstmatig zal worden aangevuld;<br /><br />c) de herkomst en de kwaliteit van het infiltratiewater;<br /><br />d) de maximumhoeveelheid water ingebracht als kunstmatige aanvulling uitgerukt in m3 per dag en per jaar;<br /><br />e) de apparatuut en/of middelen voor de meting van:<br /><br />- de hoeveelheid water ingebracht als kunstmatige aanvulling;<br /><br />- het grondwaterpeil;  <span class="reference">(ing. B.V.R. 12 januari 1999, art. 5, I: 1 mei 1999)</span> ]<br /><br />17° ingeval de aanvraag betrekking heeft op opslagplaatsen en installaties voor [de verwerking van gevaarlijke afvalstoffen:  <span class="reference">(verv. B.V.R. 27 april 1994, art. 3, I: 7 mei 1994)</span> ]<br /><br />- een nota betreffende de kwalificatie en de bevoegdheid van het personeel dat verantwoordelijk is voor de [verwerkingsverrichtingen;  <span class="reference">(verv. B.V.R. 27 april 1994, art. 3, I: 7 mei 1994)</span> ]<br /><br />- een nota die de te treffen maatregelen vermeldt voor de evacuatie van de residu van de behandeling van de [gevaarlijke afvalstoffen  <span class="reference">(verv. B.V.R. 27 april 1994, art. 3, I: 7 mei 1994)</span> ], in 't bijzonder:<br /><br />a) indien het gaat om vloeibare residus:<br /><br />dezelfde inlichtingen als deze die moeten gegeven worden bij het lozen van afvalwater;<br /><br />b) indien het gaat om gasvormige residus:<br /><br />1° de aard van het lozingspunt (schouw, ontluchting, toorts), de hoogte, de binnendiameter bij de monding;<br /><br />2° het debiet en de temperatuur van de gassen en de dampen;<br /><br />3° de samenstelling van de gassen en de dampen en, gebeurlijk, het gehalte aan vaste stoffen;<br /><br />4° de aangewende technieken om de vooropgezette waarden niet te overschrijden;<br /><br />c) indien het gaat om vaste residus:<br /><br />1° het maximum volume en gewicht van de per maand en per jaar te verwijderen, op te slaan of te vervoeren residus;<br /><br />2° de aard van de gevaarlijke stoffen die er kunnen in aanwezig zijn en voor ieder van hen, de hoeveelheid per dag en per maand;<br /><br />3° de nauwkeurige beschrijving van de wijze waarop de residus opgeslagen, verwijderd of vervoerd worden, alsmede hun bestemming;<br /><br />4° in het geval dat de residus in de grond ingegraven worden, de hydrologische en geologische inlichtingen betreffende het terrein waarin zij ingegraven zullen worden, de fauna en de flora die er zich kunnen ontwikkelen, de beschermingsmaatregelen die getroffen zullen worden om de toegang tot het terrein te beletten aan elke persoon die niet tot de onderneming behoort;<br /><br />18° de vermelding of voor de inrichting, de verandering van de inrichting of voor het gedeelte van de inrichting dat het voorwerp uitmaakt van de vergunningsaanvraag krachtens de wet van 29 maart 1962 houdende organisatie van de ruimtelijke ordening en van de stedebouw een bouwvergunning is vereist; in voorkomend geval een afschrift van de beslissing over de vergunningsaanvragen als bedoeld in voormelde wet met betrekking tot de inrichting of de datum waarop en de overheid bij wie dergelijke vergunning(en) werd(en) aangevraagd;<br /><br />19° het voorwerp en de datum van de gedane meldingen, evenals een afschrift van eerdere beslissingen over vergunningsaanvragen die werden ingediend voor de exploitatie, de lozing van afvalwaters, [de verwerking van afvalstoffen, de winning van grondwater of voor de bescherming van grondwater  <span class="reference">(verv. B.V.R. 12 januari 1999, art. 5, I: 1 mei 1999)</span> ] met betrekking tot de inrichting of in voorkomend geval de datum waarop alsmede de overheid bij wie dergelijke vergunning(en) werd(en) aangevraagd;<br /><br />[20° in voorkomend geval, een afschrift van de beslissingen die werden getroffen met betrekking tot een verzoek tot afwijking van de milieuvoorwaarden die van toepassing zijn op de exploitatie van de inrichting;  <span class="reference">(ing. B.V.R. 1 juni 1995, art. 7.1.1.1., I: 1 augustus 1995)</span> ]<br /><br />[21°  <span class="reference">(verv. B.V.R. 1 juni 1995, art. 7.1.1.1.)</span> ] de datum waarop de exploitant de inrichting, de verandering van de inrichting of het gedeelte van de inrichting dat het voorwerp uitmaakt van de vergunningsaanvraag beoogt in gebruik te kunnen nemen;<br /><br />[22° in geval overeenkomstig titel II van het VLAREM een milieucoördinator is aangesteld: de naam, voornaam, geboortedatum en het adres van deze milieucoördinator;  <span class="reference">(ing. B.V.R. 12 januari 1999, art. 5, I: 1 mei 1999)</span> ]<br /><br />[23° als de aanvraag betrekking heeft op het ingeperkt gebruik van genetisch gemodificeerde en/of pathogene organismen:<br /><br />a) adres en beschrijving van de inrichting;<br /><br />b) een beschrijving van de aard van de activiteiten die beoogd worden;<br /><br />c) het risiconiveau van de activiteiten.  <span class="reference">(ing. B.V.R. 6 februari 2004, art. 2, I: 1 april 2004)</span> ]<br /><br />§ 3. Bij de vergunningsaanvraag voor een inrichting van de klasse 1 of 2 dienen gevoegd:<br /><br />1° een situeringsplan op schaal van tenminste 1/1.000, waarop de ligging van de gebouwen, de produktie-eenheden, de opslagplaatsen, de stortplaatsen en de lozingspunten ten opzichte van de aanpalende percelen weergegeven is;<br /><br />2° een of meer uitvoeringsplannen op schaal van tenminste 1/200 waarop per produktie-eenheid, per opslagplaats, per gebouw en per verdieping, de schikkingen van de installaties, machines, toestellen, apparaten (in voorkomend geval met hun bijhorende motoren en opgave van het vermogen ervan) en opslagplaatsen (met capaciteit) evenals de lozingspunten van de afvalwaters weergegeven zijn alsmede de als hinderlijk ingedeelde handelingen aangegeven zijn;<br /><br />3° een bewijs van betaling van de dossiertaks;<br /><br />[4° wanneer de aanvraag betrekking heeft op een stortplaats of opslagplaats voor afvalstoffen in of op de bodem alsmede  <span class="reference">(verv. B.V.R. 13 juli 2001, art. 2, I: 16 juli 2001)</span> ] [op het geheel of gedeeltelijk opvullen met niet-verontreinigde uitgegraven bodem  <span class="reference">(ing. B.V.R. 31 mei 2002, art. 2, I: 29 juni 2002)</span> ] [en niet-verontreinigde bagger- en ruimingsspecie  <span class="reference">(ing. B.V.R. 28 november 2003, art. 2, I: 1 april 2003)</span> ] [van groeven, graverijen, uitgravingen en andere putten met inbegrip van waterplassen en vijvers of  <span class="reference">(ing. B.V.R. 31 mei 2002, art. 2, I: 29 juni 2002)</span> ] [op een directe of indirecte lozing in grondwater van gevaarlijke stoffen bedoeld in bijlage 2 B bij dit besluit:<br /><br />° een voorstel van werkplan zoals omschreven in titel II van het VLAREM;<br /><br />° een opmetingsplan voor putten, laagten en ophogingen met opgave van het maaiveld en berekening van de nuttige stortcapaciteit;<br /><br />° een voorstel van inrichtingsplan, zoals omschreven in titel II van het VLAREM;<br /><br />° een voorstel van plan voor afwerking, sluiting en nazorg van de stortplaats, zoals omschreven in titel II van het VLAREM;<br /><br />° een verbintenis voor het aangaan van een financiële zekerheid, zoals omschreven in titel II van het VLAREM;  <span class="reference">(verv. B.V.R. 13 juli 2001, art. 2, I: 16 juli 2001)</span> ]<br /><br />[5° wanneer de aanvraag betrekking heeft op een inrichting die ingedeeld is in een of meer van de subrubrieken 9.3 tot en met 9.8 van de indelingslijst:<br /><br />a) een lijst met de aantallen dieren gespecificeerd overeenkomstig de diersoorten (categorieën) vermeld in artikel 5 van het decreet van 23 januari 1991 inzake de bescherming van het leefmilieu tegen de verontreiniging door meststoffen;  <span class="reference">(ing. B.V.R. 12 januari 1999, art. 6, I: 1 mei 1999)</span> ]<br /><br />b) [indien de vergunningsaanvraag betrekking heeft op de exploitatie van een nieuwe veeteeltinrichting of de uitbreiding van de vergunde mestproductie van een bestaande veeteeltinrichting in combinatie met de volledige stopzetting van een stop te zetten bestaande veeteeltinrichting die beschikt over een nutriëntenhalte als bedoeld in artikel 33ter, § 1, 1°, c), 4) en 5), van het decreet van 23 januari 1991 inzake de bescherming van het leefmilieu tegen de verontreiniging door meststoffen, moeten bovendien volgende bijlagen bij de aanvraag worden gevoegd:<br /><br />1° in voorkomend geval een afschrift van de uitvoeringsplannen op schaal van tenminste 1/200 dat betrekking heeft op de stop te zetten bestaande veeteeltinrichtingen en waarop de zelfstandig geëxploiteerde stallen staan aangeduid die volledig en definitief zullen worden stopgezet;<br /><br />2° een afschrift van de vergunningsbeslissingen met betrekking tot de stop te zetten veeteeltinrichting;<br /><br />3° een ondertekende verklaring waarin de vergunningsaanvrager verklaart dat hij uiterlijk 12 maanden na de ingebruikname van de verleende vergunning de stop te zetten bestaande veeteeltinrichting, als bedoeld in artikel 33ter, § 1, 1°, c), 4) en 5), van het decreet, volledig en definitief zal hebben stopgezet;  <span class="reference">(verv. B.V.R. 29 april 2005, art. 6, I: 17 juli 2005)</span> ]<br /><br />c) [indien de vergunningsaanvraag betrekking heeft op een nieuwe veeteeltinrichting of de uitbreiding van de vergunde mestproductie van een bestaande veeteeltinrichting naar aanleiding van de herlokalisatie van een bestaande veeteeltinrichting voortvloeiende uit een ruilverkaveling, landinrichting, natuurinrichting en/of onteigening om openbaar nut zoals bedoeld in het artikel 33ter, § 1, 1°, c), 6), van het decreet van 23 januari 1991 inzake de bescherming van het leefmilieu tegen de verontreiniging door meststoffen, moeten bovendien volgende bijlagen bij de aanvraag worden gevoegd:<br /><br />1° een gemotiveerde verklaring van de bevoegde overheid voor de ruilverkaveling, landinrichting, natuurinrichting of onteigening om openbaar nut dat de herlokalisatie noodzakelijk is en dat er na de herlokalisatie geen verdere veeteelt zal plaatsvinden op de stop te zetten bestaande veeteeltinrichting;<br /><br />2° een afschrift van de vergunningsbeslissingen met betrekking tot de stop te zetten bestaande veeteeltinrichting;<br /><br />3° een ondertekende verklaring waarin de vergunningsaanvrager verklaart de verleende vergunning slechts in gebruik te zullen nemen na de volledige en definitieve stopzetting van de stop te zetten bestaande veeteeltinrichtingen als bedoeld in artikel 33ter, § 1, 1°, c), 6), van het decreet van 23 januari 1991 inzake de bescherming van het leefmilieu tegen de verontreiniging door meststoffen;  <span class="reference">(verv. B.V.R. 29 april 2005, art. 6, I: 17 juli 2005)</span> ]<br /><br />6° [wanneer de aanvraag betrekking heeft op de winning van grondwater die behoort tot een grondwaterwinningseenheid met een totale capaciteit, inclusief de geplande grondwaterwinning, van meer dan 2.500 m3/dag of meer dan 500.000 m3/jaar:<br /><br />a) een hydrogeologische studie van het terrein en omgeving uitgevoerd door een of meer deskundigen die tenminste voldoende inzicht moet verschaffen inzake:<br /><br />i) algemene geologische situatie:<br /><br />- de geologische opbouw;<br /><br />- de lithologische kenmerken van de verschillende formaties;<br /><br />ii) algemene hydrogeologische situatie:<br /><br />- een algemene beschrijving van de waterhuishouding;<br /><br />- een uitvoerige beschrijving van de hydrogeologische kenmerken van de watervoerende laag waaruit water zal worden gewonnen (o.a. hydraulische geleidbaarheid, transmissiviteit, bergingscapaciteit, enz.);<br /><br />- bepalen van stromingsrichtingen en stromingssnelheden van het grondwater;<br /><br />iii) de fysico-chemische kenmerken van het grondwater van de watervoerende laag waaruit water zal worden gewonnen;<br /><br />iv) een berekening van de afpompingskegel in de watervoerende laag waaruit water zal worden gewonnen en de effecten op het bodemwater;<br /><br />v) een overzicht van de grondwaterwinningen gelegen in een straal van 5 km met hun debiet;<br /><br />b) een technisch rapport waarin het effect, met inbegrip van de gevolgen op de natuur en het natuurlijk milieu, van de geplande grondwaterwinning op de openbare en private bovengrondse eigendommen is bestudeerd en omschreven;<br /><br />7° wanneer de aanvraag betrekking heeft op het kunstmatig aanvullen van het grondwater:<br /><br />a) een hydrogeologische studie als bedoeld in 4°;<br /><br />b) een technische nota betreffende de infiltratietechniek en de maatregelen die genomen worden om verontreiniging van de watervoerende lagen te voorkomen.  <span class="reference">(ing. B.V.R. 12 januari 1999, art. 6, I: 1 mei 1999)</span> ]<br /><br />§ 4. Bij de vergunningsaanvraag voor een inrichting van de klasse 1 dient bovendien een uittreksel gevoegd uit het kadastraal plan met de gehele en gedeeltelijke percelen gelegen in een straal van 100 m rond de perceelsgrenzen van de inrichting alsmede de lijst van de kadastrale eigenaars van deze percelen.<br /><br />§ 5. Bij de vergunningsaanvraag voor een inrichting waarvoor een milieu-effectrapport is vereist, dient het voorgeschreven en conform de reglementering verklaarde milieu-effectrapport gevoegd.<br /><br />§ 6. Bij de vergunningsaanvraag voor een inrichting waarvoor een veiligheidsrapport is vereist, dient het voorgeschreven en conform de reglementering verklaarde veiligheidsrapport gevoegd.<br /><br />[§ 7. Bij de vergunningsaanvraag voor een inrichting van de klasse 1 of 2 die in de vierde kolom van de indelingslijst is aangeduid met de letter X, moeten bovendien de volgende stukken gevoegd:<br /><br />1° een bijlage over geïntegreerde preventie en bestrijding van verontreiniging die een beschrijving bevat van:<br /><br />a) de installatie en de aard en omvang van de activiteiten die daar plaatsvinden;<br /><br />b) de grondstoffen en hulpmaterialen, de andere stoffen, inzonderheid afvalstoffen en secundaire grondstoffen, en de energie die in de installatie worden gebruikt of door de installatie worden gegenereerd;<br /><br />c) de emissiebronnen van de installatie;<br /><br />d) de situatie van de plaats waar de installatie komt;<br /><br />e) aard en omvang van de te voorziene emissies van de installatie in elk milieucompartiment met een overzicht van de significante milieu-effecten van de emissies;<br /><br />f) de beoogde technologie en de andere technieken ter voorkoming of, indien dat niet mogelijk is, ter vermindering van de emissies van de installatie;<br /><br />g) zo nodig de maatregelen betreffende de preventie en de nuttige toepassing van de door de installatie voortgebrachte afvalstoffen;<br /><br />h) de andere maatregelen die worden getroffen om te voldoen aan de algemene beginselen van de fundamentele verplichtingen van de exploitant, bedoeld in artikel 43ter;<br /><br />i) de maatregelen die worden getroffen ter controle van de emissies in het milieu;  <span class="reference">(ing. B.V.R. 12 januari 1999, art. 7, I: 1 mei 1999)</span> ]<br /><br />[j) een schets van de voornaamste door de aanvrager bestudeerde alternatieven, voorzover deze bestaan;  <span class="reference">(ing. B.V.R. 3 juni 2005, art. 2, I: 1 juli 2005)</span> ]<br /><br />[2° een niet-technische samenvatting van de in de bijlage, bedoeld in 1°, genoemde gegevens.<br /><br />Als de voormelde gegevens zijn opgenomen in het aanvraagformulier of een hierbij gevoegde andere bijlage en/of milieu-effectrapport, moeten deze gegevens niet herhaald worden maar volstaat een verwijzing in deze bijlage naar deze gegevens in het aanvraagformulier, de bijlage(n) of het milieu-effectrapport.  <span class="reference">(ing. B.V.R. 12 januari 1999, art. 7, I: 1 mei 1999)</span> ]<br /><br />§ 8. [In de volgende gevallen wordt bij de vergunningsaanvraag een energiestudie gevoegd als bedoeld in hoofdstuk I en II van het besluit van de Vlaamse Regering van 16 juli 2004 inzake energieplanning voor ingedeelde energie-intensieve inrichtingen:<br /><br />a) een nieuwe inrichting met een totaal jaarlijks energiegebruik van tenminste 0,1 PetaJoule;<br /><br />b) een verandering van een inrichting met een totaal jaarlijks energiegebruik van tenminste 0,1 PetaJoule voorzover de vergunningsaanvraag de voor het energiegebruik relevante onderdelen van de inrichting betreft, en waarvoor op grond van artikel 6bis een vergunning overeenkomstig artikel 5 en 6 moet worden aangevraagd;<br /><br />c) een nieuwe BKG-inrichting of een verandering aan een BKG-inrichting.<br /><br />In de volgende gevallen wordt bij de vergunningsaanvraag voor een hernieuwing van een vergunning een energieplan gevoegd als bedoeld in hoofdstuk I en II van het besluit inzake energieplanning voor ingedeelde energie-intensieve inrichtingen:<br /><br />a) een inrichting met een totaal jaarlijks energiegebruik van tenminste 0,1 PetaJoule;<br /><br />b) een inrichting die voor wat betreft haar CO2-emissies is ingedeeld als BKG-inrichting en die enkel verbrandingsinstallaties omvat die uitsluitend gebruikt worden voor ruimteverwarming, en waarvan het geaggregeerd thermisch ingangsvermogen meer bedraagt dan 20 MW;<br /><br />c) een inrichting die voor wat betreft haar CO2-emissies is ingedeeld als BKG-inrichting en die behoort tot de aardgastransportsector.<br /><br />In de gevallen bedoeld in b) en c) van het vorige lid geldt deze verplichting uiterlijk tot 31 december 2007.<br /><br />De maatregelen uit dit energieplan met een interne rentevoet van minstens 15 % na belastingen moeten uiterlijk drie jaar na de toekenning van de milieuvergunning uitgevoerd zijn.  <span class="reference">(verv. B.V.R. 4 februari 2005, art. 34, I: 28 februari 2005)</span> ]<br /><br />[§ 9. Bij de vergunningsaanvraag voor een BKG-inrichting of een verandering aan een BKG-inrichting waarvoor op grond van artikel 6bis een vergunning overeenkomstig artikel 5 en 6 moet worden aangevraagd, moeten bovendien de volgende stukken worden gevoegd:<br /><br />1° een door het verificatiebureau geverifieerd en goedgekeurd monitoring protocol. Elk monitoring protocol dient tenminste het volgende te omvatten:<br /><br />a) het identificatienummer en de naam van de BKG-inrichting(en) met per BKG-inrichting een lijst van bron(nen) of groep van bronnen, waaruit de CO2-emissies afkomstig zijn;<br /><br />b) informatie over verantwoordelijkheden inzake de bewaking en rapportage binnen de BKG-inrichting;<br /><br />c) de methode van berekening en/of meting, waarmee de emissies van CO2 worden bepaald, samen met een onderbouwing van de keuze van de methode, per bron of groep van bronnen;<br /><br />d) de lijst van te monitoren brandstofverbruiken, grondstof/materiaalverbruiken en/of productiegegevens per bron of groep van bronnen;<br /><br />e) de methode ter bepaling van de hoeveelheid verbruikte brandstoffen en grondstoffen, per bron of groep van bronnen;<br /><br />f) het type, de technische eigenschappen en de exacte locatie van de meetvoorzieningen ter bepaling van de hoeveelheid verbruikte brandstoffen en grondstoffen per bron of groep van bronnen en voor elke brandstof- en grondstofstroom;<br /><br />g) de analysemethoden of informatiebronnen en, indien van toepassing, de gebruikte bemonsteringsmethode ter bepaling van de calorische onderwaarde, het koolstofgehalte, de emissiefactoren en de biomassafractie voor elke brandstof- en materiaalstroom;<br /><br />h) per bron of groep van bronnen en voor alle activiteiten en brandstoftypes en materialen, een lijst van niveaus van nauwkeurigheid, die moeten worden toegepast voor de bepaling van activiteitsgegevens, emissiefactoren, oxidatie- en conversiefactoren;<br /><br />i) in het geval van meting, een gedetailleerde technische beschrijving van de aanwezige meetsystemen voor continue CO2-emissiemeting;<br /><br />j) een overzicht van de meetpunten, de meetfrequentie, de gebruikte meetapparatuur, de kalibratieprocedures en de procedures voor gegevensverzameling en opslag van de gegevens;<br /><br />k) de onzekerheid op de meting, uitgedrukt als 95 %-betrouwbaarheidsinterval rondom de gemeten waarde voor de bepaling van de CO2-emissies;<br /><br />l) een beschrijving van de procedures voor kwaliteitsborging en kwaliteitsbeheersing ten behoeve van gegevensbeheer of, indien van toepassing, beschrijving van de wijze waarop het gegevensbeheersysteem geïntegreerd is in het bestaande zorgsysteem;<br /><br />2° een door het verificatiebureau geverifieerde en goedgekeurde berekening van de verwachte, voor de BKG-inrichting relevante, broeikasgasemissies in het kalenderjaar van opstart van de inrichting;<br /><br />3° een door het verificatiebureau geverifieerde en goedgekeurde berekening van de jaarlijks verwachte, voor de BKG-inrichting relevante, broeikasgasemissies in een normaal kalenderjaar van exploitatie.  <span class="reference">(ing. B.V.R. 4 februari 2005, art. 34, I: 28 februari 2005)</span> ]
+§ 1. Niemand mag zonder voorafgaande schriftelijke vergunning van de bevoegde overheid een als hinderlijk ingedeelde inrichting die behoort tot de eerste of de tweede klasse exploiteren.<br /><br />§ 2. De vergunningsaanvraag om een inrichting van klasse 1 of 2 te exploiteren of te veranderen, wanneer de verandering overeenkomstig artikel 6bis vooraf vergund dient te worden, wordt ingediend door middel van een milieuvergunningsaanvraagformulier waarvan het model is vastgesteld in bijlage 4, gevoegd bij dit besluit en dat formulier bevat tenminste de volgende gegevens: <br /><br />1° - indien het om een natuurlijke persoon gaat: de<br /><br />naam, voornaam, hoedanigheid, het adres, telefoon-, R.S.Z.- en B.T.W.-nummer van de exploitant;<br /><br />- indien het om een rechtspersoon gaat: de benaming, de rechtsvorm en de maatschappelijke zetel, telefoon-, R.S.Z.- en B.T.W.-nummer van de exploitant, evenals de naam, de hoedanigheid van de verantwoordelijke persoon die de vergunningsaanvraag namens de exploitant ondertekent;<br /><br />2° de juridische grondslag op basis waarvan de exploitant de beschikking heeft over de bedoelde inrichting(en) alsmede het eigendomsstatuut van de percelen waarop de exploitatie gebeurt of is gepland;<br /><br />3° het adres van de inrichting die het voorwerp uitmaakt van de vergunningsaanvraag evenals de gemeenten en provincies waarin de percelen zijn gelegen waarop de exploitatie of de verandering van de inrichting gebeurt of gepland is;<br /><br />4° de vermelding of het gaat om een inrichting van:<br /><br />- de Staat, de Gemeenschap, het Gewest, een provincie of een door een van hen opgerichte instelling;<br /><br />- een gemeente, een vereniging van gemeenten of een openbaar centrum voor maatschappelijk welzijn;<br /><br />- een niet hiervoren genoemde openbare instelling;<br /><br />5° de vermelding of het gaat om:<br /><br />- de exploitatie van een nieuwe inrichting;<br /><br />- het hernieuwen van een vergunning voor een bestaande inrichting;<br /><br />- de exploitatie van een inrichting die na wijziging of aanvulling van de indelingslijst vergunningsplichtig wordt;<br /><br />- het veranderen van een inrichting met precisering dat het betreft:<br /><br />- een wijziging;<br /><br />- een uitbreiding;<br /><br />- een toevoeging;<br /><br />- de exploitatie van een tijdelijke inrichting;<br /><br />6° de aard en de klasse van de inrichting met vermelding of een milieu-effectrapport en/of een veiligheidsrapport wordt vereist;<br /><br />7° een beschrijving van de aan te wenden procédé's en reagentia;<br /><br />8° de aard en het vermogen van de toestellen;<br /><br />9° de aard, de inhoud, de bedrijfsdruk en -temperatuur en volgnummer van de toestellen, opslagtanks, reservoirs en apparaten;<br /><br />10° de aard, de maximum voorziene hoeveelheid en de fysische, chemische en toxicologische kenmerken van de als hinderlijk ingedeelde opslagplaatsen en van de grondstoffen, tussenprodukten, bijprodukten eindprodukten, afvalstoffen en afvalwaters alsmede de geplande bestemming van de afvalstoffen en afvalwaters; de kenmerkende gegevens van de voorziene emissies, afvalstoffen en afvalwaters;<br /><br />11° de op basis van de beste beschikbare technieken voorziene maatregelen en/of installaties om:<br /><br />a) zo weinig mogelijk afval te veroorzaken;<br /><br />b) minder gevaarlijke stoffen te gebruiken;<br /><br />c) de in het proces uitgestoten en gebruikte stoffen alsook afval, waar mogelijk, terug te winnen en te recycleren;<br /><br />d) het verbruik van grondstoffen, met inbegrip van water, te beperken en de energie-efficiëntie zo groot mogelijk te maken;<br /><br />e) het algemene effect van de emissies en de risico's op het milieu te voorkomen of tot een minimum te beperken en dit zowel voor geluid, trillingen, stralingen, lucht-, bodem- en waterverontreiniging als voor het gevaar voor de mens buiten de inrichting en het leefmilieu;<br /><br />f) ongevallen te voorkomen en de gevolgen daarvan voor het milieu te beperken;<br /><br />g) te voldoen aan de algemene en sectorale milieuvoorwaarden die van toepassing zijn op de inrichting;<br /><br />h) te voldoen aan artikel 14 en artikel 16, § 4 van het decreet van 21 oktober 1997 betreffende het natuurbehoud en het natuurlijk milieu; <br /><br />12° het maximum voorziene aantal te werk te stellen werknemers alsmede de vermelding of in de onderneming van de exploitant een comité voor veiligheid, gezondheid en verfraaiing der werkplaatsen als bedoeld in het Algemeen Reglement voor de Arbeidsbescherming bestaat;<br /><br />13° de maximum voorziene hoeveelheid jaarlijks te fabriceren goederen;<br /><br />14° in geval de aanvraag betrekking heeft op een directe of indirecte lozing in grondwater van gevaarlijke stoffen bedoeld in bijlage 2B bij dit besluit, op een stortplaats of opslagplaats voor afvalstoffen in of op de bodem, of op het geheel of gedeeltelijk opvullen met niet-verontreinigde uitgegraven bodem van groeven, graverijen, uitgravingen en andere putten met inbegrip van waterplassen en vijvers, tevens:<br /><br />° de geologische kenmerken, waaronder de kenmerken van de bodem en de ondergrond, van het terrein waarop de lozing of het opvullen met niet-verontreinigde uitgegraven bodem is gepland, respectievelijk de stortplaats of opslagplaats wordt ingericht en van de omgeving in een straal van 100 m rond de perceelsgrenzen<br /><br />° de hydrogeologische kenmerken, zoals de grondwaterhuishouding, van het terrein waarop de lozing of het opvullen met niet-verontreinigde uitgegraven bodem is gepland, respectievelijk de stortplaats of opslagplaats wordt ingericht en van de omgeving;<br /><br />° de beschrijving van de geo- en hydrogeologische kenmerken moet voldoende inzicht verschaffen in:<br /><br />a) de algemene geologische situatie:<br /><br />- geologische opbouw;<br /><br />- preciese granulometrische en lithologische kenmerken van de verschillende formaties;<br /><br />b) de algemene hydrogeologische situatie:<br /><br />- een uitvoerige beschrijving van alle hydrogeologische kenmerken der watervoerende lagen (o.a. hydraulische geleidbaarheid, transmissiviteit, bergingscapaciteit, enz.);<br /><br />- bepalen van stromingsrichtingen en stromingssnelheid van het grondwater;<br /><br />- vermelden en beschrijven der ondoorlatende lagen;<br /><br />- analyse van piëzometrische waarnemingen;<br /><br />c) de fysico-chemische kenmerken van het grondwater<br /><br />d) de waterwinningen in de omgeving (straal = 5km)<br /><br />- algemene historiek;<br /><br />- debiet van afpomping;<br /><br />- piëzometrische effecten;<br /><br />- continuïteit der bemaling;<br /><br />- doelstelling van de bemalingsactiviteiten;<br /><br />- fysico-chemische analyseresultaten der specifieke bemalingsactiviteiten;<br /><br />° een algemene beschrijving van het terrein en de omgeving met vermelding van het huidige gebruik, de begroeiing, het bodembestand en de eventuele bebouwing;<br /><br />wanneer het om een stortplaats voor afvalstoffen gaat, ook nog:<br /><br />° de gegevens inzake stabiliteit van het terrein en haar omgeving:<br /><br />a) berekening van de mogelijke verzakkingen en zettingen van de stortplaats en de ondergrond;<br /><br />b) de mogelijke invloed van de verzakkingen en zettingen op de afsluitlagen, drainagesystemen, taluds;<br /><br />c) de berekening van de hoogte en de opbouw van de stortplaats, de constructie en uitvoering van de afsluitlaag en de drainagesystemen zodat de stabiliteit van de stortplaats en de goede werking van de afsluitlaag en de drainagesystemen verzekerd blijven; <br /><br />15° in geval de aanvraag betrekking heeft op de verwerking van afvalstoffen, tevens:<br /><br />- de maatregelen die desgevallend kunnen genomen worden, wanneer de installaties of terreinen tijdelijk buiten gebruik zijn, om welke reden ook, zodat de verwerking van de afvalstoffen verzekerd blijft;<br /><br />- de algemene kenmerken van de soorten van afvalstoffen die per dag of per week, per maand en per jaar verwerkt kunnen worden, telkens met opgave van:<br /><br />- het volume en het gewicht van de afvalstoffen;<br /><br />- de aard, samenstelling en herkomst van de afvalstoffen;<br /><br />- de kwalificatie en de taken van het personeel belast met de afvalstoffenverwerking; <br /><br />- vier recente foto's van het terrein, genomen vanuit de verschillende hoofdwindrichtingen;<br /><br />- indien de aanvrager het vervullen van een opdracht van algemeen nut beoogt een verbintenis van de aanvrager om, binnen de perken, het voorwerp en de voorwaarden van de milieuvergunning, afvalstoffen te aanvaarden op schriftelijke vraag van de Openbare Afvalstoffenmaatschappij voor het Vlaamse Gewest of in opdracht ervan;<br /><br />15°bis in geval de aanvraag betrekking heeft op een tussentijdse opslagplaats voor uitgegraven bodem zoals vermeld in rubriek 61.1. van de indelingslijst of mits er een capaciteit is van meer dan 10.000 m3 voor een tussentijdse opslagplaats voor uitgegraven bodem zoals vermeld in rubriek 61.2. van de indelingslijst, tevens:<br /><br />a) de kenmerken van de bodem en de ondergrond van het terrein waarop de tussentijdse opslag met uitgegraven bodem is gepland, en van de omgeving in een straal van 100 m rond de perceelsgrenzen alsmede de grondwaterhuishouding van het terrein, waarop de tussentijdse opslagplaats wordt ingericht, en van de omgeving;<br /><br />b) een voorstel van werkplan voor opslag overeenkomstig de algemene en sectorale voorwaarden dat is opgesteld op basis van de grondwaterhuishouding van het terrein en van de omgeving alsmede een opmetingsplan voor de ophogingen met opgave van het maaiveld en de berekening van de opslagcapaciteit;<br /><br />c) een algemene beschrijving van het terrein en de omgeving met vermelding van het huidige gebruik, de begroeiing, het bodembestand en de eventuele bebouwing; <br /><br />16° in geval de aanvraag betrekking heeft op de lozing van afvalwaters, tevens:<br /><br />- de aard en de hoeveelheden te lozen:<br /><br />- huishoudelijk afvalwater; <br /><br />- bedrijfsafvalwater; <br /><br />- koelwater;<br /><br />- regenwater;<br /><br />- de aanduiding waarin en op welke wijze de afvalwaters worden geloosd:<br /><br />- in een gewoon oppervlaktewater;<br /><br />- in een openbare riool;<br /><br />- in een kunstmatige afvoerweg voor regenwater;<br /><br />- in de bodem;<br /><br />- de verschillende waterbevoorradingsbronnen;<br /><br />- een beschrijving van de afvalwaterzuiveringsinstallatie(s);<br /><br />16bis° in geval de aanvraag betrekking heeft op de winning van grondwater, voor elk van de grondwaterwinningen, gegroepeerd per watervoerende laag:<br /><br />a) de activiteit waarvan de grondwaterwinning deel uitmaakt;<br /><br />b) de bestemming van het grondwater;<br /><br />c) de beoogde of noodzakelijke waterkwaliteit;<br /><br />d) de beoogde maximumhoeveelheid te winnen grondwater uitgdrukt in m3 per dag en per jaar;<br /><br />e) de aard van de waterwinning;<br /><br />f) de technische kenmerken van de grondwaterwinning met inzonderheid de aanduiding van:<br /><br />- de diepte waarop het grondwater gewonnen wordt ten opzichte van het maaiveld;<br /><br />- de binnendiameter van de buis, de plaats, de lengte en de doorsnede van de galerij of van de draineerbuis, de plaats en de lengte van de klei- of cementafdichting;<br /><br />- de aard en het maximumvermogen van de pompen uitgedrukt in m3/uur en in kilowatt;<br /><br />g) de apparatuur en/of middelen voor de meting van:<br /><br />- het gewonnen grondwatervolume;<br /><br />- het grondwaterpeil;<br /><br />h) de verschillende waterbevoorradingsbronnen met hun debieten per dag en per jaar;<br /><br />i) de situering van alle (geregistreerde en niet geregistreerde) pompen op kaartmateriaal op schaal van tenminste 1/5.000;<br /><br />j) de identificatie van de watervoerende laag zo mogelijk met verwijzing naar de unieke code zoals weergegeven in de tabel van bijlage 2bis bij dit besluit;<br /><br />16ter° in geval de aanvraag betrekking heeft op het kunstmatig aanvullen van het grondwater:<br /><br />a) de activiteit waarvan de kunstmatige aanvulling deel uitmaakt;<br /><br />b) de omschrijving en diepte van de grondwaterlaag die kunstmatig zal worden aangevuld;<br /><br />c) de herkomst en de kwaliteit van het infiltratiewater;<br /><br />d) de maximumhoeveelheid water ingebracht als kunstmatige aanvulling uitgedrukt in m3 per dag en per jaar;<br /><br />e) de apparatuut en/of middelen voor de meting van:<br /><br />- de hoeveelheid water ingebracht als kunstmatige aanvulling;<br /><br />- het grondwaterpeil; <br /><br />f) de identificatie van de watervoerende laag die wordt aangevuld zo mogelijk met verwijzing naar de unieke code zoals weergegeven in de tabel van bijlage 2bis bij dit besluit; <br /><br />17° ingeval de aanvraag betrekking heeft op opslagplaatsen en installaties voor de verwerking van gevaarlijke afvalstoffen: <br /><br />- een nota betreffende de kwalificatie en de bevoegdheid van het personeel dat verantwoordelijk is voor de verwerkingsverrichtingen; <br /><br />- een nota die de te treffen maatregelen vermeldt voor de evacuatie van de residu van de behandeling van de gevaarlijke afvalstoffen, in 't bijzonder:<br /><br />a) indien het gaat om vloeibare residus:<br /><br />dezelfde inlichtingen als deze die moeten gegeven worden bij het lozen van afvalwater;<br /><br />b) indien het gaat om gasvormige residus:<br /><br />1° de aard van het lozingspunt (schouw, ontluchting, toorts), de hoogte, de binnendiameter bij de monding;<br /><br />2° het debiet en de temperatuur van de gassen en de dampen;<br /><br />3° de samenstelling van de gassen en de dampen en, gebeurlijk, het gehalte aan vaste stoffen;<br /><br />4° de aangewende technieken om de vooropgezette waarden niet te overschrijden;<br /><br />c) indien het gaat om vaste residus:<br /><br />1° het maximum volume en gewicht van de per maand en per jaar te verwijderen, op te slaan of te vervoeren residus;<br /><br />2° de aard van de gevaarlijke stoffen die er kunnen in aanwezig zijn en voor ieder van hen, de hoeveelheid per dag en per maand;<br /><br />3° de nauwkeurige beschrijving van de wijze waarop de residus opgeslagen, verwijderd of vervoerd worden, alsmede hun bestemming;<br /><br />4° in het geval dat de residus in de grond ingegraven worden, de hydrologische en geologische inlichtingen betreffende het terrein waarin zij ingegraven zullen worden, de fauna en de flora die er zich kunnen ontwikkelen, de beschermingsmaatregelen die getroffen zullen worden om de toegang tot het terrein te beletten aan elke persoon die niet tot de onderneming behoort;<br /><br />18° de vermelding of voor de inrichting, de verandering van de inrichting of voor het gedeelte van de inrichting dat het voorwerp uitmaakt van de vergunningsaanvraag krachtens de wet van 29 maart 1962 houdende organisatie van de ruimtelijke ordening en van de stedebouw een bouwvergunning is vereist; in voorkomend geval een afschrift van de beslissing over de vergunningsaanvragen als bedoeld in voormelde wet met betrekking tot de inrichting of de datum waarop en de overheid bij wie dergelijke vergunning(en) werd(en) aangevraagd;<br /><br />19° het voorwerp en de datum van de gedane meldingen, evenals een afschrift van eerdere beslissingen over vergunningsaanvragen die werden ingediend voor de exploitatie, de lozing van afvalwaters, de verwerking van afvalstoffen, de winning van grondwater of voor de bescherming van grondwater met betrekking tot de inrichting of in voorkomend geval de datum waarop alsmede de overheid bij wie dergelijke vergunning(en) werd(en) aangevraagd;<br /><br />20° in voorkomend geval, een afschrift van de beslissingen die werden getroffen met betrekking tot een verzoek tot afwijking van de milieuvoorwaarden die van toepassing zijn op de exploitatie van de inrichting; <br /><br />21° de datum waarop de exploitant de inrichting, de verandering van de inrichting of het gedeelte van de inrichting dat het voorwerp uitmaakt van de vergunningsaanvraag beoogt in gebruik te kunnen nemen;<br /><br />22° in geval overeenkomstig titel II van het VLAREM een milieucoördinator is aangesteld: de naam, voornaam, geboortedatum en het adres van deze milieucoördinator; <br /><br />23° als de aanvraag betrekking heeft op het ingeperkt gebruik van genetisch gemodificeerde en/of pathogene organismen:<br /><br />a) adres en beschrijving van de inrichting;<br /><br />b) een beschrijving van de aard van de activiteiten die beoogd worden;<br /><br />c) het risiconiveau van de activiteiten. <br /><br />§ 3. Bij de vergunningsaanvraag voor een inrichting van de klasse 1 of 2 dienen gevoegd:<br /><br />1° een situeringsplan op schaal van tenminste 1/1.000, waarop de ligging van de gebouwen, de produktie-eenheden, de opslagplaatsen, de stortplaatsen en de lozingspunten ten opzichte van de aanpalende percelen weergegeven is;<br /><br />2° een of meer uitvoeringsplannen op schaal van tenminste 1/200 waarop per produktie-eenheid, per opslagplaats, per gebouw en per verdieping, de schikkingen van de installaties, machines, toestellen, apparaten (in voorkomend geval met hun bijhorende motoren en opgave van het vermogen ervan) en opslagplaatsen (met capaciteit) evenals de lozingspunten van de afvalwaters weergegeven zijn alsmede de als hinderlijk ingedeelde handelingen aangegeven zijn;<br /><br />3° een bewijs van betaling van de dossiertaks;<br /><br />4° wanneer de aanvraag betrekking heeft op een stortplaats of opslagplaats voor afvalstoffen in of op de bodem alsmede op het geheel of gedeeltelijk opvullen met niet-verontreinigde uitgegraven bodem en niet-verontreinigde bagger- en ruimingsspecie van groeven, graverijen, uitgravingen en andere putten met inbegrip van waterplassen en vijvers of op een directe of indirecte lozing in grondwater van gevaarlijke stoffen bedoeld in bijlage 2 B bij dit besluit:<br /><br />° een voorstel van werkplan zoals omschreven in titel II van het VLAREM;<br /><br />° een opmetingsplan voor putten, laagten en ophogingen met opgave van het maaiveld en berekening van de nuttige stortcapaciteit;<br /><br />° een voorstel van inrichtingsplan, zoals omschreven in titel II van het VLAREM;<br /><br />° een voorstel van plan voor afwerking, sluiting en nazorg van de stortplaats, zoals omschreven in titel II van het VLAREM;<br /><br />° een verbintenis voor het aangaan van een financiële zekerheid, zoals omschreven in titel II van het VLAREM; <br /><br />5° wanneer de aanvraag betrekking heeft op een inrichting die ingedeeld is in een of meer van de subrubrieken 9.3 tot en met 9.8 van de indelingslijst:<br /><br />a) een lijst met de aantallen dieren gespecificeerd overeenkomstig de diersoorten (categorieën) vermeld in artikel 5 van het decreet van 23 januari 1991 inzake de bescherming van het leefmilieu tegen de verontreiniging door meststoffen; <br /><br />b) indien de vergunningsaanvraag betrekking heeft op de exploitatie van een nieuwe veeteeltinrichting of de uitbreiding van de vergunde mestproductie van een bestaande veeteeltinrichting in combinatie met de volledige stopzetting van een stop te zetten bestaande veeteeltinrichting die beschikt over een nutriëntenhalte als bedoeld in artikel 33ter, § 1, 1°, c), 4) en 5), van het decreet van 23 januari 1991 inzake de bescherming van het leefmilieu tegen de verontreiniging door meststoffen, moeten bovendien volgende bijlagen bij de aanvraag worden gevoegd:<br /><br />1° in voorkomend geval een afschrift van de uitvoeringsplannen op schaal van tenminste 1/200 dat betrekking heeft op de stop te zetten bestaande veeteeltinrichtingen en waarop de zelfstandig geëxploiteerde stallen staan aangeduid die volledig en definitief zullen worden stopgezet;<br /><br />2° een afschrift van de vergunningsbeslissingen met betrekking tot de stop te zetten veeteeltinrichting;<br /><br />3° een ondertekende verklaring waarin de vergunningsaanvrager verklaart dat hij uiterlijk 12 maanden na de ingebruikname van de verleende vergunning de stop te zetten bestaande veeteeltinrichting, als bedoeld in artikel 33ter, § 1, 1°, c), 4) en 5), van het decreet, volledig en definitief zal hebben stopgezet; <br /><br />c) indien de vergunningsaanvraag betrekking heeft op een nieuwe veeteeltinrichting of de uitbreiding van de vergunde mestproductie van een bestaande veeteeltinrichting naar aanleiding van de herlokalisatie van een bestaande veeteeltinrichting voortvloeiende uit een ruilverkaveling, landinrichting, natuurinrichting en/of onteigening om openbaar nut zoals bedoeld in het artikel 33ter, § 1, 1°, c), 6), van het decreet van 23 januari 1991 inzake de bescherming van het leefmilieu tegen de verontreiniging door meststoffen, moeten bovendien volgende bijlagen bij de aanvraag worden gevoegd:<br /><br />1° een gemotiveerde verklaring van de bevoegde overheid voor de ruilverkaveling, landinrichting, natuurinrichting of onteigening om openbaar nut dat de herlokalisatie noodzakelijk is en dat er na de herlokalisatie geen verdere veeteelt zal plaatsvinden op de stop te zetten bestaande veeteeltinrichting;<br /><br />2° een afschrift van de vergunningsbeslissingen met betrekking tot de stop te zetten bestaande veeteeltinrichting;<br /><br />3° een ondertekende verklaring waarin de vergunningsaanvrager verklaart de verleende vergunning slechts in gebruik te zullen nemen na de volledige en definitieve stopzetting van de stop te zetten bestaande veeteeltinrichtingen als bedoeld in artikel 33ter, § 1, 1°, c), 6), van het decreet van 23 januari 1991 inzake de bescherming van het leefmilieu tegen de verontreiniging door meststoffen; <br /><br />6° wanneer de aanvraag betrekking heeft op de winning van grondwater die behoort tot een grondwaterwinningseenheid met een totale capaciteit, inclusief de geplande grondwaterwinning, van meer dan 2.500 m3/dag of meer dan 500.000 m3/jaar:<br /><br />a) een hydrogeologische studie van het terrein en omgeving uitgevoerd door een of meer deskundigen die tenminste voldoende inzicht moet verschaffen inzake:<br /><br />i) algemene geologische situatie:<br /><br />- de geologische opbouw;<br /><br />- de lithologische kenmerken van de verschillende formaties;<br /><br />ii) algemene hydrogeologische situatie:<br /><br />- een algemene beschrijving van de waterhuishouding;<br /><br />- een uitvoerige beschrijving van de hydrogeologische kenmerken van de watervoerende laag waaruit water zal worden gewonnen (o.a. hydraulische geleidbaarheid, transmissiviteit, bergingscapaciteit, enz.);<br /><br />- bepalen van stromingsrichtingen en stromingssnelheden van het grondwater;<br /><br />iii) de fysico-chemische kenmerken van het grondwater van de watervoerende laag waaruit water zal worden gewonnen;<br /><br />iv) een berekening van de afpompingskegel in de watervoerende laag waaruit water zal worden gewonnen en de effecten op het bodemwater;<br /><br />v) een overzicht van de grondwaterwinningen gelegen in een straal van 5 km met hun debiet;<br /><br />b) een technisch rapport waarin het effect, met inbegrip van de gevolgen op de natuur en het natuurlijk milieu, van de geplande grondwaterwinning op de openbare en private bovengrondse eigendommen is bestudeerd en omschreven;<br /><br />7° wanneer de aanvraag betrekking heeft op het kunstmatig aanvullen van het grondwater:<br /><br />a) een hydrogeologische studie als bedoeld in 4°;<br /><br />b) een technische nota betreffende de infiltratietechniek en de maatregelen die genomen worden om verontreiniging van de watervoerende lagen te voorkomen. <br /><br />§ 4. Bij de vergunningsaanvraag voor een inrichting van de klasse 1 dient bovendien een uittreksel gevoegd uit het kadastraal plan met de gehele en gedeeltelijke percelen gelegen in een straal van 100 m rond de perceelsgrenzen van de inrichting alsmede de lijst van de kadastrale eigenaars van deze percelen.<br /><br />§ 5. Bij de vergunningsaanvraag voor een inrichting waarvoor een milieu-effectrapport is vereist, dient het voorgeschreven en conform de reglementering verklaarde milieu-effectrapport gevoegd.<br /><br />§ 6. Bij de vergunningsaanvraag voor een inrichting waarvoor een veiligheidsrapport is vereist, dient het voorgeschreven en conform de reglementering verklaarde veiligheidsrapport gevoegd.<br /><br />§ 7. Bij de vergunningsaanvraag voor een inrichting van de klasse 1 of 2 die in de vierde kolom van de indelingslijst is aangeduid met de letter X, moeten bovendien de volgende stukken gevoegd:<br /><br />1° een bijlage over geïntegreerde preventie en bestrijding van verontreiniging die een beschrijving bevat van:<br /><br />a) de installatie en de aard en omvang van de activiteiten die daar plaatsvinden;<br /><br />b) de grondstoffen en hulpmaterialen, de andere stoffen, inzonderheid afvalstoffen en secundaire grondstoffen, en de energie die in de installatie worden gebruikt of door de installatie worden gegenereerd;<br /><br />c) de emissiebronnen van de installatie;<br /><br />d) de situatie van de plaats waar de installatie komt;<br /><br />e) aard en omvang van de te voorziene emissies van de installatie in elk milieucompartiment met een overzicht van de significante milieu-effecten van de emissies;<br /><br />f) de beoogde technologie en de andere technieken ter voorkoming of, indien dat niet mogelijk is, ter vermindering van de emissies van de installatie;<br /><br />g) zo nodig de maatregelen betreffende de preventie en de nuttige toepassing van de door de installatie voortgebrachte afvalstoffen;<br /><br />h) de andere maatregelen die worden getroffen om te voldoen aan de algemene beginselen van de fundamentele verplichtingen van de exploitant, bedoeld in artikel 43ter;<br /><br />i) de maatregelen die worden getroffen ter controle van de emissies in het milieu; <br /><br />j) een schets van de voornaamste door de aanvrager bestudeerde alternatieven, voorzover deze bestaan; <br /><br />2° een niet-technische samenvatting van de in de bijlage, bedoeld in 1°, genoemde gegevens.<br /><br />Als de voormelde gegevens zijn opgenomen in het aanvraagformulier of een hierbij gevoegde andere bijlage en/of milieu-effectrapport, moeten deze gegevens niet herhaald worden maar volstaat een verwijzing in deze bijlage naar deze gegevens in het aanvraagformulier, de bijlage(n) of het milieu-effectrapport. <br /><br />§ 8. In de volgende gevallen wordt bij de vergunningsaanvraag een energiestudie gevoegd als bedoeld in hoofdstuk I en II van het besluit van de Vlaamse Regering van 16 juli 2004 inzake energieplanning voor ingedeelde energie-intensieve inrichtingen:<br /><br />a) een nieuwe inrichting met een totaal jaarlijks energiegebruik van tenminste 0,1 PetaJoule;<br /><br />b) een verandering van een inrichting met een totaal jaarlijks energiegebruik van tenminste 0,1 PetaJoule voorzover de vergunningsaanvraag de voor het energiegebruik relevante onderdelen van de inrichting betreft, en waarvoor op grond van artikel 6bis een vergunning overeenkomstig artikel 5 en 6 moet worden aangevraagd;<br /><br />c) een nieuwe BKG-inrichting of een verandering aan een BKG-inrichting.<br /><br />In de volgende gevallen wordt bij de vergunningsaanvraag voor een hernieuwing van een vergunning een energieplan gevoegd als bedoeld in hoofdstuk I en II van het besluit inzake energieplanning voor ingedeelde energie-intensieve inrichtingen:<br /><br />a) een inrichting met een totaal jaarlijks energiegebruik van tenminste 0,1 PetaJoule;<br /><br />b) een inrichting die voor wat betreft haar CO2-emissies is ingedeeld als BKG-inrichting en die enkel verbrandingsinstallaties omvat die uitsluitend gebruikt worden voor ruimteverwarming, en waarvan het geaggregeerd thermisch ingangsvermogen meer bedraagt dan 20 MW;<br /><br />c) een inrichting die voor wat betreft haar CO2-emissies is ingedeeld als BKG-inrichting en die behoort tot de aardgastransportsector.<br /><br />In de gevallen bedoeld in b) en c) van het vorige lid geldt deze verplichting uiterlijk tot 31 december 2007.<br /><br />De maatregelen uit dit energieplan met een interne rentevoet van minstens 15 % na belastingen moeten uiterlijk drie jaar na de toekenning van de milieuvergunning uitgevoerd zijn. <br /><br />§ 9. Bij de vergunningsaanvraag voor een BKG-inrichting of een verandering aan een BKG-inrichting waarvoor op grond van artikel 6bis een vergunning overeenkomstig artikel 5 en 6 moet worden aangevraagd, moeten bovendien de volgende stukken worden gevoegd:<br /><br />1° een door het verificatiebureau geverifieerd en goedgekeurd monitoring protocol. Elk monitoring protocol dient tenminste het volgende te omvatten:<br /><br />a) het identificatienummer en de naam van de BKG-inrichting(en) met per BKG-inrichting een lijst van bron(nen) of groep van bronnen, waaruit de CO2-emissies afkomstig zijn;<br /><br />b) informatie over verantwoordelijkheden inzake de bewaking en rapportage binnen de BKG-inrichting;<br /><br />c) de methode van berekening en/of meting, waarmee de emissies van CO2 worden bepaald, samen met een onderbouwing van de keuze van de methode, per bron of groep van bronnen;<br /><br />d) de lijst van te monitoren brandstofverbruiken, grondstof/materiaalverbruiken en/of productiegegevens per bron of groep van bronnen;<br /><br />e) de methode ter bepaling van de hoeveelheid verbruikte brandstoffen en grondstoffen, per bron of groep van bronnen;<br /><br />f) het type, de technische eigenschappen en de exacte locatie van de meetvoorzieningen ter bepaling van de hoeveelheid verbruikte brandstoffen en grondstoffen per bron of groep van bronnen en voor elke brandstof- en grondstofstroom;<br /><br />g) de analysemethoden of informatiebronnen en, indien van toepassing, de gebruikte bemonsteringsmethode ter bepaling van de calorische onderwaarde, het koolstofgehalte, de emissiefactoren en de biomassafractie voor elke brandstof- en materiaalstroom;<br /><br />h) per bron of groep van bronnen en voor alle activiteiten en brandstoftypes en materialen, een lijst van niveaus van nauwkeurigheid, die moeten worden toegepast voor de bepaling van activiteitsgegevens, emissiefactoren, oxidatie- en conversiefactoren;<br /><br />i) in het geval van meting, een gedetailleerde technische beschrijving van de aanwezige meetsystemen voor continue CO2-emissiemeting;<br /><br />j) een overzicht van de meetpunten, de meetfrequentie, de gebruikte meetapparatuur, de kalibratieprocedures en de procedures voor gegevensverzameling en opslag van de gegevens;<br /><br />k) de onzekerheid op de meting, uitgedrukt als 95 %-betrouwbaarheidsinterval rondom de gemeten waarde voor de bepaling van de CO2-emissies;<br /><br />l) een beschrijving van de procedures voor kwaliteitsborging en kwaliteitsbeheersing ten behoeve van gegevensbeheer of, indien van toepassing, beschrijving van de wijze waarop het gegevensbeheersysteem geïntegreerd is in het bestaande zorgsysteem;<br /><br />2° een berekening van de verwachte, voor de BKG-inrichting relevante broeikasgasemissies in het kalenderjaar van opstart van de inrichting; <br /><br />3° een berekening van de jaarlijks verwachte, voor de BKG-inrichting relevante broeikasgasemissies in een normaal kalenderjaar van exploitatie;<br />
 
 ### ART. 6.
 
@@ -34,15 +172,30 @@ De exploitant van een niet als hinderlijk ingedeelde inrichting die na haar inbe
 
 ### ART. 6bis.
 
-§ 1. Voor de verandering van een vergunde inrichting dient overeenkomstig artikelen 5 en 6 een vergunning te worden aangevraagd:<br /><br />1° wanneer de verandering van een vergunde inrichting de indeling van die inrichting in een hogere klasse tot gevolg heeft, ongeacht of deze inrichting samen met andere vergunde inrichtingen als een geheel moet worden beschouwd overeenkomstig de definitie van milieutechnische eenheid, bedoeld in artikel 1.1.2 van titel II van het VLAREM;<br /><br />2° wanneer de verandering een toevoeging betreft;<br /><br />3° wanneer de bevoegde overheid overeenkomstig de procedure vastgelegd in artikel 6ter en 6quater vaststelt dat de verandering van die aard is dat ze een bijkomend risico voor de mens of een aantasting van het leefmilieu inhoudt of de bestaande hinder vergroot.<br /><br />Voor de exploitatie van een nieuwe vergunningsplichtige inrichting, andere dan de vergunde inrichtingen die samen met de nieuwe inrichting overeenkomstig de definitie van milieutechnische eenheid, bedoeld in artikel 1.1.2 van titel II van het VLAREM, als een geheel moet worden beschouwd, moet eveneens een vergunning overeenkomstig artikel 5 en 6 te worden aangevraagd.<br /><br />§ 2. Voor de toepassing van de bepalingen van § 1, 3° wordt aangenomen dat elk van de volgende verandering van die aard is dat ze een bijkomend risisco voor de mens of een aantasting van het leefmilieu inhoudt of de bestaande hinder vergroot:<br /><br />1° een belangrijke wijziging van een vergunde inrichting, ongeacht of deze inrichting samen met andere vergunde inrichtingen als een geheel moet worden beschouwd overeenkomstig de definitie van milieutechnische eenheid, bedoeld in artikel 1.1.2 van titel II van het VLAREM;<br /><br />2° een uitbreiding van een vergunde inrichting met meer dan 50 %, ongeacht of deze inrichting samen met andere vergunde inrichtingen als een geheel moet worden beschouwd overeenkomstig de definitie van milieutechnische eenheid, bedoeld in artikel 1.1.2 van titel II van het VLAREM;<br /><br />3° een uitbreiding van een vergunde inrichting die, of waardoor de inrichting, onderworpen wordt aan een milieu-effectbeoordeling en/of een veiligheidsrapportering;<br /><br />[5° een verandering die een verhoging van risiconiveau zoals bepaald in de indelingslijst bij dit besluit en in artikel 5.51.3.1., § 2, van titel II van het Vlarem, inhoudt.  <span class="reference">(ing. B.V.R. 6 februari 2004, art. 3, I: 1 april 2004)</span> ]<br /><br />Voor het bepalen van de procentuele stijging zoals bedoeld in 2°, wordt de als gevolg van een milieuvergunningsaanvraag, bedoeld in artikel 6, vergunde situatie als basis genomen.<br /><br />§ 3. In de andere gevallen dan deze bedoeld in § 1, moet de verandering van een inrichting overeenkomstig artikel 6ter worden meegedeeld aan de overheid die in eerste aanleg bevoegd is.  <span class="reference">(ing. B.V.R. 12 januari 1999, art. 9, I: 1 mei 1999)</span> ]
+§ 1. Voor de verandering van een vergunde inrichting dient overeenkomstig artikelen 5 en 6 een vergunning te worden aangevraagd:<br>
+1° wanneer de verandering van een vergunde inrichting de indeling van die inrichting in een hogere klasse tot gevolg heeft, ongeacht of deze inrichting samen met andere vergunde inrichtingen als een geheel moet worden beschouwd overeenkomstig de definitie van milieutechnische eenheid, bedoeld in artikel 1.1.2 van titel II van het VLAREM;<br>
+2° wanneer de verandering een toevoeging betreft;<br>
+3° wanneer de bevoegde overheid overeenkomstig de procedure vastgelegd in artikel 6ter en 6quater vaststelt dat de verandering van die aard is dat ze een bijkomend risico voor de mens of een aantasting van het leefmilieu inhoudt of de bestaande hinder vergroot.<br>
+<br>
+Voor de exploitatie van een nieuwe vergunningsplichtige inrichting, andere dan de vergunde inrichtingen die samen met de nieuwe inrichting overeenkomstig de definitie van milieutechnische eenheid, bedoeld in artikel 1.1.2 van titel II van het VLAREM, als een geheel moet worden beschouwd, moet eveneens een vergunning overeenkomstig artikel 5 en 6 te worden aangevraagd.<br>
+<br>
+§ 2. Voor de toepassing van de bepalingen van § 1, 3° wordt aangenomen dat elk van de volgende verandering van die aard is dat ze een bijkomend risisco voor de mens of een aantasting van het leefmilieu inhoudt of de bestaande hinder vergroot:<br>
+1° een belangrijke wijziging van een vergunde inrichting, ongeacht of deze inrichting samen met andere vergunde inrichtingen als een geheel moet worden beschouwd overeenkomstig de definitie van milieutechnische eenheid, bedoeld in artikel 1.1.2 van titel II van het VLAREM;<br>
+2° een uitbreiding van een vergunde inrichting met meer dan 50 %, ongeacht of deze inrichting samen met andere vergunde inrichtingen als een geheel moet worden beschouwd overeenkomstig de definitie van milieutechnische eenheid, bedoeld in artikel 1.1.2 van titel II van het VLAREM;<br>
+3° een uitbreiding van een vergunde inrichting die, of waardoor de inrichting, onderworpen wordt aan een milieu-effectbeoordeling en/of een veiligheidsrapportering;<br>
+4° een verandering die een verhoging van risiconiveau zoals bepaald in de indelingslijst bij dit besluit en in artikel 5.51.3.1., § 2, van titel II van het Vlarem, inhoudt.<br>
+<br>
+Voor het bepalen van de procentuele stijging zoals bedoeld in 2°, wordt de als gevolg van een milieuvergunningsaanvraag, bedoeld in artikel 6, vergunde situatie als basis genomen.<br>
+<br>
+§ 3. In de andere gevallen dan deze bedoeld in § 1, moet de verandering van een inrichting overeenkomstig artikel 6ter worden meegedeeld aan de overheid die in eerste aanleg bevoegd is.
 
 ### ART. 6ter.
 
-§ 1. De mededeling van de kleine verandering, bedoeld in artikel 6bis, § 3, moet gebeuren door middel van een meldingsformulier waarvan het model is vastgelegd in bijlage 3, gevoegd bij dit besluit. Daarin worden tenminste de gegevens, bedoeld in artikel 2, § 3 vermeld.<br /><br />Voor de volledigheid van de mededeling moeten bij het meldingsformulier de volgende bijlagen worden gevoegd:<br /><br />1° de beschrijving van de toestand vóór de beoogde verandering door een of meer uitvoeringsplannen op schaal van tenminste 1/200 waarop per productie-eenheid, per opslagplaats, per gebouw en per verdieping, de schikkingen van de installaties, machines, toestellen, apparaten (in voorkomend geval met hun bijbehorende motoren en opgave van het vermogen ervan) en opslagplaatsen (met capaciteit) evenals de lozingspunten van de afvalwaters weergegeven zijn alsmede de als hinderlijk ingedeelde handelingen aangegeven zijn;<br /><br />2° de beschrijving van de toestand na de beoogde verandering door een of meer uitvoeringsplannen op schaal van tenminste 1/200 waarop per productie-eenheid, per opslagplaats, per gebouw en per verdieping die bij de verandering betrokken zijn, de schikkingen van de installaties, machines, toestellen, apparaten (in voorkomend geval met hun bijbehorende motoren en opgave van het vermogen ervan) en opslagplaatsen (met capaciteit) evenals de lozingspunten van de afvalwaters weergegeven zijn alsmede de als hinderlijk ingedeelde handelingen aangegeven zijn;<br /><br />3° een afschrift van de gedane meldingen, evenals een afschrift van eerdere beslissingen over vergunningsaanvragen die werden ingediend voor de exploitatie, de lozing van afvalwaters, de verwerking van afvalstoffen, de winning van grondwater of voor de bescherming van grondwater met betrekking tot de inrichting of in voorkomend geval de datum waarop alsmede de overheid waarbij dergelijke vergunning(en) werd(en) aangevraagd;  <span class="reference">(ing.B.V.R. 12 januari 1999, art. 9, I: 1 mei 1999)</span> ]<br /><br />[4° als het een BKG-inrichting betreft:<br /><br />a) een door het verificatiebureau geverifieerde en goedgekeurde aanpassing van het monitoring protocol zoals bepaald in artikel 5, § 9;<br /><br />b) een door het verificatiebureau geverifieerde berekening van de verwachte, voor de BKG-inrichting relevante broeikasgasemissies in het jaar van opstart van de inrichting;<br /><br />c) een door het verificatiebureau geverifieerde berekening van de jaarlijkse verwachte, voor de BKG-inrichting relevante broeikasgasemissies in een normaal jaar van exploitatie.  <span class="reference">(ing.B.V.R. 4 februari 2005, art.35, I: 28 februari 2005)</span> ]<br /><br />[§ 2. De mededeling van kleine verandering, bedoeld in § 1, moet bij een aangetekende zending of bij afgifte tegen ontvangstbewijs gedaan worden:<br /><br />1° in vijf exemplaren bij de bestendige deputatie van de provincie tot wiens ambtsgebied de percelen behoren waarop de verandering van de inrichting gepland is, of, als de inrichting zich over het grondgebied van meer dan een provincie uitstrekt, bij de onderscheiden bestendige deputaties van de provincies voor de respectieve gedeelten van de inrichting gelegen binnen hun ambtsgebied, wanneer het gaat om:<br /><br />a) een mededeling voor het veranderen van een vergunde inrichting van de klasse 1;<br /><br />b) een mededeling voor het veranderen van een vergunde inrichting van klasse 2 van openbare besturen of een door hen opgerichte instelling;<br /><br />2° in vijf exemplaren bij het college van burgemeester en schepenen van de gemeente waarin de percelen liggen waarop de verandering van de inrichting gepland is, of, als de inrichting zich over het grondgebied van meer dan een gemeente uitstrekt, bij de onderscheiden colleges van burgemeester en schepenen voor de respectieve gedeelten van de inrichting gelegen binnen hun ambtsgebied, wanneer het gaat om een mededeling voor het veranderen van een vergunde inrichting van klasse 2, een andere dan deze van openbare besturen of een door hen opgerichte instelling.<br /><br />§ 3. Wanneer de inrichting zich over het grondgebied van meerdere gemeenten in eenzelfde provincie uitstrekt, wordt het aantal bij de betrokken provinciale overheid in te dienen exemplaren, bedoeld in § 2, 1°, vermeerderd met 1 per extra gemeente.  <span class="reference">(ing. B.V.R. 12 januari 1999, art. 9, I: 1 mei 1999)</span> ]
+§ 1. De mededeling van de kleine verandering, bedoeld in artikel 6bis, § 3, moet gebeuren door middel van een meldingsformulier waarvan het model is vastgelegd in bijlage 3, gevoegd bij dit besluit. Daarin worden tenminste de gegevens, bedoeld in artikel 2, § 3 vermeld.<br /><br />Voor de volledigheid van de mededeling moeten bij het meldingsformulier de volgende bijlagen worden gevoegd:<br /><br />1° de beschrijving van de toestand vóór de beoogde verandering door een of meer uitvoeringsplannen op schaal van tenminste 1/200 waarop per productie-eenheid, per opslagplaats, per gebouw en per verdieping, de schikkingen van de installaties, machines, toestellen, apparaten (in voorkomend geval met hun bijbehorende motoren en opgave van het vermogen ervan) en opslagplaatsen (met capaciteit) evenals de lozingspunten van de afvalwaters weergegeven zijn alsmede de als hinderlijk ingedeelde handelingen aangegeven zijn;<br /><br />2° de beschrijving van de toestand na de beoogde verandering door een of meer uitvoeringsplannen op schaal van tenminste 1/200 waarop per productie-eenheid, per opslagplaats, per gebouw en per verdieping die bij de verandering betrokken zijn, de schikkingen van de installaties, machines, toestellen, apparaten (in voorkomend geval met hun bijbehorende motoren en opgave van het vermogen ervan) en opslagplaatsen (met capaciteit) evenals de lozingspunten van de afvalwaters weergegeven zijn alsmede de als hinderlijk ingedeelde handelingen aangegeven zijn;<br /><br />3° een afschrift van de gedane meldingen, evenals een afschrift van eerdere beslissingen over vergunningsaanvragen die werden ingediend voor de exploitatie, de lozing van afvalwaters, de verwerking van afvalstoffen, de winning van grondwater of voor de bescherming van grondwater met betrekking tot de inrichting of in voorkomend geval de datum waarop alsmede de overheid waarbij dergelijke vergunning(en) werd(en) aangevraagd; <br /><br />4° als het een BKG-inrichting betreft:<br /><br />a) een door het verificatiebureau geverifieerde en goedgekeurde aanpassing van het monitoring protocol zoals bepaald in artikel 5, § 9;<br /><br />b) een berekening van de verwachte, voor de BKG-inrichting relevante broeikasgasemissies in het kalenderjaar van opstart van de inrichting;<br /><br />c) een berekening van de jaarlijks verwachte, voor de BKG-inrichting relevante, broeikasgasemissies in een normaal kalenderjaar van exploitatie;<br /><br />5° als het om een verandering gaat van een inrichting die is ingedeeld onder rubriek 43.4 van bijlage I bij Titel I van het VLAREM, waardoor de inrichting niet meer als BKG-inrichting wordt ingedeeld : een door het verificatiebureau geverifieerde en goedgekeurde berekening van het totale thermische ingangsvermogen.<br /> <br />§ 2. De mededeling van kleine verandering, bedoeld in § 1, moet bij een aangetekende zending of bij afgifte tegen ontvangstbewijs gedaan worden:<br /><br />1° in vijf exemplaren bij de bestendige deputatie van de provincie tot wiens ambtsgebied de percelen behoren waarop de verandering van de inrichting gepland is, of, als de inrichting zich over het grondgebied van meer dan een provincie uitstrekt, bij de onderscheiden bestendige deputaties van de provincies voor de respectieve gedeelten van de inrichting gelegen binnen hun ambtsgebied, wanneer het gaat om:<br /><br />a) een mededeling voor het veranderen van een vergunde inrichting van de klasse 1;<br /><br />b) een mededeling voor het veranderen van een vergunde inrichting van klasse 2 van openbare besturen of een door hen opgerichte instelling;<br /><br />2° in vijf exemplaren bij het college van burgemeester en schepenen van de gemeente waarin de percelen liggen waarop de verandering van de inrichting gepland is, of, als de inrichting zich over het grondgebied van meer dan een gemeente uitstrekt, bij de onderscheiden colleges van burgemeester en schepenen voor de respectieve gedeelten van de inrichting gelegen binnen hun ambtsgebied, wanneer het gaat om een mededeling voor het veranderen van een vergunde inrichting van klasse 2, een andere dan deze van openbare besturen of een door hen opgerichte instelling.<br /><br />§ 3. Wanneer de inrichting zich over het grondgebied van meerdere gemeenten in eenzelfde provincie uitstrekt, wordt het aantal bij de betrokken provinciale overheid in te dienen exemplaren, bedoeld in § 2, 1°, vermeerderd met 1 per extra gemeente.
 
 ### ART. 6quater.
 
-§ 1. Voor de mededeling van een kleine verandering, bedoeld in artikel 6bis, § 3, geldt de procedure vastgesteld door dit artikel.<br /><br />§ 2. Het onderzoek van de ontvankelijkheid en volledigheid gebeurt als volgt:<br /><br />1° de bevoegde overheid of de door haar daartoe gemachtigde ambtenaar onderzoekt de mededeling op volledigheid en ontvankelijkheid overeenkomstig artikel 6bis en 6ter;<br /><br />2° wordt de mededeling onontvankelijk bevonden, dan wordt de indiener binnen veertien kalenderdagen na het indienen van de mededeling hiervan door de bevoegde overheid of de door haar daartoe gemachtigde ambtenaar schriftelijk in kennis gesteld;<br /><br />3° wordt de mededeling onvolledig bevonden, dan wordt de indiener binnen veertien kalenderdagen na het indienen van de mededeling hiervan door de bevoegde overheid of haar daartoe gemachtigde ambtenaar schriftelijk in kennis gesteld;<br /><br />4° wordt de mededeling ontvankelijk en volledig bevonden, dan wordt de indiener binnen 14 kalenderdagen na de indiening van de mededeling of na het verstrekken van de aanvullende gegevens hiervan door de bevoegde overheid of door haar daartoe gemachtigde ambtenaar schriftelijk in kennis gesteld;<br /><br />5° indien er binnen veertien kalenderdagen na het indienen van de mededeling of na het verstrekken van de aanvullende gegevens geen schriftelijke kennisgeving aan de indiener werd verzonden, wordt de mededeling geacht ontvankelijk en volledig te zijn.<br /><br />De kennisgeving, bedoeld in 2°, vermeldt de reden van de onontvankelijkheid en wijst eventueel de overheid aan die bevoegd geacht wordt om kennis te nemen van de mededeling of van een vergunningsaanvraag.<br /><br />De kennisgeving, bedoeld in 3°, vermeldt de inlichtingen en gegevens die ontbreken of nadere toelichting vereisen.<br /><br />§ 3. De bevoegde overheid of de door haar daartoe gemachtigde ambtenaar stuurt op de dag van de verzending van de brief, bedoeld in § 2, 4° een exemplaar van het volledige mededelingsdossier naar de adviesverlenende overheidsorganen, bedoeld in artikel 20, § 1, 1° en 2°.  <span class="reference">(ing. B.V.R. 12 januari 1999, art. 9, I: 1 mei 1999)</span> ] [Wanneer de aanvraag betrekking heeft op een inrichting die ingedeeld is in één of meer van de subrubrieken 9.3 tot en met 9.8 of rubriek 28.3 wordt daarenboven ook een exemplaar gezonden aan de Vlaamse Landmaatschappij.  <span class="reference">(verv. B.V.R. 19 september 2003, art. 1, I: 20 oktober 2003)</span> ]<br /><br />[De overheidsorganen, bedoeld in het eerste lid, brengen hun advies uit overeenkomstig hoofdstuk VI. Bij gebrek aan advies binnen een termijn van 30 kalenderdagen, wordt aangenomen dat bedoeld(e) adviesverlenend(e) overheidsorgaan(en) een gunstige beoordeling over de door haar te onderzoeken aspecten met betrekking tot de meegedeelde verandering heeft (hebben) uitgebracht.<br /><br />§ 4. Binnen een termijn van 60 kalenderdagen te rekenen vanaf de datum van verzending van de brief, bedoeld in § 2, 4°, doet de bevoegde overheid bij gemotiveerd besluit uitspraak over de mededeling van de kleine verandering.<br /><br />Indien deze overheid daarbij vaststelt dat de verandering van die aard is dat ze:<br /><br />1° ofwel een bijkomend risico voor de mens of een aantasting van het leefmilieu inhoudt;<br /><br />2° ofwel de bestaande hinder vergroot;<br /><br />moet voor de beoogde verandering een vergunning worden aangevraagd; deze vaststelling is niet vatbaar voor beroep.<br /><br />In het andere geval wordt de verandering door een aktename vergund voor een bepaalde termijn waarvan de einddatum die van de lopende vergunning niet mag overschrijden. Deze aktename is wel vatbaar voor beroep overeenkomstig artikel 49 en 50 wanneer het gaat om een uitspraak van het college van burgemeester en schepenen, respectievelijk van artikel 51 en 52 wanneer het gaat om een uitspraak van de bestendige deputatie van de provincie.<br /><br />§ 5. De aktename, bedoeld in § 4, wordt bekendgemaakt overeenkomstig artikel 35, 5° wanneer het gaat om een uitspraak van de bestendige deputatie van de provincie respectievelijk overeenkomstig artikel 36, 5° wanneer het gaat om een uitspraak van het college van burgemeester en schepenen.  <span class="reference">(ing. B.V.R. 12 januari 1999, art. 9, I: 1 mei 1999)</span> ]
+§ 1. Voor de mededeling van een kleine verandering, bedoeld in artikel 6bis, § 3, geldt de procedure vastgesteld door dit artikel.<br /><br />§ 2. Het onderzoek van de ontvankelijkheid en volledigheid gebeurt als volgt:<br /><br />1° de bevoegde overheid of de door haar daartoe gemachtigde ambtenaar onderzoekt de mededeling op volledigheid en ontvankelijkheid overeenkomstig artikel 6bis en 6ter;<br /><br />2° wordt de mededeling onontvankelijk bevonden, dan wordt de indiener binnen veertien kalenderdagen na het indienen van de mededeling hiervan door de bevoegde overheid of de door haar daartoe gemachtigde ambtenaar schriftelijk in kennis gesteld;<br /><br />3° wordt de mededeling onvolledig bevonden, dan wordt de indiener binnen veertien kalenderdagen na het indienen van de mededeling hiervan door de bevoegde overheid of haar daartoe gemachtigde ambtenaar schriftelijk in kennis gesteld;<br /><br />4° wordt de mededeling ontvankelijk en volledig bevonden, dan wordt de indiener binnen 14 kalenderdagen na de indiening van de mededeling of na het verstrekken van de aanvullende gegevens hiervan door de bevoegde overheid of door haar daartoe gemachtigde ambtenaar schriftelijk in kennis gesteld;<br /><br />5° indien er binnen veertien kalenderdagen na het indienen van de mededeling of na het verstrekken van de aanvullende gegevens geen schriftelijke kennisgeving aan de indiener werd verzonden, wordt de mededeling geacht ontvankelijk en volledig te zijn.<br /><br />De kennisgeving, bedoeld in 2°, vermeldt de reden van de onontvankelijkheid en wijst eventueel de overheid aan die bevoegd geacht wordt om kennis te nemen van de mededeling of van een vergunningsaanvraag.<br /><br />De kennisgeving, bedoeld in 3°, vermeldt de inlichtingen en gegevens die ontbreken of nadere toelichting vereisen.<br /><br />§ 3. De bevoegde overheid of de door haar daartoe gemachtigde ambtenaar stuurt op de dag van de verzending van de brief, bedoeld in § 2, 4° een exemplaar van het volledige mededelingsdossier naar de adviesverlenende overheidsorganen, bedoeld in artikel 20, § 1, 1° en 2°. Wanneer de aanvraag betrekking heeft op een inrichting die ingedeeld is in één of meer van de subrubrieken 9.3 tot en met 9.8 of rubriek 28.3 wordt daarenboven ook een exemplaar gezonden aan de Vlaamse Landmaatschappij.  Als de mededeling betrekking heeft op een BKG-inrichting, wordt daarenboven een exemplaar gezonden aan de afdeling Algemeen Milieu- en Natuurbeleid van de Administratie Milieu-, Natuur-, Land- en Waterbeheer<br /><br />De overheidsorganen, bedoeld in het eerste lid, brengen hun advies uit overeenkomstig hoofdstuk VI. Bij gebrek aan advies binnen een termijn van 30 kalenderdagen, wordt aangenomen dat bedoeld(e) adviesverlenend(e) overheidsorgaan(en) een gunstige beoordeling over de door haar te onderzoeken aspecten met betrekking tot de meegedeelde verandering heeft (hebben) uitgebracht.<br /><br />§ 4. Binnen een termijn van 60 kalenderdagen te rekenen vanaf de datum van verzending van de brief, bedoeld in § 2, 4°, doet de bevoegde overheid bij gemotiveerd besluit uitspraak over de mededeling van de kleine verandering.<br /><br />Indien deze overheid daarbij vaststelt dat de verandering van die aard is dat ze:<br /><br />1° ofwel een bijkomend risico voor de mens of een aantasting van het leefmilieu inhoudt;<br /><br />2° ofwel de bestaande hinder vergroot;<br /><br />moet voor de beoogde verandering een vergunning worden aangevraagd; deze vaststelling is niet vatbaar voor beroep.<br /><br />In het andere geval wordt de verandering door een aktename vergund voor een bepaalde termijn waarvan de einddatum die van de lopende vergunning niet mag overschrijden. Deze aktename is wel vatbaar voor beroep overeenkomstig artikel 49 en 50 wanneer het gaat om een uitspraak van het college van burgemeester en schepenen, respectievelijk van artikel 51 en 52 wanneer het gaat om een uitspraak van de bestendige deputatie van de provincie.<br /><br />§ 5. De aktename, bedoeld in § 4, wordt bekendgemaakt overeenkomstig artikel 35, 5° wanneer het gaat om een uitspraak van de bestendige deputatie van de provincie respectievelijk overeenkomstig artikel 36, 5° wanneer het gaat om een uitspraak van het college van burgemeester en schepenen.
 
 ## HOOFDSTUK IV [PREVENTIE VAN ZWARE ONGEVALLEN (verv. B.V.R. 12 januari 1999, art. 10)]
 
@@ -116,7 +269,7 @@ Bij het afsluiten van het openbaar onderzoek wordt door de burgemeester een doss
 
 ### ART. 21.
 
-§ 1. Het advies van [de afdeling Milieuvergunningen van de Administratie Milieu-, Natuur-, Land- en Waterbeheer  <span class="reference">(verv. B.V.R. 12 januari 1999, art. 18, I: 1 mei 1999)</span> ] bevat volgende gegevens:<br /><br />1° een gemotiveerde beoordeling van de verenigbaarheid van de inrichting waarvoor een vergunning wordt gevraagd met het leefmilieu, inclusief met de Ramsar- en de EG-vogelrichtlijngebieden, de bescherming van de oppervlakte- en grondwateren, het algemeen waterzuiveringsprogramma en het [milieubeleidsplan en de sectorale uitvoeringsplannen  <span class="reference">(verv. B.V.R. 12 januari 1999, art. 18, I: 1 mei 1999)</span> ] alsmede met de externe veiligheid;<br /><br />2° indien de inrichting verenigbaar wordt geacht met het leefmilieu en de externe veiligheid, een gemotiveerd voorstel van de vergunningstermijn en de vergunningsvoorwaarden, die betrekking hebben op de bescherming van het leefmilieu en de externe veiligheid;<br /><br />3° een gemotiveerde beoordeling over de inrichting waarvoor een vergunning wordt gevraagd, wat de bescherming van het grond- en het oppervlaktewater betreft;<br /><br />4° indien de inrichting verenigbaar wordt geacht met de voorwaarden inzake de bescherming van het grond- en oppervlaktewater tegen verontreiniging, een gemotiveerd voorstel van de vergunningsvoorwaarden, die betrekking hebben op de bescherming van de grond- en oppervlaktewateren.<br /><br />§ 2. Het advies van [de bevoegde afdeling ROHM van de administratie Ruimtelijke Ordening, Huisvesting en Monumenten en Landschappen  <span class="reference">(verv. B.V.R. 12 januari 1999, art. 18, I: 1 mei 1999)</span> ] bevat volgende gegevens:<br /><br />1° de voorschriften en verordeningen op het vlak van de stedebouw en de ruimtelijke ordening die van toepassing zijn op de percelen, waarop de vergunningsaanvraag slaat en de beschrijving van de bestemming die, overeenkomstig de plannen van aanleg, in een straal van 500 m rond de betrokken inrichting, aan de omgeving is gegeven;<br /><br />2° een gemotiveerde beoordeling van de verenigbaarheid van de inrichting waarvoor een vergunning wordt gevraagd met de omgeving en de goede plaatselijke ruimtelijke ordening.<br /><br />§ 3. Het advies van [de afdeling Preventieve en Sociale Gezondheidszorg van de administratie gezondheidszorg  <span class="reference">(verv. B.V.R. 12 januari 1999, art. 18, I: 1 mei 1999)</span> ] bevat volgende gegevens:<br /><br />1° een gemotiveerde beoordeling over de inrichting waarvoor een vergunning wordt gevraagd, wat het gezondheidsaspect betreft;<br /><br />2° indien de inrichting verenigbaar wordt geacht met de voorwaarden inzake de gezondheid, een gemotiveerd voorstel van de vergunningsvoorwaarden die betrekking hebben op de gezondheid van de mens.<br /><br />§ 4. [Het advies van  <span class="reference">(verv. B.V.R. 28 oktober 1992, art. 5, I: 1 maart 1993)</span> ] [de afdeling Natuurlijke Rijkdommen en Energie van de administratie Economie  <span class="reference">(verv. B.V.R. 12 januari 1999, art. 18, I: 1 mei 1999)</span> ] [bevat volgende gegevens:<br /><br />1° een gemotiveerde beoordeling over de inrichting waarvoor een vergunning wordt gevraagd wat betreft het beheer van de natuurlijke rijkdommen, het ontginningsbeleid en het gevaar voor grondverschuivingen en/of instortingen;<br /><br />2° indien de inrichting verenigbaar wordt geacht met het ontginningsbeleid, een gemotiveerd voorstel van de vergunningsvoorwaarden die betrekking hebben op het voorkomen van grondverschuivingen en/of instortingen;  <span class="reference">(verv. B.V.R. 28 oktober 1992, art. 5, I: 1 maart 1993)</span> ]<br /><br />[3° wanneer het een inrichting betreft die in de 4de kolom van de indelingslijst is aangeduid met de letter X, een beoordeling van het doelmatig gebruik van energie in de installatie;  <span class="reference">(ing. B.V.R. 12 januari 1999, art. 21, I: 1 mei 1999)</span> ]<br /><br />4° [in de gevallen, opgesomd in artikel 5, § 8: een gemotiveerde beoordeling van het energieplan of de energiestudie, zoals bedoeld in hoofdstuk I en II van het besluit inzake energieplanning voor ingedeelde energie-intensieve inrichtingen.  <span class="reference">(verv. B.V.R. 4 februari 2005, art. 37, I: 28 februari 2005)</span> ]<br /><br />5° [...  <span class="reference">(geschr. B.V.R. 4 februari 2005, art. 37, I: 28 februari 2005)</span> ]<br /><br />[§ 5. Het advies van de Openbare Afvalstoffenmaatschappij voor het Vlaamse Gewest bevat volgende gegevens:<br /><br />1° een gemotiveerde beoordeling over de inrichting waarvoor een vergunning wordt aangevraagd wat de voorkoming, de produktie en  <span class="reference">(ing. B.V.R. 28 oktober 1992, art. 5, I: 1 maart 1993)</span> ] [de verwerking  <span class="reference">(verv. B.V.R. 12 januari 1999, art. 18, I: 1 mei 1999)</span> ] [van afvalstoffen betreft en wat betreft het beheer van de afvalstromen;<br /><br />2° indien de inrichting verenigbaar wordt geacht met de bepalingen van het  <span class="reference">(ing. B.V.R. 28 oktober 1992, art. 5, I: 1 maart 1993)</span> ] [milieubeleidsplan en de sectorale uitvoeringsplannen  <span class="reference">(verv. B.V.R. 12 januari 1999, art. 18, I: 1 mei 1999)</span> ] [en met de voorwaarden inzake afvalstoffenbeheer, een gemotiveerd voorstel van vergunningstermijn en van vergunningsvoorwaarden die betrekking hebben op de produktie,  <span class="reference">(ing. B.V.R. 28 oktober 1992, art. 5, I: 1 maart 1993)</span> ] [de verwerking  <span class="reference">(verv. B.V.R. 12 januari 1999, art. 18, I: 1 mei 1999)</span> ] [en de voorkoming van afvalstoffen, het beheer van afvalstromen en het voorkomen van verontreiniging ten gevolge van afvalstoffen.<br /><br />§ 6. Het advies van de Vlaamse Milieumaatschappij bevat volgende gegevens:<br /><br />1. met betrekking tot het lozen van afvalwater:<br /><br />a) een gemotiveerde beoordeling over de herkomst van het afvalwater en de verenigbaarheid van de aangevraagde lozing met het algemeen waterzuiveringsprogramma en, in geval van rechtstreekse of onrechtstreekse lozing in oppervlaktewater, met de kwaliteit van het ontvangende oppervlaktewater en met de geplande investeringen voor de zuivering van bedoeld oppervlaktewater;<br /><br />b) indien de aangevraagde lozing verenigbaar wordt geacht met het algemeen waterzuiveringsprogramma, met de kwaliteit van het ontvangende oppervlaktewater en met de geplande of reeds bestaande infrastructuur voor de zuivering van het ontvangende water, een gemotiveerd voorstel van vergunningsvoorwaarden die betrekking hebben op de maximaal toelaatbare vuilvracht;<br /><br />2. met betrekking tot de emissie van afvalgassen in de atmosfeer:<br /><br />a) een gemotiveerde beoordeling over de verenigbaarheid van de aangevraagde emissie met de kwaliteit van de omgevingslucht;<br /><br />b) indien de aangevraagde emissie verenigbaar wordt geacht met de kwaliteit van de omgevingslucht, een gemotiveerd voorstel van vergunningsvoorwaarden die betrekking hebben op de maximaal toelaatbare emissie.<br /><br />§ 7. Het advies van de Vlaamse Landmaatschappij bevat volgende gegevens:<br /><br />1. een gemotiveerde beoordeling over de verenigbaarheid van de inrichting waarvoor een vergunning wordt gevraagd met het decreet inzake de bescherming van het leefmilieu tegen de verontreiniging door meststoffen en zijn uitvoeringsbesluiten;<br /><br />2. indien de inrichting verenigbaar wordt geacht met het voornoemde decreet en zijn uitvoeringsbesluiten, een gemotiveerd voorstel van de vergunningsvoorwaarden die betrekking hebben op de opslag en verwerking van dierlijke mest.  <span class="reference">(ing. B.V.R. 28 oktober 1992, art. 5, I: 1 maart 1993)</span> ]<br /><br />[§ 8. Het advies van de afdeling Water van de administratie voor Milieu-, Natuur-, Land- en Waterbeheer bevat volgende gegevens:<br /><br />1° een gemotiveerde beoordeling over de inrichting waarvoor een vergunning wordt aangevraagd, wat betreft de kwantitatieve effecten op het beheer van de watervoerende en/of de ontvangende grondwaterlaag enerzijds en op de openbare en private bovengrondse eigendommen anderzijds;<br /><br />2° indien de inrichting verenigbaar wordt geacht met het grondwaterbeheersbeleid, een gemotiveerd voorstel van de vergunningsvoorwaarden die betrekking hebben op het grondwaterbeheer en het voorkomen van schade aan de openbare en private bovengrondse eigendommen.  <span class="reference">(ing. B.V.R. 12 januari 1999, art. 21, I: 1 mei 1999)</span> ]<br /><br />[§ 9. Het advies van de afdeling bevat volgende gegevens: een gemotiveerde beoordeling van het al dan niet in staat zijn van de exploitant van het bewaken en rapporteren van de broeikasgasemissies.  <span class="reference">(ing. B.V.R. 4 februari 2005, art. 37, I: 28 februari 2005)</span> ]
+§ 1. Het advies van de afdeling Milieuvergunningen van de Administratie Milieu-, Natuur-, Land- en Waterbeheer bevat volgende gegevens:<br />1° een gemotiveerde beoordeling van de verenigbaarheid van de inrichting waarvoor een vergunning wordt gevraagd met het leefmilieu, inclusief met de Ramsar- en de EG-vogelrichtlijngebieden, de bescherming van de oppervlakte- en grondwateren, het algemeen waterzuiveringsprogramma en het milieubeleidsplan en de sectorale uitvoeringsplannen  alsmede met de externe veiligheid;<br />2° indien de inrichting verenigbaar wordt geacht met het leefmilieu en de externe veiligheid, een gemotiveerd voorstel van de vergunningstermijn en de vergunningsvoorwaarden, die betrekking hebben op de bescherming van het leefmilieu en de externe veiligheid;<br />3° een gemotiveerde beoordeling over de inrichting waarvoor een vergunning wordt gevraagd, wat de bescherming van het grond- en het oppervlaktewater betreft;<br />4° indien de inrichting verenigbaar wordt geacht met de voorwaarden inzake de bescherming van het grond- en oppervlaktewater tegen verontreiniging, een gemotiveerd voorstel van de vergunningsvoorwaarden, die betrekking hebben op de bescherming van de grond- en oppervlaktewateren.<br /><br />§ 2. Het advies van de bevoegde afdeling ROHM van de administratie Ruimtelijke Ordening, Huisvesting en Monumenten en Landschappen bevat volgende gegevens:<br />1° de voorschriften en verordeningen op het vlak van de stedebouw en de ruimtelijke ordening die van toepassing zijn op de percelen, waarop de vergunningsaanvraag slaat en de beschrijving van de bestemming die, overeenkomstig de plannen van aanleg, in een straal van 500 m rond de betrokken inrichting, aan de omgeving is gegeven;<br />2° een gemotiveerde beoordeling van de verenigbaarheid van de inrichting waarvoor een vergunning wordt gevraagd met de omgeving en de goede plaatselijke ruimtelijke ordening.<br /><br />§ 3. Het advies van de afdeling Preventieve en Sociale Gezondheidszorg van de administratie gezondheidszorg bevat volgende gegevens:<br />1° een gemotiveerde beoordeling over de inrichting waarvoor een vergunning wordt gevraagd, wat het gezondheidsaspect betreft;<br />2° indien de inrichting verenigbaar wordt geacht met de voorwaarden inzake de gezondheid, een gemotiveerd voorstel van de vergunningsvoorwaarden die betrekking hebben op de gezondheid van de mens.<br /><br />§ 4. Het advies van de afdeling Natuurlijke Rijkdommen en Energie van de administratie Economie bevat volgende gegevens:<br />1° een gemotiveerde beoordeling over de inrichting waarvoor een vergunning wordt gevraagd wat betreft het beheer van de natuurlijke rijkdommen, het ontginningsbeleid en het gevaar voor grondverschuivingen en/of instortingen;<br />2° indien de inrichting verenigbaar wordt geacht met het ontginningsbeleid, een gemotiveerd voorstel van de vergunningsvoorwaarden die betrekking hebben op het voorkomen van grondverschuivingen en/of instortingen; <br />3° wanneer het een inrichting betreft die in de 4de kolom van de indelingslijst is aangeduid met de letter X, een beoordeling van het doelmatig gebruik van energie in de installatie; <br />4° in de gevallen, opgesomd in artikel 5, § 8: een gemotiveerde beoordeling van het energieplan of de energiestudie, zoals bedoeld in hoofdstuk I en II van het besluit inzake energieplanning voor ingedeelde energie-intensieve inrichtingen. <br />5° ... <br /><br />§ 5. Het advies van de Openbare Afvalstoffenmaatschappij voor het Vlaamse Gewest bevat volgende gegevens:<br />1° een gemotiveerde beoordeling over de inrichting waarvoor een vergunning wordt aangevraagd wat de voorkoming, de produktie en van afvalstoffen betreft en wat betreft het beheer van de afvalstromen;<br />2° indien de inrichting verenigbaar wordt geacht met de bepalingen van het milieubeleidsplan en de sectorale uitvoeringsplannen en met de voorwaarden inzake afvalstoffenbeheer, een gemotiveerd voorstel van vergunningstermijn en van vergunningsvoorwaarden die betrekking hebben op de produktie, de verwerking en de voorkoming van afvalstoffen, het beheer van afvalstromen en het voorkomen van verontreiniging ten gevolge van afvalstoffen.<br /><br />§ 6. Het advies van de Vlaamse Milieumaatschappij bevat volgende gegevens:<br />1. met betrekking tot het lozen van afvalwater:<br />a) een gemotiveerde beoordeling over de herkomst van het afvalwater en de verenigbaarheid van de aangevraagde lozing met het algemeen waterzuiveringsprogramma en, in geval van rechtstreekse of onrechtstreekse lozing in oppervlaktewater, met de kwaliteit van het ontvangende oppervlaktewater en met de geplande investeringen voor de zuivering van bedoeld oppervlaktewater;<br />b) indien de aangevraagde lozing verenigbaar wordt geacht met het algemeen waterzuiveringsprogramma, met de kwaliteit van het ontvangende oppervlaktewater en met de geplande of reeds bestaande infrastructuur voor de zuivering van het ontvangende water, een gemotiveerd voorstel van vergunningsvoorwaarden die betrekking hebben op de maximaal toelaatbare vuilvracht;<br />2. met betrekking tot de emissie van afvalgassen in de atmosfeer:<br />a) een gemotiveerde beoordeling over de verenigbaarheid van de aangevraagde emissie met de kwaliteit van de omgevingslucht;<br />b) indien de aangevraagde emissie verenigbaar wordt geacht met de kwaliteit van de omgevingslucht, een gemotiveerd voorstel van vergunningsvoorwaarden die betrekking hebben op de maximaal toelaatbare emissie.<br /><br />§ 7. Het advies van de Vlaamse Landmaatschappij bevat volgende gegevens:<br />1. een gemotiveerde beoordeling over de verenigbaarheid van de inrichting waarvoor een vergunning wordt gevraagd met het decreet inzake de bescherming van het leefmilieu tegen de verontreiniging door meststoffen en zijn uitvoeringsbesluiten;<br />2. indien de inrichting verenigbaar wordt geacht met het voornoemde decreet en zijn uitvoeringsbesluiten, een gemotiveerd voorstel van de vergunningsvoorwaarden die betrekking hebben op de opslag en verwerking van dierlijke mest. <br /><br />§ 8. Het advies van de afdeling Water van de administratie voor Milieu-, Natuur-, Land- en Waterbeheer bevat volgende gegevens:<br />1° een gemotiveerde beoordeling over de inrichting waarvoor een vergunning wordt aangevraagd, wat betreft de kwantitatieve effecten op het beheer van de watervoerende en/of de ontvangende grondwaterlaag enerzijds en op de openbare en private bovengrondse eigendommen anderzijds;<br />2° indien de inrichting verenigbaar wordt geacht met het grondwaterbeheersbeleid, een gemotiveerd voorstel van de vergunningsvoorwaarden die betrekking hebben op het grondwaterbeheer en het voorkomen van schade aan de openbare en private bovengrondse eigendommen. <br /><br />§ 9. Het advies van de afdeling Algemeen Milieu- en Natuurbeleid van de administratie voor Milieu-, Natuur-, Land- en Waterbeheer bevat de volgende gegevens :<br />1° een gemotiveerde beoordeling van (een aanpassing aan) het monitoring protocol zoals bepaald in artikel 5, § 9 1°;<br />2° een gemotiveerde beoordeling van de berekening van de verwachte, voor de BKG-inrichting relevante, broeikasgasemissies in het kalenderjaar van opstart van de inrichting;<br />3° een gemotiveerde beoordeling van de berekening van de jaarlijks verwachte, voor de BKG-inrichting relevante broeikasgasemissies in een normaal kalenderjaar van exploitatie.<br />
 
 ## HOOFDSTUK VII DE MILIEUVERGUNNINGSCOMMISSIES
 
@@ -160,11 +313,11 @@ Het in artikel 28 § 5 bedoelde advies van de gewestelijke milieuvergunningscomm
 
 ### ART. 30.
 
-§ 1. De beslissingen over vergunningsaanvragen als bedoeld in artikel 6 worden geformuleerd door middel van besluiten waarvan het respectieve model is vastgesteld in de subbijlagen van bijlage 9 bij onderhavig besluit en dienen tenminste de volgende gegevens te vermelden:<br /><br />1° de datum van de milieuvergunningsaanvraag;<br /><br />2° de identificatiegegevens zoals bedoeld in artikel 5, § 2, 1° en 3° van onderhavig besluit;<br /><br />3° een verwijzing naar, in zoverre deze zijn voorgeschreven, de door het college van burgemeester en schepenen, de adviesverlenende overheidsorganen en de milieuvergunningscommissie uitgebrachte adviezen alsmede naar de aard van de tijdens het openbaar onderzoek gemaakte bemerkingen en bezwaren;<br /><br />4° in voorkomend geval, de motivatie waarom één of meerdere adviezen of onderdelen van adviezen niet worden gevolgd;<br /><br />5° een motivering van de beslissing inzonderheid rekening houdend met de verschillende uitgebrachte adviezen en in voorkomend geval de evaluatie van de tijdens het openbaar onderzoek gemaakte bemerkingen en bezwaren;<br /><br />6° in geval de vergunning wordt verleend, tevens:<br /><br />a) de termijn van de vergunning met vermelding van de data van aanvang en einde ervan met in achtname van de bepalingen van onderhavig artikel;<br /><br />b) de termijn binnen dewelke de vergunde inrichting dient in gebruik genomen met in achtname van de bepalingen van onderhavig artikel;<br /><br />c) de voorwaarden waaronder de inrichting mag worden geëxploiteerd;<br /><br />d) de vermelding, in zoverre voor de inrichting, voor de verandering van de inrichting of voor dat gedeelte van de inrichting dat het voorwerp uitmaakt van de milieuvergunning, er krachtens artikel 44 van de wet van 29 maart 1962 houdende organisatie van de ruimtelijke ordening en van de stedebouw een bouwvergunning is vereist, dat onderhavige milieuvergunning wordt geschorst zolang deze bouwvergunning niet is verleend en dat in geval deze bouwvergunning wordt geweigerd de milieuvergunning van rechtswege vervalt op de dag van de definitieve weigering van de bouwvergunning;<br /><br />7° in geval de vergunning wordt geweigerd, de vermelding, inzoverre voor de inrichting, voor de verandering van de inrichting of voor dat gedeelte van de inrichting dat het voorwerp uitmaakt van onderhavige weigeringsbeslissing, er krachtens artikel 44 van de wet van 29 maart 1962 houdende organisatie van de ruimtelijke ordening en van de stedebouw een bouwvergunning is vereist, dat deze bouwvergunning is geschorst en van rechtswege vervalt op de dag van de definitieve weigering van de milieuvergunning;<br /><br />8° in voorkomend geval, de verwijzing naar de mogelijkheid tot indiening van beroep tegen onderhavige beslissing.<br /><br />[De vergunning voor BKG-inrichtingen bevat minstens:<br /><br />1° de toelating tot de emissie van voor de inrichting relevante broeikasgassen;<br /><br />2° de verplichting om binnen vier maanden na het einde van elk jaar een hoeveelheid emissierechten in te leveren. Deze hoeveelheid ingeleverde emissierechten moet overeenkomen met de hoeveelheid CO2-emissies die deze BKG-inrichting in het voorgaande kalenderjaar heeft veroorzaakt, vermeerderd met de hoeveelheid CO2-emissies die de BKG-inrichting heeft veroorzaakt in voorgaande handelsperiodes en waarvoor de exploitant nog geen emissierechten heeft ingeleverd.  <span class="reference">(ing. B.V.R. 4 februari 2005, art. 38, I: 28 februari 2005)</span> ]<br /><br />§ 2. [De milieuvergunning, met uitzondering van deze voor een tijdelijke inrichting, wordt verleend voor een bepaalde duur van ten hoogste twintig jaar, de termijn voorafgaand aan de ingebruikname en de eventuele proeftijd inbegrepen.<br /><br />Tenzij langere of kortere termijnen vermeld zijn in de vergunning  <span class="reference">(verv. B.V.R. 28 oktober 1992, art. 8, I: 1 maart 1993)</span> ] [...  <span class="reference">(geschr. B.V.R. 14 juli 2004, art. 1, I: 14 augustus 2004)</span> ] wordt aangenomen dat de termijn voorafgaand aan de ingebruikname respectievelijk tweehonderd kalenderdagen bedraagt wanneer het een nieuwe inrichting betreft en dertig kalenderdagen in de andere gevallen. De termijn binnen dewelke de vergunde inrichting moet worden in gebruik genomen mag in geen geval drie jaar overschrijden.  <span class="reference">(verv. B.V.R. 28 oktober 1992, art. 8, I: 1 maart 1993)</span> ]<br /><br />§ 3. De vergunning voor een tijdelijke inrichting wordt verleend voor een bepaalde duur van ten hoogste:<br /><br />- één jaar, als het een inrichting betreft die verband houdt met een bouwwerf;<br /><br />- drie maanden in de andere gevallen.<br /><br />Deze vergunning kan slechts éénmaal worden verlengd voor maximaal dezelfde duur als deze die oorspronkelijk werd toegestaan.<br /><br />§ 4. Wanneer voor de inrichting, voor de verandering van de inrichting of voor het gedeelte van de inrichting dat het voorwerp uitmaakt van de milieuvergunningsaanvraag, krachtens artikel 44 van de wet van 29 maart 1962 houdende organisatie van de ruimtelijke ordening en van de stedebouw geen bouwvergunning is vereist, mag de in artikel 5 bedoelde vergunning op proef worden verleend voor een termijn van tenminste zes maanden en ten hoogste twee jaar.<br /><br />§ 5. De vergunning voor de verandering van een inrichting wordt verleend voor een bepaalde duur waarvan de einddatum, deze van de lopende vergunning niet mag overschrijden.<br /><br />§ 6. [Wanneer voor de inrichting of de verandering van de inrichting die het voorwerp uitmaakt van de milieuvergunning krachtens artikel 44 van de wet van 29 maart 1962 houdende organisatie van de ruimtelijke ordening en van de stedebouw een bouwvergunning is vereist, wordt de aanvangsdatum van de vergunningstermijn verdaagd tot de dag dat deze bouwvergunning definitief is verleend.<br /><br />De exploitant dient de datum waarop de bouwvergunning werd verleend bij ter post aangetekende zending mee te delen aan de overheid die de milieuvergunning heeft verleend.<br /><br />Deze overheid bezorgt, naargelang het geval, een eensluidend afschrift van deze mededeling aan de instanties vermeld in respectievelijk artikel,  <span class="reference">(verv. B.V.R. 28 oktober 1992, art. 8, I: 1 maart 1993)</span> ] [...  <span class="reference">(geschr. B.V.R. 12 januari 1999, art. 26, I: 1 mei 1999)</span> ] [35, 5°, c) of 36, 4°, b).<br /><br />De einddatum van de vergunningstermijn wordt overeenstemmend met de latere aanvangsdatum ervan naar later verschoven, behalve wanneer deze einddatum samenvalt met de einddatum van een eerder verleende lopende vergunning, in welk geval de einddatum ongewijzigd blijft.  <span class="reference">(verv. B.V.R. 28 oktober 1992, art. 8, I: 1 maart 1993)</span> ]
+§ 1. De beslissingen over vergunningsaanvragen als bedoeld in artikel 6 worden geformuleerd door middel van besluiten waarvan het respectieve model is vastgesteld in de subbijlagen van bijlage 9 bij onderhavig besluit en dienen tenminste de volgende gegevens te vermelden:<br />1° de datum van de milieuvergunningsaanvraag;<br />2° de identificatiegegevens zoals bedoeld in artikel 5, § 2, 1° en 3° van onderhavig besluit;<br />3° een verwijzing naar, in zoverre deze zijn voorgeschreven, de door het college van burgemeester en schepenen, de adviesverlenende overheidsorganen en de milieuvergunningscommissie uitgebrachte adviezen alsmede naar de aard van de tijdens het openbaar onderzoek gemaakte bemerkingen en bezwaren;<br />4° in voorkomend geval, de motivatie waarom één of meerdere adviezen of onderdelen van adviezen niet worden gevolgd;<br />5° een motivering van de beslissing inzonderheid rekening houdend met de verschillende uitgebrachte adviezen en in voorkomend geval de evaluatie van de tijdens het openbaar onderzoek gemaakte bemerkingen en bezwaren;<br />6° in geval de vergunning wordt verleend, tevens:<br />a) de termijn van de vergunning met vermelding van de data van aanvang en einde ervan met <br />inachtneming van de bepalingen van onderhavig artikel;<br />b) de termijn binnen dewelke de vergunde inrichting dient in gebruik genomen met inachtneming van de bepalingen van onderhavig artikel;<br />c) de voorwaarden waaronder de inrichting mag worden geëxploiteerd;<br />d) de vermelding, in zoverre voor de inrichting, voor de verandering van de inrichting of voor dat gedeelte van de inrichting dat het voorwerp uitmaakt van de milieuvergunning, er krachtens artikel 44 van de wet van 29 maart 1962 houdende organisatie van de ruimtelijke ordening en van de stedebouw een bouwvergunning is vereist, dat onderhavige milieuvergunning wordt geschorst zolang deze bouwvergunning niet is verleend en dat in geval deze bouwvergunning wordt geweigerd de milieuvergunning van rechtswege vervalt op de dag van de definitieve weigering van de bouwvergunning;<br />7° in geval de vergunning wordt geweigerd, de vermelding, inzoverre voor de inrichting, voor de verandering van de inrichting of voor dat gedeelte van de inrichting dat het voorwerp uitmaakt van onderhavige weigeringsbeslissing, er krachtens artikel 44 van de wet van 29 maart 1962 houdende organisatie van de ruimtelijke ordening en van de stedebouw een bouwvergunning is vereist, dat deze bouwvergunning is geschorst en van rechtswege vervalt op de dag van de definitieve weigering van de milieuvergunning;<br />8° in voorkomend geval, de verwijzing naar de mogelijkheid tot indiening van beroep tegen onderhavige beslissing.<br /><br />De vergunning voor BKG-inrichtingen bevat minstens:<br />1° de toelating tot de emissie van voor de inrichting relevante broeikasgassen;<br />2° de verplichting om binnen vier maanden na het einde van elk jaar een hoeveelheid emissierechten in te leveren. Deze hoeveelheid ingeleverde emissierechten moet overeenkomen met de hoeveelheid CO2-emissies die deze BKG-inrichting in het voorgaande kalenderjaar heeft veroorzaakt, vermeerderd met de hoeveelheid CO2-emissies die de BKG-inrichting heeft veroorzaakt in voorgaande handelsperiodes en waarvoor de exploitant nog geen emissierechten heeft ingeleverd. <br /><br />De vergunning voor stortplaatsen van afval bevat overeenkomstig de EG-richtlijn 1999/31/EG van 26 april 1999 betreffende het storten van afvalstoffen daarenboven minstens ook nog :<br />1° de stortplaatscategorie;<br />2° de lijst van de afvalsoorten en de totale hoeveelheid afvalstoffen die op de stortplaats mogen worden gestort;<br />3° voorzover niet begrepen in de toepasselijke algemene en sectorale milieuvoorwaarden van titel II van het VLAREM :<br />a) de voorschriften voor de stortvoorbereidingen, stortwerkzaamheden en toezichts- en controleprocedures, met inbegrip van urgentieplannen alsmede voorlopige voorschriften voor de sluitings- en nazorgwerkzaamheden;<br />b) de bepaling dat de exploitant tenminste eenmaal per jaar het rapport bedoeld in artikel 5.2.4.6.5 van titel II van het VLAREM moet bezorgen aan de toezichthoudende overheden en aan de OVAM.<br /><br />§ 2. De milieuvergunning, met uitzondering van deze voor een tijdelijke inrichting, wordt verleend voor een bepaalde duur van ten hoogste twintig jaar, de termijn voorafgaand aan de ingebruikname en de eventuele proeftijd inbegrepen.<br /><br />Tenzij langere of kortere termijnen vermeld zijn in de vergunning wordt aangenomen dat de termijn voorafgaand aan de ingebruikname respectievelijk tweehonderd kalenderdagen bedraagt wanneer het een nieuwe inrichting betreft en dertig kalenderdagen in de andere gevallen. De termijn binnen dewelke de vergunde inrichting moet worden in gebruik genomen mag in geen geval drie jaar overschrijden. <br /><br />§ 3. De vergunning voor een tijdelijke inrichting wordt verleend voor een bepaalde duur van ten hoogste:<br />- één jaar, als het een inrichting betreft die verband houdt met een bouwwerf;<br />- drie maanden in de andere gevallen.<br /><br />Deze vergunning kan slechts éénmaal worden verlengd voor maximaal dezelfde duur als deze die oorspronkelijk werd toegestaan.<br /><br />§ 4. Wanneer voor de inrichting, voor de verandering van de inrichting of voor het gedeelte van de inrichting dat het voorwerp uitmaakt van de milieuvergunningsaanvraag, krachtens artikel 44 van de wet van 29 maart 1962 houdende organisatie van de ruimtelijke ordening en van de stedebouw geen bouwvergunning is vereist, mag de in artikel 5 bedoelde vergunning op proef worden verleend voor een termijn van tenminste zes maanden en ten hoogste twee jaar.<br /><br />§ 5. De vergunning voor de verandering van een inrichting wordt verleend voor een bepaalde duur waarvan de einddatum, deze van de lopende vergunning niet mag overschrijden.<br /><br />§ 6. Wanneer voor de inrichting of de verandering van de inrichting die het voorwerp uitmaakt van de milieuvergunning krachtens artikel 44 van de wet van 29 maart 1962 houdende organisatie van de ruimtelijke ordening en van de stedebouw een bouwvergunning is vereist, wordt de aanvangsdatum van de vergunningstermijn verdaagd tot de dag dat deze bouwvergunning definitief is verleend.<br /><br />De exploitant dient de datum waarop de bouwvergunning werd verleend bij ter post aangetekende zending mee te delen aan de overheid die de milieuvergunning heeft verleend.<br /><br />Deze overheid bezorgt, naargelang het geval, een eensluidend afschrift van deze mededeling aan de instanties vermeld in respectievelijk artikel, 35, 5°, c) of 36, 4°, b).<br /><br />De einddatum van de vergunningstermijn wordt overeenstemmend met de latere aanvangsdatum ervan naar later verschoven, behalve wanneer deze einddatum samenvalt met de einddatum van een eerder verleende lopende vergunning, in welk geval de einddatum ongewijzigd blijft.
 
 ### ART. 30bis.
 
-§ 1. Een vergunning kan worden verleend wanneer deze voorwaarden bevat welke garanderen dat de inrichting voldoet aan de eisen die door dit reglement en titel II van het VLAREM zijn gesteld. De vergunning wordt geweigerd wanneer dat niet het geval is.  <span class="reference">(ing. B.V.R. 12 januari 1999, art. 27, I: 1 mei 1999)</span> ]<br /><br />[In geval de vergunningsaanvraag betrekking heeft op een stortplaats moet de vergunning worden geweigerd, wanneer er niet is aangetoond dat:<br /><br />° het beheer van de stortplaats in handen komt van een natuurlijke persoon die technisch bekwaam is om de stortplaats te beheren en het personeel dat instaat voor de exploitatie van de stortplaats een beroeps- en technische opleiding krijgt;<br /><br />° de stortplaats zodanig wordt beheerd dat de nodige maatregelen worden getroffen om ongevallen te vermijden en de gevolgen ervan te beperken;<br /><br />° door de aanvrager toereikende voorzieningen in de vorm van een financiële zekerheid of een equivalent daarvan zijn of zullen worden getroffen alvorens met het storten wordt begonnen, zoals omschreven in titel II van VLAREM;<br /><br />° het stortplaatsproject verenigbaar is met de geldende uitvoeringsplannen voor het beheer van afvalstoffen.  <span class="reference">(ing. B.V.R. 13 juli 2001, art. 3, I: 16 juli 2001)</span> ]<br /><br />[Ingeval de vergunningsaanvraag betrekking heeft op een BKG-inrichting, kan de vergunning slechts worden verleend indien de vergunningverlenende overheid ervan overtuigd is dat de exploitant in staat is de emissies van de voor de inrichting relevante broeikasgasemissies te bewaken en te rapporteren. Dit betekent dat de exploitant in bezit moet zijn van een door het verificatiebureau geverifieerd en goedgekeurd monitoring protocol zoals bedoeld in artikel 5, § 9.  <span class="reference">(ing. B.V.R. 4 februari 2005, art. 39, I: 28 februari 2005)</span> ]<br /><br />[§ 2. De vergunningsvoorwaarden, bedoeld in artikel 30, § 1, 6°, c), worden vastgesteld zodanig dat:<br /><br />1° overeenkomstig de EU-richtlijn 96/61/EG van 24 september 1996 inzake geïntegreerde preventie en bestrijding van verontreiniging, rekening is gehouden met de algemene beginselen bedoeld in artikel 43ter;<br /><br />2° ze de exploitatievoorwaarden en verplichtingen van de exploitant vastgesteld in het hoofdstuk XI van dit reglement bevatten;<br /><br />3° ze de op de inrichting van toepassing zijnde milieuvoorwaarden vastgesteld door titel II van het VLAREM bevatten;<br /><br />4° ze alle maatregelen bevatten die ter vervulling van de vergunningsvoorwaarden van inzonderheid de artikelen 43bis en 43ter nodig zijn om de bescherming van lucht, water en bodem te waarborgen en aldus een hoog niveau van bescherming van het milieu in zijn geheel te bereiken;<br /><br />5° ze emissiegrenswaarden bevatten voor de verontreinigende stoffen, met name die van bijlage 1.1.2 bij titel II van het VLAREM, die in significante hoeveelheden uit de betrokken installatie kunnen vrijkomen, gelet op hun aard en hun potentieel voor overdracht van verontreiniging tussen milieucompartimenten (water, lucht en bodem); zo nodig, bevatten zij ook passende voorschriften ter bescherming van bodem en grondwater  <span class="reference">(ing. B.V.R. 12 januari 1999, art. 27, I: 1 mei 1999)</span> ], [en maatregelen voor het beheer van de door de installatie voortgebrachte afvalstoffen  <span class="reference">(ing. B.V.R. 12 januari 1999, art. 27, I: 1 mei 1999)</span> ] [en lucht;  <span class="reference">(ing. B.V.R. 12 december 2003, art. 1, I: 13 februari 2004)</span> ]<br /><br />[5°bis ze uitdrukkelijk berekende emissiegrenswaarden bevatten die specifiek gelden voor meeverbranding van afvalstoffen;  <span class="reference">(ing. B.V.R. 12 december 2003, art. 1, I: 13 februari 2004)</span> ]<br /><br />6° ze in ieder geval bepalingen bevatten betreffende de minimalisering van de verontreiniging over lange afstand of van de grensoverschrijdende verontreiniging;<br /><br />7° ze een hoog niveau van bescherming van het milieu in zijn geheel waarborgen;<br /><br />8° ze passende eisen bevatten voor de controle op de lozingen, met vermelding van de meetmethode en -frequentie, de procedure voor de beoordeling van de metingen, alsmede de verplichting de bevoegde overheid in kennis te stellen van de gegevens die noodzakelijk zijn voor de controle op de naleving van de vergunningsvoorwaarden;<br /><br />9° ze maatregelen bevatten voor andere dan de normale bedrijfsomstandigheden, waarbij op passende wijze wordt rekening gehouden met opstarten, lekken, storingen, korte stilleggingen en definitieve bedrijfsbeëindiging, wanneer het milieu daardoor kan worden benvloed;<br /><br />10° ze ook tijdelijke afwijkingen van de eisen, bedoeld in § 2, 6° en 7° en § 5 van dit artikel, kunnen bevatten, indien een door de bevoegde overheid goedgekeurd saneringsplan de naleving binnen zes maanden van deze eisen waarborgt en het project tot vermindering van de verontreiniging leidt;<br /><br />11° ze voor de in dit reglement beoogde geïntegreerde preventie en beperking van verontreiniging door de in de indelingslijst genoemde inrichtingen andere bijzondere voorwaarden kunnen bevatten die de bevoegde overheid doelmatig acht;<br /><br />12° ze voorwaarden bevatten zodat er geen vermijdbare schade aan de natuur kan ontstaan;<br /><br />[13° ze een expliciete lijst bevatten van de afvalcategorieën die mogen worden verwerkt. Deze lijst omvat de totale hoeveelheid en indien mogelijk en nuttig de hoeveelheid per afvalcategorie.<br /><br />14° ze, in het geval van een meeverbrandingsinstallatie waarin gevaarlijke afvalstoffen worden verbrand, volgende gegevens bevatten:<br /><br />a) de minimale en de maximale toevoer van de afvalstoffen;<br /><br />b) de laagste en de hoogste calorische waarde van de afvalstoffen;<br /><br />c) de maximumgehalten aan verontreinigende stoffen (PCB's, PCP, chloor, fluor, zwavel en zware metalen) in de afvalstoffen.  <span class="reference">(ing. B.V.R. 12 december 2003, art. 1, I: 13 februari 2004)</span> ]<br /><br />[§ 2bis. Ingeval de vergunningsaanvraag betrekking heeft op een BKG-inrichting, kunnen met betrekking tot de emissie van voor de inrichting relevante broeikasgassen geen emissiegrenswaarden in de vergunning worden opgenomen voor directe emissies van deze broeikasgassen, tenzij zulks noodzakelijk is om te verzekeren dat er geen significante plaatselijke verontreiniging wordt veroorzaakt.  <span class="reference">(ing. B.V.R. 4 februari 2005, art.39, I: 28 februari 2005)</span> ]<br /><br />[§ 3. De grenswaarden, bedoeld in § 2, 5° kunnen, zo nodig, worden aangevuld of vervangen door gelijkwaardige parameters of gelijkwaardige technische maatregelen.<br /><br />Voor de varkens- en pluimveehouderijen wordt bij de emissiegrenswaarden, bedoeld in § 2, rekening gehouden met de aan die categorieën installaties aangepaste regelingen.<br /><br />§ 4. Indien met het oog op een milieukwaliteitsnorm strengere voorwaarden moeten gelden dan die welke door toepassing van de beste beschikbare technieken haalbaar zijn, moeten met name in de vergunning extra voorwaarden worden gesteld, onverminderd artikel 3.3.0.1 van titel II van het VLAREM en onverminderd andere maatregelen die getroffen kunnen worden om aan de milieukwaliteitsnormen te voldoen.<br /><br />§ 5. Onverminderd § 4 zijn de emissiegrenswaarden, de parameters en de gelijkwaardige technische maatregelen, bedoeld in § 2, 5° en § 3, gebaseerd op de beste beschikbare technieken, zonder dat daarmee het gebruik van een bepaalde techniek of technologie wordt voorgeschreven, met inachtneming van de technische kenmerken en de geografische ligging van de betrokken installatie, alsmede de plaatselijke milieuomstandigheden.<br /><br />§ 6. Voor de varkens- en pluimveehouderijen kan bij de in § 2, 8° bedoelde maatregelen rekening worden gehouden met de kosten en baten.  <span class="reference">(ing. B.V.R. 12 januari 1999, art. 27, I: 1 mei 1999)</span> ]
+§ 1. Een vergunning kan worden verleend wanneer deze voorwaarden bevat welke garanderen dat de inrichting voldoet aan de eisen die door dit reglement en titel II van het VLAREM zijn gesteld. De vergunning wordt geweigerd wanneer dat niet het geval is. <br /><br />In geval de vergunningsaanvraag betrekking heeft op een stortplaats moet de vergunning worden geweigerd, wanneer er niet is aangetoond dat:<br />° het beheer van de stortplaats in handen komt van een natuurlijke persoon die technisch bekwaam is om de stortplaats te beheren en het personeel dat instaat voor de exploitatie van de stortplaats een beroeps- en technische opleiding krijgt;<br />° de stortplaats zodanig wordt beheerd dat de nodige maatregelen worden getroffen om ongevallen te vermijden en de gevolgen ervan te beperken;<br />° door de aanvrager toereikende voorzieningen in de vorm van een financiële zekerheid of een equivalent daarvan zijn of zullen worden getroffen alvorens met het storten wordt begonnen, zoals omschreven in titel II van VLAREM;<br />° het stortplaatsproject verenigbaar is met de geldende uitvoeringsplannen voor het beheer van afvalstoffen. <br /><br />Ingeval de vergunningsaanvraag betrekking heeft op een BKG-inrichting, kan de vergunning slechts worden verleend indien de vergunningverlenende overheid ervan overtuigd is dat de exploitant in staat is de emissies van de voor de inrichting relevante broeikasgasemissies te bewaken en te rapporteren. Dit betekent dat de exploitant in bezit moet zijn van een door het verificatiebureau geverifieerd en goedgekeurd monitoring protocol zoals bedoeld in artikel 5, § 9. <br /><br />§ 2. De vergunningsvoorwaarden, bedoeld in artikel 30, § 1, 6°, c), worden vastgesteld zodanig dat:<br />1° overeenkomstig de EU-richtlijn 96/61/EG van 24 september 1996 inzake geïntegreerde preventie en bestrijding van verontreiniging, rekening is gehouden met de algemene beginselen bedoeld in artikel 43ter;<br />2° ze de exploitatievoorwaarden en verplichtingen van de exploitant vastgesteld in het hoofdstuk XI van dit reglement bevatten;<br />3° ze de op de inrichting van toepassing zijnde milieuvoorwaarden vastgesteld door titel II van het VLAREM bevatten;<br />4° ze alle maatregelen bevatten die ter vervulling van de vergunningsvoorwaarden van inzonderheid de artikelen 43bis en 43ter nodig zijn om de bescherming van lucht, water en bodem te waarborgen en aldus een hoog niveau van bescherming van het milieu in zijn geheel te bereiken;<br />5° ze emissiegrenswaarden bevatten voor de verontreinigende stoffen, met name die van bijlage 1.1.2 bij titel II van het VLAREM, die in significante hoeveelheden uit de betrokken installatie kunnen vrijkomen, gelet op hun aard en hun potentieel voor overdracht van verontreiniging tussen milieucompartimenten (water, lucht en bodem); zo nodig, bevatten zij ook passende voorschriften ter bescherming van bodem en grondwater, en maatregelen voor het beheer van de door de installatie voortgebrachte afvalstoffen <br />5°bis ze uitdrukkelijk berekende emissiegrenswaarden bevatten die specifiek gelden voor meeverbranding van afvalstoffen; <br />6° ze in ieder geval bepalingen bevatten betreffende de minimalisering van de verontreiniging over lange afstand of van de grensoverschrijdende verontreiniging;<br />7° ze een hoog niveau van bescherming van het milieu in zijn geheel waarborgen;<br />8° ze passende eisen bevatten voor de controle op de lozingen, met vermelding van de meetmethode en -frequentie, de procedure voor de beoordeling van de metingen, alsmede de verplichting de bevoegde overheid in kennis te stellen van de gegevens die noodzakelijk zijn voor de controle op de naleving van de vergunningsvoorwaarden;<br />9° ze maatregelen bevatten voor andere dan de normale bedrijfsomstandigheden, waarbij op passende wijze wordt rekening gehouden met opstarten, lekken, storingen, korte stilleggingen en definitieve bedrijfsbeëindiging, wanneer het milieu daardoor kan worden benvloed;<br />10° ze ook tijdelijke afwijkingen van de eisen, bedoeld in § 2, 6° en 7° en § 5 van dit artikel, kunnen bevatten, indien een door de bevoegde overheid goedgekeurd saneringsplan de naleving binnen zes maanden van deze eisen waarborgt en het project tot vermindering van de verontreiniging leidt;<br />11° ze voor de in dit reglement beoogde geïntegreerde preventie en beperking van verontreiniging door de in de indelingslijst genoemde inrichtingen andere bijzondere voorwaarden kunnen bevatten die de bevoegde overheid doelmatig acht;<br />12° ze voorwaarden bevatten zodat er geen vermijdbare schade aan de natuur kan ontstaan;<br />13° ze een expliciete lijst bevatten van de afvalcategorieën die mogen worden verwerkt. Deze lijst omvat de totale hoeveelheid en indien mogelijk en nuttig de hoeveelheid per afvalcategorie.<br />14° ze, in het geval van een meeverbrandingsinstallatie waarin gevaarlijke afvalstoffen worden verbrand, volgende gegevens bevatten:<br />a) de minimale en de maximale toevoer van de afvalstoffen;<br />b) de laagste en de hoogste calorische waarde van de afvalstoffen;<br />c) de maximumgehalten aan verontreinigende stoffen (PCB's, PCP, chloor, fluor, zwavel en zware metalen) in de afvalstoffen. <br />15° ze bijdragen tot de verwezenlijking van de doelstellingen van artikel 5 van het decreet van 18 juli 2003 betreffende het integraal waterbeleid.<br /><br />§ 2bis. Ingeval de vergunningsaanvraag betrekking heeft op een BKG-inrichting, kunnen met betrekking tot de emissie van voor de inrichting relevante broeikasgassen geen emissiegrenswaarden in de vergunning worden opgenomen voor directe emissies van deze broeikasgassen, tenzij zulks noodzakelijk is om te verzekeren dat er geen significante plaatselijke verontreiniging wordt veroorzaakt. <br /><br />§ 3. De grenswaarden, bedoeld in § 2, 5° kunnen, zo nodig, worden aangevuld of vervangen door gelijkwaardige parameters of gelijkwaardige technische maatregelen.<br /><br />Voor de varkens- en pluimveehouderijen wordt bij de emissiegrenswaarden, bedoeld in § 2, rekening gehouden met de aan die categorieën installaties aangepaste regelingen.<br /><br />§ 4. Indien met het oog op een milieukwaliteitsnorm strengere voorwaarden moeten gelden dan die welke door toepassing van de beste beschikbare technieken haalbaar zijn, moeten met name in de vergunning extra voorwaarden worden gesteld, onverminderd artikel 3.3.0.1 van titel II van het VLAREM en onverminderd andere maatregelen die getroffen kunnen worden om aan de milieukwaliteitsnormen te voldoen.<br /><br />§ 5. Onverminderd § 4 zijn de emissiegrenswaarden, de parameters en de gelijkwaardige technische maatregelen, bedoeld in § 2, 5° en § 3, gebaseerd op de beste beschikbare technieken, zonder dat daarmee het gebruik van een bepaalde techniek of technologie wordt voorgeschreven, met inachtneming van de technische kenmerken en de geografische ligging van de betrokken installatie, alsmede de plaatselijke milieuomstandigheden.<br /><br />§ 6. Voor de varkens- en pluimveehouderijen kan bij de in § 2, 8° bedoelde maatregelen rekening worden gehouden met de kosten en baten.
 
 ## HOOFDSTUK IX BEKENDMAKING EN TOEGANG TOT MILIEU-INFORMATIE
 
@@ -258,7 +411,7 @@ Een inrichting en/of een installatie dient overeenkomstig de EU-richtlijn 96/61/
 
 ### ART. 45.
 
-§ 1. [De bevoegde overheid kan bij gemotiveerde beslissing de in de lopende vergunning(en) opgelegde voorwaarden wijzigen of aanvullen:<br /><br />1° ambtshalve;<br /><br />2° op verzoek van de in artikel 20 vermelde adviesorganen in zoverre deze bevoegd zijn voor adviesverlening met betrekking tot bedoelde inrichting;<br /><br />3° op verzoek van de exploitant;<br /><br />4° op verzoek van elke natuurlijke persoon of rechtspersoon die tengevolge van de vestiging en de exploitatie van de inrichting rechtstreeks hinder kan ondervinden;<br /><br />5° op verzoek van elke rechtspersoon die zich de bescherming tot doel heeft gesteld van het leefmilieu dat door de hinder tengevolge van de vestiging en de exploitatie van de inrichting kan worden getroffen.<br /><br />Voor de toepassing van dit artikel wordt onder "bevoegde overheid" verstaan de overheid die in eerste aanleg bevoegd is, tenzij een hogere overheid een of meer van de lopende vergunningen heeft verleend of de vergunningsvoorwaarden ervan heeft gewijzigd. In dat geval is deze hogere overheid bevoegd.  <span class="reference">(verv. B.V.R. 12 januari 1999, art. 43, I: 1 mei 1999)</span> ]<br /><br />§ 2. [Het verzoek, bedoeld in § 1, dient per post aangetekende zending naar de overheid, bevoegd in § 1, gestuurd te worden.  <span class="reference">(verv. B.V.R. 12 januari 1999, art. 44, I: 1 mei 1999)</span> ]<br /><br />§ 3. Behoudens wanneer het gaat om een ambtshalve beslissing, dient het in § 1 bedoelde verzoek te vermelden:<br /><br />1° de identificatie van de inrichting als bedoeld in het artikel 5, § 2, 1°, 2°, 3° en 4°;<br /><br />2° de gevraagde wijziging of aanvulling van de opgelegde vergunningsvoorwaarden;<br /><br />3° de motivering van de gevraagde wijziging of aanvulling;<br /><br />4° de gegevens met betrekking tot meldingen en vergunningen als bedoeld in het [artikel 5, § 2, 19°.  <span class="reference">(verv. B.V.R. 12 januari 1999, art. 45, I: 1 mei 1999)</span> ]<br /><br />[Indien het gaat om een ambtshalve beslissing inzake een inrichting in haar geheel of waarvan een onderdeel, aangeduid is met de letter X in de vierde kolom van de indelingslijst, wordt het voornemen door de bevoegde overheid omschreven in een brief aan de exploitant, met vermelding van wat bepaald werd in het eerste lid, punt 1°,2° en 3°.  <span class="reference">(ing. B.V.R. 3 juni 2005, art. 9, I: 1 juli 2005)</span> ]<br /><br />§ 4. [Tenzij het gaat om een ambtshalve beslissing, gelden met betrekking tot de adviesverlening, de uitspraak, de stilzwijgende weigering en de bekendmaking volgend op een verzoek, bedoeld in § 1, de volgende bepalingen:<br /><br />1° wanneer de bevoegde overheid de Vlaamse minister is:<br /><br />a) adviesverlening:<br /><br />de Vlaamse minister of de daartoe gemachtigde ambtenaar van de afdeling Milieuvergunningen van de administratie voor Milieu-, Natuur-, Land- en Waterbeheer van het departement Leefmilieu en Infrastructuur stuurt een afschrift van het verzoek, bedoeld in § 1, nadat dit ontvankelijk en volledig werd bevonden, naar de gewestelijke milieuvergunningscommissie met verzoek om advies;<br /><br />de overheidsorganen die overeenkomstig artikel 20 advies dienen te verlenen alsmede de gewestelijke milieuvergunningscommissie, brengen hun advies uit overeenkomstig de bepalingen van de hoofdstukken VI en VII; de voorzitter en de secretaris van de commissie voeren de hen door artikel 27 en 28 toebedeelde opdrachten uit;<br /><br />b) uitspraak:<br /><br />binnen een termijn van vier maanden te rekenen vanaf de datum van verzending van het verzoek, bedoeld in § 1, doet de Vlaamse minister hierover uitspraak;<br /><br />c) bekendmaking:<br /><br />de Vlaamse minister of de gemachtigde ambtenaar, bedoeld in a), stuurt binnen een termijn van tien kalenderdagen na de datum van de beslissing, deze beslissing of een eensluidend verklaard afschrift ervan per ter post aangetekende zending met de opdracht tot bekendmaking ervan naar de bevoegde burgemeester;<br /><br />de burgemeester maakt de beslissing bekend overeenkomstig hoofdstuk IX;<br /><br />de Vlaamse minister of de gemachtigde ambtenaar, bedoeld in a), stuurt dezelfde dag als tot de verzending, bedoeld in het eerste lid, wordt overgegaan, per ter post aangetekende zending of bij afgifte tegen ontvangstbewijs een voor eensluidend verklaard afschrift van de beslissing ter kennisgeving naar:<br /><br />- de gewestelijke milieuvergunningscommissie;<br /><br />- de gouverneur alsmede de bestendige deputatie van de provincieraad van de provincie waartoe de percelen van de inrichting behoren;<br /><br />- het college, de commissie, het comité, de overheidsorganen, diensten en maatschappijen genoemd in artikel 35, 5°, c);<br /><br />d) stilzwijgende weigering:<br /><br />als de Vlaamse minister binnen een termijn van vier maanden, te rekenen vanaf de datum van verzending van het verzoek, bedoeld in § 1, geen uitspraak heeft gedaan, wordt de aangevraagde wijziging en/of aanvulling van vergunningsvoorwaarden geacht te zijn geweigerd;<br /><br />de Vlaamse minister of de gemachtigde ambtenaar, bedoeld in a), licht binnen een termijn van tien kalenderdagen na het verstrijken van de in het eerste lid vermelde termijn de aanvrager en de exploitant in over voormelde stilzwijgende weigering;<br /><br />de Vlaamse minister stuurt een eensluidend afschrift van het in het tweede lid bedoelde schrijven, bedoeld in het tweede lid, ter kennisgeving aan de bevoegde burgemeester alsmede aan de instanties genoemd in c), derde lid;<br /><br />2° wanneer de bevoegde overheid de bestendige deputatie van de provincieraad is: artikel 35, 3°, 4°, 5° en 6° met dien verstande dat de behandelingstermijn aanvangt op de datum van verzending van het in § 1 bedoelde verzoek in plaats van op de datum van verklaring tot ontvankelijkheid en volledigheid van de vergunningsaanvraag;<br /><br />3° wanneer de bevoegde overheid het College van Burgemeester en Schepenen is: artikel 36, 3°, 4°, 5° en 6° met dien verstande dat de behandelingstermijn aanvangt op de datum van verzending van het in § 1 bedoelde verzoek in plaats van op de datum van verklaring tot ontvankelijkheid en volledigheid van de vergunningsaanvraag.  <span class="reference">(verv. B.V.R. 12 januari 1999, art. 45, I: 1 mei 1999)</span> ]<br /><br />Wanneer het in § 1 bedoelde verzoek niet uitgaat van de exploitant, wordt deze laatste door de in § 1 bedoelde overheid hiervan per ter post aangetekende zending in kennis gesteld binnen een termijn van tien kalenderdagen na ontvangst van het verzoek.<br /><br />[Wanneer het om een ambtshalve beslissing gaat inzake een in § 3, tweede lid, bedoelde inrichting, wordt de exploitant door de in § 1 bedoelde overheid in een vroeg stadium, per ter post aangetekende zending in kennis gesteld van het voornemen van de overheid.  <span class="reference">(ing. B.V.R. 3 juni 2005, art. 9,I: 1 juli 2005)</span> ]<br /><br />[§ 4bis. Er wordt een openbaar onderzoek georganiseerd overeenkomstig de procedure, bepaald in artikel 17, 19, 1° en 3°, artikel 35, 2°, c) en d) en artikel 36, 2°, b) en c), tenzij de ambtshalve beslissing een inrichting betreft die niet in § 3, tweede lid, is vermeld.<br /><br />Als een openbaar onderzoek is vereist, stuurt de overheid die bevoegd is voor de wijziging of aanvulling van de vergunningsvoorwaarden, het verzoek of een brief waarin het voornemen wordt geuit samen met de bijlagen aan de bevoegde burgemeester met de opdracht tot het instellen van een openbaar onderzoek. De bevoegde overheid doet dit op de dag van de verzending naar de exploitant van het verzoek of het voornemen, of op de dag dat de ontvangstmelding van het verzoek van de exploitant aan die exploitant wordt gestuurd.<br /><br />In afwijking van artikel 17, § 2, eerste lid, wordt de bekendmaking opgesteld overeenkomstig het model dat als bijlage 8bis bij dit besluit is gevoegd. De volgorde en formulering van de titels en de vragen in het model, moeten nageleefd worden. Bij meerkeuzevragen kan het voldoende zijn alleen het toepasselijke antwoord te vermelden.<br /><br />In afwijking van artikel 17, § 2, derde lid, 35, 2°, c), en 36, 2°, b), vangt de daarin vermelde termijn aan de dag na de datum van ontvangst van het verzoek of van de kennisgeving van het voornemen tot wijziging of aanvulling van de voorwaarden.<br /><br />De uitspraak over een verzoek tot wijziging of aanvulling van de opgelegde voorwaarden en de ambtshalve beslissing indien het een inrichting vermeld in § 3, tweede lid betreft, dient te voldoen aan de bepaling en van artikel 30, § 1, 3°, 5° en 8°.<br /><br />De bekendmaking, vermeld in § 4, 1°, c), wordt, in afwijking van hoofdstuk IX, opgesteld overeenkomstig het model dat als bijlage 10bis bij dit besluit is gevoegd. De volgorde en formulering van de titels en de vragen in het model moeten nageleefd worden. Bij meerkeuzevragen kan het voldoende zijn alleen het toepasselijke antwoord te vermelden.  <span class="reference">(ing. B.V.R. 3 juni 2005, art. 9, I: 1 juli 2005)</span> ]<br /><br />§ 5. Wanneer de in § 1 bedoelde beslissing ambtshalve wordt genomen, wordt deze bekendgemaakt overeenkomstig, naargelang de inrichting, de bepalingen van [artikel 45, § 4, 1°, c),  <span class="reference">(verv. B.V.R. 12 januari 1999, art. 45, I: 1 mei 1999)</span> ] van artikel 35, 5° of van artikel 36, 5°.<br /><br />§ 6. Indien na aanmaning door de Vlaamse minister de bevoegde overheid niet, of onvolkomen optreedt, of indien er ernstig gevaar dreigt voor de mens en het leefmilieu, kan de Vlaamse minister de vergunningsvoorwaarden ambtshalve wijzigen of aanvullen.<br /><br />Deze beslissing wordt bekendgemaakt overeenkomstig de bepalingen van § 5.
+§ 1. De bevoegde overheid kan bij gemotiveerde beslissing de in de lopende vergunning(en) opgelegde voorwaarden wijzigen of aanvullen:<br />1° ambtshalve;<br />2° op verzoek van de in artikel 20 vermelde adviesorganen in zoverre deze bevoegd zijn voor adviesverlening met betrekking tot bedoelde inrichting;<br />3° op verzoek van de exploitant;<br />4° op verzoek van elke natuurlijke persoon of rechtspersoon die tengevolge van de vestiging en de exploitatie van de inrichting rechtstreeks hinder kan ondervinden;<br />5° op verzoek van elke rechtspersoon die zich de bescherming tot doel heeft gesteld van het leefmilieu dat door de hinder tengevolge van de vestiging en de exploitatie van de inrichting kan worden getroffen.<br /><br />Voor de toepassing van dit artikel wordt onder "bevoegde overheid" verstaan de overheid die in eerste aanleg bevoegd is, tenzij een hogere overheid een of meer van de lopende vergunningen heeft verleend of de vergunningsvoorwaarden ervan heeft gewijzigd. In dat geval is deze hogere overheid bevoegd. <br /><br />§ 2. Het verzoek, bedoeld in § 1, dient per post aangetekende zending naar de overheid, bevoegd in § 1, gestuurd te worden. <br /><br />§ 3. Behoudens wanneer het gaat om een ambtshalve beslissing, dient het in § 1 bedoelde verzoek te vermelden:<br />1° de identificatie van de inrichting als bedoeld in het artikel 5, § 2, 1°, 2°, 3° en 4°;<br />2° de gevraagde wijziging of aanvulling van de opgelegde vergunningsvoorwaarden;<br />3° de motivering van de gevraagde wijziging of aanvulling;<br />4° de gegevens met betrekking tot meldingen en vergunningen als bedoeld in het artikel 5, § 2, 19°. <br /><br />Indien het gaat om een ambtshalve beslissing inzake een inrichting in haar geheel of waarvan een onderdeel, aangeduid is met de letter X in de vierde kolom van de indelingslijst, wordt het voornemen door de bevoegde overheid omschreven in een brief aan de exploitant, met vermelding van wat bepaald werd in het eerste lid, punt 1°,2° en 3°. <br /><br />§ 4. Tenzij het gaat om een ambtshalve beslissing, gelden met betrekking tot de adviesverlening, de uitspraak, de stilzwijgende weigering en de bekendmaking volgend op een verzoek, bedoeld in § 1, de volgende bepalingen:<br />1° wanneer de bevoegde overheid de Vlaamse minister is:<br /><br />a) adviesverlening:<br />de Vlaamse minister of de daartoe gemachtigde ambtenaar van de afdeling Milieuvergunningen van de administratie voor Milieu-, Natuur-, Land- en Waterbeheer van het departement Leefmilieu en Infrastructuur stuurt een afschrift van het verzoek, bedoeld in § 1, nadat dit ontvankelijk en volledig werd bevonden, naar de gewestelijke milieuvergunningscommissie met verzoek om advies;<br />de overheidsorganen die overeenkomstig artikel 20 advies dienen te verlenen alsmede de gewestelijke milieuvergunningscommissie, brengen hun advies uit overeenkomstig de bepalingen van de hoofdstukken VI en VII; de voorzitter en de secretaris van de commissie voeren de hen door artikel 27 en 28 toebedeelde opdrachten uit;<br /><br />b) uitspraak:<br />binnen een termijn van vier maanden te rekenen vanaf de datum van verzending van het verzoek, bedoeld in § 1, doet de Vlaamse minister hierover uitspraak;<br /><br />c) bekendmaking:<br />de Vlaamse minister of de gemachtigde ambtenaar, bedoeld in a), stuurt binnen een termijn van tien kalenderdagen na de datum van de beslissing, deze beslissing of een eensluidend verklaard afschrift ervan per ter post aangetekende zending met de opdracht tot bekendmaking ervan naar de bevoegde burgemeester;<br /><br />de burgemeester maakt de beslissing bekend overeenkomstig hoofdstuk IX;<br /><br />de Vlaamse minister of de gemachtigde ambtenaar, bedoeld in a), stuurt dezelfde dag als tot de verzending, bedoeld in het eerste lid, wordt overgegaan, per ter post aangetekende zending of bij afgifte tegen ontvangstbewijs een voor eensluidend verklaard afschrift van de beslissing ter kennisgeving naar:<br />- de gewestelijke milieuvergunningscommissie;<br />- de gouverneur alsmede de bestendige deputatie van de provincieraad van de provincie waartoe de percelen van de inrichting behoren;<br />- het college, de commissie, het comité, de overheidsorganen, diensten en maatschappijen genoemd in artikel 35, 5°, c);<br /><br />d) stilzwijgende weigering:<br />als de Vlaamse minister binnen een termijn van vier maanden, te rekenen vanaf de datum van verzending van het verzoek, bedoeld in § 1, geen uitspraak heeft gedaan, wordt de aangevraagde wijziging en/of aanvulling van vergunningsvoorwaarden geacht te zijn geweigerd;<br /><br />de Vlaamse minister of de gemachtigde ambtenaar, bedoeld in a), licht binnen een termijn van tien kalenderdagen na het verstrijken van de in het eerste lid vermelde termijn de aanvrager en de exploitant in over voormelde stilzwijgende weigering;<br /><br />de Vlaamse minister stuurt een eensluidend afschrift van het in het tweede lid bedoelde schrijven, bedoeld in het tweede lid, ter kennisgeving aan de bevoegde burgemeester alsmede aan de instanties genoemd in c), derde lid;<br /><br />2° wanneer de bevoegde overheid de bestendige deputatie van de provincieraad is: artikel 35, 3°, 4°, 5° en 6° met dien verstande dat de behandelingstermijn aanvangt op de datum van verzending van het in § 1 bedoelde verzoek in plaats van op de datum van verklaring tot ontvankelijkheid en volledigheid van de vergunningsaanvraag;<br />3° wanneer de bevoegde overheid het College van Burgemeester en Schepenen is: artikel 36, 3°, 4°, 5° en 6° met dien verstande dat de behandelingstermijn aanvangt op de datum van verzending van het in § 1 bedoelde verzoek in plaats van op de datum van verklaring tot ontvankelijkheid en volledigheid van de vergunningsaanvraag. <br /><br />Wanneer het in § 1 bedoelde verzoek niet uitgaat van de exploitant, wordt deze laatste door de in § 1 bedoelde overheid hiervan per ter post aangetekende zending in kennis gesteld binnen een termijn van tien kalenderdagen na ontvangst van het verzoek.<br /><br />Wanneer het om een ambtshalve beslissing gaat inzake een in § 3, tweede lid, bedoelde inrichting, wordt de exploitant door de in § 1 bedoelde overheid in een vroeg stadium, per ter post aangetekende zending in kennis gesteld van het voornemen van de overheid. <br /><br />§ 4bis. Er wordt een openbaar onderzoek georganiseerd overeenkomstig de procedure, bepaald in artikel 17, 19, 1° en 3°, artikel 35, 2°, c) en d) en artikel 36, 2°, b) en c), tenzij de ambtshalve beslissing een inrichting betreft die niet in § 3, tweede lid, is vermeld. In dit geval is evenwel de schriftelijke kennisgeving van eigenaars en gebruikers, bedoeld in artikel 17, § 3, 1°, niet vereist<br /><br /><br />Als een openbaar onderzoek is vereist, stuurt de overheid die bevoegd is voor de wijziging of aanvulling van de vergunningsvoorwaarden, het verzoek of een brief waarin het voornemen wordt geuit samen met de bijlagen aan de bevoegde burgemeester met de opdracht tot het instellen van een openbaar onderzoek. De bevoegde overheid doet dit op de dag van de verzending naar de exploitant van het verzoek of het voornemen, of op de dag dat de ontvangstmelding van het verzoek van de exploitant aan die exploitant wordt gestuurd.<br /><br />In afwijking van artikel 17, § 2, eerste lid, wordt de bekendmaking opgesteld overeenkomstig het model dat als bijlage 8bis bij dit besluit is gevoegd. De volgorde en formulering van de titels en de vragen in het model, moeten nageleefd worden. Bij meerkeuzevragen kan het voldoende zijn alleen het toepasselijke antwoord te vermelden.<br /><br />In afwijking van artikel 17, § 2, derde lid, 35, 2°, c), en 36, 2°, b), vangt de daarin vermelde termijn aan de dag na de datum van ontvangst van het verzoek of van de kennisgeving van het voornemen tot wijziging of aanvulling van de voorwaarden.<br /><br />De uitspraak over een verzoek tot wijziging of aanvulling van de opgelegde voorwaarden en de ambtshalve beslissing indien het een inrichting vermeld in § 3, tweede lid betreft, dient te voldoen aan de bepaling en van artikel 30, § 1, 3°, 5° en 8°.<br /><br />De bekendmaking, vermeld in § 4, 1°, c), wordt, in afwijking van hoofdstuk IX, opgesteld overeenkomstig het model dat als bijlage 10bis bij dit besluit is gevoegd. De volgorde en formulering van de titels en de vragen in het model moeten nageleefd worden. Bij meerkeuzevragen kan het voldoende zijn alleen het toepasselijke antwoord te vermelden. <br /><br />§ 5. Wanneer de in § 1 bedoelde beslissing ambtshalve wordt genomen, wordt deze bekendgemaakt overeenkomstig, naargelang de inrichting, de bepalingen van artikel 45, § 4, 1°, c),  van artikel 35, 5° of van artikel 36, 5°.<br /><br />§ 6. Indien na aanmaning door de Vlaamse minister de bevoegde overheid niet, of onvolkomen optreedt, of indien er ernstig gevaar dreigt voor de mens en het leefmilieu, kan de Vlaamse minister de vergunningsvoorwaarden ambtshalve wijzigen of aanvullen.<br /><br />Deze beslissing wordt bekendgemaakt overeenkomstig de bepalingen van § 5.
 
 ## HOOFDSTUK XII VERVAL, SCHORSING EN OPHEFFING VAN DE VERGUNNING
 
@@ -686,7 +839,7 @@ J = Inrichting waarvoor overeenkomstig titel II van het VLAREM een milieujaarver
 			<p>1.4.</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:216pt">
-			<p>Installaties voor de opslag van aardolie, petrochemische of chemische producten met een capaciteit van 200.000 ton of meer</p>
+			<p>Installaties voor de opslag van aardolie, petrochemische of chemische producten met een opslagcapaciteit van 100.000 ton</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:45pt">
 			<p>1</p>
@@ -944,11 +1097,11 @@ J = Inrichting waarvoor overeenkomstig titel II van het VLAREM een milieujaarver
 			</td>
 		</tr>
 		<tr>
-			<td rowspan="3" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:35.55pt">
+			<td rowspan="4" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:35.55pt">
 			<p>2.1.2.</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:216pt">
-			<p>Opslag en overslag van afvalstoffen niet aan een verwerking verbonden, met een opslagcapaciteit van (overslag van afvalstoffen is het bijeenvoegen van gelijksoortige afvalstoffen in grotere recipiënten en/of transportmiddelen met het oog op een rendabeler transport ervan):</p>
+			<p>Opslag en overslag van afvalstoffen die niet aan verwerking verbonden zijn, met een opslagcapaciteit van (overslag van afvalstoffen is het bijeenvoegen van gelijksoortige afvalstoffen in grotere recipiënten en/of transportmiddelen met het oog op een rendabeler transport ervan):</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:45pt">
 			<p>&nbsp;</p>
@@ -988,7 +1141,7 @@ J = Inrichting waarvoor overeenkomstig titel II van het VLAREM een milieujaarver
 		</tr>
 		<tr>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:216pt">
-			<p>b) meer dan 1 ton</p>
+			<p>b) meer dan 1 ton voor afvalstoffen die ook asbestafval als bedoeld sub c) kunnen omvatten</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:45pt">
 			<p>1</p>
@@ -998,6 +1151,26 @@ J = Inrichting waarvoor overeenkomstig titel II van het VLAREM een milieujaarver
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:45pt">
 			<p>B</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:36pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:36pt">
+			<p>&nbsp;</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:216pt">
+			<p>c) meer dan 1 ton voor asbestafval bestaande uit asbestcement of andere asbesthoudende bouwmaterialen waarin asbest in gebonden vorm aanwezig is</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:45pt">
+			<p>1</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:62.55pt">
+			<p>O,T</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:45pt">
+			<p>N</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:36pt">
 			<p>&nbsp;</p>
@@ -1178,11 +1351,13 @@ J = Inrichting waarvoor overeenkomstig titel II van het VLAREM een milieujaarver
 		</tr>
 		<tr>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:216pt">
-			<p><strong>[</strong>e) Gevaarlijke afvalstoffen, met een opslagcapaciteit van:</p>
+			<p>e) gevaarlijke afvalstoffen met een opslagcapaciteit van:</p>
 
 			<p>1° maximaal 1 ton</p>
 
-			<p>2° meer dan 1 ton</p>
+			<p>2° meer dan 1 ton voor afvalstoffen andere dan asbestafval bestaande uit asbestcement of andere asbesthoudende bouwmaterialen waarin asbest in gebonden vorm aanwezig is</p>
+
+			<p>3° meer dan 1 ton voor asbestafval bestaande uit asbestcement of andere asbesthoudende bouwmaterialen waarin asbest in gebonden vorm aanwezig is</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:45pt">
 			<p>&nbsp;</p>
@@ -1190,6 +1365,14 @@ J = Inrichting waarvoor overeenkomstig titel II van het VLAREM een milieujaarver
 			<p>&nbsp;</p>
 
 			<p>2</p>
+
+			<p>1</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
 
 			<p>1</p>
 			</td>
@@ -1201,6 +1384,16 @@ J = Inrichting waarvoor overeenkomstig titel II van het VLAREM een milieujaarver
 			<p>O, T</p>
 
 			<p>G, O, T</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>O,T</p>
+
+			<p>&nbsp;</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:45pt">
 			<p>&nbsp;</p>
@@ -1210,6 +1403,14 @@ J = Inrichting waarvoor overeenkomstig titel II van het VLAREM een milieujaarver
 			<p>&nbsp;</p>
 
 			<p>A</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>N</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:36pt">
 			<p>&nbsp;</p>
@@ -1791,15 +1992,23 @@ J = Inrichting waarvoor overeenkomstig titel II van het VLAREM een milieujaarver
 			</td>
 		</tr>
 		<tr>
-			<td rowspan="5" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:35.55pt">
+			<td rowspan="7" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:35.55pt">
 			<p>2.2.4.</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:216pt">
-			<p>Opslag en behandeling van dierlijke afvalstoffen:</p>
-
-			<p>&nbsp;</p>
+			<p>Opslag en behandeling van dierlijke bijproducten:</p>
 
 			<p>De verwijdering door verbranden of begraven is in deze context geen verwerking.</p>
+
+			<p>Voor de toepassing van deze subrubriek gelden de volgende definities:</p>
+
+			<p>* “dierlijke bijproducten”: hele kadavers of delen van dieren of producten van dierlijke oorsprong zoals bedoeld in de artikelen 4,5 en 6 van de EU-Verordening nr. 1774/2002 van 3 oktober 2002 tot vaststelling van gezondheidsvoorschriften inzake niet voor menselijke consumptie bestemde dierlijke bijproducten, die niet voor menselijke consumptie bestemd zijn, met inbegrip van eicellen, embryo’s en sperma;</p>
+
+			<p>* “categorie 1-materiaal”: dierlijke bij producten zoals bedoeld in artikel 4 van bovenvermelde EU-Verordenig nr. 1774/2002;</p>
+
+			<p>* “categorie 2-materiaal”: dierlijke bijproducten zoals bedoeld in artikel 5 van bovenvermelde EU-Verordening nr. 1774/2002; de be- en verwerking van dierlijke mest valt evenwel onder de toepassing van de rubriek 28.3;</p>
+
+			<p>* “categorie 3-materiaal”: dierlijke bijproducten zoals bedoeld in artikel 6 van bovenvermelde EU-Verordening nr. 1774/2002.</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:45pt">
 			<p>&nbsp;</p>
@@ -1819,7 +2028,7 @@ J = Inrichting waarvoor overeenkomstig titel II van het VLAREM een milieujaarver
 		</tr>
 		<tr>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:216pt">
-			<p>a) opslag en bewerking van laag-risico materiaal, met een opslagcapaciteit van:</p>
+			<p>a) Opslag en bewerking van categorie 3-materiaal, met een opslagcapaciteit van:</p>
 
 			<p>1° maximaal 10 ton</p>
 
@@ -1848,16 +2057,16 @@ J = Inrichting waarvoor overeenkomstig titel II van het VLAREM een milieujaarver
 
 			<p>&nbsp;</p>
 
-			<p>&nbsp;</p>
-
 			<p>B</p>
+
+			<p>A</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:36pt">
 			<p>&nbsp;</p>
 
 			<p>&nbsp;</p>
 
-			<p>&nbsp;</p>
+			<p>P</p>
 
 			<p>P</p>
 			</td>
@@ -1867,7 +2076,7 @@ J = Inrichting waarvoor overeenkomstig titel II van het VLAREM een milieujaarver
 		</tr>
 		<tr>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:216pt">
-			<p>b) opslag en verwerking van laag-risico materiaal</p>
+			<p>b) Opslag en verwerking van categorie 3-materiaal</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:45pt">
 			<p>1</p>
@@ -1887,13 +2096,13 @@ J = Inrichting waarvoor overeenkomstig titel II van het VLAREM een milieujaarver
 		</tr>
 		<tr>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:216pt">
-			<p>c) opslag en be- of verwerking van hoog-risico materiaal</p>
+			<p>c) Opslag en be- of verwerking van categorie 2-materiaal</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:45pt">
 			<p>1</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:62.55pt">
-			<p>G, O, T</p>
+			<p>G, M, O, T</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:45pt">
 			<p>A</p>
@@ -1907,13 +2116,57 @@ J = Inrichting waarvoor overeenkomstig titel II van het VLAREM een milieujaarver
 		</tr>
 		<tr>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:216pt">
-			<p>d) installaties voor de destructie of verwerking van kadavers en dierlijk afval met een verwerkingscapaciteit van meer dan 10 ton per dag</p>
+			<p>d) Opslag en be- of verwerking van categorie 1-materiaal</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:45pt">
+			<p>1</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:62.55pt">
+			<p>G, M, O, T,</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:45pt">
+			<p>A</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:36pt">
+			<p>P</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:36pt">
+			<p>J</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:216pt">
+			<p>e) Installaties voor de destructie of verwerking van kadavers en dierlijke afval met een verwerkingscapaciteit van meer dan 10 ton per dag</p>
+
+			<p>Er kan overlapping zijn met deelrubriek 2.2.4, b), c) of d).</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:45pt">
 			<p>1</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:62.55pt">
 			<p>G, M, O, T, X</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:45pt">
+			<p>A</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:36pt">
+			<p>P</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:36pt">
+			<p>J</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:216pt">
+			<p>f) Inrichtingen bestemd voor de destructie van kadavers.</p>
+
+			<p>Er kan overlapping zijn met deelrubriek 2.2.4, b), c), d) of e).</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:45pt">
+			<p>1</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:62.55pt">
+			<p>G, M, O, T</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:45pt">
 			<p>A</p>
@@ -2364,19 +2617,151 @@ J = Inrichting waarvoor overeenkomstig titel II van het VLAREM een milieujaarver
 			<p>2.2.7.</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:216pt">
-			<p>Installaties voor de nuttige toepassing, als gedefinieerd in artikel 1.4 van het VLAREA, van gevaarlijke afvalstoffen met een capaciteit van meer dan 10 ton per dag.</p>
+			<p>Installaties voor de nuttige toepassing van gevaarlijke afvalstoffen, met een capaciteit van meer dan 10 ton per dag, in de zin van de bijlage II B (handelingen R1, R5, R6, R8 en R9) bij EG-richtlijn 75/442/EEG, met name:</p>
+
+			<p>[er kan een overlapping zijn met andere deelrubrieken van rubriek 2.2]</p>
 
 			<p>&nbsp;</p>
 
-			<p>(er kan een overlapping zijn met andere deelrubrieken van rubriek 2.2)</p>
+			<p>R1 Hoofdgebruik als brandstof of een andere wijze van energieopwekking</p>
+
+			<p>&nbsp;</p>
+
+			<p>R5 Recycling/terugwinning van andere anorganische stoffen</p>
+
+			<p>&nbsp;</p>
+
+			<p>R6 Terugwinning van zuren of basen</p>
+
+			<p>&nbsp;</p>
+
+			<p>R8 Terugwinning van bestanddelen uit katalysatoren</p>
+
+			<p>&nbsp;</p>
+
+			<p>R9 Herraffinage van olie en andere hergebruik van olie</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:45pt">
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>1</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>1</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>1</p>
+
+			<p>&nbsp;</p>
+
+			<p>1</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
 			<p>1</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:62.55pt">
-			<p>G, O, T, X</p>
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>E, G, O, X</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>G, O, X</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>G, O, X</p>
+
+			<p>&nbsp;</p>
+
+			<p>G, O, X</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>G, O, X</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:45pt">
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>B</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>B</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>B</p>
+
+			<p>&nbsp;</p>
+
+			<p>B</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
 			<p>B</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:36pt">
@@ -2991,7 +3376,7 @@ J = Inrichting waarvoor overeenkomstig titel II van het VLAREM een milieujaarver
 			<p>1</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:62.55pt">
-			<p>G, M, O, T, X</p>
+			<p>G, M, O, T</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:45pt">
 			<p>B</p>
@@ -3031,7 +3416,7 @@ J = Inrichting waarvoor overeenkomstig titel II van het VLAREM een milieujaarver
 			<p>1</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:62.55pt">
-			<p>G, M, O, T, X</p>
+			<p>G, M, O, T</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:45pt">
 			<p>B</p>
@@ -3051,7 +3436,7 @@ J = Inrichting waarvoor overeenkomstig titel II van het VLAREM een milieujaarver
 			<p>1</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:62.55pt">
-			<p>G, M, O, T, X</p>
+			<p>G, M, O, T</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:45pt">
 			<p>B</p>
@@ -3071,7 +3456,7 @@ J = Inrichting waarvoor overeenkomstig titel II van het VLAREM een milieujaarver
 			<p>1</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:62.55pt">
-			<p>G, M, O, T, X</p>
+			<p>G, M, O, T</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:45pt">
 			<p>B</p>
@@ -3091,7 +3476,7 @@ J = Inrichting waarvoor overeenkomstig titel II van het VLAREM een milieujaarver
 			<p>1</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:62.55pt">
-			<p>G, M, O, T, X</p>
+			<p>G, M, O, T</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:45pt">
 			<p>A</p>
@@ -3111,7 +3496,7 @@ J = Inrichting waarvoor overeenkomstig titel II van het VLAREM een milieujaarver
 			<p>1</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:62.55pt">
-			<p>G, M, O, T, X</p>
+			<p>G, M, O, T</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:45pt">
 			<p>&nbsp;</p>
@@ -3131,7 +3516,7 @@ J = Inrichting waarvoor overeenkomstig titel II van het VLAREM een milieujaarver
 			<p>1</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:62.55pt">
-			<p>G, M, O, T, X</p>
+			<p>G, M, O, T</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:45pt">
 			<p>B</p>
@@ -3151,7 +3536,7 @@ J = Inrichting waarvoor overeenkomstig titel II van het VLAREM een milieujaarver
 			<p>1</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:62.55pt">
-			<p>G, M, O, T, X</p>
+			<p>G, M, O, T</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:45pt">
 			<p>A</p>
@@ -3171,7 +3556,7 @@ J = Inrichting waarvoor overeenkomstig titel II van het VLAREM een milieujaarver
 			<p>1</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:62.55pt">
-			<p>G, M, O, T, X</p>
+			<p>G, M, O, T</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:45pt">
 			<p>B</p>
@@ -3191,7 +3576,7 @@ J = Inrichting waarvoor overeenkomstig titel II van het VLAREM een milieujaarver
 			<p>1</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:62.55pt">
-			<p>G, M, O, T, X</p>
+			<p>G, M, O, T</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:45pt">
 			<p>B</p>
@@ -3384,7 +3769,7 @@ J = Inrichting waarvoor overeenkomstig titel II van het VLAREM een milieujaarver
 			<p>1</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:62.55pt">
-			<p>G, M, O, T, X</p>
+			<p>G, M, O, T</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:45pt">
 			<p>B</p>
@@ -3404,7 +3789,7 @@ J = Inrichting waarvoor overeenkomstig titel II van het VLAREM een milieujaarver
 			<p>1</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:62.55pt">
-			<p>G, M, O, T, X</p>
+			<p>G, M, O, T</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:45pt">
 			<p>B</p>
@@ -3424,7 +3809,7 @@ J = Inrichting waarvoor overeenkomstig titel II van het VLAREM een milieujaarver
 			<p>1</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:62.55pt">
-			<p>G, M, O, T, X</p>
+			<p>G, M, O, T</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:45pt">
 			<p>A</p>
@@ -3444,7 +3829,7 @@ J = Inrichting waarvoor overeenkomstig titel II van het VLAREM een milieujaarver
 			<p>1</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:62.55pt">
-			<p>G, M, O, T, X</p>
+			<p>G, M, O, T</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:45pt">
 			<p>&nbsp;</p>
@@ -3464,7 +3849,7 @@ J = Inrichting waarvoor overeenkomstig titel II van het VLAREM een milieujaarver
 			<p>1</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:62.55pt">
-			<p>G, M, O, T, X</p>
+			<p>G, M, O, T</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:45pt">
 			<p>B</p>
@@ -3507,6 +3892,35 @@ J = Inrichting waarvoor overeenkomstig titel II van het VLAREM een milieujaarver
 		</tr>
 		<tr>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:35.55pt">
+			<p>2.3.4.4</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:216pt">
+			<p>Installaties voor de verbranding van huishoudelijk afval, afval van commerciële bedrijven, kantoren, ondernemingen en andere afvalstoffen die gezien hun aard of hun samenstelling met huishoudelijk afval kunnen worden gelijkgesteld</p>
+
+			<p>[EG-richtlijn 2000/76/EG van 4 december 2000 betreffende de verbranding van afval]</p>
+
+			<p>met een capaciteit van meer dan 3 ton per uur</p>
+
+			<p>[er kan een overlapping zijn met andere deelrubrieken van rubriek 2.3]</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:45pt">
+			<p>1</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:62.55pt">
+			<p>E, G, O, M, T, X</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:45pt">
+			<p>B</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:36pt">
+			<p>P</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:36pt">
+			<p>J</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:35.55pt">
 			<p>2.3.5.</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:216pt">
@@ -3529,13 +3943,13 @@ J = Inrichting waarvoor overeenkomstig titel II van het VLAREM een milieujaarver
 			</td>
 		</tr>
 		<tr>
-			<td rowspan="13" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:35.55pt">
-			<p><strong>[</strong>2.3.6.</p>
+			<td rowspan="16" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:35.55pt">
+			<p>2.3.6.</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:216pt">
-			<p>Stortplaatsen, andere dan deze bedoeld in rubriek 2.3.7., van: (zie titel II van het Vlarem voor de categorieën van stortplaatsen)</p>
+			<p>Stortplaatsen, andere dan die vermeld in rubriek 2.3.7, van:</p>
 
-			<p>Het rechtstreeks terugstorten op de plaats van ontginning, van materialen of stoffen in hun natuurlijke staat, voorzover ze afkomstig zijn van geologische afzettingen die tot het tertiaire of het kwartaire tijdperk behoren (zand-, klei-, leem, mergel en grondafzettingen) is geen stortactiviteit.</p>
+			<p>Het rechtstreeks terugstorten op de plaats van ontginning, van materialen of stoffen in hun natuurlijke staat, voorzover ze afkomstig zijn van geologische afzettingen die tot het tertiare of het kwartaire tijdperk behoren (zand-, klei-, leem, mergel en grindafzettingen) is geen stortactiviteit.</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:45pt">
 			<p>&nbsp;</p>
@@ -3555,12 +3969,12 @@ J = Inrichting waarvoor overeenkomstig titel II van het VLAREM een milieujaarver
 		</tr>
 		<tr>
 			<td colspan="6" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:440.55pt">
-			<p>a) Categorie 3:</p>
+			<p>a) Categorie 3: stortplaats voor inerte afvalstoffen</p>
 			</td>
 		</tr>
 		<tr>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:216pt">
-			<p>1° inerte afvalstoffen</p>
+			<p>1) stortplaats voor inerte afvalstoffen</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:45pt">
 			<p>1</p>
@@ -3580,7 +3994,7 @@ J = Inrichting waarvoor overeenkomstig titel II van het VLAREM een milieujaarver
 		</tr>
 		<tr>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:216pt">
-			<p>2° monostortplaats voor inerte afvalstoffen</p>
+			<p>2) monostortplaats voor inerte afvalstoffen</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:45pt">
 			<p>1</p>
@@ -3600,12 +4014,12 @@ J = Inrichting waarvoor overeenkomstig titel II van het VLAREM een milieujaarver
 		</tr>
 		<tr>
 			<td colspan="6" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:440.55pt">
-			<p>b) Categorie 2</p>
+			<p>b) Categorie 2: stortplaats voor niet gevaarlijke afvalstoffen</p>
 			</td>
 		</tr>
 		<tr>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:216pt">
-			<p>1° niet-gevaarlijke huishoudelijke afvalstoffen</p>
+			<p>1) stortplaats voor gemengde niet-gevaarlijke voor huishoudelijke vaste afvalstoffen met hoog gehalte aan organisch/bioafbreekbaar en anorganisch afval</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:45pt">
 			<p>1</p>
@@ -3625,7 +4039,7 @@ J = Inrichting waarvoor overeenkomstig titel II van het VLAREM een milieujaarver
 		</tr>
 		<tr>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:216pt">
-			<p>2° niet-gevaarlijke bedrijfsafvalstoffen die vergelijkbaar zijn met huishoudelijke afvalstoffen</p>
+			<p>2) stortplaats voor voornamelijk organisch niet-gevaarlijke afvalstoffen</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:45pt">
 			<p>1</p>
@@ -3645,7 +4059,7 @@ J = Inrichting waarvoor overeenkomstig titel II van het VLAREM een milieujaarver
 		</tr>
 		<tr>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:216pt">
-			<p>3° niet-gevaarlijke bijzondere afvalstoffen</p>
+			<p>3) stortplaats voor anorganische niet-gevaarlijke afvalstoffen met laag organisch/bioafbreekbaar gehalte</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:45pt">
 			<p>1</p>
@@ -3665,7 +4079,47 @@ J = Inrichting waarvoor overeenkomstig titel II van het VLAREM een milieujaarver
 		</tr>
 		<tr>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:216pt">
-			<p>4° monostortplaats voor niet-gevaarlijke afvalstoffen, andere dan inerte</p>
+			<p>4) monostortplaats voor niet-gevaarlijke afvalstoffen, andere dan inerte afvalstoffen</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:45pt">
+			<p>1</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:62.55pt">
+			<p>E, G, O</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:45pt">
+			<p>A</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:36pt">
+			<p>P</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:36pt">
+			<p>J</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:216pt">
+			<p>5) stortplaats voor niet-gevaarlijke afvalstoffen van iedere andere oorsprong die voldoen aan de criteria voor de aanvaarding van afvalstoffen op stortplaatsen voor niet gevaarlijk afval (criteria: zie afdeling 5.2.4 van titel II van het VLAREM)</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:45pt">
+			<p>1</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:62.55pt">
+			<p>E, G, O</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:45pt">
+			<p>A</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:36pt">
+			<p>P</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:36pt">
+			<p>J</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:216pt">
+			<p>6) stortplaats voor stabiele, niet-reactieve gevaarlijke afvalstoffen (bij voorbeeld verharde of verglaasde afvalstoffen) met een uitlooggedrag dat gelijkwaardig is aan dat van de onder 5° vermelde niet gevaarlijke afvalstoffen, en die voldoen aan de relevant aanvaardingscriteria (criteria: zie afdeling 5.2.4 van titel II van het VLAREM); die gevaarlijke afvalstoffen worden niet gestort in cellen die voor biologisch afbreekbare niet gevaarlijke afvalstoffen bestemd zijn</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:45pt">
 			<p>1</p>
@@ -3685,12 +4139,12 @@ J = Inrichting waarvoor overeenkomstig titel II van het VLAREM een milieujaarver
 		</tr>
 		<tr>
 			<td colspan="6" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:440.55pt">
-			<p>c) Categorie 1</p>
+			<p>c) Categorie 1: stortplaats voor gevaarlijke afvalstoffen</p>
 			</td>
 		</tr>
 		<tr>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:216pt">
-			<p>1° Stabiele, niet-reactieve gevaarlijke afvalstoffen (bijv. verharde of verglaasde afvalstoffen die voldoen aan de acceptatiecriteria voor stortplaatsen voor ongevaarlijke afvalstoffen, zoals vermeld in art. 5.2.4.1.3. van Vlarem 2</p>
+			<p>1) stortplaats voor gevaarlijke afvalstoffen die voldoen aan de criteria voor de aanvaarding van afvalstoffen op stortplaatsen voor gevaarlijke afvalstoffen (criteria: zie afdeling 5.2.4 van titel II van het VLAREM)</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:45pt">
 			<p>1</p>
@@ -3710,7 +4164,7 @@ J = Inrichting waarvoor overeenkomstig titel II van het VLAREM een milieujaarver
 		</tr>
 		<tr>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:216pt">
-			<p>2° niet-gevaarlijke bedrijfsafvalstoffen van anorganische aard of van organisch chemische aard en afvalstoffen ermee vergelijkbaar</p>
+			<p>2) monostortplaats voor gevaarlijke afvalstoffen</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:45pt">
 			<p>1</p>
@@ -3730,7 +4184,7 @@ J = Inrichting waarvoor overeenkomstig titel II van het VLAREM een milieujaarver
 		</tr>
 		<tr>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:216pt">
-			<p>3° monostortplaats voor stabiele, niet reactieve gevaarlijke afvalstoffen (bijv. verharde of verglaasde afvalstoffen die voldoen aan de acceptatiecriteria voor stortplaatsen voor ongevaarlijke afvalstoffen, zoals vermeld in art. 5.2.4.1.3. van Vlarem 2 <em>(verv. B.V.R. 13 junli 2001, art. 4, I: 16 juli 2001)</em><strong>]</strong></p>
+			<p>3) monostortplaatsen voor gevaarlijke afvalstoffen die bestaan uit asbestcement of andere asbesthoudende bouwmaterialen waarin asbest in gebonden vorm aanwezig is</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:45pt">
 			<p>1</p>
@@ -3739,7 +4193,27 @@ J = Inrichting waarvoor overeenkomstig titel II van het VLAREM een milieujaarver
 			<p>E, G, O</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:45pt">
-			<p>A</p>
+			<p>B</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:36pt">
+			<p>P</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:36pt">
+			<p>J</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:216pt">
+			<p>4) Ondergrondse opslagplaats voor gevaarlijke afvalstoffen</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:45pt">
+			<p>1</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:62.55pt">
+			<p>E, G, O</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:45pt">
+			<p>B</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:36pt">
 			<p>P</p>
@@ -3856,26 +4330,750 @@ J = Inrichting waarvoor overeenkomstig titel II van het VLAREM een milieujaarver
 			<p>2.3.8.</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:216pt">
-			<p>Installaties voor de verwijderingshandelingen D1 tot en met D12, als bedoeld in artikel 1.3.1 van het VLAREA, van gevaarlijke afvalstoffen met een capaciteit van meer dan 10 ton per dag.</p>
+			<p>Installaties voor de verwijdering van gevaarlijke afvalstoffen, met een capaciteit van meer dan 10 ton per dag, in de zin van de bijlage II A bij EG-richtlijn 75/442/EEG en in de zin van EG-richtlijn 75/439/EEG van de Raad van 16 juni 1975 inzake de verwijdering van afgewerkte olie, met name:</p>
+
+			<p>[er kan een overlapping zijn met andere deelrubrieken van rubriek 2.3]</p>
 
 			<p>&nbsp;</p>
 
-			<p>(er kan een overlapping zijn met andere deelrubrieken van rubriek 2.3)</p>
+			<p>D1 Storten op of in de bodem (vb. op een vuilstortplaats, enz.)</p>
+
+			<p>&nbsp;</p>
+
+			<p>D2 Uitrijden (vb. biodegradatie van vloeibaar of slibachtig afval in de bodem, enz.)</p>
+
+			<p>&nbsp;</p>
+
+			<p>D3 Injectie in de diepe ondergrond (vb. injectie van verpompbare afvalstoffen in putten, zoutkoepels of natuurlijk gevormde holten, enz.)</p>
+
+			<p>&nbsp;</p>
+
+			<p>D4 Opslag in waterbekkens (vb. het lozen van vloeibaar of slibachtig afval in putten, vijvers of lagunen, enz.)</p>
+
+			<p>&nbsp;</p>
+
+			<p>D5 Verwijderen op speciaal ingerichte locaties (vb. in afzonderlijke beklede, afgedekte cellen die onderling en van de omgeving afgeschermd zijn, enz.)</p>
+
+			<p>&nbsp;</p>
+
+			<p>D6 Lozen in wateren, behalve zeeën en oceanen;</p>
+
+			<p>&nbsp;</p>
+
+			<p>D7 Verwijderen in zeeën en oceanen, inclusief inbrengen in de bodem</p>
+
+			<p>&nbsp;</p>
+
+			<p>D8 Biologische behandeling op een niet elders in dit artikel aangegeven wijze waardoor verbindingen of mengsels ontstaan die worden verwijderd op een van de onder D1 tot en met D12 vermelde methodes</p>
+
+			<p>&nbsp;</p>
+
+			<p>D9 Fysisch-chemische behandeling op een niet elders in dit artikel aangegeven wijze waardoor verbindingen of mengsels ontstaan die worden verwijderd op een van de onder D1 tot en met D12 vermelde methodes (vb. verdampen, drogen, calcineren, enz.)</p>
+
+			<p>&nbsp;</p>
+
+			<p>D10 Verbranding op het land</p>
+
+			<p>&nbsp;</p>
+
+			<p>D11 Verbranding op zee</p>
+
+			<p>&nbsp;</p>
+
+			<p>D12 Permanente opslag (vb. plaatsen van houders in mijnen, enz.)</p>
+
+			<p>&nbsp;</p>
+
+			<p>D13 Vermengen vóór een van de onder D1 tot en met D12 vermelde handelingen;</p>
+
+			<p>&nbsp;</p>
+
+			<p>D14 Herverpakken vóór een van de onder D1 tot en met D13 vermelde handelingen</p>
+
+			<p>&nbsp;</p>
+
+			<p>D15 Opslag in afwachting van een van de onder D1 tot en met D14 vermelde behandelingen (met uitsluiting van voorlopige opslag die voorafgaat aan inzameling op de plaats van productie)</p>
+
+			<p>&nbsp;</p>
+
+			<p>D16 Installaties voor de verwijdering van afgewerkte olie (EG-richtlijn 75/439/EEG van 16 juni 1975 inzake de verwijdering van afgewerkte olie)</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:45pt">
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
 			<p>1</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>1</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>1</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>1</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>1</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>1</p>
+
+			<p>&nbsp;</p>
+
+			<p>1</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>1</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>1</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>1</p>
+
+			<p>&nbsp;</p>
+
+			<p>1</p>
+
+			<p>&nbsp;</p>
+
+			<p>1</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>1</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>1</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>1</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>1</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:62.55pt">
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
 			<p>E, G, O, X</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>E, G, O, X</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>E, G, O, X</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>E, G, O, X</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>E, G, O, X</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>E, G, O, X</p>
+
+			<p>&nbsp;</p>
+
+			<p>E, G, O, X</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>E, G, O, X</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>E, G, O, X</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>E, G, O, X</p>
+
+			<p>&nbsp;</p>
+
+			<p>E, G, O, X</p>
+
+			<p>&nbsp;</p>
+
+			<p>E, G, O, X</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>E, G, O, X</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>E, G, O, X</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>E, G, O, X</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>E, G, O, X</p>
+
+			<p>&nbsp;</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:45pt">
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>B</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>B</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>B</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>B</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>B</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>B</p>
+
+			<p>&nbsp;</p>
+
+			<p>B</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>B</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>B</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>B</p>
+
+			<p>&nbsp;</p>
+
+			<p>B</p>
+
+			<p>&nbsp;</p>
+
+			<p>B</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>B</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>B</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>B</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
 			<p>B</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:36pt">
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
 			<p>E</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>E</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>E</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>E</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>E</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>E</p>
+
+			<p>&nbsp;</p>
+
+			<p>E</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>E</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>E</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>E</p>
+
+			<p>&nbsp;</p>
+
+			<p>E</p>
+
+			<p>&nbsp;</p>
+
+			<p>E</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>E</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>E</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>E</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>E</p>
+
+			<p>&nbsp;</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:36pt">
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
 			<p>J</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>J</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>J</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>J</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>J</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>J</p>
+
+			<p>&nbsp;</p>
+
+			<p>J</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>J</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>J</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>J</p>
+
+			<p>&nbsp;</p>
+
+			<p>J</p>
+
+			<p>&nbsp;</p>
+
+			<p>J</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>J</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>J</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>J</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>J</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
 			</td>
 		</tr>
 		<tr>
@@ -3883,9 +5081,9 @@ J = Inrichting waarvoor overeenkomstig titel II van het VLAREM een milieujaarver
 			<p>2.3.9.</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:216pt">
-			<p>Installaties voor de volgende verwijderingshandelingen van niet-gevaarlijke afvalstoffen met een capaciteit van meer dan 50 ton per dag:</p>
+			<p>Installaties voor de verwijdering van niet gevaarlijke afvalstoffen, met een capaciteit van meer dan 50 ton per dag, in de zin van bijlage II A van Richtlijn 75/442/EEG, rubrieken D8, D9, met name:</p>
 
-			<p>(er kan een overlapping zijn met andere deelrubrieken van rubriek 2.3)</p>
+			<p>[er kan een overlapping zijn met andere deelrubrieken van rubriek 2.2]</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:45pt">
 			<p>&nbsp;</p>
@@ -3905,7 +5103,7 @@ J = Inrichting waarvoor overeenkomstig titel II van het VLAREM een milieujaarver
 		</tr>
 		<tr>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:216pt">
-			<p>a) D8: biologische behandeling waardoor verbindingen of mengsel ontstaan die worden verwijderd op een van de in artikel 1.3.1 van het VLAREA vermelde methodes D1 tot en met D12</p>
+			<p>D8 Biologische behandeling op een niet elders in de bijlage II A (zie verwijderingshandelingen D1 tot en met D15 in subrubriek 2.3.8) aangegeven wijze waardoor verbindingen of mengsel&nbsp; ontstaan die worden verwijderd op een van de onder D1 tot en met D12 onder rubriek 2.3.8 vermelde methodes</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:45pt">
 			<p>1</p>
@@ -3925,7 +5123,7 @@ J = Inrichting waarvoor overeenkomstig titel II van het VLAREM een milieujaarver
 		</tr>
 		<tr>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:216pt">
-			<p>b) D9: fysisch-chemische behandeling waardoor verbindingen of mengsels ontstaan die worden verwijderd op een van de in artikel 1.3.1 van het VLAREA vermelde methodes D1 tot en met D12</p>
+			<p>D9 Fysisch-chemische behandeling op een niet elders in de bijlage II A (zie verwijderingshandelingen D1 tot en met D15 in subrubriek 2.3.8) aangegeven wijze waardoor verbindingen of mengsels ontstaan die worden verwijderd op een van de onder D1 tot en met D12 onder rubriek 2.3.8 vermelde methodes (vb. verdampen, drogen, calcineren, enz.)</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:45pt">
 			<p>1</p>
@@ -3948,22 +5146,24 @@ J = Inrichting waarvoor overeenkomstig titel II van het VLAREM een milieujaarver
 			<p>2.3.10.</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:216pt">
-			<p><strong>[</strong>… (<em>geschr. B.V.R. 13 juli 2001, art. 4, I: 16 juli 2001)</em><strong>]</strong></p>
+			<p>Stortplaatsen die meer dan 10 ton per dag ontvangen of een totale capaciteit van meer dan 25 000 ton hebben, met uitzondering van stortplaatsen voor inerte afvalstoffen.</p>
+
+			<p>[er kan een overlapping zijn met andere deelrubrieken van rubriek 2.3.6]</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:45pt">
-			<p>&nbsp;</p>
+			<p>1</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:62.55pt">
-			<p>&nbsp;</p>
+			<p>E, G, O, X</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:45pt">
-			<p>&nbsp;</p>
+			<p>B</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:36pt">
-			<p>&nbsp;</p>
+			<p>E</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:36pt">
-			<p>&nbsp;</p>
+			<p>J</p>
 			</td>
 		</tr>
 	</tbody>
@@ -4694,7 +5894,7 @@ J = Inrichting waarvoor overeenkomstig titel II van het VLAREM een milieujaarver
 		</tr>
 		<tr>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:216pt">
-			<p>2° van meer dan 20 tot en met 500 <strong>[</strong>inwonerequivalenten <em>(verv. </em><em>B.V.R. 28 november 2003, art. 3, I: 1 april 2004)</em><strong>]</strong></p>
+			<p>2° van meer dan 20 tot 500 inwonerequivalenten</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:54pt">
 			<p>2</p>
@@ -4714,7 +5914,7 @@ J = Inrichting waarvoor overeenkomstig titel II van het VLAREM een milieujaarver
 		</tr>
 		<tr>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:216pt">
-			<p>3° van meer dan 500 <strong>[</strong>inwonerequivalenten <em>(verv. </em><em>B.V.R. 28 november 2003, art. 3, I: 1 april 2004)</em><strong>]</strong></p>
+			<p>3° van 500 of meer inwonerequivalenten</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:54pt">
 			<p>1</p>
@@ -5509,7 +6709,7 @@ J = Inrichting waarvoor overeenkomstig titel II van het VLAREM een milieujaarver
 			<p>6.</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:216pt">
-			<p>BRANDSTOFFEN (VASTE)</p>
+			<p>BRANDSTOFFEN</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:54pt">
 			<p>&nbsp;</p>
@@ -5753,6 +6953,31 @@ J = Inrichting waarvoor overeenkomstig titel II van het VLAREM een milieujaarver
 			<p>J</p>
 			</td>
 		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0">
+			<p>6.3.</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:216pt">
+			<p>Bovengrondse opslag van fossiele brandstoffen met een oppervlakte van 25 ha of meer.</p>
+
+			<p>Er kan overlapping zijn met de rubrieken 1 en 6.2.</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:54pt">
+			<p>1</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:45pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:45pt">
+			<p>B</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:36pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:36pt">
+			<p>J</p>
+			</td>
+		</tr>
 	</tbody>
 </table>
 
@@ -5774,7 +6999,7 @@ J = Inrichting waarvoor overeenkomstig titel II van het VLAREM een milieujaarver
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:54pt">
 			<p>Klasse</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:45pt">
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:62.55pt">
 			<p>Bemerkingen</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:45pt">
@@ -5797,7 +7022,7 @@ J = Inrichting waarvoor overeenkomstig titel II van het VLAREM een milieujaarver
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:54pt">
 			<p>(zie ook rubrieken 17 en 20.4)</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:45pt">
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:62.55pt">
 			<p>&nbsp;</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:45pt">
@@ -5858,7 +7083,7 @@ J = Inrichting waarvoor overeenkomstig titel II van het VLAREM een milieujaarver
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:54pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:45pt">
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:62.55pt">
 			<p>&nbsp;</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:45pt">
@@ -5878,7 +7103,7 @@ J = Inrichting waarvoor overeenkomstig titel II van het VLAREM een milieujaarver
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:54pt">
 			<p>3</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:45pt">
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:62.55pt">
 			<p>&nbsp;</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:45pt">
@@ -5898,7 +7123,7 @@ J = Inrichting waarvoor overeenkomstig titel II van het VLAREM een milieujaarver
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:54pt">
 			<p>2</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:45pt">
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:62.55pt">
 			<p>A, G</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:45pt">
@@ -5918,7 +7143,7 @@ J = Inrichting waarvoor overeenkomstig titel II van het VLAREM een milieujaarver
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:54pt">
 			<p>1</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:45pt">
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:62.55pt">
 			<p>G, M</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:45pt">
@@ -5941,7 +7166,7 @@ J = Inrichting waarvoor overeenkomstig titel II van het VLAREM een milieujaarver
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:54pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:45pt">
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:62.55pt">
 			<p>&nbsp;</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:45pt">
@@ -5961,7 +7186,7 @@ J = Inrichting waarvoor overeenkomstig titel II van het VLAREM een milieujaarver
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:54pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:45pt">
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:62.55pt">
 			<p>&nbsp;</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:45pt">
@@ -5981,7 +7206,7 @@ J = Inrichting waarvoor overeenkomstig titel II van het VLAREM een milieujaarver
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:54pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:45pt">
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:62.55pt">
 			<p>&nbsp;</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:45pt">
@@ -6001,7 +7226,7 @@ J = Inrichting waarvoor overeenkomstig titel II van het VLAREM een milieujaarver
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:54pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:45pt">
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:62.55pt">
 			<p>&nbsp;</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:45pt">
@@ -6021,7 +7246,7 @@ J = Inrichting waarvoor overeenkomstig titel II van het VLAREM een milieujaarver
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:54pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:45pt">
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:62.55pt">
 			<p>&nbsp;</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:45pt">
@@ -6041,7 +7266,7 @@ J = Inrichting waarvoor overeenkomstig titel II van het VLAREM een milieujaarver
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:54pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:45pt">
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:62.55pt">
 			<p>&nbsp;</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:45pt">
@@ -6061,7 +7286,7 @@ J = Inrichting waarvoor overeenkomstig titel II van het VLAREM een milieujaarver
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:54pt">
 			<p>1</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:45pt">
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:62.55pt">
 			<p>G, M</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:45pt">
@@ -6084,7 +7309,7 @@ J = Inrichting waarvoor overeenkomstig titel II van het VLAREM een milieujaarver
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:54pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:45pt">
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:62.55pt">
 			<p>&nbsp;</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:45pt">
@@ -6099,12 +7324,12 @@ J = Inrichting waarvoor overeenkomstig titel II van het VLAREM een milieujaarver
 		</tr>
 		<tr>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:216pt">
-			<p>1° tot en met 500.000 ton per jaar</p>
+			<p>1° tot 500.000 ton per jaar</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:54pt">
 			<p>2</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:45pt">
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:62.55pt">
 			<p>A</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:45pt">
@@ -6119,12 +7344,12 @@ J = Inrichting waarvoor overeenkomstig titel II van het VLAREM een milieujaarver
 		</tr>
 		<tr>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:216pt">
-			<p>2° meer dan 500.000 ton per jaar</p>
+			<p>2 500.000 ton per jaar of meer</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:54pt">
 			<p>1</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:45pt">
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:62.55pt">
 			<p>M</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:45pt">
@@ -6147,7 +7372,7 @@ J = Inrichting waarvoor overeenkomstig titel II van het VLAREM een milieujaarver
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:54pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:45pt">
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:62.55pt">
 			<p>&nbsp;</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:45pt">
@@ -6167,7 +7392,7 @@ J = Inrichting waarvoor overeenkomstig titel II van het VLAREM een milieujaarver
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:54pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:45pt">
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:62.55pt">
 			<p>&nbsp;</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:45pt">
@@ -6187,7 +7412,7 @@ J = Inrichting waarvoor overeenkomstig titel II van het VLAREM een milieujaarver
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:54pt">
 			<p>2</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:45pt">
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:62.55pt">
 			<p>&nbsp;</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:45pt">
@@ -6207,7 +7432,7 @@ J = Inrichting waarvoor overeenkomstig titel II van het VLAREM een milieujaarver
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:54pt">
 			<p>1</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:45pt">
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:62.55pt">
 			<p>G, M</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:45pt">
@@ -6227,7 +7452,7 @@ J = Inrichting waarvoor overeenkomstig titel II van het VLAREM een milieujaarver
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:54pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:45pt">
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:62.55pt">
 			<p>&nbsp;</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:45pt">
@@ -6247,7 +7472,7 @@ J = Inrichting waarvoor overeenkomstig titel II van het VLAREM een milieujaarver
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:54pt">
 			<p>2</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:45pt">
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:62.55pt">
 			<p>&nbsp;</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:45pt">
@@ -6267,7 +7492,7 @@ J = Inrichting waarvoor overeenkomstig titel II van het VLAREM een milieujaarver
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:54pt">
 			<p>1</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:45pt">
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:62.55pt">
 			<p>G, M</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:45pt">
@@ -6290,7 +7515,7 @@ J = Inrichting waarvoor overeenkomstig titel II van het VLAREM een milieujaarver
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:54pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:45pt">
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:62.55pt">
 			<p>&nbsp;</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:45pt">
@@ -6310,7 +7535,7 @@ J = Inrichting waarvoor overeenkomstig titel II van het VLAREM een milieujaarver
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:54pt">
 			<p>2</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:45pt">
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:62.55pt">
 			<p>&nbsp;</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:45pt">
@@ -6330,7 +7555,7 @@ J = Inrichting waarvoor overeenkomstig titel II van het VLAREM een milieujaarver
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:54pt">
 			<p>1</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:45pt">
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:62.55pt">
 			<p>G, M</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:45pt">
@@ -6353,7 +7578,7 @@ J = Inrichting waarvoor overeenkomstig titel II van het VLAREM een milieujaarver
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:54pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:45pt">
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:62.55pt">
 			<p>&nbsp;</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:45pt">
@@ -6373,7 +7598,7 @@ J = Inrichting waarvoor overeenkomstig titel II van het VLAREM een milieujaarver
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:54pt">
 			<p>2</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:45pt">
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:62.55pt">
 			<p>&nbsp;</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:45pt">
@@ -6393,7 +7618,7 @@ J = Inrichting waarvoor overeenkomstig titel II van het VLAREM een milieujaarver
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:54pt">
 			<p>1</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:45pt">
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:62.55pt">
 			<p>G, M</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:45pt">
@@ -6416,7 +7641,7 @@ J = Inrichting waarvoor overeenkomstig titel II van het VLAREM een milieujaarver
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:54pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:45pt">
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:62.55pt">
 			<p>&nbsp;</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:45pt">
@@ -6436,7 +7661,7 @@ J = Inrichting waarvoor overeenkomstig titel II van het VLAREM een milieujaarver
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:54pt">
 			<p>2</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:45pt">
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:62.55pt">
 			<p>&nbsp;</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:45pt">
@@ -6456,7 +7681,7 @@ J = Inrichting waarvoor overeenkomstig titel II van het VLAREM een milieujaarver
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:54pt">
 			<p>1</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:45pt">
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:62.55pt">
 			<p>G, M</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:45pt">
@@ -6479,7 +7704,7 @@ J = Inrichting waarvoor overeenkomstig titel II van het VLAREM een milieujaarver
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:54pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:45pt">
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:62.55pt">
 			<p>&nbsp;</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:45pt">
@@ -6499,7 +7724,7 @@ J = Inrichting waarvoor overeenkomstig titel II van het VLAREM een milieujaarver
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:54pt">
 			<p>2</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:45pt">
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:62.55pt">
 			<p>&nbsp;</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:45pt">
@@ -6519,7 +7744,7 @@ J = Inrichting waarvoor overeenkomstig titel II van het VLAREM een milieujaarver
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:54pt">
 			<p>1</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:45pt">
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:62.55pt">
 			<p>G, M</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:45pt">
@@ -6542,7 +7767,7 @@ J = Inrichting waarvoor overeenkomstig titel II van het VLAREM een milieujaarver
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:54pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:45pt">
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:62.55pt">
 			<p>&nbsp;</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:45pt">
@@ -6562,7 +7787,7 @@ J = Inrichting waarvoor overeenkomstig titel II van het VLAREM een milieujaarver
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:54pt">
 			<p>2</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:45pt">
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:62.55pt">
 			<p>&nbsp;</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:45pt">
@@ -6582,7 +7807,7 @@ J = Inrichting waarvoor overeenkomstig titel II van het VLAREM een milieujaarver
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:54pt">
 			<p>1</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:45pt">
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:62.55pt">
 			<p>G, M</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:45pt">
@@ -6605,7 +7830,7 @@ J = Inrichting waarvoor overeenkomstig titel II van het VLAREM een milieujaarver
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:54pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:45pt">
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:62.55pt">
 			<p>&nbsp;</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:45pt">
@@ -6625,7 +7850,7 @@ J = Inrichting waarvoor overeenkomstig titel II van het VLAREM een milieujaarver
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:54pt">
 			<p>2</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:45pt">
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:62.55pt">
 			<p>&nbsp;</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:45pt">
@@ -6645,7 +7870,7 @@ J = Inrichting waarvoor overeenkomstig titel II van het VLAREM een milieujaarver
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:54pt">
 			<p>1</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:45pt">
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:62.55pt">
 			<p>G, M</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:45pt">
@@ -6672,7 +7897,7 @@ J = Inrichting waarvoor overeenkomstig titel II van het VLAREM een milieujaarver
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:54pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:45pt">
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:62.55pt">
 			<p>&nbsp;</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:45pt">
@@ -6686,7 +7911,7 @@ J = Inrichting waarvoor overeenkomstig titel II van het VLAREM een milieujaarver
 			</td>
 		</tr>
 		<tr>
-			<td colspan="6" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:432pt">
+			<td colspan="6" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:449.55pt">
 			<p>1° organisch-chemische basisproducten, zoals:</p>
 			</td>
 		</tr>
@@ -6697,7 +7922,7 @@ J = Inrichting waarvoor overeenkomstig titel II van het VLAREM een milieujaarver
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:54pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:45pt">
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:62.55pt">
 			<p>&nbsp;</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:45pt">
@@ -6717,7 +7942,7 @@ J = Inrichting waarvoor overeenkomstig titel II van het VLAREM een milieujaarver
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:54pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:45pt">
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:62.55pt">
 			<p>&nbsp;</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:45pt">
@@ -6737,7 +7962,7 @@ J = Inrichting waarvoor overeenkomstig titel II van het VLAREM een milieujaarver
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:54pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:45pt">
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:62.55pt">
 			<p>&nbsp;</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:45pt">
@@ -6757,7 +7982,7 @@ J = Inrichting waarvoor overeenkomstig titel II van het VLAREM een milieujaarver
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:54pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:45pt">
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:62.55pt">
 			<p>&nbsp;</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:45pt">
@@ -6777,7 +8002,7 @@ J = Inrichting waarvoor overeenkomstig titel II van het VLAREM een milieujaarver
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:54pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:45pt">
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:62.55pt">
 			<p>&nbsp;</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:45pt">
@@ -6797,7 +8022,7 @@ J = Inrichting waarvoor overeenkomstig titel II van het VLAREM een milieujaarver
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:54pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:45pt">
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:62.55pt">
 			<p>&nbsp;</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:45pt">
@@ -6817,7 +8042,7 @@ J = Inrichting waarvoor overeenkomstig titel II van het VLAREM een milieujaarver
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:54pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:45pt">
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:62.55pt">
 			<p>&nbsp;</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:45pt">
@@ -6837,7 +8062,7 @@ J = Inrichting waarvoor overeenkomstig titel II van het VLAREM een milieujaarver
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:54pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:45pt">
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:62.55pt">
 			<p>&nbsp;</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:45pt">
@@ -6857,7 +8082,7 @@ J = Inrichting waarvoor overeenkomstig titel II van het VLAREM een milieujaarver
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:54pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:45pt">
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:62.55pt">
 			<p>&nbsp;</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:45pt">
@@ -6877,7 +8102,7 @@ J = Inrichting waarvoor overeenkomstig titel II van het VLAREM een milieujaarver
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:54pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:45pt">
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:62.55pt">
 			<p>&nbsp;</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:45pt">
@@ -6897,7 +8122,7 @@ J = Inrichting waarvoor overeenkomstig titel II van het VLAREM een milieujaarver
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:54pt">
 			<p>1</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:45pt">
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:62.55pt">
 			<p>G, M, X</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:45pt">
@@ -6911,7 +8136,7 @@ J = Inrichting waarvoor overeenkomstig titel II van het VLAREM een milieujaarver
 			</td>
 		</tr>
 		<tr>
-			<td colspan="6" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:432pt">
+			<td colspan="6" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:449.55pt">
 			<p>2° anorganisch-chemische basisproducten, zoals:</p>
 			</td>
 		</tr>
@@ -6922,7 +8147,7 @@ J = Inrichting waarvoor overeenkomstig titel II van het VLAREM een milieujaarver
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:54pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:45pt">
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:62.55pt">
 			<p>&nbsp;</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:45pt">
@@ -6942,7 +8167,7 @@ J = Inrichting waarvoor overeenkomstig titel II van het VLAREM een milieujaarver
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:54pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:45pt">
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:62.55pt">
 			<p>&nbsp;</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:45pt">
@@ -6962,7 +8187,7 @@ J = Inrichting waarvoor overeenkomstig titel II van het VLAREM een milieujaarver
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:54pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:45pt">
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:62.55pt">
 			<p>&nbsp;</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:45pt">
@@ -6982,7 +8207,7 @@ J = Inrichting waarvoor overeenkomstig titel II van het VLAREM een milieujaarver
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:54pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:45pt">
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:62.55pt">
 			<p>&nbsp;</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:45pt">
@@ -7002,7 +8227,7 @@ J = Inrichting waarvoor overeenkomstig titel II van het VLAREM een milieujaarver
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:54pt">
 			<p>1</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:45pt">
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:62.55pt">
 			<p>G, M, X</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:45pt">
@@ -7022,7 +8247,7 @@ J = Inrichting waarvoor overeenkomstig titel II van het VLAREM een milieujaarver
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:54pt">
 			<p>1</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:45pt">
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:62.55pt">
 			<p>G, M, X</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:45pt">
@@ -7042,7 +8267,7 @@ J = Inrichting waarvoor overeenkomstig titel II van het VLAREM een milieujaarver
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:54pt">
 			<p>1</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:45pt">
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:62.55pt">
 			<p>G, M, X</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:45pt">
@@ -7062,8 +8287,163 @@ J = Inrichting waarvoor overeenkomstig titel II van het VLAREM een milieujaarver
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:54pt">
 			<p>1</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:45pt">
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:62.55pt">
 			<p>G, M, X</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:45pt">
+			<p>A</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:36pt">
+			<p>P</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:36pt">
+			<p>J</p>
+			</td>
+		</tr>
+		<tr>
+			<td rowspan="9" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top">
+			<p>7.12.</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:216pt">
+			<p>Chemische industrie:</p>
+
+			<p>Er kan overlapping zijn met andere subrubrieken van rubriek 7, 20 en 28.</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:54pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:62.55pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:45pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:36pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:36pt">
+			<p>&nbsp;</p>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="6" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:449.55pt">
+			<p>1° Chemische industrie voor de behandeling van tussenproducten en vervaardiging van chemicaliën:</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:216pt">
+			<p>a) Chemische installatie voor de productie van organische chemicaliën met een productiecapaciteit van 100 00 ton per jaar of meer</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:54pt">
+			<p>1</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:62.55pt">
+			<p>G, M</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:45pt">
+			<p>A</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:36pt">
+			<p>P</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:36pt">
+			<p>J</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:216pt">
+			<p>b) Chemische installatie voor de productie van kunstmeststoffen met een productiecapaciteit van 100 000 ton per jaar of meer</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:54pt">
+			<p>1</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:62.55pt">
+			<p>G, M</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:45pt">
+			<p>A</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:36pt">
+			<p>P</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:36pt">
+			<p>J</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:216pt">
+			<p>c) Chemische installatie voor de productie van anorganische chemicaliën met een productiecapaciteit van 250 000 ton per jaar of meer</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:54pt">
+			<p>1</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:62.55pt">
+			<p>G, M</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:45pt">
+			<p>A</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:36pt">
+			<p>P</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:36pt">
+			<p>J</p>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="6" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:449.55pt">
+			<p>2° chemische industrie voor de productie van bestrijdingsmiddelen en farmaceutische producten, verven en vernissen, elastomeren en peroxiden:</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:216pt">
+			<p>a) Inrichtingen voor de productie van bestrijdingsmiddelen met een productiecapaciteit van 30 000 ton per jaar of meer</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:54pt">
+			<p>1</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:62.55pt">
+			<p>G, M</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:45pt">
+			<p>A</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:36pt">
+			<p>P</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:36pt">
+			<p>J</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:216pt">
+			<p>b) Inrichtingen voor de productie van farmaceutische stoffen met een productiecapaciteit van 30 000 ton per jaar of meer</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:54pt">
+			<p>1</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:62.55pt">
+			<p>G, M</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:45pt">
+			<p>A</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:36pt">
+			<p>P</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:36pt">
+			<p>J</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:216pt">
+			<p>c) Inrichtingen voor de productie van elastomeren, verven, vernissen of peroxiden met een productiecapaciteit van 100 000 ton per jaar of meer</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:54pt">
+			<p>1</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:62.55pt">
+			<p>G, M</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:45pt">
 			<p>A</p>
@@ -7581,7 +8961,7 @@ J = Inrichting waarvoor overeenkomstig titel II van het VLAREM een milieujaarver
 
 			<p>- Octodon degus (Molina 1782) (Degoe)</p>
 
-			<p>- Phodopus campbelli (thomas 1905) (<!--?xml:namespace prefix =         st1 ns = "urn:schemas-microsoft-com:office:smarttags" /-->Campbells dwerghamster)</p>
+			<p>- Phodopus campbelli (thomas 1905) (Campbells dwerghamster)</p>
 
 			<p>- Phodopus roborovski (Satunin 1903) (Roborovski dwerghamster)</p>
 
@@ -9648,7 +11028,7 @@ J = Inrichting waarvoor overeenkomstig titel II van het VLAREM een milieujaarver
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:216pt">
 			<p>Intensieve aquacultuur van vis:</p>
 
-			<p>Intensieve aquacultuur van vis met jaarproductie van:</p>
+			<p>Intensieve aquacultuur van vis met een jaarproductiecapaciteit aan levend gewicht van:</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:54pt">
 			<p>&nbsp;</p>
@@ -9727,7 +11107,7 @@ J = Inrichting waarvoor overeenkomstig titel II van het VLAREM een milieujaarver
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:54pt">
 			<p>Klasse</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:45pt">
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:62.55pt">
 			<p>Bemerkingen</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:45pt">
@@ -9750,7 +11130,7 @@ J = Inrichting waarvoor overeenkomstig titel II van het VLAREM een milieujaarver
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:54pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:45pt">
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:62.55pt">
 			<p>&nbsp;</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:45pt">
@@ -9773,7 +11153,7 @@ J = Inrichting waarvoor overeenkomstig titel II van het VLAREM een milieujaarver
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:54pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:45pt">
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:62.55pt">
 			<p>&nbsp;</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:45pt">
@@ -9793,7 +11173,7 @@ J = Inrichting waarvoor overeenkomstig titel II van het VLAREM een milieujaarver
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:54pt">
 			<p>3</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:45pt">
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:62.55pt">
 			<p>&nbsp;</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:45pt">
@@ -9813,7 +11193,7 @@ J = Inrichting waarvoor overeenkomstig titel II van het VLAREM een milieujaarver
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:54pt">
 			<p>2</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:45pt">
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:62.55pt">
 			<p>T</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:45pt">
@@ -9833,7 +11213,7 @@ J = Inrichting waarvoor overeenkomstig titel II van het VLAREM een milieujaarver
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:54pt">
 			<p>1</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:45pt">
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:62.55pt">
 			<p>&nbsp;</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:45pt">
@@ -9856,7 +11236,7 @@ J = Inrichting waarvoor overeenkomstig titel II van het VLAREM een milieujaarver
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:54pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:45pt">
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:62.55pt">
 			<p>&nbsp;</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:45pt">
@@ -9876,7 +11256,7 @@ J = Inrichting waarvoor overeenkomstig titel II van het VLAREM een milieujaarver
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:54pt">
 			<p>3</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:45pt">
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:62.55pt">
 			<p>&nbsp;</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:45pt">
@@ -9896,7 +11276,7 @@ J = Inrichting waarvoor overeenkomstig titel II van het VLAREM een milieujaarver
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:54pt">
 			<p>2</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:45pt">
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:62.55pt">
 			<p>T</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:45pt">
@@ -9916,7 +11296,72 @@ J = Inrichting waarvoor overeenkomstig titel II van het VLAREM een milieujaarver
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:54pt">
 			<p>1</p>
 			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:62.55pt">
+			<p>&nbsp;</p>
+			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:45pt">
+			<p>N</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:36pt">
+			<p>E</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:36pt">
+			<p>J</p>
+			</td>
+		</tr>
+		<tr>
+			<td rowspan="3" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top">
+			<p>10.3.</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:216pt">
+			<p>Volgende bierbrouwerijen en mouterijen:</p>
+
+			<p>Er kan een overlapping zijn met de subrubrieken 10.1 en 10.2.</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:54pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:62.55pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:45pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:36pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:36pt">
+			<p>&nbsp;</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:216pt">
+			<p>1° Bierbrouwerijen met een productiecapaciteit van 75 miljoen liter per jaar of meer</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:54pt">
+			<p>1</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:62.55pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:45pt">
+			<p>N</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:36pt">
+			<p>E</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:36pt">
+			<p>J</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:216pt">
+			<p>2° Mouterijen met een productiecapaciteit van 60 000 ton per jaar of meer</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:54pt">
+			<p>1</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:62.55pt">
 			<p>&nbsp;</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:45pt">
@@ -13475,6 +14920,94 @@ J = Inrichting waarvoor overeenkomstig titel II van het VLAREM een milieujaarver
 			<p>&nbsp;</p>
 			</td>
 		</tr>
+		<tr>
+			<td rowspan="3" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:32.4pt">
+			<p>18.3</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:225pt">
+			<p>Winning van mineralen door afbaggering van de zee- of rivierbodem:</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:45pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:45pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:45pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:36pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:36pt">
+			<p>&nbsp;</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:225pt">
+			<p>1° met een volume van 100 000 m3 per jaar of meer</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:45pt">
+			<p>1</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:45pt">
+			<p>E, M, O, W</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:45pt">
+			<p>N</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:36pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:36pt">
+			<p>&nbsp;</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:225pt">
+			<p>2° die een aanzienlijke invloed kan hebben op een bijzonder beschermd gebied</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:45pt">
+			<p>1</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:45pt">
+			<p>E, M, O, W</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:45pt">
+			<p>N</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:36pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:36pt">
+			<p>&nbsp;</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:32.4pt">
+			<p>18.4</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:225pt">
+			<p>Oppervlakte-installaties van bedrijven voor de winning van steenkool, aardolie, aardgas, ertsen en bitumineuze schisten</p>
+
+			<p>Er kan overlapping zijn met de rubrieken 1.3 en 16.9, e)</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:45pt">
+			<p>1</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:45pt">
+			<p>E, M, O</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:45pt">
+			<p>B</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:36pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:36pt">
+			<p>&nbsp;</p>
+			</td>
+		</tr>
 	</tbody>
 </table>
 
@@ -13910,6 +15443,31 @@ J = Inrichting waarvoor overeenkomstig titel II van het VLAREM een milieujaarver
 			<p>&nbsp;</p>
 			</td>
 		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:32.4pt">
+			<p>19.7</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:225pt">
+			<p>Houtvezelplaat-, spaanderplaat-, duplex-, triplex- en multiplexfabrieken met een productiecapaciteit van 200 ton per dag en meer.</p>
+
+			<p>Er kan overlapping zijn met een of meer subrubrieken van rubriek 19.</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:45pt">
+			<p>1</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:45pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:45pt">
+			<p>B</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:36pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:36pt">
+			<p>&nbsp;</p>
+			</td>
+		</tr>
 	</tbody>
 </table>
 
@@ -14208,11 +15766,11 @@ J = Inrichting waarvoor overeenkomstig titel II van het VLAREM een milieujaarver
 			</td>
 		</tr>
 		<tr>
-			<td rowspan="4" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:41.4pt">
+			<td rowspan="3" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:41.4pt">
 			<p>20.1.6</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:216pt">
-			<p>Installaties voor de winning van windenergie voor de energieproductie (windturbineparken) met een elektrisch vermogen van:</p>
+			<p>Installaties voor het opwekken van elektriciteit door middel van windenergie:</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:45pt">
 			<p>&nbsp;</p>
@@ -14232,36 +15790,40 @@ J = Inrichting waarvoor overeenkomstig titel II van het VLAREM een milieujaarver
 		</tr>
 		<tr>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:216pt">
-			<p>1° 300 kW tot en met 500 kW</p>
+			<p>1° met een elektrisch vermogen van:</p>
+
+			<p>a) 300 kW tot en met 500 kW</p>
+
+			<p>b) meer dan 500 kW tot en met 5 000 kW</p>
+
+			<p>c) meer dan 5 000 kW</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:45pt">
+			<p>&nbsp;</p>
+
 			<p>3</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:45pt">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:45pt">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:36pt">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:36pt">
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:216pt">
-			<p>2° meer dan 500 kW tot en met 5.000 kW</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:45pt">
+
 			<p>2</p>
+
+			<p>1</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:45pt">
 			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>E</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:45pt">
 			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>B</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:36pt">
 			<p>&nbsp;</p>
@@ -14272,11 +15834,11 @@ J = Inrichting waarvoor overeenkomstig titel II van het VLAREM een milieujaarver
 		</tr>
 		<tr>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:216pt">
-			<p>3° meer dan 5.000 kW</p>
+			<p>2° Indien de activiteit betrekking heeft:</p>
 
-			<p>&nbsp;</p>
+			<p>- op 20 windturbines of meer, of</p>
 
-			<p>Industriële installaties voor de productie van elektriciteit, stoom en warm water: zie rubriek 43</p>
+			<p>- op 4 windturbines of meer, die een aanzienlijke invloed hebben of kunnen hebben op een bijzonder beschermd gebied</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:45pt">
 			<p>1</p>
@@ -14694,6 +16256,56 @@ J = Inrichting waarvoor overeenkomstig titel II van het VLAREM een milieujaarver
 		</tr>
 		<tr>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:41.4pt">
+			<p>20.2.6</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:216pt">
+			<p>Installaties voor de productie van ruwijzer of staal (primaire of secundaire smelting), met inbegrip van&nbsp; continugieten, met een productiecapaciteit van 100 000 ton per jaar of meer.</p>
+
+			<p>Er kan overlapping zijn met een of meer subrubriek 20.2.2.&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:45pt">
+			<p>1</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:45pt">
+			<p>G, M</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:45pt">
+			<p>A</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:36pt">
+			<p>P</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:36pt">
+			<p>J</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:41.4pt">
+			<p>20.2.7.</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:216pt">
+			<p>Installaties voor het het smelten (met inbegrip van het legeren), het (vorm)gieten, walsen (koud- en warmwalsen), het trekken van non-ferrometalen, met uitzondering van edele metalen – inclusief terugwinningsproducten (affineren, vormgieten, enz.) – met een productiecapaciteit van 50 000 ton per jaar of meer.</p>
+
+			<p>Er kan overlapiing zijn met een of meer subrubrieken van de rubrieken 20 en 29.</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:45pt">
+			<p>1</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:45pt">
+			<p>M</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:45pt">
+			<p>A</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:36pt">
+			<p>P</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:36pt">
+			<p>J</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:41.4pt">
 			<p>20.3</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:216pt">
@@ -14720,7 +16332,7 @@ J = Inrichting waarvoor overeenkomstig titel II van het VLAREM een milieujaarver
 			<p>20.3.1</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:216pt">
-			<p>Inrichtingen voor de productie van cement en kalk door middel van draaiovens met een geïnstalleerde totale drijfkracht:</p>
+			<p>Installaties voor de productie van cement:</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:45pt">
 			<p>&nbsp;</p>
@@ -14740,30 +16352,74 @@ J = Inrichting waarvoor overeenkomstig titel II van het VLAREM een milieujaarver
 		</tr>
 		<tr>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:216pt">
-			<p>1° tot en met 200 kW</p>
+			<p>1° Inrichtingen voor de productie van cement en kalk door middel van draaiovens met een geïnstalleerde totale drijfkracht:</p>
+
+			<p>a) tot en met 200 kW</p>
+
+			<p>b) van meer dan 200 kW</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:45pt">
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
 			<p>2</p>
+
+			<p>1</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:45pt">
 			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>M</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:45pt">
 			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>A</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:36pt">
 			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>P</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:36pt">
 			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>J</p>
 			</td>
 		</tr>
 		<tr>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:216pt">
-			<p>2° meer dan 200 kW</p>
+			<p>2° Installaties voor de vervaardiging van cement met een productiecapaciteit van 150.000 ton per jaar of meer</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:45pt">
-			<p>2</p>
+			<p>1</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:45pt">
 			<p>M</p>
@@ -14963,7 +16619,7 @@ J = Inrichting waarvoor overeenkomstig titel II van het VLAREM een milieujaarver
 		</tr>
 		<tr>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:216pt">
-			<p>- minder dan 20.000 ton eindproducten</p>
+			<p>- minder dan 10.000 ton eindproducten</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:45pt">
 			<p>2</p>
@@ -14983,7 +16639,7 @@ J = Inrichting waarvoor overeenkomstig titel II van het VLAREM een milieujaarver
 		</tr>
 		<tr>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:216pt">
-			<p>- 20.000 ton eindproducten en meer</p>
+			<p>- 10.000 ton eindproducten en meer</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:45pt">
 			<p>1</p>
@@ -15023,7 +16679,7 @@ J = Inrichting waarvoor overeenkomstig titel II van het VLAREM een milieujaarver
 		</tr>
 		<tr>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:216pt">
-			<p>- minder dan 50 ton eindproducten</p>
+			<p>- minder dan 25 ton eindproducten</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:45pt">
 			<p>2</p>
@@ -15043,7 +16699,7 @@ J = Inrichting waarvoor overeenkomstig titel II van het VLAREM een milieujaarver
 		</tr>
 		<tr>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:216pt">
-			<p>- 50 ton eindproducten en meer</p>
+			<p>- 25 ton eindproducten en meer</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:45pt">
 			<p>1</p>
@@ -15083,7 +16739,7 @@ J = Inrichting waarvoor overeenkomstig titel II van het VLAREM een milieujaarver
 		</tr>
 		<tr>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:216pt">
-			<p>- minder dan 200 ton per jaar</p>
+			<p>- minder dan 100 ton per jaar</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:45pt">
 			<p>2</p>
@@ -15103,7 +16759,7 @@ J = Inrichting waarvoor overeenkomstig titel II van het VLAREM een milieujaarver
 		</tr>
 		<tr>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:216pt">
-			<p>- 200 ton per jaar en meer</p>
+			<p>- 100 ton per jaar en meer</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:45pt">
 			<p>1</p>
@@ -15126,7 +16782,7 @@ J = Inrichting waarvoor overeenkomstig titel II van het VLAREM een milieujaarver
 			<p>20.3.3</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:216pt">
-			<p>Inrichtingen voor de productie van rotsvezels en glaswol, met een geïnstalleerde totale drijfkracht:</p>
+			<p>Installaties voor de productie van rotsvezels en glaswol:</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:45pt">
 			<p>&nbsp;</p>
@@ -15146,27 +16802,53 @@ J = Inrichting waarvoor overeenkomstig titel II van het VLAREM een milieujaarver
 		</tr>
 		<tr>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:216pt">
-			<p>1° tot en met 200 kW</p>
+			<p>1° met een geïnstalleerde totale drijfkracht:</p>
+
+			<p>a) tot en met 200 kW</p>
+
+			<p>b) van meer dan 200 kW</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:45pt">
+			<p>&nbsp;</p>
+
 			<p>2</p>
+
+			<p>1</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:45pt">
 			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>M</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:45pt">
 			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>A</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:36pt">
 			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>P</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:36pt">
 			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>J</p>
 			</td>
 		</tr>
 		<tr>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:216pt">
-			<p>2° van meer dan 200 kW</p>
+			<p>2° met een productiecapaciteit van 30 000 ton per jaar of meer</p>
+
+			<p>Er is overlapping mogelijk met 1°</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:45pt">
 			<p>1</p>
@@ -15189,7 +16871,7 @@ J = Inrichting waarvoor overeenkomstig titel II van het VLAREM een milieujaarver
 			<p>20.3.4</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:216pt">
-			<p>Installaties voor de fabricage van glas (plat, hol en speciaal glas) met inbegrip van installaties voor de fabricage van glasvezels, met een smeltcapaciteit per dag van:</p>
+			<p>Installaties voor het vervaardigen en behandelen van glas:</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:45pt">
 			<p>&nbsp;</p>
@@ -15209,33 +16891,91 @@ J = Inrichting waarvoor overeenkomstig titel II van het VLAREM een milieujaarver
 		</tr>
 		<tr>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:216pt">
-			<p>1° 4 ton tot en met 20 ton</p>
+			<p>1° Installaties voor de fabricage van glas (plat, hol en speciaal) met inbegrip van installaties voor de fabricage van glasvezels,</p>
+
+			<p>met een smeltcapaciteit per dag van:</p>
+
+			<p>a) 4 ton tot en met 20 ton</p>
+
+			<p>b) meer dan 20 ton</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:45pt">
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
 			<p>2</p>
+
+			<p>1</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:45pt">
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>M, X, Y<sub>k</sub></p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:45pt">
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
 			<p>A</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:45pt">
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:36pt">
 			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>P</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:36pt">
 			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:36pt">
+
 			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>J</p>
 			</td>
 		</tr>
 		<tr>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:216pt">
-			<p>2° meer dan 20 ton</p>
+			<p>2° Installaties voor het vervaardigen en behandelen van glas (met inbegrip van glasvezels) met een productiecapaciteit van 30.000 ton per jaar of meer.</p>
+
+			<p>Er is overlapping mogelijk met 1°.</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:45pt">
 			<p>1</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:45pt">
-			<p>M, X, <strong>[</strong>Y, K <em>(ing. B.V.R. 4 februari 2005, art. 40, I: 28 februari 2005)</em><strong>]</strong></p>
+			<p>M</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:45pt">
 			<p>A</p>
@@ -16274,11 +18014,11 @@ J = Inrichting waarvoor overeenkomstig titel II van het VLAREM een milieujaarver
 			</td>
 		</tr>
 		<tr>
-			<td rowspan="4" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:32.4pt">
+			<td rowspan="6" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:32.4pt">
 			<p>23.1</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:225pt">
-			<p>Inrichtingen voor het vervaardigen van kunststoffen en van kunstmatige vezels met een geïnstalleerde totale drijfkracht van:</p>
+			<p>Inrichtingen voor het vervaardigen van kunststoffen en van kunstmatige vezels:</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:45pt">
 			<p>&nbsp;</p>
@@ -16298,7 +18038,27 @@ J = Inrichting waarvoor overeenkomstig titel II van het VLAREM een milieujaarver
 		</tr>
 		<tr>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:225pt">
-			<p>1° 5 kW tot en met 10 kW</p>
+			<p>1° Inrichtingen voor het vervaardigen van kunststoffen en van kunstmatige vezels met een geïnstalleerde totale drijfkracht van:</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:45pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:45pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:45pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:36pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:36pt">
+			<p>&nbsp;</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:225pt">
+			<p>a) 5 kW tot en met 10 kW</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:45pt">
 			<p>3</p>
@@ -16318,7 +18078,7 @@ J = Inrichting waarvoor overeenkomstig titel II van het VLAREM een milieujaarver
 		</tr>
 		<tr>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:225pt">
-			<p>2° meer dan 10 kW tot en met 200 kW</p>
+			<p>b) meer dan 10 kW tot en met 200 kW</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:45pt">
 			<p>2</p>
@@ -16338,7 +18098,29 @@ J = Inrichting waarvoor overeenkomstig titel II van het VLAREM een milieujaarver
 		</tr>
 		<tr>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:225pt">
-			<p>3° meer dan 200 kW</p>
+			<p>c) meer dan 200 kW</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:45pt">
+			<p>1</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:45pt">
+			<p>M</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:45pt">
+			<p>A</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:36pt">
+			<p>P</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:36pt">
+			<p>J</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:225pt">
+			<p>2° Installaties voor het vervaardigen van kunstmatige minerale vezels met een productiecapaciteit van 100.000 ton per jaar of meer.</p>
+
+			<p>Er is overlapping mogelijk met 1°</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:45pt">
 			<p>1</p>
@@ -16783,6 +18565,31 @@ J = Inrichting waarvoor overeenkomstig titel II van het VLAREM een milieujaarver
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:216pt">
 			<p>Overige leer- en witlooierijen</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:45pt">
+			<p>1</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:45pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:45pt">
+			<p>B</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:36pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:36pt">
+			<p>&nbsp;</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:41.4pt">
+			<p>25.1.3</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:216pt">
+			<p>Installaties voor het looien van huiden met een productiecapaciteit van 1000 ton per jaar of meer</p>
+
+			<p>Er kan overlapping zijn met deelrubriek 25.1.1.</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:45pt">
 			<p>1</p>
@@ -18145,1309 +19952,7 @@ J = Inrichting waarvoor overeenkomstig titel II van het VLAREM een milieujaarver
 
 ### rubriek 29
 
-<table border="1" cellpadding="0" cellspacing="0" style="border-collapse:collapse">
-	<tbody>
-		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:41.4pt">
-			<p>Rubriek<!--?xml:namespace         prefix = o ns = "urn:schemas-microsoft-com:office:office"         /--></p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:216pt">
-			<p>Omschrijving en subrubrieken</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:45pt">
-			<p>Klasse</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:45pt">
-			<p>Bemer-kingen</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:45pt">
-			<p>Coördi-nator</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:36pt">
-			<p>Audit</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:36pt">
-			<p>Jaar-ver-slag</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:41.4pt">
-			<p>29.</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:216pt">
-			<p>METALEN (zie ook rubriek 20.2)</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:45pt">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:45pt">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:45pt">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:36pt">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:36pt">
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:41.4pt">
-			<p>29.1</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:216pt">
-			<p>Ertsen:</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:45pt">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:45pt">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:45pt">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:36pt">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:36pt">
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td rowspan="4" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:41.4pt">
-			<p>29.1.1</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:216pt">
-			<p>Niet in rubriek 20.2.1 begrepen inrichtingen voor het behandelen van ertsen met een geïnstalleerde drijfkracht van:</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:45pt">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:45pt">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:45pt">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:36pt">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:36pt">
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:216pt">
-			<p>1° 5 kW tot en met 10 kW</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:45pt">
-			<p>3</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:45pt">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:45pt">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:36pt">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:36pt">
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:216pt">
-			<p>2° meer dan 10 kW tot en met 200 kW</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:45pt">
-			<p>2</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:45pt">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:45pt">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:36pt">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:36pt">
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:216pt">
-			<p>3° meer dan 200 kW</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:45pt">
-			<p>1</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:45pt">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:45pt">
-			<p>B</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:36pt">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:36pt">
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td rowspan="3" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:41.4pt">
-			<p>29.1.2</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:216pt">
-			<p>Inrichtingen voor de opslag of overslag van ertsen, met uitzondering van deze bedoeld onder rubriek 48, met een oppervlakte van:</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:45pt">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:45pt">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:45pt">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:36pt">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:36pt">
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:216pt">
-			<p>1° 1 tot en met 10 ha</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:45pt">
-			<p>2</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:45pt">
-			<p>T</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:45pt">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:36pt">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:36pt">
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:216pt">
-			<p>2° meer dan 10 ha</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:45pt">
-			<p>1</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:45pt">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:45pt">
-			<p>B</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:36pt">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:36pt">
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:41.4pt">
-			<p>29.2</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:216pt">
-			<p>Installaties voor de verwerking van ferro-metalen:</p>
-
-			<p>(Inrichtingen voor de productie van ijzer en staal: zie rubriek 20.2.2)</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:45pt">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:45pt">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:45pt">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:36pt">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:36pt">
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td rowspan="3" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:41.4pt">
-			<p>29.2.1</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:216pt">
-			<p>Walserijen:</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:45pt">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:45pt">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:45pt">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:36pt">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:36pt">
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:216pt">
-			<p>1° warmwalsen met een capaciteit van meer dan 20 ton ruwstaal per uur</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:45pt">
-			<p>1</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:45pt">
-			<p>M, X</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:45pt">
-			<p>A</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:36pt">
-			<p>P</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:36pt">
-			<p>J</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:216pt">
-			<p>2° overige walserijen</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:45pt">
-			<p>1</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:45pt">
-			<p>M</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:45pt">
-			<p>A</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:36pt">
-			<p>P</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:36pt">
-			<p>J</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:41.4pt">
-			<p>29.2.2</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:216pt">
-			<p>Staaldraadtrekkerijen</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:45pt">
-			<p>1</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:45pt">
-			<p>M</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:45pt">
-			<p>A</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:36pt">
-			<p>P</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:36pt">
-			<p>J</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:41.4pt">
-			<p>29.3</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:216pt">
-			<p>Non-ferrometalen:</p>
-
-			<p>(Inrichtingen voor de productie van non-ferrometalen: zie rubriek 20.2.4)</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:45pt">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:45pt">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:45pt">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:36pt">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:36pt">
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td rowspan="4" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:41.4pt">
-			<p>29.3.1</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:216pt">
-			<p>Walserijen of trekkerijen met een totale geïnstalleerde drijfkracht van:</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:45pt">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:45pt">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:45pt">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:36pt">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:36pt">
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:216pt">
-			<p>1° 5 kW tot en met 10 kW</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:45pt">
-			<p>3</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:45pt">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:45pt">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:36pt">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:36pt">
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:216pt">
-			<p>2° meer dan 10 kW tot en met 200 kW</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:45pt">
-			<p>2</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:45pt">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:45pt">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:36pt">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:36pt">
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:216pt">
-			<p>3° meer dan 200 kW</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:45pt">
-			<p>1</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:45pt">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:45pt">
-			<p>A</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:36pt">
-			<p>P</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:36pt">
-			<p>J</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:41.4pt">
-			<p>29.4</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:216pt">
-			<p>Metaalgieterijen en metaalpoeders:</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:45pt">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:45pt">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:45pt">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:36pt">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:36pt">
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td rowspan="3" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:41.4pt">
-			<p>29.4.1</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:216pt">
-			<p>Gieterijen. Met gebruik van smeltkroezen, met een totaal inhoudsvermogen van:</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:45pt">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:45pt">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:45pt">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:36pt">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:36pt">
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:216pt">
-			<p>a) 1 dm<sup>3</sup> tot en met 1 m<sup>3</sup></p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:45pt">
-			<p>2</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:45pt">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:45pt">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:36pt">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:36pt">
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:216pt">
-			<p>b) meer dan 1 m<sup>3</sup></p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:45pt">
-			<p>1</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:45pt">
-			<p>M</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:45pt">
-			<p>A</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:36pt">
-			<p>P</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:36pt">
-			<p>J</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:41.4pt">
-			<p>29.4.2</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:216pt">
-			<p>Metaalpoeders (inrichtingen voor het vervaardigen van)</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:45pt">
-			<p>2</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:45pt">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:45pt">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:36pt">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:36pt">
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:41.4pt">
-			<p>29.4.3</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:216pt">
-			<p>Inrichtingen voor het vervaardigen van metaaloxyden</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:45pt">
-			<p>1</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:45pt">
-			<p>M</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:45pt">
-			<p>A</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:36pt">
-			<p>P</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:36pt">
-			<p>J</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:41.4pt">
-			<p>29.5</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:216pt">
-			<p>Metalen of voorwerpen uit metaal (bewerking of behandeling van).</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:45pt">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:45pt">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:45pt">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:36pt">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:36pt">
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:41.4pt">
-			<p>29.5.1</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:216pt">
-			<p>Installaties voor het smeden met hamers met een slagarbeid van meer dan 50 kilojoule per hamer, wanneer een thermisch vermogen van meer dan 20 MW wordt gebruikt</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:45pt">
-			<p>1</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:45pt">
-			<p>X</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:45pt">
-			<p>N</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:36pt">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:36pt">
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td rowspan="4" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:41.4pt">
-			<p>29.5.2</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:216pt">
-			<p>Smederijen, andere dan deze bedoeld in rubriek 29.5.1 en inrichtingen voor het mechanisch behandelen van metalen en het vervaardigen van voorwerpen uit metaal met een geïnstalleerde totale drijfkracht van:</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:45pt">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:45pt">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:45pt">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:36pt">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:36pt">
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:216pt">
-			<p>1° 5 kW tot en met 10 kW</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:45pt">
-			<p>3</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:45pt">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:45pt">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:36pt">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:36pt">
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:216pt">
-			<p>2° meer dan 10 kW tot en met 200 kW</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:45pt">
-			<p>2</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:45pt">
-			<p>T</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:45pt">
-			<p>N</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:36pt">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:36pt">
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:216pt">
-			<p>3° meer dan 200 kW</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:45pt">
-			<p>1</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:45pt">
-			<p>T</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:45pt">
-			<p>N</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:36pt">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:36pt">
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td rowspan="4" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:41.4pt">
-			<p>29.5.3</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:216pt">
-			<p>Inrichtingen voor het thermisch behandelen van metalen of voorwerpen uit metaal met een thermisch vermogen van:</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:45pt">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:45pt">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:45pt">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:36pt">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:36pt">
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:216pt">
-			<p>1° 5 kW tot en met 10 kW</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:45pt">
-			<p>3</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:45pt">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:45pt">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:36pt">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:36pt">
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:216pt">
-			<p>2° meer dan 10 kW tot en met 200 kW</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:45pt">
-			<p>2</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:45pt">
-			<p>T</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:45pt">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:36pt">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:36pt">
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:216pt">
-			<p>3° meer dan 200 kW</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:45pt">
-			<p>1</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:45pt">
-			<p>T</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:45pt">
-			<p>B</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:36pt">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:36pt">
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td rowspan="4" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:41.4pt">
-			<p>29.5.4</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:216pt">
-			<p>Inrichtingen voor het fysisch behandelen van metalen of voorwerpen uit metaal of stralen met zand of andere producten (uitgezonderd het stralen van een gebouw of enige andere vaste constructie) met een geïnstalleerde totale drijfkracht van:</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:45pt">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:45pt">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:45pt">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:36pt">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:36pt">
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:216pt">
-			<p>1° 5 kW tot en met 10 kW</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:45pt">
-			<p>3</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:45pt">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:45pt">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:36pt">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:36pt">
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:216pt">
-			<p>2° meer dan 10 kW tot en met 200 kW</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:45pt">
-			<p>2</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:45pt">
-			<p>T</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:45pt">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:36pt">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:36pt">
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:216pt">
-			<p>3° meer dan 200 kW</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:45pt">
-			<p>1</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:45pt">
-			<p>T</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:45pt">
-			<p>B</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:36pt">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:36pt">
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td rowspan="5" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:41.4pt">
-			<p>29.5.5</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:216pt">
-			<p>Installaties voor oppervlaktebehandeling van metalen door middel van een elektrolytisch of chemisch procédé, wanneer de gezamenlijke inhoud van de gebruikte behandelingsbaden en spoelbaden bedraagt:</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:45pt">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:45pt">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:45pt">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:36pt">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:36pt">
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:216pt">
-			<p>1° 10 l tot en met 300 l</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:45pt">
-			<p>3</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:45pt">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:45pt">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:36pt">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:36pt">
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:216pt">
-			<p>2° meer dan 300 l tot en met 5.000 l</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:45pt">
-			<p>2</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:45pt">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:45pt">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:36pt">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:36pt">
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:216pt">
-			<p>3° meer dan 5.000 l tot en met 30.000 l</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:45pt">
-			<p>1</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:45pt">
-			<p>M</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:45pt">
-			<p>B</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:36pt">
-			<p>P</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:36pt">
-			<p>J</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:216pt">
-			<p>4° meer dan 30.000 l</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:45pt">
-			<p>1</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:45pt">
-			<p>M, X</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:45pt">
-			<p>B</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:36pt">
-			<p>P</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:36pt">
-			<p>J</p>
-			</td>
-		</tr>
-		<tr>
-			<td rowspan="6" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:41.4pt">
-			<p>29.5.6</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:216pt">
-			<p>Aanbrengen van deklagen van gesmolten metaal:</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:45pt">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:45pt">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:45pt">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:36pt">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:36pt">
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:216pt">
-			<p>a) met een verwerkingscapaciteit van meer dan 2 ton ruwstaal per uur</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:45pt">
-			<p>1</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:45pt">
-			<p>M, X</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:45pt">
-			<p>B</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:36pt">
-			<p>P</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:36pt">
-			<p>J</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:216pt">
-			<p>b) dor indompeling, in baden met een vloeibaar metaal (verzinken, vertinnen, enz.) en met een gezamenlijk inhoudsvermogen van de baden en de spoelbaden:</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:45pt">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:45pt">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:45pt">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:36pt">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:36pt">
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:216pt">
-			<p>1° 10 l tot en met 300 l</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:45pt">
-			<p>3</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:45pt">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:45pt">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:36pt">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:36pt">
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:216pt">
-			<p>2° meer dan 300 l tot en met 5.000 l</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:45pt">
-			<p>2</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:45pt">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:45pt">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:36pt">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:36pt">
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:216pt">
-			<p>3° meer dan 5.000 l</p>
-
-			<p>Er kan overlapping zijn tussen a) en b).</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:45pt">
-			<p>1</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:45pt">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:45pt">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:36pt">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:36pt">
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td rowspan="9" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:41.4pt">
-			<p>29.5.7</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:216pt">
-			<p>Ontvetten van metalen of voorwerpen van metal door middel van:</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:45pt">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:45pt">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:45pt">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:36pt">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:36pt">
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:216pt">
-			<p>a) gehalogeneerde oplosmiddelen of oplosmiddelen met een ontvlammingspunt tot en met 55° C met een totaal inhoudsvermogen van de baden en de spoelbaden van:</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:45pt">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:45pt">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:45pt">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:36pt">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:36pt">
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:216pt">
-			<p>1° 10 l tot en met 300 l</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:45pt">
-			<p>3</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:45pt">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:45pt">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:36pt">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:36pt">
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:216pt">
-			<p>2° meer dan 300 l tot en met 5.000 l</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:45pt">
-			<p>2</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:45pt">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:45pt">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:36pt">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:36pt">
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:216pt">
-			<p>3° meer dan 5.000 l</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:45pt">
-			<p>1</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:45pt">
-			<p>M</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:45pt">
-			<p>B</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:36pt">
-			<p>P</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:36pt">
-			<p>J</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:216pt">
-			<p>b) andere organische oplosmiddelen met een totaal inhoudsvermogen van de baden en de spoelbaden van:</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:45pt">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:45pt">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:45pt">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:36pt">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:36pt">
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:216pt">
-			<p>1° 10 l tot en met 300 l</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:45pt">
-			<p>3</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:45pt">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:45pt">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:36pt">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:36pt">
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:216pt">
-			<p>2° meer dan 300 l tot en met 5.000 l</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:45pt">
-			<p>2</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:45pt">
-			<p>T</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:45pt">
-			<p>N</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:36pt">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:36pt">
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:216pt">
-			<p>3° meer dan 5.000 l</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:45pt">
-			<p>1</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:45pt">
-			<p>T</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:45pt">
-			<p>B</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:36pt">
-			<p>P</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:36pt">
-			<p>J</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:41.4pt">
-			<p>29.5.8</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:216pt">
-			<p>Inrichting voor het uitstampen van metalen door middel van springstoffen</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:45pt">
-			<p>1</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:45pt">
-			<p>M</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:45pt">
-			<p>B</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:36pt">
-			<p>P</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:36pt">
-			<p>J</p>
-			</td>
-		</tr>
-	</tbody>
-</table>
-
-<p>&nbsp;</p>
-
-<p>&nbsp;</p>
+Rubriek
 
 ### rubriek 30
 
@@ -20276,7 +20781,7 @@ J = Inrichting waarvoor overeenkomstig titel II van het VLAREM een milieujaarver
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:32.4pt">
+			<td rowspan="4" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:32.4pt">
 			<p>31.1</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:225pt">
@@ -20299,9 +20804,6 @@ J = Inrichting waarvoor overeenkomstig titel II van het VLAREM een milieujaarver
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:32.4pt">
-			<p>&nbsp;</p>
-			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:225pt">
 			<p>1° 10 kW tot en met 500 kW</p>
 			</td>
@@ -20322,9 +20824,6 @@ J = Inrichting waarvoor overeenkomstig titel II van het VLAREM een milieujaarver
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:32.4pt">
-			<p>&nbsp;</p>
-			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:225pt">
 			<p>2° meer dan 500 kW</p>
 			</td>
@@ -20345,7 +20844,29 @@ J = Inrichting waarvoor overeenkomstig titel II van het VLAREM een milieujaarver
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:32.4pt">
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:225pt">
+			<p>3° Turbines met een hoeveelheid vrijkomende warmte van meer dan 50 MW</p>
+
+			<p>Er kan overlapping zijn met sub 2°.</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:45pt">
+			<p>1</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:45pt">
+			<p>M, X</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:45pt">
+			<p>B</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:36pt">
+			<p>P</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:36pt">
+			<p>J</p>
+			</td>
+		</tr>
+		<tr>
+			<td rowspan="3" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:32.4pt">
 			<p>31.2</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:225pt">
@@ -20368,9 +20889,6 @@ J = Inrichting waarvoor overeenkomstig titel II van het VLAREM een milieujaarver
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:32.4pt">
-			<p>&nbsp;</p>
-			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:225pt">
 			<p>a) meer dan 50 kW tot en met 20 MW</p>
 			</td>
@@ -20391,11 +20909,33 @@ J = Inrichting waarvoor overeenkomstig titel II van het VLAREM een milieujaarver
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:32.4pt">
-			<p>&nbsp;</p>
-			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:225pt">
 			<p>b) meer dan 20 MW</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:45pt">
+			<p>1</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:45pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:45pt">
+			<p>B</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:36pt">
+			<p>P</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:36pt">
+			<p>J</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:32.4pt">
+			<p>31.3</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:225pt">
+			<p>Testbanken voor motoren, turbines of reactoren als motoren met een stuwkracht van 500 kN of meer, of met een vermogen van 10 MW of meer.</p>
+
+			<p>Er kan overlapping zijn met subrubriek 31.2.</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:45pt">
 			<p>1</p>
@@ -21206,7 +21746,7 @@ J = Inrichting waarvoor overeenkomstig titel II van het VLAREM een milieujaarver
 			</td>
 		</tr>
 		<tr>
-			<td rowspan="9" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:41.4pt">
+			<td rowspan="10" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:41.4pt">
 			<p>32.9</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:216pt">
@@ -21230,7 +21770,7 @@ J = Inrichting waarvoor overeenkomstig titel II van het VLAREM een milieujaarver
 		</tr>
 		<tr>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:216pt">
-			<p>1° omlopen waarop per jaar hoogstens één wedstrijd met bijhorende oefenritten of oefenvaarten op de dag zelf of de dag ervoor plaatsvinden of waarop met maximum één voertuig of boot gelijktijdig wordt <strong>[</strong>gereden, respectievelijk gevaren <em>(verv. B.V.R. 15 juni 1999, art. 5, I: 1 mei 1999)</em><strong>]</strong></p>
+			<p>1° omlopen waarop per jaar hoogstens één wedstrijd met bijhorende oefenritten of oefenvaarten op de dag zelf of de dag ervoor plaatsvinden of waarop met maximum één voertuig of boot gelijktijdig wordt gereden, respectievelijk gevaren</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:45pt">
 			<p>&nbsp;</p>
@@ -21270,7 +21810,7 @@ J = Inrichting waarvoor overeenkomstig titel II van het VLAREM een milieujaarver
 		</tr>
 		<tr>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:216pt">
-			<p><strong>[</strong>3° permanente omlopen voor gemotoriseerde vaar- en/of voertuigen met een geluidsemissie van maximum 98 db en voor outdoorcartings; <em>(verv. B.V.R. 15 juni 1999, art. 5, I: 1 mei 1999)</em><strong>]</strong></p>
+			<p>3° permanente omlopen voor gemotoriseerde vaar- en/of voertuigen met een geluidsemissie van maximum 98 db en voor outdoorcartings;</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:45pt">
 			<p>&nbsp;</p>
@@ -21293,7 +21833,7 @@ J = Inrichting waarvoor overeenkomstig titel II van het VLAREM een milieujaarver
 			<p>a) gebruikt voor recreatie</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:45pt">
-			<p><strong>[</strong>2 <em>(verv. </em><em>B.V.R. 15 juni 1999, art. 5, I: 1 mei 1999)</em><strong>]</strong></p>
+			<p>2</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:45pt">
 			<p>&nbsp;</p>
@@ -21313,7 +21853,7 @@ J = Inrichting waarvoor overeenkomstig titel II van het VLAREM een milieujaarver
 			<p>b) race- en testbanen voor gemotoriseerde voertuigen, met inbegrip van oefenritten</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:45pt">
-			<p><strong>[</strong>2 <em>(verv. </em><em>B.V.R. 15 juni 1999, art. 5, I: 1 mei 1999)</em><strong>]</strong></p>
+			<p>2</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:45pt">
 			<p>&nbsp;</p>
@@ -21333,7 +21873,7 @@ J = Inrichting waarvoor overeenkomstig titel II van het VLAREM een milieujaarver
 			<p>c) waarop meer dan drie wedstrijden per jaar en de erbijhorende oefenritten of oefenvaarten plaatsvinden</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:45pt">
-			<p><strong>[</strong>2 <em>(verv. </em><em>B.V.R. 15 juni 1999, art. 5, I: 1 mei 1999)</em><strong>]</strong></p>
+			<p>2</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:45pt">
 			<p>&nbsp;</p>
@@ -21353,7 +21893,7 @@ J = Inrichting waarvoor overeenkomstig titel II van het VLAREM een milieujaarver
 			<p>d) waarop één of meer van voormelde activiteiten plaatsvindt</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:45pt">
-			<p><strong>[</strong>2 <em>(verv. </em><em>B.V.R. 15 juni 1999, art. 5, I: 1 mei 1999)</em><strong>]</strong></p>
+			<p>2</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:45pt">
 			<p>&nbsp;</p>
@@ -21370,7 +21910,29 @@ J = Inrichting waarvoor overeenkomstig titel II van het VLAREM een milieujaarver
 		</tr>
 		<tr>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:216pt">
-			<p><strong>[</strong>4° permanente omlopen voor gemotoriseerde vaar- en/of voertuigen met een geluidsemissie van meer dan 98 db, uitgezonderd outdoorcartings <em>(ing. B.V.R. 15 juni 1999, art. 5, I: 1 mei 1999)</em><strong>]</strong></p>
+			<p>4° permanente omlopen voor gemotoriseerde vaar- en/of voertuigen met een geluidsemissie van meer dan 98 db, uitgezonderd outdoorcartings</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:45pt">
+			<p>1</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:45pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:45pt">
+			<p>N</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:36pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:36pt">
+			<p>&nbsp;</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:216pt">
+			<p>5° Permanente race- en testbanen voor gemotoriseerde voertuigen met een oppervlakte van 5 ha of meer.</p>
+
+			<p>Er kan een overlapping zijn met andere deelrubrieken van subrubriek 32.9.</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:45pt">
 			<p>1</p>
@@ -22282,7 +22844,7 @@ J = Inrichting waarvoor overeenkomstig titel II van het VLAREM een milieujaarver
 	<tbody>
 		<tr>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; width:32.4pt">
-			<p>Ru-briek<!--?xml:namespace prefix =         o ns = "urn:schemas-microsoft-com:office:office"       /--></p>
+			<p>Ru-briek<!--?xml:namespace prefix         = o ns = "urn:schemas-microsoft-com:office:office"       /--></p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; width:225pt">
 			<p>Omschrijving en subrubrieken</p>
@@ -22373,11 +22935,11 @@ J = Inrichting waarvoor overeenkomstig titel II van het VLAREM een milieujaarver
 			</td>
 		</tr>
 		<tr>
-			<td rowspan="4" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:32.4pt">
+			<td rowspan="9" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:32.4pt">
 			<p>36.3</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:225pt">
-			<p>Inrichtingen voor het vervaardigen of behandelen van andere producten op basis van elastomeren met een geïnstalleerde totale drijfkracht van:</p>
+			<p>Inrichtingen voor het vervaardigen en behandelen van producten op basis van elastomeren:</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:45pt">
 			<p>&nbsp;</p>
@@ -22396,12 +22958,112 @@ J = Inrichting waarvoor overeenkomstig titel II van het VLAREM een milieujaarver
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:225pt">
-			<p>1° 5 kW tot en met 10 kW</p>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:225pt">
+			<p>1° met een geïnstalleerde totale drijfkracht:</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:45pt">
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:45pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:45pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:45pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:36pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:36pt">
+			<p>&nbsp;</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:225pt">
+			<p>a) 5 kW tot en met 10 kW</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:45pt">
 			<p>3</p>
 			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:45pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:45pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:36pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:36pt">
+			<p>&nbsp;</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:225pt">
+			<p>b) van meer dan 10 kW tot en met 200 kW</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:45pt">
+			<p>2</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:45pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:45pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:36pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:36pt">
+			<p>&nbsp;</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:225pt">
+			<p>c) meer dan 200 kW</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:45pt">
+			<p>1</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:45pt">
+			<p>M</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:45pt">
+			<p>B</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:36pt">
+			<p>P</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:36pt">
+			<p>J</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:225pt">
+			<p>2° met een verwerkingscapaciteit van 100.000 ton per jaar of meer</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:45pt">
+			<p>1</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:45pt">
+			<p>M</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:45pt">
+			<p>B</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:36pt">
+			<p>P</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:36pt">
+			<p>J</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:225pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:45pt">
+			<p>&nbsp;</p>
+			</td>
 			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:45pt">
 			<p>&nbsp;</p>
 			</td>
@@ -22417,10 +23079,10 @@ J = Inrichting waarvoor overeenkomstig titel II van het VLAREM een milieujaarver
 		</tr>
 		<tr>
 			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:225pt">
-			<p>2° meer dan 10 kW tot en met 200 kW</p>
+			<p>&nbsp;</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:45pt">
-			<p>2</p>
+			<p>&nbsp;</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:45pt">
 			<p>&nbsp;</p>
@@ -22437,22 +23099,22 @@ J = Inrichting waarvoor overeenkomstig titel II van het VLAREM een milieujaarver
 		</tr>
 		<tr>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:225pt">
-			<p>3° meer dan 200 kW</p>
+			<p>&nbsp;</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:45pt">
-			<p>1</p>
+			<p>&nbsp;</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:45pt">
-			<p>M</p>
+			<p>&nbsp;</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:45pt">
-			<p>B</p>
+			<p>&nbsp;</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:36pt">
-			<p>P</p>
+			<p>&nbsp;</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:36pt">
-			<p>J</p>
+			<p>&nbsp;</p>
 			</td>
 		</tr>
 		<tr>
@@ -23356,25 +24018,25 @@ J = Inrichting waarvoor overeenkomstig titel II van het VLAREM een milieujaarver
 <table border="1" cellpadding="0" cellspacing="0" style="border-collapse:collapse">
 	<tbody>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; height:14.2pt; width:33.3pt">
-			<p>Ru-briek<!--?xml:namespace prefix =         o ns = "urn:schemas-microsoft-com:office:office"       /--></p>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; height:14.2pt; vertical-align:top; width:33.3pt">
+			<p>Ru-briek<!--?xml:namespace prefix         = o ns = "urn:schemas-microsoft-com:office:office"       /--></p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; height:14.2pt; width:225pt">
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; height:14.2pt; vertical-align:top; width:225pt">
 			<p>Omschrijving en subrubrieken</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; height:14.2pt; width:45pt">
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; height:14.2pt; vertical-align:top; width:45pt">
 			<p>Klasse</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; height:14.2pt; width:45pt">
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; height:14.2pt; vertical-align:top; width:45pt">
 			<p>Bemer-kingen</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; height:14.2pt; width:45pt">
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; height:14.2pt; vertical-align:top; width:45pt">
 			<p>Coördi-nator</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; height:14.2pt; width:36pt">
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; height:14.2pt; vertical-align:top; width:36pt">
 			<p>Audit</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; height:14.2pt; width:36pt">
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; height:14.2pt; vertical-align:top; width:36pt">
 			<p>Jaar-ver-slag</p>
 			</td>
 		</tr>
@@ -23405,82 +24067,82 @@ J = Inrichting waarvoor overeenkomstig titel II van het VLAREM een milieujaarver
 			<td rowspan="4" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; vertical-align:top; width:33.3pt">
 			<p>41.1.</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; width:225pt">
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; vertical-align:top; width:225pt">
 			<p>Inrichtingen voor het mechanisch behandelen van textiel met een geïnstalleerde totale drijfkracht van:</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; vertical-align:bottom; width:45pt">
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; vertical-align:top; width:45pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; vertical-align:bottom; width:45pt">
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; vertical-align:top; width:45pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; vertical-align:bottom; width:45pt">
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; vertical-align:top; width:45pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; vertical-align:bottom; width:36pt">
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; vertical-align:top; width:36pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; vertical-align:bottom; width:36pt">
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; vertical-align:top; width:36pt">
 			<p>&nbsp;</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; width:225pt">
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; vertical-align:top; width:225pt">
 			<p>1° 5 kW tot en met 10 kW</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; vertical-align:bottom; width:45pt">
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; vertical-align:top; width:45pt">
 			<p>3</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; vertical-align:bottom; width:45pt">
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; vertical-align:top; width:45pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; vertical-align:bottom; width:45pt">
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; vertical-align:top; width:45pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; vertical-align:bottom; width:36pt">
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; vertical-align:top; width:36pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; vertical-align:bottom; width:36pt">
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; vertical-align:top; width:36pt">
 			<p>&nbsp;</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; width:225pt">
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; vertical-align:top; width:225pt">
 			<p>2° meer dan 10 kW tot en met 200 kW</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; vertical-align:bottom; width:45pt">
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; vertical-align:top; width:45pt">
 			<p>2</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; vertical-align:bottom; width:45pt">
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; vertical-align:top; width:45pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; vertical-align:bottom; width:45pt">
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; vertical-align:top; width:45pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; vertical-align:bottom; width:36pt">
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; vertical-align:top; width:36pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; vertical-align:bottom; width:36pt">
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; vertical-align:top; width:36pt">
 			<p>&nbsp;</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; width:225pt">
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; vertical-align:top; width:225pt">
 			<p>3° meer dan 200 kW</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; vertical-align:bottom; width:45pt">
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; vertical-align:top; width:45pt">
 			<p>1</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; vertical-align:bottom; width:45pt">
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; vertical-align:top; width:45pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; vertical-align:bottom; width:45pt">
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; vertical-align:top; width:45pt">
 			<p>B</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; vertical-align:bottom; width:36pt">
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; vertical-align:top; width:36pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; vertical-align:bottom; width:36pt">
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; vertical-align:top; width:36pt">
 			<p>&nbsp;</p>
 			</td>
 		</tr>
@@ -23488,82 +24150,82 @@ J = Inrichting waarvoor overeenkomstig titel II van het VLAREM een milieujaarver
 			<td rowspan="4" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; vertical-align:top">
 			<p>41.2.</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; width:225pt">
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; vertical-align:top; width:225pt">
 			<p>Inrichtingen voor het vervaardigen van weefsels, breiwerk, vlechtwerk, textielwaren en soortgelijke producten met een totale drijfkracht van:</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; vertical-align:bottom; width:45pt">
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; vertical-align:top; width:45pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; vertical-align:bottom; width:45pt">
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; vertical-align:top; width:45pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; vertical-align:bottom; width:45pt">
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; vertical-align:top; width:45pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; vertical-align:bottom; width:36pt">
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; vertical-align:top; width:36pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; vertical-align:bottom; width:36pt">
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; vertical-align:top; width:36pt">
 			<p>&nbsp;</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; width:225pt">
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; vertical-align:top; width:225pt">
 			<p>1° 5 kW tot en met 10 kW</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; vertical-align:bottom; width:45pt">
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; vertical-align:top; width:45pt">
 			<p>3</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; vertical-align:bottom; width:45pt">
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; vertical-align:top; width:45pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; vertical-align:bottom; width:45pt">
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; vertical-align:top; width:45pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; vertical-align:bottom; width:36pt">
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; vertical-align:top; width:36pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; vertical-align:bottom; width:36pt">
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; vertical-align:top; width:36pt">
 			<p>&nbsp;</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; width:225pt">
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; vertical-align:top; width:225pt">
 			<p>2° meer dan 10 kW tot en met 200 kW</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; vertical-align:bottom; width:45pt">
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; vertical-align:top; width:45pt">
 			<p>2</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; vertical-align:bottom; width:45pt">
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; vertical-align:top; width:45pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; vertical-align:bottom; width:45pt">
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; vertical-align:top; width:45pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; vertical-align:bottom; width:36pt">
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; vertical-align:top; width:36pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; vertical-align:bottom; width:36pt">
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; vertical-align:top; width:36pt">
 			<p>&nbsp;</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; width:225pt">
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; vertical-align:top; width:225pt">
 			<p>3° meer dan 200 kW</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; vertical-align:bottom; width:45pt">
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; vertical-align:top; width:45pt">
 			<p>1</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; vertical-align:bottom; width:45pt">
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; vertical-align:top; width:45pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; vertical-align:bottom; width:45pt">
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; vertical-align:top; width:45pt">
 			<p>b</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; vertical-align:bottom; width:36pt">
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; vertical-align:top; width:36pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; vertical-align:bottom; width:36pt">
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; vertical-align:top; width:36pt">
 			<p>&nbsp;</p>
 			</td>
 		</tr>
@@ -23571,82 +24233,82 @@ J = Inrichting waarvoor overeenkomstig titel II van het VLAREM een milieujaarver
 			<td rowspan="4" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; vertical-align:top">
 			<p>41.3.</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; width:225pt">
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; vertical-align:top; width:225pt">
 			<p>Wolontvettingsfabrieken, wolwasserijen, alsmede het kammen en/of carboniseren van wol met een totale drijfkracht van:</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; vertical-align:bottom; width:45pt">
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; vertical-align:top; width:45pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; vertical-align:bottom; width:45pt">
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; vertical-align:top; width:45pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; vertical-align:bottom; width:45pt">
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; vertical-align:top; width:45pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; vertical-align:bottom; width:36pt">
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; vertical-align:top; width:36pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; vertical-align:bottom; width:36pt">
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; vertical-align:top; width:36pt">
 			<p>&nbsp;</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; width:225pt">
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; vertical-align:top; width:225pt">
 			<p>1° 5 kW tot en met 10 kW</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; vertical-align:bottom; width:45pt">
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; vertical-align:top; width:45pt">
 			<p>3</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; vertical-align:bottom; width:45pt">
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; vertical-align:top; width:45pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; vertical-align:bottom; width:45pt">
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; vertical-align:top; width:45pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; vertical-align:bottom; width:36pt">
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; vertical-align:top; width:36pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; vertical-align:bottom; width:36pt">
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; vertical-align:top; width:36pt">
 			<p>&nbsp;</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; width:225pt">
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; vertical-align:top; width:225pt">
 			<p>2° meer dan 10 kW tot en met 200 kW</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; vertical-align:bottom; width:45pt">
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; vertical-align:top; width:45pt">
 			<p>2</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; vertical-align:bottom; width:45pt">
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; vertical-align:top; width:45pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; vertical-align:bottom; width:45pt">
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; vertical-align:top; width:45pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; vertical-align:bottom; width:36pt">
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; vertical-align:top; width:36pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; vertical-align:bottom; width:36pt">
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; vertical-align:top; width:36pt">
 			<p>&nbsp;</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; width:225pt">
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; vertical-align:top; width:225pt">
 			<p>3° meer dan 200 kW</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; vertical-align:bottom; width:45pt">
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; vertical-align:top; width:45pt">
 			<p>1</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; vertical-align:bottom; width:45pt">
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; vertical-align:top; width:45pt">
 			<p>M</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; vertical-align:bottom; width:45pt">
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; vertical-align:top; width:45pt">
 			<p>B</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; vertical-align:bottom; width:36pt">
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; vertical-align:top; width:36pt">
 			<p>P</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; vertical-align:bottom; width:36pt">
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; vertical-align:top; width:36pt">
 			<p>J</p>
 			</td>
 		</tr>
@@ -23656,82 +24318,82 @@ J = Inrichting waarvoor overeenkomstig titel II van het VLAREM een milieujaarver
 
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; width:225pt">
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; vertical-align:top; width:225pt">
 			<p>Inrichtingen voor het chemisch reinigen, voorbehandelen en behandelen van textiel, alsmede textielveredeling (uitgezonderd de inrichtingen bedoeld in rubriek 41.9 en 46) met een totale drijfkracht van:</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; vertical-align:bottom; width:45pt">
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; vertical-align:top; width:45pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; vertical-align:bottom; width:45pt">
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; vertical-align:top; width:45pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; vertical-align:bottom; width:45pt">
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; vertical-align:top; width:45pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; vertical-align:bottom; width:36pt">
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; vertical-align:top; width:36pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; vertical-align:bottom; width:36pt">
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; vertical-align:top; width:36pt">
 			<p>&nbsp;</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; width:225pt">
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; vertical-align:top; width:225pt">
 			<p>1° 5 kW tot en met 10 kW</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; vertical-align:bottom; width:45pt">
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; vertical-align:top; width:45pt">
 			<p>3</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; vertical-align:bottom; width:45pt">
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; vertical-align:top; width:45pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; vertical-align:bottom; width:45pt">
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; vertical-align:top; width:45pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; vertical-align:bottom; width:36pt">
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; vertical-align:top; width:36pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; vertical-align:bottom; width:36pt">
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; vertical-align:top; width:36pt">
 			<p>&nbsp;</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; width:225pt">
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; vertical-align:top; width:225pt">
 			<p>2° meer dan 10 kW tot en met 200 kW</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; vertical-align:bottom; width:45pt">
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; vertical-align:top; width:45pt">
 			<p>2</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; vertical-align:bottom; width:45pt">
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; vertical-align:top; width:45pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; vertical-align:bottom; width:45pt">
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; vertical-align:top; width:45pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; vertical-align:bottom; width:36pt">
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; vertical-align:top; width:36pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; vertical-align:bottom; width:36pt">
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; vertical-align:top; width:36pt">
 			<p>&nbsp;</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; width:225pt">
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; vertical-align:top; width:225pt">
 			<p>3° meer dan 200 Kw</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; vertical-align:bottom; width:45pt">
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; vertical-align:top; width:45pt">
 			<p>1</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; vertical-align:bottom; width:45pt">
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; vertical-align:top; width:45pt">
 			<p>M</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; vertical-align:bottom; width:45pt">
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; vertical-align:top; width:45pt">
 			<p>B</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; vertical-align:bottom; width:36pt">
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; vertical-align:top; width:36pt">
 			<p>P</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; vertical-align:bottom; width:36pt">
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; vertical-align:top; width:36pt">
 			<p>J</p>
 			</td>
 		</tr>
@@ -23741,22 +24403,22 @@ J = Inrichting waarvoor overeenkomstig titel II van het VLAREM een milieujaarver
 
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; width:225pt">
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; vertical-align:top; width:225pt">
 			<p>Opslagplaats voor textiel en voor textielwaren met een capaciteit van meer dan 10 ton</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; vertical-align:bottom; width:45pt">
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; vertical-align:top; width:45pt">
 			<p>3</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; vertical-align:bottom; width:45pt">
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; vertical-align:top; width:45pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; vertical-align:bottom; width:45pt">
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; vertical-align:top; width:45pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; vertical-align:bottom; width:36pt">
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; vertical-align:top; width:36pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; vertical-align:bottom; width:36pt">
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; vertical-align:top; width:36pt">
 			<p>&nbsp;</p>
 			</td>
 		</tr>
@@ -23764,82 +24426,82 @@ J = Inrichting waarvoor overeenkomstig titel II van het VLAREM een milieujaarver
 			<td rowspan="4" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; vertical-align:top">
 			<p>41.6.</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; width:225pt">
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; vertical-align:top; width:225pt">
 			<p>Inrichtingen voor het vervaardigen van tapijten met een geïnstalleerde totale drijfkracht van:</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; vertical-align:bottom; width:45pt">
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; vertical-align:top; width:45pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; vertical-align:bottom; width:45pt">
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; vertical-align:top; width:45pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; vertical-align:bottom; width:45pt">
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; vertical-align:top; width:45pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; vertical-align:bottom; width:36pt">
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; vertical-align:top; width:36pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; vertical-align:bottom; width:36pt">
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; vertical-align:top; width:36pt">
 			<p>&nbsp;</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; width:225pt">
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; vertical-align:top; width:225pt">
 			<p>1° 5 kW tot en met 10 kW</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; vertical-align:bottom; width:45pt">
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; vertical-align:top; width:45pt">
 			<p>3</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; vertical-align:bottom; width:45pt">
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; vertical-align:top; width:45pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; vertical-align:bottom; width:45pt">
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; vertical-align:top; width:45pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; vertical-align:bottom; width:36pt">
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; vertical-align:top; width:36pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; vertical-align:bottom; width:36pt">
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; vertical-align:top; width:36pt">
 			<p>&nbsp;</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; width:225pt">
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; vertical-align:top; width:225pt">
 			<p>2° meer dan 10 kW tot en met 200 kW</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; vertical-align:bottom; width:45pt">
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; vertical-align:top; width:45pt">
 			<p>2</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; vertical-align:bottom; width:45pt">
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; vertical-align:top; width:45pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; vertical-align:bottom; width:45pt">
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; vertical-align:top; width:45pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; vertical-align:bottom; width:36pt">
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; vertical-align:top; width:36pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; vertical-align:bottom; width:36pt">
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; vertical-align:top; width:36pt">
 			<p>&nbsp;</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; width:225pt">
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; vertical-align:top; width:225pt">
 			<p>3° meer dan 200 kW</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; vertical-align:bottom; width:45pt">
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; vertical-align:top; width:45pt">
 			<p>1</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; vertical-align:bottom; width:45pt">
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; vertical-align:top; width:45pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; vertical-align:bottom; width:45pt">
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; vertical-align:top; width:45pt">
 			<p>B</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; vertical-align:bottom; width:36pt">
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; vertical-align:top; width:36pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; vertical-align:bottom; width:36pt">
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; vertical-align:top; width:36pt">
 			<p>&nbsp;</p>
 			</td>
 		</tr>
@@ -23847,22 +24509,22 @@ J = Inrichting waarvoor overeenkomstig titel II van het VLAREM een milieujaarver
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; vertical-align:top">
 			<p>41.7.</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; width:225pt">
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; vertical-align:top; width:225pt">
 			<p>Inrichtingen voor het aanbrengen van een kunststofonderlaag bij tapijten met uitzondering van de precoat voor de poolverankering en de secundaire backing van textiel</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; vertical-align:bottom; width:45pt">
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; vertical-align:top; width:45pt">
 			<p>1</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; vertical-align:bottom; width:45pt">
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; vertical-align:top; width:45pt">
 			<p>M</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; vertical-align:bottom; width:45pt">
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; vertical-align:top; width:45pt">
 			<p>B</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; vertical-align:bottom; width:36pt">
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; vertical-align:top; width:36pt">
 			<p>P</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; vertical-align:bottom; width:36pt">
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; vertical-align:top; width:36pt">
 			<p>J</p>
 			</td>
 		</tr>
@@ -23870,22 +24532,22 @@ J = Inrichting waarvoor overeenkomstig titel II van het VLAREM een milieujaarver
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; vertical-align:top">
 			<p>41.8.</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; width:225pt">
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; vertical-align:top; width:225pt">
 			<p>Inrichtingen voor het roten van vlas, hennep en dergelijke vezelstoffen</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; vertical-align:bottom; width:45pt">
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; vertical-align:top; width:45pt">
 			<p>2</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; vertical-align:bottom; width:45pt">
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; vertical-align:top; width:45pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; vertical-align:bottom; width:45pt">
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; vertical-align:top; width:45pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; vertical-align:bottom; width:36pt">
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; vertical-align:top; width:36pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; vertical-align:bottom; width:36pt">
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; vertical-align:top; width:36pt">
 			<p>&nbsp;</p>
 			</td>
 		</tr>
@@ -23893,125 +24555,132 @@ J = Inrichting waarvoor overeenkomstig titel II van het VLAREM een milieujaarver
 			<td rowspan="4" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; vertical-align:top">
 			<p>41.9.</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; width:225pt">
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; vertical-align:top; width:225pt">
 			<p>Productie van viscose (cellulosenatriumxanthogenaat) voor vezels, filamentgaren, film, sponsen, kunstdarmen, enz. alsmede installaties voor het produceren en bewerken van celstof:</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; vertical-align:bottom; width:45pt">
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; vertical-align:top; width:45pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; vertical-align:bottom; width:45pt">
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; vertical-align:top; width:45pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; vertical-align:bottom; width:45pt">
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; vertical-align:top; width:45pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; vertical-align:bottom; width:36pt">
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; vertical-align:top; width:36pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; vertical-align:bottom; width:36pt">
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; vertical-align:top; width:36pt">
 			<p>&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; width:225pt">
-			<p>1° 5 kW tot en met 10 kW</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; vertical-align:bottom; width:45pt">
-			<p>3</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; vertical-align:bottom; width:45pt">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; vertical-align:bottom; width:45pt">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; vertical-align:bottom; width:36pt">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; vertical-align:bottom; width:36pt">
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; width:225pt">
-			<p>2° meer dan 10 kW tot en met 200 kW</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; vertical-align:bottom; width:45pt">
-			<p>2</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; vertical-align:bottom; width:45pt">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; vertical-align:bottom; width:45pt">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; vertical-align:bottom; width:36pt">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; vertical-align:bottom; width:36pt">
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; width:225pt">
-			<p>3° meer dan 200 kW</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; vertical-align:bottom; width:45pt">
-			<p>1</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; vertical-align:bottom; width:45pt">
-			<p>M</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; vertical-align:bottom; width:45pt">
-			<p>A</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; vertical-align:bottom; width:36pt">
-			<p>P</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; vertical-align:bottom; width:36pt">
-			<p>J</p>
-			</td>
-		</tr>
-		<tr>
-			<td rowspan="2" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; vertical-align:top">
-			<p>41.10.</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; width:225pt">
-			<p>Installaties voor de voorbehandeling (zoals wassen, bleken, merceriseren) of het verven van vezels of textiel met een verwerkingscapaciteit van meer dan 10 ton per dag.</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; vertical-align:bottom; width:45pt">
-			<p>1</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; vertical-align:bottom; width:45pt">
-			<p>M, X</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; vertical-align:bottom; width:45pt">
-			<p>A</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; vertical-align:bottom; width:36pt">
-			<p>P</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; vertical-align:bottom; width:36pt">
-			<p>J</p>
 			</td>
 		</tr>
 		<tr>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; vertical-align:top; width:225pt">
+			<p>1° 5 kW tot en met 10 kW</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; vertical-align:top; width:45pt">
+			<p>3</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; vertical-align:top; width:45pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; vertical-align:top; width:45pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; vertical-align:top; width:36pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; vertical-align:top; width:36pt">
+			<p>&nbsp;</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; vertical-align:top; width:225pt">
+			<p>2° meer dan 10 kW tot en met 200 kW</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; vertical-align:top; width:45pt">
+			<p>2</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; vertical-align:top; width:45pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; vertical-align:top; width:45pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; vertical-align:top; width:36pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; vertical-align:top; width:36pt">
+			<p>&nbsp;</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; vertical-align:top; width:225pt">
+			<p>3° meer dan 200 kW</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; vertical-align:top; width:45pt">
+			<p>1</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; vertical-align:top; width:45pt">
+			<p>M</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; vertical-align:top; width:45pt">
+			<p>A</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; vertical-align:top; width:36pt">
+			<p>P</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; vertical-align:top; width:36pt">
+			<p>J</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; vertical-align:top">
+			<p>41.10</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; vertical-align:top; width:225pt">
+			<p>Installaties voor de voorbehandeling (zoals wassen, bleken, merceriseren) of het verven van vezels of textiel met een verwerkingscapaciteit van meer dan 10 ton per dag.</p>
+
 			<p>Er kan overlapping zijn met andere rubrieken van hoofdrubriek 41.</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; vertical-align:bottom; width:45pt">
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; vertical-align:top; width:45pt">
+			<p>1</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; vertical-align:top; width:45pt">
+			<p>M, X</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; vertical-align:top; width:45pt">
+			<p>A</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; vertical-align:top; width:36pt">
+			<p>P</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; vertical-align:top; width:36pt">
+			<p>J</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; vertical-align:top">
+			<p>41.11.</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; vertical-align:top; width:225pt">
+			<p>Installaties voor het produceren en bewerken van celstof met een productiecapaciteit van 100 ton per dag en meer.</p>
+
+			<p>Er kan overlapping zijn met een of meer deelrubrieken van rubriek 41.</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; vertical-align:top; width:45pt">
+			<p>1</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; vertical-align:top; width:45pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; vertical-align:bottom; width:45pt">
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; vertical-align:top; width:45pt">
+			<p>B</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; vertical-align:top; width:36pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; vertical-align:bottom; width:45pt">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; vertical-align:bottom; width:36pt">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; vertical-align:bottom; width:36pt">
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; vertical-align:top; width:36pt">
 			<p>&nbsp;</p>
 			</td>
 		</tr>
@@ -24830,7 +25499,7 @@ J = Inrichting waarvoor overeenkomstig titel II van het VLAREM een milieujaarver
 			</td>
 		</tr>
 		<tr>
-			<td rowspan="8" style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:44.6pt">
+			<td rowspan="9" style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:44.6pt">
 			<p>45.1.</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; width:213.7pt">
@@ -24984,6 +25653,26 @@ J = Inrichting waarvoor overeenkomstig titel II van het VLAREM een milieujaarver
 			</td>
 			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:bottom; width:45pt">
 			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:bottom; width:36pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:bottom; width:36pt">
+			<p>&nbsp;</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; width:213.7pt">
+			<p>e) met een verwerkingscapaciteit van 30.000 ton levend gewicht per jaar of meer (er kan overlapping zijn met a), b) of c).</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:45pt">
+			<p>1</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:45pt">
+			<p>G</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:45pt">
+			<p>B</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:bottom; width:36pt">
 			<p>&nbsp;</p>
@@ -26635,7 +27324,7 @@ J = Inrichting waarvoor overeenkomstig titel II van het VLAREM een milieujaarver
 			</td>
 		</tr>
 		<tr>
-			<td rowspan="3" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:44.6pt">
+			<td rowspan="3" style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:44.6pt">
 			<p>45.16.</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; width:213.7pt">
@@ -26678,23 +27367,188 @@ J = Inrichting waarvoor overeenkomstig titel II van het VLAREM een milieujaarver
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; width:213.7pt">
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; width:213.7pt">
 			<p>2° plantaardige grondstoffen met een productiecapaciteit van meer dan 300 ton per dag eindproducten (gemiddelde waarde op driemaandelijkse basis)</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:45pt">
+			<p>1</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:45pt">
+			<p>X</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:45pt">
+			<p>B</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:36pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:36pt">
+			<p>&nbsp;</p>
+			</td>
+		</tr>
+		<tr>
+			<td rowspan="8" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top">
+			<p>45.17</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; width:213.7pt">
+			<p>Volgende inrichtingen uit de voedings- en genotmiddelenindustrie:</p>
+
+			<p>Er kan overlapping zijn met een of meer subrubrieken van de rubrieken 44 en 45.</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:45pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:45pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:45pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:36pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:36pt">
+			<p>&nbsp;</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; width:213.7pt">
+			<p>1° Inrichtingen voor het vervaardigen van plantaardige of dierlijke oliën en vetten met een productiecapaciteit van 60.000 ton per jaar of meer</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:45pt">
+			<p>1</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:45pt">
+			<p>M</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:45pt">
+			<p>B</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:36pt">
+			<p>P</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:36pt">
+			<p>J</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; width:213.7pt">
+			<p>2° Inrichtingen voor het conserveren van dierlijke en/of plantaardige producten met een productiecapaciteit van 100.000 ton per jaar of meer</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:45pt">
+			<p>1</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:45pt">
+			<p>M</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:45pt">
+			<p>B</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:36pt">
+			<p>P</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:36pt">
+			<p>J</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; width:213.7pt">
+			<p>3° Zuivelfabrieken met een productiecapaciteit van 100.000 ton per jaar of meer</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:45pt">
+			<p>1</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:45pt">
+			<p>M</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:45pt">
+			<p>B</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:36pt">
+			<p>P</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:36pt">
+			<p>J</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; width:213.7pt">
+			<p>4° Suikerwarenfabrieken met een productiecapaciteit van 90.000 ton per jaar of meer</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:45pt">
+			<p>1</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:45pt">
+			<p>M</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:45pt">
+			<p>B</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:36pt">
+			<p>P</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:36pt">
+			<p>J</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; width:213.7pt">
+			<p>5° Siroop- of frisdrankenfabrieken met een productiecapaciteit van 75 miljoen liter per jaar of meer</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:45pt">
+			<p>1</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:45pt">
+			<p>M</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:45pt">
+			<p>B</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:36pt">
+			<p>P</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:36pt">
+			<p>J</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; width:213.7pt">
+			<p>6° Vismeel- en visoliefabrieken met een productiecapaciteit van 10.000 ton per jaar of meer</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:45pt">
+			<p>1</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:45pt">
+			<p>M</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:45pt">
+			<p>B</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:36pt">
+			<p>P</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:36pt">
+			<p>J</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; width:213.7pt">
+			<p>7° Suikerfabrieken met een productiecapaciteit van 500 ton per dag of meer</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:45pt">
 			<p>1</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:45pt">
-			<p>X</p>
+			<p>M</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:45pt">
 			<p>B</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:36pt">
-			<p>&nbsp;</p>
+			<p>P</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:36pt">
-			<p>&nbsp;</p>
+			<p>J</p>
 			</td>
 		</tr>
 	</tbody>
@@ -27123,7 +27977,7 @@ J = Inrichting waarvoor overeenkomstig titel II van het VLAREM een milieujaarver
 			</td>
 		</tr>
 		<tr>
-			<td rowspan="3" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; vertical-align:top; width:44.6pt">
+			<td rowspan="5" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; vertical-align:top; width:44.6pt">
 			<p>48.3</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; width:215.95pt">
@@ -27147,7 +28001,27 @@ J = Inrichting waarvoor overeenkomstig titel II van het VLAREM een milieujaarver
 		</tr>
 		<tr>
 			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; width:215.95pt">
-			<p>1° voor schepen van 1000 tot 1350 ton</p>
+			<p>1° Havens en haveninstallaties, met inbegrip van visserijhavens:</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; vertical-align:bottom; width:45pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; vertical-align:bottom; width:45pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; vertical-align:bottom; width:45pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; vertical-align:bottom; width:36pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; vertical-align:bottom; width:36pt">
+			<p>&nbsp;</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; width:215.95pt">
+			<p>a) voor schepen van 1000 tot 1350 ton</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; vertical-align:bottom; width:45pt">
 			<p>2</p>
@@ -27166,8 +28040,28 @@ J = Inrichting waarvoor overeenkomstig titel II van het VLAREM een milieujaarver
 			</td>
 		</tr>
 		<tr>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; width:215.95pt">
+			<p>b) voor de binnenscheepvaart voor schepen van meer dan 1 350 ton</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; vertical-align:bottom; width:45pt">
+			<p>1</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; vertical-align:bottom; width:45pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; vertical-align:bottom; width:45pt">
+			<p>B</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; vertical-align:bottom; width:36pt">
+			<p>P</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; vertical-align:bottom; width:36pt">
+			<p>J</p>
+			</td>
+		</tr>
+		<tr>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; width:215.95pt">
-			<p>2° voor de binnenscheepvaart voor schepen van meer dan 1350 ton</p>
+			<p>2° Havens en haveninstallaties, met inbegrip van visserijhavens</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; vertical-align:bottom; width:45pt">
 			<p>1</p>
@@ -28492,46 +29386,196 @@ J = Inrichting waarvoor overeenkomstig titel II van het VLAREM een milieujaarver
 			</td>
 		</tr>
 		<tr>
-			<td rowspan="2" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; vertical-align:top">
+			<td rowspan="2" style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; vertical-align:top">
 			<p>53.9.</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; vertical-align:top; width:215.95pt">
 			<p>Werkzaamheden voor het onttrekken van grondwater wanneer het jaarlijkse volume onttrokken water 10 miljoen m<sup>3</sup> of meer bedraagt</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; vertical-align:bottom; width:45pt">
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; vertical-align:top; width:45pt">
 			<p>1</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; vertical-align:bottom; width:45pt">
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; vertical-align:top; width:45pt">
 			<p>W</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; vertical-align:bottom; width:45pt">
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; vertical-align:top; width:45pt">
 			<p>B</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; vertical-align:bottom; width:36pt">
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; vertical-align:top; width:36pt">
 			<p>P</p>
 			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; vertical-align:top; width:36pt">
+			<p>J</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; vertical-align:top; width:215.95pt">
+			<p>(Er kan overlapping zijn met vorige rubrieken van hoofdrubriek 53.)</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; vertical-align:bottom; width:45pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; vertical-align:bottom; width:45pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; vertical-align:bottom; width:45pt">
+			<p>&nbsp;</p>
+			</td>
 			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; vertical-align:bottom; width:36pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; vertical-align:bottom; width:36pt">
+			<p>&nbsp;</p>
+			</td>
+		</tr>
+		<tr>
+			<td rowspan="4" style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; vertical-align:top">
+			<p>53.10.</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; vertical-align:top; width:215.95pt">
+			<p>Waterbeheersingsprojecten voor landbouwdoeleinden, met name:</p>
+
+			<p>Er kan overlapping zijn met een of meer subrubrieken van de rubrieken 52, 53, 54, 55 en 56.</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; vertical-align:bottom; width:45pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; vertical-align:bottom; width:45pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; vertical-align:bottom; width:45pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; vertical-align:bottom; width:36pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; vertical-align:bottom; width:36pt">
+			<p>&nbsp;</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; vertical-align:top; width:215.95pt">
+			<p>1° Een irrigatieproject van 100 ha of meer, of</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; vertical-align:top; width:45pt">
+			<p>1</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; vertical-align:top; width:45pt">
+			<p>W</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; vertical-align:top; width:45pt">
+			<p>N</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; vertical-align:top; width:36pt">
+			<p>P</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; vertical-align:top; width:36pt">
+			<p>J</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; vertical-align:top; width:215.95pt">
+			<p>2° Een droogleggingsproject van 50 ha of meer, of</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; vertical-align:top; width:45pt">
+			<p>1</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; vertical-align:top; width:45pt">
+			<p>W</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; vertical-align:top; width:45pt">
+			<p>N</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; vertical-align:top; width:36pt">
+			<p>P</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; vertical-align:top; width:36pt">
+			<p>J</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; vertical-align:top; width:215.95pt">
+			<p>3° Een droogleggingsproject van 15 ha of meer, dat een aanzienlijke verlaging van de freatische grondwatertafel in een bijzonder beschermd gebied tot gevolg kan hebben.</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; vertical-align:top; width:45pt">
+			<p>1</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; vertical-align:top; width:45pt">
+			<p>W</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; vertical-align:top; width:45pt">
+			<p>N</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; vertical-align:top; width:36pt">
+			<p>P</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; vertical-align:top; width:36pt">
+			<p>J</p>
+			</td>
+		</tr>
+		<tr>
+			<td rowspan="3" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; vertical-align:top">
+			<p>53.11.</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; vertical-align:top; width:215.95pt">
+			<p>Werken voor het onttrekken van grondwater:</p>
+
+			<p>Er kan overlapping zijn met een of meer subrubrieken van de rubriek 53.</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; vertical-align:top; width:45pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; vertical-align:top; width:45pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; vertical-align:top; width:45pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; vertical-align:top; width:36pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; vertical-align:top; width:36pt">
+			<p>&nbsp;</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; vertical-align:top; width:215.95pt">
+			<p>1° Grondwaterwinningen met een capaciteit van 2 500 m3 per dag of meer</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; vertical-align:top; width:45pt">
+			<p>1</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; vertical-align:top; width:45pt">
+			<p>W</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; vertical-align:top; width:45pt">
+			<p>N</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; vertical-align:top; width:36pt">
+			<p>P</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; vertical-align:top; width:36pt">
 			<p>J</p>
 			</td>
 		</tr>
 		<tr>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; vertical-align:top; width:215.95pt">
-			<p>(Er kan overlapping zijn met vorige rubrieken van hoofdrubriek 53.)</p>
+			<p>2° Onttrekken van grondwater met een capaciteit van 1 000 m3 per dag of meer als de activiteit gelegen is in of een aanzienlijke invloed kan hebben op een gebied zoals aangeduid in uitvoering van het decreet houdende maatregelen ter bescherming van de kustduinen van 14 juli 1993 of als de activiteit een betekenisvolle aantasting van de natuurlijke kenmerken van een speciale beschermingszone kan veroorzaken</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; vertical-align:bottom; width:45pt">
-			<p>&nbsp;</p>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; vertical-align:top; width:45pt">
+			<p>1</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; vertical-align:bottom; width:45pt">
-			<p>&nbsp;</p>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; vertical-align:top; width:45pt">
+			<p>W</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; vertical-align:bottom; width:45pt">
-			<p>&nbsp;</p>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; vertical-align:top; width:45pt">
+			<p>N</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; vertical-align:bottom; width:36pt">
-			<p>&nbsp;</p>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; vertical-align:top; width:36pt">
+			<p>P</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; vertical-align:bottom; width:36pt">
-			<p>&nbsp;</p>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; vertical-align:top; width:36pt">
+			<p>J</p>
 			</td>
 		</tr>
 	</tbody>
@@ -28670,7 +29714,7 @@ J = Inrichting waarvoor overeenkomstig titel II van het VLAREM een milieujaarver
 			<p>54.3.</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; width:215.95pt">
-			<p>Werkzaamheden voor het kunstmatig aanvullen van grondwater wanneer het jaarlijkse volume aangevuld water 10 miljoen m<sup>3</sup> of meer bedraagt</p>
+			<p>Werkzaamheden voor het kunstmatig aanvullen van grondwater wanneer het jaarlijkse volume aangevuld water 10 miljoen m<sup>3</sup> of meer, respectievelijk de capaciteit 2.500 m³ per dag of meer bedraagt</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; vertical-align:bottom; width:45pt">
 			<p>1</p>
@@ -28716,8 +29760,6 @@ J = Inrichting waarvoor overeenkomstig titel II van het VLAREM een milieujaarver
 <p>&nbsp;</p>
 
 ### rubriek 55
-
-<p>&nbsp;</p>
 
 <table border="1" cellpadding="0" cellspacing="0" style="border-collapse:collapse">
 	<tbody>
@@ -28843,7 +29885,7 @@ J = Inrichting waarvoor overeenkomstig titel II van het VLAREM een milieujaarver
 
 			<p>2° boringen voor watervoorziening</p>
 
-			<p>3° boringen in verband met de opslag van kernafval vanaf een diepte van meer dan 500 m ten opzichte van het maaiveld</p>
+			<p>3° boringen in verband met de opslag van kernafval vanaf een diepte van 100 m ten opzichte van het maaiveld</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:bottom; width:45.6pt">
 			<p>1</p>
@@ -28963,7 +30005,7 @@ J = Inrichting waarvoor overeenkomstig titel II van het VLAREM een milieujaarver
 		</tr>
 		<tr>
 			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; width:215.95pt">
-			<p>1° projecten voor de overbrenging van water tussen de stroomgebieden wanneer deze overbrenging ten doel heeft eventuele waterschaarste te voorkomen en de hoeveelheid overgebracht water meer bedraagt dan 100 miljoen m<sup>3</sup> per jaar</p>
+			<p>1° projecten voor de overbrenging van water tussen de stroomgebieden wanneer deze overbrenging ten doel heeft eventuele waterschaarste te voorkomen en de hoeveelheid overgebracht water 75 miljoen m<sup>3</sup>&nbsp; of meer per jaar bedraagt</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; vertical-align:bottom; width:45pt">
 			<p>1</p>
@@ -29002,11 +30044,11 @@ J = Inrichting waarvoor overeenkomstig titel II van het VLAREM een milieujaarver
 			</td>
 		</tr>
 		<tr>
-			<td rowspan="3" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; vertical-align:top">
+			<td rowspan="4" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; vertical-align:top">
 			<p>56.2</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; width:215.95pt">
-			<p>Stuwdammen en andere installaties voor het stuwen of permanent of voor lange termijn opslaan van water, wanneer een nieuwe of extra hoeveelheid water:</p>
+			<p>Stuwdammen en andere installaties voor het stuwen of permanent of voor lange termijn opslaan van water:</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; vertical-align:bottom; width:45pt">
 			<p>&nbsp;</p>
@@ -29026,7 +30068,9 @@ J = Inrichting waarvoor overeenkomstig titel II van het VLAREM een milieujaarver
 		</tr>
 		<tr>
 			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; width:215.95pt">
-			<p>1° van 1 tot 10 miljoen m<sup>3</sup> wordt gestuwd of opgeslagen</p>
+			<p>1° wanneer een nieuwe of extra hoeveelheid water:</p>
+
+			<p>a) van 1 tot en met 10 miljoen m3 wordt gestuwd of opgeslagen</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; vertical-align:bottom; width:45pt">
 			<p>2</p>
@@ -29045,8 +30089,28 @@ J = Inrichting waarvoor overeenkomstig titel II van het VLAREM een milieujaarver
 			</td>
 		</tr>
 		<tr>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; width:215.95pt">
+			<p>b) van meer dan 10 miljoen m3 wordt gestuwd of opgeslagen</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; vertical-align:bottom; width:45pt">
+			<p>1</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; vertical-align:bottom; width:45pt">
+			<p>W</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; vertical-align:bottom; width:45pt">
+			<p>B</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; vertical-align:bottom; width:36pt">
+			<p>P</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; vertical-align:bottom; width:36pt">
+			<p>J</p>
+			</td>
+		</tr>
+		<tr>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; width:215.95pt">
-			<p>2° meer dan 10 miljoen m<sup>3</sup> wordt gestuwd of opgeslagen</p>
+			<p>2° met een oppervlakte van 15 ha of meer of met een nuttige inhoud van 1 miljoen m3 of meer</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; vertical-align:bottom; width:45pt">
 			<p>1</p>
@@ -29148,7 +30212,7 @@ J = Inrichting waarvoor overeenkomstig titel II van het VLAREM een milieujaarver
 		</tr>
 		<tr>
 			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; width:215.95pt">
-			<p>1° minder dan 1.900 meter;</p>
+			<p>1° minder dan 800 meter;</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; vertical-align:bottom; width:45pt">
 			<p>2</p>
@@ -29168,7 +30232,7 @@ J = Inrichting waarvoor overeenkomstig titel II van het VLAREM een milieujaarver
 		</tr>
 		<tr>
 			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; width:215.95pt">
-			<p>2° tenminste 1.900 meter.</p>
+			<p>2° tenminste 800 meter.</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; vertical-align:bottom; width:45pt">
 			<p>1</p>
@@ -31256,15 +32320,30 @@ J = Inrichting waarvoor overeenkomstig titel II van het VLAREM een milieujaarver
 
 ### BIJLAGE 2
 
-[Lozing van gevaarlijke stoffen (verv. B.V.R. 27 april 1994, art. 6, I: 7 mei 1994)]<br>
+Lozing van verontreinigende stoffen, prioritaire stoffen en gevaarlijke stoffen<br>
 <br>
-Als “toxische en gevaarlijke” afvalstoffen worden beschouwd (artikel 1, 22° van het Vlarem):<br>
+Als toxische en gevaarlijke afvalstoffen worden beschouwd (artikel 1, 22° van het Vlarem):<br>
 1° alle gevaarlijke stoffen, of elk voorwerp waarvan de houder zich ontdoet of zich moet ontdoen als bedoeld in deel II van bijlage 7 bij het besluit van de Vlaamse regering houdende vaststelling van het Vlarem die gekenmerkt zijn door één van de volgende symbolen: C, E, F, F+, X, Xi of Xn, alsmede alle schadelijke oplosmiddelen vermeld in voormeld deel II;<br>
 2° alle afvalstoffen die de in de lijst hierna genoemde stoffen of materialen bevatten of hiermee zijn besmet, van zodanige aard of in zodanige hoeveelheden of concentraties dat zij een gevaar zijn voor de gezondheid, het leefmilieu of de natuur vormen;<br>
 <br>
-2A [... (opgeh. B.V.R. 27 april 1994, art. 6, I: 7 mei 1994)]<br>
+BIJLAGE 2A<br>
+INDICATIEVE LIJST VAN DE BELANGRIJKSTE VERONTREINIGENDE STOFFEN IN AFVALWATER<br>
+(Bijlage VIII bij de EG-richtlijn 2000/60/EG van 23 oktober 2000 tot vaststelling van een kader voor communautaire maatregelen betreffende het waterbeleid)<br>
+1) Organische halogeenverbindingen en stoffen die in water dergelijke verbindingen kunnen vormen.<br>
+2) Organische fosforverbindingen.<br>
+3) Organische tinverbindingen.<br>
+4) Stoffen en preparaten, of de afbraakproducten daarvan, waarvan is aangetoond dat ze carcinogene of mutagene eigenschappen hebben, of eigenschappen die in of via het aquatische milieu gevolgen kunnen hebben voor steroïdogene functies, schildklierfuncties, de voortplanting of andere hormonale functies.<br>
+5) Persistente koolwaterstoffen en persistente en bioaccumuleerbare organische toxische stoffen.<br>
+6) Cyaniden.<br>
+7) Metalen en metaalverbindingen.<br>
+8) Arseen en arseenverbindingen.<br>
+9) Biociden en gewasbeschermingsmiddelen.<br>
+10) Stoffen in suspensie.<br>
+11) Stoffen die bijdragen tot de eutrofiëring (met name nitraten en fosfaten).<br>
+12) Stoffen die een ongunstige invloed uitoefenen op de zuurstofbalans (en die kunnen worden gemeten met behulp van parameters zoals BZV, CZV, enz.).<br>
 <br>
 2B Lijst van gevaarlijke stoffen voor lozing in grondwater (EG-richtlijn 80/68/EEG van 17 december 1979):<br>
+De lijsten I en II hieronder zijn overeenkomstig artikel 22, lid 2, van de EG-richtlijn 2000/60/EG van 23 oktober 2000 tot vaststelling van een kader voor communautaire maatregelen betreffende het waterbeleid van kracht tot 22 december 2013.<br>
 <br>
 Lijst I - Families en groepen van stoffen<br>
 <br>
@@ -31372,6 +32451,7 @@ Lijst II omvat afzonderlijke stoffen en categorieën van stoffen van de ondersta
 </table>
 
 <p>&nbsp;</p>
+<br>
 2. Biociden en derivaten daarvan, die niet in lijst I genoemd zijn<br>
 <br>
 3. Stoffen met een schadelijke werking op de smaak en/of de geur van het grondwater alsmede verbindingen waaruit dergelijke stoffen in het water kunnen ontstaan en die het water ongeschikt voor menselijke consumptie kunnen maken.<br>
@@ -31384,7 +32464,10 @@ Lijst II omvat afzonderlijke stoffen en categorieën van stoffen van de ondersta
 <br>
 7. Ammoniak en nitrieten.<br>
 <br>
-2C Lijst van gevaarlijke stoffen voor lozing in aquatisch milieu (EG-richtlijn 76/464/-EEG van 4 mei 1976):<br>
+BIJLAGE 2C.<br>
+LIJST VAN GEVAARLIJKE STOFFEN VOOR LOZING IN AQUATISCH MILIEU<br>
+(EG-richtlijnen 76/464/EEG van 4 mei 1976 en 2000/60/EG van 23 oktober 2000)<br>
+De lijsten I en II hierna zijn overeenkomstig artikel 22, lid 2, van de EG-richtlijn 2000/60/EG van 23 oktober 2000 tot vaststelling van een kader voor communautaire maatregelen betreffende het waterbeleid van kracht tot 22 december 2013.<br>
 <br>
 Lijst I van families en groepen van stoffen<br>
 <br>
@@ -31491,6 +32574,7 @@ Lijst II omvat de stoffen die deel uitmaken van de families en groepen van stoff
 </table>
 
 <p>&nbsp;</p>
+<br>
 2. Biociden en niet in lijst I genoemde derivaten daarvan<br>
 <br>
 3. Stoffen met een schadelijke werking op de smaak en/of geur van produkten uit het water en bestemd voor de mens, alsmede verbindingen waaruit dergelijke stoffen in het water kunnen ontstaan.<br>
@@ -31503,9 +32587,803 @@ Lijst II omvat de stoffen die deel uitmaken van de families en groepen van stoff
 <br>
 7. Cyaniden, fluoriden.<br>
 <br>
-8. Stoffen die ongunstig inwerken op de zuurstofbalans, met name: ammoniak, nitrieten.
+8. Stoffen die ongunstig inwerken op de zuurstofbalans, met name: ammoniak, nitrieten.<br>
+<br>
+Lijst III<br>
+Lijst van prioritaire stoffen op het gebied van het waterbeleid<br>
+(Bijlage X bij de EG-richtlijn 2000/60/EG van 23 oktober 2000 tot vaststelling van een kader voor communautaire maatregelen betreffende het waterbeleid, gewijzigd bij Beschikking nr. 2455/2001/EG van het Europees Parlement en de Raad van 20 november 2001)<br>
+Van de hierna genoemde prioritaire stoffen zijn enkel de stoffen die in de laatste kolom zijn aangewezen als « prioritaire gevaarlijke stof » te beschouwen als gevaarlijke stof voor lozing in aquatisch milieu.<br>
+
+<table border="1" cellpadding="0" cellspacing="0" style="border-collapse:collapse">
+	<tbody>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:32.4pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:81pt">
+			<p>CAS-nummer</p>
+
+			<p>(1)</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:72pt">
+			<p>EU-nummer</p>
+
+			<p>(2)</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:189pt">
+			<p>Naam van de prioritaire stof</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:86.2pt">
+			<p>Aangewezen als prioritaire gevaarlijke stof</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:32.4pt">
+			<p>(1)</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:81pt">
+			<p>15972-60-8</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:72pt">
+			<p>240-110-8</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:189pt">
+			<p>Alachloor</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:86.2pt">
+			<p>&nbsp;</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:32.4pt">
+			<p>(2)</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:81pt">
+			<p>120-12-7</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:72pt">
+			<p>204-371-1</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:189pt">
+			<p>Antraceen</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:86.2pt">
+			<p>(X) (***)</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:32.4pt">
+			<p>(3)</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:81pt">
+			<p>1912-24-9</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:72pt">
+			<p>217-617-8</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:189pt">
+			<p>Atrazine</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:86.2pt">
+			<p>(X) (***)</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:32.4pt">
+			<p>(4)</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:81pt">
+			<p>71-43-2</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:72pt">
+			<p>200-753-7</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:189pt">
+			<p>Benzeen</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:86.2pt">
+			<p>Stof</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:32.4pt">
+			<p>(5)</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:81pt">
+			<p>n.v.t.</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:72pt">
+			<p>n.v.t.</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:189pt">
+			<p>Gebromeerde difenylethers (**)</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:86.2pt">
+			<p>X (***)</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:32.4pt">
+			<p>(6)</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:81pt">
+			<p>7440-43-9</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:72pt">
+			<p>231-152-8</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:189pt">
+			<p>Cadmium en zijn verbindingen</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:86.2pt">
+			<p>X</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:32.4pt">
+			<p>(7)</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:81pt">
+			<p>85535-84-8</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:72pt">
+			<p>287-476-5</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:189pt">
+			<p>C10-13-chlooralkanen (**)</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:86.2pt">
+			<p>X</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:32.4pt">
+			<p>(8)</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:81pt">
+			<p>470-90-6</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:72pt">
+			<p>207-432-0</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:189pt">
+			<p>Chloorenvinfos</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:86.2pt">
+			<p>&nbsp;</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:32.4pt">
+			<p>(9)</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:81pt">
+			<p>2921-88-2</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:72pt">
+			<p>220-864-4</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:189pt">
+			<p>Chloorpyrifos</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:86.2pt">
+			<p>(X)(***)</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:32.4pt">
+			<p>(10)</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:81pt">
+			<p>107-06-2</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:72pt">
+			<p>203-458-1</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:189pt">
+			<p>1,2-dichloorethaan</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:86.2pt">
+			<p>&nbsp;</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:32.4pt">
+			<p>(11)</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:81pt">
+			<p>75-09-2</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:72pt">
+			<p>200-838-9</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:189pt">
+			<p>Dichloormethaan</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:86.2pt">
+			<p>&nbsp;</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:32.4pt">
+			<p>(12)</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:81pt">
+			<p>117-81-7</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:72pt">
+			<p>204-211-0</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:189pt">
+			<p>Bis(2-ethylhexyl)ftalaat (DEHP)</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:86.2pt">
+			<p>(X) (***)</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:32.4pt">
+			<p>(13)</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:81pt">
+			<p>330-54-1</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:72pt">
+			<p>206-354-4</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:189pt">
+			<p>Diuron</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:86.2pt">
+			<p>(X) (***)</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:32.4pt">
+			<p>(14)</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:81pt">
+			<p>115-29-7</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:72pt">
+			<p>204-079-4</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:189pt">
+			<p>Endosulfan</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:86.2pt">
+			<p>(X) (***)</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:32.4pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:81pt">
+			<p>959-98-8</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:72pt">
+			<p>n.v.t.</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:189pt">
+			<p>(alfa-endosulfan)</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:86.2pt">
+			<p>&nbsp;</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:32.4pt">
+			<p>(15)</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:81pt">
+			<p>206-44-0</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:72pt">
+			<p>205-912-4</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:189pt">
+			<p>(fluorantheen) (*****)</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:86.2pt">
+			<p>&nbsp;</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:32.4pt">
+			<p>(16)</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:81pt">
+			<p>118-74-1</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:72pt">
+			<p>204-273-9</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:189pt">
+			<p>Hexachloorbenzeen</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:86.2pt">
+			<p>X</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:32.4pt">
+			<p>(17)</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:81pt">
+			<p>87-68-3</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:72pt">
+			<p>201-765-5</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:189pt">
+			<p>Hexachloorbutadieen</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:86.2pt">
+			<p>X</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:32.4pt">
+			<p>(18)</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:81pt">
+			<p>608-73-1</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:72pt">
+			<p>210-158-9</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:189pt">
+			<p>Hexachloorcyclohexaan</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:86.2pt">
+			<p>X</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:32.4pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:81pt">
+			<p>58-89-9</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:72pt">
+			<p>200-401-2</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:189pt">
+			<p>(gamma-isomeer, lindaan)</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:86.2pt">
+			<p>&nbsp;</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:32.4pt">
+			<p>(19)</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:81pt">
+			<p>34123-59-6</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:72pt">
+			<p>251-835-4</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:189pt">
+			<p>Isoproturon</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:86.2pt">
+			<p>(X) (***)</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:32.4pt">
+			<p>(20)</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:81pt">
+			<p>1439-92-1</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:72pt">
+			<p>231-100-4</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:189pt">
+			<p>Lood en zijn verbindingen</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:86.2pt">
+			<p>(X) (***)</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:32.4pt">
+			<p>(21)</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:81pt">
+			<p>7439-97-6</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:72pt">
+			<p>231-106-7</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:189pt">
+			<p>Kwik en zijn verbindingen</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:86.2pt">
+			<p>X</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:32.4pt">
+			<p>(22)</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:81pt">
+			<p>91-20-3</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:72pt">
+			<p>202-049-5</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:189pt">
+			<p>Naftaleen</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:86.2pt">
+			<p>(X) (***)</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:32.4pt">
+			<p>(23)</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:81pt">
+			<p>7440-02-0</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:72pt">
+			<p>231-111-4</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:189pt">
+			<p>Nikkel en zijn verbindingen</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:86.2pt">
+			<p>&nbsp;</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:32.4pt">
+			<p>(24)</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:81pt">
+			<p>25154-52-3</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:72pt">
+			<p>246-672-0</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:189pt">
+			<p>Nonylfenolen</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:86.2pt">
+			<p>X</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:32.4pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:81pt">
+			<p>104-40-5</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:72pt">
+			<p>203-199-4</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:189pt">
+			<p>(4-(para)-nonylfenol)</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:86.2pt">
+			<p>&nbsp;</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:32.4pt">
+			<p>(25)</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:81pt">
+			<p>1806-26-4</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:72pt">
+			<p>217-302-5</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:189pt">
+			<p>Octylfenolen</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:86.2pt">
+			<p>(X) (***)</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:32.4pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:81pt">
+			<p>140-69-9</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:72pt">
+			<p>n.v.t.</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:189pt">
+			<p>(para-tert-octylfenol)</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:86.2pt">
+			<p>&nbsp;</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:32.4pt">
+			<p>(26)</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:81pt">
+			<p>608-93-5</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:72pt">
+			<p>210-172-5</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:189pt">
+			<p>Pentachloorbenzeen</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:86.2pt">
+			<p>X</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:32.4pt">
+			<p>(27)</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:81pt">
+			<p>87-86-5</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:72pt">
+			<p>201-778-6</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:189pt">
+			<p>Pentachloorfenol</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:86.2pt">
+			<p>(X) (***)</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:32.4pt">
+			<p>(28)</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:81pt">
+			<p>n.v.t.</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:72pt">
+			<p>n.v.t.</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:189pt">
+			<p>Polyaromatische koolwaterstoffen</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:86.2pt">
+			<p>X</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:32.4pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:81pt">
+			<p>50-32-8</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:72pt">
+			<p>200-028-5</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:189pt">
+			<p>(benzo(a)pyreen)</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:86.2pt">
+			<p>&nbsp;</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:32.4pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:81pt">
+			<p>205-99-2</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:72pt">
+			<p>205-911-9</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:189pt">
+			<p>(benzo(b)fluorantheen)</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:86.2pt">
+			<p>&nbsp;</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:32.4pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:81pt">
+			<p>191-24-2</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:72pt">
+			<p>205-883-8</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:189pt">
+			<p>(benzo(g,h,i)peryleen)</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:86.2pt">
+			<p>&nbsp;</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:32.4pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:81pt">
+			<p>207-08-09</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:72pt">
+			<p>205-916-6</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:189pt">
+			<p>(benzo(k)fluorantheen)</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:86.2pt">
+			<p>&nbsp;</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:32.4pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:81pt">
+			<p>193-39-5</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:72pt">
+			<p>205-893-2</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:189pt">
+			<p>(indeno(1,2,3-cd)pyreen)</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:86.2pt">
+			<p>&nbsp;</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:32.4pt">
+			<p>(29)</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:81pt">
+			<p>122-34-9</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:72pt">
+			<p>204-535-2</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:189pt">
+			<p>Simazine</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:86.2pt">
+			<p>(X) (***)</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:32.4pt">
+			<p>(30)</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:81pt">
+			<p>688-73-3</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:72pt">
+			<p>211-704-4</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:189pt">
+			<p>Tributyltinverbindingen</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:86.2pt">
+			<p>X</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:32.4pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:81pt">
+			<p>36643-28-4</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:72pt">
+			<p>n.v.t.</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:189pt">
+			<p>(tributyltin-kation)</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:86.2pt">
+			<p>&nbsp;</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:32.4pt">
+			<p>(31)</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:81pt">
+			<p>12002-48-1</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:72pt">
+			<p>234-413-4</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:189pt">
+			<p>Trichloorbenzenen</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:86.2pt">
+			<p>(X) (***)</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:32.4pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:81pt">
+			<p>120-82-1</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:72pt">
+			<p>204-428-0</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:189pt">
+			<p>(1,2,2-trichloorbenzeen)</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:86.2pt">
+			<p>&nbsp;</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:32.4pt">
+			<p>(32)</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:81pt">
+			<p>67-66-3</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:72pt">
+			<p>200-663-8</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:189pt">
+			<p>Trichloormethaan (chloroform)</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:86.2pt">
+			<p>&nbsp;</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:32.4pt">
+			<p>(33)</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:81pt">
+			<p>1582-09-8</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:72pt">
+			<p>216-428-8</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:189pt">
+			<p>Trifluraline</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:86.2pt">
+			<p>(X) (***)</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+<p>&nbsp;</p>
+<br>
+(*) Waar groepen van stoffen zijn geselecteerd, zijn typische voorbeelden daarvan als indicatieve parameter vermeld (tussen haakjes en zonder nummer). De invoering van beheersingsmaatregelen wordt op deze specifieke stoffen afgestemd, maar waar nodig blijft het mogelijk andere vertegenwoordigers van deze groepen daarin op te nemen.<br>
+(**) Deze groepen van stoffen omvatten meestal een groot aantal verschillende verbindingen. Adequate indicatieve parameters kunnen op dit moment niet worden vermeld.<br>
+(***) Deze prioritaire stof zal worden geëvalueerd met het oog op een eventuele aanwijzing als « prioritaire gevaarlijke stof ». De Commissie legt uiterlijk 12 maanden na de goedkeuring van deze lijst een voorstel aan het Europees Parlement en de Raad voor inzake de definitieve classificatie van deze stof. De evaluatie laat het tijdschema onverlet dat in artikel 16 van Richtlijn 2000/60/EG is bepaald voor de voorstellen van de Commissie inzake beheersingsmaatregelen.<br>
+(****) Alleen pentabroombifenylether (CAS-nummer 32534-81-9).<br>
+(*****) Fluorantheen komt voor op de lijst als een indicator voor andere, gevaarlijker polyaromatische koolwaterstoffen.<br>
+(1) CAS : Chemical Abstract Services.<br>
+(2) Nummer in de Europese inventaris van bestaande chemische handelsstoffen (European Inventory of Existing Commercial Chemical Substances : EINECS) of de Europese lijst van chemische stoffen waarvan kennisgeving is gedaan (European List of Notified Chemical Substances : ELINCS).<br>
+(******) Lijst III is een minimale lijst, overgenomen uit de richtlijn, die aangevuld kan worden in uitvoering van het decreet van 18 juli 2003 betreffende het integraal waterbeleid en in uitvoering van het Reductieprogramma gevaarlijke stoffen 2005 - zoals vastgesteld op 23 oktober 2005 in uitvoering van art. 2.3.6.1 § 1.
 
 ## BIJLAGE 2BIS
+
+### BIJLAGE 2BIS
+
+<a href="http://www.ejustice.just.fgov.be/mopdf/2006/06/30_3.pdf#page=55" title=" Bijlage 2bis" target="_blank" class="pdf">Bijlage 2bis</a>
 
 ## [BIJLAGE 2TER (ing. BVR 15 juli 2011, art.19)]
 
@@ -31515,14 +33393,13 @@ Lijst II omvat de stoffen die deel uitmaken van de families en groepen van stoff
 
 ### BIJLAGE 3
 
-<p>[Meldingsformulier inzake de exploitatie van een klasse 3 inrichting, de verandering van een inrichting of de overname van een inrichting door een andere exploitant (artikelen 2, 5 en 42 Vlarem) (verv. B.V.R. 28 oktober 1992, art. 24, I: 1 maart 1993)]<br>
+Meldingsformulier inzake de exploitatie van een klasse 3 inrichting, de verandering van een inrichting of de overname van een inrichting door een andere exploitant (artikelen 2, 5 en 42 Vlarem)<br>
 <br>
 A. Identificatie van de meldingplichtige<br>
 <br>
 1. Exploitant<br>
 <br>
 1.1. als het gaat om een natuurlijke Persoon.<br>
-</p>
 
 <table border="1" cellpadding="0" cellspacing="0" style="border-collapse:collapse">
 	<tbody>
@@ -31578,11 +33455,7 @@ A. Identificatie van de meldingplichtige<br>
 </table>
 
 <p>&nbsp;</p>
-
-<p>&nbsp;</p>
-
-<p>1.2. Als het gaat om een rechtspersoon.<br>
-</p>
+1.2. Als het gaat om een rechtspersoon.<br>
 
 <table border="1" cellpadding="0" cellspacing="0" style="border-collapse:collapse">
 	<tbody>
@@ -31679,13 +33552,10 @@ A. Identificatie van de meldingplichtige<br>
 </table>
 
 <p>&nbsp;</p>
-
-<p>&nbsp;</p>
-
-<p>2. In geval van overname, de vroegere exploitant:<br>
+<br>
+2. In geval van overname, de vroegere exploitant:<br>
 <br>
 2.1. Als het gaat om een natuurlijke Persoon.<br>
-</p>
 
 <table border="1" cellpadding="0" cellspacing="0" style="border-collapse:collapse">
 	<tbody>
@@ -31744,11 +33614,8 @@ A. Identificatie van de meldingplichtige<br>
 </table>
 
 <p>&nbsp;</p>
-
-<p>&nbsp;</p>
-
-<p>2.2. Als het gaat om een rechtspersoon.<br>
-</p>
+<br>
+2.2. Als het gaat om een rechtspersoon.<br>
 
 <table border="1" cellpadding="0" cellspacing="0" style="border-collapse:collapse">
 	<tbody>
@@ -31878,10 +33745,8 @@ A. Identificatie van de meldingplichtige<br>
 </table>
 
 <p>&nbsp;</p>
-
-<p>&nbsp;</p>
-
-<p>3. Juridische grondslag op basis waarvan de exploitant de beschikking heeft over de bedoelde inrichting(en), alsmede het eigendomsstatuut van de percelen waarop de exploitatie gebeurt of is gepland.<br>
+<br>
+3. Juridische grondslag op basis waarvan de exploitant de beschikking heeft over de bedoelde inrichting(en), alsmede het eigendomsstatuut van de percelen waarop de exploitatie gebeurt of is gepland.<br>
 <br>
 - Is de exploitant eigenaar van de inrichting (JA/NEEN):<br>
 ………..<br>
@@ -31899,7 +33764,6 @@ Indien de exploitant geen eigenaar is van de percelen waarop de exploitatie plaa
 B. Administratieve gegevens betreffende de inrichting:<br>
 <br>
 1. Ligging met opgave van de gemeente(n) en provincies waarin de percelen zijn gelegen waarop de exploitatie of de verandering van de inrichting gebeurt of gepland is.<br>
-</p>
 
 <table border="1" cellpadding="0" cellspacing="0" style="border-collapse:collapse">
 	<tbody>
@@ -31926,11 +33790,8 @@ B. Administratieve gegevens betreffende de inrichting:<br>
 </table>
 
 <p>&nbsp;</p>
-
-<p>&nbsp;</p>
-
-<p>Kadastrale ligging der percelen waarop de exploitatie of de verandering van de inrichting gebeurt of gepland is:<br>
-</p>
+<br>
+Kadastrale ligging der percelen waarop de exploitatie of de verandering van de inrichting gebeurt of gepland is:<br>
 
 <table border="1" cellpadding="0" cellspacing="0" style="border-collapse:collapse">
 	<tbody>
@@ -31978,10 +33839,8 @@ B. Administratieve gegevens betreffende de inrichting:<br>
 </table>
 
 <p>&nbsp;</p>
-
-<p>&nbsp;</p>
-
-<p>2. Maximum aantal te werk te stellen of te werkgestelde werknemers:<br>
+<br>
+2. Maximum aantal te werk te stellen of te werkgestelde werknemers:<br>
 <br>
 3. De exploitant heeft een comité voor veiligheid, gezondheid en verfraaiing van de werkplaatsen zoals ? (JA/NEEN) ….<br>
 Zo ja:<br>
@@ -31998,9 +33857,9 @@ Gelieve het voorwerp van de exploitatie, alsmede de rubrieken uit de indelingsli
 D. Voorwerp van de melding (aankruisen wat van toepassing is):<br>
 ° - De melding van een nieuwe inrichting<br>
 ° - De melding van een inrichting die na wijziging of aanvulling van de indelingslijst meldingsplichtig wordt<br>
-° - [De melding van verandering van een bestaande inrichting derde klasse die na verandering in de derde klasse blijft ingedeeld en die geen deel uitmaakt van een milieutechnische eenheid vergund als eerste of tweede klasse (verv. B.V.R. 12 januari 1999, art. 67, I: 1 mei 1999)]<br>
+° - De melding van verandering van een bestaande inrichting derde klasse die na verandering in de derde klasse blijft ingedeeld en die geen deel uitmaakt van een milieutechnische eenheid vergund als eerste of tweede klasse<br>
 ° - De melding van de overname van een vergunde inrichting<br>
-[° - De mededeling van een kleine verandering van een bestaande inrichting eerste of tweede klasse, omvattende:<br>
+° - De mededeling van een kleine verandering van een bestaande inrichting eerste of tweede klasse, omvattende:<br>
 ° - het exploiteren van een nieuwe derde klasse-inrichting die een milieutechnische eenheid vormt samen met vergunde inrichtingen vergund:<br>
 ° - als eerste klasse<br>
 ° - als tweede klasse<br>
@@ -32009,7 +33868,7 @@ D. Voorwerp van de melding (aankruisen wat van toepassing is):<br>
 ° - als tweede klasse<br>
 ° - het veranderen van een tweede of eerste klasse-inrichting die na de verandering in dezelfde klasse blijft ingedeeld en die een milieutechnische eenheid vormt samen met vergunde inrichtingen vergund:<br>
 ° - als eerste klasse<br>
-° - als tweede klasse (ing. B.V.R. 12 januari 1999, art. 67, I: 1 mei 1999)]<br>
+° - als tweede klasse<br>
 <br>
 E. Vergunningen en meldingen<br>
 <br>
@@ -32021,7 +33880,7 @@ In voorkomend geval een afschrift van de beslissing(en) over vergunningsaanvrage
 2. Exploitatie<br>
 [In geval de melding betrekking heeft op de verandering of de overname van een vergunde inrichting (artikelen 5 en 42 van het Vlarem) (verv. B.V.R. 28 oktober 1992, art. 24, I: 1 maart 1993)] dient tevens een afschrift bijgevoegd van eerdere beslissingen over vergunningsaanvragen die werden ingediend voor de exploitatie, de lozing van afvalwater, de verwijdering van afvalstoffen, of ter bescherming van grondwater met betrekking tot de inrichting of in voorkomend geval de datum waarop alsmede de overheid bij wie dergelijke vergunning(en) werd(en) aangevraagd vermeld. Bijl ….<br>
 <br>
-F [Bijlagen<br>
+F Bijlagen<br>
 1° Wanneer de melding betrekking heeft op het exploiteren van een nieuwe derde klasse-inrichting en/of op de verandering van een bestaande inrichting derde klasse die na verandering in de derde klasse blijft ingedeeld en die geen milieutechnische eenheid vormt met inrichtingen vergund als eerste of tweede klasse, dienst steeds een plan op schaal van tenminste 1/500 gevoegd waarop de ligging van de inrichting op het betrokken kadastraal perceel is aangegeven.<br>
 2° Wanneer de melding betrekking heeft op een inrichting die ingedeeld is in één of meer van de subrubrieken 9.3 tot en met 9.8 van de indelingslijst dienen daarenboven de volgende bijlagen bijgevoegd:<br>
 a) een lijst met de aantallen dieren gespecificeerd overeenkomstig de diersoorten (categorieën) vermeld in artikel 5 van het decreet van 23 januari 1991 inzake de bescherming van het leefmilieu tegen de verontreiniging door meststoffen;<br>
@@ -32039,11 +33898,11 @@ h) de situering van alle (geregistreerde en niet geregistreerde) pompen op kaart
 4° Wanneer de melding betrekking heeft op een mededeling kleine verandering van een inrichting tweede of eerste klasse dienen bij het meldingsformulier de volgende bijlagen te worden gevoegd:<br>
 a) de beschrijving van de toestand vóór de beoogde verandering door een of meer uitvoeringsplannen op schaal van ten minste 1/200 waarop per productie-eenheid, per opslagplaats, per gebouw en per verdieping, de schikkingen van de installaties, machines, toestellen, apparaten (in voorkomend geval met hun bijbehorende motoren en opgave van het vermogen ervan) en opslagplaatsen (met capaciteit) evenals de lozingspunten van de afvalwaters weergegeven zijn alsmede de als hinderlijk ingedeelde handelingen aangegeven zijn;<br>
 b) de beschrijving van de toestand na de beoogde verandering door een of meer uitvoeringsplannen op schaal van ten minste 1/200 waarop per productie-eenheid, per opslagplaats, per gebouw en per verdieping die bij de verandering betrokken zijn, de schikkingen van de installaties, machines, toestellen, apparaten (in voorkomend geval met hun bijbehorende motoren en opgave van het vermogen ervan) en opslagplaatsen (met capaciteit) evenals de lozingspunten van de afvalwaters weergegeven zijn alsmede de als hinderlijk ingedeelde handelingen aangegeven zijn;<br>
-c) een afschrift van de gedane meldingen, evenals een afschrift van eerdere beslissingen over vergunningsaanvragen die werden ingediend voor de exploitatie, de lozing van afvalwaters, de verwerking van afvalstoffen, de winning van grondwater of voor de bescherming van grondwater met betrekking tot de inrichting of in voorkomend geval de datum waarop alsmede de overheid bij wie dergelijke vergunning(en) werd(en) aangevraagd. (verv. B.V.R. 12 januari 1999, art. 67, I: 1 mei 1999)]<br>
-[5. Wanneer het gaat om een inrichting aangeduid met een Y in de vierde kolom van de indelingslijst en de melding heeft betrekking op een mededeling kleine verandering inzake “verandering aan het BKG-inrichting” zoals gedefinieerd in artikel 1 van titel I van het VLAREM (wat inhoudt dat een verandering in de aard of werking van een BKG inrichting of een fysieke uitbreiding van de BKG-inrichting, die als gevolg heeft dat ten opzichte van het referentiejaar de productiecapaciteit van de BKG-inrichting met meer dan 10 % zal stijgen of ten opzichte van het referentiejaar de CO2-emissies op jaarbasis met meer dan 5.000 ton zullen toenemen) dienen volgende bijlagen te worden gevoegd:<br>
+c) een afschrift van de gedane meldingen, evenals een afschrift van eerdere beslissingen over vergunningsaanvragen die werden ingediend voor de exploitatie, de lozing van afvalwaters, de verwerking van afvalstoffen, de winning van grondwater of voor de bescherming van grondwater met betrekking tot de inrichting of in voorkomend geval de datum waarop alsmede de overheid bij wie dergelijke vergunning(en) werd(en) aangevraagd.<br>
+5. Wanneer het gaat om een inrichting aangeduid met een Y in de vierde kolom van de indelingslijst en de melding heeft betrekking op een mededeling kleine verandering inzake “verandering aan het BKG-inrichting” zoals gedefinieerd in artikel 1 van titel I van het VLAREM (wat inhoudt dat een verandering in de aard of werking van een BKG inrichting of een fysieke uitbreiding van de BKG-inrichting, die als gevolg heeft dat ten opzichte van het referentiejaar de productiecapaciteit van de BKG-inrichting met meer dan 10 % zal stijgen of ten opzichte van het referentiejaar de CO2-emissies op jaarbasis met meer dan 5.000 ton zullen toenemen) dienen volgende bijlagen te worden gevoegd:<br>
 a) een door het verificatiebureau geverifieerde en goedgekeurde aanpassing van het monitoring protocol zoals bepaald in artikel 5, § 9;<br>
-b) een door het verificatiebureau geverifieerde berekening van de verwachte, voor de BKG-inrichting relevante broeikasgasemissies in het jaar van opstart van de inrichting;<br>
-c) een door het verificatiebureau geverifieerde berekening van de jaarlijkse verwachte, voor de BKG-inrichting relevante broeikasgasemissies in een normaal jaar van exploitatie.(ing. B.V.R. 4 februari 2005, art. 41, I: 28 februari 2005)]<br>
+b) een berekening van de verwachte, voor de BKG-inrichting relevante, broeikasgasemissies in het kalenderjaar van opstart van de inrichting;<br>
+c) een berekening van de jaarlijks verwachte, voor de BKG-inrichting relevante, broeikasgasemissies in een normaal kalenderjaar van exploitatie;<br>
 <br>
 De ondergetekende verklaart hiermede dat de door hem (haar) verstrekte inlichtingen juist en volledig zijn en dat hij (zij) zich zal houden aan de verplichtingen die hem (haar) hetzij door de wetgever, hetzij door de bevoegde diensten worden opgelegd.<br>
 <br>
@@ -32055,7 +33914,7 @@ Handtekening.<br>
 Dit meldingsformulier dient per ter post aangetekende zending of bij afgiste tegen ontvangstbewijs overgemaakt aan:<br>
 - wanneer de melding een exploitatie of verandering betreft, aan het college van burgemeester en schepenen van de gemeente(n) waarin de percelen zijn gelegen (artikel 2 van het VLAREM)<br>
 - wanneer de melding een overname betreft, aan de overheid die de laatste vergunning heeft verleend (artikel 42 van het VLAREM)<br>
-[- wanneer de melding betrekking heeft op de overname van een vergunde inrichting dient de melding eveneens voor akkoord te worden mede-ondertekend door de vergunninghouder. (verv. B.V.R. 28 oktober 1992, art. 24, I: 1 maart 1993)]</p>
+- wanneer de melding betrekking heeft op de overname van een vergunde inrichting dient de melding eveneens voor akkoord te worden mede-ondertekend door de vergunninghouder.
 
 ## BIJLAGE 4
 
@@ -32063,10 +33922,10 @@ Dit meldingsformulier dient per ter post aangetekende zending of bij afgiste teg
 
 <p>MILIEUVERGUNNINGSAANVRAAGFORMULIER VOOR DE EXPLOITATIE OF DE VERANDERING VAN EEN INRICHTING VAN KLASSE 1 OF 2 (artikel 5 van het Vlarem)<br>
 <br>
-[De aanvra(a)g(st)er wordt eraan herinnerd dat dit formulier samen met de vereiste bijlagen moet worden afgeleverd, conform de bepalingen van het Vlarem:<br>
+De aanvra(a)g(st)er wordt eraan herinnerd dat dit formulier samen met de vereiste bijlagen moet worden afgeleverd, conform de bepalingen van het Vlarem:<br>
 - In tien exemplaren, als de aanvraag bij de Bestendige Deputatie van de provincieraad dient ingediend;<br>
 - In negen exemplaren, als de aanvraag bij de Gemeenschapsminister dient ingediend;<br>
-- In zeven exemplaren, als de aanvraag bij het College van burgemeester en Schepenen dient ingediend. (verv. B.V.R. 28 oktober 1992, art. 25, I: 1 maart 1993)]<br>
+- In zeven exemplaren, als de aanvraag bij het College van burgemeester en Schepenen dient ingediend.<br>
 <br>
 In zijn (haar) belang is het meer dan wenselijk de bijlagen te nummeren en een verwijzingslijst bij te voegen bij dit formulier.<br>
 <br>
@@ -32423,14 +34282,14 @@ Naam en hoedanigheid van de Voorzitter en de secretaris van dit comité hierna v
 ° - Een gemeente, een vereniging van gemeenten of een openbaar centrum voor maatschappelijk welzijn.<br>
 ° - Een niet hiervoren genoemde openbare instelling.<br>
 <br>
-[5. De exploitant heeft een milieucoördinator aangesteld? (JA/NEEN) …<br>
+5. De exploitant heeft een milieucoördinator aangesteld? (JA/NEEN) …<br>
 Zo ja:<br>
 - naam, voornaam, geboortedatum en adres van deze milieucoördinator;<br>
 - is hij/zij een werknemer van de exploitant? (JA/NEEN) …<br>
 Zo ja:<br>
 Functie: …<br>
 Zo neen:<br>
-Beroep: … (ing.BVR 12 januari 1999, art. 68, I 1/5/99)]<br>
+Beroep: …<br>
 <br>
 C. Voorwerp van de aanvraag (aankruisen wat van toepassing is):<br>
 ° - De exploitatie van een nieuwe inrichting<br>
@@ -32593,7 +34452,9 @@ a) Gemiddelde en maximum hoeveelheid van iedere gebruikte stof (voor de gebruikt
 
 <p>&nbsp;</p>
 
-<p>&nbsp;2° een beschrijving van de aan te wenden procédé’s en reagentia:<br>
+<p>&nbsp;</p>
+
+<p>2° een beschrijving van de aan te wenden procédé’s en reagentia:<br>
 Bijl ….<br>
 3° de aard en het vermogen van de toestellen:<br>
 Bijl …<br>
@@ -32602,7 +34463,7 @@ Bijl …<br>
 5° de aard, de maximum voorziene hoeveelheid en de fysische, chemische en toxicologische kenmerken van de opslagplaatsen en van de grondstoffen, tussenprodukten, bijprodukten, eindprodukten, afvalstoffen en afvalwaters alsmede de geplande bestemming van de afvalstoffen en de afvalwaters;<br>
 6° de kenmerkende gegevens (aard en hoeveelheid) van de voorziene emissies, afvalstoffen en afvalwaters:<br>
 <br>
-4.2. In geval de aanvraag betrekking heeft op een [… (geschr. B.V.R. 12 januari 1999, art. 68, I: 1 mei 1999)] indirecte lozing in grondwater van gevaarlijke stoffen (indelingsrubriek [nr. 52 (verv. B.V.R. 12 januari 1999, art. 68, I: 1 mei 1999)] of op een stortplaats of opslagplaats voor afvalstoffen in of op de bodem.<br>
+4.2. In geval de aanvraag betrekking heeft op een indirecte lozing in grondwater van gevaarlijke stoffen (indelingsrubriek nr. 52) of op een stortplaats of opslagplaats voor afvalstoffen in of op de bodem.<br>
 <br>
 Geef, aanvullende aan de gegevens bedoeld in sub; 4.1. gedetailleerd en gestaafd door de nodige bijlagen:<br>
 Bijl …<br>
@@ -32615,15 +34476,15 @@ Bijl …<br>
 4° - een algemene beschrijving van het terrein en de omgeving met vermelding van het huidige gebruik, de begroeiing, het bodembestand en de eventuele bebouwing:<br>
 Bijl …<br>
 <br>
-4.3. In geval de aanvraag betrekking heeft op de [verwerking van afvalstoffen (verv. B.V.R. 12 januari 1999, art. 68, I: 1 mei 1999)]<br>
+4.3. In geval de aanvraag betrekking heeft op de verwerking van afvalstoffen<br>
 Geef aanvullend aan de gegevens bedoeld in sub. 4.1), gedetailleerd en gestaafd door de nodige bijlagen:<br>
-1° - de maatregelen die desgevallend kunnen genomen worden, wanneer de installaties of terreinen tijdelijk buiten gebruik zijn, om welke reden ook, zodat de [verwerking van afvalstoffen (verv. B.V.R. 12 januari 1999, art. 68, I: 1 mei 1999)] verzekerd blijft:<br>
+1° - de maatregelen die desgevallend kunnen genomen worden, wanneer de installaties of terreinen tijdelijk buiten gebruik zijn, om welke reden ook, zodat de verwerking van afvalstoffen verzekerd blijft:<br>
 Bijl …<br>
-2° - de algemene kenmerken van de soorten van afvalstoffen die per dag of per week, per maand en per jaar kunnen [verwerkt (verv. B.V.R. 12 januari 1999, art. 68, I: 1 mei 1999)]<br>
+2° - de algemene kenmerken van de soorten van afvalstoffen die per dag of per week, per maand en per jaar kunnen verwerkt<br>
 3° - het volume en het gewicht van de afvalstoffen;<br>
 4° - de aard, samenstelling en herkomst van de afvalstoffen;<br>
 Bijl …<br>
-5° - de kwalificatie en de taken van het personeel belast met de [afvalstoffenverwerking (verv. B.V.R. 12 januari 1999, art. 68, I: 1 mei 1999)]<br>
+5° - de kwalificatie en de taken van het personeel belast met de afvalstoffenverwerking<br>
 6° - vier recente foto’s van het terrein, genomen vanuit de verschillende hoofdwindrichtingen;<br>
 Bijl …<br>
 7° - indien de aanvrager het vervullen van een opdracht van algemeen nut beoogt, een verbintenis van de aanvrager om, binnen de perken, het voorwerp en de voorwaarden van de milieuvergunning, afvalstoffen te aanvaarden op schriftelijke vraag van de Openbare Afvalstoffenmaatschappij voor het Vlaamse Gewest of in opdracht ervan.<br>
@@ -33872,12 +35733,12 @@ Bijl …<br>
 7° Is het mogelijk dat onder bepaalde omstandigheden de aangegeven debieten en de karakteristieken overschreden worden? Zo ja, gelieve dit nauwkeurig te omschrijven.<br>
 Bijl …<br>
 <br>
-4.5 In geval de aanvraag betrekking heeft op opslagplaatsen en installaties voor [verwerking van gevaarlijke afvalstoffen: (verv. B.V.R. 27 april 1994, art. 7, I: 7 mei 1994)]<br>
+4.5 In geval de aanvraag betrekking heeft op opslagplaatsen en installaties voor verwerking van gevaarlijke afvalstoffen:<br>
 <br>
 Geef, aanvullend aan de gegevens bedoeld in sub 4.1) volgende nota’s:<br>
-1° Een nota betreffende de kwalificatie en de bevoegdheid van het personeel dat verantwoordelijk is voor de [verwerkingsverrichtingen (verv. B.V.R. 27 april 1994, art. 7, I: 7 mei 1994)]<br>
+1° Een nota betreffende de kwalificatie en de bevoegdheid van het personeel dat verantwoordelijk is voor de verwerkingsverrichtingen<br>
 Bijl …<br>
-2° Een nota die de te treffen maatregelen vermeldt voor de evacuatie van de residu van [de verwerking van gevaarlijke afvalstoffen (verv. B.V.R. 27 april 1994, art. 7, I: 7 mei 1994)]<br>
+2° Een nota die de te treffen maatregelen vermeldt voor de evacuatie van de residu van de verwerking van gevaarlijke afvalstoffen<br>
 a) Indien het gaat om vloeibare residus: dezelfde inlichtingen als deze die moeten gegeven worden bij het lozen van afvalwater (zie sub 4.4);<br>
 b) Indien het gaat om gasvormige residus:<br>
 1. De aard van het lozingspunt (schouw, ontluchting, toorts), de hoogte, de binnendiameter bij de monding;<br>
@@ -33889,7 +35750,7 @@ c) Indien het gaat om vaste residus:<br>
 2. De aard van de gevaarlijke stoffen die er kunnen in aanwezig zijn en voor ieder van hen, de hoeveelheid per dag en per maand;<br>
 3. De nauwkeurige beschrijving van de wijze waarop de residus opgeslagen, verwijderd of vervoerd worden, alsmede hun bestemming;<br>
 4. In het geval dat de residus in de grond ingegraven worden, de hydrologische en geologische inlichtingen betreffende het terrein waarin zijn ingegraven zullen worden, de fauna en de flora die er zich kunnen ontwikkelen, de beschermingsmaatregelen die getroffen zullen worden om de toegang tot het terrein te beletten aan elke persoon die niet tot de onderneming behoort.<br>
-[4.6 In geval de aanvraag betrekking heeft op de winning van grondwater:<br>
+4.6 In geval de aanvraag betrekking heeft op de winning van grondwater:<br>
 Geef aanvullend aan de gegevens bedoeld in sub 4.1) voor elk van de grondwaterwinningen, gegroepeerd per watervoerende laag:<br>
 1° De activiteit waarbinnen de grondwaterwinning zich situeert;<br>
 2° De bestemming van het grondwater;<br>
@@ -33952,12 +35813,12 @@ g) zo nodig de maatregelen betreffende de preventie en de nuttige toepassing van
 h) de andere maatregelen die worden getroffen om te voldoen aan de algemene beginselen van de fundamentele verplichtingen van de exploitant, bedoeld in artikel 43ter;<br>
 i) de maatregelen die worden getroffen ter controle van de emissies in het milieu<br>
 Bijl …<br>
-[j) een schets van de voornaamste alternatieven die de aanvrager heeft bestudeerd, voorzover die bestaan; (ing. B.V.R. 3 juni 2005, art. 10, I: 1 juli 2005)]<br>
+j) een schets van de voornaamste alternatieven die de aanvrager heeft bestudeerd, voorzover die bestaan;<br>
 2° een niet-technische samenvatting van de in de sub 1° bedoelde bijlage genoemde gegevens.<br>
 Bijl …<br>
-Indien de milieuvergunningsaanvraag betrekking heeft op een MER-plichtige inrichting volstaat een verwijzing naar het bij de aanvraag gevoegde milieu-effectrapport inzoverre voormelde gegevens in dit milieu-effectrapport zijn opgenomen. (ing. B.V.R. 12 januari 1999, art. 68, I: 1 mei 1999)]<br>
+Indien de milieuvergunningsaanvraag betrekking heeft op een MER-plichtige inrichting volstaat een verwijzing naar het bij de aanvraag gevoegde milieu-effectrapport inzoverre voormelde gegevens in dit milieu-effectrapport zijn opgenomen.<br>
 <br>
-[4.10. In geval de aanvraag betrekking heeft op:<br>
+4.10. In geval de aanvraag betrekking heeft op:<br>
 - een nieuwe inrichting met een totaal jaarlijks energiegebruik van tenminste 0,1 PetaJoule, of<br>
 - de verandering van een inrichting met een totaal jaarlijks energiegebruik van tenminste 0,1 PetaJoule voor zover deze de voor het energieverbruik relevante onderdelen van de inrichting betreft<br>
 (een inrichting zoals bepaald in artikel 5, § 8, van titel I van het VLAREM):<br>
@@ -33966,12 +35827,12 @@ een energiestudie of als het een hervergunning betreft een energieplan, zoals be
 <br>
 4.11. In geval de aanvraag betrekking heeft op een BKG-inrichting, zoals gedefinieerd in artikel 1 van titel I van het VLAREM (aangeduid met een Y in de vierde kolom van de indelingslijst):<br>
 Geef aanvullend aan de gegevens bedoeld in sub 4.1:<br>
-een door het verificatiebureau geverifieerd en goedgekeurd monitoring protocol zoals bedoeld in artikel 5, § 9;<br>
-een door het verificatiebureau geverifieerde en goedgekeurde berekening van de verwachte, voor de BKG-inrichting relevante, broeikasgasemissies in het kalenderjaar van opstart van de inrichting<br>
-een door het verificatiebureau geverifieerde en goedgekeurde berekening van de jaarlijks verwachte, voor de BKG-inrichting relevante, broeikasgasemissies in een normaal kalenderjaar van exploitatie. (ing. B.V.R. 4 februari 2005, art. 42, I: 28 februari 2005)]<br>
+1.een door het verificatiebureau geverifieerd en goedgekeurd monitoring protocol zoals bedoeld in artikel 5, § 9;<br>
+2. een berekening van de verwachte, voor de BKG-inrichting relevante, broeikasgasemissies in het kalenderjaar van opstart van de inrichting;<br>
+3. een berekening van de jaarlijks verwachte, voor de BKG-inrichting relevante, broeikasgasemissies in een normaal kalenderjaar van exploitatie;<br>
 <br>
-E. [PREVENTIEVE VOORZIENINGEN<br>
-Welke zijn de op basis van de [beste beschikbare technieken (verv. B.V.R. 12 januari 1999, art. 68, I: 1 mei 1999)] voorziene maatregelen en/of installaties om:<br>
+E. PREVENTIEVE VOORZIENINGEN<br>
+Welke zijn de op basis van de beste beschikbare technieken voorziene maatregelen en/of installaties om:<br>
 a) Het verbruik van energie, water, grondstoffen en hulpstoffen te beperken;<br>
 Bijl …<br>
 b) De gasvormige effluenten, afvalstoffen en afval waters te voorkomen, te herbruiken en/of te beperken;<br>
@@ -33982,7 +35843,7 @@ d) Lucht-, bodem- en waterverontreiniging alsmede het gevaar voor de mens buiten
 Bijl …<br>
 e) Te voldoen aan de algemene en sectorale milieuvoorwaarden die van toepassing zijn op de inrichting;<br>
 Bijl …<br>
-(verv. B.V.R. 1 juni 1995, art. 7.1.1.7., I: 1 augustus 1995)]<br>
+<br>
 <br>
 F. Milieueffectrapport en Veiligheidsrapport.<br>
 Is een milieueffectrapport en/of veiligheidsrapport vereist: (aankruisen wat van toepassing is):<br>
@@ -34004,7 +35865,7 @@ Bijl …<br>
 3. Afwijkingen<br>
 Werd voor de inrichting een afwijking aan de algemene en/of sectorale milieuvoorwaarden aangevraagd?<br>
 (ja of neen): …<br>
-In voorkomend geval, een afschrift van de beslissing over voormelde aanvraag bijvoegen als bijlage … (ing. B.V.R. 1 juni 1995, art. 7.1.1.7., I: 1 augustus 1995)]<br>
+In voorkomend geval, een afschrift van de beslissing over voormelde aanvraag bijvoegen als bijlage …<br>
 <br>
 H. Bij de vergunningsaanvraag te voegen.<br>
 1° Een situeringsplan op schaal van ten minste 1/1.000, waarop de ligging van de gebouwen, de produktieafdelingen, de opslagplaatsen, de stortplaatsen en de lozingspunten ten opzichte van de aanpalende percelen weergegeven zijn.<br>
@@ -34057,310 +35918,483 @@ Handtekening,<br>
 
 ### BIJLAGE 6
 
-[Inrichtingen als omschreven in artikel 8 van titel I van het VLAREM (verv. B.V.R. 29 september 2000, art. 14, I: 26 juni 2001)]<br>
-<br>
-[Inleiding<br>
-[De bijlage handelt over de aanwezigheid van gevaarlijke stoffen in een inrichting, zoals omschreven in artikel 7 van titel I van Vlarem en stelt de toepassing van artikel 8 ervan vast. (verv. B.V.R. 29 september 2000, art. 14, I: 26 juni 2001)]<br>
-<br>
-[2. Mengsels en preparaten worden behandeld als zuivere stoffen, mits zij binnen de in deel 2, voetnoot 1, vermelde concentratiegrenzen blijven welke aan de hand van hun eigenschappen krachtens de desbetreffende richtlijn en/of de meest recente aanpassing daarvan aan de technische vooruitgang zijn vastgesteld, tenzij specifiek een samenstellingspercentage of een andere beschrijving wordt gegeven.<br>
-<br>
-3. De onderstaande drempelwaarden gelden per inrichting<br>
-<br>
-4. De voor de toepassing van de artikelen in aanmerking te nemen hoeveelheden zijn de maximumhoeveelheden die op enig moment aanwezig zijn of kunnen zijn. Gevaarlijke stoffen die slechts in hoeveelheden van 2 % of minder van de vermelde drempelwaarde in een inrichting aanwezig zijn, worden bij de berekening van de totale aanwezige hoeveelheden buiten beschouwing gelegen, indien zij zich op een zodanige plaats in de inrichting bevinden dat deze niet de oorzaak van een zwaar ongeval elders op het bedrijfsterrein kan zijn.<br>
-<br>
-5. De in deel 2, voetnoot 4, vermelde regels voor het optellen van gevaarlijke stoffen of categorieën gevaarlijke stoffen zijn eventueel van toepassing.<br>
-<br>
-DEEL I - Met name genoemde stoffen<br>
-<br>
+<p>BIJLAGE 6.<br>
+INRICHTINGEN ALS BEDOELD IN VLAREM-INDELINGSRUBRIEK 17.2<br>
+(bijlage I bij de EG-richtlijn 96/82/EG van 9 december 1996 betreffende de beheersing van de gevaren van zware ongevallen waarbij gevaarlijke stoffen zijn betrokken, zoals die is gewijzigd door de EG-richtlijn 2003/105/EG van 16 december 2003)<br>
+INLEIDING<br>
+1° Deze bijlage handelt over de aanwezigheid van gevaarlijke stoffen in een inrichting, zoals omschreven in artikel 7 van titel I van Vlarem, en stelt de toepassing van artikel 8 ervan vast.<br>
+2° Mengsels en preparaten worden behandeld als zuivere stoffen, mits zij binnen de in deel 2, voetnoot 1, vermelde concentratiegrenzen blijven welke aan de hand van hun eigenschappen krachtens de desbetreffende richtlijn en/of de meest recente aanpassing daarvan aan de technische vooruitgang zijn vastgesteld, tenzij specifiek een samenstellingspercentage of een andere beschrijving wordt gegeven.<br>
+3° De onderstaande drempelwaarden gelden per inrichting.<br>
+4° De voor de toepassing van de artikelen in aanmerking te nemen hoeveelheden zijn de maximumhoeveelheden die op enig moment aanwezig zijn of kunnen zijn. Gevaarlijke stoffen die slechts in hoeveelheden van 2 % of minder van de vermelde drempelwaarde in een inrichting aanwezig zijn, worden bij de berekening van de totale aanwezige hoeveelheden buiten beschouwing gelaten, indien zij zich op een zodanige plaats in de inrichting bevinden dat deze niet de oorzaak van een zwaar ongeval elders op het bedrijfsterrein kan zijn.<br>
+5° De in deel 2, voetnoot 4, vermelde regels voor het optellen van gevaarlijke stoffen of categorieën gevaarlijke stoffen zijn eventueel van toepassing.<br>
+6° In deze richtlijn wordt onder een gas een stof verstaan die bij een temperatuur van 20 °C een absolute dampspanning van ten minste 101,3 kPa heeft.<br>
+7° In deze richtlijn wordt onder een vloeistof een stof verstaan die niet als gas gedefinieerd is en die bij een temperatuur van 20 °C en een standaarddruk van 101,3 kPa niet in vaste toestand is.<br>
+DEEL 1<br>
+Met name genoemde stoffen<br>
 Wanneer een in deel I genoemde stof of groep stoffen ook in een categorie van deel 2 valt, moeten de in deel 1 vermelde drempelwaarden worden gehanteerd.<br>
+</p>
 
 <table border="1" cellpadding="0" cellspacing="0" style="border-collapse:collapse">
 	<tbody>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:293.4pt">
-			<p>Gevaarlijke stof<!--?xml:namespace prefix = o ns =         "urn:schemas-microsoft-com:office:office" /--></p>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:203.4pt">
+			<p>Kolom 1<!--?xml:namespace         prefix = o ns = "urn:schemas-microsoft-com:office:office"         /--></p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:167.2pt">
-			<p>Drempelwaarde (in ton) voor toepassing van artikel 8</p>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:135pt">
+			<p>Kolom 2</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:122.2pt">
+			<p>Kolom 3</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:293.4pt">
-			<p>Ammoniumnitraat</p>
+			<td rowspan="2" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:203.4pt">
+			<p>Gevaarlijke stof</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:167.2pt">
+			<td colspan="2" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:257.2pt">
+			<p>Drempelwaarde (in ton) voor de toepassing van:</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:135pt">
+			<p>VLAREM-rubriek 17.2.1</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:122.2pt">
+			<p>VLAREM-rubriek 17.2.2</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:203.4pt">
+			<p>Ammoniumnitraat (zie noot 1)</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:135pt">
+			<p>5 000</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:122.2pt">
+			<p>10 000</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:203.4pt">
+			<p>Ammoniumnitraat (zie noot 2)</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:135pt">
+			<p>1 250</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:122.2pt">
+			<p>5 000</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:203.4pt">
+			<p>Ammoniumnitraat (zie noot 3)</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:135pt">
+			<p>350</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:122.2pt">
 			<p>2 500</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:293.4pt">
-			<p>Ammoniumnitraat-kunstmest</p>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:203.4pt">
+			<p>Ammoniumnitraat (zie noot 4)</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:167.2pt">
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:135pt">
+			<p>10</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:122.2pt">
+			<p>50</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:203.4pt">
+			<p>Kaliumnitraat (zie noot 5)</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:135pt">
+			<p>5 000</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:122.2pt">
+			<p>10 000</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:203.4pt">
+			<p>Kaliumnitraat (zie noot 6)</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:135pt">
+			<p>1 250</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:122.2pt">
 			<p>5 000</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:293.4pt">
-			<p>Diarseenpentoxide, arseen (V)zuur, en/of zouten daarvan</p>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:203.4pt">
+			<p>Diarseenpentoxide, arseen, (V)zuur, en/of zouten daarvan</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:167.2pt">
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:135pt">
+			<p>1</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:122.2pt">
 			<p>2</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:293.4pt">
-			<p>Diarseentrioxide, arseenzuur en/of zouten daarvan</p>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:203.4pt">
+			<p>Diarseentrioxide, arseen(III)zuur en/of zouten daarvan</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:167.2pt">
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:135pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:122.2pt">
 			<p>0,1</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:293.4pt">
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:203.4pt">
 			<p>Broom</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:167.2pt">
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:135pt">
+			<p>20</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:122.2pt">
 			<p>100</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:293.4pt">
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:203.4pt">
 			<p>Chloor</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:167.2pt">
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:135pt">
+			<p>10</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:122.2pt">
 			<p>25</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:293.4pt">
-			<p>Gevaarlijke stof</p>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:203.4pt">
+			<p>Inhaleerbare poedevormige nikkelverbindingen (nikkel-monoxide, nikkeldioxide, nikkelsulfide, trinikkeldisulfide, dinikkeltrioxide)</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:167.2pt">
-			<p>Drempelwaarde (in ton) voor toepassing van artikel 8</p>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:135pt">
+			<p>&nbsp;</p>
 			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:293.4pt">
-			<p>Inhaleerbare poedervormige nikkelverbindingen (nikkel-monoxide, nikkeldioxide, nikkelsulfide, trinikkeldisulfide, dinikkeltrioxide)</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:167.2pt">
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:122.2pt">
 			<p>1</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:293.4pt">
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:203.4pt">
 			<p>Ethyleenimine</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:167.2pt">
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:135pt">
+			<p>10</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:122.2pt">
 			<p>20</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:293.4pt">
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:203.4pt">
 			<p>Fluor</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:167.2pt">
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:135pt">
+			<p>10</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:122.2pt">
 			<p>20</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:293.4pt">
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:203.4pt">
 			<p>Formaldehyde (concentratie ≥ 90 %)</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:167.2pt">
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:135pt">
+			<p>5</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:122.2pt">
 			<p>50</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:293.4pt">
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:203.4pt">
 			<p>Waterstof</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:167.2pt">
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:135pt">
+			<p>5</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:122.2pt">
 			<p>50</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:293.4pt">
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:203.4pt">
 			<p>Zoutzuur (vloeibaar gas)</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:167.2pt">
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:135pt">
+			<p>25</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:122.2pt">
 			<p>250</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:293.4pt">
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:203.4pt">
 			<p>Loodalkylen</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:167.2pt">
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:135pt">
+			<p>5</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:122.2pt">
 			<p>50</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:293.4pt">
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:203.4pt">
 			<p>Zeer licht ontvlambare vloeibare gassen (inclusief LPG) en aardgas</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:167.2pt">
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:135pt">
+			<p>50</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:122.2pt">
 			<p>200</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:293.4pt">
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:203.4pt">
 			<p>Acetyleen</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:167.2pt">
-			<p>20</p>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:135pt">
+			<p>5</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:122.2pt">
+			<p>50</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:293.4pt">
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:203.4pt">
 			<p>Ethyleenoxide</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:167.2pt">
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:135pt">
+			<p>5</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:122.2pt">
 			<p>50</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:293.4pt">
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:203.4pt">
 			<p>Propyleenoxide</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:167.2pt">
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:135pt">
+			<p>5</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:122.2pt">
 			<p>50</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:293.4pt">
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:203.4pt">
 			<p>Methanol</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:167.2pt">
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:135pt">
+			<p>500</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:122.2pt">
 			<p>5 000</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:293.4pt">
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:203.4pt">
 			<p>Poedervormige 4,4-methyleenbis (2-chlooraniline) en/of zouten daarvan</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:167.2pt">
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:135pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:122.2pt">
 			<p>0,01</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:293.4pt">
-			<p>Methylisocyanaat</p>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:203.4pt">
+			<p>Methylisocynaat</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:167.2pt">
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:135pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:122.2pt">
 			<p>0,15</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:293.4pt">
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:203.4pt">
 			<p>Zuurstof</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:167.2pt">
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:135pt">
+			<p>20</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:122.2pt">
 			<p>2 000</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:293.4pt">
-			<p>Tolueendiïsocyanaat</p>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:203.4pt">
+			<p>Tolueendiisocyanaat</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:167.2pt">
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:135pt">
+			<p>10</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:122.2pt">
 			<p>100</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:293.4pt">
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:203.4pt">
 			<p>Carbonylchloride (fosgeen)</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:167.2pt">
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:135pt">
+			<p>0,3</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:122.2pt">
 			<p>0,75</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:293.4pt">
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:203.4pt">
 			<p>Arseentrihydride (arsine)</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:167.2pt">
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:135pt">
+			<p>0,2</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:122.2pt">
 			<p>1</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:293.4pt">
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:203.4pt">
 			<p>Fosfortrihydride (fosfine)</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:167.2pt">
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:135pt">
+			<p>0,2</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:122.2pt">
 			<p>1</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:293.4pt">
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:203.4pt">
 			<p>Zwaveldichloride</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:167.2pt">
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:135pt">
+			<p>1</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:122.2pt">
 			<p>1</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:293.4pt">
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:203.4pt">
 			<p>Zwaveltrioxide</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:167.2pt">
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:135pt">
+			<p>15</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:122.2pt">
 			<p>75</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:293.4pt">
-			<p>Polychloordibenzofuranen en polychloordibenzodioxinen (inclusief TCDD) uitgedrukt in TCDD-equivalent</p>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:203.4pt">
+			<p>Polychloordibenzofuranen en polychloordibenzodioxinen (inclusief TCDD uitgedrukt in TCDD-equivalent</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:167.2pt">
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:135pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:122.2pt">
 			<p>0,001</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:293.4pt">
-			<p>De volgende carcinogenen</p>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:203.4pt">
+			<p>De volgende CARCINOGENEN in concentraties van meer dan 5 gewichtspercenten:</p>
 
-			<p>4-aminibifenyl en/of zouten daarvan, benzidine en/of zouten daarvan, bis(chloor-methyl-ether, chloormethyl-methylether, dimethylcarbamoylchloride, dimethylnitrosamine, hexamethylfosforzuurtriamide, 2-naftylamine en/of zouten daarvan, 1,3-propaansulton en 4-nitrodifenyl</p>
+			<p>- 4-aminobifenyl en/of zouten daarvan, benzotrichloride, benzidine en/of zouten daarvan, di(chloormethyl)-ether, chloormethylether, 1,2-dibroomethaan, diethylsulfaat, dimethylsulfaat, dimethylcarbamoylchloride, 1,2-dibroom-3-chloorpropaan,</p>
+
+			<p>1,2-dimethylhydrazine, dimethylnitrosamine, hexamethylfosforzuurtriamide, hydrazine, 2-naftylamine en/of zouten daarvan, 4-nitrodifenyl en 1,3 propaansulton</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:167.2pt">
-			<p>0,001</p>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:135pt">
+			<p>0,5</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:122.2pt">
+			<p>2</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:293.4pt">
-			<p>Benzine en andere aardoliefracties</p>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:203.4pt">
+			<p>Aardolieproducten:</p>
+
+			<p>a) Benzines en nafta’s</p>
+
+			<p>b) Petroleum (met inbegrip van kerosines en luchtvaartbrandstoffen)</p>
+
+			<p>c) Gasoliën (met inbegrip van diesel, huisbrandolie en gasolie mengstromen)</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:167.2pt">
-			<p>50 000</p>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:135pt">
+			<p>2 500</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:122.2pt">
+			<p>25 000</p>
 			</td>
 		</tr>
 	</tbody>
 </table>
 
 <p>&nbsp;</p>
-VOETNOTEN<br>
-1. Ammoniumnitraat (350/2.500)<br>
-Dit geldt voor ammoniumnitraat en mengsels van ammoniumnitraat waarin het stikstofgehalte afkomstig van het ammoniumnitraat hoger is dan 28 gewichtspercent (en die niet onder (2) vallen) en voor waterig ammoniumnitraatoplossingen met een concentratie ammoniumnitraat van meer dan 90 gewichtspercent.<br>
-2. Ammoniumnitraat (1 250/5 000)<br>
-Dit geldt voor enkelvoudige ammoniumnitraat-mest die voldoen aan richtlijn 80/876/EEG en aan samengestelde meststoffen waarin het stikstofgehalte afkomstig van het ammoniumnitraat hoger is dan 28 gewichtspercent (de samengestelde meststof bevat ammoniumnitraat met fosfaat en/of potas).<br>
-3. Polychloordibenzofuranen en polychloordibenzodioxinen<br>
-De hoeveelheden polychloordibenzofuranen en polychloordibenzodioxinen worden berekend aan de hand van de volgende wegingsfactoren:<br>
+
+<p>&nbsp;</p>
+
+<p>VOETNOTEN<br>
+1. Ammoniumnitraat (5 000/10 000) : meststoffen die in staat zijn tot zelfonderhoudende ontleding<br>
+Dit is van toepassing op gemengde/samengestelde ammoniumnitraatmeststoffen (een gemengde/samengestelde meststof bevat ammoniumnitraat met fosfaat en/of kaliumcarbonaat) waarin het stikstofgehalte afkomstig van het ammoniumnitraat<br>
+a) 15,75 (1) - 24,5 (2) gewichtsprocent of minder is en die niet meer dan 0,4 % in totaal aan brandbare/organische stoffen bevatten of die voldoen aan de voorschriften van bijlage II van Richtlijn 80/876/EEG,<br>
+b) 15,75 (3) gewichtsprocent of minder en een onbeperkte hoeveelheid brandbare stoffen, en die in staat zijn tot zelfonderhoudende ontleding overeenkomstig de VN-goottest (zie United Nations Recommendations on the Transport of Dangerous Goods : Manual of Tests and Criteria, Part III, sub-section 38.2) (Aanbevelingen van de Verenigde Naties inzake het vervoer van gevaarlijke goederen : Handboek beproevingen en criteria, deel III, onderafdeling 38.2).<br>
+2. Ammoniumnitraat (1 250/5 000) : meststofkwaliteit<br>
+Dit is van toepassing op enkelvoudige ammoniumnitraatmeststoffen en op gemengde/samengestelde ammoniumnitraatmeststoffen waarin het stikstofgehalte afkomstig van het ammoniumnitraat<br>
+a) hoger is dan 24,5 gewichtsprocent, met uitzondering van mengsels van ammoniumnitraat en dolomiet, kalksteen en/of calciumcarbonaat met een zuiverheidsgraad van ten minste 90 %,<br>
+b) hoger is dan 15,75 gewichtsprocent voor mengsels van ammoniumnitraat en ammoniumsulfaat,<br>
+c) hoger is dan 28 (4) gewichtsprocent voor mengsels van ammoniumnitraat en dolomiet, kalksteen en/of calciumcarbonaat met een zuiverheidsgraad van ten minste 90 %, en die voldoen aan de voorschriften van bijlage II bij Richtlijn 80/876/EEG.<br>
+3. Ammoniumnitraat (350/2 500) : technisch zuivere stof<br>
+Dit is van toepassing op<br>
+a) ammoniumnitraat en ammoniumnitraatpreparaten waarin het stikstofgehalte, afkomstig van het ammoniumnitraat,<br>
+- gelegen is tussen 24,5 en 28 gewichtsprocent en die maximaal 0,4 % aan brandbare stoffen bevatten,<br>
+- hoger is dan 28 gewichtsprocent en die maximaal 0,2 % aan brandbare stoffen bevatten,<br>
+b) waterige ammoniumnitraatoplossingen met een ammoniumnitraatconcentratie van meer dan 80 gewichtsprocent.<br>
+4. Ammoniumnitraat (10/50) : « off-specs-materiaal » en meststoffen die niet voldoen aan de eisen van de detonatietest<br>
+Dit is van toepassing op :<br>
+a) afgekeurd materiaal afkomstig uit het fabricageproces en op ammoniumnitraat en ammoniumnitraatpreparaten, enkelvoudige ammoniumnitraatmeststoffen en gemengde/samengestelde ammoniumnitraatmeststoffen als bedoeld in de voetnoten 2 en 3, die van de eindgebruiker zijn of worden geretourneerd aan een fabrikant, een installatie voor tijdelijke opslag of een herverwerkingsinstallatie voor herverwerking, recycling of behandeling met het oog op een veilig gebruik omdat de stoffen niet langer voldoen aan de specificaties van de voetnoten 2 en 3,<br>
+b) meststoffen als bedoeld in de voetnoot 1, eerste streepje, en voetnoot 2 die niet voldoen aan de voorschriften van bijlage II bij Richtlijn 80/876/EEG.<br>
+5. Kaliumnitraat (5 000/10 000) : samengestelde meststoffen op basis van kaliumnitraat bestaande uit kaliumnitraat in de vorm van prills of granules.<br>
+6. Kaliumnitraat (1 250/5 000) : samengestelde meststoffen op basis van kaliumnitraat bestaande uit kaliumnitraat in kristalvorm.<br>
+7. Polychloordibenzofuranen en polychloordibenzodioxinen<br>
+De hoeveelheden polychloordibenzofuranen en polychloordibenzodioxinen worden berekend aan de hand van de volgende wegingsfactoren :<br>
+</p>
 
 <table border="1" cellpadding="0" cellspacing="0" style="border-collapse:collapse">
 	<tbody>
 		<tr>
 			<td colspan="4" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:460.6pt">
-			<p><strong>[</strong>International Toxic Equivalent Factors (ITEL) for the congeners of concern (NATO/CCMS)</p>
+			<p>International toxic Equivalent (ITEF) for the congeners of concern (NATO/CCMS)</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:#f0f0f0; border-top:#f0f0f0; vertical-align:top; width:115.15pt">
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:115.15pt">
 			<p>2, 3, 7, 8-TCDD</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:115.15pt">
 			<p>1</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; vertical-align:top; width:115.15pt">
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:115.15pt">
 			<p>2, 3, 7, 8-TCDF</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:115.15pt">
@@ -34368,13 +36402,18 @@ De hoeveelheden polychloordibenzofuranen en polychloordibenzodioxinen worden ber
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:#f0f0f0; border-top:#f0f0f0; vertical-align:top; width:115.15pt">
+			<td colspan="4" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:460.6pt">
+			<p>&nbsp;</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:115.15pt">
 			<p>1, 2, 3, 7, 8-PeDD</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:115.15pt">
 			<p>0,5</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; vertical-align:top; width:115.15pt">
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:115.15pt">
 			<p>2, 3, 4, 7, 8-PeCDF</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:115.15pt">
@@ -34382,13 +36421,13 @@ De hoeveelheden polychloordibenzofuranen en polychloordibenzodioxinen worden ber
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:#f0f0f0; border-top:#f0f0f0; vertical-align:top; width:115.15pt">
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:115.15pt">
 			<p>&nbsp;</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:115.15pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; vertical-align:top; width:115.15pt">
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:115.15pt">
 			<p>1, 2, 3, 7, 8-PeCDF</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:115.15pt">
@@ -34396,111 +36435,70 @@ De hoeveelheden polychloordibenzofuranen en polychloordibenzodioxinen worden ber
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:#f0f0f0; border-top:#f0f0f0; vertical-align:top; width:115.15pt">
-			<p>1, 2, 3, 4, 7, 8-HxCDD</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:115.15pt">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; vertical-align:top; width:115.15pt">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:115.15pt">
+			<td colspan="4" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:460.6pt">
 			<p>&nbsp;</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:#f0f0f0; border-top:#f0f0f0; vertical-align:top; width:115.15pt">
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:115.15pt">
+			<p>1, 2, 3, 4, 7, 8-HxCDD</p>
+			</td>
+			<td rowspan="4" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:115.15pt">
+			<p>0,1</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:115.15pt">
+			<p>1, 2, 3, 4,&nbsp; 7, 8-HxCDF</p>
+			</td>
+			<td rowspan="4" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:115.15pt">
+			<p>0,1</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:115.15pt">
 			<p>1, 2, 3, 6, 7, 8-HxCDD</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:115.15pt">
-			<p>0,1</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; vertical-align:top; width:115.15pt">
-			<p>1, 2, 3, 4, 7, 8 HxCDF</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:115.15pt">
-			<p>0,1</p>
+			<p>1, 2, 3, 7, 8, 9-HxCDF</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:#f0f0f0; border-top:#f0f0f0; vertical-align:top; width:115.15pt">
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:115.15pt">
 			<p>1, 2, 3, 7, 8, 9-HxCDD</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:115.15pt">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; vertical-align:top; width:115.15pt">
-			<p>1, 2, 3, 7, 8, 9 HxCDF</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:115.15pt">
-			<p>&nbsp;</p>
+			<p>1, 2, 3, 6,&nbsp; 7, 8-HxCDF</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:#f0f0f0; border-top:#f0f0f0; vertical-align:top; width:115.15pt">
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:115.15pt">
 			<p>&nbsp;</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:115.15pt">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; vertical-align:top; width:115.15pt">
-			<p>1, 2, 3, 6, 7, 8 HxCDF</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:115.15pt">
-			<p>&nbsp;</p>
+			<p>2, 3, 4, 6,&nbsp; 7, 8-HxCDF</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:#f0f0f0; border-top:#f0f0f0; vertical-align:top; width:115.15pt">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:115.15pt">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; vertical-align:top; width:115.15pt">
-			<p>2, 3, 4, 6, 7, 8 HxCDF</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:115.15pt">
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:#f0f0f0; border-top:#f0f0f0; vertical-align:top; width:115.15pt">
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:115.15pt">
 			<p>1, 2, 3, 4, 6, 7, 8-HpCDD</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:115.15pt">
 			<p>0,01</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; vertical-align:top; width:115.15pt">
-			<p>&nbsp;</p>
-			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:115.15pt">
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:#f0f0f0; border-top:#f0f0f0; vertical-align:top; width:115.15pt">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:115.15pt">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; vertical-align:top; width:115.15pt">
-			<p>1, 2, 3, 4, 5, 7, 8-HpCDF</p>
+			<p>1, 2, 3, 4, 6, 7, 8-HpCDF</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:115.15pt">
 			<p>0,01</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:#f0f0f0; border-top:#f0f0f0; vertical-align:top; width:115.15pt">
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:115.15pt">
 			<p>&nbsp;</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:115.15pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; vertical-align:top; width:115.15pt">
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:115.15pt">
 			<p>1, 2, 3, 4, 7, 8, 9-HpCDF</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:115.15pt">
@@ -34508,257 +36506,342 @@ De hoeveelheden polychloordibenzofuranen en polychloordibenzodioxinen worden ber
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:#f0f0f0; border-top:#f0f0f0; vertical-align:top; width:115.15pt">
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:115.15pt">
 			<p>OCDD</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:115.15pt">
 			<p>0,001</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; vertical-align:top; width:115.15pt">
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:115.15pt">
 			<p>OCDF</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:115.15pt">
 			<p>0,001</p>
 			</td>
 		</tr>
-		<tr>
-			<td colspan="4" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:460.6pt">
-			<p>(T = tetra, P = penta, Hx = hexa, HP = hepta, O= octa)</p>
-			</td>
-		</tr>
 	</tbody>
 </table>
 
 <p>&nbsp;</p>
-<br>
-(T = tetra, P = penta, Hx = hexa, HP = hepta, O = octa)<br>
-<br>
-DEEL 2 - Categorieën stoffen en preparaten die niet uitdrukkelijk in deel 1 worden genoemd:<br>
+
+<p>&nbsp;</p>
+
+<p>(T = tetra, P = penta, Hx = hexa, HP = hepta, O = octa)<br>
+DEEL 2<br>
+Categorieën stoffen en preparaten die niet uitdrukkelijk in deel 1 worden genoemd<br>
+</p>
 
 <table border="1" cellpadding="0" cellspacing="0" style="border-collapse:collapse">
 	<tbody>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:275.4pt">
+			<td colspan="2" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:221.4pt">
 			<p>Kolom 1</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:90pt">
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:117pt">
 			<p>Kolom 2</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:95.2pt">
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:122.2pt">
 			<p>Kolom 3</p>
 			</td>
 		</tr>
 		<tr>
-			<td rowspan="2" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:275.4pt">
-			<p>Gevaarlijke stoffen ingedeeld als:</p>
+			<td colspan="2" rowspan="2" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:221.4pt">
+			<p>Gevaarlijke stof</p>
 			</td>
-			<td colspan="2" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:185.2pt">
-			<p>Drempelwaarde (in ton) van de gevaarlijke stof voor de toepassing van</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:90pt">
-			<p>Artikel 7, § 2</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:95.2pt">
-			<p>Artikel 7, § 3</p>
+			<td colspan="2" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:239.2pt">
+			<p>Drempelwaarde (in ton) voor de toepassing van:</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:275.4pt">
-			<p>1. ZEER GIFTIG</p>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:117pt">
+			<p>VLAREM-rubriek 17.2.1</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:90pt">
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:122.2pt">
+			<p>VLAREM-rubriek 17.2.2</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:32.4pt">
+			<p>1.</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:189pt">
+			<p>Zeer giftig</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:117pt">
 			<p>5</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:95.2pt">
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:122.2pt">
 			<p>20</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:275.4pt">
-			<p>2. GIFTIG</p>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:32.4pt">
+			<p>2.</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:90pt">
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:189pt">
+			<p>Giftig</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:117pt">
 			<p>50</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:95.2pt">
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:122.2pt">
 			<p>200</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:275.4pt">
-			<p>3. OXIDEREND</p>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:32.4pt">
+			<p>3.</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:90pt">
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:189pt">
+			<p>OXIDEREND</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:117pt">
 			<p>50</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:95.2pt">
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:122.2pt">
 			<p>200</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:275.4pt">
-			<p>4. ONTPLOFBAAR (als de stof of het preparaat voldoet aan de in voetnoot 2 a) vermelde definitie)</p>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:32.4pt">
+			<p>4.</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:90pt">
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:189pt">
+			<p>ONTPLOFBAAR (zie voetnoot 2) wanneer de stof, het preparaat of het voorwerp onder VN/ADR-subklasse 1.4 valt</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:117pt">
 			<p>50</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:95.2pt">
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:122.2pt">
 			<p>200</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:275.4pt">
-			<p>5. ONTPLOFBAAR (als de stof op het preparaat voldoet aan de in voetnoot 2 b) vermelde definitie)</p>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:32.4pt">
+			<p>5.</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:90pt">
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:189pt">
+			<p>ONTPLOFBAAR (zie voetnoot 2) wanneer de stof, het preparaat of het voorwerp onder één of meer van de VN/ADR-subklassen 1.1, 1.2, 1.3, 1.5 en 1.6, dan wel onder waarschuwingszin R 2 of R 3 valt</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:117pt">
 			<p>10</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:95.2pt">
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:122.2pt">
 			<p>50</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:275.4pt">
-			<p>6. ONTVLAMBAAR (als de stof op het preparaat voldoet aan de in voetnoot 3 a) vermelde definitie)</p>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:32.4pt">
+			<p>6.</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:90pt">
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:189pt">
+			<p>ONTVLAMBAAR (als de stof of het preparaat voldoet aan de in voetnoot 1 a) vermelde definitie)</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:117pt">
 			<p>5 000</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:95.2pt">
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:122.2pt">
 			<p>50 000</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:275.4pt">
-			<p>7a. LICHT ONTVLAMBAAR (als de stof op het preparaat voldoet aan de in voetnoot 3 b) 1 vermelde definitie)</p>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:32.4pt">
+			<p>7a.</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:90pt">
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:189pt">
+			<p>LICHT ONTVLAMBAAR (als de stof of het preparaat voldoet aan de in voetnoot 3 b) 1 vermelde definitie</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:117pt">
 			<p>50</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:95.2pt">
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:122.2pt">
 			<p>200</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:275.4pt">
-			<p>7b. LICHT ONTVLAMBARE vloeistoffen (als de stof op het preparaat voldoet aan de in voetnoot 3 b) 2 vermelde definitie)</p>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:32.4pt">
+			<p>7b.</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:90pt">
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:189pt">
+			<p>LICHT ONTVLAMBARE VLOEISTOFFEN (als de stof of het preparaat voldoet aan de in voetnoot 3 b) 2 vermelde definitie)</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:117pt">
 			<p>5 000</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:95.2pt">
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:122.2pt">
 			<p>50 000</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:275.4pt">
-			<p>8. ZEER LICHT ONTVLAMBAAR (als de stof op het preparaat voldoet aan de in voetnoot 3 c) vermelde definitie)</p>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:32.4pt">
+			<p>8.</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:90pt">
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:189pt">
+			<p>ZEER LICHT ONTVLAMBAAR (als de stof of het preparaat voldoet aan de in voetnoot 3 c) vermelde definitie)</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:117pt">
 			<p>10</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:95.2pt">
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:122.2pt">
 			<p>50</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:275.4pt">
-			<p>9. GEVAARLIJK VOOR HET MILIEU in combinatie met waarschuwingszin:</p>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:32.4pt">
+			<p>9.</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:90pt">
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:189pt">
+			<p>GEVAARLIJK VOOR HET MILIEU, waarschuwingszinnen:</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:117pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:95.2pt">
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:275.4pt">
-			<p>i) R50 (zeer giftig voor het in water levende organismen)</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:90pt">
-			<p>500</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:95.2pt">
-			<p>2 000</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:275.4pt">
-			<p>ii) R51 (giftig voor in het water levende organismen) en R53 (kan in het aquatisch milieu op lange termijn schadelijke effecten veroorzaken)</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:90pt">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:95.2pt">
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:122.2pt">
 			<p>&nbsp;</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:275.4pt">
-			<p>10. IEDERE INDELING die niet valt onder de bovenstaande in combinatie met de volgende waarschuwingszinnen:</p>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:32.4pt">
+			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:90pt">
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:189pt">
+			<p>i) R50: “zeer giftig voor in het water levende organismen” (inclusief R50/53)</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:117pt">
 			<p>100</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:95.2pt">
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:122.2pt">
+			<p>200</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:32.4pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:189pt">
+			<p>ii)) R51/53: “giftige voor in het water levende organismen; kan in het aquatisch milieu op lange termijn schadelijke effecten veroorzaken”</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:117pt">
+			<p>200</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:122.2pt">
 			<p>500</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:32.4pt">
+			<p>10.</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:189pt">
+			<p>IEDERE INDELING die niet valt onder de bovenstaande in combinatie met de volgende waarschuwingszinnen:</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:117pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:122.2pt">
+			<p>&nbsp;</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:32.4pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:189pt">
+			<p>i) R14 – reageert heftig in contact met water (inclusief R 14/15)</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:117pt">
+			<p>100</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:122.2pt">
+			<p>500</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:32.4pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:189pt">
+			<p>ii)) R29 – vormt giftig gas in contact met water</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:117pt">
+			<p>50</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:122.2pt">
+			<p>200</p>
 			</td>
 		</tr>
 	</tbody>
 </table>
 
 <p>&nbsp;</p>
-VOETNOTEN<br>
-<br>
-1. Stoffen en preparaten worden ingedeeld volgens de volgende richtlijnen (als gewijzigd) en de meest recente aanpassing daarvan aan de technische vooruitgang:<br>
-- Richtlijn 67/548/EEG van de Raad van 27 juni 1967 betreffende de aanpassing van de wettelijke en bestuursrechtelijke bepalingen inzake de indeling, de verpakking en het kenmerken van gevaarlijke stoffen (1).<br>
-- Richtlijn 88/379/EEG van de Raad van 7 juni 1988 betreffende de onderlinge aanpassing van de wettelijke en bestuursrechtelijke bepalingen van de Lid-Staten inzake de indeling, de verpakking en het kenmerken van gevaarlijke preparaten (2).<br>
-- richtlijn 78/63/EEG van de Raad van 26 juni 1978 betreffende de onderlinge aanpassing van de wettelijke bepalingen in de Lid-Staten inzake de indeling, de verpakking en het kenmerken van gevaarlijke preparaten (bestrijdingsmiddelen) (3)<br>
-<br>
-Voor stoffen en preparaten die niet volgens een van de bovenstaande richtlijnen als gevaarlijk zijn ingedeeld, maar die desondanks in een inrichting aanwezig zijn of kunnen zijn en die onder de omstandigheden in de inrichting equivalente eigenschappen hebben of kunnen hebben wat de mogelijkheden van een zwaar ongeval betreft, worden de procedures voort de voorlopige indeling overeenkomstig het desbetreffende artikel van de ter zake dienende richtlijn gevolgd.<br>
-<br>
-Voor stoffen en preparaten die zodanige eigenschappen hebben dat ze op verscheidene wijzen kunnen worden ingedeeld, is in het kader van deze richtlijn de laagste drempelwaarde van toepassing.<br>
-<br>
-In verband met deze richtlijn wordt volgens de procedure van artikel 22 een lijst met gegevens over de stoffen en preparaten opgesteld, bijgewerkt en goedgekeurd.<br>
-<br>
-2. Onder ontplofbare stof wordt verstaan:<br>
-a) i) een stof of preparaat die (dat) ontploffingsgevaar oplevert door schok, wrijving, vuur of andere ontstekingsoorzaken (waarschuwingszin R2);<br>
-ii) een pyrotechnische stof is een stof (of een mengsel van stoffen) die tot doel heeft warmte, licht, geluid of rook of een combinatie van dergelijke verschijnselen te produceren door middel van niet-ontploffende zichzelf onderhoudende exotheme chemische reactie; of<br>
-iii) een ontplofbare of pyrotechnische stof of een ontplofbaar of pyrotechnisch preparaat die (dat) in voorwerpen is vervat;<br>
-b) een stof of preparaat die (dat) ernstig ontploffingsgevaar oplevert door schok, wrijving, vuur of andere ontstekingsoorzaken (waarshuwingszin R3).<br>
-<br>
-3. Onder ONTVLAMBAAR, LICHT ONTVLAMBAAR en ZEER LICHT ONTVLAMBAAR (categorieën 6, 7 en 8) wordt verstaan:<br>
-a) ONTVALMBARE vloeistoffen:<br>
-stoffen en preparaten met een vlampunt van minimaal 21° C en maximaal 55° C (waarschuwingszin RIO), die blijven branden;<br>
-b) LICHT ONTVLAMBARE vloeistoffen:<br>
+
+<p>&nbsp;</p>
+
+<p>VOETNOTEN<br>
+1. Stoffen en preparaten worden ingedeeld volgens de volgende richtlijnen en de meest recente aanpassing daarvan aan de technische vooruitgang :<br>
+Richtlijn 67/548/EEG van de Raad van 27 juni 1967 betreffende de aanpassing van de wettelijke en bestuursrechtelijke bepalingen inzake de indeling, de verpakking en het kenmerken van gevaarlijke stoffen (5),<br>
+Richtlijn 1999/45/EG van het Europees Parlement en de Raad van 31 mei 1999 betreffende de onderlinge aanpassing van de wettelijke en bestuursrechtelijke bepalingen van de lidstaten inzake de indeling, de verpakking en het kenmerken van gevaarlijke preparaten(6)<br>
+Voor stoffen en preparaten die niet volgens één van de bovenstaande richtlijnen als gevaarlijk zijn ingedeeld, bijvoorbeeld afvalstoffen, maar in een inrichting aanwezig zijn of kunnen zijn en onder de in de inrichting heersende omstandigheden gelijkwaardige eigenschappen hebben of kunnen hebben wat de mogelijkheden van een zwaar ongeval betreft, worden de procedures voor de voorlopige indeling overeenkomstig het desbetreffende artikel van de toepasselijke richtlijn gevolgd.<br>
+Voor stoffen en preparaten die zodanige eigenschappen hebben dat ze op verscheidene wijzen kunnen worden ingedeeld, is in het kader van deze richtlijn de laagste drempelwaarde van toepassing. Wat evenwel de toepassing van de in voetnoot 4 bedoelde sommatieregel betreft, wordt altijd de drempelwaarde gebruikt welke met de indeling in kwestie overeenkomt.<br>
+Voor de toepassing van deze richtlijn stelt de Commissie een lijst op van stoffen die in overeenstemming met Richtlijn 67/548/EEG bij geharmoniseerd besluit in de bovenstaande categorieën zijn ingedeeld; zij werkt deze lijst geregeld bij.<br>
+2. Onder « ontplofbare stof » wordt verstaan :<br>
+a) een stof of preparaat die (dat) ontploffingsgevaar oplevert door schok, wrijving, vuur of andere ontstekingsoorzaken (waarschuwingszin R 2),<br>
+b) een stof of preparaat die (dat) ernstig ontploffingsgevaar oplevert door schok, wrijving, vuur of andere ontstekingsoorzaken (waarschuwingszin R 3), of<br>
+c) een stof, preparaat of voorwerp van klasse 1 van de Europese Overeenkomst betreffende het internationale vervoer van gevaarlijke goederen over de weg (VN/ADR), gesloten op 30 september 1957, zoals gewijzigd, als omgezet bij Richtlijn 94/55/EG van de Raad van 21 november 1994 betreffende de onderlinge aanpassing van de wetgevingen der lidstaten inzake het vervoer van gevaarlijke goederen over de weg (7)<br>
+Deze definitie strekt zich uit tot pyrotechnische stoffen, die voor de toepassing van deze richtlijn omschreven worden als stoffen (of mengsels van stoffen) die tot doel hebben warmte, licht, geluid, gas of rook dan wel een combinatie van dergelijke verschijnselen te produceren door middel van zichzelf onderhoudende exotherme chemische reacties. Wanneer een stof of preparaat zowel onder de VN/ADR-indeling als onder waarschuwingszin R 2 of R 3 valt, prevaleert de VN/ADR-indeling boven die van de waarschuwingszinnen.<br>
+Stoffen en voorwerpen van klasse 1 worden volgens het VN/ADR-indelingsschema ingedeeld in de subklassen 1.1 tot en met 1.6. De subklassen zijn :<br>
+- Subklasse 1.1 : « Stoffen en voorwerpen met gevaar voor massa explosie (een massa-explosie is een explosie die praktisch op hetzelfde ogenblik plaatsvindt in nagenoeg de gehele lading) ».<br>
+- Subklasse 1.2 : « Stoffen en voorwerpen met gevaar voor scherfwerking, zonder gevaar voor massa-explosie ».<br>
+- Subklasse 1.3 : « Stoffen en voorwerpen met gevaar voor brand en met een gering gevaar voor luchtdruk- of scherfwerking of met gevaar voor beide, maar niet met gevaar voor massa-explosie :<br>
+a) waarvan de verbranding aanleiding geeft tot een aanzienlijke warmtestraling,<br>
+of<br>
+b) die één voor één uitbranden, waarbij een geringe luchtdruk- of scherfwerking, of beide optreden ».<br>
+- Subklasse 1.4 : « Stoffen en voorwerpen die slechts gering gevaar opleveren indien zij tijdens het vervoer tot ontsteking of inleiding komen. De gevolgen blijven in hoofdzaak beperkt tot het collo en leiden niet tot scherfwerking van enige omvang of reikwijdte. Een van buitenaf inwerkende brand mag niet leiden tot een explosie op praktisch hetzelfde ogenblik van nagenoeg de gehele inhoud van het collo ».<br>
+- Subklasse 1.5 : « Zeer weinig gevoelige stoffen met gevaar voor massaexplosie, die zo weinig gevoelig zijn dat er onder normale vervoersomstandigheden een zeer geringe kans bestaat op inleiding of op de overgang van verbranding naar detonatie. Als minimumvoorwaarde geldt dat ze niet mogen exploderen bij de uitwendige brandproef ».<br>
+- Subklasse 1.6 : « Extreem weinig gevoelige voorwerpen, zonder gevaar voor massa-explosie. Deze voorwerpen bevatten alleen extreem weinig gevoelige springstoffen en vertonen een verwaarloosbare kans op een onbedoelde inleiding of voortplanting. Het gevaar is beperkt tot de explosie van één enkel voorwerp. ».<br>
+Deze definitie behelst ook in voorwerpen aanwezige ontplofbare of pyrotechnische stoffen of preparaten. In het geval van voorwerpen met ontplofbare of pyrotechnische stoffen of preparaten is de hoeveelheid van de stof of het preparaat, indien bekend, bepalend voor de toepassing van deze richtlijn. Indien de hoeveelheid niet bekend is, wordt het gehele voorwerp voor de toepassing van deze richtlijn als ontplofbaar aangemerkt.<br>
+3. Onder ONTVLAMBAAR, LICHT ONTVLAMBAAR en ZEER LICHT ONTVLAMBAAR (categorieën 6, 7 en 8) wordt verstaan :<br>
+a) ONTVLAMBARE vloeistoffen :<br>
+stoffen en preparaten met een vlampunt van minimaal 21° C en maximaal 55° C (waarschuwingszin R10), die blijven branden;<br>
+b) LICHT ONTVLAMBARE vloeistoffen :<br>
 1. - stoffen en preparaten die warm kunnen worden en tenslotte in contact met de lucht bij de omgevingstemperatuur zonder toevoer van energie vlam kunnen vatten (waarschuwingszin R17);<br>
-- stoffen die een vlampunt hebben dat lager is dan 55° C en die onder druk vloeibaar blijven, wanneer onder bepaalde verwerkingsomstandigheden, zoals hoge druk en hoge temperatuur, gevaar voor een zwaar ongeval kan ontstaan;<br>
+- stoffen en preparaten die een vlampunt hebben dat lager ligt dan 55° C en die onder druk vloeibaar blijven wanneer onder bepaalde procescondities, zoals hoge druk en hoge temperatuur, gevaar voor een zwaar ongeval kan ontstaan;<br>
 2. stoffen en preparaten met een vlampunt dat lager ligt dan 21° C en die niet zeer licht ontvlambaar zijn (waarschuwingszin R11, tweede streepje);<br>
-c) zeer LICHT ONTVLAMBARE gassen en vloeistoffen:<br>
+c) zeer licht ontvlambare gassen en vloeistoffen :<br>
 1. vloeibare stoffen en preparaten die een vlampunt hebben dat lager ligt dan 0° C en een kookpunt (of in geval van een kooktraject een eerste kookpunt) dat bij normale druk maximaal 35° C is (waarschuwingszin R12, eerste streepje), en<br>
-2. gasvormige stoffen en preparaten die in contact met de lucht bij kamertemperatuur en normale druk ontvlambaar zijn (waarschuwingen R12, tweede streepje), ongeacht of zij als gas of onder druk als vloeistof worden bewaard, met uitzondering van de in deel 1 bedoelde zeer licht ontvlambare vloeibare gassen (inclusief LPG) en aardgas, en<br>
-3. vloeibare stoffen en preparaten die op een temperatuur worden gehouden die hoger ligt dan hun kookpunt.<br>
-4. voor de berekening van de totale hoeveelheid gevaarlijke stoffen in een inrichting wordt de volgende formule gebruikt:<br>
-Q1/Q + q2/Q = q3/Q + q4/Q + q5/Q + … &gt; 1<br>
-Hierbij is:<br>
-q x = de hoeveelheid van gevaarlijke stof x uit deel 1 of de hoeveelheid gevaarlijke stoffen van categorie x uit deel 2;<br>
-Q = de hiervoor in deel 1 of deel 2 genoemde drempelwaarde.<br>
-<br>
-Indien deze som gelijk si aan of groter dan 1, valt de inrichting onder de bepalingen van de richtlijn.<br>
-<br>
-Deze formule wordt voor de volgende gevallen gebruikt:<br>
-a) voor de optelling van stoffen en preparaten die in deel 1 voorkomen en in kleinere hoeveelheden dan de drempelwaarde aanwezig zijn, gecombineerd met de stoffen van deel 2 die tot dezelfde categorie behoren, en voor de optelling van stoffen en preparaten van deel 2 die tot dezelfde categorie behoren;<br>
-b) voor de optelling van de stoffen en preparaten van de categorieën 1, 2 en 9 die zich in dezelfde inrichting bevinden;<br>
-c) voor de optelling van de stoffen en preparaten van de categorieën 3, 4, 5, 6, 7a, 7b en 8 die zich in dezelfde inrichting bevinden. (verv. B.V.R. 12 januari 1999, art. 69, I: 1 mei 1999)]
+2. gassen die in contact met de lucht bij kamertemperatuur en normale druk ontvlambaar zijn (waarschuwingszin R 12, tweede streepje), ongeacht of zij in gasvormige toestand dan wel in superkritische toestand verkeren, en<br>
+3. ontvlambare en licht ontvlambare vloeibare stoffen en preparaten die op een temperatuur worden gehouden die hoger ligt dan hun kookpunt.<br>
+4. In het geval van een inrichting waar geen afzonderlijke stoffen of preparaten aanwezig zijn in een hoeveelheid, groter dan of gelijk aan de toepasselijke drempelwaarden, wordt de volgende regel gehanteerd om te bepalen of de inrichting onder de desbetreffende voorschriften van deze richtlijn valt.<br>
+Deze richtlijn is van toepassing indien de som q1/QH1 + q2/QH2 + q3/QH3 + q4/QH4 + q5/QH5 +... groter is dan of gelijk is aan 1,<br>
+waarin qx = de hoeveelheid gevaarlijke stof x (of categorie van gevaarlijke stoffen) die onder deel 1 of deel 2 van deze bijlage valt,<br>
+en QHx = de desbetreffende drempelwaarde voor stof of categorie x in kolom 3 van deel 1 of deel 2.<br>
+Deze richtlijn is met uitzondering van de artikelen 9, 11 en 13 van toepassing indien de som q1/QL1 + q2/QL2 + q3/QL3 + q4/QL4 + q5/QL5 +... groter is dan of gelijk is aan 1, waarin qx = de hoeveelheid van gevaarlijke stof x (of categorie van gevaarlijke stoffen) die onder deel 1 of deel 2 van deze bijlage valt, en QLx = de desbetreffende drempelwaarde voor stof of categorie x in kolom 2 van deel 1 of deel 2.<br>
+Deze optellingsregel wordt gebruikt ter beoordeling van de algemeen met toxiciteit, ontvlambaarheid en ecotoxiciteit samenhangende gevaren. De regel moet daarom driemaal worden toegepast :<br>
+a) eenmaal voor de optelling van in deel 1 genoemde stoffen en preparaten welke als giftig of zeer giftig zijn ingedeeld, tezamen met stoffen en preparaten die tot categorie 1 of 2 behoren;<br>
+b) eenmaal voor de optelling van in deel 1 genoemde stoffen en preparaten die als oxiderend, ontplofbaar, ontvlambaar, licht ontvlambaar of zeer licht ontvlambaar zijn ingedeeld, tezamen met stoffen en preparaten die tot categorie 3, 4, 5, 6, 7a, 7b of 8 behoren;<br>
+c) eenmaal voor de optelling van de in deel 1 genoemde en als gevaarlijk voor het milieu ingedeelde stoffen en preparaten (R 50 (met inbegrip van R 50/53) of R 51/53), tezamen met stoffen en preparaten die tot categorie 9) i) of 9) ii) behoren.<br>
+De desbetreffende bepalingen van deze richtlijn zijn van toepassing indien het sommeringsresultaat in ten minste één van de drie gevallen groter is dan of gelijk is aan 1.<br>
+_______<br>
+Nota's<br>
+(1) Een stikstofgehalte van 15,75 gewichtsprocent, alfkomstig van het ammoniumnitraat, komst overeen met 45 % ammoniumnitraat.<br>
+(2) ) Een stikstofgehalte van 24,5 gewichtsprocent, alfkomstig van het ammoniumnitraat, komst overeen met 70 % ammoniumnitraat.<br>
+(3) Een stikstofgehalte van 15,75 gewichtsprocent, alfkomstig van het ammoniumnitraat, komst overeen met 45 % ammoniumnitraat.<br>
+(4) Een stikstofgehalte van 28 gewichtsprocent, alfkomstig van het ammoniumnitraat, komst overeen met 80 % ammoniumnitraat.<br>
+(5) PB 196 van 16.8.1967, blz. l. Richtlijn laatstelijk gewijzigd bij Verordening (EG) nr. 807/2003 (PB L 122 van 16.5.2003, blz. 36).<br>
+(6) PB L 200 van 30.7.1999, blz. 1. Richtlijn gewijzigd bij Richtlijn 2001/60/EG van de Commissie (PB L 226 van 22.8.2001, blz. 5).<br>
+(7) PB L 319 van 12.12.1994, blz. 7. Richtlijn laatstelijk gewijzigd bij Richtlijn 2003/28/EG van de Commissie (PB L 90 van 8.4.2003, blz. 45).</p>
 
 ## BIJLAGE 7
 
 ### BIJLAGE 7
 
-[DEEL II: GEVAARLIJKE STOFFEN EN PREPARATEN BEDOELD IN DE EG-RICHTLIJN 67/548/EEG VAN 27 JUNI 1967 BETREFFENDE DE AANPASSING VAN DE WETTELIJKE EN BESTUURS-RECHTELIJKE BEPALINGEN INZAKE DE INDELING, DE VERPAKKING EN HET KENMERKEN VAN GEVAARLIJKE STOFFEN<br>
+BIJLAGE 7 Lijst van gevaarlijke producten (rubriek 17.3 van de indelingslijst)<br>
+<br>
+<br>
+DEEL I: LIJST VAN DE GEVAARLIJKE PRODUCTEN (STOFFEN EN PREPARATEN) VERMELD IN DE EG-RICHTLIJN 96/82/EG VAN 9 DECEMBER 1996 BETREFFENDE DE BEHEERSING VAN DE GEVAREN VAN ZWARE ONGEVALLEN WAARBIJ GEVAARLIJKE STOFFEN ZIJN BETROKKEN<br>
+Deze lijst omvat de gevaarlijke stoffen en ingedeelde categorieën van stoffen en preparaten zoals vermeld in de bijlage 6 bij titel I van het VLAREM.<br>
+<br>
+DEEL II: GEVAARLIJKE STOFFEN EN PREPARATEN BEDOELD IN DE EG-RICHTLIJN 67/548/EEG VAN 27 JUNI 1967 EN DE EG-RICHTLIJN 1999/45/EG VAN 31 MEI 1999 BETREFFENDE DE AANPASSING VAN DE WETTELIJKE EN BESTUURSRECHTELIJKE BEPALINGEN INZAKE DE INDELING, DE VERPAKKING EN HET KENMERKEN VAN GEVAARLIJKE STOFFEN<br>
 <br>
 A. DEFINITIES<br>
 In de zin deze bijlage wordt verstaan onder<br>
@@ -34801,8 +36884,7 @@ De aanpassing geldt vanaf de eerste dag van de maand volgend op deze bekendmakin
 C. GEVAARSYMBOLEN EN -AANDUIDINGEN: (niet opgenomen: bevat pictogramman)<br>
 <br>
 D. AARD DER BIJZONDERE GEVAREN TOEGESCHREVEN AAN GEVAARLIJKE STOFFEN EN PREPARATEN<br>
-<br>
-
+&nbsp;
 <table border="1" cellpadding="0" cellspacing="0" style="border-collapse:collapse">
 	<tbody>
 		<tr>
@@ -36544,7 +38626,7 @@ Adres:
 
 ### BIJLAGE 15
 
-[Bijlage 15 A<br /><br />Deel 1<br /><br />De technieken van genetische modificatie bedoeld in artikel 1, 30° van dit besluit, omvatten met name:<br />1° de recombinant-nucleïnezuurtechnieken die resulteren in de vorming van nieuwe combinaties van genetisch materiaal doordat op enigerlei wijze buiten een organisme geproduceerde nucleïnezuurmoleculen worden geïnsereerd in een virus, een bacteriële plasmide of een ander vectorsysteem en worden geïntegreerd in een gastheerorganisme waarin zij van nature niet voorkomen, maar waarin zij tot regelmatige replica in staat zijn;<br />2° de technieken met rechtstreekse inbrenging in een micro-organisme van erfelijk materiaal dat buiten het micro-organisme geprepareerd is, waaronder micro-injectie, macro-injectie en micro-encapsulatie;<br />3° de celfusie- of hybridisatietechnieken waarbij levende cellen met nieuwe combinaties van erfelijk genetisch materiaal worden gevormd door de fusie van twee of meer cellen met gebruikmaking van methoden die van nature niet voorkomen.<br /><br />Deel 2<br /><br />De technieken, bedoeld in artikel 1, 30° van dit besluit, die niet worden geacht tot genetische modificatie te leiden, mits deze technieken niet het gebruik van recombinant-DNA-moleculen of genetisch gemodoficeerde organismen impliceren, zijn:<br />1° in-vitrobevruchting;<br />2° natuurlijke processen zoals conjugatie, transductie, transformatie;<br />3° de polyploïde-inductie.<br /><br />Bijlage 15 B.<br /><br />Ingeperkt gebruik waarbij GGO’s worden aangewend die door middel van de volgende technieken of methoden zijn opgebouwd, kan worden vrijgesteld van de toepassing van dit besluit, op voorwaarde dat bij het procédé voor de opbouw van deze GGO’s geen gebruik wordt gemaakt van andere recombinant-nucleïnezuurmoleculen, GGM’s of GGO’s dan die welke door middel van een of meer van de hieronder genoemde technieken/methoden zijn geproduceerd:<br />1° mutagenese;<br />2° celfusie (met inbegrip van protoplastfusie) van cellen van aukaryotische soorten, met inbegrip van de productie en het gebruik van hybridoma’s en de fusie van plantencellen;<br />3° celfusie (met inbegrip van protoplastfusie) van prokaryotische soorten die genetisch materiaal uitwisselen door middel van bekende fysiologische processen;<br />4° zelfklonering van micro-organismen en organismen van risicoklasse 1 en van meercellige organismen, uitgenomen de kiemcellen van menselijke origine, dit wil zeggen het verwijderen van nucleïnezuursequenties uit een cel van een organisme, al dan niet gevolgd door de reïnsertie van dit nucleïnzuur of een deel daarvan (of een synthetisch equivalent) - eventueel na een aantal voorafgaande enzymatische of mechanische bewerkingen - in cellen van dezelfde soort of cellen van een fylogenetisch nauw verwanter soort waarmee de eerstgenoemde soort genetisch materiaal kan uitwisselen door middel van bekende fysiologische processen, voorzover het onwaarschijnlijk mag worden geacht dat het resulterende micro-organisme of organisme een ziekte kan verwekken bij mens, dier of plant. Bij zelfklonering mag gebruik worden gemaakt van recombinante vectoren waarvan het gebruik is combinatie met de micro-organismen of organismen in kwestie in de loop van de tijd veilig is gebleken. (ing. B.V.R. 6 februari 2004, art. 7, I: 1 april 2004)] <br />
+[Bijlage 15 A<br /><br />Deel 1<br /><br />De technieken van genetische modificatie bedoeld in artikel 1, 30° van dit besluit, omvatten met name:<br />1° de recombinant-nucleïnezuurtechnieken die resulteren in de vorming van nieuwe combinaties van genetisch materiaal doordat op enigerlei wijze buiten een organisme geproduceerde nucleïnezuurmoleculen worden geïnsereerd in een virus, een bacteriële plasmide of een ander vectorsysteem en worden geïntegreerd in een gastheerorganisme waarin zij van nature niet voorkomen, maar waarin zij tot regelmatige replica in staat zijn;<br />2° de technieken met rechtstreekse inbrenging in een micro-organisme van erfelijk materiaal dat buiten het micro-organisme geprepareerd is, waaronder micro-injectie, macro-injectie en micro-encapsulatie;<br />3° de celfusie- of hybridisatietechnieken waarbij levende cellen met nieuwe combinaties van erfelijk genetisch materiaal worden gevormd door de fusie van twee of meer cellen met gebruikmaking van methoden die van nature niet voorkomen.<br /><br />Deel 2<br /><br />De technieken, bedoeld in artikel 1, 30° van dit besluit, die niet worden geacht tot genetische modificatie te leiden, mits deze technieken niet het gebruik van recombinant-DNA-moleculen of genetisch gemodoficeerde organismen impliceren, zijn:<br />1° in-vitrobevruchting;<br />2° natuurlijke processen zoals conjugatie, transductie, transformatie;<br />3° de polyploïde-inductie.<br /><br />Bijlage 15 B.<br /><br />Ingeperkt gebruik waarbij GGO’s worden aangewend die door middel van de volgende technieken of methoden zijn opgebouwd, valt niet onder het toepassingsgebied van dit besluit, op voorwaarde dat bij het procédé voor de opbouw van deze GGO’s geen gebruik wordt gemaakt van andere recombinant-nucleïnezuurmoleculen, GGM’s of GGO’s dan die welke door middel van een of meer van de hieronder genoemde technieken/methoden zijn geproduceerd:<br />1° mutagenese;<br />2° celfusie (met inbegrip van protoplastfusie) van cellen van aukaryotische soorten, met inbegrip van de productie en het gebruik van hybridoma’s en de fusie van plantencellen;<br />3° celfusie (met inbegrip van protoplastfusie) van prokaryotische soorten die genetisch materiaal uitwisselen door middel van bekende fysiologische processen;<br />4° zelfklonering van micro-organismen en organismen van risicoklasse 1 en van meercellige organismen, uitgenomen de kiemcellen van menselijke origine, dit wil zeggen het verwijderen van nucleïnezuursequenties uit een cel van een organisme, al dan niet gevolgd door de reïnsertie van dit nucleïnzuur of een deel daarvan (of een synthetisch equivalent) - eventueel na een aantal voorafgaande enzymatische of mechanische bewerkingen - in cellen van dezelfde soort of cellen van een fylogenetisch nauw verwanter soort waarmee de eerstgenoemde soort genetisch materiaal kan uitwisselen door middel van bekende fysiologische processen, voorzover het onwaarschijnlijk mag worden geacht dat het resulterende micro-organisme of organisme een ziekte kan verwekken bij mens, dier of plant. Bij zelfklonering mag gebruik worden gemaakt van recombinante vectoren waarvan het gebruik is combinatie met de micro-organismen of organismen in kwestie in de loop van de tijd veilig is gebleken. (ing. B.V.R. 6 februari 2004, art. 7, I: 1 april 2004)] <br />
 
 ## BIJLAGE 16
 
@@ -36556,6 +38638,6 @@ Adres:
 
 ### BIJLAGE 17
 
-[Bijlage 17<br /><br />Als het technisch onmogelijk of onnodig is de hierna omschreven gegevens te verstrekken, moet dat te worden toegelicht.<br /><br />Het vereiste detailleringsniveau voor de verschillende categorieën zal waarschijnlijk afhangen van de aard en de schaal van het ingeperkt gebruik. Als bepaalde gegevens al eerder op grond van de bepalingen van dit besluit aan de bevoegde instantie zijn verstrekt, kan de gebruiker hiernaar verwijzen.<br /><br />Deel A<br />Openbaar dossier:<br />1° De gegevens over de vergunningstoestand van de inrichting (infrastructuur):<br />a) de datum en het kenmerk van het vergunningsbesluit<br />b) als de vergunningsaanvraag lopende is, de datum van indiening van de aanvraag;<br />c) als melding werd gedaan (klasse 3), de datum van de melding;<br />2° Naam, adres en functie van de gebruikers en de personen die verantwoordelijk zijn voor het toezicht en de veiligheid;<br />3° Naam, adres en functie van de bioveiligheidscoördinator;<br />4° Een samenvatting van de doelstellingen van het ingeperkt gebruik, de vermelding van de geplande soorten activiteiten (titels) en het plan van de inrichting;<br />5° Een beknopte samenvatting van de in afdeling 5.51.3 van titel II van het Vlarem bedoelde analyse;<br />6° Een beknopte beschrijving van de inperkingsmaatregelen en informatie over het afvalbeheer;<br />7° Beschrijving van de gebruikte GGO’s, ouder- en gastheerorganismen en in voorkomend geval pathogenen;<br />8° Het risiconiveau van ingeperkt gebruik;<br />9° Een kopie van het bewijs van betaling van dossierrechten.<br />Technisch dossier:<br />1° de gegevens over de vergunningstoestand van de inrichting (infrastructuur):<br />a) de datum en het kenmerk van het vergunningsbesluit;<br />b) als de vergunningsaanvraag lopende is, de datum van indiening van de aanvraag;<br />c) als melding werd gedaan (klasse 3), de datum van de melding;<br />2° adres en een algemene beschrijving van de gebouwen met een plan van de lokalen in kwestie;<br />3° het doel van het ingeperkt gebruik;<br />4° een beschrijving van de inperkingsmaatregelen en andere beschermingsmaatregelen met inbegrip van het afvalbeheer; het risiconiveau van het ingeperkt gebruik;<br />5° de identiteit en de karakteristieken van het genetisch gemodificeerd organisme of pathogeen organisme;<br />6° de aan te wenden kweekvolumes, periodiciteit en duur;<br />7° de in afdeling 5.51.3 van titel II van het Vlarem bedoelde risicoanalyse;<br />8° de naam, opleiding en kwalificaties van de gebruikers en de personen die verantwoordelijk zijn voor het toezicht en de veiligheid;<br />9° naam, adres en functie van de bioveiligheidscoördinator;<br />10° in voorkomend geval een beschrijving van de microbiologische en/of moleculaire methodes die toelaten de gebruikte GGO’s en/of pathogenen op te sporen;<br />11° de eventuele vertrouwelijke informatie in een afzonderlijke enveloppe.<br /><br />Deel B<br /><br />Openbaar dossier:<br />1° de in deel A opgesomde informatie onder openbaar dossier en de referenties van eventueel eerder verkregen toelatingen;<br />2° de samenvattende beschrijving van de mogelijke bronnen van gevaar ten gevolge van de locatie van de installatie;<br />3° de samenvattende beschrijving van de voor de duur van het ingeperkt gebruikt te nemen maatregelen voor bescherming en toezicht;<br />4° de toegewezen inperkingscategorie, met vermelding van de voorzieningen voor afvalstoffenbeheer (soort en hoeveelheid afval, manier van behandelen, inclusief manier waarop vloeibaar en vast afval wordt verzameld, de inactivatiemethode en haar validatie, de vorm en eindbestemming van het afval) en de te nemen veiligheidsmaatregelen.<br /><br />Technisch dossier:<br />1 ° de in deel A opgesomde informatie onder technisch dossier en de referenties van eventueel eerder verkregen toelatingen;<br />2° een beschrijving van de delen van de installatie en de methoden voor het hanteren van de micro-organismen of organismen;<br />3° de beschrijving van de mogelijke bronnen van gevaar ten gevolge van de locatie van de installatie;<br />4° de beschrijving van de voor de duur van het ingeperkt gebruikt te nemen maatregelen voor bescherming en toezicht;<br />5° het toegewezen inperkingsniveau, met vermelding van de voorzieningen voor afvalstoffenbeheer (soort en hoeveelheid afval, manier van behandelen, inclusief manier waarop vloeibaar en vast afval wordt verzameld, de inactivatiemethode en haar validatie, de vorm en eindbestemming van het afval en de te nemen veiligheidsmaatregelen.<br /><br />Deel C<br /><br />Openbaar dossier:<br />1° de in deel B opgesomde informatie onder openbaar dossier;<br />2° het maximumaantal in de installatie werkzame personen en het aantal personen dat direct met de micro-organismen of organismen omgaat;<br />3° de overheersende weersomstandigheden en de specifieke gevaren, verbonden aan de locatie van de installatie;<br />4° gegevens betreffende de ongevalpreventie en de rampenplannen: de getroffen preventieve maatregelen, zoals de veiligheidsuitrusting, de alarmsystemen, inperkingsmethoden en procedures en de beschikbare hulpmiddelen.<br /><br />Technisch dossier:<br /><br />1° de in deel B opgesomde informatie onder technisch dossier;<br />2° andere stoffen dan het bedoelde product die tijdens het ingeperkt gebruik worden of kunnen worden geproduceerd;<br />3° het maximumaantal in de installatie werkzame personen en het aantal personen dat direct met de micro-organismen of organismen omgaat;<br />4° de overheersende weersomstandigheden en de specifieke gevaren, verbonden aan de locatie van de installatie;<br />5° gegevens over het afvalstoffenbeheer:<br />a) de soort, hoeveelheid en potentiële risico’s van het bij het gebruik van de micro-organismen of organismen geproduceerde afval;<br />b) de gebruikte afvalbeheertechnieken, met inbegrip van de terugwinning van vloeibare of vaste afvalstoffen en de inactiveringsmethoden en hun validatie;<br />c) de uiteindelijke vormen bestemming van geïnactiveerde afvalstoffen;<br />6° gegevens betreffende de ongevalpreventie en de rampenplannen:<br />a) de risicobronnen en de omstandigheden waaronder ongevallen kunnen gebeuren;<br />b) de getroffen preventieve maatregelen, zoals de veiligheidsuitrusting, de alarmsystemen, inperkingsmethoden en procedures en de beschikbare hulpmiddelen;<br />c) de procedures en plannen om de permanente doeltreffendheid van de inperkingsmaatregelen na te gaan;<br />d) een beschrijving van de aan de werknemers verstrekte informatie;<br />e) de informatie die nodig is om de bevoegde overheid in staat te stellen om de nodige rampenplannen voor gebruik buiten de installatie op te stellen;<br />7° een uitgebreide evaluatie van de risico’s voor de menselijke gezondheid en het milieu van het voorgetelde ingeperkte gebruik. (ing. B.V.R. 6 februari 2004, art. 7, I: 1 april 2004)]<br />
+[Bijlage 17<br /><br />Als het technisch onmogelijk of onnodig is de hierna omschreven gegevens te verstrekken, moet dat worden toegelicht.<br /><br />Het vereiste detailleringsniveau voor de verschillende categorieën zal waarschijnlijk afhangen van de aard en de schaal van het ingeperkt gebruik. Als bepaalde gegevens al eerder op grond van de bepalingen van dit besluit aan de bevoegde instantie zijn verstrekt, kan de gebruiker hiernaar verwijzen.<br /><br />Deel A<br />Openbaar dossier:<br />1° De gegevens over de vergunningstoestand van de inrichting (infrastructuur):<br />a) de datum en het kenmerk van het vergunningsbesluit<br />b) als de vergunningsaanvraag lopende is, de datum van indiening van de aanvraag;<br />c) als melding werd gedaan (klasse 3), de datum van de melding;<br />2° Naam, adres en functie van de gebruikers en de personen die verantwoordelijk zijn voor het toezicht en de veiligheid;<br />3° Naam, adres en functie van de bioveiligheidscoördinator;<br />4° Een samenvatting van de doelstellingen van het ingeperkt gebruik, de vermelding van de geplande soorten activiteiten (titels) en het plan van de inrichting;<br />5° Een beknopte samenvatting van de in afdeling 5.51.3 van titel II van het Vlarem bedoelde analyse;<br />6° Een beknopte beschrijving van de inperkingsmaatregelen en informatie over het afvalbeheer;<br />7° Beschrijving van de gebruikte GGO’s, ouder- en gastheerorganismen en in voorkomend geval pathogenen;<br />8° Het risiconiveau van ingeperkt gebruik;<br />9° Een kopie van het bewijs van betaling van dossierrechten.<br />Technisch dossier:<br />1° de gegevens over de vergunningstoestand van de inrichting (infrastructuur):<br />a) de datum en het kenmerk van het vergunningsbesluit;<br />b) als de vergunningsaanvraag lopende is, de datum van indiening van de aanvraag;<br />c) als melding werd gedaan (klasse 3), de datum van de melding;<br />2° adres en een algemene beschrijving van de gebouwen met een plan van de lokalen in kwestie;<br />3° het doel van het ingeperkt gebruik;<br />4° een beschrijving van de inperkingsmaatregelen en andere beschermingsmaatregelen met inbegrip van het afvalbeheer; het risiconiveau van het ingeperkt gebruik;<br />5° de identiteit en de karakteristieken van het genetisch gemodificeerd organisme of pathogeen organisme;<br />6° de aan te wenden kweekvolumes, periodiciteit en duur;<br />7° de in afdeling 5.51.3 van titel II van het Vlarem bedoelde risicoanalyse;<br />8° de naam, opleiding en kwalificaties van de gebruikers en de personen die verantwoordelijk zijn voor het toezicht en de veiligheid;<br />9° naam, adres en functie van de bioveiligheidscoördinator;<br />10° in voorkomend geval een beschrijving van de microbiologische en/of moleculaire methodes die toelaten de gebruikte GGO’s en/of pathogenen op te sporen;<br />11° de eventuele vertrouwelijke informatie in een afzonderlijke enveloppe.<br /><br />Deel B<br /><br />Openbaar dossier:<br />1° de in deel A opgesomde informatie onder openbaar dossier en de referenties van eventueel eerder verkregen toelatingen;<br />2° de samenvattende beschrijving van de mogelijke bronnen van gevaar ten gevolge van de locatie van de installatie;<br />3° de samenvattende beschrijving van de voor de duur van het ingeperkt gebruikt te nemen maatregelen voor bescherming en toezicht;<br />4° de toegewezen inperkingscategorie, met vermelding van de voorzieningen voor afvalstoffenbeheer (soort en hoeveelheid afval, manier van behandelen, inclusief manier waarop vloeibaar en vast afval wordt verzameld, de inactivatiemethode en haar validatie, de vorm en eindbestemming van het afval) en de te nemen veiligheidsmaatregelen.<br /><br />Technisch dossier:<br />1 ° de in deel A opgesomde informatie onder technisch dossier en de referenties van eventueel eerder verkregen toelatingen;<br />2° een beschrijving van de delen van de installatie en de methoden voor het hanteren van de micro-organismen of organismen;<br />3° de beschrijving van de mogelijke bronnen van gevaar ten gevolge van de locatie van de installatie;<br />4° de beschrijving van de voor de duur van het ingeperkt gebruikt te nemen maatregelen voor bescherming en toezicht;<br />5° het toegewezen inperkingsniveau, met vermelding van de voorzieningen voor afvalstoffenbeheer (soort en hoeveelheid afval, manier van behandelen, inclusief manier waarop vloeibaar en vast afval wordt verzameld, de inactivatiemethode en haar validatie, de vorm en eindbestemming van het afval en de te nemen veiligheidsmaatregelen.<br /><br />Deel C<br /><br />Openbaar dossier:<br />1° de in deel B opgesomde informatie onder openbaar dossier;<br />2° het maximumaantal in de installatie werkzame personen en het aantal personen dat direct met de micro-organismen of organismen omgaat;<br />3° de overheersende weersomstandigheden en de specifieke gevaren, verbonden aan de locatie van de installatie;<br />4° gegevens betreffende de ongevalpreventie en de rampenplannen: de getroffen preventieve maatregelen, zoals de veiligheidsuitrusting, de alarmsystemen, inperkingsmethoden en procedures en de beschikbare hulpmiddelen.<br /><br />Technisch dossier:<br /><br />1° de in deel B opgesomde informatie onder technisch dossier;<br />2° andere stoffen dan het bedoelde product die tijdens het ingeperkt gebruik worden of kunnen worden geproduceerd;<br />3° het maximumaantal in de installatie werkzame personen en het aantal personen dat direct met de micro-organismen of organismen omgaat;<br />4° de overheersende weersomstandigheden en de specifieke gevaren, verbonden aan de locatie van de installatie;<br />5° gegevens over het afvalstoffenbeheer:<br />a) de soort, hoeveelheid en potentiële risico’s van het bij het gebruik van de micro-organismen of organismen geproduceerde afval;<br />b) de gebruikte afvalbeheertechnieken, met inbegrip van de terugwinning van vloeibare of vaste afvalstoffen en de inactiveringsmethoden en hun validatie;<br />c) de uiteindelijke vormen bestemming van geïnactiveerde afvalstoffen;<br />6° gegevens betreffende de ongevalpreventie en de rampenplannen:<br />a) de risicobronnen en de omstandigheden waaronder ongevallen kunnen gebeuren;<br />b) de getroffen preventieve maatregelen, zoals de veiligheidsuitrusting, de alarmsystemen, inperkingsmethoden en procedures en de beschikbare hulpmiddelen;<br />c) de procedures en plannen om de permanente doeltreffendheid van de inperkingsmaatregelen na te gaan;<br />d) een beschrijving van de aan de werknemers verstrekte informatie;<br />e) de informatie die nodig is om de bevoegde overheid in staat te stellen om de nodige rampenplannen voor gebruik buiten de installatie op te stellen;<br />7° een uitgebreide evaluatie van de risico’s voor de menselijke gezondheid en het milieu van het voorgetelde ingeperkte gebruik. (ing. B.V.R. 6 februari 2004, art. 7, I: 1 april 2004)]<br />
 
 ## BIJLAGE 18
