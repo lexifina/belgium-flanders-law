@@ -2,16 +2,16 @@
   "codex_id": 1013588,
   "title": "Ministerieel besluit van 2004-10-29 tot uitvoering van het besluit van de Vlaamse Regering van 1 oktober 2004 tot toekenning van steun aan ondernemingen voor ecologie-investeringen in het Vlaamse Gewest",
   "type": "Ministerieel besluit",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1013588/VolledigDocument?datum=2006-07-20",
-  "source_sha256": "b992f0c559bfd3f2c1670efbb3a11ad166cb458f9abe9c6a2f1d48454aaea7e6",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1013588/VolledigDocument?datum=2006-08-01",
+  "source_sha256": "b9afea22ab90660832134fd28d7da3e6f2d9c7ed4f08170a838e6067189bd6e0",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1013588&param=informatie",
-  "as_of": "2006-07-20",
+  "as_of": "2006-08-01",
   "made": "2004-10-29",
   "gazette": "2004-12-10",
   "numac": 2004036785,
   "document_start": "2004-10-29",
   "document_end": null,
-  "in_force": "2006-07-20",
+  "in_force": "2006-08-01",
   "article_versions": 19,
-  "record_form": "consolidated version as in force on 2006-07-20; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2006-08-01; future article versions excluded; article text as the API gives it"
 }
