@@ -1,0 +1,17 @@
+{
+  "codex_id": 1014864,
+  "title": "Besluit van de Vlaamse Regering van 2006-06-30 tot wijziging van het besluit van de Vlaamse Regering van 26 mei 2000 ter uitvoering van sommige artikelen van het decreet van 23 januari 1991 inzake de bescherming van het leefmilieu tegen de verontreiniging door meststoffen",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1014864/VolledigDocument?datum=2006-08-01",
+  "source_sha256": "36cbfc105b6a807689960d60b70ef22d4568b0e3aa733367589dca9adb8efd3e",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1014864&param=informatie",
+  "as_of": "2006-08-01",
+  "made": "2006-06-30",
+  "gazette": "2006-08-23",
+  "numac": 2006036254,
+  "document_start": "2006-08-01",
+  "document_end": null,
+  "in_force": "2006-08-01",
+  "article_versions": 11,
+  "record_form": "consolidated version as in force on 2006-08-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
