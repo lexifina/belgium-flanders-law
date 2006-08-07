@@ -1,0 +1,17 @@
+{
+  "codex_id": 1014705,
+  "title": "Ministerieel besluit van 2006-07-10 houdende de samenstelling van de commissie belast met de beoordeling van de kandidaten voor het ambt van inspecteur basisonderwijs",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1014705/VolledigDocument?datum=2006-08-07",
+  "source_sha256": "1e89c231d8ba6b7d6974bd7af98c6b5dd0dda121246a740aaef1eebb6ac4520a",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1014705&param=informatie",
+  "as_of": "2006-08-07",
+  "made": "2006-07-10",
+  "gazette": "2006-07-28",
+  "numac": 2006036152,
+  "document_start": "2006-08-07",
+  "document_end": null,
+  "in_force": "2006-08-07",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2006-08-07; oldest version available; future article versions excluded; article text as the API gives it"
+}
