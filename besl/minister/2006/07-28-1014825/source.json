@@ -1,0 +1,17 @@
+{
+  "codex_id": 1014825,
+  "title": "Ministerieel besluit van 2006-07-28 houdende het huishoudelijk reglement van de raad van bestuur van de Vlaamse Reguleringsinstantie voor de Elektriciteits- en de Gasmarkt",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1014825/VolledigDocument?datum=2006-08-09",
+  "source_sha256": "a5cc9c6d3a01047f0f183aaf5da3403d49ec5e28e63fef3dd3fbb7e520225acf",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1014825&param=informatie",
+  "as_of": "2006-08-09",
+  "made": "2006-07-28",
+  "gazette": "2006-08-09",
+  "numac": 2006033226,
+  "document_start": "2006-08-09",
+  "document_end": null,
+  "in_force": "2006-08-09",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2006-08-09; oldest version available; future article versions excluded; article text as the API gives it"
+}
