@@ -2,16 +2,16 @@
   "codex_id": 1011697,
   "title": "Besluit van de Vlaamse Regering van 2003-09-12 ter uitvoering van het decreet van 14 februari 2003 houdende de ondersteuning en de stimulering van het gemeentelijk, het intergemeentelijk en het provinciaal jeugd- en jeugdwerkbeleid, inzake de subsidiëring van gemeentebesturen die een jeugdruimtebeleid voeren als onderdeel van het jeugdwerkbeleid",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1011697/VolledigDocument?datum=2006-06-01",
-  "source_sha256": "2c66749c00cf5a863f1f9640787dc948718d6522c61cdb8bf53cbb976eff9963",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1011697/VolledigDocument?datum=2006-08-09",
+  "source_sha256": "25e7558c94d0e59f88259c85a0c0ec3450f957b119f704577dfaf2ce803f3c9e",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1011697&param=informatie",
-  "as_of": "2006-06-01",
+  "as_of": "2006-08-09",
   "made": "2003-09-12",
   "gazette": "2003-11-07",
   "numac": 2003036083,
   "document_start": "2003-11-07",
   "document_end": "2008-12-31",
-  "in_force": "2006-06-01",
+  "in_force": "2006-08-09",
   "article_versions": 12,
-  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2006-08-09; future article versions excluded; article text as the API gives it"
 }
