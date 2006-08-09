@@ -1,0 +1,17 @@
+{
+  "codex_id": 1014823,
+  "title": "Besluit van de Vlaamse Regering van 2006-06-16 tot wijziging van de besluiten van de Vlaamse Regering van 12 september 2003 ter uitvoering van het decreet van 14 februari 2003 houdende de ondersteuning en de stimulering van het gemeentelijk, het intergemeentelijk en het provinciaal jeugd- en jeugdwerkbeleid",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1014823/VolledigDocument?datum=2006-08-09",
+  "source_sha256": "998db847ac9089c5063fe57d4f199086ddcdb3f78bad97c2e29aeaf6a0abeda0",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1014823&param=informatie",
+  "as_of": "2006-08-09",
+  "made": "2006-06-16",
+  "gazette": "2006-08-09",
+  "numac": 2006036179,
+  "document_start": "2006-08-09",
+  "document_end": null,
+  "in_force": "2006-08-09",
+  "article_versions": 31,
+  "record_form": "consolidated version as in force on 2006-08-09; oldest version available; future article versions excluded; article text as the API gives it"
+}
