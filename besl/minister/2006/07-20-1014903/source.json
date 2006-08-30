@@ -1,0 +1,17 @@
+{
+  "codex_id": 1014903,
+  "title": "Ministerieel besluit van 2006-07-20 houdende de instelling van de adviescommissie 'Heuvelland, Leie- en Scheldevallei' voor een aantal Vlaamse natuurreservaten gelegen in de provincie West-Vlaanderen",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1014903/VolledigDocument?datum=2006-08-30",
+  "source_sha256": "d06cf9ae59fb74c42f60d1011845db13ef07ec4affc5e837ad8a442e116cbb68",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1014903&param=informatie",
+  "as_of": "2006-08-30",
+  "made": "2006-07-20",
+  "gazette": "2006-08-30",
+  "numac": 2006036284,
+  "document_start": "2006-08-30",
+  "document_end": null,
+  "in_force": "2006-08-30",
+  "article_versions": 6,
+  "record_form": "consolidated version as in force on 2006-08-30; oldest version available; future article versions excluded; article text as the API gives it"
+}
