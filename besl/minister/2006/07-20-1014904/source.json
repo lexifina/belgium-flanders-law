@@ -1,0 +1,17 @@
+{
+  "codex_id": 1014904,
+  "title": "Ministerieel besluit van 2006-07-20 houdende de instelling van de adviescommissie 'Poldergraslanden' voor een aantal Vlaamse natuurreservaten gelegen in de provincie West-Vlaanderen",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1014904/VolledigDocument?datum=2006-08-30",
+  "source_sha256": "7f87ef5bfedc93832b4447a4e9069bb7821e48aef6fe92d1ca61831a725332cf",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1014904&param=informatie",
+  "as_of": "2006-08-30",
+  "made": "2006-07-20",
+  "gazette": "2006-08-30",
+  "numac": 2006036288,
+  "document_start": "2006-08-30",
+  "document_end": null,
+  "in_force": "2006-08-30",
+  "article_versions": 6,
+  "record_form": "consolidated version as in force on 2006-08-30; oldest version available; future article versions excluded; article text as the API gives it"
+}
