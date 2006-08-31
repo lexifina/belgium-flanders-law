@@ -14,6 +14,14 @@ Dit decreet regelt een gemeenschapsaangelegenheid.<br /><br />
 
 In artikel 3 van hetzelfde decreet, gewijzigd bij de decreten van 14 juli 1998, 22 december 2000, 13 juli 2001, 28 juni 2002, 14 februari 2003, 10 juli 2003 en 15 juli 2005, worden de volgende wijzigingen aangebracht : <br />1° in punt 1° worden de woorden « in het kleuteronderwijs » geschrapt; <br />2° in punt 34° wordt het woord « tellingsdatum » vervangen door de woorden « teldag of tijdens een welbepaalde telperiode »; <br />3° in punt 45° worden de woorden « bepaalde datum » vervangen door de woorden « welbepaalde teldag of tijdens een welbepaalde telperiode » en worden de woorden « , een vestigingsplaats » geschrapt; <br />4° een punt 45°ter wordt toegevoegd, dat luidt als volgt :<br />« 45°ter randgemeenten : de gemeenten van het Vlaamse Gewest, vermeld in artikel 7 van de wetten op het gebruik van de talen in bestuurszaken, gecoördineerd op 18 juli 1966; »; <br />5° een punt 45°quater wordt toegevoegd, dat luidt als volgt :<br />« 45°quater taalgrensgemeenten : de gemeenten van het Vlaamse Gewest, vermeld in artikel 3, 1°, van de wet van 30 juli 1963 houdende taalregeling in het onderwijs; »; <br />6° in punt 46° wordt het woord « datum » vervangen door de woorden « teldag of tijdens een welbepaalde telperiode »; <br />7° in punt 55° wordt het woord « tellingsdatum » vervangen door de woorden « teldag of tijdens een welbepaalde telperiode ». <br /><br />
 
+### ART. II.6.
+
+In hetzelfde decreet wordt een artikel 25bis ingevoegd, dat luidt als volgt : <br />« Artikel 25bis <br />De Vlaamse Regering richt in elke provincie een Commissie van Advies voor het Buitengewoon Onderwijs (CABO) op. De Vlaamse Regering bepaalt de samenstelling en de werking ervan en ze bepaalt, onverminderd de bevoegdheden, vastgelegd in artikelen 26 en 35, in welke gevallen de CABO gemotiveerde adviezen kan uitbrengen. ».<br /><br />
+
+### ART. II.7.
+
+In artikel 26 van hetzelfde decreet wordt § 3 opgeheven. <br /><br />
+
 ### ART. II.17.
 
 Aan artikel 125duodecies van hetzelfde decreet, ingevoegd bij het decreet van 10 juli 2003 en gewijzigd bij het decreet van 15 juli 2005, wordt een § 4 toegevoegd, die luidt als volgt : <br />« § 4. Scholengemeenschappen, waar scholen van het gemeenschapsonderwijs deel van uitmaken, kunnen de puntenenveloppe ter ondersteuning van de werking aanwenden om het personeelslid dat belast is met het mandaat van algemeen directeur in de scholengroep, waar één of meerdere scholen van de scholengemeenschap deel van uit maken, school- of klasvrij te maken. ». <br /><br />
