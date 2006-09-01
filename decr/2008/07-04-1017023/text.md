@@ -28,6 +28,10 @@ De bepalingen van dit hoofdstuk treden in werking op 1 september 2008, met uitzo
 
 ## Afdeling II Decreet betreffende het onderwijs II
 
+### ART. III.4.
+
+In artikel 59bis van hetzelfde decreet, ingevoegd bij het decreet van 28 april 1993 en gewijzigd bij het decreet van 7 juli 2006, worden de volgende wijzigingen aangebracht :<br />1° punt 1° wordt vervangen door wat volgt :<br />« 1° het maximum aantal uren-leraar van een bepaald schooljaar dat wordt overgedragen naar het daaropvolgende schooljaar dient vastgelegd uiterlijk op 1 november van dat schooljaar; »;<br />2° punt 2° wordt vervangen door wat volgt :<br />« 2° het maximum aantal uren-leraar van een bepaald schooljaar dat wordt overgedragen naar het daaropvolgende schooljaar kan nooit hoger liggen dan twee procent van het aantal aanwendbare uren-leraar van dat bepaald schooljaar; »;<br />3° punt 3° wordt vervangen door wat volgt :<br />« 3° het in 1° en 2° bedoelde maximum aantal overgedragen uren-leraar, of een gedeelte ervan, mag, in afwijking van artikel 3, § 6, van de wet van 29 mei 1959 tot wijziging van sommige bepalingen van de onderwijswetgeving, na 1 november van dat schooljaar zowel gebruikt worden in de eigen onderwijsinstelling als overgedragen worden naar een andere onderwijsinstelling binnen hetzelfde net of binnen eenzelfde scholengemeenschap; ».<br /><br />
+
 ## Afdeling III Decreet houdende diverse bepalingen met betrekking tot het secundair onderwijs
 
 ## Onderafdeling I Diverse wijzigingen
@@ -39,6 +43,14 @@ In artikel 6, § 3, van hetzelfde decreet, gewijzigd bij het decreet van 7 juli 
 ### ART. III.8.
 
 In artikel 8bis, van hetzelfde decreet, ingevoegd bij het decreet van 14 februari 2003, worden tussen het woord « opties » en het woord « militaire » de woorden « elektronica militaire wapensystemen, » ingevoegd.<br /><br />
+
+### ART. III.10.
+
+Aan artikel 28, § 1, van hetzelfde decreet, vervangen bij het decreet van 7 juli 2006 en gewijzigd bij het decreet van 22 juni 2007, worden de volgende wijzigingen aangebracht :<br />1° de woorden « op 1 oktober van de twee voorafgaande schooljaren in de school in kwestie » worden geschrapt;<br />2° een tweede lid wordt toegevoegd, dat luidt als volgt :<br />« Voor zover een optie een zelfde benaming draagt in de tweede en de derde graad, heeft een gunstige beslissing van de Vlaamse Regering betrekking op de twee graden samen. Tussen de opstart van beide graden kunnen dan maximaal twee schooljaren liggen. ».<br /><br />
+
+### ART. III.12.
+
+Aan artikel 38, § 1, van hetzelfde decreet, vervangen bij het decreet van 7 juli 2006 en gewijzigd bij het decreet van 22 juni 2007, worden de volgende wijzigingen aangebracht :<br />1° de woorden « op 1 oktober van de twee voorafgaande schooljaren in de school in kwestie » worden geschrapt;<br />2° een tweede lid wordt toegevoegd, dat luidt als volgt :<br />« Voor zover een optie een zelfde benaming draagt in de tweede en de derde graad, heeft een gunstige beslissing van de Vlaamse Regering betrekking op de twee graden samen. Tussen de opstart van beide graden kunnen dan maximaal twee schooljaren liggen. ».<br /><br />
 
 ## Afdeling IV Brussels curriculum
 
@@ -108,6 +120,10 @@ Artikel 53bis van hetzelfde decreet wordt vervangen door wat volgt :<br />« Art
 
 ## HOOFDSTUK VI Centrum voor leerlingenbegeleiding
 
+### ART. VI.4.
+
+Aan artikel 73 van hetzelfde decreet, gewijzigd door de decreten van 7 juli 2006 en 22 juni 2007, wordt een § 5 toegevoegd, die luidt als volgt :<br />« § 5. Als een centrum een personeelslid aanstelt in het ambt van intercultureel bemiddelaar dat niet voldoet aan de voorwaarden van § 3, worden de diensten die het personeelslid eventueel vanaf 1 september 2000 presteerde als medewerker beschouwd als diensten gepresteerd in het ambt van intercultureel bemiddelaar. ».<br /><br />
+
 ### ART. VI.5.
 
 De bepalingen van dit hoofdstuk treden in werking op de hierna vermelde datum :<br />1° artikel VI.4 dat uitwerking heeft met ingang van 1 september 2006;<br />2° artikelen VI.1 en VI.2 die uitwerking hebben met ingang van 1 januari 2008;<br />3° artikel VI.3 dat in werking treedt op 1 september 2008.<br /><br />
@@ -147,6 +163,10 @@ In artikel 23 van hetzelfde decreet, gewijzigd bij de decreten van 14 februari 2
 In artikel 23bis van hetzelfde decreet, ingevoegd bij het decreet van 14 juli 1998 en gewijzigd bij de decreten van 14 februari 2003, 10 juli 2003, 2 april 2004, 15 juli 2005 en 13 juli 2007, worden de volgende wijzigingen aangebracht :<br />1° § 5 wordt vervangen door wat volgt :<br />« § 5. Het recht op een tijdelijke aanstelling van doorlopende duur geldt voor dat ambt waarin de in § 3 bedoelde anciënniteit is verworven en waarvoor het personeelslid uiterlijk op 31 augustus van het schooljaar waarin hij het recht inroept het vereiste bekwaamheidsbewijs of voldoende geacht bekwaamheidsbewijs, bij organieke bepaling of bij overgangsmaatregel, bezit.<br /><br />Is de in § 3 bedoelde anciënniteit verworven in een ambt van leraar, dan geldt dit recht voor dit ambt en voor alle vakken en specialiteiten waarvoor het personeelslid uiterlijk op 31 augustus van het schooljaar waarin hij het recht inroept een vereist bekwaamheidsbewijs, bij organieke bepaling of bij overgangsmaatregel, bezit.<br /><br />Is de in § 3 bedoelde anciënniteit verworven in een ambt van leraar voor een vak of een specialiteit waarvoor het personeelslid uiterlijk op 31 augustus van het schooljaar waarin hij het recht inroept een voldoende geacht bekwaamheidsbewijs, bij organieke bepaling of bij overgangsmaatregel, bezit, dan geldt dit recht voor dit ambt, dit vak of deze specialiteit en daarenboven ook voor alle vakken en specialiteiten waarvoor het personeelslid een vereist bekwaamheidsbewijs, bij organieke bepaling of bij overgangsmaatregel, bezit. »;<br /><br />2° in § 7 worden de woorden « volgens artikel 25 » vervangen door de woorden « volgens artikel 25 of volgens artikel 24 van het decreet rechtspositie personeelsleden Gemeenschapsonderwijs » en worden de woorden « 47quaterdecies » vervangen door de woorden « 47quaterdecies of volgens artikel 73quaterdecies van het decreet rechtspositie personeelsleden Gemeenschapsonderwijs »;<br /><br />3° in § 7bis worden de woorden « volgens artikel 64, 6° » vervangen door de woorden « volgens artikel 64, 6°, of volgens artikel 61, 6°, van het decreet rechtspositie personeelsleden Gemeenschapsonderwijs » en worden de woorden « artikel 47terdecies » vervangen door de woorden « artikel 47terdecies of volgens artikel 73terdecies van het decreet rechtspositie personeelsleden Gemeenschapsonderwijs »;<br /><br />4° in § 7ter worden de woorden « volgens artikel 64, 6° » vervangen door de woorden « volgens artikel 64, 6°, of volgens artikel 61, 6°, van het decreet rechtspositie personeelsleden Gemeenschapsonderwijs » en worden de woorden « artikel 47terdecies » vervangen door de woorden « artikel 47terdecies of volgens artikel 73terdecies van het decreet rechtspositie personeelsleden Gemeenschapsonderwijs »;<br /><br />5° § 8 wordt vervangen door wat volgt :<br />« § 8. Een personeelslid kan het recht op een tijdelijke aanstelling van doorlopende duur laten gelden voor elke vacature die in de loop van het schooljaar ontstaat, behalve wanneer hij reeds als titularis voor doorlopende duur is aangesteld voor een voltijdse betrekking. ».<br /><br />
 
 ## Afdeling IV Politiek verlof
+
+### ART. VIII.36.
+
+In artikel 34 van hetzelfde decreet wordt het tweede lid opgeheven.<br /><br />
 
 ## Afdeling V Bekwaamheidsbewijzen
 
@@ -189,6 +209,10 @@ In artikel V.25 van het decreet van 13 juli 2001 betreffende het onderwijs XIII-
 ## Afdeling V Decreet betreffende de gelijke kansen I
 
 ## Afdeling VI Decreet betreffende het onderwijs XIV
+
+### ART. X.34.
+
+In artikel X.49, 5°, van hetzelfde decreet worden de woorden « en het Vlaams Ondersteuningscentrum voor de Basiseducatie » geschrapt.<br /><br />
 
 ## Afdeling VII Decreet betreffende de regionale technologische centra en houdende noodzakelijke en dringende onderwijsbepalingen
 
