@@ -1,0 +1,17 @@
+{
+  "codex_id": 1014708,
+  "title": "Ministerieel besluit van 2006-07-06 tot wijziging van het ministerieel besluit van 5 juli 1999 tot vastlegging van de benamingen die kunnen voorkomen op de kwalificatiegetuigschriften van het deeltijds beroepssecundair ond",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1014708/VolledigDocument?datum=2006-09-01",
+  "source_sha256": "6f4aeca0a007a0ccddbd14db4e776c39779c49353fd196cd869ae91797ba1591",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1014708&param=informatie",
+  "as_of": "2006-09-01",
+  "made": "2006-07-06",
+  "gazette": "2006-07-31",
+  "numac": 2006036154,
+  "document_start": "2006-09-01",
+  "document_end": null,
+  "in_force": "2006-09-01",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2006-09-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
