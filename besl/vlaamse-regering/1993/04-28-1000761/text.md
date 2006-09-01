@@ -10,7 +10,7 @@ Dit besluit is van toepassing op alle in artikel 1 bedoelde voorzieningen die va
 
 ### ART. 3.
 
-Het aantal bedden en plaatsen in voorzieningen, die bestemd zijn voor de opname van personen met een handicap vermeld in artikel 3, § 1, van het koninklijk besluit nr. 81 van 10 november 1967 tot instelling van een Fonds voor medische, sociale en pedagogische zorg voor gehandicapten, wordt vanaf 2003 bepaald op [ <span class="reference">(verv. B.V.R. 18 juli 2003, art. 2, I: 1 januari 2003)</span> ] 23.568. [ <span class="reference">(verv. B.V.R.18 november 2005, art. 2, I: 15 oktober 2005)</span> ]
+Het aantal bedden en plaatsen in voorzieningen, die bestemd zijn voor de opname van personen met een handicap vermeld in artikel 3, § 1, van het koninklijk besluit nr. 81 van 10 november 1967 tot instelling van een Fonds voor medische, sociale en pedagogische zorg voor gehandicapten, wordt vanaf 2003 bepaald op 23.909.
 
 ### ART. 4.
 
@@ -18,7 +18,7 @@ Het aantal subsidieerbare arbeidsplaatsen in de beschutte werkplaatsen wordt bin
 
 ### ART. 5.
 
-De Raad van Bestuur van het Vlaams Fonds voor de Sociale Integratie van Personen met een Handicap stelt jaarlijks het maximumaantal personen met een handicap vast dat door de diensten voor plaatsing in gezinnen in opvanggezinnen geplaatst kan worden.<br /><br />Voor 1993 wordt dat maximum aantal vastgesteld op 700.
+De Vlaamse minister, bevoegd voor de bijstand aan personen, stelt jaarlijks het maximum aantal personen met een handicap vast dat door de diensten voor plaatsing in gezinnen geplaatst kan worden.
 
 ### ART. 6.
 
