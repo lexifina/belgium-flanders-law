@@ -1,0 +1,17 @@
+{
+  "codex_id": 1015893,
+  "title": "Besluit van de Vlaamse Regering van 2007-04-27 tot wijziging van het besluit van de Vlaamse Regering van 26 april 1990 betreffende het verlof voor verminderde prestaties gewettigd door sociale of familiale redenen en de afwezigheid voor verminderde prestaties wegens persoonlijke aangelegenheid ten gunste van de personeelsleden van het onderwijs en de centra voor leerlingenbegeleiding",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1015893/VolledigDocument?datum=2006-09-01",
+  "source_sha256": "f0c38ac8a77b1b5849c664c9b3f982482a998f08bc39c5ae18682a65ee8f1dc8",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1015893&param=informatie",
+  "as_of": "2006-09-01",
+  "made": "2007-04-27",
+  "gazette": "2007-06-27",
+  "numac": 2007035899,
+  "document_start": "2006-09-01",
+  "document_end": null,
+  "in_force": "2006-09-01",
+  "article_versions": 7,
+  "record_form": "consolidated version as in force on 2006-09-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
