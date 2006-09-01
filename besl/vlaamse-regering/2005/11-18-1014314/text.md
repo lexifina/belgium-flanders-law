@@ -2,7 +2,7 @@
 
 ### ART. 1.
 
-§ 1. Ter uitvoering van artikelen 14 en 15, § 1, van het decreet van 2 maart 1999 tot regeling van een aantal aangelegenheden van het volwassenenonderwijs worden in de bijlagen I tot en met IV voor de modulaire structuur van het studiegebied Handel, behorende tot het secundair onderwijs voor sociale promotie, de opleidingsprofielen als volgt vastgelegd:<br />1° in bijlage I de modulaire opleiding « Informatica: Computer- en Besturingssystemen en Netwerken TSO3 »;<br />2° in bijlage II de modulaire opleiding « Informatica: Programmeren TSO3 »;<br />3° in bijlage III de modulaire opleiding « Informatica: toepassingssoftware TSO 3 »;<br />4° in bijlage IV de modulaire opleiding « Informatica: toepassingssoftware verkort TSO 3 ».<br /><br />§ 2. Op grond van artikel 15, § 2, van het decreet van 2 maart 1999 tot regeling van een aantal aangelegenheden van het volwassenenonderwijs wordt in de volgende modulaire opleiding voor bijzondere doelgroepen afgeweken van het vastgestelde minimale aantal lestijden: « Informatica: Toepassingssoftware verkort TSO 3 ». <br /><br /><br />
+§ 1. Ter uitvoering van artikelen 14 en 15, § 1, van het decreet van 2 maart 1999 tot regeling van een aantal aangelegenheden van het volwassenenonderwijs worden in de bijlagen I tot en met VI voor de modulaire structuur van het studiegebied Handel, behorende tot het secundair onderwijs voor sociale promotie, de opleidingsprofielen als volgt vastgelegd:<br />1° in bijlage I de modulaire opleiding « Informatica: Computer- en Besturingssystemen en Netwerken TSO3 »;<br />2° in bijlage II de modulaire opleiding « Informatica: Programmeren TSO3 »;<br />3° ...<br />4° ...<br />5° in bijlage V de modulaire opleiding « Informatica: toepassingssoftware TSO 3 »;<br />6° in bijlage VI de modulaire opleiding « Informatica: toepassingssoftware verkort TSO 3 ». <br /><br />§ 2. Op grond van artikel 15, § 2, van het decreet van 2 maart 1999 tot regeling van een aantal aangelegenheden van het volwassenenonderwijs wordt in de volgende modulaire opleiding voor bijzondere doelgroepen afgeweken van het vastgestelde minimale aantal lestijden: « Informatica: Toepassingssoftware verkort TSO 3 ». <br /><br /><br />
 
 ### ART. 2.
 
@@ -35,8 +35,16 @@ De Vlaamse minister, bevoegd voor het Onderwijs, is belast met de uitvoering van
 
 ### BIJLAGE
 
-<a href="http://www.ejustice.just.fgov.be/mopdf/2006/10/26_1.pdf#page=3" title=" bijlage III" target="_blank" class="pdf">bijlage III</a>
+...
 
 ### BIJLAGE
 
-<a href="http://www.ejustice.just.fgov.be/mopdf/2006/10/26_1.pdf#page=45" title=" bijlage IV" target="_blank" class="pdf">bijlage IV</a>
+...
+
+### BIJLAGE
+
+<a href="http://www.ejustice.just.fgov.be/mopdf/2006/10/26_1_2.pdf#page=2" title=" bijlage V" target="_blank" class="pdf">bijlage V</a>
+
+### BIJLAGE
+
+<a href="http://www.ejustice.just.fgov.be/mopdf/2006/10/26_1_2.pdf#page=42" title=" bijlage VI" target="_blank" class="pdf">bijlage VI</a>
