@@ -2,16 +2,16 @@
   "codex_id": 1000395,
   "title": "Decreet van 1993-12-15 betreffende het onderwijs-V",
   "type": "Decreet",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1000395/VolledigDocument?datum=2006-06-01",
-  "source_sha256": "8e73ed31f86154df8fd2c5af36e9d88852494287bb08d71791cb45faeca94312",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1000395/VolledigDocument?datum=2006-09-01",
+  "source_sha256": "2cb2ae4fabec23509b69c2c2fdb79203a4de84b606f28ce6b629c1ac7a9db91f",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1000395&param=informatie",
-  "as_of": "2006-06-01",
+  "as_of": "2006-09-01",
   "made": "1993-12-15",
   "gazette": "1994-03-01",
   "numac": 1994035169,
   "document_start": null,
   "document_end": null,
-  "in_force": "2006-06-01",
+  "in_force": "2006-09-01",
   "article_versions": 57,
-  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2006-09-01; future article versions excluded; article text as the API gives it"
 }

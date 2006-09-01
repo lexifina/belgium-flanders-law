@@ -256,4 +256,10 @@ De artikelen 49, 50 en 51 hebben uitwerking met ingang van 1 juli 1991.
 
 ### ART. 57.
 
-Met uitsluiting van het universitair onderwijs en eveneens, vanaf een datum te bepalen door de Vlaamse regering, aan het hoger onderwijs buiten de universiteit, worden de personeelsleden van het onderwijs dat door de Vlaamse Gemeenschap wordt ingericht of gesubsidieerd en waarvan de wedde of de weddetoelage geheel of ten dele ten laste van de Vlaamse Gemeenschap is, op hun afwezigheid wegens ziekte gecontroleerd volgens de regels die de Vlaamse regering vaststelt.<br /><br />De Vlaamse regering kan de persoon of de instelling aanwijzen die met het geneeskundig toezicht op de afwezigheid wegens ziekte wordt belast.<br /><br />Aan het niet-naleven van de bij of krachtens dit artikel vastgestelde bepalingen zijn terzake van de rechtspositie van de onterecht afwezige wegens ziekte en van de financiering of de subsidiëring van de betrekking, de sancties verbonden die de Vlaamse regering vaststelt.
+Met uitsluiting van het universitair onderwijs en eveneens, vanaf een datum te bepalen door de Vlaamse regering, aan het hoger onderwijs buiten de universiteit, worden de personeelsleden van het onderwijs dat door de Vlaamse Gemeenschap wordt ingericht of gesubsidieerd en waarvan de wedde of de weddetoelage geheel of ten dele ten laste van de Vlaamse Gemeenschap is, op hun afwezigheid wegens ziekte gecontroleerd volgens de regels die de Vlaamse regering vaststelt.<br>
+<br>
+De Vlaamse regering kan de persoon of de instelling aanwijzen die met het geneeskundig toezicht op de afwezigheid wegens ziekte wordt belast.<br>
+<br>
+Het personeelslid dat de bij of krachtens dit artikel vastgestelde bepalingen niet naleeft, kan, onverminderd de bepalingen van de decreten rechtspositie, een geldelijke sanctie opgelegd krijgen volgens de voorwaarden, vastgelegd door de Vlaamse Regering.<br>
+<br>
+De Vlaamse Regering waarborgt daarbij in elk geval het recht op verdediging van het personeelslid in kwestie.
