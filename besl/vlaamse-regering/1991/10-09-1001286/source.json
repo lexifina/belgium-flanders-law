@@ -2,16 +2,16 @@
   "codex_id": 1001286,
   "title": "Besluit van de Vlaamse Regering van 1991-10-09 houdende inrichting van de examencommissie van de Vlaamse Gemeenschap voor het voltijds secundair onderwijs",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1001286/VolledigDocument?datum=2006-06-01",
-  "source_sha256": "7ac1f143e91a2bdad7b677ff0768fb0b163cd5f7e273aa510623c5dd7028f6f4",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1001286/VolledigDocument?datum=2006-09-01",
+  "source_sha256": "1448f1ca1471294460299fea40bee75cc89bd44eb5fd53069c225dd0c6c0793a",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1001286&param=informatie",
-  "as_of": "2006-06-01",
+  "as_of": "2006-09-01",
   "made": "1991-10-09",
   "gazette": "1991-12-17",
   "numac": 1991036581,
   "document_start": "1992-01-01",
   "document_end": "2005-12-31",
-  "in_force": "2006-06-01",
-  "article_versions": 12,
-  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "in_force": "2006-09-01",
+  "article_versions": 13,
+  "record_form": "consolidated version as in force on 2006-09-01; future article versions excluded; article text as the API gives it"
 }
