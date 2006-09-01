@@ -2,7 +2,7 @@
 
 ### ART. 1.
 
-Ter uitvoering van artikel 14 en 15, § 1, van het decreet van 2 maart 1999 tot regeling van een aantal aangelegenheden van het volwassenenonderwijs worden in de bijlagen I tot en met XIII voor de modulaire structuur van het studiegebied Talen, behorende tot het secundair onderwijs voor sociale promotie, de opleidingsprofielen als volgt vastgelegd:<br />1° in bijlage I de modulaire opleiding « Andere Talen: Deens, Duits, Engels, Frans, Italiaans, Portugees, Spaans, Zweeds richtgraad 1 »;<br />2° in bijlage II de modulaire opleiding « Andere Talen: Deens, Duits, Engels, Frans, Italiaans, Portugees, Spaans, Zweeds richtgraad 2 »;<br />3° in bijlage III de modulaire opleiding « Andere Talen: Deens, Duits, Engels, Frans, Italiaans, Portugees, Spaans, Zweeds richtgraad 3 »;<br />4° in bijlage IV de modulaire opleiding « Andere Talen: Deens, Duits, Engels, Frans, Italiaans, Portugees, Spaans, Zweeds richtgraad 4 »;<br />5° in bijlage V de modulaire opleiding « Grieks, Pools, Russisch, Turks richtgraad 1 »;<br />6° in bijlage VI de modulaire opleiding « Grieks, Pools, Russisch, Turks richtgraad 2 »;<br />7° in bijlage VII de modulaire opleiding « Arabisch, Chinees, Japans richtgraad 1 »;<br />8° in bijlage VIII de modulaire opleiding « Arabisch, Chinees, Japans richtgraad 2 »;<br />9° in bijlage IX de modulaire opleiding « Andere Talen: Deens, Duits, Engels, Frans, Italiaans, Portugees, Spaans, Zweeds Professioneel Bedrijfsgericht richtgraad 2 »;<br />10° in bijlage X de modulaire opleiding « Andere Talen: Deens, Duits, Engels, Frans, Italiaans, Portugees, Spaans, Zweeds Professioneel Bedrijfsgericht richtgraad 3 »;<br />11° in bijlage XI de modulaire opleiding « Andere Talen: Deens, Duits, Engels, Frans, Italiaans, Portugees, Spaans, Zweeds Professioneel Juridisch richtgraad 3 »;<br />12° in bijlage XII de modulaire opleiding « Latijns Schrift richtgraad 1 ».
+Ter uitvoering van artikel 14 en 15, § 1, van het decreet van 2 maart 1999 tot regeling van een aantal aangelegenheden van het volwassenenonderwijs worden in de bijlagen I tot en met XXII voor de modulaire structuur van het studiegebied Talen, behorende tot het secundair onderwijs voor sociale promotie, de opleidingsprofielen als volgt vastgelegd:<br />1° in bijlage I de modulaire opleiding « Andere Talen: Deens, Duits, Engels, Frans, Italiaans, Portugees, Spaans, Zweeds richtgraad 1 »;<br />2° in bijlage II de modulaire opleiding « Andere Talen: Deens, Duits, Engels, Frans, Italiaans, Portugees, Spaans, Zweeds richtgraad 2 »;<br />3° in bijlage III de modulaire opleiding « Andere Talen: Deens, Duits, Engels, Frans, Italiaans, Portugees, Spaans, Zweeds richtgraad 3 »;<br />4° in bijlage IV de modulaire opleiding « Andere Talen: Deens, Duits, Engels, Frans, Italiaans, Portugees, Spaans, Zweeds richtgraad 4 »;<br />5° in bijlage V de modulaire opleiding « Grieks, Pools, Russisch, Turks richtgraad 1 »;<br />6° in bijlage VI de modulaire opleiding « Grieks, Pools, Russisch, Turks richtgraad 2 »;<br />7° in bijlage VII de modulaire opleiding « Arabisch, Chinees, Japans richtgraad 1 »;<br />8° in bijlage VIII de modulaire opleiding « Arabisch, Chinees, Japans richtgraad 2 »;<br />9° in bijlage IX de modulaire opleiding « Andere Talen: Deens, Duits, Engels, Frans, Italiaans, Portugees, Spaans, Zweeds Professioneel Bedrijfsgericht richtgraad 2 »;<br />10° in bijlage X de modulaire opleiding « Andere Talen: Deens, Duits, Engels, Frans, Italiaans, Portugees, Spaans, Zweeds Professioneel Bedrijfsgericht richtgraad 3 »;<br />11° in bijlage XI de modulaire opleiding « Andere Talen: Deens, Duits, Engels, Frans, Italiaans, Portugees, Spaans, Zweeds Professioneel Juridisch richtgraad 3 »;<br />12° in bijlage XII de modulaire opleiding « Latijns Schrift richtgraad 1 ».<br />13° in bijlage XIII de modulaire opleiding « Andere talen : Deens, Duits, Engels, Frans, Italiaans, Portugees, Spaans, Zweeds professioneel juridisch 4 »;<br />14° in bijlage XIV de modulaire opleiding « Hebreeuws richtgraad 1 »;<br />15° in bijlage XV de modulaire opleiding « Hebreeuws richtgraad 2 »;<br />16° in bijlage XVI de modulaire opleiding « Hebreeuws richtgraad 3 »;<br />17° in bijlage XVII de modulaire opleiding « Hebreeuws richtgraad 4 »;<br />18° in bijlage XVIII de modulaire opleiding « Hebreeuws educatief richtgraad 1 »;<br />19° in bijlage XIX de modulaire opleiding « Hebreeuws educatief richtgraad 2 »;<br />20° in bijlage XX de modulaire opleiding « Hebreeuws educatief richtgraad 3 »;<br />21° in bijlage XXI de modulaire opleiding « Hebreeuws educatief richtgraad 4 »;<br />22° in bijlage XXII de modulaire opleiding « Hebreeuws schrift richtgraad 1 ». <br />
 
 ### ART. 2.
 
@@ -69,3 +69,43 @@ De Vlaamse minister, bevoegd voor het Onderwijs, is belast met de uitvoering van
 ### BIJLAGE
 
 <a href="http://www.ejustice.just.fgov.be/mopdf/2006/02/28_1_4.pdf#page=104" title=" Bijlage XII" target="_blank" class="pdf">Bijlage XII</a>
+
+### BIJLAGE
+
+<a href="http://www.ejustice.just.fgov.be/mopdf/2006/11/23_1.pdf#page=3" title=" Bijlage XIII" target="_blank" class="pdf">Bijlage XIII</a>
+
+### BIJLAGE
+
+<a href="http://www.ejustice.just.fgov.be/mopdf/2006/11/23_1.pdf#page=16" title=" Bijlage XIV" target="_blank" class="pdf">Bijlage XIV</a>
+
+### BIJLAGE
+
+<a href="http://www.ejustice.just.fgov.be/mopdf/2006/11/23_1.pdf#page=34" title=" Bijlage XV" target="_blank" class="pdf">Bijlage XV</a>
+
+### BIJLAGE
+
+<a href="http://www.ejustice.just.fgov.be/mopdf/2006/11/23_1.pdf#page=63" title=" Bijlage XVI" target="_blank" class="pdf">Bijlage XVI</a>
+
+### BIJLAGE
+
+<a href="http://www.ejustice.just.fgov.be/mopdf/2006/11/23_1_2.pdf#page=1" title=" Bijlage XVII" target="_blank" class="pdf">Bijlage XVII</a>
+
+### BIJLAGE
+
+<a href="http://www.ejustice.just.fgov.be/mopdf/2006/11/23_1_2.pdf#page=25" title=" Bijlage XVIII" target="_blank" class="pdf">Bijlage XVIII</a>
+
+### BIJLAGE
+
+<a href="http://www.ejustice.just.fgov.be/mopdf/2006/11/23_1_2.pdf#page=46" title=" Bijlage XIX" target="_blank" class="pdf">Bijlage XIX</a>
+
+### BIJLAGE
+
+<a href="http://www.ejustice.just.fgov.be/mopdf/2006/11/23_1_2.pdf#page=1" title=" Bijlage XX" target="_blank" class="pdf">Bijlage XX</a>
+
+### BIJLAGE
+
+<a href="http://www.ejustice.just.fgov.be/mopdf/2006/11/23_1_2.pdf#page=36" title=" Bijlage XXI" target="_blank" class="pdf">Bijlage XXI</a>
+
+### BIJLAGE
+
+<a href="http://www.ejustice.just.fgov.be/mopdf/2006/11/23_1_2.pdf#page=63" title=" Bijlage XXII" target="_blank" class="pdf">Bijlage XXII</a>
