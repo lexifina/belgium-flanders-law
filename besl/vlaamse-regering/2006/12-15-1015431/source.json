@@ -1,0 +1,17 @@
+{
+  "codex_id": 1015431,
+  "title": "Besluit van de Vlaamse Regering van 2006-12-15 houdende verscheidene maatregelen tot wijziging van de programmatie voor de voorzieningen op het vlak van de sociale integratie van personen met een handicap",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1015431/VolledigDocument?datum=2006-09-01",
+  "source_sha256": "aaecb4e24ee60f3afed8ec1137ae8303ea86eca13a11b3554a08f6f4d85eccc1",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1015431&param=informatie",
+  "as_of": "2006-09-01",
+  "made": "2006-12-15",
+  "gazette": "2007-02-02",
+  "numac": 2007035112,
+  "document_start": "2006-09-01",
+  "document_end": null,
+  "in_force": "2006-09-01",
+  "article_versions": 7,
+  "record_form": "consolidated version as in force on 2006-09-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
