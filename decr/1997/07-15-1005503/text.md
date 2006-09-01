@@ -84,43 +84,43 @@ De volgende artikelen treden als volgt in werking:<br /><br />1° artikel 8 heef
 
 ### ART. 20.
 
-§ 1. Geïntegreerd secundair onderwijs is een samenwerking tussen het gewoon secundair en het buitengewoon onderwijs. Het is bedoeld om leerlingen met een handicap en/of leer- en opvoedingsmoeilijkheden tijdelijk of permanent, gedeeltelijk of volledig de lessen of activiteiten te laten volgen in een school voor gewoon secundair onderwijs met hulp vanuit een school voor buitengewoon onderwijs die daartoe aanvullende lestijden of lesuren en/of aanvullende uren en via de werkingsmiddelen een integratietoelage of -krediet krijgt.<br /><br />§ 2. De integratie is permanent wanneer de leerling ten minste vanaf de laatste schooldag van september van het lopende schooljaar tot het einde van dat schooljaar de lessen en activiteiten in het gewoon secundair onderwijs volgt. Wanneer deze periode korter is, is de integratie tijdelijk.<br /><br />§ 3. Wanneer de geïntegreerde leerling alle lessen of activiteiten in het gewoon secundair onderwijs volgt is de integratie volledig. Bij gedeeltelijke integratie volgt de leerling minstens twee halve dagen per week gewoon secundair onderwijs.
+...
 
 ### ART. 21.
 
-[Om toegelaten te worden tot het geïntegreerd secundair onderwijs is het volgende vereist:<br /><br />1° de leerling moet voldoen aan de toelatingsvoorwaarden die gelden voor het gewoon en buitengewoon secundair onderwijs;<br /><br />2° voor de betrokken leerling moet een integratieplan opgesteld worden. De regering bepaalt de inhoud van het integratieplan en legt de samenstelling van het integratieteam, dat het integratieplan zal opstellen, vast;<br /><br />3° indien het attest, bedoeld in artikel 5 van de wet op het buitengewoon en geïntegreerd onderwijs van 6 juli 1970, naar de types 1 of 3 oriënteert, moet de leerling in het betreffende type ten minste negen maanden voltijds buitengewoon onderwijs gevolgd hebben onmiddellijk voorafgaand aan de integratie in het gewoon onderwijs.  <span class="reference">(verv. decr. 7 mei 2004, art. 25, I: 1 september 2004)</span> ]
+...
 
 ### ART. 22.
 
-[Een nieuw integratieplan wordt opgesteld bij wijziging van: de aard van de integratie, de aard en de ernst van de handicap of het onderwijsniveau (met inbegrip van het beroepenveld, de studierichting, de afdeling of de opties).  <span class="reference">(verv. decr. 7 mei 2004, art. 25, I: 1 september 2004)</span> ]
+...
 
 ### ART. 23.
 
-[Bij wijziging van het integratieteam kan het bestaande integratieplan bevestigd worden.  <span class="reference">(verv. decr. 7 mei 2004, art. 25, I: 1 september 2004)</span> ]
+...
 
 ### ART. 24.
 
-§ 1. Leerlingen die geïntegreerd secundair onderwijs volgen zijn, afhankelijk van de aard van de integratie zoals bepaald in artikel 20, § 2 en § 3, regelmatige leerling in de school voor buitengewoon secundair onderwijs en/of in de school voor gewoon secundair onderwijs.<br /><br />§ 2. De regering bepaalt de wijze waarop een regelmatige leerling in het geïntegreerd secundair onderwijs hetzij in de school voor gewoon secundair onderwijs, hetzij in de school voor buitengewoon secundair onderwijs, hetzij in beide in aanmerking komt als regelmatige leerling.
+...
 
 ### ART. 25.
 
-§ 1. Leerlingen met een handicap die in het kader van het geïntegreerd onderwijs, gewoon secundair onderwijs volgen maar omwille van hun handicap bepaalde vakken niet kunnen volgen, kunnen daarvoor een vrijstelling krijgen indien zij vervangende activiteiten volgen.<br /><br />§ 2. De klassenraad beslist over de vrijstelling en legt de vervangende activiteiten vast.
+...
 
 ### ART. 26.
 
-De school voor buitengewoon onderwijs die een leerling geïntegreerd onderwijs begeleidt, krijgt daartoe aanvullende lestijden of lesuren en/of uren en een integratietoelage of -krediet.<br /><br />De regering bepaalt de voorwaarden tot het verkrijgen van de aanvullende lestijden of lesuren en/of uren, alsook het aantal en de wijze van berekening ervan.<br /><br />De regering bepaalt de voorwaarden tot het verkrijgen van de integratietoelage of -krediet, alsook de vaststelling ervan.
+...
 
 ### ART. 27.
 
-De artikelen 95 tot en met 100 en artikel 104 van het decreet van 19 april 1995 houdende diverse wijzigingsbepalingen betreffende het hoger onderwijs in de Vlaamse Gemeenschap worden, voor wat betreft de organisatie van en de studiebekrachtiging door de examencommissie van de Vlaamse Gemeenschap voor het voltijds secundair onderwijs, geacht uitwerking te hebben met ingang van 1 januari 1996.
+...
 
 ### ART. 28.
 
-(niet opgenomen)<br /><br />(Wijzigt artikel 38 van het koninklijk besluit van 30 maart 1982 betreffende de scholengemeenschappen voor secundair on-derwijs en houdende het rationalisatie- en programmatieplan van het secundair onderwijs met volledig leerplan)
+...
 
 ### ART. 29.
 
-(niet opgenomen)<br /><br />(Wijzigt artikel 3 van de wet van 29 mei 1959 tot wijziging van sommige bepalingen van de onderwijswetgeving)
+...
 
 ### ART. 30.
 
@@ -132,11 +132,11 @@ De artikelen 95 tot en met 100 en artikel 104 van het decreet van 19 april 1995 
 
 ### ART. 31.
 
-§ 1. (niet opgenomen)<br /><br />(Wijzigt artikel 58bis van het decreet van 31 juli 1990 betreffende het onderwijs-II)<br /><br />§ 2. Aan de inrichtende macht van de geherstructureerde onderwijsinstellingen die voldoen aan de voorwaarden opgesomd in artikel 58bis, van het decreet van 31 juli 1990 betreffende het onderwijs-II, wordt een aantal bijkomende ambten van het administratief personeel en van het opvoedend hulppersoneel toegekend, die worden vastgesteld als volgt:<br /><br />1° tussen de som van het aantal ambten van het administratief personeel en het opvoedend hulppersoneel, dat op basis van de telling van 1 februari voorafgaand aan de fusie aan elke betrokken onderwijsinstelling in toepassing van het koninklijk besluit van 15 april 1977 tot vaststelling van de regelen en de voorwaarden voor de berekening van het aantal betrekkingen in sommige ambten van het opvoedend hulppersoneel en van het administratief personeel van de inrichtingen voor secundair onderwijs, wordt toegekend zonder met de fusie rekening te houden en een analoge som, wel rekening houdend met de fusie, wordt het verschil vastgesteld;<br /><br />2° het in het 1° bedoelde verschil wordt gedurende 4 schooljaren vanaf de fusie aan de inrichtende macht toegekend;<br /><br />3° in de ambten van het in 1° bedoelde verschil kunnen enkel door fusie wegens ontstentenis van betrekking terbeschik-kinggestelde personeelsleden in deze ambten worden aangesteld.<br /><br />Deze aanstelling wordt beschouwd als een reaffectatie of wedertewerkstelling.
+...
 
 ### ART. 32.
 
-De volgende artikelen treden als volgt in werking:<br /><br />1° artikel 30 heeft uitwerking met ingang van 1 september 1986;<br /><br />2° de artikelen 20 tot en met 26 hebben uitwerking met ingang van 1 september 1994;<br /><br />3° artikel 27 heeft uitwerking met ingang van 1 januari 1996;<br /><br />4° de artikelen 29 en 31 hebben uitwerking met ingang van 1 september 1997;<br /><br />5° artikel 28 treedt in werking met ingang van 1 september 1997 en houdt op van kracht te zijn op 31 augustus 1998.
+...
 
 ## HOOFDSTUK IV HOGER ONDERWIJS
 
