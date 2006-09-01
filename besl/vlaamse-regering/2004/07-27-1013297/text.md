@@ -144,6 +144,14 @@ In de rechtsgedingen van de Vlaamse Gemeenschap of het Vlaamse Gewest met betrek
 
 De Vlaamse minister, bevoegd voor het Algemeen Beleid inzake vastgoedbeheer, heeft, met betrekking tot de niet-bestemde onroerende goederen die behoren tot het domein van de Vlaamse Gemeenschap of het Vlaamse Gewest, delegatie voor:<br /><br />1° het beheer ervan;<br /><br />2° de vervreemding ervan, voor zover de budgettaire weerslag niet meer dan 1.250.000 euro bedraagt.
 
+### ART. 10bis.
+
+In afwijking van artikel 7, 2°, heeft de Vlaamse minister, bevoegd voor de financiën en de begrotingen, delegatie om :<br>
+1° in geval van uitvoerend beslag op de goederen opgenomen in de verklaring, bedoeld in artikel 1412bis van het Gerechtelijk Wetboek voor het bedrag van de vordering een blokkerende vastlegging en de eventueel hiervoor noodzakelijke herschikking binnen een begrotingsprogramma door te voeren, al dan niet over de kredietsoorten heen, op de beschikbare begrotingskredieten van de minister die bevoegd is voor de aangelegenheid die aanleiding heeft gegeven tot het beslag;<br>
+2° in geval van uitvoerend beslag op andere tegoeden van de Vlaamse Gemeenschap of het Vlaamse Gewest voor het bedrag van de vordering, voor maximaal 5 miljoen euro, een blokkerende vastlegging en de eventueel hiervoor noodzakelijke herschikking binnen een begrotingsprogramma door te voeren, al dan niet over de kredietsoorten heen, op de beschikbare begrotingskredieten van de minister die bevoegd is voor de aangelegenheid die aanleiding heeft gegeven tot het beslag.<br>
+<br>
+De Vlaamse minister, bevoegd voor de financiën en de begrotingen, kan als ordonnateur optreden om het uitgevoerde beslag aan te rekenen op de genomen blokkerende vastlegging.
+
 ### ART. 11.
 
 De Vlaamse minister, bevoegd voor de Binnenlandse Aangelegenheden, heeft delegatie om onteigeningsmachtigingen te verlenen ten algemenen nutte, behoudens in de gevallen bepaald in de wet, aan de gemeenten, de provincies, de intergemeentelijke samenwerkingsverbanden en de erkende provinciale ontwikkelingsmaatschappijen, overeenkomstig het besluit van de Vlaamse Regering van 19 december 1991 inzake onteigeningen ten algemenen nutte ten behoeve van de gemeenten, de provincies, de intercommunale verenigingen en de gewestelijke ontwikkelingsmaatschappijen.<br /><br />De leden van de Vlaamse Regering hebben delegatie om onteigeningsmachtigingen te verlenen aan instellingen of rechtspersonen die onder hun bevoegdheid vallen. Wanneer de aangelegenheid waarvoor de onteigening zich opdringt behoort tot de bevoegdheid van een ander lid van de Vlaamse Regering, wordt de machtiging verleend met instemming van dit lid.
