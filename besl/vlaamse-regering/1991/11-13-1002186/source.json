@@ -2,16 +2,16 @@
   "codex_id": 1002186,
   "title": "Besluit van de Vlaamse Regering van 1991-11-13 tot vaststelling van de voorwaarden voor het oprichten van betrekkingen in de ambten van technisch adviseur en technisch adviseur-coördinator in het voltijds secundair onderwijs",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1002186/VolledigDocument?datum=2006-06-01",
-  "source_sha256": "f6ab4cc738dca208ee27eb11fb06b531b8a191f6bfda6800d1c86271ebcd8954",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1002186/VolledigDocument?datum=2006-09-01",
+  "source_sha256": "fef5d923d7fa0681f8eaea16fca73ffce752775fdc02a77d779741dae5a7755f",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1002186&param=informatie",
-  "as_of": "2006-06-01",
+  "as_of": "2006-09-01",
   "made": "1991-11-13",
   "gazette": "1992-02-13",
   "numac": 1992035045,
   "document_start": null,
   "document_end": "2006-08-31",
-  "in_force": "2006-06-01",
+  "in_force": "2006-09-01",
   "article_versions": 12,
-  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2006-09-01; future article versions excluded; article text as the API gives it"
 }
