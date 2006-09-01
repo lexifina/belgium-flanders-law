@@ -1,0 +1,17 @@
+{
+  "codex_id": 1015144,
+  "title": "Besluit van de Vlaamse Regering van 2006-09-01 tot wijziging van het besluit van de Vlaamse Regering van 26 september 1990 betreffende de bekwaamheidsbewijzen, de weddeschalen en de bezoldigingsregeling van de leermeesters godsdienst en de godsdienstleraars",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1015144/VolledigDocument?datum=2006-09-01",
+  "source_sha256": "3d3862b671533dba49df39c649b47dbc24abbe52b8c4892b1845a76ab1b89afc",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1015144&param=informatie",
+  "as_of": "2006-09-01",
+  "made": "2006-09-01",
+  "gazette": "2006-11-14",
+  "numac": 2006036635,
+  "document_start": "2006-09-01",
+  "document_end": null,
+  "in_force": "2006-09-01",
+  "article_versions": 17,
+  "record_form": "consolidated version as in force on 2006-09-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
