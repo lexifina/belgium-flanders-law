@@ -1,0 +1,17 @@
+{
+  "codex_id": 1016007,
+  "title": "Besluit van de Vlaamse Regering van 2007-04-20 houdende aanduiding van een waarnemend administrateur-generaal voor het Onderwijsdienstencentrum Hoger Onderwijs en Volwassenenonderwijs",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1016007/VolledigDocument?datum=2006-09-01",
+  "source_sha256": "e2d9dfcf14fea62f2c653522b12eb948f10be296d2aad0f2dc4814ddb660cd3c",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1016007&param=informatie",
+  "as_of": "2006-09-01",
+  "made": "2007-04-20",
+  "gazette": "2007-07-31",
+  "numac": 2007036238,
+  "document_start": "2006-09-01",
+  "document_end": null,
+  "in_force": "2006-09-01",
+  "article_versions": 6,
+  "record_form": "consolidated version as in force on 2006-09-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
