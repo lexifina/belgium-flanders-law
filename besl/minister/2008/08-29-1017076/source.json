@@ -1,0 +1,17 @@
+{
+  "codex_id": 1017076,
+  "title": "Ministerieel besluit van 2008-08-29 houdende de definiëring van de objectieve parameters en de programmatie voor de subsidiëring van de centra voor algemeen welzijnswerk in het kader van de ziekenfondsen",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1017076/VolledigDocument?datum=2006-09-01",
+  "source_sha256": "effcd2ebca44ccb94ae4b4f1d7c953e4247321b7d6dff1bebb9bbb7eddcc1de5",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1017076&param=informatie",
+  "as_of": "2006-09-01",
+  "made": "2008-08-29",
+  "gazette": "2008-09-16",
+  "numac": 2008203198,
+  "document_start": "2006-09-01",
+  "document_end": null,
+  "in_force": "2006-09-01",
+  "article_versions": 8,
+  "record_form": "consolidated version as in force on 2006-09-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
