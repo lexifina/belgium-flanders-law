@@ -4,7 +4,10 @@
 
 ### ART. 1.
 
-Voor de toepassing van dit besluit wordt verstaan onder:<br /><br />1° Commissie: de Commissie inzake leerlingenrechten bedoeld in artikel IV.7 van het decreet;<br /><br />2° decreet: het decreet van 28 juni 2002 betreffende gelijke onderwijskansen-I;<br /><br />3° minister: de Vlaamse minister, bevoegd voor het onderwijs.
+Voor de toepassing van dit besluit wordt verstaan onder:<br>
+1° Commissie: de Commissie inzake leerlingenrechten bedoeld in artikel IV.6 van het decreet;<br>
+2° decreet: het decreet van 28 juni 2002 betreffende gelijke onderwijskansen-I;<br>
+3° minister: de Vlaamse minister, bevoegd voor het onderwijs.
 
 ## HOOFDSTUK II SAMENSTELLING
 
@@ -18,7 +21,7 @@ De leden van de Commissie hebben een mandaat van zes jaar. Het mandaat is één 
 
 ### ART. 4.
 
-De voorzitter ontvangt een jaarlijkse forfaitaire vergoeding van 2.500 euro.<br /><br />De andere leden van de Commissie ontvangen een terugbetaling van de reis- en verblijfskosten overeenkomstig de regeling van de rechtspositie van toepassing op het personeel van het ministerie van de Vlaamse Gemeenschap.<br /><br />De secretaris ontvangt een jaarlijkse forfaitaire vergoeding van 500 euro.
+De voorzitter ontvangt een jaarlijkse forfaitaire vergoeding van 2.500 euro.<br /><br />De andere leden van de Commissie ontvangen een terugbetaling van de reis- en verblijfskosten overeenkomstig de regeling van de rechtspositie van toepassing op het personeel van het ministerie van de Vlaamse Gemeenschap.<br />
 
 ## HOOFDSTUK III WERKING
 
@@ -26,7 +29,7 @@ De voorzitter ontvangt een jaarlijkse forfaitaire vergoeding van 2.500 euro.<br 
 
 ### ART. 5.
 
-Een zitting is rechtsgeldig wanneer de voorzitter aanwezig is, evenals ten minste één lid van elk van de drie categorieën bedoeld in artikel IV.8, § 1, derde, vierde en vijfde lid van het decreet.
+Een zitting is rechtsgeldig wanneer de voorzitter aanwezig is, evenals ten minste één lid van elk van de drie categorieën bedoeld in artikel IV.7, § 1, derde, vierde en vijfde lid, van het decreet.
 
 ### ART. 6.
 
@@ -40,7 +43,7 @@ De minister bekrachtigt het door de Commissie opgestelde reglement van orde.
 
 ### ART. 8.
 
-Zodra de Commissie wordt gevat, stelt de voorzitter de betrokkenen bij aangetekend schrijven in kennis van de datum van behandeling en van de lijst van effectieve en plaatsvervangende leden. De inrichtende macht wordt tevens uitgenodigd om, ten laatste op de zitting, een schriftelijke rechtvaardiging voor de weigering of doorverwijzing te bezorgen.<br /><br />De in het eerste lid bedoelde kennisgeving gebeurt zo mogelijk tevens via e-mail of fax, zonder dat de termijn voor behandeling in het gedrang komt.
+Zodra de Commissie wordt gevat, stelt de voorzitter de betrokkenen bij aangetekend schrijven in kennis van de datum van behandeling en van de lijst van effectieve en plaatsvervangende leden. De inrichtende macht wordt tevens uitgenodigd om, ten laatste op de zitting, een schriftelijke rechtvaardiging voor de weigering te bezorgen.<br /><br />De in het eerste lid bedoelde kennisgeving gebeurt zo mogelijk tevens via e-mail of fax, zonder dat de termijn voor behandeling in het gedrang komt.
 
 ### ART. 9.
 
