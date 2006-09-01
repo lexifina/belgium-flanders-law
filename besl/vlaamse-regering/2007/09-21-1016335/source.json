@@ -1,0 +1,17 @@
+{
+  "codex_id": 1016335,
+  "title": "Besluit van de Vlaamse Regering van 2007-09-21 tot wijziging van het besluit van de Vlaamse Regering van 5 maart 2004 betreffende de toekenning van een niet-verworven salarisschaal voor de houders van het getuigschrift grondige kennis verplichte tweede taal Frans, het besluit van de Vlaamse Regering van 15 april 2005 betreffende de toekenning van een bepaalde niet-verworven salarisschaal aan sommige personeelsleden van het onderwijs en het besluit van de Vlaamse Regering van 30 september 2005 betreffende de toekenning van een niet-verworven salarisschaal aan personeelsleden die houder zijn van een getuigschrift of diploma buitengewoon onderwijs",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1016335/VolledigDocument?datum=2006-09-01",
+  "source_sha256": "0c89f4433042467626af97c11100d56d33245a77f762239d226d4739abbf19fe",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1016335&param=informatie",
+  "as_of": "2006-09-01",
+  "made": "2007-09-21",
+  "gazette": "2007-11-14",
+  "numac": 2007036938,
+  "document_start": "2007-09-01",
+  "document_end": null,
+  "in_force": "2006-09-01",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2006-09-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
