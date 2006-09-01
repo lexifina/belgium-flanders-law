@@ -88,57 +88,15 @@ Met toepassing van artikel 138, § 1, 4° van het decreet worden, aanvullend bij
 
 ### ART. 14bis.
 
-Met toepassing van artikel 171, § 3, van het decreet worden aan de Nederlandstalige scholen in de rand- en taalgrensgemeenten wekelijks aanvullend bij de lestijden volgens de schalen, lestijden voor de integratie van de anderstalige leerlingen gefinancierd of gesubsidieerd.  <span class="reference">(ing. B.V.R. 20 januari 2006, art. 5, I: 1 september 2005)</span> ]
+...
 
 ### ART. 14ter.
 
-<p>§ 1. Het aantal aanvullende lestijden wordt per school berekend op grond van het totaal aantal op de teldag ingeschreven regelmatige leerlingen volgens onderstaande tabel:<br>
-&nbsp;</p>
-
-<table border="1" cellpadding="0" cellspacing="0" style="border-collapse:collapse">
-	<tbody>
-		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:230.3pt">
-			<p>Aantal leerlingen</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:230.3pt">
-			<p>Aantal aanvullende lestijden</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
-			<p>1 – 89</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
-			<p>6</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
-			<p>90 – 149</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
-			<p>12</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
-			<p>150 en meer</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
-			<p>18</p>
-			</td>
-		</tr>
-	</tbody>
-</table>
-
-<p>&nbsp;</p>
-
-<p>§ 2. De krachtens § 1 verkregen aanvullende lestijden mogen vrij verdeeld worden over alle leerlingengroepen van de school. (ing. B.V.R. 20 januari 2006, art. 5, I: 1 september 2005) ]</p>
+...
 
 ### ART. 14quater.
 
-Uit de aanvullende lestijden kunnen de volgende betrekkingen worden geput:<br /><br />1° het ambt van kleuteronderwijzer algemene en sociale vorming;<br /><br />2° het ambt van onderwijzer algemene en sociale vorming.  <span class="reference">(ing. B.V.R. 20 januari 2006, art. 5, I: 1 september 2005)</span> ]
+...
 
 ## [AFDELING B/1 AANWENDING VAN LESTIJDEN OM EEN GASTLERAAR IN TE ZETTEN (ing. BVR 15 september 2023, art. 26, I: 1 september 2023)]
 
@@ -202,7 +160,7 @@ Met toepassing van artikel 153novies van het decreet wordt aan iedere school voo
 
 ### ART. 25ter.
 
-§ 1. De totale puntenenveloppe voor het gesubsidieerd buitengewoon basisonderwijs wordt per schooljaar berekend door het binnen de begrotingskredieten beschikbare budget voor administratief personeel in het gesubsidieerd buitengewoon basisonderwijs te delen door de geldwaarde per punt. De geldwaarde per punt wordt bepaald door de gemiddelde loonkost van een full-time betrekking te delen door 82.<br /><br />§ 2. Elke school, met uitzondering van de type 5 scholen, heeft recht op een basisenveloppe van 9 punten.<br /><br />§ 3. Per school, met uitzondering van de type 5 scholen, wordt een bijkomende puntenenveloppe toegekend die berekend wordt door het gewogen aantal regelmatige leerlingen ingeschreven op de teldag of het gemiddeld aantal regelmatige leerlingen tijdens de telperiode die van toepassing is voor de berekening van de lestijden volgens de schalen, te vermenigvuldigen met de puntenwaarde per leerling en waarbij:<br /><br />- de wegingcoëfficiënt voor een leerling lager onderwijs gelijk is aan 1 en de wegingscoëfficiënt voor een kleuter gelijk is aan 0,6636;<br /><br />- de puntenwaarde per leerling het resultaat is van de volgende bewerking:<br /><br />totale puntenveloppe - (9 x aantal scholen van het gesubsidieerd buitengewoon basisonderwijs met uitzondering van de type 5 scholen) / totaal gewogen aantal leerlingen gesubsidieerd buitengewoon basisonderwijs met uitzondering van de leerlingen in de type 5 scholen;<br /><br />- het resultaat van de berekening van deze bijkomende puntenenveloppe wordt afgerond naar de hogere eenheid indien het eerste cijfer na de komma groter is dan 4.<br /><br />§ 4. Elke type 5 school in het gesubsidieerd buitengewoon basisonderwijs heeft recht op een basisenveloppe van 53 punten. Daarnaast wordt een bijkomende puntenenveloppe toegekend van 41 punten per bijkomende vestigingsplaats.  <span class="reference">(ing. B.V.R. 5 maart 2004, art. 1, I: 1 september 2003)</span> ]
+§ 1. De totale puntenenveloppe voor het gesubsidieerd buitengewoon basisonderwijs wordt per schooljaar berekend door het binnen de begrotingskredieten beschikbare budget voor administratief personeel in het gesubsidieerd buitengewoon basisonderwijs te delen door de geldwaarde per punt. De geldwaarde per punt wordt bepaald door de gemiddelde loonkost van een full-time betrekking te delen door 82.<br /><br />§ 2. Elke school, met uitzondering van de type 5 scholen, heeft recht op een basisenveloppe van 9 punten.<br /><br />§ 3. Per school, met uitzondering van de type 5 scholen, wordt een bijkomende puntenenveloppe toegekend die berekend wordt door het gewogen aantal regelmatige leerlingen ingeschreven op de teldag of het gemiddeld aantal regelmatige leerlingen tijdens de telperiode die van toepassing is voor de berekening van de lestijden volgens de schalen, te vermenigvuldigen met de puntenwaarde per leerling en waarbij:<br /><br />- de wegingcoëfficiënt voor een leerling lager onderwijs gelijk is aan 1 en de wegingscoëfficiënt voor een kleuter gelijk is aan 0,6636;<br /><br />- de puntenwaarde per leerling het resultaat is van de volgende bewerking:<br /><br />totale puntenveloppe - (9 x aantal scholen van het gesubsidieerd buitengewoon basisonderwijs met uitzondering van de type 5 scholen) / totaal gewogen aantal leerlingen gesubsidieerd buitengewoon basisonderwijs met uitzondering van de leerlingen in de type 5 scholen;<br /><br />- het resultaat van de berekening van deze bijkomende puntenenveloppe wordt afgerond naar de hogere eenheid indien het eerste cijfer na de komma groter is dan 4.<br /><br />§ 4. Elke type 5 school in het buitengewoon basisonderwijs heeft recht op een basisenveloppe van 53 punten. Daarnaast wordt een bijkomende puntenenveloppe toegekend van 41 punten per bijkomende vestigingsplaats.
 
 ### ART. 25quater.
 
