@@ -1,0 +1,17 @@
+{
+  "codex_id": 1015252,
+  "title": "Besluit van de Vlaamse Regering van 2006-09-29 tot wijziging van het besluit van de Vlaamse Regering van 31 juli 1990 betreffende de bekwaamheidsbewijzen, de weddeschalen en de bezoldigingsregeling in het buitengewoon onderwijs",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1015252/VolledigDocument?datum=2006-09-01",
+  "source_sha256": "2a58ef0807956d00b443e200845106edfae3b141a096e1e165fa7a32a86a02a8",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1015252&param=informatie",
+  "as_of": "2006-09-01",
+  "made": "2006-09-29",
+  "gazette": "2006-12-07",
+  "numac": 2006036815,
+  "document_start": "2006-09-01",
+  "document_end": null,
+  "in_force": "2006-09-01",
+  "article_versions": 16,
+  "record_form": "consolidated version as in force on 2006-09-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
