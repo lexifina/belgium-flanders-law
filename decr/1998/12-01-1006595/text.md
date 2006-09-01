@@ -62,7 +62,7 @@ Het centrum gaat in op elk verzoek van een ouder of leerling, behorend tot een s
 
 ### ART. 14.
 
-§ 1. Het centrum is gesloten van 15 juli tot en met 15 augustus, op zaterdagen en zondagen en op de wettelijke en decretale feestdagen.<br /><br />[Het centrum bepaalt op welke wijze het na 17 uur kan worden geconsulteerd.  <span class="reference">(ing. decr. 14 februari 2003, art. VI. 1, I: 1 september 2002)</span> ]<br /><br />§ 2. [De centra zijn gesloten tijdens de kerstvakantie en de paasvakantie, uitgezonderd twee dagen tijdens de kerstvakantie. Deze twee dagen worden voor een periode van ten minste één schooljaar gezamenlijk vastgelegd door de Raad voor het Gemeenschapsonderwijs en de representatieve verenigingen van de besturen van de gesubsidieerde centra, na overleg of onderhandeling in het terzake bevoegde orgaan. Indien er geen akkoord bereikt wordt voor 1 mei voorafgaand aan het<br /><br />schooljaar, legt de regering zelf deze data vast.  <span class="reference">(verv. decr. 14 februari 2003, art. VI. 1, I: 1 september 2001)</span> ]
+§ 1. Het centrum is gesloten van 15 juli tot en met 15 augustus, op zaterdagen en zondagen en op de wettelijke en decretale feestdagen.<br /><br />Het centrum bepaalt op welke wijze het na 17 uur kan worden geconsulteerd. <br /><br />§ 2. De centra zijn gesloten tijdens de kerstvakantie en de paasvakantie, uitgezonderd de eerste maandag en de tweede vrijdag van de kerstvakantie. Indien deze openingsdagen respectievelijk gelijk vallen met 25 of 26 december of met 1 of 2 januari, dan worden ze verplaatst naar de datum binnen de kerstvakantie die hierbij het dichtste aansluit.<br />
 
 ### ART. 14bis.
 
@@ -130,7 +130,7 @@ Het centrum respecteert te allen tijde de rechten van het kind, zoals opgesomd i
 
 ### ART. 28.
 
-§ 1. Als een school vraagt aan het centrum om een leerling te begeleiden, beperkt het centrum zich, onverminderd de toepassing van artikel 27, tot een aanbod tot begeleiding. Het centrum zet in dit geval de begeleiding slechts voort als de leerling vanaf 14 jaar of de ouders van de leerling jonger dan 14 jaar hiermee instemmen.<br /><br />§ 2. Een instemming van de betrokken leerling of zijn ouders is niet vereist als de begeleiding betrekking heeft op leerplichtproblemen van een leerplichtige jongere in het kader van de wettelijke opdracht van de overheid inzake leerplichtcontrole. Als de betrokken leerling of zijn ouders niet ingaan op de initiatieven van het centrum, meldt het centrum dit aan de door de Vlaamse regering aangeduide instantie.
+§ 1. Als een school vraagt aan het centrum om een leerling te begeleiden, beperkt het centrum zich, onverminderd de toepassing van artikel 27, tot een aanbod tot begeleiding. Het centrum zet in dit geval de begeleiding alleen voort als de betrokken leerling hiermee instemt, op voorwaarde dat hij in staat is tot een redelijke beoordeling van zijn belangen, rekening houdend met zijn leeftijd en maturiteit. De minderjarige van twaalf jaar en ouder wordt vermoed in staat te zijn tot een redelijke beoordeling van zijn belangen.<br /><br />In het andere geval wordt de begeleiding alleen voortgezet mits de ouders van de betrokken leerling ermee instemmen. <br /><br />§ 2. In afwijking van artikel 4 en 8 van het decreet van 7 mei 2004 betreffende de rechtspositie van de minderjarige in de integrale jeugdhulp is de instemming van de betrokken leerling of zijn ouders niet vereist als de begeleiding betrekking heeft op leerplichtproblemen van een leerplichtige jongere in het kader van de wettelijke opdracht van de overheid inzake leerplichtcontrole. Als de betrokken leerling of zijn ouders niet ingaan op de initiatieven van het centrum, meldt het centrum dit aan de door de Vlaamse regering aangeduide instantie.
 
 ### ART. 29.
 
@@ -138,7 +138,7 @@ Het centrum respecteert te allen tijde de rechten van het kind, zoals opgesomd i
 
 ### ART. 30.
 
-§ 1. De ouders en de leerlingen verlenen, overeenkomstig artikel 9, § 2, eerste lid, 1°, hun medewerking aan de algemene en gerichte consulten en aan de profylactische maatregelen.<br /><br />§ 2. De ouders of de leerling vanaf 14 jaar kunnen zich verzetten tegen het uitvoeren van een algemeen of gericht consult door een bepaalde arts van het centrum. In dit geval wordt het consult uitgevoerd door ofwel een andere arts van hetzelfde centrum ofwel door een arts van een centrum naar keuze, ofwel door een arts die niet tot een centrum behoort, maar wel in het bezit is van het hiertoe door de regering bepaalde bekwaamheidsbewijs.<br /><br />§ 3. Indien het algemeen of het gericht consult niet wordt uitgevoerd door een arts van het centrum dat de school begeleidt, bezorgt de arts van het ander centrum of de arts die niet tot een centrum behoort, de bevindingen aan een arts van het centrum waarbij de school is aangesloten.<br /><br />§ 4. De regering bepaalt de wijze waarop het verzet, bedoeld in § 2, wordt aangetekend, welke gegevens door het gekozen centrum moeten worden bezorgd aan het centrum dat de leerling begeleidt en binnen welke termijn dit gebeurt. De kosten voor een consult dat niet wordt uitgevoerd door een arts van het centrum, zijn ten laste van de betrokkene.
+§ 1. De ouders en de leerlingen verlenen, overeenkomstig artikel 9, § 2, eerste lid, 1°, hun medewerking aan de algemene en gerichte consulten en aan de profylactische maatregelen.<br /><br />§ 2. De ouders of de leerling vanaf 12 jaar kunnen zich verzetten tegen het uitvoeren van een algemeen of gericht consult door een bepaalde arts van het centrum. In dit geval wordt het consult uitgevoerd door ofwel een andere arts van hetzelfde centrum ofwel door een arts van een centrum naar keuze, ofwel door een arts die niet tot een centrum behoort, maar wel in het bezit is van het hiertoe door de regering bepaalde bekwaamheidsbewijs.<br /><br />§ 3. Indien het algemeen of het gericht consult niet wordt uitgevoerd door een arts van het centrum dat de school begeleidt, bezorgt de arts van het ander centrum of de arts die niet tot een centrum behoort, de bevindingen aan een arts van het centrum waarbij de school is aangesloten.<br /><br />§ 4. De regering bepaalt de wijze waarop het verzet, bedoeld in § 2, wordt aangetekend, welke gegevens door het gekozen centrum moeten worden bezorgd aan het centrum dat de leerling begeleidt en binnen welke termijn dit gebeurt. De kosten voor een consult dat niet wordt uitgevoerd door een arts van het centrum, zijn ten laste van de betrokkene.
 
 ### ART. 31.
 
@@ -304,11 +304,11 @@ Een centrum waarvan het werkgebied niet gemeenschappelijk is met een ander centr
 
 ### ART. 63.
 
-In een gemeenschappelijk werkgebied kunnen twee centra van hetzelfde centrumnet worden opgericht als de twee centra samen scholen begeleiden die na toepassing van artikel 69 aanleiding geven tot een gewogen leerlingenaantal van ten minste 40 000.
+In een gemeenschappelijk werkgebied kunnen twee centra van hetzelfde centrumnet worden opgericht als de twee centra samen scholen begeleiden die na toepassing van artikel 69 aanleiding geven tot een gewogen leerlingenaantal van ten minste 40 000. Deze centra moeten echter nog steeds elk de afzonderlijke rationalisatienorm, zoals bedoeld in artikel 66, bereiken.
 
 ### ART. 64.
 
-In een gemeenschappelijk werkgebied kunnen drie, vier en vijf centra van hetzelfde centrumnet worden opgericht als deze centra samen scholen begeleiden die na toepassing van artikel 69 aanleiding geven tot een gewogen leerlingenaantal van respectievelijk ten minste 60 000, 80 000 en 100 000.
+In een gemeenschappelijk werkgebied kunnen drie, vier en vijf centra van hetzelfde centrumnet worden opgericht als deze centra samen scholen begeleiden die na toepassing van artikel 69 aanleiding geven tot een gewogen leerlingenaantal van respectievelijk ten minste 60 000, 80 000 en 100 000. Deze centra moeten echter nog steeds elk de afzonderlijke rationalisatienorm, zoals bedoeld in artikel 66, bereiken.
 
 ## AFDELING 3 RATIONALISATIE
 
@@ -342,7 +342,7 @@ Onverminderd de toepassing van artikel 59, § 3, is het gewogen leerlingenaantal
 
 ### ART. 70.
 
-§ 1. Het omkaderingsgewicht op basis van het gewogen leerlingenaantal van een centrum wordt als volgt bepaald:<br /><br />o = l/n<br /><br />en<br /><br />n = L/So<br /><br />waarbij:<br />1° o = omkaderingsgewicht op basis van het gewogen leerlingenaantal van het centrum;<br />2° l = gewogen leerlingenaantal;<br />3° n = gewogen leerlingenaantal per eenheid omkaderingsgewicht;<br />4° L = totaal gewogen leerlingenaantal van alle centra;<br />5° So = totaal aantal lineair te verdelen omkaderingsgewichten.<br /><br />§ 2. Het totaal aantal lineair te verdelen omkaderingsgewichten, So, wordt berekend als volgt:<br /><br />So = OG - S art71 - KL - PO - BSD<br /><br />waarbij: <br />- OG = 2.772 zijnde het totaal aantal omkaderingsgewichten te verdelen overeenkomstig de bepalingen van dit decreet;<br />- Sart71 = de 315 extra-omkaderingsgewichten bedoeld in artikel 71;<br />- KL = de omkaderingsgewichten die aan de centra van het gemeenschapsonderwijs uitdovend worden toegewezen voor het aanwenden van de boventallige klerken bedoeld in artikel 187;<br />- PO = de omkaderingsgewichten die worden aangewend voor de permanente en netgebonden ondersteuning van de centra, bedoeld in artikel 89;<br />- BSD = de 2 omkaderingsgewichten, bedoeld in artikel 188, bestemd voor de begeleiding van leerlingen in scholen gelegen in de BSD.
+§ 1. Het omkaderingsgewicht op basis van het gewogen leerlingenaantal van een centrum wordt als volgt bepaald:<br /><br />o = l/n<br /><br />en<br /><br />n = L/So<br /><br />waarbij:<br />1° o = omkaderingsgewicht op basis van het gewogen leerlingenaantal van het centrum;<br />2° l = gewogen leerlingenaantal;<br />3° n = gewogen leerlingenaantal per eenheid omkaderingsgewicht;<br />4° L = totaal gewogen leerlingenaantal van alle centra;<br />5° So = totaal aantal lineair te verdelen omkaderingsgewichten.<br /><br />§ 2. Het totale aantal lineair te verdelen omkaderingsgewichten, S o, wordt berekend als volgt : <br /><br />S o = OG - S art71 - KL - PO <br /><br />waarbij : <br />1° OG = 2.898,85 zijnde het totale aantal omkaderingsgewichten te verdelen in overeenstemming met de bepalingen van dit decreet; <br />2° S art71 = de 315 extra-omkaderingsgewichten, vermeld in artikel 71; <br />3° KL = de omkaderingsgewichten die aan de centra van het gemeenschapsonderwijs uitdovend worden toegewezen voor het aanwenden van de boventallige klerken, vermeld in artikel 187; <br />4° PO = de omkaderingsgewichten die worden aangewend voor de permanente en netgebonden ondersteuning van de centra, vermeld in artikel 89. <br />
 
 ## AFDELING 4 EXTRA OMKADERINGSGEWICHTEN
 
@@ -360,7 +360,7 @@ Op basis van het omkaderingsgewicht, stelt het bestuur, na onderhandeling in het
 
 ### ART. 73.
 
-§ 1. De personeelsformatie van een centrum bestaat uit een basisformatie als bedoeld in artikel 74 en in voorkomend geval uit een aanvullende formatie. Ze wordt uitsluitend samengesteld uit de volgende wervingsambten:<br /><br />1° arts;<br /><br />2° consulent;<br /><br />3° psycho-pedagogische consulent;<br /><br />4° administratief werker;<br /><br />5° maatschappelijk werker;<br /><br />6° paramedisch werker;<br /><br />7° psycho-pedagogisch werker;<br /><br />8° medewerker<br /><br />en uit het bevorderingsambt van directeur dat bij mandaat wordt toegewezen.<br /><br />§ 2. De wervingsambten bedoeld in § 1, 1°, 2°, 3°, 5°, 6° en 7°, en het bevorderingsambt van directeur behoren tot de personeelscategorie van het technisch personeel.<br /><br />De wervingsambten bedoeld in § 1, 4° en 8°, behoren tot de personeelscategorie van het administratief personeel.
+§ 1. De personeelsformatie van een centrum bestaat uit een basisformatie als bedoeld in artikel 74 en in voorkomend geval uit een aanvullende formatie. Ze wordt uitsluitend samengesteld uit de volgende wervingsambten:<br />1° arts;<br />2° consulent;<br />3° psycho-pedagogische consulent;<br />4° administratief werker;<br />5° maatschappelijk werker;<br />6° paramedisch werker;<br />7° psycho-pedagogisch werker;<br />8° medewerker<br />9° ervaringsdeskundige;<br />10° intercultureel bemiddelaar.<br />en uit het bevorderingsambt van directeur dat bij mandaat wordt toegewezen.<br /><br />§ 2. De wervingsambten bedoeld in § 1, 1°, 2°, 3°, 5°, 6°, 7° en 9° en 10°, en het bevorderingsambt van directeur behoren tot de personeelscategorie van het technisch personeel.<br /><br />De wervingsambten bedoeld in § 1, 4° en 8°, behoren tot de personeelscategorie van het administratief personeel.<br /><br />§ 3. Als een centrum het ambt van intercultureel bemiddelaar, bedoeld in artikel 73, § 1, 10°, inricht, heeft een personeelslid dat aan volgende voorwaarden voldoet, voorrang bij tijdelijke aanstelling en vaste benoeming : <br />- het personeelslid werd hetzij als interculturele medewerker hetzij als intercultureel bemiddelaar overeenkomstig artikel 182 geconcordeerd naar het ambt van medewerker; <br />- en het personeelslid is sinds 1 september 2000 tijdelijk aangesteld of vastbenoemd in het ambt van medewerker. <br /><br />Als een centrum een personeelslid dat aan voormelde voorwaarden voldoet, aanstelt in het ambt van intercultureel bemiddelaar worden de diensten die het personeelslid sinds 1 september 2000 presteerde als medewerker, beschouwd als diensten gepresteerd in het ambt van intercultureel bemiddelaar.<br /><br />§ 4. Een personeelslid dat op 1 september 2006 op basis van de voorrang bepaald in § 3 wordt aangesteld in een betrekking van intercultureel bemiddelaar en reeds in het ambt van medewerker vast benoemd is, wordt onmiddellijk beschouwd als vast benoemd in het ambt van intercultureel bemiddelaar. Het personeelslid behoudt hierbij alle rechten die hij heeft verworven in het ambt van medewerker.<br /><br />§ 5. Als een centrum een personeelslid aanstelt in het ambt van intercultureel bemiddelaar dat niet voldoet aan de voorwaarden van § 3, worden de diensten die het personeelslid eventueel vanaf 1 september 2000 presteerde als medewerker beschouwd als diensten gepresteerd in het ambt van intercultureel bemiddelaar.
 
 ### ART. 74.
 
@@ -376,13 +376,12 @@ Een personeelslid kan een coördinatiefunctie krijgen. Het omkaderingsgewicht vo
 
 ### ART. 77.
 
-Het omkaderingsgewicht per ambt is:<br>
-&nbsp;
+Het omkaderingsgewicht per ambt is:
 <table border="1" cellpadding="0" cellspacing="0" style="border-collapse:collapse">
 	<tbody>
 		<tr>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:329.4pt">
-			<p>1° arts<!--?xml:namespace         prefix = o ns = "urn:schemas-microsoft-com:office:office"   /--></p>
+			<p>1° arts</p>
 
 			<p>2° directeur</p>
 
@@ -443,7 +442,7 @@ Het personeel van de centra is met vakantie op de dagen dat het centrum gesloten
 
 ### ART. 81.
 
-Onverminderd artikel 80, heeft het personeel recht op [21 werkdagen  <span class="reference">(verv. decr. 14 februari 2003, art. VI. 13, I: 1 september 2002)</span> ] vakantie.<br /><br />Deze vakantiedagen moeten worden opgenomen tijdens de schoolvakanties, met uitzondering van zeven werkdagen die buiten de schoolvakanties, behalve in de maand juni, kunnen worden opgenomen.
+Onverminderd artikel 80, heeft het personeel recht op 21 werkdagen vakantie. Bij onvolledige prestaties en/ of bij aanstellingen kleiner dan een volledig schooljaar wordt dit aantal dagen vakantie in evenredige mate verminderd. <br /><br />Deze vakantiedagen moeten worden opgenomen tijdens de schoolvakanties, met uitzondering van 7 werkdagen die buiten de schoolvakanties, behalve in de maand juni, kunnen worden opgenomen.<br />
 
 ## [AFDELING 8 VORMING VAN HET PERSONEEL VAN DE CENTRA (ing. decr. 14 februari 2003, art. VI. 14)]
 
@@ -503,7 +502,7 @@ De gefinancierde centra, de gesubsidieerde officiële centra en de gesubsidieerd
 
 ### ART. 90.
 
-§ 1. Elk centrum kan, na onderhandeling in het lokaal comité, driejaarlijks maximum 0,5 omkade-ringsgewichten van het omkaderingsgewicht bedoeld in artikel 70, overdragen aan het permanent ondersteuningscentrum.<br /><br />[...  <span class="reference">(geschr. decr. 14 februari 2003, art. VI. 20, I: 1 september 2003)</span> ]<br /><br />Elk centrum mag eveneens het overeenstemmende werkingsbudget geheel of gedeeltelijk overdragen.<br /><br />§ 2. De toepassing van § 1 mag er niet toe leiden dat een centrum zijn basisformatie bedoeld in artikel 74 niet meer kan realiseren.
+§ 1. Elk centrum kan, na onderhandeling in het lokaal comité, driejaarlijks maximaal één omkaderingsgewicht van het omkaderingsgewicht, vermeld in artikel 70, overdragen aan het permanent ondersteuningscentrum. De totale overdracht aan elk permanent ondersteuningscentrum kan echter niet meer bedragen dan het dubbele van het omkaderingsgewicht, vermeld in artikel 89, tweede lid. <br /><br />Elk centrum mag eveneens het overeenstemmende werkingsbudget geheel of gedeeltelijk overdragen.<br /><br />§ 2. De toepassing van § 1 mag er niet toe leiden dat een centrum zijn basisformatie bedoeld in artikel 74 niet meer kan realiseren.
 
 ### ART. 91.
 
