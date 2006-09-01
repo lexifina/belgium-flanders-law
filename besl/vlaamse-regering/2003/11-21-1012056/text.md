@@ -19600,153 +19600,49 @@ Salarisschalen klasse 24 jaar<br>
 
 ### Tekst
 
-De salarisschalen van de leden van het administratief personeel van het door de Vlaamse Gemeenschap georganiseerde onderwijs en van het gesubsidieerd administratief personeel van de door de Vlaamse Gemeenschap gesubsidieerde onderwijsinstellingen worden vastgesteld als volgt:<br>
+DEEL I<br>
+De salarisschalen van de leden van het administratief personeel van het door de Vlaamse Gemeenschap georganiseerde onderwijs en van het gesubsidieerd administratief personeel van de door de Vlaamse Gemeenschap gesubsidieerde onderwijsinstellingen worden vastgesteld als volgt :<br>
 <br>
 
 <table border="1" cellpadding="0" cellspacing="0" style="border-collapse:collapse">
 	<tbody>
 		<tr>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:153.5pt">
-			<h1>Bode-kamerbewaarder</h1>
+			<p>Bode-kamerbewaarder<!--?xml:namespace         prefix = o ns = "urn:schemas-microsoft-com:office:office"         /--></p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:153.55pt">
-			<p><strong>Suppoost</strong></p>
+			<p>Suppoost</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:153.55pt">
-			<p><strong>Klerk</strong></p>
+			<p>Klerk</p>
 			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.5pt">
-			<p>12 948,33 – 14 812,39</p>
-
-			<p>(18 jaar)</p>
-
-			<p>3/1 x 173,14</p>
-
-			<p>11/2 x 122,24</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.55pt">
-			<p>12 948,33 – 14 812,39</p>
-
-			<p>(18 jaar)</p>
-
-			<p>3/1 x 173,14</p>
-
-			<p>11/2 x 122,24</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.55pt">
-			<p>13 501,68 – 17 477,28</p>
-
-			<p>(18 jaar)</p>
-
-			<p>3/1 x 149,65</p>
-
-			<p>1/2 x 308,81</p>
-
-			<p>1/1 x 113,41</p>
-
-			<p>1/1 x 380,81</p>
-
-			<p>1/2 x 471,52</p>
-
-			<p>1/2 x 471,59</p>
-
-			<p>1/6 x 362,11</p>
-
-			<p>1/2 x 448,76</p>
-
-			<p>2/2 x 448,82</p>
-
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
 			<p>&nbsp;</p>
 			</td>
 		</tr>
 		<tr>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.5pt">
-			<h1>Klerk-typist</h1>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.55pt">
-			<p><strong>Klerk-stenotypist</strong></p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.55pt">
-			<p><strong>Rekenplichtig correspondent</strong></p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.5pt">
-			<p>13 501 – 17 477,28</p>
+			<p>12.948,33 – 14.812,39</p>
 
 			<p>(18 jaar)</p>
 
-			<p>3/1 x 149,65</p>
+			<p>3/1 x 173,14</p>
 
-			<p>1/2 x 380,81</p>
-
-			<p>1/1 x 113,41</p>
-
-			<p>1/1 x 380,81</p>
-
-			<p>1/2 x 471,52</p>
-
-			<p>1/2 x 471,59</p>
-
-			<p>1/6 x 362,11</p>
-
-			<p>1/2 x 448,76</p>
-
-			<p>2/2 x 448,82&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+			<p>11/2 x 122,24</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.55pt">
-			<p>13 594,46 – 16 717,41</p>
+			<p>12.948,33 – 14.812,39</p>
 
 			<p>(18 jaar)</p>
 
-			<p>3/1 x 149,65</p>
+			<p>3/1 x 173,14</p>
 
-			<p>10/2 x 267,40</p>
+			<p>11/2 x 122,24</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.55pt">
-			<p>14 297,51 – 19 848,00</p>
+			<p>14.630,42 – 22.057,42</p>
 
-			<p>(20 jaar)</p>
-
-			<p>2/1 x 285,56</p>
-
-			<p>1/1 x 398,97</p>
-
-			<p>1/1 x 113,41</p>
-
-			<p>1/1 x 446,81</p>
-
-			<p>1/2 x 537,52</p>
-
-			<p>1/2 x 578,31</p>
-
-			<p>1/4 x 126,57</p>
-
-			<p>1/2 x 555,63</p>
-
-			<p>1/2 x 555,47</p>
-
-			<p>3/2 x 555,56</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.5pt">
-			<h1>Opsteller</h1>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.55pt">
-			<p><strong>Secretaris-rekenplichtige</strong></p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.55pt">
-			<p><strong>Suppoost-kopiist</strong></p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.5pt">
-			<p>14 630,42 – 20 180,83</p>
-
-			<p>(20 jaar)</p>
+			<p>(18 jaar)</p>
 
 			<p>1/1 x 286,00</p>
 
@@ -19769,9 +19665,157 @@ De salarisschalen van de leden van het administratief personeel van het door de 
 			<p>1/2 x 555,49</p>
 
 			<p>3/2 x 555,42</p>
+
+			<p>1/2 x 741,70</p>
+
+			<p>1/2 x 567,44</p>
+
+			<p>1/2 x 567,45&nbsp;&nbsp;&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>&nbsp;</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.5pt">
+			<p>Klerk-typist</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.55pt">
-			<p>15 106,36</p>
+			<p>Klerk-stenotypist</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.55pt">
+			<p>Rekenplichtig correspondent</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>&nbsp;</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.5pt">
+			<p>14.630,42 – 22.057,42</p>
+
+			<p>(18 jaar)</p>
+
+			<p>1/1 x 286 00</p>
+
+			<p>1/1 x 285,00</p>
+
+			<p>1/1 x 399,23</p>
+
+			<p>1/1 x 113,23</p>
+
+			<p>1/1 x 447,13</p>
+
+			<p>1/2 x 537,68</p>
+
+			<p>1/2 x 578,03</p>
+
+			<p>1/4 x 126,53</p>
+
+			<p>1/2 x 555,83</p>
+
+			<p>1/2 x 555,49</p>
+
+			<p>3/2 x 555,42</p>
+
+			<p>1/2 x 741,70</p>
+
+			<p>1/2 x 567,44</p>
+
+			<p>1/2 x 567,45</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.55pt">
+			<p>13.594,46 – 16.717,41</p>
+
+			<p>(18 jaar)</p>
+
+			<p>3/1 x 149,65</p>
+
+			<p>10/2 x 267,40</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.55pt">
+			<p>14.630,42 – 27.534,94</p>
+
+			<p>(20 jaar)</p>
+
+			<p>1/1 x 286,00</p>
+
+			<p>1/1 x 285,00</p>
+
+			<p>1/1 x 399,23</p>
+
+			<p>1/1 x 113,23</p>
+
+			<p>1/1 x 612,39</p>
+
+			<p>1/2 x 194,09</p>
+
+			<p>1/2 x 2.323,38</p>
+
+			<p>1/4 x 830,55</p>
+
+			<p>1/2 x 907,59</p>
+
+			<p>1/2 x 907,51</p>
+
+			<p>2/2 x 907,59</p>
+
+			<p>1/2 x 907,60</p>
+
+			<p>3/2 x 907,59</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>&nbsp;</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.5pt">
+			<p>Opsteller</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.55pt">
+			<p>Secretaris-rekenplichtige</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.55pt">
+			<p>Suppoost-kopiist</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>&nbsp;</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.5pt">
+			<p>14.630,42 – 27.534,94</p>
+
+			<p>(20 jaar)</p>
+
+			<p>1/1 x 286,00</p>
+
+			<p>1/1 x 285,00</p>
+
+			<p>1/1 x 399,23</p>
+
+			<p>1/1 x 113,23</p>
+
+			<p>1/1 x 612,39</p>
+
+			<p>1/2 x 794,09</p>
+
+			<p>1/2 x 2323,38</p>
+
+			<p>1/4 x 830,55</p>
+
+			<p>1/2 x 907,59</p>
+
+			<p>1/2 x 907,51</p>
+
+			<p>2/2 x 907,59</p>
+
+			<p>1/2 x 907,60</p>
+
+			<p>3/2 x 907,59</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.55pt">
+			<p>15.106,36 – 20.656,85</p>
 
 			<p>(20 jaar)</p>
 
@@ -19793,10 +19837,10 @@ De salarisschalen van de leden van het administratief personeel van het door de 
 
 			<p>1/2 x 555,47</p>
 
-			<p>3/2 x 555,56</p>
+			<p>3/ 2 x 555,56</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.55pt">
-			<p>13 211,51 – 15 621,31</p>
+			<p>13.211,51 – 15.621,31</p>
 
 			<p>(18 jaar)</p>
 
@@ -19806,21 +19850,27 @@ De salarisschalen van de leden van het administratief personeel van het door de 
 
 			<p>10/2 x 164,59</p>
 			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.5pt">
-			<h1>Hoofdsuppoost</h1>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.55pt">
-			<p><strong>Eerste klerk</strong></p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.55pt">
-			<p><strong>Eerste klerk-typist</strong></p>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>&nbsp;</p>
 			</td>
 		</tr>
 		<tr>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.5pt">
-			<p>13 211,51 – 15 621,31</p>
+			<p>Hoofdsuppoost</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.55pt">
+			<p>Eerste klerk</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.55pt">
+			<p>Eerste klerk-typist</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>&nbsp;</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.5pt">
+			<p>13.211,51 – 15.621,31</p>
 
 			<p>(18 jaar)</p>
 
@@ -19831,70 +19881,92 @@ De salarisschalen van de leden van het administratief personeel van het door de 
 			<p>10/2 x 164,59</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.55pt">
-			<p>13 859,24 – 20 052,20</p>
+			<p>14.630,42 – 22.057,42</p>
 
 			<p>(18 jaar)</p>
 
-			<p>3/1 x 149,65</p>
+			<p>1/1 x 286,00</p>
 
-			<p>1/2 x 447,78</p>
+			<p>1/1 x 285,00</p>
 
-			<p>1/1 x 113,41</p>
+			<p>1/1 x 399,23</p>
 
-			<p>1/1 x 447,78</p>
+			<p>1/1 x 113,23</p>
 
-			<p>1/2 x 538,49</p>
+			<p>1/1 x 447,13</p>
 
-			<p>1/2 x 538,54</p>
+			<p>1/2 x 537,68</p>
 
-			<p>1/4 x 47,12</p>
+			<p>1/2 x 578,03</p>
 
-			<p>1/2 x 515,88</p>
+			<p>1/4 x 126,53</p>
 
-			<p>1/2 x 515,71</p>
+			<p>1/2 x 555,83</p>
 
-			<p>5/2 x 515,86</p>
+			<p>1/2 x 555,49</p>
+
+			<p>3/2 x 555,42</p>
+
+			<p>1/2 x 741,70</p>
+
+			<p>1/2 x 567,44</p>
+
+			<p>1/2 x 567,45</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.55pt">
-			<p>13 859,24 – 20 052,20</p>
+			<p>14.630,42 – 22.057,42</p>
 
 			<p>(18 jaar)</p>
 
-			<p>3/1 x 149,65</p>
+			<p>1/1 x 286,00</p>
 
-			<p>1/2 x 447,78</p>
+			<p>1/1 x 285,00</p>
 
-			<p>1/1 x 113,41</p>
+			<p>1/1 x 399,23</p>
 
-			<p>1/1 x 447,78</p>
+			<p>1/1 x 113,23</p>
 
-			<p>1/2 x 538,49</p>
+			<p>1/1 x 447,13</p>
 
-			<p>1/2 x 538,54</p>
+			<p>1/2 x 537,68</p>
 
-			<p>1/4 x 47,12</p>
+			<p>1/2 x 578,03</p>
 
-			<p>1/2 x 515,88</p>
+			<p>1/4 x 126,53</p>
 
-			<p>1/2 x 515,71</p>
+			<p>1/2 x 555,83</p>
 
-			<p>5/2 x 515,86</p>
+			<p>1/2 x 555,49</p>
+
+			<p>3/2 x 555,42</p>
+
+			<p>1/2 x 741,70</p>
+
+			<p>1/2 x 567,44</p>
+
+			<p>1/2 x 567,45</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>&nbsp;</p>
 			</td>
 		</tr>
 		<tr>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.5pt">
-			<h1>Eerste klerk-stenotypist</h1>
+			<p>Eerste klerk-stenotypist</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.55pt">
-			<p><strong>Eerste rekenplichtig correspondent</strong></p>
+			<p>Eerste rekenplichtig correspondent</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.55pt">
-			<p><strong>Eerste opsteller</strong></p>
+			<p>Eerste opsteller</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>&nbsp;</p>
 			</td>
 		</tr>
 		<tr>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.5pt">
-			<p>13 856,83 – 18 652,59</p>
+			<p>13.856,83 – 18.652,59</p>
 
 			<p>(18 jaar)</p>
 
@@ -19903,78 +19975,89 @@ De salarisschalen van de leden van het administratief personeel van het door de 
 			<p>13/2 x 334,37</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.55pt">
-			<p>15 990,14 – 24 611,79</p>
+			<p>14.630,42 – 27.534,94</p>
 
 			<p>(20 jaar)</p>
 
-			<p>2/1 x 285,56</p>
+			<p>1/1 x 286,00</p>
 
-			<p>1/1 x 398,97</p>
+			<p>1/1 x 285,00</p>
 
-			<p>1/1 x 113,41</p>
+			<p>1/1 x 399,23</p>
 
-			<p>1/1 x 589,33</p>
+			<p>1/1 x 113,23</p>
 
-			<p>2/2 x 680,02</p>
+			<p>1/1 x 612,39</p>
 
-			<p>1/4 x 330,13</p>
+			<p>1/2 x 794,09</p>
 
-			<p>1/2 x 657,34</p>
+			<p>1/2 x 2.323,38</p>
 
-			<p>1/2 x 657,26</p>
+			<p>1/4 x 830,55</p>
 
-			<p>2/2 x 657,34</p>
+			<p>1/2 x 907,59</p>
 
-			<p>1/2 x 657,35</p>
+			<p>1/2 x 907,51</p>
 
-			<p>3/2 x 657,34</p>
+			<p>2/2 x 907,59</p>
 
-			<p>De in aanmerking komende diensten gepresteerd vóór de datum van benoeming tot eerste rekenplichtig correspondent worden volledig in aanmerking genomen</p>
+			<p>1/2 x 907,60</p>
+
+			<p>3/2 x 907,59</p>
+
+			<p>De in aanmerking komende diensten gepresteerd vóór de datum van benoeming tot eerste rekenplichtig correspondent worden volledig in aanmerking genomen.</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.55pt">
-			<p>16 323,13 – 24 944,78</p>
+			<p>14.630,42 – 27.534,94</p>
 
 			<p>(20 jaar)</p>
 
-			<p>2/1 x 285,56</p>
+			<p>1/1 x 286,00</p>
 
-			<p>1/1 x 398,97</p>
+			<p>1/1 x 285,00</p>
 
-			<p>1/1 x 113,41</p>
+			<p>1/1 x 399,23</p>
 
-			<p>1/1 x 589,33</p>
+			<p>1/1 x 113,23</p>
 
-			<p>2/2 x 680,02</p>
+			<p>1/1 x 612,39</p>
 
-			<p>1/4 x 330,13</p>
+			<p>1/2 x 794,09</p>
 
-			<p>1/2 x 657,34</p>
+			<p>1/2 x 2.323,38</p>
 
-			<p>1/2 x 657,26</p>
+			<p>1/4 x 830,55</p>
 
-			<p>2/2 x 657,34</p>
+			<p>1/2 x 907,59</p>
 
-			<p>1/2 x 657,35</p>
+			<p>1/2 x 907,51</p>
 
-			<p>3/2 x 657,34</p>
+			<p>2/2 x 907,59</p>
 
-			<p>De in aanmerking komende diensten gepresteerd vóór de datum van benoeming tot eerste opsteller worden volledig in aanmerking genomen</p>
+			<p>1/2 x 907,60</p>
+
+			<p>3/2 x 907,59</p>
+
+			<p>De in aanmerking komende diensten gepresteerd vóór de datum van benoeming tot eerste opsteller worden volledig in aanmerking genomen.</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>&nbsp;</p>
 			</td>
 		</tr>
 		<tr>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.5pt">
-			<h1>Eerste secretaris-rekenplichtige</h1>
+			<p>Eerste secretaris-rekenplichtige</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.55pt">
-			<p><strong>Eerste hoofdsuppoost</strong></p>
+			<p>Eerste hoofdsuppoost</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.55pt">
-			<p><strong>Eerste hoofdklerk</strong></p>
+			<td colspan="2" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:155.45pt">
+			<p>Eerste hoofdklerk</p>
 			</td>
 		</tr>
 		<tr>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.5pt">
-			<p>16 798,98 – 25 420,63</p>
+			<p>16.798,98 – 25.420,63</p>
 
 			<p>(20 jaar)</p>
 
@@ -20002,10 +20085,10 @@ De salarisschalen van de leden van het administratief personeel van het door de 
 
 			<p>3/2 x 657,34</p>
 
-			<p>De in aanmerking komende diensten gepresteerd vóór de datum van benoeming tot eerste secretaris-rekenplichtige worden volledig in aanmerking genomen</p>
+			<p>De in aanmerking komende diensten gepresteerd vóór de datum van benoeming tot eerste secretaris-rekenplichtige worden volledig in aanmerking genomen.</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.55pt">
-			<p>13 925,30 – 16 335,10</p>
+			<p>13.925,30 – 16.335,10</p>
 
 			<p>(18 jaar)</p>
 
@@ -20015,8 +20098,8 @@ De salarisschalen van de leden van het administratief personeel van het door de 
 
 			<p>10/2 x 164,59</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.55pt">
-			<p>15 765,63 – 21 427,88</p>
+			<td colspan="2" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:155.45pt">
+			<p>15.765,63 – 21.427,88</p>
 
 			<p>(18 jaar)</p>
 
@@ -20027,18 +20110,18 @@ De salarisschalen van de leden van het administratief personeel van het door de 
 		</tr>
 		<tr>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.5pt">
-			<p><strong>Assistent-bibliothecaris</strong></p>
+			<p>Assistent-bibliothecaris</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.55pt">
-			<p><strong>Beheerder-secretaris</strong></p>
+			<p>Beheerder secretaris</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.55pt">
-			<p><strong>&nbsp;</strong></p>
+			<td colspan="2" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:155.45pt">
+			<p>&nbsp;</p>
 			</td>
 		</tr>
 		<tr>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.5pt">
-			<p>16 495,19 – 25 599,33</p>
+			<p>16.495,19 – 25.599,33</p>
 
 			<p>(20 jaar)</p>
 
@@ -20046,10 +20129,10 @@ De salarisschalen van de leden van het administratief personeel van het door de 
 
 			<p>13/2 x 634,42</p>
 
-			<p>De in aanmerking komende diensten gepresteerd vóór de datum van benoeming tot assistent-bibliothecaris worden volledig in aanmerking genomen</p>
+			<p>De in aanmerking komende diensten gepresteerd vóór de datum van benoeming tot assistent-bibliothecaris worden volledig in aanmerking genomen.</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.55pt">
-			<p>19 746,73 – 29 485,29</p>
+			<p>19.746,73 – 29.485,29</p>
 
 			<p>(20 jaar)</p>
 
@@ -20057,11 +20140,9 @@ De salarisschalen van de leden van het administratief personeel van het door de 
 
 			<p>14/2 x 634,42</p>
 
-			<p>De in aanmerking komende diensten gepresteerd vóór de datum van benoeming tot beheerder-secretaris worden volledig in aanmerking genomen</p>
-
-			<p>&nbsp;</p>
+			<p>De in aanmerking komende diensten gepresteerd vóór de datum van benoeming tot beheerder-secretaris worden volledig in aanmerking genomen.</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.55pt">
+			<td colspan="2" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:155.45pt">
 			<p>&nbsp;</p>
 			</td>
 		</tr>
@@ -20074,185 +20155,22 @@ De salarisschalen van de leden van het administratief personeel van het door de 
 
 ### Tekst
 
-<p>De salarisschalen van de leden van het meesters-, vak- en dienstpersoneel van het door de Vlaamse Gemeenschap georganiseerde onderwijs worden vastgesteld als volgt:</p>
-
-<table border="1" cellpadding="0" cellspacing="0" style="border-collapse:collapse">
-	<tbody>
-		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:230.3pt">
-			<h1>Geschoold hulponderhoudswerkman</h1>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:230.3pt">
-			<p><strong>Hulpkok</strong></p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
-			<p>12 553,38 – 14 356,48</p>
-
-			<p>(18 jaar)</p>
-
-			<p>3/1 x 167,56</p>
-
-			<p>11/2 x 118,22</p>
-
-			<p>Wordt nochtans vastgesteld in de schaal:</p>
-
-			<p>12 807,96 – 15 139,38</p>
-
-			<p>(18 jaar)</p>
-
-			<p>3/1 x 167,56</p>
-
-			<p>2/2 x 118,22</p>
-
-			<p>10/2 x 159,23</p>
-
-			<p>de wedde van de geschoolde hulponderhoudswerkman voorzover hij negen jaar in aanmerking komende diensten heeft</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
-			<p>13 151,30 – 14 964,28</p>
-
-			<p>(18 jaar)</p>
-
-			<p>3/1 x 168,36</p>
-
-			<p>11/2 x 118,90</p>
-
-			<p>Wordt nochtans vastgesteld in de schaal:</p>
-
-			<p>13 407,18 – 15 750,76</p>
-
-			<p>(18 jaar)</p>
-
-			<p>3/12 x 168,36</p>
-
-			<p>2/2 x 118,90</p>
-
-			<p>10/2 x 160,07</p>
-
-			<p>de wedde van de hulpkok voorzover hij negen jaar in aanmerking komende diensten heeft</p>
-			</td>
-		</tr>
-	</tbody>
-</table>
-
-<p>&nbsp;</p>
-
-<p>Onderhoudswerkman<br>
+De salarisschalen van de leden van het meesters-, vak- en dienstpersoneel van het door de Vlaamse Gemeenschap georganiseerde onderwijs worden vastgesteld als volgt :<br>
 <br>
-1° belast met de stookdienst of met het besturen van een voertuig<br>
-&nbsp;</p>
 
 <table border="1" cellpadding="0" cellspacing="0" style="border-collapse:collapse">
 	<tbody>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:230.3pt">
-			<p><strong>13 151,30 – 14 964,28</strong></p>
-
-			<p>(18 jaar)</p>
-
-			<p>3/1 x 168,36</p>
-
-			<p>11/2 x 118,90</p>
-
-			<p>wordt nochtans vastgesteld in de schaal:</p>
-
-			<p>13 407,18 – 15 750,76</p>
-
-			<p>(18 jaar)</p>
-
-			<p>3/1 x 168,36</p>
-
-			<p>2/2 x 118,90</p>
-
-			<p>10/2 x 160,07</p>
-
-			<p>de wedde van de sub 1° vermelde onderhoudswerkman voor zover hij negen jaar in aanmerking komende diensten heeft</p>
+			<td colspan="2" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:230.3pt">
+			<p>Geschoold hulponderhoudswerkman</p>
 			</td>
-		</tr>
-	</tbody>
-</table>
-
-<p>&nbsp;</p>
-
-<p>&nbsp;</p>
-
-<p>2° niet belast met de stookdienst of met het besturen van een voertuig<br>
-&nbsp;</p>
-
-<table border="1" cellpadding="0" cellspacing="0" style="border-collapse:collapse">
-	<tbody>
-		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:230.3pt">
-			<p><strong>12 553,38 – 14 356,48</strong></p>
-
-			<p>(18 jaar)</p>
-
-			<p>3/1 x 167,56</p>
-
-			<p>11/2 x 118,22</p>
-
-			<p>wordt nochtans vastgesteld in de schaal:</p>
-
-			<p>12 807,96 – 15 139,38</p>
-
-			<p>(18 jaar)</p>
-
-			<p>3/1 x 167,56</p>
-
-			<p>2/2 x 118,22</p>
-
-			<p>10/2 x 159,23</p>
-
-			<p>de wedde van de sub 2° vermelde onderhoudswerkman voor zover hij negen jaar in aanmerking komende diensten heeft</p>
-			</td>
-		</tr>
-	</tbody>
-</table>
-
-<p>&nbsp;</p>
-
-<p>&nbsp;</p>
-
-<table border="1" cellpadding="0" cellspacing="0" style="border-collapse:collapse">
-	<tbody>
-		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:153.5pt">
-			<h1>Geschoold onderhoudswerkman</h1>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:153.55pt">
-			<p><strong>Geschoold werkman</strong></p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:153.55pt">
-			<p><strong>Nachtwaker</strong></p>
+			<td colspan="2" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:230.3pt">
+			<p>Hulpkok</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.5pt">
-			<p>13 484,24 – 15 827,82</p>
-
-			<p>(18 jaar)</p>
-
-			<p>3/1 x 168,36</p>
-
-			<p>2/2 x 118,90</p>
-
-			<p>10/2 x 160,07</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.55pt">
-			<p>14 153,14 – 16 336,65</p>
-
-			<p>(18 jaar)</p>
-
-			<p>3/1 x 168,36</p>
-
-			<p>2/2 x 118,90</p>
-
-			<p>9/2 x 160,07</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.55pt">
-			<p>12 553,38 – 14 356,48</p>
+			<td colspan="2" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>12.553,38 – 14.356,48</p>
 
 			<p>(18 jaar)</p>
 
@@ -20262,7 +20180,7 @@ De salarisschalen van de leden van het administratief personeel van het door de 
 
 			<p>Wordt nochtans vastgesteld in de schaal:</p>
 
-			<p>12 807,96 – 15 139,38</p>
+			<p>12.807,96 – 15.139,38</p>
 
 			<p>(18 jaar)</p>
 
@@ -20272,23 +20190,114 @@ De salarisschalen van de leden van het administratief personeel van het door de 
 
 			<p>10/2 x 159,23</p>
 
-			<p>de wedde van de nachtwaker voorzover hij negen jaar in aanmerking komende diensten heeft</p>
+			<p>De wedde van geschoolde hulponderhoudswerkman voor zover hij negen jaar in aanmerking komende diensten heeft.</p>
+			</td>
+			<td colspan="2" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>13.151,30 – 14.964,28</p>
+
+			<p>(18 jaar)</p>
+
+			<p>3/1 x 168,36</p>
+
+			<p>11/2 x 118,90</p>
+
+			<p>Wordt nochtans vastgesteld in de schaal:</p>
+
+			<p>13.407,18 – 15.750,76</p>
+
+			<p>(18 jaar)</p>
+
+			<p>3/1 x 168,36</p>
+
+			<p>2/2 x 118,90</p>
+
+			<p>10/2 x 160,07</p>
+
+			<p>De wedde van de hulpkok voor zover hij negen jaar in aanmerking komende diensten heeft.</p>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="2" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Onderhoudswerkman</p>
+			</td>
+			<td colspan="2" style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>&nbsp;</p>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="2" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>1° belast met de stookdienst of met het besturen van een voertuig</p>
+
+			<p>13.151,30 – 14.964,28</p>
+
+			<p>(18 jaar)</p>
+
+			<p>3/1 x 168,36</p>
+
+			<p>11/2 x 118,90</p>
+
+			<p>Wordt nochtans vastgesteld in de schaal:</p>
+
+			<p>13.407,18 – 15.750,76</p>
+
+			<p>(18 jaar)</p>
+
+			<p>3/1 x 168,36</p>
+
+			<p>2/2 x 118,90</p>
+
+			<p>10/2 x 160,07</p>
+
+			<p>De wedde van de sub 1° vermelde onderhoudswerkman voor zover hij negen jaar in aanmerking komende diensten heeft.</p>
+			</td>
+			<td colspan="2" style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>&nbsp;</p>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="2" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>2° niet belast met de stookdienst of met het besturen van een voertuig</p>
+
+			<p>12.553,38 – 14.356,48</p>
+
+			<p>(18 jaar)</p>
+
+			<p>3/1 x 167,56</p>
+
+			<p>11/2 x 118/,22</p>
+
+			<p>Wordt nochtans vastgesteld in de schaal:</p>
+
+			<p>12.807,96 – 15.139,38</p>
+
+			<p>(18 jaar)</p>
+
+			<p>3/1 x 167,56</p>
+
+			<p>2/2 x 118,22</p>
+
+			<p>10/2 x 159,23</p>
+
+			<p>De wedde van de sub 2° vermelde onderhoudswerkman voor zover hij negen jaar in aanmerking komende diensten heeft.</p>
+			</td>
+			<td colspan="2" style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>&nbsp;</p>
 			</td>
 		</tr>
 		<tr>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.5pt">
-			<h1>Kok</h1>
+			<p>Geschoold onderhoudswerkman</p>
+			</td>
+			<td colspan="2" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.55pt">
+			<p>Geschoold werkman</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.55pt">
-			<p><strong>Amanuensis</strong></p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.55pt">
-			<p><strong>Vormer</strong></p>
+			<p>Nachtwaker</p>
 			</td>
 		</tr>
 		<tr>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.5pt">
-			<p>13 484,24 – 15 827,82</p>
+			<p>13.484,24 – 15.827,82</p>
 
 			<p>(18 jaar)</p>
 
@@ -20298,8 +20307,8 @@ De salarisschalen van de leden van het administratief personeel van het door de 
 
 			<p>10/2 x 160,07</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.55pt">
-			<p>14 153,14 – 16 336,65</p>
+			<td colspan="2" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.55pt">
+			<p>14.153,14 – 16.336,65</p>
 
 			<p>(18 jaar)</p>
 
@@ -20310,7 +20319,55 @@ De salarisschalen van de leden van het administratief personeel van het door de 
 			<p>9/2 x 160,07</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.55pt">
-			<p>13 857,37 – 16 029,56</p>
+			<p>12.553,38 – 14.356,48</p>
+
+			<p>(18 jaar)</p>
+
+			<p>3/1 x 167,56</p>
+
+			<p>11/2 x 118,22</p>
+
+			<p>10/2 x 159,23</p>
+
+			<p>De wedde van de nachtwaker voor zover hij negen jaar in aanmerking komende diensten heeft.</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.5pt">
+			<p>Kok</p>
+			</td>
+			<td colspan="2" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.55pt">
+			<p>Amanuensis</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.55pt">
+			<p>Vormer</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.5pt">
+			<p>13.484,24 – 15.827,82</p>
+
+			<p>(18 jaar)</p>
+
+			<p>3/1 x 168,36</p>
+
+			<p>2/2 x 118,90</p>
+
+			<p>10/2 x 160,07</p>
+			</td>
+			<td colspan="2" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.55pt">
+			<p>14.153,14 – 16.336,65</p>
+
+			<p>(18 jaar)</p>
+
+			<p>3/1 x 168,36</p>
+
+			<p>2/2 x 118,90</p>
+
+			<p>9/2 x 160,07</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.55pt">
+			<p>13.857,37 – 16.029,56</p>
 
 			<p>(18 jaar)</p>
 
@@ -20323,18 +20380,27 @@ De salarisschalen van de leden van het administratief personeel van het door de 
 		</tr>
 		<tr>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.5pt">
-			<h1>Kunstboekbinder</h1>
+			<p>Kunstboekbinder</p>
+			</td>
+			<td colspan="2" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.55pt">
+			<p>Handzetter</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.55pt">
-			<p><strong>Handzetter</strong></p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.55pt">
-			<p><strong>Operateur-technicus</strong></p>
+			<p>Operateur-technicus</p>
 			</td>
 		</tr>
 		<tr>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.5pt">
-			<p>13 677,93 – 17 919,48</p>
+			<p>13.677,93 – 17.919,48</p>
+
+			<p>(18 jaar)</p>
+
+			<p>3/1 x 144,79</p>
+
+			<p>13/2 x 292,86</p>
+			</td>
+			<td colspan="2" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.55pt">
+			<p>13.677,93 – 17.919,48</p>
 
 			<p>(18 jaar)</p>
 
@@ -20343,16 +20409,7 @@ De salarisschalen van de leden van het administratief personeel van het door de 
 			<p>13/2 x 292,86</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.55pt">
-			<p>13 677,93 – 17 919,48</p>
-
-			<p>(18 jaar)</p>
-
-			<p>3/1 x 144,79</p>
-
-			<p>13/2 x 292,86</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.55pt">
-			<p>14 048,15 – 18 710,18</p>
+			<p>14.048,15 – 18.710,18</p>
 
 			<p>(18 jaar)</p>
 
@@ -20363,18 +20420,18 @@ De salarisschalen van de leden van het administratief personeel van het door de 
 		</tr>
 		<tr>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.5pt">
-			<p><strong>Hersteller van muziekinstrumenten</strong></p>
+			<p>Hersteller van muziekinstrumenten</p>
+			</td>
+			<td colspan="2" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.55pt">
+			<p>Eerste geschoolde onderhoudswerkman</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.55pt">
-			<p><strong>Eerste geschoolde onderhoudswerkman</strong></p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.55pt">
-			<p><strong>Eerste geschoolde werkman</strong></p>
+			<p>Eerste geschoolde werkman</p>
 			</td>
 		</tr>
 		<tr>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.5pt">
-			<p>15 432,75 – 20 910,84</p>
+			<p>15.432,75 – 20.910,84</p>
 
 			<p>(18 jaar)</p>
 
@@ -20382,8 +20439,8 @@ De salarisschalen van de leden van het administratief personeel van het door de 
 
 			<p>13/2 x 368,28</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.55pt">
-			<p>13 946,59 – 17 122,51</p>
+			<td colspan="2" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.55pt">
+			<p>13.946,59 – 17.122,51</p>
 
 			<p>(18 jaar)</p>
 
@@ -20392,7 +20449,7 @@ De salarisschalen van de leden van het administratief personeel van het door de 
 			<p>12/2 x 222,57</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.55pt">
-			<p>14 449,34 – 17 815,94</p>
+			<p>14.449,34 – 17.815,94</p>
 
 			<p>(18 jaar)</p>
 
@@ -20403,18 +20460,18 @@ De salarisschalen van de leden van het administratief personeel van het door de 
 		</tr>
 		<tr>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.5pt">
-			<h1>Eerste kok</h1>
+			<p>Eerste kok</p>
+			</td>
+			<td colspan="2" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.55pt">
+			<p>Eerste amanuensis</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.55pt">
-			<p><strong>Eerste amanuensis</strong></p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.55pt">
-			<p><strong>Eerste vormer</strong></p>
+			<p>Eerste vormer</p>
 			</td>
 		</tr>
 		<tr>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.5pt">
-			<p>13 946,59 – 17 122,51</p>
+			<p>13.946,59 – 17.122,51</p>
 
 			<p>(18 jaar)</p>
 
@@ -20422,8 +20479,8 @@ De salarisschalen van de leden van het administratief personeel van het door de 
 
 			<p>12/2 x 222,57</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.55pt">
-			<p>14 281,23 – 18 943,26</p>
+			<td colspan="2" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.55pt">
+			<p>14.281,23 – 18.943,26</p>
 
 			<p>(18 jaar)</p>
 
@@ -20432,7 +20489,7 @@ De salarisschalen van de leden van het administratief personeel van het door de 
 			<p>13/2 x 325,05</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.55pt">
-			<p>13 984,84 – 18 824,39</p>
+			<p>13.984,84 – 18.824,39</p>
 
 			<p>(18 jaar)</p>
 
@@ -20443,18 +20500,27 @@ De salarisschalen van de leden van het administratief personeel van het door de 
 		</tr>
 		<tr>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.5pt">
-			<h1>Eerste kunstboekbinder</h1>
+			<p>Eerste kunstboekbinder</p>
+			</td>
+			<td colspan="2" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.55pt">
+			<p>Eerste handzetter</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.55pt">
-			<p><strong>Eerste handzetter</strong></p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.55pt">
-			<p><strong>Eerste operateur-technicus</strong></p>
+			<p>Eerste operateur-technicus</p>
 			</td>
 		</tr>
 		<tr>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.5pt">
-			<p>15 425,03 – 19 799,00</p>
+			<p>15.425,03 – 19.799,00</p>
+
+			<p>(18 jaar)</p>
+
+			<p>3/1 x 230,15</p>
+
+			<p>12/2 x 306,96</p>
+			</td>
+			<td colspan="2" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.55pt">
+			<p>15.425,03 – 19.799,00</p>
 
 			<p>(18 jaar)</p>
 
@@ -20463,16 +20529,7 @@ De salarisschalen van de leden van het administratief personeel van het door de 
 			<p>12/2 x 306,96</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.55pt">
-			<p>15 425,03 – 19 799,00</p>
-
-			<p>(18 jaar)</p>
-
-			<p>3/1 x 230,15</p>
-
-			<p>12/2 x 306,96</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.55pt">
-			<p>15 314,38 – 21 160,75</p>
+			<p>15.314,38 – 21.160,75</p>
 
 			<p>(18 jaar)</p>
 
@@ -20483,18 +20540,18 @@ De salarisschalen van de leden van het administratief personeel van het door de 
 		</tr>
 		<tr>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.5pt">
-			<p><strong>Eerste hersteller van muziekinstrumenten</strong></p>
+			<p>Eerste hersteller van muziekinstrumenten</p>
+			</td>
+			<td colspan="2" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.55pt">
+			<p>Magazijnbediende</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.55pt">
-			<p><strong>Magazijnbediende</strong></p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.55pt">
-			<p><strong>Eerste amanuensis-ploegbaas</strong></p>
+			<p>Eerste amanuensis-ploegbaas</p>
 			</td>
 		</tr>
 		<tr>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.5pt">
-			<p>16 583,79 – 22 061,88</p>
+			<p>16.583,79 – 22.061,88</p>
 
 			<p>(18 jaar)</p>
 
@@ -20502,8 +20559,8 @@ De salarisschalen van de leden van het administratief personeel van het door de 
 
 			<p>13/2 x 368,28</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.55pt">
-			<p>15 729,22 – 19 127,83</p>
+			<td colspan="2" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.55pt">
+			<p>15.729,22 – 19.127,83</p>
 
 			<p>(18 jaar)</p>
 
@@ -20512,7 +20569,7 @@ De salarisschalen van de leden van het administratief personeel van het door de 
 			<p>12/2 x 253,86</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.55pt">
-			<p>15 770,35 – 21 616,72</p>
+			<p>15.770,35 – 21.616,72</p>
 
 			<p>(18 jaar)</p>
 
@@ -20520,23 +20577,32 @@ De salarisschalen van de leden van het administratief personeel van het door de 
 
 			<p>14/2 x 368,28</p>
 
-			<p>De in aanmerking komende diensten gepresteerd vóór de datum van benoeming tot eerste amanuensis-ploegbaas worden volledig in aanmerking genomen</p>
+			<p>De in aanmerking komende diensten gepresteerd vóór de datum van benoeming tot eerste amanuensis-ploegbaas worden volledig in aanmerking genomen.</p>
 			</td>
 		</tr>
 		<tr>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.5pt">
-			<p><strong>Eerste geschoolde onderhoudswerkman-ploegbaas</strong></p>
+			<p>Eerste geschoolde onderhoudswerkman-ploegbaas</p>
+			</td>
+			<td colspan="2" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.55pt">
+			<p>Eerste geschoolde werkman-ploegbaas</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.55pt">
-			<p><strong>Eerste geschoolde werkman-ploegbaas</strong></p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.55pt">
-			<p><strong>Eerste kok-ploegbaas</strong></p>
+			<p>Eerst kok-ploegbaas</p>
 			</td>
 		</tr>
 		<tr>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.5pt">
-			<p>14 581,87 – 17 964,85</p>
+			<p>14.581,87 – 17.964,85</p>
+
+			<p>(18 jaar)</p>
+
+			<p>3/1 x 116,86</p>
+
+			<p>12/2 x 252,70</p>
+			</td>
+			<td colspan="2" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.55pt">
+			<p>15.660,50 – 19.043,48</p>
 
 			<p>(18 jaar)</p>
 
@@ -20545,7 +20611,7 @@ De salarisschalen van de leden van het administratief personeel van het door de 
 			<p>12/2 x 252,70</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.55pt">
-			<p>15 660,50 – 19 043,48</p>
+			<p>14.581,87 – 17.964,85</p>
 
 			<p>(18 jaar)</p>
 
@@ -20553,20 +20619,15 @@ De salarisschalen van de leden van het administratief personeel van het door de 
 
 			<p>12/2 x 252,70</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.55pt">
-			<p>14 581,87 – 17 964,85</p>
-
-			<p>(18 jaar)</p>
-
-			<p>3/1 x 116,86</p>
-
-			<p>12/2 x 252,70</p>
-			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">&nbsp;</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">&nbsp;</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">&nbsp;</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">&nbsp;</td>
 		</tr>
 	</tbody>
 </table>
-
-<p>&nbsp;</p>
 
 <p>&nbsp;</p>
 
@@ -20579,25 +20640,42 @@ De salarisschalen van de leden van het administratief personeel van het door de 
 DEEL III<br>
 <br>
 De salarisschalen van de personeelsleden niet bedoeld onder de delen I en II worden vastgesteld als volgt:<br>
-&nbsp;
-<p>Salarisschalen klasse 18 jaar<!--?xml:namespace prefix = o ns =   "urn:schemas-microsoft-com:office:office" /--></p>
+<br>
 
-<table border="0" cellpadding="0" cellspacing="0" style="border-collapse:collapse">
+<p>Salarisschalen klasse 18 jaar</p>
+
+<p>&nbsp;</p>
+
+<table border="1" cellpadding="0" cellspacing="0" style="border-collapse:collapse">
 	<tbody>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:#f0f0f0; border-top:windowtext 1pt solid; vertical-align:top; width:160.6pt">
-			<p><strong>200</strong></p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:#f0f0f0; border-top:windowtext 1pt solid; vertical-align:top; width:160.6pt">
-			<p><strong>201</strong></p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:160.65pt">
-			<p><strong>229</strong></p>
+			<td colspan="3" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:460.6pt">
+			<p>084</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:#f0f0f0; border-top:windowtext 1pt solid; vertical-align:top; width:160.6pt">
-			<p>13 501,68 - 17 477,28</p>
+			<td colspan="3" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:460.6pt">
+			<p>12.553,38 – 14.356,48</p>
+
+			<p>3/1 x 167,56</p>
+
+			<p>11/2 x 118,22</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.5pt">
+			<p>200</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.55pt">
+			<p>201</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.55pt">
+			<p>229</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.5pt">
+			<p>13.501,68 – 17.477,28</p>
 
 			<p>3/1 x 149,65</p>
 
@@ -20616,9 +20694,11 @@ De salarisschalen van de personeelsleden niet bedoeld onder de delen I en II wor
 			<p>1/2 x 448,76</p>
 
 			<p>2/2 x 448,82</p>
+
+			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:#f0f0f0; border-top:windowtext 1pt solid; vertical-align:top; width:160.6pt">
-			<p>13 859,24 - 20 052,20</p>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.55pt">
+			<p>13.859,24 – 20.052,20</p>
 
 			<p>3/1 x 149,65</p>
 
@@ -20640,12 +20720,14 @@ De salarisschalen van de personeelsleden niet bedoeld onder de delen I en II wor
 
 			<p>5/2 x 515,86</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:160.65pt">
-			<p>13 356,50 - 16 479,45</p>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.55pt">
+			<p>13.356,50 – 16.479,45</p>
 
 			<p>3/1 x 149,65</p>
 
 			<p>10/2 x 267,40</p>
+
+			<p>&nbsp;</p>
 			</td>
 		</tr>
 	</tbody>
@@ -20653,7 +20735,11 @@ De salarisschalen van de personeelsleden niet bedoeld onder de delen I en II wor
 
 <p>&nbsp;</p>
 
-<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Salarisschalen<strong> </strong>klasse 20 jaar</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+
+<p>Salarisschalen<strong> </strong>klasse 20 jaar</p>
+
+<p>&nbsp;</p>
 
 <table border="0" cellpadding="0" cellspacing="0" style="border-collapse:collapse">
 	<tbody>
@@ -20876,44 +20962,426 @@ De salarisschalen van de personeelsleden niet bedoeld onder de delen I en II wor
 
 <p>&nbsp;</p>
 
+### Tekst
+
+DEEL III<br>
+<br>
+De salarisschalen van de personeelsleden niet bedoeld onder de delen I en II worden vastgesteld als volgt:<br>
+<br>
+
+<table border="1" cellpadding="0" cellspacing="0" style="border-collapse:collapse">
+	<tbody>
+		<tr>
+			<td colspan="3" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:460.6pt">
+			<p>Salarisschalen klasse 18 jaar<!--?xml:namespace prefix = o ns =         "urn:schemas-microsoft-com:office:office" /--></p>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="3" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:460.6pt">
+			<p>084</p>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="3" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:460.6pt">
+			<p>12.553,38 – 14.356,48</p>
+
+			<p>3/1 x 167,56</p>
+
+			<p>11/2 x 118,22</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.5pt">
+			<p>200</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.55pt">
+			<p>201</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.55pt">
+			<p>229</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.5pt">
+			<p>14.630,42 – 22.057,42</p>
+
+			<p>1/1 x 286,00</p>
+
+			<p>1/1 x 285,00</p>
+
+			<p>1/1 x 399,23</p>
+
+			<p>1/1 x 113,23</p>
+
+			<p>1/1 x 447,13</p>
+
+			<p>1/2 x 537,68</p>
+
+			<p>1/2 x 578,03</p>
+
+			<p>1/4 x 126,53</p>
+
+			<p>1/2 x 555,83</p>
+
+			<p>1/2 x 555,49</p>
+
+			<p>3/2 x 555,42</p>
+
+			<p>1/2 x 741,70</p>
+
+			<p>1/2 x 567,44</p>
+
+			<p>1/2 x 567,45</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.55pt">
+			<p>14.630,42 – 22.057,42</p>
+
+			<p>1/1 x 286,00</p>
+
+			<p>1/1 x 285,00</p>
+
+			<p>1/1 x 399,23</p>
+
+			<p>1/1 x 113,23</p>
+
+			<p>1/1 x 447,13</p>
+
+			<p>1/2 x 537,68</p>
+
+			<p>1/2 x 578,03</p>
+
+			<p>1/4 x 126,53</p>
+
+			<p>1/2 x 555,83</p>
+
+			<p>1/2 x 555,49</p>
+
+			<p>3/2 x 555,42</p>
+
+			<p>1/2 x 741,70</p>
+
+			<p>1/2 x 567,44</p>
+
+			<p>1/2 x 567,45</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.55pt">
+			<p>13.356,50 – 16.479,45</p>
+
+			<p>3/1 x 149,65</p>
+
+			<p>10/2 x 267,40</p>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="3" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:460.6pt">
+			<p>Salarisschalen klasse 20 jaar</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.5pt">
+			<p>122</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.55pt">
+			<p>143</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.55pt">
+			<p>145</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.5pt">
+			<p>14.630,42 – 27.534,94</p>
+
+			<p>1/1 x 286,00</p>
+
+			<p>1/1 x 285,00</p>
+
+			<p>1/1 x 399,23</p>
+
+			<p>1/1 x 113,23</p>
+
+			<p>1/1 x 612,39</p>
+
+			<p>1/2 x 794,09</p>
+
+			<p>1/2 x 2.323,38</p>
+
+			<p>1/4 x 830,55</p>
+
+			<p>1/2 x 907,59</p>
+
+			<p>1/2 x 907,51</p>
+
+			<p>2/2 x 907,59</p>
+
+			<p>1/2 x 907,60</p>
+
+			<p>3/2 x 907,59</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.55pt">
+			<p>14.297,96 – 25.810,77</p>
+
+			<p>3/1 x 317,62</p>
+
+			<p>2/2 x 589,97</p>
+
+			<p>1/2 x 2.119,21</p>
+
+			<p>10/2 x 726,08</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.55pt">
+			<p>15.545,92 – 30.212,57</p>
+
+			<p>3/1 x 347,90</p>
+
+			<p>2/2 x 642,90</p>
+
+			<p>1/2 x 1.608,79</p>
+
+			<p>1/2 x 1.607,19</p>
+
+			<p>1/2 x 1.679,01</p>
+
+			<p>8/2 x 930,27</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.5pt">
+			<p>151</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.55pt">
+			<p>202</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.55pt">
+			<p>203</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.5pt">
+			<p>13.558,19 – 19.956,89</p>
+
+			<p>3/1 x 317,62</p>
+
+			<p>12/2 x 453,82</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.55pt">
+			<p>14.630,42 – 27.534,94</p>
+
+			<p>1/1x 286,00</p>
+
+			<p>1/1 x 285,00</p>
+
+			<p>1/1 x 399,23</p>
+
+			<p>1/1 x 113,23</p>
+
+			<p>1/1 x 612,39</p>
+
+			<p>1/2 x 794,09</p>
+
+			<p>1/2 x 2.323,38</p>
+
+			<p>1/4 x 830,55</p>
+
+			<p>1/2 x 907,59</p>
+
+			<p>1/2 x 907,51</p>
+
+			<p>2/2 x 907,59</p>
+
+			<p>1/2 x 907,60</p>
+
+			<p>3/2 x 907,59</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.55pt">
+			<p>14.630,42 – 27.534,94</p>
+
+			<p>1/1x 286,00</p>
+
+			<p>1/1 x 285,00</p>
+
+			<p>1/1 x 399,23</p>
+
+			<p>1/1 x 113,23</p>
+
+			<p>1/1 x 612,39</p>
+
+			<p>1/2 x 794,09</p>
+
+			<p>1/2 x 2.323,38</p>
+
+			<p>1/4 x 830,55</p>
+
+			<p>1/2 x 907,59</p>
+
+			<p>1/2 x 907,51</p>
+
+			<p>2/2 x 907,59</p>
+
+			<p>1/2 x 907,60</p>
+
+			<p>3/2 x 907,59</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.5pt">
+			<p>252</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.55pt">
+			<p>277</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.55pt">
+			<p>278</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.5pt">
+			<p>4.485,34 – 19.001,78</p>
+
+			<p>3/1 x 285,56</p>
+
+			<p>2/2 x 333,40</p>
+
+			<p>8/2 x 374,12</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.55pt">
+			<p>15.010,73 – 23.568,03</p>
+
+			<p>3/1 x 270,11</p>
+
+			<p>1/2 x 270,11</p>
+
+			<p>1/2 x 360,23</p>
+
+			<p>2/2 x 720,66</p>
+
+			<p>9/2 x 630,59</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.55pt">
+			<p>14.630,42 – 27.534,94</p>
+
+			<p>1/1x 286,00</p>
+
+			<p>1/1 x 285,00</p>
+
+			<p>1/1 x 399,23</p>
+
+			<p>1/1 x 113,23</p>
+
+			<p>1/1 x 612,39</p>
+
+			<p>1/2 x 794,09</p>
+
+			<p>1/2 x 2.323,38</p>
+
+			<p>1/4 x 830,55</p>
+
+			<p>1/2 x 907,59</p>
+
+			<p>1/2 x 907,51</p>
+
+			<p>2/2 x 907,59</p>
+
+			<p>1/2 x 907,60</p>
+
+			<p>3/2 x 907,59</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.5pt">
+			<p>279</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; vertical-align:top; width:153.55pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; vertical-align:top; width:153.55pt">
+			<p>&nbsp;</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.5pt">
+			<p>14.630,42 – 27.534,94</p>
+
+			<p>1/1x 286,00</p>
+
+			<p>1/1 x 285,00</p>
+
+			<p>1/1 x 399,23</p>
+
+			<p>1/1 x 113,23</p>
+
+			<p>1/1 x 612,39</p>
+
+			<p>1/2 x 794,09</p>
+
+			<p>1/2 x 2.323,38</p>
+
+			<p>1/4 x 830,55</p>
+
+			<p>1/2 x 907,59</p>
+
+			<p>1/2 x 907,51</p>
+
+			<p>2/2 x 907,59</p>
+
+			<p>1/2 x 907,60</p>
+
+			<p>3/2 x 907,59</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; vertical-align:top; width:153.55pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; vertical-align:top; width:153.55pt">
+			<p>&nbsp;</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+<p>&nbsp;</p>
+
 ## Salarisschalen 21 jaar
 
 ### Tekst
 
-<p>Salarisschalen klasse 21 jaar</p>
-
+Salarisschalen klasse 21 jaar
 <p>&nbsp;</p>
 
 <table border="1" cellpadding="0" cellspacing="0" style="border-collapse:collapse">
 	<tbody>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:153.5pt">
-			<p><strong>101</strong></p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:153.55pt">
-			<p><strong>102</strong></p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:153.55pt">
-			<p><strong>104</strong></p>
+			<td colspan="3" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:460.6pt">
+			<p>Salarisschalen klasse 21 jaar<!--?xml:namespace prefix = o ns =         "urn:schemas-microsoft-com:office:office" /--></p>
 			</td>
 		</tr>
 		<tr>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.5pt">
-			<p>15 418,80 – 25 947,04</p>
+			<p>101</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.55pt">
+			<p>102</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.55pt">
+			<p>104</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.5pt">
+			<p>15.418,80 – 25.947,04</p>
 
 			<p>4/1 x 453,82</p>
 
 			<p>12/2 x 726,08</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.55pt">
-			<p>16 417,16 – 26 945,40</p>
+			<p>16.417,16 – 26.945,40</p>
 
 			<p>4/1 x 453,82</p>
 
 			<p>12/2 x 726,08</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.55pt">
-			<p>17 348,42 – 30 212,44</p>
+			<p>17.347,42 – 30.212,44</p>
 
 			<p>1/1 x 363,02</p>
 
@@ -20926,18 +21394,18 @@ De salarisschalen van de personeelsleden niet bedoeld onder de delen I en II wor
 		</tr>
 		<tr>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.5pt">
-			<p><strong>106</strong></p>
+			<p>106</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.55pt">
-			<p><strong>121</strong></p>
+			<p>121</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.55pt">
-			<p><strong>126</strong></p>
+			<p>126</p>
 			</td>
 		</tr>
 		<tr>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.5pt">
-			<p>17 347,42 – 30 212,44</p>
+			<p>17.347,42 – 30.212,44</p>
 
 			<p>1/1 x 363,02</p>
 
@@ -20948,20 +21416,20 @@ De salarisschalen van de personeelsleden niet bedoeld onder de delen I en II wor
 			<p>11/2 x 930,27</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.55pt">
-			<p>15 205,47 – 27 557,61</p>
+			<p>15.205,47 – 27.557,61</p>
 
 			<p>3/1 x 544,50</p>
 
 			<p>2/2 x 748,76</p>
 
-			<p>1/2 x 733,52</p>
+			<p>1/2 x 1.733,52</p>
 
 			<p>1/1 x 748,76</p>
 
 			<p>9/2 x 748,76</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.55pt">
-			<p>17 347,42 – 30 212,56</p>
+			<p>17.347,42 – 30.212,56</p>
 
 			<p>1/1 x 340,34</p>
 
@@ -20975,59 +21443,59 @@ De salarisschalen van de personeelsleden niet bedoeld onder de delen I en II wor
 
 			<p>1/1 x 167,86</p>
 
-			<p>1/1 x 9630,27</p>
+			<p>1/1 x 930,27</p>
 
 			<p>9/2 x 930,27</p>
 			</td>
 		</tr>
 		<tr>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.5pt">
-			<p><strong>136</strong></p>
+			<p>136</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.55pt">
-			<p><strong>147</strong></p>
+			<p>147</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.55pt">
-			<p><strong>149</strong></p>
+			<p>149</p>
 			</td>
 		</tr>
 		<tr>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.5pt">
-			<p>16 583,57 – 29 532,01</p>
+			<p>16.583,57 – 29.532,01</p>
 
 			<p>4/1 x 658,05</p>
 
 			<p>11/2 x 937,84</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.55pt">
-			<p>16 394,44 – 27 557,56</p>
+			<p>16.394,44 – 27.557,56</p>
 
 			<p>4/1 x 544,50</p>
 
 			<p>12/2 x 748,76</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.55pt">
-			<p>18 028,14 – 29 191,26</p>
+			<p>18.028,14 – 29.191,26</p>
 
 			<p>4/1 x 544,50</p>
 
-			<p>12/2 x 748,76</p>
+			<p>12/2 x 148,76</p>
 			</td>
 		</tr>
 		<tr>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.5pt">
-			<p><strong>153</strong></p>
+			<p>153</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.55pt">
-			<p><strong>155</strong></p>
+			<p>155</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.55pt">
-			<p><strong>159</strong></p>
+			<p>159</p>
 			</td>
 		</tr>
 		<tr>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.5pt">
-			<p>15 818,17 – 27 557,93</p>
+			<p>15.818,17 – 27.557,93</p>
 
 			<p>4/1 x 453,82</p>
 
@@ -21040,14 +21508,14 @@ De salarisschalen van de personeelsleden niet bedoeld onder de delen I en II wor
 			<p>9/2 x 748,76</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.55pt">
-			<p>14 407,38 – 24 731,38</p>
+			<p>14.407,38 – 24.731,38</p>
 
 			<p>4/1 x 445,00</p>
 
 			<p>12/2 x 712,00</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.55pt">
-			<p>17 347,42 – 30 212,42</p>
+			<p>17.347,42 – 30.212,42</p>
 
 			<p>1/1 x 22,71</p>
 
@@ -21055,11 +21523,11 @@ De salarisschalen van de personeelsleden niet bedoeld onder de delen I en II wor
 
 			<p>2/1 x 567,23</p>
 
-			<p>1/2 x 930 ,27</p>
+			<p>1/2 x 930,27</p>
 
 			<p>1/2 x 739,77</p>
 
-			<p>1/1 x 790,56</p>
+			<p>1/1 x 190,56</p>
 
 			<p>1/1 x 930,27</p>
 
@@ -21068,31 +21536,31 @@ De salarisschalen van de personeelsleden niet bedoeld onder de delen I en II wor
 		</tr>
 		<tr>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.5pt">
-			<p><strong>163</strong></p>
+			<p>163</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.55pt">
-			<p><strong>164</strong></p>
+			<p>164</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.55pt">
-			<p><strong>166</strong></p>
+			<p>166</p>
 			</td>
 		</tr>
 		<tr>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.5pt">
-			<p>16 430,74 – 30 212,50</p>
+			<p>16.430,74 – 30.212,50</p>
 
 			<p>4/1 x 453,82</p>
 
 			<p>2/2 x 726,08</p>
 
-			<p>1/1 x 1 211,62</p>
+			<p>1/1 x 1.211,62</p>
 
 			<p>1/1 x 930,27</p>
 
 			<p>9/2 x 930,27</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.55pt">
-			<p>16 771,10 – 30 212,49</p>
+			<p>16.771,10 – 30.212,49</p>
 
 			<p>4/1 x 453,82</p>
 
@@ -21105,91 +21573,91 @@ De salarisschalen van de personeelsleden niet bedoeld onder de delen I en II wor
 			<p>9/2 x 930,27</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.55pt">
-			<p>25 651,98 – 41 172,42</p>
+			<p>25.651,98 – 41.172,42</p>
 
 			<p>4/1 x 612,63</p>
 
-			<p>12/2 x 1 089,16</p>
+			<p>12/2 x 1.089,16</p>
 			</td>
 		</tr>
 		<tr>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.5pt">
-			<p><strong>167</strong></p>
+			<p>167</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.55pt">
-			<p><strong>168</strong></p>
+			<p>168</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.55pt">
-			<p><strong>169</strong></p>
+			<p>169</p>
 			</td>
 		</tr>
 		<tr>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.5pt">
-			<p>22 938,14 – 40 036,85</p>
+			<p>22.938,14 – 40.036,85</p>
 
 			<p>1/1 x 612,63</p>
 
 			<p>3/1 x 726,04</p>
 
-			<p>1/2 x 1 293,26</p>
+			<p>1/2 x 1.293,26</p>
 
-			<p>1/2 x 1 293,33</p>
+			<p>1/2 x 1.293,33</p>
 
 			<p>1/2 x 286,04</p>
 
-			<p>2/2 x 1 270,67</p>
+			<p>2/2 x 1.270,67</p>
 
-			<p>1/2 x 1 270,50</p>
+			<p>1/2 x 1.270,50</p>
 
-			<p>2/2 x 1 270,58</p>
+			<p>2/2 x 1.270,58</p>
 
-			<p>1/2 x 1 270,59</p>
+			<p>1/2 x 1.270,59</p>
 
-			<p>3/2 x 1 270,58</p>
+			<p>3/2 x 1.270,58</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.55pt">
-			<p>21 885,38 – 37 405,82</p>
+			<p>21.885,38 – 37.405,82</p>
 
 			<p>4/1 x 612,63</p>
 
-			<p>12/2 x 1 089,16</p>
+			<p>12/2 x 1.089,16</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.55pt">
-			<p>21 431,61 – 36 952,05</p>
+			<p>21.431,61 – 36.952,05</p>
 
 			<p>4/1 x 612,63</p>
 
-			<p>12/2 x 1 089,16</p>
+			<p>12/2 x 1.089,16</p>
 			</td>
 		</tr>
 		<tr>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.5pt">
-			<p><strong>184</strong></p>
+			<p>184</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.55pt">
-			<p><strong>210</strong></p>
+			<p>210</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.55pt">
-			<p><strong>942</strong></p>
+			<p>942</p>
 			</td>
 		</tr>
 		<tr>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.5pt">
-			<p>15 645,71 – 26 808,83</p>
+			<p>15.645,71 – 26.808,83</p>
 
 			<p>4/1 x 544,50</p>
 
 			<p>12/2 x 748,76</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.55pt">
-			<p>26 627,62 – 42 148,06</p>
+			<p>26.627,62 – 42.148,06</p>
 
 			<p>4/1 x 612,63</p>
 
-			<p>12/2 x 1 089,16</p>
+			<p>12/2 x 1.089,16</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.55pt">
-			<p>22 792,96 – 35 590,60</p>
+			<p>22.792,96 – 35.590,60</p>
 
 			<p>4/1 x 612,63</p>
 
@@ -21198,10 +21666,10 @@ De salarisschalen van de personeelsleden niet bedoeld onder de delen I en II wor
 		</tr>
 		<tr>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.5pt">
-			<p><strong>943</strong></p>
+			<p>943</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.55pt">
-			<p><strong>949</strong></p>
+			<p>949</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.55pt">
 			<p>&nbsp;</p>
@@ -21209,18 +21677,18 @@ De salarisschalen van de personeelsleden niet bedoeld onder de delen I en II wor
 		</tr>
 		<tr>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.5pt">
-			<p>22 792,96 – 38 313,40</p>
+			<p>22.792,96 – 38.313,40</p>
 
 			<p>4/1 x 612,63</p>
 
-			<p>12/2 x 1 089,16</p>
+			<p>12/2 x 1.089,16</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.55pt">
-			<p>22 792,96 – 38 313,40</p>
+			<p>22.792,96 – 38.313,40</p>
 
 			<p>4/1 x 612,63</p>
 
-			<p>12/2 x 1 089,16</p>
+			<p>12/2 x 1.089,16</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.55pt">
 			<p>&nbsp;</p>
@@ -21237,40 +21705,43 @@ De salarisschalen van de personeelsleden niet bedoeld onder de delen I en II wor
 
 ### Tekst
 
-<p>Salarisschalen klasse 22 jaar</p>
-
 <p>&nbsp;</p>
 
 <table border="1" cellpadding="0" cellspacing="0" style="border-collapse:collapse">
 	<tbody>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:153.5pt">
-			<p><strong>100</strong></p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:153.55pt">
-			<p><strong>123</strong></p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:153.55pt">
-			<p><strong>124</strong></p>
+			<td colspan="3" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:460.6pt">
+			<p>Salarisschalen klasse 22 jaar<!--?xml:namespace prefix = o ns =         "urn:schemas-microsoft-com:office:office" /--></p>
 			</td>
 		</tr>
 		<tr>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.5pt">
-			<p>16 417,16 – 29 282,09</p>
-
-			<p>3/1 x 567,23</p>
-
-			<p>12/2 x 930,527</p>
+			<p>100</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.55pt">
-			<p>16 417,16 – 29 282,09</p>
+			<p>123</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.55pt">
+			<p>124</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.5pt">
+			<p>16.417,16 – 29.282,09</p>
 
 			<p>3/1 x 567,23</p>
 
 			<p>12/2 x 930,27</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.55pt">
-			<p>17 383,00 – 30 212,35</p>
+			<p>16.417,16 – 29.282,09</p>
+
+			<p>3/1 x 567,23</p>
+
+			<p>12/2 x 930,27</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.55pt">
+			<p>17.383,00 – 30.212,35</p>
 
 			<p>1/1 x 549,43</p>
 
@@ -21282,7 +21753,7 @@ De salarisschalen van de personeelsleden niet bedoeld onder de delen I en II wor
 
 			<p>1/1 x 761,23</p>
 
-			<p>1/2 x 930,27</p>
+			<p>1/2x 930,27</p>
 
 			<p>1/1 x 773,95</p>
 
@@ -21297,32 +21768,32 @@ De salarisschalen van de personeelsleden niet bedoeld onder de delen I en II wor
 		</tr>
 		<tr>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.5pt">
-			<p><strong>125</strong></p>
+			<p>125</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.55pt">
-			<p><strong>141</strong></p>
+			<p>141</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.55pt">
-			<p><strong>148</strong></p>
+			<p>148</p>
 			</td>
 		</tr>
 		<tr>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.5pt">
-			<p>16 417,16 – 29 282,09</p>
+			<p>16.417,16 – 29.282,09</p>
 
 			<p>3/1 x 567,23</p>
 
 			<p>12/2 x 930,27</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.55pt">
-			<p>17 347,42 – 30 212,35</p>
+			<p>17.347,42 – 30.212,35</p>
 
 			<p>3/1 x 567,23</p>
 
 			<p>12/2 x 930,27</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.55pt">
-			<p>17 347,42 – 30 212,35</p>
+			<p>17.347,42 – 30.212,35</p>
 
 			<p>3/1 x 567,23</p>
 
@@ -21331,18 +21802,18 @@ De salarisschalen van de personeelsleden niet bedoeld onder de delen I en II wor
 		</tr>
 		<tr>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.5pt">
-			<p><strong>150</strong></p>
+			<p>150</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.55pt">
-			<p><strong>158</strong></p>
+			<p>158</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.55pt">
-			<p><strong>165</strong></p>
+			<p>165</p>
 			</td>
 		</tr>
 		<tr>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.5pt">
-			<p>18 572,69 – 30 212,35</p>
+			<p>18.572,69 – 30.212,35</p>
 
 			<p>3/1 x 544,50</p>
 
@@ -21353,14 +21824,14 @@ De salarisschalen van de personeelsleden niet bedoeld onder de delen I en II wor
 			<p>5/2 x 930,27</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.55pt">
-			<p>16 417,16 – 29 282,09</p>
+			<p>16.417,16 – 29.282,09</p>
 
 			<p>3/1 x 567,23</p>
 
 			<p>12/2 x 930,27</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.55pt">
-			<p>21 286,45 – 35 272,34</p>
+			<p>21.286,45 – 35.272,34</p>
 
 			<p>3/1 x 476,56</p>
 
@@ -21368,7 +21839,7 @@ De salarisschalen van de personeelsleden niet bedoeld onder de delen I en II wor
 
 			<p>1/2 x 907,59</p>
 
-			<p>1/1 x 1 438,34</p>
+			<p>1/1 x 1.438,34</p>
 
 			<p>1/1 x 930,27</p>
 
@@ -21377,25 +21848,25 @@ De salarisschalen van de personeelsleden niet bedoeld onder de delen I en II wor
 		</tr>
 		<tr>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.5pt">
-			<p><strong>179</strong></p>
+			<p>179</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.55pt">
-			<p><strong>198</strong></p>
+			<p>198</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.55pt">
-			<p><strong>208</strong></p>
+			<p>208</p>
 			</td>
 		</tr>
 		<tr>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.5pt">
-			<p>22 407,30 – 35 272,23</p>
+			<p>22.407,30 – 35.272,23</p>
 
 			<p>3/1 x 567,23</p>
 
 			<p>12/2 x 930,27</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.55pt">
-			<p>23 632,56 – 35 272,23</p>
+			<p>23.632,56 – 35.272,23</p>
 
 			<p>3/1 x 544,50</p>
 
@@ -21406,7 +21877,7 @@ De salarisschalen van de personeelsleden niet bedoeld onder de delen I en II wor
 			<p>5/2 x 930,27</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.55pt">
-			<p>16 471,16 – 29 282,09</p>
+			<p>16.417,16 – 29.282,09</p>
 
 			<p>3/1 x 567,23</p>
 
@@ -21415,32 +21886,32 @@ De salarisschalen van de personeelsleden niet bedoeld onder de delen I en II wor
 		</tr>
 		<tr>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.5pt">
-			<p><strong>241</strong></p>
+			<p>241</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.55pt">
-			<p><strong>250</strong></p>
+			<p>250</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.55pt">
-			<p><strong>253</strong></p>
+			<p>253</p>
 			</td>
 		</tr>
 		<tr>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.5pt">
-			<p>19 480,25 – 32 345,18</p>
+			<p>19.480,25 – 32.345,18</p>
 
 			<p>3/1 x 567,23</p>
 
 			<p>12/2 x 930,27</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.55pt">
-			<p>19 117,21 – 31 982,14</p>
+			<p>19.117,21 – 31.982,14</p>
 
 			<p>3/1 x 567,23</p>
 
 			<p>12/2 x 930,27</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.55pt">
-			<p>17 823,94 – 28 442,56</p>
+			<p>17.823,94 – 28.442,56</p>
 
 			<p>3/1 x 544,50</p>
 
@@ -21449,32 +21920,32 @@ De salarisschalen van de personeelsleden niet bedoeld onder de delen I en II wor
 		</tr>
 		<tr>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.5pt">
-			<p><strong>255</strong></p>
+			<p>255</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.55pt">
-			<p><strong>256</strong></p>
+			<p>256</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.55pt">
-			<p><strong>257</strong></p>
+			<p>257</p>
 			</td>
 		</tr>
 		<tr>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.5pt">
-			<p>19 611,82 – 30 280,44</p>
+			<p>19.661,82 – 30.280,44</p>
 
 			<p>3/1 x 544,50</p>
 
 			<p>12/2 x 748,76</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.55pt">
-			<p>19 661,80 – 30 280,44</p>
+			<p>19.661,82 – 30.280,44</p>
 
 			<p>3/1 x 544,50</p>
 
 			<p>12/2 x 748,76</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.55pt">
-			<p>19 911,39 – 32 776,32</p>
+			<p>19.911,39 – 32.776,32</p>
 
 			<p>3/1 x 567,23</p>
 
@@ -21483,66 +21954,32 @@ De salarisschalen van de personeelsleden niet bedoeld onder de delen I en II wor
 		</tr>
 		<tr>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.5pt">
-			<p><strong>258</strong></p>
+			<p>258</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.55pt">
-			<p><strong>259</strong></p>
+			<p>259</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.55pt">
-			<p><strong>260</strong></p>
+			<p>260</p>
 			</td>
 		</tr>
 		<tr>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.5pt">
-			<p>20 977,82 – 33 842,75</p>
+			<p>20.977,82 – 33.842,75</p>
 
 			<p>3/1 x 567,23</p>
 
 			<p>12/2 x 930,27</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.55pt">
-			<p>16 190,23 – 26 808,85</p>
+			<p>16.190,23 – 26.808,85</p>
 
 			<p>3/1 x 544,50</p>
 
 			<p>12/2 x 748,76</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.55pt">
-			<p>18 686,10 – 29 304,72</p>
-
-			<p>3/1 x 544,50</p>
-
-			<p>12/2 x 748,76</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.5pt">
-			<p><strong>261</strong></p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.55pt">
-			<p><strong>263</strong></p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.55pt">
-			<p><strong>300</strong></p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.5pt">
-			<p>18 300,36 – 28 918,98</p>
-
-			<p>3/1 x 544,50</p>
-
-			<p>12/2 x 148,76</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.55pt">
-			<p>21 567,77 – 34 432,70</p>
-
-			<p>3/1 x 567,23</p>
-
-			<p>12/2 x 930,27</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.55pt">
-			<p>16 939,01 – 27 557,63</p>
+			<p>18.686,10 – 29.304,72</p>
 
 			<p>3/1 x 544,50</p>
 
@@ -21551,32 +21988,66 @@ De salarisschalen van de personeelsleden niet bedoeld onder de delen I en II wor
 		</tr>
 		<tr>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.5pt">
-			<p><strong>301</strong></p>
+			<p>261</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.55pt">
-			<p><strong>302</strong></p>
+			<p>263</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.55pt">
-			<p><strong>303</strong></p>
+			<p>300</p>
 			</td>
 		</tr>
 		<tr>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.5pt">
-			<p>17 347,42 – 30 212,35</p>
+			<p>18.300,36 – 28.918,98</p>
+
+			<p>3/1 x 544,50</p>
+
+			<p>12/2 x 748,76</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.55pt">
+			<p>21.567,77 – 34.432,70</p>
 
 			<p>3/1 x 567,23</p>
 
 			<p>12/2 x 930,27</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.55pt">
-			<p>18 277,66 – 31 142,59</p>
+			<p>16.939,01 – 27.557,63</p>
+
+			<p>3/1 x 544,50</p>
+
+			<p>12/2 x 748,76</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.5pt">
+			<p>301</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.55pt">
+			<p>302</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.55pt">
+			<p>303</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.5pt">
+			<p>17.347,42 – 30.212,35</p>
 
 			<p>3/1 x 567,23</p>
 
-			<p>12/.2 x 930,27</p>
+			<p>12/2 x 930,27</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.55pt">
-			<p>17 347,42 – 29 282,08</p>
+			<p>18.277,66 – 31.142,59</p>
+
+			<p>3/1 x 567,23</p>
+
+			<p>12/2 x 930,27</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.55pt">
+			<p>17.347,42 – 29.282,08</p>
 
 			<p>3/1 x 567,23</p>
 
@@ -21585,66 +22056,32 @@ De salarisschalen van de personeelsleden niet bedoeld onder de delen I en II wor
 		</tr>
 		<tr>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.5pt">
-			<p><strong>304</strong></p>
+			<p>304</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.55pt">
-			<p><strong>305</strong></p>
+			<p>305</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.55pt">
-			<p><strong>306</strong></p>
+			<p>306</p>
 			</td>
 		</tr>
 		<tr>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.5pt">
-			<p>20 047,56 – 32 912,49</p>
+			<p>20.047,56 – 32.912,49</p>
 
 			<p>3/1 x 567,23</p>
 
 			<p>12/2 x 930,27</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.55pt">
-			<p>18 981,08 – 31 846,01</p>
+			<p>18.981,08 – 31.846,01</p>
 
 			<p>3/1 x 567,23</p>
 
 			<p>12/2 x 930,27</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.55pt">
-			<p>18 981,08 – 31 846,01</p>
-
-			<p>3/1 x 567,23</p>
-
-			<p>12/2 x 930,27</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.5pt">
-			<p><strong>310</strong></p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.55pt">
-			<p><strong>311</strong></p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.55pt">
-			<p><strong>312</strong></p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.5pt">
-			<p>20 410,57 – 33 275,50</p>
-
-			<p>3/1 x 567,23</p>
-
-			<p>12/2 x 930,27</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.55pt">
-			<p>20 047,56 – 32 912,49</p>
-
-			<p>3/1 x 567,23</p>
-
-			<p>12/2 x 930,27</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.55pt">
-			<p>20 410,57 – 33 275,50</p>
+			<p>18.981,08 – 31.846,01</p>
 
 			<p>3/1 x 567,23</p>
 
@@ -21653,66 +22090,64 @@ De salarisschalen van de personeelsleden niet bedoeld onder de delen I en II wor
 		</tr>
 		<tr>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.5pt">
-			<p><strong>314</strong></p>
+			<p>310</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.55pt">
-			<p><strong>316</strong></p>
+			<p>311</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.55pt">
-			<p><strong>319</strong></p>
+			<p>312</p>
 			</td>
 		</tr>
 		<tr>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.5pt">
-			<p>21 476,95 – 32 481,34</p>
+			<p>20.410,57 – 33.275,50</p>
 
 			<p>3/1 x 567,23</p>
+
+			<p>12/2 x 930,27</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.55pt">
+			<p>20.047,5 – 32.912,49</p>
+
+			<p>3/1 x 567,23</p>
+
+			<p>12/2 x 930,27</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.55pt">
+			<p>20.410,57 – 33.275,50</p>
+
+			<p>3/1 x 567,23</p>
+
+			<p>12/2 x 930,27</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.5pt">
+			<p>314</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.55pt">
+			<p>316</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.55pt">
+			<p>319</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.5pt">
+			<p>21.476,95 – 32.481,343/1 x 567,23</p>
 
 			<p>10/2 x 930,27</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.55pt">
-			<p>22 498,03 – 35 362,96</p>
+			<p>22.498,03 – 35.362,96</p>
 
 			<p>3/1 x 567,23</p>
 
 			<p>12/2 x 930,27</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.55pt">
-			<p>17 347,42 – 30 212,35</p>
-
-			<p>3/1 x 567,23</p>
-
-			<p>12/2 x 930,27</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.5pt">
-			<p><strong>320</strong></p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.55pt">
-			<p><strong>321</strong></p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.55pt">
-			<p><strong>323</strong></p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.5pt">
-			<p>18 330,63 – 31 195,56</p>
-
-			<p>3/1 x 567,23</p>
-
-			<p>12/2 x 930,27</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.55pt">
-			<p>21 862,72 – 34 727,65</p>
-
-			<p>3/1 x 567,23</p>
-
-			<p>12/2 x 930,27</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.55pt">
-			<p>18 718,80 – 31 573,73</p>
+			<p>17.347,42 – 30.212,35</p>
 
 			<p>3/1 x 567,23</p>
 
@@ -21721,32 +22156,32 @@ De salarisschalen van de personeelsleden niet bedoeld onder de delen I en II wor
 		</tr>
 		<tr>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.5pt">
-			<p><strong>325</strong></p>
+			<p>320</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.55pt">
-			<p><strong>327</strong></p>
+			<p>321</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.55pt">
-			<p><strong>328</strong></p>
+			<p>323</p>
 			</td>
 		</tr>
 		<tr>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.5pt">
-			<p>19 692,01- 32 556,94</p>
+			<p>18.330,63 – 31.195,56</p>
 
 			<p>3/1 x 567,23</p>
 
 			<p>12/2 x 930,27</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.55pt">
-			<p>22 861,09</p>
+			<p>21.862,72 – 34.727,65</p>
 
 			<p>3/1 x 567,23</p>
 
 			<p>12/2 x 930,27</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.55pt">
-			<p>21 408,96 – 34 273,89</p>
+			<p>18.708,80 – 31.573,73</p>
 
 			<p>3/1 x 567,23</p>
 
@@ -21755,38 +22190,72 @@ De salarisschalen van de personeelsleden niet bedoeld onder de delen I en II wor
 		</tr>
 		<tr>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.5pt">
-			<p><strong>329</strong></p>
+			<p>325</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.55pt">
-			<p><strong>330</strong></p>
+			<p>327</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.55pt">
-			<p><strong>331</strong></p>
+			<p>328</p>
 			</td>
 		</tr>
 		<tr>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.5pt">
-			<p>16 417,16 – 29 282,09</p>
+			<p>19.692,01 – 32.556,94</p>
 
 			<p>3/1 x 567,23</p>
 
 			<p>12/2 x 930,27</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.55pt">
-			<p>17 869,24 – 30 734,17</p>
+			<p>22.861,09 – 35.726,02</p>
 
 			<p>3/1 x 567,23</p>
 
 			<p>12/2 x 930,27</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.55pt">
-			<p>18 404,78 – 31 414,54</p>
+			<p>21.408,96 – 34.273,89</p>
+
+			<p>3/1 x 567,23</p>
+
+			<p>12/2 x 930,27</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.5pt">
+			<p>329</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.55pt">
+			<p>330</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.55pt">
+			<p>331</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.5pt">
+			<p>16.417,16 – 29.282,09</p>
+
+			<p>3/1 x 567,23</p>
+
+			<p>12/2 x 930,27</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.55pt">
+			<p>17.869,24 – 30.734,17</p>
+
+			<p>3/1 x 567,23</p>
+
+			<p>12/2 x 930,27</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.55pt">
+			<p>18.404,78 – 31.414,54</p>
 
 			<p>2/1 x 567,23</p>
 
 			<p>1/1 x 523,30</p>
 
-			<p>½ x 974,28</p>
+			<p>1/2 x 974,28</p>
 
 			<p>2/2 x 930,27</p>
 
@@ -21799,32 +22268,32 @@ De salarisschalen van de personeelsleden niet bedoeld onder de delen I en II wor
 		</tr>
 		<tr>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.5pt">
-			<p><strong>333</strong></p>
+			<p>333</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.55pt">
-			<p><strong>335</strong></p>
+			<p>335</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.55pt">
-			<p><strong>337</strong></p>
+			<p>337</p>
 			</td>
 		</tr>
 		<tr>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.5pt">
-			<p>17 347,42 – 30 212,35</p>
+			<p>17.347,42 – 30.212,35</p>
 
 			<p>3/1 x 567,23</p>
 
 			<p>12/2 x 930,27</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.55pt">
-			<p>22 861,09 – 35 726,02</p>
+			<p>22.861,09 – 35.726,02</p>
 
 			<p>3/1 x 567,23</p>
 
 			<p>12/2 x 930,27</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.55pt">
-			<p>17 347,42 – 30 212,35</p>
+			<p>17.347,42 – 30.212,35</p>
 
 			<p>3/1 x 567,23</p>
 
@@ -21833,32 +22302,32 @@ De salarisschalen van de personeelsleden niet bedoeld onder de delen I en II wor
 		</tr>
 		<tr>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.5pt">
-			<p><strong>338</strong></p>
+			<p>338</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.55pt">
-			<p><strong>340</strong></p>
+			<p>340</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.55pt">
-			<p><strong>345</strong></p>
+			<p>345</p>
 			</td>
 		</tr>
 		<tr>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.5pt">
-			<p>27 240,26 – 42 148,07</p>
+			<p>27.240,26 – 42.148,07</p>
 
 			<p>3/1 x 612,63</p>
 
-			<p>12/2 x 1 089,16</p>
+			<p>12/2 x 1.089,16</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.55pt">
-			<p>19 412,24 – 32 277,17</p>
+			<p>19.412,24 – 32.277,17</p>
 
 			<p>3/1 x 567,23</p>
 
 			<p>12/2 x 930,27</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.55pt">
-			<p>16 417,16 – 29 282,09</p>
+			<p>16.417,16 – 29.282,09</p>
 
 			<p>3/1 x 567,23</p>
 
@@ -21867,32 +22336,32 @@ De salarisschalen van de personeelsleden niet bedoeld onder de delen I en II wor
 		</tr>
 		<tr>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.5pt">
-			<p><strong>346</strong></p>
+			<p>346</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.55pt">
-			<p><strong>348</strong></p>
+			<p>348</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.55pt">
-			<p><strong>384</strong></p>
+			<p>384</p>
 			</td>
 		</tr>
 		<tr>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.5pt">
-			<p>20 410,57 – 33 275,50</p>
+			<p>20.410,57 – 33.275,50</p>
 
 			<p>3/1 x 567,23</p>
 
 			<p>12/2 x 930,27</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.55pt">
-			<p>23 405,66 – 38 313,47</p>
+			<p>23.405,66 – 38.313,47</p>
 
 			<p>3/1 x 612,63</p>
 
-			<p>12/2 x 1 089,16</p>
+			<p>12/2 x 1.089,16</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.55pt">
-			<p>17 324,72 – 27 943,34</p>
+			<p>17.324,72 – 27.943,34</p>
 
 			<p>3/1 x 544,50</p>
 
@@ -21901,25 +22370,25 @@ De salarisschalen van de personeelsleden niet bedoeld onder de delen I en II wor
 		</tr>
 		<tr>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.5pt">
-			<p><strong>479</strong></p>
+			<p>479</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.55pt">
-			<p><strong>498</strong></p>
+			<p>498</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.55pt">
-			<p><strong>779</strong></p>
+			<p>779</p>
 			</td>
 		</tr>
 		<tr>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.5pt">
-			<p>22 646,54 – 35 511,47</p>
+			<p>22.646,54 – 35.511,47</p>
 
 			<p>3/1 x 567,23</p>
 
 			<p>12/2 x 930,27</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.55pt">
-			<p>23 871,80 – 35 511,47</p>
+			<p>23.871,80 – 35.511,47</p>
 
 			<p>3/1 x 544,50</p>
 
@@ -21930,27 +22399,23 @@ De salarisschalen van de personeelsleden niet bedoeld onder de delen I en II wor
 			<p>5/2 x 930,27</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.55pt">
-			<p>22 806,04 – 35 670,97</p>
-
-			<p>3/1 x 567,23</p>
-
-			<p>12/2 x 930,27</p>
+			<p>[… (vernietigd arrest RvSt, nr. 217.996 van 15 februari 2012)]</p>
 			</td>
 		</tr>
 		<tr>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.5pt">
-			<p><strong>798</strong></p>
+			<p>798</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.55pt">
-			<p><strong>879</strong></p>
+			<p>879</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.55pt">
-			<p><strong>898</strong></p>
+			<p>898</p>
 			</td>
 		</tr>
 		<tr>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.5pt">
-			<p>24 031,30 – 35 670,97</p>
+			<p>24.031,30 – 35.670,97</p>
 
 			<p>3/1 x 544,50</p>
 
@@ -21959,26 +22424,20 @@ De salarisschalen van de personeelsleden niet bedoeld onder de delen I en II wor
 			<p>1/2 x 862,26</p>
 
 			<p>5/2 x 930,27</p>
-
-			<p>&nbsp;</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.55pt">
-			<p>23 404,13 – 36 269,06</p>
-
-			<p>3/1 x 567,23</p>
-
-			<p>12/2 x 930,27</p>
+			<p>[… (vernietigd arrest RvSt, nr. 217.996 van 15 februari 2012)]</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.55pt">
-			<p>23 632,56 – 36 269,06</p>
+			<p>23.632,56 – 36.269,06</p>
 
 			<p>3/1 x 544,50</p>
 
-			<p>1/2 x 1 066,65</p>
+			<p>1/2 x 1.066,65</p>
 
-			<p>1/2 x 1 089,16</p>
+			<p>1/2 x 1.089,16</p>
 
-			<p>1/2 x 1 087,30</p>
+			<p>1/2 x 1.087,30</p>
 
 			<p>3/2 x 748,76</p>
 
@@ -21998,58 +22457,57 @@ De salarisschalen van de personeelsleden niet bedoeld onder de delen I en II wor
 
 ### Tekst
 
-<p>Salarisschalen klasse 23 jaar</p>
-
-<table border="1" cellpadding="0" cellspacing="0" style="border-collapse:collapse">
-	<tbody>
-		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:153.5pt">
-			<p><strong>251</strong></p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:153.55pt">
-			<p><strong>308</strong></p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:153.55pt">
-			<p><strong>315</strong></p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.5pt">
-			<p>20 017,29 – 34 297,50</p>
-
-			<p>4/1 x 658,05</p>
-
-			<p>11/2 x 1 058,91</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.55pt">
-			<p>20 410,57 – 35 355,62</p>
+<p>Salarisschalen klasse 23 jaar<!--?xml:namespace prefix = o ns =         "urn:schemas-microsoft-com:office:office" /--></p>
+			
+		
+		
+			
+			<p>251</p>
+			
+			
+			<p>308</p>
+			
+			
+			<p>315</p>
+			
+		
+		
+			
+			<p>20.017,29 – 34.897,50</p>
 
 			<p>4/1 x 658,05</p>
 
-			<p>11/2 x 1 119,35</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.55pt">
-			<p>21 076,11 – 35 356,32</p>
+			<p>11/2 x 1.058,91</p>
+			
+			
+			<p>20.410,57 – 35.355,62</p>
+
+			<p>4/1 x 658,0</p>
+
+			<p>11/2 x 1.119,35</p>
+			
+			
+			<p>21.076,11 – 35.356,32</p>
 
 			<p>4/1 x 658,05</p>
 
-			<p>11/2 x 1 058,91</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.5pt">
-			<p><strong>317</strong></p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.55pt">
-			<p><strong>318</strong></p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.55pt">
-			<p><strong>326</strong></p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.5pt">
-			<p>21 611,62 – 36 036,64</p>
+			<p>11/2 x 1.058,91</p>
+			
+		
+		
+			
+			<p>317</p>
+			
+			
+			<p>318</p>
+			
+			
+			<p>326</p>
+			
+		
+		
+			
+			<p>21.611,62 – 36.036,64</p>
 
 			<p>2/1 x 658,05</p>
 
@@ -22057,84 +22515,84 @@ De salarisschalen van de personeelsleden niet bedoeld onder de delen I en II wor
 
 			<p>1/1 x 701,97</p>
 
-			<p>2/2 x 1 058,91</p>
+			<p>2/2 x 1.058,91</p>
 
 			<p>1/1 x 213,15</p>
 
-			<p>1/1 x 1 051,32</p>
+			<p>1/1 x 1.051,32</p>
 
-			<p>8/2 x 1 051,32</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.55pt">
-			<p>22 861,09 – 37 806,14</p>
-
-			<p>4/1 x 658,05</p>
-
-			<p>11/2 x 1 119,35</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.55pt">
-			<p>20 198,82 – 34 479,03</p>
+			<p>8/2 x 1.051,32</p>
+			
+			
+			<p>22.861,09* - 37.806,14</p>
 
 			<p>4/1 x 658,05</p>
 
-			<p>11/2 x 1 058,91</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.5pt">
-			<p><strong>332</strong></p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.55pt">
-			<p><strong>336</strong></p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.55pt">
-			<p><strong>347</strong></p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.5pt">
-			<p>16 787,73 – 29 736,17</p>
+			<p>11/2 x 1.119,35</p>
+			
+			
+			<p>20.198,82 – 34.479,03</p>
+
+			<p>4/1 x 658,05</p>
+
+			<p>11/2 x 1.058,91</p>
+			
+		
+		
+			
+			<p>332</p>
+			
+			
+			<p>336</p>
+			
+			
+			<p>347</p>
+			
+		
+		
+			
+			<p>16.787,73 – 29.736,17</p>
 
 			<p>4/1 x 658,05</p>
 
 			<p>11/2 x 937,84</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.55pt">
-			<p>23 367,83 – 38 312,88</p>
+			
+			
+			<p>23.367,83 – 38.312,88</p>
 
 			<p>4/1 x 658,05</p>
 
-			<p>11/2 x 1 119,35</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.55pt">
-			<p>20 410,57 – 35 355,62</p>
+			<p>11/2 x 1.119,35</p>
+			
+			
+			<p>20.410,57 – 35.355,62</p>
 
 			<p>4/1 x 658,05</p>
 
-			<p>11/2 x 1 119,35</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.5pt">
-			<p><strong>349</strong></p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.55pt">
-			<p><strong>355</strong></p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.55pt">
-			<p><strong>356</strong></p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.5pt">
-			<p>25 311,58 – 40 256,63</p>
+			<p>11/2 x 1.119,35</p>
+			
+		
+		
+			
+			<p>349</p>
+			
+			
+			<p>355</p>
+			
+			
+			<p>356</p>
+			
+		
+		
+			
+			<p>25.311,58 – 40.256,63</p>
 
 			<p>4/1 x 658,05</p>
 
-			<p>11/2 x 1 119,35</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.55pt">
-			<p>17 119,08 – 30 212,51</p>
+			<p>11/2 x 1.119,35</p>
+			
+			
+			<p>17.119,08 – 30.212,51</p>
 
 			<p>2/1 x 658,05</p>
 
@@ -22149,33 +22607,33 @@ De salarisschalen van de personeelsleden niet bedoeld onder de delen I en II wor
 			<p>1/1 x 930,27</p>
 
 			<p>8/2 x 930,27</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.55pt">
-			<p>16 583,57 – 29 532,01</p>
+			
+			
+			<p>16.583,57 – 29.532,01</p>
 
 			<p>4/1 x 658,05</p>
 
-			<p>11/2 x 934,84</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.5pt">
-			<p><strong>523</strong></p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.55pt">
-			<p><strong>552</strong></p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.55pt">
+			<p>11/2 x 937,84</p>
+			
+		
+		
+			
+			<p>523</p>
+			
+			
+			<p>552</p>
+			
+			
 			<p>&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.5pt">
-			<p>21 827,05 – 34 901,33</p>
+			
+		
+		
+			
+			<p>21.827,05 – 34.901,33</p>
 
-			<p>1/2 x 643,62</p>
+			<p>1/2 x643,62</p>
 
-			<p>1/2 x 1 590,18</p>
+			<p>1/2 x 1.590,18</p>
 
 			<p>4/2 x 643,62</p>
 
@@ -22184,20 +22642,22 @@ De salarisschalen van de personeelsleden niet bedoeld onder de delen I en II wor
 			<p>6/2 x 858,14</p>
 
 			<p>1/2 x 113,56</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.55pt">
-			<p>28 079,75 – 42 987,56</p>
+			
+			
+			<p>28.079,75 – 42.987,56</p>
 
 			<p>3/1 x 612,63</p>
 
-			<p>12/2 x 1 089,16</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.55pt">
+			<p>12/2 x 1.089,16</p>
+			
+			
 			<p>&nbsp;</p>
-			</td>
-		</tr>
-	</tbody>
-</table>
+			
+		
+	
+
+
+<p>&nbsp;</p>
 
 <p>&nbsp;</p>
 
@@ -22205,408 +22665,409 @@ De salarisschalen van de personeelsleden niet bedoeld onder de delen I en II wor
 
 ### Tekst
 
-<p>Salarisschalen klasse 24 jaar</p>
-
-<p>&nbsp;</p>
-
 <table border="1" cellpadding="0" cellspacing="0" style="border-collapse:collapse">
 	<tbody>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:153.5pt">
-			<p><strong>276</strong></p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:153.55pt">
-			<p><strong>501</strong></p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:153.55pt">
-			<p><strong>502</strong></p>
+			<td colspan="3" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:460.6pt">
+			<p>Salarisschalen klasse 24 jaar<!--?xml:namespace prefix = o ns =         "urn:schemas-microsoft-com:office:office" /--></p>
 			</td>
 		</tr>
 		<tr>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.5pt">
-			<p>26 298,73 – 39 341,75</p>
+			<p>276</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.55pt">
+			<p>501</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.55pt">
+			<p>502</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.5pt">
+			<p>26.289,73 – 39.341,75</p>
 
 			<p>3/1 x 636,54</p>
 
-			<p>10/2 x 1 114,24</p>
+			<p>10/2 x 1.114,24</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.55pt">
-			<p>21 726,55 – 38 312,63</p>
+			<p>21.726,55 – 38.312,63</p>
 
 			<p>3/1 x 703,36</p>
 
-			<p>11/2 x 1 316,00</p>
+			<p>11/2 x 1.316,00</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.55pt">
-			<p>24 177,08 – 40 763,16</p>
+			<p>24.177,08 – 40.763,16</p>
 
 			<p>3/1 x 703,36</p>
 
-			<p>11/2 x 1 316,00</p>
+			<p>11/2 x 1.316,00</p>
 			</td>
 		</tr>
 		<tr>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.5pt">
-			<p><strong>505</strong></p>
+			<p>505</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.55pt">
-			<p><strong>506</strong></p>
+			<p>506</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.55pt">
-			<p><strong>507</strong></p>
+			<p>507</p>
 			</td>
 		</tr>
 		<tr>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.5pt">
-			<p>30 960,23 – 49 835,45</p>
+			<p>30.960,23 – 49.835,45</p>
 
-			<p>14/2 x 1 348,23</p>
+			<p>14/2 x 1.348,23</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.55pt">
-			<p>24 993,94 – 42 215,73</p>
+			<p>24.993,94 – 42.215,73</p>
 
 			<p>3/1 x 748,76</p>
 
-			<p>11/2 x 1 361,41</p>
+			<p>11/2 x 1.361,41</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.55pt">
-			<p>27 421,74 – 44 643,53</p>
+			<p>27.421,74 – 44.643,53</p>
 
 			<p>3/1 x 748,76</p>
 
-			<p>11/2 x 1 361,41</p>
+			<p>11/2 x 1.361,41</p>
 			</td>
 		</tr>
 		<tr>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.5pt">
-			<p><strong>509</strong></p>
+			<p>509</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.55pt">
-			<p><strong>511</strong></p>
+			<p>511</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.55pt">
-			<p><strong>514</strong></p>
+			<p>514</p>
 			</td>
 		</tr>
 		<tr>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.5pt">
-			<p>26 695,63 – 43 281,71</p>
+			<p>26.695,63 – 43.281,71</p>
 
 			<p>3/1 x 703,36</p>
 
-			<p>11/2 x 1 316,00</p>
+			<p>11/2 x 1.316,00</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.55pt">
-			<p>28 556,22 – 45 778,01</p>
+			<p>28.556,22 – 45.778,01</p>
 
 			<p>3/1 x 748,76</p>
 
-			<p>11/2 x 1 361,41</p>
+			<p>11/2 x 1.361,41</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.55pt">
-			<p>30 825,29 – 48 047,08</p>
+			<p>30.825,29 – 48.047,08</p>
 
 			<p>3/1 x 748,76</p>
 
-			<p>11/2 x 1 361,41</p>
+			<p>11/2 x 1.361,41</p>
 			</td>
 		</tr>
 		<tr>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.5pt">
-			<p><strong>515</strong></p>
+			<p>515</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.55pt">
-			<p><strong>516</strong></p>
+			<p>516</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.55pt">
-			<p><strong>517</strong></p>
+			<p>517</p>
 			</td>
 		</tr>
 		<tr>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.5pt">
-			<p>30 825,29 – 48 047,08</p>
+			<p>30.825,29 – 48.047,08</p>
 
 			<p>3/1 x 748,76</p>
 
-			<p>11/2 x 1 361,41</p>
+			<p>11/2 x 1.361,41</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.55pt">
-			<p>37 934,74 – 55 156,53</p>
+			<p>37.934,74 – 55.156,53</p>
 
 			<p>3/1 x 748,76</p>
 
-			<p>11/2 x 1 361,41</p>
+			<p>11/2 x 1.361,41</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.55pt">
-			<p>20 849,26 – 37 435,34</p>
+			<p>20.849,26 – 37.435,34</p>
 
-			<p>3/1 x 703,36</p>
+			<p>3/1 x 73,36</p>
 
-			<p>11/2 x 1 316,00</p>
+			<p>11/2 x 1.316,00</p>
 			</td>
 		</tr>
 		<tr>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.5pt">
-			<p><strong>527</strong></p>
+			<p>527</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.55pt">
-			<p><strong>528</strong></p>
+			<p>528</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.55pt">
-			<p><strong>529</strong></p>
+			<p>529</p>
 			</td>
 		</tr>
 		<tr>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.5pt">
-			<p>23 541,79 – 40 763,58</p>
+			<p>23.541,79 – 40.763,58</p>
 
 			<p>3/1 x 748,76</p>
 
-			<p>11/2 x 1 361,41</p>
+			<p>11/2 x 1.361,41</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.55pt">
-			<p>28 669,65 – 45 255,73</p>
+			<p>28.669,65 – 45.255,73</p>
 
 			<p>3/1 x 703,36</p>
 
-			<p>11/2 x 1 316,00</p>
+			<p>11/2 x 1.316,00</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.55pt">
-			<p>33 411,88 – 45 255,88</p>
+			<p>33.411,88 – 45.255,88</p>
 
-			<p>9/2 x 1 316,00</p>
+			<p>9/2 x 1.316,00</p>
 			</td>
 		</tr>
 		<tr>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.5pt">
-			<p><strong>531</strong></p>
+			<p>531</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.55pt">
-			<p><strong>532</strong></p>
+			<p>532</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.55pt">
-			<p><strong>533</strong></p>
+			<p>533</p>
 			</td>
 		</tr>
 		<tr>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.5pt">
-			<p>43 041,33 – 60 263,12</p>
+			<p>43.041,33 – 60.263,12</p>
 
 			<p>3/1 x 748,76</p>
 
-			<p>11/2 x 1 361,41</p>
+			<p>11/2 x 1.361,41</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.55pt">
-			<p>45 594,63 – 62 816,42</p>
+			<p>45.594,63 – 62.816,42</p>
 
 			<p>3/1 x 748,76</p>
 
-			<p>11/2 x 1 361,41</p>
+			<p>11/2 x 1.361,41</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.55pt">
-			<p>28 488,14 – 45 074,22</p>
+			<p>28.488,14 – 45.074,22</p>
 
 			<p>3/1 x 703,36</p>
 
-			<p>11/2 x 1 316,00</p>
+			<p>11/2 x 1.316,00</p>
 			</td>
 		</tr>
 		<tr>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.5pt">
-			<p><strong>534</strong></p>
+			<p>534</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.55pt">
-			<p><strong>537</strong></p>
+			<p>537</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.55pt">
-			<p><strong>539</strong></p>
+			<p>539</p>
 			</td>
 		</tr>
 		<tr>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.5pt">
-			<p>31 914,31 – 45 074,31</p>
+			<p>31.914,31 – 45.074,31</p>
 
-			<p>1/1 x 1 316,00</p>
+			<p>1/1 x 1.316,00</p>
 
-			<p>9/2 x 1 316 000</p>
+			<p>9/2 x 1.316,00</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.55pt">
-			<p>36 497,74 – 53 719,53</p>
+			<p>36.497,74 – 53.719,53</p>
 
 			<p>3/1 x 748,76</p>
 
-			<p>11/2 x 1 361,41</p>
+			<p>11/2 x 1.361,41</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.55pt">
-			<p>36 225,45 – 52 811,53</p>
+			<p>36.225,45 – 52.811,53</p>
 
 			<p>3/1 x 703,36</p>
 
-			<p>11/2 x 1 316,00</p>
+			<p>11/2 x 1.316,00</p>
 			</td>
 		</tr>
 		<tr>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.5pt">
-			<p><strong>542</strong></p>
+			<p>542</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.55pt">
-			<p><strong>543</strong></p>
+			<p>543</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.55pt">
-			<p><strong>544</strong></p>
+			<p>544</p>
 			</td>
 		</tr>
 		<tr>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.5pt">
-			<p>20 410,57 – 36 996,65</p>
+			<p>20.410,57 – 36.996,65</p>
 
 			<p>3/1 x 703,36</p>
 
-			<p>11/2 x 1 316,00</p>
+			<p>11/2 x 1.316,00</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.55pt">
-			<p>28 178,10 – 45 399,89</p>
+			<p>28.178,10 – 45.399,89</p>
 
 			<p>3/1 x 748,76</p>
 
-			<p>11/ x 1 361,41</p>
+			<p>11/2 x 1.361,41</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.55pt">
-			<p>35 726,27 – 52 312,35</p>
+			<p>35.726,27 – 52.312,35</p>
 
 			<p>3/1 x 703,36</p>
 
-			<p>11/2 x 1 316,00</p>
+			<p>11/2 x 1.316,00</p>
 			</td>
 		</tr>
 		<tr>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.5pt">
-			<p><strong>545</strong></p>
+			<p>545</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.55pt">
-			<p><strong>546</strong></p>
+			<p>546</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.55pt">
-			<p><strong>549</strong></p>
+			<p>549</p>
 			</td>
 		</tr>
 		<tr>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.5pt">
-			<p>40 468,43 – 52 312,43</p>
+			<p>40.468,43 – 52.312,43</p>
 
-			<p>9/2 x 1 316 00</p>
+			<p>9/2 x 1.316,00</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.55pt">
-			<p>25 629,28 – 42 215,36</p>
+			<p>25.629,28 – 42.215,36</p>
 
 			<p>3/1 x 703,36</p>
 
-			<p>11/2 x 1 316,00</p>
+			<p>11/2 x 1.316,00</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.55pt">
-			<p>23 753,54 – 40 339,62</p>
+			<p>23.753,54 – 40.339,62</p>
 
 			<p>3/1 x 703,36</p>
 
-			<p>11/2 x 1 316,00</p>
+			<p>11/2 x 1.316,00</p>
 			</td>
 		</tr>
 		<tr>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.5pt">
-			<p><strong>553</strong></p>
+			<p>553</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.55pt">
-			<p><strong>556</strong></p>
+			<p>556</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.55pt">
-			<p><strong>560</strong></p>
+			<p>560</p>
 			</td>
 		</tr>
 		<tr>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.5pt">
-			<p>22 482,88 – 39 068,96</p>
+			<p>22.482,88 – 39.068,96</p>
 
 			<p>3/1 x 703,36</p>
 
-			<p>11/2 x 1 316,00</p>
+			<p>11/2 x 1.316,00</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.55pt">
-			<p>34 531,27 – 51 117,35</p>
+			<p>34.531,27 – 51.117,35</p>
 
 			<p>3/1 x 703,36</p>
 
-			<p>11/2 x 1 316,00</p>
+			<p>11/2 x 1.316,00</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.55pt">
-			<p>22 861,09 – 39 447,17</p>
+			<p>22.861,09 – 39.447,17</p>
 
 			<p>3/1 x 703,36</p>
 
-			<p>11/2 x 1 316,00</p>
+			<p>11/2 x 1.316,00</p>
 			</td>
 		</tr>
 		<tr>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.5pt">
-			<p><strong>561</strong></p>
+			<p>561</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.55pt">
-			<p><strong>567</strong></p>
+			<p>567</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.55pt">
-			<p><strong>568</strong></p>
+			<p>568</p>
 			</td>
 		</tr>
 		<tr>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.5pt">
-			<p>34 758,18 – 51 979,97</p>
+			<p>34.758,18 – 51.979,97</p>
 
 			<p>3/1 x 748,76</p>
 
-			<p>11/2 x 1 361,41</p>
+			<p>11/2 x 1.361,41</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.55pt">
-			<p>26 975,51 – 43 561,59</p>
+			<p>26.975,51 – 43.561,59</p>
 
 			<p>3/1 x 703,36</p>
 
-			<p>11/2 x 1 316,00</p>
+			<p>11/2 x 1.316,00</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.55pt">
-			<p>31 717,70 – 43 561,70</p>
+			<p>31.717,70 – 43.561,70</p>
 
-			<p>9/2 x 1 316,00</p>
+			<p>9/2 x 1.316,00</p>
 			</td>
 		</tr>
 		<tr>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.5pt">
-			<p><strong>569</strong></p>
+			<p>569</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.55pt">
-			<p><strong>570</strong></p>
+			<p>570</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.55pt">
-			<p><strong>950</strong></p>
+			<p>950</p>
 			</td>
 		</tr>
 		<tr>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.5pt">
-			<p>34 032,12 – 50 618,20</p>
+			<p>34.032,12 – 50.618,20</p>
 
 			<p>3/1 x 703,36</p>
 
-			<p>11/2 x 1 316,00</p>
+			<p>11/2 x 1.316,00</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.55pt">
-			<p>38 774,29 – 50 618,29</p>
+			<p>38.774,29 – 50.618,29</p>
 
-			<p>9/2 x 1 316,00</p>
+			<p>9/2 x 1.316,00</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.55pt">
-			<p>30 825,29 – 48 047,08</p>
+			<p>30.825,29 – 48.047,08</p>
 
 			<p>3/1 x 748,76</p>
 
-			<p>11/2 x 1 361,41</p>
+			<p>11/2 x 1.361,41</p>
 			</td>
 		</tr>
 	</tbody>
@@ -22620,20 +23081,21 @@ De salarisschalen van de personeelsleden niet bedoeld onder de delen I en II wor
 
 ### Tekst
 
-<p>Vaste bedragen vanaf 1 september 2005</p>
-
-<p>&nbsp;</p>
-
 <table border="1" cellpadding="0" cellspacing="0" style="border-collapse:collapse">
 	<tbody>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:153.5pt">
+			<td colspan="3" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:460.6pt">
+			<p>Vaste bedragen<!--?xml:namespace prefix = o ns =         "urn:schemas-microsoft-com:office:office" /--></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.5pt">
 			<p>030</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:153.55pt">
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.55pt">
 			<p>031</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:153.55pt">
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.55pt">
 			<p>032</p>
 			</td>
 		</tr>
@@ -22707,7 +23169,7 @@ De salarisschalen van de personeelsleden niet bedoeld onder de delen I en II wor
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.55pt">
 			<p>428,29</p>
 
-			<p>(klasse 22 jaar)</p>
+			<p>(klasse 21 jaar)</p>
 			</td>
 		</tr>
 		<tr>
@@ -22728,13 +23190,7 @@ De salarisschalen van de personeelsleden niet bedoeld onder de delen I en II wor
 			<p>(klasse 21 jaar)</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.55pt">
-			<p>De vergoeding voor de coördinatie-</p>
-
-			<p>Functie vermeld in artikel 76 van het decreet van 1 december 1998 betref-</p>
-
-			<p>fende de&nbsp; centra voor leerlingenbe-</p>
-
-			<p>geleiding bedraagt 3.3396,14 euro.</p>
+			<p>De vergoeding voor de coördinatiefunctie vermeld in artikel 76 van het decreet van 1 december 1998 betreffende de centra voor leerlingenbegeleiding bedraagt 3.396,14 euro.</p>
 
 			<p>(klasse 18 jaar)</p>
 			</td>
@@ -22818,7 +23274,7 @@ De salarisschalen van de personeelsleden niet bedoeld onder de delen I en II wor
 			<p>(klasse 22 jaar)</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.55pt">
-			<p>4.957,88</p>
+			<p>4.57,88</p>
 
 			<p>(klasse 22 jaar)</p>
 			</td>
@@ -22839,32 +23295,33 @@ De salarisschalen van de personeelsleden niet bedoeld onder de delen I en II wor
 
 ### Tekst
 
-<p>Bijzondere salarisschalen - Kunstonderwijs (oganieke en overgangsregeling)</p>
-
-<p>Salarisschalen klasse 21 jaar</p>
-
-<p>&nbsp;</p>
-
-<table border="0" cellpadding="0" cellspacing="0" style="border-collapse:collapse">
+<table border="1" cellpadding="0" cellspacing="0" style="border-collapse:collapse">
 	<tbody>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:#f0f0f0; border-top:windowtext 1pt solid; vertical-align:top; width:160.6pt">
-			<p><strong>146</strong></p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:#f0f0f0; border-top:windowtext 1pt solid; vertical-align:top; width:160.6pt">
-			<p><strong>935</strong></p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:160.65pt">
-			<p><strong>936</strong></p>
+			<td colspan="3" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:460.6pt">
+			<p>Bijzondere salarisschalen – Kunstonderwijs (organieke en overgangsregeling)<!--?xml:namespace prefix = o ns =         "urn:schemas-microsoft-com:office:office" /--></p>
+
+			<p>Salarisschalen klasse 21 jaar</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:#f0f0f0; border-top:windowtext 1pt solid; vertical-align:top; width:160.6pt">
-			<p>15 444,39 - 26 119,01</p>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.5pt">
+			<p>146</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.55pt">
+			<p>935</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.55pt">
+			<p>936</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.5pt">
+			<p>15.444,39 – 26.119,01</p>
 
 			<p>1/2 x 725,66</p>
 
-			<p>1/2 x 1 693,08</p>
+			<p>1/2 x 1.693,08</p>
 
 			<p>2/2 x 725,66</p>
 
@@ -22874,58 +23331,52 @@ De salarisschalen van de personeelsleden niet bedoeld onder de delen I en II wor
 
 			<p>1/2 x 500,50</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:#f0f0f0; border-top:windowtext 1pt solid; vertical-align:top; width:160.6pt">
-			<p>12 060,32 - 16 922,31</p>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.55pt">
+			<p>12.060,32 – 16.922,31</p>
 
 			<p>1/2 x 616,89</p>
 
-			<p>1/2 x 1 523,73</p>
+			<p>1/2 x 1.523,73</p>
 
 			<p>4/2 x 616,89</p>
 
 			<p>1/2 x 253,81</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:160.65pt">
-			<p>10 209,79 - 16 922,45</p>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.55pt">
+			<p>10.209,79 – 16.922,45</p>
 
 			<p>1/2 x 616,89</p>
 
-			<p>1/2 x 1 523,73</p>
+			<p>1/2 x 1.523,73</p>
 
 			<p>7/2 x 616,89</p>
 
 			<p>1/2 x 253,81</p>
 			</td>
 		</tr>
-	</tbody>
-</table>
-
-<p>&nbsp;</p>
-
-<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Salarisschalen klasse 23 jaar</p>
-
-<p>&nbsp;</p>
-
-<table border="0" cellpadding="0" cellspacing="0" style="border-collapse:collapse">
-	<tbody>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:#f0f0f0; border-top:windowtext 1pt solid; vertical-align:top; width:160.6pt">
-			<p><strong>339</strong></p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:#f0f0f0; border-top:windowtext 1pt solid; vertical-align:top; width:160.6pt">
-			<p><strong>350</strong></p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:160.65pt">
-			<p><strong>351</strong></p>
+			<td colspan="3" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:460.6pt">
+			<p>Salarisschalen klasse 23 jaar</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:#f0f0f0; border-top:windowtext 1pt solid; vertical-align:top; width:160.6pt">
-			<p>19 798,30 - 32 279,62</p>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.5pt">
+			<p>339</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.55pt">
+			<p>350</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.55pt">
+			<p>351</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.5pt">
+			<p>19.798,30 – 32.279,62</p>
 
 			<p>1/2 x 725,66</p>
 
-			<p>1/2 x 1 813,99</p>
+			<p>1/2 x 1.813,99</p>
 
 			<p>4/2 x 725,66</p>
 
@@ -22935,12 +23386,12 @@ De salarisschalen van de personeelsleden niet bedoeld onder de delen I en II wor
 
 			<p>1/2 x 623,98</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:#f0f0f0; border-top:windowtext 1pt solid; vertical-align:top; width:160.6pt">
-			<p>27 112,74 - 39 681,68</p>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.55pt">
+			<p>27.112,74 – 39.681,68</p>
 
 			<p>1/2 x 740,22</p>
 
-			<p>1/2 x 1 828,59</p>
+			<p>1/2 x 1.828,59</p>
 
 			<p>4/2 x 740,22</p>
 
@@ -22950,12 +23401,12 @@ De salarisschalen van de personeelsleden niet bedoeld onder de delen I en II wor
 
 			<p>1/2 x 624,20</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:160.65pt">
-			<p>22 942,95 - 32 279,84</p>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.55pt">
+			<p>22.942,95 – 32.279,84</p>
 
 			<p>1/2 x 846,61</p>
 
-			<p>1/2 x 1 944,71</p>
+			<p>1/2 x 1.944,71</p>
 
 			<p>7/2 x 863,52</p>
 
@@ -22963,93 +23414,93 @@ De salarisschalen van de personeelsleden niet bedoeld onder de delen I en II wor
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:#f0f0f0; border-top:windowtext 1pt solid; vertical-align:top; width:160.6pt">
-			<p><strong>388</strong></p>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.5pt">
+			<p>388</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:#f0f0f0; border-top:windowtext 1pt solid; vertical-align:top; width:160.6pt">
-			<p><strong>392</strong></p>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.55pt">
+			<p>392</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:160.65pt">
-			<p><strong>393</strong></p>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.55pt">
+			<p>393</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:#f0f0f0; border-top:windowtext 1pt solid; vertical-align:top; width:160.6pt">
-			<p>20 693,29 - 31 623,53</p>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.5pt">
+			<p>20.693,29 – 31.623,53</p>
 
-			<p>1/2 x 1 079,47</p>
+			<p>1/2 x 1.079,47</p>
 
-			<p>1/2 x 2 440,17</p>
+			<p>1/2 x 2.440,17</p>
 
-			<p>3/2 x 1 079,47</p>
+			<p>3/2 x 1.079,47</p>
 
 			<p>4/2 x 925,11</p>
 
 			<p>1/2 x 471,75</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:#f0f0f0; border-top:windowtext 1pt solid; vertical-align:top; width:160.6pt">
-			<p>19 762,52 - 37 062,14</p>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.55pt">
+			<p>19.762,52 – 37.062,14</p>
 
-			<p>1/2 x 1 657,42</p>
+			<p>1/2 x 1.657,42</p>
 
-			<p>1/2 x 2 745,78</p>
+			<p>1/2 x 2.745,78</p>
 
-			<p>7/2 x 1 657,42</p>
+			<p>7/2 x 1.657,42</p>
 
-			<p>1/2 x 1 294,48</p>
+			<p>1/2 x 1.294,48</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:160.65pt">
-			<p>17 393,98 - 32 328,18</p>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.55pt">
+			<p>17.393,98 – 32.328,18</p>
 
-			<p>1/2 x 1 422,30</p>
+			<p>1/2 x 1.422,30</p>
 
-			<p>1/2 x 2 510,77</p>
+			<p>1/2 x 2.510,77</p>
 
-			<p>7/2 x 1 422,30</p>
+			<p>7/2 x 1.422,30</p>
 
-			<p>1/2 x 1 045,03</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:#f0f0f0; border-top:windowtext 1pt solid; vertical-align:top; width:160.6pt">
-			<p><strong>394</strong></p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:#f0f0f0; border-top:windowtext 1pt solid; vertical-align:top; width:160.6pt">
-			<p><strong>395</strong></p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:160.65pt">
-			<p><strong>396</strong></p>
+			<p>1/2 x 1.045,03</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:#f0f0f0; border-top:windowtext 1pt solid; vertical-align:top; width:160.6pt">
-			<p>14 839,74 - 22 096,07</p>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.5pt">
+			<p>394</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.55pt">
+			<p>395</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.55pt">
+			<p>396</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.5pt">
+			<p>14.839,74 – 22.096,07</p>
 
 			<p>1/2 x 725,59</p>
 
-			<p>1/2 x 1 814,30</p>
+			<p>1/2 x 1.814,30</p>
 
 			<p>6/2 x 725,59</p>
 
 			<p>1/2 x 362,90</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:#f0f0f0; border-top:windowtext 1pt solid; vertical-align:top; width:160.6pt">
-			<p>17 621,34 - 24 877,67</p>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.55pt">
+			<p>17.621,34 – 24.877,67</p>
 
 			<p>1/2 x 725,59</p>
 
-			<p>1/2 x 1 814,30</p>
+			<p>1/2 x 1.814,30</p>
 
 			<p>6/2 x 725,59</p>
 
 			<p>1/2 x 362,90</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:160.65pt">
-			<p>21 007,70 - 28 331,79</p>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.55pt">
+			<p>21.007,70 – 28.331,79</p>
 
 			<p>1/2 x 725,66</p>
 
-			<p>1/2 x 1 813,99</p>
+			<p>1/2 x 1.813,99</p>
 
 			<p>2/2 x 725,66</p>
 
@@ -23061,67 +23512,67 @@ De salarisschalen van de personeelsleden niet bedoeld onder de delen I en II wor
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:#f0f0f0; border-top:windowtext 1pt solid; vertical-align:top; width:160.6pt">
-			<p><strong>397</strong></p>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.5pt">
+			<p>397</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:#f0f0f0; border-top:windowtext 1pt solid; vertical-align:top; width:160.6pt">
-			<p><strong>933</strong></p>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.55pt">
+			<p>933</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:160.65pt">
-			<p><strong>934</strong></p>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.55pt">
+			<p>934</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:#f0f0f0; border-top:windowtext 1pt solid; vertical-align:top; width:160.6pt">
-			<p>28 099,81 - 35 486,96</p>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.5pt">
+			<p>28.099,81 – 35.486,96</p>
 
 			<p>1/2 x 740,14</p>
 
-			<p>1/2 x 1 828,72</p>
+			<p>1/2 x 1.828,72</p>
 
 			<p>6/2 x 740,14</p>
 
 			<p>1/2 x 377,45</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:#f0f0f0; border-top:windowtext 1pt solid; vertical-align:top; width:160.6pt">
-			<p>18 230,97 - 24 877,98</p>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.55pt">
+			<p>18.230,97 – 24.877,98</p>
 
 			<p>1/2 x 740,14</p>
 
-			<p>1/2 x 1 828,72</p>
+			<p>1/2 x 1.828,72</p>
 
 			<p>5/2 x 740,14</p>
 
 			<p>1/2 x 377,45</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:160.65pt">
-			<p>15 647,79 - 24 877,91</p>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.55pt">
+			<p>15.647,79 – 24.877,91</p>
 
 			<p>1/2 x 740,14</p>
 
-			<p>1/2 x 1 828,72</p>
+			<p>1/2 x 1.828,72</p>
 
 			<p>9/2 x 740,14</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:#f0f0f0; border-top:windowtext 1pt solid; vertical-align:top; width:160.6pt">
-			<p><strong>937</strong></p>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.5pt">
+			<p>937</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:#f0f0f0; border-top:windowtext 1pt solid; vertical-align:top; width:160.6pt">
-			<p><strong>&nbsp;</strong></p>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.55pt">
+			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:windowtext 1pt solid; vertical-align:top; width:160.65pt">
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.55pt">
 			<p>&nbsp;</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:#f0f0f0; border-top:windowtext 1pt solid; vertical-align:top; width:160.6pt">
-			<p>16 997,22 - 25 741,50</p>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.5pt">
+			<p>16.997,22 – 25.741,50</p>
 
 			<p>1/2 x 863,59</p>
 
-			<p>1/2 x 1 952,11</p>
+			<p>1/2 x 1.952,11</p>
 
 			<p>3/2 x 863,59</p>
 
@@ -23129,52 +23580,50 @@ De salarisschalen van de personeelsleden niet bedoeld onder de delen I en II wor
 
 			<p>1/2 x 377,25</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:#f0f0f0; border-top:#f0f0f0; vertical-align:top; width:160.6pt">
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; vertical-align:top; width:160.65pt">
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.55pt">
 			<p>&nbsp;</p>
 			</td>
 		</tr>
-	</tbody>
-</table>
-
-<p>&nbsp;</p>
-
-<p>&nbsp;</p>
-
-<p>Salarisschalen klasse 24 jaar</p>
-
-<p>&nbsp;</p>
-
-<table border="0" cellpadding="0" cellspacing="0" style="border-collapse:collapse">
-	<tbody>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:#f0f0f0; border-top:windowtext 1pt solid; vertical-align:top; width:240.95pt">
-			<p><strong>547</strong></p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:240.95pt">
-			<p><strong>548</strong></p>
+			<td colspan="3" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:460.6pt">
+			<p>Salarisschalen klasse 24 jaar</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:#f0f0f0; border-top:windowtext 1pt solid; vertical-align:top; width:240.95pt">
-			<p>37 603,44 - 52 166,92</p>
-
-			<p>10/2 x 1 356,97</p>
-
-			<p>1/2 x 993,78</p>
-
-			<p>Voor de periodieke verhogingen tellen de in aanmer­king komende diensten enkel mee vanaf de leeftijd van 25 jaar</p>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.5pt">
+			<p>547</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:240.95pt">
-			<p>41 674,52 - 52 167,09</p>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.55pt">
+			<p>548</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; vertical-align:top; width:153.55pt">
+			<p>&nbsp;</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.5pt">
+			<p>37.603,44 – 52.166,92</p>
 
-			<p>7/2 x 1 356,97</p>
+			<p>10/2 x 1.356,97</p>
 
 			<p>1/2 x 993,78</p>
 
-			<p>Voor de periodieke verhogingen tellen de in aanmer­king komende diensten enkel mee vanaf de leeftijd van 25 jaar</p>
+			<p>Voor de periodieke verhogingen tellen de in aanmerking komende diensten enkel mee vanaf de leeftijd van 25 jaar</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.55pt">
+			<p>41.674,52 – 52.167,09</p>
+
+			<p>7/2 x 1.356,97</p>
+
+			<p>1/2 x 993,78</p>
+
+			<p>Voor de periodieke verhogingen tellen de in aanmerking komende diensten enkel mee vanaf de leeftijd van 25 jaar</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; vertical-align:top; width:153.55pt">
+			<p>&nbsp;</p>
 			</td>
 		</tr>
 	</tbody>
