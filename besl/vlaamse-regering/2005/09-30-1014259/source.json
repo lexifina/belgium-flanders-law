@@ -2,16 +2,16 @@
   "codex_id": 1014259,
   "title": "Besluit van de Vlaamse Regering van 2005-09-30 betreffende de toekenning van een [niet-verworven salarisschaal] aan personeelsleden die houder zijn van een getuigschrift of diploma buitengewoon onderwijs",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1014259/VolledigDocument?datum=2006-06-01",
-  "source_sha256": "0a4058801f6eb2c39b21396e3d0944ed1c7519b59aae21c5f333abfe23daf38d",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1014259/VolledigDocument?datum=2006-09-01",
+  "source_sha256": "855eb550e7dbe57a6f516d5d1afe41014312d01120c63ab42ce8e005cc2aa407",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1014259&param=informatie",
-  "as_of": "2006-06-01",
+  "as_of": "2006-09-01",
   "made": "2005-09-30",
   "gazette": "2006-02-10",
   "numac": 2006035136,
   "document_start": "2005-09-01",
   "document_end": null,
-  "in_force": "2006-06-01",
+  "in_force": "2006-09-01",
   "article_versions": 8,
-  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2006-09-01; future article versions excluded; article text as the API gives it"
 }
