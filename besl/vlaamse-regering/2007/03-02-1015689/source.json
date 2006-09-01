@@ -1,0 +1,17 @@
+{
+  "codex_id": 1015689,
+  "title": "Besluit van de Vlaamse Regering van 2007-03-02 betreffende de uitreiking van premies voor het schooljaar 2006-2007 aan leerlingen in bepaalde studierichtingen van het eerste leerjaar van de tweede graad van het secundair onderwijs die leiden naar tewerkstelling binnen de horecasector",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1015689/VolledigDocument?datum=2006-09-01",
+  "source_sha256": "d8c6e329f96d0938afd8285ad1cb7b2298673e89ef686a94e8bd4303489fb141",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1015689&param=informatie",
+  "as_of": "2006-09-01",
+  "made": "2007-03-02",
+  "gazette": "2007-04-05",
+  "numac": 2007035490,
+  "document_start": "2006-09-01",
+  "document_end": null,
+  "in_force": "2006-09-01",
+  "article_versions": 9,
+  "record_form": "consolidated version as in force on 2006-09-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
