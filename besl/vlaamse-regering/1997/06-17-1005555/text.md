@@ -8,7 +8,7 @@ Dit besluit is van toepassing op het gewoon basisonderwijs, gefinancierd of gesu
 
 ### ART. 2.
 
-Voor de toepassing van dit besluit wordt verstaan onder:<br />1° ...<br />2° anderstalige nieuwkomer: leerling van vijf jaar of ouder die op de datum van de inschrijving gelijktijdig aan volgende voorwaarden voldoet:<br />a) niet in het bezit is van de Belgische of Nederlandse nationaliteit;<br />b) niet het Nederlands als moedertaal heeft;<br />c) geen volledig schooljaar onderwijs heeft gevolgd in een school met het Nederlands als onderwijstaal;<br />d) onvoldoende de onderwijstaal Nederlands beheerst om met een goed gevolg de lessen te kunnen volgen.<br />Op de voorwaarde vermeld onder a) en c) kan de Vlaamse minister bevoegd voor Onderwijs een afwijking verlenen.<br />Voor de voorwaarde vermeld onder c) kan dit voor de leerlingen die reeds een schooljaar onderwijs gevolgd hebben in een school die tijdens dat schooljaar geen aanvullende lestijden voor de opvang van anderstalige nieuwkomers gefinancierd of gesubsidieerd kreeg; <br />3° ...<br />4° cursus: minimum twee tot maximum drie lestijden bestemd voor één van de erkende godsdiensten, niet-confessionele zedenleer of cultuurbeschouwing;<br />5° decreet: het decreet betreffende het basisonderwijs van 25 februari 1997;<br />6° ...<br />7° leerling: leerling die voldoet aan de bepalingen van de artikelen 20 en 21 van het decreet of daar op grond van artikel 23 of 24 van afwijkt;<br />8° minister: de Vlaamse minister bevoegd voor Onderwijs;<br />8°bis onthaalonderwijs: onderwijs aan anderstalige nieuwkomers ter bevordering van hun taalvaardigheid Nederlands en ter bevordering van hun sociale integratie; <br />9° ...<br />9°bis. Rand- en taalgrensgemeenten: de gemeenten van het Vlaamse Gewest, genoemd in artikel 3, 1°, van de wet van 30 juli 1963 houdende taalregeling in het onderwijs, en de gemeenten van het Vlaamse Gewest, genoemd in artikel 7 van de wetten op het gebruik van de talen in bestuurszaken, gecoördineerd op 18 juli 1966;<br />10° teldag: dag waarop de leerlingen, met toepassing van het decreet moeten worden geteld;<br />11° telperiode: periode gedurende dewelke leerlingen, met toepassing van het decreet moeten worden geteld;<br />12° vrijwillige fusie:<br />- fusie tussen twee of meerdere scholen waarbij in geen van de betrokken scholen wijzigingen aangebracht worden in het onderwijsaanbod, noch op het vlak van vestigingsplaatsen, noch op het vlak van de onderwijsniveaus;<br />- fusie tussen twee of meer scholen waarbij tegelijk in één of meerdere van de scholen in kwestie het onderwijsaanbod op het vlak van het aantal vestigingsplaatsen en/of op het vlak van de onderwijsniveaus wordt gewijzigd zonder dat vestigingsplaatsen afgestaan of overgenomen mogen worden.
+Voor de toepassing van dit besluit wordt verstaan onder:<br />1° ...<br />2° anderstalige nieuwkomer : leerling die ten laatste op 31 december van het lopende schooljaar vijf jaar of ouder is en die op de dag van inschrijving of op 1 september volgend op de inschrijving gelijktijdig aan volgende voorwaarden voldoet :<br />a) een nieuwkomer zijn, dat wil zeggen maximaal één jaar ononderbroken in België verblijven;<br />b) niet het Nederlands als thuistaal of moedertaal hebben;<br />c) onvoldoende de onderwijstaal beheersen om met goed gevolg de lessen te kunnen volgen;<br />d) maximaal negen maanden ingeschreven zijn (vakantiemaanden juli en augustus niet inbegrepen) in een school met het Nederlands als onderwijstaal.<br />Het beantwoorden aan de voorwaarden, vermeld in punt a), en b), wordt bewezen aan de hand van een verklaring op eer van de ouders. Met deze verklaring op eer wordt voor het beantwoorden aan de voorwaarde, vermeld in punt a) echter geen rekening gehouden, wanneer in het inschrijvings- of het leerlingendossier documenten aanwezig zijn die deze verklaring tegenspreken.<br />De verklaringen die aantonen dat anderstalige nieuwkomers beantwoorden aan de voorwaarden worden ten minste vijf jaar bewaard in de school en dienen eventueel ter verificatie worden voorgelegd; <br />3° ...<br />4° cursus: minimum twee tot maximum drie lestijden bestemd voor één van de erkende godsdiensten, niet-confessionele zedenleer of cultuurbeschouwing;<br />5° decreet: het decreet betreffende het basisonderwijs van 25 februari 1997;<br />5°bis : gewezen anderstalige nieuwkomer : leerling die op 1 oktober van het lopende schooljaar in het voorgaande schooljaar een anderstalige nieuwkomer was en onthaalonderwijs heeft genoten; <br />6° ...<br />7° leerling: leerling die voldoet aan de bepalingen van de artikelen 20 en 21 van het decreet of daar op grond van artikel 23 of 24 van afwijkt;<br />8° minister: de Vlaamse minister bevoegd voor Onderwijs;<br />8°bis onthaalonderwijs: onderwijs aan anderstalige nieuwkomers ter bevordering van hun taalvaardigheid Nederlands en ter bevordering van hun sociale integratie. Onthaalonderwijs kan bestaan uit twee periodes :<br />a) een onthaaljaar met aanbieding van een taalbad Nederlands aan de anderstalige nieuwkomer;<br />b) een vervolgjaar in de vorm van ondersteuning, begeleiding en opvolging van de gewezen anderstalige nieuwkomer.<br />9° ...<br />9°bis. Rand- en taalgrensgemeenten: de gemeenten van het Vlaamse Gewest, genoemd in artikel 3, 1°, van de wet van 30 juli 1963 houdende taalregeling in het onderwijs, en de gemeenten van het Vlaamse Gewest, genoemd in artikel 7 van de wetten op het gebruik van de talen in bestuurszaken, gecoördineerd op 18 juli 1966; <br />10° teldag: dag waarop de leerlingen, met toepassing van het decreet moeten worden geteld;<br />11° telperiode: periode gedurende dewelke leerlingen, met toepassing van het decreet moeten worden geteld;<br />12° vrijwillige fusie:<br />- fusie tussen twee of meerdere scholen waarbij in geen van de betrokken scholen wijzigingen aangebracht worden in het onderwijsaanbod, noch op het vlak van vestigingsplaatsen, noch op het vlak van de onderwijsniveaus;<br />- fusie tussen twee of meer scholen waarbij tegelijk in één of meerdere van de scholen in kwestie het onderwijsaanbod op het vlak van het aantal vestigingsplaatsen en/of op het vlak van de onderwijsniveaus wordt gewijzigd zonder dat vestigingsplaatsen afgestaan of overgenomen mogen worden.
 
 ## HOOFDSTUK II DIRECTIE
 
@@ -205,7 +205,15 @@ De minder gevolgde cursussen worden op dezelfde wijze georganiseerd als de meest
 
 ### ART. 22.
 
-[§ 1. Het aantal aanvullende lestijden voor de opvang van anderstalige nieuwkomers wordt voor au-tonome kleuterscholen met slechts één vestigingsplaats of voor autonome lagere scholen met slechts één vestigingsplaats per school als volgt bepaald:<br /><br />1° zodra in de loop van het schooljaar ten minste vier anderstalige nieuwkomers ingeschreven zijn, worden twee aanvullen-de lestijden gefinancierd of gesubsidieerd en bijkomend 1,5 aanvullende lestijden per anderstalige nieuwkomer;<br /><br />2° bij reële stijging van vier anderstalige nieuwkomers worden bijkomend 1,5 lestijden per anderstalige nieuwkomer gefinancierd of gesubsidieerd;<br /><br />3° zodra bij daling minder dan twee anderstalige nieuwkomers zijn ingeschreven, worden de aanvullende lestijden niet lan-ger gefinancierd of gesubsidieerd.<br /><br />§ 2. Het aantal aanvullende lestijden voor de opvang van anderstalige nieuwkomers wordt voor alle andere scholen per school als volgt bepaald:<br /><br />1° zodra in de loop van het schooljaar ten minste zes anderstalige nieuwkomers ingeschreven zijn, worden twee aanvullen-de lestijden gefinancierd of gesubsidieerd en bijkomend 1,5 aanvullende lestijden per anderstalige nieuwkomer;<br /><br />2° bij reële stijging van vier anderstalige nieuwkomers worden bijkomend 1,5 lestijden per anderstalige nieuwkomer gefinancierd of gesubsidieerd;<br /><br />3° zodra bij daling minder dan twee anderstalige nieuwkomers zijn ingeschreven, worden de aanvullende lestijden niet lan-ger gefinancierd of gesubsidieerd.<br /><br />§ 3. De in § 1 en § 2 bedoelde aanvullende lestijden worden uitsluitend aangewend voor de opvang van anderstalige nieuwkomers.  <span class="reference">(verv. B.V.R. 11 januari 2002, art. 9, I: 1 september 2001)</span> ]
+§ 1. Het aantal aanvullende lestijden voor de opvang van anderstalige nieuwkomers wordt voor au-tonome kleuterscholen met slechts één vestigingsplaats of voor autonome lagere scholen met slechts één vestigingsplaats per school als volgt bepaald:<br />1° zodra in de loop van het schooljaar ten minste vier anderstalige nieuwkomers ingeschreven zijn, worden twee aanvullen-de lestijden gefinancierd of gesubsidieerd en bijkomend 1,5 aanvullende lestijden per anderstalige nieuwkomer;<br />2° bij reële stijging van vier anderstalige nieuwkomers worden bijkomend 1,5 lestijden per anderstalige nieuwkomer gefinancierd of gesubsidieerd;<br />3° zodra bij daling minder dan twee anderstalige nieuwkomers zijn ingeschreven, worden de aanvullende lestijden niet lan-ger gefinancierd of gesubsidieerd.<br /><br />§ 2. Het aantal aanvullende lestijden voor de opvang van anderstalige nieuwkomers wordt voor alle andere scholen per school als volgt bepaald:<br />1° zodra in de loop van het schooljaar ten minste zes anderstalige nieuwkomers ingeschreven zijn, worden twee aanvullen-de lestijden gefinancierd of gesubsidieerd en bijkomend 1,5 aanvullende lestijden per anderstalige nieuwkomer;<br />2° bij reële stijging van vier anderstalige nieuwkomers worden bijkomend 1,5 lestijden per anderstalige nieuwkomer gefinancierd of gesubsidieerd;<br />3° zodra bij daling minder dan twee anderstalige nieuwkomers zijn ingeschreven, worden de aanvullende lestijden niet lan-ger gefinancierd of gesubsidieerd.<br /><br />§ 3 In afwijking van § 1 en § 2 kunnen aan de scholen binnen een scholengemeenschap aanvullende lestijden voor anderstalige nieuwkomers worden toegekend.<br /><br />Het aantal aanvullende lestijden voor de opvang van anderstalige nieuwkomers per scholengemeenschap basisonderwijs wordt per school met één of meer anderstalige nieuwkomers als volgt bepaald :<br />1° zodra in de loop van het schooljaar ten minste twaalf anderstalige nieuwkomers ingeschreven zijn in alle scholen van de scholengemeenschap samen, worden 1,5 aanvullende lestijden per anderstalige nieuwkomer gefinancierd of gesubsidieerd;<br />2° bij reële stijging met vier anderstalige nieuwkomers worden bijkomend 1,5 aanvullende lestijden per anderstalige nieuwkomer gefinancierd of gesubsidieerd;<br />3° zodra bij daling minder dan vier anderstalige nieuwkomers zijn ingeschreven, worden de aanvullende lestijden niet langer gefinancierd of gesubsidieerd.
+
+### ART. 22bis.
+
+§ 1. Tijdens het vervolgjaar, vermeld in artikel 2, 8°bis, b), worden voor de gewezen anderstalige nieuwkomers aanvullende lestijden toegekend.<br /><br />§ 2. Het aantal aanvullende lestijden dat wordt toegekend is gelijk aan één per gewezen anderstalige nieuwkomer die ingeschreven is op de teldag van de eerste schooldag van oktober van het lopende schooljaar.
+
+### ART. 22ter.
+
+De aanvullende lestijden, vermeld in artikel 22 en 22bis, worden uitsluitend aangewend voor de opvang, ondersteuning en begeleiding van anderstalige nieuwkomers en gewezen anderstalige nieuwkomers.
 
 ## [ONDERAFDELING 3 AANVULLENDE LESTIJDEN VOOR LICHAMELIJKE OPVOEDING IN HET KLEUTERONDERWIJS (ing. BVR 5 december 2003, art. 2)]
 
@@ -288,58 +296,15 @@ Uit de aanvullende lestijden kunnen de volgende betrekkingen worden geput:<br />
 
 ### ART. 23octies.
 
-Met toepassing van artikel 171, § 3, van het decreet worden aan de Nederlandstalige scholen in de rand- en taalgrensgemeenten wekelijks aanvullend bij de lestijden volgens de schalen, lestijden voor de integratie van de anderstalige leerlingen gefinancierd of gesubsidieerd.  <span class="reference">(ing. B.V.R. 20 januari 2006, art. 2, I: 1 september 2005)</span> ]
+...
 
 ### ART. 23novies.
 
-<p>§ 1. Het aantal aanvullende lestijden wordt per school berekend op grond van het totaal aantal op de teldag ingeschreven regelmatige leerlingen volgens onderstaande tabel:<br>
-<br>
-</p>
-
-<table border="1" cellpadding="0" cellspacing="0" style="border-collapse:collapse">
-	<tbody>
-		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:230.3pt">
-			<p>Aantal leerlingen</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:230.3pt">
-			<p>Aantal aanvullende lestijden</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
-			<p>1 – 89</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
-			<p>6</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
-			<p>90 – 149</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
-			<p>12</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
-			<p>150 en meer</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
-			<p>18</p>
-			</td>
-		</tr>
-	</tbody>
-</table>
-
-<p>&nbsp;</p>
-
-<p>§ 2. De krachtens § 1 verkregen aanvullende lestijden mogen vrij verdeeld worden over alle leerlingengroepen van de school. (ing. B.V.R. 20 januari 2006, art. 2, I: 1 september 2005) ]</p>
+...
 
 ### ART. 23decies.
 
-23decies. Uit de aanvullende lestijden kunnen de volgende betrekkingen worden geput:<br /><br />1° het ambt van kleuteronderwijzer;<br /><br />2° het ambt van onderwijzer.  <span class="reference">(ing. B.V.R. 20 januari 2006, art. 2, I: 1 september 2005)</span> ]
+...
 
 ## [AFDELING B/1. AANWENDING VAN LESTIJDEN OM EEN GASTLERAAR IN TE ZETTEN (ing. BVR 15 september 2023, art. 18, I: 1 september 2023)]
 
