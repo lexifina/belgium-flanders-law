@@ -330,7 +330,7 @@ De bepalingen van dit hoofdstuk treden in werking op 1 september 2005.
 
 ### ART. VII.20.
 
-De bepalingen van dit hoofdstuk treden in werking op 1 september 2005, met uitzondering van artikelen VII.4, VII.5, VII.9, VII.13, 2°, en VII.17 die uitwerking hebben met ingang van 1 juni 2005.
+De bepalingen van dit hoofdstuk treden in werking op 1 september 2005, met uitzondering van artikelen VII.4, VII.5, VII.9, VII. 14, 2°, en VII. 18 die uitwerking hebben met ingang van 1 juni 2005.
 
 ## HOOFDSTUK VIII Decreet houdende dringende bepalingen betreffende het lerarenambt
 
