@@ -1,0 +1,17 @@
+{
+  "codex_id": 1014661,
+  "title": "Decreet van 2006-06-02 tot bekrachtiging van de decretale specifieke eindtermen « topsport » algemeen en technisch secundair onderwijs",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1014661/VolledigDocument?datum=2006-09-01",
+  "source_sha256": "64c5990404787dee9aeb3b724b100f10095bb48d14565d1bfbc21967f5e0fb51",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1014661&param=informatie",
+  "as_of": "2006-09-01",
+  "made": "2006-06-02",
+  "gazette": "2006-07-13",
+  "numac": 2006036043,
+  "document_start": "2006-09-01",
+  "document_end": null,
+  "in_force": "2006-09-01",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2006-09-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
