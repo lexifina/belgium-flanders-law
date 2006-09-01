@@ -36,6 +36,10 @@ Het inschrijvingsgeld om deel te nemen aan de examens bedraagt 15 euro.
 
 Het programma en de organisatie van de zittijden van de examencommissie worden bepaald door de Vlaamse minister, bevoegd voor het onderwijs.
 
+### ART. 9.
+
+De volgende bedragen worden toegekend als presentiegeld :<br />1° aan elke voorzitter en plaatsvervangende voorzitter :<br />a) 6 euro per zitdag van 6 of 7 uur;<br />b) 8 euro per zitdag van 8 uur of meer;<br />2° aan elk werkend en plaatsvervangend lid :<br />a) 4 euro per zitdag van 6 of 7 uur;<br />b) 6 euro per zitdag van 8 uur of meer.<br /><br />Onder zitdag wordt verstaan : iedere dag waarop de noodzakelijke activiteiten met betrekking tot de feitelijke examens worden uitgevoerd.
+
 ### ART. 10.
 
 Het besluit van de Vlaamse Regering van 9 oktober 1991 houdende inrichting van de examencommissie van de Vlaamse Gemeenschap voor het voltijds secundair onderwijs, gewijzigd bij de besluiten van de Vlaamse Regering van 27 januari 1993, 30 mei 1996, 7 september 1999, 31 augustus 2001, 5 maart 2004 en 25 juni 2004, wordt opgeheven met ingang van 1 januari 2006, met uitzondering van artikel 9 dat opgeheven wordt met ingang van 1 september 2006.
