@@ -36,7 +36,7 @@ De centra voor ontwikkelingsstoornissen berichten het Fonds wanneer zij werken m
 
 ### ART. 6.
 
-[Een erkenning als centrum voor ontwikkelingsstoornissen kan enkel worden verleend voorzover de programmatienorm niet wordt overschreden en indien het centrum:<br /><br />1° een ontvankelijke aanvraag heeft ingediend;<br /><br />2° voldoet aan de erkenningsvoorwaarden, bedoeld in afdeling 1.<br /><br />De programmatienorm wordt bepaald op [3722  <span class="reference">(verv. B.V.R. 17 december 2004, art. 3, I: 1 januari 2005)</span> ] multidisciplinaire onderzoeken als maximum totale erkende capaciteit.  <span class="reference">(verv. B.V.R. 17 juli 2000, art. 5, I: 1 januari 2000)</span> ]
+Een erkenning als centrum voor ontwikkelingsstoornissen kan enkel worden verleend voorzover de programmatienorm niet wordt overschreden en indien het centrum:<br />1° een ontvankelijke aanvraag heeft ingediend;<br />2° voldoet aan de erkenningsvoorwaarden, bedoeld in afdeling 1.<br /><br />De programmatienorm wordt bepaald op 4 022 multidisciplinaire onderzoeken als maximum totale erkende capaciteit.
 
 ### ART. 7.
 
