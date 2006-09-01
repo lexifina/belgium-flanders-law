@@ -1,0 +1,17 @@
+{
+  "codex_id": 1015189,
+  "title": "Besluit van de Vlaamse Regering van 2006-09-01 betreffende de toekenning van aanvullende lestijden voor de integratie van anderstaligen",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1015189/VolledigDocument?datum=2006-09-01",
+  "source_sha256": "07af63e11e101e85f615296b02cb7adf5f04694b4a268f2d763bf06a94b46e0d",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1015189&param=informatie",
+  "as_of": "2006-09-01",
+  "made": "2006-09-01",
+  "gazette": "2006-11-24",
+  "numac": 2006036678,
+  "document_start": "2006-09-01",
+  "document_end": null,
+  "in_force": "2006-09-01",
+  "article_versions": 13,
+  "record_form": "consolidated version as in force on 2006-09-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
