@@ -16,7 +16,7 @@ Dit besluit treedt in werking op 1 januari 2006, met uitzondering van hoofdstuk 
 
 ### BIJLAGE
 
-<p>Enige bijlage bij het ministerieel besluit van 6 januari 2006 houdende de goedkeuring van de handleiding zorgverzekering<br>
+Enige bijlage bij het ministerieel besluit van 6 januari 2006 houdende de goedkeuring van de handleiding zorgverzekering<br>
 <br>
 Noot: telkens in deze handleiding Brussel wordt vermeld, dient hieronder te worden verstaan het tweetalige gebied Brussel-Hoofdstad, zoals bedoeld in het decreet van 30 maart 1999 houdende de organisatie van de zorgverzekering en de bijhorende uitvoeringsbesluiten.<br>
 <br>
@@ -483,40 +483,39 @@ In de andere gevallen verandert een persoon van zorgkas door aan de nieuwe zorgk
 <br>
 * De nieuwe zorgkas kan ten vroegste op 25 november en ten laatste op 6 december een tekstbestand via mail aan het Vlaams Zorgfonds bezorgen dat per record volgende velden omvat.<br>
 <br>
-</p>
-
+Naam
 <table border="1" cellpadding="0" cellspacing="0" style="border-collapse:collapse">
 	<tbody>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:185.4pt">
+			<td style="border-color:black; border-style:solid; border-width:1.0pt; vertical-align:top; width:185.4pt">
 			<p>Naam</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:90pt">
+			<td style="border-color:black; border-left:none; border-style:solid; border-width:1.0pt; vertical-align:top; width:90.0pt">
 			<p>Veldlengte</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:185.2pt">
+			<td style="border-color:black; border-left:none; border-style:solid; border-width:1.0pt; vertical-align:top; width:185.2pt">
 			<p>Opmerkingen</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:185.4pt">
+			<td style="border-color:black; border-style:solid; border-top:none; border-width:1.0pt; vertical-align:top; width:185.4pt">
 			<p>Rijksregisternummer</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:90pt">
+			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; vertical-align:top; width:90.0pt">
 			<p>11</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:185.2pt">
+			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; vertical-align:top; width:185.2pt">
 			<p>&nbsp;</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:185.4pt">
+			<td style="border-color:black; border-style:solid; border-top:none; border-width:1.0pt; vertical-align:top; width:185.4pt">
 			<p>Code-nieuwe-zorgkas</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:90pt">
+			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; vertical-align:top; width:90.0pt">
 			<p>3</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:185.2pt">
+			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; vertical-align:top; width:185.2pt">
 			<p>&nbsp;</p>
 			</td>
 		</tr>
@@ -524,58 +523,56 @@ In de andere gevallen verandert een persoon van zorgkas door aan de nieuwe zorgk
 </table>
 
 <p>&nbsp;</p>
-
-<p>&nbsp;</p>
-
-<p>Dit bestand bevat alle via het mutatieformulier van de zorgverzekering aangevraagde mutaties en alle door mutualistische zorgkassen aan te vragen mutaties op basis van verandering van ziekenfonds.<br>
+<br>
+<br>
+Dit bestand bevat alle via het mutatieformulier van de zorgverzekering aangevraagde mutaties en alle door mutualistische zorgkassen aan te vragen mutaties op basis van verandering van ziekenfonds.<br>
 <br>
 * In voorkomend geval levert het Vlaams Zorgfonds dit tekstbestand via mail ten laatste op 10 december terug aan de nieuwe zorgkas aangevuld met de code van de afstaande zorgkas.<br>
 <br>
-</p>
-
+Naam
 <table border="1" cellpadding="0" cellspacing="0" style="border-collapse:collapse">
 	<tbody>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:185.4pt">
+			<td style="border-color:black; border-style:solid; border-width:1.0pt; vertical-align:top; width:185.4pt">
 			<p>Naam</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:90pt">
+			<td style="border-color:black; border-left:none; border-style:solid; border-width:1.0pt; vertical-align:top; width:90.0pt">
 			<p>Veldlengte</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:185.2pt">
+			<td style="border-color:black; border-left:none; border-style:solid; border-width:1.0pt; vertical-align:top; width:185.2pt">
 			<p>Opmerkingen</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:185.4pt">
+			<td style="border-color:black; border-style:solid; border-top:none; border-width:1.0pt; vertical-align:top; width:185.4pt">
 			<p>Rijksregisternummer</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:90pt">
+			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; vertical-align:top; width:90.0pt">
 			<p>11</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:185.2pt">
+			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; vertical-align:top; width:185.2pt">
 			<p>&nbsp;</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:185.4pt">
+			<td style="border-color:black; border-style:solid; border-top:none; border-width:1.0pt; vertical-align:top; width:185.4pt">
 			<p>Code-nieuwe-zorgkas</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:90pt">
+			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; vertical-align:top; width:90.0pt">
 			<p>3</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:185.2pt">
+			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; vertical-align:top; width:185.2pt">
 			<p>&nbsp;</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:185.4pt">
+			<td style="border-color:black; border-style:solid; border-top:none; border-width:1.0pt; vertical-align:top; width:185.4pt">
 			<p>Code-afstaande-zorgkas (volgens Zorgfonds)</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:90pt">
+			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; vertical-align:top; width:90.0pt">
 			<p>3</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:185.2pt">
+			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; vertical-align:top; width:185.2pt">
 			<p>&nbsp;</p>
 			</td>
 		</tr>
@@ -583,102 +580,100 @@ In de andere gevallen verandert een persoon van zorgkas door aan de nieuwe zorgk
 </table>
 
 <p>&nbsp;</p>
-
-<p>&nbsp;</p>
-
-<p>* Het Vlaams Zorgfonds bezorgt ten laatste op 10 december eveneens aan de vijf mutualistische zorgkassen een bestand van de personen die van een mutualistische zorgkas naar een niet-mutualistische zorgkas veranderen.<br>
+<br>
+<br>
+* Het Vlaams Zorgfonds bezorgt ten laatste op 10 december eveneens aan de vijf mutualistische zorgkassen een bestand van de personen die van een mutualistische zorgkas naar een niet-mutualistische zorgkas veranderen.<br>
 <br>
 * De nieuwe zorgkas levert via mail ten laatste op 15 december aan de hoofdzetel van de afstaande zorgkas één tekstbestand (meerdere bestanden en decentraal mag als zorgkassen dit onderling schriftelijk overeenkomen).<br>
 <br>
-</p>
-
+Naam
 <table border="1" cellpadding="0" cellspacing="0" style="border-collapse:collapse">
 	<tbody>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:185.4pt">
+			<td style="border-color:black; border-style:solid; border-width:1.0pt; vertical-align:top; width:185.4pt">
 			<p>Naam</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:90pt">
+			<td style="border-color:black; border-left:none; border-style:solid; border-width:1.0pt; vertical-align:top; width:90.0pt">
 			<p>Veldlengte</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:185.2pt">
+			<td style="border-color:black; border-left:none; border-style:solid; border-width:1.0pt; vertical-align:top; width:185.2pt">
 			<p>Opmerkingen</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:185.4pt">
+			<td style="border-color:black; border-style:solid; border-top:none; border-width:1.0pt; vertical-align:top; width:185.4pt">
 			<p>Rijksregisternummer</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:90pt">
+			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; vertical-align:top; width:90.0pt">
 			<p>11</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:185.2pt">
+			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; vertical-align:top; width:185.2pt">
 			<p>&nbsp;</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:185.4pt">
+			<td style="border-color:black; border-style:solid; border-top:none; border-width:1.0pt; vertical-align:top; width:185.4pt">
 			<p>Code-nieuwe-zorgkas</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:90pt">
+			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; vertical-align:top; width:90.0pt">
 			<p>3</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:185.2pt">
+			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; vertical-align:top; width:185.2pt">
 			<p>&nbsp;</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:185.4pt">
+			<td style="border-color:black; border-style:solid; border-top:none; border-width:1.0pt; vertical-align:top; width:185.4pt">
 			<p>Code-afstaande-zorgkas (volgens Zorgfonds)</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:90pt">
+			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; vertical-align:top; width:90.0pt">
 			<p>3</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:185.2pt">
+			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; vertical-align:top; width:185.2pt">
 			<p>&nbsp;</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:185.4pt">
+			<td style="border-color:black; border-style:solid; border-top:none; border-width:1.0pt; vertical-align:top; width:185.4pt">
 			<p>Afdeling-nieuwe-zorgkas</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:90pt">
+			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; vertical-align:top; width:90.0pt">
 			<p>3</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:185.2pt">
+			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; vertical-align:top; width:185.2pt">
 			<p>&nbsp;</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:185.4pt">
+			<td style="border-color:black; border-style:solid; border-top:none; border-width:1.0pt; vertical-align:top; width:185.4pt">
 			<p>Inschrijvingsnummer-nieuwe-zorgkas</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:90pt">
+			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; vertical-align:top; width:90.0pt">
 			<p>15</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:185.2pt">
+			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; vertical-align:top; width:185.2pt">
 			<p>facultatief</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:185.4pt">
+			<td style="border-color:black; border-style:solid; border-top:none; border-width:1.0pt; vertical-align:top; width:185.4pt">
 			<p>Naam</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:90pt">
+			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; vertical-align:top; width:90.0pt">
 			<p>48</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:185.2pt">
+			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; vertical-align:top; width:185.2pt">
 			<p>&nbsp;</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:185.4pt">
+			<td style="border-color:black; border-style:solid; border-top:none; border-width:1.0pt; vertical-align:top; width:185.4pt">
 			<p>Voornaam</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:90pt">
+			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; vertical-align:top; width:90.0pt">
 			<p>48</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:185.2pt">
+			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; vertical-align:top; width:185.2pt">
 			<p>&nbsp;</p>
 			</td>
 		</tr>
@@ -686,10 +681,9 @@ In de andere gevallen verandert een persoon van zorgkas door aan de nieuwe zorgk
 </table>
 
 <p>&nbsp;</p>
-
-<p>&nbsp;</p>
-
-<p>* De nieuwe zorgkas stuurt ten laatste op 20 december en aangetekend de originele mutatieformulieren van de personen die niet van een mutualistische zorgkas naar een mutualistische zorgkas veranderen, in één zending naar de hoofdzetel van de afstaande zorgkas (meerdere zendingen en decentraal mag als zorgkassen dit onderling schriftelijk overeenkomen). Deze formulieren mogen ook via koerier tegen afgiftebewijs bezorgd worden met dien verstande dat de koerier het pakket ten laatste op 20 december aflevert.<br>
+<br>
+<br>
+* De nieuwe zorgkas stuurt ten laatste op 20 december en aangetekend de originele mutatieformulieren van de personen die niet van een mutualistische zorgkas naar een mutualistische zorgkas veranderen, in één zending naar de hoofdzetel van de afstaande zorgkas (meerdere zendingen en decentraal mag als zorgkassen dit onderling schriftelijk overeenkomen). Deze formulieren mogen ook via koerier tegen afgiftebewijs bezorgd worden met dien verstande dat de koerier het pakket ten laatste op 20 december aflevert.<br>
 <br>
 * De afstaande zorgkas vult het tekstbestand aan met de noodzakelijke gegevens en stuurt ten laatste op 15 januari het aangevulde bestand via mail en waar nodig het papieren dossier per post naar de hoofdzetel van de nieuwe zorgkas. (meerdere bestanden en zendingen en decentraal mag als zorgkassen dit onderling schriftelijk overeenkomen).<br>
 <br>
@@ -699,271 +693,270 @@ Als het enkel de mutatie van een aangeslotene betreft, wordt via mail samen met 
 <br>
 Bij weigering van een mutatie door de afstaande zorgkas worden enkel de velden tot en met het veld afdeling afstaande "zorgkas" ingevuld:<br>
 <br>
-</p>
-
+Naam
 <table border="1" cellpadding="0" cellspacing="0" style="border-collapse:collapse">
 	<tbody>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:140.4pt">
+			<td style="border-color:black; border-style:solid; border-width:1.0pt; vertical-align:top; width:140.4pt">
 			<p>Naam</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:90pt">
+			<td style="border-color:black; border-left:none; border-style:solid; border-width:1.0pt; vertical-align:top; width:90.0pt">
 			<p>Veldlengte</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:230.2pt">
+			<td style="border-color:black; border-left:none; border-style:solid; border-width:1.0pt; vertical-align:top; width:230.2pt">
 			<p>Opmerkingen</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:140.4pt">
+			<td style="border-color:black; border-style:solid; border-top:none; border-width:1.0pt; vertical-align:top; width:140.4pt">
 			<p>Rijksregisternummer</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:90pt">
+			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; vertical-align:top; width:90.0pt">
 			<p>11</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.2pt">
+			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; vertical-align:top; width:230.2pt">
 			<p>&nbsp;</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:140.4pt">
+			<td style="border-color:black; border-style:solid; border-top:none; border-width:1.0pt; vertical-align:top; width:140.4pt">
 			<p>Code-nieuwe-zorgkas</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:90pt">
+			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; vertical-align:top; width:90.0pt">
 			<p>3</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.2pt">
+			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; vertical-align:top; width:230.2pt">
 			<p>&nbsp;</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:140.4pt">
+			<td style="border-color:black; border-style:solid; border-top:none; border-width:1.0pt; vertical-align:top; width:140.4pt">
 			<p>Code-afstaande-zorgkas (volgens Zorgfonds</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:90pt">
+			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; vertical-align:top; width:90.0pt">
 			<p>3</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.2pt">
+			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; vertical-align:top; width:230.2pt">
 			<p>&nbsp;</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:140.4pt">
+			<td style="border-color:black; border-style:solid; border-top:none; border-width:1.0pt; vertical-align:top; width:140.4pt">
 			<p>Afdeling-nieuwe-zorgkas</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:90pt">
+			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; vertical-align:top; width:90.0pt">
 			<p>3</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.2pt">
+			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; vertical-align:top; width:230.2pt">
 			<p>&nbsp;</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:140.4pt">
+			<td style="border-color:black; border-style:solid; border-top:none; border-width:1.0pt; vertical-align:top; width:140.4pt">
 			<p>Inschrijvingsnummer-nieuwe-zorgkas</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:90pt">
+			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; vertical-align:top; width:90.0pt">
 			<p>15</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.2pt">
+			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; vertical-align:top; width:230.2pt">
 			<p>facultatief</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:140.4pt">
+			<td style="border-color:black; border-style:solid; border-top:none; border-width:1.0pt; vertical-align:top; width:140.4pt">
 			<p>Naam</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:90pt">
+			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; vertical-align:top; width:90.0pt">
 			<p>48</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.2pt">
+			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; vertical-align:top; width:230.2pt">
 			<p>&nbsp;</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:140.4pt">
+			<td style="border-color:black; border-style:solid; border-top:none; border-width:1.0pt; vertical-align:top; width:140.4pt">
 			<p>Voornaam</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:90pt">
+			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; vertical-align:top; width:90.0pt">
 			<p>48</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.2pt">
+			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; vertical-align:top; width:230.2pt">
 			<p>&nbsp;</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:140.4pt">
+			<td style="border-color:black; border-style:solid; border-top:none; border-width:1.0pt; vertical-align:top; width:140.4pt">
 			<p>Straat-woonplaats</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:90pt">
+			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; vertical-align:top; width:90.0pt">
 			<p>32</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.2pt">
+			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; vertical-align:top; width:230.2pt">
 			<p>&nbsp;</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:140.4pt">
+			<td style="border-color:black; border-style:solid; border-top:none; border-width:1.0pt; vertical-align:top; width:140.4pt">
 			<p>Nummer-woonplaats</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:90pt">
+			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; vertical-align:top; width:90.0pt">
 			<p>9</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.2pt">
+			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; vertical-align:top; width:230.2pt">
 			<p>&nbsp;</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:140.4pt">
+			<td style="border-color:black; border-style:solid; border-top:none; border-width:1.0pt; vertical-align:top; width:140.4pt">
 			<p>Bus-woonplaats</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:90pt">
+			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; vertical-align:top; width:90.0pt">
 			<p>5</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.2pt">
+			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; vertical-align:top; width:230.2pt">
 			<p>&nbsp;</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:140.4pt">
+			<td style="border-color:black; border-style:solid; border-top:none; border-width:1.0pt; vertical-align:top; width:140.4pt">
 			<p>NIS-code-woonplaats</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:90pt">
+			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; vertical-align:top; width:90.0pt">
 			<p>5</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.2pt">
+			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; vertical-align:top; width:230.2pt">
 			<p>&nbsp;</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:140.4pt">
+			<td style="border-color:black; border-style:solid; border-top:none; border-width:1.0pt; vertical-align:top; width:140.4pt">
 			<p>Postcode-woonplaats</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:90pt">
+			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; vertical-align:top; width:90.0pt">
 			<p>5</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.2pt">
+			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; vertical-align:top; width:230.2pt">
 			<p>&nbsp;</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:140.4pt">
+			<td style="border-color:black; border-style:solid; border-top:none; border-width:1.0pt; vertical-align:top; width:140.4pt">
 			<p>Gemeente-woonplaats</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:90pt">
+			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; vertical-align:top; width:90.0pt">
 			<p>40</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.2pt">
+			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; vertical-align:top; width:230.2pt">
 			<p>&nbsp;</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:140.4pt">
+			<td style="border-color:black; border-style:solid; border-top:none; border-width:1.0pt; vertical-align:top; width:140.4pt">
 			<p>Straat-verblijfplaats</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:90pt">
+			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; vertical-align:top; width:90.0pt">
 			<p>32</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.2pt">
+			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; vertical-align:top; width:230.2pt">
 			<p>indien idem met “woonplaats” hoeft dit veld niet ingevuld te worden (blanco’s)</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:140.4pt">
+			<td style="border-color:black; border-style:solid; border-top:none; border-width:1.0pt; vertical-align:top; width:140.4pt">
 			<p>Nummer-verblijfplaats</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:90pt">
+			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; vertical-align:top; width:90.0pt">
 			<p>9</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.2pt">
+			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; vertical-align:top; width:230.2pt">
 			<p>indien idem met “woonplaats” hoeft dit veld niet ingevuld te worden (blanco’s)</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:140.4pt">
+			<td style="border-color:black; border-style:solid; border-top:none; border-width:1.0pt; vertical-align:top; width:140.4pt">
 			<p>Bus-verblijfplaats</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:90pt">
+			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; vertical-align:top; width:90.0pt">
 			<p>5</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.2pt">
+			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; vertical-align:top; width:230.2pt">
 			<p>indien idem met “woonplaats” hoeft dit veld niet ingevuld te worden (blanco’s)</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:140.4pt">
+			<td style="border-color:black; border-style:solid; border-top:none; border-width:1.0pt; vertical-align:top; width:140.4pt">
 			<p>NIS-code-verblijfplaats</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:90pt">
+			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; vertical-align:top; width:90.0pt">
 			<p>5</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.2pt">
+			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; vertical-align:top; width:230.2pt">
 			<p>indien idem met “woonplaats” hoeft dit veld niet ingevuld te worden (blanco’s)</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:140.4pt">
+			<td style="border-color:black; border-style:solid; border-top:none; border-width:1.0pt; vertical-align:top; width:140.4pt">
 			<p>Postcode-verblijfplaats</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:90pt">
+			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; vertical-align:top; width:90.0pt">
 			<p>5</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.2pt">
+			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; vertical-align:top; width:230.2pt">
 			<p>indien idem met “woonplaats” hoeft dit veld niet ingevuld te worden (blanco’s)</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:140.4pt">
+			<td style="border-color:black; border-style:solid; border-top:none; border-width:1.0pt; vertical-align:top; width:140.4pt">
 			<p>Gemeente-verblijfplaats</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:90pt">
+			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; vertical-align:top; width:90.0pt">
 			<p>40</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.2pt">
+			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; vertical-align:top; width:230.2pt">
 			<p>indien idem met “woonplaats” hoeft dit veld niet ingevuld te worden (blanco’s)</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:140.4pt">
+			<td style="border-color:black; border-style:solid; border-top:none; border-width:1.0pt; vertical-align:top; width:140.4pt">
 			<p>Geboortedatum</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:90pt">
+			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; vertical-align:top; width:90.0pt">
 			<p>8</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.2pt">
+			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; vertical-align:top; width:230.2pt">
 			<p>DDMMYYYY</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:140.4pt">
+			<td style="border-color:black; border-style:solid; border-top:none; border-width:1.0pt; vertical-align:top; width:140.4pt">
 			<p>Geslacht</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:90pt">
+			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; vertical-align:top; width:90.0pt">
 			<p>1</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.2pt">
+			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; vertical-align:top; width:230.2pt">
 			<p>M/V</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:140.4pt">
+			<td style="border-color:black; border-style:solid; border-top:none; border-width:1.0pt; vertical-align:top; width:140.4pt">
 			<p>Nationaliteit</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:90pt">
+			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; vertical-align:top; width:90.0pt">
 			<p>3</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.2pt">
+			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; vertical-align:top; width:230.2pt">
 			<p>Landscode (KSZ)</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:140.4pt">
+			<td style="border-color:black; border-style:solid; border-top:none; border-width:1.0pt; vertical-align:top; width:140.4pt">
 			<p>Weigering/acceptatie mutatie</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:90pt">
+			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; vertical-align:top; width:90.0pt">
 			<p>2</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.2pt">
+			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; vertical-align:top; width:230.2pt">
 			<p>01 mutatie aanvaard – dossier gesloten</p>
 
 			<p>02 rijksregisternummer foutief of blanco</p>
@@ -992,116 +985,116 @@ Bij weigering van een mutatie door de afstaande zorgkas worden enkel de velden t
 
 			<p>14 mag niet aansluiten bij zorgverzekering (Europa, niet ingeschreven in rijksregister, enz.)</p>
 
-			<p>15 datum aanvraag door lid ontbreekt op mutatieformulier&nbsp;&nbsp;&nbsp;</p>
+			<p>15 datum aanvraag door lid ontbreekt op mutatieformulier&nbsp; &nbsp;&nbsp;</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:140.4pt">
+			<td style="border-color:black; border-style:solid; border-top:none; border-width:1.0pt; vertical-align:top; width:140.4pt">
 			<p>Code-afstaande-zorgkas</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:90pt">
+			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; vertical-align:top; width:90.0pt">
 			<p>13</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.2pt">
+			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; vertical-align:top; width:230.2pt">
 			<p>&nbsp;</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:140.4pt">
+			<td style="border-color:black; border-style:solid; border-top:none; border-width:1.0pt; vertical-align:top; width:140.4pt">
 			<p>Afdeling-afstaande-zorgkas</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:90pt">
+			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; vertical-align:top; width:90.0pt">
 			<p>3</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.2pt">
+			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; vertical-align:top; width:230.2pt">
 			<p>&nbsp;</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:140.4pt">
+			<td style="border-color:black; border-style:solid; border-top:none; border-width:1.0pt; vertical-align:top; width:140.4pt">
 			<p>Inschrijvingsnummer-afstaande-zorgkas</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:90pt">
+			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; vertical-align:top; width:90.0pt">
 			<p>15</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.2pt">
+			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; vertical-align:top; width:230.2pt">
 			<p>&nbsp;</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:140.4pt">
+			<td style="border-color:black; border-style:solid; border-top:none; border-width:1.0pt; vertical-align:top; width:140.4pt">
 			<p>Schorsing-wachttijd</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:90pt">
+			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; vertical-align:top; width:90.0pt">
 			<p>3</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.2pt">
+			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; vertical-align:top; width:230.2pt">
 			<p>totaal aantal maanden opgelegde schorsing en/of wachttijd</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:140.4pt">
+			<td style="border-color:black; border-style:solid; border-top:none; border-width:1.0pt; vertical-align:top; width:140.4pt">
 			<p>Schorsing-wachttijd</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:90pt">
+			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; vertical-align:top; width:90.0pt">
 			<p>3</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.2pt">
+			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; vertical-align:top; width:230.2pt">
 			<p>aantal maanden resterende schorsing en/of wachttijd op einde december</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:140.4pt">
+			<td style="border-color:black; border-style:solid; border-top:none; border-width:1.0pt; vertical-align:top; width:140.4pt">
 			<p>Brussel-datum-start</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:90pt">
+			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; vertical-align:top; width:90.0pt">
 			<p>8</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.2pt">
+			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; vertical-align:top; width:230.2pt">
 			<p>DDMMYYYY, dit is datum start laatste ononderbroken aansluiting</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:140.4pt">
+			<td style="border-color:black; border-style:solid; border-top:none; border-width:1.0pt; vertical-align:top; width:140.4pt">
 			<p>Brussel-aantal-jaren-wachttijd</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:90pt">
+			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; vertical-align:top; width:90.0pt">
 			<p>2</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.2pt">
+			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; vertical-align:top; width:230.2pt">
 			<p>dit is 00, 01, 03, 05 of 10 jaar</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:140.4pt">
+			<td style="border-color:black; border-style:solid; border-top:none; border-width:1.0pt; vertical-align:top; width:140.4pt">
 			<p>Dossier-zorgbehoevendheid</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:90pt">
+			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; vertical-align:top; width:90.0pt">
 			<p>1</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.2pt">
+			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; vertical-align:top; width:230.2pt">
 			<p>J/N</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:140.4pt">
+			<td style="border-color:black; border-style:solid; border-top:none; border-width:1.0pt; vertical-align:top; width:140.4pt">
 			<p>Totaal-nog-verschuldigde-bijdragen</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:90pt">
+			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; vertical-align:top; width:90.0pt">
 			<p>4</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.2pt">
+			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; vertical-align:top; width:230.2pt">
 			<p>&nbsp;</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:140.4pt">
+			<td style="border-color:black; border-style:solid; border-top:none; border-width:1.0pt; vertical-align:top; width:140.4pt">
 			<p>Jaren-niet-betaald</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:90pt">
+			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; vertical-align:top; width:90.0pt">
 			<p>10 en opbouwend</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.2pt">
+			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; vertical-align:top; width:230.2pt">
 			<p>020305 enz.</p>
 			</td>
 		</tr>
@@ -1109,10 +1102,9 @@ Bij weigering van een mutatie door de afstaande zorgkas worden enkel de velden t
 </table>
 
 <p>&nbsp;</p>
-
-<p>&nbsp;</p>
-
-<p>Technische voorwaarden van de bestanden<br>
+<br>
+<br>
+Technische voorwaarden van de bestanden<br>
 <br>
 * het gaat om tekstbestanden;<br>
 <br>
@@ -1130,183 +1122,182 @@ Het volstaat de gegevens met betrekking tot de laatst genomen beslissing door de
 <br>
 Volgende elementen dienen uit het papieren dossier gehaald te kunnen worden:<br>
 <br>
-</p>
-
+Naam
 <table border="1" cellpadding="0" cellspacing="0" style="border-collapse:collapse">
 	<tbody>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:230.3pt">
+			<td style="border-color:black; border-style:solid; border-width:1.0pt; vertical-align:top; width:230.3pt">
 			<p>Naam</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:230.3pt">
+			<td style="border-color:black; border-left:none; border-style:solid; border-width:1.0pt; vertical-align:top; width:230.3pt">
 			<p>Opmerkingen</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<td style="border-color:black; border-style:solid; border-top:none; border-width:1.0pt; vertical-align:top; width:230.3pt">
 			<p>GKB nummer indicatiesteller</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; vertical-align:top; width:230.3pt">
 			<p>Cfr maatregelen ter inperking van shoppinggedrag</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<td style="border-color:black; border-style:solid; border-top:none; border-width:1.0pt; vertical-align:top; width:230.3pt">
 			<p>Datum indicatiestelling</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; vertical-align:top; width:230.3pt">
 			<p>Cfr maatregelen ter inperking van shoppinggedrag</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<td style="border-color:black; border-style:solid; border-top:none; border-width:1.0pt; vertical-align:top; width:230.3pt">
 			<p>Score indicatiestelling</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; vertical-align:top; width:230.3pt">
 			<p>&nbsp;</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<td style="border-color:black; border-style:solid; border-top:none; border-width:1.0pt; vertical-align:top; width:230.3pt">
 			<p>Code aanvraag, herziening of verlenging</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; vertical-align:top; width:230.3pt">
 			<p>Cfr B-string</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<td style="border-color:black; border-style:solid; border-top:none; border-width:1.0pt; vertical-align:top; width:230.3pt">
 			<p>Datum van de aanvraag, herziening of verlenging</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; vertical-align:top; width:230.3pt">
 			<p>Cfr B-string</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<td style="border-color:black; border-style:solid; border-top:none; border-width:1.0pt; vertical-align:top; width:230.3pt">
 			<p>Code indicatiesteller of attest bij aanvraag, herziening of verlenging</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; vertical-align:top; width:230.3pt">
 			<p>Cfr B-string</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<td style="border-color:black; border-style:solid; border-top:none; border-width:1.0pt; vertical-align:top; width:230.3pt">
 			<p>Resultaat van de indicatiestelling bij aanvraag, herziening of verlenging</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; vertical-align:top; width:230.3pt">
 			<p>Cfr B-string</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<td style="border-color:black; border-style:solid; border-top:none; border-width:1.0pt; vertical-align:top; width:230.3pt">
 			<p>Code bijkomend onderzoek</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; vertical-align:top; width:230.3pt">
 			<p>Cfr B-string</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<td style="border-color:black; border-style:solid; border-top:none; border-width:1.0pt; vertical-align:top; width:230.3pt">
 			<p>Datum van indicatiestelling bijkomende onderzoek</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; vertical-align:top; width:230.3pt">
 			<p>Cfr B-string</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
-			<p>Resultaat van de indicatiestelling bij bijkomend onderzoek</p>
+			<td style="border-color:black; border-style:solid; border-top:none; border-width:1.0pt; vertical-align:top; width:230.3pt">
+			<p>Resultaat van de indicatiestelling bij bijkomend ondezoek</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; vertical-align:top; width:230.3pt">
 			<p>Cfr B-string</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<td style="border-color:black; border-style:solid; border-top:none; border-width:1.0pt; vertical-align:top; width:230.3pt">
 			<p>Code beslissing</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; vertical-align:top; width:230.3pt">
 			<p>Cfr B-string</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<td style="border-color:black; border-style:solid; border-top:none; border-width:1.0pt; vertical-align:top; width:230.3pt">
 			<p>Datum van de beslissing</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; vertical-align:top; width:230.3pt">
 			<p>Cfr B-string</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<td style="border-color:black; border-style:solid; border-top:none; border-width:1.0pt; vertical-align:top; width:230.3pt">
 			<p>Datum laatste wijziging zorgvorm</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; vertical-align:top; width:230.3pt">
 			<p>Cfr B-string</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<td style="border-color:black; border-style:solid; border-top:none; border-width:1.0pt; vertical-align:top; width:230.3pt">
 			<p>Code zorgvorm</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; vertical-align:top; width:230.3pt">
 			<p>Cfr B-string</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<td style="border-color:black; border-style:solid; border-top:none; border-width:1.0pt; vertical-align:top; width:230.3pt">
 			<p>Code beslissing na controle</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; vertical-align:top; width:230.3pt">
 			<p>Cfr B-string</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<td style="border-color:black; border-style:solid; border-top:none; border-width:1.0pt; vertical-align:top; width:230.3pt">
 			<p>Resultaat van de indicatiestelling bij controle</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; vertical-align:top; width:230.3pt">
 			<p>Cfr B-string</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<td style="border-color:black; border-style:solid; border-top:none; border-width:1.0pt; vertical-align:top; width:230.3pt">
 			<p>Datum van de beslissing na controle</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; vertical-align:top; width:230.3pt">
 			<p>Cfr B-string</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<td style="border-color:black; border-style:solid; border-top:none; border-width:1.0pt; vertical-align:top; width:230.3pt">
 			<p>Einddatum uitvoering tenlastenemingen</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; vertical-align:top; width:230.3pt">
 			<p>Cfr B-string</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<td style="border-color:black; border-style:solid; border-top:none; border-width:1.0pt; vertical-align:top; width:230.3pt">
 			<p>PAB Vlaams Fonds</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; vertical-align:top; width:230.3pt">
 			<p>Nodig om te weten of mag uitbetaald worden of niet</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
-			<p>Erkenningsnummer van de residentiële voorziening waarin de persoon verblijft</p>
+			<td style="border-color:black; border-style:solid; border-top:none; border-width:1.0pt; vertical-align:top; width:230.3pt">
+			<p>Erkenningsnummer van de residentiêle voorziening waarin de persoon verblijft</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; vertical-align:top; width:230.3pt">
 			<p>Nodig om correct de uitbetaling te kunnen doen voor personen met residentiële zorg en om desnoods hernieuwde aanvragen t.g.v. verhuis naar een andere residentie correct te kunnen verwerken</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<td style="border-color:black; border-style:solid; border-top:none; border-width:1.0pt; vertical-align:top; width:230.3pt">
 			<p>Ingangsdatum van verblijf in een voltijds regime in een door het Vlaams Fonds erkende residentiële voorziening</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; vertical-align:top; width:230.3pt">
 			<p>Nodig omdat voor periodes van verblijf in een voltijds regime de tenlasteneming moet opgeschort worden</p>
 			</td>
 		</tr>
@@ -1314,84 +1305,82 @@ Volgende elementen dienen uit het papieren dossier gehaald te kunnen worden:<br>
 </table>
 
 <p>&nbsp;</p>
-
-<p>&nbsp;</p>
-
-<p>Identificatiegegevens vertegenwoordiger<br>
 <br>
-</p>
-
+<br>
+Identificatiegegevens vertegenwoordiger<br>
+<br>
+Naam
 <table border="1" cellpadding="0" cellspacing="0" style="border-collapse:collapse">
 	<tbody>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:230.3pt">
+			<td style="border-color:black; border-style:solid; border-width:1.0pt; vertical-align:top; width:230.3pt">
 			<p>Naam</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:230.3pt">
+			<td style="border-color:black; border-left:none; border-style:solid; border-width:1.0pt; vertical-align:top; width:230.3pt">
 			<p>&nbsp;</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<td style="border-color:black; border-style:solid; border-top:none; border-width:1.0pt; vertical-align:top; width:230.3pt">
 			<p>Voornaam</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; vertical-align:top; width:230.3pt">
 			<p>&nbsp;</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<td style="border-color:black; border-style:solid; border-top:none; border-width:1.0pt; vertical-align:top; width:230.3pt">
 			<p>Straat woonplaats</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; vertical-align:top; width:230.3pt">
 			<p>&nbsp;</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<td style="border-color:black; border-style:solid; border-top:none; border-width:1.0pt; vertical-align:top; width:230.3pt">
 			<p>Nummer woonplaats</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; vertical-align:top; width:230.3pt">
 			<p>&nbsp;</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<td style="border-color:black; border-style:solid; border-top:none; border-width:1.0pt; vertical-align:top; width:230.3pt">
 			<p>Bus woonplaats</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; vertical-align:top; width:230.3pt">
 			<p>&nbsp;</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<td style="border-color:black; border-style:solid; border-top:none; border-width:1.0pt; vertical-align:top; width:230.3pt">
 			<p>Postcode woonplaats</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; vertical-align:top; width:230.3pt">
 			<p>&nbsp;</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<td style="border-color:black; border-style:solid; border-top:none; border-width:1.0pt; vertical-align:top; width:230.3pt">
 			<p>Gemeente woonplaats</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; vertical-align:top; width:230.3pt">
 			<p>&nbsp;</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<td style="border-color:black; border-style:solid; border-top:none; border-width:1.0pt; vertical-align:top; width:230.3pt">
 			<p>Telefoonnummer</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; vertical-align:top; width:230.3pt">
 			<p>&nbsp;</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<td style="border-color:black; border-style:solid; border-top:none; border-width:1.0pt; vertical-align:top; width:230.3pt">
 			<p>Statuut vertegenwoordiger</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; vertical-align:top; width:230.3pt">
 			<p>wettelijke vertegenwoordiger-echtgeno(o)t(e) – zus – broer – (groot)ouder – (klein)kind – met volmacht</p>
 			</td>
 		</tr>
@@ -1399,92 +1388,90 @@ Volgende elementen dienen uit het papieren dossier gehaald te kunnen worden:<br>
 </table>
 
 <p>&nbsp;</p>
-
-<p>&nbsp;</p>
-
-<p>Identificatiegegevens mantelzorger(s)<br>
 <br>
-</p>
-
+<br>
+Identificatiegegevens mantelzorger(s)<br>
+<br>
+Rijksregisternummer zorgbehoevende
 <table border="1" cellpadding="0" cellspacing="0" style="border-collapse:collapse">
 	<tbody>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:230.3pt">
+			<td style="border-color:black; border-style:solid; border-width:1.0pt; vertical-align:top; width:230.3pt">
 			<p>Rijksregisternummer zorgbehoevende</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:230.3pt">
+			<td style="border-color:black; border-left:none; border-style:solid; border-width:1.0pt; vertical-align:top; width:230.3pt">
 			<p>&nbsp;</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<td style="border-color:black; border-style:solid; border-top:none; border-width:1.0pt; vertical-align:top; width:230.3pt">
 			<p>Naam</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; vertical-align:top; width:230.3pt">
 			<p>&nbsp;</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<td style="border-color:black; border-style:solid; border-top:none; border-width:1.0pt; vertical-align:top; width:230.3pt">
 			<p>Voornaam</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; vertical-align:top; width:230.3pt">
 			<p>&nbsp;</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<td style="border-color:black; border-style:solid; border-top:none; border-width:1.0pt; vertical-align:top; width:230.3pt">
 			<p>Straat woonplaats</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; vertical-align:top; width:230.3pt">
 			<p>&nbsp;</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<td style="border-color:black; border-style:solid; border-top:none; border-width:1.0pt; vertical-align:top; width:230.3pt">
 			<p>Nummer woonplaats</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; vertical-align:top; width:230.3pt">
 			<p>&nbsp;</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<td style="border-color:black; border-style:solid; border-top:none; border-width:1.0pt; vertical-align:top; width:230.3pt">
 			<p>Bus woonplaats</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; vertical-align:top; width:230.3pt">
 			<p>&nbsp;</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<td style="border-color:black; border-style:solid; border-top:none; border-width:1.0pt; vertical-align:top; width:230.3pt">
 			<p>Postcode woonplaats</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; vertical-align:top; width:230.3pt">
 			<p>&nbsp;</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<td style="border-color:black; border-style:solid; border-top:none; border-width:1.0pt; vertical-align:top; width:230.3pt">
 			<p>Gemeente woonplaats</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; vertical-align:top; width:230.3pt">
 			<p>&nbsp;</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<td style="border-color:black; border-style:solid; border-top:none; border-width:1.0pt; vertical-align:top; width:230.3pt">
 			<p>Telefoonnummer</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; vertical-align:top; width:230.3pt">
 			<p>&nbsp;</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<td style="border-color:black; border-style:solid; border-top:none; border-width:1.0pt; vertical-align:top; width:230.3pt">
 			<p>Relatie mantelzorger</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; vertical-align:top; width:230.3pt">
 			<p>echtgeno(o)t(e) – partner – moeder – vader – zus – broer – dochter – zoon – buur – andere</p>
 			</td>
 		</tr>
@@ -1492,10 +1479,9 @@ Volgende elementen dienen uit het papieren dossier gehaald te kunnen worden:<br>
 </table>
 
 <p>&nbsp;</p>
-
-<p>&nbsp;</p>
-
-<p>* In de periode van 15 december tot 15 januari wordt,bij de personen die niet van een mutualistische zorgkas naar een mutualistische zorgkas veranderen, de mogelijkheid van tegentekening voorzien om te garanderen dat de persoon wel degelijk bij de nieuwe zorgkas wenst aan te sluiten. Concreet betekent dit dat de aansluiting bij de nieuwe zorgkas niet doorgaat als:<br>
+<br>
+<br>
+* In de periode van 15 december tot 15 januari wordt,bij de personen die niet van een mutualistische zorgkas naar een mutualistische zorgkas veranderen, de mogelijkheid van tegentekening voorzien om te garanderen dat de persoon wel degelijk bij de nieuwe zorgkas wenst aan te sluiten. Concreet betekent dit dat de aansluiting bij de nieuwe zorgkas niet doorgaat als:<br>
 <br>
 - de persoon het herroepingsformulier ondertekent waarin verklaard wordt dat hij bij de afstaande zorgkas wenst te blijven;<br>
 <br>
@@ -1575,55 +1561,54 @@ FORMELE VOORWAARDEN VOOR TENLASTENEMING VOOR GEBRUIKERS DIE IN BRUSSEL WONEN<br>
 <br>
 De termijn van ononderbroken aansluiting verlengt naarmate de zorgverzekering langer bestaat. In onderstaande kader wordt dit verduidelijkt:<br>
 <br>
-</p>
-
+Jaar waarin een inwoner van Brussel laattijdig aansluit
 <table border="1" cellpadding="0" cellspacing="0" style="border-collapse:collapse">
 	<tbody>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:185.4pt">
+			<td style="border-color:black; border-style:solid; border-width:1.0pt; vertical-align:top; width:185.4pt">
 			<p>Jaar waarin een inwoner van Brussel laattijdig aansluit</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:275.2pt">
+			<td style="border-color:black; border-left:none; border-style:solid; border-width:1.0pt; vertical-align:top; width:275.2pt">
 			<p>De door de regering bepaalde termijn dat een inwoner van Brussel ononderbroken aangesloten moet zijn, voorafgaandelijk aan het ogenblik van de aanvraag tot tenlasteneming</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:185.4pt">
+			<td style="border-color:black; border-style:solid; border-top:none; border-width:1.0pt; vertical-align:top; width:185.4pt">
 			<p>2002</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:275.2pt">
+			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; vertical-align:top; width:275.2pt">
 			<p>0 jaar</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:185.4pt">
+			<td style="border-color:black; border-style:solid; border-top:none; border-width:1.0pt; vertical-align:top; width:185.4pt">
 			<p>2003</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:275.2pt">
+			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; vertical-align:top; width:275.2pt">
 			<p>1 jaar</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:185.4pt">
+			<td style="border-color:black; border-style:solid; border-top:none; border-width:1.0pt; vertical-align:top; width:185.4pt">
 			<p>2004</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:275.2pt">
+			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; vertical-align:top; width:275.2pt">
 			<p>3 jaar</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:185.4pt">
+			<td style="border-color:black; border-style:solid; border-top:none; border-width:1.0pt; vertical-align:top; width:185.4pt">
 			<p>2005</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:275.2pt">
+			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; vertical-align:top; width:275.2pt">
 			<p>5 jaar</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:185.4pt">
+			<td style="border-color:black; border-style:solid; border-top:none; border-width:1.0pt; vertical-align:top; width:185.4pt">
 			<p>2006 en volgende jaren</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:275.2pt">
+			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; vertical-align:top; width:275.2pt">
 			<p>10 jaar</p>
 			</td>
 		</tr>
@@ -1631,10 +1616,9 @@ De termijn van ononderbroken aansluiting verlengt naarmate de zorgverzekering la
 </table>
 
 <p>&nbsp;</p>
-
-<p>&nbsp;</p>
-
-<p>* de laatste 5 jaar ononderbroken in Vlaanderen of Brussel wonen of ononderbroken sociaal verzekerd zijn in de lidstaten van de Europese Unie of in de staten die partij zijn bij de Europese Economische Ruimte;<br>
+<br>
+<br>
+* de laatste 5 jaar ononderbroken in Vlaanderen of Brussel wonen of ononderbroken sociaal verzekerd zijn in de lidstaten van de Europese Unie of in de staten die partij zijn bij de Europese Economische Ruimte;<br>
 <br>
 * in het lopende jaar geen aanvraag tot tenlasteneming bij een andere zorgkas ingediend hebben<br>
 <br>
@@ -1955,59 +1939,58 @@ Deze mededeling bevat bij een positieve beslissing minstens volgende informatie:
 <br>
 113. In de onderstaande tabel staan afhankelijk van de situatie van de gebruiker, de acties die de zorgkas dient te ondernemen, vermeld.<br>
 <br>
-</p>
-
+Aanvraag tot verandering naar residentiële zorg ingediend vanaf januari2004
 <table border="1" cellpadding="0" cellspacing="0" style="border-collapse:collapse">
 	<tbody>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:167.4pt">
+			<td style="border-color:black; border-style:solid; border-width:1.0pt; vertical-align:top; width:167.4pt">
 			<p>Aanvraag tot verandering naar residentiële zorg ingediend vanaf januari 2004</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:293.2pt">
+			<td style="border-color:black; border-left:none; border-style:solid; border-width:1.0pt; vertical-align:top; width:293.2pt">
 			<p>Acties van de zorgkas</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:167.4pt">
+			<td style="border-color:black; border-style:solid; border-top:none; border-width:1.0pt; vertical-align:top; width:167.4pt">
 			<p>- indiening aanvraag voor verandering</p>
 
 			<p>- gebruiker verblijft in een erkende (of gelijkgestelde) residentiële voorziening</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:293.2pt">
+			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; vertical-align:top; width:293.2pt">
 			<p>- aanvaarding van de aanvraag voor verandering</p>
 
 			<p>- tenlasteneming voor mantel- en thuiszorg loopt tot eerste volle maand verblijf in erkende residentiële voorziening</p>
 
-			<p>- geen tenlasteneming voor mantel- en thuiszorg vanaf eerste volle maand verblijf in erkende residentiële voorziening</p>
+			<p>- geen tenlasteneming voor mantel- en thuiszorg vanaf eerste volle maand verblijf in erkende residentiêle voorziening</p>
 
 			<p>- tenlastenemingen voor residentiële zorg vanaf eerste volle maand verblijf in erkende residentiële voorziening</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:167.4pt">
+			<td style="border-color:black; border-style:solid; border-top:none; border-width:1.0pt; vertical-align:top; width:167.4pt">
 			<p>- indiening aanvraag voor verandering</p>
 
 			<p>- gebruiker verblijft in een erkende (of gelijkgestelde) residentiële voorziening</p>
 
 			<p>- gebruiker overlijdt tijdens eerste volle maand verblijf in residentiële voorziening</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:293.2pt">
+			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; vertical-align:top; width:293.2pt">
 			<p>- aanvaarding van de aanvraag voor verandering</p>
 
 			<p>- tenlasteneming voor mantel- en thuiszorg loopt tot eerste volle maand verblijf in erkende residentiële voorziening</p>
 
-			<p>- geen tenlasteneming voor mantel- en thuiszorg vanaf eerste volle maand verblijf in erkende residentiële voorziening</p>
+			<p>- geen teknlasteneming voor mantel- en thuiszorg vanaf eerste volle maand verblijf in erkende residentiële voorziening</p>
 
 			<p>- tenlasteneming voor residentiële zorg in de maand dat gebruiker overlijdt</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:167.4pt">
+			<td style="border-color:black; border-style:solid; border-top:none; border-width:1.0pt; vertical-align:top; width:167.4pt">
 			<p>- indiening aanvraag voor verandering</p>
 
 			<p>- gebruiker verblijft in een niet erkende residentiële voorziening</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:293.2pt">
+			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; vertical-align:top; width:293.2pt">
 			<p>- stopzetting van de positieve beslissing voor tenlasteneming</p>
 
 			<p>- tenlasteneming voor mantel- en thuiszorg loopt tot eerste volle maand verblijf in residentiële voorziening</p>
@@ -2017,10 +2000,9 @@ Deze mededeling bevat bij een positieve beslissing minstens volgende informatie:
 </table>
 
 <p>&nbsp;</p>
-
-<p>&nbsp;</p>
-
-<p>HOOFDSTUK XII<br>
+<br>
+<br>
+HOOFDSTUK XII<br>
 <br>
 BESLISSING TOT HERZIENING, VERLENGING OF STOPZETTING VAN EEN (OORSPRONKELIJKE) POSITIEVE BESLISSING<br>
 <br>
@@ -2146,47 +2128,21 @@ FINANCIËLE REGELING: ALGEMEEN<br>
 <br>
 AFDELING II<br>
 <br>
-FINANCIËLE REGELING MET BETREKKING TOT MANTEL- EN THUISZORG VOOR GEBRUIKERS DIE IN VLAANDEREN WONEN<br>
+FINANCIËLE REGELING MET BETREKKING TOT MANTEL- EN THUISZORG<br>
 <br>
-140. De zorgkas betaalt het bedrag voor mantel- en thuiszorg aan de gebruiker maandelijks in contanten aan de gebruiker of via overschrijving op het rekeningnummer van de gebruiker uit.<br>
+140. De zorgkas betaalt het bedrag voor mantel- en thuiszorg maandelijks in contanten aan de gebruiker of via overschrijving op het rekeningnummer van de gebruiker uit.<br>
 <br>
 AFDELING III<br>
+...<br>
 <br>
-FINANCIËLE REGELING MET BETREKKING TOT MANTEL- EN THUISZORG VOOR GEBRUIKERS DIE IN BRUSSEL WONEN<br>
+141. ...<br>
 <br>
-141. De zorgkas betaalt het bedrag voor mantel- en thuiszorg aan de gebruiker in contanten aan de gebruiker of via overschrijving op het rekeningnummer van de gebruiker uit.<br>
+142. ...<br>
 <br>
-142. De tenlasteneming voor mantel- en thuiszorg wordt slechts uitgevoerd als de gebruiker in dezelfde maand op één van de volgende door de Vlaamse regering erkende of met een erkenning gelijkgestelde voorzieningen een beroep doet of erin verblijft:<br>
+143. ...<br>
 <br>
-* een dienst voor gezinszorg<br>
+144. ...<br>
 <br>
-* een lokaal of regionaal dienstencentrum<br>
-<br>
-* een centrum voor kortverblijf<br>
-<br>
-* een dagverzorgingscentrum<br>
-<br>
-* een dienst voor oppashulp<br>
-<br>
-* een serviceflat<br>
-<br>
-* een dienst voor gezinszorg of O.C.M.W. die in het kader van de zorgverzekering erkende of met erkenning gelijkgestelde schoonmaakhulp biedt.<br>
-<br>
-143. Indien een dergelijke voorziening aan de gebruiker in een bepaalde maand zorgverlening biedt, dan heeft de gebruiker recht op de tenlasteneming voor mantel- en thuiszorg voor die maand.<br>
-<br>
-144. Als bewijs voor het bieden van de zorgverlening geldt de factuur die de gebruiker aan de zorgkas bezorgt. De factuur moet ingediend worden binnen de zes maanden na de prestatiemaand waarop ze betrekking heeft.<br>
-<br>
-De factuur bevat de volgende vermeldingen:<br>
-<br>
-* facturatiedatum en factuurnummer<br>
-<br>
-* naam en adres voorziening of GKB-nummer voorziening<br>
-<br>
-* naam, voornaam en adres gebruiker<br>
-<br>
-* periode (minstens per kalendermaand) waarin dienstverlening gepresteerd werd<br>
-<br>
-* benaming soort hulp conform erkenning (bijvoorbeeld: niet logistieke hulp maar wel schoonmaakhulp)<br>
 <br>
 AFDELING IV<br>
 <br>
@@ -3111,4 +3067,4 @@ HOOFDSTUK XXI<br>
 <br>
 SLOTBEPALINGEN<br>
 <br>
-192. Gezien om gevoegd te worden bij het ministerieel besluit van 6 januari 2006 houdende de goedkeuring van de handleiding zorgverzekering.</p>
+192. Gezien om gevoegd te worden bij het ministerieel besluit van 6 januari 2006 houdende de goedkeuring van de handleiding zorgverzekering.
