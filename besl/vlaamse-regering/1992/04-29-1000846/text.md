@@ -17,49 +17,30 @@ Dit besluit is van toepassing op de personeelsleden en de inrichtende machten zo
 1° onder de termen "ter beschikking stellen" en "terbeschikkingstelling" respectievelijk gelezen "ter beschikking stellen wegens gedeeltelijke of volledige ontstentenis van betrekking" en "terbeschikkingstelling wegens gedeeltelijke of volledige ontstentenis van betrekking";<br>
 <br>
 2° een onderscheid gemaakt tussen:<br>
-<br>
-1. het onderwijs met volledig leerplan. Wat het secundair onderwijs betreft is hiermee bedoeld het gewoon voltijds secundair onderwijs, het deeltijds beroepssecundair onderwijs, het deeltijds zeevisserijonderwijs, [... (geschr. B.V.R. 31 augustus 1999, art. 3, I: 1 augustus 1999) ] en het buitengewoon secundair onderwijs;<br>
-<br>
+1. het onderwijs met volledig leerplan. Wat het secundair onderwijs betreft is hiermee bedoeld het gewoon voltijds secundair onderwijs, het deeltijds beroepssecundair onderwijs, het deeltijds zeevisserijonderwijs en het buitengewoon secundair onderwijs;<br>
 2. het deeltijds kunstonderwijs;<br>
-<br>
 3. het onderwijs voor sociale promotie of met beperkt leerplan;<br>
-<br>
-4. de centra voor leerlingenbegeleiding [ (verv. B.V.R. 4 februari 2000, art. 12, I: 1 september 2000) ] hierna centra genoemd;<br>
+4. de centra voor leerlingenbegeleiding hierna centra genoemd;<br>
 <br>
 3° een onderscheid gemaakt tussen de verschillende onderwijsniveaus:<br>
-<br>
 1. het kleuteronderwijs;<br>
-<br>
 2. het lager onderwijs;<br>
-<br>
 3. het secundair onderwijs;<br>
-<br>
 De vier graden van het deeltijds kunstonderwijs worden voor de toepassing van dit besluit aangezien als secundair onderwijs;<br>
+4. het hoger onderwijs voor sociale promotie van het korte type;<br>
+5. ...<br>
 <br>
-4. [het hoger onderwijs voor sociale promotie van het korte type; (verv. B.V.R. 31 augustus 1999, art. 3, I: 1 augustus 1999) ]<br>
-<br>
-5. [... (geschr. B.V.R. 31 augustus 1999, art. 3, I: 1 augustus 1999) ]<br>
-<br>
-4° [... (opgeh. B.V.R. 31 augustus 1999, art. 3, I: 1 augustus 1999) ]<br>
+4° ...<br>
 <br>
 5° voor het deeltijds kunstonderwijs een onderscheid gemaakt tussen:<br>
-<br>
 1. lager secundair niveau.<br>
-<br>
 2. hoger secundair niveau.<br>
-<br>
 Voor de toepassing van dit besluit worden in het deeltijds kunstonderwijs de volgende graden beschouwd als zijnde te behoren tot:<br>
-<br>
 1) het lager secundair niveau:<br>
-<br>
 - de lagere graad;<br>
-<br>
 - de middelbare graad.<br>
-<br>
 2) het hoger secundair niveau:<br>
-<br>
 - de hogere graad;<br>
-<br>
 - de specialisatiegraad.<br>
 <br>
 § 2. Voor de toepassing van dit besluit wordt begrepen onder:<br>
@@ -70,31 +51,29 @@ Voor de toepassing van dit besluit worden in het deeltijds kunstonderwijs de vol
 <br>
 3° "gedeeltelijke ontstentenis van betrekking": het niet voorhanden zijn van een betrekking waardoor het vastbenoemde personeelslid vastbenoemd titularis blijft van een betrekking in het onderwijs of de centra die recht geeft op een wedde of weddetoelage, maar die in zijnen hoofde als onvolledig dient beschouwd te worden;<br>
 <br>
-[4° vacature: elke volledige of onvolledige betrekking die vacant is, of waarvan de titularis of zijn vervanger afwezig is voor een periode van tenminste tien werkdagen. Elke betrekking die door de overheid financierbaar of subsidieerbaar is, is onderworpen aan de bepalingen van dit besluit; [ (verv. B.V.R. 5 december 2003, art. 1, I: 1 september 2003) ]<br>
+4° vacature: elke volledige of onvolledige betrekking die vacant is, of waarvan de titularis of zijn vervanger afwezig is voor een periode van tenminste tien werkdagen. Elke betrekking die door de overheid financierbaar of subsidieerbaar is, is onderworpen aan de bepalingen van dit besluit;<br>
 <br>
 5° betrekking niet vatbaar voor reaffectatie of wedertewerkstelling: een betrekking is vanaf 1 september van het schooljaar in kwestie niet meer vatbaar voor reaffectatie of wedertewerkstelling, als het personeelslid dat die betrekking bekleedt een dienstanciënniteit heeft van tenminste 720 dagen in hoofdambt, gespreid over tenminste drie schooljaren.<br>
 <br>
 Het personeelslid moet deze dienstanciënniteit bereiken op:<br>
-<br>
-a) 31 augustus van het voorgaande schooljaar voor de leden van het administratief personeel, de administratieve medewerker in het basisonderwijs, de leden van het ondersteunend personeel van het gewoon voltijds secundair onderwijs, het deeltijds secundair zeevisserijonderwijs en het deeltijds beroepssecundair onderwijs, voor het technisch personeel van de centra, en voor het personeel van de semi-internaten en van de opvangcentra;<br>
-<br>
+a) 31 augustus van het voorgaande schooljaar voor de leden van het administratief personeel, de administratieve medewerker in het basisonderwijs, de leden van het ondersteunend personeel in het secundair onderwijs, voor het technisch personeel van de centra, en voor het personeel van de semi-internaten en van de opvangcentra;<br>
 b) 30 juni van het voorgaande schooljaar voor de andere personeelsleden.<br>
 <br>
-Voor het personeelslid dat aan deze voorwaarden voldoet, blijven de bovenstaande bepalingen geldig over de schooljaren heen ; [ (verv. B.V.R. 23 september 2005, art. 1, I: 1 juni 2005) ]<br>
+Voor het personeelslid dat aan deze voorwaarden voldoet, blijven de bovenstaande bepalingen geldig over de schooljaren heen ;<br>
 <br>
-6° "ononderbroken periode": een periode zonder dienstonderbreking. wordt niet als dienstonderbreking beschouwd: de vakantieperioden, de militaire dienst, de burgerdienst, de perioden van wederoproeping, de ziekte- of bevallingsverloven, de borstvoedingsverloven, de verloven van korte duur met behoud van wedde of weddetoelage ter gelegenheid van sommige gebeurtenissen van familiale of sociale aard, alsook de verloven zonder behoud van wedde of weddetoelage voor een maximumduur van zes werkdagen per schooljaar [... (geschr. B.V.R. 31 augustus 1999, art. 3, I: 1 augustus 1999) ] of dienstjaar;<br>
+6° "ononderbroken periode": een periode zonder dienstonderbreking. wordt niet als dienstonderbreking beschouwd: de vakantieperioden, de militaire dienst, de burgerdienst, de perioden van wederoproeping, de ziekte- of bevallingsverloven, de borstvoedingsverloven, de verloven van korte duur met behoud van wedde of weddetoelage ter gelegenheid van sommige gebeurtenissen van familiale of sociale aard, alsook de verloven zonder behoud van wedde of weddetoelage voor een maximumduur van zes werkdagen per schooljaar of dienstjaar;<br>
 <br>
-7° [... (opgeh. B.V.R. 5 december 2003, art. 1, I: 1 september 2003) ]<br>
+7° ...<br>
 <br>
-8° gewoon secundair onderwijs: het voltijds secundair onderwijs, het deeltijds secundair zeevisserijonderwijs, het deeltijds beroepssecundair onderwijs, [... (geschr. B.V.R. 31 augustus 1999, art. 3, I: 1 augustus 1999) ] en het secundair onderwijs voor sociale promotie of met beperkt leerplan;<br>
+8° gewoon secundair onderwijs: het voltijds secundair onderwijs, het deeltijds secundair zeevisserijonderwijs, het deeltijds beroepssecundair onderwijs, en het secundair onderwijs voor sociale promotie of met beperkt leerplan;<br>
 <br>
-9° « karakter »: indeling van instellingen en scholen naargelang ze behoren tot het gesubsidieerd officieel onderwijs, het gesubsidieerd vrij onderwijs naargelang van de onderscheiden godsdiensten of levensbeschouwingen, of tot het gesubsidieerd vrij niet-confessioneel onderwijs. [ (ing. B.V.R. 23 september 2005, art. 1, I: 1 juni 2005) ]<br>
+9° « karakter »: indeling van instellingen en scholen naargelang ze behoren tot het gesubsidieerd officieel onderwijs, het gesubsidieerd vrij onderwijs naargelang van de onderscheiden godsdiensten of levensbeschouwingen, of tot het gesubsidieerd vrij niet-confessioneel onderwijs.<br>
 <br>
-§ 3. Voor de toepassing van dit besluit worden de begrippen hoofdambt en bijbetrekking begrepen zoals bedoeld in het koninklijk besluit van 15 april 1958 houdende bezoldigingsregeling van het onderwijzend, wetenschappelijk en daarmee gelijkgesteld personeel van het Ministerie van Openbaar Onderwijs en in het koninklijk besluit nr. 63 van 20 juli 1982 houdende wijziging van de bezoldigingsregeling van toepassing op het onderwijzend en daarmee gelijkgesteld personeel van het onderwijs met volledig leerplan en van het onderwijs voor sociale promotie of met beperkt leerplan. [ (verv. B.V.R. 7 december 1994, art. 3, I: 1 juli 1994) ]<br>
+§ 3. Voor de toepassing van dit besluit worden de begrippen hoofdambt en bijbetrekking begrepen zoals bedoeld in het koninklijk besluit van 15 april 1958 houdende bezoldigingsregeling van het onderwijzend, wetenschappelijk en daarmee gelijkgesteld personeel van het Ministerie van Openbaar Onderwijs en in het koninklijk besluit nr. 63 van 20 juli 1982 houdende wijziging van de bezoldigingsregeling van toepassing op het onderwijzend en daarmee gelijkgesteld personeel van het onderwijs met volledig leerplan en van het onderwijs voor sociale promotie of met beperkt leerplan.<br>
 <br>
-§ 4. [... (opgeh. B.V.R. 31 augustus 1999, art. 3, I: 1 augustus 1999) ]<br>
+§ 4. ...<br>
 <br>
-§ 5. 1° [... (opgeh. B.V.R. 23 september 2005, art. 1, I: 1 juni 2005) ]<br>
+§ 5. 1° ...<br>
 <br>
 2° Voor de toepassing van dit besluit moet in het gewoon lager onderwijs bij een vermindering van het gehele pakket lestijden de daling van het aantal lestijden evenredig verdeeld worden tussen het aantal lestijden in het ambt van onderwijzer enerzijds en het aantal lestijden in het ambt van leermeester lichamelijke opvoeding anderzijds.<br>
 <br>
@@ -108,23 +87,23 @@ Er wordt afgerond naar de hogere eenheid als de eerste decimaal 5 is of meer.<br
 <br>
 Hierdoor mag het aantal lestijden, bestemd voor onderwijzer algemene en sociale vorming en leermeester lichamelijke opvoeding, berekend volgens de vigerende reglementering, niet overschreden worden.<br>
 <br>
-§ 6. Voor de toepassing van dit besluit mag een leermeester [ (verv. B.V.R. 5 december 2003, art. 1, I: 1 september 2003) ] [... (geschr. B.V.R. 23 juni 2005, art. 1, I: 1 juni 2005) ] godsdienst of niet-confessionele zedenleer van wie de lestijden werden vastgesteld volgens de schalen, niet ter beschikking gesteld worden om een onderwijzer aan te werven. Ook mag een onderwijzer niet ter beschikking gesteld worden om een leermeester [ (verv. B.V.R. 5 december 2003, art. 1, I: 1 september 2003) ] [... (geschr. B.V.R. 23 juni 2005, art. 1, I: 1 juni 2005) ] godsdienst of niet-confessionele zedenleer aan te werven van wie de lestijden werden vastgesteld volgens de schalen (verv. B.V.R. 5 december 2003, art. 1, I: 1 september 2003)].<br>
+§ 6. Voor de toepassing van dit besluit mag een leermeester godsdienst of niet-confessionele zedenleer van wie de lestijden werden vastgesteld volgens de schalen, niet ter beschikking gesteld worden om een onderwijzer aan te werven. Ook mag een onderwijzer niet ter beschikking gesteld worden om een leermeester godsdienst of niet-confessionele zedenleer aan te werven van wie de lestijden werden vastgesteld volgens de schalen.<br>
 <br>
-§ 7. Voor de toepassing van dit besluit beslist de inrichtende macht in het buitengewoon secundair onderwijs bij een vermindering van het urenpakket van de leden van het medisch, paramedisch, sociaal, psychologisch en orthopedagogisch personeel of een betrekking of betrekkingen in het afzonderlijk ambt van kinesitherapeut, logopedist, verpleger, ergotherapeut, kinderverzorger, maatschappelijk werker, arts, psycholoog en orthopedagoog niet meer kan of kunnen worden in-standgehouden, op basis van criteria waarover wordt onderhandeld in het lokaal comité.<br>
+§ 7. Voor de toepassing van dit besluit beslist de inrichtende macht in het buitengewoon secundair onderwijs bij een vermindering van het urenpakket van de leden van het medisch, paramedisch, sociaal, psychologisch en orthopedagogisch personeel of een betrekking of betrekkingen in het afzonderlijk ambt van kinesitherapeut, logopedist, verpleger, ergothe-rapeut, kinderverzorger, maatschappelijk werker, arts, psycholoog en orthopedagoog niet meer kan of kunnen worden in-standgehouden, op basis van criteria waarover wordt onderhandeld in het lokaal comité.<br>
 <br>
-Voor de toepassing van dit besluit beslist de inrichtende macht in het buitengewoon [ (verv. B.V.R. 5 december 2003, art. 1, I: 1 september 2002, evenwel met de beperking dat hieruit tijdens de periode van 1 september 2002 tot en met 1 september 2003 geen gevolgen kunnen voortvloeien voor de personeelsleden en de inrichtende machten en schoolbesturen met betrekking tot de bezoldiging, de terbeschikkingstelling wegens ontstentenis van betrekking, de reaffectatie en de wedertewerkstelling) ] basisonderwijs [ (verv. B.V.R. 23 september 2005, art. 1, I: 1 juni 2005) ] bij een vermindering van het urenpakket van de leden van het paramedisch personeel, medisch, sociaal, psychologisch en orthopedagogisch personeel of een betrekking of betrekkingen in het afzonderlijk ambt van kinesitherapeut, logopedist, verpleger, ergotherapeut, kinderverzorger, maatschappelijk werker, arts, psycholoog en orthopedagoog niet meer kan of kunnen worden instandgehouden, op basis van criteria waarover wordt onderhandeld in het lokaal comité. [ (verv. B.V.R. 5 december 2003, art. 1, I: 1 september 2002, evenwel met de beperking dat hieruit tijdens de periode van 1 september 2002 tot en met 1 september 2003 geen gevolgen kunnen voortvloeien voor de personeelsleden en de inrichtende machten en schoolbesturen met betrekking tot de bezoldiging, de terbeschikkingstelling wegens ontstentenis van betrekking, de reaffectatie en de wedertewerkstelling) ]<br>
+Voor de toepassing van dit besluit beslist de inrichtende macht in het buitengewoon basisonderwijs bij een vermindering van het urenpakket van de leden van het paramedisch personeel, medisch, sociaal, psychologisch en orthopedagogisch personeel of een betrekking of betrekkingen in het afzonderlijk ambt van kinesitherapeut, logopedist, verpleger, ergotherapeut, kinderverzorger, maatschappelijk werker, arts, psycholoog en orthopedagoog niet meer kan of kunnen worden instandgehouden, op basis van criteria waarover wordt onderhandeld in het lokaal comité.<br>
 <br>
-Voor de toepassing van dit besluit beslist de inrichtende macht in het buitengewoon basisonderwijs bij een daling van het leerlingenaantal in een bepaald niveau, of een betrekking of betrekkingen in het afzonderlijk ambt van kleuteronderwijzer algemene en sociale vorming en onderwijzer algemene en sociale vorming niet meer kan of kunnen worden instandgehouden, op basis van criteria waarover wordt onderhandeld in het lokaal comité. [ (ing. B.V.R. 23 september 2005, art. 1, I: 1 juni 2005) ]<br>
+Voor de toepassing van dit besluit beslist de inrichtende macht in het buitengewoon basisonderwijs bij een daling van het leerlingenaantal in een bepaald niveau, of een betrekking of betrekkingen in het afzonderlijk ambt van kleuteronderwijzer algemene en sociale vorming en onderwijzer algemene en sociale vorming niet meer kan of kunnen worden instandgehouden, op basis van criteria waarover wordt onderhandeld in het lokaal comité.<br>
 <br>
-§ 8. Voor de toepassing van dit besluit worden de autonome internaten beschouwd als instellingen van het gewoon voltijds secundair onderwijs die niet tot een scholengemeenschap behoren. [ (ing. B.V.R. 31 augustus 1999, art. 3, I: 1 augustus 1999) ]<br>
+§ 8. Voor de toepassing van dit besluit worden de autonome internaten beschouwd als instellingen van het gewoon voltijds secundair onderwijs die niet tot een scholengemeenschap behoren.<br>
 <br>
-§ 9. Voor de toepassing van dit besluit beslist de inrichtende macht in het gewoon voltijds secundair onderwijs bij een vermindering van het aantal punten voor het ondersteunend personeel of zij de vermindering volledig ten laste legt van de groep van opvoeder, of volledig ten laste legt van de groep van administratief medewerker of verdeelt over beide groepen, op basis van criteria die worden onderhandeld in het lokaal comité. [ (verv. B.V.R. 23 september 2005, art. 1, I: 1 juni 2005) ]<br>
+§ 9. Voor de toepassing van dit besluit beslist de inrichtende macht in het secundair onderwijs bij een vermindering van het aantal punten voor het ondersteunend personeel of zij de vermindering volledig ten laste legt van de groep van opvoeder, of volledig ten laste legt van de groep van administratief medewerker of verdeelt over beide groepen, op basis van criteria die worden onderhandeld in het lokaal comité.<br>
 <br>
-§ 10. Voor de toepassing van dit besluit moet in het gewoon voltijds secundair onderwijs bij een vermindering van het aantal punten voor het ondersteunend personeel rekening worden gehouden met het feit dat in een instelling de personeelsleden van het ondersteunend personeel [... (geschr. B.V.R. 5 december 2003, art. 1, I: 1 september 2001) ] uit tenminste 50 % opvoeders [ (verv. B.V.R. 5 december 2003, art. 1, I: 1 september 2001) ] moeten bestaan. [ (ing. B.V.R. 31 augustus 1999, art. 3, I: 1 september 1998) ]<br>
+§ 10. Voor de toepassing van dit besluit moet in het secundair onderwijs bij een vermindering van het aantal punten voor het ondersteunend personeel rekening worden gehouden met het feit dat in een instelling de personeelsleden van het ondersteunend personeel uit tenminste 50 % opvoeders moeten bestaan.<br>
 <br>
-§ 11. Voor de toepassing van dit besluit wordt onder pedagogische entiteit verstaan: een entiteit die bestaat uit enerzijds één instelling met een eerste graad en anderzijds één instelling met een tweede, een derde en eventueel een vierde graad van het secundair onderwijs, die behoort tot dezelfde inrichtende macht die in eenzelfde gebouwencomplex is gelegen. [ (verv. B.V.R. 5 december 2003, art. 1, I: 1 september 2003) ]<br>
+§ 11. Voor de toepassing van dit besluit wordt onder pedagogische entiteit verstaan: een entiteit die bestaat uit enerzijds één instelling met een eerste graad en anderzijds één instelling met een tweede, een derde en eventueel een vierde graad van het secundair onderwijs, die behoort tot dezelfde inrichtende macht die in eenzelfde gebouwencomplex is gelegen.<br>
 <br>
-§ 12. Voor de toepassing van dit besluit beslist de inrichtende macht in het onderwijs voor sociale promotie bij een vermindering van het aantal beschikbare punten voor een betrekking of betrekkingen van adjunct-directeur, technisch adviseur-coördinator, technisch adviseur en administratief medewerker, of deze betrekking of betrekkingen door deze vermindering nog kan of kunnen worden in stand gehouden, op basis van de criteria die worden onderhandeld in het lokaal comité. [ (ing. B.V.R. 5 december 2003, art. 1, I: 1 september 2001) ]
+§ 12. Voor de toepassing van dit besluit beslist de inrichtende macht in het onderwijs voor sociale promotie bij een vermindering van het aantal beschikbare punten voor een betrekking of betrekkingen van adjunct-directeur, technisch adviseur-coördinator, technisch adviseur en administratief medewerker, of deze betrekking of betrekkingen door deze vermindering nog kan of kunnen worden in stand gehouden, op basis van de criteria die worden onderhandeld in het lokaal comité.
 
 ## HOOFDSTUK III BEPALING VAN HET BEGRIP "HETZELFDE AMBT" EN HET BEGRIP "ANDER AMBT" BIJ DE TERBESCHIKKINGSTELLING, DE REAFFECTATIE EN DE WEDERTEWERKSTELLING
 
@@ -220,42 +199,33 @@ b) voor de toepassing van artikel 18 moet het ambt een zelfde puntengewicht en e
 
 ### ART. 7.
 
-<p>§ 1. Voor het buitengewoon secundair onderwijs wordt "hetzelfde ambt" als volgt gedefinieerd: [ (verv. B.V.R. 5 december 2003, art. 6, I: 1 september 2003) ]<br>
+<p>§ 1. Voor het buitengewoon secundair onderwijs wordt "hetzelfde ambt" als volgt gedefinieerd:<br>
 <br>
-1. Het ambt zoals het opgenomen is in de reglementering tot rangschikking en indeling van de ambten van het bestuurs- en onderwijzend personeel, opvoedend hulp-, medisch, paramedisch, sociaal, psychologisch, orthopedagogisch en administratief personeel van het buitengewoon secundair onderwijs; [ (verv. B.V.R. 5 december 2003, art. 6, I: 1 september 2003) ]<br>
+1. Het ambt zoals het opgenomen is in de reglementering tot rangschikking en indeling van de ambten van het bestuurs- en onderwijzend personeel, ondersteunend personeel, opvoedend hulp-, medisch, paramedisch, sociaal, psychologisch en orthopedagogisch personeel van het buitengewoon secundair onderwijs;<br>
 <br>
 2. Wanneer het een ambt van directeur betreft wordt een onderscheid gemaakt tussen het ambt van directeur van een instelling van buitengewoon secundair onderwijs zonder opleidingsvorm 4, het ambt van directeur van een instelling van buitengewoon secundair onderwijs met opleidingsvorm 4 zonder derde graad enerzijds en het ambt van directeur van een instelling van buitengewoon secundair onderwijs met opleidingsvorm 4 en met derde graad anderzijds. Dit onderscheid geldt niet wanneer het betrokken personeelslid een vereiste titel heeft voor deze ambten;<br>
 <br>
-3. En als het een ambt van leraar betreft: [ (verv. B.V.R. 31 augustus 1999, art. 10, I: 1 augustus 1999) ]<br>
-<br>
-a) een leeropdracht in hetzelfde vak of dezelfde specialiteiten, en voor technische vakken, artistieke vakken, technische vakken en beroepspraktijk, praktijk, kunstvakken of praktische vakken, in de vakken die behoren tot dezelfde specialiteit waarvan het personeelslid titularis was op 30 juni van het voorgaand schooljaar en/of waarvoor het personeelslid ter beschikking is gesteld.[ (verv. B.V.R. 23 september 2005, art. 5, I: 1 juni 2005) ] Voor de opleidingsvorm 3 en 4 van het buitengewoon secundair onderwijs, de beroepsgerichte vorming die behoort tot dezelfde specialiteit. Deze bepaling is enkel geldig als het personeelslid, voor wie het begrip "hetzelfde ambt" moet worden toegepast een vereist of voldoende geacht bekwaamheidsbewijs heeft of geacht wordt in het bezit te zijn van een vereist of van een voldoende geacht bekwaamheidsbewijs voor dit vak en eventueel voor deze specialiteit;<br>
-<br>
+3. En als het een ambt van leraar betreft:<br>
+a) een leeropdracht in hetzelfde vak of dezelfde specialiteiten, en voor technische vakken, artistieke vakken, technische vakken en beroepspraktijk, praktijk, kunstvakken of praktische vakken, in de vakken die behoren tot dezelfde specialiteit waarvan het personeelslid titularis was op 30 juni van het voorgaand schooljaar en/of waarvoor het personeelslid ter beschikking is gesteld. Voor de opleidingsvorm 3 en 4 van het buitengewoon secundair onderwijs, de beroepsgerichte vorming die behoort tot dezelfde specialiteit. Deze bepaling is enkel geldig als het personeelslid, voor wie het begrip "hetzelfde ambt" moet worden toegepast een vereist of voldoende geacht bekwaamheidsbewijs heeft of geacht wordt in het bezit te zijn van een vereist of van een voldoende geacht bekwaamheidsbewijs voor dit vak en eventueel voor deze specialiteit;<br>
 b) een leeropdracht in elk vak dat of elke specialiteit, die niet onder a) valt, voor de opleidingsvorm 3 en 4 van het buitengewoon secundair onderwijs en voor de technische vakken, artistieke vakken of praktische vakken, de vakken die behoren tot dezelfde specialiteit, waarvoor het personeelslid:<br>
-<br>
 - ofwel het vereiste bekwaamheidsbewijs bezit of bij overgangsmaatregel geacht wordt in het bezit te zijn van het vereiste bekwaamheidsbewijs. Deze bepaling geldt niet voor het vak niet-confessionele zedenleer. Daarenboven kan ze niet worden ingeroepen door een leermeester niet-confessionele zedenleer of een leraar belast met het vak niet-confessionele zedenleer en in het gemeenschapsonderwijs en in het gesubsidieerd officieel onderwijs niet door een godsdienstleraar;<br>
+- ofwel dat vak of die specialiteit, als het hiervoor vastbenoemd was, op basis van een voldoende geacht bekwaamheidsbewijs of een bekwaamheidsbewijs dat bij overgangsmaatregel beschouwd wordt als een voldoende geacht bekwaamheidsbewijs, gedurende een ononderbroken periode van tenminste zes maanden heeft onderwezen in de loop van de laatste vijf schooljaren die voorafgaan aan het ogenblik waarop er toepassing gemaakt wordt van de bepalingen van dit besluit. De toepassing van deze bepaling wordt beperkt tot de instellingen die afhangen van de inrichtende macht die de vaste benoeming heeft verleend of die de instelling waaraan betrokkene vastbenoemd was van een andere inrichtende macht heeft overgenomen, hetzij door gewone overname, hetzij door fusie van instellingen;<br>
 <br>
-- ofwel dat vak of die specialiteit, [ (ing. B.V.R. 5 december 2003, art. 6, I: 1 september 2003) ] als het hiervoor vastbenoemd was, op basis van een voldoende geacht bekwaamheidsbewijs of een bekwaamheidsbewijs dat bij overgangsmaatregel beschouwd wordt als een voldoende geacht bekwaamheidsbewijs, gedurende een ononderbroken periode van tenminste zes maanden heeft onderwezen in de loop van de laatste vijf schooljaren die voorafgaan aan het ogenblik waarop er toepassing gemaakt wordt van de bepalingen van dit besluit. De toepassing van deze bepaling wordt beperkt tot de instellingen die afhangen van de inrichtende macht die de vaste benoeming heeft verleend of die de instelling waaraan betrokkene vastbenoemd was van een andere inrichtende macht heeft overgenomen, hetzij door gewone overname, hetzij door fusie van instellingen; [ (verv. B.V.R. 31 augustus 1999, art. 10, I: 1 augustus 1999) ]<br>
+4. Een ambt dat tenminste een gelijke weddenschaal oplevert, zelfs als het aantal prestaties die volledige dienstprestaties uitmaken niet dezelfde zijn in beide ambten;<br>
 <br>
-4. Een ambt dat tenminste een gelijke weddenschaal oplevert, zelfs als het aantal prestaties die volledige dienstprestaties uitmaken niet dezelfde zijn in beide ambten; [ (verv. B.V.R. 5 december 2003, art. 6, I: 1 september 2003) ]<br>
-<br>
-[... (opgeh. B.V.R. 5 december 2003, art. 6, I: 1 september 2003) ]<br>
-<br>
-[5. (verv. B.V.R. 5 december 2003, art. 6) ] In type 6 van het buitengewoon onderwijs wordt het ambt van leermeester ASV compensatietechniek braille en het ambt van leraar ASV compensatietechniek braille steeds als "hetzelfde ambt" beschouwd, ongeacht het onderwijsniveau: kleuter-, lager, basis- of secundair onderwijs en ongeacht de opleidingsvorm in het secundair onderwijs.<br>
+5. In type 6 van het buitengewoon onderwijs wordt het ambt van leermeester ASV compensatietechniek braille en het ambt van leraar ASV compensatietechniek braille steeds als "hetzelfde ambt" beschouwd, ongeacht het onderwijsniveau: kleuter-, lager, basis- of secundair onderwijs en ongeacht de opleidingsvorm in het secundair onderwijs.<br>
 <br>
 Deze bepaling is niet van toepassing wanneer hierdoor een lagere weddeschaal wordt bekomen;<br>
 <br>
-6. [ (verv. B.V.R. 5 december 2003, art. 6) ] Er wordt een onderscheid gemaakt tussen de beroepsgerichte vorming in opleidingsvorm 2 en de beroepsgerichte vorming in opleidingsvorm 3.<br>
+6. Er wordt een onderscheid gemaakt tussen de beroepsgerichte vorming in opleidingsvorm 2 en de beroepsgerichte vorming in opleidingsvorm 3.<br>
 <br>
-De Vlaamse minister bevoegd voor het onderwijs [ (verv. B.V.R. 5 december 2003, art. 6, I: 1 september 2003) ] kan de gemotiveerde beslissing van de inrichtende macht waarbij de beroepsgerichte vorming in de opleidingsvormen 2 en 3 als "hetzelfde ambt" beschouwd worden, aanvaarden;<br>
+De Vlaamse minister bevoegd voor het onderwijs kan de gemotiveerde beslissing van de inrichtende macht waarbij de beroepsgerichte vorming in de opleidingsvormen 2 en 3 als "het-zelfde ambt" beschouwd worden, aanvaarden;<br>
 <br>
-7. [ (verv. B.V.R. 5 december 2003, art. 6) ] In het buitengewoon secundair onderwijs wordt de beroepsgerichte vorming in opleidingsvorm 3, waarvan de specialiteit is aangeduid in de linkerkolom van onderstaande tabel als "hetzelfde ambt" beschouwd als de praktische vakken in de eerste graad in opleidingsvorm 4 of in de eerste graad van het gewoon secundair onderwijs die zijn opgenomen in de rechterkolom.<br>
+7. In het buitengewoon secundair onderwijs wordt de beroepsgerichte vorming in opleidingsvorm 3, waarvan de specialiteit is aangeduid in de linkerkolom van onderstaande tabel als "hetzelfde ambt" beschouwd als de praktische vakken in de eerste graad in opleidingsvorm 4 of in de eerste graad van het gewoon secundair onderwijs die zijn opgenomen in de rechterkolom.<br>
 <br>
 De toepassing van deze bepaling is:<br>
-<br>
 1. verplicht indien de betrokken personeelsleden een bekwaamheidsbewijs bezitten dat zowel in het buitengewoon secundair onderwijs als in het gewoon secundair onderwijs een vereist bekwaamheidsbewijs is;<br>
-<br>
 2. verplicht indien de betrokken personeelsleden een bekwaamheidsbewijs bezitten dat een vereist of voldoende geacht bekwaamheidsbewijs is in het buitengewoon secundair onderwijs en in het gewoon secundair onderwijs een voldoende geacht bekwaamheidsbewijs is;<br>
-<br>
 3. niet mogelijk indien het bekwaamheidsbewijs waarover de betrokken personeelsleden beschikken een vereist of een voldoende geacht bekwaamheidsbewijs is in het buitengewoon secundair onderwijs maar noch een vereist, noch een voldoende geacht bekwaamheidsbewijs is in het gewoon secundair onderwijs.<br>
 <br>
 In afwijking van de bepaling onder 2 hiervoor kan de inrichtende macht in onderling akkoord met het betrokken personeelslid een onderscheid maken tussen het buitengewoon secundair en het gewoon secundair onderwijs behalve wanneer het betrokken personeelslid reeds in het gewoon secundair onderwijs fungeert als vastbenoemde in het betrokken leervak.<br>
@@ -263,6 +233,7 @@ In afwijking van de bepaling onder 2 hiervoor kan de inrichtende macht in onderl
 Wanneer de betrokken partijen niet akkoord gaan omtrent het al of niet onderscheid maken tussen het buitengewoon secundair onderwijs enerzijds en het gewoon secundair onderwijs anderzijds, kan de partij die zich benadeeld acht uiterlijk tegen 15 september van het betrokken schooljaar een gefundeerd bezwaarschrift indienen bij de bevoegde Vlaamse reaffectatie-commissie, opgericht krachtens artikel 16 van dit besluit.<br>
 <br>
 In afwachting van de beslissing van de Vlaamse reaffectatiecommissie geldt de verplichting van punt 2 hierboven.<br>
+<br>
 </p>
 
 <table border="1" cellpadding="0" cellspacing="0" style="border-collapse:collapse">
@@ -484,7 +455,9 @@ In afwachting van de beslissing van de Vlaamse reaffectatiecommissie geldt de ve
 
 <p>&nbsp;</p>
 
-<p>(verv. B.V.R. 5 december 2003, art. 6, I: 1 september 2003) ]<br>
+<p>8. In afwijking van punt 1 en 4 van § 1 wordt in het buitengewoon secundair onderwijs voor de toepassing van « hetzelfde ambt » voor de leden van het ondersteunend personeel het volgende onderscheid gemaakt :<br>
+a) de ambten van opvoeder vormen "hetzelfde ambt";<br>
+b) de ambten van administratief medewerker vormen "hetzelfde ambt";<br>
 <br>
 § 2. Voor het buitengewoon secundair onderwijs wordt het "ander ambt" als volgt gedefinieerd: elk ambt, met uitzondering van "hetzelfde ambt" in de verschillende onderwijsniveaus en centra waarvoor het betrokken personeelslid over het vereiste bekwaamheidsbewijs beschikt.<br>
 <br>
@@ -522,17 +495,17 @@ In een ambt van de categorie van het opvoedend hulppersoneel volstaat het echter
 
 ### ART. 11.
 
-TERBESCHIKKINGSTELLING
-<p>§ 1. Voor de toepassing van de bepalingen van dit besluit dient onder "reaffectatie" van een ter beschikking gesteld personeelslid te worden verstaan: de toewijzing aan een personeelslid van een betrekking in "hetzelfde ambt".<br>
+TERBESCHIKKINGSTELLING<br>
 <br>
-§ 2. Voor de toepassingen van de bepalingen van dit besluit dient onder "wedertewerkstelling" van een ter beschikking gesteld personeelslid te worden verstaan [ (verv. B.V.R. 31 augustus 1999, art. 14, I: 1 augustus 1999) ]: (de toewijzing aan een personeelslid van een betrekking in een "ander ambt". (verv; B.V.R. 5 december 2003, art. 10, I: 1 september 2001)<br>
+§ 1. Voor de toepassing van de bepalingen van dit besluit dient onder "reaffectatie" van een ter beschikking gesteld personeelslid te worden verstaan: de toewijzing aan een personeelslid van een betrekking in "hetzelfde ambt".<br>
 <br>
-Onder voorbehoud van toepassing van de bepalingen, vermeld in artikel 3, § 3, zijn de verplichtingen inzake wedertewerkstelling voor de personeelsleden die ter beschikking gesteld zijn in een ambt van de personeelscategorieën in de linkerkolom van onderstaande tabellen beperkt tot de ambten van de personeelscategorieën in de rechterkolom. [ (verv. B.V.R. 5 december 2003, art. 10, I: 1 september 2001, evenwel met de beperking dat hieruit tijdens de periode van 1 september 2001 tot en met 31 augustus 2003 geen gevolgen kunnen voortvloeien voor de personeelsleden en de inrichtende machten en schoolbesturen met betrekking tot de bezoldiging, de terbeschikkingstelling wegens ontstentenis van betrekking, de reaffectatie en de wedertewerkstelling) ]<br>
+§ 2. Voor de toepassingen van de bepalingen van dit besluit dient onder "wedertewerkstelling" van een ter beschikking gesteld personeelslid te worden verstaan: de toewijzing aan een personeelslid van een betrekking in een "ander ambt".<br>
 <br>
-De verplichting tot wedertewerkstelling geldt evenwel niet als aan een personeelslid dat ter beschikking is gesteld in een wervingsambt, een betrekking in een selectie- of bevorderingsambt zou moeten worden toegewezen of als aan een personeelslid dat ter beschikking is gesteld in een selectieambt, een betrekking in een bevorderingsambt zou moeten worden toegewezen.[ (verv. B.V.R. 31 augustus 1999, art. 14, I: 1 augustus 1999) ]<br>
+Onder voorbehoud van toepassing van de bepalingen, vermeld in artikel 3, § 3, zijn de verplichtingen inzake wedertewerkstelling voor de personeelsleden die ter beschikking gesteld zijn in een ambt van de personeelscategorieën in de linkerkolom van onderstaande tabellen beperkt tot de ambten van de personeelscategorieën in de rechterkolom.<br>
 <br>
-<!--[if gte mso 9]><xml><br> <o:DocumentProperties><br>  <o:Author>Vankeech</o:Author><br>  <o:Template>Normal</o:Template><br>  <o:LastAuthor>Vankeech</o:LastAuthor><br>  <o:Revision>1</o:Revision><br>  <o:TotalTime>28</o:TotalTime><br>  <o:Created>2006-11-24T14:01:00Z</o:Created><br>  <o:LastSaved>2006-11-24T14:29:00Z</o:LastSaved><br>  <o:Pages>1</o:Pages><br>  <o:Words>560</o:Words><br>  <o:Characters>3080</o:Characters><br>  <o:Company>MVG</o:Company><br>  <o:Lines>25</o:Lines><br>  <o:Paragraphs>7</o:Paragraphs><br>  <o:CharactersWithSpaces>3633</o:CharactersWithSpaces><br>  <o:Version>11.6360</o:Version><br> </o:DocumentProperties><br></xml><![endif]--><!--[if gte mso 9]><xml><br> <w:WordDocument><br>  <w:SpellingState>Clean</w:SpellingState><br>  <w:GrammarState>Clean</w:GrammarState><br>  <w:HyphenationZone>21</w:HyphenationZone><br>  <w:PunctuationKerning></w:PunctuationKerning><br>  <w:ValidateAgainstSchemas></w:ValidateAgainstSchemas><br>  <w:SaveIfXMLInvalid>false</w:SaveIfXMLInvalid><br>  <w:IgnoreMixedContent>false</w:IgnoreMixedContent><br>  <w:AlwaysShowPlaceholderText>false</w:AlwaysShowPlaceholderText><br>  <w:Compatibility><br>   <w:BreakWrappedTables></w:BreakWrappedTables><br>   <w:SnapToGridInCell></w:SnapToGridInCell><br>   <w:WrapTextWithPunct></w:WrapTextWithPunct><br>   <w:UseAsianBreakRules></w:UseAsianBreakRules><br>   <w:DontGrowAutofit></w:DontGrowAutofit><br>  </w:Compatibility><br>  <w:BrowserLevel>MicrosoftInternetExplorer4</w:BrowserLevel><br> </w:WordDocument><br></xml><![endif]--><!--[if gte mso 9]><xml><br> <w:LatentStyles DefLockedState="e;false"e; LatentStyleCount="e;156"e;><br> </w:LatentStyles><br></xml><![endif]--><!--[if gte mso 10]><br><style><br> /* Style Definitions */<br> table.MsoNormalTable<br>	&lftaco;mso-style-name:Standaardtabel;<br>	mso-tstyle-rowband-size:0;<br>	mso-tstyle-colband-size:0;<br>	mso-style-noshow:yes;<br>	mso-style-parent:"e;"e;;<br>	mso-padding-alt:0cm 5.4pt 0cm 5.4pt;<br>	mso-para-margin:0cm;<br>	mso-para-margin-bottom:.0001pt;<br>	mso-pagination:widow-orphan;<br>	font-size:10.0pt;<br>	font-family:"e;Times New Roman"e;;<br>	mso-ansi-language:#0400;<br>	mso-fareast-language:#0400;<br>	mso-bidi-language:#0400;&rgtaco;<br>table.MsoTableGrid<br>	&lftaco;mso-style-name:Tabelraster;<br>	mso-tstyle-rowband-size:0;<br>	mso-tstyle-colband-size:0;<br>	border:solid windowtext 1.0pt;<br>	mso-border-alt:solid windowtext .5pt;<br>	mso-padding-alt:0cm 5.4pt 0cm 5.4pt;<br>	mso-border-insideh:.5pt solid windowtext;<br>	mso-border-insidev:.5pt solid windowtext;<br>	mso-para-margin:0cm;<br>	mso-para-margin-bottom:.0001pt;<br>	mso-pagination:widow-orphan;<br>	font-size:10.0pt;<br>	font-family:"e;Times New Roman"e;;<br>	mso-ansi-language:#0400;<br>	mso-fareast-language:#0400;<br>	mso-bidi-language:#0400;&rgtaco;<br></style><br><![endif]--></p>
-
+De verplichting tot wedertewerkstelling geldt evenwel niet als aan een personeelslid dat ter beschikking is gesteld in een wervingsambt, een betrekking in een selectie- of bevorderingsambt zou moeten worden toegewezen of als aan een personeelslid dat ter beschikking is gesteld in een selectieambt, een betrekking in een bevorderingsambt zou moeten worden toegewezen.<br>
+<br>
+<!--[if gte mso 9]><xml><br> <o:DocumentProperties><br>  <o:Author>Vankeech</o:Author><br>  <o:Template>Normal</o:Template><br>  <o:LastAuthor>Vankeech</o:LastAuthor><br>  <o:Revision>2</o:Revision><br>  <o:TotalTime>30</o:TotalTime><br>  <o:Created>2006-11-24T14:34:00Z</o:Created><br>  <o:LastSaved>2006-11-24T14:34:00Z</o:LastSaved><br>  <o:Pages>1</o:Pages><br>  <o:Words>520</o:Words><br>  <o:Characters>2862</o:Characters><br>  <o:Company>MVG</o:Company><br>  <o:Lines>23</o:Lines><br>  <o:Paragraphs>6</o:Paragraphs><br>  <o:CharactersWithSpaces>3376</o:CharactersWithSpaces><br>  <o:Version>11.6360</o:Version><br> </o:DocumentProperties><br></xml><![endif]--><!--[if gte mso 9]><xml><br> <w:WordDocument><br>  <w:Zoom>90</w:Zoom><br>  <w:SpellingState>Clean</w:SpellingState><br>  <w:GrammarState>Clean</w:GrammarState><br>  <w:HyphenationZone>21</w:HyphenationZone><br>  <w:PunctuationKerning></w:PunctuationKerning><br>  <w:ValidateAgainstSchemas></w:ValidateAgainstSchemas><br>  <w:SaveIfXMLInvalid>false</w:SaveIfXMLInvalid><br>  <w:IgnoreMixedContent>false</w:IgnoreMixedContent><br>  <w:AlwaysShowPlaceholderText>false</w:AlwaysShowPlaceholderText><br>  <w:Compatibility><br>   <w:BreakWrappedTables></w:BreakWrappedTables><br>   <w:SnapToGridInCell></w:SnapToGridInCell><br>   <w:WrapTextWithPunct></w:WrapTextWithPunct><br>   <w:UseAsianBreakRules></w:UseAsianBreakRules><br>   <w:DontGrowAutofit></w:DontGrowAutofit><br>  </w:Compatibility><br>  <w:BrowserLevel>MicrosoftInternetExplorer4</w:BrowserLevel><br> </w:WordDocument><br></xml><![endif]--><!--[if gte mso 9]><xml><br> <w:LatentStyles DefLockedState="e;false"e; LatentStyleCount="e;156"e;><br> </w:LatentStyles><br></xml><![endif]--><!--[if gte mso 10]><br><style><br> /* Style Definitions */<br> table.MsoNormalTable<br>	&lftaco;mso-style-name:Standaardtabel;<br>	mso-tstyle-rowband-size:0;<br>	mso-tstyle-colband-size:0;<br>	mso-style-noshow:yes;<br>	mso-style-parent:"e;"e;;<br>	mso-padding-alt:0cm 5.4pt 0cm 5.4pt;<br>	mso-para-margin:0cm;<br>	mso-para-margin-bottom:.0001pt;<br>	mso-pagination:widow-orphan;<br>	font-size:10.0pt;<br>	font-family:"e;Times New Roman"e;;<br>	mso-ansi-language:#0400;<br>	mso-fareast-language:#0400;<br>	mso-bidi-language:#0400;&rgtaco;<br>table.MsoTableGrid<br>	&lftaco;mso-style-name:Tabelraster;<br>	mso-tstyle-rowband-size:0;<br>	mso-tstyle-colband-size:0;<br>	border:solid windowtext 1.0pt;<br>	mso-border-alt:solid windowtext .5pt;<br>	mso-padding-alt:0cm 5.4pt 0cm 5.4pt;<br>	mso-border-insideh:.5pt solid windowtext;<br>	mso-border-insidev:.5pt solid windowtext;<br>	mso-para-margin:0cm;<br>	mso-para-margin-bottom:.0001pt;<br>	mso-pagination:widow-orphan;<br>	font-size:10.0pt;<br>	font-family:"e;Times New Roman"e;;<br>	mso-ansi-language:#0400;<br>	mso-fareast-language:#0400;<br>	mso-bidi-language:#0400;&rgtaco;<br></style><br><![endif]-->
 <table class="MsoTableGrid" style="border: currentColor; border-image: none; border-collapse: collapse; mso-border-alt: solid windowtext .5pt; mso-yfti-tbllook: 480; mso-padding-alt: 0cm 5.4pt 0cm 5.4pt;" border="1" cellspacing="0" cellpadding="0">
 	<tbody>
 		<tr>
@@ -606,11 +579,7 @@ De verplichting tot wedertewerkstelling geldt evenwel niet als aan een personeel
 	</tbody>
 </table>
 
-<p>&nbsp;</p>
-
 <p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-<p>&nbsp;</p>
 
 <table class="MsoTableGrid" style="border: currentColor; border-image: none; border-collapse: collapse; mso-border-alt: solid windowtext .5pt; mso-yfti-tbllook: 480; mso-padding-alt: 0cm 5.4pt 0cm 5.4pt;" border="1" cellspacing="0" cellpadding="0">
 	<tbody>
@@ -683,11 +652,7 @@ De verplichting tot wedertewerkstelling geldt evenwel niet als aan een personeel
 	</tbody>
 </table>
 
-<p>&nbsp;</p>
-
 <p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-<p>&nbsp;</p>
 
 <table class="MsoTableGrid" style="border: currentColor; border-image: none; border-collapse: collapse; mso-border-alt: solid windowtext .5pt; mso-yfti-tbllook: 480; mso-padding-alt: 0cm 5.4pt 0cm 5.4pt;" border="1" cellspacing="0" cellpadding="0">
 	<tbody>
@@ -724,19 +689,13 @@ De verplichting tot wedertewerkstelling geldt evenwel niet als aan een personeel
 
 			<p style="margin-right: 0cm; margin-left: 0cm;">- opvoedend hulppersoneel</p>
 
-			<p style="margin-right: 0cm; margin-left: 0cm;">ondersteunend personeel met uitzondering van het personeel dat behoort tot het gewoon voltijds en deeltijds secundair onderwijs</p>
-
 			<p style="margin-right: 0cm; margin-left: 0cm;">- het technisch personeel</p>
 			</td>
 		</tr>
 	</tbody>
 </table>
 
-<p>&nbsp;</p>
-
 <p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-<p>&nbsp;</p>
 
 <table class="MsoTableGrid" style="border: currentColor; border-image: none; border-collapse: collapse; mso-border-alt: solid windowtext .5pt; mso-yfti-tbllook: 480; mso-padding-alt: 0cm 5.4pt 0cm 5.4pt;" border="1" cellspacing="0" cellpadding="0">
 	<tbody>
@@ -779,11 +738,7 @@ De verplichting tot wedertewerkstelling geldt evenwel niet als aan een personeel
 	</tbody>
 </table>
 
-<p>&nbsp;</p>
-
 <p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-<p>&nbsp;</p>
 
 <table class="MsoTableGrid" style="border: currentColor; border-image: none; border-collapse: collapse; mso-border-alt: solid windowtext .5pt; mso-yfti-tbllook: 480; mso-padding-alt: 0cm 5.4pt 0cm 5.4pt;" border="1" cellspacing="0" cellpadding="0">
 	<tbody>
@@ -808,8 +763,6 @@ De verplichting tot wedertewerkstelling geldt evenwel niet als aan een personeel
 
 			<p style="margin-right: 0cm; margin-left: 0cm;">- administratief personeel</p>
 
-			<p style="margin-right: 0cm; margin-left: 0cm;">- ondersteunend personeel met uitzondering van het personeel dat behoort tot het gewoon voltijds en deeltijds secundair onderwijs</p>
-
 			<p style="margin-right: 0cm; margin-left: 0cm;">- psychologisch personeel</p>
 
 			<p style="margin-right: 0cm; margin-left: 0cm;">- paramedisch personeel</p>
@@ -826,11 +779,7 @@ De verplichting tot wedertewerkstelling geldt evenwel niet als aan een personeel
 	</tbody>
 </table>
 
-<p>&nbsp;</p>
-
 <p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-<p>&nbsp;</p>
 
 <table class="MsoTableGrid" style="border: currentColor; border-image: none; border-collapse: collapse; mso-border-alt: solid windowtext .5pt; mso-yfti-tbllook: 480; mso-padding-alt: 0cm 5.4pt 0cm 5.4pt;" border="1" cellspacing="0" cellpadding="0">
 	<tbody>
@@ -871,11 +820,7 @@ De verplichting tot wedertewerkstelling geldt evenwel niet als aan een personeel
 	</tbody>
 </table>
 
-<p>&nbsp;</p>
-
 <p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-<p>(verv; B.V.R. 5 december 2003, art. 10, I: 1 september 2001)</p>
 
 ## HOOFDSTUK V DIENSTANCIENNITEIT EN AMBTSANCIENNITEIT
 
@@ -959,49 +904,7 @@ De Vlaamse minister, bevoegd voor het onderwijs [ <span class="reference">(verv.
 
 ### ART. 22.
 
-§ 1. Bij de terbeschikkingstelling in het onderwijs wordt een onderscheid gemaakt tussen het gewoon onderwijs enerzijds en het buitengewoon onderwijs anderzijds.<br>
-<br>
-§ 2. Onder de vastbenoemde personeelsleden die "hetzelfde ambt" als hoofdambt uitoefenen, wordt volgende volgorde van terbeschikkingstelling gehanteerd.<br>
-1° In het gewoon basisonderwijs:<br>
-a) wordt in het gemeenschapsonderwijs onder de leden die "hetzelfde ambt" uitoefenen, in de instelling waar de vermindering van prestaties zich voordoet degene ter beschikking gesteld die de kleinste dienstanciënniteit heeft;<br>
-b) wordt in het gesubsidieerd onderwijs:<br>
-1) eerst onder de leden andere dan die bedoeld in 2), die « hetzelfde ambt » uitoefenen diegene ter beschikking gesteld die de kleinste dienstanciënniteit heeft:<br>
-- voor scholen die tot een scholengemeenschap behoren in de instelling waar de vermindering van prestaties zich voordoet;<br>
-- voor scholen die niet tot een scholengemeenschap behoren naar keuze:<br>
-- in de instelling waar de vermindering van prestaties zich voordoet of<br>
-- in het geheel van de instellingen die een inrichtende macht op het grondgebied van dezelfde gemeente organiseert.<br>
-Eens de keuze gemaakt is geldt die voor een periode van zes jaar voor het vrij onderwijs of voor de lopende of aanvangende legislatuur voor het officieel onderwijs voor alle personeelsleden in alle categorieën;<br>
-2) daarna onder de directeurs van een basisschool die een inrichtende macht heeft ter beschikking gesteld bij toepassing van de wettelijke bepalingen tot opheffing van de vierde graden of van artikel 22, a en c, van de gecoördineerde wetten op het lager onderwijs, of nog van de eerste maatregelen tot rationalisatie van het gewoon lager onderwijs en opnieuw in dienstactiviteit heeft geroepen in één van de ambten van onderwijzer, van leermeester niet-confessionele zedenleer, van leermeester godsdienst, van leermeester lichamelijke opvoeding of van bijzondere leermeester diegene met de kleinste dienstanciënniteit:<br>
-- voor scholen die tot een scholengemeenschap behoren in de instelling waar de vermindering van prestaties zich voordoet;<br>
-- voor scholen die niet tot een scholengemeenschap behoren naar keuze:<br>
-- in de instelling waar de vermindering van prestaties zich voordoet of<br>
-- in het geheel van de instellingen die een inrichtende macht op het grondgebied van dezelfde gemeente organiseert.<br>
-Eens de keuze gemaakt is geldt die voor een periode van zes jaar voor het vrij onderwijs of voor de lopende of aanvangende legislatuur voor het officieel onderwijs voor alle personeelsleden in alle categorieën.<br>
-2° In het gewoon voltijds secundair onderwijs, het deeltijds secundair zeevisserijonderwijs, het deeltijds beroepssecundair onderwijs en het buitengewoon secundair onderwijs wordt:<br>
-a) in het gemeenschapsonderwijs en in het gesubsidieerd vrij onderwijs in de instelling waar de vermindering van prestaties zich voordoet degene ter beschikking gesteld die de kleinste dienstanciënniteit heeft.<br>
-Voor de toepassing van dit artikel vormt de ingebouwde middenschool, bedoeld in artikel 7 van het koninklijk besluit van 15 december 1982 tot vaststelling van de benaming en de structuur van de door de Staat georganiseerde inrichtingen voor secundair onderwijs, één instelling met de instelling waarmee ze een administratieve eenheid vormt. Dat geldt eveneens voor de Pedagogische entiteit, maar niet voor de personeelsleden die behoren tot de categorie van het ondersteunend personeel in het gewoon voltijds secundair onderwijs;<br>
-b) in het gesubsidieerd officieel onderwijs in de instelling waar de vermindering van prestaties zich voordoet degene ter beschikking gesteld die de kleinste dienstanciënniteit heeft.<br>
-In instellingen die niet tot een scholengemeenschap behoren, gebeurt de terbeschikkingstelling naar keuze in de instelling waar de vermindering van prestaties zich voordoet of in het geheel der instellingen die een inrichtende macht op het grondgebied van dezelfde gemeente organiseert.<br>
-Eens de keuze gemaakt is, geldt die voor een periode van zes jaar voor alle personeelsleden in alle categorieën of voor de lopende of aanvangende legislatuur.<br>
-Bij de terbeschikkingstelling in een ambt van het ondersteunend personeel in het gewoon voltijds secundair onderwijs moet de inrichtende macht steeds rekening houden met artikel 2, § 9 en § 10.<br>
-Als door voormelde terbeschikkingstelling het aantal opvoeders onder de 50 % van het aantal personeelsleden van het ondersteunend personeel van de instelling daalt, wordt de vastbenoemde titularis met de kleinste dienstanciënniteit in het ambt van administratief medewerker ter beschikking gesteld;<br>
-3° In het deeltijds kunstonderwijs wordt:<br>
-a) in het gemeenschapsonderwijs en in het gesubsidieerd vrij onderwijs in de instelling waar de vermindering van prestaties zich voordoet degene ter beschikking gesteld die de kleinste dienstanciënniteit heeft;<br>
-b) in het gesubsidieerd officieel onderwijs: naar keuze in de instelling waar de vermindering van prestaties zich voordoet of in het geheel van de instellingen die een inrichtende macht op het grondgebied van dezelfde gemeente organiseert: degene ter beschikking gesteld die de kleinste dienstanciënniteit heeft.<br>
-Als de keuze gemaakt is, geldt die voor een periode van zes jaar voor alle personeelsleden in alle categorieën of voor de lopende of aanvangende legislatuur.<br>
-4° In het onderwijs voor sociale promotie wordt:<br>
-a) in het gemeenschapsonderwijs en in het gesubsidieerd vrij onderwijs in de instelling waar de vermindering van prestaties zich voordoet degene ter beschikking gesteld die de kleinste dienstanciënniteit heeft;<br>
-b) in het gesubsidieerd officieel onderwijs naar keuze in de instelling waar de vermindering van prestaties zich voordoet of in het geheel van de instellingen die een inrichtende macht op het grondgebied van dezelfde gemeente organiseert degene ter beschikking gesteld die de kleinste dienstanciënniteit heeft.<br>
-Als de keuze gemaakt is, geldt die voor een periode van zes jaar voor alle personeelsleden in alle categorieën of voor de lopende of aanvangende legislatuur.<br>
-5° In het buitengewoon basisonderwijs wordt:<br>
-a) in het gemeenschapsonderwijs en in het gesubsidieerd vrij onderwijs in de instelling waar de vermindering van prestaties zich voordoet degene ter beschikking gesteld die de kleinste dienstanciënniteit heeft;<br>
-b) in het gesubsidieerd officieel onderwijs diegene ter beschikking gesteld met de kleinste dienstanciënniteit<br>
-- voor scholen die tot een scholengemeenschap behoren in de instelling waar de vermindering van prestaties zich voordoet<br>
-- voor scholen die niet tot een scholengemeenschap behoren naar keuze:<br>
-- in de instelling waar de vermindering van prestaties zich voordoet of<br>
-- in het geheel van de instellingen die een inrichtende macht op het grondgebied van dezelfde gemeente organiseert.<br>
-Eens de keuze gemaakt is geldt die voor een periode van zes jaar voor alle personeelsleden in alle categorieën of voor de lopende of aanvangende legislatuur.<br>
-6° In de centra wordt in het centrum en in het ambt waar de vermindering van prestaties zich voordoet degene ter beschikking gesteld die de kleinste dienstanciënniteit heeft. <em>[(verv. B.V.R. 23 september 2005, art. 17, I: 1 juni 2005</em>)]
+§ 1. Bij de terbeschikkingstelling in het onderwijs wordt een onderscheid gemaakt tussen het gewoon onderwijs enerzijds en het buitengewoon onderwijs anderzijds.<br /><br />§ 2. Onder de vastbenoemde personeelsleden die "hetzelfde ambt" als hoofdambt uitoefenen, wordt volgende volgorde van terbeschikkingstelling gehanteerd.<br /><br />1° In het gewoon basisonderwijs:<br /><br />a) wordt in het gemeenschapsonderwijs onder de leden die "hetzelfde ambt" uitoefenen, in de instelling waar de vermindering van prestaties zich voordoet degene ter beschikking gesteld die de kleinste dienstanciënniteit heeft;<br /><br />b) wordt in het gesubsidieerd onderwijs:<br /><br />1) eerst onder de leden andere dan die bedoeld in 2), die « hetzelfde ambt » uitoefenen diegene ter beschikking gesteld die de kleinste dienstanciënniteit heeft:<br />- voor scholen die tot een scholengemeenschap behoren in de instelling waar de vermindering van prestaties zich voordoet;<br />- voor scholen die niet tot een scholengemeenschap behoren naar keuze:<br />- in de instelling waar de vermindering van prestaties zich voordoet of<br />- in het geheel van de instellingen die een inrichtende macht op het grondgebied van dezelfde gemeente organiseert.<br /><br />Eens de keuze gemaakt is geldt die voor een periode van zes jaar voor het vrij onderwijs of voor de lopende of aanvangende legislatuur voor het officieel onderwijs voor alle personeelsleden in alle categorieën;<br /><br />2) daarna onder de directeurs van een basisschool die een inrichtende macht heeft ter beschikking gesteld bij toepassing van de wettelijke bepalingen tot opheffing van de vierde graden of van artikel 22, a en c, van de gecoördineerde wetten op het lager onderwijs, of nog van de eerste maatregelen tot rationalisatie van het gewoon lager onderwijs en opnieuw in dienstactiviteit heeft geroepen in één van de ambten van onderwijzer, van leermeester niet-confessionele zedenleer, van leermeester godsdienst, van leermeester lichamelijke opvoeding of van bijzondere leermeester diegene met de kleinste dienstanciënniteit:<br />- voor scholen die tot een scholengemeenschap behoren in de instelling waar de vermindering van prestaties zich voordoet;<br />- voor scholen die niet tot een scholengemeenschap behoren naar keuze:<br />- in de instelling waar de vermindering van prestaties zich voordoet of<br />- in het geheel van de instellingen die een inrichtende macht op het grondgebied van dezelfde gemeente organiseert.<br /><br />Eens de keuze gemaakt is geldt die voor een periode van zes jaar voor het vrij onderwijs of voor de lopende of aanvangende legislatuur voor het officieel onderwijs voor alle personeelsleden in alle categorieën.<br /><br />2° In het gewoon voltijds secundair onderwijs, het deeltijds secundair zeevisserijonderwijs, het deeltijds beroepssecundair onderwijs en het buitengewoon secundair onderwijs wordt:<br /><br />a) in het gemeenschapsonderwijs en in het gesubsidieerd vrij onderwijs in de instelling waar de vermindering van prestaties zich voordoet degene ter beschikking gesteld die de kleinste dienstanciënniteit heeft.<br /><br />Voor de toepassing van dit artikel vormt de ingebouwde middenschool, bedoeld in artikel 7 van het koninklijk besluit van 15 december 1982 tot vaststelling van de benaming en de structuur van de door de Staat georganiseerde inrichtingen voor secundair onderwijs, één instelling met de instelling waarmee ze een administratieve eenheid vormt. Dat geldt eveneens voor de Pedagogische entiteit, maar niet voor de personeelsleden die behoren tot de categorie van het ondersteunend personeel;<br /><br />b) in het gesubsidieerd officieel onderwijs in de instelling waar de vermindering van prestaties zich voordoet degene ter beschikking gesteld die de kleinste dienstanciënniteit heeft.<br /><br />In instellingen die niet tot een scholengemeenschap behoren, gebeurt de terbeschikkingstelling naar keuze in de instelling waar de vermindering van prestaties zich voordoet of in het geheel der instellingen die een inrichtende macht op het grondgebied van dezelfde gemeente organiseert.<br /><br />Eens de keuze gemaakt is, geldt die voor een periode van zes jaar voor alle personeelsleden in alle categorieën of voor de lopende of aanvangende legislatuur.<br /><br />Bij de terbeschikkingstelling in een ambt van het ondersteunend personeel moet de inrichtende macht steeds rekening houden met artikel 2, § 9 en § 10.<br /><br />Als door voormelde terbeschikkingstelling het aantal opvoeders onder de 50 % van het aantal personeelsleden van het ondersteunend personeel van de instelling daalt, wordt de vastbenoemde titularis met de kleinste dienstanciënniteit in het ambt van administratief medewerker ter beschikking gesteld;<br /><br />3° In het deeltijds kunstonderwijs wordt:<br /><br />a) in het gemeenschapsonderwijs en in het gesubsidieerd vrij onderwijs in de instelling waar de vermindering van prestaties zich voordoet degene ter beschikking gesteld die de kleinste dienstanciënniteit heeft;<br /><br />b) in het gesubsidieerd officieel onderwijs: naar keuze in de instelling waar de vermindering van prestaties zich voordoet of in het geheel van de instellingen die een inrichtende macht op het grondgebied van dezelfde gemeente organiseert: degene ter beschikking gesteld die de kleinste dienstanciënniteit heeft.<br /><br />Als de keuze gemaakt is, geldt die voor een periode van zes jaar voor alle personeelsleden in alle categorieën of voor de lopende of aanvangende legislatuur.<br /><br />4° In het onderwijs voor sociale promotie wordt:<br /><br />a) in het gemeenschapsonderwijs en in het gesubsidieerd vrij onderwijs in de instelling waar de vermindering van prestaties zich voordoet degene ter beschikking gesteld die de kleinste dienstanciënniteit heeft;<br /><br />b) in het gesubsidieerd officieel onderwijs naar keuze in de instelling waar de vermindering van prestaties zich voordoet of in het geheel van de instellingen die een inrichtende macht op het grondgebied van dezelfde gemeente organiseert degene ter beschikking gesteld die de kleinste dienstanciënniteit heeft.<br /><br />Als de keuze gemaakt is, geldt die voor een periode van zes jaar voor alle personeelsleden in alle categorieën of voor de lopende of aanvangende legislatuur.<br /><br />5° In het buitengewoon basisonderwijs wordt:<br /><br />a) in het gemeenschapsonderwijs en in het gesubsidieerd vrij onderwijs in de instelling waar de vermindering van prestaties zich voordoet degene ter beschikking gesteld die de kleinste dienstanciënniteit heeft;<br /><br />b) in het gesubsidieerd officieel onderwijs diegene ter beschikking gesteld met de kleinste dienstanciënniteit<br />- voor scholen die tot een scholengemeenschap behoren in de instelling waar de vermindering van prestaties zich voordoet<br />- voor scholen die niet tot een scholengemeenschap behoren naar keuze:<br />- in de instelling waar de vermindering van prestaties zich voordoet of<br />- in het geheel van de instellingen die een inrichtende macht op het grondgebied van dezelfde gemeente organiseert.<br /><br />Eens de keuze gemaakt is geldt die voor een periode van zes jaar voor alle personeelsleden in alle categorieën of voor de lopende of aanvangende legislatuur.<br /><br />6° In de centra wordt in het centrum en in het ambt waar de vermindering van prestaties zich voordoet degene ter beschikking gesteld die de kleinste dienstanciënniteit heeft.
 
 ### ART. 23.
 
