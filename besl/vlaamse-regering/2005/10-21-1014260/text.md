@@ -30,35 +30,57 @@ De Vlaamse minister bevoegd voor Onderwijs is belast met de uitvoering van dit b
 
 <p>&nbsp;</p>
 
-<table border="0" cellpadding="0" cellspacing="0" style="border-collapse:collapse">
+<table border="1" cellpadding="0" cellspacing="0" style="border-collapse:collapse">
 	<tbody>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; height:11.35pt; width:4cm">
-			<p>studiegebied<!--?xml:namespace         prefix = o ns = "urn:schemas-microsoft-com:office:office"         /--></p>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:153.5pt">
+			<p>Studiegebied</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; height:11.35pt; width:175.75pt">
-			<p>opleiding</p>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:153.55pt">
+			<p>Opleiding</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; height:11.35pt; width:90.7pt">
-			<p>onderwijsvorm en -graad</p>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:153.55pt">
+			<p>Onderwijsvorm en –graad</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; width:90.7pt">
-			<p>algemene vorming</p>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.5pt">
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>Algemene vorming</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; width:175.75pt">
-			<p>economie - moderne talen</p>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.55pt">
+			<p>Economie – moderne talen</p>
 
-			<p>economie - wiskunde</p>
+			<p>Economie – wiskunde</p>
 
-			<p>menswetenschappen</p>
+			<p>Humane wetenschappen</p>
 
-			<p>moderne talen - wiskunde</p>
+			<p>Moderne talen</p>
 
-			<p>wetenschappen - wiskunde</p>
+			<p>- wetenschappen</p>
+
+			<p>- moderne talen</p>
+
+			<p>- wiskunde</p>
+
+			<p>Wetenschappen – wiskunde</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; width:90.7pt">
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.55pt">
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
 			<p>ASO 3</p>
 			</td>
 		</tr>
@@ -69,135 +91,719 @@ De Vlaamse minister bevoegd voor Onderwijs is belast met de uitvoering van dit b
 
 <p>&nbsp;</p>
 
+<p>&nbsp;</p>
+
 ## Bijlage I B: combinaties van opleidingen die leiden tot een diploma secundair onderwijs
 
 ### Tekst
 
-<p>&nbsp;</p>
-
 <table border="1" cellpadding="0" cellspacing="0" style="border-collapse:collapse">
 	<tbody>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; height:11.35pt; width:62.35pt">
-			<p>studiegebied<!--?xml:namespace         prefix = o ns = "urn:schemas-microsoft-com:office:office"         /--></p>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:59.4pt">
+			<p>Studiegebied</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; height:11.35pt; width:82.2pt">
-			<p>opleiding</p>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:54.45pt">
+			<p>Opleiding</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; height:11.35pt; width:62.35pt">
-			<p>onderwijsvorm en -graad</p>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:73.6pt">
+			<p>Onderwijsvorm en –graad</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; height:11.35pt; width:96.4pt">
-			<p>gecombineerd met opleiding</p>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:132.95pt">
+			<p>Gecombineerd met opleiding(en)</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; height:11.35pt; width:73.7pt">
-			<p>studiegebied</p>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:81pt">
+			<p>Studiegebied</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; height:11.35pt; width:62.35pt">
-			<p>onderwijsvorm en - graad</p>
-			</td>
-		</tr>
-		<tr>
-			<td rowspan="8" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; width:62.35pt">
-			<p>algemene vorming</p>
-			</td>
-			<td rowspan="5" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; width:82.2pt">
-			<p>algemene vorming TSO 3</p>
-			</td>
-			<td rowspan="5" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; width:62.35pt">
-			<p>TSO 3</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; width:96.4pt">
-			<p>chemie</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; width:73.7pt">
-			<p>chemie</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; width:62.35pt">
-			<p>TSO 3</p>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:59.2pt">
+			<p>Onderwijs-vorm en -graad</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; width:96.4pt">
-			<p>farmaceutisch-technisch assistent</p>
+			<td rowspan="2" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:59.4pt">
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>Algemene vorming</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; width:73.7pt">
-			<p>chemie</p>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:54.45pt">
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>Algemene vorming TSO 3</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; width:62.35pt">
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:73.6pt">
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>TSO 3</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:132.95pt">
+			<p>Airco-technieker</p>
+
+			<p>&nbsp;</p>
+
+			<p>Boekhouden-informatica</p>
+
+			<p>Chemie</p>
+
+			<p>Digitaal drukker</p>
+
+			<p>&nbsp;</p>
+
+			<p>Farmaceutisch-technisch assistent</p>
+
+			<p>Fotografie</p>
+
+			<p>Hotel</p>
+
+			<p>Jeugd- en gehandicaptenzorg</p>
+
+			<p>Koeltechnieker</p>
+
+			<p>&nbsp;</p>
+
+			<p>Manueel boekbinder</p>
+
+			<p>Maritiem medewerker</p>
+
+			<p>Mecanicien personen- en lichte bedrijfswagens</p>
+
+			<p>Monteur centrale verwarming BSO 3 + technieker centrale verwarming</p>
+
+			<p>Multimedia-operator</p>
+
+			<p>&nbsp;</p>
+
+			<p>Offsetdrukker rotatie</p>
+
+			<p>&nbsp;</p>
+
+			<p>Onderhoudsmecanicien</p>
+
+			<p>&nbsp;</p>
+
+			<p>PLC-technieker</p>
+
+			<p>&nbsp;</p>
+
+			<p>Podiumtechnicus</p>
+
+			<p>&nbsp;</p>
+
+			<p>Productie-operator verspanning</p>
+
+			<p>&nbsp;</p>
+
+			<p>Regelaar tapijt/fluweelweefmachines</p>
+
+			<p>Regelaar weefmachines</p>
+
+			<p>Schoonheidsverzorging</p>
+
+			<p>&nbsp;</p>
+
+			<p>Secretariaat – talen</p>
+
+			<p>Tapijt/fluweelwever</p>
+
+			<p>Technieker aandrijfsystemen</p>
+
+			<p>&nbsp;</p>
+
+			<p>Toerisme en onthaal</p>
+
+			<p>Webdesigner</p>
+
+			<p>Webontwikkelaar</p>
+
+			<p>Webserverbeheerder</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:81pt">
+			<p>Koeling en warmte</p>
+
+			<p>Handel</p>
+
+			<p>Chemie</p>
+
+			<p>Grafische technieken</p>
+
+			<p>Chemie</p>
+
+			<p>&nbsp;</p>
+
+			<p>Fotografie</p>
+
+			<p>Voeding</p>
+
+			<p>Personenzorg</p>
+
+			<p>Koeling en warmte</p>
+
+			<p>Boekbinden</p>
+
+			<p>Handel</p>
+
+			<p>Auto</p>
+
+			<p>&nbsp;</p>
+
+			<p>Koeling en warmte</p>
+
+			<p>&nbsp;</p>
+
+			<p>Grafische technieken</p>
+
+			<p>Grafische technieken</p>
+
+			<p>Mechanica – elektriciteit</p>
+
+			<p>Mechanica – elektriciteit</p>
+
+			<p>Mechanica – elektriciteit</p>
+
+			<p>Mechanica – elektriciteit</p>
+
+			<p>Textiel</p>
+
+			<p>&nbsp;</p>
+
+			<p>Textiel</p>
+
+			<p>Lichaamsverzorging</p>
+
+			<p>Handel</p>
+
+			<p>Textiel</p>
+
+			<p>Mechanica – elektriciteit</p>
+
+			<p>Toerisme</p>
+
+			<p>Grafische technieken</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:59.2pt">
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
 			<p>TSO 3</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; width:96.4pt">
-			<p>jeugd- en gehandicaptenzorg</p>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:54.45pt">
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>Algemene vorming BSO 3</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; width:73.7pt">
-			<p>personenzorg</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; width:62.35pt">
-			<p>TSO 3</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; width:96.4pt">
-			<p>maritiem medewerker</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; width:73.7pt">
-			<p>handel</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; width:62.35pt">
-			<p>TSO 3</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; width:96.4pt">
-			<p>secretariaat-talen</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; width:73.7pt">
-			<p>handel</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; width:62.35pt">
-			<p>TSO 3</p>
-			</td>
-		</tr>
-		<tr>
-			<td rowspan="3" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; width:82.2pt">
-			<p>algemene vorming BSO 3</p>
-			</td>
-			<td rowspan="3" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; width:62.35pt">
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:73.6pt">
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
 			<p>BSO 3</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; width:96.4pt">
-			<p>kantooradministratie en gegevensbeheer</p>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:132.95pt">
+			<p>BMBE-lasser + MIG/MAG-lasser</p>
+
+			<p>BMBE-lasser + TIG-lasser</p>
+
+			<p>&nbsp;</p>
+
+			<p>Buisfitter staal + buisfitter kunststof</p>
+
+			<p>Dakdekker metalen dak + Loodgieter</p>
+
+			<p>&nbsp;</p>
+
+			<p>Draaier – frezer</p>
+
+			<p>&nbsp;</p>
+
+			<p>Fietsenmaker + mecanicien bromfietsen en tuinmateriaal</p>
+
+			<p>Hersteller witgoed</p>
+
+			<p>&nbsp;</p>
+
+			<p>Industrieel elektrotechnisch installateur</p>
+
+			<p>Kantooradministratie en gegevensbeheer</p>
+
+			<p>Kinderzorg</p>
+
+			<p>Kinderzorg/begeleider in de kinderopvang</p>
+
+			<p>Koetswerkhersteller</p>
+
+			<p>Lasser – monteerder</p>
+
+			<p>&nbsp;</p>
+
+			<p>Loodgieter +</p>
+
+			<p>&nbsp;</p>
+
+			<p>Dakdekker metalen dak</p>
+
+			<p>Matrijzenmaker</p>
+
+			<p>&nbsp;</p>
+
+			<p>MIG-MAG-lasser + TIG-lasser</p>
+
+			<p>Monteur centrale verwarming + installateur individuele gasverwarming</p>
+
+			<p>Monteur centrale verwarming + loodgieter</p>
+
+			<p>Monteur klimatisatie</p>
+
+			<p>&nbsp;</p>
+
+			<p>Plaatlasser</p>
+
+			<p>&nbsp;</p>
+
+			<p>Polyvalent dakdekker</p>
+
+			<p>Polyvalent verzorgende/thuis- en bejaardenzorg</p>
+
+			<p>Regelaar weefmachines</p>
+
+			<p>Regelaar tapijt/fluweelweefmachines</p>
+
+			<p>Sanitair installateur</p>
+
+			<p>&nbsp;</p>
+
+			<p>Vrachtwagenchauffeur</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; width:73.7pt">
-			<p>handel</p>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:81pt">
+			<p>Mechanica – elektriciteit</p>
+
+			<p>Mechanica – elektriciteit</p>
+
+			<p>Mechanica – elektriciteit</p>
+
+			<p>Bouw</p>
+
+			<p>Koeling en warmte</p>
+
+			<p>Mechanica –emektriciteit</p>
+
+			<p>Auto</p>
+
+			<p>&nbsp;</p>
+
+			<p>Mechanica – elektriciteit</p>
+
+			<p>Mechanica – elektriciteit</p>
+
+			<p>Handel</p>
+
+			<p>&nbsp;</p>
+
+			<p>Personenzorg</p>
+
+			<p>Personenzorg</p>
+
+			<p>&nbsp;</p>
+
+			<p>Auto</p>
+
+			<p>Mechanica – elektriciteit</p>
+
+			<p>Koeling en warmte</p>
+
+			<p>Bouw</p>
+
+			<p>Mechanica – elektriciteit</p>
+
+			<p>Mechanica – elektriciteit</p>
+
+			<p>Koeling en warmte</p>
+
+			<p>&nbsp;</p>
+
+			<p>Koeling en warmte</p>
+
+			<p>Koeling en warmte</p>
+
+			<p>Mechanica – elektriciteit</p>
+
+			<p>Bouw</p>
+
+			<p>Personenzorg</p>
+
+			<p>&nbsp;</p>
+
+			<p>Textiel</p>
+
+			<p>Textiel</p>
+
+			<p>&nbsp;</p>
+
+			<p>Koeling en warmte</p>
+
+			<p>Auto</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; width:62.35pt">
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:59.2pt">
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
 			<p>BSO 3</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; width:96.4pt">
-			<p>kinderzorg</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; width:73.7pt">
-			<p>personenzorg</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; width:62.35pt">
-			<p>BSO 3</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; width:96.4pt">
-			<p>polyvalent verzorgende / thuis- en bejaardenzorg</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; width:73.7pt">
-			<p>personenzorg</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; width:62.35pt">
-			<p>BSO 3</p>
+
+			<p>&nbsp;</p>
 			</td>
 		</tr>
 	</tbody>
@@ -211,70 +817,121 @@ De Vlaamse minister bevoegd voor Onderwijs is belast met de uitvoering van dit b
 
 ### Tekst
 
-<p>&nbsp;</p>
-
-<table border="0" cellpadding="0" cellspacing="0" style="border-collapse:collapse">
+<table border="1" cellpadding="0" cellspacing="0" style="border-collapse:collapse">
 	<tbody>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; height:11.35pt; width:90.7pt">
-			<p>studiegebied<!--?xml:namespace         prefix = o ns = "urn:schemas-microsoft-com:office:office"         /--></p>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:131.4pt">
+			<p>Studiegebied</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; height:11.35pt; width:175.75pt">
-			<p>opleiding</p>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:198pt">
+			<p>Opleiding</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; height:11.35pt; width:90.7pt">
-			<p>onderwijsvorm en -graad</p>
-			</td>
-		</tr>
-		<tr>
-			<td rowspan="5" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; width:90.7pt">
-			<p>algemene vorming</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; width:175.75pt">
-			<p>economie - moderne talen</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; width:90.7pt">
+			<td rowspan="6" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:131.2pt">
+			<p>Onderwijsvorm en –graad</p>
+
+			<p>&nbsp;</p>
+
 			<p>ASO 2</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; width:175.75pt">
-			<p>economie - wiskunde</p>
 
-			<p>economie - moderne talen</p>
+			<p>&nbsp;</p>
 
-			<p>menswetenschappen</p>
+			<p>&nbsp;</p>
 
-			<p>moderne talen - wiskunde</p>
+			<p>&nbsp;</p>
 
-			<p>wetenschappen - wiskunde</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; width:90.7pt">
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
 			<p>ASO 3</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; width:175.75pt">
-			<p>algemene vorming BSO 3</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; width:90.7pt">
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
 			<p>BSO 3</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; width:175.75pt">
-			<p>algemene vorming TSO 2</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; width:90.7pt">
+
+			<p>&nbsp;</p>
+
 			<p>TSO 2</p>
+
+			<p>&nbsp;</p>
+
+			<p>TSO 3</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; width:175.75pt">
-			<p>algemene vorming TSO 3</p>
+			<td rowspan="5" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:131.4pt">
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>Algemene vorming</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; width:90.7pt">
-			<p>TSO 3</p>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:198pt">
+			<p>Economie</p>
+
+			<p>Humane wetenschappen</p>
+
+			<p>Opfris tweede graad ASO</p>
+
+			<p>Wetenschappen</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:198pt">
+			<p>Economie – wiskunde</p>
+
+			<p>Economie – moderne talen</p>
+
+			<p>Humane wetenschappen</p>
+
+			<p>Menswetenschappen</p>
+
+			<p>Moderne talen – wetenschappen</p>
+
+			<p>Moderne talen – wiskunde</p>
+
+			<p>Opfris derde graad ASO</p>
+
+			<p>Wetenschappen – wiskunde</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:198pt">
+			<p>Algemene vorming BSO 3</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:198pt">
+			<p>Algemene vorming TSO 2</p>
+
+			<p>Opfris tweede graad TSO</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:198pt">
+			<p>Algemene vorming TSO 3</p>
+
+			<p>Opfris derde graad TSO</p>
 			</td>
 		</tr>
 	</tbody>
@@ -2173,4 +2830,370 @@ De Vlaamse minister bevoegd voor Onderwijs is belast met de uitvoering van dit b
 
 ## Bijlage XXXIII: indeling van het studiegebied Nederlands tweede taal in opleidingen
 
+### Tekst
+
+<p>&nbsp;</p>
+
+<table border="0" cellpadding="0" cellspacing="0" style="border-collapse:collapse">
+	<tbody>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; height:11.35pt; width:90.7pt">
+			<p>studiegebied<!--?xml:namespace         prefix = o ns = "urn:schemas-microsoft-com:office:office"         /--></p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; height:11.35pt; width:175.75pt">
+			<p>opleiding</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; height:11.35pt; width:90.7pt">
+			<p>onderwijsvorm en -graad</p>
+			</td>
+		</tr>
+		<tr>
+			<td rowspan="4" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; width:90.7pt">
+			<p>Nederlands tweede taal</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; width:175.75pt">
+			<p>Latijns schrift</p>
+
+			<p>Nederlands tweede taal</p>
+
+			<p>Nederlands tweede taal - verkort</p>
+
+			<p>Nederlands tweede taal - verlengd</p>
+
+			<p>socio-culturele integratie</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; width:90.7pt">
+			<p>richtgraad 1</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; width:175.75pt">
+			<p>Nederlands tweede taal</p>
+
+			<p>Nederlands tweede taal - verkort</p>
+
+			<p>Nederlands tweede taal - professioneel bedrijfsgericht</p>
+
+			<p>socio-culturele integratie</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; width:90.7pt">
+			<p>richtgraad 2</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; width:175.75pt">
+			<p>Nederlands tweede taal</p>
+
+			<p>Nederlands tweede taal - professioneel bedrijfsgericht</p>
+
+			<p>Nederlands tweede taal - professioneel juridisch</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; width:90.7pt">
+			<p>richtgraad 3</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; width:175.75pt">
+			<p>Nederlands tweede taal</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; width:90.7pt">
+			<p>richtgraad 4</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+
 ## Bijlage XXXIV: indeling van het studiegebied talen in opleidingen
+
+### Tekst
+
+<p>&nbsp;</p>
+
+<table border="0" cellpadding="0" cellspacing="0" style="border-collapse:collapse">
+	<tbody>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; height:11.35pt; width:90.7pt">
+			<p>studiegebied<!--?xml:namespace         prefix = o ns = "urn:schemas-microsoft-com:office:office"         /--></p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; height:11.35pt; width:175.75pt">
+			<p>opleiding</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; height:11.35pt; width:90.7pt">
+			<p>onderwijsvorm en -graad</p>
+			</td>
+		</tr>
+		<tr>
+			<td rowspan="4" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; width:90.7pt">
+			<p>talen</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:175.75pt">
+			<p>Latijns schrift</p>
+
+			<p>Arabisch</p>
+
+			<p>Chinees</p>
+
+			<p>Deens</p>
+
+			<p>Duits</p>
+
+			<p>Engels</p>
+
+			<p>Esperanto</p>
+
+			<p>Frans</p>
+
+			<p>Grieks</p>
+
+			<p>Hebreeuws I</p>
+
+			<p>Hebreeuws II</p>
+
+			<p>Italiaans</p>
+
+			<p>Japans</p>
+
+			<p>Pools</p>
+
+			<p>Portugees</p>
+
+			<p>Russisch</p>
+
+			<p>Spaans</p>
+
+			<p>Turks</p>
+
+			<p>Zweeds</p>
+
+			<p>Arabisch - versnelde opleiding</p>
+
+			<p>Chinees - versnelde opleiding</p>
+
+			<p>Deens - versnelde opleiding</p>
+
+			<p>Duits - versnelde opleiding</p>
+
+			<p>Engels - versnelde opleiding</p>
+
+			<p>Esperanto - versnelde opleiding</p>
+
+			<p>Frans - versnelde opleiding</p>
+
+			<p>Grieks - versnelde opleiding</p>
+
+			<p>Hebreeuws I - versnelde opleiding</p>
+
+			<p>Hebreeuws II - versnelde opleiding</p>
+
+			<p>Italiaans - versnelde opleiding</p>
+
+			<p>Japans - versnelde opleiding</p>
+
+			<p>Pools - versnelde opleiding</p>
+
+			<p>Portugees - versnelde opleiding</p>
+
+			<p>Russisch - versnelde opleiding</p>
+
+			<p>Spaans - versnelde opleiding</p>
+
+			<p>Turks - versnelde opleiding</p>
+
+			<p>Zweeds - versnelde opleiding</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; width:90.7pt">
+			<p>richtgraad 1</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:175.75pt">
+			<p>Arabisch</p>
+
+			<p>Chinees</p>
+
+			<p>Deens</p>
+
+			<p>Duits</p>
+
+			<p>Engels</p>
+
+			<p>Esperanto</p>
+
+			<p>Frans</p>
+
+			<p>Grieks</p>
+
+			<p>Hebreeuws I</p>
+
+			<p>Hebreeuws II</p>
+
+			<p>Italiaans</p>
+
+			<p>Japans</p>
+
+			<p>Pools</p>
+
+			<p>Portugees</p>
+
+			<p>Russisch</p>
+
+			<p>Spaans</p>
+
+			<p>Turks</p>
+
+			<p>Zweeds</p>
+
+			<p>Arabisch - versnelde opleiding</p>
+
+			<p>Chinees - versnelde opleiding</p>
+
+			<p>Deens - versnelde opleiding</p>
+
+			<p>Duits - versnelde opleiding</p>
+
+			<p>Engels - versnelde opleiding</p>
+
+			<p>Esperanto - versnelde opleiding</p>
+
+			<p>Frans - versnelde opleiding</p>
+
+			<p>Grieks - versnelde opleiding</p>
+
+			<p>Hebreeuws I - versnelde opleiding</p>
+
+			<p>Hebreeuws II - versnelde opleiding</p>
+
+			<p>Italiaans - versnelde opleiding</p>
+
+			<p>Japans - versnelde opleiding</p>
+
+			<p>Pools - versnelde opleiding</p>
+
+			<p>Portugees - versnelde opleiding</p>
+
+			<p>Russisch - versnelde opleiding</p>
+
+			<p>Spaans - versnelde opleiding</p>
+
+			<p>Turks - versnelde opleiding</p>
+
+			<p>Zweeds - versnelde opleiding</p>
+
+			<p>Deens - professioneel bedrijfsgericht</p>
+
+			<p>Duits - professioneel bedrijfsgericht</p>
+
+			<p>Engels - professioneel bedrijfsgericht</p>
+
+			<p>Frans - professioneel bedrijfsgericht</p>
+
+			<p>Italiaans - professioneel bedrijfsgericht</p>
+
+			<p>Portugees - professioneel bedrijfsgericht</p>
+
+			<p>Spaans - professioneel bedrijfsgericht</p>
+
+			<p>Zweeds - professioneel bedrijfsgericht</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; width:90.7pt">
+			<p>richtgraad 2</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:175.75pt">
+			<p>Deens</p>
+
+			<p>Duits</p>
+
+			<p>Engels</p>
+
+			<p>Esperanto</p>
+
+			<p>Frans</p>
+
+			<p>Hebreeuws I</p>
+
+			<p>Hebreeuws II</p>
+
+			<p>Italiaans</p>
+
+			<p>Portugees</p>
+
+			<p>Spaans</p>
+
+			<p>Zweeds</p>
+
+			<p>Deens - professioneel bedrijfsgericht</p>
+
+			<p>Duits - professioneel bedrijfsgericht</p>
+
+			<p>Engels - professioneel bedrijfsgericht</p>
+
+			<p>Frans - professioneel bedrijfsgericht</p>
+
+			<p>Italiaans - professioneel bedrijfsgericht</p>
+
+			<p>Portugees - professioneel bedrijfsgericht</p>
+
+			<p>Spaans - professioneel bedrijfsgericht</p>
+
+			<p>Zweeds - professioneel bedrijfsgericht</p>
+
+			<p>Deens - professioneel juridisch</p>
+
+			<p>Duits - professioneel juridisch</p>
+
+			<p>Engels - professioneel juridisch</p>
+
+			<p>Frans - professioneel juridisch</p>
+
+			<p>Italiaans - professioneel juridisch</p>
+
+			<p>Portugees - professioneel juridisch</p>
+
+			<p>Spaans - professioneel juridisch</p>
+
+			<p>Zweeds - professioneel juridisch</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; width:90.7pt">
+			<p>richtgraad 3</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:175.75pt">
+			<p>Deens</p>
+
+			<p>Duits</p>
+
+			<p>Engels</p>
+
+			<p>Esperanto</p>
+
+			<p>Frans</p>
+
+			<p>Hebreeuws I</p>
+
+			<p>Hebreeuws II</p>
+
+			<p>Italiaans</p>
+
+			<p>Portugees</p>
+
+			<p>Spaans</p>
+
+			<p>Zweeds</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; width:90.7pt">
+			<p>richtgraad 4</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
