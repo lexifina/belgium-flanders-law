@@ -4,7 +4,7 @@
 
 ### ART. 1.
 
-§ 1. Dit besluit is van toepassing op de personeelsleden van het bestuurs- en onderwijzend personeel, het opvoedend hulppersoneel, het administratief personeel, het paramedisch personeel, het medisch personeel, het orthopedagogisch personeel, het psychologisch personeel en het sociaal personeel van instellingen voor buitengewoon secundair onderwijs die worden gefinancierd of gesubsidieerd door de Vlaamse Gemeenschap.<br /><br />§ 2. In afwijking op § 1 is dit besluit niet van toepassing op:<br /><br />1° de personeelsleden van het bestuurs- en onderwijzend personeel die een ambt uitoefenen in de opleidingsvorm 4;<br /><br />2° de personeelsleden van het bestuurs- en onderwijzend personeel die het selectieambt van adjunct-directeur uitoefenen;<br /><br />3° de personeelsleden van het bestuurs- en onderwijzend personeel die het bevorderingsambt van directeur uitoefenen;<br /><br />4° de personeelsleden van het opvoedend hulppersoneel die het bevorderingsambt van beheerder uitoefenen.
+§ 1. Dit besluit is van toepassing op de personeelsleden van het bestuurs- en onderwijzend personeel, het opvoedend hulppersoneel, het administratief personeel, het ondersteunend personeel, het paramedisch personeel, het medisch personeel, het orthopedagogisch personeel, het psychologisch personeel en het sociaal personeel van instellingen voor buitengewoon secundair onderwijs die worden gefinancierd of gesubsidieerd door de Vlaamse Gemeenschap.<br /><br />§ 2. In afwijking op § 1 is dit besluit niet van toepassing op:<br /><br />1° de personeelsleden van het bestuurs- en onderwijzend personeel die een ambt uitoefenen in de opleidingsvorm 4;<br /><br />2° de personeelsleden van het bestuurs- en onderwijzend personeel die het selectieambt van adjunct-directeur uitoefenen;<br /><br />3° de personeelsleden van het bestuurs- en onderwijzend personeel die het bevorderingsambt van directeur uitoefenen;<br /><br />4° de personeelsleden van het opvoedend hulppersoneel die het bevorderingsambt van beheerder uitoefenen.
 
 ## HOOFDSTUK II HET ONDERWIJZEND PERSONEEL
 
@@ -24,7 +24,11 @@ Het minimum en het maximum aantal lesuren voor een ambt met volledige prestaties
 
 ### ART. 5.
 
-Het minimum en het maximum aantal uren voor een ambt met volledige prestaties in de ambten van het opvoedend hulppersoneel wordt vastgesteld als volgt:<br /><br />1° wervingsambten:<br /><br />a) studiemeester-opvoeder: 36 uren van 60 minuten;<br /><br />b) studiemeester-opvoeder internaat: 36 uren van 60 minuten;<br /><br />c) secretaris-bibliothecaris: 36 uren van 60 minuten;<br /><br />2° selectieambten:<br /><br />a) opvoeder-huismeester: 36 uren van 60 minuten;<br /><br />b) directiesecretaris: 36 uren van 60 minuten.
+Het minimum en het maximum aantal uren voor een ambt met volledige prestaties in de ambten van het opvoedend hulppersoneel wordt vastgesteld als volgt :<br />1° wervingsambten :<br />a) studiemeester-opvoeder internaat : 36 uren van 60 minuten. <br />
+
+### ART. 5bis.
+
+Het minimum en het maximum aantal uren voor een ambt met volledige prestaties in de wervingsambten van het ondersteunend personeel wordt vastgesteld als volgt :<br />a) administratief medewerker : 36 uren van 60 minuten;<br />b) opvoeder : 36 uren van 60 minuten.<br />
 
 ### ART. 6.
 
@@ -84,7 +88,7 @@ Het minimum en het maximum aantal uren voor een ambt met volledige prestaties in
 
 ### ART. 17.
 
-Het minimum en het maximum aantal uren voor een ambt met volledige prestaties in de ambten van het administratief personeel wordt vastgesteld als volgt:<br /><br />1° wervingsambten:<br /><br />a) klerk-typist: 36 uren van 60 minuten;<br /><br />b) opsteller: 36 uren van 60 minuten;<br /><br />c) bode-kamerbewaarder: 36 uren van 60 minuten;<br /><br />2° selectieambten:<br /><br />a) eerste klerk: 36 uren van 60 minuten;<br /><br />b) eerste opsteller: 36 uren van 60 minuten.
+Het minimum en het maximum aantal uren voor een ambt met volledige prestaties in de ambten van het administratief personeel wordt vastgesteld als volgt :<br />1° wervingsambten :<br />a) bode-kamerbewaarder : 36 uren van 60 minuten.<br />
 
 ### ART. 18.
 
