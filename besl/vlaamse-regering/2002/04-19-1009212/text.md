@@ -10,7 +10,7 @@
 
 ### ART. 2.
 
-§ 1. De coördinator maakt deel uit van het interdisciplinaire team en beschikt over en van de volgende diploma's:<br /><br />1° een diploma van maatschappelijk assistent;<br /><br />2° een ander diploma van ten minste het niveau hoger onderwijs buiten de universiteit met sociale, psychologische of pedagogische oriëntatie;<br /><br />3° een diploma van licentiaat in de psychologie of pedagogie of gelijkwaardig.<br /><br />§ 2. De coördinator geeft sturing aan de dagelijkse leiding en aan de kwaliteitszorg. Hij biedt voldoende sturing, informatie, begeleiding en inspraak aan alle teamleden en medewerkers.<br /><br />§ 3. Met het oog op participatie aan het adoptiebeleid neemt de coördinator op geregelde tijdstippen deel aan een door Kind en Gezin gecreëerde overlegstructuur.
+§ 1. De coördinator maakt deel uit van het interdisciplinaire team en beschikt over en van de volgende diploma's:<br />1° een diploma van maatschappelijk assistent;<br />2° een ander diploma van ten minste het niveau hoger onderwijs buiten de universiteit met sociale, psychologische of pedagogische oriëntatie;<br />3° een diploma van licentiaat in de psychologie of pedagogie of gelijkwaardig.<br /><br />§ 2. De coördinator geeft sturing aan de dagelijkse leiding en aan de kwaliteitszorg. Hij biedt voldoende sturing, informatie, begeleiding en inspraak aan alle teamleden en medewerkers.<br /><br />§ 3. Met het oog op participatie aan het adoptiebeleid neemt de coördinator op geregelde tijdstippen deel aan een door de Vlaamse Centrale Autoriteit  gecreëerde overlegstructuur.
 
 ### ART. 3.
 
@@ -30,7 +30,7 @@ Alle teamleden hebben een duidelijke taakomschrijving. Die vormt het uitgangspun
 
 ### ART. 7.
 
-De adoptiedienst werkt een vormingsbeleid uit voor alle teamleden en medewerkers, dat in samen-spraak met hen is opgesteld.<br /><br />De teamleden en medewerkers volgen de door Kind en Gezin aangeboden vorming.
+De adoptiedienst werkt een vormingsbeleid uit voor alle teamleden en medewerkers, dat in samen-spraak met hen is opgesteld.<br /><br />De teamleden en medewerkers volgen de door de Vlaamse Centrale Autoriteit aangeboden vorming.
 
 ### ART. 8.
 
@@ -50,7 +50,7 @@ De adoptiedienst garandeert een telefonische bereikbaarheid op werkdagen. Voor p
 
 ### ART. 11.
 
-§ 1. De adoptiedienst draagt de visie over adoptie uit, zoals die is vastgelegd in de kwaliteitsvi-sietekst die Kind en Gezin in samenspraak met de sector opstelt.<br /><br />§ 2. De adoptiedienst formuleert een pedagogisch en agogisch concept conform de kwaliteitsvisietekst, genoemd in § 1.
+§ 1. De adoptiedienst draagt de visie over adoptie uit, zoals die is vastgelegd in de kwaliteitsvisietekst die de Vlaamse Centrale Autoriteit in samenspraak met de sector opstelt.<br /><br />§ 2. De adoptiedienst formuleert een pedagogisch en agogisch concept conform de kwaliteitsvisietekst, genoemd in § 1.
 
 ### ART. 12.
 
@@ -80,7 +80,7 @@ De adoptiedienst verstrekt duidelijke en relevante informatie aan de gebruikers 
 
 ### ART. 18.
 
-[De adoptiedienst heeft een duidelijk afgebakend dienstverleningsaanbod dat bestaat uit:<br /><br />1° een kwalitatieve voorbereiding van kandidaat-adoptanten die moet bijdragen tot een verantwoorde en bewuste keuze om al dan niet een kind te willen adopteren. Het voorbereidingsprogramma moet worden goedgekeurd door Kind en Gezin;<br /><br />2° het voeren van het maatschappelijk onderzoek, vermeld in artikel 1231-6 van het Burgerlijk Wetboek, dat de jeugdrechter inlichtingen verschaft over de geschiktheid van de adoptant om te adopteren. Dat maatschappelijk onderzoek moet resulteren in een verslag over de adoptant dat neergelegd wordt ter griffie binnen twee maanden na het vonnis waarbij het is bevolen;<br /><br />3° het voeren van het maatschappelijk onderzoek, vermeld in artikel 1231-35 van het Burgerlijk Wetboek, dat de jeugdrechter inlichtingen verschaft omtrent de adoptabiliteit van een kind. Dat maatschappelijk onderzoek moet resulteren in een verslag over de adoptant dat neergelegd wordt ter griffie binnen twee maanden na het vonnis waarbij het is bevolen;<br /><br />4° het begeleiden van ongewenst zwangere vrouwen en ouders die niet zelf voor hun kinderen kunnen zorgen en die overwegen afstand van hun kind tedoen, naar een verantwoorde keuze voor de toekomst van het kind, rekening houdend met de bepalingen van het VN-verdrag inzake de rechten van het kind;<br /><br />5° het verstrekken van de informatie, vermeld in artikel 348-4, tweede en derde lid van het Burgerlijk Wetboek, aan de personen, vermeld in 4°;<br /><br />6° het bemiddelen inzake adoptie voor kinderen uit het binnenland, waarbij de adoptiedienst op gemotiveerd voorstel van het interdisciplinair team een beslissing neemt tot toewijzing van een kind aan de kandidaat-adoptant;<br /><br />7° het verstrekken van eerste nazorg met als doel de integratie van het kind in het gezin te stimuleren, vooral in de eerste periode na de plaatsing.  <span class="reference">(verv. B.V.R. 8 juli 2005, art. 2, I: 1 september 2005)</span> ]
+De adoptiedienst heeft een duidelijk afgebakend dienstverleningsaanbod dat bestaat uit:<br />1° een kwalitatieve voorbereiding van kandidaat-adoptanten die moet bijdragen tot een verantwoorde en bewuste keuze om al dan niet een kind te willen adopteren. Het voorbereidingsprogramma moet worden goedgekeurd door de Vlaamse Centrale Autoriteit;<br />2° het voeren van het maatschappelijk onderzoek, vermeld in artikel 1231-6 van het Burgerlijk Wetboek, dat de jeugdrechter inlichtingen verschaft over de geschiktheid van de adoptant om te adopteren. Dat maatschappelijk onderzoek moet resulteren in een verslag over de adoptant dat neergelegd wordt ter griffie binnen twee maanden na het vonnis waarbij het is bevolen;<br />3° het voeren van het maatschappelijk onderzoek, vermeld in artikel 1231-35 van het Burgerlijk Wetboek, dat de jeugdrechter inlichtingen verschaft omtrent de adoptabiliteit van een kind. Dat maatschappelijk onderzoek moet resulteren in een verslag over het kind dat neergelegd wordt ter griffie binnen twee maanden na het vonnis waarbij het is bevolen;<br />4° het begeleiden van ongewenst zwangere vrouwen en ouders die niet zelf voor hun kinderen kunnen zorgen en die overwegen afstand van hun kind tedoen, naar een verantwoorde keuze voor de toekomst van het kind, rekening houdend met de bepalingen van het VN-verdrag inzake de rechten van het kind;<br />5° het verstrekken van de informatie, vermeld in artikel 348-4, tweede en derde lid van het Burgerlijk Wetboek, aan de personen, vermeld in 4°;<br />6° het bemiddelen inzake adoptie voor kinderen uit het binnenland, waarbij de adoptiedienst op gemotiveerd voorstel van het interdisciplinair team een beslissing neemt tot toewijzing van een kind aan de kandidaat-adoptant;<br />7° het verstrekken van eerste nazorg met als doel de integratie van het kind in het gezin te stimuleren, vooral in de eerste periode na de plaatsing.
 
 ### ART. 19.
 
@@ -92,7 +92,7 @@ De adoptiedienst verstrekt duidelijke en relevante informatie aan de gebruikers 
 
 ### ART. 21.
 
-§ 1. [De adoptiedienst sluit een bemiddelingscontract met de adoptant die via de dienst een kind wil adopteren.  <span class="reference">(verv. B.V.R. 8 juli 2005, art. 5, I: 1 september 2005)</span> ]<br /><br />§ 2. In het bemiddelingscontract wordt een gedetailleerde weergave gegeven van de aard en de omvang van de kosten, alsook van de betalingswijze. Dat geschiedt hetzij door opname van de kosten van het eventuele dossier, hetzij door verrekening van de totale jaarlijkse werkingskosten over het gemiddelde aantal dossiers. In beide gevallen is opgepast financieel gewin uitgesloten en kan Kind en Gezin elk noodzakelijke controle doorvoeren.<br /><br />Uitzonderlijke en onvoorziene kosten maken het voorwerp uit van een addendum aan het bemiddelingscontract tussen de adoptant en de adoptiedienst.<br /><br />§ 3. De datum van het bemiddelingscontract is bepalend voor de opname van de kandidaat-adoptant op de wachtlijst. Bij toewijzing van een kind wordt rekening gehouden met het principe dat voor het kind de meest geschikte adoptant gezocht moet worden. Een afwijking van de wachtlijst moet gemotiveerd worden.<br /><br />§ 4. Het bemiddelingscontract kan door beide partijen worden opgezegd. De adoptiedienst wordt enkel vergoed voor de al gemaakte administratieve kosten en de geleverde prestaties.<br /><br />De adoptiedienst moet het bemiddelingscontract bij aangetekend schrijven opzeggen. De instelling Kind en Gezin ontvangt hiervan een gemotiveerde melding. De adoptiedienst kan de overeenkomst pas opzeggen als de situatie van de adoptant in belangrijke mate afwijkt van de oorspronkelijke gezinssituatie of als de kandidaat-adoptant het contract niet naleeft.
+§ 1. De adoptiedienst sluit een bemiddelingscontract met de adoptant die via de dienst een kind wil adopteren. <br /><br />§ 2. In het bemiddelingscontract wordt een gedetailleerde weergave gegeven van de aard en de omvang van de kosten, alsook van de betalingswijze. Dat geschiedt hetzij door opname van de kosten van het eventuele dossier, hetzij door verrekening van de totale jaarlijkse werkingskosten over het gemiddelde aantal dossiers. In beide gevallen is opgepast financieel gewin uitgesloten en kan de Vlaamse Centrale Autoriteit elk noodzakelijke controle doorvoeren.<br /><br />Uitzonderlijke en onvoorziene kosten maken het voorwerp uit van een addendum aan het bemiddelingscontract tussen de adoptant en de adoptiedienst.<br /><br />§ 3. De datum van het bemiddelingscontract is bepalend voor de opname van de kandidaat-adoptant op de wachtlijst. Bij toewijzing van een kind wordt rekening gehouden met het principe dat voor het kind de meest geschikte adoptant gezocht moet worden. Een afwijking van de wachtlijst moet gemotiveerd worden.<br /><br />§ 4. Het bemiddelingscontract kan door beide partijen worden opgezegd. De adoptiedienst wordt enkel vergoed voor de al gemaakte administratieve kosten en de geleverde prestaties.<br /><br />De adoptiedienst moet het bemiddelingscontract bij aangetekend schrijven opzeggen. De instelling de Vlaamse Centrale Autoriteit ontvangt hiervan een gemotiveerde melding. De adoptiedienst kan de overeenkomst pas opzeggen als de situatie van de adoptant in belangrijke mate afwijkt van de oorspronkelijke gezinssituatie of als de kandidaat-adoptant het contract niet naleeft.
 
 ### ART. 22.
 
@@ -104,7 +104,7 @@ De adoptiedienst zorgt voor een verantwoorde afsluiting van de begeleidings- en 
 
 ### ART. 24.
 
-Kind en Gezin kan nadere richtlijnen geven voor de organisatie of de terbeschikkingstelling van de nazorg van de natuurlijke ouders, de adoptie-ouders en het geadopteerde kind.
+De Vlaamse Centrale Autoriteit kan nadere richtlijnen geven voor de organisatie of de terbeschikkingstelling van de nazorg van de natuurlijke ouders, de adoptie-ouders en het geadopteerde kind.
 
 ### ART. 25.
 
@@ -112,7 +112,7 @@ De adoptiedienst beschikt over een klachtprocedure voor alle deelaspecten van de
 
 ### ART. 26.
 
-De adoptiedienst signaleert op een systematische wijze tekorten, behoeften, knelpunten en ont-wikkelingen in de hulp- en dienstverlening, en formuleert voorstellen voor de verbetering ervan aan Kind en Gezin.
+De adoptiedienst signaleert op een systematische wijze tekorten, behoeften, knelpunten en ont-wikkelingen in de hulp- en dienstverlening, en formuleert voorstellen voor de verbetering ervan aan de Vlaamse Centrale Autoriteit.
 
 ## AFDELING 5 DOSSIERS EN WACHTLIJSTEN
 
@@ -130,7 +130,7 @@ Het dossier of gegevens van het dossier kunnen niet worden overgedragen naar een
 
 ### ART. 30.
 
-Als een adoptiedienst wordt opgeheven of als zijn erkenning wordt ingetrokken worden de dossiers en wachtlijsten die nog in behandeling zijn, overgenomen door een andere erkende adoptiedienst. De adoptiedienst beschikt over een schriftelijke regeling van die overname. De afgehandelde dossiers worden op dat moment overgedragen aan Kind en Gezin.
+Als een adoptiedienst wordt opgeheven of als zijn erkenning wordt ingetrokken worden de dossiers en wachtlijsten die nog in behandeling zijn, overgenomen door een andere erkende adoptiedienst. De adoptiedienst beschikt over een schriftelijke regeling van die overname. De afgehandelde dossiers worden op dat moment overgedragen aan de Vlaamse Centrale Autoriteit.
 
 ## AFDELING 6 MINIMALE EISEN VAN KWALITEITSZORG
 
@@ -142,17 +142,17 @@ De Vlaamse minister, bevoegd voor de bijstand aan personen, legt de bepalingen v
 
 ### ART. 32.
 
-§ 1. Bij het begin van elk nieuw kalenderjaar legt de adoptiedienst aan Kind en Gezin haar jaarver-slag voor. Het jaarverslag bevat een boekhoudkundig deel en een deel over de inhoudelijke werking. Kind en Gezin bepaalt welke punten minstens in het jaarverslag moeten worden opgenomen.<br /><br />§ 2. Kind en Gezin kan nadere richtlijnen uitvaardigen over de wijze waarop de adoptiedienst zijn boekhouding voert.<br /><br />§ 3. Het toezicht over de adoptiediensten wordt uitgeoefend door de ambtenaren van Kind en Gezin die daarvoor zijn aangewezen. Ze hebben vrije toegang tot de lokalen van de adoptiedienst en hebben het recht alle administratieve stukken te raadplegen. De coördinator geeft hen op verzoek toegang tot de dossiers en wachtlijsten.<br /><br />§ 4. De diensten delen aan Kind en Gezin hun huishoudelijk reglement mede.
+§ 1. Bij het begin van elk nieuw kalenderjaar legt de adoptiedienst aan de Vlaamse Centrale Autoriteit haar jaarverslag voor. Het jaarverslag bevat een boekhoudkundig deel en een deel over de inhoudelijke werking. De Vlaamse Centrale Autoriteit bepaalt welke punten minstens in het jaarverslag moeten worden opgenomen.<br /><br />§ 2. De Vlaamse Centrale Autoriteit kan nadere richtlijnen uitvaardigen over de wijze waarop de adoptiedienst zijn boekhouding voert.<br /><br />§ 3. De Vlaamse Centrale Autoriteit oefent het toezicht uit op de naleving van de regelgeving door de adoptiediensten. Het toezicht wordt op stukken of ter plaatse uitgeoefend.<br /><br />Het toezicht ter plaatse gebeurt door de personeelsleden van het intern verzelfstandigd agentschap Inspectie Welzijn en Volksgezondheid, opgericht bij het besluit van de Vlaamse Regering van 26 maart 2004. Zij krijgen daartoe de vrije toegang tot de lokalen van de adoptiedienst. Zij hebben het recht alle administratieve stukken te raadplegen. De coördinator geeft hen op verzoek toegang tot de dossiers en de wachtlijsten. <br /><br />§ 4. De diensten delen aan de Vlaamse Centrale Autoriteit hun huishoudelijk reglement mede.
 
 ## HOOFDSTUK III ERKENNINGSPROCEDURE
 
 ### ART. 33.
 
-§ 1. De adoptiedienst richt zijn aanvraag tot erkenning bij aangetekend schrijven aan Kind en Ge-zin. Bij die aanvraag zitten de statuten van de diensten en alle nodige stukken waaruit blijkt dat aan de wettelijke bepalingen voor de erkenning van adoptiediensten is voldaan.<br /><br />§ 2. Kind en Gezin onderzoekt de aanvraag, eventueel na opvraging van extra stukken of inlichtingen, en geeft binnen drie maanden na ontvangst een gemotiveerd en eensluidend advies aan de Vlaamse minister, bevoegd voor de bijstand aan personen, verder "de minister" genoemd.<br /><br />§ 3. De minister brengt Kind en Gezin binnen drie maanden na ontvangst van het advies op de hoogte van zijn beslissing.<br /><br />Kind en Gezin bezorgt na kennisneming van de beslissing van de minister, onverwijld die beslissing aan de adoptiedienst.<br /><br />§ 4. De adoptiedienst wordt erkend voor een hernieuwbare termijn van maximaal vijf jaar.<br /><br />De adoptiedienst moet zijn aanvraag tot hernieuwing van de erkenning indienen uiterlijk zes maanden vóór het verstrijken van de erkenningstermijn, op de in dit artikel bepaalde wijze.
+§ 1. De adoptiedienst richt zijn aanvraag tot erkenning bij aangetekend schrijven aan de Vlaamse Centrale Autoriteit. Bij die aanvraag zitten de statuten van de diensten en alle nodige stukken waaruit blijkt dat aan de wettelijke bepalingen voor de erkenning van adoptiediensten is voldaan.<br /><br />§ 2. De Vlaamse Centrale Autoriteit onderzoekt de aanvraag, eventueel na opvraging van extra stukken of inlichtingen. Kind en Gezin neemt binnen drie maanden na ontvangst een gemotiveerde beslissing, op advies van de Vlaamse Centrale Autoriteit.<br /><br />§ 3. De adoptiedienst wordt onmiddellijk van de beslissing over de erkenning op de hoogte gebracht, nog voor de erkenningstermijn verlopen is. <br /><br />§ 4. De adoptiedienst wordt erkend voor een hernieuwbare termijn van maximaal vijf jaar. De adoptiedienst moet zijn aanvraag tot hernieuwing van de erkenning indienen uiterlijk drie maanden voor het verstrijken van de erkenningstermijn, en dit op de wijze, vermeld in § 1. <br />
 
 ### ART. 34.
 
-[§ 1. Als Kind en Gezin vaststelt dat de adoptiedienst niet meer aan alle erkenningsvoorwaarden voldoet, kan Kind en Gezin de minister adviseren om de erkenning van de adoptiedienst onmiddellijk in te trekken of voor een bepaalde termijn te schorsen. Kind en Gezin brengt de adoptiedienst hiervan vooraf per aangetekende brief op de hoogte. De adoptiedienst kan binnen veertien dagen vragen om te worden gehoord.<br /><br />§ 2. De minister neemt uiterlijk binnen een maand na ontvangst van het advies van Kind en Gezin een beslissing over de intrekking van de erkenning of de schorsing ervan.<br /><br />§ 3. De minister deelt zijn beslissing mee aan Kind en Gezin die de adoptiedienst daarvan onverwijld op de hoogte brengt.  <span class="reference">(verv. B.V.R. 8 juli 2005, art. 6, I: 1 september 2005)</span> ]
+Als de adoptiedienst niet meer aan alle erkenningsvoorwaarden voldoet, kan Kind en Gezin de erkenning van de adoptiedienst intrekken of voor een bepaalde termijn schorsen. <br /><br />De Vlaamse Centrale Autoriteit brengt de adoptiedienst vooraf per aangetekende brief op de hoogte van die intrekking of schorsing. De adoptiedienst kan binnen veertien dagen na ontvangst van de brief verzoeken om te worden gehoord.<br />
 
 ## HOOFDSTUK IV BEZWAARPROCEDURE
 
@@ -162,7 +162,7 @@ De adoptiedienst kan bezwaar aantekenen bij de minister tegen de volgende beslis
 
 ### ART. 36.
 
-De adoptiedienst dient in dat geval op straffe van niet-ontvankelijkheid uiterlijk 15 kalenderdagen na kennisneming van de in artikel 35 genoemde beslissingen een gemotiveerd bezwaarschrift in bij Kind en Gezin.
+De adoptiedienst dient in dat geval op straffe van niet-ontvankelijkheid uiterlijk 15 kalenderdagen na kennisneming van de in artikel 35 genoemde beslissingen een gemotiveerd bezwaarschrift in bij de Vlaamse Centrale Autoriteit.
 
 ### ART. 37.
 
@@ -170,15 +170,15 @@ Het bezwaarschrift bevat eveneens op straffe van niet-ontvankelijkheid de volgen
 
 ### ART. 38.
 
-Kind en Gezin beslist binnen 15 dagen na ontvangst van het bezwaarschrift over de ontvanke-lijkheid van het bezwaar op basis van de elementen vastgelegd in voorgaand artikel, motiveert die beslissing en brengt de adoptiedienst hiervan onverwijld per aangetekende brief op de hoogte.
+De Vlaamse Centrale Autoriteit beslist binnen 15 dagen na ontvangst van het bezwaarschrift over de ontvankelijkheid van het bezwaar op basis van de elementen vastgelegd in voorgaand artikel, motiveert die beslissing en brengt de adoptiedienst hiervan onverwijld per aangetekende brief op de hoogte.
 
 ### ART. 39.
 
-§ 1. Bij een bezwaar tegen de intrekking van de erkenning [...  <span class="reference">(geschr. B.V.R. 8 juli 2005, art. 7, I: 1 september 2005)</span> ] kan Kind en Gezin tevens binnen 15 dagen na ontvangst van het bezwaarschrift beslissen dat het be-zwaar geen schorsend karakter heeft. Die mogelijkheid wordt beperkt tot de gevallen waarbij een ernstig gevaar voor de veiligheid en de gezondheid van de cliënteel en medewerkers dreigt. In alle andere gevallen is het bezwaar schorsend.<br /><br />§ 2. Ingeval besloten wordt dat het bezwaar niet schorsend is, stuurt Kind en Gezin de gemotiveerde beslissing onverwijld per aangetekende brief aan het organiserende bestuur.
+§ 1. Bij een bezwaar tegen de intrekking van de erkenning kan de Vlaamse Centrale Autoriteit tevens binnen 15 dagen na ontvangst van het bezwaarschrift beslissen dat het bezwaar geen schorsend karakter heeft. Die mogelijkheid wordt beperkt tot de gevallen waarbij een ernstig gevaar voor de veiligheid en de gezondheid van de cliënteel en medewerkers dreigt. In alle andere gevallen is het bezwaar schorsend.<br /><br />§ 2. Ingeval besloten wordt dat het bezwaar niet schorsend is, stuurt de Vlaamse Centrale Autoriteit de gemotiveerde beslissing onverwijld per aangetekende brief aan het organiserende bestuur.
 
 ### ART. 40.
 
-§ 1. Overeenkomstig artikel 7 van het besluit van de Vlaamse regering van 15 september 1998 be-treffende de adviserende beroepscommissie inzake gezins- en welzijnsaangelegenheden, bezorgt Kind en Gezin het ontvankelijke bezwaarschrift samen met het volledige administratieve dossier en de eventuele verweermiddelen aan de commissie. De administratie bezorgt tegelijkertijd een kopie van het bezwaarschrift aan de minister.<br /><br />§ 2. Het bezwaar wordt verder behandeld volgens de procedure, bedoeld in het in § 1 genoemde besluit.
+§ 1. Overeenkomstig artikel 7 van het besluit van de Vlaamse regering van 15 september 1998 be-treffende de adviserende beroepscommissie inzake gezins- en welzijnsaangelegenheden, bezorgt de Vlaamse Centrale Autoriteit het ontvankelijke bezwaarschrift samen met het volledige administratieve dossier en de eventuele verweermiddelen aan de commissie. De administratie bezorgt tegelijkertijd een kopie van het bezwaarschrift aan de minister.<br /><br />§ 2. Het bezwaar wordt verder behandeld volgens de procedure, bedoeld in het in § 1 genoemde besluit.
 
 ## HOOFDSTUK V OVERGANGS- EN SLOTBEPALINGEN
 
