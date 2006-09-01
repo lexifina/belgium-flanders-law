@@ -2,16 +2,16 @@
   "codex_id": 1014428,
   "title": "Besluit van de Vlaamse Regering van 2006-01-27 tot invoering van een tijdelijk project betreffende vervangingen van korte afwezigheden, bedrijfsstages en mentorschap",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1014428/VolledigDocument?datum=2006-06-01",
-  "source_sha256": "88a12b6b1464b6c8218369f738368d08e76f67f5b14bcda4b606749a78a4fd0d",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1014428/VolledigDocument?datum=2006-09-01",
+  "source_sha256": "fba431f19b182ec75afaac8dfe94584ce3c711a2231c7337481ff8f6d4c9e35a",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1014428&param=informatie",
-  "as_of": "2006-06-01",
+  "as_of": "2006-09-01",
   "made": "2006-01-27",
   "gazette": "2006-04-19",
   "numac": 2006035530,
   "document_start": "2005-11-01",
   "document_end": "2008-08-31",
-  "in_force": "2006-06-01",
+  "in_force": "2006-09-01",
   "article_versions": 19,
-  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2006-09-01; future article versions excluded; article text as the API gives it"
 }
