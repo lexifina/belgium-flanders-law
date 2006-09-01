@@ -423,7 +423,7 @@ De Vlaamse minister, bevoegd voor het onderwijs, is belast met de uitvoering van
 			<p>&nbsp;</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14pt; width:307pt">
-			<p>Master in Nuclear Fusion Science and Engineering Physics (European Master)</p>
+			<p>European Master in Nuclear Fusion Science and Engineering Physics</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14pt; width:130.75pt">
 			<p>burgerlijk ingenieur</p>
@@ -2918,6 +2918,7 @@ De Vlaamse minister, bevoegd voor het onderwijs, is belast met de uitvoering van
 </table>
 
 <p>&nbsp;</p>
+<br>
 <br>
 <br>
 &nbsp;
