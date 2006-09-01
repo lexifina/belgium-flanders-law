@@ -98,7 +98,7 @@ De gouverneur heeft recht op het bevallingsverlof bedoeld in artikel 39 van de a
 
 ### ART. 20.
 
-De periode van bezoldiging van de moederschapsrust mag niet meer dan vijftien weken bedragen bij één kind, en niet meer dan negentien weken bij een meerling, tenzij : <br />1° de bevalling plaatsvindt na de vermoedelijke bevallingsdatum;<br /><br />Bij verlenging van de postnatale rustperiode overeenkomstig artikel 39, vijfde lid, van de Arbeidswet van 16 maart 1971, wordt de bezoldiging doorbetaald tijdens de duur van die verlenging en maximaal gedurende 24 weken.<br />
+De periode van bezoldiging van de moederschapsrust mag niet meer dan vijftien weken bedragen bij één kind, en niet meer dan negentien weken bij een meerling, tenzij : <br />1° de bevalling plaatsvindt na de vermoedelijke bevallingsdatum;<br />2° de verlenging van de moederschapsrust met één week, ingevolge zes of acht weken ononderbroken arbeidsongeschiktheid voor de werkelijke bevallingsdatum, tot gevolg heeft dat de periode van 15 of 19 weken wordt overschreden.<br /><br />Bij verlenging van de postnatale rustperiode overeenkomstig artikel 39, vijfde lid, van de Arbeidswet van 16 maart 1971, wordt de bezoldiging doorbetaald tijdens de duur van die verlenging en maximaal gedurende 24 weken.<br />
 
 ### ART. 21.
 
