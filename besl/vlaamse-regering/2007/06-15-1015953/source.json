@@ -1,0 +1,17 @@
+{
+  "codex_id": 1015953,
+  "title": "Besluit van de Vlaamse Regering van 2007-06-15 tot oprichting in het onderwijs voor sociale promotie van nieuwe vestigingsplaatsen",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1015953/VolledigDocument?datum=2006-09-01",
+  "source_sha256": "34b9756a273c0dfe991710c916947cd92a59e96ea326fea5823d18fc01c6afae",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1015953&param=informatie",
+  "as_of": "2006-09-01",
+  "made": "2007-06-15",
+  "gazette": "2007-07-12",
+  "numac": 2007036056,
+  "document_start": "2006-09-01",
+  "document_end": null,
+  "in_force": "2006-09-01",
+  "article_versions": 8,
+  "record_form": "consolidated version as in force on 2006-09-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
