@@ -1,0 +1,17 @@
+{
+  "codex_id": 1014858,
+  "title": "Besluit van de Vlaamse Regering van 2006-07-20 houdende uitvoering van het decreet van 19 mei 2006 betreffende de Winwinlening (citeeropschrift: \"het Winwinleningbesluit\")",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1014858/VolledigDocument?datum=2006-09-01",
+  "source_sha256": "67a857ae2427b327a2be72f63e2a82ffcfa473f96ef80a823d181647015af013",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1014858&param=informatie",
+  "as_of": "2006-09-01",
+  "made": "2006-07-20",
+  "gazette": "2006-08-17",
+  "numac": 2006036217,
+  "document_start": "2006-09-01",
+  "document_end": null,
+  "in_force": "2006-09-01",
+  "article_versions": 20,
+  "record_form": "consolidated version as in force on 2006-09-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
