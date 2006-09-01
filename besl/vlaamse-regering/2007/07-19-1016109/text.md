@@ -2,6 +2,10 @@
 
 ## HOOFDSTUK I Wijzigingen aan het besluit van de Vlaamse Regering van 17 juni 1997 betreffende de personeelsformatie in het buitengewoon basisonderwijs
 
+### ART. 2.
+
+In artikel 25ter, § 4, van hetzelfde besluit, ingevoegd bij het besluit van de Vlaamse Regering van 5 maart 2004, wordt het woord « gesubsidieerd » geschrapt.<br /><br />
+
 ## HOOFDSTUK II Wijzigingen aan het besluit van de Vlaamse Regering van 17 juni 1997 betreffende de personeelsformatie in het gewoon basisonderwijs
 
 ### ART. 3.
