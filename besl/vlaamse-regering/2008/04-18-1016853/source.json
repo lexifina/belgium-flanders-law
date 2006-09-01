@@ -1,0 +1,17 @@
+{
+  "codex_id": 1016853,
+  "title": "Besluit van de Vlaamse Regering van 2008-04-18 tot wijziging van het besluit van de Vlaamse Regering van 21 november 2003 houdende de salarisschalen van bepaalde personeelsleden van het onderwijs",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1016853/VolledigDocument?datum=2006-09-01",
+  "source_sha256": "c13753b5903f9f01222ef03c778df3d2b7e5d511662a8f6b356c5cb450499378",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1016853&param=informatie",
+  "as_of": "2006-09-01",
+  "made": "2008-04-18",
+  "gazette": "2008-06-23",
+  "numac": 200835618,
+  "document_start": "2007-09-01",
+  "document_end": null,
+  "in_force": "2006-09-01",
+  "article_versions": 5,
+  "record_form": "consolidated version as in force on 2006-09-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
