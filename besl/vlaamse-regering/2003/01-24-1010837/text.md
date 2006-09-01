@@ -4,7 +4,7 @@
 
 ### ART. 1.
 
-§ 1. Dit besluit is van toepassing op de leden van het bestuurs- en onderwijzend personeel, het parame-disch personeel, het sociaal personeel, het orthopedagogisch personeel, het psychologisch personeel, het medisch personeel, [het beleids- en ondersteunend,  <span class="reference">(ing. B.V.R. 5 december 2003, art. 1, I: 1 september 2003)</span> ] het opvoedend hulpperso-neel en het administratief personeel, die tewerkgesteld zijn in instellingen voor buitengewoon onderwijs die worden gefinancierd of gesubsidieerd door de Vlaamse Gemeenschap.<br /><br />§ 2. Dit besluit is niet van toepassing op de leden van het bestuurs- en onderwijzend personeel:<br /><br />1° die een wervingsambt uitoefenen in de opleidingsvorm 4;<br /><br />2° die een selectie- of bevorderingsambt uitoefenen in instellingen waar uitsluitend de opleidingsvorm 4 wordt georganiseerd, met uitzondering van de instellingen voor buitengewoon secundair onderwijs van type 5 die opgericht zijn vanaf 1 september 1986 volgens artikel 34 van het koninklijk besluit nr. 439 van 11 augustus 1986 houdende rationalisatie en programmatie in het buitengewoon onderwijs.
+§ 1. Dit besluit is van toepassing op de leden van het bestuurs- en onderwijzend personeel, het paramedisch personeel, het sociaal personeel, het orthopedagogisch personeel, het psychologisch personeel, het medisch personeel, het beleids- en ondersteunend, het opvoedend hulppersoneel en het administratief personeel, het ondersteunend personeel die tewerkgesteld zijn in instellingen voor buitengewoon onderwijs die worden gefinancierd of gesubsidieerd door de Vlaamse Gemeenschap.<br /><br />§ 2. Dit besluit is niet van toepassing op de leden van het bestuurs- en onderwijzend personeel:<br />1° die een wervingsambt uitoefenen in de opleidingsvorm 4;<br />2° die een selectie- of bevorderingsambt uitoefenen in instellingen waar uitsluitend de opleidingsvorm 4 wordt georganiseerd, met uitzondering van de instellingen voor buitengewoon secundair onderwijs van type 5 die opgericht zijn vanaf 1 september 1986 volgens artikel 34 van het koninklijk besluit nr. 439 van 11 augustus 1986 houdende rationalisatie en programmatie in het buitengewoon onderwijs.
 
 ## HOOFDSTUK II AMBTEN IN HET BUITENGEWOON BASISONDERWIJS
 
@@ -80,11 +80,15 @@ De ambten die de leden van het medisch personeel in het buitengewoon secundair o
 
 ### ART. 18.
 
-De ambten die de leden van het opvoedend hulppersoneel in het buitengewoon secundair onderwijs kunnen uitoefenen, worden als volgt vastgesteld en ingedeeld:<br /><br />1° wervingsambten:<br /><br />a) studiemeester-opvoeder;<br /><br />b) studiemeester-opvoeder internaat;<br /><br />c) secretaris-bibliothecaris;<br /><br />2° selectieambten:<br /><br />a) opvoeder-huismeester;<br /><br />b) directiesecretaris;<br /><br />3° bevorderingsambten:<br /><br />a) beheerder.
+De ambten die de leden van het opvoedend hulppersoneel in de internaten in het buitengewoon secundair onderwijs kunnen uitoefenen, worden als volgt vastgelegd en ingedeeld :<br />1° wervingsambten :<br />a) studiemeester-opvoeder internaat;<br />2° selectieambten :<br />a) nihil;<br />3° bevorderingsambten :<br />a) beheerder.<br />
 
 ### ART. 19.
 
-De ambten die de leden van het administratief personeel in het buitengewoon secundair onderwijs kunnen uitoefenen, worden als volgt vastgesteld en ingedeeld:<br /><br />1° wervingsambten:<br /><br />a) klerk-typist;<br /><br />b) opsteller;<br /><br />c) bode-kamerbewaarder;<br /><br />2° selectieambten:<br /><br />a) eerste klerk-typist;<br /><br />b) eerste opsteller;<br /><br />3° bevorderingsambten:<br /><br />nihil.
+De ambten die de leden van het administratief personeel in het buitengewoon secundair onderwijs kunnen uitoefenen, worden als volgt vastgelegd en ingedeeld :<br />1° wervingsambten :<br />a) bode-kamerbewaarder;<br />2° selectieambten :<br />a) nihil<br />3° bevorderingsambten :<br />a) nihil. <br />
+
+### ART. 19bis.
+
+§ 1. De ambten die de leden van het ondersteunend personeel kunnen uitoefenen in het buitengewoon secundair onderwijs bestaan uit de volgende wervingsambten :<br />1° administratief medewerker;<br />2° opvoeder. <br />
 
 ## HOOFDSTUK IV OVERGANGSBEPALINGEN
 
