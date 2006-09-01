@@ -1,0 +1,103 @@
+# Besluit van de Vlaamse Regering van 2006-09-08 tot wijziging van de regelgeving betreffende de bekwaamheidsbewijzen van de leden van het bestuurs- en onderwijzend personeel van de onderwijsinstellingen voor deeltijds kunstonderwijs
+
+### aanhef
+
+De Vlaamse Regering,<br /><br />Gelet op het decreet van 13 juli 2001 betreffende het Onderwijs XIII-Mozaïek, inzonderheid op artikel IX.2, § 2;<br /><br />Gelet op het decreet van 14 februari 2003 betreffende het Onderwijs XIV, inzonderheid op artikel X.40 en X.42;<br /><br />Gelet op het besluit van de Vlaamse Regering van 31 juli 1990 betreffende de bekwaamheidsbewijzen, de weddeschalen, het prestatiestelsel en de bezoldigingsregeling van de leden van het bestuurs- en onderwijzend personeel en van het opvoedend hulppersoneel van de onderwijsinstellingen voor deeltijds kunstonderwijs, studierichting « Beeldende kunst », gewijzigd bij de besluiten van de Vlaamse Regering van 2 december 1992, 31 januari 1996, 15 april 1997, 10 maart 1998, 14 februari 2003 en 21 november 2003;<br /><br />Gelet op het besluit van de Vlaamse Regering van 31 juli 1990 betreffende de bekwaamheidsbewijzen, de weddeschalen, het prestatiestelsel en de bezoldigingsregeling van de leden van het bestuurs- en onderwijzend personeel en van het opvoedend hulppersoneel van de onderwijsinstellingen voor deeltijds kunstonderwijs, studierichtingen « Muziek », « Woordkunst » en « Dans », gewijzigd bij de besluiten van de Vlaamse Regering van 2 december 1992, 31 januari 1996, 15 april 1997, 10 maart 1998, 14 februari 2003 en 21 november 2003;<br /><br />Gelet op het advies van de Inspectie van Financiën, gegeven op 29 mei 2006;<br /><br />Gelet op protocol nr. 601 van 16 juni 2006 houdende de conclusies van de onderhandelingen, gevoerd in de gemeenschappelijke vergadering van Sectorcomité X en van onderafdeling Vlaamse Gemeenschap van afdeling 2 van het Comité voor de provinciale en plaatselijke overheidsdiensten;<br /><br />Gelet op protocol nr. 366 van 16 juni 2006 houdende de conclusies van de onderhandelingen, gevoerd in het overkoepelend onderhandelingscomité, vermeld in het decreet van 5 april 1995 tot oprichting van onderhandelingscomités in het vrij gesubsidieerd onderwijs;<br /><br />Gelet op het advies van de Raad van State nr. 40.860/1, gegeven op 31 juli 2006, met toepassing van artikel 84, § 1, eerste lid, 1°, van de gecoördineerde wetten op de Raad van State;<br /><br />Op voorstel van de Vlaamse minister van Werk, Onderwijs en Vorming;<br /><br />Na beraadslaging,<br /><br />Besluit :
+
+## HOOFDSTUK I Wijzigingen in het besluit van de Vlaamse Regering van 31 juli 1990 betreffende de bekwaamheidsbewijzen, de weddeschalen, het prestatiestelsel en de bezoldigingsregeling van de leden van het bestuurs- en onderwijzend personeel en van het opvoedend hulppersoneel van de onderwijsinstellingen voor deeltijds kunstonderwijs, studierichting « Beeldende kunst »
+
+### ART. 1.
+
+In artikel 4 van het besluit van de Vlaamse Regering van 31 juli 1990 betreffende de bekwaamheidsbewijzen, de weddeschalen, het prestatiestelsel en de bezoldigingsregeling van de leden van het bestuurs- en onderwijzend personeel en van het opvoedend hulppersoneel van de onderwijsinstellingen voor deeltijds kunstonderwijs, studierichting « Beeldende kunst », gewijzigd bij het besluit van de Vlaamse Regering van 15 april 1997, worden de volgende wijzigingen aangebracht : <br />1° in § 1 worden tussen het woord « onderwijsinstelling, » en het woord « hetzij » de woorden « hetzij door een ambtshalve geregistreerde instelling voor hoger onderwijs, » ingevoegd; <br />2° § 2 wordt vervangen door wat volgt :<br />« § 2. De diploma's en de studiegetuigschriften die behaald zijn in overeenstemming met een buitenlandse regeling worden eveneens aangenomen als ze met een van de diploma's of studiegetuigschriften, vermeld in dit besluit, op een van de volgende wijzen gelijkwaardig worden verklaard : <br />1° krachtens verdragen of internationale overeenkomsten; <br />2° met toepassing van de procedure voor het verlenen van de gelijkwaardigheid, voorgeschreven bij de wet van 19 maart 1971 betreffende de gelijkwaardigheid van de buitenlandse diploma's en studiegetuigschriften;<br />3° met ingang van 1 september 1995, met toepassing van het decreet van 13 juli 1994 betreffende de hogescholen in de Vlaamse Gemeenschap;<br />4° met ingang van 1 oktober 1992, met toepassing van het decreet van 12 juni 1991 betreffende de universiteiten in de Vlaamse Gemeenschap;<br />5° met ingang van 1 januari 2003, met toepassing van het decreet van 4 april 2003 betreffende de herstructurering van het hoger onderwijs in Vlaanderen.<br /><br />De diploma's of getuigschriften die in een lidstaat van de Europese Economische Ruimte of, met ingang van 1 juni 2002, in Zwitserland uitgereikt zijn, worden aangenomen als er een conformiteitsattest bij is gevoegd zoals bepaald in het besluit van de Vlaamse Regering van 15 april 1997 tot bepaling van de voorwaarden en vorm van het conformiteitsattest voor wervingsambten in het onderwijs ter uitvoering van de Europese Richtlijnen 89/48/EEG en 92/51/EEG. »
+
+### ART. 2.
+
+In artikel 6 van hetzelfde besluit, vervangen bij het besluit van de Vlaamse Regering van 14 februari 2003, worden de volgende wijzigingen aangebracht :<br />1° er wordt een punt 2°bis ingevoegd, dat luidt als volgt :<br />« 2°bis het diploma van master, aansluitend bij een bachelor, eventueel na een schakelprogramma; »;<br />2° aan punt 14° wordt een punt l) toegevoegd, dat luidt als volgt :<br />« l) het diploma van professioneel gerichte bachelor. Daarmee wordt niet bedoeld de bachelor, aansluitend op een bachelor; »;<br />3° in punt 17° worden na de woorden « van de eerste graad » de woorden « of, vanaf 1 september 2000, van hoger onderwijs voor sociale promotie of, vanaf 1 september 2002, van hoger onderwijs, uitgereikt door een centrum voor volwassenenonderwijs » toegevoegd;<br />4° aan punt 20° worden een punt e) en f) toegevoegd, die luiden als volgt : <br />« e) een studiebewijs van het volwassenenonderwijs, gerangschikt BSO4;<br />f) het diploma in de verpleegkunde, uitgereikt na de vierde graad in het beroepssecundair onderwijs; »;<br />5° aan punt 23° wordt een punt c) toegevoegd, dat luidt als volgt : <br />« c) een studiebewijs van het volwassenenonderwijs, gerangschikt TSO3; »;<br />6° aan punt 25° wordt een punt c) toegevoegd, dat luidt als volgt : <br />« c) een studiebewijs van het volwassenenonderwijs, gerangschikt BSO3; ».
+
+### ART. 3.
+
+In artikel 7, § 1, van hetzelfde besluit, vervangen bij besluit van de Vlaamse Regering van 14 februari 2003, worden de volgende wijzigingen aangebracht : <br />1° punt 3° wordt vervangen door wat volgt : <br />« 3° een bekwaamheidsbewijs van hoger kunstonderwijs van de derde graad : een van de basisdiploma's, vermeld in artikel 6, 4° en 6°, met uitzondering van het diploma van industrieel ingenieur; »;<br />2° er wordt een punt 9°bis ingevoegd, dat luidt als volgt :<br />« 9°bis een bekwaamheidsbewijs van ten minste hoger kunstonderwijs van de eerste graad : een van de basisdiploma's, vermeld in artikel 6, 4°, 10° en 13°, of ermee gelijkgestelde studiebewijzen; »;<br />3° aan punt 13° wordt een punt d) toegevoegd, dat luidt als volgt :<br />« d) het diploma van secundair onderwijs, uitgereikt na de vierde graad van het beroepssecundair onderwijs; »;<br />4° punt 14° wordt vervangen door wat volgt :<br />« 14° ASBO :<br />a) het brevet van het aanvullend secundair beroepsonderwijs met volledig leerplan of voor sociale promotie; <br />b) het studiegetuigschrift van het tweede leerjaar van de vierde graad van het secundair onderwijs; <br />c) het diploma in de psychiatrische verpleegkunde;<br />d) het diploma in de ziekenhuisverpleegkunde;<br />e) het diploma in de verpleegkunde, uitgereikt na de vierde graad van het beroepssecundair onderwijs;<br />f) het brevet, certificaat of getuigschrift van het volwassenenonderwijs, gerangschikt als BSO4; »;<br />5° aan punt 16° worden een punt f), g) en h) toegevoegd, die luiden als volgt :<br />« f) de bekwaamheidsbewijzen, vermeld onder HSBS met gehomologeerd getuigschrift HSO / gehomologeerd getuigschrift van HSO (BSO);<br />g) het brevet of certificaat of getuigschrift van het volwassenenonderwijs, gerangschikt als BSO3; <br />h) het diploma van secundair onderwijs, gerangschikt als BSO3; »;<br />6° aan punt 17° worden een punt g) en h) toegevoegd, die luiden als volgt :<br />« g) het diploma of certificaat of getuigschrift van het volwassenenonderwijs, gerangschikt als TSO3;<br />h) het diploma van secundair onderwijs, gerangschikt als TSO3; ».
+
+### ART. 4.
+
+Aan artikel 8 van hetzelfde besluit, gewijzigd bij de besluiten van de Vlaamse Regering van 2 december 1992, 10 maart 1998 en 14 februari 2003, worden een § 7 en een § 8 toegevoegd, die luiden als volgt :<br />« § 7. Voor de toepassing van dit besluit worden gelijkgesteld met een bekwaamheidsbewijs van het hoger kunstonderwijs van de eerste graad : de diploma's, vermeld in artikel 6, 14°, h), i) en l), voor zover ze behaald zijn in een van de volgende studiegebieden :<br />1° architectuur;<br />2° audiovisuele en beeldende kunst;<br />3° muziek en dramatische kunst;<br />4° muziek en podiumkunsten.<br /><br />§ 8. Voor de toepassing van dit besluit worden gelijkgesteld met een bekwaamheidsbewijs van het hoger kunstonderwijs van de derde graad : de diploma's, vermeld in artikel 6, 2°bis, voor zover ze behaald zijn in een van de volgende studiegebieden : <br />1° architectuur;<br />2° audiovisuele en beeldende kunst;<br />3° muziek en dramatische kunst;<br />4° muziek en podiumkunsten. ».
+
+### ART. 5.
+
+In hetzelfde besluit worden bijlage I tot V, vervangen bij het besluit van de Vlaamse Regering van 14 februari 2003, vervangen door bijlage I tot V, gevoegd als bijlage 1 bij dit besluit.
+
+## HOOFDSTUK II Wijzigingen in het besluit van de Vlaamse Regering van 31 juli 1990 betreffende de bekwaamheidsbewijzen, de weddeschalen, het prestatiestelsel en de bezoldigingsregeling van de leden van het bestuurs- en onderwijzend personeel en van het opvoedend hulppersoneel van de onderwijsinstellingen voor deeltijds kunstonderwijs, studierichtingen « Muziek », « Woordkunst » en « Dans »
+
+### ART. 6.
+
+In artikel 4 van het besluit van de Vlaamse Regering van 31 juli 1990 betreffende de bekwaamheidsbewijzen, de weddeschalen, het prestatiestelsel en de bezoldigingsregeling van de leden van het bestuurs- en onderwijzend personeel en van het opvoedend hulppersoneel van de onderwijsinstellingen voor deeltijds kunstonderwijs, studierichtingen « Muziek », « Woordkunst » en « Dans », gewijzigd bij het besluit van de Vlaamse Regering van 15 april 1997, worden de volgende wijzigingen aangebracht : <br />1° in § 1 worden tussen het woord « onderwijsinstelling, » en het woord « hetzij » de woorden « hetzij door een ambtshalve geregistreerde instelling voor hoger onderwijs, » ingevoegd; <br />2° § 2 wordt vervangen door wat volgt :<br />« § 2. De diploma's en de studiegetuigschriften die behaald zijn in overeenstemming met een buitenlandse regeling worden eveneens aangenomen als ze met een van de diploma's of studiegetuigschriften, vermeld in dit besluit, op een van de volgende wijzen gelijkwaardig worden verklaard : <br />1° krachtens verdragen of internationale overeenkomsten;<br />2° met toepassing van de procedure voor het verlenen van de gelijkwaardigheid, voorgeschreven bij de wet van 19 maart 1971 betreffende de gelijkwaardigheid van de buitenlandse diploma's en studiegetuigschriften;<br />3° met ingang van 1 september 1995, met toepassing van het decreet van 13 juli 1994 betreffende de hogescholen in de Vlaamse Gemeenschap;<br />4° met ingang van 1 oktober 1992, met toepassing van het decreet van 12 juni 1991 betreffende de universiteiten in de Vlaamse Gemeenschap;<br />5° met ingang van 1 januari 2003, met toepassing van het decreet van 4 april 2003 betreffende de herstructurering van het hoger onderwijs in Vlaanderen. <br /><br />De diploma's of getuigschriften die in een lidstaat van de Europese Economische Ruimte of, met ingang van 1 juni 2002, in Zwitserland uitgereikt zijn, worden aangenomen als er een conformiteitsattest bij is gevoegd zoals bepaald in het besluit van de Vlaamse Regering van 15 april 1997 tot bepaling van de voorwaarden en vorm van het conformiteitsattest voor wervingsambten in het onderwijs ter uitvoering van de Europese Richtlijnen 89/48/EEG en 92/51/EEG. »
+
+### ART. 7.
+
+In artikel 6 van hetzelfde besluit, vervangen bij het besluit van de Vlaamse Regering van 14 februari 2003, worden de volgende wijzigingen aangebracht :<br />1° er wordt een punt 2°bis ingevoegd, dat luidt als volgt :<br />« 2°bis het diploma van master, aansluitend bij een bachelor, eventueel na een schakelprogramma; »;<br />2° aan punt 14° wordt een punt l) toegevoegd, dat luidt als volgt :<br />« l) het diploma van professioneel gerichte bachelor. Daarmee wordt niet bedoeld de bachelor, aansluitend op een bachelor; »;<br />3° in punt 17° worden na de woorden « van de eerste graad » de woorden « of, vanaf 1 september 2000, van hoger onderwijs voor sociale promotie of, vanaf 1 september 2002, van hoger onderwijs, uitgereikt door een centrum voor volwassenenonderwijs » toegevoegd;<br />4° aan punt 20° worden een punt e) en f) toegevoegd, die luiden als volgt : <br />« e) een studiebewijs van het volwassenenonderwijs, gerangschikt BSO4;<br />f) het diploma in de verpleegkunde, uitgereikt na de vierde graad in het beroepssecundair onderwijs; »;<br />5° aan punt 23° wordt een punt c) toegevoegd, dat luidt als volgt : <br />« c) een studiebewijs van het volwassenenonderwijs, gerangschikt TSO3; »;<br />6° aan punt 25° wordt een punt c) toegevoegd, dat luidt als volgt : <br />« c) een studiebewijs van het volwassenenonderwijs, gerangschikt BSO3; ».
+
+### ART. 8.
+
+In artikel 7, § 1, van hetzelfde besluit, vervangen bij besluit van de Vlaamse Regering van 14 februari 2003, worden de volgende wijzigingen aangebracht :<br />1° punt 3° wordt vervangen door wat volgt :<br />« 3° een bekwaamheidsbewijs van hoger kunstonderwijs van de derde graad : een van de basisdiploma's, vermeld in artikel 6, 4° en 6°, met uitzondering van het diploma van industrieel ingenieur; »;<br />2° er wordt een punt 9°bis ingevoegd, dat luidt als volgt :<br />« 9°bis een bekwaamheidsbewijs van ten minste hoger kunstonderwijs van de eerste graad : een van de basisdiploma's, vermeld in artikel 6, 4°, 10° en 13°, of ermee gelijkgestelde studiebewijzen; »;<br />3° aan punt 13° wordt een punt d) toegevoegd, dat luidt als volgt :<br />« d) het diploma van secundair onderwijs, uitgereikt na de vierde graad van het beroepssecundair onderwijs; »;<br />4° punt 14° wordt vervangen door wat volgt :<br />« 14° ASBO :<br />a) het brevet van het aanvullend secundair beroepsonderwijs met volledig leerplan of voor sociale promotie; <br />b) het studiegetuigschrift van het tweede leerjaar van de vierde graad van het secundair onderwijs; <br />c) het diploma in de psychiatrische verpleegkunde;<br />d) het diploma in de ziekenhuisverpleegkunde;<br />e) het diploma in de verpleegkunde, uitgereikt na de vierde graad van het beroepssecundair onderwijs;<br />f) het brevet, certificaat of getuigschrift van het volwassenenonderwijs, gerangschikt als BSO4; »;<br />5° aan punt 16° worden een punt f), g) en h) toegevoegd, die luiden als volgt :<br />« f) de bekwaamheidsbewijzen, vermeld onder HSBS met gehomologeerd getuigschrift HSO / gehomologeerd getuigschrift van HSO (BSO);<br />g) het brevet of certificaat of getuigschrift van het volwassenenonderwijs, gerangschikt als BSO3; <br />h) het diploma van secundair onderwijs, gerangschikt als BSO3; »;<br />6° aan punt 17° worden een punt g) en h) toegevoegd, die luiden als volgt :<br />« g) het diploma of certificaat of getuigschrift van het volwassenenonderwijs, gerangschikt als TSO3;<br />h) het diploma van secundair onderwijs, gerangschikt als TSO3; ».
+
+### ART. 9.
+
+Aan artikel 8 van hetzelfde besluit, gewijzigd bij de besluiten van de Vlaamse Regering van 2 december 1992, 10 maart 1998 en 14 februari 2003, worden een § 9 en een § 10 toegevoegd, die luiden als volgt :<br />« § 9. Voor de toepassing van dit besluit worden gelijkgesteld met een bekwaamheidsbewijs van het hoger kunstonderwijs van de eerste graad : de diploma's, vermeld in artikel 6, 14°, h), i) en l), voor zover ze behaald zijn in een van de volgende studiegebieden :<br />1° architectuur;<br />2° audiovisuele en beeldende kunst;<br />3° muziek en dramatische kunst;<br />4° muziek en podiumkunsten.<br /><br />§ 10. Voor de toepassing van dit besluit worden gelijkgesteld met een bekwaamheidsbewijs van het hoger kunstonderwijs van de derde graad : de diploma's, vermeld in artikel 6, 2°bis, voor zover ze behaald zijn in een van de volgende studiegebieden : <br />1° architectuur;<br />2° audiovisuele en beeldende kunst;<br />3° muziek en dramatische kunst;<br />4° muziek en podiumkunsten. ».
+
+### ART. 10.
+
+In hetzelfde besluit wordt een artikel 15quater ingevoegd, dat luidt als volgt :<br />« Art. 15quater. § 1. Er worden overgangsmaatregelen toegekend aan leraars die in een instelling voor deeltijds kunstonderwijs in het schooljaar 2005-2006 belast waren met, of titularis waren van, een opdracht in de vakken algemene muzikale vorming, samenzang, koor, stemvorming, of lyrische kunst. Onder titularis wordt het personeelslid verstaan dat in een vacante betrekking vastbenoemd, tijdelijk aangesteld of tot de proeftijd toegelaten is, met uitzondering van wie voor een tijd een tijdelijke titularis vervangt.<br /><br />Deze overgangsregeling is van toepassing op elk personeelslid, vermeld in het eerste lid, dat :<br />1° uiterlijk op 1 januari 2006 vastbenoemd is en als zodanig erkend is door de Vlaamse Gemeenschap;<br />2° behoudens de verloven en afwezigheden, vermeld in artikel 14, § 1, vanaf 1 september 2004 ononderbroken in dienst geweest is in het deeltijds kunstonderwijs als tijdelijk personeelslid in een ambt van het bestuurs- en onderwijzend personeel en als dusdanig bezoldigd geweest is door de Vlaamse Gemeenschap. <br /><br />Het personeelslid, vermeld in het tweede lid, dat op basis van de reglementering die van kracht was voor 1 september 2006 in het bezit was van een vereist bekwaamheidsbewijs en geen vereist bekwaamheidsbewijs meer bezit bij de toepassing van dit besluit, wordt voor de rechtspositie en de bezoldiging bij overgangsmaatregel aangezien als een personeelslid met een vereist bekwaamheidsbewijs. <br /><br />§ 2. Voor de personeelsleden die onder de toepassing van § 1 vallen, zijn de bepalingen van artikel 9 van het koninklijk besluit van 10 maart 1965 houdende bezoldigingsregeling van het personeel der leergangen met beperkt leerplan afhangend van het Ministerie van Nationale Opvoeding en Cultuur niet van toepassing op de bekwaamheidsbewijzen en weddeschalen. »
+
+### ART. 11.
+
+In hetzelfde besluit worden bijlage I tot IV, vervangen bij het besluit van de Vlaamse Regering van 14 februari 2003, vervangen door bijlage I tot IV, gevoegd als bijlage 2 bij dit besluit.
+
+## HOOFDSTUK III Slotbepalingen
+
+### ART. 12.
+
+Dit besluit treedt in werking op 1 september 2006.
+
+### ART. 13.
+
+De Vlaamse minister, bevoegd voor het onderwijs, is belast met de uitvoering van dit besluit.
+
+## BIJLAGE 1 Beeldende Kunst
+
+### bijlage I
+
+<a href="http://www.ejustice.just.fgov.be/mopdf/2006/11/23_2.pdf#page=7" title=" " target="_blank" class="pdf"></a>
+
+### bijlage II
+
+<a href="http://www.ejustice.just.fgov.be/mopdf/2006/11/23_2.pdf#page=11" title=" " target="_blank" class="pdf"></a>
+
+### bijlage III
+
+<a href="http://www.ejustice.just.fgov.be/mopdf/2006/11/23_2.pdf#page=24" title=" " target="_blank" class="pdf"></a>
+
+### bijlage IV
+
+<a href="http://www.ejustice.just.fgov.be/mopdf/2006/11/23_2.pdf#page=55" title=" " target="_blank" class="pdf"></a>
+
+### bijlage V
+
+<a href="http://www.ejustice.just.fgov.be/mopdf/2006/11/23_2.pdf#page=90" title=" " target="_blank" class="pdf"></a>
+
+## BIJLAGE 2 Muziek, Woordkunst en Dans
+
+### bijlage I
+
+<a href="http://www.ejustice.just.fgov.be/mopdf/2006/11/23_2.pdf#page=93" title=" " target="_blank" class="pdf"></a>
+
+### bijlage II
+
+<a href="http://www.ejustice.just.fgov.be/mopdf/2006/11/23_2.pdf#page=103" title=" " target="_blank" class="pdf"></a>
+
+### bijlage III
+
+<a href="http://www.ejustice.just.fgov.be/mopdf/2006/11/23_2.pdf#page=126" title=" " target="_blank" class="pdf"></a> <br /><br />
+
+### bijlage IV
+
+<a href="http://www.ejustice.just.fgov.be/mopdf/2006/11/23_2.pdf#page=153" title=" " target="_blank" class="pdf"></a>
