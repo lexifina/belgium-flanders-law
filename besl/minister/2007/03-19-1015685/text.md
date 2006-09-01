@@ -23,3 +23,7 @@ In de enige bijlage bij hetzelfde ministerieel besluit worden de punten 39septie
 ### ART. 8.
 
 In punt 101, punt 2° en punt 3°, van de enige bijlage bij hetzelfde ministerieel besluit worden de woorden « tot het einde van de maand waarin het attest vervalt » vervangen door de woorden « tot het einde van de maand waarin het attest vervalt met een minimum van zes maanden ».<br /><br />
+
+### ART. 10.
+
+In hoofdstuk XIV van de enige bijlage bij hetzelfde ministerieel besluit worden de afdelingen II en III, bestaande uit de artikelen 140 tot en met 144, vervangen door wat volgt :<br />« Afdeling II. Financiële regeling met betrekking tot mantel- en thuiszorg<br />140. De zorgkas betaalt het bedrag voor mantel- en thuiszorg maandelijks in contanten aan de gebruiker of via overschrijving op het rekeningnummer van de gebruiker uit. »<br /><br />
