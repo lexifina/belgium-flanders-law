@@ -18,7 +18,7 @@ De modulaire opleidingen « Economie - Moderne Talen ASO 3 », « Economie - Wis
 
 ### ART. 4.
 
-§ 1. De hierna vermelde, conform artikel 75 van het decreet van 2 maart 1999 tot regeling van een aantal aangelegenheden van het volwassenenonderwijs, goedgekeurde structuurschema's kunnen bij wijze van overgangsmaatregel nog gedurende de schooljaren 2005-2006 en 2006-2007 gebruikt worden :<br />1° « Economie - moderne talen ASO 2 », goedgekeurd op 31 mei 2002; <br />2° « Economie - moderne talen ASO 3 », goedgekeurd op 31 mei 2003; <br />3° « Economie - wiskunde ASO 3 », goedgekeurd op 31 mei 2003; <br />4° « Menswetenschappen ASO 3 », goedgekeurd op 31 mei 2003; <br />5° « Moderne talen - wiskunde ASO 3 », goedgekeurd op 31 mei 2003; <br />6° « Wetenschappen - wiskunde ASO 3 », goedgekeurd op 31 mei 2003; <br />7° « Basisvorming TSO 2 », goedgekeurd op 31 mei 2002;<br />8° « Basisvorming TSO 3 », goedgekeurd op 31 mei 2003.<br /><br />[§ 2. nog niet in werking getreden] <br /><br />
+§ 1. De hierna vermelde, conform artikel 75 van het decreet van 2 maart 1999 tot regeling van een aantal aangelegenheden van het volwassenenonderwijs, goedgekeurde structuurschema's kunnen bij wijze van overgangsmaatregel nog gedurende de schooljaren 2005-2006 en 2006-2007 gebruikt worden :<br />1° « Economie - moderne talen ASO 2 », goedgekeurd op 31 mei 2002; <br />2° « Economie - moderne talen ASO 3 », goedgekeurd op 31 mei 2003; <br />3° « Economie - wiskunde ASO 3 », goedgekeurd op 31 mei 2003; <br />4° « Menswetenschappen ASO 3 », goedgekeurd op 31 mei 2003; <br />5° « Moderne talen - wiskunde ASO 3 », goedgekeurd op 31 mei 2003; <br />6° « Wetenschappen - wiskunde ASO 3 », goedgekeurd op 31 mei 2003; <br />7° « Basisvorming TSO 2 », goedgekeurd op 31 mei 2002;<br />8° « Basisvorming TSO 3 », goedgekeurd op 31 mei 2003.<br /><br />§ 2. Het hierna vermelde, conform artikel 75 van het decreet van 2 maart 1999 tot regeling van een aantal aangelegenheden van het volwassenenonderwijs, goedgekeurde structuurschema kan bij wijze van overgangsmaatregel nog gedurende het schooljaar 2006-2007 gebruikt worden :<br />1° « Basisvorming BSO 3, goedgekeurd op 31 mei 2002.<br /><br />
 
 ### ART. 5.
 
@@ -80,6 +80,10 @@ De Vlaamse minister, bevoegd voor het Onderwijs, is belast met de uitvoering van
 
 <a href="http://www.ejustice.just.fgov.be/mopdf/2007/03/29_1_3.pdf#page=66" title=" bijlage XI" target="_blank" class="pdf">bijlage XI</a>
 
+### BIJLAGE XII.
+
+<a href="http://www.ejustice.just.fgov.be/mopdf/2007/03/29_1_3.pdf#page=80" title=" bijlage XII" target="_blank" class="pdf">bijlage XII</a>
+
 ### BIJLAGE XIII.
 
 <a href="http://www.ejustice.just.fgov.be/mopdf/2007/03/29_1_3.pdf#page=96" title=" bijlage XIII - deel 1" target="_blank" class="pdf">bijlage XIII - deel 1</a> <br /><br /> <a href="http://www.ejustice.just.fgov.be/mopdf/2007/03/29_1_4.pdf#page=1" title=" bijlage XIII - deel 2" target="_blank" class="pdf">bijlage XIII - deel 2</a>
@@ -87,6 +91,14 @@ De Vlaamse minister, bevoegd voor het Onderwijs, is belast met de uitvoering van
 ### BIJLAGE XIV.
 
 <a href="http://www.ejustice.just.fgov.be/mopdf/2007/03/29_1_4.pdf#page=13" title=" bijlage XIV" target="_blank" class="pdf">bijlage XIV</a>
+
+### BIJLAGE XV.
+
+<a href="http://www.ejustice.just.fgov.be/mopdf/2007/03/29_1_4.pdf#page=29" title=" bijlage XV" target="_blank" class="pdf">bijlage XV</a>
+
+### BIJLAGE XVI.
+
+<a href="http://www.ejustice.just.fgov.be/mopdf/2007/03/29_1_4.pdf#page=53" title=" bijlage XVI" target="_blank" class="pdf">bijlage XVI</a>
 
 ### BIJLAGE XVII.
 
