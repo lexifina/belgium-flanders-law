@@ -2,16 +2,16 @@
   "codex_id": 1014072,
   "title": "Besluit van de Vlaamse Regering van 2005-09-23 betreffende de interlandelijke adoptie",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1014072/VolledigDocument?datum=2006-06-01",
-  "source_sha256": "ae7ef40da1df05768983acd3b18c2be755770c5a0f0b6ea51551a88f2dd78b43",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1014072/VolledigDocument?datum=2006-09-01",
+  "source_sha256": "468fb1c4dc0384328a71b736a396baa5baff70972cd9e34d284cbbaf29b87480",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1014072&param=informatie",
-  "as_of": "2006-06-01",
+  "as_of": "2006-09-01",
   "made": "2005-09-23",
   "gazette": "2005-11-18",
   "numac": 2005036342,
   "document_start": "2005-09-01",
   "document_end": "2013-05-16",
-  "in_force": "2006-06-01",
+  "in_force": "2006-09-01",
   "article_versions": 91,
-  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2006-09-01; future article versions excluded; article text as the API gives it"
 }
