@@ -130,7 +130,7 @@ De bepalingen van artikel 97 van het decreet van 27 maart 1991 betreffende de re
 
 ### ART. 29.
 
-Dit hoofdstuk is van toepassing op:<br /><br />1° de leden van de inspectiedienst bedoeld in artikel 1, eerste lid, 3° van de wet van 22 juni 1964 betreffende het statuut der personeelsleden van het Rijksonderwijs;<br /><br />2° de personeelsleden bedoeld in artikel 2, § 1, van het decreet van 27 maart 1991 betreffende de rechtspositie van bepaalde personeelsleden van het Gemeenschapsonderwijs;<br /><br />3° de personeelsleden bedoeld in artikel 4, § 1, van het decreet van 27 maart 1991 betreffende de rechtspositie van sommige personeelsleden van het gesubsidieerd onderwijs en de gesubsidieerde psycho-medisch-sociale centra;<br /><br />4° de leden van de Onderwijsinspectie van de Vlaamse Gemeenschap, bedoeld in artikel 4 van het decreet van 17 juli 1991 betreffende inspectie en pedagogische begeleidingsdiensten;<br /><br />5° de personeelsleden van de Dienst voor Onderwijsontwikkeling bedoeld in artikel 9 van het decreet van 17 juli 1991 betreffende inspectie en pedagogische begeleidingsdiensten;<br /><br />6° de personeelsleden van de pedagogische begeleidingsdiensten bedoeld in artikel 88 van het decreet van 17 juli 1991 betreffende inspectie en pedagogische begeleidingsdiensten.<br /><br />Dit hoofdstuk is van toepassing op de bovenvermelde personeelsleden voor zover zij:<br /><br />- hetzij vastbenoemd of tot de proeftijd toegelaten zijn;<br /><br />- hetzij vastbenoemd zijn en hun benoeming erkend is, daar waar de erkenning bestaat.
+Dit hoofdstuk is van toepassing op:<br />1° de leden van de inspectiedienst bedoeld in artikel 1, eerste lid, 3° van de wet van 22 juni 1964 betreffende het statuut der personeelsleden van het Rijksonderwijs;<br />2° de personeelsleden bedoeld in artikel 2, § 1, van het decreet van 27 maart 1991 betreffende de rechtspositie van bepaalde personeelsleden van het Gemeenschapsonderwijs;<br />3° de personeelsleden bedoeld in artikel 4, § 1, van het decreet van 27 maart 1991 betreffende de rechtspositie van sommige personeelsleden van het gesubsidieerd onderwijs en de gesubsidieerde psycho-medisch-sociale centra;<br />4° de leden van de Onderwijsinspectie van de Vlaamse Gemeenschap, bedoeld in artikel 4 van het decreet van 17 juli 1991 betreffende inspectie en pedagogische begeleidingsdiensten;<br />5° de personeelsleden van de Dienst voor Onderwijsontwikkeling bedoeld in artikel 9 van het decreet van 17 juli 1991 betreffende inspectie en pedagogische begeleidingsdiensten;<br />6° de personeelsleden van de pedagogische begeleidingsdiensten bedoeld in artikel 88 van het decreet van 17 juli 1991 betreffende inspectie en pedagogische begeleidingsdiensten.<br /><br />Dit hoofdstuk is van toepassing op de bovenvermelde personeelsleden voor zover zij:<br />- hetzij vastbenoemd of tot de proeftijd toegelaten zijn;<br />- hetzij vastbenoemd zijn en hun benoeming erkend is, daar waar de erkenning bestaat.<br />- hetzij als tijdelijk personeelslid aangesteld zijn. <br />
 
 ### ART. 30.
 
@@ -138,7 +138,13 @@ De in artikel 29 bedoelde personeelsleden worden van ambtswege en zonder dat ze 
 
 ### ART. 31.
 
-Aan een personeelslid wordt op zijn verzoek voor de uitoefening van een mandaat van burgemeester, schepen of voorzitter van de raad voor maatschappelijk welzijn van een gemeente ongeacht het aantal inwoners, een politiek verlof toegekend. [Het personeelslid kan dit verlof voltijds, of - binnen het volume en de voorwaarden bepaald door de Vlaamse regering - deeltijds opnemen. [ <span class="reference">(ing. decr. 13 juli 2001, art. X. 3, I: 1 januari 2001)</span> ]
+Aan een personeelslid wordt op zijn verzoek, een voltijds of deeltijds politiek verlof toegekend voor de uitoefening van een mandaat van :<br>
+1° burgemeester, schepen of gemeenteraadslid;<br>
+2° provincieraadslid dat geen lid is van de bestendige deputatie;<br>
+3° voorzitter, lid van het bureau of lid van de raad voor maatschappelijk welzijn;<br>
+4° voorzitter, lid van het vast bureau van de districtsraad of lid van de districtsraad.<br>
+<br>
+De Vlaamse Regering kan voor personeelsleden die dit verlof opnemen, voorwaarden bepalen.
 
 ### ART. 32.
 
@@ -150,7 +156,8 @@ Gedurende de perioden van politiek verlof op eigen verzoek of van ambtswege is h
 
 ### ART. 34.
 
-Het politiek verlof eindigt uiterlijk op de laatste dag van de maand die volgt op die waarin het mandaat een einde neemt.<br /><br />Het personeelslid van wie het politiek verlof een einde neemt, komt opnieuw als vastbenoemd of tot de proeftijd toegelaten personeelslid in dienst, voor zover de betrekking die hem werd toegewezen of waarin hij geaffecteerd was, nog bestaat.
+Het politiek verlof eindigt uiterlijk op de laatste dag van de maand die volgt op die waarin het mandaat een einde neemt.<br>
+&nbsp;
 
 ### ART. 35.
 
