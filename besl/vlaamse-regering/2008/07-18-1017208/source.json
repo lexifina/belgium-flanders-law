@@ -1,0 +1,17 @@
+{
+  "codex_id": 1017208,
+  "title": "Besluit van de Vlaamse Regering van 2008-07-18 betreffende de individuele concordantie naar het algemeen vak project algemene vakken in het studiegebied algemene vorming van het secundair volwassenenonderwijs",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1017208/VolledigDocument?datum=2006-09-01",
+  "source_sha256": "abc7cb6c24ae136ede9588170bfdde6b39d48311e11fb43341d4839f9467d4bf",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1017208&param=informatie",
+  "as_of": "2006-09-01",
+  "made": "2008-07-18",
+  "gazette": "2008-10-21",
+  "numac": 2008203676,
+  "document_start": "2006-09-01",
+  "document_end": null,
+  "in_force": "2006-09-01",
+  "article_versions": 9,
+  "record_form": "consolidated version as in force on 2006-09-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
