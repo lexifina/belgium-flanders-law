@@ -1,0 +1,17 @@
+{
+  "codex_id": 1014873,
+  "title": "Ministerieel besluit van 2006-07-25 tot wijziging van het ministerieel besluit van 16 november 2005 tot oprichting van de stuurgroep voor het natuurrichtplan voor de VEN-gebieden, Speciale beschermingszone, groen-, park- en bosgebieden in de « Duinen van de Middenkust tussen Oostende en Blankenberge »",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1014873/VolledigDocument?datum=2006-09-03",
+  "source_sha256": "ae7d6ab2db2174eb1dfc841c13b7e905d87679d07d42d4577a963661f64d0315",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1014873&param=informatie",
+  "as_of": "2006-09-03",
+  "made": "2006-07-25",
+  "gazette": "2006-08-24",
+  "numac": 2006036201,
+  "document_start": "2006-09-03",
+  "document_end": null,
+  "in_force": "2006-09-03",
+  "article_versions": 2,
+  "record_form": "consolidated version as in force on 2006-09-03; oldest version available; future article versions excluded; article text as the API gives it"
+}
