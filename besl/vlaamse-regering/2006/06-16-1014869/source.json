@@ -1,0 +1,17 @@
+{
+  "codex_id": 1014869,
+  "title": "Besluit van de Vlaamse Regering van 2006-06-16 houdende de herverdeling van kredieten binnen programma 45.4 van de algemene uitgavenbegroting van de Vlaamse Gemeenschap voor de begroting 2006",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1014869/VolledigDocument?datum=2006-09-03",
+  "source_sha256": "4cb59e8d9c770ce278f4ae8589ac2ba8cee4c2ca4419e21b1203db425dd3475e",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1014869&param=informatie",
+  "as_of": "2006-09-03",
+  "made": "2006-06-16",
+  "gazette": "2006-08-24",
+  "numac": 2006036161,
+  "document_start": "2006-09-03",
+  "document_end": null,
+  "in_force": "2006-09-03",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2006-09-03; oldest version available; future article versions excluded; article text as the API gives it"
+}
