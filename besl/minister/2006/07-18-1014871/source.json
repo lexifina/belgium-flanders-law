@@ -1,0 +1,17 @@
+{
+  "codex_id": 1014871,
+  "title": "Ministerieel besluit van 2006-07-18 tot bepaling van de subsidiabele uitgaven waarvoor premies kunnen worden toegekend aan terreinen voor openluchtrecreatieve verblijven",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1014871/VolledigDocument?datum=2006-09-03",
+  "source_sha256": "62e79438bf1792e78bed31f3d6a9d652884d0cf91dd3ffc95e5b41313a50976c",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1014871&param=informatie",
+  "as_of": "2006-09-03",
+  "made": "2006-07-18",
+  "gazette": "2006-08-24",
+  "numac": 2006036166,
+  "document_start": "2006-09-03",
+  "document_end": null,
+  "in_force": "2006-09-03",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2006-09-03; oldest version available; future article versions excluded; article text as the API gives it"
+}
