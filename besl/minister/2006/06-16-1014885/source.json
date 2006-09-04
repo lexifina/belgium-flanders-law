@@ -1,0 +1,17 @@
+{
+  "codex_id": 1014885,
+  "title": "Ministerieel besluit van 2006-06-16 tot wijziging van het ministerieel besluit van 24 november 2000 betreffende steun aan de investeringen en aan de installatie in de landbouw",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1014885/VolledigDocument?datum=2006-09-04",
+  "source_sha256": "f49fb5ee35d8693ac9566ecfc06144e5e7061ce608183efa18f9afe637dbd23a",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1014885&param=informatie",
+  "as_of": "2006-09-04",
+  "made": "2006-06-16",
+  "gazette": "2006-08-25",
+  "numac": 2006036278,
+  "document_start": "2006-09-04",
+  "document_end": null,
+  "in_force": "2006-09-04",
+  "article_versions": 5,
+  "record_form": "consolidated version as in force on 2006-09-04; oldest version available; future article versions excluded; article text as the API gives it"
+}
