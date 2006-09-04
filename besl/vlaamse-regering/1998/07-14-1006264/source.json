@@ -2,16 +2,16 @@
   "codex_id": 1006264,
   "title": "Besluit van de Vlaamse Regering van 1998-07-14 [houdende de vaststelling van de procedure voor het Vlaams Commissariaat voor de Media en houdende aanvullende kwalificatiecriteria en voorwaarden voor de erkenning van particuliere radio-omroepen]",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1006264/VolledigDocument?datum=2006-06-01",
-  "source_sha256": "16a95d8af686a7f957047dc118c1471fa3b22583d254450ff8cd3907e7ab02eb",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1006264/VolledigDocument?datum=2006-09-04",
+  "source_sha256": "2f6a059146b880aec74a47e3de7c3848335dd5af16c2f4872418074e6501259c",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1006264&param=informatie",
-  "as_of": "2006-06-01",
+  "as_of": "2006-09-04",
   "made": "1998-07-14",
   "gazette": "1998-08-20",
   "numac": 1998035951,
   "document_start": "1998-08-01",
   "document_end": "2006-09-03",
-  "in_force": "2006-06-01",
+  "in_force": "2006-09-04",
   "article_versions": 56,
-  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2006-09-04; future article versions excluded; article text as the API gives it"
 }
