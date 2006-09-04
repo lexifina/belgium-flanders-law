@@ -1,0 +1,17 @@
+{
+  "codex_id": 1014887,
+  "title": "Omzendbrief van 2006-07-20 BB 2006/09 betreffende instructies voor het opstellen van de begrotingen, budgetten en meerjarenplannen voor 2007 van de gemeenten en de openbare centra voor maatschappelijk welzijn van het Vlaamse Gewest",
+  "type": "Omzendbrief",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1014887/VolledigDocument?datum=2006-09-04",
+  "source_sha256": "60b07ebe37217cb293cfa0463952021bff55cda21335418196bbce4a0c39a38f",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1014887&param=informatie",
+  "as_of": "2006-09-04",
+  "made": "2006-07-20",
+  "gazette": "2006-08-25",
+  "numac": 2006036256,
+  "document_start": "2006-09-04",
+  "document_end": null,
+  "in_force": "2006-09-04",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2006-09-04; oldest version available; future article versions excluded; article text as the API gives it"
+}
