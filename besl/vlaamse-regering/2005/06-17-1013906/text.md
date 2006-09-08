@@ -12,7 +12,7 @@ In dit besluit wordt verstaan onder:<br /><br />1° [Vlaams Energieagentschap: h
 
 ### ART. 2.
 
-Om door het Vlaamse Gewest erkend te kunnen worden als energiedeskundige voldoet de kandidaat-e-nergiedeskundige aan de volgende voorwaarden:<br /><br />1° houder zijn van een getuigschrift als bedoeld in artikel 12, dat hoogstens twaalf maanden voor de erkenningsaanvraag werd uitgereikt;<br /><br />2° minstens houder zijn van een diploma secundair onderwijs;<br /><br />3° zich ertoe verbinden de verklaring op eer voor energiedeskundigen voor woningen, zoals opgenomen als bijlage bij dit besluit, na te leven.
+Om door het Vlaamse Gewest erkend te kunnen worden als energiedeskundige voldoet de kandidaat-energiedeskundige aan de volgende voorwaarden:<br />1° houder zijn van een getuigschrift als bedoeld in artikel 12, dat hoogstens twaalf maanden voor de erkenningsaanvraag werd uitgereikt;<br />2° minstens houder zijn van een diploma secundair onderwijs, of ervaring hebben in het geven van energieadvies aan particulieren, vennootschappen, niet-commerciële instellingen of publiekrechtelijke rechtspersonen; <br />3° zich ertoe verbinden de verklaring op eer voor energiedeskundigen voor woningen, zoals opgenomen als bijlage bij dit besluit, na te leven.<br /><br />Het Vlaams Energieagentschap oordeelt of aan de voorwaarden, vermeld in het vorige lid, werd voldaan. <br />
 
 ## AFDELING 2 AANVRAAGPROCEDURE TOT ERKENNING
 
@@ -72,7 +72,7 @@ Het publiekrechtelijk vormgegeven extern verzelfstandigd agentschap Vlaams Agent
 
 ### ART. 13.
 
-In afwijking van artikel 2 voldoen kandidaat-energiedeskundigen met beroepservaring aan volgende voorwaarden om door het Vlaamse Gewest erkend te kunnen worden als energiedeskundige:<br /><br />1° beroepservaring hebben in het geven van energieadvies aan particulieren, vennootschappen, niet-commerciële instellingen of publiekrechtelijke rechtspersonen;<br /><br />2° minstens houder zijn van een diploma secundair onderwijs;<br /><br />3° zich ertoe verbinden de verklaring op eer voor energiedeskundigen voor woningen, zoals opgenomen als bijlage bij dit besluit, na te leven;<br /><br />4° de erkenningsaanvraag voor 31 december 2005 indienen bij [het Vlaams Energieagentschap.  <span class="reference">(verv. B.V.R. 24 maart 2006, art. 5, I: 1 april 2006)</span> ]<br /><br />De beroepservaring, bedoeld in het eerste lid, wordt aangetoond door bij het aanvraagdossier kopie te voegen van vijf uitgevoerde contracten met betrekking tot het verstrekken van schriftelijke energieadviezen aan particulieren, vennootschappen, niet-commerciële instellingen of publiekrechtelijke rechtspersonen, evenals de schriftelijke adviezen die uit deze contracten zijn voortgekomen. De schriftelijke energieadviezen moeten in de twee jaar voorafgaand aan de inwerkingtreding van dit besluit zijn afgeleverd.<br /><br />Als uit de contracten of de daaruit voortvloeiende schriftelijke energieadviezen, bedoeld in het derde lid, niet rechtstreeks blijkt dat ze werden uitgevoerd door de kandidaat-energiedeskundige, moeten ze vergezeld zijn van een verklaring op erewoord ondertekend door de bevoegde vertegenwoordiger van de rechtspersoon, waarin wordt bevestigd dat de vijf contracten werden uitgevoerd door de kandidaat-energiedeskundige als werknemer van de rechtspersoon.
+...
 
 ## HOOFDSTUK IV SLOTBEPALINGEN
 
