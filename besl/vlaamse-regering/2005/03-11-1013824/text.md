@@ -140,11 +140,11 @@ De minister bepaalt de nadere regels tot vaststelling van de vorm van het energi
 
 ### ART. 25.
 
-De minister bepaalt nadere regels tot vaststelling van de vorm en de inhoud van het EPB-voorstel, de EPB-aangifte, de startverklaring en de uitstelverklaring.
+De minister bepaalt de nadere regels tot vaststelling van de vorm en inhoud van de EPB-aangifte en de startverklaring. <br />
 
 ### ART. 26.
 
-De minister bepaalt welke gegevens van het EPB-voorstel, de startverklaring, de uitstelverklaring en de EPB-aangifte door de gemeente in de energieprestatiedatabank dienen opgenomen te worden en bepaalt de minimale voorwaarden waaraan de energieprestatiedatabank moet voldoen.
+De minister bepaalt welke gegevens van de aanvraag tot het verkrijgen van een stedenbouwkundige vergunning en van de stedenbouwkundige vergunning door de gemeente in de energieprestatiedatabank moeten worden opgenomen en bepaalt de minimale voorwaarden waaraan de energieprestatiedatabank moet voldoen. <br />
 
 ### ART. 27.
 
@@ -158,15 +158,15 @@ De Vlaamse minister, bevoegd voor financiën, wijst de ambtenaren aan die bevoeg
 
 ### ART. 29.
 
-In afwijking van artikel 3, mogen nieuw op te richten woon-, kantoor- en schoolgebouwen van de K-peileis afwijken, indien de aanvraag tot het verkrijgen van de stedenbouwkundige vergunning wordt ingediend binnen de zes maanden na de inwerkingtreding van dit besluit en er wordt voldaan aan de E-peileis zoals vastgelegd in artikel 12, §§ 1 en 2.
+In afwijking van artikel 3, mogen nieuw op te richten woon-, kantoor- en schoolgebouwen van de K-peileis afwijken, indien de aanvraag tot het verkrijgen van de stedenbouwkundige vergunning wordt ingediend binnen de twaalf maanden na de inwerkingtreding van dit besluit en er wordt voldaan aan de E-peileis zoals vastgelegd in artikel 12, §§ 1 en 2.
 
 ### ART. 30.
 
-In afwijking van artikel 12, mogen nieuw op te richten woon-, kantoor- en schoolgebouwen van de E-peileis afwijken, indien de aanvraag tot het verkrijgen van de stedenbouwkundige vergunning wordt ingediend binnen de zes maanden na de inwerkingtreding van dit besluit en er wordt voldaan aan de K-peileis zoals vastgelegd in artikel 3, 1°.
+In afwijking van artikel 12, mogen nieuw op te richten woon-, kantoor- en schoolgebouwen van de E-peileis afwijken, indien de aanvraag tot het verkrijgen van de stedenbouwkundige vergunning wordt ingediend binnen de twaalf maanden na de inwerkingtreding van dit besluit en er wordt voldaan aan de K-peileis zoals vastgelegd in artikel 3, 1°.
 
 ### ART. 31.
 
-In afwijking van artikel 13, is de eis m.b.t. de beperking van het risico op oververhitting niet van toepassing op de aanvraag tot het verkrijgen van een stedenbouwkundige vergunning voor woongebouwen, indien de aanvraag ingediend wordt binnen de 6 maanden na de inwerkingtreding van dit besluit en er voldaan wordt aan de K-peileis zoals vastgelegd in artikel 3, 1°.
+In afwijking van artikel 13, is de eis m.b.t. de beperking van het risico op oververhitting niet van toepassing op de aanvraag tot het verkrijgen van een stedenbouwkundige vergunning voor woongebouwen, indien de aanvraag ingediend wordt binnen de twaalf maanden na de inwerkingtreding van dit besluit en er voldaan wordt aan de K-peileis zoals vastgelegd in artikel 3, 1°.
 
 ### ART. 32.
 
@@ -19614,9 +19614,6 @@ In alle andere gevallen geldt:<br>
 
 ### BIJLAGE III
 
-MAXIMAAL TOELAATBARE U-WAARDEN OF MINIMAAL TE REALISEREN R-WAARDEN<br>
-<br>
-
 <table border="1" cellpadding="0" cellspacing="0" style="border-collapse:collapse">
 	<tbody>
 		<tr>
@@ -19910,7 +19907,7 @@ MAXIMAAL TOELAATBARE U-WAARDEN OF MINIMAAL TE REALISEREN R-WAARDEN<br>
 		</tr>
 		<tr>
 			<td colspan="5" style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; vertical-align:top; width:464.4pt">
-			<p>(1)Voor de evaluatie van U<sub>max</sub> dient de oppervlaktegewogen gemiddelde waarde beschouwd te worden van alle transparante scheidingsconstructies waarop de eis van toepassing is.</p>
+			<p>(1) Voor de evaluatie van U<sub>max</sub> dient de oppervlaktegewogen gemiddelde waarde beschouwd te worden van alle transparante scheidingsconstructies waarop de eis van toepassing is.</p>
 
 			<p>(2) U<sub>g</sub> is de centrale U-waarde van de beglazing voor de gegeven inbouwpositie. Elk glaspaneel op zich dient aan de centrale U<sub>g, max</sub> waarde te voldoen.</p>
 
@@ -19922,7 +19919,7 @@ MAXIMAAL TOELAATBARE U-WAARDEN OF MINIMAAL TE REALISEREN R-WAARDEN<br>
 
 			<p>(6) In het kader van dit besluit mag men er steeds van uitgaan dat alle ruimten in gebouwen op een aangrenzend perceel verwarmde ruimten zijn.</p>
 
-			<p>(7) Met uitzondering van dat deel van een reeds bestaande gemeenschappelijke scheidingsconstructie waartegen een nieuw gebouw wordt opgetrokken indien ter hoogte van de betreffende scheidingsconstructie de kleinste afstand tot de tegenoverliggende perceelsgrens minder dan 6 meter bedraagt.</p>
+			<p>(7) Met uitzondering van dat deel van een reeds bestaande gemeenschappelijke scheidingsconstructie waartegen een nieuw gebouw wordt opgetrokken indien ter hoogte van de betreffende scheidingsconstructie de kleinste afstand tot de tegenoverliggende perceelsgrens minder dan <!--?xml:namespace prefix = st1 ns =         "urn:schemas-microsoft-com:office:smarttags" /-->6 meter bedraagt.</p>
 
 			<p>(8) Bij de berekening van de U-waarde voor tussengelegen vloeren wordt de warmteflux van onder naar boven beschouwd.</p>
 
@@ -19936,7 +19933,7 @@ MAXIMAAL TOELAATBARE U-WAARDEN OF MINIMAAL TE REALISEREN R-WAARDEN<br>
 
 			<p>&nbsp;</p>
 
-			<p>De warmtedoorgangscoëfficiënten U of warmteweerstanden R worden berekend volgens de norm die van toepassing is op het type constructiedeel. Hoofdstuk 1 van bijlage I bij dit besluit (Bepalingsmethode van het peil van primair energieverbruik van woongebouwen) geeft een opsomming van deze normen.</p>
+			<p>De warmtedoorgangscoëfficiënten U of warmteweerstanden R worden berekend volgens de norm of volgens de nadere specificaties van de Vlaamse overheid die van toepassing is op het type constructiedeel. Hoofdstuk 1 van bijlage I bij dit besluit (Bepalingsmethode van het peil van primair energieverbruik van woongebouwen) geeft een opsomming van deze normen.</p>
 
 			<p>&nbsp;</p>
 
@@ -19951,6 +19948,8 @@ MAXIMAAL TOELAATBARE U-WAARDEN OF MINIMAAL TE REALISEREN R-WAARDEN<br>
 		</tr>
 	</tbody>
 </table>
+
+<p>&nbsp;</p>
 
 <p>&nbsp;</p>
 
