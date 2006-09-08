@@ -1,0 +1,17 @@
+{
+  "codex_id": 1014891,
+  "title": "Besluit van de Vlaamse Regering van 2006-06-23 tot wijziging van het besluit van de Vlaamse Regering van 17 juni 2005 houdende de erkenning als energiedeskundige voor woningen en houdende de uitvoeringsvoorwaarden van de energieaudit voor woningen",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1014891/VolledigDocument?datum=2006-09-08",
+  "source_sha256": "5b10be5bdfabe095b3148fc2439f0695cd18d43cd5bfa7d5ae651ec21e8a8d04",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1014891&param=informatie",
+  "as_of": "2006-09-08",
+  "made": "2006-06-23",
+  "gazette": "2006-08-29",
+  "numac": 2006036181,
+  "document_start": "2006-09-08",
+  "document_end": null,
+  "in_force": "2006-09-08",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2006-09-08; oldest version available; future article versions excluded; article text as the API gives it"
+}
