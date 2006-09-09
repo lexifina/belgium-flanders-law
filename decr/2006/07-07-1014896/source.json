@@ -1,0 +1,17 @@
+{
+  "codex_id": 1014896,
+  "title": "Decreet van 2006-07-07 houdende instemming met het verdrag inzake het merken van kneed- en bladspringstoffen ten behoeve van de opsporing ervan, opgemaakt in Montreal op 1 maart 1991",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1014896/VolledigDocument?datum=2006-09-09",
+  "source_sha256": "f2906c5d35d2d901de995c2b313d906e6de4db6125c0189f6dcd8f6fba53489d",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1014896&param=informatie",
+  "as_of": "2006-09-09",
+  "made": "2006-07-07",
+  "gazette": "2006-08-30",
+  "numac": 2006036280,
+  "document_start": "2006-09-09",
+  "document_end": null,
+  "in_force": "2006-09-09",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2006-09-09; oldest version available; future article versions excluded; article text as the API gives it"
+}
