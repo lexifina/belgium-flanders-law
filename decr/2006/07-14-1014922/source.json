@@ -1,0 +1,17 @@
+{
+  "codex_id": 1014922,
+  "title": "Decreet van 2006-07-14 tot wijziging van het decreet van 4 juni 2003 betreffende het inwerkingsbeleid",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1014922/VolledigDocument?datum=2006-09-15",
+  "source_sha256": "5a294de199124b147aa8951346aec5318c618c13d27a618d010beec8ffe2caf9",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1014922&param=informatie",
+  "as_of": "2006-09-15",
+  "made": "2006-07-14",
+  "gazette": "2006-09-05",
+  "numac": 2006000606,
+  "document_start": "2006-09-15",
+  "document_end": null,
+  "in_force": "2006-09-15",
+  "article_versions": 10,
+  "record_form": "consolidated version as in force on 2006-09-15; oldest version available; future article versions excluded; article text as the API gives it"
+}
