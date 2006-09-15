@@ -1,0 +1,17 @@
+{
+  "codex_id": 1014921,
+  "title": "Decreet van 2006-07-07 houdende de goedkeuring van de normen voor Vlaamse overheidscommunicatie en houdende wijziging van het decreet van 19 juli 2002 houdende de controle op de communicatie van de Vlaamse overheid",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1014921/VolledigDocument?datum=2006-09-15",
+  "source_sha256": "e91c74caddca0cbee3ceac865618f9012bb299bcf1b41719bf529b13993c70d9",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1014921&param=informatie",
+  "as_of": "2006-09-15",
+  "made": "2006-07-07",
+  "gazette": "2006-09-05",
+  "numac": 2006036347,
+  "document_start": "2006-09-15",
+  "document_end": null,
+  "in_force": "2006-09-15",
+  "article_versions": 6,
+  "record_form": "consolidated version as in force on 2006-09-15; oldest version available; future article versions excluded; article text as the API gives it"
+}
