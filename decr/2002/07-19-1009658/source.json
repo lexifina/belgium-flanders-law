@@ -2,16 +2,16 @@
   "codex_id": 1009658,
   "title": "Decreet van 2002-07-19 houdende de controle op de communicatie van de Vlaamse overheid",
   "type": "Decreet",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1009658/VolledigDocument?datum=2006-06-01",
-  "source_sha256": "f575370737b6eb8778e64c25ae147cca6b8cfa7502fb7c1a00fc964ed8f4b755",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1009658/VolledigDocument?datum=2006-09-15",
+  "source_sha256": "5b67fa620bb81b46d1d288e18321bcad6feae36182c903f4301b5167af447b29",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1009658&param=informatie",
-  "as_of": "2006-06-01",
+  "as_of": "2006-09-15",
   "made": "2002-07-19",
   "gazette": "2002-09-14",
   "numac": 2002036158,
   "document_start": null,
   "document_end": "2016-07-23",
-  "in_force": "2006-06-01",
+  "in_force": "2006-09-15",
   "article_versions": 11,
-  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2006-09-15; future article versions excluded; article text as the API gives it"
 }
