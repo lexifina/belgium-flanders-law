@@ -1,0 +1,17 @@
+{
+  "codex_id": 1014954,
+  "title": "Ministerieel besluit van 2006-05-19 houdende vastlegging van de modellen van de voordrachtsakten en de verbeteringsakten voor de gemeenteraadsverkiezingen, de provincieraadsverkiezingen en de districtsraadsverkiezingen van 8 oktober 2006, met inbegrip van de individuele geschreven en te ondertekenen verklaring voor de niet-Belgische EU-onderdanen",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1014954/VolledigDocument?datum=2006-09-18",
+  "source_sha256": "13d6c00316d87a2d0f80b267ebc7c630b6214e2069d8fc3419723f72c81cec19",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1014954&param=informatie",
+  "as_of": "2006-09-18",
+  "made": "2006-05-19",
+  "gazette": "2006-09-18",
+  "numac": 2006036413,
+  "document_start": "2006-09-18",
+  "document_end": "2012-05-14",
+  "in_force": "2006-09-18",
+  "article_versions": 26,
+  "record_form": "consolidated version as in force on 2006-09-18; oldest version available; future article versions excluded; article text as the API gives it"
+}
