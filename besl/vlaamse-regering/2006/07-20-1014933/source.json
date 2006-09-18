@@ -1,0 +1,17 @@
+{
+  "codex_id": 1014933,
+  "title": "Besluit van de Vlaamse Regering van 2006-07-20 houdende een eerste gedeeltelijke verdeling van het provisionele krediet ingeschreven onder programma 52.40, basisallocatie 00.10, begrotingsjaar 2006",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1014933/VolledigDocument?datum=2006-09-18",
+  "source_sha256": "2651cb817a9b02490827e8627d0cd01ac82336ab8c648d1baf0ca9c6bbdbd11e",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1014933&param=informatie",
+  "as_of": "2006-09-18",
+  "made": "2006-07-20",
+  "gazette": "2006-09-08",
+  "numac": 2006036351,
+  "document_start": "2006-09-18",
+  "document_end": null,
+  "in_force": "2006-09-18",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2006-09-18; oldest version available; future article versions excluded; article text as the API gives it"
+}
