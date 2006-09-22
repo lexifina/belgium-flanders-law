@@ -1,0 +1,17 @@
+{
+  "codex_id": 1014940,
+  "title": "Ministerieel besluit van 2005-12-08 waarbij aan het Havenbedrijf Gent machtiging tot onteigening wordt verleend voor onroerende goederen gelegen in de gemeente Evergem voor economische expansie",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1014940/VolledigDocument?datum=2006-09-22",
+  "source_sha256": "732ebde76c433d8fc35f649b4ec2bb0ddfa39704af13f48327f30871b70b051e",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1014940&param=informatie",
+  "as_of": "2006-09-22",
+  "made": "2005-12-08",
+  "gazette": "2006-09-12",
+  "numac": 2006036292,
+  "document_start": "2006-09-22",
+  "document_end": null,
+  "in_force": "2006-09-22",
+  "article_versions": 5,
+  "record_form": "consolidated version as in force on 2006-09-22; oldest version available; future article versions excluded; article text as the API gives it"
+}
