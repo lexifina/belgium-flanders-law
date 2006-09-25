@@ -1,0 +1,17 @@
+{
+  "codex_id": 1014952,
+  "title": "Ministerieel besluit van 2006-08-03 houdende de erkenning van de fokkersvereniging « Het Belgisch Mérens Stamboek VZW - Le Studbook belge du Mérens ASBL » en tot wijziging van het ministerieel besluit van 25 oktober 2005 houdende de organisatie van de uitbouw van fokkerijstructuren in Vlaanderen",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1014952/VolledigDocument?datum=2006-09-25",
+  "source_sha256": "a792177f0388bfb859a20d83bf965cf26ebb1c6d0a8338036233396c70ea1466",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1014952&param=informatie",
+  "as_of": "2006-09-25",
+  "made": "2006-08-03",
+  "gazette": "2006-09-15",
+  "numac": 2006036372,
+  "document_start": "2006-09-25",
+  "document_end": null,
+  "in_force": "2006-09-25",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2006-09-25; oldest version available; future article versions excluded; article text as the API gives it"
+}
