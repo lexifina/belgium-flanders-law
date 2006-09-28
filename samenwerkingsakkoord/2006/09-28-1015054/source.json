@@ -1,0 +1,17 @@
+{
+  "codex_id": 1015054,
+  "title": "Samenwerkingsakkoord van 2006-09-28 tussen de Federale Staat, de Vlaamse, de Franse en de Duitstalige Gemeenschap, het Vlaamse Gewest, het Waalse Gewest, het Brussels Hoofdstedelijk Gewest, de Franse Gemeenschapscommissie en de Gemeenschappelijke Gemeenschapscommissie betreffende de principes voor een geintegreerd e-government en de bouw, het gebruik en beheer van ontwikkelingen en diensten van een geïntegreerd e-government",
+  "type": "Samenwerkingsakkoord",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1015054/VolledigDocument?datum=2006-09-28",
+  "source_sha256": "eaf2b933616bfde59d5f33d636e67866cdb7db248534537169a7f4e6af892750",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1015054&param=informatie",
+  "as_of": "2006-09-28",
+  "made": "2006-09-28",
+  "gazette": "2006-10-19",
+  "numac": 2006021117,
+  "document_start": "2006-09-28",
+  "document_end": "2010-09-28",
+  "in_force": "2006-09-28",
+  "article_versions": 14,
+  "record_form": "consolidated version as in force on 2006-09-28; oldest version available; future article versions excluded; article text as the API gives it"
+}
