@@ -1,0 +1,17 @@
+{
+  "codex_id": 1015145,
+  "title": "Besluit van de Vlaamse Regering van 2006-09-29 tot wijziging van het besluit van de Vlaamse Regering van 13 januari 2006 houdende vaststelling van de rechtspositie van het personeel van de diensten van de Vlaamse Overheid, wat betreft de selectieprocedure voor het middenkader",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1015145/VolledigDocument?datum=2006-09-29",
+  "source_sha256": "05e60aa6c4110a7d357df70f130ac0c7498e899bf0c07142ab91827dc9432fed",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1015145&param=informatie",
+  "as_of": "2006-09-29",
+  "made": "2006-09-29",
+  "gazette": "2006-11-14",
+  "numac": 2006036810,
+  "document_start": "2006-09-29",
+  "document_end": null,
+  "in_force": "2006-09-29",
+  "article_versions": 5,
+  "record_form": "consolidated version as in force on 2006-09-29; oldest version available; future article versions excluded; article text as the API gives it"
+}
