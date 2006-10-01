@@ -1,0 +1,17 @@
+{
+  "codex_id": 1013068,
+  "title": "Decreet van 2004-04-30 houdende de oprichting van de Mobiliteitsraad van Vlaanderen",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1013068/VolledigDocument?datum=2006-10-01",
+  "source_sha256": "e0903629d29973740b39828df6544965796a14be337b1be07d23ec64cbfdb131",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1013068&param=informatie",
+  "as_of": "2006-10-01",
+  "made": "2004-04-30",
+  "gazette": "2004-06-08",
+  "numac": 2004035871,
+  "document_start": null,
+  "document_end": "2999-12-31",
+  "in_force": "2006-10-01",
+  "article_versions": 27,
+  "record_form": "consolidated version as in force on 2006-10-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
