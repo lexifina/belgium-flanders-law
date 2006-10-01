@@ -284,51 +284,51 @@ De exploitant, die door het bevoegde college ertoe gemachtigd wordt een dienst v
 
 ### ART. 53.
 
-Binnen de Sociaal-Economische Raad van Vlaanderen wordt een Mobiliteitsraad van Vlaanderen ingesteld, hierna genoemd de MORA.
+...
 
 ## AFDELING 2 SAMENSTELLING VAN DE MORA
 
 ### ART. 54.
 
-§ 1. De MORA is samengesteld uit één voorzitter, één ondervoorzitter, zeventien leden en acht ledendeskundigen, allen benoemd door de Vlaamse regering.<br /><br />De Vlaamse regering benoemt voor alle leden een plaatsvervanger.<br /><br />De voorzitter, de ondervoorzitter en de leden zijn stemgerechtigd.<br /><br />De plaatsvervangers nemen deel aan de beraadslagingen met raadgevende stem. Zij zijn echter stemgerechtigd wanneer zij deelnemen aan de werkzaamheden bij afwezigheid van het effectief lid.<br /><br />§ 2. De voorzitter en de ondervoorzitter worden voorgedragen door de Vlaamse minister bevoegd voor het Vervoer, onder de personen met ervaring in de verkeers- en vervoerssector.<br /><br />§ 3. De leden worden aangewezen als volgt:<br /><br />1° vier vertegenwoordigers uit de sector van het goederenvervoer, op voordracht van de SERV, waarbij er voor wordt gezorgd dat het goederenvervoer over de weg, het goederenvervoer langs de binnenvaart, het goederenvervoer per pijplei-ding, het goederenvervoer per spoor, steeds vertegenwoordigd zijn;<br /><br />2° telkens één vertegenwoordiger op voordracht van volgende aanbieders van personenvervoer:<br /><br />a) de Vlaamse Vervoermaatschappij;<br /><br />b) de Nationale Maatschappij der Belgische Spoorwegen;<br /><br />c) Taxistop;<br /><br />d) de Nationale Groepering van Taxi- en Locatieautobedrijven;<br /><br />e) de Vlaamse Raad van Autobus- en autocar ondernemers en van reisorganisatoren.<br /><br />3° acht leden op voordracht van privaatrechtelijke rechtspersonen of feitelijke verenigingen opgericht op particulier initiatief, met als hoofddoelstelling het verkeer of vervoer op het grondgebied van het Vlaamse Gewest, representatief voor hun sector en actief in het gehele Vlaamse Gewest.<br /><br />Onder deze acht leden moet er voldoende spreiding bestaan tussen de verschillende vervoersmodi.<br /><br />De vertegenwoordigers bedoeld in het eerste lid, 1° en 2°, dienen deskundig te zijn in de verkeers- en vervoerssector in het algemeen, en in het intermodaal vervoer in het bijzonder. Met intermodaal vervoer wordt bedoeld het vervoer van goederen in dezelfde laadeenheid via meer dan één vervoersmodaliteit zonder de goederen zelf te behandelen. De vertegenwoordigers bedoeld in het eerste lid, 3°, dienen enkel deskundig te zijn in de verkeerssector of de vervoerssector.<br /><br />§ 4. De leden-deskundigen worden aangewezen als volgt:<br /><br />1° één op voordracht van de Vereniging van Provincies;<br /><br />2° één op voordracht van de Vereniging van Vlaamse Steden en Gemeenten;<br /><br />3° zes op voordracht van universitaire en wetenschappelijke instellingen en uit de Hogescholen.<br /><br />De leden-deskundigen, bedoeld in het eerste lid, worden zodanig gekozen dat de wetenschappelijke disciplines inzake mobiliteit in de MORA vertegenwoordigd zijn. Deze voordrachten houden telkens de voordracht van twee kandidaten in.<br /><br />§ 5. De voorzitter en de ondervoorzitter wisselen om de twee jaar onderling hun mandaat.<br /><br />§ 6. De duur van het mandaat van de voorzitter, de ondervoorzitter, de leden en de leden-deskundigen bedraagt vier jaar en is hernieuwbaar.<br /><br />Het lid dat voortijdig ophoudt zijn mandaat uit te oefenen, wordt vervangen door zijn plaatsvervanger, die zijn mandaat voltooit.<br /><br />Het lidmaatschap van de leden eindigt evenwel op de datum waarop de organisatie, de vereniging of de sector die de voordracht deed, aan de Vlaamse regering meldt dat het betrokken lid niet langer haar vertegenwoordiger is, waarbij terzelfdertijd een nieuw lid wordt voorgedragen.
+...
 
 ## AFDELING 3 TAKEN EN BEVOEGDHEDEN
 
 ### ART. 55.
 
-§ 1. De MORA is bevoegd om inzake aangelegenheden die betrekking hebben op mobiliteit binnen het Vlaamse Gewest, op eigen initiatief aanbevelingen te formuleren en studies te verrichten en om, op verzoek van de overheden, genoemd in § 2, over die aangelegenheden advies te verstrekken.<br /><br />In de uitvoering van de opdrachten vermeld in het eerste lid kan de MORA in geen geval beheers- en uitvoeringstaken van de administratie op zich nemen.<br /><br />§ 2. Het advies van de MORA kan gevraagd worden door:<br /><br />1° de Vlaamse regering;<br /><br />2° het Vlaams Parlement.<br /><br />§ 3. De Vlaamse regering wint het advies van de MORA in over:<br /><br />1° voorontwerpen van decreet en voorontwerpen van reglementair besluit die betrekking hebben op mobiliteit, verkeersinfrastructuur of op sterk mobiliteitsgenererende activiteiten, met uitzondering van voorontwerpen van begrotingsdecreet;<br /><br />2° het te voeren begrotingsbeleid inzake mobiliteit, met inbegrip van de meerjareninvesteringsplannen van de inzake verkeer en vervoer bevoegde administraties en van de meerjareninvesteringsplannen en exploitaties van het geregeld vervoer, met uitzondering van het begrotingsbeleid inzake de havens en de luchthavens;<br /><br />3° de krachtlijnen van het te voeren beleid inzake mobiliteit, met uitzondering van het beleid inzake de havens en de luchthavens;<br /><br />4° alle ontwerpen inzake beleidsondersteuning;<br /><br />5° alle ontwerpen van samenwerkingsakkoord die betrekking hebben op verkeer of vervoer.<br /><br />De Vlaamse regering wint gelijktijdig het advies in van de Milieu- en Natuurraad van Vlaanderen overeenkomstig artikel 4, § 2, van het decreet van 29 april 1991 tot instelling van een Milieu- en Natuurraad van Vlaanderen en tot vaststelling van de algemene regelen inzake de erkenning en de subsidiëring van de milieu- en natuurverenigingen.<br /><br />§ 4. De VVM wint het advies van de MORA in over de voorstellen van netmanagement die zij opstelt overeenkomstig artikel 10, § 1, van dit decreet, nadat de Vlaamse regering de VVM hiertoe schriftelijk opdracht heeft gegeven.<br /><br />§ 5. De adviezen bedoeld in de §§ 2 en 3 worden gegeven binnen de termijn die is bepaald in de adviesaanvraag, zonder dat deze minder dan tien werkdagen mag bedragen.<br /><br />Indien de MORA oordeelt dat de in de adviesaanvraag bepaalde termijn niet kan worden nageleefd, bepaalt hij zelf, op een gemotiveerde wijze, een termijn zonder dat de door de aanvrager vooropgestelde termijn mag worden verdubbeld en stelt hij de adviesaanvrager hiervan in kennis.<br /><br />Het advies bedoeld in § 4 wordt gegeven binnen drie maanden.<br /><br />Indien het advies niet is gegeven binnen de termijn bedoeld in vorige leden, mag aan de adviesverplichting voorbij gegaan worden.<br /><br />§ 6. Een afschrift van het advies wordt bezorgd aan alle in § 2 bedoelde instanties.<br /><br />§ 7. De adviezen, aanbevelingen en studies van de MORA zijn openbaar, vijftien werkdagen nadat ze meegedeeld zijn aan diegene die er om gevraagd heeft.<br /><br />§ 8. Het secretariaat van de MORA, zoals bedoeld in artikel 60, stelt om de vijf jaar een mobiliteitsrapport op. Aan de hand van jaarlijkse verslagen dient dit secretariaat de Vlaamse regering te informeren over het mobiliteitsgebeuren.<br /><br />De Vlaamse regering bepaalt de nadere regels voor het opmaken van deze rapporten en voorziet de nodige kredieten hiervoor.<br /><br />§ 9. De MORA legt jaarlijks aan de Vlaamse regering en aan het Vlaams Parlement een verslag over van zijn werkzaamheden.
+...
 
 ### ART. 56.
 
-De Vlaamse regering stelt de MORA de noodzakelijke informatie en informatiekanalen ter beschikking om hem in staat te stellen zijn opdrachten naar behoren te vervullen.
+...
 
 ### ART. 57.
 
-De MORA kan als vertegenwoordiger van Vlaanderen worden betrokken bij gelijkaardige federale en internationale adviesorganen.
+...
 
 ## AFDELING 4 WERKING VAN DE MORA
 
 ### ART. 58.
 
-§ 1. Volgende ambtenaren kunnen de vergaderingen van de MORA met raadgevende stem bijwonen:<br /><br />1° de leidende ambtenaren van de administraties verantwoordelijk voor wegen en verkeer, waterwegen en zeewezen, ruimtelijke ordening en ondersteunende studies en opdrachten;<br /><br />2° de leidende ambtenaren van de wetenschappelijke instellingen van het Vlaamse Gewest die een hoofdopdracht hebben inzake mobiliteit;<br /><br />3° de leidende ambtenaren van de publiekrechtelijke rechtspersonen onder het gezag of de controle van het Vlaamse Gewest, die een hoofdopdracht hebben inzake mobiliteit.<br /><br />§ 2. Vertegenwoordigers van de Sociaal-Economische Raad van Vlaanderen en de Raad voor Milieu- en Natuurbehoud kunnen op vraag van de voorzitter tijdens de vergaderingen van de MORA gehoord worden.
+...
 
 ### ART. 59.
 
-§ 1. De MORA stelt zijn bureau samen en kan tijdelijke of permanente subcommissies oprichten.<br /><br />§ 2. De MORA kan, voor het onderzoek van bijzondere vraagstukken, een beroep doen op derden, onder de voorwaarden bepaald in het huishoudelijk reglement.<br /><br />Op vraag van de MORA kan de Vlaamse regering hiertoe personeel van de diensten van de Vlaamse regering en van de Vlaamse Openbare Instellingen tijdelijk detacheren.<br /><br />§ 3. De MORA stelt zijn huishoudelijk reglement op, dat minstens regelt:<br /><br />1° de bevoegdheden van de voorzitter en de ondervoorzitter;<br /><br />2° de bevoegdheden en werkwijze van het bureau;<br /><br />3° de wijze van bijeenroeping en beraadslaging;<br /><br />4° de frequentie van de vergaderingen;<br /><br />5° de bekendmaking van de handelingen;<br /><br />6° de voorwaarden waaronder de MORA een beroep kan doen op deskundigen of op permanente of tijdelijke subcommissies;<br /><br />7° de voorwaarden waaronder de MORA voor het onderzoek van bijzondere vraagstukken een beroep kan doen op derden.<br /><br />Het huishoudelijk reglement is onderworpen aan de goedkeuring van de Vlaamse regering.
+...
 
 ### ART. 60.
 
-De Vlaamse regering stelt de MORA een permanent secretariaat ter beschikking dat naast personeel met een administratieve opleiding eveneens personeel met een wetenschappelijke opleiding omvat.<br /><br />Het secretariaat wordt onder het gezag van de voorzitter van de MORA geleid door een secretaris.
+...
 
 ## AFDELING 5 WERKINGSMIDDELEN
 
 ### ART. 61.
 
-De MORA beschikt over een dotatie ten laste van de begroting van het Vlaamse Gewest.<br /><br />De MORA is gehuisvest in de gebouwen van het ministerie van de Vlaamse Gemeenschap tot op het ogenblik dat aan de Sociaal-Economische Raad van Vlaanderen hiertoe een dotatie is toegekend.
+...
 
 ### ART. 62.
 
-De Vlaamse regering sluit met de SERV een protocolovereenkomst waarin de praktische regelingen omtrent de werking, het personeel en de financiering van de MORA worden opgenomen. De Vlaamse regering bepaalt de modaliteiten van de overeenkomst.
+...
 
 ## HOOFDSTUK VIII STRAFBEPALINGEN
 
