@@ -64,7 +64,7 @@ De beslissing tot toekenning van de subsidie wordt schriftelijk betekend aan de 
 
 ### ART. 15.
 
-§ 1. De niet gunstig gerangschikte onderneming wordt hiervan schriftelijk in kennis gesteld. Deze inkennisstelling vermeldt de motivering en de beroepsmogelijkheden.<br /><br />§ 2. De onderneming, vermeld in § 1, kan dezelfde subsidieaanvraag indienen bij de eerstvolgende oproep, mits ze de voorwaarden naleeft die in deze eerstvolgende oproep worden vermeld. Ze behoudt evenwel de indieningsdatum van haar subsidieaanvraag van de vorige oproep.
+§ 1. De niet gunstig gerangschikte onderneming wordt hiervan schriftelijk in kennis gesteld. Deze inkennisstelling vermeldt de motivering en de beroepsmogelijkheden.<br /><br />§ 2. ...
 
 ## HOOFDSTUK IV UITBETALING, VERJARING EN TERUGVORDERING
 
