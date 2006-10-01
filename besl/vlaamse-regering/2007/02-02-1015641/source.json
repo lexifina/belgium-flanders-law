@@ -1,0 +1,17 @@
+{
+  "codex_id": 1015641,
+  "title": "Besluit van de Vlaamse Regering van 2007-02-02 houdende de aanwijzing van de vertegenwoordigers van het Vlaamse Gewest in de bekkenbesturen",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1015641/VolledigDocument?datum=2006-10-01",
+  "source_sha256": "4b6e11f49abe5b4f782ac8dd54f1bdcd34515339755178c0215fad1eee05119d",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1015641&param=informatie",
+  "as_of": "2006-10-01",
+  "made": "2007-02-02",
+  "gazette": "2007-03-22",
+  "numac": 2007035394,
+  "document_start": "2006-10-01",
+  "document_end": null,
+  "in_force": "2006-10-01",
+  "article_versions": 5,
+  "record_form": "consolidated version as in force on 2006-10-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
