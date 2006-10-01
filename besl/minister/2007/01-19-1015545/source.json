@@ -2,16 +2,16 @@
   "codex_id": 1015545,
   "title": "Ministerieel besluit van 2007-01-19 tot wijziging van het ministerieel besluit van 20 juli 2006 betreffende de herverdeling van de steunbedragen via de reserve voor de campagne 2006",
   "type": "Ministerieel besluit",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1015545/VolledigDocument?datum=2006-01-01",
-  "source_sha256": "e1638fb8e123675128b3e6b9c00795ee31df33bf0e840d14c4c201925f9c060e",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1015545/VolledigDocument?datum=2006-10-01",
+  "source_sha256": "42a08d75038693b94f76e96d18ef192cad11d7fa4fdc17cd741f638f6f362ffa",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1015545&param=informatie",
-  "as_of": "2006-01-01",
+  "as_of": "2006-10-01",
   "made": "2007-01-19",
   "gazette": "2007-02-22",
   "numac": 2007035247,
   "document_start": null,
   "document_end": null,
-  "in_force": "2006-01-01",
-  "article_versions": 5,
-  "record_form": "consolidated version as in force on 2006-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "in_force": "2006-10-01",
+  "article_versions": 6,
+  "record_form": "consolidated version as in force on 2006-10-01; future article versions excluded; article text as the API gives it"
 }
