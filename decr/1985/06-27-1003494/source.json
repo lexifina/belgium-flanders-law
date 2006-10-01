@@ -2,16 +2,16 @@
   "codex_id": 1003494,
   "title": "Decreet van 1985-06-27 op de Sociaal-Economische Raad van Vlaanderen",
   "type": "Decreet",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1003494/VolledigDocument?datum=2006-06-01",
-  "source_sha256": "1d81bc44db8215a60226cd4c5f95184d492825c75bbf444549b0d403aa73d1bf",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1003494/VolledigDocument?datum=2006-10-01",
+  "source_sha256": "8552a6828f93c9b8184201796c024598a14eec47445d4dbbb86f9c67e8514f5e",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1003494&param=informatie",
-  "as_of": "2006-06-01",
+  "as_of": "2006-10-01",
   "made": "1985-06-27",
   "gazette": "1985-09-03",
   "numac": 1985024592,
   "document_start": null,
   "document_end": "2008-12-31",
-  "in_force": "2006-06-01",
+  "in_force": "2006-10-01",
   "article_versions": 19,
-  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2006-10-01; future article versions excluded; article text as the API gives it"
 }

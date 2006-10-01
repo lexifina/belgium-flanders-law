@@ -54,7 +54,7 @@ Met het oog op coördinatie van de werking van de Raad en die van de commissies 
 
 ### ART. 7octies.
 
-Bij de Raad wordt een Mobiliteitsraad van Vlaanderen opgericht. Het decreet van 20 april 2001 betreffende de organisatie van het personenvervoer over de weg en tot oprichting van de Mobiliteitsraad van Vlaanderen bepaalt de samenstelling, de taken en bevoegdheden, de werking en de werkingsmiddelen van de Mobiliteitsraad van Vlaanderen.  <span class="reference">(ing. decr., 20 april 2001, art. 68, I: te bepalen door de Vlaamse regering)</span> ]
+Bij de Raad wordt een Mobiliteitsraad van Vlaanderen opgericht. Het decreet van 7 juli 2006 houdende de oprichting van de Mobiliteitsraad van Vlaanderen bepaalt de samenstelling, de taken en bevoegdheden, de werking en de werkingsmiddelen van de Mobiliteitsraad van Vlaanderen.
 
 ### ART. 8.
 
