@@ -1,0 +1,17 @@
+{
+  "codex_id": 1014992,
+  "title": "Besluit van de Vlaamse Regering van 2006-05-12 houdende herramingen tussen ontvangstenartikelen in uitvoering van artikel 19 van het decreet van 23 december 2005 houdende de Middelenbegroting van de Vlaamse Gemeenschap voor het begrotingsjaar 2006",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1014992/VolledigDocument?datum=2006-10-08",
+  "source_sha256": "adfacbcbf5b8a878b392bd85a879b649b3883fa79c5d963d453cc592f204ea80",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1014992&param=informatie",
+  "as_of": "2006-10-08",
+  "made": "2006-05-12",
+  "gazette": "2006-09-28",
+  "numac": 2006036163,
+  "document_start": "2006-10-08",
+  "document_end": null,
+  "in_force": "2006-10-08",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2006-10-08; oldest version available; future article versions excluded; article text as the API gives it"
+}
