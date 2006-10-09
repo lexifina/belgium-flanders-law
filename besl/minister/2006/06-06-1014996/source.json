@@ -1,0 +1,17 @@
+{
+  "codex_id": 1014996,
+  "title": "Ministerieel besluit van 2006-06-06 tot wijziging van de samenstelling van de natuurinrichtingsprojectcommissie voor het natuurinrichtingsproject Turnhouts Vennengebied-West",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1014996/VolledigDocument?datum=2006-10-09",
+  "source_sha256": "031c2b94184e4b834a9d0f2e385ac2dbcb2b4ccf40800f57f3f8e19c5e992c4b",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1014996&param=informatie",
+  "as_of": "2006-10-09",
+  "made": "2006-06-06",
+  "gazette": "2006-09-29",
+  "numac": 2006036540,
+  "document_start": "2006-10-09",
+  "document_end": null,
+  "in_force": "2006-10-09",
+  "article_versions": 2,
+  "record_form": "consolidated version as in force on 2006-10-09; oldest version available; future article versions excluded; article text as the API gives it"
+}
