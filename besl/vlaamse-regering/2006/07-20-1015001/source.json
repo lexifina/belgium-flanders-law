@@ -1,0 +1,17 @@
+{
+  "codex_id": 1015001,
+  "title": "Besluit van de Vlaamse Regering van 2006-07-20 houdende het bepalen van de culturele thema's op basis waarvan archief- en documentatiecentra van landelijk belang een aanvraag voor subsidiëring kunnen indienen",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1015001/VolledigDocument?datum=2006-10-13",
+  "source_sha256": "ee44d18d7c87ed5135de3eb772759e5fcd7eae025ba692cbb8ef680d69392d1e",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1015001&param=informatie",
+  "as_of": "2006-10-13",
+  "made": "2006-07-20",
+  "gazette": "2006-10-03",
+  "numac": 2006036424,
+  "document_start": "2006-10-13",
+  "document_end": null,
+  "in_force": "2006-10-13",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2006-10-13; oldest version available; future article versions excluded; article text as the API gives it"
+}
