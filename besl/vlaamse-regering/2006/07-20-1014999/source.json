@@ -1,0 +1,17 @@
+{
+  "codex_id": 1014999,
+  "title": "Besluit van de Vlaamse Regering van 2006-07-20 tot wijziging van het besluit van de Vlaamse Regering van 2 februari 2001 houdende de samenstelling en de werking van de Stuurgroep GIS-Vlaanderen, het Wetenschappelijk Comité GIS-Vlaanderen en de Geografische Informatie Raad",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1014999/VolledigDocument?datum=2006-10-13",
+  "source_sha256": "765fd54e591fb392e7539472f85e2631ad80db88bccb1f1b33cbf40ab463ceac",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1014999&param=informatie",
+  "as_of": "2006-10-13",
+  "made": "2006-07-20",
+  "gazette": "2006-10-03",
+  "numac": 2006036523,
+  "document_start": "2006-10-13",
+  "document_end": null,
+  "in_force": "2006-10-13",
+  "article_versions": 7,
+  "record_form": "consolidated version as in force on 2006-10-13; oldest version available; future article versions excluded; article text as the API gives it"
+}
