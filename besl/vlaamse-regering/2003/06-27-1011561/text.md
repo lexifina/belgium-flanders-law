@@ -170,9 +170,9 @@ De Vlaamse minister, bevoegd voor de landinrichting en het natuurbehoud, is bela
 
 ## Bijlage I:
 
-### Tekst
+### BIJLAGE
 
-(niet opgenomen)
+<a href="http://www.ejustice.just.fgov.be/mopdf/2007/10/04_2.pdf#page=165" title=" bijlage 1" target="_blank" class="pdf">bijlage 1</a>
 
 ## Bijlage II Werkplan te voegen bij de aanvraag voor de voorlopige of definitieve erkenning van een bosgroep
 
