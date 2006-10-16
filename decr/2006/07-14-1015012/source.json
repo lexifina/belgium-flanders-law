@@ -1,0 +1,17 @@
+{
+  "codex_id": 1015012,
+  "title": "Decreet van 2006-07-14 houdende instemming met het verdrag tussen de lidstaten van de Europese Unie, enerzijds, en de Republiek Bulgarije en Roemenië, anderzijds, betreffende de toetreding van de republiek Bulgarije en Roemenië tot de Europese Unie, het protocol, de akte en de slotakte, ondertekend in Luxemburg op 25 april 2005",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1015012/VolledigDocument?datum=2006-10-16",
+  "source_sha256": "283032315e3c2b09d93ab822346190a2634bca5b44728ab6fa116f93a33b494f",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1015012&param=informatie",
+  "as_of": "2006-10-16",
+  "made": "2006-07-14",
+  "gazette": "2006-10-06",
+  "numac": 2006036353,
+  "document_start": "2006-10-16",
+  "document_end": null,
+  "in_force": "2006-10-16",
+  "article_versions": 2,
+  "record_form": "consolidated version as in force on 2006-10-16; oldest version available; future article versions excluded; article text as the API gives it"
+}
