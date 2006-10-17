@@ -30,6 +30,10 @@ De erfgenamen richten hun verzoek, waarvan het model als bijlage I bij dit beslu
 
 Het attest van vrijstelling van successierechten of van recht van overgang bij overlijden voor gronden gelegen in het VEN, waarvan het model als bijlage II bij dit besluit is gevoegd, wordt afgegeven door de administratie. Het wordt bij de aangifte van nalatenschap gevoegd.
 
+### ART. 6bis.
+
+De Vlaamse minister, bevoegd voor de Financiën en de Begrotingen, wordt gemachtigd om de vorm van de attesten, gevoegd als bijlage I tot en met II bij het besluit van de Vlaamse Regering van 4 februari 2005 tot uitvoering van artikel 55ter en 55quater van het Wetboek der Successierechten te bepalen alsmede die attesten aan te passen aan de decreets- en besluitswijzigingen in verband met 55ter en 55quater van het Wetboek der Successierechten.<br />
+
 ### ART. 6ter.
 
 Tegen de beslissing waarbij de aflevering van een attest, als bedoeld in het derde lid van artikel 55ter van het Wetboek der Successierechten, geheel of gedeeltelijk wordt geweigerd, kunnen de aanvragers van het attest bezwaar aantekenen bij het hoofd van de Vlaamse Belastingdienst. Het hoofd van de Vlaamse Belastingdienst kan de bevoegdheid betreffende de behandeling van de bezwaarschriften delegeren aan de door hem aangewezen ambtenaren.<br />
