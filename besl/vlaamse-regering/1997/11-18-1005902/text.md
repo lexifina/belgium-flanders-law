@@ -4,13 +4,17 @@
 
 ### ART. 1.
 
-Voor de toepassing van dit besluit wordt verstaan onder:<br />1° decreet: afdeling 2 van hoofdstuk V van het decreet van 20 december 1996 houdende bepalingen tot begeleiding van de begroting 1997, gewijzigd bij de decreten van 8 juli 1997 houdende bepalingen tot begeleiding van de aanpassing van de begroting 1997, van 19 december 1998 houdende bepalingen tot begeleiding van de begroting 1999 en van 22 december 1999 houdende bepalingen tot begeleiding van de begroting 2000; <br />2° familiale onderneming en activa van een familiale onderneming: te verstaan zoals bedoeld in artikel 60bis, § 1, a), § 2 en § 6 van het Wetboek der Successierechten;<br />3° familiale vennootschap en aandelen in of vorderingen op een familiale vennootschap: te verstaan zoals bedoeld in artikel 60bis, § 1b), § 3, § 4 en § 6; <br />4° de administratie: de Vlaamse Belastingsdienst;<br />5° jaar: de periode van 12 opeenvolgende maanden te rekenen vanaf het overlijden van de erflater;<br />6° erfgenamen: enkel diegenen die activa en/of aandelen erven zoals bedoeld in artikel 60bis van het Wetboek der Successierechten;<br />7° contactpersoon: de door de erfgenamen aangeduide persoon aan wie de administratie alle betekeningen en mededelingen rechtsgeldig kan doen.
+Voor de toepassing van dit besluit wordt verstaan onder:<br />1° decreet : afdeling 2 van hoofdstuk V van het decreet van 20 december 1996 houdende bepalingen tot begeleiding van de begroting 1997, gewijzigd bij de decreten van 8 juli 1997, 19 december 1998, 22 december 1999, 6 juli 2001, 21 december 2001, 19 december 2003 en van 23 december 2005.<br />2° familiale onderneming en activa van een familiale onderneming: te verstaan zoals bedoeld in artikel 60bis, § 1, a), § 2 en § 6 van het Wetboek der Successierechten;<br />3° familiale vennootschap en aandelen in of vorderingen op een familiale vennootschap: te verstaan zoals bedoeld in artikel 60bis, § 1b), § 3, § 4 en § 6; <br />4° de administratie: de Vlaamse Belastingsdienst;<br />5° jaar: de periode van 12 opeenvolgende maanden te rekenen vanaf het overlijden van de erflater;<br />6° erfgenamen: enkel diegenen die activa en/of aandelen erven zoals bedoeld in artikel 60bis van het Wetboek der Successierechten;<br />7° contactpersoon: de door de erfgenamen aangeduide persoon aan wie de administratie alle betekeningen en mededelingen rechtsgeldig kan doen.
 
 ## HOOFDSTUK II BEVOEGDHEDEN
 
 ### ART. 2.
 
 ...
+
+### ART. 2bis.
+
+De Vlaamse minister, bevoegd voor de Financiën en de Begrotingen, wordt gemachtigd om de vorm van de attesten, gevoegd als bijlage 1 tot en met 5 bij het besluit van 18 november 1997 betreffende de vrijstelling van successierechten voor familiale ondernemingen en familiale vennootschappen, te bepalen en die attesten aan te passen aan de decreets- en besluitswijzigingen in verband met artikel 60bis van het Wetboek der Successierechten. <br />
 
 ### ART. 2ter.
 
