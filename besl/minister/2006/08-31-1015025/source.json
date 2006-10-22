@@ -1,0 +1,17 @@
+{
+  "codex_id": 1015025,
+  "title": "Ministerieel besluit van 2006-08-31 tot bepaling van de thema's van de projecten in de thuiszorg voor het jaar 2006",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1015025/VolledigDocument?datum=2006-10-22",
+  "source_sha256": "da743855e2d800f56732d6fbbb79a1a443312fc9ccee7e60ba24e39518208ce3",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1015025&param=informatie",
+  "as_of": "2006-10-22",
+  "made": "2006-08-31",
+  "gazette": "2006-10-12",
+  "numac": 2006036549,
+  "document_start": "2006-10-22",
+  "document_end": null,
+  "in_force": "2006-10-22",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2006-10-22; oldest version available; future article versions excluded; article text as the API gives it"
+}
