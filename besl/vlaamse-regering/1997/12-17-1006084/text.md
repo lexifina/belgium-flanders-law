@@ -300,6 +300,10 @@ Het beschrijvend gedeelte omvat minimaal de volgende informatie:<br /><br />1° 
 
 Het financieel gedeelte omvat minimaal de volgende informatie:<br /><br />1° een horizontale en verticale vergelijking van de balansen en de resultatenrekeningen op geconsolideerd niveau over de laatste drie jaar, alsook een toelichting bij de resultaten van deze vergelijking;<br /><br />2° een horizontale en verticale vergelijking van de balansen en de resultatenrekeningen per activiteitencentrum voor wat betreft de laatste drie jaar, alsook een toelichting bij de resultaten van deze vergelijking;<br /><br />3° de evolutie over de laatste drie jaar van de solvabiliteit en liquiditeit aan de hand van relevante ratio's;<br /><br />4° de evolutie over de laatste drie jaar van de relevante gepresteerde eenheden van prestatie en dit per activiteit;<br /><br />5° de evolutie over de laatste drie jaar van de gemeentelijke bijdrage;<br /><br />6° een vergelijking en een bespreking van de verhoudingen tussen het initiële budget, het definitieve budget en de gerealiseerde resultaten over het boekjaar waarop het jaarverslag betrekking heeft.
 
+### ART. 66bis.
+
+§ 1. De besluiten van de Raad voor Maatschappelijk Welzijn betreffende de jaarrekeningen worden binnen de termijn die is vastgesteld in artikel 89, § 2, van de organieke wet van 8 juli 1976 betreffende de openbare centra voor maatschappelijk welzijn, in ingebonden vorm op papierdrager bezorgd aan de provinciegouverneur. Ze worden tevens in elektronische vorm bezorgd aan de provinciegouverneur.<br /><br />De ontvanger van het openbaar centrum in kwestie verklaart dat de elektronische gegevens in overeenstemming zijn met de ingebonden vorm op de papieren drager.<br /><br />§ 2. De Vlaamse minister, bevoegd voor de binnenlandse aangelegenheden, bepaalt de bestandsarchitectuur van de elektronische vorm, vermeld in § 1.<br />
+
 ## TITEL IV ADMINISTRATIEVE ORGANISATIE
 
 ## HOOFDSTUK I ADMINISTRATIEVE ORGANISATIE EN INTERNE COMMUNICATIE
