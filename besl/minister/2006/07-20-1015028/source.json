@@ -1,0 +1,17 @@
+{
+  "codex_id": 1015028,
+  "title": "Ministerieel besluit van 2006-07-20 tot vaststelling van de bestandsarchitectuur van de elektronische vorm van de beslissingen van de raad voor maatschappelijk welzijn inzake de jaarrekening",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1015028/VolledigDocument?datum=2006-10-23",
+  "source_sha256": "ad512a8b7b1c2b84ba014235e9c8f3d2e15defea460fde86f00df471b8a7ebe5",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1015028&param=informatie",
+  "as_of": "2006-10-23",
+  "made": "2006-07-20",
+  "gazette": "2006-10-13",
+  "numac": 2006036483,
+  "document_start": "2006-10-23",
+  "document_end": null,
+  "in_force": "2006-10-23",
+  "article_versions": 6,
+  "record_form": "consolidated version as in force on 2006-10-23; oldest version available; future article versions excluded; article text as the API gives it"
+}
