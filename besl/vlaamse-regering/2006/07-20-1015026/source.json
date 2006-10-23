@@ -1,0 +1,17 @@
+{
+  "codex_id": 1015026,
+  "title": "Besluit van de Vlaamse Regering van 2006-07-20 tot wijziging van het besluit van de Vlaamse Regering van 17 december 1997 betreffende de boekhouding en de administratieve organisatie van de openbare centra voor maatschappelijk welzijn",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1015026/VolledigDocument?datum=2006-10-23",
+  "source_sha256": "d0dfa5ff63ce23bdad889fb3bb365f107fd4f2d15fa2e1f567cffb823c4b96d1",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1015026&param=informatie",
+  "as_of": "2006-10-23",
+  "made": "2006-07-20",
+  "gazette": "2006-10-13",
+  "numac": 2006036524,
+  "document_start": "2006-10-23",
+  "document_end": null,
+  "in_force": "2006-10-23",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2006-10-23; oldest version available; future article versions excluded; article text as the API gives it"
+}
