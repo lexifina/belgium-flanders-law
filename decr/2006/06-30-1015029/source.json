@@ -1,0 +1,17 @@
+{
+  "codex_id": 1015029,
+  "title": "Decreet van 2006-06-30 houdende aanpassing van de Middelenbegroting van de Vlaamse Gemeenschap voor het begrotingsjaar 2006",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1015029/VolledigDocument?datum=2006-10-26",
+  "source_sha256": "7886468666c705fd1c79a083a2bbefed54fbc302018c757cb904753b6ae6843e",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1015029&param=informatie",
+  "as_of": "2006-10-26",
+  "made": "2006-06-30",
+  "gazette": "2006-10-16",
+  "numac": 2006036295,
+  "document_start": "2006-10-26",
+  "document_end": null,
+  "in_force": "2006-10-26",
+  "article_versions": 12,
+  "record_form": "consolidated version as in force on 2006-10-26; oldest version available; future article versions excluded; article text as the API gives it"
+}
