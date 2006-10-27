@@ -1,0 +1,17 @@
+{
+  "codex_id": 1015203,
+  "title": "Omzendbrief van 2006-10-27 BB-2006/18 betreffende de start van de lokale bestuursperiode na de verkiezingen van 8 oktober 2006, de installatie van de provincieraad, de verkiezing van de voorzitter en de verkiezing van de gedeputeerden",
+  "type": "Omzendbrief",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1015203/VolledigDocument?datum=2006-10-27",
+  "source_sha256": "f422ac67147e31ee05d83e23ebe0aca2218c6cbb0352342c1517c1335e9500e6",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1015203&param=informatie",
+  "as_of": "2006-10-27",
+  "made": "2006-10-27",
+  "gazette": "2006-11-24",
+  "numac": 2006036878,
+  "document_start": "2006-10-27",
+  "document_end": null,
+  "in_force": "2006-10-27",
+  "article_versions": 12,
+  "record_form": "consolidated version as in force on 2006-10-27; oldest version available; future article versions excluded; article text as the API gives it"
+}
