@@ -2,16 +2,16 @@
   "codex_id": 1008142,
   "title": "Bijzonder Decreet van 2001-07-06 houdende regeling van het recht om verzoekschriften bij het Vlaams Parlement in te dienen",
   "type": "Bijzonder Decreet",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1008142/VolledigDocument?datum=2006-06-01",
-  "source_sha256": "f27c0edec159e7c7f4c20ed7145b08eb407cc67d5b8010297190e64ff0cbbacc",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1008142/VolledigDocument?datum=2006-10-27",
+  "source_sha256": "ef77be5d11925923250e734f618ce89024a15f3cb39a6dec2b3df748662afda8",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1008142&param=informatie",
-  "as_of": "2006-06-01",
+  "as_of": "2006-10-27",
   "made": "2001-07-06",
   "gazette": "2001-08-03",
   "numac": 2001035837,
   "document_start": null,
   "document_end": "2006-10-26",
-  "in_force": "2006-06-01",
+  "in_force": "2006-10-27",
   "article_versions": 6,
-  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2006-10-27; future article versions excluded; article text as the API gives it"
 }
