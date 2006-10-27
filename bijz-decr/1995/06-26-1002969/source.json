@@ -2,16 +2,16 @@
   "codex_id": 1002969,
   "title": "Bijzonder Decreet van 1995-06-26 houdende invoering van onverenigbaarheden met het mandaat van lid van de Vlaamse Raad",
   "type": "Bijzonder Decreet",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1002969/VolledigDocument?datum=2006-06-01",
-  "source_sha256": "2374aa267a31c8016c51f19dec8a646c5d64109ffa8027776743b02f230300f5",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1002969/VolledigDocument?datum=2006-10-27",
+  "source_sha256": "644a44a6fe7f12e780c372ed0332cb0c9bca2587a7c49e8ed9dd4f9e7d649b10",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1002969&param=informatie",
-  "as_of": "2006-06-01",
+  "as_of": "2006-10-27",
   "made": "1995-06-26",
   "gazette": "1995-07-01",
   "numac": 1995035993,
   "document_start": null,
   "document_end": "2006-10-26",
-  "in_force": "2006-06-01",
+  "in_force": "2006-10-27",
   "article_versions": 5,
-  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2006-10-27; future article versions excluded; article text as the API gives it"
 }
