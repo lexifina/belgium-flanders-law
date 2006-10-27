@@ -2,16 +2,16 @@
   "codex_id": 1002968,
   "title": "Bijzonder Decreet van 1995-06-26 houdende instelling van een regime van politiek verlof voor de personeelsleden van de diensten van de Vlaamse regering die een mandaat als lid van de Vlaamse Raad of de Vlaamse regering uitoefenen",
   "type": "Bijzonder Decreet",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1002968/VolledigDocument?datum=2006-06-01",
-  "source_sha256": "8d556d963cbb208155b8e304fd57469f6fff367d3c5721d3be80b5eee5ece5c1",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1002968/VolledigDocument?datum=2006-10-27",
+  "source_sha256": "76c00488f93eb73b24978028d9903d98a113d6904b66288ae7ebf5fd61667b5e",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1002968&param=informatie",
-  "as_of": "2006-06-01",
+  "as_of": "2006-10-27",
   "made": "1995-06-26",
   "gazette": "1995-07-01",
   "numac": 1995035992,
   "document_start": "1995-06-13",
   "document_end": "2006-10-26",
-  "in_force": "2006-06-01",
+  "in_force": "2006-10-27",
   "article_versions": 5,
-  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2006-10-27; future article versions excluded; article text as the API gives it"
 }
