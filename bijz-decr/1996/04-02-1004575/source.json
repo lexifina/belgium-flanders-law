@@ -2,16 +2,16 @@
   "codex_id": 1004575,
   "title": "Bijzonder Decreet van 1996-04-02 betreffende de benaming van de Vlaamse Raad",
   "type": "Bijzonder Decreet",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1004575/VolledigDocument?datum=2006-06-01",
-  "source_sha256": "67a79aac88fcaa4678c8dd9f952722c8c24ebc15152585dc541cc28116d4b264",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1004575/VolledigDocument?datum=2006-10-27",
+  "source_sha256": "bf426a99b34c5d1702afdd56371d5327239ea09251f92c71c8093361b0ac195e",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1004575&param=informatie",
-  "as_of": "2006-06-01",
+  "as_of": "2006-10-27",
   "made": "1996-04-02",
   "gazette": "1996-04-18",
   "numac": 1996035472,
   "document_start": null,
   "document_end": "2006-10-26",
-  "in_force": "2006-06-01",
+  "in_force": "2006-10-27",
   "article_versions": 2,
-  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2006-10-27; future article versions excluded; article text as the API gives it"
 }
