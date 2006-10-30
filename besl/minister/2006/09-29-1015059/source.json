@@ -1,0 +1,17 @@
+{
+  "codex_id": 1015059,
+  "title": "Ministerieel besluit van 2006-09-29 betreffende het financieringsprogramma voor jongerenstages bij internationale organisaties",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1015059/VolledigDocument?datum=2006-10-30",
+  "source_sha256": "57b816ca6f8e3b9ab90cc0ac89e23726bb1ba67db4b9f7edfef6c45e0a066d8c",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1015059&param=informatie",
+  "as_of": "2006-10-30",
+  "made": "2006-09-29",
+  "gazette": "2006-10-20",
+  "numac": 2006036694,
+  "document_start": "2006-10-30",
+  "document_end": "2010-12-31",
+  "in_force": "2006-10-30",
+  "article_versions": 6,
+  "record_form": "consolidated version as in force on 2006-10-30; oldest version available; future article versions excluded; article text as the API gives it"
+}
