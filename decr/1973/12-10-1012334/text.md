@@ -2,7 +2,7 @@
 
 ### ART. 1.
 
-De officiële benaming van de taal gebruikt door de Nederlandse Cultuurgemeenschap van België is "het Nederlands" of "de Nederlandse taal". <br />
+De officiële benaming van de taal gebruikt door de Vlaamse Gemeenschap is "het Nederlands" of "de Nederlandse taal". <br />
 
 ### ART. 2.
 
