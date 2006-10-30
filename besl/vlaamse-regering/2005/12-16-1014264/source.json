@@ -2,16 +2,16 @@
   "codex_id": 1014264,
   "title": "Besluit van de Vlaamse Regering van 2005-12-16 tot toekenning van steun aan kleine en middelgrote ondernemingen voor ondernemerschapsbevorderende diensten",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1014264/VolledigDocument?datum=2006-07-01",
-  "source_sha256": "fd4ba971f2f48d20c4cd341ef3aa565a336117216b883627eefaf9a429c3ef06",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1014264/VolledigDocument?datum=2006-10-30",
+  "source_sha256": "1faf2884b91e082543f8ec7a19d1278915c773b9269d4673fd5c5e53507a1da6",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1014264&param=informatie",
-  "as_of": "2006-07-01",
+  "as_of": "2006-10-30",
   "made": "2005-12-16",
   "gazette": "2006-02-10",
   "numac": 2006035141,
   "document_start": "2006-05-22",
   "document_end": "2008-12-31",
-  "in_force": "2006-07-01",
+  "in_force": "2006-10-30",
   "article_versions": 38,
-  "record_form": "consolidated version as in force on 2006-07-01; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2006-10-30; future article versions excluded; article text as the API gives it"
 }

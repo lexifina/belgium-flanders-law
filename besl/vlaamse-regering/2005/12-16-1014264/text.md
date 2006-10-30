@@ -176,4 +176,4 @@ De Vlaamse minister, bevoegd voor het economisch beleid, is belast met de uitvoe
 
 ### deel 1
 
-<a href="http://www.ejustice.just.fgov.be/mopdf/2006/02/10_1.pdf#page=64" title=" bijlage" target="_blank" class="pdf">bijlage</a>
+<a href="http://www.ejustice.just.fgov.be/mopdf/2006/11/17_1.pdf#page=66" title=" Bijlage" target="_blank" class="pdf">Bijlage</a>
