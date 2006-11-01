@@ -6,7 +6,7 @@ Dit besluit heeft betrekking op de toekenning voor het schooljaar 2006-2007 van 
 
 ### ART. 2.
 
-Het aantal uren-leraar per in aanmerking te nemen leerling, bedoeld in artikel 11, § 2, voorlaatste lid, van het besluit van de Vlaamse Regering van 31 juli 1990 houdende inrichting van het deeltijds beroepssecundair onderwijs, ingevoegd bij het besluit van de Vlaamse Regering van 13 januari 2006, wordt voor zowel het modulair als het nietmodulair georganiseerd deeltijds beroepssecundair onderwijs vastgesteld op 0,14.
+Het aantal uren-leraar per in aanmerking te nemen leerling, bedoeld in artikel 11, § 2, voorlaatste lid, van het besluit van de Vlaamse Regering van 31 juli 1990 houdende inrichting van het deeltijds beroepssecundair onderwijs, ingevoegd bij het besluit van de Vlaamse Regering van 13 januari 2006, wordt voor zowel het modulair als het nietmodulair georganiseerd deeltijds beroepssecundair onderwijs vastgesteld op 0,14 voor wat betreft de maanden september en oktober van het schooljaar 2006-2007 respectievelijk 0,19 voor wat betreft de overige maanden van desbetreffend schooljaar.
 
 ### ART. 3.
 
