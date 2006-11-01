@@ -136,6 +136,10 @@ In het koninklijk besluit van 8 juli 1970 houdende de algemene verordening betre
 
 ## Afdeling II Bekrachtiging van het besluit van de Vlaamse Regering van 14 oktober 2005 houdende de overdracht van sommige personeelsleden van de administratie Waterwegen en Zeewezen aan de verzelfstandigde agentschappen Waterwegen en Zeekanaal en De Scheepvaart, samen met alle goederen die aan die personeelsleden verbonden zijn
 
+### ART. 34.
+
+Het besluit van de Vlaamse Regering van 14 oktober 2005 houdende de overdracht van sommige personeelsleden van de administratie Waterwegen en Zeewezen aan de verzelfstandigde agentschappen Waterwegen en Zeekanaal en De Scheepvaart, samen met alle goederen die aan die personeelsleden verbonden zijn, wordt bekrachtigd met ingang van 1 november 2005, de dag van zijn inwerkingtreding.<br /><br />De Vlaamse Regering bepaalt bij besluit welke personeelsleden, die tewerkgesteld zijn bij de managementondersteunende diensten inzake personeelsaangelegenheden, facilitair management, informatie- en communicatietechnologie, boekhouding, begroting en juridische aangelegenheden van het departement van het beleidsdomein Mobiliteit en Openbare Werken, samen met de goederen die verbonden zijn met hun werking om niet worden overgedragen aan het agentschap Waterwegen en Zeekanaal.<br /><br />De bevoegdheid die in het tweede lid van dit artikel aan de Vlaamse Regering wordt opgedragen, vervalt op de datum van de toewijzing van het personeel samen met de goederen die verbonden zijn met hun werking.<br /><br />
+
 ## Afdeling III Oppervlaktewateren
 
 ## Afdeling IV Water bestemd voor menselijke aanwending
@@ -231,6 +235,10 @@ Aan artikel 14 van hetzelfde decreet wordt een tweede lid toegevoegd, dat luidt 
 ## Afdeling VII Herculesstichting
 
 ## HOOFDSTUK XXI Schenking meubilair aan onderwijsnetten
+
+### ART. 77.
+
+Bij het verlaten van het Markiesgebouw en het North-Plazagebouw wordt niet-herbruikt meubilair aan het gefinancierd en het gesubsidieerd onderwijs geschonken. Het meubilair wordt geschonken aan het Gemeenschapsonderwijs en de representatieve verenigingen van inrichtende machten van het gesubsidieerd onderwijs voor de inrichting van hun basisscholen en secundaire scholen. Bij de verdeling van de schenking zal rekening worden gehouden met het aantal instellingen met basis- en secundair onderwijs en het aantal personeelsleden.<br /><br />
 
 ## HOOFDSTUK XXII DAB Overheidspersoneel
 
