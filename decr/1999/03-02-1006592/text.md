@@ -160,7 +160,7 @@ De Vlaamse regering wordt ertoe gemachtigd binnen de perken van de begroting de 
 
 ### ART. 32.
 
-De Vlaamse regering wordt ertoe gemachtigd binnen de perken van de begroting subsidies toe te kennen aan de havenbedrijven ten behoeve van de havenkapiteindiensten die expliciet kunnen worden toegewezen aan de verkeersafwikkeling, de veiligheid en de vrijwaring van het milieu.
+...
 
 ### ART. 33.
 
