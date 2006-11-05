@@ -2,16 +2,16 @@
   "codex_id": 1017658,
   "title": "Decreet van 2008-12-19 houdende de vergoeding, verschuldigd door de gebruikers van het verkeersbegeleidingssysteem voor vaartuigen",
   "type": "Decreet",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1017658/VolledigDocument?datum=2005-03-01",
-  "source_sha256": "99a9b94f1b42ff196aad6751183af6e9ce673914797e33d563ff02f3916c90bf",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1017658/VolledigDocument?datum=2006-11-05",
+  "source_sha256": "cca41fc0db3ca61e0240069b0532774acb1f60ab8edac4bb88dc5598a93843ad",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1017658&param=informatie",
-  "as_of": "2005-03-01",
+  "as_of": "2006-11-05",
   "made": "2008-12-19",
   "gazette": "2009-03-10",
   "numac": 2009035226,
   "document_start": "2009-03-20",
   "document_end": null,
-  "in_force": "2005-03-01",
-  "article_versions": 5,
-  "record_form": "consolidated version as in force on 2005-03-01; future article versions excluded; article text as the API gives it"
+  "in_force": "2006-11-05",
+  "article_versions": 6,
+  "record_form": "consolidated version as in force on 2006-11-05; future article versions excluded; article text as the API gives it"
 }
