@@ -1,0 +1,17 @@
+{
+  "codex_id": 1015098,
+  "title": "Besluit van de Vlaamse Regering van 2006-09-01 tot wijziging van het besluit van de Vlaamse Regering van 14 april 2000 tot bepaling van de vergunningsplichtige functiewijzigingen en van de werken, handelingen en wijzigingen waarvoor geen stedenbouwkundige vergunning nodig is",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1015098/VolledigDocument?datum=2006-11-10",
+  "source_sha256": "9f5e2f1a61d6cafc7f0bbedf44291ee895d54e5c7c28acfdb5d7fb2c91dd9f68",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1015098&param=informatie",
+  "as_of": "2006-11-10",
+  "made": "2006-09-01",
+  "gazette": "2006-10-31",
+  "numac": 2006036775,
+  "document_start": "2006-11-10",
+  "document_end": null,
+  "in_force": "2006-11-10",
+  "article_versions": 5,
+  "record_form": "consolidated version as in force on 2006-11-10; oldest version available; future article versions excluded; article text as the API gives it"
+}
