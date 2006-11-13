@@ -1,0 +1,17 @@
+{
+  "codex_id": 1015207,
+  "title": "Ministerieel besluit van 2006-11-13 tot wijziging van het ministerieel besluit van 11 mei 2006 tot uitvoering van het besluit van de Vlaamse Regering van 16 december 2005 tot toekenning van steun aan kleine en middelgrote ondernemingen voor ondernemerschapsbevorderende diensten",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1015207/VolledigDocument?datum=2006-11-13",
+  "source_sha256": "627934c78ac8be0c1001c0d57d69ca54ae9d6321888d30a93ccf7efd4dd001f0",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1015207&param=informatie",
+  "as_of": "2006-11-13",
+  "made": "2006-11-13",
+  "gazette": "2006-11-27",
+  "numac": 2006036885,
+  "document_start": "2006-11-13",
+  "document_end": null,
+  "in_force": "2006-11-13",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2006-11-13; oldest version available; future article versions excluded; article text as the API gives it"
+}
