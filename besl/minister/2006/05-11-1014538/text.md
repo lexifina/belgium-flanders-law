@@ -28,6 +28,10 @@ Ter uitvoering van artikel 13, § 2, 2°, van het besluit van de Vlaamse Regerin
 
 Ter uitvoering van artikel 14, § 2, van het besluit van de Vlaamse Regering kan de minister de lijst van de kennisinstellingen uitbreiden op voordracht van een innovatieadviseur bij het Vlaams Agentschap Ondernemen of van een dienstverlener erkend in de pijler advies, die gebruikmaakt van de MERIT-methodologie van de Universiteit van Maastricht. De minister kan eventueel andere methodologieën aanvaarden.
 
+### ART. 6bis.
+
+De kwaliteitscertificaten, vermeld in artikelen 3 en 4, moeten de volgende vermeldingen bevatten :<br />1° de naam van de certificatie-instelling;<br />2° de naam van de dienstverlener die het certificaat verkrijgt;<br />3° het toepassingsgebied van het toegekende certificaat;<br />4° begin- en einddatum van het certificaat.<br />
+
 ## HOOFDSTUK III PROCEDURE
 
 ### ART. 7.
