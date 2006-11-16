@@ -1,0 +1,17 @@
+{
+  "codex_id": 1015107,
+  "title": "Besluit van de Vlaamse Regering van 2006-07-20 houdende de verlenging met één jaar van de termijn voor de instandhouding van de betrekking van adjunct-directeur voor drie scholen van het voltijds secundair onderwijs",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1015107/VolledigDocument?datum=2006-11-16",
+  "source_sha256": "d6bb8007f820b07033612f11cc00a5e7088d82edcb2fe5c6413e0d91549638fa",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1015107&param=informatie",
+  "as_of": "2006-11-16",
+  "made": "2006-07-20",
+  "gazette": "2006-11-06",
+  "numac": 2006036653,
+  "document_start": "2006-11-16",
+  "document_end": null,
+  "in_force": "2006-11-16",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2006-11-16; oldest version available; future article versions excluded; article text as the API gives it"
+}
