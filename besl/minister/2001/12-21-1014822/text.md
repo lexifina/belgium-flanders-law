@@ -123,7 +123,8 @@ De hoger genoemde soorten kunnen voorkomen als :<br>
 De zaaizaden kunnen gecertificeerd worden in de categorieën en klassen vermeld in tabel 1.<br>
 <br>
 Tabel 1<br>
-&nbsp;</p>
+<br>
+</p>
 
 <p>&nbsp;</p>
 
@@ -271,7 +272,8 @@ Het gewicht van de monsters kan gewijzigd worden op vraag van de instantie die d
 Voor de productie van chemisch hybride rassen van autogame soorten dient een monster van de beide ouderlijnen opgestuurd te worden (Deze ouderlijnen zijn ofwel rassen ingeschreven in de nationale catalogus of in de gemeenschappelijke rassenlijst, ofwel speciale ouderlijnen ingeschreven in een bijzondere lijst als ouderlijnen. Zij zijn goedgekeurd als basiszaad). De monsters zullen tezamen uitgezaaid worden met het controlemonster van het hybride ras bekomen uit de kruising van deze ouderlijnen.<br>
 <br>
 Tabel 2<br>
-&nbsp;</p>
+<br>
+</p>
 
 <table border="1" cellpadding="0" cellspacing="0" style="border-collapse:collapse">
 	<tbody>
@@ -335,7 +337,8 @@ Tabel 2<br>
 De inschrijvingsnemer dient elk teeltjaar de teelten, bestemd om zaaizaad voort te brengen, in te schrijven vóór de limietdata vermeld in tabel 3.<br>
 <br>
 Tabel 3<br>
-&nbsp;</p>
+<br>
+</p>
 
 <table border="1" cellpadding="0" cellspacing="0" style="border-collapse:collapse">
 	<tbody>
@@ -408,7 +411,8 @@ De teelten moeten verwijderd zijn van elke stuifmeelbron die een ongewenste krui
 - Voor de vrij bestoven rassen van allogame soorten en triticale zijn de minimum afstanden vermeld in tabel 4.<br>
 <br>
 Tabel 4<br>
-&nbsp;</p>
+<br>
+</p>
 
 <table border="1" cellpadding="0" cellspacing="0" style="border-collapse:collapse">
 	<tbody>
@@ -468,7 +472,8 @@ Tabel 4<br>
 <p>Voor hybride rassen van rogge gelden de minimum afstanden vermeld in tabel 5.<br>
 <br>
 Tabel 5<br>
-&nbsp;</p>
+<br>
+</p>
 
 <table border="1" cellpadding="0" cellspacing="0" style="border-collapse:collapse">
 	<tbody>
@@ -536,7 +541,8 @@ Voor het bepalen van rasonzuiverheden :<br>
 Per hectare : minimum 4 tellingen van een aantal aren afhankelijk van de te produceren klasse, zoals opgegeven in tabel 6.<br>
 <br>
 Tabel 6<br>
-&nbsp;</p>
+<br>
+</p>
 
 <table border="1" cellpadding="0" cellspacing="0" style="border-collapse:collapse">
 	<tbody>
@@ -584,7 +590,8 @@ Tabel 6<br>
 De principes en toleranties van toepassing zijn vermeld in tabel 7.<br>
 <br>
 Tabel 7<br>
-&nbsp;</p>
+<br>
+</p>
 
 <table border="1" cellpadding="0" cellspacing="0" style="border-collapse:collapse">
 	<tbody>
@@ -722,7 +729,8 @@ Planten worden geacht stuifmeel te hebben afgegeven of af te geven wanneer op 50
 Het aantal rasonzuiverheden, uitgedrukt in aantal rasonzuivere aren in promille van het aantal aren mag niet meer bedragen dan het aantal opgegeven in tabel 8.<br>
 <br>
 Tabel 8<br>
-&nbsp;</p>
+<br>
+</p>
 
 <table border="1" cellpadding="0" cellspacing="0" style="border-collapse:collapse">
 	<tbody>
@@ -819,7 +827,8 @@ Partijen die ter certificering worden aangeboden, moeten homogeen zijn.<br>
 Het gewicht van de partijen en van de monsters wordt weergegeven in tabel 9.<br>
 <br>
 Tabel 9<br>
-&nbsp;</p>
+<br>
+</p>
 
 <table border="1" cellpadding="0" cellspacing="0" style="border-collapse:collapse">
 	<tbody>
@@ -880,7 +889,7 @@ Tabel 9<br>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:99.25pt">
 			<p>&nbsp;</p>
 
-			<p>25</p>
+			<p>30</p>
 
 			<p>&nbsp;</p>
 
@@ -958,7 +967,8 @@ Het zaad van onderstaande soorten moet onder meer beantwoorden aan volgende norm
 De normen voor andere soorten dan maïs, sorgho, hybride rogge en chemisch hybride rassen van autogame soorten zijn vermeld in tabel 10.<br>
 <br>
 Tabel 10<br>
-&nbsp;</p>
+<br>
+</p>
 
 <table border="1" cellpadding="0" cellspacing="0" style="border-collapse:collapse">
 	<tbody>
@@ -1051,7 +1061,8 @@ Voor het gehalte van zaden van andere soorten dient de bemonstering door een off
 - hetzij in een officieel erkend laboratorium.<br>
 <br>
 Tabel 11<br>
-&nbsp;</p>
+<br>
+</p>
 
 <table border="1" cellpadding="0" cellspacing="0" style="border-collapse:collapse; width:719.4pt">
 	<tbody>
@@ -1618,7 +1629,8 @@ De aanwezigheid van schadelijke organismen die de gebruikswaarde van het zaaizaa
 Het zaaizaad moet in het bijzonder voldoen aan de normen vermeld in tabel 12.<br>
 <br>
 Tabel 12<br>
-&nbsp;</p>
+<br>
+</p>
 
 <table border="1" cellpadding="0" cellspacing="0" style="border-collapse:collapse">
 	<tbody>
@@ -1671,7 +1683,8 @@ Immers, wanneer de klasse van het uitgangsmateriaal uitgezaaid op het controleve
 Indien het percentage onzuiverheden vastgesteld op de monsters genomen voor controle a posteriori de normen overtreft, moeten de partijen aan de handel worden onttrokken.<br>
 <br>
 Tabel 13<br>
-&nbsp;</p>
+<br>
+</p>
 
 <p>&nbsp;</p>
 
