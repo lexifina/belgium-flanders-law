@@ -1,0 +1,17 @@
+{
+  "codex_id": 1015120,
+  "title": "Ministerieel besluit van 2006-10-25 tot wijziging van het besluit van de Vlaamse Regering van 16 december 2005 houdende de reglementering van de handel in en de keuring van zaaigranen en tot wijziging van het ministerieel besluit van 21 december 2001 tot vaststelling van een keurings- en certificeringsreglement van zaaigranen",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1015120/VolledigDocument?datum=2006-11-18",
+  "source_sha256": "efa26dfd03d12d5b3daa436638ed81fb3c7652207fc4aa7c711a95ba46e7e25f",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1015120&param=informatie",
+  "as_of": "2006-11-18",
+  "made": "2006-10-25",
+  "gazette": "2006-11-08",
+  "numac": 2006036814,
+  "document_start": "2006-11-18",
+  "document_end": null,
+  "in_force": "2006-11-18",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2006-11-18; oldest version available; future article versions excluded; article text as the API gives it"
+}
