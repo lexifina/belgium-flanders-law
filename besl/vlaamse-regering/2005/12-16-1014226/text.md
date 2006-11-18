@@ -1701,9 +1701,6 @@ Het zaad moet in het bijzonder voldoen aan de volgende normen betreffende Clavic
 
 ### BIJLAGE III
 
-<p><br>
-</p>
-
 <table border="1" cellpadding="0" cellspacing="0" style="border-collapse:collapse">
 	<tbody>
 		<tr>
@@ -1769,7 +1766,7 @@ Het zaad moet in het bijzonder voldoen aan de volgende normen betreffende Clavic
 
 			<p>&nbsp;</p>
 
-			<p>25</p>
+			<p>30</p>
 
 			<p>&nbsp;</p>
 
@@ -1777,7 +1774,7 @@ Het zaad moet in het bijzonder voldoen aan de volgende normen betreffende Clavic
 
 			<p>&nbsp;</p>
 
-			<p>25</p>
+			<p>30</p>
 
 			<p>&nbsp;</p>
 
