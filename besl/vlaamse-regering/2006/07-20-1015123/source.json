@@ -1,0 +1,17 @@
+{
+  "codex_id": 1015123,
+  "title": "Besluit van de Vlaamse Regering van 2006-07-20 houdende de gelijkstelling met een erkend museum van het Koninklijk Museum voor Schone Kunsten Antwerpen, het Kasteel van Gaasbeek en het Museum van Hedendaagse Kunst Antwerpen en houdende de goedkeuring van het beleidsplan van het Koninklijk Museum voor Schone Kunsten Antwerpen en het Kasteel van Gaasbeek",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1015123/VolledigDocument?datum=2006-11-19",
+  "source_sha256": "3af19d299251f11257f7047223d0048d0473c5fe7ca44b0831064c6f9c7a1647",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1015123&param=informatie",
+  "as_of": "2006-11-19",
+  "made": "2006-07-20",
+  "gazette": "2006-11-09",
+  "numac": 2006036545,
+  "document_start": "2006-11-19",
+  "document_end": null,
+  "in_force": "2006-11-19",
+  "article_versions": 7,
+  "record_form": "consolidated version as in force on 2006-11-19; oldest version available; future article versions excluded; article text as the API gives it"
+}
