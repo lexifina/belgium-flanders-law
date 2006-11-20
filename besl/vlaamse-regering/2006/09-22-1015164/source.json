@@ -1,0 +1,17 @@
+{
+  "codex_id": 1015164,
+  "title": "Besluit van de Vlaamse Regering van 2006-09-22 tot wijziging met betrekking tot afvalwaterzuiveringsinstallaties van het besluit van de Vlaamse Regering van 6 februari 1991 houdende vaststelling van het Vlaams reglement betreffende de milieuvergunning, het besluit van de Vlaamse Regering van 5 maart 1996 betreffende de bodemsanering en het besluit van de Vlaamse Regering van 5 december 2003 tot vaststelling van het Vlaams reglement inzake afvalvoorkoming en -beheer",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1015164/VolledigDocument?datum=2006-11-20",
+  "source_sha256": "ab22ea3c651e452047a4b951b478d62cd193d30596a030452c3e2ebcf686cd41",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1015164&param=informatie",
+  "as_of": "2006-11-20",
+  "made": "2006-09-22",
+  "gazette": "2006-11-20",
+  "numac": 2006036881,
+  "document_start": "2006-11-20",
+  "document_end": null,
+  "in_force": "2006-11-20",
+  "article_versions": 6,
+  "record_form": "consolidated version as in force on 2006-11-20; oldest version available; future article versions excluded; article text as the API gives it"
+}
