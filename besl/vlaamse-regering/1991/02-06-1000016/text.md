@@ -2188,6 +2188,9 @@ J = Inrichting waarvoor overeenkomstig titel II van het VLAREM een milieujaarver
 			<p>&nbsp;</p>
 
 			<p>Fysisch-chemisch behandelen van afvalstoffen is de chemische eigenschappen, de chemische samenstelling of de aggregatietoestand van de afvalstoffen wijzigen. Het is o.m. het decanteren, distilleren, extraheren, mengen, neerslaan, neutraliseren, ontwateren, oxyderen, raffineren, reduceren, regenereren, smelten, solidifiëren.</p>
+
+			<p>Er kan overlapping zijn met rubriek 2.3.2. Uitzondering :<br>
+			Het afscheiden van vuil en van verontreinigende stoffen uit water, rioolwater en/of afvalwater door middel van vuilroosters, roostergoedpers, zandvangers, vetvangers, voorbezinktanks, beluchtingsbassins, nabezinktanks, voorindikkers, na-indikkers, centrifugeren en/of persen, en andere procesmatige onderdelen van afvalwaterzuiveringsinstallaties als bedoeld in rubriek 3.6 en van drinkwaterzuiveringsinstallaties, betreft geen inrichting voor de verwerking van afvalstoffen en is dus niet ingedeeld onder onderhavige rubriek 2.</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:45pt">
 			<p>&nbsp;</p>
@@ -2207,8 +2210,6 @@ J = Inrichting waarvoor overeenkomstig titel II van het VLAREM een milieujaarver
 		</tr>
 		<tr>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:216pt">
-			<p>Er kan overlapping zijn met rubriek 2.3.2.</p>
-
 			<p>a) niet gevaarlijke slibs, met een opslagcapaciteit van:</p>
 
 			<p>1° tot en met 1 ton</p>
@@ -2216,8 +2217,6 @@ J = Inrichting waarvoor overeenkomstig titel II van het VLAREM een milieujaarver
 			<p>2° meer dan 1 ton</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:45pt">
-			<p>&nbsp;</p>
-
 			<p>&nbsp;</p>
 
 			<p>&nbsp;</p>
@@ -2231,15 +2230,11 @@ J = Inrichting waarvoor overeenkomstig titel II van het VLAREM een milieujaarver
 
 			<p>&nbsp;</p>
 
-			<p>&nbsp;</p>
-
 			<p>A, O, T</p>
 
 			<p>M, O, T</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:45pt">
-			<p>&nbsp;</p>
-
 			<p>&nbsp;</p>
 
 			<p>&nbsp;</p>
@@ -2950,6 +2945,9 @@ J = Inrichting waarvoor overeenkomstig titel II van het VLAREM een milieujaarver
 			<p>&nbsp;</p>
 
 			<p>Er kan overlapping zijn met rubriek 2.2.5.&nbsp;</p>
+
+			<p>Uitzondering :<br>
+			Het afscheiden van vuil en van verontreinigende stoffen uit water, rioolwater en/of afvalwater door middel van vuilroosters, roostergoedpers, zandvangers, vetvangers, voorbezinktanks, beluchtingsbassins, nabezinktanks, voorindikkers, na-indikkers, centrifugeren en/of persen, en andere procesmatige onderdelen van afvalwaterzuiveringsinstallaties als bedoeld in rubriek 3.6 en van drinkwaterzuiveringsinstallaties, betreft geen inrichting voor de verwerking van afvalstoffen en is dus niet ingedeeld onder onderhavige rubriek 2.</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:45pt">
 			<p>&nbsp;</p>
