@@ -1,0 +1,17 @@
+{
+  "codex_id": 1015128,
+  "title": "Besluit van de Vlaamse Regering van 2006-09-22 houdende gedeeltelijke verdeling van het provisionele krediet ingeschreven onder programma 24.60, basisallocatie 00.26, begrotingsjaar 2006",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1015128/VolledigDocument?datum=2006-11-20",
+  "source_sha256": "5135e8f3bc94fbaf0cb90df45e2302dcd73eb5d407b62b31e768e2461ec968c8",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1015128&param=informatie",
+  "as_of": "2006-11-20",
+  "made": "2006-09-22",
+  "gazette": "2006-11-10",
+  "numac": 2006036588,
+  "document_start": "2006-11-20",
+  "document_end": null,
+  "in_force": "2006-11-20",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2006-11-20; oldest version available; future article versions excluded; article text as the API gives it"
+}
