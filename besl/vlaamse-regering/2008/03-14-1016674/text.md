@@ -36,6 +36,10 @@ Artikel 175 van hetzelfde besluit wordt vervangen door wat volgt :<br /><br />«
 
 ## HOOFDSTUK X. Wijziging van het besluit van de Vlaamse Regering van 29 september 2006 betreffende de voorwaarden voor de overdracht van onroerende goederen door de Vlaamse Maatschappij voor Sociaal Wonen en de sociale huisvestingsmaatschappijen ter uitvoering van de Vlaamse Wooncode
 
+### ART. 27.
+
+In artikel 15 van hetzelfde besluit wordt het derde lid vervangen door wat volgt :<br /><br />« De oppervlaktenormen voor sociale kavels en middelgrote kavels en de volumenormen voor woningen, op te richten op die kavels, vermeld in artikel 1, 5° en 6°, gelden niet voor kavels of woningen waarvoor reeds registers werden geopend met toepassing van het besluit, vermeld in artikel 12. De oppervlaktenormen gelden evenmin voor sociale kavels en middelgrote kavels die op de datum van inwerkingtreding van dit besluit reeds uitgerust of vergund waren. »
+
 ## HOOFDSTUK XI. Wijziging van het besluit van de Vlaamse Regering van 29 september 2006 houdende de erkenning en de subsidiëring van huurdersorganisaties
 
 ## HOOFDSTUK XII. Wijziging van het besluit van de Vlaamse Regering van 2 februari 2007 tot instelling van een tegemoetkoming in de huurprijs voor woonbehoeftige huurders
