@@ -30,4 +30,4 @@ De Koning kan de instelling machtigen overeenkomsten te sluiten met gelijkaardig
 
 ### ART. 8.
 
-Elk jaar brengt de Raad van Beheer uiterlijk op 31 maart bij de Cultuurraad voor de Nederlandse Cultuurgemeenschap en bij de Minister van Nationale Opvoeding verslag uit over de werkzaamheden van de instelling.
+Elk jaar brengt de Raad van Beheer uiterlijk op 31 maart bij het Vlaams Parlement en bij de Minister van Nationale Opvoeding verslag uit over de werkzaamheden van de instelling.<br />
