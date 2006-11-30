@@ -70,7 +70,7 @@ De Regering regelt de procedure van goedkeuring en van de uitbetaling van de inv
 
 ### ART. 14.
 
-De Regering deelt jaarlijks aan de Vlaamse Raad de inventaris mee van alle subsidiebeloften en subsidiebeslissingen, met de financiële engagementen.
+De Regering deelt jaarlijks aan het Vlaams Parlement de inventaris mee van alle subsidiebeloften en subsidiebeslissingen, met de financiële engagementen.
 
 ## HOOFDSTUK IV OVERGANGS- EN SLOTBEPALINGEN
 
