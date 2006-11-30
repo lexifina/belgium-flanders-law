@@ -44,7 +44,7 @@ Dit decreet regelt een Gemeenschapsaangelegenheid [ <span class="reference">(ver
 
 ### ART. 10.
 
-De Vlaamse regering bezorgt jaarlijks een verslag van de inspectie inzake de toestand van het onder-wijs en de centra aan de Vlaamse Raad.
+De Vlaamse regering bezorgt jaarlijks een verslag van de inspectie inzake de toestand van het onder-wijs en de centra aan het Vlaams Parlement.
 
 ## HOOFDSTUK II RECHTSPOSITIEREGELING
 
