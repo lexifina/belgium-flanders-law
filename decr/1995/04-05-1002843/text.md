@@ -142,11 +142,11 @@ De begroting dient alle ontvangsten en alle uitgaven te bevatten, welke de herko
 
 ### ART. 29.
 
-Het ontwerp van begroting van de VLOPERA wordt opgemaakt door de Raad van Bestuur en goedgekeurd door de Vlaamse regering.<br /><br />De begroting wordt aan de Vlaamse Raad meegedeeld als bijvoegsel bij de in artikel 14 van de gecoördineerde wetten op de rijkscomptabiliteit bedoelde administratieve begroting van het ministerie van de Vlaamse Gemeenschap.<br /><br />Als het ontwerp van begroting niet is goedgekeurd voor de aanvang van het begrotingsjaar,mogen dezelfde verrichtingen als die welke in de begroting van het vorige jaar waren toegestaan, worden uitgevoerd naar rato van 1/12 per maand vanaf 1 januari.
+Het ontwerp van begroting van de VLOPERA wordt opgemaakt door de Raad van Bestuur en goedgekeurd door de Vlaamse regering.<br /><br />De begroting wordt aan het Vlaams Parlement meegedeeld als bijvoegsel bij de in artikel 14 van de gecoördineerde wetten op de rijkscomptabiliteit bedoelde administratieve begroting van het ministerie van de Vlaamse Gemeenschap.<br /><br />Als het ontwerp van begroting niet is goedgekeurd voor de aanvang van het begrotingsjaar,mogen dezelfde verrichtingen als die welke in de begroting van het vorige jaar waren toegestaan, worden uitgevoerd naar rato van 1/12 per maand vanaf 1 januari.
 
 ### ART. 30.
 
-Uiterlijk samen met de mededeling van de begroting van de Vlaamse Gemeenschap aan de Vlaamse Raad, krijgt de Vlaamse regering ter informatie een verslag van de activiteitenvooruitzichten en van de voorontwerpen van begroting voor de drie volgende begrotingsjaren.
+Uiterlijk samen met de mededeling van de begroting van de Vlaamse Gemeenschap aan het Vlaams Parlement, krijgt de Vlaamse regering ter informatie een verslag van de activiteitenvooruitzichten en van de voorontwerpen van begroting voor de drie volgende begrotingsjaren.
 
 ### ART. 31.
 
