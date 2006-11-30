@@ -2,16 +2,16 @@
   "codex_id": 1000106,
   "title": "Decreet van 1994-03-23 houdende regularisatie van de toetreding van de Vlaamse regering tot verenigingen zonder winstgevend doel",
   "type": "Decreet",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1000106/VolledigDocument?datum=2006-06-01",
-  "source_sha256": "b7a1858e13a9a91848c3ce11a49334262d4d94b06c83a68f7c478b1e59baef57",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1000106/VolledigDocument?datum=2006-11-30",
+  "source_sha256": "404c57dc4395790dabe831e1c78a03eeb06bf70e424624e0b02d4cd6c5240ae5",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1000106&param=informatie",
-  "as_of": "2006-06-01",
+  "as_of": "2006-11-30",
   "made": "1994-03-23",
   "gazette": "1994-06-23",
   "numac": 1994035669,
   "document_start": null,
   "document_end": null,
-  "in_force": "2006-06-01",
+  "in_force": "2006-11-30",
   "article_versions": 7,
-  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2006-11-30; future article versions excluded; article text as the API gives it"
 }
