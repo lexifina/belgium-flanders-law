@@ -1,0 +1,17 @@
+{
+  "codex_id": 1015160,
+  "title": "Decreet van 2006-06-23 houdende aanpassing van diverse decreten aan de nieuwe benaming van de wetgevende vergaderingen van de gemeenschappen en gewesten",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1015160/VolledigDocument?datum=2006-11-30",
+  "source_sha256": "2d92f8ecd276b32299b09e3088690d108321a978ba1af33a4d0a2f7c174da275",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1015160&param=informatie",
+  "as_of": "2006-11-30",
+  "made": "2006-06-23",
+  "gazette": "2006-11-20",
+  "numac": 2006036587,
+  "document_start": "2006-11-30",
+  "document_end": null,
+  "in_force": "2006-11-30",
+  "article_versions": 59,
+  "record_form": "consolidated version as in force on 2006-11-30; oldest version available; future article versions excluded; article text as the API gives it"
+}
