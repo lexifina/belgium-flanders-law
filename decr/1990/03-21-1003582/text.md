@@ -10,17 +10,7 @@ Er wordt een Vlaamse Stichting voor Verkeerskunde opgericht, hierna te noemen de
 
 ### ART. 3.
 
-§ 1. De Stichting heeft de volgende doelstellingen en opdrachten :<br>
-<br>
-1° het opstellen van de programma's, de organisatie en de coördinatie van de opleiding, de bijscholing en de permanente vorming inzake verkeerskunde, alsook het adviseren bij de aanstelling van lesgevers in de verkeerskunde;<br>
-<br>
-2° het stimuleren van het wetenschappelijk onderzoek en van het universitair onderwijs betreffende de verkeerskunde;<br>
-<br>
-3° het zoeken naar financiële partners bij de overheid op alle bestuurlijke niveaus en in de privé-sector, ter realisatie van bovenstaande doelstellingen en opdrachten;<br>
-<br>
-4° het adviseren van de Vlaamse Raad en van de Vlaamse regering met betrekking tot aangelegenheden inzake verkeerskunde.<br>
-<br>
-§ 2. De Stichting kan, na goedkeuring door de Vlaamse regering en onder de door de Vlaamse regering bepaalde voorwaarden, andere activiteiten betreffende de verkeers- en vervoersproblemen organiseren of op zich nemen.
+§ 1. De Stichting heeft de volgende doelstellingen en opdrachten :<br />1° het opstellen van de programma's, de organisatie en de coördinatie van de opleiding, de bijscholing en de permanente vorming inzake verkeerskunde, alsook het adviseren bij de aanstelling van lesgevers in de verkeerskunde;<br />2° het stimuleren van het wetenschappelijk onderzoek en van het universitair onderwijs betreffende de verkeerskunde;<br />3° het zoeken naar financiële partners bij de overheid op alle bestuurlijke niveaus en in de privé-sector, ter realisatie van bovenstaande doelstellingen en opdrachten;<br />4° het adviseren van het Vlaams Parlement en van de Vlaamse regering met betrekking tot aangelegenheden inzake verkeerskunde.<br /><br />§ 2. De Stichting kan, na goedkeuring door de Vlaamse regering en onder de door de Vlaamse regering bepaalde voorwaarden, andere activiteiten betreffende de verkeers- en vervoersproblemen organiseren of op zich nemen.
 
 ### ART. 4.
 

@@ -2,16 +2,16 @@
   "codex_id": 1003582,
   "title": "Decreet van 1990-03-21 houdende oprichting van een Vlaamse Stichting voor Verkeerskunde",
   "type": "Decreet",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1003582/VolledigDocument?datum=2006-06-01",
-  "source_sha256": "884aa4f775ce145018b7d01e92c375c22214320749005093fa88a53b98f4b289",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1003582/VolledigDocument?datum=2006-11-30",
+  "source_sha256": "eb0c999e964f85bcda1ade01868aa282c2eec9a41c9e5132d06b65aeb9ae0e31",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1003582&param=informatie",
-  "as_of": "2006-06-01",
+  "as_of": "2006-11-30",
   "made": "1990-03-21",
   "gazette": "1990-05-09",
   "numac": 1990029551,
   "document_start": "1990-05-09",
   "document_end": null,
-  "in_force": "2006-06-01",
+  "in_force": "2006-11-30",
   "article_versions": 8,
-  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2006-11-30; future article versions excluded; article text as the API gives it"
 }
