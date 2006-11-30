@@ -2,16 +2,16 @@
   "codex_id": 1009659,
   "title": "Decreet van 2002-07-19 houdende controle op de regeringsmededelingen",
   "type": "Decreet",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1009659/VolledigDocument?datum=2006-06-01",
-  "source_sha256": "dfe2e3a1542456e8ffea6c49c64ecd640fdccba7fb1a2d9cf75751ff9057cd89",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1009659/VolledigDocument?datum=2006-11-30",
+  "source_sha256": "f075dd57118ac91086bda7deb2eef651931c654339b1c12df90e23b9727c09ed",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1009659&param=informatie",
-  "as_of": "2006-06-01",
+  "as_of": "2006-11-30",
   "made": "2002-07-19",
   "gazette": "2002-09-14",
   "numac": 2002036152,
   "document_start": null,
   "document_end": null,
-  "in_force": "2006-06-01",
+  "in_force": "2006-11-30",
   "article_versions": 10,
-  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2006-11-30; future article versions excluded; article text as the API gives it"
 }
