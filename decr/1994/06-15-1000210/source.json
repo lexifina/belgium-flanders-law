@@ -2,16 +2,16 @@
   "codex_id": 1000210,
   "title": "Decreet van 1994-06-15 betreffende de milieubeleidsovereenkomsten",
   "type": "Decreet",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1000210/VolledigDocument?datum=2006-06-01",
-  "source_sha256": "6d67fbe70e9e2f78abf36ba76aafbfab2d875b68c9138da2333c37f9fa5e550f",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1000210/VolledigDocument?datum=2006-11-30",
+  "source_sha256": "7ad219cb5d8e8357ccc4583ac866501ce3467de6308cd7d3526b2659804ab75a",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1000210&param=informatie",
-  "as_of": "2006-06-01",
+  "as_of": "2006-11-30",
   "made": "1994-06-15",
   "gazette": "1994-07-08",
   "numac": 1994035867,
   "document_start": null,
   "document_end": "2012-12-31",
-  "in_force": "2006-06-01",
+  "in_force": "2006-11-30",
   "article_versions": 13,
-  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2006-11-30; future article versions excluded; article text as the API gives it"
 }
