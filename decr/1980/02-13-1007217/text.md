@@ -6,7 +6,11 @@ Er is een Koninklijke Academie voor Nederlandse Taal- en Letterkunde, hierna de 
 
 ### ART. 2.
 
-De werkzaamheid van de Academie omvat de studie, de inoefening en de bevordering van de Nederlandse taal- en letterkunde.<br /><br />De Academie is:<br />1. een raadgevend lichaam voor de Cultuurraad voor de Nederlandse Cultuurgemeenschap alsmede voor de regering op het gebied van de Nederlandse taal- en letterkunde;<br />2. een trefpunt van samenwerking voor beoefenaars van de Nederlandse taal- en letterkunde;<br />3. een band tussen haar leden en de literatoren en taalkundigen uit andere gemeenschappen en uit andere landen;<br />4. een instelling tot bevordering van de onderzoekingen en ondernemingen op haar gebied, die slechts door samenwerking zijn tot stand te brengen, en die wegens hun omvang, duur en hoge kosten, de mogelijkheden of middelen van één persoon of van één instelling te boven gaan.
+De werkzaamheid van de Academie omvat de studie, de inoefening en de bevordering van de Nederlandse taal- en letterkunde.<br /><br />De Academie is:<br />1. een raadgevend lichaam voor het Vlaams Parlement alsmede voor de regering op het gebied van de Nederlandse taal- en letterkunde;<br />2. een trefpunt van samenwerking voor beoefenaars van de Nederlandse taal- en letterkunde;<br />3. een band tussen haar leden en de literatoren en taalkundigen uit andere gemeenschappen en uit andere landen;<br />4. een instelling tot bevordering van de onderzoekingen en ondernemingen op haar gebied, die slechts door samenwerking zijn tot stand te brengen, en die wegens hun omvang, duur en hoge kosten, de mogelijkheden of middelen van één persoon of van één instelling te boven gaan.
+
+### ART. 3.
+
+De Academie bestaat uit:<br />1. dertig gewone leden;<br />2. binnenlandse ereleden in onbepaald aantal;<br />3. ten hoogste vijfentwintig buitenlandse ereleden;<br />4. ten hoogste vijf buitengewone leden.<br /><br />Tot gewoon lid zijn benoembaar personen die behoren tot de Vlaamse Gemeenschap in België, tot buitengewoon lid personen die behoren tot een andere cultuurgemeenschap in België.
 
 ### ART. 4.
 
@@ -50,11 +54,11 @@ De vaste secretaris voert uit naam van de Academie en van het bestuur de getroff
 
 ### ART. 14.
 
-Het vermogen van de Academie omvat:<br />a) door de Cultuurraad voor de Nederlandse Cultuurgemeenschap toe te kennen toelagen;<br />b) de gelden en goederen die haar krachtens schenkingen of op een andere wijze worden toegekend.<br /><br />De Academie kan daarenboven aan de regering met redenen omklede voorstellen doen om voor een bepaald doel een bijkomende tegemoetkoming te ontvangen.
+Het vermogen van de Academie omvat:<br />a) door het Vlaams Parlement toe te kennen toelagen;<br />b) de gelden en goederen die haar krachtens schenkingen of op een andere wijze worden toegekend.<br /><br />De Academie kan daarenboven aan de regering met redenen omklede voorstellen doen om voor een bepaald doel een bijkomende tegemoetkoming te ontvangen.
 
 ### ART. 15.
 
-De kredieten voor de werking van de Academie worden jaarlijks ingeschreven op de begroting van de Culturele Zaken van de Nederlandse Cultuurgemeenschap, sector Nederlandse Cultuur.
+De kredieten voor de werking van de Academie worden jaarlijks ingeschreven op de  algemene uitgavenbegroting van de Vlaamse Gemeenschap.
 
 ### ART. 16.
 
