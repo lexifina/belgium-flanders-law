@@ -2,16 +2,16 @@
   "codex_id": 1000698,
   "title": "Decreet van 1991-01-23 tot oprichting van het Fonds voor Preventie en Sanering inzake Leefmilieu en Natuur als Gewestdienst met afzonderlijk beheer",
   "type": "Decreet",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1000698/VolledigDocument?datum=2006-06-01",
-  "source_sha256": "fd857786531cb99f52eb3eafbab66b55e8ac39e6c6723e4fc5c20991e6831778",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1000698/VolledigDocument?datum=2006-11-30",
+  "source_sha256": "7328d57347b5661783deab050a5593f2aff9e9002eef999fe6f02d6dcd501457",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1000698&param=informatie",
-  "as_of": "2006-06-01",
+  "as_of": "2006-11-30",
   "made": "1991-01-23",
   "gazette": "1991-02-02",
   "numac": 1991035092,
   "document_start": "1991-01-01",
   "document_end": null,
-  "in_force": "2006-06-01",
+  "in_force": "2006-11-30",
   "article_versions": 10,
-  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2006-11-30; future article versions excluded; article text as the API gives it"
 }

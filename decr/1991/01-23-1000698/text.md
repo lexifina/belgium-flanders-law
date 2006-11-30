@@ -55,7 +55,7 @@ Bij het terugvloeien naar de NV Vlaamse Milieuholding, hierna te noemen Milieuho
 
 ### ART. 9.
 
-§ 1. Overeenkomstig de bepalingen van artikel 65 van de wet van 28 juni 1963 inzake de Rijks-comptabiliteit legt de Vlaamse regering jaarlijks en uiterlijk op 30 september de begroting van het MINA-fonds voor het volgende jaar aan de Vlaamse Raad ter goedkeuring voor.<br /><br />§ 2. De Vlaamse regering brengt jaarlijks vóór 30 juni bij de Vlaamse Raad omstandig verslag uit over de inkomsten en de uitgaven, de actieprogramma's en de werking van het MINA-fonds tijdens het afgelopen begrotingsjaar.
+§ 1. Overeenkomstig de bepalingen van artikel 65 van de wet van 28 juni 1963 inzake de Rijks-comptabiliteit legt de Vlaamse regering jaarlijks en uiterlijk op 30 september de begroting van het MINA-fonds voor het volgende jaar aan het Vlaams Parlement ter goedkeuring voor.<br /><br />§ 2. De Vlaamse regering brengt jaarlijks vóór 30 juni bij het Vlaams Parlement omstandig verslag uit over de inkomsten en de uitgaven, de actieprogramma's en de werking van het MINA-fonds tijdens het afgelopen begrotingsjaar.
 
 ### ART. 10.
 
