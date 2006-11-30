@@ -134,7 +134,22 @@ Dit hoofdstuk is van toepassing op:<br />1° de leden van de inspectiedienst bed
 
 ### ART. 30.
 
-De in artikel 29 bedoelde personeelsleden worden van ambtswege en zonder dat ze zich eraan kunnen onttrekken met politiek verlof gezonden voor de uitoefening van de volgende politieke mandaten:<br /><br />1° burgemeester van een gemeente met meer dan 50 000 inwoners;<br /><br />2° schepen of voorzitter van de raad voor maatschappelijk welzijn van een gemeente met meer dan 80 000 inwoners;<br /><br />3° lid van de bestendige deputatie van een provincieraad;<br /><br />4° voorzitter van een agglomeratie of van een federatie van gemeenten;<br /><br />5° lid van de Kamer van Volksvertegenwoordigers of van de Senaat;<br /><br />6° lid van de Vlaamse Raad;<br /><br />7° lid van de Brusselse Hoofdstedelijke Raad;<br /><br />8° lid van het Europees parlement;<br /><br />9° lid van de nationale regering;<br /><br />10° lid van de Vlaamse regering of van de Brusselse Hoofdstedelijke regering;<br /><br />11° staatssecretaris van het Brussels Hoofdstedelijk Gewest;<br /><br />12° lid van de Vlaamse Gemeenschapscommissie.<br /><br />Het politiek verlof van ambtswege vangt aan op de datum van de eedaflegging voor één van de boven vermelde mandaten.
+De in artikel 29 bedoelde personeelsleden worden van ambtswege en zonder dat ze zich eraan kunnen onttrekken met politiek verlof gezonden voor de uitoefening van de volgende politieke mandaten:<br>
+1° burgemeester van een gemeente met meer dan 50 000 inwoners;<br>
+2° schepen of voorzitter van de raad voor maatschappelijk welzijn van een gemeente met meer dan<br>
+80 000 inwoners;<br>
+3° lid van de bestendige deputatie van een provincieraad;<br>
+4° voorzitter van een agglomeratie of van een federatie van gemeenten;<br>
+5° lid van de Kamer van Volksvertegenwoordigers of van de Senaat;<br>
+6° lid van het Vlaams Parlement;<br>
+7° lid van het Brussels Hoofdstedelijk Parlement;<br>
+8° lid van het Europees parlement;<br>
+9° lid van de nationale regering;<br>
+10° lid van de Vlaamse regering of van de Brusselse Hoofdstedelijke regering;<br>
+11° staatssecretaris van het Brussels Hoofdstedelijk Gewest;<br>
+12° lid van de Vlaamse Gemeenschapscommissie.<br>
+<br>
+Het politiek verlof van ambtswege vangt aan op de datum van de eedaflegging voor één van de bovenvermelde mandaten.
 
 ### ART. 31.
 

@@ -2,16 +2,16 @@
   "codex_id": 1000390,
   "title": "Decreet van 1993-04-28 betreffende het onderwijs IV",
   "type": "Decreet",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1000390/VolledigDocument?datum=2006-09-01",
-  "source_sha256": "dae7c95f11c15f5d1be4919e3005390d9e1a9164eb1140763adbab770400eb89",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1000390/VolledigDocument?datum=2006-11-30",
+  "source_sha256": "0d940bfbecdbc5bbd900c2ff3635509ab2722301c6c35a592ee5962a10684b87",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1000390&param=informatie",
-  "as_of": "2006-09-01",
+  "as_of": "2006-11-30",
   "made": "1993-04-28",
   "gazette": "1993-05-28",
   "numac": 1993035650,
   "document_start": null,
   "document_end": null,
-  "in_force": "2006-09-01",
+  "in_force": "2006-11-30",
   "article_versions": 129,
-  "record_form": "consolidated version as in force on 2006-09-01; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2006-11-30; future article versions excluded; article text as the API gives it"
 }
