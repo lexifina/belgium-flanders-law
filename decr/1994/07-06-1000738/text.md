@@ -90,7 +90,7 @@ De bedragen verbonden aan de subjectieve rechten ontstaan uit vaste subsidiebesl
 
 ### ART. 17.
 
-§ 1. De Vlaamse regering wordt gemachtigd toe te treden tot de VZW Egalisatiefonds voor de responsabiliseringsbijdrage.<br /><br />§ 2. De VZW Egalisatiefonds voor de responsabiliseringsbijdrage heeft tot doel de uitvoering van de verplichtingen uit de bijzondere wet van 27 april 1994 tot instelling van de responsabiliseringsbijdragen ten laste van sommige werkgevers van de openbare sector.<br /><br />§ 3. Teneinde de op te richten vereniging zonder winstgevend doel in staat de stellen de in § 2 vermelde verplichtingen na te komen, wordt in de begroting van de Vlaamse Gemeenschap een jaarlijkse dotatie ingeschreven.<br /><br />§ 4. De statuten en de controlemodaliteiten van de vereniging worden aan de Vlaamse Raad meegedeeld.
+§ 1. De Vlaamse regering wordt gemachtigd toe te treden tot de VZW Egalisatiefonds voor de responsabiliseringsbijdrage.<br /><br />§ 2. De VZW Egalisatiefonds voor de responsabiliseringsbijdrage heeft tot doel de uitvoering van de verplichtingen uit de bijzondere wet van 27 april 1994 tot instelling van de responsabiliseringsbijdragen ten laste van sommige werkgevers van de openbare sector.<br /><br />§ 3. Teneinde de op te richten vereniging zonder winstgevend doel in staat de stellen de in § 2 vermelde verplichtingen na te komen, wordt in de begroting van de Vlaamse Gemeenschap een jaarlijkse dotatie ingeschreven.<br /><br />§ 4. De statuten en de controlemodaliteiten van de vereniging worden aan het Vlaams Parlement meegedeeld.
 
 ## HOOFDSTUK VIII WELZIJN
 
