@@ -1,0 +1,17 @@
+{
+  "codex_id": 1015167,
+  "title": "Besluit van de Vlaamse Regering van 2006-09-01 houdende afwijking op de rationalisatienorm voor het Koninklijk Atheneum Turnhout en het Koninklijk Atheneum Berchem",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1015167/VolledigDocument?datum=2006-12-01",
+  "source_sha256": "704626c1aade7bd09ab4872ac6d050b347de19fa36ee6d56e10cec38a889586b",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1015167&param=informatie",
+  "as_of": "2006-12-01",
+  "made": "2006-09-01",
+  "gazette": "2006-11-21",
+  "numac": 2006036642,
+  "document_start": "2006-12-01",
+  "document_end": null,
+  "in_force": "2006-12-01",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2006-12-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
