@@ -2,16 +2,16 @@
   "codex_id": 1013169,
   "title": "Omzendbrief van 2004-06-04 VR 2004/26 openbaarheid van bestuur",
   "type": "Omzendbrief",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1013169/VolledigDocument?datum=2006-06-01",
-  "source_sha256": "3dad0a42f048078b1d12d64fb97631bd656b7c33482f49895df5e812f8c9b864",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1013169/VolledigDocument?datum=2006-12-01",
+  "source_sha256": "c5b9a3fa38b808af3d20e23da9f6af3c367d30e88856ab31589b83048f08bbf7",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1013169&param=informatie",
-  "as_of": "2006-06-01",
+  "as_of": "2006-12-01",
   "made": "2004-06-04",
   "gazette": "2004-07-01",
   "numac": 2004036017,
   "document_start": "2004-07-01",
   "document_end": "2006-11-30",
-  "in_force": "2006-06-01",
+  "in_force": "2006-12-01",
   "article_versions": 1,
-  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2006-12-01; future article versions excluded; article text as the API gives it"
 }
