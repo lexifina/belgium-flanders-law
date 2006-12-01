@@ -1,0 +1,17 @@
+{
+  "codex_id": 1015356,
+  "title": "Omzendbrief van 2006-12-01 ABB 2006/19 aangaande het besluit van de Vlaamse Regering van 24 november 2006 betreffende de inwerkingtreding van sommige bepalingen van het gemeentedecreet van 15 juli 2005 en ter uitvoering van artikelen 160 en 179 van het gemeentedecreet van 15 juli 2005",
+  "type": "Omzendbrief",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1015356/VolledigDocument?datum=2006-12-01",
+  "source_sha256": "fdafc991cea66a5bc37547519c16f6becc1a9f993bfa28c8e3a24df0f6a10db0",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1015356&param=informatie",
+  "as_of": "2006-12-01",
+  "made": "2006-12-01",
+  "gazette": "2007-01-10",
+  "numac": 2006037079,
+  "document_start": "2006-12-01",
+  "document_end": null,
+  "in_force": "2006-12-01",
+  "article_versions": 2,
+  "record_form": "consolidated version as in force on 2006-12-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
