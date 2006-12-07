@@ -1,0 +1,17 @@
+{
+  "codex_id": 1015259,
+  "title": "Besluit van de Vlaamse Regering van 2006-11-10 tot vaststelling van de voorwaarden voor de overname van personeelsleden van de VZW Info-Toerisme door het intern verzelfstandigd agentschap Toerisme Vlaanderen",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1015259/VolledigDocument?datum=2006-12-07",
+  "source_sha256": "1f51005f83b05a5365a27194f5a91856d09bff04f49adb85045690552504b97c",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1015259&param=informatie",
+  "as_of": "2006-12-07",
+  "made": "2006-11-10",
+  "gazette": "2006-12-07",
+  "numac": 2006036905,
+  "document_start": "2006-12-07",
+  "document_end": null,
+  "in_force": "2006-12-07",
+  "article_versions": 6,
+  "record_form": "consolidated version as in force on 2006-12-07; oldest version available; future article versions excluded; article text as the API gives it"
+}
