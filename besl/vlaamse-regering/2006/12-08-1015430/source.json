@@ -1,0 +1,17 @@
+{
+  "codex_id": 1015430,
+  "title": "Besluit van de Vlaamse Regering van 2006-12-08 tot overschrijving tussen vastleggingsmachtigingen en ordonnanceringskredieten van de begroting van het Vlaams Infrastructuurfonds voor Persoonsgebonden Aangelegenheden voor het begrotingsjaar 2006",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1015430/VolledigDocument?datum=2006-12-08",
+  "source_sha256": "919b4dba2adbf958a927fa333aaa6431719692b632bdac66933497197430d143",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1015430&param=informatie",
+  "as_of": "2006-12-08",
+  "made": "2006-12-08",
+  "gazette": "2007-02-02",
+  "numac": 2007035108,
+  "document_start": "2006-12-08",
+  "document_end": null,
+  "in_force": "2006-12-08",
+  "article_versions": 5,
+  "record_form": "consolidated version as in force on 2006-12-08; oldest version available; future article versions excluded; article text as the API gives it"
+}
