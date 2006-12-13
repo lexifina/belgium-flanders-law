@@ -22,7 +22,7 @@ De DAC-projecten van landelijk erkende of gesubsidieerde organisaties worden ger
 
 ### ART. 5.
 
-Een organisatie die een geregulariseerde DAC'er in dienst heeft, ontvangt een subsidie voor de loonkos-ten van dat personeelslid. Die subsidie bedraagt maximaal de volledig verplichte loonkosten overeenkomstig het - op het moment van de regularisatie bepaalde - barema. Dit recht op subsidies blijft behouden zolang een geregulariseerde DAC'er in dienst is en aan alle voorwaarden voldaan is.<br /><br />Er kan pas een herverdeling plaatsvinden zoals bepaald in de artikelen 9 en 16, na vervanging van de geregulariseerde DAC'er zoals bepaald in artikel 6.
+Een organisatie die een geregulariseerde DAC'er in dienst heeft, ontvangt een subsidie voor de loonkos-ten van dat personeelslid. Die subsidie bedraagt maximaal de volledig verplichte loonkosten overeenkomstig het - op het moment van de regularisatie bepaalde - barema. Dit recht op subsidies blijft behouden zolang een geregulariseerde DAC'er in dienst is en aan alle voorwaarden voldaan is.<br /><br />Er kan pas een herverdeling plaatsvinden zoals bepaald in de artikelen 9 en 16, na vervanging van de geregulariseerde DAC'er zoals bepaald in artikel 6.<br /><br />Als bij de afrekening van het vorige werkingsjaar blijkt dat de uitgekeerde voorschotten hoger zijn dan de verantwoorde uitgaven, dan wordt het teveel ingehouden van het nog uit te keren saldo van de subsidie, toegekend aan de privaatrechtelijke of publiekrechtelijke rechtspersoon, bedoeld in § 1 en wordt het eventueel daarna nog resterende bedrag in mindering gebracht op de voorschotten toegekend voor het daaropvolgende werkingsjaar, tot een maximum van de subsidie toegekend voor dat werkingsjaar.<br />
 
 ### ART. 6.
 

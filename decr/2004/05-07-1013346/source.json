@@ -2,16 +2,16 @@
   "codex_id": 1013346,
   "title": "Decreet van 2004-05-07 houdende aanvullende subsidies voor tewerkstelling in de culturele sector",
   "type": "Decreet",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1013346/VolledigDocument?datum=2006-06-01",
-  "source_sha256": "4a9b556044a6d041b4ab2e7ad7f62f7160050d15542b9133ebcbfbc0699cdea7",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1013346/VolledigDocument?datum=2006-12-13",
+  "source_sha256": "8eb78f3d273b15f9231f83adff0527f9174242a36c0716c63c711fe133c5909b",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1013346&param=informatie",
-  "as_of": "2006-06-01",
+  "as_of": "2006-12-13",
   "made": "2004-05-07",
   "gazette": "2004-08-25",
   "numac": 2004036336,
   "document_start": null,
   "document_end": null,
-  "in_force": "2006-06-01",
+  "in_force": "2006-12-13",
   "article_versions": 18,
-  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2006-12-13; future article versions excluded; article text as the API gives it"
 }
