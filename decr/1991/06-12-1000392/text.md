@@ -654,31 +654,19 @@ De universiteiten kunnen de kosten die voortspruiten uit overeenkomsten die in h
 
 ### ART. 130.
 
-§ 1. Voor de jaren (verv. decr. 7 december 2001, art. 6, I: 1 januari 2001) ] 2001 tot en met 2006 (verv. decr. 4 april 2003, art. 160, I: 1 januari 2003) ] bestaat de werkingsuitkering van de universiteiten uit de volgende componenten:<br>
-<br>
+§ 1. Voor de jaren 2001 tot en met 2007 bestaat de werkingsuitkering van de universiteiten uit de volgende componenten:<br>
 1° een forfaitair bedrag zoals vastgesteld in § 2;<br>
-<br>
 2° een extra bedrag zoals vastgesteld in § 3 ter aanvulling op het forfaitair bedrag;<br>
-<br>
-3° een bedrag voor de voortgezette academische opleidingen zoals vastgesteld in § 4; [ (verv. decr. 7 december 2001, art. 6, I: 1 januari 2001) ]<br>
-<br>
-4° aanvullende middelen waarvan de hoogte en de wijze van toekenning zijn bepaald in § 5. [(verv. decr. 4 april 2003, art. 160, I: 1 januari 2003)]<br>
+3° een bedrag voor de voortgezette academische opleidingen zoals vastgesteld in § 4;<br>
+4° aanvullende middelen waarvan de hoogte en de wijze van toekenning zijn bepaald in § 5.<br>
 <br>
 § 2. 1° Voor het jaar 2001 is het forfaitair bedrag, uitgedrukt in miljoen Belgische frank, voor elke universiteit vastgesteld als volgt: 2001<br>
-<br>
 1. Katholieke Universiteit Leuven 7.654,5<br>
-<br>
 2. Vrije Universiteit Brussel 2.668,9<br>
-<br>
 3. Universiteit Antwerpen 2.868,0<br>
-<br>
 4. Limburgs Universitair Centrum 692,9<br>
-<br>
 5. Katholieke Universiteit Brussel 177,4<br>
-<br>
 6. Universiteit Gent 5.994,9<br>
-<br>
-[ (verv. decr. 14 februari 2003, art. V. 38, I: 1 januari 2001) ]<br>
 <br>
 2° voor de jaren 2002, 2003, 2004, 2005 en 2006 is het forfaitair bedrag, uitgedrukt in duizend euro, voor elke universiteit vastgesteld als volgt:
 <table border="1" cellpadding="0" cellspacing="0" style="border-collapse:collapse">
@@ -810,81 +798,139 @@ De universiteiten kunnen de kosten die voortspruiten uit overeenkomsten die in h
 
 <p>&nbsp;</p>
 <br>
+3° Voor het jaar 2007 is het forfaitair bedrag, uitgedrukt in duizend euro, voor elke universiteit vastgesteld als volgt :
+<table border="1" cellpadding="0" cellspacing="0" style="border-collapse:collapse">
+	<tbody>
+		<tr>
+			<td colspan="2" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:460.6pt">
+			<p>2007</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:347.4pt">
+			<p>1.Katholieke Universiteit Leuven</p>
+
+			<p>2. Vrije Universiteit Brussel</p>
+
+			<p>3. Universiteit Antwerpen</p>
+
+			<p>4. Universiteit Hasselt</p>
+
+			<p>5. transnationale Universiteit Limburg</p>
+
+			<p>6. Katholieke Universiteit Brussel</p>
+
+			<p>7. Universiteit Gent</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:113.2pt">
+			<p>192.804</p>
+
+			<p>68.202</p>
+
+			<p>72.210</p>
+
+			<p>13.845</p>
+
+			<p>4.501</p>
+
+			<p>4.785</p>
+
+			<p>150.454</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+<p>&nbsp;</p>
+<br>
 § 3. 1° De Vlaamse universiteiten ontvangen voor het jaar 2001 extra bijdragen aan werkingsuitkeringen, uitgedrukt in miljoen Belgische frank: 2001<br>
-<br>
 1. Katholieke Universiteit Leuven 93,7<br>
-<br>
 2. Vrije Universiteit Brussel 28,4<br>
-<br>
 3. Universiteit Antwerpen 41,8<br>
-<br>
 4. Limburgs Universitair Centrum 8,6<br>
-<br>
 5. Katholieke Universiteit Brussel 2,4<br>
-<br>
 6. Universiteit Gent 214,0<br>
-<br>
-[ (verv. decr. 7 december 2001, art. 6, I: 1 januari 2001) ]<br>
 <br>
 2° de Vlaamse universiteiten ontvangen voor de jaren 2002, 2003, 2004, 2005 en 2006 extra bijdragen aan werkingsuitkeringen, uitgedrukt in duizend euro:<br>
 <br>
 2002 2003 2004<br>
-<br>
 1. Katholieke Universiteit Leuven 3.939 5.588 7.122<br>
-<br>
 2. Vrije Universiteit Brussel 1.319 1.924 2.375<br>
-<br>
 3. Universiteit Antwerpen 1.998 2.945 3.765<br>
-<br>
-4. Limburgs Universitair Centrum 319 476 634<br>
-<br>
+4. Limburgs Universitair Centrum 319 476 897<br>
 5. Transnationale Universiteit Limburg 105 156 209<br>
-<br>
 6. Katholieke Universiteit Brussel 112 161 196<br>
-<br>
 7. Universiteit Gent 8.780 11.847 14.616<br>
 <br>
 2005 2006<br>
-<br>
 1. Katholieke Universiteit Leuven 7.122 7.122<br>
-<br>
 2. Vrije Universiteit Brussel 2.375 2.375<br>
-<br>
 3. Universiteit Antwerpen 3.765 3.765<br>
-<br>
 4. Limburgs Universitair Centrum 634 634<br>
-<br>
 5. Transnationaler Universiteit Limburg 209 209<br>
-<br>
 6. Katholieke Universiteit Brussel 196 196<br>
-<br>
 7. Universiteit Gent 17.199 19.686<br>
 <br>
-[ (verv. decr. 24 juni 2005, art. 33, I: 1 januari 2005) ]<br>
+3° De Vlaamse universiteiten ontvangen voor het jaar 2007 extra bijdragen aan werkingsuitkeringen, uitgedrukt in duizend euro :
+<table border="1" cellpadding="0" cellspacing="0" style="border-collapse:collapse">
+	<tbody>
+		<tr>
+			<td colspan="2" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:460.6pt">
+			<p>2007</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:347.4pt">
+			<p>1.Katholieke Universiteit Leuven</p>
+
+			<p>2. Vrije Universiteit Brussel</p>
+
+			<p>3. Universiteit Antwerpen</p>
+
+			<p>4. Universiteit Hasselt</p>
+
+			<p>5. transnationale Universiteit Limburg</p>
+
+			<p>6. Katholieke Universiteit Brussel</p>
+
+			<p>7. Universiteit Gent</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:113.2pt">
+			<p>7.122</p>
+
+			<p>2.375</p>
+
+			<p>3.765</p>
+
+			<p>897</p>
+
+			<p>209</p>
+
+			<p>196</p>
+
+			<p>22.086</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+<p>&nbsp;</p>
 <br>
-§ 4. 1° Voor het jaar 2001 wordt aan de gezamenlijke universiteiten een bedrag van 470,7 miljoen frank toegekend voor de organisatie van de voortgezette academische opleidingen, zoals gedefinieerd in artikel 8. [ (verv. decr. 7 december 2001, art. 6, I: 1 januari 2001) ]<br>
-<br>
-2° In 2002 [ (verv. decr. 4 april 2003, art. 160, I: 1 januari 2003) ] wordt aan de gezamenlijke universiteiten een bedrag van 11.668.000 euro toegekend voor de organisatie van de voortgezette academische opleidingen, zoals gedefinieerd in artikel 8. [ (verv. decr. 7 december 2001, art. 6, I: 1 januari 2001) ]<br>
-<br>
-Met ingang van 1 januari 2003 worden de eerste en tweede alinea opgeheven. [ (ing. decr. 4 april 2003, art. 160, I: 1 januari 2003) ]<br>
-<br>
-3° Indien een universiteit de in 2° diploma's nog niet mocht uitreiken tijdens het voorlaatste en tweede voorlaatste academiejaar, wordt het gemiddelde aantal diploma's berekend op basis van het aantal afgesloten academiejaren waarin de betrokken universiteit dit wel mocht. [ (ing. decr. 14 februari 2003, art. V. 31, I: 1 januari 2002) ]<br>
+§ 4. 1° Voor het jaar 2001 wordt aan de gezamenlijke universiteiten een bedrag van 470,7 miljoen frank toegekend voor de organisatie van de voortgezette academische opleidingen, zoals gedefinieerd in artikel 8.<br>
+2° In 2002 wordt aan de gezamenlijke universiteiten een bedrag van 11.668.000 euro toegekend voor de organisatie van de voortgezette academische opleidingen, zoals gedefinieerd in artikel 8. Met ingang van 1 januari 2003 worden de eerste en tweede alinea opgeheven.<br>
+3° Indien een universiteit de in 2° diploma's nog niet mocht uitreiken tijdens het voorlaatste en tweede voorlaatste academiejaar, wordt het gemiddelde aantal diploma's berekend op basis van het aantal afgesloten academiejaren waarin de betrokken universiteit dit wel mocht.<br>
 <br>
 Voor het berekenen van de toelagen voor de voortgezette academische opleidingen wordt het totale bedrag zoals vastgelegd in het eerste lid van dit artikel omgeslagen over de verschillende universiteiten op basis van het gemiddelde aantal diploma's "Gediplomeerden in aanvullende studies", zoals gedefinieerd in artikel 8, en het gemiddelde aantal diploma's "Gediplomeerden in de gespecialiseerde studies", zoals gespecificeerd in artikel 8, uitgereikt tijdens het voorlaatste en tweede voorlaatste academiejaar. Het diploma "Gediplomeerde in de gespecialiseerde studies" wordt dubbel aangerekend.<br>
 <br>
 § 5. 1° De volgende aanvullende middelen, uitgedrukt in miljoen Belgische frank, worden op basis van convenants in 2001 verdeeld:<br>
 <br>
-2001: [ (verv. decr. 7 december 2001, art. 6, I: 1 januari 2001) ] 71,1 [ (verv. decr. 21 december 2001, art. 8, I: 1 januari 2002) ]<br>
+2001: 71,1<br>
 <br>
 2° De volgende aanvullende middelen, uitgedrukt in duizend euro, worden onder de universiteiten verdeeld overeenkomstig het bepaalde in artikel 130ter:<br>
 <br>
-2003 2004 2005 2006<br>
+2003 2004 2005 2006 2007<br>
 <br>
-9.381 9.574* 14.096 15.055<br>
-<br>
-[(verv. decr. 4 april 2003, art. 160, I: 1 januari 2003)]<br>
-<br>
-[ (verv. decr. 19 december 2003, art. 91, I: 1 januari 2004) ]<br>
+9.381 9.574* 14.096 15.055 * 15.055.<br>
 <br>
 § 6. Vanaf het begrotingsjaar 2002 worden de in §§ 2 tot 5 vermelde bedragen geïndexeerd aan de hand van de volgende indexformule:<br>
 <br>
@@ -894,31 +940,15 @@ I: de indexformule;<br>
 <br>
 L1/L0: de verhouding tussen de geraamde index van de eenheidsloonkosten op het einde van het desbetreffende begrotingsjaar en de index van de eenheidsloonkosten op het einde van begrotingsjaar 2001;<br>
 <br>
-C1/C0: de verhouding tussen de geraamde index van de consumptieprijzen op het einde van het desbetreffende begrotingsjaar en de index van de consumptieprijzen op het einde van begrotingsjaar 2001. [ (verv. decr. 7 december 2001, art. 6, I: 1 januari 2001) ]
+C1/C0: de verhouding tussen de geraamde index van de consumptieprijzen op het einde van het desbetreffende begrotingsjaar en de index van de consumptieprijzen op het einde van begrotingsjaar 2001.
 
 ### ART. 130bis.
 
-§ 1. Naast de werkingstoelagen voorzien in artikel 130, §§ 1 tot 3 ontvangt de Universiteit Ant-werpen in [ (verv. decr. 7 december 2001, art. 7, I: 1 januari 2001) ] 2002, 2003, 2004, 2005 en 2006 (verv. decr. 4 april 2003, art. 161, I: 1 januari 2003) ] voor de inrichting van de tweede cyclus van de opleidingen communicatiewetenschappen en biomedische wetenschappen [ (verv. decr. 7 december 2001, art. 7, I: 1 januari 2001) ] en in 2006 voor de inrichting van de tweede cyclus van de opleidingen wijsbegeerte, geschiedenis en toegepaste biologische wetenschappen georganiseerd conform de voorschriften vervat in artikel 29 van het decreet van betreffende de herstructurering van het hoger onderwijs in Vlaanderen [ (ing. decr. 4 april 2003, art. 161, I: 1 januari 2003) ] jaarlijks een bedrag dat wordt bepaald op basis van het aantal voor de tweede cyclus van deze opleidingen bepaalde onderwijsbelastingseenheden vermenigvuldigd met een basis-eenheidsprijs per onderwijsbelastingseenheid. Deze onderwijsbelastingseenheden worden bepaald conform de regels vastgelegd in deze afdeling. Deze basiseenheidsprijs bedraagt [ (verv. decr. 7 december 2001, art. 7, I: 1 januari 2001) ] 2.593 euro [ (verv. decr. 14 februari 2003, art. V. 32, I: 1 januari 2002) ] en wordt vanaf het begrotingsjaar 2002 geindexeerd volgens de formule vastgelegd in artikel 130, § 6. [(verv. decr. 7 december 2001, art. 7, I: 1 januari 2001)]<br>
-<br>
-§ 2. 1° Naast de werkingstoelagen voorzien in artikel 130, §§ 1 tot 3, ontvangt de transnationale Universiteit Limburg in [ (verv. decr. 14 februari 2003, art. V. 32, I: 1 januari 2002) ] 2002, 2003, 2004, 2005 en 2006 [ (verv. decr. 4 april 2003, art. 161, I: 1 januari 2003) ] voor de inrichting van de opleiding onderwijskunde en de derde en vierde studiejaren van de andere ingerichte opleidingen jaarlijks een bedrag dat wordt vastgesteld op basis van het aantal voor de ingerichte studiejaren bepaalde onderwijsbelastingseenheden vermenigvuldigd met tweemaal de basiseenheidsprijs per onderwijsbelastingseenheid zoals bedoeld in § 1.<br>
-<br>
-2° De onderwijsbelastingseenheden worden als volgt vastgesteld:<br>
-<br>
-Het aantal onderwijsbelastingseenheden is gelijk aan de som van de producten van het aantal financierbare studenten ingeschreven voor de hierboven vermelde opleidingen of voor het examen van doctor in iedere financieringsgroep enerzijds en het overeenkomstige punten gewicht anderzijds. De financieringsgroepen worden vastgesteld overeenkomstig artikel 131. Het puntengewicht wordt vastgesteld overeenkomstig artikel 135.<br>
-<br>
-Voor het vaststellen van het aantal financierbare eenheden komen alleen de studenten in aanmerking die in het academiejaar dat aanvangt in het jaar voorafgaand aan het begrotingsjaar, met inachtneming van het bepaalde in de artikelen 8 en 9 van het verdrag tussen de Vlaamse Gemeenschap en het Koninkrijk der Nederlanden inzake de transnationale Universiteit Limburg, ondertekend te Maastricht op 18 januari 2001 en goedgekeurd bij het decreet van 13 juli 2001 en de door de transnationale Universiteit Limburg vastgestelde reglementering terzake, regelmatig hebben ingeschreven met het oog op het volgen van de hierboven vermelde opleidingen. De inschrijvingen voor het examen van doctor worden in aanmerking genomen als financierbare eenheid voor het academiejaar volgende op het academiejaar tijdens hetwelk het proefschrift werd verdedigd.<br>
-<br>
-De maximale financieringsduur bedraagt voor de vierjarige en de vijfjarige opleidingen respectievelijk acht jaar en tien jaar voor een voltijds ingeschreven student en twaalf jaar en veertien jaar voor een deeltijds ingeschreven student.<br>
-<br>
-Met het oog op het vaststellen van de uitgavenbegroting van de Vlaamse Gemeenschap raamt de universiteit het aantal onderwijsbelastingseenheden voor het betrokken academiejaar. Zij deelt het geraamde cijfer ten laatste op 31 mei van het jaar dat het betrokken begrotingsjaar voorafgaat mee aan de administratie hoger onderwijs. Ten laatste op 31 januari van het betrokken begrotingsjaar deelt zij het definitief vastgestelde aantal onderwijsbelastingseenheden mee aan dezelfde administratie. Bij de budgetcontrole van het uitgaven decreet van de Vlaamse Gemeenschap wordt het definitieve financieringsbedrag vastgesteld. Voor het vaststellen van het aantal onderwijsbelastingseenheden van de bestaande opleidingen kan de universiteit zich baseren op het voorafgaandelijk vastgestelde cijfer. Voor de nieuwe opleidingen moet de universiteit een ad hoc raming vaststellen. [ (verv. decr. 14 februari 2003, art. V. 32, I: 1 januari 2002) ]<br>
-<br>
-§ 3. De in §§ 1 en 2 vermelde bedragen worden elk jaar afgenomen van de bedragen vermeld in artikel 130, § 5. [ (ing. decr. 14 februari 2003, art. V. 32, I: 1 januari 2002) ]<br>
-<br>
-§ 4. Vanaf 2007 stelt de Vlaamse Gemeenschap werkingsmiddelen beschikbaar van de universiteiten voor het dekken van de kosten van de organisatie van het derde studiejaar van de bachelorsopleidingen in die studiegebieden of delen van studiegebieden waarin de universiteiten alleen de graad van bachelor kunnen verlenen overeenkomstig de bepalingen inzake de onderwijsbevoegdheid. Vanaf 2007 stelt de Vlaamse Gemeenschap werkingsmiddelen beschikbaar van de Universiteit Antwerpen om de extra kosten te dekken van de organisatie van de nieuwe opleidingen die de Universiteit Antwerpen kan aanbieden in toepassing van van het decreet van 4 april 2003 betreffende de herstructurering van het hoger onderwijs in Vlaanderen. [(ing. decr. 4 april 2003, art. 161, I: 1 januari 2003)]
+§ 1.Naast de werkingstoelagen voorzien in artikel 130, §§ 1 tot 3, ontvangt de Universiteit Antwerpen in 2002, 2003, 2004, 2005, 2006 en 2007 voor de inrichting van de tweede cyclus van de opleidingen communicatiewetenschappen en biomedische wetenschappen en in 2006 en 2007 voor de inrichting van de tweede cyclus van de opleidingen wijsbegeerte, geschiedenis en toegepaste biologische wetenschappen georganiseerd conform de voorschriften vervat in artikel 29 van het decreet van 4 april 2003 betreffende de herstructurering van het hoger onderwijs in Vlaanderen jaarlijks een bedrag dat wordt bepaald op basis van het aantal voor de tweede cyclus van deze opleidingen bepaalde onderwijsbelastingseenheden vermenigvuldigd met een basiseenheidsprijs per onderwijsbelastingseenheid. Deze onderwijsbelastingseenheden worden bepaald conform de regels vastgelegd in deze afdeling. Deze basiseenheidsprijs bedraagt 2.593 euro en wordt vanaf het begrotingsjaar 2002 geindexeerd volgens de formule vastgelegd in artikel 130, § 6. <br /><br />§ 2. 1° Naast de werkingstoelagen voorzien in artikel 130, §§ 1 tot 3, ontvangt de transnationale Universiteit Limburg in 2002, 2003, 2004, 2005, 2006 en 2007 voor de inrichting van de opleiding onderwijskunde en de derde en vierde studiejaren van de andere ingerichte opleidingen jaarlijks een bedrag dat wordt vastgesteld op basis van het aantal voor de ingerichte studiejaren bepaalde onderwijsbelastingseenheden vermenigvuldigd met tweemaal de basiseenheidsprijs per onderwijsbelastingseenheid zoals bedoeld in § 1.<br />2° De onderwijsbelastingseenheden worden als volgt vastgesteld:<br />Het aantal onderwijsbelastingseenheden is gelijk aan de som van de producten van het aantal financierbare studenten ingeschreven voor de hierboven vermelde opleidingen of voor het examen van doctor in iedere financieringsgroep enerzijds en het overeenkomstige punten gewicht anderzijds. De financieringsgroepen worden vastgesteld overeenkomstig artikel 131. Het puntengewicht wordt vastgesteld overeenkomstig artikel 135.<br /><br />Voor het vaststellen van het aantal financierbare eenheden komen alleen de studenten in aanmerking die in het academiejaar dat aanvangt in het jaar voorafgaand aan het begrotingsjaar, met inachtneming van het bepaalde in de artikelen 8 en 9 van het verdrag tussen de Vlaamse Gemeenschap en het Koninkrijk der Nederlanden inzake de transnationale Universiteit Limburg, ondertekend te Maastricht op 18 januari 2001 en goedgekeurd bij het decreet van 13 juli 2001 en de door de transnationale Universiteit Limburg vastgestelde reglementering terzake, regelmatig hebben ingeschreven met het oog op het volgen van de hierboven vermelde opleidingen. De inschrijvingen voor het examen van doctor worden in aanmerking genomen als financierbare eenheid voor het academiejaar volgende op het academiejaar tijdens hetwelk het proefschrift werd verdedigd.<br /><br />De maximale financieringsduur bedraagt voor de vierjarige en de vijfjarige opleidingen respectievelijk acht jaar en tien jaar voor een voltijds ingeschreven student en twaalf jaar en veertien jaar voor een deeltijds ingeschreven student.<br /><br />Met het oog op het vaststellen van de uitgavenbegroting van de Vlaamse Gemeenschap raamt de universiteit het aantal onderwijsbelastingseenheden voor het betrokken academiejaar. Zij deelt het geraamde cijfer ten laatste op 31 mei van het jaar dat het betrokken begrotingsjaar voorafgaat mee aan de administratie hoger onderwijs. Ten laatste op 31 januari van het betrokken begrotingsjaar deelt zij het definitief vastgestelde aantal onderwijsbelastingseenheden mee aan dezelfde administratie. Bij de budgetcontrole van het uitgaven decreet van de Vlaamse Gemeenschap wordt het definitieve financieringsbedrag vastgesteld. Voor het vaststellen van het aantal onderwijsbelastingseenheden van de bestaande opleidingen kan de universiteit zich baseren op het voorafgaandelijk vastgestelde cijfer. Voor de nieuwe opleidingen moet de universiteit een ad hoc raming vaststellen. <br /><br />§ 3. De in §§ 1 en 2 vermelde bedragen worden elk jaar afgenomen van de bedragen vermeld in artikel 130, § 5. <br /><br />§ 4. Vanaf 2007 stelt de Vlaamse Gemeenschap werkingsmiddelen beschikbaar van de universiteiten voor het dekken van de kosten van de organisatie van het derde studiejaar van de bachelorsopleidingen in die studiegebieden of delen van studiegebieden waarin de universiteiten alleen de graad van bachelor kunnen verlenen overeenkomstig de bepalingen inzake de onderwijsbevoegdheid. Vanaf 2007 stelt de Vlaamse Gemeenschap werkingsmiddelen beschikbaar van de Universiteit Antwerpen om de extra kosten te dekken van de organisatie van de nieuwe opleidingen die de Universiteit Antwerpen kan aanbieden in toepassing van van het decreet van 4 april 2003 betreffende de herstructurering van het hoger onderwijs in Vlaanderen.
 
 ### ART. 130ter.
 
-§ 1. De aanvullende middelen, bepaald in artikel 130, § 5, verminderd met de bedragen vermeld in artikel 130bis, § 3, voor de begrotingsjaren 2003, 2004 en 2005 worden onder de universiteiten verdeeld op basis van het gemiddeld aantal onderwijsbelastingseenheden per 1 februari 2000 en 2001 bepaald conform de voorschriften van deze afdeling. De aldus berekende aantallen onderwijsbelastingseenheden worden voor elke universiteit vermenigvuldigd met een correctiefactor die gelijk is aan de verhouding van het gemiddelde bedrag van de werkingsuitkering per onderwijsbelastingseenheid van het jaar 2000 voor alle universiteiten samen tot het bedrag van de werkingsuitkering per onderwijsbelastingseenheid van het jaar 2000 voor de betreffende universiteit. De correctiefactor wordt beperkt tot 0,85 of 1,15 naar gelang het geval. Er wordt bij de berekening geen rekening gehouden met de werkingsmiddelen toegekend voor de organisatie van de voortgezette academische opleidingen.<br /><br />§ 2. De middelen bedoeld in § 1 worden toegekend op voorwaarde dat de universiteiten een onderwijsontwikkelingsplan voor de periode 2003-2006 voorleggen aan de Vlaamse regering en na een voorafgaande toetsing van de deugdelijkheid ervan. In dat onderwijsontwikkelingsplan beschrijven de universiteiten de wijze waarop zij voornemens zijn de omvorming van de bestaande opleidingen in bachelors- en mastersopleidingen te realiseren en de wijze waarop zij bij die omvorming de innovatie en de flexibilisering van het onderwijs en leren gestalte geven. Onder innovatie wordt onder meer verstaan het herontwerpen van de curricula naar inhoud, onderwijs- en leervormen, vormen van toetsen en examens, begeleiding van studenten. Onder flexibilisering van het onderwijs en leren wordt onder meer verstaan de ontwikkeling van verschillende wijzen van aanbieden van het onderwijs en van verschillende vormen van begeleiding afgestemd op de beoogde doelgroep, de ontwikkeling van elektronisch studie- en leermateriaal geschikt voor afstandsonderwijs c.q. geschikt voor beroepsactieve mensen, en het beschikbaar stellen van verschillende kennisbronnen. Het onderwijsontwikkelingsplan bevat een tijdspad waarop de belangrijkste mijlpalen zijn aangegeven. [ <span class="reference">(ing. decr. 4 april 2003, art. 162, I: 1 januari 2003)</span> ] Het onderwijsontwikkelingsplan dient in voorkomend geval door de associatie waarvan de universiteit deel uitmaakt, positief te worden geadviseerd. De aanvullende middelen bedoeld in § 1 kunnen ook besteed worden aan projecten van onder-wijskundige en inhoudelijke vernieuwing van het onderwijs binnen de associatie met inbegrip van de academisering van het hoger onderwijs van twee cycli. [ <span class="reference">(verv. decr. 19 maart 2004, art. V.89, I: 1 januari 2003)</span> ]<br /><br />§ 3. De aanvullende middelen bedoeld in § 1 voor het begrotingsjaar 2006 worden toegekend na een positieve evaluatie van de uitvoering per 31 december 2005 van het onderwijsontwikkelingsplan. Daarbij wordt er nagegaan in welke mate en op welke wijze de universiteiten hun doelstellingen eind 2005 al hebben gerealiseerd.<br /><br />§ 4. De aanvullende middelen worden aan de universiteiten betaald in maandelijkse schijven.<br /><br />§ 5. De universiteiten bezorgen hun onderwijsontwikkelingsplan aan de Vlaamse regering ten laatste op 30 september 2003.<br /><br />§ 6. De universiteiten bezorgen een uitvoerig rapport over de realisatie van het onderwijsontwikkelingsplan aan de Vlaamse regering ten laatste op 31 december 2005.<br /><br />§ 7. De Vlaamse regering wint het advies in van onafhankelijke deskundigen die de onderwijsontwikkelingsplannen toetsen op hun deugdelijkheid en die de realisatie ervan eind 2005 evalueren.<br /><br />§ 8. In de jaarverslagen over de jaren 2003 en 2004 rapporteren de universiteiten over de voortgang van de uitvoering van het onderwijsontwikkelingsplan en over de realisaties in het betreffende jaar. In een toelichting bij de begroting voor de jaren 2003, 2004, 2005 en 2006 geven de universiteiten aan hoeveel middelen zij zullen vrijmaken voor de uitvoering van het onderwijsontwikkelingsplan in dat jaar. [ <span class="reference">(ing. decr. 4 april 2003, art. 162, I: 1 januari 2003)</span> ]<br /><br />[§ 9. De aanvullende middelen die in het begrotingsjaar 2002 bij wijze van convenants aan de universiteiten werden toegekend, alsook de aanvullende middelen bedoeld in § 1 die aan de universiteiten worden toegekend, worden niet beschouwd als werkingsuitkering en worden geboekt op de afdeling IV onderzoeksfondsen en wetenschappelijke dienstverlening, onderafdeling Andere Onderzoeksfondsen. [ <span class="reference">(ing. decr. 19 maart 2004, art. V.89, I: 1 januari 2002)</span> ]
+§ 1. De aanvullende middelen, bepaald in artikel 130, § 5, verminderd met de bedragen vermeld in artikel 130bis, § 3, voor de begrotingsjaren 2003, 2004, 2005, 2006 en 2007 worden onder de universiteiten verdeeld op basis van het gemiddeld aantal onderwijsbelastingseenheden per 1 februari 2000 en 2001 bepaald conform de voorschriften van deze afdeling. De aldus berekende aantallen onderwijsbelastingseenheden worden voor elke universiteit vermenigvuldigd met een correctiefactor die gelijk is aan de verhouding van het gemiddelde bedrag van de werkingsuitkering per onderwijsbelastingseenheid van het jaar 2000 voor alle universiteiten samen tot het bedrag van de werkingsuitkering per onderwijsbelastingseenheid van het jaar 2000 voor de betreffende universiteit. De correctiefactor wordt beperkt tot 0,85 of 1,15 naar gelang het geval. Er wordt bij de berekening geen rekening gehouden met de werkingsmiddelen toegekend voor de organisatie van de voortgezette academische opleidingen.<br /><br />§ 2. De middelen bedoeld in § 1 worden toegekend op voorwaarde dat de universiteiten een onderwijsontwikkelingsplan voor de periode 2003-2006 voorleggen aan de Vlaamse regering en na een voorafgaande toetsing van de deugdelijkheid ervan. In dat onderwijsontwikkelingsplan beschrijven de universiteiten de wijze waarop zij voornemens zijn de omvorming van de bestaande opleidingen in bachelors- en mastersopleidingen te realiseren en de wijze waarop zij bij die omvorming de innovatie en de flexibilisering van het onderwijs en leren gestalte geven. Onder innovatie wordt onder meer verstaan het herontwerpen van de curricula naar inhoud, onderwijs- en leervormen, vormen van toetsen en examens, begeleiding van studenten. Onder flexibilisering van het onderwijs en leren wordt onder meer verstaan de ontwikkeling van verschillende wijzen van aanbieden van het onderwijs en van verschillende vormen van begeleiding afgestemd op de beoogde doelgroep, de ontwikkeling van elektronisch studie- en leermateriaal geschikt voor afstandsonderwijs c.q. geschikt voor beroepsactieve mensen, en het beschikbaar stellen van verschillende kennisbronnen. Het onderwijsontwikkelingsplan bevat een tijdspad waarop de belangrijkste mijlpalen zijn aangegeven. Het onderwijsontwikkelingsplan dient in voorkomend geval door de associatie waarvan de universiteit deel uitmaakt, positief te worden geadviseerd. De aanvullende middelen bedoeld in § 1 kunnen ook besteed worden aan projecten van onder-wijskundige en inhoudelijke vernieuwing van het onderwijs binnen de associatie met inbegrip van de academisering van het hoger onderwijs van twee cycli. <br /><br />§ 3. De aanvullende middelen bedoeld in § 1 voor het begrotingsjaar 2006 en 2007 worden toegekend na een positieve evaluatie van de uitvoering per 31 december 2005 van het onderwijsontwikkelingsplan. Daarbij wordt er nagegaan in welke mate en op welke wijze de universiteiten hun doelstellingen eind 2005 al hebben gerealiseerd.<br /><br />§ 4. De aanvullende middelen worden aan de universiteiten betaald in maandelijkse schijven.<br /><br />§ 5. De universiteiten bezorgen hun onderwijsontwikkelingsplan aan de Vlaamse regering ten laatste op 30 september 2003.<br /><br />§ 6. De universiteiten bezorgen een uitvoerig rapport over de realisatie van het onderwijsontwikkelingsplan aan de Vlaamse regering ten laatste op 31 december 2005.<br /><br />§ 7. De Vlaamse regering wint het advies in van onafhankelijke deskundigen die de onderwijsontwikkelingsplannen toetsen op hun deugdelijkheid en die de realisatie ervan eind 2005 evalueren.<br /><br />§ 8. In de jaarverslagen over de jaren 2003 en 2004 rapporteren de universiteiten over de voortgang van de uitvoering van het onderwijsontwikkelingsplan en over de realisaties in het betreffende jaar. In een toelichting bij de begroting voor de jaren 2003, 2004, 2005 en 2006 geven de universiteiten aan hoeveel middelen zij zullen vrijmaken voor de uitvoering van het onderwijsontwikkelingsplan in dat jaar. <br /><br />§ 9. De aanvullende middelen die in het begrotingsjaar 2002 bij wijze van convenants aan de universiteiten werden toegekend, alsook de aanvullende middelen bedoeld in § 1 die aan de universiteiten worden toegekend, worden niet beschouwd als werkingsuitkering en worden geboekt op de afdeling IV onderzoeksfondsen en wetenschappelijke dienstverlening, onderafdeling Andere Onderzoeksfondsen.
 
 ### ART. 131.
 
@@ -994,8 +1024,11 @@ Het aantal onderwijsbelastingseenheden van een universiteit is gelijk aan de som
 	</tbody>
 </table>
 
-<p>(verv. decr. 7 december 2004, art. 9, I: 1 januari 2001) ]<br>
-2° De universiteiten, vermeld in artikel 3, 1°, 2°, b), 3°, 4°, b) en c), en 6°, ontvangen voor de jaren 2005 en 2006 voor de uitgaven die voortvloeien uit de wettelijke en conventionele werkgeversbijdragen en -lasten, met inbegrip van de door de instellingen gefinancierde aanvullende pensioenen, om een gelijkwaardig statuut te verzekeren als voor de universiteiten, vermeld in artikel 3, 2°, a), 4°, a), en 5°, de volgende bedragen, uitgedrukt in duizend euro:<br>
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p>2° De universiteiten, vermeld in artikel 3, 1°, 2°, b), 3°, 4°, b) en c), en 6°, ontvangen voor de jaren 2005 en 2006 voor de uitgaven die voortvloeien uit de wettelijke en conventionele werkgeversbijdragen en -lasten, met inbegrip van de door de instellingen gefinancierde aanvullende pensioenen, om een gelijkwaardig statuut te verzekeren als voor de universiteiten, vermeld in artikel 3, 2°, a), 4°, a), en 5°, de volgende bedragen, uitgedrukt in duizend euro:<br>
 </p>
 
 <table border="1" cellpadding="0" cellspacing="0" style="border-collapse:collapse">
@@ -1073,9 +1106,48 @@ Het aantal onderwijsbelastingseenheden van een universiteit is gelijk aan de som
 
 <p>&nbsp;</p>
 
-<p>(verv. decr. 24 juni 2005, art. 34, I: 1 januari 2005) ]<br>
-<br>
-§ 2. 1° De Vlaamse universiteiten ontvangen voor het jaar 2001 de volgende aanvullende wettelijke en conventionele werkgeversbijdragen, uitgedrukt in miljoen Belgische frank:<br>
+<p>3° De universiteiten, vermeld in artikel 3, 1°, 2°, b) , 3°, 4°, b) en c), en 6°, ontvangen voor het jaar 2007 voor de uitgaven die voortvloeien uit de wettelijke en conventionele werkgeversbijdragen en -lasten, met inbegrip van de door de instellingen gefinancierde aanvullende pensioenen, om een gelijkwaardig statuut te verzekeren als voor de universiteiten, vermeld in artikel 3, 2°, a), 4° a), en 5°, de volgende bedragen, uitgedrukt in duizend euro :<br>
+</p>
+
+<table border="1" cellpadding="0" cellspacing="0" style="border-collapse:collapse">
+	<tbody>
+		<tr>
+			<td colspan="2" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:460.6pt">
+			<p>2007</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:347.4pt">
+			<p>1. Katholieke Universiteit Leuven</p>
+
+			<p>2. Vrije Universiteit Brussel</p>
+
+			<p>3. Universiteit Antwerpen</p>
+
+			<p>4. Universiteit Hasselt</p>
+
+			<p>5. Katholieke Universiteit Brussel</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:113.2pt">
+			<p>9.993</p>
+
+			<p>3.592</p>
+
+			<p>492</p>
+
+			<p>147</p>
+
+			<p>206</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p>§ 2. 1° De Vlaamse universiteiten ontvangen voor het jaar 2001 de volgende aanvullende wettelijke en conventionele werkgeversbijdragen, uitgedrukt in miljoen Belgische frank:<br>
 </p>
 
 <table border="1" cellpadding="0" cellspacing="0" style="border-collapse:collapse">
@@ -1135,8 +1207,7 @@ Het aantal onderwijsbelastingseenheden van een universiteit is gelijk aan de som
 
 <p>&nbsp;</p>
 
-<p>(verv. decr. 7 december 2001, art 9, I: 1 januari 2001) ]<br>
-2° De Vlaamse universiteiten ontvangen voor de jaren 2002 tot en met 2006 de volgende aanvullende wettelijke en conventionele werkgeversbijdragen, uitgedrukt in duizend euro:<br>
+<p>2° De Vlaamse universiteiten ontvangen voor de jaren 2002 tot en met 2006 de volgende aanvullende wettelijke en conventionele werkgeversbijdragen, uitgedrukt in duizend euro:<br>
 </p>
 
 <table border="1" cellpadding="0" cellspacing="0" style="border-collapse:collapse">
@@ -1268,9 +1339,50 @@ Het aantal onderwijsbelastingseenheden van een universiteit is gelijk aan de som
 
 <p>&nbsp;</p>
 
-<p>(verv. decr. 24 juni 2005, art. 34, I: 1 januari 2005) ]<br>
-<br>
-§ 3. De in §§ 1 en 2 vermelde bedragen worden vanaf begrotingsjaar 2002 geïndexeerd volgens de indexeringsformule L1/L0 zoals bepaald in artikel 130, § 6. [ (verv. decr. 7 december 2001, art. 9, I: 1 januari 2001) ]</p>
+<p>3° De Vlaamse universiteiten ontvangen voor het jaar 2007 de volgende aanvullende wettelijke en conventionele werkgeversbijdragen, uitgedrukt in duizend euro :<br>
+</p>
+
+<table border="1" cellpadding="0" cellspacing="0" style="border-collapse:collapse">
+	<tbody>
+		<tr>
+			<td colspan="2" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:460.6pt">
+			<p>2007</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:347.4pt">
+			<p>1. Katholieke Universiteit Leuven</p>
+
+			<p>2. Vrije Universiteit Brussel</p>
+
+			<p>3. Universiteit Antwerpen</p>
+
+			<p>4. Universiteit Hasselt</p>
+
+			<p>5. Katholieke Universiteit Brussel</p>
+
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:113.2pt">
+			<p>3.109</p>
+
+			<p>840</p>
+
+			<p>51</p>
+
+			<p>32</p>
+
+			<p>63</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p>§ 3. De in §§ 1 en 2 vermelde bedragen worden vanaf begrotingsjaar 2002 geïndexeerd volgens de indexeringsformule L1/L0 zoals bepaald in artikel 130, § 6.</p>
 
 ## AFDELING 2 FINANCIERING VAN DE INVESTERINGEN VAN DE UNIVERSITEITEN
 
@@ -1347,7 +1459,7 @@ Deze investeringen dragen uitsluitend bij tot dekking van de uitgaven die rechts
 
 <p>&nbsp;</p>
 
-<p>2° Het basisbedrag van de investeringskredieten van de universiteiten, uitgedrukt in duizend euro wordt voor de jaren [ (verv. decr. 7 december 2001, art. 10, I: 1 januari 2001) ] 2002, 2003 (verv. decr. 4 april 2003, art. 163, I: 1 januari 2003) ] [... (geschr. decr. 19 december 2003, art. 93, I: 1 januari 2004) ] 2005 en 2006 (verv. decr. 4 april 2003, art. 163, I: 1 januari 2003) ] vastgesteld als volgt:</p>
+<p>2° Het basisbedrag van de investeringskredieten van de universiteiten, uitgedrukt in duizend euro wordt voor de jaren 2002, 2003, 2006 en 2007 vastgesteld als volgt:</p>
 
 <table border="1" cellpadding="0" cellspacing="0" style="border-collapse:collapse">
 	<tbody>
@@ -1465,7 +1577,7 @@ Deze investeringen dragen uitsluitend bij tot dekking van de uitgaven die rechts
 
 <p>&nbsp;</p>
 
-<p>Deze basisbedragen (prijsniveau 2001) worden gendexeerd zoals vermeld in § 2. [ (verv. decr. 24 december 2004, art. 9, I: 1 januari 2004) ]<br>
+<p>Deze basisbedragen (prijsniveau 2001) worden gendexeerd zoals vermeld in § 2.<br>
 4° Voor het begrotingsjaar 2005 bedraagt het basisbedrag van de investeringskredieten voor de Universiteiten, uitgedrukt in duizend euro:</p>
 
 <table border="1" cellpadding="0" cellspacing="0" style="border-collapse:collapse">
@@ -1525,11 +1637,9 @@ Deze investeringen dragen uitsluitend bij tot dekking van de uitgaven die rechts
 
 <p>&nbsp;</p>
 
-<p>Deze basisbedragen (prijsniveau 2001) worden gendexeerd zoals vermeld in § 2. [ (ing. decr. 24 december 2004, art. 8, I: 1 januari 2005) ]<br>
+<p>Deze basisbedragen (prijsniveau 2001) worden geïndexeerd zoals vermeld in § 2.<br>
 <br>
-Deze basisbedragen (prijsniveau 2001) worden geïndexeerd zoals vermeld in § 2. [ (ing. decr. 19 december 2003, art. 93, I: 1 januari 2004) ]<br>
-<br>
-§ 2. Vanaf het begrotingsjaar 2002 wordt het basisbedrag voor 2001 geïndexeerd als volgt: het basisbedrag wordt vermenigvuldigd met de gewogen evolutie van het jaarlijks gemiddelde van de index van de Associatie van Belgische Experten (ABEX-index) van de vijf voorlaatste kalenderjaren die voorafgaan aan het begrotingsjaar, uitgedrukt in percenten. [ (verv. decr. 7 december 2001, art. 10, I: 1 januari 2001) ]</p>
+§ 2. Vanaf het begrotingsjaar 2002 wordt het basisbedrag voor 2001 geïndexeerd als volgt: het basisbedrag wordt vermenigvuldigd met de gewogen evolutie van het jaarlijks gemiddelde van de index van de Associatie van Belgische Ex-perten (ABEX-index) van de vijf voorlaatste kalenderjaren die voorafgaan aan het begrotingsjaar, uitgedrukt in percenten.</p>
 
 ## [AFDELING 2BIS SOCIALE VOORZIENINGEN VOOR STUDENTEN (ing. decr. 21 December 1994, art. 132,)]
 
@@ -1539,7 +1649,7 @@ Deze basisbedragen (prijsniveau 2001) worden geïndexeerd zoals vermeld in § 2.
 
 ### ART. 140ter.
 
-[ <span class="reference">(ing. decr. 21 december 1994, art. 132)</span> ] § 1. Het bedrag van de sociale toelage van de universiteiten wordt in 2006 vastgesteld als volgt (in duizenden euro):<br /><br />1. Katholieke Universiteit Leuven: 4 846;<br /><br />2. Vrije Universiteit Brussel: 1 977;<br /><br />3. Universiteit Antwerpen: 2 133;<br /><br />4. Katholieke Universiteit Brussel: 180;<br /><br />5. Universiteit Gent: 5 186;<br /><br />6. Universiteit Hasselt: 583;<br /><br />§ 2. Vanaf het begrotingsjaar 2 047 worden de in § 1 vermelde bedragen geïndexeerd aan, de hand van de volgende indexformule:<br /><br />I = 0,50 x (Ll/LO) + 0,50 x (C1/CO).<br /><br />I: de indexformule;<br /><br />L1/L0: de verhouding tussen de geraamde index van de eenheidsloonkosten op het einde van het desbetreffende begrotingsjaar en de index van de eenheidsloonkosten op het einde van begrotingsjaar 2006;<br /><br />Cl/C0: de verhouding tussen de geraamde index van de consumptieprijzen op het einde van het desbetreffende begrotingsjaar en de index van de consumptieprijzen op het einde van begrotingsjaar 2006. [ <span class="reference">(verv. decr. 23 december 2005, art. 22, I: 1 januari 2006)</span> ]
+§ 1. Het bedrag van de sociale toelage van de universiteiten wordt vanaf 2006 vastgesteld als volgt (in duizenden euro's) :<br /> <html xmlns:o=&quote;urn:schemas-microsoft-com:office:office&quote;xmlns:w=&quote;urn:schemas-microsoft-com:office:word&quote;xmlns=&quote;http://www.w3.org/TR/REC-html40&quote;><head><meta http-equiv=Content-Type content=&quote;text/html; charset=windows-1252&quote;><meta name=ProgId content=Word.Document><meta name=Generator content=&quote;Microsoft Word 11&quote;><meta name=Originator content=&quote;Microsoft Word 11&quote;><link rel=File-List href=&quote;20060630-m03-art21_bestanden/filelist.xml&quote;><title>2007</title><!--[if gte mso 9]><xml> <o:DocumentProperties>  <o:Author>Deschrma</o:Author>  <o:Template>Normal</o:Template>  <o:LastAuthor>Deschrma</o:LastAuthor>  <o:Revision>2</o:Revision>  <o:TotalTime>8</o:TotalTime>  <o:Created>2006-12-13T10:00:00Z</o:Created>  <o:LastSaved>2006-12-13T10:00:00Z</o:LastSaved>  <o:Pages>1</o:Pages>  <o:Words>31</o:Words>  <o:Characters>173</o:Characters>  <o:Company>Ministerie van de Vlaamse Gemeenschap</o:Company>  <o:Lines>1</o:Lines>  <o:Paragraphs>1</o:Paragraphs>  <o:CharactersWithSpaces>203</o:CharactersWithSpaces>  <o:Version>11.6408</o:Version> </o:DocumentProperties></xml><![endif]--><!--[if gte mso 9]><xml> <w:WordDocument>  <w:SpellingState>Clean</w:SpellingState>  <w:GrammarState>Clean</w:GrammarState>  <w:HyphenationZone>21</w:HyphenationZone>  <w:PunctuationKerning/>  <w:ValidateAgainstSchemas/>  <w:SaveIfXMLInvalid>false</w:SaveIfXMLInvalid>  <w:IgnoreMixedContent>false</w:IgnoreMixedContent>  <w:AlwaysShowPlaceholderText>false</w:AlwaysShowPlaceholderText>  <w:Compatibility>   <w:BreakWrappedTables/>   <w:SnapToGridInCell/>   <w:WrapTextWithPunct/>   <w:UseAsianBreakRules/>   <w:DontGrowAutofit/>  </w:Compatibility>  <w:BrowserLevel>MicrosoftInternetExplorer4</w:BrowserLevel> </w:WordDocument></xml><![endif]--><!--[if gte mso 9]><xml> <w:LatentStyles DefLockedState=&quote;false&quote; LatentStyleCount=&quote;156&quote;> </w:LatentStyles></xml><![endif]--><style><!-- /* Style Definitions */ p.MsoNormal, li.MsoNormal, div.MsoNormal	&lftaco;mso-style-parent:&quote;&quote;;	margin:0cm;	margin-bottom:.0001pt;	mso-pagination:widow-orphan;	font-size:12.0pt;	font-family:&quote;Times New Roman&quote;;	mso-fareast-font-family:&quote;Times New Roman&quote;;&rgtaco;@page Section1	&lftaco;size:595.3pt 841.9pt;	margin:70.85pt 70.85pt 70.85pt 70.85pt;	mso-header-margin:35.4pt;	mso-footer-margin:35.4pt;	mso-paper-source:0;&rgtaco;div.Section1	&lftaco;page:Section1;&rgtaco;--></style><!--[if gte mso 10]><style> /* Style Definitions */ table.MsoNormalTable	&lftaco;mso-style-name:Standaardtabel;	mso-tstyle-rowband-size:0;	mso-tstyle-colband-size:0;	mso-style-noshow:yes;	mso-style-parent:&quote;&quote;;	mso-padding-alt:0cm 5.4pt 0cm 5.4pt;	mso-para-margin:0cm;	mso-para-margin-bottom:.0001pt;	mso-pagination:widow-orphan;	font-size:10.0pt;	font-family:&quote;Times New Roman&quote;;	mso-ansi-language:#0400;	mso-fareast-language:#0400;	mso-bidi-language:#0400;&rgtaco;table.MsoTableGrid	&lftaco;mso-style-name:Tabelraster;	mso-tstyle-rowband-size:0;	mso-tstyle-colband-size:0;	border:solid windowtext 1.0pt;	mso-border-alt:solid windowtext .5pt;	mso-padding-alt:0cm 5.4pt 0cm 5.4pt;	mso-border-insideh:.5pt solid windowtext;	mso-border-insidev:.5pt solid windowtext;	mso-para-margin:0cm;	mso-para-margin-bottom:.0001pt;	mso-pagination:widow-orphan;	font-size:10.0pt;	font-family:&quote;Times New Roman&quote;;	mso-ansi-language:#0400;	mso-fareast-language:#0400;	mso-bidi-language:#0400;&rgtaco;</style><![endif]--></head><body lang=NL style='tab-interval:35.4pt'><div class=Section1><table class=MsoTableGrid border=1 cellspacing=0 cellpadding=0 style='border-collapse:collapse;border:none;mso-border-alt:solid windowtext .5pt; mso-yfti-tbllook:480;mso-padding-alt:0cm 5.4pt 0cm 5.4pt;mso-border-insideh: .5pt solid windowtext;mso-border-insidev:.5pt solid windowtext'> <tr style='mso-yfti-irow:0;mso-yfti-firstrow:yes;mso-yfti-lastrow:yes'>  <td width=463 valign=top style='width:347.4pt;border:solid windowtext 1.0pt;  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt'>  <p class=MsoNormal><span style='font-size:10.0pt'>1.Katholieke Universiteit  Leuven<o:p></o:p></span></p>  <p class=MsoNormal><span style='font-size:10.0pt'>2. Vrije Universiteit  Brussel<o:p></o:p></span></p>  <p class=MsoNormal><span style='font-size:10.0pt'>3. Universiteit Antwerpen<o:p></o:p></span></p>  <p class=MsoNormal><span style='font-size:10.0pt'>4. Katholieke Universiteit  Brussel<o:p></o:p></span></p>  <p class=MsoNormal><span style='font-size:10.0pt'>5. Universiteit Gent<o:p></o:p></span></p>  <p class=MsoNormal><span style='font-size:10.0pt'>6. Universiteit Hasselt<o:p></o:p></span></p>  <p class=MsoNormal><span style='font-size:10.0pt'><o:p>&nbsp;</o:p></span></p>  </td>  <td width=151 valign=top style='width:113.2pt;border:solid windowtext 1.0pt;  border-left:none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:  solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt'>  <p class=MsoNormal align=right style='text-align:right'><span  style='font-size:10.0pt'>4.854<o:p></o:p></span></p>  <p class=MsoNormal align=right style='text-align:right'><span  style='font-size:10.0pt'>1.980<o:p></o:p></span></p>  <p class=MsoNormal align=right style='text-align:right'><span  style='font-size:10.0pt'>2.136<o:p></o:p></span></p>  <p class=MsoNormal align=right style='text-align:right'><span  style='font-size:10.0pt'>181<o:p></o:p></span></p>  <p class=MsoNormal align=right style='text-align:right'><span  style='font-size:10.0pt'>5.195<o:p></o:p></span></p>  <p class=MsoNormal align=right style='text-align:right'><span  style='font-size:10.0pt'>584<o:p></o:p></span></p>  </td> </tr></table><p class=MsoNormal><span style='font-size:10.0pt'><o:p>&nbsp;</o:p></span></p></div></body></html> <br /> <br />§ 2. Vanaf het begrotingsjaar 2007 worden de in § 1 vermelde bedragen geïndexeerd aan de hand van de volgende indexformule :<br />I = 0,50 x (L1/L0) + 0,50 x (C1/C0).<br />I : de indexformule.<br />L1/L0 : de verhouding tussen de geraamde index van de eenheidsloonkosten op het einde van het desbetreffende begrotingsjaar en de index van de eenheidsloonkosten op het einde van begrotingsjaar 2006.<br />C1/C0 : de verhouding tussen de geraamde index van de consumptieprijzen op het einde van het desbetreffende begrotingsjaar en de index van de consumptieprijzen op het einde van begrotingsjaar 2006.<br />
 
 ### ART. 140quater.
 
