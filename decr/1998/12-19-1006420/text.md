@@ -246,7 +246,7 @@ De middelen van het Fonds zijn:<br /><br />a) een jaarlijkse dotatie lastens de 
 
 ### ART. 51.
 
-Het Fonds heeft tot taak:<br /><br />1° investeringssubsidies te verstrekken voor het bouwen, uitbreiden, verbouwen of aankopen van culturele infrastructuur met supra-lokaal belang;<br /><br />2° [het aankopen, het bouwen en het verbouwen van de eigen culturele infrastructuur van de Vlaamse Gemeenschap en het ten laste nemen van de kosten ervan voor uitrusting en apparatuur, de eigenaarverplichtingen, de onroerende voorheffing en het eigenaaronderhoud.  <span class="reference">(verv. decr. 24 december 2004, art. 29, I: 1 januari 2004)</span> ]
+Het Fonds heeft tot taak:<br />1° investeringssubsidies te verstrekken voor het bouwen, uitbreiden, verbouwen of aankopen van culturele infrastructuur met supra-lokaal belang;<br />2° het aankopen, het bouwen en het verbouwen van de eigen culturele infrastructuur van de Vlaamse Gemeenschap en het ten laste nemen van de kosten ervan voor uitrusting en apparatuur, de eigenaarverplichtingen, de onroerende voorheffing en het eigenaaronderhoud. <br />3° het betalen van huurgelden, erfpachtvergoedingen, beschikbaarheidsvergoedingen en andere kosten voor het gebruiksrecht van gebouwen en terreinen, die ressorteren onder het beheer van de entiteiten Cultuur en Jeugd van het beleidsdomein Cultuur, Jeugd, Sport en Media van de Vlaamse Gemeenschap.<br />
 
 ### ART. 51bis.
 
