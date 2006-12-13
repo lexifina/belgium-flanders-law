@@ -90,7 +90,7 @@ De Vlaamse regering kan, na advies van de VREG:<br /><br />1° de aardgasnetbehe
 
 ### ART. 19.
 
-De Vlaamse regering beschikt over de kredieten van het Energiefonds, bedoeld in artikel 20 van het Elektriciteitsdecreet, voor de financiering van de openbaredienstverplichtingen, bedoeld in artikel 18, van haar sociale energiebeleid en van haar beleid inzake het rationeel energiegebruik.
+...
 
 ## HOOFDSTUK VII BEVORDERING VAN MILIEUVRIENDELIJKE ENERGIEOPWEKKING
 
@@ -337,7 +337,7 @@ Na de kennisgeving, bedoeld in artikel 46, § 3, moet de administratieve geldboe
 
 ### ART. 51.
 
-De opbrengst van de administratieve geldboeten, vermeld in artikel 46, § 1, wordt gestort in de Vlaamse middelenbegroting. De opbrengst van de administratieve geldboeten, vermeld in artikel 46, § 2, komt ten gunste van het Fonds Hernieuwbare Energiebronnen, bedoeld in artikel 26 van het Elektriciteitsdecreet.
+De opbrengst van de administratieve geldboeten, vermeld in artikel 46, § 1, wordt gestort in de Vlaamse middelenbegroting. De opbrengst van de administratieve geldboeten, vermeld in artikel 46, § 2, komt ten gunste van het Energiefonds, vermeld in artikel 20 van het Elektriciteitsdecreet.
 
 ## [AFDELING III SANCTIES OPGELEGD DOOR HET VLAAMS ENERGIEAGENTSCHAP (ing. Decr. 25 mei 2007, art. 32)]
 
