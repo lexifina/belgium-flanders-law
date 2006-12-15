@@ -3054,15 +3054,15 @@ Aantal raadsleden van het OCMW en aantal leden van het vast bureau op basis van 
 
 ### Tekst
 
-Lijst van de districten op basis van artikel 273 en artikel 274 van het Gemeentedecreet.<br>
-Aantal leden van de districtsraden en leden van het districtscollege op basis van het bevolkingsaantal.<br>
+Lijst van de districten op basis van artikel 273 en 274 van het Gemeentedecreet<br>
+Aantal leden van de districtsraden en maximum aantal leden van het districtscollege op basis van het bevolkingsaantal.<br>
 <br>
 
 <table border="1" cellpadding="0" cellspacing="0" style="border-collapse:collapse">
 	<tbody>
 		<tr>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:115.15pt">
-			<p><strong>Districten Antwerpen</strong></p>
+			<p><strong>Districten Antwerpen<!--?xml:namespace prefix = o ns =         "urn:schemas-microsoft-com:office:office" /--></strong></p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:115.15pt">
 			<p><strong>Inwoners 2006</strong></p>
