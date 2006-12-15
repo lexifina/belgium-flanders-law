@@ -6,7 +6,62 @@ In dit besluit wordt verstaan onder het besluit van de Vlaamse Regering, het bes
 
 ### ART. 2.
 
-§ 1. De v.z.w. Vlaamse Rundveeteeltvereniging, hierna de VRV te noemen, waarvan de erkenning vermeld is in artikel 6 van het ministerieel besluit van 27 februari 1991 betreffende de verbetering van het rundveeras, wordt toegewezen aan de fokkerijsector rundvee, vermeld in artikel 2, eerste lid, 5°, van het besluit van de Vlaamse Regering.<br /><br />De VRV wordt aangewezen als de leidende vereniging voor de fokkerijsector rundvee.<br /><br />§ 2. De v.z.w. Vlaams Varkensstamboek, hierna het VVS te noemen, waarvan de erkenning vermeld is in artikel 1 van het ministerieel besluit van 16 maart 2005 tot erkenning en subsidiëring van verenigingen van varkensfokkers, en Rattlerow Seghers N.V., waarvan de erkenning vermeld is in artikel 1 van het ministerieel besluit van 31 januari 2005 houdende erkenning van Rattlerow Seghers N.V. als fokkerijgroepering, worden toegewezen aan de fokkerijsector varkens, vermeld in artikel 2, eerste lid, 6°, van het besluit van de Vlaamse Regering.<br /><br />Het VVS wordt aangewezen als de leidende vereniging voor de fokkerijsector varkens.<br /><br />§ 3. De hiernavolgende organisatie en fokkersverenigingen worden toegewezen aan de fokkerijsector paarden en ezels, vermeld in artikel 2, eerste lid, 3°, van het besluit van de Vlaamse Regering:<br />1° de v.z.w. Vlaamse Confederatie van het Paard, hierna de VCP te noemen;<br />2° de v.z.w. Belgisch Warmbloedpaard;<br />3° de v.z.w. Belgisch Arabisch Paardenstamboek;<br />4° de v.z.w. Belgisch Haflinger Stamboek;<br />5° de v.z.w. Belgisch Welsh Pony Stamboek;<br />6° de v.z.w. Belgian New Forest pony studbook;<br />7° de v.z.w. Belgisch Studbook van de Shetland pony;<br />8° de v.z.w. Belgisch Stamboek voor IJslandse pony's;<br />9° de v.z.w. Belgisch Stamboek van de Lipizzaner;<br />10° de v.z.w. Belgian Highland Pony Society;<br />11° de v.z.w. Studbook Zangersheide;<br />12° de v.z.w. Belgisch Stamboek voor het Miniatuurpaard;<br />13° de v.z.w. Vlaamse Fokkers van het Belgisch Trekpaard;<br />14° de v.z.w. Vlaams Paard;<br />15° de v.z.w. Belgische Ezel Vrienden.<br />16° Het Belgisch Mérens Stamboek VZW - Le Studbook belge du Mérens ASBL.<br /><br />De erkenning van de organisatie, vermeld in het eerste lid, 1°, is vermeld in artikel 2 van het ministerieel besluit van 16 maart 2005 tot erkenning van verenigingen voor de paardenfokkerij.<br /><br />De erkenningen van de fokkersverenigingen, vermeld in het eerste lid, 2° tot 13°, zijn vermeld in artikel 3 van het ministerieel besluit van 16 maart 2005 tot erkenning van verenigingen voor de paardenfokkerij.<br /><br />De erkenning van de fokkersvereniging, vermeld in het eerste lid, 14°, is vermeld in het enige artikel van het ministerieel besluit van 21 juni 2005 houdende de erkenning van de v.z.w. Vlaams Paard.<br /><br />De erkenning van de fokkersvereniging, vermeld in het eerste lid, 15°, is vermeld in het enige artikel van het ministerieel besluit van 15 september 2005 houdende de erkenning van de v.z.w. Belgische Ezel Vrienden.<br /><br />De erkenning van de fokkersvereniging, vermeld in het eerste lid, 16°, is opgenomen in artikel 1 van het ministerieel besluit van 3 augustus 2006 houdende de erkenning van de fokkersvereniging « Het Belgisch Mérens Stamboek VZW - Le Studbook belge du Mérens ASBL » en tot wijziging van het ministerieel besluit van 25 oktober 2005 houdende de organisatie de uitbouw van fokkerijstructuren in Vlaanderen.<br /><br />De VCP wordt aangewezen als de leidende vereniging voor de fokkerijsector paarden en ezels.<br /><br />§ 4. De v.z.w. Kleine Herkauwers Vlaanderen, hierna de KHV te noemen, waarvan de erkenning is vermeld in artikel 2 van het ministerieel besluit van 21 maart 2005 betreffende de organisatie van de fokkerij van kleine herkauwers, wordt toegewezen aan de fokkerijsector kleine herkauwers, vermeld in artikel 2, eerste lid, 2°, van het besluit van de Vlaamse Regering.<br /><br />De KHV wordt aangewezen als de leidende vereniging voor de fokkerijsector kleine herkauwers.<br /><br />§ 5. De v.z.w. Vlaamse Bedrijfspluimvee- en Konijnenhouders, hierna de landsbond te noemen, waarvan de erkenning is vermeld in artikel 2 van het ministerieel besluit van 17 maart 2005 houdende de erkenning en subsidiëring van organisaties in het kader van de aanmoediging en de verbetering van de pluimvee- en konijnenfokkerij, wordt toegewezen aan de fokkerijsector pluimvee en konijnen, vermeld in artikel 2, eerste lid, 4°, van het besluit van de Vlaamse Regering.<br /><br />De landsbond wordt aangewezen als de leidende vereniging voor de fokkerijsector pluimvee en konijnen.<br /><br />§ 6. De hiernavolgende fokkersverenigingen worden toegewezen aan de fokkerijsector genetische diversiteit, vermeld in artikel 2, eerste lid, 1°, van het besluit van de Vlaamse Regering:<br /><br />1° de v.z.w. Vlaams Interprovinciaal Verbond van Fokkers van Neerhofdieren, hierna het VIVFN te noemen, waarvan de erkenning is vermeld in artikel 3 van het ministerieel besluit van 17 maart 2005 houdende de erkenning en subsidiëring van organisaties in het kader van de aanmoediging en de verbetering van de pluimvee- en konijnenfokkerij;<br /><br />2° de v.z.w. [Steunpunt Levend Erfgoed,  <span class="reference">(verv. M.B. 21 maart 2006, art. 2, I: 21 mei 2006)</span> ] hierna de SLE te noemen, waarvan de erkenning is vermeld in artikel 3 van het ministerieel besluit van 21 maart 2005 betreffende de organisatie van de fokkerij van kleine herkauwers.<br /><br />In de fokkerijsector genetische diversiteit wordt geen leidende vereniging aangewezen.
+§ 1. De v.z.w. Vlaamse Rundveeteeltvereniging, hierna de VRV te noemen, waarvan de erkenning vermeld is in artikel 6 van het ministerieel besluit van 27 februari 1991 betreffende de verbetering van het rundveeras, wordt toegewezen aan de fokkerijsector rundvee, vermeld in artikel 2, eerste lid, 5°, van het besluit van de Vlaamse Regering.<br>
+<br>
+De VRV wordt aangewezen als de leidende vereniging voor de fokkerijsector rundvee.<br>
+<br>
+§ 2. De v.z.w. Vlaams Varkensstamboek, hierna het VVS te noemen, waarvan de erkenning vermeld is in artikel 1 van het ministerieel besluit van 16 maart 2005 tot erkenning en subsidiëring van verenigingen van varkensfokkers, en Rattlerow Seghers N.V., waarvan de erkenning vermeld is in artikel 1 van het ministerieel besluit van 31 januari 2005 houdende erkenning van Rattlerow Seghers N.V. als fokkerijgroepering, worden toegewezen aan de fokkerijsector varkens, vermeld in artikel 2, eerste lid, 6°, van het besluit van de Vlaamse Regering.<br>
+<br>
+Het VVS wordt aangewezen als de leidende vereniging voor de fokkerijsector varkens.<br>
+<br>
+§ 3. De hiernavolgende organisatie en fokkersverenigingen worden toegewezen aan de fokkerijsector paarden en ezels, vermeld in artikel 2, eerste lid, 3°, van het besluit van de Vlaamse Regering:<br>
+1° de v.z.w. Vlaamse Confederatie van het Paard, hierna de VCP te noemen;<br>
+2° de v.z.w. Belgisch Warmbloedpaard;<br>
+3° de v.z.w. Belgisch Arabisch Paardenstamboek;<br>
+4° de v.z.w. Belgisch Haflinger Stamboek;<br>
+5° de v.z.w. Belgisch Welsh Pony Stamboek;<br>
+6° de v.z.w. Belgian New Forest pony studbook;<br>
+7° de v.z.w. Belgisch Studbook van de Shetland pony;<br>
+8° de v.z.w. Belgisch Stamboek voor IJslandse pony's;<br>
+9° de v.z.w. Belgisch Stamboek van de Lipizzaner;<br>
+10° de v.z.w. Belgian Highland Pony Society;<br>
+11° de v.z.w. Studbook Zangersheide;<br>
+12° de v.z.w. Belgisch Stamboek voor het Miniatuurpaard;<br>
+13° de v.z.w. Vlaamse Fokkers van het Belgisch Trekpaard;<br>
+14° de v.z.w. Vlaams Paard;<br>
+15° de v.z.w. Belgische Ezel Vrienden.<br>
+16° Het Belgisch Mérens Stamboek VZW - Le Studbook belge du Mérens ASBL.<br>
+17° de vzw Europese Arabo-Friezen Vereniging.<br>
+<br>
+De erkenning van de organisatie, vermeld in het eerste lid, 1°, is vermeld in artikel 2 van het ministerieel besluit van 16 maart 2005 tot erkenning van verenigingen voor de paardenfokkerij.<br>
+<br>
+De erkenningen van de fokkersverenigingen, vermeld in het eerste lid, 2° tot 13°, zijn vermeld in artikel 3 van het ministerieel besluit van 16 maart 2005 tot erkenning van verenigingen voor de paardenfokkerij.<br>
+<br>
+De erkenning van de fokkersvereniging, vermeld in het eerste lid, 14°, is vermeld in het enige artikel van het ministerieel besluit van 21 juni 2005 houdende de erkenning van de v.z.w. Vlaams Paard.<br>
+<br>
+De erkenning van de fokkersvereniging, vermeld in het eerste lid, 15°, is vermeld in het enige artikel van het ministerieel besluit van 15 september 2005 houdende de erkenning van de v.z.w. Belgische Ezel Vrienden.<br>
+<br>
+De erkenning van de fokkersvereniging, vermeld in het eerste lid, 16°, is opgenomen in artikel 1 van het ministerieel besluit van 3 augustus 2006 houdende de erkenning van de fokkersvereniging « Het Belgisch Mérens Stamboek VZW - Le Studbook belge du Mérens ASBL » en tot wijziging van het ministerieel besluit van 25 oktober 2005 houdende de organisatie de uitbouw van fokkerijstructuren in Vlaanderen.<br>
+<br>
+De erkenning van de fokkersvereniging, vermeld in het eerste lid, 17°, is opgenomen in artikel 1 van het ministerieel besluit van 13 november 2006 houdende de erkenning van de fokkersvereniging Europese Arabo-Friezen Vereniging vzw en tot wijziging van het ministerieel besluit van 25 oktober 2005 houdende de organisatie van de uitbouw van fokkerijstructuren in Vlaanderen.<br>
+<br>
+De VCP wordt aangewezen als de leidende vereniging voor de fokkerijsector paarden en ezels.<br>
+<br>
+§ 4. De v.z.w. Kleine Herkauwers Vlaanderen, hierna de KHV te noemen, waarvan de erkenning is vermeld in artikel 2 van het ministerieel besluit van 21 maart 2005 betreffende de organisatie van de fokkerij van kleine herkauwers, wordt toegewezen aan de fokkerijsector kleine herkauwers, vermeld in artikel 2, eerste lid, 2°, van het besluit van de Vlaamse Regering.<br>
+<br>
+De KHV wordt aangewezen als de leidende vereniging voor de fokkerijsector kleine herkauwers.<br>
+<br>
+§ 5. De v.z.w. Vlaamse Bedrijfspluimvee- en Konijnenhouders, hierna de landsbond te noemen, waarvan de erkenning is vermeld in artikel 2 van het ministerieel besluit van 17 maart 2005 houdende de erkenning en subsidiëring van organisaties in het kader van de aanmoediging en de verbetering van de pluimvee- en konijnenfokkerij, wordt toegewezen aan de fokkerijsector pluimvee en konijnen, vermeld in artikel 2, eerste lid, 4°, van het besluit van de Vlaamse Regering.<br>
+<br>
+De landsbond wordt aangewezen als de leidende vereniging voor de fokkerijsector pluimvee en konijnen.<br>
+<br>
+§ 6. De hiernavolgende fokkersverenigingen worden toegewezen aan de fokkerijsector genetische diversiteit, vermeld in artikel 2, eerste lid, 1°, van het besluit van de Vlaamse Regering:<br>
+<br>
+1° de v.z.w. Vlaams Interprovinciaal Verbond van Fokkers van Neerhofdieren, hierna het VIVFN te noemen, waarvan de erkenning is vermeld in artikel 3 van het ministerieel besluit van 17 maart 2005 houdende de erkenning en subsidiëring van organisaties in het kader van de aanmoediging en de verbetering van de pluimvee- en konijnenfokkerij;<br>
+<br>
+2° de v.z.w. [Steunpunt Levend Erfgoed, (verv. M.B. 21 maart 2006, art. 2, I: 21 mei 2006) ] hierna de SLE te noemen, waarvan de erkenning is vermeld in artikel 3 van het ministerieel besluit van 21 maart 2005 betreffende de organisatie van de fokkerij van kleine herkauwers.<br>
+<br>
+In de fokkerijsector genetische diversiteit wordt geen leidende vereniging aangewezen.
 
 ### ART. 3.
 
