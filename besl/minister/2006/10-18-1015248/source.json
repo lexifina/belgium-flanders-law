@@ -1,0 +1,17 @@
+{
+  "codex_id": 1015248,
+  "title": "Ministerieel besluit van 2006-10-18 houdende de erkenning van centra voor kunstmatige inseminatie en embryotransplantatie bij paarden",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1015248/VolledigDocument?datum=2006-12-15",
+  "source_sha256": "d71659f2e9994db5dad68bc55d71afcacc944a28981d915144849506da75f911",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1015248&param=informatie",
+  "as_of": "2006-12-15",
+  "made": "2006-10-18",
+  "gazette": "2006-12-05",
+  "numac": 2006036836,
+  "document_start": "2006-12-15",
+  "document_end": null,
+  "in_force": "2006-12-15",
+  "article_versions": 5,
+  "record_form": "consolidated version as in force on 2006-12-15; oldest version available; future article versions excluded; article text as the API gives it"
+}
