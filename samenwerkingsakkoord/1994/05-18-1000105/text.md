@@ -56,6 +56,10 @@ Het coördinatiecomité is meer bepaald belast met de volgende taken:<br />1° i
 
 [§ 1. Voor de taken in verband met het toezicht op de emissies in de lucht en het inzamelen van gegevens inzake de atmosferische vervuiling, verbinden de Gewesten zich ertoe in de Cel personeel aan te stellen dat vakbekwaamheid heeft op het vlak van informatica, databanken, gegevensverwerking, modellering, monitoren en standaarden voor het ijken van luchtpolluenten, netwerken voor luchtmeting, studie van de luchtverontreiniging.<br /><br />§ 2. Voor de taken in verband met de activiteiten van het knooppunt, verbinden de Gewesten zich ertoe in de Cel volgende personen aan te stellen :<br />- twee personen van universitair niveau met een wetenschappelijke- of informatica-opleiding;<br />- een persoon van niveau 2 die gelast zal zijn met het secretariaat.<br /><br />De Gewesten plegen overleg bij de aanstelling van deze personen, teneinde de complementariteit van hun respectievelijke functies in de Cel te verzekeren. (verv. SA 21 december 1995, art. 1, I: 21 december 1995)]<br />
 
+### ART. 12bis.
+
+[De Gewesten richten elk een gewestelijke milieudatabank op om in te spelen op de behoeften van het Agentschap. Zij leggen een computerverbinding tussen de gegevensbanken en de Cel.<br /><br />Er wordt tussen de Cel en het Agentschap een computerverbinding gelegd overeenkomstig de technische voorschriften van het Agentschap. (ing. SA 21 december 1995, art. 1, I: 21 december 1995)]<br />
+
 ### ART. 13.
 
 De Gewesten verbinden zich ertoe om, zodra deze overeenkomst van kracht wordt, het materiaal waarvan de lijst is gevoegd in bijlage ter beschikking van de Cel te stellen.
