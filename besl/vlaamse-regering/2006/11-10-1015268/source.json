@@ -1,0 +1,17 @@
+{
+  "codex_id": 1015268,
+  "title": "Besluit van de Vlaamse Regering van 2006-11-10 tot wijziging van het besluit van de Vlaamse Regering van 4 februari 1997 betreffende de verplichte bijdragen bestemd voor de promotie en afzetbevordering van de Vlaamse producten van de sectoren landbouw, tuinbouw en visserij",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1015268/VolledigDocument?datum=2006-12-21",
+  "source_sha256": "a93d85c573a312a69026a0efa13de30d75a4d7c4447a2384db9b7c9b20d351e6",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1015268&param=informatie",
+  "as_of": "2006-12-21",
+  "made": "2006-11-10",
+  "gazette": "2006-12-11",
+  "numac": 2006036956,
+  "document_start": "2006-12-21",
+  "document_end": null,
+  "in_force": "2006-12-21",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2006-12-21; oldest version available; future article versions excluded; article text as the API gives it"
+}
