@@ -1,0 +1,17 @@
+{
+  "codex_id": 1015270,
+  "title": "Besluit van de Vlaamse Regering van 2006-10-13 houdende overschrijving van kredieten tussen basisallocaties binnen het beleidsdomein Onderwijs en Vorming in uitvoering van artikel 166 van het decreet van 23 december 2005 houdende de algemene uitgavenbegroting van de Vlaamse Gemeenschap voor het begrotingsjaar 2006",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1015270/VolledigDocument?datum=2006-12-22",
+  "source_sha256": "5bef99a11621af97ef703ca722d9e40d435cf3e638e58efdfba5f74ff5b4b237",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1015270&param=informatie",
+  "as_of": "2006-12-22",
+  "made": "2006-10-13",
+  "gazette": "2006-12-12",
+  "numac": 2006036861,
+  "document_start": "2006-12-22",
+  "document_end": null,
+  "in_force": "2006-12-22",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2006-12-22; oldest version available; future article versions excluded; article text as the API gives it"
+}
