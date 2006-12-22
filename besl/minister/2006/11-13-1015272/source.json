@@ -1,0 +1,17 @@
+{
+  "codex_id": 1015272,
+  "title": "Ministerieel besluit van 2006-11-13 tot wijziging van de bijlage 1 van het ministerieel besluit van 17 mei 2004 tot bepaling voor het werkingsjaar 2004 van het maximale subsidiebedrag per rusthuis in het kader van de subsidiëring van de animatiewerking en tot bepaling van het maximale aanvullende subsidiebedrag per rusthuis in het kader van de aanvullende subsidiëring in de vorm van een DAC-supplement voor de rusthuizen die personeelsleden tewerkstellen in een gewezen DAC-statuut",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1015272/VolledigDocument?datum=2006-12-22",
+  "source_sha256": "60083f3c48af60d880737cabcf380b6d69d197e9acf555a71c02b774ef80a53b",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1015272&param=informatie",
+  "as_of": "2006-12-22",
+  "made": "2006-11-13",
+  "gazette": "2006-12-12",
+  "numac": 2006036930,
+  "document_start": "2006-12-22",
+  "document_end": null,
+  "in_force": "2006-12-22",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2006-12-22; oldest version available; future article versions excluded; article text as the API gives it"
+}
