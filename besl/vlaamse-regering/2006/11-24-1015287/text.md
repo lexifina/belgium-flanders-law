@@ -1,0 +1,25 @@
+# Besluit van de Vlaamse Regering van 2006-11-24 tot wijziging van het koninklijk besluit van 2 september 1992 betreffende de verbetering van de fokvarkens
+
+### aanhef
+
+De Vlaamse Regering,<br /><br />Gelet op de bijzondere wet van 16 januari 1989 betreffende de financiering van de Gemeenschappen en de Gewesten, inzonderheid op artikel 51;<br /><br />Gelet op de wet van 20 juni 1956 betreffende de verbetering van de rassen van voor de landbouw nuttige huisdieren, inzonderheid op artikel 1 en 2;<br /><br />Gelet op de wetten op de Rijkscomptabiliteit, gecoördineerd op 17 juli 1991, inzonderheid op artikel 12, derde lid;<br /><br />Gelet op het decreet van 23 december 2005 houdende de uitgavenbegroting van de Vlaamse Gemeenschap voor het begrotingsjaar 2006, inzonderheid op artikel 14;<br /><br />Gelet op het koninklijk besluit van 2 september 1992 betreffende de verbetering van de fokvarkens, gewijzigd bij de koninklijke besluiten van 11 januari 1993 en 13 juli 2001 en bij het besluit van de Vlaamse Regering van 28 april 2006;<br /><br />Gelet op het advies van de Inspectie van Financiën, gegeven op 4 september 2006;<br /><br />Gelet op het overleg tussen de gewesten en de federale overheid op 5 oktober 2006;<br /><br />Gelet op het advies 41.425/3 van de Raad van State, gegeven op 17 oktober 2006, met toepassing van artikel 84, § 1, eerste lid, 1°, van de gecoördineerde wetten op de Raad van State;<br /><br />Op voorstel van de Vlaamse minister van Institutionele Hervormingen, Landbouw, Zeevisserij en Plattelandsbeleid;<br /><br />Na beraadslaging,<br /><br />Besluit :
+
+### ART. 1.
+
+In artikel 1 van het koninklijk besluit van 2 september 1992 betreffende de verbetering van de fokvarkens worden de volgende wijzigingen aangebracht :<br />1° punt 1°, 2°, 11°, 12° en 13° worden vervangen door wat volgt :<br />« 1° de minister : de Vlaamse minister, bevoegd voor het landbouwbeleid en de zeevisserij; »;<br />« 2° de veeteeltdienst : de afdeling Duurzame Landbouwontwikkeling van het Departement Landbouw en Visserij; »;<br />« 11° fokkersvereniging : vereniging met rechtspersoonlijkheid waarvan varkensfokkers of ondernemingen lid zijn met als voornaamste doelstelling de verbetering van de fokvarkens; »;<br />« 12° fokkerijgroepering : organisatie in vennootschapsvorm met als voornaamste doelstelling de verbetering van de fokvarkens, waarvan varkensfokkers of ondernemingen vennoot zijn; »;<br />« 13° particuliere onderneming : bedrijf met rechtspersoonlijkheid en met als doelstelling de productie van fokvarkens. »;<br />2° punt 10° wordt opgeheven.
+
+### ART. 2.
+
+Artikel 5 van hetzelfde besluit wordt vervangen door wat volgt :<br />« Art. 5. De minister kan een erkenning verlenen aan fokkersverenigingen, fokkerijgroeperingen en particuliere ondernemingen voor :<br />1° het bijhouden van stamboeken voor raszuivere fokvarkens;<br />2° het bijhouden van registers voor hybride fokvarkens;<br />3° het uitvoeren van prestatieonderzoek op raszuivere fokvarkens;<br />4° het uitvoeren van prestatieonderzoek op hybride fokvarkens;<br />5° het uitreiken van certificaten die bij raszuivere fokvarkens, hun sperma, eicellen en embryo's gevoegd moeten worden als ze in het handelsverkeer worden gebracht;<br />6° het uitreiken van certificaten die bij hybride fokvarkens, hun sperma, eicellen en embryo's gevoegd moeten worden als ze in het handelsverkeer worden gebracht.<br /><br />De minister kan de erkende fokkersverenigingen of fokkerijgroeperingen, vermeld in het eerste lid, belasten met het beheer van de selectiemesterijen van het Vlaamse Gewest en van andere selectiemesterijen.<br /><br />De minister kan verenigingen of organisaties andere opdrachten toewijzen dan de opdrachten vermeld in het eerste en tweede lid, voor zover die betrekking hebben op de varkensfokkerij.<br /><br />De minister kan voor de opdrachten, vermeld in het eerste, tweede en derde lid, nadere voorwaarden vaststellen. »
+
+### ART. 3.
+
+Artikel 9 van hetzelfde besluit wordt opgeheven.
+
+### ART. 4.
+
+Artikel 10 van hetzelfde besluit, gewijzigd bij de koninklijke besluiten van 11 januari 1993 en 13 juli 2001 wordt vervangen door wat volgt : <br />« Art. 10. Binnen de begrotingskredieten en als ze de opdrachten die aan hen zijn toevertrouwd op een adequate wijze uitvoeren, kan de minister een subsidie verlenen aan :<br />1° erkende fokkersverenigingen, fokkerijgroeperingen en particuliere ondernemingen voor de uitvoering van de opdrachten, vermeld in artikel 5, eerste lid, punt a), c) en e), en in artikel 5, tweede lid, en voor de administratieve taken, verbonden aan die opdrachten;<br />2° verenigingen of organisaties voor de uitvoering van de opdrachten, vermeld in artikel 5, derde lid.<br /><br />Op gunstig advies van de Inspectie van Financiën kan de minister voorschotten op de subsidies, vermeld in het eerste lid, toekennen. De minister kan de voorwaarden vaststellen voor de aanvraag en de verantwoording van de subsidies. »
+
+### ART. 5.
+
+De Vlaamse minister, bevoegd voor het landbouwbeleid en de zeevisserij, is belast met de uitvoering van dit besluit.
