@@ -1,0 +1,17 @@
+{
+  "codex_id": 1015290,
+  "title": "Ministerieel besluit van 2006-11-29 houdende wijziging van het model van PPS-overeenkomst in het kader van PPS-projecten sociale huisvesting",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1015290/VolledigDocument?datum=2006-12-25",
+  "source_sha256": "63fa1a3f3f61a40e76f8b5fc96eced517021f754a39b9c79b56d9f9f86d4ba76",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1015290&param=informatie",
+  "as_of": "2006-12-25",
+  "made": "2006-11-29",
+  "gazette": "2006-12-15",
+  "numac": 2006036969,
+  "document_start": "2006-12-25",
+  "document_end": null,
+  "in_force": "2006-12-25",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2006-12-25; oldest version available; future article versions excluded; article text as the API gives it"
+}
