@@ -30,6 +30,10 @@ Artikel 8 van het decreet van 21 april 2006 houdende wijziging van het decreet v
 
 ## HOOFDSTUK XIII. Riviervisserij
 
+### ART. 36.
+
+In artikel 9 van de wet van 1 juli 1954 op de riviervisserij, vervangen bij decreet van 19 december 2003, wordt 1° vervangen door wat volgt :<br /><br />« 1° het visverlof waarmee kinderen beneden de volle veertien jaar en niet vergezeld van hun vader, moeder of voogd, alle dagen met één hengel mogen vissen, is gratis. Dat visverlof wordt het jeugdvisverlof genoemd. Als dat jeugdvisverlof afgegeven wordt tijdens het jaar waarin een kind veertien jaar oud wordt, blijft het geldig tot het einde van dat jaar. De op basis van het jeugdvisverlof gevangen vis moet onmiddellijk en voorzichtig vrijgelaten worden in het water van herkomst; ».<br />
+
 ## HOOFDSTUK XIV. Natuurbehoud
 
 ## HOOFDSTUK XV. Eigen Vermogen Flanders Hydraulics - samenstelling beheerscommissie
