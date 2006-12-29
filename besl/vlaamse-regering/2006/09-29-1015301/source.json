@@ -1,0 +1,17 @@
+{
+  "codex_id": 1015301,
+  "title": "Besluit van de Vlaamse Regering van 2006-09-29 tot herverdeling van basisallocaties van de begroting van de Vlaamse Gemeenschap voor het begrotingsjaar 2006 en tot verdeling van provisionele kredieten ingeschreven in de begroting 2006",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1015301/VolledigDocument?datum=2006-12-29",
+  "source_sha256": "566ae86b1b9109711a315b3e2051c55576652e23c3c9350995378ce351190bbc",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1015301&param=informatie",
+  "as_of": "2006-12-29",
+  "made": "2006-09-29",
+  "gazette": "2006-12-19",
+  "numac": 2006036952,
+  "document_start": "2006-12-29",
+  "document_end": null,
+  "in_force": "2006-12-29",
+  "article_versions": 7,
+  "record_form": "consolidated version as in force on 2006-12-29; oldest version available; future article versions excluded; article text as the API gives it"
+}
