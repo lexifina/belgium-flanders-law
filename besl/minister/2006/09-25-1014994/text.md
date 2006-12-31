@@ -6,20 +6,20 @@ De Vlaamse minister van Institutionele Hervormingen, Landbouw, Zeevisserij en Pl
 
 ### ART. 1.
 
-In het artikel 10 van het ministerieel besluit van 26 januari 2006 houdende tijdelijke aanvullende maatregelen tot het behoud van de visbestanden in zee, wordt het getal "250" vervangen door het getal "260" <br /><br />
+...
 
 ### ART. 2.
 
-Het artikel 22 van hetzelfde besluit, gewijzigd bij het ministerieel besluit van 23 juni 2006, wordt aangevuld met het volgend lid :<br /><br />« In afwijking van vorig lid mogen in de periode van 1 oktober 2006 tot en met 31 december 2006 de tongvangsten van de vissersvaartuigen per zeereis in het betrokken i.c.e.s.-gebied de volgende hoeveelheden vermenigvuldigd met het aantal vaartdagen gerealiseerd tijdens die zeereis in betreffend i.c.e.s.-gebied niet overschrijden :<br /><br />400 kg per vaartdag in het i.c.e.s.-gebied VIIa, ingeval het motorvermogen 221 kW of minder bedraagt;<br />800 kg per vaartdag in het i.c.e.s.-gebied VIIa, ingeval het motorvermogen meer dan 221 kW bedraagt. » <br /><br />
+...
 
 ### ART. 3.
 
-In het artikel 23 van hetzelfde besluit, gewijzigd bij de ministeriële besluiten van 5 april 2006 en 23 juni 2006, worden met ingang van 1 oktober 2006 de volgende wijzigingen aangebracht :<br />1° in § 3 wordt het getal "60" vervangen door het getal "20",<br />2° in § 4 wordt het getal "120" vervangen door het getal "40".<br /><br />
+...
 
 ### ART. 4.
 
-In het artikel 26 van hetzelfde besluit, worden met ingang van 1 oktober 2006 volgende wijzigingen aangebracht : <br />1° in § 5 wordt het getal "200" vervangen door het getal "225",<br />2° in § 6 wordt het getal "400" vervangen door het getal "450".<br /><br />
+...
 
 ### ART. 5.
 
-Dit besluit treedt in werking op 1 oktober 2006 en treedt buiten werking op 31 december 2006, om 24 uur.<br /><br />
+...
