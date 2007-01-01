@@ -2,16 +2,16 @@
   "codex_id": 1015061,
   "title": "Ministerieel besluit van 2006-10-05 houdende beëindiging van de visserij op zwarte koolvis in de i.c.e.s.-gebieden II, III, IV",
   "type": "Ministerieel besluit",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1015061/VolledigDocument?datum=2006-10-20",
-  "source_sha256": "a23f47529e5f17aad07046663e495606b51b8f07d544b5457df1a406f22ac9e5",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1015061/VolledigDocument?datum=2007-01-01",
+  "source_sha256": "880e6c7d9a733840a76f7a37789f4f16f88ccb4814fe10a6a433102043d77188",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1015061&param=informatie",
-  "as_of": "2006-10-20",
+  "as_of": "2007-01-01",
   "made": "2006-10-05",
   "gazette": "2006-10-20",
   "numac": 2006036698,
   "document_start": "2006-10-20",
   "document_end": "2007-01-01",
-  "in_force": "2006-10-20",
+  "in_force": "2007-01-01",
   "article_versions": 4,
-  "record_form": "consolidated version as in force on 2006-10-20; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2007-01-01; future article versions excluded; article text as the API gives it"
 }
