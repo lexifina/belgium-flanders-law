@@ -1,0 +1,17 @@
+{
+  "codex_id": 1015122,
+  "title": "Decreet van 2006-07-14 tot wijziging van het decreet van 28 februari 2003 betreffende het Vlaamse inburgeringsbeleid",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1015122/VolledigDocument?datum=2007-01-01",
+  "source_sha256": "4d4e16324e61ccb2e6543522dc7064c727bf3dcdfcf6d35e446b0857cbe580bb",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1015122&param=informatie",
+  "as_of": "2007-01-01",
+  "made": "2006-07-14",
+  "gazette": "2006-11-09",
+  "numac": 2006036543,
+  "document_start": null,
+  "document_end": null,
+  "in_force": "2007-01-01",
+  "article_versions": 26,
+  "record_form": "consolidated version as in force on 2007-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
