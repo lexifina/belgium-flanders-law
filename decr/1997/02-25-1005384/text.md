@@ -717,9 +717,13 @@ waarbij, onverminderd artikel 15 van het decreet van 6 juli 1994 houdende bepali
 <br>
 § 3. Vanaf het begrotingsjaar 2007 omvat het globale werkingsbudget van het gefinancierd en gesubsidieerd basison-derwijs de bedragen, bedoeld in artikel 79, vermeerderd met het bedrag, bedoeld in § 1.</p>
 
+### ART. 82ter.
+
+Teneinde de kosteloosheid voor het basisonderwijs, zoals bepaald in artikel 27, § 1, van dit decreet, te garanderen wordt het globale werkingsbudget van het gefinancierd en gesubsidieerd basisonderwijs vanaf 2007 verhoogd met 29,504 miljoen euro. De verdeling van deze middelen gebeurt pro rata van het aantal regelmatige leerlingen.<br /><br />Deze middelen worden niet in rekening gebracht om de verhouding tussen de netten zoals bepaald in artikel 83, § 2, te bepalen.<br /><br />Voor het begrotingsjaar 2007 wordt het aandeel van het gefinancierd basisonderwijs in deze middelen integraal opgenomen in de tweede schijf van de werkingsmiddelen 2007.<br /><br />Voor het gesubsidieerd basisonderwijs worden deze middelen integraal betaald via het saldo van de werkingsmiddelen 2007.<br />
+
 ### ART. 83.
 
-[§ 1. Het respectieve aandeel in de vrijgekomen loonkost en het vrijgekomen werkingsbudget be-doeld in de artikelen 81 en 82 wordt bepaald pro rata van het aantal regelmatige leerlingen.<br /><br />§ 2. De bepalingen van § 1 zijn van toepassing totdat het werkingsbudget per leerling in het gesubsidieerd onderwijs minstens 75,8 percent en maximum 76,2 percent van het overeenkomstig werkingsbudget per leerling in het gefinancierd onderwijs bedraagt. Daarna gebeurt de verdeling van de vrijgekomen loonkost en het vrijgekomen wer-kingsbudget  <span class="reference">(verv. decr. 19 december 1997, art. 10, I: 1 januari 1998)</span> ] [op basis van  <span class="reference">(verv. decr. 14 juli 1998, art. 163, I: 1 september 1998)</span> ] [vermelde verhouding.  <span class="reference">(verv. decr. 19 december 1997, art. 10, I: 1 januari 1998)</span> ]
+§ 1. Het respectieve aandeel in de vrijgekomen loonkost en het vrijgekomen werkingsbudget be-doeld in de artikelen 81 en 82 wordt bepaald pro rata van het aantal regelmatige leerlingen.<br /><br />§ 2. Ongeacht de bepalingen van § 1 dient vanaf het begrotingsjaar 2007 het totale werkingsbudget per leerling van het gesubsidieerd basisonderwijs ten minste 75,8 % en maximaal 76,2 % van het overeenkomstig totale werkingsbudget per leerling van het gefinancierd basisonderwijs te bedragen.<br /><br />Het bereiken van deze verhouding gebeurt door te voorzien in een herverdeling van de vrijgekomen loonkost en/of het vrijgekomen werkingsbudget.<br />
 
 ## [C. Berekening van het werkingsbudget per school (ing. Decr. 4 juli 2008, art. 3, I: 1 november 2008)]
 
