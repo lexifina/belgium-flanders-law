@@ -2,16 +2,16 @@
   "codex_id": 1014267,
   "title": "Ministerieel besluit van 2005-10-21 betreffende het sluiten van beheersovereenkomsten ter uitvoering van Verordening (EG) nr. 1257/1999 van de Raad van 17 mei 1999 inzake steun voor plattelandsontwikkeling",
   "type": "Ministerieel besluit",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1014267/VolledigDocument?datum=2006-06-01",
-  "source_sha256": "4616f264061348f33f1cae1d179dd597185d4820b013a87475f5bbc049c7c504",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1014267/VolledigDocument?datum=2007-01-01",
+  "source_sha256": "0da08de7bb4f46e38ea0d1352897223f18c104580a64729310f97ee18ccb9418",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1014267&param=informatie",
-  "as_of": "2006-06-01",
+  "as_of": "2007-01-01",
   "made": "2005-10-21",
   "gazette": "2006-02-13",
   "numac": 2006035040,
   "document_start": "2005-10-01",
   "document_end": "2006-12-31",
-  "in_force": "2006-06-01",
+  "in_force": "2007-01-01",
   "article_versions": 75,
-  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2007-01-01; future article versions excluded; article text as the API gives it"
 }
