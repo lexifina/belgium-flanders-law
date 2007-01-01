@@ -2,16 +2,16 @@
   "codex_id": 1014682,
   "title": "Besluit van de Vlaamse Regering van 2006-05-12 houdende wijziging van het besluit van de Vlaamse Regering van 27 april 2001 houdende de voorwaarden inzake financiële ondersteuning van particuliere opvangvoorzieningen",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1014682/VolledigDocument?datum=2006-01-01",
-  "source_sha256": "63963fe7ce8c857e4eb7e61a91978b69ea547d3482a0f6e8e113dda446cded5d",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1014682/VolledigDocument?datum=2007-01-01",
+  "source_sha256": "a4573e500607f5ffd5d1d64c4bc95f1164ede25f53fe37945a72a21482c92aa3",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1014682&param=informatie",
-  "as_of": "2006-01-01",
+  "as_of": "2007-01-01",
   "made": "2006-05-12",
   "gazette": "2006-07-17",
   "numac": 2006036071,
   "document_start": "2006-01-01",
   "document_end": null,
-  "in_force": "2006-01-01",
-  "article_versions": 11,
-  "record_form": "consolidated version as in force on 2006-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "in_force": "2007-01-01",
+  "article_versions": 12,
+  "record_form": "consolidated version as in force on 2007-01-01; future article versions excluded; article text as the API gives it"
 }

@@ -28,6 +28,10 @@ Artikel 10 van hetzelfde besluit, vervangen bij het besluit van de Vlaamse Reger
 
 Artikel 15 van hetzelfde besluit, vervangen bij het besluit van de Vlaamse Regering van 13 december 2002, wordt vervangen door wat volgt :<br />« Art. 15. De kostenvergoeding bedraagt 500 euro per plaats op jaarbasis, beperkt tot maximaal 22 plaatsen per opvangvoorziening op jaarbasis. »<br /><br />
 
+### ART. 8.
+
+Aan artikel 15 van hetzelfde besluit, vervangen bij het besluit van de Vlaamse Regering van 13 december 2002, waarvan de bestaande tekst § 1 zal vormen, wordt een § 2 toegevoegd die luidt als volgt :<br />« § 2. De kostenvergoeding, vermeld in § 1, wordt volledig toegekend als er opvang is gedurende ten minste 220 dagen per jaar, waarbij per opvangdag minstens vijf uur opvang plaatsvindt. <br /><br />§ 3. De kostenvergoeding, vermeld in § 1, wordt verhoudingsgewijs verlaagd als er minder dan 220 opvangdagen van minstens vijf uur opvang per dag plaatsvinden. »<br /><br />
+
 ### ART. 9.
 
 In artikel 17, § 1, van hetzelfde besluit, vervangen bij het besluit van de Vlaamse Regering van 13 december 2002, worden de woorden « In de eerste maand van elk kwartaal » vervangen door de woorden « Op het einde van elk kwartaal ».<br /><br />
