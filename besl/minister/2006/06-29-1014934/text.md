@@ -6,12 +6,12 @@ De Vlaamse minister van Institutionele Hervormingen, Landbouw, Zeevisserij en Pl
 
 ### ART. 1.
 
-Voor de toepassing van dit besluit wordt verstaan onder :<br />1. vissersvaartuig : een vaartuig vermeld in de « Officiële lijst der Belgische vissersvaartuigen »;<br />2. i.c.e.s.-gebieden : de in bijlage III van Verordening (EEG) nr. 3880/91 van de Raad van 17 december 1991 inzake de verstrekking van statistieken van de nominale vangsten van lidstaten, die in het noordwestelijk gedeelte van de Atlantische Oceaan vissen, opgenomen beschrijving van gebieden en sectoren.<br /><br />
+...
 
 ### ART. 2.
 
-Het nationale quotum van tong in de i.c.e.s.-gebieden VIIIa,b wordt geacht volledig te zijn gebruikt.<br /><br />De visserij op tong in de wateren van de i.c.e.s.-gebieden VIIIa,b is verboden voor alle vissersvaartuigen alsmede het aan boord houden, het overladen en het lossen van tong gevangen in deze wateren, na de datum van inwerkingtreding van dit besluit.<br /><br />
+...
 
 ### ART. 3.
 
-Dit besluit treedt in werking de dag waarop het in het Belgisch Staatsblad wordt bekendgemaakt en treedt buiten werking op 31 december 2006, om 24 uur.<br /><br />
+...
