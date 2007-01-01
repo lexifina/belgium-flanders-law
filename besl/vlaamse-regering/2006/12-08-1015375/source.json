@@ -1,0 +1,17 @@
+{
+  "codex_id": 1015375,
+  "title": "Besluit van de Vlaamse Regering van 2006-12-08 houdende regeling van de inwerkingtreding van het decreet van 30 april 2004 tot oprichting van het publiekrechtelijk vormgegeven extern verzelfstandigd agentschap Vlaams Agentschap voor Geestelijke Gezondheidszorg, en van het decreet van 31 maart 2006 houdende wijziging van decreet van 30 april 2004 tot oprichting van het publiekrechtelijk vormgegeven extern verzelfstandigd agentschap Vlaams Agentschap voor Geestelijke Gezondheidszorg",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1015375/VolledigDocument?datum=2007-01-01",
+  "source_sha256": "62ec2d7a4fff1d5b2aa1fb6ffe7be793242eb1961064fecdfccfa99cb1036515",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1015375&param=informatie",
+  "as_of": "2007-01-01",
+  "made": "2006-12-08",
+  "gazette": "2007-01-18",
+  "numac": 2007035028,
+  "document_start": "2007-01-01",
+  "document_end": null,
+  "in_force": "2007-01-01",
+  "article_versions": 6,
+  "record_form": "consolidated version as in force on 2007-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
