@@ -2,16 +2,16 @@
   "codex_id": 1000047,
   "title": "Besluit van de Vlaamse Regering van 1994-03-30 [houdende vaststelling van de rechtspositieregeling van het instructiepersoneel en het technisch omkaderingspersoneel bij arbeidsovereenkomst aangeworven bij de Vlaamse Dienst voor Arbeidsbemiddeling en Beroepsopleiding]",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1000047/VolledigDocument?datum=2006-06-01",
-  "source_sha256": "de2fceba1e031748e15fca1a7717596db74e4f04a0e03c3a1f84e0e00f300a0b",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1000047/VolledigDocument?datum=2007-01-01",
+  "source_sha256": "a8601170886b82389e3dd94343d97a87058c87e795101ff6d19f9d37548509b4",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1000047&param=informatie",
-  "as_of": "2006-06-01",
+  "as_of": "2007-01-01",
   "made": "1994-03-30",
   "gazette": "1994-04-26",
   "numac": 1994035530,
   "document_start": null,
   "document_end": "2014-12-31",
-  "in_force": "2006-06-01",
-  "article_versions": 23,
-  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "in_force": "2007-01-01",
+  "article_versions": 24,
+  "record_form": "consolidated version as in force on 2007-01-01; future article versions excluded; article text as the API gives it"
 }

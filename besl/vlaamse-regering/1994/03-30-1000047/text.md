@@ -10,7 +10,7 @@
 
 ### ART. 2.
 
-Het beheerscomité van de Vlaamse Dienst voor Arbeidsbemiddeling en Beroepsopleiding legt de te-werkstellingsvoorwaarden vast.
+De raad van bestuur van de Vlaamse Dienst voor Arbeidsbemiddeling en Beroepsopleiding legt de te-werkstellingsvoorwaarden vast.
 
 ## HOOFDSTUK III ARBEIDSVOORWAARDEN
 
@@ -18,7 +18,11 @@ Het beheerscomité van de Vlaamse Dienst voor Arbeidsbemiddeling en Beroepsoplei
 
 ### ART. 3.
 
-[§ 1.  <span class="reference">(verv. B.V.R. 25 februari 2005, art. 3)</span> ] [Het contractuele personeelslid, bedoeld in artikel 1  <span class="reference">(verv. B.V.R. 25 februari 2005, art. 3, I: 1 april 2005)</span> ] [heeft recht op jaarlijks vakantieverlof overeenkomstig de wetten betreffende de jaarlijkse vakantie van de werknemers, gecoördineerd bij koninklijk besluit van 28 juni 1971, en op verlof voor feestdagen overeenkomstig de wet van 4 januari 1974 betreffende de feestdagen uitgevoerd bij koninklijk besluit van 18 april 1974.  <span class="reference">(verv. B.V.R. 9 september 1997, art. 1, I: 1 mei 1994)</span> ]<br /><br />[Het contractuele personeelslid, bedoeld in artikel 1  <span class="reference">(verv. B.V.R. 25 februari 2005, art. 3, I: 1 april 2005)</span> ] werkzaam in de centra voor beroepsopleiding moet zijn jaarlijks verlof nemen gedurende de periode die vastgesteld wordt in het huishoudelijk reglement van de centra voor beroepsopleiding. De resterende dagen worden genomen na toestemming van de directeur van de subregionale dienst van de regio waar het centrum gelegen is.<br /><br />Voor de regeling van het omstandigheidsverlof is artikel 6 van hoofdstuk III van het koninklijk besluit van 1 juni 1964 betreffende sommige verloven toegestaan aan personeelsleden van de rijksbesturen, zoals van toepassing op 24 december 1991, van toepassing.<br /><br />[§ 2. Het contractuele personeelslid, bedoeld in artikel 1, kan loopbaanonderbreking krijgen overeenkomstig de arbeidsrechtelijke bepalingen die van toepassing zijn op de instelling.<br /><br />§ 3. Het contractuele personeelslid, bedoeld in artikel 1, heeft recht op ouderschapsverlof en bijstandsverlof in de vorm van loopbaanonderbreking volgens de regeling die geldt voor de ambtenaar. Om het recht op ouderschapsverlof of op bijstandsverlof in de vorm van halftijdse loopbaanonderbreking te kunnen uitoefenen, moet het contractuele personeelslid evenwel minstens met drievierden prestaties zijn tewerkgesteld.  <span class="reference">(ing. B.V.R. 25 februari 2005, art. 3, I: 1 april 2005)</span> ]
+§ 1.Het contractuele personeelslid, bedoeld in artikel 1 heeft recht op jaarlijks vakantieverlof overeenkomstig de wetten betreffende de jaarlijkse vakantie van de werknemers, gecoördineerd bij koninklijk besluit van 28 juni 1971, en op verlof voor feestdagen overeenkomstig de wet van 4 januari 1974 betreffende de feestdagen uitgevoerd bij koninklijk besluit van 18 april 1974. <br /><br />Het contractuele personeelslid, bedoeld in artikel 1 werkzaam in de competentiecentra moet zijn jaarlijks verlof nemen gedurende de periode die vastgesteld wordt in het huishoudelijk reglement van de competentiecentra . De resterende dagen worden genomen na toestemming van de directeur competentiecentra van de provincie waar het centrum gelegen is.<br /><br />Voor de regeling van het omstandigheidsverlof is artikel 6 van hoofdstuk III van het koninklijk besluit van 1 juni 1964 betreffende sommige verloven toegestaan aan personeelsleden van de rijksbesturen, zoals van toepassing op 24 december 1991, van toepassing.<br /><br />§ 2. Het contractuele personeelslid, bedoeld in artikel 1, kan loopbaanonderbreking krijgen overeenkomstig de arbeidsrechtelijke bepalingen die van toepassing zijn op de instelling.<br /><br />§ 3. Het contractuele personeelslid, bedoeld in artikel 1, heeft recht op ouderschapsverlof en bijstandsverlof in de vorm van loopbaanonderbreking volgens de regeling die geldt voor de ambtenaar. Om het recht op ouderschapsverlof of op bijstandsverlof in de vorm van halftijdse loopbaanonderbreking te kunnen uitoefenen, moet het contractuele personeelslid evenwel minstens met drievierden prestaties zijn tewerkgesteld.
+
+### ART. 3bis.
+
+Het contractuele personeelslid, bedoeld in artikel 1, heeft recht op dienstvrijstellingen volgens de regeling die van toepassing is voor de ambtenaren van de Vlaamse Dienst voor Arbeidsbemiddeling en Beroepsopleiding.<br /><br />Over andere dienstvrijstellingen beslist de raad van bestuur.
 
 ### ART. 4.
 
@@ -28,7 +32,7 @@ Voor de controle op het zieke personeelslid is dezelfde regeling als voor de amb
 
 ### ART. 5.
 
-Voor elk personeelslid wordt jaarlijks een beschrijvende beoordeling opgemaakt, volgens de bepalin-gen vastgelegd door het beheerscomité. Bij het vaststellen van deze bepalingen wordt rekening gehouden met de hierna vermelde principes.<br /><br />De beoordeling, genoteerd op het beoordelingsformulier, wordt besproken met betrokkene in een beoordelingsgesprek. De beoordeelde kan, bij ondertekening, zijn/haar persoonlijke opmerkingen op het beoordelingsformulier aanbrengen.<br /><br />Indien het beschrijvend beoordelingsverslag wordt besloten met de vermelding "onvoldoende" dan kan de beoordeelde daartegen beroep instellen bij een geschillencommissie en verzoeken om hierover gehoord te worden. Het beroep werkt opschortend ten overstaan van de uitgebrachte beoordeling.<br /><br />De verzoeker mag zich voor zijn verdediging laten bijstaan door een raadgever of bij gewettigde verhindering zich door die raadgever laten vertegenwoordigen.
+Voor elk personeelslid wordt jaarlijks een beschrijvende beoordeling opgemaakt, volgens de bepalin-gen vastgelegd door de raad van bestuur. Bij het vaststellen van deze bepalingen wordt rekening gehouden met de hierna vermelde principes.<br /><br />De beoordeling, genoteerd op het beoordelingsformulier, wordt besproken met betrokkene in een beoordelingsgesprek. De beoordeelde kan, bij ondertekening, zijn/haar persoonlijke opmerkingen op het beoordelingsformulier aanbrengen.<br /><br />Indien het beschrijvend beoordelingsverslag wordt besloten met de vermelding "onvoldoende" dan kan de beoordeelde daartegen beroep instellen bij een geschillencommissie en verzoeken om hierover gehoord te worden. Het beroep werkt opschortend ten overstaan van de uitgebrachte beoordeling.<br /><br />De verzoeker mag zich voor zijn verdediging laten bijstaan door een raadgever of bij gewettigde verhindering zich door die raadgever laten vertegenwoordigen.
 
 ### ART. 6.
 
@@ -36,98 +40,110 @@ De geschillencommissie heeft het finale beslissingsrecht over de beoordeling. Hi
 
 ### ART. 7.
 
-De leden van de geschillencommissie worden aangeduid door de administrateur-generaal van de Vlaamse dienst voor Arbeidsbemiddeling en Beroepsopleiding. De samenstelling en wijzigingen ervan worden bekend gemaakt aan het tussenoverlegcomité en het beheerscomité. Bij de samenstelling van de geschillencommissie geldt het principe dat de verschillende hiërarchische niveaus van [de contractuele personeelsleden, bedoeld in artikel 1  <span class="reference">(verv. B.V.R. 25 februari 2005, art. 4, I: 1 april 2005)</span> ] erin vertegenwoordigd dienen te zijn. Plaatsvervangende leden kunnen worden aangeduid wanneer de objectiviteit van de beslissing in het gedrang komt.
+De leden van de geschillencommissie worden aangeduid door de gedelegeerd bestuurder van de Vlaamse dienst voor Arbeidsbemiddeling en Beroepsopleiding. De samenstelling en wijzigingen ervan worden bekend gemaakt aan het Entiteitsoverlegcomité en de raad van bestuur. Bij de samenstelling van de geschillencommissie geldt het principe dat de verschillende hiërarchische niveaus van de contractuele personeelsleden, bedoeld in artikel 1 erin vertegenwoordigd dienen te zijn. Plaatsvervangende leden kunnen worden aangeduid wanneer de objectiviteit van de beslissing in het gedrang komt.
 
 ## AFDELING 3 GELDELIJKE REGELING
 
 ### ART. 8.
 
-<p>[§ 1. Aan de hiernavolgende betrekkingen (voltijdse prestaties) worden de salarisschalen verbonden die overeenkomen met de volgende codes:<br>
-&nbsp;</p>
+<p>§ 1. Aan de hiernavolgende betrekkingen (voltijdse prestaties) worden de salarisschalen verbonden die overeenkomen met de volgende codes :<br>
+</p>
 
 <table border="1" cellpadding="0" cellspacing="0" style="border-collapse:collapse">
 	<tbody>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:365.4pt">
-			<p><!--?xml:namespace prefix         = o ns = "urn:schemas-microsoft-com:office:office"         /-->&nbsp;</p>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top">
+			<p>Salarisschaal<!--?xml:namespace         prefix = o ns = "urn:schemas-microsoft-com:office:office"         /--></p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:95.2pt">
-			<p>Salarisschaal</p>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top">
+			<p>Code</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:365.4pt">
-			<p>- Instructeur</p>
-
-			<p>na 4 jaar functionele anciënniteit in de salarisschaal 1a en een gunstige beschrijvende beoordeling</p>
-
-			<p>na 4 jaar functionele anciënniteit in de salarisschaal 1b en een gunstige beschrijvende beoordeling</p>
-
-			<p>&nbsp;</p>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top">
+			<p>1° instructeur</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:95.2pt">
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top">
 			<p>1a</p>
-
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top">
+			<p>a) na drie jaar functionele anciënniteit in de salarisschaal 1a en een gunstige beschrijvende beoordeling</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top">
 			<p>1b</p>
-
-			<p>&nbsp;</p>
-
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top">
+			<p>b) na drie jaar functionele anciënniteit in de salarisschaal 1b en een gunstige beschrijvende beoordeling</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top">
 			<p>1c</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:365.4pt">
-			<p>- Eerste instructeur trainingsmanager B</p>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top">
+			<p>2° eerste instructeur trainingsmanager B</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:95.2pt">
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top">
 			<p>2</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:365.4pt">
-			<p>- Coördinator trainingsmanager A</p>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top">
+			<p>3° coördinator trainingsmanager A</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:95.2pt">
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top">
 			<p>3</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:365.4pt">
-			<p>- Auditor</p>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top">
+			<p>4° auditor</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:95.2pt">
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top">
 			<p>4</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:365.4pt">
-			<p>- Technisch adviseur</p>
-
-			<p><em>(verv. </em><em>B.V.R. 9 september 1997, art. 2, I: 1 mei 1994)</em><strong>]</strong></p>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top">
+			<p>5° technisch adviseur</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:95.2pt">
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top">
 			<p>5</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:365.4pt">
-			<p><strong>[</strong>- Handlanger:</p>
-
-			<p>- Snijd(er)(ster), magazijnier:</p>
-
-			<p>- Geschoold onderhoudsarbeider:</p>
-
-			<p>- Hoofdmagazijnier, gereedschapsmaker:</p>
-
-			<p><em>(ing. B.V.R. 25 februari 2005, art. 5, I: 1 april 2005)</em><strong>]</strong></p>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top">
+			<p>6° handlanger</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:95.2pt">
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top">
 			<p>6</p>
-
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top">
+			<p>7° snijder, magazijnier</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top">
 			<p>7</p>
-
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top">
+			<p>8° geschoold onderhoudsarbeider</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top">
 			<p>8</p>
-
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top">
+			<p>9° hoofdmagazijnier, gereedschapsmaker</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top">
 			<p>9</p>
 			</td>
 		</tr>
@@ -136,15 +152,15 @@ De leden van de geschillencommissie worden aangeduid door de administrateur-gene
 
 <p>&nbsp;</p>
 
-<p>[Deze salarisschalen zijn opgenomen in de bijlage bij dit besluit.<br>
+<p>&nbsp;</p>
+
+<p>§ 2. Het salaris volgt de evolutie van het indexcijfer van de consumptieprijzen, overeenkomstig de bepalingen voorgeschreven door de wet van 1 maart 1977 houdende inrichting van een stelsel waarbij sommige uitgaven in de overheidssector aan het indexcijfer van de consumptieprijzen van het rijk worden gekoppeld. Het salaris tegen 100 % wordt gekoppeld aan het spilindexcijfer 138,01 (102,02).<br>
 <br>
-§ 2. Het salaris volgt de evolutie van het indexcijfer van de consumptieprijzen, overeenkomstig de bepalingen voorgeschreven door de wet van 1 maart 1977 houdende inrichting van een stelsel waarbij sommige uitgaven in de overheidssector aan het indexcijfer van de consumptieprijzen van het rijk worden gekoppeld. Het salaris tegen 100 % wordt gekoppeld aan het spilindexcijfer 138,01 (102,02). (verv. B.V.R. 9 september 1997, art. 2, I: 1 mei 1994) ]<br>
-<br>
-§ 3. [Het contractuele personeelslid, bedoeld in artikel 1 (verv. B.V.R. 25 februari 2005, art. 5, I: 1 april 2005) ] [met een arbeidsovereenkomst voor deeltijdse prestaties wordt in de in § 1 vermelde salarisschalen bezoldigd naar rato van deze deeltijdse prestaties. (verv. B.V.R. 9 september 1997, art. 2, I: 1 mei 1994) ]</p>
+§ 3. Het contractuele personeelslid, bedoeld in artikel 1 met een arbeidsovereenkomst voor deeltijdse prestaties wordt in de in § 1 vermelde salarisschalen bezoldigd naar rato van deze deeltijdse prestaties.</p>
 
 ### ART. 9.
 
-[...  <span class="reference">(opgeh. B.V.R. 9 september 1997, art. 3, I: 1 mei 1994)</span> ] Voor bepaalde instructeursfuncties waarvan objectief aangetoond wordt dat ze niet bezet kunnen worden, kan het beheerscomité, naast het brutosalaris, op voorstel van de dienst en na advies van het tussenoverlegcomité een in tijd beperkte premie toekennen.<br /><br />De premie wordt bepaald overeenkomstig de gangbare bezoldiging voor een overeenkomstige functie in de betreffende industrietak.
+Voor bepaalde instructeursfuncties waarvan objectief aangetoond wordt dat ze niet bezet kunnen worden, kan de raad van bestuur, naast het brutosalaris, op voorstel van de dienst en na advies van het tussenoverlegcomité een in tijd beperkte premie toekennen.<br /><br />De premie wordt bepaald overeenkomstig de gangbare bezoldiging voor een overeenkomstige functie in de betreffende industrietak.
 
 ### ART. 10.
 
@@ -160,7 +176,7 @@ De betaling van de bezoldigingen gebeurt maandelijks, overeenkomstig de betaling
 
 ### ART. 13.
 
-[...  <span class="reference">(opgeh. B.V.R. 25 februari 2005, art. 8, I: 1 april 2005)</span> ]
+Het contractuele personeelslid bedoeld in artikel 1, § 2 behoudt in geval van carenzdag zijn bezoldiging voor de betrokken dag.
 
 ### ART. 14.
 
