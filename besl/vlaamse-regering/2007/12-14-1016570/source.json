@@ -1,0 +1,17 @@
+{
+  "codex_id": 1016570,
+  "title": "Besluit van de Vlaamse Regering van 2007-12-14 houdende toekenning van dotaties aan de Vlaamse Instelling voor Technologisch Onderzoek voor het begrotingsjaar 2007",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1016570/VolledigDocument?datum=2007-01-01",
+  "source_sha256": "7e0be5166cb600b7c06d7cf05b19e1e21c2f19d02d3b18dd1a4ccab156fc8215",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1016570&param=informatie",
+  "as_of": "2007-01-01",
+  "made": "2007-12-14",
+  "gazette": "2008-02-06",
+  "numac": 2008035163,
+  "document_start": "2007-01-01",
+  "document_end": "2007-12-31",
+  "in_force": "2007-01-01",
+  "article_versions": 6,
+  "record_form": "consolidated version as in force on 2007-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
