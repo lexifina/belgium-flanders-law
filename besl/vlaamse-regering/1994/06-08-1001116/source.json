@@ -2,16 +2,16 @@
   "codex_id": 1001116,
   "title": "Besluit van de Vlaamse Regering van 1994-06-08 betreffende het financiële en materiële beheer van de diensten met afzonderlijk beheer Bijzondere Jeugdbijstand \"De Zande\" en \"De Kempen\"",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1001116/VolledigDocument?datum=2006-06-01",
-  "source_sha256": "5f88dff296ad188cc874e36d1317ca96e4e59fdddd0785de26eee916636892e5",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1001116/VolledigDocument?datum=2007-01-01",
+  "source_sha256": "3eccdcf17f22cc19ec7ff0dda42ad69fc40309a84f68c7367b6f7fe122759755",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1001116&param=informatie",
-  "as_of": "2006-06-01",
+  "as_of": "2007-01-01",
   "made": "1994-06-08",
   "gazette": "1994-10-20",
   "numac": 1994036115,
   "document_start": null,
   "document_end": "2006-12-31",
-  "in_force": "2006-06-01",
+  "in_force": "2007-01-01",
   "article_versions": 25,
-  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2007-01-01; future article versions excluded; article text as the API gives it"
 }
