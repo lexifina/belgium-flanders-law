@@ -1,0 +1,17 @@
+{
+  "codex_id": 1016491,
+  "title": "Besluit van de Vlaamse Regering van 2007-11-30 [houdende aanduiding van de Vlaamse Auditautoriteit voor de Europese Structuurfondsen, houdende aanduiding van de Vlaamse Auditinstantie voor het Europees fonds voor de integratie van onderdanen van derde landen en houdende oprichting van de Auditcel van de Auditautoriteit (verv. BVR 10 september 2010, art. 1)]",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1016491/VolledigDocument?datum=2007-01-01",
+  "source_sha256": "b245d65b5aa1e8068f6c804e4ef8270ac401ea6c8bb958b1be8663ebf8c1ab16",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1016491&param=informatie",
+  "as_of": "2007-01-01",
+  "made": "2007-11-30",
+  "gazette": "2008-01-14",
+  "numac": 2007037404,
+  "document_start": "2007-01-01",
+  "document_end": null,
+  "in_force": "2007-01-01",
+  "article_versions": 7,
+  "record_form": "consolidated version as in force on 2007-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
