@@ -26,6 +26,10 @@ In artikel 120, § 2, eerste lid, en § 3, eerste lid, van hetzelfde decreet wor
 
 ## Afdeling II Decreet houdende diverse bepalingen met betrekking tot het secundair onderwijs
 
+### ART. III.27.
+
+In hetzelfde decreet, het laatst gewijzigd bij het decreet van 7 juli 2006, wordt een hoofdstuk XIter, bestaande uit artikel 99sexies tot en met artikel 99novies, ingevoegd, dat luidt als volgt :<br /><br />« HOOFDSTUK XIter Ondersteuning van instellingen die binnen het studiegebied Maritieme opleidingen de optie Rijn- en Binnenvaart organiseren<br /><br />Afdeling I Algemene bepalingen<br /><br />Artikel 99sexies <br />Deze titel is van toepassing op een door de Vlaamse Gemeenschap gefinancierde of gesubsidieerde instelling die binnen het studiegebied Maritieme opleidingen de optie Rijn- en Binnenvaart organiseert.<br /><br />Afdeling II Het varend personeel<br /><br />Artikel 99septies <br />Een instelling, als vermeld in artikel 99sexies, heeft jaarlijks recht op een forfaitaire puntenenveloppe van 605 punten.<br /><br />De Vlaamse Regering kan deze puntenenveloppe aanpassen in functie van de beschikbare begrotingskredieten. Zij houdt daarbij rekening met het aantal leerlingen dat is ingeschreven in de studierichting Rijn- en Binnenvaart.<br /><br />Artikel 99octies <br />De instelling wendt de puntenenveloppe, vermeld in artikel 99septies, aan om betrekkingen op te richten in de personeelscategorie van het varend personeel en om 1 betrekking op te richten in een ambt van het ondersteunend personeel.<br /><br />De oprichting van betrekkingen in de personeelscategorie van het varend personeel is gebaseerd op een puntensysteem, waarbij aan elk ambt een aantal punten wordt gekoppeld. Dit aantal punten wordt bepaald op basis van de salarisschaal van het personeelslid dat de betrekking uitoefent.<br /><br />De Vlaamse Regering bepaalt de ambten en legt voor elk ambt de puntenwaarde vast volgens de salarisschaal.<br /><br />Artikel 99novies <br />Het personeelslid dat in een betrekking in een ambt van het varend personeel wordt aangesteld, wordt steeds aangesteld als tijdelijk personeelslid. De bepalingen van het decreet rechtspositie personeelsleden gemeenschapsonderwijs of het decreet rechtspositie personeelsleden gesubsidieerd onderwijs, zijn van toepassing, met uitzondering van volgende bepalingen :<br />1° de betrekking is niet onderworpen aan de reglementering inzake terbeschikkingstelling wegens ontstentenis van betrekking, de reaffectatie en de wedertewerkstelling. De inrichtende macht kan evenwel op vrijwillige basis een personeelslid aanstellen dat ter beschikking is gesteld wegens ontstentenis van betrekking. Die aanstelling wordt beschouwd als een reaffectatie of een wedertewerkstelling. Deze reaffectatie of wedertewerkstelling gebeurt steeds met instemming van het terbeschikkinggestelde personeelslid;<br />2° de bepalingen van artikelen 21 en 21bis van het decreet rechtspositie personeelsleden gemeenschapsonderwijs of artikelen 23 en 23bis van het decreet rechtspositie personeelsleden gesubsidieerd onderwijs zijn niet van toepassing;<br />3° de betrekking kan niet vacant worden verklaard. De inrichtende macht kan in geen geval een personeelslid vast benoemen, affecteren of muteren in deze betrekking.<br /><br />De Vlaamse Regering bepaalt de nadere regeling voor de administratieve en geldelijke rechtspositie van de personeelsleden die worden aangesteld in een betrekking in een ambt van het varend personeel. ».<br /><br />
+
 ## Afdeling III Opheffen van bepalingen
 
 ## Afdeling IV Buitengewoon secundair onderwijs
@@ -50,6 +54,22 @@ In artikel 41 van het decreet van 2 maart 1999 tot regeling van een aantal aange
 
 ## Afdeling I Decreet betreffende de universiteiten in de Vlaamse Gemeenschap
 
+### ART. V.1.
+
+Aan artikel 96 van het decreet van 12 juni 1991 betreffende de universiteiten in de Vlaamse Gemeenschap worden de volgende wijzigingen aangebracht :<br />1° in het tweede lid wordt na de eerste zin een nieuwe zin ingevoegd die luidt als volgt :<br />« De hogere salarisschaal kan zowel worden toegekend bij een aanstelling of benoeming als bij de bevordering van een personeelslid dat reeds in dienst is. »;<br /><br />2° het derde lid wordt vervangen door wat volgt :<br />« Het universiteitsbestuur houdt bij de toekenning van de hogere salarisschaal rekening met de verworven ervaring, de doorlopen beroepscarrière en de verworven kwalificaties. ».<br /><br />
+
+### ART. V.2.
+
+Aan artikel 112 van hetzelfde decreet worden de volgende wijzigingen aangebracht :<br />1° in het eerste lid wordt er tussen de eerste en de tweede zin een zin toegevoegd die luidt als volgt :<br />« Een vacature wordt via ten minste twee openbare informatiekanalen bekendgemaakt. »;<br />2° in het derde lid worden de woorden « ten hoogste twee opeenvolgende graden van hetzelfde niveau » vervangen door de woorden « ten hoogste drie opeenvolgende graden ».<br /><br />
+
+### ART. V.3.
+
+Artikel 113 van hetzelfde decreet wordt opgeheven.<br /><br />
+
+### ART. V.4.
+
+In artikel 117, eerste lid, 1°, van hetzelfde decreet worden de woorden « en 113 » opgeheven.<br /><br />
+
 ## Afdeling II Decreet betreffende de hogescholen in de Vlaamse Gemeenschap
 
 ### ART. V.5.
@@ -60,15 +80,67 @@ In artikel 89, 7°, van het decreet van 13 juli 1994 betreffende de hogescholen 
 
 Artikel 92, § 1, 3°, van hetzelfde decreet wordt opgeheven.<br /><br />
 
+### ART. V.7.
+
+Artikel 95 van hetzelfde decreet wordt vervangen door wat volgt :<br />« Artikel 95<br />In de gevallen vermeld in artikel 92, § 1, 8, artikel 92, § 2, en artikel 93, § 2 en § 3, motiveert het hogeschoolbestuur de beslissing die leidt tot de beëindiging van de aanstelling of de definitieve ambtsneerlegging. ».<br /><br />
+
+### ART. V.8.
+
+In artikel 101 van hetzelfde decreet wordt het tweede lid vervangen door wat volgt :<br />« De ambten van het onderwijzend personeel van de hogescholen worden in de volgende drie groepen ingedeeld :<br />1° groep 1 : de praktijklector, de hoofdpraktijklector, de lector en de hoofdlector;<br />2° groep 2 : het assisterend personeel : de assistent, de doctor-assistent en de werkleider;<br />3° groep 3 : de docent, de hoofddocent, de hoogleraar en de gewoon hoogleraar.<br /><br />De ambten van groep 1 kunnen uitsluitend worden verleend in de professionele bacheloropleidingen. De lectoren en hoofdlectoren kunnen ook belast worden met praktijkgericht onderwijs in de academische bacheloropleidingen.<br /><br />De ambten van groep 2 kunnen uitsluitend worden verleend in de academische opleidingen. De praktijkassistenten, de benoemde assistenten en de werkleiders kunnen ook belast worden met een opdracht in de professionele bacheloropleidingen.<br /><br />De ambten van groep 3 kunnen zowel in de professionele als in de academische opleidingen worden verleend. ». <br /><br />
+
+### ART. V.9.
+
+Artikel 119 van hetzelfde decreet wordt vervangen door wat volgt :<br />« Artikel 119<br />§ 1. Het hogeschoolbestuur bepaalt bij reglement de voorwaarden voor aanstelling of benoeming. Een vacature wordt via ten minste twee openbare informatiekanalen bekendgemaakt.<br /><br />§ 2. Elke werving in een vacante betrekking, met uitzondering van de aanstelling van minder dan één academiejaar, kan slechts gebeuren na een openbare vacature. ».<br /><br />
+
+### ART. V.10.
+
+Aan artikel 122 van hetzelfde decreet wordt een § 2bis toegevoegd, die luidt als volgt :<br />« § 2bis. In afwijking van de bepalingen in § 2, kan het hogeschoolbestuur een lid van het onderwijzend personeel dat de leeftijd van 55 jaar bereikt heeft en de voorwaarden voor vaste benoeming vervult, en dat sinds 1 januari 1996 ononderbroken in dienst is van de hogeschool als assistent, benoemen in het ambt van assistent. Indien het personeelslid reeds een benoeming heeft in een ander onderwijsniveau, kan het slechts ten belope van maximaal één voltijdse benoeming vastbenoemd zijn. ».<br /><br />
+
+### ART. V.11.
+
+Artikel 166 van hetzelfde decreet wordt vervangen door wat volgt :<br />« Artikel 166<br />§ 1. Het hogeschoolbestuur bepaalt bij reglement de voorwaarden voor aanstelling en/of benoeming. Een vacature wordt via ten minste twee openbare informatiekanalen bekendgemaakt.<br /><br />§ 2. Elke werving in een vacante betrekking kan slechts gebeuren na een openbare vacature. ».<br /><br />
+
+### ART. V.12.
+
+Artikel 168 van hetzelfde decreet wordt opgeheven.<br /><br />
+
+### ART. V.13.
+
+Artikel 197 van hetzelfde decreet wordt vervangen door wat volgt :<br />« Artikel 197<br />Deze investeringsmiddelen dragen uitsluitend bij tot de dekking van de uitgaven voor de aankoop van gebouwen, voor de gehele of gedeeltelijke nieuwbouw of verbouwing, voor de voorafgaande afbraakwerken, voor de omgevingswerken, voor de eerste uitrusting, voor de aankoop van gronden, voor de aankoop van didactische en wetenschappelijke apparatuur, voor de onroerende investeringen met betrekking tot de sociale voorzieningen, tot dekking van de kapitaal- en intrestlasten voortspruitend uit leningen ten behoeve van de investeringsuitgaven, tot dekking van de investeringsuitgaven bij publieke private samenwerkingsovereenkomsten en tot dekking van de investeringsuitgaven bij promotieovereenkomsten voor aanneming van werken. ».<br /><br />
+
+### ART. V.14.
+
+In hetzelfde decreet wordt het artikel 199 geschrapt.<br /><br />
+
+### ART. V.15.
+
+Aan het eerste lid van artikel 231 van hetzelfde decreet worden de volgende wijzigingen aangebracht :<br />1° bij het tweede streepje wordt het getal « 36 » vervangen door het getal « 30 »;<br />2° het derde streepje wordt opgeheven.<br /><br />
+
+### ART. V.16.
+
+In hetzelfde decreet wordt een artikel 232bis ingevoegd, dat luidt als volgt :<br />« Artikel 232bis <br />De afwijking tussen de begrote en de gerealiseerde personeelsformatie, uitgedrukt in geld, bedraagt ten hoogste 2,5 %.<br /><br />Als de in het eerste lid vermelde afwijking groter is dan 2,5 % voegt het hogeschoolbestuur hiervoor een verantwoording toe bij de jaarrekening. De verantwoording wordt door de regeringscommissaris beoordeeld bij de analyse van de jaarrekening.<br /><br />Als de regeringscommissaris oordeelt dat er geen redelijke verantwoording is voor de overschrijding van de in het eerste lid vermelde afwijking, dient de commissaris hiertegen een met redenen omkleed bezwaar in bij de Vlaamse Regering.<br /><br />Indien de Vlaamse Regering dit bezwaar bijtreedt, kan zij als sanctie een deel van de toekomstige werkingsuitkering van de hogeschool inhouden.<br /><br />Als de Vlaamse Regering van plan is een deel van de werkingsuitkeringen in te houden, deelt zij dit mee aan het hogeschoolbestuur. Het hogeschoolbestuur heeft dertig dagen om zijn bezwaren tegen dit voornemen aan de Vlaamse Regering mee te delen. De Vlaamse Regering neemt na het verstrijken van de termijn van dertig dagen binnen dertig dagen een beslissing en deelt deze binnen zeven dagen aan het hogeschoolbestuur mee.<br /><br />Het maximale bedrag dat de Vlaamse Regering kan inhouden, wordt berekend door het bedrag van de werkingsuitkeringen, zoals vastgesteld in de jaarrekening, te vermenigvuldigen met het verschil tussen het vastgestelde afwijkingspercentage en het getolereerde afwijkingspercentage, zoals bedoeld in het eerste lid.<br /><br />De inhouding van de werkingsuitkering kan er niet toe leiden dat het aandeel in de enveloppe voor personeelsaangelegenheden in absolute cijfers kleiner wordt dan wanneer de maatregel niet zou getroffen zijn. ».<br /><br />
+
 ### ART. V.17.
 
 De laatste zin van artikel 322 van hetzelfde decreet wordt vervangen door wat volgt :<br />« Met uitzondering van diegenen die in toepassing van artikel 17 van de wet van 7 juli 1970 zoals gewijzigd door artikel 12 van de wet van 18 februari 1977 een afwijking, onbeperkt in de tijd, van het vereiste bekwaamheidsbewijs verkregen hebben, kunnen de tijdelijke personeelsleden in dit nieuwe ambt niet benoemd worden. ».<br /><br />
 
 ## Afdeling III Decreet betreffende de herstructurering van het hoger onderwijs in Vlaanderen
 
+### ART. V.18.
+
+De eerste zin in artikel 11 van het decreet van 4 april 2003 betreffende de herstructurering van het hoger onderwijs in Vlaanderen wordt aangevuld met de woorden « en opleidingen van het hoger beroepsonderwijs die leiden tot een diploma van gegradueerde ».<br /><br />
+
 ### ART. V.19.
 
 In artikel 69, § 3, van hetzelfde decreet worden in de eerste zin na het woord « graden » de woorden « en op voorwaarde dat aan de authenticiteitcontrole van de betreffende diploma's of certificaten is voldaan, voorzover door de Vlaamse overheid maatregelen zijn uitgevaardigd » toegevoegd.<br /><br />
+
+### ART. V.20.
+
+Aan artikel 95bis, § 1, eerste lid, van hetzelfde decreet, ingevoegd bij het decreet van 30 april 2004, wordt een zesde punt toegevoegd dat luidt als volgt :<br />« 6° de rechtspersonen met als maatschappelijk doel het verwerven of beheren van gebouwen en infrastructuur bestemd voor onderwijs, onderzoek, wetenschappelijke of maatschappelijke dienstverlening, verblijven van studenten, onderzoekers en gastprofessoren of voor de valorisatie van de resultaten van wetenschappelijk onderzoek. ».<br /><br />
+
+### ART. V.21.
+
+Aan artikel 124 van hetzelfde decreet, gewijzigd bij het decreet van 19 maart 2004, wordt een § 11 toegevoegd, die luidt als volgt :<br />« § 11. De master- na masteropleidingen die het Europa College Brugge met ingang van het academiejaar 2007-2008 in het arrondissement Brugge organiseert overeenkomstig de bepalingen van dit decreet, worden niet als nieuwe opleidingen beschouwd in de zin van artikel 60septies. Zij worden geacht geaccrediteerd te zijn tot en met het einde van het academiejaar 2009-2010. ».<br /><br />
 
 ### ART. V.22.
 
@@ -87,6 +159,10 @@ Artikel 9 van het decreet van 30 april 2004 betreffende de flexibilisering van h
 Aan artikel 13 van het decreet van 22 december 1995 houdende wijziging van diverse decreten met betrekking tot de Universiteit Antwerpen, gewijzigd bij het decreet van 4 april 2003, worden de volgende wijzigingen aangebracht :<br />1° in het eerste lid worden na de woorden « te wijzigen » de woorden « in het algemeen belang » ingevoegd;<br />2° er wordt een tweede lid toegevoegd dat luidt als volgt :<br />« Behoudens het bepaalde in het eerste lid, krijgen personeelsleden van een universiteit of hogeschool die bezoldigd worden op de werkingsuitkeringen of ambtenaren van een ministerie of instelling van de Vlaamse overheid die het mandaat van beheerder of algemeen beheerder opnemen, voor de duur van het mandaat een verlof voor de uitoefening van een mandaat waarvan het algemeen belang wordt erkend. Het verlof wordt gelijkgesteld met dienstactiviteit. Het wordt niet bezoldigd. ».<br /><br />
 
 ## Afdeling VI Inwerkingtreding
+
+### ART. V.25.
+
+De bepalingen van dit hoofdstuk hebben uitwerking met ingang van 1 januari 2007 met uitzondering van :<br />1° artikel V.17 dat uitwerking heeft met ingang van 1 januari 1996;<br />2° artikel V.1, 1°, dat uitwerking heeft met ingang van 1 oktober 1999;<br />3° artikel V.24 dat uitwerking heeft met ingang van 1 oktober 2003;<br />4° de artikelen V.5. en V.6 die uitwerking hebben met ingang van 1 januari 2004;<br />5° de artikelen V.19, V.22 en V.23 die uitwerking hebben met ingang van het academiejaar 2006-2007;<br />6° artikel V.18 dat inwerking treedt op 1 september 2007.<br /><br />
 
 ## HOOFDSTUK VI Centra voor leerlingenbegeleiding
 
@@ -107,6 +183,10 @@ Aan artikel 73 van hetzelfde decreet, gewijzigd bij het decreet van 7 juli 2006,
 ## Afdeling I Decreet betreffende de inspectie, Dienst voor Onderwijsontwikkeling en pedagogische begeleidingsdiensten
 
 ## Afdeling II Decreet betreffende de inspectie en begeleiding van de levensbeschouwelijke vakken
+
+### ART. VII.18.
+
+In artikel 27, § 1, van hetzelfde decreet worden de woorden « met een forfaitair bedrag, bepaald door de Vlaamse Regering. » vervangen door de woorden « met 3.970,51 euro per aangeduide persoon bedoeld in artikel 4. Vanaf 2008 wordt dit bedrag jaarlijks aangepast aan de evolutie van de gezondheidsindex. ».<br /><br />
 
 ## Afdeling III Inwerkingtreding
 
@@ -182,6 +262,18 @@ In artikel 67, § 2, van het decreet van 2 april 2004 betreffende participatie o
 
 ## Afdeling X Decreet betreffende het onderwijs XIV
 
+### ART. IX.34.
+
+Artikel X.27 van het decreet van 14 februari 2003 betreffende het onderwijs XIV wordt opgeheven.<br /><br />
+
+### ART. IX.36.
+
+Aan artikel X.61 van hetzelfde decreet wordt een punt 8° toegevoegd dat luidt als volgt :<br />« 8° de personeelsleden van de kinderdagverblijven van het gemeenschapsonderwijs gelegen in het tweetalig hoofdstedelijk gebied Brussel, bedoeld in artikel X.22 van dit decreet. ».<br /><br />
+
+### ART. IX.37.
+
+Aan artikel X.62 van hetzelfde decreet wordt een punt 3° toegevoegd dat luidt als volgt :<br />« 3° artikel X.61, 8°, dat in werking treedt op 1 januari 2007. ».<br /><br />
+
 ## Afdeling XI Decreet betreffende het onderwijs XV
 
 ### ART. IX.38.
@@ -189,6 +281,10 @@ In artikel 67, § 2, van het decreet van 2 april 2004 betreffende participatie o
 Artikel VII.20 van het decreet betreffende het onderwijs XV van 15 juli 2005 wordt vervangen door wat volgt :<br />« Artikel VII.20<br />De bepalingen van dit hoofdstuk treden in werking op 1 september 2005, met uitzondering van artikelen VII.4, VII.5, VII.9, VII. 14, 2°, en VII. 18 die uitwerking hebben met ingang van 1 juni 2005. ».<br /><br />
 
 ## Afdeling XII Decreet betreffende de organisatie van tijdelijke projecten
+
+### ART. IX.39.
+
+Aan artikel 6 van het decreet van 9 december 2005 betreffende de organisatie van tijdelijke projecten in het onderwijs, worden de volgende wijzigingen aangebracht :<br />1° de bestaande tekst zal § 1 vormen;<br />2° in § 1 wordt voor het eerste lid een nieuw lid ingevoegd, dat luidt als volgt :<br />« Op tijdelijke projecten die in werking treden uiterlijk 31 maart 2007 zijn de hiernavolgende evaluatiebepalingen van toepassing. »;<br />3° een § 2 wordt toegevoegd, die luidt als volgt :<br />« § 2. Op tijdelijke projecten die in werking treden na 31 maart 2007 zijn de hiernavolgende evaluatiebepalingen van toepassing.<br /><br />In de loop van het laatste werkingsjaar van het tijdelijke project of, in het geval het tijdelijke project langer dan drie jaren duurt, in het derde werkingsjaar, evalueert een expertenpanel het tijdelijke project, in het bijzonder op het vlak van haalbaarheid en wenselijkheid van een organieke implementatie.<br /><br />Het expertenpanel, dat wordt aangeduid door de Vlaamse Regering, is samengesteld uit afgevaardigden van het Vlaams ministerie van Onderwijs en Vorming, afgevaardigden van de onderwijsinspectie en externen. Als externe experten worden alleszins afgevaardigden van het Gemeenschapsonderwijs en van de representatieve verenigingen van de schoolbesturen of inrichtende machten en afgevaardigden van de representatieve vakorganisaties opgenomen. De Vlaamse Regering kan nadere evaluatieregels vastleggen.<br /><br />De resultaten van de evaluatie worden geformuleerd in een advies aan de Vlaamse Regering dat voorgelegd wordt aan het Vlaams Parlement. De Vlaamse Regering beslist, op basis van het advies, over de voortgang of beëindiging van de tijdelijke projecten en eventueel, in het geval van beëindiging gevolgd door een organieke implementatie, over invoering van aanvullende structurele financiering of subsidiëring. ».<br /><br />
 
 ## Afdeling XIII Decreet betreffende het onderwijs XVI
 
