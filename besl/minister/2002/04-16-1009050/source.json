@@ -2,16 +2,16 @@
   "codex_id": 1009050,
   "title": "Ministerieel besluit van 2002-04-16 betreffende de toekenning van subsidies voor de reconversie naar de biologische zeugenhouderij met toepassing van het Vlaams Programma voor Plattelandsontwikkeling",
   "type": "Ministerieel besluit",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1009050/VolledigDocument?datum=2006-06-01",
-  "source_sha256": "94b3f6fe1d21d70ed67e61d39da705b63b06f163a64b5c6f86e0c909c832217e",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1009050/VolledigDocument?datum=2007-01-01",
+  "source_sha256": "3d3ba109ea7ed0669ad7c7926f0947023761f7e65967e1017aed8576672548bc",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1009050&param=informatie",
-  "as_of": "2006-06-01",
+  "as_of": "2007-01-01",
   "made": "2002-04-16",
   "gazette": "2002-04-26",
   "numac": 2002035559,
   "document_start": "2002-04-26",
   "document_end": "2006-12-31",
-  "in_force": "2006-06-01",
+  "in_force": "2007-01-01",
   "article_versions": 10,
-  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2007-01-01; future article versions excluded; article text as the API gives it"
 }
