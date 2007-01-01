@@ -1,0 +1,17 @@
+{
+  "codex_id": 1015629,
+  "title": "Besluit van de Vlaamse Regering van 2007-02-16 tot wijziging van het besluit van de Vlaamse Regering van 15 december 2000 houdende vrijstelling voor bepaalde categorieën gehandicapte personen van de vervulling van verblijfsduurvoorwaarden om de bijstand te genieten van het Vlaams Fonds voor de Sociale Integratie van Personen met een Handicap",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1015629/VolledigDocument?datum=2007-01-01",
+  "source_sha256": "9ca635982c9d4e9cf0e2c295e4b2079fe07ebb50b5f5e7fe795422e4e6a5a642",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1015629&param=informatie",
+  "as_of": "2007-01-01",
+  "made": "2007-02-16",
+  "gazette": "2007-03-16",
+  "numac": 2007035371,
+  "document_start": "2007-01-01",
+  "document_end": null,
+  "in_force": "2007-01-01",
+  "article_versions": 7,
+  "record_form": "consolidated version as in force on 2007-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
