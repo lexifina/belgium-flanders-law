@@ -2,16 +2,16 @@
   "codex_id": 1007951,
   "title": "Besluit van de Vlaamse Regering van 2001-02-23 houdende de regeling van de procedure en de voorwaarden van erkenning en subsidiëring van de steunpunten voor beleidsrelevant onderzoek",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1007951/VolledigDocument?datum=2006-06-01",
-  "source_sha256": "37ac2e839e8fe358a95fe5f649c8fc159fbcce0c29a8ce09100e26e75be3c55b",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1007951/VolledigDocument?datum=2007-01-01",
+  "source_sha256": "65942cca53f93cbf44bc48c6c7b25c184e3085cc347bd3b5488580265ffe8b0d",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1007951&param=informatie",
-  "as_of": "2006-06-01",
+  "as_of": "2007-01-01",
   "made": "2001-02-23",
   "gazette": "2001-04-28",
   "numac": 2001035467,
   "document_start": null,
   "document_end": "2006-12-31",
-  "in_force": "2006-06-01",
+  "in_force": "2007-01-01",
   "article_versions": 12,
-  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2007-01-01; future article versions excluded; article text as the API gives it"
 }
