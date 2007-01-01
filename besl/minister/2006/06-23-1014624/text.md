@@ -10,23 +10,23 @@ In het artikel 8, § 4, van het ministerieel besluit van 26 januari 2006 houdend
 
 ### ART. 2.
 
-In het artikel 12 van hetzelfde besluit, wordt het getal "444" vervangen door het getal "468".<br /><br />
+...<BR><BR>
 
 ### ART. 3.
 
-Het artikel 13 van hetzelfde besluit wordt aangevuld met volgende bepaling :<br />"Het totale tongquotum in de i.c.e.s.-gebieden II, IV (Noordzee en Schelde-estuarium) voorbehouden aan de vissersvaartuigen met een motorvermogen van meer dan 221 kW bedraagt, voor de periode van 1 januari 2006 tot en met 31 december 2006, 1 092 ton.<br /><br />Bij uitputting van dit quotum is het aan die vissersvaartuigen tot en met 31 december 2006 verboden nog tong aan te voeren uit de i.c.e.s.-gebieden II, IV (Noordzee en Schelde-estuarium)." <br /><br />
+<P>...</P>
 
 ### ART. 4.
 
-In het artikel 14 van hetzelfde besluit worden de volgende wijzigingen aangebracht :<br />1° in lid 2 worden de getallen "2 500" en "25" respectievelijk vervangen door "4 500" en "27";<br />2° het artikel wordt aangevuld met het volgend lid :<br />"Onverminderd de bepalingen van vorig lid is het vanaf 1 juli 2006 tot en met 31 oktober 2006 verboden dat in de i.c.e.s.-gebieden II, IV (Noordzee en Schelde-estuarium) de tongvangst van een vissersvaartuig een hoeveelheid overschrijdt die gelijk is aan 2 000 kg vermeerderd met een hoeveelheid die gelijk is aan 17 kg vermenigvuldigd met het motorvermogen van het vissersvaartuig uitgedrukt in kW." <br />
+<P>...</P>
 
 ### ART. 5.
 
-In het artikel 15 van hetzelfde besluit worden de getallen "25" en "2 500" respectievelijk vervangen door de getallen "35" en "3 500".<br /><br />
+<P>...</P>
 
 ### ART. 6.
 
-In het artikel 17 van hetzelfde besluit worden de volgende wijzigingen aangebracht :<br />1° in de § 1 wordt het getal "489" vervangen door het getal "505";<br />2° in de § 2 wordt het getal "2 774" vervangen door het getal "2 862";<br />3° in de § 3 wordt het getal "100" vervangen door het getal "115";<br />4° de § 4 wordt aangevuld met het volgende lid :<br />"Vanaf 1 juli 2006 tot en met 31 oktober 2006 is het verboden dat in de i.c.e.s.-gebieden II, IV (Noordzee en Schelde-estuarium) de scholvangst van een vissersvaartuig met een motorvermogen van meer dan 221 kW een hoeveelheid overschrijdt, die gelijk is aan 70 kg vermenigvuldigd met het motorvermogen van het vissersvaartuig uitgedrukt in kW." <br /><br />
+<P>...</P>
 
 ### ART. 7.
 
@@ -34,20 +34,20 @@ In het artikel 18 van hetzelfde besluit worden de volgende wijzigingen aangebrac
 
 ### ART. 8.
 
-Het artikel 19, § 2, van hetzelfde besluit wordt aangevuld met het volgend lid :<br />"Vanaf 1 juli 2006 tot en met 31 oktober 2006 is het verboden dat in de i.c.e.s.-gebieden VIIh,j,k de tongvangst van een vissersvaartuig met een motorvermogen van meer dan 221 kW een hoeveelheid overschrijdt, die gelijk is aan 4 kg vermenigvuldigd met het motorvermogen van het vissersvaartuig uitgedrukt in kW." <br /><br />
+<P>...</P>
 
 ### ART. 9.
 
-In het artikel 21, vervangen bij ministerieel besluit van 5 april 2006, worden volgende wijzigingen aangebracht : <br />1° in § 3 worden de woorden "7 juli" en "8 juli" respectievelijk vervangen door de woorden "24 juli" en "25 juli" en het getal "15" wordt vervangen door het getal "20"<br />2° § 3 wordt aangevuld met volgend lid :<br />"De Dienst staat in voor de herverdeling en zorgt voor kennisgeving aan betrokkenen." <br /><br />
+<P>...</P>
 
 ### ART. 10.
 
-Het artikel 22 van hetzelfde besluit wordt aangevuld met het volgend lid : <br />"In afwijking van vorig lid mogen in de periode van 1 juli 2006 tot en met 31 december 2006 de tongvangsten van de vissersvaartuigen per zeereis in het betrokken i.c.e.s.-gebied de volgende hoeveelheden vermenigvuldigd met het aantal vaartdagen gerealiseerd tijdens die zeereis in betreffend i.c.e.s.-gebied niet overschrijden :<br />300 kg per vaartdag in het i.c.e.s.-gebied VIIa, ingeval het motorvermogen 221 kW of minder bedraagt;<br />600 kg per vaartdag in het i.c.e.s.-gebied VIIa, ingeval het motorvermogen meer dan 221 bedraagt;<br />20 kg per vaartdag in het i.c.e.s.-gebied VIIe.<br /><br />
+<P>...</P>
 
 ### ART. 11.
 
-In het artikel 23 van hetzelfde besluit, gewijzigd bij het ministerieel besluit van 5 april 2006, worden met ingang van 1 juli 2006 de volgende wijzigingen aangebracht :<br />1° in § 3 wordt het getal "40" vervangen door het getal "60";<br />2° in § 4 wordt het getal "80" vervangen door het getal "120";<br />3° in de §§ 5 en 6 worden de woorden "VIIa en" geschrapt.<br /><br />
+<P>...</P>
 
 ### ART. 12.
 
-Dit besluit treedt in werking op 1 juli 2006 en treedt buiten werking op 31 december 2006, om 24 uur, met uitzondering van de artikelen 1 en 7.<br /><br />
+<P>...</P>
