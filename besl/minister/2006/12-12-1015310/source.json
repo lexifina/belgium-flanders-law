@@ -1,0 +1,17 @@
+{
+  "codex_id": 1015310,
+  "title": "Ministerieel besluit van 2006-12-12 van de Vlaamse minister van Openbare Werken, Energie, Leefmilieu en Natuur en de Nederlandse minister van Verkeer en Waterstaat houdende wijziging van de bijlage bij het Besluit loodsgelden en loodsvergoedingen Scheldereglement",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1015310/VolledigDocument?datum=2007-01-01",
+  "source_sha256": "e171a91c866ebc0d08ae1185e4a0f60b231001090cba7107cce81d56fb5ff635",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1015310&param=informatie",
+  "as_of": "2007-01-01",
+  "made": "2006-12-12",
+  "gazette": "2006-12-22",
+  "numac": 2006037030,
+  "document_start": "2007-01-01",
+  "document_end": null,
+  "in_force": "2007-01-01",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2007-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
