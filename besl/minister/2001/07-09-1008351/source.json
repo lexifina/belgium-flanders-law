@@ -2,16 +2,16 @@
   "codex_id": 1008351,
   "title": "Ministerieel besluit van 2001-07-09 betreffende de bepaling van de forfaitaire subsidiebedragen voor het basisaanbod van kinderdagverblijven en diensten voor opvanggezinnen",
   "type": "Ministerieel besluit",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1008351/VolledigDocument?datum=2006-06-01",
-  "source_sha256": "9396ebd41308e96529a18ec06ab5a83a139381c1bb4c6a9bb063444979deca02",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1008351/VolledigDocument?datum=2007-01-01",
+  "source_sha256": "ca170b9feddaa23ddf61519698223c1c89c3b220b67aab93cdd217de9b2d92b2",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1008351&param=informatie",
-  "as_of": "2006-06-01",
+  "as_of": "2007-01-01",
   "made": "2001-07-09",
   "gazette": "2001-09-06",
   "numac": 2001035979,
   "document_start": "2001-01-01",
   "document_end": "2006-12-31",
-  "in_force": "2006-06-01",
+  "in_force": "2007-01-01",
   "article_versions": 6,
-  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2007-01-01; future article versions excluded; article text as the API gives it"
 }
