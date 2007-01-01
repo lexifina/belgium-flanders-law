@@ -16,10 +16,10 @@ Dit decreet regelt een aangelegenheid bedoeld in artikel 107quater van de Grondw
 <br>
 § 2. Voor de toepassing van dit decreet wordt verstaan onder :<br>
 1° het kaderdecreet : het kaderdecreet Bestuurlijk Beleid van 18 juli 2003;<br>
-2° het Meststoffendecreet : het decreet van 23 januari 1991 inzake de bescherming van het leefmilieu tegen de verontrei-niging door meststoffen;<br>
+2° ...;<br>
 3° het decreet natuurbehoud : het decreet van 21 oktober 1997 betreffende het natuurbehoud en het natuurlijk milieu;<br>
 4° de wetgeving inzake ruilverkaveling van landeigendommen : de wet van 22 juli 1970 op de ruilverkaveling van landeigendommen uit kracht van de wet, de wet van 10 januari 1978 houdende bijzondere maatregelen inzake ruilverkaveling van landeigendommen in der minne, de wet van 12 juli 1976 houdende bijzondere maatregelen inzake ruilverkaveling van landeigendommen uit kracht van de wet bij de uitvoering van grote infrastructuurwerken;<br>
-5° het decreet algemene bepalingen milieubeleid : het decreet van 5 april 1995 houdende de algemene bepalingen inzake milieubeleid. (ing. decr. 7 mei 2004, art. 3, I : 1 april 2006. Zie B.V.R. 31 maart 2006, B.S., 19 mei 2006) ]
+5° het decreet algemene bepalingen milieubeleid : het decreet van 5 april 1995 houdende de algemene bepalingen inzake milieubeleid.
 
 ## [HOOFDSTUK III STATUUT, KAPITAAL EN AANDELEN, DUUR EN ONTBINDING VAN HET AGENTSCHAP (verv. decr. 7 mei 2004, art. 4)]
 
@@ -81,14 +81,7 @@ De vestiging van de zetel van [het agentschap (verv. decr. 7 mei 2004, art. 35, 
 
 ### ART. 5.
 
-[Het agentschap heeft als missie bij te dragen tot de realisatie van de doelstellingen van :<br>
-1° het milieubeleid, bedoeld in artikel 1.2.1, § 1, van het decreet algemene bepalingen milieubeleid;<br>
-2° de ruilverkaveling, bedoeld in de wetgeving inzake ruilverkaveling van landeigendommen;<br>
-3° de landinrichting, bedoeld in hoofdstuk VII betreffende de landinrichting;<br>
-4° het decreet natuurbehoud;<br>
-5° het Meststoffendecreet;<br>
-6° het geïntegreerd plattelandsbeleid;<br>
-7° het grondbeleid van het eigen beleidsdomein. (verv. decr. 7 mei 2004, art. 8, I: 1 april 2006) ]
+Het agentschap heeft als missie bij te dragen tot de realisatie van de doelstellingen van :<br />1° het milieubeleid, bedoeld in artikel 1.2.1, § 1, van het decreet algemene bepalingen milieubeleid;<br />2° de ruilverkaveling, bedoeld in de wetgeving inzake ruilverkaveling van landeigendommen;<br />3° de landinrichting, bedoeld in hoofdstuk VII betreffende de landinrichting;<br />4° het decreet natuurbehoud;<br />5° het Mestdecreet van 22 december 2006;<br />6° het geïntegreerd plattelandsbeleid;<br />7° het grondbeleid van het eigen beleidsdomein.
 
 ## HOOFDSTUK V TAKEN VAN HET AGENTSCHAP
 
@@ -96,25 +89,7 @@ De vestiging van de zetel van [het agentschap (verv. decr. 7 mei 2004, art. 35, 
 
 ### ART. 6.
 
-§ 1. [Het agentschap heeft als taak de uitvoering van het mestbeleid, als bedoeld in het Meststoffendecreet.<br>
-<br>
-Het vervult deze taak onder meer door :<br>
-1° te zorgen voor de inventarisatie van de dierlijke mestproductie, de controle op de afzet van de bedrijfsmatige dierlijke mestoverschotten en de sturing van de meststromen;<br>
-2° te zorgen voor de uitbouw en het beheer van een gronddatabank met betrekking tot de mestproblematiek;<br>
-3° te bemiddelen in de verhandeling of de afname, het vervoer en het verwerken van dierlijke mest;<br>
-4° de vraag te stimuleren naar een ecologisch verantwoord gebruik van dierlijke mest;<br>
-5° voorlichting te geven over productie, vervoer, opslag, opbrenging op de grond en verwerking van dierlijke mest;<br>
-6° initiatieven te nemen met betrekking tot mestverwerking;<br>
-7° mestheffingen te innen en in te vorderen;<br>
-8° te zorgen voor de handhaving van het Meststoffendecreet en de uitvoeringsbesluiten ervan;<br>
-9° een bijdrage te leveren aan het beleid inzake de ingedeelde inrichtingen en activiteiten, bedoeld in het decreet van 28 juni 1985 betreffende de milieuvergunning.<br>
-<br>
-§ 2. Het agentschap is belast met de uitvoering van het beleid ter bescherming van de kwaliteit van de bodem dat erop gericht is om die geschikt te maken of te houden voor zo veel mogelijk bodemfuncties.<br>
-<br>
-Het agentschap vervult deze taak onder meer door :<br>
-1° de bodemtoestand in het Vlaamse Gewest in kaart te brengen en te monitoren;<br>
-2° aan de voorbereiding en de uitvoering van het bodembeschermingsbeleid bij te dragen;<br>
-3° bodems met uitzonderlijke waarde te beschermen tegen onder meer verontreiniging door bestrijdingsmiddelen en tegen aantasting door erosie en structuurbederf. (verv. decr. 7 mei 2004, art. 10, I: 1 april 2006) ]
+§ 1. Het agentschap heeft als taak de uitvoering van het mestbeleid, als bedoeld in het Mestdecreet van 22 december 2006.<br /><br />Het vervult deze taak onder meer door :<br />1° te zorgen voor de inventarisatie van de dierlijke mestproductie, de controle op de afzet van de bedrijfsmatige dierlijke mestoverschotten en de sturing van de meststromen;<br />2° te zorgen voor de uitbouw en het beheer van een gronddatabank met betrekking tot de mestproblematiek;<br />3° te bemiddelen in de verhandeling of de afname, het vervoer en het verwerken van dierlijke mest;<br />4° de vraag te stimuleren naar een ecologisch verantwoord gebruik van dierlijke mest;<br />5° voorlichting te geven over productie, vervoer, opslag, opbrenging op de grond en verwerking van dierlijke mest;<br />6° initiatieven te nemen met betrekking tot mestverwerking;<br />7° ...;<br />8° te zorgen voor de handhaving van het Mestdecreet van 22 december 2006 en de uitvoeringsbesluiten ervan;<br />9° ...<br /><br />§ 2. Het agentschap is belast met de uitvoering van het beleid ter bescherming van de kwaliteit van de bodem dat erop gericht is om die geschikt te maken of te houden voor zo veel mogelijk bodemfuncties.<br /><br />Het agentschap vervult deze taak onder meer door :<br />1° de bodemtoestand in het Vlaamse Gewest in kaart te brengen en te monitoren;<br />2° aan de voorbereiding en de uitvoering van het bodembeschermingsbeleid bij te dragen;<br />3° bodems met uitzonderlijke waarde te beschermen tegen onder meer verontreiniging door bestrijdingsmiddelen en tegen aantasting door erosie en structuurbederf.
 
 ## [AFDELING II OPTIONELE TAKEN DIE WORDEN UITGEVOERD OP VERZOEK VAN EN IN SAMENWERKING MET DE BEVOEGDE DIENSTEN VAN DE VLAAMSE REGERING OF DE BEVOEGDE AGENTSCHAPPEN OF, IN VOORKOMEND GEVAL, IN SAMENWERKING MET DE BEVOEGDE LOKALE BESTUREN (ing. decr. 7 mei 2004, art. 11)]
 
