@@ -2,24 +2,24 @@
 
 ### ART. 1.
 
-In dit besluit wordt verstaan onder:<br /><br />1° decreet: het decreet van 28 februari 2003 betreffende het Vlaamse inburgeringsbeleid;<br /><br />2° meerderjarige persoon van de doelgroep: een vreemdeling als bedoeld in artikel 3, § 1, van het decreet;<br /><br />3° minderjarige anderstalige nieuwkomer: een vreemdeling als bedoeld in artikel 3, § 5, van het decreet;<br /><br />4° administratie: de administratie Gezin en Maatschappelijk Welzijn van het ministerie van de Vlaamse Gemeenschap;<br /><br />5° onthaalbureau: een bureau als bedoeld in artikel 6 of artikel 7, § 2, van het decreet;<br /><br />6° individueel inburgeringsdossier: de verzameling van gegevens over een meerderjarige persoon van de doelgroep of een minderjarige anderstalige nieuwkomer, die door een onthaalbureau geregistreerd worden in een cliëntvolgsysteem als bedoeld in artikel 22 van het decreet;<br /><br />7° cliëntvolgsysteem: het computergestuurde cliëntvolgsysteem, bedoeld in artikel 22 van het decreet;<br /><br />8° inburgeringscontract: een overeenkomst als bedoeld in artikel 2, 9°, van het decreet;<br /><br />9° VDAB: de Vlaamse Dienst voor Arbeidsbemiddeling en Beroepsopleiding;<br /><br />10° Huis van het Nederlands: een feitelijk samenwerkingsverband of een vereniging als bedoeld in artikel 11 van het decreet van 20 december 2002 houdende bepalingen tot begeleiding van de begroting 2003.
+...
 
 ### ART. 2.
 
-Het onthaalbureau houdt op eigen verantwoordelijkheid in het cliëntvolgsysteem een individueel inburgeringsdossier bij van elke meerderjarige persoon van de doelgroep en van elke minderjarige anderstalige nieuwkomer die het bureau bedient in het kader van het inburgeringsbeleid.
+...
 
 ### ART. 3.
 
-§ 1. Het individueel inburgeringsdossier van een meerderjarige persoon van de doelgroep bevat minstens de volgende gegevens:<br /><br />1° de familienaam, de voornaam, het geslacht en de geboorteplaats en -datum;<br /><br />2° de datum van de eerste inschrijving in de gemeente;<br /><br />3° de datum van de eerste aanmelding op het onthaalbureau;<br /><br />4° het verblijfsadres;<br /><br />5° de nationaliteit;<br /><br />6° de verblijfsrechtelijke status en, in voorkomend geval, de ontwikkelingen daarin;<br /><br />7° indien van toepassing: de gezinssamenstelling;<br /><br />8° de resultaten van de intake bij het Huis van het Nederlands en de VDAB, bedoeld in artikel 6 van het besluit van de Vlaamse regering van 30 januari 2004<br /><br />betreffende het Vlaamse inburgeringsbeleid;<br /><br />9° het vastgelegde inburgeringsprogramma, opgenomen in het inburgeringscontract;<br /><br />10° de aanwezigheidsgraad tijdens het vormingsprogramma op het onthaalbureau en, in voorkomend geval, de bewijzen, bedoeld in artikel 32, § 2, tweede lid, van het besluit van de Vlaamse regering van 30 januari 2004 betreffende het Vlaamse inburgeringsbeleid;<br /><br />11° de uitreiking van een attest als bepaald in artikel 14, § 2, van het decreet;<br /><br />12° of de persoon valt onder de verplichting, bedoeld in artikel 3 van het decreet, of, voorzover dat van toepassing is, of de nieuwkomer is vrijgesteld van de verplichting tot deelname aan het inburgeringsprogramma op basis van artikel 6, § 3, of artikel 31 van het besluit van de Vlaamse regering van 30 januari 2004 betreffende het Vlaamse inburgeringsbeleid;<br /><br />13° of de persoon is ingeschreven als werkzoekende bij de Vlaamse Dienst voor Arbeidsbemiddeling en Beroepsopleiding;<br /><br />14° de gegevens die de administratie aanwijst.<br /><br />§ 2. Het individueel inburgeringsdossier van een minderjarige anderstalige nieuwkomer bevat minstens de volgende gegevens:<br /><br />1° de gegevens, vermeld in § 1, 1° tot en met 7°;<br /><br />2° de deelname aan het onthaalonderwijs;<br /><br />3° de gegevens die de administratie aanwijst.
+...
 
 ### ART. 4.
 
-Als het onthaalbureau vaststelt dat een meerderjarige persoon van de doelgroep als bedoeld in artikel 5, § 1, van het decreet zich bevindt in een geval als bedoeld in artikel 12, § 2, tweede lid, van het decreet, meldt het onthaalbureau dat binnen vijftien dagen na die vaststelling schriftelijk aan de leidend ambtenaar van de administratie.<br /><br />Die melding bevat de volgende gegevens:<br /><br />1° de familienaam, de voornaam, het geslacht, de geboorteplaats en -datum en het verblijfsadres van die persoon;<br /><br />2° in welk van de gevallen, bedoeld in artikel 12, § 2, tweede lid, van het decreet, die persoon zich bevindt en alle gegevens tot staving ervan.
+...
 
 ### ART. 5.
 
-§ 1. In een geval als bedoeld in artikel 4 meldt het onthaalbureau binnen vijftien dagen na de vaststelling ervan aan de gemeente waar de meerderjarige persoon van de doelgroep is ingeschreven:<br /><br />1° de gegevens, vermeld in artikel 4, tweede lid, 1°;<br /><br />2° in welk geval die persoon zich bevindt.<br /><br />§ 2. In het geval, bedoeld in artikel 12, § 2, eerste lid, van het decreet, deelt het onthaalbureau schriftelijk aan de gemeente waar de meerderjarige persoon van de doelgroep is ingeschreven de in § 1, 1°, bedoelde gegevens mee.
+...
 
 ### ART. 6.
 
-Dit besluit treedt in werking op 1 april 2004.
+...
