@@ -40,34 +40,102 @@ Voor de toepassing van dit besluit wordt verstaan onder:<br /><br />1° SCIE: Sc
 
 ### ART. 3.
 
-<p>§ 1. [Na een voorafname voor de Katholieke Universiteit Brussel, wordt voor de begrotingsjaren 2003 tot en met 2006 de overheidsbijdrage aan de Bijzondere Onderzoeksfondsen onder de andere universiteiten verdeeld volgens een jaarlijks te becijferen procentuele verdeelsleutel die wordt afgerond op twee cijfers na de komma na afloop van de berekening. De bij toepassing van deze verdeelsleutel bekomen bedragen, worden afgerond op het honderdtal.<br>
+<p>§ 1. Na een voorafname voor de Katholieke Universiteit Brussel, wordt vanaf het begrotingsjaar 2003 de overheidsbijdrage aan de Bijzondere Onderzoeksfondsen onder de andere universiteiten verdeeld volgens een jaarlijks te becijferen procentuele verdeelsleutel die wordt afgerond op twee cijfers na de komma na afloop van de berekening. De bij toepassing van deze verdeelsleutel bekomen bedragen, worden afgerond op het honderdtal.<br>
 <br>
 § 2. De procentuele verdeelsleutel wordt berekend volgens twee onderdelen, waarvan het eerste onderdeel, hierna onderdeel A genoemd, in 200390 % van de resterende middelen omvat, in 200480 % en vanaf 200570 %. Het aandeel voor het tweede onderdeel, hierna onderdeel B genoemd, stijgt in diezelfde periode van 10 % naar 30 %, en wordt verdeeld op basis van productiviteits- en zichtbaarheidscriteria.<br>
 <br>
-§ 3. Onderdeel A van de verdeelsleutel is het gewogen gemiddelde van de volgende drie elementen:<br>
+§ 3. Onderdeel A van de verdeelsleutel is het gewogen gemiddelde van de volgende vier elementen :<br>
+1° het procentueel aandeel van iedere universiteit, uitgezonderd de Katholieke Universiteit Brussel, in het aantal bachelor- en initiële masterdiploma's, afgeleverd in een financierbare studierichting tijdens de in § 4 gedefinieerde vier afgesloten academiejaren. Diploma's die overeenkomstig artikel 131 van het decreet van 12 juni 1991 betreffende de universiteiten in de Vlaamse Gemeenschap behoren tot de financieringsgroep A krijgen wegingsfactor één, diploma's behorend tot de financieringsgroep B krijgen wegingsfactor twee, en diploma's behorend tot de financieringsgroep C krijgen wegingsfactor drie;<br>
+2° het procentuele aandeel van iedere universiteit, uitgezonderd de Katholieke Universiteit Brussel in het aantal doctoraatsdiploma's die tijdens de in § 4 gedefinieerde vier afgesloten academiejaren werden afgeleverd; op deze diploma's wordt dezelfde wegingsfactor toegepast als deze vermeld onder 1° van deze paragraaf;<br>
+3° het procentuele aandeel van iedere universiteit, uitgezonderd de Katholieke Universiteit Brussel, in de jaarlijkse werkingsuitkeringen die overeenkomstig artikel 130 van hetzelfde decreet van 12 juni 1991 werden toegekend tijdens de in § 4 gedefinieerde vier kalenderjaren welke die aan het begrotingsjaar voorafgaan;<br>
+4° het procentueel aandeel van elke universiteit, uitgezonderd de Katholieke Universiteit Brussel, in het aantal eerste aanstellingen in een graad van het zelfstandig academisch personeel van :<br>
+a) personen die promoveerden tot doctor aan een andere dan de aanstellende universiteit;<br>
+b) personen die aan de aanstellende universiteit promoveerden tot doctor, maar gedurende de laatste vijf jaar ten minste drie jaar geen deel uitmaakten van het personeel bij deze of een andere universiteit, een universitair ziekenhuis, een hogeschool, een publieke onderzoeksorganisatie of een onderzoeksorganisatie die structurele financiering krijgt vanuit de Vlaamse begroting;<br>
+c) personen van het vrouwelijk geslacht.<br>
 <br>
-1° het procentueel aandeel van iedere universiteit, uitgezonderd de Katholieke Universiteit Brussel in het aantal tweede cyclus diploma's, afgeleverd in een financierbare studierichting tijdens de in § 4 gedefinieerde vier afgesloten academiejaren. Diploma's die overeenkomstig artikel 131 van het decreet van 12 juni 1991 betreffende de universiteiten in de Vlaamse Gemeenschap behoren tot de financieringsgroep A krijgen wegingsfactor één, diploma's behorend tot de financieringsgroep B krijgen wegingsfactor twee, en diploma's behorend tot de financieringsgroep C krijgen wegingsfactor drie.<br>
+Onder eerste aanstelling als bedoeld in het eerste lid wordt verstaan de indiensttreding aan de universiteit in een van de graden van het zelfstandig academisch personeel conform Hoofdstuk IV, Afdeling 3 van het decreet van 12 juni 1991 betreffende de universiteiten in de Vlaamse Gemeenschap.<br>
 <br>
-2° het procentuele aandeel van iedere universiteit, uitgezonderd de Katholieke Universiteit Brussel in het aantal doctoraatsdiploma's dat de in § 4 gedefinieerde vier afgesloten academiejaren werd afgeleverd; op deze diploma's wordt dezelfde wegingsfactor toegepast als deze vermeld onder 1° van deze paragraaf.<br>
+Bij de bepaling van het aantal aanstellingen :<br>
+1° wordt geen rekening gehouden met dubbeltellingen, in de zin dat een persoon die bij de aanstelling aan een universiteit aan twee van de onder het eerste lid, 4°, bedoelde criteria voldoet, eenmaal wordt geteld;<br>
+2° wordt de Universiteit Antwerpen als één universiteit beschouwd;<br>
+3° worden slechts aanstellingen van tenminste 80% aan de universiteit in rekening genomen, inclusief gemengde aanstellingen aan enerzijds de universiteit en anderzijds :<br>
+a) het daaraan verbonden academisch ziekenhuis; voor de toepassing van deze bepaling wordt het Universitair Ziekenhuis Gent c.q. het Universitair Ziekenhuis Antwerpen beschouwd als verbonden met de Universiteit Gent c.q. de Universiteit Antwerpen;<br>
+b) het Fonds voor Wetenschappelijk Onderzoek-Vlaanderen;<br>
+c) het Instituut voor de Aanmoediging van Innovatie door Wetenschap en Technologie in Vlaanderen;<br>
+d) de strategische onderzoekscentra IBBT, IMEC en VIB.<br>
 <br>
-3° het procentuele aandeel van iedere universiteit, uitgezonderd de Katholieke Universiteit Brussel, in de jaarlijkse werkingsuitkeringen die overeenkomstig artikel 130 van hetzelfde decreet van 12 juni 1991 werd toegekend tijdens de in § 4 gedefinieerde vier kalenderjaren welke die aan het begrotingsjaar voorafgaan.<br>
-<br>
-Om de weging te verrichten worden op de elementen, bedoeld in het eerste lid, volgende factoren toegepast:<br>
-<br>
-a) op het eerste element een factor 0,35,<br>
-<br>
-b) op het tweede element een factor 0,50 en<br>
-<br>
-c) op het derde element een factor 0,15.<br>
-<br>
-Het aandeel van onderdeel A dat elke universiteit, uitgezonderd de Katholieke Universiteit Brussel ontvangt, wordt berekend aan de hand van de volgende formule:<br>
-&nbsp;</p>
+Om de weging te verrichten worden op de elementen, bedoeld in het eerste lid, volgende factoren toegepast :</p>
 
 <table border="1" cellpadding="0" cellspacing="0" style="border-collapse:collapse">
 	<tbody>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:460.6pt">
-			<p>A<sub>u1</sub> = 0.35 x TCD<sub>u1</sub>/S<sub>u:1</sub><sub>®</sub><sub>u</sub>(TCD<sub>u</sub>)+0.50 x D<sub>u1</sub>/S<sub>u:</sub><sub>®</sub><sub>u</sub>(D<sub>u</sub>) + 0.15 x W<sub>u1</sub>/S<sub>su:1</sub><sub>®</sub><sub>u</sub>(W<sub>u</sub>)</p>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:122.2pt">
+			<p>Element/jaar</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:93.2pt">
+			<p>2007</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:96pt">
+			<p>2008</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:177.5pt">
+			<p>2009 en volgende jaren</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:122.2pt">
+			<p>1ste element</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:93.2pt">
+			<p>0.35</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:96pt">
+			<p>0.35</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:177.5pt">
+			<p>0.35</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:122.2pt">
+			<p>2<sup>de</sup> element</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:93.2pt">
+			<p>0.50</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:96pt">
+			<p>0.50</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:177.5pt">
+			<p>0.50</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:122.2pt">
+			<p>3<sup>de</sup> element</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:93.2pt">
+			<p>0.13</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:96pt">
+			<p>0.11</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:177.5pt">
+			<p>0.09</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:122.2pt">
+			<p>4<sup>de</sup> element</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:93.2pt">
+			<p>0.02</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:96pt">
+			<p>0.04</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:177.5pt">
+			<p>0.06</p>
 			</td>
 		</tr>
 	</tbody>
@@ -75,36 +143,49 @@ Het aandeel van onderdeel A dat elke universiteit, uitgezonderd de Katholieke Un
 
 <p>&nbsp;</p>
 
-<p>waarbij<br>
-<br>
-Au1: het procentuele aandeel van het te verdelen bedrag dat gaat naar universiteit u1;<br>
-<br>
-TCDu: het totaal aantal tweede cyclus diploma's van universiteit u, gewogen;<br>
-<br>
-Du: het totaal aantal doctoraten van universiteit u, gewogen;<br>
-<br>
-Wu: de werkingsuitkeringen van universiteit u;<br>
-<br>
-U: het totaal aantal universiteiten, uitgezonderd de Katholieke Universiteit Brussel.<br>
+<p>&nbsp;</p>
+
+<p>Het aandeel van onderdeel A dat elke universiteit, uitgezonderd de Katholieke Universiteit Brussel ontvangt, wordt berekend aan de hand van de volgende formule :</p>
+
+<table border="1" cellpadding="0" cellspacing="0" style="border-collapse:collapse">
+	<tbody>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:460.6pt">
+			<p>Au = g1 x TCDu / Si (TCDi) + g2 x Du / SiDi + g3 x Wu / Si(Wi) + g4 x Pu / Si(Pi)</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p>waarbij :<br>
+Au : het procentuele aandeel van het te verdelen bedrag dat gaat naar universiteit u;<br>
+TCDi : het totaal aantal bachelor- en initiële masterdiploma's van universiteit i, gewogen;<br>
+Di : het totaal aantal doctoraten van universiteit i, gewogen;<br>
+Wi : de werkingsuitkeringen van universiteit i;<br>
+Pi : de personeelsaantallen vermeld in het vierde element van universiteit i;<br>
+g1, g2, g3, g4 : gewichten vermeld in bovenstaande tabel voor elk van de vier elementen;<br>
+de sommatie i loopt over de universiteiten, uitgezonderd de Katholieke Universiteit Brussel.<br>
 <br>
 § 4. Voor de becijfering van de in § 3 vermelde verdeelsleutel voor het begrotingsjaar t worden in rekening gebracht: het aantal tweede cyclus diploma's en het aantal diploma's van de graad van doctor in de academiejaren [(t-6)-(t-5)] tot en met [(t-3)-(t-2)] en het bedrag van de werkingsuitkeringen van de begrotingsjaren (t-4) tot en met (t-1).<br>
+<br>
+Voor het vaststellen van het aantal aanstellingen als bedoeld in § 3, wordt een glijdend tijdsvenster genomen van het begrotingsjaar (t-6) tot en met (t-2) voorafgaand aan het begrotingsjaar t.<br>
 <br>
 § 5. Indien een universiteit de in § 3, 1° bedoelde diploma's nog niet mocht uitreiken tijdens één van de in § 4 vermelde afgesloten academiejaren, wordt het gemiddeld aantal diploma's berekend op basis van het aantal afgesloten academiejaren waarin de betrokken universiteit dit wel mocht en vermenigvuldigd met vier.<br>
 <br>
 § 6. Indien twee of meer Vlaamse universiteiten, andere dan de Katholieke Universiteit Brussel, een reële bijdrage leveren in de wetenschappelijke begeleiding en materiele ondersteuning van de voorbereiding van een proefschrift met het oog op het behalen van een diploma van doctor, kunnen de betrokken universiteiten een overeenkomst sluiten voor de fractionele aanrekening van het diploma met het oog op de bepaling van het in § 3, 2° bedoelde procentueel aandeel met dien verstande dat de som van de fracties steeds gelijk is aan een eenheid vooraleer toepassing wordt gemaakt van de in § 3, 2° vermelde wegingsfactor.<br>
 <br>
 § 7. Conform artikel 7 van het Verdrag tussen het Koninkrijk der Nederlanden en de Vlaamse Gemeenschap van België inzake de transnationale Universiteit Limburg, ondertekend te Maastricht op 18 januari 2001, wordt voor deze instelling bij de bepaling van de in § 3, 1° en 2° bedoelde diploma's enkel rekening gehouden met de diploma's verleend aan:<br>
-<br>
 1°) de Belgische studenten;<br>
-<br>
 2°) de studenten met een andere nationaliteit dan de Belgische of de Nederlandse die evenwel pro rata aangerekend worden volgens het aandeel van de diploma's verleend aan Belgische studenten in het totaal aantal diploma's verleend aan Belgische en Nederlandse studenten.<br>
 <br>
 Voor de bepaling van deze aantallen wordt rekening gehouden met de nationaliteit van betrokkenen op het ogenblik van de inschrijving voor het betrokken academiejaar.<br>
 <br>
 § 8. Onderdeel B van de verdeelsleutel wordt berekend als het procentueel aandeel van elke universiteit, uitgezonderd de Katholieke Universiteit Brussel, in elk van de twee volgende elementen die als criteria voor kwaliteit van het wetenschappelijk onderzoek worden beschouwd:<br>
-<br>
 1. het aantal publicaties als criterium voor productiviteit;<br>
-<br>
 2. het aantal citaties als maat voor de zichtbaarheid.<br>
 <br>
 Voor de weging van onderdeel B wordt op de beide factoren, bedoeld in het eerste lid, een weging van 0.50 toegepast.<br>
@@ -117,9 +198,9 @@ Voor de vaststelling van het aantal publicaties wordt een glijdend tijdsvenster 
 <br>
 In dit telschema kan een citatie slecht éénmaal aan een instelling worden toegewezen. Een citatie naar een publicatie van een universiteit die het resultaat is van een samenwerking met één of meerdere binnen- of buitenlandse instellingen of organisaties, worden als één citatie aan deze universiteit toegewezen.<br>
 <br>
-§ 11. De overheidsbijdrage aan het Bijzonder Onderzoeksfonds van de Katholieke Universiteit Brussel bedraagt voor de jaren 2003 tot en met 2006 jaarlijks 0,23 % van de overheidsbijdrage in de financiering van de Bijzondere Onderzoeksfondsen van de universiteiten in de Vlaamse Gemeenschap.<br>
+§ 11. De overheidsbijdrage aan het Bijzonder Onderzoeksfonds van de Katholieke Universiteit Brussel bedraagt vanaf het jaar 2003 jaarlijks 0,23 % van de overheidsbijdrage in de financiering van de Bijzondere Onderzoeksfondsen van de universiteiten in de Vlaamse Gemeenschap.<br>
 <br>
-§ 12. De bevoegde administratie legt, uiterlijk op 1 april van het academiejaar dat het begrotingsjaar voorafgaat, de gegevens uit de databank tertiair onderwijs over het aantal tweede cyclus diploma's en het aantal doctoraatsdiploma's die nodig zijn voor de berekening van luik A, voor aan de commissarissen die het toezicht uitoefenen op de universiteiten.<br>
+§ 12. De bevoegde administratie legt, uiterlijk op 1 april van het academiejaar dat het begrotingsjaar voorafgaat, de gegevens uit de databank tertiair onderwijs over het aantal bachelor en initiële masterdiploma's, het aantal doctoraatsdiploma's en de gegevens over het aantal eerste aanstellingen in een graad van het zelfstandig academisch personeel vermeld in § 3, 4° die nodig zijn voor de berekening van luik A, voor aan de commissarissen die het toezicht uitoefenen op de universiteiten.<br>
 <br>
 De commissarissen gaan gezamenlijk de echtheid van de gegevens na en waken over de uniforme toepassing van de criteria.<br>
 <br>
@@ -129,7 +210,7 @@ De gegevens worden aangepast aan de opmerkingen van de commissarissen in zover h
 <br>
 In geval van betwisting beslist de minister bevoegd voor het hoger onderwijs.<br>
 <br>
-§ 13. De gegevens voor onderdeel B worden aangeleverd ten laatste op 30 juni van jaar t-1 door het " Steunpunt O&amp;O Statistieken" erkend en betoelaagd overeenkomstig het besluit van de Vlaamse regering van 23 februari 2001 houdende de regeling van de procedure en de voorwaarden van erkenning en subsidiëring van de steunpunten voor beleidsrelevant onderzoek. Het steunpunt legt de gegevens ter validatie voor aan de stuurgroep, die door de Vlaamse regering bij dit steunpunt werd ingesteld. In geval de stuurgroep geen consensus bereikt over de validatie, neemt de minister bevoegd voor hoger onderwijs de beslissing. De minister deelt de beslissingen mee aan de universiteiten en aan het steunpunt. (verv. B.V.R. 24 januari 2003, art. 3, I: 1 januari 2003) ]</p>
+§ 13. De gegevens voor onderdeel B worden aangeleverd ten laatste op 30 juni van jaar t-1 door het " Steunpunt O&amp;O Statistieken" erkend en betoelaagd overeenkomstig het besluit van de Vlaamse Regering van 15 september 2006 betreffende de steunpunten voor beleidsrelevant onderzoek. Het steunpunt legt de gegevens ter validatie voor aan de stuurgroep, die door de Vlaamse regering bij dit steunpunt werd ingesteld. In geval de stuurgroep geen consensus bereikt over de validatie, neemt de minister bevoegd voor hoger onderwijs de beslissing. De minister deelt de beslissingen mee aan de universiteiten en aan het steunpunt.</p>
 
 ### ART. 4.
 
@@ -448,7 +529,7 @@ Op het einde van elke maand wordt aan iedere universiteit één twaalfde van haa
 
 ### ART. 6.
 
-§ 1. Het universiteitsbestuur is er toe gehouden vanuit de hem ter beschikking staande middelen, inclusief de gewone werkingsuitkering, een bedrag gelijk aan ten minste 12 % van de hem toegekende overheidsbijdrage in zijn Bijzonder Onderzoeksfonds als eigen aanvullende bijdrage aan zijn Bijzonder Onderzoeksfonds toe te voegen.<br /><br />§ 2. Overeenkomstig het bepaalde in artikel 128 van het vermelde decreet van 12 juni 1991, gewijzigd door het decreet van 18 mei 1999 betreffende het onderwijs X, mag het universiteitsbestuur vanaf het begrotingsjaar 2000 een bedrag gelijk aan maximum 2 % van de middelen van het Bijzonder Onderzoeksfonds, transfereren naar de werkingsuitkering voor de dekking van de gewone uitgaven.<br /><br />§ 3. Onverminderd het bepaalde in § 2 van dit artikel, mag het universiteitsbestuur in het begrotingsjaar 2000 overeenkomstig het bepaalde in het vermelde artikel 128 een bijkomend bedrag van maximaal 5 % van de middelen van het Bijzonder Onderzoeksfonds transfereren naar de werkingsuitkering voor de dekking van de gewone uitgaven, op voorwaarde dat dit bedrag bestemd wordt voor de loonkosten van de voltijdse leden van het zelfstandig academisch personeel die overeenkomstig een door het universiteitsbestuur bepaalde regeling in hoofdzaak een onderzoeksopdracht en daarnaast slechts een beperkte onderwijsopdracht ten belope van hoogstens 60 lesuur per semester toegewezen krijgen; vanaf het begrotingsjaar 2001 wordt dit bijkomend maximumbedrag dat onder dezelfde voorwaarden mag getransfereerd worden bepaald op maximaal 20 % van de middelen van het Bijzonder Onderzoeksfonds.<br /><br />De toewijzing van de in het eerste en tweede lid bedoelde ZAP-mandaten gebeurt door het universiteitsbestuur, in overeenstemming met het beleidsplan, als bedoeld in artikel 7, en op advies van de onderzoeksraad, en, indien het universiteitsbestuur dit nodig acht, op advies van de IOF-raad.<br /><br />§ 4. Indien de overheidsbijdrage, bedoeld in artikel 1bis, § 4, toegekend in het jaar t, meer dan 1,5% hoger ligt dan de natuurlijke stijging ten gevolge van de indexatie van het bedrag, toegekend in het begrotingsjaar (t-1), wordt het maximaal percentage, dat overeenkomstig § 3 kan worden overgedragen, verhoogd met 1.20%, volgens de formule (X + 1.2)waarbij X het percentage is dat wordt gehanteerd in het begrotingsjaar (t-1).<br />
+§ 1. Vanaf het begrotingsjaar 2007 voegt het universiteitsbestuur, vanuit de aan de universiteit ter beschikking staande middelen, inclusief de gewone werkingsuitkeringen, een bedrag toe aan het Bijzonder Onderzoeksfonds, dat ten minste gelijk is aan het met toepassing van artikel 2, § 2, geïndexeerde bedrag van de eigen aanvullende bijdrage, die in 2006 werd toegekend.<br /><br />§ 2. Overeenkomstig het bepaalde in artikel 128 van het vermelde decreet van 12 juni 1991, gewijzigd door het decreet van 18 mei 1999 betreffende het onderwijs X, mag het universiteitsbestuur vanaf het begrotingsjaar 2000 een bedrag gelijk aan maximum 2 % van de middelen van het Bijzonder Onderzoeksfonds, transfereren naar de werkingsuitkering voor de dekking van de gewone uitgaven.<br /><br />§ 3. Onverminderd het bepaalde in § 2 van dit artikel, mag het universiteitsbestuur in het begrotingsjaar 2000 overeenkomstig het bepaalde in het vermelde artikel 128 een bijkomend bedrag van maximaal 5 % van de middelen van het Bijzonder Onderzoeksfonds transfereren naar de werkingsuitkering voor de dekking van de gewone uitgaven, op voorwaarde dat dit bedrag bestemd wordt voor de loonkosten van de voltijdse leden van het zelfstandig academisch personeel die overeenkomstig een door het universiteitsbestuur bepaalde regeling in hoofdzaak een onderzoeksopdracht en daarnaast slechts een beperkte onderwijsopdracht ten belope van hoogstens 60 lesuur per semester toegewezen krijgen; vanaf het begrotingsjaar 2001 wordt dit bijkomend maximumbedrag dat onder dezelfde voorwaarden mag getransfereerd worden bepaald op maximaal 20 % van de middelen van het Bijzonder Onderzoeksfonds.<br /><br />Voor wat betreft de leden van het zelfstandig academisch personeel, die worden benoemd of aangesteld vanaf 1 januari 2007, of waarvan de opdracht vanaf deze datum wordt herbepaald, wordt de hiernavolgende regeling toegepast. Onverminderd het bepaalde in § 2 van dit artikel, mag het universiteitsbestuur, overeenkomstig het bepaalde in het vermelde artikel 128, een bijkomend bedrag van maximaal 20% van de middelen van het Bijzonder Onderzoeksfonds transfereren naar de werkingsuitkering voor de dekking van de gewone uitgaven, op voorwaarde dat dit bedrag bestemd wordt voor de loonkosten van de leden van het zelfstandig academisch personeel met een minimale aanstellingsomvang van 80%, die overeenkomstig een door het universiteitsbestuur bepaalde regeling in hoofdzaak een onderzoeksopdracht en daarnaast slechts een beperkte onderwijsopdracht onder de vorm van hoorcolleges of seminaries, ten belope van ten hoogste 9 studiepunten op jaarbasis, gemiddeld over 3 jaar, toegewezen krijgen.<br /><br />De toewijzing van de in het eerste en tweede lid bedoelde ZAP-mandaten gebeurt door het universiteitsbestuur, in overeenstemming met het beleidsplan, als bedoeld in artikel 7, en op advies van de onderzoeksraad, en, indien het universiteitsbestuur dit nodig acht, op advies van de IOF-raad.<br /><br />§ 4. Indien de overheidsbijdrage, bedoeld in artikel 1bis, § 4, toegekend in het jaar t, meer dan 1,5% hoger ligt dan de natuurlijke stijging ten gevolge van de indexatie van het bedrag, toegekend in het begrotingsjaar (t-1), wordt het maximaal percentage, dat overeenkomstig § 3 kan worden overgedragen, verhoogd met 1.20%, volgens de formule (X + 1.2)waarbij X het percentage is dat wordt gehanteerd in het begrotingsjaar (t-1).<br />
 
 ### ART. 7.
 
