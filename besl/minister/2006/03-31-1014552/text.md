@@ -14,7 +14,7 @@ Voor de toepassing van dit besluit wordt verstaan onder :<br />1° decreet : het
 
 ### ART. 2.
 
-De aanvraag van de maximale subsidie per drie kalenderjaren en per pijler, vermeld in artikel 19, eerste lid, van het besluit van de Vlaamse Regering, kan over verschillende overeenkomsten en inschrijvingen verspreid worden.<br /><br />
+De aanvraag van de maximale subsidie per twee kalenderjaren en per pijler, vermeld in artikel 19, eerste lid, van het besluit van de Vlaamse Regering, kan over verschillende overeenkomsten en inschrijvingen verspreid worden.<br /><br />
 
 ### ART. 3.
 
@@ -60,7 +60,7 @@ Ter uitvoering van artikel 18, § 3, van het besluit van de Vlaamse Regering kom
 
 ### ART. 13.
 
-Na het tweede kalenderjaar dat volgt op het jaar waarin de subsidieaanvragen werden gedaan kan de onderneming geen aanspraak meer maken op het saldo dat nog in de ondernemerschapsportefeuille aanwezig is.<br /><br />
+Na het eerste kalenderjaar dat volgt op het jaar waarin de onderneming de eerste subsidieaanvraag heeft ingediend kan de onderneming geen aanspraak meer maken op het saldo dat nog in de ondernemerschapsportefeuille aanwezig is.<br /><br />De ondernemingen die een subsidieaanvraag hebben ingediend in het kalenderjaar 2006 kunnen geen aanspraak maken op het saldo dat nog in de ondernemerschapsportefeuille aanwezig is, na het tweede kalenderjaar dat volgt op het kalenderjaar 2006.
 
 ## HOOFDSTUK IV Procedure
 
