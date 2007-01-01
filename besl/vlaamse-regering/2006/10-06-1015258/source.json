@@ -1,0 +1,17 @@
+{
+  "codex_id": 1015258,
+  "title": "Besluit van de Vlaamse Regering van 2006-10-06 tot wijziging van het besluit van de Vlaamse Regering van 22 oktober 2004 betreffende de erkenning en subsidiëring van regionale samenwerkingsverbanden",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1015258/VolledigDocument?datum=2007-01-01",
+  "source_sha256": "99ce7f75329073ce4da927d639304d50d98e18140cbc31a16153fd61cd88b404",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1015258&param=informatie",
+  "as_of": "2007-01-01",
+  "made": "2006-10-06",
+  "gazette": "2006-12-07",
+  "numac": 2006036867,
+  "document_start": "2007-01-01",
+  "document_end": null,
+  "in_force": "2007-01-01",
+  "article_versions": 11,
+  "record_form": "consolidated version as in force on 2007-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
