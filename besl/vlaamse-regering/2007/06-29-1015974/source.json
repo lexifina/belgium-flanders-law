@@ -1,0 +1,17 @@
+{
+  "codex_id": 1015974,
+  "title": "Besluit van de Vlaamse Regering van 2007-06-29 tot bepaling van het kader en van de financiële ondersteuning van proefprojecten 'Centrum voor Kinderopvang'",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1015974/VolledigDocument?datum=2007-01-01",
+  "source_sha256": "2f0c8bda8ce531e764ec111a8ea7b2018d930e9e34b6b1b03703f530ef6f3f7f",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1015974&param=informatie",
+  "as_of": "2007-01-01",
+  "made": "2007-06-29",
+  "gazette": "2007-07-20",
+  "numac": 2007036148,
+  "document_start": "2007-01-01",
+  "document_end": null,
+  "in_force": "2007-01-01",
+  "article_versions": 14,
+  "record_form": "consolidated version as in force on 2007-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
