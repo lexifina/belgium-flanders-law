@@ -8,7 +8,7 @@ Dit decreet regelt een gewestaangelegenheid.
 
 ### ART. 2.
 
-In dit decreet wordt verstaan onder:<br /><br />1° ARKimedes Management NV: de naamloze vennootschap die wordt opgericht zoals omschreven in artikel 3;<br /><br />2° ARKimedes-fonds: een entiteit die op initiatief van ARKimedes Management NV kan worden opgericht met het oog op het toekennen van hefboomleningen of het nemen van kapitaalparticipaties;<br /><br />3° ARK-investering: een investering door een ARKIV die voldoet aan de in artikel 15 gestelde voorwaarden;<br /><br />4° ARKIV: elke risicokapitaalverschaffer die erkend is overeenkomstig artikel 12;<br /><br />5° belastingkrediet: een belastingvoordeel krachtens artikel 6, § 2, eerste lid, 4°, van de bijzondere wet van 16 januari 1989 betreffende de financiering van de gemeenschappen en de gewesten;<br /><br />6° decreet betreffende de Vlaamse investeringsmaatschappijen: het decreet van 13 juli 1994 betreffende de Vlaamse investeringsmaatschappijen, het Limburgfonds en de permanente werkgroep Limburg;<br /><br />7° doelonderneming: elke onderneming die aan de voorwaarden voldoet zoals bepaald in artikel 16;<br /><br />8° hefboomlening: een lening die overeenkomstig artikel 29 door een ARKimedes-fonds aan een ARKIV toegekend wordt binnen de grenzen van haar trekkingsrechten;<br /><br />9° kapitaalparticipatie: een investering door een ARKimedes-fonds in het kapitaal van een ARKIV;<br /><br />10° privaat kapitaal: het door andere partijen dan een ARKimedes-fonds volgestorte of toegezegde kapitaal van een ARKIV;<br /><br />11° risicokapitaalverschaffer: elke publiek- of privaatrechtelijke rechtspersoon, ongeacht zijn nationaliteit, opgericht in de vorm van een vennootschap waarvan zowel het maatschappelijk doel als de reëel uitgevoerde activiteiten in hoofdzaak betrekking hebben op het verstrekken van risicokapitaal aan andere ondernemingen dan met haar verbonden vennoot-schappen als bedoeld in artikel 11 van het Wetboek van Vennootschappen;<br /><br />12° trekkingsrechten: de rechten die een ARKIV heeft om hefboomleningen te verkrijgen van een ARKimedes-fonds.
+In dit decreet wordt verstaan onder:<br /><br />1° ARKimedes Management NV: de naamloze vennootschap die wordt opgericht zoals omschreven in artikel 3;<br /><br />2° ARKimedes-fonds: een entiteit die op initiatief van ARKimedes Management NV kan worden opgericht met het oog op het toekennen van hefboomleningen of het nemen van kapitaalparticipaties;<br /><br />3° ARK-investering: een investering door een ARKIV die voldoet aan de in artikel 15 gestelde voorwaarden;<br /><br />4° ARKIV: elke risicokapitaalverschaffer die erkend is overeenkomstig artikel 12;<br /><br />5° belastingkrediet: een belastingvoordeel krachtens artikel 6, § 2, eerste lid, 4°, van de bijzondere wet van 16 januari 1989 betreffende de financiering van de gemeenschappen en de gewesten;<br /><br />6° decreet betreffende de Vlaamse investeringsmaatschappijen: het decreet van 13 juli 1994 betreffende de Vlaamse investeringsmaatschappijen, het Limburgfonds en de permanente werkgroep Limburg;<br /><br />7° doelonderneming : een kleine, middelgrote of micro-onderneming als gedefinieerd in aanbeveling 2003/361/EG van de Europese Commissie van 6 mei 2003 betreffende de definitie van kleine, middelgrote en micro-ondernemingen, met inbegrip van alle latere wijzigingen daarvan, die de vorm van een vennootschap met rechtspersoonlijkheid aanneemt en die beschikt over een exploitatiezetel in het Vlaamse Gewest, of die zich ertoe verbindt in het Vlaamse Gewest een exploitatiezetel te vestigen;<br /><br />8° hefboomlening: een lening die overeenkomstig artikel 29 door een ARKimedes-fonds aan een ARKIV toegekend wordt binnen de grenzen van haar trekkingsrechten;<br /><br />9° kapitaalparticipatie: een investering door een ARKimedes-fonds in het kapitaal van een ARKIV;<br /><br />10° privaat kapitaal: het door andere partijen dan een ARKimedes-fonds volgestorte of toegezegde kapitaal van een ARKIV;<br /><br />11° risicokapitaalverschaffer: elke publiek- of privaatrechtelijke rechtspersoon, ongeacht zijn nationaliteit, opgericht in de vorm van een vennootschap waarvan zowel het maatschappelijk doel als de reëel uitgevoerde activiteiten in hoofdzaak betrekking hebben op het verstrekken van risicokapitaal aan andere ondernemingen dan met haar verbonden vennoot-schappen als bedoeld in artikel 11 van het Wetboek van Vennootschappen;<br /><br />12° trekkingsrechten: de rechten die een ARKIV heeft om hefboomleningen te verkrijgen van een ARKimedes-fonds.
 
 ## HOOFDSTUK II ARKIMEDES MANAGEMENT NV
 
@@ -74,31 +74,31 @@ Een investering is een ARK-investering als:<br /><br />1° het een investering i
 
 ### ART. 16.
 
-Een doelonderneming is elke onderneming die cumulatief aan de volgende voorwaarden voldoet:<br /><br />1° de onderneming is een handelsvennootschap of een burgerlijke vennootschap, die de rechtsvorm van een handelsvennootschap heeft aangenomen en die beschikt over een exploitatiezetel in het Vlaamse Gewest, of die zich ertoe verbindt in het Vlaamse Gewest een exploitatiezetel te vestigen;<br /><br />2° de onderneming stelt minder dan 250 werknemers te werk;<br /><br />3° de onderneming heeft een jaaromzet van maximaal 40 miljoen euro, of een jaarlijks balanstotaal van maximaal 27 miljoen euro;<br /><br />4° de onderneming beantwoordt aan het zelfstandigheidscriterium zoals bepaald in artikel 17.
+...
 
 ## AFDELING 2 ZELFSTANDIGHEIDSCRITERIUM
 
 ### ART. 17.
 
-§ 1. Om te voldoen aan het zelfstandigheidscriterium, bepaald in artikel 16, 4°, mag de onderneming niet voor 25 % of meer van het kapitaal of van de stemrechten in handen zijn van een grote onderneming of van verscheidene grote ondernemingen samen.<br /><br />Voor de toepassing van het bepaalde in het eerste lid wordt als grote onderneming beschouwd elke onderneming die aan minstens één van de voorwaarden, gesteld in artikel 16, 2°, 3° en 4°, niet voldoet.<br /><br />§ 2. De drempelwaarde in § 1, eerste lid, mag overschreden worden in de volgende twee gevallen:<br /><br />1° als de onderneming in handen is van openbare participatiemaatschappijen, van risicokapitaalverschaffers of van institutionele beleggers, mits die individueel noch gezamenlijk in enig opzicht zeggenschap over de onderneming hebben;<br /><br />2° als het wegens de spreiding van het kapitaal onmogelijk is te weten in welke handen het kapitaal is, en de onderneming verklaart dat ze redelijkerwijs mag aannemen niet voor 25 % of meer in handen te zijn van een grote onderneming of van verscheidene grote ondernemingen samen.
+...
 
 ## AFDELING 3 OMZET EN BALANSTOTAAL
 
 ### ART. 18.
 
-§ 1. Bij de berekening van de drempelwaarden, bepaald in artikel 16, 3°, worden de relevante cijfers samengeteld van de onderneming in kwestie en die van alle ondernemingen waarvan ze rechtstreeks of onrechtstreeks 25 % of meer van het kapitaal of van de stemrechten in handen heeft.<br /><br />§ 2. De voor de omzet en het balanstotaal te hanteren drempels zijn die welke betrekking hebben op het laatste afgesloten boekjaar van twaalf maanden. Bij recent opgerichte ondernemingen waarvan de jaarrekening nog niet is afgesloten, moeten de in aanmerking te nemen bedragen worden bepaald door middel van een in de loop van het boekjaar te goeder trouw gemaakte schatting.<br /><br />§ 3. Als artikel 17, § 2, 2°, van toepassing is en de onderneming in kwestie de bedoelde verklaring uitreikt, dan worden voor de toepassing van dit artikel enkel de relevante cijfers van de onderneming in kwestie in aanmerking genomen.
+...
 
 ## AFDELING 4 TEWERKSTELLING
 
 ### ART. 19.
 
-Het aantal werknemers, bepaald in artikel 16, 2°, komt overeen met het aantal jaar-arbeidseenheden (JAE), namelijk het aantal gedurende een jaar voltijds werkende werknemers, waarbij deeltijdwerkers en seizoenarbeiders in fracties van JAE worden uitgedrukt. Het in aanmerking te nemen referentiejaar is het laatste afgesloten boekjaar.
+...
 
 ## AFDELING 5 OVERGANGSREGELINGEN
 
 ### ART. 20.
 
-Als ondernemingen bij het afsluiten van het laatste boekjaar, zoals bepaald in artikelen 18, § 2, en 19, zich onder of boven de aangegeven drempels bevinden, verkrijgen of verliezen ze respectievelijk de hoedanigheid van doelonderneming alleen als de omstandigheid zich gedurende twee opeenvolgende boekjaren heeft voorgedaan.
+...
 
 ### ART. 21.
 
