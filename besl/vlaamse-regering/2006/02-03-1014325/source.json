@@ -2,16 +2,16 @@
   "codex_id": 1014325,
   "title": "Besluit van de Vlaamse Regering van 2006-02-03 houdende de modaliteiten tot invoering van het centraal kasbeheer voor de Vlaamse verzelfstandigde agentschappen [... (opgeh. BVR 10 mei 2019, art. 66, I: 1 januari 2019)]",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1014325/VolledigDocument?datum=2006-07-01",
-  "source_sha256": "381c0df9d3369c957f10696b3e2f1dace2273148ec2d82d182f2f76fef59a05a",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1014325/VolledigDocument?datum=2007-01-01",
+  "source_sha256": "9e4c741a7a2bf5eb03c955a51b40c85711532680f3f1494ad68ca8ab45b9e11b",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1014325&param=informatie",
-  "as_of": "2006-07-01",
+  "as_of": "2007-01-01",
   "made": "2006-02-03",
   "gazette": "2006-03-02",
   "numac": 2006035268,
   "document_start": null,
   "document_end": "2019-12-31",
-  "in_force": "2006-07-01",
+  "in_force": "2007-01-01",
   "article_versions": 16,
-  "record_form": "consolidated version as in force on 2006-07-01; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2007-01-01; future article versions excluded; article text as the API gives it"
 }
