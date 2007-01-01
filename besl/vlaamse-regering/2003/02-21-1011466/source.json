@@ -2,16 +2,16 @@
   "codex_id": 1011466,
   "title": "Besluit van de Vlaamse Regering van 2003-02-21 houdende vaststelling van de salarisschalen en de concordantie van de ambten van de leden van het bestuurs- en onderwijzend personeel en houdende vaststelling van de loopbaanstructuur, de salarisschalen en de concordantie van de ambten van de leden van het administratief en technisch personeel van de Hogere Zeevaartschool",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1011466/VolledigDocument?datum=2006-06-01",
-  "source_sha256": "38001d76d3703f112273f36c2a88db883c4231d1dbcd085379e83ab19357b10c",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1011466/VolledigDocument?datum=2007-01-01",
+  "source_sha256": "3e7a8ef77af2eb93161dfd438ff68fcb2822c8880302bcedc40bd2c65a6bcf9b",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1011466&param=informatie",
-  "as_of": "2006-06-01",
+  "as_of": "2007-01-01",
   "made": "2003-02-21",
   "gazette": "2003-07-16",
   "numac": 2003035729,
   "document_start": "1996-01-01",
   "document_end": "2008-12-31",
-  "in_force": "2006-06-01",
+  "in_force": "2007-01-01",
   "article_versions": 25,
-  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2007-01-01; future article versions excluded; article text as the API gives it"
 }
