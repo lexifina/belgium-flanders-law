@@ -17,7 +17,7 @@ In dit besluit wordt verstaan onder :<br>
 6° de minister : de Vlaamse minister bevoegd voor het wetenschaps- en innovatiebeleid;<br>
 7° O&amp;O actor : rechtspersoon met activiteiten in het domein van onderzoek en innovatie;<br>
 8° non-profit actor : een rechtspersoon met een doelstelling van niet-industriële of niet-commerciële aard;<br>
-9° Vlaamse universiteit : de instellingen vermeld in artikel 3 van het decreet van 12 juni 1991 betreffende de universiteiten van de Vlaamse Gemeenschap;<br>
+9° Vlaamse universiteit : de instellingen vermeld in artikel 3&nbsp;van het decreet van 12 juni 1991 betreffende de universiteiten van de Vlaamse Gemeenschap;<br>
 10° Vlaamse hogeschool : de instellingen bedoeld in artikel 2, 1° van het decreet van 13 juli 1994 betreffende de hogescholen in de Vlaamse Gemeenschap;<br>
 11° Vlaamse non-profit O&amp;O actor : een in het Vlaamse Gewest gevestigde non-profit O&amp;O actor evenals een in het Brussels Hoofdstedelijk Gewest gevestigde Vlaamse universiteit of Vlaamse hogeschool;<br>
 12° Vlaams universitair ziekenhuis : de ziekenhuisinstellingen die in uitvoering van de wet op de ziekenhuizen aangewezen zijn als universitair ziekenhuis, en of in het Vlaamse Gewest, of als deel van een Vlaamse universiteit in het Brussels Hoofdstedelijk Gewest gevestigd zijn;<br>
@@ -25,7 +25,8 @@ In dit besluit wordt verstaan onder :<br>
 14° coördinator : lid van een consortium dat ten overstaan van het IWT instaat als vertegenwoordiger van de aanvragers en daarnaast ook instaat voor de coördinatie van de activiteiten van de toegekende projectsteun;<br>
 15° medeaanvrager : aanvrager-lid van een consortium van aanvragers dat niet de coördinator is;<br>
 16° onderaannemer : derde door de aanvragers voorzien om in hun opdracht specifieke uitvoerende projectactiviteiten te realiseren, en die niet de hoedanigheid heeft van aanvrager;<br>
-17° begunstigde : aanvrager van een projectvoorstel aan wie het IWT als contractant de projectsteun toekent;
+17° begunstigde : aanvrager van een projectvoorstel aan wie het IWT als contractant de projectsteun toekent;<br>
+18° het Instituut voor Tropische Geneeskunde : het Prins Leopold Instituut voor Tropische Geneeskunde, gelegen te Antwerpen.
 
 ## HOOFDSTUK II Karakteristieken van het financieringskanaal voor het onderzoek
 
@@ -43,9 +44,9 @@ Voor het verlenen van steun aan op projectmatige basis uitgevoerd toegepast biom
 
 ### ART. 4.
 
-Een projectvoorstel kan worden ingediend door een Vlaams universitair ziekenhuis of door een Vlaams ziekenhuis.<br>
+Een projectvoorstel kan worden ingediend door een Vlaams universitair ziekenhuis, een Vlaams ziekenhuis of door het Instituut voor Tropische Geneeskunde.<br>
 <br>
-Daarnaast kan een projectvoorstel eveneens worden ingediend door een consortium van aanvragers dat minstens een Vlaams universitair ziekenhuis of een Vlaams ziekenhuis bevat. Diverse Vlaamse non-profit O&amp;O actoren kunnen optreden als aanvrager in zo'n consortium. De Vlaamse universitaire ziekenhuizen en Vlaamse ziekenhuizen dienen een relevante bijdrage te leveren. Dit wordt gedefinieerd als een minimale participatie in het voorstel van begroting volgens de bepalingen van artikel 5&nbsp;en een relevante inhoudelijke bijdrage, wat zal vastgesteld worden in de projectevaluatie, uitgevoerd zoals toegelicht in de artikelen&nbsp;9 tot en met 18 van dit besluit.<br>
+Daarnaast kan een projectvoorstel eveneens worden ingediend door een consortium van aanvrager dat minstens een Vlaams universitair ziekenhuis, een Vlaams ziekenhuis of het Instituut voor Tropische Geneeskunde bevat. Diverse Vlaamse non-profit O&amp;O actoren kunnen optreden als aanvrager in zo'n consortium. De Vlaamse universitaire ziekenhuizen, Vlaamse ziekenhuizen en het Instituut voor Tropische Geneeskunde dienen een relevante bijdrage te leveren. Dit wordt gedefinieerd als een minimale participatie in het voorstel van begroting volgens de bepalingen van artikel 5 en een relevante inhoudelijke bijdrage, wat zal vastgesteld worden in de projectevaluatie, uitgevoerd zoals toegelicht in de artikelen 9 tot en met 18 van dit besluit.<br>
 <br>
 Niet Vlaamse non-profit O&amp;O actoren kunnen optreden als medeaanvrager binnen de perken van artikel 5.
 
@@ -57,7 +58,7 @@ Met betrekking tot de kosten die in aanmerking kunnen worden genomen gelden de b
 <br>
 Het voorstel van begroting wordt opgesteld volgens de richtlijnen van het IWT.<br>
 <br>
-Bij een consortium van aanvragers dient de voorgestelde begroting voor Vlaamse universitaire ziekenhuizen en Vlaamse ziekenhuizen gecumuleerd minimaal 10 % van de totale voorgestelde begroting te bedragen.<br>
+Bij een consortium van aanvragers dient de voorgestelde begroting voor Vlaamse universitaire ziekenhuizen, Vlaamse ziekenhuizen, respectievelijk het Instituut voor Tropische Geneeskunde gecumuleerd minimaal 10 % van de totale voorgestelde begroting te bedragen.<br>
 <br>
 Bij steunverlening kunnen uitvoerende deeltaken uitbesteed worden aan een onderaannemer : de uitbesteding mag niet meer dan 30 % van de totale begroting bedragen.<br>
 <br>
