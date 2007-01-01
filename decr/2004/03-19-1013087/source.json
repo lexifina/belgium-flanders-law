@@ -2,16 +2,16 @@
   "codex_id": 1013087,
   "title": "Decreet van 2004-03-19 betreffende de rechtspositieregeling van de student, de [medezeggenschap] in het hoger onderwijs, de integratie van bepaalde afdelingen van het hoger onderwijs voor sociale promotie in de hogescholen en de begeleiding van de herstructurering van het hoger onderwijs in Vlaanderen",
   "type": "Decreet",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1013087/VolledigDocument?datum=2006-08-15",
-  "source_sha256": "3a3119c6f3c8b5822287d9f2af54c0357e494539ad7b7a365847a26c7f60ef2c",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1013087/VolledigDocument?datum=2007-01-01",
+  "source_sha256": "279a70b13aeac188f2b0c6ceac9c78f255d6974070c385b293a908ca24974207",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1013087&param=informatie",
-  "as_of": "2006-08-15",
+  "as_of": "2007-01-01",
   "made": "2004-03-19",
   "gazette": "2004-06-10",
   "numac": 2004035882,
   "document_start": null,
   "document_end": "2013-09-30",
-  "in_force": "2006-08-15",
-  "article_versions": 230,
-  "record_form": "consolidated version as in force on 2006-08-15; future article versions excluded; article text as the API gives it"
+  "in_force": "2007-01-01",
+  "article_versions": 239,
+  "record_form": "consolidated version as in force on 2007-01-01; future article versions excluded; article text as the API gives it"
 }
