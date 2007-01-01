@@ -108,7 +108,7 @@ Het raadgevend comitÚ is samengesteld uit een gelijke vertegenwoordiging van de
 
 ### ART. 23bis.
 
-Tot aan de inwerkingtreding van het decreet van 7 mei 2004 tot omvorming van het « Fonds Bijzondere Jeugdbijstand » tot het intern verzelfstandigd agentschap met rechtspersoonlijkheid « Fonds Jongerenwelzijn » en tot wijziging van de decreten inzake bijzondere jeugdbijstand, gecoördineerd op 4 april 1990 : 1° beheert het agentschap het Fonds Bijzondere Jeugdbijstand; 2° treedt het agentschap bij het uitoefenen van de taak, vermeld in 1°, op namens de rechtspersoon Fonds Bijzondere Jeugdbijstand; 3° wordt aan het hoofd van het agentschap specifieke delegatie verleend om het Fonds Bijzondere Jeugdbijstand te beheren.  <span class="reference">(ing. B.V.R. 31 maart 2006, art. 26, I: 1 april 2006)</span> ]
+...
 
 ### ART. 24.
 
