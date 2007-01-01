@@ -32,6 +32,10 @@ In artikel VI 90 van hetzelfde besluit, ingevoegd bij het besluit van de Vlaamse
 
 In artikel VI 92, § 3, eerste lid, van hetzelfde besluit, ingevoegd bij het besluit van de Vlaamse Regering van 16 maart 2007, worden tussen het woord « redenen » en de woorden « of op verzoek » de woorden « , om organisatorische redenen » ingevoegd.
 
+### ART. 65.
+
+Aan artikel VII 2, § 2, van hetzelfde besluit, vervangen bij het besluit van de Vlaamse Regering van 16 maart 2007, wordt een tweede lid toegevoegd, dat luidt als volgt :<br /><br />« De verplichte deeltijdse prestaties die worden verricht in het kader van de stages der jongeren, en die gepresteerd werden binnen de openbare sector worden met ingang van 1 januari 2007 in aanmerking genomen voor de berekening van het salaris. »
+
 ### ART. 66.
 
 In artikel VII 6, § 2, van hetzelfde besluit, ingevoegd bij het besluit van de Vlaamse Regering van 16 maart 2007, worden tussen de woorden "hebben" en de woorden ", ontvangt" de woorden "of die een kind ten laste heeft dat recht geeft op bijkomende kinderbijslag wegens zijn aandoening of handicap" ingevoegd.
@@ -277,6 +281,10 @@ In artikel VII 31 van hetzelfde besluit, ingevoegd bij het besluit van de Vlaams
 
 Aan artikel VII 32, § 2, van hetzelfde besluit, ingevoegd bij het besluit van de Vlaamse Regering van 16 maart 2007, worden volgende woorden toegevoegd :<br />« , de toelage voor overloon en de toelage voor zaterdagprestaties, met uitzondering van :<br /><br />1° het personeelslid van de rang A1 die een diensthoofdentoelage geniet als vermeld in artikel VII 153;<br /><br />2° het personeelslid van de graad van loods. »
 
+### ART. 76.
+
+In deel VII, titel 2, hoofdstuk 3, afdeling 3 van hetzelfde besluit, ingevoegd bij het besluit van de Vlaamse Regering van 16 maart 2007, wordt een artikel VII 49bis ingevoegd, dat luidt als volgt :<br /><br />« Art. VII 49bis. De personeelsleden die hun rekenplichtigheid verliezen door het afschaffen van hun financiële rekening na 31 december 2006, voor de buitengewone rekenplichtigen, en na 31 december 2007 voor de speciale en gewone rekenplichtigen, door een rationalisering in de financiële administratie, behouden hun premie op voorwaarde dat ze blijven werken op een boekhoudcel en daar verantwoordelijk zijn voor de boeking van ontvangsten en/uitgaven.<br /><br />De toelage aan de personeelsleden, vermeld in het eerste lid, die gewone en buitengewone rekenplichtigen waren, wordt driemaandelijks, na verloop van de termijn uitbetaald, na het verwerken van alle openstaande problemen met betrekking tot de transacties die zij hebben verricht. Die kwartaaltoelage is bovendien maar verschuldigd als zij transacties hebben geboekt ten belope van minstens 7400 euro. »
+
 ### ART. 78.
 
 In artikel VII 60, § 1, van hetzelfde besluit, ingevoegd bij het besluit van de Vlaamse Regering van 16 maart 2007, wordt de tabel vervangen door wat volgt :<br>
@@ -466,6 +474,22 @@ In artikel X 17, § 2, van hetzelfde besluit wordt de tweede zin vervangen door 
 ### ART. 99.
 
 In artikel X 25, van hetzelfde besluit, wordt § 1 vervangen door wat volgt :<br /><br />« § 1. Een ambtenaar kan een verlof voor deeltijdse prestaties krijgen.<br /><br />Het verlof voor deeltijdse prestaties is alleen een recht voor ambtenaren van rang A2 en lager, die geen directeursfunctie uitoefenen en die zich in een van volgende situaties bevinden :<br />1° de leeftijd van 50 jaar bereikt hebben;<br />2° ten minste twee kinderen ten laste hebben die nog niet de leeftijd van 15 jaar bereikt hebben;<br />3° een kind ten laste hebben dat recht geeft op bijkomende kinderbijslag wegens zijn aandoening of handicap.<br /><br />Voor de top- en middenkaderfuncties gelden de bepalingen van deel V. »
+
+### ART. 104.
+
+In artikel X 65 van hetzelfde besluit wordt punt 1° vervangen door wat volgt :<br /><br />« 1° gemeenteraadslid dat noch burgemeester noch schepen is, of lid van een raad voor maatschappelijk welzijn van een gemeente, de voorzitter uitgezonderd, of lid van de districtsraad van een district, de voorzitter van het districtscollege uitgezonderd : 2 dagen per maand; ».
+
+### ART. 105.
+
+In artikel X 66 van hetzelfde besluit worden de volgende wijzigingen aangebracht :<br /><br />1° in punt 1° wordt de inleidende zin vervangen door wat volgt :<br /><br />« 1° gemeenteraadslid dat noch burgemeester noch schepen is, of lid van de raad voor maatschappelijk welzijn van een gemeente, de voorzitter en de leden van het vast bureau uitgezonderd, of lid van de districtsraad van een district, de voorzitter van het districtscollege en de leden van het districtscollege uitgezonderd : »;<br /><br />2° in punt 2° worden de woorden "de districtsraad" vervangen door de woorden "het districtscollege";<br /><br />3° in punt 3° worden de woorden "de districtsraad" vervangen door de woorden "het districtscollege".
+
+### ART. 106.
+
+In artikel X 67 van hetzelfde besluit worden de volgende wijzigingen aangebracht :<br /><br />1° in punt 1° worden de woorden "de districtsraad" vervangen door de woorden "het districtscollege";<br /><br />2° in punt 2° worden de woorden "bureau van de districtsraad" vervangen door het woord "districtscollege".
+
+### ART. 107.
+
+In artikel X 69, eerste lid van hetzelfde besluit worden de woorden "van de districtsraad" vervangen door de woorden "van het districtscollege".
 
 ### ART. 109.
 
