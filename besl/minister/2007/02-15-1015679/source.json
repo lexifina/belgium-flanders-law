@@ -1,0 +1,17 @@
+{
+  "codex_id": 1015679,
+  "title": "Ministerieel besluit van 2007-02-15 betreffende de groeifactor in het kader van de bepaling van de totale subsidie-enveloppe voor de erkende onthaalbureaus",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1015679/VolledigDocument?datum=2007-01-01",
+  "source_sha256": "860614eaba575bfaf2c862c7fc95b6782e458f0177dd8eccd0e0c82e8aefecb1",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1015679&param=informatie",
+  "as_of": "2007-01-01",
+  "made": "2007-02-15",
+  "gazette": "2007-04-03",
+  "numac": 2007035481,
+  "document_start": "2007-01-01",
+  "document_end": "2016-02-28",
+  "in_force": "2007-01-01",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2007-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
