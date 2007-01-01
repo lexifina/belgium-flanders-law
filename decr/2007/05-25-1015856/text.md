@@ -4,6 +4,10 @@
 
 ## HOOFDSTUK II. Afvalstoffen
 
+### ART. 5.
+
+In artikel 47, § 2, van hetzelfde decreet, vervangen bij het decreet van 22 december 2006, wordt de tweede streep vervangen door wat volgt :<br /><br />« - brandbare afvalstoffen : afvalstoffen met een gloeiverlies > 10 % en een TOC-gehalte > 6 %; ».<br />
+
 ## HOOFDSTUK III. Agentschap voor Geografische Informatie Vlaanderen
 
 ### ART. 7.
