@@ -1,0 +1,17 @@
+{
+  "codex_id": 1016080,
+  "title": "Besluit van de Vlaamse Regering van 2007-07-19 tot vaststelling van de capaciteit van de gemeenschapsinstellingen voor bijzondere jeugdbijstand",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1016080/VolledigDocument?datum=2007-01-01",
+  "source_sha256": "5a03e599c29a1c3ab48621423373f4e0bf311ee0091c14ed73fc809fa11a3275",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1016080&param=informatie",
+  "as_of": "2007-01-01",
+  "made": "2007-07-19",
+  "gazette": "2007-08-16",
+  "numac": 2007036382,
+  "document_start": "2007-01-01",
+  "document_end": "2009-03-01",
+  "in_force": "2007-01-01",
+  "article_versions": 6,
+  "record_form": "consolidated version as in force on 2007-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
