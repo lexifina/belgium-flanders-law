@@ -6,12 +6,12 @@ De Vlaamse minister van Institutionele Hervormingen, Landbouw, Zeevisserij en Pl
 
 ### ART. 1.
 
-Voor de toepassing van dit besluit wordt verstaan onder :<br />1° vissersvaartuig : een vaartuig vermeld in de « Officiële lijst der Belgische vissersvaartuigen »;<br />2° i.c.e.s.-gebieden : de in bijlage III van Verordening (EEG) nr. 3880/91 van de Raad van 17 december 1991 inzake de verstrekking van statistieken van de nominale vangsten van lidstaten, die in het noordwestelijk gedeelte van de Atlantische Oceaan vissen, opgenomen beschrijving van gebieden en sectoren.<br /><br />
+...
 
 ### ART. 2.
 
-Het nationale quotum van kabeljauw in de i.c.e.s.-gebieden VII, excl. VIIa, wordt geacht volledig te zijn gebruikt.<br /><br />De visserij op kabeljauw in de wateren van de i.c.e.s.-gebieden VII, excl. VIIa, is verboden voor alle vissersvaartuigen alsmede het aan boord houden, het overladen en het lossen van kabeljauw gevangen in deze wateren, na de datum van inwerkingtreding van dit besluit.<br /><br />
+...
 
 ### ART. 3.
 
-Dit besluit treedt in werking de dag van bekendmaking ervan in het Belgisch Staatsblad en houdt op van kracht te zijn op 1 januari 2007.
+...
