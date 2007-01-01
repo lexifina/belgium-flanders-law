@@ -2,16 +2,16 @@
   "codex_id": 1020049,
   "title": "Decreet van 2010-12-23 houdende diverse bepalingen inzake leefmilieu en natuur",
   "type": "Decreet",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1020049/VolledigDocument?datum=1989-01-01",
-  "source_sha256": "529a9ad640f4f754a6e49d4e3468b7b2c9eda330acae948c8d67ac8215ae5542",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1020049/VolledigDocument?datum=2007-01-01",
+  "source_sha256": "21fac828f90caf70029c99967bb169f8c0e49418d93e3badd593da3614c8843b",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1020049&param=informatie",
-  "as_of": "1989-01-01",
+  "as_of": "2007-01-01",
   "made": "2010-12-23",
   "gazette": "2011-02-18",
   "numac": 2011035177,
   "document_start": "2011-02-28",
   "document_end": null,
-  "in_force": "1989-01-01",
-  "article_versions": 2,
-  "record_form": "consolidated version as in force on 1989-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "in_force": "2007-01-01",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2007-01-01; future article versions excluded; article text as the API gives it"
 }
