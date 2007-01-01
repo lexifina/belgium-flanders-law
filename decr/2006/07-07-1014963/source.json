@@ -1,0 +1,17 @@
+{
+  "codex_id": 1014963,
+  "title": "Decreet van 2006-07-07 houdende vrijstelling van successierechten ten voordele van de langstlevende partner voor de nettowaarde van de gezinswoning",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1014963/VolledigDocument?datum=2007-01-01",
+  "source_sha256": "ca00410ae47366ef2a2104de100477493236a4f09af9de474dc4885a3fa5baac",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1014963&param=informatie",
+  "as_of": "2007-01-01",
+  "made": "2006-07-07",
+  "gazette": "2006-09-20",
+  "numac": 2006036307,
+  "document_start": "2007-01-01",
+  "document_end": null,
+  "in_force": "2007-01-01",
+  "article_versions": 6,
+  "record_form": "consolidated version as in force on 2007-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
