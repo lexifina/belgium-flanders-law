@@ -82,7 +82,7 @@ De berekening en toekenning van de in artikel 16, § 1, vermelde kredieten gebeu
 
 ### ART. 18.
 
-§ 1. Bij de berekening van het bedrag van de studiefinanciering wordt het aantal studiepunten waarvoor de student zich in het betrokken academiejaar inschrijft, mee in rekening gebracht.<br /><br />Per academiejaar kunnen maximaal zestig studiepunten gefinancierd worden.<br /><br />§ 2. Om in aanmerking te komen voor studiefinanciering dient de student zich in te schrijven voor minimum dertig studiepunten, waarbij de studiepunten tegelijkertijd uit verschillende van de in artikel 16, § 1, vermelde kredieten kunnen geput worden.<br /><br />In afwijking van § 2, eerste lid, komt de student in aanmerking voor een studiefinanciering indien bij een laatste in-schrijving met het oog op het behalen van een diploma in het betrokken academiejaar of semester blijkt dat het resterende aantal studiepunten voor het behalen van het betrokken diploma lager ligt dan dertig studiepunten.<br /><br />§ 3. Wanneer de studieomvang van de opleiding wordt uitgedrukt in studiepunten, wordt de studieomvang van een voltijds studietraject gelijkgesteld met zestig studiepunten en van een halftijds studietraject met dertig studiepunten.<br /><br />§ 4. Wanneer de studieomvang van de opleiding niet wordt uitgedrukt in studiepunten, wordt de studieomvang voor één academiejaar vastgesteld op 60 studiepunten.<br /><br />Indien de student kan aantonen dat hij geen voltijdse opleiding volgt, wordt de studieomvang vastgesteld op 30 studiepun-ten.
+...
 
 ### ART. 19.
 
