@@ -42,31 +42,31 @@ Voor de activiteiten bedoeld in artikel 4 wordt aan T-Groep de erkenning voor on
 
 ### ART. 7.
 
-[§ 1.  <span class="reference">(ing. decr. 19 maart 2004, art. 4)</span> ] De Vlaamse regering wordt gemachtigd om, overeenkomstig het Wetboek van vennootschappen, [...  <span class="reference">(geschr. decr. 19 maart 2004, art. 4, I: 1 april 2006. Zie B.V.R. 31 maart 2006, B.S., 12 mei 2006)</span> ] en nadat T-Groep is opgericht, namens de Vlaamse Gemeenschap en het Vlaamse Gewest, een vennootschap op te richten die de rechtsvorm aanneemt van een naamloze vennootschap met sociaal oogmerk in de zin van artikel 661 van het Wetboek van vennootschappen, waaraan de uitvoering wordt toevertrouwd van de in artikel 8 vermelde taken.<br /><br />De oprichting van Werkholding zal plaatsvinden uiterlijk op 30 september 2002, maar na datum van oprichting van T-Groep. Deze datum kan door de Vlaamse regering worden opgeschoven met telkens een termijn van drie maanden.<br /><br />[§ 2. Werkholding is een privaatrechtelijk vormgegeven extern verzelfstandigd agentschap als bedoeld in artikel 29 van het kaderdecreet.<br /><br />§ 3. De Vlaamse regering bepaalt tot welk homogeen beleidsdomein Werkholding behoort.  <span class="reference">(ing. decr. 19 maart 2004, art. 4, I: 1 april 2006. Zie B.V.R. 31 maart 2006, B.S., 12 mei 2006)</span> ]
+...
 
 ## AFDELING 2 [... (opgeh. decr. 22 december 2006, art.54)]
 
 ### ART. 8.
 
-§ 1. Het maatschappelijk doel van Werkholding zal als volgt worden bepaald: [onverminderd het bepaalde in artikel 12 van het kaderdecreet  <span class="reference">(ing. decr. 19 maart 2004, art. 5, I: 1 april 2006. Zie B.V.R. 31 maart 2006, B.S., 12 mei 2006)</span> ] het, zelf of samen met anderen, oprichten en deelnemen aan, alsmede het houden en/of verwerven van een participatie in vennootschappen, verenigingen, samenwerkingsverbanden en/of andere juridische entiteiten, al dan niet bekleed met rechtspersoonlijkheid. Daaraan zal als voorwaarde worden gekoppeld dat deze andere vennootschappen, verenigingen, samenwerkingsverbanden en/of andere juridische entiteiten, één of meerdere van de doelstellingen vermeld in artikel 4, eerste lid, 1° tot en met 5°, tot doel of tot werkelijke activiteiten moeten hebben, dan wel een soortgelijke doelstelling, of soortgelijke activiteiten, inzake het organiseren, ontwikkelen en aanbieden van commerciële activiteiten inzake personeelsbeleid en personeelsbeheer.<br /><br />In de oprichtingsakte van Werkholding zal worden bepaald dat, met het oog op de uitoefening van haar taken en opdrachten, [en onverminderd het bepaalde in artikel 12 van het kaderdecreet,  <span class="reference">(ing. decr. 19 maart 2004, art. 5, I: 1 april 2006. Zie B.V.R. 31 maart 2006, B.S., 12 mei 2006)</span> ] Werkholding gerechtigd is om deel te nemen aan de oprichting van, dan wel om op enig later tijdstip toe te treden tot enige vennootschap, vereniging, samenwerkingsverband of andere entiteit, al dan niet bekleed met rechtspersoonlijkheid, van Belgische, zowel als van vreemde nationaliteit.<br /><br />In de oprichtingsakte van Werkholding zal tevens worden bepaald dat zij alle activiteiten kan verrichten die rechtstreeks of onrechtstreeks bijdragen tot de realisatie van haar maatschappelijk doel. In de schoot van de vennootschap met sociaal oogmerk kunnen echter geen marktgerichte commerciële activiteiten georganiseerd worden. Daartoe dienen telkens andere rechtspersonen opgericht te worden of participaties in bedoelde rechtspersonen genomen te worden.<br /><br />Overeenkomstig het bepaalde in artikel 661 van het Wetboek van vennootschappen zal in de oprichtingsakte van Werkholding ook worden bepaald op welke wijze Werkholding de winst die zij maakt, zal besteden ter realisatie van het voormelde sociaal oogmerk.<br /><br />§ 2. Het sociaal oogmerk van Werkholding zal als volgt worden bepaald: de financiering van en/of de deelname aan activiteiten en/of projecten met het oog op het scheppen van nieuwe arbeidsplaatsen, de tewerkstelling van moeilijk tewerk te stellen bevolkingsgroepen; de promotie van beroepen en opleidingen; alsmede soortgelijke activiteiten en/of projecten met als doel de tewerkstelling en de beroepsopleiding te bevorderen.
+...
 
 ## AFDELING 3 [... (opgeh. decr. 22 december 2006, art.54)]
 
 ### ART. 9.
 
-Het Vlaamse Gewest en de Vlaamse Gemeenschap moeten samen steeds houder zijn van alle stem-gerechtigde aandelen in het kapitaal van Werkholding, de aandelen die overeenkomstig het bepaalde in artikel 661 van het Wetboek van vennootschappen zullen worden toegekend aan de personeelsleden van Werkholding uitgezonderd.
+...
 
 ## AFDELING 4 [... (opgeh. decr. 22 december 2006, art.54)]
 
 ### ART. 10.
 
-De financiële tegemoetkoming van de Vlaamse Gemeenschap en het Vlaamse Gewest met het oog op de financiering van Werkholding neemt de vorm aan van een inbreng van, naar keuze van de Vlaamse regering, de gehele aandelenparticipatie, dan wel een deel ervan, die het Vlaamse Gewest en de Vlaamse Gemeenschap, na uitvoering van het bepaalde in artikel 5, § 6, aanhouden in T-Groep.<br /><br />De financiële tegemoetkoming van de Vlaamse Gemeenschap en het Vlaamse Gewest met het oog op de financiering van Werkholding, neemt, op het ogenblik van de oprichting van Werkholding, daarnaast de vorm aan van een inbreng in speciën ten belope van tweehonderd vijftigduizend (250.000,-) EUR voor de Vlaamse Gemeenschap en ten belope van tweehonderd vijftigduizend (250.000,-) EUR voor het Vlaamse Gewest.<br /><br />Voormelde inbrengen zullen geschieden overeenkomstig de bepalingen van liet Wetboek van vennootschappen.
+...
 
 ## AFDELING 5 [... (opgeh. decr. 22 december 2006, art.54)]
 
 ### ART. 10bis.
 
-De eerste samenwerkingsovereenkomst, bedoeld in artikel 31 van het kaderdecreet, wordt gesloten binnen een maand na de inwerkingtreding van deze bepaling.<br /><br />De samenwerkingsovereenkomst bepaalt onder meer de uit te voeren taken, de informatie en rapportageplicht inzake de taken en financiële situatie, de specifieke controle, de duur, de opzeggings- en verlengingsmogelijkheden van de overeenkomst.  <span class="reference">(ing. decr. 19 maart 2004, art. 6, I: 1 april 2006. Zie B.V.R. 31 maart 2006, B.S., 12 mei 2006)</span> ]
+...
 
 ## HOOFDSTUK IV PERSONEEL VAN T-GROEP EN VAN WERKHOLDING
 
