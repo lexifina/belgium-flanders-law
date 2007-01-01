@@ -6,48 +6,48 @@ De Vlaamse Minister van Institutionele Hervormingen, Landbouw, Zeevisserij en Pl
 
 ### ART. 1.
 
-Na het artikel 7 van het ministerieel besluit van 26 januari 2006 houdende tijdelijke aanvullende maatregelen tot het behoud van de visbestanden in zee, wordt volgend artikel ingevoegd :<br /><br />« Art. 7bis. Het is verboden in een perifere zeewaartse zone van 200 m gemeten vanaf de waterlijn op de oostelijke en de westelijke strekdam van de Zeebrugse haven warrelnetten, kieuwnetten, schakels, fuiken of ander staand tuig te water te laten, achter te laten of te gebruiken. » <br /><br />
+...
 
 ### ART. 2.
 
-Het artikel 14 van hetzelfde besluit, gewijzigd bij het ministerieel besluit van 23 juni 2006, wordt aangevuld met het volgend lid :<br />« Vanaf 1 november 2006 tot en met 31 december 2006 is het verboden dat in de i.c.e.s.-gebieden II, IV (Noordzee en Schelde-estuarium) de tongvangst van een vissersvaartuig een hoeveelheid overschrijdt die gelijk is aan 25 kg vermenigvuldigd met het motorvermogen van het vissersvaartuig uitgedrukt in kW. » <br /><br />
+...
 
 ### ART. 3.
 
-Het artikel 15 van hetzelfde besluit, gewijzigd bij het ministerieel besluit van 23 juni 2006, wordt aangevuld met het volgend lid :<br />« In afwijking van artikel 14, lid 4, is het vanaf 1 november 2006 tot en met 31 december 2006 verboden dat in de i.c.e.s.-gebieden II, IV (Noordzee en Schelde-estuarium) de tongvangst van een vissersvaartuig met een motorvermogen van 221 kW of minder een hoeveelheid overschrijdt die gelijk is aan 40 kg vermenigvuldigd met het motorvermogen van het vissersvaartuig uitgedrukt in kW. » <br /><br />
+...
 
 ### ART. 4.
 
-In het artikel 17 van hetzelfde besluit, gewijzigd bij het ministerieel besluit van 23 juni 2006, worden de volgende wijzigingen aangebracht :<br />1° de § 3 wordt aangevuld met het volgend lid :<br />« Vanaf 1 november 2006 tot en met 31 december 2006 is het verboden dat in de i.c.e.s.-gebieden II, IV (Noordzee en Schelde-estuarium) de scholvangst van een vissersvaartuig met een motorvermogen van 221 kW of minder een hoeveelheid overschrijdt die gelijk is aan 40 kg per kW vermenigvuldigd met het motorvermogen van het vissersvaartuig uitgedrukt in kW. »; <br />2° de § 4 wordt aangevuld met het volgend lid :<br />« Vanaf 1 november 2006 tot en met 31 december 2006 is het verboden dat in de i.c.e.s.-gebieden II, IV (Noordzee en Schelde-estuarium) de scholvangst van een vissersvaartuig met een motorvermogen van meer dan 221 kW een hoeveelheid overschrijdt die gelijk is aan 30 kg vermenigvuldigd met het motorvermogen van het vissersvaartuig uitgedrukt in kW. » <br /><br />
+...
 
 ### ART. 5.
 
-In het artikel 18 van hetzelfde besluit, gewijzigd bij het ministerieel besluit van 23 juni 2006, worden volgende wijzigingen aangebracht :<br />1° de § 3 wordt aangevuld met volgende bepalingen :<br />« Vanaf 1 november 2006 tot en met 31 december 2006 is het verboden dat in de i.c.e.s.-gebieden VIIf,g de tongvangst van een vissersvaartuig met een motorvermogen van 221 kW of minder een hoeveelheid overschrijdt, die gelijk is aan 10 kg vermenigvuldigd met het motorvermogen van het vissersvaartuig uitgedrukt in kW.<br />Ingeval de eigenaar van het betrokken vissersvaartuig overeenkomstig lid 3, van deze § 3, een geldige aanvraag heeft ingediend, wordt in afwijking van vorig lid gedurende de periode 1 november 2006 tot en met 31 december 2006 de hoeveelheid tong, zoals bepaald in vorig lid, verhoogd met een extra hoeveelheid gelijk aan 30 kg vermenigvuldigd met het motorvermogen van het vissersvaartuig, uitgedrukt in kW. »; <br />2° de § 4 wordt aangevuld met het volgend lid :<br />« Vanaf 1 november 2006 tot en met 31 december 2006 is het verboden dat in de i.c.e.s.-gebieden VIIf,g de tongvangst van een vissersvaartuig met een motorvermogen van meer dan 221 kW een hoeveelheid overschrijdt die gelijk is aan 6 kg vermenigvuldigd met het motorvermogen van het vissersvaartuig, uitgedrukt in kW ».<br /><br />
+...
 
 ### ART. 6.
 
-Het artikel 19, § 2 van hetzelfde besluit, gewijzigd bij het ministerieel besluit van 23 juni 2006 wordt aangevuld met het volgende lid :<br />« Vanaf 1 november 2006 tot en met 31 december 2006 is het verboden dat in de i.c.e.s.-gebieden VIIh,j,k de tongvangst van een vissersvaartuig met een motorvermogen van meer dan 221 kW een hoeveelheid overschrijdt die gelijk is aan 10 kg vermenigvuldigd met het motorvermogen van het vissersvaartuig uitgedrukt in kW. » <br /><br />
+...
 
 ### ART. 7.
 
-Het artikel 20, § 1 van hetzelfde besluit wordt aangevuld met het volgende lid :<br />« Vanaf 1 november 2006 tot en met 31 december 2006 is het verboden dat in de i.c.e.s.-gebieden VIIb-k, VIII de kabeljauwvangst van een vissersvaartuig een hoeveelheid overschrijdt die gelijk is aan 1 kg vermenigvuldigd met het motorvermogen van het vissersvaartuig uitgedrukt in kW. » <br /><br />
+...
 
 ### ART. 8.
 
-In het artikel 23 van hetzelfde besluit, gewijzigd bij de ministeriële besluiten van 5 april 2006, 23 juni 2006 en 25 september 2006, worden met ingang van 1 november 2006 de volgende wijzigingen aangebracht :<br />1° in § 3 wordt het getal "20" vervangen door het getal "120",<br />2° in § 4 wordt het getal "40" vervangen door het getal "240".<br /><br />
+...
 
 ### ART. 9.
 
-In het artikel 24 van hetzelfde besluit, gewijzigd bij het ministerieel besluit van 5 april 2006, worden met ingang van 1 november 2006 volgende wijzigingen aangebracht :<br />1° in de § 4 wordt het getal "100" vervangen door het getal "200",<br />2° in de § 5 wordt het getal "200" vervangen door het getal "400".<br /><br />
+...
 
 ### ART. 10.
 
-In het artikel 25 van hetzelfde besluit, worden met ingang van 1 november 2006 volgende wijzigingen aangebracht :<br />1° in de § 1 wordt het getal "50" vervangen door het getal "120",<br />2° in de § 2 wordt het getal "100" vervangen door het getal "250".<br /><br />
+...
 
 ### ART. 11.
 
-In het artikel 26 van hetzelfde besluit, gewijzigd bij het ministerieel besluit van 25 september 2006, worden met ingang van 1 november 2006 volgende wijzigingen aangebracht :<br />1° in de § 5 wordt het getal "225" vervangen door het getal "300",<br />2° in de § 6 wordt het getal "450" vervangen door het getal "600".<br /><br />
+...
 
 ### ART. 12.
 
-Dit besluit treedt in werking op 1 november 2006 en houdt op van kracht te zijn op 1 januari 2007.<br /><br />
+...
