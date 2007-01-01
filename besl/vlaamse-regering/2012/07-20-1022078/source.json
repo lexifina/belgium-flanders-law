@@ -1,0 +1,17 @@
+{
+  "codex_id": 1022078,
+  "title": "Besluit van de Vlaamse Regering van 2012-07-20 houdende de wijziging van diverse bepalingen van het besluit van de Vlaamse Regering van 24 juli 1991 betreffende de inschrijving bij het Vlaams Agentschap voor Personen met een Handicap",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1022078/VolledigDocument?datum=2007-01-01",
+  "source_sha256": "9c2935e42b6a0cd49cc770f3110097074e6861599c94416aacee3d4b922246b0",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1022078&param=informatie",
+  "as_of": "2007-01-01",
+  "made": "2012-07-20",
+  "gazette": "2012-08-14",
+  "numac": 2012035927,
+  "document_start": "2012-10-01",
+  "document_end": null,
+  "in_force": "2007-01-01",
+  "article_versions": 2,
+  "record_form": "consolidated version as in force on 2007-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
