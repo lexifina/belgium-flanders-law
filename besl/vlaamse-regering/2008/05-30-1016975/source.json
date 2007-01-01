@@ -1,0 +1,17 @@
+{
+  "codex_id": 1016975,
+  "title": "Besluit van de Vlaamse Regering van 2008-05-30 tot wijziging van artikelen 23 en 43 van het besluit van de Vlaamse Regering van 16 mei 2007 houdende subsidiëring van bedrijventerreinen",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1016975/VolledigDocument?datum=2007-01-01",
+  "source_sha256": "7fa29ab3d786677d0bedf1e8587566a2c123c706600c1a9e8dd58438b73ada53",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1016975&param=informatie",
+  "as_of": "2007-01-01",
+  "made": "2008-05-30",
+  "gazette": "2008-08-21",
+  "numac": 2008202841,
+  "document_start": "2007-01-01",
+  "document_end": null,
+  "in_force": "2007-01-01",
+  "article_versions": 5,
+  "record_form": "consolidated version as in force on 2007-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
