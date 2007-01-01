@@ -96,7 +96,7 @@ De minister kan, nadat de Vlaamse Gemeenschapscommissie werd gehoord, afwijkinge
 
 ### ART. 20.
 
-De in de artikelen 38, § 1, 39, § 1, 40, 41, 42 en 43, van het decreet vermelde subsidies, worden in vier driemaandelijkse voorschotten uitbetaald. Elk voorschot bedraagt 22,5 % van de voorgestelde subsidie.<br /><br />Het saldo wordt uitbetaald in de loop van het jaar dat volgt op het gesubsidieerde werkingsjaar, na goedkeuring door de administratie van de afrekening van het voorbije gesubsidieerde activiteitsjaar.<br />Indien die hoger zijn dan de berekende subsidies, wordt het verschil in mindering gebracht van de voorschotten van het werkingsjaar dat volgt op het jaar waarop de subsidie betrekking heeft.
+De subsidies, vermeld in artikel 38, § 1, artikel 40, 41, 42, 43 en 74, § 1, worden in vier driemaandelijkse voorschotten uitbetaald. Elk voorschot bedraagt 22,5 % van de voorgestelde subsidie.<br /><br />Het saldo wordt uitbetaald in de loop van het jaar dat volgt op het gesubsidieerde werkingsjaar, na goedkeuring door de administratie van de afrekening van het voorbije gesubsidieerde activiteitsjaar.<br /><br />Indien die hoger zijn dan de berekende subsidies, wordt het verschil in mindering gebracht van de voorschotten van het werkingsjaar dat volgt op het jaar waarop de subsidie betrekking heeft.<br /><br />De subsidie, vermeld in artikel 39, § 1, en in artikel 74, § 2, van het decreet, wordt uitbetaald in het jaar dat volgt op het gesubsidieerde werkingsjaar, na de ontvangst van de afrekening, vermeld in artikel 21, 1°.
 
 ### ART. 21.
 

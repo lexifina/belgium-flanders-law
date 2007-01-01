@@ -2,16 +2,16 @@
   "codex_id": 1008930,
   "title": "Besluit van de Vlaamse Regering van 2002-01-11 ter uitvoering van het decreet van 13 juli 2001 houdende het stimuleren van een kwalitatief en integraal lokaal cultuurbeleid",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1008930/VolledigDocument?datum=2006-06-01",
-  "source_sha256": "5f0aa52ca7ff0d7bc3d1a731dddd5c0dae8581bcb3ff6ab7d3acf7f48a7ee0e7",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1008930/VolledigDocument?datum=2007-01-01",
+  "source_sha256": "1220261ceab06f4e4164fe57c5fc7d37740678d1a1578616fce5512da7111324",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1008930&param=informatie",
-  "as_of": "2006-06-01",
+  "as_of": "2007-01-01",
   "made": "2002-01-11",
   "gazette": "2002-03-21",
   "numac": 2002035269,
   "document_start": "2002-01-01",
   "document_end": "2013-12-31",
-  "in_force": "2006-06-01",
+  "in_force": "2007-01-01",
   "article_versions": 48,
-  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2007-01-01; future article versions excluded; article text as the API gives it"
 }
