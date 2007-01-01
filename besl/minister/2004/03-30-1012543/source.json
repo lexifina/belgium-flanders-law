@@ -2,16 +2,16 @@
   "codex_id": 1012543,
   "title": "Ministerieel besluit van 2004-03-30 tot bepaling van de vorm en de inhoud van de bewijsvoering met betrekking tot enerzijds de subsidiëringsvoorwaarden in het kader van de subsidiëring van de animatiewerking en anderzijds de effectieve tewerkstelling van de personeelsleden die tewerkgesteld zijn met een gewezen DAC-statuut in het kader van de aanvullende subsidiëring in de vorm van een DAC-supplement",
   "type": "Ministerieel besluit",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1012543/VolledigDocument?datum=2006-06-01",
-  "source_sha256": "5e51750e7c64480ac626f158c10716d3ece2626679266dd4181f7d709609956b",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1012543/VolledigDocument?datum=2007-01-01",
+  "source_sha256": "2104a89959c529a6bf1a786774dc3b9025bf6ab3f05f4ab2a5f561435a74ad16",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1012543&param=informatie",
-  "as_of": "2006-06-01",
+  "as_of": "2007-01-01",
   "made": "2004-03-30",
   "gazette": "2004-04-15",
   "numac": 2004035547,
   "document_start": "2004-01-01",
   "document_end": "2006-12-31",
-  "in_force": "2006-06-01",
+  "in_force": "2007-01-01",
   "article_versions": 7,
-  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2007-01-01; future article versions excluded; article text as the API gives it"
 }
