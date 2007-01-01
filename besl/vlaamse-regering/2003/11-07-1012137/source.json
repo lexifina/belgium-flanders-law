@@ -2,16 +2,16 @@
   "codex_id": 1012137,
   "title": "Besluit van de Vlaamse Regering van 2003-11-07 tot oprichting van een opvoedingsafdeling van de gemeenschapsinstelling voor Bijzondere Jeugdbijstand \"De Kempen\" en tot wijziging van het besluit van de Vlaamse regering van 12 oktober 2001 tot vaststelling van de capaciteit van de gemeenschapsinstellingen voor Bijzondere Jeugdbijstand",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1012137/VolledigDocument?datum=2006-06-01",
-  "source_sha256": "24bf67f3d166e96dc0ab4493a0dd3a142589b8eb9e3e0b0d3879291b3cdb5bc1",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1012137/VolledigDocument?datum=2007-01-01",
+  "source_sha256": "388db5bcaf02ef746654740d5654e36bcb174c7d0e2c003fa0d2f7c233e06923",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1012137&param=informatie",
-  "as_of": "2006-06-01",
+  "as_of": "2007-01-01",
   "made": "2003-11-07",
   "gazette": "2004-03-01",
   "numac": 2004035290,
   "document_start": null,
   "document_end": "2006-12-31",
-  "in_force": "2006-06-01",
+  "in_force": "2007-01-01",
   "article_versions": 4,
-  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2007-01-01; future article versions excluded; article text as the API gives it"
 }
