@@ -198,7 +198,47 @@ De voorzitter en de secretaris van de kerkraad, die samen optreden, kunnen, in d
 
 ## AFDELING 1 MEERJARENPLAN
 
+### ART. 41.
+
+Binnen zes maanden na de installatie van de gemeenteraad na de gehele vernieuwing van deze raad, stelt de kerkraad een meerjarenplan vast dat de financiële afspraken tussen de kerkfabriek en de gemeente bevat voor de periode van zes jaar, die ingaat op 1 januari van het tweede jaar dat volgt op de algehele vernieuwing van de gemeenteraad.<br /><br />Als een kerkfabriek in gebreke blijft bij het opmaken van het meerjarenplan, wordt het plan opgemaakt door het centraal kerkbestuur waaronder de kerkfabriek ressorteert.<br /><br />Het meerjarenplan kan herzien worden in de loop van de periode waarvoor het is opgemaakt.
+
+### ART. 42.
+
+De meerjarenplannen worden gecoördineerd en gelijktijdig bij de gemeenteoverheid, het erkend representatief orgaan en de provinciegouverneur ingediend door het centraal kerkbestuur waaronder de kerkfabrieken ressorteren. Als er geen centraal kerkbestuur werd opgericht, dient de kerkfabriek het meerjarenplan in.<br /><br />De Vlaamse regering bepaalt het model voor het opmaken van het meerjarenplan door de kerkraad en voor het gecoördineerd indienen van de meerjarenplannen door het centraal kerkbestuur.
+
+### ART. 43.
+
+De meerjarenplannen en de wijzigingen zijn onderworpen aan het advies van het erkend representatief orgaan en aan de goedkeuring van de gemeenteraad.<br /><br />Bij ontstentenis van het versturen van zijn advies naar de gemeenteraad binnen een termijn van vijftig dagen, die ingaat op de dag na het inkomen bij het erkend representatief orgaan van de meerjarenplannen, wordt het voornoemd orgaan geacht een gunstig advies te hebben uitgebracht.<br /><br />De gemeenteraad spreekt zich uit over de goedkeuring binnen een termijn van honderd dagen die ingaat op de dag na het inkomen van het advies van het erkend representatief orgaan bij de gemeenteoverheid of de dag na het verstrijken van de termijn van vijftig dagen, en verstuurt zijn besluit uiterlijk de laatste dag van deze termijn aan de provinciegouverneur, het centraal kerkbestuur, de kerkfabrieken in kwestie en het erkend representatief orgaan.<br /><br />Als binnen de termijn van honderd dagen, bedoeld in het derde lid, geen besluit naar de provinciegouverneur, het centraal kerkbestuur, de kerkfabrieken in kwestie en het erkend representatief orgaan is verstuurd, wordt de gemeenteraad geacht zijn goedkeuring aan de meerjarenplannen te hebben verleend.
+
+### ART. 44.
+
+§ 1. In geval van niet-goedkeuring door de gemeenteraad zijn de meerjarenplannen onderworpen aan de goedkeuring door de provinciegouverneur.<br /><br />De provinciegouverneur spreekt zich over de goedkeuring uit binnen een termijn van dertig dagen die ingaat de dag na het inkomen van het niet-goedkeuringsbesluit. Hij verstuurt zijn besluit uiterlijk de laatste dag van deze termijn aan de kerkfabriek, het centraal kerkbestuur, de gemeenteoverheid en het erkend representatief orgaan.<br /><br />Als binnen de termijn van dertig dagen geen besluit naar de kerkfabriek, het centraal kerkbestuur, de gemeenteoverheid en het erkend representatief orgaan is verstuurd, wordt de provinciegouverneur geacht zijn goedkeuring aan de meerjarenplannen te hebben verleend.<br /><br />§ 2. Tegen de beslissing van de provinciegouverneur of bij ontstentenis van beslissing kan de kerkfabriek in kwestie of de gemeenteoverheid bij de Vlaamse regering beroep instellen binnen een termijn van dertig dagen die ingaat op de dag na het inkomen van het besluit bij de kerkfabriek en bij de gemeenteoverheid of, bij ontstentenis van beslissing, de dag na het verstrijken van de termijn, bedoeld in het derde lid.<br /><br />De Vlaamse regering spreekt zich over het beroep uit binnen een termijn van dertig dagen die ingaat op de dag na het inkomen van het beroep. Ze verstuurt haar besluit uiterlijk de laatste dag van deze termijn aan de provinciegouverneur, de kerkfabriek, het centraal kerkbestuur, de gemeenteoverheid en het erkend representatief orgaan.<br /><br />Als binnen de termijn van dertig dagen geen besluit naar de provinciegouverneur, de kerkfabriek, het centraal kerkbestuur, de gemeenteoverheid en het erkend representatief orgaan is verstuurd, is het beroep ingewilligd.
+
 ## AFDELING 2 BUDGET
+
+### ART. 45.
+
+Het financieel boekjaar van de kerkfabriek begint op 1 januari en eindigt op 31 december van hetzelfde jaar.
+
+### ART. 46.
+
+De kerkraad stelt jaarlijks op basis van het meerjarenplan het budget van de kerkfabriek voor het volgende boekjaar vast en dient het in voorkomend geval voor 30 juni in bij het centraal kerkbestuur. Het budget bestaat uit een investeringsbudget en een exploitatiebudget.<br /><br />Als een kerkraad in gebreke blijft bij het indienen van het budget, wordt het budget opgemaakt door het centraal kerkbestuur waaronder de kerkfabriek ressorteert.
+
+### ART. 47.
+
+De budgetten worden na het advies van het erkend representatief orgaan jaarlijks voor 1 oktober gecoördineerd bij de gemeenteoverheid ingediend door het centraal kerkbestuur waaronder de kerkfabrieken ressorteren. Als er geen centraal kerkbestuur werd opgericht, dient de kerkfabriek het budget in. De Vlaamse regering bepaalt het model voor het opmaken van het budget door de kerkraad en voor het gecoördineerd indienen van de budgetten door het centraal kerkbestuur.
+
+### ART. 48.
+
+Als de gemeentelijke bijdrage in het budget binnen de grenzen blijft van het bedrag, opgenomen in het goedgekeurde meerjarenplan, neemt de gemeenteraad hiervan akte binnen een termijn van vijftig dagen die ingaat op de dag na het inkomen van het budget bij de gemeenteoverheid. Zij geeft daarvan kennis aan het centraal kerkbestuur, de kerkfabrieken in kwestie en het erkend representatief orgaan.
+
+### ART. 49.
+
+§ 1. Als de gemeentelijke bijdrage in het budget de grenzen van het bedrag, opgenomen in het goedge-keurde meerjarenplan, overschrijdt, kan de gemeenteraad het budget aan het meerjarenplan aanpassen behalve wat de kosten betreft die betrekking hebben op het vieren van de eredienst.<br /><br />De gemeenteraad spreekt zich over het budget uit binnen een termijn van vijftig dagen die ingaat op de dag na het inkomen van het budget bij de gemeenteoverheid en hij verstuurt zijn besluit uiterlijk de laatste dag van deze termijn aan de provinciegouverneur, het centraal kerkbestuur, de kerkfabrieken in kwestie en het erkend representatief orgaan.<br /><br />Als binnen de voormelde termijn van vijftig dagen geen besluit naar de provinciegouverneur, het centraal kerkbestuur, de kerkfabrieken in kwestie en het erkend representatief orgaan is verstuurd, wordt de gemeenteraad geacht het budget te hebben goedgekeurd.<br /><br />§ 2. Tegen de beslissing van de gemeenteraad kan de kerkfabriek in kwestie bij de provinciegouverneur beroep indienen binnen een termijn van dertig dagen die ingaat op de dag na het inkomen van het besluit bij de kerkfabriek. Het budget en het besluit van de gemeenteraad moeten bij het beroep gevoegd worden.<br /><br />De provinciegouverneur spreekt zich over het beroep uit binnen een termijn van dertig dagen die ingaat op de dag na het inkomen van het beroep en hij verstuurt zijn besluit uiterlijk de laatste dag van deze termijn aan de kerkfabriek, het centraal kerkbestuur, de gemeenteoverheid en het erkend representatief orgaan.<br /><br />Als binnen de termijn van dertig dagen geen besluit naar de kerkfabriek, het centraal kerkbestuur, de gemeenteoverheid en het erkend representatief orgaan is verstuurd, is het beroep ingewilligd.
+
+### ART. 50.
+
+De budgetwijzigingen worden voor 15 september van het lopende jaar gecoördineerd bij de gemeenteoverheid ingediend door het centraal kerkbestuur waaronder de kerkfabrieken ressorteren.<br /><br />Artikelen 48 en 49 zijn van overeenkomstige toepassing op de budgetwijzigingen.
 
 ## AFDELING 3 OPBRENGSTEN, ONTVANGSTEN, KOSTEN EN UITGAVEN
 
