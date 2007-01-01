@@ -2,9 +2,21 @@
 
 ## HOOFDSTUK I Algemeen
 
+### ART. 1.
+
+Dit decreet regelt een gemeenschaps- en gewestaangelegenheid.
+
 ## HOOFDSTUK II Onderwijs
 
 ## Afdeling I Basisonderwijs
+
+### ART. 2.
+
+Aan het decreet basisonderwijs, gewijzigd bij de decreten van 14 juli 1998, 22 december 1999, 13 juli 2001, 10 juli 2003 en 7 juli 2006, wordt een artikel 82ter toegevoegd, dat luidt als volgt :<br /><br />« Artikel 82ter. Teneinde de kosteloosheid voor het basisonderwijs, zoals bepaald in artikel 27, § 1, van dit decreet, te garanderen wordt het globale werkingsbudget van het gefinancierd en gesubsidieerd basisonderwijs vanaf 2007 verhoogd met 29,504 miljoen euro. De verdeling van deze middelen gebeurt pro rata van het aantal regelmatige leerlingen.<br /><br />Deze middelen worden niet in rekening gebracht om de verhouding tussen de netten zoals bepaald in artikel 83, § 2, te bepalen.<br /><br />Voor het begrotingsjaar 2007 wordt het aandeel van het gefinancierd basisonderwijs in deze middelen integraal opgenomen in de tweede schijf van de werkingsmiddelen 2007.<br /><br />Voor het gesubsidieerd basisonderwijs worden deze middelen integraal betaald via het saldo van de werkingsmiddelen 2007. ».<br /><br />
+
+### ART. 3.
+
+In artikel 83 van het decreet basisonderwijs van 25 februari 1997 wordt § 2 vervangen door wat volgt :<br /><br />« § 2. Ongeacht de bepalingen van § 1 dient vanaf het begrotingsjaar 2007 het totale werkingsbudget per leerling van het gesubsidieerd basisonderwijs ten minste 75,8 % en maximaal 76,2 % van het overeenkomstig totale werkingsbudget per leerling van het gefinancierd basisonderwijs te bedragen.<br /><br />Het bereiken van deze verhouding gebeurt door te voorzien in een herverdeling van de vrijgekomen loonkost en/of het vrijgekomen werkingsbudget. ».<br /><br />
 
 ## Afdeling II Secundair onderwijs
 
@@ -13,6 +25,18 @@
 In het decreet van 14 juli 1998 houdende diverse maatregelen met betrekking tot het secundair onderwijs en tot wijziging van het decreet van 25 februari 1997 betreffende het basisonderwijs, worden de volgende wijzigingen aangebracht :<br /><br />1° het opschrift van titel XIII wordt vervangen door wat volgt :<br />« Bijzondere investeringen in instellingen voor technisch of beroepsonderwijs »;<br /><br />2° artikel 103 wordt vervangen door wat volgt :<br />« Art. 103. § 1. De Vlaamse Regering kent tijdens de schooljaren 2006-2007 en 2007-2008 aan instellingen voor voltijds gewoon of buitengewoon technisch of beroepssecundair onderwijs extra middelen toe die bestemd zijn voor investeringen in basisuitrusting. Onder investeringen in basisuitrusting wordt de aankoop van uitrustingsgoederen of de beveiliging van bestaande uitrustingsgoederen verstaan.<br />De structuuronderdelen die onder de investeringsoperatie vallen, worden opgesomd in de bijlage II aan dit decreet.<br />§ 2. Per regelmatige leerling op 1 februari 2006 voor wat betreft het schooljaar 2006-2007 respectievelijk op 1 februari 2007 voor wat betreft het schooljaar 2007-2008, worden extra middelen toegekend rekening houdend met de beschikbare begrotingskredieten.<br />Om voor extra middelen in aanmerking te kunnen komen, moeten de betrokken instellingen gezamenlijk en per onderwijszone een investeringsplan opstellen. Het investeringsplan moet voldoen aan de door de Vlaamse Regering vastgelegde minimale onderdelen. De onderwijszones zijn bepaald in de bijlage I aan dit decreet.<br />§ 3. De beoordeling van de ingediende investeringsplannen gebeurt door een commissie die paritair is samengesteld uit twee afgevaardigden van het departement onderwijs en vorming en twee afgevaardigden van de inspectie secundair onderwijs enerzijds en één afgevaardigde per onderwijsnet, voorgedragen door het Gemeenschapsonderwijs en de betrokken representatieve verenigingen van de inrichtende machten van het onderwijs, anderzijds. De commissie stelt haar huishoudelijk reglement op.<br />De commissie garandeert dat een aanvankelijk als « onvoldoende » bevonden plan, bijgestuurd kan worden en opnieuw mag ingediend worden binnen een door haar vooropgestelde termijn.<br />§ 4. De uitbetaling van de extra middelen vindt plaats op basis van een voorschot ten belope van 90 % en, na goedkeuring door het departement onderwijs en vorming van de per onderwijszone gebundelde bewijsstukken van de gedane investeringen, een saldo ten belope van 10 %.<br />De Vlaamse Regering kan verdere regels vastleggen inzake de toekenning van de extra middelen. »;<br /><br />3° de huidige bijlage « Indeling in onderwijszones » aan het decreet wordt aangeduid als bijlage I en een bijlage II « Lijst van structuuronderdelen met betrekking tot investeringsoperaties in technisch en beroepssecundair onderwijs » wordt toegevoegd, waarvan de tekst luidt als volgt :<br />« Bijlage II. - Lijst van structuuronderdelen met betrekking tot investeringsoperaties in technisch en beroepssecundair onderwijs (louter voor wat betreft de samenstelling van deze lijst worden de structuuronderdelen van opleidingsvorm 3 van het buitengewoon secundair onderwijs, hierna aangeduid als BuSO, eveneens in studiegebieden ondergebracht) :<br />1. Studiegebied auto :<br />Autotechnieken<br />Toegepaste autotechnieken<br />Auto<br />Carrosserie<br />Tweewielers en lichte verbrandingsmotoren<br />Vrachtwagenchauffeur<br />Auto-elektriciteit<br />Bedrijfsvoertuigen<br />Bijzonder transport<br />Carrosserie- en spuitwerk<br />Diesel- en LPG-motoren<br />Scheeps- en havenwerk<br />Auto-hulpmecanicien (BuSO)<br />Plaatslager (BuSO)<br />Alle modulair georganiseerde structuuronderdelen<br />2. Studiegebied bouw :<br />Bouwtechnieken<br />Bouw- en houtkunde<br />Bouw constructie- en planningstechnieken<br />Industriële bouwtechnieken<br />Weg- en waterbouwtechnieken<br />Bouw<br />Schilderwerk en decoratie<br />Steen- en marmerbewerking<br />Ruwbouw<br />Bouwplaatsmachinist<br />Ruwbouwafwerking<br />Schilderwerk en decoratie<br />Bedrijfsvloeren en waterdichte bekuipingen<br />Dakwerken<br />Decoratie en restauratie schilderwerk<br />Mechanische en hydraulische kranen<br />Renovatie bouw<br />Restauratie bouw<br />Wegenbouwmachines<br />Bouwwerken (BuSO)<br />Interieurbouwer (BuSO)<br />Metselaar (BuSO)<br />Vloerder-tegelzetter (BuSO)<br />Alle modulair georganiseerde structuuronderdelen<br />3. Studiegebied chemie :<br />Chemie<br />Chemische procestechnieken<br />Water- en luchtbeheersingstechnieken<br />4. Studiegebied grafische communicatie en media :<br />Grafische technieken<br />Grafische wetenschappen<br />Druk- en afwerkingstechnieken<br />Drukvoorbereidingstechnieken<br />Multimediatechnieken<br />Gestandaardiseerde en geprogrammeerde druktechnieken<br />Interactieve multimediatechnieken<br />Rotatiedruktechnieken<br />Tekst- en beeldintegratietechnieken<br />Drukken<br />Drukken en afwerken<br />Drukvoorbereiding<br />Bedrijfsgrafiek<br />Grafische opmaaksystemen<br />Meerkleurendruk-drukwerkveredeling<br />Zeefdruk<br />Boekbinder (BuSO)<br />Hulpdrukker (BuSO)<br />Zeefdrukker (BuSO)<br />Alle modulair georganiseerde structuuronderdelen<br />5. Studiegebied hout :<br />Houttechnieken<br />Hout constructie- en planningstechnieken<br />Hout<br />Houtbewerking<br />Houtbewerking-snijwerk<br />Bijzondere schrijnwerkconstructies<br />Industriële houtbewerking<br />Interieurinrichting<br />Meubelgarneren<br />Modelmakerij<br />Restauratie van meubelen<br />Restauratie van schrijnwerk<br />Stijl- en designmeubelen<br />Houtbewerking (BuSO)<br />Werkplaatsschrijnwerker (BuSO)<br />Alle modulair georganiseerde structuuronderdelen<br />6. Studiegebied land- en tuinbouw :<br />Landbouwtechnieken<br />Tuinbouwtechnieken<br />Bedrijfsleiding land- en tuinbouw<br />Landbouwmechanisatie<br />Tuinbouw<br />Landbouw<br />Agromanagement<br />Bosbouw<br />Groenbeheer en verfraaiing<br />Landbouwdiversificatie<br />Land- en tuinbouwmechanisatie<br />Tuinbouwmechanisatie<br />Tuinbouwteelten<br />Natuur- en landschapsbeheertechnieken<br />Veehouderij en landbouwteelten<br />Tuinbouw (BuSO)<br />Tuinbouwarbeider (BuSO)<br />7. Studiegebied mechanica-elektriciteit :<br />Elektriciteit-elektronica<br />Elektromechanica<br />Elektrotechnieken<br />Industriële wetenschappen<br />Mechanische technieken<br />Elektrische installatietechnieken<br />Elektronische installatietechnieken<br />Industriële ICT<br />Industriële wetenschappen<br />Kunststoftechnieken<br />Mechanische vormgevingstechnieken<br />Podiumtechnieken<br />Vliegtuigtechnieken<br />Audio-video en teletechnieken<br />Computergestuurde mechanische productietechnieken<br />Haventechnieken<br />Industriële computertechnieken<br />Industriële elektronicatechnieken<br />Industriële onderhoudstechnieken<br />Kunststofvormgevingstechnieken<br />Mechanica constructie- en planningstechnieken<br />Regeltechnieken<br />Stuur- en beveiligingstechnieken<br />Basismechanica<br />Elektrische installaties<br />Metaal<br />Nijverheid<br />Elektrische installaties<br />Kunststofverwerking<br />Lassen-constructie<br />Productieoperator<br />Werktuigmachines<br />Composietverwerking<br />Computergestuurde werktuigmachines<br />Fotolassen<br />Industrieel onderhoud<br />Industriële elektriciteit<br />Matrijzenbouw<br />Metaal- en kunststofschrijnwerk<br />Pijpfitten-lassen-monteren<br />Hoeklasser (BuSO)<br />Metaalbewerking (BuSO)<br />Plaatbewerker (BuSO)<br />Alle modulair georganiseerde structuuronderdelen<br />8. Studiegebied koeling en warmte :<br />Koel- en warmtechnieken<br />Industriële koeltechnieken<br />Industriële warmtetechnieken<br />Centrale verwarming en sanitaire installaties<br />Koelinstallaties<br />Koeltechnische installaties<br />Verwarmingsinstallaties<br />Loodgieter (BuSO)<br />Alle modulair georganiseerde structuuronderdelen<br />9. Studiegebied textiel :<br />Textieltechnieken<br />Textielproductietechnieken<br />Textielveredelingstechnieken<br />Textielveredeling en breikunde<br />Textiel<br />Hulpwever (BuSO)<br />Textiel (BuSO)<br />Alle modulair georganiseerde structuuronderdelen. ».<br /><br />
 
 ## Afdeling III Hogescholen
+
+### ART. 5.
+
+Artikel 178 van het decreet van 13 juli 1994 betreffende de hogescholen in de Vlaamse Gemeenschap wordt als volgt gewijzigd :<br />1° het bedrag « 557.419.543,24 » wordt vervangen door het bedrag « 582.460.823,02 »;<br />2° paragraaf 5 wordt opgeheven.<br /><br />
+
+### ART. 6.
+
+Artikel 184, § 1, van hetzelfde decreet wordt vervangen door wat volgt :<br />« § 1. Vanaf 2008 worden de werkingsuitkeringen jaarlijks op de volgende wijze aangepast :<br />0,8 x (Ln/L07) + 0,2 x (Cn/C07), waarbij :<br />Ln/L07 gelijk is aan de verhouding tussen de geraamde index van de eenheidsloonkosten op het einde van het betrokken begrotingsjaar en de index van de eenheidsloonkosten op het einde van het begrotingsjaar 2007;<br />Cn/C07 gelijk is aan de verhouding tussen de geraamde index van de consumptieprijzen op het einde van het betrokken begrotingsjaar en de index van de consumptieprijzen op het einde van het begrotingsjaar 2007. ».<br /><br />
+
+### ART. 7.
+
+Aan artikel 209 van hetzelfde decreet wordt een § 3 toegevoegd, die luidt als volgt :<br />« § 3. In afwijking van § 1 van dit artikel bedraagt het basisbedrag van de sociale toelage vanaf begrotingsjaar 2007 207,77 euro per financierbare student, waarbij telkens rekening gehouden wordt met het aantal financierbare studenten dat de hogeschool op 1 februari 2005 telde.<br />Vanaf begrotingsjaar 2008 wordt het basisbedrag per financierbare student geïndexeerd aan de hand van de volgende indexformule :<br />I = 0,50 x (L1/L0) + 0,50 x (C1/C0);<br />I : de indexformule;<br />L1/L0 : de verhouding tussen de geraamde index van de eenheidsloonkosten op het einde van het desbetreffende begrotingsjaar en de index van de eenheidsloonkosten op het einde van begrotingsjaar 2007;<br />C1/C0 : de verhouding tussen de geraamde index van de consumptieprijzen op het einde van het desbetreffende begrotingsjaar en de index van de consumptieprijzen op het einde van begrotingsjaar 2007. ».<br />
 
 ## Afdeling IV Universiteiten
 
@@ -68,21 +92,154 @@ In artikel 130, § 2, punt 2°, van het decreet van 12 juni 1991 betreffende de 
 
 <p>&nbsp;</p>
 
+### ART. 9.
+
+Artikel 130, § 2, punt 3°, van hetzelfde decreet, gewijzigd bij decreet van 30 juni 2006, wordt gewijzigd als volgt :<br>
+« 3° Voor het jaar 2007 is het forfaitair bedrag, uitgedrukt in duizend euro, voor elke universiteit vastgesteld als volgt :
+<table border="1" cellpadding="0" cellspacing="0" style="border-collapse:collapse">
+	<tbody>
+		<tr>
+			<td colspan="2" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:460.6pt">
+			<p>2007</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:347.4pt">
+			<p>1.Katholieke Universiteit Leuven</p>
+
+			<p>2. Vrije Universiteit Brussel</p>
+
+			<p>3. Universiteit Antwerpen</p>
+
+			<p>4. Universiteit Hasselt</p>
+
+			<p>5. transnationale Universiteit Limburg</p>
+
+			<p>6. Katholieke Universiteit Brussel</p>
+
+			<p>7. Universiteit Gent</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:113.2pt">
+			<p>193.373</p>
+
+			<p>68.403</p>
+
+			<p>72.430</p>
+
+			<p>13.887</p>
+
+			<p>4.520</p>
+
+			<p>4.800</p>
+
+			<p>150.94.</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+<p>&nbsp;</p>
+
+### ART. 10.
+
+In artikel 130, § 3, 3°, van hetzelfde decreet, gewijzigd bij decreet van 30 juni 2006, worden in punt 4. Universiteit Hasselt en punt 7. Universiteit Gent de bedragen « 897 » en « 22.086 » respectievelijk vervangen door de bedragen « 1.152 » en « 25.390 ».<br /><br />
+
+### ART. 11.
+
+Artikel 136, § 1, punt 3° van hetzelfde decreet, gewijzigd bij het decreet van 30 juni 2006, wordt gewijzigd als volgt :<br>
+« 3° De universiteiten, vermeld in artikel 3, 1°, 2°, b), 3°, 4°, b) en c), en 6°, ontvangen voor het jaar 2007 voor de uitgaven die voortvloeien uit de wettelijke en conventionele werkgeversbijdragen en -lasten, met inbegrip van de door de instellingen gefinancierde aanvullende pensioenen, om een gelijkwaardig statuut te verzekeren als voor de universiteiten, vermeld in artikel 3, 2°, a), 4°, a), en 5°, de volgende bedragen, uitgedrukt in duizend euro :<br>
+
+<table border="1" cellpadding="0" cellspacing="0" style="border-collapse:collapse">
+	<tbody>
+		<tr>
+			<td colspan="2" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:460.6pt">
+			<p>2007</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:347.4pt">
+			<p>1.Katholieke Universiteit Leuven</p>
+
+			<p>2. Vrije Universiteit Brussel</p>
+
+			<p>3. Universiteit Antwerpen</p>
+
+			<p>4. Universiteit Hasselt</p>
+
+			<p>5. Katholieke Universiteit Brussel</p>
+
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:113.2pt">
+			<p>8.331</p>
+
+			<p>3.053</p>
+
+			<p>190</p>
+
+			<p>136</p>
+
+			<p>206</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+<p>&nbsp;</p>
+
 ## Afdeling V Postinitiële opleidingsinstellingen
+
+### ART. 12.
+
+In artikel 15, § 2, van het decreet van 18 mei 1999 betreffende sommige instellingen van openbaar nut voor postinitieel onderwijs, wetenschappelijk onderzoek en wetenschappelijke dienstverlening, gewijzigd bij het decreet van 24 juni 2005, worden de woorden « voor het begrotingsjaar 2005 vastgesteld op 8.594.000 euro » vervangen door de woorden « vanaf het begrotingsjaar 2007 vastgesteld op 9.726.000 euro ».<br /><br />
 
 ## Afdeling VI Recuperatiefonds Studietoelagen
 
+### ART. 13.
+
+In artikel 21, § 4, van het decreet van 23 december 2005 houdende bepalingen tot begeleiding van de begroting voor het begrotingsjaar 2006 worden na de woorden « voor de betaling van studiefinanciering overeenkomstig de bepalingen van het decreet van 30 april 2004 » de woorden « en voor de betaling van studietoelagen overeenkomstig de bepalingen van de wet van 19 juli 1971 » ingevoegd.<br /><br />
+
 ## Afdeling VII Recuperatiefonds van de wedden onderwijzend personeel
+
+### ART. 14.
+
+Het C-fonds Inschrijvingsgelden Deeltijds Kunstonderwijs, zoals bedoeld in artikel 100quinquies van het decreet van 31 juli 1990 betreffende Onderwijs II, wordt vanaf begroting 2007 omgevormd in een B-fonds in de zin van artikel 45 van de gecoördineerde wetten op de rijkscomptabiliteit.<br>
+&nbsp;
+
+### ART. 15.
+
+Het C-fonds voor de aanwending van teruggevorderde ten onrechte gestorte wedden en weddetoelagen van de sector Onderwijs opgericht bij decreet van 21 december 1990 houdende begrotingstechnische bepalingen alsmede de bepalingen tot begeleiding van de begroting 1991, wordt vanaf begroting 2007 omgevormd in een B-fonds in de zin van artikel 45 van de gecoördineerde wetten op de rijkscomptabiliteit.<br /><br />
 
 ## HOOFDSTUK III vzw ESF-Agentschap
 
+### ART. 16.
+
+Aan artikel 2, § 1, van het decreet van 8 november 2002 houdende de oprichting van de vzw ESF-Agentschap worden een tweede en een derde lid toegevoegd, die luiden als volgt :<br />« De vzw « ESF-Agentschap » is een privaatrechtelijk vormgegeven extern verzelfstandigd agentschap als vermeld in artikel 29 van het kaderdecreet beter bestuurlijk beleid van 18 juli 2003.<br />De Vlaamse Regering bepaalt tot welk homogeen beleidsdomein het ESF-Agentschap behoort. ».<br /><br />
+
+### ART. 17.
+
+In artikel 4, § 1, van hetzelfde decreet, wordt het woord «beheersovereenkomst » vervangen door het woord « samenwerkingsovereenkomst ».<br /><br />
+
 ## HOOFDSTUK IV Jeugdbeleid
 
+### ART. 18.
+
+Artikel 62 van het decreet van 29 maart 2002 op het Vlaamse jeugdbeleid, zoals gewijzigd bij decreet van 8 juli 2005, wordt vervangen door wat volgt :<br />« Art. 62. § 1. Een op basis van dit decreet gesubsidieerde vereniging kan gedurende de periode waarbinnen deze vereniging haar beleidsnota uitvoert, onbeperkt een reserve aanleggen met eigen inkomsten en subsidies.<br />Als reserve dient beschouwd te worden het resultaat van de optelling van de rekening 13 (bestemde fondsen) en de rekening 14 (overgedragen resultaat) van de balans, zoals omschreven in de minimumindeling van het algemeen rekeningenstelsel, als bijlage gevoegd bij het koninklijk besluit van 19 december 2003 betreffende de boekhoudkundige verplichtingen en de openbaarmaking van de jaarrekening van bepaalde verenigingen zonder winstoogmerk, internationale verenigingen zonder winstoogmerk en stichtingen.<br />§ 2. Als de vereniging op het einde van de beleidsperiode nog beschikt over een reserve, aangelegd overeenkomstig § 1, kan deze reserve overgedragen worden naar de volgende beleidsperiode op voorwaarde dat, ten opzichte van de bestaande reserve op het begin van de beleidsperiode, de aangroei niet meer bedraagt dat twintig percent van de gemiddelde jaarlijkse kosten berekend over de beleidsperiode.<br />§ 3. De Vlaamse Regering kan, na advies van de Inspectie van Financiën, een afwijking toestaan van het in § 2 bepaalde percentage, op voorwaarde dat de vereniging daartoe een gemotiveerd bestedingsplan voorlegt voor de te veel opgebouwde reserve of voor de gehele reserve, in te dienen bij de administratie.<br />§ 4. Als bij de afrekening van het laatste werkingsjaar van de beleidsperiode de aangroei van de reserve meer bedraagt dan hetgeen bepaald werd in § 2, dan wordt het teveel ingehouden op het nog uit te keren saldo van de werkingssubsidie, toegekend aan de vereniging, en wordt het eventueel daarna nog resterende bedrag in mindering gebracht op de subsidies van de volgende beleidsperiode, tot een maximum van de werkingssubsidie toegekend voor het laatste jaar voorafgaand aan de nieuwe beleidsperiode.<br />§ 5. Als aan de vereniging na afloop van de beleidsperiode waarop de beleidsnota bedoeld in de artikelen 10, 3°, 17, § 1, 24, 3°, 31, § 2, en 54, § 1, betrekking heeft, geen werkingssubsidie meer wordt verleend, dan is de vereniging verplicht een gemotiveerd bestedingsplan voor alle reserves die op basis van onderhavig artikel werden aangelegd, in te dienen bij de administratie. Deze reserves moeten in voorkomend geval, prioritair aangewend worden voor het voldoen van de arbeidsrechtelijke verplichtingen. ».<br /><br />
+
 ## HOOFDSTUK V Sociaal-cultureel vormingswerk
+
+### ART. 19.
+
+In afwijking van artikel 3, § 2, tweede lid, van het decreet van 6 juli 2001 houdende ondersteuning van de federatie van erkende organisaties voor volksontwikkeling en houdende ondersteuning van de vereniging van Vlaamse Cultuurcentra, wordt in 2007 de tussenkomst van de Vlaamse Gemeenschap rechtstreeks uitgekeerd aan de Federatie van erkende organisaties voor Volksontwikkeling (FOV).<br>
+&nbsp;
 
 ## HOOFDSTUK VI Fiscaliteit
 
 ## Afdeling I Verhoging abattement
+
+### ART. 20.
+
+In artikel 46bis van het Wetboek der registratie-, hypotheek- en griffierechten, ingevoegd bij decreet van 1 februari 2002 en gewijzigd bij de decreten van 5 juli 2002, 20 december 2002 en 24 december 2004 wordt het bedrag « 12.500 euro » vervangen door het bedrag « 15.000 euro ».<br /><br />
 
 ## Afdeling II Belasting op de automatische ontspanningstoestellen
 
@@ -128,11 +285,23 @@ In het koninklijk besluit van 8 juli 1970 houdende de algemene verordening betre
 
 ## Afdeling III Leegstandsheffing Woningen
 
+### ART. 31.
+
+In artikel 42, § 2, van het decreet van 22 december 1995 houdende uitvoering van de bepalingen van de begroting 1996, zoals gewijzigd bij het decreet van 8 juli 1997, wordt punt 2° vervangen door wat volgt :<br />« 2° gebouwen en/of woningen die in het kader van het decreet van 3 maart 1976 beschermd zijn als monument of stads- en dorpsgezicht of die bij ministerieel besluit opgenomen zijn in een ontwerp van lijst tot bescherming in het kader van dit decreet. ».
+
 ## Afdeling IV Onroerende Voorheffing
+
+### ART. 32.
+
+In zover de decreten en de uitvoeringsbesluiten van de Vlaamse overheid er niet van afwijken worden alle wettelijke wijzigingen aan het Wetboek van de Inkomstenbelastingen 1992 die in werking zijn getreden vanaf 1 januari 2002 tot en met 30 september 2006 met terugwerkende kracht tot datum van hun respectievelijke inwerkingtreding zonder inhoudelijke wijziging overeenkomstig van toepassing verklaard op de onroerende voorheffing in het Vlaamse Gewest.<br /><br />Het eerste lid geldt niet voor het artikel 7 van de Programmawet van 20 juli 2006 waarbij het artikel 371 van het Wetboek van de Inkomstenbelastingen 1992 werd gewijzigd met ingang van 1 augustus 2006.<br /><br />
 
 ## HOOFDSTUK VII Leefmilieu
 
 ## Afdeling I Watervang
+
+### ART. 33.
+
+In artikel 83 van het decreet van 21 december 1990 houdende begrotingstechnische bepalingen, alsmede bepalingen tot begeleiding van de begroting 1991, gewijzigd bij de decreten van 18 december 1992, 22 december 1995, 20 december 1996, 19 december 1997 en 21 december 2001 wordt § 2 vervangen door wat volgt :<br />« § 2. Het bedrag verschuldigd voor het capteren van water wordt vastgesteld als volgt :<br />Waterafname in m3/jaar : euro/m3<br />1. voor de schijf van minder dan 1.000.000 m3 0,043381;<br />2. voor de schijf van 1.000.000 tot 9.999.999 m3 0,025161;<br />3. voor de schijf van 10.000.000 tot 99.999.999 m3 0,012959;<br />4. voor de schijf boven 99.999.999 m3 0,002499.<br />De captatie van minder dan 500 m3 per jaar is gratis. ».<br /><br />
 
 ## Afdeling II Bekrachtiging van het besluit van de Vlaamse Regering van 14 oktober 2005 houdende de overdracht van sommige personeelsleden van de administratie Waterwegen en Zeewezen aan de verzelfstandigde agentschappen Waterwegen en Zeekanaal en De Scheepvaart, samen met alle goederen die aan die personeelsleden verbonden zijn
 
@@ -142,9 +311,37 @@ Het besluit van de Vlaamse Regering van 14 oktober 2005 houdende de overdracht v
 
 ## Afdeling III Oppervlaktewateren
 
+### ART. 35.
+
+In artikel 35bis van de wet van 26 maart 1971 op de bescherming van de oppervlaktewateren tegen verontreiniging wordt § 4 vervangen door wat volgt :<br />« § 4. Elke rechtspersoon die in het Vlaamse Gewest een zuiveringstechnisch werk exploiteert waarin uitsluitend afvalwater van de openbare riolering (met inbegrip van afvalstoffen afkomstig van septische putten en vetvangers waarin uitsluitend huishoudelijk afvalwater wordt geleid, per as aangevoerde afvalwaters, slibs afkomstig van openbare rioolwaterzuiveringsinstallaties en/of slibs afkomstig van het onderhoud van collectoren en pompstations) wordt behandeld en dat aangesloten is op het openbaar hydrografisch net, is van heffing vrijgesteld voor wat betreft de lozing van de effluentwaters van voornoemde openbare rioolwaterzuiveringsinstallaties.<br />Een slibverbrandingsinstallatie waarmee het zuiveringstechnisch werk een milieutechnische eenheid vormt is geen onderdeel van het zuiveringstechnisch werk. ».<br /><br />
+
+### BIJLAGE 36.
+
+Aan artikel 35bis van de wet van 26 maart 1971 op de bescherming van de oppervlaktewateren tegen verontreiniging wordt een § 7 toegevoegd, die luidt als volgt :<br />« § 7. Elke rechtspersoon die op het grondgebied van het Vlaamse Gewest in een grindwinningsgebied een groeve exploiteert waar overeenkomstig de beste beschikbare techniek grind wordt ontgonnen of verwerkt, is geen heffingsplichtige in de zin van § 3, voor zover het water integraal wordt teruggevoerd naar hetzelfde water als waaruit het is onttrokken en dit zonder gebruik te maken van de openbare riolering. Deze bepaling is niet van toepassing op sanitair waterverbruik of voor het gebruik van water voor eventuele andere activiteiten die op hetzelfde terrein worden uitgeoefend. ».<br /><br />
+
+### ART. 37.
+
+Met ingang van het heffingsjaar 2007 worden aan artikel 35ter, § 2, van de wet van 26 maart 1971 op de bescherming van de oppervlaktewateren tegen verontreiniging, gewijzigd bij decreet van 23 december 2005, de volgende wijzigingen aangebracht :<br />1° in het tweede lid wordt de zin « Voor alle andere heffingsplichtigen wordt het eenheidstarief van de heffing vastgesteld op 22,6 euro » vervangen door de volgende zin : « Voor alle andere heffingsplichtigen wordt het eenheidstarief van de heffing vastgesteld op 25,7 euro »;<br />2° in het vierde lid wordt de zin « Deze bepaling gaat in vanaf heffingsjaar 2006. » geschrapt.
+
+### ART. 38.
+
+Artikel 35vicies, § 2, van dezelfde wet, ingevoegd bij decreet van 23 december 2005, wordt aangevuld als volgt :<br />« - voor het heffingsjaar 2007 is deze coëfficiënt gelijk aan 0,828. ».<br />
+
 ## Afdeling IV Water bestemd voor menselijke aanwending
 
+### ART. 39.
+
+In artikel 16bis, § 3, eerste lid, van het decreet van 24 mei 2002 betreffende water bestemd voor menselijke aanwending, ingevoegd bij decreet van 24 december 2004, wordt de zin « De bijdrage voor de sanering op gemeentelijk vlak mag maximaal 1,5 keer de bijdrage voor de sanering op bovengemeentelijk vlak bedragen » vervangen door de zin « De bijdrage voor de sanering op gemeentelijk vlak mag ten opzichte van de bijdrage voor de sanering op bovengemeentelijk vlak maximaal 1,5 keer hoger zijn voor het water verbruikt in 2005 en 2006 en 1,4 keer hoger voor het water verbruikt in 2007 ».
+
 ## Afdeling V Grondwaterbeheer
+
+### ART. 40.
+
+In artikel 28quater, § 1, 2°, b), van het decreet van 24 januari 1984 houdende maatregelen inzake het grondwaterbeheer wordt in de definitie van het begrip, in de tweede zin de woorden « in het heffingsjaar 2006 » vervangen door de woorden « in heffingsjaar 2007 ».
+
+### ART. 41.
+
+In het decreet van 24 januari 1984 houdende maatregelen inzake het grondwaterbeheer wordt de bijlage vervangen door wat volgt :<br />« Bijlage<br />Voor de raadpleging van de tabel, zie beeld <br />De Vlaamse Regering legt deze gebieden op kaart vast. ».<br /><br />
 
 ## HOOFDSTUK VIII IVA VMM
 
@@ -154,9 +351,25 @@ Het besluit van de Vlaamse Regering van 14 oktober 2005 houdende de overdracht v
 
 ## HOOFDSTUK IX Grindfonds en grindwinning
 
+### ART. 43.
+
+Aan de laatste zin van artikel 14, § 1, van het decreet van 14 juli 1993 tot oprichting van het Grindfonds en tot regeling van de grindwinning worden volgende woorden toegevoegd :<br />« en in het kader van zuinig ruimtegebruik en de uitvoering van het principe van optimale ontginning voor de hoeveelheden grind in de vergunde grindwinningsgebieden. ».<br /><br />
+
+### ART. 44.
+
+In artikel 15, § 1, van het decreet van 14 juli 1993 tot oprichting van het Grindfonds en tot regeling van de grindwinning wordt het eerste lid vervangen door wat volgt :<br />« De houders van de nodige vergunningen voor de exploitatie van grind in een grindwinning, met inbegrip van de hoeveelheden grind in het kader van zuinig ruimtegebruik en de uitvoering van het principe van optimale ontginning, zoals bepaald in artikel 14, § 1, zijn, vanaf een door de Vlaamse Regering te bepalen datum, onderworpen aan een grindheffing. ».<br /><br />
+
 ## HOOFDSTUK X Life-fonds
 
+### ART. 45.
+
+§ 1. Er wordt een fonds opgericht voor de uitvoering van Life en andere projecten die tot stand komen met cofinanciering van de Europese Unie.<br /><br />Dit fonds is een begrotingsfonds als bedoeld in artikel 45 van de gecoördineerde wetten op de rijkscomptabiliteit type B. Hierna het fonds te noemen.<br /><br />§ 2. De inkomsten van het fonds worden gespijsd met EU cofinanciering voor Life en andere projecten. Ook inkomsten van andere partners die naast het Vlaamse Gewest en de EU aan het project deelnemen, kunnen het fonds spijzen.<br /><br />§ 3. De inkomsten van het fonds mogen aangewend worden voor uitgaven voor diensten, werking, exploitatie en uitrusting, voor zover deze uitgaven verband houden met de realisatie van de projecten met cofinanciering van de EU.<br /><br />
+
 ## HOOFDSTUK XI Milieuheffingen
+
+### ART. 46.
+
+Hoofdstuk IX van het decreet van 2 juli 1981 betreffende de voorkoming en het beheer van afvalstoffen, vervangen bij het decreet van 20 december 1989 en gewijzigd bij de decreten van 21 december 1990, 25 juni 1992, 18 december 1992, 22 december 1993, 21 december 1994, 22 december 1995, 20 december 1996, 19 december 1997, 19 december 1998, 6 juli 2001, 21 december 2001, 5 juli 2002, 20 december 2002, 27 juni 2003 en 19 december 2003, wordt vervangen door wat volgt :<br />« HOOFDSTUK IX. - Milieuheffingen<br />Art. 47. § 1. De begrippen gebruikt in dit hoofdstuk hebben de betekenis die hen wordt toegekend door of krachtens dit decreet en het decreet van 28 juni 1985 betreffende de milieuvergunning.<br />§ 2. Voorts wordt voor dit hoofdstuk verstaan onder :<br />- voorbehandelen van afvalstoffen in het kader van de bepaling in artikel 48, § 2, 16° : het behandelen van afvalstoffen waarbij de aard en samenstelling van de afvalstoffen wijzigt zodat ze geschikt gemaakt worden voor een verdere stap in de voorbehandeling of voor recyclage of voor eindverwerking van de afvalstoffen;<br />- brandbare afvalstoffen : afvalstoffen met een gloeiverlies > 10 % of een TOC-gehalte > 6 %.<br />Art. 48. § 1. Aan een milieuheffing zijn onderworpen de exploitanten van de in § 2, 1° tot en met 16°, bedoelde vergunningsplichtige inrichtingen alsook de overbrengers van de in § 2, 17°, bedoelde afvalstoffen met het oog op verwerking ervan buiten het Vlaamse Gewest. De gemeenten, of de in hun plaats tredende verenigingen van gemeenten kunnen voor de door hen opgehaalde huishoudelijke en gemeentelijke afvalstoffen rechtstreeks als heffingsplichtige worden aangemerkt voor zover zij hiervoor een machtiging ontvangen van OVAM. De machtiging vermeldt de afvalstroom, de concrete bestemming en het toe te passen heffingstarief. Een kopie van deze machtiging wordt bezorgd aan de exploitant van de inrichting waarnaar de concrete afvalstroom wordt afgevoerd. De exploitant vermeldt de betreffende hoeveelheden in een bijlage bij zijn aangifte met verwijzing naar de respectievelijke machtiging. De exploitant deelt deze hoeveelheden tijdig mee aan de gemeenten, of de in hun plaats tredende verenigingen van gemeenten die voor de betreffende hoeveelheden zelf als heffingsplichtige optreden en een aangifte doen overeenkomstig de bepalingen van dit decreet.<br />Onverminderd de verder bepaalde uitzondering geldt de in § 2, 1° tot en met 16°, bepaalde heffing voor de hoeveelheden afvalstoffen zoals ze worden gestort, verbrand of meeverbrand, inclusief de toeslagstoffen die werden toegevoegd met het oog op het storten, verbranden of meeverbranden van de afvalstoffen.<br />§ 2. Het bedrag van de milieuheffingen, als bedoeld in § 1, wordt, afhankelijk van het soort afvalstof en het soort verwerkingswijze, vastgesteld op :<br />1° 150 euro per ton voor het storten, verbranden of meeverbranden van afvalstoffen in een inrichting die niet vermeld wordt onder 2° tot en met 16°;<br />2° a) 75 euro per ton voor het storten op een daartoe vergunde stortplaats van brandbare afvalstoffen;<br />b) 20 euro per ton, en dit in afwijking van a), voor het storten van huishoudelijke afvalstoffen die niet konden worden verwerkt in een inrichting vergund voor het verwerken van huishoudelijke afvalstoffen, om reden dat de exploitant zijn inrichting op vrijwillige basis tijdelijk en buiten de normale onderhoudsperiodes buiten dienst heeft gesteld omdat niet kan voldaan worden aan de opgelegde vergunningsvoorwaarden. Deze afwijking geldt evenwel voor elke inrichting slechts gedurende een periode van 18 maanden te rekenen vanaf de eerste dag van de maand tijdens dewelke de inrichting op vrijwillige basis werd gesloten;<br />c) 40 euro per ton voor het storten op een daartoe vergunde stortplaats van niet-brandbare afvalstoffen;<br />3° voor recyclageresidu's van bedrijven die afvalstoffen afkomstig van selectieve inzamelingen, zoals hieronder vermeld, gebruiken of voorbehandelen als grondstof voor de aanmaak van nieuwe stoffen of producten :<br />a) 75 * K euro per ton voor het storten op een daartoe vergunde stortplaats van brandbare afvalstoffen;<br />b) 40 * K euro per ton voor het storten op een daartoe vergunde stortplaats van niet-brandbare afvalstoffen.<br />De te storten restfractie moet na (voor)behandeling kleiner zijn dan de hierna vermelde percentages die moeten beschouwd worden ten opzichte van de totale aanvoer van de betreffende afvalstoffen op jaarbasis in de daartoe vergunde inrichting. Wanneer de te storten restfractie de hierna vermelde percentages overschrijdt, moet voor het overschrijdende deel het milieuheffingstarief toegepast worden waarbij K=1.<br />- 15 gewichtspercent voor glasafval;<br />- 20 gewichtspercent voor lompenafval;<br />- 20 gewichtspercent voor kunststofafval, geldend voor de bedrijven die kunststofafval gebruiken als grondstof voor de aanmaak van nieuwe stoffen of producten;<br />- 5 gewichtspercent voor kunststofafval, geldend voor de bedrijven die kunststofafval voorbehandelen als grondstof voor de aanmaak van nieuwe stoffen of producten;<br />- 10 gewichtspercent voor elektronisch en elektrisch schrootafval;<br />- 10 gewichtspercent voor schrootafval;<br />- 5 gewichtspercent voor houtafval;<br />- 5 gewichtsprocent voor papier- en kartonafval;<br />- 3 gewichtspercent voor groenafval;<br />- 5 gewichtspercent voor piepschuimafval;<br />- 5 gewichtspercent voor groente-, fruit- en tuinafval (GFT-afval) afkomstig van aërobe compostering;<br />- 8 gewichtspercent voor groente-, fruit- en tuinafval (GFT-afval) afkomstig van anaërobe vergisting;<br />- 5 gewichtspercent voor bouw- en sloopafval;<br />- 10 gewichtspercent voor rubberafval, andere dan bandenafval;<br />- 5 gewichtspercent voor bandenafval;<br />- 20 gewichtspercent voor plasticverpakkingen, metalen verpakkingen en drankkartons (PMD);<br />- 25 gewichtspercent voor shredderafval afkomstig van schrootverwerking;<br />- 5 gewichtspercent voor voedselafval;<br />- 25 gewichtspercent voor gebruikte oplosmiddelen;<br />- 10 gewichtspercent voor recyclageresidu's afkomstig van de normale activiteiten van door de OVAM erkende kringloopcentra;<br />- 3 gewichtspercent voor recyclageresidu's van de behandeling van bodemassen.<br />Voor recyclageresidu's van lompenafval is K = 0 met ingang van het heffingsjaar 2007.<br />Voor recyclageresidu's van bedrijven die glasafval afkomstig van selectieve inzamelingen gebruiken of voorbehandelen als grondstof voor de aanmaak van nieuw glas, is K = 0 met ingang van het heffingsjaar 2007.<br />Voor niet-brandbare recyclageresidu's van papier- en kartonafval is K = 0,05 met ingang van het heffingsjaar 2007.<br />Voor brandbare recyclageresidu's van papier- en kartonafval is K = 0,03 met ingang van het heffingsjaar 2007 tot en met het heffingsjaar 2009, en K = 1 vanaf het heffingsjaar 2010.<br />Voor recyclageresidu's van elektronisch en elektrisch schrootafval, van schrootafval en van shredderafval afkomstig van schrootverwerking, voor recyclageresidu's van kunststofafval van bedrijven die kunststofafval gebruiken als grondstof voor de aanmaak van nieuwe stoffen of producten, en voor recyclageresidu's van de compostering/vergisting van GFT is K = 0,15 met ingang van het heffingsjaar 2007 tot en met het heffingsjaar 2009, en K=1 vanaf het heffingsjaar 2010. In afwijking hiervan blijft voor shredderafval afkomstig van schrootverwerking K = 0,15 voor het heffingsjaar 2010 indien de hoeveelheid shredderafval die in 2010 per ton inputmateriaal wordt gestort, met 10 % wordt verminderd in vergelijking met de hoeveelheid shredderafval die in 2010 per ton inputmateriaal wordt geproduceerd en bestaande uit enerzijds de lichte fractie die wordt afgezogen uit de cycloon, en anderzijds de zware fractie die overblijft na metallische scheiding en na de lineaire motor.<br />Voor recyclageresidu's afkomstig van de normale activiteiten van door de OVAM erkende kringloopcentra is K = 0,2 met ingang van het heffingsjaar 2007.<br />Voor recyclageresidu's van bouw- en sloopafval is K = 0,6 voor het heffingsjaar 2007 en K = 1 met ingang van het heffingsjaar 2008.<br />Voor andere recyclageresidu's is K = 0,4 voor het heffingsjaar 2007, K = 0,6 voor het heffingsjaar 2008, K = 0,8 voor het heffingsjaar 2009 en K = 1 met ingang van het heffingsjaar 2010;<br />4° voor residu's afkomstig van de reiniging van grond in daartoe vergunde grondreinigingscentra :<br />3 euro per ton voor het storten op een daartoe vergunde stortplaats;<br />5° voor residu's afkomstig van de verwerking van rioolkolkenslib in daartoe vergunde inrichtingen :<br />3 euro per ton voor het storten op een daartoe vergunde stortplaats;<br />6° voor slibresidu's afkomstig van de reiniging van zeefzand in daartoe vergunde bedrijven :<br />3 euro per ton voor het storten op een daartoe vergunde stortplaats;<br />7° 23 euro per ton voor het storten op een daartoe vergunde stortplaats van geïmmobiliseerde niet-brandbare afvalstoffen afkomstig van daartoe vergunde bedrijven, op voorwaarde dat de immobilisatie noodzakelijk is om te voldoen aan de vergunningsvoorwaarden van de stortplaats;<br />8° 5 euro per ton voor het storten van ijzeroxide afvalstoffen van de zinkproductie bekend onder de naam jarosiet en goethiet, op een daartoe vergunde stortplaats;<br />9° 1 euro per ton voor het storten van gips of calciumchloride afvalstoffen op een daartoe vergunde stortplaats;<br />10° 5 euro per ton voor het storten van ertsresten van de productie van titaandioxidepigmenten volgens het chloorproces op een daartoe vergunde stortplaats;<br />11° 0,1 euro per ton voor het storten van baggerspecie op een daartoe vergunde stortplaats;<br />12° 0,1 euro per ton voor het storten van ruimingspecie op een daartoe vergunde stortplaats;<br />13° 11 euro per ton voor het storten van inerte afvalstoffen op een daartoe vergunde stortplaats;<br />14° 7 euro per ton voor het verbranden van afvalstoffen in een daartoe vergunde installatie;<br />15° 7 euro per ton voor het meeverbranden van afvalstoffen in een daartoe vergunde installatie.<br />In afwijking van 14° en 15° geldt voor het verbranden of meeverbranden van recyclageresidu's van papier- en kartonafval een heffingstarief van 2 euro/ton met ingang van het heffingsjaar 2007;<br />16° de bedragen overeenkomstig het bovenvermelde 1° tot en met 15° voor het sorteren of voorbehandelen van afvalstoffen in een daartoe vergunde inrichting. Het bedrag van de milieuheffing wordt bepaald door de op de niet-gerecycleerde of hergebruikte afvalstoffen toegepaste verwerkingswijze bedoeld in het bovenvermelde 1° tot en met 15°.<br />De hiervoor vermelde milieuheffing is niet verschuldigd indien de vergunde opslag-, overslag-, sorteer- en/of voorbehandelinginrichting aantoont dat de afvalstoffen na opslag, overslag, sortering of voorbehandeling gerecycleerd of hergebruikt werden en, voor wat betreft het niet-hergebruikte en niet-gerecycleerde gedeelte, werden verwerkt met betaling van de milieuheffing overeenkomstig het bovenvermelde 1° tot en met 15°.<br />Indien de verwerking van de niet-gerecycleerde of niet-hergebruikte afvalstoffen buiten het Vlaamse Gewest plaatsvindt, zijn de bepalingen van het hierna vermelde 17°, tweede zinsdeel, van toepassing;<br />17° de bedragen vermeld sub 1° tot en met sub 16°, overeenkomstig de toegepaste verwerkingswijze voor de afvalstoffen geproduceerd in het Vlaamse Gewest die worden overgebracht met het oog op het verwerken ervan in een daartoe vergunde inrichting buiten het Vlaamse Gewest; in geval een gelijksoortige milieuheffing van toepassing is in het gewest of land waar bedoelde afvalstoffen worden verwerkt, wordt het bedrag van de heffing verminderd met het bedrag van de voormelde gelijksoortige milieuheffing zonder dat dit evenwel tot lager dan nul kan worden herleid.<br />§ 3. Voor volgende afvalstoffen geldt een tarief van 0 euro/ton :<br />1° het storten van asbesthoudende afvalstoffen op een daartoe vergunde stortplaats.<br />Onder asbesthoudende afvalstoffen worden tevens begrepen : afvalstoffen geheel of gedeeltelijk bestaande uit keramische vezels met gelijkaardige carcinogene eigenschappen;<br />2° het storten, verbranden of meeverbranden in een daartoe vergunde inrichting van afvalstoffen van bodemsaneringsoperaties waarbij overeenkomstig het advies van de OVAM andere saneringswijzen dan uitgraven en storten onredelijk hoge kosten met zich meebrengen of onmogelijk zijn;<br />3° het verbranden of meeverbranden in een daartoe vergunde inrichting en met recuperatie van energie van verwerkte dierlijke vetten, eiwitten en meel die conform die conform de Europese, federale en regionale regelgeving vernietigd moeten worden;<br />4° het verbranden of meeverbranden in een daartoe vergunde inrichting en met recuperatie van energie van recyclageresidu's van lompenafval en van recyclageresidu's van bedrijven die glasafval afkomstig van selectieve inzamelingen gebruiken of voorbehandelen als grondstof voor de aanmaak van nieuw glas.<br />Aan een milieuheffing zijn niet onderworpen :<br />1° het gebruik in de afdichtlaag van een vergunde stortplaats van mengsels van enerzijds reagentia en/of toeslagstoffen en anderzijds volgende afvalstoffen die overeenkomstig de Beste Beschikbare Technieken (BBT) niet reinigbaar zijn : zuiveringsslib, gronden/zanden, bodemassen en assen afkomstig van de verbranding van zuiveringsslib;<br />2° het storten van gronden die beantwoorden aan de voorwaarden voor het gebruik als bodem en die gebruikt worden als tussenafdek;<br />3° het verbranden of meeverbranden van houtafval in een daartoe vergunde inrichting en met recuperatie van energie.<br />§ 4. De in § 2 bedoelde bedragen worden aangepast aan het indexcijfer der consumptieprijzen met als basisindex het indexcijfer der consumptieprijzen van december 2006, basis 1996. De indexering gebeurt jaarlijks automatisch, dus zonder voorafgaande verwittiging, op 1 januari van elk jaar. De aangepaste bedragen worden afgerond tot de hogere cent.<br />§ 5. De bedragen van de milieuheffing overeenkomstig het bovenvermelde artikel 48, § 2, 2° tot en met 17°, worden vanaf 2007 vermenigvuldigd met 0,70 voor de heffingsplichtigen die overeenkomstig artikel 179 van het Wetboek van de inkomstenbelastingen 1992 onderworpen zijn aan de vennootschapsbelasting.<br />Art. 49. § 1. De milieuheffing bedoeld in artikel 48, § 1, is verschuldigd :<br />1° voor wat betreft de bedragen bedoeld in § 2, 1° tot en met 16° : op het tijdstip dat de afvalstoffen worden verwerkt in de in § 2, 1° tot en met 16°, bedoelde inrichtingen;<br />2° voor wat betreft de bedragen bedoeld in § 2, 17° : op het tijdstip dat de afvalstoffen geproduceerd in het Vlaamse Gewest worden overgebracht met het oog op het verwerken ervan buiten het Vlaamse Gewest.<br />§ 2. Wanneer een afvalstof verschillende verwerkingswijzen ondergaat, is de heffing alleen verschuldigd voor de heffingsplichtige verwerkingswijze die het eerst wordt toegepast. De vrijstelling van heffing geldt ook voor de toeslagstoffen die in de eerste verwerkingswijze worden toegevoegd.<br />§ 3. De heffingsplichtige kan het gedeelte van de heffing door hem opgenomen in zijn aangifte en regelmatig voldaan op de wijze voorzien bij artikel 50, § 6, terugvorderen onder volgende voorwaarden :<br />1° de heffing moet onbetwistbaar en duidelijk omschreven zijn op een factuur uitgereikt door de heffingsplichtige aan een medecontractant met verwijzing naar het in artikel 50, § 8, bedoelde register;<br />2° de vordering van de heffingsplichtige moet blijken definitief oninbaar te zijn bij gebrek aan activa na opname als onbetwistbare vordering in het passief van het faillissement van de medecontractant op grond van een attest uitgereikt door de behandelende curator;<br />3° de aanvraag tot teruggave van de heffing moet gebeuren per aangetekend schrijven aan de Openbare Vlaamse Afvalstoffenmaatschappij en moet vergezeld zijn van de factuur vermeld in 1°, alsmede van een afschrift van het attest uitgereikt door de behandelende curator, zoals vermeld in 2°.<br />Art. 50. § 1. Wanneer voor de exploitatie van een inrichting de vergunning, verleend conform de bepalingen van dit decreet, is vervallen en voor dezelfde inrichting een nieuwe vergunning werd verleend, wordt voor wat de toepassing betreft van artikel 48, § 2, inzake milieuheffingen de nieuwe vergunning geacht te zijn verleend met ingang van ofwel het tijdstip zoals vermeld in het vergunningsbesluit indien de vergunningverlenende overheid binnen de wettelijk voorziene termijn een beslissing heeft genomen, ofwel het tijdstip waarop deze beslissing conform de wettelijke termijn had moeten genomen worden.<br />§ 2. De inning van de heffing vindt eenmaal per kwartaal plaats, namelijk in de loop van de maanden april en mei voor wat het eerste kwartaal betreft, in de loop van de maanden juli en augustus voor wat het tweede kwartaal betreft, in de loop van de maanden oktober en november voor wat het derde kwartaal betreft en in de loop van de maanden januari en februari van het volgende jaar voor wat het vierde kwartaal betreft. De Vlaamse Regering bepaalt de nadere regelen.<br />§ 3. De Vlaamse Regering duidt de ambtenaren en contractuele personeelsleden van de OVAM aan die belast zijn met de inning en de invordering van de heffing en met de controle op de naleving van de verplichtingen inzake de heffing, en bepaalt de nadere regelen met betrekking tot hun bevoegdheden.<br />§ 4. De heffingsplichtige is verplicht om in de loop van de maanden april, juli, oktober en januari een aangifte in te dienen met betrekking tot de heffing verschuldigd voor het voorafgaande kwartaal.<br />§ 5. Indien de heffingsplichtige niet tot betaling van het aangegeven bedrag overgaat of indien na controle door de met de inning en de invordering van de heffing belaste ambtenaar blijkt dat de aangegeven bedragen onjuist zijn kan door de met de inning en de invordering van de heffing belaste ambtenaar een navordering worden opgelegd ten laste van de heffingsplichtige.<br />§ 6. De heffingsplichtige is verplicht om voor 10 mei, 10 augustus, 10 november, alsmede 10 februari, de heffing voor het voorafgaande kwartaal te betalen. Evenwel is de heffingsplichtige ertoe verplicht voor 10 december van elk jaar een voorschot te betalen op de heffing voor het vierde kwartaal van dat jaar. Dit voorschot wordt forfaitair vastgesteld op zesenzestig procent van het bedrag dat bekomen wordt door de voor de eerste drie kwartalen door de heffingsplichtige verschuldigde heffing te delen door drie. Het aldus bekomen forfaitair bedrag wordt afgerond tot het lagere tiental. Indien op basis van de aangifte inzake het vierde kwartaal blijkt dat de werkelijk verschuldigde heffing lager is dan het verschuldigde voorschot, wordt dit voorschot, verminderd met de werkelijk verschuldigde heffing, maar vermeerderd met de wettelijke verwijlintrest op het aldus berekende verschil, aan de heffingsplichtige teruggestort binnen negentig kalenderdagen na ontvangst van de behoorlijk opgestelde aangifte inzake het vierde kwartaal. Het voorschot is niet verschuldigd indien de heffingsplichtige voor 10 december het bewijs levert dat hij zijn belastingplichtige activiteit heeft stopgezet voor de aanvang van het vierde kwartaal.<br />§ 7. In geval de heffingsplichtige meerdere kwartalen moet vereffenen, worden de betalingen eerst aangerekend op de oudste schulden en in volgorde eerst op de administratieve geldboeten, de nalatigheidsintresten en de hoofdsom.<br />§ 8. De heffingsplichtige is verplicht om de hoeveelheden afvalstoffen uitgedrukt in ton dagelijks en in volgorde van verwerking in een register in te schrijven.<br />§ 9. De heffingsplichtige is verplicht om alle bescheiden die nodig zijn om de voldoening van de heffing of de juistheid van de aangegeven bedragen na te gaan, voor te leggen op ieder verzoek van de ambtenaren belast met de controle op de naleving van de verplichtingen inzake de heffing.<br />§ 10. De heffingsplichtige is verplicht om op ieder verzoek van de ambtenaren belast met de controle op de naleving van de verplichtingen inzake de heffing, mondeling of schriftelijk alle inlichtingen te verschaffen die hem gevraagd worden om de voldoening van de heffing of de juistheid van de aangegeven bedragen na te gaan.<br />§ 11. Wanneer de heffing niet is betaald na het verstrijken van de termijn bedoeld in § 6, is van rechtswege de wettelijke intrest verschuldigd zoals thans bepaald in het KB van 4 augustus 1996 tot wijziging van de wettelijke rentevoet.<br />§ 12. Wanneer een heffingsplichtige, om welke redenen dan ook, de aangifte bedoeld in § 4 niet of te laat heeft ingediend of de verplichtingen bedoeld in § 8, § 9 of § 10, niet is nagekomen, kan hem door de met invordering belaste ambtenaar een ambtelijke aanslag opgelegd worden tot beloop van de heffing die vermoedelijk is verschuldigd.<br />§ 13. De heffing wordt in de gevallen bedoeld in § 12 vastgesteld op basis van de gevraagde stukken of, bij ontstentenis hiervan, op basis van gegevens die kunnen bewezen worden door geschrift, getuigen en vermoedens.<br />§ 14. De ambtelijke aanslag wordt opgelegd onverminderd de mogelijkheid van navordering binnen de termijn bedoeld in artikel 52.<br />§ 15. Binnen een termijn van dertig dagen na de datum van verzending, per aangetekend schrijven, van een ambtelijke aanslag of een navordering, kan de heffingsplichtige per aangetekend schrijven beroep instellen bij de door de Vlaamse Regering aangewezen Vlaamse minister die uitspraak doet binnen de zes maanden vanaf de datum van verzending van het beroepschrift. Een afschrift van dit beroep dient met dezelfde post per aangetekend schrijven aan de OVAM betekend. Op straffe van nietigheid verwijst het beroep naar het dossiernummer, aanslagjaar en kwartaal vermeld in de ambtelijke aanslag of in de navordering. Bij met redenen omkleed aangetekend schrijven, gericht aan de heffingsplichtige, kan de door de Vlaamse Regering aangewezen Vlaamse minister de voormelde termijn eenmalig verlengen met een periode van zes maanden.<br />§ 16. Alvorens een beslissing te nemen, legt de door de Vlaamse Regering aangewezen Vlaamse minister de in § 15 bedoelde geschillen voor aan een adviescommissie.<br />De Vlaamse Regering bepaalt de nadere regelen met betrekking tot de werking en samenstelling van de adviescommissie.<br />§ 17. Bij gebrek aan een uitspraak van de door de Vlaamse Regering aangewezen Vlaamse minister binnen de in § 15 gestelde termijn, wordt het beroep van de heffingsplichtige als ingewilligd beschouwd.<br />§ 18. De minister verzendt zijn beslissing per aangetekend schrijven aan de heffingsplichtige.<br />§ 19. Tegen de beslissing van de minister kan een vordering worden ingesteld overeenkomstig de bepalingen van artikel 1385decies en 1385undecies van het Gerechtelijk Wetboek.<br />§ 20. Ten aanzien van de heffingsplichtige, bedoeld in artikel 48, § 1, kan teruggave van door hem te veel aangegeven en betaalde milieuheffingen plaatsvinden door middel van verrekening op het verschuldigde bedrag aan te geven en te betalen voor een volgend kwartaal van het lopende kalenderjaar.<br />§ 21. De heffingsplichtige voegt bij deze kwartaalaangifte de nodige stukken ter staving van de gegrondheid van zijn verrekening. Bij onjuiste of ten onrechte toegepaste verrekening blijft de mogelijkheid van navordering zoals bedoeld in § 5 onverminderd bestaan.<br />§ 22. De Vlaamse Regering kan nadere regels bepalen met betrekking tot de aanduiding van de met inning en invordering van de milieuheffingen belaste personen, de wijze van inning en invordering van de milieuheffingen, de aangifte en de betaling van de milieuheffingen en de behandeling van de beroepen ingesteld overeenkomstig § 15.<br />Art. 51. Onverminderd de bepalingen van hoofdstuk XI wordt voor iedere overtreding van de verplichting om aan de heffing te voldoen, een administratieve geldboete opgelegd gelijk aan de ontdoken of niet tijdig betaalde heffingen met dien verstande dat deze boete ten minste 70 euro bedraagt. Voor de berekening van deze administratieve geldboete wordt uitgegaan van de milieuheffing zonder de vermenigvuldigingsfactor 0,70 zoals bedoeld in artikel 48, § 5.<br />Art. 52. De vordering tot voldoening van de heffing, van de intresten en van de administratieve geldboete verjaart door verloop van vijf jaar, te rekenen van de dag waarop zij is ontstaan. De verjaring wordt gestuit op de wijze en onder de voorwaarden bepaald bij artikelen 2244 en volgende van het Burgerlijk Wetboek.<br />Art. 53. § 1. De ambtenaar daartoe aangewezen door de Vlaamse Regering kan met de heffingsplichtige dadingen treffen, voor zover deze niet leiden tot vrijstelling of vermindering van de heffing.<br />§ 2. Hij beslist tevens over de gemotiveerde verzoeken om kwijtschelding of vermindering van de administratieve geldboete die de heffingsplichtige per aangetekend schrijven tot hem richt. Deze verzoeken dienen op straffe van verval ingediend uiterlijk binnen de maand nadat de beroeper in kennis is gesteld van de beslissing van de bevoegde Vlaamse minister over het ingestelde beroep overeenkomstig de bepalingen in artikel 50, § 18.<br />§ 3. Tegen de beslissing van de daartoe aangewezen ambtenaar bedoeld in § 2 kan een vordering worden ingesteld overeenkomstig de bepalingen van de artikelen 1385decies en 1385undecies van het Gerechtelijk Wetboek.<br />§ 4. Hij beslist tevens over de gemotiveerde verzoeken tot uitstel van betaling die de heffingsplichtige per aangetekend schrijven tot hem richt.<br />§ 5. Bij gebrek aan voldoening van de heffing, intresten, administratieve geldboete en toebehoren wordt door de met de invordering belaste ambtenaar een dwangbevel uitgevaardigd. Dit dwangbevel wordt geviseerd en uitvoerbaar verklaard door de ambtenaar daartoe aangewezen door de Vlaamse Regering.<br />§ 6. De betekening van het dwangbevel gebeurt bij gerechtsdeurwaarderexploot of bij aangetekend schrijven.<br />§ 7. Op het dwangbevel zijn de bepalingen toepasselijk van deel V van het Gerechtelijk Wetboek houdende bewarend beslag en middelen van tenuitvoerlegging.<br />§ 8. Tot zekerheid van de voldoening van de heffing, intresten, administratieve geldboete en de kosten heeft het Vlaamse Gewest een algemeen voorrecht op alle roerende goederen van de heffingsplichtige. Het kan een wettelijke hypotheek vestigen op alle goederen die daarvoor vatbaar zijn en in het Vlaamse Gewest gelegen zijn van de persoon op wiens naam de navordering of de ambtelijke aanslag is gevestigd.<br />§ 9. Het voorrecht bedoeld in § 8 neemt rang in onmiddellijk na de voorrechten die vermeld zijn in de artikelen 19 en 20 van de Hypotheekwet.<br />§ 10. De rang van de wettelijke hypotheek wordt bepaald door de dagtekening van de inschrijving die genomen wordt.<br />§ 11. De hypotheek wordt ingeschreven op verzoek van de ambtenaren, bedoeld in artikel 50, § 3.<br />§ 12. Artikel 19 van de Faillissementswet is niet van toepassing op de wettelijke hypotheek inzake de verschuldigde heffing waarvoor de inschrijving is genomen voor en waarvan betekening aan de heffingsschuldige is gedaan voor het vonnis van faillietverklaring.<br />Art. 53bis. De gemeenten zijn ertoe gerechtigd een beroep te doen op de nodige medewerking van de OVAM met het oog op de inning van de opcentiemen, voor zover deze maximaal 20 opcentiemen bedragen, door de betrokken gemeente te heffen op de door de OVAM geïnde milieuheffingen bedoeld in artikel 48, voor de heffingsplichtige inrichtingen gelegen op hun grondgebied.<br />De Vlaamse Regering bepaalt de nadere regels met betrekking tot de inningskosten en wijze van innen van de opcentiemen. ».<br /><br /><br />
 
 ## HOOFDSTUK XII Herstelfonds
 
@@ -166,29 +379,105 @@ Aan het tweede lid van artikel 159bis van het decreet van 18 mei 1999 houdende d
 
 ## HOOFDSTUK XIII Activering van het risicokapitaal in Vlaanderen
 
+### ART. 48.
+
+In artikel 2 van het decreet van 19 december 2003 betreffende het activeren van risicokapitaal in Vlaanderen wordt punt 7° vervangen door wat volgt :<br />« 7° doelonderneming : een kleine, middelgrote of micro-onderneming als gedefinieerd in aanbeveling 2003/361/EG van de Europese Commissie van 6 mei 2003 betreffende de definitie van kleine, middelgrote en micro-ondernemingen, met inbegrip van alle latere wijzigingen daarvan, die de vorm van een vennootschap met rechtspersoonlijkheid aanneemt en die beschikt over een exploitatiezetel in het Vlaamse Gewest, of die zich ertoe verbindt in het Vlaamse Gewest een exploitatiezetel te vestigen; ».<br /><br />
+
+### ART. 49.
+
+In hetzelfde decreet worden de artikelen 16 tot en met 20 opgeheven.
+
 ## HOOFDSTUK XIV Fonds ter valorisatie van de GIMV-participatie
+
+### ART. 50.
+
+In artikel 38 van het decreet van 24 juni 2005 houdende bepalingen tot begeleiding van de aanpassing van de begroting 2005 wordt § 2 vervangen door wat volgt :<br />« § 2. Het Fonds wordt gespijsd met de opbrengsten die voortvloeien uit de verkoop van de GIMV-participatie die door de naamloze vennootschap Vlaamse Participatiemaatschappij aan het Vlaamse Gewest uitgekeerd worden. ».<br /><br />
 
 ## HOOFDSTUK XV Vlaams Agentschap Ondernemen
 
+### ART. 51.
+
+In het decreet van 7 mei 2004 tot oprichting van het intern verzelfstandigd agentschap met rechtspersoonlijkheid « Vlaams Agentschap Ondernemen », in artikel 6, § 1, derde lid, 2°, worden voor de woorden « het labelen en/of certificeren van actoren » de woorden « onverminderd het bepaalde in artikel 6bis, » ingevoegd.
+
+### ART. 52.
+
+Aan hetzelfde decreet wordt een hoofdstuk IIIbis toegevoegd, dat luidt als volgt :<br />« HOOFDSTUK IIIbis. - Erkenning en subsidiëring van de erkende inrichters van VLAO-aanspreekpunten en van de erkende VLAO-aanspreekpunten<br />Art. 6bis. § 1. De Vlaamse Regering wordt ermee belast om, met het oog op de inrichting van een fijnmazig netwerk van VLAO-aanspreekpunten dat het gehele grondgebied van het Vlaamse Gewest bestrijkt, bij besluit van de Vlaamse Regering, het departement Economie, Wetenschap en Innovatie, bedoeld in artikel 21, § 1, van het besluit van de Vlaamse Regering van 3 juni 2005 met betrekking tot de organisatie van de Vlaamse administratie, te belasten met de volgende opdrachten :<br />- het verlenen van de erkenningen als inrichter van VLAO-aanspreekpunten;<br />- het verlenen van de erkenningen als VLAO-aanspreekpunten.<br />De erkenning als inrichter van VLAO-aanspreekpunten wordt verleend aan de private organisaties, verenigingen of vennootschappen met een aangetoonde aanwezigheid op het middenveld die actief zijn op het vlak van de dienst- of adviesverlening aan ondernemingen, zelfstandigen of startende ondernemingen, of aan zelfstandigen, en waarvan door het departement EWI, na het doorlopen van de procedure bedoeld in § 3, wordt vastgesteld dat zij aan de erkenningsvoorwaarden bedoeld in § 2, eerste lid, voldoen.<br />De erkenning als erkend VLAO-aanspreekpunt kan worden verleend aan één of meerdere plaatselijke vestigingen van een erkende inrichter van VLAO-aanspreekpunten waarvan het departement EWI heeft vastgesteld dat zij aan de erkenningsvoorwaarden bedoeld in § 2, tweede lid, voldoet. De Vlaamse Regering kan een minimum en maximum vooropstellen van dergelijke vestigingen waaraan, per Vlaamse provincie, een dergelijke erkenning zal kunnen verleend worden.<br />De Vlaamse Regering bepaalt de bevoegdheden waarover het departement EWI zal beschikken om de in het eerste lid bedoelde opdrachten uit te oefenen.<br />§ 2. De Vlaamse Regering stelt de voorwaarden vast waaraan moet zijn voldaan om de erkenning als erkende inrichter van VLAO-aanspreekpunten te kunnen bekomen. Deze voorwaarden dienen te verzekeren dat de erkenning als erkende inrichter van VLAO-aanspreekpunten enkel zal worden verleend aan entiteiten die getuigen van een voldoende mate van organisatie, kwaliteit, deskundigheid en ervaring, van een voldoende mate van aanwezigheid in Vlaanderen en van een bereidheid tot het verlenen van een vlotte medewerking aan de inrichting van de VLAO-aanspreekpunten om de doelstelling vermeld in het derde lid te bereiken.<br />In dezelfde zin stelt de Vlaamse Regering de voorwaarden vast waaraan moet zijn voldaan om de erkenning als VLAO-aanspreekpunt te kunnen bekomen. Deze voorwaarden dienen te verzekeren dat de erkende VLAO-aanspreekpunten voldoende bemand zijn met deskundig personeel, dat zij beschikken over een voldoende mate van infrastructuur en dat zij vlot toegankelijk zijn voor het brede publiek.<br />De door de Vlaamse Regering vastgestelde voorwaarden als bedoeld in de beide vorige leden dienen te verzekeren dat een fijnmazig netwerk van VLAO-aanspreekpunten over het gehele grondgebied van het Vlaamse Gewest tot stand wordt gebracht.<br />§ 3. De Vlaamse Regering bepaalt de krachtlijnen van de procedure die het departement EWI toepast met het oog op de verlening van de in § 1, eerste lid, bedoelde erkenningen.<br />De Vlaamse Regering regelt de beroepsmogelijkheid tegen beslissingen van het departement EWI bij de bevoegde minister.<br />§ 4. Binnen de perken van de beschikbare begrotingskredieten, regelt de Vlaamse Regering de wijze waarop het departement EWI subsidies aan de erkende inrichters van VLAO-aanspreekpunten kan verlenen.<br />§ 5. De Vlaamse Regering bepaalt op welke wijze er met betrekking tot een erkende inrichter van VLAO-aanspreekpunten en een erkend VLAO-aanspreekpunt wordt gerapporteerd en aan welke vormen van evaluatie en inspectie de erkende VLAO-aanspreekpunten en de erkende inrichters van VLAO-aanspreekpunten worden onderworpen.<br />§ 6. De Vlaamse Regering bepaalt welke sancties het departement EWI kan treffen in geval een erkend VLAO-aanspreekpunt of een erkende inrichter van VLAO-aanspreekpunten een inbreuk op een reglementaire bepaling begaat.<br />§ 7. De Vlaamse Regering kan de verdere maatregelen nemen die nodig zijn ter verzekering van de vlotte inrichting en werking van de erkende inrichters van VLAO-aanspreekpunten en van de erkende VLAO-aanspreekpunten. ».<br /><br />
+
 ## HOOFDSTUK XVI Fonds ter Bevordering van de Sociale Economie in Vlaanderen
+
+### ART. 53.
+
+§ 1. Onder het beheer van de Vlaamse minister bevoegd voor de Sociale Economie wordt een Fonds ter Bevordering van de Sociale Economie in Vlaanderen opgericht, hierna te noemen « het Fonds ».<br /><br />§ 2. Het Fonds is een begrotingsfonds type B in de zin van artikel 45 van de gecoördineerde wetten op de rijkscomptabiliteit.<br /><br />§ 3. Aan het Fonds worden toegewezen alle ontvang-sten voortvloeiende uit dividenden uitgekeerd door de naamloze vennootschap T-Groep aan de Vlaamse overheid als aandeelhouder.<br /><br />§ 4. De Vlaamse Regering beschikt voor de financiering van vernieuwende projecten die de sociale economie in Vlaanderen bevorderen over de kredieten van het Fonds.<br /><br />
+
+### ART. 54.
+
+In het decreet van 28 juni 2002 betreffende de oprichting van de vennootschappen T-Groep en Werkholding, gewijzigd bij het decreet van 19 maart 2004, wordt hoofdstuk III, bestaande uit artikelen 7 tot en met 10bis, opgeheven.
 
 ## HOOFDSTUK XVII VRT
 
+### ART. 55.
+
+In artikel 16, 1°, van de decreten betreffende de radio-omroep en de televisie, gecoördineerd op 4 maart 2005, worden de woorden « het radio- en televisieaanbod » vervangen door « het omroepaanbod » en wordt het woord « artikel 8 » vervangen door « artikel 6, § 2 ».<br />
+
+### ART. 56.
+
+In artikel 16, 2°, van de decreten betreffende de radio-omroep en de televisie, gecoördineerd op 4 maart 2005, worden de woorden « de innovatieve mediaprojecten, hierna de e-vrt projecten te noemen » vervangen door de woorden « de onderzoeks- en innovatieopdracht van de VRT », en worden de woorden « artikel 8, inzonderheid in artikel 8, § 5 » vervangen door de woorden « artikel 6, inzonderheid artikel 6, § 2, vijfde lid ».<br /><br />
+
+### ART. 57.
+
+De eerste drie zinnen van artikel 16, 4°, van de decreten betreffende de radio-omroep en de televisie, gecoördineerd op 4 maart 2005 worden vervangen door wat volgt :<br />« 4° de berekening van de enveloppe aan financiële middelen die noodzakelijk is voor het verzorgen van het openbare omroepaanbod, bedoeld in 1°, en de uitbetalingsmodaliteiten ervan. ».<br /><br />
+
+### ART. 58.
+
+Artikel 16, 5°, van de decreten betreffende de radio-omroep en de televisie, gecoördineerd op 4 maart 2005 wordt vervangen door wat volgt :<br />« 5° de berekening van de financiering van de toegevoegde opdracht voor onderzoek en innovatie. ».<br /><br />
+
 ## HOOFDSTUK XVIII Winwinlening
+
+### ART. 59.
+
+In artikel 3, § 2, 1°, van het decreet betreffende de Winwinlening van 19 mei 2006 wordt het woord « kalenderjaren » vervangen door « jaren ».
 
 ## HOOFDSTUK XIX Vlaamse Wooncode
 
 ## Afdeling I Conformiteitsattest
 
+### ART. 60.
+
+Aan artikel 8 van het decreet van 15 juli 1997 houdende de Vlaamse Wooncode wordt een § 3 toegevoegd, die luidt als volgt :<br />« § 3. In afwijking van §§ 1 en 2, kan de gewestelijk ambtenaar in het kader van de toekenning van de tegemoetkoming in de huurprijs, vermeld in artikel 82, een conformiteitsattest aan de verhuurder uitreiken. ».<br /><br />
+
+### ART. 61.
+
+In artikel 14, § 1, eerste lid, van hetzelfde decreet wordt de zin « De woningen die een door de Vlaamse Regering vast te stellen ouderdom nog niet hebben bereikt zijn niet onderworpen aan de toepassing van bepalingen van dit hoofdstuk. » vervangen door de zin « Met uitzondering van het geval, vermeld in artikel 8, § 3, zijn de woningen die een door de Vlaamse Regering vast te stellen ouderdom nog niet hebben bereikt, niet onderworpen aan de bepalingen van dit hoofdstuk. ».<br /><br />
+
 ## Afdeling II Financiering investeringsprogramma sociale woningbouw
+
+### ART. 62.
+
+In afwachting van de vaststelling, door de Vlaamse Regering, van het eerste investeringsprogramma voor woonprojecten, vermeld in artikel 22, § 2, van het decreet van 15 juli 1997 houdende de Vlaamse Wooncode, en van de procedure, vermeld in artikel 33, § 3, tweede lid, van hetzelfde decreet, stelt de Vlaamse Maatschappij voor Sociaal Wonen een uitvoeringsprogramma 2007 op dat met het advies van het departement Ruimtelijke Ordening, Woonbeleid en Onroerend Erfgoed voor goedkeuring aan de Vlaamse Regering wordt voorgelegd.<br /><br />De bepalingen van artikel 22, § 2, vierde en vijfde lid, artikel 33, § 1, eerste lid, en § 3, eerste lid, artikel 34, § 1, en artikel 38 van voormeld decreet zijn van toepassing op het uitvoeringsprogramma 2007.<br /><br />Het subsidiepercentage wordt tweemaal door de Vlaamse Regering vastgesteld in functie van de evolutie van de marktrentevoet, die wordt gemeten op basis van het voortschrijdende gemiddelde van de rentevoet OLO met een resterende looptijd van tien jaar voor de periode van zes maanden die respectievelijk voorafgaat aan 1 juli 2006 en 1 maart 2007.<br /><br />
 
 ## Afdeling III Huurdienst
 
+### ART. 63.
+
+Een huurdienst, erkend overeenkomstig artikel 56 van het decreet van 15 juli 1997 houdende de Vlaamse Wooncode, gewijzigd bij de decreten van 19 maart 2004 en 24 maart 2006, die een geregulariseerde DAC-werknemer in dienst heeft, heeft jaarlijks recht op een subsidie die gelijk is aan de bezoldiging van deze werknemer.<br /><br />De Vlaamse Regering bepaalt de specifieke personeelskosten die voor subsidiëring in aanmerking komen, de betalingsmodaliteiten van de subsidiëring alsmede de vervangingsmogelijkheden en -voorwaarden.<br /><br />Als de arbeidsovereenkomst van een geregulariseerde DAC-werknemer wordt beëindigd, blijft de subsidie behouden voor de sector van de huurdiensten. De subsidie zal worden aangewend voor de noden binnen de sector. De Vlaamse Regering bepaalt de criteria op basis waarvan de subsidie zal worden toegewezen en de verdere uitvoeringsmaatregelen.<br /><br />
+
+### ART. 64.
+
+In afwachting van de uitvoeringsmaatregelen blijft het besluit van de Vlaamse Regering van 16 december 2005 houdende de toekenning van een niet-gereglementeerde subsidie aan bepaalde initiatieven binnen het woonbeleid die personeelsleden tewerkstellen in een gewezen DAC-statuut van kracht.<br /><br />
+
 ## Afdeling IV Erkende kredietmaatschappijen
+
+### ART. 65.
+
+Aan artikel 78 van het decreet van 15 juli 1997 houdende de Vlaamse Wooncode, waarvan de bestaande tekst § 1 zal vormen, wordt een § 2 toegevoegd, die luidt als volgt :<br />« § 2. Het Vlaamse Gewest waarborgt, binnen het plafond vermeld in de begrotingsdecreten, en onder de voorwaarden die de Vlaamse Regering stelt, de terugbetaling van de hoofdsom en de betaling van de interest en de extra kosten van de kredieten aangegaan door de in § 1, eerste lid, 1°, vermelde kredietmaatschappijen. De onder deze voorwaarden opgenomen kredieten zijn voor 100 % gewaarborgd. ».<br /><br />
 
 ## HOOFDSTUK XX Wetenschap en Innovatie
 
 ## Afdeling I Steunpunten voor beleidsrelevant onderzoek
+
+### ART. 66.
+
+In het decreet van 22 februari 1995 betreffende de wetenschappelijke of maatschappelijke dienstverlening door de universiteiten of de hogescholen en betreffende de relaties van de universiteiten en de hogescholen met andere rechtspersonen, zoals gewijzigd bij decreten van 14 juli 1998, 18 mei 1999 en 19 maart 2004, wordt een hoofdstuk Ibis, bestaande uit artikel 8bis, ingevoegd, dat luidt als volgt :<br />« HOOFDSTUK Ibis. - Steunpunten voor beleidsrelevant onderzoek<br />Art. 8bis. § 1. Een steunpunt voor beleidsrelevant onderzoek is een entiteit in de schoot van één of meer initiërende universiteiten of hogescholen in de Vlaamse Gemeenschap.<br />De opdracht van een steunpunt betreft het verzamelen, analyseren en ontsluiten van beleidsrelevante gegevens, het uitvoeren van beleidsrelevant wetenschappelijk onderzoek en het verlenen van wetenschappelijke dienstverlening.<br />§ 2. De Vlaamse Regering bepaalt vijfjaarlijks een lijst van thema's die kaderen binnen de bevoegdheden van de Vlaamse Gemeenschap of het Vlaamse Gewest en waarbinnen de beleidsvoering een op wetenschappelijke inzichten gebaseerde ondersteuning vereist.<br />De Vlaamse Regering erkent per thema één steunpunt voor een termijn van vijf jaar.<br />§ 3. Het afsluiten van een beheersovereenkomst met de Vlaamse Regering doet in hoofde van de initiërende instelling of instellingen een recht ontstaan op overheidsfinanciering ten behoeve van de werking van het betrokken steunpunt.<br />De overheidsfinanciering bestaat uit een jaarlijkse vaste werkingsenveloppe en eventuele cofinanciering.<br />De optelsom van de vaste werkingsenveloppes voor de steunpunten bedraagt voor het begrotingsjaar 2007 8.500.000 euro. In het begrotingsjaar 2008 wordt dit bedrag aangepast aan de jaarlijkse stijging van de gezondheidsindex, met als referentiedatum 1 januari 2007.<br />§ 4. De Vlaamse Regering bepaalt de nadere regelen op het vlak van :<br />1° de samenwerkingsmogelijkheden tussen de initiërende instelling of instellingen en andere actoren;<br />2° de bepaling en de vereffening van de vaste werkingsenveloppes;<br />3° de procedure tot aanvraag van een erkenning en van een vaste werkingsenveloppe;<br />4° de invulling van de beheersovereenkomsten tussen de Vlaamse Regering en het bestuur of de besturen van de initiërende instelling of instellingen;<br />5° de wijze waarop de werking van de steunpunten op metaniveau wordt geëvalueerd. ».<br /><br />
 
 ## Afdeling II Industriële onderzoeksfondsen
 
@@ -234,6 +523,14 @@ Aan artikel 14 van hetzelfde decreet wordt een tweede lid toegevoegd, dat luidt 
 
 ## Afdeling VII Herculesstichting
 
+### ART. 75.
+
+In het decreet van 19 maart 2004 betreffende de rechtspositieregeling van de student, de participatie in het hoger onderwijs, de integratie van bepaalde afdelingen van het hoger onderwijs voor sociale promotie in de hogescholen en de begeleiding van de herstructurering van het hoger onderwijs in Vlaanderen, deel VI, wordt een titel IVter ingevoegd, bestaande uit artikelen VI.9.8. tot en met VI.9.16., die luidt als volgt :<br />« TITEL IVter. - Herculesfinanciering<br />Art. VI.9.8. Voor de toepassing van deze titel wordt verstaan onder :<br />1° FWO-Vlaanderen : de stichting van openbaar nut FONDS VOOR WETENSCHAPPELIJK ONDERZOEK-VLAANDEREN, opgericht bij notariële akte van 21 juni 2005, bij uittreksel gepubliceerd in het Belgisch Staatsblad van 5 april 2006;<br />2° IWT : het Instituut voor de aanmoediging van innovatie door wetenschap en technologie in Vlaanderen, of zijn rechtsopvolger;<br />3° middelzware onderzoeksinfrastructuur : onderzoeksinfrastructuur met een totale financieringskost van ten minste 150.000 euro en ten hoogste 1.500.000 euro;<br />4° onderzoeksinfrastructuur : faciliteiten en bronnen die het verrichten van grensverleggend en strategisch basisonderzoek bevorderen, daaronder onder meer begrepen wetenschappelijke infrastructuur, collecties, natuurlijke habitats, corpora en databanken, met inbegrip van de digitale ontsluiting ervan;<br />5° zware onderzoeksinfrastructuur : onderzoeksinfrastructuur met een totale financieringskost van meer dan 1.500.000 euro.<br />Art. VI.9.9. § 1. De Vlaamse Regering is ermee belast overeenkomstig de Wet van 27 juni 1921 op Verenigingen en Stichtingen een stichting op te richten, Herculesstichting genaamd, waarvan het maatschappelijk doel bestaat in de subsidiëring van middelzware en zware onderzoeksinfrastructuur.<br />De Vlaamse Regering ziet erop toe dat voor de Herculesstichting de erkenning als stichting van openbaar nut wordt aangevraagd.<br />De Herculesstichting is een privaatrechtelijk vormgegeven extern agentschap, als vermeld in artikel 29 van het kaderdecreet Bestuurlijk Beleid van 18 juli 2003. De Vlaamse Regering bepaalt tot welk homogeen beleidsdomein de Herculesstichting behoort.<br />§ 2. De Vlaamse Regering stelt de raad van bestuur van de Herculesstichting als volgt samen :<br />1° de voorzitter van de raad van bestuur is een expert op het vlak van het wetenschaps- en innovatiebeleid;<br />2° de overige leden van de raad van bestuur worden voorgedragen door, enerzijds, het FWO-Vlaanderen en, anderzijds, het IWT. Een representatief aantal van de leden die door het IWT worden voorgedragen, dienen deskundigen uit te industrie te zijn.<br />De Vlaamse Regering kan nader regelen bepalen op het vlak van de voordrachtenregeling, als vermeld in het eerste lid, 2°.<br />§ 3. De Herculesstichting treedt bij de uitoefening van de in deze titel bedoelde taken en opdrachten op als functionele openbare dienst.<br />Art. VI.9.10. § 1. De Vlaamse Regering bepaalt jaarlijks, binnen de beschikbare begrotingskredieten, het bedrag dat aan het vermogen van de Herculesstichting wordt toegevoegd.<br />§ 2. Het jaarlijks te bepalen bedrag is voor twee derden bestemd voor de subsidiëring van middelzware onderzoeksinfrastructuur en voor één derde voor de financiering van zware onderzoeksinfrastructuur.<br />De Vlaamse Regering kan jaarlijks beslissen om van de in het eerste lid vermelde verhouding af te wijken op grond van objectief vastgestelde noodwendigheden.<br />§ 3. De Herculesstichting handelt ten aanzien van het tijdens een bepaald begrotingsjaar niet aangewende bedrag als volgt :<br />1° ofwel wordt het betrokken bedrag geheel of gedeeltelijk toegewezen aan door de Vlaamse Regering aan te wijzen investeringsinitiatieven;<br />2° ofwel wordt het bedrag geheel of gedeeltelijk overgedragen naar het volgende begrotingsjaar, met behoud van de bestemming.<br />Art. VI.9.11. § 1. Het jaarlijks voor middelzware onderzoeksinfrastructuur beschikbare bedrag wordt verdeeld onder de associaties door middel van een Herculesverdeelsleutel, die door de Vlaamse Regering per begrotingsjaar wordt vastgesteld, en afgeleid wordt van de verdeelsleutels die worden gehanteerd voor de verdeling van de overheidsmiddelen onder de Bijzondere Onderzoeksfondsen en de Industriële Onderzoeksfondsen.<br />§ 2. De Herculesstichting wijst de betrokken middelen per associatie toe aan investeringsinitiatieven na het inwinnen van een advies van het associatiebestuur en van een beoordelingspanel, bestaande uit deskundigen uit de associaties en vertegenwoordigers uit de industriële sector. De selectiecriteria hebben ten minste betrekking op :<br />1° de wetenschappelijke kwaliteit en relevantie van het door middel van de onderzoeksinfrastructuur uit te voeren onderzoeksprogramma;<br />2° het belang van de onderzoeksinfrastructuur voor het onderzoek binnen de betrokken wetenschappelijke discipline;<br />3° de betrouwbaarheid van het voor de voorgenomen investering opgemaakte investeringsplan.<br />Art. VI.9.12. Het jaarlijks voor zware onderzoeksinfrastructuur beschikbare bedrag wordt door de Herculesstichting rechtstreeks toegewezen aan investeringsinitiatieven op grond van het advies van twee door de Vlaamse Regering aangewezen beoordelingspanels, waarbij het ene panel de wetenschappelijke kwaliteit van de aanvragen nagaat, en het andere panel ten aanzien van de excellent bevonden aanvragen nagaat of de opgemaakte investeringsplannen voldoende realistisch en objectief zijn.<br />Art. VI.9.13. De subsidiëring in de zin van deze titel wordt uitsluitend aangewend voor :<br />1° kosten voor wetenschappelijke investeringen, zijnde de kosten voor de aanschaf van de onderzoeksinfrastructuur zelf of de aanschaf van de onderdelen voor de constructie van de beoogde onderzoeksinfrastructuur;<br />2° personeelskosten voor de ontwikkeling en de constructie van de onderzoeksinfrastructuur;<br />3° onderhoudskosten gedurende de hele afschrijvingsperiode, zijnde de kosten voortvloeiende uit onderhoudsovereenkomsten of upgrades van de onderzoeksinfrastructuur.<br />Art. VI.9.14. Geselecteerde investeringsinitiatieven ontvangen een subsidiëring ten bedrage van een bepaald percentage van de in artikel VI.9.13. bedoelde kosten, voor zover deze behoorlijk gestaafd en goedgekeurd worden door de raad van bestuur of het dagelijks bestuur van de Herculesstichting.<br />Art/ VI.9.15. § 1. De Vlaamse Regering stelt bij de Herculesstichting een regeringsafgevaardigde aan.<br />De regeringsafgevaardigde houdt van overheidswege toezicht op de overeenstemming van de verrichtingen en de werking van de Herculesstichting met het recht, de statuten, de samenwerkingsovereenkomst en de beginselen inzake financiële orthodoxie.<br />§ 2. De regeringsafgevaardigde heeft met raadgevende stem zitting in de raad van bestuur en de door de raad van bestuur ingestelde comités.<br />Ten minste vijf werkdagen voor de datum van de vergaderingen ontvangt hij de volledige dagorde van de vergaderingen van de raad van bestuur en van de door de raad van bestuur ingestelde comités, evenals alle documenten terzake. In gemotiveerde gevallen van hoogdringendheid kan van deze bepaling worden afgeweken.<br />Hij kan te allen tijde ter plaatse alle documenten en geschriften van de Herculesstichting inzien.<br />Hij kan van de bestuurders en de eventuele leden van het management alle inlichtingen en ophelderingen vorderen, en alle verificaties verrichten die hij nodig acht voor de uitvoering van zijn mandaat.<br />De Vlaamse Regering kan de regeringsafgevaardigde laten bijstaan door deskundigen voor bepaalde tijdelijke controles.<br />§ 3. De regeringsafgevaardigde stelt de Vlaamse Regering in kennis van elke beslissing van de raad van bestuur of het management die hij strijdig acht met de toezichtsgronden, als bedoeld in § 1, tweede lid.<br />Wanneer de Vlaamse Regering op grond van deze inlichtingen meent dat de Herculesstichting de aan haar opgedragen taken kennelijk verwaarloost, kan de Vlaamse Regering de aangelegenheid bepalen waarover de raad van bestuur van de Herculesstichting moet beraadslagen en de termijn bepalen waarbinnen die beraadslaging moet plaatsvinden.<br />Wordt binnen de gestelde termijn geen beslissing genomen, of stemt de Vlaamse Regering niet in met de genomen beslissing, dan kan zij de nodige voorzieningen treffen. Zij stelt het Vlaams Parlement daarvan onverwijld in kennis.<br />De nodige voorzieningen als bedoeld in het derde lid kunnen inhouden dat :<br />1° de Vlaamse Regering zich in de plaats stelt van de Herculesstichting, waarbij zij de regeringsafgevaardigde of een andere persoon met een bijzondere macht kan bekleden;<br />2° de Vlaamse Regering de beslissingen van de Herculesstichting gedurende een door haar bepaalde en verlengbare termijn afhankelijk maakt van het voorafgaand advies of de voorafgaande instemming van de Vlaamse Regering, de regeringsafgevaardigde, of enige andere instantie.<br />De Vlaamse Regering kan nadere procedurele regelen bepalen voor de toepassing van deze paragraaf.<br />§ 4. Het Vlaamse Gewest draagt de kosten verbonden aan de uitoefening van het ambt van de regeringsafgevaardigde.<br />De Vlaamse Regering bepaalt de rechtspositionele voorwaarden waaronder de regeringsafgevaardigde wordt aangesteld.<br />Art. VI.9.16. De Vlaamse Regering bepaalt nadere regelen op het vlak van :<br />1° de selectiemechanismen en -procedures ten aanzien van investeringsinitiatieven voor middelzware en zware onderzoeksinfrastructuur;<br />2° de subsidiepercentages en de betalingsmodaliteiten;<br />3° de voorwaarden en beperkingen op het vlak van :<br />a) het copromotorschap door derden ten aanzien van gesubsidieerde investeringsinitiatieven;<br />b) het beheer van de gesubsidieerde onderzoeksinfrastructuur;<br />c) de terbeschikkingstelling van gesubsidieerde onderzoeksinfrastructuur aan derden.<br />De Vlaamse Regering is ertoe gemachtigd de subsidiabele kosten nader te omschrijven en de middelzware en de zware onderzoeksinfrastructuur verder op te delen in verschillende categorieën, naargelang van het bedrag van de totale financieringskost. ».<br /><br />
+
+### ART. 76.
+
+Aan artikel VI.10 van het decreet van 19 maart 2004 betreffende de rechtspositieregeling van de student, de participatie in het hoger onderwijs, de integratie van bepaalde afdelingen van het hoger onderwijs voor sociale promotie in de hogescholen en de begeleiding van de herstructurering van het hoger onderwijs in Vlaanderen wordt een vierde lid toegevoegd, dat luidt als volgt :<br />« De artikelen VI.9.8 tot en met VI.9.16 treden in werking op 1 januari 2007 en houden op uitwerking te hebben op 31 december 2008. ».<br /><br />
+
 ## HOOFDSTUK XXI Schenking meubilair aan onderwijsnetten
 
 ### ART. 77.
@@ -242,21 +539,53 @@ Bij het verlaten van het Markiesgebouw en het North-Plazagebouw wordt niet-herbr
 
 ## HOOFDSTUK XXII DAB Overheidspersoneel
 
+### ART. 78.
+
+§ 1. Er wordt een Dienst met Afzonderlijk Beheer voor Overheidspersoneel opgericht, zoals bedoeld in artikel 140 van de gecoördineerde wetten op de rijkscomptabiliteit.<br /><br />§ 2. De DAB voor Overheidspersoneel wordt belast met de organisatie en ontwikkeling van allerlei P&O-activiteiten voor de beleidsdomeinen van de Vlaamse overheid.<br /><br />§ 3. De dienst beschikt voor de uitvoering van haar activiteiten over haar eigen inkomsten uit vorming en kinderopvang alsook over een jaarlijkse dotatie voorzien in het decreet houdende de algemene uitgavenbegroting van de Vlaamse Gemeenschap.<br /><br />
+
 ## HOOFDSTUK XXIII [DAB (verv. decr. 18 december 2015, art. 11, I: 1 januari 2016)][Documentbeheer (verv. decr. 2 april 2021, art. 11, I: 10 mei 2021)]
+
+### ART. 79.
+
+§ 1. Er wordt een Dienst met Afzonderlijk Beheer ICT (DAB ICT) opgericht, zoals bedoeld in artikel 140 van de gecoördineerde wetten op de rijkscomptabiliteit.<br /><br />§ 2. De DAB ICT wordt als interne ICT-dienstverlener belast met de inrichting, de innovatie en de exploitatie van de gemeenschappelijk bruikbare ICT-omgevingen van de Vlaamse overheid, met het uitwerken van een vraaggericht en vraaggestuurd aanbod, en met het uitvoeren van de daarop betrekking hebbende programma's en projecten.<br /><br />§ 3. De begroting van de DAB ICT wordt gestijfd door :<br />1° dotaties ten laste van de algemene uitgavenbegroting van de Vlaamse Gemeenschap;<br />2° alle ontvangsten voortvloeiend uit het beheer en de exploitatie door de DAB ICT.<br /><br />Het decreet houdende de begroting van de Vlaamse Overheid bepaalt elk jaar het bedrag van de dotaties die toegekend worden aan de DAB ICT.
 
 ## HOOFDSTUK XXIV [... (opgeh. decr. 18 december 2015, art. 7, I: 1 januari 2016)]
 
+### ART. 80.
+
+Er wordt een fonds opgericht voor de IVA Studiedienst van de Vlaamse Regering. Dit fonds is een begrotingsfonds als bedoeld in artikel 45 van de gecoördineerde wetten op de rijkscomptabiliteit.<br /><br />Het fonds wordt gestijfd met ontvangsten uit contracten voor wetenschappelijke ondersteuning van onderzoeksprojecten, de inkomsten van studiedagen en opleidingen die door de Studiedienst worden georganiseerd, de verkoop van publicaties van de Studiedienst.<br /><br />Het fonds is gemachtigd uitgaven te doen die verband houden met het uitvoeren van wetenschappelijke onderzoeksopdrachten, de organisatie van studiedagen en opleidingen, het drukken en verspreiden van publicaties. De uitgaven kunnen betrekking hebben op allerlei werkingskosten, het tijdelijke in dienst nemen van personeel in het kader van de projecten waarvoor inkomsten worden verworven, het realiseren van investeringen nodig voor het uitvoeren van de opdrachten.<br /><br />De rekenplichtige die de ontvangsten gedaan heeft, beschikt rechtstreeks over de kredieten van het fonds.
+
 ## HOOFDSTUK XXV Vlaams Provinciefonds
 
+### ART. 81.
+
+Artikel 3 van het decreet van 29 april 1991 betreffende het Vlaams Provinciefonds wordt vervangen door wat volgt :<br />« Art. 3. § 1. Elk jaar wordt de dotatie van het Vlaams Provinciefonds vastgesteld op een bedrag dat minstens gelijk is aan de dotatie van het vorige jaar, aangepast met een in § 2 bedoeld evolutiepercentage.<br />§ 2. Vanaf het begrotingsjaar 2007 bedraagt het evolutiepercentage 3,5 %.<br />§ 3. De berekende dotatie wordt afgerond op het hogere duizendtal. ».<br /><br />
+
 ## HOOFDSTUK XXVI Stadsvernieuwingsprojecten
+
+### ART. 82.
+
+Artikel 2 van het decreet van 22 maart 2002 houdende de ondersteuning van stadsvernieuwingsprojecten, gewijzigd bij de decreten van 19 december 2003 en 24 december 2004 wordt vervangen door wat volgt :<br />« Art. 2. Lastens de algemene uitgavenbegroting van de Vlaamse Gemeenschap en het Financieringsfonds voor Schuldafbouw en Eenmalige Investeringsuitgaven kunnen uitgaven voor stadsvernieuwing worden aangerekend. ».
 
 ## HOOFDSTUK XXVII Eigen Vermogens
 
 ## Afdeling I Instituut voor Natuur- en Bosonderzoek
 
+### ART. 83.
+
+In artikel 32, § 1, van het decreet van 23 december 2005 houdende de bepalingen voor de begeleiding van de begroting 2006 worden het eerste lid en het tweede lid vervangen door wat volgt :<br />« Ieder jaar stelt de beheerscommissie de begroting vast van de uitgaven voor het volgende begrotingsjaar, alsmede de middelen van het EV INBO om die uitgaven te dekken. Voor het indienen van de begroting volgt de beheerscommissie de nadere regelen zoals vastgesteld in de begrotingsinstructies tot de opmaak van de algemene uitgaven- en middelenbegroting.<br />Ieder jaar, voor 15 maart, stelt de beheerscommissie de rekening van het EV INBO van het vorige begrotingsjaar op. ».<br /><br />
+
 ## Afdeling II Instituut voor Landbouw- en Visserijonderzoek
 
+### ART. 84.
+
+In artikel 41, § 1, van het decreet van 23 december 2005 houdende de bepalingen voor de begeleiding van de begroting 2006 worden het eerste lid en het tweede lid vervangen door wat volgt :<br />« Ieder jaar stelt de beheerscommissie de begroting vast van de uitgaven voor het volgende begrotingsjaar, alsmede de middelen van het EV ILVO om die uitgaven te dekken. Voor het indienen van de begroting volgt de beheerscommissie de nadere regelen zoals vastgesteld in de begrotingsinstructies tot de opmaak van de algemene uitgaven- en middelenbegroting.<br />Ieder jaar, voor 15 maart, stelt de beheerscommissie de rekening van het EV ILVO van het vorige begrotingsjaar op. ».<br /><br />
+
 ## Afdeling III Ondersteunend Centrum van het Agentschap voor Natuur en Bos
+
+### ART. 85.
+
+In artikel 38 van het decreet van 19 mei 2006 houdende diverse bepalingen inzake leefmilieu en energie worden het eerste lid en het tweede lid vervangen door wat volgt :<br />« Ieder jaar stelt de beheerscommissie de begroting vast van de uitgaven voor het volgende begrotingsjaar, alsmede de middelen van het OC-ANB om die uitgaven te dekken. Voor het indienen van de begroting volgt de beheerscommissie de nadere regelen zoals vastgesteld in de begrotingsinstructies tot de opmaak van de algemene uitgaven- en middelenbegroting.<br />Ieder jaar, voor 15 maart, stelt de beheerscommissie de rekening van het OC-ANB van het vorige begrotingsjaar op. ».<br /><br />
 
 ## Afdeling IV Verpachting van de jachtrechten van de ANB-domeinen
 
@@ -276,20 +605,76 @@ Artikelen 14 en 15 van het decreet van 19 mei 2006 betreffende de oprichting en 
 
 ## HOOFDSTUK XXIX Dagcentra voor palliatieve verzorging
 
+### ART. 89.
+
+De dagcentra voor palliatieve verzorging die krachtens artikel 81 van het decreet van 23 december 2005 houdende bepalingen tot begeleiding van de begroting 2006 van rechtswege erkend waren voor de Vlaamse Gemeenschap van 1 januari 2006 tot en met 31 december 2006, kunnen door de Vlaamse Regering voor de periode van 1 januari 2007 tot en met 31 december 2007 verder erkend worden voor de Vlaamse Gemeenschap als dagcentrum voor palliatieve verzorging.<br /><br />Met het oog op deze erkenning moeten de dagcentra voor palliatieve verzorging verder de verplichtingen naleven die hen waren opgelegd door de overeenkomst, vermeld in artikel 81, eerste lid, van het decreet van 23 december 2005 houdende bepalingen tot begeleiding van de begroting 2006. De Vlaamse Regering kan de voorwaarden en normen van de erkenning nader bepalen evenals het toezicht op de naleving ervan. De Vlaamse Regering kan de verleende erkenning intrekken indien de betrokken instelling de erkenningsvoorwaarden en erkenningsnormen niet naleeft.<br /><br />De Vlaamse Regering is gemachtigd om de tijdelijke erkenning, vermeld in het eerste lid, naderhand nog voor één jaar te verlengen, tot en met 31 december 2008 onder de voorwaarden vermeld in het tweede lid.<br /><br />
+
 ## HOOFDSTUK XXX Fonds voor de subsidiëring van zorgvernieuwingsprojecten
+
+### ART. 90.
+
+Artikel 24 van het ontwerp van decreet van 22 december 2004 houdende bepalingen tot begeleiding van de tweede aanpassing van de begroting 2004 wordt vervangen door wat volgt :<br />Een Fonds voor de subsidiëring van Zorgvernieuwingsprojecten' wordt opgericht, hierna Fonds te noemen. Het Fonds is een begrotingsfonds zoals bedoeld in artikel 45 van de gecoördineerde wetten op de rijkscomptabiliteit.<br />Het' Fonds wordt gespijsd met de middelen die in uitvoering van punt 6 van het protocol nr. 2 van 1 januari 2003 en punt 3 (12 RVT-equivalenten palliatieve dagopvang Vlaamse Gemeenschap) van hoofdstuk 2 van het protocol nr. 3 (Belgisch Staatsblad van 28 april 2006) gesloten tussen de Federale Regering en de overheden bedoeld in de artikelen 128, 130, 135 en 138 van de Grondwet, over het te voeren ouderenzorgbeleid door de federale overheid aan de Vlaamse Gemeenschap worden toegekend.<br />Ten laste van dit Fonds worden alle uitgaven van de administratie Gezin en Maatschappelijk Welzijn aangerekend, voorzover deze verband houden met de uitvoering van punt 6 van het protocol nr. 2 van 1 januari 2003 en punt 3 (12 RVT-equivalenten palliatieve dagopvang Vlaamse Gemeenschap) van hoofdstuk 2 van het protocol nr. 3 (Belgisch Staatsblad van 28 april 2006) gesloten tussen de federale regering en de overheden bedoeld in de artikelen 128, 130, 135 en 138 van de Grondwet, over het te voeren ouderenzorgbeleid en meer specifiek de zorgvernieuwings-projecten.<br />De rekenplichtige die de ontvangsten gedaan heeft, beschikt rechtstreeks over de kredieten van het Fonds.<br />Deze bepaling treedt in werking op 1 januari 2006. ».<br /><br />
 
 ## HOOFDSTUK XXXI Vlaams Agentschap voor Personen met een Handicap
 
+### ART. 91.
+
+In het decreet van 7 mei 2004 tot oprichting van het verzelfstandigd agentschap met rechtspersoonlijkheid Vlaams Agentschap voor Personen met een Handicap, artikel 18, 3°, derde lid, worden na de woorden « moeten bewezen worden », de woorden « , behoudens uitzonderingen bepaald door de Vlaamse Regering met betrekking tot sommige kostencategorieën met een beperkte omvang » toegevoegd.<br />In hetzelfde decreet, artikel 18, 3°, vijfde lid, worden de woorden « bewezen en » geschrapt.<br /><br />
+
 ## HOOFDSTUK XXXII Fondsen Personeelsleden met Verlof voor Opdracht
+
+### ART. 92.
+
+Artikel 33 van het decreet van 6 juli 2001 houdende bepalingen tot begeleiding van de aanpassing van de begroting 2001 wordt vervangen door wat volgt :<br />« Art. 33. § 1. Bij elk op 1 januari 2007 bestaand Vlaams ministerie wordt er een fonds, in de zin van artikel 45 van de gecoördineerde wetten op de rijkscomptabiliteit, opgericht voor de aanwending van de terugbetaling van salarissen van personeelsleden binnen het Vlaams ministerie die ten laste genomen worden door andere overheden of vakorganisaties.<br />§ 2. Aan ieder fonds worden toegewezen :<br />- alle terugvorderingen van wedden en ermee samenhangende vergoedingen of kosten met betrekking tot personeelsleden van het betrokken Vlaams ministerie die ten laste genomen worden door andere overheden of vakorganisaties;<br />- een gedeelte van het vastleggings- en ordonnanceringssaldo op 31 december 2006 dat bij besluit van de Vlaamse Regering zal worden vastgesteld.<br />§ 3. De middelen van ieder fonds dienen aangewend te worden voor de betaling van wedden en weddentoelagen van de ter vervanging aangeworven personeelsleden. ».<br /><br />
 
 ## HOOFDSTUK XXXIII Toekomstfonds
 
+### ART. 93.
+
+Bij het beleidsdomein Financiën en Begroting wordt een intern verzelfstandigd agentschap met rechtspersoonlijkheid opgericht als bedoeld in artikel 10bis van het kaderdecreet bestuurlijk beleid van 18 juli 2003. Dit agentschap draagt als naam « het Vlaams Toekomstfonds » en hierna het Fonds te noemen.<br /><br />
+
+### ART. 94.
+
+In afwijking van artikel 10, § 4, en artikel 39 van het kaderdecreet bestuurlijk beleid van 18 juli 2003, wordt het hoofd van het departement van het beleidsdomein Financiën en Begroting met de algemene leiding, de werking en vertegenwoordiging van het Vlaams Toekomstfonds belast.<br /><br />In afwijking van artikel 10, § 4, wordt er tussen het hoofd van het Vlaams Toekomstfonds en de Vlaamse Regering geen beheersovereenkomst afgesloten.<br /><br />De Vlaamse Regering regelt de werking van het Fonds.<br />
+
+### ART. 95.
+
+De middelen van het Fonds zijn :<br />1° een dotatie ten laste van de algemene uitgavenbegroting van de Vlaamse Gemeenschap;<br />2° alle inkomsten voortvloeiend uit activiteiten en beleggingen van het Fonds;<br />3° het gebeurlijke saldo op het einde van het voorgaande begrotingsjaar op het Fonds;<br />4° de terugvorderingen voortvloeiend uit ten onrechte gedane betalingen.<br /><br />
+
+### ART. 96.
+
+Behoudens andersluidende bepalingen, worden de begroting en de rekening opgemaakt en goedgekeurd en de controle door het Rekenhof uitgevoerd overeenkomstig de bepalingen van de wet van 16 maart 1954 betreffende de controle op de instellingen van openbaar nut van categorie A.
+
+### ART. 97
+
+De middelen van het Fonds kunnen aangewend worden om uitgaven te financieren verbonden aan :<br />1° de afbouw van de directe en indirecte schuld van de Vlaamse Gemeenschap of het Vlaamse Gewest;<br />2° de door de Vlaamse Regering, op voorstel van de Vlaamse minister, bevoegd voor de begroting, vast te stellen bestemmingen;<br />3° de werkingskosten eigen aan het Fonds.
+
 ## HOOFDSTUK XXXIV Inwerkingtreding van Comptabiliteitsdecreet
+
+### ART. 98.
+
+In artikel 65 van het decreet van 7 mei 2004 houdende regeling van de begrotingen, de boekhouding, de controle inzake subsidies, en de controle door het Rekenhof wordt het eerste lid vervangen door wat volgt :<br />« Dit decreet treedt in werking op de datum te bepalen door de Vlaamse Regering. ».
 
 ## HOOFDSTUK XXXV Fonds Ontwikkelingssamenwerking
 
+### ART. 99.
+
+§ 1. Er wordt een Fonds Ontwikkelingssamenwerking opgericht, hierna genoemd « het fonds ».<br /><br />§ 2. Het fonds is een begrotingsfonds in de zin van artikel 45 van de gecoördineerde wetten op de rijkscomptabiliteit.<br /><br />§ 3. Het fonds wordt gespijsd door de terugvordering van subsidies of bedragen voor de financiering van overeenkomsten voor ontwikkelingssamenwerking die door de begunstigden niet of op onrechtmatige wijze werden aangewend of waarvan de aanwending onvoldoende wordt verantwoord.<br /><br />§ 4. Het fonds wordt aangewend voor allerhande initiatieven inzake ontwikkelingssamenwerking. De aandacht zal hierbij voornamelijk gaan naar het versterken van lopende projecten of programma's en het uitwerken en uitvoeren van flankerende acties.<br /><br />§ 5. De rekenplichtige die de ontvangsten gedaan heeft, beschikt rechtstreeks over de kredieten van het fonds.<br /><br />
+
 ## HOOFDSTUK XXXVI Bekrachtiging van de aanvaarding van de schenking precolumbiaanse kunst
+
+### ART. 100.
+
+De notariële akte houdende schenking van roerende goederen, verleden op 20 oktober 2006 voor de heer Jozef Coppens, geassocieerd notaris te Vosselaar, tussen :<br />- enerzijds Mevr. Arts, Theodora Joanna Francisca, weduwe van Dr. Paulus, Adrianus Joannes Janssen en de stichting van openbaar nut in oprichting « Stichting Dr. Paul & Dora Janssen » met zetel te Vosselaar, Antwerpsesteenweg 20, de schenkers;<br />- en anderzijds het Vlaamse Gewest, mede handelend voor de Vlaamse Gemeenschap, vertegenwoordigd door de Vlaamse Regering, waarvoor opgetreden is de heer Dirk Van Mechelen, Vlaams minister van Financiën en Begroting, de begiftigde;<br />wordt hierbij bekrachtigd.<br /><br />
 
 ## HOOFDSTUK XXXVII Wijziging van het decreet van 19 december 2003 houdende bepalingen tot begeleiding van de begroting 2004
 
+### ART. 101.
+
+Artikel 4 van het decreet van 19 december 2003 houdende bepalingen tot begeleiding van de begroting 2004 wordt vervangen door wat volgt :<br />« Art. 4. Binnen de perken van de begrotingskredieten kunnen, in het kader van toeristische tewerkstelling, personeels- en werkingssubsidies verleend worden aan verenigingen.<br />De personeelsleden van Toerisme Vlaanderen zijn bevoegd ter plaatse of op stukken de aanvragen te onderzoeken, de naleving van de voorwaarden en de aanwending van de subsidies te controleren. De in het eerste lid bedoelde verenigingen zijn er toe gehouden op eenvoudig verzoek van Toerisme Vlaanderen alle nodige informatie te verstrekken die verband houdt met dit toezicht.<br />De Vlaamse Regering bepaalt de nadere voorwaarden en de procedure voor de toekenning van de subsidies. ».
+
 ## HOOFDSTUK XXXVIII Slotbepalingen
+
+### ART. 102.
+
+Dit decreet treedt in werking op 1 januari 2007, met uitzondering van :<br />- artikel 4 dat in werking treedt op 1 september 2006;<br />- artikel 8 en afdeling IV Odysseusfinanciering van hoofdstuk XX Wetenschap en Innovatie, die in werking treden op 1 januari 2006;<br />- afdeling II Belasting op de automatische ontspanningstoestellen van hoofdstuk VI Fiscaliteit, die in werking treedt vanaf het aanslagjaar 2007, met uitzondering van :<br />1° artikelen 21, A, C en E, 22, A, 23, A, 24, A, 25, 26, 27, A en B, 28, A, 29, A, en 30, die uitwerking hebben met ingang van 1 januari 1989;<br />2° artikelen 21, B, 22, B, en 23, B, die uitwerking hebben met ingang van 1 januari 1991;<br />3° artikel 28, B, dat uitwerking heeft vanaf het aanslagjaar 1991;<br />4° artikel 21, G, dat uitwerking heeft vanaf het aanslagjaar 1992;<br />5° artikel 23, C, dat uitwerking heeft met ingang van 1 januari 1996;<br />6° artikel 29, B en C, dat uitwerking heeft met ingang van 1 januari 1997;<br />7° artikelen 21, D, F, H, en 24, B, die uitwerking hebben met ingang van 1 januari 2000;<br />8° artikelen 21, I, 23, D, 27, C, 28, C en 29, D, die uitwerking hebben met ingang van 1 januari 2002;<br />- artikel 34, dat in werking treedt op 1 november 2006;<br />- hoofdstuk VIII IVA VMM dat in werking treedt op 1 april 2006;<br />- hoofdstuk XII Herstelfonds dat in werking treedt op 1 juli 2006;<br />- afdeling II Industriële onderzoeksfondsen en afdeling III Bijkomende academiseringsmiddelen van hoofdstuk XX Wetenschap en Innovatie, die uitwerking hebben met ingang van 1 januari 2006 en houdt op uitwerking te hebben op 31 december 2007;<br />- afdeling V Methusalemfinanciering van hoofdstuk XX Wetenschap en Innovatie, die in werking treedt op 1 oktober 2006;<br />- afdeling VI Toegepast biomedisch onderzoek van hoofdstuk XX Wetenschap en Innovatie, die in werking treedt op 1 juni 2006;<br />- artikel 75, dat in werking treedt op 1 januari 2007 en houdt op uitwerking te hebben op 31 december 2008;<br />- hoofdstuk XXI Schenking meubilair aan onderwijsnetten dat in werking treedt op 1 november 2006;<br />- afdeling IV Verpachting van de jachtrechten van de ANB-domeinen van hoofdstuk XXVII Eigen Vermogens, die in werking treedt op 1 januari 2006;<br />- hoofdstuk XXVIII Fonds voor Landbouw en Visserij dat in werking treedt op 1 januari 2006.<br /><br />
