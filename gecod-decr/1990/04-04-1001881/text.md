@@ -52,7 +52,7 @@ In elk comité wordt een bureau voor bijzondere jeugdbijstand opgericht, hierna 
 
 ### ART. 11.
 
-§ 1. De werkingskosten van de comités, inclusief deze van de bureaus, zijn ten laste van de begroting van de Vlaamse Gemeenschap.<br /><br />§ 2. Zijn eveneens ten laste van de begroting van de Vlaamse Gemeenschap, de uitgaven die voortvloeien uit de beslissingen die door de comités en door de bureaus werden genomen en die niet door een private of openbare instelling gedragen worden.<br /><br />§ 3. De regering bepaalt onder welke voorwaarden de comités en de bureaus de in § 1 en § 2 vernoemde uitgaven mogen doen.
+§ 1. De werkingskosten van de comités, inclusief deze van de bureaus, zijn ten laste van het Fonds Jongerenwelzijn.<br /><br />§ 2. Zijn eveneens ten laste van de begroting van het Fonds Jongerenwelzijn, de uitgaven die voortvloeien uit de beslissingen die door de comités en door de bureaus werden genomen en die niet door een private of openbare instelling gedragen worden.<br /><br />§ 3. De regering bepaalt onder welke voorwaarden de comités en de bureaus de in § 1 en § 2 vernoemde uitgaven mogen doen.
 
 ## HOOFDSTUK III BEMIDDELING INZAKE BIJZONDERE JEUGDBIJSTAND
 
@@ -98,7 +98,7 @@ De regering organiseert ten behoeve van de bemiddelingscommissies een administra
 
 ### ART. 21.
 
-De werkingskosten van de bemiddelingscommissies komen ten laste van de begroting van de Vlaamse Gemeenschap. De regering bepaalt onder welke voorwaarden uitgaven mogen gedaan worden.
+De werkingskosten van de bemiddelingscommissies komen ten laste van de begroting van het Fonds Jongerenwelzijn. De regering bepaalt onder welke voorwaarden uitgaven mogen gedaan worden.
 
 ## HOOFDSTUK IV DE GERECHTELIJKE JEUGDBIJSTAND
 
@@ -160,11 +160,11 @@ De regering beslist, bij een met redenen omkleed besluit, over de erkenningsaanv
 
 ### ART. 34.
 
-Aan de regering wordt kennis gegeven van iedere beslissing die overeenkomstig deze gecoördineerde decreten genomen wordt, wanneer zij uitgaven ten gevolge heeft die ten laste komen van de begroting van de Vlaamse Gemeenschap.
+Aan de regering wordt kennis gegeven van iedere beslissing die overeenkomstig deze gecoördineerde decreten genomen wordt, wanneer zij uitgaven ten gevolge heeft die ten laste komen van de begroting van het Fonds Jongerenwelzijn.
 
 ### ART. 35.
 
-De regering doet de in artikel 31, § 1, bedoelde voorzieningen inspecteren door ambtenaren van het Ministerie van de Vlaamse Gemeenschap, aan wie zij daartoe opdracht geeft.
+De regering doet de in artikel 31, § 1, bedoelde voorzieningen inspecteren door personeelsleden van het bevoegde agentschap.
 
 ### ART. 36.
 
@@ -182,7 +182,7 @@ Indien voor de minderjarigen bedoeld in artikel 37, geldsommen op hun spaar- of 
 
 ### ART. 39.
 
-[§ 1. Bij het Ministerie van de Vlaamse Gemeenschap wordt een fonds bijzondere jeugdbijstand opgericht, hierna het Fonds te noemen. Dit Fonds heeft rechtspersoonlijkheid en wordt gerangschikt onder de instellingen van categorie A vermeld in artikel 1 van de wet van 16 maart 1954 betreffende de controle van sommige instellingen van openbaar nut. De bepalingen van deze wet zijn op dit Fonds van toepassing voor zover er in dit decreet niet wordt van afgeweken.<br /><br />§ 2. De middelen van het Fonds zijn:<br /><br />a) het gebeurlijke saldo op het einde van het voorgaande begrotingsjaar;<br /><br />b) een jaarlijkse dotatie lastens de begroting van de Vlaamse Gemeenschap;<br /><br />c) de geïnde kinderbijslagen;<br /><br />d) de bijdragen van personen t.a.v. wie hulp wordt georganiseerd of van de onderhoudsplichtige personen;<br /><br />e) de terugvorderingen van de ten onrechte gedane betalingen.  <span class="reference">(verv. decr. 21 december 1990, art. 5, I: 1 januari 1991)</span> ]<br /><br />[f) de tegemoetkomingen die in het kader van het decreet van 12 juli 1990 houdende opzetting van een programma ter bevordering van de werkgelegenheid in de niet-commerciële sector van het Vlaamse Gewest in uitvoering van het protocol nr. 0091 bijzondere jeugdbijstand verschuldigd zijn voor de tewerkstelling van uitkeringsgerechtigde werklozen.  <span class="reference">(ing. decr. 25 jun 1992, art. 107, I:21 juli 1992)</span> ]<br /><br />[§ 3. Het Fonds is belast met de inning van de kinderbijslagen en de bedragen bedoeld in § 2, c), en d) en met de terugvorderingen bedoeld in § 2, e).<br /><br />§ 4. Het Fonds neemt de financiële lasten ten gevolge van de bepalingen van deze gecoördineerde decreten of een wet betreffende de opgave van maatregelen t.a.v. minderjarigen die een als misdrijf omschreven feit hebben gepleegd, ten laste.<br /><br />§ 5. Het Fonds neemt op datum van zijn inwerkingtreding de op 31 december 1990 uitstaande verbintenissen over lastens artikel 60.02.51 A. Afdeling II van de algemene uitgavenbegroting van de Vlaamse Gemeenschap evenals deze aangegaan lastens programma 51. basisallocatie 01.05.51 van de algemene uitgavenbegroting van de Vlaamse Gemeenschap voor het begrotingsjaar 1991.<br /><br />§ 6. Het Fonds wordt beheerd door de Vlaamse regering. De Vlaamse Gemeenschap stelt de nodige diensten, uitrusting, installaties en personeelsleden van haar diensten ter beschikking.<br /><br />§ 7. De Vlaamse regering beschikt over de kredieten van het Fonds voor al wat dienen kan in het raam van het beleid inzake bijzondere jeugdbijstand.<br /><br />§ 8. De Vlaamse regering stelt jaarlijks een verslag op over de werking en het beheer van het Fonds. Het verslag wordt aan de Vlaamse Raad medegedeeld.<br /><br />§ 9. De Vlaamse regering stelt de verdere regelen vast betreffende de werking en het beheer van het Fonds. Zij kan sommige van haar bevoegdheden delegeren aan de leidend ambtenaar die zij daartoe aanwijst.<br /><br />§ 10. Het op 31 december 1990 beschikbare ordonnanceringssaldo op fonds 60.02.51 A van Afdeling II van de algemene uitgavenbegroting van de Vlaamse Gemeenschap wordt ambtshalve overgeboekt op een daartoe te openen rekening (orderekening van de Thesaurie) teneinde het over te dragen aan het Fonds. De Vlaamse regering stelt het bedrag van de saldi vast.<br /><br />§ 11. De gebeurlijke rentevergoedingen op thesauriemiddelen voortvloeiend uit eigen thesauriebeheer worden gestort in de middelenbegroting van de Vlaamse Gemeenschap.  <span class="reference">(verv. decr. 21 december 1990, art.5, I:1 januari 1991)</span> ]
+De gemeenschapsinstellingen worden opgericht bij besluit van de Vlaamse regering. Zij bepaalt tevens de maximumcapaciteit van elke gemeenschapsinstelling.<br /><br />Deze instellingen staan tot het bereiken van hun maximumcapaciteit in voor :<br />1° het uitvoeren van opdrachten, bedoeld in artikel 23, § 1, 8°, 9°,11° en 12°, van de decreten inzake bijzondere jeugdbijstand, gecoördineerd op 4 april 1990;<br />2° het uitvoeren van opdrachten inzake opvang, oriëntatie, observatie en residentiële begeleiding van personen tot de leeftijd van maximaal 20 jaar, bepaald in een federale wet houdende opgave van maatregelen ten aanzien van minderjarigen die een als misdrijf omschreven feit hebben gepleegd.<br />
 
 ## HOOFDSTUK VII DE SOCIALE DIENSTEN
 

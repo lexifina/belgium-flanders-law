@@ -2,16 +2,16 @@
   "codex_id": 1001881,
   "title": "Gecodificeerd Decreet van 1990-04-04 inzake bijzondere jeugdbijstand",
   "type": "Gecodificeerd Decreet",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1001881/VolledigDocument?datum=2006-06-01",
-  "source_sha256": "5419e892c5df0e7b197f6418e3c5277f7ba5e97f1e30dafe1caa1f0c0b5baca8",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1001881/VolledigDocument?datum=2007-01-01",
+  "source_sha256": "7b86b434c3d76097680b735b85dfd12ff4ae4321147efbc0299ba916814ee491",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1001881&param=informatie",
-  "as_of": "2006-06-01",
+  "as_of": "2007-01-01",
   "made": "1990-04-04",
   "gazette": "1990-05-08",
   "numac": 0,
   "document_start": null,
   "document_end": "2999-12-31",
-  "in_force": "2006-06-01",
+  "in_force": "2007-01-01",
   "article_versions": 47,
-  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2007-01-01; future article versions excluded; article text as the API gives it"
 }
