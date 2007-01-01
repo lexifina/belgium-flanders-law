@@ -1,0 +1,17 @@
+{
+  "codex_id": 1016296,
+  "title": "Besluit van de Vlaamse Regering van 2007-09-07 betreffende de toewijzing, het gebruik en de overname van de nutriëntenemissierechten en betreffende de bedrijfsontwikkeling na bewezen mestverwerking",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1016296/VolledigDocument?datum=2007-01-01",
+  "source_sha256": "65a3f7e23725299882f8082c1c1e5a39a66e5de676434523d22e092fce52ea69",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1016296&param=informatie",
+  "as_of": "2007-01-01",
+  "made": "2007-09-07",
+  "gazette": "2007-10-31",
+  "numac": 2007036918,
+  "document_start": "2007-10-31",
+  "document_end": "2017-12-31",
+  "in_force": "2007-01-01",
+  "article_versions": 6,
+  "record_form": "consolidated version as in force on 2007-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
