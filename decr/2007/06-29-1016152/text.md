@@ -6,6 +6,10 @@
 
 ## Afdeling I Hogescholen
 
+### ART. 2.
+
+In artikel 178, § 1, van het decreet van 13 juli 1994 betreffende de hogescholen in de Vlaamse Gemeenschap wordt het jaartal "2006" vervangen door het jaartal "2007" en wordt het bedrag "582.460.832,02" vervangen door het bedrag "584.283.476,81".<br /><br />
+
 ## Afdeling II Universiteiten
 
 ## Afdeling III Instituut voor Tropische Geneeskunde
@@ -15,6 +19,14 @@
 ## HOOFDSTUK III Wetenschap en Innovatie
 
 ## Afdeling I Bijkomende academiseringsmiddelen
+
+### ART. 8.
+
+In artikel VI.9ter, § 1, tweede lid, van het decreet van 19 maart 2004 betreffende de rechtspositieregeling van de student, de participatie in het hoger onderwijs, de integratie van bepaalde afdelingen van het hoger onderwijs voor sociale promotie in de hogescholen en de begeleiding van de herstructurering van het hoger onderwijs in Vlaanderen, ingevoegd bij het decreet van 22 december 2006, wordt de tweede zin vervangen door wat volgt :<br /><br />« De Vlaamse Regering bepaalt, binnen de beschikbare begrotingskredieten, het bedrag dat in het begrotingsjaar 2007 ten behoeve van deze ondersteuningsmaatregel wordt vastgelegd, met dien verstande dat dit bedrag ten minste gelijk is aan 2 miljoen euro, geïndexeerd overeenkomstig artikel 184, § 1, van het decreet van 13 juli 1994 betreffende de hogescholen in de Vlaamse Gemeenschap. »<br /><br />
+
+### ART. 9.
+
+In artikel VI.9ter, § 2, eerste lid, van het decreet van 19 maart 2004 betreffende de rechtspositieregeling van de student, de participatie in het hoger onderwijs, de integratie van bepaalde afdelingen van het hoger onderwijs voor sociale promotie in de hogescholen en de begeleiding van de herstructurering van het hoger onderwijs in Vlaanderen, ingevoegd bij het decreet van 22 december 2006, worden tussen de woorden "het aantal financierbare studenten" en de woorden "in de academisch gerichte hogeschoolopleidingen" de woorden ", ingeschreven op 1 februari 2005"ingevoegd.<br /><br />
 
 ## Afdeling II Herculesstichting
 
