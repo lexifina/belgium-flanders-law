@@ -4,7 +4,7 @@
 
 ### ART. 1.
 
-[Voor de toepassing van dit besluit wordt verstaan onder:<br /><br />1° de Vlaamse minister: het Lid van de Vlaamse regering bevoegd voor de bijzondere jeugdbijstand;<br /><br />2° de gecoördineerde decreten: de decreten inzake bijzondere jeugbijstand, gecoördineerd op 4 april 1990;<br /><br />3° de bemiddelingscommissie: de bemiddelingscommissie voor bijzondere jeugdbijstand, bedoeld in artikel 12 van de gecoördineerde decreten;<br /><br />4° het secretariaat: het administratief secretariaat, bedoeld in artikel 20 van de gecoördineerde decreten;<br /><br />5° de secretaris: de ambtenaar van de Vlaamse Gemeenschap die de leiding heeft van het secretariaat.  <span class="reference">(verv. B.V.R. 10 oktober 1990, art. 1, I: 10 oktober 1989)</span> ]
+Voor de toepassing van dit besluit wordt verstaan onder:<br />1° de Vlaamse minister: het Lid van de Vlaamse regering bevoegd voor de bijzondere jeugdbijstand;<br />2° de gecoördineerde decreten: de decreten inzake bijzondere jeugbijstand, gecoördineerd op 4 april 1990;<br />3° de bemiddelingscommissie: de bemiddelingscommissie voor bijzondere jeugdbijstand, bedoeld in artikel 12 van de gecoördineerde decreten;<br />4° het secretariaat: het administratief secretariaat, bedoeld in artikel 20 van de gecoördineerde decreten;<br />5° de secretaris: de ambtenaar van de Vlaamse Gemeenschap die de leiding heeft van het secretariaat.<br />6° de administrateur-generaal : het personeelslid dat belast is met de leiding van het agentschap Jongerenwelzijn.
 
 ## HOOFDSTUK I OPRICHTING, WERKGEBIED EN ZETEL
 
@@ -72,7 +72,7 @@ Voor iedere zaak, ingeschreven in het algemeen register van bemiddelingsverzoeke
 
 ### ART. 15.
 
-[Ten einde de zaak te kunnen behandelen kan de bemiddelingscommissie het comité voor bijzondere jeugdzorg verzoeken alle noodzakelijke informatie mede te delen.<br /><br />Zij kan eveneens een verzoek tot informatie of onderzoek richten:<br /><br />1° aan de sociale dienst voor bijzondere jeugdbijstand, indien het comité voor bijzondere jeugdzorg of het bureau voor bijzondere jeugdbijstand niet betrokken is bij de aan het bemiddelingsverzoek ten grondslag liggende problematische opvoedingssituatie;<br /><br />2° aan een deskundige, andere dan een magistraat, een lid van het comité voor bijzondere jeugdzorg of een ambtenaar van het  <span class="reference">(verv. B.V.R. 10 oktober 1990, art. 12, I: 10 oktober 1990)</span> ] [de afdeling bijzondere jeugdbijstand  <span class="reference">(verv. B.V.R. 23 juli 1997, art. 7, I: 29 oktober 1997)</span> ] [van het Ministerie van de Vlaamse Gemeenschap;<br /><br />3° aan een door de Vlaamse Gemeenschap erkende of gesubsidieerde voorziening of aan een persoon of team verbonden aan een dergelijke voorziening.  <span class="reference">(verv. B.V.R. 10 oktober 1990, art. 12, I: 10 oktober 1990)</span> ]
+Ten einde de zaak te kunnen behandelen kan de bemiddelingscommissie het comité voor bijzondere jeugdzorg verzoeken alle noodzakelijke informatie mede te delen.<br /><br />Zij kan eveneens een verzoek tot informatie of onderzoek richten:<br />1° aan de sociale dienst voor bijzondere jeugdbijstand, indien het comité voor bijzondere jeugdzorg of het bureau voor bijzondere jeugdbijstand niet betrokken is bij de aan het bemiddelingsverzoek ten grondslag liggende problematische opvoedingssituatie;<br />2° aan een deskundige, andere dan een magistraat, een lid van het comité voor bijzondere jeugdzorg of een ambtenaar van het de afdeling bijzondere jeugdbijstand van de Vlaamse Gemeenschap;<br />3° aan een door de Vlaamse Gemeenschap erkende of gesubsidieerde voorziening of aan een persoon of team verbonden aan een dergelijke voorziening.
 
 ### ART. 16.
 
@@ -148,7 +148,7 @@ De officiële documenten bestemd voor de bemiddelingscommissie worden door de se
 
 ### ART. 33.
 
-De personeelsleden van het Ministerie van de Vlaamse Gemeenschap hebben als lid van de bemiddelingscommissie geen recht op de hogervermelde presentiegelden, indien de zittingen plaatshebben tijdens hun gewone diensturen en voor zover zij hiervoor geen vakantie- of recuperatiedagen hebben opgenomen.
+De personeelsleden van de Vlaamse Gemeenschap hebben als lid van de bemiddelingscommissie geen recht op de hogervermelde presentiegelden, indien de zittingen plaatshebben tijdens hun gewone diensturen en voor zover zij hiervoor geen vakantie- of recuperatiedagen hebben opgenomen.
 
 ## HOOFDSTUK VI BEEINDIGING VAN MANDAAT
 
@@ -168,7 +168,7 @@ In geval van vacature vóór het verstrijken van het mandaat van voorzitter, [pl
 
 ### ART. 37.
 
-<span class="reference">(verv. B.V.R. 10 oktober 1990, art. 28)</span> ] § 1. Het secretariaat is samengesteld uit ambtenaren van de Vlaamse Gemeenschap.<br /><br />§ 2. De personeelsformatie per secretariaat wordt door de Vlaamse regering bepaald in funktie van het werkvolume per bemiddelingscommissie en de personeelsformatie zoals vastgelegd in [het besluit van de Vlaamse regering van 21 december 1990 houdende vaststelling van de personeelsformatie van het Ministerie van de Vlaamse Gemeenschap.  <span class="reference">(verv. B.V.R. 22 mei 1991, art. 3, I:1 juni 1991)</span> ]<br /><br />[De Vlaamse minister kan bepalen dat één secretariaat instaat voor de administratieve ondersteuning van meerdere bemiddelingscommissies binnen hetzelfde gerechtelijk arrondissement.<br /><br />De standplaats van de ambtenaren belast met het secretariaat is de zetel van de bemiddelingscommissie.  <span class="reference">(ing. B.V.R. 23 juli 1997, art. 13, I: 29 oktober 1997)</span> ]<br /><br />§ 3. [De personeelsleden van het secretariaat staan administratiefrechtelijk onder het gezag van de Vlaamse regering. Zij vervullen de opdrachten die hen door de bemiddelingscommissie worden toevertrouwd overeenkomstig de bepalingen van de gecoördineerde decreten, van dit besluit en van het huishoudelijk reglement.  <span class="reference">(verv. B.V.R. 10 oktober 1990, art. 28, I:10 oktober 1990)</span> ]
+§ 1. Het secretariaat is samengesteld uit ambtenaren van de Vlaamse Gemeenschap.<br /><br />§ 2. De personeelsformatie per secretariaat wordt door de administrateur-generaal bepaald in funktie van het werkvolume per bemiddelingscommissie en de personeelsformatie zoals vastgelegd in het besluit van de Vlaamse regering van 21 december 1990 houdende vaststelling van de personeelsformatie van het Ministerie van de Vlaamse Gemeenschap. <br /><br />De Vlaamse minister kan bepalen dat één secretariaat instaat voor de administratieve ondersteuning van meerdere bemiddelingscommissies binnen hetzelfde gerechtelijk arrondissement.<br /><br />De standplaats van de ambtenaren belast met het secretariaat is de zetel van de bemiddelingscommissie.<br /><br />§ 3. De personeelsleden van het secretariaat staan administratiefrechtelijk onder het gezag van de Vlaamse regering. Zij vervullen de opdrachten die hen door de bemiddelingscommissie worden toevertrouwd overeenkomstig de bepalingen van de gecoördineerde decreten, van dit besluit en van het huishoudelijk reglement.
 
 ### ART. 38.
 
