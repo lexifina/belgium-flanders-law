@@ -1,0 +1,17 @@
+{
+  "codex_id": 1016037,
+  "title": "Besluit van de Vlaamse Regering van 2007-07-13 tot wijziging van het ministeriële besluit van 18 juni 1975 tot bepaling van de te volgen regels voor de vaststelling van het bedrag van de tegemoetkoming uit het Fonds voor medische, sociale en pedagogische zorg voor gehandicapten in de kosten voor onderhoud, opvoeding en behandeling van gehandicapten die geplaatst zijn in inrichtingen die onder het stelsel van het semi-internaat werken",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1016037/VolledigDocument?datum=2007-01-01",
+  "source_sha256": "932456cfd4a733048e7df654a793899e6d248dc4ac8ff191f0a3cbe0991e1f8b",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1016037&param=informatie",
+  "as_of": "2007-01-01",
+  "made": "2007-07-13",
+  "gazette": "2007-08-03",
+  "numac": 2007036272,
+  "document_start": "2007-01-01",
+  "document_end": null,
+  "in_force": "2007-01-01",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2007-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
