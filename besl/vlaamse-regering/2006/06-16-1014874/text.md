@@ -28,6 +28,10 @@ In artikel 7, § 2, van hetzelfde besluit, vervangen bij besluit van de Vlaamse 
 
 In artikel 7, § 2, 3°, van hetzelfde besluit, vervangen bij besluit van de Vlaamse Regering van 19 maart 2004, wordt het woord "volièrehuisvesting" telkens vervangen door de woorden "huisvesting in verrijkte kooien, volièrehuisvesting of grondhuisvesting".<br /><br />
 
+### ART. 7.
+
+Artikel 8 van hetzelfde besluit, vervangen bij besluit van de Vlaamse Regering van 19 maart 2004, wordt vervangen door wat volgt :<br />« Art. 8. De totale omvang van de subsidiabele investeringen bedraagt voor een voortschrijdende periode van 7 jaren maximaal 1.000.000 euro per natuurlijke persoon, beherend vennoot, zaakvoerder, bestuurder of gedelegeerd bestuurder telkens met de kwalificatie landbouwer of per bestuurder-landbouwer van de sociale instelling of de consumentencoöperatie, behoudens voor de overheidswaarborg waarvoor ongeacht het aantal personen met de kwalificatie landbouwer op het bedrijf 2.000.000 euro subsidiabele investeringen altijd aanvaard kunnen worden.<br /><br />De rentetoelage bedraagt maximaal 4 % voor de investeringen, vermeld in artikel 6, § 2, 1° en 2°, en 3 % voor de investeringen, vermeld in artikel 6, § 2, 3° en 4°. » <br /><br />
+
 ### ART. 8.
 
 In artikel 21 van hetzelfde besluit wordt het tweede lid vervangen door wat volgt :<br />« De totale steun wordt bepaald door de Vlaamse minister, bevoegd voor het landbouwbeleid, volgens de aard van de investering. Dienstverlenende coöperaties, type machineringen, genieten dezelfde steun als de particuliere landbouwers. » <br /><br />
