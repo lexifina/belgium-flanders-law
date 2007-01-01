@@ -2,16 +2,16 @@
   "codex_id": 1000238,
   "title": "Decreet van 1990-12-12 betreffende het bestuurlijk beleid",
   "type": "Decreet",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1000238/VolledigDocument?datum=2006-06-01",
-  "source_sha256": "a43a56bb598b3345ec18e72bb84e185fb7cb08f2e1b0e02ecae817019deb62c7",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1000238/VolledigDocument?datum=2007-01-01",
+  "source_sha256": "246870e8d669465556bff777fa94cae5504a6a0e61248d87f2c9333fd54de15d",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1000238&param=informatie",
-  "as_of": "2006-06-01",
+  "as_of": "2007-01-01",
   "made": "1990-12-12",
   "gazette": "1990-12-21",
   "numac": 1990030521,
   "document_start": null,
   "document_end": null,
-  "in_force": "2006-06-01",
+  "in_force": "2007-01-01",
   "article_versions": 99,
-  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2007-01-01; future article versions excluded; article text as the API gives it"
 }
