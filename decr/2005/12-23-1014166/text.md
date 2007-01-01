@@ -106,7 +106,7 @@ De waarborgen die op grond van het decreet van 15 april 1997 tot regeling van de
 
 ### ART. 21.
 
-§ 1. Er wordt een recuperatiefonds studietoelagen opgericht, hierna genoemd 'het fonds'.<br /><br />§ 2. Het fonds is een begrotingsfonds type B in de zin van artikel 45 van het koninklijk besluit van 17 juli 1991 houdende coördinatie van de wetten op de rijkscomptabiliteit.<br /><br />§ 3. Het fonds wordt gespijsd door alle ontvangsten die voortvloeien uit terugvorderingen in uitvoering van artikelen 10, 11 en 22 van het decreet van 16 februari 2001 houdende regeling van de studietoelagen voor het hoger onderwijs in de Vlaamse Gemeenschap evenals door alle ontvangsten die voortvloeien uit terugvorderingen zoals bepaald in artikelen 47 en 48 van het decreet van 30 april 2004 betreffende de studiefinanciering en studentenvoorzieningen in het hoger onderwijs van de Vlaamse Gemeenschap.<br /><br />§ 4. Het fonds wordt aangewend voor de betaling van studiefinanciering overeenkomstig de bepalingen van het decreet van 30 april 2004.<br />
+§ 1. Er wordt een recuperatiefonds studietoelagen opgericht, hierna genoemd 'het fonds'.<br /><br />§ 2. Het fonds is een begrotingsfonds type B in de zin van artikel 45 van het koninklijk besluit van 17 juli 1991 houdende coördinatie van de wetten op de rijkscomptabiliteit.<br /><br />§ 3. Het fonds wordt gespijsd door alle ontvangsten die voortvloeien uit terugvorderingen in uitvoering van artikelen 10, 11 en 22 van het decreet van 16 februari 2001 houdende regeling van de studietoelagen voor het hoger onderwijs in de Vlaamse Gemeenschap evenals door alle ontvangsten die voortvloeien uit terugvorderingen zoals bepaald in artikelen 47 en 48 van het decreet van 30 april 2004 betreffende de studiefinanciering en studentenvoorzieningen in het hoger onderwijs van de Vlaamse Gemeenschap.<br /><br />§ 4. Het fonds wordt aangewend voor de betaling van studiefinanciering overeenkomstig de bepalingen van het decreet van 30 april 2004 en voor de betaling van studietoelagen overeenkomstig de bepalingen van de wet van 19 juli 1971. <br />.<br />
 
 ## HOOFDSTUK XIII Universiteiten
 
@@ -160,7 +160,7 @@ Het EV INBO kan voor de verwezenlijking van zijn doel vrij contracten sluiten, r
 
 ### ART. 32.
 
-§ 1. Ieder jaar, voor 31 oktober, stelt de beheerscommissie de begroting vast van de uitgaven voor het volgende begrotingsjaar, alsmede de middelen van het EV INBO om die uitgaven te dekken.<br /><br />Ieder jaar, voor 31 maart, stelt de beheerscommissie de rekening van het EV INBO van het vorige begrotingsjaar op.<br /><br />De begroting en de rekening, alsmede elke wijziging ervan, worden ter goedkeuring voorgelegd aan de Vlaamse Regering, samen met het advies van de Inspectie van Financiën.<br /><br />§ 2. Het EV INBO kan het saldo tijdens het volgende begrotingsjaar vrij aanwenden voor het verwezenlijken van zijn doel.
+§ 1. Ieder jaar stelt de beheerscommissie de begroting vast van de uitgaven voor het volgende begrotingsjaar, alsmede de middelen van het EV INBO om die uitgaven te dekken. Voor het indienen van de begroting volgt de beheerscommissie de nadere regelen zoals vastgesteld in de begrotingsinstructies tot de opmaak van de algemene uitgaven- en middelenbegroting.<br /><br />Ieder jaar, voor 15 maart, stelt de beheerscommissie de rekening van het EV INBO van het vorige begrotingsjaar op. <br /><br />De begroting en de rekening, alsmede elke wijziging ervan, worden ter goedkeuring voorgelegd aan de Vlaamse Regering, samen met het advies van de Inspectie van Financiën.<br /><br />§ 2. Het EV INBO kan het saldo tijdens het volgende begrotingsjaar vrij aanwenden voor het verwezenlijken van zijn doel.
 
 ### ART. 33.
 
@@ -198,7 +198,7 @@ Het EV ILVO kan voor de verwezenlijking van zijn doel vrij contracten sluiten, r
 
 ### ART. 41.
 
-§ 1. Ieder jaar, voor 31 oktober, stelt de beheerscommissie de begroting vast van de uitgaven voor het volgende begrotingsjaar, alsmede de middelen van het EV ILVO om die uitgaven te dekken.<br /><br />Ieder jaar, voor 31 maart, stelt de beheerscommissie de rekening van het EV ILVO van het vorige begrotingsjaar op.<br /><br />De begroting en de rekening, alsmede elke wijziging ervan, worden ter goedkeuring voorgelegd aan de Vlaamse Regering, samen met het advies van de Inspectie van Financiën.<br /><br />§ 2. Het EV ILVO kan het saldo tijdens het volgende begrotingsjaar vrij aanwenden voor het verwezenlijken van zijn doel.
+§ 1. Ieder jaar stelt de beheerscommissie de begroting vast van de uitgaven voor het volgende begrotingsjaar, alsmede de middelen van het EV ILVO om die uitgaven te dekken. Voor het indienen van de begroting volgt de beheerscommissie de nadere regelen zoals vastgesteld in de begrotingsinstructies tot de opmaak van de algemene uitgaven- en middelenbegroting.<br /><br />Ieder jaar, voor 15 maart, stelt de beheerscommissie de rekening van het EV ILVO van het vorige begrotingsjaar op.<br /><br />De begroting en de rekening, alsmede elke wijziging ervan, worden ter goedkeuring voorgelegd aan de Vlaamse Regering, samen met het advies van de Inspectie van Financiën.<br /><br />§ 2. Het EV ILVO kan het saldo tijdens het volgende begrotingsjaar vrij aanwenden voor het verwezenlijken van zijn doel.
 
 ### ART. 42.
 
