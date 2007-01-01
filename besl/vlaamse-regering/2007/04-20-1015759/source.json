@@ -1,0 +1,17 @@
+{
+  "codex_id": 1015759,
+  "title": "Besluit van de Vlaamse Regering van 2007-04-20 tot wijziging van het besluit van de Vlaamse Regering van 12 oktober 2001 ter uitvoering van het decreet van 19 december 1997 betreffende het algemeen welzijnswerk",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1015759/VolledigDocument?datum=2007-01-01",
+  "source_sha256": "464bf26ccaee7a7b396755ef0d2bf4cd0792efcca5f7cd6f5c814f7aae5b1f3e",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1015759&param=informatie",
+  "as_of": "2007-01-01",
+  "made": "2007-04-20",
+  "gazette": "2007-05-10",
+  "numac": 2007035626,
+  "document_start": "2007-01-01",
+  "document_end": null,
+  "in_force": "2007-01-01",
+  "article_versions": 5,
+  "record_form": "consolidated version as in force on 2007-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
