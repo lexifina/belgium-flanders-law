@@ -571,6 +571,17 @@ De initiatiefnemer is ertoe gehouden, voor de roerende goederen, gedurende een p
 De initiatiefnemer is ertoe gehouden het gesubsidieerde goed als een goede huisvader te beheren en te onderhouden gedurende een periode die minstens gelijk is aan de boekhoudkundige afschrijvingsduur van de investering en die, voor de onroerende goederen, in elk geval minstens twintig jaar bedraagt.<br>
 &nbsp;
 
+### ART. 52.
+
+Bij overtreding van de bepalingen van artikel 50 en artikel 51, eerste en tweede lid,&nbsp;zullen de verleende gebruikstoelagen worden teruggevorderd voor een bedrag, berekend pro rato van het op het ogenblik van de overtreding nog niet afgelopen gedeelte van de boekhoudkundige afschrijvingsduur van de investering en tevens pro rato van het gedeelte van de subsidiabele oppervlakte van het gesubsidieerde goed dat een bestemmingswijziging krijgt, vervreemd wordt of bezwaard wordt met een zakelijk recht.<br>
+<br>
+Bij overtreding van de bepaling van artikel 51, derde lid, zal de minister de initiatiefnemer aanmanen zich te conformeren aan die bepaling binnen een termijn, bepaald door de minister. Als de initiatiefnemer niet het nodige gevolg geeft aan die aanmaning, zullen de verleende gebruikstoelagen worden teruggevorderd voor een bedrag, berekend pro rato van het op het ogenblik van de overtreding nog niet afgelopen gedeelte van de boekhoudkundige afschrijvingsduur van de investering.<br>
+<br>
+Als de initiatiefnemer een gebruikstoelage heeft verkregen voor de uitvoering van zijn project en als dat project niet gerealiseerd wordt of niet leidt tot een uitbating binnen een redelijke uitvoeringstermijn, dan zullen de verleende gebruikstoelagen volledig worden teruggevorderd.<br>
+<br>
+Als de initiatiefnemer een gebruikstoelage heeft verkregen voor de uitvoering van zijn project en hij bij een bepaalde opdracht in het kader van dat project de principes van de wetgeving betreffende de overheidsopdrachten en sommige opdrachten voor aanneming van werken, leveringen en diensten niet heeft gerespecteerd, dan zullen, voor zover er geen toepassing werd gemaakt van artikel 47, de verleende gebruikstoelagen worden teruggevorderd pro rato van het aandeel van de betreffende opdracht in het geheel van het project.<br>
+&nbsp;
+
 ## HOOFDSTUK VII Slotbepalingen
 
 ### ART. 53.
