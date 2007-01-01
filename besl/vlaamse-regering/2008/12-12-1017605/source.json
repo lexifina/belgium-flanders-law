@@ -1,0 +1,17 @@
+{
+  "codex_id": 1017605,
+  "title": "Besluit van de Vlaamse Regering van 2008-12-12 tot vaststelling van de regels voor het beheer van de [DAB Informatie Vlaanderen (verv. BVR 29 november 2013, art. 6, I: 14 februari 2014)] en tot regeling van de bevoegdheden van en de delegatie aan de ICT-manager",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1017605/VolledigDocument?datum=2007-01-01",
+  "source_sha256": "015066aebebe9f18bae6cd362b3451d3e41eea4f6dd52e286f06fcabc3bdc4da",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1017605&param=informatie",
+  "as_of": "2007-01-01",
+  "made": "2008-12-12",
+  "gazette": "2009-02-20",
+  "numac": 2009200620,
+  "document_start": "2007-01-01",
+  "document_end": "2014-07-27",
+  "in_force": "2007-01-01",
+  "article_versions": 29,
+  "record_form": "consolidated version as in force on 2007-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
