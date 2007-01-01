@@ -1,0 +1,17 @@
+{
+  "codex_id": 1015849,
+  "title": "Besluit van de Vlaamse Regering van 2007-03-23 houdende de voorwaarden inzake financiële ondersteuning van zelfstandige opvangvoorzieningen",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1015849/VolledigDocument?datum=2007-01-01",
+  "source_sha256": "a6160ef823e9585f4e98dc7b2e1189689e7aef7d40c46747d4edf3aa31f35a5b",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1015849&param=informatie",
+  "as_of": "2007-01-01",
+  "made": "2007-03-23",
+  "gazette": "2007-06-18",
+  "numac": 2007035746,
+  "document_start": "2007-01-01",
+  "document_end": "2008-12-31",
+  "in_force": "2007-01-01",
+  "article_versions": 25,
+  "record_form": "consolidated version as in force on 2007-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
