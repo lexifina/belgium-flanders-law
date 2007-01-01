@@ -2,16 +2,16 @@
   "codex_id": 1010125,
   "title": "Decreet van 2002-11-08 houdende de oprichting van de vzw. ESF-Agentschap",
   "type": "Decreet",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1010125/VolledigDocument?datum=2006-06-01",
-  "source_sha256": "af2eed6e8fe662c05988094e5c7fa14057a9c35c43a0f218fb90af0e6bddaf7c",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1010125/VolledigDocument?datum=2007-01-01",
+  "source_sha256": "c0dbf56f802f53262b97997bbd78e28b7020b3f745cc3c2170bf8e5bba217e57",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1010125&param=informatie",
-  "as_of": "2006-06-01",
+  "as_of": "2007-01-01",
   "made": "2002-11-08",
   "gazette": "2002-12-17",
   "numac": 2002036509,
   "document_start": "2001-11-14",
   "document_end": "2026-07-04",
-  "in_force": "2006-06-01",
+  "in_force": "2007-01-01",
   "article_versions": 6,
-  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2007-01-01; future article versions excluded; article text as the API gives it"
 }

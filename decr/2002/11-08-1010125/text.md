@@ -6,13 +6,7 @@ Dit decreet regelt een gemeenschaps- en gewestaangelegenheid.
 
 ### ART. 2.
 
-§ 1. De Vlaamse regering en de Vlaamse Dienst voor Arbeidsbemiddeling en Beroepsopleiding worden gemachtigd om onder de in § 3 bepaalde voorwaarden de v.z.w. "ESF-Agentschap" op te richten.<br>
-<br>
-§ 2. De Sociaal-Economische Raad van Vlaanderen en het Vlaamse Instituut voor Zelfstandig Ondernemen worden gemachtigd toe te treden tot de v.z.w. ESF-Agentschap.<br>
-<br>
-§ 3. De v.z.w. ESF-Agentschap wordt belast met het beheer en de uitvoering van het Europees Sociaal Fonds in Vlaanderen. De taak van het Europees Sociaal Fonds omvat het vergemakkelijken van de tewerkstelling en het bevorderen van de geografische en beroepsmobiliteit van de werknemers, alsmede het vergemakkelijken van de aanpassing, aan veranderingen in het bedrijfsleven en in de productiestelsels door beroepsopleiding en omscholing, zoals omschreven in het artikel 146 van het Verdrag tot oprichting van de Europese Gemeenschap.<br>
-<br>
-De v.z.w. ESF-Agentschap wordt belast met het beheer en de uitvoering van de door de Vlaamse regering bepaalde cofinancieringsmiddelen.
+§ 1. De Vlaamse regering en de Vlaamse Dienst voor Arbeidsbemiddeling en Beroepsopleiding worden gemachtigd om onder de in § 3 bepaalde voorwaarden de v.z.w. "ESF-Agentschap" op te richten.<br /><br />De vzw « ESF-Agentschap » is een privaatrechtelijk vormgegeven extern verzelfstandigd agentschap als vermeld in artikel 29 van het kaderdecreet beter bestuurlijk beleid van 18 juli 2003.<br /><br />De Vlaamse Regering bepaalt tot welk homogeen beleidsdomein het ESF-Agentschap behoort.<br /><br />§ 2. De Sociaal-Economische Raad van Vlaanderen en het Vlaamse Instituut voor Zelfstandig Ondernemen worden gemachtigd toe te treden tot de v.z.w. ESF-Agentschap.<br /><br />§ 3. De v.z.w. ESF-Agentschap wordt belast met het beheer en de uitvoering van het Europees Sociaal Fonds in Vlaanderen. De taak van het Europees Sociaal Fonds omvat het vergemakkelijken van de tewerkstelling en het bevorderen van de geografische en beroepsmobiliteit van de werknemers, alsmede het vergemakkelijken van de aanpassing, aan veranderingen in het bedrijfsleven en in de productiestelsels door beroepsopleiding en omscholing, zoals omschreven in het artikel 146 van het Verdrag tot oprichting van de Europese Gemeenschap.<br /><br />De v.z.w. ESF-Agentschap wordt belast met het beheer en de uitvoering van de door de Vlaamse regering bepaalde cofinancieringsmiddelen.
 
 ### ART. 3.
 
@@ -30,9 +24,7 @@ De Vlaamse regering en de in artikel 2, § 2, vermelde instellingen worden gemac
 
 ### ART. 4.
 
-§ 1. Volgens de modaliteiten te bepalen door de Vlaamse regering, wordt tussen de Vlaamse regering en de v.z.w. ESF-Agentschap een beheersovereenkomst opgemaakt.<br>
-<br>
-§ 2. De v.z.w. ESF-Agentschap deelt haar statuten mee aan het Vlaams Parlement.
+§ 1. Volgens de modaliteiten te bepalen door de Vlaamse regering, wordt tussen de Vlaamse regering en de v.z.w. ESF-Agentschap een samenwerkingsovereenkomst opgemaakt.<br /><br />§ 2. De v.z.w. ESF-Agentschap deelt haar statuten mee aan het Vlaams Parlement.
 
 ### ART. 5.
 
