@@ -4,7 +4,7 @@
 
 ### ART. 1.
 
-§ 1. Het administratief en technisch personeel van de universiteiten in de Vlaamse Gemeenschap wordt ingedeeld in één van de hierna vermelde niveaus, overeenstemmend met de ernaast vermelde competenties en opleidingsniveau:<br /><br />Niveau A: academische deskundigheid op denk- en werkniveau, diploma academisch onderwijs of hogescholen-onder-wijs van academisch niveau;<br /><br />Niveau B: hogere administratieve en technische deskundigheid, diploma hogescholenonderwijs van één cyclus;<br /><br />Niveau C: uitvoerende en technische deskundigheid, diploma secundair onderwijs;<br /><br />Niveau D: logistieke deskundigheid, geen diploma vereist.<br /><br />§ 2. Het personeelslid kan een aan een niveau verbonden deskundigheid ook verwerven via werkervaring of bijkomende vorming. Bij een inschaling in een hoger niveau dan op basis van het diploma toegelaten is, geeft het universiteitsbestuur een omstandige uiteenzetting van de gronden die de inschaling verantwoorden.<br /><br />§ 3. Elk niveau is onderverdeeld in graden. Niveau D omvat de graden 1 en 2; niveau C omvat de graden 3 en 4; niveau B omvat de graden 4, 5 en 6; niveau A omvat de graden 7 tot en met 13. Het universiteitsbestuur bepaalt voor elke graad de benaming van de daarmee verbonden functies.
+§ 1. Het administratief en technisch personeel van de universiteiten in de Vlaamse Gemeenschap wordt ingedeeld in één van de hierna vermelde niveaus, overeenstemmend met de ernaast vermelde competenties en opleidingsniveau:<br /><br />Niveau A: academische deskundigheid op denk- en werkniveau, diploma academisch onderwijs of hogescholen-onder-wijs van academisch niveau;<br /><br />Niveau B: hogere administratieve en technische deskundigheid, diploma hogescholenonderwijs van één cyclus;<br /><br />Niveau C: uitvoerende en technische deskundigheid, diploma secundair onderwijs;<br /><br />Niveau D: logistieke deskundigheid, geen diploma vereist.<br /><br />§ 2. Het personeelslid kan een aan een niveau verbonden deskundigheid ook verwerven via werkervaring of bijkomende vorming. Bij een inschaling in een hoger niveau dan op basis van het diploma toegelaten is, geeft het universiteitsbestuur een omstandige uiteenzetting van de gronden die de inschaling verantwoorden.<br /><br />§ 3. Elk niveau is onderverdeeld in graden. Niveau D omvat graad 2; niveau C omvat de graden 3 en 4; niveau B omvat de graden 4, 5 en 6; niveau A omvat de graden 7 tot en met 13. Het universiteitsbestuur bepaalt voor elke graad de benaming van de daarmee verbonden functies.
 
 ### ART. 2.
 
@@ -29,118 +29,6 @@ vanaf 1 januari 2000<br>
 			</td>
 			<td style="background-color:transparent; vertical-align:top; width:105.6pt">
 			<p>Verhogingen</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; vertical-align:top; width:105.55pt">
-			<p>1.1</p>
-			</td>
-			<td style="background-color:transparent; vertical-align:top; width:105.55pt">
-			<p>12.161,15</p>
-			</td>
-			<td style="background-color:transparent; vertical-align:top; width:105.6pt">
-			<p>13.795,12</p>
-			</td>
-			<td style="background-color:transparent; vertical-align:top; width:105.6pt">
-			<p>3 x 1: 125,69</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; vertical-align:top; width:105.55pt">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; vertical-align:top; width:105.55pt">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; vertical-align:top; width:105.6pt">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; vertical-align:top; width:105.6pt">
-			<p>10 x 2: 125,69</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; vertical-align:top; width:105.55pt">
-			<p>1.2</p>
-			</td>
-			<td style="background-color:transparent; vertical-align:top; width:105.55pt">
-			<p>12.263,67</p>
-			</td>
-			<td style="background-color:transparent; vertical-align:top; width:105.6pt">
-			<p>14.908,17</p>
-			</td>
-			<td style="background-color:transparent; vertical-align:top; width:105.6pt">
-			<p>4 x 1: 176,30</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; vertical-align:top; width:105.55pt">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; vertical-align:top; width:105.55pt">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; vertical-align:top; width:105.6pt">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; vertical-align:top; width:105.6pt">
-			<p>11 x 2: 176,30</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; vertical-align:top; width:105.55pt">
-			<p>1.3</p>
-			</td>
-			<td style="background-color:transparent; vertical-align:top; width:105.55pt">
-			<p>12.491, 79</p>
-			</td>
-			<td style="background-color:transparent; vertical-align:top; width:105.6pt">
-			<p>16.020,43</p>
-			</td>
-			<td style="background-color:transparent; vertical-align:top; width:105.6pt">
-			<p>4 x 1: 135,70</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; vertical-align:top; width:105.55pt">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; vertical-align:top; width:105.55pt">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; vertical-align:top; width:105.6pt">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; vertical-align:top; width:105.6pt">
-			<p>11 x 2: 271,44</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; vertical-align:top; width:105.55pt">
-			<p>1.4</p>
-			</td>
-			<td style="background-color:transparent; vertical-align:top; width:105.55pt">
-			<p>12.719,95</p>
-			</td>
-			<td style="background-color:transparent; vertical-align:top; width:105.6pt">
-			<p>17.133,51</p>
-			</td>
-			<td style="background-color:transparent; vertical-align:top; width:105.6pt">
-			<p>4 x 1: 157,64</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; vertical-align:top; width:105.55pt">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; vertical-align:top; width:105.55pt">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; vertical-align:top; width:105.6pt">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; vertical-align:top; width:105.6pt">
-			<p>12 x 2: 315,25</p>
 			</td>
 		</tr>
 		<tr>
@@ -456,13 +344,13 @@ vanaf 1 januari 2000<br>
 			<p>5.1</p>
 			</td>
 			<td style="background-color:transparent; vertical-align:top; width:105.55pt">
-			<p>18.178,66</p>
+			<p>18.360,45</p>
 			</td>
 			<td style="background-color:transparent; vertical-align:top; width:105.6pt">
-			<p>27.247,44</p>
+			<p>27.519,89</p>
 			</td>
 			<td style="background-color:transparent; vertical-align:top; width:105.6pt">
-			<p>4 x 1: 363,62</p>
+			<p>4 x 1: 367,26</p>
 			</td>
 		</tr>
 		<tr>
@@ -476,7 +364,7 @@ vanaf 1 januari 2000<br>
 			<p>&nbsp;</p>
 			</td>
 			<td style="background-color:transparent; vertical-align:top; width:105.6pt">
-			<p>10 x 2: 761,43</p>
+			<p>10 x 2: 769,04</p>
 			</td>
 		</tr>
 		<tr>
@@ -484,13 +372,13 @@ vanaf 1 januari 2000<br>
 			<p>5.2</p>
 			</td>
 			<td style="background-color:transparent; vertical-align:top; width:105.55pt">
-			<p>18.904,74</p>
+			<p>19.093,79</p>
 			</td>
 			<td style="background-color:transparent; vertical-align:top; width:105.6pt">
-			<p>27.973,52</p>
+			<p>28;253,23</p>
 			</td>
 			<td style="background-color:transparent; vertical-align:top; width:105.6pt">
-			<p>4 x 1: 363,62</p>
+			<p>4 x 1: 367,26</p>
 			</td>
 		</tr>
 		<tr>
@@ -504,7 +392,7 @@ vanaf 1 januari 2000<br>
 			<p>&nbsp;</p>
 			</td>
 			<td style="background-color:transparent; vertical-align:top; width:105.6pt">
-			<p>10 x 2: 761,43</p>
+			<p>10 x 2: 769,04</p>
 			</td>
 		</tr>
 		<tr>
@@ -512,13 +400,13 @@ vanaf 1 januari 2000<br>
 			<p>5.3</p>
 			</td>
 			<td style="background-color:transparent; vertical-align:top; width:105.55pt">
-			<p>19.630,82</p>
+			<p>19.827,13</p>
 			</td>
 			<td style="background-color:transparent; vertical-align:top; width:105.6pt">
-			<p>28.699,60</p>
+			<p>28.986,57</p>
 			</td>
 			<td style="background-color:transparent; vertical-align:top; width:105.6pt">
-			<p>4 x 1: 363,62</p>
+			<p>4 x 1: 367,26</p>
 			</td>
 		</tr>
 		<tr>
@@ -532,7 +420,7 @@ vanaf 1 januari 2000<br>
 			<p>&nbsp;</p>
 			</td>
 			<td style="background-color:transparent; vertical-align:top; width:105.6pt">
-			<p>10 x 2: 761,43</p>
+			<p>10 x 2: 769,04</p>
 			</td>
 		</tr>
 		<tr>
@@ -540,13 +428,13 @@ vanaf 1 januari 2000<br>
 			<p>6.1</p>
 			</td>
 			<td style="background-color:transparent; vertical-align:top; width:105.55pt">
-			<p>20.356,85</p>
+			<p>20.560,42</p>
 			</td>
 			<td style="background-color:transparent; vertical-align:top; width:105.6pt">
-			<p>29.425,73</p>
+			<p>29.720,02</p>
 			</td>
 			<td style="background-color:transparent; vertical-align:top; width:105.6pt">
-			<p>4 x 1: 392,52</p>
+			<p>4 x 1: 396,45</p>
 			</td>
 		</tr>
 		<tr>
@@ -560,7 +448,7 @@ vanaf 1 januari 2000<br>
 			<p>&nbsp;</p>
 			</td>
 			<td style="background-color:transparent; vertical-align:top; width:105.6pt">
-			<p>10 x 2: 749,88</p>
+			<p>10 x 2: 757,38</p>
 			</td>
 		</tr>
 		<tr>
@@ -568,13 +456,13 @@ vanaf 1 januari 2000<br>
 			<p>6.2</p>
 			</td>
 			<td style="background-color:transparent; vertical-align:top; width:105.55pt">
-			<p>21.068,10</p>
+			<p>21.278,78</p>
 			</td>
 			<td style="background-color:transparent; vertical-align:top; width:105.6pt">
-			<p>30.591,88</p>
+			<p>30.897,78</p>
 			</td>
 			<td style="background-color:transparent; vertical-align:top; width:105.6pt">
-			<p>4 x 1: 392,52</p>
+			<p>4 x 1: 396,45</p>
 			</td>
 		</tr>
 		<tr>
@@ -588,7 +476,7 @@ vanaf 1 januari 2000<br>
 			<p>&nbsp;</p>
 			</td>
 			<td style="background-color:transparent; vertical-align:top; width:105.6pt">
-			<p>10 x 2: 795,37</p>
+			<p>10 x 2: 803,32</p>
 			</td>
 		</tr>
 		<tr>
@@ -596,13 +484,13 @@ vanaf 1 januari 2000<br>
 			<p>7.1</p>
 			</td>
 			<td style="background-color:transparent; vertical-align:top; width:105.55pt">
-			<p>21.068,10</p>
+			<p>21.278,78</p>
 			</td>
 			<td style="background-color:transparent; vertical-align:top; width:105.6pt">
-			<p>32.492,96</p>
+			<p>32.817,89</p>
 			</td>
 			<td style="background-color:transparent; vertical-align:top; width:105.6pt">
-			<p>4 x 1: 622,37</p>
+			<p>4 x 1: 628,59</p>
 			</td>
 		</tr>
 		<tr>
@@ -616,7 +504,7 @@ vanaf 1 januari 2000<br>
 			<p>&nbsp;</p>
 			</td>
 			<td style="background-color:transparent; vertical-align:top; width:105.6pt">
-			<p>9 x 2: 992,82</p>
+			<p>9 x 2: 1002,75</p>
 			</td>
 		</tr>
 		<tr>
@@ -624,13 +512,13 @@ vanaf 1 januari 2000<br>
 			<p>7.2</p>
 			</td>
 			<td style="background-color:transparent; vertical-align:top; width:105.55pt">
-			<p>22.094,95</p>
+			<p>22.315,90</p>
 			</td>
 			<td style="background-color:transparent; vertical-align:top; width:105.6pt">
-			<p>34.014,18</p>
+			<p>34.354,33</p>
 			</td>
 			<td style="background-color:transparent; vertical-align:top; width:105.6pt">
-			<p>4 x 1: 622,37</p>
+			<p>4 x 1: 628,59</p>
 			</td>
 		</tr>
 		<tr>
@@ -644,7 +532,7 @@ vanaf 1 januari 2000<br>
 			<p>&nbsp;</p>
 			</td>
 			<td style="background-color:transparent; vertical-align:top; width:105.6pt">
-			<p>9 x 2: 1.047,75</p>
+			<p>9 x 2: 1058,23</p>
 			</td>
 		</tr>
 		<tr>
@@ -652,13 +540,13 @@ vanaf 1 januari 2000<br>
 			<p>8.1</p>
 			</td>
 			<td style="background-color:transparent; vertical-align:top; width:105.55pt">
-			<p>23.895,45</p>
+			<p>24.134</p>
 			</td>
 			<td style="background-color:transparent; vertical-align:top; width:105.6pt">
-			<p>36.275,84</p>
+			<p>36.638,58</p>
 			</td>
 			<td style="background-color:transparent; vertical-align:top; width:105.6pt">
-			<p>4 x 1: 622,37</p>
+			<p>4 x 1: 628,59</p>
 			</td>
 		</tr>
 		<tr>
@@ -672,7 +560,7 @@ vanaf 1 januari 2000<br>
 			<p>&nbsp;</p>
 			</td>
 			<td style="background-color:transparent; vertical-align:top; width:105.6pt">
-			<p>9 x 2: 1.098,99</p>
+			<p>9 x 2: 1109,98</p>
 			</td>
 		</tr>
 		<tr>
@@ -680,13 +568,13 @@ vanaf 1 januari 2000<br>
 			<p>8.2</p>
 			</td>
 			<td style="background-color:transparent; vertical-align:top; width:105.55pt">
-			<p>24.926,69</p>
+			<p>25.175,96</p>
 			</td>
 			<td style="background-color:transparent; vertical-align:top; width:105.6pt">
-			<p>37.307,08</p>
+			<p>37;680,14</p>
 			</td>
 			<td style="background-color:transparent; vertical-align:top; width:105.6pt">
-			<p>4 x 1: 622,37</p>
+			<p>4 x 1: 628,59</p>
 			</td>
 		</tr>
 		<tr>
@@ -700,7 +588,7 @@ vanaf 1 januari 2000<br>
 			<p>&nbsp;</p>
 			</td>
 			<td style="background-color:transparent; vertical-align:top; width:105.6pt">
-			<p>9 x 2: 1.089,99</p>
+			<p>9 x 2: 1109,98</p>
 			</td>
 		</tr>
 		<tr>
@@ -708,13 +596,13 @@ vanaf 1 januari 2000<br>
 			<p>9.1</p>
 			</td>
 			<td style="background-color:transparent; vertical-align:top; width:105.55pt">
-			<p>25.957,95</p>
+			<p>26.217,53</p>
 			</td>
 			<td style="background-color:transparent; vertical-align:top; width:105.6pt">
-			<p>38.338,34</p>
+			<p>38.721,71</p>
 			</td>
 			<td style="background-color:transparent; vertical-align:top; width:105.6pt">
-			<p>4 x 1: 622,37</p>
+			<p>4 x 1: 628,59</p>
 			</td>
 		</tr>
 		<tr>
@@ -728,7 +616,7 @@ vanaf 1 januari 2000<br>
 			<p>&nbsp;</p>
 			</td>
 			<td style="background-color:transparent; vertical-align:top; width:105.6pt">
-			<p>9 x 2: 1.089,99</p>
+			<p>9 x 2: 1109,98</p>
 			</td>
 		</tr>
 		<tr>
@@ -736,13 +624,13 @@ vanaf 1 januari 2000<br>
 			<p>9.2</p>
 			</td>
 			<td style="background-color:transparent; vertical-align:top; width:105.55pt">
-			<p>27.024,86</p>
+			<p>27.295,11</p>
 			</td>
 			<td style="background-color:transparent; vertical-align:top; width:105.6pt">
-			<p>40.549,62</p>
+			<p>40.955,09</p>
 			</td>
 			<td style="background-color:transparent; vertical-align:top; width:105.6pt">
-			<p>4 x 1: 666,79</p>
+			<p>4 x 1: 673,46</p>
 			</td>
 		</tr>
 		<tr>
@@ -756,7 +644,7 @@ vanaf 1 januari 2000<br>
 			<p>&nbsp;</p>
 			</td>
 			<td style="background-color:transparent; vertical-align:top; width:105.6pt">
-			<p>9 x 2: 1.206,40</p>
+			<p>9 x 2: 1218,46</p>
 			</td>
 		</tr>
 		<tr>
@@ -764,13 +652,13 @@ vanaf 1 januari 2000<br>
 			<p>10.1</p>
 			</td>
 			<td style="background-color:transparent; vertical-align:top; width:105.55pt">
-			<p>28.091,77</p>
+			<p>28.372,69</p>
 			</td>
 			<td style="background-color:transparent; vertical-align:top; width:105.6pt">
-			<p>42.761,33</p>
+			<p>43.188,99</p>
 			</td>
 			<td style="background-color:transparent; vertical-align:top; width:105.6pt">
-			<p>4 x 1: 666,79</p>
+			<p>4 x 1: 673,46</p>
 			</td>
 		</tr>
 		<tr>
@@ -784,7 +672,7 @@ vanaf 1 januari 2000<br>
 			<p>&nbsp;</p>
 			</td>
 			<td style="background-color:transparent; vertical-align:top; width:105.6pt">
-			<p>9 x 2: 1.333,60</p>
+			<p>9 x 2: 1346,94</p>
 			</td>
 		</tr>
 		<tr>
@@ -792,13 +680,13 @@ vanaf 1 januari 2000<br>
 			<p>10.2</p>
 			</td>
 			<td style="background-color:transparent; vertical-align:top; width:105.55pt">
-			<p>29.247,52</p>
+			<p>29.540,00</p>
 			</td>
 			<td style="background-color:transparent; vertical-align:top; width:105.6pt">
-			<p>45.917,76</p>
+			<p>46.376,95</p>
 			</td>
 			<td style="background-color:transparent; vertical-align:top; width:105.6pt">
-			<p>4 x 1: 749,54</p>
+			<p>4 x 1: 757,04</p>
 			</td>
 		</tr>
 		<tr>
@@ -812,7 +700,7 @@ vanaf 1 januari 2000<br>
 			<p>&nbsp;</p>
 			</td>
 			<td style="background-color:transparent; vertical-align:top; width:105.6pt">
-			<p>9 x 2: 1.519,12</p>
+			<p>9 x 2: 1534,31</p>
 			</td>
 		</tr>
 		<tr>
@@ -820,13 +708,13 @@ vanaf 1 januari 2000<br>
 			<p>11</p>
 			</td>
 			<td style="background-color:transparent; vertical-align:top; width:105.55pt">
-			<p>30.403,30</p>
+			<p>30.707,33</p>
 			</td>
 			<td style="background-color:transparent; vertical-align:top; width:105.6pt">
-			<p>49.074,30</p>
+			<p>49.565,02</p>
 			</td>
 			<td style="background-color:transparent; vertical-align:top; width:105.6pt">
-			<p>4 x 1: 848,69</p>
+			<p>4 x 1: 857,18</p>
 			</td>
 		</tr>
 		<tr>
@@ -840,7 +728,7 @@ vanaf 1 januari 2000<br>
 			<p>&nbsp;</p>
 			</td>
 			<td style="background-color:transparent; vertical-align:top; width:105.6pt">
-			<p>9 x2: 1.697,36</p>
+			<p>9 x 2: 1714,33</p>
 			</td>
 		</tr>
 		<tr>
@@ -848,13 +736,13 @@ vanaf 1 januari 2000<br>
 			<p>12</p>
 			</td>
 			<td style="background-color:transparent; vertical-align:top; width:105.55pt">
-			<p>39.145,81</p>
+			<p>39.537,27</p>
 			</td>
 			<td style="background-color:transparent; vertical-align:top; width:105.6pt">
-			<p>53.815,37</p>
+			<p>54.353,57</p>
 			</td>
 			<td style="background-color:transparent; vertical-align:top; width:105.6pt">
-			<p>4 x 1: 666,79</p>
+			<p>4 x 1: 673,46</p>
 			</td>
 		</tr>
 		<tr>
@@ -868,7 +756,7 @@ vanaf 1 januari 2000<br>
 			<p>&nbsp;</p>
 			</td>
 			<td style="background-color:transparent; vertical-align:top; width:105.6pt">
-			<p>9 x 2: 1.333,60</p>
+			<p>9 x 2: 1346,94</p>
 			</td>
 		</tr>
 		<tr>
@@ -876,13 +764,13 @@ vanaf 1 januari 2000<br>
 			<p>13</p>
 			</td>
 			<td style="background-color:transparent; vertical-align:top; width:105.55pt">
-			<p>46.554,68</p>
+			<p>47.020,23</p>
 			</td>
 			<td style="background-color:transparent; vertical-align:top; width:105.6pt">
-			<p>61.224,24</p>
+			<p>61.836,53</p>
 			</td>
 			<td style="background-color:transparent; vertical-align:top; width:105.6pt">
-			<p>4 x 1: 666,79</p>
+			<p>4 x 1: 673,46</p>
 			</td>
 		</tr>
 		<tr>
@@ -896,7 +784,7 @@ vanaf 1 januari 2000<br>
 			<p>&nbsp;</p>
 			</td>
 			<td style="background-color:transparent; vertical-align:top; width:105.6pt">
-			<p>9 x 2: 1.333,60</p>
+			<p>9 x 2: 1346,94</p>
 			</td>
 		</tr>
 	</tbody>
@@ -928,176 +816,169 @@ Het universiteitsbestuur brengt in het jaarverslag verslag uit over de toepassin
 
 ### ART. 7.
 
-<p>§ 1. [De personeelsleden die ingeschaald zijn in één van de oude schalen 14 tot en met 17 behouden deze salarisschaal tot zij bevorderd worden in één van de graden vermeld in artikel 1, § 3. Op het moment van hun bevordering worden zij ingeschaald in één van de salarisschalen bedoeld in artikel 2. Tot zolang blijven de volgende salarisschalen bestaan:<br>
+<p>§ 1. De personeelsleden die ingeschaald zijn in één van de oude schalen 14 tot en met 17 behouden deze salarisschaal tot zij bevorderd worden in één van de graden vermeld in artikel 1, § 3. Op het moment van hun bevordering worden zij ingeschaald in één van de salarisschalen bedoeld in artikel 2. Tot zolang blijven de volgende salarisschalen bestaan:<br>
 <br>
 vanaf 1 januari 2000<br>
-&nbsp;</p>
+</p>
 
 <table border="1" cellpadding="0" cellspacing="0" style="border-collapse:collapse">
 	<tbody>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:105.55pt">
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:68.4pt">
 			<p>Schaal</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:105.55pt">
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:126pt">
 			<p>Aanvangssalaris</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:105.6pt">
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:126pt">
 			<p>Eindsalaris</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:105.6pt">
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:140.2pt">
 			<p>Verhogingen</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:105.55pt">
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:68.4pt">
 			<p>14.1</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:105.55pt">
-			<p>25.957,95</p>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:126pt">
+			<p>26.217,53</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:105.6pt">
-			<p>38.716,25</p>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:126pt">
+			<p>39.103,40</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:105.6pt">
-			<p>4 x 1: 622,37</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:105.55pt">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:105.55pt">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:105.6pt">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:105.6pt">
-			<p>9 x 2: 1.140,98</p>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:140.2pt">
+			<p>4 x 1: 628,59</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:105.55pt">
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:68.4pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:126pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:126pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:140.2pt">
+			<p>9 x 2: 1152,39</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:68.4pt">
 			<p>14.2</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:105.55pt">
-			<p>28.038,45</p>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:126pt">
+			<p>28.318,83</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:105.6pt">
-			<p>40.252,16</p>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:126pt">
+			<p>40.654,62</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:105.6pt">
-			<p>4 x 1: 622,37</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:105.55pt">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:105.55pt">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:105.6pt">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:105.6pt">
-			<p>9 x 2: 1.080,47</p>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:140.2pt">
+			<p>4 x 1: 628,59</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:105.55pt">
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:68.4pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:126pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:126pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:140.2pt">
+			<p>9 x 2: 1091,27</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:68.4pt">
 			<p>15</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:105.55pt">
-			<p>30.118,75</p>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:126pt">
+			<p>30.419,94</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:105.6pt">
-			<p>41.787,99</p>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:126pt">
+			<p>42.205,87</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:105.6pt">
-			<p>4 x 1: 530,42</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:105.55pt">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:105.55pt">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:105.6pt">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:105.6pt">
-			<p>9 x 2: 1.060,84</p>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:140.2pt">
+			<p>4 x 1: 535,72</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:105.55pt">
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:68.4pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:126pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:126pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:140.2pt">
+			<p>9 x 2: 1071,45</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:68.4pt">
 			<p>16</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:105.55pt">
-			<p>31.959,13</p>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:126pt">
+			<p>32.278,72</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:105.6pt">
-			<p>44.628,62</p>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:126pt">
+			<p>45.074,93</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:105.6pt">
-			<p>4 x 1: 575,89</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:105.55pt">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:105.55pt">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:105.6pt">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:105.6pt">
-			<p>9 x 2: 1.151,77</p>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:140.2pt">
+			<p>4 x 1: 581,65</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:105.55pt">
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:68.4pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:126pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:126pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:140.2pt">
+			<p>9 x 2: 1163,29</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:68.4pt">
 			<p>17</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:105.55pt">
-			<p>36.182,25</p>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:126pt">
+			<p>36.544,07</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:105.6pt">
-			<p>50.851,81</p>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:126pt">
+			<p>51.360,37</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:105.6pt">
-			<p>4 x 1: 666,79</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:105.55pt">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:105.55pt">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:105.6pt">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:105.6pt">
-			<p>9 x 2: 1.333,60</p>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:140.2pt">
+			<p>4 x 1: 673,46</p>
 			</td>
 		</tr>
 		<tr>
-			<td colspan="4" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:422.3pt">
-			<p><em>(verv. B.V.R. 14 maart 2003, art. 1, I: 1 januari 2002)</em><strong>]</strong></p>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:68.4pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:126pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:126pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:140.2pt">
+			<p>9 x 2: 1346,94</p>
 			</td>
 		</tr>
 	</tbody>
 </table>
-
-<p>&nbsp;</p>
 
 <p>&nbsp;</p>
 
@@ -1111,227 +992,220 @@ Wervings- en bevorderingsprocedures die voor de datum van bekendmaking van dit b
 
 <p>§ 1. De personeelsleden die op basis van het in artikel 5 vermelde besluit van de Vlaamse regering van 27 februari 1992 geopteerd hebben voor het behoud van hun oude salarisschalen blijven ook na de inwerkingtreding van dit besluit in hun oude salarisschalen ingeschaald. Zij behouden de daaraan verbonden rechten.<br>
 <br>
-§ 2. [De bedoelde salarisschalen zijn als volgt samengesteld:<br>
+§ 2. De bedoelde salarisschalen zijn als volgt samengesteld:<br>
 <br>
-vanaf 1 januari 2000<br>
-<br>
-</p>
+vanaf 1 januari 2000</p>
 
 <table border="1" cellpadding="0" cellspacing="0" style="border-collapse:collapse">
 	<tbody>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:105.55pt">
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:68.4pt">
 			<p>Schaal</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:105.55pt">
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:117pt">
 			<p>Aanvangssalaris</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:105.6pt">
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:135pt">
 			<p>Eindsalaris</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:105.6pt">
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:140.2pt">
 			<p>Verhogingen</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:105.55pt">
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:68.4pt">
 			<p>24/8</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:105.55pt">
-			<p>18.549,08</p>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:117pt">
+			<p>18.734,57</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:105.6pt">
-			<p>28.683,95</p>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:135pt">
+			<p>28.970,75</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:105.6pt">
-			<p>3 x 1: 533,45</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:105.55pt">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:105.55pt">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:105.6pt">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:105.6pt">
-			<p>12 x 2: 711,21</p>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:140.2pt">
+			<p>3 x 1: 538,78</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:105.55pt">
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:68.4pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:117pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:135pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:140.2pt">
+			<p>12 x 2: 718,32</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:68.4pt">
 			<p>25/6</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:105.55pt">
-			<p>21.157,02</p>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:117pt">
+			<p>21.368,59</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:105.6pt">
-			<p>31.291,89</p>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:135pt">
+			<p>31.604,77</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:105.6pt">
-			<p>3 x 1: 533,45</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:105.55pt">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:105.55pt">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:105.6pt">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:105.6pt">
-			<p>12 x 2: 711,21</p>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:140.2pt">
+			<p>3 x 1: 538,78</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:105.55pt">
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:68.4pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:117pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:135pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:140.2pt">
+			<p>12 x 2: 718,32</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:68.4pt">
 			<p>11/3</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:105.55pt">
-			<p>22.846,27</p>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:117pt">
+			<p>23.074,73</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:105.6pt">
-			<p>35;226,74</p>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:135pt">
+			<p>35.578,91</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:105.6pt">
-			<p>3 x 1: 622,37</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:105.55pt">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:105.55pt">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:105.6pt">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:105.6pt">
-			<p>11 x 2: 955,76</p>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:140.2pt">
+			<p>3 x 1: 628,59</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:105.55pt">
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:68.4pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:117pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:135pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:140.2pt">
+			<p>11 x 2: 965,31</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:68.4pt">
 			<p>22/6</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:105.55pt">
-			<p>16.030,06</p>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:117pt">
+			<p>16.190,36</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:105.6pt">
-			<p>23.364,88</p>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:135pt">
+			<p>23.598,47</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:105.6pt">
-			<p>3 x 1: 311,14</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:105.55pt">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:105.55pt">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:105.6pt">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:105.6pt">
-			<p>12 x 2: 533,45</p>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:140.2pt">
+			<p>3 x 1: 314,25</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:105.55pt">
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:68.4pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:117pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:135pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:140.2pt">
+			<p>12 x 2: 538,78</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:68.4pt">
 			<p>23/6</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:105.55pt">
-			<p>18.074,96</p>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:117pt">
+			<p>18.255,71</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:105.6pt">
-			<p>25.409,78</p>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:135pt">
+			<p>25.663,82</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:105.6pt">
-			<p>3 x 1: 311,14</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:105.55pt">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:105.55pt">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:105.6pt">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:105.6pt">
-			<p>12 x 2: 533,45</p>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:140.2pt">
+			<p>3 x 1: 314,25</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:105.55pt">
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:68.4pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:117pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:135pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:140.2pt">
+			<p>12 x 2: 538,78</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:68.4pt">
 			<p>24/6</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:105.55pt">
-			<p>19.912,30</p>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:117pt">
+			<p>20.111,42</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:105.6pt">
-			<p>27.247,12</p>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:135pt">
+			<p>27.519,53</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:105.6pt">
-			<p>3 x 1: 311,14</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:105.55pt">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:105.55pt">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:105.6pt">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:105.6pt">
-			<p>12 x 2: 533,45</p>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:140.2pt">
+			<p>3 x 1: 314,25</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:105.55pt">
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:68.4pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:117pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:135pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:140.2pt">
+			<p>12 x 2: 538,78</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:68.4pt">
 			<p>10/S</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:105.55pt">
-			<p>21.822,99</p>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:117pt">
+			<p>22.041</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:105.6pt">
-			<p>33.247,70</p>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:135pt">
+			<p>33.580,09</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:105.6pt">
-			<p>3 x 1: 622,37</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:105.55pt">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:105.55pt">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:105.6pt">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:105.6pt">
-			<p>10 x 2: 955,76</p>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:140.2pt">
+			<p>3 x 1: 628,59</p>
 			</td>
 		</tr>
 		<tr>
-			<td colspan="4" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:422.3pt">
-			<p><em>(verv. B.V.R. 14 maart 2003, art. 1, I: 1 januari 2002)</em><strong>]</strong></p>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:68.4pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:117pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:135pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:140.2pt">
+			<p>10 x 2: 965,31</p>
 			</td>
 		</tr>
 	</tbody>
