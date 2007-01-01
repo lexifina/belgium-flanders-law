@@ -532,9 +532,25 @@ De personeelsleden van de provincie worden geëvalueerd op ambtelijk niveau.<br 
 
 ## Afdeling I Toepassingsgebied
 
+### ART. 114.
+
+Dit hoofdstuk is van toepassing op de leden van het provinciepersoneel in statutair dienstverband.
+
 ## Afdeling II De tuchtvergrijpen
 
+### ART. 115.
+
+Elke handeling of gedraging die een tekortkoming aan de beroepsplichten uitmaakt of die de waardigheid van het ambt in het gedrang brengt, alsook een inbreuk op de rechtspositieregeling, is een tuchtvergrijp en kan aanleiding geven tot het opleggen van een tuchtstraf.
+
 ## Afdeling III De tuchtstraffen
+
+### ART. 116.
+
+De volgende tuchtstraffen kunnen worden opgelegd:<br /><br />1° de blaam;<br /><br />2° de inhouding van salaris;<br /><br />3° de schorsing;<br /><br />4° het ontslag van ambtswege;<br /><br />5° de afzetting.
+
+### ART. 117.
+
+§ 1. De tuchtstraf waarbij salaris wordt ingehouden mag een termijn van zes maanden niet overschrijden. Er mag niet meer dan twintig procent van het jaarlijkse brutosalaris worden ingehouden.<br /><br />§ 2. De provincie garandeert aan de betrokkenen een nettosalaris dat gelijk is aan het bedrag van het leefloon zoals dat bij wet wordt vastgesteld.<br /><br />In geval van deeltijdse prestaties wordt dat bedrag berekend evenredig met de omvang van de prestaties.
 
 ### ART. 118.
 
@@ -542,15 +558,103 @@ De personeelsleden van de provincie worden geëvalueerd op ambtelijk niveau.<br 
 
 ## Afdeling IV De tuchtoverheid
 
+### ART. 119.
+
+De aanstellende overheid treedt op als tuchtoverheid.<br /><br />Als de deputatie overeenkomstig artikel 102 de uitoefening van zijn bevoegdheid tot aanstellen van personeelsleden aan de provinciegriffier toevertrouwd heeft, treedt de provinciegriffier op als tuchtoverheid voor de personeelsleden die door de deputatie zijn aangesteld, ten aanzien van de feiten die de provinciegriffier vaststelt of waarvan hij kennis heeft gekregen na delegatie.<br /><br />De provincieraad kan onder zijn leden een tuchtcommissie oprichten, die de tuchtbevoegdheid van de provincieraad uitoefent.<br /><br />De tuchtcommissie wordt samengesteld volgens de regels die gelden voor de samenstelling van de provincieraadscommissies.
+
 ## Afdeling V De tuchtprocedure
+
+### ART. 120.
+
+De tuchtoverheid voert het tuchtonderzoek. Als het tuchtonderzoek is afgerond, stelt de tuchtoverheid een verslag op dat minstens de ten laste gelegde feiten bevat. De tuchtoverheid stelt een tuchtdossier samen, dat alle stukken bevat die betrekking hebben op de ten laste gelegde feiten.<br /><br />Als de provincieraad als tuchtoverheid optreedt, belast hij de provinciegriffier met het tuchtonderzoek, het opstellen van het tuchtverslag en de samenstelling van het tuchtdossier. Indien er een tuchtvordering is tegen de provinciegriffier, wordt de voorzitter van de provincieraad hiermee belast.<br /><br />Als de deputatie als tuchtoverheid optreedt, belast het de provinciegriffier met het tuchtonderzoek, het opstellen van het tuchtverslag en de samenstelling van het tuchtdossier.<br /><br />Als de provinciegriffier als tuchtoverheid optreedt, belast hij een leidinggevend personeelslid met het tuchtonderzoek, het opstellen van het tuchtverslag en de samenstelling van het tuchtdossier.
+
+### ART. 121.
+
+Een tuchtstraf kan pas worden opgelegd nadat het personeelslid en desgevallend zijn raadsman de gelegenheid hebben gekregen om door de tuchtoverheid te worden gehoord in zijn middelen van verdediging, over alle feiten die hem ten laste worden gelegd.
+
+### ART. 122.
+
+De betrokkene mag zich te allen tijde laten bijstaan en vertegenwoordigen door een raadsman van zijn keuze.
+
+### ART. 123.
+
+Voor de hoorzitting wordt het zijn raadsman een kopie van het tuchtdossier bezorgd.<br /><br />De tuchtoverheid kan ambtshalve, op verzoek van het personeelslid of zijn raadsman, getuigen horen. In dat geval heeft het verhoor van de getuigen plaats in aanwezigheid van de betrokkene of van zijn raadsman.<br /><br />De hoorzitting, alsook de zittingen waarop de getuigen worden gehoord, zijn niet openbaar tenzij het betrokken personeelslid er zelf om verzoekt.<br /><br />De tuchtoverheid mag zich te allen tijde laten bijstaan door een raadsman, behalve bij de beraadslaging en de stemming.
+
+### ART. 124.
+
+De betrokkene wordt van de beslissing van de tuchtoverheid op de hoogte gebracht met een aangetekende brief of tegen ontvangstbewijs. In de kennisgeving van de beslissing wordt melding gemaakt van de beroepsmogelijkheid, opgenomen in afdeling VIII, en van de termijn waarbinnen dat beroep kan worden aangetekend.
+
+### ART. 125.
+
+De Vlaamse Regering stelt de termijnen en de nadere procedureregels van de tuchtprocedure vast, met inbegrip van de wijze van de oproeping, het getuigenverhoor, de raadpleging van het tuchtdossier, de beraadslaging en de uitspraak.
 
 ## Afdeling VI De verjaring van de tuchtvordering
 
+### ART. 126.
+
+§ 1. De tuchtoverheid kan geen tuchtrechtelijke vervolging meer instellen na verloop van een termijn van zes maanden na de vaststelling of de kennis-name door de tuchtoverheid van de daarvoor in aanmerking komende feiten. De tuchtvervolging wordt geacht te zijn ingesteld zodra de tuchtoverheid beslist om een tuchtonderzoek als vermeld in artikel 120 op te starten.<br /><br />§ 2. Als in verband met dezelfde feiten de strafvordering werd ingesteld, wordt de termijn van § 1 gestuit tot op de dag dat de gerechtelijke overheid de tuchtoverheid ervan op de hoogte brengt dat er een beslissing werd uitgesproken die in kracht van gewijsde is gegaan en die de strafvordering beëindigt.<br /><br />§ 3. Het strafrechtelijke onderzoek doet geen afbreuk aan de mogelijkheid van de tuchtoverheid om een tuchtstraf uit te spreken. Indien een opgelegde tuchtstraf onverenigbaar blijkt te zijn met een latere in kracht van gewijsde getreden strafrechtelijke uitspraak, kan het betrokken personeelslid binnen zestig dagen na de kennisneming ervan bij de tuchtoverheid een verzoek tot intrekking van de opgelegde tuchtsanctie instellen.<br /><br />§ 4. Als de tuchtstraf wordt vernietigd, kan de tuchtoverheid vanaf de datum van de kennisgeving van de vernietiging, de tuchtrechtelijke vervolging hernemen gedurende het gedeelte van de in § 1 vermelde termijn dat overbleef bij het instellen van de vervolging en minstens gedurende een termijn van drie maanden.<br /><br />Als de tuchtstraf wordt ingetrokken, kan de tuchtoverheid vanaf de datum van de intrekking, de tuchtrechtelijke vervolging hernemen gedurende het gedeelte van de in de § 1 bedoelde termijn dat overbleef bij het instellen van de vervolging.
+
 ## Afdeling VII De preventieve schorsing
+
+### ART. 127.
+
+Als tegen een personeelslid een strafrechtelijk of tuchtrechtelijk onderzoek loopt en zijn aanwezigheid onverenigbaar is met het belang van de dienst, kan de tuchtoverheid het personeelslid preventief schorsen bij wijze van ordemaatregel, al dan niet met inhouding van salaris.
+
+### ART. 128.
+
+De preventieve schorsing wordt uitgesproken voor een termijn van maximaal vier maanden. Als er een strafrechtelijk onderzoek loopt, kan de overheid die termijn voor perioden van maximaal vier maanden verlengen zolang de strafrechtelijke procedure duurt, op voorwaarde dat het personeelslid daarover vooraf wordt gehoord.<br /><br />Als binnen de genoemde termijnen geen tuchtstraf wordt opgelegd, vervallen de gevolgen van de preventieve schorsing.
+
+### ART. 129.
+
+§ 1. Als tegen een personeelslid een strafrechtelijk of tuchtrechtelijk onderzoek loopt, kan de tuchtoverheid die de preventieve schorsing uitspreekt, beslissen tot een inhouding van salaris, op voorwaarde dat het personeelslid daarover vooraf wordt gehoord.<br /><br />§ 2. Er mag niet meer dan de helft van het salaris worden ingehouden.<br /><br />De provincie waarborgt aan het personeelslid een nettosalaris dat gelijk is aan het bedrag van het leefloon zoals dat bij wet wordt vastgesteld.<br /><br />In geval van deeltijdse prestaties wordt dat bedrag berekend evenredig met de omvang van de prestaties.
+
+### ART. 130.
+
+Als de tuchtoverheid, in aansluiting op een preventieve schorsing met inhouding van salaris, geen tuchtstraf oplegt of de tuchtstraf blaam oplegt, wordt de preventieve schorsing ingetrokken en betaalt de provincie het ingehouden salaris uit.<br /><br />Als de tuchtoverheid, in aansluiting op een preventieve schorsing met inhouding van salaris, de tuchtstraf inhouding van salaris, schorsing of ontslag van ambtswege oplegt, heeft de tuchtstraf uitwerking met ingang van de dag waarop de preventieve schorsing is ingegaan. In dit geval wordt het bedrag van het tijdens de schorsing ingehouden salaris, in mindering gebracht op het bedrag van het salarisverlies, verbonden aan de tuchtstraf. Als het bedrag van het ingehouden salaris groter is dan het bedrag van het salarisverlies, verbonden aan de tuchtstraf, betaalt de provincie het verschil uit.
+
+### ART. 131.
+
+Voor de tuchtoverheid beslist tot een preventieve schorsing, al dan niet met inhouding van salaris, hoort ze de betrokkene.<br /><br />In hoogdringende gevallen kan de tuchtoverheid de preventieve schorsing al dan niet met inhouding van salaris onmiddellijk uitspreken, met de verplichting het personeelslid binnen acht dagen na de uitspraak te horen over de preventieve schorsing, en in voorkomend geval over de inhouding van salaris. De preventieve schorsing vervalt als ze niet wordt bevestigd binnen vijftien dagen nadat de betrokkene is gehoord.
+
+### ART. 132.
+
+De Vlaamse Regering stelt de termijnen en de nadere procedureregels vast.
 
 ## Afdeling VIII Beroep
 
+### ART. 133.
+
+De Beroepscommissie voor tuchtzaken, opgericht bij artikel 137 van het Gemeentedecreet, treedt ook op als beroepsinstantie voor tuchtsancties van provinciale besturen.
+
+### ART. 134.
+
+De Beroepscommissie voor tuchtzaken is een bestuurlijk orgaan. De Vlaamse Regering regelt de samenstelling, de werking en de vergoeding van de leden ervan.
+
+### ART. 135.
+
+Binnen dertig dagen na ontvangst van de beslissing over het opleggen van een tuchtstraf of een preventieve schorsing kan het personeelslid tegen die beslissing beroep aantekenen bij de Beroepscommissie voor tuchtzaken. Behalve in geval van preventieve schorsing, schorst het beroep de beslissing.
+
+### ART. 136.
+
+De Beroepscommissie voor tuchtzaken mag pas uitspraak doen nadat aan het personeelslid en aan de tuchtoverheid en hun respectieve raadsman de gelegenheid werd geboden om te worden gehoord. Die hoorzittingen zijn niet openbaar tenzij het betrokken personeelslid erom verzoekt.
+
+### ART. 137.
+
+De Beroepscommissie voor tuchtzaken beschikt over een hervormingsrecht.
+
+### ART. 138.
+
+Binnen zestig dagen na de dag van ontvangst van het tuchtdossier spreekt de Beroepscommissie voor tuchtzaken zich uit over het beroep. Ze kan evenwel de oorspronkelijke termijn met zestig dagen verlengen indien ze, voor het verstrijken van de termijn, de tuchtoverheid en het personeelslid ervan op de hoogte brengt dat ze pas binnen de verlengde termijn kan beslissen.
+
+### ART. 139.
+
+De Vlaamse Regering stelt de nadere procedureregels vast.
+
 ## Afdeling IX [... (opgeh. decr. 6 juli 2018, art. 83, I: 3 december 2018)]
+
+### ART. 140.
+
+De tuchtstraffen blaam, inhouding van salaris en schorsing worden in het persoonlijk dossier van de personeelsleden doorgehaald na verloop van een termijn van één jaar voor de blaam, drie jaar voor de inhouding van salaris en vier jaar voor de schorsing. Die termijnen lopen vanaf de datum waarop de tuchtstraf werd uitgesproken door de tuchtoverheid of, indien beroep werd aangetekend overeenkomstig artikel 135, vanaf de datum van de uitspraak van de Beroepscommissie voor tuchtzaken. De doorhaling heeft enkel uitwerking voor de toekomst.
 
 ## [TITEL IV De beleids- en beheerscyclus (verv. decr. 6 juli 2018, art. 84, I: 3 december 2018)]
 
@@ -558,9 +662,21 @@ De personeelsleden van de provincie worden geëvalueerd op ambtelijk niveau.<br 
 
 ## [Afdeling I Algemene bepalingen (ing. decr. 6 juli 2018, art. 86, I: 3 december 2018)]
 
+### ART. 144.
+
+<P>[<EM><STRONG>Toekomstige regelgeving (het eerste tot en met derde lid treden   in werking op een door de Vlaamse Regering te bepalen datum):<BR></STRONG>Voor   het begin van ieder boekjaar stelt de provincieraad op basis van het   meerjarenplan het budget van de provincie vast. Behoudens in de gevallen   voorzien in artikel 254, § 4, kan het budget pas worden vastgesteld nadat het   advies van de externe auditcommissie, bedoeld in dat artikel, over het ontwerp   van budget aan de provincieraad wordt voorgelegd.<BR><BR>In afwijking van de   eerste paragraaf kan de provincieraad het budget voor het eerste volledige   boekjaar van de zesjaarlijkse periode waarvoor de provincieraad is verkozen,   vaststellen in de loop van het eerste kwartaal van dat boekjaar.<BR><BR>Het   budget voor het eerste volledige boekjaar van de zesjaarlijkse periode hoeft   niet te passen in het meerjarenplan.</EM><STRONG>]<BR></STRONG><BR>De   provincieraad stemt over het budget in zijn geheel. Elk provincieraadslid kan   echter de afzonderlijke stemming eisen over een of meer onderdelen van het   budget die hij aanwijst. In dat geval mag over het geheel pas gestemd worden na   de stemming over een of meer onderdelen die aldus zijn aangewezen. De stemming   over het geheel heeft dan betrekking op de onderdelen waarover geen enkel   provincieraadslid afzonderlijk wil stemmen, en op de onderdelen die al bij een   afzonderlijke stemming zijn aangenomen.<BR><BR>Het ontwerp van budget wordt op   zijn minst veertien dagen vóór de vergadering waarop het wordt besproken aan   ieder lid van de provincieraad bezorgd.</P>
+
+### ART. 145.
+
+Het budget van de provincie omvat een beleidsnota en een financiële nota.
+
 ## [Afdeling II Het meerjarenplan (ing. decr. 6 juli 2018, art. 94, I: 3 december 2018)]
 
 ## [Afdeling III Aanpassingen van het meerjarenplan (ing. decr. 6 juli 2018, art. 98, I: 3 december 2018)]
+
+### ART. 149.
+
+Als verscheidene provincies betrokken zijn bij een uitgave die door of krachtens wettelijke of decretale bepalingen aan de provincie is opgelegd, dragen ze allemaal daarin bij naar evenredigheid van het belang dat ze erbij kunnen hebben. In geval van weigering of van onenigheid over de verhouding van dat belang en van de te dragen lasten, beslist de Vlaamse Regering.
 
 ## [Afdeling IV Bijzondere bepaling over het bestuurlijk toezicht op het meerjarenplan (ing. decr. 6 juli 2018, art. 101, I: 3 december 2018)]
 
@@ -569,6 +685,10 @@ De personeelsleden van de provincie worden geëvalueerd op ambtelijk niveau.<br 
 ### ART. 152.
 
 Een verbintenis mag alleen worden aangegaan door de bevoegde budgethouder op grond van een goedgekeurde, op het budget voorkomende post of op grond van een voorlopig krediet.<br /><br />De personeelsleden of de leden van de deputatie die in strijd hiermee verbintenissen hebben aangegaan, zijn hiervoor persoonlijk verantwoordelijk, behoudens in de gevallen die door of krachtens dit decreet worden bepaald en onverminderd de eventuele medeverantwoordelijkheid van andere organen of personeelsleden van de provincie.
+
+### ART. 153.
+
+De provincieraad kan zonder voorafgaande budgetwijziging voorzien in uitgaven die door dwingende en onvoorziene omstandigheden worden vereist, op voorwaarde dat hij daartoe een met redenen omkleed besluit neemt.<br /><br />In dezelfde omstandigheden en als het geringste uitstel onbetwistbare schade zou veroorzaken, kan de deputatie op eigen verantwoordelijkheid in de uitgave voorzien. De deputatie brengt de provincieraad en, behoudens in de gevallen voorzien in artikel 254, § 4, de externe auditcommissie, bedoeld in dat artikel, daarvan onverwijld op de hoogte.<br /><br />In de gevallen, vermeld in het eerste en het tweede lid, worden de nodige kredieten onverwijld ingeschreven door een budgetwijziging. De betaling mag evenwel worden uitgevoerd, zonder de budgetwijziging af te wachten.
 
 ## [Afdeling VI Bijzondere bepaling over het bestuurlijk toezicht op de jaarrekening (ing. decr. 6 juli 2018, art. 108, I: 3 december 2018)]
 
@@ -633,6 +753,10 @@ De deputatie rapporteert minstens eenmaal per semester aan de provincieraad over
 ### ART. 167.
 
 Onder leiding van de financieel beheerder en in overleg met het managementteam worden uiterlijk op 31 december van ieder jaar de nodige opnemingen, verificaties, opzoekingen en waarderingen gedaan om de inventaris op te maken van al de bezittingen, vorderingen, schulden en verplichtingen van de provincie van welke aard ook.
+
+### ART. 170.
+
+§ 1. Artikel 144, vierde lid, is van overeenkomstige toepassing op de stemming door de provincieraad over de jaarrekening.<br /><br />§ 2. Het ontwerp van de jaarrekening wordt op zijn minst veertien dagen vóór de vergadering waarop het wordt besproken aan ieder lid van de provincieraad bezorgd.
 
 ### ART. 171.
 
@@ -894,6 +1018,10 @@ Het oprichtingsbesluit van een intern verzelfstandigd agentschap omvat minstens 
 
 § 1. Tussen de deputatie en het hoofd van een intern verzelfstandigd agentschap wordt na onderhandeling een beheersovereenkomst gesloten. De beheersovereenkomst, evenals elke verlenging, wijziging, schorsing of ontbinding ervan, wordt verzonden aan de Vlaamse Regering en ter inzage neergelegd op de griffie van de oprichtende provincie.<br /><br />§ 2. De beheersovereenkomst regelt minstens de volgende aangelegenheden:<br /><br />1° de concretisering van de wijze waarop het agentschap zijn taken moet vervullen en van de doelstellingen ervan;<br /><br />2° de toekenning van middelen voor de eigen werking en de uitvoering van de taken van het agentschap;<br /><br />3° de voorwaarden waaronder eigen inkomsten of andere financieringen mogen worden verworven en aangewend;<br /><br />4° de informatieverstrekking aan de deputatie.<br /><br />§ 3. Met behoud van de mogelijkheid tot verlenging, wijziging, schorsing en ontbinding van de beheersovereenkomst, wordt die gesloten voor een periode die eindigt uiterlijk zes maanden na de volledige vernieuwing van de provincieraad.<br /><br />De beheersovereenkomst en de uitvoering ervan worden jaarlijks geëvalueerd door de provincieraad.<br /><br />Als bij het verstrijken van de beheersovereenkomst geen nieuwe beheersovereenkomst in werking is getreden, wordt de bestaande overeenkomst van rechtswege verlengd.
 
+### ART. 218.
+
+§ 1. De bepalingen van titel IV zijn van overeenkomstige toepassing op de provinciale intern verzelfstandigde agentschappen, onder voorbehoud van de toepassing van de bepalingen die opgenomen zijn in de hiernavolgende paragrafen.<br /><br />§ 2. Het budget en de jaarrekening van het intern verzelfstandigd agentschap worden geconsolideerd, overeenkomstig de nadere regels die door de Vlaamse Regering worden vastgesteld.<br /><br />§ 3. Het hoofd van het agentschap is budgethouder voor het budget van het provinciale intern verzelfstandigd agentschap.<br /><br />Hij kan het budgethouderschap delegeren aan andere personeelsleden binnen de grenzen die bepaald zijn in de beheersovereenkomst.
+
 ## HOOFDSTUK II De provinciale extern verzelfstandigde agentschappen
 
 ## Afdeling I Algemene bepalingen
@@ -963,6 +1091,10 @@ Het personeel van het autonoom provinciebedrijf kan in statutair of contractueel
 ### ART. 235.
 
 § 1. Het autonoom provinciebedrijf kan leningen aangaan en giften of toelagen ontvangen binnen de grenzen, gesteld in de statuten en de beheersovereenkomst.<br /><br />§ 2. Het autonoom provinciebedrijf kan door de Vlaamse Regering gemachtigd worden om in eigen naam en voor eigen rekening over te gaan tot onteigeningen die noodzakelijk zijn voor de verwezenlijking van zijn doelstellingen.<br /><br />§ 3. Het autonoom provinciebedrijf beslist vrij, binnen de grenzen van zijn doel, over de verwerving, de aanwending en de vervreemding van zijn goederen, over de vestiging of opheffing van zakelijke rechten op die goederen, alsook over de uitvoering van dergelijke beslissingen en over hun financiering.<br /><br />§ 4. Het autonoom provinciebedrijf stelt de tarieven en de tariefstructuren voor de door het bedrijf geleverde prestaties vast binnen de grenzen van de in de beheersovereenkomst bepaalde grondregelen inzake tarifering. De maximumtarieven of de formules voor hun berekening die niet in de beheersovereenkomst zijn geregeld, worden ter goedkeuring voorgelegd aan de provincieraad.<br /><br />§ 5. Het autonoom provinciebedrijf kan andere rechtspersonen oprichten, erin deelnemen of zich erin laten vertegenwoordigen, voorzover dat past in zijn opdrachten. De oprichting, deelname of vertegenwoordiging mag geen speculatieve oogmerken nastreven en gebeurt in overeenstemming met het gelijkheidsbeginsel, de regelgeving inzake mededinging en staatssteun en de voorwaarden, bepaald in de beheersovereenkomst. De beslissing tot oprichting, deelname of vertegenwoordiging toont aan dat aan de voormelde voorwaarden is voldaan.<br /><br />De deelname is onderworpen aan de voorwaarde dat aan het autonoom provinciebedrijf minstens een mandaat van bestuurder wordt toegekend.<br /><br />De beslissing tot oprichting, deelname of vertegenwoordiging wordt binnen dertig dagen aan de Vlaamse Regering verzonden. Tot de oprichting, deelname of vertegenwoordiging kan pas worden overgegaan nadat de beslissing hiertoe werd goedgekeurd.<br /><br />Binnen honderd dagen na verzending keurt de Vlaamse Regering de beslissing al dan niet goed. Als die termijn verstrijkt zonder dat de Vlaamse Regering een beslissing heeft genomen en die beslissing heeft verzonden aan het autonoom provinciebedrijf, dan wordt de goedkeuring geacht te zijn verleend.
+
+### ART. 236
+
+<P>[<EM><STRONG>nvdr: de eerste en tweede zin van het eerste lid zijn nog niet   in werking getreden<BR></STRONG>Het autonoom provinciebedrijf maakt een budget   op overeenkomstig de regels die krachtens artikelen 145, 146, 147, § 1, § 2,   eerste lid, § 3 en § 4, en 175, worden gesteld voor het budget van de provincie.   De boekhouding wordt gevoerd en de jaarrekening wordt opgesteld overeenkomstig   de regelen die krachtens artikelen 160, 168 en 175 worden gesteld voor de   boekhouding en de jaarrekening van de provincie</EM>.<STRONG><EM>]</EM></STRONG>   Het autonoom provinciebedrijf doet uiterlijk op 31 december van ieder jaar de   nodige opnemingen, verificaties, opzoekingen en waarderingen om de inventaris op   te maken van al de bezittingen, vorderingen, schulden en verplichtingen van het   autonoom provinciebedrijf, van welke aard ook.<BR><BR>De boekhouding wordt   gevoerd onder de verantwoordelijkheid en het toezicht van de raad van   bestuur.<BR><BR>De raad van bestuur stelt de jaarrekening vast en legt jaarlijks   en uiterlijk op 30 maart de jaarrekening van het voorbije jaar ter goedkeuring   voor aan de provincieraad.<BR><BR>De raad van bestuur stelt het budget vast en   legt jaarlijks en uiterlijk op 31 oktober het budget van het volgende boekjaar   ter goedkeuring voor aan de provincieraad.</P>
 
 ### ART. 237.
 
@@ -1045,6 +1177,10 @@ De kwijting bedoeld in artikel 171 brengt met zich mee dat de beslissingen van d
 § 1. De toezichthoudende overheid kan, na een schriftelijke ingebrekestelling, een of meer commissarissen gelasten zich ter plaatse te begeven om de gevraagde inlichtingen of opmerkingen in te zamelen van de provincieoverheid of om de maatregelen ten uitvoer te brengen die in rechte zijn voorgeschreven.<br /><br />De toezichthoudende overheid kan pas optreden na het verstrijken van de in de ingebrekestelling bepaalde termijn.<br /><br />§ 2. Het optreden van een of meer commissarissen gebeurt op de persoonlijke kosten van de personen die verzuimd hebben aan de ingebrekestelling gevolg te geven.<br /><br />De kosten worden ingevorderd door de financieel beheerder op zicht van een daartoe genomen besluit van de overheid die de dwangprocedure heeft ingesteld dat geldt als een door de financieel beheerder ambtshalve uit te voeren bevelschrift.
 
 ## [HOOFDSTUK II Audit (verv. decr. 6 juli 2018, art. 217, I: 3 december 2018)]
+
+### ART. 254.
+
+[§ 1 nog niet in werking]<br /><br />§ 2. Onder externe audit wordt begrepen:<br />1° de controle op de wettigheid en regelmatigheid van de handelingen van het betrokken bestuur;<br />2° de controle op de correctheid en volledigheid van de financiële bescheiden van het betrokken bestuur;<br />3° de controle van de inventarislijsten van het betrokken bestuur;<br />4° de controle op het waar en getrouw beeld van de boekhouding en de jaarrekening van het betrokken bestuur;<br />5° de evaluatie van het systeem van interne controle van het betrokken bestuur en de naleving ervan. Die evaluatie omvat het formuleren van aanbevelingen tot verbetering van de systemen van interne controle.<br /><br />[§ 2, tweede lid tot § 4: nog niet in werking]<br />
 
 ### ART. 255.
 
