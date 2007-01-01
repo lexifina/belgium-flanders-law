@@ -474,6 +474,10 @@ De duur van de in aanmerking komende diensten die de arrondissementscommissaris 
 
 Voor de vaststelling van het salaris en het bepalen van het tijdstip van de periodieke salarisverhoging wordt er alleen rekening gehouden met de nuttige anciënniteit.<br /><br />De nuttige anciënniteit is het kleinste aantal jaren van de totale geldelijke anciënniteit van een arrondissementscommissaris, dat hem recht geeft op een periodieke salarisverhoging.
 
+### ART. 94/1.
+
+De verplichte deeltijdse prestaties verricht in het kader van de stages der jongeren gepresteerd binnen de openbare sector worden met ingang van 1 januari 2007 in aanmerking genomen voor de berekening van het salaris.
+
 ## HOOFDSTUK 4 UITBETALING VAN HET SALARIS
 
 ### ART. 95.
