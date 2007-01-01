@@ -2,16 +2,16 @@
   "codex_id": 1013181,
   "title": "Ministerieel besluit van 2004-06-16 houdende toekenning van opdrachten aan IVB vzw. betreffende de controle op de indeling van geslachte varkens en volwassen runderen",
   "type": "Ministerieel besluit",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1013181/VolledigDocument?datum=2006-06-01",
-  "source_sha256": "63baf9cee2e44c553615839d308c2e5db6d186816d10e7091168b4cc8f27c198",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1013181/VolledigDocument?datum=2007-01-01",
+  "source_sha256": "dad97600a6a0f4dd5c0661750fd792e457739301a9f09af199c46157f7781a64",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1013181&param=informatie",
-  "as_of": "2006-06-01",
+  "as_of": "2007-01-01",
   "made": "2004-06-16",
   "gazette": "2004-07-05",
   "numac": 2004036063,
   "document_start": "2004-08-01",
   "document_end": "2013-06-29",
-  "in_force": "2006-06-01",
+  "in_force": "2007-01-01",
   "article_versions": 6,
-  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2007-01-01; future article versions excluded; article text as the API gives it"
 }

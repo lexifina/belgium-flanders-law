@@ -6,7 +6,9 @@ In dit besluit wordt verstaan onder:<br />1° de IVB: de Interprofessionele Vere
 
 ### ART. 2.
 
-De IVB wordt belast met de opdrachten:<br /><br />1° vermeld in artikel 13, 1°, 3°, 4°, 5°, van het BVR Runderen;<br /><br />2° vermeld in artikel 11, 1°, 3°, 4° en 5°, van het BVR Varkens.
+De IVB wordt belast met de opdrachten:<br>
+1° vermeld in artikel 13, § 1, van het BVR Runderen;<br>
+2° vermeld in artikel 11, 1°, 3°, 4° en 5°,&nbsp;van het BVR Varkens.
 
 ### ART. 3.
 
@@ -14,11 +16,11 @@ De opdrachten, vermeld in artikel 2, worden uitgevoerd in de slachthuizen, verme
 
 ### ART. 4.
 
-Onverminderd de opdrachten, vermeld in artikel 2, wordt de IVB, met toepassing van artikel 17 van het BVR Runderen en van artikel 15 van het BVR Varkens, belast met het meedelen van de volgende gegevens:<br /><br />1° samenvattende resultaten van weging en indeling aan de producenten;<br /><br />2° sommige resultaten van weging en indeling aan de bevoegde entiteit.<br /><br />De bevoegde entiteit bepaalt de frequentie, de aard en de vorm van de mededelingen, bedoeld in het eerste lid.
+Met behoud van de toepassing van de opdrachten, vermeld in artikel 2, wordt de IVB, met toepassing van artikel 17 van het BVR Runderen en van artikel 15 van het BVR Varkens, belast met het meedelen van sommige resultaten van weging en indeling aan de dienst.<br /><br />De dienst bepaalt de frequentie, de aard en de vorm van de mededelingen, vermeld in het eerste lid.<br />
 
 ### ART. 5.
 
-Vanaf de dag van de inwerkingtreding van dit besluit is het de IVB niet toegestaan:<br /><br />1° bijstand te verlenen aan die slachthuizen waarin de opdrachten, bedoeld in artikel 2, worden uitgevoerd, voor de volgende thema's:<br /><br />a) de installatie van het classificatiesysteem;<br /><br />b) de uitwerking van de procedures van autocontrole;<br /><br />2° de indeling van geslachte varkens en volwassen runderen uit te voeren in de slachthuizen, bedoeld in artikel 3.<br /><br />De bevoegde entiteit kan extra elementen aan de lijst, vermeld in het eerste lid, toevoegen.
+Het is de IVB niet toegestaan de indeling van geslachte varkens en volwassen runderen uit te voeren in de slachthuizen, vermeld in artikel 3.<br /><br />De dienst kan extra elementen toevoegen aan de lijst, vermeld in het eerste lid. <br />
 
 ### ART. 6.
 
