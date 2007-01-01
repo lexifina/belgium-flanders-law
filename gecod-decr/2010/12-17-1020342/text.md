@@ -889,6 +889,22 @@ Bij toewijzing aan titularissen van het onderwijzend personeel of aan hun tijdel
 
 ## [Onderafdeling 3. Scholen met studierichting Binnenvaart en Beperkte Kustvaart (verv. decr. 20 april 2018, art. 45, I: 1 september 2019)]
 
+### ART. 217.
+
+Deze onderafdeling is van toepassing op een door de Vlaamse Gemeenschap gefinancierde of gesubsidieerde school die binnen het studiegebied Maritieme opleidingen de optie Rijn- en binnenvaart organiseert. (216)<br />
+
+### ART. 218.
+
+Een school met de optie Rijn- en binnenvaart heeft jaarlijks recht op een forfaitaire puntenenveloppe van 605 punten. <br /><br />De Vlaamse Regering kan deze puntenenveloppe aanpassen in functie van de beschikbare begrotingskredieten. Zij houdt daarbij rekening met het aantal leerlingen dat is ingeschreven in de studierichting Rijn- en binnenvaart. (217)
+
+### ART. 219.
+
+De betrokken school wendt de puntenenveloppe, vermeld in deze onderafdeling, aan om betrekkingen op te richten in de personeelscategorie van het varend personeel en om 1 betrekking op te richten in een ambt van het ondersteunend personeel. <br /><br />De oprichting van betrekkingen in de personeelscategorie van het varend personeel is gebaseerd op een puntensysteem, waarbij aan elk ambt een aantal punten wordt gekoppeld. Dit aantal punten wordt bepaald op basis van de salarisschaal van het personeelslid dat de betrekking uitoefent. <br /><br />De Vlaamse Regering bepaalt de ambten en legt voor elk ambt de puntenwaarde vast volgens de salarisschaal. (218)
+
+### ART. 220.
+
+Het personeelslid dat in een betrekking in een ambt van het varend personeel wordt aangesteld, wordt steeds aangesteld als tijdelijk personeelslid. De bepalingen van het decreet rechtspositie personeelsleden gemeenschapsonderwijs of het decreet rechtspositie personeelsleden gesubsidieerd onderwijs, zijn van toepassing, met uitzondering van volgende bepalingen : <br />1° de betrekking is niet onderworpen aan de reglementering inzake terbeschikkingstelling wegens ontstentenis van betrekking, de reaffectatie en de wedertewerkstelling. Het schoolbestuur kan evenwel op vrijwillige basis een personeelslid aanstellen dat ter beschikking is gesteld wegens ontstentenis van betrekking. Die aanstelling wordt beschouwd als een reaffectatie of een wedertewerkstelling. Deze reaffectatie of wedertewerkstelling gebeurt steeds met instemming van het terbeschikkinggestelde personeelslid; <br />2° de bepalingen van artikelen 21 en 21bis van het decreet rechtspositie personeelsleden gemeenschapsonderwijs of artikelen 23 en 23bis van het decreet rechtspositie personeelsleden gesubsidieerd onderwijs zijn niet van toepassing; <br />3° de betrekking kan niet vacant worden verklaard. Het schoolbestuur kan in geen geval een personeelslid vast benoemen, affecteren of muteren in deze betrekking. <br /><br />De Vlaamse Regering bepaalt de nadere regeling voor de administratieve en geldelijke rechtspositie van de personeelsleden die worden aangesteld in een betrekking in een ambt van het varend personeel. (219)
+
 ## Onderafdeling 4. Topsportscholen
 
 ## Onderafdeling 5 : Onthaalonderwijs
