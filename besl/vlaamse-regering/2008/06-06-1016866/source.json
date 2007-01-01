@@ -1,0 +1,17 @@
+{
+  "codex_id": 1016866,
+  "title": "Besluit van de Vlaamse Regering van 2008-06-06 betreffende het sluiten van beheersovereenkomsten en het toekennen van vergoedingen ter uitvoering van Verordening (EG) nr. 1698/2005 van de Raad van 20 september 2005 inzake steun voor plattelandsontwikkeling",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1016866/VolledigDocument?datum=2007-01-01",
+  "source_sha256": "51e6fdc0aff98fb26221ca9eb8f32203de32f5ceb4f129af3cc61212497cba24",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1016866&param=informatie",
+  "as_of": "2007-01-01",
+  "made": "2008-06-06",
+  "gazette": "2008-06-26",
+  "numac": 2008202288,
+  "document_start": "2007-01-01",
+  "document_end": "2014-10-10",
+  "in_force": "2007-01-01",
+  "article_versions": 59,
+  "record_form": "consolidated version as in force on 2007-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
