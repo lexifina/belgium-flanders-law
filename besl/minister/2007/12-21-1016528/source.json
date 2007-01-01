@@ -1,0 +1,17 @@
+{
+  "codex_id": 1016528,
+  "title": "Ministerieel besluit van 2007-12-21 houdende de samenstelling van de technische commissie voor de brandveiligheid in de kinderdagverblijven, de initiatieven voor buitenschoolse opvang en de mini-crèches",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1016528/VolledigDocument?datum=2007-01-01",
+  "source_sha256": "baa30fc30d5336a55a8e2e67a29a641cbd32a3dd9dfcefda43fb28eb5c44ce73",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1016528&param=informatie",
+  "as_of": "2007-01-01",
+  "made": "2007-12-21",
+  "gazette": "2008-01-23",
+  "numac": 2008035057,
+  "document_start": "2007-01-01",
+  "document_end": null,
+  "in_force": "2007-01-01",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2007-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
