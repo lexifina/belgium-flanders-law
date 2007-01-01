@@ -2,16 +2,16 @@
   "codex_id": 1009205,
   "title": "Decreet van 2002-03-29 op het Vlaamse jeugdbeleid",
   "type": "Decreet",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1009205/VolledigDocument?datum=2006-06-01",
-  "source_sha256": "f7da1c9e4e5e5180eff582cc4ef97a61d9cb35e6f5e4972ddc4b7b3cc459e1b7",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1009205/VolledigDocument?datum=2007-01-01",
+  "source_sha256": "983f60bc6dcfea9986e60da3d2c8d345d94751943a03fd15536a18bf96509598",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1009205&param=informatie",
-  "as_of": "2006-06-01",
+  "as_of": "2007-01-01",
   "made": "2002-03-29",
   "gazette": "2002-06-14",
   "numac": 2002035675,
   "document_start": null,
   "document_end": "2008-12-31",
-  "in_force": "2006-06-01",
+  "in_force": "2007-01-01",
   "article_versions": 68,
-  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2007-01-01; future article versions excluded; article text as the API gives it"
 }
