@@ -1,0 +1,17 @@
+{
+  "codex_id": 1016042,
+  "title": "Besluit van de Vlaamse Regering van 2007-06-29 tot wijziging van het besluit van de Vlaamse Regering van 19 december 1996 houdende subsidieregeling van het loon en van de sociale lasten van de werknemers in de beschutte werkplaats die erkend zijn door het Vlaams Subsidieagentschap voor Werk en Sociale Economie",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1016042/VolledigDocument?datum=2007-01-01",
+  "source_sha256": "abd247cd93b2dbbd656a80f5399a75dfe663e0c0aaa7af4cc042db853d3c23c8",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1016042&param=informatie",
+  "as_of": "2007-01-01",
+  "made": "2007-06-29",
+  "gazette": "2007-08-06",
+  "numac": 2007036285,
+  "document_start": "2007-01-01",
+  "document_end": null,
+  "in_force": "2007-01-01",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2007-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
