@@ -78,7 +78,7 @@ Bij wijze van overgangsmaatregel worden voor de periode van 1 januari 2002 tot e
 
 ### ART. 17.
 
-Dit besluit treedt in werking op 1 januari 2002 en houdt op van kracht te zijn op 1 januari [2007.  <span class="reference">(verv. B.V.R. 9 december 2005, art. 1, I: 1 januari 2006)</span> ]<br /><br />(Bij wijze van overgangsmaatregel wordt de erkenning van de organisaties, die tot 31 december 2005 werden erkend als organisaties die de vrijetijdsbesteding van personen met een handicap ontwikkelen, begeleiden en bevorderen, verlengd tot en met 31 december 2006, op voorwaarde dat ze vóór 31 maart 2006 een masterplan, zoals bedoeld in artikel 4, § 2, van het besluit van de Vlaamse Regering van 3 mei 2002 tot vaststelling van de voorwaarden en modaliteiten van erkenning en subsidiëring van organisaties inzake aangepaste vrijetijdsbesteding voor personen met een handicap indienen voor het jaar 2006 en op voorwaarde dat dit masterplan wordt goedgekeurd door de administratie van het Vlaams Fonds voor Sociale Integratie van Personen met een Handicap. Zie B.V.R. 9 december 2005, B.S., 1 januari 2006, art.2)
+Dit besluit treedt in werking op 1 januari 2002 en houdt op van kracht te zijn op 1 januari 2008.
 
 ### ART. 18.
 
