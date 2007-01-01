@@ -2,16 +2,16 @@
   "codex_id": 1009141,
   "title": "Besluit van de Vlaamse Regering van 2002-03-01 betreffende de erkenning en de subsidiëring van de centra voor kinderzorg en gezinsondersteuning",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1009141/VolledigDocument?datum=2006-06-01",
-  "source_sha256": "96e1cc2567dd5fb838ec1cd071489412a33a56c82b864ece8002b0c858b55918",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1009141/VolledigDocument?datum=2007-01-01",
+  "source_sha256": "f1ae4b7677d263b0342190a5842ae3df25c426d43ac8cc3c81e706b872498c7a",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1009141&param=informatie",
-  "as_of": "2006-06-01",
+  "as_of": "2007-01-01",
   "made": "2002-03-01",
   "gazette": "2002-05-11",
   "numac": 2002035597,
   "document_start": "2002-01-01",
   "document_end": "2012-12-31",
-  "in_force": "2006-06-01",
+  "in_force": "2007-01-01",
   "article_versions": 81,
-  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2007-01-01; future article versions excluded; article text as the API gives it"
 }
