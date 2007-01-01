@@ -2,16 +2,16 @@
   "codex_id": 1011701,
   "title": "Besluit van de Vlaamse Regering van 2003-10-10 tot toekenning van steun aan kleine en middelgrote ondernemingen voor investeringen in het Vlaamse Gewest",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1011701/VolledigDocument?datum=2006-07-20",
-  "source_sha256": "2a373e85c7be66343823969e641c164f5fb5d99dcfe730856f4ac58d1783bc37",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1011701/VolledigDocument?datum=2007-01-01",
+  "source_sha256": "9836b68d190aa4417f82b6b56085564a133523a31985ff13c413831ed8eff627",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1011701&param=informatie",
-  "as_of": "2006-07-20",
+  "as_of": "2007-01-01",
   "made": "2003-10-10",
   "gazette": "2003-11-10",
   "numac": 2003201607,
   "document_start": null,
   "document_end": null,
-  "in_force": "2006-07-20",
+  "in_force": "2007-01-01",
   "article_versions": 31,
-  "record_form": "consolidated version as in force on 2006-07-20; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2007-01-01; future article versions excluded; article text as the API gives it"
 }
