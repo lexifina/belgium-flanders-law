@@ -40,7 +40,7 @@ Als de subsidieaanvraag voldoet aan de voorwaarden, vermeld in artikel 7, wordt 
 
 ### ART. 9.
 
-De subsidieaanvraag is ontvankelijk als de verklaring op eer en de papieren stavingsstukken tijdig zijn ontvangen en als uit onderzoek van de stavingsstukken blijkt dat de subsidieaanvraag [op de indieningsdatum  <span class="reference">(ing. M.B. 1 februari 2005, art. 3, I: 1 februari 2005)</span> ] voldoet aan de voorwaarden van het decreet, het besluit van de Vlaamse regering en dit besluit. [Dat betekent onder meer dat de onderneming op de indieningsdatum van de subsidieaanvraag geen achterstallige schulden bij de rijksdienst voor Sociale Zekerheid en bij de Belastingsdienst Vlaanderen inzake onroerende voorheffing heeft.  <span class="reference">(ing. M.B. 1 februari 2005, art.3, I: 1 februari 2005)</span> ]
+De subsidieaanvraag is ontvankelijk als de verklaring op eer en de papieren stavingsstukken tijdig zijn ontvangen en als uit onderzoek van de stavingsstukken blijkt dat de subsidieaanvraag op de indieningsdatum voldoet aan de voorwaarden van het decreet, het besluit van de Vlaamse regering en dit besluit. Dat betekent onder meer dat de onderneming op de indieningsdatum van de subsidieaanvraag geen achterstallige schulden bij de rijksdienst voor Sociale Zekerheid heeft.
 
 ### ART. 10.
 
@@ -76,7 +76,7 @@ De beslissing tot toekenning van de subsidie wordt schriftelijk betekend aan de 
 
 ### ART. 17.
 
-Het willig en oneigenlijk en hiërarchisch beroep tegen een beslissing kan ingediend worden binnen een termijn van vijftien kalenderdagen na verzending van de beslissing. De postdatum geldt als ontvangstdatum van het beroep.
+...
 
 ## HOOFDSTUK VI INWERKINGTREDING
 
