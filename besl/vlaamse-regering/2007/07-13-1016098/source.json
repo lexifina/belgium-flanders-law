@@ -1,0 +1,17 @@
+{
+  "codex_id": 1016098,
+  "title": "Besluit van de Vlaamse Regering van 2007-07-13 betreffende het jaarlijkse vakantieverlof van de personeelsleden, tewerkgesteld in de kinderdagverblijven van het gemeenschapsonderwijs in het Tweetalige Hoofdstedelijke Gebied Brussel",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1016098/VolledigDocument?datum=2007-01-01",
+  "source_sha256": "fb1d780aa18084a543b598037df8f73c2603f17cb530441e183dd88aa02f211b",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1016098&param=informatie",
+  "as_of": "2007-01-01",
+  "made": "2007-07-13",
+  "gazette": "2007-08-24",
+  "numac": 2007036445,
+  "document_start": "2007-01-01",
+  "document_end": null,
+  "in_force": "2007-01-01",
+  "article_versions": 5,
+  "record_form": "consolidated version as in force on 2007-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
