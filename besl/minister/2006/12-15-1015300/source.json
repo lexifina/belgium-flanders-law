@@ -2,16 +2,16 @@
   "codex_id": 1015300,
   "title": "Ministerieel besluit van 2006-12-15 houdende beëindiging van de visserij op rog in de i.c.e.s.-gebieden IIa, IV",
   "type": "Ministerieel besluit",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1015300/VolledigDocument?datum=2006-12-18",
-  "source_sha256": "9e77f5897cf3539d999c631302f1dd83d3ea63fe4e89c5ef97c50da89ebf6800",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1015300/VolledigDocument?datum=2007-01-01",
+  "source_sha256": "4a8a300fd292dc4c59be84813417477d89c8aa82a96a1b0d7dfe1496d6ef2324",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1015300&param=informatie",
-  "as_of": "2006-12-18",
+  "as_of": "2007-01-01",
   "made": "2006-12-15",
   "gazette": "2006-12-18",
   "numac": 2006037032,
   "document_start": "2006-12-18",
   "document_end": "2006-12-31",
-  "in_force": "2006-12-18",
+  "in_force": "2007-01-01",
   "article_versions": 4,
-  "record_form": "consolidated version as in force on 2006-12-18; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2007-01-01; future article versions excluded; article text as the API gives it"
 }
