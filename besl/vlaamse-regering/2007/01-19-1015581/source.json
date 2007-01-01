@@ -1,0 +1,17 @@
+{
+  "codex_id": 1015581,
+  "title": "Besluit van de Vlaamse Regering van 2007-01-19 tot wijziging van het besluit van de Vlaamse Regering van 31 maart 2006 betreffende het departement Welzijn, Volksgezondheid en Gezin, betreffende de inwerkingtreding van regelgeving tot oprichting van agentschappen in het beleidsdomein Welzijn, Volksgezondheid en Gezin en betreffende de wijziging van de regelgeving met betrekking tot het beleidsdomein",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1015581/VolledigDocument?datum=2007-01-01",
+  "source_sha256": "921768d1edc7b3031ab68fc1a5a9ab790d2477f749d9105a562784ceeb2db749",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1015581&param=informatie",
+  "as_of": "2007-01-01",
+  "made": "2007-01-19",
+  "gazette": "2007-02-09",
+  "numac": 2007035157,
+  "document_start": "2007-01-01",
+  "document_end": null,
+  "in_force": "2007-01-01",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2007-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
