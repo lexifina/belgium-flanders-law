@@ -1,0 +1,17 @@
+{
+  "codex_id": 1016960,
+  "title": "Besluit van de Vlaamse Regering van 2008-06-06 tot wijziging van het besluit van de Vlaamse Regering van 30 maart 1994 houdende vaststelling van de rechtspositieregeling van het instructiepersoneel en het technisch omkaderingspersoneel, bij arbeidsovereenkomst aangeworven bij de Vlaamse Dienst voor Arbeidsbemiddeling en Beroepsopleiding, betreffende de uitvoering van het sectoraal akkoord 2005-2007",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1016960/VolledigDocument?datum=2007-01-01",
+  "source_sha256": "7b39faf4fe7e47d41acae778b8681ba41b5cd732c0653224024daafa143cc080",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1016960&param=informatie",
+  "as_of": "2007-01-01",
+  "made": "2008-06-06",
+  "gazette": "2008-08-13",
+  "numac": 2008202749,
+  "document_start": "2007-01-01",
+  "document_end": null,
+  "in_force": "2007-01-01",
+  "article_versions": 9,
+  "record_form": "consolidated version as in force on 2007-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
