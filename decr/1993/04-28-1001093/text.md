@@ -100,7 +100,7 @@ De Vlaamse regering spreekt zich bij gemotiveerd besluit uit over de begroting o
 
 ### ART. 13.
 
-Tegen het besluit van de bestendige deputatie inzake de verdeling van verplichte uitgaven naar evenredigheid van het belang dat verschillende gemeenten erin kunnen hebben, kan de gemeenteraad beroep instellen bij de regering binnen een termijn van dertig dagen ingaande de dag na het versturen van het besluit naar de gemeenteoverheid.<br /><br />De regering spreekt zich over het beroep uit binnen een termijn van vijftig dagen ingaande de dag na het inkomen ervan en verstuurt haar besluit uiterlijk de laatste dag van deze termijn naar de bestendige deputatie en naar de gemeenteoverheid.<br /><br />Indien binnen de voormelde termijn geen besluit naar de gemeenteoverheid is verstuurd, is het besluit van de bestendige deputatie uitvoerbaar.
+...
 
 ## [AFDELING 2 BIJZONDERE BEPALINGEN MET BETREKKING TOT SOMMIGE GEMEENTEN (verv. decr. 22 december 1995, art. 49)]
 
