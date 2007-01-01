@@ -10,7 +10,7 @@ Dit decreet regelt een aangelegenheid als bedoeld in artikel 39 en de artikelen 
 
 ### ART. 2.
 
-[Ten laste van het Financieringsfonds voor Schuldafbouw en Eenmalige Investeringsuitgaven kunnen uitgaven voor stadsvernieuwing worden aangerekend.  <span class="reference">(verv. decr. 24 december 2004, art. 17, I: 1 januari 2004)</span> ]
+Lastens de algemene uitgavenbegroting van de Vlaamse Gemeenschap en het Financieringsfonds voor Schuldafbouw en Eenmalige Investeringsuitgaven kunnen uitgaven voor stadsvernieuwing worden aangerekend.
 
 ### ART. 3.
 
