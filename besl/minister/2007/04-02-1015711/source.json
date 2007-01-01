@@ -1,0 +1,17 @@
+{
+  "codex_id": 1015711,
+  "title": "Ministerieel besluit van 2007-04-02 tot wijziging van het ministerieel besluit van 25 november 2005 betreffende de vaststelling van de modaliteiten van het besluit van de Vlaamse Regering tot instelling van een bedrijfstoeslagregeling en tot vaststelling van bepaalde steunregelingen voor landbouwers en tot toepassing van de randvoorwaarden voor wat betreft de uitvoering van het landbouwbeleid",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1015711/VolledigDocument?datum=2007-01-01",
+  "source_sha256": "249ec25784bc10438cfa47aaee13f23000c24fccfb4a82683e1164d715df5175",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1015711&param=informatie",
+  "as_of": "2007-01-01",
+  "made": "2007-04-02",
+  "gazette": "2007-04-13",
+  "numac": 0,
+  "document_start": "2007-01-01",
+  "document_end": null,
+  "in_force": "2007-01-01",
+  "article_versions": 6,
+  "record_form": "consolidated version as in force on 2007-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
