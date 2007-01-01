@@ -454,7 +454,7 @@ De Vlaamse regering bepaalt de salarisschalen van de leden van het assisterend a
 
 ### ART. 96.
 
-De Vlaamse regering bepaalt de salarisschalen van de leden van het zelfstandig academisch personeel. <br /><br />Voor de graden van docent en hoofddocent kan de Vlaamse regering twee salarisschalen vastleggen. De hogere salarisschaal kan zowel worden toegekend bij een aanstelling of benoeming als bij de bevordering van een personeelslid dat reeds in dienst is. Overgang van de laagste salarisschaal naar de hogere salarisschaal van dezelfde graad is slechts mogelijk na een gunstige evaluatie van het betrokken personeelslid.
+De Vlaamse regering bepaalt de salarisschalen van de leden van het zelfstandig academisch personeel. <br /><br />Voor de graden van docent en hoofddocent kan de Vlaamse regering twee salarisschalen vastleggen. De hogere salarisschaal kan zowel worden toegekend bij een aanstelling of benoeming als bij de bevordering van een personeelslid dat reeds in dienst is. Overgang van de laagste salarisschaal naar de hogere salarisschaal van dezelfde graad is slechts mogelijk na een gunstige evaluatie van het betrokken personeelslid.<br /><br />Het universiteitsbestuur houdt bij de toekenning van de hogere salarisschaal rekening met de verworven ervaring, de doorlopen beroepscarrière en de verworven kwalificaties.
 
 ### ART. 97.
 
@@ -540,11 +540,11 @@ Benoemingen of aanstellingen in de functies waarin de personeelsformatie voorzie
 
 ### ART. 112.
 
-Onder werving wordt verstaan het aantrekken van personeelsleden na een openbare vacature en na een vergelijkende selectieprocedure. Het universiteitsbestuur kan een wervingsreserve aanleggen voor een cluster van verwante functies.<br /><br />Het vacaturebericht vermeldt tenminste de volgende gegevens:<br /><br />- de functie-inhoud;<br /><br />- de functie-eisen, inclusief specifieke diploma-eisen indien nodig;<br /><br />- de graad of de graden;<br /><br />- de omvang van de functie;<br /><br />- het vast of tijdelijk karakter;<br /><br />- de selectieprocedure.<br /><br />Het universiteitsbestuur kan de kandidaat in kwestie, afhankelijk van diens beroepservaring en aantoonbare kwaliteiten, benoemen of aanstellen in één van de graden vermeld in het vacaturebericht. In het vacaturebericht mogen ten hoogste twee opeenvolgende graden van hetzelfde niveau vermeld worden.  <span class="reference">(verv. decr. 18 mei 1999, art. III 24, I: 1 oktober 1999)</span> ]
+Onder werving wordt verstaan het aantrekken van personeelsleden na een openbare vacature en na een vergelijkende selectieprocedure. Een vacature wordt via tenminste twee openbare informatiekanalen bekendgemaakt.Het universiteitsbestuur kan een wervingsreserve aanleggen voor een cluster van verwante functies.<br /><br />Het vacaturebericht vermeldt tenminste de volgende gegevens:<br />- de functie-inhoud;<br />- de functie-eisen, inclusief specifieke diploma-eisen indien nodig;<br />- de graad of de graden;<br />- de omvang van de functie;<br />- het vast of tijdelijk karakter;<br />- de selectieprocedure.<br /><br />Het universiteitsbestuur kan de kandidaat in kwestie, afhankelijk van diens beroepservaring en aantoonbare kwaliteiten, benoemen of aanstellen in één van de graden vermeld in het vacaturebericht. In het vacaturebericht mogen ten hoogste drie opeenvolgende graden van hetzelfde niveau vermeld worden.
 
 ### ART. 113.
 
-Het vacaturebericht wordt tenminste in het Belgisch Staatsblad bekendgemaakt. [ <span class="reference">(verv. decr. 18 mei 1999, art. III 25, I: 1 oktober 1999)</span> ]
+...
 
 ### ART. 114.
 
@@ -564,7 +564,7 @@ Het universiteitsbestuur weegt bij elke selectie minstens de verworven kennis en
 
 ### ART. 117.
 
-Personeelsleden ten laste van het patrimonium van de universiteit kunnen overgeheveld worden naar een betrekking van de personeelsformatie bedoeld in afdeling 2 van dit hoofdstuk en bezoldigd ten laste van de werkingsuitkeringen van de Vlaamse Gemeenschap met behoud van hun verworven graad, salarisschaal en anciënniteit op voorwaarde dat:<br /><br />1° zij geworven werden volgens de procedure die beantwoordt aan de in artikelen 112 en 113 bepaalde wervingseisen;<br /><br />2° zij de graad, anciënniteit en salarisschaal bezitten die zij zouden bekomen hebben indien de voorgaande diensten gepresteerd werden overeenkomstig de wettelijke, decretale en reglementaire bepalingen van toepassing op het personeel ten laste van de jaarlijkse werkingsuitkeringen.<br /><br />Voor de toepassing van dit artikel moet beschouwd worden als personeelslid ten laste van het patrimonium, elk personeelslid dat verbonden is door een arbeidsovereenkomst met de universiteit, met inbegrip van het universitair ziekenhuis voor zover dit deel uitmaakt van de universitaire rechtspersoon, en gefinancierd wordt buiten de werkingsuitkeringen van de Vlaamse Gemeenschap.
+Personeelsleden ten laste van het patrimonium van de universiteit kunnen overgeheveld worden naar een betrekking van de personeelsformatie bedoeld in afdeling 2 van dit hoofdstuk en bezoldigd ten laste van de werkingsuitkeringen van de Vlaamse Gemeenschap met behoud van hun verworven graad, salarisschaal en anciënniteit op voorwaarde dat:<br />1° zij geworven werden volgens de procedure die beantwoordt aan de in artikelen 112 bepaalde wervingseisen;<br />2° zij de graad, anciënniteit en salarisschaal bezitten die zij zouden bekomen hebben indien de voorgaande diensten gepresteerd werden overeenkomstig de wettelijke, decretale en reglementaire bepalingen van toepassing op het personeel ten laste van de jaarlijkse werkingsuitkeringen.<br /><br />Voor de toepassing van dit artikel moet beschouwd worden als personeelslid ten laste van het patrimonium, elk personeelslid dat verbonden is door een arbeidsovereenkomst met de universiteit, met inbegrip van het universitair ziekenhuis voor zover dit deel uitmaakt van de universitaire rechtspersoon, en gefinancierd wordt buiten de werkingsuitkeringen van de Vlaamse Gemeenschap.
 
 ## AFDELING 4 EVALUATIE VAN HET PERSONEEL
 
@@ -668,7 +668,8 @@ De universiteiten kunnen de kosten die voortspruiten uit overeenkomsten die in h
 5. Katholieke Universiteit Brussel 177,4<br>
 6. Universiteit Gent 5.994,9<br>
 <br>
-2° voor de jaren 2002, 2003, 2004, 2005 en 2006 is het forfaitair bedrag, uitgedrukt in duizend euro, voor elke universiteit vastgesteld als volgt:
+2° voor de jaren 2002, 2003, 2004, 2005 en 2006 is het forfaitair bedrag, uitgedrukt in duizend euro, voor elke universiteit vastgesteld als volgt:<br>
+
 <table border="1" cellpadding="0" cellspacing="0" style="border-collapse:collapse">
 	<tbody>
 		<tr>
@@ -798,7 +799,8 @@ De universiteiten kunnen de kosten die voortspruiten uit overeenkomsten die in h
 
 <p>&nbsp;</p>
 <br>
-3° Voor het jaar 2007 is het forfaitair bedrag, uitgedrukt in duizend euro, voor elke universiteit vastgesteld als volgt :
+3° Voor het jaar 2007 is het forfaitair bedrag, uitgedrukt in duizend euro, voor elke universiteit vastgesteld als volgt :<br>
+
 <table border="1" cellpadding="0" cellspacing="0" style="border-collapse:collapse">
 	<tbody>
 		<tr>
@@ -823,19 +825,19 @@ De universiteiten kunnen de kosten die voortspruiten uit overeenkomsten die in h
 			<p>7. Universiteit Gent</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:113.2pt">
-			<p>192.804</p>
+			<p>193.373</p>
 
-			<p>68.202</p>
+			<p>68.403</p>
 
-			<p>72.210</p>
+			<p>72.430</p>
 
-			<p>13.845</p>
+			<p>13.887</p>
 
-			<p>4.501</p>
+			<p>4.520</p>
 
-			<p>4.785</p>
+			<p>4.800</p>
 
-			<p>150.454</p>
+			<p>150.94.</p>
 			</td>
 		</tr>
 	</tbody>
@@ -851,7 +853,7 @@ De universiteiten kunnen de kosten die voortspruiten uit overeenkomsten die in h
 5. Katholieke Universiteit Brussel 2,4<br>
 6. Universiteit Gent 214,0<br>
 <br>
-2° de Vlaamse universiteiten ontvangen voor de jaren 2002, 2003, 2004, 2005 en 2006 extra bijdragen aan werkingsuitkeringen, uitgedrukt in duizend euro:<br>
+2° de Vlaamse universiteiten ontvangen voor de jaren 2002, 2003, 2004, 2005 en 2006 extra bijdragen aan werkingsuitke-ringen, uitgedrukt in duizend euro:<br>
 <br>
 2002 2003 2004<br>
 1. Katholieke Universiteit Leuven 3.939 5.588 7.122<br>
@@ -871,7 +873,8 @@ De universiteiten kunnen de kosten die voortspruiten uit overeenkomsten die in h
 6. Katholieke Universiteit Brussel 196 196<br>
 7. Universiteit Gent 17.199 19.686<br>
 <br>
-3° De Vlaamse universiteiten ontvangen voor het jaar 2007 extra bijdragen aan werkingsuitkeringen, uitgedrukt in duizend euro :
+3° De Vlaamse universiteiten ontvangen voor het jaar 2007 extra bijdragen aan werkingsuitkeringen, uitgedrukt in duizend euro :<br>
+
 <table border="1" cellpadding="0" cellspacing="0" style="border-collapse:collapse">
 	<tbody>
 		<tr>
@@ -902,13 +905,13 @@ De universiteiten kunnen de kosten die voortspruiten uit overeenkomsten die in h
 
 			<p>3.765</p>
 
-			<p>897</p>
+			<p>1.152</p>
 
 			<p>209</p>
 
 			<p>196</p>
 
-			<p>22.086</p>
+			<p>25.390</p>
 			</td>
 		</tr>
 	</tbody>
@@ -976,166 +979,53 @@ Het aantal onderwijsbelastingseenheden van een universiteit is gelijk aan de som
 
 ### ART. 136.
 
-<p>§ 1. 1° De universiteiten, vermeld in artikel 3, 1°, 2°, 3°, 4° b) en c) en 6°, ontvangen voor het jaar 2001 voor de uitgaven die voortvloeien uit de wettelijke en conventionele werkgeversbijdragen en -lasten, met inbegrip van de door de instellingen gefinancierde aanvullende pensioenen, om een gelijkwaardig statuut te verzekeren als voor de universiteiten, vermeld in artikel 3, 4° a) en 5°, de volgende bedragen, uitgedrukt in miljoen Belgische frank:<br>
-</p>
+§ 1. 1° De universiteiten, vermeld in artikel 3, 1°, 2°, 3°, 4° b) en c) en 6°, ontvangen voor het jaar 2001 voor de uitgaven die voortvloeien uit de wettelijke en conventionele werkgeversbijdragen en -lasten, met inbegrip van de door de instellingen gefinancierde aanvullende pensioenen, om een gelijkwaardig statuut te verzekeren als voor de universiteiten, vermeld in artikel 3, 4° a) en 5°, de volgende bedragen, uitgedrukt in miljoen Belgische frank:<br>
+1. Katholieke Universiteit Leuven 335,1<br>
+2. Vrije Universiteit Brussel 122,8<br>
+3. Universiteit Antwerpen 43,6<br>
+4. Limburgs Universitair Centrum 5,5<br>
+5. Katholieke Universiteit Brussel 8,3<br>
+<br>
+2° De universiteiten, vermeld in artikel 3, 1°, 2°, b), 3°, 4°, b) en c), en 6°, ontvangen voor de jaren 2005 en 2006 voor de uitgaven die voortvloeien uit de wettelijke en conventionele werkgeversbijdragen en -lasten, met inbegrip van de door de instellingen gefinancierde aanvullende pensioenen, om een gelijkwaardig statuut te verzekeren als voor de universiteiten, vermeld in artikel 3, 2°, a), 4°, a), en 5°, de volgende bedragen, uitgedrukt in duizend euro:<br>
+<br>
+2005 2006<br>
+1. Katholieke Universiteit Leuven 8.315 8.331<br>
+2. Vrije Universiteit Brussel 3.047 3.053<br>
+3. Universiteit Antwerpen 347 190<br>
+4. Limburgs Universitair Centrum 136 136<br>
+5. Katholieke Universiteit Brussel 206 206<br>
+<br>
+3° De universiteiten, vermeld in artikel 3, 1°, 2°, b) , 3°, 4°, b) en c), en 6°, ontvangen voor het jaar 2007 voor de uitgaven die voortvloeien uit de wettelijke en conventionele werkgeversbijdragen en -lasten, met inbegrip van de door de instellingen gefinancierde aanvullende pensioenen, om een gelijkwaardig statuut te verzekeren als voor de universiteiten, vermeld in artikel 3, 2°, a), 4° a), en 5°, de volgende bedragen, uitgedrukt in duizend euro :<br>
 
 <table border="1" cellpadding="0" cellspacing="0" style="border-collapse:collapse">
 	<tbody>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; height:14.2pt; width:182.1pt">
-			<p>1. Katholieke Universiteit Leuven</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; height:14.2pt; width:71.25pt">
-			<p>335,1</p>
+			<td colspan="2" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:460.6pt">
+			<p>2007</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; width:182.1pt">
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:347.4pt">
+			<p>1.Katholieke Universiteit Leuven</p>
+
 			<p>2. Vrije Universiteit Brussel</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; width:71.25pt">
-			<p>122,8</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; width:182.1pt">
+
 			<p>3. Universiteit Antwerpen</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; width:71.25pt">
-			<p>43,6</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; width:182.1pt">
-			<p>4. Limburgs Universitair Centrum</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; width:71.25pt">
-			<p>5,5</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; width:182.1pt">
+
+			<p>4. Universiteit Hasselt</p>
+
 			<p>5. Katholieke Universiteit Brussel</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; width:71.25pt">
-			<p>8,3</p>
-			</td>
-		</tr>
-	</tbody>
-</table>
 
-<p>&nbsp;</p>
-
-<p>&nbsp;</p>
-
-<p>2° De universiteiten, vermeld in artikel 3, 1°, 2°, b), 3°, 4°, b) en c), en 6°, ontvangen voor de jaren 2005 en 2006 voor de uitgaven die voortvloeien uit de wettelijke en conventionele werkgeversbijdragen en -lasten, met inbegrip van de door de instellingen gefinancierde aanvullende pensioenen, om een gelijkwaardig statuut te verzekeren als voor de universiteiten, vermeld in artikel 3, 2°, a), 4°, a), en 5°, de volgende bedragen, uitgedrukt in duizend euro:<br>
-</p>
-
-<table border="1" cellpadding="0" cellspacing="0" style="border-collapse:collapse">
-	<tbody>
-		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; height:14.2pt; width:182.1pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; height:14.2pt; width:71.25pt">
-			<p>2005</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; height:14.2pt; width:71.25pt">
-			<p>2006</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; width:182.1pt">
-			<p>1. Katholieke Universiteit Leuven</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; width:71.25pt">
-			<p>8.315</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; width:71.25pt">
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:113.2pt">
 			<p>8.331</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; width:182.1pt">
-			<p>2. Vrije Universiteit Brussel</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; width:71.25pt">
-			<p>3.047</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; width:71.25pt">
+
 			<p>3.053</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; width:182.1pt">
-			<p>3. Universiteit Antwerpen</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; width:71.25pt">
-			<p>347</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; width:71.25pt">
+
 			<p>190</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; width:182.1pt">
-			<p>4. Limburgs Universitair Centrum</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; width:71.25pt">
+
 			<p>136</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; width:71.25pt">
-			<p>136</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; width:182.1pt">
-			<p>5. Katholieke Universiteit Brussel</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; width:71.25pt">
-			<p>206</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; width:71.25pt">
-			<p>206</p>
-			</td>
-		</tr>
-	</tbody>
-</table>
-
-<p>&nbsp;</p>
-
-<p>&nbsp;</p>
-
-<p>3° De universiteiten, vermeld in artikel 3, 1°, 2°, b) , 3°, 4°, b) en c), en 6°, ontvangen voor het jaar 2007 voor de uitgaven die voortvloeien uit de wettelijke en conventionele werkgeversbijdragen en -lasten, met inbegrip van de door de instellingen gefinancierde aanvullende pensioenen, om een gelijkwaardig statuut te verzekeren als voor de universiteiten, vermeld in artikel 3, 2°, a), 4° a), en 5°, de volgende bedragen, uitgedrukt in duizend euro :<br>
-</p>
-
-<table border="1" cellpadding="0" cellspacing="0" style="border-collapse:collapse">
-	<tbody>
-		<tr>
-			<td colspan="2" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:460.6pt">
-			<p>2007</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:347.4pt">
-			<p>1. Katholieke Universiteit Leuven</p>
-
-			<p>2. Vrije Universiteit Brussel</p>
-
-			<p>3. Universiteit Antwerpen</p>
-
-			<p>4. Universiteit Hasselt</p>
-
-			<p>5. Katholieke Universiteit Brussel</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:113.2pt">
-			<p>9.993</p>
-
-			<p>3.592</p>
-
-			<p>492</p>
-
-			<p>147</p>
 
 			<p>206</p>
 			</td>
@@ -1144,203 +1034,33 @@ Het aantal onderwijsbelastingseenheden van een universiteit is gelijk aan de som
 </table>
 
 <p>&nbsp;</p>
-
-<p>&nbsp;</p>
-
-<p>§ 2. 1° De Vlaamse universiteiten ontvangen voor het jaar 2001 de volgende aanvullende wettelijke en conventionele werkgeversbijdragen, uitgedrukt in miljoen Belgische frank:<br>
-</p>
-
-<table border="1" cellpadding="0" cellspacing="0" style="border-collapse:collapse">
-	<tbody>
-		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; height:14.2pt; width:182.1pt">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; height:14.2pt; width:71.25pt">
-			<p>2001</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; width:182.1pt">
-			<p>1. Katholieke Universiteit Leuven</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; width:71.25pt">
-			<p>35,7</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; width:182.1pt">
-			<p>2. Vrije Universiteit Brussel</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; width:71.25pt">
-			<p>10,8</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; width:182.1pt">
-			<p>3. Universiteit Antwerpen</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; width:71.25pt">
-			<p>2,7</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; width:182.1pt">
-			<p>4. Limburgs Universitair Centrum</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; width:71.25pt">
-			<p>0,2</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; width:182.1pt">
-			<p>5. Katholieke Universiteit Brussel</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; width:71.25pt">
-			<p>0,7</p>
-			</td>
-		</tr>
-	</tbody>
-</table>
-
-<p>&nbsp;</p>
-
-<p>&nbsp;</p>
-
-<p>2° De Vlaamse universiteiten ontvangen voor de jaren 2002 tot en met 2006 de volgende aanvullende wettelijke en conventionele werkgeversbijdragen, uitgedrukt in duizend euro:<br>
-</p>
-
-<table border="1" cellpadding="0" cellspacing="0" style="border-collapse:collapse">
-	<tbody>
-		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; height:14.2pt; width:167.75pt">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; height:14.2pt; width:65.2pt">
-			<p>2002</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; height:14.2pt; width:65.2pt">
-			<p>2003</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; height:14.2pt; width:65.2pt">
-			<p>2004</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; height:14.2pt; width:65.2pt">
-			<p>2005</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; height:14.2pt; width:65.2pt">
-			<p>2006</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; width:167.75pt">
-			<p>1. Katholieke Universiteit Leuven</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; width:65.2pt">
-			<p>1.768</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; width:65.2pt">
-			<p>2.596</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; width:65.2pt">
-			<p>3.109</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; width:65.2pt">
-			<p>3.109</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; width:65.2pt">
-			<p>3.109</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; width:167.75pt">
-			<p>2. Vrije Universiteit Brussel</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; width:65.2pt">
-			<p>536</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; width:65.2pt">
-			<p>764</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; width:65.2pt">
-			<p>840</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; width:65.2pt">
-			<p>840</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; width:65.2pt">
-			<p>840</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; width:167.75pt">
-			<p>3. Universiteit Antwerpen</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; width:65.2pt">
-			<p>134</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; width:65.2pt">
-			<p>185</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; width:65.2pt">
-			<p>292</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; width:65.2pt">
-			<p>93</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; width:65.2pt">
-			<p>51</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; width:167.75pt">
-			<p>4. Limburgs Universitair Centrum</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; width:65.2pt">
-			<p>10</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; width:65.2pt">
-			<p>20</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; width:65.2pt">
-			<p>32</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; width:65.2pt">
-			<p>32</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; width:65.2pt">
-			<p>32</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; width:167.75pt">
-			<p>5. Katholieke Universiteit Brussel</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; width:65.2pt">
-			<p>35</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; width:65.2pt">
-			<p>58</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; width:65.2pt">
-			<p>63</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; width:65.2pt">
-			<p>63</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; width:65.2pt">
-			<p>63</p>
-			</td>
-		</tr>
-	</tbody>
-</table>
-
-<p>&nbsp;</p>
-
-<p>&nbsp;</p>
-
-<p>3° De Vlaamse universiteiten ontvangen voor het jaar 2007 de volgende aanvullende wettelijke en conventionele werkgeversbijdragen, uitgedrukt in duizend euro :<br>
-</p>
+<br>
+§ 2. 1° De Vlaamse universiteiten ontvangen voor het jaar 2001 de volgende aanvullende wettelijke en conventionele werkgeversbijdragen, uitgedrukt in miljoen Belgische frank:<br>
+<br>
+2001<br>
+1. Katholieke Universiteit Leuven 35,7<br>
+2. Vrije Universiteit Brussel 10,8<br>
+3. Universiteit Antwerpen 2,7<br>
+4. Limburgs Universitair Centrum 0,2<br>
+5. Katholieke Universiteit Brussel 0,7<br>
+<br>
+2° De Vlaamse universiteiten ontvangen voor de jaren 2002 tot en met 2006 de volgende aanvullende wettelijke en conventionele werkgeversbijdragen, uitgedrukt in duizend euro:<br>
+<br>
+2002 2003 2004<br>
+1. Katholieke Universiteit Leuven 1.768 2.596 3.109<br>
+2. Vrije Universiteit Brussel 536 764 840<br>
+3. Universiteit Antwerpen 134 185 292<br>
+4. Limburgs Universitair Centrum 10 20 32<br>
+5. Katholieke Universiteit Brussel 35 58 63<br>
+<br>
+2005 2006<br>
+1. Katholieke Universiteit Leuven 3.109 3.109<br>
+2. Vrije Universiteit Brussel 840 840<br>
+3. Universiteit Antwerpen 93 51<br>
+4. Limburgs Universitair Centrum 32 32<br>
+5. Katholieke Universiteit Brussel 63 63<br>
+<br>
+3° De Vlaamse universiteiten ontvangen voor het jaar 2007 de volgende aanvullende wettelijke en conventionele werkgeversbijdragen, uitgedrukt in duizend euro :<br>
 
 <table border="1" cellpadding="0" cellspacing="0" style="border-collapse:collapse">
 	<tbody>
@@ -1379,10 +1099,8 @@ Het aantal onderwijsbelastingseenheden van een universiteit is gelijk aan de som
 </table>
 
 <p>&nbsp;</p>
-
-<p>&nbsp;</p>
-
-<p>§ 3. De in §§ 1 en 2 vermelde bedragen worden vanaf begrotingsjaar 2002 geïndexeerd volgens de indexeringsformule L1/L0 zoals bepaald in artikel 130, § 6.</p>
+<br>
+§ 3. De in §§ 1 en 2 vermelde bedragen worden vanaf begrotingsjaar 2002 geïndexeerd volgens de indexeringsformule L1/L0 zoals bepaald in artikel 130, § 6.
 
 ## AFDELING 2 FINANCIERING VAN DE INVESTERINGEN VAN DE UNIVERSITEITEN
 
