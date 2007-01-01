@@ -216,7 +216,7 @@ Na advies van de bezwaarcommissie, bedoeld in artikel 42, kan het Fonds een gebr
 
 ### ART. 36.
 
-[Een door de minister aangewezen controleorgaan controleert in opdracht van het Fonds de indica-tiestelling van een gebruiker die een tenlasteneming ontvangt. De minister kan daarvoor de nadere regels bepalen.  <span class="reference">(verv. B.V.R. 2 april 2004, art. 2, I: 1 april 2004)</span> ]
+Een door de minister aangewezen controleorgaan kan de graad van zorgbehoevendheid, vastgesteld aan de hand van een indicatiestelling of het attest, bij een gebruiker die een tenlasteneming ontvangt voor mantel- en thuiszorg, op eigen initiatief controleren en is daartoe gehouden telkens als het Fonds dat vraagt. In voorkomend geval zal het controleorgaan een nieuwe indicatiestelling uitvoeren.
 
 ### ART. 37.
 
@@ -268,7 +268,7 @@ De betaling gebeurt maandelijks.  <span class="reference">(ing. B.V.R. 13 decemb
 
 ### ART. 44quater.
 
-[De zorgkas betaalt de tenlasteneming voor residentiële zorg uit via overschrijving op het rekeningnummer van de gebruiker of in contanten aan de gebruiker, op basis van door de minister te bepalen attesten die het verblijf in de residentiële zorgvoorziening aantonen. De minister kan nadere regels bepalen met betrekking tot de bewijsvoering waaraan de gebruiker op het vlak van zorgbehoevendheid en verblijf in de residentiële zorgvoorziening moet voldoen (ing. BVR 13 december 2002, art. 21, I: 1 januari 2003)].
+De zorgkas betaalt de tenlasteneming voor residentiële zorg uit via overschrijving op het rekeningnummer van de gebruiker, op basis van door de minister te bepalen attesten die het verblijf in de residentiële zorgvoorziening aantonen. Als de gebruiker of zijn wettelijke ver tegenwoordiger er zelf om verzoekt, betaalt de zorgkas in contanten aan de gebruiker. De minister kan nadere regels bepalen met betrekking tot de bewijsvoering waaraan de gebruiker op het vlak van zorgbehoevendheid en verblijf in de residentiële zorgvoorziening moet voldoen.
 
 ### ART. 44quinquies.
 
@@ -278,7 +278,7 @@ De betaling van de tenlasteneming voor residentiële zorg gebeurt maandelijks, o
 
 ### ART. 44sexies.
 
-§ 1. Onder voorbehoud van de toepassing van artikel 57 en 58 van de wetten op de Rijks-comptabiliteit, gecoördineerd op 17 juli 1991, kan de minister, als een zorgkas niet langer voldoet aan één of meer voorwaarden zoals bepaald in hoofdstuk II van het besluit van de Vlaamse regering van 17 juli 2000 betreffende de organisatie, het beheer, de werking en de erkenning van zorgkassen en betreffende de controle op zorgkassen, als bij een zorgkas subsidiefraude wordt vastgesteld of als ze niet meewerkt aan de uitoefening van het toezicht, de subsidies verlagen, de subsidiëring geheel of gedeeltelijk stopzetten voor een door hem te bepalen termijn, of de reeds vereffende subsidies geheel of gedeeltelijk terugvorderen voor een door hem te bepalen termijn. De minister kan nadere regels bepalen betreffende de verlaging van de subsidies, de stopzetting van de subsidiëring of de terugvordering van reeds vereffende subsidies.<br /><br />Het voornemen van de minister wordt door het Fonds aan de zorgkas verzonden met een aangetekende brief, waarin de mogelijkheid en de voorwaarden om een bezwaarschrift in te dienen worden vermeld.<br /><br />Dit voornemen kan gepaard gaan met de verzending van een voornemen tot intrekking van de erkenning.<br /><br />§ 2. Op straffe van niet-ontvankelijkheid kan de zorgkas tot uiterlijk 45 dagen na ontvangst van het voornemen tot verlaging van de subsidies, tot stopzetting van de subsidiëring of tot terugvordering van de subsidies, hiertegen met een aangetekende brief een gemotiveerd bezwaarschrift indienen bij het Fonds. Ze kan daarin uitdrukkelijk vragen om te worden gehoord.<br /><br />In voorkomend geval zal de minister binnen zestig dagen na ontvangst van dit bezwaarschrift zijn beslissing intrekken of bevestigen.<br /><br />Als de zorgkas geen bezwaarschrift heeft ingediend binnen de gestelde termijn of als de minister zijn beslissing binnen de gestelde termijn heeft bevestigd, wordt de subsidiëring verlaagd, geheel of gedeeltelijk stopgezet of worden de subsidies geheel of gedeeltelijk teruggevorderd.<br /><br />Als de minister zijn beslissing intrekt of als hij zijn beslissing binnen de gestelde termijn niet bevestigt, wordt de subsi-diëring voortgezet of blijven de subsidies behouden.  <span class="reference">(ing. B.V.R. 13 december 2002, art. 22, I: 1 januari 2003)</span> ]
+...
 
 ## HOOFDSTUK VI SLOTBEPALINGEN
 
