@@ -4,6 +4,132 @@
 
 De Vlaamse Regering,<br /><br />Gelet op het decreet van 12 juni 1991 betreffende de universiteiten in de Vlaamse Gemeenschap, inzonderheid op artikel 168;<br /><br />Gelet op het besluit van de Vlaamse Regering van 8 september 2000 betreffende de financiering van de Bijzondere Onderzoeksfondsen aan de universiteiten in de Vlaamse Gemeenschap, gewijzigd bij het besluit van de Vlaamse Regering van 24 januari 2003;<br /><br />Gelet op het advies van de Inspectie van Financiën, gegeven op 6 juni 2006;<br /><br />Gelet op het akkoord van de Vlaamse minister, bevoegd voor de begroting, gegeven op 26 juni 2006; <br /><br />Gelet op het advies van de Vlaamse Raad voor Wetenschapsbeleid, gegeven op 22 juni 2006;<br /><br />Gelet op het protocol nr. 14 van 19 augustus 2006 houdende de conclusies van de onderhandelingen die gevoerd werden in de vergadering van het Vlaams onderhandelingscomité voor het hoger onderwijs;<br /><br />Gelet op het advies nr. 41.510/1 van de Raad van State, gegeven op 9 november 2006, met toepassing van artikel 84, § 1, eerste lid, 1°, van de gecoördineerde wetten op de Raad van State;<br /><br />Op voorstel van de Vlaamse minister van Economie, Ondernemen, Wetenschap, Innovatie en Buitenlandse Handel;<br /><br />Na beraadslaging,<br /><br />Besluit: <br /><br />
 
+### ART. 1.
+
+<p>In artikel 3 van het besluit van de Vlaamse Regering van 8 september 2000 betreffende de financiering van de Bijzondere Onderzoeksfondsen aan de universiteiten in de Vlaamse Gemeenschap, gewijzigd bij het besluit van de Vlaamse Regering van 24 januari 2003, worden de volgende wijzigingen aangebracht:<br>
+<br>
+1° in § 1 worden de woorden « voor de begrotingsjaren 2003 tot en met 2006 » vervangen door de woorden « vanaf het begrotingsjaar 2003 »;<br>
+<br>
+2° § 3 wordt vervangen door wat volgt:<br>
+« § 3. Onderdeel A van de verdeelsleutel is het gewogen gemiddelde van de volgende vier elementen:<br>
+1° het procentueel aandeel van iedere universiteit, uitgezonderd de Katholieke Universiteit Brussel, in het aantal bachelor- en initiële masterdiploma's, afgeleverd in een financierbare studierichting tijdens de in § 4 gedefinieerde vier afgesloten academiejaren. Diploma's die overeenkomstig artikel 131 van het decreet van 12 juni 1991 betreffende de universiteiten in de Vlaamse Gemeenschap behoren tot de financieringsgroep A krijgen wegingsfactor één, diploma's behorend tot de financieringsgroep B krijgen wegingsfactor twee, en diploma's behorend tot de financieringsgroep C krijgen wegingsfactor drie;<br>
+2° het procentuele aandeel van iedere universiteit, uitgezonderd de Katholieke Universiteit Brussel in het aantal doctoraatsdiploma's die tijdens de in § 4 gedefinieerde vier afgesloten academiejaren werden afgeleverd; op deze diploma's wordt dezelfde wegingsfactor toegepast als deze vermeld onder 1° van deze paragraaf;<br>
+3° het procentuele aandeel van iedere universiteit, uitgezonderd de Katholieke Universiteit Brussel, in de jaarlijkse werkingsuitkeringen die overeenkomstig artikel 130 van hetzelfde decreet van 12 juni 1991 werden toegekend tijdens de in § 4 gedefinieerde vier kalenderjaren welke die aan het begrotingsjaar voorafgaan;<br>
+4° het procentueel aandeel van elke universiteit, uitgezonderd de Katholieke Universiteit Brussel, in het aantal eerste aanstellingen in een graad van het zelfstandig academisch personeel van :<br>
+a) personen die promoveerden tot doctor aan een andere dan de aanstellende universiteit;<br>
+b) personen die aan de aanstellende universiteit promoveerden tot doctor, maar gedurende de laatste vijf jaar ten minste drie jaar geen deel uitmaakten van het personeel bij deze of een andere universiteit, een universitair ziekenhuis, een hogeschool, een publieke onderzoeksorganisatie of een onderzoeksorganisatie die structurele financiering krijgt vanuit de Vlaamse begroting;<br>
+c) personen van het vrouwelijk geslacht.<br>
+Onder eerste aanstelling als bedoeld in het eerste lid wordt verstaan de indiensttreding aan de universiteit in een van de graden van het zelfstandig academisch personeel conform Hoofdstuk IV, Afdeling 3 van het decreet van 12 juni 1991 betreffende de universiteiten in de Vlaamse Gemeenschap.<br>
+Bij de bepaling van het aantal aanstellingen :<br>
+1° wordt geen rekening gehouden met dubbeltellingen, in de zin dat een persoon die bij de aanstelling aan een universiteit aan twee van de onder het eerste lid, 4°, bedoelde criteria voldoet, eenmaal wordt geteld;<br>
+2° wordt de Universiteit Antwerpen als één universiteit beschouwd;<br>
+3° worden slechts aanstellingen van tenminste 80% aan de universiteit in rekening genomen, inclusief gemengde aanstellingen aan enerzijds de universiteit en anderzijds :<br>
+a) het daaraan verbonden academisch ziekenhuis; voor de toepassing van deze bepaling wordt het Universitair Ziekenhuis Gent c.q. het Universitair Ziekenhuis Antwerpen beschouwd als verbonden met de Universiteit Gent c.q. de Universiteit Antwerpen;<br>
+b) het Fonds voor Wetenschappelijk Onderzoek-Vlaanderen;<br>
+c) het Instituut voor de Aanmoediging van Innovatie door Wetenschap en Technologie in Vlaanderen;<br>
+d) de strategische onderzoekscentra IBBT, IMEC en VIB.<br>
+Om de weging te verrichten worden op de elementen, bedoeld in het eerste lid, volgende factoren toegepast:</p>
+
+<table border="1" cellpadding="0" cellspacing="0" style="border-collapse:collapse">
+	<tbody>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:122.2pt">
+			<p>Element/jaar<!--?xml:namespace         prefix = o ns = "urn:schemas-microsoft-com:office:office"         /--></p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:93.2pt">
+			<p>2007</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:96pt">
+			<p>2008</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:177.5pt">
+			<p>2009 en volgende jaren</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:122.2pt">
+			<p>1ste element</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:93.2pt">
+			<p>0.35</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:96pt">
+			<p>0.35</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:177.5pt">
+			<p>0.35</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:122.2pt">
+			<p>2<sup>de</sup> element</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:93.2pt">
+			<p>0.50</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:96pt">
+			<p>0.50</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:177.5pt">
+			<p>0.50</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:122.2pt">
+			<p>3<sup>de</sup> element</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:93.2pt">
+			<p>0.13</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:96pt">
+			<p>0.11</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:177.5pt">
+			<p>0.09</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:122.2pt">
+			<p>4<sup>de</sup> element</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:93.2pt">
+			<p>0.02</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:96pt">
+			<p>0.04</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:177.5pt">
+			<p>0.06</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p>Het aandeel van onderdeel A dat elke universiteit, uitgezonderd de Katholieke Universiteit Brussel ontvangt, wordt berekend aan de hand van de volgende formule:<br>
+Au = g1 x TCDu / ?i(TCDi) + g2 x Du / ?iDi + g3 x Wu / ?i(Wi) + g4 x Pu / ?i(Pi),<br>
+waarbij:<br>
+Au : het procentuele aandeel van het te verdelen bedrag dat gaat naar universiteit u;<br>
+TCDi : het totaal aantal bachelor- en initiële masterdiploma's van universiteit i, gewogen;<br>
+Di : het totaal aantal doctoraten van universiteit i, gewogen;<br>
+Wi : de werkingsuitkeringen van universiteit i;<br>
+Pi : de personeelsaantallen vermeld in het vierde element van universiteit i;<br>
+g1, g2, g3, g4 : gewichten vermeld in bovenstaande tabel voor elk van de vier elementen;<br>
+de sommatie i loopt over de universiteiten, uitgezonderd de Katholieke Universiteit Brussel. »;<br>
+<br>
+3° aan § 4 wordt een tweede lid toegevoegd, dat luidt als volgt :<br>
+« Voor het vaststellen van het aantal aanstellingen als bedoeld in § 3, wordt een glijdend tijdsvenster genomen van het begrotingsjaar (t-6) tot en met (t-2) voorafgaand aan het begrotingsjaar t. »;<br>
+<br>
+4° in § 11 worden de woorden « voor de jaren 2003 tot en met 2006 » vervangen door de woorden « vanaf het jaar 2003 »;<br>
+<br>
+5° in § 12 worden de woorden « het aantal tweede cyclusdiploma's » vervangen door de woorden « het aantal bachelor en initiële masterdiploma's » en worden de woorden « en het aantal doctoraatsdiploma's » vervangen door de woorden « ,het aantal doctoraatsdiploma's en de gegevens over het aantal eerste aanstellingen in een graad van het zelfstandig academisch personeel vermeld in § 3, 4° »;<br>
+<br>
+6° in § 13 worden de woorden « overeenkomstig het besluit van de Vlaamse Regering van 23 februari 2001 houdende de regeling van de procedure en de voorwaarden van erkenning en subsidiëring van de steunpunten voor beleidsrelevant onderzoek » vervangen door de woorden « overeenkomstig het besluit van de Vlaamse Regering van 15 september 2006 betreffende de steunpunten voor beleidsrelevant onderzoek ».<br>
+&nbsp;</p>
+
 ### ART. 2.
 
 In artikel 4, § 2, van hetzelfde besluit, worden de woorden « artikel 2, § 3 van dit besluit » vervangen door de woorden « artikel 2, § 2 ».<br /><br />
