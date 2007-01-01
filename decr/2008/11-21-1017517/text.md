@@ -76,6 +76,10 @@ De ambtenaar die van het federale ministerie Middenstand en Landbouw werd overge
 
 ## HOOFDSTUK XVIII Herculesstichting
 
+### ART. 63.
+
+In artikel VI.9.9., § 1, van het decreet van 19 maart 2004 betreffende de rechtspositieregeling van de student, de medezeggenschap in het hoger onderwijs, de integratie van bepaalde afdelingen van het hoger onderwijs voor sociale promotie in de hogescholen en de begeleiding van de herstructurering van het hoger onderwijs in Vlaanderen wordt het laatste lid van vervangen door wat volgt :<br />« De Herculesstichting is een privaatrechtelijk vormgegeven extern verzelfstandigd agentschap, als vermeld in artikel 29 van het kaderdecreet Bestuurlijk Beleid van 18 juli 2003. Voor wat begroting en boekhouding betreft, wordt de stichting onderworpen aan de regels die van toepassing zijn voor de publiekrechtelijke instellingen die afhangen van de Vlaamse Gemeenschap of het Vlaamse Gewest. De Vlaamse Regering bepaalt tot welk homogeen beleidsdomein de Herculesstichting behoort. ».<br /><br />
+
 ## HOOFDSTUK XIX Sociaal-Cultureel Volwassenenwerk
 
 ## HOOFDSTUK XX Uitleendienst kampeermateriaal en jeugdverblijfcentra
