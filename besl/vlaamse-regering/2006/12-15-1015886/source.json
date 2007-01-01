@@ -1,0 +1,17 @@
+{
+  "codex_id": 1015886,
+  "title": "Besluit van de Vlaamse Regering van 2006-12-15 tot aanpassing van de regelgeving in de sector van het agentschap Jongerenwelzijn in het kader van het project beter bestuurlijk beleid",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1015886/VolledigDocument?datum=2007-01-01",
+  "source_sha256": "318436cc95eebe45cd3648a773e8d55492208e1a7a8eb46606ba4026a83ab7cb",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1015886&param=informatie",
+  "as_of": "2007-01-01",
+  "made": "2006-12-15",
+  "gazette": "2007-06-26",
+  "numac": 2007035852,
+  "document_start": "2007-01-01",
+  "document_end": null,
+  "in_force": "2007-01-01",
+  "article_versions": 21,
+  "record_form": "consolidated version as in force on 2007-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
