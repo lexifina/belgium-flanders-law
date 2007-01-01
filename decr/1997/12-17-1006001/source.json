@@ -2,16 +2,16 @@
   "codex_id": 1006001,
   "title": "Decreet van 1997-12-17 betreffende de rustpensioenen toegekend aan de vastbenoemde en tot de stage toegelaten personeelsleden van de Vlaamse Maatschappij voor Watervoorziening en betreffende de overlevingspensioenen toegekend aan de rechtverkrijgenden van die personeelsleden",
   "type": "Decreet",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1006001/VolledigDocument?datum=2006-06-01",
-  "source_sha256": "de577bf49ceade079d30dead8e2e89a170a21bd9fbc55c82ca25128b376d0c8d",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1006001/VolledigDocument?datum=2007-01-01",
+  "source_sha256": "80b281f408403e0ed954869e34239715ba12fed1f6b066f1e8940a5693cc0cc7",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1006001&param=informatie",
-  "as_of": "2006-06-01",
+  "as_of": "2007-01-01",
   "made": "1997-12-17",
   "gazette": "1998-02-25",
   "numac": 1998035223,
   "document_start": "1987-01-01",
   "document_end": null,
-  "in_force": "2006-06-01",
-  "article_versions": 13,
-  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "in_force": "2007-01-01",
+  "article_versions": 14,
+  "record_form": "consolidated version as in force on 2007-01-01; future article versions excluded; article text as the API gives it"
 }

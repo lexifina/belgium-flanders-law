@@ -16,6 +16,10 @@ De Vlaamse Maatschappij voor Watervoorziening verleent een rustpensioen aan haar
 
 De in artikel 2 bedoelde pensioenen worden toegekend onder de voorwaarden en op de wijze bepaald in de pensioenregeling die van toepassing is en zal zijn op de ambtenaren van het federale bestuur van de Staat, behoudens de afwijkingen opgenomen in dit decreet.
 
+### ART. 3/1.
+
+De perequatie van de pensioenen, vermeld in artikel 2, verloopt op dezelfde wijze als is voorgeschreven in artikel 12 van de wet van 9 juli 1969 tot wijziging en aanvulling van de wetgeving betreffende de rust- en overlevingspensioenen van het personeel van de openbare sector. <br /><br />De pensioenen, vermeld in artikel 2, worden voor de vaststelling en de berekening van hun perequatie verbonden aan de perequatiekorf, vermeld in artikel 12, § 3, 3°, van dezelfde wet.
+
 ### ART. 4.
 
 Voor de berekening van het rustpensioen worden de diensten en de ermee gelijkgestelde perioden bij de vroegere Nationale Maatschappij der Waterleidingen, de Vlaamse Maatschappij voor Watervoorziening of een door hen overgenomen waterleidingsdienst in aanmerking genomen voor 1/55e per jaar.<br /><br />[De restructuratiebonificatie, voorzien in de rechtspositieregeling van de personeelsleden van de Vlaamse Maatschappij voor Watervoorziening, wordt in aanmerking genomen voor de vaststelling van de referentiewedde die als grondslag dient voor de berekening van het pensioen.  <span class="reference">(ing. decr. 4 april 2003, art. 2, I: 1 januari 1999)</span> ]<br /><br />De bevoegdheden die in de pensioenregeling voor de ambtenaren van het federale bestuur van de Staat toegewezen zijn aan de Administratieve Gezondheidsdienst worden ten aanzien van het personeel van de Vlaamse Maatschappij voor Watervoorziening uitgeoefend door een geneeskundige dienst, aangesteld door de raad van bestuur van de Vlaamse Maatschappij voor Watervoorziening.
