@@ -14,7 +14,7 @@ Voor de toepassing van dit besluit wordt verstaan onder :<br />1° dagmeter : el
 
 ### ART. 3.
 
-In overeenstemming met het Technisch reglement, zoals bedoeld in artikel 8 van het Elektriciteitsdecreet, bepaalt de netbeheerder de tijdstippen waarop de omschakeling van de dagmeter naar de nachtmeter, en omgekeerd, gebeurt. <br />
+In overeenstemming met het Technisch reglement, zoals bedoeld in artikel 8 van het Elektriciteitsdecreet, bepaalt de netbeheerder de tijdstippen waarop de omschakeling van de dagmeter naar de nachtmeter, en omgekeerd, gebeurt. <br /><br />De netbeheerder zorgt ervoor dat het elektriciteitsverbruik van elke eindafnemer op laagspanning met een dag- en een nachtmeter gedurende gans het weekend, van zaterdagmorgen tot zondagavond, geregistreerd wordt op de nachtmeter.<br />
 
 ### ART. 4.
 
