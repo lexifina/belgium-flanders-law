@@ -22,7 +22,7 @@ Dit decreet regelt een gemeenschaps- en gewestaangelegenheid.
 
 ### ART. 4.
 
-Binnen de perken van de begrotingskredieten kan Toerisme Vlaanderen personeels- en werkingsub-sidies verlenen aan de door haar erkende verenigingen.<br /><br />De personeelsleden van Toerisme Vlaanderen zijn bevoegd ter plaatse of op stukken de aanvragen te onderzoeken, de naleving van de subsidievoorwaarden en de aanwending van de subsidies te controleren. De in het eerste lid bedoelde verenigingen zijn er toe gehouden op eenvoudig verzoek van Toerisme Vlaanderen alle nodige informatie te verstrekken die verband houdt met dit toezicht.<br /><br />De Vlaamse regering bepaalt de voorwaarden voor de toekenning van deze subsidies nader.
+Binnen de perken van de begrotingskredieten kunnen, in het kader van toeristische tewerkstelling, personeels- en werkingssubsidies verleend worden aan verenigingen.<br /><br />De personeelsleden van Toerisme Vlaanderen zijn bevoegd ter plaatse of op stukken de aanvragen te onderzoeken, de naleving van de voorwaarden en de aanwending van de subsidies te controleren. De in het eerste lid bedoelde verenigingen zijn er toe gehouden op eenvoudig verzoek van Toerisme Vlaanderen alle nodige informatie te verstrekken die verband houdt met dit toezicht.<br /><br />De Vlaamse Regering bepaalt de nadere voorwaarden en de procedure voor de toekenning van de subsidies.<br />
 
 ## HOOFDSTUK V GEMEENTEFONDS
 
