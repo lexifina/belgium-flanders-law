@@ -1,0 +1,17 @@
+{
+  "codex_id": 1015857,
+  "title": "Besluit van de Vlaamse Regering van 2007-03-30 tot wijziging van het besluit van de Vlaamse Regering van 23 februari 2001 houdende de voorwaarden inzake erkenning en subsidiëring van kinderdagverblijven en diensten voor opvanggezinnen",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1015857/VolledigDocument?datum=2007-01-01",
+  "source_sha256": "3eb934b33b71318653859110e7d7929fc43707f2d28d45dd7a76f404b23279aa",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1015857&param=informatie",
+  "as_of": "2007-01-01",
+  "made": "2007-03-30",
+  "gazette": "2007-06-19",
+  "numac": 2007035673,
+  "document_start": "2007-01-01",
+  "document_end": null,
+  "in_force": "2007-01-01",
+  "article_versions": 32,
+  "record_form": "consolidated version as in force on 2007-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
