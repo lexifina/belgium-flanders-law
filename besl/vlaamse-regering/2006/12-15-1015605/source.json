@@ -1,0 +1,17 @@
+{
+  "codex_id": 1015605,
+  "title": "Besluit van de Vlaamse Regering van 2006-12-15 houdende vaststelling van de lijst van de bodemsaneringen waarvan de uitvoering ambtshalve door de openbare afvalstoffenmaatschappij voor het Vlaamse Gewest in de loop van 2007 zal worden begonnen of voortgezet",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1015605/VolledigDocument?datum=2007-01-01",
+  "source_sha256": "8e2189dcb0f7e9954da45d548e745f10c310eb28481f52efd37d6cdb592e2573",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1015605&param=informatie",
+  "as_of": "2007-01-01",
+  "made": "2006-12-15",
+  "gazette": "2007-03-06",
+  "numac": 2007035299,
+  "document_start": "2007-01-01",
+  "document_end": null,
+  "in_force": "2007-01-01",
+  "article_versions": 6,
+  "record_form": "consolidated version as in force on 2007-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
