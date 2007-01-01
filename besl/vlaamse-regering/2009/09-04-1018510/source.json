@@ -1,0 +1,17 @@
+{
+  "codex_id": 1018510,
+  "title": "Besluit van de Vlaamse Regering van 2009-09-04 tot wijziging van het besluit van de Vlaamse Regering van 7 september 2007 betreffende de toewijzing, het gebruik en de overname van de nutriëntenemissierechten en betreffende de bedrijfsontwikkeling na bewezen mestverwerking en van het besluit van de Vlaamse Regering van 15 februari 2008 houdende nadere bepalingen aangaande de inventarisatie van gegevens in het kader van het decreet van 22 december 2006 houdende de bescherming van water tegen de verontreiniging door nitraten uit agrarische bronnen",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1018510/VolledigDocument?datum=2007-01-01",
+  "source_sha256": "6c7879a6b6d87ebf075b61e989fecc449c80d4916dad07dd21b35d923edf07ad",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1018510&param=informatie",
+  "as_of": "2007-01-01",
+  "made": "2009-09-04",
+  "gazette": "2009-11-04",
+  "numac": 2009036014,
+  "document_start": "2009-11-14",
+  "document_end": null,
+  "in_force": "2007-01-01",
+  "article_versions": 5,
+  "record_form": "consolidated version as in force on 2007-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
