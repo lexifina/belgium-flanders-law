@@ -55,7 +55,19 @@ Besluit :<br>
 
 ## HOOFDSTUK I Wedden van de burgemeesters en de schepenen
 
+### ART. 1.
+
+De wedde van de burgemeester bedraagt voor :<br />1°gemeenten van 300 inwoners en minder : 18,62 % van de vergoeding van de leden van het Vlaams Parlement;<br />2°gemeenten van 301 tot 500 inwoners : 20,59 % van de vergoeding van de leden van het Vlaams Parlement;<br />3°gemeenten van 501 tot 750 inwoners : 22,55 % van de vergoeding van de leden van het Vlaams Parlement;<br />4°gemeenten van 751 tot 1 000 inwoners : 25,18 % van de vergoeding van de leden van het Vlaams Parlement;<br />5°gemeenten van 1 001 tot 1 250 inwoners : 27,80 % van de vergoeding van de leden van het Vlaams Parlement;<br />6°gemeenten van 1 251 tot 1 500 inwoners : 28,62 % van de vergoeding van de leden van het Vlaams Parlement;<br />7°gemeenten van 1 501 tot 2 000 inwoners : 29,44 % van de vergoeding van de leden van het Vlaams Parlement;<br />8°gemeenten van 2 001 tot 2 500 inwoners : 30,50 % van de vergoeding van de leden van het Vlaams Parlement;<br />9°gemeenten van 2 501 tot 3 000 inwoners : 31,73 % van de vergoeding van de leden van het Vlaams Parlement;<br />10° gemeenten van 3 001 tot 4 000 inwoners : 33,12 % van de vergoeding van de leden van het Vlaams Parlement;<br />11° gemeenten van 4 001 tot 5 000 inwoners : 34,35 % van de vergoeding van de leden van het Vlaams Parlement;<br />12° gemeenten van 5 001 tot 6 000 inwoners : 37,95 % van de vergoeding van de leden van het Vlaams Parlement;<br />13° gemeenten van 6 001 tot 8 000 inwoners : 40,40 % van de vergoeding van de leden van het Vlaams Parlement;<br />14° gemeenten van 8 001 tot 10 000 inwoners : 43,20 % van de vergoeding van de leden van het Vlaams Parlement;<br />15° gemeenten van 10 001 tot 15 000 inwoners : 49,52 % van de vergoeding van de leden van het Vlaams Parlement;<br />16° gemeenten van 15 001 tot 20 000 inwoners : 53,05 % van de vergoeding van de leden van het Vlaams Parlement;<br />17° gemeenten van 20 001 tot 25 000 inwoners : 63,23 % van de vergoeding van de leden van het Vlaams Parlement;<br />18° gemeenten van 25 001 tot 35 000 inwoners : 67,38 % van de vergoeding van de leden van het Vlaams Parlement;<br />19° gemeenten van 35 001 tot 50 000 inwoners : 71,33 % van de vergoeding van de leden van het Vlaams Parlement;<br />20° gemeenten van 50 001 tot 80 000 inwoners : 83,65 % van de vergoeding van de leden van het Vlaams Parlement;<br />21° gemeenten van 80 001 tot 150 000 inwoners : 100,84 % van de vergoeding van de leden van het Vlaams Parlement;<br />22° gemeenten van meer dan 150 000 inwoners : 108,71 % van de vergoeding van de leden van het Vlaams Parlement.<br /><br />Om het aantal inwoners te bepalen, worden de bevolkingscijfers, vermeld in artikel 5 van het Gemeentedecreet, in aanmerking genomen.<br /><br />Voor de toepassing van dit artikel dient onder vergoeding van de leden van het Vlaams Parlement verstaan te worden : de geïndexeerde belastbare basisvergoeding, verhoogd met de forfaitaire onkostenvergoeding, de eindejaarspremie en het vakantiegeld.<br /><br />
+
+### ART. 2.
+
+De wedden van de schepenen bedragen in :<br />1° gemeenten tot 50 000 inwoners : 60 % van de wedde van de burgemeester;<br />2° gemeenten vanaf 50 001 inwoners : 75 % van de wedde van de burgemeester.<br /><br />
+
 ## HOOFDSTUK II Wedden in overgangsregeling van de burgemeesters en de schepenen en de voorzitter van het openbaar centrum voor maatschappelijk welzijn
+
+### ART. 3.
+
+De burgemeesters en schepenen, die overeenkomstig de artikelen 1 en 2 minder wedde ontvangen dan waarop ze overeenkomstig artikel 19 van de Nieuwe Gemeentewet zouden recht hebben, blijven tot de volgende volledige vernieuwing van de raden de wedde ontvangen die zij overeenkomstig die bepaling op 31 december 2006 ontvangen, met uitzondering van de indexatie, zolang die berekeningswijze hun een hogere wedde bezorgt dan die welke voortspruit uit de toepassing van de artikelen 1 en 2.<br /><br />Het vorige lid is van overeenkomstige toepassing op de voorzitter van het openbaar centrum voor maatschappelijk welzijn.<br /><br />
 
 ## HOOFDSTUK III Wijze van betaling van de wedden van de burgemeesters en de schepenen en de gedeputeerden
 
@@ -65,15 +77,55 @@ Besluit :<br>
 
 ## HOOFDSTUK IV Voorwaarden en modaliteiten van toekenning van de wedde van de voorzitter en de ondervoorzitter van het openbaar centrum voor maatschappelijk welzijn, en van hun vervangers
 
+### ART. 5.
+
+Buiten een bezoldiging en de terugbetaling van de kosten, vermeld in titel VII mogen de voorzitter, de ondervoorzitter en het lid dat hen vervangt geen enkele vergoeding of geen enkel voordeel ten laste van het openbaar centrum genieten, om welke reden en onder welke benaming ook.<br /><br />De voorzitter, de ondervoorzitter en het lid dat hen vervangt, hebben geen recht op een presentiegeld voor de vergaderingen die plaatsvinden in een periode waarvoor zij op een bezoldiging aanspraak kunnen maken.<br />
+
+### ART. 6.
+
+In het geval, vermeld in artikel 39, eerste lid, van de wet van 8 juli 1976 betreffende de openbare centra voor maatschappelijk welzijn, geniet het lid van de raad dat de voorzitter of de ondervoorzitter vervangt voor de hele duur van de vervanging de bezoldigingsregeling, vermeld in artikel 38 van voorvernoemde wet.<br /><br />
+
+### ART. 7.
+
+De wedde wordt maandelijks en vooruit betaald aan de voorzitter en de ondervoorzitter, en nadat de termijn vervallen is aan het lid dat de voorzitter of de ondervoorzitter vervangt in het geval, vermeld in artikel 39, eerste lid, van de wet van 8 juli 1976 betreffende de openbare centra voor maatschappelijk welzijn.<br /><br />Als de wedde van de maand niet volledig is verschuldigd, wordt zij in dertigsten verdeeld.<br /><br />In afwijking van het tweede lid, is de wedde van elke begonnen maand geheel verschuldigd bij overlijden.<br /><br />
+
 ## TITEL II BEPALING VAN DE WEDDE VAN DE VOORZITTERS EN DE LEDEN VAN HET DISTRICTSCOLLEGE, EN VAN DE WIJZE VAN BETALING VAN HUN WEDDE
+
+### ART. 8.
+
+De wedde van de voorzitter van het dictrictscollege bedraagt minimaal 10 % en maximaal 50 % van de wedde zoals bepaald in artikel 1, die aan de burgemeester van een gemeente, waarvan het bevolkingsaantal overeenstemt met dat van het district, wordt toegekend.<br /><br />
+
+### ART. 9.
+
+De wedde van de leden van het districtscollege bedraagt minimaal 10 % en maximaal 50 % van de wedde van een schepen van een gemeente waarvan het bevolkingsaantal overeenstemt met dat van het district.<br /><br />
+
+### ART. 10.
+
+De gemeenteraad bepaalt het bedrag van de wedde van de leden en de voorzitter van het districtscollege binnen de minimum- en maximumgrenzen, vermeld in artikel 8 en 9, waarbij hij rekening houdt met de reële omvang van de bevoegdheden die aan de districten worden toegewezen.<br /><br />
+
+### ART. 11.
+
+De wedden van de voorzitters en de leden van het districtscollege en hun vervangers worden betaald overeenkomstig de regelen die van toepassing zijn op respectievelijk de burgemeester en de schepenen van de gemeente. <br /><br />
 
 ## TITEL III VASTSTELLING VAN HET VAKANTIEGELD EN DE EINDEJAARSPREMIE VAN DE BURGEMEESTERS EN SCHEPENEN, DE VOORZITTERS EN DE LEDEN VAN HET DISTRICTSCOLLEGE, ALSOOK DE VASTSTELLING VAN DE VOORWAARDEN EN DE MODALITEITEN VAN DE TOEKENNING VAN HET VAKANTIEGELD EN DE EINDEJAARSPREMIE AAN DE VOORZITTERS EN DE ONDERVOORZITTERS VAN HET OPENBAAR CENTRUM VOOR MAATSCHAPPELIJK WELZIJN
 
 ## HOOFDSTUK I Vakantiegeld
 
+### ART. 12.
+
+Het vakantiegeld van de burgemeesters, de schepenen, de voorzitter en de leden van het districtscollege, de voorzitter en de ondervoorzitter van het openbaar centrum voor maatschappelijk welzijn wordt berekend op de wedde, zoals respectievelijk vastgesteld in artikel 70 en artikel 274, § 5, van het Gemeentedecreet en artikel 38 van de wet van 8 juli 1976 betreffende de openbare centra voor maatschappelijk welzijn, en volgens de regels die bepaald zijn voor de leden van het gemeentepersoneel.<br /><br />
+
 ## HOOFDSTUK II Eindejaarspremie
 
+### ART. 13.
+
+De eindejaarspremie van de burgemeesters, de schepenen, de voorzitter en de leden van het districtscollege, de voorzitter en de ondervoorzitter van het openbaar centrum voor maatschappelijk welzijn wordt berekend op de wedde, zoals respectievelijk vastgesteld in artikel 70 en artikel 274, § 5, van het Gemeentedecreet en in artikel 38 van de wet van 8 juli 1976 betreffende de openbare centra voor maatschappelijk welzijn, en volgens de regels die bepaald zijn voor de leden van het gemeentepersoneel.<br /><br />
+
 ## HOOFDSTUK III Algemene bepaling
+
+### ART. 14.
+
+Voor de toepassing van dit besluit wordt elke mandataris geacht volledige prestaties te leveren.<br /><br />
 
 ## TITEL IV VASTSTELLING VAN DE LIJST VAN VERGADERINGEN DIE VOORTVLOEIEN UIT DE MANDAATSVERPLICHTINGEN VAN DE GEMEENTERAADSLEDEN, DE DISTRICTSRAADSLEDEN, DE PROVINCIERAADSLEDEN ALSOOK DE VASTSTELLING VAN DE VOORWAARDEN EN MODALITEITEN VAN TOEKENNING VAN DE PRESENTIEGELDEN AAN DE LEDEN VAN DE RADEN VOOR MAATSCHAPPELIJK WELZIJN EN DE BEPALING VAN DE MINIMUM- EN MAXIMUMGRENZEN VAN HET PRESENTIEGELD VAN DEZE MANDATARISSEN
 
@@ -90,6 +142,10 @@ Besluit :<br>
 Het presentiegeld, vermeld in de artikelen 17, § 1 en 273, § 3 van het Gemeentedecreet en in artikel 17, § 1 van het Provinciedecreet bedraagt minimaal 28, 57 euro en maximaal 124, 98 euro. Deze bedragen worden gekoppeld aan de spilindex 138, 01.<br /><br />
 
 ## HOOFDSTUK III Voorwaarden en modaliteiten van de toekenning van het presentiegeld van de raadsleden van het openbaar centrum voor maatschappelijk welzijn
+
+### ART. 17.
+
+Aan de leden wordt een presentiegeld toegekend om vergaderingen van de raad bij te wonen, alsook om vergaderingen bij te wonen van het vast bureau en van de bijzondere comités, opgericht krachtens artikel 27 en 94 van de wet van 8 juli 1976 betreffende de openbare centra voor maatschappelijk welzijn en van het overlegcomité, vermeld in artikel 26, § 2, van de wet van 8 juli 1976 betreffende de openbare centra voor maatschappelijk welzijn. De bijzondere comités komen evenwel voor de toepassing van deze bepaling enkel in aanmerking voor zover ze ten minste drie leden tellen, de voorzitter inbegrepen.<br /><br />Bovendien kent de raad voor maatschappelijk welzijn aan zijn leden een presentiegeld toe als ze deelnemen aan de vergaderingen van de budgetcommissie en voor de controle van de boekhouding van de ziekenhuizen die afhangen van een openbaar centrum voor maatschappelijk welzijn.<br /><br />Het presentiegeld wordt bepaald volgens de aanwezigheid, die vastgelegd wordt in de met dat doel gehouden registers.<br /><br />Buiten een presentiegeld en de terugbetaling van de kosten, vermeld in titel VII, mogen de leden geen enkele vergoeding of geen enkel voordeel ten laste van het openbaar centrum genieten, om welke reden en onder welke benaming ook met behoud van de toepassing van artikel 5.<br /><br />
 
 ## TITEL V REGELS OVER DE VERHOGING VAN HET PRESENTIEGELD VAN GEMEENTERAADSLEDEN, DISTRICTSRAADSLEDEN EN PROVINCIERAADSLEDEN, OVER DE VERHOGING VAN DE WEDDE VAN DE BURGEMEESTERS, DE SCHEPENEN, UITGEZONDERD DE SCHEPENEN VAN RECHTSWEGE, DE VOORZITTERS EN DE LEDEN VAN HET DISTRICTSCOLLEGE, EN NADERE REGELS OVER DE WEDDEVERMINDERING DIE KAN WORDEN TOEGESTAAN AAN DE BURGEMEESTERS, DE SCHEPENEN, UITGEZONDERD DE SCHEPENEN VAN RECHTSWEGE, DE VOORZITTERS EN DE LEDEN VAN HET DISTRICTSCOLLEGE
 
@@ -112,6 +168,18 @@ De verhoging van de presentiegelden of van de wedde, naar gelang van het geval, 
 Bij wijziging van zijn geldelijke situatie, moet de begunstigde van de verhoging van de presentiegelden of van de wedde, dat onmiddellijk meedelen aan de raad met een aangetekende brief die, naar gelang van het geval, aan het college van burgemeester en schepenen, het districtscollege of de deputatie gericht is.<br /><br />In dat geval beraadslaagt de raad over het behoud, de wijziging of het afschaffen van de verhoging die toegekend is volgens de procedure, vermeld in artikel 19.<br /><br />
 
 ## HOOFDSTUK II Vermindering van wedde
+
+### ART. 22.
+
+§ 1. De aanvraag tot vermindering van wedde, vermeld in artikel 70, § 1, eerste lid en in artikel 274, § 5, van het Gemeentedecreet, kan gericht worden aan het bestuur, als andere wettelijke of reglementaire bezoldigingen, pensioenen, vergoedingen of toelagen verminderd zouden worden of zouden vervallen wegens die wedde.<br /><br />De burgemeesters, de schepenen, uitgezonderd de schepenen van rechtswege, de voorzitters of de leden van het districtscollege richten de aanvraag tot weddevermindering met een aangetekende brief tegen ontvangstbewijs aan het college van burgemeester en schepenen of aan het districtscollege.<br /><br />Bij hun aanvraag voegen zij :<br />1° een attest van de financieel beheerder dat het bedrag van de brutojaarwedde vermeldt die zij in de hoedanigheid van burgemeester of schepen, voorzitter of lid van het districtscollege ontvangen;<br />2° een attest van de betalende instelling dat het bedrag vermeldt van de andere wedden, vergoedingen of wettelijke of reglementaire toelagen die verminderd zouden worden of die zouden vervallen als het bedrag van de wedde die zij in de hoedanigheid van burgemeester, schepen, voorzitter of lid van het districtscollege ontvangen, ongewijzigd zou blijven. Het attest vermeldt ook het bedrag waarmee de wedde minimaal verminderd moet worden opdat de andere wedden, vergoedingen of wettelijke of reglementaire toelagen ongewijzigd kunnen blijven;<br />3° eventueel ieder ander bewijsstuk.<br /><br />§ 2. De betrokkene vermeldt de hoegrootheid van de gevraagde vermindering van zijn wedde, naargelang hij het voordeel van de andere wedden, vergoedingen of wettelijke of reglementaire toelagen geheel of gedeeltelijk wil behouden.<br /><br />§ 3. Het college van burgemeester en schepenen of het districtscollege, plaatst de aanvraag, vermeld in de eerste paragraaf, op de agenda van de vergadering van de gemeente- of districtsraad, die volgt op de dag waarop die aanvraag ontvangen is.<br /><br />De raad stemt over het voorstel dat door het college gedaan is. Hij kan dat voorstel wijzigen of verwerpen op basis van de informatie waarover hij beschikt.<br /><br />De raad kan ook van oordeel zijn dat het dossier niet in orde is. Hij kan bij de betrokken gezagsdrager en bij de betalingsinstellingen, vermeld in de eerste paragraaf, alle documenten opeisen die hij nodig vindt om het bedrag van de gevraagde vermindering vast te stellen. Hij kan tevens alle inlichtingen die daarvoor relevant zijn bij die gezagsdrager en bij die instellingen inwinnen.<br /><br />In het geval, vermeld in het vierde lid, plaatst het college de aanvraag op de agenda van de gemeente- of districtsraad zodra de gevraagde inlichtingen en documenten verstrekt zijn.<br /><br />§ 4. Het college brengt de beslissing van de raad ter kennis van de betrokkene met een aangetekende brief.<br /><br />
+
+### ART. 23.
+
+De vermindering van de wedde geldt zolang de betrokkene hetzelfde mandaat in hetzelfde bestuur uitoefent.<br /><br />Bij verandering van zijn geldelijke toestand kan de betrokkene de herziening van de vermindering van zijn wedde aanvragen. Daartoe bezorgt hij aan het college van burgemeester en schepenen of aan het districtscollege de bewijsstukken, vermeld in artikel 22, § 1.<br /><br />In dat geval beraadslaagt de raad over het behoud, de wijziging of het afschaffen van de vermindering die toegekend is volgens de procedure, vermeld in artikel 22.<br /><br />
+
+### ART. 24.
+
+De vermindering van de wedde heeft op zijn vroegst uitwerking op 1 januari van het jaar waarin de aanvraag aan het college van burgemeester en schepenen, of aan het districtscollege gericht is, overeenkomstig artikel 22, voor zover de aanvrager op die datum de voorwaarden vervult om een dergelijke vermindering te verkrijgen.<br /><br />
 
 ## TITEL VI BEPALING VAN DE PERKEN EN DE TOEKENNINGSVOORWAARDEN VAN HET PRESENTIEGELD EN DE ANDERE VERGOEDINGEN DIE IN HET KADER VAN DE BESTUURLIJKE WERKING VAN HET EXTERN VERZELFSTANDIGD AGENTSCHAP WORDEN TOEGEKEND
 
@@ -205,6 +273,10 @@ De presentiegelden en vergoedingen in deze titel zijn facultatief. De vermelde b
 
 ## HOOFDSTUK III Fractietoelagen
 
+### ART. 44.
+
+§ 1. Ter ondersteuning van gemeenteraadsfracties kan jaarlijks aan elke fractie, vertegenwoordigd in de gemeenteraad, een toelage ten laste van het gemeentebudget worden toegekend.<br /><br />Ter ondersteuning van provincieraadsfracties kan jaarlijks aan elke fractie, vertegenwoordigd in de provincieraad, een toelage ten laste van het provinciebudget worden toegekend.<br /><br />Ter ondersteuning van districtsraadsfracties kan jaarlijks aan elke fractie, vertegenwoordigd in de districtsraad, een toelage ten laste van het districtsbudget worden toegekend.<br /><br />Indien de provincies, gemeenten of districten dergelijke toelage toekennen, doen ze dit voor alle fracties van de respectievelijke raden.<br /><br />§ 2. De fractie kan de ontvangen toelage enkel gebruiken voor de ondersteuning van de eigen fractiewerking en voor de werking van de raden waar ze deel van uitmaakt. De middelen mogen niet gebruikt worden voor partijwerking, verkiezingen of ter compensatie van presentiegeld of wedde.<br /><br />§ 3. Op het einde van het werkjaar licht de fractie in een nota met bewijsstukken toe hoe ze de ontvangen middelen heeft gebruikt.<br /><br />§ 4. Jaarlijks wordt een gedetailleerd verslag gemaakt van de aanwending van alle middelen voor de ondersteuning van de fracties. Dat verslag is openbaar en wordt voorgelegd aan de raad.<br /><br />§ 5. Als een fractie financiële middelen heeft aangewend voor andere doeleinden dan de ondersteuning van de fractiewerking, dan vordert het bestuur die middelen terug of brengt ze dat bedrag in mindering van de toelage van het volgende werkjaar.<br /><br />
+
 ## TITEL VIII NADERE REGELEN VOOR DE AANSPRAKELIJKHEIDS- EN RECHTSBIJSTANDSVERZEKERING VAN DE [LOKALE EN PROVINCIALE MANDATARISSEN (verv. BVR 5 juni 2009, art. 1, I: 1 juli 2009)]
 
 ### ART. 45.
@@ -267,7 +339,27 @@ Het bewijs dat het raadslid voldoet aan de criteria, vermeld in artikel 55, word
 
 Voor de toepassing van dit hoofdstuk wordt verstaan onder onberispelijk gedrag : het ontbreken van een zware strafrechtelijke veroordeling dan wel een zware tuchtstraf of het niet bestaan van andere erg onterende feitelijkheden.<br /><br />
 
+### ART. 58.
+
+§ 1. Een aftredende burgemeester, die zijn ambt gedurende ten minste tien jaar in dezelfde gemeente heeft uitgeoefend en wiens gedrag onberispelijk is geweest, kan de Vlaamse Regering verzoeken hem de eretitel van zijn ambt te verlenen.<br /><br />Buiten de anciënniteit die de betrokken mandatarissen hebben verkregen als burgemeester, kunnen zij ook de jaren doen gelden gedurende waarin zij, voor of na hun ambt, lid van de deputatie zijn geweest.<br /><br />Een aftredende burgemeester, die zijn ambt gedurende ten minste zes jaar in dezelfde gemeente heeft uitgeoefend en wiens gedrag onberispelijk is geweest, kan de Vlaamse Regering verzoeken hem de eretitel van zijn ambt te verlenen, op voorwaarde dat hij in dezelfde gemeente, voor of na zijn burgemeesterschap, ten minste zes jaar een schepenambt bekleed heeft, of voor of na zijn burgemeesterschap ten minste twaalf jaar een mandaat van gemeenteraadslid bekleed heeft.<br /><br />Om die termijnen te berekenen wordt rekening gehouden met de periode waarin de deputatie de gemeenteraads- of districtsraadsverkiezingen hetzij heeft vernietigd overeenkomstig artikel 75 van de Gemeentekieswet van 4 augustus 1932, ingeval de Raad van State die beslissing heeft tenietgedaan, of heeft opgeschort overeenkomstig de wettelijke bepalingen die van toepassing waren vóór de inwerkingtreding van de wet van 7 juli 1994 die de Gemeentekieswet van 4 augustus 1932 wijzigt, of ingeval de Raad voor Verkiezingsbetwistingen of de Controlecommissie voor Verkiezingsuitgaven de gemeenteraads- of districtsraadsverkiezingen heeft vernietigd, als de Raad van State die beslissing heeft tenietgedaan. Ook met de periode waarin de installatie niet kon plaats vinden omwille van een ongegrond gebleken klacht wordt rekening gehouden voor de berekening van de termijnen.<br /><br />Het verzoek kan met instemming van de betrokkene ook door de gemeenteraad worden ingediend.<br /><br />De uitoefening van een ambt in een gemeente die later samengevoegd wordt met andere gemeenten of eraan wordt gehecht, wordt beschouwd als een ambt, uitgeoefend in de gemeente die de samengevoegde of de gehechte gemeenten bevat.<br /><br />§ 2. § 1 is van overeenkomstige toepassing op de voorzitter van het districtscollege, met dien verstande dat burgemeester, schepen, gemeenteraadslid, gemeenteraad, gemeente en gemeenteraadsverkiezingen telkens gelezen moet worden als respectievelijk voorzitter van het districtscollege, lid van het districtscollege, districtsraadslid, districtsraad, district en districtsraadsverkiezingen.<br /><br />De jaren als voorzitter van het bureau en als lid van het bureau worden gelijkgesteld met de jaren waarin de persoon een ambt vervult als voorzitter en als lid van het districtscollege.<br /><br />Buiten de anciënniteit die de mandatarissen hebben verkregen als voorzitter van het districtscollege, kunnen zij ook de jaren doen gelden waarin zij, voor of na hun ambt, lid van de deputatie, burgemeester, schepen of voorzitter van het openbaar centrum voor maatschappelijk welzijn zouden zijn geweest.<br /><br />
+
+### ART. 59.
+
+Zo kan de burgemeester op zijn verzoek gemachtigd worden om de eretitel van zijn ambt te voeren als hij ten gevolge van een samenvoeging, aanhechting of wijziging van de grenzen van gemeenten is afgetreden, voor zover hij gedurende ten minste tien jaar, waarvan ten minste vijf als burgemeester, lid geweest is van het college van burgemeester en schepenen van dezelfde gemeente.<br /><br />Het verzoek kan met instemming van de betrokkene ook door de gemeenteraad worden ingediend.<br /><br />
+
 ## Afdeling II [De procedure (verv. BVR 5 juni 2009, art. 10, I: 1 juli 2009)]
+
+### ART. 60.
+
+De burgemeester van een gemeente die uit samenvoeging of uit aanhechting van gemeenten ontstaan is, kan de jaren ambtsuitoefening als burgemeester van een van de samengevoegde of aangehechte gemeenten in aanmerking doen nemen voor het berekenen van de anciënniteit, vermeld in artikel 58, § 1.<br /><br />In geval van wijziging van de grenzen van een gemeente, kan de burgemeester van de gemeente waaraan het overgegane deel van het grondgebied is aangehecht, de jaren ambtsuitoefening als burgemeester in de gemeente waartoe dat deel van het grondgebied behoorde, in aanmerking doen nemen om zijn anciënniteit vermeld in artikel 58, § 1, te berekenen.<br /><br />
+
+### ART. 61.
+
+§ 1.Een aftredende schepen van een al dan niet samengevoegde gemeente kan door de Vlaamse Regering worden gemachtigd om de eretitel van zijn ambt te voeren onder de voorwaarden, vermeld in artikel 58, § 1, 59 en 60.<br /><br />Een aftredende schepen, die zijn ambt gedurende ten minste zes jaar in eenzelfde gemeente heeft uitgeoefend, en wiens gedrag onberispelijk is geweest, kan door de Vlaamse Regering gemachtigd worden de eretitel van zijn ambt te voeren, op voorwaarde dat hij in dezelfde gemeente, voor of na zijn ambt als schepen, ten minste twaalf jaar een mandaat als gemeenteraadslid heeft bekleed.<br /><br />Om die termijnen te berekenen wordt rekening gehouden met de periode waarin de deputatie de gemeente- of districtsraadsverkiezingen heeft vernietigd overeenkomstig het artikel 75 van de gemeentekieswet van 4 augustus 1932, ingeval de Raad van State die beslissing heeft tenietgedaan, of heeft opgeschort overeenkomstig de wettelijke bepalingen die van toepassing waren vóór de inwerkingtreding van de wet van 7 juli 1994 die de Gemeentekieswet van 4 augustus 1932 wijzigt, of als de Raad voor Verkiezingsbetwistingen of de Controlecommissie voor Verkiezingsuitgaven de gemeente- of districtsraadsverkiezingen heeft vernietigd, ingeval de Raad van State die beslissing heeft tenietgedaan. Ook met de periode waarin de installatie niet kon plaats vinden omwille van een ongegrond gebleken klacht wordt rekening gehouden voor de berekening van de termijnen.<br /><br />Buiten de anciënniteit die de betrokken mandatarissen hebben verkregen als schepen kunnen zij ook de jaren doen gelden waarin zij, voor of na hun ambt als schepen, in dezelfde gemeente een mandaat van lid van de deputatie, burgemeester of van voorzitter van de raad voor maatschappelijk welzijn van het openbaar centrum voor maatschappelijk welzijn zouden hebben uitgeoefend.<br /><br />§ 2. § 1 is van overeenkomstige toepassing op het lid van het districtscollege, met dien verstande dat burgemeester, schepen, gemeenteraadslid, gemeenteraad, gemeente en gemeenteraadsverkiezingen telkens gelezen moet worden als respectievelijk voorzitter van het districtscollege, lid van het districtscollege, districtsraadslid, districtsraad, district en districtsraadsverkiezingen.<br /><br />De jaren als voorzitter van het bureau en als lid van het bureau worden gelijkgesteld met de jaren waarin de persoon een ambt vervult als voorzitter en als lid van het districtscollege.<br /><br />Buiten de anciënniteit die de betrokken mandatarissen hebben verkregen als lid van het districtscollege kunnen zij ook de jaren doen gelden waarin zij, voor of na hun ambt, een mandaat als lid van de deputatie, als burgemeester, als schepen, als voorzitter van het districtscollege of als voorzitter van het openbaar centrum voor maatschappelijk welzijn zouden hebben uitgeoefend.<br /><br />
+
+### ART. 62.
+
+De voorzitter van het openbaar centrum voor maatschappelijk welzijn van een al dan niet samengevoegde gemeente kan door de Vlaamse Regering worden gemachtigd om de eretitel van zijn ambt te voeren onder de voorwaarden, vermeld in artikel 61, § 1.<br /><br />Evenzo kan een aftredende voorzitter, die zijn ambt gedurende ten minste zes jaar in dezelfde gemeente heeft uitgeoefend en wiens gedrag onberispelijk is geweest, gemachtigd worden de eretitel van zijn ambt te voeren, op voorwaarde dat hij in dezelfde gemeente ofwel ervoor en/of erna ten minste twaalf jaar een mandaat als lid van de raad voor maatschappelijk welzijn bekleed heeft.<br /><br />Buiten de anciënniteit die de betrokken mandatarissen hebben verkregen als voorzitter, kunnen zij ook de jaren doen gelden gedurende welke zij, voor of na hun ambt als voorzitter, in dezelfde gemeente of gedeelten van gemeenten, bedoeld in de artikelen 60 en 61 van dit besluit, een mandaat van lid van de deputatie, burgemeester of van schepen zouden hebben uitgeoefend.<br /><br />In de gemeente waar beslist wordt in de bestuursperiode 2006-2012 de voorzitter van het openbaar centrum toe te voegen aan het college van burgemeester en schepenen, kan de voorzitter van het openbaar centrum, die vanaf zijn installatie na de eerstvolgende algehele vernieuwing van de raden verkozen wordt, verkiezen de eretitel van schepen van rechtswege of de eretitel van voorzitter van de raad voor maatschappelijk welzijn te voeren. Na deze periode kan dit verzoek gebeuren door de mandatarissen in alle gemeenten. In de gevallen bedoeld in deze alinea zijn de bepalingen, al naar gelang van de titel waarom verzocht wordt, van artikel 61 en 62 van toepassing.<br /><br />
 
 ### ART. 63.
 
@@ -311,9 +403,21 @@ In de akte tot verlening van een eretitel wordt de tekst van artikel 57 en artik
 
 ## Onderafdeling I De burgemeester of de voorzitter van het districtscollege
 
+### ART. 72.
+
+De burgemeester of de voorzitter van het districtscollege draagt een sjerp met zilveren franjes op een zwart-geel-rode achtergrond. Op de sjerp van de burgemeester of de voorzitter van het districtscollege staat de Vlaamse Leeuw en kan facultatief het wapenschild van de stad of de gemeente of het schild van het district worden toegevoegd.<br /><br />
+
 ## Onderafdeling II De schepen en het lid van het districtscollege
 
+### ART. 73.
+
+De schepen of het lid van het districtscollege draagt een sjerp met rode franjes op een zwart-gele achtergrond. Op de sjerp van de schepen of het lid van het districtscollege staat de Vlaamse Leeuw en kan facultatief het wapenschild van de stad of de gemeente of het schild van het district worden toegevoegd.<br /><br />
+
 ## Onderafdeling III De schepen van rechtswege of de voorzitter van het openbaar centrum voor maatschappelijk welzijn
+
+### ART. 74.
+
+Artikel 73 is van overeenkomstige toepassing.<br /><br />
 
 ## Onderafdeling IV De gedeputeerde
 
@@ -342,3 +446,23 @@ De mandatarissen dragen hun sjerp enkel naar aanleiding van en bij de openbare u
 De kledij die de mandatarissen dragen, mag niet verwijzen naar een andere hoedanigheid of een ander ambt.<br /><br />
 
 ## TITEL XI SLOTBEPALINGEN
+
+### ART. 80.
+
+Het koninklijk besluit van 30 september 1981 tot regeling van de modaliteiten voor het verlenen van de eretitel van hun ambt aan de burgemeesters, aan de schepenen en aan de voorzitters van de raden van de openbare centra voor maatschappelijk welzijn of van de gewezen commissies van openbare onderstand, het koninklijk besluit van 23 januari 1837 tot vaststelling van de ambtskledij van de burgemeester en schepenen van de gemeenten van meer dan twintigduizend inwoners, het koninklijk besluit van 23 januari 1837 tot vaststelling van de ambtskledij van de burgemeester en schepenen van de gemeenten van vijfduizend tot twintigduizend inwoners, het koninklijk besluit van 23 januari 1837 tot vaststelling van de ambtskledij van de burgemeester en schepenen van de gemeenten van minder dan vijfduizend inwoners, het besluit van de regent van 2 oktober 1947 tot bepaling van het officieel kostuum van de vrouwen die het ambt van burgemeester of schepen der gemeenten waarnemen, en het koninklijk besluit van 15 januari 1837 tot vaststelling van de ambtskleding van de leden van de provincieraad, worden opgeheven met ingang van 1 januari 2007.<br /><br />
+
+### ART. 81.
+
+De volgende regelingen worden opgeheven :<br />1° het koninklijk besluit van 25 februari 1996 tot uitvoering van artikel 12 bis van de nieuwe gemeentewet;<br />2° het koninklijk besluit van 28 november 1997 tot uitvoering van artikel 63bis van de provinciewet;<br />3° het besluit van de Vlaamse Regering van 22 september 1998 betreffende de bezoldiging van de voorzitters en de presentiegelden van de leden van de raden voor maatschappelijk welzijn;<br />4° het koninklijk besluit van 4 mei 1999 houdende uitvoering van artikel 329bis van de nieuwe gemeentewet en van artikel 144 van de provinciewet;<br />5° het koninklijk besluit van 16 november 2000 tot vaststelling van het vakantiegeld en de eindejaarspremie van de burgemeesters en schepenen;<br />6° het koninklijk besluit van 24 november 2000 tot bepaling van de wedde van de voorzitters en de leden van het bureau van de districtsraden;<br />7° het besluit van de Vlaamse Regering van 30 april 2004 tot vaststelling van het vakantiegeld van de burgemeesters en schepenen.<br /><br />
+
+### ART. 82.
+
+Artikel 303, eerste lid, 2°, van het Gemeentedecreet treedt in werking op 1 januari 2007. <br /><br />
+
+### ART. 83.
+
+Dit besluit treedt in werking op 1 januari 2007, met uitzondering van de artikelen die betrekking hebben op de provincies die uitwerking hebben op 1 december 2006 en met uitzondering van de bepalingen van artikel 31 en 40 die in werking treden op een door de Vlaamse Regering nader te bepalen datum.<br /><br />
+
+### ART. 84.
+
+De Vlaamse minister, bevoegd voor de bijstand aan personen, en de Vlaamse minister, bevoegd voor de binnenlandse aangelegenheden, zijn, ieder wat hem of haar betreft, belast met de uitvoering van dit besluit.<br /><br />
