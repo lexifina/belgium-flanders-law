@@ -1,0 +1,17 @@
+{
+  "codex_id": 1013050,
+  "title": "Decreet van 2004-05-07 tot omvorming van het \"Fonds Bijzondere Jeugdbijstand\" tot het intern verzelfstandigd agentschap met rechtspersoonlijkheid \"Fonds Jongerenwelzijn\" en tot wijziging van de decreten inzake bijzondere jeugdbijstand, gecoördineerd op 4 april 1990",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1013050/VolledigDocument?datum=2007-01-01",
+  "source_sha256": "60cca81fcde73fb6b3d5cd2fcbfe8e02813762df34f4c9efddccdb3c865446fb",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1013050&param=informatie",
+  "as_of": "2007-01-01",
+  "made": "2004-05-07",
+  "gazette": "2004-06-04",
+  "numac": 2004035823,
+  "document_start": "2007-01-01",
+  "document_end": "2999-12-31",
+  "in_force": "2007-01-01",
+  "article_versions": 19,
+  "record_form": "consolidated version as in force on 2007-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
