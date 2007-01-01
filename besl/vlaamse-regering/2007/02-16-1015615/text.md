@@ -1,0 +1,95 @@
+# Besluit van de Vlaamse Regering van 2007-02-16 betreffende de werking, het beheer en de boekhouding van het Eigen Vermogen van het Instituut voor Landbouw- en Visserijonderzoek (EV-ILVO)
+
+### Aanhef
+
+De Vlaamse Regering,<br /><br />Gelet op het decreet van 23 december 2005 houdende de bepalingen voor de begeleiding van de begroting 2006, inzonderheid op artikel 42;<br /><br />Gelet op het akkoord van de Vlaamse minister, bevoegd voor de begroting, gegeven op 23 november 2006;<br /><br />Gelet op advies 41.818/3 van de Raad van State, gegeven op 18 december 2006, met toepassing van artikel 84, § 1, eerste lid, 1° van de gecoördineerde wetten op de Raad van State; <br /><br />Op voorstel van de Vlaamse minister van Landbouw en Visserij; <br /><br />Na beraadslaging,<br /><br />Besluit : <br /><br />
+
+## HOOFDSTUK I Definities en toepassingsgebied
+
+### ART. 1.
+
+Voor de toepassing van dit besluit wordt verstaan onder :<br />1. het EV ILVO : het Eigen Vermogen van het Instituut voor Landbouw- en Visserijonderzoek, zoals bepaald in artikel 35 van het decreet van 23 december 2005 houdende de bepalingen voor de begeleiding van de begroting 2006;<br />2. het decreet : het decreet van 23 december 2005 houdende de bepalingen voor de begeleiding van de begroting 2006, inzonderheid artikels 35 tot 44;<br />3. de minister : de Vlaamse minister bevoegd voor het ILVO;<br />4. de beheerscommissie : de beheerscommissie die het EV-ILVO bestuurt overeenkomstig artikel 40 van het decreet;<br />5. de voorzitter : de voorzitter van de beheerscommissie, bedoeld in artikel 40, § 2 van het decreet;<br />6. het Besluit van de Vlaamse Regering van 21 mei 1997 : het Besluit van de Vlaamse Regering van 21 mei 1997 betreffende een geïntegreerde economische boekhouding en budgettaire rapportering voor de openbare instellingen;<br />7. de met de financiële controle en certificering belaste instantie : de diensten van het Vlaams ministerie bevoegd voor het financieel en budgettair beleid, die belast zijn met de opmaak en consolidatie van de algemene rekeningen (IVA Centrale Accounting).<br /><br />
+
+### ART. 2.
+
+De zetel van de beheerscommissie van het EV-ILVO is gevestigd in het Instituut voor Landbouw- en Visserijonderzoek in Merelbeke.<br /><br />
+
+## HOOFDSTUK II Algemene bepalingen en beheerscommissie
+
+## Afdeling I Opdracht, organisatie en werking
+
+### ART. 3.
+
+§ 1. Voor de aankoop of de vervreemding van onroerende goederen is een machtiging van de minister noodzakelijk. <br /><br />§ 2. Leningen kunnen worden toegestaan na goedkeuring door de minister van begroting op voorstel van de minister.<br /><br />
+
+### ART. 4.
+
+Het personeel van het ILVO kan niet genieten van de middelen van de rechtspersoon voor uitbetaling van bezoldigingen of vergoedingen behoudens het akkoord van de beheerscommissie.<br /><br />
+
+## Afdeling II De beheerscommissie
+
+### ART. 5.
+
+§ 1. Het EV-ILVO wordt vertegenwoordigd door de beheerscommissie voor alle aangelegenheden en opdrachten die bij decreet aan het EV ILVO zijn toebedeeld. De beheerscommissie vertegenwoordigt het EV ILVO jegens derden en in rechte als eiser of als verweerder.<br /><br />§ 2. De beheerscommissie is bevoegd om alle handelingen te verrichten die nodig of dienstig zijn tot verwezenlijking van het doel van het EV ILVO.<br /><br />§ 3. De beheerscommissie regelt in het huishoudelijk reglement de bevoegdheden van de voorzitter en de wijze waarop de voorzitter hierover verslag aflegt.<br /><br />
+
+### ART. 6.
+
+§ 1. Het dagelijks bestuur van het EV ILVO, alsook de vertegenwoordiging van het EV ILVO jegens derden wat dit bestuur betreft, wordt opgedragen aan de voorzitter of aan zijn gedelegeerde. <br /><br />§ 2. De voorzitter of zijn gedelegeerde kan, in zoverre daartoe door de beheerscommissie gedelegeerd, alle uitgaven verrichten in het kader van de in toepassing van artikel 41 van het decreet door de Vlaamse Regering goedgekeurde begroting.<br /><br />
+
+### ART. 7.
+
+De beheerscommissie stelt een verantwoordelijke aan die wordt belast met de verrichtingen inzake boekhouding en begroting. Deze verantwoordelijke woont de vergaderingen van de beheerscommissie bij met raadgevende stem.<br /><br />
+
+### ART. 8.
+
+De reis- en verblijfskosten van de leden van de beheerscommissie worden voor rekening van de rechtspersoon terugbetaald aan de leden van de beheerscommissie die geen ambtenaar zijn. Voor de toepassing van dit artikel worden de leden van de beheerscommissie die geen ambtenaar zijn gelijkgesteld met ambtenaren van niveau A3.<br /><br />
+
+## HOOFDSTUK III Begroting & boekhouding
+
+## Afdeling I Algemene bepalingen betreffende de begroting en de boekhouding
+
+### ART. 9.
+
+Inzake begroting en boekhouding is het besluit van de Vlaamse Regering van 21 mei 1997 van toepassing, voor zover hiervan door het decreet of dit besluit niet wordt van afgeweken.<br /><br />
+
+## Afdeling II Specifieke bepalingen betreffende de begroting en de boekhouding
+
+### ART. 10.
+
+§ 1. Overeenkomstig artikel 41 van het decreet dient de Beheerscommissie conform de begrotingsinstructies bij de minister een begrotingsvoorstel in voor de ontvangsten en de uitgaven die gepland zijn in het volgende dienstjaar.<br /><br />§ 2. Een door de Vlaamse Regering goedgekeurd exemplaar van de begroting, wordt voor 1 januari door de minister teruggestuurd naar de beheerscommissie. Als de goedkeuring niet voor 1 januari werd bezorgd, mogen de kredieten voorlopig gebruikt worden zoals voorgesteld. <br /><br />§ 3. Voor overdracht en overschrijvingen tussen de verschillende rubrieken is de voorafgaande machtiging van de minister vereist.<br /><br />§ 4. Overdracht en overschrijding van de limitatieve kredieten uitgetrokken op de begroting van de organismen moeten, vóór enige tenuitvoerlegging, worden toegestaan door de minister en door de Vlaamse minister bevoegd voor de begroting. Bij de aanvraag tot wijziging van de begroting wordt een ontwerp toegevoegd waarin de wijzigingen van de laatste goedgekeurde begroting worden aangeduid. Elk van de wijzigingen dient omstandig te worden verantwoord. Zo de kredietoverschrijdingen een hogere dotatie of subsidie vereist dan voorzien in de algemene uitgavenbegroting, moeten zij vooraf door de aanneming van een overeenstemmend krediet in de algemene uitgavenbegroting worden goedgekeurd.<br /><br />
+
+### ART. 11.
+
+Het saldo maakt deel uit van de middelen van het volgend jaar en kan dienen ter financiering van de uitgaven van de begroting van dat jaar.<br /><br />
+
+### ART. 12.
+
+Het EV ILVO is onderworpen aan de bepalingen van het besluit van 3 februari 2006, gewijzigd bij het besluit van 23 juni 2006 houdende de modaliteiten tot invoering van het centraal kasbeheer voor de Vlaamse verzelfstandigde agentschappen opgericht ingevolge het decreet bestuurlijk beleid van 18 juli 2003.<br /><br />
+
+### ART. 13.
+
+De overhead kosten van de rechtspersoon kunnen niet worden afgewenteld op de Vlaamse Gemeenschap.<br /><br />
+
+## Afdeling III Verslag, controle en goedkeuring der boekhouding
+
+### ART. 14.
+
+§ 1. Overeenkomstig artikel 41 van het decreet stelt de beheerscommissie ieder jaar de rekening van het EV ILVO van het vorige dienstjaar op. <br /><br />§ 2. De rekening van het EV ILVO, samen met het advies van de Inspectie van Financiën wordt vervolgens door de beheerscommissie ter goedkeuring voorgelegd aan de minister en de Vlaamse minister van begroting.<br /><br />§ 3. Uiterlijk tegen 31 mei doet de Vlaamse minister van begroting de rekening voor toezicht aan het Rekenhof geworden.<br /><br />
+
+### ART. 15.
+
+§ 1. De met de financiële controle en certificering belaste instantie, kunnen een toezicht ter plaatse inrichten op de comptabiliteit en de verrichtingen van het EV ILVO. Ze mogen te allen tijde alle bewijsstukken, staten, inlichtingen of toelichtingen opvragen die betrekking hebben op de ontvangsten, de uitgaven, de activa en de schulden.<br /><br />§ 2. De met de financiële controle en certificering belaste instantie is gemachtigd om vastgestelde fouten te laten corrigeren.<br /><br />
+
+### ART. 16.
+
+1. Ten minste één maal per jaar zal een door de minister daartoe specifiek aangeduid ambtenaar de boekhouding van de rechtspersoon nakijken. Deze ambtenaar mag evenwel niet tot het ILVO of tot het EV ILVO behoren. Bij de uitoefening van zijn functie bezit hij daartoe alle onderzoeksbevoegdheden en kan hij alle staving- en bewijsstukken opvragen. Hij vergewist zich van de toestand van de bewaarde goederen. Hij mag zich echter niet met het beheer inlaten.<br /><br />§ 2. De ambtenaar die het toezicht uitoefent, stuurt telkens een afschrift van zijn verslag aan de minister, aan de Vlaamse minister van Begroting en aan de voorzitter van de beheerscommissie en de Inspecteur van Financiën.<br /><br />
+
+## HOOFDSTUK IV Slotbepalingen
+
+### ART. 17.
+
+De minister en de Vlaamse minister bevoegd voor de financiën en de begrotingen zijn, ieder wat hem betreft, belast met de uitvoering van dit besluit.<br /><br />
+
+### ART. 18.
+
+Dit besluit heeft uitwerking met ingang van 1 januari 2007.<br /><br />
