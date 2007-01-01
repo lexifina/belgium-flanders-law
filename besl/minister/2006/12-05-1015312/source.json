@@ -1,0 +1,17 @@
+{
+  "codex_id": 1015312,
+  "title": "Ministerieel besluit van 2006-12-05 houdende de tijdelijke erkenning van een controlearts van de UCI in het kader van de medisch verantwoorde sportbeoefening",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1015312/VolledigDocument?datum=2007-01-01",
+  "source_sha256": "1ea99bb413f948dcf8b538e46dcc9cd71e50784be087a05dbdcd55627d565d29",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1015312&param=informatie",
+  "as_of": "2007-01-01",
+  "made": "2006-12-05",
+  "gazette": "2006-12-22",
+  "numac": 200636998,
+  "document_start": "2007-01-01",
+  "document_end": null,
+  "in_force": "2007-01-01",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2007-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
