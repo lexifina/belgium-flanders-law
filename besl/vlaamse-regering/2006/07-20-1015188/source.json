@@ -2,16 +2,16 @@
   "codex_id": 1015188,
   "title": "Besluit van de Vlaamse Regering van 2006-07-20 houdende wijziging van het besluit van de Vlaamse Regering van 3 februari 2006 houdende de modaliteiten tot invoering van het centraal kasbeheer voor de Vlaamse verzelfstandigde agentschappen opgericht ingevolge het decreet bestuurlijk beleid van 18 juli 2003",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1015188/VolledigDocument?datum=2006-01-01",
-  "source_sha256": "1021bb30ae1d344224381d4199dd6cd03ab782ca29591e0d5604be3345b519b7",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1015188/VolledigDocument?datum=2007-01-01",
+  "source_sha256": "9d27770c2cf1fc6a5dc092b19e9b104700812b68cf4d76e80500ee6badbc718e",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1015188&param=informatie",
-  "as_of": "2006-01-01",
+  "as_of": "2007-01-01",
   "made": "2006-07-20",
   "gazette": "2006-11-24",
   "numac": 2006036875,
   "document_start": "2006-01-01",
   "document_end": null,
-  "in_force": "2006-01-01",
-  "article_versions": 1,
-  "record_form": "consolidated version as in force on 2006-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "in_force": "2007-01-01",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2007-01-01; future article versions excluded; article text as the API gives it"
 }
