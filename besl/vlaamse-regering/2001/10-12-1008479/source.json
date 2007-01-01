@@ -2,16 +2,16 @@
   "codex_id": 1008479,
   "title": "Besluit van de Vlaamse Regering van 2001-10-12 tot vaststelling van de capaciteit van de gemeenschapsinstellingen voor Bijzondere Jeugdbijstand",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1008479/VolledigDocument?datum=2006-06-01",
-  "source_sha256": "e5772c7a122c4f7c4d7f31438dbc3210d7287c7fbaf27b4d83dfc86dc2f75e1f",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1008479/VolledigDocument?datum=2007-01-01",
+  "source_sha256": "b0b86582e8e7ff0b9e8e94ad95906e4b9981e2145753f7d7d65afd9cbd3edada",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1008479&param=informatie",
-  "as_of": "2006-06-01",
+  "as_of": "2007-01-01",
   "made": "2001-10-12",
   "gazette": "2001-12-12",
   "numac": 2001036383,
   "document_start": "2002-01-01",
   "document_end": "2006-12-31",
-  "in_force": "2006-06-01",
+  "in_force": "2007-01-01",
   "article_versions": 4,
-  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2007-01-01; future article versions excluded; article text as the API gives it"
 }
