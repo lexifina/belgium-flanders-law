@@ -31106,7 +31106,7 @@ Rubriek
 		</tr>
 		<tr>
 			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:215.95pt">
-			<p>1° het aanbrengen van een <strong>[</strong>coating (verv. BVR 28 november 2003, art. 3, I: 1 april 2004)<strong>]</strong> op voertuigen, of een deel daarvan, als onderdeel van de reparatie, de bescherming of de decoratie van voertuigen buiten de fabriek;</p>
+			<p>1° …</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; vertical-align:bottom; width:45pt">
 			<p>&nbsp;</p>
