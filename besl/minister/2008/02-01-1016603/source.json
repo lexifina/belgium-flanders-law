@@ -2,16 +2,16 @@
   "codex_id": 1016603,
   "title": "Ministerieel besluit van 2008-02-01 tot wijziging van de bijlage bij het ministerieel besluit van 27 november 2006 houdende de goedkeuring van de handleiding tot uitvoering van de Vlaamse zorgverzekering rekening houdende met de Europese regelgeving en de internationale verdragen",
   "type": "Ministerieel besluit",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1016603/VolledigDocument?datum=2005-01-01",
-  "source_sha256": "e41ec30422919fd02c3f49f4f0d0de7bedf3d1ddba7197babd394a9a0e86de5a",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1016603/VolledigDocument?datum=2007-01-01",
+  "source_sha256": "2365892869537651a457da34f1923d57b92fbd9f7fb38d8c6b3e1063ddd3d89b",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1016603&param=informatie",
-  "as_of": "2005-01-01",
+  "as_of": "2007-01-01",
   "made": "2008-02-01",
   "gazette": "2008-02-21",
   "numac": 2008035279,
   "document_start": null,
   "document_end": null,
-  "in_force": "2005-01-01",
-  "article_versions": 5,
-  "record_form": "consolidated version as in force on 2005-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "in_force": "2007-01-01",
+  "article_versions": 6,
+  "record_form": "consolidated version as in force on 2007-01-01; future article versions excluded; article text as the API gives it"
 }
