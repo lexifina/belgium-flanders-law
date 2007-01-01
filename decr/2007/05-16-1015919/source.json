@@ -2,16 +2,16 @@
   "codex_id": 1015919,
   "title": "Decreet van 2007-05-16 betreffende dringende maatregelen voor het onderwijs",
   "type": "Decreet",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1015919/VolledigDocument?datum=2006-09-01",
-  "source_sha256": "fb7b6ddfff813fac21090441f9072ff94658aec4acfbc34229ddb866cfe2d840",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1015919/VolledigDocument?datum=2007-01-01",
+  "source_sha256": "0b443b516f003ab19d24cd060856f33af8413f1036695e4bda515f04addda60e",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1015919&param=informatie",
-  "as_of": "2006-09-01",
+  "as_of": "2007-01-01",
   "made": "2007-05-16",
   "gazette": "2007-07-02",
   "numac": 2007035963,
   "document_start": null,
   "document_end": null,
-  "in_force": "2006-09-01",
-  "article_versions": 8,
-  "record_form": "consolidated version as in force on 2006-09-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "in_force": "2007-01-01",
+  "article_versions": 13,
+  "record_form": "consolidated version as in force on 2007-01-01; future article versions excluded; article text as the API gives it"
 }
