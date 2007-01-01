@@ -2,16 +2,16 @@
   "codex_id": 1014537,
   "title": "Besluit van de Vlaamse Regering van 2006-03-31 betreffende het Departement Welzijn, Volksgezondheid en Gezin, betreffende de inwerkingtreding van regelgeving tot oprichting van agentschappen in het beleidsdomein Welzijn, Volksgezondheid en Gezin en betreffende de wijziging van regelgeving met betrekking tot dat beleidsdomein",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1014537/VolledigDocument?datum=2006-06-01",
-  "source_sha256": "0af6120a62d3545af866975b0cb19111fa3f01828b298b664c50547b67fe6b0d",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1014537/VolledigDocument?datum=2007-01-01",
+  "source_sha256": "b5ffef3290ce3f4d9b5a24e22354de5a7fb1a9533d2589b96f58acb071fc2bc8",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1014537&param=informatie",
-  "as_of": "2006-06-01",
+  "as_of": "2007-01-01",
   "made": "2006-03-31",
   "gazette": "2006-05-31",
   "numac": 2006035781,
   "document_start": "2006-04-01",
   "document_end": "2023-05-31",
-  "in_force": "2006-06-01",
+  "in_force": "2007-01-01",
   "article_versions": 81,
-  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2007-01-01; future article versions excluded; article text as the API gives it"
 }
