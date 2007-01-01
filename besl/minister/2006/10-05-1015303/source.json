@@ -1,0 +1,17 @@
+{
+  "codex_id": 1015303,
+  "title": "Ministerieel besluit van 2006-10-05 tot wijziging van het ministerieel besluit van 16 juni 2004 houdende toekenning van opdrachten aan IVB VZW betreffende de controle op de indeling van geslachte varkens en volwassen runderen",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1015303/VolledigDocument?datum=2007-01-01",
+  "source_sha256": "3a28a3b76dbf195ce0bb5d3c0772b6db3b971e40e0911c25502063e5bffb8b27",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1015303&param=informatie",
+  "as_of": "2007-01-01",
+  "made": "2006-10-05",
+  "gazette": "2006-12-19",
+  "numac": 2006036741,
+  "document_start": "2007-01-01",
+  "document_end": null,
+  "in_force": "2007-01-01",
+  "article_versions": 5,
+  "record_form": "consolidated version as in force on 2007-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
