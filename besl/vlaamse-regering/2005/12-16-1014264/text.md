@@ -90,7 +90,7 @@ De steun wordt toegekend in de vorm van een subsidie.
 
 ### ART. 19.
 
-De subsidie bedraagt maximaal 5000 euro per drie kalenderjaren en wordt toegekend binnen de perken van de beschikbare begrotingsmiddelen. Bovendien wordt de subsidie per pijler beperkt tot een maximaal bedrag van 2500 euro.<br /><br />De subsidieaanvragen, vermeld in artikel 24 tot en met 26, zijn alleen mogelijk in de loop van hetzelfde kalenderjaar.<br /><br />De eventuele aanvullende stortingen, vermeld in artikel 24, en de betalingen van de kosten, vermeld in artikel 28, mogen uitgevoerd worden uiterlijk tot het einde van het tweede kalenderjaar dat volgt op het jaar waarin de subsidieaanvragen werden gedaan. Vanaf het derde kalenderjaar dat volgt op het jaar waarin de subsidieaanvragen werden gedaan, kan een nieuwe cyclus beginnen.<br /><br />De minister kan beslissen om de beschikbare begrotingsmiddelen in periodieke schijven vrij te geven.
+De subsidie bedraagt maximaal 5000 euro per twee kalenderjaren en wordt toegekend binnen de perken van de beschikbare begrotingsmiddelen. Bovendien wordt de subsidie per pijler beperkt tot een maximaal bedrag van 2500 euro.<br /><br />De minister kan beslissen om de beschikbare begrotingsmiddelen in periodieke schijven vrij te geven.
 
 ### ART. 20.
 
@@ -113,6 +113,10 @@ Als de onderneming voldoet aan de voorwaarden, vermeld in artikel 22, wordt de s
 ### ART. 24.
 
 Bij een eerste subsidieaanvraag wordt een ondernemerschapsportefeuille op naam van de onderneming opgemaakt.<br /><br />Als het aanvaardbare projectbedrag kleiner is dan of gelijk is aan 3000 euro, wordt de subsidieaanvraag goedgekeurd als de onderneming 65 % van dat bedrag heeft betaald.<br /><br />Als het aanvaardbare projectbedrag groter is dan 3000 euro, wordt de subsidieaanvraag goedgekeurd als de onderneming een bedrag heeft betaald dat ligt tussen 65 % van 3000 euro en 65 % van het aanvaardbare projectbedrag. Het eventuele resterende saldo kan betaald worden via aanvullende stortingen.
+
+### ART. 24bis.
+
+De bijkomende subsidieaanvragen moeten ingediend worden, en de eventuele aanvullende stortingen, vermeld in artikel 24, en de betaling van de in aanmerking komende kosten, vermeld in artikel 28, moeten uitgevoerd worden uiterlijk op het einde van het eerste kalenderjaar dat volgt op het jaar waarin de eerste subsidieaanvraag werd ingediend. Na die periode kan een nieuwe cyclus beginnen.
 
 ### ART. 25.
 
