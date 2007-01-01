@@ -1,0 +1,17 @@
+{
+  "codex_id": 1021082,
+  "title": "Decreet van 2011-11-18 tot wijziging van het decreet van 17 december 1997 betreffende de rustpensioenen, toegekend aan de vastbenoemde en tot de stage toegelaten personeelsleden van de Vlaamse Maatschappij voor Watervoorziening, en betreffende de overlevingspensioenen, toegekend aan de rechtverkrijgenden van die personeelsleden",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1021082/VolledigDocument?datum=2007-01-01",
+  "source_sha256": "9fad80bf81e6044bf12d7ee43e00a5011f910d55e855fe88aa7748e35fb0236d",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1021082&param=informatie",
+  "as_of": "2007-01-01",
+  "made": "2011-11-18",
+  "gazette": "2011-12-16",
+  "numac": 2011206213,
+  "document_start": "2007-01-01",
+  "document_end": null,
+  "in_force": "2007-01-01",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2007-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
