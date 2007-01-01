@@ -12,6 +12,14 @@ In artikel 19quinquies, § 3, van het besluit van de Vlaamse Regering van 28 sep
 
 Aan artikel 19sexies van hetzelfde besluit, ingevoegd bij het besluit van de Vlaamse Regering van 19 mei 2006, worden volgende wijzigingen aangebracht :<br />1° in het eerste lid worden de woorden "noch een bezwaarschrift indient" geschrapt;<br />2° een derde lid wordt toegevoegd, dat luidt als volgt :<br />"In afwijking van het eerste lid wordt de invordering opgeschort indien een persoon een bezwaarschrift indient, binnen de termijn, vermeld in artikel 19quinquies, § 3."
 
+### ART. 3.
+
+Artikel 36 van hetzelfde besluit, vervangen bij het besluit van de Vlaamse Regering van 2 april 2004, wordt vervangen door wat volgt :<br />"Art. 36. Een door de minister aangewezen controleorgaan kan de graad van zorgbehoevendheid, vastgesteld aan de hand van een indicatiestelling of het attest, bij een gebruiker die een tenlasteneming ontvangt voor mantel- en thuiszorg, op eigen initiatief controleren en is daartoe gehouden telkens als het Fonds dat vraagt. In voorkomend geval zal het controleorgaan een nieuwe indicatiestelling uitvoeren."
+
+### ART. 4.
+
+Artikel 44quater van hetzelfde besluit, ingevoegd bij het besluit van de Vlaamse Regering van 13 december 2002, wordt vervangen door wat volgt :<br />"Art. 44quater. De zorgkas betaalt de tenlasteneming voor residentiële zorg uit via overschrijving op het rekeningnummer van de gebruiker, op basis van door de minister te bepalen attesten die het verblijf in de residentiële zorgvoorziening aantonen. Als de gebruiker of zijn wettelijke ver tegenwoordiger er zelf om verzoekt, betaalt de zorgkas in contanten aan de gebruiker. De minister kan nadere regels bepalen met betrekking tot de bewijsvoering waaraan de gebruiker op het vlak van zorgbehoevendheid en verblijf in de residentiële zorgvoorziening moet voldoen."
+
 ### ART. 5.
 
 Dit besluit heeft uitwerking met ingang van 1 mei 2006, met uitzondering van artikelen 3 en 4, die in werking treden op 1 januari 2007.

@@ -2,16 +2,16 @@
   "codex_id": 1015378,
   "title": "Besluit van de Vlaamse Regering van 2006-12-08 tot wijziging van het besluit van de Vlaamse Regering van 28 september 2001 houdende de erkenning, de registratie en de machtiging, en houdende de aansluiting, de aanvraag en de tenlasteneming in het kader van de zorgverzekering",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1015378/VolledigDocument?datum=2006-05-01",
-  "source_sha256": "038b3c5739f0d643fd622c3f435269600805a76575f53cb783adbb440b99e1ae",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1015378/VolledigDocument?datum=2007-01-01",
+  "source_sha256": "07e5f106f04eb7375bab6613564f2fcc5850ab84b538b2e9cfceefca9c459c28",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1015378&param=informatie",
-  "as_of": "2006-05-01",
+  "as_of": "2007-01-01",
   "made": "2006-12-08",
   "gazette": "2007-01-18",
   "numac": 2007035029,
   "document_start": null,
   "document_end": null,
-  "in_force": "2006-05-01",
-  "article_versions": 5,
-  "record_form": "consolidated version as in force on 2006-05-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "in_force": "2007-01-01",
+  "article_versions": 7,
+  "record_form": "consolidated version as in force on 2007-01-01; future article versions excluded; article text as the API gives it"
 }
