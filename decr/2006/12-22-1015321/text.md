@@ -2,6 +2,10 @@
 
 ## HOOFDSTUK I Algemene bepalingen
 
+### ART. 1.
+
+Dit decreet regelt een gemeenschaps- en gewestaangelegenheid.
+
 ## HOOFDSTUK II Wijziging van de wet van 8 juli 1976 betreffende de openbare centra voor maatschappelijk welzijn
 
 ### ART. 2.
@@ -17,6 +21,10 @@ In artikel 20quinquies van dezelfde wet, ingevoegd bij het decreet van 7 juli 20
 In artikel 25 van dezelfde wet, vervangen bij het decreet van 7 juli 2006, worden de volgende wijzigingen aangebracht :<br />1° in § 1, eerste lid, worden tussen de woorden « wordt bediend » en « een voorzitter » de woorden « met uitzondering van de vrijwillige brandweerlieden en de leden van de vrijwillige ambulancediensten » ingevoegd;<br />2° in § 1, derde lid, worden de woorden « degene die hem zal » vervangen door de woorden « de persoon die hem zal of de personen die hem zullen »;<br />3° er wordt een § 6 toegevoegd, die luidt als volgt :<br />« § 6. De Vlaamse Regering kent de eretitels toe onder de voorwaarden die ze vaststelt, en bepaalt de ambtskledij en de onderscheidingstekens van de voorzitter. »
 
 ## HOOFDSTUK III Wijziging van het decreet van 6 juli 2001 houdende de intergemeentelijke samenwerking
+
+### ART. 5.
+
+In artikel 48 van het decreet van 6 juli 2001 houdende de intergemeentelijke samenwerking wordt het tweede lid opgeheven.
 
 ## HOOFDSTUK IV Wijziging van het Gemeentedecreet van 15 juli 2005
 
@@ -79,6 +87,10 @@ In artikel 50, § 1, eerste lid, van hetzelfde decreet worden na de zinsnede « 
 ### ART. 19.
 
 Indien de gemeenteraad overeenkomstig artikel 312 van het Gemeentedecreet beslist om de voorzitter van de raad voor maatschappelijk welzijn niet toe te voegen aan het college van burgemeester en schepenen, kan, in afwijking van artikel 25 van de organieke wet van 8 juli 1976 betreffende de openbare centra voor maatschappelijk welzijn, de voorzitter van de raad voor maatschappelijk welzijn tevens verkozen worden onder de leden van de raad voor maatschappelijk welzijn die personeelslid zijn van het gemeentelijk onderwijs.
+
+### ART. 20.
+
+Uiterlijk negen maanden na de datum van inwerkingtreding ervan zoals bepaald door de Vlaamse Regering overeenkomstig artikel 313 van het Gemeentedecreet, dienen de gemeenten hun organisatie in overeenstemming te hebben gebracht met de volgende bepalingen van het Gemeentedecreet :<br />1° het oprichten en aanstellen van de leden van een managementteam overeenkomstig artikel 96; <br />2° het goedkeuren door de gemeenteraad van het interne controlesysteem zoals bepaald in de artikelen 100 en 101;<br />3° het vaststellen van wat onder het begrip dagelijks bestuur in de zin van de artikelen 43, § 2, 9°, en 159, § 2, en onder opdrachten van dagelijks bestuur in de zin van de artikelen 43, § 2, 10°, en 57, § 3, 5°, moet worden verstaan. Zolang de gemeenteraad deze laatste beslissing niet genomen heeft, blijven de beslissingen die de gemeenteraad heeft genomen inzake dagelijks beheer met toepassing van artikel 234, tweede lid, van de Nieuwe Gemeentewet van kracht;<br />4° het vaststellen overeenkomstig artikel 160, § 2, derde lid, binnen de perken die vastgelegd zijn door de Vlaamse Regering, van welke categorieën van verrichtingen van dagelijks bestuur uitgesloten zijn van visumverplichting. Zolang de gemeenteraad deze beslissing niet genomen heeft, zijn alle beslissingen die genomen worden binnen de perken vastgelegd door de Vlaamse Regering, vrijgesteld van de visumverplichting;<br />5° de rapporteringsverplichtingen bedoeld in de artikelen 165, 166, 167 en 168;<br />6° het verrichten van betalingen met dubbele handtekening overeenkomstig artikel 163.<br /><br />Voormelde bepalingen van het Gemeentedecreet treden in werking zodra de gemeente haar organisatie ermee in overeenstemming heeft gebracht. Deze bepalingen van het Gemeentedecreet treden in ieder geval in werking voor alle gemeenten uiterlijk negen maanden na de datum van inwerkingtreding bepaald door de Vlaamse Regering overeenkomstig artikel 313 van het Gemeentedecreet.
 
 ### ART. 21.
 
