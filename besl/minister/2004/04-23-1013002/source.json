@@ -2,16 +2,16 @@
   "codex_id": 1013002,
   "title": "Ministerieel besluit van 2004-04-23 houdende de vaststelling van de vergoeding van de controlelaboratoria",
   "type": "Ministerieel besluit",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1013002/VolledigDocument?datum=2006-06-01",
-  "source_sha256": "7ee7a6c68c7748d81ed149a9c79a42ab5431b72c92d9252e1bae2a3c78c7fb80",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1013002/VolledigDocument?datum=2007-01-01",
+  "source_sha256": "12732611175cc451daa1efd0dc049274aa1161d0565dad8c43f0d02a5a04d339",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1013002&param=informatie",
-  "as_of": "2006-06-01",
+  "as_of": "2007-01-01",
   "made": "2004-04-23",
   "gazette": "2004-05-14",
   "numac": 2004035674,
   "document_start": "2004-05-14",
   "document_end": "2006-12-31",
-  "in_force": "2006-06-01",
+  "in_force": "2007-01-01",
   "article_versions": 4,
-  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2007-01-01; future article versions excluded; article text as the API gives it"
 }
