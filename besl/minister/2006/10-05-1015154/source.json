@@ -2,16 +2,16 @@
   "codex_id": 1015154,
   "title": "Ministerieel besluit van 2006-10-05 houdende beëindiging van de visserij op heek in de i.c.e.s.-gebieden II, IV",
   "type": "Ministerieel besluit",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1015154/VolledigDocument?datum=2006-11-17",
-  "source_sha256": "90ac253c50faa93e92a6fe97f2d62b9caf2114c62bcea41c475742815e904121",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1015154/VolledigDocument?datum=2007-01-01",
+  "source_sha256": "5dda06ad555f8e4f5acb48550b7753f404e3a300246ad6e0798e86d3cd44e366",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1015154&param=informatie",
-  "as_of": "2006-11-17",
+  "as_of": "2007-01-01",
   "made": "2006-10-05",
   "gazette": "2006-11-17",
   "numac": 2006036863,
   "document_start": "2006-11-17",
   "document_end": "2006-12-31",
-  "in_force": "2006-11-17",
+  "in_force": "2007-01-01",
   "article_versions": 4,
-  "record_form": "consolidated version as in force on 2006-11-17; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2007-01-01; future article versions excluded; article text as the API gives it"
 }
