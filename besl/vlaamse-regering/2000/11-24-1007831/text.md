@@ -34,7 +34,7 @@ In het bedrijfsplan bedoeld in artikel 4, moet worden aangetoond dat de invester
 
 ### ART. 8.
 
-[De totale omvang van de subsidiabele investeringen bedraagt voor de periode 2000-2006 maximaal:<br /><br />500.000 euro per VAK en 1.000.000 euro per bedrijf voor de financiële steun onder vorm van rentetoelage en/of kapitaalpremie vatbaar voor communautaire cofinanciering;<br /><br />2.000.000 euro per bedrijf voor de overheidswaarborg.  <span class="reference">(verv. B.V.R. 3 december 2004, art. 1, I: 1 januari 2004)</span> ]
+De totale omvang van de subsidiabele investeringen bedraagt voor een voortschrijdende periode van 7 jaren maximaal 1.000.000 euro per natuurlijke persoon, beherend vennoot, zaakvoerder, bestuurder of gedelegeerd bestuurder telkens met de kwalificatie landbouwer of per bestuurder-landbouwer van de sociale instelling of de consumentencoöperatie, behoudens voor de overheidswaarborg waarvoor ongeacht het aantal personen met de kwalificatie landbouwer op het bedrijf 2.000.000 euro subsidiabele investeringen altijd aanvaard kunnen worden.<br /><br />De rentetoelage bedraagt maximaal 4 % voor de investeringen, vermeld in artikel 6, § 2, 1° en 2°, en 3 % voor de investeringen, vermeld in artikel 6, § 2, 3° en 4°. <br />
 
 ### ART. 9.
 
