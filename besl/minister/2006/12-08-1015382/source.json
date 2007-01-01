@@ -1,0 +1,17 @@
+{
+  "codex_id": 1015382,
+  "title": "Ministerieel besluit van 2006-12-08 houdende herziening van de refertelijst inzake individuele materiële bijstand",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1015382/VolledigDocument?datum=2007-01-01",
+  "source_sha256": "ae63c899e8745bfc7299fefe52738797db547642ef79678499b228db5a69ac5c",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1015382&param=informatie",
+  "as_of": "2007-01-01",
+  "made": "2006-12-08",
+  "gazette": "2007-01-19",
+  "numac": 2007035049,
+  "document_start": "2007-01-01",
+  "document_end": null,
+  "in_force": "2007-01-01",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2007-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
