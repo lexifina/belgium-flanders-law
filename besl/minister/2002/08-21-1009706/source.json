@@ -2,16 +2,16 @@
   "codex_id": 1009706,
   "title": "Ministerieel besluit van 2002-08-21 houdende vaststelling van het \"besluit loodsgelden en loodsvergoedingen Scheldereglement\"",
   "type": "Ministerieel besluit",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1009706/VolledigDocument?datum=2006-06-01",
-  "source_sha256": "8e732eca6344faff15919f037140fb6b35b3808aa7eadef270b613e1da6a0c3d",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1009706/VolledigDocument?datum=2007-01-01",
+  "source_sha256": "f846677b788838e591ed7ee4fc133d7afa5d241222df6b51e712380739c6b87b",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1009706&param=informatie",
-  "as_of": "2006-06-01",
+  "as_of": "2007-01-01",
   "made": "2002-08-21",
   "gazette": "2002-09-28",
   "numac": 0,
   "document_start": null,
   "document_end": null,
-  "in_force": "2006-06-01",
+  "in_force": "2007-01-01",
   "article_versions": 23,
-  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2007-01-01; future article versions excluded; article text as the API gives it"
 }
