@@ -2,16 +2,16 @@
   "codex_id": 1014178,
   "title": "Besluit van de Vlaamse Regering van 2005-10-21 betreffende het sluiten van beheersovereenkomsten in uitvoering van de Verordening (EG) nr. 1257/1999 van de Raad van 17 mei 1999 inzake steun voor plattelandsontwikkeling",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1014178/VolledigDocument?datum=2006-06-01",
-  "source_sha256": "a9634689b07531792365fa132d56460cc93ab893a998accd960d275d74a7d9c1",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1014178/VolledigDocument?datum=2007-01-01",
+  "source_sha256": "78009d454cc9d4a8cca13baaa95d8e9a241dcac2368ff81b8d094c7f693c19dc",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1014178&param=informatie",
-  "as_of": "2006-06-01",
+  "as_of": "2007-01-01",
   "made": "2005-10-21",
   "gazette": "2006-01-10",
   "numac": 2005036617,
   "document_start": "2005-10-01",
   "document_end": "2006-12-31",
-  "in_force": "2006-06-01",
+  "in_force": "2007-01-01",
   "article_versions": 40,
-  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2007-01-01; future article versions excluded; article text as the API gives it"
 }

@@ -10,11 +10,11 @@ In dit besluit wordt verstaan onder:<br /><br />1° de afdeling natuur: de afdel
 
 ### ART. 2.
 
-Een beheersovereenkomst kan gesloten worden tussen de maatschappij en de aangifteplichtige, als bedoeld in artikel 3 van het meststoffendecreet, alsook de vrijwillige aangever. Deze verbindt zich er vrijwillig toe om gedurende een bepaalde termijn één of meer beheerspakketten uit te voeren tegen betaling van een vooraf bepaalde vergoeding, binnen de perken van de begrotingskredieten.<br /><br />Een beheersovereenkomst kan enkel worden gesloten voor cultuurgronden die door de aangifteplichtige worden gebruikt en aangegeven overeenkomstig artikel 3 van het meststoffendecreet of die door de vrijwillige aangever worden gebruikt.<br /><br />Op alle percelen van het betreffende bedrijf worden op zijn minst de beginselen van de gebruikelijke goede landbouwmethoden in acht genomen.
+...
 
 ### ART. 3.
 
-§ 1. De volgende beheersdoelstellingen worden vastgesteld:<br /><br />1° de soortenbescherming;<br /><br />2° het perceelsrandenbeheer;<br /><br />3° het herstel, de ontwikkeling en het onderhoud van kleine landschapselementen;<br /><br />4° het botanisch beheer;<br /><br />5° de erosiebestrijding op potentieel en actueel erosiegevoelige gronden;<br /><br />6° het verbeteren van de kwaliteit van oppervlakte- en grondwater in kwetsbare zones water;<br /><br />7° het beheer van graslanden in kwetsbare zones natuur en in kwetsbare zones ecologisch waardevolle agrarische gebieden.<br /><br />§ 2. De minister stelt de beheerspakketten vast die het voorwerp kunnen uitmaken van een beheersovereenkomst.<br /><br />In de beheerspakketten worden beheersmaatregelen opgenomen waardoor een hogere kwaliteit voor natuur en milieu wordt bereikt dan de basiskwaliteit voor natuur en milieu. Met basiskwaliteit voor natuur en milieu wordt die kwaliteit bedoeld die wordt bereikt door het naleven van de gebruikelijke goede landbouwmethoden, door het naleven van de eisen gesteld in artikel 3, 4 en 5 van de verordening 1782/2003, door het naleven van voorschriften vastgesteld in regelgeving betreffende natuur en milieu en door het respecteren van het standstill-beginsel.
+...
 
 ### ART. 4.
 
@@ -22,154 +22,154 @@ Een beheersovereenkomst kan gesloten worden tussen de maatschappij en de aangift
 
 ### ART. 5.
 
-§ 1. Per beheersgebied of gedeelten ervan kan de minister een beheersvisie opstellen. Ze omvat tenminste:<br /><br />1° een omschrijving van de actuele en potentiële natuur- en landschapswaarden en van de milieukwaliteiten;<br /><br />2° het streefbeeld voor de natuur- en landschapswaarden en van de milieukwaliteiten;<br /><br />3° de toepasselijke beheersdoelstellingen;<br /><br />4° de door de inzet van de beheerspakketten te verwachten positieve resultaten op het gebied van natuur- en landschapswaarden en de verbetering van milieuomstandigheden en de manier waarop dat bijdraagt tot de algemene milieukwaliteit.<br /><br />Als een natuurrichtplan bestaat, geldt dat als beheersvisie.<br /><br />§ 2. Als er geen beheersvisie is, legt de minister voor ieder beheersgebied of gedeelten ervan vast welke beheersdoelstellingen en daarbijbehorende beheerspakketten van toepassing zijn, rekening houdend met het streefbeeld voor de natuur- en landschapselementen en van de milieukwaliteiten in het bedoelde beheersgebied en rekening houdend met bestemmingen aangeduid op de plannen van aanleg of ruimtelijke uitvoeringsplannen van kracht in de ruimtelijke ordening en met de maatregelen bedoeld in het artikel 36ter, §§ 1 en 2, van het decreet van 21 oktober 1997 betreffende het natuurbehoud en het natuurlijk milieu.<br /><br />§ 3. Als een natuurrichtplan bepalingen oplegt die strenger zijn dan de beheersmaatregelen beschreven in de beheerspakketten, dan is de beheerder gehouden de bepalingen uit het natuurrichtplan na te leven.
+...
 
 ### ART. 6.
 
-De minister bepaalt de nadere regels met betrekking tot de procedure voor het sluiten van beheersovereenkomsten en stelt de modeldocumenten vast die vereist zijn voor het sluiten van beheersovereenkomsten. Een beheersovereenkomst kan enkel worden gesloten na gunstig advies van de afdeling die overeenkomstig artikel 21, tweede, derde en vijfde lid belast is met het verlenen van advies met betrekking tot beheersovereenkomsten.<br /><br />Op verzoek van de aanvrager kunnen op cultuurgronden beheersovereenkomsten worden gesloten indien ze in overeenstemming zijn met de beheersvisie of de beheersdoelstelling.<br /><br />Onverminderd de bepalingen van artikel 5 kan een beheersovereenkomst enkel gesloten worden indien:<br /><br />1° in de drie jaren voorafgaand aan de aanvraag de beheerder geen strafrechtelijke sanctie heeft opgelopen in het kader van het decreet van 23 januari 1991 inzake de bescherming van het leefmilieu tegen de verontreiniging door meststoffen of van het decreet van 21 oktober 1997 betreffende het natuurbehoud en het natuurlijk milieu of van hun uitvoeringsbesluiten;<br /><br />2° voorzover het betreffende onroerend goed gelegen is in een speciale beschermingszone als bedoeld in het decreet van 21 oktober 1997 betreffende het natuurbehoud en het natuurlijk milieu, de beheersovereenkomst niet in strijd is met de bepalingen van de Habitat- en de Vogelrichtlijn als bedoeld in hetzelfde decreet en met de maatregelen als bedoeld in artikel 36ter, 1 en 2 van hetzelfde decreet.<br /><br />Elke beheersovereenkomst wordt gesloten voor een duur van ten minste vijf jaar tenzij de toepasselijke Europese regelgeving inzake plattelandsontwikkeling een andere duur bepaalt.<br /><br />De beheersovereenkomst kan aanvangen op 1 januari, 1 april, 1 juli of 1 oktober. De minister bepaalt de aanvangsdatum van de beheersovereenkomst. Wanneer de minister geen aanvangsdatum heeft bepaald, bepaalt de afdeling die overeenkomstig artikel 21, tweede, derde en vijfde lid belast is met het verlenen van advies met betrekking tot beheersovereenkomsten de aanvangsdatum van de beheersovereenkomst.
+...
 
 ### ART. 7.
 
-Vanaf het sluiten van de beheersovereenkomst, dient de beheerder de beheersovereenkomst na te leven, zich te onderwerpen aan de controle van de naleving ervan en dient hij alle gegevens, nodig om de evaluatie van de maatregelen mogelijk te maken, aan de maatschappij ter beschikking te stellen.
+...
 
 ### ART. 8.
 
-§ 1. De minister bepaalt de beheersvergoeding voor de beheerspakketten in het kader van de beheersdoelstellingen soortenbescherming; het perceelsrandenbeheer; het herstel, de ontwikkeling en het onderhoud van kleine landschapselementen en het botanisch beheer.<br /><br />De Vlaamse minister bevoegd voor het leefmilieu bepaalt de beheersvergoeding voor de beheerspakketten in het kader van de beheersdoelstelling erosiebestrijding op potentieel en actueel erosiegevoelige gronden, de beheersdoelstelling verbeteren waterkwaliteit in kwetsbare zones water en de beheersdoelstelling het beheer van graslanden in kwetsbare zones natuur en in kwetsbare zones ecologisch waardevolle agrarische gebieden.<br /><br />Het bedrag van de beheersvergoeding omvat de vergoeding voor de inkomstenverliezen, de extra kosten veroorzaakt door de beheersovereenkomst en desgevallend het stimulerende element.<br /><br />De minister bepaalt de voorwaarden van betaling van de beheersvergoeding.<br /><br />De beheersvergoeding kan niet gecumuleerd worden met andere vormen van vergoeding uitgekeerd voor dezelfde of een gelijkaardige prestatie die wordt toegekend op grond van andere regelgeving dan dit besluit.<br /><br />§ 2. De Vlaamse minister, bevoegd voor de landschappen kan binnen de landschappelijke relictzones een supplementaire vergoeding toekennen voor de beheersovereenkomsten met als beheersdoelstelling het herstel, de ontwikkeling en het onderhoud van kleine landschapselementen. De Vlaamse minister, bevoegd voor de landschappen, bepaalt het bedrag en de procedure voor het verkrijgen van deze supplementaire vergoeding.<br /><br />Gemeenten en provincies kunnen een facultatieve verhoging toekennen voor alle beheerspakketten aangegaan in het kader van dit besluit, met uitzondering van de pakketten in het kader van de beheersdoelstelling verbeteren van de waterkwaliteit in kwetsbare zones water en de beheersdoelstelling beheer van graslanden in kwetsbare zones natuur en in kwetsbare zones ecologisch waardevolle agrarische gebieden. De facultatieve verhoging voor beheersovereenkomsten met als beheersdoelstelling erosiebestrijding kan enkel toegekend worden voor beheersovereenkomsten die kaderen in een door de bevoegde Vlaamse overheid goedgekeurd erosiebestrijdingsplan.<br /><br />Het totale bedrag van de supplementaire vergoedingen en de facultatieve verhogingen mag niet hoger zijn dan 20 procent van de beheersvergoeding. Indien een supplementaire vergoeding gegeven wordt, kan geen facultatieve verhoging toegekend worden. Wanneer het totale bedrag van de facultatieve verhogingen hoger is dan 20 procent van de beheersvergoeding, dan wordt de laatst toegekende facultatieve verhoging verlaagd.
+...
 
 ### ART. 9.
 
-Voor zover er niet uitdrukkelijk in de beheersovereenkomst wordt van afgeweken, zijn de bepalingen van gemeen recht, in het bijzonder de bepalingen van Boek III, titel III, van het Burgerlijk Wetboek, van toepassing op de beheersovereenkomsten.
+...
 
 ## HOOFDSTUK III Bijzondere bepalingen betreffende de beheersovereenkomsten
 
 ### ART. 10.
 
-§ 1. De beheersovereenkomst of één of meerdere detailovereenkomsten kunnen voortijdig worden beëindigd wegens overmacht in de volgende gevallen:<br /><br />1° overlijden van de beheerder;<br /><br />2° langdurige arbeidsongeschiktheid van de beheerder;<br /><br />3° onteigening van een groot gedeelte van de bedrijfsoppervlakte, voorzover de onteigening op de dag waarop de beheersovereenkomst is gesloten, niet was te voorzien;<br /><br />4° een natuurramp die het landbouwareaal van het bedrijf in belangrijke mate ongunstig beïnvloedt voorzover de overheid de ramp als natuurramp heeft erkend overeenkomstig de wet van 12 juli 1976 betreffende het herstel van zekere schade veroorzaakt aan private goederen door natuurrampen;<br /><br />5° het door een ongeluk tenietgaan van de voor veehouderij bestemde gebouwen van de beheerder;<br /><br />6° een epizoötie die de gehele veestapel van de beheerder, of een deel ervan, heeft getroffen, en die het onmogelijk maakt de bepalingen van de beheersovereenkomst na te leven;<br /><br />7° beëindiging van de pacht door de verpachter, voorzover de beëindiging van de pacht op de dag waarop de beheersovereenkomst is gesloten, niet was te voorzien.<br /><br />§ 2. Onverminderd de bepalingen van § 1 kunnen in individuele gevallen en rekening houdend met de bijzondere omstandigheden, op verzoek van de beheerder, andere gevallen van overmacht dan die bedoeld in § 1 worden erkend door de maatschappij.<br /><br />§ 3. De kennisgeving van een geval van overmacht, bedoeld in § 1, of de aanvraag tot erkenning van een geval als overmacht, bedoeld in § 2, wordt samen met de bijbehorende bewijsstukken schriftelijk ingediend door de beheerder of zijn rechtsopvolger bij de maatschappij binnen dertig werkdagen nadat de beheerder of zijn rechtsopvolger daartoe in staat is. Indien overmacht wordt ingeroepen op grond van de in § 1 opgesomde gevallen of indien een erkenning van een geval als overmacht wordt aangevraagd op grond van § 2, beslist de maatschappij of het meegedeelde geval een geval van overmacht is. Binnen twee maanden na ontvangst door de maatschappij van de kennisgeving van een geval van overmacht of van de aanvraag tot erkenning van een geval als overmacht, stelt de maatschappij de beheerder of zijn rechtsopvolger bij aangetekende brief in kennis van haar beslissing.<br /><br />§ 4. In geval van overmacht eindigt de beheersovereenkomst of de detailovereenkomst. De beheerder ontvangt een beheersvergoeding, een facultatieve verhoging en een supplementaire vergoeding voor het jaar waarop de beheersvergoeding slaat en waarin het geval van overmacht zich voordoet. De beheersvergoeding, facultatieve verhoging of supplementaire vergoeding verschuldigd voor de periode waarin de beheersovereenkomst of detailovereenkomst daadwerkelijk gold, moet niet worden terugbetaald.
+...
 
 ### ART. 11.
 
-Wanneer de beheerder de bepalingen van de beheersovereenkomst niet kan blijven nakomen omdat zijn bedrijf bij een landinrichtingsmaatregel van de overheid is betrokken, deelt de beheerder dit onmiddellijk schriftelijk mee aan de maatschappij. Als landinrichtingsmaatregel van de overheid wordt onder andere beschouwd:<br /><br />1° een landinrichtingsproject, ingesteld overeenkomstig het decreet van 21 december 1988 houdende oprichting van de Vlaamse Landmaatschappij;<br /><br />2° een natuurinrichtingsproject, ingesteld overeenkomstig decreet van 21 oktober 1997 betreffende het natuurbehoud en het natuurlijk milieu;<br /><br />3° een ruilverkaveling, ingesteld overeenkomstig de wet van 22 juli 1970 op de ruilverkaveling van landeigendommen uit kracht van de wet, zoals aangevuld door de wet van 11 augustus 1978 houdende bijzondere bepalingen eigen aan het Vlaamse Gewest.<br /><br />De maatschappij bepaalt de voorwaarden om de beheersovereenkomst of de detailovereenkomst aan de nieuwe bedrijfsomstandigheden aan te passen. De maatschappij kan hiertoe een aangepaste beheersovereenkomst of detailovereenkomst voorleggen.<br /><br />Indien een aanpassing aan de nieuwe bedrijfsomstandigheden onmogelijk is, eindigt de beheersovereenkomst of de detailovereenkomst. De beheerder ontvangt een beheersvergoeding, een facultatieve verhoging en een supplementaire vergoeding voor het jaar waarop de beheersvergoeding slaat en waarin de landinrichtingsmaatregel de naleving van de voorwaarden of maatregelen bepaald in de beheersovereenkomst onmogelijk maakt. De beheersvergoeding, facultatieve verhoging of supplementaire vergoeding verschuldigd voor de periode waarin de beheersovereenkomst of de detailovereenkomst daadwerkelijk gold, moet niet worden terugbetaald.<br /><br />Binnen twee maanden na ontvangst door de maatschappij van de mededeling dat de beheerder de beheersovereenkomst of de detailovereenkomst niet langer kan nakomen, stelt de maatschappij de beheerder bij aangetekende brief in kennis van haar beslissing betreffende de voorwaarden tot aanpassing van de beheersovereenkomst of de detailovereenkomst of van haar beslissing tot beëindiging van de beheersovereenkomst of de detailovereenkomst.
+...
 
 ### ART. 12.
 
-§ 1. Wanneer de beheerder in de loop van de beheersovereenkomst zijn bedrijf geheel of gedeeltelijk overdraagt, kan de overnemer van het bedrijf de beheersovereenkomst of één of meer detailovereenkomsten voor de resterende looptijd overnemen. Na de overname stelt de beheerder de maatschappij schriftelijk in kennis van de overname.<br /><br />§ 2. Indien de overnemer de beheersovereenkomst of één of meer detailovereenkomsten overneemt, dan bevat de kennisgeving bedoeld in § 1 een schriftelijke bevestiging van de overnemer dat hij de beheersovereenkomst of één of meer detailovereenkomsten overneemt. De overnemer ontvangt een beheersvergoeding, een facultatieve verhoging en een supplementaire vergoeding voor het jaar waarop de beheersvergoeding slaat én waarin hij de beheersovereenkomst of één of meer detailovereenkomsten overneemt.<br /><br />§ 3. Indien de overnemer van het bedrijf de beheersovereenkomst of de betreffende detailovereenkomsten niet overneemt, wordt de beheersovereenkomst of de detailovereenkomst beëindigd.<br /><br />Er is geen beheersvergoeding, facultatieve verhoging of supplementaire vergoeding verschuldigd voor het jaar waarop de beheersvergoeding slaat én waarin de beheersovereenkomst of één of meer detailovereenkomsten beëindigd worden.<br /><br />De beheerder betaalt de ontvangen beheersvergoedingen terug, alsook in voorkomende geval de supplementaire vergoedingen en de facultatieve verhogingen.<br /><br />Van de terugbetaling kan worden afgezien als de beheerder reeds gedurende drie jaar de beheersovereenkomst is nagekomen en zijn landbouwactiviteit heeft beëindigd.<br /><br />Binnen twee maanden na ontvangst door de maatschappij van de kennisgeving betreffende de overname, stelt de maatschappij de beheerder bij aangetekende brief in kennis van haar beslissing. In voorkomend geval vordert de maatschappij het verschuldigde bedrag terug.
+...
 
 ### ART. 13.
 
-Wanneer de beheerder in de loop van de beheersovereenkomst zijn landbouwactiviteiten definitief stopzet en het bedrijf niet wordt overgenomen, wordt de beheersovereenkomst beëindigd. Na de definitieve stopzetting van zijn landbouwactiviteiten<br /><br />stelt de beheerder de maatschappij schriftelijk in kennis van de stopzetting.<br /><br />Er is geen beheersvergoeding, facultatieve verhoging of supplementaire vergoeding verschuldigd voor het jaar waarop de beheersvergoeding slaat én waarin de landbouwactiviteit definitief is stopgezet. De beheerder betaalt de ontvangen beheersvergoedingen terug, alsook in voorkomende geval de supplementaire vergoedingen en de facultatieve verhogingen. Van de terugbetaling kan worden afgezien als de beheerder reeds gedurende drie jaar de beheersovereenkomst is nagekomen.<br /><br />Binnen twee maanden na ontvangst door de maatschappij van de kennisgeving betreffende de stopzetting van de landbouwactiviteit, stelt de maatschappij de beheerder bij aangetekende brief in kennis van haar beslissing. In voorkomend geval vordert de maatschappij het verschuldigde bedrag terug.
+...
 
 ### ART. 14.
 
-Op schriftelijk verzoek van de beheerder kan de maatschappij de bestaande beheersovereenkomst gedurende haar looptijd omzetten in een nieuwe beheersovereenkomst, op voorwaarde dat de omzetting onomstotelijk voordelen voor de natuur of het milieu biedt, de bestaande beheersovereenkomst in belangrijke mate wordt versterkt en de beheersovereenkomst wordt omgezet in een beheersovereenkomst die is opgenomen in het programmeringsdocument of die afgesloten wordt in uitvoering van het decreet van 21 oktober 1997 betreffende het natuurbehoud en het natuurlijk milieu. Een beheersovereenkomst wordt in belangrijke mate versterkt indien de oppervlakte of lengte van het beheersvoorwerp of het aantal beheersvoorwerpen toeneemt. Een beheersovereenkomst wordt eveneens in belangrijke mate versterkt indien overgegaan wordt naar een ander beheerpakket met strengere maatregelen en voorwaarden.<br /><br />Binnen twee maanden na ontvangst door de maatschappij van het verzoek, stelt de maatschappij de beheerder bij aangetekende brief in kennis van haar beslissing. De maatschappij kan een aangepaste beheersovereenkomst of detailovereenkomst voorleggen.
+...
 
 ### ART. 15.
 
-§ 1. Wanneer een beheerder gedurende de looptijd van de beheersovereenkomst de oppervlakte van zijn bedrijf vergroot of de oppervlakte waarop de beheersovereenkomst betrekking heeft, wenst te vergroten, kan de beheerder aan de maatschappij vragen om de beheersovereenkomst voor het resterende deel van de looptijd uit te breiden tot de extra oppervlakte.<br /><br />De uitbreiding kan alleen worden toegestaan wanneer aan al de volgende voorwaarden is voldaan:<br /><br />1° de uitbreiding levert voor de betrokken beheersdoelstelling onbetwistbaar voordeel op;<br /><br />2° de uitbreiding is rekening houdend met de duur van de resterende looptijd en de omvang van de extra oppervlakte, gerechtvaardigd;<br /><br />3° de uitbreiding doet geen afbreuk aan de doeltreffende controle op de naleving van de beheersovereenkomst.<br /><br />De extra oppervlakte, bedoeld in het tweede lid, 2°, moet aanmerkelijk kleiner zijn dan de oorspronkelijke oppervlakte waarvoor de beheersovereenkomst is gesloten en de extra oppervlakte mag niet meer dan 2 hectare bedragen.<br /><br />§ 2. Binnen twee maanden na ontvangst door de maatschappij van het verzoek tot uitbreiding van de oorspronkelijke beheersovereenkomst, stelt de maatschappij de beheerder bij aangetekende brief in kennis van haar beslissing. De maatschappij kan een aangepaste beheersovereenkomst of detailovereenkomst voorleggen.
+...
 
 ### ART. 16.
 
-Indien de maatschappij oordeelt dat de beheerder door ernstige nalatigheid onjuiste gegevens heeft meegedeeld, wordt de beheersovereenkomst beëindigd. De beheerder wordt voor het betreffende kalenderjaar uitgesloten van elke steun uitgekeerd op grond van Hoofdstuk VI van Titel II van de verordening.<br /><br />Indien de maatschappij oordeelt dat de beheerder opzettelijk onjuiste gegevens heeft meegedeeld, wordt de beheersovereenkomst beëindigd. De beheerder wordt voor het betreffende en het daaropvolgende kalenderjaar uitgesloten van elke steun uitgekeerd op grond van Hoofdstuk VI van Titel II van de verordening.<br /><br />De beheerder betaalt elk bedrag terug dat hij ten onrechte heeft ontvangen ten gevolge van de mededeling van de onjuiste gegevens.<br /><br />Binnen twee maanden na de vaststelling van de onjuiste gegevens stelt de maatschappij de beheerder bij aangetekende brief in kennis van de beslissing. In voorkomend geval vordert de maatschappij het verschuldigde bedrag terug.
+...
 
 ### ART. 17.
 
-§ 1. Indien de maatschappij oordeelt dat de beheerder in gebreke blijft met de naleving van de beheersovereenkomst of een of meer detailovereenkomsten, dan wordt, naargelang de ernst en de herstelbaarheid van de overtredingen:<br /><br />1° ofwel mondeling of schriftelijk een aanmaning gegeven om het nodige te doen om de overtreding te beëindigen, de gevolgen ervan geheel of gedeeltelijk ongedaan te maken en een herhaling ervan te voorkomen;<br /><br />2° ofwel voor het desbetreffende jaar geen beheersvergoeding, supplementaire vergoeding of facultatieve verhoging uitbetaald of de reeds betaalde beheersvergoeding, supplementaire vergoeding of facultatieve verhoging teruggevorderd;<br /><br />3° ofwel de beheersovereenkomst of de detailovereenkomst onmiddellijk beëindigd en wordt overgegaan tot de terugvordering van de betreffende beheersvergoedingen, facultatieve verhogingen of supplementaire vergoedingen;<br /><br />4° ofwel de beheersovereenkomst of de detailovereenkomst onmiddellijk beëindigd, wordt overgegaan tot de terugvordering van de betreffende beheersvergoedingen, facultatieve verhogingen of supplementaire vergoedingen en wordt de beheerder gedurende twee jaar uitgesloten van elke steun in het kader van de verordening.<br /><br />De maatschappij stelt de beheerder bij aangetekende brief in kennis van haar beslissing binnen de twee maand na haar beslissing.<br /><br />§ 2. Iedere toezichthoudende ambtenaar die vaststelt dat een beheerder de bepalingen van de beheersovereenkomst niet naleeft, moet binnen een maand na de vaststelling van de overtreding een kopie van de vaststelling van deze overtreding overmaken aan de maatschappij en de beheerder.
+...
 
 ### ART. 18.
 
-Indien de maatschappij oordeelt dat een beheersvergoeding, facultatieve verhoging of supplementaire vergoeding werd uitgekeerd ten gevolge van een fout van de bevoegde instantie en die fout redelijkerwijs niet kon worden ontdekt door de beheerder, dan is er geen terugbetaling vereist.<br /><br />Oordeelt de maatschappij dat de fout van de bevoegde instantie redelijkerwijs kon worden ontdekt door de beheerder, dan stelt de maatschappij binnen twee maanden na de vaststelling van de fout de beheerder bij aangetekende brief in kennis van het bedrag dat de beheerder moet terugbetalen en vordert het verschuldigde bedrag terug.
+...
 
 ### ART. 19.
 
-Onverminderd de artikelen 10 tot en met 18, wordt de beheersovereenkomst of de detailovereenkomst beëindigd door de maatschappij indien niet langer voldaan is aan de voorwaarden voor het sluiten van een beheersovereenkomst.<br /><br />Binnen twee maanden na de vaststelling door de maatschappij dat niet langer aan de voorwaarden voor het sluiten van een beheersovereenkomst is voldaan, stelt de maatschappij de beheerder bij aangetekende brief in kennis van de beëindiging van de beheersovereenkomst of detailovereenkomst.<br /><br />De beheerder ontvangt een beheersvergoeding, een facultatieve verhoging en een supplementaire vergoeding voor het jaar waarop de beheersvergoeding slaat en waarin niet langer kan voldaan worden aan de voorwaarden voor het sluiten van een beheersovereenkomst. De beheersvergoeding, facultatieve verhoging of supplementaire vergoeding verschuldigd voor de periode waarin de beheersovereenkomst of detailovereenkomst daadwerkelijk gold, moet niet worden terugbetaald.
+...
 
 ### ART. 20.
 
-Wanneer de beheerder een beheersvergoeding en in voorkomend geval een facultatieve verhoging of een supplementaire vergoeding moet terugbetalen kan de maatschappij het bedrag dat de beheerder moet terugbetalen, verrekenen met de eerstvolgende betalingen.<br /><br />De maatschappij betaalt in voorkomend geval de facultatieve verhoging en de supplementaire vergoeding terug aan de betrokken instanties.
+...
 
 ## HOOFDSTUK IV Organisatie
 
 ### ART. 21.
 
-Onverminderd haar bevoegdheden bepaald door of krachtens een decreet, staat de maatschappij in voor de actieve bevordering, het sluiten, de voortgangsbewaking, de praktische uitvoering en het uitvoeren van de monitoring van de beheersovereenkomsten. De resultaten van de monitoring worden aangewend om, indien nodig, de beheersmaatregelen of de inzet van de beheerspakketten aan te passen waardoor een hogere kwaliteit voor natuur en milieu wordt bereikt dan de basiskwaliteit voor natuur en milieu, bedoeld in artikel 3. De maatschappij zorgt ervoor dat deze opdrachten voldoende overlegd worden met de afdelingen die overeenkomstig dit artikel belast zijn met de voorbereiding en de evaluatie van het beleid inzake beheersovereenkomsten.<br /><br />De afdeling natuur wordt belast met de voorbereiding en de evaluatie van het beleid en met het verlenen van advies inzake beheersovereenkomsten binnen de gebieden, vermeld in artikel 4, § 2, 1° en 2°.<br /><br />De afdeling land wordt, met uitsluiting van beheersovereenkomsten in gebieden vermeld in het tweede lid en de beheersovereenkomsten bedoeld in het vierde, vijfde en zesde lid, belast met de voorbereiding en de evaluatie van het beleid en met het verlenen van advies inzake beheersovereenkomsten binnen de gebieden, vermeld in artikel 4, § 2, 3°.<br /><br />De afdeling monumenten en landschappen wordt belast met de voorbereiding en de evaluatie van het beleid inzake supplementaire vergoeding voor beheersovereenkomsten met als beheersdoelstelling het herstel, de ontwikkeling en het onderhoud van kleine landschapselementen.<br /><br />Met uitsluiting van de afdelingen, bedoeld in het tweede en derde lid, wordt enkel de maatschappij, afdeling mestbank belast met de voorbereiding en de evaluatie van het beleid en met het verlenen van advies inzake beheersovereenkomsten met als beheersdoelstelling het verbeteren van de oppervlakte- en grondwaterkwaliteit in kwetsbare zones water.<br /><br />De afdeling Water en de Vlaamse Milieumaatschappij worden belast met de controle van de oppervlaktewaterkwaliteit en van de grondwaterkwaliteit in de kwetsbare gebieden water, vermeld in artikel 4, § 2, 4°, meer specifiek met het oog op de opvolging van de effecten van de beheersovereenkomsten met als beheersdoelstelling het verbeteren van de waterkwaliteit in kwetsbare zones water.<br /><br />De afdeling die belast is met de voorbereiding van het beleid inzake beheersovereenkomsten legt de kredieten voor de vergoedingen voor de beheersovereenkomsten vast op de begroting en draagt de kosten voor de monitoring van de beheersdoelstellingen.
+...
 
 ### ART. 22.
 
-De maatschappij, de afdeling natuur, de afdeling land en de afdeling monumenten en landschappen worden, ieder voor wat hun bevoegdheden betreft, belast met het toezicht op de naleving van de beheersovereenkomsten en de evaluatie van de beheersmaatregelen genomen in het kader van dit besluit. Zij kunnen zich hiertoe laten bijstaan door derden.
+...
 
 ### ART. 23.
 
-§ 1. De minister richt een geschillencommissie op, die is samengesteld uit de volgende leden:<br /><br />1° de voorzitter, op voordracht van de Vlaamse minister, bevoegd voor het leefmilieu;<br /><br />2° één lid, op voordracht van de Vlaamse minister, bevoegd voor het natuurbehoud;<br /><br />3° één lid op voordracht van de Vlaamse minister, bevoegd voor het Landbouwbeleid;<br /><br />4° één lid op voordracht van de Vlaamse minister, bevoegd voor de Landschappen.<br /><br />Voor elk lid wordt op dezelfde wijze een plaatsvervanger aangewezen.<br /><br />De voorzitter organiseert het secretariaat voor de geschillencommissie.<br /><br />§ 2. De geschillencommissie kan enkel beslissingen nemen indien de meerderheid van de leden aanwezig is. De geschillencommissie beslist bij meerderheid van 2/3 van de stemmen. Bij staking van stemmen is de stem van de voorzitter beslissend. De geschillencommissie kan de beslissing van de maatschappij herzien.<br /><br />De minister kan het huishoudelijk reglement van de geschillencommissie vaststellen.<br /><br />De minister kan een vergoeding toekennen aan de leden van de geschillencommissie die geen ambtenaar zijn en kan de nadere regels betreffende de uitkering van deze vergoeding bepalen.
+...
 
 ### ART. 24.
 
-Tegen elke beslissing van de maatschappij kan bezwaar worden ingediend bij de geschillencommissie. Het bezwaar is enkel ontvankelijk als het bezwaar bij de geschillencommissie bij aangetekende brief wordt ingediend binnen een maand na de verzending van de beslissing van de maatschappij.<br /><br />Binnen vier maanden na ontvangst van de brief waarbij het bezwaar wordt ingediend bij de geschillencommissie, stelt de geschillencommissie de indiener van het bezwaar en de maatschappij in kennis van haar beslissing. Indien de geschillencommissie geen beslissing neemt binnen de vier maanden neemt de Minister de beslissing.<br /><br />De geschillencommissie neemt een beslissing op basis van de schriftelijk geformuleerde bezwaren. De geschillencommissie kan de maatschappij en de indiener van het bezwaar oproepen om gehoord te worden inzake de ingediende bezwaren.<br /><br />Het indienen van een ontvankelijk bezwaar schort de uitbetaling en de terugvorderingen op van de betrokken beheersvergoedingen, de supplementaire vergoedingen en de facultatieve verhogingen totdat de geschillencommissie een beslissing heeft genomen over het bezwaar.
+...
 
 ## HOOFDSTUK V Wijzigingsbepalingen
 
 ### ART. 25.
 
-(niet opgenomen)<br /><br />(Wijzigt artikel 1 van het besluit van de Vlaamse Regering van 10 november 2000 tot vaststelling van een vergoedingenregeling ter uitvoering van artikel 15, 15bis,15ter,15sexies, §§ 1 en 3, en 15septies van het decreet van 23 januari 1991 inzake de bescherming van het leefmilieu tegen de verontreiniging door meststoffen en tot wijziging van het besluit van de Vlaamse Regering van 26 mei 2000 ter uitvoering van sommige artikelen van hetzelfde decreet)
+...
 
 ### ART. 26.
 
-(niet opgenomen)<br /><br />(Heft in hetzelfde besluit afdeling 2 van hoofdstuk I op)
+...
 
 ### ART. 27.
 
-(niet opgenomen)<br /><br />(Wijzigt artikel 12 van hetzelfde besluit)
+...
 
 ### ART. 28.
 
-(niet opgenomen)<br /><br />(Heft hoofdstuk III van hetzelfde besluit op)
+...
 
 ### ART. 29.
 
-(niet opgenomen)<br /><br />(Heft artikel 23 van hetzelfde besluit op)
+...
 
 ### ART. 30.
 
-(niet opgenomen)<br /><br />(wijzigt artikel 24 van hetzelfde besluit)
+...
 
 ### ART. 31.
 
-(niet opgenomen)<br /><br />(Wijzigt artikel 25 van hetzelfde besluit)
+...
 
 ### ART. 32.
 
-(niet opgenomen)<br /><br />(Wijzigt artikel 26 van hetzelfde besluit)
+...
 
 ### ART. 33.
 
-(niet opgenomen)<br /><br />(Heft bijlage I, II, III en IV van hetzelfde besluit op)
+...
 
 ## HOOFDSTUK VI Opheffingsbepalingen
 
 ### ART. 34.
 
-(niet opgenomen)<br /><br />(Heft het besluit van de Vlaamse Regering van 10 oktober 2003 betreffende het sluiten van beheersovereenkomsten in uitvoering van de Verordening (EG) nr. 1257/99 van de Raad van 17 mei 1999 inzake steun voor plattelandsontwikkeling op)
+...
 
 ## HOOFDSTUK VII Overgangs- en slotbepalingen
 
 ### ART. 35.
 
-Op de beheersovereenkomsten gesloten op grond van het besluit van de Vlaamse Regering van 10 november 2000 tot vaststelling van een vergoedingenregeling ter uitvoering van artikel 15, 15bis, 15ter, 15sexies, §§ 1 en 3, en 15septies van het decreet van 23 januari 1991 inzake de bescherming van het leefmilieu tegen de verontreiniging door meststoffen en tot wijziging van het besluit van de Vlaamse Regering van 26 mei 2000 ter uitvoering van sommige artikelen van hetzelfde decreet, blijven de bepalingen van het voornoemde besluit van 10 november 2000 van toepassing zoals ze geldig waren voor de inwerkingtreding van dit besluit met uitzondering van artikel 3, § 1, vijfde lid, artikel 7, § 2 en § 3, en artikel 23 van het voornoemde besluit van 10 november 2000 betreffende de geschillencommissie waarvoor de artikelen 23 en 24 van dit besluit van toepassing zijn.<br /><br />Een bezwaar dat tijdig bij de geschillencommissie werd ingediend overeenkomstig de bepalingen van het voormelde besluit van 10 november 2000 zoals ze geldig waren voor de inwerkingtreding van dit besluit, wordt beschouwd als tijdig ingediend overeenkomstig artikel 24 van dit besluit.
+...
 
 ### ART. 36.
 
-Artikel 14 wordt van toepassing gemaakt op de beheerovereenkomsten, vermeld in artikel 35, eerste lid, met het oog op de mogelijke omzetting van deze beheersovereenkomsten in een nieuwe beheersovereenkomst.
+...
 
 ### ART. 37.
 
-Op de beheersovereenkomsten gesloten op grond van het besluit van de Vlaamse Regering van 10 oktober 2003 betreffende het sluiten van beheersovereenkomsten in uitvoering van de Verordening (EG) nr. 1257/1999 van de Raad van 17 mei 1999 inzake steun voor plattelandsontwikkeling, blijven de bepalingen van het voornoemde besluit van 10 oktober 2003 van toepassing zoals ze geldig waren voor de inwerkingtreding van dit besluit met uitzondering van de artikelen 22 en 23 betreffende de geschillenadviescommissie waarvoor de artikelen 23 en 24 van dit besluit van toepassing zijn.
+...
 
 ### ART. 38.
 
-Op de beheersovereenkomsten gesloten op grond van het besluit van de Vlaamse Regering van 13 april 1999 betreffende de toekenning van subsidies om landbouwproductiemethoden toe te passen en het sluiten van beheersovereenkomsten ter uitvoering van de Verordening (EG) 2078/92 van de Raad van 30 juni 1992 betreffende landbouwproductiemethoden die verenigbaar zijn met de eisen inzake milieubescherming, en betreffende natuurbeheer, blijven de bepalingen van het voornoemde besluit van de Vlaamse Regering van 13 april 1999 van toepassing met uitzondering van de artikelen 29 en 30 betreffende de geschillenadviescommissie waarvoor de artikelen 23 en 24 van dit besluit van toepassing zijn.
+...
 
 ### ART. 39.
 
-De Vlaamse minister, bevoegd voor het natuurbehoud, de Vlaamse minister, bevoegd voor het leefmilieu en de Vlaamse minister, bevoegd voor de landschappen zijn, ieder wat hem betreft, belast met de uitvoering van dit besluit.
+...
 
 ### ART. 40.
 
-Dit besluit heeft uitwerking met ingang van 1 oktober 2005.
+...
