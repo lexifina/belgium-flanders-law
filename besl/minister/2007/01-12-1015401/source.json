@@ -1,0 +1,17 @@
+{
+  "codex_id": 1015401,
+  "title": "Ministerieel besluit van 2007-01-12 tot uitvoering van artikelen 11 en 12 van het ministerieel besluit van 29 oktober 2004 tot uitvoering van het besluit van de Vlaamse Regering van 1 oktober 2004 tot toekenning van steun aan ondernemingen voor ecologie-investeringen in het Vlaamse Gewest",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1015401/VolledigDocument?datum=2007-01-12",
+  "source_sha256": "475ff4ac7e4b57d90736301a491d2c5ffc6189a2fa464ac5037e5e8eccd9aded",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1015401&param=informatie",
+  "as_of": "2007-01-12",
+  "made": "2007-01-12",
+  "gazette": "2007-01-26",
+  "numac": 2007035057,
+  "document_start": null,
+  "document_end": null,
+  "in_force": "2007-01-12",
+  "article_versions": 5,
+  "record_form": "consolidated version as in force on 2007-01-12; oldest version available; future article versions excluded; article text as the API gives it"
+}
