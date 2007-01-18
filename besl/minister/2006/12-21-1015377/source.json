@@ -1,0 +1,17 @@
+{
+  "codex_id": 1015377,
+  "title": "Ministerieel besluit van 2006-12-21 tot uitvoering van artikel 60bis van het Wetboek der Successierechten",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1015377/VolledigDocument?datum=2007-01-18",
+  "source_sha256": "318871f4a19cae23a03de15816cd147617e4aaacaa8f568db5d8e1c14434ad62",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1015377&param=informatie",
+  "as_of": "2007-01-18",
+  "made": "2006-12-21",
+  "gazette": "2007-01-18",
+  "numac": 2007035014,
+  "document_start": "2007-01-18",
+  "document_end": null,
+  "in_force": "2007-01-18",
+  "article_versions": 9,
+  "record_form": "consolidated version as in force on 2007-01-18; oldest version available; future article versions excluded; article text as the API gives it"
+}
