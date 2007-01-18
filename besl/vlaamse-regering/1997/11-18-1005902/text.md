@@ -51,3 +51,23 @@ De bepalingen van dit besluit hebben uitwerking met ingang vanaf 1 januari 1997.
 De Vlaamse minister bevoegd voor financiën is belast met de uitvoering van dit besluit.
 
 ## BIJLAGEN
+
+### BIJLAGE 1.
+
+<a href="http://www.ejustice.just.fgov.be/mopdf/2007/01/18_1.pdf#page=115" title=" bijlage 1" target="_blank" class="pdf">bijlage 1</a>
+
+### BIJLAGE 2.
+
+<a href="http://www.ejustice.just.fgov.be/mopdf/2007/01/18_1.pdf#page=121" title=" bijlage 2" target="_blank" class="pdf">bijlage 2</a>
+
+### BIJLAGE 3.
+
+<a href="http://www.ejustice.just.fgov.be/mopdf/2007/01/18_1.pdf#page=124" title=" bijlage 3" target="_blank" class="pdf">bijlage 3</a>
+
+### BIJLAGE 4.
+
+<a href="http://www.ejustice.just.fgov.be/mopdf/2007/01/18_1.pdf#page=128" title=" bijlage 4" target="_blank" class="pdf">bijlage 4</a>
+
+### BIJLAGE 5.
+
+<a href="http://www.ejustice.just.fgov.be/mopdf/2007/01/18_1.pdf#page=131" title=" bijlage 5" target="_blank" class="pdf">bijlage 5</a>

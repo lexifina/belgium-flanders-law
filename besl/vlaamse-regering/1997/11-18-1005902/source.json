@@ -2,16 +2,16 @@
   "codex_id": 1005902,
   "title": "Besluit van de Vlaamse Regering van 1997-11-18 betreffende de vrijstelling van successierechten voor familiale ondernemingen en familiale vennootschappen",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1005902/VolledigDocument?datum=2006-10-17",
-  "source_sha256": "e85471b6ecf754a5570b247e3f1706df3f464aa69008039b3b59be94c2a1fea8",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1005902/VolledigDocument?datum=2007-01-18",
+  "source_sha256": "eea9df7d8aafea40be659ed2cd42b32bbacd8af2d4561399592df21ef91fc9b9",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1005902&param=informatie",
-  "as_of": "2006-10-17",
+  "as_of": "2007-01-18",
   "made": "1997-11-18",
   "gazette": "1998-01-01",
   "numac": 1998036499,
   "document_start": "1997-01-01",
   "document_end": null,
-  "in_force": "2006-10-17",
-  "article_versions": 10,
-  "record_form": "consolidated version as in force on 2006-10-17; future article versions excluded; article text as the API gives it"
+  "in_force": "2007-01-18",
+  "article_versions": 15,
+  "record_form": "consolidated version as in force on 2007-01-18; future article versions excluded; article text as the API gives it"
 }
