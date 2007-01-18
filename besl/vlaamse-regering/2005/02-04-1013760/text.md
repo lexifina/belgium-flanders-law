@@ -50,4 +50,12 @@ De Vlaamse ministers, bevoegd voor de Financiën en voor Leefmilieu en Natuur, z
 
 ## Bijlage I Aanvraag van een vrijstelling van successierechten of van recht van overgang bij overlijden, voor gronden in het Vlaams Ecologisch Netwerk (artikel 55ter van het Wetboek der Successierechten
 
+### Tekst
+
+<a href="http://www.ejustice.just.fgov.be/mopdf/2007/01/18_1.pdf#page=135" title=" " target="_blank" class="pdf"></a>
+
 ## Bijlage II attest van vrijstelling van successierechten of van recht van overgang bij overlijden, voor gronden in het Vlaams Ecologisch Netwek (artikel 55ter van het Wetboek der Successierechten)
+
+### Tekst
+
+<a href="http://www.ejustice.just.fgov.be/mopdf/2007/01/18_1.pdf#page=138" title=" " target="_blank" class="pdf"></a>
