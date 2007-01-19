@@ -20,7 +20,8 @@ Een afschrift van dit besluit wordt ter kennisgeving toegestuurd aan het Rekenho
 ### BIJLAGE I.
 
 Herverdeling van basisallocaties, waarvan het volledig bedrag overgaat naar één enkele andere basisallocatie<br>
-&nbsp;
+<br>
+
 <p><em>(in duizend euro)</em></p>
 
 <table border="1" cellpadding="0" cellspacing="0" style="border-collapse:collapse">
@@ -160,7 +161,7 @@ Herverdeling van basisallocaties, waarvan het volledig bedrag overgaat naar éé
 			<p>NGK</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:49.35pt">
-			<p>1</p>
+			<p>0,5</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:40.5pt">
 			<p><strong>99.1</strong></p>
@@ -175,7 +176,7 @@ Herverdeling van basisallocaties, waarvan het volledig bedrag overgaat naar éé
 			<p><strong>Algemene werkingskosten voor de diensten van de ministeries WVG en CJSM afkomstig van het voormalige departement WVC en de VOI’s Kind en Gezin en het VFSIPH</strong></p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:45pt">
-			<p>1</p>
+			<p>0,5</p>
 			</td>
 		</tr>
 	</tbody>
