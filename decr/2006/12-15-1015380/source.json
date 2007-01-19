@@ -1,0 +1,17 @@
+{
+  "codex_id": 1015380,
+  "title": "Decreet van 2006-12-15 tot wijziging van het decreet van 14 februari 2003 houdende de ondersteuning en de stimulering van het gemeentelijk, het intergemeentelijk en het provinciaal jeugd- en jeugdwerkbeleid",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1015380/VolledigDocument?datum=2007-01-19",
+  "source_sha256": "7021e929b504c7de27a1192d59e6e32120dd8c36e8f6ac84b242c956479b3c5d",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1015380&param=informatie",
+  "as_of": "2007-01-19",
+  "made": "2006-12-15",
+  "gazette": "2007-01-19",
+  "numac": 2007035046,
+  "document_start": "2007-01-19",
+  "document_end": null,
+  "in_force": "2007-01-19",
+  "article_versions": 28,
+  "record_form": "consolidated version as in force on 2007-01-19; oldest version available; future article versions excluded; article text as the API gives it"
+}
