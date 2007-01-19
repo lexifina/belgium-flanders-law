@@ -25,12 +25,12 @@ Het provisioneel krediet ingeschreven onder b.a. 00.17 van het programma 24.60 w
 			<p><strong>BA</strong></p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:115.15pt">
-			<p><strong>NGK</strong></p>
+			<p><strong>GOK</strong></p>
 
 			<p><strong>in meer</strong></p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:115.15pt">
-			<p><strong>NGK</strong></p>
+			<p><strong>GOK</strong></p>
 
 			<p><strong>in min</strong></p>
 			</td>
