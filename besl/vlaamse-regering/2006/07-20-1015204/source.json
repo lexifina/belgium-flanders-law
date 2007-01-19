@@ -2,16 +2,16 @@
   "codex_id": 1015204,
   "title": "Besluit van de Vlaamse Regering van 2006-07-20 betreffende een eerste herverdeling van kredieten voor projecten inzake rationeel energieverbruik in scholen, centra en instellingen hoger onderwijs",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1015204/VolledigDocument?datum=2006-12-07",
-  "source_sha256": "beaf095639c0934b8341e63b0911a9cbab5004fbc2fbfe63cba4a258baccf01c",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1015204/VolledigDocument?datum=2007-01-19",
+  "source_sha256": "998fc04bf212353350b78fc962402a3be0fe2fd96ee55c19fedd0970a1e6c797",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1015204&param=informatie",
-  "as_of": "2006-12-07",
+  "as_of": "2007-01-19",
   "made": "2006-07-20",
   "gazette": "2006-11-27",
   "numac": 0,
   "document_start": "2006-12-07",
   "document_end": null,
-  "in_force": "2006-12-07",
+  "in_force": "2007-01-19",
   "article_versions": 3,
-  "record_form": "consolidated version as in force on 2006-12-07; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2007-01-19; future article versions excluded; article text as the API gives it"
 }

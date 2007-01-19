@@ -7,7 +7,8 @@ De Vlaamse Regering,<br /><br />Gelet op de wetten op de Rijkscomptabiliteit, ge
 ### ART. 1.
 
 <p>Het provisioneel krediet voor REG-projecten voor scholen, centra en instellingen, ingeschreven op de basisallocatie 00.27 van het programma 24.60 van de algemene uitgavenbegroting van de Vlaamse Gemeenschap voor het begrotingsjaar 2006 wordt in een eerste schijf herverdeeld als volgt :<br>
-&nbsp;</p>
+<br>
+(in euro)</p>
 
 <table border="1" cellpadding="0" cellspacing="0" style="border-collapse:collapse">
 	<tbody>
@@ -109,8 +110,6 @@ De Vlaamse Regering,<br /><br />Gelet op de wetten op de Rijkscomptabiliteit, ge
 		</tr>
 	</tbody>
 </table>
-
-<p>&nbsp;</p>
 
 <p>De in de tabel vermelde bedragen worden gevoegd bij de overeenkomstige kredieten voor het begrotingsjaar 2006.<br>
 &nbsp;</p>
