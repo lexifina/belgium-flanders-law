@@ -2,16 +2,16 @@
   "codex_id": 1010800,
   "title": "Decreet van 2003-02-14 houdende de ondersteuning en de stimulering van het gemeentelijk, het intergemeentelijk en het provinciaal jeugd- en jeugdwerkbeleid",
   "type": "Decreet",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1010800/VolledigDocument?datum=2006-06-01",
-  "source_sha256": "2b3c72a2a0e64c1953bd376959f7edd074621aea1ec875943a95dceaac842d7e",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1010800/VolledigDocument?datum=2007-01-19",
+  "source_sha256": "615c89d8162695d9f9e26aca3397aa26cfe4b708f084d68c540b62330836b69e",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1010800&param=informatie",
-  "as_of": "2006-06-01",
+  "as_of": "2007-01-19",
   "made": "2003-02-14",
   "gazette": "2003-03-24",
   "numac": 2003035285,
   "document_start": "2003-03-24",
   "document_end": "2013-12-31",
-  "in_force": "2006-06-01",
+  "in_force": "2007-01-19",
   "article_versions": 31,
-  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2007-01-19; future article versions excluded; article text as the API gives it"
 }
