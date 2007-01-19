@@ -1,0 +1,17 @@
+{
+  "codex_id": 1015342,
+  "title": "Besluit van de Vlaamse Regering van 2006-10-20 tot herverdeling van basisallocaties van de begroting van de Vlaamse gemeenschap voor het begrotingsjaar 2006, tot verdeling van het provisioneel krediet ingeschreven onder b.a. 01.01 pr 45.40 en tot overschrijving van het krediet en de machtiging ingeschreven onder resp. b.a. 61.17 en 99.17 pr 35.40",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1015342/VolledigDocument?datum=2007-01-19",
+  "source_sha256": "1d50a858a0d19071831a964172b206172bff35bb8983f3247a227462345a1f2e",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1015342&param=informatie",
+  "as_of": "2007-01-19",
+  "made": "2006-10-20",
+  "gazette": "2007-01-09",
+  "numac": 2006036991,
+  "document_start": "2007-01-19",
+  "document_end": null,
+  "in_force": "2007-01-19",
+  "article_versions": 11,
+  "record_form": "consolidated version as in force on 2007-01-19; oldest version available; future article versions excluded; article text as the API gives it"
+}
