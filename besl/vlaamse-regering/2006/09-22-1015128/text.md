@@ -7,9 +7,8 @@ De Vlaamse Regering,<br /><br />Gelet op het decreet van 23 december 2005 houden
 ### ART. 1.
 
 De kredieten ingeschreven onder basisallocatie 00.26 van het programma 24.60 worden gedeeltelijk verdeeld conform onderstaande tabel :<br>
-(in duizend euro)<br>
-<br>
-
+(in euro)<br>
+&nbsp;
 <table border="1" cellpadding="0" cellspacing="0" style="border-collapse:collapse">
 	<tbody>
 		<tr>
