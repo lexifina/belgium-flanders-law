@@ -87,7 +87,7 @@ De Vlaamse minister, bevoegd voor de Financiën en de Begroting, is belast met d
 			<p>NGK</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:171pt">
-			<p>SUBSIDIE AAN VZW DE RAND</p>
+			<p>SUBSIDIE AAN VZW DE RAND (departement)</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:41.2pt">
 			<p>93</p>
@@ -116,7 +116,7 @@ De Vlaamse minister, bevoegd voor de Financiën en de Begroting, is belast met d
 			<p>NGK</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:171pt">
-			<p>SUBSIDIE AAN VZW DE RAND</p>
+			<p>SUBSIDIE AAN VZW DE RAND (IVA Kunsten en Erfgoed)</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:41.2pt">
 			<p>18</p>
@@ -145,7 +145,7 @@ De Vlaamse minister, bevoegd voor de Financiën en de Begroting, is belast met d
 			<p>NGK</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:171pt">
-			<p>ANDERE BIJZONDERE EN SPECIFIEKE WERKINGSKOSTEN DAN VERMELD IN DE OVERIGE BASISALLOCATIES</p>
+			<p>ANDERE BIJZONDERE EN SPECIFIEKE WERKINGSKOSTEN DAN VERMELD IN DE OVERIGE BASISALLOCATIES (Departement)</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:41.2pt">
 			<p>92</p>
@@ -174,7 +174,7 @@ De Vlaamse minister, bevoegd voor de Financiën en de Begroting, is belast met d
 			<p>NGK</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:171pt">
-			<p>ANDERE BIJZONDERE EN SPECIFIEKE WERKINGSKOSTEN DAN VERMELD IN DE OVERIGE BASISALLOCATIES</p>
+			<p>ANDERE BIJZONDERE EN SPECIFIEKE WERKINGSKOSTEN DAN VERMELD IN DE OVERIGE BASISALLOCATIES (IVA Kunsten en Erfgoed)</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:41.2pt">
 			<p>460</p>
@@ -203,7 +203,7 @@ De Vlaamse minister, bevoegd voor de Financiën en de Begroting, is belast met d
 			<p>NGK</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:171pt">
-			<p>ANDERE BIJZONDERE EN SPECIFIEKE WERKINGSKOSTEN DAN VERMELD IN DE OVERIGE BASISALLOCATIES</p>
+			<p>ANDERE BIJZONDERE EN SPECIFIEKE WERKINGSKOSTEN DAN VERMELD IN DE OVERIGE BASISALLOCATIES (IVA Sociaal-Cultureel Werk)</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:41.2pt">
 			<p>21</p>
@@ -232,7 +232,7 @@ De Vlaamse minister, bevoegd voor de Financiën en de Begroting, is belast met d
 			<p>NGK</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:171pt">
-			<p>ALLERHANDE UITGAVEN VOOR COMMUNICATIE</p>
+			<p>ALLERHANDE UITGAVEN VOOR COMMUNICATIE (Departement)</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:41.2pt">
 			<p>31</p>
@@ -261,7 +261,7 @@ De Vlaamse minister, bevoegd voor de Financiën en de Begroting, is belast met d
 			<p>NGK</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:171pt">
-			<p>ALLERHANDE UITGAVEN VOOR COMMUNICATIE</p>
+			<p>ALLERHANDE UITGAVEN VOOR COMMUNICATIE (IVA Kunsten en Erfgoed)</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:41.2pt">
 			<p>56</p>
@@ -290,7 +290,7 @@ De Vlaamse minister, bevoegd voor de Financiën en de Begroting, is belast met d
 			<p>NGK</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:171pt">
-			<p>ALLERHANDE UITGAVEN VOOR COMMUNICATIE</p>
+			<p>ALLERHANDE UITGAVEN VOOR COMMUNICATIE (IVA Sociaal-Cultureel Werk)</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:41.2pt">
 			<p>56</p>
@@ -319,7 +319,7 @@ De Vlaamse minister, bevoegd voor de Financiën en de Begroting, is belast met d
 			<p>NGK</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:171pt">
-			<p>SUBSIDIES IN HET KADER VAN DE UITVOERING VAN HET VLAAMS INTERSECTORAAL AKKOORD SOCIAL PROFIT</p>
+			<p>SUBSIDIES IN HET KADER VAN DE UITVOERING VAN HET VLAAMS INTERSECTORAAL AKKOORD SOCIAL PROFIT (Departement)</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:41.2pt">
 			<p>2009</p>
@@ -348,7 +348,7 @@ De Vlaamse minister, bevoegd voor de Financiën en de Begroting, is belast met d
 			<p>NGK</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:171pt">
-			<p>SUBSIDIES IN HET KADER VAN DE UITVOERING VAN HET VLAAMS INTERSECTORAAL AKKOORD SOCIAL PROFIT</p>
+			<p>SUBSIDIES IN HET KADER VAN DE UITVOERING VAN HET VLAAMS INTERSECTORAAL AKKOORD SOCIAL PROFIT (IVA Kunsten en Erfgoed)</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:41.2pt">
 			<p>2048</p>
@@ -377,7 +377,7 @@ De Vlaamse minister, bevoegd voor de Financiën en de Begroting, is belast met d
 			<p>NGK</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:171pt">
-			<p>SUBSIDIES IN HET KADER VAN DE UITVOERING VAN HET VLAAMS INTERSECTORAAL AKKOORD SOCIAL PROFIT</p>
+			<p>SUBSIDIES IN HET KADER VAN DE UITVOERING VAN HET VLAAMS INTERSECTORAAL AKKOORD SOCIAL PROFIT (IVA Sociaal-Cultureel Werk)</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:41.2pt">
 			<p>13963</p>
@@ -406,7 +406,7 @@ De Vlaamse minister, bevoegd voor de Financiën en de Begroting, is belast met d
 			<p>NGK</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:171pt">
-			<p>AANKOOP VAN SPECIFIEKE MACHINES, MEUBILAIR, MATERIAAL EN VERVOERMIDDELEN TE LAND</p>
+			<p>AANKOOP VAN SPECIFIEKE MACHINES, MEUBILAIR, MATERIAAL EN VERVOERMIDDELEN TE LAND (Departement)</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:41.2pt">
 			<p>5</p>
@@ -435,7 +435,7 @@ De Vlaamse minister, bevoegd voor de Financiën en de Begroting, is belast met d
 			<p>NGK</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:171pt">
-			<p>AANKOOP VAN SPECIFIEKE MACHINES, MEUBILAIR, MATERIAAL EN VERVOERMIDDELEN TE LAND</p>
+			<p>AANKOOP VAN SPECIFIEKE MACHINES, MEUBILAIR, MATERIAAL EN VERVOERMIDDELEN TE LAND (IVA Kunsten en Erfgoed)</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:41.2pt">
 			<p>24</p>
@@ -464,7 +464,7 @@ De Vlaamse minister, bevoegd voor de Financiën en de Begroting, is belast met d
 			<p>NGK</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:171pt">
-			<p>AANKOOP VAN SPECIFIEKE MACHINES, MEUBILAIR, MATERIAAL EN VERVOERMIDDELEN TE LAND</p>
+			<p>AANKOOP VAN SPECIFIEKE MACHINES, MEUBILAIR, MATERIAAL EN VERVOERMIDDELEN TE LAND (IVA Sociaal-Cultureel Werk)</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:41.2pt">
 			<p>20</p>
