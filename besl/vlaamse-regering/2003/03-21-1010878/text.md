@@ -4,13 +4,13 @@
 
 ### ART. 1.
 
-In dit besluit wordt verstaan onder:<br /><br />1° het decreet: het decreet van 19 december 1998 houdende bepalingen tot begeleiding van de begroting 1999;<br /><br />2° de minister: de Vlaamse minister, bevoegd voor de openbare werken;<br /><br />3° wegeninspecteurs: de ambtenaren, bedoeld in artikel 61 van het decreet;<br /><br />4° wegeninspecteurs-controleurs: de ambtenaren, bedoeld in artikel 59, § 3 en § 4, 60, en 60 ter, §§ 2 en 3, eerste lid, van het decreet.
+In dit besluit wordt verstaan onder :<br />1° het decreet : het decreet van 19 december 1998 houdende bepalingen tot begeleiding van de begroting 1999;<br />2° de minister : de Vlaamse minister, bevoegd voor de openbare werken;<br />3° wegeninspecteur : de ambtenaar aangewezen ter uitvoering van artikel 61 van het decreet;<br />4° wegeninspecteur-controleur : de ambtenaar aangewezen om de administratieve geldboete op te leggen;<br />5° solidariteitsbijdrage : de forfaitaire bijdrage, vermeld in artikel 58, § 1, van het decreet. <br />
 
 ## HOOFDSTUK II BEVOEGDE AMBTENAREN
 
 ### ART. 2.
 
-§ 1. De wegeninspecteurs en de wegeninspecteurs-controleurs zijn ambtenaren van [het Agentschap Infrastructuur  <span class="reference">(verv. B.V.R. 7 oktober 2005, art. 20, I: 1 april 2006)</span> ] van het ministerie van de Vlaamse Gemeenschap. Ze worden aangewezen door de minister.<br /><br />De aanstelling blijkt uit een door de minister ondertekend legitimatiebewijs, zoals beschreven in bijlage I van dit besluit.<br /><br />§ 2. De wegeninspecteurs en de wegeninspecteurs-controleurs kunnen een administratieve geldboete opleggen overeenkomstig artikel 59 van het decreet.<br /><br />De wegeninspecteurs-controleurs zijn eveneens bevoegd, overeenkomstig artikel 60, § 4, van het decreet, tot het geven en het uitvoerbaar verklaren van dwangbevelen.
+§ 1. De wegeninspecteurs en de wegeninspecteurs-controleurs zijn ambtenaren van het Agentschap Infrastructuur van het Vlaams ministerie van mobiliteit en Openbare Werken. Ze worden aangewezen door de minister.<br /><br />De aanstelling blijkt uit een door de minister ondertekend legitimatiebewijs, zoals beschreven in bijlage I van dit besluit.<br /><br />§ 2. Het hoofd van het Agentschap Infrastructuur en de wegeninspecteur-controleur zijn, overeenkomstig artikel 60, § 5, derde lid van het decreet bevoegd tot het geven en uitvoerbaar verklaren van dwangbevelen.<br />
 
 ### ART. 3.
 
@@ -26,7 +26,7 @@ De wegeninspecteurs verplaatsen zich in een dienstvoertuig, voorzien van de kent
 
 ### ART. 5.
 
-De onmiddellijke inning, bedoeld in artikel 59, § 6, en artikel 60bis, § 1, van het decreet, wordt contant verricht. Als een betaalterminal aanwezig is, kunnen de bevoegde personen die aan de overtreder ter beschikking stellen.<br /><br />Indien de overtreder de som niet kan betalen in euro, kan worden betaald in pond sterling of in US dollar.<br /><br />De minister stelt op geregelde tijdstippen voor iedere som de bedragen vast van de hiervóór vermelde deviezen, met het oog op de betaling in speciën. De eerste maal worden deze bedragen vastgesteld binnen een maand na de bekendmaking van dit besluit.<br /><br />De wisselkoers stemt overeen met de wisselkoers die gehanteerd wordt door de federale minister van Financiën, ter uitvoering van het koninklijk besluit van 10 juni 1985 betreffende de inning en de consignatie van een som bij de vaststelling van de overtredingen van het algemeen reglement voor de politie van het wegverkeer.
+De onmiddellijke inning, vermeld in artikel 59, § 6, van het decreet, wordt op één van de volgende wijzen verricht :<br />1° contant;<br />2° door middel van een betaalterminal als die aanwezig is;<br />3° door onmiddellijke storting.<br /><br />Indien de overtreder de som niet kan betalen in euro, kan worden betaald in pond sterling of in US dollar.<br /><br />De minister stelt op geregelde tijdstippen voor iedere som de bedragen vast van de hiervóór vermelde deviezen, met het oog op de betaling in speciën. De eerste maal worden deze bedragen vastgesteld binnen een maand na de bekendmaking van dit besluit.<br /><br />De minister zal de nadere regels inzake onmiddellijke inning bepalen.<br />
 
 ### ART. 6.
 
@@ -40,17 +40,17 @@ De ontvangen sommen worden op geregelde tijdstippen aan de wegeninspecteur-contr
 
 ### ART. 8.
 
-Als de overtreder of zijn werkgever geen woonplaats of vaste verblijfplaats heeft in België, wordt het bedrag van de onmiddellijk te innen administratieve geldboete vermeerderd met een som, bestemd om de eventuele geldboete en de forfaitaire bijdrage, bedoeld in artikel 58, § 1, van het decreet, te dekken.<br /><br />Die som wordt vastgesteld op:<br /><br />1° 100 euro bij overbelasting met minder dan 5 %;<br /><br />2° 300 euro bij overbelasting met 5 tot en met 10 %;<br /><br />3° 500 euro bij overbelasting met 11 tot en met 20 %;<br /><br />4° 750 euro bij overbelasting met meer dan 20 %.<br /><br />De bedragen, genoemd in het tweede lid, zijn onderworpen aan de verhoging, bedoeld in de bepalingen van de wet van 5 maart 1952 betreffende de opdeciemes op de strafrechtelijke geldboeten.
+...
 
 ## HOOFDSTUK IV BEROEP
 
 ### ART. 9.
 
-De vergoeding voor dossierkosten voor de beroepsprocedure, bedoeld in artikel 60, § 3, vijfde lid, en artikel 60ter, § 4, van het decreet bedraagt 75 euro.
+De vergoeding voor dossierkosten voor de beroepsprocedure, bedoeld in artikel 60, § 4, tweede lid, en artikel 60bis, § 3, negende lid, van het decreet bedraagt 75 euro.
 
 ### ART. 10.
 
-Het beroep, bedoeld in artikel 60, § 3, en artikel 60ter, § 3, van het decreet, wordt bij de minister ingediend en door hem uitgesproken.
+Het beroep, bedoeld in artikel 60, § 3, en artikel 60bis, § 3, van het decreet, wordt bij de minister ingediend en door hem uitgesproken.<br /><br />De minister kan de ambtenaren aanwijzen, vermeld in artikel 60, § 4, eerste lid, en in artikel 60bis, § 3, achtste lid, van het decreet.<br />
 
 ## HOOFDSTUK V SLOTBEPALINGEN
 
@@ -66,7 +66,7 @@ De legitimatiekaart is een gele kaart. De kaart heeft de vorm van een rechthoek 
 
 ### ART. 2.
 
-§ 1. De legitimatiekaart bevat op de voorzijde de volgende gegevens :<br />1° het opschrift « Ministerie van de Vlaamse Gemeenschap », met daaronder de titel, « LEGITIMATIEKAART Nr. » en een volgnummer, met daaronder « Administratie Wegen en Verkeer » en daaronder « Wegeninspectie »;<br />2° gecentreerd, onder het opschrift en de titels, genoemd in 1°, een pasfoto in kleur van de titularis van de legitimatiekaart met een minimumgrootte van 20 mm op 30 mm;<br />3° gecentreerd, onder de pasfoto, genoemd in 2°, de voornaam en naam van de titularis en daaronder de functie van de titularis;<br />4° links onderaan, onder de foto, de volgende cursief gedrukte tekst : « (handtekening titularis) » en een ruimte waarin de handtekening van de titularis moet worden geplaatst.<br /><br />De droogstempel van het ministerie van de Vlaamse Gemeenschap wordt aangebracht op de foto van de titularis;<br /><br />§ 2. De achterzijde van de legitimatiekaart bevat de volgende gegevens :<br />1° bovenaan links : het logo van het ministerie van de Vlaamse Gemeenschap;<br />2° bovenaan rechts : « Toezichthouder op de regelgeving tot bestrijding van de schade aan het wegdek door gewichtsoverschrijding. »;<br />3° daaronder : « Artikel 62 van het decreet houdende de bepalingen tot begeleiding van de begroting 1999 verleent de betrokken ambtenaar onder meer het recht om in het kader van zijn opdracht personen te ondervragen en de bijstand van de politie te vorderen. »;<br />4° onderaan : « Brussel », de datum waarop de minister de kaart heeft ondertekend, de naam en officiële titel van de Vlaamse minister, bevoegd voor de openbare werken, en een ruimte waarin de naam en de handtekening van de minister moeten worden geplaatst.<br /><br />§ 3. Model van de voorzijde :<br /> <a href="http://www.ejustice.just.fgov.be/mopdf/2003/05/08_1.pdf#page=59" title=" model" target="_blank" class="pdf">model</a> <br /><br />§ 4. Model van de achterzijde :<br /> <a href="http://www.ejustice.just.fgov.be/mopdf/2003/05/08_1.pdf#page=59" title=" model" target="_blank" class="pdf">model</a> <br /><br />
+§ 1. De legitimatiekaart bevat op de voorzijde de volgende gegevens :<br />1° het opschrift « Vlaamse Overheid », met daaronder de titel, « LEGITIMATIEKAART Nr. » en een volgnummer, met daaronder « Administratie Wegen en Verkeer » en daaronder « Wegeninspectie »;<br />2° gecentreerd, onder het opschrift en de titels, genoemd in 1°, een pasfoto in kleur van de titularis van de legitimatiekaart met een minimumgrootte van 20 mm op 30 mm;<br />3° gecentreerd, onder de pasfoto, genoemd in 2°, de voornaam en naam van de titularis en daaronder de functie van de titularis;<br />4° links onderaan, onder de foto, de volgende cursief gedrukte tekst : « (handtekening titularis) » en een ruimte waarin de handtekening van de titularis moet worden geplaatst.<br /><br />De droogstempel van de Vlaamse Overheid wordt aangebracht op de foto van de titularis;<br /><br />§ 2. De achterzijde van de legitimatiekaart bevat de volgende gegevens :<br />1° bovenaan links : het logo van de Vlaamse Overheid;<br />2° bovenaan rechts : « Toezichthouder op de regelgeving tot bestrijding van de schade aan het wegdek door gewichtsoverschrijding. »;<br />3° daaronder : « Artikel 62 van het decreet houdende de bepalingen tot begeleiding van de begroting 1999 verleent de betrokken ambtenaar onder meer het recht om in het kader van zijn opdracht personen te ondervragen en de bijstand van de politie te vorderen. »;<br />4° onderaan : « Brussel », de datum waarop de minister de kaart heeft ondertekend, de naam en officiële titel van de Vlaamse minister, bevoegd voor de openbare werken, en een ruimte waarin de naam en de handtekening van de minister moeten worden geplaatst.<br /><br />§ 3. Model van de voorzijde :<br /> <a href="http://www.ejustice.just.fgov.be/mopdf/2003/05/08_1.pdf#page=59" title=" model" target="_blank" class="pdf">model</a> <br /><br />§ 4. Model van de achterzijde :<br /> <a href="http://www.ejustice.just.fgov.be/mopdf/2003/05/08_1.pdf#page=59" title=" model" target="_blank" class="pdf">model</a> <br /><br />
 
 ## Bijlage II Beschrijving van het model van het uniform van de wegeninspecteurs
 
@@ -120,4 +120,4 @@ Op de linker- en rechtervoorvleugel van het voertuig wordt conform de huisstijl 
 
 ### Tekst
 
-<a href="http://www.ejustice.just.fgov.be/mopdf/2003/05/08_1.pdf#page=61" title=" bijlage IV" target="_blank" class="pdf">bijlage IV</a>
+<a href="http://www.ejustice.just.fgov.be/mopdf/2007/01/09_1.pdf#page=58" title=" bijlage IV" target="_blank" class="pdf">bijlage IV</a>
