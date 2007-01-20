@@ -118,19 +118,11 @@ d) aanvullend aan de perceelscontrole, bedoeld in 3°, a) en b), moeten alle per
 <br>
 § 4. Naast de jaarlijkse controle(s), bedoeld in § 3, wordt bij 25 % van de bedrijven een naoogstcontrole uitgevoerd waarbij bijzondere aandacht wordt besteed aan de wachttijden en de traceerbaarheid van de producten na de oogst : het sorteren, het bewaren, de verpakking, de kwaliteitscontrole en de etikettering moeten conform de eisen van de geïntegreerde productiemethode voor pitfruit zijn.<br>
 <br>
-§ 5. Bij alle producenten wordt minstens eenmaal per jaar een blad- of vruchtmonster genomen om na te gaan of er geen verboden gewasbeschermingsmiddelen werden gebruikt en of de wachttermijnen en dosissen werden gerespecteerd.<br>
-<br>
-Voor minstens 60 % van de bladstalen wordt de GCMS-methode gebruikt. In de andere gevallen worden minstens de<br>
-<br>
-N-verbindingen, de Cl-verbindingen of de P-verbindingen onderzocht. Voor vruchtstalen worden minstens twee van de volgende verbindingen onderzocht: N-verbindingen, P-verbindingen, Cl-verbindingen.<br>
-<br>
-Als vermoed wordt dat een niet-toegestaan product is gebruikt, wordt een analyse uitgevoerd om na te gaan of dat<br>
-<br>
-niet-toegestane product effectief aanwezig is. In dat geval hoeft de analyse, bedoeld in het tweede lid, niet uitgevoerd te worden.<br>
-<br>
-Minstens 10 % van de te onderzoeken stalen zijn vruchtstalen.<br>
-<br>
-Het nemen van bodemstalen om na te gaan of er geen verboden gewasbeschermingsmiddelen werden gebruikt, is eveneens mogelijk.<br>
+§ 5. Bij 30 % van alle producenten wordt minstens eenmaal per jaar een blad- of vruchtmonster genomen om na te gaan of er geen verboden gewasbeschermingsmiddelen werden gebruikt en of de wachttermijnen en dosissen werden gerespecteerd. Deze stalen moeten op de volgende manier worden verdeeld :<br>
+1° Er worden geen bodemstalen meer genomen.<br>
+2° Er worden 75 % vruchtstalen genomen. Daarop wordt een GcMs-analyse toegepast. De stalen worden zo kort mogelijk bij de oogst of tijdens de bewaring genomen. Als er een niet-toegestaan product wordt gevonden of als er een vermoeden van misbruik bestaat, wordt overgegaan tot een kwantificering. Ook bij staalname tijdens de pluk wordt een kwantitatieve analyse uitgevoerd.<br>
+3° Er worden 25 % bladstalen voor onderzoek op specifieke producten genomen. Een lijst van die specifieke producten wordt jaarlijks vastgelegd door het technische comité. »<br>
+4° Bij nieuwe producenten dient steeds een blad- of vruchtmonster te worden genomen.<br>
 <br>
 § 6. Bij een inspectie op het bedrijf worden de waarnemingen van het controleorgaan opgetekend in een inspectierapport waarbij bijzondere aandacht wordt besteed aan de gegevens in verband met het bezochte perceel of de bezochte percelen. De bevindingen van de inspectie die onvoldoende zijn, worden ter plaatse besproken met de fruitteler.<br>
 <br>
@@ -214,1001 +206,2216 @@ Het inspectierapport wordt na elke inspectie getekend door de controleur van het
 
 ### ART. 15.
 
-<p>§ 1. De gewasbeschermingsmiddelen worden ingedeeld in drie lijsten:<br>
-<br>
-- groene lijst: deze middelen mogen ingezet worden indien het gebruik ervan verantwoord is;<br>
-<br>
-- gele lijst: deze middelen mogen slechts ingezet worden indien geen enkel middel van de groene lijst geschikt is voor een verantwoord en efficiënt gebruik;<br>
-<br>
-- oranje lijst: deze middelen mogen slechts ingezet worden nadat de noodzaak ervan bewezen werd en mits toelating van het controleorgaan.<br>
+<p>§ 1. De gewasbeschermingsmiddelen worden ingedeeld in drie lijsten zoals opgenomen in § 5 :<br>
+1° groene lijst : deze middelen mogen ingezet worden indien het gebruik ervan verantwoord is;<br>
+2° gele lijst : deze middelen mogen slechts ingezet worden indien geen enkel middel van de groene lijst geschikt is voor een verantwoord en efficiënt gebruik;<br>
+3° oranje lijst : deze middelen mogen slechts ingezet worden nadat de noodzaak ervan bewezen werd en mits toelating van het controleorgaan.<br>
 <br>
 § 2. Alle in de volgende lijsten niet genoemde actieve stoffen mogen niet voor de geïntegreerde productiemethode van pitfruit worden gebruikt.<br>
 <br>
 § 3. De gebruiksvoorwaarden (teelt, dosis, wachttermijn, compatibiliteit met andere pesticiden) van elk gewasbescher-mingsmiddel moeten worden nageleefd. De dosissen moeten aan het volume van de te behandelen bomen zijn aangepast. Bovendien moet de behandeling op het juiste ogenblik plaatsvinden, rekening houdend met de kwetsbaarheid van het schadelijk organisme en de nuttige organismen, met de weersomstandigheden en de aanwezigheid van bloeiende planten in het perceel en in de onmiddellijke omgeving.<br>
 <br>
-§ 4. In geval van aanwezigheid van quarantaineorganismen is de teler ertoe gehouden het controleorgaan te verwittigen en bij voorrang de maatregelen voorgeschreven door het Federaal Agentschap voor de Voedselveiligheid toe te passen.<br>
+§ 4. In geval van aanwezigheid van quarantaineorganismen is de teler ertoe gehouden het controleorgaan te verwittigen en bij voorrang de maatregelen toe te passen die voorgeschreven zijn door het Federaal Agentschap voor de Voedselveiligheid.<br>
 <br>
-[Erkende gewasbeschermingsmiddelen voor de geïntegreerde bestrijding:<br>
-&nbsp;</p>
+§ 5. Erkende gewasbeschermingsmiddelen voor de geïntegreerde bestrijding :<br>
+</p>
 
-<table border="1" cellpadding="0" cellspacing="0" style="border-collapse:collapse">
+<table border="0" cellpadding="0" cellspacing="0" style="border-collapse:collapse; width:447.75pt">
 	<tbody>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:138.5pt">
-			<p>Werkzame stof</p>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:black 1pt solid; border-right:black 1pt solid; border-top:black 1pt solid; height:17.4pt; width:129pt">
+			<p>Werkzame stof <!--?xml:namespace prefix = o ns =         "urn:schemas-microsoft-com:office:office" /--></p>
 			</td>
-			<td colspan="3" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:162pt">
+			<td colspan="3" style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:black 1pt solid; height:17.4pt; width:159.25pt">
 			<p>APPEL</p>
 			</td>
-			<td colspan="3" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:160.1pt">
+			<td colspan="3" style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:black 1pt solid; height:17.4pt; width:159.5pt">
 			<p>PEER</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:138.5pt">
-			<p>&nbsp;</p>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:black 1pt solid; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; vertical-align:top; width:129pt">
+			<p>1. acariciden</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:54pt">
-			<p>Groen</p>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; width:53pt">
+			<p>groen</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:54pt">
-			<p>Geel</p>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; width:53.15pt">
+			<p>geel</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:54pt">
-			<p>Oranje</p>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; width:53.1pt">
+			<p>oranje</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:54pt">
-			<p>Groen</p>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; width:53pt">
+			<p>groen</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:54pt">
-			<p>Geel</p>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; width:53pt">
+			<p>geel</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:52.1pt">
-			<p>Oranje</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:138.5pt">
-			<p><strong>1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </strong><strong>Acariciden</strong></p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:54pt">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:54pt">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:54pt">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:54pt">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:54pt">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:52.1pt">
-			<p>&nbsp;</p>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; width:53.5pt">
+			<p>oranje</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:138.5pt">
-			<p>Azocyclotion</p>
-
-			<p>Clofentezin</p>
-
-			<p>Endosulfan</p>
-
-			<p>Fenbutatinoxide</p>
-
-			<p>Fenpyroximaat</p>
-
-			<p>Fluxenoxuron</p>
-
-			<p>Hexythiazox</p>
-
-			<p>Pyridaben</p>
-
-			<p>Tebufenpyrad</p>
-
-			<p>Minerale olie</p>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:black 1pt solid; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; width:129pt">
+			<p>azocyclotin</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:54pt">
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; vertical-align:top; width:53pt">
 			<p>&nbsp;</p>
-
-			<p>X</p>
-
-			<p>&nbsp;</p>
-
-			<p>X</p>
-
-			<p>&nbsp;</p>
-
-			<p>X</p>
-
-			<p>X</p>
-
-			<p>&nbsp;</p>
-
-			<p>&nbsp;</p>
-
-			<p>X</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:54pt">
-			<p>X<sup>2</sup></p>
-
-			<p>&nbsp;</p>
-
-			<p>X<sup>3</sup></p>
-
-			<p>&nbsp;</p>
-
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; width:53.15pt">
 			<p>X<sup>1</sup></p>
-
+			</td>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; vertical-align:top; width:53.1pt">
 			<p>&nbsp;</p>
-
+			</td>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; vertical-align:top; width:53pt">
+			<p>X</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; width:53pt">
 			<p>&nbsp;</p>
-
+			</td>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; vertical-align:top; width:53.5pt">
+			<p>&nbsp;</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:black 1pt solid; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; width:129pt">
+			<p>clofentezin</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; vertical-align:top; width:53pt">
+			<p>X</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; width:53.15pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; vertical-align:top; width:53.1pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; vertical-align:top; width:53pt">
+			<p>X</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; width:53pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; vertical-align:top; width:53.5pt">
+			<p>&nbsp;</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:black 1pt solid; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; width:129pt">
+			<p>fenbutatinoxide</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; vertical-align:top; width:53pt">
+			<p>X</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; width:53.15pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; vertical-align:top; width:53.1pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; vertical-align:top; width:53pt">
+			<p>X</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; width:53pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; vertical-align:top; width:53.5pt">
+			<p>&nbsp;</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:black 1pt solid; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; width:129pt">
+			<p>fenpyroximaat</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; vertical-align:top; width:53pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; width:53.15pt">
 			<p>X<sup>2</sup></p>
-
-			<p>X<sup>2</sup></p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:54pt">
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; vertical-align:top; width:53.1pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:54pt">
-			<p>X</p>
-
-			<p>X</p>
-
-			<p>&nbsp;</p>
-
-			<p>X</p>
-
-			<p>X</p>
-
-			<p>X</p>
-
-			<p>X</p>
-
-			<p>X</p>
-
-			<p>X</p>
-
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; vertical-align:top; width:53pt">
 			<p>X</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:54pt">
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; width:53pt">
 			<p>&nbsp;</p>
-
+			</td>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; vertical-align:top; width:53.5pt">
 			<p>&nbsp;</p>
-
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:black 1pt solid; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; width:129pt">
+			<p>flufenoxuron</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; vertical-align:top; width:53pt">
+			<p>X</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; width:53.15pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; vertical-align:top; width:53.1pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; vertical-align:top; width:53pt">
+			<p>X</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; width:53pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; vertical-align:top; width:53.5pt">
+			<p>&nbsp;</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:black 1pt solid; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; width:129pt">
+			<p>hexythiazox</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; vertical-align:top; width:53pt">
+			<p>X</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; width:53.15pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; vertical-align:top; width:53.1pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; vertical-align:top; width:53pt">
+			<p>X</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; width:53pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; vertical-align:top; width:53.5pt">
+			<p>&nbsp;</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:black 1pt solid; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; width:129pt">
+			<p>pyridaben</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; vertical-align:top; width:53pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; width:53.15pt">
+			<p>X<sup>1</sup></p>
+			</td>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; vertical-align:top; width:53.1pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; vertical-align:top; width:53pt">
+			<p>X</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; width:53pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; vertical-align:top; width:53.5pt">
+			<p>&nbsp;</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:black 1pt solid; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; width:129pt">
+			<p>tebufenpyrad</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; vertical-align:top; width:53pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; width:53.15pt">
+			<p>X<sup>1</sup></p>
+			</td>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; vertical-align:top; width:53.1pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; vertical-align:top; width:53pt">
+			<p>X</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; width:53pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; vertical-align:top; width:53.5pt">
+			<p>&nbsp;</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:black 1pt solid; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; width:129pt">
+			<p>minerale olie</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; vertical-align:top; width:53pt">
+			<p>X</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; width:53.15pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; vertical-align:top; width:53.1pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; vertical-align:top; width:53pt">
+			<p>X</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; width:53pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; vertical-align:top; width:53.5pt">
+			<p>&nbsp;</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:black 1pt solid; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; width:129pt">
+			<p>spirodiclofen</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; vertical-align:top; width:53pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; width:53.15pt">
+			<p>X<sup>1</sup></p>
+			</td>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; vertical-align:top; width:53.1pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; vertical-align:top; width:53pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; width:53pt">
+			<p>X</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; vertical-align:top; width:53.5pt">
+			<p>&nbsp;</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:black 1pt solid; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; width:129pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; vertical-align:top; width:53pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; width:53.15pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; vertical-align:top; width:53.1pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; vertical-align:top; width:53pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; width:53pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; vertical-align:top; width:53.5pt">
+			<p>&nbsp;</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:black 1pt solid; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; width:129pt">
+			<p>2. insecticiden</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; width:53pt">
+			<p>groen</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; width:53.15pt">
+			<p>geel</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; width:53.1pt">
+			<p>oranje</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; width:53pt">
+			<p>groen</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; width:53pt">
+			<p>geel</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; width:53.5pt">
+			<p>oranje</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:black 1pt solid; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; width:129pt">
+			<p>abamectine</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; vertical-align:top; width:53pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; width:53.15pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; vertical-align:top; width:53.1pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; vertical-align:top; width:53pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; width:53pt">
 			<p>X<sup>3</sup></p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:52.1pt">
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; vertical-align:top; width:53.5pt">
 			<p>&nbsp;</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:138.5pt">
-			<p><strong>2. Insecticiden</strong></p>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:black 1pt solid; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; width:129pt">
+			<p>acetamiprid</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:54pt">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:54pt">
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; vertical-align:top; width:53pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:54pt">
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; width:53.15pt">
+			<p>X<sup>4</sup></p>
+			</td>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; vertical-align:top; width:53.1pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:54pt">
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; vertical-align:top; width:53pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:54pt">
-			<p>&nbsp;</p>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; width:53pt">
+			<p>X<sup>4</sup></p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:52.1pt">
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:138.5pt">
-			<p>Amitraz</p>
-
-			<p>Bacillus thuringiensis</p>
-
-			<p>Bifenthrin</p>
-
-			<p>Carbaryl</p>
-
-			<p>Cyfluthrin</p>
-
-			<p>Ë-cyhalothrin</p>
-
-			<p>Deltamethrin</p>
-
-			<p>Diazinon</p>
-
-			<p>Diflubenzuron</p>
-
-			<p>Fenoxycarb</p>
-
-			<p>Flufenoxuron</p>
-
-			<p>Fosalone</p>
-
-			<p>Granulosevirus</p>
-
-			<p>Indoxacarb</p>
-
-			<p>Minerale olie</p>
-
-			<p>Imidacloprid</p>
-
-			<p>Pirimicarb</p>
-
-			<p>Tebufenozide</p>
-
-			<p>Vamidothion</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:54pt">
-			<p>&nbsp;</p>
-
-			<p>X</p>
-
-			<p>&nbsp;</p>
-
-			<p>&nbsp;</p>
-
-			<p>&nbsp;</p>
-
-			<p>&nbsp;</p>
-
-			<p>&nbsp;</p>
-
-			<p>&nbsp;</p>
-
-			<p>X</p>
-
-			<p>&nbsp;</p>
-
-			<p>X</p>
-
-			<p>&nbsp;</p>
-
-			<p>X</p>
-
-			<p>X</p>
-
-			<p>X</p>
-
-			<p>&nbsp;</p>
-
-			<p>X</p>
-
-			<p>X</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:54pt">
-			<p>&nbsp;</p>
-
-			<p>&nbsp;</p>
-
-			<p>&nbsp;</p>
-
-			<p>X</p>
-
-			<p>&nbsp;</p>
-
-			<p>&nbsp;</p>
-
-			<p>&nbsp;</p>
-
-			<p>X</p>
-
-			<p>&nbsp;</p>
-
-			<p>X</p>
-
-			<p>&nbsp;</p>
-
-			<p>X</p>
-
-			<p>&nbsp;</p>
-
-			<p>&nbsp;</p>
-
-			<p>&nbsp;</p>
-
-			<p>X</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:54pt">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:54pt">
-			<p>X</p>
-
-			<p>X</p>
-
-			<p>&nbsp;</p>
-
-			<p>&nbsp;</p>
-
-			<p>&nbsp;</p>
-
-			<p>&nbsp;</p>
-
-			<p>&nbsp;</p>
-
-			<p>&nbsp;</p>
-
-			<p>X</p>
-
-			<p>&nbsp;</p>
-
-			<p>X</p>
-
-			<p>&nbsp;</p>
-
-			<p>X</p>
-
-			<p>X</p>
-
-			<p>X</p>
-
-			<p>&nbsp;</p>
-
-			<p>X</p>
-
-			<p>X</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:54pt">
-			<p>&nbsp;</p>
-
-			<p>&nbsp;</p>
-
-			<p>&nbsp;</p>
-
-			<p>X</p>
-
-			<p>&nbsp;</p>
-
-			<p>&nbsp;</p>
-
-			<p>&nbsp;</p>
-
-			<p>X</p>
-
-			<p>&nbsp;</p>
-
-			<p>X</p>
-
-			<p>&nbsp;</p>
-
-			<p>X</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:52.1pt">
-			<p>&nbsp;</p>
-
-			<p>&nbsp;</p>
-
-			<p>X<sup>5</sup></p>
-
-			<p>&nbsp;</p>
-
-			<p>X<sup>5</sup></p>
-
-			<p>X<sup>5</sup></p>
-
-			<p>X<sup>5</sup></p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:138.5pt">
-			<p><strong>3. Fungiciden</strong></p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:54pt">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:54pt">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:54pt">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:54pt">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:54pt">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:52.1pt">
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; vertical-align:top; width:53.5pt">
 			<p>&nbsp;</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:138.5pt">
-			<p>Azaconazool</p>
-
-			<p>Bitertanol</p>
-
-			<p>Captan</p>
-
-			<p>Carbendazim</p>
-
-			<p>Cyprodinil</p>
-
-			<p>Diethofencarb</p>
-
-			<p>Difenoconazool</p>
-
-			<p>Dithianon</p>
-
-			<p>Dodine</p>
-
-			<p>Imazalil</p>
-
-			<p>Koper</p>
-
-			<p>Kresoxim-methyl</p>
-
-			<p>Mancozeb</p>
-
-			<p>Maneb</p>
-
-			<p>Metiram</p>
-
-			<p>Myclobutanil</p>
-
-			<p>Nuarimol</p>
-
-			<p>Pencozanol</p>
-
-			<p>Propineb</p>
-
-			<p>Pyrimethanil</p>
-
-			<p>Thiofanaatmethyl</p>
-
-			<p>Thiram</p>
-
-			<p>Tolylfluanide</p>
-
-			<p>Triadimefon</p>
-
-			<p>Triadimenol</p>
-
-			<p>Trifloxistrobine</p>
-
-			<p>Vinclozoline</p>
-
-			<p>Zwavel</p>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:black 1pt solid; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; width:129pt">
+			<p>bacillus thuringiensis</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:54pt">
-			<p>X</p>
-
-			<p>X</p>
-
-			<p>X</p>
-
-			<p>&nbsp;</p>
-
-			<p>X</p>
-
-			<p>&nbsp;</p>
-
-			<p>X</p>
-
-			<p>X</p>
-
-			<p>X</p>
-
-			<p>&nbsp;</p>
-
-			<p>&nbsp;</p>
-
-			<p>X</p>
-
-			<p>&nbsp;</p>
-
-			<p>&nbsp;</p>
-
-			<p>&nbsp;</p>
-
-			<p>X</p>
-
-			<p>X</p>
-
-			<p>X</p>
-
-			<p>&nbsp;</p>
-
-			<p>X</p>
-
-			<p>&nbsp;</p>
-
-			<p>&nbsp;</p>
-
-			<p>&nbsp;</p>
-
-			<p>&nbsp;</p>
-
-			<p>X</p>
-
-			<p>X</p>
-
-			<p>&nbsp;</p>
-
-			<p>&nbsp;</p>
-
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; vertical-align:top; width:53pt">
+			<p>x</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; width:53.15pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:54pt">
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; vertical-align:top; width:53.1pt">
 			<p>&nbsp;</p>
-
-			<p>&nbsp;</p>
-
-			<p>&nbsp;</p>
-
-			<p>X<sup>10</sup></p>
-
-			<p>&nbsp;</p>
-
-			<p>X<sup>9</sup></p>
-
-			<p>&nbsp;</p>
-
-			<p>&nbsp;</p>
-
-			<p>&nbsp;</p>
-
-			<p>X<sup>8</sup></p>
-
+			</td>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; vertical-align:top; width:53pt">
 			<p>X</p>
-
+			</td>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; width:53pt">
 			<p>&nbsp;</p>
-
+			</td>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; vertical-align:top; width:53.5pt">
 			<p>&nbsp;</p>
-
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:black 1pt solid; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; width:129pt">
+			<p>bifenthrin</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; vertical-align:top; width:53pt">
 			<p>&nbsp;</p>
-
+			</td>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; width:53.15pt">
 			<p>&nbsp;</p>
-
+			</td>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; vertical-align:top; width:53.1pt">
 			<p>&nbsp;</p>
-
+			</td>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; vertical-align:top; width:53pt">
 			<p>&nbsp;</p>
-
+			</td>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; width:53pt">
 			<p>&nbsp;</p>
-
+			</td>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; vertical-align:top; width:53.5pt">
+			<p>X<sup>5</sup></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:black 1pt solid; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; width:129pt">
+			<p>carbaryl</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; vertical-align:top; width:53pt">
 			<p>&nbsp;</p>
-
+			</td>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; width:53.15pt">
+			<p>X</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; vertical-align:top; width:53.1pt">
 			<p>&nbsp;</p>
-
-			<p>X<sup>10</sup></p>
-
+			</td>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; vertical-align:top; width:53pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; width:53pt">
+			<p>X</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; vertical-align:top; width:53.5pt">
+			<p>&nbsp;</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:black 1pt solid; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; width:129pt">
+			<p>cyfluthrin</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; vertical-align:top; width:53pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; width:53.15pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; vertical-align:top; width:53.1pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; vertical-align:top; width:53pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; width:53pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; vertical-align:top; width:53.5pt">
+			<p>X<sup>5</sup></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:black 1pt solid; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; width:129pt">
+			<p>deltamethrin</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; vertical-align:top; width:53pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; width:53.15pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; vertical-align:top; width:53.1pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; vertical-align:top; width:53pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; width:53pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; vertical-align:top; width:53.5pt">
+			<p>X<sup>5</sup></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:black 1pt solid; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; width:129pt">
+			<p>diazinon</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; vertical-align:top; width:53pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; width:53.15pt">
+			<p>X</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; vertical-align:top; width:53.1pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; vertical-align:top; width:53pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; width:53pt">
+			<p>X</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; vertical-align:top; width:53.5pt">
+			<p>&nbsp;</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:black 1pt solid; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; width:129pt">
+			<p>diflubenzuron</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; vertical-align:top; width:53pt">
+			<p>X</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; width:53.15pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; vertical-align:top; width:53.1pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; vertical-align:top; width:53pt">
+			<p>X</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; width:53pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; vertical-align:top; width:53.5pt">
+			<p>&nbsp;</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:black 1pt solid; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; width:129pt">
+			<p>fenoxycarb</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; vertical-align:top; width:53pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; width:53.15pt">
+			<p>X</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; vertical-align:top; width:53.1pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; vertical-align:top; width:53pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; width:53pt">
+			<p>X</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; vertical-align:top; width:53.5pt">
+			<p>&nbsp;</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:black 1pt solid; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; width:129pt">
+			<p>flufenoxuron</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; vertical-align:top; width:53pt">
+			<p>X</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; width:53.15pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; vertical-align:top; width:53.1pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; vertical-align:top; width:53pt">
+			<p>X</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; width:53pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; vertical-align:top; width:53.5pt">
+			<p>&nbsp;</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:black 1pt solid; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; width:129pt">
+			<p>fosalone</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; vertical-align:top; width:53pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; width:53.15pt">
+			<p>X</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; vertical-align:top; width:53.1pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; vertical-align:top; width:53pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; width:53pt">
+			<p>X</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; vertical-align:top; width:53.5pt">
+			<p>&nbsp;</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:black 1pt solid; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; width:129pt">
+			<p>granulosevirus</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; vertical-align:top; width:53pt">
+			<p>X</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; width:53.15pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; vertical-align:top; width:53.1pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; vertical-align:top; width:53pt">
+			<p>X</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; width:53pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; vertical-align:top; width:53.5pt">
+			<p>&nbsp;</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:black 1pt solid; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; width:129pt">
+			<p>indoxacarb</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; vertical-align:top; width:53pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; width:53.15pt">
+			<p>X</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; vertical-align:top; width:53.1pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; vertical-align:top; width:53pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; width:53pt">
+			<p>X</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; vertical-align:top; width:53.5pt">
+			<p>&nbsp;</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:black 1pt solid; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; width:129pt">
+			<p>minerale olie</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; vertical-align:top; width:53pt">
+			<p>X</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; width:53.15pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; vertical-align:top; width:53.1pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; vertical-align:top; width:53pt">
+			<p>X</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; width:53pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; vertical-align:top; width:53.5pt">
+			<p>&nbsp;</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:black 1pt solid; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; width:129pt">
+			<p>imidacloprid</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; vertical-align:top; width:53pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; width:53.15pt">
+			<p>X</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; vertical-align:top; width:53.1pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; vertical-align:top; width:53pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; width:53pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; vertical-align:top; width:53.5pt">
+			<p>&nbsp;</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:black 1pt solid; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; width:129pt">
+			<p>pirimicarb</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; vertical-align:top; width:53pt">
+			<p>X</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; width:53.15pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; vertical-align:top; width:53.1pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; vertical-align:top; width:53pt">
+			<p>X</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; width:53pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; vertical-align:top; width:53.5pt">
+			<p>&nbsp;</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:black 1pt solid; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; width:129pt">
+			<p>methoxyfenozide</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; vertical-align:top; width:53pt">
+			<p>X</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; width:53.15pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; vertical-align:top; width:53.1pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; vertical-align:top; width:53pt">
+			<p>X</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; width:53pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; vertical-align:top; width:53.5pt">
+			<p>&nbsp;</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:black 1pt solid; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; width:129pt">
+			<p>spinosad</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; vertical-align:top; width:53pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; width:53.15pt">
+			<p>X</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; vertical-align:top; width:53.1pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; vertical-align:top; width:53pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; width:53pt">
+			<p>X</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; vertical-align:top; width:53.5pt">
+			<p>&nbsp;</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:black 1pt solid; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; width:129pt">
+			<p>spirodiclofen</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; vertical-align:top; width:53pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; width:53.15pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; vertical-align:top; width:53.1pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; vertical-align:top; width:53pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; width:53pt">
+			<p>X<sup>18</sup></p>
+			</td>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; vertical-align:top; width:53.5pt">
+			<p>&nbsp;</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:black 1pt solid; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; width:129pt">
+			<p>tebufenozide</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; vertical-align:top; width:53pt">
+			<p>X</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; width:53.15pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; vertical-align:top; width:53.1pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; vertical-align:top; width:53pt">
+			<p>X</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; width:53pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; vertical-align:top; width:53.5pt">
+			<p>&nbsp;</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:black 1pt solid; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; width:129pt">
+			<p>thiacloprid</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; vertical-align:top; width:53pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; width:53.15pt">
+			<p>X<sup>4</sup></p>
+			</td>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; vertical-align:top; width:53.1pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; vertical-align:top; width:53pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; width:53pt">
+			<p>X<sup>4</sup></p>
+			</td>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; vertical-align:top; width:53.5pt">
+			<p>&nbsp;</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:black 1pt solid; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; width:129pt">
+			<p>vamidothion</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; vertical-align:top; width:53pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; width:53.15pt">
+			<p>X<sup>6</sup></p>
+			</td>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; vertical-align:top; width:53.1pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; vertical-align:top; width:53pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; width:53pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; vertical-align:top; width:53.5pt">
+			<p>&nbsp;</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:black 1pt solid; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; width:129pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; vertical-align:top; width:53pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; width:53.15pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; vertical-align:top; width:53.1pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; vertical-align:top; width:53pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; width:53pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; vertical-align:top; width:53.5pt">
+			<p>&nbsp;</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:black 1pt solid; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; width:129pt">
+			<p>3. fungiciden</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; width:53pt">
+			<p>groen</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; width:53.15pt">
+			<p>geel</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; width:53.1pt">
+			<p>oranje</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; width:53pt">
+			<p>groen</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; width:53pt">
+			<p>geel</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; width:53.5pt">
+			<p>oranje</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:black 1pt solid; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; width:129pt">
+			<p>azaconazool</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; vertical-align:top; width:53pt">
+			<p>X</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; width:53.15pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; vertical-align:top; width:53.1pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; vertical-align:top; width:53pt">
+			<p>X</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; width:53pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; vertical-align:top; width:53.5pt">
+			<p>&nbsp;</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:black 1pt solid; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; width:129pt">
+			<p>boscalid</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; vertical-align:top; width:53pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; width:53.15pt">
+			<p>X</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; vertical-align:top; width:53.1pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; vertical-align:top; width:53pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; width:53pt">
+			<p>X</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; vertical-align:top; width:53.5pt">
+			<p>&nbsp;</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:black 1pt solid; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; width:129pt">
+			<p>captan</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; vertical-align:top; width:53pt">
+			<p>X</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; width:53.15pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; vertical-align:top; width:53.1pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; vertical-align:top; width:53pt">
+			<p>X</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; width:53pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; vertical-align:top; width:53.5pt">
+			<p>&nbsp;</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:black 1pt solid; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; width:129pt">
+			<p>carbendazim</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; vertical-align:top; width:53pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; width:53.15pt">
 			<p>X<sup>7</sup></p>
-
-			<p>X<sup>6</sup></p>
-
-			<p>X<sup>11</sup></p>
-
-			<p>&nbsp;</p>
-
-			<p>X</p>
-
-			<p>X<sup>6</sup></p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:54pt">
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; vertical-align:top; width:53.1pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:54pt">
-			<p>X</p>
-
-			<p>X</p>
-
-			<p>X</p>
-
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; vertical-align:top; width:53pt">
 			<p>&nbsp;</p>
-
+			</td>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; width:53pt">
+			<p>X<sup>7</sup></p>
+			</td>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; vertical-align:top; width:53.5pt">
 			<p>&nbsp;</p>
-
-			<p>&nbsp;</p>
-
-			<p>X</p>
-
-			<p>X</p>
-
-			<p>X</p>
-
-			<p>&nbsp;</p>
-
-			<p>&nbsp;</p>
-
-			<p>X</p>
-
-			<p>X</p>
-
-			<p>X</p>
-
-			<p>X</p>
-
-			<p>&nbsp;</p>
-
-			<p>&nbsp;</p>
-
-			<p>&nbsp;</p>
-
-			<p>X</p>
-
-			<p>X</p>
-
-			<p>&nbsp;</p>
-
-			<p>X</p>
-
-			<p>X</p>
-
-			<p>&nbsp;</p>
-
-			<p>&nbsp;</p>
-
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:black 1pt solid; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; width:129pt">
+			<p>cyprodinil</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; vertical-align:top; width:53pt">
 			<p>X</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:54pt">
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; width:53.15pt">
 			<p>&nbsp;</p>
-
+			</td>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; vertical-align:top; width:53.1pt">
 			<p>&nbsp;</p>
-
+			</td>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; vertical-align:top; width:53pt">
+			<p>X</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; width:53pt">
 			<p>&nbsp;</p>
-
-			<p>X<sup>10</sup></p>
-
+			</td>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; vertical-align:top; width:53.5pt">
 			<p>&nbsp;</p>
-
-			<p>X<sup>9</sup></p>
-
-			<p><sup>&nbsp;</sup></p>
-
-			<p><sup>&nbsp;</sup></p>
-
-			<p><sup>&nbsp;</sup></p>
-
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:black 1pt solid; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; width:129pt">
+			<p>diethofencarb</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; vertical-align:top; width:53pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; width:53.15pt">
+			<p>X</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; vertical-align:top; width:53.1pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; vertical-align:top; width:53pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; width:53pt">
+			<p>X</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; vertical-align:top; width:53.5pt">
+			<p>&nbsp;</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:black 1pt solid; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; width:129pt">
+			<p>difenoconazol</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; vertical-align:top; width:53pt">
+			<p>X</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; width:53.15pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; vertical-align:top; width:53.1pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; vertical-align:top; width:53pt">
+			<p>X</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; width:53pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; vertical-align:top; width:53.5pt">
+			<p>&nbsp;</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:black 1pt solid; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; width:129pt">
+			<p>dithianon</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; vertical-align:top; width:53pt">
+			<p>X</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; width:53.15pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; vertical-align:top; width:53.1pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; vertical-align:top; width:53pt">
+			<p>X</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; width:53pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; vertical-align:top; width:53.5pt">
+			<p>&nbsp;</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:black 1pt solid; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; width:129pt">
+			<p>dodine</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; vertical-align:top; width:53pt">
+			<p>X</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; width:53.15pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; vertical-align:top; width:53.1pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; vertical-align:top; width:53pt">
+			<p>X</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; width:53pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; vertical-align:top; width:53.5pt">
+			<p>&nbsp;</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:black 1pt solid; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; width:129pt">
+			<p>imazalil</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; vertical-align:top; width:53pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; width:53.15pt">
 			<p>X<sup>8</sup></p>
-
+			</td>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; vertical-align:top; width:53.1pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; vertical-align:top; width:53pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; width:53pt">
+			<p>X<sup>8</sup></p>
+			</td>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; vertical-align:top; width:53.5pt">
+			<p>&nbsp;</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:black 1pt solid; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; width:129pt">
+			<p>koper</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; vertical-align:top; width:53pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; width:53.15pt">
 			<p>X</p>
-
+			</td>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; vertical-align:top; width:53.1pt">
 			<p>&nbsp;</p>
-
+			</td>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; vertical-align:top; width:53pt">
 			<p>&nbsp;</p>
-
-			<p>&nbsp;</p>
-
-			<p>&nbsp;</p>
-
+			</td>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; width:53pt">
 			<p>X</p>
-
+			</td>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; vertical-align:top; width:53.5pt">
 			<p>&nbsp;</p>
-
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:black 1pt solid; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; width:129pt">
+			<p>kresoxim-methyl</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; width:53pt">
+			<p>X</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; vertical-align:top; width:53.15pt">
 			<p>&nbsp;</p>
-
+			</td>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; vertical-align:top; width:53.1pt">
 			<p>&nbsp;</p>
-
+			</td>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; width:53pt">
+			<p>X</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; vertical-align:top; width:53pt">
 			<p>&nbsp;</p>
-
+			</td>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; vertical-align:top; width:53.5pt">
+			<p>&nbsp;</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:black 1pt solid; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; width:129pt">
+			<p>mancozeb</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; vertical-align:top; width:53pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; vertical-align:top; width:53.15pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; vertical-align:top; width:53.1pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; width:53pt">
+			<p>X</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; vertical-align:top; width:53pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; vertical-align:top; width:53.5pt">
+			<p>&nbsp;</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:black 1pt solid; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; width:129pt">
+			<p>maneb</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; vertical-align:top; width:53pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; vertical-align:top; width:53.15pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; vertical-align:top; width:53.1pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; width:53pt">
+			<p>X</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; vertical-align:top; width:53pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; vertical-align:top; width:53.5pt">
+			<p>&nbsp;</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:black 1pt solid; border-right:black 1pt solid; border-top:#f0f0f0; height:14.15pt; width:129pt">
+			<p>metiram</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.15pt; vertical-align:top; width:53pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.15pt; width:53.15pt">
+			<p>X</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.15pt; vertical-align:top; width:53.1pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.15pt; width:53pt">
+			<p>X</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.15pt; vertical-align:top; width:53pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.15pt; vertical-align:top; width:53.5pt">
+			<p>&nbsp;</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:black 1pt solid; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; width:129pt">
+			<p>myclobutanil</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; width:53pt">
+			<p>X</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; vertical-align:top; width:53.15pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; vertical-align:top; width:53.1pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; vertical-align:top; width:53pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; width:53pt">
+			<p>X</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; vertical-align:top; width:53.5pt">
+			<p>&nbsp;</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:black 1pt solid; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; width:129pt">
+			<p>penconazol</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; width:53pt">
+			<p>X</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; vertical-align:top; width:53.15pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; vertical-align:top; width:53.1pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; vertical-align:top; width:53pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; vertical-align:top; width:53pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; vertical-align:top; width:53.5pt">
+			<p>&nbsp;</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:black 1pt solid; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; width:129pt">
+			<p>pyraclostrobine</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; vertical-align:top; width:53pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; width:53.15pt">
+			<p>X</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; vertical-align:top; width:53.1pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; vertical-align:top; width:53pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; width:53pt">
+			<p>X</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; vertical-align:top; width:53.5pt">
+			<p>&nbsp;</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:black 1pt solid; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; width:129pt">
+			<p>pyrimethanil</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; width:53pt">
+			<p>X</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; vertical-align:top; width:53.15pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; vertical-align:top; width:53.1pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; width:53pt">
+			<p>X</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; vertical-align:top; width:53pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; vertical-align:top; width:53.5pt">
+			<p>&nbsp;</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:black 1pt solid; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; width:129pt">
+			<p>thiofanaatmethyl</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; vertical-align:top; width:53pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; width:53.15pt">
+			<p>X<sup>7</sup></p>
+			</td>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; vertical-align:top; width:53.1pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; vertical-align:top; width:53pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; width:53pt">
+			<p>X<sup>7</sup></p>
+			</td>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; vertical-align:top; width:53.5pt">
+			<p>&nbsp;</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:black 1pt solid; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; width:129pt">
+			<p>thiram</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; vertical-align:top; width:53pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; vertical-align:top; width:53.15pt">
+			<p>X<sup>9</sup></p>
+			</td>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; vertical-align:top; width:53.1pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; width:53pt">
+			<p>X</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; vertical-align:top; width:53pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; vertical-align:top; width:53.5pt">
+			<p>&nbsp;</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:black 1pt solid; border-right:black 1pt solid; border-top:#f0f0f0; height:14.15pt; width:129pt">
+			<p>tolylfluanide</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.15pt; vertical-align:top; width:53pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.15pt; width:53.15pt">
 			<p>X<sup>10</sup></p>
-
-			<p><sup>&nbsp;</sup></p>
-
-			<p><sup>&nbsp;</sup></p>
-
+			</td>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.15pt; vertical-align:top; width:53.1pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.15pt; width:53pt">
+			<p>X</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.15pt; vertical-align:top; width:53pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.15pt; vertical-align:top; width:53.5pt">
+			<p>&nbsp;</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:black 1pt solid; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; width:129pt">
+			<p>triadimenol</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; width:53pt">
+			<p>X</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; vertical-align:top; width:53.15pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; vertical-align:top; width:53.1pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; vertical-align:top; width:53pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; vertical-align:top; width:53pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; vertical-align:top; width:53.5pt">
+			<p>&nbsp;</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:black 1pt solid; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; width:129pt">
+			<p>trifloxistrobine</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; width:53pt">
+			<p>X</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; vertical-align:top; width:53.15pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; vertical-align:top; width:53.1pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; width:53pt">
+			<p>X</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; vertical-align:top; width:53pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; vertical-align:top; width:53.5pt">
+			<p>&nbsp;</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:black 1pt solid; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; width:129pt">
+			<p>vinclozoline</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; width:53pt">
+			<p>X</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; vertical-align:top; width:53.15pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; vertical-align:top; width:53.1pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; vertical-align:top; width:53pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; vertical-align:top; width:53pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; vertical-align:top; width:53.5pt">
+			<p>&nbsp;</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:black 1pt solid; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; width:129pt">
+			<p>zwavel</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; vertical-align:top; width:53pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; width:53.15pt">
+			<p>X<sup>10</sup></p>
+			</td>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; vertical-align:top; width:53.1pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; vertical-align:top; width:53pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; width:53pt">
+			<p>X<sup>10</sup></p>
+			</td>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; vertical-align:top; width:53.5pt">
+			<p>&nbsp;</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:black 1pt solid; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; vertical-align:top; width:129pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; vertical-align:top; width:53pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; vertical-align:top; width:53.15pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; vertical-align:top; width:53.1pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; vertical-align:top; width:53pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; vertical-align:top; width:53pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; vertical-align:top; width:53.5pt">
+			<p>&nbsp;</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:black 1pt solid; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; width:129pt">
+			<p>4. herbiciden</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; width:53pt">
+			<p>groen</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; width:53.15pt">
+			<p>geel</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; width:53.1pt">
+			<p>oranje</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; width:53pt">
+			<p>groen</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; width:53pt">
+			<p>geel</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; width:53.5pt">
+			<p>oranje</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:black 1pt solid; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; width:129pt">
+			<p>amitrol</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; vertical-align:top; width:53pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; width:53.15pt">
+			<p>X</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; vertical-align:top; width:53.1pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; vertical-align:top; width:53pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; width:53pt">
+			<p>X</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; vertical-align:top; width:53.5pt">
+			<p>&nbsp;</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:black 1pt solid; border-right:black 1pt solid; border-top:#f0f0f0; height:14.15pt; width:129pt">
+			<p>ammoniumthiocyanaat</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.15pt; vertical-align:top; width:53pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.15pt; width:53.15pt">
+			<p>X</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.15pt; vertical-align:top; width:53.1pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.15pt; vertical-align:top; width:53pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.15pt; width:53pt">
+			<p>X</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.15pt; vertical-align:top; width:53.5pt">
+			<p>&nbsp;</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:black 1pt solid; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; width:129pt">
+			<p>chloortoluron</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; vertical-align:top; width:53pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; width:53.15pt">
 			<p>X<sup>11</sup></p>
-
-			<p>&nbsp;</p>
-
-			<p>&nbsp;</p>
-
-			<p>X<sup>6</sup></p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:52.1pt">
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; vertical-align:top; width:53.1pt">
 			<p>&nbsp;</p>
 			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:138.5pt">
-			<p><strong>4. Herbicideni</strong></p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:54pt">
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; vertical-align:top; width:53pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:54pt">
-			<p>&nbsp;</p>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; width:53pt">
+			<p>X<sup>11</sup></p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:54pt">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:54pt">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:54pt">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:52.1pt">
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; vertical-align:top; width:53.5pt">
 			<p>&nbsp;</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:138.5pt">
-			<p>Amitrol</p>
-
-			<p>Chloortoluron</p>
-
-			<p>Dichlobenil</p>
-
-			<p>Dichloorprop-p</p>
-
-			<p>Diquat</p>
-
-			<p>Fluazifop-p-butyl</p>
-
-			<p>Ammonuinglufosinaat</p>
-
-			<p>Glyfosaat</p>
-
-			<p>Linuron</p>
-
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:black 1pt solid; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; width:129pt">
+			<p>dichlobenil</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; vertical-align:top; width:53pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; width:53.15pt">
+			<p>X<sup>12</sup></p>
+			</td>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; vertical-align:top; width:53.1pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; vertical-align:top; width:53pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; width:53pt">
+			<p>X<sup>12</sup></p>
+			</td>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; vertical-align:top; width:53.5pt">
+			<p>&nbsp;</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:black 1pt solid; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; width:129pt">
+			<p>dichloorprop-p</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; width:53pt">
+			<p>X</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; vertical-align:top; width:53.15pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; vertical-align:top; width:53.1pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; width:53pt">
+			<p>X</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; vertical-align:top; width:53pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; vertical-align:top; width:53.5pt">
+			<p>&nbsp;</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:black 1pt solid; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; width:129pt">
+			<p>diquat</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; vertical-align:top; width:53pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; width:53.15pt">
+			<p>X<sup>13</sup></p>
+			</td>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; vertical-align:top; width:53.1pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; vertical-align:top; width:53pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; width:53pt">
+			<p>X<sup>13</sup></p>
+			</td>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; vertical-align:top; width:53.5pt">
+			<p>&nbsp;</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:black 1pt solid; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; width:129pt">
+			<p>fluazifop-p-butyl</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; width:53pt">
+			<p>X</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; vertical-align:top; width:53.15pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; vertical-align:top; width:53.1pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; width:53pt">
+			<p>X</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; vertical-align:top; width:53pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; vertical-align:top; width:53.5pt">
+			<p>&nbsp;</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:black 1pt solid; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; width:129pt">
+			<p>ammoniumglufosinaat</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; width:53pt">
+			<p>X</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; vertical-align:top; width:53.15pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; vertical-align:top; width:53.1pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; width:53pt">
+			<p>X</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; vertical-align:top; width:53pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; vertical-align:top; width:53.5pt">
+			<p>&nbsp;</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:black 1pt solid; border-right:black 1pt solid; border-top:#f0f0f0; height:14.15pt; width:129pt">
+			<p>glyfosaat</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.15pt; width:53pt">
+			<p>X</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.15pt; vertical-align:top; width:53.15pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.15pt; vertical-align:top; width:53.1pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.15pt; width:53pt">
+			<p>X</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.15pt; vertical-align:top; width:53pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.15pt; vertical-align:top; width:53.5pt">
+			<p>&nbsp;</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:black 1pt solid; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; width:129pt">
+			<p>linuron</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; vertical-align:top; width:53pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; width:53.15pt">
+			<p>X<sup>11</sup></p>
+			</td>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; vertical-align:top; width:53.1pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; vertical-align:top; width:53pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; width:53pt">
+			<p>X<sup>11</sup></p>
+			</td>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; vertical-align:top; width:53.5pt">
+			<p>&nbsp;</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:black 1pt solid; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; width:129pt">
 			<p>MCPA</p>
-
-			<p>Mecoprop-p</p>
-
-			<p>Metazachloor</p>
-
-			<p>Paraquat</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:54pt">
-			<p>&nbsp;</p>
-
-			<p>&nbsp;</p>
-
-			<p>&nbsp;</p>
-
-			<p>X</p>
-
-			<p>&nbsp;</p>
-
-			<p>X</p>
-
-			<p>X</p>
-
-			<p>X</p>
-
-			<p>&nbsp;</p>
-
-			<p>X</p>
-
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; width:53pt">
 			<p>X</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:54pt">
-			<p>X<sup>14</sup></p>
-
-			<p>X<sup>12</sup></p>
-
-			<p>X<sup>13</sup></p>
-
-			<p>&nbsp;</p>
-
-			<p>X<sup>15</sup></p>
-
-			<p>&nbsp;</p>
-
-			<p>&nbsp;</p>
-
-			<p>&nbsp;</p>
-
-			<p>X<sup>12</sup></p>
-
-			<p><sup>&nbsp;</sup></p>
-
-			<p><sup>&nbsp;</sup></p>
-
-			<p>X<sup>12</sup></p>
-
-			<p>X<sup>16</sup></p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:54pt">
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; vertical-align:top; width:53.15pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:54pt">
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; vertical-align:top; width:53.1pt">
 			<p>&nbsp;</p>
-
-			<p>&nbsp;</p>
-
-			<p>&nbsp;</p>
-
-			<p>X</p>
-
-			<p>&nbsp;</p>
-
-			<p>X</p>
-
-			<p>X</p>
-
-			<p>X</p>
-
-			<p>&nbsp;</p>
-
-			<p>X</p>
-
+			</td>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; width:53pt">
 			<p>X</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:54pt">
-			<p>X<sup>14</sup></p>
-
-			<p>X<sup>12</sup></p>
-
-			<p>X<sup>13</sup></p>
-
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; vertical-align:top; width:53pt">
 			<p>&nbsp;</p>
-
-			<p>X<sup>15</sup></p>
-
-			<p><sup>&nbsp;</sup></p>
-
-			<p><sup>&nbsp;</sup></p>
-
-			<p><sup>&nbsp;</sup></p>
-
-			<p>X<sup>12</sup></p>
-
-			<p>&nbsp;</p>
-
-			<p>&nbsp;</p>
-
-			<p>X<sup>12</sup></p>
-
-			<p>X<sup>16</sup></p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:52.1pt">
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; vertical-align:top; width:53.5pt">
 			<p>&nbsp;</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:138.5pt">
-			<p><strong>5. Diversen</strong></p>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:black 1pt solid; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; width:129pt">
+			<p>MCPP-p</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:54pt">
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; width:53pt">
+			<p>X</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; vertical-align:top; width:53.15pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:54pt">
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; vertical-align:top; width:53.1pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:54pt">
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; width:53pt">
+			<p>X</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; vertical-align:top; width:53pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:54pt">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:54pt">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:52.1pt">
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; vertical-align:top; width:53.5pt">
 			<p>&nbsp;</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:138.5pt">
-			<p>Carbaryl</p>
-
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:black 1pt solid; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; width:129pt">
+			<p>metazachloor</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; vertical-align:top; width:53pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; width:53.15pt">
+			<p>X<sup>11</sup></p>
+			</td>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; vertical-align:top; width:53.1pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; vertical-align:top; width:53pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; width:53pt">
+			<p>X<sup>11</sup></p>
+			</td>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; vertical-align:top; width:53.5pt">
+			<p>&nbsp;</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:black 1pt solid; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; width:129pt">
+			<p>paraquat</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; vertical-align:top; width:53pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; width:53.15pt">
+			<p>X<sup>14</sup></p>
+			</td>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; vertical-align:top; width:53.1pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; vertical-align:top; width:53pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; width:53pt">
+			<p>X<sup>14</sup></p>
+			</td>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; vertical-align:top; width:53.5pt">
+			<p>&nbsp;</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:black 1pt solid; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; width:129pt">
+			<p>pendimethalin</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; vertical-align:top; width:53pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; width:53.15pt">
+			<p>X</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; vertical-align:top; width:53.1pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; vertical-align:top; width:53pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; width:53pt">
+			<p>X</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; vertical-align:top; width:53.5pt">
+			<p>&nbsp;</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:black 1pt solid; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; vertical-align:top; width:129pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; vertical-align:top; width:53pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; vertical-align:top; width:53.15pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; vertical-align:top; width:53.1pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; vertical-align:top; width:53pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; vertical-align:top; width:53pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; vertical-align:top; width:53.5pt">
+			<p>&nbsp;</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:black 1pt solid; border-right:black 1pt solid; border-top:#f0f0f0; height:14.15pt; width:129pt">
+			<p>5. diversen</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.15pt; width:53pt">
+			<p>groen</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.15pt; width:53.15pt">
+			<p>geel</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.15pt; width:53.1pt">
+			<p>oranje</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.15pt; width:53pt">
+			<p>groen</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.15pt; width:53pt">
+			<p>geel</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.15pt; width:53.5pt">
+			<p>oranje</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:black 1pt solid; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; width:129pt">
+			<p>carbaryl</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; vertical-align:top; width:53pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; width:53.15pt">
+			<p>X</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; vertical-align:top; width:53.1pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; vertical-align:top; width:53pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; vertical-align:top; width:53pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; vertical-align:top; width:53.5pt">
+			<p>&nbsp;</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:black 1pt solid; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; width:129pt">
 			<p>GA3</p>
-
-			<p>GA 4/7</p>
-
-			<p>GA 4/7 + benzyladenine</p>
-
-			<p>2-1-nafthylacetamide</p>
-
-			<p>Ü-naftylazijnzuur</p>
-
-			<p>Dodenticiden</p>
-
-			<p>Afweermiddelen</p>
-
-			<p>Uitvloeiers</p>
-
-			<p>Grondontsmettingsmiddelen</p>
-
-			<p>Prohexadione-Ca</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:54pt">
-			<p>&nbsp;</p>
-
-			<p>&nbsp;</p>
-
-			<p>X</p>
-
-			<p>X</p>
-
-			<p>X</p>
-
-			<p>X</p>
-
-			<p>X<sup>17</sup></p>
-
-			<p>X<sup>17</sup></p>
-
-			<p>X<sup>17</sup></p>
-
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; vertical-align:top; width:53pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:54pt">
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; vertical-align:top; width:53.15pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; vertical-align:top; width:53.1pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; width:53pt">
 			<p>X</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:54pt">
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; vertical-align:top; width:53pt">
 			<p>&nbsp;</p>
-
-			<p>&nbsp;</p>
-
-			<p>&nbsp;</p>
-
-			<p>&nbsp;</p>
-
-			<p>&nbsp;</p>
-
-			<p>&nbsp;</p>
-
-			<p>&nbsp;</p>
-
-			<p>&nbsp;</p>
-
-			<p>&nbsp;</p>
-
-			<p>X<sup>18</sup></p>
-
-			<p>X<sup>19</sup></p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:54pt">
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; vertical-align:top; width:53.5pt">
 			<p>&nbsp;</p>
-
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:black 1pt solid; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; width:129pt">
+			<p>GA4/7</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; width:53pt">
 			<p>X</p>
-
-			<p>X</p>
-
-			<p>X</p>
-
+			</td>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; vertical-align:top; width:53.15pt">
 			<p>&nbsp;</p>
-
+			</td>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; vertical-align:top; width:53.1pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; width:53pt">
 			<p>X</p>
-
+			</td>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; vertical-align:top; width:53pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; vertical-align:top; width:53.5pt">
+			<p>&nbsp;</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:black 1pt solid; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; width:129pt">
+			<p>GA4/7+benzyladenine</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; width:53pt">
+			<p>X</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; vertical-align:top; width:53.15pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; vertical-align:top; width:53.1pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; width:53pt">
+			<p>X</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; vertical-align:top; width:53pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; vertical-align:top; width:53.5pt">
+			<p>&nbsp;</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:black 1pt solid; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; width:129pt">
+			<p>2-1 naftylacetamide</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; width:53pt">
+			<p>X</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; vertical-align:top; width:53.15pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; vertical-align:top; width:53.1pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; vertical-align:top; width:53pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; vertical-align:top; width:53pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; vertical-align:top; width:53.5pt">
+			<p>&nbsp;</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:black 1pt solid; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; vertical-align:top; width:129pt">
+			<p>U¨ -naftylazijnzuur</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; width:53pt">
+			<p>X</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; vertical-align:top; width:53.15pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; vertical-align:top; width:53.1pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; width:53pt">
+			<p>X</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; vertical-align:top; width:53pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; vertical-align:top; width:53.5pt">
+			<p>&nbsp;</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:black 1pt solid; border-right:black 1pt solid; border-top:#f0f0f0; height:14.15pt; width:129pt">
+			<p>1 MCP</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.15pt; vertical-align:top; width:53pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.15pt; width:53.15pt">
+			<p>X</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.15pt; vertical-align:top; width:53.1pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.15pt; vertical-align:top; width:53pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.15pt; vertical-align:top; width:53pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.15pt; vertical-align:top; width:53.5pt">
+			<p>&nbsp;</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:black 1pt solid; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; width:129pt">
+			<p>rodenticiden</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; width:53pt">
+			<p>X<sup>15</sup></p>
+			</td>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; vertical-align:top; width:53.15pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; vertical-align:top; width:53.1pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; width:53pt">
+			<p>X<sup>15</sup></p>
+			</td>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; vertical-align:top; width:53pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; vertical-align:top; width:53.5pt">
+			<p>&nbsp;</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:black 1pt solid; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; width:129pt">
+			<p>afweermiddelen</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; width:53pt">
+			<p>X<sup>15</sup></p>
+			</td>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; vertical-align:top; width:53.15pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; vertical-align:top; width:53.1pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; width:53pt">
+			<p>X<sup>15</sup></p>
+			</td>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; vertical-align:top; width:53pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; vertical-align:top; width:53.5pt">
+			<p>&nbsp;</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:black 1pt solid; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; width:129pt">
+			<p>uitvloeiers</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; width:53pt">
+			<p>X<sup>15</sup></p>
+			</td>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; vertical-align:top; width:53.15pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; vertical-align:top; width:53.1pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; width:53pt">
+			<p>X<sup>15</sup></p>
+			</td>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; vertical-align:top; width:53pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; vertical-align:top; width:53.5pt">
+			<p>&nbsp;</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:black 1pt solid; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; width:129pt">
+			<p>grondontsmettingsmiddelen</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; vertical-align:top; width:53pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; vertical-align:top; width:53.15pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; width:53.1pt">
+			<p>X<sup>16</sup></p>
+			</td>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; vertical-align:top; width:53pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; vertical-align:top; width:53pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; width:53.5pt">
+			<p>X<sup>16</sup></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:black 1pt solid; border-right:black 1pt solid; border-top:#f0f0f0; height:16.75pt; width:129pt">
+			<p>prohexadione-Ca</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:16.75pt; vertical-align:top; width:53pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:16.75pt; vertical-align:top; width:53.15pt">
 			<p>X<sup>17</sup></p>
-
-			<p>X<sup>17</sup></p>
-
-			<p>X<sup>17</sup></p>
-
+			</td>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:16.75pt; vertical-align:top; width:53.1pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:54pt">
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:16.75pt; vertical-align:top; width:53pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:52.1pt">
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:16.75pt; vertical-align:top; width:53pt">
+			<p>X<sup>17</sup></p>
+			</td>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:16.75pt; vertical-align:top; width:53.5pt">
 			<p>&nbsp;</p>
-
-			<p>&nbsp;</p>
-
-			<p>&nbsp;</p>
-
-			<p>&nbsp;</p>
-
-			<p>&nbsp;</p>
-
-			<p>&nbsp;</p>
-
-			<p>&nbsp;</p>
-
-			<p>&nbsp;</p>
-
-			<p>&nbsp;</p>
-
-			<p>X<sup>18</sup></p>
-
-			<p>X<sup>19</sup></p>
 			</td>
 		</tr>
 	</tbody>
@@ -1218,239 +2425,194 @@ Het inspectierapport wordt na elke inspectie getekend door de controleur van het
 
 <p>&nbsp;</p>
 
-<p><br>
-Beperkingen bij het gebruik van gewasbeschermingsmiddelen behorende tot de gele of oranje lijst:<br>
-&nbsp;</p>
+<p>- Beperkingen bij het gebruik van gewasbeschermingsmiddelen die behoren tot de gele of oranje lijst Acariciden<br>
+<br>
+<!--[if gte mso 9]><xml><br> <o:DocumentProperties><br>  <o:Author>Decockge</o:Author><br>  <o:Template>Normal</o:Template><br>  <o:LastAuthor>Decockge</o:LastAuthor><br>  <o:Revision>1</o:Revision><br>  <o:TotalTime>7</o:TotalTime><br>  <o:Created>2007-01-10T13:57:00Z</o:Created><br>  <o:LastSaved>2007-01-10T14:04:00Z</o:LastSaved><br>  <o:Pages>1</o:Pages><br>  <o:Words>407</o:Words><br>  <o:Characters>2241</o:Characters><br>  <o:Company>MVG</o:Company><br>  <o:Lines>18</o:Lines><br>  <o:Paragraphs>5</o:Paragraphs><br>  <o:CharactersWithSpaces>2643</o:CharactersWithSpaces><br>  <o:Version>11.6408</o:Version><br> </o:DocumentProperties><br></xml><![endif]--><!--[if gte mso 9]><xml><br> <w:WordDocument><br>  <w:SpellingState>Clean</w:SpellingState><br>  <w:GrammarState>Clean</w:GrammarState><br>  <w:HyphenationZone>21</w:HyphenationZone><br>  <w:DrawingGridHorizontalSpacing>6 pt</w:DrawingGridHorizontalSpacing><br>  <w:DrawingGridVerticalSpacing>8,15 pt</w:DrawingGridVerticalSpacing><br>  <w:DisplayHorizontalDrawingGridEvery>2</w:DisplayHorizontalDrawingGridEvery><br>  <w:DisplayVerticalDrawingGridEvery>2</w:DisplayVerticalDrawingGridEvery><br>  <w:ValidateAgainstSchemas></w:ValidateAgainstSchemas><br>  <w:SaveIfXMLInvalid>false</w:SaveIfXMLInvalid><br>  <w:IgnoreMixedContent>false</w:IgnoreMixedContent><br>  <w:AlwaysShowPlaceholderText>false</w:AlwaysShowPlaceholderText><br>  <w:Compatibility><br>   <w:BreakWrappedTables></w:BreakWrappedTables><br>   <w:SnapToGridInCell></w:SnapToGridInCell><br>   <w:WrapTextWithPunct></w:WrapTextWithPunct><br>   <w:UseAsianBreakRules></w:UseAsianBreakRules><br>   <w:UseWord2002TableStyleRules></w:UseWord2002TableStyleRules><br>  </w:Compatibility><br>  <w:BrowserLevel>MicrosoftInternetExplorer4</w:BrowserLevel><br> </w:WordDocument><br></xml><![endif]--><!--[if gte mso 9]><xml><br> <w:LatentStyles DefLockedState="e;false"e; LatentStyleCount="e;156"e;><br> </w:LatentStyles><br></xml><![endif]--><!--[if gte mso 10]><br><style><br> /* Style Definitions */<br> table.MsoNormalTable<br>	&lftaco;mso-style-name:Standaardtabel;<br>	mso-tstyle-rowband-size:0;<br>	mso-tstyle-colband-size:0;<br>	mso-style-noshow:yes;<br>	mso-style-parent:"e;"e;;<br>	mso-padding-alt:0cm 5.4pt 0cm 5.4pt;<br>	mso-para-margin:0cm;<br>	mso-para-margin-bottom:.0001pt;<br>	mso-pagination:widow-orphan;<br>	font-size:10.0pt;<br>	font-family:"e;Times New Roman"e;;<br>	mso-ansi-language:#0400;<br>	mso-fareast-language:#0400;<br>	mso-bidi-language:#0400;&rgtaco;<br></style><br><![endif]--><!--[if gte mso 9]><xml><br> <o:shapedefaults v:ext="e;edit"e; spidmax="e;2050"e;></o:shapedefaults><br></xml><![endif]--><!--[if gte mso 9]><xml><br> <o:shapelayout v:ext="e;edit"e;><br>  <o:idmap v:ext="e;edit"e; data="e;1"e;></o:idmap><br> </o:shapelayout></xml><![endif]--></p>
 
-<table border="1" cellpadding="0" cellspacing="0" style="border-collapse:collapse">
+<table border="0" cellpadding="0" cellspacing="0" style="border-collapse:collapse; width:447.75pt">
 	<tbody>
 		<tr>
-			<td colspan="3" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:460.6pt">
-			<h1>Acariciden</h1>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:48.65pt; vertical-align:top; width:160.15pt">
+			<p>1. diverse acariciden</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:48.65pt; vertical-align:top; width:287.6pt">
+			<p>enkel te gebruiken om de roofmijten (Typhlodromus pyri) uit te zetten op de betreffende percelen; vanaf 50 % van de ontluiking van de wintereieren van de rode spin en tot maximaal 4 weken voor het uitzetten van de roofmijten. De veiligheidstermijn voor de oogst moet gerespecteerd worden</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:39.5pt">
-			<p>1</p>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:25.15pt; vertical-align:top; width:160.15pt">
+			<p>2. Fenpyroximaat</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:144pt">
-			<p>Fenpyroximaat</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:277.1pt">
-			<p>Indien aantasting van rode spin: de erkende dosis voor de geïntegreerde teelt</p>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:25.15pt; width:287.6pt">
+			<p>bij aantasting van rode spin moet de erkende dosis voor de geïntegreerde teelt gerespecteerd worden</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:39.5pt">
-			<p>2</p>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:13.15pt; width:160.15pt">
+			<p>Insecticiden</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:144pt">
-			<p>Diverse acariciden</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:277.1pt">
-			<p>Enkel te gebruiken vóór het uitzetten van roofmijten (typhlodromus pyri) op de betreffende percelen: vanaf 50 % van de ontluiking van de wintereieren van de rode spin en tot maximaal vier weken voor het uitzetten van de roofmijten; de veiligheidstermijn van de oogst moet gerespecteerd worden</p>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:13.15pt; vertical-align:top; width:287.6pt">
+			<p>&nbsp;</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:39.5pt">
-			<p>3</p>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:15.5pt; width:160.15pt">
+			<p>3. Abemectine</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:144pt">
-			<p>Endosulfan</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:277.1pt">
-			<p>Mag allen voor de bloei gebruikt worden</p>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:15.5pt; width:287.6pt">
+			<p>bij aantasting van perenbladvlo: één toepassing voor of na de bloei</p>
 			</td>
 		</tr>
 		<tr>
-			<td colspan="3" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:460.6pt">
-			<h1>Insecticiden</h1>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:33.5pt; vertical-align:top; width:160.15pt">
+			<p>4. Acetamiprid</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:33.5pt; width:287.6pt">
+			<p>schadelijk voor roofwantsen; bij peer voor bloei of na pluk in afwezigheid van roofwantsen; bij appel voor of na bloei; maximaal 2 toepassingen per jaar</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:39.5pt">
-			<p>4</p>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:23.75pt; vertical-align:top; width:160.15pt">
+			<p>18. Spirodiclofen</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:144pt">
-			<p>Vamidothion</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:277.1pt">
-			<p>Indien de gebruikelijke bestrijdingstechnieken niet voldoen</p>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:23.75pt; width:287.6pt">
+			<p>gebruiksverbod ná uitzetten van roofmijten in het jaar van het uitzetten van de roofmijten</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:39.5pt">
-			<p>5</p>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:43.15pt; vertical-align:top; width:160.15pt">
+			<p>5. Synthetische pyrethroïden</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:144pt">
-			<p>Synthetische pyrethroïden</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:277.1pt">
-			<p>Bij zware aantasting van perenbladvlo in te zetten in het vroege voorjaar bij begin ei-afleg. Een zware aantasting wordt waargenomen als minstens tweehonderd perenbladvlooien bij honderd kloppingen geteld worden. Deze kloppingen moeten in het veldboek aangemeld worden</p>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:43.15pt; vertical-align:top; width:287.6pt">
+			<p>bij zware aantasting van perenbladvlo in te zetten in het vroege voorjaar bij begin eiafleg. Een zware aantasting wordt waargenomen als minstens 200 perenbladvlooien bij 100 kloppingen geteld worden. Die kloppingen moeten in het veldboek ingeschreven worden</p>
 			</td>
 		</tr>
 		<tr>
-			<td colspan="3" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:460.6pt">
-			<h1>Fungiciden</h1>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:14.25pt; width:160.15pt">
+			<p>6. Vamidothion</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:14.25pt; width:287.6pt">
+			<p>als de gebruikelijke bestrijdingstechnieken niet voldoen</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:39.5pt">
-			<p>6</p>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:14.25pt; width:160.15pt">
+			<p>Fungiciden</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:144pt">
-			<p>Zwavel, tolylfluanide</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:277.1pt">
-			<p>Hebben een remmend effect op de roofmijt (Typhlodromus pyri). Zwavel heeft een remmend effect op de roofwantsen. Aantal behandelingen beperken naar gelang van de populaties</p>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:14.25pt; vertical-align:top; width:287.6pt">
+			<p>&nbsp;</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:39.5pt">
-			<p>7</p>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:23.9pt; width:160.15pt">
+			<p>7. Carbendazim Thiofanaat-Methyl</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:144pt">
-			<p>TMTD</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:277.1pt">
-			<p>Maximaal vier behandelingen per jaar en nooit na elkaar inzette</p>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:23.9pt; width:287.6pt">
+			<p>ter bestrijding van neusrot, vruchtrot en kanker; voor kanker maximaal 2 behandelingen per seizoen</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:39.5pt">
-			<p>8</p>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:23.4pt; vertical-align:top; width:160.15pt">
+			<p>8. imazalil</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:144pt">
-			<p>Imazalil</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:277.1pt">
-			<p>Voor de behandeling van wonden of als naoogstbehandeling als voldaan wordt aan de eisen van het lastenboek</p>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:23.4pt; width:287.6pt">
+			<p>als naoogstbehandeling indien voldaan wordt aan de eisen van het lastenboek</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:39.5pt">
-			<p>9</p>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:14.65pt; width:160.15pt">
+			<p>9. thiram</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:144pt">
-			<p>Diethofencarb</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:277.1pt">
-			<p>Éénmalige behandeling tegen BCM-resistente vruchtrotschimmels</p>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:14.65pt; width:287.6pt">
+			<p>maximaal 4 behandelingen per jaar en nooit na elkaar inzetten</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:39.5pt">
-			<p>10</p>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:33.5pt; vertical-align:top; width:160.15pt">
+			<p>10. Zwavel, tolylfluanide</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:144pt">
-			<p>Carbendazim</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:277.1pt">
-			<p>Ter bestrijding van neusrot, vruchtrot en kanker thiofanaat-methyl voor kanker</p>
-
-			<p>Maximaal twee behandelingen per seizoen</p>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:33.5pt; width:287.6pt">
+			<p>remmend effect op de roofmijt (Typhlodromus pyri). Zwavel heeft een remmend effect op de roofwantsen. Het aantal behandelingen moet beperkt worden naargelang van de populaties</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:39.5pt">
-			<p>11</p>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:13.15pt; width:160.15pt">
+			<p>Herbiciden</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:144pt">
-			<p>Triadimefon</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:277.1pt">
-			<p>Wondafdekking voor kankerbestrijding</p>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:13.15pt; vertical-align:top; width:287.6pt">
+			<p>&nbsp;</p>
 			</td>
 		</tr>
 		<tr>
-			<td colspan="3" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:460.6pt">
-			<h1>Herbiciden</h1>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:25.15pt; vertical-align:top; width:160.15pt">
+			<p>11. Chloortoluron, linuron, metazachloor</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:25.15pt; width:287.6pt">
+			<p>de totale toegepaste hoeveelheid mag de erkende dosis niet overschrijden. Deze producten mogen na 21 juni niet gebruikt worden</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:39.5pt">
-			<p>12</p>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:23.9pt; vertical-align:top; width:160.15pt">
+			<p>12. Dichlobenil</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:144pt">
-			<p>Chloortoluron, linuron, metazachloor</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:277.1pt">
-			<p>De totale toegepaste hoeveelheid mag de erkende dosis niet overschrijden. Deze producten mogen na 21 juni niet gebruikt worden</p>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:23.9pt; width:287.6pt">
+			<p>- als zomertoepassing in meerrijensystemen aan de dosis van 20 kg/ha handelsproduct</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:39.5pt">
-			<p>13</p>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:14.15pt; vertical-align:top; width:160.15pt">
+			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:144pt">
-			<p>Dichlobenil</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:277.1pt">
-			<p>- Als zomertoepassing in meerrijensystemen aan de dosis van 20 kg/ha handelsproduct</p>
-
-			<p>- Als plaatselijke behandeling van doorlevende kruiden</p>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:14.15pt; width:287.6pt">
+			<p>- als plaatselijke behandeling van doorlevende kruiden</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:39.5pt">
-			<p>14</p>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:21.4pt; vertical-align:top; width:160.15pt">
+			<p>13. Diquat</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:144pt">
-			<p>Amitrol</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:277.1pt">
-			<p>Behandeling na de oogst</p>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:21.4pt; vertical-align:top; width:287.6pt">
+			<p>ter bestrijding van wortelopslag</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:39.5pt">
-			<p>15</p>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:40.65pt; vertical-align:top; width:160.15pt">
+			<p>14. Paraquat</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:144pt">
-			<p>Diquat</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:277.1pt">
-			<p>Ter bestrijding van wortelopslag</p>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:40.65pt; width:287.6pt">
+			<p>toegestaan tijdens het plantjaar en ook alleen in de herfst van het volgende jaar. Vanaf het derde groeijaar is maximaal 1 toepassing per jaar toegestaan mits het gebruik verantwoord kan worden</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:39.5pt">
-			<p>16</p>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:13.15pt; width:160.15pt">
+			<p>Diversen</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:144pt">
-			<p>Paraquat</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:277.1pt">
-			<p>Toegestaan tijdens het plantjaar en ook alleen in de herfst van het volgende jaar. Vanaf het derde groeijaar is maximaal een toepassing per jaar toegestaan mits het gebruik verantwoord wordt</p>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:13.15pt; vertical-align:top; width:287.6pt">
+			<p>&nbsp;</p>
 			</td>
 		</tr>
 		<tr>
-			<td colspan="3" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:460.6pt">
-			<h1>Diverse stoffen</h1>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:23.9pt; vertical-align:top; width:160.15pt">
+			<p>15.</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:23.9pt; width:287.6pt">
+			<p>erkende rodenticiden, afweermiddelen en uitvloeiers mogen gebruikt worden</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:39.5pt">
-			<p>17</p>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:34.5pt; vertical-align:top; width:160.15pt">
+			<p>16.</p>
 			</td>
-			<td colspan="2" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:421.1pt">
-			<p>Erkende rodenticiden, afweermiddelen en uitvloeiers mogen gebruikt worden</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:39.5pt">
-			<p>18</p>
-			</td>
-			<td colspan="2" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:421.1pt">
-			<p>Erkende grondontsmettingsmiddelen mogen enkel gebruikt worden na beslissing van het controleorgaan en op basis van de uitslagen van de analyse</p>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:34.5pt; width:287.6pt">
+			<p>erkende grondontsmettingsmiddelen mogen enkel gebruikt worden na de beslissing van het controleorgaan en op basis van de uitslagen van de analyse</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:39.5pt">
-			<p>19</p>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:18.5pt; vertical-align:top; width:160.15pt">
+			<p>17.</p>
 			</td>
-			<td colspan="2" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:421.1pt">
-			<p>Prohexadione-Ca kan worden gebruikt in de boomgaarden waar de groei van de bomen niet meer te beheersen is. <em>(verv. M.B. 17 september 2004, art. 7, I: 15 oktober 2004)</em><strong>]</strong></p>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:18.5pt; vertical-align:bottom; width:287.6pt">
+			<p>Prohexadione-Ca kan worden gebruikt in de boomgaarden waar de groei van de bomen niet meer te beheersen is</p>
 			</td>
 		</tr>
 	</tbody>
