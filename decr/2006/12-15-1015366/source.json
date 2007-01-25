@@ -1,0 +1,17 @@
+{
+  "codex_id": 1015366,
+  "title": "Decreet van 2006-12-15 houdende instemming met de overeenkomst tot herziening van de overeenkomst houdende oprichting van een Europees Universitair Instituut en de Slotakte, ondertekend in Florence op 18 juni 1992 en 17 september 1992",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1015366/VolledigDocument?datum=2007-01-25",
+  "source_sha256": "d3c3faa35bb179969268aa642603b8bc7472384d14bfda8acddf5cdb9fcd3b5c",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1015366&param=informatie",
+  "as_of": "2007-01-25",
+  "made": "2006-12-15",
+  "gazette": "2007-01-15",
+  "numac": 2006037101,
+  "document_start": "2007-01-25",
+  "document_end": null,
+  "in_force": "2007-01-25",
+  "article_versions": 2,
+  "record_form": "consolidated version as in force on 2007-01-25; oldest version available; future article versions excluded; article text as the API gives it"
+}
