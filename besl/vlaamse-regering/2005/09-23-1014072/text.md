@@ -388,7 +388,7 @@ De evaluatieteams van de Centra Algemeen Welzijnswerk die erkend zijn op basis v
 
 ### ART. 87.
 
-De adoptiediensten die op het ogenblik van de inwerkingtreding van het decreet erkend zijn op basis van het decreet van 15 juli 1997 inzake interlandelijke adoptie behouden hun erkenning tot ze erkend zijn volgens de bepalingen van dit besluit.
+De adoptiediensten die op het ogenblik van de inwerkingtreding van het decreet erkend zijn op basis van het decreet van 15 juli 1997 inzake interlandelijke adoptie behouden hun erkenning tot ze erkend zijn volgens de bepalingen van dit besluit.<br /><br />In afwijking van de programmeringsnorm vermeld in artikel 38, kunnen er tot 30 september 2011 maximaal vijf adoptiediensten erkend worden.
 
 ### ART. 88.
 
