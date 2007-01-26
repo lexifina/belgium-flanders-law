@@ -1,0 +1,17 @@
+{
+  "codex_id": 1015539,
+  "title": "Besluit van de Vlaamse Regering van 2007-01-26 tot wijziging van het besluit van de Vlaamse Regering van 23 september 2005 betreffende de interlandelijke adoptie",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1015539/VolledigDocument?datum=2007-01-26",
+  "source_sha256": "d4967285e41abe8c3432bafe3404b7b420bd0decbd8914aaf1aaad424ec0435c",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1015539&param=informatie",
+  "as_of": "2007-01-26",
+  "made": "2007-01-26",
+  "gazette": "2007-02-19",
+  "numac": 2007035227,
+  "document_start": "2007-01-26",
+  "document_end": null,
+  "in_force": "2007-01-26",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2007-01-26; oldest version available; future article versions excluded; article text as the API gives it"
+}
