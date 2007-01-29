@@ -1,0 +1,17 @@
+{
+  "codex_id": 1015381,
+  "title": "Besluit van de Vlaamse Regering van 2006-12-15 betreffende de projecten 2006 van het Onderwijskundig Beleids- en Praktijkgericht Wetenschappelijk Onderzoek",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1015381/VolledigDocument?datum=2007-01-29",
+  "source_sha256": "9ef39fbd30145b22ad235856e668e2d0721624fefaaebbb30f9f8f8914dd51ed",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1015381&param=informatie",
+  "as_of": "2007-01-29",
+  "made": "2006-12-15",
+  "gazette": "2007-01-19",
+  "numac": 2007035034,
+  "document_start": "2007-01-29",
+  "document_end": null,
+  "in_force": "2007-01-29",
+  "article_versions": 5,
+  "record_form": "consolidated version as in force on 2007-01-29; oldest version available; future article versions excluded; article text as the API gives it"
+}
