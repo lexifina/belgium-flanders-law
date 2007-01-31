@@ -1,0 +1,17 @@
+{
+  "codex_id": 1015601,
+  "title": "Ministerieel besluit van 2007-01-31 houdende oprichting van basis- en tussenoverlegcomités en samenstelling van de overheidsafvaardiging in het Beleidsdomein Leefmilieu, Natuur en Energie",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1015601/VolledigDocument?datum=2007-01-31",
+  "source_sha256": "a2f9892bf8809f9b3e75abc5e0d82b0759b634f1c697fe25868d41a3aca93dc9",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1015601&param=informatie",
+  "as_of": "2007-01-31",
+  "made": "2007-01-31",
+  "gazette": "2007-03-02",
+  "numac": 2007035295,
+  "document_start": "2007-01-31",
+  "document_end": null,
+  "in_force": "2007-01-31",
+  "article_versions": 6,
+  "record_form": "consolidated version as in force on 2007-01-31; oldest version available; future article versions excluded; article text as the API gives it"
+}
