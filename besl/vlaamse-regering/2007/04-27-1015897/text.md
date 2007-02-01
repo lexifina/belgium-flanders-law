@@ -20,7 +20,7 @@ Dit besluit is van toepassing op de personeelsleden vermeld in artikel 29 van he
 
 ### ART. 4.
 
-Het politiek verlof vangt aan op de datum van de eedaflegging, 1 september, 1 oktober, 1 januari, 1 april of op een met de inrichtende macht of schoolbestuur overeengekomen datum.<br /><br />[n.v.d.r.: het tweede lid van dit artikel treedt pas in werking op 1 februari 2007]
+Het politiek verlof vangt aan op de datum van de eedaflegging, 1 september, 1 oktober, 1 januari, 1 april of op een met de inrichtende macht of schoolbestuur overeengekomen datum.<br /><br />Het personeelslid dat gebruik maakt van het recht op politiek verlof, stelt uiterlijk 15 dagen vóór de aanvang ervan, de inrichtende macht of het schoolbestuur in kennis van de datum waarop het politiek verlof zal aanvangen en van het volume aan wekelijkse prestaties waarvoor, conform artikel 5 van dit besluit, verlof gevraagd wordt. <br />
 
 ### ART. 5.
 
