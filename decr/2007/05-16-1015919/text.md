@@ -20,6 +20,10 @@ De bepalingen van dit hoofdstuk hebben uitwerking met ingang van 1 september 200
 
 ## Afdeling I. Volwassenenonderwijs
 
+### ART. III.2.
+
+In hetzelfde decreet wordt een artikel 8ter ingevoegd, dat luidt als volgt :<br />« Artikel 8ter. Centra voor Volwassenenonderwijs die tijdens het schooljaar 2005-2006 één of meer van de hierna vermelde opleidingen organiseerden, verkrijgen vanaf 1 februari 2007 ambtshalve onderwijsbevoegdheid voor het studiegebied mode :<br />1° breien BSO 3;<br />2° kleding BSO 3;<br />3° kleding-kleermaken dames BSO 3;<br />4° modes en modeartikelen BSO 3;<br />5° patroonstudie BSO 3. »<br />
+
 ## Afdeling II. Basiseducatie
 
 ### ART. III.5.
