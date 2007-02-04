@@ -1,0 +1,17 @@
+{
+  "codex_id": 1014976,
+  "title": "Decreet van 2005-12-23 houdende de uitgavenbegroting van de Vlaamse Gemeenschap voor het begrotingsjaar 2006",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1014976/VolledigDocument?datum=2007-02-04",
+  "source_sha256": "3091b0ee51f6584f0207a2bda038e95c318d35c4852e9727835192f30c686baf",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1014976&param=informatie",
+  "as_of": "2007-02-04",
+  "made": "2005-12-23",
+  "gazette": "2006-09-21",
+  "numac": 2006036189,
+  "document_start": null,
+  "document_end": null,
+  "in_force": "2007-02-04",
+  "article_versions": 171,
+  "record_form": "consolidated version as in force on 2007-02-04; oldest version available; future article versions excluded; article text as the API gives it"
+}
