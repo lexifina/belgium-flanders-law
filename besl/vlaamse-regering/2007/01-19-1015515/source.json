@@ -1,0 +1,17 @@
+{
+  "codex_id": 1015515,
+  "title": "Besluit van de Vlaamse Regering van 2007-01-19 tot wijziging van het besluit van de Vlaamse Regering van 16 mei 1995 betreffende de invordering van niet-fiscale schuldvorderingen voor de Vlaamse Gemeenschap en de instellingen die eronder ressorteren",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1015515/VolledigDocument?datum=2007-02-12",
+  "source_sha256": "38d972d4a7237837d9a07d6773beb84ad5bd23cbfbd28105627c298099cb7ebb",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1015515&param=informatie",
+  "as_of": "2007-02-12",
+  "made": "2007-01-19",
+  "gazette": "2007-02-12",
+  "numac": 2007035212,
+  "document_start": "2007-02-12",
+  "document_end": null,
+  "in_force": "2007-02-12",
+  "article_versions": 5,
+  "record_form": "consolidated version as in force on 2007-02-12; oldest version available; future article versions excluded; article text as the API gives it"
+}
