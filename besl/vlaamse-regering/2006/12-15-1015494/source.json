@@ -1,0 +1,17 @@
+{
+  "codex_id": 1015494,
+  "title": "Besluit van de Vlaamse Regering van 2006-12-15 tot wijziging van sommige besluiten van de Vlaamse Regering met betrekking tot eindtermen en ontwikkelingsdoelen in het basis- en secundair onderwijs",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1015494/VolledigDocument?datum=2007-02-18",
+  "source_sha256": "2b6465eba6bcb3fa6c6304239dff4c199ba20525ef081c791f40605aa4d781bc",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1015494&param=informatie",
+  "as_of": "2007-02-18",
+  "made": "2006-12-15",
+  "gazette": "2007-02-08",
+  "numac": 2007035138,
+  "document_start": "2007-02-18",
+  "document_end": null,
+  "in_force": "2007-02-18",
+  "article_versions": 11,
+  "record_form": "consolidated version as in force on 2007-02-18; oldest version available; future article versions excluded; article text as the API gives it"
+}
