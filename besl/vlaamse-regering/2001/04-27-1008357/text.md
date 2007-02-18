@@ -2,7 +2,7 @@
 
 ### ART. 1.
 
-De eindtermen en ontwikkelingsdoelen van het gewoon basisonderwijs zoals geformuleerd in het besluit van de Vlaamse regering van 27 mei 1997 tot bepaling van de ontwikkelingsdoelen en de eindtermen van het gewoon basisonderwijs gelden als ontwikkelingsdoelen voor het buitengewoon basisonderwijs type 8, zoals bedoeld in artikel 44 van het decreet basisonderwijs van 25 februari 1997.<br /><br />De ontwikkelingsdoelen die als bijlage bij dit besluit zijn gevoegd, zijn de bijkomende specifieke ontwikkelingsdoelen voor het buitengewoon basisonderwijs type 8, zoals bedoeld in hetzelfde decreet.
+De eindtermen en ontwikkelingsdoelen van het gewoon basisonderwijs zoals geformuleerd in het besluit van de Vlaamse regering van 27 mei 1997 tot bepaling van de ontwikkelingsdoelen en de eindtermen van het gewoon basisonderwijs zoals gewijzigd gelden als ontwikkelingsdoelen voor het buitengewoon basisonderwijs type 8, zoals bedoeld in artikel 44 van het decreet basisonderwijs van 25 februari 1997.<br /><br />De ontwikkelingsdoelen die als bijlage bij dit besluit zijn gevoegd, zijn de bijkomende specifieke ontwikkelingsdoelen voor het buitengewoon basisonderwijs type 8, zoals bedoeld in hetzelfde decreet.
 
 ### ART. 2.
 
