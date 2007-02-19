@@ -14,15 +14,43 @@ Tenzij anders bepaald, wordt voor de toepassing van dit decreet verstaan onder :
 
 ## HOOFDSTUK I OPRICHTING EN BEHEER
 
+### ART. 3.
+
+Binnen de Vlaamse Landmaatschappij, opgericht bij decreet van 21 december 1988 houdende oprichting van de Vlaamse Landmaatschappij wordt een afdeling Vlaamse Grondenbank opgericht.<br /><br />
+
+### ART. 4.
+
+§ 1. De Vlaamse Landmaatschappij stelt de nodige diensten, uitrusting, installaties en personeelsleden ter beschikking van de Vlaamse Grondenbank voor de uitvoering van haar taken zoals bedoeld in artikel 5, § 1.<br /><br />§ 2. De administratieve overheden van het Vlaamse Gewest bevoegd voor Leefmilieu, Landinrichting en Natuurbehoud, stellen de nodige diensten, uitrusting, installaties en personeelsleden ter beschikking van de Vlaamse Grondenbank voor de uitvoering van haar taken zoals bedoeld in artikel 5, § 2 en 5, § 3.<br /><br />
+
 ## HOOFDSTUK II TAKEN
 
+### ART. 5.
+
+§ 1. De Vlaamse Grondenbank heeft als taak :<br />1° het ontvangen en ter beschikking stellen van informatie met betrekking tot de decretale rechten van voorkoop en koopplichten op de wijze zoals bedoeld in titel III;<br />2° het uitoefenen van de decretale rechten van voorkoop zoals bedoeld in titel IV, hoofdstukken I en VI, op verzoek van de bevoegde administratieve overheden van het Vlaamse Gewest;<br />3° het vervullen van de decretale koopplichten zoals bedoeld in titel IV, hoofdstukken I en VII.<br /><br />§ 2. Naast de taken opgesomd onder § 1 heeft de Vlaamse Grondenbank, voor de bevoegdheden Leefmilieu, Landinrichting en Natuurbehoud, de volgende taken die ze zal uitvoeren op de wijze bepaald door de bevoegde entiteiten inzake Leefmilieu, Landinrichting en Natuurbehoud :<br />1° het verwerven en overdragen van zakelijke rechten op onroerende goederen, zoals bedoeld in titel IV, hoofdstukken I, II en IV;<br />2° het verwerven en overdragen van aandelen van vennootschappen, zoals bedoeld in titel IV, hoofdstukken I, II en IV;<br />3° het administratief beheren van deze rechten, vanaf de verwerving tot aan de overdracht, zoals bedoeld in titel IV, hoofdstukken I en III;<br />4° het aanleggen van grondreserves voor ruil in functie van de realisatie van projecten inzake bosuitbreiding of natuurbehoud, met inbegrip van de schadebeperkende en de compenserende maatregelen zoals bedoeld in artikel 26bis, § 3 van het decreet van 21 oktober 1997 betreffende het natuurbehoud en het natuurlijk milieu en met inbegrip van de compenserende maatregelen bedoeld in artikel 36ter, § 5 van hetzelfde decreet;<br />5° het ruilen van onroerende goederen.<br /><br />§ 3. De Vlaamse Grondenbank heeft, binnen het kader van natuur- en bosbeleid en van grootschalige infrastructuurprojecten, als taak op verzoek van een beroepslandbouwer of van een administratieve overheid van het Vlaamse Gewest :<br />1° het ruilen van onroerende goederen die in landbouwgebruik zijn en die niet gelegen zijn in de agrarische structuur, naar de agrarische structuur;<br />2° het verplaatsen van landbouwbedrijven, geheel of gedeeltelijk niet gelegen in de agrarische structuur, naar de agrarische structuur;<br />3° het ruilen of verplaatsen zoals bedoeld in respectievelijk 1° of 2° kan niet naar de gebieden opgesomd in artikel 20 van het decreet van 21 oktober 1997 betreffende het natuurbehoud en het natuurlijk milieu, tenzij de Hoge Raad voor Natuurbehoud hiertoe positief advies verleent.<br /><br />
+
 ## HOOFDSTUK III MIDDELEN
+
+### ART. 6.
+
+§ 1. De werkingsmiddelen waarover de Vlaamse Grondenbank kan beschikken zijn :<br />1° een dotatie aan de Vlaamse Landmaatschappij, afdeling Vlaamse Grondenbank;<br />2° de middelen ter beschikking gesteld door de verzoekende administratieve overheden van het Vlaamse Gewest voor de taken zoals beschreven in artikel 5, § 2 en § 3.<br /><br />§ 2. De verwervings- en beheersmiddelen waarover de Vlaamse Grondenbank kan beschikken zijn :<br />1° de middelen ter beschikking gesteld door de administratieve overheden van het Vlaamse Gewest, voor de uitvoering van de taken zoals beschreven in artikel 5, § 1, 2° en 3° en van de taken, voor zover deze op verzoek van een administratieve overheid van het Vlaamse Gewest worden uitgevoerd, zoals beschreven in artikel 5, § 3;<br />2° de middelen ter beschikking gesteld door de administratieve overheden van het Vlaamse Gewest, bevoegd voor Leefmilieu, Landinrichting en Natuurbehoud, voor de uitvoering van de taken zoals beschreven in artikel 5, § 2.<br /><br />§ 3. de opbrengsten of verliezen die kunnen voortvloeien uit de uitvoering van de taken zoals beschreven in artikel 5, § 1, 2° en 3°, § 2 en § 3 zijn respectievelijk ten voordele of ten laste van de administratieve overheid van het Vlaamse Gewest dewelke de verwervingsmiddelen ter beschikking heeft gesteld.<br /><br />§ 4. De Vlaamse regering kan nadere regels stellen voor de uitvoering van dit artikel.<br />
+
+### ART. 7.
+
+Het financieel beheer van de Vlaamse Grondenbank is gescheiden van het algemeen financieel beheer van de Vlaamse Landmaatschappij.<br /><br />
 
 ## TITEL III INFORMATIESYSTEEM
 
 ## HOOFDSTUK I CENTRAAL INFORMATIESYSTEEM
 
+### ART. 8.
+
+§ 1. Het AGIV bouwt het centraal informatiesysteem uit als onderdeel van de Gronddatabank, zoals bepaald in artikel 2, 5° van het decreet van 17 juli 2000 houdende het Geografisch Informatiesysteem Vlaanderen.<br /><br />§ 2. De Vlaamse Grondenbank is belast met het ontwikkelen, beheren en openstellen van een elektronisch loket met betrekking tot alle bestaande en toekomstige decretale rechten van voorkoop en koopplichten.<br /><br />§ 3. De toegang tot de informatie opgenomen in het centraal informatiesysteem is gratis.<br /><br />§ 4. De Vlaamse Regering kan nadere regels stellen betreffende de uitvoering van dit artikel.<br /><br />
+
 ## HOOFDSTUK II INFORMATIEVERPLICHTINGEN
+
+### ART. 9.
+
+De administratieve overheden van het Vlaamse Gewest stellen, op vraag van de Vlaamse Grondenbank, alle informatie waarover zij beschikken en die nodig is voor de toepassing van dit decreet, ter beschikking van de Vlaamse Grondenbank. Voor zover dit is opgenomen in een samenwerkingsakkoord, kan ook de Federale Staat informatie aanleveren.<br /><br />De administratieve overheden van het Vlaamse Gewest en de federale staat blijven aansprakelijk voor de door hen al of niet geleverde informatie. De Vlaamse Grondenbank is aansprakelijk voor de verwerking van de aangeleverde informatie.<br /><br />De Vlaamse Regering kan nadere regels stellen betreffende de uitvoering van dit artikel.<br /><br />
 
 ## TITEL IV VERWERVEN, BEHEREN EN OVERDRAGEN
 
@@ -55,6 +83,18 @@ Elke beroepslandbouwer die onroerende goederen, gelegen buiten de agrarische str
 ## TITEL V SLOTBEPALINGEN
 
 ## HOOFDSTUK I WIJZIGINGSBEPALINGEN
+
+### ART. 21.
+
+Aan artikel 6 van het decreet van 21 december 1988 houdende oprichting van de Vlaamse Landmaatschappij, gewijzigd bij de decreten van 23 januari 1991, 7 juli 1998, 8 december 1998 en 17 juli 2000 wordt een § 8 toegevoegd die luidt als volgt :<br />"§ 8. De Maatschappij wordt belast met de taken die overeenkomstig het decreet van 16 juni 2006 betreffende de oprichting van de Vlaamse Grondenbank en houdende wijziging van diverse bepalingen die aan de Vlaamse Grondenbank zijn opgedragen.".<br /><br />
+
+### ART. 22.
+
+Aan artikel 1bis, § 2 van hetzelfde decreet, wordt een definitie toegevoegd die luidt als volgt :<br />"6° het decreet Vlaamse Grondenbank : het decreet van 16 juni 2006 betreffende de oprichting van de Vlaamse Grondenbank en houdende wijziging van diverse bepalingen.".<br /><br />
+
+### ART. 23.
+
+Aan artikel 5 van hetzelfde decreet, wordt een ten achtste toegevoegd dat luidt als volgt :<br />"8° het decreet Vlaamse Grondenbank.".<br /><br />
 
 ## HOOFDSTUK II OVERGANGSBEPALINGEN
 

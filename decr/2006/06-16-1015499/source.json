@@ -2,16 +2,16 @@
   "codex_id": 1015499,
   "title": "Decreet van 2006-06-16 betreffende het oprichten van de Vlaamse Grondenbank en houdende wijziging van diverse bepalingen",
   "type": "Decreet",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1015499/VolledigDocument?datum=2007-02-01",
-  "source_sha256": "e224d6def523fc9f255e182285a95168766593aefe4ae9ed5a7bac3c61cb0a9e",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1015499/VolledigDocument?datum=2007-02-19",
+  "source_sha256": "5b4e1e57cfcf282e80bc48448f219827f1e07d92a328bcb93e0b86a817c45ae3",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1015499&param=informatie",
-  "as_of": "2007-02-01",
+  "as_of": "2007-02-19",
   "made": "2006-06-16",
   "gazette": "2007-02-09",
   "numac": 2006036937,
   "document_start": null,
   "document_end": null,
-  "in_force": "2007-02-01",
-  "article_versions": 5,
-  "record_form": "consolidated version as in force on 2007-02-01; future article versions excluded; article text as the API gives it"
+  "in_force": "2007-02-19",
+  "article_versions": 15,
+  "record_form": "consolidated version as in force on 2007-02-19; future article versions excluded; article text as the API gives it"
 }
