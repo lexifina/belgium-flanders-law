@@ -1,0 +1,10 @@
+# Ministerieel besluit van 2007-01-19 tot bepaling van het percentage van de anciënniteitsontwikkeling voor de wijziging in 2006 van de subsidie voor de centra voor kinderzorg en gezinsondersteuning
+
+### Aanhef
+
+De Vlaamse minister van Welzijn, Volksgezondheid en Gezin, <br /><br />Gelet op het decreet van 30 april tot oprichting van het intern verzelfstandigd agentschap met rechtspersoonlijkheid Kind en Gezin; <br /><br />Gelet op het besluit van de Vlaamse Regering van 1 maart 2002 betreffende de erkenning en de subsidiëring van de centra voor kinderzorg en gezinsondersteuning, gewijzigd bij de besluiten van de Vlaamse Regering van 28 februari 2003, 28 mei 2004, 28 april 2006 en 8 september 2006; <br /><br />Gelet op het besluit van de Vlaamse Regering van 27 juli 2004 tot bepaling van de bevoegdheden van de leden van de Vlaamse Regering, gewijzigd bij de besluiten van de Vlaamse Regering van 15 oktober 2004, 23 december 2005, 19 mei 2006 en 30 juni 2006; <br /><br />Gelet op het advies van de Inspectie van Financiën, gegeven op 10 januari 2007; <br /><br />Gelet op de wetten op de Raad van State, gecoördineerd op 12 januari 1973, inzonderheid op artikel 3, § 1, vervangen bij de wet van 4 juli 1989 en gewijzigd bij de wet van 4 augustus 1996; <br /><br />Gelet op de dringende noodzakelijkheid; <br /><br />Overwegende dat het percentage van de anciënniteitsontwikkeling over de voorbije vijf jaar onverwijld moet worden bepaald om duidelijkheid te scheppen in de aanpassing van het subsidiebedrag voor de centra voor kinderzorg en gezinsondersteuning voor 2006, <br /><br />Besluit :<br /><br />
+
+### Enig artikel
+
+Het percentage van de anciënniteitsontwikkeling over de voorbije vijf jaar voor de wijziging van de subsidie voor 2006, vermeld in&nbsp;artikel 48bis, § 4 , artikel 49bis, § 2, 4 °, van het besluit van de Vlaamse Regering van 1 maart 2002 betreffende de erkenning en de subsidiëring van de centra voor kinderzorg en gezinsondersteuning, wordt bepaald op 0,2622 %.<br>
+&nbsp;
