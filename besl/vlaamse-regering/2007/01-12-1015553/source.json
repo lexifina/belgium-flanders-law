@@ -1,0 +1,17 @@
+{
+  "codex_id": 1015553,
+  "title": "Besluit van de Vlaamse Regering van 2007-01-12 tot wijziging van het besluit van de Vlaamse Regering van 4 februari 2005 inzake de verhandelbare emissierechten voor broeikasgassen en tot wijziging van het besluit van de Vlaamse Regering van 6 februari 1991 houdende vaststelling van het Vlaams reglement betreffende de milieuvergunning en van het besluit van de Vlaamse Regering van 1 juni 1995 houdende de algemene en sectorale bepalingen inzake milieuhygiëne, wat betreft de inzet van de flexibiliteitsmechanismen van het Protocol van Kyoto door het Vlaamse Gewest",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1015553/VolledigDocument?datum=2007-02-23",
+  "source_sha256": "3c3d45a4a1ef6f466bcc9ea5a27c9063eb06a4b423471256cda832dc1a5cd7aa",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1015553&param=informatie",
+  "as_of": "2007-02-23",
+  "made": "2007-01-12",
+  "gazette": "2007-02-23",
+  "numac": 2007035231,
+  "document_start": "2007-02-23",
+  "document_end": null,
+  "in_force": "2007-02-23",
+  "article_versions": 7,
+  "record_form": "consolidated version as in force on 2007-02-23; oldest version available; future article versions excluded; article text as the API gives it"
+}
