@@ -24,21 +24,65 @@ In dit decreet wordt verstaan onder:<br /><br />1° rationeel energiegebruik: he
 
 ## AFDELING 2 STEUNPROGRAMMA'S VOOR NATUURLIJKE PERSONEN
 
+### ART. 5.
+
+De Vlaamse regering kan een steunprogramma opstellen met tegemoetkomingen ten voordele van natuurlijke personen die niet in aanmerking komen voor een tegemoetkoming als onderneming met toepassing van de artikelen 6 tot 8, voor:<br /><br />1° de toepassing van energiezuinige producten, technieken en systemen;<br /><br />2° een rationeel energiebeheer;<br /><br />3° de toepassing van hernieuwbare energietechnologieën.
+
 ## AFDELING 3 STEUNPROGRAMMA'S VOOR ONDERNEMINGEN
 
 ## ONDERAFDELING 1 DE ONDERNEMING ALS GEBRUIKER VAN ENERGIEZUINIGE PRODUCTEN, TECHNIEKEN, SYSTEMEN OF HERNIEUW- BARE ENERGIETECHNOLOGIEËN
 
+### ART. 6.
+
+De Vlaamse regering kan een steunprogramma opstellen met tegemoetkomingen ten voordele van ondernemingen voor:<br /><br />1° de toepassing van energiezuinige producten, technieken en systemen;<br /><br />2° een rationeel energiebeheer;<br /><br />3° de toepassing van hernieuwbare energietechnologieën;<br /><br />4° het ondernemen van haalbaarheidsstudies voor de toepassing van energiezuinige producten, technieken en systemen of voor de toepassing van hernieuwbare energietechnologieën.
+
 ## ONDERAFDELING 2 DE ONDERNEMING ALS ONTWIKKELAAR, PRODUCENT OF DISTRIBUTEUR VAN ENERGIEZUINIGE PRODUCTEN, TECHNIEKEN OF SYSTEMEN OF VAN HERNIEUWBARE ENERGIETECHNOLOGIEËN
+
+### ART. 7.
+
+§ 1. De Vlaamse regering kan een steunprogramma opstellen met tegemoetkomingen ten voordele van ondernemingen die ontwikkelaar, fabrikant of distributeur zijn van energiezuinige producten, technieken, systemen of hernieuwbare energietechnologieën, voor het uitvoeren van referentieprojecten.<br /><br />§ 2. De onderneming, bedoeld in § 1, sluit met de eerste gebruiker een overeenkomst waarin het deel van de tegemoetkoming dat gegeven wordt om de investerings- en installatiekosten te dekken, wordt overgedragen aan de eerste gebruiker en waarin de gebruiker de onderneming toestaat om de resultaten van het project te gebruiken bij commercialisering.
 
 ## ONDERAFDELING 3 DE ONDERNEMING ALS PROMOTOR VAN RATIONEEL ENERGIEGEBRUIK EN HET GEBRUIK VAN HERNIEUWBARE ENERGIEBRONNEN
 
+### ART. 8.
+
+De Vlaamse regering kan een steunprogramma opstellen met tegemoetkomingen ten voordele van ondernemingen voor:<br /><br />1° het voeren van sensibiliserings- en communicatieacties rond rationeel energiegebruik, rationeel energiebeheer of hernieuwbare energietechnologieën;<br /><br />2° de informatieverzameling en -verstrekking inzake rationeel energiegebruik, rationeel energiebeheer of hernieuwbare energietechnologieën;<br /><br />3° het organiseren van vormingsprojecten rond rationeel energiegebruik, rationeel energiebeheer en hernieuwbare energietechnologieën.
+
 ## AFDELING 4 STEUNPROGRAMMA'S VOOR NIET-COMMERCIËLE INSTELLINGEN EN PUBLIEKRECHTELIJKE RECHTSPERSONEN
+
+### ART. 9.
+
+De Vlaamse regering kan een steunprogramma opstellen met tegemoetkomingen ten voordele van niet-commerciële instellingen en publiekrechtelijke rechtspersonen voor:<br /><br />1° de toepassing van energiezuinige producten, technieken en systemen;<br /><br />2° een rationeel energiebeheer;<br /><br />3° de toepassing van hernieuwbare energietechnologieën;<br /><br />4° het ondernemen van haalbaarheidsstudies voor de toepassing van energiezuinige producten, technieken en systemen of voor de toepassing van hernieuwbare energietechnologieën;<br /><br />5° het voeren van sensibiliserings- en communicatieacties rond rationeel energiegebruik, rationeel energiebeheer of hernieuwbare energietechnologieën;<br /><br />6° de informatieverzameling en -verstrekking inzake rationeel energiegebruik, rationeel energiebeheer of hernieuwbare energietechnologieën;<br /><br />7° het organiseren van vormingsprojecten rond rationeel energiegebruik, rationeel energiebeheer of hernieuwbare energietechnologieën;<br /><br />8° de kosten, verbonden aan de voorbereiding, ondertekening, uitvoering en voortgangscontrole van een energiebeleidsovereenkomst.
 
 ## AFDELING 5 MARKTINTRODUCTIEPROGRAMMA
 
+### ART. 10.
+
+§ 1. De Vlaamse regering kan op geregelde tijdstippen een steunprogramma opstellen om marktin-troductieprojecten te ondersteunen. Dat steunprogramma geeft een beschrijving van de energiezuinige producten, technieken en systemen of van de hernieuwbare energietechnologieën, waarvoor de Vlaamse regering een hogere marktintroductie wil verkrijgen, evenals het totale budget dat ze daartoe wil aanwenden en de maximale hoogte van de tegemoetkomingen die in het kader van dit marktintroductieprogramma kunnen worden toegestaan.<br /><br />Het steunprogramma geeft aan welke van de volgende doelgroepen kunnen inschrijven op het marktintroduc-tieprogramma: natuurlijke personen, ondernemingen, niet-commerciële instellingen of publiekrechtelijke rechtspersonen.<br /><br />De Vlaamse regering lanceert vervolgens een oproep, waarop belangstellenden uit de aangewezen doelgroepen kunnen intekenen, die deze energiezuinige producten, technieken of systemen of hernieuwbare energietechnologieën willen installeren en die bereid zijn mee te werken aan de monitoring en kennisoverdracht aan de gebruikerssector.<br /><br />§ 2. De Vlaamse regering bepaalt de nadere regels van de oproep, evenals de nadere regels betreffende de monitoring en de bekendmaking van de resultaten van de marktintroductieprojecten.
+
 ## AFDELING 6 STEUNPROGRAMMA'S VOOR DE TOEPASSING VAN FLEXIBILITEITSMECHANISMEN
 
+### ART. 11.
+
+De Vlaamse regering kan tegemoetkomingen verstrekken voor de administratieve kosten die gepaard gaan met het voorbereiden van en deelnemen aan de flexibiliteitsmechanismen Gezamenlijke Uitvoering en het Mechanisme voor Schone Ontwikkeling onder het Protocol van Kyoto.<br /><br />De Vlaamse regering kan ook tegemoetkomingen verstrekken voor de uitvoering van projecten in het kader van de flexibiliteitsmechanismen, bedoeld in het eerste lid, met het oog op de verwerving van emissierechten door de Vlaamse overheid.
+
 ## AFDELING 7 HOOGTE VAN DE TEGEMOETKOMINGEN
+
+### ART. 12.
+
+De Vlaamse regering stelt de hoogte van de tegemoetkomingen en de in aanmerking komende kosten, bedoeld in dit decreet, vast alsmede de nadere regels betreffende de aanvraag, de beoordeling van de aanvragen en het toekennen van de tegemoetkomingen.<br /><br />De tegemoetkomingen, bedoeld in het vorige lid, kunnen de vorm aannemen van een subsidie, een lening tegen een verlaagde rentevoet, een voorschot of een ander geldelijk voordeel.
+
+### ART. 13.
+
+§ 1. De tegemoetkomingen die ter uitvoering van dit decreet worden toegekend aan natuurlijke personen, niet-commerciële instellingen en publiekrechtelijke rechtspersonen, kunnen maximaal 100 % van de in aanmerking komende kosten bedragen.<br /><br />Voor tegemoetkomingen die meer dan 50 % van de in aanmerking komende kosten bedragen of die hoger liggen dan 150.000 euro, sluit de Vlaamse regering met de begunstigde een subsidieovereenkomst, waarin een resultaatsverbintenis wordt opgenomen.<br /><br />§ 2. De tegemoetkomingen die ter uitvoering van dit decreet worden toegekend aan kleine of middelgrote ondernemingen, kunnen maximaal 50 van de in aanmerking komende kosten bedragen. Als de onderneming een grote onderneming is, kunnen deze tegemoetkomingen maximaal 40 % van de in aanmerking komende kosten bedragen.<br /><br />De Vlaamse regering past deze maximumpercentages aan overeenkomstig de percentages, opgenomen in de Europese kaderregeling inzake staatssteun ten behoeve van het milieu.<br /><br />Enkel de extra investeringen die noodzakelijk zijn voor het verwezenlijken van de milieudoeleinden worden in aanmerking genomen, exclusief de voordelen van een eventuele capaciteitsverhoging, de kostenbesparingen gedurende de eerste vijf jaar van de gebruiksduur van de investeringen en de extra bijproducten gedurende diezelfde periode. Gestrande kosten komen niet in aanmerking.
+
+### ART. 14.
+
+Beschermde klanten hebben recht op een tegemoetkoming die minstens 20 % hoger is dan de tegemoetkoming voor dezelfde aankoop of in aanmerking komende kosten, die gegeven wordt aan natuurlijke personen die geen beschermde klant zijn.<br /><br />Onder voorbehoud van de toepassing van het eerste lid kunnen de tegemoetkomingen aan beschermde klanten maximaal 100 % van de in aanmerking komende kosten bedragen.
+
+### ART. 15.
+
+De Vlaamse regering beperkt de tegemoetkomingen in elk individueel geval dusdanig dat de cumulatie van de tegemoetkomingen, gegeven ter uitvoering van dit decreet, met de overheidssteun die op grond van andere regelgevingen wordt toegekend, de maximale tegemoetkomingspercentages, bepaald in artikel 13, niet overschrijdt.
 
 ## HOOFDSTUK III ENERGIEBELEIDSOVEREENKOMSTEN EN VERPLICHTINGEN MET BETREKKING TOT RATIONEEL ENERGIEGEBRUIK EN HET GEBRUIK VAN HERNIEUWBARE ENERGIEBRONNEN VOOR ONDERNEMINGEN, NIET-COMMERCIËLE INSTELLINGEN EN PUBLIEKRECHTELIJKE RECHTSPERSONEN
 
