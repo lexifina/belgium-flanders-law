@@ -2,16 +2,16 @@
   "codex_id": 1013182,
   "title": "Decreet van 2004-04-02 houdende de subsidiëring van kunstenorganisaties, kunstenaars, organisaties voor kunsteducatie en organisaties voor sociaal-artistieke werking, internationale initiatieven, publicaties en steunpunten (citeeropschrift: \"Kunstendecreet\")",
   "type": "Decreet",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1013182/VolledigDocument?datum=2006-06-01",
-  "source_sha256": "2e83abd4695ddddc0ac3e18e6b639fdfc7ed1908cab8493cce05c2ad7a0a9a4a",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1013182/VolledigDocument?datum=2007-02-26",
+  "source_sha256": "55709ced0df8366bb5553c349d76b9a0d7b9af39f606d303a6fde6a2866feeb3",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1013182&param=informatie",
-  "as_of": "2006-06-01",
+  "as_of": "2007-02-26",
   "made": "2004-04-02",
   "gazette": "2004-07-06",
   "numac": 2004036021,
   "document_start": null,
   "document_end": "2014-05-28",
-  "in_force": "2006-06-01",
+  "in_force": "2007-02-26",
   "article_versions": 90,
-  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2007-02-26; future article versions excluded; article text as the API gives it"
 }
