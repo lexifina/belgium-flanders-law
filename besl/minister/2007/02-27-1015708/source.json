@@ -1,0 +1,17 @@
+{
+  "codex_id": 1015708,
+  "title": "Ministerieel besluit van 2007-02-27 houdende oprichting van basis- en tussenoverlegcomités en samenstelling van de overheidsafvaardiging in het Beleidsdomein Werk en Sociale Economie",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1015708/VolledigDocument?datum=2007-02-27",
+  "source_sha256": "1adf5618c6bc38cf6709007bfa2273fa6b14930f27d771c5b660c1e479b0f9a6",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1015708&param=informatie",
+  "as_of": "2007-02-27",
+  "made": "2007-02-27",
+  "gazette": "2007-04-12",
+  "numac": 2007035540,
+  "document_start": "2007-02-27",
+  "document_end": "2024-12-31",
+  "in_force": "2007-02-27",
+  "article_versions": 6,
+  "record_form": "consolidated version as in force on 2007-02-27; oldest version available; future article versions excluded; article text as the API gives it"
+}
