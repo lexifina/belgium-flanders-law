@@ -20,11 +20,23 @@ De bepalingen van dit hoofdstuk hebben uitwerking met ingang van 1 september 200
 
 ## Afdeling I. Volwassenenonderwijs
 
+### ART. III.1.
+
+Artikel 8 van het decreet van 2 maart 1999 tot regeling van een aantal aangelegenheden van het volwassenenonderwijs wordt opgeschort van 1 maart 2007 tot en met 31 augustus 2007.<br />
+
 ### ART. III.2.
 
 In hetzelfde decreet wordt een artikel 8ter ingevoegd, dat luidt als volgt :<br />« Artikel 8ter. Centra voor Volwassenenonderwijs die tijdens het schooljaar 2005-2006 één of meer van de hierna vermelde opleidingen organiseerden, verkrijgen vanaf 1 februari 2007 ambtshalve onderwijsbevoegdheid voor het studiegebied mode :<br />1° breien BSO 3;<br />2° kleding BSO 3;<br />3° kleding-kleermaken dames BSO 3;<br />4° modes en modeartikelen BSO 3;<br />5° patroonstudie BSO 3. »<br />
 
 ## Afdeling II. Basiseducatie
+
+### ART. III.3.
+
+In artikel 9, tweede lid, van het decreet van 12 juli 1990 houdende de regeling van basiseducatie voor laaggeschoolde volwassenen worden de woorden "van maximum 18 leden" geschrapt.<br />
+
+### ART. III.4.
+
+In artikel 9 van hetzelfde decreet wordt tussen het derde en het vierde lid een nieuw lid ingevoegd, dat luidt als volgt :<br />« De leden van de algemene vergadering kunnen de algemene vergadering via coöptatie aanvullen met externen. » <br />
 
 ### ART. III.5.
 
