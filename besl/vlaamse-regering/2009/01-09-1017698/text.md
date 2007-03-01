@@ -4,6 +4,14 @@
 
 De Vlaamse Regering,<br /><br />Gelet op het decreet van 29 juni 2007 houdende bepalingen tot begeleiding van de aanpassing van de begroting 2007, artikel 32 en 33;<br /><br />Gelet op het akkoord van de Vlaamse minister, bevoegd voor de begroting, gegeven op 11 december 2008;<br /><br />Op voorstel van de Vlaamse minister van Institutionele Hervormingen, Bestuurszaken, Buitenlands Beleid, Media, Toerisme, Havens, Landbouw, Zeevisserij en Plattelandsbeleid;<br /><br />Na beraadslaging,<br /><br />Besluit :
 
+### ART. 1.
+
+De volgende personeelsleden van het Departement Landbouw en Visserij worden overgedragen aan het Agentschap voor Facilitair Management : <br />1° GRAULUS, Marina, assistent;<br />2° TIELS, Marie-Claire, assistent.
+
+### ART. 2.
+
+De volgende personeelsleden van het Agentschap voor Landbouw en Visserij worden overgedragen aan het Agentschap voor Facilitair Management : <br />1° DECLERCQ, Karina, hoofdassistent;<br />2° VERCAMMEN, Marina, assistent;<br />3° SOENS, Jean-Paul, technisch assistent.
+
 ### ART. 3.
 
 De volgende personeelsleden van het Departement Landbouw en Visserij worden overgedragen aan het Agentschap voor Landbouw en Visserij : <br />1° DUMON, Anita, ingenieur;<br />2° ROGGEMANS, Greet, deskundige;<br />3° VAN WESEMAEL, Anne, medewerker.
