@@ -1,0 +1,17 @@
+{
+  "codex_id": 1015557,
+  "title": "Besluit van de Vlaamse Regering van 2007-02-02 tot wijziging van het besluit van de Vlaamse Regering van 13 juni 2003 betreffende de toekenning van zendvergunningen aan de erkende particuliere landelijke, regionale en lokale radio-omroepen",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1015557/VolledigDocument?datum=2007-03-05",
+  "source_sha256": "e2feb11d9046d287af0cb1b2b8bad1456dbd4b8e9619f0337adf4de2460ee000",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1015557&param=informatie",
+  "as_of": "2007-03-05",
+  "made": "2007-02-02",
+  "gazette": "2007-02-23",
+  "numac": 2007035251,
+  "document_start": "2007-03-05",
+  "document_end": null,
+  "in_force": "2007-03-05",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2007-03-05; oldest version available; future article versions excluded; article text as the API gives it"
+}
