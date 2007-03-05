@@ -1,0 +1,17 @@
+{
+  "codex_id": 1021254,
+  "title": "Samenwerkingsakkoord van 2006-06-01 tussen de Federale Staat, het Vlaams Gewest, het Waals Gewest en het Brussels Hoofdstedelijk Gewest tot wijziging van het samenwerkingsakkoord van 21 juni 1999 tussen de Federale Staat, het Vlaams Gewest, het Waals Gewest en het Brussels Hoofdstedelijk Gewest betreffende de beheersing van de gevaren van zware ongevallen waarbij gevaarlijke stoffen zijn betrokken",
+  "type": "Samenwerkingsakkoord",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1021254/VolledigDocument?datum=2007-03-05",
+  "source_sha256": "d510415dc8b0ad3ea8a5c37fb8011135db8a6e62d0d2ae31685e8903ea043683",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1021254&param=informatie",
+  "as_of": "2007-03-05",
+  "made": "2006-06-01",
+  "gazette": "2007-02-23",
+  "numac": 0,
+  "document_start": "2007-03-05",
+  "document_end": null,
+  "in_force": "2007-03-05",
+  "article_versions": 29,
+  "record_form": "consolidated version as in force on 2007-03-05; oldest version available; future article versions excluded; article text as the API gives it"
+}
