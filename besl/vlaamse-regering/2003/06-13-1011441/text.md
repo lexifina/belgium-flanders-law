@@ -6,15 +6,15 @@ De zendvergunningen van de landelijke, regionale en lokale radio-omroepen die ui
 
 ### ART. 2.
 
-§ 1. De zendvergunning moet zich bestendig bevinden op het adres van de titularis.<br /><br />Voorzover dit adres niet binnen de Vlaamse Gemeenschap gesitueerd is, moet door hem een gemachtigde worden aangewezen binnen de Vlaamse Gemeenschap. De coördinaten waarop de titularis of zijn gemachtigde bereikbaar zijn, moeten aan het Vlaams Commissariaat voor de Media worden meegedeeld.<br /><br />§ 2. De zendvergunning moet worden getoond op elk verzoek van de bevoegde controleoverheden. In geval van verlies, diefstal of beschadiging van de zendvergunning moet daarvan aangifte worden gedaan bij het Vlaams Commissariaat voor de Media dat een nieuwe zendvergunning uitreikt.
+§ 1. De zendvergunning moet zich bestendig bevinden op het adres van de titularis.<br /><br />Voorzover dit adres niet binnen de Vlaamse Gemeenschap gesitueerd is, moet door hem een gemachtigde worden aangewezen binnen de Vlaamse Gemeenschap. De coördinaten waarop de titularis of zijn gemachtigde bereikbaar zijn, moeten aan het Vlaamse Regulator voor de Media worden meegedeeld.<br /><br />§ 2. De zendvergunning moet worden getoond op elk verzoek van de bevoegde controleoverheden. In geval van verlies, diefstal of beschadiging van de zendvergunning moet daarvan aangifte worden gedaan bij het Vlaamse Regulator voor de Media dat een nieuwe zendvergunning uitreikt.
 
 ### ART. 3.
 
-Elke overdracht van een zendvergunning aan een derde wordt voor goedkeuring voorgelegd aan het Vlaams Commissariaat voor de Media. Bij ontstentenis van goedkeuring is de overdracht niet tegenwerpelijk.<br /><br />In geval van afstand moet de zendvergunning zonder verwijl en per aangetekende brief aan het Vlaams Commissariaat voor de Media worden teruggezonden.
+Elke overdracht van een zendvergunning aan een derde wordt voor goedkeuring voorgelegd aan het Vlaamse Regulator voor de Media. Bij ontstentenis van goedkeuring is de overdracht niet tegenwerpelijk.<br /><br />In geval van afstand moet de zendvergunning zonder verwijl en per aangetekende brief aan het Vlaamse Regulator voor de Media worden teruggezonden.
 
 ### ART. 4.
 
-Het Vlaams Commissariaat voor de Media kan de zendvergunning intrekken of schorsen in geval van:<br /><br />1° het niet-naleven van de vergunningsvoorwaarden;<br /><br />2° het gebruik van niet of niet meer toegewezen frequenties;<br /><br />3° de overbrenging, zelfs occasioneel, van een of meerdere zendinstallaties naar een andere plaats;<br /><br />4° het geheel of gedeeltelijk niet functioneren van een of meerdere zendinstallaties gedurende drie maanden tenzij dit het gevolg is van overmacht;<br /><br />5° het niet of niet tijdig betalen van de jaarlijkse vergoeding voor de ingebruikneming van het toegewezen frequentiepakket en de toegewezen frequenties, zoals bedoeld in artikel 16quinquies en 17quinquies van het besluit van de Vlaamse regering van 14 juli 1998 houdende de vaststelling van de procedure van het Vlaams Commissariaat voor de Media en houdende de aanvullende kwalificatiecriteria om te worden erkend als landelijke en regionale radio-omroep.
+Het Vlaamse Regulator voor de Media kan de zendvergunning intrekken of schorsen in geval van:<br />1° het niet-naleven van de vergunningsvoorwaarden;<br />2° het gebruik van niet of niet meer toegewezen frequenties;<br />3° de overbrenging, zelfs occasioneel, van een of meerdere zendinstallaties naar een andere plaats;<br />4° het geheel of gedeeltelijk niet functioneren van een of meerdere zendinstallaties gedurende drie maanden tenzij dit het gevolg is van overmacht;<br />5° het niet of niet tijdig betalen van de jaarlijkse vergoeding voor de ingebruikneming van het toegewezen frequentiepakket en de toegewezen frequenties, zoals bedoeld in artikel 16quinquies en 17quinquies van het besluit van de Vlaamse regering van 14 juli 1998 houdende de vaststelling van de procedure van het Vlaamse Regulator voor de Media en houdende de aanvullende kwalificatiecriteria om te worden erkend als landelijke en regionale radio-omroep.
 
 ### ART. 5.
 
@@ -22,7 +22,7 @@ De schorsing of intrekking van de zendvergunning wordt per aangetekende brief te
 
 ### ART. 6.
 
-De rechten voor het wijzigen van de zendvergunning bedragen 200 euro. De rechten moeten op voorhand worden betaald op het rekeningnummer 435-4538151-86 van het Vlaams Commissariaat voor de Media.<br /><br />De schorsing of intrekking van een zendvergunning geeft geen aanleiding tot de terugbetaling van de betaalde rechten, van welke aard ook.
+Voor een wijziging van de zendvergunning waarbij een coördinatieprocedure via het Belgisch Instituut voor Postdiensten en Telecommunicatie moet worden opgestart, wordt een recht aangerekend ten bedrage van 200 euro. Dat recht moet vooraf worden betaald op het rekeningnummer 435-4538151-86 van de Vlaamse Regulator voor de Media.<br /><br />Voor een wijziging van de zendvergunning waarbij geen beroep moet worden gedaan op de diensten van het Belgisch Instituut voor Postdiensten en Telecommunicatie in het kader van een coördinatieprocedure, is geen betaling van rechten verschuldigd.<br /><br />De schorsing of intrekking van een zendvergunning geeft geen aanleiding tot de terugbetaling van de betaalde rechten, van welke aard ook. <br />
 
 ### ART. 7.
 
