@@ -28,7 +28,7 @@ De kerntaak van het agentschap omvat de regie van de kinderopvang en de organisa
 
 ### ART. 6.
 
-§ 1. De taak inzake de regie van de kinderopvang omvat in elk geval:<br /><br />1° de registratie van elk opvanginitiatief;<br /><br />2° het onder al zijn vormen stimuleren en toelaten van opvanginitiatieven;<br /><br />3° de bevordering van de kwaliteit van opvanginitiatieven;<br /><br />4° de programmatie op operationeel niveau, op lokaal en regionaal vlak en op het vlak van de Vlaamse Gemeenschap;<br /><br />5° de informatie aan ouders en toekomstige ouders.<br /><br />§ 2. Het agentschap beoogt inzake kinderopvang een zo goed mogelijk antwoord te bieden aan de behoeften van gezinnen, vooral in het kader van de afstemming gezin-arbeid, met bijzondere aandacht voor de gezinnen met bijzondere opvangbehoeften.
+§ 1. De taak inzake de regie van de kinderopvang omvat in elk geval:<br />1° de registratie van elk opvanginitiatief;<br />2° het onder al zijn vormen stimuleren en toelaten van opvanginitiatieven;<br />3° de bevordering van de kwaliteit van opvanginitiatieven;<br />4° de programmatie op operationeel niveau, op lokaal en regionaal vlak en op het vlak van de Vlaamse Gemeenschap;<br />5° de informatie aan ouders en toekomstige ouders.<br /><br />§ 2. Het agentschap beoogt inzake kinderopvang een zo goed mogelijk antwoord te bieden aan de behoeften van gezinnen, vooral in het kader van de afstemming gezin-arbeid, met bijzondere aandacht voor de gezinnen met bijzondere opvangbehoeften.<br /><br />§ 3. Het agentschap oefent zijn taak betreffende de regie van de kinderopvang uit in samenspraak met de lokale besturen, die een lokaal beleid kinderopvang uitwerken in overeenstemming met de regels die de Vlaamse Regering bepaalt.
 
 ### ART. 7.
 
@@ -152,7 +152,7 @@ Het opheffen van het artikel 30 van het decreet van 22 november 1995 houdende be
 
 ### ART. 28.
 
-Voor de huidige titularis van de rang A2L van de rechtsvoorganger van het agentschap wordt een functie van adjunct - genoemd algemeen directeur - voorzien, tot hij aangesteld wordt in een andere functie of het agentschap of zijn rechtsvoorganger verlaat.
+...
 
 ### ART. 29.
 
