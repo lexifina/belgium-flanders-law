@@ -1,0 +1,17 @@
+{
+  "codex_id": 1015570,
+  "title": "Decreet van 2006-12-22 houdende instemming met de overeenkomst inzake politieke dialoog en samenwerking tussen de Europese Gemeenschap en haar lidstaten, enerzijds, en de republieken Costa Rica, El Salvador, Guatemala, Honduras, Nicaragua en Panama, anderzijds, ondertekend in Rome op 15 december 2003",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1015570/VolledigDocument?datum=2007-03-09",
+  "source_sha256": "4932595c245820d43ef8c0a1913bec5dd03a4d5351823121276939133edc1f63",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1015570&param=informatie",
+  "as_of": "2007-03-09",
+  "made": "2006-12-22",
+  "gazette": "2007-02-27",
+  "numac": 2007035272,
+  "document_start": "2007-03-09",
+  "document_end": null,
+  "in_force": "2007-03-09",
+  "article_versions": 2,
+  "record_form": "consolidated version as in force on 2007-03-09; oldest version available; future article versions excluded; article text as the API gives it"
+}
