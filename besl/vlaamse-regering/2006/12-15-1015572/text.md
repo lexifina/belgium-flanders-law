@@ -1,0 +1,97 @@
+# Besluit van de Vlaamse Regering van 2006-12-15 houdende een gedeeltelijke verdeling van het provisioneel krediet ingeschreven onder programma 24.60, basisallocatie 00.24, van de algemene uitgavenbegroting van de Vlaamse Gemeenschap voor het begrotingsjaar 2006
+
+### Aanhef
+
+De Vlaamse Regering,<br /><br />Gelet op het decreet van 23 december 2005 houdende de aanpassing van de algemene uitgavenbegroting van de Vlaamse Gemeenschap voor het begrotingsjaar 2006, inzonderheid op artikel 65<br /><br />Gelet op het akkoord van de Vlaamse minister, bevoegd voor de Fnanciën en de Begroting, gegeven op 14 december 2006;<br /><br />Op voorstel van de Vlaamse minister van Werk, Onderwijs en Vorming;<br /><br />Na beraadslaging,<br /><br />Besluit : <br /><br />
+
+### ART. 1.
+
+<p>De kredieten ingeschreven onder basisallocatie 0024 van het programma 24.60 van de algemene uitgavenbegroting van de Vlaamse Gemeenschap voor het begrotingsjaar 2006, worden gedeeltelijk verdeeld conform onderstaande tabel :<br>
+(in duizend euro)<br>
+<br>
+</p>
+
+<table border="1" cellpadding="0" cellspacing="0" style="border-collapse:collapse">
+	<tbody>
+		<tr>
+			<td colspan="4" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:204.6pt">
+			<p>Verdeling van</p>
+			</td>
+			<td colspan="5" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:256pt">
+			<p>Verdeling naar</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:51.15pt">
+			<p>OA</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:51.15pt">
+			<p>PR</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:51.15pt">
+			<p>BA</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:51.15pt">
+			<p>Bedrag NGK</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:51.2pt">
+			<p>OA</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:51.2pt">
+			<p>PR</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:51.2pt">
+			<p>BA</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:51.2pt">
+			<p>KS*</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:51.2pt">
+			<p>Bedrag</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:51.15pt">
+			<p>24</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:51.15pt">
+			<p>60</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:51.15pt">
+			<p>0024</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:51.15pt">
+			<p>905</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:51.2pt">
+			<p>32</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:51.2pt">
+			<p>10</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:51.2pt">
+			<p>1214</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:51.2pt">
+			<p>NGK*</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:51.2pt">
+			<p>905</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+<p>&nbsp;</p>
+
+<p>* KS = kredietsoort<br>
+**NGK = niet-gesplitst krediet<br>
+&nbsp;</p>
+
+### ART. 2.
+
+Een afschrift van dit besluit wordt ter kennisgeving verstuurd naar het Rekenhof en het Vlaams Parlement.<br /><br />
+
+### ART. 3.
+
+De Vlaamse minister, bevoegd voor Financiën en Begroting, is belast met de uitvoering van dit besluit.<br /><br />
