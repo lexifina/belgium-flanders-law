@@ -1,0 +1,17 @@
+{
+  "codex_id": 1015695,
+  "title": "Besluit van de Vlaamse Regering van 2007-03-09 tot wijziging van het besluit van de Vlaamse Regering van 7 oktober 2005 tot toekenning van steun voor projecten ter stimulering van het ondernemerschap",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1015695/VolledigDocument?datum=2007-03-09",
+  "source_sha256": "592336e98ec8f0412ab050e7ef7d9ec923396cceb7c3bc21f744725b6e2ed1ff",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1015695&param=informatie",
+  "as_of": "2007-03-09",
+  "made": "2007-03-09",
+  "gazette": "2007-04-06",
+  "numac": 200735499,
+  "document_start": "2007-03-09",
+  "document_end": null,
+  "in_force": "2007-03-09",
+  "article_versions": 5,
+  "record_form": "consolidated version as in force on 2007-03-09; oldest version available; future article versions excluded; article text as the API gives it"
+}
