@@ -1,0 +1,17 @@
+{
+  "codex_id": 1015580,
+  "title": "Besluit van de Vlaamse Regering van 2006-11-10 houdende tweede overschrijving van kredieten tussen basisallocaties in uitvoering van artikel 166 van het decreet van 23 december 2005 houdende de algemene uitgavenbegroting van de Vlaamse Gemeenschap voor het begrotingsjaar 2006 ingevolge de inwerkingtreding van het beleidsdomein WSE",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1015580/VolledigDocument?datum=2007-03-10",
+  "source_sha256": "171f052e97483f19389b5f6e4702dc397f935fc267ad432837055d4d1fefde61",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1015580&param=informatie",
+  "as_of": "2007-03-10",
+  "made": "2006-11-10",
+  "gazette": "2007-02-28",
+  "numac": 2007035282,
+  "document_start": "2007-03-10",
+  "document_end": null,
+  "in_force": "2007-03-10",
+  "article_versions": 6,
+  "record_form": "consolidated version as in force on 2007-03-10; oldest version available; future article versions excluded; article text as the API gives it"
+}
