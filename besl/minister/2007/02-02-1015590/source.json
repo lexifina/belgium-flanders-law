@@ -1,0 +1,17 @@
+{
+  "codex_id": 1015590,
+  "title": "Ministerieel besluit van 2007-02-02 van de Vlaamse minister van Openbare Werken, Energie, Leefmilieu en Natuur houdende vaststelling van het subsidiëringsprogramma voor gemeentelijke rioleringen en KWZI's voor het derde en vierde kwartaalprogramma 2007",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1015590/VolledigDocument?datum=2007-03-11",
+  "source_sha256": "8185be74bff8c69ce1980b0b9d0d3ca21a40c29a9f10c077b5aeb5889b27d003",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1015590&param=informatie",
+  "as_of": "2007-03-11",
+  "made": "2007-02-02",
+  "gazette": "2007-03-01",
+  "numac": 2007035326,
+  "document_start": "2007-03-11",
+  "document_end": null,
+  "in_force": "2007-03-11",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2007-03-11; oldest version available; future article versions excluded; article text as the API gives it"
+}
