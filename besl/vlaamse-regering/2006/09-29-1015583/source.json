@@ -1,0 +1,17 @@
+{
+  "codex_id": 1015583,
+  "title": "Besluit van de Vlaamse Regering van 2006-09-29 tot oprichting van het secretariaat van de MORA en tot inwerkingtreding van het decreet van 7 juli 2006 houdende de oprichting van de Mobiliteitsraad van Vlaanderen",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1015583/VolledigDocument?datum=2007-03-11",
+  "source_sha256": "45b6a9a4e646e323cb1ccd694640d2d771511b7a23b1c00c01d88960709423c9",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1015583&param=informatie",
+  "as_of": "2007-03-11",
+  "made": "2006-09-29",
+  "gazette": "2007-03-01",
+  "numac": 2007035313,
+  "document_start": "2007-03-11",
+  "document_end": "2019-04-13",
+  "in_force": "2007-03-11",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2007-03-11; oldest version available; future article versions excluded; article text as the API gives it"
+}
