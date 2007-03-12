@@ -2,16 +2,16 @@
   "codex_id": 1004557,
   "title": "Besluit van de Vlaamse Regering van 1996-03-05 houdende vaststelling van het Vlaams reglement betreffende de bodemsanering",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1004557/VolledigDocument?datum=2006-06-01",
-  "source_sha256": "d65b64c2e148380d5625c62feb4fb91ee8de427c0ab0caefad44f2ef9bf3321d",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1004557/VolledigDocument?datum=2007-03-12",
+  "source_sha256": "0d302ae0f3da2acfe9aae758aa2af771551cb3422de6c19f6f835aa2c356cc76",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1004557&param=informatie",
-  "as_of": "2006-06-01",
+  "as_of": "2007-03-12",
   "made": "1996-03-05",
   "gazette": "1996-03-27",
   "numac": 1996035364,
   "document_start": null,
   "document_end": "2008-05-31",
-  "in_force": "2006-06-01",
-  "article_versions": 70,
-  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "in_force": "2007-03-12",
+  "article_versions": 89,
+  "record_form": "consolidated version as in force on 2007-03-12; future article versions excluded; article text as the API gives it"
 }
