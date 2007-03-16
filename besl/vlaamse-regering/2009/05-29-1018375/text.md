@@ -8,6 +8,14 @@ In artikel V 35 van hetzelfde besluit, gewijzigd bij het besluit van de Vlaamse 
 
 Artikel VI 120 van hetzelfde besluit, ingevoegd bij het besluit van de Vlaamse Regering van 16 maart 2007, wordt vervangen door wat volgt :<br />« Art. VI 120. § 1. De lijnmanager van het Departement Bestuurszaken kan de duur van de reserves van loopbaanexamens verlengen als de geldigheidsduur nog niet verstreken is op 1 januari 2009.<br /><br />§ 2. De laureaten putten uit het feit dat ze geslaagd zijn, gelijke aanspraken voor bevordering bij een entiteit, raad of instelling, ongeacht de dienst of instelling waarvoor het examen oorspronkelijk georganiseerd werd. »<br /><br />
 
+### ART. 100.
+
+Aan artikel VII 8 van hetzelfde besluit wordt een vierde lid toegevoegd, dat luidt als volgt :<br />« Het contractuele personeelslid behoudt het recht op bezoldiging voor de feestdagen die vallen in een periode van 30 dagen die volgt op de aanvang van de schorsing van de uitvoering van de arbeidsovereenkomst die het gevolg is van een :<br />a) een ziekte of ongeval;<br />b) een arbeidsongeval of een beroepsziekte die een algehele arbeidsongeschiktheid meebrengt;<br />c) een periode van moederschapsrust. »<br /><br />
+
+### ART. 110.
+
+In artikel VII 54 van hetzelfde besluit, ingevoegd bij het besluit van de Vlaamse Regering van 16 maart 2007, worden tussen het woord « preventieadviseur » en het woord « ontvangt » de woorden « van rang A1 of lager » ingevoegd.<br /><br />
+
 ### ART. 130.
 
 In deel VII, titel 5, van hetzelfde besluit, ingevoegd bij het besluit van de Vlaamse Regering van 16 maart 2007 en gewijzigd bij het besluit van de Vlaamse Regering van 23 mei 2008, wordt een artikel VII 145 toegevoegd, dat luidt als volgt :<br />« art. VII 145bis. De ambtenaar die op of na 1 januari 2002 werd bevorderd van niveau E naar een betrekking in niveau D, heeft steeds een bezoldiging die ten minste 620 euro hoger is dan het salaris in de salarisschaal die hij genoot onmiddellijk voorafgaand aan deze inschaling.<br /><br />Onder « bezoldiging » wordt in het eerste lid begrepen : het salaris in de betrekking met een salarisschaal van niveau D en de bevorderingspremie samen. De bevorderingspremie bedraagt maximaal 620 euro (100 %).<br /><br />
