@@ -1,0 +1,17 @@
+{
+  "codex_id": 1015607,
+  "title": "Decreet van 2006-12-22 houdende instemming met de overeenkomst voor samenwerking tussen de Europese Gemeenschap en haar lidstaten, enerzijds, en de Zwitserse Bondsstaat, anderzijds, ter bestrijding van fraude en andere illegale activiteiten die hun financiële belangen schaden, en de slotakte, ondertekend in Luxemburg op 26 oktober 2004",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1015607/VolledigDocument?datum=2007-03-16",
+  "source_sha256": "825c14514289b4ef1473b3fa51c036cee5646eb5a92ba986ab1451587eb6fa51",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1015607&param=informatie",
+  "as_of": "2007-03-16",
+  "made": "2006-12-22",
+  "gazette": "2007-03-06",
+  "numac": 2007035303,
+  "document_start": "2007-03-16",
+  "document_end": null,
+  "in_force": "2007-03-16",
+  "article_versions": 2,
+  "record_form": "consolidated version as in force on 2007-03-16; oldest version available; future article versions excluded; article text as the API gives it"
+}
