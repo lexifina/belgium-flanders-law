@@ -1,0 +1,17 @@
+{
+  "codex_id": 1015609,
+  "title": "Besluit van de Vlaamse Regering van 2006-12-22 tot wijziging van het besluit van de Vlaamse Regering van 1 juni 1995 houdende algemene en sectorale bepalingen inzake milieuhygiëne",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1015609/VolledigDocument?datum=2007-03-16",
+  "source_sha256": "c21310b068099fca7be9ccb216e3882ee836bda4cc983e70504ffe36eb654382",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1015609&param=informatie",
+  "as_of": "2007-03-16",
+  "made": "2006-12-22",
+  "gazette": "2007-03-06",
+  "numac": 2007035322,
+  "document_start": "2007-03-16",
+  "document_end": null,
+  "in_force": "2007-03-16",
+  "article_versions": 8,
+  "record_form": "consolidated version as in force on 2007-03-16; oldest version available; future article versions excluded; article text as the API gives it"
+}
