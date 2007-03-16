@@ -459,6 +459,10 @@ In artikel VII 63 van hetzelfde besluit, ingevoegd bij het besluit van de Vlaams
 
 In artikel VII 118, § 1, van hetzelfde besluit, ingevoegd bij het besluit van de Vlaamse Regering van 16 maart 2007, wordt het getal « 2.874,03 » vervangen door het getal « 3.056,03 ».
 
+### ART. 91.
+
+In artikel VII 124, § 3, van hetzelfde besluit, ingevoegd bij het besluit van de Vlaamse Regering van 16 maart 2007 worden de woorden « 16 tot en met 21, 27, 40, 43 en 45 » vervangen door de woorden « 15 tot en met 19, 25, 37, 40 en 42 ».
+
 ### ART. 93.
 
 Artikel VII 151 van hetzelfde besluit, ingevoegd bij het besluit van de Vlaamse Regering van 16 maart 2007, wordt als volgt gewijzigd :<br /><br />1° wordt opgeheven;<br /><br />2° wordt terug ingevoegd als volgt :<br /><br />Ambtenaren van rang A1 die op de datum van de inwerkingtreding van dit besluit de diensthoofdentoelage bedoeld in artikel XIII 25 en XIII 26 van het besluit van de Vlaamse Regering van 13 januari 2006 houdende vaststelling van de rechtspositie van het personeel van de diensten van de Vlaamse overheid zoals gewijzigd bij besluit van 16 maart 2007 genieten, behouden in de volgende gevallen deze toelage :<br />1° De huidige titularissen van de A1-diensthoofdentoelage die bevorderd worden tot een functie van N-2 en wiens salaris in N-2 lager is dan het A1-salaris verhoogd met 10% totdat hun salaris in rang A2 hoger wordt dan de som van hun salaris in rang A1 verhoogd met de diensthoofdentoelage;<br />2° De huidige titularissen van de A1-diensthoofdentoelage die niet bevorderd worden in een functie van N-2, maar die de functie blijven uitoefenen en niet gevat worden door toepassing van vermelde overgangsregel, behouden ten persoonlijken titel de A1-diensthoofdentoelage.
