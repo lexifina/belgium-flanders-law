@@ -1,0 +1,17 @@
+{
+  "codex_id": 1015610,
+  "title": "Besluit van de Vlaamse Regering van 2007-02-02 houdende wijziging van het besluit van de Vlaamse Regering van 23 juli 1998 tot vaststelling van nadere regels ter uitvoering van het decreet van 21 oktober 1997 betreffende het natuurbehoud en het natuurlijk milieu, wat betreft de natuurinrichtingsprojecten",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1015610/VolledigDocument?datum=2007-03-18",
+  "source_sha256": "3d5e8a55628372dac4dcbec9e0071d469e7760d090e0c4f37575d8fffd5bafca",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1015610&param=informatie",
+  "as_of": "2007-03-18",
+  "made": "2007-02-02",
+  "gazette": "2007-03-08",
+  "numac": 2007035337,
+  "document_start": "2007-03-18",
+  "document_end": null,
+  "in_force": "2007-03-18",
+  "article_versions": 32,
+  "record_form": "consolidated version as in force on 2007-03-18; oldest version available; future article versions excluded; article text as the API gives it"
+}
