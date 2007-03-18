@@ -1,0 +1,17 @@
+{
+  "codex_id": 1015612,
+  "title": "Besluit van de Vlaamse Regering van 2007-02-02 tot erkenning van de master-na-masteropleiding \"European Master in Human Rights and Democratisation\" als nieuwe opleiding van de Katholieke Universiteit Leuven",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1015612/VolledigDocument?datum=2007-03-18",
+  "source_sha256": "0058c91469cd711236e7e8aad7fc8c8fa7a5e3bc4e9ff4411803f784370f51cb",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1015612&param=informatie",
+  "as_of": "2007-03-18",
+  "made": "2007-02-02",
+  "gazette": "2007-03-08",
+  "numac": 2007035340,
+  "document_start": "2007-03-18",
+  "document_end": null,
+  "in_force": "2007-03-18",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2007-03-18; oldest version available; future article versions excluded; article text as the API gives it"
+}
