@@ -1,0 +1,17 @@
+{
+  "codex_id": 1015614,
+  "title": "Ministerieel besluit van 2007-02-13 tot wijziging van het ministerieel besluit van 21 maart 2005 betreffende de organisatie van de fokkerij van kleine herkauwers",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1015614/VolledigDocument?datum=2007-03-18",
+  "source_sha256": "87035761ceae169d4c9f99a43f2cd92f1a8abc987b731d0a757d5bb1c9c25154",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1015614&param=informatie",
+  "as_of": "2007-03-18",
+  "made": "2007-02-13",
+  "gazette": "2007-03-08",
+  "numac": 2007035341,
+  "document_start": "2007-03-18",
+  "document_end": null,
+  "in_force": "2007-03-18",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2007-03-18; oldest version available; future article versions excluded; article text as the API gives it"
+}
