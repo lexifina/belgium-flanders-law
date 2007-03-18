@@ -14,7 +14,7 @@ Ter uitvoering van artikel 2 van het koninklijk besluit wordt de vzw Steunpunt L
 
 ### ART. 4.
 
-Onverminderd de bepalingen, vermeld in artikel 3, wordt de SLE belast met het bijhouden van de stamboeken van de volgende schapenrassen:<br /><br />1° Ardense Voskop;<br /><br />2° Houtlandschaap;<br /><br />3° Entre-Sambre-Et-Meuse;<br /><br />4° Kempens Schaap;<br /><br />5° Lakens Schaap;<br /><br />6° Mergellandschaap;<br /><br />7° Vlaams Kuddeschaap;<br /><br />8° Vlaams Schaap.
+§ 1. Onverminderd de bepalingen, vermeld in artikel 3, wordt de SLE belast met het bijhouden van de stamboeken van de volgende schapenrassen:<br />1° Ardense Voskop;<br />2° Houtlandschaap;<br />3° Entre-Sambre-Et-Meuse;<br />4° Kempens Schaap;<br />5° Lakens Schaap;<br />6° Mergellandschaap;<br />7° Vlaams Kuddeschaap;<br />8° Vlaams Schaap;<br />9° Ouessant.<br /><br />§ 2. Met behoud van de toepassing van de bepalingen, vermeld in artikel 3, wordt de SLE belast met het bijhouden van de stamboeken van de volgende geitenrassen :<br />1° Kempense geit;<br />2° Vlaamse geit.
 
 ### ART. 5.
 
@@ -34,4 +34,4 @@ Dit besluit treedt in werking op 1 januari 2005.
 
 ### Bijlage
 
-Erkende rassen van schapen en geiten, bedoeld in artikel 5.<br /><br />De onderstaande rassen van schapen en geiten zijn erkend:<br /><br />1° voor schapen:<br /><br />a) Texel;<br /><br />b) Suffolk;<br /><br />c) Hampshire;<br /><br />d) Ile-de-France;<br /><br />e) Bleu du Maine;<br /><br />f) Belgisch Melkschaap;<br /><br />g) Zwartbles;<br /><br />h) Swifter;<br /><br />i) Blauwe Texelaar;<br /><br />j) Rouge de l'Ouest;<br /><br />2° voor geiten:<br /><br />a) Witte geit;<br /><br />b) Hertkleurige geit;<br /><br />c) Toggenburger geit;<br /><br />d) Anglo-Nubische geit;<br /><br />e) Bonte geit.
+Erkende rassen van schapen en geiten, bedoeld in artikel 5.<br /><br />De onderstaande rassen van schapen en geiten zijn erkend:<br /><br />1° voor schapen:<br />a) Texel;<br />b) Suffolk;<br />c) Hampshire Down;<br />d) Ile-de-France;<br />e) Bleu du Maine;<br />f) Belgisch Melkschaap;<br />g) Zwartbles;<br />h) Swifter;<br />i) Blauwe Texelaar;<br />j) Rouge de l'Ouest;<br />k) Wiltshire Horn;<br />2° voor geiten:<br />a) Witte geit;<br />b) Hertkleurige geit;<br />c) Toggenburger geit;<br />d) Anglo-Nubische geit;<br />e) Bonte geit.
