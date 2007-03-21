@@ -1,0 +1,17 @@
+{
+  "codex_id": 1015682,
+  "title": "Ministerieel besluit van 2007-03-20 tot uitvoering van artikel 10 van het besluit van de Vlaamse Regering van 7 oktober 2005 tot toekenning van steun voor projecten ter stimulering van het ondernemerschap, met als beleidsaccent allochtoon ondernemerschap",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1015682/VolledigDocument?datum=2007-03-21",
+  "source_sha256": "a27f82fb524e5b8730b7579eeb068dfb3c82b44b2777672314ec092be0466cc7",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1015682&param=informatie",
+  "as_of": "2007-03-21",
+  "made": "2007-03-20",
+  "gazette": "2007-04-03",
+  "numac": 2007035469,
+  "document_start": "2007-03-21",
+  "document_end": null,
+  "in_force": "2007-03-21",
+  "article_versions": 13,
+  "record_form": "consolidated version as in force on 2007-03-21; oldest version available; future article versions excluded; article text as the API gives it"
+}
