@@ -2,16 +2,16 @@
   "codex_id": 1015767,
   "title": "Ministerieel besluit van 2007-04-23 tot bepaling van de minimale kwaliteitsnorm en van het diploma of het getuigschrift opdat een minicrèche of zelfstandig kinderdagverblijf in aanmerking kan komen voor de financiële ondersteuning",
   "type": "Ministerieel besluit",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1015767/VolledigDocument?datum=2006-01-01",
-  "source_sha256": "f2f307f3882d1a9bf4c30436de07a645e80d57100378e143cbbe2d2aa090586f",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1015767/VolledigDocument?datum=2007-03-23",
+  "source_sha256": "3391a1acaf80f8da8e49f4c0e4a5e6b8998f040428db193c0f4f0e4e27d75aa1",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1015767&param=informatie",
-  "as_of": "2006-01-01",
+  "as_of": "2007-03-23",
   "made": "2007-04-23",
   "gazette": "2007-05-16",
   "numac": 2007035668,
   "document_start": "2006-01-01",
   "document_end": "2007-03-22",
-  "in_force": "2006-01-01",
+  "in_force": "2007-03-23",
   "article_versions": 6,
-  "record_form": "consolidated version as in force on 2006-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2007-03-23; future article versions excluded; article text as the API gives it"
 }

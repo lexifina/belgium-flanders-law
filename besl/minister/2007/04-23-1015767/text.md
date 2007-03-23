@@ -6,20 +6,20 @@ De Vlaamse minister van Welzijn, Volksgezondheid en Gezin,<br /><br />Gelet op h
 
 ### ART. 1.
 
-In dit besluit wordt verstaan onder :<br />1° Kind en Gezin : het intern verzelfstandigd agentschap met rechtspersoonlijkheid Kind en Gezin, opgericht bij het decreet van 30 april 2004;<br />2° voorziening : zelfstandig kinderdagverblijf of minicrèche als vermeld in artikel 1, 7° en 8°, van het besluit van de Vlaamse Regering van 24 juni 1997 houdende regeling van de melding aan de instelling Kind en Gezin van de opvang op bestendige wijze van kinderen;<br />3° KWAPOI : instrument waarmee de personeelsleden van het intern verzelfstandigd agentschap zonder rechtspersoonlijkheid Inspectie Welzijn, enVolksgezondheid de pedagogische aanpak van de voorziening evalueren, opgesteld door Kind en Gezin;<br />4° Z-KWAPOI : zelfevaluatie-instrument voor de pedagogische aanpak van de voorziening, opgesteld door Kind en Gezin;<br />5° ZiKo : zelfevaluatie-instrument voor het meten van het welbevinden en de betrokkenheid van de kinderen in de opvang, opgesteld door Kind en Gezin.<br /><br />
+...
 
 ### ART. 2.
 
-Een voorziening kan in aanmerking komen voor de financiële ondersteuning bedoeld in het besluit van de Vlaamse Regering van 30 maart 2007 houdende de voorwaarden inzake financiële ondersteuning van zelfstandige opvangvoorzieningen, indien de voorziening voldoet aan de voorwaarden van dit besluit.<br /><br />
+...
 
 ### ART. 3.
 
-De voorziening beantwoordt aan een minimale kwaliteitsnorm in de dienstverlening door te voldoen aan de hiernavolgende voorwaarden :<br />1° ze behaalt een score 4 op het KWAPOI;<br />2° ze evalueert zichzelf jaarlijks met het Z-KWAPOI of het Ziko;<br />3° ze toont aan dat haar werking bijgestuurd en verbeterd wordt op basis van de bevindingen van het Z-KWAPOI of het Ziko.<br /><br />
+...
 
 ### ART. 4.
 
-De verantwoordelijken van de voorziening beschikken ofwel over een attest van de cursus « Verantwoordelijke in de kinderopvang » tot 2004 beheerder particuliere opvanginstelling genoemd die georganiseerd wordt door het Vlaams Instituut voor Zelfstandige Ondernemers in SYNTRA Centra, op voorwaarde dat de cursus « begeleider buitenschoolse opvang » mee geïntegreerd is, ofwel over een diploma of certificaat van een van de hierna vermelde Nederlandstalige opleidingen :<br />1° uit het beroepssecundair onderwijs : het derde jaar van de derde graad « kinderzorg »; de opleiding 'kinderzorg' van het volwassenenonderwijs; de opleiding « kinderzorg/begeleider in de kinderopvang » van het volwassenenonderwijs; het derde jaar van de derde graad van een 'naamloos leerjaar' als bij dat diploma door de bevoegde verificateur van Onderwijs voor waar en echt verklaard, een attest is gevoegd waarop vermeld is dat het leerplan kinderzorg volledig gevolgd is; de opleiding « begeleider in de kinderopvang » van het experimentele modulaire beroepssecundair onderwijs; het derde jaar van de vierde graad « ziekenhuisverpleegkunde » of « psychiatrische verpleegkunde »;<br />2° uit het technisch secundair onderwijs : het tweede jaar van de derde graad « sociaal technische wetenschappen »; het tweede jaar van de derde graad 'jeugd- en gehandicaptenzorg'; het tweede jaar van de derde graad « gezondheids- en welzijnswetenschappen »; het derde jaar van de derde graad « internaatswerking » of « leefgroepenwerking »; de opleiding « jeugd- en gehandicaptenzorg » van het volwassenenonderwijs;<br />3° uit het hoger of universitair onderwijs : hoger onderwijs van één of meer cycli; hoger onderwijs van sociale promotie van het korte type; universitair onderwijs van een of meer cycli; bacheloropleiding; masteropleiding.<br /><br />
+...
 
 ### ART. 5.
 
-Dit besluit heeft uitwerking met ingang van 1 januari 2006, met uitzondering van artikel 4, dat in werking treedt op 1 september 2008.<br /><br />
+...
