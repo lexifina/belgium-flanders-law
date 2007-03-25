@@ -1,0 +1,17 @@
+{
+  "codex_id": 1015628,
+  "title": "Ministerieel besluit van 2007-03-01 houdende vaststelling van het gedeelte van de leningen of kredieten dat het Vlaams Woningfonds van de Grote Gezinnen in 2007 en 2008 bij voorrang moet besteden aan de krotbestrijding of aan de sanering, verbetering of aanpassing van woningen",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1015628/VolledigDocument?datum=2007-03-25",
+  "source_sha256": "ebd4d6dbeb3be87c58b04a7b99647d6ca189669e88ac702d1bb9cbb6838ecd04",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1015628&param=informatie",
+  "as_of": "2007-03-25",
+  "made": "2007-03-01",
+  "gazette": "2007-03-15",
+  "numac": 2007035369,
+  "document_start": "2007-03-25",
+  "document_end": null,
+  "in_force": "2007-03-25",
+  "article_versions": 2,
+  "record_form": "consolidated version as in force on 2007-03-25; oldest version available; future article versions excluded; article text as the API gives it"
+}
