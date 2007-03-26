@@ -2,16 +2,16 @@
   "codex_id": 1000684,
   "title": "Besluit van de Vlaamse Regering van 1992-12-18 houdende instelling van een aanpassingspremie en een verbeteringspremie voor woningen",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1000684/VolledigDocument?datum=2006-07-01",
-  "source_sha256": "b3505000ecb8d3b6752f6f09cdc7dbe5e1e45e1b71006672036f122b2ddeb5f3",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1000684/VolledigDocument?datum=2007-03-26",
+  "source_sha256": "a3a5ff9e9d7e6d32b758425275f7540ec5b5ad9eef505282c315011d3226e163",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1000684&param=informatie",
-  "as_of": "2006-07-01",
+  "as_of": "2007-03-26",
   "made": "1992-12-18",
   "gazette": "1993-03-31",
   "numac": 1993035347,
   "document_start": null,
   "document_end": "2019-05-31",
-  "in_force": "2006-07-01",
+  "in_force": "2007-03-26",
   "article_versions": 16,
-  "record_form": "consolidated version as in force on 2006-07-01; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2007-03-26; future article versions excluded; article text as the API gives it"
 }
