@@ -2,16 +2,16 @@
   "codex_id": 1011955,
   "title": "Ministerieel besluit van 2003-12-04 bij het besluit van de Vlaamse regering van 18 december 1992 houdende instelling van een aanpassingspremie en een verbeteringspremie voor woningen",
   "type": "Ministerieel besluit",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1011955/VolledigDocument?datum=2006-06-01",
-  "source_sha256": "43cb3f6398fa4cbe995e6f04725a2efff8915fbce6df235fc2562e9dcfb43a01",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1011955/VolledigDocument?datum=2007-03-26",
+  "source_sha256": "854b87d8587909108266bb5e9ceb903ce3930f53ccee645d46eb6fff46cb736c",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1011955&param=informatie",
-  "as_of": "2006-06-01",
+  "as_of": "2007-03-26",
   "made": "2003-12-04",
   "gazette": "2003-12-31",
   "numac": 2003036189,
   "document_start": "2003-12-31",
   "document_end": "2007-03-25",
-  "in_force": "2006-06-01",
+  "in_force": "2007-03-26",
   "article_versions": 10,
-  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2007-03-26; future article versions excluded; article text as the API gives it"
 }
