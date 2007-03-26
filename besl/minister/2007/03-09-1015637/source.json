@@ -1,0 +1,17 @@
+{
+  "codex_id": 1015637,
+  "title": "Ministerieel besluit van 2007-03-09 tot uitvoering van het besluit van de Vlaamse Regering van 2 maart 2007 tot instelling van een tegemoetkoming in de kosten bij de renovatie van een woning",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1015637/VolledigDocument?datum=2007-03-26",
+  "source_sha256": "702372aed719b8516ed435894f2a518cf055ea78cd200428155bf60decfaac06",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1015637&param=informatie",
+  "as_of": "2007-03-26",
+  "made": "2007-03-09",
+  "gazette": "2007-03-21",
+  "numac": 2007035396,
+  "document_start": "2007-03-26",
+  "document_end": "2014-07-20",
+  "in_force": "2007-03-26",
+  "article_versions": 11,
+  "record_form": "consolidated version as in force on 2007-03-26; oldest version available; future article versions excluded; article text as the API gives it"
+}
