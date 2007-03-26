@@ -1,0 +1,17 @@
+{
+  "codex_id": 1016218,
+  "title": "Ministerieel besluit van 2007-09-27 tot uitvoering van het besluit van de Vlaamse Regering van 18 december 1992 houdende instelling van een aanpassingspremie en een verbeteringspremie voor woningen",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1016218/VolledigDocument?datum=2007-03-26",
+  "source_sha256": "d36680ede68d92e9f599b30393f846cbafd3727ee244d3aa7f3b88ac2d64bbc2",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1016218&param=informatie",
+  "as_of": "2007-03-26",
+  "made": "2007-09-27",
+  "gazette": "2007-10-08",
+  "numac": 2007036698,
+  "document_start": "2007-03-26",
+  "document_end": "2019-05-31",
+  "in_force": "2007-03-26",
+  "article_versions": 12,
+  "record_form": "consolidated version as in force on 2007-03-26; oldest version available; future article versions excluded; article text as the API gives it"
+}
