@@ -1,0 +1,17 @@
+{
+  "codex_id": 1015655,
+  "title": "Ministerieel besluit van 2007-03-05 tot bepaling van de standaard voor de titel van koelmonteur",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1015655/VolledigDocument?datum=2007-03-26",
+  "source_sha256": "40aca2df00e005f93212c8189f4023cdcefa82bb6617682ffa4060b2b1614c58",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1015655&param=informatie",
+  "as_of": "2007-03-26",
+  "made": "2007-03-05",
+  "gazette": "2007-03-26",
+  "numac": 2007035414,
+  "document_start": "2007-03-26",
+  "document_end": "2018-12-31",
+  "in_force": "2007-03-26",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2007-03-26; oldest version available; future article versions excluded; article text as the API gives it"
+}
