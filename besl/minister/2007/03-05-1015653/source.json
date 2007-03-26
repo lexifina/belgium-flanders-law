@@ -1,0 +1,17 @@
+{
+  "codex_id": 1015653,
+  "title": "Ministerieel besluit van 2007-03-05 tot bepaling van de standaard voor de titel van uitsnijder-uitbener",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1015653/VolledigDocument?datum=2007-03-26",
+  "source_sha256": "446e2323af5512265116ef88bae3a4fe0c3626df4445f0245f62eeb10a3eed6a",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1015653&param=informatie",
+  "as_of": "2007-03-26",
+  "made": "2007-03-05",
+  "gazette": "2007-03-26",
+  "numac": 2007035418,
+  "document_start": "2007-03-26",
+  "document_end": "2018-12-31",
+  "in_force": "2007-03-26",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2007-03-26; oldest version available; future article versions excluded; article text as the API gives it"
+}
