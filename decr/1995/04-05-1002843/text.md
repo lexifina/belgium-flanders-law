@@ -92,7 +92,7 @@ De Vlaamse regering benoemt de voorzitter en de ondervoorzitters onder de bestuu
 
 ### ART. 19.
 
-§ 1. De aanwijzing van de intendant gebeurt na een openbare oproep gepubliceerd in het Belgisch Staatsblad. De Vlaamse regering bepaalt de toelatingsvoorwaarden voor de functie van intendant.<br /><br />§ 2. Behalve het ontslag om dringende redenen, moet de Raad van Bestuur elk voortijdig ontslag gegeven aan de intendant voor goedkeuring voorleggen aan de Vlaamse regering. De Vlaamse regering moet eveneens in kennis worden gesteld van de motieven die aan de basis lagen van het ontslag om dringende redenen.
+§ 1. ...<br /><br />§ 2. Behalve het ontslag om dringende redenen, moet de Raad van Bestuur elk voortijdig ontslag gegeven aan de intendant voor goedkeuring voorleggen aan de Vlaamse regering. De Vlaamse regering moet eveneens in kennis worden gesteld van de motieven die aan de basis lagen van het ontslag om dringende redenen.
 
 ## AFDELING 5 PERSONEEL
 
