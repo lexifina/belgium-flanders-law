@@ -1,0 +1,17 @@
+{
+  "codex_id": 1015636,
+  "title": "Besluit van de Vlaamse Regering van 2007-03-02 tot instelling van een tegemoetkoming in de kosten bij de renovatie van een [bestaande] woning [of bij het realiseren van een nieuwe woning]",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1015636/VolledigDocument?datum=2007-03-26",
+  "source_sha256": "d47721c0638d9486aff85c9dd1da4f24839eb218ca20bde5fdbdca3934d72b58",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1015636&param=informatie",
+  "as_of": "2007-03-26",
+  "made": "2007-03-02",
+  "gazette": "2007-03-21",
+  "numac": 2007035420,
+  "document_start": "2007-03-26",
+  "document_end": "2014-11-30",
+  "in_force": "2007-03-26",
+  "article_versions": 23,
+  "record_form": "consolidated version as in force on 2007-03-26; oldest version available; future article versions excluded; article text as the API gives it"
+}
