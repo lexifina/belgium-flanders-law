@@ -1,8 +1,8 @@
 # Besluit van de Vlaamse Regering van 2002-06-14 betreffende de provinciale en gemeentelijke milieuplanning en de milieuraad, ter uitvoering van de artikelen 2.1.18, 2.1.24, 2.1.16 en 2.1.22 van het decreet van 5 april 1995 houdende algemene bepalingen inzake milieubeleid
 
-### ART. 1.
+### 1.
 
-§ 1. De provincies en gemeenten zijn verplicht hun milieubeleid te voeren op basis van een milieubeleidsplan, op te stellen conform de bepalingen van Titel II, hoofdstuk I, afdelingen 3 en 4 van het decreet van 5 april 1995 houdende de algemene bepalingen inzake milieubeleid.<br /><br />§ 2. De eerste verplichte milieubeleidsplannen worden afgestemd op het gewestelijk milieubeleidsplan vanaf het moment dat het nieuwe gewestelijk milieubeleidsplan is vastgesteld.<br /><br />Het provinciaal milieubeleidsplan moet uiterlijk op 1 mei 2004 worden vastgesteld.<br /><br />Het gemeentelijk milieubeleidsplan moet uiterlijk op 1 mei 2005 worden vastgesteld.
+§ 1. De provincies en gemeenten kunnen hun milieubeleid voeren op basis van een milieubeleidsplan, op te stellen conform de bepalingen van titel II, hoofdstuk I, afdeling 3 en 4, van het decreet van 5 april 1995 houdende de algemene bepalingen inzake milieubeleid.<br /><br />§ 2. ...
 
 ### ART. 2.
 
