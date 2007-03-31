@@ -1,0 +1,17 @@
+{
+  "codex_id": 1016312,
+  "title": "Besluit van de Vlaamse Regering van 2007-10-19 betreffende de bescherming van geografische aanduidingen en oorsprongsbenamingen van landbouwproducten en levensmiddelen en de gegarandeerde traditionele specialiteiten voor landbouwproducten en levensmiddelen",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1016312/VolledigDocument?datum=2007-03-31",
+  "source_sha256": "aa7296b979bcb6a8b13fc34107d36361af009bb9b049a29707ff241a71e45cc8",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1016312&param=informatie",
+  "as_of": "2007-03-31",
+  "made": "2007-10-19",
+  "gazette": "2007-11-07",
+  "numac": 2007036909,
+  "document_start": "2007-03-31",
+  "document_end": "2099-12-31",
+  "in_force": "2007-03-31",
+  "article_versions": 11,
+  "record_form": "consolidated version as in force on 2007-03-31; oldest version available; future article versions excluded; article text as the API gives it"
+}
