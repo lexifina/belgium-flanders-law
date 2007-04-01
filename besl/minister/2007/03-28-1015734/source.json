@@ -1,0 +1,17 @@
+{
+  "codex_id": 1015734,
+  "title": "Ministerieel besluit van 2007-03-28 betreffende de samenstelling van de coördinatiecommissie bij het Vlaams Infrastructuurfonds voor Persoonsgebonden Aangelegenheden",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1015734/VolledigDocument?datum=2007-04-01",
+  "source_sha256": "c5b75466e9c244d4c3db5872e8a092f80858ce1c340af22599f5e52a68bfb0d6",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1015734&param=informatie",
+  "as_of": "2007-04-01",
+  "made": "2007-03-28",
+  "gazette": "2007-04-26",
+  "numac": 2007035581,
+  "document_start": "2007-04-01",
+  "document_end": "2024-09-20",
+  "in_force": "2007-04-01",
+  "article_versions": 7,
+  "record_form": "consolidated version as in force on 2007-04-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
