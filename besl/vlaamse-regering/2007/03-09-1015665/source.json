@@ -1,0 +1,17 @@
+{
+  "codex_id": 1015665,
+  "title": "Besluit van de Vlaamse Regering van 2007-03-09 betreffende de steunregeling voor verwerkingsbedrijven in de sector van de gedroogde voedergewassen",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1015665/VolledigDocument?datum=2007-04-01",
+  "source_sha256": "aa960c76d67da098796f46839ae24b3bbf530ef976c1b28a1361a2e02c70f341",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1015665&param=informatie",
+  "as_of": "2007-04-01",
+  "made": "2007-03-09",
+  "gazette": "2007-03-29",
+  "numac": 2007035434,
+  "document_start": "2007-04-01",
+  "document_end": null,
+  "in_force": "2007-04-01",
+  "article_versions": 10,
+  "record_form": "consolidated version as in force on 2007-04-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
