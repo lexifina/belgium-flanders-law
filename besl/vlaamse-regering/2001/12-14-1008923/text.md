@@ -270,7 +270,7 @@ Om geldig te kunnen beraadslagen moet de meerderheid van de bestuurders in funct
 
 ### ART. 21.
 
-De beraadslagingen en de beslissingen van de raad van beheer worden opgenomen in notulen en bewaard op de maatschappelijke zetel. Zij kunnen ter plaatse worden geraadpleegd. De uittreksels en afschriften van die notulen worden door de voorzitter of door twee beheerders ondertekend.
+De beraadslagingen en de beslissingen van de raad van bestuur worden opgenomen in notulen en bewaard op de maatschappelijke zetel. Zij kunnen ter plaatse worden geraadpleegd. De uittreksels en afschriften van die notulen worden door de voorzitter of door twee bestuurders ondertekend.
 
 ### ART. 22.
 
