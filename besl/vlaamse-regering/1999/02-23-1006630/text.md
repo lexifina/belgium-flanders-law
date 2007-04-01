@@ -406,7 +406,7 @@ De eindexamens voor de cursussen bedrijfsbeheer en/of beroepskennis en de ge´nt
 
 ### ART. 92.
 
-§ 1. Twee maanden voor de organisatie ervan bezorgt het centrum een werkplan voor het praktijkge-deelte van de eindexamens ter goedkeuring aan het instituut. Het instituut beslist zo snel mogelijk en uiterlijk een maand na ontvangst van het werkplan.<br /><br />§ 2. Voor de organisatie van eindexamens over cursussen waarvan de curricula van de programma's modulair zijn opgebouwd, kan de raad van bestuur een afwijking toestaan op de termijnen, bepaald in § 1.<br /><br />§ 3. Het werkplan moet vergezeld zijn van een examenprogramma dat inzonderheid de inhoud en per rubriek de puntenverdeling omvat.<br /><br />§ 4. De raad van bestuur legt het model en de samenstelling van werkplan en examenprogramma vast.
+§ 1. Twee maanden voor de organisatie ervan bezorgt het centrum een werkplan voor het praktijkge-deelte van de eindexamens ter goedkeuring aan Syntra Vlaanderen. Syntra Vlaanderen beslist zo snel mogelijk en uiterlijk een maand na ontvangst van het werkplan.<br /><br />§ 2. Voor de organisatie van eindexamens over cursussen waarvan de curricula van de programma's modulair zijn opgebouwd, kan de raad van bestuur een afwijking toestaan op de termijnen, bepaald in § 1.<br /><br />§ 3. Het werkplan moet vergezeld zijn van een examenprogramma dat inzonderheid de inhoud en per rubriek de puntenverdeling omvat.<br /><br />§ 4. De raad van bestuur legt het model en de samenstelling van werkplan en examenprogramma vast.
 
 ### ART. 93.
 
