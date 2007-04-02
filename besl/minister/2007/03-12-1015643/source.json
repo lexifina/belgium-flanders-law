@@ -1,0 +1,17 @@
+{
+  "codex_id": 1015643,
+  "title": "Ministerieel besluit van 2007-03-12 tot wijziging van de plangroep voor het natuurrichtplan voor het Vlaams Ecologisch Netwerk (VEN), de Speciale Beschermingszones (SBZ) en de groene bestemmingsgebieden van « de Demervallei tussen Diest en Aarschot »",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1015643/VolledigDocument?datum=2007-04-02",
+  "source_sha256": "086952c7fbfae79fc4476cd9461d8451c5a6c9bbb24837c1bacdf93de315c86c",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1015643&param=informatie",
+  "as_of": "2007-04-02",
+  "made": "2007-03-12",
+  "gazette": "2007-03-23",
+  "numac": 2007035424,
+  "document_start": "2007-04-02",
+  "document_end": null,
+  "in_force": "2007-04-02",
+  "article_versions": 2,
+  "record_form": "consolidated version as in force on 2007-04-02; oldest version available; future article versions excluded; article text as the API gives it"
+}
