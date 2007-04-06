@@ -2,16 +2,16 @@
   "codex_id": 1013286,
   "title": "Decreet van 2004-05-07 houdende eisen en handhavingsmaatregelen op het vlak van de energieprestaties en het binnenklimaat voor gebouwen en tot invoering van een energieprestatiecertificaat",
   "type": "Decreet",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1013286/VolledigDocument?datum=2006-06-01",
-  "source_sha256": "c088d7fd6614c688189e0af88f30b34e7e42b75c4d961b54840a1a8840f7243a",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1013286/VolledigDocument?datum=2007-04-06",
+  "source_sha256": "1d8e73497efdb5645e8b4df462ced22341fdb646da1e9c9150a1da56eefacacc",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1013286&param=informatie",
-  "as_of": "2006-06-01",
+  "as_of": "2007-04-06",
   "made": "2004-05-07",
   "gazette": "2004-07-30",
   "numac": 2004036173,
   "document_start": null,
   "document_end": "2007-04-05",
-  "in_force": "2006-06-01",
+  "in_force": "2007-04-06",
   "article_versions": 29,
-  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2007-04-06; future article versions excluded; article text as the API gives it"
 }
