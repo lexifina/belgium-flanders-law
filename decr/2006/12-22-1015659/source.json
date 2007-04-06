@@ -1,0 +1,17 @@
+{
+  "codex_id": 1015659,
+  "title": "Decreet van 2006-12-22 houdende eisen en handhavingsmaatregelen op het vlak van de energieprestaties en het binnenklimaat van gebouwen en tot invoering van een energieprestatiecertificaat en tot wijziging van artikel 22 van het REG-decreet",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1015659/VolledigDocument?datum=2007-04-06",
+  "source_sha256": "fb9d1ed659ec6a3ba137e0f010cf156bac1fdd57dfa737e275d59f1b4e767e3e",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1015659&param=informatie",
+  "as_of": "2007-04-06",
+  "made": "2006-12-22",
+  "gazette": "2007-03-27",
+  "numac": 2007035398,
+  "document_start": "2007-04-06",
+  "document_end": "2010-12-31",
+  "in_force": "2007-04-06",
+  "article_versions": 34,
+  "record_form": "consolidated version as in force on 2007-04-06; oldest version available; future article versions excluded; article text as the API gives it"
+}
