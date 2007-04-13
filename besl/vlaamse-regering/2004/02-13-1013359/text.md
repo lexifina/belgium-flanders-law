@@ -2180,7 +2180,7 @@ De Vlaamse minister, bevoegd voor het Onderwijs, is belast met de uitvoering van
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:29.75pt">
 			<p>180<br>
-			60<br>
+			120<br>
 			120</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:32.3pt">
@@ -2315,7 +2315,7 @@ De Vlaamse minister, bevoegd voor het Onderwijs, is belast met de uitvoering van
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; height:23.25pt; vertical-align:top; width:29.75pt">
 			<p>180<br>
-			60<br>
+			120<br>
 			60</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; height:23.25pt; vertical-align:top; width:32.3pt">
@@ -5114,7 +5114,7 @@ De Vlaamse minister, bevoegd voor het Onderwijs, is belast met de uitvoering van
 			</td>
 			<td style="border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:28.95pt">
 			<p>180<br>
-			60</p>
+			120</p>
 			</td>
 			<td style="border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:32.25pt">
 			<p>ABA<br>
@@ -5177,7 +5177,7 @@ De Vlaamse minister, bevoegd voor het Onderwijs, is belast met de uitvoering van
 			</td>
 			<td style="border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:28.95pt">
 			<p>180<br>
-			60</p>
+			120</p>
 			</td>
 			<td style="border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:32.25pt">
 			<p>ABA<br>
@@ -6654,7 +6654,7 @@ De Vlaamse minister, bevoegd voor het Onderwijs, is belast met de uitvoering van
 			</td>
 			<td style="border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:28.5pt">
 			<p>180<br>
-			60<br>
+			120<br>
 			60</p>
 			</td>
 			<td style="border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:28.5pt">
@@ -6699,7 +6699,7 @@ De Vlaamse minister, bevoegd voor het Onderwijs, is belast met de uitvoering van
 			</td>
 			<td style="border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:28.5pt">
 			<p>180<br>
-			60</p>
+			120</p>
 			</td>
 			<td style="border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:28.5pt">
 			<p>ABA<br>
@@ -6804,7 +6804,7 @@ De Vlaamse minister, bevoegd voor het Onderwijs, is belast met de uitvoering van
 			<p>180<br>
 			180<br>
 			120<br>
-			60</p>
+			120</p>
 			</td>
 			<td style="border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:28.5pt">
 			<p>ABA<br>
@@ -8994,7 +8994,7 @@ De Vlaamse minister, bevoegd voor het Onderwijs, is belast met de uitvoering van
 			</td>
 			<td style="border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:28.5pt">
 			<p>180<br>
-			60</p>
+			120</p>
 			</td>
 			<td style="border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:28.5pt">
 			<p>ABA<br>
@@ -9053,7 +9053,7 @@ De Vlaamse minister, bevoegd voor het Onderwijs, is belast met de uitvoering van
 			</td>
 			<td style="border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:28.5pt">
 			<p>180<br>
-			60</p>
+			120</p>
 			</td>
 			<td style="border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:28.5pt">
 			<p>ABA<br>
@@ -9074,7 +9074,7 @@ De Vlaamse minister, bevoegd voor het Onderwijs, is belast met de uitvoering van
 			</td>
 			<td style="border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:28.5pt">
 			<p>180<br>
-			60</p>
+			120</p>
 			</td>
 			<td style="border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:28.5pt">
 			<p>ABA<br>

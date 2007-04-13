@@ -2,16 +2,16 @@
   "codex_id": 1013359,
   "title": "Besluit van de Vlaamse Regering van 2004-02-13 tot vaststelling van de lijst van de bachelor- en de masteropleidingen in het hoger onderwijs in Vlaanderen",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1013359/VolledigDocument?datum=2006-09-01",
-  "source_sha256": "84c05696a65cde3d94e73991ea3bd246bfcb55eb013757416fa6c31229fd304f",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1013359/VolledigDocument?datum=2007-04-13",
+  "source_sha256": "8ecd1c3737ee0b29bf27dd9cddc73af1525f3f8cb726f463affa8e6ef6dadd37",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1013359&param=informatie",
-  "as_of": "2006-09-01",
+  "as_of": "2007-04-13",
   "made": "2004-02-13",
   "gazette": "2004-08-31",
   "numac": 2004036381,
   "document_start": "2004-09-01",
   "document_end": "2016-12-31",
-  "in_force": "2006-09-01",
+  "in_force": "2007-04-13",
   "article_versions": 37,
-  "record_form": "consolidated version as in force on 2006-09-01; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2007-04-13; future article versions excluded; article text as the API gives it"
 }
