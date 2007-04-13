@@ -386,7 +386,8 @@ In dezelfde bijlage wordt bij de Vrije Universiteit Brussel in het gecombineerde
 ### ART. 6.
 
 <p>In dezelfde bijlage worden bij de Universiteit Antwerpen de volgende wijzigingen aangebracht :<br>
-1° in het studiegebied Wetenschappen wordt bij de opleidingen</p>
+1° in het studiegebied Wetenschappen wordt bij de opleidingen<br>
+/p&gt;</p>
 
 <table border="1" cellpadding="0" cellspacing="0" style="border-collapse:collapse">
 	<tbody>
@@ -394,15 +395,15 @@ In dezelfde bijlage wordt bij de Vrije Universiteit Brussel in het gecombineerde
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top">
 			<p>Rij 1</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top">
-			<p>Master in de biochemie</p>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:178.55pt">
+			<p>Master in de biochemie en de biotechnologie</p>
 			</td>
 		</tr>
 		<tr>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top">
 			<p>Rij 2</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top">
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:178.55pt">
 			<p>Master in de biologie</p>
 			</td>
 		</tr>
@@ -410,7 +411,7 @@ In dezelfde bijlage wordt bij de Vrije Universiteit Brussel in het gecombineerde
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top">
 			<p>Rij 4</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top">
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:178.55pt">
 			<p>Master in de fysica</p>
 			</td>
 		</tr>
@@ -418,7 +419,7 @@ In dezelfde bijlage wordt bij de Vrije Universiteit Brussel in het gecombineerde
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top">
 			<p>Rij 5</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top">
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:178.55pt">
 			<p>Master in de chemie</p>
 			</td>
 		</tr>
