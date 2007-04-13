@@ -1,0 +1,17 @@
+{
+  "codex_id": 1015678,
+  "title": "Besluit van de Vlaamse Regering van 2007-03-16 tot bepaling van de datum van inwerkingtreding van artikel 45, 1°, van het decreet van 27 maart 1991 inzake medisch verantwoorde sportbeoefening",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1015678/VolledigDocument?datum=2007-04-13",
+  "source_sha256": "814730dabdb4d34e4e7f09db5ce583c505d308ae2333405b571f371c31c150b9",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1015678&param=informatie",
+  "as_of": "2007-04-13",
+  "made": "2007-03-16",
+  "gazette": "2007-04-03",
+  "numac": 2007035489,
+  "document_start": "2007-04-13",
+  "document_end": null,
+  "in_force": "2007-04-13",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2007-04-13; oldest version available; future article versions excluded; article text as the API gives it"
+}
