@@ -1,0 +1,17 @@
+{
+  "codex_id": 1015690,
+  "title": "Ministerieel besluit van 2007-02-22 betreffende de mobiliteitsconvenants",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1015690/VolledigDocument?datum=2007-04-15",
+  "source_sha256": "b2c110e34619c4236a509ea6cc323b2df3e866887a5294b3f2b4f7443978f2eb",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1015690&param=informatie",
+  "as_of": "2007-04-15",
+  "made": "2007-02-22",
+  "gazette": "2007-04-05",
+  "numac": 2007035487,
+  "document_start": "2007-04-15",
+  "document_end": null,
+  "in_force": "2007-04-15",
+  "article_versions": 24,
+  "record_form": "consolidated version as in force on 2007-04-15; oldest version available; future article versions excluded; article text as the API gives it"
+}
