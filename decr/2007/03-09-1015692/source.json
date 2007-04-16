@@ -1,0 +1,17 @@
+{
+  "codex_id": 1015692,
+  "title": "Decreet van 2007-03-09 houdende wijziging van het decreet van 8 mei 2002 houdende evenredige participatie op de arbeidsmarkt en van het decreet van 30 april 2004 houdende sociaalrechtelijk toezicht",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1015692/VolledigDocument?datum=2007-04-16",
+  "source_sha256": "6c7faaab887a8e6b78419482eba1a92e3b7fb38b02f97d074e6cb79d46eb436e",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1015692&param=informatie",
+  "as_of": "2007-04-16",
+  "made": "2007-03-09",
+  "gazette": "2007-04-06",
+  "numac": 2007035497,
+  "document_start": "2007-04-16",
+  "document_end": null,
+  "in_force": "2007-04-16",
+  "article_versions": 9,
+  "record_form": "consolidated version as in force on 2007-04-16; oldest version available; future article versions excluded; article text as the API gives it"
+}
