@@ -2,16 +2,16 @@
   "codex_id": 1009292,
   "title": "Decreet van 2002-05-08 houdende evenredige participatie op de arbeidsmarkt",
   "type": "Decreet",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1009292/VolledigDocument?datum=2006-06-01",
-  "source_sha256": "1f7a70797e1ac6813eeecc332bdb285478dbcb5a92cedcc90f4a17cb7fae1a3e",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1009292/VolledigDocument?datum=2007-04-16",
+  "source_sha256": "906bf860a930949ed63c811e1bc44418c8b368ee28efb948a7ea50b82eda2b41",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1009292&param=informatie",
-  "as_of": "2006-06-01",
+  "as_of": "2007-04-16",
   "made": "2002-05-08",
   "gazette": "2002-07-26",
   "numac": 2002035892,
   "document_start": "2002-10-01",
   "document_end": null,
-  "in_force": "2006-06-01",
+  "in_force": "2007-04-16",
   "article_versions": 23,
-  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2007-04-16; future article versions excluded; article text as the API gives it"
 }
