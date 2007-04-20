@@ -1,0 +1,17 @@
+{
+  "codex_id": 1015704,
+  "title": "Besluit van de Vlaamse Regering van 2007-03-09 tot verdeling van de trekkingsrechten uit het Stedenfonds voor het jaar 2007",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1015704/VolledigDocument?datum=2007-04-20",
+  "source_sha256": "c5b3399467d1f0aa279d7492919f7c0b676f38cca47d11e4724c5c46e98b6299",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1015704&param=informatie",
+  "as_of": "2007-04-20",
+  "made": "2007-03-09",
+  "gazette": "2007-04-10",
+  "numac": 2007035512,
+  "document_start": "2007-04-20",
+  "document_end": null,
+  "in_force": "2007-04-20",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2007-04-20; oldest version available; future article versions excluded; article text as the API gives it"
+}
