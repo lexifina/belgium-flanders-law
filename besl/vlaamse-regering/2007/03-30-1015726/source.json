@@ -1,0 +1,17 @@
+{
+  "codex_id": 1015726,
+  "title": "Besluit van de Vlaamse Regering van 2007-03-30 tot wijziging van het besluit van de Vlaamse Regering van 4 juni 2004 houdende de toekenning van subsidies aan toeristische verenigingen voor de tewerkstelling van personeelsleden",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1015726/VolledigDocument?datum=2007-04-24",
+  "source_sha256": "554b974adf30ff25ea51a93410de8f7485c1bfe4cb772b4546e0cbb565ce371e",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1015726&param=informatie",
+  "as_of": "2007-04-24",
+  "made": "2007-03-30",
+  "gazette": "2007-04-24",
+  "numac": 2007035572,
+  "document_start": "2007-04-24",
+  "document_end": null,
+  "in_force": "2007-04-24",
+  "article_versions": 13,
+  "record_form": "consolidated version as in force on 2007-04-24; oldest version available; future article versions excluded; article text as the API gives it"
+}
