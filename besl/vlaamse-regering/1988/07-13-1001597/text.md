@@ -5,7 +5,6 @@
 Overeenkomstig artikel 3, § 1, van het besluit van de Vlaamse regering van 27 januari 1988 hou-dende sommige maatregelen tot harmonisatie van de toelagen en presentiegelden aan commissarissen, gemachtigden van financiën, afgevaardigden van de Vlaamse regering, voorzitters en leden van niet-adviserende bijzondere commissies of van raden van bestuur van instellingen en ondernemingen die onder de Vlaamse regering behoren, worden volgende niet-adviserende bijzondere commissies, instellingen en ondernemingen ingedeeld in:<br>
 <br>
 Categorie I:<br>
-<br>
 a) ressorterend onder de Vlaamse minister van Cultuur:<br>
 - de V.Z.W. Algemene Dienst Jeugdtoerisme;<br>
 - de V.Z.W. Ancienne Belgique;<br>
@@ -21,10 +20,9 @@ a) ressorterend onder de Vlaamse minister van Cultuur:<br>
 - V.Z.W. De Rand;<br>
 - Bestuurscommissie Vlaams Cultuurhuis de Brakke Grond;<br>
 - VZW Vlaams Centrum voor Openbare Bibliotheken;<br>
-<br>
 b) ressorterend onder de Vlaamse minister van Onderwijs en Brusselse Aangelegenheden:<br>
 - het Hoger Instituut voor Dramatische Kunsten Antwerpen:
-<div style="margin-left: 40px;">- Commissie van Toezicht;</div>
+<div style="margin-left: 40px;">&nbsp;- Commissie van Toezicht;</div>
 - het Koninklijk Vlaams Muziekconservatorium Antwerpen:
 
 <div style="margin-left: 40px;">- Commissie van Toezicht;</div>
@@ -109,14 +107,12 @@ b) ressorterend onder de Vlaamse minister van Onderwijs en Brusselse Aangelegenh
 <div style="margin-left: 40px;">- Commissie van Toezicht;</div>
 
 <div style="margin-left: 40px;">- Commissie tot beheer van het eigen vermogen;</div>
-<br>
 c) ressorterend onder de Vlaamse minister bevoegd voor het economisch beleid:<br>
-<br>
 - de V.Z.W. Permanente Werkgroep Limburg;<br>
 - V.Z.W. Vlaams Instituut voor de Zee (VLIZ);<br>
-<br>
+d) ressorterend onder de Vlaamse minister van Bestuurszaken :<br>
+- de V.Z.W. Sociale Dienst voor het Vlaams Overheidspersoneel.<br>
 Categorie II:<br>
-<br>
 a) ressorterend onder de Vlaamse minister van Cultuur:<br>
 - de intercommunale vereniging Opera van Vlaanderen;<br>
 - het Vlaams Commissariaat-generaal voor Toerisme;<br>
@@ -124,61 +120,45 @@ a) ressorterend onder de Vlaamse minister van Cultuur:<br>
 - de Vlaamse Raad voor reclame en sponsoring op radio en televisie;<br>
 - N.V. Reproductiefonds Vlaamse Musea;<br>
 - het Vlaams Audiovisueel Fonds vzw;<br>
-<br>
 b) ressorterend onder de Minister die de buitenlandse handel onder zijn bevoegdheid heeft:<br>
 - de Vlaamse Dienst voor de Buitenlandse Handel;<br>
-<br>
 c) ressorterend onder de Vlaamse minister van Onderwijs:<br>
 - de Vlaamse Onderwijsraad;<br>
-<br>
 Categorie III:<br>
 a) ressorterend onder de Vlaamse minister van Financiën en Begroting:<br>
 - de Vlaamse Commissie voor Preventief Bedrijfsbeleid;<br>
 - het Vlaams Instituut voor de bevordering van het wetenschappelijk-technologisch onderzoek in de industrie;<br>
 - het Egalisatiefonds Responsabiliseringsbijdrage Vlaamse Gemeenschap - Vlaams Pensioenfonds V.Z.W.;<br>
 - onderlinge verzekeringsvereniging VRT-Pensioenfonds;<br>
-<br>
 b) ressorterend onder de Vlaamse minister van Welzijn, Gezin en Volksgezondheid:<br>
 - Kind en Gezin;<br>
 - het Vlaams Fonds voor Sociale Integratie van Personen met een Handicap;<br>
-<br>
 c) ressorterend onder de Vlaamse minister van Cultuur:<br>
 - de Nederlandse Radio- en Televisieuitzendingen in België, Omroep van de Vlaamse Gemeenschap (afgekort: BRTN");<br>
 - de Vlaamse Opera, afgekort VLOPERA;<br>
 - het Vlaams Fonds voor de Letteren, afgekort VFL;<br>
-<br>
-(Bij B.V.R. 13 maart 1991, B.S., 5 juli 1991 wordt het Commissariaat-generaal voor de Bevordering van de Lichamelijke Ontwikkeling, de Sport en de Openluchtrecreatie, ingedeeld in categorie III ressorterend onder de Vlaamse minister van Cultuur)<br>
-<br>
 d) ressorterend onder de Vlaamse Minister van Leefmilieu, Landinrichting en K.M.O.-beleid:<br>
 - de Vlaamse Maatschappij voor Watervoorziening;<br>
 - de Vlaamse Waterzuiveringsmaatschappij;<br>
 - de Waterzuiveringsmaatschappij van het Kustbekken;<br>
-<br>
-(Bij B.V.R. 28 februari 1990, B.S., 24 april 1990, wordt de Vlaamse Landmaatschappij ingedeeld in Categorie III ressorterend onder de Vlaamse minister van Leefmilieu, Natuurbehoud en Landinrichting)<br>
-<br>
 e) ressorterend onder de Vlaamse minister van Huisvesting:<br>
 - de Vlaamse Huisvestingsmaatschappij;<br>
 (d.i. de Vlaamse Huisvestingsmaatschappij opgericht bij decreet van 21 december 1988 - Zie B.V.R. 21 maart 1990, B.S., 9 juni 1990, I: 1 januari 1989)<br>
 - de Vlaamse Landmaatschappij;<br>
 - de V.Z.W. Vlaams Woningfonds van de Grote Gezinnen;<br>
 - de Vlaamse Instelling voor Technologisch Onderzoek;<br>
-<br>
-[f) ressorterend onder de Vlaamse Minister van Tewerkstelling:<br>
+f) ressorterend onder de Vlaamse Minister van Tewerkstelling:<br>
 - de Vlaamse Dienst voor Arbeidsbemiddeling en Beroepsopleiding;<br>
-<br>
-[g) ressorterend onder de Vlaamse minister van Onderwijs:<br>
+g) ressorterend onder de Vlaamse minister van Onderwijs:<br>
 - de Autonome Raad voor het Gemeenschapsonderwijs;<br>
 - de Dienst voor Infrastructuurwerken van het Gesubsidieerd Onderwijs;<br>
-<br>
-[h) ressorterend onder de Vlaamse minister van Economie, Middenstand en Energie:<br>
--het Vlaams Agentschap voor Ondernemersvorming - Syntra Vlaanderen<br>
+h) ressorterend onder de Vlaamse minister van Economie, Middenstand en Energie:<br>
+- het Vlaams Agentschap voor Ondernemersvorming - Syntra Vlaanderen<br>
 - het Grindfonds;<br>
-<br>
-[i) ressorterend onder de Vlaamse minister bevoegd voor Volksgezondheid:<br>
+i) ressorterend onder de Vlaamse minister bevoegd voor Volksgezondheid:<br>
 - het Openbaar Psychiatrisch Ziekenhuis te Geel;<br>
 - het Openbaar Psychiatrisch Ziekenhuis te Rekem;<br>
-<br>
-[j) ressorterend onder de Vlaamse minister van Openbare Werken en Verkeer:<br>
+j) ressorterend onder de Vlaamse minister van Openbare Werken en Verkeer:<br>
 - de Dienst voor de Scheepvaart;<br>
 - de Vlaamse Vervoermaatschappij.
 
