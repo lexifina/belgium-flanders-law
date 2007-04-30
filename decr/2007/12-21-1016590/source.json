@@ -1,0 +1,17 @@
+{
+  "codex_id": 1016590,
+  "title": "Decreet van 2007-12-21 tot aanvulling van het decreet van 5 april 1995 houdende algemene bepalingen inzake milieubeleid met een titel XV Milieuschade, tot omzetting van de Richtlijn 2004/35/EG van het Europees Parlement en de Raad van 21 april 2004 betreffende de milieuaansprakelijkheid met betrekking tot het voorkomen en herstellen van milieuschade",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1016590/VolledigDocument?datum=2007-04-30",
+  "source_sha256": "2ae0e7094d10b713d817fb3c61ed9ab3142acdf9dc2d45e66f76ffb873b284bb",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1016590&param=informatie",
+  "as_of": "2007-04-30",
+  "made": "2007-12-21",
+  "gazette": "2008-02-12",
+  "numac": 2008035231,
+  "document_start": "2007-04-30",
+  "document_end": null,
+  "in_force": "2007-04-30",
+  "article_versions": 6,
+  "record_form": "consolidated version as in force on 2007-04-30; oldest version available; future article versions excluded; article text as the API gives it"
+}
