@@ -1,0 +1,17 @@
+{
+  "codex_id": 1015743,
+  "title": "Ministerieel besluit van 2007-04-19 houdende oprichting van een tussenoverlegcomité en van twee basisoverlegcomités in het beleidsdomein Diensten voor het Algemeen Regeringsbeleid",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1015743/VolledigDocument?datum=2007-04-30",
+  "source_sha256": "eb9736845ccdaf894932c75d345dcb7b92967218aa46437945f22b01f3245120",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1015743&param=informatie",
+  "as_of": "2007-04-30",
+  "made": "2007-04-19",
+  "gazette": "2007-04-30",
+  "numac": 2007035602,
+  "document_start": "2007-04-30",
+  "document_end": null,
+  "in_force": "2007-04-30",
+  "article_versions": 5,
+  "record_form": "consolidated version as in force on 2007-04-30; oldest version available; future article versions excluded; article text as the API gives it"
+}
