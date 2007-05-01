@@ -1,0 +1,17 @@
+{
+  "codex_id": 1016245,
+  "title": "Besluit van de Vlaamse Regering van 2007-09-07 betreffende de organisatie van CLIL-projecten in het secundair onderwijs",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1016245/VolledigDocument?datum=2007-05-01",
+  "source_sha256": "40fef07290acce1f15d5bc43efa3626ec7e3ca39a9e173ece11aaae3facd3858",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1016245&param=informatie",
+  "as_of": "2007-05-01",
+  "made": "2007-09-07",
+  "gazette": "2007-10-15",
+  "numac": 2007036742,
+  "document_start": "2007-05-01",
+  "document_end": "2010-08-31",
+  "in_force": "2007-05-01",
+  "article_versions": 16,
+  "record_form": "consolidated version as in force on 2007-05-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
