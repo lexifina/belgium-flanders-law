@@ -50,4 +50,8 @@ In artikel 9 van de wet van 1 juli 1954 op de riviervisserij, vervangen bij decr
 
 ## HOOFDSTUK XIX. Overgangsbepaling Plan-MER
 
+### ART. 49.
+
+Hoofdstuk II van titel IV van het decreet van 5 april 1995 houdende algemene bepalingen inzake milieubeleid, zoals vervangen door het decreet van 27 april 2007, is van toepassing op ruimtelijke uitvoeringsplannen, waarvan de plenaire vergadering gehouden wordt zes maanden na de datum van inwerkingtreding van hoofdstuk II van titel IV van het decreet van 5 april 1995, zoals vervangen door het decreet van 27 april 2007. » <br />
+
 ## HOOFDSTUK XX. Inwerkingtreding
