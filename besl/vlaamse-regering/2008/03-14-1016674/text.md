@@ -44,6 +44,14 @@ In artikel 15 van hetzelfde besluit wordt het derde lid vervangen door wat volgt
 
 ## HOOFDSTUK XII. Wijziging van het besluit van de Vlaamse Regering van 2 februari 2007 tot instelling van een tegemoetkoming in de huurprijs voor woonbehoeftige huurders
 
+### ART. 37.
+
+In artikel 5 van hetzelfde besluit worden de volgende wijzigingen aangebracht :<br /><br />1° aan § 1 wordt een tweede lid toegevoegd, dat luidt als volgt :<br />« De huurder moet op de aanvraagdatum beschikken over andere inkomsten dan kinderbijslag of wezentoelage, waarmee het saldo van de huurprijs kan worden betaald. »;<br /><br />2° aan § 2, tweede lid, 1°, worden de woorden « en die hetzij vervreemd is, hetzij niet meer als woning zal worden gebruikt » toegevoegd.
+
+### ART. 38.
+
+In artikel 6, § 1, tweede lid, van hetzelfde besluit wordt punt 4° vervangen door wat volgt :<br /><br />« 4° als de huurder jonger is dan 25 jaar, een document of verklaring waaruit zijn actuele inkomsten blijken; ».
+
 ## HOOFDSTUK XIII. Wijziging van het besluit van de Vlaamse Regering van 12 oktober 2007 tot reglementering van het sociale huurstelsel ter uitvoering van titel VII van de Vlaamse Wooncode
 
 ## HOOFDSTUK XIV. Wijziging van het besluit van de Vlaamse Regering van 12 oktober 2007 houdende de financiering van de sociale huisvestingsmaatschappijen voor de realisatie van sociale huurwoningen en de daaraan verbonden werkingskosten
