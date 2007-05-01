@@ -2,16 +2,16 @@
   "codex_id": 1015070,
   "title": "Besluit van de Vlaamse Regering van 2006-09-01 tot regeling van de alternatieve investeringswaarborg verstrekt door het Vlaams Infrastructuurfonds voor Persoonsgebonden Aangelegenheden",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1015070/VolledigDocument?datum=2006-11-01",
-  "source_sha256": "6989672ed86f59fc9eb90ee69152d3be6a5691c6880170e81cb8970bb01829fb",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1015070/VolledigDocument?datum=2007-05-01",
+  "source_sha256": "9e473d6c47f53dc41721049712299b2205e2d1234686376fcf629696983f731d",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1015070&param=informatie",
-  "as_of": "2006-11-01",
+  "as_of": "2007-05-01",
   "made": "2006-09-01",
   "gazette": "2006-10-24",
   "numac": 2006036688,
   "document_start": "2006-11-01",
   "document_end": null,
-  "in_force": "2006-11-01",
+  "in_force": "2007-05-01",
   "article_versions": 24,
-  "record_form": "consolidated version as in force on 2006-11-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2007-05-01; future article versions excluded; article text as the API gives it"
 }
