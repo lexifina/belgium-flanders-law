@@ -1,0 +1,17 @@
+{
+  "codex_id": 1016005,
+  "title": "Besluit van de Vlaamse Regering van 2007-07-06 tot wijziging van het Vlaams personeelsstatuut van 13 januari 2006, wat betreft de mogelijkheden tot het nemen van loopbaanonderbreking",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1016005/VolledigDocument?datum=2007-05-01",
+  "source_sha256": "a6099f86cb747e2fc5a809113bffa7dd933b482cdc781833bf18c54cfd9ae162",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1016005&param=informatie",
+  "as_of": "2007-05-01",
+  "made": "2007-07-06",
+  "gazette": "2007-07-31",
+  "numac": 2007036210,
+  "document_start": "2007-05-01",
+  "document_end": null,
+  "in_force": "2007-05-01",
+  "article_versions": 15,
+  "record_form": "consolidated version as in force on 2007-05-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
