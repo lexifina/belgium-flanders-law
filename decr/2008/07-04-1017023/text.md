@@ -230,6 +230,10 @@ De bepalingen van dit hoofdstuk treden in werking op 1 september 2008, met uitzo
 
 ## HOOFDSTUK XI Autonome bepalingen
 
+### ART. XI.2.
+
+Het besluit van de Vlaamse Regering van 7 september 2007 betreffende de organisatie van CLIL-projecten in het secundair onderwijs wordt bekrachtigd.<br /><br />
+
 ### ART. XI.12.
 
 De bepalingen van dit hoofdstuk hebben uitwerking met ingang van de hierna vermelde datum :<br />1° artikel XI.3 heeft uitwerking met ingang van 1 april 1991;<br />2° artikel XI.2 heeft uitwerking met ingang van 1 mei 2007;<br />3° artikel XI.1 heeft uitwerking met ingang van 1 september 2007;<br />4° artikel XI.7 heeft uitwerking met ingang van 1 april 2008;<br />5° artikel XI.11 heeft uitwerking met ingang van 1 juni 2008;<br />6° artikelen XI.4, XI.6 en XI.8 treden in werking op 1 september 2008;<br />7° artikel XI.5 treedt in werking op de datum van inwerkingtreding van de wet van 16 mei 2003 tot vaststelling van de algemene bepalingen die gelden voor de begrotingen, de controle op de subsidies en voor de boekhouding van de gemeenschappen en de gewesten, alsook voor de organisatie van de controle door het Rekenhof<br /><br />
