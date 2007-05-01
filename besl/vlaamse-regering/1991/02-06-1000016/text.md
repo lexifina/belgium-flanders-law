@@ -5,135 +5,71 @@
 ### ART. 1.
 
 Voor de toepassing van dit besluit wordt verstaan onder:<br>
-<br>
 1° "de Vlaamse minister": het lid van de Vlaamse regering tot wiens bevoegdheid de bescherming van het leefmilieu behoort;<br>
-<br>
 2° "het decreet": het decreet van 28 juni 1985 betreffende de milieuvergunning;<br>
-<br>
 3° "de indelingslijst": de aan dit besluit als bijlage 1 toegevoegde lijst van als hinderlijk beschouwde inrichtingen tot vaststelling, overeenkomstig het bedoelde in artikel 3 van het decreet, bij welke van de drie klassen van inrichtingen zij worden ingedeeld, naargelang van de graad waarin zij geacht worden belastend te zijn voor de mens en het leefmilieu;<br>
-<br>
 4° "inrichtingen": fabrieken, werkplaatsen, opslagplaatsen, machines, installaties, toestellen en handelingen die op de indelingslijst voorkomen;<br>
-<br>
 5° "exploiteren": in werking stellen of houden, gebruiken, installeren of in stand houden van een inrichting, daaronder begrepen het lozen van afvalwater;<br>
-<br>
 6° "exploitant": elke natuurlijke of rechtspersoon die een inrichting exploiteert of voor wiens rekening een inrichting wordt geëxploiteerd;<br>
-<br>
 7° "veranderen van een inrichting": wijzigen, uitbreiden, toevoegen:<br>
-<br>
 - "wijzigen": het verplaatsen binnen de vergunde inrichting, of het aanwenden van een andere fabricagemethode;<br>
-<br>
 - "uitbreiden": het vergroten in capaciteit, in drijfkracht of in oppervlakte op percelen waarop de geldende vergunning betrekking heeft;<br>
-<br>
 - "toevoegen": het vergroten in opslagcapaciteit, in drijfkracht of in oppervlakte of percelen, waarop de geldende vergunning geen betrekking heeft;<br>
-<br>
-8° "tijdelijke inrichtingen": de in de indelingslijst met de letter T aangeduide vergunningsplichtige inrichtingen waarvan de exploitatie geen blijvende gevolgen voor het leefmilieu veroorzaakt en in principe niet langer zal duren dan:<br>
-<br>
+8° "tijdelijke inrichtingen": de in de indelingslijst me de letter T aangeduide vergunningsplichtige inrichtingen waarvan de exploitatie geen blijvende gevolgen voor het leefmilieu veroorzaakt en in principe niet langer zal duren dan:<br>
 - één jaar, als het een inrichting betreft die verband houdt met een bouwwerf;<br>
-<br>
 - drie maanden in de andere gevallen.<br>
-<br>
 9° "afvalwater": verontreinigd water waarvan men zich ontdoet, zich moet ontdoen of de intentie heeft zich van te ontdoen, met uitzondering van hemelwater dat niet in aanraking is geweest met verontreinigende stoffen;<br>
-<br>
 10° "huishoudelijk afvalwater": afvalwater dat enkel bestaat uit het water afkomstig van:<br>
-<br>
 - normale huishoudelijke activiteiten;<br>
-<br>
 - sanitaire installaties;<br>
-<br>
 - keukens;<br>
-<br>
 - het reinigen van gebouwen zoals woningen, kantoren, plaatsen waar groot- of kleinhandel wordt gedreven, zalen voor vertoningen, kazernen, kampeerterreinen, gevangenissen, onderwijsinrichtingen met of zonder internaat, klinieken, hospitalen en andere inrichtingen waar niet besmettelijke zieken opgenomen en verzorgd worden, zwembaden, hotels, restaurants, drankgelegenheden, kapsalons;<br>
-<br>
 - afvalwater afkomstig van wassalons, waar de toestellen uitsluitend door het cliënteel zelf worden bediend;<br>
-<br>
 11° "koelwater": het water dat in de nijverheid voor afkoeling gebruikt wordt en dat niet in aanraking is gekomen met af te koelen stoffen of met andere verontreinigende stoffen;<br>
-<br>
 12° "bedrijfsafvalwater": alle afvalwater dat niet voldoet aan de bepalingen van huishoudelijk afvalwater of koelwater;<br>
-<br>
 13° « gevaarlijke stoffen » : toxische, persistente en bioaccumuleerbare stoffen of groepen van stoffen en andere stoffen of groepen van stoffen die aanleiding geven tot evenveel bezorgdheid;<br>
-<br>
 14° « prioritaire stoffen » : stoffen waarvan de lijst overeenkomstig de EG-richtlijn 2000/60/EG is vastgesteld in lijst III van bijlage 2C bij dit besluit; hiertoe behoren prioritaire gevaarlijke stoffen op gebied van waterbeleid' waarvoor maatregelen moeten worden getroffen;<br>
-<br>
 14bis ° « verontreinigende stoffen »: iedere stof die tot verontreiniging kan leiden, met name de stoffen waarvan de lijst overeenkomstig de EG-richtlijn 2000/60/EG is vastgesteld in bijlage 2A bij dit besluit;<br>
-<br>
 15° "afvalstoffen": afvalstoffen zoals bedoeld in het decreet van 2 juli 1981 betreffende de voorkoming en het beheer van afvalstoffen en zijn uitvoeringsbesluiten. De definities zoals bepaald in dat decreet en zijn uitvoeringsbesluiten zijn eveneens geldig voor de toepassing van dit besluit;<br>
-<br>
 16° "GPBV-installatie": een inrichting die in de vierde kolom van de indelingslijst is aangeduid met de letter x en die als dusdanig onder de toepassing valt van de bepalingen van de titels I en II van het VLAREM inzake geïntegreerde preventie en bestrijding van verontreiniging als bedoeld in de EU-richtlijn 96/61/EEG van 24 september 1996 en die de vaste technische eenheid omvat waarin de activiteiten en processen, vermeld in de tweede kolom, alsmede andere daarmee rechtstreeks samenhangende activiteiten plaatsvinden die technisch in verband staan met de op die plaats ten uitvoer gebrachte activiteiten en die gevolgen kunnen hebben voor de emissies en de verontreiniging;<br>
-<br>
 17° "vergunning": het gedeelte van (een) schriftelijk(e) besluit(en) of het besluit (die besluiten) in zijn (hun) geheel waarbij machtiging wordt verleend om een inrichting te exploiteren onder bepaalde voorwaarden die moeten garanderen dat de inrichting voldoet aan de eisen van dit reglement alsook van titel II van het VLAREM en waarbij een vergunning betrekking kan hebben op een of meer inrichtingen die zich op dezelfde locatie bevinden en die door dezelfde exploitant worden geëxploiteerd;<br>
-<br>
 18°« belangrijke wijziging van een inrichting »:<br>
 een wijziging van de kenmerken of de werking, of een uitbreiding van de installatie die gevolgen voor het milieu kan hebben en die volgens de vergunningverlenende overheid negatieve en significante effecten kan hebben op mens of milieu;<br>
 in de zin van deze definitie wordt elke wijziging of uitbreiding van een exploitatie geacht belangrijk te zijn, indien de wijziging of uitbreiding voldoet aan de in de indelingslijst genoemde drempelwaarden, voorzover deze bestaan;<br>
-<br>
 19° "gevaarlijke stoffen": stoffen, mengsels of preparaten, genoemd in bijlage 6, deel 1, gevoegd bij dit besluit of beantwoordend aan de criteria in bijlage 6, deel 2, gevoegd bij dit besluit en aanwezig als grondstof, product, bijproduct, residu of tussenproduct, met inbegrip van die stoffen waarvan redelijkerwijs mag worden verwacht dat ze bij een ongeval ontstaan;<br>
-<br>
 20° "gevaar": de intrinsieke eigenschap van een gevaarlijke stof of van een fysische situatie die potentieel tot schade voor de gezondheid van de mens en/of het milieu kan leiden;<br>
-<br>
 21° "risico": de waarschijnlijkheid dat een bepaald effect zich binnen een bepaalde periode of onder bepaalde omstandigheden voordoet;<br>
-<br>
 22° "Verdrag van Espoo": Verdrag inzake milieu-effectenrapportage in grensoverschrijdend verband en van de aanhangsels I, II, III, IV, V, VI en VII ondertekend in Espoo op 25 februari 1991;<br>
-<br>
 23° ...<br>
-<br>
 24° "zwaar ongeval": een gebeurtenis, zoals een zware emissie, brand of explosie als gevolg van onbeheerste ontwikkelingen tijdens de bedrijfsuitoefening in een inrichting, waardoor onmiddellijk of na verloop van tijd ernstig gevaar voor de gezondheid van de mens binnen of buiten de inrichting en/of voor het milieu ontstaat en waarbij een of meer gevaarlijke stoffen betrokken zijn;<br>
-<br>
 25° "grondwater": al het water dat zich onder het bodemoppervlak in de verzadigde zone bevindt en dat in direct contact met bodem of ondergrond staat;<br>
-<br>
 25bis ° « watervoerende laag »: een of meer ondergrondse rotslagen of andere geologische lagen die voldoende poreus en doorlatend zijn voor een belangrijke grondwaterstroming of de onttrekking van aanzienlijke hoeveelheden grondwater;<br>
-<br>
 26° "directe lozing in grondwater": de inleiding van stoffen van bijlage 2 B bij dit besluit in het grondwater zonder doorsijpeling door bodem of ondergrond;<br>
-<br>
 27° "indirecte lozing in grondwater": de inleiding van stoffen van bijlage 2 B bij dit besluit in het grondwater na doorsijpeling door bodem of ondergrond;<br>
-<br>
 28° "verontreinigen": het veroorzaken van een emissie die mens of milieu op rechtstreekse of onrechtstreekse wijze nadelig beïnvloedt of kan beïnvloeden;<br>
-<br>
 29° "beste beschikbare technieken": (BBT): het meest doeltreffende en geavanceerde ontwikkelingsstadium van de activiteiten en exploitatiemethoden, waarbij de praktische bruikbaarheid van speciale technieken om in beginsel het uitgangspunt voor de emissiegrenswaarden te vormen is aangetoond, met het doel emissies en effecten op het milieu in zijn geheel te voorkomen, of wanneer dat niet mogelijk blijkt algemeen te beperken;<br>
-<br>
 a) "technieken": zowel de toegepaste technieken als de wijze waarop de installatie wordt ontworpen, gebouwd, onderhouden, geëxploiteerd en ontmanteld;<br>
-<br>
 b) "beschikbare": op zodanige schaal ontwikkeld dat de technieken, kosten en baten in aanmerking genomen, economisch en technisch haalbaar in de industriële context kunnen worden toegepast, onafhankelijk van de vraag of die technieken al dan niet op het grondgebied van het Vlaamse Gewest worden toegepast of geproduceerd, mits ze voor de exploitant op redelijke voorwaarden toegankelijk zijn;<br>
-<br>
 c) "beste": het meest doeltreffend voor het bereiken van een hoog algemeen niveau van bescherming van het milieu in zijn geheel;<br>
-<br>
 30° genetisch gemodificeerd micro-organisme (GGM) of organisme (GGO): een micro-organisme of een organisme waarvan het genetische materiaal gewijzigd is op een wijze die van nature of door voortplanting of natuurlijke recombinatie niet mogelijk is. Volgens deze definitie vindt genetische modificatie plaats als een van de in bijlage 15 A., deel 1, genoemde technieken wordt toegepast, uitgenomen de technieken, opgesomd in bijlage 15 A., deel 2, bij dit besluit;<br>
-<br>
 31° gebruiker: elke natuurlijke of rechtspersoon die verantwoordelijk is voor het ingeperkt gebruik van GGO's en/of pathogene organismen;<br>
-<br>
 32° bevoegde instantie: de afdeling Milieuvergunningen van AMINAL, per adres hoofdbestuur;<br>
-<br>
 33° technisch deskundige: de sectie Bioveiligheid en Biotechnologie van het Wetenschappelijk Instituut voor Volksgezondheid (SBB), bedoeld in artikel 4 van het samenwerkingsakkoord van 25 april 1997 tussen de Federale Staat en de Gewesten betreffende de administratieve en wetenschappelijke coördinatie inzake bioveiligheid, die op basis van een bevoegdheidsdelegatie overeenkomstig artikel 12, § 2, van het voormelde samenwerkingsakkoord, de evaluatie van de bioveiligheid uitvoert;<br>
-<br>
 34° "energiestudie": een energiestudie overeenkomstig de bepalingen uit artikel 3 van het besluit inzake energieplanning voor ingedeelde energie-intensieve inrichtingen;<br>
-<br>
 35° "energieplan": een energieplan overeenkomstig de bepalingen uit artikel 3 van het besluit inzake energieplanning voor ingedeelde energie-intensieve inrichtingen;<br>
-<br>
 36° "energiegebruik": het primair elektriciteitsgebruik en primair energetisch gebruik van energiedragers en niet het non-energetisch gebruik van energiedragers in de vorm van als grondstof ingezette energiedragers;<br>
-<br>
 37° "broeikasgassen":<br>
-<br>
 a) koolstofdioxide (CO2);<br>
-<br>
 b) methaan(CH4);<br>
-<br>
 c) distikstofoxide (N2O);<br>
-<br>
 d) fluorkoolwaterstoffen (HFK's): de gefluoreerde broeikasgassen die zijn opgenomen in groep I van bijlage 5.16.5 van titel II van het VLAREM, met inbegrip van de isomeren ervan;<br>
-<br>
 e) perfluorkoolstoffen (PFK's): de gefluoreerde broeikasgassen die zijn opgenomen in groep II van bijlage 5.16.5 van titel II van het VLAREM, met inbegrip van de isomeren ervan;<br>
-<br>
 f) zwavelhexafluoride (SF6): het gefluoreerde broeikasgas in groep III van bijlage 5.16.5 van titel II van het VLAREM;<br>
-<br>
 38° "BKG-inrichting": een inrichting die in de vierde kolom van de indelingslijst is aangeduid met de letter Y en die de vaste technische eenheid omvat waarin de activiteiten en processen, vermeld in de tweede kolom, alsmede andere daarmee rechtstreeks samenhangende activiteiten plaatsvinden die technisch in verband staan met de op die plaats ten uitvoer gebrachte activiteiten en die gevolgen kunnen hebben voor de emissies en de verontreiniging;<br>
-<br>
 39° "aardgastransportsector": de houders van vervoervergunningen voor aardgas, verleend op grond van de wet van 12 april 1965 betreffende het vervoer van gasachtige producten en andere door middel van leidingen, en de houders van vergunningen voor de ondergrondse opslag van aardgas, verleend op grond van de wet van 18 juli 1975 betreffende het opsporen en exploiteren van ondergrondse bergruimten in situ, bestemd voor het opslaan van gas;<br>
-<br>
 40° "verificatiebureau": de organisatie die aangesteld is om de correcte uitvoering van het Vlaams Benchmarking convenant over energie-efficiëntie in de industrie van 29 november 2002 te bewaken, zoals bepaald in artikel 10 van dit convenant;<br>
-<br>
 41° "referentiejaar": kalenderjaar waarvoor de directe CO2-emissies uit een BKG-inrichting als representatief kunnen worden beschouwd voor de directe CO2-emissies in een kalenderjaar van een handelsperiode, zoals gedefinieerd in artikel 1 van het besluit inzake de verhandelbare emissierechten en zoals geverifieerd en goedgekeurd door het verificatiebureau;<br>
-<br>
 42° "verandering aan een BKG-inrichting": een verandering in de aard of werking van een BKG inrichting of een fysieke uitbreiding van de BKG-inrichting, die als gevolg heeft dat ten opzichte van het referentiejaar de productiecapaciteit van de BKG-inrichting met meer dan 10 % zal stijgen of de CO2 emissies op jaarbasis met meer dan 5.000 ton zullen toenemen ten opzichte van het referentiejaar.<br>
-<br>
 43° « bijzonder beschermd gebied » : een gebied dat behoort tot één of meer van de volgende gebieden :<br>
 a) de speciale beschermingszones, de definitief vastgestelde gebieden die in aanmerking komen als speciale beschermingszone en de waterrijke gebieden van internationale betekenis overeenkomstig het decreet van 21 oktober 1997 betreffende het natuurbehoud en het natuurlijk milieu;<br>
 b) een beschermd duingebied of voor het duingebied belangrijk landbouwgebied zoals aangegeven ter uitvoering van het decreet van 14 juli 1993 houdende maatregelen tot bescherming van de kustduinen;<br>
@@ -142,7 +78,9 @@ d) bosgebieden, valleigebieden, brongebieden, overstromingsgebieden, agrarische 
 e) een beschermd landschap, stads- of dorpsgezicht, monument of archeologische zone;<br>
 f) de waterwingebieden en bijhorende beschermingszones type I en II vastgesteld ter uitvoering van het decreet van 24 januari 1984 houdende maatregelen inzake het grondwaterbeheer;<br>
 g) het Vlaams Ecologisch Netwerk overeenkomstig het decreet van 21 oktober 1997 betreffende het natuurbehoud en het natuurlijk milieu;<br>
-h) een volgens een plan van aanleg of ruimtelijk uitvoeringsplan vastgesteld erfgoedlandschap.
+h) een volgens een plan van aanleg of ruimtelijk uitvoeringsplan vastgesteld erfgoedlandschap.<br>
+43° voertuig : gemotoriseerd transportmiddel, met uitzondering van vaartuigen;<br>
+44° voertuigwrak : een voertuig dat een afvalstof is in de zin van artikel 2 van het decreet van 2 juli 1981 betreffende de voorkoming en het beheer van afvalstoffen.
 
 ## HOOFDSTUK II DE MELDING
 
