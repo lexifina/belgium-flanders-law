@@ -56,11 +56,35 @@ De administratieve overheden van het Vlaamse Gewest stellen, op vraag van de Vla
 
 ## HOOFDSTUK I ALGEMENE BEPALINGEN
 
+### ART. 10.
+
+§ 1. Indien de taken zoals opgesomd in artikel 5, § 1, 2° en 3° uitgevoerd worden voor de bevoegdheden Leefmilieu, Landinrichting en Natuurbehoud, kan de Vlaamse Grondenbank deze in eigen naam en voor eigen rekening uitvoeren. Indien de taken zoals opgesomd in artikel 5, § 1, 2° en 3° niet voor de bevoegdheden Leefmilieu, Landinrichting en Natuurbehoud uitgevoerd worden, kan de Vlaamse Regering aan Vlaamse Grondenbank de opdracht geven om onroerende goederen aan te kopen in naam en voor rekening van een administratieve entiteit.<br /><br />§ 2. De taken zoals opgesomd in artikel 5, § 2 en § 3 zal de Vlaamse Grondenbank in eigen naam en voor eigen rekening uitvoeren.<br /><br />
+
+### ART. 11.
+
+De Vlaamse Grondenbank voert, in uitvoering van artikel 5, § 2 en § 3 met het oog op concrete projecten, bij de verwerving, het beheer en de overdracht onder meer de volgende taken uit :<br />1° de prospectie van de markt van onroerende goederen;<br />2° het voeren van de onderhandelingen.<br /><br />
+
+### ART. 12.
+
+De Vlaamse Grondenbank voert de taken zoals beschreven in artikel 5, § 1, 2°, § 2 en § 3 uit, conform de door de respectievelijk bevoegde administratieve overheid van het Vlaamse Gewest gegeven richtlijnen en voorwaarden.<br /><br />
+
 ## HOOFDSTUK II VERWERVEN
+
+### ART. 13.
+
+De Vlaamse Grondenbank kan, overeenkomstig artikel 10, verwerven via een onderhandse of openbare verkoop, het uitoefenen van een recht van voorkoop of van een recht van voorkeur, het vervullen van een koopplicht, een ruil, een afstand van onverdeelde rechten, een schenking of een legaat.<br /><br />
 
 ## HOOFDSTUK III BEHEREN
 
+### ART. 14.
+
+§ 1. De Vlaamse Grondenbank beheert de in eigen naam en voor eigen rekening verworven zakelijke rechten vanaf de verwerving als bedoeld in artikel 13 en tot de overdracht als bedoeld in artikel 15.<br /><br />In afwachting dat onroerende goederen welke vrij van gebruik zijn worden overgedragen, kunnen deze, in voorkomend geval mits akkoord van de verzoekende bevoegde administratieve overheid van het Vlaamse Gewest, verpacht worden bij een overeenkomst die van rechtswege verstrijkt na 1 jaar doch kan hernieuwd worden. Deze verpachtingen zijn niet onderworpen aan de bepalingen van afdeling 3 van boek III, titel VIII, van het Burgerlijk Wetboek betreffende de pacht.<br /><br />§ 2. In voorkomend geval dat het onroerend goed vrij van gebruik wordt gemaakt, heeft de laatst gekende gebruiker van het onroerend goed een voorkeurrecht voor het afsluiten van een nieuwe gebruiksovereenkomst dewelke is opgesteld overeenkomstig de door de bevoegde administratieve overheid gestelde voorwaarden.<br /><br />
+
 ## HOOFDSTUK IV OVERDRAGEN
+
+### ART. 15.
+
+De Vlaamse Grondenbank draagt de in eigen naam en voor eigen rekening verworven zakelijke rechten over aan de bevoegde administratieve overheid van het Vlaamse Gewest, op wiens verzoek verworven is, of aan een door deze overheid aangeduide natuurlijke of rechtspersoon.<br /><br />
 
 ### ART. 15/1.
 
