@@ -60,6 +60,10 @@ Aan artikel 83 van hetzelfde decreet worden de volgende wijzigingen aangebracht 
 
 ## HOOFDSTUK XII. Wijzigingen aan titel IV van het decreet van 5 april 1995 houdende algemene bepalingen inzake het milieubeleid
 
+### ART. 98.
+
+Hoofdstuk II van titel IV van het decreet van 5 april 1995 houdende algemene bepalingen inzake milieubeleid, zoals vervangen door het decreet van 27 april 2007, is van toepassing op bijzondere plannen van aanleg waarvan het voorontwerp- of ontwerpplan wordt toegezonden aan de adviesverlenende besturen en instellingen na 1 juni 2008.
+
 ## HOOFDSTUK XIII. Wijziging van het decreet van 27 oktober 2006 betreffende de bodemsanering en de bodembescherming
 
 ## Afdeling I. Bodemsanering
