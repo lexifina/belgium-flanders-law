@@ -50,7 +50,7 @@ Er zijn zes regio's integrale jeugdhulp.<br /><br />Het Nederlandse taalgebied w
 
 ### ART. 10.
 
-§ 1. De Adviesraad is samengesteld uit:<br /><br />1° een voorzitter;<br /><br />2° twee vertegenwoordigers per sector, onder voorbehoud van de toepassing van artikel 36, § 1, derde lid, van het decreet Integrale Jeugdhulp;<br /><br />3° twee vertegenwoordigers van minderjarigen;<br /><br />4° een vertegenwoordiger vanuit de kinderrechten;<br /><br />5° drie vertegenwoordigers van ouders.<br /><br />§ 2. De voorzitter, de leden en hun plaatsvervangers worden door de ministers benoemd voor een hernieuwbare termijn van vijf jaar. De leden en plaatsvervangende leden worden op de volgende wijze benoemd:<br /><br />1° de vertegenwoordigers van de sectoren: op voordracht van de representatieve organisaties van het jeugdhulpaanbod;<br /><br />2° de vertegenwoordigers van minderjarigen: één op voordracht van de Vlaamse Jeugdraad, één op voordracht van de Vlaamse Scholierenkoepel;<br /><br />3° de vertegenwoordiger van kinderrechten:op voordracht van de Kinderrechtencoalitie;<br /><br />4° de vertegenwoordigers van ouders: op basis van een kandidaatstelling na een zo ruim mogelijke werving via een openbare oproep en door te schrijven naar een naamlijst van verenigingen.
+§ 1. De Adviesraad is samengesteld uit:<br />1° een voorzitter;<br />2° twee vertegenwoordigers per sector, onder voorbehoud van de toepassing van artikel 36, § 1, derde lid, van het decreet Integrale Jeugdhulp;<br />3° vier vertegenwoordigers van minderjarigen;<br />4° een vertegenwoordiger vanuit de kinderrechten;<br />5° drie vertegenwoordigers van ouders.<br /><br />§ 2. De voorzitter, de leden en hun plaatsvervangers, behalve als ze minderjarig zijn worden door de ministers benoemd voor een hernieuwbare termijn van vijf jaar. De leden en plaatsvervangende leden worden op de volgende wijze benoemd:<br />1° de vertegenwoordigers van de sectoren: op voordracht van de representatieve organisaties van het jeugdhulpaanbod;<br />2° de vertegenwoordigers van minderjarigen : één afgevaardigde van de Vlaamse Jeugdraad en een minderjarige op voordracht van de Vlaamse Jeugdraad, één afgevaardigde van de Vlaamse Scholierenkoepel en een minderjarige op voordracht van de Vlaamse Scholierenkoepel;<br />3° de vertegenwoordiger van kinderrechten:op voordracht van de Kinderrechtencoalitie;<br />4° de vertegenwoordigers van ouders: op basis van een kandidaatstelling na een zo ruim mogelijke werving via een openbare oproep en door te schrijven naar een naamlijst van verenigingen.
 
 ### ART. 11.
 
@@ -66,7 +66,7 @@ De vertegenwoordigers, bedoeld in artikel 10, § 1, 4°, en hun plaatsvervangers
 
 ### ART. 14.
 
-De ministers kunnen aan het mandaat van voorzitter, lid of plaatsvervanger een einde stellen:<br /><br />1° op verzoek van de betrokkene;<br /><br />2° op gefundeerd verzoek van de Adviesraad.
+De ministers kunnen aan het mandaat van voorzitter, lid of plaatsvervanger een einde stellen:<br />1° op verzoek van de betrokkene;<br />2° op gefundeerd verzoek van de Adviesraad.<br />3° op gefundeerd verzoek van de voordragende representatieve organisatie.
 
 ### ART. 15.
 

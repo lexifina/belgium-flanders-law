@@ -2,16 +2,16 @@
   "codex_id": 1013457,
   "title": "Besluit van de Vlaamse Regering van 2004-06-11 tot afbakening van het toepassingsgebied van de integrale jeugdhulp en van de regio's integrale jeugdhulp en tot regeling van de beleidsafstemming integrale jeugdhulp",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1013457/VolledigDocument?datum=2006-06-01",
-  "source_sha256": "8bb4601e1594cc87f9fa6b9d79ea89846ce45812a0c570393c4c0fabfd19a61e",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1013457/VolledigDocument?datum=2007-05-01",
+  "source_sha256": "079030c10b3c470278808a8b5095e88acff86cbbcbc96575ac2f26545f8e7b62",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1013457&param=informatie",
-  "as_of": "2006-06-01",
+  "as_of": "2007-05-01",
   "made": "2004-06-11",
   "gazette": "2004-10-06",
   "numac": 2004036505,
   "document_start": "2004-07-01",
   "document_end": "2014-02-27",
-  "in_force": "2006-06-01",
+  "in_force": "2007-05-01",
   "article_versions": 36,
-  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2007-05-01; future article versions excluded; article text as the API gives it"
 }
