@@ -1,0 +1,17 @@
+{
+  "codex_id": 1015720,
+  "title": "Besluit van de Vlaamse Regering van 2007-03-09 tot regeling van de presentiegelden en vergoedingen van strategische adviesraden en van raadgevende comités bij intern verzelfstandigde agentschappen",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1015720/VolledigDocument?datum=2007-05-03",
+  "source_sha256": "b95fba2b8fa7dbfc04da01e9be553f320b37f107e35fd66daf6bb1c076ee3e95",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1015720&param=informatie",
+  "as_of": "2007-05-03",
+  "made": "2007-03-09",
+  "gazette": "2007-04-23",
+  "numac": 2007035564,
+  "document_start": "2007-05-03",
+  "document_end": null,
+  "in_force": "2007-05-03",
+  "article_versions": 16,
+  "record_form": "consolidated version as in force on 2007-05-03; oldest version available; future article versions excluded; article text as the API gives it"
+}
