@@ -2,16 +2,16 @@
   "codex_id": 1007274,
   "title": "Ministerieel besluit van 2000-04-21 houdende bepaling van de vorm der beslissingen inzake aanvragen van een stedenbouwkundige vergunning volgens het decreet betreffende de ruimtelijke ordening, gecoördineerd op 22 oktober 1996",
   "type": "Ministerieel besluit",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1007274/VolledigDocument?datum=2006-06-01",
-  "source_sha256": "55b9e95a41ee4a9f05b11f7dcb36921593b4cb7ee5c99724c146b141d50a23ea",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1007274/VolledigDocument?datum=2007-05-04",
+  "source_sha256": "f76a0777af1a52f25cdedcaa0dcac70b57be6888ae084ba84b6d15b36badce9c",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1007274&param=informatie",
-  "as_of": "2006-06-01",
+  "as_of": "2007-05-04",
   "made": "2000-04-21",
   "gazette": "2000-05-19",
   "numac": 2000035466,
   "document_start": "2000-05-01",
   "document_end": "2007-05-03",
-  "in_force": "2006-06-01",
+  "in_force": "2007-05-04",
   "article_versions": 6,
-  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2007-05-04; future article versions excluded; article text as the API gives it"
 }
