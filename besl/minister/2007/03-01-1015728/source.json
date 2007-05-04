@@ -1,0 +1,17 @@
+{
+  "codex_id": 1015728,
+  "title": "Ministerieel besluit van 2007-03-01 houdende de bepaling van de vorm van de beslissingen over aanvragen van een stedenbouwkundige vergunning volgens het decreet betreffende de ruimtelijke ordening, gecoördineerd op 22 oktober 1996",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1015728/VolledigDocument?datum=2007-05-04",
+  "source_sha256": "19dd7b3449e418ca608f6fe53c14906a5e78a6e6932e2c451a0f5f0d0d62d51d",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1015728&param=informatie",
+  "as_of": "2007-05-04",
+  "made": "2007-03-01",
+  "gazette": "2007-04-24",
+  "numac": 2007035560,
+  "document_start": "2007-05-04",
+  "document_end": "2009-08-31",
+  "in_force": "2007-05-04",
+  "article_versions": 12,
+  "record_form": "consolidated version as in force on 2007-05-04; oldest version available; future article versions excluded; article text as the API gives it"
+}
