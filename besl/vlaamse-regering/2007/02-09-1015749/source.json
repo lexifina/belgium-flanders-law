@@ -1,0 +1,17 @@
+{
+  "codex_id": 1015749,
+  "title": "Besluit van de Vlaamse Regering van 2007-02-09 betreffende de preventie van de veteranenziekte op publiek toegankelijke plaatsen (citeeropschrift: \"het Legionellabesluit\")",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1015749/VolledigDocument?datum=2007-05-04",
+  "source_sha256": "3c01115a308b93adec5a83b4c5d86fe2395407a33cd9412a92bccd189ac0f338",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1015749&param=informatie",
+  "as_of": "2007-05-04",
+  "made": "2007-02-09",
+  "gazette": "2007-05-04",
+  "numac": 2007035393,
+  "document_start": "2007-05-04",
+  "document_end": null,
+  "in_force": "2007-05-04",
+  "article_versions": 50,
+  "record_form": "consolidated version as in force on 2007-05-04; oldest version available; future article versions excluded; article text as the API gives it"
+}
