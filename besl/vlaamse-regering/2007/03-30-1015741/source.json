@@ -1,0 +1,17 @@
+{
+  "codex_id": 1015741,
+  "title": "Besluit van de Vlaamse Regering van 2007-03-30 houdende de erkenning van de dagcentra voor palliatieve verzorging",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1015741/VolledigDocument?datum=2007-05-10",
+  "source_sha256": "bd149ef7d8428358d32ff5a8fe80f27ee562f3e7b74a9166fa5b6aa49aa4e670",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1015741&param=informatie",
+  "as_of": "2007-05-10",
+  "made": "2007-03-30",
+  "gazette": "2007-04-30",
+  "numac": 2007035598,
+  "document_start": "2007-05-10",
+  "document_end": null,
+  "in_force": "2007-05-10",
+  "article_versions": 8,
+  "record_form": "consolidated version as in force on 2007-05-10; oldest version available; future article versions excluded; article text as the API gives it"
+}
