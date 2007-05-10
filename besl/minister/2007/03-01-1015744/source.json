@@ -1,0 +1,17 @@
+{
+  "codex_id": 1015744,
+  "title": "Ministerieel besluit van 2007-03-01 houdende de bepaling van de vorm van de beslissingen over verkavelingsaanvragen volgens het decreet betreffende de ruimtelijke ordening, gecoördineerd op 22 oktober 1996",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1015744/VolledigDocument?datum=2007-05-10",
+  "source_sha256": "2882a43ba4a5ba02d3948d3d8e94e7bb0b0a71cd32d96aa8300ed6dd19b908db",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1015744&param=informatie",
+  "as_of": "2007-05-10",
+  "made": "2007-03-01",
+  "gazette": "2007-04-30",
+  "numac": 2007035566,
+  "document_start": "2007-05-10",
+  "document_end": "2009-08-31",
+  "in_force": "2007-05-10",
+  "article_versions": 16,
+  "record_form": "consolidated version as in force on 2007-05-10; oldest version available; future article versions excluded; article text as the API gives it"
+}
