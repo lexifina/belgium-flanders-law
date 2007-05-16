@@ -60,6 +60,10 @@ In artikel 27 van hetzelfde besluit wordt punt 2° opgeheven.<br />
 
 In hetzelfde besluit wordt bijlage II vervangen door de bijlage die bij dit besluit is gevoegd.<br />
 
+### ART. 15.
+
+Het besluit van de Vlaamse Regering van 1 oktober 2004 tot toekenning van steun aan ondernemingen voor ecologie-investeringen in het Vlaamse Gewest en de latere wijzigingen ervan, houden op van kracht te zijn op 16 mei 2007.<br />
+
 ### ART. 16.
 
 Het besluit, vermeld in artikel 15 en de latere wijzigingen ervan, blijven van toepassing op de subsidieaanvragen die ingediend zijn vanaf de datum van inwerkingtreding van dit besluit.<br />
