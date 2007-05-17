@@ -1,0 +1,17 @@
+{
+  "codex_id": 1015753,
+  "title": "Ministerieel besluit van 2007-04-20 tot aanwijzing van de secretarissen en plaatsvervangende secretarissen van de pachtprijzencommissies",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1015753/VolledigDocument?datum=2007-05-17",
+  "source_sha256": "3e2d2ef99f348470cf127ca440df14e49ef04d211298aff6bbcd648c427e2fa0",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1015753&param=informatie",
+  "as_of": "2007-05-17",
+  "made": "2007-04-20",
+  "gazette": "2007-05-07",
+  "numac": 2007035610,
+  "document_start": "2007-05-17",
+  "document_end": "2010-05-02",
+  "in_force": "2007-05-17",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2007-05-17; oldest version available; future article versions excluded; article text as the API gives it"
+}
