@@ -1,0 +1,17 @@
+{
+  "codex_id": 1024559,
+  "title": "Ministerieel besluit van 2014-05-28 tot wijziging van het besluit van de Vlaamse Regering van 16 mei 2007 tot toekenning van steun aan ondernemingen voor ecologie-investeringen in het Vlaamse Gewest, het besluit van de Vlaamse Regering van 17 december 2010 tot toekenning van steun aan ondernemingen voor ecologie-investeringen in het Vlaamse Gewest en het besluit van de Vlaamse Regering van 16 november 2012 tot toekenning van steun aan ondernemingen voor strategische ecologie-investeringen in het Vlaamse Gewest, wat betreft de ter beschikking stelling aan derden van elektrische laadpalen",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1024559/VolledigDocument?datum=2007-05-17",
+  "source_sha256": "438308212e418bc1a0b9c2ef1d9ca5d8a6eec104dbfc8ff9bdac103c565f8e58",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1024559&param=informatie",
+  "as_of": "2007-05-17",
+  "made": "2014-05-28",
+  "gazette": "2014-09-16",
+  "numac": 2014035754,
+  "document_start": "2014-09-26",
+  "document_end": null,
+  "in_force": "2007-05-17",
+  "article_versions": 2,
+  "record_form": "consolidated version as in force on 2007-05-17; oldest version available; future article versions excluded; article text as the API gives it"
+}
