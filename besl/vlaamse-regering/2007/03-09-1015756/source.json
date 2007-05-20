@@ -1,0 +1,17 @@
+{
+  "codex_id": 1015756,
+  "title": "Besluit van de Vlaamse Regering van 2007-03-09 houdende de gedeeltelijke herverdeling van het provisionele krediet met betrekking tot het economische herstelbeleid, ingeschreven onder de basisallocatie 00.17 van het programma 24.6 van de algemene uitgavenbegroting van de Vlaamse Gemeenschap voor het begrotingsjaar 2007",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1015756/VolledigDocument?datum=2007-05-20",
+  "source_sha256": "06737cc310c6d6cac0efa7140e54f1123fc36449ddbaf1d278006f39b44805a5",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1015756&param=informatie",
+  "as_of": "2007-05-20",
+  "made": "2007-03-09",
+  "gazette": "2007-05-10",
+  "numac": 2007035633,
+  "document_start": "2007-05-20",
+  "document_end": null,
+  "in_force": "2007-05-20",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2007-05-20; oldest version available; future article versions excluded; article text as the API gives it"
+}
