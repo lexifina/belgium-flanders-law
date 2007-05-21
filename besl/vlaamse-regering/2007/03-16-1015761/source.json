@@ -1,0 +1,17 @@
+{
+  "codex_id": 1015761,
+  "title": "Besluit van de Vlaamse Regering van 2007-03-16 betreffende het beheer van terugvorderbare voorschotten die verleend zijn aan fokkersverenigingen",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1015761/VolledigDocument?datum=2007-05-21",
+  "source_sha256": "62f25f0148f63abb367a99e2b230d63f983e99f23a94d27ebee82985fc126e67",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1015761&param=informatie",
+  "as_of": "2007-05-21",
+  "made": "2007-03-16",
+  "gazette": "2007-05-11",
+  "numac": 2007035643,
+  "document_start": "2007-05-21",
+  "document_end": null,
+  "in_force": "2007-05-21",
+  "article_versions": 7,
+  "record_form": "consolidated version as in force on 2007-05-21; oldest version available; future article versions excluded; article text as the API gives it"
+}
