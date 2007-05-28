@@ -1,0 +1,17 @@
+{
+  "codex_id": 1015770,
+  "title": "Besluit van de Vlaamse Regering van 2007-04-27 tot aanduiding van de activiteiten waarvoor een individueel bodempreventie- en bodembeheersplan moet worden voorgelegd aan de OVAM",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1015770/VolledigDocument?datum=2007-05-28",
+  "source_sha256": "31ce0ff3bc5a1629fdd887c1e79f0607593651d91ae45ede91d4bbd5e1c304d9",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1015770&param=informatie",
+  "as_of": "2007-05-28",
+  "made": "2007-04-27",
+  "gazette": "2007-05-18",
+  "numac": 200702024,
+  "document_start": "2007-05-28",
+  "document_end": null,
+  "in_force": "2007-05-28",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2007-05-28; oldest version available; future article versions excluded; article text as the API gives it"
+}
