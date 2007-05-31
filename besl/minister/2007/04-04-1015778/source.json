@@ -1,0 +1,17 @@
+{
+  "codex_id": 1015778,
+  "title": "Ministerieel besluit van 2007-04-04 tot bepaling van de richtlijnen op basis van het besluit van de Vlaamse Regering van 4 juni 2004 houdende de toekenning van subsidies aan toeristische verenigingen voor de tewerkstelling van personeelsleden",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1015778/VolledigDocument?datum=2007-05-31",
+  "source_sha256": "84e4ed3d74d4e8696ff53dbdc59544097eb1a9187dddcbed569574da182844ae",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1015778&param=informatie",
+  "as_of": "2007-05-31",
+  "made": "2007-04-04",
+  "gazette": "2007-05-21",
+  "numac": 2007035662,
+  "document_start": "2007-05-31",
+  "document_end": null,
+  "in_force": "2007-05-31",
+  "article_versions": 7,
+  "record_form": "consolidated version as in force on 2007-05-31; oldest version available; future article versions excluded; article text as the API gives it"
+}
