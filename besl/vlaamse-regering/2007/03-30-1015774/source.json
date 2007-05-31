@@ -1,0 +1,17 @@
+{
+  "codex_id": 1015774,
+  "title": "Besluit van de Vlaamse Regering van 2007-03-30 houdende verdeling van het provisioneel krediet ingeschreven onder basisallocatie 00.31 van het programma 24.60, begrotingsjaar 2007",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1015774/VolledigDocument?datum=2007-05-31",
+  "source_sha256": "9742d61cedfc9af915824dbc5132b605e9ff285f8d0ef94157b98ebd6d001f5d",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1015774&param=informatie",
+  "as_of": "2007-05-31",
+  "made": "2007-03-30",
+  "gazette": "2007-05-21",
+  "numac": 2007035634,
+  "document_start": "2007-05-31",
+  "document_end": null,
+  "in_force": "2007-05-31",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2007-05-31; oldest version available; future article versions excluded; article text as the API gives it"
+}
