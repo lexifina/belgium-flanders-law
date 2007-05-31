@@ -1,0 +1,17 @@
+{
+  "codex_id": 1016031,
+  "title": "Besluit van de Vlaamse Regering van 2007-06-15 tot wijziging van het besluit van de Vlaamse Regering van 14 december 1994 tot vaststelling van de voorwaarden en de wijze waarop de commissarissen van de Vlaamse Regering bij de investeringsmaatschappijen in dienst worden genomen",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1016031/VolledigDocument?datum=2007-05-31",
+  "source_sha256": "5f2469cba5b5cc81e319cf1e346d4dfe9bb00a10c893df411b4ac9d08d48988e",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1016031&param=informatie",
+  "as_of": "2007-05-31",
+  "made": "2007-06-15",
+  "gazette": "2007-08-03",
+  "numac": 2007036276,
+  "document_start": "2007-05-31",
+  "document_end": null,
+  "in_force": "2007-05-31",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2007-05-31; oldest version available; future article versions excluded; article text as the API gives it"
+}
