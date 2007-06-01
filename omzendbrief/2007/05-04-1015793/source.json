@@ -1,0 +1,17 @@
+{
+  "codex_id": 1015793,
+  "title": "Omzendbrief van 2007-05-04 BB 2007/03 over de toepassing van artikel 200 van het Gemeentedecreet en van artikel 193 van het Provinciedecreet over de man-vrouwverhouding in adviesraden en overlegstructuren",
+  "type": "Omzendbrief",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1015793/VolledigDocument?datum=2007-06-01",
+  "source_sha256": "cc5e06d6af4bc478a98c438cd380180983a7e98f76c225f4856e68019f63719b",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1015793&param=informatie",
+  "as_of": "2007-06-01",
+  "made": "2007-05-04",
+  "gazette": "2007-05-22",
+  "numac": 2007035751,
+  "document_start": "2007-06-01",
+  "document_end": null,
+  "in_force": "2007-06-01",
+  "article_versions": 1,
+  "record_form": "consolidated version as in force on 2007-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
