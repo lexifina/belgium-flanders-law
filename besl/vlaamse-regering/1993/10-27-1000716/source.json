@@ -2,16 +2,16 @@
   "codex_id": 1000716,
   "title": "Besluit van de Vlaamse Regering van 1993-10-27 houdende uitvoering van het koninklijk besluit nr. 474 van 28 oktober 1986 tot opzetting van een stelsel van door de Staat gesubsidieerde contractuelen bij sommige plaatselijke besturen",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1000716/VolledigDocument?datum=2006-06-01",
-  "source_sha256": "5b4250f977b05a3879c89cf74151d652b247c6aad6246d32e0cf42f24e640300",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1000716/VolledigDocument?datum=2007-06-01",
+  "source_sha256": "7e536f98d6d1b3990372acc22d19595f5551800fead2a9f38009e8ab66198dfd",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1000716&param=informatie",
-  "as_of": "2006-06-01",
+  "as_of": "2007-06-01",
   "made": "1993-10-27",
   "gazette": "1993-12-23",
   "numac": 1993036401,
   "document_start": "1993-11-01",
   "document_end": "2025-06-30",
-  "in_force": "2006-06-01",
+  "in_force": "2007-06-01",
   "article_versions": 30,
-  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2007-06-01; future article versions excluded; article text as the API gives it"
 }
