@@ -1,0 +1,17 @@
+{
+  "codex_id": 1015976,
+  "title": "Besluit van de Vlaamse Regering van 2007-06-29 tot wijziging van het besluit van de Vlaamse Regering van 27 oktober 1993 houdende uitvoering van het koninklijk besluit nr. 474 van 28 oktober 1986 tot opzetting van een stelsel van door de Staat gesubsidieerde contractuelen bij sommige plaatselijke besturen",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1015976/VolledigDocument?datum=2007-06-01",
+  "source_sha256": "072e5baadab7691cab7ff00fa05b8a5d22292a35661e18be59ed102f9ff7270a",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1015976&param=informatie",
+  "as_of": "2007-06-01",
+  "made": "2007-06-29",
+  "gazette": "2007-07-20",
+  "numac": 2007036134,
+  "document_start": "2007-06-01",
+  "document_end": null,
+  "in_force": "2007-06-01",
+  "article_versions": 5,
+  "record_form": "consolidated version as in force on 2007-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
