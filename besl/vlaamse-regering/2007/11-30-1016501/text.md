@@ -1,0 +1,21 @@
+# Besluit van de Vlaamse Regering van 2007-11-30 tot wijziging van het besluit van de Vlaamse Regering van 3 oktober 2003 betreffende de toekenning van subsidies voor het toepassen van milieuvriendelijke landbouwproductiemethoden en het in stand houden van de genetische diversiteit
+
+### Aanhef
+
+De Vlaamse Regering,<br /><br />Gelet op het decreet van 17 maart 1998 houdende diverse beleidsbepalingen, inzonderheid op artikel 10;<br /><br />Gelet op het decreet van 3 maart 2004 inzake de subsidiëring van meer duurzame landbouwproductiemethoden en de erkenning van centra voor meer duurzame landbouw, gewijzigd bij het decreet van 22 april 2005;<br /><br />Gelet op het besluit van de Vlaamse Regering van 3 oktober 2003 betreffende de toekenning van subsidies voor het toepassen van milieuvriendelijke landbouwproductiemethoden en het in stand houden van de genetische diversiteit, gewijzigd bij de besluiten van de Vlaamse Regering van 18 maart 2005, 25 november 2005 en 28 april 2006;<br /><br />Gelet op het advies van de Inspectie van Financiën, gegeven op 19 september 2007;<br /><br />Gelet op de uiterst dringende noodzakelijkheid;<br /><br />Overwegende dat de betrokken veetelers vanaf midden 2007 geconfronteerd zijn met een uitbraak van blauwtong die op dit ogenblik leidt tot een enorme sterfte bij schapen,<br /><br />dat op dit ogenblik de bedrijven die een overeenkomst hebben met de vzw Steunpunt Levend Erfgoed (SLE) of de VZW Kleine Herkauwers Vlaanderen (KHV) in uitvoering van het programma voor plattelandsontwikkeling door de enorme sterfte de verbintenissen niet kunnen naleven, <br /><br />dat om een sanctionering, met name de terugvordering van de uitgekeerde subsidies, te voorkomen en aldus het voortbestaan van de landbouwbedrijven die de kweek van die rassen als activiteit hebben niet verder in het gedrang te brengen en deze bedrijven rechtszekerheid te bieden, moet de bestaande regelgeving nog dit jaar worden aangepast; <br /><br />Op voorstel van de Vlaamse minister van Institutionele Hervormingen, Havens, Landbouw, Zeevisserij en Plattelandsbeleid;<br /><br />Na beraadslaging,<br /><br />Besluit : <br /><br />
+
+### ART. 1.
+
+In artikel 12 van het besluit van de Vlaamse Regering van 3 oktober 2003 betreffende de toekenning van subsidies voor het toepassen van milieuvriendelijke landbouwproductiemethoden en het in stand houden van de genetische diversiteit worden de volgende wijzigingen aangebracht :<br />1° in het eerste lid worden tussen de woorden « beëindigd wegens » de woorden « of opgeschort » ingevoegd;<br />2° het derde lid wordt vervangen door wat volgt : <br />« In geval van overmacht kan beslist worden dat de verbintenis voor het betreffende jaar, geheel of gedeeltelijk, niet hoeft te worden uitgevoerd. » <br />3° het vierde lid wordt vervangen door wat volgt :<br />« De verbintenis in kwestie moet dan vanaf het volgende jaar voor de nog resterende looptijd volledig verder worden uitgevoerd. »<br /><br />
+
+### ART. 2.
+
+In artikel 12 van het besluit van de Vlaamse Regering van 3 oktober 2003 betreffende de toekenning van subsidies voor het toepassen van milieuvriendelijke landbouwproductiemethoden en het in stand houden van de genetische diversiteit worden tussen het vierde en het vijfde lid drie nieuwe leden ingevoegd, die luiden als volgt : <br />« Als, in afwijking van het vierde lid, een volledige uitvoering om reden van overmacht niet mogelijk blijkt, moet de verbintenis in kwestie vanaf het volgende jaar voor de nog resterende looptijd gedeeltelijk verder worden uitgevoerd. Als, in afwijking van het vierde lid, een gedeeltelijke uitvoering om reden van overmacht niet mogelijk blijkt, eindigt de verbintenis in kwestie.<br /><br />In geval van overmacht wordt er geen gedeeltelijke of volledige terugbetaling gevraagd van de subsidie toegekend voor voorafgaande jaren.<br /><br />Met uitzondering van de overmacht, vermeld in artikel 12, eerste lid, 6°, wordt voor het jaar waarvoor overmacht is erkend, geen subsidie uitbetaald. »<br /><br />
+
+### ART. 3.
+
+Dit besluit heeft uitwerking met ingang van 1 juni 2007.<br /><br />
+
+### ART. 4.
+
+De Vlaamse minister, bevoegd voor het landbouwbeleid, is belast met de uitvoering van dit besluit.<br /><br />
