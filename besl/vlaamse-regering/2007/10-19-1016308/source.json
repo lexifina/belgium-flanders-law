@@ -2,16 +2,16 @@
   "codex_id": 1016308,
   "title": "Besluit van de Vlaamse Regering van 2007-10-19 tot wijziging van het besluit van de Vlaamse Regering van 15 juli 2005 betreffende de erkenning en financiering van de invoegbedrijven",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1016308/VolledigDocument?datum=2006-01-01",
-  "source_sha256": "d34da8e2edfc28a9f05432ca4b58b81313df77aa5f9ac1a419d1dd00d4b5fa10",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1016308/VolledigDocument?datum=2007-06-01",
+  "source_sha256": "7fb7849d3812b29f9b99a17d694ebe1895265bb004e22fed05f406791b281551",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1016308&param=informatie",
-  "as_of": "2006-01-01",
+  "as_of": "2007-06-01",
   "made": "2007-10-19",
   "gazette": "2007-11-06",
   "numac": 2007036897,
   "document_start": null,
   "document_end": null,
-  "in_force": "2006-01-01",
-  "article_versions": 2,
-  "record_form": "consolidated version as in force on 2006-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "in_force": "2007-06-01",
+  "article_versions": 7,
+  "record_form": "consolidated version as in force on 2007-06-01; future article versions excluded; article text as the API gives it"
 }
