@@ -116,31 +116,13 @@ De minister bepaalt de vrijstellingen bedoeld in de artikelen 21 en 22 evenals d
 
 ### ART. 24bis.
 
-[§ 1. In de gevallen waarin aan het gebouw eisen worden opgelegd betreffende het E-peil,verstrekt de verslaggever de aangifteplichtige gelijktijdig met de EPB-aangifte, een energieprestatiecertificaat dat, overeenkomstig artikel 28, § 1, tweede en derde lid van het Energieprestatiedecreet, de volgende onderdelen bevat:<br>
-1° de datum van ingebruikneming van het gebouw;<br>
-2° het resultaat van de berekening van de energieprestatie van het gebouw zoals vermeld in de EPB-aangifte;<br>
-3° referentiewaarden met betrekking tot geldende minimumeisen en benchmarks, of een verwijzing ernaar;<br>
-4° eventuele aanbevelingen voor de kostenefficiënte verbetering van de energieprestatie van het gebouw.<br>
-<br>
-Ook in de gevallen, vermeld in artikel 30, waarin van de E-peileis mag worden afgeweken, wordt er door de verslaggever een energieprestatiecertificaa verstrekt.<br>
-<br>
-§2. De opmaak van het energieprestatiecertificaat gebeurt op basis van software die ter beschikking wordt gesteld door de administratie.<br>
-<br>
-De minister bepaalt de nadere regels tot vaststelling van de vorm van het energieprestatiecertificaat.<br>
-<br>
-§3. Indien de aangifteplichtige op het ogenblik van de aflevering van het energieprestatiecertificaat niet de eigenaar is van het gebouw in kwestie, bezorgt hij het energieprestatiecertificaat aan de eigenaar van het gebouw.<br>
-<br>
-§4. Het energieprestatiecertificaat heeft een geldigheidsduur van tien jaar, die aanvangt op de datum van ingebruikneming van het gebouw.<br>
-<br>
-§5. Als een gebouw waarvoor een nog geldig energieprestatiecertificaat werd aangemaakt, wordt verkocht, overhandigt de verkoper dat energieprestatiecertificaat aan de koper.<br>
-<br>
-§6. Indien bij de controle, vermeld in artikel 21 van het Energieprestatiedecreet, blijkt dat de EPB-aangifte niet met de werkelijkheid overeenstemt, vervalt het energieprestatiecertificaat in kwestie. Indien een nieuwe EPB-aangifte wordt ingediend, wordt ook een nieuw energieprestatiecertificaat verstrekt (ing. BVR 2 december 2005, art. 1, I: 12 februari 2006)].
+§ 1. In de gevallen waarin aan het gebouw eisen worden opgelegd betreffende het E-peil,verstrekt de verslaggever de aangifteplichtige gelijktijdig met de EPB-aangifte, een energieprestatiecertificaat dat, overeenkomstig artikel 28, § 1, tweede en derde lid van het Energieprestatiedecreet, de volgende onderdelen bevat:<br />1° de datum van ingebruikneming van het gebouw;<br />2° het resultaat van de berekening van de energieprestatie van het gebouw zoals vermeld in de EPB-aangifte;<br />3° referentiewaarden met betrekking tot geldende minimumeisen en benchmarks, of een verwijzing ernaar;<br />4° eventuele aanbevelingen voor de kostenefficiënte verbetering van de energieprestatie van het gebouw.<br /><br />Ook in de gevallen, vermeld in artikel 30, waarin van de E-peileis mag worden afgeweken, wordt er door de verslaggever een energieprestatiecertificaa verstrekt.<br /><br />§ 2. De opmaak van het energieprestatiecertificaat gebeurt op basis van software die ter beschikking wordt gesteld door de administratie.<br /><br />De minister bepaalt de nadere regels tot vaststelling van de vorm en de inhoud van het energieprestatiecertificaat.<br /><br />§ 3. Indien de aangifteplichtige op het ogenblik van de aflevering van het energieprestatiecertificaat niet de eigenaar is van het gebouw in kwestie, bezorgt hij het energieprestatiecertificaat aan de eigenaar van het gebouw.<br /><br />§ 4. Het energieprestatiecertificaat heeft een geldigheidsduur van tien jaar, die aanvangt op de datum van ingebruikneming van het gebouw.<br /><br />§ 5. Als een gebouw waarvoor een nog geldig energieprestatiecertificaat werd aangemaakt, wordt verkocht, overhandigt de verkoper dat energieprestatiecertificaat aan de koper.<br /><br />§ 6. Indien bij de controle, vermeld in artikel 21 van het Energieprestatiedecreet, blijkt dat de EPB-aangifte niet met de werkelijkheid overeenstemt, vervalt het energieprestatiecertificaat in kwestie. Indien een nieuwe EPB-aangifte wordt ingediend, wordt ook een nieuw energieprestatiecertificaat verstrekt.
 
 ## HOOFDSTUK V UITVOERINGS- EN HANDHAVINGSMAATREGELEN
 
 ### ART. 25.
 
-De minister bepaalt de nadere regels tot vaststelling van de vorm en inhoud van de EPB-aangifte en de startverklaring. <br />
+De minister bepaalt de nadere regels tot vaststelling van de vorm en inhoud en de wijze van indienen van de EPB-aangifte en de startverklaring. <br />
 
 ### ART. 26.
 
