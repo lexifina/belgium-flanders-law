@@ -1,0 +1,17 @@
+{
+  "codex_id": 1016472,
+  "title": "Besluit van de Vlaamse Regering van 2007-11-23 tot regeling van de vergoedingen van de regeringsafgevaardigden die toezicht uitoefenen bij de Vlaamse Maatschappij voor Watervoorziening",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1016472/VolledigDocument?datum=2007-06-08",
+  "source_sha256": "97df41637c6a08429723e2c4c54f1b16c99c2c9861b6ba0903194f2b186719a4",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1016472&param=informatie",
+  "as_of": "2007-06-08",
+  "made": "2007-11-23",
+  "gazette": "2008-01-07",
+  "numac": 2007037307,
+  "document_start": "2007-06-08",
+  "document_end": null,
+  "in_force": "2007-06-08",
+  "article_versions": 8,
+  "record_form": "consolidated version as in force on 2007-06-08; oldest version available; future article versions excluded; article text as the API gives it"
+}
