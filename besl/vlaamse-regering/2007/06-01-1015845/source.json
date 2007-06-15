@@ -1,0 +1,17 @@
+{
+  "codex_id": 1015845,
+  "title": "Besluit van de Vlaamse Regering van 2007-06-01 houdende de uitvoering van het decreet van 11 mei 2007 houdende het statuut van de sportschutter",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1015845/VolledigDocument?datum=2007-06-15",
+  "source_sha256": "bba2e7fd094eb546bbd4dfef2b62364c7f580a0540910cf3c8ff3b7778c7f19b",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1015845&param=informatie",
+  "as_of": "2007-06-15",
+  "made": "2007-06-01",
+  "gazette": "2007-06-15",
+  "numac": 2007035901,
+  "document_start": "2007-06-15",
+  "document_end": null,
+  "in_force": "2007-06-15",
+  "article_versions": 28,
+  "record_form": "consolidated version as in force on 2007-06-15; oldest version available; future article versions excluded; article text as the API gives it"
+}
