@@ -1,0 +1,17 @@
+{
+  "codex_id": 1015952,
+  "title": "Besluit van de Vlaamse Regering van 2007-06-15 tot wijziging van het besluit van de Vlaamse Regering van 1 december 1998 tot vaststelling van de regeling omtrent de afwezigheden, de tucht, de administratieve standen, het verlof, de mandaatbeëindiging, het onderzoek van de lichamelijke geschiktheid en het geneeskundig toezicht voor het academisch personeel bij de universiteiten in de Vlaamse Gemeenschap",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1015952/VolledigDocument?datum=2007-06-15",
+  "source_sha256": "d2ce1f7e997f888b723445d13f8fd3ceec65b0c4b0e2daa47d10ccfd8a47347d",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1015952&param=informatie",
+  "as_of": "2007-06-15",
+  "made": "2007-06-15",
+  "gazette": "2007-07-12",
+  "numac": 2007036081,
+  "document_start": "2007-06-15",
+  "document_end": null,
+  "in_force": "2007-06-15",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2007-06-15; oldest version available; future article versions excluded; article text as the API gives it"
+}
