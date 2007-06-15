@@ -1,0 +1,17 @@
+{
+  "codex_id": 1015819,
+  "title": "Decreet van 2007-05-11 houdende het statuut van de sportschutter",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1015819/VolledigDocument?datum=2007-06-15",
+  "source_sha256": "8200e189974a17cca5a74b644cddba677f9e289df1a34902ab42dc0c3915b814",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1015819&param=informatie",
+  "as_of": "2007-06-15",
+  "made": "2007-05-11",
+  "gazette": "2007-06-08",
+  "numac": 2007035873,
+  "document_start": "2007-06-15",
+  "document_end": null,
+  "in_force": "2007-06-15",
+  "article_versions": 19,
+  "record_form": "consolidated version as in force on 2007-06-15; oldest version available; future article versions excluded; article text as the API gives it"
+}
