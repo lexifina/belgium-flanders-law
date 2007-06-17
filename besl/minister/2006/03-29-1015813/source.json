@@ -1,0 +1,17 @@
+{
+  "codex_id": 1015813,
+  "title": "Ministerieel besluit van 2006-03-29 tot vaststelling van de gelijkwaardigheid van de gedragscode voor uitzendbureaus in het Vlaamse Gewest",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1015813/VolledigDocument?datum=2007-06-17",
+  "source_sha256": "16d9e8ed9e73eaa00449341ac00998e9a9104de1168b06c04cd45a739957e60a",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1015813&param=informatie",
+  "as_of": "2007-06-17",
+  "made": "2006-03-29",
+  "gazette": "2007-06-07",
+  "numac": 2007035834,
+  "document_start": "2007-06-17",
+  "document_end": "2011-05-19",
+  "in_force": "2007-06-17",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2007-06-17; oldest version available; future article versions excluded; article text as the API gives it"
+}
