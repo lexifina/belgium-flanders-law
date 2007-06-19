@@ -2,16 +2,16 @@
   "codex_id": 1011501,
   "title": "Besluit van de Vlaamse Regering van 2003-06-20 houdende de vaststelling van de statuten van de naamloze vennootschap van publiek recht Beheersmaatschappij Antwerpen Mobiel",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1011501/VolledigDocument?datum=2006-06-01",
-  "source_sha256": "55858cd99a6c6e59558011e45c6147679f58c63fe5c00789accc37b08f24ba35",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1011501/VolledigDocument?datum=2007-06-19",
+  "source_sha256": "f312fe9f201a7a04d493af48b8d3a82a160e6e56e64a5e2939639d2087e0c567",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1011501&param=informatie",
-  "as_of": "2006-06-01",
+  "as_of": "2007-06-19",
   "made": "2003-06-20",
   "gazette": "2003-08-07",
   "numac": 2003035845,
   "document_start": "2003-08-07",
   "document_end": null,
-  "in_force": "2006-06-01",
+  "in_force": "2007-06-19",
   "article_versions": 36,
-  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2007-06-19; future article versions excluded; article text as the API gives it"
 }
