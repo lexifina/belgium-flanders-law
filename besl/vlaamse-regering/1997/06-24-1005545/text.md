@@ -132,51 +132,51 @@ Van elk opgevangen kind moeten de ouder(s) of een persoon die hen vervangt berei
 
 ### ART. 29.
 
-Op basis van vragen van ouders of gezinnen, of van hun vertegenwoordigers, van voorzieningen of van sociale partners, van de gemeentelijke gezins- of jeugdraad of van belanghebbende maatschappelijke groepen, gaat het gemeentebestuur op eigen initiatief of op verzoek van Kind en Gezin, over tot het opstarten van een lokaal overleg voor buitenschoolse opvang.
+...
 
 ### ART. 30.
 
-Als binnen een termijn van negentig dagen volgend op het verzoek van Kind en Gezin het gemeentebestuur geen lokaal overleg opstart, kan Kind en Gezin zelf het initiatief daartoe nemen. In voorkomend geval deelt Kind en Gezin dat aan het gemeentebestuur mee.
+...
 
 ### ART. 31.
 
-Het door het gemeentebestuur of door Kind en Gezin opgestarte lokaal overleg heeft de volgende opdrachten:<br /><br />1° de ontwikkeling van een lokaal beleidsplan zoals bepaald in artikel 4;<br /><br />2° advies verlenen over de oprichting van initiatieven in de gemeente; de keuze voor de uitbouw van één of meerdere voorzieningen moet in het beleidsplan gedefinieerd worden; als men afwijkt van de initieel omschreven rollen moet dit ook gemotiveerd worden in het beleidsplan;<br /><br />3° een jaarlijkse verslaggeving over en evaluatie van de lokale opvangsituatie en van het beleidsplan ten behoeve van de gemeenteraad en Kind en Gezin;<br /><br />4° het toekennen van een kwaliteitslabel aan voorzieningen zoals bepaald in artikel 5;<br /><br />5° het informeren van de ouders over het kwantitatieve en kwalitatieve opvangaanbod in de gemeente.
+...
 
 ### ART. 32.
 
-§ 1. Het lokaal overleg beslist bij eenvoudige meerderheid over het lokale beleidsplan en legt het ter goedkeuring voor aan de gemeenteraad.<br /><br />§ 2. Het beleidsplan wordt, samen met de beslissing van de gemeenteraad, uiterlijk 60 dagen na goedkeuring binnen het lokale overleg, aan Kind en Gezin opgestuurd.
+...
 
 ### ART. 33.
 
-§ 1. Het lokale overleg wordt ter uitvoering van het in artikel 29 en 30 bepaalde door het gemeentebestuur of zo nodig door Kind en Gezin als volgt samengesteld:<br /><br />1° alle bij de buitenschoolse opvangproblematiek betrokkenen worden uitgenodigd en in elk geval:<br /><br />a) een afgevaardigde van het organiserend bestuur van elke dienst voor opvanggezinnen en elk kinderdagverblijf werkzaam in de gemeente;<br /><br />b) een afgevaardigde van de particuliere opvanggezinnen;<br /><br />c) een afgevaardigde van de particuliere opvanginstellingen;<br /><br />d) een afgevaardigde van het gemeentebestuur;<br /><br />e) een afgevaardigde van het OCMW-bestuur;<br /><br />f) een afgevaardigde van het plaatselijk jeugdwerk;<br /><br />g) een afgevaardigde van het organiserend bestuur van elk initiatief voor buitenschoolse opvang;<br /><br />h) een afgevaardigde van de gemeentelijke jeugddienst;<br /><br />i) een afgevaardigde van het organiserend bestuur of de directie van elke basisschool in de gemeente;<br /><br />j) een vertegenwoordiging, ten belope van maximum een derde van de leden, van de ouders via de Bond van Grote en van Jonge Gezinnen, de gemeentelijke gezinsraad, de oudervereniging(en) van de scho(o)l(en), ...;<br /><br />2° een persoon die geen enkele binding heeft met welke voorziening ook die in de gemeente een buitenschoolse opvangfunctie vervult of kan vervullen, wordt door het gemeentebestuur of zo nodig door Kind en Gezin als voorzitter voorgedragen en binnen het lokale overleg bij eenvoudige meerderheid bekrachtigd;<br /><br />3° Kind en Gezin stelt een afgevaardigde aan die het lokale overleg opvolgt en begeleidt.<br /><br />Deze afgevaardigde is niet stemgerechtigd;<br /><br />4° het gemeentebestuur of zo nodig Kind en Gezin stelt een secretaris aan die het administratieve secretariaat van het lokale overleg waarneemt. Deze secretaris is niet stemgerechtigd.<br /><br />5° om de drie jaar wordt het voorzitterschap van het lokale overleg, na advies van dit overleg, door het gemeentebestuur, of zo nodig door Kind en Gezin, hernieuwd of bevestigd.<br /><br />§ 2. In afwijking van het in § 1 bepaalde, wordt - ter uitvoering van het in artikel 29 en 30 bepaalde - voor het Brussels Hoofdstedelijk Gewest het lokale overleg, door het college van de Vlaamse Gemeenschapscommissie, of zo nodig door Kind en Gezin, als volgt samengesteld:<br /><br />1° alle bij de buitenschoolse opvangproblematiek betrokkenen worden uitgenodigd en in elk geval:<br /><br />a) een afgevaardigde van het organiserend bestuur van elke dienst voor opvanggezinnen en elk kinderdagverblijf werkzaam in het Brussels Hoofdstedelijk Gewest;<br /><br />b) een afgevaardigde van de particuliere opvanggezinnen;<br /><br />c) een afgevaardigde van de particuliere opvanginstellingen;<br /><br />d) drie afgevaardigden van het college van de Vlaamse Gemeenschapscommissie;<br /><br />e) een afgevaardigde van het Brussels Nederlandstalig jeugdwerk;<br /><br />f) een afgevaardigde van de diverse koepels van het Nederlandstalig basisonderwijs;<br /><br />g) een vertegenwoordiger van de ouders via de Bond van Grote en van Jonge Gezinnen en een vertegenwoordiger van de diverse koepels van ouderverenigingen;<br /><br />2° het bevoegde collegelid, of zo nodig Kind en Gezin, draagt een persoon die geen enkele binding heeft met welke voorziening ook die een buitenschoolse opvangfunctie vervult of kan vervullen als voorzitter voor, en deze voordracht wordt binnen het lokale overleg bij eenvoudige meerderheid bekrachtigd;<br /><br />3° Kind en Gezin stelt een afgevaardigde aan die het lokale overleg opvolgt en begeleidt. Deze afgevaardigde is niet stemgerechtigd;<br /><br />4° een ambtenaar uit de bevoegde directie van de administratie van de Vlaamse Gemeenschapscommissie die het secretariaat van het lokale overleg waarneemt;<br /><br />5° om de drie jaar wordt het voorzitterschap van het lokale overleg, na advies van dit overleg, door het college van de Vlaamse Gemeenschapscommissie, of zo nodig door Kind en Gezin, hernieuwd of bevestigd.
+...
 
 ### ART. 34.
 
-Het lokale overleg komt ten minste twee maal per jaar samen.
+...
 
 ### ART. 35.
 
-De afgevaardigde van Kind en Gezin - aangesteld luidens artikel 33, 3° - brengt een formeel advies uit aan Kind en Gezin over het goedgekeurde lokale beleidsplan; hij stuurt terzelfder tijd een afschrift van dit advies naar het gemeentebestuur en naar de voorzitter van het lokale overleg.
+...
 
 ### ART. 36.
 
-Het gemeentebestuur en de voorzitter van het lokale overleg kunnen het advies van de afgevaardigde van Kind en Gezin aanvechten bij Kind en Gezin binnen een termijn van 30 dagen na ontvangst ervan. Op hun verzoek kunnen zij daartoe door Kind en Gezin worden gehoord.
+...
 
 ### ART. 37.
 
-Kind en Gezin verleent zijn goedkeuring aan of keurt het ingediende lokale beleidsplan af binnen een termijn van 90 dagen, ingevolge hetgeen bepaald in artikel 32, § 2.<br /><br />Kind en Gezin kan bij de goedkeuring opmerkingen en aanbevelingen formuleren.<br /><br />Een afkeuring door Kind en Gezin is slechts mogelijk indien het beleidsplan wezenlijke vorm- of inhoudelijke gebreken vertoont. De afkeuring wordt uitvoerig gemotiveerd.
+...
 
 ### ART. 38.
 
-Kind en Gezin maakt een handleiding op die binnen het lokale overleg kan worden gebruikt om de werkzaamheden te stroomlijnen.
+...
 
 ### ART. 39.
 
-Het lokale overleg kan na grondige motivering opgesplitst worden per deelgemeente of per functioneel deel van een gemeente. In dit geval ziet elk lokaal overleg toe op de eenheid van het lokale beleidsplan voor het geheel van de gemeente.
+...
 
 ### ART. 40.
 
-Voor het Brussels Hoofdstedelijk Gewest kunnen de taken van het gemeentebestuur en de gemeenteraad worden opgenomen door respectievelijk het College en de Raad van de Vlaamse Gemeenschapscommissie.
+...
 
 ## TITEL IV OVERGANGS- EN SLOTBEPALINGEN
 
