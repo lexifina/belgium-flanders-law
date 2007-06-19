@@ -24,6 +24,10 @@
 
 ## AFDELING 1 INRICHTING, TAKEN EN BEVOEGDHEDEN
 
+### ART. 19.
+
+§ 1. Onverminderd het bepaalde in andere decreten en uitvoeringsbesluiten daarvan, vindt binnen elk Regionaal Sociaal-economisch Overlegcomité het overleg tussen de sociale partners, de gemeentebesturen en het provinciebestuur inzake de sociaal-economische streekontwikkeling plaats.<br /><br />Een nader overleg vindt verplicht plaats over het voornemen van een gemeente, een provincie, of een daarvan afhangende rechtspersoon, om deel te nemen aan een Brownfieldproject, als bedoeld in artikel 3 van het decreet van 21 maart 2007 betreffende de Brownfieldconvenanten. Het overleg streeft naar een in consensus en unanimiteit geformuleerd voorstel over ten minste :<br />1° de doelstellingen en de methodologie van het Brownfieldproject;<br />2° de wijze van terugkoppeling, door het betrokken bestuur, over de voortgang van het Brownfieldproject.<br /><br />Bij het in het tweede lid bedoelde nader overleg worden de erkende milieu- en natuurverenigingen als overlegpartner betrokken.<br /><br />§ 2. Naast het overleg bedoeld in de eerste paragraaf, kan binnen elk Regionaal Sociaal-economisch Overlegcomité, hetzij op eigen initiatief, hetzij op verzoek van één van zijn leden, nader overleg plaatsvinden over alle bovenlokale en lokale beleidsaangelegenheden die een sociaal-economische dimensie hebben.<br />
+
 ## AFDELING 2 SAMENSTELLING
 
 ## AFDELING 3 HUISHOUDELIJK REGLEMENT

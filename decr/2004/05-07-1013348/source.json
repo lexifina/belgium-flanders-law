@@ -2,16 +2,16 @@
   "codex_id": 1013348,
   "title": "Decreet van 2004-05-07 betreffende het statuut, de werking, de taken en de bevoegdheden van de erkende regionale samenwerkingsverbanden, de sociaal-economische raden van de regio en de regionale sociaal-economische overlegcomités",
   "type": "Decreet",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1013348/VolledigDocument?datum=2006-06-01",
-  "source_sha256": "8bae74fe7c50e73a84d2cfbc4b85a3962597bdbc076abff6e7596ba0fc79d6c1",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1013348/VolledigDocument?datum=2007-06-19",
+  "source_sha256": "eebff0a5f3b31e33500882112baca9e59c0df375b66cc96cbafc83760608ba6b",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1013348&param=informatie",
-  "as_of": "2006-06-01",
+  "as_of": "2007-06-19",
   "made": "2004-05-07",
   "gazette": "2004-08-25",
   "numac": 2004036335,
   "document_start": "2007-10-22",
   "document_end": null,
-  "in_force": "2006-06-01",
-  "article_versions": 2,
-  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "in_force": "2007-06-19",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2007-06-19; future article versions excluded; article text as the API gives it"
 }
