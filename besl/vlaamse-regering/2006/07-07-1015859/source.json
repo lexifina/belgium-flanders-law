@@ -1,0 +1,17 @@
+{
+  "codex_id": 1015859,
+  "title": "Besluit van de Vlaamse Regering van 2006-07-07 houdende de goedkeuring van de wijziging van de statuten van de naamloze vennootschap van publiek recht Beheersmaatschappij Antwerpen Mobiel d.d. 13 maart 2006",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1015859/VolledigDocument?datum=2007-06-19",
+  "source_sha256": "0fc0e30f0a1908e4582a120c7336cfafcdc200ab53279ce8f95a85940d041f67",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1015859&param=informatie",
+  "as_of": "2007-06-19",
+  "made": "2006-07-07",
+  "gazette": "2007-06-19",
+  "numac": 2007035805,
+  "document_start": "2007-06-19",
+  "document_end": null,
+  "in_force": "2007-06-19",
+  "article_versions": 5,
+  "record_form": "consolidated version as in force on 2007-06-19; oldest version available; future article versions excluded; article text as the API gives it"
+}
