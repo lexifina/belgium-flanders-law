@@ -1,0 +1,17 @@
+{
+  "codex_id": 1016045,
+  "title": "Ministerieel besluit van 2007-07-20 houdende de samenstelling van de Kerngroep Participatie",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1016045/VolledigDocument?datum=2007-06-25",
+  "source_sha256": "c10eb7ac3ca102ebeee08ee3cd03b08de2a513e902b7a631bfb5e1178dab283f",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1016045&param=informatie",
+  "as_of": "2007-06-25",
+  "made": "2007-07-20",
+  "gazette": "2007-08-07",
+  "numac": 2007036306,
+  "document_start": "2007-06-25",
+  "document_end": null,
+  "in_force": "2007-06-25",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2007-06-25; oldest version available; future article versions excluded; article text as the API gives it"
+}
