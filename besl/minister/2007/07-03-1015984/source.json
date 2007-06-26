@@ -1,0 +1,17 @@
+{
+  "codex_id": 1015984,
+  "title": "Ministerieel besluit van 2007-07-03 tot wijziging van het ministerieel besluit van 15 februari 2006 tot bepaling van de standaard voor de titel van platwever",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1015984/VolledigDocument?datum=2007-06-26",
+  "source_sha256": "5e5d550d5c3add517c18ac379332b3a7c941b9101235668608ec26ba65ca120c",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1015984&param=informatie",
+  "as_of": "2007-06-26",
+  "made": "2007-07-03",
+  "gazette": "2007-07-24",
+  "numac": 2007036175,
+  "document_start": "2007-06-26",
+  "document_end": null,
+  "in_force": "2007-06-26",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2007-06-26; oldest version available; future article versions excluded; article text as the API gives it"
+}
