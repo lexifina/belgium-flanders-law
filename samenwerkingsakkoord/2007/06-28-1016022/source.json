@@ -1,0 +1,17 @@
+{
+  "codex_id": 1016022,
+  "title": "Samenwerkingsakkoord van 2007-06-28 tussen de federale Overheid, het Vlaamse Gewest, het Waalse Gewest en het Brussels Hoofdstedelijk Gewest betreffende de toekenning van de middelen uit het tijdelijk herstructureringsfonds overeenkomstig Verordening (EG) nr. 320/2006 in het kader van de stopzetting van de inulinestroopproductie",
+  "type": "Samenwerkingsakkoord",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1016022/VolledigDocument?datum=2007-06-27",
+  "source_sha256": "e6f5175501bf28d8d790a51611af2efa27e498b0635670dade160f72b681c416",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1016022&param=informatie",
+  "as_of": "2007-06-27",
+  "made": "2007-06-28",
+  "gazette": "2007-08-02",
+  "numac": 2007036262,
+  "document_start": "2007-06-27",
+  "document_end": null,
+  "in_force": "2007-06-27",
+  "article_versions": 22,
+  "record_form": "consolidated version as in force on 2007-06-27; oldest version available; future article versions excluded; article text as the API gives it"
+}
