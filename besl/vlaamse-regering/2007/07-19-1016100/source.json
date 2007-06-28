@@ -1,0 +1,17 @@
+{
+  "codex_id": 1016100,
+  "title": "Besluit van de Vlaamse Regering van 2007-07-19 tot wijziging van het besluit van Vlaamse Regering van 29 september 2006 tot vaststelling van de regels voor het algemene personeelsbeleid en het specifieke personeelsbeleid in de diensten van de Vlaamse overheid en in de Vlaamse openbare instellingen",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1016100/VolledigDocument?datum=2007-06-28",
+  "source_sha256": "457caa3b8ea9dae86cc7318cccafe86afdb587a6cffa504421a7efe6d5a85ade",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1016100&param=informatie",
+  "as_of": "2007-06-28",
+  "made": "2007-07-19",
+  "gazette": "2007-08-24",
+  "numac": 2007036438,
+  "document_start": "2007-06-28",
+  "document_end": null,
+  "in_force": "2007-06-28",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2007-06-28; oldest version available; future article versions excluded; article text as the API gives it"
+}
