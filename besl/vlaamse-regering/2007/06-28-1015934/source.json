@@ -1,0 +1,17 @@
+{
+  "codex_id": 1015934,
+  "title": "Besluit van de Vlaamse Regering van 2007-06-28 tot wijziging van het besluit van de Vlaamse Regering van 27 juli 2004 tot bepaling van de bevoegdheden van de leden van de Vlaamse Regering",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1015934/VolledigDocument?datum=2007-06-28",
+  "source_sha256": "04ef23a62789d538fd5688a1cab3e27e6d5f5d43c358eebe9f373d9792bf48ff",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1015934&param=informatie",
+  "as_of": "2007-06-28",
+  "made": "2007-06-28",
+  "gazette": "2007-07-03",
+  "numac": 2007036029,
+  "document_start": "2007-06-28",
+  "document_end": null,
+  "in_force": "2007-06-28",
+  "article_versions": 5,
+  "record_form": "consolidated version as in force on 2007-06-28; oldest version available; future article versions excluded; article text as the API gives it"
+}
