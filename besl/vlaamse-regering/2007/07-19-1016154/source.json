@@ -1,0 +1,17 @@
+{
+  "codex_id": 1016154,
+  "title": "Besluit van de Vlaamse Regering van 2007-07-19 tot wijziging van het besluit van de Vlaamse Regering van 27 april 2007 tot oprichting en samenstelling van het toezichtcomité ter implementatie van het Vlaams Programma voor Plattelandsontwikkeling voor de periode 2007-2013",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1016154/VolledigDocument?datum=2007-06-28",
+  "source_sha256": "1b3da1dcf72a284931f73c671c429a6bf0a6ad423314791c222e0569c79d2ea3",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1016154&param=informatie",
+  "as_of": "2007-06-28",
+  "made": "2007-07-19",
+  "gazette": "2007-09-14",
+  "numac": 2007036562,
+  "document_start": "2007-06-28",
+  "document_end": null,
+  "in_force": "2007-06-28",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2007-06-28; oldest version available; future article versions excluded; article text as the API gives it"
+}
