@@ -1,0 +1,17 @@
+{
+  "codex_id": 1015863,
+  "title": "Besluit van de Vlaamse Regering van 2007-04-27 betreffende steun aan investeringen in de omkaderingssector van land- en tuinbouw",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1015863/VolledigDocument?datum=2007-06-29",
+  "source_sha256": "af7e5a0a6b505e8c6c240c91402d082c76b3ab6370bf231c340b6ab87ea4ee42",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1015863&param=informatie",
+  "as_of": "2007-06-29",
+  "made": "2007-04-27",
+  "gazette": "2007-06-19",
+  "numac": 2007035742,
+  "document_start": "2007-06-29",
+  "document_end": null,
+  "in_force": "2007-06-29",
+  "article_versions": 14,
+  "record_form": "consolidated version as in force on 2007-06-29; oldest version available; future article versions excluded; article text as the API gives it"
+}
