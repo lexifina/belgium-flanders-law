@@ -2,16 +2,16 @@
   "codex_id": 1007547,
   "title": "Decreet van 2000-07-17 houdende het Geografisch Informatie Systeem Vlaanderen",
   "type": "Decreet",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1007547/VolledigDocument?datum=2006-06-01",
-  "source_sha256": "c702671d7f537645c4a82dbc4132c483e267038e372bcce274cff6c572335264",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1007547/VolledigDocument?datum=2007-06-29",
+  "source_sha256": "9a42131dda70e265f9d652a034947438688aae276add17fe0e9e51839bad6699",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1007547&param=informatie",
-  "as_of": "2006-06-01",
+  "as_of": "2007-06-29",
   "made": "2000-07-17",
   "gazette": "2000-09-02",
   "numac": 2000035847,
   "document_start": null,
   "document_end": "2999-12-31",
-  "in_force": "2006-06-01",
+  "in_force": "2007-06-29",
   "article_versions": 27,
-  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2007-06-29; future article versions excluded; article text as the API gives it"
 }

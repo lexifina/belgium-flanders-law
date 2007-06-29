@@ -22,7 +22,7 @@ Er wordt een samenwerkingsverband Geografisch Informatie Systeem Vlaanderen opge
 
 ### ART. 5.
 
-GIS-Vlaanderen bestaat uit het Vlaamse Gewest, de Vlaamse Gemeenschap, alle Vlaamse openbare instellingen, de provincies en de gemeenten, hierna de deelnemers aan GIS-Vlaanderen te noemen.
+GIS-Vlaanderen bestaat uit het Vlaamse Gewest, de Vlaamse Gemeenschap, alle intern verzelfstandigde agentschappen met rechtspersoonlijkheid, alle publiekrechtelijk vormgegeven extern verzelfstandigde agentschappen, alle privaatrechtelijk vormgegeven extern verzelfstandigde agentschappen, alle Vlaamse openbare instellingen, de provincies en de gemeenten, hierna de deelnemers aan GIS-Vlaanderen te noemen.
 
 ### ART. 6.
 
