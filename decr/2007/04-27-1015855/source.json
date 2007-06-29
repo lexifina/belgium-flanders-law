@@ -1,0 +1,17 @@
+{
+  "codex_id": 1015855,
+  "title": "Decreet van 2007-04-27 tot wijziging van het decreet van 3 februari 1998 houdende vaststelling van het wapen van privé-personen en instellingen",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1015855/VolledigDocument?datum=2007-06-29",
+  "source_sha256": "9098609ee61e9d28ae38b64e620961ae469defc4d1032329f53a9dda761114a4",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1015855&param=informatie",
+  "as_of": "2007-06-29",
+  "made": "2007-04-27",
+  "gazette": "2007-06-19",
+  "numac": 2007035775,
+  "document_start": "2007-06-29",
+  "document_end": null,
+  "in_force": "2007-06-29",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2007-06-29; oldest version available; future article versions excluded; article text as the API gives it"
+}
