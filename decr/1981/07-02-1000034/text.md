@@ -370,49 +370,37 @@ b. nuttig mag toepassen. (verv. decr. 20 april 1994, art. 4, I: 7 mei 1994) ]
 
 ### ART. 24.
 
-[In afwijking van artikel 14, § 6, maar onverminderd artikel 11, mogen gevaarlijke afvalstoffen enkel nuttig toegepast worden in inrichtingen die over een milieuvergunning beschikken als bedoeld in het decreet van 28 juni 1985 betreffende de milieuvergunning. (verv. decr. 20 april 1994, art. 4, I: 7 mei 1994) ]
+...
 
 ## [AFDELING 5 DIERLIJK AFVAL (ing. decr. 20 april 1994, art. 4)]
 
 ### ART. 25.
 
-[Het is verboden zich van dierlijk afval te ontdoen anders dan overeenkomstig de regels vastgesteld door de Vlaamse regering ter uitvoering van de desbetreffende bepalingen van Europees recht. (verv. decr. 20 april 1994, art. 4, I: 7 mei 1994) ]
+Het is verboden zich op een andere wijze van dierlijk afval te ontdoen dan overeenkomstig de bepalingen van Verordening (EG) nr. 1774/2002 van het Europees Parlement en de Raad van 3 oktober 2002 tot vaststelling van gezondheidsvoorschriften inzake niet voor menselijke consumptie bestemde dierlijke bijproducten.<br /><br />De Vlaamse Regering kan nadere regels bepalen betreffende het beheer van afvalstoffen ter aanvulling of uitvoering van de Verordening, vermeld in het vorige lid.
 
 ### ART. 26.
 
-[§ 1. In afwijking van het bepaalde in artikel 17, § 2, zijn de voortbrengers van dierlijk afval ertoe gehouden om het door de Vlaamse regering als hoog-risicomateriaal aangewezen dierlijk afval alleen ten melden aan een voor de ophaling hiervan erkende inrichting.<br>
-<br>
-§ 2. Behoudens in de gevallen uitdrukkelijk door de Vlaamse regering uitgezonderd, is alleen de verwijdering van het in § 1 bedoelde dierlijk afval door afgifte aan een erkende inrichting toegestaan. (verv. decr. 20 april 1994, art. 4, I: 7 mei 1994) ]
+In afwijking van het bepaalde in artikel 17, § 2, en behoudens in de gevallen die uitdrukkelijk bepaald zijn door de Vlaamse Regering, zijn de voortbrengers van dierlijk afval ertoe gehouden die afvalstoffen alleen te melden aan een inrichting die erkend is voor de ophaling ervan.<br /><br />Behoudens in de gevallen die uitdrukkelijk bepaald zijn door de Vlaamse Regering, is alleen de verwijdering van dierlijk afval door afgifte aan een erkende inrichting toegestaan.
 
 ### ART. 27.
 
-[§ 1. Het door de Vlaamse regering als hoog-risicomateriaal aangewezen dierlijk afval wordt opgehaald en verwerkt door de door de Vlaamse regering hiertoe erkende inrichtingen.<br>
-<br>
-§ 2. In de door de Vlaamse regering bepaalde gevallen kunnen de toezichthoudende ambtenaren zo nodig besluiten dat dit afval moet worden verwijderd door verbranding of begraving.<br>
-<br>
-§ 3. De erkende inrichtingen melden jaarlijks de ophalingen die zij ter uitvoering van deze bepaling hebben verricht aan de OVAM. (verv. decr. 20 april 1994, art. 4, I: 7 mei 1994) ]
+Dierlijk afval wordt opgehaald en verwerkt door de hiertoe erkende of geregistreerde inrichtingen. De Vlaamse Regering bepaalt de regels betreffende de erkenning en registratie.<br /><br />In de door de Vlaamse Regering bepaalde gevallen kunnen de toezichthoudende ambtenaren zo nodig besluiten dat dit afval kan of moet worden verwijderd door verbranding of begraving.<br /><br />De erkende inrichtingen melden jaarlijks aan de OVAM de ophalingen die ze ter uitvoering van deze bepaling hebben verricht.
 
 ### ART. 28.
 
-[§ 1. De Vlaamse regering wijst de categorieën van voortbrengers van dierlijk afval als bedoeld in artikel 26 aan, die gehouden zijn met een in artikel 27, § 1, bedoelde erkende inrichting een overeenkomst te sluiten voor de ophaling van dit afval.<br>
-<br>
-§ 2. Wanneer niet voldaan is aan het bepaalde in § 1 wordt dit afval door de erkende inrichting opgehaald tegen vergoeding per prestatie. In de erkenning bepaalt de bevoegde overheid de maximum tarieven die in zodanig geval mogen worden toegepast.<br>
-<br>
-§ 3. De ophaling van dierlijk afval als bedoeld in artikel 26 bij andere personen dan bedoeld in § 1 geschiedt kosteloos. De Vlaamse regering bepaalt de voorwaarden waaronder de erkende inrichtingen voor deze prestaties worden vergoed lastens het Vlaamse Gewest. (verv. decr. 20 april 1994, art. 4, I:7 mei 1994) ]<br>
-<br>
-[§ 4. Aanvullend op de vergoedingen vermeld in § 3, kan de Vlaamse regering een vergoeding toekennen voor andere handelingen van beheer van dierlijk afval. De Vlaamse regering bepaalt de voorwaarden waaronder de in het kader van beheer van dierlijk afval verrichte prestaties worden vergoed lastens het Vlaamse gewest. (ing. decr. 13 juli 2001, art. 2, I: 18 augustus 2001) ]
+De Vlaamse Regering wijst de categorieën van voortbrengers van dierlijk afval aan, die ertoe gehouden zijn een overeenkomst te sluiten voor de ophaling van dat dierlijk afval met een erkende inrichting als vermeld in artikel 27, eerste lid.<br /><br />Als niet voldaan is aan de voorwaarden, vermeld in het eerste lid, wordt dit afval door de erkende inrichting opgehaald tegen vergoeding per prestatie. In de erkenning kan de bevoegde overheid de maximumtarieven bepalen die in een dergelijk geval mogen worden toegepast.<br /><br />De ophaling van dierlijk afval, als het dode landbouwdieren betreft, bij andere personen dan vermeld in het eerste lid, geschiedt kosteloos. De Vlaamse Regering bepaalt de voorwaarden waaronder de erkende inrichtingen voor die prestaties worden vergoed door het Vlaamse Gewest.<br /><br />Aanvullend op de vergoedingen vermeld in het derde lid, kan de Vlaamse Regering een vergoeding toekennen voor andere handelingen van beheer van dierlijk afval. De Vlaamse Regering bepaalt de voorwaarden waaronder de in het kader van beheer van dierlijk afval verrichte prestaties worden vergoed lastens het Vlaamse Gewest.
 
 ### ART. 29.
 
-[In het Vlaamse Gewest worden de in artikel 42, § 3, van de wet van 14 augustus 1986 betreffende de bescherming en het welzijn der dieren, bedoelde dieren, afgehaald door een erkende inrichting als bedoeld in artikel 27, § 1. (verv. decr. 20 april 1994, art. 4, I: 7 mei 1994) ]
+...
 
 ### ART. 30.
 
-[In het Vlaamse Gewest zijn op het vlees dat voor consumptie door de mens ongeschikt werd be-vonden of verklaard overeenkomstig de wet van 5 september 1952 betreffende de vleeskeuring en de vleeshandel, de voorschriften van toepassing vastgesteld in uitvoering van deze afdeling. (verv. decr. 20 april 1994, art. 4, I: 7 mei 1994) ]
+...
 
 ### ART. 31.
 
-[In het Vlaamse gewest zijn op de dieren en gedeelten van dieren, die bij de keuring voor consumptie door de mens ongeschikt worden bevonden of verklaard overeenkomstig de wet van 15 april 1965 betreffende de keuring van en de handel in vis, gevogelte, konijnen en wild, de voorschriften van toepassing vastgesteld in uitvoering van deze afdeling, voor zover het afvalstoffen betreft, als bedoeld in artikel 2, 1°, van dit decreet. (verv. decr. 20 april 1994, art. 4, I:7 mei 1994) ]
+...
 
 ## [AFDELING 6 BIJZONDERE AFVALSTOFFEN (ing. decr. 20 april 1994, art. 4)]
 
