@@ -2,16 +2,16 @@
   "codex_id": 1015856,
   "title": "Decreet van 2007-05-25 houdende diverse bepalingen inzake leefmilieu, energie en openbare werken",
   "type": "Decreet",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1015856/VolledigDocument?datum=2007-05-01",
-  "source_sha256": "6dca6128706159cc795d72fdae38b441d063e33bf4a5c99d0928259ae36f2641",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1015856/VolledigDocument?datum=2007-06-29",
+  "source_sha256": "20fca4f3365af2cf79cfa66db600447ae93e44f6866fb2c513996e74daf0402a",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1015856&param=informatie",
-  "as_of": "2007-05-01",
+  "as_of": "2007-06-29",
   "made": "2007-05-25",
   "gazette": "2007-06-19",
   "numac": 2007035897,
   "document_start": null,
   "document_end": null,
-  "in_force": "2007-05-01",
-  "article_versions": 4,
-  "record_form": "consolidated version as in force on 2007-05-01; future article versions excluded; article text as the API gives it"
+  "in_force": "2007-06-29",
+  "article_versions": 50,
+  "record_form": "consolidated version as in force on 2007-06-29; future article versions excluded; article text as the API gives it"
 }
