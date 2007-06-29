@@ -1,0 +1,17 @@
+{
+  "codex_id": 1015866,
+  "title": "Besluit van de Vlaamse Regering van 2007-05-16 tot wijziging van het besluit van de Vlaamse Regering van 8 oktober 2004 betreffende de subsidiëring van projecten inzake ontwikkelingseducatie",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1015866/VolledigDocument?datum=2007-06-29",
+  "source_sha256": "867a4ad816e2c76e2d6350e2fe9fccb70f36eb68a7c12dde7863c36576e41c8e",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1015866&param=informatie",
+  "as_of": "2007-06-29",
+  "made": "2007-05-16",
+  "gazette": "2007-06-19",
+  "numac": 2007035845,
+  "document_start": "2007-06-29",
+  "document_end": null,
+  "in_force": "2007-06-29",
+  "article_versions": 7,
+  "record_form": "consolidated version as in force on 2007-06-29; oldest version available; future article versions excluded; article text as the API gives it"
+}
