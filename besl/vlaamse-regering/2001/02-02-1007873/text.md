@@ -4,7 +4,7 @@
 
 ### ART. 1.
 
-§ 1. Voor de toepassing van dit besluit staat "examencommissie" voor de examencommissie belast met de organisatie van het toelatingsexamen tot de opleidingen van arts en tandarts, ingesteld bij het decreet van 24 juli 1996 houdende wijziging van het decreet van 12 juni 1991 betreffende de universiteiten in de Vlaamse Gemeenschap.<br /><br />§ 2. De examencommissie is autonoom bevoegd om te beslissen in verband met alle aangelegenheden die noch door het decreet van 24 juli 1996, noch door onderhavig besluit vastgesteld zijn.
+§ 1. Voor de toepassing van dit besluit staat "examencommissie" voor de examencommissie belast met de organisatie van het toelatingsexamen tot de opleidingen van arts en tandarts, ingesteld bij artikel 68 van het decreet van 4 april 2003 betreffende de herstructurering van het hoger onderwijs in Vlaanderen.<br /><br />§ 2. De examencommissie is autonoom bevoegd om te beslissen in verband met alle aangelegenheden die noch door het decreet van 4 april 2003, noch door onderhavig besluit vastgesteld zijn.
 
 ## HOOFDSTUK II NADERE REGELS MET BETREKKING TOT DE INHOUD VAN DE EXAMENGEDEELTEN
 
@@ -52,7 +52,7 @@ Een kandidaat die deelneemt aan het toelatingsexamen maar op het einde van het k
 
 ### ART. 11.
 
-De zetel van de examencommissie is gevestigd op het adres van het directoraat-generaal van de administratie Hoger Onderwijs en Wetenschappelijk Onderzoek van het departement Onderwijs van het ministerie van de Vlaamse Gemeenschap. De voorzitter kan nochtans beslissen de vergaderingen van de examencommissie op een andere plaats te laten doorgaan.
+De zetel van de examencommissie is gevestigd op het adres van de afdeling Personeel en Instellingen Hoger Onderwijs van het Onderwijsdienstencentrum Hoger Onderwijs en Volwassenenonderwijs. De voorzitter kan nochtans beslissen de vergaderingen van de examencommissie op een andere plaats te laten doorgaan.
 
 ### ART. 12.
 
@@ -136,7 +136,7 @@ Alle documenten die betrekking hebben op de organisatie van een toelatingsexamen
 
 ### ART. 30.
 
-De leden van de examencommissie ontvangen per georganiseerde sessie van het toelatingsexamen een honorarium van 247,89 euro. In dat bedrag zijn de reis- en verblijfskosten begrepen, alsmede de vergoeding voor kleine onkosten.
+De voorzitter en de leden van de examencommissie ontvangen een honorarium. Dat honorarium is als volgt vastgesteld :<br />1° de voorzitter ontvangt 5000 euro per jaar;<br />2° de bijzonder expert ontvangt 3000 euro per jaar;<br />3° de experten op het vlak van de medische praktijk ontvangen 500 euro per georganiseerde sessie;<br />4° de andere leden ontvangen 380 euro per georganiseerde sessie.<br /><br />In die bedragen zijn de reis- en verblijfskosten begrepen, alsmede de vergoeding voor kleine onkosten. Vanaf het jaar 2008 worden de bedragen aangepast aan de jaarlijkse stijging van de index van de consumptieprijzen met als referentiedatum 1 januari 2007.
 
 ## HOOFSTUK X ANDERE BEPALINGEN
 
