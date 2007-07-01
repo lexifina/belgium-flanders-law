@@ -1,0 +1,17 @@
+{
+  "codex_id": 1016360,
+  "title": "Ministerieel besluit van 2007-08-24 tot vaststelling van het subsidiabele urencontingent 2007 van de dienst voor gezinszorg van de VZW Wit-Gele Kruis van Vlaanderen",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1016360/VolledigDocument?datum=2007-07-01",
+  "source_sha256": "ec71e2b30e95bd86e814477a2f45aec5419fd3ae8078ab25a0a966ad157654c0",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1016360&param=informatie",
+  "as_of": "2007-07-01",
+  "made": "2007-08-24",
+  "gazette": "2007-11-22",
+  "numac": 2007037020,
+  "document_start": "2007-07-01",
+  "document_end": null,
+  "in_force": "2007-07-01",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2007-07-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
