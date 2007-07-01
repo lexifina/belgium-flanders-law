@@ -152,10 +152,10 @@ Deze regelgeving valt onder de toepassing van Verordening (EG) nr. 2204/2002 van
 
 ### ART. 34.
 
-De Vlaamse minister, bevoegd voor de sociale economie, is belast met de uitvoering van dit besluit.
+...
 
 ## Bijlage 1
 
 ### Tekst
 
-Het refertebedrag wordt als volgt vastgesteld:<br /><br />voor totale loonkosten tussen:<br /><br />8.500 - 9.499 euro: refertebedrag 8.500 euro<br /><br />9.500 - 10.499 euro: refertebedrag 9.500 euro<br /><br />10.500 - 11.499 euro: refertebedrag 10.500 euro<br /><br />11.500 - 12.499 euro: refertebedrag 11.500 euro<br /><br />12.500 - 13.499 euro: refertebedrag 12.500 euro<br /><br />13.500 - 14.499 euro: refertebedrag 13.500 euro<br /><br />14.500 - 15.499 euro: refertebedrag 14.500 euro<br /><br />15.500 - 16.499 euro: refertebedrag 15.500 euro<br /><br />16.500 - 16.499 euro: refertebedrag 16.500 euro<br /><br />17.500 - 18.499 euro: refertebedrag 17.500 euro<br /><br />18.500 - 19.499 euro: refertebedrag 18.500 euro<br /><br />19.500 - 20.499 euro: refertebedrag 19.500 euro<br /><br />20.500 - 21.499 euro: refertebedrag 20.500 euro<br /><br />21.500 - 22.499 euro: refertebedrag 21.500 euro<br /><br />22.500 - 23.499 euro: refertebedrag 22.500 euro<br /><br />23.500 - 24.499 euro: refertebedrag 23.500 euro<br /><br />24.500 - 25.499 euro: refertebedrag 24.500 euro<br /><br />25.500 - 26.499 euro: refertebedrag 25.500 euro<br /><br />26.500 - 27.499 euro: refertebedrag 26.500 euro<br /><br />27.500 - 28.499 euro: refertebedrag 27.500 euro<br /><br />28.500 - 29.499 euro: refertebedrag 28.500 euro<br /><br />29.500 - 30.499 euro: refertebedrag 29.500 euro<br /><br />30.500 - 31.499 euro: refertebedrag 30.500 euro<br /><br />31.500 - 32.499 euro: refertebedrag 31.500 euro<br /><br />32.500 - 33.499 euro: refertebedrag 32.500 euro<br /><br />33.500 - 34.499 euro: refertebedrag 33.500 euro<br /><br />34.500 - 35.499 euro: refertebedrag 34.500 euro<br /><br />35.500 - 36.499 euro: refertebedrag 35.500 euro
+...
