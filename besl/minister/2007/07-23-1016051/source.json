@@ -1,0 +1,17 @@
+{
+  "codex_id": 1016051,
+  "title": "Ministerieel besluit van 2007-07-23 tot afwijking van de bepaling van kwalificatiebewijzen voor vakantieopvang",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1016051/VolledigDocument?datum=2007-07-01",
+  "source_sha256": "8fcf822837ef0dc7aae7314a3d4cba7b9263ead2640f5eaa189490b777b0b607",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1016051&param=informatie",
+  "as_of": "2007-07-01",
+  "made": "2007-07-23",
+  "gazette": "2007-08-07",
+  "numac": 2007036308,
+  "document_start": "2007-07-01",
+  "document_end": null,
+  "in_force": "2007-07-01",
+  "article_versions": 5,
+  "record_form": "consolidated version as in force on 2007-07-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
