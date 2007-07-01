@@ -156,23 +156,17 @@ De volgende centra en diensten kunnen erkend worden als multidisciplinair team:<
 
 De vergoeding voor het afleveren van een multidisciplinair verslag, met inbegrip van de gegevens, bedoeld in artikel 6, tweede lid, van het besluit van de Vlaamse regering van 15 december 2000 houdende vaststelling van de voorwaarden van toekenning van een persoonlijk assistentiebudget aan personen met een handicap, en met inbegrip van het adviesrapport, bedoeld in artikel 9, § 3, 6°, van het besluit van de Vlaamse regering van 13 juli 2001 tot vaststelling van de criteria, voorwaarden en refertebedragen van de tussenkomsten in de individuele materiële bijstand voor de sociale integratie van personen met een handicap, wordt vastgesteld op 210 euro.<br>
 <br>
-Dat bedrag wordt jaarlijks op 1 januari aangepast, rekening houdend met het indexcijfer der consumptieprijzen, bedoeld in hoofdstuk II van het koninklijk besluit van 24 december 1993 ter uitvoering van de wet van 6 januari 1989 tot vrijwaring van s lands concurrentievermogen, hierna G-index genoemd, volgens de formule:
-<table border="1" cellpadding="0" cellspacing="0" style="border-collapse:collapse">
-	<tbody>
-		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; vertical-align:top; width:198pt">
-			<p>basisbedrag x G-index december 200.<!--?xml:namespace prefix = o ns =         "urn:schemas-microsoft-com:office:office" /--></p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; vertical-align:top; width:198pt">
-			<p>109,23</p>
-			</td>
-		</tr>
-	</tbody>
-</table>
-
-<p>&nbsp;</p>
+Dat bedrag wordt jaarlijks op 1 januari aangepast, rekening houdend met het indexcijfer der consumptieprijzen, bedoeld in hoofdstuk II van het koninklijk besluit van 24 december 1993 ter uitvoering van de wet van 6 januari 1989 tot vrijwaring van s lands concurrentievermogen, hierna G-index genoemd, volgens de formule:<br>
+<br>
+basisbedrag x G-index december 200 / 109,23<br>
+<br>
+De vergoeding voor een multidisciplinair verslag dat met ingang van 1 juli 2007 wordt afgeleverd naar aanleiding van een aanvraag om bijstand die verband houdt met opvang, behandeling en begeleiding in een semi-residentiële of residentiële voorziening of door een ambulante voorziening, bedraagt 277,22 euro.<br>
+<br>
+De vergoeding voor het aanleveren van de gegevens, vermeld in artikel 6, tweede lid, van het besluit van de Vlaamse Regering van 15 december 2000 houdende vaststelling van de voorwaarden van toekenning van een persoonlijke-assistentiebudget aan personen met een handicap, bedraagt met ingang van 1 juli 2007 274,22 euro.<br>
+<br>
+De bedragen, vermeld in het derde en het vierde lid, worden jaarlijks op 1 januari aangepast, rekening houdend met het indexcijfer der consumptieprijzen, vermeld in hoofdstuk II van het koninklijk besluit van 24 december 1993 ter uitvoering van de wet van 6 januari 1999 tot vrijwaring van 's lands concurrentievermogen, hierna G-index te noemen, volgens de formule :<br>
+xmlns:w=<br>
+<br>
 Het agentschap neemt de in het eerste lid vastgestelde vergoeding ten laste op voorwaarde dat is voldaan aan de in artikel 24, § 1, 2°, § 2, 3° en § 3, 3° bedoelde minimale kwaliteitseisen.<br>
 <br>
 Noch het team of zijn inrichtende macht, noch de eraan verbonden medewerkers, mogen voor het opstellen van een multidisciplinair verslag een vergoeding of beloning vragen of aanvaarden, behalve die, bepaald in dit artikel.
