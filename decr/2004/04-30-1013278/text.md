@@ -2,17 +2,17 @@
 
 ### ART. 1.
 
-Dit decreet regelt een gemeenschapsaangelegenheid.
+...
 
 ## TITEL I ALGEMENE BEPALINGEN
 
 ### ART. 2.
 
-Dit decreet regelt het toekennen van studiefinanciering evenals de samenwerking tussen studie-financiering en studentenvoorzieningen, en de studentenmobiliteit.
+...
 
 ### ART. 3.
 
-De studiefinanciering heeft tot doel een bijdrage te leveren tot de democratisering van het hoger onderwijs door het wegwerken van financiële drempels.
+...
 
 ### ART. 4.
 
@@ -24,7 +24,7 @@ De studentenmobiliteit heeft tot doel de mobiliteit van alle studenten aan te mo
 
 ### ART. 6.
 
-In dit decreet wordt verstaan onder:<br /><br />1° academiejaar: periode van één jaar die ten vroegste op 1 september en uiterlijk op 1 oktober begint en eindigt op de dag voor het begin van het volgende academiejaar. [Als conform artikel 3, eerste streep, van het Structuurdecreet uitzonderlijk wordt afgeweken van bovenvermelde definitie, wordt voor de aanvraag van een studiefinanciering de opleiding die begint na 31 december en eindigt na 30 september beschouwd als behorend tot het academiejaar, zoals hierboven bepaald, waarin de opleiding eindigt;  <span class="reference">(ing. decr. 18 november 2005, art. 2, I: 1 juli 2005)</span> ]<br /><br />2° bachelorskrediet: een krediet voor studiefinanciering voor het volgen van een bachelorsopleiding zoals bepaald in artikel 12, §§ 1 tot en met 3, van het structuurdecreet, met uitzondering van bachelorsopleidingen die volgen op een andere ba-chelorsopleiding;<br /><br />3° buitenland: buiten het grondgebied van het Rijk;<br /><br />4° dienst: de dienst verantwoordelijk voor studiefinanciering en studentenvoorzieningen van het departement Onderwijs van het Ministerie van de Vlaamse Gemeenschap;<br /><br />5° Europese Hogeronderwijsruimte: alle Europese landen en regio's die ofwel de Bolognaverklaring, Joint declaration of the European Ministers of Education Convened in Bologna on the 19th of June 1999, hebben ondertekend ofwel na die datum hebben onderschreven en op een Bologna follow-up conferentie van Europese ministers bevoegd voor hoger onderwijs als lid van het Bolognaproces zijn aanvaard;<br /><br />6° fiscaal ten laste: ten laste volgens de artikelen 136 tot en met 145 van het Wetboek op de Inkomstenbelasting;<br /><br />7° gehuwden: gehuwden en wettelijk samenwonenden overeenkomstig [artikel 1476  <span class="reference">(verv. decr. 18 november 2005, art. 3, I: 1 juli 2005)</span> ] van het burgerlijk wetboek, zoals bepaald bij de wet van 23 november 1998 tot invoering van de wettelijke samenwoning;<br /><br />8° halftijds studietraject: een studietraject met een studieprogramma tussen 27 en 33 studiepunten;<br /><br />9° hoofdverblijfplaats: plaats waar een persoon in de bevolkingsregisters is ingeschreven;<br /><br />10° jokerkrediet: deel van het studiefinancieringskrediet dat onder welbepaalde voorwaarden kan worden opgenomen;<br /><br />11° kadastraal inkomen: het kadastraal inkomen overeenkomstig titel IX van het Wetboek van de inkomstenbelastingen;<br /><br />12° kadastraal inkomen vreemd gebruik: kadastraal inkomen van de onroerende goederen die noch [als eigen hoofdverblijfplaats,  <span class="reference">(verv. decr. 18 november 2005, art. 4, I: 1 juli 2005)</span> ] noch voor eigen beroepsdoeleinden worden gebruikt;<br /><br />13° kalenderjaar: periode van 1 januari tot en met 31 december;<br /><br />14° leefeenheid: één of meerdere meerderjarigen, ongeacht het geslacht, met eventueel één of meerdere minderjarigen die hun hoofdverblijfplaats hebben op hetzelfde adres;<br /><br />15° leefloon: uitkering overeenkomstig de wet van 26 mei 2002 betreffende het recht op maatschappelijke integratie;<br /><br />16° lerarenopleiding als vervolgopleiding: leraren-opleiding die niet georganiseerd wordt als een bachelorsopleiding en niet bekroond wordt met een Getuigschrift Pedagogische Bekwaamheid;<br /><br />17° masterskrediet: een krediet voor studiefinanciering voor het volgen van een mastersopleiding zoals bepaald in artikel 12, §§ 4 en 5, van het structuurdecreet met uitzondering van de mastersopleidingen die volgen op een mastersopleiding;<br /><br />18° meeneembaarheid van de studiefinanciering: het krijgen van een studiefinanciering voor een studieprogramma of opleiding gevolgd in een andere gemeenschap of in het buitenland;<br /><br />19° NARIC Vlaanderen: het National Academic (& Professional) Recognition and Information Centre opgericht in de schoot van de Vlaamse Gemeenschap;<br /><br />20° opgenomen studiepunten: deel van de opleiding, uitgedrukt in het totaal aantal studiepunten dat dit omvat, waarvoor een student zich aan een hogeronderwijsinstelling heeft ingeschreven;<br /><br />21° opleidingsonderdelen: begrip zoals gedefinieerd in artikel 3, achttiende streepje, van het structuurdecreet;<br /><br />22° structuurdecreet: het decreet van 4 april 2003 betreffende de herstructurering van het hoger onderwijs in Vlaanderen;<br /><br />23° studentenkoepelvereniging: de studentenkoepelvereniging in de zin van het decreet van 30 maart 1999 houdende de subsidiëring van studenten- en leerlingenkoepelverenigingen;<br /><br />24° studentenvoorzieningen: dienst of organisatie die instaat voor de voorzieningen ten behoeve van de studenten van het hoger onderwijs;<br /><br />25° uitschrijven: het vroegtijdig beëindigen van dat deel van de opleiding waarvoor de student zich voor het betrokken aca-demiejaar heeft ingeschreven, op schriftelijk verzoek van de student;<br /><br />26° verworven studiepunten: studiepunten waarvoor aan de student een creditbewijs of een vrijstelling werd verleend;<br /><br />27° voltijds studietraject: een studietraject met een studieprogramma tussen 54 en 66 studiepunten.
+In dit decreet wordt verstaan onder:<br />...<br />4° dienst: de dienst verantwoordelijk voor studiefinanciering en studentenvoorzieningen van het departement Onderwijs van het Ministerie van de Vlaamse Gemeenschap;<br />...<br />23° studentenkoepelvereniging: de studentenkoepelvereniging in de zin van het decreet van 30 maart 1999 houdende de subsidiëring van studenten- en leerlingenkoepelverenigingen;<br />24° studentenvoorzieningen: dienst of organisatie die instaat voor de voorzieningen ten behoeve van de studenten van het hoger onderwijs;<br /><br />...
 
 ## TITEL II STUDIEFINANCIERING
 
@@ -32,53 +32,53 @@ In dit decreet wordt verstaan onder:<br /><br />1° academiejaar: periode van é
 
 ### ART. 7.
 
-De Vlaamse regering verleent studiefinanciering aan minvermogende studenten in het hoger onderwijs, overeenkomstig de regelen die bij en krachtens dit decreet zijn vastgesteld.<br /><br />De studiefinanciering mag slechts worden gebruikt voor het dekken van de kosten voor het onderhoud van de student en het door hem gevolgde onderwijs.
+...
 
 ### ART. 8.
 
-Voor de toepassing van dit decreet wordt voor het bepalen van de nationaliteit en hoofdverblijfplaats, en de toestand van de leefeenheid rekening gehouden met de toestand op 31 december van het betrokken academiejaar.
+...
 
 ### ART. 9.
 
-Om in aanmerking te komen voor studiefinanciering, dient de student tegelijkertijd te voldoen aan de algemene, de pedagogische en de financiële voorwaarden, bepaald in hoofdstuk II tot en met VI van dit decreet.
+...
 
 ### ART. 10.
 
-De ambtenaren van de dienst kunnen alle inlichtingen inwinnen die zij nuttig achten voor de toepassing van dit decreet.
+...
 
 ## HOOFDSTUK II ALGEMENE VOORWAARDEN
 
 ### ART. 11.
 
-§ 1. Om in aanmerking te komen voor studiefinanciering dient de student te zijn ingeschreven voor een opleiding die:<br /><br />1° geaccrediteerd, erkend als nieuwe opleiding, of tijdelijk erkend is en georganiseerd wordt door een ambtshalve geregis-treerde instelling, zoals bepaald in artikel 7 van het structuurdecreet; of<br /><br />2° gevolgd wordt in een andere gemeenschap van België of in een ander land binnen of buiten de Europese Hogeronderwijsruimte, waarbij de opleiding door de bevoegde overheid in de betrokken gemeenschap of het betrokken land, is erkend, of waarbij de opleiding wordt gevolgd aan een door de bevoegde overheden erkende instelling.<br /><br />Wordt eveneens beschouwd als een opleiding die valt onder het toepassingsgebied van het eerste lid, 1°:<br /><br />1° de opleiding die valt onder het toepassingsgebied van artikel 56, § 2, van het structuurdecreet;<br /><br />2° de opleiding die in het verleden viel onder het toepassingsgebied van het eerste lid, 2°, en waarbij de erkenning van de opleiding of de instelling vervalt alvorens de student binnen de normale opleidingsduur de opleiding heeft voltooid ;<br /><br />[3° de opleiding die geaccrediteerd, erkend als nieuwe opleiding of tijdelijk erkend is en valt onder het toepassingsgebied van artikel 86 of artikel 94 van het Structuurdecreet.  <span class="reference">(ing. decr. 18 november 2005, art. 5, I: 1 juli 2005)</span> ]<br /><br />§ 2. In afwijking van § 1, eerste lid, 1°, komen de volgende opleidingen tevens in aanmerking voor het verkrijgen van een studiefinanciering:<br /><br />1° een voorbereidingsprogramma;<br /><br />2° een schakelprogramma;<br /><br />3° een lerarenopleiding als vervolgopleiding.
+...
 
 ### ART. 12.
 
-[Studiefinanciering kan worden toegekend aan studenten met de Belgische nationaliteit en aan de volgende<br /><br />categorieën van studenten die in België verblijven:<br /><br />1° kinderen van onderdanen van een lidstaat van de Europese Economische Ruimte die op basis van een arbeidsovereenkomst gedurende een periode van twee jaar en uiterlijk 31 december van het academiejaar in kwestie minstens twaalf maanden minstens 32 uur per maand in België werken of hebben gewerkt en die zich kunnen beroepen op artikel 12 van Verordening (EEG) 1612/68 van de Raad van 15 oktober 1968 betreffende het vrije verkeer van werknemers binnen de Unie, en kinderen van onderdanen van een lidstaat van de Europese Economische Ruimte die gedurende een periode van twee jaar en uiterlijk 31 december van het academiejaar in kwestie in België werkzaamheden anders dan in loondienst verrichten of hébben verricht op basis van een inschrijving in de Kruispuntbank voor Ondernemingen of in het handelsregister;<br /><br />2° onderdanen van een lidstaat van de Europese Economische Ruimte die op basis van een arbeidsovereenkomst gedurende een periode van twee jaar onmiddellijk voorafgaand aan 31 december van het academiejaar in kwestie minstens twaalf maanden minstens 32 uur per maand in België werken of hebben gewerkt en die zich kunnen beroepen op artikel 7 van Verordening (EEG) 1612/68 van de Raad van 15 oktober 1968 betreffende het vrije verkeer van werknemers binnen de Unie, en onderdanen van een lidstaat van de Europese Economische Ruimte die gedurende een periode van twee jaar onmiddellijk voorafgaand aan 31 december van het academiejaar in kwestie in België werkzaamheden anders dan in loondienst verrichten of hebben verricht op basis van een inschrijving in de Kruispuntbank voor Ondernemingen;<br /><br />3° onderdanen van een lidstaat van de Europese Unie die gedurende de periode onmiddellijk voorafgaand aan 31 december van het academiejaar in kwestie, gedurende vijf jaar onafgebroken in België verbleven, waarbij de termijn wordt bewezen door de inschrijving in het Rijksregister of door een gelijkwaardig attest, uit te reiken door het gemeentebestuur;<br /><br />4° studenten met een buitenlandse nationaliteit die toegelaten of gemachtigd zijn voor een verblijf van onbeperkte duur in België, zoals bepaald door de wet van 15 december 1980 betreffende de toegang tot het grondgebied, het verblijf, de vestiging en de verwijdering van vreemdelingen;<br /><br />5° kandidaat-vluchtelingen van wie de asielaanvraag ontvankelijk is verklaard, alsook hun kinderen die sinds hun minderjarigheid in België verblijven en niet zelf een asielaanvraag hebben ingediend;<br /><br />6° buitenlandse onderdanen die in het kader van de strijd tegen de mensenhandel een aankomstverklaring hebben ontvangen overeenkomstig artikel 5 van de wet van 15 december 1980 of die beschikken over een machtiging tot verblijf van meer dan drie maanden voor een beperkte of onbeperkte duur overeenkomstig artikelen 9 tot en met 13 van de wet van 15 december 1980, geattesteerd door een gespecialiseerde onthaaldienst.  <span class="reference">(verv. decr. 18 november 2005, art. 6, I: 1 juli 2005)</span> ]
+§ 1. Om te voldoen aan de nationaliteitsvoorwaarden die overeenkomstig artikel 61 noodzakelijk zijn om in aanmerking te komen voor selectieve voorzieningen van de studentenvoorzieningen, komen studenten met de Belgische nationaliteit in aanmerking.<br /><br />§ 2. In afwijking van § 1, komen de volgende categorieën van studenten eveneens in aanmerking voor selectieve voorzieningen :<br />1° kinderen van onderdanen van een lidstaat van de Europese Economische Ruimte die op basis van een arbeidsovereenkomst gedurende een periode van twee jaar en uiterlijk op 31 december van het academiejaar in kwestie minstens twaalf maanden minstens 32 uur per maand in België werken of hebben gewerkt en die zich kunnen beroepen op artikel 12 van Verordening (EEG) 1612/68 van de Raad van 15 oktober 1968 betreffende het vrije verkeer van werknemers binnen de Unie, en kinderen van onderdanen van een lidstaat van de Europese Economische Ruimte die gedurende een periode van twee jaar en uiterlijk op 31 december van het academiejaar in kwestie in België andere werkzaamheden dan werkzaamheden in loondienst verrichten of hebben verricht op basis van een inschrijving in de Kruispuntbank voor Ondernemingen of in het handelsregister;<br />2° onderdanen van een lidstaat van de Europese Economische Ruimte die op basis van een arbeidsovereenkomst gedurende een periode van twee jaar, onmiddellijk voorafgaand aan 31 december van het academiejaar in kwestie, minstens twaalf maanden minstens 32 uur per maand in België werken of hebben gewerkt en die zich kunnen beroepen op artikel 7 van Verordening (EEG) 1612/68 van de Raad van 15 oktober 1968 betreffende het vrije verkeer van werknemers binnen de Unie, en onderdanen van een lidstaat van de Europese Economische Ruimte die gedurende een periode van twee jaar, onmiddellijk voorafgaand aan 31 december van het academiejaar in kwestie, in België andere werkzaamheden dan werkzaamheden in loondienst verrichten of hebben verricht op basis van een inschrijving in de Kruispuntbank voor Ondernemingen;<br />3° onderdanen van een lidstaat van de Europese Unie die gedurende de periode, onmiddellijk voorafgaand aan 31 december van het academiejaar in kwestie, gedurende vijfjaar onafgebroken in België zijn, waarbij de termijn wordt bewezen door de inschrijving in het Rijksregister of door een gelijkwaardig attest, uit te reiken door het gemeentebestuur;<br />4° studenten met een buitenlandse nationaliteit die toegelaten of gemachtigd zijn tot een verblijf van onbeperkte duur in België, zoals bepaald bij de wet van 15 december 1980 betreffende de toegang tot het grondgebied, het verblijf, de vestiging en de verwijdering van vreemdelingen;<br />5° slachtoffers van mensenhandel, geattesteerd door een door de federale overheid erkend centrum dat gespecialiseerd is in het onthaal van slachtoffers van mensenhandel;<br />6° studenten met een buitenlandse nationaliteit die toegelaten of gemachtigd zijn tot een verblijf van bepaalde duur in België op basis van artikel 48/4 van de wet van 15 december 1980 betreffende de toegang tot het grondgebied, het verblijf, de vestiging en de verwijdering van vreemdelingen;<br />7° onderdanen van een land dat niet tot de Europese Economische Ruimte behoort die op 31 december van het betrokken academiejaar gedurende een onafgebroken periode van minstens twaalf maanden wettig verblijven in België, en dit wettig verblijf niet verleend werd om in België hoger onderwijs te volgen of te werken, noch verleend werd in afwachting van een uitspraak in een asielprocedure om erkend te worden als vluchteling of als persoon die recht heeft op de subsidiaire bescherming, overeenkomstig de wet van 15 december 1980 betreffende de toegang tot het grondgebied, het verblijf, de vestiging en de verwijdering van vreemdelingen;<br />8° personen die op basis van de artikelen 10, 10bis, of 40 van de wet van 15 december 1980 betreffende de toegang tot het grondgebied, het verblijf, de vestiging en de verwijdering van vreemdelingen de toelating hebben gekregen om een persoon zoals bedoeld in § 1 of § 2, 1° tot en met 7°, van onderhavig artikel, of een persoon die op 31 december van het betrokken school- of academiejaar minstens twaalf maanden wettig verblijft in België om hoger onderwijs te volgen of te werken, te begeleiden of vervoegen;<br />9° kandidaat-vluchtelingen, alsook hun kinderen die sinds hun minderjarigheid in België verblijven en niet zelf een asielaanvraag hebben ingediend, van wie de asielaanvraag ontvankelijk werd verklaard onmiddellijk voorafgaand aan het door de Koning, ingevolge artikel 78 van de wet van 15 september 2006 tot wijziging van de wet van 15 december 1980 betreffende de toegang tot het grondgebied, het verblijf, de vestiging en de verwijdering van vreemdelingen, bepaalde tijdstip waarop deze wet integraal in werking treedt ofwel onmiddellijk voorafgaand aan de eerste dag van de dertiende maand na publicatie van voornoemde wet bij gebreke aan een door de Koning bepaalde datum, komen in aanmerking voor selectieve voorzieningen zolang hun procedure lopende is bij het Commissariaat-Generaal voor de Vluchtelingen en de Staatslozen, bij de Vaste Beroepscommissie voor Vluchtelingen, of bij de Raad voor Vreemdelingenbetwistingen.
 
 ## HOOFDSTUK III MEENEEMBAARHEID
 
 ### ART. 13.
 
-In geval van meeneembaarheid van studiefinanciering, wordt er een onderscheid gemaakt tussen horizontale en verticale mobiliteit.<br /><br />Bij horizontale mobiliteit is de student ingeschreven voor het volgen van een opleiding en volgt de student in het kader van deze opleiding een opleidingsonderdeel in een andere gemeenschap van België of in een ander land binnen of buiten de Europese Hogeronderwijsruimte, waarbij dit opleidingsonderdeel integraal deel uitmaakt van de opleiding waarvoor de student is ingeschreven.<br /><br />Bij verticale mobiliteit is de student ingeschreven voor het volgen van een opleiding aan een instelling in een andere gemeenschap of in een ander land binnen of buiten de Europese Hogeronderwijsruimte, waarbij de opleiding door de bevoegde overheid in de betrokken gemeenschap of in het betrokken land is erkend, of waarbij de opleiding wordt gevolgd aan een door de bevoegde overheid erkende instelling.
+...
 
 ### ART. 14.
 
-Binnen en buiten de Europese Hogeronderwijsruimte kunnen studenten, zowel bij horizontale als verticale mobiliteit, in aanmerking komen voor studiefinanciering.
+...
 
 ### ART. 15.
 
-§ 1. In geval van verticale mobiliteit binnen en buiten de Europese Hogeronderwijsruimte kan een student in aanmerking komen voor studiefinanciering indien de student voldoet aan één van de volgende voorwaarden:<br /><br />a) de student heeft zijn hoofdverblijfplaats in het Vlaamse Gewest;<br /><br />b) de student heeft een diploma secundair onderwijs, afgeleverd door een door het Departement Onderwijs van de Vlaamse Gemeenschap gefinancierde, gesubsidieerde of erkende instelling;<br /><br />c) de student heeft een diploma hoger onderwijs van een volgens de bepalingen van het structuurdecreet geaccrediteerde, erkend als nieuwe of tijdelijk erkende opleiding gevolgd aan een ambtshalve geregistreerde instelling;<br /><br />d) de student heeft een graad zoals opgesomd in artikel 128, § 4, of artikel 129, § 5, van het structuurdecreet.<br /><br />§ 2. Indien de student in geval van verticale mobiliteit een opleiding volgt buiten de Europese Hogeronderwijsruimte, geldt als bijkomende voorwaarde dat er voor de te volgen opleiding geen gelijkwaardige opleiding bestaat tussen de volgens de bepalingen van het structuurdecreet geaccrediteerde, erkend als nieuwe of tijdelijk erkende opleidingen. De dienst roept ter beoordeling van deze voorwaarde het advies in van Naric Vlaanderen.
+...
 
 ## HOOFDSTUK IV PEDAGOGISCHE VOORWAARDEN
 
 ### ART. 16.
 
-§ 1. Iedere student die zich inschrijft voor een aantal studiepunten met het oog op het behalen van een diploma van een bepaalde opleiding, kan in aanmerking komen voor een studiefinancieringskrediet, bestaande uit twee bachelorskredieten, een masterskrediet, een jokerkrediet en bijkomende kredieten voor het volgen van:<br /><br />1° één voorbereidingsprogramma;<br /><br />2° één schakelprogramma;<br /><br />3° één lerarenopleiding als vervolgopleiding.<br /><br />§ 2. De student die een opleiding volgt die valt onder het toepassingsgebied van artikel 11, § 1, eerste lid, 1°, kan enkel in aanmerking komen voor een studiefinanciering indien hij een diplomacontract afsluit.<br /><br />De student die een opleiding volgt die valt onder het toepassingsgebied van artikel 11, § 1, eerste lid, 2°, kan enkel in aanmerking komen voor een studiefinanciering indien de betrokken opleiding leidt tot een door de bevoegde overheid erkend diploma.<br /><br />§ 3. Het tweede bachelorskrediet kan slechts worden geopend na het behalen van een eerste bachelordiploma.
+...
 
 ### ART. 17.
 
-De berekening en toekenning van de in artikel 16, § 1, vermelde kredieten gebeurt op basis van de opleiding en het daaraan verbonden aantal studiepunten.<br /><br />Het jokerkrediet geldt voor de hele studieduur.
+...
 
 ### ART. 18.
 
@@ -86,11 +86,11 @@ De berekening en toekenning van de in artikel 16, § 1, vermelde kredieten gebeu
 
 ### ART. 19.
 
-Opgenomen studiepunten en verworven studiepunten waarvoor al dan niet studiefinanciering werd toegekend, worden in mindering gebracht op de in artikel 16, § 1, vermelde kredieten, tenzij anders bepaald.<br /><br />Voor opleidingen gevolgd in een andere gemeenschap van België of in een ander land binnen of buiten de Europese Hogeronderwijsruimte, wordt na advies van de betrokken overheid of Naric Vlaanderen geoordeeld van welke in artikel 16, § 1, vermelde kredieten de studiepunten in mindering moeten worden gebracht.
+...
 
 ### ART. 20.
 
-Studiepunten met betrekking tot opleidingsonderdelen die reeds in het verleden werden opgenomen, maar niet verworven, en waarvoor studiefinanciering wordt aangevraagd, dienen te worden aangerekend op het jokerkrediet.
+...
 
 ### ART. 21.
 
@@ -98,81 +98,81 @@ Het jokerkrediet omvat zestig studiepunten en kan opgenomen worden voor het volg
 
 ### ART. 22.
 
-§ 1. De instellingen voor hoger onderwijs delen aan de dienst de volgende informatie betreffende de studenten die een studiefinanciering aanvragen, mee:<br /><br />1° het diplomacontract met betrekking tot het betrokken academiejaar;<br /><br />2° de gegevens in verband met de verworven en de niet-verworven studiepunten waarvoor de student tijdens het vorige academiejaar was ingeschreven.<br /><br />Informatie in verband met de opleiding, opleidingsonderdelen en hiermee verbonden verworven en niet-verworven studiepunten waarvoor de student tijdens andere academiejaren was ingeschreven, worden door de student aan de dienst meegedeeld.<br /><br />§ 2. Overeenkomstig artikel IV.2 van het decreet van 30 april 2004 betreffende de flexibilisering van het hoger onderwijs in Vlaanderen, delen die instellingen die met betrekking tot de door hen aangeboden opleidingen de bepalingen van voornoemd decreet nog niet hebben ingevoerd, alle gegevens in verband met de inschrijving en het behaalde resultaat aan de dienst mee.<br /><br />§ 3. Voor opleidingen gevolgd in een andere gemeenschap van België of in een ander land binnen of buiten de Europese Hogeronderwijsruimte, deelt de student alle gegevens in verband met de in de andere gemeenschap of in het buitenland gevolgde opleidingen en de behaalde resultaten aan de dienst mee op basis van inschrijvingsbewijzen, diploma's en attes-ten, afgeleverd door de bevoegde overheid in de betrokken gemeenschap of het betrokken land.<br /><br />§ 4. De Vlaamse regering bepaalt de modaliteiten volgens dewelke de gegevens in § 1 en § 2 dienen te worden meegedeeld.
+...
 
 ## HOOFDSTUK V CATEGORIEËN VAN LEEFEENHEDEN
 
 ### ART. 23.
 
-§ 1. Er wordt rekening gehouden met de volgende categorieën van leefeenheden:<br /><br />1° de leefeenheid waar de student zijn hoofdverblijfplaats heeft bij één of beide ouders van wie zijn afstamming vaststaat;<br /><br />2° de leefeenheid waar de student ingevolge een gerechtelijke uitspraak, een tussenkomst van een comité voor bijzondere jeugdzorg of van een andere publiekrechtelijke overheid of instelling fiscaal ten laste is van een andere natuurlijke persoon dan de ouders van wie zijn afstamming vaststaat, of de leefeenheid waar de student minstens drie jaar hoofdverblijfplaats heeft bij of fiscaal ten laste is van een andere natuurlijke persoon dan één of beide ouders van wie zijn afstamming vaststaat;<br /><br />3° gehuwde studenten;<br /><br />4° zelfstandige studenten;<br /><br />5° alleenstaande studenten.<br /><br />§ 2. Indien een student bij de berekening van zijn studiefinanciering wordt beschouwd als behorende tot een bepaalde leefeenheid, kan hij bij de berekening van de studiefinanciering van een andere student niet worden beschouwd als behorende tot een andere leefeenheid.<br /><br />§ 3. De Vlaamse regering kan een nadere begripsomschrijving uitwerken van de verschillende categorieën van leefeenheden, op basis waarvan de studiefinanciering van de student wordt berekend.
+...
 
 ## HOOFDSTUK VI FINANCIËLE VOORWAARDEN
 
 ### ART. 24.
 
-Bij het bepalen of een student in aanmerking komt voor studiefinanciering, wordt uitgegaan van de leefeenheid van de student en het referentie-inkomen van deze leefeenheid.
+...
 
 ### ART. 25.
 
-Het referentie-inkomen bestaat uit:<br /><br />1° het gezamenlijk belastbare inkomen;<br /><br />2° het afzonderlijk belastbare inkomen;<br /><br />3° 80 procent van de aan de persoon of personen van wie het referentie-inkomen voor de berekening van de studiefinancie-ring wordt genomen en aan de ten laste zijnde kinderen uitbetaalde onderhoudsgelden, voor zover deze nog niet begrepen zijn in het gezamenlijk belastbaar inkomen;<br /><br />4° tweemaal het geïndexeerd kadastraal inkomen vreemd gebruik en éénmaal het geïndexeerd kadastraal inkomen dat voor eigen beroepsdoeleinden wordt aangewend;<br /><br />5° de inkomensvervangende tegemoetkoming toegekend in het raam van de wet van 27 februari 1987 betreffende de tegemoetkomingen aan gehandicapten;<br /><br />6° het leefloon toegekend in het raam van de wet van 26 mei 2002 betreffende het recht op maatschappelijke integratie;<br /><br />7° het bestaansminimum toegekend in het raam van de wet van 7 augustus 1974 tot instelling van het recht op een bestaansminimum;<br /><br />8° de niet belastbare beurs zoals opgesomd in artikel 53 van het koninklijk besluit van 27 augustus 1993 tot uitvoering van artikel 90, 2°, tweede lid, van het Wetboek van Inkomstenbelastingen 1992, voor zover onderworpen aan de sociale zeker-heid.<br /><br />Wanneer het in het eerste lid bedoelde referentie-inkomen voor minstens 70 procent bestaat uit vervangingsinkomsten, worden deze vervangingsinkomsten verminderd met een bedrag gelijk aan de forfaitaire aftrek voor beroepskosten die op fiscaal vlak wordt toegepast op bezoldigingen en baten.
+...
 
 ### ART. 26.
 
-De student van wie het referentie-inkomen van de leefeenheid waartoe hij behoort de maximum-inkomensgrens bepaald in artikel 32, niet overschrijdt, wordt voor de toepassing van dit decreet beschouwd als rechthebbende op een studiefinanciering.
+...
 
 ### ART. 27.
 
-De Vlaamse regering bepaalt het in aanmerking te nemen kalenderjaar waarop het referentie-inkomen wordt bepaald evenals de afwijkingen hierop indien het inkomen van het kalenderjaar waarin het betrokken academiejaar begint, vermoedelijk lager ligt dan het inkomen van het in aanmerking te nemen kalenderjaar of indien de student slechts na het in aanmerking te nemen kalenderjaar voldoet aan de voorwaarden van de leefeenheid waartoe hij behoort.
+...
 
 ### ART. 28.
 
-Het kadastraal inkomen van de leefeenheid van de student wordt gewogen om te bepalen of de student in aanmerking komt voor studiefinanciering.<br /><br />Een student heeft geen recht op studiefinanciering indien het verdrievoudigd geïndexeerd kadastraal inkomen vreemd gebruik van de personen van wie het inkomen overeenkomstig artikel 23 als uitgangspunt wordt genomen voor de berekening van het referentie-inkomen, hoger is dan 20 procent van het referentie-inkomen, bepaald in artikel 25, verminderd met artikel 25, eerste lid, 4°.<br /><br />[Het eerste en het tweede lid zijn niet van toepassing als het referentie-inkomen van de leefeenheid geheel of gedeeltelijk is samengesteld uit het bestaansminimum of leefloon, of voor minstens 70 % bestaat uit alimentatiegelden, vervangingsinkomsten of een inkomensvervangende tegemoetkoming, toegekend in het raam van de wet van 27 februari 1987 betreffende de tegemoetkomingen aan gehandicapten.  <span class="reference">(ing. decr. 18 november 2005, art. 8, I: 1 juli 2005)</span> ]
+...
 
 ## HOOFDSTUK VII BEDRAG VAN DE STUDIEFINANCIERING
 
 ### ART. 29.
 
-§ 1. Een student heeft recht op een volledige studiefinanciering, indien het referentie-inkomen, bepaald in artikel 25, gelijk is aan of lager is dan de voor zijn leefeenheid in aanmerking te nemen minimuminkomensgrens, bepaald in artikel 32.<br /><br />§ 2. Een student heeft geen recht op een studiefinanciering indien het referentie-inkomen, bepaald in artikel 25, hoger is dan de voor zijn leefeenheid in aanmerking te nemen maximuminkomensgrens, bepaald in artikel 32.<br /><br />§ 3. Wanneer het in aanmerking te nemen referentie-inkomen, bepaald in artikel 25, hoger is dan de minimuminkomensgrens vermeld in artikel 32 doch lager is dan de maximuminkomensgrens vermeld in artikel 32 wordt een studiefinanciering verleend waarvan het bedrag gelijk is aan het bedrag van een volledige studiefinanciering, bepaald in artikel 34, § 2, vermenigvuldigd met de coëfficiënt van de formule (maximuminkomensgrens min referentie-inko-men)/(maximuminkomensgrens min minimuminkomensgrens).<br /><br />§ 4. De student ontvangt een uitzonderlijke studiefinanciering indien zijn in aanmerking te nemen referentie-inkomen, bedoeld in artikel 25, gelijk is aan of lager is dan 1/10 van de maximuminkomensgrens bepaald in artikel 32 en hij voldoet aan één van de volgende voorwaarden:<br /><br />1° de student valt onder het toepassingsgebied van artikel 23, § 1, 3°, 4°, 5°;<br /><br />2° het voor de student in aanmerking te nemen referentie-inkomen bestaat voor minstens 70 procent uit vervangingsinkom-sten;<br /><br />3° het voor de student in aanmerking te nemen referentie-inkomen bestaat voor minstens 70 procent uit alimentatiegelden;<br /><br />4° het voor de student in aanmerking te nemen referentie-inkomen bestaat voor minstens 70 procent uit leefloon, toegekend in het raam van de wet van 26 mei 2002 betreffende het recht op maatschappelijke integratie, of het bestaansminimum, toe-gekend in het raam van de wet van 7 augustus 1974 tot instelling van het recht op een bestaansminimum;<br /><br />5° het voor de student in aanmerking te nemen referentie-inkomen bestaat voor minstens 70 procent uit een inkomensvervangende tegemoetkoming, toegekend in het raam van de wet van 27 februari 1987 betreffende de tegemoetkomingen aan gehandicapten.<br /><br />§ 5. Een student heeft recht op de minimumstudiefinanciering indien het referentie-inkomen, bepaald in artikel 25, gelijk is aan de maximuminkomensgrens, bepaald in artikel 32.
+...
 
 ### ART. 30.
 
-§ 1. Bij het vastleggen van de minimum- en maximuminkomensgrenzen wordt rekening gehouden met de volgende factoren:<br /><br />1° het aantal personen ten laste in de leefeenheid;<br /><br />2° het aantal andere studenten aanwezig in de leefeenheid die tijdens het betrokken academiejaar hoger onderwijs volgen;<br /><br />3° het aantal personen aanwezig in de leefeenheid die fiscaal als gehandicapt worden aangemerkt.<br /><br />§ 2. De waarde van elke factor wordt uitgedrukt in punten.
+...
 
 ### ART. 31.
 
-Worden voor de berekening van de maximum- en minimuminkomensgrenzen gelijkgesteld met één punt:<br /><br />1° elke persoon die fiscaal ten laste is van de persoon of personen van wie het referentie-inkomen voor de berekening van de studiefinanciering in aanmerking wordt genomen;<br /><br />2° elke student die niet meer fiscaal ten laste is van de persoon of personen van wie het referentie-inkomen voor de berekening van de studiefinanciering in aanmerking wordt genomen omdat ze bestaansmiddelen hebben gehad, op voorwaarde dat ze niet in aanmerking komen voor het statuut van gehuwd, zelfstandig student of alleenstaand student;<br /><br />3° elke leerling die niet meer fiscaal ten laste is van een ouder maar niet voldoet aan de voorwaarden van artikel 4 en artikel 5 van het koninklijk besluit van 23 augustus 1972 tot vaststelling van de minvermogendheid van kandidaten voor een studietoelage;<br /><br />4° elke persoon die valt onder 1° en 2° en die buiten de kandidaat nog hoger onderwijs volgt tijdens het betrokken acade-miejaar;<br /><br />5° elke persoon van wie het referentie-inkomen voor de berekening van de studiefinanciering in aanmerking wordt genomen die op 31 december van het betrokken academiejaar fiscaal als gehandicapt wordt aangemerkt;<br /><br />6° de student die valt onder het toepassingsgebied van artikel 23, § 1, 1°, 2° en 3°.<br /><br />In afwijking van het eerste lid, wordt elke persoon die valt onder het eerste lid, 1°, 2° en 3°, en die op 31 december van het betrokken academiejaar fiscaal als gehandicapt wordt aangemerkt, niet met één maar met twee punten gelijkgesteld.
+...
 
 ### ART. 32.
 
-§ 1. De minimum- en maximuminkomensgrenzen worden vastgelegd aan de hand van een pun-tensysteem, gaande van nul tot twintig punten:<br /><br />-de minimuminkomensgrens stemt voor een leefeenheid met nul punten overeen met 6.200,56 euro en voor een leefeenheid met twintig punten met 29.408,72 euro;<br /><br />- de maximuminkomensgrens stemt voor een leefeenheid met nul punten overeen met 13.667,62 euro en voor een leefeenheid met twintig punten met 71.086,03 euro.<br /><br />§ 2. De Vlaamse regering bepaalt de nadere regeling inzake de bepaling van de minimum- en maximuminkomensgrenzen.
+...
 
 ### ART. 33.
 
-Er wordt een onderscheid gemaakt tussen kotstudenten en niet-kotstudenten.<br /><br />Wordt beschouwd als kotstudent de student die met het oog op het volgen van een hoger-onderwijsopleiding zich overeenkomstig zijn diplomacontract heeft ingeschreven voor respectievelijk een volledig academiejaar of een semester, en een huurovereenkomst heeft gesloten voor respectievelijk minimum acht of vier maanden met betrekking tot een kamer, appartement of huis dat gelegen is op een verschillend adres dan zijn hoofdverblijfplaats.<br /><br />In afwijking van het tweede lid worden bepaalde categorieën van studenten steeds als kotstudent of niet-kotstudent be-schouwd.<br /><br />De student die een opleiding volgt in een ander land binnen of buiten de Europese Hogeronderwijsruimte, wordt steeds be-schouwd als kotstudent.<br /><br />De student die overeenkomstig dit decreet beschouwd wordt als een gehuwd, een zelfstandig of een alleenstaand student, wordt steeds beschouwd als kotstudent.<br /><br />De student die zich overeenkomstig zijn diplomacontract heeft ingeschreven voor een tijdsperiode die korter is dan een se-mester, wordt beschouwd als niet-kotstudent.
+...
 
 ### ART. 34.
 
-§ 1. Bij het bepalen van het bedrag van een volledige studiefinanciering wordt gestreefd naar een gelijkschakeling met de directe studiekosten, zoals die uit onderzoek blijken.<br /><br />§ 2. Voor studenten die voor zestig studiepunten studiefinancieringsgerechtigd zijn, is het bedrag van de volledige stu-diefinanciering gelijk aan:<br /><br />1° 3.069,00 euro voor kotstudenten;<br /><br />2° 1.842,00 euro voor niet-kotstudenten.<br /><br />§ 3. Voor studenten die voor zestig studiepunten studiefinancieringgerechtigd zijn, bedraagt de uitzonderlijke studiefi-nanciering 4.132,00 euro voor kotstudenten en 2.673,00 euro voor niet-kotstudenten.<br /><br />§ 4. De minimumstudiefinanciering bedraagt ten minste 198,31 euro.<br /><br />§ 5. Het uiteindelijke bedrag van de studiefinanciering wordt afgerond tot twee cijfers na de komma.
+...
 
 ### ART. 35.
 
-§ 1. Indien de student voor minder dan zestig studiepunten studiefinancieringgerechtigd is, wordt het bedrag van de studiefinanciering als volgt berekend:<br /><br />1° een kotstudent ontvangt dertig procent van de studiefinanciering die hij zou ontvangen indien hij voor zestig studie-punten studiefinancieringgerechtigd zou zijn, vermeerderd met het resterende zeventig procent dat wordt gedeeld door zestig en vermenigvuldigd wordt met het aantal studiepunten waarvoor hij studiefinancieringgerechtigd is;<br /><br />2° een niet-kotstudent ontvangt twintig procent van de studiefinanciering die hij zou ontvangen indien hij voor zestig studiepunten studiefinancieringgerechtigd zou zijn, vermeerderd met het resterende tachtig procent dat wordt gedeeld door zestig en vermenigvuldigd wordt met het aantal studiepunten waarvoor hij studiefinancieringgerechtigd is.<br /><br />§ 2. In afwijking van § 1 wordt voor de student die voor minder dan 30 studiepunten studiefinancieringgerechtigd is, het bedrag van de studiefinanciering dat hij zou ontvangen indien hij voor zestig studiepunten studiefinancieringgerechtigd zou zijn, gedeeld door zestig en vermenigvuldigd met het aantal studiepunten waarvoor hij studiefinancieringgerechtigd is.<br /><br />§ 3. Een student die zich binnen het betrokken academiejaar tweemaal inschrijft voor een halftijds studietraject, wordt voor de berekening van het bedrag van de studiefinanciering beschouwd als een student die een voltijds studietraject volgt.
+...
 
 ### ART. 36.
 
-De bedragen in artikel 32 en artikel 34 worden jaarlijks voor de aanvang van het academiejaar geïndexeerd met het indexcijfer der consumptieprijzen, bedoeld in hoofdstuk II van het koninklijk besluit van 24 december 1993 ter uitvoering van de wet van 6 januari 1989 tot vrijwaring van 's lands concurrentievermogen.<br /><br />De Vlaamse regering bepaalt de wijze waarop deze indexering wordt toegepast.
+...
 
 ### ART. 37.
 
-Alle bedragen inzake inkomensgrenzen en studiefinanciering gelden voor een volledig academiejaar, ongeacht het ogenblik waarop de student zijn aanvraag indient.
+...
 
 ### ART. 38.
 
-In de loop van het derde jaar vanaf de inwerkingtreding van onderhavig decreet evalueert de dienst de beleidseffecten ervan. Op basis van deze evaluatie beslist de Vlaamse regering uiterlijk op 1 januari 2007 over de samenstelling van het referentie-inkomen, bepaald in artikel 25.<br /><br />De Vlaamse regering onderzoekt minstens om de vijf jaar of de werkelijke kosten voor het onderhoud van de student en het door hem gevolgde onderwijs aansluiten bij de uitgekeerde bedragen van studiefinanciering.
+...
 
 ### ART. 39.
 
-Jaarlijks, naar aanleiding van het opmaken van de rekeningen, maakt de Vlaamse regering statistieken bekend betreffende de evolutie van de relevante parameters inzake studiefinanciering in het hoger onderwijs.
+...
 
 ## HOOFDSTUK VIII PROCEDURE
 
@@ -180,85 +180,85 @@ Jaarlijks, naar aanleiding van het opmaken van de rekeningen, maakt de Vlaamse r
 
 ### ART. 40.
 
-De aanvraag voor een studiefinanciering wordt door de student bij de dienst ingediend uiterlijk op 30 juni van het betrokken academiejaar.<br /><br />De aanvraag die wordt ingediend na 30 juni van het betrokken academiejaar wordt niet meer behandeld.<br /><br />De Vlaamse regering bepaalt de wijze waarop de aanvraag voor een studiefinanciering moet ingediend worden.
+...
 
 ### ART. 41.
 
-Indien een dossier voor de aanvraag van een studiefinanciering onvolledig werd ingediend, dienen de gevraagde documenten op straffe van afsluiting zonder gevolg uiterlijk op 31 december van het kalenderjaar volgend op het einde van het betrokken academiejaar aan de dienst te worden bezorgd, tenzij:<br /><br />1° het aanslagbiljet voor de in aanmerking te nemen inkomsten nog niet beschikbaar is;<br /><br />2° een bezwaarschrift of een verzoekschrift tot ambtshalve ontheffing van belasting werd ingediend overeenkomstig de artikelen 366 tot en met 376 van het Wetboek van de Inkomstenbelastingen, of een vordering voor de rechtbank werd ingeleid.<br /><br />In geval van de uitzonderingen bepaald in het eerste lid, 1° en 2°, dient het nieuwe aanslagbiljet of attest te worden overgemaakt aan de dienst uiterlijk 6 maanden na het verkrijgen ervan.
+...
 
 ### ART. 42.
 
-§ 1. Aan de student die zich overeenkomstig zijn diplomacontract inschrijft voor een volledig academiejaar en zijn dossier voor de aanvraag van een studiefinanciering volledig indient vóór 1 november, wordt binnen de twee maanden na de indiening van het dossier de beslissing over de aanvraag meegedeeld, en desgevallend een studiefinanciering uitbetaald.<br /><br />§ 2. Aan de student die zich overeenkomstig zijn diplomacontract enkel inschrijft voor het eerste semester en zijn dossier voor de aanvraag van een studiefinanciering volledig indient vóór 1 november, wordt binnen de twee maanden na de indiening van het dossier de beslissing over de aanvraag meegedeeld, en desgevallend een studiefinanciering uitbetaald.<br /><br />Aan de student die zich overeenkomstig zijn diplomacontract enkel inschrijft voor het tweede semester en zijn dossier voor de aanvraag van een studiefinanciering volledig indient vóór 1 maart, wordt binnen de twee maanden na de indiening van het dossier de beslissing over de aanvraag meegedeeld, en desgevallend een studiefinanciering uitbetaald.<br /><br />§ 3. De studiefinanciering wordt ten vroegste uitbetaald vanaf 1 september van het betrokken academiejaar.
+...
 
 ### ART. 43.
 
-Indien een voorschot op de studiefinanciering door een studentenvoorziening werd betaald aan de student, wordt dat bedrag door de dienst terugbetaald aan de studentenvoorziening, voor zover de student recht heeft op een studiefinanciering.<br /><br />Dit bedrag kan, ongeacht het voorschot, nooit hoger zijn dan de studiefinanciering waarop de student recht heeft.<br /><br />Het eventuele positieve saldo ten voordele van de student wordt rechtstreeks aan de student uitbetaald.<br /><br />[Een studentenvoorziening kan de dienst verzoeken het eerste lid tot en met het derde lid met betrekking tot de door haar<br /><br />betaalde voorschotten niet toe te passen.  <span class="reference">(ing. decr. 18 november 2005, art. 9, I: 1 juli 2005)</span> ]
+...
 
 ## AFDELING 2 HERZIENING
 
 ### ART. 44.
 
-Indien zich in de algemene en financiële voorwaarden, bepaald in artikel 12, in hoofdstuk V of hoofdstuk VI wijzigingen voordoen, kan de student tot zes maanden na kennisname van de nieuwe feiten vragen aan de dienst zijn dossier te herzien.<br /><br />Indien zich met betrekking tot hoofdstuk IV [of artikel 33  <span class="reference">(ing. decr. 18 november 2005, art. 10, I: 1 juli 2005)</span> ] wijzigingen voordoen, kan de student tot 30 juni van het betrokken academiejaar vragen aan de dienst zijn dossier te herzien.
+...
 
 ### ART. 45.
 
-In de volgende gevallen kan op initiatief van de dienst de studiefinanciering worden herzien:<br /><br />1° indien de studiefinanciering onjuist werd berekend, al dan niet op basis van bedrieglijke handelingen of valse of wetens en willens onvolledige verklaringen;<br /><br />2° indien de studiefinanciering werd berekend op basis van een inkomen dat nog niet nagezien werd door de Administratie der Directe Belastingen en waarvoor nog geen aanslagbiljet voorhanden is en indien nadien blijkt dat dit vermoedelijk inkomen verschillend is van het reëel inkomen;<br /><br />3° na kennisname van nieuwe feiten waardoor blijkt dat één van de voorwaarden voor toekenning van studiefinanciering niet was vervuld.
+...
 
 ### ART. 46.
 
-Indien de herziening aanleiding geeft tot een hoger bedrag van de studiefinanciering, wordt het positieve saldo ten voordele van de student aan de student bijbetaald.
+...
 
 ## AFDELING 3 TERUGVORDERING
 
 ### ART. 47.
 
-In de gevallen bepaald in artikel 44 en artikel 45, wordt de toegekende en reeds uitbetaalde studiefinanciering waarop de student geen recht had, teruggevorderd.
+...
 
 ### ART. 48.
 
-In geval van uitschrijving wordt in afwijking van artikel 47 de terugvordering als volgt geregeld:<br /><br />1° indien de student zich uitschrijft voor de opleiding op basis waarvan de aanvraag tot studiefinanciering werd behandeld, wordt de studiefinanciering teruggevorderd in verhouding tot het moment in het academiejaar waarop de student zich uitschrijft;<br /><br />2° in afwijking van 1°, wordt bij studenten die zich voor de eerste maal inschrijven in het hoger onderwijs de studiefinan-ciering voor het betrokken academiejaar niet teruggevorderd. De studiepunten die overeenkomen met de opleiding op basis waarvan de aanvraag tot studiefinanciering werd behandeld, worden als opgenomen beschouwd, tenzij hij de studie-financiering volledig terugbetaalt.<br /><br />Het eerste lid, 1°, is niet van toepassing op de student die zich overeenkomstig zijn diplomacontract inschrijft voor een tijdsperiode die korter is dan een semester.
+...
 
 ### ART. 49.
 
-Sommen die onverschuldigd werden uitbetaald, zijn voorgoed verkregen door diegenen die ze hebben ontvangen wanneer de terugvordering daarvan niet gevraagd wordt binnen een termijn van vijf jaar te rekenen vanaf 1 januari van het begrotingsjaar waarop de uitgave is aangerekend, tenminste indien zij die niet door bedrieglijke handelingen of door valse of wetens en willens onvolledige verklaringen hebben verkregen.
+...
 
 ### ART. 50.
 
-De Vlaamse regering bepaalt de modaliteiten inzake de terug te vorderen sommen, de terugvor-deringprocedure en de verhoudingsgewijze terugvordering, bepaald in artikel 48, alsmede inzake het in rekening brengen van de studiepunten.
+...
 
 ### ART. 51.
 
-De instellingen voor hoger onderwijs delen de gegevens in verband met de uitschrijvingen van studenten mee aan de dienst.<br /><br />De Vlaamse regering bepaalt de modaliteiten volgens dewelke deze gegevens dienen te worden medegedeeld.
+...
 
 ## AFDELING 4 BEROEPSPROCEDURE
 
 ### ART. 52.
 
-Een georganiseerd beroep kan worden ingediend bij de dienst door:<br /><br />1° de student die niet akkoord gaat met een negatieve beslissing op zijn aanvraag tot studiefinanciering;<br /><br />2° de student die het bedrag van de toegekende studiefinanciering onjuist berekend acht;<br /><br />3° de student die niet akkoord gaat met een terugvordering krachtens artikel 47 en artikel 48.<br /><br />Het beroep wordt ingediend bij aangetekende brief binnen een termijn van zestig kalenderdagen die ingaat de dag na deze van de mededeling van het definitieve bedrag of de weigering van de studiefinanciering, en moet de juridische en feitelijke argumenten vermelden die de student aanvoert tot staving van zijn aanspraak.<br /><br />Beroepen worden beantwoord binnen zestig kalenderdagen na de ontvangst ervan door de dienst.
+...
 
 ## HOOFDSTUK IX OVERGANGSBEPALINGEN
 
 ### ART. 53.
 
-Elke toetredingsovereenkomst, bedoeld in artikel II.3 van het decreet betreffende de rechtsposi-tieregeling van de student, de participatie in het hoger onderwijs, de integratie van bepaalde afdelingen van het hoger onderwijs voor sociale promotie in de hogescholen en de begeleiding van de herstructurering van het hoger onderwijs in Vlaanderen, wordt als een diplomacontract beschouwd.
+...
 
 ### ART. 54.
 
-Het studietraject dat reeds voor de inwerkingtreding van dit decreet werd gevolgd, al dan niet met toekenning van studiefinanciering, wordt in rekening gebracht bij het berekenen van de in artikel 16, § 1, bedoelde kredieten. Hierbij worden de volgende bepalingen in acht genomen:<br /><br />1° de in artikel 16, § 1, bedoelde kredieten worden verminderd met:<br /><br />- een bachelorskrediet indien de student een opleiding bekroond met een diploma van het hogeschoolonderwijs van één cyclus, een diploma van de eerste cyclus van het hogeschoolonderwijs van twee cycli of een diploma van de eerste cyclus van het academisch onderwijs heeft voltooid;<br /><br />- een masterskrediet indien de student een opleiding bekroond met een diploma van de tweede cyclus van het hogeschoolonderwijs van twee cycli of een diploma van de tweede cyclus van het academisch onderwijs heeft voltooid;<br /><br />- een krediet voor het volgen van een leraren-opleiding als vervolgopleiding, indien de student een lerarenopleiding als vervolgopleiding bekroond met een diploma voor geaggregeerde voor secundair onderwijs groep 2 of groep 3 heeft voltooid;<br /><br />- het jokerkrediet indien de student de jokerbeurs, bepaald in het decreet van 16 februari 2001, heeft uitgeput;<br /><br />2° ieder reeds gevolgd studiejaar, ook indien de opleiding niet met een diploma werd bekroond, wordt beschouwd als 60 opgenomen studiepunten.
+...
 
 ### ART. 55.
 
-Voor de student die een opleiding volgt die het voorwerp uitmaakt van de omvorming naar de bachelors-mastersstructuur, wordt afhankelijk van de gevolgde opleiding een bachelors- en/of masterskrediet geopend, waarop in overeenstemming met artikel 54, 2°, studiepunten in mindering worden gebracht.
+...
 
 ### ART. 56.
 
-De student die, overeenkomstig artikel 4 van het decreet van 16 februari 2001, in het verleden reeds een diploma behaalde van een opleiding van hogeschoolonderwijs van twee cycli en in het academiejaar voorafgaand aan de inwerkingtreding van onderhavig decreet een opleiding volgde die voor de betrokkene resulteert in een academisch diploma die overeenkomt met een mastersdiploma, komt tot het behalen van dit diploma in aanmerking voor een stu-diefinanciering.
+...
 
 ## HOOFDSTUK X OPHEFFINGSBEPALING
 
 ### ART. 57.
 
-(niet opgenomen)<br /><br />(Heft op:<br /><br />1° het decreet van 16 februari 2001 houdende regeling van de studietoelagen voor het hoger onderwijs in de Vlaamse Gemeenschap;<br /><br />2° het besluit van de Vlaamse regering van 31 augustus 2001 betreffende de studietoelagen voor hoger onderwijs)
+...
 
 ## TITEL III STUDENTENVOORZIENINGEN
 
@@ -336,7 +336,7 @@ Wat de studentenvoorzieningen betreft wordt artikel 211 van het decreet van 13 j
 
 ### ART. 73.
 
-De dienst en de verschillende studentenvoorzieningen werken samen met betrekking tot:<br /><br />1° de vorming van actoren op het veld inzake studiefinanciering en studentenvoorzieningen;<br /><br />2° gezamenlijke acties inzake communicatie en informatie van de studenten;<br /><br />3° de afstemming van studiefinanciering en studentenvoorzieningen;<br /><br />4° informatie-uitwisseling met het oog op het vervolledigen of doorverwijzen van het dossier van een student;<br /><br />5° gezamenlijke acties inzake de overgang van het secundair onderwijs naar het hoger onderwijs;<br /><br />6° gezamenlijke acties inzake de overgang van het onderwijs naar het beroepsleven;<br /><br />7° de verrekening van uitbetaalde voorschotten op de studiefinanciering door de studentenvoorzieningen;<br /><br />8° wetenschappelijk onderzoek op bovenvermelde terreinen.<br /><br />De Vlaamse regering kan de in het eerste lid opgesomde samenwerkingsterreinen uitbreiden.
+De dienst en de verschillende studentenvoorzieningen werken samen met betrekking tot:<br />1° de vorming van actoren op het veld inzake studietoelagen voor het hoger onderwijs en studentenvoorzieningen;<br />2° gezamenlijke acties inzake communicatie en informatie van de studenten;<br />3° de afstemming van studietoelagen voor het hoger onderwijs en studentenvoorzieningen;<br />4° informatie-uitwisseling met het oog op het vervolledigen of doorverwijzen van het dossier van een student;<br />5° gezamenlijke acties inzake de overgang van het secundair onderwijs naar het hoger onderwijs;<br />6° gezamenlijke acties inzake de overgang van het onderwijs naar het beroepsleven;<br />7° de verrekening van uitbetaalde voorschotten op de studietoelagen voor het hoger onderwijs door de studentenvoorzieningen;<br />8° wetenschappelijk onderzoek op bovenvermelde terreinen.<br /><br />De Vlaamse regering kan de in het eerste lid opgesomde samenwerkingsterreinen uitbreiden.
 
 ### ART. 74.
 
