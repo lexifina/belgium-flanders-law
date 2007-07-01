@@ -1,0 +1,17 @@
+{
+  "codex_id": 1016002,
+  "title": "Besluit van de Vlaamse Regering van 2007-07-06 tot wijziging van het besluit van de Vlaamse Regering van 17 juni 2005 betreffende de aanduiding en uitoefening van de management- en projectleiderfuncties en van de functie van algemeen directeur bij de diensten van de Vlaamse overheid",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1016002/VolledigDocument?datum=2007-07-01",
+  "source_sha256": "5d2751e0253229b1f7e8cd3cdbdf81a71ffc9fdb27474211655f026d0986d1c3",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1016002&param=informatie",
+  "as_of": "2007-07-01",
+  "made": "2007-07-06",
+  "gazette": "2007-07-31",
+  "numac": 2007036197,
+  "document_start": "2007-07-01",
+  "document_end": null,
+  "in_force": "2007-07-01",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2007-07-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
