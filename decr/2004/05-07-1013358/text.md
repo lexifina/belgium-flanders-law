@@ -256,6 +256,10 @@ Artikel 53 treedt in werking op 1 juni 2004.
 
 De scholen die betrokken zijn bij de organisatie van het zonaal leerlingenvervoer georganiseerd krachtens de wet van 15 juli 1983 houdende oprichting van de Nationale Dienst voor Leerlingenvervoer, verlenen hun medewerking aan de organisatie van het collectief zonaal leerlingenvervoer.<br /><br />Zij stellen busbegeleiders aan en ontvangen hiervoor een toelage lastens de Vlaamse Gemeenschap. De Vlaamse Regering bepaalt het bedrag van deze toelage, de wijze van toekenning en de controlemaatregelen.
 
+### ART. 55bis.
+
+Aan het personeel dat door middel van een arbeidsovereenkomst tewerkgesteld is als busbegeleider bij een basisschool of een secundaire school kan tijdens de maanden juli en augustus een bestaanszekerheidsvergoeding worden toegekend. De Vlaamse Regering bepaalt hiervoor de modaliteiten.
+
 ### ART. 56.
 
 Artikel 55 heeft uitwerking op 1 september 2000.
