@@ -1,0 +1,13 @@
+# Ministerieel besluit van 2007-12-13 tot wijziging van het ministerieel besluit van 24 augustus 2007 tot bepaling van de diensten voor logistieke hulp en aanvullende thuiszorg die in aanmerking komen voor subsidiëring en tot bepaling van het aantal VTE per functiecategorie en per dienst voor het jaar 2007
+
+### Aanhef
+
+De Vlaamse minister van Welzijn, Volksgezondheid en Gezin,<br /><br />Gelet op de bijzondere wet van 8 augustus 1980 tot hervorming der instellingen, inzonderheid op artikel 5, § 1, II, 1°;<br /><br />Gelet op het decreet van 22 december 2006 houdende de algemene uitgavenbegroting van de Vlaamse Gemeenschap voor het begrotingsjaar 2007;<br /><br />Gelet op het decreet van 29 juni 2007 houdende de aanpassing van de algemene uitgavenbegroting van de Vlaamse Gemeenschap voor het begrotingsjaar 2007;<br /><br />Gelet op het besluit van de Vlaamse Regering van 10 juli 2001 tot regeling van de subsidiëring van de diensten voor logistieke hulp en aanvullende thuiszorg, gewijzigd bij de besluiten van de Vlaamse Regering van 10 juli 2001, 15 maart 2002, 21 juni 2002, 12 december 2003, 7 april 2004, 25 februari 2005, 31 maart 2006, 28 april 2006, 8 september 2006 en 12 januari 2007;<br /><br />Gelet op het besluit van de Vlaamse Regering van 27 juli 2004 tot bepaling van de bevoegdheden van de leden van de Vlaamse Regering, gewijzigd bij de besluiten van de Vlaamse Regering van 15 oktober 2004, 23 december 2005, 19 mei 2006, 30 juni 2006, 1 september 2006, 15 juni 2007, 28 juni 2007 en 10 oktober 2007;<br /><br />Gelet op het ministerieel besluit van 24 augustus 2007 tot bepaling van de diensten voor logistieke hulp en aanvullende thuiszorg die in aanmerking komen voor subsidiëring en tot bepaling van het aantal VTE per functiecategorie en per dienst voor het jaar 2007;<br /><br />Gelet op het ministerieel besluit van 9 november 2007 houdende de herverdeling van basisallocaties van de algemene uitgavenbegroting van de Vlaamse Gemeenschap voor het begrotingsjaar 2007;<br /><br />Gelet op het advies van de Inspectie van Financiën, gegeven op 7 december 2007,<br /><br />Besluit :<br /><br />
+
+### ART. 1.
+
+In het artikel 3 van het ministerieel besluit van 24 augustus 2007 tot bepaling van de diensten voor logistieke hulp en aanvullende thuiszorg die in aanmerking komen voor subsidiëring en tot bepaling van het aantal VTE per functiecategorie en per dienst voor het jaar 2007 worden de volgende wijzigingen aangebracht : <br />1° in het eerste lid wordt het woord « nul » vervangen door het woord « dertien »;<br />2° in het tweede lid wordt het getal « 2265 » vervangen door het getal « 2278 ».<br /><br />
+
+### ART. 2.
+
+Dit besluit heeft uitwerking met ingang van 1 juli 2007.<br /><br />
