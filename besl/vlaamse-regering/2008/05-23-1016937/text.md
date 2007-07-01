@@ -455,6 +455,73 @@ In artikel VII 63 van hetzelfde besluit, ingevoegd bij het besluit van de Vlaams
 
 <p>&nbsp;</p>
 
+### ART. 80.
+
+Aan artikel VII 65, § 1, van hetzelfde besluit, ingevoegd bij het besluit van de Vlaamse Regering van 16 maart 2007, wordt een derde lid toegevoegd, dat luidt als volgt :<br /><br />« De geïndexeerde dagbedragen in de bovenstaande tabel worden verminderd met de nominale waarde van de werkgeversbijdrage in een maaltijdcheque zoals bepaald in artikel VII 109ter. »
+
+### ART. 82.
+
+In artikel VII 80 van hetzelfde besluit, ingevoegd bij het besluit van de Vlaamse Regering van 16 maart 2007, worden de volgende wijzigingen aangebracht :<br /><br />1° in § 1 worden de woorden « 0,2903 euro (vanaf 1 juli 2006) » vervangen door de woorden « 0,2940 euro (vanaf 1 juli 2007) »;<br /><br />2° § 3 wordt vervangen door wat volgt :<br /><br />« § 3. Voor de reizende functies wordt een maandelijkse forfaitaire kilometervergoeding voor motorvoertuigen bepaald na beslissing van de Vlaamse minister, bevoegd voor de bestuurszaken. »;<br /><br />3° § 4 wordt vervangen als volgt :<br /><br />« § 4. De kilometervergoeding voor motorvoertuigen en de bij de rondzendbrief voor binnenlandse reizen horende tabel voor de maandelijkse forfaitaire kilometervergoeding wordt elk jaar op 1 juli herzien na beslissing van de Vlaamse minister, bevoegd voor de bestuurszaken. »
+
+### ART. 84.
+
+Aan artikel VII 83, § 1, van hetzelfde besluit, ingevoegd bij het besluit van de Vlaamse Regering van 16 maart 2007, wordt een tweede lid toegevoegd, dat luidt als volgt :<br /><br />« Het bedrag vermeld in het eerste lid, wordt na indexatie verminderd met de nominale waarde van de werkgeversbijdrage in een maaltijdcheque zoals bepaald in artikel VII 109ter. »
+
+### ART. 85.
+
+Aan artikel VII 87 van hetzelfde besluit, ingevoegd bij het besluit van de Vlaamse Regering van 16 maart 2007, wordt een § 4 toegevoegd die luidt als volgt :<br /><br />« De bedragen vermeld in § 1, § 2 en § 3 worden na indexatie verminderd met de nominale waarde van de werkgeversbijdrage in een maaltijdcheque. »
+
+### ART. 86.
+
+In artikel VII 88, § 1, van hetzelfde besluit, ingevoegd bij het besluit van de Vlaamse Regering van 16 maart 2007, wordt de tabel vervangen door wat volgt :<br>
+
+<table border="1" cellpadding="0" cellspacing="0" style="border-collapse:collapse">
+	<tbody>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; height:14.2pt; width:185.4pt">
+			<p>korps<!--?xml:namespace prefix = o         ns = "urn:schemas-microsoft-com:office:office" /--></p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; height:14.2pt; width:198pt">
+			<p>bedrag tegen 100% per maand</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; width:185.4pt">
+			<p>rivier- en kanaalloodsen</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; width:198pt">
+			<p>117,50 euro</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; width:185.4pt">
+			<p>Scheldemondenloodsen</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; width:198pt">
+			<p>220,50 euro</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; width:185.4pt">
+			<p>kustloodsen</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; width:198pt">
+			<p>85,50 euro</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+<p>&nbsp;</p>
+
+### ART. 87.
+
+Aan deel VII, titel 3 van hetzelfde besluit, ingevoegd bij het besluit van de Vlaamse Regering van 16 maart 2007, wordt een hoofdstuk 9, bestaande uit artikel VII 91bis, toegevoegd, dat luidt als volgt :<br /><br />« Hoofdstuk 9. Vergoeding voor personeelsleden, tewerkgesteld in Vlissingen en Amsterdam<br /><br />Art. VII 91bis. Personeelsleden met standplaats in Vlissingen, uitgezonderd de personeelsleden met de graad van loods, functie operationele loods, stuurman of kapitein, of tewerkgesteld in de Brakke Grond in Amsterdam, ontvangen een vergoeding van 30 euro (100 %) per maand.<br /><br />De bepalingen van artikel VII 15, VII 16 en VII 17 zijn van toepassing. »
+
+### ART. 89.
+
+Aan deel VII, titel 4 van hetzelfde besluit, ingevoegd bij het besluit van de Vlaamse Regering van 16 maart 2007, wordt een hoofdstuk 12 « Maaltijdcheques », bestaande uit artikel VII 109bis tot en met VII 109quinquies, toegevoegd, dat luidt als volgt :<br /><br />« Hoofdstuk 12. Maaltijdcheques<br /><br />Art. VII 109bis. Elk personeelslid heeft per effectieve werkdag recht op één maaltijdcheque, ongeacht de duur van de arbeidsprestaties.<br /><br />In afwijking van het voorgaande lid zijn de volgende personeelsleden uitgesloten van het voordeel van de maaltijdcheques :<br />1° personeelsleden met de graad van loods, functie operationele loods, stuurman of kapitein van de loodsboot,<br />2° personeelsleden tewerkgesteld als occasionele medewerker bij het BLOSO en als gids bij het KMSKA;<br />3° personeelsleden met standplaats in Vlissingen of tewerkgesteld in de Brakke Grond in Amsterdam;<br />4° personeelsleden die Vlaanderen vertegenwoordigen in het buitenland, zoals vermeld in artikel VII 91 van dit besluit, alsook het ondersteunend personeel;<br />5° personeelsleden in hun hoedanigheid van huisbewaarder of hun vervangers.<br /><br />In afwijking van het eerste lid bepaalt de Vlaamse minister, bevoegd voor de bestuurszaken, de diensten en personeelscategorieën waar het aantal toe te kennen maaltijdcheques wordt berekend door het totaal aantal effectief gepresteerde uren tijdens het kwartaal te delen door 7.36 uur. Als die bewerking een decimaal getal oplevert, wordt het afgerond op de hogere eenheid. Als het aldus verkregen getal groter is dan het maximale aantal werkbare dagen van de voltijds tewerkgestelde werknemer in het kwartaal, wordt het tot dat laatste getal beperkt.<br /><br />Art. VII 109ter. De nominale waarde van de maaltijdcheque bedraagt 5,00 euro, waarvan 2,50 euro werknemersbijdrage en 2,50 euro werkgeversbijdrage.<br /><br />Art. VII 109quater. In geval van een verlof als vermeld in artikel X 42 tot en met X 43; artikel X 49 tot en met X 53, en artikel X 55 tot en met X 58, blijft het recht op maaltijdcheques behouden als het salaris door de Vlaamse overheid wordt doorbetaald.<br /><br />In geval van dienstvrijstelling die een volledige werkdag in beslag neemt is er geen recht op maaltijdcheques, met uitzondering van dienstvrijstelling als vermeld in artikel X 73 en de dienstvrijstelling die vergelijkbaar is met een gewerkte dag of voor de oproeping voor het gerecht of door een andere overheid.<br /><br />Een buitenlandse dienstreis geeft geen recht op de toekenning van een maaltijdcheque.<br /><br />Er is geen recht op maaltijdcheques in geval van tuchtschorsing als vermeld in artikel VIII 2, 3°, of in geval van schorsing in het belang van de dienst zoals vermeld in deel IX.<br /><br />In geval van deelname aan een georganiseerde werkonderbreking als vermeld in artikel X 5, verliest het personeelslid het recht op maaltijdcheques als die dag geen prestaties worden verricht. In geval van lock-out, waarbij het personeelslid de toegang tot de werkplaats werd verhinderd, is er recht op een maaltijdcheque als het personeelslid die dag een prestatie levert of de afwezigheid via een attest verantwoordt.<br /><br />Art. VII 109quinquies. In de entiteiten met rechtspersoonlijkheid waar een voordeliger regeling bestaat, blijft die behouden.»
+
 ### ART. 90.
 
 In artikel VII 118, § 1, van hetzelfde besluit, ingevoegd bij het besluit van de Vlaamse Regering van 16 maart 2007, wordt het getal « 2.874,03 » vervangen door het getal « 3.056,03 ».
@@ -466,6 +533,10 @@ In artikel VII 124, § 3, van hetzelfde besluit, ingevoegd bij het besluit van d
 ### ART. 93.
 
 Artikel VII 151 van hetzelfde besluit, ingevoegd bij het besluit van de Vlaamse Regering van 16 maart 2007, wordt als volgt gewijzigd :<br /><br />1° wordt opgeheven;<br /><br />2° wordt terug ingevoegd als volgt :<br /><br />Ambtenaren van rang A1 die op de datum van de inwerkingtreding van dit besluit de diensthoofdentoelage bedoeld in artikel XIII 25 en XIII 26 van het besluit van de Vlaamse Regering van 13 januari 2006 houdende vaststelling van de rechtspositie van het personeel van de diensten van de Vlaamse overheid zoals gewijzigd bij besluit van 16 maart 2007 genieten, behouden in de volgende gevallen deze toelage :<br />1° De huidige titularissen van de A1-diensthoofdentoelage die bevorderd worden tot een functie van N-2 en wiens salaris in N-2 lager is dan het A1-salaris verhoogd met 10% totdat hun salaris in rang A2 hoger wordt dan de som van hun salaris in rang A1 verhoogd met de diensthoofdentoelage;<br />2° De huidige titularissen van de A1-diensthoofdentoelage die niet bevorderd worden in een functie van N-2, maar die de functie blijven uitoefenen en niet gevat worden door toepassing van vermelde overgangsregel, behouden ten persoonlijken titel de A1-diensthoofdentoelage.
+
+### ART. 94.
+
+Artikel VII 152 van hetzelfde besluit, ingevoegd bij het besluit van de Vlaamse Regering van 16 maart 2007, wordt opgeheven.
 
 ### ART. 96.
 
