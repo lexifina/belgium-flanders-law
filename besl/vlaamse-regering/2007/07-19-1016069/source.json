@@ -1,0 +1,17 @@
+{
+  "codex_id": 1016069,
+  "title": "Besluit van de Vlaamse Regering van 2007-07-19 tot wijziging van het besluit van de Vlaamse Regering van 1 maart 2002 betreffende de erkenning en de subsidiëring van de centra voor kinderzorg en gezinsondersteuning",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1016069/VolledigDocument?datum=2007-07-01",
+  "source_sha256": "20cf2b767f8b3c60bd3f5edc61a95d4723aa14a0827fcdeb24d8f30fcfe6be5a",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1016069&param=informatie",
+  "as_of": "2007-07-01",
+  "made": "2007-07-19",
+  "gazette": "2007-08-10",
+  "numac": 2007036347,
+  "document_start": "2007-07-01",
+  "document_end": null,
+  "in_force": "2007-07-01",
+  "article_versions": 5,
+  "record_form": "consolidated version as in force on 2007-07-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
