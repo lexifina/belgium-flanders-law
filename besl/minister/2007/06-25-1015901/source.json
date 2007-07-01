@@ -1,0 +1,17 @@
+{
+  "codex_id": 1015901,
+  "title": "Ministerieel besluit van 2007-06-25 tot wijziging van het ministerieel besluit van 21 december 2006 houdende tijdelijke aanvullende maatregelen tot het behoud van de visbestanden in zee",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1015901/VolledigDocument?datum=2007-07-01",
+  "source_sha256": "6daa8ca0dfd135fd2f09e589d5d693fc32b0ab70fc81a7271c0b77284236fbf4",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1015901&param=informatie",
+  "as_of": "2007-07-01",
+  "made": "2007-06-25",
+  "gazette": "2007-06-28",
+  "numac": 2007035975,
+  "document_start": "2007-07-01",
+  "document_end": "2007-12-31",
+  "in_force": "2007-07-01",
+  "article_versions": 11,
+  "record_form": "consolidated version as in force on 2007-07-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
