@@ -2,16 +2,16 @@
   "codex_id": 1016361,
   "title": "Ministerieel besluit van 2007-08-24 tot bepaling van de diensten voor logistieke hulp en aanvullende thuiszorg die in aanmerking komen voor subsidiëring en tot bepaling van het aantal VTE per functiecategorie en per dienst voor het jaar 2007",
   "type": "Ministerieel besluit",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1016361/VolledigDocument?datum=2007-01-01",
-  "source_sha256": "42a7fa297015a471276a5816329ceabbd433cd294de33d83712548139383eff9",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1016361/VolledigDocument?datum=2007-07-01",
+  "source_sha256": "3c3e6cfa2e02d6ce6afadcb7bd720e5f9d6f9d39eedb674a8810e1055240c9e7",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1016361&param=informatie",
-  "as_of": "2007-01-01",
+  "as_of": "2007-07-01",
   "made": "2007-08-24",
   "gazette": "2007-11-22",
   "numac": 2007037022,
   "document_start": "2007-01-01",
   "document_end": null,
-  "in_force": "2007-01-01",
+  "in_force": "2007-07-01",
   "article_versions": 6,
-  "record_form": "consolidated version as in force on 2007-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2007-07-01; future article versions excluded; article text as the API gives it"
 }

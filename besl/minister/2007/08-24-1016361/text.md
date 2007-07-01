@@ -445,7 +445,7 @@ Ter uitvoering van artikel 8, § 2, van het besluit van de Vlaamse Regering van 
 
 ### ART. 3.
 
-Vanaf 1 juli 2007 wordt het aantal toegewezen VTE logistiek personeel van de VZW Wit-Gele Kruis van Vlaanderen, vermeld in de tabel van artikel 2, op nul gebracht. <br /><br />Het totaal aantal toegewezen VTE logistiek personeel aan de private diensten voor logistieke hulp en aanvullende thuiszorg bedraagt 2265 VTE.<br /><br />
+Vanaf 1 juli 2007 wordt het aantal toegewezen VTE logistiek personeel van de VZW Wit-Gele Kruis van Vlaanderen, vermeld in de tabel van artikel 2, op dertien gebracht. <br /><br />Het totaal aantal toegewezen VTE logistiek personeel aan de private diensten voor logistieke hulp en aanvullende thuiszorg bedraagt 2278 VTE.<br /><br />
 
 ### ART. 4.
 
