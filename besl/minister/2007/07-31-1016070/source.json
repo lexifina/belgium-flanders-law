@@ -1,0 +1,17 @@
+{
+  "codex_id": 1016070,
+  "title": "Ministerieel besluit van 2007-07-31 tot vaststelling van de coëfficiënten voor het berekenen van de geactualiseerde kostprijs van de woningen die verhuurd worden overeenkomstig het sociale huurstelsel",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1016070/VolledigDocument?datum=2007-07-01",
+  "source_sha256": "d87d6514dfb3f1f5646588f5dab4e08de5f82601bc2b48f8c1b4943249970f97",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1016070&param=informatie",
+  "as_of": "2007-07-01",
+  "made": "2007-07-31",
+  "gazette": "2007-08-10",
+  "numac": 2007036378,
+  "document_start": "2007-07-01",
+  "document_end": null,
+  "in_force": "2007-07-01",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2007-07-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
