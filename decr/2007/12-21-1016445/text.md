@@ -20,6 +20,18 @@
 
 ## Afdeling VIII UZ Gent
 
+### ART. 12.
+
+In het koninklijk besluit nr. 542 van 31 maart 1987, artikel 6, § 5, worden de volgende wijzigingen aangebracht :<br />1° de woorden "Universitair Ziekenhuis" worden telkens vervangen door de woorden "UZ Gent";<br />2° het woord "ziekenhuisgeneesheren" wordt vervangen door het woord "ziekenhuisartsen";<br />3° het woord "pensioenfonds" wordt vervangen door de woorden "instelling voor bedrijfspensioenvoorziening";<br />4° het woord "lichamelijke" wordt vervangen door het woord "medische";<br />5° de woorden "het ministerie" worden vervangen door de woorden "de diensten";<br />6° de woorden "het pensioenfonds" worden vervangen door de woorden "de instelling voor bedrijfs-pensioenvoorziening".<br /><br />
+
+### ART. 13.
+
+In hetzelfde koninklijk besluit wordt artikel 6, § 6, vervangen door wat volgt :<br />« § 6. Met het oog op het afsluiten van de in § 5 bedoelde groepsverzekering of het oprichten van een instelling voor bedrijfspensioenvoorziening, kan het UZ Gent een rechtspersoon voor de financiering van pensioenen in enige door of krachtens de wet toegelaten of opgelegde rechtsvorm, oprichten. » <br /><br />
+
+### ART. 14.
+
+In hetzelfde koninklijk besluit worden in artikel 6, § 7, eerste lid, de woorden "Universitair Ziekenhuis Gent" vervangen door de woorden "UZ Gent" en worden de woorden "vzw Pensioenfonds, bedoeld" geschrapt. Artikel 6, § 7, eerste lid, van hetzelfde koninklijk besluit wordt verder aangevuld met de woorden "bedoelde instelling".<br /><br />In hetzelfde koninklijk besluit worden in artikel 6, § 7, tweede lid, de woorden "vzw Pensioenfonds UZ" vervangen door de woorden "in § 6 bedoelde instelling".<br /><br />In hetzelfde koninklijk besluit worden in artikel 6, § 7, derde lid, de woorden "vzw Pensioenfonds" vervangen door de woorden "in § 6 bedoelde instelling".<br /><br />
+
 ## Afdeling IX Financiering hoger onderwijs 2008
 
 ## HOOFDSTUK III Fiscaliteit
