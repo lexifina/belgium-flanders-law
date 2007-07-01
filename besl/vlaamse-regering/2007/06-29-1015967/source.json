@@ -1,0 +1,17 @@
+{
+  "codex_id": 1015967,
+  "title": "Besluit van de Vlaamse Regering van 2007-06-29 houdende de voorwaarden betreffende sociale leningen met Gewestwaarborg voor het bouwen, kopen, verbouwen of behouden van woningen",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1015967/VolledigDocument?datum=2007-07-01",
+  "source_sha256": "bc95d08b688665b317aee63494d8ac5c95321f337993872ca590b8d232650e14",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1015967&param=informatie",
+  "as_of": "2007-07-01",
+  "made": "2007-06-29",
+  "gazette": "2007-07-18",
+  "numac": 2007036162,
+  "document_start": "2007-07-01",
+  "document_end": "2020-12-31",
+  "in_force": "2007-07-01",
+  "article_versions": 23,
+  "record_form": "consolidated version as in force on 2007-07-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
