@@ -2,68 +2,68 @@
 
 ### ART. 1.
 
-§ 1. Voor de toepassing van dit besluit wordt verstaan onder:<br />1° Vlaamse minister: het lid van de Vlaamse regering, bevoegd voor de Huisvesting;<br />1°bis departement : het Departement Ruimtelijke Ordening, Woonbeleid en Onroerend Erfgoed;<br />1°ter agentschap : het agentschap Wonen-Vlaanderen van het Vlaams Ministerie van Ruimtelijke Ordening, Woonbeleid en Onroerend Erfgoed;<br />1°quater VMSW : de Vlaamse Maatschappij voor Sociaal Wonen;<br />2° lening: de hypothecaire lening of de opneming van een voorschot in het kader van een hypothecaire kredietopening;<br />3° ontlener: de particuliere persoon die de lening aangaat en, eventueel, de persoon met wie hij op de datum van de leningsaanvraag wettelijk of feitelijk samenwoont;<br />4° woning: het huis of appartement dat hoofdzakelijk bestemd is voor de huisvesting van een gezin;<br />5° sociale woning: hetzij een volkswoning of een kleine landeigendom die verkocht wordt door de VMSW of een erkende sociale huisvestingsmaatschappij, of gebouwd door bemiddeling van een dezer maatschappijen, hetzij een te bouwen, te kopen en/of te verbouwen woning waarvan de verkoopwaarde, eventueel na de uitvoering van sanerings-, verbeterings- en/of aanpassingswerkzaamheden, 89 000 euro niet overschrijdt,  cumulatiefverhoogd met 5 procent:<br />- voor elk kind ten laste;<br />- voor ieder van de ascendenten van de ontlener die op de datum van de leningsaanvraag sedert tenminste zes maanden met hem samenwoont;<br />6° kind ten laste:<br />- het kind waarvoor op de datum van de leningsaanvraag kinderbijslag of wezentoelage wordt uitbetaald aan de ontlener of dat door de Vlaamse minister, na overlegging van bewijzen, beschouwd wordt als te zijnen laste;<br />- de ontlener en elk familielid dat deel uitmaakt van zijn gezin en met hem de woning zal betrekken, die onder de door de Vlaamse minister gestelde voorwaarden erkend zijn als ernstig gehandicapt;<br />7° verkoopwaarde van de woning: de door de kredietinstelling geraamde waarde bij vrijwillige verkoop, met inbegrip van de grond, na uitvoering van eventuele sanerings-, verbeterings- en/of aanpassingswerkzaamheden;<br />8° koopprijs van de woning: de door de ontlener aan de verkoper van de woning betaalde prijs, exclusief de erbijhorende kosten en exclusief de BTW.<br /><br />§ 2. Het maximumbedrag vermeld in § 1, 5°, wordt jaarlijks op 1 juli aangepast als volgt:<br />1° bij de aankoop van bestaande woonhuizen of appartementen wordt de door het Nationaal Instituut voor de Statistiek opgetekende gemiddelde verkoopprijs van woonhuizen of appartementen gehanteerd om de maximum verkoopwaarde aan te passen aan de gegeven marktomstandigheden. Dit gebeurt aan de hand van de volgende formule:<br /><br />maximum verkoopwaardetN = (gemiddelde verkoopprijstN / gemiddelde verkoopprijst0 ) x maximum verkoopwaardet0<br /><br />waarbij t0 het referentiejaar is, en tN het jaar van het verlijden van de leenakte;<br /><br />2° voor nieuwbouwappartementen wordt de volgende formule gehanteerd:<br /><br />maximum verkoopwaardetN = [90/100 x (ABEXtN / ABEXt0 ) + 10/100 x (grondprijstN / grondprijst0)] x maximum verkoopwaardet0<br /><br />waarbij t0, het referentiejaar is, en tN het jaar van het verlijden van de leenakte;<br /><br />3° voor nieuwbouwhuizen wordt de volgende formule gehanteerd:<br /><br />maximum verkoopwaardetN = [50/100 x (ABEXtN / ABEXt0 ) + 50/100 x (grondprijstN / grondprijst0 )] x maximum verkoopwaardet0<br /><br />waarbij t0 het referentiejaar is, en tN het jaar van het verlijden van de leenakte.<br /><br />Voor de tijdens tN en tN-1 nog niet-gekende gemiddelde grondprijzen en verkoopprijzen van woonhuizen of appartementen, wordt extrapolatie toegepast. De extrapolatie gebeurt op basis van de laatste vijf gekende jaargemiddelden, waaruit de gemiddelde wijziging op jaarbasis wordt afgeleid.<br /><br />De in 2° en 3° vermelde maximum verkoopwaarde wordt met 10 % verminderd.<br /><br />Het resultaat van in 1°, 2° en 3° gevoerde berekeningen wordt telkens afgerond op het dichtstbijzijnde duizendtal.
+...
 
 ### ART. 2.
 
-Onder de bij dit besluit gestelde voorwaarden verleent het Gewest zijn waarborg voor de aflossing van de hoofdsom, de intresten en de extra-kosten van de leningen die voor het bouwen of kopen van en/of het uitvoeren van sanerings-, verbeterings-, en/of aanpassingswerkzaamheden aan sociale woningen worden toegestaan door de overeenkomstig artikel 78 van de Vlaamse Wooncode erkende kredietmaatschappijen of -instellingen.<br /><br />Om de drie maanden bezorgen de in het eerste lid vermelde instellingen aan het agentschap een lijst van de leningen die ze met het voordeel van de Gewestwaarborg hebben toegestaan, overeenkomstig een door het agentschap vastgesteld model.
+...
 
 ### ART. 3.
 
-§ 1. De ontlener mag geen andere woning volledig in volle eigendom of volledig in vruchtgebruik hebben op de datum waarop de lening wordt toegekend. Voor de toepassing van deze voorwaarde wordt geen rekening gehouden met de vervreemding van een gedeelte van de eigendom of een gedeelte van het vruchtgebruik tijdens de twee jaar die aan de voormelde datum voorafgaan.<br /><br />Van de in het eerste lid gestelde voorwaarde wordt afgeweken indien de ontlener die woning bewoont en deze:<br />1° ofwel ongezond en niet-verbeterbaar is en hij zich ertoe verbindt ze te slopen of niet meer als woning te laten dienen zodra hij de woning waarvoor de lening werd aangegaan betrekt of, indien hij deze reeds voor het verlijden van de koopakte betrok, zodra de lening is toegestaan. De woning wordt als dusdanig beschouwd als ze door de bevoegde overheid onbewoonbaar is verklaard of als dusdanig geadviseerd is overeenkomstig artikel 15 van de Vlaamse Wooncode;<br />2° ofwel overbewoond verklaard is of als dusdanig geadviseerd is overeenkomstig artikel 17 van de Vlaamse Wooncode..<br /><br />§ 2. De ontlener moet de sociale woning binnen een termijn van twee jaar na de toekenning van de lening betrekken en ze bewonen zolang de gewestwaarborg geldt. Met instemming van de kredietverlener kan de leidend ambtenaar van het agentschap, op verzoek van de ontlener, in uitzonderlijke gevallen een afwijking toestaan met betrekking tot deze voorwaarden.
+...
 
 ### ART. 4.
 
-Behoudens wanneer de ontlener met betrekking tot de woning waarvoor de lening wordt aangegaan in aanmerking komt voor een tegemoetkoming van het Vlaamse Gewest voor de bouw of de koop van een woning, dient hij bij de kredietinstelling de volgende dokumenten over te leggen:<br />1° een verklaring waarbij hij op zijn eer bevestigt dat hij voldoet aan de voorwaarden, gesteld in artikel 3, § 1, eerste lid;<br />2° in voorkomend geval, een geldig bewijs betreffende de onbewoonbaarheid of het gezond karakter van de in artikel 3, tweede lid bedoelde woning, alsmede de in dat geval aan te gane verbintenissen.<br /><br />De kredietinstelling moet erop toezien dat de in het eerste lid, 2°, vermelde verbintenissen nagekomen worden.
+...
 
 ### ART. 5.
 
-Onverminderd eventuele aanvullende zekerheidsinstellingen, opgelegd door de kredietinstelling, moet de aflossing van de lening gewaarborgd zijn door de inschrijving van een hypotheek in eerste rang op de woning waarop de lening betrekking heeft. Gaat het om een bijkomende lening bij de kredietinstelling die al een lening in eerste rang heeft toegestaan, dan is een hypotheek in lagere rang voldoende, ongeacht of de gewestwaarborg al dan niet werd verleend met betrekking tot de lening in eerste rang.<br /><br />Bij overlijden moet de terugbetaling van de lening volledig gedekt zijn door een tijdelijke levensverzekering met afnemend kapitaal, tenzij de ontlener om gezondheidsredenen geen levensverzekering kan genieten.<br /><br />De lening mag slechts worden toegestaan voor ten hoogste [dertig jaar.  <span class="reference">(verv. B.V.R. 2 april 2004, art. 16, I: 1 juli 2004)</span> ]
+...
 
 ### ART. 6.
 
-De lening mag, naargelang het geval, niet meer bedragen dan:<br /><br />1° 100 pct. van de verkoopwaarde of, indien deze lager is, van de kostprijs van het bouwwerk, wanneer het gaat om de bouw van een sociale woning;<br /><br />2° 100 pct. van de verkoopwaarde of, indien deze lager is, van de koopprijs, wanneer het gaat om de koop van een sociale woning;<br /><br />3° 100 pct. van de verkoopwaarde na uitvoering van die werkzaamheden of, indien het totaal hiervan lager is, van de koopprijs, verhoogd met de kostprijs van de werkzaamheden wanneer het gaat om de koop van een sociale woning en de uitvoering van sanerings-, verbeterings- en/of aanpassingswerkzaamheden.<br /><br />4° 100 pct. van de werkelijke kostprijs van de werkzaamheden of, indien dit lager is, 200 pct. van de geraamde aangroei van de verkoopwaarde, wanneer het de uitvoering betreft van sanerings-, verbeterings- en/of aanpassingswerkzaamheden.<br /><br />De in het eerste lid vastgestelde maxima van 100 pct. en 200 pct. worden respectievelijk teruggebracht tot 90 pct. en 180 pct. wanneer de terugbetaling van de lening niet gedekt is door een levensverzekering.<br /><br />Wanneer voor dezelfde woning meerdere leningen worden aangegaan, mag het totale uitstaande saldo van die leningen op geen enkel ogenblik de verkoopwaarde van de woning - eventueel na de uitvoering van de werkzaamheden waarvoor een bijkomende lening werd aangegaan - overschrijden.
+...
 
 ### ART. 7.
 
-De kredietinstelling schat de woning en bepaalt er de verkoopwaarde van, eventueel voor en na de uitvoering van de geplande werkzaamheden en, wanneer het gaat om de bouw of de verbouwing van een woning, de werkelijke of geraamde kostprijs, grond inbegrepen. De kostprijs van de bouw- of verbouwingswerkzaamheden omvat ook de daarop verschuldigde BTW.
+...
 
 ### ART. 8.
 
-§ 1. [...  <span class="reference">(opgeh. B.V.R. 2 april 2004, art. 17, I: 1 juli 2004)</span> ]<br /><br />§ 2. In de met het voordeel van de waarborg af te sluiten leningsovereenkomsten moet worden bepaald dat:<br /><br />1° de terugbetaling zal gebeuren door aflossing in de vorm van annuïteiten, semestraliteiten, trimestraliteiten of mensualiteiten;<br /><br />2° de vervroegde opvordering niet mag worden geëist zonder voorafgaande ingebrekestelling van de schuldenaar aan wie een uitstel van tenminste dertig dagen moet worden gelaten om zijn toestand te regulariseren.
+...
 
 ### ART. 9.
 
-De gewestwaarborg slaat slechts op het gedeelte van de lening in eerste rang dat 70 pct van de verkoopwaarde van de woning overtreft.<br /><br />Betreft het een bijkomende lening bestemd voor de sanering, verbetering en/of aanpassing van een woning, dan dekt de waarborg enkel het gedeelte van die bijkomende lening dat 70 pct van de aangroei van de verkoopwaarde overtreft.
+...
 
 ### ART. 10.
 
-De kredietinstellingen innen ten laste van de ontleners die voorkomen op de in artikel 2, tweede lid vermelde lijst een bijdrage van 0,25 pct. op de geleende bedragen die binnen twintig dagen na het verlijden van de leningsakte wordt gestort ten voordele van het Waarborgfonds Sociale Leningen, vermeld in artikel 78, tweede lid, van de Vlaamse Wooncode.<br /><br />Het bedrag dat overeenstemt met het gedeelte van de lening dat gedekt is door de waarborg wordt betaald ten laste van het Waarborgfonds Sociale Leningen als de kredietverlener een beroep doet op de gewestwaarborg nadat de zekerheidstellingen van een in gebreke blijvende lener zijn opgebruikt.<br /><br />
+...
 
 ### ART. 11.
 
-De aanvraag tot de in artikel 2 vermelde erkenning kan slechts worden ingediend door de kredietinstelling die:<br />1° ingeschreven is door de Commissie voor het Bank-, Financie- en Assurantiewezen en onderworpen is aan de controle door die commissie ingesteld bij titel II van de wet van 4 augustus 1992 op het hypothecair krediet;<br />2° de verbintenis aangaat dat zij alle bij dit besluit in haren hoofde gestelde voorwaarden zal naleven.<br /><br />De aanvraag wordt ingediend bij het departement en moet vergezeld zijn van:<br />1° de opsomming van alle voorwaarden die de kredietinstelling oplegt voor de leningen die zij zal toestaan met het voordeel van de gewestwaarborg;<br />2° een modelakte van die leningen;<br />3° een opgave van het minimum kredietvolume dat zij jaarlijks ter beschikking zal stellen voor die leningen.
+...
 
 ### ART. 12.
 
-§ 1. De kredietinstellingen die bij de inwerkingtreding van dit besluit erkend zijn om voor het bouwen, kopen of verbouwen van volkswoningen, kleine landeigendommen of daarmee gelijkgestelde woningen hypothecaire leningen toe te staan met het voordeel van de gewestwaarborg, zijn gemachtigd om onder de bij dit besluit gestelde voorwaarden de in artikel 2 vermelde leningen toe te staan, op voorwaarde dat zij voldoen aan de vereiste van het eerste lid van artikel 11 van dit besluit.<br /><br />§ 2. De bepalingen van artikel 9 zijn ook van toepassing op de waarborgen die voor de inwerkingtreding van dit besluit door het Gewest werden toegestaan overeenkomstig de bepalingen van het in artikel 13 vermelde koninklijk besluit of van het door dat besluit opgeheven koninklijk besluit van 10 augustus 1967.
+...
 
 ### ART. 13.
 
-(niet opgenomen)<br /><br />(Heft het besluit van de Vlaamse regering van 20 maart 1991, houdende de voorwaarden betreffende de sociale leningen met gewestwaarborg voor het bouwen, kopen of verbouwen van woningen op)
+...
 
 ### ART. 14.
 
-(niet opgenomen)<br /><br />§ 1. (Wijzigt het besluit van de Vlaamse regering van 21 december 1988 houdende uitvoering van de artikelen 57 tot 60 van de Huisvestingscode, inzake leningen aan mijnwerkers)<br /><br />§ 2. (Wijzigt artikel 3 van het besluit van de Vlaamse regering van 23 november 1994 houdende de voorwaarden betreffende het toestaan van leningen aan particulieren door de Vlaamse Huisvestingsmaatschappij)
+...
 
 ### ART. 15.
 
-De in artikel 8, § 1, tweede lid, vermelde extra-uitgaven mogen niet meer bedragen dan 5 000 frank voor de leningsaanvragen die ingediend werden tot en met 11 januari 1995.
+...
 
 ### ART. 16.
 
-Dit besluit treedt in werking op 1 januari 1995.
+...
 
 ### ART. 17.
 
-De Vlaamse minister, bevoegd voor de huisvesting, en de Vlaamse minister, bevoegd voor financiën zijn, ieder wat hem/haar betreft, belast met de uitvoering van dit besluit.
+...
