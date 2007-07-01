@@ -2,16 +2,16 @@
   "codex_id": 1008259,
   "title": "Ministerieel besluit van 2001-07-09 houdende nadere bepalingen betreffende de kostenvergoeding voor opvanggezinnen, aangesloten bij een dienst voor opvanggezinnen",
   "type": "Ministerieel besluit",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1008259/VolledigDocument?datum=2006-06-01",
-  "source_sha256": "ffe12689efe1bd9ba877cc486f994772a2f89c4d395737f7b8b29338c48bc038",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1008259/VolledigDocument?datum=2007-07-01",
+  "source_sha256": "2d59450e96f7b2191d88b04f2c1f47fec095047805c799c38d56afe0689115f5",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1008259&param=informatie",
-  "as_of": "2006-06-01",
+  "as_of": "2007-07-01",
   "made": "2001-07-09",
   "gazette": "2001-08-29",
   "numac": 2001035977,
   "document_start": "2001-01-01",
   "document_end": "2007-06-30",
-  "in_force": "2006-06-01",
+  "in_force": "2007-07-01",
   "article_versions": 7,
-  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2007-07-01; future article versions excluded; article text as the API gives it"
 }
