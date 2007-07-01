@@ -2,16 +2,16 @@
   "codex_id": 1014849,
   "title": "Ministerieel besluit van 2001-12-21 tot vaststelling van een keurings- en certificeringsreglement van zaaizaden van groenten en van cichorei voor de industrie",
   "type": "Ministerieel besluit",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1014849/VolledigDocument?datum=2006-06-01",
-  "source_sha256": "9f10a5de5e70d2cc11eb261924f133436b0f4afacf9b2f809f34ded41912d0d2",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1014849/VolledigDocument?datum=2007-07-01",
+  "source_sha256": "2fc08edb8de7ff8ea6f8b4fd89b7f526d81fc7598f4845ee9025968e308706a4",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1014849&param=informatie",
-  "as_of": "2006-06-01",
+  "as_of": "2007-07-01",
   "made": "2001-12-21",
   "gazette": "2002-03-06",
   "numac": 0,
   "document_start": "2002-03-06",
   "document_end": "2012-06-29",
-  "in_force": "2006-06-01",
+  "in_force": "2007-07-01",
   "article_versions": 16,
-  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2007-07-01; future article versions excluded; article text as the API gives it"
 }
