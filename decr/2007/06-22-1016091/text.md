@@ -290,6 +290,10 @@ Aan artikel 6 van het decreet van 9 december 2005 betreffende de organisatie van
 
 ## Afdeling XIV Decreet betreffende de regionale technologische centra en houdende noodzakelijke en dringende onderwijsbepalingen
 
+### ART. IX.42.
+
+In het decreet van 7 mei 2004 betreffende de regionale technologische centra en houdende noodzakelijke en dringende onderwijsbepalingen, zoals gewijzigd, wordt een artikel 55bis ingevoegd dat luidt als volgt :<br />« Artikel 55bis <br />Aan het personeel dat door middel van een arbeidsovereenkomst tewerkgesteld is als busbegeleider bij een basisschool of een secundaire school kan tijdens de maanden juli en augustus een bestaanszekerheidsvergoeding worden toegekend. De Vlaamse Regering bepaalt hiervoor de modaliteiten. ».<br /><br />
+
 ## Afdeling XV Inwerkingtreding
 
 ## HOOFDSTUK X Autonome bepalingen
@@ -307,6 +311,10 @@ Aan artikel 6 van het decreet van 9 december 2005 betreffende de organisatie van
 De Vlaamse Regering kan een subsidie verlenen aan organisaties die door middel van een Time-outprogramma opvang en begeleiding bieden aan leerlingen uit het voltijds onderwijs, met een beperkt leerplan of uit de erkende vormingen, die wegens pedagogische, juridische, sociale of persoonlijke redenen tijdelijk uit het onderwijs worden genomen met de bedoeling hen opnieuw in het onderwijs op te nemen.<br /><br />De Vlaamse Regering bepaalt de voorwaarden waaronder deze subsidies kunnen worden toegekend, de wijze van selectie, de duur en de evaluatie van de projecten.<br /><br />
 
 ## Afdeling III Deeltijds kunstonderwijs
+
+### ART. X.4.
+
+De volgende projecten deeltijds kunstonderwijs worden met ongewijzigde voorwaarden verlengd tot en met 31 augustus 2008 :<br />a) intergemeentelijke samenwerking Haspengouwse academie;<br />b) intergemeentelijke samenwerking Hagelandse academie;<br />c) intergemeentelijke samenwerking Noord-Limburg;<br />d) intergemeentelijke samenwerking Noorderkempen;<br />e) intergemeentelijke samenwerking Noord-Antwerpen;<br />f) aanhechting studierichting beeldende kunst in Stedelijke Academie voor Artistieke Vorming van Ronse.<br /><br />
 
 ## Afdeling IV Brussels ondersteuningscentrum secundair onderwijs
 
