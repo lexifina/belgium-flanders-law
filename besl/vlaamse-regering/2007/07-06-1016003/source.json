@@ -1,0 +1,17 @@
+{
+  "codex_id": 1016003,
+  "title": "Besluit van de Vlaamse Regering van 2007-07-06 tot wijziging van het Vlaams personeelsstatuut van 13 januari 2006, wat betreft de invoering van een mandaattoelage",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1016003/VolledigDocument?datum=2007-07-01",
+  "source_sha256": "a419baa82745ec14a709fe54343bf9994365a1f436043f63bd91c4788f50ed25",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1016003&param=informatie",
+  "as_of": "2007-07-01",
+  "made": "2007-07-06",
+  "gazette": "2007-07-31",
+  "numac": 2007036198,
+  "document_start": "2007-07-01",
+  "document_end": null,
+  "in_force": "2007-07-01",
+  "article_versions": 5,
+  "record_form": "consolidated version as in force on 2007-07-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
