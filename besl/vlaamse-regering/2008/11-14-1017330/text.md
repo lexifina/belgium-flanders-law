@@ -20,6 +20,77 @@ In deel XI, titel 3, van hetzelfde besluit wordt hoofdstuk 6, bestaande uit arti
 
 In deel XI, titel 3, van hetzelfde besluit wordt het hoofdstuk 7, bestaande uit artikel 158septies, opgeheven.
 
+### ART. 77.
+
+<p>Aan deel XI, titel 3, van hetzelfde besluit wordt een hoofdstuk 8, dat bestaat uit artikel 158octies tot en met 158decies, toegevoegd, dat luidt als volgt :<br>
+<br>
+« Hoofdstuk 8. Maaltijdcheques<br>
+<br>
+Art. 158octies. Elke gewestelijk ontvanger heeft per effectieve werkdag recht op één maaltijdcheque, ongeacht de duur van de arbeidsprestaties.<br>
+<br>
+Art. 158nonies. De nominale waarde van de maaltijdcheque bedraagt 5,00 euro, waarvan de werknemersbijdrage en de werkgeversbijdrage worden vastgesteld als volgt :</p>
+
+<table border="0" cellpadding="0" cellspacing="0" style="border-collapse:collapse; width:447.9pt">
+	<tbody>
+		<tr>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:black 1pt solid; border-right:black 1pt solid; border-top:black 1pt solid; height:14.2pt; width:205.65pt">
+			<p>periode<!--?xml:namespace         prefix = o ns = "urn:schemas-microsoft-com:office:office"         /--></p>
+			</td>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:black 1pt solid; height:14.2pt; width:121pt">
+			<p>werknemersbijdrage</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:black 1pt solid; height:14.2pt; width:121.25pt">
+			<p>werkgeversbijdrage</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:black 1pt solid; border-right:black 1pt solid; border-top:#f0f0f0; height:14.2pt; width:205.65pt">
+			<p>1 juli 2007 tot en met 31 augustus 2008</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.2pt; width:121pt">
+			<p>2,50 euro</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.2pt; width:121.25pt">
+			<p>2,50 euro</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:black 1pt solid; border-right:black 1pt solid; border-top:#f0f0f0; height:14.2pt; width:205.65pt">
+			<p>1 september 2008 tot en met 30 april 2009</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.2pt; width:121pt">
+			<p>1,50 euro</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.2pt; width:121.25pt">
+			<p>3,50 euro</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:black 1pt solid; border-right:black 1pt solid; border-top:#f0f0f0; height:14.2pt; width:205.65pt">
+			<p>vanaf 1 mei 2009</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.2pt; width:121pt">
+			<p>1,09 euro</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.2pt; width:121.25pt">
+			<p>3,91 euro</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+<p>&nbsp;</p>
+
+<p>Art. 158decies. § 1. In geval van een verlof voor opdracht, blijft het recht op maaltijdcheques behouden indien het salaris door de Vlaamse overheid wordt doorbetaald.<br>
+<br>
+§ 2. In geval van dienstvrijstelling die een volledige werkdag in beslag neemt, beslist de arrondissementscommissaris naar gelang van de aard van de dienstvrijstelling of het recht op maaltijdcheques behouden blijft.<br>
+<br>
+§ 3. Een buitenlandse dienstreis geeft geen recht op de toekenning van een maaltijdcheque.<br>
+<br>
+§ 4. Er is geen recht op maaltijdcheques in geval van tuchtschorsing zoals vermeld in artikel VIII 2, 3°, van het VPS of in geval van schorsing in het belang van de dienst zoals vermeld in deel IX van het VPS.<br>
+<br>
+§ 5. In geval van deelname aan een georganiseerde werkonderbreking zoals vermeld in artikel X 5 van het VPS verliest de gewestelijk ontvanger het recht op maaltijdcheques indien die dag geen prestaties worden verricht. In geval van lock-out, waarbij het personeelslid de toegang tot de werkplaats werd verhinderd, is er recht op een maaltijdcheque als de gewestelijk ontvanger die dag een prestatie levert of de afwezigheid via een attest verantwoordt. »</p>
+
 ### ART. 80.
 
 In deel XII van hetzelfde besluit wordt een artikel 159bis ingevoegd, dat luidt als volgt :<br /><br />« Art. 159bis. De contractuele gewestelijk ontvanger behoudt in geval van carenzdag, zijn bezoldiging voor die dag. »
