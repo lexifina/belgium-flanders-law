@@ -1,0 +1,17 @@
+{
+  "codex_id": 1015930,
+  "title": "Ministerieel besluit van 2007-06-11 tot bepaling van de standaard voor de titel van monitor/begeleider in de beschutte en sociale werkplaatsen",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1015930/VolledigDocument?datum=2007-07-02",
+  "source_sha256": "aaec37ca7258c2d85298ad119664a16e97f9a43c995e89a0977819335ba55ea7",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1015930&param=informatie",
+  "as_of": "2007-07-02",
+  "made": "2007-06-11",
+  "gazette": "2007-07-02",
+  "numac": 2007035944,
+  "document_start": "2007-07-02",
+  "document_end": "2018-12-31",
+  "in_force": "2007-07-02",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2007-07-02; oldest version available; future article versions excluded; article text as the API gives it"
+}
