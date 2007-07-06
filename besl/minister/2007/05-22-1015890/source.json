@@ -1,0 +1,17 @@
+{
+  "codex_id": 1015890,
+  "title": "Ministerieel besluit van 2007-05-22 Reglement van inwendige orde van de Beheerscommissie van het Eigen Vermogen van het Instituut voor Natuur- en Bosonderzoek",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1015890/VolledigDocument?datum=2007-07-06",
+  "source_sha256": "580c5e4e3bc7d3568b16d1c8b9cd42ac19e8f54a1aebf95b313a96a40384a1cb",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1015890&param=informatie",
+  "as_of": "2007-07-06",
+  "made": "2007-05-22",
+  "gazette": "2007-06-26",
+  "numac": 2007035927,
+  "document_start": "2007-07-06",
+  "document_end": null,
+  "in_force": "2007-07-06",
+  "article_versions": 17,
+  "record_form": "consolidated version as in force on 2007-07-06; oldest version available; future article versions excluded; article text as the API gives it"
+}
