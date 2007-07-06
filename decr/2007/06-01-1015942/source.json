@@ -1,0 +1,17 @@
+{
+  "codex_id": 1015942,
+  "title": "Decreet van 2007-06-01 betreffende de minimumveiligheidseisen voor tunnels in het trans-Europese wegennet",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1015942/VolledigDocument?datum=2007-07-06",
+  "source_sha256": "eed2b76c32ab0fc713b8aa957ae1d8c4f6ac4b717d1dde388506da1e7e6a96bf",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1015942&param=informatie",
+  "as_of": "2007-07-06",
+  "made": "2007-06-01",
+  "gazette": "2007-07-06",
+  "numac": 2007036014,
+  "document_start": "2007-07-06",
+  "document_end": null,
+  "in_force": "2007-07-06",
+  "article_versions": 14,
+  "record_form": "consolidated version as in force on 2007-07-06; oldest version available; future article versions excluded; article text as the API gives it"
+}
