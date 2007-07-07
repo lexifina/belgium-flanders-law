@@ -1,0 +1,17 @@
+{
+  "codex_id": 1015891,
+  "title": "Besluit van de Vlaamse Regering van 2007-04-20 tot registratie van de Faculteit voor Vergelijkende Godsdienstwetenschappen als geregistreerde instelling voor hoger onderwijs",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1015891/VolledigDocument?datum=2007-07-07",
+  "source_sha256": "c225bc83959d07f5ec1fff6e1f313b2dcea2409554c1414b96200054a900a51b",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1015891&param=informatie",
+  "as_of": "2007-07-07",
+  "made": "2007-04-20",
+  "gazette": "2007-06-27",
+  "numac": 2007035914,
+  "document_start": "2007-07-07",
+  "document_end": null,
+  "in_force": "2007-07-07",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2007-07-07; oldest version available; future article versions excluded; article text as the API gives it"
+}
