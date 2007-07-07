@@ -1,0 +1,21 @@
+# Besluit van de Vlaamse Regering van 2007-05-25 houdende klassering van de waterloop gekend als de Vuilvoortloop en het Loopke op het grondgebied van de stad Herentals tot onbevaarbare waterloop van de derde categorie en op het grondgebied van de gemeente Grobbendonk en Vorselaar tot onbevaarbare waterloop van de tweede categorie
+
+### Aanhef
+
+De Vlaamse Regering,<br /><br />Gelet op de wet van 28 december 1967 betreffende de onbevaarbare waterlopen, inzonderheid op artikel 3, § 2, en artikel 4.1; <br /><br />Gelet op het koninklijk besluit van 29 november 1968 houdende vaststelling van de procedure bij de onderzoeken de commodo et incommodo voorgeschreven door de wet van 28 december 1967 betreffende de onbevaarbare waterlopen;<br /><br />Overwegende het verzoek van de provincie Antwerpen aan de bevoegde minister van 25 september 2003, op vraag van de stad Herentals, de bestaande waterlopen genaamd Vuilvoortloop en Loopken in de derde categorie te klasseren en vanaf de gemeentegrens, dus op het grondgebied van de gemeente Vorselaar en Grobbendonk, in de tweede categorie;<br /><br />Overwegende de stukken betreffende het onderzoek de commodo et incommodo dat van 11 juni 2004 tot en met 30 juni 2004 werd uitgevoerd in de gemeente Vorselaar en tijdens hetwelk geen bezwaarschriften werden ingediend;<br /><br />Overwegende de stukken betreffende het onderzoek de commodo et incommodo dat van 21 juni 2004 tot en met 12 juli 2004 werd uitgevoerd in de stad Herentals en tijdens hetwelk geen bezwaarschriften werden ingediend;<br /><br />Overwegende de stukken betreffende het onderzoek de commodo et incommodo dat van 21 augustus 2004 tot en met 9 september 2004 werd uitgevoerd in de gemeente Grobbendonk en tijdens hetwelk geen bezwaarschriften werden ingediend;<br /><br />Overwegende de brief van de provincie Antwerpen van 3 december 2004 waarin de resultaten van het onderzoek de commodo et incommodo aan de administratie werden bezorgd;<br /><br />Overwegende dat het debiet van de Vuilvoortloop en het Loopke in belangrijke mate is toegenomen onder meer door de plaatsing van overstorten ter hoogte van Bakendonk en Vogelzang en het beheer derhalve zwaarder is dan vroeger; <br /><br />Overwegende dat een klassering in de derde categorie bijgevolg aangewezen is en de stad Herentals bovendien te kennen heeft gegeven dit beheer inderdaad op zich te willen nemen en vandaag reeds voor het onderhoud instaat;<br /><br />Overwegende dat de bestendige deputatie van de provincieraad van Antwerpen in zitting van 21 augustus 2003 haar goedkeuring hechtte aan het advies van haar technische diensten met betrekking tot deze aanvraag tot klassering;<br /><br />Overwegende dat de technische dienst van de provincie voorstelt om als punt van oorsprong het punt te nemen stroomafwaarts de Peerdsbosstraat gelegen tussen de kadasterpercelen gekend als afdeling 1, sectie E, nummers 291/02 en 291 E3 vanaf waar de waterloop een open bedding heeft;<br /><br />Gelet op het advies van de Inspectie van Financiën, gegeven op 23 april 2007;<br /><br />Op voorstel van de Vlaamse minister van Openbare Werken, Energie, Leefmilieu en Natuur;<br /><br />Na beraadslaging,<br /><br />Besluit :<br /><br />
+
+### ART. 1.
+
+De zogenaamde « Vuilvoortloop - Loopke », zoals aangeduid op het bij dit besluit horende situatieplan met titel "Klassering Vuilvoortloop - Loopke: liggingsplan", wordt geklasseerd als onbevaarbare waterloop van de derde categorie (en vanaf de gemeentegrens tweede categorie) en krijgt het nummer 8.10.<br /><br />
+
+### ART. 2.
+
+De oorsprong wordt bepaald net stroomafwaarts de gemeenteweg Peerdsbosstraat, tussen de kadasterpercelen afdeling 1, sectie E, nrs. 291/02 en 291 E3 vanaf waar de waterloop een open bedding heeft en zoals aangeduid op de bij het besluit gevoegde uittreksel uit het kadasterplan met als titel "Klassering Vuilvoortloop - Loopke : kadasteruittreksel met aanduiding van het punt van oorsprong".<br /><br />
+
+### ART. 3.
+
+Dit besluit kan bestreden worden binnen zestig dagen na kennisname door een beroep tot nietigverklaring voor de Raad van State.<br /><br />
+
+### ART. 4.
+
+De Vlaamse minister, bevoegd voor het leefmilieu en het waterbeleid, is belast met de uitvoering van dit besluit.<br /><br />
