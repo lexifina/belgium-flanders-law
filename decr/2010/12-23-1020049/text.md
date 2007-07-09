@@ -10,6 +10,10 @@
 
 ## HOOFDSTUK 5. Oprichtingsdecreet van de Vlaamse Landmaatschappij
 
+### ART. 33.
+
+In artikel 18septies van hetzelfde decreet, ingevoegd bij het decreet van 7 mei 2004 en vervangen bij het decreet van 27 april 2007, worden de woorden « 6 en 6bis van » vervangen door de woorden « 6, 6bis en 13 van ».
+
 ### ART. 34.
 
 In hetzelfde decreet wordt een artikel 18octies ingevoegd, dat luidt als volgt :<br /><br />« Art. 18octies. Voor wat het Vlaamse Gewest betreft, moeten in de wets- en verordeningsbepalingen inzake ruilverkaveling de vermeldingen « Nationale Landmaatschappij » en « NLM » respectievelijk als « Vlaamse Landmaatschappij » en « VLM » worden gelezen. »
