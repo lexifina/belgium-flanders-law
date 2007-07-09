@@ -1,0 +1,17 @@
+{
+  "codex_id": 1015909,
+  "title": "Besluit van de Vlaamse Regering van 2007-05-25 houdende klassering van een gracht op het grondgebied van de gemeente Rumst tot onbevaarbare waterloop van de derde categorie",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1015909/VolledigDocument?datum=2007-07-09",
+  "source_sha256": "1289b34ca29350628a13bf654d584bdabdcb752d8b19e14c19ffe1b471822827",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1015909&param=informatie",
+  "as_of": "2007-07-09",
+  "made": "2007-05-25",
+  "gazette": "2007-06-29",
+  "numac": 2007035940,
+  "document_start": "2007-07-09",
+  "document_end": null,
+  "in_force": "2007-07-09",
+  "article_versions": 5,
+  "record_form": "consolidated version as in force on 2007-07-09; oldest version available; future article versions excluded; article text as the API gives it"
+}
