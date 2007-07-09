@@ -70,33 +70,7 @@ De raad van bestuur stelt, binnen drie maanden na de samenstelling ervan, een hu
 
 ### ART. 13bis.
 
-[§ 1. In afwachting van de inwerkingtreding van het comptabiliteitsdecreet en zonder afbreuk te doen aan de bepalingen in artikelen 23, 33 en 34 van het kaderdecreet, is het Agentschap onderworpen aan het algemeen administratief toezicht van de Vlaamse Regering dat wordt uitgeoefend door bemiddeling van een gewestcommissaris.<br>
-<br>
-§ 2. De Vlaamse Regering wijst de gewestcommissaris bij het Agentschap aan, van wie ze het administratieve en geldelijke statuut vaststelt.<br>
-<br>
-De Vlaamse Regering draagt de kosten die verbonden zijn aan de uitoefening van zijn ambt.<br>
-<br>
-Voor de functie van gewestcommissaris gelden dezelfde onverenigbaarheden als voor de functie van bestuurder. Het mandaat is daarenboven onverenigbaar met dat van:<br>
-<br>
-1° provinciegouverneur of lid van de bestendige deputatie van de provincieraad;<br>
-<br>
-2° lid van een provincieraad;<br>
-<br>
-3° burgemeester, schepen of lid van een gemeenteraad;<br>
-<br>
-4° bestuurder van het Agentschap.<br>
-<br>
-§ 3. De gewestcommissaris waakt over de naleving van de wetten en decreten en hun uitvoeringsbesluiten, het huishoudelijk reglement en de beheersovereenkomst.<br>
-<br>
-§ 4. De gewestcommissaris wordt uitgenodigd op alle vergaderingen van de raad van bestuur. Hij heeft er een raadgevende stem.<br>
-<br>
-Binnen het kader van zijn bevoegdheden, vermeld in §§ 1 en 3, kan de gewestcommissaris binnen een termijn van vier vrije dagen bij de Vlaamse Regering een gemotiveerd beroep instellen tegen elke beslissing van het Agentschap. Die termijn gaat in de dag van de vergadering waarop de beslissing werd genomen, voorzover de gewestcommissaris daarop regelmatig was uitgenodigd, en, in het tegenovergestelde geval, de dag waarop hij er kennis van heeft gekregen.<br>
-<br>
-Het beroep schort de beslissing op.<br>
-<br>
-Als de Vlaamse Regering binnen een termijn van twintig vrije dagen, die ingaat op dezelfde dag als de in het tweede lid bedoelde termijn, de nietigverklaring niet heeft uitgesproken, dan wordt de beslissing definitief. De Vlaamse Regering betekent in voorkomend geval de nietigverklaring aan de voorzitter van de raad van bestuur van het Agentschap.<br>
-<br>
-§ 5. Als de naleving van de wetten en decreten en hun uitvoeringsbesluiten, het huishoudelijk reglement en de beheersovereenkomst het eisen, kan de gewestcommissaris de raad van bestuur van het Agentschap verplichten om te beraadslagen over iedere aangelegenheid die door hem bepaald is. (ing. decr. 21 april 2006, art. 9, I: 1 juni 2006) ]
+§ 1. ...<br /><br />§ 2. ...<br /><br />Voor de functie van regeringsafgevaardigde gelden dezelfde onverenigbaarheden als voor de functie van bestuurder. Het mandaat is daarenboven onverenigbaar met dat van:<br />1° provinciegouverneur of lid van de bestendige deputatie van de provincieraad;<br />2° lid van een provincieraad;<br />3° burgemeester, schepen of lid van een gemeenteraad;<br />4° bestuurder van het Agentschap.<br /><br />§ 3. ...<br /><br />§ 4. ...<br /><br />§ 5. ...
 
 ## HOOFDSTUK VI SLOTBEPALINGEN
 
@@ -122,7 +96,7 @@ De Vlaamse regering kan de bepalingen van de decreten betreffende het Geografisc
 
 ### ART. 19.
 
-Behoudens andersluidende bepalingen, worden de begroting en rekeningen opgemaakt en goedgekeurd en de controle uitgevoerd overeenkomstig de bepalingen van de wet van 16 maart 1954 betreffende de controle op de instellingen van openbaar nut van categorie B.
+Tot de inwerkingtreding van het decreet van 7 mei 2004 houdende regeling van de begrotingen, de boekhouding, de controle inzake subsidies, en de controle door het Rekenhof, zijn de artikelen 2, 3, 4, 5, 6, 6bis en 13 van de wet van 16 maart 1954 betreffende de controle op sommige instellingen van openbaar nut van toepassing op het Agentschap. Voor de toepassing van voormelde wetsbepalingen wordt het Agentschap beschouwd als een organisme van categorie B.
 
 ### ART. 20.
 
