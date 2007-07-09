@@ -180,7 +180,7 @@ De Vlaamse Regering bepaalt tot welk homogeen beleidsdomein de VMSW behoort.<br 
 
 ### ART. 32.
 
-§ 1. De VMSW is ertoe gemachtigd deel te nemen aan de pensioenregeling, ingesteld bij de wet van 28 april 1958 betreffende het pensioen van het personeel van zekere organismen van openbaar nut, alsmede van hun rechthebbenden.<br /><br />§ 2. In afwachting van de inwerkingtreding van het decreet van 7 mei 2004 houdende regeling van de begrotingen, de boekhouding, de controle inzake subsidies en de controle door het Rekenhof, worden de begroting en rekeningen van de VMSW opgemaakt en goedgekeurd en wordt de controle uitgevoerd overeenkomstig de bepalingen van de wet van 16 maart 1954 betreffende de controle op de instellingen van openbaar nut van categorie B.<br />
+§ 1. De VMSW is ertoe gemachtigd deel te nemen aan de pensioenregeling, ingesteld bij de wet van 28 april 1958 betreffende het pensioen van het personeel van zekere organismen van openbaar nut, alsmede van hun rechthebbenden.<br /><br />§ 2. Tot de inwerkingtreding van het decreet van 7 mei 2004 houdende regeling van de begrotingen, de boekhouding, de controle inzake subsidies, en de controle door het Rekenhof, zijn de artikelen 2, 3, 4, 5, 6, 6bis en 13 van de wet van 16 maart 1954 betreffende de controle op sommige instellingen van openbaar nut van toepassing op de VMSW. Voor de toepassing van voormelde wetsbepalingen wordt de VMSW beschouwd als een organisme van categorie B.
 
 ### ART. 33.
 
