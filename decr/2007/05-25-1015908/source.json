@@ -1,0 +1,17 @@
+{
+  "codex_id": 1015908,
+  "title": "Decreet van 2007-05-25 houdende instemming met het samenwerkingsakkoord van 13 december 2006 tussen de Federale Staat, de Vlaamse Gemeenschap, de Franse Gemeenschap, het Waalse Gewest, de Duitstalige Gemeenschap en de Gemeenschappelijke Gemeenschapscommissie betreffende de inwerkingtreding van artikel 7, 7°, van de wet van 13 juni 2006 tot wijziging van de wetgeving betreffende de jeugdbescherming en het ten laste nemen van minderjarigen die een als misdrijf omschreven feit hebben gepleegd",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1015908/VolledigDocument?datum=2007-07-09",
+  "source_sha256": "a6bd55ce43a1a9895ce32fe4dac0ac0a2c744701967f259d5d32a9e7e7ecd1ee",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1015908&param=informatie",
+  "as_of": "2007-07-09",
+  "made": "2007-05-25",
+  "gazette": "2007-06-29",
+  "numac": 2007035937,
+  "document_start": "2007-07-09",
+  "document_end": null,
+  "in_force": "2007-07-09",
+  "article_versions": 2,
+  "record_form": "consolidated version as in force on 2007-07-09; oldest version available; future article versions excluded; article text as the API gives it"
+}
