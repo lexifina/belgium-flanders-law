@@ -2,16 +2,16 @@
   "codex_id": 1013717,
   "title": "Gecodificeerd Decreet van 2005-03-04 betreffende de radio-omroep en de televisie",
   "type": "Gecodificeerd Decreet",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1013717/VolledigDocument?datum=2007-06-29",
-  "source_sha256": "b328126045fcfbf4f946cd208d04b180a2be27a7c89551e870fb134c0ecd81b7",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1013717/VolledigDocument?datum=2007-07-09",
+  "source_sha256": "a005f0f20d6c2524b5e5efe0d323c1d8d5f020f985d435c2976bcb940cd3a9c9",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1013717&param=informatie",
-  "as_of": "2007-06-29",
+  "as_of": "2007-07-09",
   "made": "2005-03-04",
   "gazette": "2005-04-08",
   "numac": 2005035350,
   "document_start": null,
   "document_end": "2009-05-09",
-  "in_force": "2007-06-29",
-  "article_versions": 224,
-  "record_form": "consolidated version as in force on 2007-06-29; future article versions excluded; article text as the API gives it"
+  "in_force": "2007-07-09",
+  "article_versions": 225,
+  "record_form": "consolidated version as in force on 2007-07-09; future article versions excluded; article text as the API gives it"
 }

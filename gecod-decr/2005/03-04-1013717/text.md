@@ -936,6 +936,10 @@ De leden van de Vlaamse Regulator voor de Media en de daartoe door de Vlaamse Re
 
 ## [HOOFDSTUK VIII Overgangsbepaling]
 
+### ART. 176nonies
+
+Tot de inwerkingtreding van het decreet van 7 mei 2004 houdende regeling van de begrotingen, de boekhouding, de controle inzake subsidies, en de controle door het Rekenhof, zijn de artikelen 2, 3, 4, 5, 6, 6bis en 13 van de wet van 16 maart 1954 betreffende de controle op sommige instellingen van openbaar nut van toepassing op het agentschap. Voor de toepassing van voormelde wetsbepalingen wordt het agentschap beschouwd als een organisme van categorie B.
+
 ## TITEL XI Recht van antwoord
 
 ### ART. 177.
