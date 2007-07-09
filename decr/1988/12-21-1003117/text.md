@@ -312,45 +312,7 @@ De statuten van het agentschap bepalen de nadere regels inzake werking en samens
 
 ### ART. 18.
 
-[§ 1. De raad van bestuur bestaan uit minimum 13 en maximum 17 leden, waaronder een voorzitter en een vice-voorzitter. De Vlaamse regering bepaalt het aantal leden, benoemt en ontslaat de voorzitter, de vice-voorzitter en de overige leden van de raad. Zij bepaalt tevens de werking van de raad.<br>
-<br>
-Alleen de bestuurders die beschikken over de voor het agentschap relevante deskundigheid en ervaring ten aanzien van de missie, de taken en bevoegdheden, bedoeld in artikelen 5, 6, 6bis en 10 en hoofdstuk VII, van het agentschap, kunnen tot lid van de raad van bestuur van het agentschap worden aangesteld. (verv. decr. 7 mei 2004, art. 29, I:1 april 2006) ]<br>
-<br>
-[De leden van de raad van bestuur worden aangesteld door de Vlaamse Regering voor een termijn als vermeld in artikel 18, § 1, eerste lid, van het kaderdecreet. Deze termijn vangt aan op datum van de vergadering van de raad van bestuur na de algemene vergadering van aandeelhouders van het agentschap die volgt op de termijn, vermeld in artikel 18, § 1, eerste lid, van het kaderdecreet. (ing. decr. 21 april 2006, art. 18, I: 1 juni 2006) ]<br>
-<br>
-[§ 2. Onder de leden van de raad van bestuur van het agentschap worden zoveel bestuurders benoemd als er provincies vertegenwoordigd zijn in de vergadering van aandeelhouders, op basis van een door deze provincies voorgedragen dubbele lijst waarbij elke provincie een mannelijke en een vrouwelijke kandidaat voordraagt.<br>
-<br>
-§ 3. Voor zover dit niet is geregeld in het besluit van de Vlaamse regering, bedoeld in § 1, bepalen de statuten van het agentschap de nadere regels inzake het statuut en de werking van de raad van bestuur. (verv. decr. 7 mei 2004, art. 29, I: 1 april 2006) ]<br>
-<br>
-[§ 4. Zonder afbreuk te doen aan de bepalingen in artikelen 23, 33 en 34 van het kaderdecreet, is het Agentschap onderworpen aan het algemeen administratief toezicht van de Vlaamse Regering dat wordt uitgeoefend door bemiddeling van een gewestcommissaris.<br>
-<br>
-De Vlaamse Regering wijst de gewestcommissaris bij het Agentschap aan, van wie ze het administratieve en geldelijke statuut vaststelt.<br>
-<br>
-De Vlaamse Regering draagt de, kosten die verbonden zijn aan de uitoefening van zijn ambt.<br>
-<br>
-Voor de functie van gewestcommissaris gelden dezelfde onverenigbaarheden als voor de functie van bestuurder. Het mandaat is daarenboven onverenigbaar met dat van :<br>
-<br>
-1° provinciegouverneur of lid van de bestendige deputatie van de provincieraad;<br>
-<br>
-2° lid van een provincieraad;<br>
-<br>
-3° burgemeester, schepen of lid van een gemeenteraad;<br>
-<br>
-4° bestuurder, van het Agentschap.<br>
-<br>
-De gewestcommissaris waakt over de naleving van de wetten en decreten en hun uitvoeringsbesluiten, de statuten en de<br>
-<br>
-beheersovereenkomst.<br>
-<br>
-De gewestcommissaris wordt uitgenodigd op alle vergaderingen van de raad van bestuur. Hij heeft er een raadgevende stem.<br>
-<br>
-Binnen het kader van zijn bevoegdheden, vermeld in het eerste lid en het vijfde lid, kan de gewestcommissaris binnen een termijn van vier vrije dagen bij de Vlaamse Regering een gemotiveerd beroep instellen tegen elke beslissing van het Agentschap. Die termijn gaat in de dag van de vergadering waarop de beslissing werd genomen, voorzover de gewestcommissaris daarop regelmatig was uitgenodigd, en, in het tegenovergestelde geval, de dag waarop hij er kennis van heeft gekregen.<br>
-<br>
-Het beroep schort de beslissing op.<br>
-<br>
-Als de Vlaamse Regering binnen een termijn van twintig vrije dagen, die ingaat op dezelfde dag als de in het zevende lid bedoelde termijn, de nietigverklaring niet heeft uitgesproken, dan wordt de beslissing definitief. De Vlaamse Regering betekent in voorkomend geval de nietigverklaring aan de voorzitter van de raad van bestuur van het Agentschap.<br>
-<br>
-Als de naleving van de wetten en decreten en hun uitvoeringsbesluiten, de statuten en de beheersovereenkomst het eisen, kan de gewestcommissaris de raad van bestuur van het Agentschap verplichten om te beraadslagen over iedere aangelegenheid die door hem bepaald is. (ing. decr. 21 april 2006, art. 19, I: 1 juni 2006) ]
+§ 1. De raad van bestuur bestaan uit minimum 13 en maximum 17 leden, waaronder een voorzitter en een vice-voorzitter. De Vlaamse regering bepaalt het aantal leden, benoemt en ontslaat de voorzitter, de vice-voorzitter en de overige leden van de raad. Zij bepaalt tevens de werking van de raad.<br /><br />Alleen de bestuurders die beschikken over de voor het agentschap relevante deskundigheid en ervaring ten aanzien van de missie, de taken en bevoegdheden, bedoeld in artikelen 5, 6, 6bis en 10 en hoofdstuk VII, van het agentschap, kunnen tot lid van de raad van bestuur van het agentschap worden aangesteld. <br /><br />De leden van de raad van bestuur worden aangesteld door de Vlaamse Regering voor een termijn als vermeld in artikel 18, § 1, eerste lid, van het kaderdecreet. Deze termijn vangt aan op datum van de vergadering van de raad van bestuur na de algemene vergadering van aandeelhouders van het agentschap die volgt op de termijn, vermeld in artikel 18, § 1, eerste lid, van het kaderdecreet. <br /><br />§ 2. Onder de leden van de raad van bestuur van het agentschap worden zoveel bestuurders benoemd als er provincies vertegenwoordigd zijn in de vergadering van aandeelhouders, op basis van een door deze provincies voorgedragen dubbele lijst waarbij elke provincie een mannelijke en een vrouwelijke kandidaat voordraagt.<br /><br />§ 3. Voor zover dit niet is geregeld in het besluit van de Vlaamse regering, bedoeld in § 1, bepalen de statuten van het agentschap de nadere regels inzake het statuut en de werking van de raad van bestuur. <br /><br />§ 4. Zonder afbreuk te doen aan de bepalingen in artikelen 23, 33 en 34 van het kaderdecreet, is het Agentschap onderworpen aan het algemeen administratief toezicht van de Vlaamse Regering dat wordt uitgeoefend door bemiddeling van een gewestcommissaris.<br /><br />De Vlaamse Regering wijst de gewestcommissaris bij het Agentschap aan, van wie ze het administratieve en geldelijke statuut vaststelt.<br /><br />De Vlaamse Regering draagt de, kosten die verbonden zijn aan de uitoefening van zijn ambt.<br /><br />Voor de functie van regeringsafgevaardigde gelden dezelfde onverenigbaarheden als voor de functie van bestuurder. Het mandaat is daarenboven onverenigbaar met dat van :<br />1° provinciegouverneur of lid van de bestendige deputatie van de provincieraad;<br />2° lid van een provincieraad;<br />3° burgemeester, schepen of lid van een gemeenteraad;<br />4° bestuurder, van het Agentschap.<br /><br />De gewestcommissaris waakt over de naleving van de wetten en decreten en hun uitvoeringsbesluiten, de statuten en de beheersovereenkomst.<br /><br />De gewestcommissaris wordt uitgenodigd op alle vergaderingen van de raad van bestuur. Hij heeft er een raadgevende stem.<br /><br />Binnen het kader van zijn bevoegdheden, vermeld in het eerste lid en het vijfde lid, kan de gewestcommissaris binnen een termijn van vier vrije dagen bij de Vlaamse Regering een gemotiveerd beroep instellen tegen elke beslissing van het Agentschap. Die termijn gaat in de dag van de vergadering waarop de beslissing werd genomen, voorzover de gewestcommissaris daarop regelmatig was uitgenodigd, en, in het tegenovergestelde geval, de dag waarop hij er kennis van heeft gekregen.<br /><br />Het beroep schort de beslissing op.<br /><br />Als de Vlaamse Regering binnen een termijn van twintig vrije dagen, die ingaat op dezelfde dag als de in het zevende lid bedoelde termijn, de nietigverklaring niet heeft uitgesproken, dan wordt de beslissing definitief. De Vlaamse Regering betekent in voorkomend geval de nietigverklaring aan de voorzitter van de raad van bestuur van het Agentschap.<br /><br />Als de naleving van de wetten en decreten en hun uitvoeringsbesluiten, de statuten en de beheersovereenkomst het eisen, kan de gewestcommissaris de raad van bestuur van het Agentschap verplichten om te beraadslagen over iedere aangelegenheid die door hem bepaald is.
 
 ## [AFDELING 4 HET DAGELIJKS BESTUUR (verv. decr. 7 mei 2004, art. 30)]
 
@@ -431,7 +393,7 @@ De revisor stuurt jaarlijks naar aanleiding van het opmaken van de jaarrekening,
 
 ### ART. 18septies.
 
-[Behoudens andersluidende bepalingen, worden de begroting en rekeningen opgemaakt en goedgekeurd en de controle uitgevoerd overeenkomstig de bepalingen van de wet van 16 maart 1954 betreffende de controle op de instellingen van openbaar nut van categorie B. (ing. decr. 7 mei 2004, art. 34, I: 1 april 2006) ]
+Tot de inwerkingtreding van het decreet van 7 mei 2004 houdende regeling van de begrotingen, de boekhouding, de controle inzake subsidies, en de controle door het Rekenhof, zijn de artikelen 2, 3, 4, 5, 6, 6bis en 13 van de wet van 16 maart 1954 betreffende de controle op sommige instellingen van openbaar nut van toepassing op het agentschap. Voor de toepassing van voormelde wetsbepalingen wordt het agentschap beschouwd als een organisme van categorie B.
 
 ### ART. 18octies.
 
