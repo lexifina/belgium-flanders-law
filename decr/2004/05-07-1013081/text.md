@@ -248,7 +248,7 @@ In afwijking van artikel 40, § 1, worden de leersecretarissen, die erkend zijn 
 
 ### ART. 49.
 
-Behoudens andersluidende bepalingen, worden de begroting en de rekeningen opgemaakt en goedge-keurd en de controle uitgevoerd overeenkomstig de bepalingen van de wet van 16 maart 1954 betreffende de controle op de instellingen van openbaar nut van categorie B.
+Tot de inwerkingtreding van het decreet van 7 mei 2004 houdende regeling van de begrotingen, de boekhouding, de controle inzake subsidies, en de controle door het Rekenhof, zijn de artikelen 2, 3, 4, 5, 6, 6bis en 13 van de wet van 16 maart 1954 betreffende de controle op sommige instellingen van openbaar nut van toepassing op het agentschap. Voor de toepassing van voormelde wetsbepalingen wordt het agentschap beschouwd als een organisme van categorie B.
 
 ### ART. 50.
 
