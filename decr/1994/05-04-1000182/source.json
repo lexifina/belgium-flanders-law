@@ -2,16 +2,16 @@
   "codex_id": 1000182,
   "title": "Decreet van 1994-05-04 [betreffende het publiekrechtelijk vormgegeven extern verzelfstandigde agentschap Waterwegen en Zeekanaal, naamloze vennootschap van publiek recht]",
   "type": "Decreet",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1000182/VolledigDocument?datum=2006-06-01",
-  "source_sha256": "a8464385e3b1fcd26f171ff8462f842e98149c500a5354488962f01e0f966954",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1000182/VolledigDocument?datum=2007-07-09",
+  "source_sha256": "2fa5d3d2ab1cb5ff6ee8df16698664e3ebb6d7c39a47c40b2434fe29093fd027",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1000182&param=informatie",
-  "as_of": "2006-06-01",
+  "as_of": "2007-07-09",
   "made": "1994-05-04",
   "gazette": "1994-07-16",
   "numac": 1994035836,
   "document_start": null,
   "document_end": "2017-12-31",
-  "in_force": "2006-06-01",
+  "in_force": "2007-07-09",
   "article_versions": 67,
-  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2007-07-09; future article versions excluded; article text as the API gives it"
 }
