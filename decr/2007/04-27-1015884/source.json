@@ -1,0 +1,17 @@
+{
+  "codex_id": 1015884,
+  "title": "Decreet van 2007-04-27 houdende wijziging van het kaderdecreet bestuurlijk beleid van 18 juli 2003 op het vlak van het toezicht van de Vlaamse Regering op de publiekrechtelijk vormgegeven extern verzelfstandigde agentschappen",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1015884/VolledigDocument?datum=2007-07-09",
+  "source_sha256": "5d9982514b73542f0675db26075ea021b9129cdca5d5b358e8e72170745717ab",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1015884&param=informatie",
+  "as_of": "2007-07-09",
+  "made": "2007-04-27",
+  "gazette": "2007-06-29",
+  "numac": 2007035871,
+  "document_start": "2007-07-09",
+  "document_end": null,
+  "in_force": "2007-07-09",
+  "article_versions": 16,
+  "record_form": "consolidated version as in force on 2007-07-09; oldest version available; future article versions excluded; article text as the API gives it"
+}
