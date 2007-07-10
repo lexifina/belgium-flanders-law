@@ -32,6 +32,10 @@ In artikel VI.9ter, § 2, eerste lid, van het decreet van 19 maart 2004 betreffe
 
 ## HOOFDSTUK IV Rentetoelagen wegens hinder door openbare werken
 
+### ART. 11.
+
+In artikel 5, § 1, van het decreet van 7 juli 2006 houdende toekenning van een rentetoelage voor ondernemingen die lijden onder de verstoorde bereikbaarheid ten gevolge van hinder door openbare werken wordt tussen de woorden "rentekosten en" en de woorden "4 % van het geleende bedrag" het woord "jaarlijks" ingevoegd.<br /><br />
+
 ## HOOFDSTUK V Bekrachtigingen
 
 ## HOOFDSTUK VI Werk en Sociale Economie
