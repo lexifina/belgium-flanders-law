@@ -1,0 +1,17 @@
+{
+  "codex_id": 1015950,
+  "title": "Decreet van 2007-05-25 tot wijziging van het decreet van 20 december 1996 tot regeling van het recht op minimumlevering van elektriciteit, gas en water, wat betreft elektriciteit en gas, van het decreet van 17 juli 2000 houdende de organisatie van de elektriciteitsmarkt, wat betreft de openbaredienstverplichtingen, en van het decreet van 6 juli 2001 houdende de organisatie van de gasmarkt, wat betreft de openbaredienstverplichtingen",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1015950/VolledigDocument?datum=2007-07-10",
+  "source_sha256": "d5f60d997bf5040488fca570c35b6742c65ede2040650e03fd2da997b08a65e9",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1015950&param=informatie",
+  "as_of": "2007-07-10",
+  "made": "2007-05-25",
+  "gazette": "2007-07-10",
+  "numac": 2007036057,
+  "document_start": "2007-07-10",
+  "document_end": null,
+  "in_force": "2007-07-10",
+  "article_versions": 27,
+  "record_form": "consolidated version as in force on 2007-07-10; oldest version available; future article versions excluded; article text as the API gives it"
+}
