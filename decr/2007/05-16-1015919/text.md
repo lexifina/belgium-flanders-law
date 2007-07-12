@@ -2,6 +2,10 @@
 
 ## HOOFDSTUK I. Inleidende bepaling
 
+### ART. I.1.
+
+Dit decreet regelt een gemeenschapsaangelegenheid.<br />
+
 ## HOOFDSTUK II. Secundair onderwijs
 
 ## Afdeling I. Programmatie
@@ -43,6 +47,10 @@ In artikel 9 van hetzelfde decreet wordt tussen het derde en het vierde lid een 
 In artikel X.50, § 2, laatste lid, van het decreet van 14 februari 2003 betreffende het onderwijs XIV wordt de laatste zin geschrapt.<br />
 
 ## Afdeling III. Inwerkingtreding
+
+### ART. III.6.
+
+De bepalingen van dit hoofdstuk treden in werking als volgt :<br />1° artikel III.2 heeft uitwerking met ingang van 1 februari 2007;<br />2° artikelen III. 1, III.3 en III.4 hebben uitwerking met ingang van 1 maart 2007;<br />3° artikel III.5 heeft uitwerking met ingang van 1 september 2006.<br />
 
 ## HOOFDSTUK IV. Rechtspositie onderwijspersoneel
 
