@@ -1,0 +1,17 @@
+{
+  "codex_id": 1015928,
+  "title": "Besluit van de Vlaamse Regering van 2007-05-25 houdende klassering van de waterloop gekend als Hellekensloop op het grondgebied van de stad Herentals tot onbevaarbare waterloop van de derde categorie",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1015928/VolledigDocument?datum=2007-07-12",
+  "source_sha256": "f5c22b14aa6a8d09868f54c5c021fa9358c8b5d50a502e5ce1bcf9e570bee8df",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1015928&param=informatie",
+  "as_of": "2007-07-12",
+  "made": "2007-05-25",
+  "gazette": "2007-07-02",
+  "numac": 2007035941,
+  "document_start": "2007-07-12",
+  "document_end": null,
+  "in_force": "2007-07-12",
+  "article_versions": 5,
+  "record_form": "consolidated version as in force on 2007-07-12; oldest version available; future article versions excluded; article text as the API gives it"
+}
