@@ -1,0 +1,17 @@
+{
+  "codex_id": 1015918,
+  "title": "Decreet van 2007-05-04 houdende instemming met het samenwerkingsakkoord van 17 november 2006 tussen de Federale Staat, de Vlaamse Gemeenschap, de Franse Gemeenschap en de Duitstalige Gemeenschap betreffende het wederzijds consulteren bij het opstellen van regelgeving inzake elektronische communicatienetwerken, het uitwisselen van informatie en de uitoefening van bevoegdheden met betrekking tot elektronische communicatienetwerken door de regulerende instanties bevoegd voor telecommunicatie of radio-omroep en televisie",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1015918/VolledigDocument?datum=2007-07-12",
+  "source_sha256": "1a3939d277d0dd0d63d579b210eaf692f0e8bd8ed92d22f66b2883afcd76998c",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1015918&param=informatie",
+  "as_of": "2007-07-12",
+  "made": "2007-05-04",
+  "gazette": "2007-07-02",
+  "numac": 2007035861,
+  "document_start": "2007-07-12",
+  "document_end": null,
+  "in_force": "2007-07-12",
+  "article_versions": 2,
+  "record_form": "consolidated version as in force on 2007-07-12; oldest version available; future article versions excluded; article text as the API gives it"
+}
