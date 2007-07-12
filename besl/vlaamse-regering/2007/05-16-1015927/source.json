@@ -1,0 +1,17 @@
+{
+  "codex_id": 1015927,
+  "title": "Besluit van de Vlaamse Regering van 2007-05-16 houdende de opheffing van de subsidiëring met behoud van de erkenning van de opleidingen en structuuronderdelen van de vestigingsplaats VTS1 van de Vrije Technische Scholen te Sint-Niklaas",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1015927/VolledigDocument?datum=2007-07-12",
+  "source_sha256": "21d2bbdee7134291e45a5e10758d3953db651d2de4a66f4dd057372cfba3d2ef",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1015927&param=informatie",
+  "as_of": "2007-07-12",
+  "made": "2007-05-16",
+  "gazette": "2007-07-02",
+  "numac": 2007035968,
+  "document_start": "2007-07-12",
+  "document_end": null,
+  "in_force": "2007-07-12",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2007-07-12; oldest version available; future article versions excluded; article text as the API gives it"
+}
