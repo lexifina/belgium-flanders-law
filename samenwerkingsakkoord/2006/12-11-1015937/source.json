@@ -1,0 +1,17 @@
+{
+  "codex_id": 1015937,
+  "title": "Samenwerkingsakkoord van 2006-12-11 tussen de Federale Regering en de in artikelen 128, 130 en 135 van de Grondwet bedoelde overheden inzake de organisatie en financiering van een gezondheidsenquête",
+  "type": "Samenwerkingsakkoord",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1015937/VolledigDocument?datum=2007-07-15",
+  "source_sha256": "504f81cb1d67f59c80d386fbf0401113b6a8da87ed27c79366e0058e43eb9a3a",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1015937&param=informatie",
+  "as_of": "2007-07-15",
+  "made": "2006-12-11",
+  "gazette": "2007-07-05",
+  "numac": 2007023059,
+  "document_start": "2007-07-15",
+  "document_end": null,
+  "in_force": "2007-07-15",
+  "article_versions": 2,
+  "record_form": "consolidated version as in force on 2007-07-15; oldest version available; future article versions excluded; article text as the API gives it"
+}
