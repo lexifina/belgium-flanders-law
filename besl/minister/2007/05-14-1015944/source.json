@@ -1,0 +1,17 @@
+{
+  "codex_id": 1015944,
+  "title": "Ministerieel besluit van 2007-05-14 houdende de vaststelling van het Compendium voor Monsterneming en Analyse",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1015944/VolledigDocument?datum=2007-07-16",
+  "source_sha256": "067077153e0a3d2d1d819dbcbe6ab8465e7ee9c06aa080875a725a034dd4dec1",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1015944&param=informatie",
+  "as_of": "2007-07-16",
+  "made": "2007-05-14",
+  "gazette": "2007-07-06",
+  "numac": 2007035998,
+  "document_start": "2007-07-16",
+  "document_end": "2008-03-09",
+  "in_force": "2007-07-16",
+  "article_versions": 5,
+  "record_form": "consolidated version as in force on 2007-07-16; oldest version available; future article versions excluded; article text as the API gives it"
+}
