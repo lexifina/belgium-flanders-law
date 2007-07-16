@@ -1,0 +1,17 @@
+{
+  "codex_id": 1015941,
+  "title": "Decreet van 2007-05-11 houdende wijziging van artikelen 31 en 60 van de decreten betreffende de radio-omroep en de televisie, gecoördineerd op 4 maart 2005, wat de radiodiensten en de televisiediensten betreft",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1015941/VolledigDocument?datum=2007-07-16",
+  "source_sha256": "04cbebf9dfe1061de91da0b290c402c95682603e497e0c5fba5b83ad8ae11d47",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1015941&param=informatie",
+  "as_of": "2007-07-16",
+  "made": "2007-05-11",
+  "gazette": "2007-07-06",
+  "numac": 2007036012,
+  "document_start": "2007-07-16",
+  "document_end": null,
+  "in_force": "2007-07-16",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2007-07-16; oldest version available; future article versions excluded; article text as the API gives it"
+}
