@@ -2,16 +2,16 @@
   "codex_id": 1015795,
   "title": "Ministerieel besluit van 2007-05-09 houdende de voorwaarden tot toestemming en een bijbehorende financiële ondersteuning voor het realiseren van een verruimd aanbod in de vorm van flexibele en/of occasionele opvang in kinderdagverblijven en initiatieven voor buitenschoolse opvang die door Kind en Gezin worden erkend",
   "type": "Ministerieel besluit",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1015795/VolledigDocument?datum=2007-04-01",
-  "source_sha256": "9e55162d5d00286f93372d90b8981cdc422b2b8d4997488e901f3de1e1a90f0b",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1015795/VolledigDocument?datum=2007-07-19",
+  "source_sha256": "219840e2c8ec7cd7a0b32037586857ca17a61cc5d19744e1b731bf7b0d4726a7",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1015795&param=informatie",
-  "as_of": "2007-04-01",
+  "as_of": "2007-07-19",
   "made": "2007-05-09",
   "gazette": "2007-05-29",
   "numac": 2007035769,
   "document_start": "2007-04-01",
   "document_end": "2014-03-31",
-  "in_force": "2007-04-01",
+  "in_force": "2007-07-19",
   "article_versions": 30,
-  "record_form": "consolidated version as in force on 2007-04-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2007-07-19; future article versions excluded; article text as the API gives it"
 }
