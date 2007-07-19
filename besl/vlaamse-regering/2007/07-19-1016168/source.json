@@ -1,0 +1,17 @@
+{
+  "codex_id": 1016168,
+  "title": "Besluit van de Vlaamse Regering van 2007-07-19 betreffende de beëindiging van de vertegenwoordiging van Vlaanderen in het buitenland door landbouwraden",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1016168/VolledigDocument?datum=2007-07-19",
+  "source_sha256": "a4267bc52b58fe8799bd51a595fbf1772b4080e2b55759f1cafc9b4704e9959c",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1016168&param=informatie",
+  "as_of": "2007-07-19",
+  "made": "2007-07-19",
+  "gazette": "2007-09-25",
+  "numac": 2007036604,
+  "document_start": "2007-07-19",
+  "document_end": null,
+  "in_force": "2007-07-19",
+  "article_versions": 7,
+  "record_form": "consolidated version as in force on 2007-07-19; oldest version available; future article versions excluded; article text as the API gives it"
+}
