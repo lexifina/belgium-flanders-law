@@ -10,7 +10,7 @@ In het Vlaams Energieagentschap wordt een directieraad opgericht die de bevoegdh
 
 ### ART. 2.
 
-De directieraad is samengesteld uit de volgende personen:<br />1° Luc Peeters;<br />2° Jan Vereecke;<br />3° Wilfried Bieseman;<br />4° Paul Zeebroek;<br />5° Wim Buelens.<br /><br />
+De directieraad is samengesteld uit de volgende personen:<br />1° Luc Peeters;<br />2° Jan Vereecke;<br />3° Wilfried Bieseman;<br />4° Paul Zeebroek;<br />5° Wim Buelens;<br />6° Nadine Dufait;<br />7° Ann Collys;<br />8° Wina Roelens.<br /><br /><br /><br />
 
 ### ART. 3.
 
