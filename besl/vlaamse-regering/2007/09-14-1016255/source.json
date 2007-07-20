@@ -1,0 +1,17 @@
+{
+  "codex_id": 1016255,
+  "title": "Besluit van de Vlaamse Regering van 2007-09-14 houdende wijziging van het besluit van de Vlaamse Regering van 21 december 1988 houdende de organisatie van de arbeidsbemiddeling en beroepsopleiding",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1016255/VolledigDocument?datum=2007-07-20",
+  "source_sha256": "0fddcf85d3f736b5eaf93958acd10991a13a184d105e75cbca636ee3d61ebeec",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1016255&param=informatie",
+  "as_of": "2007-07-20",
+  "made": "2007-09-14",
+  "gazette": "2007-10-17",
+  "numac": 2007036759,
+  "document_start": "2007-07-20",
+  "document_end": null,
+  "in_force": "2007-07-20",
+  "article_versions": 5,
+  "record_form": "consolidated version as in force on 2007-07-20; oldest version available; future article versions excluded; article text as the API gives it"
+}
