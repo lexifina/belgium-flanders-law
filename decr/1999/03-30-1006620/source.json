@@ -2,16 +2,16 @@
   "codex_id": 1006620,
   "title": "Decreet van 1999-03-30 houdende de oprichting van een Hoge Raad voor Binnenlands Bestuur",
   "type": "Decreet",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1006620/VolledigDocument?datum=2006-06-01",
-  "source_sha256": "34d367d9d02645bedc4f414ad6836be9227f0a4e0471a071cd45cc996d231210",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1006620/VolledigDocument?datum=2007-07-20",
+  "source_sha256": "d8bbbcb80f87f2ec1a13a1c53e971266d344c0a17217bb23b50f9eceed689c11",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1006620&param=informatie",
-  "as_of": "2006-06-01",
+  "as_of": "2007-07-20",
   "made": "1999-03-30",
   "gazette": "1999-04-29",
   "numac": 1999033050,
   "document_start": null,
   "document_end": "2999-12-31",
-  "in_force": "2006-06-01",
+  "in_force": "2007-07-20",
   "article_versions": 13,
-  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2007-07-20; future article versions excluded; article text as the API gives it"
 }
