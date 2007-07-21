@@ -1,0 +1,17 @@
+{
+  "codex_id": 1015958,
+  "title": "Ministerieel besluit van 2007-03-01 tot wijziging van het ministerieel besluit van 2 februari 2006 tot vaststelling van het model van inhoudelijk verslag te gebruiken door de organisaties voor maatschappelijk opbouwwerk",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1015958/VolledigDocument?datum=2007-07-21",
+  "source_sha256": "3d963938bb5ec717f9f706a6fbfde9fa4cb144663e36a352711de333eb7abf42",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1015958&param=informatie",
+  "as_of": "2007-07-21",
+  "made": "2007-03-01",
+  "gazette": "2007-07-11",
+  "numac": 2007036007,
+  "document_start": "2007-07-21",
+  "document_end": null,
+  "in_force": "2007-07-21",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2007-07-21; oldest version available; future article versions excluded; article text as the API gives it"
+}
