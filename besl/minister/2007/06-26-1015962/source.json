@@ -1,0 +1,17 @@
+{
+  "codex_id": 1015962,
+  "title": "Ministerieel besluit van 2007-06-26 houdende de uitvoering van het koninklijk besluit van 18 juni 1998 betreffende de interventieregeling in de sector groenten en fruit",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1015962/VolledigDocument?datum=2007-07-23",
+  "source_sha256": "3a47619c695435e621ce86ab677464dfc4cbf04b7840a067c740b4f9bb56c918",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1015962&param=informatie",
+  "as_of": "2007-07-23",
+  "made": "2007-06-26",
+  "gazette": "2007-07-13",
+  "numac": 2007036068,
+  "document_start": "2007-07-23",
+  "document_end": null,
+  "in_force": "2007-07-23",
+  "article_versions": 9,
+  "record_form": "consolidated version as in force on 2007-07-23; oldest version available; future article versions excluded; article text as the API gives it"
+}
