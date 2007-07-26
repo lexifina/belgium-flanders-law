@@ -511,6 +511,10 @@ In afwijking van artikel 2, gebeurt de aanvraag voor derogatie die betrekking he
 
 In afwijking van de artikelen 7 § 2, 6° en 9 § 1, 3e lid is het in de kalenderjaren 2007 en 2008 toegelaten de dunne fractie van derogatiemest varkensmest op te slaan samen met derogatiemest van runderen.
 
+### ART. 24.
+
+Voor transporten die plaatsvinden voor de negentigste dag na publicatie van dit besluit in het Belgisch Staatsblad, dient de aanbieder als vermeld in artikel 22, § 4, zesde lid en in artikel 38, § 5, eerste lid, van het besluit van de Vlaamse Regering van 19 juli 2007 tot het bepalen van de nadere regels voor het vervoer van meststoffen en houdende uitvoering van artikel 8, § 5, 3°, van het decreet van 22 december 2006 houdende de bescherming van het leefmilieu tegen de verontreiniging door nitraten uit agrarische bronnen, ten laatste een maand na de datum van het transport, te beschikken over een analyse, uitgevoerd door een krachtens artikel 62, § 6, van het Mestdecreet erkend laboratorium, die maximaal 1 jaar oud is. De analyse dient minimaal 5 kalenderjaren te worden bewaard door de betreffende aanbieder.
+
 ### ART. 25.
 
 Dit besluit heeft uitwerking met ingang van 1 januari 2007, uitgezonderd :<br />1° de artikelen 16, 17, 18, 19, 20 en 21 die in werking treden 90 dagen na publicatie van dit besluit in het Belgisch Staatsblad ;<br />2° artikel 24 dat in werking treedt 30 dagen na publicatie van dit besluit in het Belgisch Staatsblad.<br /><br />Dit besluit houdt op van kracht te zijn op 31 december 2010.
