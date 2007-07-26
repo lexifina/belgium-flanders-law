@@ -1,0 +1,17 @@
+{
+  "codex_id": 1015965,
+  "title": "Besluit van de Vlaamse Regering van 2007-06-22 houdende het verlenen van machtiging aan de Katholieke Universiteit Leuven tot het aanvaarden van een legaat haar gedaan door Mevr. Juliette Vaes",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1015965/VolledigDocument?datum=2007-07-26",
+  "source_sha256": "a8a443477b8e13c2808ac51bc30115b09910e724490577d5e3b3a83313bc0d9f",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1015965&param=informatie",
+  "as_of": "2007-07-26",
+  "made": "2007-06-22",
+  "gazette": "2007-07-16",
+  "numac": 2007036117,
+  "document_start": "2007-07-26",
+  "document_end": null,
+  "in_force": "2007-07-26",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2007-07-26; oldest version available; future article versions excluded; article text as the API gives it"
+}
