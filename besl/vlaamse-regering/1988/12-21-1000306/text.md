@@ -198,6 +198,10 @@ De werkzoekende met kinderlast heeft recht op de terugbetaling van de effectieve
 
 De dienst sluit een verzekeringscontract voor ongevallen tijdens de oriënterende stage en op de weg van en naar de plaats waar de oriënterende stage plaatsvindt.
 
+### ART. 32duodecies.
+
+Voor de uitvoering van de oriënterende stage wordt tussen de dienst, de werkzoekende en de onderneming, de vereniging zonder winstoogmerk of de administratieve overheid een overeenkomst gesloten waarvan het model wordt bepaald door de Raad van Bestuur.<br /><br />De overeenkomst bevat de volgende vermeldingen en clausules :<br />1° identiteit, woonplaats en eventueel verblijfplaats van de partijen;<br />2° de aanvangsdatum van de oriënterende stage en de vermoedelijke duur;<br />3° de omschrijving van de activiteiten die in het kader van de oriënterende stage plaatsvinden op de werkvloer;<br />4° de verplichtingen van de partijen.
+
 ## HOOFDSTUK II ANDERE ARBEIDSBEMIDDELING
 
 ### ART. 33.
