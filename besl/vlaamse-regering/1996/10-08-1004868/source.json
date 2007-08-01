@@ -2,16 +2,16 @@
   "codex_id": 1004868,
   "title": "Besluit van de Vlaamse Regering van 1996-10-08 tot uitvoering van artikel 54 van de wet van 12 juli 1973 op het natuurbehoud",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1004868/VolledigDocument?datum=2006-06-01",
-  "source_sha256": "667170ae12a2685a15c5d20e6922ce1f757a5dbbdf77e550f3057dad88727bab",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1004868/VolledigDocument?datum=2007-08-01",
+  "source_sha256": "b432c2da6e5cb507146bed142c1969945e612554786cc7866c12e632fd258602",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1004868&param=informatie",
-  "as_of": "2006-06-01",
+  "as_of": "2007-08-01",
   "made": "1996-10-08",
   "gazette": "1996-11-15",
   "numac": 1996036294,
   "document_start": null,
   "document_end": null,
-  "in_force": "2006-06-01",
-  "article_versions": 11,
-  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "in_force": "2007-08-01",
+  "article_versions": 12,
+  "record_form": "consolidated version as in force on 2007-08-01; future article versions excluded; article text as the API gives it"
 }
