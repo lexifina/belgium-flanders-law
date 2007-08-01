@@ -22,7 +22,15 @@ De uitvoering van de werken bedoeld in artikel 4 mag pas aangevat worden 30 dage
 
 ### ART. 6.
 
-Behalve in geval van onteigening als bedoeld in artikel 7 brengen de uitvoering van de in artikel 4 bedoelde werken en de bijbehorende voorbereidingen en activiteiten geen bezitsverlies mee, maar vormen ze een erfdienstbaarheid van openbaar nut.<br /><br />Indien voor het realiseren van de in artikel 4 bedoelde werken bijkomende grondinnemingen noodzakelijk zijn, zijn de gewestelijke waterbeheerders verplicht, op vraag van de eigenaar van het erf dat met deze erfdienstbaarheid bezwaard is, het benodigde bijkomende terrein aan te kopen of te onteigenen.<br /><br />Het indienen van de aanvraag schorst de uitvoering van de werken niet.<br /><br />Wanneer de aankoop niet in der minne geregeld kan worden, is de procedure van artikel 7 van toepassing.
+Behalve in geval van onteigening als bedoeld in artikel 7 brengen de uitvoering van de in artikel 4 bedoelde werken en de bijbehorende voorbereidingen en activiteiten geen bezitsverlies mee, maar vormen ze een erfdienstbaarheid van openbaar nut.<br>
+<br>
+Indien voor het realiseren van de in artikel 4 bedoelde werken bijkomende grondinnemingen noodzakelijk zijn, zijn de gewestelijke waterbeheerders verplicht, op vraag van de eigenaar van het erf dat met deze erfdienstbaarheid bezwaard is, het benodigde bijkomende terrein aan te kopen of te onteigenen.<br>
+<br>
+Het indienen van de aanvraag schorst de uitvoering van de werken niet.<br>
+<br>
+Wanneer de aankoop niet in der minne geregeld kan worden, is de procedure van artikel 7 van toepassing.<br>
+<br>
+De bepalingen van titel IV, hoofdstukken I, II en VII, van het decreet van 16 juni 2006 betreffende de oprichting van de Vlaamse Grondenbank en houdende wijziging van diverse bepalingen zijn van toepassing op deze koopplicht.
 
 ### ART. 7.
 
