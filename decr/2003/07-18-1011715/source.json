@@ -2,16 +2,16 @@
   "codex_id": 1011715,
   "title": "Decreet van 2003-07-18 betreffende het integraal waterbeleid",
   "type": "Decreet",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1011715/VolledigDocument?datum=2007-06-29",
-  "source_sha256": "61781e8332e1d731bb2998d883995746e0bc432bea64184b1c09b939da612b62",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1011715/VolledigDocument?datum=2007-08-01",
+  "source_sha256": "558334a0b82b124515c4e04af5eedac8c10b3bd839cb23c87a9e5672bcef6378",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1011715&param=informatie",
-  "as_of": "2007-06-29",
+  "as_of": "2007-08-01",
   "made": "2003-07-18",
   "gazette": "2003-11-14",
   "numac": 2003201696,
   "document_start": null,
   "document_end": "2018-12-31",
-  "in_force": "2007-06-29",
+  "in_force": "2007-08-01",
   "article_versions": 83,
-  "record_form": "consolidated version as in force on 2007-06-29; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2007-08-01; future article versions excluded; article text as the API gives it"
 }
