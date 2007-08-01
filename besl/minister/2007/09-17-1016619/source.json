@@ -1,0 +1,17 @@
+{
+  "codex_id": 1016619,
+  "title": "Ministerieel besluit van 2007-09-17 betreffende de centralisatie van aanbiedingen van voorkooprechten bij de Vlaamse Grondenbank",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1016619/VolledigDocument?datum=2007-08-01",
+  "source_sha256": "e423ec9c346cd1c665f158c13be8f793a5f80bf90ef45b57bf4b32eeb692228b",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1016619&param=informatie",
+  "as_of": "2007-08-01",
+  "made": "2007-09-17",
+  "gazette": "2008-02-26",
+  "numac": 2008035311,
+  "document_start": "2007-08-01",
+  "document_end": null,
+  "in_force": "2007-08-01",
+  "article_versions": 24,
+  "record_form": "consolidated version as in force on 2007-08-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
