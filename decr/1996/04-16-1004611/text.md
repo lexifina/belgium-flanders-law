@@ -150,7 +150,7 @@ Het agentschap houdt een register bij van voorlopig beschermde en van definitief
 
 ### ART. 34.
 
-Ingeval het definitief beschermde landschap, het erfgoedlandschap of een gedeelte ervan in gevaar komt als het in bezit blijft van één of meerdere eigenaars, kan de Vlaamse regering, nadat de ... Commissie gehoord is, in die mate tot de onteigening ten algemenen nutte van die onroerende goederen beslissen. De Vlaamse regering kan het provinciebestuur of het College van Burgemeester en Schepenen de toestemming verlenen om, in haar plaats, tot deze onteigening over te gaan.<br /><br />...  Indien de eigenaar bewijst dat de waardevermindering van dit goed de helft van zijn koopwaarde overschrijdt, kan hij van het Gewest de verwerving daarvan eisen.
+Ingeval het definitief beschermde landschap, het erfgoedlandschap of een gedeelte ervan in gevaar komt als het in bezit blijft van één of meerdere eigenaars, kan de Vlaamse regering, nadat de ... Commissie gehoord is, in die mate tot de onteigening ten algemenen nutte van die onroerende goederen beslissen. De Vlaamse regering kan het provinciebestuur of het College van Burgemeester en Schepenen de toestemming verlenen om, in haar plaats, tot deze onteigening over te gaan.<br /><br />Indien de eigenaar bewijst dat de waardevermindering van dit goed de helft van zijn koopwaarde overschrijdt, kan hij van het Gewest de verwerving daarvan eisen.<br /><br />De bepalingen van titel IV, hoofdstukken I, II en VII, van het decreet van 16 juni 2006 betreffende de oprichting van de Vlaamse Grondenbank en houdende wijziging van diverse bepalingen zijn van toepassing op deze koopplicht.<br /><br />
 
 ### ART. 35.
 

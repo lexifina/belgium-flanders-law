@@ -2,16 +2,16 @@
   "codex_id": 1004611,
   "title": "Decreet van 1996-04-16 betreffende de landschapszorg",
   "type": "Decreet",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1004611/VolledigDocument?datum=2006-07-01",
-  "source_sha256": "f97b3d34f9a01180829eafcecf29c491a075d3542bb50bc26784466687dd65b4",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1004611/VolledigDocument?datum=2007-08-01",
+  "source_sha256": "3d8ea2ae6f0ca8d88a3c84718e18b0c294781b1b45b19268677006f2387bc89b",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1004611&param=informatie",
-  "as_of": "2006-07-01",
+  "as_of": "2007-08-01",
   "made": "1996-04-16",
   "gazette": "1996-05-21",
   "numac": 1996035578,
   "document_start": "1996-05-31",
   "document_end": "2014-12-31",
-  "in_force": "2006-07-01",
+  "in_force": "2007-08-01",
   "article_versions": 43,
-  "record_form": "consolidated version as in force on 2006-07-01; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2007-08-01; future article versions excluded; article text as the API gives it"
 }
