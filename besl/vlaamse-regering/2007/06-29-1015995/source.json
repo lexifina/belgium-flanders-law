@@ -2,16 +2,16 @@
   "codex_id": 1015995,
   "title": "Besluit van de Vlaamse Regering van 2007-06-29 tot wijziging van het besluit van de Vlaamse Regering van 14 september 2001 tot organisatie van de kabinetten van de leden van de Vlaamse Regering",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1015995/VolledigDocument?datum=2007-07-01",
-  "source_sha256": "41ebe016ec4edf78f8a0f14e8422226ae7dcdc1c27616c36e2835f9bb6d135e7",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1015995/VolledigDocument?datum=2007-08-09",
+  "source_sha256": "7a819a53b47e4b0d20dcdae82dd534beb66b988828bc2d542d18300956d2354e",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1015995&param=informatie",
-  "as_of": "2007-07-01",
+  "as_of": "2007-08-09",
   "made": "2007-06-29",
   "gazette": "2007-07-30",
   "numac": 2007036208,
   "document_start": "2007-08-09",
   "document_end": null,
-  "in_force": "2007-07-01",
-  "article_versions": 2,
-  "record_form": "consolidated version as in force on 2007-07-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "in_force": "2007-08-09",
+  "article_versions": 7,
+  "record_form": "consolidated version as in force on 2007-08-09; future article versions excluded; article text as the API gives it"
 }
