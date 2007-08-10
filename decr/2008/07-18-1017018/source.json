@@ -1,0 +1,17 @@
+{
+  "codex_id": 1017018,
+  "title": "Decreet van 2008-07-18 houdende bekrachtiging van het besluit van de Vlaamse Regering van 13 juli 2007 houdende toewijzing van de goederen, de rechten en verplichtingen aan het intern verzelfstandigd agentschap met rechtspersoonlijkheid Bloso",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1017018/VolledigDocument?datum=2007-08-10",
+  "source_sha256": "134531175b596d0a1ac91363158b32b21b04afed6f56d969af8ca80fff65bd00",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1017018&param=informatie",
+  "as_of": "2007-08-10",
+  "made": "2008-07-18",
+  "gazette": "2008-08-29",
+  "numac": 2008202915,
+  "document_start": "2007-08-10",
+  "document_end": null,
+  "in_force": "2007-08-10",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2007-08-10; oldest version available; future article versions excluded; article text as the API gives it"
+}
