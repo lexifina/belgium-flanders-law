@@ -1,0 +1,17 @@
+{
+  "codex_id": 1015998,
+  "title": "Besluit van de Vlaamse Regering van 2007-06-01 betreffende de begroting en de boekhouding van de strategische adviesraden",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1015998/VolledigDocument?datum=2007-08-10",
+  "source_sha256": "4ddf668137cd5bdc56cd8f59a58fac6b1fbc462d402d449efe6e77086a79af61",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1015998&param=informatie",
+  "as_of": "2007-08-10",
+  "made": "2007-06-01",
+  "gazette": "2007-07-31",
+  "numac": 2007036179,
+  "document_start": "2007-08-10",
+  "document_end": null,
+  "in_force": "2007-08-10",
+  "article_versions": 9,
+  "record_form": "consolidated version as in force on 2007-08-10; oldest version available; future article versions excluded; article text as the API gives it"
+}
