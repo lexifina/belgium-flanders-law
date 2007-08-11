@@ -1,0 +1,17 @@
+{
+  "codex_id": 1016017,
+  "title": "Ministerieel besluit van 2007-07-12 in uitvoering van het besluit van de Vlaamse Regering van 5 oktober 2001 houdende de normen voor de preventie van brand en ontploffing, waaraan de erkende kinderdagverblijven moeten voldoen met betrekking tot Kinderdagverblijf Windekind, Van Swaestraat 13, 1090 Brussel",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1016017/VolledigDocument?datum=2007-08-11",
+  "source_sha256": "630347192b1b4806c2654f05b06619b13c41e7d8a7036f77004f29a7cfe6b890",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1016017&param=informatie",
+  "as_of": "2007-08-11",
+  "made": "2007-07-12",
+  "gazette": "2007-08-01",
+  "numac": 2007036264,
+  "document_start": "2007-08-11",
+  "document_end": null,
+  "in_force": "2007-08-11",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2007-08-11; oldest version available; future article versions excluded; article text as the API gives it"
+}
