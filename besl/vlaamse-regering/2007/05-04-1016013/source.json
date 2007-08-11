@@ -1,0 +1,17 @@
+{
+  "codex_id": 1016013,
+  "title": "Besluit van de Vlaamse Regering van 2007-05-04 houdende wijziging van het besluit van de Vlaamse Regering van 7 september 1994 tot regeling van de procedure voor de projecten van het onderwijskundig beleids- en praktijkgericht wetenschappelijk onderzoek",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1016013/VolledigDocument?datum=2007-08-11",
+  "source_sha256": "bd70530c409b97c7d91f3a5eee5f308f33a89f21666ca32d434ed698aff612cc",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1016013&param=informatie",
+  "as_of": "2007-08-11",
+  "made": "2007-05-04",
+  "gazette": "2007-08-01",
+  "numac": 2007036240,
+  "document_start": "2007-08-11",
+  "document_end": null,
+  "in_force": "2007-08-11",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2007-08-11; oldest version available; future article versions excluded; article text as the API gives it"
+}
