@@ -1,0 +1,17 @@
+{
+  "codex_id": 1016024,
+  "title": "Ministerieel besluit van 2007-07-12 in uitvoering van het besluit van de Vlaamse Regering van 1 oktober 2004 houdende de normen voor de preventie van brand in de mini-crèches met betrekking tot mini-crèche 't Woefke, Amerikalei 116, 2000 Antwerpen",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1016024/VolledigDocument?datum=2007-08-12",
+  "source_sha256": "ea31756e37fc05a6669fe32a20cae91d4577fb6057878feb5841d7c874b93349",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1016024&param=informatie",
+  "as_of": "2007-08-12",
+  "made": "2007-07-12",
+  "gazette": "2007-08-02",
+  "numac": 2007036269,
+  "document_start": "2007-08-12",
+  "document_end": null,
+  "in_force": "2007-08-12",
+  "article_versions": 5,
+  "record_form": "consolidated version as in force on 2007-08-12; oldest version available; future article versions excluded; article text as the API gives it"
+}
