@@ -1,0 +1,17 @@
+{
+  "codex_id": 1016025,
+  "title": "Ministerieel besluit van 2007-07-12 in uitvoering van het besluit van de Vlaamse Regering van 1 oktober 2004 houdende de normen voor de preventie van brand in de mini-crèches met betrekking tot mini-crèche De Broekventjes, Stijn Streuvelsstraat 13, 2260 Westerlo",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1016025/VolledigDocument?datum=2007-08-12",
+  "source_sha256": "736f87bebeb5219839bf7fb95b0c18be7ddf123a81e3c24f565d5440c08a8d03",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1016025&param=informatie",
+  "as_of": "2007-08-12",
+  "made": "2007-07-12",
+  "gazette": "2007-08-02",
+  "numac": 2007036270,
+  "document_start": "2007-08-12",
+  "document_end": null,
+  "in_force": "2007-08-12",
+  "article_versions": 5,
+  "record_form": "consolidated version as in force on 2007-08-12; oldest version available; future article versions excluded; article text as the API gives it"
+}
