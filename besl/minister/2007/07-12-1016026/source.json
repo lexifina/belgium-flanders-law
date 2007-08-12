@@ -1,0 +1,17 @@
+{
+  "codex_id": 1016026,
+  "title": "Ministerieel besluit van 2007-07-12 in uitvoering van het besluit van de Vlaamse Regering van 1 oktober 2004 houdende de normen voor de preventie van brand in de mini-crèches met betrekking tot mini-crèche Jaxijozi, Langemarkstraat 42, 2600 Berchem",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1016026/VolledigDocument?datum=2007-08-12",
+  "source_sha256": "0e3f334a0bdd27d6ce821cf3739263ee80808ada292d6c243fb7c10f1fc5c63b",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1016026&param=informatie",
+  "as_of": "2007-08-12",
+  "made": "2007-07-12",
+  "gazette": "2007-08-02",
+  "numac": 2007036265,
+  "document_start": "2007-08-12",
+  "document_end": null,
+  "in_force": "2007-08-12",
+  "article_versions": 6,
+  "record_form": "consolidated version as in force on 2007-08-12; oldest version available; future article versions excluded; article text as the API gives it"
+}
