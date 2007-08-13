@@ -1,0 +1,17 @@
+{
+  "codex_id": 1016035,
+  "title": "Besluit van de Vlaamse Regering van 2007-07-06 houdende gedeeltelijke verdeling van het provisioneel krediet ingeschreven onder programma 24.60, basisallocatie 11.01",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1016035/VolledigDocument?datum=2007-08-13",
+  "source_sha256": "9ef5b1789fd5164836991469ebf6357a9ccf019804bd825ac8b405c03d3ca2f1",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1016035&param=informatie",
+  "as_of": "2007-08-13",
+  "made": "2007-07-06",
+  "gazette": "2007-08-03",
+  "numac": 2007036234,
+  "document_start": "2007-08-13",
+  "document_end": null,
+  "in_force": "2007-08-13",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2007-08-13; oldest version available; future article versions excluded; article text as the API gives it"
+}
