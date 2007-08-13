@@ -1,0 +1,17 @@
+{
+  "codex_id": 1016030,
+  "title": "Besluit van de Vlaamse Regering van 2007-06-01 houdende de overheveling van het krediet, ingeschreven onder basisallocatie 00.34 van het programma 24.6 CAO-provisie social profit",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1016030/VolledigDocument?datum=2007-08-13",
+  "source_sha256": "307dc3ce7aec9e1e8ca2f5aea3d71f0b978b093c4f16d711e745938b7e6de0b6",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1016030&param=informatie",
+  "as_of": "2007-08-13",
+  "made": "2007-06-01",
+  "gazette": "2007-08-03",
+  "numac": 2007036178,
+  "document_start": "2007-08-13",
+  "document_end": null,
+  "in_force": "2007-08-13",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2007-08-13; oldest version available; future article versions excluded; article text as the API gives it"
+}
