@@ -32,7 +32,7 @@ Een strategische adviesraad wordt samengesteld:<br /><br />- ofwel uit vertegenw
 
 ### ART. 7.
 
-Ten hoogste tweederde van de leden van een strategische adviesraad is van hetzelfde geslacht.<br /><br />Telkens in een strategische adviesraad één of meerdere mandaten ten gevolge van een voordrachtprocedure te begeven zijn, dient per mandaat, door elke voordragende instantie, de kandidatuur van minstens één man en één vrouw te worden voorgedragen.
+Ten hoogste tweederde van de leden van een strategische adviesraad is van hetzelfde geslacht.<br /><br />Telkens wanneer in een strategische adviesraad één of meer mandaten ten gevolge van een voordrachtprocedure te begeven zijn en de voorgedragen kandidaturen het niet mogelijk maken om te voldoen aan de verplichting vermeld in artikel 7, eerste lid, moet de voordrachtprocedure hernomen worden. In voorkomend geval moeten de voordragende instanties die geen kandidaat van het ondervertegenwoordigde geslacht hadden voorgedragen, een extra kandidaat voordragen die van het ondervertegenwoordigde geslacht is.
 
 ### ART. 8.
 
