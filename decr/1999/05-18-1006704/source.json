@@ -2,16 +2,16 @@
   "codex_id": 1006704,
   "title": "Decreet van 1999-05-18 houdende een meer evenwichtige vertegenwoordiging van mannen en vrouwen in de beheers- en bestuursorganen van de instellingen, ondernemingen, vennootschappen of verenigingen van de Vlaamse overheid",
   "type": "Decreet",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1006704/VolledigDocument?datum=2006-06-01",
-  "source_sha256": "8e463cf81adebb574541bd2e1c9ad5921149be40a44acf739a00d7ff92d924ad",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1006704/VolledigDocument?datum=2007-08-16",
+  "source_sha256": "301df470640fce14569320a600041a7e3d7c176e5ad64d71f7cda66f3ee5cb47",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1006704&param=informatie",
-  "as_of": "2006-06-01",
+  "as_of": "2007-08-16",
   "made": "1999-05-18",
   "gazette": "1999-06-29",
   "numac": 1999035799,
   "document_start": null,
   "document_end": "2007-08-15",
-  "in_force": "2006-06-01",
+  "in_force": "2007-08-16",
   "article_versions": 4,
-  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2007-08-16; future article versions excluded; article text as the API gives it"
 }
