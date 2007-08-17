@@ -1,0 +1,17 @@
+{
+  "codex_id": 1016044,
+  "title": "Ministerieel besluit van 2007-07-20 in uitvoering van het besluit van de Vlaamse Regering van 5 oktober 2001 houdende de normen voor de preventie van brand en ontploffing, waaraan de erkende kinderdagverblijven moeten voldoen met betrekking tot kinderdagverblijf Maria Boodschap, Perustraat 8, in 2030 Antwerpen",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1016044/VolledigDocument?datum=2007-08-17",
+  "source_sha256": "2040f36486f285847f4bfe2de17553b80564a279d82796c325081e5758ec7cc9",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1016044&param=informatie",
+  "as_of": "2007-08-17",
+  "made": "2007-07-20",
+  "gazette": "2007-08-07",
+  "numac": 2007036309,
+  "document_start": "2007-08-17",
+  "document_end": null,
+  "in_force": "2007-08-17",
+  "article_versions": 5,
+  "record_form": "consolidated version as in force on 2007-08-17; oldest version available; future article versions excluded; article text as the API gives it"
+}
