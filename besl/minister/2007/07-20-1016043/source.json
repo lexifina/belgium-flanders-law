@@ -1,0 +1,17 @@
+{
+  "codex_id": 1016043,
+  "title": "Ministerieel besluit van 2007-07-20 in uitvoering van het besluit van de Vlaamse Regering van 1 oktober 2004 houdende de normen voor de preventie van brand in de mini-crèches met betrekking tot minicrèche Dolfijn, Sint-Rochusstraat 93, in 2100 Deurne",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1016043/VolledigDocument?datum=2007-08-17",
+  "source_sha256": "9109f3d591210eb9947c09e65de31ea0bf10b2ac217afc1213c0818fed1da5a0",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1016043&param=informatie",
+  "as_of": "2007-08-17",
+  "made": "2007-07-20",
+  "gazette": "2007-08-07",
+  "numac": 2007036303,
+  "document_start": "2007-08-17",
+  "document_end": null,
+  "in_force": "2007-08-17",
+  "article_versions": 5,
+  "record_form": "consolidated version as in force on 2007-08-17; oldest version available; future article versions excluded; article text as the API gives it"
+}
