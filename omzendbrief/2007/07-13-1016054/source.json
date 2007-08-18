@@ -1,0 +1,17 @@
+{
+  "codex_id": 1016054,
+  "title": "Omzendbrief van 2007-07-13 BB 2007/05. - Tuchtprocedure voor mandatarissen",
+  "type": "Omzendbrief",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1016054/VolledigDocument?datum=2007-08-18",
+  "source_sha256": "4af83dafc3244e4398063c73319906a346f304dfec06cdc669538b1415c68aa8",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1016054&param=informatie",
+  "as_of": "2007-08-18",
+  "made": "2007-07-13",
+  "gazette": "2007-08-08",
+  "numac": 41524,
+  "document_start": "2007-08-18",
+  "document_end": null,
+  "in_force": "2007-08-18",
+  "article_versions": 1,
+  "record_form": "consolidated version as in force on 2007-08-18; oldest version available; future article versions excluded; article text as the API gives it"
+}
