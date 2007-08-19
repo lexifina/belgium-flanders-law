@@ -1,0 +1,17 @@
+{
+  "codex_id": 1016063,
+  "title": "Ministerieel besluit van 2007-07-10 tot wijziging van het ministerieel besluit van 2 april 2007 betreffende de vastlegging van de vorm en de inhoud van de EPB-aangifte en het energieprestatiecertificaat bij de bouw",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1016063/VolledigDocument?datum=2007-08-19",
+  "source_sha256": "6cd9ce9d495483bf88245f8cec232a8c0193391b15602481872b7655ee3d6d0e",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1016063&param=informatie",
+  "as_of": "2007-08-19",
+  "made": "2007-07-10",
+  "gazette": "2007-08-09",
+  "numac": 2007036345,
+  "document_start": "2007-08-19",
+  "document_end": null,
+  "in_force": "2007-08-19",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2007-08-19; oldest version available; future article versions excluded; article text as the API gives it"
+}
