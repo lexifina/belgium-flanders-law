@@ -1,0 +1,17 @@
+{
+  "codex_id": 1016062,
+  "title": "Ministerieel besluit van 2007-07-10 betreffende de verkorte opleiding voor het verkrijgen van het certificaat van bekwaamheid inzake gasvormige brandstof",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1016062/VolledigDocument?datum=2007-08-19",
+  "source_sha256": "8f0f16ed9667743e6af65a4691391780971925ee13223c1eb672b3e9abe01727",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1016062&param=informatie",
+  "as_of": "2007-08-19",
+  "made": "2007-07-10",
+  "gazette": "2007-08-09",
+  "numac": 2007036340,
+  "document_start": "2007-08-19",
+  "document_end": null,
+  "in_force": "2007-08-19",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2007-08-19; oldest version available; future article versions excluded; article text as the API gives it"
+}
