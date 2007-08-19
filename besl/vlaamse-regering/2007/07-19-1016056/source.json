@@ -1,0 +1,17 @@
+{
+  "codex_id": 1016056,
+  "title": "Besluit van de Vlaamse Regering van 2007-07-19 tot wijziging van het besluit van de Vlaamse Regering van 13 januari 2006 houdende vaststelling van de rechtspositie van het personeel van de diensten van de Vlaamse overheid, wat betreft de interfederale mobiliteit",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1016056/VolledigDocument?datum=2007-08-19",
+  "source_sha256": "52672be078e21376a1206e9228a274564a0ae600171b623b19422b1194a6d629",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1016056&param=informatie",
+  "as_of": "2007-08-19",
+  "made": "2007-07-19",
+  "gazette": "2007-08-09",
+  "numac": 2007036331,
+  "document_start": "2007-08-19",
+  "document_end": null,
+  "in_force": "2007-08-19",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2007-08-19; oldest version available; future article versions excluded; article text as the API gives it"
+}
