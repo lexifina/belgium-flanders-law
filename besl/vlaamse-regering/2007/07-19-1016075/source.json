@@ -1,0 +1,17 @@
+{
+  "codex_id": 1016075,
+  "title": "Besluit van de Vlaamse Regering van 2007-07-19 houdende overheveling van het krediet in het kader van het Vlaams akkoord voor de non-profit/social profit",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1016075/VolledigDocument?datum=2007-08-24",
+  "source_sha256": "662898402828f204498f0bc2065655a5b40153b668d9ba87c58b0524648226f2",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1016075&param=informatie",
+  "as_of": "2007-08-24",
+  "made": "2007-07-19",
+  "gazette": "2007-08-14",
+  "numac": 2007036374,
+  "document_start": "2007-08-24",
+  "document_end": null,
+  "in_force": "2007-08-24",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2007-08-24; oldest version available; future article versions excluded; article text as the API gives it"
+}
