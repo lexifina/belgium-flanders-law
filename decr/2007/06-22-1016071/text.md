@@ -1,0 +1,147 @@
+# Decreet van 2007-06-22 kaderdecreet inzake ontwikkelingssamenwerking
+
+## TITEL I. Algemene bepalingen
+
+### ART. 1.
+
+Dit decreet regelt een gemeenschaps- en gewestaangelegenheid.<br />
+
+### ART. 2.
+
+In dit decreet wordt verstaan onder :<br />1° Vlaamse ontwikkelingssamenwerking : het geheel van beleid en acties van de Vlaamse Regering in het kader van ontwikkelingssamenwerking, zowel in het Zuiden als binnen de Vlaamse Gemeenschap, die bijdragen tot het dichten van de Noord-Zuidkloof, het bevorderen van duurzame ontwikkeling in het Zuiden en een rechtvaardige, vreedzame en welvarende internationale gemeenschap;<br />2° het Zuiden : de landen die opgenomen zijn in het eerste deel van de lijst van het Comité voor Ontwikkelingshulp (DAC) van de Organisatie voor Economische Samenwerking en Ontwikkeling (OESO), met uitzondering van de lidstaten van de Economische Commissie voor Europa van de Verenigde Naties (UNECE);<br />3° duurzame ontwikkeling : een ontwikkeling die voorziet in de behoeften van het heden zonder de mogelijkheden tot behoeftevoorziening van de toekomstige generaties in gevaar te brengen, waarbij aandacht gegeven wordt aan de sociale, de ecologische en de economische dimensie;<br />4° Millenniumverklaring : de verklaring zoals aangenomen bij resolutie nr. 55/2 van de Algemene Vergadering van de Verenigde Naties op 8 september 2000;<br />5° millenniumdoelstellingen : de doelstellingen die de Verenigde Naties in de Millenniumverklaring hebben opgenomen en waarmee ze uiting geven aan hun bereidheid om de extreme armoede in de wereld te bestrijden en daarin tegen 2015 tastbare resultaten te boeken;<br />6° partners : de verschillende actoren waarmee de Vlaamse Regering samenwerkt om aan de Vlaamse ontwikkelingssamenwerking uitvoering te geven. Partners kunnen zijn :<br />a) partnerlanden : landen uit het Zuiden, vertegenwoordigd door hun overheden, die als prioritair voor de Vlaamse ontwikkelingssamenwerking worden beschouwd. Naast de centrale overheid van de partnerlanden kunnen eventueel, en voor zover dat door de wetgeving of door de centrale overheid van het partnerland wordt toegestaan, ook deelstaten en regionale overheden van landen uit het Zuiden partners van de Vlaamse ontwikkelingssamenwerking zijn;<br />b) multilaterale organisaties : intergouverne mentele organisaties, met inbegrip van de Europese instellingen en van internationale organisaties voor regionale samenwerking van landen in het Zuiden;<br />c) indirecte actoren : instellingen en organisaties die geen deel uitmaken van of niet rechtstreeks betrokken zijn bij de Vlaamse Regering, zoals niet-gouvernementele organisaties, universiteiten en wetenschappelijke instellingen, vakbonden, private instellingen en gemeente- en provinciebesturen;<br />7° bilaterale samenwerking : vormen van samenwerking die gefinancierd worden door de Vlaamse Regering en die gebaseerd zijn op een overeenkomst tussen de Vlaamse Regering en een partnerland van de Vlaamse ontwikkelingssamenwerking;<br />8° HDI-index : de HDI (Human Development Index) is een meetinstrument dat jaarlijks gepubliceerd wordt door het ontwikkelingsprogramma van de Verenigde Naties (United Nations Development Programme - UNDP);<br />9° gender : concept dat verwijst naar het verschil in sociale status en rol tussen mannen en vrouwen in de samenleving en de machtsonevenwichten die hieruit voortvloeien;<br />10° budgetsteun : rechtstreekse financiële steun aan de begroting van een partnerland;<br />11° sectorale benadering : samenwerking die gericht is op de verdere ontwikkeling van een specifieke sector in een partnerland;<br />12° programmafinanciering : vorm van samenwerking waarbij verschillende activiteiten een coherent geheel vormen en bijdragen tot vooraf bepaalde doelstellingen en waarbij een procesmatige benadering wordt gebruikt die flexibiliteit bij de uitvoering mogelijk maakt;<br />13° projectfinanciering : financiële hulp of technische samenwerking met het oog op het ondersteunen van een zeer specifiek en in tijd en omvang beperkt aantal activiteiten die gericht zijn op het behalen van welomschreven resultaten en doelstellingen;<br />14° indirecte samenwerking : vormen van samenwerking waarbij de Vlaamse Regering zorgt voor de financiering of medefinanciering van activiteiten in het kader van het ontwikkelingsbeleid van een indirecte actor;<br />15° multilaterale samenwerking : vormen van samenwerking waarbij de Vlaamse Regering zorgt voor de financiering of medefinanciering van activiteiten in het kader van het ontwikkelingsbeleid van een multilaterale organisatie;<br />16° ODA : officiële ontwikkelingssamenwerking (official development assistance), zoals bepaald volgens de criteria van de OESO/DAC;<br />17° convenant gemeentelijke ontwikkelingssamenwerking : een convenant gemeentelijke ontwikkelingssamenwerking als vermeld in artikel 2, 1°, van het decreet van 2 april 2004 betreffende het beleid inzake convenants gemeentelijke ontwikkelingssamenwerking;<br />18° ontwikkelingseducatie : ontwikkelingseducatie als vermeld in artikel 2, 1°, van het decreet van 2 april 2004 inzake ontwikkelingseducatie;<br />19° Vlaams Ontwikkelingsfonds : ontwikkelingsfonds als vermeld in artikel 2, 3°, van het decreet van 2 april 2004 betreffende de microfinanciering in ontwikkelingslanden door middel van waarborgverlening aan ontwikkelingsfondsen;<br />20° goed bestuur : methode die beoogt het beheer van de institutionele capaciteiten, het besluitvormingsproces van de overheden en het beheer van de overheidsgelden te optimaliseren met inachtneming van de democratie, de rechtsstaat alsmede van de mensenrechten en de fundamentele vrijheden;<br />21° Verklaring van Parijs over de efficiëntie van de hulp : hiermee wordt de verklaring bedoeld die door de donorlanden aangenomen werd op 2 maart 2005 (Paris Declaration on Aid Effectiveness). In deze gezamenlijke verklaring spreken de donoren de intentie uit om beter samen te werken, uit te gaan van de prioriteiten en mogelijkheden van de partnerlanden en zich bij hun beleid en procedures aan te sluiten.<br />
+
+## TITEL II. Doelstellingen
+
+### ART. 3.
+
+§ 1. Binnen het ruimere perspectief van een mondiale duurzame ontwikkeling, zoals door de internationale gemeenschap is overeengekomen in de Verklaring van Rio de Janeiro inzake Milieu en Ontwikkeling van juni 1992 en in het bijbehorende actieplan Agenda 21, en in overeenstemming met de internationale ontwikkelingsagenda, zoals onder andere bepaald in de millenniumdoelstellingen, wil de Vlaamse ontwikkelingssamenwerking een eigen bijdrage leveren aan rechtvaardige Noord-Zuidverhoudingen en aan de verdere ontwikkeling van het Zuiden.<br /><br />De Vlaamse ontwikkelingssamenwerking levert die bijdrage door :<br />1° samen met de bevolking van landen in het Zuiden te werken aan de realisatie van initiatieven voor structurele bestrijding van de armoede. De Vlaamse ontwikkelingssamenwerking onderneemt daarbij prioritair activiteiten die erop gericht zijn de levenskwaliteit van arme en kwetsbare bevolkingsgroepen te verbeteren en het recht op ontwikkeling van die groepen te garanderen;<br />2° met het oog op een rechtvaardige en duurzame mondiale samenleving steun te verlenen aan de verruiming van het draagvlak voor ontwikkelingssamenwerking binnen de Vlaamse Gemeenschap en aan de ontwikkeling van een houding van internationale solidariteit;<br />3° aandacht voor het mondiale perspectief te promoten en coherentie met het ontwikkelingsbeleid na te streven binnen de verschillende domeinen waarvoor de Vlaamse Gemeenschap en het Vlaamse Gewest bevoegd zijn en waarbinnen het gevoerde beleid ook internationale implicaties kan hebben. Het in artikel 24 bepaalde jaarlijks overzicht van de Vlaamse ODA vormt de toetssteen voor deze doelstelling.<br /><br />§ 2. In haar beleidsnota en in haar beleidsbrieven vult de Vlaamse Regering die algemene doelstellingen meer specifiek in.<br />
+
+## TITEL III. Principes en voorwaarden
+
+## HOOFDSTUK I. Principes
+
+### ART. 4.
+
+De Vlaamse ontwikkelingssamenwerking hanteert de volgende principes in de samenwerking met haar partners :<br />1° eigenaarschap : de partners van de Vlaamse ontwikkelingssamenwerking bepalen hun eigen ontwikkelingsbeleid en hun eigen prioriteiten en geven zelf aan op welke manier zij die willen realiseren. De Vlaamse ontwikkelingssamenwerking levert haar bijdrage binnen die beleidskaders en prioriteiten;<br />2° partnerschap : in de Vlaamse ontwikkelingssamenwerking werken de betrokken partijen samen op basis van gelijkwaardigheid, wederkerigheid, vertrouwen en respect. Zij hebben allemaal rechten en plichten waarop zij wederzijds aangesproken kunnen worden;<br />3° beleidsdialoog : de Vlaamse ontwikkelingssamenwerking treedt in dialoog met haar partners met de bedoeling de doelstellingen inzake samenwerking te bereiken, eventuele moeilijkheden in de realisatie ervan bespreekbaar te maken en indien nodig politieke kwesties te bespreken die een effect kunnen hebben op de samenwerking. Specifieke aandacht gaat hierbij naar de situatie op het vlak van de mensenrechten, democratische ontwikkeling en vrede. Zowel overheden als vertegenwoordigers uit de civiele maatschappij worden betrokken bij die dialogen, die zowel formeel als informeel van aard kunnen zijn;<br />4° erkenning van diversiteit : de Vlaamse ontwikkelingssamenwerking erkent de culturele, sociale, economische, religieuze en levensbeschouwelijke diversiteit van de partners met wie ze samenwerkt.<br />
+
+## HOOFDSTUK II. Voorwaarden
+
+### ART. 5.
+
+De Vlaamse ontwikkelingssamenwerking voldoet aan de volgende voorwaarden :<br />1° ontwikkelingsrelevantie : de Vlaamse ontwikkelingssamenwerking beantwoordt aan de criteria voor ontwikkelingsrelevantie zoals de OESO/DAC vaststelt;<br />2° ongebonden hulp : de financiële middelen die, in welke vorm ook, verstrekt worden in het kader van de Vlaamse ontwikkelingssamenwerking zijn vrij van enige verplichting tot besteding in goederen of diensten uit Vlaanderen;<br />3° concentratie : de Vlaamse ontwikkelingssamenwerking bundelt haar inspanningen tot een beperkt aantal landen, sectoren en actoren, om de beschikbare middelen zo efficiënt mogelijk in te zetten. Op het vlak van de keuze van de sectoren vormen de prioriteiten die naar voor geschoven worden in het kader van de millenniumdoelstellingen de leidraad;<br />4° coördinatie en harmonisatie : de Vlaamse ontwikkelingssamenwerking coördineert haar inspanningen enerzijds met de eigen initiatieven van haar partners, en anderzijds met de initiatieven van andere donoren. De Vlaamse ontwikkelingssamenwerking levert ook de nodige inspanningen om bij te dragen tot de harmonisatie van donorprocedures. Vlaanderen sluit zich aldus aan bij de afspraken die gemaakt werden binnen de internationale donorgemeenschap in het kader van de Verklaring van Parijs over de efficiëntie van de hulp;<br />5° resultaatgerichte, langdurige samenwerking : de Vlaamse ontwikkelingssamenwerking streeft een langdurig effect na dat zich niet alleen uit in het behalen van blijvende en meetbare resultaten, maar ook in capaciteitsopbouw van de partners. Om tot een succesvolle en resultaatgerichte samenwerking te kunnen komen engageert de Vlaamse ontwikkelingssamenwerking zich voor minstens vijf jaar in de samenwerking met een partnerland;<br />6° kwaliteit : integrale kwaliteitszorg is een wezenlijk onderdeel van de Vlaamse ontwikkelingssamenwerking. De Vlaamse ontwikkelingssamenwerking werkt op een doeltreffende en doelmatige manier. Ze beoogt continuïteit en coherentie in de samenwerking met haar partners en gaat daarbij methodisch te werk. Relevante ervaring en aanbevelingen uit evaluaties worden optimaal benut.<br />
+
+## TITEL IV. Bilaterale samenwerking
+
+## HOOFDSTUK I. Samenwerking met een partnerland
+
+### ART. 6.
+
+Om tot een efficiënte en kwaliteitsvolle samenwerking te komen, concentreert de Vlaamse ontwikkelingssamenwerking haar inspanningen in een beperkt aantal landen. De mogelijkheid tot het inzetten van voldoende financiële middelen bepaalt het concrete aantal partnerlanden waarmee samengewerkt wordt. De bepaling van de minimale budgettaire massa daartoe en de landenkeuze gebeurt door de Vlaamse Regering. De landenkeuze wordt vermeld in de beleidsnota of de beleidsbrief van de minister bevoegd voor ontwikkelingssamenwerking. Zij gebeurt bij besluit van de Vlaamse Regering en wordt gemotiveerd toegelicht aan het Vlaams Parlement.<br />
+
+### ART. 7.
+
+§ 1. Voor het al dan niet verder samenwerken met bestaande partnerlanden of bij de selectie van één of meer extra partnerlanden laat de Vlaamse Regering zich leiden door de volgende criteria :<br />1° de mate waarin de graad van armoede van het partnerland een bijdrage van de Vlaamse ontwikkelingssamenwerking rechtvaardigt. Daarom zal voorrang gegeven worden aan samenwerking met landen met een lage menselijke ontwikkeling, gebaseerd op de jaarlijkse rangschikking volgens de HDI-index;<br />2° de mate van goed bestuur in het partnerland;<br />3° het belang van de bestaande betrekkingen met het partnerland in overeenstemming met de voorwaarden, vermeld in artikel 5, 5° en 6°.<br /><br />§ 2. De Vlaamse Regering bepaalt welke actuele indicatoren aan die criteria gekoppeld worden en hoe ze onderling gewogen worden. Op basis daarvan motiveert de Vlaamse Regering haar uiteindelijke keuze voor het sluiten van een overeenkomst met een of meer nieuwe partnerlanden. Desgewenst kan ze aanvullende criteria voor een fijnere selectie bepalen.<br />
+
+### ART. 8.
+
+De samenwerking kan stopgezet worden om de volgende redenen :<br />1° de overeenkomst tussen het partnerland en de Vlaamse Regering is beëindigd;<br />2° de Vlaamse Regering en het partnerland besluiten gezamenlijk de samenwerking voortijdig te beëindigen;<br />3° het partnerland voldoet niet langer aan een of meer selectiecriteria van de Vlaamse ontwikkelingssamenwerking als vermeld in artikel 7, § 1;<br />4° het partnerland beëindigt de samenwerking met de Vlaamse Regering.<br /><br />De Vlaamse Regering zal in overleg met het partnerland de voorwaarden voor stopzetting van de samenwerking bepalen, tenzij de omstandigheden een dergelijk overleg niet mogelijk maken.<br />
+
+## HOOFDSTUK II. Sectorale afbakening
+
+### ART. 9.
+
+Omwille van kwaliteit en efficiëntie concentreert de Vlaamse ontwikkelingssamenwerking haar inspanningen in een beperkt aantal sectoren die behoren tot de aangelegenheden waarvoor de Vlaamse Gemeenschap en het Vlaamse Gewest bevoegd zijn. De sectoren worden steeds gekozen in overleg met het partnerland en in overeenstemming met de principes en voorwaarden, vermeld in de artikelen 4 en 5.<br />
+
+## HOOFDSTUK III. [... (opgeh. decr. 16 maart 2018, art. 7, I: 1 januari 2019)]
+
+### ART. 10.
+
+Bij alle beleidsinitiatieven en acties die de Vlaamse ontwikkelingssamenwerking onderneemt, besteedt ze bijzondere aandacht aan de transversale thema's gender, hiv/aids, kinderrechten, goed bestuur en duurzame ontwikkeling.<br />
+
+## HOOFDSTUK IV. Actoren
+
+### ART. 11.
+
+Naast de overheid kunnen ook indirecte actoren en multilaterale organisaties aangezocht worden om mee voor de uitvoering van de samenwerking met het partnerland te zorgen.<br />
+
+## HOOFDSTUK V. Vormen
+
+### ART. 12.
+
+Voor elk partnerland wordt bepaald welke vormen van samenwerking het meest aangewezen zijn. Mogelijke vormen van samenwerking zijn onder meer budgetsteun, programma- en projectfinanciering, adviesverlening met het oog op kennisopbouw en beurzen voor studie en stage.<br />
+
+## HOOFDSTUK VI. Landenstrategienota
+
+### ART. 13.
+
+Voor elk partnerland bepaalt een landenstrategienota het te volgen beleid. Die landenstrategienota is ingebed in al bestaande ontwikkelingsplannen van het partnerland. Ze wordt in een beleidsdialoog met het partnerland opgemaakt.<br /><br />De landenstrategienota gaat minstens in op de doelstellingen, specifieke sectoren, transversale thema's, actoren en samenwerkingsvormen die voor het partnerland aangewezen zijn. Afhankelijk van de specifieke context binnen het desbetreffende partnerland, bepaalt de landenstrategienota de inhoudelijke afbakening van de sectoren, de inbedding van de transversale thema's en de eventuele samenwerking tussen de verschillende actoren. De landenstrategienota maakt deel uit van de beleidsnota of de beleidsbrief van de minister bevoegd voor ontwikkelingssamenwerking. De landenstrategienota wordt voorgelegd aan de strategische adviesraad van het beleidsdomein waartoe ontwikkelingssamenwerking behoort en aan het Vlaams Parlement. Een landenstrategienota wordt regelmatig en in overleg met het partnerland geëvalueerd.<br />
+
+## TITEL V. Multilaterale samenwerking
+
+### ART. 14.
+
+De Vlaamse Regering kan beslissen om bepaalde multilaterale organisaties met een vrijwillige bijdrage financieel te ondersteunen, ter aanvulling van de al aangehaalde maatregelen die ze neemt om de doelstellingen, vermeld in artikel 3, § 1, uit te voeren en afhankelijk van de middelen die ze ter beschikking heeft. De organisaties worden steeds gekozen in overeenstemming met de principes en voorwaarden, vermeld in de artikelen 4 en 5.<br /><br />De Vlaamse Regering bepaalt de voorwaarden voor die financiering.<br />
+
+## TITEL VI. Indirecte samenwerking
+
+### ART. 15.
+
+De Vlaamse Regering kan beslissen om projecten en programma's van bepaalde indirecte actoren te financieren, ter aanvulling van de al aangehaalde maatregelen die ze neemt om de doelstellingen, vermeld in artikel 3, § 1, uit te voeren en afhankelijk van de middelen die ze ter beschikking heeft.<br /><br />De Vlaamse Regering bepaalt de voorwaarden voor die financiering.<br />
+
+## TITEL VII. [... (opgeh. decr. 22 december 2017, art. 10, I: 1 januari 2020)]
+
+### ART. 15/1.
+
+[... <em>(vernietigd bij arrest 59/2017 van het Grondwettelijk Hof van 18 mei 2017)</em>]
+
+### ART. 16.
+
+De Vlaamse Regering kan lokale besturen ondersteunen bij de uitbouw van een beleid inzake ontwikkelingssamenwerking door convenants voor gemeentelijke ontwikkelingssamenwerking aan te gaan.<br />
+
+## [TITEL VIII. Verankering van de internationale ontwikkelingsagenda in Vlaanderen (verv. decr. 16 maart 2018, art. 11, I: 1 januari 2019)]
+
+### ART. 17.
+
+De Vlaamse Regering kan initiatieven ondersteunen inzake ontwikkelingseducatie die binnen de Vlaamse Gemeenschap de creatie van een draagvlak voor internationale samenwerking bevorderen en de ontwikkeling van een houding van internationale solidariteit met het oog op een rechtvaardige en duurzame mondiale samenleving stimuleren.<br />
+
+## TITEL IX. [Ondersteuning van inclusieve financiering (verv. decr. 16 maart 2018, art. 14, I: 1 januari 2019)]
+
+### ART. 18.
+
+In overeenstemming met de doelstelling, vermeld in artikel 3, § 1, 1°, kan de Vlaamse Regering door over-heidswaarborgen te verlenen de Vlaamse ontwikkelingsfondsen ondersteunen die samenwerken met microfinancieringsinstellingen in het Zuiden.<br />
+
+## [TITEL X. Humanitaire actie (verv. decr. 16 maart 2018, art. 18, I: 1 januari 2019)]
+
+### ART. 19.
+
+De Vlaamse Regering kan beslissen om, naast vormen van ontwikkelingssamenwerking die in overeenstemming zijn met de doelstelling, vermeld in artikel 3, eerste lid, ook andere hulp te verlenen die in tijd, ruimte en omvang beperkt is. Het gaat om noodhulp en humanitaire bijstand aan bevolkingsgroepen die in een noodsituatie terechtgekomen zijn als gevolg van een natuurramp of een door de mens veroorzaakte ramp en waarvoor de plaatselijke bevolking en autoriteiten geen gepaste of onvoldoende acties kunnen ondernemen.<br /><br />De Vlaamse Regering bepaalt de voorwaarden voor die financiering.<br />
+
+## TITEL XI. Voortgangscontrole en evaluatie
+
+### ART. 20.
+
+De aandacht voor kwaliteit vereist een goed uitgebouwd controle- en evaluatiesysteem dat resultaatgericht is. De Vlaamse Regering neemt de nodige maatregelen om een dergelijk systeem binnen de structuren van de Vlaamse ontwikkelingssamenwerking uit te bouwen zodat resultaatgerichte voortgangscontrole en interne evaluatie gegarandeerd worden.<br />
+
+### ART. 21.
+
+Naast interne evaluatie en voortgangscontrole voorziet de Vlaamse Regering ook in de organisatie van een externe evaluatie die zowel het beleid als de acties van de Vlaamse Regering in verband met ontwikkelingssamenwerking evalueert en toetst aan de bepalingen van dit decreet. De Vlaamse Regering bepaalt de voorwaarden hiervan.<br /><br />De verslagen van de externe evaluatie worden voorgelegd aan het Vlaams Parlement. De Vlaamse Regering kan desgewenst haar opmerkingen bij die verslagen voegen.<br />
+
+## TITEL XII. Financiële middelen
+
+### ART. 22.
+
+De Vlaamse ontwikkelingssamenwerking beschikt over een eigen programma op de begroting, waarvan het Vlaams Parlement jaarlijks het bedrag bepaalt.<br /><br />De besteding van de financiële middelen binnen dat begrotingsprogramma beantwoordt aan de internationale ODA-criteria.<br /><br />Daarnaast kunnen ook op andere begrotingsprogramma's financiële middelen ingezet worden voor ontwikkelingsrelevante initiatieven. Indien de besteding van die middelen aan de internationale ODA-criteria beantwoordt, zullen ze eveneens als Vlaamse ODA beschouwd worden.<br />
+
+### ART. 23.
+
+De Vlaamse ontwikkelingssamenwerking levert een eigen bijdrage aan de internationaal aanvaarde doelstelling om het equivalent van minstens 0,7 % van het bruto nationaal inkomen aan ODA te besteden.<br />
+
+### ART. 24.
+
+De Vlaamse Regering rapporteert jaarlijks aan het Vlaams Parlement over de Vlaamse ODA en over de maatregelen die genomen worden ten aanzien van de financiële doelstelling, vermeld in artikel 23.<br />
+
+## TITEL XIII. Overgangs- en slotbepalingen
+
+### ART. 25.
+
+Dit decreet is van toepassing op de beleidsmaatregelen en de acties die de Vlaamse Regering na de inwerkingtreding ervan in het kader van ontwikkelingssamenwerking onderneemt.<br /><br />Dit decreet doet geen afbreuk aan overeenkomsten of subsidies die voor de inwerkingtreding van dit decreet respectievelijk gesloten of toegekend werden. Als de termijn van die overeenkomsten of subsidies de datum van de inwerkingtreding van dit decreet overschrijdt, kunnen ze echter alleen volgens de bepalingen van dit decreet ten gronde gewijzigd of hernieuwd worden<br />
