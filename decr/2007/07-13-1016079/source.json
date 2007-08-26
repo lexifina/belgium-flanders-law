@@ -1,0 +1,17 @@
+{
+  "codex_id": 1016079,
+  "title": "Decreet van 2007-07-13 houdende de opheffing van artikel 76 van de wet op de ziekenhuizen, gecoördineerd op 7 augustus 1987",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1016079/VolledigDocument?datum=2007-08-26",
+  "source_sha256": "0eace1db0a304e061d372d70e637802c6db1fabe046d3ce28ebc38cca395e882",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1016079&param=informatie",
+  "as_of": "2007-08-26",
+  "made": "2007-07-13",
+  "gazette": "2007-08-16",
+  "numac": 2007036412,
+  "document_start": "2007-08-26",
+  "document_end": null,
+  "in_force": "2007-08-26",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2007-08-26; oldest version available; future article versions excluded; article text as the API gives it"
+}
