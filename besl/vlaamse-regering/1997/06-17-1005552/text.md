@@ -18,7 +18,7 @@ Voor de toepassing van dit besluit wordt verstaan onder:<br /><br />1° competen
 
 ### ART. 4.
 
-De modellen van functiebeschrijvingen als bijlage gevoegd bij dit besluit vormen voor de directie en de personeelsleden van de scholen die op basis van een convenant tussen de vakorganisaties, de organisaties van schoolbesturen en de Vlaamse minister bevoegd voor Onderwijs functiebeschrijvingen opmaken conform de artikelen 159, eerste lid en 160, eerste lid van het decreet, een hulpmiddel bij het vastleggen van de inhoud van de opdracht.
+...
 
 ## HOOFDSTUK III DIRECTIE
 
