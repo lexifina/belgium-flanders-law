@@ -1,0 +1,17 @@
+{
+  "codex_id": 1016036,
+  "title": "Besluit van de Vlaamse Regering van 2007-07-13 tot wijziging van het besluit van de Vlaamse Regering van 17 juni 1997 betreffende de opdracht van het personeel in het basisonderwijs",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1016036/VolledigDocument?datum=2007-08-31",
+  "source_sha256": "24fe9c329ca43da3dcd802880be67509e819f68535fb523d62f526e408a8bc5a",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1016036&param=informatie",
+  "as_of": "2007-08-31",
+  "made": "2007-07-13",
+  "gazette": "2007-08-03",
+  "numac": 2007036288,
+  "document_start": "2007-08-31",
+  "document_end": null,
+  "in_force": "2007-08-31",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2007-08-31; oldest version available; future article versions excluded; article text as the API gives it"
+}
