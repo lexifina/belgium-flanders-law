@@ -2,16 +2,16 @@
   "codex_id": 1015049,
   "title": "Ministerieel besluit van 2006-10-03 tot wijziging van het ministerieel besluit van 28 maart 2006 tot vaststelling van de leerlingencoëfficiënten voorbehouden voor trajectbegeleiding in het deeltijds beroepssecundair onderwijs in het schooljaar 2006-2007",
   "type": "Ministerieel besluit",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1015049/VolledigDocument?datum=2006-11-01",
-  "source_sha256": "0e01c470924555ef9f02da387eac6f3b29e31b4f005e2696c0d9a1f1c39b2b96",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1015049/VolledigDocument?datum=2007-08-31",
+  "source_sha256": "72178964c4633399a7ac6ef186529c7bee17697df314501f9eaf21aa0fe3e4b1",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1015049&param=informatie",
-  "as_of": "2006-11-01",
+  "as_of": "2007-08-31",
   "made": "2006-10-03",
   "gazette": "2006-10-19",
   "numac": 2006036666,
   "document_start": "2006-11-01",
   "document_end": "2007-08-31",
-  "in_force": "2006-11-01",
+  "in_force": "2007-08-31",
   "article_versions": 3,
-  "record_form": "consolidated version as in force on 2006-11-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2007-08-31; future article versions excluded; article text as the API gives it"
 }
