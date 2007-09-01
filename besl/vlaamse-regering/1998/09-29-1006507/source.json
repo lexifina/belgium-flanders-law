@@ -2,16 +2,16 @@
   "codex_id": 1006507,
   "title": "Besluit van de Vlaamse Regering van 1998-09-29 betreffende de beroepsprofielen van de leraren",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1006507/VolledigDocument?datum=2006-06-01",
-  "source_sha256": "2101884d1ed389ddaa85581cbf11d1257d77e6c14958c597f64d9b245107469b",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1006507/VolledigDocument?datum=2007-09-01",
+  "source_sha256": "4e52dd5399d99081b1e3ba28fe4878170241319533ca7f4eea6ba97774cde55e",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1006507&param=informatie",
-  "as_of": "2006-06-01",
+  "as_of": "2007-09-01",
   "made": "1998-09-29",
   "gazette": "1999-02-16",
   "numac": 1999035079,
   "document_start": "1997-09-01",
   "document_end": "2007-08-31",
-  "in_force": "2006-06-01",
+  "in_force": "2007-09-01",
   "article_versions": 4,
-  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2007-09-01; future article versions excluded; article text as the API gives it"
 }
