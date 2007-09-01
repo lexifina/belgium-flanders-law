@@ -1,0 +1,17 @@
+{
+  "codex_id": 1016188,
+  "title": "Besluit van de Vlaamse Regering van 2007-09-07 tot wijziging van het besluit van de Vlaamse Regering van 5 maart 2004 betreffende de puntenenveloppe voor de scholengemeenschappen basisonderwijs",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1016188/VolledigDocument?datum=2007-09-01",
+  "source_sha256": "9a71de94aacb410f7b78b3d3d6e408e5c3c15af9e362e705b01d9841bc25f53a",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1016188&param=informatie",
+  "as_of": "2007-09-01",
+  "made": "2007-09-07",
+  "gazette": "2007-10-03",
+  "numac": 2007036655,
+  "document_start": "2007-09-01",
+  "document_end": null,
+  "in_force": "2007-09-01",
+  "article_versions": 9,
+  "record_form": "consolidated version as in force on 2007-09-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
