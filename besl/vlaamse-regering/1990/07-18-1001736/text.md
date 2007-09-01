@@ -2,11 +2,11 @@
 
 ### ART. 1.
 
-Voor de toepassing van dit besluit wordt verstaan onder:<br /><br />1. het decreet: het decreet van 12 juli 1990 houdende de regeling van de basiseducatie voor laaggeschoolde volwassenen;<br /><br />2. één werkjaar: de periode van 1 september tot en met 31 augustus van het daaropvolgende jaar;<br /><br />3. één kalenderjaar: de periode van 1 januari tot en met 31 december van datzelfde jaar.
+...
 
 ### ART. 2.
 
-Onder sociaal-cultureel vormingswerk met volwassenen zoals bedoeld in artikel 4.2 van het decreet wordt verstaan het sociaal-cultureel vormingswerk in verenigingen en instellingen en het ontwikkelingswerk, erkend en gesubsidieerd via de decreten in het volksontwikkelingswerk. In hetzelfde artikel 4.2 wordt onder beroepsopleiding verstaan: de V.D.A.B.-beroepsopleiding, de middenstandsopleiding en de landbouwopleiding.
+...
 
 ### ART. 3.
 
@@ -14,19 +14,19 @@ De personeelsleden van de Centra voor Basiseducatie kunnen geen deel uitmaken va
 
 ### ART. 4.
 
-§ 1. [ ...  <span class="reference">(opgeh. B.V.R. 15 juli 2005, art. 10, I: 1 september 2005)</span> ]<br /><br />§ 2. [ ...  <span class="reference">(opgeh. B.V.R. 15 juli 2005, art. 10, I: 1 september 2005)</span> ]<br /><br />§ 3. Een programma van activerings- en/of keuzebegeleidingsactiviteiten zoals bedoeld in artikel 5, § 2, van het genoemde decreet mag per deelnemer ten hoogste 20 uren per jaar omvatten, en moet eveneens in eenheden van tenminste 2 uur gegeven worden.<br /><br />§ 4. [Voor de uitbesteding van beperkte programmaonderdelen, zoals bedoeld in artikel 7 van het decreet, kan een Centrum voor Basiseducatie in een kalenderjaar ten hoogste vijf procent van de totale toelage aanwenden.  <span class="reference">(verv. B.V.R. 19 april 1995, art. 1, I: 1 januari 1994)</span> ]
+§ 1. ... <br /><br />§ 2. ... <br /><br />§ 3. ...<br /><br />§ 4. Voor de uitbesteding van beperkte programma-onderdelen, zoals bedoeld in artikel 7 van het decreet, kan een Centrum voor Basiseducatie in een kalenderjaar ten hoogste vijf procent van de totale toelage aanwenden.
 
 ### ART. 5.
 
-De in artikel 5 en 6 van het decreet bedoelde educatieve activiteiten kunnen, op voorwaarde dat deze programma's samen met Nederlandse taalvaardigheid en met het oog op de integratie in de Vlaamse samenleving aangeboden worden, ook de alfabetisering in de eigen taal van de migranten omvatten.
+...
 
 ### ART. 6.
 
-[De Vlaamse regering erkent de Centra voor Basiseducatie nadat daartoe vóór 1 maart bij aangetekend schrijven een aanvraag werd ingediend bij de administratie Permanente Vorming van het departement Onderwijs van het ministerie van de Vlaamse Gemeenschap.<br /><br />Deze aanvraag moet vergezeld zijn van de nodige stukken waaruit blijkt dat aan alle gestelde voorwaarden is voldaan.<br /><br />Na onderzoek van de aanvraag, zonodig ter plaatse, bezorgt de administratie uiterlijk op 1 juni van hetzelfde jaar het dossier samen met haar voorstel aan de Raad voor de Basiseducatie.<br /><br />De Raad voor de Basiseducatie brengt uiterlijk vóór 1 juli van hetzelfde jaar aan de Vlaamse regering advies uit over de erkenningsaanvraag.<br /><br />Als het advies negatief is, brengt de Vlaamse regering of een door haar aangewezen persoon, het aanvragend Centrum voor Basiseducatie daarvan op de hoogte en nodigt het voor nader onderzoek uit.<br /><br />De Vlaamse regering beslist over de erkenning uiterlijk op 1 oktober van hetzelfde jaar.<br /><br />De erkenning van het Centrum voor Basiseducatie gaat in op 1 januari van het daaropvolgend jaar.  <span class="reference">(verv. B.V.R. 19 april 1995, art. 2, I: 1 januari 1994)</span> ]
+...
 
 ### ART. 7.
 
-§ 1. De stukken die, zoals bepaald in artikel 6 van dit besluit, de erkenningsaanvraag moeten vergezellen omvatten:<br /><br />1. een exemplaar van de door de algemene vergadering goedgekeurde statuten en opgave van de samenstelling van de algemene vergadering en de raad van bestuur, die bewijzen dat het Centrum voor Basiseducatie voldoet aan de voorwaarden gesteld in artikel 4 van het decreet;<br /><br />2. een opgave van de lokalen waar de programma's zullen worden aangeboden;<br /><br />3. een afbakening en beschrijving van het beoogde werkgebied tot stand gekomen in overleg met het Vlaams Ondersteuningscentrum, met raming van het aantal te bereiken laaggeschoolde volwassenen zoals bedoeld in artikel 3 van het decreet;<br /><br />4. [een planning van de voorziene activiteiten voor het volgende kalenderjaar, zoals bedoeld in artikel 5 van het decreet, rekening houdend met de criteria bepaald in artikel 4 van dit besluit;  <span class="reference">(verv. B.V.R. 19 april 1995, art. 3, I: 1 januari 1994)</span> ]<br /><br />5. [een prognose van de deelnemersuren voor een volledig kalenderjaar, opgesplitst per aangeboden programma en bevestigd door het Vlaams Ondersteuningscentrum voor de Basiseducatie;  <span class="reference">(verv. B.V.R. 19 april 1995, art. 3, I: 1 januari 1994)</span> ]<br /><br />6. het bewijs dat de burgerlijke aansprakelijkheid die ten laste kan worden gelegd van de vereniging en haar medewerkers, gedekt is door een verzekering;<br /><br />7. een verklaring waarbij het Centrum voor Basiseducatie aanvaardt dat de administratie de boekhouding en de werking, zo nodig ter plaatse, nagaat;<br /><br />8. een verklaring waaruit blijkt dat het Centrum voor Basiseducatie bereid is het Vlaams Ondersteuningscentrum zijn opdracht, zoals bepaald in artikel 10 van het decreet, te laten uitvoeren en er zelfs zijn medewerking aan te verlenen.<br /><br />§ 2. Onmiddellijk na de indiensttreding van het personeel dient het dossier aangevuld met:<br /><br />1. de gegevens over het administratief en educatief personeel ter staving van artikel 15 van het decreet en artikel 12 van dit besluit, met vermelding van geboortedatum en -plaats, adres, gedane studies en behaalde diploma's of getuigschriften, eerdere werkervaring, datum indiensttreding;<br /><br />2. een verbintenis van elk educatief personeelslid tot deelname aan de specifieke bijscholing binnen de twee jaar na de indiensttreding, en tot deelname aan de navorming;<br /><br />3. een verbintenis van het Centrum om de personeelsleden aan de specifieke bijscholing en de navorming te laten deelnemen;<br /><br />4. een afschrift van de arbeidsovereenkomst van elk personeelslid vermeldend het bedrag en de loonschaal volgens dewelke het betrokken personeelslid bezoldigd wordt;<br /><br />§ 3. Elke wijziging aan het dossier moet onmiddellijk aan de bevoegde administratie worden medegedeeld.
+...
 
 ### ART. 8.
 
@@ -34,11 +34,11 @@ De in artikel 5 en 6 van het decreet bedoelde educatieve activiteiten kunnen, op
 
 ### ART. 9.
 
-§ 1. Het Vlaams Ondersteuningscentrum moet jaarlijks aan de bevoegde administratie bezorgen:<br /><br />1. vóór 1 oktober: een door de algemene vergadering goedgekeurde begroting en werkingsprogramma voor het volgend kalenderjaar;<br /><br />2. vóór 1 maart: een door de algemene vergadering goedgekeurd gedetailleerd financieel verslag en balans, en een eveneens goedgekeurd werkingsverslag van het voorbije kalenderjaar.<br /><br />§ 2. 1. Het niet inleveren binnen de gestelde termijn van de in § 1.1 van dit artikel bedoelde documenten heeft de niet uitbetaling van de viermaandelijkse voorschotten tot gevolg. De uitbetaling van de nog resterende voorschotten herneemt pas vanaf het ogenblik dat deze documenten werden ingediend. De aldus niet uitgekeerde voorschotten worden dan bij de saldo-afrekening vereffend.<br /><br />2. Het niet inleveren binnen de gestelde termijn van de in § 1.2 van dit artikel bedoelde documenten heeft de niet uitbetaling van het saldo tot gevolg.<br /><br />§ 3. [Overeenkomstig artikel 10, § 2, van het decreet bezorgt het Vlaams Ondersteuningscentrum jaarlijks en uiterlijk op 1 juni, een evaluatierapport over de werking van de Centra voor Basiseducatie aan de Raad voor de Basiseducatie.  <span class="reference">(verv. B.V.R. 19 april 1995, art. 5, I: 1 januari 1994)</span> ]
+...
 
 ### ART. 10.
 
-[De Vlaamse regering heft de erkenning van een Centrum voor Basiseducatie op in de hierna omschreven twee gevallen, onder de daarin vastgestgelde voorwaarden en volgens de daarin beschreven procedures.<br /><br />1. In de verslagen van de Centra voor Basiseducatie die zij uiterlijk op 1 maart moeten voorleggen aan de bevoegde administratie, stelt de administratie vast dat het Centrum voor Basiseducatie de minimale erkenningsnorm in het vorig kalenderjaar niet gehaald heeft. De administratie brengt het betrokken centrum daarvan schriftelijk op de hoogte en nodigt het uit voor een nader onderzoek. Daarover brengt ze uiterlijk op 1 juni van hetzelfde jaar verslag uit bij de Vlaamse regering. De Vlaamse regering beslist over de opheffing van het Centrum voor Basiseducatie uiterlijk op 1 oktober van hetzelfde jaar.<br /><br />De intrekking van de erkenning van het Centrum voor Basiseducatie gaat in op 1 januari daaropvolgend.<br /><br />2. Het Vlaams Ondersteuningscentrum voor de Basiseducatie stelt op basis van hiertoe vooraf aan de centra bekendgemaakte criteria vast dat de werking van een Centrum voor Basiseducatie inhoudelijk niet meer beantwoordt aan het bepaalde in artikel 5 van het decreet. Het Vlaams Ondersteuningscentrum voor de Basiseducatie maakt daarvan melding in zijn jaarlijks evaluatierapport aan de Raad voor de Basiseducatie uiterlijk op 1 juni, zoals bepaald in artikel 9, § 3. De Raad voor de Basiseducatie moet, het centrum gehoord, uiterlijk op 1 juli van hetzelfde jaar daarover zijn advies uitbrengen aan de Vlaamse regering. De Vlaamse regering of de door haar aangewezen ambtenaar van het departement Onderwijs zal het betrokken Centrum op de hoogte brengen van het voorstel tot opheffing van erkenning en voor nader onderzoek uitnodigen. De Vlaamse regering beslist over de opheffing van de erkenning van het Centrum voor Basiseducatie uiterlijk op 1 oktober van hetzelfde jaar. De intrekking van de erkenning van het Centrum voor Basiseducatie gaat in op 1 januari daaropvolgend.  <span class="reference">(verv. B.V.R. 19 april 1995, art. 6, I: 1 januari 1994)</span> ]
+...
 
 ### ART. 11.
 
@@ -58,28 +58,28 @@ De in artikel 5 en 6 van het decreet bedoelde educatieve activiteiten kunnen, op
 
 ### ART. 15.
 
-De vijf experimenten basiseducatie, georganisseerd en begeleid vanuit het Vlaams Centrum voor de Volksontwikkeling, worden voor de periode 1 augustus tot 31 december 1990 betoelaagd als erkende Centra voor Basiseducatie. Zij krijgen een voorlopige erkenning op basis van de tijdens het werkjaar 1989-1990 gerealiseerde deelnemersuren.<br /><br />Deze Centra voor de Basiseducatie moeten, willen zij voor het werkjaar 1990-1991 hun voorlopige erkenning behouden, zich uiterlijk op 1 november 1990 organiseren volgens de bepalingen van het decreet.<br /><br />Indien deze Centra vanaf 1 september 1991 verder erkend willen blijven dan dienen zij hun erkenningsaanvraag in conform aan de bepalingen van artikel 6 en 7 van dit besluit.
+...
 
 ### ART. 16.
 
-Centra voor Basiseducatie die de activiteiten van basiseducatie, gerealiseerd door de organisaties en projecten bedoeld in artikel 21, § 1, van het decreet, opnemen in hun werking kunnen vanaf 1 september 1990 een voorlopige erkenning krijgen.<br /><br />Deze voorlopige erkenning wordt gebaseerd op de in het werkjaar 1989-1990 gezamenlijk gerealiseerde deelnemersuren van de programma's gericht op laaggeschoolden. Dit aantal kan niet minder bedragen dan het bepaalde van artikel 14 van het decreet.<br /><br />Deze Centra voor Basiseducatie moeten, willen zij voor het werkjaar 1990-1991 hun voorlopige erkenning behouden zich uiterlijk op 1 november 1990 organiseren volgens de bepalingen van het decreet.<br /><br />De aanvraag tot voorlopige erkenning moet vóór 1 september 1990 gericht worden aan de Vlaamse minister van Onderwijs. Deze aanvraag zal een verklaring bevatten van de geïntegreerde initiatieven waaruit blijkt dat het contract van het personeel, in vast dienstverband op 1 juni 1990, dat voldoet aan de bepalingen van artikel 15 van het decreet en artikel 12 van dit besluit zal worden overgenomen door het Centrum voor Basiseducatie, en dat door de betrokken organisatie of het project vanaf 1 september 1990 geen verdere aanspraak wordt gemaakt op de erkenning en betoelaging op basis van het decreet van 27 juni 1985, bedoeld in artikel 21, § 1 van het decreet.<br /><br />Indien de Centra vanaf 1 september 1991 verder erkend willen blijven, moeten zij hun erkenningsaanvraag indienen conform de bepalingen van artikel 6 en 7 van dit besluit.
+...
 
 ### ART. 17.
 
-Wanneer de Centra bedoeld in artikel 15 tevens de werking overnemen van organisaties en projecten bedoeld in artikel 21, § 1, van het decreet, worden de gerealiseerde deelnemersuren van het werkjaar 1989-1990 samengevoegd voor het bepalen van de subsidiëringsbasis.
+...
 
 ### ART. 18.
 
-§ 1. Tijdens de overgangsperiode bedraagt het eerste voorschot:<br /><br />1. voor de Centra voor Basiseducatie zoals bedoeld in artikel 15 van dit besluit: vijf twaalfden van 90 procent van de basistoelage, en een weddetoelage en een budget van 250 frank per deelnemersuur, beide berekend op basis van vijf twaalfden van 90 procent van het aantal deelnemersuren zoals in artikel 15 van dit besluit genoemd;<br /><br />2. voor de Centra voor Basiseducatie zoals bedoeld in artikel 16 van dit besluit hetzelfde van wat bepaald wordt in artikel 11.1.b van dit besluit, mits dat hier voor het aantal deelnemersuren wordt uitgegaan van wat in artikel 16 reeds wordt voorzien;<br /><br />§ 2. Voor de startperiode van 1 augustus 1990 tot en met 31 december 1990, ontvangt het Vlaams Ondersteuningscentrum een forfaitaire subsidie van 5 miljoen frank.<br /><br />§ 3. De berekening van de saldi op de in § 1 van dit artikel genoemde voorschotten, verloopt conform aan wat in artikel 11.1.c. en d voorzien is, met dien verstande dat de referentie-basistoelage voor de Centra voor Basiseducatie zoals in artikel 15 van dit besluit bedoeld, vijf twaalfden van de volledige basistoelage bedraagt.
+...
 
 ### ART. 18bis.
 
-[In afwijking van de bepaling van artikel 12, § 1 kan tot 30 juni 1996 een educatief medewerker van een Centrum voor Basiseducatie die uiterlijk op 1 januari 1995 in dienst was, als coördinator van een centrum voor Basiseducatie aangesteld worden.  <span class="reference">(ing. B.V.R. 13 maart 1996, art. 2, I: 1 januari 1994)</span> ]
+...
 
 ### ART. 19.
 
-De Vlaamse minister van Onderwijs is belast met de uitvoering van dit besluit.
+...
 
 ### ART. 20.
 
-Dit besluit treedt in werking op 1 augustus 1990.
+...

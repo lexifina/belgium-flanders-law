@@ -2,16 +2,16 @@
   "codex_id": 1001736,
   "title": "Besluit van de Vlaamse Regering van 1990-07-18 ter uitvoering van het decreet houdende de regeling van de basiseducatie voor laaggeschoolde volwassenen",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1001736/VolledigDocument?datum=2006-06-01",
-  "source_sha256": "4353cb51d03d035fa961d89533af5d75b08f1397b3572c1e1492ac7fe8b6a305",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1001736/VolledigDocument?datum=2007-09-01",
+  "source_sha256": "d44685723eba87f3a3e3e5b3114fe787796ebed1347e13a0be0fda6325d072a3",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1001736&param=informatie",
-  "as_of": "2006-06-01",
+  "as_of": "2007-09-01",
   "made": "1990-07-18",
   "gazette": "1990-10-04",
   "numac": 1990030034,
   "document_start": "1990-08-01",
   "document_end": "2007-08-31",
-  "in_force": "2006-06-01",
+  "in_force": "2007-09-01",
   "article_versions": 21,
-  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2007-09-01; future article versions excluded; article text as the API gives it"
 }
