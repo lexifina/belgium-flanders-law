@@ -1,0 +1,17 @@
+{
+  "codex_id": 1017266,
+  "title": "Ministerieel besluit van 2008-10-21 tot wijziging van het ministerieel besluit van 9 januari 2006 houdende samenstelling van de commissies zetelend in de commissies van advies voor het buitengewoon onderwijs",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1017266/VolledigDocument?datum=2007-09-01",
+  "source_sha256": "cda40655ef6d5cb43b94e27ce0c2ac636c0f5c0d3c228aa42365d792425d636b",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1017266&param=informatie",
+  "as_of": "2007-09-01",
+  "made": "2008-10-21",
+  "gazette": "2008-11-03",
+  "numac": 2008203841,
+  "document_start": "2007-09-01",
+  "document_end": null,
+  "in_force": "2007-09-01",
+  "article_versions": 5,
+  "record_form": "consolidated version as in force on 2007-09-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
