@@ -1,0 +1,17 @@
+{
+  "codex_id": 1016077,
+  "title": "Besluit van de Vlaamse Regering van 2007-07-19 tot wijziging van het besluit van de Vlaamse Regering van 20 juli 1994 houdende vaststelling van de regels volgens dewelke het Vlaams Agentschap voor Personen met een Handicap de kosten van bijstand door tolken voor doven en slechthorenden ten laste neemt",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1016077/VolledigDocument?datum=2007-09-01",
+  "source_sha256": "e0f8e404b71bcbe4c4156a139e4f36e83bd65a0b6517687fcad5484fa2c6797e",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1016077&param=informatie",
+  "as_of": "2007-09-01",
+  "made": "2007-07-19",
+  "gazette": "2007-08-14",
+  "numac": 2007036381,
+  "document_start": "2007-09-01",
+  "document_end": null,
+  "in_force": "2007-09-01",
+  "article_versions": 8,
+  "record_form": "consolidated version as in force on 2007-09-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
