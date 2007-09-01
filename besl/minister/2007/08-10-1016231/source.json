@@ -1,0 +1,17 @@
+{
+  "codex_id": 1016231,
+  "title": "Ministerieel besluit van 2007-08-10 houdende wijziging van het ministerieel besluit van 10 november 2006 houdende delegatie van sommige bevoegdheden betreffende PPS-projecten sociale huisvesting aan de gedelegeerd bestuurder van de Vlaamse Maatschappij voor Sociaal Wonen",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1016231/VolledigDocument?datum=2007-09-01",
+  "source_sha256": "542f68592943e4fc559b7fdfd39d4b718ce2e1700f84cb27d1bfc2733bcbcfc2",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1016231&param=informatie",
+  "as_of": "2007-09-01",
+  "made": "2007-08-10",
+  "gazette": "2007-10-11",
+  "numac": 2007036722,
+  "document_start": "2007-09-01",
+  "document_end": null,
+  "in_force": "2007-09-01",
+  "article_versions": 5,
+  "record_form": "consolidated version as in force on 2007-09-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
