@@ -1,0 +1,29 @@
+# Besluit van de Vlaamse Regering van 2009-07-03 tot wijziging van het besluit van de Vlaamse Regering van 22 mei 1991 omtrent de evaluatie, maatregelen van orde en tucht in het gemeenschapsonderwijs
+
+### Aanhef
+
+De Vlaamse Regering,<br /><br />Gelet op het decreet van 27 maart 1991 betreffende de rechtspositie van bepaalde personeelsleden van het gemeenschapsonderwijs, artikel 24, vervangen bij het decreet van 13 juli 2007, artikel 41, gewijzigd bij de decreten van 1 december 1993, 18 mei 1999, 7 juli 2006 en 13 juli 2007, artikel 52, vervangen bij het decreet van 13 juli 2007, artikel 58, vervangen bij het decreet van 18 mei 1999, artikel 59, vervangen bij het decreet van 18 mei 1999, artikel 69, artikel 72, vervangen bij het decreet van 13 juli 2007, artikel 73, gewijzigd bij de decreten van 13 juli 2001, 13 juli 2007 en 4 juli 2008, en artikel 100bis, ingevoegd bij het decreet van 14 juli 1998 en vervangen bij het decreet van 13 juli 2007;<br /><br />Gelet op het besluit van de Vlaamse Regering van 22 mei 1991 omtrent de evaluatie, maatregelen van orde en tucht in het gemeenschapsonderwijs;<br /><br />Gelet op het akkoord van de Vlaamse minister, bevoegd voor de begroting, gegeven op 26 september 2008;<br /><br />Gelet op protocol nr. 151 van 20 maart 2009 houdende de conclusies van de onderhandelingen die werden gevoerd in Sectorcomité X; <br /><br />Gelet op advies 46.560/1 van de Raad van State, gegeven op 11 juni 2009, met toepassing van artikel 84, § 1, eerste lid, 1°, van de wetten op de Raad van State, gecoördineerd op 12 januari 1973;<br /><br />Op voorstel van de Vlaamse minister van Werk, Onderwijs en Vorming;<br /><br />Na beraadslaging,<br /><br />Besluit :
+
+### ART. 2.
+
+Artikel 1bis van hetzelfde besluit, ingevoegd bij het besluit van de Vlaamse Regering van 15 september 2000, wordt vervangen door wat volgt : <br />"Art. 1bis. Dit hoofdstuk is van toepassing op de vastbenoemde personeelsleden en op de personeelsleden die tijdelijk zijn aangesteld voor doorlopende duur, vermeld in artikel 2 van het decreet met uitzondering van de instellingshoofden en de leden van de pedagogische begeleidingsdienst.<br /><br />Dit hoofdstuk is met ingang van 1 september 2007 niet van toepassing op de personeelsleden, aangesteld in het gewoon en buitengewoon secundair onderwijs, het volwassenenonderwijs en de CLB's, en het is met ingang van 1 september 2009 ook niet meer van toepassing op de andere personeelsleden op wie het decreet van toepassing is.<br /><br />In afwijking van het tweede lid moeten de evaluatieprocedures, ingezet met toepassing van dit hoofdstuk, worden voortgezet overeenkomstig de bepalingen van dit hoofdstuk."
+
+### ART. 3.
+
+In artikel 14, § 2, van hetzelfde besluit, worden de woorden "hoofdstuk II en in hoofdstuk IV van" geschrapt.
+
+### ART. 4.
+
+Artikel 15bis van hetzelfde besluit, ingevoegd bij het besluit van de Vlaamse Regering van 15 september 2000, wordt vervangen door wat volgt : <br />"Art. 15bis. Deze afdeling is van toepassing op de vastbenoemde personeelsleden en de personeelsleden die tijdelijk zijn aangesteld voor doorlopende duur, vermeld in artikel 2 van het decreet, en op de personeelsleden die met toepassing van artikel 24, 4e lid, artikel 53bis, § 5, en artikel 73undecies, § 4, van het decreet tijdens hun beroepsprocedure preventief worden geschorst."
+
+### ART. 5.
+
+In artikel 16 van hetzelfde besluit, gewijzigd bij het besluit van 15 september 2000, worden de volgende wijzigingen aangebracht : <br />1° In § 1, eerste lid wordt het woord "Elk" vervangen door het woord "Het";<br />2° in § 4, eerste lid worden tussen de woorden "opgelegd, hoort" en de woorden "de raad van bestuur" de woorden "naar gelang het geval" ingevoegd;<br />3° § 4, tweede lid, wordt vervangen door wat volgt : <br />"In hoogdringende gevallen kan naar gelang het geval de raad van bestuur of de afgevaardigd bestuurder de preventieve schorsing onmiddellijk uitspreken met de verplichting het personeelslid onverwijld te horen.".
+
+### ART. 6.
+
+In artikel 17 van hetzelfde besluit worden de volgende wijzigingen aangebracht : <br />1° § 1 en § 2 vervangen door wat volgt : <br />"§ 1. De preventieve schorsing mag niet meer dan één jaar bedragen. In geval van strafrechtelijke vervolging voor dezelfde feiten kan de preventieve schorsing evenwel tot één jaar lopen na de kennisgeving vermeld in artikel 19, § 5, laatste lid.<br /><br />§ 2. Behoudens strafrechtelijk onderzoek of strafrechtelijke vervolging, kan de preventieve schorsing ten hoogste zes maanden bedragen als er binnen die periode geen tuchtprocedure is ingesteld.";<br />2° aan § 3 wordt een tweede lid toegevoegd dat luidt als volgt : <br />"In geval van beroep tegen de uitgesproken maatregel kan de preventieve schorsing worden verlengd tot na het verstrijken van de termijn, vermeld in artikel 33decies, § 1.".
+
+### ART. 9.
+
+Artikel 23bis van hetzelfde besluit, ingevoegd bij het besluit van de Vlaamse Regering van 15 september 2000, wordt vervangen door wat volgt : <br />"Art. 23. Dit hoofdstuk is van toepassing op de vastbenoemde personeelsleden en op de personeelsleden die tijdelijk zijn aangesteld voor doorlopende duur, vermeld in artikel 2 van het decreet.<br /><br />Dit hoofdstuk is met ingang van 1 september 2007 niet van toepassing op de personeelsleden, aangesteld in het gewoon en buitengewoon secundair onderwijs, het volwassenenonderwijs en de CLB's, en het is met ingang van 1 september 2009 ook niet meer van toepassing op de andere personeelsleden op wie het decreet van toepassing is.<br /><br />In afwijking van het tweede lid moeten de evaluatieprocedures, ingezet met toepassing van hoofdstuk II worden voortgezet overeenkomstig de bepalingen van hoofdstuk II en indien het personeelslid beroep aantekent overeenkomstig de bepalingen van dit hoofdstuk."
