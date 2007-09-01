@@ -1,0 +1,17 @@
+{
+  "codex_id": 1016033,
+  "title": "Besluit van de Vlaamse Regering van 2007-07-06 tot vaststelling van de indienings- en adviseringsprocedure voor voorstellen van nieuwe structuuronderdelen in het [secundair onderwijs dat niet of niet automatisch tot een onderwijskwalificatie leidt]",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1016033/VolledigDocument?datum=2007-09-01",
+  "source_sha256": "bdffb53a31dcb17c6b7adf5d2a27121d29a8e8d90bc9c798bd7bfd6b739cb874",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1016033&param=informatie",
+  "as_of": "2007-09-01",
+  "made": "2007-07-06",
+  "gazette": "2007-08-03",
+  "numac": 2007036286,
+  "document_start": "2007-09-01",
+  "document_end": null,
+  "in_force": "2007-09-01",
+  "article_versions": 9,
+  "record_form": "consolidated version as in force on 2007-09-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
