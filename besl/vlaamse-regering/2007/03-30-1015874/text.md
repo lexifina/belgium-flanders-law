@@ -138,6 +138,10 @@ Uiterlijk 60 dagen na ontvangst van het inspectieverslag beslist Kind en Gezin o
 
 De lokale dienst kan boven de forfaitaire subsidiebedragen, vermeld in dit besluit, een aanvullend subsidiebedrag krijgen voor een deel van de loonkosten van doelgroepwerknemers die een begeleidersfunctie opnemen, met een maximum van 1.500 euro per plaats als de lokale dienst twee voltijdse equivalenten doelgroepwerknemers tewerkstelt per 10 opvangplaatsen. Dat bedrag wordt verhoudingsgewijs verlaagd als er minder doelgroepwerknemers worden tewerkgesteld.
 
+### ART. 29bis.
+
+De lokale dienst in het tweetalige gebied Brussel-Hoofdstad kan boven op de forfaitaire subsidiebedragen en het aanvullende subsidiebedrag een omkaderingspremie krijgen van maximaal 12.000 euro op jaarbasis. Daarvoor moet de lokale dienst minimaal één doelgroepwerknemer in een begeleidende functie in dienst nemen.<br /><br />De omkaderingspremie wordt aantoonbaar ingezet om de begeleidings- en opleidingstrajecten voor de doelgroepwerknemers te ontwikkelen en te organiseren.
+
 ### ART. 30.
 
 De subsidie wordt uitbetaald op basis van een evenredige verdeling over de kwartalen, telkens in de eerste maand van een kwartaal.
