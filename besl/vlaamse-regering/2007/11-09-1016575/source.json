@@ -1,0 +1,17 @@
+{
+  "codex_id": 1016575,
+  "title": "Besluit van de Vlaamse Regering van 2007-11-09 tot wijziging van het besluit van de Vlaamse Regering van 9 februari 2001 betreffende de bekwaamheidsbewijzen en de prestatie- en bezoldigingsregeling voor de personeelsleden van de centra voor volwassenenonderwijs",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1016575/VolledigDocument?datum=2007-09-01",
+  "source_sha256": "cf37d95bd0bb46a1f23453176eb6e8052fe8b2df01eaf34f27491490d822a4e3",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1016575&param=informatie",
+  "as_of": "2007-09-01",
+  "made": "2007-11-09",
+  "gazette": "2008-02-06",
+  "numac": 2007037219,
+  "document_start": "2007-09-01",
+  "document_end": null,
+  "in_force": "2007-09-01",
+  "article_versions": 52,
+  "record_form": "consolidated version as in force on 2007-09-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
