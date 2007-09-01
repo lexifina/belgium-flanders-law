@@ -412,7 +412,7 @@ De adjunct-gemeentesecretaris staat de gemeentesecretaris bij in de vervulling v
 
 ### ART. 92.
 
-De gemeentesecretaris kan de uitoefening van het dagelijkse personeelsbeheer toevertrouwen aan de leidinggevende personeelsleden, aangeduid in het organogram.
+De gemeentesecretaris kan de uitoefening van het dagelijkse personeelsbeheer toevertrouwen aan de leidinggevende personeelsleden, van wie de functies zijn aangegeven in het organogram.
 
 ## Onderafdeling III De financieel beheerder
 
@@ -703,10 +703,6 @@ De beleidsnota verwoordt het beleid dat de gemeente gedurende het boekjaar zal v
 ### ART. 156.
 
 Een verbintenis mag alleen worden aangegaan door de bevoegde budgethouder op grond van een goedgekeurde, op het budget voorkomende post of op grond van een voorlopig krediet.<br /><br />De personeelsleden of de leden van het college van burgemeester en schepenen die in strijd hiermee verbintenissen hebben aangegaan, zijn hiervoor persoonlijk verantwoordelijk, behoudens in de gevallen die door of krachtens dit decreet worden bepaald en onverminderd de eventuele medeverantwoordelijkheid van andere organen of personeelsleden van de gemeente.
-
-### ART. 157.
-
-De gemeenteraad kan zonder voorafgaande budgetwijziging voorzien in uitgaven die door dwingende en onvoorziene omstandigheden worden vereist, op voorwaarde dat hij daartoe een met redenen omkleed besluit neemt.<br /><br />In dezelfde omstandigheden en als het geringste uitstel onbetwistbare schade zou veroorzaken, kan het college van burgemeester en schepenen op eigen verantwoordelijkheid in de uitgave voorzien. Het college van burgemeester en schepenen brengt de gemeenteraad en de externe auditcommissie daarvan onverwijld op de hoogte.<br /><br />In de gevallen, bedoeld in het eerste en het tweede lid, worden de nodige kredieten onverwijld ingeschreven door een budgetwijziging. De betaling mag evenwel worden uitgevoerd, zonder de budgetwijziging af te wachten.
 
 ## HOOFDSTUK IV Uitvoering van het budget, budgethouderschap en beheer van de middelen
 
@@ -1235,10 +1231,6 @@ Elk districtsbestuur omvat een raad, districtsraad genoemd, een districtscollege
 ### ART. 276.
 
 De bepalingen van artikelen 19 tot 40 zijn van overeenkomstige toepassing op de districtsraden met dien verstande dat :<br />1° in deze bepalingen de gemeenteraadsleden moeten worden vervangen door de leden van de districtsraad;<br />2° de gemeenteraad moet worden vervangen door de districtsraad;<br />3° het college van burgemeester en schepenen moet worden vervangen door het districtscollege;<br />4° de burgemeester moet worden vervangen door de voorzitter van het districtscollege; <br />5° de voorzitter van de gemeenteraad moet worden vervangen door de voorzitter van de districtsraad;<br />6° de gemeentesecretaris moet worden vervangen door de districtssecretaris. <br /><br />De ingevolge artikel 30 aan de leden van de districtsraden toekomende rechten betreffen alleen het bestuur en de instellingen van het district.<br /><br />De leden van de districtsraad hanteren de deontologische code van de gemeenteraad bedoeld in artikel 41. De leden van de districtsraad worden door de gemeentesecretaris van deze deonthologische code en de wijzigingen eraan binnen de maand na aanneming ervan op de hoogte gebracht.<br /><br />___________<br />(dit artikel treedt in werking op 5 september 2006 in zoverre het verwijst naar artikel 38 van het gemeentedecreet - zie BVR 1/9/2006, B.S. 5/9/2006)
-
-### ART. 277.
-
-Aan de gemeenteraadsleden of aan de ambtenaar die daartoe opdracht heeft gekregen, hetzij van de provinciegouverneur of van de bestendige deputatie van de provincieraad, hetzij van de burgemeester of van het college van burgemeester en schepenen, mag niet worden geweigerd ter plaatse inzage te nemen van de besluiten van de districtsraad.
 
 ## HOOFDSTUK III Vergaderingen, beraadslagingen en besluiten van het districtscollege
 
