@@ -6,11 +6,83 @@ De Vlaamse Regering,<br /><br />Gelet op de wet van 5 augustus 1978 houdende eco
 
 ## HOOFDSTUK I Toepassingsgebied
 
+### ART. 1.
+
+§ 1. Behoudens hoofdstuk II, afdeling III, is dit besluit van toepassing op de volgende personeelsleden :<br />1° de personeelsleden, vermeld in artikel 2, § 1, van het decreet van 27 maart 1991 betreffende de rechtspositie van bepaalde personeelsleden van het gemeenschapsonderwijs;<br />2° de personeelsleden, vermeld in artikel 4, § 1, van het decreet van 27 maart 1991 betreffende de rechtspositie van sommige personeelsleden van het gesubsidieerd onderwijs en de gesubsidieerde centra voor leerlingenbegeleiding;<br />3° de leden van de Onderwijsinspectie van de Vlaamse Gemeenschap, vermeld in artikel 4 van het decreet van 17 juli 1991 betreffende inspectie, Dienst voor Onderwijsontwikkeling en pedagogische begeleidingsdiensten;<br />4° de personeelsleden van de dienst voor onderwijsontwikkeling, vermeld in artikel 9 van het decreet van 17 juli 1991 betreffende inspectie, Dienst voor Onderwijsontwikkeling en pedagogische begeleidingsdiensten;<br />5° de personeelsleden van de pedagogische begeleidingsdiensten, vermeld in artikel 88 van het decreet van 17 juli 1991 betreffende inspectie, Dienst voor Onderwijsontwikkeling en pedagogische begeleidingsdiensten;<br />6° de personeelsleden, vermeld in artikel 10 van het decreet van 1 december 1993 betreffende de inspectie en de begeleiding van de levensbeschouwelijke vakken. <br /><br />§ 2. Hoofdstuk II, afdeling III, is van toepassing op de personeelsleden van het onderwijs vermeld in artikel X.58 van het decreet van 14 februari 2003 betreffende het onderwijs XIV.<br /><br />§ 3. Voor de toepassing van de bepalingen van dit besluit wordt verstaan onder :<br />1° MST-equipes : de gesubsidieerde equipes voor medisch schooltoezicht, bedoeld in de wet van 21 maart 1964 op het medisch schooltoezicht;<br />2° Medex : het Bestuur van de Medische Expertise van de Federale Overheidsdienst Volksgezondheid, Veiligheid van de Voedselketen en Leefmilieu. Dit bestuur is de opvolger van de Administratieve Gezondheidsdienst (AGD). <br /><br />
+
 ## HOOFDSTUK II Ziekteverlof
 
 ## Afdeling I Vastbenoemde en tot de proeftijd toegelaten personeelsleden
 
+### ART. 2.
+
+Deze afdeling is van toepassing op de personeelsleden, vermeld in artikel 1, § 1, die vast benoemd zijn of, voor de personeelsleden van het gemeenschapsonderwijs, die tot de proeftijd zijn toegelaten.<br /><br />
+
+### ART. 3.
+
+§ 1. De personeelsleden als vermeld in artikel 2 krijgen voor de hele duur van hun loopbaan, dertig kalenderdagen bezoldigd ziekteverlof per twaalf maanden sociale anciënniteit zoals bepaald in artikel 5. <br /><br />In afwijking van het eerste lid kan een personeelslid dat op het ogenblik van zijn afwezigheid wegens ziekte nog geen zesendertig maanden sociale anciënniteit telt, negentig kalenderdagen bezoldigd ziekteverlof krijgen.<br /><br />§ 2. In afwijking van § 1 wordt :<br />1° voor de personeelsleden van de MST-equipes, voor de periode vóór 1 september 2000, het aantal dagen bezoldigd ziekteverlof per twaalf maanden sociale anciënniteit bepaald op vijftien dagen;<br />2° voor de administratief medewerker van de personeelscategorie van het beleids- en ondersteunend personeel van het basisonderwijs, voor de periode vóór 1 september 2003, het aantal dagen bezoldigd ziekteverlof per twaalf maanden sociale anciënniteit bepaald op vijftien dagen.<br /><br />§ 3. Het ziekteverlof wordt gelijkgesteld met een periode van dienstactiviteit. Tijdens dat verlof heeft het personeelslid recht op salaris of salaristoelage en op verhoging tot een hoger salaris of een hogere salaristoelage.<br /><br />
+
+### ART. 4.
+
+Als een personeelslid als vermeld in artikel 2 afwezig is wegens ziekte de kalenderdag vóór een wettelijke feestdag, een weekend, een herfst-, kerst-, krokus- of paasvakantie en eveneens afwezig is wegens ziekte de kalenderdag na dezelfde wettelijke feestdag, hetzelfde weekend, dezelfde herfst-, kerst-, krokus- of paasvakantie, dan word(t)(en) de tussenliggende kalenderdag(en) eveneens als afwezigheid wegens ziekte aangerekend. Dit geldt eveneens indien een herfst-, kerst-, krokus- of paasvakantie of een wettelijke feestdag aansluit of voorafgaat aan een weekend.<br /><br />Als een personeelslid als vermeld in artikel 2 gedurende minimum 10 kalenderdagen afwezig is wegens ziekte in een periode van 15 kalenderdagen vóór de zomervakantie en eveneens gedurende minimum 10 kalenderdagen afwezig is wegens ziekte in een periode van 15 kalenderdagen na dezelfde zomervakantie, dan wordt de zomervakantie eveneens als afwezigheid wegens ziekte aangerekend.<br /><br />In afwijking van het eerste en tweede lid word(t)(en) de tussenliggende kalenderdag(en) niet als afwezigheid wegens ziekte aangerekend als het personeelslid op eigen initiatief met een medisch attest aan het controleorgaan, vermeld in artikel 7, het bewijs levert dat de tweede ziekteperiode geen verband houdt met de eerste ziekteperiode.<br /><br />
+
+### ART. 5.
+
+§ 1. Voor de toepassing van artikel 3 is de sociale anciënniteit van een personeelslid gelijk aan de som van : <br />1° zijn geldelijke anciënniteit zoals die vastgesteld wordt op basis van de bepalingen van de bezoldigingsregeling of van de bezoldigingsregelingen die, op het ogenblik van de afwezigheid wegens ziekte, op hem van toepassing is;<br />2° de duur van de diensten die hij gepresteerd heeft vóór de leeftijd, vermeld in de klasse van zijn salarisschaal, voor zover die diensten voldoen aan de andere vereisten, gesteld in de toe te passen bezoldigingsregeling;<br />3° in voorkomend geval, de geldelijke anciënniteit, verworven in opdrachten die in het onderwijs met volledig leerplan als bijbetrekking werden beschouwd, op voorwaarde dat de diensten nog niet volgens punt 1° en 2° zijn meegerekend. Voor de berekening van die anciënniteit geldt de berekeningswijze van diensten die als hoofdambt worden beschouwd;<br />4° in voorkomend geval, de geldelijke anciënniteit, verworven in bijbetrekking in het onderwijs voor sociale promotie of met beperkt leerplan, op voorwaarde dat de diensten nog niet volgens punt 1°, 2° of 3° zijn meegerekend;<br />5° in voorkomend geval, de duur van de diensten die voor de berekening van de geldelijke anciënniteit op grond van een van de volgende bepalingen wel in aanmerking werden genomen, op voorwaarde dat ze volgens punt 1°, 2°, 3° of 4° nog niet werden meegeteld :<br />a) het koninklijk besluit van 15 april 1958 houdende bezoldigingsregeling van het onderwijzend, wetenschappelijk en daarmee gelijkgesteld personeel van het Ministerie van Openbaar Onderwijs; <br />b) het koninklijk besluit van 1 december 1970 houdende bezoldigingsregeling van het administratief personeel, het meesters-, vak- en dienstpersoneel van de rijksinrichtingen voor kleuteronderwijs, voor lager, buitengewoon, middelbaar, technisch, kunst- en normaalonderwijs,<br />c) het koninklijk besluit van 10 maart 1965 houdende bezoldigingsregeling van het personeel der leergangen met beperkt leerplan afhangend van het Ministerie van Nationale Opvoeding en Cultuur.<br /><br />§ 2. De sociale anciënniteit vermeld in § 1 wordt verminderd met de tijd, die als in aanmerking komende dienst geldt op grond van artikel 17 van het voormelde koninklijk besluit van 15 april 1958.<br /><br />§ 3. In afwijking van § 1 en § 2 wordt :<br />1° voor de berekening van de sociale anciënniteit van de personeelsleden van de MST-equipes, voor de periode vóór 1 september 2000, alleen rekening gehouden met de geldelijke anciënniteit, verworven in een gesubsidieerde MST-equipe; <br />2° de sociale anciënniteit voor de administratief medewerker van de personeelscategorie van het beleids- en ondersteunend personeel van het basisonderwijs, voor de periode vóór 1 september 2003, berekend op basis van de prestaties, vermeld in artikel 14bis, 14ter en 14quater, van het koninklijk besluit van 1 december 1970 houdende bezoldigingsregeling van het administratief personeel, het meesters-, vak- en dienstpersoneel van de rijksinrichtingen voor kleuteronderwijs, voor lager, buitengewoon, middelbaar, technisch, kunst- en normaalonderwijs, en op basis van de prestaties, geleverd als werknemer in het "Bijzonder tijdelijk kader" en in het "Derde arbeidscircuit". <br /><br />§ 4. Voor het bepalen van het aantal genoten dagen ziekteverlof wordt de duur van de afwezigheden wegens ziekte vanaf 1 januari 1958 geteld. Voor de telling van het aantal genoten dagen ziekteverlof worden alleen de dagen bezoldigd ziekteverlof meegeteld die vallen binnen de periode die meetelt voor de berekening van het recht op het bezoldigd ziekteverlof. Het langdurig verlof, toegestaan tussen 1 januari 1958 en 1 juli 1968 krachtens artikel 3, derde en vierde lid, van het koninklijk besluit van 30 december 1959 betreffende de ziekte- en bevallingsverloven der leden van het personeel van het Rijksonderwijs, wordt niet meegeteld.<br /><br />In afwijking van het eerste lid wordt voor de telling van het aantal genoten dagen ziekteverlof voor :<br />1° de personeelsleden van de MST-equipes geen rekening gehouden met het aantal dagen ziekteverlof genoten vóór 1 september 2000;<br />2° de administratief medewerker van de personeelscategorie van het beleids- en ondersteunend personeel van het basisonderwijs geen rekening gehouden met het aantal dagen ziekteverlof genoten vóór 1 september 2003. <br /><br />
+
+### ART. 6.
+
+Een aantal afwezigheden wordt als bezoldigd ziekteverlof beschouwd en, in afwijking van artikel 3, § 1 en § 2, zonder tijdsbeperking toegestaan. Het gaat om de afwezigheid naar aanleiding van :<br />1° een arbeidsongeval;<br />2° een ongeval op de weg naar en van het werk;<br />3° een beroepsziekte; <br />4° een bedreiging door een beroepsziekte.<br /><br />Deze dagen afwezigheid worden niet in mindering gebracht van het aantal dagen bezoldigd ziekteverlof waarop het personeelslid nog recht heeft.<br /><br />
+
+### ART. 7.
+
+Het personeelslid dat afwezig is wegens ziekte, staat onder het geneeskundig toezicht van het controleorgaan dat de Vlaamse minister, bevoegd voor het onderwijs heeft aangewezen ter uitvoering van artikel 57 van het decreet van 15 december 1993 betreffende het onderwijs-V.<br /><br />
+
+### ART. 8.
+
+Het personeelslid kan niet definitief ongeschikt worden verklaard wegens ziekte, voor hij het bezoldigd ziekteverlof heeft opgebruikt waarop hij krachtens artikel 3 voor het geheel van zijn loopbaan recht heeft.<br /><br />
+
+### ART. 9.
+
+Is de afwezigheid te wijten aan een ongeval, veroorzaakt door de fout van een derde, en dat geen ongeval is als vermeld in artikel 6, dan ontvangt het personeelslid zijn salaris of salaristoelage alleen als voorschot op de door de derde verschuldigde vergoeding. Het salaris of de salaristoelage wordt alleen uitbetaald op voorwaarde dat het betrokken personeelslid de Vlaamse Gemeenschap ten bedrage van de door de Vlaamse Gemeenschap betaalde som in haar rechten doet treden tegen de persoon die het ongeval heeft veroorzaakt. Het salaris of de salaristoelage wordt door de Vlaamse Gemeenschap teruggevorderd van de derde die aansprakelijk is voor het ongeval.<br /><br />Om het aantal dagen bezoldigd ziekteverlof te bepalen waarop het personeelslid krachtens artikel 3 recht heeft, wordt de afwezigheid als gevolg van een dergelijk ongeval niet in aanmerking genomen ten belope van het percentage aansprakelijkheid waarvoor de derde aansprakelijk is gesteld en : <br />1° wanneer de derde overeenkomstig het eerste lid heeft betaald;<br />2° wanneer de derde overeenkomstig het eerste lid niet heeft betaald maar de reden van de niet-betaling het gevolg is van de onvermogendheid van de derde, op voorwaarde dat de aansprakelijkheid en de periode van afwezigheid ten gevolge van het ongeval door een rechtbank is vastgesteld of door de derde werd erkend; <br />3° wanneer de derde overeenkomstig het eerste lid niet heeft betaald wegens een beslissing van de Vlaamse Gemeenschap om het salaris of de salaris-toelage niet terug te vorderen van de derde.<br /><br />
+
 ## Afdeling II Tijdelijk aangestelde personeelsleden
+
+### ART. 10.
+
+Deze afdeling is van toepassing op de personeelsleden, vermeld in artikel 1, § 1, die tijdelijk zijn aangesteld.<br /><br />De bepalingen van deze afdeling gelden enkel voor de afwezigheid wegens ziekte die ligt binnen de periode van aanstelling van een tijdelijk personeelslid.<br /><br />
+
+### ART. 11.
+
+§ 1. Het personeelslid, vermeld in artikel 10, dat, eenmaal zijn opdracht effectief heeft opgenomen een eerste keer afwezig is wegens ziekte, krijgt een aantal kalenderdagen bezoldigd ziekteverlof, berekend naar rata van één dag per reeks van tien dagen waarvoor een salaris of een salaristoelage wordt verstrekt als tijdelijk personeelslid sinds 1 april 1969. <br /><br />Voor de toepassing van het eerste lid tellen alleen die perioden mee waarvoor het personeelslid vermeld in artikel 10, als tijdelijk personeelslid in hoofdambt of in bijbetrekking, van 1 april 1969 af, een salaris of salaristoelage van de onderwijsadministratie heeft verkregen, ongeacht de aard van de instelling of het centrum waar die diensten werden gepresteerd. Per schooljaar mogen maximaal 300 kalenderdagen worden aangerekend.<br /><br />§ 2. Als het personeelslid opnieuw afwezig is wegens ziekte, is het aantal kalenderdagen bezoldigd ziekteverlof waarop het aanspraak kan maken, gelijk aan het aantal kalenderdagen, berekend volgens § 1, verminderd met het aantal kalenderdagen bezoldigd ziekteverlof dat het sinds 1 april 1969 heeft genoten.<br /><br />§ 3. Voor de telling van het aantal genoten dagen ziekteverlof worden alleen de dagen bezoldigd ziekteverlof meegeteld die vallen binnen de periode die meetelt voor de berekening van het recht op het bezoldigd ziekteverlof.<br /><br />
+
+### ART. 12.
+
+In afwijking van artikel 11 kan het personeelslid, vermeld in artikel 10, dat aangesteld werd voor de volledige duur van het schooljaar en dat eenmaal zijn opdracht effectief heeft opgenomen en dat afwezig is wegens ziekte, voor dat jaar aanspraak maken op dertig kalenderdagen bezoldigd ziekteverlof als de toepassing van artikel 11 in zijn geval minder gunstig is.<br /><br />Als het betrokken personeelslid echter vrijwillig of gedwongen zijn ambt neerlegt of onderbreekt voor het einde van het schooljaar, wordt het bedrag, gelijk aan het verschil tussen de bezoldiging die het op grond van het eerste lid van dit artikel heeft gekregen en de bezoldiging waarop het aanspraak zou kunnen maken hebben door de toepassing van artikel 11, aan de belanghebbende teruggevraagd.<br /><br />
+
+### ART. 13.
+
+Als een personeelslid vermeld in artikel 10, afwezig is wegens ziekte de kalenderdag vóór een wettelijke feestdag, een weekend, een herfst-, kerst-, krokus- of paasvakantie en eveneens afwezig is wegens ziekte de kalenderdag na dezelfde wettelijke feestdag, hetzelfde weekend, dezelfde herfst-, kerst-, krokus- of paasvakantie, dan word(t)(en) de tussenliggende kalenderdag(en) eveneens aangerekend als afwezigheid wegens ziekte. Dit geldt eveneens indien een herfst-, kerst-, krokus- of paasvakantie of een wettelijke feestdag aansluit of voorafgaat aan een weekend.<br /><br />In afwijking van het eerste lid word(t)(en) de tussenliggende kalenderdag(en) niet als afwezigheid wegens ziekte aangerekend als het personeelslid, op eigen initiatief met een medisch attest aan het controleorgaan, vermeld in artikel 17, het bewijs levert dat de tweede ziekteperiode geen verband houdt met de eerste ziekteperiode. <br /><br />
+
+### ART. 14.
+
+De afwezigheden wegens ziekte, vermeld in artikel 11, 12 en 13, zijn periodes van bezoldigd verlof en worden gelijkgesteld met dienstactiviteit. Als die periode zich binnen zijn aanstelling bevindt, heeft het personeelslid tijdens dat verlof recht op een salaris of salaristoelage en op verhoging tot een hoger salaris of een hogere salaristoelage.<br /><br />
+
+### ART. 15.
+
+Als de afwezigheid wegens ziekte van een personeelslid vermeld in artikel 10, langer duurt dan de periode waarvoor het werd aangesteld, mag de toepassing van de bepalingen van artikel 11, 12 en 13 niet tot gevolg hebben dat de betrokkene bezoldigd wordt gedurende een periode na de datum waarop zijn tijdelijke aanstelling geëindigd is.<br /><br />
+
+### ART. 16.
+
+Een aantal afwezigheden wordt als bezoldigd ziekteverlof beschouwd en, in afwijking van artikel 11, zonder tijdsbeperking toegestaan als die periode zich bevindt binnen de aanstelling van het personeelslid, vermeld in artikel 10. Het gaat om de afwezigheid naar aanleiding van :<br />1° een arbeidsongeval;<br />2° een ongeval op de weg naar en van het werk;<br />3° een beroepsziekte; <br />4° een bedreiging door een beroepsziekte.<br /><br />Deze dagen afwezigheid worden niet in mindering gebracht van het aantal dagen bezoldigd ziekteverlof waarop het personeelslid nog recht heeft.<br /><br />
+
+### ART. 17.
+
+Het personeelslid dat afwezig is wegens ziekte, staat onder het geneeskundig toezicht van het controleorgaan dat de Vlaamse minister, bevoegd voor het onderwijs heeft aangewezen ter uitvoering van artikel 57 van het decreet van 15 december 1993 betreffende het onderwijs-V.<br /><br />
+
+### ART. 18.
+
+Is de afwezigheid te wijten aan een ongeval, veroorzaakt door de fout van een derde en dat geen ongeval is als vermeld in artikel 16, dan ontvangt het personeelslid zijn salaris of salaristoelage alleen als voorschot op de door de derde verschuldigde vergoeding. Het salaris of de salaristoelage wordt alleen uitbetaald op voorwaarde dat het betrokken personeelslid de Vlaamse Gemeenschap ten bedrage van de door de Vlaamse Gemeenschap betaalde som in haar rechten doet treden tegen de persoon die het ongeval heeft veroorzaakt. Het salaris of de salaristoelage wordt door de Vlaamse Gemeenschap teruggevorderd van de derde die aansprakelijk is voor het ongeval.<br /><br />Als het personeelslid het werk hervat, wordt het recht op het aantal dagen bezoldigd ziekteverlof vermeerderd met het aantal dagen ten belope van het percentage aansprakelijkheid waarvoor de derde aansprakelijk is gesteld. De aanvulling gebeurt pas :<br />1° wanneer de derde overeenkomstig het eerste lid heeft betaald; <br />2° wanneer de derde overeenkomstig het eerste lid niet heeft betaald maar de reden van de niet-betaling het gevolg is van de onvermogendheid van de derde, op voorwaarde dat de aansprakelijkheid en de periode van afwezigheid ten gevolge van het ongeval door een rechtbank is vastgesteld of door de derde werd erkend; <br />3° wanneer de derde overeenkomstig het eerste lid niet heeft betaald wegens een beslissing van de Vlaamse Gemeenschap om het salaris of de salaristoelage niet terug te vorderen van de derde; <br /><br />en nadat het personeelslid heeft verklaard dat de periode van afwezigheid ten gevolge van het ongeval werd beëindigd. Hij doet die verklaring met een formulier dat de minister of zijn gemachtigde vaststelt. De aanvulling van het recht op een aantal dagen bezoldigd ziekteverlof heeft alleen gevolgen voor de latere afwezigheden.<br /><br />
 
 ## Afdeling III Contractuele personeelsleden
 
@@ -32,14 +104,114 @@ Is de afwezigheid te wijten aan een ongeval, veroorzaakt door de fout van een de
 
 ## HOOFDSTUK III Verlof voor verminderde prestaties wegens ziekte
 
+### ART. 23.
+
+Dit hoofdstuk is van toepassing op de personeelsleden, vermeld in artikel 1, § 1, die voor ten minste een halve opdracht vast benoemd of tot de proeftijd zijn toegelaten. Hiervoor komen de opdrachten aan een hogeschool als vermeld in artikel 2, 39°, van het decreet van 13 juli 1994 betreffende de hogescholen eveneens in aanmerking.<br /><br />
+
+### ART. 24.
+
+§ 1. Het personeelslid, vermeld in artikel 23, dat wegens ziekte afwezig is, kan vragen om onmiddellijk aansluitend op die periode van ziekte, zijn ambt(en) weer met halftijdse prestaties op te nemen. <br /><br />Tot staving van die aanvraag legt het personeelslid een geneeskundig attest voor. Als het controleorgaan oordeelt dat de gezondheidstoestand van de betrokkene dat toelaat, brengt het de minister, bevoegd voor het onderwijs, het Vlaams Ministerie van Onderwijs en Vorming, de directeur en het betrokken personeelslid op de hoogte van die beslissing.<br /><br />§ 2. De personeelsleden die de periode vermeld in artikel 32, derde lid, hebben opgebruikt, hebben het recht om onder de voorwaarden vermeld in § 1, tweede lid, een verlof voor verminderde prestaties wegens ziekte aan te vragen.<br /><br />§ 3. De personeelsleden van wie de tewerkstelling met verminderde prestaties, toegekend overeenkomstig<br />1° artikel 32bis van het koninklijk besluit van 24 januari 1969 betreffende de schadevergoeding ten gunste van personeelsleden van de overheidssector, voor arbeidsongevallen en voor ongevallen op de weg naar en van het werk;<br />2° artikel 19bis het koninklijk besluit van 5 januari 1971 betreffende de schadevergoeding voor beroepsziekten in de overheidssector,<br />eindigt, hebben het recht om onder de voorwaarden vermeld in § 1, tweede lid, een verlof voor verminderde prestaties wegens ziekte aan te vragen.<br /><br />§ 4. In afwijking van § 1, eerste lid, kan het verlof voor verminderde prestaties wegens ziekte onmiddellijk op de periode, vermeld in § 2 of in § 3, aansluiten.<br /><br />
+
+### ART. 25.
+
+Als het personeelslid, vermeld in artikel 23, door het controleorgaan geschikt wordt verklaard om zijn ambt met verminderde prestaties uit te oefenen, dan heeft dat personeelslid het recht elke week een of meer ambten uit te oefenen die samen de helft van het aantal prestatie-eenheden omvatten die vereist zijn voor een ambt met volledige prestaties. Voor het berekenen van de halve opdracht die het personeelslid moet blijven uitoefenen, komen de uren waarvoor hij tijdelijk is aangesteld en komen de prestaties in een opdracht aan een hogeschool als vermeld in artikel 2, 39°, van het hetzelfde decreet van 13 juli 1994 eveneens in aanmerking. De nog te verrichten prestaties moeten steeds worden afgerond naar de hogere eenheid, naargelang van het geval tot een volledige lestijd of tot een volledig uur.<br /><br />
+
+### ART. 26.
+
+Het controleorgaan staat halftijdse prestaties toe voor een periode van maximum dertig kalenderdagen. Nochtans worden voor ten hoogste dezelfde periode verlengingen toegestaan als het controleorgaan bij een nieuw onderzoek oordeelt dat de gezondheidstoestand van het personeelslid dat wettigt.<br /><br />Het personeelslid dat, tijdens de toegestane lopende periode van verlof voor verminderde prestaties, afwezig is wegens ziekte, behoudt na deze afwezigheid het recht om het verlof voor verminderde prestaties voor het nog resterend aantal dagen van de toegestane periode verder te zetten. <br /><br />In afwijking van het tweede lid geldt dit recht niet indien het gaat om een afwezigheid wegens ziekte die langer dan veertien opeenvolgende kalenderdagen duurt.<br /><br />
+
+### ART. 27.
+
+Met behoud van de toepassing van artikel 32, vijfde lid, mag het personeelslid, vermeld in artikel 23, in een periode van tien jaar zijn ambt in totaal niet meer dan negentig kalenderdagen in halftijdse prestaties wegens ziekte uitoefenen. Voor het bepalen van de negentig kalenderdagen worden alleen periodes van halftijdse prestaties wegens ziekte geteld.<br /><br />Het personeelslid heeft recht op een periode van maximaal dertig kalenderdagen verlof voor verminderde prestaties wegens ziekte op voorwaarde dat het in de periode van maximaal tien jaar die aan die periode voorafgaat nog geen negentig kalenderdagen verlof voor verminderde prestaties wegens ziekte heeft genoten.<br /><br />
+
+### ART. 28.
+
+De halftijdse afwezigheid wegens ziekte wordt beschouwd als verlof, gelijkgesteld met een periode van dienstactiviteit. Tijdens dit verlof heeft het personeelslid recht op het salaris dat of de salaristoelage die het zou hebben gehad mocht het geen verlof voor verminderde prestaties wegens ziekte hebben gehad.<br /><br />
+
 ## [HOOFDSTUK III/1 Langdurig verlof voor verminderde prestaties wegens medische redenen (ing. BVR 17 oktober 2014, art. 14, I: 1 januari 2015)]
 
 ## HOOFDSTUK IV Terbeschikkingstelling wegens ziekte
 
+### ART. 29.
+
+Het personeelslid, vermeld in artikel 2, wordt door de inrichtende macht of het schoolbestuur ter beschikking gesteld, nadat het personeelslid het aantal dagen bezoldigd ziekteverlof waarop het recht had, heeft opgebruikt. <br /><br />
+
+### ART. 30.
+
+Het personeelslid dat wegens ziekte ter beschikking gesteld is, ontvangt een wachtgeld of wachtgeldtoelage waarvan het bedrag bepaald wordt per jaar geldelijke anciënniteit, op basis van het laatste activiteitssalaris, naar rata van : <br />1° 5 % voor de eerste vijf jaren;<br />2° 4 % voor de vijf volgende jaren;<br />3° 2 % voor de andere jaren.<br /><br />Het bedrag van deze wachtgelden of wachtgeldtoelagen mag niet lager zijn dan de helft van het laatste activiteitssalaris en mag niet hoger zijn dan drie vierde van het laatste activiteitssalaris. <br /><br />
+
+### ART. 31.
+
+§ 1. In afwijking van artikel 30 heeft het personeelslid dat wegens ziekte ter beschikking gesteld is, recht op een wachtgeld of wachtgeldtoelage waarvan het bedrag gelijk is aan zijn laatste activiteitssalaris, als de aandoening waaraan hij lijdt als ernstige en langdurige ziekte wordt erkend.<br /><br />Medex beslist of de aandoening waaraan het personeelslid lijdt, een dergelijke ziekte is. De beslissing mag in geen geval genomen worden vooraleer het personeelslid voor een periode van ten minste zes maanden voor de aandoening waaraan hij lijdt met ziekteverlof was en/of wegens ziekte ter beschikking gesteld is geweest. <br /><br />Elke eerste beslissing brengt een herziening mee van de toestand van het personeelslid, met geldelijke terugwerking tot de begindatum van zijn terbeschikkingstelling.<br /><br />§ 2. In afwijking van § 1 heeft elke latere beslissing van Medex uitwerking op de eerste dag van de maand die volgt op de betekening van de beslissing. Als de beslissing op de eerste dag van een maand wordt betekend, heeft de beslissing toch uitwerking vanaf de eerste dag van die maand.<br /><br />
+
+### ART. 32.
+
+Als Medex voorstelt dat een personeelslid dat ter beschikking gesteld is wegens ziekte geschikt is om onmiddellijk bij wijze van wederaanpassing gedurende een bepaalde periode met een halve dagtaak te werken en zodra het personeelslid aan dat voorstel gevolg geeft, is de terbeschikkingstelling wegens ziekte ambtshalve beëindigd. <br /><br />Het personeelslid heeft in het geval vermeld in het eerste lid, het recht elke week een of meer ambten uit te oefenen die samen de helft van het aantal prestatie-eenheden omvatten die vereist zijn voor een ambt met volledige prestaties. Voor het berekenen van de halve opdracht die het personeelslid moet blijven uitoefenen, komen de uren waarvoor hij tijdelijk is aangesteld en komen de prestaties in een opdracht aan een hogeschool als vermeld in artikel 2, 39°, van het hetzelfde decreet van 13 juli 1994 eveneens in aanmerking. De nog te verrichten prestaties moeten steeds worden afgerond naar de hogere eenheid, naargelang van het geval tot een volledige lestijd of tot een volledig uur.<br /><br />Het personeelslid mag de halftijdse prestaties alleen uitoefenen gedurende de periode die in de beslissing van het voormelde bestuur wordt vermeld. Die periode is echter ambtshalve tot een maximum van negentig kalenderdagen beperkt.<br /><br />Het personeelslid dat, tijdens de toegestane lopende periode van halftijdse prestaties, afwezig is wegens ziekte, behoudt na deze afwezigheid het recht om de halftijdse prestaties voor het nog resterend aantal dagen van de toegestane periode verder te zetten. Dit recht geldt niet indien het gaat om een afwezigheid wegens ziekte die langer dan veertien opeenvolgende kalenderdagen duurt.<br /><br />Met behoud van de toepassing van artikel 27, eerste lid, mag het personeelslid in een periode van tien jaar zijn ambt in totaal niet meer dan negentig kalenderdagen met dergelijke halftijdse prestaties uitoefenen. Voor het bepalen ven de negentig kalenderdagen worden alleen periodes van halftijdse prestaties wegens ziekte geteld.<br /><br />Het personeelslid heeft recht op een periode van maximaal negentig kalenderdagen halftijdse prestaties, op voorwaarde dat het in de periode van maximaal tien jaar die aan die periode voorafgaat nog geen negentig kalenderdagen met halftijdse prestaties heeft genoten.<br /><br />Tijdens de periode dat het personeelslid die halftijdse prestaties uitoefent, wordt de halftijdse afwezigheid wegens ziekte beschouwd als verlof, gelijkgesteld met een periode van dienstactiviteit. Tijdens dit verlof heeft het personeelslid recht op het salaris dat of de salaristoelage die het zou hebben gehad mocht het zijn volledige dagtaak hebben uitgeoefend. <br /><br />
+
 ## HOOFDSTUK V Wijzigingsbepaling
+
+### ART. 33.
+
+In het opschrift van hoofdstuk II van het koninklijk besluit van 8 juli 1976 genomen voor de toepassing van artikel 40 van het koninklijk besluit van 25 oktober 1971 tot vaststelling van het statuut van de leermeesters, de leraars en de inspecteurs katholieke en protestantse godsdienst der inrichtingen voor lager, buitengewoon, middelbaar, technisch, kunst- en normaalonderwijs van de Staat worden de woorden "Verlof wegens ziekte of gebrekkigheid" en de woorden "Verlof voor verminderde dienstprestaties wegens ziekte of gebrekkigheid" geschrapt.<br /><br />
 
 ## HOOFDSTUK VI Opheffingsbepalingen
 
+### ART. 34.
+
+In het koninklijk besluit van 8 december 1967 genomen ter uitvoering van artikel 3 van het koninklijk besluit van 28 februari 1967 houdende vaststelling van de administratieve stand van de leden van het administratief personeel en van het meesters-, vak- en dienstpersoneel van de rijksinrichtingen voor kleuteronderwijs, voor lager, buitengewoon, middelbaar, technisch, kunst- en normaalonderwijs worden, voor de instellingen en de personeelsleden waarop dit besluit van toepassing is, de volgende artikelen opgeheven :<br />1° artikel 9, gewijzigd bij het besluit van de Vlaamse Regering van 29 oktober 2004;<br />2° artikel 9bis, ingevoegd bij het koninklijk besluit van 16 december 1981 en gewijzigd bij het besluit van de Vlaamse Regering van 29 oktober 2004;<br />3° artikel 9ter, ingevoegd bij het besluit van de Vlaamse Regering van 29 oktober 2004;<br />4° artikel 10;<br />5° artikel 11, gewijzigd bij het besluit van de Vlaamse Regering van 8 december 1993;<br />6° artikel 12 en 13;<br />7° artikel 14, gewijzigd bij het besluit van de Vlaamse Regering van 8 december 1993;<br />8° artikel 15, gewijzigd bij het koninklijk besluit van 1 februari 1988 en bij het besluit van de Vlaamse Regering van 8 december 1993;<br />9° artikel 16, 17 en 29.<br /><br />
+
+### ART. 35.
+
+Artikel 11, 12, 13 en 14 van het koninklijk besluit van 21 oktober 1968 genomen ter uitvoering van artikel 7 van het koninklijk besluit van 28 februari 1967 houdende vaststelling van de administratieve stand van de leden van het administratief personeel en van het meesters-, vak- en dienstpersoneel van de rijksinrichtingen voor kleuteronderwijs, voor lager, buitengewoon, middelbaar, technisch, kunst- en normaalonderwijs, worden, voor de instellingen en de personeelsleden waarop dit besluit van toepassing is, opgeheven.<br /><br />
+
+### ART. 36.
+
+In het koninklijk besluit van 15 januari 1974 genomen ter toepassing van artikel 160 van het koninklijk besluit van 22 maart 1969 tot vaststelling van het statuut van de leden van het bestuurs- en onderwijzend personeel, van het opvoedend hulppersoneel, van het paramedisch personeel der inrichtingen voor kleuter-, lager, buitengewoon, middelbaar, technisch, kunst- en normaalonderwijs van de Staat, alsmede der internaten die van deze inrichtingen afhangen en van de leden van de inspectiedienst die belast is met het toezicht op deze inrichtingen worden, voor de instellingen en de personeelsleden waarop dit besluit van toepassing is, de volgende artikelen opgeheven :<br />1° artikel 14 en 15;<br />2° artikel 16, gewijzigd bij het besluit van de Vlaamse Regering van 8 december 1993;<br />3° artikel 17 en 18;<br />4° artikel 19, gewijzigd bij het besluit van de Vlaamse Regering van 8 december 1993;<br />5° artikel 20, gewijzigd bij het koninklijk besluit van 13 januari 1988 en bij het besluit van de Vlaamse Regering van 8 december 1993;<br />6° artikel 21 en 22;<br />7° artikel 41, gewijzigd bij de koninklijke besluiten van 28 april 1983 en 27 maart 1985 en bij het besluit van de Vlaamse Regering van 16 december 1992; <br />8° artikel 42, gewijzigd bij de koninklijke besluiten van 28 april 1983 en 27 maart 1985. <br /><br />
+
+### ART. 37.
+
+Artikel 9, 10, 11 en 12 van het koninklijk besluit van 18 januari 1974 genomen ter toepassing van artikel 164 van het koninklijk besluit van 22 maart 1969 tot vaststelling van het statuut van de leden van het bestuurs- en onderwijzend personeel, van het opvoedend hulppersoneel, van het paramedisch personeel der inrichtingen voor kleuter-, lager, buitengewoon, middelbaar, technisch, kunst- en normaalonderwijs van de Staat, alsmede der internaten die van deze inrichtingen afhangen en van de leden van de inspectiedienst die belast is met het toezicht op deze inrichtingen, worden, voor de instellingen en de personeelsleden waarop dit besluit van toepassing is, opgeheven. <br /><br />
+
+### ART. 38.
+
+Artikel 6, 7, 8 en 9 van het koninklijk besluit van 8 juli 1976 genomen voor de toepassing van artikel 45 van het koninklijk besluit van 25 oktober 1971 tot vaststelling van het statuut van de leermeesters, de leraars en de inspecteurs katholieke en protestantse godsdienst der inrichtingen voor lager, buitengewoon, middelbaar, technisch, kunst- en normaalonderwijs van de Staat, worden, voor de instellingen en de personeelsleden waarop dit besluit van toepassing is, opgeheven. <br /><br />
+
+### ART. 39.
+
+Artikel 83, § 7, van de wet van 5 augustus 1978 houdende economische en budgettaire hervormingen, gewijzigd bij het decreet van 15 juli 1997, wordt, voor de instellingen en de personeelsleden waarop dit besluit van toepassing is, opgeheven. <br /><br />
+
+### ART. 40.
+
+Artikel 190, 191, 192 en 193 van het koninklijk besluit van 27 juli 1979 tot vaststelling van het statuut van de leden van het technisch personeel van de Rijks-psycho-medisch-sociale centra, van de gespecialiseerde Rijks-psycho-medisch-sociale centra, van de Rijksvormingscentra en van de inspectiediensten belast met het toezicht op de psycho-medisch-sociale centra, de diensten voor studie- en beroepsoriëntering en de gespecialiseerde psycho-medisch- sociale centra, worden, voor de instellingen en de personeelsleden waarop dit besluit van toepassing is, opgeheven.<br /><br />
+
+### ART. 41.
+
+In het koninklijk besluit van 19 mei 1981 betreffende de verlofregeling van het vastbenoemd technisch personeel van de centra voor leerlingenbegeleiding worden de volgende artikelen opgeheven :<br />1° artikel 14, gewijzigd bij het besluit van de Vlaamse Regering van 7 september 2001;<br />2° artikel 14bis, ingevoegd bij het koninklijk besluit nr. 266 van 31 december 1983 en gewijzigd bij het besluit van de Vlaamse Regering van 7 september 2001;<br />3° artikel 15;<br />4° artikel 16, gewijzigd bij het besluit van de Vlaamse Regering van 8 december 1993;<br />5° artikel 17 en 18;<br />6° artikel 19, gewijzigd bij het besluit van de Vlaamse Regering van 8 december 1993;<br />7° artikel 20, gewijzigd bij het koninklijk besluit van 13 januari 1988 en bij het besluit van de Vlaamse Regering van 8 december 1993;<br />8° artikel 21 en 22.<br /><br />
+
+### ART. 42.
+
+Artikel 2, 3, 4 en 5 van het besluit van de Vlaamse Regering van 22 juli 1993 betreffende het ziekte-, bevallings- en borstvoedingsverlof toegekend aan tijdelijk aangestelde personeelsleden van de onderwijsinstellingen, georganiseerd of gesubsidieerd door de Vlaamse Gemeenschap worden, voor de instellingen en de personeelsleden waarop dit besluit van toepassing is, opgeheven.<br /><br />
+
+### ART. 43.
+
+In het besluit van de Vlaamse Regering van 8 december 1993 betreffende de controle op de afwezigheid wegens ziekte worden, voor de instellingen en de personeelsleden waarop dit besluit van toepassing is, de volgende artikelen opgeheven :<br />1° artikel 19;<br />2° artikel 20, vervangen bij het besluit van de Vlaamse Regering van 25 januari 1995.<br /><br />
+
+### ART. 44.
+
+In artikel 192 van het decreet van 1 december 1998 betreffende de centra voor leerlingenbegeleiding, gewijzigd bij de decreten van 14 februari 2003 en 22 juni 2007, wordt het tweede lid opgeheven.<br /><br />
+
 ## HOOFDSTUK VII Overgangsbepaling
 
+### ART. 45.
+
+De berekeningswijze van het bezoldigd ziekteverlof voor de in artikel 2 en 10 genoemde personeelsleden heeft voor de periode tot en met 31 augustus 2007 geen gevolgen, noch voor de personeelsleden, noch voor de inrichtende machten en is definitief verworven.<br /><br />Indien het bedrag hoger is dan het bedrag vastgesteld op grond van artikel 30 ontvangt het lid van het administratief personeel, het statutair meesters-, vak- en dienstpersoneel, de administratief medewerker van het ondersteunend personeel van het gewoon en buitengewoon secundair onderwijs en de administratief medewerker van het beleids- en ondersteunend personeel van het basisonderwijs dat vóór 1 september 2007 wegens ziekte ter beschikking was gesteld en na die datum ononderbroken in die administratieve stand blijft, verder het wachtgeld of de wachtgeldtoelage waarop het op grond van de op 31 augustus 2007 geldende reglementering recht had. <br /><br />
+
 ## HOOFDSTUK VIII Slotbepalingen
+
+### ART. 46.
+
+Dit besluit heeft uitwerking met ingang van 1 september 2007, met uitzondering van artikel 19, 20, 21 en 22 die uitwerking hebben met ingang van 1 september 2003.<br />
+
+### ART. 47.
+
+De Vlaamse minister, bevoegd voor het onderwijs, is belast met de uitvoering van dit besluit.<br /><br />
