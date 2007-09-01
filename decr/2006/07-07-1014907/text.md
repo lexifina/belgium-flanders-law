@@ -624,19 +624,19 @@ De bepalingen van dit hoofdstuk treden in werking op 1 september 2006, met uitzo
 
 ### ART. IV.1.
 
-Aan artikel 5, § 1, van het decreet van 2 maart 1999 tot regeling van een aantal aangelegenheden van het volwassenenonderwijs wordt een punt 34° toegevoegd, dat luidt als volgt : <br />« 34° mode. ». <br /><br />
+...
 
 ### ART. IV.2.
 
-In artikel 28, tweede lid, van hetzelfde decreet, gewijzigd bij het decreet van 13 juli 2001, worden de woorden « en van het studiegebied Nederlands tweede taal » geschrapt.<br /><br />
+...
 
 ### ART. IV.3.
 
-In artikel 41 van hetzelfde decreet, gewijzigd door de decreten van 14 februari 2003 en 15 juli 2005, worden de volgende wijzigingen aangebracht : <br />1° in § 2, wordt het eerste lid vervangen door wat volgt :<br />« Een certificaat bekrachtigt een modulaire opleiding in het secundair onderwijs voor sociale promotie en een opleiding die minder dan 900 lestijden telt in het hoger onderwijs voor sociale promotie, met uitzondering van de opleidingen algemene vorming ASO van de derde graad van het studiegebied algemene vorming en de opleidingen in het pedagogisch hoger onderwijs. »;<br />2° in § 4, 4°, worden na de woorden « het pedagogisch hoger onderwijs » de woorden « en de opleidingen die minder dan 900 lestijden tellen » toegevoegd;<br />3° in § 4, 4°, wordt een lid toegevoegd, dat luidt als volgt :<br />« Cursisten die voor 1 september 2006 in het hoger onderwijs voor sociale promotie een opleiding van minder dan 900 lestijden aangevat hebben, kunnen voor zover deze opleiding nog wordt georganiseerd tot uiterlijk 31 augustus 2010 aanspraak maken op een diploma. Deze bepaling is niet van toepassing voor de opleidingen van het pedagogisch hoger onderwijs. ». <br /><br />
+...<br />
 
 ### ART. IV.4.
 
-Artikel 55 van hetzelfde decreet, gewijzigd bij de decreten van 14 februari 2003 en 24 december 2004, wordt vervangen door wat volgt :<br /><br />« Artikel 55<br />De ambten die de personeelsleden van een centrum kunnen uitoefenen, worden als volgt vastgesteld en ingedeeld : <br />1° in de categorie onderwijzend personeel, in een wervingsambt : <br />a) leraar hoger onderwijs voor sociale promotie;<br />b) leraar secundair onderwijs voor sociale promotie;<br />2° in de categorie bestuurspersoneel :<br />a) in een selectieambt :<br />1) adjunct-directeur voor hoger onderwijs voor sociale promotie;<br />2) adjunct-directeur voor secundair onderwijs voor sociale promotie;<br />3) technisch adviseur; <br />b) in een bevorderingsambt :<br />1) directeur;<br />2) technisch-adviseur coördinator;<br />3° in de categorie ondersteunend personeel, in een wervingsambt, het ambt van administratief medewerker. <br /><br />De ambten van het bestuurs- en ondersteunend personeel worden ten minste per tiende van een eenheid gefinancierd of gesubsidieerd. ». <br /><br />
+...<br />
 
 ### ART. IV.5.
 
@@ -654,7 +654,7 @@ In artikel 5bis, § 1, van dezelfde wet, ingevoegd bij de wet van 18 februari 19
 
 ### ART. IV.8.
 
-In artikel 5, § 3, 1°, van het decreet van 12 juli 1990 houdende de regeling van basiseducatie voor laaggeschoolde volwassenen, zoals gewijzigd bij het decreet van 7 mei 2004, worden de woorden « Nederlands moedertaal » vervangen door het woord « Nederlands ». <br />
+...
 
 ## Afdeling III Deeltijds kunstonderwijs
 
@@ -1040,7 +1040,7 @@ Artikel 31 van hetzelfde decreet, gewijzigd bij het decreet van 13 juli 2001, wo
 
 ### ART. VIII.10.
 
-In artikel III.4, § 1, van het decreet van 28 juni 2002 betreffende gelijke onderwijskansen-I, gewijzigd bij het decreet van 15 juli 2005, worden tussen de woorden « in de school » en de woorden « minstens 10 % boven de relatieve aanwezigheid« de woorden « of vestigingsplaats« ingevoegd. <br /><br />
+In artikel III.5, § 1, van het decreet van 28 juni 2002 betreffende gelijke onderwijskansen-I, gewijzigd bij het decreet van 15 juli 2005, worden tussen de woorden « in de school » en de woorden « minstens 10 % boven de relatieve aanwezigheid« de woorden « of vestigingsplaats« ingevoegd. <br /><br />
 
 ### ART. VIII.11.
 
@@ -1118,7 +1118,7 @@ De volgende besluiten en omzendbrief worden bekrachtigd vanaf de datum van de re
 
 ### ART. IX.2.
 
-De Vlaamse Regering kan beslissen om het tijdelijk project houdende het experimenteel secundair onderwijs volgens een modulair stelsel met één schooljaar te verlengen. In voorkomend geval houdt het project op per 31 augustus 2008. <br /><br />
+In het besluit van de Vlaamse Regering van 1 maart 2002, gewijzigd bij de besluiten van de Vlaamse Regering van 12 september 2003, 27 augustus 2004 en 13 januari 2006, en bekrachtigd bij decreet van 9 december 2005, worden de volgende wijzigingen aangebracht :<br />1° artikel 14 wordt vervangen door wat volgt : <br />« Artikel 14<br />Met het oog op de implementatie van het experiment tijdens het schooljaar 2007-2008 wordt aan elke school voor voltijds gewoon secundair onderwijs de volgende extra personeelsomkadering toegekend :<br />a) één vijfde van een betrekking in een ambt naar keuze van de inrichtende macht per studiegebied dat tijdens het betrokken schooljaar volledig modulair wordt georganiseerd;<br />b) 0,20 uren-leraar per regelmatige leerling in het experiment op 1 februari 2007.<br />Voor de toepassing van deze bepalingen wordt de vierde graad van het studiegebied personenzorg buiten beschouwing gelaten. »;<br />2° artikel 20 wordt vervangen door wat volgt :<br />« Artikel 20<br />Met het oog op de implementatie van het experiment tijdens het schooljaar 2007-2008 wordt aan elk centrum voor deeltijds beroepssecundair onderwijs de volgende extra personeelsomkadering toegekend :<br />a) één vijfde van een betrekking in een ambt naar keuze van de inrichtende macht per studiegebied dat tijdens het betrokken schooljaar volledig modulair wordt georganiseerd;<br />b) 0,20 uren-leraar per regelmatige leerling in het experiment op 1 februari 2007 voorbehouden voor leerlingenbegeleiding onder vorm van trajectbegeleiding, georiënteerd naar werkplek-leren. »;<br />3° artikel 26 wordt vervangen door wat volgt : <br />« Artikel 26<br />Met het oog op de implementatie van het experiment tijdens het schooljaar 2007-2008 wordt aan elke school voor buitengewoon secundair onderwijs de volgende extra personeelsomkadering toegekend :<br />a) één vijfde van een betrekking in een ambt naar keuze van de inrichtende macht per studiegebied dat tijdens het betrokken schooljaar volledig modulair wordt georganiseerd;<br />b) 0,20 uren-leraar per regelmatige leerling in het experiment op 1 februari 2007. »;<br />4° in artikel 33 worden de woorden « 31 augustus 2007 » vervangen door de woorden « 31 augustus2008 ».
 
 ## Afdeling III Experimenten deeltijds kunstonderwijs
 
