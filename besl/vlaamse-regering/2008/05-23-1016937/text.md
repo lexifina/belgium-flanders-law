@@ -463,6 +463,10 @@ Aan artikel VII 65, § 1, van hetzelfde besluit, ingevoegd bij het besluit van d
 
 In artikel VII 80 van hetzelfde besluit, ingevoegd bij het besluit van de Vlaamse Regering van 16 maart 2007, worden de volgende wijzigingen aangebracht :<br /><br />1° in § 1 worden de woorden « 0,2903 euro (vanaf 1 juli 2006) » vervangen door de woorden « 0,2940 euro (vanaf 1 juli 2007) »;<br /><br />2° § 3 wordt vervangen door wat volgt :<br /><br />« § 3. Voor de reizende functies wordt een maandelijkse forfaitaire kilometervergoeding voor motorvoertuigen bepaald na beslissing van de Vlaamse minister, bevoegd voor de bestuurszaken. »;<br /><br />3° § 4 wordt vervangen als volgt :<br /><br />« § 4. De kilometervergoeding voor motorvoertuigen en de bij de rondzendbrief voor binnenlandse reizen horende tabel voor de maandelijkse forfaitaire kilometervergoeding wordt elk jaar op 1 juli herzien na beslissing van de Vlaamse minister, bevoegd voor de bestuurszaken. »
 
+### ART. 83.
+
+Artikel VII 81, § 1, van hetzelfde besluit, ingevoegd bij het besluit van de Vlaamse Regering van 16 maart 2007, wordt vervangen door wat volgt :<br /><br />« § 1. Voor een dienstreis met eigen motorvoertuig wordt de verplaatsing van de woonplaats naar de standplaats vergoed tegen 60 % van de kilometervergoeding.<br /><br />In afwijking van het vorige lid bedraagt de vergoeding 55 % van de kilometervergoeding voor de periode tussen 1 september 2006 en 31 augustus 2007. »
+
 ### ART. 84.
 
 Aan artikel VII 83, § 1, van hetzelfde besluit, ingevoegd bij het besluit van de Vlaamse Regering van 16 maart 2007, wordt een tweede lid toegevoegd, dat luidt als volgt :<br /><br />« Het bedrag vermeld in het eerste lid, wordt na indexatie verminderd met de nominale waarde van de werkgeversbijdrage in een maaltijdcheque zoals bepaald in artikel VII 109ter. »
