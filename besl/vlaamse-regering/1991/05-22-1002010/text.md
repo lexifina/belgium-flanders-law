@@ -8,7 +8,7 @@ Voor de toepassing van dit besluit wordt verstaan onder:<br /><br />1° het bijz
 
 ### ART. 1bis.
 
-Dit hoofdstuk is van toepassing op de vastbenoemde personeelsleden en de personeelsleden die tijdelijk zijn aangesteld voor doorlopende duur, bedoeld in artikel 2 van het decreet met uitzondering van de instellingshoofden en de leden van de pedagogische begeleidingsdienst. [ <span class="reference">(ing. B.V.R. 15 september 2000, art. 4, I: 1 januari 2000)</span> ]
+Dit hoofdstuk is van toepassing op de vastbenoemde personeelsleden en op de personeelsleden die tijdelijk zijn aangesteld voor doorlopende duur, vermeld in artikel 2 van het decreet met uitzondering van de instellingshoofden en de leden van de pedagogische begeleidingsdienst.<br /><br />Dit hoofdstuk is met ingang van 1 september 2007 niet van toepassing op de personeelsleden, aangesteld in het gewoon en buitengewoon secundair onderwijs, het volwassenenonderwijs en de CLB's, en het is met ingang van 1 september 2009 ook niet meer van toepassing op de andere personeelsleden op wie het decreet van toepassing is.<br /><br />In afwijking van het tweede lid moeten de evaluatieprocedures, ingezet met toepassing van dit hoofdstuk, worden voortgezet overeenkomstig de bepalingen van dit hoofdstuk.
 
 ## HOOFDSTUK II DE EVALUATIE
 
@@ -70,13 +70,7 @@ Deze afdeling is van toepassing op de vastbenoemde personeelsleden zoals bedoeld
 
 ### ART. 14.
 
-§ 1. De raad van bestuur beslist over de overplaatsing in het belang van de dienst na advies van de instellingshoofden. De afgevaardigd bestuurder beslist over de overplaatsing in het belang van de dienst voor een personeelslid van het vormingscentrum of van de pedagogische begeleidingsdienst. (verv. B.V.R. 15 september 2000, art. 15, I: 1 januari 2000)]<br>
-<br>
-De overplaatsing geschiedt met behoud van de administratieve en geldelijke toestand van het betrokken personeelslid.<br>
-<br>
-Deze beslissing wordt gemotiveerd.<br>
-<br>
-§ 2. Het personeelslid dat overgeplaatst wordt in het belang van de dienst, wordt na één jaar geëvalueerd, zoals bepaald in hoofdstuk II en in hoofdstuk IV van het decreet.
+§ 1. De raad van bestuur beslist over de overplaatsing in het belang van de dienst na advies van de instellingshoofden. De afgevaardigd bestuurder beslist over de overplaatsing in het belang van de dienst voor een personeelslid van het vormingscentrum of van de pedagogische begeleidingsdienst. <br /><br />De overplaatsing geschiedt met behoud van de administratieve en geldelijke toestand van het betrokken personeelslid.<br /><br />Deze beslissing wordt gemotiveerd.<br /><br />§ 2. Het personeelslid dat overgeplaatst wordt in het belang van de dienst, wordt na één jaar geëvalueerd, zoals bepaald in  het decreet.
 
 ### ART. 15.
 
@@ -86,15 +80,15 @@ De overplaatsing in het belang van de dienst heeft voor gevolg dat het personeel
 
 ### ART. 15bis.
 
-Deze afdeling is van toepassing op de vastbenoemde personeelsleden en de personeelsleden die tijdelijk zijn aangesteld voor doorlopende duur, zoals bedoeld in artikel 2 van het decreet. [ <span class="reference">(ing. B.V.R. 15 september 2000, art. 17, I: 1 september 1999)</span> ]
+Deze afdeling is van toepassing op de vastbenoemde personeelsleden en de personeelsleden die tijdelijk zijn aangesteld voor doorlopende duur, vermeld in artikel 2 van het decreet, en op de personeelsleden die met toepassing van artikel 24, 4e lid, artikel 53bis, § 5, en artikel 73undecies, § 4, van het decreet tijdens hun beroepsprocedure preventief worden geschorst.
 
 ### ART. 16.
 
-§ 1. Elk personeelslid mag, zelfs op het ogenblik dat het een proeftijd doorloopt, preventief worden geschorst indien het belang van de dienst of het onderwijs dat vereist. De preventieve schorsing is een bewarende maatregel. Het personeelslid blijft tijdens deze schorsing in de administratieve stand waarin het zich bevond tot op de dag voor de preventieve schorsing. Tijdens de preventieve schorsing mag het personeelslid geen dienstprestaties verrichten.<br /><br />§ 2. Onverminderd de toepassing van artikel 59 van het decreet, stelt het instellingshoofd waaronder het personeelslid ressorteert, de preventieve schorsing voor. Voor de instellingshoofden stelt de algemeen directeur van de scholengroep de preventieve schorsing voor.<br /><br />§ 3. Voor de leden van de pedagogische begeleidingsdienst en de personeelsleden van het vormingscentrum stelt het instellingshoofd de preventieve schorsing voor.<br /><br />§ 4. Vooraleer de preventieve schorsing wordt opgelegd, hoort de raad van bestuur of de afgevaardigd bestuurder het personeelslid. De redenen om over te gaan tot een preventieve schorsing worden ten laatste vier werkdagen, voorafgaand aan dit verhoor, schriftelijk meegedeeld aan het personeelslid.<br /><br />In hoogdringende gevallen kan de raad van bestuur de preventieve schorsing onmiddellijk uitspreken met de verplichting het personeelslid onverwijld te horen.<br /><br />§ 5. De raad van bestuur spreekt de preventieve schorsing uit. Voor de leden van de pedagogische begeleidingsdienst en de personeelsleden van het vormingscentrum spreekt de afgevaardigd bestuurder de preventieve schorsing uit. De preventieve schorsing wordt aan het personeelslid bij aangetekende brief meegedeeld. De preventieve schorsing gaat in de dag na die waarop de aangetekende brief ter post wordt aangeboden. [ <span class="reference">(verv. B.V.R. 15 september 2000, art. 18, I: 1 januari 2000)</span> ]
+§ 1. Het personeelslid mag, zelfs op het ogenblik dat het een proeftijd doorloopt, preventief worden geschorst indien het belang van de dienst of het onderwijs dat vereist. De preventieve schorsing is een bewarende maatregel. Het personeelslid blijft tijdens deze schorsing in de administratieve stand waarin het zich bevond tot op de dag voor de preventieve schorsing. Tijdens de preventieve schorsing mag het personeelslid geen dienstprestaties verrichten.<br /><br />§ 2. Onverminderd de toepassing van artikel 59 van het decreet, stelt het instellingshoofd waaronder het personeelslid ressorteert, de preventieve schorsing voor. Voor de instellingshoofden stelt de algemeen directeur van de scholengroep de preventieve schorsing voor.<br /><br />§ 3. Voor de leden van de pedagogische begeleidingsdienst en de personeelsleden van het vormingscentrum stelt het instellingshoofd de preventieve schorsing voor.<br /><br />§ 4. Vooraleer de preventieve schorsing wordt opgelegd, hoort naar gelang het geval de raad van bestuur of de afgevaardigd bestuurder het personeelslid. De redenen om over te gaan tot een preventieve schorsing worden ten laatste vier werkdagen, voorafgaand aan dit verhoor, schriftelijk meegedeeld aan het personeelslid.<br /><br />In hoogdringende gevallen kan naar gelang het geval de raad van bestuur of de afgevaardigd bestuurder de preventieve schorsing onmiddellijk uitspreken met de verplichting het personeelslid onverwijld te horen.<br /><br />§ 5. De raad van bestuur spreekt de preventieve schorsing uit. Voor de leden van de pedagogische begeleidingsdienst en de personeelsleden van het vormingscentrum spreekt de afgevaardigd bestuurder de preventieve schorsing uit. De preventieve schorsing wordt aan het personeelslid bij aangetekende brief meegedeeld. De preventieve schorsing gaat in de dag na die waarop de aangetekende brief ter post wordt aangeboden.
 
 ### ART. 17.
 
-§ 1. Behoudens bij strafrechtelijke vervolging voor dezelfde feiten mag de preventieve schorsing niet meer dan één jaar bedragen. In dit geval kan de preventieve schorsing tot één jaar lopen na de kennisgeving bedoeld in artikel 20, 2e lid.<br /><br />§ 2. Behoudens strafrechtelijk onderzoek of strafrechtelijke vervolging kan de preventieve schorsing ten hoogste zes maanden bedragen indien er binnen deze periode geen tuchtprocedure is ingesteld.<br /><br />§ 3. Aan de preventieve schorsing komt van rechtswege een einde bij de tuchtrechtelijke uitspraak over dezelfde feiten waarvoor het personeelslid preventief werd geschorst.
+§ 1. De preventieve schorsing mag niet meer dan één jaar bedragen. In geval van strafrechtelijke vervolging voor dezelfde feiten kan de preventieve schorsing evenwel tot één jaar lopen na de kennisgeving vermeld in artikel 19, § 5, laatste lid.<br /><br />§ 2. Behoudens strafrechtelijk onderzoek of strafrechtelijke vervolging, kan de preventieve schorsing ten hoogste zes maanden bedragen als er binnen die periode geen tuchtprocedure is ingesteld.<br /><br />§ 3. Aan de preventieve schorsing komt van rechtswege een einde bij de tuchtrechtelijke uitspraak over dezelfde feiten waarvoor het personeelslid preventief werd geschorst.<br /><br />In geval van beroep tegen de uitgesproken maatregel kan de preventieve schorsing worden verlengd tot na het verstrijken van de termijn, vermeld in artikel 33decies, § 1.
 
 ## HOOFDSTUK IV [DE TUCHTREGELING (verv. BVR 3 juli 2009, art. 7)]
 
@@ -136,7 +130,7 @@ Het personeelslid beschikt over de in artikel 25 bedoelde termijn om beroep aan 
 
 ### ART. 23bis.
 
-Dit hoofdstuk is van toepassing op de personeelsleden, bedoeld in artikel 2 van het decreet, die:<br /><br />1° vastbenoemd zijn;<br /><br />2° tijdelijk aangesteld zijn voor doorlopende duur;<br /><br />3° tijdelijk aangesteld zijn;<br /><br />4° aangesteld zijn bij mandaat in toepassing van artikel 55quinquies van het decreet. [ <span class="reference">(ing. B.V.R. 15 september 2000, art. 25, I: 1 januari 2000)</span> ]
+Dit hoofdstuk is van toepassing op de vastbenoemde personeelsleden en op de personeelsleden die tijdelijk zijn aangesteld voor doorlopende duur, vermeld in artikel 2 van het decreet.<br /><br />Dit hoofdstuk is met ingang van 1 september 2007 niet van toepassing op de personeelsleden, aangesteld in het gewoon en buitengewoon secundair onderwijs, het volwassenenonderwijs en de CLB's, en het is met ingang van 1 september 2009 ook niet meer van toepassing op de andere personeelsleden op wie het decreet van toepassing is.<br /><br />In afwijking van het tweede lid moeten de evaluatieprocedures, ingezet met toepassing van hoofdstuk II worden voortgezet overeenkomstig de bepalingen van hoofdstuk II en indien het personeelslid beroep aantekent overeenkomstig de bepalingen van dit hoofdstuk.
 
 ### ART. 24.
 
