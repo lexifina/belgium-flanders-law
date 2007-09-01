@@ -148,7 +148,7 @@ In de specialisatiegraad wordt voor de berekening van het aantal uren-leraar het
 
 ### ART. 35.
 
-§ 1. Het ambt van opsteller wordt geheel of gedeeltelijk toegekend op basis van volgende formule:<br /><br />(15 x a + 16 x b + 13 x c): 5.000, waarbij<br /><br />a = aantal uren-leerkracht in de lagere graad;<br /><br />b = aantal uren-leerkracht in de middelbare graad;<br /><br />c = aantal uren-leerkracht in de hogere graad en in de specialisatiegraad.<br /><br />§ 2. Het aantal uren-opsteller wordt bekomen door het quotiënt te vermenigvuldigen met het aantal uren van een voltijds ambt. Het produkt dat men bekomt wordt afgerond naar de onmiddellijk lagere eenheid.<br /><br />§ 3. Vanaf 200 [...  <span class="reference">(geschr. B.V.R. 1 september 1993, art. 3, I: 1 september 1993)</span> ] leerlingen wordt een ambt van directeur toegekend. Beneden dit minimum wordt naar rata van 1/20 het ambt van directeur toegekend per volledige reeks van 10 [...  <span class="reference">(geschr. B.V.R. 1 september 1993, art. 3, I: 1 september 1993)</span> ] leerlingen.
+§ 1. ...<br /><br />§ 2. ...<br /><br />§ 3. Vanaf 200 leerlingen wordt een ambt van directeur toegekend. Beneden dit minimum wordt naar rata van 1/20 het ambt van directeur toegekend per volledige reeks van 10 leerlingen.
 
 ### ART. 36.
 
@@ -257,7 +257,7 @@ Een instelling die op basis van artikel 35 op 1 september 1990 [en op 1 septembe
 
 ### ART. 58.
 
-§ 1. De instellingen die op 30 juni 1990 beschikken over een bezoldigd ambt van studiemeester-opvoeder kunnen dit ambt behouden zolang het wordt ingenomen door de titularis van dat ogenblik.<br /><br />§ 2. Het aantal uren-studiemeester-opvoeder wordt berekend overeenkomstig de formule voor de berekening van het aantal uren-opsteller.
+...
 
 ## HOOFDSTUK IX SLOTBEPALINGEN
 
