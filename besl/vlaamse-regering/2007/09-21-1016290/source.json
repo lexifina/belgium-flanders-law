@@ -1,0 +1,17 @@
+{
+  "codex_id": 1016290,
+  "title": "Besluit van de Vlaamse Regering van 2007-09-21 tot wijziging van het besluit van de Vlaamse Regering van 16 december 1997 betreffende de onderbreking van de beroepsloopbaan van de personeelsleden van het onderwijs en de psycho-medisch-sociale centra",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1016290/VolledigDocument?datum=2007-09-01",
+  "source_sha256": "92ac14ebf49b919f570a36c2f4da44fdf4701b3de7fb579c23cb297fb8659e81",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1016290&param=informatie",
+  "as_of": "2007-09-01",
+  "made": "2007-09-21",
+  "gazette": "2007-10-29",
+  "numac": 2007036859,
+  "document_start": "2007-09-01",
+  "document_end": null,
+  "in_force": "2007-09-01",
+  "article_versions": 21,
+  "record_form": "consolidated version as in force on 2007-09-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
