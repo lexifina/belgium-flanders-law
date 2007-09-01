@@ -14,6 +14,14 @@ Dit decreet regelt een gemeenschapsaangelegenheid.<br /><br />
 
 In artikel 3 van het decreet basisonderwijs van 25 februari 1997, gewijzigd bij de decreten van 14 juli 1998, 22 december 2000, 13 juli 2001, 28 juni 2002, 14 februari 2003, 10 juli 2003, 7 juli 2006, 22 juni 2007 en 6 juli 2007 worden de volgende wijzigingen aangebracht :<br />1° het punt 14°bis, ingevoegd bij het decreet van 22 juni 2007 en impliciet opgeheven bij decreet van 6 juli 2007, wordt opnieuw ingevoegd, als volgt :<br />« 14°bis extra-uren : uren die toegekend zijn in het kader van tijdelijke projecten; »;<br />2° een punt 14ter wordt ingevoegd dat luidt als volgt :<br />« 14°ter extra-murosactiviteiten : activiteiten die plaatsvinden buiten de schoolmuren en georganiseerd worden voor één of meer leerlingengroepen. Activiteiten die volledig buiten de schooluren georganiseerd worden, vallen hier niet onder; ».<br /><br />
 
+### ART. II.9.
+
+In artikel 138, § 1, van hetzelfde decreet, gewijzigd bij de decreten van 13 juli 2001, 28 juni 2002, 7 juli 2006 en 22 juni 2007, wordt een punt 3°bis ingevoegd dat luidt als volgt :<br />« 3°bis lestijden voor de opvang van gewezen anderstalige nieuwkomers; ».<br /><br />
+
+### ART. II.10.
+
+In artikel 139, in hetzelfde decreet gewijzigd bij het decreet van 7 juli 2006, wordt tussen de woorden « in artikel 138, 1°, 2°, 3°, en de woorden « 4°, 5° en 7° », de woorden « 3°bis, » ingevoegd.<br /><br />
+
 ## Afdeling II Inspraak van het personeel op niveau van de scholengemeenschap
 
 ## Afdeling III Inwerkingtreding
@@ -54,6 +62,10 @@ Aan artikel 38, § 1, van hetzelfde decreet, vervangen bij het decreet van 7 jul
 
 ## Afdeling IV Brussels curriculum
 
+### ART. III.18.
+
+In het besluit van de Vlaamse Regering van 14 juli 2004 betreffende het experimenteel Brussels curriculum in het voltijds secundair onderwijs, bekrachtigd bij decreet van 9 december 2005, worden de volgende wijzigingen aangebracht :<br />1° in artikel 1 wordt het tweede lid opgeheven;<br />2° in artikel 6 worden de woorden « artikel 81 van hetzelfde decreet van 20 oktober 2000 betreffende het onderwijs XII-Ensor » vervangen door de woorden « artikel 6, § 1, van het decreet van 9 december 2005 betreffende de organisatie van tijdelijke projecten in het onderwijs »;<br />3° in artikel 7 worden de woorden « 31 augustus 2007 » vervangen door de woorden « 31 augustus 2010 ».<br /><br />
+
 ## Afdeling V Buitengewoon onderwijs
 
 ## Onderafdeling I Afwijkingsuren
@@ -76,9 +88,25 @@ De bepalingen van dit hoofdstuk treden in werking op 1 september 2008, met uitzo
 
 ## Onderafdeling I Centra voor volwassenenonderwijs
 
+### ART. IV.3.
+
+In de eerste zin van artikel 17, § 3, van hetzelfde decreet worden de woorden « gedurende de schooljaren 2007-2008, 2008-2009 en 2009-2010 » vervangen door de woorden « gedurende de schooljaren 2008-2009, 2009-2010 en 2010-2011 ».<br /><br />
+
+### ART. IV.5.
+
+In artikel 35, § 1, van hetzelfde decreet worden de volgende wijzigingen aangebracht :<br />1° er wordt tussen de woorden « vermeld in artikelen 31, 32, 33 en 34, worden » en de woorden « geen aanvullende toelatingsvoorwaarden » de woorden « , met uitzondering van de opleidingen vanaf het niveau richtgraad 2 van de studiegebieden Nederlands tweede taal, talen richtgraad 1 en 2 en talen richtgraad 3 en 4, » ingevoegd;<br />2° er wordt een tweede lid toegevoegd, dat luidt als volgt :<br />« Om als cursist toegelaten te worden tot de aanvangsmodule van een opleiding vanaf het niveau richtgraad 2 van het studiegebied Nederlands tweede taal, talen richtgraad 1 en 2 of talen richtgraad 3 en 4, met uitzondering van de opleidingen Nederlands tweede taal richtgraad 4, Deens richtgraad 4, Duits richtgraad 4, Engels richtgraad 4, Frans richtgraad 4, Italiaans richtgraad 4, Portugees richtgraad 4, Spaans richtgraad 4 en Zweeds richtgraad 4, moet de cursist kunnen aantonen dat hij de basiscompetenties heeft behaald van de opleiding op het niveau van de voorgaande richtgraad. ».<br /><br />
+
+### ART. IV.6.
+
+In artikel 87 van hetzelfde decreet wordt § 1 vervangen door wat volgt :<br />« § 1.Elk centrum voor basiseducatie heeft recht op één voltijdse functie van directeur.<br /><br />Elk centrum is verplicht een directeur aan te stellen.<br /><br />De functie van directeur kan worden toegekend aan één personeelslid dat voltijds in deze functie wordt aangesteld of aan twee personeelsleden die elk halftijds in deze functie worden aangesteld. ».<br /><br />
+
 ### ART. IV.10.
 
 In artikel 109, van hetzelfde decreet worden de volgende wijzingen aangebracht :<br />1° aan § 1 wordt een tweede lid toegevoegd, dat luidt als volgt :<br />« Indien de in artikel 24, § 2, bedoelde afwijking voor bijzondere doelgroepen het minimale aantal lestijden van een opleiding overschrijdt, dan wordt het inschrijvingsgeld berekend op basis van het aantal lestijden bedoeld in hetzelfde artikel 24, § 1, 3°. »;<br />2° in § 3 wordt 5° opgeheven.<br /><br />
+
+### ART. IV.16.
+
+In titel IX, hoofdstuk II, afdeling III, van hetzelfde decreet, wordt een artikel 196bis ingevoegd, dat luidt als volgt :<br />« Artikel 196bis<br />De referteperiode van 1 februari 2007 tot 31 januari 2008 wordt éénmalig met twee maanden verlengd tot 31 maart 2008. ».<br /><br />
 
 ## Onderafdeling II ICT-coördinatie
 
@@ -100,6 +128,10 @@ De bepalingen van dit hoofdstuk treden in werking op 1 september 2008, met uitzo
 
 ## Afdeling IV Decreet betreffende de Hogere Zeevaartschool
 
+### ART. V.32.
+
+Artikel 30 van het decreet van 9 juni 1998 betreffende de Hogere Zeevaartschool, gewijzigd bij decreet van 20 april 2001, wordt aangevuld met een derde lid dat luidt als volgt :<br />« Het bedrag van de bedrijfsvoorheffing dat de Hogere Zeevaartschool niet verschuldigd is aan de federale diensten Financiën voor de aan de Hogere Zeevaartschool tewerkgestelde onderzoekers wordt toegevoegd aan het bedrag van de dotatie bedoeld in artikel 29. ».<br /><br />
+
 ## Afdeling V Decreet betreffende sommige instellingen van openbaar nut voor postinitieel onderwijs, wetenschappelijk onderzoek en wetenschappelijke dienstverlening
 
 ## Afdeling VI Decreet betreffende de herstructurering van het hoger onderwijs
@@ -107,6 +139,22 @@ De bepalingen van dit hoofdstuk treden in werking op 1 september 2008, met uitzo
 ### ART. V.43.
 
 Artikel 53bis van hetzelfde decreet wordt vervangen door wat volgt :<br />« Artikel 53bis<br />De ambtshalve geregistreerde instellingen en de geregistreerde instellingen met hoofdzetel in Vlaanderen kunnen de opleidingen die ze bij of krachtens dit decreet mogen aanbieden ook organiseren buiten het Belgische grondgebied en de daarop betrekking hebbende graden verlenen op voorwaarde dat :<br />1° die opleidingen afzonderlijk geaccrediteerd werden overeenkomstig dit decreet en de accreditatieprocedure volgen van de Vlaamse opleiding, of die opleidingen afzonderlijk erkend zijn als nieuwe opleiding overeenkomstig dit decreet als de instelling een nieuwe opleiding start buiten het Belgische grondgebied al dan niet gelijktijdig met eenzelfde opleiding in Vlaanderen;<br />2° die opleidingen voldoen aan de wettelijke bepalingen van het land van vestiging;<br />3° de opleidingen afzonderlijk worden geregistreerd in het Hoger Onderwijsregister;<br />4° de kosten van die opleidingen integraal gedekt worden met andere middelen dan de middelen uit de begroting van de Vlaamse Gemeenschap.<br /><br />De in het vorige lid vermelde voorwaarde geldt niet voor de voortgezette academische opleidingen in afbouw en voor de opleidingen die door de instelling ook aangeboden worden in België en die aldaar genieten van een overgangsaccreditatie. ».<br /><br />
+
+### ART. V.44.
+
+In de eerste zin van artikel 55ter, § 3, van hetzelfde decreet, ingevoegd bij het decreet van 15 december 2006, worden de woorden « gedurende de schooljaren 2007-2008, 2008-2009 en 2009-2010 » vervangen door de woorden « gedurende de schooljaren 2008-2009, 2009-2010 en 2010-2011 ».<br /><br />
+
+### ART. V.45.
+
+In hetzelfde decreet wordt aan artikel 55quinquies een § 6 toegevoegd die luidt als volgt :<br />« § 6. De middelen in § 5 worden onder de hogescholen verdeeld op basis van het gemiddeld aantal eerste inschrijvingen in een diplomacontract in de geïntegreerde lerarenopleiding secundair onderwijs tijdens de twee voorbije academiejaren. ».<br /><br />
+
+### ART. V.48.
+
+In artikel 124 van hetzelfde decreet, ingevoegd bij het decreet van 19 maart 2004, worden de volgende wijzigingen aangebracht :<br />1° in § 2, tweede lid, wordt de eerste zin vervangen door wat volgt :<br />« In het academiejaar 2007-2008 wordt op de academisch gerichte opleidingen van de hogescholen die vermeld zijn in de lijst bedoeld in artikel 123, § 5, met uitzondering van de gezamenlijke opleidingen bedoeld in artikel 24bis, of in de lijst bedoeld in artikel 125ter, § 4, en die hun zelfevaluatierapport in het kader van de externe beoordeling overeenkomstig het protocol van kwaliteitszorg bedoeld in artikel 93, § 3, na 1 januari 2009 moeten indienen, een indicatieve voortgangstoets uitgevoerd onder de verantwoordelijkheid van de Erkenningscommissie. »;<br /><br />2° in § 2, tweede lid, wordt de laatste zin aangevuld met de woorden :<br />« en legt de lijst van de opleidingen vast; »;<br /><br />3° § 11 wordt vervangen door wat volgt :<br />« § 11. De master-na-masteropleidingen die het Europa College Brugge met ingang van het academische jaar 2007-2008 organiseert op haar campus in het arrondissement Brugge en op haar campus in Polen, worden niet als nieuwe opleidingen beschouwd in de zin van artikel 60septies. Zij worden geacht geaccrediteerd te zijn tot en met het einde van het academische jaar 2009-2010. ».<br /><br />
+
+### ART. V.50.
+
+In artikel 130 van hetzelfde decreet, gewijzigd bij het decreet van 19 maart 2004, wordt een derde lid toegevoegd, dat luidt als volgt :<br />« De studenten die vóór 31 oktober 2008 een mastergraad verwerven of verworven hebben, uitgereikt door het Europacollege op haar campus in Polen kunnen de titel van master op rechtmatige wijze voeren in de Vlaamse Gemeenschap. De graad van master wordt geacht op rechtmatige wijze te zijn verleend. ».<br /><br />
 
 ## Afdeling VII Decreet betreffende de rechtspositieregeling van de student, de medezeggenschap in het hoger onderwijs, de integratie van bepaalde afdelingen van het hoger onderwijs voor sociale promotie in de hogescholen en de begeleiding van de herstructurering van het hoger onderwijs
 
@@ -152,6 +200,14 @@ In artikel 21 van hetzelfde decreet, gewijzigd bij de decreten van 14 februari 2
 
 In artikel 21bis van hetzelfde decreet, ingevoegd bij het decreet van 14 juli 1998 en gewijzigd bij de decreten van 18 mei 1999, 14 februari 2003, 10 juli 2003, 2 april 2004, 15 juli 2005 en 13 juli 2007, worden de volgende wijzigingen aangebracht :<br />1° § 5 wordt vervangen door wat volgt :<br />« § 5. Het recht op een tijdelijke aanstelling van doorlopende duur geldt voor dat ambt waarin de in § 3 bedoelde anciënniteit is verworven en waarvoor het personeelslid uiterlijk op 31 augustus van het schooljaar waarin hij het recht inroept het vereiste bekwaamheidsbewijs of voldoende geacht bekwaamheidsbewijs, bij organieke bepaling of bij overgangsmaatregel, bezit.<br /><br />Is de in § 3 bedoelde anciënniteit verworven in een ambt van leraar, dan geldt dit recht voor dit ambt en voor alle vakken en specialiteiten waarvoor het personeelslid uiterlijk op 31 augustus van het schooljaar waarin hij het recht inroept een vereist bekwaamheidsbewijs, bij organieke bepaling of bij overgangsmaatregel, bezit.<br /><br />Is de in § 3 bedoelde anciënniteit verworven in een ambt van leraar voor een vak of een specialiteit waarvoor het personeelslid uiterlijk op 31 augustus van het schooljaar waarin hij het recht inroept een voldoende geacht bekwaamheidsbewijs, bij organieke bepaling of bij overgangsmaatregel, bezit, dan geldt dit recht voor dit ambt, dit vak of deze specialiteit en daarenboven ook voor alle vakken en specialiteiten waarvoor het personeelslid een vereist bekwaamheidsbewijs, bij organieke bepaling of bij overgangsmaatregel, bezit. »;<br /><br />2° in § 7 worden de woorden « volgens artikel 24 » vervangen door de woorden « volgens artikel 24 of volgens artikel 25 van het decreet rechtspositie personeelsleden gesubsidieerd onderwijs » en worden de woorden « volgens artikel 73quaterdecies » vervangen door de woorden « volgens artikel 73quaterdecies of volgens artikel 47quaterdecies van het decreet rechtspositie personeelsleden gesubsidieerd onderwijs »;<br /><br />3° in § 7bis worden de woorden « volgens artikel 61, 6° » vervangen door de woorden « volgens artikel 61, 6°, of volgens artikel 64, 6°, van het decreet rechtspositie personeelsleden gesubsidieerd onderwijs » en worden de woorden « artikel 73terdecies » vervangen door de woorden « artikel 73terdecies of volgens artikel 47terdecies van het decreet rechtspositie personeelsleden gesubsidieerd onderwijs »;<br /><br />4° in § 7ter worden de woorden « volgens artikel 61, 6° » vervangen door de woorden « volgens artikel 61, 6°, of volgens artikel 64, 6°, van het decreet rechtspositie personeelsleden gesubsidieerd onderwijs » en worden de woorden « artikel 73terdecies » vervangen door de woorden « artikel 73terdecies of volgens artikel 47terdecies van het decreet rechtspositie personeelsleden gesubsidieerd onderwijs »;<br /><br />5° § 8 wordt vervangen door wat volgt :<br />« § 8. Een personeelslid kan het recht op een tijdelijke aanstelling van doorlopende duur laten gelden voor elke vacature die in de loop van het schooljaar ontstaat, behalve wanneer hij reeds als titularis voor doorlopende duur is aangesteld voor een voltijdse betrekking. ».<br /><br />
 
+### ART. VIII.15.
+
+In artikel 73quinquiesdecies van hetzelfde decreet, ingevoegd bij het decreet van 13 juli 2007, worden de volgende wijzigingen aangebracht :<br />1° in § 1 worden de woorden « van algemeen directeur of van coördinerend directeur » geschrapt;<br />2° in § 2 wordt het eerste lid vervangen door wat volgt :<br />« In afwijking van § 1 wordt het personeelslid dat belast is met een mandaat van directeur in een CLB én dat vast benoemd is in het ambt van directeur, met toepassing van artikel 86, 11°, ontslagen door de raad van bestuur als het in éénzelfde instelling voor het ambt van directeur ofwel twee opeenvolgende definitieve evaluaties met eindconclusie « onvoldoende » ofwel drie definitieve evaluaties met eindconclusie « onvoldoende » in zijn loopbaan heeft gekregen. ».<br /><br />
+
+### ART. VIII.16.
+
+In artikel 86 van hetzelfde decreet, gewijzigd bij de decreten van 18 mei 1999 en 13 juli 2007 worden de volgende wijzigingen aangebracht :<br />1° in punt 10° worden de woorden « artikel 73quaterdecies » vervangen door de woorden « artikel 73quaterdecies, 73quinquiesdecies »;<br />2° in punt 11° worden de woorden « artikel 73terdecies » vervangen door de woorden « artikel 73terdecies, 73quinquiesdecies ».<br /><br />
+
 ## Afdeling III Rechtspositie van sommige personeelsleden van het gesubsidieerd onderwijs en de gesubsidieerde centra voor leerlingenbegeleiding
 
 ### ART. VIII.21.
@@ -162,6 +218,18 @@ In artikel 23 van hetzelfde decreet, gewijzigd bij de decreten van 14 februari 2
 
 In artikel 23bis van hetzelfde decreet, ingevoegd bij het decreet van 14 juli 1998 en gewijzigd bij de decreten van 14 februari 2003, 10 juli 2003, 2 april 2004, 15 juli 2005 en 13 juli 2007, worden de volgende wijzigingen aangebracht :<br />1° § 5 wordt vervangen door wat volgt :<br />« § 5. Het recht op een tijdelijke aanstelling van doorlopende duur geldt voor dat ambt waarin de in § 3 bedoelde anciënniteit is verworven en waarvoor het personeelslid uiterlijk op 31 augustus van het schooljaar waarin hij het recht inroept het vereiste bekwaamheidsbewijs of voldoende geacht bekwaamheidsbewijs, bij organieke bepaling of bij overgangsmaatregel, bezit.<br /><br />Is de in § 3 bedoelde anciënniteit verworven in een ambt van leraar, dan geldt dit recht voor dit ambt en voor alle vakken en specialiteiten waarvoor het personeelslid uiterlijk op 31 augustus van het schooljaar waarin hij het recht inroept een vereist bekwaamheidsbewijs, bij organieke bepaling of bij overgangsmaatregel, bezit.<br /><br />Is de in § 3 bedoelde anciënniteit verworven in een ambt van leraar voor een vak of een specialiteit waarvoor het personeelslid uiterlijk op 31 augustus van het schooljaar waarin hij het recht inroept een voldoende geacht bekwaamheidsbewijs, bij organieke bepaling of bij overgangsmaatregel, bezit, dan geldt dit recht voor dit ambt, dit vak of deze specialiteit en daarenboven ook voor alle vakken en specialiteiten waarvoor het personeelslid een vereist bekwaamheidsbewijs, bij organieke bepaling of bij overgangsmaatregel, bezit. »;<br /><br />2° in § 7 worden de woorden « volgens artikel 25 » vervangen door de woorden « volgens artikel 25 of volgens artikel 24 van het decreet rechtspositie personeelsleden Gemeenschapsonderwijs » en worden de woorden « 47quaterdecies » vervangen door de woorden « 47quaterdecies of volgens artikel 73quaterdecies van het decreet rechtspositie personeelsleden Gemeenschapsonderwijs »;<br /><br />3° in § 7bis worden de woorden « volgens artikel 64, 6° » vervangen door de woorden « volgens artikel 64, 6°, of volgens artikel 61, 6°, van het decreet rechtspositie personeelsleden Gemeenschapsonderwijs » en worden de woorden « artikel 47terdecies » vervangen door de woorden « artikel 47terdecies of volgens artikel 73terdecies van het decreet rechtspositie personeelsleden Gemeenschapsonderwijs »;<br /><br />4° in § 7ter worden de woorden « volgens artikel 64, 6° » vervangen door de woorden « volgens artikel 64, 6°, of volgens artikel 61, 6°, van het decreet rechtspositie personeelsleden Gemeenschapsonderwijs » en worden de woorden « artikel 47terdecies » vervangen door de woorden « artikel 47terdecies of volgens artikel 73terdecies van het decreet rechtspositie personeelsleden Gemeenschapsonderwijs »;<br /><br />5° § 8 wordt vervangen door wat volgt :<br />« § 8. Een personeelslid kan het recht op een tijdelijke aanstelling van doorlopende duur laten gelden voor elke vacature die in de loop van het schooljaar ontstaat, behalve wanneer hij reeds als titularis voor doorlopende duur is aangesteld voor een voltijdse betrekking. ».<br /><br />
 
+### ART. VIII.23.
+
+In artikel 24 van hetzelfde decreet, vervangen bij het decreet van 13 juli 2007, worden volgende wijzigingen aangebracht :<br />1° een § 1bis wordt ingevoegd, die luidt als volgt :<br />« § 1bis. Onverminderd § 1 en tot en met 31 augustus 2009 kan een inrichtende macht in het basisonderwijs, het deeltijds kunstonderwijs, de tehuizen voor kinderen wier ouders geen vaste verblijfplaats hebben en de internaten een personeelslid dat tijdelijk aangesteld is voor bepaalde duur met een opzeggingstermijn van dertig kalenderdagen ontslaan om redenen die verband houden met zijn geschiktheid.<br /><br />Het ontslag bedoeld in het eerste lid wordt schriftelijk gemotiveerd en aan het personeelslid betekend conform artikel 27. »;<br /><br />2° in § 2 worden de woorden « van § 1 » vervangen door de woorden « van § 1 en § 1bis ».<br /><br />
+
+### ART. VIII.30.
+
+In artikel 47quinquiesdecies van hetzelfde decreet, ingevoegd bij het decreet van 13 juli 2007, worden de volgende wijzigingen aangebracht :<br />1° in § 1 worden de woorden « van algemeen directeur of van coördinerend directeur » geschrapt;<br />2° in § 2 wordt het eerste lid vervangen door wat volgt :<br />« In afwijking van § 1 wordt het personeelslid dat belast is met een mandaat van directeur in een CLB én dat vast benoemd is in het ambt van directeur, met toepassing van artikel 60, 11°, ontslagen door de inrichtende macht als het in éénzelfde instelling voor het ambt van directeur ofwel twee opeenvolgende definitieve evaluaties met eindconclusie « onvoldoende » ofwel drie definitieve evaluaties met eindconclusie « onvoldoende » in zijn loopbaan heeft gekregen. ».<br /><br />
+
+### ART. VIII.31.
+
+In artikel 60 van hetzelfde decreet, gewijzigd bij de decreten van 28 april 1993, 18 mei 1999, 13 juli 2001 en 13 juli 2007, worden de volgende wijzigingen aangebracht :<br />1° in punt 10° worden de woorden « artikel 47quaterdecies » vervangen door de woorden « artikel 47quaterdecies, 47quinquiesdecies »;<br />2° in punt 11° worden de woorden « artikel 47terdecies » vervangen door de woorden « artikel 47terdecies, 47quinquiesdecies ».<br /><br />
+
 ## Afdeling IV Politiek verlof
 
 ### ART. VIII.36.
@@ -169,6 +237,10 @@ In artikel 23bis van hetzelfde decreet, ingevoegd bij het decreet van 14 juli 19
 In artikel 34 van hetzelfde decreet wordt het tweede lid opgeheven.<br /><br />
 
 ## Afdeling V Bekwaamheidsbewijzen
+
+### ART. VIII.38.
+
+In artikel 97, § 1, van het decreet van 14 juli 1998 houdende diverse maatregelen met betrekking tot het secundair onderwijs en tot wijziging van het decreet van 25 februari 1997 betreffende het basisonderwijs, gewijzigd bij de decreten van 14 februari 2003, 15 juli 2005 en 7 juli 2006, worden de volgende wijzigingen aangebracht :<br />1° in punt 2° en punt 16° worden de woorden « bekwaamheidsbewijs hoger onderwijs van het korte type : » vervangen door de woorden « bekwaamheidsbewijs van het niveau professioneel gerichte bachelor : »;<br />2° in punt 3° en punt 17° worden de woorden « bekwaamheidsbewijs hoger onderwijs van het lange type of universitair onderwijs : » vervangen door de woorden « bekwaamheidsbewijs van het niveau master : ».<br /><br />
 
 ## Afdeling VI Sociale tegemoetkomingen
 
@@ -187,6 +259,10 @@ In artikel 35 van hetzelfde decreet worden de volgende wijzigingen aangebracht :
 ### ART. IX.11.
 
 In artikel 38 van hetzelfde decreet worden de volgende wijzigingen aangebracht :<br />1° in het derde lid worden tussen de woorden « samengesteld uit leefloon » en de woorden « , of voor minstens zeventig procent bestaat uit » de woorden « of het equivalent van leefloon » ingevoegd;<br />2° in het derde lid worden tussen de woorden « alimentatiegelden, vervangingsinkomsten » en de woorden « of een inkomensvervangende tegemoetkoming » de woorden « , een overlevingspensioen » ingevoegd;<br />3° er wordt tussen het derde en het vierde lid een nieuw lid ingevoegd, dat luidt als volgt :<br />« Het eerste en tweede lid zijn evenmin van toepassing op alleenstaande leerlingen en studenten, zoals bedoeld in artikel 34, § 1, 5°. ».<br /><br />
+
+### ART. IX.12.
+
+Aan artikel 39 van hetzelfde decreet worden de volgende wijzigingen aangebracht :<br />1° in § 4, 4°, worden de volgende woorden « , of het equivalent van leefloon, toegekend in het raam van de wet van 2 april 1965 » toegevoegd;<br />2° in § 5, 3°, worden de volgende woorden « , of het equivalent van leefloon, toegekend in het raam van de wet van 2 april 1965 » toegevoegd. ».<br /><br />
 
 ### ART. IX.24.
 
@@ -229,6 +305,10 @@ In artikel X.49, 5°, van hetzelfde decreet worden de woorden « en het Vlaams O
 De bepalingen van dit hoofdstuk treden in werking op 1 september 2008, met uitzondering van :<br />1° artikel X.34 dat uitwerking heeft met ingang van 1 september 2006;<br />2° artikel X.16, 2°, dat uitwerking heeft met ingang van 1 september 2007;<br />3° artikelen X.3, X.4, X.5, X.35, X.49, X.50, X51, X.52, X.53 die uitwerking hebben met ingang van 1 januari 2008;<br />4° artikelen X.7 tot en met X.15 die in werking treden op 31 augustus 2008;<br />5° artikelen X.1 en X.2 die in werking treden op een tijdstip dat bepaald wordt door de Vlaamse Regering.<br /><br />
 
 ## HOOFDSTUK XI Autonome bepalingen
+
+### ART. XI.1.
+
+In het basisonderwijs worden aanstellingen op basis van vervangingseenheden in de periode van 1 september 2007 tot en met 31 oktober 2007 beschouwd als zijnde in overeenstemming met afdeling I van het besluit van de Vlaamse Regering van 14 december 2007 tot wijziging van het besluit van de Vlaamse Regering van 27 januari 2006 tot invoering van een tijdelijk project betreffende vervangingen van korte afwezigheden, bedrijfsstages en mentorschap.<br /><br />In het secundair onderwijs worden vervangingen die gebeurden in de periode van 1 september 2007 tot en met 31 oktober 2007 beschouwd als zijnde in overeenstemming met afdeling II van het besluit van de Vlaamse Regering van 14 december 2007 tot wijziging van het besluit van de Vlaamse Regering van 27 januari 2006 tot invoering van een tijdelijk project betreffende vervangingen van korte afwezigheden, bedrijfsstages en mentorschap.<br /><br />
 
 ### ART. XI.2.
 
