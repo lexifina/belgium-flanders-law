@@ -1,0 +1,17 @@
+{
+  "codex_id": 1016116,
+  "title": "Decreet van 2007-07-13 houdende dringende maatregelen met betrekking tot functiebeschrijving en evaluatie in het onderwijs",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1016116/VolledigDocument?datum=2007-09-01",
+  "source_sha256": "e7db8d41eb8bf6a129a9d32036f963626628890cec412e4b301a258173ae9fef",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1016116&param=informatie",
+  "as_of": "2007-09-01",
+  "made": "2007-07-13",
+  "gazette": "2007-08-31",
+  "numac": 2006036509,
+  "document_start": "2007-09-01",
+  "document_end": null,
+  "in_force": "2007-09-01",
+  "article_versions": 57,
+  "record_form": "consolidated version as in force on 2007-09-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
