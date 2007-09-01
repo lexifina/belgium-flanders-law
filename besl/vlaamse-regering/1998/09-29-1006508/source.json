@@ -2,16 +2,16 @@
   "codex_id": 1006508,
   "title": "Besluit van de Vlaamse Regering van 1998-09-29 betreffende de basiscompetenties van de leraren",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1006508/VolledigDocument?datum=2006-06-01",
-  "source_sha256": "0e29693fd3eae033c0737162471248c6ac6da76836d4cfa7d7f7329eb3ef081a",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1006508/VolledigDocument?datum=2007-09-01",
+  "source_sha256": "281dad33c998021388e62d812912c5e20065df9c459a8c761005a58b419a077d",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1006508&param=informatie",
-  "as_of": "2006-06-01",
+  "as_of": "2007-09-01",
   "made": "1998-09-29",
   "gazette": "1999-02-16",
   "numac": 1999035078,
   "document_start": "1997-09-01",
   "document_end": "2007-08-31",
-  "in_force": "2006-06-01",
+  "in_force": "2007-09-01",
   "article_versions": 4,
-  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2007-09-01; future article versions excluded; article text as the API gives it"
 }
