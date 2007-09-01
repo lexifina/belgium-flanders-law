@@ -38,11 +38,27 @@ Het minimum en het maximum aantal uren voor een ambt met volledige prestaties in
 
 ### ART. 7.
 
-Het minimum en het maximum aantal uren voor een ambt met volledige prestaties in de ambten van het paramedisch personeel wordt vastgesteld als volgt:<br /><br />1° ergotherapeut: minimum 32 en maximum 36 uren van 60 minuten;<br /><br />2° kinderverzorger: minimum 32 en maximum 36 uren van 60 minuten;<br /><br />3° kinesitherapeut: minimum 32 en maximum 36 uren van 60 minuten;<br /><br />4° logopedist: minimum 30 en maximum 33 uren van 50 minuten;<br /><br />5° verpleger: minimum 32 en maximum 36 uren van 60 minuten.
+§ 1. De wekelijkse prestaties in een voltijdse betrekking in het ambt van ergotherapeut, kinesitherapeut, logopedist en verpleger, bedragen 26 klokuren die worden gepresteerd binnen de periode van normale aanwezigheid van de leerlingen. <br /><br />§ 2. De deelname aan oudercontacten en aan personeelsvergaderingen valt buiten de in § 1 bedoelde wekelijkse prestaties.<br /><br />Deze opdrachten vallen niet noodzakelijk binnen de periode van normale aanwezigheid van de leerlingen. <br /><br />§ 3. Andere afwijkingen op § 1 kunnen maar toegepast worden na overleg of na onderhandeling in het lokaal comité.
+
+### ART. 7bis.
+
+Binnen de in artikel 7, § 1, bedoelde wekelijkse prestaties presteert het personeelslid een kindgebonden opdracht en/of bijzondere pedagogische taken. Deze opdracht bedraagt minimum 24 lesuren en maximum 28 lesuren. <br /><br />De criteria voor de invulling van deze opdracht worden vastgelegd na overleg of na onderhandeling in het lokaal comité. <br /><br />In elke school wordt bij de voorbereiding van het schooljaar onderhandeld over de algemene regels om de vaststelling van het aantal lesuren prestaties tussen het minimum en het maximum van de opdracht op een billijke en transparante wijze te bepalen.
+
+### ART. 7ter.
+
+§ 1. De wekelijkse prestaties in een deeltijdse betrekking in een ambt vermeld in artikel 7, § 1, bedragen ten hoogste het evenredige deel van het in artikel 7 bedoelde aantal klokuren. <br /><br />De kindgebonden opdracht en/of bijzondere pedagogische taken, bedoeld in artikel 7bis, worden in evenredige mate aangepast bij aanstelling in een deeltijdse betrekking.
+
+### ART. 7quater.
+
+§ 1. De wekelijkse prestaties in een voltijdse betrekking in het ambt van kinderverzorger bedragen 32 klokuren die worden gepresteerd binnen de periode van normale aanwezigheid van de leerlingen.<br /><br />§ 2. De deelname aan oudercontacten en aan personeelsvergaderingen valt buiten de in § 1 bedoelde wekelijkse prestaties.<br /><br />Deze opdrachten vallen niet noodzakelijk binnen de periode van normale aanwezigheid van de leerlingen. <br /><br />§ 3. Andere afwijkingen op § 1 kunnen maar toegepast worden na overleg of na onderhandeling in het lokaal comité.
+
+### ART. 7quinquies.
+
+De administratieve taken verbonden aan de eigen functie behoren ook tot de taak, maar niet tot de schoolgebonden prestaties, van het paramedisch personeel.
 
 ### ART. 8.
 
-§ 1. Voor de toepassing van artikel 41, § 2, van het koninklijk besluit van 15 april 1958 houdende bezoldigingsregeling van het onderwijzend, wetenschappelijk en daarmee gelijkgesteld personeel van het Ministerie van Openbaar Onderwijs, is de deler voor een ambt met onvolledige prestaties als genoemd in artikel 7, gelijk aan:<br /><br />1° 32 voor het ambt genoemd in artikel 7, 1°, 2°, 3° en 5°;<br /><br />2° 30 voor het ambt genoemd in artikel 7, 4°;<br /><br />§ 2. Voor de toepassing van artikel 44ter , § 2, van hetzelfde koninklijk besluit, is de deler voor een bijbetrekking in een ambt als genoemd in artikel 7, gelijk aan:<br /><br />1° 37 als de deler voor een ambt met onvolledige prestaties 32 bedraagt;<br /><br />2° 35 als de deler voor een ambt met onvolledige prestaties 30 bedraagt.
+§ 1. Voor de toepassing van artikel 41, § 2, van het koninklijk besluit van 15 april 1958 houdende bezoldigingsregeling van het onderwijzend, wetenschappelijk en daarmee gelijkgesteld personeel van het Ministerie van Openbaar Onderwijs, is de deler voor een ambt met onvolledige prestaties als genoemd in artikel 7 en 7quater, gelijk aan :<br />1° 32 voor het ambt van ergotherapeut, kinesitherapeut, verpleger en kinderverzorger;<br />2° 30 voor het ambt van logopedist.<br /><br />§ 2. Voor de toepassing van artikel 44ter, § 2, van hetzelfde koninklijk besluit, is de deler voor een bijbetrekking in een ambt als genoemd in § 1, gelijk aan :<br />1° 37 als de deler voor een ambt met onvolledige prestaties 32 bedraagt;<br />2° 35 als de deler voor een ambt met onvolledige prestaties 30 bedraagt.
 
 ## HOOFDSTUK V HET MEDISCH PERSONEEL
 
