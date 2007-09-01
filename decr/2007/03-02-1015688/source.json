@@ -1,0 +1,17 @@
+{
+  "codex_id": 1015688,
+  "title": "Decreet van 2007-03-02 houdende het statuut van de reisbureaus",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1015688/VolledigDocument?datum=2007-09-01",
+  "source_sha256": "1592c3e6952270fc39867ff9d2ac61d3b8c721ae51a4232c93cae8328ac185cd",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1015688&param=informatie",
+  "as_of": "2007-09-01",
+  "made": "2007-03-02",
+  "gazette": "2007-04-05",
+  "numac": 2007035475,
+  "document_start": "2007-09-01",
+  "document_end": "2013-12-31",
+  "in_force": "2007-09-01",
+  "article_versions": 14,
+  "record_form": "consolidated version as in force on 2007-09-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
