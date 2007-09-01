@@ -2,16 +2,16 @@
   "codex_id": 1011713,
   "title": "Besluit van de Vlaamse Regering van 2003-10-17 betreffende structuurwijzigingen in het hoger onderwijs voor sociale promotie",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1011713/VolledigDocument?datum=2006-06-01",
-  "source_sha256": "18bbc7f4b4da113418ceb545520553dfcb5d5045e30573a6b38ca0dad82c8c5d",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1011713/VolledigDocument?datum=2007-09-01",
+  "source_sha256": "f4e730a759ce65a6ea19f9754b1c560f65045ad169661e8595166e11294c1188",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1011713&param=informatie",
-  "as_of": "2006-06-01",
+  "as_of": "2007-09-01",
   "made": "2003-10-17",
   "gazette": "2003-11-13",
   "numac": 2003036095,
   "document_start": null,
   "document_end": "2007-08-31",
-  "in_force": "2006-06-01",
+  "in_force": "2007-09-01",
   "article_versions": 5,
-  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2007-09-01; future article versions excluded; article text as the API gives it"
 }
