@@ -30,15 +30,15 @@ Artikel 4 heeft uitwerking op 1 september 2003.
 
 ### ART. 6.
 
-(niet opgenomen)<br /><br />(Wijzigt artikel 3 van het decreet van 12 juli 1990 houdende de regeling van basiseducatie voor laaggeschoolde volwassenen)
+...
 
 ### ART. 7.
 
-(niet opgenomen)<br /><br />(Wijzigt artikel 5 van hetzelfde decreet)
+...
 
 ### ART. 8.
 
-(niet opgenomen)<br /><br />(Voegt in hetzelfde decreet een artikel 6bis in)
+...
 
 ### ART. 9.
 
@@ -140,27 +140,27 @@ Artikel 27 heeft uitwerking op 1 september 2003.
 
 ### ART. 29.
 
-(niet opgenomen)<br /><br />(Wijzigt artikel 15 van het decreet van 2 maart 1999 tot regeling van een aantal aangelegenheden van het volwassenenonderwijs)
+...
 
 ### ART. 30.
 
-(niet opgenomen)<br /><br />(Wijzigt artikel 45 van hetzelfde decreet)
+...
 
 ### ART. 31.
 
-(niet opgenomen)<br /><br />(Wijzigt artikel 48 van hetzelfde decreet)
+...
 
 ### ART. 32.
 
-(niet opgenomen)<br /><br />(Voegt in hetzelfde decreet een onderafdeling Cbis, bestaande uit artikel 50bis)
+...
 
 ### ART. 33.
 
-(niet opgenomen)<br /><br />(Heft artikel 51 van hetzelfde decreet op)
+...
 
 ### ART. 34.
 
-(niet opgenomen)<br /><br />(Voegt in hetzelfde decreet een artikel 87bis in)
+...
 
 ### ART. 35.
 
