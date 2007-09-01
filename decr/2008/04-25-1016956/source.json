@@ -1,0 +1,17 @@
+{
+  "codex_id": 1016956,
+  "title": "Decreet van 2008-04-25 tot bekrachtiging van het besluit van de Vlaamse Regering van 22 februari 2008 tot ontvankelijkheid en gelijkwaardigheid van aanvragen tot afwijking van de decretaal bekrachtigde eindtermen en ontwikkelingsdoelen \"informatie- en communicatietechnologie\" in het basis- en secundair onderwijs",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1016956/VolledigDocument?datum=2007-09-01",
+  "source_sha256": "d0765067db583ec736067d59013756ffa4dd7f2cfc59550d70b915f0b22ff2e7",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1016956&param=informatie",
+  "as_of": "2007-09-01",
+  "made": "2008-04-25",
+  "gazette": "2008-08-13",
+  "numac": 2008202756,
+  "document_start": "2007-09-01",
+  "document_end": null,
+  "in_force": "2007-09-01",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2007-09-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
