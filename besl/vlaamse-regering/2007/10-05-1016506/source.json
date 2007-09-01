@@ -1,0 +1,17 @@
+{
+  "codex_id": 1016506,
+  "title": "Besluit van de Vlaamse Regering van 2007-10-05 betreffende de basiscompetenties van de leraren",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1016506/VolledigDocument?datum=2007-09-01",
+  "source_sha256": "1db547dd9350d650826fcba16914a3bb47006e02e6cca6d80818e091e681f84f",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1016506&param=informatie",
+  "as_of": "2007-09-01",
+  "made": "2007-10-05",
+  "gazette": "2008-01-17",
+  "numac": 2008035020,
+  "document_start": "2007-09-01",
+  "document_end": "2019-08-31",
+  "in_force": "2007-09-01",
+  "article_versions": 6,
+  "record_form": "consolidated version as in force on 2007-09-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
