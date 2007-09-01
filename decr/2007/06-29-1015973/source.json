@@ -1,0 +1,17 @@
+{
+  "codex_id": 1015973,
+  "title": "Decreet van 2007-06-29 tot regeling van een aantal dringende maatregelen betreffende de medezeggenschap van het personeel in het hoger onderwijs in Vlaanderen",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1015973/VolledigDocument?datum=2007-09-01",
+  "source_sha256": "849e848ce56735c119c1d4d048dde89b9a21081f84c7d8ceedab2fbc9db6de88",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1015973&param=informatie",
+  "as_of": "2007-09-01",
+  "made": "2007-06-29",
+  "gazette": "2007-07-20",
+  "numac": 2007036135,
+  "document_start": null,
+  "document_end": null,
+  "in_force": "2007-09-01",
+  "article_versions": 17,
+  "record_form": "consolidated version as in force on 2007-09-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
