@@ -1,0 +1,17 @@
+{
+  "codex_id": 1016097,
+  "title": "Decreet van 2007-07-06 tot wijziging van het decreet basisonderwijs van 25 februari 1997, van het decreet van 13 juli 2001 betreffende het onderwijs-XIII-Mozaïek en van het decreet van 2 april 2004 betreffende participatie op school en de Vlaamse Onderwijsraad",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1016097/VolledigDocument?datum=2007-09-01",
+  "source_sha256": "d0ab7c89d88efa69f96fa13c0f660576179b923d3e272a0df883a8f1212fed1d",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1016097&param=informatie",
+  "as_of": "2007-09-01",
+  "made": "2007-07-06",
+  "gazette": "2007-08-24",
+  "numac": 2007036446,
+  "document_start": "2007-09-01",
+  "document_end": null,
+  "in_force": "2007-09-01",
+  "article_versions": 8,
+  "record_form": "consolidated version as in force on 2007-09-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
