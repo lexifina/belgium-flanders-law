@@ -1,0 +1,17 @@
+{
+  "codex_id": 1016289,
+  "title": "Besluit van de Vlaamse Regering van 2007-09-21 tot wijziging van het besluit van de Vlaamse Regering van 14 maart 2003 betreffende de vastlegging van de prestaties van een ambt in het buitengewoon secundair onderwijs",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1016289/VolledigDocument?datum=2007-09-01",
+  "source_sha256": "5742655c5589b4751125f4912758393ea74d6bf8b47a80b2ddd19e02dab01c7e",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1016289&param=informatie",
+  "as_of": "2007-09-01",
+  "made": "2007-09-21",
+  "gazette": "2007-10-29",
+  "numac": 2007036863,
+  "document_start": "2007-09-01",
+  "document_end": null,
+  "in_force": "2007-09-01",
+  "article_versions": 6,
+  "record_form": "consolidated version as in force on 2007-09-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
