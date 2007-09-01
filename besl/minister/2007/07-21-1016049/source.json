@@ -1,0 +1,17 @@
+{
+  "codex_id": 1016049,
+  "title": "Ministerieel besluit van 2007-07-21 tot vaststelling van de leerlingencoëfficiënt voorbehouden voor trajectbegeleiding in het deeltijds beroepssecundair onderwijs in het schooljaar 2007-2008",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1016049/VolledigDocument?datum=2007-09-01",
+  "source_sha256": "40346a4d427300bad1f3012c1b0f2efaf7467c4566478b646caf431bb71670e5",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1016049&param=informatie",
+  "as_of": "2007-09-01",
+  "made": "2007-07-21",
+  "gazette": "2007-08-07",
+  "numac": 2007036319,
+  "document_start": "2007-09-01",
+  "document_end": "2008-08-31",
+  "in_force": "2007-09-01",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2007-09-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
