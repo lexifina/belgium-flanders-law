@@ -8,6 +8,10 @@ De Vlaamse Regering,<br /><br />Gelet op het decreet van 13 juli 2001 betreffend
 
 In bijlage I, deel I, van het besluit van de Vlaamse Regering van 18 april 2008 tot wijziging van het besluit van de Vlaamse Regering van 21 november 2003 houdende de salarisschalen van bepaalde personeelsleden van het onderwijs wordt de salarisschaal voor « Opsteller » vervangen door wat volgt :<br />« 14.630,42 - 27.534,94<br />(20 jaar)<br />1/1 x 286,00<br />1/1 x 285,00<br />1/1 x 399,23<br />1/1 x 113,23<br />1/1 x 612,39<br />1/2 x 794,09<br />1/2 x 2 323,38<br />1/4 x 830,55<br />1/2 x 907,59<br />1/2 x 907,51<br />2/2 x 907,59<br />1/2 x 907,60<br />3/2 x 907,59 <br />
 
+### ART. 3.
+
+In bijlage II, deel I, van hetzelfde besluit wordt de salarisschaal voor « Opsteller » vervangen door wat volgt : <br />« 14.630,42 - 27.534,94<br />(20 jaar)<br />1/1 x 286,00<br />1/1 x 285,00<br />1/1 x 399,23<br />1/1 x 113,23<br />1/1 x 612,39<br />1/2 x 794,09<br />1/2 x 2 323,38<br />1/4 x 830,55<br />1/2 x 907,59<br />1/2 x 907,51<br />2/2 x 907,59<br />1/2 x 907,60<br />3/2 x 907,59 <br />
+
 ## BIJLAGE 6 SALARISSCHALEN UITGEDRUKT IN EURO EN VAN KRACHT MET INGANG VAN 1 SEPTEMBER 2009
 
 ## DEEL 1
