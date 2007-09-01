@@ -2,16 +2,16 @@
   "codex_id": 1013419,
   "title": "Besluit van de Vlaamse Regering van 2004-07-14 betreffende het experimenteel Brussels curriculum in het voltijds secundair onderwijs",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1013419/VolledigDocument?datum=2006-06-01",
-  "source_sha256": "bda301c764b4d6931f99e7668b33a1065872719f86a19f1cb75348ef1df64f98",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1013419/VolledigDocument?datum=2007-09-01",
+  "source_sha256": "5cb69bc9cb11e102067322b3c250a5c4ed6b5ace56272f01af360e5b264351d7",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1013419&param=informatie",
-  "as_of": "2006-06-01",
+  "as_of": "2007-09-01",
   "made": "2004-07-14",
   "gazette": "2004-09-23",
   "numac": 2004036454,
   "document_start": "2004-09-01",
   "document_end": "2016-12-31",
-  "in_force": "2006-06-01",
+  "in_force": "2007-09-01",
   "article_versions": 8,
-  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2007-09-01; future article versions excluded; article text as the API gives it"
 }

@@ -2,7 +2,7 @@
 
 ### ART. 1.
 
-Dit besluit is van toepassing op het eerste leerjaar A en het tweede leerjaar van de eerste graad van de door de Vlaamse Gemeenschap gefinancierde of gesubsidieerde instellingen voor voltijds secundair onderwijs, gelegen in het Brussels Hoofdstedelijk Gewest.<br /><br />Het behelst een onderwijsexperiment dat betrekking heeft op de schooljaren 2004-2005 tot en met 2006-2007 en dat gebaseerd is op de bepalingen van hoofdstuk X, afdeling 1, van het decreet van 20 oktober 2000 betreffende het onderwijs XII-Ensor.
+Dit besluit is van toepassing op het eerste leerjaar A en het tweede leerjaar van de eerste graad van de door de Vlaamse Gemeenschap gefinancierde of gesubsidieerde instellingen voor voltijds secundair onderwijs, gelegen in het Brussels Hoofdstedelijk Gewest.
 
 ### ART. 2.
 
@@ -22,7 +22,7 @@ Bij uitbreiding naar een driejarige structuur van de eerste graad, bedoeld in ar
 
 ### ART. 6.
 
-De participerende onderwijsinstellingen en hun inrichtende machten zullen hun medewerking verlenen aan de evaluatie bedoeld in artikel 81 van hetzelfde decreet van 20 oktober 2000 betreffende het onderwijs XII-Ensor.
+De participerende onderwijsinstellingen en hun inrichtende machten zullen hun medewerking verlenen aan de evaluatie bedoeld in artikel 6, § 1, van het decreet van 9 december 2005 betreffende de organisatie van tijdelijke projecten in het onderwijs.
 
 ### ART. 7.
 
