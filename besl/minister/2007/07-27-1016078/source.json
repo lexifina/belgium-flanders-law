@@ -1,0 +1,17 @@
+{
+  "codex_id": 1016078,
+  "title": "Ministerieel besluit van 2007-07-27 houdende vaststelling van de luchthavenvergoedingen voor de luchthaven Antwerpen",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1016078/VolledigDocument?datum=2007-09-01",
+  "source_sha256": "e2cc6ce83fd61fcc5ab4362c8499a2f92b56c105b93708d32164e0831ee23a4a",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1016078&param=informatie",
+  "as_of": "2007-09-01",
+  "made": "2007-07-27",
+  "gazette": "2007-08-14",
+  "numac": 2007036384,
+  "document_start": "2007-09-01",
+  "document_end": "2009-04-30",
+  "in_force": "2007-09-01",
+  "article_versions": 19,
+  "record_form": "consolidated version as in force on 2007-09-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
