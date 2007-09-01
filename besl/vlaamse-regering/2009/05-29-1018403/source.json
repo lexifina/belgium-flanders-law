@@ -1,0 +1,17 @@
+{
+  "codex_id": 1018403,
+  "title": "Besluit van de Vlaamse Regering van 2009-05-29 tot wijziging van het koninklijk besluit van 15 april 1958 houdende bezoldigingsregeling van het onderwijzend, wetenschappelijk en daarmee gelijkgesteld personeel van het Ministerie van Openbaar Onderwijs",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1018403/VolledigDocument?datum=2007-09-01",
+  "source_sha256": "4366b828faeaed644a0b0707db49146accc0540156c5cefd6170de04f054da58",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1018403&param=informatie",
+  "as_of": "2007-09-01",
+  "made": "2009-05-29",
+  "gazette": "2009-09-24",
+  "numac": 2009035910,
+  "document_start": "2007-09-01",
+  "document_end": null,
+  "in_force": "2007-09-01",
+  "article_versions": 5,
+  "record_form": "consolidated version as in force on 2007-09-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
