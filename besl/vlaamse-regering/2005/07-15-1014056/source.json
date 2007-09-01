@@ -2,16 +2,16 @@
   "codex_id": 1014056,
   "title": "Besluit van de Vlaamse Regering van 2005-07-15 tot uitvoering van artikelen 3, 5, 6 en 6bis van het decreet van 12 juli 1990 houdende de regeling van basiseducatie voor laaggeschoolde volwassenen",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1014056/VolledigDocument?datum=2006-06-01",
-  "source_sha256": "6224344093d9181285194efc24d107b473038a35f3915a40fad2e7075b8efe06",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1014056/VolledigDocument?datum=2007-09-01",
+  "source_sha256": "433375281f38f9a54bd7b14141ea6e317d19e2b961c87ea0c4f3261e6d4a8a7c",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1014056&param=informatie",
-  "as_of": "2006-06-01",
+  "as_of": "2007-09-01",
   "made": "2005-07-15",
   "gazette": "2005-11-10",
   "numac": 2005036341,
   "document_start": "2005-09-01",
   "document_end": "2007-08-31",
-  "in_force": "2006-06-01",
+  "in_force": "2007-09-01",
   "article_versions": 16,
-  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2007-09-01; future article versions excluded; article text as the API gives it"
 }
