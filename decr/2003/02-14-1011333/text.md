@@ -264,63 +264,63 @@ De artikelen van dit hoofdstuk hebben uitwerking met ingang van 1 september 2002
 
 ### ART. IV. 2.
 
-(niet opgenomen)<br /><br />(Wijzigt artikel 17 van d e wet van 7 juli 1970 betreffende de algemene structuur van het hoger onderwijs)
+...
 
 ### ART. IV. 3.
 
-(niet opgenomen)<br /><br />(Wijzigt artikel 3 van het decreet van 2 maart 1999 tot regeling van een aantal aangelegenheden van het volwassenenonderwijs)
+...
 
 ### ART. IV. 4.
 
-(niet opgenomen)<br /><br />(Wijzigt artikel 8 van hetzelfde decreet)
+...
 
 ### ART. IV. 5.
 
-(niet opgenomen)<br /><br />(Wijzigt het opschrift van Afdeling 3 van Hoofdstuk III van hetzelfde decreet)
+...
 
 ### ART. IV. 6.
 
-(niet opgenomen)<br /><br />(Wijzigt artikel 11 van hetzelfde decreet)
+...
 
 ### ART. IV. 7.
 
-(niet opgenomen)<br /><br />(Wijzigt artikel 12 van hetzelfde decreet)
+...
 
 ### ART. IV. 8.
 
-(niet opgenomen)<br /><br />(Wijzigt artikel 15 van hetzelfde decreet)
+...
 
 ### ART. IV. 9.
 
-(niet opgenomen)<br /><br />(Wijzigt het artikel 16 van hetzelfde decreet)
+...
 
 ### ART. IV. 10.
 
-(niet opgenomen)<br /><br />(Wijzigt artikel 24 van hetzelfde decreet)
+...
 
 ### ART. IV. 11.
 
-(niet opgenomen)<br /><br />(Wijzigt artikel 27 van hetzelfde decreet)
+...
 
 ### ART. IV. 12.
 
-(niet opgenomen)<br /><br />(Wijzigt artikel 41 van hetzelfde decreet)
+...
 
 ### ART. IV. 13.
 
-(niet opgenomen)<br /><br />(Voegt artikel 48ter in hetzelfde decreet in)
+...
 
 ### ART. IV. 14.
 
-(niet opgenomen)<br /><br />(Wijzigt het artikel 49 van hetzelfde decreet)
+...
 
 ### ART. IV. 15.
 
-(niet opgenomen)<br /><br />(Wijzigt artikel 50 van hetzelfde decreet)
+...
 
 ### ART. IV. 16.
 
-(niet opgenomen)<br /><br />(Wijzigt artikel 55 van hetzelfde decreet)
+...
 
 ## AFDELING 3 ZELFGESTUURD LEREN
 
@@ -332,15 +332,15 @@ De artikelen van dit hoofdstuk hebben uitwerking met ingang van 1 september 2002
 
 ### ART. IV. 18.
 
-(niet opgenomen)<br /><br />(Wijzigt artikel 4 van het decreet van 12 juli 1990 houdende de regeling van basiseducatie voor laaggeschoolde volwassenen)
+...
 
 ### ART. IV. 19.
 
-(niet opgenomen)<br /><br />(Wijzigt artikel 6 van hetzelfde decreet)
+...
 
 ### ART. IV. 20.
 
-(niet opgenomen)<br /><br />(Wijzigt artikel 16 van hetzelfde decreet)
+...
 
 ### ART. IV. 21.
 
@@ -1249,7 +1249,7 @@ De bepalingen van deze afdeling treden in werking op een door de Vlaamse regerin
 
 ### ART. X. 35.
 
-De Vlaamse regering kan de bepalingen van volgende decreten coördineren, met inachtneming van de wijzigingen die daarin uitdrukkelijk of stilzwijgend zijn aangebracht tot aan het tijdstip van de coördinatie:<br />1° het koninklijk besluit van 20 augustus 1957 houdende coördinatie van de wetten op het lager onderwijs;<br />2° de wet van 29 mei 1959 tot wijziging van sommige bepalingen van de onderwijswetgeving;<br />3° de wet van 6 juli 1970 op het buitengewoon en geïntegreerd onderwijs;<br />4° de wet van 7 juli 1970 betreffende de algemene structuur van het hoger onderwijs;<br />5° de wet van 19 juli 1971 betreffende de toekenning van studietoelagen;<br />6° het bijzonder decreet van 19 december 1988 betreffende de Autonome Raad voor het Gemeenschapsonderwijs;<br />7° het bijzonder decreet van 19 december 1988 betreffende de Vlaamse Autonome Hogescholen;<br />8° het decreet van 5 juli 1989 betreffende het onderwijs;<br />9° het decreet van 12 juli 1990 houdende de regeling van de basiseducatie voor laaggeschoolde volwassenen;<br />10° het decreet van 31 juli 1990 betreffende het onderwijs-II;<br />11° het decreet van 27 maart 1991 betreffende de rechtspositie van bepaalde personeelsleden van het Gemeenschapsonderwijs;<br />12° het decreet van 7 maart 1991 betreffende de rechtspositie van sommige personeelsleden van het gesubsidieerd onderwijs en de gesubsidieerde centra voor leerlingenbegeleiding;<br />13° het decreet van 12 juni 1991 betreffende de universiteiten van de Vlaamse Gemeenschap;<br />14° het bijzonder decreet van 26 juni 1991 betreffende de Universiteit Gent en het Universitair Centrum Antwerpen;<br />15° het decreet van 17 juli 1991 betreffende de inspectie, Dienst voor Onderwijsontwikkeling en pedagogische begeleidingsdiensten;<br />16° het decreet van 9 april 1992 betreffende het onderwijs-III;<br />17° het decreet van 28 april 1993 betreffende het onderwijs-IV;<br />18° het decreet van 15 december 1993 betreffende het onderwijs-V;<br />19° het decreet van 13 juli 1994 betreffende de hogescholen in de Vlaamse Gemeenschap;<br />20° het decreet van 21 december 1994 betreffende het onderwijs-VI;<br />21° het decreet van 16 april 1996 betreffende de lerarenopleiding en de nascholing;<br />22° het decreet van 8 juli 1996 betreffende het onderwijs-VII;<br />23° het decreet basisonderwijs van 25 februari 1997;<br />24° het decreet van 15 juli 1997 betreffende het onderwijs-VIII;<br />25° het decreet van 9 juni 1998 betreffende de Hogere Zeevaartschool;<br />26° het decreet van 14 juli 1998 houdende diverse maatregelen met betrekking tot het secundair onderwijs en tot wijziging van het decreet van 25 februari 1997 betreffende het basisonderwijs;<br />27° het decreet van 14 juli 1998 betreffende het onderwijs-IX;<br />28° het decreet van 1 december 1998 betreffende de centra voor leerlingenbegeleiding;<br />29° het decreet van 2 maart 1999 tot regeling van een aantal aangelegenheden van het volwassenenonderwijs;<br />30° het decreet van 18 mei 1999 betreffende het onderwijs-X;<br />31° het decreet van 18 mei 1999 betreffende het onderwijs-XI;<br />32° het decreet van 8 juni 2000 houdende dringende maatregelen betreffende het lerarenambt;<br />33° het decreet van 20 oktober 2000 betreffende het onderwijs XII-Ensor;<br />34° het decreet van 16 februari 2001 houdende regeling van de studietoelagen voor het hoger onderwijs in de Vlaamse Gemeenschap;<br />35° het decreet van 20 april 2001 houdende een aanpassing van de regelgeving betreffende het tertiair onderwijs;<br />36° het decreet van 13 juli 2001 betreffende het onderwijs XIII-Mozaïek;<br />37° het decreet betreffende het onderwijs XIV; <br />38° het decreet betreffende het onderwijs XV; <br />39° het decreet betreffende het onderwijs XVI.<br /><br />Te dien einde kan de regering:<br />1° de volgorde en de nummering van de te coördineren bepalingen veranderen en in het algemeen de teksten naar de vorm wijzigen;<br />2° de verwijzingen die voorkomen in de te coördineren bepalingen, met de nieuwe nummering overeenbrengen;<br />3° zonder afbreuk te doen aan de beginselen die in de te coördineren bepalingen vervat zijn, de redactie ervan wijzigen teneinde eenheid in de terminologie te brengen, de bepalingen onderling te doen overeenstemmen en ze in overeenstemming te brengen met de actuele stand van de regelgeving, inzonderheid door de afstemming op Afdeling 3 van dit hoofdstuk;<br />4° in de bepalingen die niet in de coördinatie worden opgenomen, de verwijzingen naar de gecoördineerde bepalingen aanpassen.
+De Vlaamse regering kan de bepalingen van volgende decreten coördineren, met inachtneming van de wijzigingen die daarin uitdrukkelijk of stilzwijgend zijn aangebracht tot aan het tijdstip van de coördinatie:<br />1° het koninklijk besluit van 20 augustus 1957 houdende coördinatie van de wetten op het lager onderwijs;<br />2° de wet van 29 mei 1959 tot wijziging van sommige bepalingen van de onderwijswetgeving;<br />3° de wet van 6 juli 1970 op het buitengewoon en geïntegreerd onderwijs;<br />4° de wet van 7 juli 1970 betreffende de algemene structuur van het hoger onderwijs;<br />5° de wet van 19 juli 1971 betreffende de toekenning van studietoelagen;<br />6° het bijzonder decreet van 19 december 1988 betreffende de Autonome Raad voor het Gemeenschapsonderwijs;<br />7° het bijzonder decreet van 19 december 1988 betreffende de Vlaamse Autonome Hogescholen;<br />8° het decreet van 5 juli 1989 betreffende het onderwijs;<br />9° het decreet van 12 juli 1990 houdende de regeling van de basiseducatie voor laaggeschoolde volwassenen;<br />10° het decreet van 31 juli 1990 betreffende het onderwijs-II;<br />11° het decreet van 27 maart 1991 betreffende de rechtspositie van bepaalde personeelsleden van het Gemeenschapsonderwijs;<br />12° het decreet van 7 maart 1991 betreffende de rechtspositie van sommige personeelsleden van het gesubsidieerd onderwijs en de gesubsidieerde centra voor leerlingenbegeleiding;<br />13° het decreet van 12 juni 1991 betreffende de universiteiten van de Vlaamse Gemeenschap;<br />14° het bijzonder decreet van 26 juni 1991 betreffende de Universiteit Gent en het Universitair Centrum Antwerpen;<br />15° het decreet van 17 juli 1991 betreffende de inspectie, Dienst voor Onderwijsontwikkeling en pedagogische begeleidingsdiensten;<br />16° het decreet van 9 april 1992 betreffende het onderwijs-III;<br />17° het decreet van 28 april 1993 betreffende het onderwijs-IV;<br />18° het decreet van 15 december 1993 betreffende het onderwijs-V;<br />19° het decreet van 13 juli 1994 betreffende de hogescholen in de Vlaamse Gemeenschap;<br />20° het decreet van 21 december 1994 betreffende het onderwijs-VI;<br />21° het decreet van 16 april 1996 betreffende de lerarenopleiding en de nascholing;<br />22° het decreet van 8 juli 1996 betreffende het onderwijs-VII;<br />23° het decreet basisonderwijs van 25 februari 1997;<br />24° het decreet van 15 juli 1997 betreffende het onderwijs-VIII;<br />25° het decreet van 9 juni 1998 betreffende de Hogere Zeevaartschool;<br />26° het decreet van 14 juli 1998 houdende diverse maatregelen met betrekking tot het secundair onderwijs en tot wijziging van het decreet van 25 februari 1997 betreffende het basisonderwijs;<br />27° het decreet van 14 juli 1998 betreffende het onderwijs-IX;<br />28° het decreet van 1 december 1998 betreffende de centra voor leerlingenbegeleiding;<br />29° het decreet van 2 maart 1999 tot regeling van een aantal aangelegenheden van het volwassenenonderwijs;<br />30° het decreet van 18 mei 1999 betreffende het onderwijs-X;<br />31° het decreet van 18 mei 1999 betreffende het onderwijs-XI;<br />32° het decreet van 8 juni 2000 houdende dringende maatregelen betreffende het lerarenambt;<br />33° het decreet van 20 oktober 2000 betreffende het onderwijs XII-Ensor;<br />34° het decreet van 16 februari 2001 houdende regeling van de studietoelagen voor het hoger onderwijs in de Vlaamse Gemeenschap;<br />35° het decreet van 20 april 2001 houdende een aanpassing van de regelgeving betreffende het tertiair onderwijs;<br />36° het decreet van 13 juli 2001 betreffende het onderwijs XIII-Mozaïek;<br />37° het decreet betreffende het onderwijs XIV; <br />38° het decreet betreffende het onderwijs XV; <br />39° het decreet betreffende het onderwijs XVI.<br />40° het decreet betreffende het onderwijs XVII. <br /><br />Te dien einde kan de regering:<br />1° de volgorde en de nummering van de te coördineren bepalingen veranderen en in het algemeen de teksten naar de vorm wijzigen;<br />2° de verwijzingen die voorkomen in de te coördineren bepalingen, met de nieuwe nummering overeenbrengen;<br />3° zonder afbreuk te doen aan de beginselen die in de te coördineren bepalingen vervat zijn, de redactie ervan wijzigen teneinde eenheid in de terminologie te brengen, de bepalingen onderling te doen overeenstemmen en ze in overeenstemming te brengen met de actuele stand van de regelgeving, inzonderheid door de afstemming op Afdeling 3 van dit hoofdstuk;<br />4° in de bepalingen die niet in de coördinatie worden opgenomen, de verwijzingen naar de gecoördineerde bepalingen aanpassen.
 
 ### ART. X. 36.
 
