@@ -4,9 +4,13 @@
 
 Dit besluit is van toepassing op de personeelsleden van de centra voor leerlingenbegeleiding bedoeld in de artikelen 73 en 182 van het decreet van 1 december 1998 betreffende de centra voor leerlingenbegeleiding en op de personeelsleden van de permanente ondersteuningscellen bedoeld in de artikelen 89, 90 en 91 van hetzelfde decreet.
 
+### ART. 1bis.
+
+Voor de toepassing van dit besluit wordt verstaan onder :<br />1° het besluit van 14 juni 1989 : het besluit van de Vlaamse Regering van 14 juni 1989 betreffende de bekwaamheidsbewijzen, de salarisschalen, het prestatiestelsel en de bezoldigingsregeling in het secundair onderwijs;<br />2° een bekwaamheidsbewijs van ten minste hoger onderwijs van het lange type (afgekort : ten minste HOLT) : een van de basisdiploma's, vermeld in artikel 6, punt 1 tot en met 11, van het besluit van de Vlaamse Regering van 14 juni 1989 betreffende de bekwaamheidsbewijzen, de salarisschalen, het prestatiestelsel en de bezoldigingsregeling in het secundair onderwijs, met uitzondering van punt 2bis ;<br />3° een bekwaamheidsbewijs van ten minste hoger onderwijs van het korte type met volledig leerplan (afgekort : ten minste HOKTVL) : een van de basisdiploma's, vermeld in artikel 6, punt 1 tot en met 39, van het besluit van de Vlaamse Regering van 14 juni 1989 betreffende de bekwaamheidsbewijzen, de salarisschalen, het prestatiestelsel en de bezoldigingsregeling in het secundair onderwijs, met uitzondering van punt 2bis, punt 29bis, punt 30bis, punt 34bis en punt 36bis.<br />4° een bekwaamheidsbewijs van ten minste hoger onderwijs van het korte type (afgekort : ten minste HOKT) : de bekwaamheidsbewijzen, vermeld in artikel 6, punt 1 tot en met 42, van het besluit van de Vlaamse Regering van 14 juni 1989 betreffende de bekwaamheidsbewijzen, de salarisschalen, het prestatiestelsel en de bezoldigingsregeling in het secundair onderwijs, met uitzondering van het diploma of het getuigschrift van het pedagogisch hoger onderwijs van het korte type voor sociale promotie of van het pedagogisch hoger onderwijs voor sociale promotie of het pedagogisch getuigschrift, uitgereikt door een centrum voor volwassenenonderwijs, of het getuigschrift van de middelbare technische normaalleergangen of van de pedagogische leergangen, en met uitzondering van punt 2bis, punt 29bis, punt 30bis, punt 34bis en punt 36bis ;<br />5° een bekwaamheidsbewijs van het niveau PBA : een van de basisdiploma's vermeld in artikel 6, punt 12 tot en met 42, van het besluit van de Vlaamse Regering van 14 juni 1989 betreffende de bekwaamheidsbewijzen, de salarisschalen, het prestatiestelsel en de bezoldigingsregeling in het secundair onderwijs, met uitzondering van het diploma of getuigschrift van het pedagogisch hoger onderwijs van het korte type voor sociale promotie, het getuigschrift van de middelbare technische normaalleergangen of van de pedagogische leergangen, en, vanaf 1 september 2000, het diploma of getuigschrift van het pedagogisch hoger onderwijs voor sociale promotie en, vanaf 1 september 2002, het pedagogisch getuigschrift, uitgereikt door een centrum voor volwassenenonderwijs;<br />6° een bekwaamheidsbewijs van het niveau secundair onderwijs :<br />a) een van de basisdiploma's, vermeld in artikel 6, punt 47 tot en met 56, van het besluit van de Vlaamse Regering van 14 juni 1989 betreffende de bekwaamheidsbewijzen, de salarisschalen, het prestatiestelsel en de bezoldigingsregeling in het secundair onderwijs;<br />b) de studiebewijzen die in artikel 7 van het besluit van de Vlaamse Regering van 14 juni 1989 betreffende de bekwaamheidsbewijzen, de salarisschalen, het prestatiestelsel en de bezoldigingsregeling in het secundair onderwijs vermeld zijn als ASBO, HSBO, HSTO en HSKO.
+
 ### ART. 2.
 
-§ 1. De personeelsleden bedoeld in artikel 1 verwerven overeenkomstig hun bekwaamheidsbewijs, vermeld in bijlage I van dit besluit, de overeenstemmende salarisschaal in het ambt dat ze uitoefenen.<br /><br />De in bijlage I van dit besluit vermelde basisbekwaamheidsbewijzen moeten uitgereikt zijn, hetzij door een Belgische universiteit of door een door een wet of decreet daarmee gelijkgestelde instelling, of door een door de Staat dan wel door de Gemeenschap georganiseerde, gesubsidieerde of erkende onderwijsinstelling, hetzij door een door de Staat of de Gemeenschap ingestelde examencommissie.<br /><br />Buitenlandse diploma's of getuigschriften die krachtens de wet of het decreet of met toepassing van de Europese richtlijnen of een bilateraal akkoord als gelijkwaardig erkend zijn, worden eveneens aangenomen.<br /><br />De in een lidstaat van de Europese Unie uitgereikte diploma's of getuigschriften worden aangenomen, indien ze vergezeld gaan van een conformiteitsattest zoals bepaald in het besluit van de Vlaamse regering van 15 april 1997 tot bepaling van de voorwaarden en de vorm van het conformiteitsattest voor wervingsambten in het onderwijs ter uitvoering van de Europese Richtlijnen 89/48/EEG en 92/51/EEG.<br /><br />§ 2. Het besluit van de Vlaamse regering van 21 november 2003 betreffende de salarisschalen van bepaalde personeelsleden van het onderwijs is van toepassing voor de salarisschalen vermeld in bijlage I van dit besluit.<br /><br />§ 3. De aanstelling van het personeelslid bedoeld in bijlage I, punt 2.2, Arts, bekwaamheidsbewijzen, vereiste, opmerking 2): "tijdelijke afwijkingen inzake bijkomend diploma", eindigt van rechtswege en zonder vooropzeg als betrokkene niet in het bezit is van de vereiste graad binnen een periode van 60 maanden gerekend vanaf 1 september van het schooljaar van de eerste aanstelling na 1 september 2000.<br /><br />§ 4. Voor het ambt van medewerker geldt, na negen jaar dienstanciënniteit verworven in het ambt van medewerker in een centrum voor leerlingenbegeleiding, de salarisschaal 203. Het besluit van de Vlaamse regering van 21 november 2003 betreffende de salarisschalen van bepaalde personeelsleden van het onderwijs is van toepassing op de salarisschaal 203.<br /><br />§ 5. Personeelsleden die het ambt van CLB-directeur, vermeld in bijlage I, punt 2.1, uitoefenen, ontvangen hiervoor de niet-verworven salarisschaal 269, op voorwaarde dat ze voldoen aan de erkenningsvoorwaarde met betrekking tot de specifieke vorming in zake leidinggeven vermeld in artikel 4, of dat ze de overgangsregeling genieten voor de directeur inzake specifieke vorming inzake leidinggeven, vermeld in de bijlage, gevoegd bij dit besluit. De salarisschaal wordt aan de directeur verleend vanaf de dag waarop het mandaat ingaat. De salarisschaal blijft behouden zolang de directeur zich bevindt in de stand dienstactiviteit. Bij deeltijdse tewerkstelling van een directeur van een CLB wordt het jaarbedrag van de niet-verworven salarisschaal 269 naar rato van de uitgeoefende betrekking vastgesteld.<br /><br />De niet-verworven salarisschaal 269 wordt vastgesteld bij het besluit van de Vlaamse Regering van 21 november 2003 houdende de salarisschalen van bepaalde personeelsleden van het onderwijs. Zolang het personeelslid aan de voorwaarden voldoet, maakt de niet-verworven salarisschaal integraal deel uit van de salarisschalen waarop de betrokkene overeenkomstig zijn tijdelijke aanstelling of zijn vaste benoeming recht heeft en vormt die schaal mee de grondslag voor de berekening van het salaris van het betrokken personeelslid. Bij de berekening van de beperking van het salaris tot de eenheid of tot het best bezoldigd ambt wordt met het bedrag van een niet-verworven salarisschaal echter geen rekening gehouden.<br /><br />De niet-verworven salarisschaal volgt de evolutie van het prijsindexcijfer dat berekend en benoemd wordt voor de toepassing van artikel 2 van het koninklijk besluit van 24 december 1993 ter uitvoering van de wet van 6 januari 1989 tot vrijwaring van 's lands concurrentievermogen, bekrachtigd bij de wet van 30 maart 1994.<br /><br />§ 6. Het personeelslid dat de coördinatiefunctie, bedoeld in artikel 76 van het decreet van 1 december 1998 betreffende de centra voor leerlingenbegeleiding, krijgt, ontvangt de niet-verworven salarisschaal 268.<br /><br />De niet-verworven salarisschaal 268 wordt vastgesteld bij het voormelde besluit van de Vlaamse Regering van 21 november 2003. Zolang het personeelslid aan de voorwaarden voldoet, maakt de niet-verworven salarisschaal integraal deel uit van de salarisschalen waarop de betrokkene overeenkomstig zijn tijdelijke aanstelling of zijn vaste benoeming recht heeft en vormt die schaal mee de grondslag voor de berekening van het salaris van het betrokken personeelslid. Bij de berekening van de beperking van het salaris tot de eenheid of tot het best bezoldigd ambt wordt met het bedrag van een niet-verworven salarisschaal echter geen rekening gehouden.<br /><br />De niet-verworven salarisschaal volgt de evolutie van het voormelde prijsindexcijfer.<br /><br />
+§ 1. De personeelsleden, vermeld in artikel 1, verwerven overeenkomstig hun bekwaamheidsbewijs, vermeld in bijlage I, de overeenstemmende salarisschaal in het ambt dat ze uitoefenen.<br /><br />De basisbekwaamheidsbewijzen, vermeld in bijlage I, moeten uitgereikt zijn, hetzij door een Belgische universiteit of door een door een wet of decreet daarmee gelijkgestelde instelling, of door een door de Staat dan wel door de Gemeenschap georganiseerde, gesubsidieerde of erkende onderwijsinstelling, hetzij door een ambtshalve geregistreerde instelling voor hoger onderwijs, hetzij door een door de Staat of de Gemeenschap ingestelde examencommissie.<br /><br />Worden eveneens aangenomen de in overeenstemming met een buitenlandse regeling behaalde diploma's en studiegetuigschriften die gelijkwaardig worden verklaard met een van de diploma's of studiegetuigschriften, vermeld in dit besluit :<br />1° krachtens verdragen of internationale overeenkomsten of;<br />2° met toepassing van de procedure voor het verlenen van de gelijkwaardigheid, voorgeschreven bij de wet van 19 maart 1971 betreffende de gelijkwaardigheid van de buitenlandse diploma's en studiegetuigschriften of;<br />3° met ingang van 1 september 1995, met toepassing van het decreet van 13 juli 1994 betreffende de hogescholen in de Vlaamse Gemeenschap of;<br />4° met ingang van 1 oktober 1992, met toepassing van het decreet van 12 juni 1991 betreffende de universiteiten in de Vlaamse Gemeenschap of;<br />5° met ingang van 1 januari 2003, met toepassing van het decreet van 4 april 2003 betreffende de herstructurering van het hoger onderwijs in Vlaanderen.<br /><br />De diploma's of getuigschriften die in een lidstaat van de Europese Economische Ruimte, en met ingang van 1 juni 2002 in Zwitserland, uitgereikt zijn, worden aangenomen indien ze vergezeld gaan van een conformiteitsattest zoals bepaald in het besluit van de Vlaamse Regering tot bepaling van de voorwaarden en vorm van het conformiteitsattest voor wervingsambten in het onderwijs ter uitvoering van de Europese Richtlijnen 89/48/EEG en 92/51/EEG.<br /><br />§ 2. Het besluit van de Vlaamse regering van 21 november 2003 betreffende de salarisschalen van bepaalde personeelsleden van het onderwijs is van toepassing voor de salarisschalen vermeld in bijlage I van dit besluit.<br /><br />§ 3. De aanstelling van het personeelslid bedoeld in bijlage I, punt 2.2, Arts, bekwaamheidsbewijzen, vereiste, opmerking 2): "tijdelijke afwijkingen inzake bijkomend diploma", eindigt van rechtswege en zonder vooropzeg als betrokkene niet in het bezit is van de vereiste graad binnen een periode van 60 maanden gerekend vanaf 1 september van het schooljaar van de eerste aanstelling na 1 september 2000.<br /><br />§ 4. ...<br /><br />§ 5. Personeelsleden die het ambt van CLB-directeur, vermeld in bijlage I, punt 2.1, uitoefenen, ontvangen hiervoor de niet-verworven salarisschaal 269, op voorwaarde dat ze voldoen aan de erkenningsvoorwaarde met betrekking tot de specifieke vorming in zake leidinggeven vermeld in artikel 4, of dat ze de overgangsregeling genieten voor de directeur inzake specifieke vorming inzake leidinggeven, vermeld in de bijlage, gevoegd bij dit besluit. De salarisschaal wordt aan de directeur verleend vanaf de dag waarop het mandaat ingaat. De salarisschaal blijft behouden zolang de directeur zich bevindt in de stand dienstactiviteit. Bij deeltijdse tewerkstelling van een directeur van een CLB wordt het jaarbedrag van de niet-verworven salarisschaal 269 naar rato van de uitgeoefende betrekking vastgesteld.<br /><br />De niet-verworven salarisschaal 269 wordt vastgesteld bij het besluit van de Vlaamse Regering van 21 november 2003 houdende de salarisschalen van bepaalde personeelsleden van het onderwijs. Zolang het personeelslid aan de voorwaarden voldoet, maakt de niet-verworven salarisschaal integraal deel uit van de salarisschalen waarop de betrokkene overeenkomstig zijn tijdelijke aanstelling of zijn vaste benoeming recht heeft en vormt die schaal mee de grondslag voor de berekening van het salaris van het betrokken personeelslid. Bij de berekening van de beperking van het salaris tot de eenheid of tot het best bezoldigd ambt wordt met het bedrag van een niet-verworven salarisschaal echter geen rekening gehouden.<br /><br />De niet-verworven salarisschaal volgt de evolutie van het prijsindexcijfer dat berekend en benoemd wordt voor de toepassing van artikel 2 van het koninklijk besluit van 24 december 1993 ter uitvoering van de wet van 6 januari 1989 tot vrijwaring van 's lands concurrentievermogen, bekrachtigd bij de wet van 30 maart 1994.<br /><br />§ 6. Het personeelslid dat de coördinatiefunctie, bedoeld in artikel 76 van het decreet van 1 december 1998 betreffende de centra voor leerlingenbegeleiding, krijgt, ontvangt de niet-verworven salarisschaal 268.<br /><br />De niet-verworven salarisschaal 268 wordt vastgesteld bij het voormelde besluit van de Vlaamse Regering van 21 november 2003. Zolang het personeelslid aan de voorwaarden voldoet, maakt de niet-verworven salarisschaal integraal deel uit van de salarisschalen waarop de betrokkene overeenkomstig zijn tijdelijke aanstelling of zijn vaste benoeming recht heeft en vormt die schaal mee de grondslag voor de berekening van het salaris van het betrokken personeelslid. Bij de berekening van de beperking van het salaris tot de eenheid of tot het best bezoldigd ambt wordt met het bedrag van een niet-verworven salarisschaal echter geen rekening gehouden.<br /><br />De niet-verworven salarisschaal volgt de evolutie van het voormelde prijsindexcijfer.<br /><br />
 
 ### ART. 3.
 
@@ -24,6 +28,10 @@ Personeelsleden die op 31 augustus 2000 werkzaam waren in een PMS- of MST- centr
 
 (niet opgenomen)<br /><br />(Wijzigt het besluit van de Vlaamse regering van 13 oktober 2000 tot vaststelling van de bekwaamheidsbewijzen en de weddenschalen van de personeelsleden van de centra voor leerlingenbegeleiding)
 
+### ART. 6bis.
+
+In bijlage I wordt met code d.d. bedoeld :<br />1 : met ingang van 1 september 2000;<br />2 : met ingang van 1 september 2002;<br />3 : met ingang van 1 september 2006;<br />4 : met ingang van 1 september 2007;<br />5 : met ingang van 1 september 2000 tot en met 31 augustus 2007;<br />6 : met ingang van 1 september 2002 tot en met 31 augustus 2007;<br />7 : met ingang van 1 september 2006 tot en met 31 augustus 2007;<br />8 : met ingang van 1 september 2002, met de beperking evenwel dat hieruit voor de periode van 1 september 2002 tot en met 31 augustus 2007 geen gevolgen kunnen voortvloeien voor de personeelsleden en de inrichtende machten met betrekking tot bezoldiging en terbeschikkingstelling wegens ontstentenis van betrekking, reaffectatie en wedertewerkstelling.
+
 ### ART. 7.
 
 Dit besluit heeft uitwerking met ingang van 1 september 2002, met uitzondering van artikel 2, § 5 dat in werking treedt op 1 september 2003.
@@ -38,70 +46,106 @@ De Vlaamse minister, bevoegd voor het Gezondheidsbeleid, en de Vlaamse minister,
 
 ### Tekst
 
-<table border="0" cellpadding="0" cellspacing="0" style="border-collapse:collapse">
+<p>1. AFKORTINGEN<!--?xml:namespace prefix = o ns =   "urn:schemas-microsoft-com:office:office" /--></p>
+
+<p>&nbsp;</p>
+
+<table border="1" cellpadding="0" cellspacing="0" style="border-collapse:collapse">
 	<tbody>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:#f0f0f0; border-top:windowtext 1pt solid; vertical-align:top; width:138pt">
-			<p>WS:</p>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:77.4pt">
+			<p>SSC</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:343.9pt">
-			<p>salarisschalen</p>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:383.2pt">
+			<p>Salarisschalen</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:#f0f0f0; border-top:windowtext 1pt solid; vertical-align:top; width:138pt">
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:77.4pt">
 			<p>Code 1</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:343.9pt">
-			<p>met ingang van 1 september 2000</p>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:383.2pt">
+			<p>Met ingang van 1 september 2000</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:#f0f0f0; border-top:windowtext 1pt solid; vertical-align:top; width:138pt">
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:77.4pt">
 			<p>Code 2</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:343.9pt">
-			<p>met ingang van 1 september 2002</p>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:383.2pt">
+			<p>Met ingang van 1 september 2002</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:#f0f0f0; border-top:windowtext 1pt solid; vertical-align:top; width:138pt">
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:77.4pt">
 			<p>Code 3</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:343.9pt">
-			<p>met ingang van 1 september 2006</p>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:383.2pt">
+			<p>Met ingang van 1 september 2006</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:#f0f0f0; border-top:windowtext 1pt solid; vertical-align:top; width:138pt">
-			<p>VE:</p>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:77.4pt">
+			<p>Code 4</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:343.9pt">
-			<p>de vereiste bekwaamheidsbewijzen</p>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:383.2pt">
+			<p>Met ingang van 1 september 2007</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:#f0f0f0; border-top:windowtext 1pt solid; vertical-align:top; width:138pt">
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:77.4pt">
+			<p>Code 5</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:383.2pt">
+			<p>Met ingang van 1 september 2000 tot en met 31 augustus 2007</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:77.4pt">
+			<p>Code 6</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:383.2pt">
+			<p>Met ingang van 1 september 2002 tot en met 31augustus 2007</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:77.4pt">
+			<p>Code 7</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:383.2pt">
+			<p>Met ingang van 1 september 2006 tot en met 31 augustus 2007</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:77.4pt">
+			<p>Code 8</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:383.2pt">
+			<p>Met ingang van 1 september 2002, met de beperking evenwel dat hieruit voor de periode van 1 september 2002 tot en met 31 augustus 2007 geen gevolgen kunnen voortvloeien voor de personeelsleden en de inrichtende machten met betrekking tot bezoldiging en terbeschikkingstelling wegens ontstentenis van betrekking, reaffectatie en wedertewerkstelling</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:77.4pt">
+			<p>VE</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:383.2pt">
+			<p>De vereiste bekwaamheidsbewijzen</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:77.4pt">
 			<p>VO</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:343.9pt">
-			<p>de voldoend geachte bekwaamheidsbewijzen</p>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:383.2pt">
+			<p>De voldoend geachte bekwaamheidsbewijzen</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:#f0f0f0; border-top:windowtext 1pt solid; vertical-align:top; width:138pt">
-			<p>AN:</p>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:77.4pt">
+			<p>AN</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:343.9pt">
-			<p>de andere bekwaamheidsbewijzen</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:#f0f0f0; border-top:windowtext 1pt solid; vertical-align:top; width:138pt">
-			<p>besluit van 14 juni 1989</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:343.9pt">
-			<p>besluit van de Vlaamse regering van 14 juni 1989 betreffende de be­kwaam­heidsbewijzen, de weddenschalen, het prestatiestelsel en de bezol­digingsrege­ling in het secundair onderwijs</p>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:383.2pt">
+			<p>De andere bekwaamheidsbewijzen</p>
 			</td>
 		</tr>
 	</tbody>
@@ -109,7 +153,7 @@ De Vlaamse minister, bevoegd voor het Gezondheidsbeleid, en de Vlaamse minister,
 
 <p>&nbsp;</p>
 
-<p>&nbsp;</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
 
 ## 2. Overzicht
 
@@ -119,54 +163,84 @@ De Vlaamse minister, bevoegd voor het Gezondheidsbeleid, en de Vlaamse minister,
 
 ### Tekst
 
+<p>2. OVERZICHT<!--?xml:namespace prefix = o ns =   "urn:schemas-microsoft-com:office:office" /--></p>
+
+<p>2.1. DIRECTEUR</p>
+
 <p>&nbsp;</p>
 
-<table border="0" cellpadding="0" cellspacing="0" style="border-collapse:collapse">
+<table border="1" cellpadding="0" cellspacing="0" style="border-collapse:collapse">
 	<tbody>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:#f0f0f0; border-top:windowtext 1pt solid; vertical-align:top; width:47.2pt">
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:50.4pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:#f0f0f0; border-top:windowtext 1pt solid; vertical-align:top; width:45.35pt">
-			<p>WS</p>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:54pt">
+			<p>SSC</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:#f0f0f0; border-top:windowtext 1pt solid; vertical-align:top; width:45.4pt">
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:54pt">
 			<p>Code</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:343.9pt">
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:302.2pt">
 			<p>BEKWAAMHEIDSBEWIJZEN</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:#f0f0f0; border-top:windowtext 1pt solid; vertical-align:top; width:47.2pt">
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:50.4pt">
+			<p>&nbsp;</p>
+
 			<p>VE</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:#f0f0f0; border-top:windowtext 1pt solid; vertical-align:top; width:45.35pt">
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:54pt">
+			<p>&nbsp;</p>
+
 			<p>511</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:#f0f0f0; border-top:windowtext 1pt solid; vertical-align:top; width:45.4pt">
-			<p>1</p>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:54pt">
+			<p>&nbsp;</p>
+
+			<p>4</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:343.9pt">
-			<p><strong>Basisdiploma</strong>: een diploma van het hoger onderwijs van twee cycli, zijnde een vereist bekwaam­heidsbewijs vereist voor de aanstelli!ng of benoeming in het ambt van consulent.</p>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:302.2pt">
+			<p><strong>BASISDIPLOMA:</strong></p>
 
-			<p><strong>Aangevuld met</strong>:</p>
+			<p>- ten minste HOLT;</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:50.4pt">
+			<p>VE</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:54pt">
+			<p>511</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:54pt">
+			<p>5</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:302.2pt">
+			<p>- ten minste master, als vermeld in artikel 7 van het besluit van 14 juni 1989;</p>
 
-			<p>- én de specifieke vorming inzake leidinggeven zoals bedoeld in het besluit van de Vlaamse regering van <strong>12 december 2003</strong>, artikel 4; met uitzondering van de volgende gevallen:</p>
+			<p>aangevuld met:</p>
 
-			<p>1) Overgangsregeling inzake specifieke vorming inzake leidinggeven:</p>
+			<p>- én de specifieke vorming inzake leidinggeven als vermeld in artikel 4 van het besluit van de Vlaamse regering van 12 december 2003; met uitzondering van de volgende gevallen:</p>
 
-			<p>De volgende personeelsleden die <strong>na 31 augustus 2000</strong> belast worden met het mandaat van directeur in een centrum, worden geacht de erkende specifieke vorming inzake leidinggeven te hebben beëindigd:</p>
+			<p>1) O<u>vergangsregeling inzake specifieke vorming inzake leidinggeven:</u></p>
 
-			<p>1° de op 31 augustus 2000 vastbenoemde directeurs in een PMS-centrum of in een vormingscen­trum;</p>
+			<p>De volgende personeelsleden die na 31 augustus 2000 belast worden met het mandaat van directeur in een centrum, worden geacht de erkende specifieke vorming inzake leidinggeven te hebben beëindigd:</p>
 
-			<p>2° de coördinerende artsen van een gesubsidieerde MST-equipe, die op 31 augustus 2000 minstens 5 dienstjaren coördinerend arts waren.</p>
+			<p>1°de op 31 augustus 2000 vastbenoemde directeurs in een PMS-centrum of in een vormingscentrum;</p>
 
-			<p><em>2) </em>Tijdelijke afwijking:</p>
+			<p>2° de coördinerende artsen van een gesubsidieerd MST-equipe, die op 31 augustus 2000 minstens 5 dienstjaren coördinerend arts waren.</p>
 
-			<p>Personeelsleden, die tijdelijk belast worden met de vervanging van het personeelslid dat het mandaat van directeur uitoefent, moeten niet aantonen dat zij de erkende vorming inzake leidinggeven hebben voltooid op voorwaarde dat de duur van de vervanging in het ambt van directeur minder bedraagt dan twee schooljaren.</p>
+			<p>&nbsp;</p>
 
-			<p>- én een bijkomende vorming inzake leidinggeven en leerlingenbegeleiding van tenminste drie dagen of 20 uur per schooljaar.</p>
+			<p>2) <u>Tijdelijke afwijking:</u></p>
+
+			<p>Personeelsleden, die tijdelijk belast worden met de vervanging van het personeelslid dat het mandaat van directeur uitoefent, moeten niet aantonen dat zij de erkende vorming inzake leidinggeven hebben voltooid op voorwaarde dat de duur van de vervanging in het ambt van directeur minder bedraagt dan twee jaren</p>
+
+			<p><strong>&nbsp;</strong></p>
+
+			<p><strong>- </strong>én een bijkomende vorming inzake leidinggeven en leerlingenbegeleiding van tenminste drie dagen of 20 uur per schooljaar.</p>
 			</td>
 		</tr>
 	</tbody>
@@ -182,196 +256,384 @@ De Vlaamse minister, bevoegd voor het Gezondheidsbeleid, en de Vlaamse minister,
 
 ### Tekst
 
-<table border="0" cellpadding="0" cellspacing="0" style="border-collapse:collapse">
+<table border="0" cellpadding="0" cellspacing="0" style="border-collapse:collapse; width:447.9pt">
 	<tbody>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:#f0f0f0; border-top:windowtext 1pt solid; vertical-align:top; width:44.1pt">
-			<p>&nbsp;</p>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:black 1pt solid; border-right:black 1pt solid; border-top:black 1pt solid; height:11.35pt; vertical-align:top; width:39.5pt">
+			<p><!--?xml:namespace         prefix = o ns = "urn:schemas-microsoft-com:office:office"         /-->&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:#f0f0f0; border-top:windowtext 1pt solid; vertical-align:top; width:48.4pt">
-			<p>WS</p>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:black 1pt solid; height:11.35pt; width:48.2pt">
+			<p>SSC</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:#f0f0f0; border-top:windowtext 1pt solid; vertical-align:top; width:42.4pt">
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:black 1pt solid; height:11.35pt; width:48.2pt">
 			<p>Code</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:346.95pt">
-			<p>BEKWAAMHEIDSBEWIJZE</p>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:black 1pt solid; height:11.35pt; width:306pt">
+			<p>BEKWAAMHEIDSBEWIJZEN</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:#f0f0f0; border-top:windowtext 1pt solid; vertical-align:top; width:44.1pt">
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:black 1pt solid; border-right:black 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:39.5pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:48.2pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:48.2pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:11.35pt; width:306pt">
+			<p><strong>Basisdiploma:</strong></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:black 1pt solid; border-right:black 1pt solid; border-top:#f0f0f0; height:11.35pt; width:48.2pt">
 			<p>VE</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:#f0f0f0; border-top:windowtext 1pt solid; vertical-align:top; width:48.4pt">
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:11.35pt; width:48.2pt">
 			<p>202</p>
-
-			<p>&nbsp;</p>
-
-			<p>&nbsp;</p>
-
-			<p>&nbsp;</p>
-
-			<p>&nbsp;</p>
-
-			<p>&nbsp;</p>
-
-			<p>&nbsp;</p>
-
-			<p>&nbsp;</p>
-
-			<p>&nbsp;</p>
-
-			<p>&nbsp;</p>
-
-			<p>&nbsp;</p>
-
-			<p>&nbsp;</p>
-
-			<p>&nbsp;</p>
-
-			<p>&nbsp;</p>
-
-			<p>&nbsp;</p>
-
-			<p>&nbsp;</p>
-
-			<p>278</p>
-
-			<p>of</p>
-
-			<p>279</p>
-
-			<p>&nbsp;</p>
-
-			<p>&nbsp;</p>
-
-			<p>&nbsp;</p>
-
-			<p>&nbsp;</p>
-
-			<p>&nbsp;</p>
-
-			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:#f0f0f0; border-top:windowtext 1pt solid; vertical-align:top; width:42.4pt">
-			<p>1</p>
-
-			<p>&nbsp;</p>
-
-			<p>&nbsp;</p>
-
-			<p>&nbsp;</p>
-
-			<p>&nbsp;</p>
-
-			<p>&nbsp;</p>
-
-			<p>&nbsp;</p>
-
-			<p>&nbsp;</p>
-
-			<p>&nbsp;</p>
-
-			<p>&nbsp;</p>
-
-			<p>&nbsp;</p>
-
-			<p>&nbsp;</p>
-
-			<p>&nbsp;</p>
-
-			<p>&nbsp;</p>
-
-			<p>&nbsp;</p>
-
-			<p>&nbsp;</p>
-
-			<p>1</p>
-
-			<p>1</p>
-
-			<p>&nbsp;</p>
-
-			<p>&nbsp;</p>
-
-			<p>&nbsp;</p>
-
-			<p>&nbsp;</p>
-
-			<p>&nbsp;</p>
-
-			<p>&nbsp;</p>
-
-			<p>&nbsp;</p>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:11.35pt; width:48.2pt">
+			<p>5</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:346.95pt">
-			<p><strong><u>Basisdiploma:</u></strong></p>
-
-			<p>- het brevet van een aanvullenhde secundaire beroepsschool of leergang;</p>
-
-			<p>- het studiegetuigschrift van het eerste leerjaar van de vierde graad van het secundair onderwijs;</p>
-
-			<p>- het diploma in de psychiatrische verpleegkunde;</p>
-
-			<p>- het diploma in de ziekenhuisverpleegkunde;</p>
-
-			<p>- het finaliteitdiploma van het kunstonderwijs, ingericht volgens beperkt leerplan;</p>
-
-			<p>- het gehomologeerd getuigschrift van hoger secundair onderwijs;</p>
-
-			<p>- het gehomologeerd getuigschrift van het middelbaar onderwijs van de hogere graad;</p>
-
-			<p>- het gehomologeerd diploma van secundair onderwijs;</p>
-
-			<p>- het diploma van secundair onderwijs;</p>
-
-			<p>- een studiebewijs van het niveau hoger technisch secundair onderwijs;</p>
-
-			<p>- een studiebewijs van het niveau van de derde graad van het technisch secundair onderwijs;</p>
-
-			<p>- een studiebewijs van het niveau van hoger kunstsecundair onderwijs;</p>
-
-			<p>- een studiebewijs van het niveau van de derde graad van het kunstsecundair onderwijs;</p>
-
-			<p>- een studiebewijs van het niveau van hoger beroepssecundair onderwijs;</p>
-
-			<p>- een studiebewijs van het niveau van de derde graad van het beroepssecundair onderwijs.</p>
-
-			<p><strong><u>Gelijkstellingen inzake basisdiploma:</u></strong></p>
-
-			<p>De bekwaamheidsbewijzen van de personeelsleden die op 31 augustus 2000 werkzaam zijn als vastbenoem­de klerk in een PMS-centrum, en die op 1 september 2000 worden geconcordeerd naar het ambt van medewerker, worden eveneens gelijkgesteld met een bekwaamheidsbewijs vereist voor het ambt van medewerker.</p>
-
-			<p><strong><u>Overgangsbepaling inzake basisdiploma:</u></strong></p>
-
-			<p>Voor personeelsleden die op 31 augustus 2000 werkzaam waren in een gesubsidieerde equipe voor medisch schooltoezicht als administratief bediende en die overeenkomstig artikel 182 van het decreet CLB geconcordeerd werden naar het ambt van medewerker, behouden bij wijze van overgang met toepassing van artikel 191 van hetzelfde decreet de weddenschaal die zij hadden op 31 augustus 2000</p>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:11.35pt; width:306pt">
+			<p>- het brevet van een aanvullende secundaire beroepsschool of leergang;</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:#f0f0f0; border-top:windowtext 1pt solid; vertical-align:top; width:44.1pt">
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:black 1pt solid; border-right:black 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:48.2pt">
+			<p>VE</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:48.2pt">
+			<p>202</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:48.2pt">
+			<p>1</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:11.35pt; width:306pt">
+			<p>- het studiegetuigschrift van het eerste leerjaar van de vierde graad van het secundair onderwijs;</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:black 1pt solid; border-right:black 1pt solid; border-top:#f0f0f0; height:11.35pt; width:48.2pt">
+			<p>VE</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:11.35pt; width:48.2pt">
+			<p>202</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:11.35pt; width:48.2pt">
+			<p>5</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:11.35pt; width:306pt">
+			<p>- het diploma in de psychiatrische verpleegkunde;</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:black 1pt solid; border-right:black 1pt solid; border-top:#f0f0f0; height:11.35pt; width:48.2pt">
+			<p>VE</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:11.35pt; width:48.2pt">
+			<p>202</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:11.35pt; width:48.2pt">
+			<p>5</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:11.35pt; width:306pt">
+			<p>- het diploma in de ziekenhuisverpleegkunde;</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:black 1pt solid; border-right:black 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:48.2pt">
+			<p>VE</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:48.2pt">
+			<p>202</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:48.2pt">
+			<p>5</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:11.35pt; width:306pt">
+			<p>- het finaliteitdiploma van het kunstonderwijs, ingericht volgens beperkt leerplan;</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:black 1pt solid; border-right:black 1pt solid; border-top:#f0f0f0; height:11.35pt; width:48.2pt">
+			<p>VE</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:11.35pt; width:48.2pt">
+			<p>202</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:11.35pt; width:48.2pt">
+			<p>5</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:11.35pt; width:306pt">
+			<p>- het gehomologeerd getuigschrift van hoger secundair onderwijs;</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:black 1pt solid; border-right:black 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:48.2pt">
+			<p>VE</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:48.2pt">
+			<p>202</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:48.2pt">
+			<p>5</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:11.35pt; width:306pt">
+			<p>- het gehomologeerd getuigschrift van het middelbaar onderwijs van de hogere graad;</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:black 1pt solid; border-right:black 1pt solid; border-top:#f0f0f0; height:11.35pt; width:48.2pt">
+			<p>VE</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:11.35pt; width:48.2pt">
+			<p>202</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:11.35pt; width:48.2pt">
+			<p>5</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:11.35pt; width:306pt">
+			<p>- het gehomologeerd diploma van secundair onderwijs;</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:black 1pt solid; border-right:black 1pt solid; border-top:#f0f0f0; height:11.35pt; width:48.2pt">
+			<p>VE</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:11.35pt; width:48.2pt">
+			<p>202</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:11.35pt; width:48.2pt">
+			<p>5</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:11.35pt; width:306pt">
+			<p>- het diploma van secundair onderwijs;</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:black 1pt solid; border-right:black 1pt solid; border-top:#f0f0f0; height:11.35pt; width:48.2pt">
+			<p>VE</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:11.35pt; width:48.2pt">
+			<p>202</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:11.35pt; width:48.2pt">
+			<p>5</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:11.35pt; width:306pt">
+			<p>- een studiebewijs van het niveau hoger technisch secundair onderwijs;</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:black 1pt solid; border-right:black 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:48.2pt">
+			<p>VE</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:48.2pt">
+			<p>202</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:48.2pt">
+			<p>5</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:11.35pt; width:306pt">
+			<p>- een studiebewijs van het niveau van de derde graad van het technisch secundair onderwijs;</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:black 1pt solid; border-right:black 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:48.2pt">
+			<p>VE</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:48.2pt">
+			<p>202</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:48.2pt">
+			<p>5</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:306pt">
+			<p>- een studiebewijs van het niveau van hoger kunstsecundair onderwijs;</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:black 1pt solid; border-right:black 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:48.2pt">
+			<p>VE</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:48.2pt">
+			<p>202</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:48.2pt">
+			<p>5</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:306pt">
+			<p>- een studiebewijs van het niveau van de derde graad van het kunstsecundair onderwijs;</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:black 1pt solid; border-right:black 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:48.2pt">
+			<p>VE</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:48.2pt">
+			<p>202</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:48.2pt">
+			<p>5</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:306pt">
+			<p>- een studiebewijs van het niveau van hoger beroepssecundair onderwijs;</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:black 1pt solid; border-right:black 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:48.2pt">
+			<p>VE</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:48.2pt">
+			<p>202</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:48.2pt">
+			<p>5</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:306pt">
+			<p>- een studiebewijs van het niveau van de derde graad van het beroepssecundair onderwijs;</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:black 1pt solid; border-right:black 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:48.2pt">
+			<p>VE</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:48.2pt">
+			<p>202</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:48.2pt">
+			<p>4</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:306pt">
+			<p>- een bekwaamheidsbewijs van het niveau secundair onderwijs.</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:black 1pt solid; border-right:black 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:48.2pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:48.2pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:48.2pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:306pt">
+			<p><strong>Gelijkstellingen inzake basisdiploma:</strong></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:black 1pt solid; border-right:black 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:48.2pt">
+			<p>VE</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:48.2pt">
+			<p>202</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:48.2pt">
+			<p>1</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:306pt">
+			<p>De bekwaamheidsbewijzen van de personeelsleden die op 31 augustus 2000 werkzaam zijn als vastbenoemde klerk in een PMS-centrum, en die op 1 september 2000 worden geconcordeerd naar het ambt van medewerker, worden eveneens gelijkgesteld met een bekwaamheidsbewijs vereist voor het ambt van medewerker.</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:black 1pt solid; border-right:black 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:48.2pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:48.2pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:48.2pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:306pt">
+			<p><strong>Overgangsbepaling inzake basisdiploma:</strong></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:black 1pt solid; border-right:black 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:48.2pt">
+			<p>VE</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:48.2pt">
+			<p>278 of 279</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:48.2pt">
+			<p>1</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:306pt">
+			<p>Voor personeelsleden die op 31 augustus 2000 werkzaam waren in een gesubsidieerde equipe voor medisch schooltoezicht als administratief bediende en die overeenkomstig artikel 182 van het decreet CLB geconcordeerd werden naar het ambt van medewerker, behouden bij wijze van overgang met toepassing van artikel 191 van hetzelfde decreet de salarisschaal die zij hadden op 31 augustus 2000.</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:black 1pt solid; border-right:black 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:48.2pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:48.2pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:48.2pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:306pt">
+			<p><strong>Basisdiploma:</strong></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:black 1pt solid; border-right:black 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:48.2pt">
 			<p>VO</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:#f0f0f0; border-top:windowtext 1pt solid; vertical-align:top; width:48.4pt">
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:48.2pt">
 			<p>202</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:#f0f0f0; border-top:windowtext 1pt solid; vertical-align:top; width:42.4pt">
-			<p>2</p>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:48.2pt">
+			<p>6</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:346.95pt">
-			<p><strong><u>Basisdiploma</u></strong>: tenminste HOKT, zoals bedoeld in artikel 7 van het besluit van 14 juni 1989, en de daarmee in dat besluit gelijkgestelde diploma's.</p>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:306pt">
+			<p>- ten minste HOKT;</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:#f0f0f0; border-top:windowtext 1pt solid; vertical-align:top; width:44.1pt">
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:black 1pt solid; border-right:black 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:48.2pt">
+			<p>VO</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:48.2pt">
+			<p>202</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:48.2pt">
+			<p>4</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:306pt">
+			<p>- ten minste PBA, als vermeld in artikel 7 van het besluit van 14 juni 1989.</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:black 1pt solid; border-right:black 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:48.2pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:48.2pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:48.2pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:306pt">
+			<p><strong>Basisdiploma:</strong></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:black 1pt solid; border-right:black 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:48.2pt">
 			<p>AN</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:#f0f0f0; border-top:windowtext 1pt solid; vertical-align:top; width:48.4pt">
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:48.2pt">
 			<p>200</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:#f0f0f0; border-top:windowtext 1pt solid; vertical-align:top; width:42.4pt">
-			<p>2</p>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:48.2pt">
+			<p>4</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:346.95pt">
-			<p><strong><u>Basisdiploma:</u></strong> tenminste LSO, zoals bedoeld in artikel 7 van het besluit van 14 juni 1989, en de daarmee in dat besluit gelijkgestelde diploma's, met 6 jaar nuttige ervaring. deze nuttige ervaring wordt bij de aanwerving beoordeeld door de directeur van het centrum. Een kopie van de attesten wordt bij de indiensttreding bezorgd aan het werkstation.</p>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:306pt">
+			<p>ten minste LSTO, als vermeld in artikel 7 van het besluit van 14 juni 1989, en de daarmee in dat besluit gelijkgestelde diploma’s, met zes jaar nuttige ervaring. Die nuttige ervaring wordt bij de aanwerving beoordeeld door de directeur van het centrum. Een kopie van de attesten wordt bij de indiensttreding bezorgd aan het werkstation.</p>
 			</td>
 		</tr>
 	</tbody>
@@ -387,107 +649,148 @@ De Vlaamse minister, bevoegd voor het Gezondheidsbeleid, en de Vlaamse minister,
 
 ### Tekst
 
+<p>2.2. ARTS<!--?xml:namespace prefix = o ns =   "urn:schemas-microsoft-com:office:office" /--></p>
+
 <p>&nbsp;</p>
 
-<table border="0" cellpadding="0" cellspacing="0" style="border-collapse:collapse">
+<table border="1" cellpadding="0" cellspacing="0" style="border-collapse:collapse">
 	<tbody>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:#f0f0f0; border-top:windowtext 1pt solid; vertical-align:top; width:47.2pt">
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:41.4pt">
+			<p>&nbsp;</p>
+
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:#f0f0f0; border-top:windowtext 1pt solid; vertical-align:top; width:45.35pt">
-			<p>WS</p>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:45pt">
+			<p>SSC</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:#f0f0f0; border-top:windowtext 1pt solid; vertical-align:top; width:45.4pt">
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:45pt">
 			<p>Code</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:343.9pt">
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:329.2pt">
 			<p>BEKWAAMHEIDSBEWIJZEN</p>
 			</td>
 		</tr>
 		<tr>
-			<td rowspan="2" style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:#f0f0f0; border-top:windowtext 1pt solid; vertical-align:top; width:47.2pt">
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:41.4pt">
+			<p>&nbsp;</p>
+
 			<p>VE</p>
-
-			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:#f0f0f0; border-top:#f0f0f0; vertical-align:top; width:45.35pt">
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:45pt">
+			<p>&nbsp;</p>
+
 			<p>511</p>
-
-			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:#f0f0f0; border-top:windowtext 1pt solid; vertical-align:top; width:45.4pt">
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:45pt">
+			<p>&nbsp;</p>
+
 			<p>1</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:343.9pt">
-			<p><strong><em>Basisdiploma</em></strong><strong>:</strong> diploma van arts of van doctor in de genees-, heel- en verloskunde</p>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:329.2pt">
+			<p><strong>Basisdiploma:</strong></p>
 
-			<p><strong>Aangevuld met een bijkomend diploma</strong>: de academische graad van gediplomeerde in de gespecialiseerde studies van jeugdgezondheidszorg.</p>
+			<p>Diploma van arts of van doctor in de genees-, heel- en verloskunde;</p>
 
-			<p><strong>Gelijkstellingen inzake bijkomende diploma's</strong>:</p>
+			<p><strong>Aangevuld met een bijkomend diploma:</strong></p>
 
-			<p>1) <em>Worden gelijkgesteld met de graad van gediplomeerde in de gespecialiseerd studies van jeugdgezond­heidszorg:</em></p>
+			<p>De academische graad van gediplomeerde in de gespecialiseerde studies van jeugdgezondheidszorg</p>
+
+			<p><strong>&nbsp;</strong></p>
+
+			<p><strong>Gelijkstellingen inzake bijkomende diploma’s:</strong></p>
+
+			<p><u>1) Worden gelijkgesteld met de graad van gediplomeerde in de gespecialiseerde studies van jeugdgezondheidszorg:</u></p>
 
 			<p>1° het diploma van geneesheer-hygiënist, richting schoolhygiëne</p>
 
 			<p>2° het certificaat van geneesheer-hygiënist in de jeugdgezondheidszorg</p>
 
-			<p><em>2) Tijdelijke afwijkingen inzake bijkomend diploma:</em></p>
+			<p>&nbsp;</p>
 
-			<p>Een personeelslid, in het bezit van een diploma van arts, kan het ambt van arts gedurende een periode van maximum 60 maanden tijdelijk uitoefenen zonder in het bezit te zijn van de graad van gediplomeerde in de gespecialiseerde studies van jeugdgezondheidszorg, op voorwaarde dat betrokkene zich inschrijft voor de voortgezette opleiding uiterlijk het academiejaar volgend op zijn eerste aanstelling als arts. De periode van maximum 60 maanden start op 1 september van het schooljaar van de eerste aanstelling.</p>
+			<p><u>2) Tijdelijke afwijkingen inzake bijkomend diploma:</u></p>
 
-			<p><em>3) Overgangsbepalingen inzake het vereist bekwaamheidsbewijs</em>:</p>
+			<p>Een personeelslid, in het bezit van een diploma van arts of van doctor in de genees-, heel- en verloskunde, kan het ambt van arts gedurende een periode van maximum 60 maanden tijdelijk uitoefenen zonder in het bezit te zijn van de graad van gediplomeerde in de gespecialiseerde studies van jeugdgezondheidszorg, op voorwaarde dat betrokkene zich inschrijft voor de voortgezette opleiding uiterlijk het academiejaar volgend op zijn eerste aanstelling als arts. De periode van maximum 60 maanden start op 1 september van het schooljaar van de eerste aanstelling.</p>
+
+			<p>&nbsp;</p>
+
+			<p><u>3) Overgangsbepalingen inzake het vereist bekwaamheidsbewijs:</u></p>
 
 			<p>De bekwaamheidsbewijzen van de volgende personeelsleden worden eveneens gelijkgesteld met de graad van gediplomeerde in de gespecialiseerde studies van jeugdgezondheidszorg:</p>
 
-			<p>a) de personeelsleden die ten persoonlijke titel houder zijn van een specialisatietitel die vóór 1 september 1985 door de minister die de volksgezondheid onder zijn bevoegdheid had, overeenkom­stig het koninklijk besluit van 3 september 1975 houdende wijziging van het koninklijk besluit van 4 augustus 1969 met betrekking tot het verlenen van subsidies aan de erkende equipes voor medisch schooltoezicht als gelijkwaardig erkend is met het post-universitair diploma van schoolhygiënist;</p>
-
-			<p>b) de personeelsleden die op 31 augustus 2000 werkzaam zijn als arts in een PMS- of MST-centrum, ongeacht de aard van hun overeenkomst, en die op 1 september 2000 worden tewerkge­steld in een centrum voor leerlingenbegeleiding, op voorwaarde dat zij sedert 1 september 1985 tenminste gedurende vijf dienstjaren prestaties hebben verricht als arts in een PMS- of MST-centrum.</p>
+			<p>a) de personeelsleden die ten persoonlijke titel houder zijn van een specialisatietitel die vóór 1 september 1985 door de minister die de volksgezondheid onder zijn bevoegdheid had, overeenkomstig het koninklijk besluit van 3 september 1975 houdende wijziging van het koninklijk besluit van 4 augustus 1969 met betrekking tot het verlenen van subsidies aan de erkende equipes voor medisch schooltoezicht als gelijkwaardig erkend is met het post-universitair diploma van schoolhygiënist;</p>
 
 			<p>&nbsp;</p>
+
+			<p>b) de personeelsleden die op 31 augustus 2000 werkzaam zijn als arts in een PMS- of MST-centrum, ongeacht de aard van hun overeenkomst, en die op 1 september 2000 worden tewerkgesteld in een gefinancierd of gesubsidieerd ambt in een centrum voor leerlingenbegeleiding, op voorwaarden dat zij sedert 1 september 1985 ten minste gedurende vijf dienstjaren prestaties hebben verricht als arts in een PMS- of MST-centrum.</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:#f0f0f0; border-top:#f0f0f0; vertical-align:top; width:45.35pt">
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:41.4pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:45pt">
 			<p>276</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:#f0f0f0; border-top:windowtext 1pt solid; vertical-align:top; width:45.4pt">
-			<p>&nbsp;</p>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:45pt">
+			<p>1</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:343.9pt">
-			<p><strong><u>Overgangsbepalingen inzake bijkomend diploma:</u></strong></p>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:329.2pt">
+			<p><strong>Overgangsbepalingen inzake bijkomend diploma</strong></p>
 
-			<p>artsen die op 31 augustus 2000 werkzaam waren in een PMS-centrum of in en gesubsidieerde equipe voor medisch schooltoezicht en die niet in het bezit zijn van de graad van gediplomeerde in de gespecialiseerde studies van jeugdgezondheidszorg of een hiermee gelijkgesteld bekwaamheidsbe­wijs.</p>
+			<p>artsen die op 31 augustus 2000 werkzaam waren in een PMS-centrum of in een gesubsidieerde equipe voor medisch schooltoezicht en die niet in het bezit zijn van de graad van gediplomeerde in de gespecialiseerde studies van jeugdgezondheidszorg of een hiermee gelijkgesteld bekwaamheidsbewijs</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:#f0f0f0; border-top:windowtext 1pt solid; vertical-align:top; width:47.2pt">
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:41.4pt">
+			<p>&nbsp;</p>
+
 			<p>VO</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:#f0f0f0; border-top:#f0f0f0; vertical-align:top; width:45.35pt">
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:45pt">
+			<p>&nbsp;</p>
+
 			<p>511</p>
+
+			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:#f0f0f0; border-top:windowtext 1pt solid; vertical-align:top; width:45.4pt">
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:45pt">
+			<p>&nbsp;</p>
+
 			<p>2</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:343.9pt">
-			<p><strong>Basisdiploma:</strong> diploma van arts of van doctor in de genees-, heel- en verloskunde.</p>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:329.2pt">
+			<p><strong>Basisdiploma:</strong></p>
 
-			<p><strong>Aangevuld met bijkomend diploma<u>:</u></strong> de academische graad van gediplomeerde in de gespecialiseer­de studies geneesheer-hygiënist.</p>
+			<p>Diploma van arts of van doctor in de genees-, heel- en verloskunde.</p>
+
+			<p>&nbsp;</p>
+
+			<p><strong>Aangevuld met een bijkomend diploma:</strong></p>
+
+			<p>De academische graad van gediplomeerde in de gespecialiseerde studies geneesheer-hygiënist.</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:#f0f0f0; border-top:windowtext 1pt solid; vertical-align:top; width:47.2pt">
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:41.4pt">
+			<p>&nbsp;</p>
+
 			<p>AN</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:#f0f0f0; border-top:windowtext 1pt solid; vertical-align:top; width:45.35pt">
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:45pt">
+			<p>&nbsp;</p>
+
 			<p>501</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:#f0f0f0; border-top:windowtext 1pt solid; vertical-align:top; width:45.4pt">
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:45pt">
+			<p>&nbsp;</p>
+
 			<p>2</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:343.9pt">
-			<p><strong>Basisdiploma<u>:</u></strong> diploma van arts of van doctor in de genees-, heel- en verloskunde.</p>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:329.2pt">
+			<p><strong>Basisdiploma:</strong></p>
+
+			<p>Diploma van arts of van doctor in de genees-, heel- en verloskunde.</p>
 			</td>
 		</tr>
 	</tbody>
@@ -501,84 +804,142 @@ De Vlaamse minister, bevoegd voor het Gezondheidsbeleid, en de Vlaamse minister,
 
 ### Tekst
 
-<table border="0" cellpadding="0" cellspacing="0" style="border-collapse:collapse">
+<p>2.3. CONSULENT<!--?xml:namespace prefix = o ns =   "urn:schemas-microsoft-com:office:office" /--></p>
+
+<table border="1" cellpadding="0" cellspacing="0" style="border-collapse:collapse">
 	<tbody>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:#f0f0f0; border-top:windowtext 1pt solid; vertical-align:top; width:47.2pt">
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:50.4pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:#f0f0f0; border-top:windowtext 1pt solid; vertical-align:top; width:45.35pt">
-			<p>WS</p>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:54pt">
+			<p>SSC</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:#f0f0f0; border-top:windowtext 1pt solid; vertical-align:top; width:45.4pt">
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:54pt">
 			<p>Code</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:343.9pt">
-			<p>BEKWAAMHEIDSBEWIJZEN</p>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:302.2pt">
+			<p>BEWKAAMHEIDSBEWIJZEN</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:#f0f0f0; border-top:windowtext 1pt solid; vertical-align:top; width:47.2pt">
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:50.4pt">
+			<p>&nbsp;</p>
+
+			<p>VE</p>
+
 			<p>VE</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:#f0f0f0; border-top:windowtext 1pt solid; vertical-align:top; width:45.35pt">
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:54pt">
+			<p>&nbsp;</p>
+
+			<p>501</p>
+
 			<p>501</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:#f0f0f0; border-top:windowtext 1pt solid; vertical-align:top; width:45.4pt">
-			<p>1</p>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:54pt">
+			<p>&nbsp;</p>
+
+			<p>5</p>
+
+			<p>4</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:343.9pt">
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:302.2pt">
 			<p><strong>Basisdiploma:</strong></p>
 
-			<p>- de diploma's van arts, tandarts, dierenarts, doctor, ingenieur, apotheker of licentiaat, uitgereikt overeenkomstig de wetgeving op de academische graden;</p>
+			<p>- ten minste HOLT;</p>
 
-			<p>- de andere diploma's van arts, tandarts, dierenarts, doctor, ingenieur, apotheker of licentiaat, uitgereikt door een Belgische universiteit of een daarmee gelijkgestelde instelling, door een door de wet of door het decreet daartoe gemachtigde instelling of door een door de Staat of de Gemeenschap opgerichte examencom­missie, indien de duur van de studiën ten minste vier jaar bedraagt, zelfs als een gedeelte van de studiên niet in een van een voormelde onderwijsinstellingen werd volbracht;</p>
-
-			<p>- het diploma van hoger technisch onderwijs van de derde graad;</p>
-
-			<p>- het diploma van hoger kunstonderwijs van de derde graad met volledig leerplan;</p>
-
-			<p>- het diploma van voortgezet hoger kunstonderwijs met volledig leerplan;</p>
-
-			<p>- het diploma van hoger kunstonderwijs met volledig leerplan, uitgereikt na een cyclus van ten minste vijf studiejaren;</p>
-
-			<p>- het laureaatattest van het Nationaal Hoger Instituut van Antwerpen, verleend na een cyclus van ten minste vijf studiejaren;</p>
-
-			<p>- de prijs Lemmens-Tinel, uitgereikt door het Lemmensinstituut te Leuven;</p>
-
-			<p>- het diploma van meester, uitgereikt overeenkomstig de regelgeving op het hoger onderwijs;</p>
-
-			<p>- het diploma van de officieren die vóór 1 januari 1965 met vrucht hun studiën hebben volbracht aan de Oefenschool bij de Koninklijke Militaire School of aan de polytechnische afdeling van die school;</p>
-
-			<p>- het diploma van architect, interieurarchitect of van industrieel ingenieur.</p>
+			<p>- ten minste master, als vermeld in artikel 7 van het besluit van 14 juni 1989.</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:#f0f0f0; border-top:windowtext 1pt solid; vertical-align:top; width:47.2pt">
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:50.4pt">
+			<p>&nbsp;</p>
+
+			<p>VO</p>
+
+			<p>VO</p>
+
+			<p>&nbsp;</p>
+
+			<p>VO</p>
+
+			<p>VO</p>
+
 			<p>VO</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:#f0f0f0; border-top:windowtext 1pt solid; vertical-align:top; width:45.35pt">
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:54pt">
+			<p>&nbsp;</p>
+
+			<p>333</p>
+
+			<p>333</p>
+
+			<p>&nbsp;</p>
+
+			<p>333</p>
+
+			<p>333</p>
+
 			<p>333</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:#f0f0f0; border-top:windowtext 1pt solid; vertical-align:top; width:45.4pt">
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:54pt">
+			<p>&nbsp;</p>
+
 			<p>2</p>
+
+			<p>3</p>
+
+			<p>&nbsp;</p>
+
+			<p>3</p>
+
+			<p>3</p>
+
+			<p>3</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:343.9pt">
-			<p><strong>Basisdiploma:</strong> tenminste HOKTVL, zoals bedoeld in artikel 7 van het besluit van 14 juni 1989, en de daarmee in dat besluit gelijkgestelde diploma's</p>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:302.2pt">
+			<p><strong>Basisdiploma:</strong></p>
+
+			<p>- ten minste HOKTVL;</p>
+
+			<p>- het diploma van professioneel gerichte bachelor, als vermeld in artikel 6, punt 34<em>bis</em> van het besluit van 14 juni 1989;</p>
+
+			<p>- het diploma van bachelor in het onderwijs: kleuteronderwijs;</p>
+
+			<p>- het diploma van bachelor in het onderwijs: lager onderwijs;</p>
+
+			<p>- het diploma van bachelor in het onderwijs: secundair onderwijs.</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:#f0f0f0; border-top:windowtext 1pt solid; vertical-align:top; width:47.2pt">
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:50.4pt">
+			<p>&nbsp;</p>
+
+			<p>AN</p>
+
 			<p>AN</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:#f0f0f0; border-top:windowtext 1pt solid; vertical-align:top; width:45.35pt">
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:54pt">
+			<p>&nbsp;</p>
+
+			<p>300</p>
+
 			<p>300</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:#f0f0f0; border-top:windowtext 1pt solid; vertical-align:top; width:45.4pt">
-			<p>2</p>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:54pt">
+			<p>&nbsp;</p>
+
+			<p>5</p>
+
+			<p>4</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:343.9pt">
-			<p><strong>Basisdiploma:</strong> tenminste HOKT, zoals bedoeld in artikel 7 van het besluit van 14 juni 1989, en de daarmee in dat besluit gelijkgestelde diploma's.</p>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:302.2pt">
+			<p><strong>Basisdiploma:</strong></p>
+
+			<p>Ten minste HOKT;</p>
+
+			<p>Ten minste PBA, als vermeld in artikel 7 van het besluit van 14 juni 1989.</p>
 			</td>
 		</tr>
 	</tbody>
@@ -592,86 +953,192 @@ De Vlaamse minister, bevoegd voor het Gezondheidsbeleid, en de Vlaamse minister,
 
 ### Tekst
 
-<table border="0" cellpadding="0" cellspacing="0" style="border-collapse:collapse">
+<p>2.4. PSYCHOPEDAGOGISCH CONSULENT<!--?xml:namespace prefix = o ns =   "urn:schemas-microsoft-com:office:office" /--></p>
+
+<table border="1" cellpadding="0" cellspacing="0" style="border-collapse:collapse">
 	<tbody>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:#f0f0f0; border-top:windowtext 1pt solid; vertical-align:top; width:47.2pt">
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:50.4pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:#f0f0f0; border-top:windowtext 1pt solid; vertical-align:top; width:45.35pt">
-			<p>WS</p>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:54pt">
+			<p>SSC</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:#f0f0f0; border-top:windowtext 1pt solid; vertical-align:top; width:45.4pt">
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:54pt">
 			<p>Code</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:343.9pt">
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:302.2pt">
 			<p>BEKWAAMHEIDSBEWIJZEN</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:#f0f0f0; border-top:windowtext 1pt solid; vertical-align:top; width:47.2pt">
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:50.4pt">
+			<p>&nbsp;</p>
+
+			<p>VE</p>
+
+			<p>VE</p>
+
+			<p>VE</p>
+
+			<p>VE</p>
+
+			<p>VE</p>
+
+			<p>VE</p>
+
+			<p>VE</p>
+
+			<p>VE</p>
+
+			<p>VE</p>
+
+			<p>VE</p>
+
+			<p>VE</p>
+
 			<p>VE</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:#f0f0f0; border-top:windowtext 1pt solid; vertical-align:top; width:45.35pt">
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:54pt">
+			<p>&nbsp;</p>
+
+			<p>501</p>
+
+			<p>501</p>
+
+			<p>501</p>
+
+			<p>501</p>
+
+			<p>501</p>
+
+			<p>501</p>
+
+			<p>501</p>
+
+			<p>501</p>
+
+			<p>501</p>
+
+			<p>501</p>
+
+			<p>501</p>
+
 			<p>501</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:#f0f0f0; border-top:windowtext 1pt solid; vertical-align:top; width:45.4pt">
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:54pt">
+			<p>&nbsp;</p>
+
+			<p>1</p>
+
+			<p>1</p>
+
+			<p>1</p>
+
+			<p>1</p>
+
+			<p>1</p>
+
+			<p>1</p>
+
+			<p>1</p>
+
+			<p>1</p>
+
+			<p>1</p>
+
+			<p>1</p>
+
+			<p>1</p>
+
 			<p>1</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:343.9pt">
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:302.2pt">
 			<p><strong>Basisdiploma:</strong></p>
 
-			<p>- licentiaat in de beroepsoriëntering en selectie;</p>
+			<p>- Licentiaat in de beroepsoriëntering en selectie;</p>
 
-			<p>- licentiaat in de klinische psychologie;</p>
+			<p>- Licentiaat in de klinische psychologie;</p>
 
-			<p>- licentiaat in de opvoedingswetenschappen;</p>
+			<p>- Licentiaat in de opvoedingswetenschappen;</p>
 
-			<p>- licentiaat in de opvoedkundige wetenschappen;</p>
+			<p>- Licentiaat in de opvoedkundige wetenschappen;</p>
 
-			<p>- licentiaat in de pedagogische wetenschappen;</p>
+			<p>- Licentiaat in de pedagogische wetenschappen;</p>
 
-			<p>- licentiaat in de psychologie;</p>
+			<p>- Licentiaat in de psychologie;</p>
 
-			<p>- licentiaat in de psychologische wetenschappen;</p>
+			<p>- Licentiaat in de psychologische wetenschappen;</p>
 
-			<p>- licentiaat in de psychologische en pedagogische wetenschappen;</p>
+			<p>- Licentiaat in de psychologische en pedagogische wetenschappen;</p>
 
-			<p>- licentiaat in de psycho-pedagogische wetenschappen;</p>
+			<p>- Licentiaat in de psychopedagogische wetenschappen;</p>
 
-			<p>- licentiaat in de sociale en culturele agogiek;</p>
+			<p>- Licentiaat in de sociale en culturele agogiek;</p>
 
-			<p>- licentiaat in de toegepaste psychologie;</p>
+			<p>- Licentiaat in de toegepaste psychologie;</p>
 
-			<p>- licentiaat in de bedrijfs- en experimentele psychologie.</p>
+			<p>- Licentiaat in de bedrijfs- en experimentele psychologie.</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:#f0f0f0; border-top:windowtext 1pt solid; vertical-align:top; width:47.2pt">
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:50.4pt">
+			<p>&nbsp;</p>
+
+			<p>VO</p>
+
 			<p>VO</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:#f0f0f0; border-top:windowtext 1pt solid; vertical-align:top; width:45.35pt">
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:54pt">
+			<p>&nbsp;</p>
+
+			<p>333</p>
+
 			<p>333</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:#f0f0f0; border-top:windowtext 1pt solid; vertical-align:top; width:45.4pt">
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:54pt">
+			<p>&nbsp;</p>
+
 			<p>2</p>
+
+			<p>3</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:343.9pt">
-			<p><strong>Basisdiploma:</strong> tenminste HOKTVL zoals bedoeld in artikel 7 van het besluit van 14 juni 1989, en de daarmee in dat besluit gelijkgestelde diploma's, waarvoor de graad van assistent in de psychologie wordt verleend.</p>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:302.2pt">
+			<p><strong>Basisdiploma:</strong></p>
+
+			<p>- HOKT(VL) assistent in de psychologie;</p>
+
+			<p>- Bachelor (PBA) toegepaste psychologie.</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:#f0f0f0; border-top:windowtext 1pt solid; vertical-align:top; width:47.2pt">
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:50.4pt">
+			<p>&nbsp;</p>
+
+			<p>AN</p>
+
 			<p>AN</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:#f0f0f0; border-top:windowtext 1pt solid; vertical-align:top; width:45.35pt">
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:54pt">
+			<p>&nbsp;</p>
+
+			<p>300</p>
+
 			<p>300</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:#f0f0f0; border-top:windowtext 1pt solid; vertical-align:top; width:45.4pt">
-			<p>2</p>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:54pt">
+			<p>&nbsp;</p>
+
+			<p>6</p>
+
+			<p>4</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:343.9pt">
-			<p>Basisdiploma: tenminste HOLT zoals bedoeld in artikel 7 van het besluit van 14 juni 1989, en de daarmee in dat besluit gelijkgestelde diploma's.</p>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:302.2pt">
+			<p><strong>Basisdiploma:</strong></p>
+
+			<p>- Ten minste HOLT.</p>
+
+			<p>- Ten minste master, als vermeld in artikel 7 van het besluit van 14 juni 1989.</p>
 			</td>
 		</tr>
 	</tbody>
@@ -685,74 +1152,230 @@ De Vlaamse minister, bevoegd voor het Gezondheidsbeleid, en de Vlaamse minister,
 
 ### Tekst
 
-<table border="0" cellpadding="0" cellspacing="0" style="border-collapse:collapse">
+<table border="1" cellpadding="0" cellspacing="0" style="border-collapse:collapse; width:427.65pt">
 	<tbody>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:#f0f0f0; border-top:windowtext 1pt solid; vertical-align:top; width:47.2pt">
-			<p>&nbsp;</p>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; height:11.35pt; width:49.5pt">
+			<p><!--?xml:namespace         prefix = o ns = "urn:schemas-microsoft-com:office:office"         /-->&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:#f0f0f0; border-top:windowtext 1pt solid; vertical-align:top; width:45.35pt">
-			<p>WS</p>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; height:11.35pt; width:49.25pt">
+			<p>SSC</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:#f0f0f0; border-top:windowtext 1pt solid; vertical-align:top; width:45.4pt">
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; height:11.35pt; width:49.45pt">
 			<p>Code</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:343.9pt">
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; height:11.35pt; width:279.45pt">
 			<p>BEKWAAMHEIDSBEWIJZEN</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:#f0f0f0; border-top:windowtext 1pt solid; vertical-align:top; width:47.2pt">
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; width:49.5pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; width:49.25pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; width:49.45pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; width:279.45pt">
+			<p><strong>Basisdiploma:</strong></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:49.5pt">
 			<p>VE</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:#f0f0f0; border-top:windowtext 1pt solid; vertical-align:top; width:45.35pt">
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:49.25pt">
 			<p>333</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:#f0f0f0; border-top:windowtext 1pt solid; vertical-align:top; width:45.4pt">
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:49.45pt">
 			<p>1</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:343.9pt">
-			<p><strong>Basisdiploma:</strong></p>
-
-			<p>- Een diploma van de basisopleiding sociaal werk van het hoger onderwijs van één cyclus van het studiegebied sociaal-agogisch werk, waarvoor de graad van maatschappelijk assistent wordt verleend;</p>
-
-			<p>- een diploma of getuigschrift van het hoger onderwijs van het korte type met volledig leerplan of van een hogere technische school van de eerste graad waarvoor de graad van maatschappelijk assistent of maatschappelijk adviseur werd verleend.</p>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:279.45pt">
+			<p>- een diploma van de basisopleiding sociaal werk van het hoger onderwijs van één cyclus van het studiegebied sociaalagogisch werk, waarvoor de graad van maatschappelijk assistent wordt verleend;</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:#f0f0f0; border-top:windowtext 1pt solid; vertical-align:top; width:47.2pt">
-			<p>VO</p>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:49.5pt">
+			<p>VE</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:#f0f0f0; border-top:windowtext 1pt solid; vertical-align:top; width:45.35pt">
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:49.25pt">
 			<p>333</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:#f0f0f0; border-top:windowtext 1pt solid; vertical-align:top; width:45.4pt">
-			<p>2</p>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:49.45pt">
+			<p>1</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:343.9pt">
-			<p><strong>Basisdiploma:</strong></p>
-
-			<p>- ten minste HOKT, zoals bedoeld in artikel 7 van het besluit van 14 juni, en de daarmee in dat besluit gelijkgestelde diploma's, in de opleiding maatschappelijk werk;</p>
-
-			<p>- licentiaat sociologie;</p>
-
-			<p>- licentiaat criminologie;</p>
-
-			<p>- licentiaat in de criminologische wetenschappen.&nbsp;</p>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:279.45pt">
+			<p>- een diploma of getuigschrift van het hoger onderwijs van het korte type met volledig leerplan of van een hogere technische school van de eerste graad waarvoor de graad van maatschappelijk assistent of maatschappelijk adviseur werd verleend;</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:#f0f0f0; border-top:windowtext 1pt solid; vertical-align:top; width:47.2pt">
-			<p>AN</p>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; width:49.5pt">
+			<p>VE</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:#f0f0f0; border-top:windowtext 1pt solid; vertical-align:top; width:45.35pt">
-			<p>300</p>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; width:49.25pt">
+			<p>333</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:#f0f0f0; border-top:windowtext 1pt solid; vertical-align:top; width:45.4pt">
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; width:49.45pt">
+			<p>3</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; width:279.45pt">
+			<p>- bachelor (PBA) maatschappelijke veiligheid;</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:49.5pt">
+			<p>VE</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:49.25pt">
+			<p>333</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:49.45pt">
+			<p>3</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:279.45pt">
+			<p>- bachelor (PBA) sociaal werk.</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:49.5pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:49.25pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:49.45pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; width:279.45pt">
+			<p><strong>Basisdiploma: </strong></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; width:49.5pt">
+			<p>VO</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; width:49.25pt">
+			<p>333</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; width:49.45pt">
+			<p>6</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; width:279.45pt">
+			<p>- ten minste HOKT in de opleiding maatschappelijk werk;</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; width:49.5pt">
+			<p>VO</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; width:49.25pt">
+			<p>333</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; width:49.45pt">
 			<p>2</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:343.9pt">
-			<p><strong>Basisdiploma:</strong> tenminste HOKT, zoals bedoeld in artikel 7 van het besluit van 14 juni 1989, en de daarmee in dat besluit gelijkgestelde diploma's.</p>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; width:279.45pt">
+			<p>- licentiaat sociologie;</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; width:49.5pt">
+			<p>VO</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; width:49.25pt">
+			<p>333</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; width:49.45pt">
+			<p>2</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; width:279.45pt">
+			<p>- licentiaat criminologie;</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; width:49.5pt">
+			<p>VO</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; width:49.25pt">
+			<p>333</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; width:49.45pt">
+			<p>2</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; width:279.45pt">
+			<p>- licentiaat in de criminologische wetenschappen;</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; width:49.5pt">
+			<p>VO</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; width:49.25pt">
+			<p>333</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; width:49.45pt">
+			<p>4</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; width:279.45pt">
+			<p>- master in het sociaal werk;</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:49.5pt">
+			<p>VO</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:49.25pt">
+			<p>333</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:49.45pt">
+			<p>4</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:279.45pt">
+			<p>- ten minste PBA, als vermeld in artikel 7 van het besluit van 14 juni 1989, in de opleiding maatschappelijk werk;</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:49.5pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:49.25pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:49.45pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; width:279.45pt">
+			<p><strong>Basisdiploma: </strong></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; width:49.5pt">
+			<p>AN</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; width:49.25pt">
+			<p>300</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; width:49.45pt">
+			<p>6</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; width:279.45pt">
+			<p>- ten minste HOKT;</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; width:49.5pt">
+			<p>AN</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; width:49.25pt">
+			<p>300</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; width:49.45pt">
+			<p>4</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; width:279.45pt">
+			<p>- ten minste PBA, als vermeld in artikel 7 van het besluit van 14 juni 1989.</p>
 			</td>
 		</tr>
 	</tbody>
@@ -766,98 +1389,412 @@ De Vlaamse minister, bevoegd voor het Gezondheidsbeleid, en de Vlaamse minister,
 
 ### Tekst
 
-<table border="0" cellpadding="0" cellspacing="0" style="border-collapse:collapse">
+<table border="0" cellpadding="0" cellspacing="0" style="border-collapse:collapse; width:425.6pt">
 	<tbody>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:#f0f0f0; border-top:windowtext 1pt solid; vertical-align:top; width:47.2pt">
-			<p>&nbsp;</p>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:black 1pt solid; border-right:black 1pt solid; border-top:black 1pt solid; height:11.35pt; vertical-align:top; width:47.6pt">
+			<p><!--?xml:namespace         prefix = o ns = "urn:schemas-microsoft-com:office:office"         /-->&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:#f0f0f0; border-top:windowtext 1pt solid; vertical-align:top; width:45.35pt">
-			<p>WS</p>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:black 1pt solid; height:11.35pt; width:48pt">
+			<p>SSC</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:#f0f0f0; border-top:windowtext 1pt solid; vertical-align:top; width:45.4pt">
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:black 1pt solid; height:11.35pt; width:48.2pt">
 			<p>Code</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:343.9pt">
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:black 1pt solid; height:11.35pt; width:276pt">
 			<p>BEKWAAMHEIDSBEWIJZEN</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:#f0f0f0; border-top:windowtext 1pt solid; vertical-align:top; width:47.2pt">
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:black 1pt solid; border-right:black 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:47.6pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:48pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:48.2pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:11.35pt; width:276pt">
+			<p><strong>Basisdiploma : </strong></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:black 1pt solid; border-right:black 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:47.6pt">
 			<p>VE</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:#f0f0f0; border-top:windowtext 1pt solid; vertical-align:top; width:45.35pt">
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:48pt">
 			<p>333</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:#f0f0f0; border-top:windowtext 1pt solid; vertical-align:top; width:45.4pt">
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:48.2pt">
 			<p>1</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:343.9pt">
-			<p><strong>Basisdiploma:</strong></p>
-
-			<p>- een diploma van de basisopleiding sociaal werk van het hoger onderwijs van één cyclus van het studiegebied sociaal-agogisch werk, waarvoor de graad van assistent in de psychologie wordt verleend;</p>
-
-			<p>- een diploma of getuigschrift van het sociaal hoger onderwijs van het korte type met volledig leerplan of van een hogere technische school van de eerste graad waarvoor de graad van assistent in de psychologie werd verleend;</p>
-
-			<p>- een diploma van de basisopleiding orthopedagogie van het hoger onderwijs van één cyclus van het studiegebied sociaal-agogisch werk, waarvoor de graad van gegradueerde in orthopedagogie wordt verleend;</p>
-
-			<p>- een diploma of getuigschrift van het sociaal hoger onderwijs van het korte type met volledig leerplan of van een hogere technische school van de eerste graad, opleiding of afdeling orthopedagogie;</p>
-
-			<p>- het diploma van het pedagogisch hoger onderwijs van het korte type met volledig leerplan;</p>
-
-			<p>- het diploma van onderwijzer(es);</p>
-
-			<p>- het diploma van kleuteronderwijzer(es);</p>
-
-			<p>- het diploma van geaggregeerde voor het lager secundair onderwijs of het diploma van regent(es);</p>
-
-			<p>- het diploma van geaggregeerde voor het middelbaar en technisch onderwijs van de lagere graad;</p>
-
-			<p>- het diploma van een basisopleiding in één cyclus van het studiegebied onderwijs;</p>
-
-			<p>- het diploma van geaggregeerde voor het secundair onderwijs-groep 1;</p>
-
-			<p>- het diploma van geaggregeerde voor het secundair onderwijs-groep 1 samen met het diploma van de voortgezette lerarenopleiding voor de bijkomende uitdieping van een opleidingseenheid.</p>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:11.35pt; width:276pt">
+			<p>- een diploma van de basisopleiding sociaal werk van het hoger onderwijs van één cyclus van het studiegebied sociaalagogisch werk, waarvoor de graad van assistent in de psychologie wordt verleend;</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:#f0f0f0; border-top:windowtext 1pt solid; vertical-align:top; width:47.2pt">
-			<p>VO</p>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:black 1pt solid; border-right:black 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:47.6pt">
+			<p>VE</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:#f0f0f0; border-top:windowtext 1pt solid; vertical-align:top; width:45.35pt">
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:48pt">
 			<p>333</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:#f0f0f0; border-top:windowtext 1pt solid; vertical-align:top; width:45.4pt">
-			<p>2</p>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:48.2pt">
+			<p>1</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:343.9pt">
-			<p><strong>Basisdiploma:</strong></p>
-
-			<p>- tenminste HOKTVL + GPB, zoals bedoeld in artikel 7 van het besluit van 14 juni 1989, en de daarmee in dat besluit gelijkgestelde diploma's;</p>
-
-			<p>- gegradueerde in de orthopedagogie (hoger onderwijs van het korte type voor sociale promotie);</p>
-
-			<p>- gegradueerde in de gezinswetenschappen (hoger onderwijs van het korte type voor sociale promotie);</p>
-
-			<p>- gegradueerde in de sociale readaptatiewetenschappen (hoger onderwijs van het korte type voor sociale promotie);</p>
-
-			<p>- gegradueerde assistent in de psychologie (hoger onderwijs van het korte type voor sociale promotie);</p>
-
-			<p>- een van de vereiste bekwaamheidsbewijzen voor psycho-pedagogisch consulent.</p>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:11.35pt; width:276pt">
+			<p>- een diploma of getuigschrift van het sociaal hoger onderwijs van het korte type met volledig leerplan of van een hogere technische school van de eerste graad, waarvoor de graad van assistent in de psychologie werd verleend;</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:#f0f0f0; border-top:windowtext 1pt solid; vertical-align:top; width:47.2pt">
-			<p>AN</p>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:black 1pt solid; border-right:black 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:47.6pt">
+			<p>VE</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:#f0f0f0; border-top:windowtext 1pt solid; vertical-align:top; width:45.35pt">
-			<p>300</p>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:48pt">
+			<p>333</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:#f0f0f0; border-top:windowtext 1pt solid; vertical-align:top; width:45.4pt">
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:48.2pt">
+			<p>1</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:11.35pt; width:276pt">
+			<p>- een diploma van de basisopleiding orthopedagogie van het hoger onderwijs van één cyclus van het studiegebied sociaalagogisch werk, waarvoor de graad van gegradueerde in orthopedagogie wordt verleend;</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:black 1pt solid; border-right:black 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:47.6pt">
+			<p>VE</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:48pt">
+			<p>333</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:48.2pt">
+			<p>1</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:11.35pt; width:276pt">
+			<p>- een diploma of getuigschrift van het sociaal hoger onderwijs van het korte type met volledig leerplan of van een hogere technische school van de eerste graad, opleiding of afdeling orthopedagogie;</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:black 1pt solid; border-right:black 1pt solid; border-top:#f0f0f0; height:11.35pt; width:47.6pt">
+			<p>VE</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:11.35pt; width:48pt">
+			<p>333</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:11.35pt; width:48.2pt">
+			<p>1</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:11.35pt; width:276pt">
+			<p>- het diploma van onderwijzer(es);</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:black 1pt solid; border-right:black 1pt solid; border-top:#f0f0f0; height:11.35pt; width:47.6pt">
+			<p>VE</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:11.35pt; width:48pt">
+			<p>333</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:11.35pt; width:48.2pt">
+			<p>1</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:11.35pt; width:276pt">
+			<p>- het diploma van kleuteronderwijzer(es);</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:black 1pt solid; border-right:black 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:47.6pt">
+			<p>VE</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:48pt">
+			<p>333</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:48.2pt">
+			<p>1</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:11.35pt; width:276pt">
+			<p>- het diploma van geaggregeerde voor het lager secundair onderwijs of het diploma van regent(es);</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:black 1pt solid; border-right:black 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:47.6pt">
+			<p>VE</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:48pt">
+			<p>333</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:48.2pt">
+			<p>1</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:11.35pt; width:276pt">
+			<p>- het diploma van geaggregeerde voor het middelbaar en technisch onderwijs van de lagere graad;</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:black 1pt solid; border-right:black 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:47.6pt">
+			<p>VE</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:48pt">
+			<p>333</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:48.2pt">
+			<p>1</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:11.35pt; width:276pt">
+			<p>- het diploma van een basisopleiding in één cyclus van het studiegebied onderwijs;</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:black 1pt solid; border-right:black 1pt solid; border-top:#f0f0f0; height:11.35pt; width:47.6pt">
+			<p>VE</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:11.35pt; width:48pt">
+			<p>333</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:11.35pt; width:48.2pt">
+			<p>1</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:11.35pt; width:276pt">
+			<p>- het diploma van geaggregeerde voor het secundair onderwijs-groep 1;</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:black 1pt solid; border-right:black 1pt solid; border-top:#f0f0f0; height:11.35pt; width:47.6pt">
+			<p>VE</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:11.35pt; width:48pt">
+			<p>333</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:11.35pt; width:48.2pt">
+			<p>3</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:11.35pt; width:276pt">
+			<p>- bachelor (PBA) orthopedagogie;</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:black 1pt solid; border-right:black 1pt solid; border-top:#f0f0f0; height:11.35pt; width:47.6pt">
+			<p>VE</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:11.35pt; width:48pt">
+			<p>333</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:11.35pt; width:48.2pt">
+			<p>3</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:11.35pt; width:276pt">
+			<p>- bachelor (PBA) toegepaste psychologie;</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:black 1pt solid; border-right:black 1pt solid; border-top:#f0f0f0; height:11.35pt; width:47.6pt">
+			<p>VE</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:11.35pt; width:48pt">
+			<p>333</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:11.35pt; width:48.2pt">
+			<p>3</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:11.35pt; width:276pt">
+			<p>- bachelor in het onderwijs: kleuteronderwijs;</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:black 1pt solid; border-right:black 1pt solid; border-top:#f0f0f0; height:11.35pt; width:47.6pt">
+			<p>VE</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:11.35pt; width:48pt">
+			<p>333</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:11.35pt; width:48.2pt">
+			<p>3</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:11.35pt; width:276pt">
+			<p>- bachelor in het onderwijs: lager onderwijs;</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:black 1pt solid; border-right:black 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:47.6pt">
+			<p>VE</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:48pt">
+			<p>333</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:48.2pt">
+			<p>3</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:276pt">
+			<p>- bachelor in het onderwijs: secundair onderwijs.</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:black 1pt solid; border-right:black 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:47.6pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:48pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:48.2pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:276pt">
+			<p><strong>Basisdiploma:</strong></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:black 1pt solid; border-right:black 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:47.6pt">
+			<p>VO</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:48pt">
+			<p>333</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:48.2pt">
 			<p>2</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:343.9pt">
-			<p><strong>Basisdiploma:</strong> tenminste HOKT, zoals bedoeld in artikel 7 van het besluit van 14 juni 1989, en de daarmee in dat besluit gelijkgestelde diploma's.</p>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:276pt">
+			<p>- gegradueerde in de orthopedagogie (hoger onderwijs van het korte type voor sociale promotie);</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:black 1pt solid; border-right:black 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:47.6pt">
+			<p>VO</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:48pt">
+			<p>333</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:48.2pt">
+			<p>2</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:276pt">
+			<p>- gegradueerde in de gezinswetenschappen (hoger onderwijs van het korte type voor sociale promotie);</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:black 1pt solid; border-right:black 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:47.6pt">
+			<p>VO</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:48pt">
+			<p>333</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:48.2pt">
+			<p>2</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:276pt">
+			<p>- gegradueerde in de sociale readaptatiewetenschappen (hoger onderwijs van het korte type voor sociale promotie);</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:black 1pt solid; border-right:black 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:47.6pt">
+			<p>VO</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:48pt">
+			<p>333</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:48.2pt">
+			<p>2</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:276pt">
+			<p>- gegradueerde assistent in de psychologie (hoger onderwijs van het korte type voor sociale promotie);</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:black 1pt solid; border-right:black 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:47.6pt">
+			<p>VO</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:48pt">
+			<p>333</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:48.2pt">
+			<p>2</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:276pt">
+			<p>- een van de vereiste bekwaamheidsbewijzen voor psychopedagogisch consulent;</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:black 1pt solid; border-right:black 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:47.6pt">
+			<p>VO</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:48pt">
+			<p>333</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:48.2pt">
+			<p>8</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:276pt">
+			<p>- ten minste HOKTVL, als vermeld in artikel 7 van het besluit van 14 juni 1989, en de daarmee in dat besluit gelijkgestelde diploma’s, + BPB;</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:black 1pt solid; border-right:black 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:47.6pt">
+			<p>VO</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:48pt">
+			<p>333</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:48.2pt">
+			<p>3</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:276pt">
+			<p>- het diploma van master, als bepaald in artikel 6, punt 2bis van het besluit van 14 juni 1989 + BPB;</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:black 1pt solid; border-right:black 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:47.6pt">
+			<p>VO</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:48pt">
+			<p>333</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:48.2pt">
+			<p>3</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:276pt">
+			<p>- het diploma van professioneel gerichte bachelor, als bepaald in artikel 6, punt 34bis van het besluit van 14 juni 1989 + BPB.</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:black 1pt solid; border-right:black 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:47.6pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:48pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:48.2pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:276pt">
+			<p><strong>Basisdiploma:</strong></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:black 1pt solid; border-right:black 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:47.6pt">
+			<p>AN</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:48pt">
+			<p>300</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:48.2pt">
+			<p>6</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:276pt">
+			<p>- ten minste HOKT;</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:black 1pt solid; border-right:black 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:47.6pt">
+			<p>AN</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:48pt">
+			<p>300</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:48.2pt">
+			<p>4</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:276pt">
+			<p>- ten minste PBA, als vermeld in artikel 7 van het besluit van 14 juni 1989</p>
 			</td>
 		</tr>
 	</tbody>
@@ -871,112 +1808,468 @@ De Vlaamse minister, bevoegd voor het Gezondheidsbeleid, en de Vlaamse minister,
 
 ### Tekst
 
-<table border="0" cellpadding="0" cellspacing="0" style="border-collapse:collapse">
+<table border="0" cellpadding="0" cellspacing="0" style="border-collapse:collapse; width:419.6pt">
 	<tbody>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:#f0f0f0; border-top:windowtext 1pt solid; vertical-align:top; width:44.1pt">
-			<p>&nbsp;</p>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:black 1pt solid; border-right:black 1pt solid; border-top:black 1pt solid; height:11.35pt; width:47.95pt">
+			<p><!--?xml:namespace         prefix = o ns = "urn:schemas-microsoft-com:office:office"         /-->&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:#f0f0f0; border-top:windowtext 1pt solid; vertical-align:top; width:48.4pt">
-			<p>WS</p>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:black 1pt solid; height:11.35pt; width:47.9pt">
+			<p>SSC</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:#f0f0f0; border-top:windowtext 1pt solid; vertical-align:top; width:45.4pt">
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:black 1pt solid; height:11.35pt; width:47.95pt">
 			<p>Code</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:343.95pt">
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:black 1pt solid; height:11.35pt; width:275.8pt">
 			<p>BEKWAAMHEIDSBEWIJZEN</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:#f0f0f0; border-top:windowtext 1pt solid; vertical-align:top; width:44.1pt">
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:black 1pt solid; border-right:black 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:47.95pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:47.9pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:47.95pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:11.35pt; width:275.8pt">
+			<p><strong>Basisdiploma: </strong></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:black 1pt solid; border-right:black 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:47.95pt">
 			<p>VE</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:#f0f0f0; border-top:windowtext 1pt solid; vertical-align:top; width:48.4pt">
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:47.9pt">
 			<p>333</p>
-
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:47.95pt">
+			<p>1</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:11.35pt; width:275.8pt">
+			<p>- een diploma van een basisopleiding van het hoger onderwijs van één cyclus van het studiegebied gezondheidszorg;</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:black 1pt solid; border-right:black 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:47.95pt">
+			<p>VE</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:47.9pt">
+			<p>333</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:47.95pt">
+			<p>1</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:11.35pt; width:275.8pt">
+			<p>- een diploma van het paramedisch hoger onderwijs van het korte type met volledig leerplan of een paramedische opleiding of afdeling van een hogere technische school van de eerste graad;</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:black 1pt solid; border-right:black 1pt solid; border-top:#f0f0f0; height:11.35pt; width:47.95pt">
+			<p>VE</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:11.35pt; width:47.9pt">
+			<p>333</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:11.35pt; width:47.95pt">
+			<p>3</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:11.35pt; width:275.8pt">
+			<p>- bachelor (PBA) biomedische laboratoriumtechnologie;</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:black 1pt solid; border-right:black 1pt solid; border-top:#f0f0f0; height:11.35pt; width:47.95pt">
+			<p>VE</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:11.35pt; width:47.9pt">
+			<p>333</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:11.35pt; width:47.95pt">
+			<p>3</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:11.35pt; width:275.8pt">
+			<p>- bachelor (PBA) ergotherapie;</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:black 1pt solid; border-right:black 1pt solid; border-top:#f0f0f0; height:11.35pt; width:47.95pt">
+			<p>VE</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:11.35pt; width:47.9pt">
+			<p>333</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:11.35pt; width:47.95pt">
+			<p>3</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:11.35pt; width:275.8pt">
+			<p>- bachelor (PBA) logopedie en audiologie;</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:black 1pt solid; border-right:black 1pt solid; border-top:#f0f0f0; height:11.35pt; width:47.95pt">
+			<p>VE</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:11.35pt; width:47.9pt">
+			<p>333</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:11.35pt; width:47.95pt">
+			<p>3</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:11.35pt; width:275.8pt">
+			<p>- bachelor (PBA) medische beeldvorming;</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:black 1pt solid; border-right:black 1pt solid; border-top:#f0f0f0; height:11.35pt; width:47.95pt">
+			<p>VE</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:11.35pt; width:47.9pt">
+			<p>333</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:11.35pt; width:47.95pt">
+			<p>3</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:11.35pt; width:275.8pt">
+			<p>- bachelor (PBA) optiek en optometrie;</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:black 1pt solid; border-right:black 1pt solid; border-top:#f0f0f0; height:11.35pt; width:47.95pt">
+			<p>VE</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:11.35pt; width:47.9pt">
+			<p>333</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:11.35pt; width:47.95pt">
+			<p>3</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:11.35pt; width:275.8pt">
+			<p>- bachelor (PBA) orthopedie;</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:black 1pt solid; border-right:black 1pt solid; border-top:#f0f0f0; height:11.35pt; width:47.95pt">
+			<p>VE</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:11.35pt; width:47.9pt">
+			<p>333</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:11.35pt; width:47.95pt">
+			<p>3</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:11.35pt; width:275.8pt">
+			<p>- bachelor (PBA) podologie;</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:black 1pt solid; border-right:black 1pt solid; border-top:#f0f0f0; height:11.35pt; width:47.95pt">
+			<p>VE</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:11.35pt; width:47.9pt">
+			<p>333</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:11.35pt; width:47.95pt">
+			<p>3</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:11.35pt; width:275.8pt">
+			<p>- bachelor (PBA) verpleegkunde;</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:black 1pt solid; border-right:black 1pt solid; border-top:#f0f0f0; height:11.35pt; width:47.95pt">
+			<p>VE</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:11.35pt; width:47.9pt">
+			<p>333</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:11.35pt; width:47.95pt">
+			<p>3</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:11.35pt; width:275.8pt">
+			<p>- bachelor (PBA) voedings-en dieetkunde;</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:black 1pt solid; border-right:black 1pt solid; border-top:#f0f0f0; height:11.35pt; width:47.95pt">
+			<p>VE</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:11.35pt; width:47.9pt">
+			<p>333</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:11.35pt; width:47.95pt">
+			<p>3</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:11.35pt; width:275.8pt">
+			<p>- bachelor (PBA) vroedkunde.</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:black 1pt solid; border-right:black 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:47.95pt">
 			<p>&nbsp;</p>
-
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:47.9pt">
 			<p>&nbsp;</p>
-
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:47.95pt">
 			<p>&nbsp;</p>
-
-			<p>&nbsp;</p>
-
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:11.35pt; width:275.8pt">
+			<p><strong>Overgangsbepaling inzake basisdiploma: </strong></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:black 1pt solid; border-right:black 1pt solid; border-top:#f0f0f0; height:63pt; vertical-align:top; width:47.95pt">
+			<p>VE</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:63pt; vertical-align:top; width:47.9pt">
 			<p>277</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:#f0f0f0; border-top:windowtext 1pt solid; vertical-align:top; width:45.4pt">
-			<p>1</p>
-
-			<p>&nbsp;</p>
-
-			<p>&nbsp;</p>
-
-			<p>&nbsp;</p>
-
-			<p>&nbsp;</p>
-
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:63pt; vertical-align:top; width:47.95pt">
 			<p>1</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:343.95pt">
-			<p><strong>Basisdiploma</strong></p>
-
-			<p>- een diploma van een basisopleiding van het hoger onderwijs van één cyclus van het studiegebied gezondheidszorg;</p>
-
-			<p>- een diploma van het paramedisch hoger onderwijs van het korte type met volledig leerplan of een paramedische opleiding of afdeling van een hogere technische school van de eerste graad.</p>
-
-			<p><strong><u>&nbsp;</u></strong></p>
-
-			<p><strong>Overgangsbepaling inzake basisdiploma:</strong></p>
-
-			<p>- paramedisch werker in dienst na 1 april 1965 bij een gesubsidieerde equipe voor medisch schooltoezicht en op 1 september 2000 overgedragen naar een centrum voor lerrlingenbegeleiding, niet in het bezit van een diploma van een opleiding van het hoger onderwijs van één cyclus van het studiegebied gezondheids­zorg of een hiermee gelijkgesteld bekwaamheidsbewijs</p>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:63pt; vertical-align:top; width:275.8pt">
+			<p>- paramedisch werker in dienst na 1 april 1965 bij een gesubsidieerde equipe voor medisch schooltoezicht en op 1 september 2000 overgedragen naar een centrum voor leerlingenbegeleiding, niet in het bezit van een diploma van een opleiding van het hoger onderwijs van één cyclus van het studiegebied gezondheidszorg of een hiermee gelijkgesteld bekwaamheidsbewijs</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:#f0f0f0; border-top:windowtext 1pt solid; vertical-align:top; width:44.1pt">
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:black 1pt solid; border-right:black 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:47.95pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:47.9pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:47.95pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:11.35pt; width:275.8pt">
+			<p><strong>Basisdiploma:</strong></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:black 1pt solid; border-right:black 1pt solid; border-top:#f0f0f0; height:11.35pt; width:47.95pt">
 			<p>VO</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:#f0f0f0; border-top:windowtext 1pt solid; vertical-align:top; width:48.4pt">
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:11.35pt; width:47.9pt">
 			<p>333</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:#f0f0f0; border-top:windowtext 1pt solid; vertical-align:top; width:45.4pt">
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:11.35pt; width:47.95pt">
 			<p>2</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:343.95pt">
-			<p><strong>Basisdiploma:</strong></p>
-
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:11.35pt; width:275.8pt">
 			<p>- licentiaat in de medisch-sociale wetenschappen;</p>
-
-			<p>- icentiaat in de logopedie en audiologie;</p>
-
-			<p>- licentiaat in de voedings- en dieetleer;</p>
-
-			<p>- licentiaat in de familiale en seksuologische wetenschappen;</p>
-
-			<p>- licentiaat in de motorische revalidatie en kinesitherapie;</p>
-
-			<p>- licentiaat in de revalidatiewetenschappen en de kinesitherapie;</p>
-
-			<p>- licentiaat in de kinesitherapie;</p>
-
-			<p>- licentiaat in de arbeidsorganisatie en gezondheid.</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:#f0f0f0; border-top:windowtext 1pt solid; vertical-align:top; width:44.1pt">
-			<p>AN</p>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:black 1pt solid; border-right:black 1pt solid; border-top:#f0f0f0; height:11.35pt; width:47.95pt">
+			<p>VO</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:#f0f0f0; border-top:windowtext 1pt solid; vertical-align:top; width:48.4pt">
-			<p>300</p>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:11.35pt; width:47.9pt">
+			<p>333</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:#f0f0f0; border-top:windowtext 1pt solid; vertical-align:top; width:45.4pt">
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:11.35pt; width:47.95pt">
 			<p>2</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:343.95pt">
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:11.35pt; width:275.8pt">
+			<p>- licentiaat in de logopedie en audiologie;</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:black 1pt solid; border-right:black 1pt solid; border-top:#f0f0f0; height:11.35pt; width:47.95pt">
+			<p>VO</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:11.35pt; width:47.9pt">
+			<p>333</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:11.35pt; width:47.95pt">
+			<p>2</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:11.35pt; width:275.8pt">
+			<p>- licentiaat in de voedings-en dieetleer;</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:black 1pt solid; border-right:black 1pt solid; border-top:#f0f0f0; height:11.35pt; width:47.95pt">
+			<p>VO</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:11.35pt; width:47.9pt">
+			<p>333</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:11.35pt; width:47.95pt">
+			<p>2</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:11.35pt; width:275.8pt">
+			<p>- licentiaat in de familiale en seksuologische wetenschappen;</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:black 1pt solid; border-right:black 1pt solid; border-top:#f0f0f0; height:11.35pt; width:47.95pt">
+			<p>VO</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:11.35pt; width:47.9pt">
+			<p>333</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:11.35pt; width:47.95pt">
+			<p>2</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:11.35pt; width:275.8pt">
+			<p>- licentiaat in de motorische revalidatie en kinesitherapie;</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:black 1pt solid; border-right:black 1pt solid; border-top:#f0f0f0; height:11.35pt; width:47.95pt">
+			<p>VO</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:11.35pt; width:47.9pt">
+			<p>333</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:11.35pt; width:47.95pt">
+			<p>2</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:11.35pt; width:275.8pt">
+			<p>- licentiaat in de revalidatiewetenschappen en de kinesitherapie;</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:black 1pt solid; border-right:black 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:47.95pt">
+			<p>VO</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:47.9pt">
+			<p>333</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:47.95pt">
+			<p>2</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:275.8pt">
+			<p>- licentiaat in de kinesitherapie;</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:black 1pt solid; border-right:black 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:47.95pt">
+			<p>VO</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:47.9pt">
+			<p>333</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:47.95pt">
+			<p>2</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:275.8pt">
+			<p>- licentiaat in de arbeidsorganisatie en gezondheid;</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:black 1pt solid; border-right:black 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:47.95pt">
+			<p>VO</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:47.9pt">
+			<p>333</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:47.95pt">
+			<p>4</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:275.8pt">
+			<p>- master in de logopedische en audiologische wetenschappen;</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:black 1pt solid; border-right:black 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:47.95pt">
+			<p>VO</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:47.9pt">
+			<p>333</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:47.95pt">
+			<p>4</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:275.8pt">
+			<p>- master in de seksuologie;</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:black 1pt solid; border-right:black 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:47.95pt">
+			<p>VO</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:47.9pt">
+			<p>333</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:47.95pt">
+			<p>4</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:275.8pt">
+			<p>- master in de revalidatiewetenchappen en kinesitherapie;</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:black 1pt solid; border-right:black 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:47.95pt">
+			<p>VO</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:47.9pt">
+			<p>333</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:47.95pt">
+			<p>4</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:275.8pt">
+			<p>- master in de kinesitherapie.</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:black 1pt solid; border-right:black 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:47.95pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:47.9pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:47.95pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:275.8pt">
 			<p><strong>Basisdiploma:</strong></p>
-
-			<p>- Een diploma van het paramedisch hoger onderwijs van het korte type voor sociale promotie;</p>
-
-			<p>- Gebrevetteerde verpleegster (aanvullend secundair beroepsonderwijs) of diploma in de psychiatri­sche verpleegkunde (secundair onderwijs) of diploma in de ziekhuisverpleegkunde (secundair onderwijs), met 6 jaar nuttige ervaring. Deze nuttige ervaring wordt bij de aanwerving beoordeeld door de directeur van het centrum. Een kopie van de attesten wordt bij de indiensttreding bezorgd aan het werkstation.</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:black 1pt solid; border-right:black 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:47.95pt">
+			<p>AN</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:47.9pt">
+			<p>300</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:47.95pt">
+			<p>2</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:275.8pt">
+			<p>- een diploma van het paramedisch hoger onderwijs van het korte type voor sociale promotie;</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:black 1pt solid; border-right:black 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:47.95pt">
+			<p>AN</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:47.9pt">
+			<p>300</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:47.95pt">
+			<p>8</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:275.8pt">
+			<p>- gebrevetteerde verpleegster (aanvullend secundair beroepsonderwijs) of brevet van psychiatrische verpleegster of brevet van ziekenhuisverpleegster of diploma in de psychiatrische verpleegkunde (secundair onderwijs) of diploma in de ziekenhuisverpleegkunde (secundair onderwijs), met zes jaar nuttige ervaring. Die nuttige ervaring wordt bij de aanwerving beoordeeld door de directeur van het centrum. Een kopie van de attesten wordt bij de indiensttreding bezorgd aan het werkstation;</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:black 1pt solid; border-right:black 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:47.95pt">
+			<p>AN</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:47.9pt">
+			<p>300</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:47.95pt">
+			<p>4</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:275.8pt">
+			<p>- diploma in de verpleegkunde, uitgereikt na de vierde graad van het beroepssecundair onderwijs, met zes jaar nuttige ervaring. Die nuttige ervaring wordt bij de aanwerving beoordeeld door de directeur van het centrum. Een kopie van de attesten wordt bij de indiensttreding bezorgd aan het werkstation.</p>
 			</td>
 		</tr>
 	</tbody>
@@ -990,98 +2283,204 @@ De Vlaamse minister, bevoegd voor het Gezondheidsbeleid, en de Vlaamse minister,
 
 ### Tekst
 
-<table border="0" cellpadding="0" cellspacing="0" style="border-collapse:collapse">
+<p>2.10. INTERCULTUREEL BEMIDDELAAR<!--?xml:namespace prefix = o ns =   "urn:schemas-microsoft-com:office:office" /--></p>
+
+<table border="1" cellpadding="0" cellspacing="0" style="border-collapse:collapse">
 	<tbody>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:#f0f0f0; border-top:windowtext 1pt solid; vertical-align:top; width:44.1pt">
-			<p><!--?xml:namespace prefix = o ns =         "urn:schemas-microsoft-com:office:office"   /-->&nbsp;</p>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:50.4pt">
+			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:#f0f0f0; border-top:windowtext 1pt solid; vertical-align:top; width:48.4pt">
-			<p>WS</p>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:54pt">
+			<p>SSC</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:#f0f0f0; border-top:windowtext 1pt solid; vertical-align:top; width:42.4pt">
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:54pt">
 			<p>Code</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:346.95pt">
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:302.2pt">
 			<p>BEKWAAMHEIDSBEWIJZEN</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:#f0f0f0; border-top:windowtext 1pt solid; vertical-align:top; width:44.1pt">
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:50.4pt">
+			<p>&nbsp;</p>
+
 			<p>VE</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:#f0f0f0; border-top:windowtext 1pt solid; vertical-align:top; width:48.4pt">
-			<p>202</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:#f0f0f0; border-top:windowtext 1pt solid; vertical-align:top; width:42.4pt">
-			<p>3</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:346.95pt">
-			<p><strong>Basisdiploma:</strong></p>
 
-			<p>- het brevet van een aanvullende secundaire beroepsschool of leergang;</p>
-
-			<p>- het studiegetuigschrift van het eerste leerjaar van de vierde graad van het secundair onderwijs;</p>
-
-			<p>- het diploma in de psychiatrische verpleegkunde;</p>
-
-			<p>- het diploma in de ziekenhuisverpleegkunde;</p>
-
-			<p>- het finaliteitdiploma van het kunstonderwijs, ingericht volgens beperkt leerplan;</p>
-
-			<p>- het gehomologeerd getuigschrift van hoger secundair onderwijs;</p>
-
-			<p>- het gehomologeerd getuigschrift van het middelbaar onderwijs van de hogere graad;</p>
-
-			<p>- het gehomologeerd diploma van secundair onderwijs;</p>
-
-			<p>- het diploma van secundair onderwijs;</p>
-
-			<p>- een studiebewijs van het niveau hoger technisch secundair onderwijs;</p>
-
-			<p>- een studiebewijs van het niveau van de derde graad van het technisch secundair onderwijs;</p>
-
-			<p>- een studiebewijs van het niveau van hoger kunstsecundair onderwijs;</p>
-
-			<p>- een studiebewijs van het niveau van de derde graad van het kunstsecundair onderwijs;</p>
-
-			<p>- een studiebewijs van het niveau van hoger beroepssecundair onderwijs;</p>
-
-			<p>- een studiebewijs van het niveau van de derde graad van het beroepssecundair onderwijs.</p>
+			<p>VE</p>
 
 			<p>&nbsp;</p>
 
-			<p><strong>Overgangsbepaling inzake basisdiploma :</strong></p>
+			<p>VE</p>
 
-			<p>- Personeelsleden die op 31 augustus 2000 als interculturele medewerker in een PMS-centrum en/ of als intercultureel bemiddelaar werkzaam waren in een gesubsidieerde equipe voor medisch schooltoezicht en die overeenkomstig artikel 182 van het decreet van 1 december 1998 betreffende de centra voor leerlingenbegeleiding, geconcordeerd werden naar het ambt van medewerker behouden in uitvoering van artikel 191 van hetzelfde decreet, de salarisschaal die zij hadden op 31 augustus 2000.</p>
+			<p>VE</p>
+
+			<p>VE</p>
+
+			<p>&nbsp;</p>
+
+			<p>VE</p>
+
+			<p>VE</p>
+
+			<p>&nbsp;</p>
+
+			<p>VE</p>
+
+			<p>VE</p>
+
+			<p>VE</p>
+
+			<p>VE</p>
+
+			<p>&nbsp;</p>
+
+			<p>VE</p>
+
+			<p>VE</p>
+
+			<p>&nbsp;</p>
+
+			<p>VE</p>
+
+			<p>VE</p>
+
+			<p>&nbsp;</p>
+
+			<p>VE</p>
 			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:#f0f0f0; border-top:windowtext 1pt solid; vertical-align:top; width:44.1pt">
-			<p>VO</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:#f0f0f0; border-top:windowtext 1pt solid; vertical-align:top; width:48.4pt">
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:54pt">
+			<p>&nbsp;</p>
+
+			<p>202</p>
+
+			<p>202</p>
+
+			<p>&nbsp;</p>
+
+			<p>202</p>
+
+			<p>202</p>
+
+			<p>202</p>
+
+			<p>&nbsp;</p>
+
+			<p>202</p>
+
+			<p>202</p>
+
+			<p>&nbsp;</p>
+
+			<p>202</p>
+
+			<p>202</p>
+
+			<p>202</p>
+
+			<p>202</p>
+
+			<p>&nbsp;</p>
+
+			<p>202</p>
+
+			<p>202</p>
+
+			<p>&nbsp;</p>
+
+			<p>202</p>
+
+			<p>202</p>
+
+			<p>&nbsp;</p>
+
 			<p>202</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:#f0f0f0; border-top:windowtext 1pt solid; vertical-align:top; width:42.4pt">
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:54pt">
+			<p>&nbsp;</p>
+
+			<p>7</p>
+
 			<p>3</p>
+
+			<p>&nbsp;</p>
+
+			<p>7</p>
+
+			<p>7</p>
+
+			<p>7</p>
+
+			<p>&nbsp;</p>
+
+			<p>7</p>
+
+			<p>7</p>
+
+			<p>&nbsp;</p>
+
+			<p>7</p>
+
+			<p>7</p>
+
+			<p>7</p>
+
+			<p>7</p>
+
+			<p>&nbsp;</p>
+
+			<p>7</p>
+
+			<p>7</p>
+
+			<p>&nbsp;</p>
+
+			<p>7</p>
+
+			<p>7</p>
+
+			<p>&nbsp;</p>
+
+			<p>4</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:346.95pt">
-			<p><strong>Basisdiploma</strong>: Ten minste HOKT, zoals bedoeld in artikel 7 van het besluit van 14 juni 1989, en de daarmee in dat besluit gelijkgestelde diploma's.</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:#f0f0f0; border-top:windowtext 1pt solid; vertical-align:top; width:44.1pt">
-			<p>AN</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:#f0f0f0; border-top:windowtext 1pt solid; vertical-align:top; width:48.4pt">
-			<p>200</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:#f0f0f0; border-top:windowtext 1pt solid; vertical-align:top; width:42.4pt">
-			<p>3</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:346.95pt">
-			<p><strong>Basisdiploma:</strong> Ten minste LSO, zoals bedoeld in artikel 7 van het besluit van 14 juni 1989, en de daarmee in dat besluit gelijkgestelde diploma's, met 6 jaar nuttige ervaring. Deze nuttige ervaring wordt bij de aanwerving beoordeeld door de directeur van het centrum. Een kopie van de attesten wordt bij de indiensttreding bezorgd aan het werkstation.</p>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:302.2pt">
+			<p><strong>Basisdiploma:</strong></p>
+
+			<p>Het brevet van een aanvullende secundaire beroepsschol of leergang;</p>
+
+			<p>Het studiegetuigschrift van het eerste leerjaar van de vierde graad van het secundair onderwijs;</p>
+
+			<p>Het diploma in de psychiatrische verpleegkunde;</p>
+
+			<p>Het diploma in de ziekenhuisverpleegkunde;</p>
+
+			<p>Het finaliteitsdiploma van het kunstonderwijs, ingericht volgens beperkt leerplan;</p>
+
+			<p>Het gehomologeerd getuigschrift van hoger secundair onderwijs;</p>
+
+			<p>Het gehomologeerd getuigschrift van het middelbaar onderwijs van de hogere graad;</p>
+
+			<p>Het gehomologeerd diploma van secundair onderwijs;</p>
+
+			<p>Het diploma van secundair onderwijs;</p>
+
+			<p>Een studiebewijs van het niveau hoger technisch secundair onderwijs;</p>
+
+			<p>Een studiebewijs van het niveau van de derde graad van het technisch secundair onderwijs;</p>
+
+			<p>Een studiebewijs van het niveau van hoger kunstsecundair onderwijs;</p>
+
+			<p>Een studiebewijs van het niveau van de derde graad van het kunstsecundair onderwijs;</p>
+
+			<p>Een studiebewijs van het niveau van hoger beroepssecundair onderwijs;</p>
+
+			<p>Een studiebewijs van het niveau van de derde graad van het beroepssecundair onderwijs</p>
+
+			<p>Een bekwaamheidsbewijs van het niveau secundair onderwijs.</p>
 			</td>
 		</tr>
 	</tbody>
@@ -1095,48 +2494,104 @@ De Vlaamse minister, bevoegd voor het Gezondheidsbeleid, en de Vlaamse minister,
 
 ### Tekst
 
-<table border="0" cellpadding="0" cellspacing="0" style="border-collapse:collapse">
+<table border="0" cellpadding="0" cellspacing="0" style="border-collapse:collapse; width:447.9pt">
 	<tbody>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:#f0f0f0; border-top:windowtext 1pt solid; vertical-align:top; width:44.1pt">
-			<p><!--?xml:namespace prefix = o ns =         "urn:schemas-microsoft-com:office:office"   /-->&nbsp;</p>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:black 1pt solid; border-right:black 1pt solid; border-top:black 1pt solid; height:11.35pt; width:47.95pt">
+			<p><!--?xml:namespace         prefix = o ns = "urn:schemas-microsoft-com:office:office"         /-->&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:#f0f0f0; border-top:windowtext 1pt solid; vertical-align:top; width:48.4pt">
-			<p>WS</p>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:black 1pt solid; height:11.35pt; width:47.95pt">
+			<p>SSC</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:#f0f0f0; border-top:windowtext 1pt solid; vertical-align:top; width:42.4pt">
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:black 1pt solid; height:11.35pt; width:48pt">
 			<p>Code</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:346.95pt">
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:black 1pt solid; height:11.35pt; width:304pt">
 			<p>BEKWAAMHEIDSBEWIJZEN</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:#f0f0f0; border-top:windowtext 1pt solid; vertical-align:top; width:44.1pt">
-			<p>VE</p>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:black 1pt solid; border-right:black 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:47.95pt">
+			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:#f0f0f0; border-top:windowtext 1pt solid; vertical-align:top; width:48.4pt">
-			<p>200</p>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:47.95pt">
+			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:#f0f0f0; border-top:windowtext 1pt solid; vertical-align:top; width:42.4pt">
-			<p>3</p>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:48pt">
+			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:346.95pt">
-			<p><strong>Basisdiploma: </strong>Het certificaat van de opleiding tot ervaringsdeskundige in armoede en sociale uitsluiting van het studiegebied personenzorg van het onderwijs voor sociale promotie (technisch secundair onderwijs van de derde graad met beperkt leerplan).</p>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:11.35pt; width:304pt">
+			<p><strong>Basisdiploma:</strong></p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:#f0f0f0; border-top:windowtext 1pt solid; vertical-align:top; width:44.1pt">
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:black 1pt solid; border-right:black 1pt solid; border-top:#f0f0f0; height:11.35pt; width:47.95pt">
+			<p>VE</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:11.35pt; width:47.95pt">
+			<p>200</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:11.35pt; width:48pt">
+			<p>7</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:11.35pt; width:304pt">
+			<p>- het certificaat van de opleiding tot ervaringsdeskundige in armoede en sociale uitsluiting van het studiegebied personenzorg van het onderwijs voor sociale promotie (technisch secundair onderwijs van de derde graad met beperkt leerplan)</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:black 1pt solid; border-right:black 1pt solid; border-top:#f0f0f0; height:11.35pt; width:47.95pt">
+			<p>VE</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:11.35pt; width:47.95pt">
+			<p>200</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:11.35pt; width:48pt">
+			<p>4</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:11.35pt; width:304pt">
+			<p>- het getuigschrift of het certificaat van de opleiding tot ervaringsdeskundige in armoede en sociale uitsluiting</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:black 1pt solid; border-right:black 1pt solid; border-top:#f0f0f0; height:11.35pt; width:47.95pt">
+			<p>VO</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:11.35pt; width:47.95pt">
+			<p>202</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:11.35pt; width:48pt">
+			<p>4</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:11.35pt; width:304pt">
+			<p>- het getuigschrift of het certificaat van de opleiding jeugd- en gehandicaptenzorg</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:black 1pt solid; border-right:black 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:47.95pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:47.95pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:48pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:11.35pt; width:304pt">
+			<p><strong>Basisdiploma:</strong></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:black 1pt solid; border-right:black 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:47.95pt">
 			<p>AN</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:#f0f0f0; border-top:windowtext 1pt solid; vertical-align:top; width:48.4pt">
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:47.95pt">
 			<p>084</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:#f0f0f0; border-top:windowtext 1pt solid; vertical-align:top; width:42.4pt">
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:48pt">
 			<p>3</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:346.95pt">
-			<p><strong>Basisdiploma:</strong> Een studiebewijs dat niet behoort tot de studiebewijzen, vermeld in artikel 6, punt 1 tot en met 46, van het besluit van 14 juni 1989.</p>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:304pt">
+			<p>- een studiebewijs dat niet behoort tot de studiebewijzen vermeld in artikel 6, punt 1 tot en met 46, van het besluit van 14 juni 1989.</p>
 			</td>
 		</tr>
 	</tbody>
@@ -1152,124 +2607,566 @@ De Vlaamse minister, bevoegd voor het Gezondheidsbeleid, en de Vlaamse minister,
 
 ### Tekst
 
-<table border="0" cellpadding="0" cellspacing="0" style="border-collapse:collapse">
+<table border="0" cellpadding="0" cellspacing="0" style="border-collapse:collapse; width:447.9pt">
 	<tbody>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:#f0f0f0; border-top:windowtext 1pt solid; vertical-align:top; width:44.1pt">
-			<p>&nbsp;</p>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:black 1pt solid; border-right:black 1pt solid; border-top:black 1pt solid; height:11.35pt; width:47.95pt">
+			<p><!--?xml:namespace         prefix = o ns = "urn:schemas-microsoft-com:office:office"         /-->&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:#f0f0f0; border-top:windowtext 1pt solid; vertical-align:top; width:48.4pt">
-			<p>WS</p>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:black 1pt solid; height:11.35pt; width:47.95pt">
+			<p>SSC</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:#f0f0f0; border-top:windowtext 1pt solid; vertical-align:top; width:45.4pt">
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:black 1pt solid; height:11.35pt; width:48pt">
 			<p>Code</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:343.95pt">
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:black 1pt solid; height:11.35pt; width:304pt">
 			<p>BEKWAAMHEIDSBEWIJZEN</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:#f0f0f0; border-top:windowtext 1pt solid; vertical-align:top; width:44.1pt">
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:black 1pt solid; border-right:black 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:47.95pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:47.95pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:48pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:11.35pt; width:304pt">
+			<p><strong>Basisdiploma:</strong></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:black 1pt solid; border-right:black 1pt solid; border-top:#f0f0f0; height:11.35pt; width:47.95pt">
 			<p>VE</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:#f0f0f0; border-top:windowtext 1pt solid; vertical-align:top; width:48.4pt">
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:11.35pt; width:47.95pt">
 			<p>333</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:#f0f0f0; border-top:windowtext 1pt solid; vertical-align:top; width:45.4pt">
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:11.35pt; width:48pt">
+			<p>5</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:11.35pt; width:304pt">
+			<p>- het diploma van technisch ingenieur;</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:black 1pt solid; border-right:black 1pt solid; border-top:#f0f0f0; height:11.35pt; width:47.95pt">
+			<p>VE</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:11.35pt; width:47.95pt">
+			<p>333</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:11.35pt; width:48pt">
+			<p>5</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:11.35pt; width:304pt">
+			<p>- het universitair diploma van burgerlijk conducteur;</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:black 1pt solid; border-right:black 1pt solid; border-top:#f0f0f0; height:11.35pt; width:47.95pt">
+			<p>VE</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:11.35pt; width:47.95pt">
+			<p>333</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:11.35pt; width:48pt">
+			<p>5</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:11.35pt; width:304pt">
+			<p>- het diploma van een hogere technische school van de tweede graad;</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:black 1pt solid; border-right:black 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:47.95pt">
+			<p>VE</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:47.95pt">
+			<p>333</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:48pt">
+			<p>5</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:11.35pt; width:304pt">
+			<p>- het diploma van het hoger kunstonderwijs van de tweede graad met volledig leerplan;</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:black 1pt solid; border-right:black 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:47.95pt">
+			<p>VE</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:47.95pt">
+			<p>333</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:48pt">
+			<p>5</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:11.35pt; width:304pt">
+			<p>- het diploma van het hoger kunstonderwijs met volledig leerplan, uitgereikt na een cyclus van ten minste vier studiejaren;</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:black 1pt solid; border-right:black 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:47.95pt">
+			<p>VE</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:47.95pt">
+			<p>333</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:48pt">
+			<p>5</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:11.35pt; width:304pt">
+			<p>- het diploma van het hoger kunstonderwijs met volledig leerplan voor 1 september 1969 uitgereikt na een cyclus van ten minste drie studiejaren door een instelling voor de beeldende kunsten;</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:black 1pt solid; border-right:black 1pt solid; border-top:#f0f0f0; height:11.35pt; width:47.95pt">
+			<p>VE</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:11.35pt; width:47.95pt">
+			<p>333</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:11.35pt; width:48pt">
+			<p>5</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:11.35pt; width:304pt">
+			<p>- het laureaatsdiploma, uitgereikt door het Lemmensinstituut te Leuven;</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:black 1pt solid; border-right:black 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:47.95pt">
+			<p>VE</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:47.95pt">
+			<p>333</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:48pt">
+			<p>5</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:11.35pt; width:304pt">
+			<p>- het diploma van de tweede cyclus, uitgereikt door een Koninklijk Muziekconservatorium;</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:black 1pt solid; border-right:black 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:47.95pt">
+			<p>VE</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:47.95pt">
+			<p>333</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:48pt">
+			<p>5</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:304pt">
+			<p>- het diploma van binnenhuisontwerper, uitgereikt na een cyclus van ten minste drie studiejaren door het Provinciaal Hoger Instituut voor Architectuur en Toegepaste Kunsten in Hasselt, het Provinciaal Hoger Architectuur-instituut in Hasselt-Diepenbeek en het Stedelijk Hoger Architectuurinstituut « De Bijloke » te Gent;</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:black 1pt solid; border-right:black 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:47.95pt">
+			<p>VE</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:47.95pt">
+			<p>333</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:48pt">
+			<p>5</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:11.35pt; width:304pt">
+			<p>- het diploma van binnenhuisontwerper, behaald vóór het academiejaar 1964-1965 en uitgereikt na een cyclus van ten minste drie studiejaren door het Nationaal Hoger Instituut voor Bouwkunst en Stedebouw in Antwerpen;</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:black 1pt solid; border-right:black 1pt solid; border-top:#f0f0f0; height:11.35pt; width:47.95pt">
+			<p>VE</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:11.35pt; width:47.95pt">
+			<p>333</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:11.35pt; width:48pt">
+			<p>5</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:11.35pt; width:304pt">
+			<p>- het diploma van aspirant-officier ter lange omvaart;</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:black 1pt solid; border-right:black 1pt solid; border-top:#f0f0f0; height:11.35pt; width:47.95pt">
+			<p>VE</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:11.35pt; width:47.95pt">
+			<p>333</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:11.35pt; width:48pt">
+			<p>5</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:11.35pt; width:304pt">
+			<p>- het diploma van officier-werktuigkundige eerste klasse;</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:black 1pt solid; border-right:black 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:47.95pt">
+			<p>VE</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:47.95pt">
+			<p>333</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:48pt">
+			<p>5</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:11.35pt; width:304pt">
+			<p>- het diploma van het hoger kunstonderwijs van de eerste graad met volledig leerplan;</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:black 1pt solid; border-right:black 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:47.95pt">
+			<p>VE</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:47.95pt">
+			<p>333</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:48pt">
+			<p>5</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:11.35pt; width:304pt">
+			<p>- het diploma van het hoger kunstonderwijs met volledig leerplan, uitgereikt na een cyclus van ten minste twee studiejaren;</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:black 1pt solid; border-right:black 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:47.95pt">
+			<p>VE</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:47.95pt">
+			<p>333</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:48pt">
+			<p>5</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:11.35pt; width:304pt">
+			<p>- het diploma van de eerste cyclus, uitgereikt door een Koninklijk Muziek-conservatorium;</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:black 1pt solid; border-right:black 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:47.95pt">
+			<p>VE</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:47.95pt">
+			<p>333</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:48pt">
+			<p>5</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:11.35pt; width:304pt">
+			<p>- het diploma van het hoger onderwijs van het korte type met volledig leerplan;</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:black 1pt solid; border-right:black 1pt solid; border-top:#f0f0f0; height:11.35pt; width:47.95pt">
+			<p>VE</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:11.35pt; width:47.95pt">
+			<p>333</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:11.35pt; width:48pt">
+			<p>5</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:11.35pt; width:304pt">
+			<p>- het diploma van een hogere technische school van de eerste graad;</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:black 1pt solid; border-right:black 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:47.95pt">
+			<p>VE</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:47.95pt">
+			<p>333</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:48pt">
+			<p>5</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:304pt">
+			<p>- het diploma van onderwijzer(es);</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:black 1pt solid; border-right:black 1pt solid; border-top:#f0f0f0; height:11.35pt; width:47.95pt">
+			<p>VE</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:11.35pt; width:47.95pt">
+			<p>333</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:11.35pt; width:48pt">
+			<p>5</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:11.35pt; width:304pt">
+			<p>- het diploma van kleuteronderwijzer(es);</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:black 1pt solid; border-right:black 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:47.95pt">
+			<p>VE</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:47.95pt">
+			<p>333</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:48pt">
+			<p>5</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:11.35pt; width:304pt">
+			<p>- het diploma van geaggregeerde voor het lager secundair onderwijs of het diploma van regent(es);</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:black 1pt solid; border-right:black 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:47.95pt">
+			<p>VE</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:47.95pt">
+			<p>333</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:48pt">
+			<p>5</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:11.35pt; width:304pt">
+			<p>- het diploma van geaggregeerde voor het middelbaar en technisch onderwijs van de lagere graad;</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:black 1pt solid; border-right:black 1pt solid; border-top:#f0f0f0; height:11.35pt; width:47.95pt">
+			<p>VE</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:11.35pt; width:47.95pt">
+			<p>333</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:11.35pt; width:48pt">
+			<p>5</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:11.35pt; width:304pt">
+			<p>- het diploma van een basisopleiding in één cyclus;</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:black 1pt solid; border-right:black 1pt solid; border-top:#f0f0f0; height:11.35pt; width:47.95pt">
+			<p>VE</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:11.35pt; width:47.95pt">
+			<p>333</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:11.35pt; width:48pt">
+			<p>5</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:11.35pt; width:304pt">
+			<p>- het diploma van gegradueerde in de godsdienstwetenschappen;</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:black 1pt solid; border-right:black 1pt solid; border-top:#f0f0f0; height:11.35pt; width:47.95pt">
+			<p>VE</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:11.35pt; width:47.95pt">
+			<p>333</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:11.35pt; width:48pt">
+			<p>5</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:11.35pt; width:304pt">
+			<p>- het diploma van geaggregeerde voor het secundair onderwijs-groep 1;</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:black 1pt solid; border-right:black 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:47.95pt">
+			<p>VE</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:47.95pt">
+			<p>333</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:48pt">
+			<p>5</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:11.35pt; width:304pt">
+			<p>- het diploma van geaggregeerde voor het secundair onderwijs-groep 1 samen met het diploma van de voortgezette lerarenopleiding voor de bijkomende uitdieping van een opleidingseenheid;</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:black 1pt solid; border-right:black 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:47.95pt">
+			<p>VE</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:47.95pt">
+			<p>333</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:48pt">
+			<p>5</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:11.35pt; width:304pt">
+			<p>- het diploma van virtuositeit en het hoger diploma, uitgereikt door een instelling voor hoger muziekonderwijs;</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:black 1pt solid; border-right:black 1pt solid; border-top:#f0f0f0; height:11.35pt; width:47.95pt">
+			<p>VE</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:11.35pt; width:47.95pt">
+			<p>333</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:11.35pt; width:48pt">
+			<p>5</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:11.35pt; width:304pt">
+			<p>- het diploma van een hogere technische leergang van de tweede graad;</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:black 1pt solid; border-right:black 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:47.95pt">
+			<p>VE</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:47.95pt">
+			<p>333</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:48pt">
+			<p>5</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:11.35pt; width:304pt">
+			<p>- het diploma van het hoger onderwijs van het korte type voor sociale promotie of van een hogere technische leergang van de eerste graad;</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:black 1pt solid; border-right:black 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:47.95pt">
+			<p>VE</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:47.95pt">
+			<p>333</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:48pt">
 			<p>1</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:343.95pt">
-			<p><strong>Basisdiploma:</strong></p>
-
-			<p>- Het diploma van technisch ingenieur;</p>
-
-			<p>- het universitair diploma van burgerlijk conducteur;</p>
-
-			<p>- het diploma van een hogere technische school van de tweede graad;</p>
-
-			<p>- het diploma van het hoger kunstonderwijs van de tweede graad met volledig leerplan;</p>
-
-			<p>- het diploma van het hoger kunstonderwijs met volledig leerplan, uitgereikt na een cyclus van ten minste vier studiejaren;</p>
-
-			<p>- het diploma van het hoger kunstonderwijs met volledig leerplan voor 1 september 1969 uitgereikt na een cyclus van ten minste drie studiejaren door een instelling voor de beeldende kunsten;</p>
-
-			<p>- het laureaatsdiploma, uitgereikt door het Lemmensinstituut te Leuven;</p>
-
-			<p>- het diploma van de tweede cyclus, uitgereikt door een Koninklijk Muziekconservatorium;</p>
-
-			<p>- het diploma van binnenhuisontwerper, uitgereikt na een cyclus van ten minste drie studiejaren door het provinciaal Hoger Instituut voor Architectuur en Toegepaste Kunsten in Hasselt, het Provinciaal Hoger Architectuurinstituut in Hasselt-Diepenbeek en het Stedelijk Hoger Architectuurinstituut "De Bijloke" te Gent;</p>
-
-			<p>- het diploma van binnenhuisontwerper, behaald vóór het academiejaar 1964-1965 en uitgereikt na een cyclus van ten minste drie studiejaren door het nationaal Hoger Instituut voor Bouwkunst en Stedebouw in Antwerpen;</p>
-
-			<p>- het diploma van aspirant-officier ter lange omvaart;</p>
-
-			<p>- het diploma van officier-werktuigkundige eerste klasse;</p>
-
-			<p>- het diploma van het hoger kunstonderwijs van de eerste graad met volledig leerplan;</p>
-
-			<p>- het diploma van het hoger kunstonderwijs met volledig leerplan, uitgereikt na een cyclus van ten minste twee studiejaren;</p>
-
-			<p>- het diploma van de eerste cyclus, uitgereikt door een Koninklijk Muziekconservatorium;</p>
-
-			<p>- het diploma van het hoger onderwijs van het korte type met volledig leerplan:</p>
-
-			<p>- het diploma van een hogere technische school van de eerste graad;</p>
-
-			<p>- het diploma van onderwijzer(es);</p>
-
-			<p>- het diploma van kleuteronderwijzer(es);</p>
-
-			<p>- het diploma van geaggregeerde voor het lager secundair onderwijs of het diploma van regent(es);</p>
-
-			<p>- het diploma van geaggregeerde voor het middelbaar en technisch onderwijs van de lagere graad;</p>
-
-			<p>- het diploma van een basisopleiding in één cyclus;</p>
-
-			<p>- het diploma van gegradueerde in de godsdienstwetenschappen;</p>
-
-			<p>- het diploma van geaggregeerde voor het secundair onderwijs-groep 1&nbsp;;</p>
-
-			<p>- het diploma van geaggregeerde voor het secundair onderwijs-groep 1 samen met het diploma van de voortgezette lerarenopleiding voor de bijkomende uitdieping van een opleidingseenheid;</p>
-
-			<p>- het diploma van virtuositeit, het hoger diploma en het diploma van eerste prijs, uitgereikt door een instelling voor hoger muziekonderwijs;</p>
-
-			<p>- het diploma van een hogere technische leergang van de tweede graad;</p>
-
-			<p>- het diploma van het hoger onderwijs van het korte type voor sociale promotie of van een hogere technische leergang van de eerste graad;</p>
-
-			<p>- het diploma van kandidaat uitgereikt krachtens de wet op het toekennen van de academische graden;</p>
-
-			<p>- de andere diploma's van kandidaat uitgereikt door een Belgische universiteit of een daarmee gelijkgestelde instelling, door een door de wet of door het decreet daartoe gemachtigde instelling of door een door de Staat of de Gemeenschap opgerichte examencommissie;</p>
-
-			<p>- het getuigschrift uitgereikt door de Hogere Rijksleergangen voor dans en danspedagogiek.</p>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:11.35pt; width:304pt">
+			<p>- het diploma van eerste prijs, uitgereikt door een instelling voor hoger muziekonderwijs;</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:#f0f0f0; border-top:windowtext 1pt solid; vertical-align:top; width:44.1pt">
-			<p>VO</p>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:black 1pt solid; border-right:black 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:47.95pt">
+			<p>VE</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:#f0f0f0; border-top:windowtext 1pt solid; vertical-align:top; width:48.4pt">
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:47.95pt">
 			<p>333</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:#f0f0f0; border-top:windowtext 1pt solid; vertical-align:top; width:45.4pt">
-			<p>2</p>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:48pt">
+			<p>1</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:343.95pt">
-			<p><strong>Basisdiploma:</strong> tenminst HOLT zoals bedoeld in artikel 7 van het besluit van 14 juni 1989, en de daarmee in dat besluit gelijkgestelde diploma's.</p>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:11.35pt; width:304pt">
+			<p>- het diploma van kandidaat, uitgereikt krachtens de wet op het toekennen van de academische graden;</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:#f0f0f0; border-top:windowtext 1pt solid; vertical-align:top; width:44.1pt">
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:black 1pt solid; border-right:black 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:47.95pt">
+			<p>VE</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:47.95pt">
+			<p>333</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:48pt">
+			<p>1</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:11.35pt; width:304pt">
+			<p>- de andere diploma’s van kandidaat, uitgereikt door een Belgische universi-teit of een daarmee gelijkgestelde instelling, door een door de wet of door het decreet daartoe gemachtigde instelling of door een door de Staat of de Gemeenschap opgerichte examencommissie;</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:black 1pt solid; border-right:black 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:47.95pt">
+			<p>VE</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:47.95pt">
+			<p>333</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:48pt">
+			<p>1</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:11.35pt; width:304pt">
+			<p>- het getuigschrift uitgereikt door de Hogere Rijksleergangen voor dans en danspedagogiek;</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:black 1pt solid; border-right:black 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:47.95pt">
+			<p>VE</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:47.95pt">
+			<p>333</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:48pt">
+			<p>4</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:304pt">
+			<p>- een bekwaamheidsbewijs van het niveau PBA.</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:black 1pt solid; border-right:black 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:47.95pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:47.95pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:48pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:11.35pt; width:304pt">
+			<p><strong>Basisdiploma:</strong></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:black 1pt solid; border-right:black 1pt solid; border-top:#f0f0f0; height:11.35pt; width:47.95pt">
+			<p>VO</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:11.35pt; width:47.95pt">
+			<p>333</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:11.35pt; width:48pt">
+			<p>6</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:11.35pt; width:304pt">
+			<p>- ten minste HOLT;</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:black 1pt solid; border-right:black 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:47.95pt">
+			<p>VO</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:47.95pt">
+			<p>333</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:48pt">
+			<p>4</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:304pt">
+			<p>- ten minste master, als vermeld in artikel 7 van het besluit van 14 juni 1989.</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:black 1pt solid; border-right:black 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:47.95pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:47.95pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:48pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:11.35pt; width:304pt">
+			<p><strong>Basisdiploma:</strong></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:black 1pt solid; border-right:black 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:47.95pt">
 			<p>AN</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:#f0f0f0; border-top:windowtext 1pt solid; vertical-align:top; width:48.4pt">
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:47.95pt">
 			<p>202</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:#f0f0f0; border-top:windowtext 1pt solid; vertical-align:top; width:45.4pt">
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:48pt">
 			<p>2</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:343.95pt">
-			<p><strong>Basisdiploma:</strong> tenminste SO, zoals bedoeld in artikel 7 van het besluit van 14 juni 1989, en de daarmee in dat besluit gelijkgestelde diploma's.</p>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:304pt">
+			<p>- ten minste HSO, als vermeld in artikel 7 van het besluit van 14 juni 1989, en de daarmee in dat besluit gelijkgestelde diploma’s.</p>
 			</td>
 		</tr>
 	</tbody>
