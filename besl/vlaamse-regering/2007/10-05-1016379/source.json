@@ -1,0 +1,17 @@
+{
+  "codex_id": 1016379,
+  "title": "Besluit van de Vlaamse Regering van 2007-10-05 betreffende het beroepsprofiel van de leraar",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1016379/VolledigDocument?datum=2007-09-01",
+  "source_sha256": "8fec6b8e1675cb02c4dc0e12a8059cb8d7bfa462946323840cd4c79b9579ad74",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1016379&param=informatie",
+  "as_of": "2007-09-01",
+  "made": "2007-10-05",
+  "gazette": "2007-11-29",
+  "numac": 2007037069,
+  "document_start": "2007-09-01",
+  "document_end": null,
+  "in_force": "2007-09-01",
+  "article_versions": 6,
+  "record_form": "consolidated version as in force on 2007-09-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
