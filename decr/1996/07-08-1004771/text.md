@@ -322,7 +322,7 @@ De v.z.w. Epon neemt de netto-activa over van de v.z.w. Vlaams Petra-comité.
 
 ### ART. 67.
 
-§ 1. Aan leerlingen of studenten met een handicap die gewoon gefinancierd of gesubsidieerd secundair, hoger of academisch onderwijs volgen kunnen speciale onderwijsleermiddelen ter beschikking worden gesteld.<br /><br />§ 2. De Vlaamse regering bepaalt de procedure voor aanvraag van de middelen en de criteria voor de toepassing.<br /><br />§ 3. ...
+§ 1. Aan leerlingen cursisten, of studenten met een handicap die gewoon gefinancierd of gesubsidieerd secundair, volwassenenonderwijs, hoger of academisch onderwijs volgen kunnen speciale onderwijsleermiddelen ter beschikking worden gesteld.<br /><br />§ 2. De Vlaamse regering bepaalt de procedure voor aanvraag van de middelen en de criteria voor de toepassing.<br /><br />§ 3. ...
 
 ### ART. 68.
 
