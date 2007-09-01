@@ -134,19 +134,19 @@ Dit hoofdstuk treedt in werking op 1 september 2000, met uitzondering van:<br />
 
 ### ART. 184.
 
-(niet opgenomen)<br /><br />(Wijzigt het decreet van 2 maart 1999 tot regeling van een aantal aangelegenheden van het volwassenenonderwijs)
+...
 
 ### ART. 185.
 
-(niet opgenomen)<br /><br />(Wijzigt het decreet van 2 maart 1999 tot regeling van een aantal aangelegenheden van het volwassenenonderwijs)
+...
 
 ### ART. 186.
 
-(niet opgenomen)<br /><br />(Wijzigt het decreet van 2 maart 1999 tot regeling van een aantal aangelegenheden van het volwassenenonderwijs)
+...
 
 ### ART. 187.
 
-(niet opgenomen)<br /><br />(Wijzigt het decreet van 2 maart 1999 tot regeling van een aantal aangelegenheden van het volwassenenonderwijs)
+...
 
 ### ART. 188.
 
