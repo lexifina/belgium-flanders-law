@@ -260,7 +260,7 @@ Een inrichtende macht die sponsoring of mededelingen die rechtstreeks of onrecht
 
 ### ART. V. 13.
 
-In het door de Gemeenschap gefinancierd of gesubsidieerd voltijds secundair onderwijs en deeltijds beroepssecundair onderwijs kan geen direct of indirect inschrijvingsgeld worden gevraagd.<br /><br />Na overleg binnen de participatieraad of de schoolraad bepalen de inrichtende machten de lijst van bijdragen die aan de ouders of aan de meerderjarige leerlingen kunnen worden gevraagd, evenals de afwijkingen die op deze bijdrageregeling worden toegekend. Deze regeling wordt schriftelijk aan de ouders of aan de meerderjarige leerlingen meegedeeld.
+In het door de Gemeenschap gefinancierd of gesubsidieerd voltijds secundair onderwijs en deeltijds beroepssecundair onderwijs kan geen direct of indirect inschrijvingsgeld worden gevraagd.<br /><br />Na overleg binnen de participatieraad of de schoolraad bepalen de inrichtende machten de lijst van bijdragen die aan de ouders of aan de meerderjarige leerlingen kunnen worden gevraagd, evenals de afwijkingen die op deze bijdrageregeling worden toegekend.  Deze regeling wordt door middel van het school- of centrumreglement aan de ouders of aan de personen die de minderjarige leerling in rechte of in feite onder hun bewaring hebben, dan wel aan de meerderjarige leerling meegedeeld.
 
 ## ONDERAFDELING 3 CENTRA VOOR LEERLINGENBEGELEIDING
 
@@ -306,11 +306,20 @@ Bij het ministerie van de Vlaamse Gemeenschap wordt een onafhankelijke commissie
 
 ### ART. V. 22.
 
-De Commissie bestaat uit een kamer voor het basisonderwijs en een kamer voor het secundair onderwijs, de centra voor leerlingenbegeleiding, het deeltijds kunstonderwijs en het volwassenenonderwijs, voorgezeten door één magistraat of ere-magistraat en bijgestaan door één ambtenaar van het ministerie van de Vlaamse Gemeenschap, die fungeert als secretaris.<br /><br />Iedere kamer omvat:<br /><br />1° een lid dat voldoet aan de voorwaarden gesteld in artikel 205 van het Gerechtelijk Wetboek;<br /><br />2° een deskundige op het gebied van de consumentenbescherming;<br /><br />3° twee leden, vertrouwd met het onderwijsveld.<br /><br />De Vlaamse regering stelt de leden en hun plaatsvervangers aan en bepaalt de wijze waarop zij vergoed worden.
+De Commissie bestaat uit een kamer voor het basisonderwijs en een kamer voor het secundair onderwijs, de centra voor leerlingenbegeleiding, het deeltijds kunstonderwijs en het volwassenenonderwijs, voorgezeten door één onafhankelijke persoon die aangesteld wordt door de Vlaamse Regering en bijgestaan door één ambtenaar van het ministerie van de Vlaamse Gemeenschap, die fungeert als secretaris.<br>
+<br>
+Iedere kamer omvat:<br>
+1° een lid dat voldoet aan de voorwaarden gesteld in artikel 205 van het Gerechtelijk Wetboek;<br>
+2° een deskundige op het gebied van de consumentenbescherming;<br>
+3° twee leden, vertrouwd met het onderwijsveld.<br>
+<br>
+De Vlaamse regering stelt de leden en hun plaatsvervangers aan en bepaalt de wijze waarop zij vergoed worden.
 
 ### ART. V. 23.
 
-De leden van de Commissie genieten de burgerlijke en politieke rechten en bieden alle waarborgen met het oog op de onafhankelijke uitoefening van hun opdracht.
+De leden van de Commissie genieten de burgerlijke en politieke rechten en bieden alle waarborgen met het oog op de onafhankelijke uitoefening van hun opdracht.<br>
+<br>
+Leden van het kabinet van een minister van de federale regering, van de Vlaamse Regering of van de Brusselse Gewestregering, afgevaardigden van het Gemeenschapsonderwijs of personeel van de administratieve diensten van het gemeenschapsonderwijs of leden van de representatieve verenigingen van inrichtende machten van het gesubsidieerd onderwijs, van een inrichtende macht of schoolbestuur, van een centrum voor leerlingenbegeleiding, het hoger onderwijs uitgezonderd, kunnen geen deel uitmaken van de Commissie.
 
 ### ART. V. 24.
 
@@ -320,7 +329,7 @@ De Commissie stelt binnen een maand na haar instelling haar reglement van orde o
 
 ### ART. V. 25.
 
-De Commissie beslist over de gegrondheid van klachten van belanghebbenden inzake:<br /><br />1° de internationaalrechtelijke en grondwettelijke beginselen inzake de kosteloosheid van het onderwijs, de beginselen vermeld in artikel 27, § 1, van het decreet basisonderwijs van 25 februari 1997, artikel V. 13, eerste lid, en artikel 6, 6°, van het decreet van 1 december 1998 betreffende de centra voor leerlingenbegeleiding en de bijdrageregeling bedoeld in artikel 27, § 3, van het decreet basisonderwijs van 25 februari 1997 en artikel V. 13, tweede lid;<br /><br />2° de bepalingen van artikel 51 van het decreet basisonderwijs van 25 februari 1997, van artikel V. 9, V. 10, V. 11 en V. 12, van artikel 14bis van het decreet van 1 december 1998 betreffende de centra voor leerlingentegeleiding, van artikel 95bis tot en met 95sexies van het decreet van 31 juli 1990 betreffende het onderwijs-II en van artikel 61bis tot en met 61quinquies van het decreet van 2 maart 1999 tot regeling van een aantal aangelegenheden van het volwassenenonderwijs;<br /><br />[3° de niet-naleving van de bepalingen omtrent de bevoegdheden en de besluitvormingsprocedures bedoeld in artikel 18 tot en met 22 van het decreet van 2 april 2004 betreffende participatie op school en de Vlaamse Onderwijsraad.  <span class="reference">(ing. decr. 2 april 2004, art. 56, I: 1 april 2005)</span> ]<br /><br />Wanneer zij oordeelt dat een klacht gegrond is, kan zij beslissen om:<br /><br />1° een gedeeltelijke terugbetaling van de werkingsmiddelen van de betrokken school, de betrokken instelling, het betrokken centrum voor leerlingenbegeleiding of de betrokken instelling voor deeltijds kunstonderwijs op te leggen. De terugvordering of inhouding kan echter niet meer bedragen dan 10 procent van deze werkingsmiddelen en kan er niet toe leiden dat het aandeel in de werkingsmiddelen dat bestemd is voor personeelsaangelegenheden in absolute cijfers kleiner wordt dan wanneer de maatregel niet zou getroffen zijn;<br /><br />2° aan het betrokken centrum voor volwassenenonderwijs een financiële sanctie op te leggen overeenkomstig de bepalingen van artikel 66, § 2, van het decreet van 2 maart 1999 tot regeling van een aantal aangelegenheden van het volwassenenonderwijs.<br /><br />Deze sanctie wordt slechts uitvoerbaar de dag nadat de termijn om beroep in te stellen bij de Vlaamse regering verstreken is.<br /><br />Voorafgaandelijk aan het opleggen van een sanctie nodigt de Commissie het betrokken schoolbestuur, de betrokken inrichtende macht of het betrokken bestuur uit om de bestreden rechtshandeling in te trekken of te herzien of in een passende genoegdoening te voorzien.
+De Commissie beslist over de gegrondheid van klachten van belanghebbenden inzake:<br />1° de internationaalrechtelijke en grondwettelijke beginselen inzake de kosteloosheid van het onderwijs, de beginselen vermeld in artikel 27 van het decreet basisonderwijs van 25 februari 1997, artikel V. 13, eerste lid, en artikel 6, 6°, van het decreet van 1 december 1998 betreffende de centra voor leerlingenbegeleiding en de bijdrageregeling bedoeld in artikel 27bis en 27ter, § 1 van het decreet basisonderwijs van 25 februari 1997 en artikel V. 13, tweede lid;<br />2° de bepalingen van artikel 51 van het decreet Basisonderwijs van 25 februari 1997, van artikelen V.9, V.10, V.11 en V.12, van artikel 14bis van het decreet van 1 december 1998 betreffende de centra voor leerlingenbegeleiding, van artikelen 95bis tot en met 95sexies van het decreet van 31 juli 1990 betreffende het onderwijs II en van artikelen 120 tot en met 125 van het decreet van 15 juni 2007 betreffende het volwassenenonderwijs;<br />3° de niet-naleving van de bepalingen omtrent de bevoegdheden en de besluitvormingsprocedures bedoeld in artikel 18 tot en met 22 van het decreet van 2 april 2004 betreffende participatie op school en de Vlaamse Onderwijsraad. <br /><br />Wanneer zij oordeelt dat een klacht gegrond is, kan zij beslissen om:<br />1° een gedeeltelijke terugbetaling van de werkingsmiddelen van de betrokken school, de betrokken instelling, het betrokken centrum voor leerlingenbegeleiding of de betrokken instelling voor deeltijds kunstonderwijs op te leggen. De terugvordering of inhouding kan echter niet meer bedragen dan 10 procent van deze werkingsmiddelen en kan er niet toe leiden dat het aandeel in de werkingsmiddelen dat bestemd is voor personeelsaangelegenheden in absolute cijfers kleiner wordt dan wanneer de maatregel niet zou getroffen zijn;<br />2° aan het betrokken centrum voor volwassenenonderwijs een financiële sanctie op te leggen overeenkomstig de bepalingen van artikel 66, § 2, van het decreet van 2 maart 1999 tot regeling van een aantal aangelegenheden van het volwassenenonderwijs.<br /><br />Deze sanctie wordt slechts uitvoerbaar de dag nadat de termijn om beroep in te stellen bij de Vlaamse regering verstreken is.<br /><br />Voorafgaandelijk aan het opleggen van een sanctie nodigt de Commissie het betrokken schoolbestuur, de betrokken inrichtende macht of het betrokken bestuur uit om de bestreden rechtshandeling in te trekken of te herzien of in een passende genoegdoening te voorzien.
 
 ### ART. V. 26.
 
@@ -442,47 +451,47 @@ De bepalingen van dit hoofdstuk treden in werking op 1 september 2001, behalve a
 
 ### ART. VI. 9.
 
-(niet opgenomen)<br /><br />(Wijzigt artikel 10 van de wet van 7 juli 1970 betreffende de algemene structuur van het hoger onderwijs)
+...
 
 ### ART. VI. 10.
 
-(niet opgenomen)<br /><br />(Wijzigt artikel 17 van dezelfde wet)
+...
 
 ### ART. VI. 11.
 
-(niet opgenomen)<br /><br />(Wijzigt artikel 3 van het decreet van 2 maart 1999 tot regeling van een aantal aangelegenheden van het volwassenenonderwijs)
+...
 
 ### ART. VI. 12.
 
-(niet opgenomen)<br /><br />(Heft artikel 27 van hetzelfde decreet op)
+...
 
 ### ART. VI. 13.
 
-(niet opgenomen)<br /><br />(Wijzigt artikel 28 van hetzelfde decreet)
+...
 
 ### ART. VI. 14.
 
-(niet opgenomen)<br /><br />(Wijzigt artikel 29 van hetzelfde decreet)
+...
 
 ### ART. VI. 15.
 
-(niet opgenomen)<br /><br />(Wijzigt artikel 34 van hetzelfde decreet)
+...
 
 ### ART. VI. 16.
 
-(niet opgenomen)<br /><br />(Wijzigt artikel 41 van hetzelfde decreet)
+...
 
 ### ART. VI. 17.
 
-(niet opgenomen)<br /><br />(Wijzigt artikel 46 van hetzelfde decreet)
+...
 
 ### ART. VI. 18.
 
-(niet opgenomen)<br /><br />(Wijzigt artikel 48 van hetzelfde decreet)
+...
 
 ### ART. VI. 19.
 
-(niet opgenomen)<br /><br />(Wijzigt artikel 50 van hetzelfde decreet)
+...
 
 ### ART. VI. 20.
 
