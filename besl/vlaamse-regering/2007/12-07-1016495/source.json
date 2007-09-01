@@ -1,0 +1,17 @@
+{
+  "codex_id": 1016495,
+  "title": "Besluit van de Vlaamse Regering van 2007-12-07 betreffende het ICT-infrastructuurprogramma voor de informatisering van het onderwijs voor het schooljaar 2007-2008",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1016495/VolledigDocument?datum=2007-09-01",
+  "source_sha256": "7005bb2fd2312a70605b571390467dea4debe51cf46ff62f516da478dd44449a",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1016495&param=informatie",
+  "as_of": "2007-09-01",
+  "made": "2007-12-07",
+  "gazette": "2008-01-14",
+  "numac": 2007037392,
+  "document_start": "2007-09-01",
+  "document_end": "2008-08-31",
+  "in_force": "2007-09-01",
+  "article_versions": 9,
+  "record_form": "consolidated version as in force on 2007-09-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
