@@ -1,0 +1,17 @@
+{
+  "codex_id": 1016124,
+  "title": "Besluit van de Vlaamse Regering van 2007-07-19 tot uitvoering van het decreet van 2 maart 2007 houdende het statuut van de reisbureaus",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1016124/VolledigDocument?datum=2007-09-01",
+  "source_sha256": "2caa53f00661b3a2838ad0a049887057dc7864803109ad1d4b2234d0e645f978",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1016124&param=informatie",
+  "as_of": "2007-09-01",
+  "made": "2007-07-19",
+  "gazette": "2007-09-04",
+  "numac": 2007036483,
+  "document_start": "2007-09-01",
+  "document_end": "2013-12-31",
+  "in_force": "2007-09-01",
+  "article_versions": 41,
+  "record_form": "consolidated version as in force on 2007-09-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
