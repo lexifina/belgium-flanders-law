@@ -562,6 +562,28 @@ De Vlaamse minister, bevoegd voor het onderwijs, is belast met de uitvoering van
 			</td>
 		</tr>
 		<tr>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:black 1pt solid; border-right:black 1pt solid; border-top:#f0f0f0; height:14pt; width:62.25pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14pt; width:307pt">
+			<p>Master of Applied Sciences and Engineering: Computer Science</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14pt; width:130.75pt">
+			<p>burgerlijk ingenieur</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:black 1pt solid; border-right:black 1pt solid; border-top:#f0f0f0; height:14pt; width:62.25pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14pt; width:307pt">
+			<p>Master of Applied Sciences and Engineering: Applied Computer Science</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14pt; width:130.75pt">
+			<p>burgerlijk ingenieur</p>
+			</td>
+		</tr>
+		<tr>
 			<td colspan="3" style="background-color:transparent; border-bottom:black 1pt solid; border-left:black 1pt solid; border-right:black 1pt solid; border-top:#f0f0f0; height:14pt; width:500pt">
 			<p>Toegepaste biologische wetenschappen</p>
 			</td>
