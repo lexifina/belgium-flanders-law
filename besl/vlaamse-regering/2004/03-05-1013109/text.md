@@ -111,6 +111,14 @@ Met toepassing van de artikelen 125septies, § 2, 3° en 125duodecies, § 2,   3
 
 ## [HOOFDSTUK III PUNTENENVELOPPE VOOR HET VOEREN VAN EEN ZORGBELEID (verv. BVR 5 september 2008, art. 3)]
 
+### ART. 4ter1.
+
+Met toepassing van artikel 125duodecies 1 van het decreet wordt aan elke scholengemeenschap een puntenenveloppe zorg+ ter bevordering van de kleuterparticipatie toegekend. Het aantal punten waarop de scholengemeenschap recht heeft, wordt als volgt berekend :<br />1° het aantal regelmatige kleuters van de scholengemeenschap wordt vermenigvuldigd met de coëfficiënt 0,02841;<br />2° het resultaat van de berekening wordt afgerond naar het hogere geheel getal als het eerste cijfer na de komma groter is dan 4. Indien het eerste cijfer na de komma kleiner of gelijk is aan vier dan wordt er afgerond naar het lager gelegen geheel getal.
+
+### ART. 4ter2.
+
+Uit de puntenenveloppe, verkregen volgens artikel 4ter 1, kan enkel het ambt van zorgcoördinator uit de categorie beleids- en ondersteunend personeel ingericht worden.
+
 ## [HOOFDSTUK IV VAN PUNTEN NAAR BETREKKINGEN (ing. BVR 7 september 2007, art. 5)]
 
 ### ART. 4quater.
