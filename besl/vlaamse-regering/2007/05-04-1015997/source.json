@@ -1,0 +1,17 @@
+{
+  "codex_id": 1015997,
+  "title": "Besluit van de Vlaamse Regering van 2007-05-04 tot wijziging van het besluit van de Vlaamse Regering van 22 oktober 1996 tot de regeling van de procedure voor de toewijzing van nascholingsprojecten op initiatief van de Vlaamse Regering",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1015997/VolledigDocument?datum=2007-09-01",
+  "source_sha256": "eb6be84e2da617e8a2d0b7d494e657544695480c5ec055dc3606b46855c8ab32",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1015997&param=informatie",
+  "as_of": "2007-09-01",
+  "made": "2007-05-04",
+  "gazette": "2007-07-31",
+  "numac": 2007036241,
+  "document_start": "2007-09-01",
+  "document_end": null,
+  "in_force": "2007-09-01",
+  "article_versions": 6,
+  "record_form": "consolidated version as in force on 2007-09-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
