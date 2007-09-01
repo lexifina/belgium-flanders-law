@@ -90,15 +90,15 @@ De artikelen van dit hoofdstuk treden in werking op 1 september 2000, met uitzon
 
 ### ART. 21.
 
-In artikel 8, eerste lid, van het decreet van 2 maart 1999 tot regeling van een aantal aangelegenheden van het volwassenenonderwijs, wordt het woord « gunstig » geschrapt.
+[... (opgeh. decr. 15 juni 2007, art. 170, I: 1 september 2007)]
 
 ### ART. 22.
 
-In hetzelfde decreet wordt een artikel 10bis ingevoegd, dat luidt als volgt :<br />« Artikel 10bis. In afwachting van de uitvoering van de artikelen 9 en 10 blijft, met uitzondering van wat bepaald is in artikel 40, § 2, tweede lid, de bestaande studiebekrachtiging tot op een door de Vlaamse regering te bepalen datum van toepassing. De Vlaamse regering bepaalt het model van de studiebewijzen die tijdens deze overgangsperiode door deze centra uitgereikt worden. »
+[... (opgeh. decr. 15 juni 2007, art. 170, I: 1 september 2007)]
 
 ### ART. 23.
 
-In artikel 50, § 2, van hetzelfde decreet wordt 2° vervangen door wat volgt :<br />« 2° niet-werkende, verplicht ingeschreven werkzoekenden en uitkeringsgerechtigde werklozen, met uitzondering van de bruggepensioneerden; ».
+[... (opgeh. decr. 15 juni 2007, art. 170, I: 1 september 2007)]
 
 ### ART. 24.
 
