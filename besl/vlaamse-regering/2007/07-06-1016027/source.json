@@ -1,0 +1,17 @@
+{
+  "codex_id": 1016027,
+  "title": "Besluit van de Vlaamse Regering van 2007-07-06 tot wijziging van het besluit van de Vlaamse Regering van 16 september 1997 betreffende de controle op de inschrijvingen van leerlingen in het secundair onderwijs en het besluit van de Vlaamse Regering van 12 november 1997 betreffende de controle op de inschrijvingen van leerlingen in het basisonderwijs",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1016027/VolledigDocument?datum=2007-09-01",
+  "source_sha256": "6fd52dd74e1c712a3b3e61027794dea2d5adb4dd4c349877aa8f0103170ffe4c",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1016027&param=informatie",
+  "as_of": "2007-09-01",
+  "made": "2007-07-06",
+  "gazette": "2007-08-02",
+  "numac": 2007036277,
+  "document_start": "2007-09-01",
+  "document_end": null,
+  "in_force": "2007-09-01",
+  "article_versions": 16,
+  "record_form": "consolidated version as in force on 2007-09-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
