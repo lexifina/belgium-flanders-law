@@ -62,21 +62,19 @@ Het getuigschrift over de basiskennis van het bedrijfsbeheer wordt aan de regelm
 
 ### ART. 11.
 
-§ 1. De omkadering in het deeltijds beroepssecundair onderwijs wordt berekend op basis van een aantal wekelijkse uren per leerling.<br /><br />§ 2. Het in § 1 bedoelde aantal wekelijkse uren per leerling bedraagt:<br /><br />- voor de schijf 1 - 49 leerlingen: 3,4<br /><br />- vanaf de 50ste leerling: 2,45<br /><br />Indien de leerling in het centrum voor deeltijds beroepssecundair onderwijs enkel de technische of praktische vakken volgt, zoals bedoeld in artikel 67, § 2, van het decreet van 31 juli 1990 betreffende het onderwijs - II, wordt 1,6 wekelijkse uren per leerling toegekend.<br /><br />[De hierboven vermelde coëfficiënten worden verhoogd voorzover het een deeltijds leerplichtige leerling betreft. De omvang van deze verhoging is afhankelijk van de beschikbare begrotingskredieten. Voor de toepassing van deze bepaling wordt, uiterlijk tot het schooljaar dat eindigt in het kalenderjaar waarin de leeftijd van 20 jaar wordt bereikt, onder "deeltijds leerplichtige leerling" ook de leerling verstaan die na het einde van de leerplicht verder ononderbroken deeltijds beroepssecundair onderwijs volgt.  <span class="reference">(ing. B.V.R. 13 januari 2006, art. 1, I: 1 september 2005)</span> ]<br /><br />[Voor de berekening van het aantal wekelijkse uren per leerling worden uitsluitend de eenmaal getelde leerlingen in aanmerking genomen.  <span class="reference">(ing. B.V.R. 7 januari 1992, art. 2, I: 1 september 1992)</span> ]
+...
 
 ### ART. 11bis.
 
-[§ 1. Als een centrum voor deeltijds beroepssecundair onderwijs ontstaat door samenvoeging van bestaande centra, dan wordt voor de berekening van de omkadering voor dit centrum, de samenvoeging geacht te hebben plaatsgevonden op 1 februari voorafgaand aan het schooljaar van de daadwerkelijke samenvoeging.<br>
-<br>
-§ 2. Als een centrum voor deeltijds beroepssecundair onderwijs ontstaat door afsplitsing van één of meer vestigingsplaatsen van een bestaand centrum, dan wordt voor de berekening van de omkadering voor deze centra, de afsplitsing geacht te hebben plaatsgevonden op 1 februari voorafgaand aan het schooljaar van de daadwerkelijke afsplitsing (ing. BVR 16 mei 1995, art. 4, I: 1 september 1994)].
+...
 
 ### ART. 12.
 
-§ 1. Per centrum mag de globale omkadering, die het resultaat is van hetgeen vermeld is onder artikel 11, § 2, vrij worden aangewend voor de organisatie van het deeltijds beroepssecundair onderwijs.<br /><br />Vooraleer over de aanwendingscriteria van de globale omkadering door de directeur van het centrum in samenspraak met de centrumraad wordt beslist, dient een overleg plaats te vinden in het bevoegde overlegcomité, opgericht krachtens de wet van 19 december 1974 tot regeling van de betrekkingen tussen de overheid en de vakbonden van haar personeel en het koninklijk besluit van 28 september 1984 tot uitvoering van deze wet in het officieel onderwijs [en van het lokaal onderhandelingscomité opgericht krachtens het decreet van 5 april 1995 tot oprichting van onderhandelingscomités in het vrij gesubsidieerd onderwijs,  <span class="reference">(verv. B.V.R. 9 maart 2001, art. 3, I: 1 september 1999)</span> ] [onverminderd het in § 2 gestelde.  <span class="reference">(ing. B.V.R. 13 januari 2006, art. 2, I: 1 september 2005)</span> ]<br /><br />[...  <span class="reference">(opgeh. B.V.R. 9 maart 2001, art. 3, I: 1 september 1999)</span> ]<br /><br />§ 2. Per centrum kan de globale omkadering worden aangewend voor het oprichten van lesuren en leerlingenbegeleiding enerzijds en voor het oprichten van ambten van [opvoeder  <span class="reference">(verv. B.V.R. 13 januari 2006, art. 4, I: 1 september 2005)</span> ] anderzijds. [De uren die het resultaat zijn van de verhoging, bedoeld in artikel 11, § 2, voorlaatste lid, kunnen evenwel uitsluitend worden aangewend voor leerlingenbegeleiding onder vorm van trajectbegeleiding, georiënteerd naar werkplekervaring.  <span class="reference">(ing. B.V.R. 13 januari 2006, art. 3, I: 1 september 2005)</span> ]<br /><br />§ 3. Indien een centrum een beroep doet op een meewerkend centrum, een meewerkende instelling voor voltijds secundair onderwijs of een meewerkende instelling voor onderwijs voor sociale promotie, dan kan het centrum uren overdragen naar de meewerkende entiteit(en), op voorwaarde evenwel dat vooraf en akkoord tussen de betrokken partijen wordt afgesloten.
+...
 
 ### ART. 13.
 
-§ 1. Van zodra een centrum voor deeltijds beroepssecundair onderwijs vijftig regelmatig leerlingen telt, wordt één volledige opdracht van coördinator aan het centrum toegekend.<br /><br />§ 2. Voor de centra met het Nederlands als onderwijstaal die gelegen zijn in de 19 gemeenten van het arrondissement Brussel-Hoofdstad en voor de centra gevestigd in de gemeenten waarvan de bevolkingsdichtheid lager is dan 125 inwoners per km², zijn slechts vijfendertig regelmatige leerlingen vereist voor toekenning van één volledige opdracht van coördinator aan het centrum.
+...
 
 ### ART. 14.
 
@@ -86,7 +84,7 @@ Het getuigschrift over de basiskennis van het bedrijfsbeheer wordt aan de regelm
 
 ### ART. 15.
 
-Voor een volledige opdracht van [opvoeder  <span class="reference">(verv. B.V.R. 13 januari 2006, art. 4, I : 1 september 2005)</span> ] worden van de globale omkadering, bedoeld in artikel 11, § 2, 24 wekelijkse uren per leerling, in mindering genomen, terwijl voor een halve opdracht 12 wekelijkse uren per leerling van de globale omkadering worden opgenomen.
+...
 
 ### ART. 16.
 
@@ -94,7 +92,7 @@ Maximum 20 % van de globale omkadering, zoals bedoeld in artikel 11, § 2, kan t
 
 ### ART. 17.
 
-Indien een betrekking in het ambt van coördinator wordt ingericht, zoals bedoeld in artikel 13, dient de inrichtende macht deze betrekking toe te wijzen aan een personeelslid dat met ingang van 1 februari 1988 ononderbroken de functie van coördinator in het experimenteel secundair onderwijs met beperkt leerplan uitoefende overeenkomstig de bepalingen van artikel 10, § 4, van het koninklijk besluit van 12 december 1986 houdende inrichting van een experimenteel secundair onderwijs met beperkt leerplan, voor zover dit personeelslid niet vóór 30 juni 1990 in vooropzeg werd gesteld of voor zover dit personeelslid niet weigert de betrekking van coördinator uit te oefenen.<br /><br />Deze toewijzing gebeurt in afwijking van de reglementering inzake terbeschikkingstelling wegens ontstentenis van betrekking, reaffectatie en wedertewerkstelling. Voor het Gemeenschapsonderwijs gebeurt dit bovendien in afwijking van de bepalingen van het koninklijk besluit van 22 maart 1969 tot vaststelling van het statuut van de leden van het bestuurs- en onderwijzend personeel, van het opvoedend hulppersoneel, van het paramedisch personeel der inrichtingen voor kleuter-, lager, buitengewoon, middelbaar, technisch, kunst en normaalonderwijs van de Staat, alsmede der inter-naten die van deze inrichtingen afhangen en van de leden van de inspectiedienst die belast is met het toezicht op deze inrichtingen.<br /><br />Voor de toepassing van voormelde bepalingen worden niet als dienstonderbreking beschouwd: de vakantieperioden, de militaire dienst, perioden van wederoproeping, de ziekte- of bevallingsverloven, de borstvoedingsverloven, de verloven van korte duur met behoud van wedde(toelagen) ter gelegenheid van sommige gebeurtenissen van familiale of sociale aard, alsook de verloven zonder behoud van wedde(toelagen) voor een maximum duur van zes werkdagen per schooljaar, alsmede een periode van ten hoogste dertig kalenderdagen per schooljaar.<br /><br />Voornoemde verloven en afwezigheden kunnen eveneens aanvangen op 1 februari 1988.
+...
 
 ## HOOFDSTUK VI SLOTBEPALINGEN
 
