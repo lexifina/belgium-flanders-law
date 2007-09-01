@@ -8,6 +8,10 @@ De Vlaamse Regering,<br /><br />Gelet op het decreet van 7 mei 2004 tot oprichti
 
 In artikel 2 van het besluit van de Vlaamse Regering van 15 december 2000 houdende vaststelling van de voorwaarden van toekenning van een persoonlijke-assistentiebudget aan personen met een handicap, gewijzigd bij de besluiten van de Vlaamse Regering van 19 juli 2002, 18 juli 2003 en 17 november 2006, wordt § 1 vervangen door wat volgt :<br />« § 1. Voor een PAB komen de personen met een handicap in aanmerking die krachtens de beslissing van de evaluatiecommissie, vermeld in hoofdstuk II van het besluit van de Vlaamse Regering van 24 juli 1991 betreffende de inschrijving bij het Vlaams Agentschap voor Personen met een Handicap, in aanmerking komen voor bijstand tot sociale integratie. »
 
+### ART. 2.
+
+In artikel 4 van hetzelfde besluit, vervangen bij het besluit van de Vlaamse Regering van 18 juli 2003 en gewijzigd bij de besluiten van de Vlaamse Regering van 14 oktober 2005 en 17 november 2006, wordt het getal « 1400 » vervangen door het getal « 1600 ».
+
 ### ART. 3.
 
 In artikel 6, eerste lid, van hetzelfde besluit worden de woorden « Fonds voor de Sociale Integratie van » vervangen door de woorden « Agentschap voor ».
