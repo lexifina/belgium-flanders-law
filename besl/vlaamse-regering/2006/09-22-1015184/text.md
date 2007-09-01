@@ -6,31 +6,31 @@ De Vlaamse Regering,<br /><br />Gelet op het decreet van 2 maart 1999 tot regeli
 
 ### ART. 1.
 
-Het Centrum voor Volwassenenonderwijs GLTT, Schoolstraat 2, in 1640 Sint-Genesius-Rode, wordt gemachtigd om in de gemeente Herne gefinancierde opleidingen Nederlands tweede taal te organiseren.<br /><br />
+...
 
 ### ART. 2.
 
-Het Centrum voor Volwassenenonderwijs Merchtem Sint-Donatus, Dendermondestraat 26, in 1785 Merchtem, wordt gemachtigd om in de gemeente Liedekerke gesubsidieerde opleidingen Nederlands tweede taal te organiseren.<br /><br />
+...
 
 ### ART. 3.
 
-Het Centrum voor Volwassenenonderwijs Vormingsleergang voor Sociaal en Pedagogisch Werk Gent, Edgard Tinelstraat 92, in 9040 Sint-Amandsberg, wordt gemachtigd om in samenwerking met derden gesubsidieerde opleidingen op de werkvloer te organiseren in de gemeenten Antwerpen, Lier, Turnhout en in het Brussels Hoofdstedelijk Gewest.<br /><br />
+...
 
 ### ART. 4.
 
-Het Centrum voor Volwassenenonderwijs Kempen, Leenhofstraat 33, in 2400 Mol, wordt gemachtigd om in de gemeente Herselt gefinancierde opleidingen Nederlands tweede taal te organiseren.<br /><br />
+...
 
 ### ART. 5.
 
-Het Centrum voor Volwassenenonderwijs VIVO, Scheutistenlaan 12, in 8500 Kortrijk, wordt gemachtigd om in samenwerking met de KATHO hogeschool gesubsidieerde opleidingen te organiseren op de campus van de hogeschool gelegen in de gemeenten Torhout en Roeselare.<br /><br />
+...
 
 ### ART. 6.
 
-Het Centrum voor Volwassenenonderwijs Audiovisueel Centrum Meise, Stationsstraat 15, in 1861 Meise, wordt gemachtigd om in de gemeente Asse gesubsidieerde opleidingen Nederlands tweede taal te organiseren.<br /><br />
+...
 
 ### ART. 7.
 
-Het Centrum voor Volwassenenonderwijs Aalst - Opwijk, Keizersplein 19, in 9300 Aalst, wordt gemachtigd om in de gemeente Herzele gefinancierde opleidingen Nederlands tweede taal te organiseren.<br /><br />
+...
 
 ### ART. 8.
 
@@ -38,4 +38,4 @@ Dit besluit heeft uitwerking met ingang van 1 september 2006. Het besluit houdt 
 
 ### ART. 9.
 
-De Vlaamse minister, bevoegd voor het Onderwijs, is belast met de uitvoering van dit besluit.<br /><br />
+...
