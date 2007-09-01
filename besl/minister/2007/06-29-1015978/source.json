@@ -1,0 +1,17 @@
+{
+  "codex_id": 1015978,
+  "title": "Ministerieel besluit van 2007-06-29 tot wijziging van het ministerieel besluit van 26 juli 2001 tot vaststelling van het bijdragesysteem voor de gebruiker van een dienst voor gezinszorg",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1015978/VolledigDocument?datum=2007-09-01",
+  "source_sha256": "7f4020842d0df764d8ce8c04968e0a52c83a85ccd54c870c39cbd049198f23b1",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1015978&param=informatie",
+  "as_of": "2007-09-01",
+  "made": "2007-06-29",
+  "gazette": "2007-07-20",
+  "numac": 2007036164,
+  "document_start": "2007-09-01",
+  "document_end": null,
+  "in_force": "2007-09-01",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2007-09-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
