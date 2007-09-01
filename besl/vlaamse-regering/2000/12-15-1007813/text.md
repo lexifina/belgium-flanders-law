@@ -20,7 +20,7 @@ Het agentschap bepaalt het model van de aanvraag om een PAB te verkrijgen en ste
 
 ### ART. 4.
 
-Het agentschap kan aan ten hoogste 1400 personen met een handicap een PAB toekennen.<br /><br />De Vlaamse minister, bevoegd voor de Bijstand aan Personen, bepaalt volgens welke criteria bij voorrang een PAB wordt toegekend. De Vlaamse minister, bevoegd voor de Bijstand aan Personen, houdt rekening met onder meer de ernst van de handicap, met de zorgbehoefte van de aanvrager en met de datum van aanvraag.
+Het agentschap kan aan ten hoogste 1600 personen met een handicap een PAB toekennen.<br /><br />De Vlaamse minister, bevoegd voor de Bijstand aan Personen, bepaalt volgens welke criteria bij voorrang een PAB wordt toegekend. De Vlaamse minister, bevoegd voor de Bijstand aan Personen, houdt rekening met onder meer de ernst van de handicap, met de zorgbehoefte van de aanvrager en met de datum van aanvraag.
 
 ### ART. 5.
 
