@@ -1,0 +1,17 @@
+{
+  "codex_id": 1016718,
+  "title": "Besluit van de Vlaamse Regering van 2008-02-22 betreffende de uitbreiding van de onderwijsbevoegdheid van centra voor volwassenenonderwijs en de oprichting van vestigingsplaatsen en tot aanpassing van de bijlage I van het decreet van 15 juni 2007 betreffende het volwassenenonderwijs",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1016718/VolledigDocument?datum=2007-09-01",
+  "source_sha256": "9dc0faf3614cdfa13522abe9f6231c472ee23288ba317a5b3235f560a4277008",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1016718&param=informatie",
+  "as_of": "2007-09-01",
+  "made": "2008-02-22",
+  "gazette": "2008-04-09",
+  "numac": 2008201043,
+  "document_start": "2008-02-01",
+  "document_end": null,
+  "in_force": "2007-09-01",
+  "article_versions": 6,
+  "record_form": "consolidated version as in force on 2007-09-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
