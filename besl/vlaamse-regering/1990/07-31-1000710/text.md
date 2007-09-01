@@ -188,7 +188,7 @@ In iedere instelling worden de processen-verbaal van de proeven gedurende tien j
 
 ### ART. 43.
 
-§ 1. Het ambt van opsteller wordt geheel of gedeeltelijk toegekend op basis van volgende formule:<br /><br />(7,8 x a + 4,2 x b + 1,9 x c + 12,5 x d + 4,4 x e + 2,6 x f + 8 x g): 5 000<br /><br />waarbij:<br /><br />a = aantal uren-leraar in de lagere graad, studierichting muziek;<br /><br />b = aantal uren-leraar in de middelbare graad, studierichting muziek;<br /><br />c = aantal uren-leraar in de hogere graad, studierichting muziek;<br /><br />d = aantal uren-leraar in de lagere graad, studierichting woordkunst;<br /><br />e = aantal uren-leraar in de middelbare graad, studierichting woordkunst;<br /><br />f = aantal uren-leraar in de hogere graad, studierichting woordkunst;<br /><br />g = aantal uren-leraar, studierichting dans.<br /><br />Het aantal uren-opsteller wordt bekomen door het quotiënt te vermenigvuldigen met het aantal uren van een voltijdse opdracht. Het produkt wordt afgerond naar de lagere eenheid.<br /><br />§ 2. Vanaf 200 leerlingen, zoals bepaald in artikel 41, wordt een ambt van directeur toegekend. Beneden dit minimum wordt een ambt van directeur toegekend naar rata van 1/20 per volledige reeks van 10 [...  <span class="reference">(geschr. B.V.R. 1 september 1993, art. 3, I: 1 september 1993)</span> ] leerlingen.
+§ 1. ...<br /><br />§ 2. Vanaf 200 leerlingen, zoals bepaald in artikel 41, wordt een ambt van directeur toegekend. Beneden dit minimum wordt een ambt van directeur toegekend naar rata van 1/20 per volledige reeks van 10 [...  <span class="reference">(geschr. B.V.R. 1 september 1993, art. 3, I: 1 september 1993)</span> ] leerlingen.
 
 ### ART. 44.
 
@@ -342,7 +342,7 @@ De bepalingen van de artikelen 69 tot en met 72 zijn alleen van toepassing op de
 
 ### ART. 74.
 
-§ 1. De instellingen die op 30 juni 1990 beschikken over een bezoldigd ambt van studiemeester-opvoeder kunnen dit ambt behouden zolang het wordt ingenomen door de titularis van dat ogenblik.<br /><br />§ 2. Het aantal uren-studiemeester-opvoeder wordt berekend overeenkomstig de formule voor de berekening van het aantal uren-opsteller.
+...
 
 ### ART. 75.
 
