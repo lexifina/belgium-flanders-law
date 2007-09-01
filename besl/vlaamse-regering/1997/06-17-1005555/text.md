@@ -22,7 +22,7 @@ Voor de toepassing van dit besluit wordt verstaan onder:<br />1° ...<br />2° a
 
 ### ART. 4.
 
-§ 1. Met toepassing van artikel 130 § 2 van het decreet wordt de directeur in de volgende gevallen belast met een onderwijsopdracht van:<br /><br />- 18 lestijden in scholen met minder dan 20 leerlingen;<br /><br />- 14 lestijden in scholen met 20 tot en met 129 leerlingen;<br /><br />- 8 lestijden in scholen met 130 tot en met 179 leerlingen.<br /><br />§ 2. In afwijking van § 1 wordt voor de scholen in het tweetalig gebied Brussel-Hoofdstad de directeur belast met een onderwijsopdracht van:<br /><br />- 18 lestijden in scholen met minder dan 20 leerlingen;<br /><br />- 14 lestijden in scholen met 20 tot en met 69 leerlingen;<br /><br />- 8 lestijden in scholen met 70 tot en met 99 leerlingen.<br /><br />§ 3. Voor de toepassing van § 1 en § 2 wordt rekening gehouden met de leerlingen uit het kleuteronderwijs en uit het lager onderwijs die in aanmerking komen voor de berekening van de lestijden volgens de schalen van het lopende schooljaar.
+§ 1. Met toepassing van artikel 130 § 2 van het decreet wordt de directeur in de volgende gevallen belast met een onderwijsopdracht van:<br />- 14 lestijden in scholen met minder dan 20 leerlingen;<br />- 10 lestijden in scholen met 20 tot en met 129 leerlingen;<br />- 4 lestijden in scholen met 130 tot en met 179 leerlingen.<br /><br />§ 2. In afwijking van § 1 wordt voor de scholen in het tweetalig gebied Brussel-Hoofdstad de directeur belast met een onderwijsopdracht van:<br />- 14 lestijden in scholen met minder dan 20 leerlingen;<br />- 10 lestijden in scholen met 20 tot en met 69 leerlingen;<br />- 4 lestijden in scholen met 70 tot en met 99 leerlingen.<br /><br />§ 3. Voor de toepassing van § 1 en § 2 wordt rekening gehouden met de leerlingen uit het kleuteronderwijs en uit het lager onderwijs die in aanmerking komen voor de berekening van de lestijden volgens de schalen van het lopende schooljaar.
 
 ## AFDELING C BIJZONDERE BEPALINGEN INZAKE VRIJWILLIGE FUSIES
 
@@ -44,7 +44,7 @@ Vanaf het vierde schooljaar na de fusie is de adjunct-directeur niet langer bela
 
 ### ART. 5bis.
 
-Voor het schooljaar 2000-2001 wordt op de kleuters die op de teldatum tussen twee jaar en zes maanden en drie jaar zijn een coëfficiënt 1,1 toegepast. Het resultaat van deze berekening wordt samengeteld met de andere kleuters. Het resultaat van de berekening wordt afgerond naar de hogere eenheid als het eerste cijfer achter de komma groter is dan vier.  <span class="reference">(ing. B.V.R. 11 januari 2002, art. 3, I: 1 september 2000)</span> ]
+...
 
 ### ART. 6.
 
@@ -52,19 +52,19 @@ Met toepassing van de artikelen 131, 132 en 135 van het decreet worden de lestij
 
 ### ART. 7.
 
-§ 1. [In toepassing van artikel 141, § 2, van het decreet kan het lestijdenpakket worden herberekend als op één van de instapdata, bepaald in artikel 194, § 1, tweede lid, voor het schooljaar 2001-2002 en vanaf het schooljaar 2003-2004 bepaald in artikel 12, § 2, van het decreet, het aantal regelmatig ingeschreven kleuters zodanig gestegen is in vergelijking met de teldag of in vergelijking met het gemiddeld aantal regelmatige kleuters tijdens de telperiode, dat het aantal leerlingen recht geeft op ten minste elf lestijden meer dan het aantal dat op het ogenblik van de herberekening wordt aangewend in toepassing van de tabellen 1 of 3 als bijlagen bij dit besluit.  <span class="reference">(verv. B.V.R. 5 december 2003, art. 1, I: 1 september 2001)</span> ]<br /><br />[§ 2. Voor het schooljaar 2000-2001 behoudt bij een herberekening op een instapdatum elke nog ingeschreven kleuter bij wie op de teldag voor de berekening van het lestijdenpakket de coëfficiënt zoals bepaald in artikel 5bis werd toegepast, deze weging. Deze weging wordt ook toegepast op kleuters die op de eerste schooldag van september van het lopende schooljaar of bij de inschrijving in de loop van het schooljaar tussen twee jaar en zes maanden zijn en blijft, zolang het kind ingeschreven is, het volledige lopende schooljaar behouden.<br /><br />§ 3. De lestijden verkregen als gevolg van de herberekening worden slechts gefinancierd of gesubsidieerd tot 30 juni van het lopende schooljaar.  <span class="reference">(verv. B.V.R. 11 januari 2002, art. 4, I: 1 september 2000)</span> ]
+§ 1. Met toepassing van artikel 141, § 2, van het decreet, kunnen de lestijden in het kleuteronderwijs op de instapdata, vermeld in artikel 12, § 2, van het decreet, herberekend worden. <br /><br />Het aantal regelmatige kleuters dat de school op de instapdatum méér telt ten opzichte van de teldag voor de berekening van de lestijden volgens de schalen wordt vermenigvuldigd met 0,8. Het bekomen getal wordt naar beneden afgerond tot op het geheel getal. Van dit getal worden de lestijden bekomen ten gevolge van eerdere herberekeningen tijdens het lopende schooljaar afgetrokken. Dit geeft het aantal lestijden bekomen ten gevolge van de herberekening<br /><br />§ 2. Het aantal lestijden, bekomen ten gevolge van de herberekening, wordt maar gefinancierd of gesubsidieerd tot 30 juni van het lopende schooljaar.
 
 ### ART. 8.
 
-Op de lestijden volgens de schalen voor het kleuteronderwijs van de tabellen 1 tot 4 als bijlagen bij dit besluit wordt het aanwendingspercentage 99,375 % toegepast.<br /><br />Hetzelfde geldt voor de lestijden verkregen als gevolg van de herberekening zoals bedoeld in artikel 7.
+Op de lestijden volgens de schalen voor het kleuteronderwijs van de tabellen 1 tot 4 als bijlagen bij dit besluit wordt het aanwendingspercentage 99,375 % toegepast.
 
 ### ART. 9.
 
-Uit de lestijden volgens de schalen verkregen volgens de artikelen 6 en 8 worden de volgende betrek-kingen en opdrachten geput:<br /><br />- de eventuele onderwijsopdracht van de directeur en de adjunct-directeur van een kleuterschool;<br /><br />- de eventuele onderwijsopdracht van de directeur en de adjunct-directeur van een basisschool voor het aantal lestijden die hij in het kleuterniveau presteert;<br /><br />- de ambten van kleuteronderwijzer;l<br /><br />[- het ambt van kinderverzorger voor het schooljaar 2000-2001.  <span class="reference">(ing. B.V.R. 11 januari 2002, art. 5, I: 1 september 2000)</span> ]
+Uit de lestijden volgens de schalen verkregen volgens de artikelen 6 en 8 worden de volgende betrek-kingen en opdrachten geput:<br />- de eventuele onderwijsopdracht van de directeur en de adjunct-directeur van een kleuterschool;<br />- de eventuele onderwijsopdracht van de directeur en de adjunct-directeur van een basisschool voor het aantal lestijden die hij in het kleuterniveau presteert;<br />- de ambten van kleuteronderwijzer;l
 
 ### ART. 10.
 
-[De omrekening van de lestijden volgens de schalen naar de gefinancierde of gesubsidieerde voltijdse of deeltijdse betrekkingen van kleuteronderwijzer of kinderverzorger gebeurt als volgt:<br /><br />1° op de lestijden volgens de schalen wordt het aanwendingspercentage toegepast, het resultaat wordt afgerond naar de hogere eenheid als het eerste cijfer achter de komma groter is dan vier;<br /><br />2° van het resultaat worden de eventuele lestijden onderwijsopdracht afgetrokken die de directeur en de adjunct-directeur presteren in het kleuteronderwijs;<br /><br />3° de overige lestijden worden gedeeld:<br /><br />- door 24 tot op de eenheid voor het ambt van kleuteronderwijzer; het quotiënt is gelijk aan het mogelijk aantal volledige betrekkingen;<br /><br />- voor het schooljaar 2000-2001 door 22 tot op de eenheid voor het ambt van kinderverzorger; het quotiënt is gelijk aan het mogelijk aantal volledige betrekkingen.  <span class="reference">(verv. B.V.R. 11 januari 2002, art. 6, I: 1 september 2000)</span> ]
+De omrekening van de lestijden volgens de schalen naar de gefinancierde of gesubsidieerde voltijdse of deeltijdse betrekkingen van kleuteronderwijzer of kinderverzorger gebeurt als volgt:<br />1° op de lestijden volgens de schalen wordt het aanwendingspercentage toegepast, het resultaat wordt afgerond naar de hogere eenheid als het eerste cijfer achter de komma groter is dan vier;<br />2° van het resultaat worden de eventuele lestijden onderwijsopdracht afgetrokken die de directeur en de adjunct-directeur presteren in het kleuteronderwijs;<br />3° de overige lestijden worden gedeeld:<br />- door 24 tot op de eenheid voor het ambt van kleuteronderwijzer; het quotiënt is gelijk aan het mogelijk aantal volledige betrekkingen;
 
 ## ONDERAFDELING 2 [... (opgeh. BVR 12 oktober 2012, art. 8)]
 
@@ -215,6 +215,10 @@ De minder gevolgde cursussen worden op dezelfde wijze georganiseerd als de meest
 
 De aanvullende lestijden, vermeld in artikel 22 en 22bis, worden uitsluitend aangewend voor de opvang, ondersteuning en begeleiding van anderstalige nieuwkomers en gewezen anderstalige nieuwkomers.
 
+### ART. 22quater.
+
+Met toepassing van artikel 142, § 2, van het decreet kan het aantal aanvullende lestijden, vermeld in artikel 22 en 22bis, gedurende het volledige schooljaar worden overgedragen.
+
 ## [ONDERAFDELING 3 AANVULLENDE LESTIJDEN VOOR LICHAMELIJKE OPVOEDING IN HET KLEUTERONDERWIJS (ing. BVR 5 december 2003, art. 2)]
 
 ### ART. 23.
@@ -223,11 +227,11 @@ De aanvullende lestijden, vermeld in artikel 22 en 22bis, worden uitsluitend aan
 
 ### ART. 23bis.
 
-§ 1. Voor de schooljaren 2001-2002 en 2002-2003 worden de lestijden per school berekend door de lestijden volgens de schalen, verkregen met toepassing van de artikelen 6 en 8 van dit besluit, te delen door 24 tot op de eenheid. Het quotiënt is gelijk aan het aantal aanvullende lestijden.<br /><br />§ 2. Vanaf het schooljaar 2003-2004 worden de lestijden per school berekend door de lestijden volgens de schalen, verkregen met toepassing van de artikelen 6 en 8 van dit besluit, te delen door 12 tot op de eenheid. Het quotiënt is gelijk aan het aantal aanvullende lestijden.  <span class="reference">(ing. B.V.R. 5 december 2003, art. 2, I: 1 september 2001)</span> ]
+De aanvullende lestijden voor lichamelijke opvoeding in het kleuteronderwijs worden per school berekend door de lestijden volgens de schalen, verkregen met toepassing van artikel 6 en 8 van dit besluit, te delen door 12 en naar beneden af te ronden tot op het geheel getal. Het quotiënt is gelijk aan het aantal aanvullende lestijden voor lichamelijke opvoeding in het kleuteronderwijs.
 
 ### ART. 23ter.
 
-§ 1. De aanvullende lestijden kunnen worden herberekend als op één van de instapdata bepaald in artikel 12, § 2 van het decreet, de lestijden volgens de schalen kunnen worden herberekend overeenkomstig artikel 7, § 1 van dit besluit.<br /><br />§ 2. De aanvullende lestijden verkregen als gevolg van de herberekening worden slechts gefinancierd of gesubsidieerd tot 30 juni van het lopende schooljaar.  <span class="reference">(ing. B.V.R. 5 december 2003, art. 2, I: 1 september 2001)</span> ]
+§ 1. Met toepassing van artikel 141, § 2, van het decreet kunnen de aanvullende lestijden voor lichamelijke opvoeding in het kleuteronderwijs herberekend worden als op een van de instapdata, bepaald in artikel 12, § 2, van het decreet, de lestijden volgens de schalen kunnen worden herberekend, overeenkomstig artikel 7 van dit besluit. <br /><br />§ 2. De lestijden die, met toepassing van artikel 7, § 1 van dit besluit, op de instapdatum zijn verkregen, worden bij het aantal lestijden volgens de schalen in het kleuteronderwijs waar de school tot dan toe recht op had geteld. Dat getal wordt gedeeld door 12 en naar beneden afgerond tot op het geheel getal. Van dat geheel getal worden de aanvullende lestijden voor lichamelijke opvoeding in het kleuteronderwijs waar de school tot dan toe recht op had, afgetrokken. Dat geeft het aantal aanvullende lestijden voor lichamelijke opvoeding in het kleuteronderwijs, bekomen ten gevolge van de herberekening.<br /><br />§ 3. Het aantal aanvullende lestijden voor lichamelijke opvoeding in het kleuteronderwijs, bekomen ten gevolge van de herberekening, worden maar gefinancierd of gesubsidieerd tot 30 juni van het lopende schooljaar.
 
 ### ART. 23quater.
 
