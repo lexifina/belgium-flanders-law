@@ -106,7 +106,7 @@ De schoolraad heeft ten behoeve van al het personeel, leerlingen en ouders een c
 
 ### ART. 19.
 
-De inrichtende macht vraagt de schoolraad advies over elk ontwerp van beslissing inzake:<br /><br />1° de bepaling van het profiel van de directeur;<br /><br />2° het studieaanbod;<br /><br />3° het aangaan van samenwerkingsverbanden met andere inrichtende machten en met externe instanties;<br /><br />4° de opstapplaatsen en de busbegeleiding in het kader van het door de inrichtende macht aangeboden vervoer;<br /><br />5° de vaststelling van het nascholingsbeleid;<br /><br />6° het beleid inzake experimenten en projecten.
+De inrichtende macht vraagt de schoolraad advies over elk ontwerp van beslissing inzake:<br />1° de bepaling van het profiel van de directeur;<br />2° het studieaanbod;<br />3° het aangaan van samenwerkingsverbanden met andere inrichtende machten en met externe instanties;<br />4° de opstapplaatsen en de busbegeleiding in het kader van het door de inrichtende macht aangeboden vervoer;<br />5° de vaststelling van het nascholingsbeleid;<br />6° het beleid inzake experimenten en projecten.<br />7° het niet opnemen in de maximumfactuur van de bijdrage die aan de ouders gevraagd wordt voor verplichte kledij die omwille van een sociale finaliteit aangeboden wordt. Dit punt is enkel van toepassing op het basisonderwijs.
 
 ### ART. 20.
 
