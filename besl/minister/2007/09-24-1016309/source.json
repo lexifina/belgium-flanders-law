@@ -1,0 +1,17 @@
+{
+  "codex_id": 1016309,
+  "title": "Ministerieel besluit van 2007-09-24 houdende de wijziging van het ministerieel besluit van 14 november 2000 houdende de vaststelling van de nadere regels betreffende de subsidieverlening voor het aankopen van personenalarmtoestellen",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1016309/VolledigDocument?datum=2007-09-01",
+  "source_sha256": "6130e453178d034f11c784bd9a30934cba7bf958c04c81169d7781143e2dba28",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1016309&param=informatie",
+  "as_of": "2007-09-01",
+  "made": "2007-09-24",
+  "gazette": "2007-11-06",
+  "numac": 2007036879,
+  "document_start": "2007-09-01",
+  "document_end": null,
+  "in_force": "2007-09-01",
+  "article_versions": 7,
+  "record_form": "consolidated version as in force on 2007-09-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
