@@ -8,13 +8,13 @@ Binnen de daartoe jaarlijks op de begroting uitgetrokken kredieten kunnen onder 
 
 ### ART. 2.
 
-Voor de toepassing van dit besluit dient te worden verstaan onder:<br /><br />1° minister: de Vlaamse minister, bevoegd voor het onderwijs;<br /><br />2° secretaris-generaal: de secretaris-generaal van het departement Onderwijs van het ministerie van de Vlaamse Gemeenschap of de door hem aangewezen ambtenaar;<br /><br />3° nascholingsprojecten op initiatief van de Vlaamse regering: de nascholingsprojecten, genoemd in artikel 55 van het decreet van 16 april 1996 betreffende de lerarenopleiding en de nascholing.
+Voor de toepassing van dit besluit dient te worden verstaan onder:<br />1° minister: de Vlaamse minister, bevoegd voor het onderwijs;<br />2° ...;<br />3° nascholingsprojecten op initiatief van de Vlaamse regering: de nascholingsprojecten, genoemd in artikel 55 van het decreet van 16 april 1996 betreffende de lerarenopleiding en de nascholing.
 
 ## HOOFDSTUK II BEPALING VAN PRIORITAIRE NASCHOLINGSTHEMA'S
 
 ### ART. 3.
 
-De prioritaire nascholingsthema's ondersteunen de implementatie van onderwijshervormingen of geven gevolg aan nascholingsbehoeften die niet of niet volledig ingevuld worden in het aanbod aan nascholing ten behoeve van de personeelsleden van het onderwijs. De minister, samen met de gezamenlijke vergadering van de leden van de departementale directieraad, de leden van het college van inspecteurs-generaal, of hun vervangers en de directeur van de dienst voor onderwijsontwikkeling stellen jaarlijks vóór het einde van de maand [november  <span class="reference">(verv. B.V.R. 29 maar 2002, art. 1, I: 1 oktober 2001)</span> ] voorafgaand aan elk schooljaar, een aantal prioritaire thema's voor.
+De prioritaire nascholingsthema's ondersteunen de implementatie van onderwijshervormingen of geven gevolg aan nascholingsbehoeften die niet of niet volledig ingevuld worden in het aanbod aan nascholing ten behoeve van de personeelsleden van het onderwijs.
 
 ### ART. 4.
 
@@ -28,11 +28,11 @@ De prioritaire nascholingsthema's worden zonder verwijl bekendgemaakt in het Bel
 
 ### ART. 6.
 
-De nascholingsvoorstellen worden per aangetekende brief ingediend vóór [15 februari  <span class="reference">(verv. B.V.R. 14 juli 1998, art. 2, I: 21 september 1998)</span> ] van elk schooljaar in de vorm van een projectfiche [waarvan het model bepaald wordt door de Vlaamse minister, bevoegd voor het Onderwijs. Dit model wordt bij de bekendmaking van de prioritaire nascholingsthema's meegedeeld.  <span class="reference">(verv. B.V.R. 29 maart 2002, art. 2, I: 1 oktober 2001)</span> ]<br /><br />De ingediende voorstellen worden beoordeeld op basis van volgende criteria:<br /><br />1° de relevantie ten aanzien van de vastgestelde beleidsprioriteiten;<br /><br />2° de kwaliteit van het ingediende project, inzonderheid voor wat betreft de gebruikte methode, het gebruikte materiaal en de interne evaluatie.
+De nascholingsvoorstellen worden op elektronische wijze ingediend vóór 15 februari  van elk schooljaar in de vorm van een projectfiche waarvan het model bepaald wordt door de Vlaamse minister, bevoegd voor het Onderwijs. Dit model wordt bij de bekendmaking van de prioritaire nascholingsthema's meegedeeld. <br />De ingediende voorstellen worden beoordeeld op basis van volgende criteria:<br />1° de relevantie ten aanzien van de vastgestelde beleidsprioriteiten;<br />2° de kwaliteit van het ingediende project, inzonderheid voor wat betreft de gebruikte methode, het gebruikte materiaal en de interne evaluatie.<br />Bij ontvangst van een projectfiche verbindt de administratie zich ertoe binnen de twee werkdagen per kerende mail de indiener een ontvangstbewijs te sturen.<br />
 
 ### ART. 7.
 
-De gezamenlijke vergadering, samengesteld uit de leden, vermeld in artikel 3 maakt, vóór [15 maart  <span class="reference">(verv. B.V.R. 14 juli 1998, art. 3, I: 21 september 1998)</span> ] een gemotiveerde rangschikking van de voorstellen op grond van de in artikel 6, tweede lid vermelde criteria.<br /><br />De commissie kan slechts beslissen wanneer een meerderheid van leden aanwezig is. De commissie streeft naar een consensus. Indien geen consensus kan bereikt worden wordt overgegaan tot stemming. De commissie beslist bij gewone meerderheid van stemmen.<br /><br />Voor het beoordelen van het in artikel 6, tweede lid, 2°, vermelde criterium, vraagt de commissie een voorafgaand advies aan externe experten. De experten worden door de minister aangewezen op grond van hun deskundigheid.<br /><br />De secretaris-generaal wijst een ambtenaar van het departement Onderwijs aan als secretaris van de commissie.
+De beleidsraad van het beleidsdomein Onderwijs en Vorming vermeld in het besluit van de Vlaamse Regering van 31 maart 2006 tot operationalisering van het beleidsdomein Onderwijs en Vorming maakt, vóór 15 maart een gemotiveerde rangschikking van de voorstellen op grond van de in artikel 6, tweede lid vermelde criteria.
 
 ### ART. 8.
 

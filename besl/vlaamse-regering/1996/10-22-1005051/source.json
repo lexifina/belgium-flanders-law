@@ -2,16 +2,16 @@
   "codex_id": 1005051,
   "title": "Besluit van de Vlaamse Regering van 1996-10-22 tot regeling van de procedure voor de toewijzing van nascholingsprojecten op initiatief van de Vlaamse regering",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1005051/VolledigDocument?datum=2006-06-01",
-  "source_sha256": "2e0e201618389053ec9ee1ee7236c1d0414623e2a20c39df41a040367ccf833c",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1005051/VolledigDocument?datum=2007-09-01",
+  "source_sha256": "6869a1a6d163b01caee603ee824b93fac9e6a3f7829cc8e09ebb46cdec02170e",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1005051&param=informatie",
-  "as_of": "2006-06-01",
+  "as_of": "2007-09-01",
   "made": "1996-10-22",
   "gazette": "1996-12-18",
   "numac": 1996036462,
   "document_start": "1996-01-01",
   "document_end": "2012-04-30",
-  "in_force": "2006-06-01",
+  "in_force": "2007-09-01",
   "article_versions": 16,
-  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2007-09-01; future article versions excluded; article text as the API gives it"
 }
