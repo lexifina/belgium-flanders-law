@@ -1,0 +1,17 @@
+{
+  "codex_id": 1015916,
+  "title": "Decreet van 2007-04-27 [tot bekrachtiging van de schrapping en de aanpassing van de eindtermen voor het studiegebied algemene vorming, met uitzondering van de opleiding Aanvullende Algemene Vorming, van het secundair volwassenenonderwijs]",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1015916/VolledigDocument?datum=2007-09-01",
+  "source_sha256": "0fabdb36d16e3884d2460df1d2c02bb9abb97c1c3aa0e046913475e22da4e7d3",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1015916&param=informatie",
+  "as_of": "2007-09-01",
+  "made": "2007-04-27",
+  "gazette": "2007-07-02",
+  "numac": 2007035930,
+  "document_start": "2007-09-01",
+  "document_end": null,
+  "in_force": "2007-09-01",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2007-09-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
