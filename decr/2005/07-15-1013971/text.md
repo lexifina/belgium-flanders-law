@@ -148,31 +148,31 @@ De bepalingen van dit hoofdstuk treden in werking op 1 september 2005, met uitzo
 
 ### ART. IV.1.
 
-(niet opgenomen)<br /><br />(Wijzigt artikel 3 van het decreet van 2 maart 1999 tot regeling van een aantal aangelegenheden van het volwassenenonderwijs)
+...
 
 ### ART. IV.2.
 
-(niet opgenomen)<br /><br />(Wijzigt artikel 5 van hetzelfde decreet)
+...
 
 ### ART. IV.3.
 
-(niet opgenomen)<br /><br />(Heft art. 10bis van hetzelfde decreet op)
+...
 
 ### ART. IV.4.
 
-(niet opgenomen)<br /><br />(Wijzigt artikel 34 van hetzelfde decreet)
+...
 
 ### ART. IV.5.
 
-(niet opgenomen)<br /><br />(Wijzigt artikel 40 van hetzelfde decreet)
+...
 
 ### ART. IV.6.
 
-(niet opgenomen)<br /><br />(Wijzigt artikel 41 van hetzelfde decreet)
+...
 
 ### ART. IV.7.
 
-(niet opgenomen)<br /><br />(Wijzigt artikel 45 van hetzelfde decreet)
+...
 
 ### ART. IV.8.
 
