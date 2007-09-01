@@ -58,4 +58,20 @@ Met het oog op de financiering of subsidiëring zijn de scholen ertoe gehouden o
 
 ## HOOFDSTUK V Sancties
 
+### ART. 12.
+
+Het niet-naleven van het recht op tijdelijk of permanent onderwijs aan huis, vermeld in artikelen 3, 4 en 8, wordt vastgesteld door het Agentschap voor Onderwijsdiensten, nadat de betrokken personen klacht hebben ingediend.<br /><br />
+
+### ART. 13.
+
+§ 1. Het Agentschap voor Onderwijsdiensten deelt de vaststelling per aangetekende brief mee aan het schoolbestuur in kwestie. De aangetekende brief verwijst naar de mogelijke sancties.<br /><br />§ 2. Binnen een termijn van dertig kalenderdagen na de betekening van de aangetekende brief kan het schoolbestuur bij het Agentschap voor Onderwijsdiensten een verweerschrift indienen en, eventueel, een hoorrecht doen gelden. <br /><br />De betekening wordt geacht plaats te vinden de derde werkdag nadat de aangetekende brief verstuurd is. <br /><br />De schoolvakanties schorten de termijn van dertig kalenderdagen op.<br /><br />
+
+### ART. 14.
+
+Na kennisname van de rechtvaardiging en uiterlijk zestig kalenderdagen na de betekening van de aangetekende brief, legt het Agentschap voor Onderwijsdiensten eventueel een dossier met een voorstel tot sanctie voor aan de Vlaamse minister, bevoegd voor het onderwijs.<br /><br />De sanctie kan een gedeeltelijke terugbetaling van het werkingsbudget zijn, zonder dat de terugvordering of inhouding meer kan bedragen dan tien procent van het werkingsbudget van de school waar de overtreding is vastgesteld. <br /><br />De terugvordering of inhouding kan er niet toe leiden dat het aandeel in de werkingsmiddelen dat bestemd is voor personeelsaangelegenheden, in absolute cijfers kleiner wordt dan als de maatregel niet zou zijn getroffen.<br /><br />
+
+### ART. 15.
+
+Binnen een termijn van drie maanden na de betekening van de aangetekende brief neemt de Vlaamse minister, bevoegd voor het Onderwijs, een beslissing over een sanctie. Die beslissing wordt per aangetekende brief meegedeeld aan het schoolbestuur in kwestie. Na de termijn van drie maanden kan er geen sanctie meer worden opgelegd.<br /><br />
+
 ## HOOFDSTUK VI Slotbepalingen
