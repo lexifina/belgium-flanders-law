@@ -1,0 +1,17 @@
+{
+  "codex_id": 1016108,
+  "title": "Besluit van de Vlaamse Regering van 2007-07-19 houdende de verlenging met één jaar van de termijn voor de instandhouding van de betrekking van adjunct-directeur voor drie scholen van het voltijds secundair onderwijs",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1016108/VolledigDocument?datum=2007-09-06",
+  "source_sha256": "63c57ef0c18af9c6301de83f803d4dbc12d8fe3f89aab73b02f7fe650c0a763d",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1016108&param=informatie",
+  "as_of": "2007-09-06",
+  "made": "2007-07-19",
+  "gazette": "2007-08-27",
+  "numac": 2007036451,
+  "document_start": "2007-09-06",
+  "document_end": null,
+  "in_force": "2007-09-06",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2007-09-06; oldest version available; future article versions excluded; article text as the API gives it"
+}
