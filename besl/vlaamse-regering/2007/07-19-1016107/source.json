@@ -1,0 +1,17 @@
+{
+  "codex_id": 1016107,
+  "title": "Besluit van de Vlaamse Regering van 2007-07-19 tot tijdelijke erkenning van de bachelor- en masteropleiding in de taal- en regiostudies arabistiek en islamkunde van de Katholieke Universiteit Leuven",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1016107/VolledigDocument?datum=2007-09-06",
+  "source_sha256": "b31b2e619ad260d541fce98486ece396464b46daf2dc0fdb87fbfc1598d5cfc5",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1016107&param=informatie",
+  "as_of": "2007-09-06",
+  "made": "2007-07-19",
+  "gazette": "2007-08-27",
+  "numac": 2007036452,
+  "document_start": "2007-09-06",
+  "document_end": null,
+  "in_force": "2007-09-06",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2007-09-06; oldest version available; future article versions excluded; article text as the API gives it"
+}
