@@ -1,0 +1,17 @@
+{
+  "codex_id": 1016105,
+  "title": "Besluit van de Vlaamse Regering van 2007-07-19 tot erkenning van de professioneel gerichte bacheloropleiding 'bachelor in musical' als nieuwe opleiding van de Erasmushogeschool Brussel",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1016105/VolledigDocument?datum=2007-09-06",
+  "source_sha256": "83f73764ca5961e18bc429855aa5dc74b2d137fd1a7e5433d072850f35cc5c9a",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1016105&param=informatie",
+  "as_of": "2007-09-06",
+  "made": "2007-07-19",
+  "gazette": "2007-08-27",
+  "numac": 2007036453,
+  "document_start": "2007-09-06",
+  "document_end": null,
+  "in_force": "2007-09-06",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2007-09-06; oldest version available; future article versions excluded; article text as the API gives it"
+}
