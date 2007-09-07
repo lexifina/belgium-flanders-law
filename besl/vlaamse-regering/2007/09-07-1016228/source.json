@@ -1,0 +1,17 @@
+{
+  "codex_id": 1016228,
+  "title": "Besluit van de Vlaamse Regering van 2007-09-07 tot wijziging van het besluit van de Vlaamse Regering van 5 maart 1996 houdende Vlaams reglement betreffende de bodemsanering",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1016228/VolledigDocument?datum=2007-09-07",
+  "source_sha256": "2f79fa8199c3e050e6e8f705fb50b72b954bbc7b0eec0e5e05e588d8d5fb87df",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1016228&param=informatie",
+  "as_of": "2007-09-07",
+  "made": "2007-09-07",
+  "gazette": "2007-10-11",
+  "numac": 2007036693,
+  "document_start": "2007-09-07",
+  "document_end": null,
+  "in_force": "2007-09-07",
+  "article_versions": 8,
+  "record_form": "consolidated version as in force on 2007-09-07; oldest version available; future article versions excluded; article text as the API gives it"
+}
