@@ -1,0 +1,17 @@
+{
+  "codex_id": 1016112,
+  "title": "Omzendbrief van 2007-07-19 BB 2007/07 Instructies voor het opstellen van de budgetten en meerjarenplannen voor 2008 van de gemeenten en van de openbare centra voor maatschappelijk welzijn van het Vlaamse Gewest",
+  "type": "Omzendbrief",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1016112/VolledigDocument?datum=2007-09-07",
+  "source_sha256": "51ab3aa8c4cb67961f2ffd13253ba2e899cbb1cec716b415faa5ee5638ed0792",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1016112&param=informatie",
+  "as_of": "2007-09-07",
+  "made": "2007-07-19",
+  "gazette": "2007-08-28",
+  "numac": 2007036431,
+  "document_start": "2007-09-07",
+  "document_end": null,
+  "in_force": "2007-09-07",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2007-09-07; oldest version available; future article versions excluded; article text as the API gives it"
+}
