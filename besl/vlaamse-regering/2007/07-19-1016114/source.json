@@ -1,0 +1,17 @@
+{
+  "codex_id": 1016114,
+  "title": "Besluit van de Vlaamse Regering van 2007-07-19 houdende bepaling van de inwerkingtreding van het decreet van 7 juli 2006 houdende wijziging van het decreet van 22 december 1995 houdende bepalingen tot begeleiding van de begroting 1996, van het decreet van 4 februari 1997 houdende de kwaliteits- en veiligheidsnormen voor kamers en studentenkamers en van het decreet van 15 juli 1997 houdende de Vlaamse Wooncode, wat betreft de versterking van het instrumentarium woonkwaliteitsbewaking en houdende bepaling van de in dat kader te verlenen bevoegdheden",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1016114/VolledigDocument?datum=2007-09-09",
+  "source_sha256": "7900abb4a3f2d37ad278ba2ff160b3d2551355a31c38afd9b1d157683d63f2d2",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1016114&param=informatie",
+  "as_of": "2007-09-09",
+  "made": "2007-07-19",
+  "gazette": "2007-08-30",
+  "numac": 2007036479,
+  "document_start": "2007-09-09",
+  "document_end": "2020-12-31",
+  "in_force": "2007-09-09",
+  "article_versions": 6,
+  "record_form": "consolidated version as in force on 2007-09-09; oldest version available; future article versions excluded; article text as the API gives it"
+}
