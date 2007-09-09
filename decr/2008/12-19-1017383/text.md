@@ -102,6 +102,18 @@ In artikel 3 van dezelfde wet, vervangen door de wet van 22 april 1999, wordt ee
 
 ## HOOFDSTUK XIV Ongeschikt- en onbewoonbaarverklaring
 
+### ART. 67.
+
+In artikel 28, § 1, van het decreet van 22 december 1995 houdende bepalingen tot begeleiding van de begroting 1996, gewijzigd bij de decreten van 24 december 2004 en 24 maart 2006, wordt het derde lid opgeheven.<br /><br />
+
+### ART. 68.
+
+Aan artikel 34 van hetzelfde decreet, gewijzigd bij de decreten van 15 juli 1997, 24 december 2004, 24 maart 2006 en 7 juli 2006, wordt een tweede lid toegevoegd, dat luidt als volgt :<br />« De woning of de constructie die overeenkomstig artikel 135 van de Nieuwe Gemeentewet onbewoonbaar wordt verklaard, wordt eveneens geïnventariseerd op de lijst, vermeld in artikel 28. Ze wordt ingeschreven op datum van het besluit van de burgemeester. »<br /><br />
+
+### ART. 69.
+
+Artikel 34bis van hetzelfde decreet, ingevoegd bij decreet van 7 mei 2004 en gewijzigd bij de decreten van 24 december 2004, 24 maart 2006 en 16 juni 2006 wordt als volgt gewijzigd :<br />1° in § 3 worden de woorden « zoals bedoeld in artikel 15 van het decreet van 15 juli 1997 houdende de Vlaamse Wooncode en artikel 34 van dit decreet » vervangen door de woorden « vermeld in artikel 34, eerste lid, »;<br />2° er wordt een § 4 toegevoegd, die luidt als volgt :<br />« § 4. Voor de onbewoonbaarheden, vermeld in artikel 34, tweede lid, wordt het registratieattest samen met het besluit tot onbewoonbaarverklaring van de burgemeester opgestuurd.<br /><br />Als de houder van het zakelijk recht aantoont dat hij tegen het besluit tot onbewoonbaarverklaring een klacht heeft ingediend bij de toezichthoudende overheid overeenkomstig artikel 254 van het Gemeentedecreet van 15 juli 2005, dan wordt de opname op de lijst, vermeld in artikel 28, geschorst tot de procedure overeenkomstig artikel 255 tot 258 van het Gemeentedecreet volledig is afgerond.<br /><br />De gemeenteoverheid brengt de inventarisbeheerder op de hoogte van het gemotiveerde besluit of van het definitieve antwoord van de toezichthoudende overheid als vermeld in artikel 258 van het Gemeentedecreet.<br /><br />Binnen dertig dagen nadat de indiener van de klacht het definitieve antwoord van de toezichthoudende overheid heeft ontvangen overeenkomstig artikel 258 van het Gemeentedecreet, kan hij tegen de registratie beroep indienen bij de Vlaamse Regering. De Vlaamse Regering neemt een beslissing binnen drie maanden na ontvangst van het beroepschrift. Bij ontstentenis van een beslissing binnen die termijn, wordt het beroep geacht te zijn ingewilligd. »<br /><br />
+
 ## HOOFDSTUK XV Begunstigdewijziging restauratiepremie
 
 ## HOOFDSTUK XVI Industriële Onderzoeksfondsen
