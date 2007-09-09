@@ -1,0 +1,17 @@
+{
+  "codex_id": 1015006,
+  "title": "Decreet van 2006-07-07 houdende wijziging van het decreet van 22 december 1995 houdende bepalingen tot begeleiding van de begroting 1996, van het decreet van 4 februari 1997 houdende de kwaliteits- en veiligheidsnormen voor kamers en studentenkamers en van het decreet van 15 juli 1997 houdende de Vlaamse Wooncode, wat betreft de versterking van het instrumentarium woonkwaliteitsbewaking",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1015006/VolledigDocument?datum=2007-09-09",
+  "source_sha256": "018d00676bff463d837945047a3147795f38ecc2d3c66c97bb636e2889250f5c",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1015006&param=informatie",
+  "as_of": "2007-09-09",
+  "made": "2006-07-07",
+  "gazette": "2006-10-05",
+  "numac": 2006036309,
+  "document_start": "2007-09-09",
+  "document_end": null,
+  "in_force": "2007-09-09",
+  "article_versions": 10,
+  "record_form": "consolidated version as in force on 2007-09-09; oldest version available; future article versions excluded; article text as the API gives it"
+}
