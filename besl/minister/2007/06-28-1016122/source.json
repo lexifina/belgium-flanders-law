@@ -1,0 +1,17 @@
+{
+  "codex_id": 1016122,
+  "title": "Ministerieel besluit van 2007-06-28 betreffende het indienen van een verzoek tot goedkeuring van een CDM- of JI-projectactiviteit",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1016122/VolledigDocument?datum=2007-09-10",
+  "source_sha256": "5710470db3089b60208238336aac2f11e01f7e514ad71504cf1169da385876e7",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1016122&param=informatie",
+  "as_of": "2007-09-10",
+  "made": "2007-06-28",
+  "gazette": "2007-08-31",
+  "numac": 2007036477,
+  "document_start": "2007-09-10",
+  "document_end": null,
+  "in_force": "2007-09-10",
+  "article_versions": 8,
+  "record_form": "consolidated version as in force on 2007-09-10; oldest version available; future article versions excluded; article text as the API gives it"
+}
