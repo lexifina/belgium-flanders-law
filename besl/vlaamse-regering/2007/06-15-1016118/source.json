@@ -1,0 +1,17 @@
+{
+  "codex_id": 1016118,
+  "title": "Besluit van de Vlaamse Regering van 2007-06-15 houdende verdeling van het krediet ingeschreven onder organisatieafdeling 39, programma 10, basisallocatie 01.05 van de algemene uitgavenbegroting van de Vlaamse Gemeenschap voor het begrotingsjaar 2007",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1016118/VolledigDocument?datum=2007-09-10",
+  "source_sha256": "0634787af22c4038a2f5eeb9ce3082468cc3aeaaff39b5021fcb19ad81ca94a6",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1016118&param=informatie",
+  "as_of": "2007-09-10",
+  "made": "2007-06-15",
+  "gazette": "2007-08-31",
+  "numac": 2007036469,
+  "document_start": "2007-09-10",
+  "document_end": null,
+  "in_force": "2007-09-10",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2007-09-10; oldest version available; future article versions excluded; article text as the API gives it"
+}
