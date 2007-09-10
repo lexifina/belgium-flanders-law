@@ -75,3 +75,15 @@ Na kennisname van de rechtvaardiging en uiterlijk zestig kalenderdagen na de bet
 Binnen een termijn van drie maanden na de betekening van de aangetekende brief neemt de Vlaamse minister, bevoegd voor het Onderwijs, een beslissing over een sanctie. Die beslissing wordt per aangetekende brief meegedeeld aan het schoolbestuur in kwestie. Na de termijn van drie maanden kan er geen sanctie meer worden opgelegd.<br /><br />
 
 ## HOOFDSTUK VI Slotbepalingen
+
+### ART. 16.
+
+De volgende regelingen worden opgeheven :<br />1° het besluit van de Vlaamse Regering van 17 juni 1997 betreffende het lager onderwijs aan huis voor zieke kinderen, gewijzigd bij de besluiten van de Vlaamse Regering van 27 juli 1999 en 13 januari 2006;<br />2° het besluit van de Vlaamse Regering van 13 januari 2006 betreffende het secundair onderwijs aan huis voor zieke jongeren en tot wijziging van het besluit van de Vlaamse Regering van 17 juni 1997 betreffende het onderwijs aan huis.<br /><br />
+
+### ART. 17.
+
+Dit besluit treedt in werking op 1 januari 2007, met uitzondering van artikel 12 tot en met 15 die voor wat het secundair onderwijs betreft in werking treden op 1 september 2007.<br /><br />
+
+### ART. 18.
+
+De Vlaamse minister, bevoegd voor het Onderwijs, is belast met de uitvoering van dit besluit. <br /><br />
