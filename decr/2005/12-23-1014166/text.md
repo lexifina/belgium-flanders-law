@@ -186,7 +186,7 @@ Onverminderd de bepalingen van artikel 36 wordt het vermogen van het EV ILVO gev
 
 ### ART. 38.
 
-Het EV ILVO is bevoegd voor het verrichten van wetenschappelijk onderzoek, expertises en dienstverlening op het vlak van landbouw en visserij, al dan niet in opdracht van derden en voor het beheer van het eigen vermogen.
+Het EV ILVO staat in voor :<br />1° het verrichten van wetenschappelijk onderzoek, expertises en dienstverlening op het vlak van landbouw en visserij voor derden;<br />2° het onderzoek en de ontwikkeling naar meer duurzame landbouwsystemen;<br />3° datacollectie en wetenschappelijke adviestaken ter ondersteuning van het Europees Gemeenschappelijk Visserijbeleid;<br />4° logistieke en operationele ondersteuning van de kwaliteitscontrole in de plantaardige sector.
 
 ### ART. 39.
 
@@ -198,7 +198,7 @@ Het EV ILVO kan voor de verwezenlijking van zijn doel vrij contracten sluiten, r
 
 ### ART. 41.
 
-§ 1. Ieder jaar stelt de beheerscommissie de begroting vast van de uitgaven voor het volgende begrotingsjaar, alsmede de middelen van het EV ILVO om die uitgaven te dekken. Voor het indienen van de begroting volgt de beheerscommissie de nadere regelen zoals vastgesteld in de begrotingsinstructies tot de opmaak van de algemene uitgaven- en middelenbegroting.<br /><br />Ieder jaar, voor 15 maart, stelt de beheerscommissie de rekening van het EV ILVO van het vorige begrotingsjaar op.<br /><br />De begroting en de rekening, alsmede elke wijziging ervan, worden ter goedkeuring voorgelegd aan de Vlaamse Regering, samen met het advies van de Inspectie van Financiën.<br /><br />§ 2. Het EV ILVO kan het saldo tijdens het volgende begrotingsjaar vrij aanwenden voor het verwezenlijken van zijn doel.
+§ 1. Ieder jaar stelt de beheerscommissie de begroting vast van de uitgaven en reservefondsen voor het volgende begrotingsjaar, alsmede de middelen van het EV ILVO om de uitgaven te dekken en reservefondsen aan te leggen. Voor het indienen van de begroting volgt de beheerscommissie de nadere regelen zoals vastgesteld in de begrotingsinstructies tot de opmaak van de algemene uitgaven- en middelenbegroting.<br /><br />Ieder jaar, voor 15 maart, stelt de beheerscommissie de rekening van het EV ILVO van het vorige begrotingsjaar op.<br /><br />De begroting en de rekening, alsmede elke wijziging ervan, worden ter goedkeuring voorgelegd aan de Vlaamse Regering, samen met het advies van de Inspectie van Financiën.<br /><br />§ 2. Het EV ILVO kan het saldo tijdens het volgende begrotingsjaar vrij aanwenden voor het verwezenlijken van zijn doel.<br /><br />§ 3. Het EVILVO legt minstens een reservefonds aan voor zijn sociaal passief en een reservefonds voor de vervanging van noodzakelijke investeringen.<br /><br />Het EV ILVO wordt verplicht zijn beleggingsportefeuille te liquideren ter stijving van deze reservefondsen.<br /><br />§ 4. Het EV ILVO sluit aan bij het Centraal Financieringsorgaan bij het departement Financiën en Begroting.
 
 ### ART. 42.
 
@@ -368,7 +368,7 @@ Artikel 60 van het decreet houdende bepalingen tot begeleiding van de begroting 
 
 ### ART. 77.
 
-§ 1. Er wordt een begrotingsfonds "Financieringsfonds, voor de financiering van Masterplanprojecten, andere dan de Oosterweelverbinding, kortgenoemd financieringsfonds BAM" opgericht conform artikel 45 van de gecoördineerde wetten op de rijkscomptabiliteit.<br /><br />§ 2. Aan het Financieringsfonds BAM worden toegewezen alle ontvangsten voortvloeiend uit dividenden uitgekeerd door BAM aan het Vlaamse Gewest.<br /><br />§ 3. De middelen van het fonds dienen aangewend te worden voor projecten opgenomen in het Masterplan Antwerpen of aanverwante programma's, andere dan de Oosterweelverbinding, steeds met als finaliteit een positief effect te hebben op de duurzame mobiliteit in de Antwerpse regio.
+§ 1. Er wordt een begrotingsfonds "Financieringsfonds, voor de financiering van Masterplanprojecten, andere dan de Oosterweelverbinding, kortgenoemd financieringsfonds BAM" opgericht conform artikel 45 van de gecoördineerde wetten op de rijkscomptabiliteit.<br /><br />§ 2. Aan het Financieringsfonds BAM worden alle ontvangsten toegewezen die het Vlaamse Gewest ontvangt uit hoofde van deelname in de winst van de exploitatie door BAM van de Oosterweelverbinding, alsook alle dividenden die het Vlaamse Gewest van BAM zal ontvangen.<br /><br />§ 3. De middelen van het fonds dienen aangewend te worden voor projecten opgenomen in het Masterplan Antwerpen of aanverwante programma's, andere dan de Oosterweelverbinding, steeds met als finaliteit een positief effect te hebben op de duurzame mobiliteit in de Antwerpse regio.
 
 ## HOOFDSTUK XXVI Economisch beleid
 
