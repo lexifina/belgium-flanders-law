@@ -2,16 +2,16 @@
   "codex_id": 1000700,
   "title": "Decreet van 1992-06-25 houdende diverse bepalingen tot begeleiding van de begroting 1992",
   "type": "Decreet",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1000700/VolledigDocument?datum=2006-11-30",
-  "source_sha256": "a1117fa420a6a4bfed2d8c35445bec8b4883d4827817223be13aca6101f848cb",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1000700/VolledigDocument?datum=2007-09-14",
+  "source_sha256": "c08cc2b2ba5242e66a4b743191fc6b47d5e60b429df421e1700f756befe92328",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1000700&param=informatie",
-  "as_of": "2006-11-30",
+  "as_of": "2007-09-14",
   "made": "1992-06-25",
   "gazette": "1992-07-11",
   "numac": 1992035738,
   "document_start": null,
   "document_end": null,
-  "in_force": "2006-11-30",
+  "in_force": "2007-09-14",
   "article_versions": 111,
-  "record_form": "consolidated version as in force on 2006-11-30; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2007-09-14; future article versions excluded; article text as the API gives it"
 }
