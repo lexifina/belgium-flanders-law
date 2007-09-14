@@ -192,7 +192,7 @@ Op het einde van het individueel DBFM-contract wordt de schoolinfrastructuur kos
 
 ### ART. 37.
 
-De Vlaamse Regering is gemachtigd om een gemeenschapswaarborg te stellen voor de terugbetaling van de leningen aangegaan door de DBFM-vennootschap voor de realisatie van het DBFM-programma.<br /><br />
+De Vlaamse Regering is gemachtigd om een gemeenschapswaarborg te hechten aan de leningen aangegaan door de DBFM-vennootschap voor de realisatie van het DBFM-programma.<br /><br />De Vlaamse Regering kan de nadere regels bepalen, met betrekking tot de voorwaarden of modaliteiten voor het stellen van deze waarborg.
 
 ### ART. 38.
 
