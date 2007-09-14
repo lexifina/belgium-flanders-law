@@ -1,0 +1,17 @@
+{
+  "codex_id": 1016172,
+  "title": "Besluit van de Vlaamse Regering van 2007-09-14 betreffende de erkenning van Vlabotex VZW als bodemsaneringsorganisatie",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1016172/VolledigDocument?datum=2007-09-14",
+  "source_sha256": "ca008b95d386af089e695f98c77b5f134482458b1cc37a2fb7602ff5be5d29c6",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1016172&param=informatie",
+  "as_of": "2007-09-14",
+  "made": "2007-09-14",
+  "gazette": "2007-09-27",
+  "numac": 2007036639,
+  "document_start": "2007-09-14",
+  "document_end": null,
+  "in_force": "2007-09-14",
+  "article_versions": 6,
+  "record_form": "consolidated version as in force on 2007-09-14; oldest version available; future article versions excluded; article text as the API gives it"
+}
