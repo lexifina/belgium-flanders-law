@@ -1,0 +1,17 @@
+{
+  "codex_id": 1016207,
+  "title": "Ministerieel besluit van 2007-09-18 houdende erkenning van een kinesitherapeut/verpleegkundige als kinesitherapeut/verpleegkundige inzake medisch verantwoorde sportbeoefening",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1016207/VolledigDocument?datum=2007-09-15",
+  "source_sha256": "7ebca4404d51d49c532d55c69e6c5130e480cd2b6becc0125a439d8c09733525",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1016207&param=informatie",
+  "as_of": "2007-09-15",
+  "made": "2007-09-18",
+  "gazette": "2007-10-04",
+  "numac": 2007036663,
+  "document_start": "2007-09-15",
+  "document_end": null,
+  "in_force": "2007-09-15",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2007-09-15; oldest version available; future article versions excluded; article text as the API gives it"
+}
