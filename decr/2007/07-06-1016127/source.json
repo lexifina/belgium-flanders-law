@@ -1,0 +1,17 @@
+{
+  "codex_id": 1016127,
+  "title": "Decreet van 2007-07-06 houdende instemming met de Overeenkomst inzake zeevervoer tussen de Europese Gemeenschap en haar lidstaten, enerzijds, en de Regering van de Volksrepubliek China, anderzijds, ondertekend in Brussel op 6 december 2002, en met het Protocol tot wijziging van de Overeenkomst inzake zeevervoer tussen de Europese Gemeenschap en haar lidstaten, enerzijds, en de Regering van de Volksrepubliek China, anderzijds, ondertekend in Peking op 5 september 2005",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1016127/VolledigDocument?datum=2007-09-15",
+  "source_sha256": "8da10d880bdf4c377f0e671a2e4f9445ca65ded69c9023eec34f09aca95e0e64",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1016127&param=informatie",
+  "as_of": "2007-09-15",
+  "made": "2007-07-06",
+  "gazette": "2007-09-05",
+  "numac": 2007036490,
+  "document_start": "2007-09-15",
+  "document_end": null,
+  "in_force": "2007-09-15",
+  "article_versions": 2,
+  "record_form": "consolidated version as in force on 2007-09-15; oldest version available; future article versions excluded; article text as the API gives it"
+}
