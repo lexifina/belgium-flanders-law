@@ -1,0 +1,17 @@
+{
+  "codex_id": 1016128,
+  "title": "Decreet van 2007-07-13 houdende instemming met het Internationaal Verdrag inzake plantgenetische hulpbronnen voor voeding en landbouw, ondertekend in Rome op 6 juni 2002",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1016128/VolledigDocument?datum=2007-09-15",
+  "source_sha256": "a436fb30ddb54a5dae071d0ec3ebb403ac150ae40341ef9ef0c2014de9885091",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1016128&param=informatie",
+  "as_of": "2007-09-15",
+  "made": "2007-07-13",
+  "gazette": "2007-09-05",
+  "numac": 2007036491,
+  "document_start": "2007-09-15",
+  "document_end": null,
+  "in_force": "2007-09-15",
+  "article_versions": 2,
+  "record_form": "consolidated version as in force on 2007-09-15; oldest version available; future article versions excluded; article text as the API gives it"
+}
