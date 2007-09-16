@@ -29,9 +29,10 @@ Het VVS wordt aangewezen als de leidende vereniging voor de fokkerijsector varke
 12° de v.z.w. Belgisch Stamboek voor het Miniatuurpaard;<br>
 13° de v.z.w. Vlaamse Fokkers van het Belgisch Trekpaard;<br>
 14° de v.z.w. Vlaams Paard;<br>
-15° de v.z.w. Belgische Ezel Vrienden.<br>
-16° Het Belgisch Mérens Stamboek VZW - Le Studbook belge du Mérens ASBL.<br>
-17° de vzw Europese Arabo-Friezen Vereniging.<br>
+15° de v.z.w. Belgische Ezel Vrienden;<br>
+16° Het Belgisch Mérens Stamboek VZW - Le Studbook belge du Mérens ASBL;<br>
+17° de vzw Europese Arabo-Friezen Vereniging;<br>
+18° de VZW Belgisch Stamboek van het Friese Paard.<br>
 <br>
 De erkenning van de organisatie, vermeld in het eerste lid, 1°, is vermeld in artikel 2 van het ministerieel besluit van 16 maart 2005 tot erkenning van verenigingen voor de paardenfokkerij.<br>
 <br>
@@ -44,6 +45,8 @@ De erkenning van de fokkersvereniging, vermeld in het eerste lid, 15°, is verme
 De erkenning van de fokkersvereniging, vermeld in het eerste lid, 16°, is opgenomen in artikel 1 van het ministerieel besluit van 3 augustus 2006 houdende de erkenning van de fokkersvereniging « Het Belgisch Mérens Stamboek VZW - Le Studbook belge du Mérens ASBL » en tot wijziging van het ministerieel besluit van 25 oktober 2005 houdende de organisatie de uitbouw van fokkerijstructuren in Vlaanderen.<br>
 <br>
 De erkenning van de fokkersvereniging, vermeld in het eerste lid, 17°, is opgenomen in artikel 1 van het ministerieel besluit van 13 november 2006 houdende de erkenning van de fokkersvereniging Europese Arabo-Friezen Vereniging vzw en tot wijziging van het ministerieel besluit van 25 oktober 2005 houdende de organisatie van de uitbouw van fokkerijstructuren in Vlaanderen.<br>
+<br>
+De erkenning van de fokkersvereniging, vermeld in het eerste lid, 18°, is opgenomen in artikel 1 van het ministerieel besluit van 13 augustus 2007 houdende de erkenning van de fokkersvereniging Belgisch Stamboek van het Friese Paard VZW en tot wijziging van het ministerieel besluit van 25 oktober 2005 houdende de organisatie van de uitbouw van fokkerijstructuren in Vlaanderen.<br>
 <br>
 De VCP wordt aangewezen als de leidende vereniging voor de fokkerijsector paarden en ezels.<br>
 <br>
@@ -59,7 +62,7 @@ De landsbond wordt aangewezen als de leidende vereniging voor de fokkerijsector 
 <br>
 1° de v.z.w. Vlaams Interprovinciaal Verbond van Fokkers van Neerhofdieren, hierna het VIVFN te noemen, waarvan de erkenning is vermeld in artikel 3 van het ministerieel besluit van 17 maart 2005 houdende de erkenning en subsidiëring van organisaties in het kader van de aanmoediging en de verbetering van de pluimvee- en konijnenfokkerij;<br>
 <br>
-2° de v.z.w. [Steunpunt Levend Erfgoed, (verv. M.B. 21 maart 2006, art. 2, I: 21 mei 2006) ] hierna de SLE te noemen, waarvan de erkenning is vermeld in artikel 3 van het ministerieel besluit van 21 maart 2005 betreffende de organisatie van de fokkerij van kleine herkauwers.<br>
+2° de v.z.w. Steunpunt Levend Erfgoed, hierna de SLE te noemen, waarvan de erkenning is vermeld in artikel 3 van het ministerieel besluit van 21 maart 2005 betreffende de organisatie van de fokkerij van kleine herkauwers.<br>
 <br>
 In de fokkerijsector genetische diversiteit wordt geen leidende vereniging aangewezen.
 
