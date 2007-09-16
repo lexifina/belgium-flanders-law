@@ -1,0 +1,17 @@
+{
+  "codex_id": 1016132,
+  "title": "Ministerieel besluit van 2007-08-13 houdende de erkenning van de fokkersvereniging Belgisch Stamboek van het Friese Paard VZW en tot wijziging van het ministerieel besluit van 25 oktober 2005 houdende de organisatie van de uitbouw van fokkerijstructuren in Vlaanderen",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1016132/VolledigDocument?datum=2007-09-16",
+  "source_sha256": "3d03aeeaa3bceb1a9f85ab2e23b75004275e522d11f4f395f36002fbdc405cc6",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1016132&param=informatie",
+  "as_of": "2007-09-16",
+  "made": "2007-08-13",
+  "gazette": "2007-09-06",
+  "numac": 2007036492,
+  "document_start": "2007-09-16",
+  "document_end": null,
+  "in_force": "2007-09-16",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2007-09-16; oldest version available; future article versions excluded; article text as the API gives it"
+}
