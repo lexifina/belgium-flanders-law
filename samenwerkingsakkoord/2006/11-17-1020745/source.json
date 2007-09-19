@@ -1,0 +1,17 @@
+{
+  "codex_id": 1020745,
+  "title": "Samenwerkingsakkoord van 2006-11-17 tussen de Federale Staat, de Vlaamse Gemeenschap, de Franstalige Gemeenschap en de Duitstalige Gemeenschap betreffende het wederzijds consulteren bij het opstellen van regelgeving inzake elektronische communicatienetwerken, het uitwisselen van informatie en de uitoefening van de bevoegdheden met betrekking tot elektronische communicatienetwerken door de regulerende instanties bevoegd voor telecommunicatie of radio-omroep en televisie",
+  "type": "Samenwerkingsakkoord",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1020745/VolledigDocument?datum=2007-09-19",
+  "source_sha256": "cff26b2290810bc99da9745d93bbe1cc3fbab1ab78fa089e0248112526920e7f",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1020745&param=informatie",
+  "as_of": "2007-09-19",
+  "made": "2006-11-17",
+  "gazette": "2006-12-28",
+  "numac": 0,
+  "document_start": "2007-09-19",
+  "document_end": null,
+  "in_force": "2007-09-19",
+  "article_versions": 12,
+  "record_form": "consolidated version as in force on 2007-09-19; oldest version available; future article versions excluded; article text as the API gives it"
+}
