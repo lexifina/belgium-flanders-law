@@ -326,7 +326,7 @@ De raad van bestuur van de Vlaamse openbare instelling Vlaams Fonds voor de Soci
 
 ### ART. 66.
 
-Totdat het raadgevend comité bij het agentschap is samengesteld overeenkomstig artikel 26 van het decreet van 7 mei 2004 tot oprichting van het intern verzelfstandigd agentschap met rechtspersoonlijkheid Vlaams Agentschap voor Personen met een Handicap, vergadert het raadgevend comité in de samenstelling die is bepaald in het besluit van de Vlaamse Regering van 18 december 2002 betreffende de raad van bestuur van het Vlaams Fonds voor de Sociale Integratie van Personen met een Handicap, zoals tot op heden gewijzigd. <br /><br />In die periode ontvangen de voorzitter en de leden van het raadgevend comité toelagen, presentiegelden en vergoedingen waarvan de bedragen overeenstemmen met de maxima voor instellingen van categorie III, zoals bepaald in artikel 6, 9 en 11 van het besluit van de Vlaamse Regering van 27 januari 1988 houdende sommige maatregelen tot harmonisatie van de toelagen en presentiegelden aan commissarissen, gemachtigde van financiën, afgevaardigden van de Vlaamse Regering, voorzitters en leden van niet-adviserende bijzondere commissies of van raden van bestuur van instellingen en ondernemingen, die onder de Vlaamse Regering behoren.
+...
 
 ## HOOFDSTUK VII Het intern verzelfstandigd agentschap met rechtspersoonlijkheid Kind en Gezin
 
@@ -348,7 +348,7 @@ Artikel 4bis van het decreet van 29 mei 1984 houdende oprichting van de instelli
 
 ### ART. 70.
 
-Totdat het raadgevend comité bij het agentschap is samengesteld overeenkomstig artikel 19 van het decreet van 30 april 2004 tot oprichting van het intern verzelfstandigd agentschap met rechtspersoonlijkheid Kind en Gezin, vergadert het raadgevend comité bij het agentschap in de samenstelling die is bepaald in het ministerieel besluit van 28 januari 2005 tot benoeming van de voorzitter en de leden van de raad van bestuur van Kind en Gezin.<br /><br />In die periode ontvangen de voorzitter en de leden van het raadgevend comité een vergoeding overeenkomstig het besluit van de Vlaamse Regering van 29 juli 1989 houdende vaststelling van de vergoedingen voor de voorzitter, leden van de raad van beheer en decretale adviescommissies en de gemeenschapscommissarissen van Kind en Gezin.
+...
 
 ## HOOFDSTUK VIII Infrastructuur voor persoonsgebonden aangelegenheden
 
