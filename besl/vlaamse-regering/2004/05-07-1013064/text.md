@@ -84,7 +84,7 @@ Bij het agentschap wordt een raadgevend comité opgericht.<br /><br />Het comit�
 
 ### ART. 19.
 
-Het raadgevend comité is samengesteld uit een evenredige vertegenwoordiging van de volgende maatschappelijke geledingen van het beleidsveld:<br /><br />1° de gebruikers van de ondersteuning georganiseerd door het agentschap;<br /><br />2° de voorzieningen die op het vlak van de vermelde taken werkzaam zijn;<br /><br />3° de werknemers van de voorzieningen.<br /><br />Het raadgevend comité kan aangevuld worden met andere door de minister aan te wijzen personen en met onafhankelijke deskundigen op het vlak van de taken van het agentschap.<br /><br />Het lidmaatschap van het raadgevend comité is onverenigbaar met de hoedanigheid van personeelslid van het agentschap. De minister stelt de nadere regels vast betreffende de samenstelling van het raadgevend comité en kan een vergoeding bepalen voor de leden van het raadgevend comité. De leden worden benoemd door de minister voor een periode van vier jaar.<br /><br />Het raadgevend comité stelt een huishoudelijk reglement op waarin de concrete werking wordt geregeld, en dat ter goedkeuring aan de minister wordt voorgelegd. Dit reglement stelt de praktische werkingsmodaliteiten vast, de deontologie, de informatie- en rapporteringsopdracht van het comité, de aard van de dossiers en rapporten die aan het raadgevend comité voorgelegd worden.
+<P>...</P>
 
 ## HOOFDSTUK VI SLOTBEPALINGEN
 
