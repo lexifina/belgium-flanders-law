@@ -1,0 +1,17 @@
+{
+  "codex_id": 1016141,
+  "title": "Decreet van 2007-06-08 houdende instemming met het samenwerkingsakkoord van 9 februari 2007 tot wijziging van het samenwerkingsakkoord van 13 december 2002 tussen de Federale Staat, het Vlaamse Gewest, het Waalse Gewest en het Brussels Hoofdstedelijk Gewest betreffende de uitvoering en financiering van bodemsanering van tankstations",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1016141/VolledigDocument?datum=2007-09-20",
+  "source_sha256": "1900652c0dd174df71f8035f423d369f5978f671fd1c3d13b44262eae8b796dd",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1016141&param=informatie",
+  "as_of": "2007-09-20",
+  "made": "2007-06-08",
+  "gazette": "2007-09-10",
+  "numac": 2007011411,
+  "document_start": "2007-09-20",
+  "document_end": null,
+  "in_force": "2007-09-20",
+  "article_versions": 2,
+  "record_form": "consolidated version as in force on 2007-09-20; oldest version available; future article versions excluded; article text as the API gives it"
+}
