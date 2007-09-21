@@ -1,0 +1,17 @@
+{
+  "codex_id": 1016147,
+  "title": "Ministerieel besluit van 2007-07-02 betreffende de vaststelling van de nascholingsprojecten op initiatief van de Vlaamse Regering voor het schooljaar 2007-2008",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1016147/VolledigDocument?datum=2007-09-21",
+  "source_sha256": "274dab2b9386e5d3b5cbae1111b239f64807962ab37b2d681ca9c443db249dcc",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1016147&param=informatie",
+  "as_of": "2007-09-21",
+  "made": "2007-07-02",
+  "gazette": "2007-09-11",
+  "numac": 2007036558,
+  "document_start": "2007-09-21",
+  "document_end": null,
+  "in_force": "2007-09-21",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2007-09-21; oldest version available; future article versions excluded; article text as the API gives it"
+}
