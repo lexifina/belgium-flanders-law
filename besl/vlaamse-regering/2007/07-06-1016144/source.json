@@ -1,0 +1,17 @@
+{
+  "codex_id": 1016144,
+  "title": "Besluit van de Vlaamse Regering van 2007-07-06 tot wijziging van het besluit van de Vlaamse Regering van 15 juni 2001 met betrekking tot de distributienetbeheerders voor elektriciteit en tot wijziging van het besluit van de Vlaamse Regering van 11 oktober 2002 houdende de organisatie van de aardgasmarkt",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1016144/VolledigDocument?datum=2007-09-21",
+  "source_sha256": "3234ed3974fe4ab338546e6fca0b5c609ad086bd67d1a7fd88989b07f408c265",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1016144&param=informatie",
+  "as_of": "2007-09-21",
+  "made": "2007-07-06",
+  "gazette": "2007-09-11",
+  "numac": 2007036515,
+  "document_start": "2007-09-21",
+  "document_end": null,
+  "in_force": "2007-09-21",
+  "article_versions": 28,
+  "record_form": "consolidated version as in force on 2007-09-21; oldest version available; future article versions excluded; article text as the API gives it"
+}
