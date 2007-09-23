@@ -1,0 +1,17 @@
+{
+  "codex_id": 1015994,
+  "title": "Besluit van de Vlaamse Regering van 2007-07-13 houdende sluiting van de zitting 2006-2007 van het Vlaams Parlement",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1015994/VolledigDocument?datum=2007-09-23",
+  "source_sha256": "e94e4689c0c173cafe88519028f0bfc0e61eef1a39bca26f59d58f5d6ef9c2c3",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1015994&param=informatie",
+  "as_of": "2007-09-23",
+  "made": "2007-07-13",
+  "gazette": "2007-07-27",
+  "numac": 2007036252,
+  "document_start": "2007-09-23",
+  "document_end": null,
+  "in_force": "2007-09-23",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2007-09-23; oldest version available; future article versions excluded; article text as the API gives it"
+}
