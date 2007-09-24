@@ -1,0 +1,17 @@
+{
+  "codex_id": 1016153,
+  "title": "Besluit van de Vlaamse Regering van 2007-07-19 betreffende steun aan investeringen in de agrovoedingssector",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1016153/VolledigDocument?datum=2007-09-24",
+  "source_sha256": "efd12436aab64ad9591566d30b9659bda8182e822daedbfa3d6273d90ed55594",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1016153&param=informatie",
+  "as_of": "2007-09-24",
+  "made": "2007-07-19",
+  "gazette": "2007-09-14",
+  "numac": 2007036555,
+  "document_start": "2007-09-24",
+  "document_end": "2015-06-19",
+  "in_force": "2007-09-24",
+  "article_versions": 13,
+  "record_form": "consolidated version as in force on 2007-09-24; oldest version available; future article versions excluded; article text as the API gives it"
+}
