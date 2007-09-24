@@ -2,16 +2,16 @@
   "codex_id": 1016865,
   "title": "Besluit van de Vlaamse Regering van 2008-06-06 betreffende de derogatievoorwaarden inzake de bescherming van water tegen de verontreiniging door nitraten uit agrarische bronnen",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1016865/VolledigDocument?datum=2007-07-26",
-  "source_sha256": "6efc6fec5413b6a245f9d769106cc09938b492caa0b36983cab52beaccd614f0",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1016865/VolledigDocument?datum=2007-09-24",
+  "source_sha256": "54bd161b7b2c8529b7fbd31b42127d8e3cf009d9c63122de8b853d33dd3f392e",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1016865&param=informatie",
-  "as_of": "2007-07-26",
+  "as_of": "2007-09-24",
   "made": "2008-06-06",
   "gazette": "2008-06-26",
   "numac": 2008035643,
   "document_start": "2007-01-01",
   "document_end": "2010-12-31",
-  "in_force": "2007-07-26",
-  "article_versions": 21,
-  "record_form": "consolidated version as in force on 2007-07-26; future article versions excluded; article text as the API gives it"
+  "in_force": "2007-09-24",
+  "article_versions": 27,
+  "record_form": "consolidated version as in force on 2007-09-24; future article versions excluded; article text as the API gives it"
 }

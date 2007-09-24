@@ -501,6 +501,30 @@ De landbouwer of de verantwoordelijke van een mestscheider kan, tegen elke besli
 
 ## HOOFDSTUK VIII. Wijzigingsbepalingen betreffende het vervoer van meststoffen
 
+### ART. 16.
+
+In artikel 5, § 1, van het besluit van de Vlaamse Regering van 19 juli 2007 tot het bepalen van de nadere regels voor het vervoer van meststoffen en houdende uitvoering van artikel 8, § 5, 3°, van het decreet van 22 december 2006 houdende de bescherming van het leefmilieu tegen de verontreiniging door nitraten uit agrarische bronnen, worden de volgende wijzigingen aangebracht :<br /><br />1° punt 2°, b), punt 6° en punt 7° worden opgeheven;<br /><br />2° in punt 4° worden de woorden «, wanneer de mestvoerder bij de Mestbank niet bekend is als de exploitant van de betrokken exploitatie, noch als de uitbater van het betrokken verzamelpunt, bewerkings- of verwerkingseenheid » geschrapt;<br /><br />3° punt 5° wordt vervangen door wat volgt :<br />« 5° in het geval van een transport van dierlijke mest of andere meststoffen vanuit een verzamelpunt, een bewerkingseenheid, een verwerkingseenheid of een uitbating waar andere meststoffen geproduceerd worden, naar landbouwgronden behorende tot een exploitatie :<br />enkel transporten naar landbouwgronden, gelegen in hetzij de gemeente waar de laadplaats gelegen is, hetzij gemeenten die grenzen aan de gemeente waar de laadplaats gelegen is, en dit op voorwaarde dat de laadplaats en de losplaats in het Vlaamse Gewest gelegen zijn. »
+
+### ART. 17.
+
+In artikel 5, § 2, van hetzelfde besluit, wordt een punt 3° toegevoegd dat luidt als volgt :<br /><br />« 3° in het geval van een transport van dierlijke mest vanuit een exploitatie naar landbouwgronden behorende tot een andere exploitatie, wanneer de mestvoerder bij de Mestbank minstens bekend is als de exploitant van een van de twee betrokken exploitaties :<br />alle transporten over de weg die aan de volgende drie voorwaarden voldoen :<br />a) goedgekeurd zijn in het kader van verordening nr. 1774/2002,<br />of indien vereist door het land van bestemming de verordening nr. 1013/2006;<br />b) de laadplaats is in het Vlaamse Gewest gelegen;<br />c) de losplaats is gelegen in een gemeente die grenst aan het Vlaamse Gewest of op maximaal 75 km afstand van de laadplaats. »
+
+### ART. 18.
+
+In artikel 22, § 1, van hetzelfde besluit, wordt punt 3° vervangen door wat volgt :<br /><br />« 3° per vracht, de hoeveelheid dierlijke mest of andere meststoffen die vervoerd wordt, uitgedrukt in ton, in kg P2O5 en in kg N. Voor derogatiemest dient de hoeveelheid uitgedrukt in kg P2O5 en in kg N te worden bepaald op basis van een analyse als vermeld in artikel 22, § 4, zesde lid; ».
+
+### ART. 19.
+
+In artikel 22, § 4, van hetzelfde besluit, wordt een zesde lid toegevoegd dat luidt als volgt :<br /><br />« Voor het bepalen van de reëel vervoerde hoeveelheid derogatiemest, uitgedrukt in kg P2O5 en in kg N, als vermeld in het tweede lid, 2°, dient gebruik gemaakt te worden van een analyse, uitgevoerd door een krachtens artikel 62, § 6, van het Mestdecreet erkend laboratorium, die maximaal 1 jaar oud is. De analyse dient minimaal 5 kalenderjaren te worden bewaard door de aanbieder van de meststoffen. De afnemer van de meststoffen kan tot een periode van 12 maand na het transport een kosteloos afschrift van de analyse vragen bij de aanbieder, dewelke deze dient over te maken aan de afnemer binnen de 30 kalenderdagen na ontvangst van de vraag. De aanbieder van de meststoffen dient een afschrift van deze analyse over te maken aan de Mestbank. Het overmaken van dit afschrift gebeurt ten laatste samen met de aangifte, als vermeld in artikel 23, § 1, van het Mestdecreet, die moet ingediend worden in het kalenderjaar volgend op het kalenderjaar waarin het staal werd genomen dat betrekking heeft op de analyse. »
+
+### ART. 20.
+
+Aan artikel 38, § 1, eerste lid van hetzelfde besluit worden een punt 7° en een punt 8° toegevoegd, die luiden als volgt :<br /><br />« 7° het aantal vrachten dat men gaat uitvoeren;<br /><br />8° per vracht, de hoeveelheid dierlijke mest of andere meststoffen die vervoerd wordt, uitgedrukt in ton, in kg P2O5 en in kg N. Voor derogatiemest dient de hoeveelheid uitgedrukt in kg P2O5 en in kg N te worden bepaald op basis van een analyse als vermeld in artikel 38, § 5, eerste lid. »
+
+### ART. 21.
+
+Aan artikel 38, § 5, eerste lid, van hetzelfde besluit worden de volgende zinnen toegevoegd :<br /><br />« Voor het bepalen van de reëel vervoerde hoeveelheid derogatiemest, uitgedrukt in kg P2O5 en in kg N, als vermeld in het eerste lid, dient gebruik gemaakt te worden van een analyse, uitgevoerd door een krachtens artikel 62, § 6, van het Mestdecreet erkend laboratorium, die maximaal 1 jaar oud is. De analyse dient minimaal 5 kalenderjaren te worden bewaard door de aanbieder van de meststoffen. De afnemer van de meststoffen kan tot een periode van 12 maand na het transport een kosteloos afschrift van de analyse vragen bij de aanbieder, dewelke deze dient over te maken aan de afnemer binnen de 30 kalenderdagen na ontvangst van de vraag. De aanbieder van de meststoffen dient een afschrift van deze analyse over te maken aan de Mestbank. Het overmaken van dit afschrift gebeurt ten laatste samen met de aangifte, als vermeld in artikel 23, § 1, van het Mestdecreet, die moet ingediend worden in het kalenderjaar volgend op het kalenderjaar waarin het staal werd genomen dat betrekking heeft op de analyse. »
+
 ## HOOFDSTUK IX. Overgangs- en slotbepalingen
 
 ### ART. 22.
