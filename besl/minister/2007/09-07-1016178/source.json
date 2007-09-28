@@ -1,0 +1,17 @@
+{
+  "codex_id": 1016178,
+  "title": "Ministerieel besluit van 2007-09-07 tot samenstelling van de pachtprijzencommissie van Limburg",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1016178/VolledigDocument?datum=2007-09-28",
+  "source_sha256": "8a17ceb3defa0e8d2043cd784aec2e32928b07abd8b81913b48662f1edb2b515",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1016178&param=informatie",
+  "as_of": "2007-09-28",
+  "made": "2007-09-07",
+  "gazette": "2007-09-28",
+  "numac": 2007036635,
+  "document_start": "2007-09-28",
+  "document_end": "2010-09-29",
+  "in_force": "2007-09-28",
+  "article_versions": 6,
+  "record_form": "consolidated version as in force on 2007-09-28; oldest version available; future article versions excluded; article text as the API gives it"
+}
