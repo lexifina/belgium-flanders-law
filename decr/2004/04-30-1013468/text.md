@@ -368,7 +368,7 @@ Doctorandi betalen bij de inschrijving voor de voorbereiding van een doctoraat e
 
 ### ART. 59.
 
-Voor de academische initiële lerarenopleiding betreft het studiegeld een forfaitair bedrag van ten hoogste 130 euro.<br /><br />Een verschillend bedrag kan worden vastgelegd, naar gelang het gaat om:<br /><br />1° hoofdinschrijvingen, dan wel bijkomende inschrijvingen;<br /><br />2° voltijdse dan wel deeltijdse studietrajecten.
+...
 
 ### ART. 60.
 
