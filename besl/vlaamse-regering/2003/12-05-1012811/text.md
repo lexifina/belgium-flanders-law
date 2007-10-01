@@ -859,7 +859,7 @@ De voorwaarden van artikel 5.1.1.2, § 2, 4° tot en met 8°, artikel 5.1.1.3 en
 
 ### ART. 5.1.2.2.
 
-De erkende overbrenger van afvalstoffen moet voldoen aan de volgende voorwaarden:<br /><br />1° voldoende solvabel zijn om de overbrengingsactiviteiten te kunnen uitvoeren;<br /><br />2° de laatste vijf jaar geen effectieve strafrechtelijke veroordeling hebben opgelopen voor een overtreding van de wetgeving op het vlak van milieuhygiëne;<br /><br />3° over voldoende deskundigheid beschikken om de overbrengingsactiviteiten te kunnen uitvoeren.
+De erkende overbrenger van afvalstoffen moet voldoen aan de volgende voorwaarden:<br />1° voldoende solvabel zijn om de overbrengingsactiviteiten te kunnen uitvoeren;<br />2° de laatste vijf jaar geen effectieve strafrechtelijke veroordeling hebben opgelopen voor een overtreding van de wetgeving op het vlak van milieuhygiëne;<br />3° over voldoende deskundigheid beschikken om de overbrengingsactiviteiten te kunnen uitvoeren.<br />4° de erkende overbrenger van afgedankte apparatuur en recipiënten die ozonafbrekende stoffen of gefluoreerde broeikasgassen bevatten die afkomstig zijn van brandbeveiligingssystemen, moet voldoen aan de opleidingseisen, vermeld in het besluit van de Vlaamse Regering van (datum) inzake de certificering van technici voor brandbeveiligingssystemen die ozonafbrekende stoffen en gefluoreerde broeikasgassen bevatten.
 
 ### ART. 5.1.2.3.
 
