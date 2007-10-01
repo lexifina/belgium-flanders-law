@@ -186,26 +186,12 @@ In afwijking van de bestaande reglementaire bepalingen inzake bezoldiging ontvan
 
 ### ART. 43bis.
 
-[§ 1. Een zelfstandige stage is een periode die de student in het derde studiejaar van een initiÙle lerarenopleiding van één cyclus of in een voortgezette lerarenopleiding uitvoert in een stageschool waar hij zelfstandig taken van de leraar overneemt onder de voorwaarden van § 3.<br>
-<br>
-§ 2. De zelfstandige stage stemt overeen met 15 studiepunten van de 60 studiepunten van het derde studiejaar of van de voortgezette opleiding. De hogeschool vermeldt in de onderwijsregeling welke opleidingsonderdelen de zelfstandige stage kan vervangen.<br>
-<br>
-§ 3. Een hogeschool kan samen met een stageschool en de student opteren voor een zelfstandige stage zoals beschreven in § 1. Hiertoe sluit de hogeschool met de stageschool en de student een overeenkomst af aangaande de zelfstandige stage. Deze overeenkomst bevat minimaal de volgende elementen:<br>
-- de duur: minimum zes en maximum negen weken;<br>
-- de periode van het schooljaar waarin deze stage plaatsgrijpt;<br>
-- de opdrachten die de stagiair moet opnemen;<br>
-- hoe en door wie de stagebegeleiding gebeurt vanuit zowel de hogeschool als de stageschool;<br>
-- de voorwaarden die de stageschool aan de stagiair oplegt;<br>
-- wie in overleg met de hogeschool de stagiair evalueert;<br>
-- welke opleidingsonderdelen voor de betrokken student de zelfstandige stage vervangt.<br>
-<br>
-§ 4. Voor een leerling van een stageschool is de duur van de zelfstandige stage beperkt tot een duur van maximum negen weken per schooljaar (ing. decr. 13 juli 2001, art. 20, I: 1 september 2001)].<br>
-<br>
-§ 5. [De zelfstandige stage zoals beschreven in § 1 geldt vanaf het schooljaar 2001-2002 tot en met het schooljaar (verv. decr. 7 mei 2004, art. 45, I: 1 september 2004) ] [2005-2006 (verv. decr. 15 juli 2005, art. VIII.3, I : 1 september 2005)].
+opgeheven<br>
+...
 
 ### ART. 43ter.
 
-De invoering en de praktijk van de zelfstandige stage zal na 1 jaar worden geëvalueerd. Het rapport zal voor 31 december 2001 ter bespreking aan het Vlaams Parlement worden voorgelegd.  <span class="reference">(ing. decr. 13 juli 2001, art. 20, I: 1 september 2001)</span> ]
+...
 
 ## HOOFDSTUK VI SLOTBEPALINGEN
 
