@@ -2,16 +2,16 @@
   "codex_id": 1016523,
   "title": "Besluit van de Vlaamse Regering van 2007-12-07 houdende wijziging van het besluit van de Vlaamse Regering van 11 januari 2002 ter uitvoering van het decreet van 13 juli 2001 houdende het stimuleren van een kwalitatief en integraal lokaal cultuurbeleid",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1016523/VolledigDocument?datum=2007-01-01",
-  "source_sha256": "3964222869d081f65457ecceb0a943ad7e1e6d90f78551114bb68dd3b887851a",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1016523/VolledigDocument?datum=2007-10-01",
+  "source_sha256": "c5f0501b562bcbc566682ec90e7d8d175c2fca4a4bfbcb44b5732a73d8ca4784",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1016523&param=informatie",
-  "as_of": "2007-01-01",
+  "as_of": "2007-10-01",
   "made": "2007-12-07",
   "gazette": "2008-01-22",
   "numac": 2008035050,
   "document_start": "2008-01-01",
   "document_end": null,
-  "in_force": "2007-01-01",
-  "article_versions": 2,
-  "record_form": "consolidated version as in force on 2007-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "in_force": "2007-10-01",
+  "article_versions": 6,
+  "record_form": "consolidated version as in force on 2007-10-01; future article versions excluded; article text as the API gives it"
 }
