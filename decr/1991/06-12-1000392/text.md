@@ -44,7 +44,7 @@ Dit decreet heeft betrekking op de volgende universiteiten:<br /><br />1° de "K
 
 ### ART. 7bis.
 
-Een academische initiële lerarenopleiding is gericht op het verwerven van de basiscompetenties voor het leraarstype secundair onderwijs-groep 2.<br /><br />Een academische initiële lerarenopleiding wordt bekrachtigd met één van de academische graden van "geaggregeerde voor het secundair onderwijs-groep 2".  <span class="reference">(ing. decr. 16 april 1996, art. 11, I: 1 september 1997)</span> ]
+...
 
 ### ART. 8.
 
@@ -86,7 +86,7 @@ Een academische initiële lerarenopleiding is gericht op het verwerven van de ba
 
 ### ART. 15bis.
 
-Geïntegreerd in de academische opleiding worden tijdens de tweede cyclus minimum 270 uren onderwijs- of andere studieactiviteiten voor de academische initile lerarenopleiding aangeboden. Voor de afgestudeerden die dit onderdeel niet hebben gevolgd, moet dit deeltijds worden ingericht. Tevens worden, gedeeltelijk of volledig parallel met, of na de tweede cyclus tussen de 600 en de 750 uren onderwijs- of andere studieactiviteiten voor de academische initiële lerarenopleiding ingericht, waarvan minstens 1/3 begeleide onderwijspraktijk. [ <span class="reference">(ing. decr. 16 april 1996, art. 15, I: 1 sep-tember 1997)</span> ]
+...
 
 ## AFDELING 4 CONTACTONDERWIJS EN OPEN ONDERWIJS
 
@@ -166,7 +166,7 @@ Geïntegreerd in de academische opleiding worden tijdens de tweede cyclus minimu
 
 ### ART. 33.
 
-De universiteiten kunnen academische initiële [ <span class="reference">(ing. decr. 16 april 1997, art. 17, I: 1 september 1997)</span> ] lerarenopleidingen aanbieden in of over de studiegbieden of delen van studiegebieden heen waarvoor zij krachtens artikel 23 tot en met 28 academische opledingen in de tweede cyclus kunnen aanbieden. [...  <span class="reference">(geschr. decr. 16 april 1997, art. 17, I: 1 september 1997)</span> ]
+...
 
 ## AFDELING 8 TOELATINGSVOORWAARDEN EN INSCHRIJVING AAN DE UNIVERSITEIT
 
@@ -200,9 +200,7 @@ De inschrijving van een student die niet voldoet aan de decretale en reglementai
 
 ### ART. 40.
 
-Voor de inschrijving in een academische initiële [ (ing. decr. 16 april 1997, art. 18, I: 1 september 1997) ] lerarenopleiding geldt het bezit van een diploma van de eerste cyclus van een academische opleiding als toelatingsvoorwaarde. Voor het behalen van de academische graad van geaggregeerde voor het secundair onderwijs-groep 2 (verv. decr. 16 april 1997, art. 18, I: 1 september 1997) is het bezit van een diploma van de tweede cyclus van een academische opleiding vereist.<br>
-<br>
-[Het universiteitsbestuur kan, in afwijking van het bepaalde in het eerste lid en onverminderd het bepaalde in artikel 60, personen die in het bezit zijn van een einddiploma van een universiteit in het buitenland voorzover dit diploma een opleiding van tenminste vier jaar afrondt, toelating geven tot de inschrijving in een academische initiële lerarenopleiding. In voorkomend geval kan het universiteitsbestuur de inschrijving afhankelijk maken van het volgen van sommige opleidingsonderdelen van een academische opleiding. [ (ing. decr. 20 april 2001, art. 41, I: 1 oktober 2000)]
+...
 
 ### ART. 40bis.
 
@@ -952,6 +950,10 @@ C1/C0: de verhouding tussen de geraamde index van de consumptieprijzen op het ei
 ### ART. 130ter.
 
 § 1. De aanvullende middelen, bepaald in artikel 130, § 5, verminderd met de bedragen vermeld in artikel 130bis, § 3, voor de begrotingsjaren 2003, 2004, 2005, 2006 en 2007 worden onder de universiteiten verdeeld op basis van het gemiddeld aantal onderwijsbelastingseenheden per 1 februari 2000 en 2001 bepaald conform de voorschriften van deze afdeling. De aldus berekende aantallen onderwijsbelastingseenheden worden voor elke universiteit vermenigvuldigd met een correctiefactor die gelijk is aan de verhouding van het gemiddelde bedrag van de werkingsuitkering per onderwijsbelastingseenheid van het jaar 2000 voor alle universiteiten samen tot het bedrag van de werkingsuitkering per onderwijsbelastingseenheid van het jaar 2000 voor de betreffende universiteit. De correctiefactor wordt beperkt tot 0,85 of 1,15 naar gelang het geval. Er wordt bij de berekening geen rekening gehouden met de werkingsmiddelen toegekend voor de organisatie van de voortgezette academische opleidingen.<br /><br />§ 2. De middelen bedoeld in § 1 worden toegekend op voorwaarde dat de universiteiten een onderwijsontwikkelingsplan voor de periode 2003-2006 voorleggen aan de Vlaamse regering en na een voorafgaande toetsing van de deugdelijkheid ervan. In dat onderwijsontwikkelingsplan beschrijven de universiteiten de wijze waarop zij voornemens zijn de omvorming van de bestaande opleidingen in bachelors- en mastersopleidingen te realiseren en de wijze waarop zij bij die omvorming de innovatie en de flexibilisering van het onderwijs en leren gestalte geven. Onder innovatie wordt onder meer verstaan het herontwerpen van de curricula naar inhoud, onderwijs- en leervormen, vormen van toetsen en examens, begeleiding van studenten. Onder flexibilisering van het onderwijs en leren wordt onder meer verstaan de ontwikkeling van verschillende wijzen van aanbieden van het onderwijs en van verschillende vormen van begeleiding afgestemd op de beoogde doelgroep, de ontwikkeling van elektronisch studie- en leermateriaal geschikt voor afstandsonderwijs c.q. geschikt voor beroepsactieve mensen, en het beschikbaar stellen van verschillende kennisbronnen. Het onderwijsontwikkelingsplan bevat een tijdspad waarop de belangrijkste mijlpalen zijn aangegeven. Het onderwijsontwikkelingsplan dient in voorkomend geval door de associatie waarvan de universiteit deel uitmaakt, positief te worden geadviseerd. De aanvullende middelen bedoeld in § 1 kunnen ook besteed worden aan projecten van onder-wijskundige en inhoudelijke vernieuwing van het onderwijs binnen de associatie met inbegrip van de academisering van het hoger onderwijs van twee cycli. <br /><br />§ 3. De aanvullende middelen bedoeld in § 1 voor het begrotingsjaar 2006 en 2007 worden toegekend na een positieve evaluatie van de uitvoering per 31 december 2005 van het onderwijsontwikkelingsplan. Daarbij wordt er nagegaan in welke mate en op welke wijze de universiteiten hun doelstellingen eind 2005 al hebben gerealiseerd.<br /><br />§ 4. De aanvullende middelen worden aan de universiteiten betaald in maandelijkse schijven.<br /><br />§ 5. De universiteiten bezorgen hun onderwijsontwikkelingsplan aan de Vlaamse regering ten laatste op 30 september 2003.<br /><br />§ 6. De universiteiten bezorgen een uitvoerig rapport over de realisatie van het onderwijsontwikkelingsplan aan de Vlaamse regering ten laatste op 31 december 2005.<br /><br />§ 7. De Vlaamse regering wint het advies in van onafhankelijke deskundigen die de onderwijsontwikkelingsplannen toetsen op hun deugdelijkheid en die de realisatie ervan eind 2005 evalueren.<br /><br />§ 8. In de jaarverslagen over de jaren 2003 en 2004 rapporteren de universiteiten over de voortgang van de uitvoering van het onderwijsontwikkelingsplan en over de realisaties in het betreffende jaar. In een toelichting bij de begroting voor de jaren 2003, 2004, 2005 en 2006 geven de universiteiten aan hoeveel middelen zij zullen vrijmaken voor de uitvoering van het onderwijsontwikkelingsplan in dat jaar. <br /><br />§ 9. De aanvullende middelen die in het begrotingsjaar 2002 bij wijze van convenants aan de universiteiten werden toegekend, alsook de aanvullende middelen bedoeld in § 1 die aan de universiteiten worden toegekend, worden niet beschouwd als werkingsuitkering en worden geboekt op de afdeling IV onderzoeksfondsen en wetenschappelijke dienstverlening, onderafdeling Andere Onderzoeksfondsen.
+
+### ART. 130quater.
+
+§ 1. De universiteiten ontvangen met ingang van het begrotingsjaar 2007 gezamenlijk een bedrag van 2.402.227 euro voor de organisatie van de specifieke lerarenopleiding. Vanaf het begrotingsjaar 2008 ontvangen ze gezamenlijk een bedrag van 4.335.507 euro.<br /><br />§ 2. De gezamenlijke toelage wordt verdeeld pro rata van het aantal uitgereikte diploma's voor de academische initiële lerarenopleiding of volgens het aantal verworven credits.<br />1° Voor het begrotingsjaar 2007 gebeurt de verdeling pro rata de in het academiejaar 2004-2005 uitgereikte diploma's.<br />2° Vanaf het begrotingsjaar 2008 gebeurt de verdeling pro rata de in het voorlaatst afgelopen academiejaar verworven credits in de lerarenopleiding.<br /><br />§ 3. Deze toelagen worden beschouwd als extra werkingsmiddelen. Zij worden maandelijks per twaalfden ter beschikking gesteld van elke universiteit aan het einde van de maand op die waarop het twaalfde betrekking heeft.<br /><br />§ 4. De in § 1 vermelde bedragen gelden tot en met het begrotingsjaar 2009 en worden met ingang van het begrotingsjaar 2007 geïndexeerd volgens de indexformule L1/L0 zoals bepaald in artikel 130, § 6. Vóór het begrotingsjaar 2010 wordt deze financieringswijze geëvalueerd.
 
 ### ART. 131.
 
