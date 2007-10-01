@@ -1,0 +1,17 @@
+{
+  "codex_id": 1016237,
+  "title": "Ministerieel besluit van 2007-10-01 houdende typetoelating van toestellen voor digitale screeningsmammografie binnen het Vlaamse bevolkingsonderzoek naar borstkanker",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1016237/VolledigDocument?datum=2007-10-01",
+  "source_sha256": "877487ff2bbed1d682dc244d9bde3d5339fe9f0067b1bdb41387318e490259ae",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1016237&param=informatie",
+  "as_of": "2007-10-01",
+  "made": "2007-10-01",
+  "gazette": "2007-10-12",
+  "numac": 2007036733,
+  "document_start": "2007-10-01",
+  "document_end": null,
+  "in_force": "2007-10-01",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2007-10-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
