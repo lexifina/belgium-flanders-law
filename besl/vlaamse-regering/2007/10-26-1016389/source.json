@@ -1,0 +1,17 @@
+{
+  "codex_id": 1016389,
+  "title": "Besluit van de Vlaamse Regering van 2007-10-26 houdende goedkeuring van de geselecteerde tijdelijke projecten rond studie- en beroepskeuze en rond werkplekleren",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1016389/VolledigDocument?datum=2007-10-01",
+  "source_sha256": "c7cd37b140d665baed62f8a13a18ea39a2a63db10d13455c4dd5621efab06f43",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1016389&param=informatie",
+  "as_of": "2007-10-01",
+  "made": "2007-10-26",
+  "gazette": "2007-12-03",
+  "numac": 2007037115,
+  "document_start": "2007-10-01",
+  "document_end": "2010-08-31",
+  "in_force": "2007-10-01",
+  "article_versions": 9,
+  "record_form": "consolidated version as in force on 2007-10-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
