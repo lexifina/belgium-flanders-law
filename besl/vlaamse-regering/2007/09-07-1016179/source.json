@@ -1,0 +1,17 @@
+{
+  "codex_id": 1016179,
+  "title": "Besluit van de Vlaamse Regering van 2007-09-07 tot wijziging van het koninklijk besluit van 17 april 1992 inzake de biologische productiemethode en aanduidingen dienaangaande op landbouwproducten en levensmiddelen",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1016179/VolledigDocument?datum=2007-10-11",
+  "source_sha256": "02b1f72ae76a1be688ca32f5a51df2c264b60de0d10eb2d9db1e4e7993b8b498",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1016179&param=informatie",
+  "as_of": "2007-10-11",
+  "made": "2007-09-07",
+  "gazette": "2007-10-01",
+  "numac": 2007036621,
+  "document_start": "2007-10-11",
+  "document_end": null,
+  "in_force": "2007-10-11",
+  "article_versions": 5,
+  "record_form": "consolidated version as in force on 2007-10-11; oldest version available; future article versions excluded; article text as the API gives it"
+}
