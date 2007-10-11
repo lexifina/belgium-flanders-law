@@ -1,0 +1,17 @@
+{
+  "codex_id": 1016181,
+  "title": "Besluit van de Vlaamse Regering van 2007-09-14 betreffende het centraal beheersysteem in het kader van het Scheepvaartbegeleidingsdecreet",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1016181/VolledigDocument?datum=2007-10-11",
+  "source_sha256": "83ac2aa91f90b84a5fcd1c40be7605def9cd10ce62d85af4cce89341af32c861",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1016181&param=informatie",
+  "as_of": "2007-10-11",
+  "made": "2007-09-14",
+  "gazette": "2007-10-01",
+  "numac": 2007036654,
+  "document_start": "2007-10-11",
+  "document_end": null,
+  "in_force": "2007-10-11",
+  "article_versions": 7,
+  "record_form": "consolidated version as in force on 2007-10-11; oldest version available; future article versions excluded; article text as the API gives it"
+}
