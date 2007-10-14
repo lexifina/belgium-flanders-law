@@ -1,0 +1,9 @@
+# Besluit van de Vlaamse Regering van 2007-09-07 tot wijziging van het besluit van de Vlaamse Regering van 3 februari 2006 houdende de controlemaatregelen inzake de aanwending van de werkingsmiddelen in het vrij gesubsidieerd onderwijs
+
+### Aanhef
+
+De Vlaamse Regering,<br /><br />Gelet op de wet van 29 mei 1959 tot wijziging van sommige bepalingen van de onderwijswetgeving, gewijzigd bij het decreet van 31 juli 1990 betreffende het onderwijs-II, inzonderheid op artikel 36, § 1, tweede lid, 2°, vervangen bij het decreet van 31 juli 1990;<br /><br />Gelet op het decreet Basisonderwijs van 25 februari 1997, inzonderheid op artikel 78;<br /><br />Gelet op het besluit van de Vlaamse Regering van 3 februari 2006 houdende de controlemaatregelen inzake aanwending van de werkingstoelagen in het vrij gesubsidieerd onderwijs;<br /><br />Gelet op het advies van de Inspectie van Financiën, gegeven op 9 augustus 2007;<br /><br />Op voorstel van de Vlaamse minister van Werk, Onderwijs en Vorming;<br /><br />Na beraadslaging,<br /><br />Besluit : <br /><br />
+
+### Enig artikel.
+
+Aan Artikel 3 van het besluit van de Vlaamse Regering van 3 februari 2006 houdende de controlemaatregelen inzake de aanwending van de werkingsmiddelen in het vrij gesubsidieerd onderwijs wordt een § 3 toegevoegd, die luidt als volgt :<br />« § 3. Uiterlijk zes maanden na de afsluitingsdatum van het boekjaar moeten de schoolbesturen waarop artikel 17, § 4, van de wet van 27 juni 1921 betreffende de verenigingen zonder winstoogmerk, de internationale verenigingen zonder winstoogmerk en de stichtingen, van toepassing is, de controle op de aanwending van de werkingstoelagen mogelijk maken door het voorleggen van een jaarrekening of een financieel verslag, gebaseerd op de vereenvoudigde boekhouding en door het ter beschikking houden van de bijbehorende bewijsstukken. »<br /><br />

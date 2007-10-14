@@ -1,0 +1,17 @@
+{
+  "codex_id": 1016204,
+  "title": "Besluit van de Vlaamse Regering van 2007-09-07 tot wijziging van het besluit van de Vlaamse Regering van 3 februari 2006 houdende de controlemaatregelen inzake de aanwending van de werkingsmiddelen in het vrij gesubsidieerd onderwijs",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1016204/VolledigDocument?datum=2007-10-14",
+  "source_sha256": "ebe86102d27b378ad5a3b43f7deaa936f09fcdd86ac3856f43c9e25d731da94b",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1016204&param=informatie",
+  "as_of": "2007-10-14",
+  "made": "2007-09-07",
+  "gazette": "2007-10-04",
+  "numac": 2007036656,
+  "document_start": "2007-10-14",
+  "document_end": null,
+  "in_force": "2007-10-14",
+  "article_versions": 2,
+  "record_form": "consolidated version as in force on 2007-10-14; oldest version available; future article versions excluded; article text as the API gives it"
+}
