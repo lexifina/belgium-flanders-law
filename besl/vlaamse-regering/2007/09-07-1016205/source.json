@@ -1,0 +1,17 @@
+{
+  "codex_id": 1016205,
+  "title": "Besluit van de Vlaamse Regering van 2007-09-07 tot tijdelijke erkenning van de masteropleiding in de protestantse godgeleerdheid van de Faculteit voor Protestantse Godgeleerdheid te Brussel",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1016205/VolledigDocument?datum=2007-10-14",
+  "source_sha256": "6653dbed7fba1910f0e1210da6bab936d050f466cf9f919ee46a23b2ef64a21b",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1016205&param=informatie",
+  "as_of": "2007-10-14",
+  "made": "2007-09-07",
+  "gazette": "2007-10-04",
+  "numac": 2007036665,
+  "document_start": "2007-10-14",
+  "document_end": null,
+  "in_force": "2007-10-14",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2007-10-14; oldest version available; future article versions excluded; article text as the API gives it"
+}
