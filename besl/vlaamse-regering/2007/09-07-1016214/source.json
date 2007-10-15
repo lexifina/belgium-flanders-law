@@ -1,0 +1,17 @@
+{
+  "codex_id": 1016214,
+  "title": "Besluit van de Vlaamse Regering van 2007-09-07 houdende het toekennen van de halfjaarlijkse bijdrage uit het Vlaams Fonds voor Lastendelging aan het VRT-pensioenfonds voor het werkingsjaar 2007",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1016214/VolledigDocument?datum=2007-10-15",
+  "source_sha256": "ab52b1f23d585d74a25351b89e55407af23dc4fd7b7e13ea21899ce58f9aa1df",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1016214&param=informatie",
+  "as_of": "2007-10-15",
+  "made": "2007-09-07",
+  "gazette": "2007-10-05",
+  "numac": 2007036670,
+  "document_start": "2007-10-15",
+  "document_end": null,
+  "in_force": "2007-10-15",
+  "article_versions": 5,
+  "record_form": "consolidated version as in force on 2007-10-15; oldest version available; future article versions excluded; article text as the API gives it"
+}
