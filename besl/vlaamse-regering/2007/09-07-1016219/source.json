@@ -1,0 +1,17 @@
+{
+  "codex_id": 1016219,
+  "title": "Besluit van de Vlaamse Regering van 2007-09-07 tot wijziging van het besluit van de Vlaamse Regering van 1 september 2006 tot regeling van de alternatieve investeringswaarborg verstrekt door het Vlaams Infrastructuurfonds voor Persoonsgebonden Aangelegenheden, en het besluit van de Vlaamse Regering van 9 februari 2007 tot regeling van de investeringswaarborg voor rusthuizen, verstrekt door het Vlaams Infrastructuurfonds voor Persoonsgebonden Aangelegenheden, en tot wijziging van het besluit van de Vlaamse Regering van 1 september 2006 tot regeling van de alternatieve investeringswaarborg verstrekt door het Vlaams Infrastructuurfonds voor Persoonsgebonden Aangelegenheden",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1016219/VolledigDocument?datum=2007-10-19",
+  "source_sha256": "f3fbacc7a61c764f6096a5b961ac6a488d9af11ce32da6544d079b6934c872db",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1016219&param=informatie",
+  "as_of": "2007-10-19",
+  "made": "2007-09-07",
+  "gazette": "2007-10-09",
+  "numac": 2007036682,
+  "document_start": "2007-10-19",
+  "document_end": null,
+  "in_force": "2007-10-19",
+  "article_versions": 14,
+  "record_form": "consolidated version as in force on 2007-10-19; oldest version available; future article versions excluded; article text as the API gives it"
+}
