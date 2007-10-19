@@ -1,0 +1,17 @@
+{
+  "codex_id": 1016220,
+  "title": "Besluit van de Vlaamse Regering van 2007-09-14 tot regeling van de werking van het intern verzelfstandigd agentschap Fonds Stationsomgevingen",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1016220/VolledigDocument?datum=2007-10-19",
+  "source_sha256": "e2365665339286e0fa98dfd5288593b5879fff237e58d1517a73e906c081f62a",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1016220&param=informatie",
+  "as_of": "2007-10-19",
+  "made": "2007-09-14",
+  "gazette": "2007-10-09",
+  "numac": 2007036681,
+  "document_start": "2007-10-19",
+  "document_end": null,
+  "in_force": "2007-10-19",
+  "article_versions": 13,
+  "record_form": "consolidated version as in force on 2007-10-19; oldest version available; future article versions excluded; article text as the API gives it"
+}
