@@ -2,16 +2,16 @@
   "codex_id": 1015004,
   "title": "Besluit van de Vlaamse Regering van 2006-09-01 houdende de voorwaarden van de vaststelling, de uitbetaling en de terugvordering van de subsidies van de zorgkassen in het kader van de zorgverzekering",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1015004/VolledigDocument?datum=2007-01-01",
-  "source_sha256": "5f10bdad23b1099a7354f37a922bed3e4ed19a8f13877fbcb7c0f7a1d35bf943",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1015004/VolledigDocument?datum=2007-10-19",
+  "source_sha256": "c3bba771cece3e23f88c2d6040c24655e2ad51433e8f67edbc096257864e0734",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1015004&param=informatie",
-  "as_of": "2007-01-01",
+  "as_of": "2007-10-19",
   "made": "2006-09-01",
   "gazette": "2006-10-03",
   "numac": 2006036522,
   "document_start": "2007-01-01",
   "document_end": "2017-01-01",
-  "in_force": "2007-01-01",
+  "in_force": "2007-10-19",
   "article_versions": 18,
-  "record_form": "consolidated version as in force on 2007-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2007-10-19; future article versions excluded; article text as the API gives it"
 }
