@@ -1,0 +1,17 @@
+{
+  "codex_id": 1016339,
+  "title": "Besluit van de Vlaamse Regering van 2007-10-19 tot wijziging van het besluit van de Vlaamse Regering van 28 september 2001 houdende de erkenning, de registratie en de machtiging, en houdende de aansluiting, de aanvraag en de tenlasteneming in het kader van de zorgverzekering, en tot wijziging van het besluit van de Vlaamse Regering van 1 september 2006 houdende de voorwaarden van de vaststelling, de uitbetaling en de terugvordering van de subsidies van de zorgkassen",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1016339/VolledigDocument?datum=2007-10-19",
+  "source_sha256": "f21be5fc1d0fdaa547159aabb80f886268ebbe057c1595bef030d76563133629",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1016339&param=informatie",
+  "as_of": "2007-10-19",
+  "made": "2007-10-19",
+  "gazette": "2007-11-14",
+  "numac": 2007036947,
+  "document_start": "2007-10-19",
+  "document_end": null,
+  "in_force": "2007-10-19",
+  "article_versions": 6,
+  "record_form": "consolidated version as in force on 2007-10-19; oldest version available; future article versions excluded; article text as the API gives it"
+}
