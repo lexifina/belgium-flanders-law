@@ -226,7 +226,11 @@ Een door de minister aangewezen controleorgaan kan de graad van zorgbehoevendhei
 
 ### ART. 38.
 
-Door een zorgkas onverschuldigd uitgevoerde tenlastenemingen worden door de zorgkas van de betrokken gebruiker teruggevorderd of in mindering gebracht van toekomstige aan de betrokken gebruiker te betalen tenlastenemingen. [Wanneer de gebruiker bewijst dat hij te goeder trouw tenlastenemingen heeft ontvangen waarop hij geen recht had, wordt de terugvordering beperkt tot de laatste honderd vijftig dagen.  <span class="reference">(ing. B.V.R. 14 december 2001, art. 8, I: 1 januari 2002)</span> ]
+Door een zorgkas onverschuldigd uitgevoerde tenlastenemingen worden door de zorgkas van de betrokken gebruiker teruggevorderd of in mindering gebracht van toekomstige aan de betrokken gebruiker te betalen tenlastenemingen. De terugvordering van de onrechtmatig betaalde tenlastenemingen wordt voor de gebruiker tot zes maanden tenlastenemingen beperkt.
+
+### ART. 38bis.
+
+De terugvordering van de onrechtmatig betaalde tenlastenemingen wordt beperkt tot één maand tenlastenemingen bij personen die aan alle volgende voorwaarden voldoen : <br />1° de reden van de onrechtmatig betaalde tenlasteneming bestaat erin dat de persoon geen recht heeft op mantel- en thuiszorg omdat hij volgens het protocol van verblijf voltijds verblijft in een door het Vlaams Agentschap voor Personen met een Handicap erkende residentiële voorziening;<br />2° de persoon heeft de aanvraag tot tenlasteneming vóór 1 oktober 2007 bij de zorgkas ingediend.
 
 ### ART. 39.
 
