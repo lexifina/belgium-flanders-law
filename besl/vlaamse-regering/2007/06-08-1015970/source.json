@@ -2,16 +2,16 @@
   "codex_id": 1015970,
   "title": "Besluit van de Vlaamse Regering van 2007-06-08 tot herverdeling van basisallocaties van de begroting van de Vlaamse Gemeenschap voor het begrotingsjaar 2007",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1015970/VolledigDocument?datum=2007-07-29",
-  "source_sha256": "bb056bcde27e906be5a0d8d09cad0c3a41e6d54c5b0bf6e3f190c99a6456e779",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1015970/VolledigDocument?datum=2007-10-21",
+  "source_sha256": "9e6267700da290af31aca787e52adb752fc351157282535fd5930a40979ed8ec",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1015970&param=informatie",
-  "as_of": "2007-07-29",
+  "as_of": "2007-10-21",
   "made": "2007-06-08",
   "gazette": "2007-07-19",
   "numac": 2007036115,
   "document_start": "2007-07-29",
   "document_end": null,
-  "in_force": "2007-07-29",
+  "in_force": "2007-10-21",
   "article_versions": 5,
-  "record_form": "consolidated version as in force on 2007-07-29; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2007-10-21; future article versions excluded; article text as the API gives it"
 }

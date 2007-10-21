@@ -8,57 +8,40 @@ De Vlaamse Regering,<br /><br />Gelet op de wetten op de Rijkscomptabiliteit, ge
 
 <p>Het provisioneel krediet ingeschreven onder basisallocatie 00.37 van het programma 24.60 wordt als volgt verdeeld :<br>
 (in duizend euro)<br>
-<br>
 </p>
 
 <table border="1" cellpadding="0" cellspacing="0" style="border-collapse:collapse">
 	<tbody>
 		<tr>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:46.05pt">
-			<p>PR<!--?xml:namespace         prefix = o ns = "urn:schemas-microsoft-com:office:office"         /--></p>
+			<p><strong>PR<!--?xml:namespace         prefix = o ns = "urn:schemas-microsoft-com:office:office"         /--></strong></p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:49.35pt">
+			<p><strong>BA</strong></p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:42.75pt">
+			<p><strong>NGK in meer</strong></p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:46.05pt">
-			<p>BA</p>
+			<p><strong>NGK in min</strong></p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:46.05pt">
-			<p>NGK</p>
-
-			<p>In meer</p>
+			<p><strong>GVK in meer</strong></p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:46.05pt">
-			<p>NGK</p>
-
-			<p>In min</p>
+			<p><strong>GVK in min</strong></p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:46.05pt">
-			<p>GVK</p>
-
-			<p>In meer</p>
+			<p><strong>GOK in min</strong></p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:46.05pt">
-			<p>GVK</p>
-
-			<p>In min</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:46.05pt">
-			<p>GOK</p>
-
-			<p>In meer</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:46.05pt">
-			<p>GOK</p>
-
-			<p>In min</p>
+			<p><strong>GOK in min</strong></p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:46.1pt">
-			<p>MAC</p>
-
-			<p>In meer</p>
+			<p><strong>MAC in meer</strong></p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:46.1pt">
-			<p>MAC</p>
-
-			<p>In min</p>
+			<p><strong>MAC in min</strong></p>
 			</td>
 		</tr>
 		<tr>
@@ -97,7 +80,7 @@ De Vlaamse Regering,<br /><br />Gelet op de wetten op de Rijkscomptabiliteit, ge
 
 			<p>69.9</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:46.05pt">
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:49.35pt">
 			<p>00.37</p>
 
 			<p>12.02</p>
@@ -112,7 +95,7 @@ De Vlaamse Regering,<br /><br />Gelet op de wetten op de Rijkscomptabiliteit, ge
 
 			<p>63.02</p>
 
-			<p>41.12(*)</p>
+			<p>41.12 (*)</p>
 
 			<p>51.01</p>
 
@@ -132,7 +115,7 @@ De Vlaamse Regering,<br /><br />Gelet op de wetten op de Rijkscomptabiliteit, ge
 
 			<p>99.01</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:46.05pt">
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.75pt">
 			<p>&nbsp;</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:46.05pt">
@@ -149,7 +132,7 @@ De Vlaamse Regering,<br /><br />Gelet op de wetten op de Rijkscomptabiliteit, ge
 
 			<p>121</p>
 
-			<p>17.500</p>
+			<p>&nbsp;</p>
 
 			<p>215</p>
 
@@ -157,11 +140,11 @@ De Vlaamse Regering,<br /><br />Gelet op de wetten op de Rijkscomptabiliteit, ge
 
 			<p>2.000</p>
 
-			<p>10.005</p>
+			<p>&nbsp;</p>
 
 			<p>3.000</p>
 
-			<p>2.000</p>
+			<p>&nbsp;</p>
 
 			<p>1.750</p>
 
@@ -170,8 +153,6 @@ De Vlaamse Regering,<br /><br />Gelet op de wetten op de Rijkscomptabiliteit, ge
 			<p>3.785</p>
 
 			<p>866</p>
-
-			<p>7.500</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:46.05pt">
 			<p>52.848</p>
@@ -184,6 +165,38 @@ De Vlaamse Regering,<br /><br />Gelet op de wetten op de Rijkscomptabiliteit, ge
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:46.1pt">
 			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>17.500</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>10.005</p>
+
+			<p>&nbsp;</p>
+
+			<p>2.000</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>7.500</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:46.1pt">
 			<p>&nbsp;</p>
