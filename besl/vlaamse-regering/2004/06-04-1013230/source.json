@@ -2,16 +2,16 @@
   "codex_id": 1013230,
   "title": "Besluit van de Vlaamse Regering van 2004-06-04 houdende de omschrijving van de territoriale bevoegdheid van Waterwegen en Zeekanaal",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1013230/VolledigDocument?datum=2006-06-01",
-  "source_sha256": "20bfed71762d647b0d8e02fed1cb5a415769b77c59a9bd8c0b541ed02395b129",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1013230/VolledigDocument?datum=2007-10-21",
+  "source_sha256": "445c967ed989e4b9e26382825a22e5a650fd43a1eb360419cd4dda649e206616",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1013230&param=informatie",
-  "as_of": "2006-06-01",
+  "as_of": "2007-10-21",
   "made": "2004-06-04",
   "gazette": "2004-07-14",
   "numac": 2004036163,
   "document_start": null,
   "document_end": "2017-12-31",
-  "in_force": "2006-06-01",
+  "in_force": "2007-10-21",
   "article_versions": 5,
-  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2007-10-21; future article versions excluded; article text as the API gives it"
 }
