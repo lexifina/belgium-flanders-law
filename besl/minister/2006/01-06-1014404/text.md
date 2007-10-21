@@ -1578,7 +1578,9 @@ FORMELE VOORWAARDEN VOOR TENLASTENEMING VOOR GEBRUIKERS DIE IN VLAANDEREN WONEN<
 <br>
 * wat de aanvragen voor tenlasteneming voor residentiële zorg betreft, effectief verblijven in een erkende of met een erkenning gelijkgestelde residentiële voorziening.<br>
 <br>
-Wanneer de persoon verblijft in een residentiële voorziening die een erkenningsaanvraag bij de Vlaamse Gemeenschap heeft ingediend, dan mag de zorgkas de aanvraag ook aanvaarden. De zorgkas mag in dit geval de tenlastenemingen ten vroegste uitvoeren met terugwerkende kracht vanaf het moment dat de voorziening over een erkenning beschikt.<br>
+Wanneer de persoon verblijft in een residentiële voorziening die een erkenningsaanvraag bij de Vlaamse Gemeenschap heeft ingediend, dan mag de zorgkas de aanvraag ook aanvaarden. De zorgkas mag in dit geval de tenlastenemingen met terugwerkende kracht uitbetalen vanaf het moment dat de voorziening over een erkenning beschikt.<br>
+<br>
+In afwijking van het tweede lid kan de zorgkas ook aanvragen met terugwerkende kracht aanvaarden voor personen die verblijven in een residentiële voorziening die voor de eerste keer een erkenningsaanvraag bij de Vlaamse Gemeenschap heeft ingediend, als die erkenningsaanvraag tussen 1 januari 2006 en 1 mei 2006 nog in onderzoek was. De aanvraag wordt in dit geval geacht ingediend te zijn op de dag dat de gebruiker in de residentiële voorziening is opgenomen of op 1 januari 2006 als de gebruiker voor die datum al in de voorziening verbleef. De aanvraag moet uiterlijk 31 december 2007 bij de zorgkas ingediend worden. Zodra de voorziening erkend is, betaalt de zorgkas de tenlastenemingen met terugwerkende kracht uit.<br>
 <br>
 ONDERAFDELING III<br>
 <br>
@@ -1731,7 +1733,7 @@ GEBRUIKER OF ZIJN VERTEGENWOORDIGER DOET EEN BEROEP OP EEN ATTEST VAN EEN INDICA
 <br>
 * minstens de score B op de Katz-schaal in de thuisverpleging;<br>
 <br>
-* minstens de score 15 op de medisch-sociale schaal die wordt gebruikt voor de evaluatie van de graad van zelfredzaamheid met het oog op het onderzoek naar het recht op de integratietegemoetkoming, hulp aan bejaarden en hulp van derden<br>
+* minstens de score 15 op de medisch-sociale schaal die wordt gebruikt voor de evaluatie van de graad van zelfredzaamheid met het oog op het onderzoek naar het recht op de integratietegemoetkoming en de tegemoetkoming hulp aan bejaarden<br>
 <br>
 * bijkomende kinderbijslag op basis van minstens 66 % handicap én minstens 7 punten met betrekking tot de graad van zelfredzaamheid uit hoofde van het kind<br>
 <br>
@@ -1748,11 +1750,8 @@ GEBRUIKER OF ZIJN VERTEGENWOORDIGER DOET EEN BEROEP OP EEN ATTEST VAN EEN INDICA
 68. De attesten op basis van de score op de medisch-sociale schaal die wordt gebruikt voor de evaluatie van de graad van zelfredzaamheid met het oog op het onderzoek naar het recht op de integratietegemoetkoming, de hulp aan bejaarden en de hulp aan derden, kan hij aanvragen bij zijn verzekeringsinstelling, als de verzekeringsinstelling over de score beschikt, of op volgend adres:<br>
 <br>
 Federale Overheidsdienst Sociale Zekerheid<br>
-<br>
 Bestuursdirectie van de Uitkeringen aan personen met een handicap<br>
-<br>
 Zwarte Lievevrouwstraat 3C<br>
-<br>
 1000 Brussel<br>
 <br>
 69. De attesten moeten minstens volgende gegevens bevatten:<br>

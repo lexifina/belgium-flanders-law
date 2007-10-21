@@ -2,16 +2,16 @@
   "codex_id": 1014404,
   "title": "Ministerieel besluit van 2006-01-06 houdende de goedkeuring van de handleiding zorgverzekering",
   "type": "Ministerieel besluit",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1014404/VolledigDocument?datum=2007-01-01",
-  "source_sha256": "9f77472c2ef2ff77e1f5fb890a1cfbef8b82e73551928148d3c68b949a926fb6",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1014404/VolledigDocument?datum=2007-10-21",
+  "source_sha256": "4ad5c9e47734cbdce3ca22d8192b7b7347617714950367f5bd384cda27e5678c",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1014404&param=informatie",
-  "as_of": "2007-01-01",
+  "as_of": "2007-10-21",
   "made": "2006-01-06",
   "gazette": "2006-04-04",
   "numac": 2006035448,
   "document_start": "2006-01-01",
   "document_end": "2009-12-31",
-  "in_force": "2007-01-01",
+  "in_force": "2007-10-21",
   "article_versions": 4,
-  "record_form": "consolidated version as in force on 2007-01-01; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2007-10-21; future article versions excluded; article text as the API gives it"
 }
