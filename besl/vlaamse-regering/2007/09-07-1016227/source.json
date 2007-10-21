@@ -1,0 +1,17 @@
+{
+  "codex_id": 1016227,
+  "title": "Besluit van de Vlaamse Regering van 2007-09-07 houdende de omschrijving van de territoriale bevoegdheid van Waterwegen en Zeekanaal NV",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1016227/VolledigDocument?datum=2007-10-21",
+  "source_sha256": "6d398b0c7120bfd34aaa06397e14f76755cf58d4eae7140751e2f206956c0ac6",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1016227&param=informatie",
+  "as_of": "2007-10-21",
+  "made": "2007-09-07",
+  "gazette": "2007-10-11",
+  "numac": 2007036694,
+  "document_start": "2007-10-21",
+  "document_end": null,
+  "in_force": "2007-10-21",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2007-10-21; oldest version available; future article versions excluded; article text as the API gives it"
+}
