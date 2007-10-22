@@ -1,0 +1,17 @@
+{
+  "codex_id": 1016233,
+  "title": "Besluit van de Vlaamse Regering van 2007-09-14 tot wijziging van het besluit van de Vlaamse Regering van 17 november 2006 tot instelling van een bedrijfsadviessysteem voor land- en tuinbouwers",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1016233/VolledigDocument?datum=2007-10-22",
+  "source_sha256": "4663bb8c13a5f3f3ce0679abb175753295149b5214fd013eab3faac8fd55ce12",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1016233&param=informatie",
+  "as_of": "2007-10-22",
+  "made": "2007-09-14",
+  "gazette": "2007-10-12",
+  "numac": 2007036715,
+  "document_start": "2007-10-22",
+  "document_end": null,
+  "in_force": "2007-10-22",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2007-10-22; oldest version available; future article versions excluded; article text as the API gives it"
+}
