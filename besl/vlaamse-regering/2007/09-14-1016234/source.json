@@ -1,0 +1,17 @@
+{
+  "codex_id": 1016234,
+  "title": "Besluit van de Vlaamse Regering van 2007-09-14 tot wijziging van het besluit van de Vlaamse Regering van 8 juli 2005 tot instelling van een bedrijfstoeslagregeling en tot vaststelling van bepaalde steunregelingen voor landbouwers en tot toepassing van de randvoorwaarden",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1016234/VolledigDocument?datum=2007-10-22",
+  "source_sha256": "60c909d30910cc2327cda009c44434322ef0bc18fb0569f7176cdaf2620e2b87",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1016234&param=informatie",
+  "as_of": "2007-10-22",
+  "made": "2007-09-14",
+  "gazette": "2007-10-12",
+  "numac": 2007036714,
+  "document_start": "2007-10-22",
+  "document_end": null,
+  "in_force": "2007-10-22",
+  "article_versions": 6,
+  "record_form": "consolidated version as in force on 2007-10-22; oldest version available; future article versions excluded; article text as the API gives it"
+}
