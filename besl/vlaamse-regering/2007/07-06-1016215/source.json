@@ -1,0 +1,17 @@
+{
+  "codex_id": 1016215,
+  "title": "Besluit van de Vlaamse Regering van 2007-07-06 tot wijziging van het besluit van de Vlaamse Regering van 3 december 2004 houdende uitvoering van het decreet van 19 december 2003 betreffende het activeren van risicokapitaal in Vlaanderen",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1016215/VolledigDocument?datum=2007-10-23",
+  "source_sha256": "44e7da658eacccd9c0c6182f0765f60983f133915e23da0f6dfae5843e3ae0dc",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1016215&param=informatie",
+  "as_of": "2007-10-23",
+  "made": "2007-07-06",
+  "gazette": "2007-10-08",
+  "numac": 2007036236,
+  "document_start": "2007-10-23",
+  "document_end": null,
+  "in_force": "2007-10-23",
+  "article_versions": 8,
+  "record_form": "consolidated version as in force on 2007-10-23; oldest version available; future article versions excluded; article text as the API gives it"
+}
