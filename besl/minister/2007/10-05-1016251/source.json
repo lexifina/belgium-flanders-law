@@ -1,0 +1,17 @@
+{
+  "codex_id": 1016251,
+  "title": "Ministerieel besluit van 2007-10-05 betreffende de toekenning van een afwijking krachtens artikel 6 van het decreet van 15 juli 1997 houdende invoering van een meer evenwichtige vertegenwoordiging van mannen en vrouwen in de Koninklijke Academie voor Geneeskunde van België",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1016251/VolledigDocument?datum=2007-10-26",
+  "source_sha256": "9b00d9a8517efac81d9cf64de368e41928d3bff2f497b15dcafde807f6a0c755",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1016251&param=informatie",
+  "as_of": "2007-10-26",
+  "made": "2007-10-05",
+  "gazette": "2007-10-16",
+  "numac": 2007036750,
+  "document_start": "2007-10-26",
+  "document_end": null,
+  "in_force": "2007-10-26",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2007-10-26; oldest version available; future article versions excluded; article text as the API gives it"
+}
