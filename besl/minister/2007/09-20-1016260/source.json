@@ -1,0 +1,17 @@
+{
+  "codex_id": 1016260,
+  "title": "Ministerieel besluit van 2007-09-20 houdende de erkenning van de fokkersvereniging Belgian Quarter Horse Association VZW en tot wijziging van het ministerieel besluit van 25 oktober 2005 houdende de organisatie van de uitbouw van fokkerijstructuren in Vlaanderen",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1016260/VolledigDocument?datum=2007-10-28",
+  "source_sha256": "4a13cd00ef43945463b9c95a3e98d9eba723b45c35a53ecc1748cbde8f89165c",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1016260&param=informatie",
+  "as_of": "2007-10-28",
+  "made": "2007-09-20",
+  "gazette": "2007-10-18",
+  "numac": 2007036753,
+  "document_start": "2007-10-28",
+  "document_end": null,
+  "in_force": "2007-10-28",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2007-10-28; oldest version available; future article versions excluded; article text as the API gives it"
+}
