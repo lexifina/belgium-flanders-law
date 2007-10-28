@@ -1,0 +1,17 @@
+{
+  "codex_id": 1016259,
+  "title": "Ministerieel besluit van 2007-02-13 van 13 februari 2007 tot wijziging van het ministerieel besluit van 29 mei 2002 houdende vastlegging van de structuur van een gemeentelijk cultuurbeleidsplan, een beleidsplan van een bibliotheek en een beleidsplan van een cultuurcentrum",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1016259/VolledigDocument?datum=2007-10-28",
+  "source_sha256": "8f184459060aed421e3b006c2889e8ed58cec5f59d3cf7c0eadff6fcf501d526",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1016259&param=informatie",
+  "as_of": "2007-10-28",
+  "made": "2007-02-13",
+  "gazette": "2007-10-18",
+  "numac": 2007036755,
+  "document_start": "2007-10-28",
+  "document_end": null,
+  "in_force": "2007-10-28",
+  "article_versions": 5,
+  "record_form": "consolidated version as in force on 2007-10-28; oldest version available; future article versions excluded; article text as the API gives it"
+}
