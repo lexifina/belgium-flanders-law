@@ -62,6 +62,18 @@ In hetzelfde koninklijk besluit worden in artikel 6, § 7, eerste lid, de woorde
 
 ## HOOFDSTUK VI Vlaams Gemeentefonds
 
+### ART. 53.
+
+In het decreet van 5 juli 2002 tot vaststelling van de regels inzake de dotatie en de verdeling van het Vlaams Gemeentefonds, wordt een hoofdstuk Illbis, bestaande uit artikelen 19bis tot en met 19quinquies, ingevoegd, dat luidt als volgt :<br />« HOOFDSTUK Illbis. - Bijzondere bepalingen inzake de vaststelling en verdeling van de aanvullende dotatie ter compensatie van de afschaffing van de Eliataks<br /><br />« Artikel 19bis <br />§ 1. Vanaf het begrotingsjaar 2008 wordt op de begroting van het Vlaamse Gewest een aanvullende dotatie aan het Vlaams Gemeentefonds ingeschreven. De aanvullende dotatie bedraagt 83.000.000 euro in het jaar 2008 en wordt vanaf het begrotingsjaar 2009 jaarlijks aangepast aan de inflatie.<br /><br />§ 2. De berekende aanvullende dotatie wordt afgerond op het hogere duizendtal.<br /><br />« Artikel 19ter <br />§ 1. De aanvullende dotatie aan het Vlaams Gemeentefonds waarvan sprake in artikel 19bis, wordt onder de gemeenten van het Vlaamse Gewest verdeeld volgens dezelfde procentuele verhouding als de verdeling onder de gemeenten van het bedrag voor het jaar 2006 van de federale bijdrage tot compensatie van de inkomstenderving van de gemeenten ingevolge de liberalisering van de elektriciteitsmarkt, ingesteld door artikel 22bis van de wet van 29 april 1999 betreffende de organisatie van de elektriciteitsmarkt.<br /><br />§ 2. De Vlaamse Regering stelt de in § 1 van dit artikel bedoelde procentuele verhouding voor elke gemeente vast.<br /><br />« Artikel 19quater <br />De gemeentelijke aandelen in de aanvullende dotatie waarvan sprake in artikel 19bis en berekend overeenkomstig de bepalingen van artikel 19ter, worden voor het volledige bedrag aan de gemeenten betaald op het einde van de eerste maand van het tweede kwartaal.<br /><br />« Artikel 19quinquies <br />De bepalingen vermeld in de artikelen 6 tot en met 15 van dit decreet zijn niet van toepassing op de aanvullende dotatie, bedoeld in artikel 19bis van dit decreet. »<br /><br />
+
+### ART. 54.
+
+In artikel 22 van hetzelfde decreet worden de volgende wijzigingen aangebracht :<br />1° in § 4 wordt "31 oktober 2007" vervangen door "30 september 2008";<br />2° in § 5 wordt het jaartal "2008" vervangen door het jaartal "2009";<br />3° in § 6 wordt het jaartal "2007" vervangen door het jaartal "2008".<br /><br />
+
+### ART. 55.
+
+In artikel 22 van hetzelfde decreet wordt een § 6bis ingevoegd, die luidt als volgt :<br />« § 6bis. De in § 4 bepaalde limietdatum voor het indienen van verantwoordingsstukken voor het verkrijgen van geldvoorschotten of eindsaldi en de in §§ 5 en 6 vermelde termijnen met betrekking tot de eindafrekeningen, zijn niet van toepassing op de met trekkingsrechten gefinancierde investeringsprojecten waarvoor op 30 september 2007 gerechtelijke procedures lopen en die aan de Vlaamse overheid ter kennis worden gebracht voor 30 september 2008. » .<br /><br />
+
 ## HOOFDSTUK VII Ruimtelijk Structuurplan
 
 ## HOOFDSTUK VIII Afgeschreven goederen
