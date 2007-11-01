@@ -1,0 +1,17 @@
+{
+  "codex_id": 1016701,
+  "title": "Besluit van de Vlaamse Regering van 2008-02-15 tot vaststelling van de regels voor de erkenning en financiering door de Vlaamse Dienst voor Arbeidsbemiddeling en Beroepsopleiding van de gespecialiseerde trajectbepaling- en -begeleidingsdienst, de gespecialiseerde arbeidsonderzoeksdiensten en de gespecialiseerde opleidings-, begeleidings- en bemiddelingsdiensten",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1016701/VolledigDocument?datum=2007-11-01",
+  "source_sha256": "4e17cad7b820c64debff3dfaa07b368bdc75e6e4b473eda6753d1a8418f96886",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1016701&param=informatie",
+  "as_of": "2007-11-01",
+  "made": "2008-02-15",
+  "gazette": "2008-03-31",
+  "numac": 2008035441,
+  "document_start": "2007-11-01",
+  "document_end": null,
+  "in_force": "2007-11-01",
+  "article_versions": 22,
+  "record_form": "consolidated version as in force on 2007-11-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
