@@ -2,16 +2,16 @@
   "codex_id": 1015882,
   "title": "Besluit van de Vlaamse Regering van 2007-04-27 betreffende de kenmerken waartoe het onderzoek van bepaalde rassen van landbouw- en groentegewassen zich ten minste moet uitstrekken, en de minimumeisen voor dat onderzoek",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1015882/VolledigDocument?datum=2007-07-05",
-  "source_sha256": "a3a5be29fd9d8e8bb91597b794f27760d2134f89545a07b68f8ad5f1bbb96621",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1015882/VolledigDocument?datum=2007-11-01",
+  "source_sha256": "a7c2452ec720b70cc870da5a72ef318feabcbe79bae36ae064f7e6b20785cc13",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1015882&param=informatie",
-  "as_of": "2007-07-05",
+  "as_of": "2007-11-01",
   "made": "2007-04-27",
   "gazette": "2007-06-25",
   "numac": 2007035762,
   "document_start": "2007-07-05",
   "document_end": null,
-  "in_force": "2007-07-05",
+  "in_force": "2007-11-01",
   "article_versions": 10,
-  "record_form": "consolidated version as in force on 2007-07-05; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2007-11-01; future article versions excluded; article text as the API gives it"
 }
