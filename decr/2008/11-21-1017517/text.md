@@ -30,6 +30,10 @@
 
 ## Afdeling III Successierechten
 
+### ART. 24.
+
+§ 1. In artikel 60bis, § 3, van het Wetboek der Successierechten worden de woorden « Europese Unie » vervangen door de woorden « Europese Economische Ruimte ».<br /><br />§ 2. In artikel 60bis, § 5, vierde lid, van hetzelfde Wetboek worden tussen de woorden « de onderneming » en de woorden « in de twintig kwartalen » de woorden « of de vennootschap » ingevoegd.<br /><br />§ 3. In artikel 60bis, § 5, van hetzelfde Wetboek wordt het laatste lid vervangen door wat volgt :<br />« De in het eerste, tweede en zesde lid vermelde bedragen worden vermenigvuldigd met een coëfficiënt, die wordt verkregen door het gemiddelde van de gezondheidsindexcijfers van hetzij de drie kalenderjaren voorafgaand aan dat waarin het overlijden plaatsheeft, hetzij de vijf kalenderjaren te beginnen met het jaar waarin het overlijden plaatsheeft, te delen door het gezondheidsindexcijfer van de maand december 2007. Met het gezondheidsindexcijfer wordt bedoeld, het indexcijfer zoals bepaald in artikel 2 van het koninklijk besluit van 24 december 1993 ter uitvoering van de wet van 6 januari 1989 tot vrijwaring van 's lands concurrentievermogen, bekrachtigd bij de wet van 30 maart 1994 houdende sociale bepalingen. ».<br /><br />
+
 ## HOOFDSTUK IV Wonen
 
 ## Afdeling I Herstelvordering
