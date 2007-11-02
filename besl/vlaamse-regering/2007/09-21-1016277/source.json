@@ -1,0 +1,17 @@
+{
+  "codex_id": 1016277,
+  "title": "Besluit van de Vlaamse Regering van 2007-09-21 tot wijziging van het besluit van de Vlaamse Regering van 1 februari 2002 tot wijziging van het besluit van de Vlaamse Regering van 16 februari 1993 tot uitvoering van hoofdstuk IIIbis van de wet van 26 maart 1971 op de bescherming van de oppervlaktewateren tegen verontreiniging, tot wijziging van het besluit van de Vlaamse Regering van 22 maart 2002 tot wijziging van het besluit van de Vlaamse Regering van 16 februari 1993 tot uitvoering van hoofdstuk IIIbis van de wet van 26 maart 1971 op de bescherming van de oppervlaktewateren tegen verontreiniging, en tot wijziging van het Besluit van de Vlaamse Regering van 19 december 1998 tot uitvoering van het decreet van 14 juli 1998 betreffende de euro en houdende diverse wijzigingsbepalingen ingevolge de invoering van de euro",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1016277/VolledigDocument?datum=2007-11-02",
+  "source_sha256": "72ba328c73c03df971473a5386224e870c9e0e7bf231c06b9ef365b0e00325d4",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1016277&param=informatie",
+  "as_of": "2007-11-02",
+  "made": "2007-09-21",
+  "gazette": "2007-10-23",
+  "numac": 2007036814,
+  "document_start": "2007-11-02",
+  "document_end": null,
+  "in_force": "2007-11-02",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2007-11-02; oldest version available; future article versions excluded; article text as the API gives it"
+}
