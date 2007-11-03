@@ -1,0 +1,17 @@
+{
+  "codex_id": 1016279,
+  "title": "Ministerieel besluit van 2007-10-05 betreffende de tijdelijke overdracht van de instandhoudingsplicht van blijvend grasland zonder overdracht van gronden",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1016279/VolledigDocument?datum=2007-11-03",
+  "source_sha256": "4c79b3c3c5e3d54ea6d1489f3cb504758232c47f36e01f179429b08b60328217",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1016279&param=informatie",
+  "as_of": "2007-11-03",
+  "made": "2007-10-05",
+  "gazette": "2007-10-24",
+  "numac": 2007036795,
+  "document_start": "2007-11-03",
+  "document_end": "2014-12-31",
+  "in_force": "2007-11-03",
+  "article_versions": 8,
+  "record_form": "consolidated version as in force on 2007-11-03; oldest version available; future article versions excluded; article text as the API gives it"
+}
