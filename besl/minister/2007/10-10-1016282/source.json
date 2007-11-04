@@ -1,0 +1,17 @@
+{
+  "codex_id": 1016282,
+  "title": "Ministerieel besluit van 2007-10-10 betreffende toepassing van artikel 48 en 48ter van het decreet van 22 februari 1995 betreffende de bodemsanering - Site \"Guano te Zwijndrecht\"",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1016282/VolledigDocument?datum=2007-11-04",
+  "source_sha256": "a9c5481f473b4bbf2f43ba82e4996330c0418c32a89d735244468fed942fc738",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1016282&param=informatie",
+  "as_of": "2007-11-04",
+  "made": "2007-10-10",
+  "gazette": "2007-10-25",
+  "numac": 2007036861,
+  "document_start": "2007-11-04",
+  "document_end": null,
+  "in_force": "2007-11-04",
+  "article_versions": 7,
+  "record_form": "consolidated version as in force on 2007-11-04; oldest version available; future article versions excluded; article text as the API gives it"
+}
