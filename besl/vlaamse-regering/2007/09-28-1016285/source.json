@@ -1,0 +1,17 @@
+{
+  "codex_id": 1016285,
+  "title": "Besluit van de Vlaamse Regering van 2007-09-28 houdende klassering van een gracht op het grondgebied van de gemeente Bever tot onbevaarbare waterloop van derde categorie",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1016285/VolledigDocument?datum=2007-11-05",
+  "source_sha256": "3b9940d5524bda8ac183f18651a09c673fbf10d2949d35a3310e9618c28d310f",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1016285&param=informatie",
+  "as_of": "2007-11-05",
+  "made": "2007-09-28",
+  "gazette": "2007-10-26",
+  "numac": 2007036823,
+  "document_start": "2007-11-05",
+  "document_end": null,
+  "in_force": "2007-11-05",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2007-11-05; oldest version available; future article versions excluded; article text as the API gives it"
+}
