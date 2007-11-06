@@ -1,0 +1,17 @@
+{
+  "codex_id": 1016382,
+  "title": "Ministerieel besluit van 2007-11-06 tot vervanging van leden van de Sociaal-Economische Raad van Vlaanderen",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1016382/VolledigDocument?datum=2007-11-06",
+  "source_sha256": "e41016ec27d653c612caf3d0ccc126160e59624dd486feccba69d2ded3e2f57a",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1016382&param=informatie",
+  "as_of": "2007-11-06",
+  "made": "2007-11-06",
+  "gazette": "2007-12-03",
+  "numac": 2007037110,
+  "document_start": "2007-11-06",
+  "document_end": null,
+  "in_force": "2007-11-06",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2007-11-06; oldest version available; future article versions excluded; article text as the API gives it"
+}
