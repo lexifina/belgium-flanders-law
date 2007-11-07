@@ -1,0 +1,17 @@
+{
+  "codex_id": 1016310,
+  "title": "Besluit van de Vlaamse Regering van 2007-10-05 tot wijziging van het besluit van de Vlaamse Regering van 27 augustus 2004 betreffende de erkenning en subsidiëring van centra voor loopbaandienstverlening en tot wijziging van het besluit van de Vlaamse Regering van 23 september 2005 tot uitvoering van het decreet van 30 april 2004 betreffende het verwerven van een titel van beroepsbekwaamheid",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1016310/VolledigDocument?datum=2007-11-07",
+  "source_sha256": "3377488792a09dbc4afcaf1040dcce74d20dc29651dc6b2a1687d194671c9c9d",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1016310&param=informatie",
+  "as_of": "2007-11-07",
+  "made": "2007-10-05",
+  "gazette": "2007-11-07",
+  "numac": 2007036910,
+  "document_start": "2007-11-07",
+  "document_end": null,
+  "in_force": "2007-11-07",
+  "article_versions": 28,
+  "record_form": "consolidated version as in force on 2007-11-07; oldest version available; future article versions excluded; article text as the API gives it"
+}
