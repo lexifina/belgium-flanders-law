@@ -1,0 +1,17 @@
+{
+  "codex_id": 1016319,
+  "title": "Ministerieel besluit van 2007-10-24 houdende de uitbreiding van de Kerngroep Participatie",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1016319/VolledigDocument?datum=2007-11-08",
+  "source_sha256": "58c4e3592ff2258c7b4c6942e9cb0040509ad60f49d65dfc8f5498dc58c53dff",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1016319&param=informatie",
+  "as_of": "2007-11-08",
+  "made": "2007-10-24",
+  "gazette": "2007-11-08",
+  "numac": 2007036921,
+  "document_start": "2007-11-08",
+  "document_end": null,
+  "in_force": "2007-11-08",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2007-11-08; oldest version available; future article versions excluded; article text as the API gives it"
+}
