@@ -1,0 +1,17 @@
+{
+  "codex_id": 1016473,
+  "title": "Besluit van de Vlaamse Regering van 2007-11-23 tot derde aanpassing van de overgangsaccreditatie van sommige hogeschoolopleidingen",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1016473/VolledigDocument?datum=2007-11-09",
+  "source_sha256": "b8ddeaa6c7a7d590db66a761ae0c9c9525c883415e110e0750b5d87c1919aba6",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1016473&param=informatie",
+  "as_of": "2007-11-09",
+  "made": "2007-11-23",
+  "gazette": "2008-01-07",
+  "numac": 2007037289,
+  "document_start": "2007-11-09",
+  "document_end": "2016-12-31",
+  "in_force": "2007-11-09",
+  "article_versions": 5,
+  "record_form": "consolidated version as in force on 2007-11-09; oldest version available; future article versions excluded; article text as the API gives it"
+}
