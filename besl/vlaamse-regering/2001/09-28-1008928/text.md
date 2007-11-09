@@ -16,7 +16,7 @@ In dit besluit wordt verstaan onder:<br />1° decreet: het decreet van 30 maart 
 
 ### ART. 2bis.
 
-De niet in België gevestigde voorzieningen en professionele zorgverleners, die in een andere lidstaat van de Europese Gemeenschap of van de Europese Economische Ruimte gevestigd zijn, of in Zwitserland, worden gelijkgesteld met de voorzieningen en zorgverleners die door de Vlaamse Regering van rechtswege erkend zijn, voorzover ze in de lidstaat van vestiging hun activiteiten op rechtmatige wijze verrichten en voorzover ze een gelijkaardige dienstverlening aanbieden.  <span class="reference">(ing. B.V.R. 15 april 2005, art. 1, I: 1 oktober 2001)</span> ]
+§ 1. De in het tweetalige gebied Brussel-Hoofdstad gevestigde voorzieningen en professionele zorgverleners worden gelijkgesteld met de voorzieningen die door de Vlaamse Regering erkend zijn, voor zover ze hun activiteiten op rechtmatige wijze verrichten en een gelijkaardige hulp- en dienstverlening aanbieden als een voorziening zoals bedoeld in artikel 2, § 2, 2°, 3° en 4°.<br /><br />§ 2. De niet in België gevestigde voorzieningen en professionele zorgverleners, die in een andere lidstaat van de Europese Gemeenschap of van de Europese Economische Ruimte gevestigd zijn, of in Zwitserland, worden gelijkgesteld met de voorzieningen die door de Vlaamse Regering erkend zijn, voor zover ze in de lidstaat van vestiging hun activiteiten op rechtmatige wijze verrichten en een gelijkaardige hulp- en dienstverlening aanbieden als een voorziening zoals bedoeld in artikel 2, § 2, 2°, 3°, 4°.
 
 ### ART. 3.
 
