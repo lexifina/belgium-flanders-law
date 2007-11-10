@@ -1,0 +1,17 @@
+{
+  "codex_id": 1016295,
+  "title": "Decreet van 2007-10-19 houdende instemming met het Intern Akkoord tussen de vertegenwoordigers van de regeringen van de lidstaten, in het kader van de Raad bijeen, houdende wijziging van het Intern Akkoord van 18 september 2000 inzake maatregelen en procedures voor de uitvoering van de ACS-EG-Partnerschapsovereenkomst, ondertekend in Luxemburg op 10 april 2006",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1016295/VolledigDocument?datum=2007-11-10",
+  "source_sha256": "4c954f8de91dc19362fc801f7c22ce15cbd7762d6083011368f0cc2c647a1d5c",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1016295&param=informatie",
+  "as_of": "2007-11-10",
+  "made": "2007-10-19",
+  "gazette": "2007-10-31",
+  "numac": 2007036905,
+  "document_start": "2007-11-10",
+  "document_end": null,
+  "in_force": "2007-11-10",
+  "article_versions": 2,
+  "record_form": "consolidated version as in force on 2007-11-10; oldest version available; future article versions excluded; article text as the API gives it"
+}
