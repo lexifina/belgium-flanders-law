@@ -44,7 +44,7 @@ Kapitaal en aandelen
 
 ### ART. 5.
 
-Kapitaal en aandelen<br /><br />§ 1. Het maatschappelijk kapitaal is vastgesteld op vijfhonderd eenenzestig miljoen driehonderdduizend euro (EUR 561.300.000), verdeeld in vijfhonderd eenenzestigduizend driehonderd (561 300) aandelen zonder nominale waarde, die elk één vijfhonderd eenenzestigduizend driehonderdste (1/561.300) van het maatschappelijk kapitaal vertegenwoordigen.<br /><br />§ 2. Aan alle aandelen zijn dezelfde rechten en verplichtingen verbonden.<br /><br />§ 3. De aandelen zijn ondeelbaar ten opzichte van de vennootschap. <br />
+Kapitaal en aandelen.<br /><br />§ 1. Het maatschappelijk kapitaal is vastgesteld op achthonderd tweeëntwintig miljoen tweehonderdvijfendertig duizend Euro (822.235.000,00 EUR), verdeeld in achthonderdtweeëntwintig duizend tweehonderd vijfendertig (822.235) aandelen zonder nominale waarde, die elk één/achthonderdtweeëntwintigduizend tweehonderd vijfendertigste (1/822.235e) van het maatschappelijk kapitaal vertegenwoordigen.<br /><br />§ 2. Aan alle aandelen zijn dezelfde rechten en verplichtingen verbonden.<br /><br />§ 3. De aandelen zijn ondeelbaar ten opzichte van de vennootschap.<br />
 
 ### ART. 6.
 
