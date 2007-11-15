@@ -1,0 +1,17 @@
+{
+  "codex_id": 1016303,
+  "title": "Ministerieel besluit van 2007-10-08 met betrekking tot vastlegging van de modellicentie inzake hergebruik van overheidsinformatie",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1016303/VolledigDocument?datum=2007-11-15",
+  "source_sha256": "2fee9621e0fc8b23913d09eb97563ae30d998e49db05fc580f0723c0387ae724",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1016303&param=informatie",
+  "as_of": "2007-11-15",
+  "made": "2007-10-08",
+  "gazette": "2007-11-05",
+  "numac": 2007036773,
+  "document_start": "2007-11-15",
+  "document_end": "2016-11-28",
+  "in_force": "2007-11-15",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2007-11-15; oldest version available; future article versions excluded; article text as the API gives it"
+}
