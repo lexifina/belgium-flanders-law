@@ -1,0 +1,17 @@
+{
+  "codex_id": 1016366,
+  "title": "Besluit van de Vlaamse Regering van 2007-11-09 houdende de inwerkingtreding van artikel 2 van het decreet van 25 mei 2007 houdende de wijziging van sommige bepalingen van de decreten betreffende de radio-omroep en de televisie, gecoördineerd op 4 maart 2005, en van artikel 169, § 2, 7° en 8° van de decreten betreffende de radio-omroep en de televisie gecoördineerd op 4 maart 2005",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1016366/VolledigDocument?datum=2007-11-15",
+  "source_sha256": "d03fb00219aaccf5e272773d2f426ae70a6df4ca9c5e80e9ca870d9c3436cf70",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1016366&param=informatie",
+  "as_of": "2007-11-15",
+  "made": "2007-11-09",
+  "gazette": "2007-11-23",
+  "numac": 2007037066,
+  "document_start": "2007-11-15",
+  "document_end": null,
+  "in_force": "2007-11-15",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2007-11-15; oldest version available; future article versions excluded; article text as the API gives it"
+}
