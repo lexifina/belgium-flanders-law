@@ -2,16 +2,16 @@
   "codex_id": 1015905,
   "title": "Decreet van 2007-05-25 houdende de wijziging van sommige bepalingen van de decreten betreffende de radio-omroep en de telelevisie, gecoördineerd op 4 maart 2005",
   "type": "Decreet",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1015905/VolledigDocument?datum=2007-06-29",
-  "source_sha256": "e3af3dddec20abe854c91e414620d948a98ea395c2e672a5f8cdf95272f2a95e",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1015905/VolledigDocument?datum=2007-11-15",
+  "source_sha256": "39e9dc5e820f2fc3dec58469f840aee0b1d397502720676fed2ec2b7a451069e",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1015905&param=informatie",
-  "as_of": "2007-06-29",
+  "as_of": "2007-11-15",
   "made": "2007-05-25",
   "gazette": "2007-06-29",
   "numac": 2007035960,
   "document_start": "2007-06-29",
   "document_end": null,
-  "in_force": "2007-06-29",
-  "article_versions": 6,
-  "record_form": "consolidated version as in force on 2007-06-29; oldest version available; future article versions excluded; article text as the API gives it"
+  "in_force": "2007-11-15",
+  "article_versions": 7,
+  "record_form": "consolidated version as in force on 2007-11-15; future article versions excluded; article text as the API gives it"
 }
