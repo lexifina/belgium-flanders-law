@@ -144,6 +144,10 @@ Daartoe ontvangt de dienst van Kind en Gezin, volgens de modaliteiten die de min
 
 Onverminderd de controle, zoals bepaald bij de wetten op de Rijkscomptabiliteit, gecoördineerd op 17 juli 1991, inzonderheid artikel 55 tot 58, blijven alle uitbetaalde bedragen aanpasbaar zolang de bevoegde diensten van Kind en Gezin de afrekening voor het werkjaar in kwestie niet hebben goedgekeurd.<br /><br />Een vordering tot bijbetaling of tot terugbetaling verjaart na verloop van één jaar, te rekenen vanaf 1 januari, volgend op de betalingsdatum, tenzij de vordering schriftelijk binnen die termijn werd gevraagd.<br /><br />In afwijking van het tweede lid is de verjaringstermijn dertig jaar in geval van valse verklaringen of handelingen die de berekening en uitbetaling van de subsidies beïnvloed hebben.
 
+### ART. 25ter.
+
+Als een kinderdagverblijf in het kader van een tewerkstellingsprogramma dat specifiek gericht is op werken in de kinderopvang, voor het minimaal vereiste personeel, vermeld in artikel 7, 1°, 2° en 6°, een premie krijgt voor gesubsidieerde contractuelen, dan wordt de door Kind en Gezin verschuldigde subsidie, vermeld in artikel 12, verminderd met het bedrag van die premie. De minister bepaalt over welke tewerkstellingsprogramma's het gaat.
+
 ## AFDELING 3 BRUSSELSE KINDERDAGVERBLIJVEN
 
 ### ART. 26.
@@ -160,7 +164,7 @@ Onverminderd de controle, zoals bepaald bij de wetten op de Rijkscomptabiliteit,
 
 ### ART. 28.
 
-De subsidies die in dit besluit worden gedefinieerd, worden elk jaar op 1 januari verhoogd met de procentuele stijging van de index van de consumptieprijzen tussen 1 november van het vorige kalenderjaar en 1 november van het daaraan voorafgaande kalenderjaar.
+De subsidies die in dit besluit worden gedefinieerd, worden elk jaar op 1 januari verhoogd met de procentuele stijging van de gezondheidsindex tussen 1 november van het vorige kalenderjaar en 1 november van het daaraan voorafgaande kalenderjaar.
 
 ### ART. 28bis.
 
