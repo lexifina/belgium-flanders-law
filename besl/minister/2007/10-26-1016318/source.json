@@ -1,0 +1,17 @@
+{
+  "codex_id": 1016318,
+  "title": "Ministerieel besluit van 2007-10-26 betreffende het elektronisch berichtenverkeer in het kader van het Scheepvaartbegeleidingsdecreet",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1016318/VolledigDocument?datum=2007-11-18",
+  "source_sha256": "1c15eef437b1c7a9b8015048f14be1970acb430f038998f3753a26964f51d716",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1016318&param=informatie",
+  "as_of": "2007-11-18",
+  "made": "2007-10-26",
+  "gazette": "2007-11-08",
+  "numac": 2007036931,
+  "document_start": "2007-11-18",
+  "document_end": "2011-08-07",
+  "in_force": "2007-11-18",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2007-11-18; oldest version available; future article versions excluded; article text as the API gives it"
+}
