@@ -1,0 +1,17 @@
+{
+  "codex_id": 1016317,
+  "title": "Ministerieel besluit van 2007-10-26 betreffende de bevoegde diensten in het kader van de begeleiding van de scheepvaart en het MRCC en bepalingen over de bevoegdheden van bepaalde personeelsleden",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1016317/VolledigDocument?datum=2007-11-18",
+  "source_sha256": "58305ef226085aa89bbdb8faa632294bc0474cee09a95fe6ea86262264df6ab1",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1016317&param=informatie",
+  "as_of": "2007-11-18",
+  "made": "2007-10-26",
+  "gazette": "2007-11-08",
+  "numac": 2007036930,
+  "document_start": "2007-11-18",
+  "document_end": null,
+  "in_force": "2007-11-18",
+  "article_versions": 13,
+  "record_form": "consolidated version as in force on 2007-11-18; oldest version available; future article versions excluded; article text as the API gives it"
+}
