@@ -1,0 +1,17 @@
+{
+  "codex_id": 1016326,
+  "title": "Omzendbrief van 2007-10-02 Omzendbrief nr. 43bis. - Afschaffing informatiefiche",
+  "type": "Omzendbrief",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1016326/VolledigDocument?datum=2007-11-19",
+  "source_sha256": "1f1ceb84e9b1a62bab8ba9a763dff9c7c2f4dde8ae36addacd226d4716ebb470",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1016326&param=informatie",
+  "as_of": "2007-11-19",
+  "made": "2007-10-02",
+  "gazette": "2007-11-09",
+  "numac": 2007036924,
+  "document_start": "2007-11-19",
+  "document_end": null,
+  "in_force": "2007-11-19",
+  "article_versions": 1,
+  "record_form": "consolidated version as in force on 2007-11-19; oldest version available; future article versions excluded; article text as the API gives it"
+}
