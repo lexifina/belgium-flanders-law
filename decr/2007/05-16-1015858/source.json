@@ -1,0 +1,17 @@
+{
+  "codex_id": 1015858,
+  "title": "Decreet van 2007-05-16 tot oprichting van de strategische adviesraad internationaal Vlaanderen",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1015858/VolledigDocument?datum=2007-11-19",
+  "source_sha256": "0a4adf787cb86fd2fe54b1efde0626932967d729e4f9912f8a4826e730b8e7c2",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1015858&param=informatie",
+  "as_of": "2007-11-19",
+  "made": "2007-05-16",
+  "gazette": "2007-06-19",
+  "numac": 2007035796,
+  "document_start": "2007-11-19",
+  "document_end": "2015-06-30",
+  "in_force": "2007-11-19",
+  "article_versions": 10,
+  "record_form": "consolidated version as in force on 2007-11-19; oldest version available; future article versions excluded; article text as the API gives it"
+}
