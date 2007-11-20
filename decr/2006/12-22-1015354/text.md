@@ -34,6 +34,10 @@ Aan artikel 15, § 1, van hetzelfde decreet wordt een tweede lid toegevoegd, dat
 
 ## HOOFDSTUK III Wijzigingsbepalingen met betrekking tot het kaderdecreet Bestuurlijk Beleid
 
+### ART. 22.
+
+In artikel 21, § 1, van het kaderdecreet Bestuurlijk Beleid van 18 juli 2003 wordt punt 2° vervangen door wat volgt :<br />"2° het ambt van minister of staatssecretaris en de hoedanigheid van kabinetslid van de minister onder wiens toezicht het publiekrechtelijk vormgegeven extern verzelfstandigd agentschap valt;".
+
 ## HOOFDSTUK IV Slotbepalingen
 
 ### ART. 23.
