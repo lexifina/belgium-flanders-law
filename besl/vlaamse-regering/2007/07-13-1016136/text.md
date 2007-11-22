@@ -157,10 +157,10 @@ De vermelde bedragen worden gevoegd bij het overeenkomstig krediet voor het begr
 		</tr>
 		<tr>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:12pt; width:91.8pt">
-			<p>55.4</p>
+			<p>35.4</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:12pt; width:91.8pt">
-			<p>41.23</p>
+			<p>41.22</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:12pt; width:91.8pt">
 			<p>6</p>
