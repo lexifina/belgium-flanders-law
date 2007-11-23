@@ -1,0 +1,17 @@
+{
+  "codex_id": 1016331,
+  "title": "Besluit van de Vlaamse Regering van 2007-09-28 houdende klassering van een gracht en herklassering van twee delen van onbevaarbare waterlopen van derde categorie te Wachtebeke tot onbevaarbare waterloop van tweede categorie",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1016331/VolledigDocument?datum=2007-11-23",
+  "source_sha256": "dd76bac31cb0046e1521144972c10dc37c9b4cac1c6871d124397c7466461932",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1016331&param=informatie",
+  "as_of": "2007-11-23",
+  "made": "2007-09-28",
+  "gazette": "2007-11-13",
+  "numac": 2007036972,
+  "document_start": "2007-11-23",
+  "document_end": null,
+  "in_force": "2007-11-23",
+  "article_versions": 7,
+  "record_form": "consolidated version as in force on 2007-11-23; oldest version available; future article versions excluded; article text as the API gives it"
+}
