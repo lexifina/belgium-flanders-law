@@ -2,16 +2,16 @@
   "codex_id": 1012046,
   "title": "Besluit van de Vlaamse Regering van 2003-12-19 tot vaststelling van de nadere voorwaarden en regels volgens welke subsidies worden verleend voor permanente vorming en opleiding voor werkenden en bedrijven, luik \"Hefboomkrediet - Opleidingen",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1012046/VolledigDocument?datum=2006-06-01",
-  "source_sha256": "58b2a258d2f0cd7a9c4a71ec70593fceaca9999dcf40ecb1407a321c2ebed407",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1012046/VolledigDocument?datum=2007-11-23",
+  "source_sha256": "448b181756385e82d0e51062c7bc20cc98c7d083935b3e214fcba912f00d212e",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1012046&param=informatie",
-  "as_of": "2006-06-01",
+  "as_of": "2007-11-23",
   "made": "2003-12-19",
   "gazette": "2004-02-09",
   "numac": 2004035160,
   "document_start": null,
   "document_end": "2007-11-22",
-  "in_force": "2006-06-01",
+  "in_force": "2007-11-23",
   "article_versions": 16,
-  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2007-11-23; future article versions excluded; article text as the API gives it"
 }

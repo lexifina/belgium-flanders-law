@@ -4,72 +4,72 @@
 
 ### ART. 1.
 
-Voor de toepassing van dit besluit wordt verstaan onder:<br /><br />1° de minister: de Vlaamse minister bevoegd voor de Beroepsomscholing en -bijscholing;<br /><br />2° de administratie: de v.z.w; ESF-agentschap;<br /><br />3° kansengroepen: laaggeschoolden, vijfenveertig-plussers, arbeidsgehandicapten, allochtonen.<br /><br />Laaggeschoolden zijn personen met minder dan een diploma hoger secundair onderwijs.<br /><br />Arbeidsgehandicapten zijn personen met een aantasting van hun mentale, psychische, lichamelijke of zintuiglijke mogelijkheden voor wie het uitzicht op het verwerven en behouden van een arbeidsplaats en op vooruitgang op die plaats, langdurig en in belangrijke mate beperkt is of bedreigd wordt; dat kan blijken uit het feit dat zij een VFSIPH-nummer hebben, ten hoogste een diploma BUSO bezitten, bij de VDAB ingeschreven staan als beperkt of zeer beperkt arbeidsgeschikt.<br /><br />Allochtonen zijn personen afkomstig van buiten de Europese Unie;<br /><br />4° sectorale opleidingsinstellingen : paritair beheerde sectorale opleidingsinstellingen en fondsen voor be-staanszekerheid;<br /><br />5° de SERV: de Sociaal-Economische Raad van Vlaanderen;<br /><br />6° ICT: informatie- en communicatietechnologie;<br /><br />7° ESF: Europees Sociaal Fonds.
+...
 
 ## HOOFDSTUK II ORGANISATIE
 
 ### ART. 2.
 
-De administratie stelt de diensten, uitrusting, installaties en personeelsleden ter beschikking, die noodzakelijk zijn om een efficiënte uitvoering van dit besluit te verzekeren.
+...
 
 ### ART. 3.
 
-De minister stelt een strategische werkgroep samen, bestaande uit:<br /><br />1° een vertegenwoordiger van het secretariaat van de SERV, die de werkgroep voorzit;<br /><br />2° zes vertegenwoordigers van de Vlaamse sociale partners, voorgedragen door de SERV;<br /><br />3° een vertegenwoordiger voorgedragen door de administratie;<br /><br />4° een vertegenwoordiger voorgedragen door de administratie Werkgelegenheid van het departement Economie, Binnenlandse Aangelegenheden en Landbouw;<br /><br />5° een vertegenwoordiger van de minister;<br /><br />6° een vertegenwoordiger voorgedragen door de minister bevoegd voor het Onderwijs;<br /><br />7° een vertegenwoordiger voorgedragen door de minister bevoegd voor het Economisch Beleid.<br /><br />De voordragende instanties dragen tezelfdertijd een plaatsvervangend lid voor dat dezelfde rechten uitoefent als het lid dat hij/zij vervangt.<br /><br />De strategische werkgroep heeft als opdracht:<br /><br />1° bindende adviezen te verstrekken over de aanvragen die ingediend worden in het kader van dit besluit. De adviezen worden genomen met een drie vierde meerderheid. Het advies is evenwel negatief indien de vertegenwoordigers van de ministers met unanimiteit een negatieve stem uitbrengen;<br /><br />2° het jaarlijks evalueren van de toepassing van dit besluit en het onderzoeken van mogelijke wijzigingen of vernieuwingen ervan.<br /><br />De SERV staat in voor:<br /><br />1° het secretariaat van de strategische werkgroep;<br /><br />2° het opmaken van de in artikel 10, derde lid bedoelde adviezen;<br /><br />3° het opmaken van een verslag aan de administratie van de adviezen van de strategische werkgroep, dit voor elke indieningsronde en uiterlijk dertig dagen nadat de strategische werkgroep een advies heeft uitgebracht over alle ontvankelijke aanvragen.
+...
 
 ## HOOFDSTUK III SUBSIDIES INZAKE OPLEIDINGEN
 
 ### ART. 4.
 
-Binnen de perken van de beschikbare begrotingskredieten, bestemd voor de toekenning van subsi-dies aan opleidingsprojecten, kunnen subsidies worden toegekend aan projecten die voldoen aan de in dit hoofdstuk gestelde voorwaarden.
+...
 
 ### ART. 5.
 
-Volgende personen kunnen geen aanvraag indienen:<br /><br />1° natuurlijke personen;<br /><br />2° personen die opleidingsverstrekker zijn, behoudens de sectorale opleidingsinstellingen;<br /><br />3° organisaties die door een beheersovereenkomst verbonden zijn met een overheid en/of een dotatie ontvangen.<br /><br />Kunnen daartegen wel aanvragen indienen:<br /><br />1° Vlaamse sociale partners;<br /><br />2° beroepsverenigingen.
+...
 
 ### ART. 6.
 
-De aanvragers kunnen een subsidie krijgen voor opleidingsprojecten, in de mate dat:<br /><br />1° de projecten gericht zijn op de behoeften van:<br /><br />a) de werknemers die:<br /><br />1) vallen onder de wetgeving op de arbeidsovereenkomsten of onder een soortgelijk wettelijk of reglementair statuut en;<br /><br />2) tewerkgesteld zijn in bedrijven, filialen, instellingen of organisaties, die in het Vlaams Gewest gevestigd zijn en die vallen onder de privé-sector of genieten van een vermindering van patronale bijdragen overeenkomstig het koninklijk besluit van 5 februari 1997 houdende maatregelen met het oog op de bevordering van de tewerkstelling in de non-profit-sector;<br /><br />b) de personen die een zelfstandig beroep uitoefenen in het Vlaamse Gewest;<br /><br />2° de projecten gericht zijn op de aanpassing van de in punt 1° bedoelde personen aan de snelle ontwikkelingen en veranderingsprocessen in het bedrijfsleven en/of de maatschappij;<br /><br />3° de projecten betrekking hebben op algemene opleidingen zoals gedefinieerd in de Verordening (EG) nr. 68/2001 van de Commissie van 12 januari 2001 betreffende de toepassing van de artikelen 87 en 88 van het EG-verdrag op opleidingssteun;<br /><br />4° de projecten betrekking hebben op minstens tien deelnemers;<br /><br />5° de projecten voorzien in een vorming van minimaal 6 uur per deelnemer;<br /><br />6° de aanvragers bereid zijn om de resultaten aan een breder publiek dan de direct betrokkenen bij de aanvragers te verspreiden.
+...
 
 ### ART. 7.
 
-§ 1. De aanvragers dienen een gestandaardiseerd aanvraagformulier, zoals opgesteld door de administratie, in bij de administratie.<br /><br />Dit aanvraagformulier bevat volgende gegevens:<br /><br />1° de behoeften aan opleiding en de kwalificatietekorten waarop de opleiding inspeelt;<br /><br />2° de deelnemers;<br /><br />3° het inhoudelijk programma, met een aanduiding van het algemene of specifieke karakter van de opleiding;<br /><br />4° het tijdpad van het project en, in voorkomend geval, de verschillende fasen;<br /><br />5° de opleidingsmethode;<br /><br />6° het beoogde resultaat.<br /><br />§ 2. Indien het project ingediend wordt door één of meerdere bedrijven wordt het project, alvorens de aanvraag ingediend wordt, ter goedkeuring voorgelegd aan de betrokken ondernemingsraad of -raden of, bij ontstentenis hiervan, aan de betrokken syndicale afvaardigingen. Bij gebrek aan een ondernemingsraad of een syndicale afvaardiging legt de aanvrager het project ter goedkeuring voor aan [de bevoegde Sociaal-Economische Raden van de Regio.  <span class="reference">(verv. B.V.R. 10 juni 2005, art. 14, I: 15 juli 2005)</span> ]
+...
 
 ### ART. 8.
 
-§ 1. De minister bepaalt de periode van de indieningsrondes en het daaraan gekoppelde gedeelte van de in artikel 4 bedoelde kredieten.<br /><br />§ 2. De vereisten waaraan een aanvraag voldoet, bepaald in de artikelen 5, 6, 1° en 4° tot en met 6°, en 7 zijn ontvankelijkheidscriteria.<br /><br />De dossiers die ontvankelijk worden verklaard en waarvoor een positief advies van de strategische werkgroep werd gegeven worden gerangschikt volgens een quotering waarbij cumulatief volgende bonuspunten worden toegekend (maximaal aantal punten: 16):<br /><br />a) projecten waarbij dertig procent van de deelnemers behoort tot kansengroepen (twee punten) of projecten waarbij vijftig procent van de deelnemers behoort tot kansengroepen (vier punten);<br /><br />b) projecten die passen binnen een diversiteitsbeleid dat door de onderneming wordt gevoerd (twee punten);<br /><br />c) projecten die een opleiding Nederlands op de werkvloer bevatten (twee punten);<br /><br />d) projecten die gericht zijn op het verwerven van basiscompetenties inzake leren lezen en/of schrijven en/of rekenen of op het verwerven van ICT-basisvaardigheden (twee punten);<br /><br />e) projecten die gericht zijn op ICT-professionele of ICT-functionele vaardigheden (een punt);<br /><br />f) projecten ingediend door of voor een bedrijf dat erkend is als bedrijf in moeilijkheden of herstructurering (twee punten);<br /><br />g) projecten die tot doel hebben tegemoet te komen aan knelpuntvacatures op de arbeidsmarkt, m.n. projecten waarbij men door middel van een langdurig opleidingstraject (minimum honderd uren) laaggeschoolden bijschoolt of hooggeschoolden omschoolt naar een ander beroep (een punt);<br /><br />h) projecten die gericht zijn op een strategische opleidingsplanning die een volwaardig onderdeel vormt van het personeels- en ondernemingsbeleid (een punt);<br /><br />i) projecten waarbij cursisten een algemeen erkend certificaat krijgen (een punt);<br /><br />j) projecten waarbij deelnemers van minstens één bedrijf met minder dan vijftig werknemers betrokken zijn (een punt);<br /><br />k) projecten waarbij er een partnerschap is tussen minimaal 5 bedrijven (een punt)<br /><br />Voor de beoordeling van de knelpuntvacatures wordt de laatst beschikbare lijst van de knelpuntberoepen van de Vlaamse Dienst voor Arbeidsbemiddeling en Beroepsopleiding en/of van [de Sociaal-Economische Raad van de Regio in kwestie  <span class="reference">(verv. B.V.R. 10 juni 2005, art. 14, I: 15 juli 2005)</span> ] genomen die geldt op de datum van het afsluiten van de betreffende indieningsronde.<br /><br />Er kunnen geen punten krachtens de bepalingen van het tweede lid, b) en c), tegelijk worden toegekend.
+...
 
 ### ART. 9.
 
-De subsidie bedraagt maximaal 500.000 EUR per aanvrager, inclusief de eventuele subsidiëring verkregen vanuit het ESF, zelfs in die gevallen waarbij deze in de loop van dezelfde indieningsronde meerdere aanvragen in het kader van deze afdeling indient.<br /><br />Enkel de eerste vierentwintig maanden, volgend op de dag van het opstarten van een project, zijn subsidiabel. De kosten van een project zijn enkel subsidiabel voor de periode na het bericht van goedkeuring én vanaf de opgegeven startdatum.<br /><br />Op schriftelijk verzoek van de aanvrager kan de strategische werkgroep beslissen om de subsidiabele periode te verlengen met maximaal zes maanden. Het gemotiveerd verzoek wordt, op straffe van onontvankelijkheid, bij de administratie ingediend uiterlijk twee maanden voor het verstrijken van de termijn van vierentwintig maanden.
+...
 
 ## HOOFDSTUK IV ALGEMENE BEPALINGEN
 
 ### ART. 10.
 
-De administratie onderzoekt de overeenkomstig dit besluit ingediende aanvragen binnen maximaal dertig kalenderdagen, volgend op de uiterste indieningsdatum, op haar ontvankelijkheid.<br /><br />Indien de aanvraag ontvankelijk is, stuurt zij het dossier onmiddellijk door naar de SERV en onderzoekt zij vervolgens de inhoudelijke en financiële conformiteit volgens de criteria van deze afdeling binnen maximaal zestig kalenderdagen, volgend op de uiterste indieningsdatum, en stuurt binnen dezelfde termijn haar conformiteitsadvies, alsmede een verslag over de niet-ontvankelijk ingediende dossiers, door naar de SERV.<br /><br />De SERV onderzoekt binnen maximaal zeventig kalenderdagen, volgend op de uiterste indieningsdatum van de aanvraag, de inhoudelijke conformiteit volgens de criteria van dit besluit, en stuurt binnen deze termijn de ontvankelijke aanvragen met haar gemotiveerd advies door naar de strategische werkgroep. In de mate dat dit advies afwijkt van het advies van de administratie vermeldt het tevens de motieven hiertoe.<br /><br />Binnen maximaal dertig kalenderdagen na ontvangst van de in het vorige lid vermelde documenten geeft de strategische werkgroep een advies, maakt zij de gemotiveerde rangschikking van de weerhouden projecten op en stuurt zij de aanvragen, de adviezen, haar advies en de rangschikking door naar de administratie die deze beslissing bekrachtigt.
+...
 
 ### ART. 11.
 
-De betoelaagbare basis omvat alle kosten die toegelaten zijn door de Verordening (EG) nr. 68/2001 van de Commissie van 12 januari 2001 betreffende de toepassing van de artikelen 87 en 88 van het EG-verdrag op opleidingssteun en de regelgeving inzake het ESF, in voorkomend geval verminderd met het betaald educatief verlof.<br /><br />De loonkosten van de deelnemers worden tot een bedrag van maximaal vijftig procent van de totale kostprijs opgenomen in de betoelaagbare basis, doch zij komen niet in aanmerking voor subsidiëring.<br /><br />Voor projecten ingediend door promotoren waarop de Verordening (EG) nr. 68/2001 van de Commissie van 12 januari 2001 betreffende de toepassing van de artikelen 87 en 88 van het EG-verdrag inzake opleidingssteun van toepassing is bevat de privaatrechtelijke inbreng minimaal het percentage, berekend t.o.v. de totale projectkosten, dat van toepassing is in de Verordening (EG) nr. 68/2001 van de Commissie van 12 januari 2001 betreffende de toepassing van de artikelen 87 en 88 van het EG-verdrag op opleidingssteun.<br /><br />Voorzover een sectorale opleidingsinstelling een aanvraag indient, financieren deze aanvragers bovenop het in het vorig lid vermelde bedrag minimaal twintig procent van de projectkosten.<br /><br />Op het resterende bedrag van de betoelaagbare basis kunnen Vlaamse en ESF-subsidies worden toegestaan, voorzover deze de in de Verordening (EG) nr. 68/2001 van de Commissie van 12 januari 2001 betreffende de toepassing van de artikelen 87 en 88 van het EG-verdrag op opleidingssteun vermelde percentages inzake publieke cofinanciering niet overschrijden en deze beantwoorden aan de regelgeving inzake het ESF.<br /><br />In de mate dat het budget ontoereikend is om de projecten met een gelijk aantal bonuspunten te subsidiëren, kan het resterende budget pondspondsgewijs verdeeld worden onder deze aanvragers.
+...
 
 ### ART. 12.
 
-De aanvrager dient halfjaarlijks en uiterlijk twee maanden na het verstrijken van de subsidiabele uitvoeringstermijn van het project bij de administratie een rapport in dat onder meer een inhoudelijke en budgettaire beschrijving van de uitvoering van het project, de projectresultaten en de op het project betrekking hebbende uitgaven omvat, waardoor hij uitbetaling kan krijgen van de subsidie binnen de in het subsidiebesluit opgenomen maximaal bepaalde grenzen.
+...
 
 ### ART. 13.
 
-§ 1. De administratie kan overgaan tot een reductie van de toegekende projectsubsidie als de, bij de aanvraag toegekende, bonuspunten tijdens de uitvoering van het project niet werden gerealiseerd. Indien twee of meer bonuspunten niet gerealiseerd werden wordt de projectsubsidie verhoudingsgewijs niet uitbetaald of teruggevorderd.<br /><br />§ 2. De administratie kan de aan de aanvrager toegekende projectsubsidie opschorten of terugvorderen in de volgende gevallen:<br /><br />1° als de aanvrager de voorwaarden zoals bepaald in artikel 6 waaronder de subsidie werd toegekend niet naleeft;<br /><br />2° als de aanvrager de subsidie niet aanwendt voor de doeleinden zoals bepaald in artikel 6, 2° en 3°, en artikel 7, § 1, waarvoor ze werd verleend;<br /><br />3° als de aanvrager de in artikel 14 bepaalde controle verhindert.
+...
 
 ## HOOFDSTUK V SLOT- EN OPHEFFINGSBEPALINGEN
 
 ### ART. 14.
 
-De personeelsleden van de afdeling Inspectie Werkgelegenheid van het Ministerie van de Vlaamse Gemeenschap zijn gerechtigd om ter plaatse controle uit te oefenen op de aanwending van de toegekende gelden overeenkomstig artikel 56 van de wetten op de rijkscomptabiliteit, gecoördineerd op 17 juli 1991.
+...
 
 ### ART. 15.
 
-(niet opgenomen)<br /><br />(Heft het besluit van de Vlaamse regering van 27 september 2002 tot vaststelling van de nadere voorwaarden en regels volgens welke subsidies worden verleend voor permanente vorming en opleiding voor werkenden en bedrijven, luik "Hefboomkrediet - opleidingen" op)
+...
 
 ### ART. 16.
 
-De Vlaamse minister, bevoegd voor de Beroepsomscholing en -bijscholing, is belast met de uitvoering van dit besluit.
+...
