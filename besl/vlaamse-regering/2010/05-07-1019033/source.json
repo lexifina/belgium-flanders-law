@@ -1,0 +1,17 @@
+{
+  "codex_id": 1019033,
+  "title": "Besluit van de Vlaamse Regering van 2010-05-07 houdende vaststelling van de maximale rentabiliteitsoppervlakten, vermeld in de pachtwetgeving",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1019033/VolledigDocument?datum=2007-11-25",
+  "source_sha256": "67559677f5e121053e63c23f7a5083545f939a53ce352cedafbfc71ce60e1e67",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1019033&param=informatie",
+  "as_of": "2007-11-25",
+  "made": "2010-05-07",
+  "gazette": "2010-05-28",
+  "numac": 2010202907,
+  "document_start": "2007-11-25",
+  "document_end": null,
+  "in_force": "2007-11-25",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2007-11-25; oldest version available; future article versions excluded; article text as the API gives it"
+}
