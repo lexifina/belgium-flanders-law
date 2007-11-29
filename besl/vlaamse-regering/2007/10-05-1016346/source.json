@@ -1,0 +1,17 @@
+{
+  "codex_id": 1016346,
+  "title": "Besluit van de Vlaamse Regering van 2007-10-05 tot regeling van de werking van het Rubiconfonds",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1016346/VolledigDocument?datum=2007-11-29",
+  "source_sha256": "0825ad7d33a46f09a0688eef6a5025df3baacf065cce1a950b0d062dbc000e07",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1016346&param=informatie",
+  "as_of": "2007-11-29",
+  "made": "2007-10-05",
+  "gazette": "2007-11-19",
+  "numac": 2007036996,
+  "document_start": "2007-11-29",
+  "document_end": "2022-12-31",
+  "in_force": "2007-11-29",
+  "article_versions": 6,
+  "record_form": "consolidated version as in force on 2007-11-29; oldest version available; future article versions excluded; article text as the API gives it"
+}
