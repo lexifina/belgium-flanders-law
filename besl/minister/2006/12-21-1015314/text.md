@@ -14,6 +14,10 @@ Voor de toepassing van dit besluit wordt verstaan onder :<br />1° vissersvaartu
 
 ## HOOFDSTUK II Algemene bepalingen en visverboden
 
+### ART. 2.
+
+De secretaris-generaal van het departement waaronder de dienst ressorteert, deelt, per mededeling in het Belgisch Staatsblad, de feitelijke vaststelling van het bereiken van het communautair bepaalde vangstquotum voor bepaalde vissoorten in bepaalde i.c.e.s.-gebieden mee. Het gevolg van die vaststelling is de sluiting van het betrokken visgebied voor vangstactiviteiten op de betrokken vissoort, waardoor voor alle vissersvaartuigen de visserij op de betrokken vissoorten in de wateren van de betrokken i.c.e.s.-gebieden verboden is, alsmede het aan boord houden, het overladen en het lossen van de betrokken vissoorten die zijn gevangen in die wateren.
+
 ### ART. 2bis.
 
 De hoeveelheid vis van die soorten waarvoor aanvullende vangstbeperkingen worden vastgelegd en aan een vissersvaartuig worden toegewezen, zijn niet overdraagbaar naar een ander vissersvaartuig.<br /><br />
