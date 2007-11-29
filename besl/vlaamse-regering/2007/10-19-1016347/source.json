@@ -1,0 +1,17 @@
+{
+  "codex_id": 1016347,
+  "title": "Besluit van de Vlaamse Regering van 2007-10-19 tot wijziging van het besluit van de Vlaamse Regering van 14 juli 2004 tot het vaststellen van een onderhoudspremie voor beschermde monumenten en stads- en dorpsgezichten en tot vaststelling van een overgangsbepaling",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1016347/VolledigDocument?datum=2007-11-29",
+  "source_sha256": "a0b4a1c0eaf0df77dcafd4f3212223a10b1a5c6bd20456df46525ef79a085967",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1016347&param=informatie",
+  "as_of": "2007-11-29",
+  "made": "2007-10-19",
+  "gazette": "2007-11-19",
+  "numac": 2007036984,
+  "document_start": "2007-11-29",
+  "document_end": null,
+  "in_force": "2007-11-29",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2007-11-29; oldest version available; future article versions excluded; article text as the API gives it"
+}
