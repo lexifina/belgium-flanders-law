@@ -6,32 +6,32 @@ De Vlaamse Regering,<br /><br />Gelet op het decreet van 2 april 2004 tot vermin
 
 ### ART. 1.
 
-Voor de toepassing van dit besluit wordt verstaan onder :<br />1° de minister : de Vlaamse minister, bevoegd voor de bijstand aan personen en het gezondheidsbeleid;<br />2° de administratie : de afdeling Vlaams Infrastructuurfonds voor Persoonsgebonden Aangelegenheden van het Departement Welzijn, Volksgezondheid en Gezin;<br />3° persoonsgebonden aangelegenheden : de persoonsgebonden aangelegenheden, vermeld in artikel 5 van de bijzondere wet van 8 augustus 1980 tot hervorming der instellingen, voor zover die aangelegenheden vallen onder het beleidsdomein Welzijn, Volksgezondheid en Gezin, vermeld in artikel 2 van het besluit van de Vlaamse Regering van 3 juni 2005 met betrekking tot de organisatie van de Vlaamse administratie.<br /><br />
+...
 
 ### ART. 2.
 
-Binnen de middelen die hiervoor in de begroting zijn ingeschreven, kan de minister financiële steun toekennen voor de installatie van een energieboekhouding in de voorzieningen die zich bevinden in het Vlaamse Gewest en die erkend zijn voor het verstrekken van zorg en dienstverlening in het kader van de persoonsgebonden aangelegenheden.<br /><br />
+...
 
 ### ART. 3.
 
-Er wordt een vergoeding van 500 euro toegekend aan de distributienetbeheerders per installatie van een energieboekhouding in de voorzieningen. De vergoeding geldt voor het opstarten en de voortgangscontrole van de energieboekhoudingen.<br /><br />
+...
 
 ### ART. 4.
 
-De voorzieningen kunnen tijdens de periode van 1 januari 2006 tot en met 30 september 2006 een aanvraag indienen bij hun distributienetbeheerder voor de installatie van een energieboekhouding.<br /><br />De installatie van een energieboekhouding is vergoedbaar voor zover het gaat om een energieboekhouding voor een gebouw met meer dan 1.000 m2 gezamenlijke bruikbare vloeroppervlakte op een gebouwsite.<br /><br />De aanvraag van de voorziening en de verklaring op erewoord van de distributienetbeheerder dienen als basis voor de beslissing tot toekenning en uitbetaling van de vergoeding aan de distributienetbeheerder.<br /><br />De vergoeding wordt toegekend aan de distributienetbeheerders onder voorwaarde dat zij een overeenkomst ondertekenen en naleven waarin ze zich akkoord verklaren om samen te werken met de administratie en om te zorgen voor het opstarten en de voortgangscontrole van de energieboekhoudingen.<br /><br />
+...
 
 ### ART. 5.
 
-De bevoegde ambtenaren van de administratie of van het Rekenhof kunnen steeds ter plaatse een controle uitvoeren op de aanwending van de toegekende vergoedingen.<br /><br />
+...
 
 ### ART. 6.
 
-De distributienetbeheerders die een vergoeding ontvangen, zullen het bedrag of een gedeelte ervan terugbetalen als het niet is gebruikt in overeenstemming met de bepalingen van dit besluit, als het toegekende bedrag werd aangewend voor andere doeleinden dan waartoe het werd verleend of als de geïnstalleerde boekhouding niet naar behoren functioneert.<br /><br />
+...
 
 ### ART. 7.
 
-Dit besluit heeft uitwerking met ingang van 1 januari 2006 en houdt op van kracht te zijn op 30 november 2007.<br /><br />
+...
 
 ### ART. 8.
 
-De Vlaamse minister van Welzijn, Volksgezondheid en Gezin is belast met de uitvoering van dit besluit.<br />
+...
