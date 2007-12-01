@@ -1,0 +1,17 @@
+{
+  "codex_id": 1016705,
+  "title": "Besluit van de Vlaamse Regering van 2008-02-01 houdende de vervanging van leden van de raad van bestuur van het Vlaams Agentschap voor Ondernemersvorming - SYNTRA Vlaanderen",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1016705/VolledigDocument?datum=2007-12-01",
+  "source_sha256": "3288e57fcd72a878ec7b4447fcef5bdbe665e4c202fe122b92b749197a19598f",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1016705&param=informatie",
+  "as_of": "2007-12-01",
+  "made": "2008-02-01",
+  "gazette": "2008-03-31",
+  "numac": 2008200920,
+  "document_start": "2007-12-01",
+  "document_end": null,
+  "in_force": "2007-12-01",
+  "article_versions": 5,
+  "record_form": "consolidated version as in force on 2007-12-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
