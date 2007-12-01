@@ -1,0 +1,17 @@
+{
+  "codex_id": 1016353,
+  "title": "Besluit van de Vlaamse Regering van 2007-10-26 tot vervanging van de helft van de stemgerechtigde leden van de Vlaamse UNESCO-Commissie",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1016353/VolledigDocument?datum=2007-12-01",
+  "source_sha256": "ab952e4690a4b4ab3e865bb341e4d8e20c96e12fc045735405cbf26ac6db8100",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1016353&param=informatie",
+  "as_of": "2007-12-01",
+  "made": "2007-10-26",
+  "gazette": "2007-11-21",
+  "numac": 2007037017,
+  "document_start": "2007-12-01",
+  "document_end": null,
+  "in_force": "2007-12-01",
+  "article_versions": 5,
+  "record_form": "consolidated version as in force on 2007-12-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
