@@ -1,0 +1,17 @@
+{
+  "codex_id": 1016562,
+  "title": "Besluit van de Vlaamse Regering van 2007-12-14 tot toekenning van premies aan bepaalde onderwijsinstellingen van het gewoon secundair onderwijs die studierichtingen inrichten die leiden tot de invulling van een knelpuntberoep",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1016562/VolledigDocument?datum=2007-12-01",
+  "source_sha256": "254cc1fc0a0669aa578e3682c0e58545252d3c210d0a7a2676f07a67db4a3652",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1016562&param=informatie",
+  "as_of": "2007-12-01",
+  "made": "2007-12-14",
+  "gazette": "2008-02-04",
+  "numac": 2008035132,
+  "document_start": "2007-12-01",
+  "document_end": null,
+  "in_force": "2007-12-01",
+  "article_versions": 10,
+  "record_form": "consolidated version as in force on 2007-12-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
