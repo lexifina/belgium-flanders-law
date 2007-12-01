@@ -1,0 +1,17 @@
+{
+  "codex_id": 1016697,
+  "title": "Besluit van de Vlaamse Regering van 2008-02-01 houdende de vervanging van leden van de praktijkcommissie van het Vlaams Agentschap voor Ondernemersvorming - SYNTRA Vlaanderen",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1016697/VolledigDocument?datum=2007-12-01",
+  "source_sha256": "27ead6b8416a594f7cf77746076c972039a10912c88189523fc3dad0923604e6",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1016697&param=informatie",
+  "as_of": "2007-12-01",
+  "made": "2008-02-01",
+  "gazette": "2008-03-28",
+  "numac": 2008200919,
+  "document_start": "2007-12-01",
+  "document_end": null,
+  "in_force": "2007-12-01",
+  "article_versions": 5,
+  "record_form": "consolidated version as in force on 2007-12-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
