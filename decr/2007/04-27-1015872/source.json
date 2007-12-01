@@ -1,0 +1,17 @@
+{
+  "codex_id": 1015872,
+  "title": "Decreet van 2007-04-27 houdende wijziging van titel IV van het decreet van 5 april 1995 houdende algemene bepalingen inzake milieubeleid en van artikel 36ter van het decreet van 21 oktober 1997 betreffende het natuurbehoud en het natuurlijk milieu",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1015872/VolledigDocument?datum=2007-12-01",
+  "source_sha256": "ca3febdbfaa2b104fd7c70b6a8dca6d18dcc2426faa8215bf018e9df0511ccf2",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1015872&param=informatie",
+  "as_of": "2007-12-01",
+  "made": "2007-04-27",
+  "gazette": "2007-06-20",
+  "numac": 2007035854,
+  "document_start": "2007-12-01",
+  "document_end": null,
+  "in_force": "2007-12-01",
+  "article_versions": 9,
+  "record_form": "consolidated version as in force on 2007-12-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
