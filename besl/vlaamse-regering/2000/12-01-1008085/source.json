@@ -2,16 +2,16 @@
   "codex_id": 1008085,
   "title": "Besluit van de Vlaamse Regering van 2000-12-01 houdende organisatie van de Vlaamse Maatschappij voor Watervoorziening en de regeling van de rechtspositie van het personeel",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1008085/VolledigDocument?datum=2006-06-01",
-  "source_sha256": "462ddb10c495ed9c2e506246a8cca68ad374d7a91e3c02deb316bc887bbb9246",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1008085/VolledigDocument?datum=2007-12-01",
+  "source_sha256": "3cfcd9f1661b936bb37833c5242bc64589d05cb3c94e2ad9689d62d6409a14ed",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1008085&param=informatie",
-  "as_of": "2006-06-01",
+  "as_of": "2007-12-01",
   "made": "2000-12-01",
   "gazette": "2001-07-25",
   "numac": 2001035663,
   "document_start": null,
   "document_end": "2016-12-31",
-  "in_force": "2006-06-01",
+  "in_force": "2007-12-01",
   "article_versions": 598,
-  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2007-12-01; future article versions excluded; article text as the API gives it"
 }
