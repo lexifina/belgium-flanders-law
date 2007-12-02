@@ -1,0 +1,17 @@
+{
+  "codex_id": 1016359,
+  "title": "Ministerieel besluit van 2007-04-19 tot vaststelling van de subsidiabele urencontingenten 2007 van de private diensten voor gezinszorg",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1016359/VolledigDocument?datum=2007-12-02",
+  "source_sha256": "be47a4b94c99f83d2e38712e0f0289832dbcb78b0e792c2df5d50b4d31c2f0d0",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1016359&param=informatie",
+  "as_of": "2007-12-02",
+  "made": "2007-04-19",
+  "gazette": "2007-11-22",
+  "numac": 2007037023,
+  "document_start": "2007-12-02",
+  "document_end": null,
+  "in_force": "2007-12-02",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2007-12-02; oldest version available; future article versions excluded; article text as the API gives it"
+}
