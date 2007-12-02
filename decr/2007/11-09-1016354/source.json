@@ -1,0 +1,17 @@
+{
+  "codex_id": 1016354,
+  "title": "Decreet van 2007-11-09 houdende wijziging van het decreet van 28 juni 1985 betreffende de milieuvergunning en van het decreet van 18 mei 1999 houdende de organisatie van de ruimtelijke ordening, wat de verhouding tussen de milieuvergunning en de bouwvergunning betreft",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1016354/VolledigDocument?datum=2007-12-02",
+  "source_sha256": "bef43e0209a455a0092a1cc84da11d1f41b420c8ddcb7cf9b61ad31158502c32",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1016354&param=informatie",
+  "as_of": "2007-12-02",
+  "made": "2007-11-09",
+  "gazette": "2007-11-22",
+  "numac": 2007037079,
+  "document_start": "2007-12-02",
+  "document_end": null,
+  "in_force": "2007-12-02",
+  "article_versions": 5,
+  "record_form": "consolidated version as in force on 2007-12-02; oldest version available; future article versions excluded; article text as the API gives it"
+}
