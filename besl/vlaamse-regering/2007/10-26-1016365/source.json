@@ -1,0 +1,17 @@
+{
+  "codex_id": 1016365,
+  "title": "Besluit van de Vlaamse Regering van 2007-10-26 houdende vaststelling van de selectiecriteria zoals bedoeld in artikel 4 van het besluit van de Vlaamse Regering houdende vaststelling van de nadere regels betreffende de subsidiëring van projecten in het kader van het Rubiconfonds in het begrotingsjaar 2007",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1016365/VolledigDocument?datum=2007-12-03",
+  "source_sha256": "209819808299fc9a2d202292325ea036951b6723b121d14ab8d641f5ee6799ee",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1016365&param=informatie",
+  "as_of": "2007-12-03",
+  "made": "2007-10-26",
+  "gazette": "2007-11-23",
+  "numac": 2007037027,
+  "document_start": "2007-12-03",
+  "document_end": null,
+  "in_force": "2007-12-03",
+  "article_versions": 12,
+  "record_form": "consolidated version as in force on 2007-12-03; oldest version available; future article versions excluded; article text as the API gives it"
+}
