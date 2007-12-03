@@ -1,0 +1,17 @@
+{
+  "codex_id": 1016368,
+  "title": "Besluit van de Vlaamse Regering van 2007-10-12 betreffende de projecten 2007 van het Onderwijskundig Beleids- en Praktijkgericht Wetenschappelijk Onderzoek",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1016368/VolledigDocument?datum=2007-12-03",
+  "source_sha256": "419a02ff55e580aea970755eb1ebc5b72387f31d0e2db52f9f191c4100f72f35",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1016368&param=informatie",
+  "as_of": "2007-12-03",
+  "made": "2007-10-12",
+  "gazette": "2007-11-23",
+  "numac": 2007037031,
+  "document_start": "2007-12-03",
+  "document_end": null,
+  "in_force": "2007-12-03",
+  "article_versions": 5,
+  "record_form": "consolidated version as in force on 2007-12-03; oldest version available; future article versions excluded; article text as the API gives it"
+}
