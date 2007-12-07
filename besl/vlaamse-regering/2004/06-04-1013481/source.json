@@ -2,16 +2,16 @@
   "codex_id": 1013481,
   "title": "Besluit van de Vlaamse Regering van 2004-06-04 houdende de voorwaarden voor de erkenning en/of subsidiëring van strategische projecten in het kader van het Ruimtelijk Structuurplan Vlaanderen",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1013481/VolledigDocument?datum=2006-07-01",
-  "source_sha256": "34d0525d71ec4eacdd5c099d7212f2fa511a8e37d568b9fce2cb5045a2d2939f",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1013481/VolledigDocument?datum=2007-12-07",
+  "source_sha256": "c06a08c3063642d0b729fb17acbd83fdf79523fc05722b9ab2446c74fed51f9b",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1013481&param=informatie",
-  "as_of": "2006-07-01",
+  "as_of": "2007-12-07",
   "made": "2004-06-04",
   "gazette": "2004-10-15",
   "numac": 2004036543,
   "document_start": null,
   "document_end": "2007-12-06",
-  "in_force": "2006-07-01",
+  "in_force": "2007-12-07",
   "article_versions": 20,
-  "record_form": "consolidated version as in force on 2006-07-01; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2007-12-07; future article versions excluded; article text as the API gives it"
 }
