@@ -1,0 +1,17 @@
+{
+  "codex_id": 1016510,
+  "title": "Ministerieel besluit van 2007-12-11 houdende vaststelling van de Herculessleutel voor het begrotingsjaar 2007",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1016510/VolledigDocument?datum=2007-12-11",
+  "source_sha256": "74149e1859ace0d7de2d4c29c61805e7c6d11dcf551a784dc9f488801f7a2b47",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1016510&param=informatie",
+  "as_of": "2007-12-11",
+  "made": "2007-12-11",
+  "gazette": "2008-01-18",
+  "numac": 2008035021,
+  "document_start": "2007-12-11",
+  "document_end": null,
+  "in_force": "2007-12-11",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2007-12-11; oldest version available; future article versions excluded; article text as the API gives it"
+}
