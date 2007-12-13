@@ -4,13 +4,13 @@
 
 ### ART. 1.
 
-Voor de toepassing van dit besluit wordt verstaan onder:<br /><br />1° agentschap: het Agentschap Infrastructuur, opgericht bij artikel 2;<br /><br />2° minister: de Vlaamse minister, bevoegd voor de Openbare Werken.
+Voor de toepassing van dit besluit wordt verstaan onder:<br />1° agentschap: het Agentschap Wegen en Verkeer, opgericht bij artikel 2;<br />2° minister: de Vlaamse minister, bevoegd voor de Openbare Werken.
 
 ## HOOFDSTUK II Benaming, doel en taakstelling van het agentschap
 
 ### ART. 2.
 
-Binnen het Vlaams ministerie van Mobiliteit en Openbare Werken wordt een intern verzelfstandigd agentschap zonder rechtspersoonlijkheid opgericht. Dat agentschap draagt als naam Agentschap Infrastructuur.<br /><br />Het agentschap wordt opgericht voor de uitvoering van het beleid inzake wegeninfrastructuur en elektromechanische uitrustingen.<br /><br />Het agentschap behoort tot het beleidsdomein Mobiliteit en Openbare Werken.
+Binnen het Vlaams ministerie van Mobiliteit en Openbare Werken wordt een intern verzelfstandigd agentschap zonder rechtspersoonlijkheid opgericht. Dat agentschap draagt als naam Agentschap Wegen en Verkeer.<br /><br />Het agentschap wordt opgericht voor de uitvoering van het beleid inzake wegeninfrastructuur en elektromechanische uitrustingen.<br /><br />Het agentschap behoort tot het beleidsdomein Mobiliteit en Openbare Werken.
 
 ### ART. 3.
 
@@ -18,7 +18,7 @@ De missie van het agentschap bestaat erin om, binnen het beleidsdomein Mobilitei
 
 ### ART. 4.
 
-§ 1. In het kader van de missie, vermeld in artikel 3, is het Agentschap Infrastructuur belast met de volgende taken:<br /><br />1° het aanleggen, herinrichten, uitrusten en onderhouden van wegen voor autoverkeer, vrachtvervoer, fiets- en voetgangersvoorzieningen en voorzieningen voor andersvaliden;<br /><br />2° het beheren en exploiteren van voormelde infrastructuur met inbegrip van het uitreiken van vergunningen;<br /><br />3° het verstrekken van adviezen voor vestigingen naast die infrastructuur;<br /><br />4° het zorgen voor de afwikkeling en de sturing van het verkeer en het vervoer over de gewestwegen in het kader van de opdracht van het agentschap als wegbeheerder;<br /><br />5° het verstrekken van advies over de structuren, materialen en elementen die gebruikt worden in de wegenbouw en bij het uitvoeren van proeven;<br /><br />6° het ontwerpen, aanleggen, onderhouden, beheren en technisch exploiteren van elektromechanische en telematica-uitrustingen.<br /><br />§ 2. Het agentschap levert het departement de vereiste beleidsgerichte input zodat het over alle nuttige informatie beschikt om effectief en efficiënt zijn rol te vervullen op het vlak van de beleidsvoorbereiding en -evaluatie en op het vlak van de ondersteuning van de minister bij de voortgangscontrole en de aansturing van de uitvoering van het beleid.
+§ 1. In het kader van de missie, vermeld in artikel 3, is het Agentschap Wegen en Verkeer belast met de volgende taken:<br />1° het aanleggen, herinrichten, uitrusten en onderhouden van wegen voor autoverkeer, vrachtvervoer, fiets- en voetgangersvoorzieningen en voorzieningen voor andersvaliden;<br />2° het beheren en exploiteren van voormelde infrastructuur met inbegrip van het uitreiken van vergunningen;<br />3° het verstrekken van adviezen voor vestigingen naast die infrastructuur;<br />4° het zorgen voor de afwikkeling en de sturing van het verkeer en het vervoer over de gewestwegen in het kader van de opdracht van het agentschap als wegbeheerder;<br />5° het verstrekken van advies over de structuren, materialen en elementen die gebruikt worden in de wegenbouw en bij het uitvoeren van proeven;<br />6° het ontwerpen, aanleggen, onderhouden, beheren en technisch exploiteren van elektromechanische en telematica-uitrustingen.<br /><br />§ 2. Het agentschap levert het departement de vereiste beleidsgerichte input zodat het over alle nuttige informatie beschikt om effectief en efficiënt zijn rol te vervullen op het vlak van de beleidsvoorbereiding en -evaluatie en op het vlak van de ondersteuning van de minister bij de voortgangscontrole en de aansturing van de uitvoering van het beleid.
 
 ### ART. 5.
 
