@@ -1,0 +1,17 @@
+{
+  "codex_id": 1016381,
+  "title": "Besluit van de Vlaamse Regering van 2007-10-19 houdende de herverdeling van kredieten binnen programma 45.4 van de algemene uitgavenbegroting van de Vlaamse Gemeenschap voor de begroting 2007",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1016381/VolledigDocument?datum=2007-12-13",
+  "source_sha256": "b54326dfd2c678e5c0febeaa77b6eebf9b098f0033f157a00f6cd9ed93696ea0",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1016381&param=informatie",
+  "as_of": "2007-12-13",
+  "made": "2007-10-19",
+  "gazette": "2007-12-03",
+  "numac": 2007037024,
+  "document_start": "2007-12-13",
+  "document_end": null,
+  "in_force": "2007-12-13",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2007-12-13; oldest version available; future article versions excluded; article text as the API gives it"
+}
