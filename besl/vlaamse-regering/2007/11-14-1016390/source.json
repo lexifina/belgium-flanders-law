@@ -1,0 +1,17 @@
+{
+  "codex_id": 1016390,
+  "title": "Besluit van de Vlaamse Regering van 2007-11-14 houdende wijziging van de benaming van het Agentschap Infrastructuur in het Agentschap Wegen en Verkeer",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1016390/VolledigDocument?datum=2007-12-13",
+  "source_sha256": "5f1416b000146c5fbc91c7b4de6a0fa7d2f4bd1258e0315602b4dd408ca7118e",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1016390&param=informatie",
+  "as_of": "2007-12-13",
+  "made": "2007-11-14",
+  "gazette": "2007-12-03",
+  "numac": 2007037116,
+  "document_start": "2007-12-13",
+  "document_end": null,
+  "in_force": "2007-12-13",
+  "article_versions": 11,
+  "record_form": "consolidated version as in force on 2007-12-13; oldest version available; future article versions excluded; article text as the API gives it"
+}
