@@ -2,16 +2,16 @@
   "codex_id": 1010878,
   "title": "Besluit van de Vlaamse Regering van 2003-03-21 tot bestrijding van de schade aan het wegdek door gewichtsoverschrijding",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1010878/VolledigDocument?datum=2007-01-19",
-  "source_sha256": "f25985051a68a427c91ac371bc33242830482ed289ce099dd309b11b7eb51077",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1010878/VolledigDocument?datum=2007-12-13",
+  "source_sha256": "e04ada5a6b954e359a2c5487ad908ba10f95ef7542b9ca5ca8006d4db19d173a",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1010878&param=informatie",
-  "as_of": "2007-01-19",
+  "as_of": "2007-12-13",
   "made": "2003-03-21",
   "gazette": "2003-05-08",
   "numac": 2003035407,
   "document_start": null,
   "document_end": "2014-02-28",
-  "in_force": "2007-01-19",
+  "in_force": "2007-12-13",
   "article_versions": 25,
-  "record_form": "consolidated version as in force on 2007-01-19; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2007-12-13; future article versions excluded; article text as the API gives it"
 }
