@@ -118,7 +118,7 @@ Voor het beleidsdomein financiën en begroting wordt het Vlaams Ministerie van F
 
 ### ART. 28.
 
-§ 1. Voor het beleidsdomein mobiliteit en openbare werken wordt het Vlaams Ministerie van Mobiliteit en Openbare Werken opgericht, dat bestaat uit het gelijknamige departement en twee agentschappen zonder rechtspersoonlijkheid:<br /><br />1° Agentschap Infrastructuur (*);<br /><br />2° Agentschap voor Maritieme Dienstverlening en Kust (*).<br /><br />§ 2. De agentschappen met rechtspersoonlijkheid die tot het beleidsdomein mobiliteit en openbare werken behoren, zijn:<br /><br />1° Vlaamse Vervoermaatschappij - De Lijn;<br /><br />2° De Scheepvaart;<br /><br />3° Waterwegen en Zeekanaal.
+§ 1. Voor het beleidsdomein mobiliteit en openbare werken wordt het Vlaams Ministerie van Mobiliteit en Openbare Werken opgericht, dat bestaat uit het gelijknamige departement en twee agentschappen zonder rechtspersoonlijkheid:<br />1° Agentschap Wegen en Verkeer (*);<br />2° Agentschap voor Maritieme Dienstverlening en Kust (*).<br /><br />§ 2. De agentschappen met rechtspersoonlijkheid die tot het beleidsdomein mobiliteit en openbare werken behoren, zijn:<br />1° Vlaamse Vervoermaatschappij - De Lijn;<br />2° De Scheepvaart;<br />3° Waterwegen en Zeekanaal.
 
 ### ART. 29.
 
