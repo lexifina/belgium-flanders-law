@@ -14,8 +14,8 @@ De subsidie wordt berekend op basis van de werken die nodig zijn om de gewestweg
 
 ### ART. 4.
 
-Met goede staat wordt bedoeld: technische werkzaamheden en ingrepen die nodig zijn om het betrokken wegvak in normale goede staat te brengen. Deze werken dienen beperkt te blijven tot de bestaande verhardingen voor zover deze effectief door [het Agentschap Infrastructuur  <span class="reference">(verv. B.V.R. 7 oktober 2005, art. 18, I: 1 april 2006)</span> ] worden beheerd. Deze werken mogen in geen geval aanleiding geven tot het herschikken of verbreden van het bestaande dwarsprofiel.
+Met goede staat wordt bedoeld: technische werkzaamheden en ingrepen die nodig zijn om het betrokken wegvak in normale goede staat te brengen. Deze werken dienen beperkt te blijven tot de bestaande verhardingen voor zover deze effectief door Agentschap Wegen en Verkeer worden beheerd. Deze werken mogen in geen geval aanleiding geven tot het herschikken of verbreden van het bestaande dwarsprofiel.
 
 ### ART. 5.
 
-[ Het hoofd van het Agentschap Infrastructuur  <span class="reference">(verv. B.V.R. 7 oktober 2005, art. 19, I: 1 april 2006)</span> ] wordt belast met het opstellen en goedkeuren van een overeenkomst met de gemeente, inzonderheid wat betreft de betalingsmodaliteiten.
+Het hoofd van het Agentschap Wegen en Verkeer wordt belast met het opstellen en goedkeuren van een overeenkomst met de gemeente, inzonderheid wat betreft de betalingsmodaliteiten.
