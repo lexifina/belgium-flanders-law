@@ -1,0 +1,17 @@
+{
+  "codex_id": 1016388,
+  "title": "Ministerieel besluit van 2007-11-09 tot vervanging van de leden en plaatsvervangende leden in de Mobiliteitsraad van Vlaanderen",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1016388/VolledigDocument?datum=2007-12-13",
+  "source_sha256": "30e88c9d807ce3cdee08470693539e0978c9fdf587acbda8541fc7ceaec4fa4b",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1016388&param=informatie",
+  "as_of": "2007-12-13",
+  "made": "2007-11-09",
+  "gazette": "2007-12-03",
+  "numac": 2007037109,
+  "document_start": "2007-12-13",
+  "document_end": null,
+  "in_force": "2007-12-13",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2007-12-13; oldest version available; future article versions excluded; article text as the API gives it"
+}
