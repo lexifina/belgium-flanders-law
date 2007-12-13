@@ -2,16 +2,16 @@
   "codex_id": 1013297,
   "title": "Besluit van de Vlaamse Regering van 2004-07-27 tot bepaling van de bevoegdheden van de leden van de Vlaamse regering",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1013297/VolledigDocument?datum=2007-10-10",
-  "source_sha256": "214bc0a1e6db26def775ad19aa2733ed686f2f07ed5685e254484c593c77a80f",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1013297/VolledigDocument?datum=2007-12-13",
+  "source_sha256": "6b6881d255dfd1e05fdce1176d5014b209c9a5e7b38d93da4f20b9b60e2127be",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1013297&param=informatie",
-  "as_of": "2007-10-10",
+  "as_of": "2007-12-13",
   "made": "2004-07-27",
   "gazette": "2004-08-04",
   "numac": 2004036292,
   "document_start": "2004-07-22",
   "document_end": "2009-07-12",
-  "in_force": "2007-10-10",
+  "in_force": "2007-12-13",
   "article_versions": 22,
-  "record_form": "consolidated version as in force on 2007-10-10; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2007-12-13; future article versions excluded; article text as the API gives it"
 }
