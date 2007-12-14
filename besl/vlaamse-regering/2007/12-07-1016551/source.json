@@ -1,0 +1,17 @@
+{
+  "codex_id": 1016551,
+  "title": "Besluit van de Vlaamse Regering van 2007-12-07 houdende verdeling van het provisionele krediet ingeschreven onder programma 52.40, basisallocatie 00.10, begrotingsjaar 2007 en van het provisioneel krediet ingeschreven onder programma 24.6, basisallocatie 00.24, begrotingsjaar 2007",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1016551/VolledigDocument?datum=2007-12-14",
+  "source_sha256": "69fedc3c7084a3470e6d7aa70026dde263a5981b8d4ad1baa9f5176516ce79f9",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1016551&param=informatie",
+  "as_of": "2007-12-14",
+  "made": "2007-12-07",
+  "gazette": "2008-01-31",
+  "numac": 2008035135,
+  "document_start": "2007-12-14",
+  "document_end": null,
+  "in_force": "2007-12-14",
+  "article_versions": 6,
+  "record_form": "consolidated version as in force on 2007-12-14; oldest version available; future article versions excluded; article text as the API gives it"
+}
