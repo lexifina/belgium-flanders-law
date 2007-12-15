@@ -920,11 +920,11 @@ De bepalingen van dit hoofdstuk treden in werking op 1 januari 2001, behalve<br 
 
 ### ART. XII. 1.
 
-[Een Regionaal Technologisch Centrum, hierna « RTC » te noemen, is een regionaal of interre-gionaal centrum georganiseerd doorrechtspersonen, verzelfstandigde onderdelen van rechtspersonen of samenwerkingsverbanden tussen rechtspersonen.<br /><br />De werking van een RTC is gericht op:<br />1° de bewerkstelliging van synergieën tussen onderwijsinstellingen en bedrijven, en<br />2° de optimale doorstroming van leerlingen, studenten en cursisten naar het bedrijfsleven, en<br />3° de opwaardering van het technisch en beroepsonderwijs.  <span class="reference">(verv. decr. 7 mei 2004, art. 2, I: 1 april 2004)</span> ]
+...
 
 ### ART. XII. 2.
 
-[Een RTC neemt concrete initiatieven inzake:<br /><br />1° de onderlinge afstemming tussen onderwijsinstellingen en bedrijven van de vraag naar en het aanbod van infrastructuur, apparatuur en uitrusting voor technisch en beroepsonderwijs die een pedagogisch-didactische rol kunnen vervullen, inzonderheid door de ontwikkeling of ondersteuning van (een) infrastructurele inbedding(en), en<br />2° de onderlinge afstemming tussen onderwijsinstellingen en bedrijven van de vraag naar en het aanbod van leerlingen- en cursistenstages, en/of<br />3° het faciliteren of coördineren van nascholing op het vlak van nieuwe technologieën, en/of<br />4° de creatie van een platform waarbinnen onderwijsinstellingen en bedrijven kennis en ervaring kunnen uitwisselen.  <span class="reference">(verv. decr. 7 mei 2004, art. 2, I: 1 april 2004)</span> ]
+...
 
 ## [AFDELING II BEHEERSOVEREENKOMST
 
@@ -932,7 +932,7 @@ De bepalingen van dit hoofdstuk treden in werking op 1 januari 2001, behalve<br 
 
 ### ART. XII. 3.
 
-[§ 1. Elk RTC sluit met de Vlaamse Regering een beheersovereenkomst voor 3 jaar af.<br /><br />§ 2. De beheersovereenkomst wordt geregeld door algemene voorwaarden, vastgelegd door de Vlaamse Regering.<br /><br />Deze algemene voorwaarden betreffen:<br />1° de minimale vereisten inzake de beheers- en of managementstructuur van de RTC's;<br />2° de minimale resultaatsverbintenissen van de RTC's;<br />3° de wijze waarop de ondersteuningsfunctie van de RTC-coördinator wordt uitgeoefend;<br />4° de wijze waarop de lokale actoren uit het onderwijs-, vormings- en opleidingsveld bij de werking van het RTC betrokken kunnen worden;<br />5° de rapporterings- en controlemechanismen;<br />6° de remediërende en sanctionerende maatregelen in geval van niet-naleving van de beheersovereenkomst;<br />7° de gevallen waarin en de wijze waarop de beheersovereenkomst tijdens de looptijd ervan kan worden gewijzigd.<br /><br />§ 3. De algemene voorwaarden kunnen per RTC worden aangevuld met specifieke bepalingen die rekening houden met het regionale of interregionale behoeftepatroon.  <span class="reference">(verv. decr. 7 mei 2004, art. 2, I: 1 april 2004)</span> ]
+...
 
 ## [ONDERAFDELING II FINANCIELE BIJDRAGE VAN DE VLAAMSE GEMEENSCHAP
 
@@ -940,25 +940,21 @@ De bepalingen van dit hoofdstuk treden in werking op 1 januari 2001, behalve<br 
 
 ### ART. XII. 4.
 
-[Een RTC opent door het afsluiten van een beheersovereenkomst met de Vlaamse Regering een recht op een driejaarlijkse vaste werkingsenveloppe, overeenkomstig de bepalingen van deze sectie.<br /><br />De vaste werkingsenveloppe wordt, binnen het kader van de begrotingskredieten, toegekend door de Vlaamse Gemeenschap.  <span class="reference">(verv. decr. 7 mei 2004, art. 2, I: 1 april 2004)</span> ]
+...
 
 ### ART. XII. 5.
 
-[De omvang van de vaste werkingsenveloppe wordt per RTC vastgesteld met inachtname van:<br />1° de diversiteit en/of het belang van de actieterreinen waarop het RTC actief is, bedoeld in artikel XII.2;<br />2° de aard en het belang van de betrokken bedrijfssector(en);<br />3° het aantal en de omvang van de participerende bedrijven en onderwijsinstellingen;<br />4° de realisaties en voorgestelde mogelijkheden inzake cofinanciering;<br />5° de vaste kostenstructuur.<br /><br />De Vlaamse Regering kan de regelen bepalen inzake de toekenning of herverdeling, tijdens een lopende periode van drie jaar, van nieuwe of vrijkomende middelen.  <span class="reference">(ing. decr. 7 mei 2004, art. 2, I: 1 april 2004)</span> ]
+...
 
 ### ART. XII. 6.
 
-De vaste werkingsenveloppe wordt jaarlijks vereffend volgens de volgende formule:<br /><br />1° een eerste voorschot ten bedrage van 22,5 percent wordt uitbetaald ten laatste op 28 februari;<br /><br />2° een tweede voorschot ten bedrage van 22,5 percent wordt uitbetaald ten laatste op 31 mei;<br /><br />3° een derde voorschot ten bedrage van 22,5 percent wordt uitbetaald ten laatste op 31 juli;<br /><br />4° een vierde voorschot ten bedrage van 22,5 percent wordt uitbetaald ten laatste op 31 oktober;<br /><br />5° het saldo van 10 procent wordt uitbetaald na indiening en goedkeuring van een werkings- en activiteitenverslag.  <span class="reference">(ing. decr. 7 mei 2004, art. 2, I: 1 april 2004)</span> ]
-
-### ART. XII. 6.
-
-[De vaste werkingsenveloppe wordt jaarlijks vereffend volgens de volgende formule:<br />1° een eerste voorschot ten bedrage van 22,5 percent wordt uitbetaald ten laatste op 28 februari;<br />2° een tweede voorschot ten bedrage van 22,5 percent wordt uitbetaald ten laatste op 31 mei;<br />3° een derde voorschot ten bedrage van 22,5 percent wordt uitbetaald ten laatste op 31 juli;<br />4° een vierde voorschot ten bedrage van 22,5 percent wordt uitbetaald ten laatste op 31 oktober;<br />5° het saldo van 10 procent wordt uitbetaald na indiening en goedkeuring van een werkings- en activiteitenverslag.  <span class="reference">(ing. decr. 7 mei 2004, art. 2, I: 1 april 2004)</span> ]
+...
 
 ## [Sectie II Subsidie projectfinanciering (ing. decr. 7 mei 2004, art. 2)]
 
 ### ART. XII. 7.
 
-[§ 1. Binnen het kader van de begrotingskredieten, toegekend door de Vlaamse Gemeenschap, kan de Vlaamse Regering aan een RTC een subsidie projectfinanciering toekennen.<br /><br />Deze subsidie kan ten hoogste voor een periode van 3 jaar worden toegekend.<br /><br />§ 2. De projecten worden geselecteerd en de omvang van de subsidie projectfinanciering wordt vastgesteld op grond van criteria die door de Vlaamse Regering worden bepaald.<br /><br />Die criteria hebben ten minste betrekking op:<br />1° de afstemming van de projecten op de opdrachten, bedoeld in artikel XII.2;<br />2° het aantal en de omvang van de participerende bedrijven en onderwijsinstellingen;<br />3° de aard en/of de omvang van het doelpubliek dat bij de projecten kan worden betrokken;<br />4° de relevantie van de projecten op lange termijn.<br /><br />§ 3. De Vlaamse Regering bepaalt de nadere regelen inzake:<br />1° de wijze waarop de subsidie projectfinanciering wordt aangevraagd;<br />2° de wijze waarop het dossier wordt beoordeeld;<br />3° het betalingsritme van de subsidie projectfinanciering.  <span class="reference">(ing. decr. 7 mei 2004, art. 2, I: 1 april 2004)</span> ]
+...
 
 ## [AFDELING III FACILITAIR KADER
 
@@ -966,19 +962,19 @@ De vaste werkingsenveloppe wordt jaarlijks vereffend volgens de volgende formule
 
 ### ART. XII. 8.
 
-[Benevens de financiële bijdragen van de Vlaamse Gemeenschap, bedoeld in artikelen XII.4 en XII.7, kan een RTC beschikken over de volgende middelen:<br />1° financiële, materiële of immateriële ondersteuning door actoren uit de onderwijssector of de bedrijfswereld of door openbare besturen;<br />2° opbrengsten uit het eigen bezit;<br />3° schenkingen en legaten;<br />4° leningen van allerlei aard.<br /><br />De Vlaamse Regering kan aan de leningen ten behoeve van een RTC de waarborg van de Vlaamse Gemeenschap verlenen.  <span class="reference">(ing. decr. 7 mei 2004, art. 2, I: 1 april 2004)</span> ]
+...
 
 ## [ONDERAFDELING II INFRASTRUCTUUR (ing. decr. 7 mei 2004, art. 2)]
 
 ### ART. XII. 9.
 
-§ 1. Indien een inrichtende macht aan een (rechtspersoon binnen een) RTC en ten behoeve van de werking van een RTC een persoonlijk of zakelijk recht of een gebruiksrecht verleent op een onroerend goed, bestemd voor het onderwijs, wordt dit nimmer als een bestemmingswijziging beschouwd.<br /><br />§ 2. (De rechtspersoon binnen) het RTC treedt ten aanzien van de Dienst voor Infrastructuurwerken van het Gesubsidieerd Onderwijs, verder : « DIGO », of de rechtsopvolger daarvan, in de rechten en verplichtingen van de overdragende inrichtende macht, indien (de rechtspersoon binnen) het RTC eigenaar wordt van het gebouw of het zakelijk recht overneemt dat noodzakelijk was voor het verkrijgen van de subsidies, verstrekt door de DIGO, of de rechtsopvolger daarvan.<br /><br />Indien (de rechtspersoon binnen) het RTC de eigendom of het zakelijk recht niet overneemt, blijft de overdragende inrichtende macht verantwoordelijk voor de naleving van de verplichtingen die voortvloeien uit de regelgeving voor het verkrijgen van de subsidies verstrekt door de DIGO of de rechtsopvolger daarvan.  <span class="reference">(ing. decr. 7 mei 2004, art. 2, I: 1 april 2004)</span> ]
+...
 
 ## [AFDELING IIIbis RTC VLAANDEREN]
 
 ### ART. XII.9bis.
 
-Mits onderling akkoord kunnen alle RTC gezamenlijk overgaan tot de oprichting van één RTC Vlaanderen. Het RTC Vlaanderen is een Vlaams centrum georganiseerd door rechtspersonen, verzelfstandigde onderdelen van rechtspersonen of samenwerkingsverbanden tussen rechtspersonen. <br /><br />Het RTC Vlaanderen coördineert de samenwerking tussen de RTC en organiseert zelf activiteiten die in overeenstemming zijn met de werking en de initiatieven van de RTC, zoals bedoeld in artikelen XII.1, tweede lid, en XII.2, doch die omwille van efficiëntie en effectiviteit een RTC-overschrijdende benadering vereisen. <br /><br />De bepalingen van de artikelen XII.3 tot en met XII.9 en XII.15 zijn onverkort van toepassing op het RTC Vlaanderen. <br />
+...<br />
 
 ## [AFDELING IV DE RTC-COORDINATOR
 
@@ -1020,24 +1016,19 @@ Mits onderling akkoord kunnen alle RTC gezamenlijk overgaan tot de oprichting va
 
 ### ART. XII. 15.
 
-[De Vlaamse Regering neemt de nodige maatregelen opdat een algehele evaluatie van de werking van de RTC's aan het Vlaams Parlement kan worden voorgelegd vóór 31 december 2007 (ing. decr. 7 mei 2004, art. 2, I: 1 april 2004)].
+...
 
 ## [AFDELING VI OVERGANGSMAATREGEL (ing. decr. 7 mei 2004, art. 2)]
 
 ### ART. XII. 16.
 
-[De Vlaamse Regering sluit uiterlijk op 15 mei 2004 een beheersovereenkomst met de RTC's die bestaan op het ogenblik van de inwerkingtreding van dit hoofdstuk.<br>
-<br>
-In afwijking van artikel XII.7 wordt de financiële bijdrage van de Vlaamse Gemeenschap, verschuldigd in 2004, uitbetaald overeenkomstig het volgende betalingsritme:<br>
-1° een eerste voorschot ten bedrage van 50 procent wordt uitbetaald na ondertekening van de beheersovereenkomst;<br>
-2° een tweede voorschot ten bedrage van 40 procent wordt uitbetaald ten laatste op 15 oktober;<br>
-3° het saldo van 10 procent wordt uitbetaald na indiening en goedkeuring van een werkings- en activiteitenverslag (ing. decr. 7 mei 2004, art. 2, I: 1 april 2004)].
+...
 
 ## [AFDELING VII INWERKINGTREDINGSBEPALING (ing. decr. 7 mei 2004, art. 2)]
 
 ### ART. XII. 17.
 
-[De bepalingen van deze titel hebben uitwerking met ingang van 1 april 2004.  <span class="reference">(ing. decr. 7 mei 2004, art. 2, I: 1 april 2004)</span> ]
+...
 
 ## HOOFDSTUK XIII ANDERE BEPALINGEN
 
