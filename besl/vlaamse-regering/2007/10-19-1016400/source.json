@@ -1,0 +1,17 @@
+{
+  "codex_id": 1016400,
+  "title": "Besluit van de Vlaamse Regering van 2007-10-19 houdende gedeeltelijke verdeling van de provisionele kredieten ingeschreven onder de programma's 24.60, basisallocatie 00.34 en 52.40, basisallocatie 00.10, begrotingsjaar 2007",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1016400/VolledigDocument?datum=2007-12-16",
+  "source_sha256": "97c49d53a610feb4a8bdab6811593177d9d767cfa3488226c8974a6f2c804938",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1016400&param=informatie",
+  "as_of": "2007-12-16",
+  "made": "2007-10-19",
+  "gazette": "2007-12-06",
+  "numac": 2007037126,
+  "document_start": "2007-12-16",
+  "document_end": null,
+  "in_force": "2007-12-16",
+  "article_versions": 5,
+  "record_form": "consolidated version as in force on 2007-12-16; oldest version available; future article versions excluded; article text as the API gives it"
+}
