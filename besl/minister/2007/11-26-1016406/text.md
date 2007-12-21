@@ -1,0 +1,485 @@
+# Ministerieel besluit van 2007-11-26 betreffende de toekenning van subsidies voor naschoolse opleidingsinitiatieven in de landbouwsector
+
+### Aanhef
+
+De Vlaamse minister van Institutionele hervormingen, Havens, Landbouw, Zeevisserij en Plattelandsbeleid,<br /><br />Gelet op de bijzondere wet van 8 augustus 1980 tot hervorming der instellingen, inzonderheid op artikel 20, gewijzigd bij de wet van 16 juli 1993;<br /><br />Gelet op het decreet van 3 maart 2004 inzake de subsidiëring van meer duurzame landbouwproductiemethoden en de erkenning van centra voor meer duurzame landbouw, inzonderheid op de artikelen 8, 10, 11, §§ 1 en 2, en 14;<br /><br />Gelet op het besluit van de Vlaamse Regering van 4 juni 2004 betreffende de toekenning van subsidies voor naschoolse opleidingsinitiatieven in de landbouwsector, gewijzigd bij de besluiten van de Vlaamse Regering van 10 september 2004 en 28 april 2006, inzonderheid de artikelen 2, § 5, 4, tweede lid, 11, tweede lid, 14, 15, vierde lid, 17, 21, derde lid, 29, 30, derde lid, en 35, tweede lid;<br /><br />Gelet op het ministerieel besluit van 12 juli 2004 betreffende de toekenning van subsidies voor naschoolse opleidingsinitiatieven in de landbouwsector, gewijzigd bij het ministerieel besluit van 19 mei 2006;<br /><br />Gelet op het advies van de Inspectie van Financiën, gegeven op 17 september 2007;<br /><br />Gelet op advies 43.684/3 van de Raad van State, gegeven op 30 oktober 2007, met toepassing van artikel 84, § 1, eerste lid, 1°, van de gecoördineerde wetten op de Raad van State,<br /><br />Besluit : <br /><br />
+
+### ART. 1.
+
+In dit besluit wordt verstaan onder :<br />1° het besluit : het besluit van de Vlaamse Regering van 4 juni 2004 betreffende de toekenning van subsidies voor naschoolse opleidingsinitiatieven in de landbouwsector;<br />2° de bevoegde entiteit : de afdeling Duurzame Landbouwontwikkeling van het Departement Landbouw en Visserij.<br /><br />
+
+### ART. 2.
+
+De personen, vermeld in artikel 2, § 1, 1°, 2° en 3°, van het besluit, bewijzen hun beroepsactiviteit door het btw- of KBO-nummer te vermelden van het bedrijf waarin zij hun landbouwactiviteit uitoefenen.<br>
+<br>
+Voor de personen, vermeld in artikel 2, § 1, 4°, van het besluit, volstaat een verklaring van de werkgever.<br>
+<br>
+De personen, vermeld in artikel 2, § 1, 5°, van het besluit, vermelden hun erkenningsnummer als erkend gebruiker of verkoper van gewasbeschermingsmiddelen of toelatingsnummer voor het verkopen of gebruiken van biociden.<br>
+<br>
+De personen, vermeld in artikel 2, § 1, 6°, van het besluit, moeten minstens een actief bijenvolk bezitten.<br>
+&nbsp;
+
+### ART. 3.
+
+Starterscursussen type A als vermeld in artikel 4, 1°, a), van het besluit moeten minstens het programma omvatten dat als bijlage I bij dit ministerieel besluit gevoegd is.<br>
+&nbsp;
+
+### ART. 4.
+
+Starterscursussen type B als vermeld in artikel 4, 1°, b), van het besluit moeten minstens het programma omvatten dat als bijlage II bij dit ministerieel besluit gevoegd is.<br>
+&nbsp;
+
+### ART. 5.
+
+Bij de keuze van het stagebedrijf mag het algemeen centrum geen bedrijf voorstellen waar de stagiair reeds landbouwactiviteiten uitoefent of uitgeoefend heeft als bedrijfsleider, meewerkend gezinslid, zelfstandig helper, werknemer of zaakvoerder.<br /><br />Behoudens gevallen van overmacht moeten de stages plaatsvinden binnen een periode van drie maanden. De stage moet plaatsvinden in minimum het aantal dagen dat aangevraagd wordt. Per dag moet minstens een aaneensluitende periode van vier uur gepresteerd worden, en mag maximaal twaalf uur gepresteerd worden.<br /><br />
+
+### ART. 6.
+
+Enkel een algemeen of gewestelijk centrum mag korte vormingsactiviteiten organiseren over de volgende onderwerpen :<br />1° bewaring en verwerking van land- en tuinbouwproducten;<br />2° economische, fiscale en juridische thema's;<br />3° de landbouw in andere landen.<br /><br />
+
+### ART. 7.
+
+Bij de berekening van de subsidie van cursussen kunnen afwezigheden wegens ziekte beschouwd worden als een aanwezigheid, mits een doktersattest wordt voorgelegd en de deelnemer minstens 75 % van de uren effectief aanwezig geweest is.<br /><br />
+
+### ART. 8.
+
+Het minimaal vereiste aantal deelnemers, vermeld in artikel 14 van het besluit, wordt teruggebracht tot zes voor opleidingen over thema's die specifiek bestemd zijn voor de sector van de biologische landbouw.<br>
+&nbsp;
+
+### ART. 9.
+
+Het jaarprogramma, vermeld in artikel 34 van het besluit, moet ondertekend en gedagtekend zijn en moet minstens de volgende gegevens bevatten :<br>
+1° de naam en het erkenningsnummer van het erkende centrum;<br>
+2° een overzicht van het aantal vormingsactiviteiten dat in het volgende kalenderjaar georganiseerd zal worden, met vermelding van :<br>
+a) het aantal uren starterscursus, ingedeeld volgens type;<br>
+b) het aantal uren vormingscursus, ingedeeld volgens prioriteit als vermeld in de prioriteitenlijst, die als bijlage III bij dit besluit is gevoegd;<br>
+c) het aantal stagedagen;<br>
+d) het aantal uren korte vormingsactiviteiten, bestemd voor landbouwers;<br>
+e) het aantal uren korte vormingsactiviteiten, bestemd voor werknemers van groendiensten van openbare besturen;<br>
+f) het aantal korte vormingsactiviteiten, bestemd voor hobbylandbouwers;<br>
+g) het aantal uren vervolmakingsdagen.<br>
+<br>
+De postdatum of de datum van afgifte bij de bevoegde entiteit geldt als bewijs.<br>
+<br>
+Een model van een jaarprogramma is terug te vinden op de website van de Vlaamse Overheid : http://www.vlaanderen.be.<br>
+&nbsp;
+
+### ART. 10.
+
+Minstens tien werkdagen voor de aanvangsdatum van de vormingsactiviteiten, vermeld in artikel 4 van het besluit, sturen de centra een ondertekende en gedagtekende melding naar de bevoegde entiteit. De postdatum of de afgiftedatum bij de bevoegde entiteit geldt als bewijs. De melding moet minstens de volgende gegevens bevatten :<br />1° de naam, het adres, het telefoonnummer, het erkenningsnummer en het rekeningnummer van het centrum;<br />2° gegevens over de opleiding die geen stage is :<br />a) het vormingstype van de opleiding, vermeld in artikel 4 van het besluit;<br />b) per activiteit :<br />1) de datum, het begin- en het einduur; <br />2) het thema;<br />3) de naam en het registratienummer van de lesgever, vermeld in artikel 30 van het besluit;<br />4) het nauwkeurig adres waar de activiteit zal plaatsvinden;<br />5) het aantal uren theoretische en praktijklessen als vermeld in artikel 3, § 1, van het besluit;<br />6) het aantal uren waarvoor de lesgever een vergoeding wil ontvangen als vermeld in artikel 36 van het besluit;<br />3° gegevens over de stage :<br />a) het vormingstype van de opleiding, vermeld in artikel 4 van het besluit;<br />b) per stageactiviteit :<br />1) de datum, het begin- en het einduur; <br />2) het thema; <br />3) het exacte adres waar de stageactiviteit zal plaatsvinden;<br />4) de naam en het registratienummer van de stagebegeleider, vermeld in artikel 30 van het besluit;<br />5) het aantal stagedagen waarvoor de stagebegeleider een vergoeding wil ontvangen als vermeld in artikel 36 van het besluit;<br />4° Een berekening van de subsidie.<br /><br />Een model van de melding is terug te vinden op de website van de Vlaamse Overheid : http://www.vlaanderen.be. <br /><br />De melding kan ingediend worden via het internet door gebruik te maken van de informaticatoepassing van de bevoegde entiteit. In dat geval wordt de indieningstermijn teruggebracht tot vijf werkdagen. De door de toepassing gegenereerde datum geldt als indieningsdatum.<br /><br />De bevoegde entiteit beslist over het al of niet principieel goedkeuren van de vormingsactiviteit overeenkomstig de voorwaarden van dit ministerieel besluit, en kent een opleidingsnummer toe.<br /><br />Tegen een negatieve beslissing kan op straffe van onontvankelijkheid binnen een termijn van tien werkdagen die volgen op de datum van de betekening met een aangetekende brief beroep worden ingesteld bij de minister.<br /><br />
+
+### ART. 11.
+
+Wijzigingen van gemelde vormingsactiviteiten zijn alleen toegestaan als ze tijdig bij de bevoegde entiteit meegedeeld worden, degelijk gemotiveerd worden en de organisatie van controles ter plaatse niet bemoeilijken. Als door onvoorziene omstandigheden een activiteit verplaatst wordt, dan moeten ter plaatse de nodige aanwijzingen worden aangebracht om het de controleur van de bevoegde entiteit mogelijk te maken de nieuwe locatie te vinden.<br /><br />
+
+### ART. 12.
+
+Binnen vier maanden na afloop van de naschoolse vormingsactiviteiten, vermeld in artikel 4 van het besluit, en uiterlijk op 31 oktober van het werkjaar dat volgt op de aanvang van de vormingsactiviteit, dient het centrum een ondertekende en gedagtekende schuldvordering in bij de bevoegde entiteit. De postdatum of de afgiftedatum bij de bevoegde entiteit geldt als bewijs.<br>
+<br>
+De schuldvordering bevat dezelfde, geactualiseerde gegevens als de melding, vermeld in artikel 10, aangevuld met het door de bevoegde entiteit toegekende opleidingsnummer, vermeld in artikel 10.<br>
+<br>
+Het centrum voegt bij de schuldvordering van een vervolmakingdag als bijlage een lijst met de namen en de registratiecode van de deelnemers.<br>
+<br>
+Een model van de schuldvordering is terug te vinden op de website van de Vlaamse Overheid : http://www.vlaanderen.be.<br>
+&nbsp;
+
+### ART. 13.
+
+Van elke cursus houdt het centrum een administratieve map bij die bestaat uit een aantekenlijst van de lesgevers, een deelnemerslijst en een aanwezigheidslijst.<br /><br />De aantekenlijst van de lesgevers moet minstens de volgende gegevens bevatten :<br />1° de naam en het erkenningsnummer van het erkende centrum;<br />2° het thema en het opleidingsnummer van de cursus;<br />3° het adres waar de cursus plaatsvindt;<br />4° per les :<br />a) de datum, het begin- en het einduur;<br />b) het thema;<br />c) de naam en de handtekening van de lesgever;<br />d) eventuele opmerkingen over de les.<br /><br />Als de lesgever geen vergoeding wenst voor een gegeven les of als hij de vergoeding wil afstaan aan een derde, dan vermeldt hij dit bij de opmerkingen.<br />De deelnemerslijst moet minstens de volgende gegevens bevatten :<br />1° de naam en het erkenningsnummer van het erkende centrum;<br />2° het thema en het opleidingsnummer van de cursus;<br />3° het adres waar de cursus plaatsvindt;<br />4° een alfabetisch gerangschikte lijst van de deelnemers met de volgende gegevens :<br />a) de voornaam en de achternaam;<br />b) de woonplaats;<br />c) het beroep en de sector waarin de deelnemer actief is, met de vermelding of dat in hoofdberoep of in bijberoep is;<br />d) de geboortedatum;<br />e) het rijksregisternummer;<br />f) het ondernemingsnummer van het bedrijf waar de deelnemer een landbouwactiviteit uitoefent.<br /><br />De aanwezigheidslijst moet minstens de volgende gegevens bevatten :<br />1° de naam en het erkenningsnummer van het erkende centrum;<br />2° het thema en het opleidingsnummer van de cursus;<br />3° het adres waar de cursus plaatsvindt;<br />4° een alfabetisch gerangschikte lijst van de deelnemers;<br />5° per halve dag, avond of per lesgever, de vermelding of de deelnemer aanwezig (X), afwezig (O) of ziek (Z) was. De vermelding wordt per halve dag, avond of les door de lesgever geviseerd.<br /><br />De aanwezigheidslijst wordt voor het einde van het eerste lesuur ingevuld door de lesgever of een verantwoordelijke, aangewezen door het centrum.<br /><br />Tijdens de lestijden moet de administratieve map in het leslokaal aanwezig zijn.<br /><br />Het centrum stuurt na afloop van de cursus de aantekenlijst, de deelnemerslijst en de aanwezigheidslijst gedagtekend en door een verantwoordelijke van het centrum ondertekend naar de bevoegde entiteit, samen met de schuldvordering, vermeld in artikel 12.<br /><br />Een model van de aantekenlijst van de lesgevers, de deelnemerslijst en de aanwezigheidslijst zijn terug te vinden op de website van de Vlaamse Overheid : http://www.vlaanderen.be.<br /><br />
+
+### ART. 14.
+
+Na afloop van de korte vormingsactiviteiten en de vervolmakingsdagen, vermeld in artikel 4, 4° en 5°, van het besluit, stuurt het centrum, samen met de schuldvordering, een door de lesgever ondertekend en gedagtekend verslag met verzoek tot uitbetaling naar de bevoegde entiteit.<br /><br />Het verslag met het verzoek tot uitbetaling moet minstens de volgende gegevens bevatten :<br />1° de naam en het erkenningsnummer van het erkende centrum;<br />2° gegevens over de activiteit :<br />a) de datum, het begin- en het einduur; <br />b) het thema en het opleidingsnummer van de activiteit;<br />c) het adres waar de activiteit heeft plaatsgevonden;<br />d) de naam van de lokale organisator (als het erkende centrum de activiteit niet organiseert);<br />e) de naam van de plaatselijke verantwoordelijke;<br />f) het aantal deelnemers;<br />3° de naam, het adres, het rekeningnummer en het registratienummer van de lesgever als vermeld in artikel 30 van het besluit; <br />4° een verklaring op erewoord van de lesgever dat :<br />a) de opgave van het aantal deelnemers oprecht en volledig is en dat de activiteit heeft plaatsgevonden zoals in het verslag is vermeld;<br />b) als de organisator een algemeen of gewestelijk centrum is, hij voor de vergoeding een van de volgende mogelijkheden kiest :<br />1) hij wil dat de vergoeding gestort wordt op het vermelde rekeningnummer;<br />2) hij heeft voor de vormingsactiviteit een vergoeding ontvangen en hij vermeldt het ontvangen bedrag;<br />3) hij wil geen vergoeding voor deze vormingsactiviteit;<br />4) hij doet afstand van de vergoeding en vermeldt de naam van de begunstigde.<br /><br />Een model van het verslag met verzoek tot uitbetaling is terug te vinden op de website van de Vlaamse Overheid : http://www.vlaanderen.be.<br /><br />
+
+### ART. 15.
+
+Na afloop van een stage stuurt het centrum, samen met de schuldvordering, een aantekenlijst van de stagiair, een beknopt stageverslag en drie evaluatieverslagen, opgesteld door de stagiair, de stagemeester en de bedrijfsleider naar de bevoegde entiteit.<br /><br />De aantekenlijst van de stagiair moet minstens de volgende gegevens bevatten :<br />1° de naam en het erkenningsnummer van het centrum;<br />2° de naam en het adres van het stagebedrijf;<br />3° de naam van de stagiair;<br />4° het opleidingsnummer van de stage;<br />5° per stageactiviteit : <br />a) de datum; <br />b) het begin- en het einduur van de stageactiviteit;<br />c) de handtekening van de stagiair;<br />d) een beknopt overzicht van de werkzaamheden;<br />e) eventuele opmerkingen.<br /><br />De aantekenlijst van de stagiair moet tijdens de volledige duur van de stage in de bedrijfszetel van het stagebedrijf aanwezig zijn en ter inzage liggen van de ambtenaren van de bevoegde entiteit. De stagiair moet de aantekenlijst bij aankomst en vertrek invullen en ondertekenen. Als de stageactiviteit niet plaatsvindt in de bedrijfszetel zelf, dan wordt de werkelijke stageplaats bij de opmerkingen van die stageactiviteit vermeld. Een model van de aantekenlijst van de stagiair is terug te vinden op de website van de Vlaamse Overheid : http://www.vlaanderen.be.<br /><br />De evaluatieverslagen, opgesteld door de stagiair, de stagebegeleider en de bedrijfsleider moeten minstens de volgende gegevens bevatten :<br />1° de naam en het erkenningnummer van het erkende centrum;<br />2° de naam van het stagebedrijf;<br />3° de naam van de stagiair;<br />4° de naam van de stagebegeleider;<br />5° de begin- en einddatum van de stage;<br />6° het opleidingsnummer van de stage;<br />7° een evaluatie van de stage.<br /><br />Het beknopte stageverslag wordt opgesteld door de stagiair en moet minstens de volgende gegevens bevatten :<br />1° de naam en het erkenningsnummer van het centrum;<br />2° de naam van het stagebedrijf;<br />3° de naam van de stagiair;<br />4° het opleidingsnummer van de stage;<br />5° gegevens over het stagebedrijf :<br />a) een overzicht van de aanwezige teelten, met vermelding van de oppervlakte;<br />b) een overzicht van de aanwezige veestapel, met het gemiddelde aantal aanwezige dieren per jaar;<br />c) een raming van de inkomsten, de uitgaven en het arbeidsinkomen van het bedrijf;<br />6° een beknopt overzicht van de uitgevoerde taken tijdens de stage.<br /><br />Een model van de aantekenlijst van de stagiair, de evaluatieverslagen en het beknopte stageverslag zijn terug te vinden op de website van de Vlaamse Overheid : http://www.vlaanderen.be.<br /><br />
+
+### ART. 16.
+
+Als de subsidieaanvragen ingediend worden via de informaticatoepassing van de bevoegde entiteit, dan worden de door de toepassing gegenereerde documenten gebruikt. De schuldvordering, vermeld in artikel 12, en de documenten, vermeld in artikel 13, 14 en 15, moeten wel nog binnen de termijn, vermeld in artikel 12, op papier naar de bevoegde entiteit opgestuurd worden. <br /><br />De centra die de digitale aanvragen indienen in XML-formaat mogen, mits de bevoegde entiteit daartoe voorafgaandelijk akkoord verleent, een gezamenlijke, gedagtekende en ondertekende schuldvordering indienen die de schuldvordering, vermeld in artikel 12, vervangt. In dat geval geldt de vorderingsdatum die door de informaticatoepassing voor de individuele opleiding gegenereerd wordt als indieningsdatum van de schuldvordering en moeten enkel de documenten, vermeld in artikel 13, 14 en 15 binnen de termijn, vermeld in artikel 12, op papier naar de bevoegde entiteit opgestuurd worden.<br /><br />
+
+### ART. 17.
+
+Tijdens elke vormingsactiviteit moet een algemene verantwoordelijke ter plaatse zijn of telefonisch te bereiken zijn.<br /><br />
+
+### ART. 18.
+
+De getuigschriften, vermeld in artikel 19 van het besluit, en het installatieattest, vermeld in artikel 20 van het besluit, moeten worden opgesteld overeenkomstig de modellen die als bijlage IV, V, VI en VII bij dit ministerieel besluit gevoegd zijn.<br /><br />
+
+### ART. 19.
+
+Om te mogen deelnemen aan de installatieproeven, vermeld in artikel 20 van het besluit, moeten de cursisten, afhankelijk van het al behaalde opleidingsniveau, de naschoolse vormingsactiviteiten volgen, vermeld in bijlage VIII, die bij dit ministerieel besluit is gevoegd.<br /><br />De cursisten moeten zich aanbieden voor een gemeenschappelijk examen van de verschillende centra per provincie. Dat examen is een gemeenschappelijk openboekexamen over de algemene starterscursus, in aanwezigheid van een jury en eventueel waarnemers van de erkende algemene centra, gevolgd door een socio-economische voorstelling van een bedrijf voor dezelfde jury en waarnemers van de erkende algemene centra. De bevoegde entiteit bepaalt de plaats en het tijdstip van het examen. Het examen wordt georganiseerd per provincie, afhankelijk van de behoeften.<br /><br />De cursisten die alleen een starterscursus type A als bijscholing hoeven te volgen, hoeven alleen het gemeenschappelijke openboekexamen over de starterscursus type A af te leggen. De cursisten die geslaagd zijn voor het openboekexamen, zijn ervan vrijgesteld bij een eventuele herkansing.<br /><br />
+
+### ART. 20.
+
+Een vereniging die een erkenning als centrum wil aanvragen, stuurt een aanvraag tot erkenning als centrum voor landbouwvorming naar de bevoegde entiteit. <br /><br />De aanvraag tot erkenning moet minstens de volgende gegevens bevatten :<br />1° het type centrum waarvoor de erkenning aangevraagd wordt;<br />2° de naam van het centrum;<br />3° het juridisch statuut;<br />4° het KBO-nummer;<br />5° het adres van de maatschappelijke zetel;<br />6° het rekeningnummer;<br />7° de naam en de functie van de verantwoordelijke;<br />8° het adres en het telefoonnummer van de verantwoordelijke;<br />9° een lijst van de provincies waar de vormingsactiviteiten zullen plaatsvinden;<br />10° een korte beschrijving van de aard van de geplande activiteiten;<br />11° een verbintenis dat het centrum de administratieve en financiële controle van de diensten van de Vlaamse overheid aanvaardt, dat het geen winstgevende doeleinden nastreeft en dat het de georganiseerd scholingsactiviteiten toegankelijk zal maken voor alle personen die landbouwactiviteiten uitvoeren.<br /><br />Een model van de aanvraag tot erkenning is terug te vinden op de website van de Vlaamse Overheid : http://www.vlaanderen.be.<br /><br />De vereniging stuurt de aanvraag tot erkenning gedagtekend en ondertekend naar de bevoegde entiteit. Bij de aanvraag moet een kopie van de statuten van de vereniging worden gevoegd, evenals alle andere stukken die aantonen dat de vereniging aan de erkenningsvoorwaarden voldoet.<br /><br />
+
+### ART. 21.
+
+De lesgever die zich bij de afdeling wil laten registreren, stuurt het curriculum, vermeld in artikel 30 van het besluit, naar de bevoegde entiteit in de vorm van een gedateerd en ondertekend inlichtingenblad dat minstens de volgende gegevens moet bevatten : <br />1° de voornamen en de achternamen;<br />2° het adres;<br />3° de geboorteplaats en -datum;<br />4° het rijksregisternummer;<br />5° een overzicht van voor het geven van de opleiding relevante diploma's, getuigschriften of ervaring;<br />6° een omschrijving van de specialiteiten waarover hij wil lesgeven.<br /><br />Een model van het inlichtingenblad van de lesgever is terug te vinden op de website van de Vlaamse Overheid : http://www.vlaanderen.be.<br /><br />
+
+### ART. 22.
+
+De aanvrager van een premie voor sociale promotie, vermeld in artikel 43 van het besluit, dient bij de bevoegde entiteit een ondertekende en gedagtekende aanvraag in. De aanvraag moet minstens de volgende gegevens bevatten :<br />1° de persoonlijke gegevens van de aanvrager :<br />a) de voornaam en de achternaam;<br />b) het adres en het telefoonnummer;<br />c) de geboortedatum;<br />d) het sociaal statuut van de aanvrager (vennoot, zelfstandig helper, meewerkend gezinslid, werknemer of ander statuut); <br />e) een verklaring dat de aanvrager al dan niet landbouwactiviteiten uitvoert;<br />2° als de aanvrager een zelfstandige bedrijfsleider is van een landbouwbedrijf, het producentnummer van het landbouwbedrijf;<br />3° het ondernemingsnummer van het bedrijf;<br />4° het rekeningnummer waarop de premie gestort mag worden;<br />5° een lijst van de gevolgde opleidingen met vermelding van begin- en einddatum, aard van de opleiding, opleidingsnummer en het gevolgde aantal lesuren en stagedagen;<br />6° een verbintenis dat de aanvrager voor het volgen van de opgesomde opleidingen geen aanspraak zal maken op andere vergoedingen;<br />7° een verklaring dat alle gegevens in de aanvraag naar waarheid ingevuld zijn. <br /><br />Een model van de aanvraag van een premie voor sociale promotie is terug te vinden op de website van de Vlaamse Overheid : http://www.vlaanderen.be. <br /><br />De aanvrager voegt bij de aanvraag een kopie van de getuigschriften van de gevolgde opleidingen waarvoor hij de premie vraagt.<br /><br />
+
+### ART. 23.
+
+Het ministerieel besluit van 12 juli 2004 betreffende de toekenning van subsidies voor naschoolse opleidingsinitiatieven in de landbouwsector wordt opgeheven.<br /><br />
+
+### ART. 24.
+
+Het ministerieel besluit van 12 juli 2004 betreffende de toekenning van subsidies voor naschoolse opleidingsinitiatieven in de landbouwsector blijft van toepassing op de subsidieaanvragen die hangende zijn op het moment dat dit besluit in werking treedt en die betrekking hebben op opleidingen die gestart zijn voor de datum van inwerkingtreding van dit besluit.<br /><br />
+
+### BIJLAGE I.
+
+1° Doel en situering van de algemene en bijzondere starterscursussen, de stages en de installatieproef<br />2° Betreffende algemene wetgeving :<br />a) ruimtelijke ordening en structuurplannen,<br />b) Mestdecreet,<br />c) milieuvergunningenbeleid en watervergunning,<br />d) EU-landbouwbeleid,<br />e) beheersovereenkomsten, <br />f) biologische landbouw,<br />g) code goede landbouwpraktijken,<br />h) enz. (evolutie).<br />3° Bedrijfsovername :<br />a) belangrijke facetten bij overname, overnamecontract,<br />b) VLIF.-ondernemerschap,<br />c) financieringsmogelijkheden bij starten + oefeningen,<br />d) uitbatingsvormen, vennootschappen,<br />e) schadeberekening in land- en tuinbouw,<br />f) pachtwetgeving, grondbeleid en onteigeningen,<br />g) erfdienstbaarheden,<br />h) huwelijksvermogensrecht en erfrecht,<br />i) verzekeringen, schadeberekening en aansprakelijkheid<br />4° Sociale, familiale en ethische aspecten :<br />a) sociaal statuut zelfstandigen, sociale zekerheid,<br />b) (tijdelijke) tewerkstelling van (vreemde) werknemers,<br />c) relatie gezin - bedrijf<br />5° Structuren in land- en tuinbouw :<br />a) diensten en instellingen voor de landbouw,<br />b) Landbouw op provinciaal, regionaal, federaal, Europees en mondiaal vlak<br />6° Fiscaliteit :<br />a) belastingaangifte : boekhouding en forfaitair,<br />b) btw- regeling.<br />7° Boekhouding<br />a) theorie,<br />b) praktijk,<br />c) bedrijfseconomische boekhouding,<br />d) rentabiliteit in :<br />1) land- en tuinbouw,<br />2) rundveehouderij,<br />3) varkenshouderij,<br />4) pluimvee en kleinvee,<br />5) fruitteelt,<br />6) groenteteelt,<br />7) sierteelt<br />8° Informatica : toepassingsmogelijkheden voor land- en tuinbouw<br /><br />
+
+### BIJLAGE II.
+
+1° Economische en sociale benadering van de bedrijfstak :<br />a) rentabiliteit, kostprijsberekening,<br />b) boekhouding,<br />c) naargelang van de bedrijfstak :<br />d) specifieke belastingsstelsels,<br />e) specifiek personeelsbeleid,<br />f) gebruik van kwaliteitslabels en etikettering<br />2° Administratieve verplichtingen voor de specifieke bedrijfstak.<br />3° Milieuaspecten voor specifieke bedrijfstak :<br />a) naargelang van de bedrijfstak :<br />b) geïntegreerde productie,<br />c) duurzame productie,<br />d) mineralenbalans,<br />e) beperking gebruik van gewasbeschermingsmiddelen,<br />f) afstellen van meststofstrooiers en spuittoestellen,<br />g) sanitair aspect<br />4° Socio-economische voorstelling van een bedrijf<br />5° Bedrijfsbezoeken (voor zover geen sanitaire beperkingen)<br />6° Technische aspecten (teelttechniek, voeding, mechanisatie) : deze aspecten mogen niet meer dan de helft van de uren van de cursus in beslag nemen.<br /><br />
+
+### BIJLAGE III.
+
+1° Land- en tuinbouwgerichte vormingscursussen :<br />a) theoretische cursussen<br />bijvoorbeeld economie, bedrijfsleiding, teelttechniek, milieuproblematiek,<br />b) praktijkgerichte cursussen<br />bijvoorbeeld huisvesting, mechanisatie (inclusief lassen), teelttechniek, veeteelt (inclusief kunstmatige inseminatie en rundveepedicure), gebruik van landbouwspecifieke software<br />2° Cursussen, minder verband houdend met de landbouwsector :<br />a) bijenteelt,<br />b) bloemschikken,<br />c) tuinaanleg en -onderhoud,<br />d) paarden mennen<br />e...<br />3° Cursussen, bestemd voor werknemers van groendiensten van openbare besturen<br />4° Niet specifiek land- en tuinbouwgerichte cursussen :<br />a) metselen, houtbewerking,<br />b) algemene computercursussen<br />c...<br /><br />
+
+### BIJLAGE IV.
+
+<table border="1" cellpadding="0" cellspacing="0" style="border-collapse:collapse">
+	<tbody>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:460.6pt">
+			<p>VLAAMSE OVERHEID<!--?xml:namespace prefix = o ns =         "urn:schemas-microsoft-com:office:office" /--></p>
+
+			<p>&nbsp;</p>
+
+			<p>Besluit van de Vlaamse Regering van 4 juni 2004</p>
+
+			<p>Naschoolse opleidingsinitiatieven in de landbouwsector</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:460.6pt">
+			<p>Naam van het centrum</p>
+
+			<p>Adres</p>
+
+			<p>Erkenningsnummer</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:460.6pt">
+			<p>GETUIGSCHRIFT</p>
+
+			<p>&nbsp;</p>
+
+			<p>De ondergetekenden, belast met het afnemen van de cursustest van de leerlingen die een vormingscursus gevolgd hebben over …</p>
+
+			<p>Die plaatsvond van … tot … in …,</p>
+
+			<p>Van … lesuren en goedgekeurd onder het nummer …,</p>
+
+			<p>Verklaren dat …, geboren in … op …,</p>
+
+			<p>Met als woonplaats …,</p>
+
+			<p>Met vrucht de cursustest heeft afgelegd.</p>
+
+			<p>Geldig/Niet geldig voor sociale promotie voor … uren</p>
+
+			<p>Afgeleverd in … op …</p>
+
+			<p>Namens de Vlaamse minster,</p>
+
+			<p>De organisator van de cursus,</p>
+
+			<p>De leden van de jury,</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+
+### BIJLAGE V.
+
+<table border="1" cellpadding="0" cellspacing="0" style="border-collapse:collapse">
+	<tbody>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:460.6pt">
+			<p>VLAAMSE OVERHEID<!--?xml:namespace prefix = o ns =         "urn:schemas-microsoft-com:office:office" /--></p>
+
+			<p>&nbsp;</p>
+
+			<p>Besluit van de Vlaamse Regering van 4 juni 2004</p>
+
+			<p>Naschoolse opleidingsinitiatieven in de landbouwsector</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:460.6pt">
+			<p>Naam van het centrum</p>
+
+			<p>Adres</p>
+
+			<p>Erkenningsnummer</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:460.6pt">
+			<p>GETUIGSCHRIFT</p>
+
+			<p>&nbsp;</p>
+
+			<p>De ondergetekenden, belast met het opvolgen van de stagiair die een stage gevolgd heeft over …</p>
+
+			<p>Die plaatsvond van … tot … in het bedrijf … gelegen</p>
+
+			<p>Van … stagedagen en goedgekeurd onder het nummer …,</p>
+
+			<p>Verklaren dat …, geboren in … op …,</p>
+
+			<p>Met als woonplaats …,</p>
+
+			<p>Met vrucht de stage heeft afgelegd.</p>
+
+			<p>Geldig/Niet geldig voor sociale promotie</p>
+
+			<p>Afgeleverd in … op …</p>
+
+			<p>Namens de Vlaamse minster,</p>
+
+			<p>De organisator van de stage,</p>
+
+			<p>De stagebegeleider(s),</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+
+### BIJLAGE VI.
+
+<table border="1" cellpadding="0" cellspacing="0" style="border-collapse:collapse">
+	<tbody>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:460.6pt">
+			<p>VLAAMSE OVERHEID<!--?xml:namespace prefix = o ns =         "urn:schemas-microsoft-com:office:office" /--></p>
+
+			<p>&nbsp;</p>
+
+			<p>Besluit van de Vlaamse Regering van 4 juni 2004</p>
+
+			<p>Naschoolse opleidingsinitiatieven in de landbouwsector</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:460.6pt">
+			<p>INSTALLATIEATTEST</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:460.6pt">
+			<p>GETUIGSCHRIFT</p>
+
+			<p>&nbsp;</p>
+
+			<p>De ondergetekenden, verklaren dat …,</p>
+
+			<p>Geboren in … op …,</p>
+
+			<p>Met als woonplaats …,</p>
+
+			<p>Met vrucht een cursus type … heeft afgelegd van … tot … van … uren</p>
+
+			<p>Die plaats vond in …</p>
+
+			<p>Ten blijke waarvan dit installatieattest, noodzakelijk voor het bekomen van de VLIF-toelagen, werd uitgereikt</p>
+
+			<p>Geldig/Niet geldig voor sociale promotie</p>
+
+			<p>Afgeleverd in … op …</p>
+
+			<p>Namens de Vlaamse minster,</p>
+
+			<p>De organisator van de cursus,</p>
+
+			<p>De leden van de jury,</p>
+
+			<p>&nbsp;</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+
+### BIJLAGE VII.
+
+<table border="1" cellpadding="0" cellspacing="0" style="border-collapse:collapse">
+	<tbody>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:460.6pt">
+			<p>VLAAMSE OVERHEID<!--?xml:namespace prefix = o ns =         "urn:schemas-microsoft-com:office:office" /--></p>
+
+			<p>&nbsp;</p>
+
+			<p>Besluit van de Vlaamse Regering van 4 juni 2004</p>
+
+			<p>Naschoolse opleidingsinitiatieven in de landbouwsector</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:460.6pt">
+			<p>INSTALLATIEATTEST</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:460.6pt">
+			<p>&nbsp;</p>
+
+			<p>De ondergetekenden,</p>
+
+			<p>belast met het afnemen van de proeven om een installatieattest te verkrijgen,</p>
+
+			<p>Die plaatsvond te … op …,</p>
+
+			<p>Met als woonplaats …,</p>
+
+			<p>Met vrucht de proeven heeft afgelegd.</p>
+
+			<p>&nbsp;</p>
+
+			<p>Afgeleverd in … op …</p>
+
+			<p>Namens de Vlaamse minster,</p>
+
+			<p>De voorzitter</p>
+
+			<p>De leden van de jury,</p>
+
+			<p>&nbsp;</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+
+### BIJLAGE VIII.
+
+<table border="1" cellpadding="0" cellspacing="0" style="border-collapse:collapse">
+	<tbody>
+		<tr>
+			<td colspan="3" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:460.6pt">
+			<p>Vereiste vormingsactiviteiten om een installatieattest te verkrijgen<!--?xml:namespace         prefix = o ns = "urn:schemas-microsoft-com:office:office"         /--></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:179.6pt">
+			<p>Voorwaarde:</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:99pt">
+			<p>Bijscholing gestart voor 1 juli 1996</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:182pt">
+			<p>Bijscholing gestart na 1 juli 1996</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:179.6pt">
+			<p>1. Getuigschrift of diploma van land- of tuinbouwgericht onderwijs:</p>
+
+			<p>- lager secundair onderwijs</p>
+
+			<p>&nbsp;</p>
+
+			<p>- 2<sup>de</sup> graad secundair onderwijs</p>
+
+			<p>&nbsp;</p>
+
+			<p>- 4 jaar secundair beroepsonderwijs + kwalificatiejaar</p>
+
+			<p>&nbsp;</p>
+
+			<p>2. Getuigschrift of diploma van niet-land- of tuinbouwgericht onderwijs of geen getuigschrift of diploma</p>
+
+			<p>&nbsp;</p>
+
+			<p>3. Minstens vijf jaar werkzaam op een landbouwbedrijf onder het statuut van meewerkende echtgenoot</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:99pt">
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>B-cursus</p>
+
+			<p>&nbsp;</p>
+
+			<p>B-cursus</p>
+
+			<p>&nbsp;</p>
+
+			<p>B-cursus</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>B-cursus</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>B-cursus</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:182pt">
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>Starterscursus type A + B + installatieproef</p>
+
+			<p>Starterscursus type A + B + installatieproef</p>
+
+			<p>Starterscursus type A +&nbsp; installatieproef</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>Starterscursus type A + B + stage + installatieproef</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>Starterscursus type A + B + installatieproef</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p>De totaalduur van de gevolgde stages is minstens twintig stagedagen.<br>
+<br>
+Voor de opleidingen die gestart zijn tussen 1 juli 1996 en 1 januari 2005 zijn een B1- en een B3-cursus gelijkwaardig met respectievelijk een starterscursus type A en een starterscursus type B.<br>
+<br>
+Het statuut van meewerkende echtgenoot wordt aangetoond met een verklaring van de sociale kas waarbij hij is aangesloten. Het statuut van voor 1 maart 2003 mag eveneens aangetoond worden door fiscale bewijsstukken voor te leggen.<br>
+&nbsp;</p>
