@@ -1,0 +1,17 @@
+{
+  "codex_id": 1016415,
+  "title": "Omzendbrief van 2007-12-01 LNE/2007. - Milieueffectbeoordeling van plannen en programma's",
+  "type": "Omzendbrief",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1016415/VolledigDocument?datum=2007-12-27",
+  "source_sha256": "0737a6f13f552eda79ee98432655b3428c7fd7033405d620a8cc3782a277a4fa",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1016415&param=informatie",
+  "as_of": "2007-12-27",
+  "made": "2007-12-01",
+  "gazette": "2007-12-17",
+  "numac": 2007037205,
+  "document_start": "2007-12-27",
+  "document_end": null,
+  "in_force": "2007-12-27",
+  "article_versions": 8,
+  "record_form": "consolidated version as in force on 2007-12-27; oldest version available; future article versions excluded; article text as the API gives it"
+}
