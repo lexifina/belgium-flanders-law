@@ -1,0 +1,17 @@
+{
+  "codex_id": 1016414,
+  "title": "Decreet van 2007-11-23 houdende instemming met het samenwerkingsakkoord tussen de regering van de Republiek Kroatië en de Vlaamse Regering, ondertekend in Zagreb op 13 november 2006",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1016414/VolledigDocument?datum=2007-12-27",
+  "source_sha256": "74bc4145afcddd32f21f19ac6cad1e742ebd8e66a08976ea0bff73eee96f45d1",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1016414&param=informatie",
+  "as_of": "2007-12-27",
+  "made": "2007-11-23",
+  "gazette": "2007-12-17",
+  "numac": 2007037178,
+  "document_start": "2007-12-27",
+  "document_end": null,
+  "in_force": "2007-12-27",
+  "article_versions": 2,
+  "record_form": "consolidated version as in force on 2007-12-27; oldest version available; future article versions excluded; article text as the API gives it"
+}
