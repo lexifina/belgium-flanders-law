@@ -1,0 +1,17 @@
+{
+  "codex_id": 1016417,
+  "title": "Besluit van de Vlaamse Regering van 2007-11-30 tot wijziging van het besluit van de Vlaamse Regering van 4 februari 1997 betreffende de verplichte bijdragen bestemd voor de promotie en afzetbevordering van de Vlaamse producten van de sectoren landbouw, tuinbouw en visserij",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1016417/VolledigDocument?datum=2007-12-28",
+  "source_sha256": "198079409051dc57bb73aad6bee16229ee75bce971ea4d2921ff85c90e3fabd2",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1016417&param=informatie",
+  "as_of": "2007-12-28",
+  "made": "2007-11-30",
+  "gazette": "2007-12-18",
+  "numac": 2007037214,
+  "document_start": "2007-12-28",
+  "document_end": null,
+  "in_force": "2007-12-28",
+  "article_versions": 12,
+  "record_form": "consolidated version as in force on 2007-12-28; oldest version available; future article versions excluded; article text as the API gives it"
+}
