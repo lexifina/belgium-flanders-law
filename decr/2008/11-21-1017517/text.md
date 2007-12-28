@@ -102,4 +102,8 @@ In artikel VI.9.9., § 1, van het decreet van 19 maart 2004 betreffende de recht
 
 ## HOOFDSTUK XXIV Landbouw
 
+### ART. 85.
+
+Bekrachtigd wordt met ingang van de dag van inwerkingtreding het besluit van de Vlaamse Regering van 30 november 2007 tot wijziging van het besluit van de Vlaamse Regering van 4 februari 1997 betreffende de verplichte bijdragen, bestemd voor de promotie en afzetbevordering van de Vlaamse producten van de sectoren landbouw, tuinbouw en visserij.<br /><br />
+
 ## HOOFDSTUK XXV Slotbepalingen
