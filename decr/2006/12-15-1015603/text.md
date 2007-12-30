@@ -474,21 +474,21 @@ Voor de basisallocatie 12.01 van het programma 64 4 wordt het krediet verhoogd m
 
 ### ART. 22.
 
-De op het begrotingsjaar 2001 door de Diensten met Afzonderlijk Beheer, met uitsluiting van het Minafonds, vastgestelde rechten bedragen, overeenkomstig de bijgaande tabel E, kolom 3, de som van BEF 34.502.205.927.<br /><br />
+De op het begrotingsjaar 2001 door de Diensten met Afzonderlijk Beheer vastgestelde rechten bedragen, overeenkomstig de bijgaande tabel I, kolom 3, de som van BEF 67.599.912.125.<br />
 
 ### ART. 23.
 
-De op hetzelfde begrotingsjaar 2001, met uitsluiting van het Minafonds, aangerekende ontvangsten, worden overeenkomstig de bijgaande tabel E, kolom 4, vastgesteld op BEF 32.425.393.985.<br /><br />
+De op hetzelfde begrotingsjaar 2001 aangerekende ontvangsten worden, overeenkomstig de bijgaande tabel I, kolom 4, vastgesteld op BEF 57.496.770.824.
 
 ### ART. 24.
 
-De vastgestelde rechten nog te innen bij afsluiting van het begrotingsjaar 2001 door de Diensten met Afzonderlijk Beheer, met uitsluiting van het Minafonds, bedragen, BEF 2.076.811.942. (tabel E, kolom 5)<br /><br />Deze som is als volgt samengesteld :<br />a) geannuleerde of in onbepaald uitstel gebrachte rechten : BEF 1.011.155.017<br />b) naar het volgende begrotingsjaar overgedragen rechten : BEF 1.065.656.925<br />(tabel E, kolom 6 en 7).<br /><br />
+De vastgestelde rechten nog te innen bij afsluiting van het begrotingsjaar 2001 door de Diensten met Afzonderlijk Beheer, bedragen BEF 10.103.141.301. (tabel I, kolom 5)<br /><br />Deze som is als volgt samengesteld :<br />a) geannuleerde of in onbepaald uitstel gebrachte rechten : BEF 2.157.296.385<br />b) naar het volgende begrotingsjaar overgedragen rechten : BEF 7.945.844.916<br />(tabel I, kolom 6 en 7).<br />
 
 ## Afdeling 2 Vaststelling van de vastleggingen
 
 ### ART. 25.
 
-De vastleggingen van uitgaven ten laste van de vastleggingskredieten van het begrotingsjaar 2001, met uitsluiting van het Minafonds, bedragen, overeenkomstig de bijgaande tabel F, kolom 6, de som van BEF 24.950.881.968.<br /><br />
+De vastleggingen van uitgaven ten laste van de vastleggingskredieten van het begrotingsjaar 2001 bedragen, overeenkomstig de bijgaande tabel J, kolom 6, de som van BEF 53.038.127.906.<br />
 
 ## Afdeling 3 Vaststelling van de vastleggingskredieten
 
@@ -498,17 +498,17 @@ De vastleggingskredieten beschikbaar gesteld aan en omgedeeld door het Vlaams Pa
 
 ### ART. 27.
 
-Het bedrag van de voor het begrotingsjaar 2001 beschikbaar gestelde omgedeelde vastleggingskredieten wordt als volgt verminderd :<br />I. De vastleggingskredieten die naar het volgende begrotingsjaar worden overgedragen bij toepassing van :<br />- artikel 90 van het decreet van 21 december 2001 houdende de algemene uitgavenbegroting voor het begrotingsjaar 2002 : BEF P.M.<br />II. De beschikbaar gebleven vastleggingskredieten die worden geannuleerd, bij toepassing van de artikelen 34 en 35 van de wetten op de Rijkscomptabiliteit, gecoördineerd op 17 juli 1991 : BEF 1.446.311.343 (tabel F, kolommen 9 en 10).<br /><br />
+Het bedrag van de voor het begrotingsjaar 2001 beschikbaar gestelde omgedeelde vastleggingskredieten wordt als volgt verminderd :<br />I. De vastleggingskredieten die naar het volgende begrotingsjaar worden overgedragen bij toepassing van artikel 90 van het decreet van 21 december 2001 houdende de algemene uitgavenbegroting voor het begrotingsjaar 2002 : BEF 0<br />II. De beschikbaar gebleven vastleggingskredieten die worden geannuleerd, bij toepassing van de artikelen 34 en 35 van de wetten op de Rijkscomptabiliteit, gecoördineerd op 17 juli 1991 : BEF 1.558.848.264 <br />(tabel J, kolommen 9 en 10).
 
 ### ART. 28.
 
-Ingevolge de bepalingen vervat in de bovenstaande artikelen 26 en 27, worden de definitieve, omgedeelde vastleggingskredieten voor het begrotingsjaar 2001, met uitsluiting van het Minafonds, vastgesteld op BEF 24.950.881.968; som die gelijk is aan de ten laste van het begrotingsjaar 2001 geboekte vastleggingen (tabel F, kolommen 6 en 11).<br /><br />
+De definitieve, omgedeelde vastleggingskredieten voor het begrotingsjaar 2001 worden vastgesteld op BEF 53.038.127.906; som die gelijk is aan de ten laste van het begrotingsjaar 2001 geboekte vastleggingen (tabel J, kolommen 6 en 11).<br />
 
 ## Afdeling 4 Vaststelling van de uitgaven
 
 ### ART. 29.
 
-De tijdens het begrotingsjaar 2001 aangerekende ordonnanceringen, met uitsluiting van het Minafonds, worden als volgt vastgesteld :<br />- ten laste van de niet-gesplitste kredieten : BEF 5.216.513.450<br />- ten laste van de ordonnanceringskredieten : BEF 19.887.536.425 (tabel G, kolom 7).<br /><br />
+De tijdens het begrotingsjaar 2001 aangerekende ordonnanceringen worden als volgt vastgesteld :<br />- ten laste van de niet-gesplitste kredieten : BEF 5.216.513.450<br />- ten laste van de ordonnanceringskredieten : BEF 45.897.145.875<br />(tabel K, kolom 7)<br />
 
 ## Afdeling 5 Vaststelling van de betalingskredieten
 
@@ -518,7 +518,7 @@ De betalingskredieten beschikbaar gesteld aan en omgedeeld door het Vlaams Parle
 
 ### ART. 31.
 
-Het bedrag van de voor het begrotingsjaar 2001 beschikbaar gestelde omgedeelde betalingskredieten, met uitsluiting van het Minafonds, wordt als volgt verminderd :<br />I. De betalingskredieten die naar het volgende begrotingsjaar worden overgedragen bij toepassing van speciale decreetsbepalingen :<br />- niet-gesplitste kredieten : BEF 287.674.700<br />- ordonnanceringskredieten : BEF P.M.<br />II. De beschikbaar gebleven betalingskredieten die worden geannuleerd bedragen voor de :<br />- niet-gesplitste kredieten : BEF 2.184.259.341<br />- ordonnanceringskredieten : BEF 28.657.060.862 (tabel G, kolommen 11 en 12).<br /><br />
+Het bedrag van de voor het begrotingsjaar 2001 beschikbaar gestelde omgedeelde betalingskredieten wordt als volgt verminderd :<br />I. De betalingskredieten die naar het volgende begrotingsjaar worden overgedragen bij toepassing van speciale decreetsbepalingen :<br />- niet-gesplitste kredieten : BEF 287.674.700<br />- ordonnanceringskredieten : BEF 0<br />II. De beschikbaar gebleven betalingskredieten die worden geannuleerd bedragen voor de :<br />- niet-gesplitste kredieten : BEF 2.184.259.341<br />- ordonnanceringskredieten : BEF 49.775.570.979<br />(tabel K, kolommen 11 en 12).<br />
 
 ### ART. 32.
 
@@ -526,7 +526,7 @@ Er worden geen aanvullende kredieten toegekend voor het begrotingsjaar 2001. (ta
 
 ### ART. 33.
 
-Ingevolge de bepalingen vervat in de bovenstaande artikelen 30, 31 en 32, worden de definitieve kredieten voor het begrotingsjaar 2001, met uitsluiting van het Minafonds, als volgt vastgesteld :<br />- niet-gesplitste kredieten : BEF 5.216.513.450<br />- ordonnanceringskredieten : BEF 19.887.536.425<br /><br />Die sommen zijn gelijk aan de ordonnanceringen aangerekend ten laste van de begroting 2001, overeenkomstig tabel G kolommen 7 en 13.<br /><br />
+De definitieve kredieten voor het begrotingsjaar 2001 worden als volgt vastgesteld :<br />- niet-gesplitste kredieten : BEF 5.216.513.450<br />- ordonnanceringskredieten : BEF 45.897.145.875<br /><br />Die sommen zijn gelijk aan de ordonnanceringen aangerekend ten laste van de begroting 2001, overeenkomstig tabel K kolommen 7 en 13.
 
 ## HOOFDSTUK IV Vastleggingen gedaan in uitvoering van het begrotingsdecreet
 

@@ -2,16 +2,16 @@
   "codex_id": 1015603,
   "title": "Decreet van 2006-12-15 houdende de eindregeling van de begroting van de Vlaamse Gemeenschap en van instellingen van openbaar nut voor het begrotingsjaar 2001",
   "type": "Decreet",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1015603/VolledigDocument?datum=2007-03-15",
-  "source_sha256": "a45867b04e5a85a519846f383ab8f9799be31dd00d22b15345f45d4361e6c8ed",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1015603/VolledigDocument?datum=2007-12-30",
+  "source_sha256": "6ab6694b0d8e1c6b48d7f0c584ea2f5d161abc8fced5ac32187e8861d740194e",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1015603&param=informatie",
-  "as_of": "2007-03-15",
+  "as_of": "2007-12-30",
   "made": "2006-12-15",
   "gazette": "2007-03-05",
   "numac": 2007035260,
   "document_start": "2007-03-15",
   "document_end": null,
-  "in_force": "2007-03-15",
+  "in_force": "2007-12-30",
   "article_versions": 59,
-  "record_form": "consolidated version as in force on 2007-03-15; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2007-12-30; future article versions excluded; article text as the API gives it"
 }
