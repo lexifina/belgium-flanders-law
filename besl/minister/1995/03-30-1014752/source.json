@@ -2,16 +2,16 @@
   "codex_id": 1014752,
   "title": "Ministerieel besluit van 1995-03-30 houdende de invoering van een steunregeling voor agrarische bedrijfshoofden die zich ertoe verbinden om biologische teeltmethoden in te voeren of verder toe te passen",
   "type": "Ministerieel besluit",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1014752/VolledigDocument?datum=2006-06-01",
-  "source_sha256": "f810e309f632eb4e7caecb6377a7dcee65750650003d5cbf808f629d0080026c",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1014752/VolledigDocument?datum=2007-12-31",
+  "source_sha256": "4c416b897edf8b1e1feb8bd26d61f7cfc490f6b8bd6e819501fdd7e119c5172e",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1014752&param=informatie",
-  "as_of": "2006-06-01",
+  "as_of": "2007-12-31",
   "made": "1995-03-30",
   "gazette": "1995-05-03",
   "numac": 0,
   "document_start": "1995-05-03",
   "document_end": "2007-12-30",
-  "in_force": "2006-06-01",
+  "in_force": "2007-12-31",
   "article_versions": 16,
-  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2007-12-31; future article versions excluded; article text as the API gives it"
 }
