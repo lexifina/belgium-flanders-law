@@ -62,6 +62,10 @@
 
 ## HOODFSTUK V OVERGANGSBEPALINGEN
 
+### ART. 14.
+
+(niet opgenomen)<br /><br />(Heft het ministerieel besluit van 30 maart 1995 houdende de invoering van een steunregeling voor agrarische bedrijfshoofden die zich ertoe verbinden om de biologische teeltmethoden in te voeren of verder toe te passen op met ingang van 31 december 2007 voor het Vlaamse Gewest)
+
 ### ART. 15.
 
 ...
