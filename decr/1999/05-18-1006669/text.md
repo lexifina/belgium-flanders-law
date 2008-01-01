@@ -130,7 +130,7 @@ Het besluit houdende definitieve vaststelling van het ruimtelijk structuurplan V
 
 ### ART. 23.
 
-De Vlaamse regering kan gewestelijke ruimtelijke uitvoeringsplannen opmaken en herzien en andere passende initiatieven nemen ter uitvoering van het ruimtelijk structuurplan Vlaanderen.<br /><br />De Vlaamse regering kan tevens optreden in de plaats van de provincies of de gemeenten indien ze de krachtens het ruimtelijk structuurplan Vlaanderen opgedragen taken niet uitvoeren.
+De Vlaamse regering kan gewestelijke ruimtelijke uitvoeringsplannen opmaken en herzien en andere passende initiatieven nemen ter uitvoering van het ruimtelijk structuurplan Vlaanderen.<br /><br />De Vlaamse regering kan tevens optreden in de plaats van de provincies of de gemeenten indien ze de krachtens het ruimtelijk structuurplan Vlaanderen opgedragen taken niet uitvoeren.<br /><br />De Vlaamse Regering kan, binnen de perken van de begroting, subsidies verlenen aan provincies, gemeenten, verenigingen van gemeenten, openbare instellingen en aan private rechtspersonen die betrokken zijn bij een samenwerkingsverband voor het opzetten en realiseren van een strategisch project in uitvoering van het Ruimtelijk Structuurplan Vlaanderen, als tegemoetkoming in de kosten voor de coördinatie van het betreffende project.
 
 ## AFDELING 3 HET PROVINCIAAL RUIMTELIJK STRUCTUURPLAN
 
