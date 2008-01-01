@@ -1,0 +1,17 @@
+{
+  "codex_id": 1016831,
+  "title": "Decreet van 2008-05-23 houdende bepalingen tot begeleiding van de aanpassing van de begroting 2008",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1016831/VolledigDocument?datum=2008-01-01",
+  "source_sha256": "943deeac50b72197e933cdf40f0c0a2060b045fa26a99318b80ea48c94dcdb7e",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1016831&param=informatie",
+  "as_of": "2008-01-01",
+  "made": "2008-05-23",
+  "gazette": "2008-06-13",
+  "numac": 2008035628,
+  "document_start": "2008-01-01",
+  "document_end": null,
+  "in_force": "2008-01-01",
+  "article_versions": 7,
+  "record_form": "consolidated version as in force on 2008-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
