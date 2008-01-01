@@ -70,7 +70,47 @@ De GTB, GA en GOB kunnen ook andere opdrachten krijgen van de VDAB ten aanzien v
 
 In artikel 23 van het besluit van de Vlaamse Regering van 24 juli 1991 betreffende de inschrijving bij het Vlaams Agentschap voor personen met een handicap, vervangen bij het besluit van de Vlaamse Regering van 19 juli 2002 en gewijzigd bij het besluit van de Vlaamse Regering van 16 februari 2007, worden de volgende wijzigingen aangebracht :<br />1° in punt 3° worden de woorden « centra voor gespecialiseerde voorlichting bij beroepskeuze en » geschrapt;<br />2° er wordt een punt 8° toegevoegd dat luidt als volgt :<br />« 8° de gespecialiseerde onderzoeksdiensten, die voor 1 januari 2008 erkend worden door de VDAB. »<br /><br />
 
+### ART. 16.
+
+In artikel 1 van het besluit van de Vlaamse Regering van 6 juli 1994 tot vaststelling van de totale investeringssubsidie en de bouwtechnische normen voor de voorzieningen voor de sociale integratie van personen met een handicap worden punt 15° en 16° opgeheven.<br /><br />
+
+### ART. 17.
+
+In artikel 3 van hetzelfde besluit worden § 2 en § 3 opgeheven.<br /><br />
+
+### ART. 18.
+
+In artikel 4 van hetzelfde besluit worden de woorden « voor de centra voor beroepsopleiding : 12,5 m2 per in aanmerking genomen opleidingsplaats; » en de woorden « voor een oriënteringscentrum : 150 m2 per technische equipe voor oriëntering die vijf personen omvat. De oppervlakte wordt, afhankelijk van de in aanmerking genomen getalsterkte van de technische equipe, vermeerderd of verminderd. De oppervlakte wordt vermeerderd met 30 m2 per observatiezaal waarvan het gebruik als noodzakelijk wordt erkend; » geschrapt.<br /><br />
+
+### ART. 19.
+
+In artikel 5, § 1, van hetzelfde besluit, gewijzigd bij het besluit van de Vlaamse Regering van 1 juni 2001, worden de woorden « voor de centra voor beroepsopleiding : 275 euro per m2; » en de woorden « voor de oriënteringscentra : 275 euro per m2, eventueel te vermeerderen met 112 euro per m2 per observatiezaal die als noodzakelijk wordt erkend; » geschrapt.<br /><br />
+
+### ART. 20.
+
+In artikel 6, § 1, van hetzelfde besluit, gewijzigd bij het besluit van de Vlaamse Regering van 1 juni 2001, worden de woorden « voor de centra voor beroepsopleiding : 225 euro per m2 » en de woorden « voor de oriënteringscentra : 225 euro per m2, eventueel te vermeerderen met 100 euro per m2 per observatiezaal die als noodzakelijk wordt erkend » geschrapt.<br /><br />
+
+### ART. 21.
+
+In artikel 10, § 3, van hetzelfde besluit, gewijzigd bij het besluit van de Vlaamse Regering van 1 juni 2001, worden de volgende wijzigingen aangebracht :<br />1° in punt 1° worden de woorden « en voor de centra voor beroepsopleiding, » geschrapt;<br />2° in punt 1°, a), worden de woorden : « behalve wanneer er in een centrum voor beroepsopleiding een eigen onderhoudsploeg is of als de opleiding leidt tot de kwalificatie van onderhoudsman of -vrouw; » geschrapt;<br />3° punt 2° wordt opgeheven.<br /><br />
+
+### ART. 22.
+
+In artikel 4 van het besluit van de Vlaamse Regering van 30 maart 2001 houdende verscheidene bepalingen tot regeling en subsidiëring van arbeid en vakantie van personeel tewerkgesteld door voorzieningen gesubsidieerd door het Vlaams Fonds voor Sociale Integratie van Personen met een Handicap of door de Vlaamse Dienst voor Arbeidsbemiddeling en Beroepsopleiding, gewijzigd bij het besluit van de Vlaamse Regering van 17 november 2006, worden de volgende wijzigingen aangebracht :<br />1° in § 1 worden de woorden « alsmede bij de centra voor beroepsopleiding of omscholing van personen met een handicap, de centra voor gespecialiseerde voorlichting bij beroepskeuze, de arbeidstrajectbegeleidingsdiensten en » geschrapt;<br />2° in § 3 worden de woorden « of door de Vlaamse Dienst voor Arbeidsbemiddeling en Beroepsopleiding voor de centra voor beroepsopleiding of omscholing van personen met een handicap en centra voor gespecialiseerde voorlichting bij beroepskeuze en de diensten arbeidstrajectbegeleiding voor personen met een handicap, » geschrapt.<br /><br />
+
 ## HOOFDSTUK IV Slotbepalingen
+
+### ART. 23.
+
+In artikel 7 van het besluit van de Vlaamse Regering van 28 april 1993 tot vaststelling van de programmatie voor de voorzieningen op het vlak van de sociale integratie van personen met en handicap, gewijzigd bij de besluiten van de Vlaamse Regering van 18 december 1998 en 31 maart 2000, wordt § 2 opgeheven.<br /><br />
+
+### ART. 24.
+
+In artikel 3 van het besluit van de Vlaamse Regering van 10 juli 2001 tot subsidiëring van management en vorming ten bate van voorzieningen gesubsidieerd door het Vlaams Fonds voor de Sociale Integratie van Personen met een Handicap of door de Vlaamse Dienst voor Arbeidsbemiddeling en Beroepsopleiding, gewijzigd bij de besluiten van de Vlaamse Regering van 8 september 2006 en 17 november 2006, worden de volgende wijzigingen aangebracht :<br />1° in § 1 worden punt 1, 2 en 3 opgeheven;<br />2° § 2 wordt opgeheven.<br /><br />
+
+### ART. 25.
+
+In het besluit van de Vlaamse Regering van 10 juli 2001 houdende subsidieregeling van het loon en van de sociale lasten van personen tewerkgesteld in de gehandicaptensector en wier tewerkstellingskosten voorheen in het stelsel van het derde arbeidscircuit door de overheid gedragen werden worden de volgende artikelen opgeheven :<br />1° artikel 10, gewijzigd bij de besluiten van de Vlaamse Regering van 27 januari 2006 en 17 november 2006;<br />2° artikel 11, gewijzigd bij het besluit van de Vlaamse Regering van 27 januari 2006.<br /><br />
 
 ### ART. 26.
 
@@ -79,6 +119,14 @@ Het besluit van de Vlaamse Regering van 7 maart 1990 tot vaststelling van de voo
 ### ART. 27.
 
 In het besluit van de Vlaamse Regering van 22 april 1997 betreffende de erkenning en subsidiëring van centra voor beroepsopleiding of omscholing van personen met een handicap, gewijzigd bij het besluit van de Vlaamse Regering van 17 november 2006, worden de volgende artikelen opgeheven :<br />1° artikelen 1 tot en met 3, 9°, artikelen 3, laatste lid tot en met 9 en artikelen 11 tot en met 21;<br />2° artikel 3, 10° en 11° en artikel 10<br /><br />
+
+### ART. 28.
+
+Het besluit van de Vlaamse Regering van 18 december 1998 betreffende de arbeidstrajectbegeleiding voor personen met en handicap, gewijzigd bij de besluiten van de Vlaamse Regering van 24 juli 2001, 23 november 2001, 17 december 2004, 10 juni 2005 en 17 november 2006, wordt opgeheven.<br /><br />
+
+### ART. 29.
+
+Het besluit van de Vlaamse Regering van 13 april 1999 betreffende de erkenning en subsidiëring van centra voor gespecialiseerde voorlichting bij beroepskeuze voor personen met een handicap, gewijzigd bij het besluit van de Vlaamse Regering van 17 november 2006, wordt opgeheven.<br /><br />
 
 ### ART. 30.
 
