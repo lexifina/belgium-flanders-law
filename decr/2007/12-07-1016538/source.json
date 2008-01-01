@@ -1,0 +1,17 @@
+{
+  "codex_id": 1016538,
+  "title": "Decreet van 2007-12-07 betreffende energieprestaties in scholen",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1016538/VolledigDocument?datum=2008-01-01",
+  "source_sha256": "4575aef40ba9e6b9771b3a2f23c288d859904645a09693f28336f732b3280e55",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1016538&param=informatie",
+  "as_of": "2008-01-01",
+  "made": "2007-12-07",
+  "gazette": "2008-01-25",
+  "numac": 2008035085,
+  "document_start": "2008-01-01",
+  "document_end": null,
+  "in_force": "2008-01-01",
+  "article_versions": 6,
+  "record_form": "consolidated version as in force on 2008-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
