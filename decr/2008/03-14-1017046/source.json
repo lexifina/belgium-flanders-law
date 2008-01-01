@@ -1,0 +1,17 @@
+{
+  "codex_id": 1017046,
+  "title": "Decreet van 2008-03-14 houdende wijziging van het decreet van 4 april 2003 betreffende het sociaal-cultureel volwassenenwerk",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1017046/VolledigDocument?datum=2008-01-01",
+  "source_sha256": "1923ee4b5c16f149feeecee3a763bde6a6869303d4e94f4aef8f3239c3d39aa9",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1017046&param=informatie",
+  "as_of": "2008-01-01",
+  "made": "2008-03-14",
+  "gazette": "2008-09-10",
+  "numac": 2008203169,
+  "document_start": "2008-01-01",
+  "document_end": null,
+  "in_force": "2008-01-01",
+  "article_versions": 48,
+  "record_form": "consolidated version as in force on 2008-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
