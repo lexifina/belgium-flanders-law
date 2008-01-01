@@ -4,6 +4,14 @@
 
 ## HOOFDSTUK II. Energie
 
+### ART. 4.
+
+Aan artikel 23, § 1, eerste lid, van hetzelfde decreet worden de woorden « of § 3 in voorkomend geval » toegevoegd.
+
+### ART. 5.
+
+Artikel 23, § 3, van hetzelfde decreet wordt vervangen door wat volgt :<br /><br />« § 3. Indien de reguleringsinstantie vaststelt dat het quotiënt van het aantal groenestroomcertificaten toegekend in het jaar n-1 en het totaal van de afnamecijfers, uitgedrukt in MWh, van het jaar n-1 van alle afnamepunten in het Vlaamse Gewest, vermeld als Ev in § 2, groter is dan G op 31 maart van het jaar n+1, wordt deze G verhoogd tot dit quotiënt. ».
+
 ## HOOFDSTUK III. Water
 
 ## HOOFDSTUK IV. Integraal waterbeleid
@@ -19,6 +27,14 @@
 ## HOOFDSTUK IX. Jachtdecreet
 
 ## HOOFDSTUK X. Mestdecreet
+
+### ART. 67.
+
+In artikel 22, § 1, 4°, van hetzelfde decreet worden de volgende wijzigingen aangebracht :<br /><br />1° in punt b) worden de woorden « of compost » geschrapt;<br /><br />2° een nieuw punt d) wordt toegevoegd, dat luidt als volgt : <br />« d) compost ».
+
+### ART. 69.
+
+In artikel 23, § 5, van hetzelfde decreet wordt 10° geschrapt.
 
 ### ART. 70.
 
