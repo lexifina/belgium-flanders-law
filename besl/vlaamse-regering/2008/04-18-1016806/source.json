@@ -1,0 +1,17 @@
+{
+  "codex_id": 1016806,
+  "title": "Besluit van de Vlaamse Regering van 2008-04-18 tot regeling van de procedure voor de toekenning van subsidies aan projecten in het kader van het flankerend onderwijsbeleid op lokaal niveau",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1016806/VolledigDocument?datum=2008-01-01",
+  "source_sha256": "61c6abbf05a3b9485c7fd4cb7a17616a5b58e0c12f304802597d9b09282fe60e",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1016806&param=informatie",
+  "as_of": "2008-01-01",
+  "made": "2008-04-18",
+  "gazette": "2008-06-05",
+  "numac": 2008201867,
+  "document_start": "2008-01-01",
+  "document_end": "2013-12-31",
+  "in_force": "2008-01-01",
+  "article_versions": 24,
+  "record_form": "consolidated version as in force on 2008-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
