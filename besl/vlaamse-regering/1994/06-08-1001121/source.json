@@ -2,16 +2,16 @@
   "codex_id": 1001121,
   "title": "Besluit van de Vlaamse Regering van 1994-06-08 betreffende het financiële en materiële beheer van de dienst met afzonderlijk beheer \"Beheersdienst van het Koninklijk Museum voor Schone Kunsten te Antwerpen",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1001121/VolledigDocument?datum=2006-06-01",
-  "source_sha256": "e11d1ed8c1805f5e95731ccfbe418dc2d8efe9f34023915a75b8216200ca84fb",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1001121/VolledigDocument?datum=2008-01-01",
+  "source_sha256": "8c81c7c1b4a09d22961d966d8b6ea940af1975b607bad0a4886d5282e58f5dba",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1001121&param=informatie",
-  "as_of": "2006-06-01",
+  "as_of": "2008-01-01",
   "made": "1994-06-08",
   "gazette": "1994-10-20",
   "numac": 1994036117,
   "document_start": null,
   "document_end": "2007-12-31",
-  "in_force": "2006-06-01",
+  "in_force": "2008-01-01",
   "article_versions": 26,
-  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2008-01-01; future article versions excluded; article text as the API gives it"
 }
