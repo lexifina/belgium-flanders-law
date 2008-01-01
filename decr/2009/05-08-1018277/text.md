@@ -64,9 +64,17 @@ In artikel 55 van hetzelfde decreet worden de volgende wijzigingen aangebracht :
 
 ## Onderafdeling I. Decreet betreffende het volwassenenonderwijs
 
+### ART. IV.20.
+
+In artikel 49 van hetzelfde decreet worden de volgende wijzigingen aangebracht :<br /><br />1° er wordt een punt 8°bis ingevoegd, dat luidt als volgt :<br />« 8°bis in uitvoering van het Strategisch Plan Hulp- en Dienstverlening aan Gedetineerden, de onderwijscoördinatoren ondersteunen bij enerzijds de uitbouw van een behoeftedekkend en aangepast aanbod voor onderwijs aan gedetineerden en anderzijds de coördinatie van het onderwijsaanbod in de gevangenis; »;<br /><br />2° er wordt een derde lid toegevoegd, dat luidt als volgt :<br />« Voor de uitvoering van de opdracht vermeld onder 8°bis, stelt de Vlaamse Regering jaarlijks aan het Vlaams Ondersteuningscentrum voor het Volwassenenonderwijs een bijkomende subsidie ter beschikking. Die subsidie omvat middelen voor personeelskosten en werkingskosten. ».
+
 ### ART. IV.22.
 
 In artikel 62, § 1, van hetzelfde decreet wordt punt 1° vervangen door wat volgt :<br /><br />« 1° de organisatie van een of meerdere opleidingen per leergebied, als vermeld in artikel 6, 1° tot en met 6°; ».
+
+### ART. IV.40.
+
+In hetzelfde decreet wordt een artikel 179bis ingevoegd, dat luidt als volgt :<br /><br />« Artikel 179bis <br /><br />In afwijking van artikel 24, § 1, en in afwachting van de installatie van de stuurgroep vermeld in artikel 50, § 1, 2° en 3°, bepaalt de Vlaamse Regering de opleidingsprofielen na advies van de Vlaamse Onderwijsraad. ».
 
 ### ART. IV.45.
 
@@ -80,6 +88,14 @@ In hetzelfde decreet wordt een artikel 197ter ingevoegd, dat luidt als volgt :<b
 
 ## Afdeling II. Universitair onderwijs
 
+### ART. V.6.
+
+Artikel 155 van hetzelfde decreet wordt vervangen door wat volgt :<br /><br />« Artikel 155<br /><br />De werkings- en investeringsuitkeringen en de sociale toelage worden door de Vlaamse Regering definitief vastgesteld van zodra de algemene uitgavenbegroting van de Vlaamse Gemeenschap voor het desbetreffende begrotingsjaar is vastgelegd. De Vlaamse Regering deelt elke universiteit onmiddellijk na deze vaststelling mede welke bedragen aan de universiteit zullen worden uitgekeerd. Het universiteitsbestuur draagt zorg voor de wijziging van de begroting, overeenkomstig de nadere regels voor de vormgeving van de begroting en de procedure van wijziging die de Vlaamse Regering in uitvoering van artikel 154 bepaalt. »
+
+### ART. V.7.
+
+In artikel 168, § 4, van hetzelfde decreet, gewijzigd bij het decreet van 14 maart 2008, worden het tweede en derde lid vervangen door wat volgt :<br /><br />« Het globale bedrag wordt onder de universiteiten verdeeld aan de hand van een verdeelsleutel, « BOF-sleutel » genoemd, die bestaat uit een structureel onderdeel en een bibliometrisch onderdeel.<br /><br />De Vlaamse Regering kan voor een universiteit waarvan het aantal uitgereikte doctoraatsdiploma's minder dan gemiddeld 25 per academiejaar bedraagt of waarvan het aantal publicaties kleiner is dan gemiddeld 120 per kalenderjaar een gegarandeerde minimumdrempel voor de overheidsbijdrage aan het Bijzonder Onderzoeksfonds van die universiteit bepalen, te differentiëren naar de grootte van die universiteit. Het gemiddeld aantal uitgereikte doctoraatsdiploma's en het gemiddeld aantal publicaties wordt berekend op dezelfde manier als voor de vaststelling van het aandeel van iedere universiteit in de overeenstemmende parameters, zoals bedoeld in respectievelijk § 5 en § 6, met dien verstande dat de daarbij vastgestelde aantallen omgeslagen worden naar een gemiddelde op jaarbasis.<br /><br />Indien voor één of meerdere universiteiten deze gegarandeerde minimumdrempel wordt toegepast, dan wordt het bedrag dat hiermee gemoeid is voorafgenomen van het globaal bedrag. Het resterende globaal bedrag wordt dan onder de andere universiteiten verdeeld overeenkomstig de bepalingen van het tweede lid. »
+
 ## Afdeling III. Hogescholen
 
 ## Afdeling IV. Herstructurering hoger onderwijs
@@ -91,6 +107,14 @@ In hetzelfde decreet wordt een artikel 197ter ingevoegd, dat luidt als volgt :<b
 ## Afdeling VII. Flexibilisering hoger onderwijs
 
 ## Afdeling VIII. Financiering hoger onderwijs
+
+### ART. V.60.
+
+In artikel 11, § 3, van het decreet van 14 maart 2008 betreffende de financiering van de werking van de hogescholen en de universiteiten in Vlaanderen worden de woorden « voor de onderwijssokkel » vervangen door de woorden « van alle componenten van de werkingsuitkering ».
+
+### ART. V.65.
+
+In hetzelfde decreet wordt een artikel 78bis ingevoegd dat luidt als volgt :<br /><br />« Artikel 78bis <br /><br />Bij wijze van overgangsmaatregel zijn de bepalingen van dit decreet ook van toepassing op de basisopleidingen in afbouw. ».
 
 ## Afdeling IX. Decreet betreffende het onderwijs XVIII
 
@@ -147,6 +171,10 @@ In artikel 16 van dezelfde wet worden de woorden « en kan slechts twee maal her
 ## Afdeling VII. Vlaams Agentschap voor Ondernemingsvorming
 
 ## Afdeling VIII. Decreet betreffende het flankerend onderwijsbeleid
+
+### ART. IX.13.
+
+In artikel 2 van het decreet van 30 november 2007 betreffende het flankerend onderwijsbeleid, gewijzigd door het decreet van 4 juli 2008, wordt punt 8° vervangen door wat volgt :<br /><br />« 8° lokale besturen : de gemeenten, de provincies en de Vlaamse Gemeenschapscommissie, tenzij anders bepaald; ».
 
 ## Afdeling IX. Decreet rookverbod in onderwijsinstellingen
 
