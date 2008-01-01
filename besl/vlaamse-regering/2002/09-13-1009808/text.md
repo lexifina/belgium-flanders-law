@@ -60,7 +60,7 @@ Voor de uitwisseling van informatie en voor het opzetten van samenwerkingsverban
 
 ### ART. 13.
 
-§ 1. Het eerste beleidsplan bestrijkt de periode tussen de inwerkingtreding van het besluit en 31 december 2007. De interfacediensten dienen het eerste beleidsplan in vóór 31 oktober 2002 bij IWT-Vlaanderen.<br /><br />§ 2. Het eerste verslag omvat de activiteiten van de periode van 1 oktober 2002 tot 31 december 2003. De interfacediensten bezorgen het verslag over het eerste werkingsjaar dat 15 maanden omvat vóór 31 maart 2004 aan IWT-Vlaanderen.<br /><br />§ 3. Vóór eind december 2002 wordt 25 % van de voor het begrotingsjaar 2002 voorziene financiële steun aan de interfacediensten uitbetaald. Deze financiële steun heeft betrekking op de werking in de periode van oktober tot december 2002.
+§ 1. Het eerste beleidsplan bestrijkt de periode tussen de inwerkingtreding van het besluit en 31 december 2008. De interfacediensten dienen het eerste beleidsplan in vóór 31 oktober 2002 bij IWT-Vlaanderen.<br /><br />§ 2. Het eerste verslag omvat de activiteiten van de periode van 1 oktober 2002 tot 31 december 2003. De interfacediensten bezorgen het verslag over het eerste werkingsjaar dat 15 maanden omvat vóór 31 maart 2004 aan IWT-Vlaanderen.<br /><br />§ 3. Vóór eind december 2002 wordt 25 % van de voor het begrotingsjaar 2002 voorziene financiële steun aan de interfacediensten uitbetaald. Deze financiële steun heeft betrekking op de werking in de periode van oktober tot december 2002.
 
 ### ART. 14.
 
