@@ -4,6 +4,22 @@
 
 DE VLAAMSE MINISTER VAN WELZIJN, VOLKSGEZONDHEID EN GEZIN,<br /><br />Gelet op de decreten inzake voorzieningen voor bejaarden, gecoördineerd op 18 december 1991, inzonderheid op artikel 6;<br /><br />Gelet op het decreet van 21 december 2007 houdende de algemene uitgavenbegroting van de Vlaamse Gemeenschap voor het begrotingsjaar 2008;<br /><br />Gelet op het besluit van de Vlaamse Regering van 17 juli 1985 tot vaststelling van de normen waaraan een serviceflatgebouw, een woningcomplex met dienstverlening of een rusthuis moet voldoen om voor erkenning in aanmerking te komen, inzonderheid op norm 4.1.4. van de bijlage B van dit besluit, zoals gewijzigd bij besluit van de Vlaamse Regering van 4 april 2003;<br /><br />Gelet op het besluit van de Vlaamse Regering van 4 april 2003 houdende de subsidiëring van de animatiewerking in de erkende rusthuizen, zoals gewijzigd bij besluit van de Vlaamse Regering van 27 januari 2006;<br /><br />Gelet op het besluit van de Vlaamse Regering van 27 juli 2004 tot bepaling van de bevoegdheden van de leden van de Vlaamse Regering, gewijzigd bij de besluiten van de Vlaamse Regering van 15 oktober 2004, 23 december 2005, 19 mei 2006, 30 juni 2006, 1 september 2006, 15 juni 2007, 28 juni 2007, 10 oktober 2007 en 14 november 2007;<br /><br />Gelet op het advies van de Inspectie van Financiën, gegeven op 21 maart 2008;<br /><br />Overwegende dat in uitvoering van artikel 4, §2 van het besluit van de Vlaamse Regering van 4 april 2003, voornoemd, de minister jaarlijks op basis van de parameters vervat in artikel 4, § 1 het maximale subsidiebedrag per voorziening dient te bepalen in het kader van de subsidiëring van de animatiewerking;<br /><br />Overwegende dat in uitvoering van artikel 7, §2 van het besluit van de Vlaamse Regering van 4 april 2003, voornoemd, de minister jaarlijks op basis van de parameters vervat in artikel 7, § 1 de rusthuizen en per rusthuis het aantal voltijdse equivalenten aan personeelsleden, tewerkgesteld met een gewezen DAC-statuut, die in aanmerking komen voor deze subsidiëring en het maximale aanvullende subsidiebedrag per rusthuis dient te bepalen;<br /><br />Overwegende dat in uitvoering van artikel 16 van het besluit van de Vlaamse Regering van 4 april 2003, voornoemd, de minister jaarlijks op basis van de parameters vervat in artikel 7, § 1 per project opgesomd in artikel 16 het aantal voltijdse equivalenten aan personeelsleden, tewerkgesteld met een gewezen DAC-statuut, die in aanmerking komen voor deze subsidiëring en het maximale aanvullende subsidiebedrag per project dient te bepalen;<br /><br />BESLUIT:
 
+### ART. 1.
+
+Voor het werkingsjaar 2008 wordt in de (    bijlage 1) bij dit besluit aan elk van de hierin opgesomde voorzieningen op basis van de parameters zoals vervat in artikel 4, § 1, 1° tot en met 3° van het besluit van de Vlaamse Regering van 4 april 2003, voornoemd, een maximaal subsidiebedrag per voorziening toegekend.
+
+### ART. 2.
+
+Voor het werkingsjaar 2008 wordt in de bijlage 2 bij dit besluit voor elk van de hierin opgesomde rusthuizen of projecten het aantal voltijdse equivalenten aan personeelsleden, tewerkgesteld met een gewezen DAC-statuut bepaald en wordt op basis van de parameters zoals vervat in artikel 7, § 1, 1° tot en met 4° van het besluit van de Vlaamse Regering van 4 april 2003, voornoemd, een maximaal aanvullend subsidiebedrag per rusthuis of project toegekend.
+
+### ART. 3.
+
+De subsidiebedragen worden aangerekend op de basisallocatie GD3408E van de algemene uitgavenbegroting van de Vlaamse Gemeenschap voor het begrotingsjaar 2008.
+
+### ART. 4.
+
+Dit besluit heeft uitwerking met ingang van 1 januari 2008.
+
 ### Bijlage 1, deel 1
 
 <p>&nbsp;</p>

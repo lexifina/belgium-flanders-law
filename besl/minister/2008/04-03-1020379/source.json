@@ -2,16 +2,16 @@
   "codex_id": 1020379,
   "title": "Ministerieel besluit van 2008-04-03 tot bepaling voor het werkingsjaar 2008 van het maximale subsidiebedrag per voorziening in het kader van de subsidiëring van de animatiewerking en tot bepaling van het DAC-supplement voor de rusthuizen die personeelsleden tewerkstellen in een gewezen DAC-statuut",
   "type": "Ministerieel besluit",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1020379/VolledigDocument?datum=2006-06-01",
-  "source_sha256": "d35a471bd62b8b776084f27d497969dd13de3beb0bc1afa7f528eac408d821e3",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1020379/VolledigDocument?datum=2008-01-01",
+  "source_sha256": "8617e2829c53a6cef6abf73e20cadf26d1bcf3d739c5e6f08a11d3886fc9f0e0",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1020379&param=informatie",
-  "as_of": "2006-06-01",
+  "as_of": "2008-01-01",
   "made": "2008-04-03",
   "gazette": "0001-01-01",
   "numac": 0,
   "document_start": "2008-01-01",
   "document_end": null,
-  "in_force": "2006-06-01",
-  "article_versions": 13,
-  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "in_force": "2008-01-01",
+  "article_versions": 17,
+  "record_form": "consolidated version as in force on 2008-01-01; future article versions excluded; article text as the API gives it"
 }
