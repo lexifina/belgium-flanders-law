@@ -1,0 +1,17 @@
+{
+  "codex_id": 1016305,
+  "title": "Besluit van de Vlaamse Regering van 2007-10-05 betreffende de lokale diensteneconomie",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1016305/VolledigDocument?datum=2008-01-01",
+  "source_sha256": "a9897cefedfb89168006eff75ba4aa9f080cbc9a4b2681b43cf5c12e0133c92f",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1016305&param=informatie",
+  "as_of": "2008-01-01",
+  "made": "2007-10-05",
+  "gazette": "2007-11-06",
+  "numac": 2007036873,
+  "document_start": "2008-01-01",
+  "document_end": "2015-03-31",
+  "in_force": "2008-01-01",
+  "article_versions": 30,
+  "record_form": "consolidated version as in force on 2008-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
