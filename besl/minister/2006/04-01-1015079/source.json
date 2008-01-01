@@ -2,16 +2,16 @@
   "codex_id": 1015079,
   "title": "Ministerieel besluit van 2006-04-01 houdende delegatie van sommige bevoegdheden inzake onderwijs aan ambtenaren van het Vlaams Ministerie van Onderwijs en Vorming",
   "type": "Ministerieel besluit",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1015079/VolledigDocument?datum=2006-04-01",
-  "source_sha256": "d908df3c9e35fad62e35b88f5dae221d724fbc92256c75a1073f96bdbb4e2d7c",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1015079/VolledigDocument?datum=2008-01-01",
+  "source_sha256": "6ee11348c325576371ad7779ab6a8d5aedc4ebfd83c590aec74a86faa0ad5bcc",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1015079&param=informatie",
-  "as_of": "2006-04-01",
+  "as_of": "2008-01-01",
   "made": "2006-04-01",
   "gazette": "2006-10-25",
   "numac": 2006036695,
   "document_start": "2006-04-01",
   "document_end": "2009-07-12",
-  "in_force": "2006-04-01",
+  "in_force": "2008-01-01",
   "article_versions": 9,
-  "record_form": "consolidated version as in force on 2006-04-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2008-01-01; future article versions excluded; article text as the API gives it"
 }
