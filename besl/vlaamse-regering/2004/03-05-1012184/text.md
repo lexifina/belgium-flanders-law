@@ -236,7 +236,7 @@ De arrondissementscommissaris mag niet afwezig zijn zonder verlof, vakantie of d
 
 ### ART. 49.
 
-§ 1. De arrondissementscommissaris heeft jaarlijks recht op 35 werkdagen vakantie.<br /><br />§ 2. De arrondissementscommissaris neemt de vakantiedagen naar eigen keuze.<br /><br />Hij houdt rekening met de behoeften van de dienst onder verantwoordelijkheid van de provinciegouverneur.<br /><br />In afwijking van het vorig lid heeft de arrondissementscommissaris evenwel het recht om binnen het aantal van 35 werkdagen, 4 werkdagen vakantieverlof te nemen zonder dat de provinciegouverneur het dienstbelang daar tegenover kan stellen.<br /><br />§ 3. De arrondissementscommissaris neemt de jaarlijkse vakantie op binnen het kalenderjaar.
+§ 1. De arrondissementscommissaris heeft jaarlijks recht op 35 werkdagen vakantie.<br /><br />Boven op de 35 werkdagen vakantie heeft de arrondissementscommissaris van 55 jaar of ouder recht op het volgende aantal werkdagen vakantie :<br />1° vanaf 55 jaar : één werkdag;<br />2° vanaf 57 jaar : twee werkdagen;<br />3° vanaf 59 jaar : drie werkdagen;<br />4° vanaf 60 jaar : vier werkdagen;<br />5° vanaf 61 jaar : vijf werkdagen.<br /><br />§ 2. De arrondissementscommissaris neemt de vakantiedagen naar eigen keuze.<br /><br />Hij houdt rekening met de behoeften van de dienst onder verantwoordelijkheid van de provinciegouverneur.<br /><br />In afwijking van het vorig lid heeft de arrondissementscommissaris evenwel het recht om binnen het aantal van 35 werkdagen, 4 werkdagen vakantieverlof te nemen zonder dat de provinciegouverneur het dienstbelang daar tegenover kan stellen.<br /><br />§ 3. De arrondissementscommissaris neemt de jaarlijkse vakantie op binnen het kalenderjaar.
 
 ### ART. 50.
 
