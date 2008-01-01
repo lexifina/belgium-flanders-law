@@ -18,7 +18,7 @@ De in artikelen 4 en 11 van hetzelfde besluit van de Vlaamse regering bedoelde m
 
 ### ART. 5.
 
-Het bij artikel 5 van hetzelfde besluit van de Vlaamse regering bedoelde referentie-inkomen is vastgesteld op 24.500 euro vanaf het jaar 2007.
+Het bij artikel 5 van hetzelfde besluit van de Vlaamse regering bedoelde referentie-inkomen is vastgesteld op 25.700 euro vanaf het jaar 2008.
 
 ### ART. 6.
 
