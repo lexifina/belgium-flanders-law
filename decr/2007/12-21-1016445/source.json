@@ -2,16 +2,16 @@
   "codex_id": 1016445,
   "title": "Decreet van 2007-12-21 houdende bepalingen tot begeleiding van de begroting 2008",
   "type": "Decreet",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1016445/VolledigDocument?datum=2007-11-01",
-  "source_sha256": "4c4cce9ce1f6d2fe5b9187ac9ad19f9bb2ff78e08779bd44da7bfe0e86421ebc",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1016445/VolledigDocument?datum=2008-01-01",
+  "source_sha256": "0301165b092f93de8f31c17cd6c2d9af35b7977699706daced48e356eec92227",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1016445&param=informatie",
-  "as_of": "2007-11-01",
+  "as_of": "2008-01-01",
   "made": "2007-12-21",
   "gazette": "2007-12-31",
   "numac": 2007037369,
   "document_start": null,
   "document_end": null,
-  "in_force": "2007-11-01",
-  "article_versions": 9,
-  "record_form": "consolidated version as in force on 2007-11-01; future article versions excluded; article text as the API gives it"
+  "in_force": "2008-01-01",
+  "article_versions": 62,
+  "record_form": "consolidated version as in force on 2008-01-01; future article versions excluded; article text as the API gives it"
 }
