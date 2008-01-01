@@ -1,0 +1,17 @@
+{
+  "codex_id": 1017235,
+  "title": "Besluit van de Vlaamse Regering van 2008-07-18 tot wijziging van het besluit van de Vlaamse Regering van 28 juli 1983 tot vaststelling van de financiële bijdrage van de gehandicapten geplaatst ten laste van het Fonds voor medische, sociale en pedagogische zorg voor gehandicapten",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1017235/VolledigDocument?datum=2008-01-01",
+  "source_sha256": "26a739fe7f0ded480f65493b09f22751531cdc650c85f4cb8b1f1d3049e2be88",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1017235&param=informatie",
+  "as_of": "2008-01-01",
+  "made": "2008-07-18",
+  "gazette": "2008-10-28",
+  "numac": 2008203773,
+  "document_start": "2008-01-01",
+  "document_end": null,
+  "in_force": "2008-01-01",
+  "article_versions": 7,
+  "record_form": "consolidated version as in force on 2008-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
