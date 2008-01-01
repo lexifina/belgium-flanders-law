@@ -2,7 +2,7 @@
 
 ### ART. 1.
 
-Dit besluit is van toepassing op de - krachtens het decreet van 27 juni 1990 houdende oprichting van een Vlaams Fonds voor de Sociale Integratie van Personen met een Handicap - subsidieerbare:<br /><br />1° voorzieningen bestemd voor de opname van personen met een handicap vermeld in artikel 3, § 1, van het koninklijk besluit nr. 81 van 10 november 1967 tot instelling van een Fonds voor medische, sociale en pedagogische zorg voor gehandicapten;<br /><br />2° beschutte werkplaatsen;<br /><br />3° thuisbegeleidingsdiensten;<br /><br />4° diensten voor begeleid wonen van mentaal gehandicapten;<br /><br />5° diensten voor zelfstandig wonen van gehandicapte personen;<br /><br />6° diensten voor plaatsing in gezinnen;<br /><br />7° centra of diensten voor revalidatie;<br /><br />8° centra of diensten voor gespecialiseerde voorlichting bij beroepskeuze;<br /><br />9° centra voor beroepsopleiding of omscholing van gehandicapten;<br /><br />10° de arbeidstrajectbegeleidingsdiensten. [ <span class="reference">(ing. B.V.R. 19 december 1996, art. 1, I: 1 januari 1997)</span> ]
+Dit besluit is van toepassing op de - krachtens het decreet van 27 juni 1990 houdende oprichting van een Vlaams Fonds voor de Sociale Integratie van Personen met een Handicap - subsidieerbare:<br />1° voorzieningen bestemd voor de opname van personen met een handicap vermeld in artikel 3, § 1, van het koninklijk besluit nr. 81 van 10 november 1967 tot instelling van een Fonds voor medische, sociale en pedagogische zorg voor gehandicapten;<br />2° ...<br />3° thuisbegeleidingsdiensten;<br />4° diensten voor begeleid wonen van mentaal gehandicapten;<br />5° diensten voor zelfstandig wonen van gehandicapte personen;<br />6° diensten voor plaatsing in gezinnen;<br />7° centra of diensten voor revalidatie;<br />8° centra of diensten voor gespecialiseerde voorlichting bij beroepskeuze;<br />9° centra voor beroepsopleiding of omscholing van gehandicapten;<br />10° de arbeidstrajectbegeleidingsdiensten.
 
 ### ART. 2.
 
@@ -14,7 +14,7 @@ Het aantal bedden en plaatsen in voorzieningen, die bestemd zijn voor de opname 
 
 ### ART. 4.
 
-Het aantal subsidieerbare arbeidsplaatsen in de beschutte werkplaatsen wordt binnen de perken van de budgettaire middelen vastgesteld op 13 870. [ <span class="reference">(verv. B.V.R. 13 juli 1994, art. 2, I: 1 april 1994)</span> ]
+...
 
 ### ART. 5.
 
@@ -26,7 +26,7 @@ De Vlaamse minister, bevoegd voor de bijstand aan personen, stelt jaarlijks het 
 
 ### ART. 7.
 
-§ 1. [...  <span class="reference">(opgeh. B.V.R. 31 maart 2000, art. 3)</span> ]<br /><br />§ 2. De programmatie van de centra voor beroepsopleiding of omscholing van personen met een handicap wordt vastgesteld op een maximum streefcijfer van 503 opleidingspakketten, te verstrekken in maximum 13 erkende centra. [ <span class="reference">(verv. B.V.R. 18 december 1998, art. 2, I: 1 januari 1999)</span> ]
+§ 1. ...<br /><br />§ 2. ...
 
 ### ART. 8.
 
