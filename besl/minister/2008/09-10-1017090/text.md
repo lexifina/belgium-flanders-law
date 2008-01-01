@@ -24,6 +24,10 @@ Diensten ontvangen, binnen de perken van de daarvoor vastgelegde kredieten binne
 
 Als, binnen de perken van de daarvoor vastgelegde kredieten binnen de begroting, nog budget overblijft na de betaling van de vergoeding voor flexibele opvang, vermeld in artikel 3, en na de betaling van de vergoeding voor flexibele opvang, vermeld in artikel 4, wordt het restbedrag als volgt besteed :<br />1° de onthaalouders ontvangen van de dienst, bovenop de vergoeding voor flexibele opvang, vermeld in artikel 3, een bijkomende vergoeding van 0,50 euro per opvangdag met een flexibele prestatie;<br />2° indien er nog budget overblijft na de betaling van de vergoeding vermeld in 1°, ontvangen de diensten van Kind en Gezin een bijkomende vergoeding van 1 euro per jaar per opgevangen kind;<br />3° indien er nog budget overblijft na de betaling van de vergoedingen vermeld in 1° en 2°, ontvangen de onthaalouders van de dienst een percentage van het restbedrag, op basis van de gerealiseerde flexibele opvangprestaties.
 
+### ART. 6.
+
+De bedragen, vermeld in dit besluit, worden elk jaar op 1 januari verhoogd met het gezondheidsindexcijfer tussen 1 november van het vorige kalenderjaar en 1 november van het daaraan voorafgaande kalenderjaar.
+
 ### ART. 7.
 
 Het ministerieel besluit van 9 juli 2001 houdende nadere bepalingen betreffende de kostenvergoeding voor opvanggezinnen, aangesloten bij een dienst voor opvanggezinnen, gewijzigd bij de ministeriële besluiten van 1 april 2003 en 1 december 2003, wordt opgeheven.
