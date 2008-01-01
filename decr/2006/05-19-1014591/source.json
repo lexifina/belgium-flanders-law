@@ -2,16 +2,16 @@
   "codex_id": 1014591,
   "title": "Decreet van 2006-05-19 houdende diverse bepalingen inzake leefmilieu en energie",
   "type": "Decreet",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1014591/VolledigDocument?datum=2007-01-01",
-  "source_sha256": "70e41e016c9fc24db07b826e89480b1825776ab3e5ece7d91decc3d2a705e904",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1014591/VolledigDocument?datum=2008-01-01",
+  "source_sha256": "02330c2b75a417f754fe43316112fd1b58535b67bfc892971084c1ed9cea1d18",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1014591&param=informatie",
-  "as_of": "2007-01-01",
+  "as_of": "2008-01-01",
   "made": "2006-05-19",
   "gazette": "2006-06-20",
   "numac": 2006035921,
   "document_start": "2006-06-30",
   "document_end": null,
-  "in_force": "2007-01-01",
+  "in_force": "2008-01-01",
   "article_versions": 54,
-  "record_form": "consolidated version as in force on 2007-01-01; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2008-01-01; future article versions excluded; article text as the API gives it"
 }
