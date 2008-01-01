@@ -12,7 +12,15 @@ Dit besluit is van toepassing op de gewestelijk ontvangers.
 
 ### ART. 2.
 
-Voor de toepassing van dit besluit wordt verstaan onder:<br />1° de minister van Binnenlandse Aangelegenheden: het lid van de Vlaamse regering dat bevoegd is voor de Binnenlandse Aangelegenheden;<br />2° de gouverneur: de gouverneur van de provincie waar de gewestelijke ontvanger benoemd is;<br />3° de arrondissementscommissaris: de arrondissementscommissaris aan wie de gouverneur het gezag over de gewestelijke ontvanger heeft toevertrouwd.
+Voor de toepassing van dit besluit wordt verstaan onder:<br />1° de minister van Binnenlandse Aangelegenheden: het lid van de Vlaamse regering dat bevoegd is voor de Binnenlandse Aangelegenheden;<br />2° de gouverneur: de gouverneur van de provincie waar de gewestelijke ontvanger benoemd is;<br />3° de arrondissementscommissaris: de arrondissementscommissaris aan wie de gouverneur het gezag over de gewestelijke ontvanger heeft toevertrouwd.<br />4° VPS : het besluit van de Vlaamse Regering van 13 januari 2006 houdende vaststelling van de rechtspositie van het personeel van de diensten van de Vlaamse overheid;<br />5° de gewestelijk ontvanger : de vastbenoemde gewestelijk ontvanger en de stagiair.
+
+### ART. 2bis.
+
+Voor de toepassing van het VPS op de gewestelijk ontvanger wordt verstaan onder :<br />1° de ambtenaar : de vastbenoemde gewestelijk ontvanger en de stagiair;<br />2° het personeelslid : de vastbenoemde gewestelijk ontvanger, de stagiair en de contractuele gewestelijk ontvanger;<br />3° het contractueel personeelslid : de contractuele gewestelijk ontvanger;<br />4° de lijnmanager : de provinciegouverneur, tenzij anders is bepaald;<br />5° de Vlaamse minister, bevoegd voor bestuurszaken : de minister van Binnenlandse Aangelegenheden, tenzij anders is bepaald en uitgezonderd voor de aanwijzing van het geneeskundig controleorgaan, vermeld in artikel X 18 van het VPS;<br />6° de functioneel bevoegde Vlaamse minister of de functionele minister : de minister van Binnenlandse Aangelegenheden;<br />7° de benoemende overheid : de provinciegouverneur, tenzij anders is bepaald;<br />8° de Vlaamse Gemeenschap, de IVA met rechtspersoonlijkheid, de EVA, de SAR of het Gemeenschapsonderwijs, de diensten van de Vlaamse overheid : het Vlaams Gewest;<br />9° de ambtenaar op proef, de ambtenaar in proeftijd : de stagiair.
+
+### ART. 2ter.
+
+De minister van Binnenlandse Aangelegenheden stelt het arbeidsreglement voor de gewestelijk ontvangers vast.
 
 ## DEEL II ORGANISATIE EN WERKING
 
@@ -1066,7 +1074,7 @@ De contractuele gewestelijk ontvanger behoudt in geval van carenzdag, zijn bezol
 
 ### ART. 160bis.
 
-[In afwijking van artikel 85 wordt bij geboorte op of na 1 juli 2004, de doorbetaling van de bezoldiging gegarandeerd tot maximaal zestien weken bij de geboorte van één kind, en tot maximaal twintig weken bij de geboorte van een meerling, als de gewestelijke ontvanger zeven respectievelijk negen weken prenataal verlof heeft genomen op basis van de reglementaire bepalingen die bij het begin van het prenataal verlof golden (ing. BVR 17 februari 2006, art. 22, I: 1 juli 2004)].
+In afwijking van artikel X 9, § 1, van het VPS kunnen voor de periode van 1 januari 2006 tot en met 31 december 2008 maximaal 33 werkdagen vakantie geheel of gedeeltelijk opgespaard worden en aangewend worden in de daaropvolgende kalenderjaren en uiterlijk vóór de pensionering.
 
 ### ART. 160ter.
 
