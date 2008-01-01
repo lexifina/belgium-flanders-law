@@ -1,0 +1,17 @@
+{
+  "codex_id": 1016418,
+  "title": "Besluit van de Vlaamse Regering van 2007-11-30 tot vaststelling van de omslagsleutel tot aanwending van de middelen van het Grindfonds voor het begrotingsjaar 2008",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1016418/VolledigDocument?datum=2008-01-01",
+  "source_sha256": "a5e8dcbd5e6e56d8820892dbf5aaaa91abfb5cd3937493137cf2da6f733e46e9",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1016418&param=informatie",
+  "as_of": "2008-01-01",
+  "made": "2007-11-30",
+  "gazette": "2007-12-18",
+  "numac": 2007037245,
+  "document_start": "2008-01-01",
+  "document_end": null,
+  "in_force": "2008-01-01",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2008-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
