@@ -2,16 +2,16 @@
   "codex_id": 1000968,
   "title": "Besluit van de Vlaamse Regering van 1993-07-14 tot regeling van de vergoeding van de centrale beheerskosten en de algemene exploitatiekosten van de universiteiten, verbonden aan de uitvoering van wetenschappelijke activiteiten die door de Vlaamse Gemeenschap gefinancierd worden",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1000968/VolledigDocument?datum=2006-06-01",
-  "source_sha256": "e036a2bdc28446d48ee0abc1d7d4af1710204c24ecd12074a8897b6a89630d2e",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1000968/VolledigDocument?datum=2008-01-01",
+  "source_sha256": "9496edad64b59166235d51d6c66837c85e64d8210e3c3e5b1e9cb6b8baef4c15",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1000968&param=informatie",
-  "as_of": "2006-06-01",
+  "as_of": "2008-01-01",
   "made": "1993-07-14",
   "gazette": "1993-09-28",
   "numac": 1993036123,
   "document_start": "1993-10-01",
   "document_end": null,
-  "in_force": "2006-06-01",
+  "in_force": "2008-01-01",
   "article_versions": 7,
-  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2008-01-01; future article versions excluded; article text as the API gives it"
 }
