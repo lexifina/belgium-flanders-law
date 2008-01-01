@@ -1,0 +1,17 @@
+{
+  "codex_id": 1016838,
+  "title": "Ministerieel besluit van 2008-05-28 houdende de voorwaarden waaraan onthaalouders moeten voldoen om aangesloten te worden en te blijven bij een dienst voor onthaalouders en houdende de voorwaarden voor samenwerking tussen onthaalouders",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1016838/VolledigDocument?datum=2008-01-01",
+  "source_sha256": "28365dcbd0db8c817ce2fb62d0dde7ae6a887abbe58fb2016b1bc9bd65a4d773",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1016838&param=informatie",
+  "as_of": "2008-01-01",
+  "made": "2008-05-28",
+  "gazette": "2008-06-16",
+  "numac": 2008202056,
+  "document_start": "2008-01-01",
+  "document_end": "2014-03-31",
+  "in_force": "2008-01-01",
+  "article_versions": 10,
+  "record_form": "consolidated version as in force on 2008-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
