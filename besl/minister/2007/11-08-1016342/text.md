@@ -6,12 +6,12 @@ De Vlaamse minister van Institutionele Hervormingen, Havens, Landbouw, Zeevisser
 
 ### ART. 1.
 
-Voor de toepassing van dit besluit wordt verstaan onder :<br />1. vissersvaartuig : een vaartuig vermeld in de « Officiële lijst der Belgische vissersvaartuigen »;<br />2. i.c.e.s.-gebieden : de in bijlage III van Verordening (EEG) nr. 3880/91 van de Raad van 17 december 1991 inzake de verstrekking van statistieken van de nominale vangsten van Lidstaten, die in het noordwestelijk gedeelte van de Atlantische Oceaan vissen, opgenomen beschrijving van gebieden en sectoren, gewijzigd bij Verordening (EG) nr. 448/2005 van de Commissie van 15 maart 2005, in het bijzonder bijlage II.<br />
+...
 
 ### ART. 2.
 
-Het nationale quotum van leng in het i.c.e.s.-gebied IV (EG-zone) wordt geacht volledig te zijn gebruikt.<br /><br />De visserij op leng in de wateren van het i.c.e.s.-gebied IV (EG-zone) is verboden voor alle vissersvaartuigen alsmede het aan boord houden, het overladen en het lossen van leng gevangen in deze wateren, na de datum van inwerkingtreding van dit besluit.<br />
+...
 
 ### ART. 3.
 
-Dit besluit treedt in werking de dag van bekendmaking ervan in het Belgisch Staatsblad en houdt op van kracht te zijn op 1 januari 2008.<br />
+...

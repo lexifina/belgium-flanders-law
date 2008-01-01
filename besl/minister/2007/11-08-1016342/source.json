@@ -2,16 +2,16 @@
   "codex_id": 1016342,
   "title": "Ministerieel besluit van 2007-11-08 houdende beëindiging van de visserij op leng in het i.c.e.s.-gebied IV (EG-zone)",
   "type": "Ministerieel besluit",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1016342/VolledigDocument?datum=2007-11-14",
-  "source_sha256": "0c323d4fe70a1affd0c7191979fd94424f64cf10127f484c72724d7149a071f8",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1016342/VolledigDocument?datum=2008-01-01",
+  "source_sha256": "efd884a03fe09a762164549c69069954e7399c0bc7c77baae6e6d773e070271e",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1016342&param=informatie",
-  "as_of": "2007-11-14",
+  "as_of": "2008-01-01",
   "made": "2007-11-08",
   "gazette": "2007-11-14",
   "numac": 2007037009,
   "document_start": "2007-11-14",
   "document_end": "2007-12-31",
-  "in_force": "2007-11-14",
+  "in_force": "2008-01-01",
   "article_versions": 4,
-  "record_form": "consolidated version as in force on 2007-11-14; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2008-01-01; future article versions excluded; article text as the API gives it"
 }
