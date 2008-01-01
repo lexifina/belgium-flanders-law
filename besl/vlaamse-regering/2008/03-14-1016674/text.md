@@ -26,6 +26,14 @@ In artikel 5 van het besluit van de Vlaamse Regering van 10 februari 2006 houden
 
 ## HOOFDSTUK IX. Wijziging van het besluit van de Vlaamse Regering van 30 juni 2006 tot gedeeltelijke operationalisering van het beleidsdomein ruimtelijke ordening, woonbeleid en onroerend erfgoed en houdende aanpassingen van de regelgeving inzake wonen als gevolg van het bestuurlijk beleid
 
+### ART. 19.
+
+In artikel 169 van het besluit van de Vlaamse Regering van 30 juni 2006 tot gedeeltelijke operationalisering van het beleidsdomein ruimtelijke ordening, woonbeleid en onroerend erfgoed en houdende aanpassingen van de regelgeving inzake wonen als gevolg van het bestuurlijk beleid, vervangen bij het besluit van de Vlaamse Regering van 12 oktober 2007, worden de volgende wijzigingen aangebracht :<br /><br />1° in het tweede lid worden de woorden « eigendom zijn, ter beschikking gesteld worden of » vervangen door de woorden « eigendom zijn van of ter beschikking gesteld of »;<br /><br />2° er wordt een nieuwe lid toegevoegd, dat luidt als volgt :<br />« Ongeacht de verhurende instantie blijven voor de toepassing van artikel 13 van de regeling, vermeld in artikel 167, 3°, de bepalingen gelden van artikelen 11 en 25 van het besluit van de Vlaamse Regering van 29 september 1994 tot reglementering van het sociale huurstelsel voor de woningen die door de Vlaamse Huisvestingsmaatschappij of door de door de Vlaamse Huisvestingsmaatschappij erkende lokale sociale huisvestingsmaatschappijen worden verhuurd met toepassing van artikel 80ter van de Huisvestingscode. »
+
+### ART. 20.
+
+Artikel 170 van hetzelfde besluit wordt vervangen door wat volgt :<br /><br />« Art. 170. Voor de verrichtingen, vermeld in artikel 38, tweede lid, van de Vlaamse Wooncode, die erop gericht zijn sociale huurwoningen ter beschikking te stellen, gelden de bepalingen van de regeling, vermeld in artikel 167, 5°, die niet strijdig zijn met het besluit van de Vlaamse Regering van 12 oktober 2007 houdende de financiering van de sociale huisvestingsmaatschappijen voor de realisatie van sociale huurwoningen en de daaraan verbonden werkingskosten, zolang het eerste uitvoeringsprogramma, vermeld in artikel 33 van de Vlaamse Wooncode, niet goedgekeurd of bekrachtigd is overeenkomstig § 3 van dat artikel.<br /><br />Voor de verrichtingen, vermeld in artikel 38, tweede lid, van de Vlaamse Wooncode, voor kredietverlening en verkoop gelden de bepalingen van de regeling, vermeld in artikel 167, 5°, tot de datum van inwerkingtreding van het besluit van de Vlaamse Regering dat voor die verrichtingen uitvoering geeft aan artikel 38 van de Vlaamse Wooncode.<br /><br />Voor de toepassing van het eerste en het tweede lid wordt de verwijzing naar de Vlaamse Huisvestingsmaatschappij in de regeling, vermeld in artikel 167, 5°, gelezen als een verwijzing naar de Vlaamse Maatschappij voor Sociaal Wonen, en wordt de verwijzing naar artikel 28 van het decreet van 20 december 1996 houdende bepalingen tot begeleiden van de begroting 1997 gelezen als een verwijzing naar artikel 22, § 2, van de Vlaamse Wooncode. »
+
 ### ART. 21.
 
 In artikel 171 van hetzelfde besluit wordt een punt 5°bis ingevoegd, dat luidt als volgt :<br /><br />« 5°bis de toepassing van artikel 2, § 2, in fine, van het besluit van de Vlaamse Regering, vermeld in artikel 167, 6°, wordt uitgesloten voor de verworven onroerende goederen die aangewend worden voor een woonproject met sociaal karakter als vermeld in hoofdstuk VI; ».<br /><br />
@@ -44,6 +52,10 @@ In artikel 15 van hetzelfde besluit wordt het derde lid vervangen door wat volgt
 
 ## HOOFDSTUK XII. Wijziging van het besluit van de Vlaamse Regering van 2 februari 2007 tot instelling van een tegemoetkoming in de huurprijs voor woonbehoeftige huurders
 
+### ART. 36.
+
+In artikel 4, § 1, eerste lid, van hetzelfde besluit wordt punt 2° vervangen door wat volgt :<br /><br />« 2° een sociale huurwoning als vermeld in artikel 2, § 1, eerste lid, 22°, a) of c), van de Vlaamse Wooncode. »<br />
+
 ### ART. 37.
 
 In artikel 5 van hetzelfde besluit worden de volgende wijzigingen aangebracht :<br /><br />1° aan § 1 wordt een tweede lid toegevoegd, dat luidt als volgt :<br />« De huurder moet op de aanvraagdatum beschikken over andere inkomsten dan kinderbijslag of wezentoelage, waarmee het saldo van de huurprijs kan worden betaald. »;<br /><br />2° aan § 2, tweede lid, 1°, worden de woorden « en die hetzij vervreemd is, hetzij niet meer als woning zal worden gebruikt » toegevoegd.
@@ -54,10 +66,122 @@ In artikel 6, § 1, tweede lid, van hetzelfde besluit wordt punt 4° vervangen d
 
 ## HOOFDSTUK XIII. Wijziging van het besluit van de Vlaamse Regering van 12 oktober 2007 tot reglementering van het sociale huurstelsel ter uitvoering van titel VII van de Vlaamse Wooncode
 
+### ART. 39.
+
+In artikel 1 van het besluit van de Vlaamse Regering van 12 oktober 2007 tot reglementering van het sociale huurstelsel ter uitvoering van titel VII van de Vlaamse Wooncode worden een punt 18°bis en een punt 18°ter ingevoegd, die luiden als volgt :<br /><br />« 18°bis meerderjarig : volle achttien jaar oud en niet in staat van verlengde minderjarigheid verklaard overeenkomstig artikel 487bis van het Burgerlijk Wetboek;<br /><br />18°ter minderjarig : minder dan volle achttien jaar oud of in staat van verlengde minderjarigheid verklaard overeenkomstig artikel 487bis van het Burgerlijk Wetboek; ».
+
+### ART. 40.
+
+Aan artikel 3, § 1, tweede lid, van hetzelfde besluit worden de volgende zinnen toegevoegd :<br /><br />« In uitzonderlijke omstandigheden kan de verhuurder voor de toepassing van het eerste lid, 2° en 3°, gemotiveerd beslissen om echtgenoten die kunnen aantonen dat hun huwelijk onherstelbaar ontwricht is, niet als gezinsleden te beschouwen. De toezichthouder oefent het toezicht uit op die beslissing van de verhuurder. »
+
+### ART. 41.
+
+In artikel 4 van hetzelfde besluit worden de volgende wijzigingen aangebracht :<br /><br />1° in het eerste lid wordt een punt 2°bis ingevoegd, dat luidt als volgt :<br />2°bis een ander document dat verstrekt werd door een door de Vlaamse Gemeenschap of het Koninkrijk Nederland erkende organisatie, met uitzondering van de instellingen in Aruba en de Nederlandse Antillen en de Franstalige instellingen in een rand- of taalgrensgemeente als vermeld in de gecoördineerde wetten van 18 juli 1966 op het gebruik van de talen in bestuurszaken, waaruit onmiskenbaar blijkt dat hij een niveau van het Nederlands haalt dat ten minste overeenkomt met niveau A.1 Breakthrough van het Europees referentiekader voor vreemde talen; »;<br /><br />2° aan het eerste lid worden een punt 4° en een punt 5° toegevoegd, die luiden als volgt :<br />« 4° een attest van inburgering;<br />5° een attest van EVC. »;<br /><br />3° in de inleidende zin van het tweede lid wordt het woord « verklaringen » telkens vervangen door het woord « documenten »;<br /><br />4° in het tweede lid wordt punt 1° vervangen door wat volgt :<br />« 1° een verklaring van het Huis van het Nederlands waaruit blijkt dat hij een niveau van het Nederlands haalt dat ten minste overeenkomt met de mondelinge vaardigheden van niveau A.1 Breakthrough van het Europees referentiekader voor vreemde talen; »;<br /><br />5° aan het tweede lid wordt een punt 5° toegevoegd, dat luidt als volgt :<br />« 5° een inburgeringscontract. »; <br />6° aan het zesde lid worden de woorden « , behalve als hij een attest als vermeld in artikel 5, eerste lid, 2°, kan voorleggen » toegevoegd.
+
+### ART. 42.
+
+In artikel 5, tweede lid, van hetzelfde besluit worden de volgende wijzigingen aangebracht :<br /><br />1° in het tweede lid worden tussen de woorden « op basis van » en de woorden « de attesten of stukken » de woorden « de Kruispuntbank Inburgering of van » ingevoegd;<br /><br />2° tussen het tweede en het derde lid wordt een nieuw lid ingevoegd, dat luidt als volgt :<br />« De minister kan de categorieën van personen, vermeld in het tweede lid, nader omschrijven. »
+
+### ART. 43.
+
+In artikel 6, § 2, van hetzelfde besluit wordt het woord « schriftelijk » telkens vervangen door de woorden « schriftelijk of via de Kruispuntbank Inburgering ».
+
+### ART. 44.
+
+Aan artikel 12, § 1, eerste lid, van hetzelfde besluit wordt een punt 7° toegevoegd, dat luidt als volgt :<br /><br />« 7° als de kandidaat-huurder niet of niet tijdig reageert op de brief en de herinneringsbrief bij actualisering van het register, vermeld in artikel 8, op voorwaarde dat hij minimaal een maand, vanaf de postdatum van de brief, krijgt om te reageren en na de herinneringsbrief minimaal vijftien kalenderdagen, vanaf de postdatum van de herinneringsbrief. »
+
+### ART. 45.
+
+In artikel 14, eerste lid, worden tussen de woorden « tweede lid, » en de woorden « is niet van toepassing » de woorden « eerste zin, » ingevoegd.
+
+### ART. 46.
+
+In artikel 15 van hetzelfde besluit worden de volgende wijzigingen aangebracht :<br /><br />3° aan § 1, eerste lid, wordt een punt 4° toegevoegd, dat luidt als volgt :<br />« 4° hij op het moment van de toelating een inburgeringscontract kan voorleggen, voor zover hij geen inbreuk heeft gepleegd op artikel 5, § 3, 2°, van het Inburgeringsdecreet. »;<br /><br />4° in § 2 wordt het eerste lid vervangen door wat volgt :<br />« De taalbereidheidsvoorwaarde is niet van toepassing voor de persoon die om beroepsmatige, medische of persoonlijke redenen tijdelijk niet kan deelnemen of niet verder kan deelnemen aan een cursus Nederlands tweede taal. De minister bepaalt de nadere voorwaarden. »
+
+### ART. 47.
+
+In artikel 19 van hetzelfde besluit worden de volgende wijzigingen aangebracht :<br /><br />1° in het eerste lid wordt punt 1° vervangen door wat volgt :<br />« 1° de kandidaat-huurder die minstens 55 jaar oud is of de kandidaat-huurder die zelf een bepaalde handicap heeft of van wie een gezinslid erdoor getroffen is, uitsluitend als de beschikbare woning door de daarop gerichte investeringen specifiek is aangepast aan de huisvesting van ouderen of aan de huisvesting van een gezin waarvan een of meerdere leden getroffen zijn door een handicap; »;<br /><br />2° in het eerste lid wordt een punt 1°bis ingevoegd, dat luidt als volgt :<br />« 1°bis de kandidaat-huurder met toepassing van artikel 30, vierde lid; »;<br /><br />3° in het eerste lid wordt punt 5° vervangen door wat volgt :<br />« 5° de kandidaat-huurder die in de gemeente waar de toe te wijzen woning gelegen is, zijn hoofdverblijfplaats had in een onroerend goed als vermeld in artikel 20, § 1, tweede lid, van de Vlaamse Wooncode, op de datum waarop dat overeenkomstig artikel 20, § 2, eerste lid, van de Vlaamse Wooncode in een proces-verbaal werd vastgesteld; »;<br /><br />4° in het tweede lid worden de woorden « na de beslissing van de wooninspecteur, » vervangen door de woorden « na de vaststelling in een proces-verbaal, » en worden de woorden « het onteigeningsbesluit » vervangen door de woorden « de akte van onteigening ».
+
+### ART. 48.
+
+In artikel 21 van hetzelfde besluit worden de volgende wijzigingen aangebracht : <br /><br />1° in § 1, 1°, worden tussen de woorden « artikel 18, » en de woorden « derde lid » de woorden « tweede lid, » ingevoegd;<br /><br />2° in § 2, eerste lid, wordt een punt 1°bis ingevoegd, dat luidt als volgt :<br />« 1°bis de kandidaat-huurder, vermeld in artikel 19, eerste lid, 1°bis ; ».
+
+### ART. 49.
+
+Artikel 24, § 2, van hetzelfde besluit wordt vervangen door wat volgt :<br /><br />« § 2. Het O.C.M.W. dat ingevolge de wet van 2 april 1965 betreffende het ten laste nemen van de steun verleend door de openbare centra voor maatschappelijk welzijn bevoegd is voor de hulpverlening aan een dakloze, kan ten behoeve van die dakloze een versnelde toewijzing van een woning vragen aan een verhuurder, in overleg met het O.C.M.W. van de gemeente waar de betrokken woning gelegen is. De verhuurder kan als voorwaarde het aanbieden van begeleidende maatregelen, andere dan de basisbegeleidingstaken, vermeld in artikel 32, § 1, derde lid, door het O.C.M.W. of op initiatief van het O.C.M.W. door andere welzijnsactoren stellen.<br /><br />De verhuurder kan het verzoek alleen weigeren als :<br />1° de verhuurder de versnelde toewijzing wil koppelen aan begeleidende maatregelen door het O.C.M.W. van de gemeente waar de betrokken woning gelegen is, of een andere welzijnsactor op initiatief van dat O.C.M.W., maar de dakloze niet bereid is om deze voorwaarde te aanvaarden;<br />2° de verhuurder de versnelde toewijzing wil koppelen aan begeleidende maatregelen door het O.C.M.W. van de gemeente waar de betrokken woning gelegen is, of een andere welzijnsactor op initiatief van dat O.C.M.W., maar dat O.C.M.W. niet ingaat op de vraag tot het voorzien van begeleidende maatregelen;<br />3° hij in verhouding tot het gemiddelde aantal toewijzingen per jaar, in het afgelopen jaar al minimaal 4 % toewijzingen deed op basis van de mogelijkheid tot versnelde toewijzing, vermeld in het eerste lid;<br />4° het O.C.M.W. van de gemeente waar de betrokken woning gelegen is, de financiële verantwoordelijkheid niet wil dragen. »;<br /><br />De verhuurder deelt zijn gemotiveerde beslissing binnen een maand na de aanvraag mee aan het O.C.M.W. dat ingevolge de wet van 2 april 1965 betreffende het ten laste nemen van de steun verleend door de openbare centra voor maatschappelijk welzijn bevoegd is voor de hulpverlening aan de dakloze, vermeld in het eerste lid. »
+
+### ART. 50.
+
+In artikel 30, vierde lid, van hetzelfde besluit worden de woorden « de voorrang, vermeld in artikel 19, eerste lid, 1° en artikel 21, § 2, eerste lid, 1° » vervangen door de woorden « de voorrang, vermeld in artikel 19, eerste lid, 1°bis, en artikel 21, § 2, eerste lid, 1°bis ».
+
+### ART. 51.
+
+Aan artikel 32, § 2, tweede lid, 2°, van hetzelfde besluit wordt een punt d) toegevoegd, dat luidt als volgt :<br /><br />« d) het inburgeringscontract, voor zover de huurder geen inbreuk heeft gepleegd op artikel 5, § 3, 2°, van het Inburgeringsdecreet. »
+
+### ART. 52.
+
+In artikel 37, § 2, tweede lid, van hetzelfde besluit worden tussen de woorden « artikel 3 » en de woorden « van het besluit van de Vlaamse Regering » de woorden « , vierde lid, » ingevoegd.
+
+### ART. 53.
+
+Artikel 45 van hetzelfde besluit wordt vervangen door wat volgt :<br /><br />« Art. 45. § 1. Voor iedere persoon ten laste wordt een korting van 15 euro toegekend.<br /><br />In afwijking van het eerste lid wordt voor een persoon die tegelijk beantwoordt aan de definitie van persoon ten laste, vermeld in artikel 1, 22°, a), en aan de definitie van persoon ten laste, vermeld in artikel 1, 22°, b), een korting van 30 euro toegekend.<br /><br />§ 2. Voor een persoon die minderjarig is, of waarvoor kinderbijslag of wezentoelage wordt uitbetaald, of die door de minister op voorlegging van bewijzen als ten laste wordt beschouwd, en waarvan de ouders niet in dezelfde woning wonen, kan een korting worden toegekend aan de ouder bij wie die persoon niet is gedomicilieerd maar wel op regelmatige basis verblijft. In dat geval wordt de helft van de korting, vermeld in § 1, eerste of tweede lid, toegekend. Als de ouder bij wie die persoon is gedomicilieerd, ook een sociale huurwoning huurt, wordt aan die ouder, in afwijking van § 1, slechts de helft van de korting, vermeld in § 1, eerste of tweede lid, toegekend.<br /><br />De toepassing van het eerste lid is afhankelijk van de ondertekening door beide ouders van een verklaring, waarin de ouder bij wie de persoon, vermeld in het eerste lid, is gedomicilieerd, vermeldt :<br />1° of hij zelf een sociale huurwoning huurt en in voorkomend geval bij welke verhuurder;<br />2° dat hij, als hij zelf huurder is of zal worden van een verhuurder, een kopie van de verklaring zal bezorgen aan die verhuurder;<br />3° dat hij, als hij verklaart zelf geen sociale huurwoning te huren, aan de verhuurder van de sociale huurwoning die de andere ouder huurt, de toestemming verleent om dat te controleren;<br />4° zijn inschrijvingsnummer in de sociale zekerheid, om de controle, vermeld in 3°, mogelijk te maken.<br /><br />§ 3. Het totaal van de kortingen, vermeld in § 1 en § 2, is de gezinskorting. »
+
+### ART. 54.
+
+In artikel 48, tweede lid, 1°, van hetzelfde besluit worden tussen de woorden « in aanmerking wordt genomen, » en het woord « overlijdt » de woorden « met pensioen gaat, » ingevoegd.
+
+### ART. 55.
+
+In artikel 69 van hetzelfde besluit worden de volgende wijzigingen aangebracht :<br /><br />1° in de inleidende zin worden de woorden « § 1 » geschrapt;<br /><br />2° aan punt 2° worden de woorden « en van artikel 1, 10°, 12°, 13° en 16°, en artikel 25, voor zover ze betrekking hebben op hetzelfde hoofdstuk III » toegevoegd;<br /><br />3° er wordt een tweede lid toegevoegd, dat luidt als volgt :<br />« Voor de toepassing van de niet opgeheven bepalingen van het besluit, vermeld in het eerste lid, 2°, wordt onder geactualiseerde kostprijs verstaan : de som van alle uitgaven voor de oprichting of de verwerving van de woning, alsmede voor de uitgevoerde sanerings-, verbeterings- en aanpassingswerkzaamheden, evenals de waardering van gebouwen of gronden die kosteloos verworven of in erfpacht gekregen zijn. Voordat die som gemaakt wordt, worden de kosten naargelang van het jaar waarin ze werden gemaakt, vermenigvuldigd met de coëfficiënt die jaarlijks voor 1 juli wordt vastgesteld door de minister. »<br />
+
+### ART. 56.
+
+In artikel 70, § 1, van hetzelfde besluit worden de volgende wijzigingen aangebracht :<br /><br />1° in punt 3°, a), worden de woorden « , geactualiseerd naar het jaar 2009 met toepassing van artikel 40 » geschrapt;<br /><br />2° in punt 3° wordt punt b) vervangen door wat volgt :<br />« b) in 2010 met een derde van het verschil tussen de in 2010 geldende basishuurprijs en de in 2008 voorlopig vastgestelde basishuurprijs; ».
+
+### ART. 57.
+
+In artikel 73 van hetzelfde besluit worden de volgende wijzigingen aangebracht :<br /><br />1° de woorden « voor de inwerkingtreding van dit besluit waren » worden vervangen door het woord « zijn »;<br /><br />2° er wordt een tweede lid toegevoegd dat luidt als volgt :<br />« Voor de huurders die op de datum van de inwerkingtreding van dit besluit een sociale huurwoning huren, geldt voor de toepassing van artikel 19, eerste lid, 2°, en 3°, ook de inschrijvingsvoorwaarde, vermeld in artikel 3, § 1, eerste lid, 6°, niet. »
+
+### ART. 58.
+
+In hetzelfde besluit wordt een artikel 73bis ingevoegd, dat luidt als volgt :<br /><br />« Art. 73bis. In afwachting van de uitwerking van een doelgroepenplan kan een sociale huisvestingsmaatschappij die op basis van een intern toewijzingsreglement als vermeld in artikel 6, § 5, van het besluit van de Vlaamse Regering van 20 oktober 2000, vermeld in artikel 73, gelijkvloerse sociale huurwoningen bij voorrang toewijst aan kandidaat-huurders die minstens 55 jaar oud zijn, die praktijk gedurende een periode van maximaal twaalf maanden vanaf de inwerkingtreding van dit besluit behouden.<br /><br />In afwachting van de uitwerking van een leefbaarheidsplan en de toepassing van de daaraan gekoppelde verhoogde inkomensgrenzen kan een sociale huisvestingsmaatschappij, voor zover zij de verhoogde inkomensgrenzen, vermeld in artikel 2, § 3, van het besluit van de Vlaamse Regering van 20 oktober 2000, vermeld in artikel 73, toepaste, die verhoogde inkomensgrenzen gedurende een periode van maximaal twaalf maanden vanaf de inwerkingtreding van dit besluit blijven toepassen.<br /><br />Als een sociale huisvestingsmaatschappij gebruikmaakt van de bepaling, vermeld in het eerste of tweede lid, moet ze dit in haar intern huurreglement vermelden. »
+
+### ART. 59.
+
+In artikel 77, § 2, tweede lid, van hetzelfde besluit worden tussen de woorden « artikel 3 » en de woorden « van het besluit van de Vlaamse Regering » de woorden « , vierde lid, » ingevoegd.<br />
+
+### ART. 60.
+
+In artikel 78 van hetzelfde besluit worden de volgende wijzigingen aangebracht :<br /><br />1° aan het eerste lid worden de woorden « , met dien verstande dat bij de vaststelling van het inkomen de indexatie, vermeld in artikel 1, 15°, niet wordt toegepast » toegevoegd;<br /><br />2° tussen het eerste en het tweede lid wordt een nieuw lid ingevoegd, dat luidt als volgt :<br />« In afwijking van het eerste lid is de huurprijsberekening, vermeld in het eerste lid, niet van toepassing voor de sociale huurwoningen waarvoor krachtens artikel 94 of 96, § 3, van de Huisvestingscode, gevoegd bij het koninklijk besluit van 10 december 1970 en bekrachtigd door de wet van 2 juli 1971, of krachtens artikel 70 of 72, eerste lid, 1°, van de Vlaamse Wooncode een subsidie verleend is voor de renovatie, verbetering of aanpassing van één of meerdere gebouwen die hen al toebehoorden of waarvan de verwerving vereist is voor de realisatie van een sociaal woonproject. »;<br /><br />3° er wordt een nieuw lid toegevoegd, dat luidt als volgt :<br />« In afwijking van het eerste en het derde lid blijft voor de woningen die verhuurd worden met toepassing van het besluit van de Vlaamse Regering van 19 mei 1987 tot instelling van een huurcompensatie of van het besluit van de Vlaamse Regering van 4 april 1990 tot aanmoediging van de bouw van sociale huurwoningen, de huurprijsberekening, vermeld in die besluiten, van toepassing zolang de huurcompensatie, vermeld in die besluiten, nog verleend wordt. »
+
+### ART. 61.
+
+In hetzelfde besluit wordt een artikel 78bis ingevoegd, dat luidt als volgt :<br /><br />« Art. 78bis. § 1. In afwijking van artikel 78, eerste lid, is in afwachting van de inwerkingtreding van artikel 38 tot en met 50 voor een gemeente die, een intergemeentelijk samenwerkingsverband of een O.C.M.W. dat partij is bij een PPS-overeenkomst, opgesteld ter uitvoering van het besluit van de Vlaamse Regering van 14 mei 2004 ter uitvoering van de bepalingen over de oprichting en de organisatie van het Garantiefonds voor Huisvesting in het kader van PPS-projecten sociale huisvesting, de huurprijsberekening, vermeld in artikel 78, eerste lid, van toepassing, met dien verstande dat de basishuurprijzen voor de PPS-woningen van de PPS-overeenkomst vastgesteld worden volgens de werkwijze, vermeld in § 2.<br /><br />§ 2. Het Garantiefonds voor Huisvesting, vermeld in titel VI, hoofdstuk III, afdeling 3, van de Vlaamse Wooncode, bepaalt de basishuurprijzen voor de PPS-woningen van elke PPS-overeenkomst volgens de volgende werkwijze. <br /><br />De jaarlijkse totale basishuurprijs voor alle PPS-woningen van een PPS-overeenkomst, aangegeven als B, wordt vastgesteld op 6,5 % van de initiële bouwkosten, bepaald in de offerte van de gegunde opdracht. Die kosten omvatten de ontwerp- en de ontwikkelingskostprijs, de kostprijs van de opbouw en de kostprijs van het recht van opstal, te verhogen met 12 % als compensatie voor de van toepassing zijnde btw op de erfpachtcanon.<br /><br />De jaarlijkse totale basishuurprijs B wordt volgens het gewicht van de individuele kostprijs van de woningen verdeeld in jaarlijkse basishuurprijzen voor de individuele woningen, aangegeven als Bw.<br /><br />De maandelijkse basishuurprijs voor een individuele woning, aangegeven als Bw,m, is het resultaat van de volgende formule : Bw,m = Bw/12. Dat bedrag wordt jaarlijks op 1 januari geïndexeerd met 2,5 % en wordt voor de eerste keer vastgesteld voor het kalenderjaar waarin de erfpacht een aanvang neemt. Vanaf het kalenderjaar dat volgt op het kalenderjaar waarin de erfpacht een aanvang neemt, is de indexering van toepassing volgens Bw,m x 1,025k-1, waarbij k staat voor het rangnummer van de kalenderjaren gedurende de erfpacht. Als eerste kalenderjaar wordt het kalenderjaar genomen waarin de erfpacht een aanvang neemt. <br /><br />Het Fonds, vermeld in het eerste lid, deelt de basishuurprijzen van elke PPS-woning voor de hele duur van de PPS-overeenkomst mee aan de gemeente die, het intergemeentelijke samenwerkingsverband of het O.C.M.W. dat partij is bij de PPS-overeenkomst, uiterlijk zes maanden voor de aanvang van de erfpacht. »
+
+### ART. 62.
+
+In bijlage I van hetzelfde besluit wordt voetnoot 6 bij artikel 6 opgeheven.
+
+### ART. 63.
+
+In bijlage I, artikel 7, eerste lid, van hetzelfde besluit worden de woorden « de vijfde dag » vervangen door de woorden « de tiende dag ».
+
 ## HOOFDSTUK XIV. Wijziging van het besluit van de Vlaamse Regering van 12 oktober 2007 houdende de financiering van de sociale huisvestingsmaatschappijen voor de realisatie van sociale huurwoningen en de daaraan verbonden werkingskosten
 
+### ART. 64.
+
+In het besluit van de Vlaamse Regering van 12 oktober 2007 houdende de financiering van de sociale huisvestingsmaatschappijen voor de realisatie van sociale huurwoningen en de daaraan verbonden werkingskosten wordt in hoofdstuk VIII een artikel 21bis ingevoegd, dat luidt als volgt :<br /><br />« Art. 21bis. De GSC wordt voor het eerst toegekend voor het referentiejaar 2008. »
+
 ## HOOFDSTUK XV. Wijziging van het besluit van de Vlaamse Regering van 14 december 2007 houdende de facultatieve subsidiëring van de vervanging van oude verwarmingsketels door hoogrendementsketels en van individuele verwarmingstoestellen door hoogrendementskachels op de sociale huurmarkt
+
+### ART. 65.
+
+In artikel 9 van het besluit van de Vlaamse Regering van 14 december 2007 houdende de facultatieve subsidiëring van de vervanging van oude verwarmingsketels door hoogrendementsketels en van individuele verwarmingstoestellen door hoogrendementskachels op de sociale huurmarkt wordt het jaartal « 2008 » vervangen door het jaartal « 2009 ».
 
 ## HOOFDSTUK XVI. Opheffingsbepaling
 
 ## HOOFDSTUK XVII. Overgangs- en slotbepalingen
+
+### ART. 67.
+
+Bij de berekening van de huurcompensatie overeenkomstig het besluit van de Vlaamse Regering van 19 mei 1987 tot instelling van een huurcompensatie wordt het begrip inkomen gehanteerd, vermeld in artikel 1, 15°, van het besluit van de Vlaamse Regering van 12 oktober 2007 tot reglementering van het sociale huurstelsel ter uitvoering van titel VII van de Vlaamse Wooncode, met dien verstande dat de indexatie van het inkomen niet wordt toegepast. <br /><br />Bij de berekening van de huurcompensatie overeenkomstig het besluit van de Vlaamse Regering van 4 april 1990 tot aanmoediging van de bouw van sociale huurwoningen wordt het begrip inkomen gehanteerd, vermeld in artikel 1, 15°, van het besluit van de Vlaamse Regering van 12 oktober 2007 tot reglementering van het sociale huurstelsel ter uitvoering van titel VII van de Vlaamse Wooncode, met dien verstande dat de indexatie van het inkomen niet wordt toegepast en met behoud van de gezinskorting van 991,57 euro voor gehuwden, voor wettelijk of feitelijk samenwonenden en voor elke persoon ten laste.<br /><br />Voor de woningen die verhuurd worden door een sociale huisvestingsmaatschappij, gelden de huurprijsbepalingen van artikel 11 van het besluit van 19 mei 1987, vermeld in het eerste lid, en van artikel 7, § 3, van het besluit van 4 april 1990, vermeld in het tweede lid, alleen voor de zittende huurders op 31 december 2007. Voor de nieuwe huurders blijven de maximumbedragen, vermeld in dezelfde artikelen, enkel gelden voor de berekening van de huurcompensatie aan de sociale huisvestingsmaatschappij.
