@@ -2,16 +2,16 @@
   "codex_id": 1009142,
   "title": "Besluit van de Vlaamse Regering van 2002-03-01 tot bepaling van de voorwaarden en de procedureregels inzake erkenning en subsidiëring van de consultatiebureaus voor het jonge kind",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1009142/VolledigDocument?datum=2006-06-01",
-  "source_sha256": "12442affe8a8cd0d9fe1af68458ef8ca4f86fa10126047d17ea6d6c2aadd895d",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1009142/VolledigDocument?datum=2008-01-01",
+  "source_sha256": "d168224d8482d8954f0e9aaa51c1f731ec850fac1c92db9f1ac4d5b7467f9d69",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1009142&param=informatie",
-  "as_of": "2006-06-01",
+  "as_of": "2008-01-01",
   "made": "2002-03-01",
   "gazette": "2002-05-15",
   "numac": 2002035566,
   "document_start": "2002-01-01",
   "document_end": "2018-12-31",
-  "in_force": "2006-06-01",
-  "article_versions": 61,
-  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "in_force": "2008-01-01",
+  "article_versions": 62,
+  "record_form": "consolidated version as in force on 2008-01-01; future article versions excluded; article text as the API gives it"
 }

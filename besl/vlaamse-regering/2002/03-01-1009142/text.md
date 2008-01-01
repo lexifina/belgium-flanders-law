@@ -4,7 +4,7 @@
 
 ### ART. 1.
 
-In dit besluit wordt verstaan onder:<br /><br />1° consultatiebureau: de voorziening waar preventief medisch, psychosociaal en pedagogisch consult wordt verstrekt aan nog niet schoolgaande kinderen en hun gezinnen;<br /><br />2° zitting: de tijdsduur waarin in het consultatiebureau de preventie wordt georganiseerd en die wordt vastgelegd door Kind en Gezin;<br /><br />3° gebruikers: alle kinderen en hun begeleiders die gebruikmaken van het preventieve zorgaanbod op het consultatiebureau;<br /><br />4° medewerkers: vrijwilligers en artsen, werkzaam in een consultatiebureau;<br /><br />5° regio: gebied dat één of meer aan elkaar grenzende gemeenten geheel of gedeeltelijk omvat en dat afgebakend wordt door Kind en Gezin, op basis van onder meer het aantal geboorten, de plaatselijke omstandigheden en de organisatie van de dienstverlening ter plaatse;<br /><br />6° regioteam: team van verpleegkundigen, interculturele medewerkers en ervaringsdeskundigen, onder leiding van een regioteamverantwoordelijke en door Kind en Gezin aangesteld voor het verlenen van het preventieve zorgaanbod in een welbepaalde regio;<br /><br />7° vrijwilliger: vrijwilliger overeenkomstig het decreet van 23 maart 1994 betreffende het georganiseerde vrijwilligerswerk in de welzijns- en gezondheidssector;<br /><br />8° titularis-arts: arts die normaliter als vaste medewerker medische zittingen op een bepaald consultatiebureau verzorgt met een minimum van gemiddeld 2 zittingen per week in één of meer consultatiebureaus;<br /><br />9° vervangende arts: arts die de medische consulten op het consultatiebureau tijdelijk verzorgt bij afwezigheid van de titularis-arts;<br /><br />10° medische-kwaliteitscoördinator: arts van Kind en Gezin, ingeschakeld voor de kwaliteitsbewaking en de bevordering van het medisch-preventieve zorgaanbod;<br /><br />11° Medisch College: medisch advies- en beslissingsorgaan van Kind en Gezin, dat tevens toeziet op het kwaliteitsvol functioneren van de consultatiebureau-artsen en hun naleving van de gedragsrichtlijnen;<br /><br />12° kandidatenlijst: lijst van artsen die zich kandidaat stellen om consulten in het consultatiebureau te verzorgen en die bovendien voldoen aan de in dit besluit vastgelegde voorwaarden;<br /><br />13° principieel akkoord: beslissing waarbij Kind en Gezin de toestemming geeft tot het oprichten van een consultatiebureau in een welbepaalde regio;<br /><br />14° erkenning: beslissing waarbij Kind en Gezin het principieel akkoord bevestigt en die recht geeft op een subsidiëring van de werking van een consultatiebureau;<br /><br />15° aanmelding: elk bezoek van een kind aan een consultatiebureau voor een verpleegkundig en/of medisch consult;<br /><br />16° bezetting: aantal aanmeldingen per zitting.
+In dit besluit wordt verstaan onder:<br />1° consultatiebureau: de voorziening waar preventief medisch, psychosociaal en pedagogisch consult wordt verstrekt aan nog niet schoolgaande kinderen en hun gezinnen;<br />2° zitting: de tijdsduur waarin in het consultatiebureau de preventie wordt georganiseerd en die wordt vastgelegd door Kind en Gezin;<br />3° gebruikers: alle kinderen en hun begeleiders die gebruikmaken van het preventieve zorgaanbod op het consultatiebureau;<br />4° medewerkers: vrijwilligers en artsen, werkzaam in een consultatiebureau;<br />5° regio: gebied dat één of meer aan elkaar grenzende gemeenten geheel of gedeeltelijk omvat en dat afgebakend wordt door Kind en Gezin, op basis van onder meer het aantal geboorten, de plaatselijke omstandigheden en de organisatie van de dienstverlening ter plaatse;<br />6° regioteam: team van verpleegkundigen, interculturele medewerkers en ervaringsdeskundigen, onder leiding van een regioteamverantwoordelijke en door Kind en Gezin aangesteld voor het verlenen van het preventieve zorgaanbod in een welbepaalde regio;<br />7° vrijwilliger: vrijwilliger overeenkomstig het decreet van 23 maart 1994 betreffende het georganiseerde vrijwilligerswerk in de welzijns- en gezondheidssector;<br />8° titularis-arts: arts die normaliter als vaste medewerker medische zittingen op een bepaald consultatiebureau verzorgt met een minimum van gemiddeld 2 zittingen per week in één of meer consultatiebureaus;<br />9° vervangende arts: arts die de medische consulten op het consultatiebureau tijdelijk verzorgt bij afwezigheid van de titularis-arts;<br />10° medische-kwaliteitscoördinator: arts van Kind en Gezin, ingeschakeld voor de kwaliteitsbewaking en de bevordering van het medisch-preventieve zorgaanbod;<br />11° Medisch College: medisch advies- en beslissingsorgaan van Kind en Gezin, dat tevens toeziet op het kwaliteitsvol functioneren van de consultatiebureau-artsen en hun naleving van de gedragsrichtlijnen;<br />12° kandidatenlijst: lijst van artsen die zich kandidaat stellen om consulten in het consultatiebureau te verzorgen en die bovendien voldoen aan de in dit besluit vastgelegde voorwaarden;<br />13° principieel akkoord: beslissing waarbij Kind en Gezin de toestemming geeft tot het oprichten van een consultatiebureau in een welbepaalde regio;<br />14° erkenning: beslissing waarbij Kind en Gezin het principieel akkoord bevestigt en die recht geeft op een subsidiëring van de werking van een consultatiebureau;<br />15° aanmelding: elk bezoek van een kind aan een consultatiebureau voor een verpleegkundig en/of medisch consult;<br />16° bezetting: aantal aanmeldingen per zitting.<br />17° dagzitting : een zitting in een consultatiebureau die tijdens de dag wordt georganiseerd met een aanvangsuur na 8 uur en voor 16 uur;<br />18° stagiair-consultatiebureauarts : arts die beantwoordt aan de kwalificatievereisten, zoals vastgelegd door Kind en Gezin, om de functie van consultatiebureauarts uit te oefenen. Die arts wordt als beginnend arts op een consultatiebureau, via kijk- en doestages, met een evaluatie en eindbeoordeling, door een mentorarts opgeleid tot een volwaardige consultatiebureauarts;<br />19° mentorarts : arts die beantwoordt aan de kwalificatievereisten, zoals vastgelegd door Kind en Gezin, om stagiair-consultatiebureauartsen via kijk- en doestages, met een evaluatie en eindbeoordeling, op te leiden tot volwaardige consultatiebureauartsen;<br />20° avondzitting : een zitting in een consultatiebureau die op zijn vroegst begint om 16 uur;<br />21° regionaal kwaliteitsoverleg : overleg dat eenmaal per jaar wordt georganiseerd in elke regio voor de consultatiebureauartsen, de regioteamleden, de medische-kwaliteitscoördinator en de organiserende besturen ter bespreking en verbetering van de kwaliteit van de dienstverlening aan de hand van analyses van relevante cijfergegevens en evaluaties.
 
 ### ART. 2.
 
@@ -44,7 +44,7 @@ Het organiserend bestuur zorgt voor de naleving van de protocollen die het afslu
 
 ### ART. 9.
 
-Het consultatiebureau zorgt voor aangepaste openingsuren zodat alle gebruikers en potentiële ge-bruikers de mogelijkheid hebben om naar het consultatiebureau te komen. Ze zorgt ervoor dat wekelijks zowel dag- als avondzittingen (tussen 17 en 21uur) worden georganiseerd. Bij consultatiebureaus met minder dan 2 zittingen per week worden dag- en avondzittingen afgewisseld. Hierop kunnen enkel uitzonderingen worden toegestaan naar gelang van de doelgroep en met toestemming van Kind en Gezin.
+Het consultatiebureau zorgt voor aangepaste openingsuren zodat alle gebruikers en potentiële ge-bruikers de mogelijkheid hebben om naar het consultatiebureau te komen. Ze zorgt ervoor dat wekelijks zowel dag- als avondzittingen (tussen 16 en 21uur) worden georganiseerd. Bij consultatiebureaus met minder dan 2 zittingen per week worden dag- en avondzittingen afgewisseld. Hierop kunnen enkel uitzonderingen worden toegestaan naar gelang van de doelgroep en met toestemming van Kind en Gezin.
 
 ### ART. 10.
 
@@ -134,7 +134,7 @@ De Vlaamse minister, bevoegd voor de bijstand aan personen, legt de bepalingen v
 
 ### ART. 28.
 
-§ 1. Kind en Gezin stuurt na ontvangst van de aanvraag onmiddellijk een ontvangstmelding en laat weten of het dossier al dan niet volledig is.<br /><br />§ 2. Kind en Gezin neemt binnen 90 kalenderdagen na ontvangst van het volledige dossier een gemotiveerde beslissing over de aanvraag en betekent onmiddellijk die beslissing aan het kandidaat-organiserend bestuur.
+§ 1. Kind en Gezin stuurt na ontvangst van de aanvraag onmiddellijk een ontvangstmelding en laat weten of het dossier al dan niet volledig is.<br /><br />§ 2. Kind en Gezin neemt binnen 120 kalenderdagen na ontvangst van het volledige dossier een gemotiveerde beslissing over de aanvraag en betekent onmiddellijk die beslissing aan het kandidaat-organiserend bestuur.
 
 ### ART. 29.
 
@@ -212,13 +212,17 @@ Kind en Gezin beslist binnen 10 kalenderdagen na ontvangst van het beroepschrift
 
 ### ART. 45.
 
-§ 1. Kind en Gezin verleent vanaf de oprichting een subsidie voor de functioneringskosten, waaronder kosten voor huur en onderhoud van de lokalen, het verbruik van gas, water, stookolie en elektriciteit, telefoon, de medische verbruiksgoederen voor het consultatiebureau en voor het huisbezoek, verzekeringen en verplaatsingskosten van vrijwilligers alsmede afschrijvingskosten.<br /><br />Die subsidie bedraagt 65,30 euro per zitting.<br /><br />§ 2. Voor de vorming van de vrijwilligers verleent Kind en Gezin 4,80 euro per zitting.
+§ 1. Kind en Gezin verleent vanaf de oprichting een subsidie voor de functioneringskosten, waaronder kosten voor huur en onderhoud van de lokalen, het verbruik van gas, water, stookolie en elektriciteit, telefoon, de medische verbruiksgoederen voor het consultatiebureau en voor het huisbezoek, verzekeringen en verplaatsingskosten van vrijwilligers alsmede afschrijvingskosten.<br /><br />Die subsidie bedraagt 81,44 euro per zitting.<br /><br />§ 2. Voor de vorming van de vrijwilligers verleent Kind en Gezin 4,80 euro per zitting.<br /><br />§ 3. Vanaf 2008 verleent Kind en Gezin een subsidie van 649,64 euro per jaar per consultatiebureau voor de professionele omkadering van de consultatiebureaus.<br /><br />§ 4. Vanaf 2008 verleent Kind en Gezin een subsidie van 251,39 euro per jaar per consultatiebureau voor het kwaliteitsvol medisch beheer.
 
 ## HOOFDSTUK III KOSTEN VOOR DE MEDEWERKING VAN DE ARTSEN
 
 ### ART. 46.
 
-§ 1. De subsidie voor de kosten voor medewerking van de artsen hangt af van het feit of de arts als zelfstandige of als bediende werkt.<br /><br />§ 2. Voor de arts die zelfstandig is, wordt een forfaitaire subsidie verleend van 31,28 euro per uur, om te zetten in een honorarium.<br /><br />§ 3. Voor de arts die bediende is, wordt per consultuur een subsidie verleend van 1/1405 van het jaarbedrag zoals hierna bepaald.<br /><br />Het jaarbedrag, genoemd in het eerste lid, bestaat uit:<br /><br />1° een brutojaarloon voor voltijdse dienst volgens de salarisschalen in de bijlage, gevoegd bij dit besluit, rekening houdend met de anciënniteit van de titularis-arts, zoals bepaald in artikel 47;<br /><br />2° de werkgeversbijdrage voor de sociale zekerheid van de werknemers die jaarlijks door Kind en Gezin wordt herzien;<br /><br />3° 2 % van dat brutoloon forfaitair voor de werkelijke lasten buiten de RSZ;<br /><br />4° vakantiegeld, nl. 90 % van 1/12 van het hierboven genoemde bruto jaarloon;<br /><br />5° eindejaarsuitkering, berekend zoals in artikel XIII 86, § 2, van het besluit van de Vlaamse regering van 30 juni 2000 houdende de regeling van de rechtspositie van het personeel van sommige Vlaamse openbare instellingen en vermeerderd met de hierboven genoemde werkgeversbijdrage, alsook 2 %, forfaitair voor de werkelijke lasten buiten de R.S.Z.<br /><br />Dat houdt in dat het organiserend bestuur de arts-bediende in dienst neemt voor 1/9 prestatie per wekelijkse zitting met een brutojaarloon dat minimaal overeenkomt met wat vastgelegd is in de salarisschaal in de bijlage en volgens de anciënniteitsberekening overeenkomstig artikel 47.<br /><br />§ 4. Voor elk van de door Kind en Gezin opgelegde momenten van vorming en overleg kent Kind en Gezin een aantal bonuspunten toe. Elk punt komt overeen met een extra subsidie van 31,28 euro, door het organiserend bestuur om te zetten in een vormingspremie voor de arts-bediende en in een honorarium voor de zelfstandige arts.<br /><br />Jaarlijks, en na neerlegging van het bewijs van deelname aan de vormings- en/of overlegmomenten, maakt Kind en Gezin een afrekening. Kind en Gezin legt vast op welke manier dit bewijs wordt geleverd.<br /><br />§ 5. Kind en Gezin kent aan de arts-bediende een subsidie toe van 0,2636 euro per kilometer, als tegemoetkoming in de verplaatsingskosten voor zittingen en overlegmomenten. Het organiserend bestuur bezorgt Kind en Gezin per kwartaal, samen met de zittingstabellen, een overzicht van het totaal van de verplaatsingskosten per arts.<br /><br />De arts kan de volgende verplaatsingen aanrekenen:<br /><br />1° de verplaatsing van zijn woonplaats naar het consultatiebureau/overlegmoment en terug;<br /><br />2° de verplaatsing tussen twee consultatiebureaus wanneer de zittingen elkaar opvolgen; wanneer het tweede consultatiebureau wordt georganiseerd door een ander organiserend bestuur dan het eerste, betaalt het tweede organiserend bestuur de kosten van de verplaatsing tussen de twee consultatiebureaus, evenals de terugweg naar zijn woonplaats;<br /><br />3° de verplaatsing tussen een zitting en een overlegmoment wanneer deze elkaar opvolgen.<br /><br />De arts mag in geen geval eenzelfde verplaatsing tweemaal aanrekenen. Fraude kan leiden tot het schrappen van de arts van de kandidatenlijst.<br /><br />§ 6. Bij een vervanging wegens ziekte van een titularis-arts die bediende is, wordt gedurende de eerste 30 dagen ziekteverlof niet alleen de vervangende arts maar ook de titularis-arts gesubsidieerd.
+§ 1. De subsidie voor de kosten voor medewerking van de artsen hangt af van het feit of de arts als zelfstandige of als bediende werkt.<br /><br />§ 2. Voor de arts die zelfstandig is, wordt voor een dagzitting een forfaitaire subsidie verleend van 37,13 euro per uur, om te zetten in een honorarium.<br /><br />§ 3. Voor de arts die bediende is, wordt per consultuur tijdens een dagzitting een subsidie verleend van 1/1405 van het jaarbedrag zoals hierna bepaald.<br /><br />Het jaarbedrag, genoemd in het eerste lid, bestaat uit:<br />1° een brutojaarloon voor voltijdse dienst volgens de salarisschalen in de bijlage, gevoegd bij dit besluit, rekening houdend met de anciënniteit van de titularis-arts, zoals bepaald in artikel 47;<br />2° de werkgeversbijdrage voor de sociale zekerheid van de werknemers die jaarlijks door Kind en Gezin wordt herzien;<br />3° 2 % van dat brutoloon forfaitair voor de werkelijke lasten buiten de RSZ;<br />4° vakantiegeld, nl. 90 % van 1/12 van het hierboven genoemde bruto jaarloon;<br />5° eindejaarsuitkering, berekend zoals in artikel XIII 86, § 2, van het besluit van de Vlaamse regering van 30 juni 2000 houdende de regeling van de rechtspositie van het personeel van sommige Vlaamse openbare instellingen en vermeerderd met de hierboven genoemde werkgeversbijdrage, alsook 2 %, forfaitair voor de werkelijke lasten buiten de R.S.Z.<br /><br />Dat houdt in dat het organiserend bestuur de arts-bediende in dienst neemt voor 1/9 prestatie per wekelijkse zitting met een brutojaarloon dat minimaal overeenkomt met wat vastgelegd is in de salarisschaal in de bijlage en volgens de anciënniteitsberekening overeenkomstig artikel 47.<br /><br />§ 4. Voor elk van de door Kind en Gezin opgelegde momenten van vorming en overleg kent Kind en Gezin een aantal bonuspunten toe. Elk punt komt overeen met een extra subsidie van 37,13 euro, door het organiserend bestuur om te zetten in een vormingspremie voor de arts-bediende en in een honorarium voor de zelfstandige arts.<br /><br />Jaarlijks, en na neerlegging van het bewijs van deelname aan de vormings- en/of overlegmomenten, maakt Kind en Gezin een afrekening. Kind en Gezin legt vast op welke manier dit bewijs wordt geleverd.<br /><br />§ 5. Kind en Gezin kent aan de arts-bediende een subsidie toe van 0,2636 euro per kilometer, als tegemoetkoming in de verplaatsingskosten voor zittingen en overlegmomenten. Het organiserend bestuur bezorgt Kind en Gezin per kwartaal, samen met de zittingstabellen, een overzicht van het totaal van de verplaatsingskosten per arts.<br /><br />De arts kan de volgende verplaatsingen aanrekenen:<br />1° de verplaatsing van zijn woonplaats naar het consultatiebureau/overlegmoment en terug;<br />2° de verplaatsing tussen twee consultatiebureaus wanneer de zittingen elkaar opvolgen; wanneer het tweede consultatiebureau wordt georganiseerd door een ander organiserend bestuur dan het eerste, betaalt het tweede organiserend bestuur de kosten van de verplaatsing tussen de twee consultatiebureaus, evenals de terugweg naar zijn woonplaats;<br />3° de verplaatsing tussen een zitting en een overlegmoment wanneer deze elkaar opvolgen.<br /><br />De arts mag in geen geval eenzelfde verplaatsing tweemaal aanrekenen. Fraude kan leiden tot het schrappen van de arts van de kandidatenlijst.<br /><br />§ 6. Bij een vervanging wegens ziekte van een titularis-arts die bediende is, wordt gedurende de eerste 30 dagen ziekteverlof niet alleen de vervangende arts maar ook de titularis-arts gesubsidieerd.<br /><br />§ 7. Voor een avondzitting wordt een subsidie toegekend van 115 % van de subsidie die verleend wordt voor een dagzitting, zowel voor een arts die zelfstandig is als voor een arts die bediende is.
+
+### ART. 46bis.
+
+§ 1. De opleiding van stagiair-consultatiebureauartsen door mentorartsen wordt door Kind en Gezin op de volgende wijze vergoed : <br />1° Stagiair-consultatiebureauartsen en mentorartsen ontvangen een vergoeding van 64,97 euro per zitting van 3,5 uur. Voor de stagiair-consultatiebureauartsen is dat de enige vergoeding. Voor de mentorartsen komt die vergoeding boven op de vergoeding die op basis van artikel 46, § 2 of § 3, wordt toegekend.<br />2° Mentorartsen met een bediendecontract ontvangen voor de verplaatsing naar en van de kijk- en doestages een kilometervergoeding, als vermeld in artikel 46, § 5.<br />3° De functioneringskosten van een zitting worden gesubsidieerd overeenkomstig de tarieven, vermeld in artikel 45, § 1 en § 2.<br /><br />§ 2. Er worden maximaal tweeëndertig mentorartsen aangewezen door Kind en Gezin. Kind en Gezin kan daarover nadere richtlijnen verstrekken.<br /><br />De mentorarts moet aan de volgende criteria voldoen : <br />1° in het bezit zijn van een diploma jeugdgezondheidszorg of van de specialisatietitel kinderarts. Artsen die niet in het bezit waren van een diploma jeugdgezondheidszorg en door Kind en Gezin vrijgesteld werden van die verplichting overeenkomstig artikel 48, § 1, van het besluit van de Vlaamse Regering van 18 december 1998, blijven voor de toepassing van deze bepaling de vrijstelling genieten;<br />2° een halve dag inscholing gevolgd hebben;<br />3° ten minste drie jaar werken in een consultatiebureau van Kind en Gezin;<br />4° minimaal 270 zittingen op een consultatiebureau hebben waargenomen;<br />5° minstens twee vormingsmomenten per jaar volgen.<br /><br />§ 3. De opleiding van stagiair-consultatiebureauartsen, vermeld in § 1, omvat maximaal vier stagemomenten (een aantal zittingen kijkstage/doestage), gevolgd door een evaluatie, uitgevoerd door de mentorarts en de medische-kwaliteitscoördinator van Kind en Gezin. Voor een student jeugdgezondheidszorg is er tevens een staflid van de masteropleiding betrokken bij de evaluatie. Over de inhoud, de evaluatie en het praktische verloop van de stages kan Kind en Gezin nadere richtlijnen verstrekken.<br /><br />§ 4. Om de kijk- en doestages kwaliteitsvol te laten verlopen, wordt op de zittingen die in dat kader uitgevoerd worden, het aantal kinderen gereduceerd. Kind en Gezin kan daarover nadere richtlijnen verstrekken.<br /><br />§ 5. Om de mentorartsen voor te bereiden op hun taak, wordt er een halve dag opleiding gegeven en worden twee halve dagen intervisie georganiseerd. De subsidie daarvoor bedraagt 37,13 euro per uur, als vermeld in artikel 45, § 4.
 
 ## HOOFDSTUK IV ANCIËNNITEITSBEREKENING
 
@@ -291,44 +295,62 @@ Salarisschaal 2<br>
 De anciënniteit wordt opgebouwd vanaf de leeftijd van 24 jaar<br>
 &nbsp;</p>
 
-<table border="1" cellpadding="0" cellspacing="0" style="border-collapse:collapse">
+<table border="1" cellpadding="0" cellspacing="0" style="border-collapse:collapse; width:273.65pt">
 	<tbody>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:211.15pt">
-			<p>Anciënniteit</p>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; height:14.2pt; width:135.25pt">
+			<p>Anciënniteit<!--?xml:namespace         prefix = o ns = "urn:schemas-microsoft-com:office:office"         /--></p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:211.15pt">
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; height:14.2pt; width:138.4pt">
 			<p>Bedragen</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:211.15pt">
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; width:135.25pt">
 			<p>0</p>
-
-			<p>1</p>
-
-			<p>2</p>
-
-			<p>3</p>
-
-			<p>5</p>
-
-			<p>7</p>
-
-			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:211.15pt">
-			<p>27 457,30 EUR</p>
-
-			<p>28 122,13 EUR</p>
-
-			<p>28 122,13 EUR</p>
-
-			<p>29 451,98 EUR</p>
-
-			<p>30 615,56 EUR</p>
-
-			<p>31 779,30 EUR</p>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; width:138.4pt">
+			<p>28.727,30 EUR</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; width:135.25pt">
+			<p>1</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; width:138.4pt">
+			<p>29.392,13 EUR</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; width:135.25pt">
+			<p>2</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; width:138.4pt">
+			<p>30.056,98 EUR</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; width:135.25pt">
+			<p>3</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; width:138.4pt">
+			<p>30.721,98 EUR</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; width:135.25pt">
+			<p>5</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; width:138.4pt">
+			<p>31.885,56 EUR</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; width:135.25pt">
+			<p>7</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; width:138.4pt">
+			<p>33.049,30 EUR</p>
 			</td>
 		</tr>
 	</tbody>
@@ -341,46 +363,86 @@ De anciënniteit wordt opgebouwd vanaf de leeftijd van 24 jaar<br>
 De anciënniteit wordt opgebouwd vanaf de leeftijd van 24 jaar<br>
 &nbsp;</p>
 
-<table border="1" cellpadding="0" cellspacing="0" style="border-collapse:collapse">
+<table border="1" cellpadding="0" cellspacing="0" style="border-collapse:collapse; width:273.65pt">
 	<tbody>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:211.15pt">
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; height:14.2pt; width:135.25pt">
+			<p>Anciënniteit</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; height:14.2pt; width:138.4pt">
+			<p>Bedragen</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; width:135.25pt">
 			<p>9</p>
-
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; width:138.4pt">
+			<p>37.424,82 EUR</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; width:135.25pt">
 			<p>11</p>
-
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; width:138.4pt">
+			<p>38.846,69 EUR</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; width:135.25pt">
 			<p>13</p>
-
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; width:138.4pt">
+			<p>40.268,58 EUR</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; width:135.25pt">
 			<p>15</p>
-
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; width:138.4pt">
+			<p>41.690,42 EUR</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; width:135.25pt">
 			<p>17</p>
-
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; width:138.4pt">
+			<p>43.112,31 EUR</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; width:135.25pt">
 			<p>19</p>
-
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; width:138.4pt">
+			<p>44.534,18 EUR</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; width:135.25pt">
 			<p>21</p>
-
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; width:138.4pt">
+			<p>45.956,05 EUR</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; width:135.25pt">
 			<p>23</p>
-
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; width:138.4pt">
+			<p>47.303,55 EUR</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; width:135.25pt">
 			<p>25</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:211.15pt">
-			<p>36 154,82 EUR</p>
-
-			<p>37 576,69 EUR</p>
-
-			<p>38 998,58 EUR</p>
-
-			<p>40 420,42 EUR</p>
-
-			<p>41 842,31 EUR</p>
-
-			<p>43 264,18 EUR</p>
-
-			<p>44 686,05 EUR</p>
-
-			<p>46 033,55 EUR</p>
-
-			<p>47 529,81 EUR</p>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; width:138.4pt">
+			<p>48.799,81 EUR</p>
 			</td>
 		</tr>
 	</tbody>
@@ -388,4 +450,7 @@ De anciënniteit wordt opgebouwd vanaf de leeftijd van 24 jaar<br>
 
 <p>&nbsp;</p>
 
-<p>De artsen gaan na 9 jaar anciënniteit over van salarisschaal 2 naar salarisschaal 1.</p>
+<p>&nbsp;</p>
+
+<p>De artsen gaan na negen jaar anciënniteit over van salarisschaal 2 naar salarisschaal 1.<br>
+De bedragen in deze bijlage hebben als referentiejaar 2007.</p>
