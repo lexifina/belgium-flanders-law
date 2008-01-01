@@ -2,16 +2,16 @@
   "codex_id": 1013433,
   "title": "Besluit van de Vlaamse Regering van 2004-08-27 betreffende de toekenning van een premie tot stimulering van een opleidingskeuze",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1013433/VolledigDocument?datum=2006-06-01",
-  "source_sha256": "441a5f0ceca3966b054f39e16c106345b470147e801662430790e3b7ca9619c3",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1013433/VolledigDocument?datum=2008-01-01",
+  "source_sha256": "c28e1053ad4ceba2602151c66e4f3683a5539c367679c1f114c9fc4d119febb5",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1013433&param=informatie",
-  "as_of": "2006-06-01",
+  "as_of": "2008-01-01",
   "made": "2004-08-27",
   "gazette": "2004-09-30",
   "numac": 2004036483,
   "document_start": "2004-09-01",
   "document_end": "2007-12-31",
-  "in_force": "2006-06-01",
+  "in_force": "2008-01-01",
   "article_versions": 11,
-  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2008-01-01; future article versions excluded; article text as the API gives it"
 }
