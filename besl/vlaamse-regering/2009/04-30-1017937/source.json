@@ -1,0 +1,17 @@
+{
+  "codex_id": 1017937,
+  "title": "Besluit van de Vlaamse Regering van 2009-04-30 tot wijziging van het besluit van de Vlaamse Regering van 10 juli 2001 tot regeling van de subsidiëring van de diensten voor logistieke hulp en aanvullende thuiszorg",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1017937/VolledigDocument?datum=2008-01-01",
+  "source_sha256": "0a402b93def4344fe7564d3e74ba145e20bf90dfbb5a752ac1c60042a880accd",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1017937&param=informatie",
+  "as_of": "2008-01-01",
+  "made": "2009-04-30",
+  "gazette": "2009-06-02",
+  "numac": 2009202338,
+  "document_start": "2008-01-01",
+  "document_end": null,
+  "in_force": "2008-01-01",
+  "article_versions": 6,
+  "record_form": "consolidated version as in force on 2008-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
