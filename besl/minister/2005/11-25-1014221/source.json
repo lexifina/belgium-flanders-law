@@ -2,16 +2,16 @@
   "codex_id": 1014221,
   "title": "Ministerieel besluit van 2005-11-25 houdende de uitvoeringsbepalingen betreffende de steun voor energiegewassen",
   "type": "Ministerieel besluit",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1014221/VolledigDocument?datum=2006-06-01",
-  "source_sha256": "d2dce2cc55432012133e12ed4fc65128cb5a59a10bce8c5d9f438ac39f1baa75",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1014221/VolledigDocument?datum=2008-01-01",
+  "source_sha256": "91139d8f23aa229ce7d06213af2cb18610d027b69dcc251f75cde51b5937e79a",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1014221&param=informatie",
-  "as_of": "2006-06-01",
+  "as_of": "2008-01-01",
   "made": "2005-11-25",
   "gazette": "2006-01-23",
   "numac": 2006035038,
   "document_start": "2005-01-01",
   "document_end": "2007-12-31",
-  "in_force": "2006-06-01",
+  "in_force": "2008-01-01",
   "article_versions": 17,
-  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2008-01-01; future article versions excluded; article text as the API gives it"
 }

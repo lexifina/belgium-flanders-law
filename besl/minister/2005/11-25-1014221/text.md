@@ -4,76 +4,76 @@
 
 ### ART. 1.
 
-Met behoud van de toepassing van de definities vermeld in het ministerieel besluit van 25 november 2005 betreffende de vaststelling van de modaliteiten van het besluit van de Vlaamse Regering tot instelling van een bedrijfstoeslagregeling en tot vaststelling van bepaalde steunregelingen en tot toepassing van de randvoorwaarden, wordt voor de toepassing van dit besluit verstaan onder:<br />1° de aanvrager: de landbouwer die energiegewassen, hierna de grondstoffen te noemen, produceert zoals vermeld in artikel 88, tweede lid, van Verordening (EG) nr. 1782/2003 en de steun aanvraagt via de verzamelaanvraag;<br />2° de eerste verwerker: de gebruiker van de grondstoffen die de eerste verwerking ervan uitvoert om een of meer energieproducten te verkrijgen, als vermeld in artikel 88, tweede lid, van Verordening (EG) nr. 1782/2003. Ook de verwerker die de grondstoffen van de landbouwer aankoopt en ze via een contract voor loonverwerking laat verwerken door een derde wordt beschouwd als eerste verwerker met toepassing van dit besluit;<br />3° de inzamelaar : elke ondertekenaar van een contract met een aanvrager, overeenkomstig artikel 23, (c), van Verordening (EG) nr. 1973/2004. <br />3° bevoegde entiteit: de bevoegde entiteit van het Agentschap voor Landbouw en Visserij.
+...
 
 ## HOOFDSTUK II Voorwaarden waaraan de aanvrager moet voldoen
 
 ### ART. 2.
 
-De minimale perceelsgrootte bedraagt 0,30 ha en de minimale breedte bedraagt 20 meter.
+...
 
 ### ART. 3.
 
-De aanvrager die grondstoffen produceert als vermeld in artikel 88 van Verordening (EG) nr. 1782/2003 legt samen met zijn verzamelaanvraag het contract voor dat gesloten moet worden met een eerste verwerker of inzamelaar, zoals bepaald in artikel 26 van Verordening (EG) nr. 1973/2004, en dat voldoet aan de voorwaarden die bepaald zijn in hoofdstuk III. <br />
+...
 
 ### ART. 4.
 
-§ 1. Na iedere oogst en uiterlijk op 31 oktober van het oogstjaar meldt de aanvrager aan de bevoegde entiteit door middel van het door de bevoegde instantie vastgelegde document « oogstaangifte » per soort en per type de totale geoogste en geleverde hoeveelheid evenals de identiteit van de persoon aan wie geleverd werd.<br /><br />Met behoud van de toepassing van het eerste lid wordt de oogstaangifte van silomaïs uiterlijk op 30 november ingediend en wordt de oogstaangifte voor aardperen en cichoreiwortels uiterlijk op 31 december ingediend. De postdatum geldt als bewijs.<br /><br />§ 2. De aanvrager levert de volledige geoogste hoeveelheid grondstof af aan een inzamelaar of eerste verwerker. De hoeveelheid die daadwerkelijk geleverd moet worden door de aanvrager moet minstens overeenkomen met de representatieve opbrengst zoals bepaald is door de bevoegde entiteit ter uitvoering van artikel 30 van Verordening (EG) nr. 1973/2004.<br /><br />Een tekort van de opbrengst wordt aanvaard overeenkomstig artikel 7, § 3, mits voldaan wordt aan de verplichtingen, opgesomd in artikel 7, § 2.
+...
 
 ### ART. 5.
 
-§ 1. In afwijking van het bepaalde in artikel 3 en in artikel 4, § 2, en met behoud van de toepassing van de voorwaarden, opgelegd in artikel 25, § 2, a), van Verordening (EG) nr. 1973/2004 kan de aanvrager:<br /><br />1° woudbomen met korte omlooptijd van GN-code ex 0602 90 41 of alle geoogste granen of alle oliehoudende zaden van de GN-codes 1201 00 90, 1205 10 90, 1205 90 00, 1206 00 91 en 1206 00 99 gebruiken:<br /><br />a) als brandstof voor de verwarming van zijn landbouwbedrijf,<br /><br />b) voor de productie van energie of biobrandstof op zijn landbouwbedrijf;<br /><br />2° alle geoogste grondstoffen, op zijn landbouwbedrijf verwerken tot biogas van GN-code 2711 29 00.<br /><br />§ 2. Bovendien moet de aanvrager die tegelijk ook eerste verwerker is van de grondstoffen op zijn eigen landbouwbedrijf:<br /><br />1° zelf de zekerheid storten zoals bepaald is in artikel 35 van Verordening (EG) nr. 1973/2004;<br /><br />2° alle geoogste grondstoffen wegen op een erkende automatische balans volgens de instructies van de bevoegde entiteit. Voor granen en oliehoudende zaden, voor het stro en ook in geval van gebruik van de volledige plant mag de weging worden vervangen door een volumetrische bepaling van de grondstof door personen die aangeduid zijn door de bevoegde entiteit;<br /><br />3° de granen of oliehoudende zaden die worden gebruikt overeenkomstig § 1, 1°, denatureren volgens een methode die opgelegd is door de bevoegde entiteit. Er wordt echter toegestaan om in plaats van de oliehoudende zaden de verkregen ruwe olie onmiddellijk na de verwerking te denatureren volgens de methode die opgelegd is door de bevoegde entiteit. De kosten voor de denaturatie zijn ten laste van de zelfverwerker;<br /><br />4° een specifieke boekhouding voeren waarop onder meer de geoogste, de verwerkte en de gedenatureerde hoeveelheid vermeld staan.<br /><br />§ 3. De gedenatureerde olie die bekomen is op het landbouwbedrijf wordt beschouwd als eindfase van de verwerking van de oliehoudende zaden zoals vemeld in artikel 11, § 1.
+...
 
 ## HOOFDSTUK III Het contract
 
 ### ART. 6.
 
-§ 1. Het contract dat gesloten is tussen de aanvrager en de eerste verwerker of inzamelaar op grond van artikel 26, 1., van Verordening (EG) nr. 1973/2004 wordt gedateerd en ondertekend door beide partijen.<br /><br />§ 2. Met behoud van de toepassing van artikel 26, 2, van Verordening (EG) nr. 1973/2004 vermeldt het contract aanvullend de oppervlakte per landbouwstreek van iedere verbouwde soort en van ieder type.<br /><br />§ 3. De aanvrager zorgt ervoor dat het contract wordt gesloten op een zodanig tijdstip dat zijn contractsluitende partij de mogelijkheid heeft om binnen de in artikel 9, § 1, vastgestelde termijnen een afschrift van het vermelde contract in te dienen bij de bevoegde entiteit.
+...
 
 ### ART. 7.
 
-§ 1. De contractsluitende partijen kunnen het contract wijzigen vóór de uiterste indieningdatum van de verzamelaanvraag door een door beide partijen ondertekend aanhangsel bij het contract op te stellen of door het oorspronkelijke contract op te zeggen en te vervangen door een nieuw contract.<br /><br />De contractsluitende partijen kunnen het contract eveneens wijzigen na de uiterste indieningdatum van de verzamelaanvraag. Alle wijzigingen, ondertekend door de twee partijen, worden in dat geval aanvaard tot de uiterste indieningdatum van wijziging van de verzamelaanvraag op voorwaarde dat de aanvrager de buitendienst hiervan schriftelijk op de hoogte brengt.<br /><br />Met behoud van de toepassing van het eerste en tweede lid is, na de uiterste indieningdatum van de verzamelaanvraag, een vermindering mogelijk van de oppervlakte voor energiegewassen ten gevolge van een vermindering van de oppervlakte of een verandering van bestemming naar een bestemming die niet in aanmerking komt voor die steun. Die oppervlaktevermindering wordt alleen toegestaan als de oppervlakten in kwestie niet het voorwerp hebben uitgemaakt van een controle die geleid heeft tot vaststelling van onregelmatigheden of als de bedrijfsleider niet op de hoogte werd gebracht van een belangrijke controle.<br /><br />§ 2. Als de producent tijdens de teeltcyclus meent dat hij, als gevolg van bijzondere omstandigheden, niet de hele hoeveelheid grondstof die in het contract is vermeld zal kunnen leveren, brengt hij zijn buitendienst daarvan zo vlug mogelijk op de hoogte door toezending van het bewijsstuk van geleden teeltschade dat, behalve bij overmacht, opgesteld wordt door een van onderstaande instanties:<br /><br />1° de commissie voor de vaststelling van schade aan teelten;<br /><br />2° een ambtenaar van de bevoegde entiteit of van een buitendienst;<br /><br />3° een ambtenaar van een landbouwkundige instantie van het Vlaamse Gewest of van de provincie.<br /><br />Behoudens in geval van overmacht zijn bewijsstukken die na de oogst bij de buitendienst toekomen onontvankelijk.<br /><br />§ 3. In geval van een productietekort, als de buitendienst het schriftelijke bewijs van de aanvrager ter verklaring van dit tekort aanvaard heeft en als de levering overeenstemt met ten minste 90 % van de hoeveelheid, vermeld in artikel 4, § 2, eerste lid, wordt aangenomen dat het contract nageleefd werd en wordt de oogstaangifte aanvaard.<br /><br />In geval van een productietekort, als de bevoegde entiteit het schriftelijke bewijs van de aanvrager ter verklaring van dat tekort aanvaard heeft en als de levering overeenstemt met minder dan 90 % van de hoeveelheid, vermeld in artikel 4, § 2, eerste lid, houdt de buitendienst rekening met de toestemming die hij vooraf heeft verleend in overeenstemming met § 2 om de hoeveelheid grondstof die de aanvrager moet leveren te verminderen.<br /><br />§ 4. Als de rechtvaardiging van een productietekort als vermeld in § 2 en § 3, tweede lid door de buitendienst wordt aanvaard en indien beide contractsluitende partijen hiermee akkoord gaan, kan de buitendienst een van de onderstaande gevolgen aanvaarden:<br /><br />1° de vermindering van de onder het contract vallende oppervlakten;<br /><br />2° de opzegging van het contract;<br /><br />3° de verlaging van de in het contract vermelde hoeveelheid grondstof door die hoeveelheid evenredig met de geraamde omvang van de geleden teeltschade te verminderen.<br /><br />§ 5. In geval van productietekort wordt de aanvrager geacht niet voldaan te hebben aan zijn verplichtingen met betrekking tot de oppervlakten die bestemd zijn voor de teelt van energiegewassen in een van de volgende situaties:<br /><br />1° de schriftelijke rechtvaardiging ter verklaring van het tekort van de geleverde hoeveelheid werd niet aanvaard door de buitendienst;<br /><br />2° de schriftelijke rechtvaardiging ter verklaring van het tekort, vermeld in artikel 7, § 2, ontbreekt;<br /><br />3° de werkelijk geleverde hoeveelheid is kleiner dan wat vooraf door de buitendienst werd toegestaan in overeenstemming met artikel 7, § 1.<br /><br />Bijgevolg worden voor deze oppervlakten de in artikel 51 van Verordening (EG) nr. 796/2004 vermelde bestraffingen toegepast in verhouding tot de hoeveelheid ontbrekende grondstof die wordt omgerekend naar een oppervlakte die beschouwd wordt als niet teruggevonden.
+...
 
 ## HOOFDSTUK IV [Voorwaarden waaraan de verwerker en inzamelaar moeten voldoen]
 
 ### ART. 8.
 
-De energieproducten worden verkregen, maximaal door een derde verwerker.<br />
+...
 
 ### ART. 9.
 
-§ 1. De eerste verwerker of inzamelaar die met de aanvrager het contract heeft gesloten, bezorgt de bevoegde entiteit een kopie van het contract :<br />1° uiterlijk op 31 januari van het oogstjaar voor de van 1 juli tot en met 31 december in te zaaien grondstoffen;<br />2° uiterlijk op de uiterste indieningsdatum van de verzamelaanvraag voor het jaar in kwestie voor de van 1 januari tot en met 30 juni in te zaaien grondstoffen;<br />3° uiterlijk op de uiterste indieningsdatum van de verzamelaanvraag van het jaar waarin het betreffende perceel geactiveerd wordt voor het braakleggingstoeslagrecht.<br /><br />De eerste verwerker of inzamelaar die een contract met een aanvrager wijzigt of opzegt, bezorgt onmiddellijk een kopie van het gewijzigde contract en het bijbehorende aanhangsel of een kopie van het opgezegde contract aan de bevoegde entiteit, uiterlijk op de uiterste indieningsdatum van wijzigingen in de verzamelaanvraag. Bovendien houdt de eerste verwerker of inzamelaar rekening met de mogelijkheden, vermeld in artikel 7, § 1, tweede lid.<br /><br />§ 2. Uiterlijk op de uiterste indieningdatum van de verzamelaanvraag, stelt de inzamelaar of de eerste verwerker de volledige zekerheid, vermeld in artikel 35 van Verordening (EG) nr. 1973/2004, bij de bevoegde entiteit.<br /><br />Als een contract wordt gewijzigd of opgezegd, wordt de gestelde zekerheid overeenkomstig aangepast.<br /><br />§ 3. De zekerheid wordt voor iedere grondstof vrijgegeven naarmate de bevoegde entiteit van de eerste verwerker of inzamelaar het bewijs heeft ontvangen dat de hoeveelheden grondstoffen overeenkomstig de in artikel 26, lid 2, f) van Verordening (EG) nr. 1973/2004 vermelde bestemmingen zijn verwerkt, waarbij zo nodig met wijzigingen op grond van de bepalingen van artikel 7 rekening wordt gehouden, alsook met wijzigingen van de eindbestemmingen.<br /><br />Indien de zekerheid gesteld werd door een inzamelaar, dan wordt deze vrijgegeven zodra de grondstoffen in kwestie geleverd zijn aan een eerste verwerker én indien de bevoegde entiteit van de inzamelaar het bewijs ontvangen heeft dat deze eerste verwerker een equivalente zekerheid gesteld heeft bij zijn bevoegde entiteit. <br />
+...
 
 ### ART. 10.
 
-§ 1. De eerste verwerker of inzamelaar, aan wie de aanvrager de grondstoffen heeft geleverd, deelt na de ontvangst van de grondstoffen, en uiterlijk op 15 oktober van het oogstjaar, de volgende gegevens mee aan de bevoegde entiteit :<br />1° de hoeveelheid ontvangen grondstof per soort en per type;<br />2° de identiteit en het adres van de aanvrager of van de persoon die geleverd heeft;<br />3° de plaats van levering en opslag;<br />4° de referentie van het contract in kwestie.<br /><br />§ 2. Indien de grondstoffen geproduceerd zijn in een andere lidstaat, stelt de inzamelaar of verwerker binnen veertig werkdagen na de datum waarop hij de ontvangen grondstof aan de verwerker heeft geleverd de bevoegde entiteit in kennis van de naam en het adres van die verwerker.<br /><br />De verwerker of inzamelaar meldt binnen veertig werkdagen na de datum waarop hij de grondstoffen ontvangen heeft van de inzamelaar of verwerker aan de bevoegde entiteit de naam en het adres van die inzamelaar of verwerker die de grondstof heeft geleverd, evenals de hoeveelheid en de soort grondstof.<br />
+...
 
 ### ART. 11.
 
-§ 1. De verwerking tot energieproducten moet beëindigd zijn vóór 31 juli van het tweede jaar dat volgt op het oogstjaar.<br /><br />§ 2. De eerste verwerker die een grondstof of een daaruit vervaardigd tussen- of bijproduct onttrekt aan de verwerkingsketen tot energieproduct, deelt dat voorafgaandelijk mee aan de bevoegde entiteit met het door de bevoegde entiteit vastgelegde kennisgevingformulier.<br /><br />De overeenkomende hoeveelheid grondstof of het daaruit vervaardigde tussen- of bijproduct dat ter vervanging van de onttrokken producten verder verwerkt wordt, moet bij de bevoegde entiteit gemeld worden met het door de bevoegde entiteit vastgelegde kennisgevingformulier.
+...
 
 ### ART. 12.
 
-§ 1. Elke verwerker of inzamelaar moet per grondstof een door de bevoegde entiteit voorafgaandelijk goedgekeurd en gedateerd register minstens maandelijks bijhouden. Elke nieuwe aankoop of verkoop als vermeld in artikel 39 van Verordening (EG) nr. 1973/2004 moet in het register opgenomen worden. <br /><br />§ 2. Het register, vermeld in § 1, wordt ter controle voorgelegd aan de bevoegde entiteit telkens daarom wordt verzocht.<br /><br />§ 3. Elke verwerker of inzamelaar staat op elk ogenblik de bevoegde entiteit toe zijn boekhouding te controleren, zijn installaties te inspecteren, de voorraden na te zien en stalen te nemen van de grondstoffen. <br /><br />§ 4. Alle documenten die bewijskrachtig zijn voor de contracten, de leveringen en de verwerking, zoals facturen, leveringsborderellen, transportdocumenten, productieboekhouding, voorraadlijsten en bestelnota's, worden gedurende drie jaar vanaf de vrijgave van de zekerheid in het bedrijf bewaard.
+...
 
 ## HOOFDSTUK V Bijzondere bepalingen
 
 ### ART. 13.
 
-§ 1. De steun voor de energiegewassen kan, voor de grondstof wordt verwerkt, alleen aan de aanvrager worden betaald, als:<br />1° de grondstof daadwerkelijk geleverd werd;<br />2° de verzamelaanvraag tijdig werd ingediend;<br />3° het originele contract ingediend werd en door de buitendienst die de verzamelaanvraag beheert ontvankelijk verklaard werd;<br />4° door de eerste verwerker of inzamelaar een afschrift van het contract werd ingediend bij de bevoegde entiteit;<br />5° de bevoegde entiteit het bewijs heeft ontvangen dat de volledige zekerheid door de eerste verwerker of inzamelaar werd gesteld;<br />6° de grondstof daadwerkelijk geleverd werd en de geleverde hoeveelheden minstens overeenkomen met de representatieve rendementen, vermenigvuldigd met de oppervlakte, die het voorwerp uitmaken van het contract. In geval van een productietekort gelden de bepalingen van artikel 7, § 3;<br />7° de oogstaangifte van energiegewassen werd ingediend bij de buitendienst die de verzamelaanvraag beheert.<br /><br />§ 2. Bij een tweejarig gewas waarvoor de oogst, en bijgevolg de levering van de grondstof, pas in het tweede teeltjaar plaatsvindt, wordt de betaling in de twee jaar na de sluiting contract, vermeld in artikel 6, uitgevoerd op voorwaarde dat de bevoegde entiteit vaststelt dat:<br />1° de verplichtingen, vermeld in § 1, 2°, 3°, 4° en 5°, nageleefd worden vanaf het eerste teeltjaar;<br />2° de verplichtingen, vermeld in § 1, 1°, 2°, 6° en 7°, in het tweede jaar worden nagekomen.<br /><br />Voor het eerste teeltjaar wordt de betaling pas uitgevoerd als de bevoegde entiteit het bewijs heeft ontvangen dat de zekerheid bij haar werd gesteld. Voor het tweede teeltjaar is het stellen van de zekerheid voor het uitvoeren van de betaling niet vereist.<br /><br />§ 3. Bij een permanente of meerjarige cultuur wordt de steun jaarlijks uitbetaald vanaf het moment dat het contract gesloten wordt. De voorwaarden van § 2 zijn van overeenkomstige toepassing.
+...
 
 ### ART. 14.
 
-De eerste verwerker kan de inzameling van de grondstof bij de landbouwer die steun aanvraagt delegeren aan derden. De gedelegeerde moet handelen namens en voor rekening van de verwerker, die als enige verantwoordelijk blijft voor de bepalingen in hoofdstuk 8 van Verordening (EG) nr. 1973/2004.
+...
 
 ### ART. 15.
 
-De grondstoffen, de daarvan afgeleide eind-, bij-, neven- en tussenproducten, alsook de grond die wordt gebruikt voor de teelt van die grondstoffen, komen niet in aanmerking voor communautaire steun uit hoofde van hoofdstuk VIII van Verordening (EG) nr. 1257/1999 met uitzondering van de steun die ter dekking van de aanplantkosten voor snelgroeiende soorten, vermeld in artikel 31, § 3, tweede lid, van voornoemde Verordening wordt toegekend.
+...
 
 ### ART. 16.
 
-Als een van de uiterste indieningdata, vermeld in dit besluit, op een zaterdag, zondag of feestdag valt, wordt deze verplaatst naar de eerstvolgende werkdag.
+...
 
 ### ART. 17.
 
-Dit besluit heeft uitwerking met ingang van 1 januari 2005.
+...
