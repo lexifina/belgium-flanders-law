@@ -160,6 +160,10 @@ Voor de ondersteuning van de provinciale opdracht voor het organiseren van een p
 
 ## TITEL VII Slotbepalingen
 
+### ART. 34.
+
+Het decreet van 5 april 1995 houdende erkenning en subsidiëring van de gemeentelijke sportdiensten, de provinciale sportdiensten en de sportdienst van de Vlaamse Gemeenschapscommissie wordt opgeheven.<br /><br />
+
 ### ART. 35.
 
 Een gemeentebestuur dat door toepassing van dit decreet in 2008, 2009 of 2010 minder subsidie ontvangt dan het subsidiebedrag waarop de gemeente recht heeft voor het jaar 2005 in uitvoering van het in artikel 34 vermelde decreet, heeft recht op een aanvullende overgangssubsidie. Deze overgangssubsidie wordt berekend op het verschil tussen het subsidiebedrag van 2005 en het totale subsidiebedrag van respectievelijk 2008, 2009 of 2010 en bedraagt :<br />1° voor 2008 maximum 80 % van dit verschil;<br />2° voor 2009 60 % van dit verschil;<br />3° voor 2010 50 % van dit verschil.<br /><br />De Vlaamse Regering bepaalt de nadere voorwaarden voor de uitvoering van dit artikel.<br /><br />
