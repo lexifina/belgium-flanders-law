@@ -1,0 +1,17 @@
+{
+  "codex_id": 1016649,
+  "title": "Ministerieel besluit van 2008-03-03 houdende vaststelling voor het Vlaamse Gewest en voor het aanslagjaar 2008 van de coëfficiënt, vermeld in artikel 255, derde lid, van het Wetboek van de Inkomstenbelastingen 1992 en van de vermindering, vermeld in artikel 257, § 1, 2°, van het Wetboek van de Inkomstenbelastingen 1992",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1016649/VolledigDocument?datum=2008-01-01",
+  "source_sha256": "a7c1a852c3fdb424372570a8990a9948be1fef2d661056452eb586e1777a5ad9",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1016649&param=informatie",
+  "as_of": "2008-01-01",
+  "made": "2008-03-03",
+  "gazette": "2008-03-12",
+  "numac": 2008200766,
+  "document_start": "2008-01-01",
+  "document_end": null,
+  "in_force": "2008-01-01",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2008-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
