@@ -12,6 +12,14 @@ Voor de toepassing van dit besluit wordt verstaan onder :<br />1° oogstaangifte
 
 ## HOOFDSTUK II Voorwaarden voor de aanvrager
 
+### ART. 2.
+
+Naast de voorwaarden voor de aanvrager, vermeld in Verordening (EG) nr. 1973/2004, legt de aanvrager die grondstoffen produceert als vermeld in artikel 88 van Verordening (EG) nr. 1782/2003 uiterlijk op de uiterste datum van indiening van de verzamelaanvraag ofwel het contract voor dat gesloten werd met een erkende inzamelaar of een erkende eerste verwerker en dat voldoet aan de voorwaarden die bepaald zijn in hoofdstuk IV, ofwel een schriftelijke verklaring met betrekking tot de jaren die voorafgaan aan de eerste oogst van meerjarige en blijvende teelten, zoals vermeld in artikel 25, 2, van Verordening (EG) nr. 1973/2004.<br /><br />De aanvrager heeft ook recht op steun voor energiegewassen als het contract gesloten is met een niet-erkende inzamelaar die werkt onder delegatie van een erkende eerste verwerker, zoals is vastgesteld in artikel 27, 6, van Verordening (EG) nr. 1973/2004.<br /><br />
+
+### ART. 3.
+
+§ 1. Na iedere oogst meldt de aanvrager schriftelijk aan de bevoegde instantie per soort en per type de totale geoogste en geleverde hoeveelheid, alsook de datum van levering. Zowel de aanvrager als de inzamelaar of eerste verwerker dateren en ondertekenen die oogstaangifte.<br /><br />§ 2. De aanvrager levert de voor de grondstof in kwestie minimale representatieve opbrengst af aan een erkende inzamelaar, een erkende eerste verwerker of een niet-erkende inzamelaar onder delegatie van een erkende verwerker. De representatieve opbrengst wordt bepaald door de bevoegde instantie ter uitvoering van artikel 26 van Verordening (EG) nr. 1973/2004.<br /><br />Voor meerjarige teelten levert de aanvrager, als er voor de grondstof in kwestie door de bevoegde instantie geen representatieve opbrengst werd vastgelegd, de volledige geoogste hoeveelheid grondstof af aan een erkende inzamelaar, erkende eerste verwerker of niet-erkende inzamelaar onder delegatie van een erkende verwerker.<br /><br />
+
 ## HOOFDSTUK III Gebruik van grondstoffen op het eigen bedrijf
 
 ### ART. 4.
@@ -20,7 +28,19 @@ De aanvrager die tegelijk ook eerste verwerker en gebruiker is van de grondstoff
 
 ## HOOFDSTUK IV Het contract
 
+### ART. 5.
+
+Het contract dat gesloten is tussen de aanvrager en de erkende inzamelaar of de erkende eerste verwerker op grond van artikel 25, 1, van Verordening (EG) nr. 1973/2004, wordt door beide partijen gedateerd en ondertekend.<br /><br />Met behoud van de toepassing van artikel 25, 4, van Verordening (EG) nr. 1973/2004 vermeldt het contract aanvullend de oppervlakte per landbouwstreek van iedere verbouwde soort en van ieder type.<br /><br />Er kan door de aanvrager gedurende eenzelfde campagnejaar slechts één contract afgesloten worden per type grondstof met één erkende inzamelaar of erkende eerste verwerker, als voorzien in artikel 25, 3, derde lid, van Verordening (EG) nr. 1973/2004.<br /><br />
+
+### ART. 6.
+
+§ 1. De partijen kunnen het contract wijzigen voor de uiterste indieningdatum voor wijzigingen van de verzamelaanvraag door een verklaring voor contractswijzigingen in te dienen die door beide partijen werd ondertekend.<br /><br />Met behoud van de toepassing van het eerste lid is, na de uiterste indieningdatum voor wijzigingen van de verzamelaanvraag, een contractswijziging mogelijk voor zover deze wijziging geen verhoging van de steun met zich meebrengt. De contractswijziging wordt alleen toegestaan als de oppervlakten in kwestie niet het voorwerp hebben uitgemaakt van een controle die geleid heeft tot vaststelling van onregelmatigheden of als de bedrijfsleider niet op de hoogte werd gebracht van een belangrijke controle.<br /><br />§ 2. De aanvrager is verplicht minstens de representatieve hoeveelheid te leveren aan de inzamelaar of eerste verwerker. Een productietekort kan in uitzonderlijke omstandigheden, als vermeld in artikel 28 van Verordening (EG) nr. 1973/2004, aanvaard worden voor zover dit tekort niet hoger is dan 10 % van de representatieve hoeveelheid. De aanvrager stuurt de verklaring van het productietekort naar de buitendienst binnen de tien werkdagen nadat de landbouwer dit tekort heeft vastgesteld.<br /><br />Indien de uiteindelijk geleverde hoeveelheid overeenstemt met minder dan 90 % van de vastgelegde representatieve hoeveelheid, bezorgt de aanvrager daartoe aan de buitendienst het bewijsstuk van geleden teeltschade dat, behalve bij overmacht, opgesteld wordt door een van onderstaande instanties :<br />1° de commissie voor de vaststelling van schade aan teelten;<br />2° een ambtenaar van de bevoegde instantie of van een buitendienst van die bevoegde instantie;<br />3° een ambtenaar van een andere landbouwkundige instantie van de Vlaamse overheid of van de provincie.<br /><br />Een schadedossier kan pas aanvaard worden als het vóór of tijdens de oogst werd opgesteld.<br /><br />In het geval dat de verliezen zich pas tijdens de oogst voordoen, kan een schadedossier kort na de oogst opgesteld worden. Dit kan enkel op voorwaarde dat de aanvrager de buitendienst ten laatste één dag na de oogst op de hoogte brengt en dat de schade nog kan vastgesteld worden op het veld<br />Ingeval van een geldig schadedossier wordt door de bevoegde instantie de representatieve hoeveelheid aangepast voor de betrokkene, volgens het vastgestelde schadepercentage.<br /><br />
+
 ## HOOFDSTUK V Voorwaarden voor de inzamelaar en verwerker
+
+### ART. 7.
+
+Elke inzamelaar en verwerker moet de administratieve capaciteiten hebben om per soort grondstof, zowel voor binnenlandse als voor buitenlandse grondstof, een adequaat register bij te houden.<br /><br />Het register wordt minstens maandelijks bijgehouden en vermeldt, naast de gegevens, vermeld in artikel 38 van Verordening (EG) nr. 1973/2004, minimaal de datum van levering van de grondstoffen en de naam en het adres van de volgende ontvangende partij van de eventueel al gedeeltelijk verwerkte grondstoffen.<br /><br />Het register wordt ter controle voorgelegd aan de bevoegde instantie telkens als die daarom verzoekt.<br /><br />Elke inzamelaar en verwerker staat op elk ogenblik aan de bevoegde instantietoe zijn boekhouding te controleren, zijn installaties te inspecteren, de voorraden na te zien en stalen te nemen van de grondstoffen.<br /><br />Alle documenten die bewijskrachtig zijn voor de contracten, de leveringen en de verwerking, zoals facturen, leveringsborderellen, transportdocumenten, een productieboekhouding, voorraadlijsten en bestelnota's, worden gedurende vijf jaar na verkoop of verwerking in het bedrijf bewaard. <br /><br />
 
 ### ART. 8.
 
@@ -52,9 +72,17 @@ In afwijking van artikel 8 kunnen inzamelaars die, en in afwijking van artikel 9
 
 ## HOOFDSTUK VI Bijzondere bepalingen
 
+### ART. 15.
+
+De steun voor de energiegewassen kan, voor de grondstof wordt verwerkt, alleen aan de aanvrager worden betaald, als :<br />1° de grondstof daadwerkelijk geleverd werd en de geleverde hoeveelheden minstens overeenkomen met de representatieve opbrengsten, vermenigvuldigd met de oppervlakte, die het voorwerp uitmaken van het contract;<br />2° de verzamelaanvraag tijdig werd ingediend;<br />3° het contract tijdig werd ingediend en door de buitendienst die de verzamelaanvraag beheert, ontvankelijk werd verklaard;<br />4° de oogstaangifte van energiegewassen werd ingediend bij de buitendienst die de verzamelaanvraag beheert, voor aanvragers met een contract.<br /><br />Bij een meerjarig gewas waarvoor de oogst, en bijgevolg de levering van de grondstof, pas in het tweede teeltjaar plaatsvindt, wordt de betaling van de steun in de twee jaar na de sluiting van het contract, vermeld in artikel 5, uitgevoerd op voorwaarde dat de bevoegde instantie vaststelt dat :<br />1° de verplichtingen, vermeld in het eerste lid, 2° en 3°, nageleefd worden vanaf het eerste teeltjaar;<br />2° de verplichtingen, vermeld in het eerste lid, 1° en 4°, ook in het tweede jaar worden nagekomen.<br />Bij een permanente of meerjarige cultuur wordt de betaling van de steun na de sluiting van het contract, vermeld in artikel 5, jaarlijks uitgevoerd, op voorwaarde dat de bevoegde instantie vaststelt dat :<br />1° de verplichtingen, vermeld in het eerste lid, 2° en 3°, elk teeltjaar nageleefd worden vanaf het eerste teeltjaar;<br />2° de verplichtingen, vermeld in het eerste lid, 1° en 4°, ook in het oogstjaar worden nagekomen.<br /><br />
+
 ### ART. 16.
 
 Als een van de uiterste indieningdata, vermeld in dit besluit, op een zaterdag, zondag of feestdag valt, wordt die verplaatst naar de eerstvolgende werkdag.<br /><br />
+
+### ART. 17.
+
+Het ministerieel besluit van 25 november 2005 houdende de uitvoeringsbepalingen betreffende de steun voor energiegewassen, gewijzigd bij het ministerieel besluit van 29 juni 2006, wordt opgeheven.<br /><br />
 
 ### ART. 18.
 
