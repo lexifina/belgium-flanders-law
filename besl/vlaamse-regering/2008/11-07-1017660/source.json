@@ -1,0 +1,17 @@
+{
+  "codex_id": 1017660,
+  "title": "Besluit van de Vlaamse Regering van 2008-11-07 tot regeling van een aantal aangelegenheden ter uitvoering van het decreet van 7 december 2007 betreffende energieprestaties in scholen",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1017660/VolledigDocument?datum=2008-01-01",
+  "source_sha256": "8a114bedd144acc1895dc2fe40f2df38a9abec8effb4e500cca64806441b0b27",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1017660&param=informatie",
+  "as_of": "2008-01-01",
+  "made": "2008-11-07",
+  "gazette": "2009-03-10",
+  "numac": 2009035218,
+  "document_start": "2008-01-01",
+  "document_end": null,
+  "in_force": "2008-01-01",
+  "article_versions": 8,
+  "record_form": "consolidated version as in force on 2008-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
