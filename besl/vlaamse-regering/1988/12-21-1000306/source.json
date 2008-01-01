@@ -2,16 +2,16 @@
   "codex_id": 1000306,
   "title": "Besluit van de Vlaamse Regering van 1988-12-21 houdende de organisatie van de arbeidsbemiddeling en de beroepsopleiding",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1000306/VolledigDocument?datum=2007-07-31",
-  "source_sha256": "7f71519448422a2aa7737814c6df4a37c51fc2b9eaf05558e3fec2c9c209594f",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1000306/VolledigDocument?datum=2008-01-01",
+  "source_sha256": "eb3c32961f6737b9b9d57a5094499a8064c4a8f5092291eb9dadca5f34ef5bd5",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1000306&param=informatie",
-  "as_of": "2007-07-31",
+  "as_of": "2008-01-01",
   "made": "1988-12-21",
   "gazette": "1989-01-14",
   "numac": 1989029017,
   "document_start": null,
   "document_end": "2009-09-30",
-  "in_force": "2007-07-31",
+  "in_force": "2008-01-01",
   "article_versions": 167,
-  "record_form": "consolidated version as in force on 2007-07-31; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2008-01-01; future article versions excluded; article text as the API gives it"
 }
