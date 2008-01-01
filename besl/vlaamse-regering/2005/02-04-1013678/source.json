@@ -2,16 +2,16 @@
   "codex_id": 1013678,
   "title": "Besluit van de Vlaamse Regering van 2005-02-04 inzake de verhandelbare emissierechten voor broeikasgassen en tot wijziging van het besluit van de Vlaamse Regering van 6 februari 1991 houdende vaststelling van het Vlaams Reglement betreffende de milieuvergunning en van het besluit van de Vlaamse Regering van 1 juni 1995 houdende de algemene en sectorale bepalingen inzake milieuhygiëne",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1013678/VolledigDocument?datum=2007-02-23",
-  "source_sha256": "1f2c545e8ecb6ee0686e6ef40affbc68c42b510ac8ed39693ab67f47cbc8969c",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1013678/VolledigDocument?datum=2008-01-01",
+  "source_sha256": "2a6f751c2fbc075150b1bdcb43c400fcdfcb297dd4035b64577cd3d9be852ddd",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1013678&param=informatie",
-  "as_of": "2007-02-23",
+  "as_of": "2008-01-01",
   "made": "2005-02-04",
   "gazette": "2005-02-28",
   "numac": 2005035241,
   "document_start": "2005-02-28",
   "document_end": "2007-12-31",
-  "in_force": "2007-02-23",
+  "in_force": "2008-01-01",
   "article_versions": 64,
-  "record_form": "consolidated version as in force on 2007-02-23; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2008-01-01; future article versions excluded; article text as the API gives it"
 }
