@@ -92,7 +92,7 @@ De minister kan in bijzondere gevallen en op gemotiveerd verzoek, afwijkingen to
 
 ### ART. 19.
 
-De jaarlijkse basishuurprijs van woningen in de desbetreffende sociale woonwijk wordt vastgesteld overeenkomstig de bepalingen van het sociaal huurbesluit. Voor de ADL-woningen wordt die basishuurprijs evenwel verminderd met een bedrag dat overeenstemt met de theoretische annuïteit die de sociale huisvestingsmaatschappij zou moeten dragen op een leningskrediet ten bedrage van de subsidies zoals bepaald in artikel 21, § 1, tweede lid, 1° en 2°.<br /><br />De jaarlijkse basishuurprijs van de ADL-centrale wordt vastgesteld op minimaal 5,5% van de geactualiseerde kostprijs. Die basishuurprijs wordt evenwel verminderd met een bedrag dat overeenstemt met de theoretische annuïteit die de sociale huisvestingsmaatschappij zou moeten dragen op een leningskrediet ten bedrage van de subsidies zoals bedoeld in artikel 21, § 1, tweede lid, 3°.
+De ADL-woningen worden verhuurd overeenkomstig het sociaal   huurbesluit.<BR><BR>De jaarlijkse basishuurprijs van de ADL-centrale wordt   vastgesteld op minimaal 5,5 % van de geactualiseerde kostprijs. Die   basishuurprijs wordt verminderd met een bedrag dat overeenstemt met de   theoretische annuïteit die de sociale huisvestingsmaatschappij zou moeten dragen   op een leningskrediet ten bedrage van de subsidies, vermeld in artikel 21, § 1,   tweede lid, 3°.
 
 ## HOOFDSTUK IV [... (opgeh. BVR 20 juli 2018, art. 4, I: 24 september 2018)]
 
