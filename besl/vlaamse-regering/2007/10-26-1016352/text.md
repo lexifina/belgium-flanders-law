@@ -6,20 +6,20 @@ De Vlaamse Regering,<br /><br />Gelet op het decreet van 30 april 2004 tot opric
 
 ### ART. 1.
 
-In artikel 1 van het Besluit van de Vlaamse Regering van 30 maart 2007 houdende de voorwaarden voor toestemming en subsidiëring van lokale diensten buurtgerichte kinderopvang wordt punt 8° vervangen door wat volgt :<br />« 8° doelgroepwerknemer : voor de werknemer, in een lokale dienst in het Vlaamse Gewest, de werknemer die voldoet aan de voorwaarden, vermeld in het koninklijk besluit van 3 mei 1999 tot uitvoering van artikel 7, § 1, derde lid, m, van de besluitwet van 28 december 1944 betreffende de maatschappelijke zekerheid der arbeiders betreffende de herinschakeling van zeer moeilijk te plaatsen werklozen, en voor de werknemer, in een lokale dienst in het tweetalige gebied Brussel-Hoofdstad, de werknemer die voldoet aan de voorwaarden, vermeld in het Besluit van de Brusselse Hoofdstedelijke Regering van 28 november 2002 betreffende het stelsel van de gesubsidieerde contractuelen of het Besluit van de Brusselse Hoofdstedelijke Regering van 29 januari 1998 tot uitvoering van de ordonnantie van 27 november 1997 houdende goedkeuring van het samenwerkingsakkoord van 4 maart 1997 tussen de Federale Staat en de gewesten betreffende de doorstromingsprogramma's; ».<br />
+...
 
 ### ART. 2.
 
-In artikel 14, § 2, van hetzelfde besluit worden tussen de woorden « De doelgroepwerknemer » en « is geslaagd », de woorden « in een lokale dienst in het Vlaamse Gewest« ingevoegd.<br />
+...
 
 ### ART. 3.
 
-In hetzelfde besluit wordt een artikel 29bis ingevoegd, dat luidt als volgt :<br /><br />« Art. 29bis. De lokale dienst in het tweetalige gebied Brussel-Hoofdstad kan boven op de forfaitaire subsidiebedragen en het aanvullende subsidiebedrag een omkaderingspremie krijgen van maximaal 12.000 euro op jaarbasis. Daarvoor moet de lokale dienst minimaal één doelgroepwerknemer in een begeleidende functie in dienst nemen.<br /><br />De omkaderingspremie wordt aantoonbaar ingezet om de begeleidings- en opleidingstrajecten voor de doelgroepwerknemers te ontwikkelen en te organiseren. »<br />
+...
 
 ### ART. 4.
 
-Dit besluit heeft uitwerking met ingang van 1 januari 2007 en houdt op van kracht te zijn op 31 december 2007, behalve art. 3 dat uitwerking heeft met ingang van 1 september 2007 en ophoudt van kracht te zijn op 31 december 2007.<br />
+...
 
 ### ART. 5.
 
-De Vlaamse minister, bevoegd voor de Bijstand aan Personen, is belast met de uitvoering van dit besluit.
+...
