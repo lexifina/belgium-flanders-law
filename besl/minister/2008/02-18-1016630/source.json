@@ -1,0 +1,17 @@
+{
+  "codex_id": 1016630,
+  "title": "Ministerieel besluit van 2008-02-18 tot bepaling van de standaard voor de titel van dubbelstuk tapijtwever",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1016630/VolledigDocument?datum=2008-01-01",
+  "source_sha256": "80d86eac69141cd07f23fa10722403ef5a782b0822ec552c254aa4bc2cd22808",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1016630&param=informatie",
+  "as_of": "2008-01-01",
+  "made": "2008-02-18",
+  "gazette": "2008-03-03",
+  "numac": 2008035347,
+  "document_start": "2008-01-01",
+  "document_end": "2018-12-31",
+  "in_force": "2008-01-01",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2008-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
