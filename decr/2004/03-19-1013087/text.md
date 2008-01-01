@@ -102,7 +102,7 @@ De interne beroepsprocedure leidt tot:<br /><br />1° de gemotiveerde afwijzing 
 
 ### ART. II.15.
 
-Er wordt een [Raad voor betwistingen inzake studievoortgangsbeslissingen,  <span class="reference">(verv. decr. 30 april 2004, art. 82, I: academiejaar 2005-2006)</span> ] verder "de Raad" genoemd, opgericht bij het ministerie van de Vlaamse Gemeen-schap.<br /><br />De Raad doet als administratief rechtscollege uitspraak over de beroepen die door studenten worden ingesteld tegen examen(tucht)beslissingen, na uitputting van de in onderafdeling 1 bedoelde interne beroepsprocedure.
+Er wordt een Raad voor betwistingen inzake studievoortgangsbeslissingen, verder "de Raad" genoemd, opgericht bij het ministerie van de Vlaamse Gemeen-schap.<br /><br />De Raad doet als administratief rechtscollege uitspraak over de beroepen die door studenten worden ingesteld tegen examen(tucht)beslissingen, na uitputting van de in onderafdeling 1 bedoelde interne beroepsprocedure.<br /><br />De beslissingen genomen door het instellingsbestuur en door de stuurgroep Databank Hoger Onderwijs op grond van de procedure, zoals vastgelegd in artikel 113quater van het decreet van 4 april 2003 betreffende de herstructurering van het hoger onderwijs in Vlaanderen, kunnen worden aangevochten voor de Raad voor betwistingen inzake studievoortgangsbeslissingen. De Raad beoordeelt of de bestreden vermeldingen in overeenstemming zijn met de decretale en reglementaire bepalingen en, desgevallend, met de van toepassing zijnde onderwijs- en examenregelingen. De behandeling van een verzoekschrift ter zake door de Raad leidt tot de gemotiveerde afwijzing van het beroep op grond van de onontvankelijkheid of ongegrondheid ervan, of tot de gemotiveerde vernietiging van de onrechtmatig genomen beslissing. In dat laatste geval brengt het instellingsbestuur of de door de stuurgroep aangewezen persoon de bestreden vermelding onverwijld in overeenstemming met de dragende redenen die hebben geleid tot de uitspraak van de Raad.
 
 ### ART. II.16.
 
@@ -517,6 +517,54 @@ De Vlaamse regering wijst onder haar ambtenaren een secretaris van het Vlaams On
 Het Vlaams Onderhandelingscomité neemt een werkingsreglement aan, dat bekrachtigd wordt door de Vlaamse regering.
 
 ## [HOOFDSTUK IVbis. VORMINGSFONDS (ing. decr. 4 juli 2008, art. V.51, I: 1 januari 2008)]
+
+### ART. II.88bis.
+
+Er wordt een Sectoraal Vormingsfonds voor het Hoger Onderwijs ingesteld, hierna vormingsfonds genoemd.<br /><br />Het vormingsfonds heeft tot doel de vormingsdynamiek voor de personeelsleden in de universiteiten en hogescholen te stimuleren.
+
+### ART. II.88ter.
+
+Het vormingsfonds wordt beheerd door het Vlaams Onderhandelingscomité voor het hoger onderwijs.
+
+### ART. II.88quater.
+
+Het Vlaams Onderhandelingscomité legt bij eenparigheid de prioritaire vormingsthema's vast.
+
+### ART. II.88quinquies.
+
+Jaarlijks wordt op de begroting van de Vlaamse Gemeenschap een dotatie ten behoeve van het vormingsfonds uitgetrokken. De dotatie bedraagt minstens 1.070.000 euro.<br /><br />De Vlaamse Regering deelt ieder jaar voor één oktober het bedrag van de dotatie mee aan het Vlaams Onderhandelingscomité.
+
+### ART. II.88sexies.
+
+De dotatie wordt onder de universiteiten en hogescholen verdeeld a rato van het aandeel van elke instelling in de werkingsuitkering voor het voorgaande begrotingsjaar.<br /><br />In afwijking van het eerste lid wordt de dotatie voor het jaar 2008 onder de instellingen verdeeld a rato van hun aandeel in de werkingsuitkering voor het jaar 2008.
+
+### ART. II.88septies.
+
+De instellingen kunnen de via het vormingsfonds toegekende vormingsmiddelen maximaal tweemaal overdragen naar een volgend begrotingsjaar.
+
+### ART. II.88octies.
+
+Het bedrag van de via het vormingsfonds toegekende middelen dat niet binnen drie begrotingsjaren besteed is, wordt het eerstvolgende begrotingsjaar in mindering gebracht op de toegekende middelen voor het vormingsfonds voor de betrokken instelling.<br /><br />De ingehouden middelen worden in gelijke delen toegevoegd aan de middelen voor de andere instellingen.
+
+### ART. II.88novies.
+
+De universiteiten en hogescholen nemen bij de besteding van de via het vormingsfonds toegekende vormingsmiddelen de volgende regels in acht :<br />1° de toegekende middelen worden gebruikt voor de bekostiging van bijkomende opleidings- en vormingsinitiatieven in vergelijking met de opleidings- en vormingsinitiatieven tot en met het academiejaar 2005-2006;<br />2° bij het vastleggen van de vormingsinitiatieven wordt rekening gehouden met de prioritaire vormingsthema's;<br />3° er is over de vormingsinitiatieven een akkoord met de afgevaardigden van het personeel in het lokale medezeggenschapsorgaan;<br />4° de instelling besteedt minstens een zelfde bedrag aan vormings- en opleidingsinitiatieven als het bedrag dat met de middelen van het vormingsfonds besteed is.
+
+### ART. II.88decies.
+
+Het instellingsbestuur bezorgt het Vlaams Onderhandelingscomité ieder jaar een verslag en een afrekening van de vormingsinitiatieven van het voorgaande begrotingsjaar. Deze documenten zijn in het lokale medezeggenschapsorgaan besproken met de afvaardigingen van het personeel.
+
+### ART. II.88undecies.
+
+Het Vlaams Onderhandelingscomité bezorgt de Vlaamse Regering ieder jaar voor 1 juli een verslag van het beheer van het vormingsfonds in het afgelopen begrotingsjaar.
+
+### ART. II.88duodecies.
+
+Het Vlaams Onderhandelingscomité neemt een reglement vormingsfonds aan dat bekrachtigd wordt door de Vlaamse Regering.<br /><br />Het reglement vormingsfonds bevat ten minste een regeling voor :<br />1° de procedure voor de vaststelling van de prioritaire vormingsthema's;<br />2° de procedure voor de rapportering van de instellingen aan het Vlaams Onderhandelingscomité;<br />3° de procedure voor de rapportering door het Vlaams Onderhandelingscomité.
+
+### ART. II.88ter decies.
+
+De begroting voor het vormingsfonds wordt toegevoegd aan het ontwerp van decreet houdende de algemene uitgavenbegroting van de Vlaamse Gemeenschap.
 
 ## HOOFDSTUK V SLOTBEPALINGEN
 
@@ -1120,7 +1168,7 @@ Deze titel is van toepassing op de associaties en op de universiteiten en hogesc
 
 ### ART. VI.9ter.
 
-§ 1. Voor de begrotingsjaren 2006 en 2007 wordt in een ondersteuning voorzien ten bate van de versteviging van de onderzoeksbetrokkenheid van academisch gerichte hogeschoolopleidingen, daaronder begrepen het versterken van de onderzoeks- en innovatiecapaciteit, het bewerkstelligen van de interdisciplinariteit en transdisciplinariteit van het gevoerde onderzoek, en de bevordering van de valorisatie van onderzoeksresultaten en de samenwerking met het bedrijfsleven.<br /><br />In het begrotingsjaar 2006 wordt ten behoeve van de in het eerste lid bedoelde ondersteuningsmaatregel een bedrag van 2 miljoen euro vastgelegd. De Vlaamse Regering bepaalt, binnen de beschikbare begrotingskredieten, het bedrag dat in het begrotingsjaar 2007 ten behoeve van deze ondersteuningsmaatregel wordt vastgelegd, met dien verstande dat dit bedrag ten minste gelijk is aan 2 miljoen euro, geïndexeerd overeenkomstig artikel 184, § 1, van het decreet van 13 juli 1994 betreffende de hogescholen in de Vlaamse Gemeenschap. <br /><br />§ 2. Het aandeel van elke hogeschool in het in § 1 bedoelde globaal bedrag wordt in 2006 en in 2007 berekend a rato van het aantal financierbare studenten, ingeschreven op 1 februari 2005 in de academisch gerichte hogeschoolopleidingen. Voor de toepassing van deze bepaling wordt onder financierbare studenten verstaan : de studenten als bedoeld in artikel 177 van het decreet van 13 juli 1994 betreffende de hogescholen in de Vlaamse Gemeenschap.
+§ 1. Voor de begrotingsjaren 2006, 2007 en 2008 wordt in een ondersteuning voorzien ten bate van de versteviging van de onderzoeksbetrokkenheid van academisch gerichte hogeschoolopleidingen, daaronder begrepen het versterken van de onderzoeks- en innovatiecapaciteit, het bewerkstelligen van de interdisciplinariteit en transdisciplinariteit van het gevoerde onderzoek, en de bevordering van de valorisatie van onderzoeksresultaten en de samenwerking met het bedrijfsleven.<br /><br />In het begrotingsjaar 2006 wordt ten behoeve van de in het eerste lid bedoelde ondersteuningsmaatregel een bedrag van 2 miljoen euro vastgelegd. De Vlaamse Regering bepaalt, binnen de beschikbare begrotingskredieten, het bedrag dat in de begrotingsjaren 2007 en 2008 ten behoeve van deze ondersteuningsmaatregel wordt vastgelegd, met dien verstande dat dit bedrag ten minste gelijk is aan 2 miljoen euro, geïndexeerd overeenkomstig artikel 184, § 1, van het decreet van 13 juli 1994 betreffende de hogescholen in de Vlaamse Gemeenschap. <br /><br />§ 2. Het aandeel van elke hogeschool in het in § 1 bedoelde globaal bedrag wordt in 2006, in 2007 en in 2008 berekend a rato van het aantal financierbare studenten, ingeschreven op 1 februari 2005 in de academisch gerichte hogeschoolopleidingen. Voor de toepassing van deze bepaling wordt onder financierbare studenten verstaan : de studenten als bedoeld in artikel 177 van het decreet van 13 juli 1994 betreffende de hogescholen in de Vlaamse Gemeenschap.
 
 ### ART. VI.9quater.
 
@@ -1192,13 +1240,21 @@ De Vlaamse Regering bepaalt nadere regelen op het vlak van :<br />1° de selecti
 
 ## [TITEL IVquater VLAAMS ACADEMISCH BIBLIOGRAFISCH BESTAND "SOCIALE EN HUMANE WETENSCHAPPEN" (ing. decr. 14 maart 2008, art. 73, I: 1 januari 2008)]
 
+### ART. VI.9.17.
+
+§ 1. Er wordt een Vlaams Academisch Bibliografisch Bestand « Sociale en Humane Wetenschappen » georganiseerd, verder « VABB-SHW » genoemd, waarin bibliografische gegevens zijn opgenomen van wetenschappelijke publicaties binnen het domein van de Sociale en Humane Wetenschappen, afkomstig van onderzoekers die verbonden zijn aan een universiteit of hogeschool in de Vlaamse Gemeenschap en die niet verwerkt zijn voor de Web of Science.<br /><br />De Vlaamse Regering legt een operationele omschrijving van de wetenschapsdisciplines « Sociale en Humane Wetenschappen » vast.<br /><br />§ 2. Het VABB-SHW wordt ontwikkeld en geactualiseerd door vertegenwoordigers van de wetenschapsdisciplines « Sociale en Humane Wetenschappen », op de wijze als voorgeschreven door de Vlaamse Regering. De Vlaamse Regering legt het VABB-SHW vast na advies van het Steunpunt O&O-indicatoren; erkend en gefinancierd door de Vlaamse overheid en gebaseerd op een toets van een panel van niet in België werkzame onderzoekers. Het VABB-SHW wordt beheerd door het Steunpunt O&O-indicatoren; erkend en gefinancierd door de Vlaamse overheid.<br /><br />De Vlaamse Regering organiseert met betrekking tot de architectuur, de inhoudelijke opbouw en het beheer van het VABB-SHW een systeem van externe kwaliteitszorg. Dit systeem houdt in dat de kwaliteit en de graad van wetenschappelijkheid van het VABB-SHW-stelsel periodiek, volgens een door de Vlaamse Regering te bepalen tijdschema, worden getoetst door een panel van niet in België werkzame onderzoekers. De bevindingen van dit panel worden voorgelegd aan het Vlaams Parlement, samen met de conclusies of adviezen van de beheersinstantie van het VABB-SHW en van de Vlaamse Regering.
+
+### ART. VI.9.18.
+
+§ 1. Het VABB-SHW is uiterlijk op 1 januari 2011 operationeel.<br /><br />§ 2. Indien de in § 1 vermelde datum niet wordt gehaald omwille van een niet-validering van de architectuur en de inhoudelijke opbouw van het VABB-SHW door de vertegenwoordigers van de verschillende wetenschapsdisciplines, is de Vlaamse Regering ertoe gemachtigd om een activeringsmaatregel toe te passen bij de berekening van het variabel onderzoeksdeel in hoofde van de universiteiten.<br /><br />Die activeringsmaatregel bestaat in :<br />1° een jaarlijkse graduele verhoging van het gewicht van het aantal citaties in het element als vermeld in artikel 29, § 2, 3°, van het decreet van 14 maart 2008 betreffende de financiering van de werking van de hogescholen en de universiteiten in Vlaanderen, en dit tot ten hoogste 0.70;<br />2° een jaarlijkse graduele afbouw van het verhoogde gewicht tot het initiële gewicht van 0.50, en dit vanaf het begrotingsjaar volgend op het jaar waarin het VABB-SHW alsnog operationeel wordt.
+
 ## [TITEL IVquater EXPERTISECENTRUM ONDERZOEK EN ONTWIKKELINGSMONITORING (ing. decr. 4 juli 2008, art. V.52, I: 1 september 2008)]
 
 ## TITEL V INWERKINGTREDINGSBEPALING
 
 ### ART. VI.10.
 
-Artikelen VI.3 tot en met VI.9 treden in werking op 1 oktober 2004.<br /><br />Artikel VI.1 en VI.2 treden in werking op 1 oktober 2005. De Vlaamse regering kan ten aanzien van bepaalde instellingen die daarom verzoeken een vroegere inwerkingtredingsdatum bepalen. Indien deze instellingen partner zijn bij een associatie is vereist dat deze associatie op die datum reeds beschikt over een algemeen onderzoeks- en samenwerkingsreglement in de zin van het door artikel VI.9 in het decreet van 4 april 2003 betreffende de herstructurering van het hoger onderwijs in Vlaanderen ingevoegde artikel 101bis.<br /><br />Artikelen VI.9bis tot en met IV.9septies hebben uitwerking met ingang van 1 januari 2006 en houden op uitwerking te hebben op 31 december 2007.<br /><br />De artikelen VI.9.8 tot en met VI.9.16 treden in werking op 1 januari 2007.<br />
+Artikelen VI.3 tot en met VI.9 treden in werking op 1 oktober 2004.<br /><br />Artikel VI.1 en VI.2 treden in werking op 1 oktober 2005. De Vlaamse regering kan ten aanzien van bepaalde instellingen die daarom verzoeken een vroegere inwerkingtredingsdatum bepalen. Indien deze instellingen partner zijn bij een associatie is vereist dat deze associatie op die datum reeds beschikt over een algemeen onderzoeks- en samenwerkingsreglement in de zin van het door artikel VI.9 in het decreet van 4 april 2003 betreffende de herstructurering van het hoger onderwijs in Vlaanderen ingevoegde artikel 101bis.<br /><br />Artikelen VI.9bis tot en met IV.9septies hebben uitwerking met ingang van 1 januari 2006 en houden op uitwerking te hebben op 31 december 2008.<br /><br />De artikelen VI.9.8 tot en met VI.9.16 treden in werking op 1 januari 2007.<br />
 
 ## DEEL VII OPDRACHT TOT COÖRDINATIE
 
