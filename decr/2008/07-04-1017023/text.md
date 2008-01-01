@@ -104,6 +104,10 @@ In artikel 87 van hetzelfde decreet wordt § 1 vervangen door wat volgt :<br />�
 
 In artikel 109, van hetzelfde decreet worden de volgende wijzingen aangebracht :<br />1° aan § 1 wordt een tweede lid toegevoegd, dat luidt als volgt :<br />« Indien de in artikel 24, § 2, bedoelde afwijking voor bijzondere doelgroepen het minimale aantal lestijden van een opleiding overschrijdt, dan wordt het inschrijvingsgeld berekend op basis van het aantal lestijden bedoeld in hetzelfde artikel 24, § 1, 3°. »;<br />2° in § 3 wordt 5° opgeheven.<br /><br />
 
+### ART. IV.11.
+
+In artikel 162 van hetzelfde decreet worden de woorden « met uitzondering van de artikelen 55, 57 en 57bis die worden opgeheven met ingang van 1 september 2008 » vervangen door de woorden « met uitzondering van artikel 57 dat wordt opgeheven met ingang van 1 januari 2008, artikel 57bis dat wordt opgeheven met ingang van 1 september 2008 en artikel 55 dat wordt opgeheven met ingang van 1 september 2009 ».<br /><br />
+
 ### ART. IV.16.
 
 In titel IX, hoofdstuk II, afdeling III, van hetzelfde decreet, wordt een artikel 196bis ingevoegd, dat luidt als volgt :<br />« Artikel 196bis<br />De referteperiode van 1 februari 2007 tot 31 januari 2008 wordt éénmalig met twee maanden verlengd tot 31 maart 2008. ».<br /><br />
@@ -122,7 +126,23 @@ De bepalingen van dit hoofdstuk treden in werking op 1 september 2008, met uitzo
 
 ## Afdeling I Decreet betreffende de universiteiten
 
+### ART. V.6.
+
+Artikel 154, tweede lid, van hetzelfde decreet wordt vervangen door wat volgt :<br />« De begroting is ingedeeld in acht afdelingen :<br />1° Afdeling I. Werking<br />2° Afdeling II. Onroerende investeringen<br />3° Afdeling III. Sociale voorzieningen voor studenten<br />4° Afdeling IV.1. Bijzondere onderzoeksfondsen<br />5° Afdeling IV.2. Andere onderzoeksfondsen<br />6° Afdeling V. Patrimonium<br />7° Afdeling VI. Voor orde<br />8° Afdeling VII. Bedrijfseconomische afdeling. ».<br /><br />
+
+### ART. V.7.
+
+In artikel 158, eerste lid, van hetzelfde decreet, gewijzigd bij het decreet van 14 juli 1998, worden de woorden « per kalenderjaar en » geschrapt.<br /><br />
+
 ## Afdeling II Decreet betreffende de hogescholen
+
+### ART. V.25.
+
+Aan artikel 304bis van hetzelfde decreet wordt een § 3 toegevoegd, die luidt als volgt :<br />« § 3. De Vlaamse overheid kent aan de representatieve vakorganisaties middelen toe voor de werkingskosten van de in dit artikel bedoelde personeelsleden met een verlof wegens vakbondsopdracht. Deze middelen bedragen 3000 euro per effectieve voltijdse eenheid. ».<br /><br />
+
+### ART. V.29.
+
+Aan artikel 340sexies, § 3, van hetzelfde decreet worden de volgende wijzigingen aangebracht :<br />1° het vijfde gedachtestreepje wordt geschrapt;<br />2° er wordt een tweede lid toegevoegd, dat luidt als volgt :<br />« De besluiten die de Vlaamse Regering neemt in uitvoering van de bepalingen van dit decreet met betrekking tot de begroting en de personeelsformatie voor de hogescholen en betreffende de algemene boekhouding, de jaarrekening en het rekeningstelsel voor de hogescholen zijn van overeenkomstige toepassing op de instituten voor schone kunsten en de instellingen die excellente kunstopleidingen organiseren. ».<br /><br />
 
 ## Afdeling III Decreet betreffende de wetenschappelijke en maatschappelijke dienstverlening door het hoger onderwijs
 
@@ -133,6 +153,26 @@ De bepalingen van dit hoofdstuk treden in werking op 1 september 2008, met uitzo
 Artikel 30 van het decreet van 9 juni 1998 betreffende de Hogere Zeevaartschool, gewijzigd bij decreet van 20 april 2001, wordt aangevuld met een derde lid dat luidt als volgt :<br />« Het bedrag van de bedrijfsvoorheffing dat de Hogere Zeevaartschool niet verschuldigd is aan de federale diensten Financiën voor de aan de Hogere Zeevaartschool tewerkgestelde onderzoekers wordt toegevoegd aan het bedrag van de dotatie bedoeld in artikel 29. ».<br /><br />
 
 ## Afdeling V Decreet betreffende sommige instellingen van openbaar nut voor postinitieel onderwijs, wetenschappelijk onderzoek en wetenschappelijke dienstverlening
+
+### ART. V.33.
+
+Artikel 2 van het decreet van 18 mei 1999 betreffende sommige instellingen van openbaar nut voor postinitieel onderwijs, wetenschappelijk onderzoek en wetenschappelijke dienstverlening, gewijzigd bij decreet van 20 april 2001, wordt vervangen door wat volgt :<br />« Artikel 2<br />Dit decreet regelt de erkenning en de subsidiëring van de Vlerick Leuven Gent Management School, het Instituut voor Tropische Geneeskunde en de Universiteit Antwerpen Management School, hierna genoemd « de instellingen ». ».<br /><br />
+
+### ART. V.34.
+
+In hetzelfde decreet wordt een artikel 8bis toegevoegd dat luidt als volgt :<br />« Artikel 8bis<br />Wordt in het kader van dit decreet erkend als opdracht van de Universiteit Antwerpen Management School : het verstrekken van postinitieel onderwijs, het verrichten van wetenschappelijk onderzoek en het verstrekken van wetenschappelijke dienstverlening op het gebied van de managementwetenschappen. ».<br /><br />
+
+### ART. V.35.
+
+In artikel 11 van hetzelfde decreet wordt het vierde lid geschrapt.<br /><br />
+
+### ART. V.36.
+
+In artikel 14 van hetzelfde decreet worden de volgende wijzigingen aangebracht :<br />1° in 1° wordt het derde streepje vervangen door wat volgt :<br />« - de studiegelden. Het maximumbedrag mag nooit hoger zijn dan het in artikel 62 van het decreet van 30 april 2004 betreffende de flexibilisering van het hoger onderwijs in Vlaanderen en houdende dringende hogeronderwijsmaatregelen bepaalde studiegeld. »;<br /><br />2° in 2° wordt het eerste lid vervangen door wat volgt :<br />« Elke instelling sluit met minstens één universiteit in de Vlaamse Gemeenschap bedoeld in artikel 3 van het Universiteitendecreet een samenwerkingsovereenkomst inzake onderwijs, onderzoek en dienstverlening. Die samenwerkingsovereenkomst regelt ook de wijze waarop personeelsleden van de universiteit in kwestie ingezet kunnen worden in de instelling, hoe deze prestaties, uit te drukken in een procentueel deel van een voltijdse opdracht, worden vergoed aan de betrokken universiteit, en hoe andere kosten worden verrekend en de administratie van deze personeelsleden gebeurt. ».<br /><br />
+
+### ART. V.37.
+
+Aan artikel 15 van hetzelfde decreet worden de volgende wijzigingen aangebracht :<br />1° een § 3bis wordt toegevoegd, die luidt als volgt :<br />« § 3bis. De basissubsidie van de Vlaamse Gemeenschap aan de Universiteit Antwerpen Management School wordt vanaf het begrotingsjaar 2008 vastgesteld op 1.000.000 euro. »;<br /><br />2° § 4 en § 5 worden vervangen door wat volgt :<br />« § 4. Door middel van een subsidie van 591.000 euro draagt de Vlaamse Regering vanaf het begrotingsjaar 2007 bij in het dekken van de investeringskosten van het Instituut voor Tropische Geneeskunde.<br /><br />§ 5. De bedragen vermeld in § 2, § 3 en § 3bis worden binnen de perken van de begroting van de Vlaamse Gemeenschap jaarlijks geïndexeerd aan de hand van de indexeringsformule vermeld in artikel 9, § 5, van het decreet betreffende de financiering van de werking van de hogescholen en universiteiten in Vlaanderen.<br /><br />Het bedrag vermeld in § 4 wordt binnen de perken van de begroting van de Vlaamse Gemeenschap vanaf het begrotingsjaar 2008 geïndexeerd overeenkomstig artikel 140, § 2, van het Universiteitendecreet. ».<br /><br />
 
 ## Afdeling VI Decreet betreffende de herstructurering van het hoger onderwijs
 
@@ -148,6 +188,10 @@ In de eerste zin van artikel 55ter, § 3, van hetzelfde decreet, ingevoegd bij h
 
 In hetzelfde decreet wordt aan artikel 55quinquies een § 6 toegevoegd die luidt als volgt :<br />« § 6. De middelen in § 5 worden onder de hogescholen verdeeld op basis van het gemiddeld aantal eerste inschrijvingen in een diplomacontract in de geïntegreerde lerarenopleiding secundair onderwijs tijdens de twee voorbije academiejaren. ».<br /><br />
 
+### ART. V.46.
+
+Aan artikel 56 van hetzelfde decreet wordt een derde paragraaf toegevoegd die luidt als volgt :<br />« § 3. De accreditatiestatus van een opleiding, zoals bepaald in § 1, wordt bij overdracht van de ene instelling voor hoger onderwijs naar een andere instelling voor hoger onderwijs behouden. ».<br /><br />
+
 ### ART. V.48.
 
 In artikel 124 van hetzelfde decreet, ingevoegd bij het decreet van 19 maart 2004, worden de volgende wijzigingen aangebracht :<br />1° in § 2, tweede lid, wordt de eerste zin vervangen door wat volgt :<br />« In het academiejaar 2007-2008 wordt op de academisch gerichte opleidingen van de hogescholen die vermeld zijn in de lijst bedoeld in artikel 123, § 5, met uitzondering van de gezamenlijke opleidingen bedoeld in artikel 24bis, of in de lijst bedoeld in artikel 125ter, § 4, en die hun zelfevaluatierapport in het kader van de externe beoordeling overeenkomstig het protocol van kwaliteitszorg bedoeld in artikel 93, § 3, na 1 januari 2009 moeten indienen, een indicatieve voortgangstoets uitgevoerd onder de verantwoordelijkheid van de Erkenningscommissie. »;<br /><br />2° in § 2, tweede lid, wordt de laatste zin aangevuld met de woorden :<br />« en legt de lijst van de opleidingen vast; »;<br /><br />3° § 11 wordt vervangen door wat volgt :<br />« § 11. De master-na-masteropleidingen die het Europa College Brugge met ingang van het academische jaar 2007-2008 organiseert op haar campus in het arrondissement Brugge en op haar campus in Polen, worden niet als nieuwe opleidingen beschouwd in de zin van artikel 60septies. Zij worden geacht geaccrediteerd te zijn tot en met het einde van het academische jaar 2009-2010. ».<br /><br />
@@ -158,15 +202,39 @@ In artikel 130 van hetzelfde decreet, gewijzigd bij het decreet van 19 maart 200
 
 ## Afdeling VII Decreet betreffende de rechtspositieregeling van de student, de medezeggenschap in het hoger onderwijs, de integratie van bepaalde afdelingen van het hoger onderwijs voor sociale promotie in de hogescholen en de begeleiding van de herstructurering van het hoger onderwijs
 
+### ART. V.51.
+
+In deel II, titel IV, van het decreet van 19 maart 2004 betreffende de rechtspositieregeling van de student, de medezeggenschap in het hoger onderwijs, de integratie van bepaalde afdelingen van het hoger onderwijs voor sociale promotie in de hogescholen en de begeleiding van de herstructurering van het hoger onderwijs in Vlaanderen, wordt een hoofdstuk 4bis, Vormingsfonds, bestaande uit de artikelen II.88bis tot en met II.88ter decies ingevoegd, die luiden als volgt :<br />« Hoofdstuk 4bis. - Vormingsfonds<br /><br />Artikel II.88bis<br />Er wordt een Sectoraal Vormingsfonds voor het Hoger Onderwijs ingesteld, hierna vormingsfonds genoemd.<br /><br />Het vormingsfonds heeft tot doel de vormingsdynamiek voor de personeelsleden in de universiteiten en hogescholen te stimuleren.<br /><br />Artikel II.88ter<br />Het vormingsfonds wordt beheerd door het Vlaams Onderhandelingscomité voor het hoger onderwijs.<br /><br />Artikel II.88quater<br />Het Vlaams Onderhandelingscomité legt bij eenparigheid de prioritaire vormingsthema's vast.<br /><br />Artikel II.88quinquies<br />Jaarlijks wordt op de begroting van de Vlaamse Gemeenschap een dotatie ten behoeve van het vormingsfonds uitgetrokken. De dotatie bedraagt minstens 1.070.000 euro.<br /><br />De Vlaamse Regering deelt ieder jaar voor één oktober het bedrag van de dotatie mee aan het Vlaams Onderhandelingscomité.<br /><br />Artikel II.88sexies<br />De dotatie wordt onder de universiteiten en hogescholen verdeeld a rato van het aandeel van elke instelling in de werkingsuitkering voor het voorgaande begrotingsjaar.<br /><br />In afwijking van het eerste lid wordt de dotatie voor het jaar 2008 onder de instellingen verdeeld a rato van hun aandeel in de werkingsuitkering voor het jaar 2008.<br /><br />Artikel II.88septies<br />De instellingen kunnen de via het vormingsfonds toegekende vormingsmiddelen maximaal tweemaal overdragen naar een volgend begrotingsjaar.<br /><br />Artikel II.88octies<br />Het bedrag van de via het vormingsfonds toegekende middelen dat niet binnen drie begrotingsjaren besteed is, wordt het eerstvolgende begrotingsjaar in mindering gebracht op de toegekende middelen voor het vormingsfonds voor de betrokken instelling.<br /><br />De ingehouden middelen worden in gelijke delen toegevoegd aan de middelen voor de andere instellingen.<br /><br />Artikel II.88novies<br />De universiteiten en hogescholen nemen bij de besteding van de via het vormingsfonds toegekende vormingsmiddelen de volgende regels in acht :<br />1° de toegekende middelen worden gebruikt voor de bekostiging van bijkomende opleidings- en vormingsinitiatieven in vergelijking met de opleidings- en vormingsinitiatieven tot en met het academiejaar 2005-2006;<br />2° bij het vastleggen van de vormingsinitiatieven wordt rekening gehouden met de prioritaire vormingsthema's;<br />3° er is over de vormingsinitiatieven een akkoord met de afgevaardigden van het personeel in het lokale medezeggenschapsorgaan;<br />4° de instelling besteedt minstens een zelfde bedrag aan vormings- en opleidingsinitiatieven als het bedrag dat met de middelen van het vormingsfonds besteed is.<br /><br />Artikel II.88decies<br />Het instellingsbestuur bezorgt het Vlaams Onderhandelingscomité ieder jaar een verslag en een afrekening van de vormingsinitiatieven van het voorgaande begrotingsjaar. Deze documenten zijn in het lokale medezeggenschapsorgaan besproken met de afvaardigingen van het personeel.<br /><br />Artikel II.88undecies<br />Het Vlaams Onderhandelingscomité bezorgt de Vlaamse Regering ieder jaar voor 1 juli een verslag van het beheer van het vormingsfonds in het afgelopen begrotingsjaar.<br /><br />Artikel II.88duodecies<br />Het Vlaams Onderhandelingscomité neemt een reglement vormingsfonds aan dat bekrachtigd wordt door de Vlaamse Regering.<br /><br />Het reglement vormingsfonds bevat ten minste een regeling voor :<br />1° de procedure voor de vaststelling van de prioritaire vormingsthema's;<br />2° de procedure voor de rapportering van de instellingen aan het Vlaams Onderhandelingscomité;<br />3° de procedure voor de rapportering door het Vlaams Onderhandelingscomité.<br /><br />Artikel II.88ter decies<br />De begroting voor het vormingsfonds wordt toegevoegd aan het ontwerp van decreet houdende de algemene uitgavenbegroting van de Vlaamse Gemeenschap. ».<br /><br />
+
 ## Afdeling VIII Decreet betreffende de studiefinanciering en studentenvoorzieningen in het hoger onderwijs
 
+### ART. V.53.
+
+Aan artikel 63, § 3, 3°, van het decreet van 30 april 2004 betreffende de studiefinanciering en studentenvoorzieningen in het hoger onderwijs van de Vlaamse Gemeenschap, gewijzigd bij het decreet van 18 november 2005, wordt een zin toegevoegd, die luidt als volgt :<br />« Hierbij zijn de bepalingen van het besluit dat de Vlaamse Regering neemt met betrekking tot de begroting en de personeelsformatie voor de hogescholen van overeenkomstige toepassing. ».<br /><br />
+
+### ART. V.54.
+
+Aan artikel 71, 2°, van hetzelfde decreet wordt een zin toegevoegd, die luidt als volgt :<br />« Hierbij zijn de bepalingen van het besluit dat de Vlaamse Regering neemt met betrekking tot de algemene boekhouding, de jaarrekening en het rekeningstelsel voor de hogescholen van overeenkomstige toepassing. ».<br /><br />
+
 ## Afdeling IX Decreet betreffende de financiering van de werking van de hogescholen en de universiteiten
+
+### ART. V.60.
+
+Aan hoofdstuk II van het hetzelfde decreet wordt een afdeling VIII toegevoegd, bestaande uit het enige artikel 42bis, dat luidt als volgt :<br />« Afdeling VIII. - Studiecentra Open Hoger Onderwijs<br />Artikel 42bis<br />§ 1. De studiecentra Open Hoger Onderwijs, door de Vlaamse instellingen voor hoger onderwijs ingericht in Antwerpen, Brussel, Diepenbeek, Gent, Kortrijk en Leuven, en hierna samen de studiecentra genoemd, ontvangen een bijdrage in de financiering van hun werking.<br /><br />De studiecentra bieden daartoe ondersteuning en begeleiding aan de studenten die zich in Vlaanderen hebben ingeschreven voor een cursus van de Open Universiteit Nederland. In het kader hiervan sluiten de Vlaamse instellingen voor hoger onderwijs een samenwerkingsovereenkomst met de Open Universiteit Nederland. De studiecentra duiden in overleg een studiecentrum aan dat de coördinatie tussen de verschillende studiecentra en de relaties met de Open Universiteit Nederland waarneemt.<br /><br />§ 2. Als bijdrage in de financiering van de werking van de in § 1 bedoelde studiecentra stelt de Vlaamse Gemeenschap jaarlijks een bedrag van 632.000 euro ter beschikking. Dit bedrag wordt verdeeld over de studiecentra, volgens de volgende componenten :<br />1° een vaste component van maximaal 7500,00 euro per studiecentrum;<br />2° een vaste component van maximaal 15.000,00 euro voor het studiecentrum dat in overleg tussen de studiecentra is aangeduid voor het waarnemen van de coördinatie tussen de verschillende studiecentra en van de relaties met de Open Universiteit Nederland;<br />3° een variabele component, waarbij het resterende bedrag van de subsidie over de studiecentra verdeeld wordt a rato van het aantal inschrijvingen met examenrechten bij de Open Universiteit Nederland in het aan het begrotingsjaar voorafgaande kalenderjaar, omgerekend naar het aantal eenheidsmodulen. Het aldus bekomen bedrag per eenheidsmodule kan niet hoger zijn dan 185,00 euro. ».<br /><br />
 
 ## Afdeling X Decreet betreffende de flexibilisering van het hoger onderwijs
 
 ## Afdeling XI Inwerkingtreding
 
 ## HOOFDSTUK VI Centrum voor leerlingenbegeleiding
+
+### ART. VI.1.
+
+In artikel 2 van het decreet van 1 december 1998 betreffende de centra voor leerlingenbegeleiding wordt punt 32° opgeheven.<br /><br />
+
+### ART. VI.2.
+
+In artikel 40, tweede lid, van hetzelfde decreet wordt de tweede zin opgeheven.<br /><br />
 
 ### ART. VI.4.
 
@@ -274,6 +342,18 @@ De bepalingen van dit hoofdstuk treden in werking op 15 augustus 2008, met uitzo
 
 ## Afdeling II Decreet betreffende het mentorschap en de nascholing
 
+### ART. X.3.
+
+In artikel 44, § 1, van het decreet van 16 april 1996 betreffende het mentorschap en de nascholing in Vlaanderen, gewijzigd bij het decreet van 22 juni 2007 en 21 december 2007, wordt het cijfer « 2008 » vervangen door de zinsnede « vanaf 2008 ».<br /><br />
+
+### ART. X.4.
+
+In artikel 45 van hetzelfde decreet worden de woorden « en het voltijds en deeltijds secundair onderwijs » vervangen door de woorden « , het voltijds en deeltijds secundair onderwijs, het volwassenenonderwijs met uitzondering van de basiseducatie, het deeltijds kunstonderwijs en de centra voor leerlingenbegeleiding » en de woorden « personeel van de scholen » vervangen door de woorden « personeel van de scholen of centra ».<br /><br />
+
+### ART. X.5.
+
+Aan artikel 50 van hetzelfde decreet, gewijzigd bij het decreet van 14 februari 2003, wordt een tweede lid toegevoegd, dat luidt als volgt :<br />« De Vlaamse Gemeenschap stelt volgens de tabel in artikel 44, § 1, elk jaar een globaal bedrag ter beschikking van het Gemeenschapsonderwijs en van de verenigingen zonder winstoogmerk, bedoeld in artikel 49, voor het realiseren van nascholingsprojecten voor de professionalisering van de evaluatoren met het oog op de functionerings- en evaluatiegesprekken.<br /><br />De besteding van deze middelen wordt afzonderlijk verantwoord van de besteding van de middelen bedoeld in het eerste lid. ».<br /><br />
+
 ## Afdeling III Decreet dringende maatregelen betreffende het lerarenambt
 
 ## Afdeling IV Decreet betreffende het onderwijs XIII
@@ -292,11 +372,35 @@ In artikel X.49, 5°, van hetzelfde decreet worden de woorden « en het Vlaams O
 
 ## Afdeling VII Decreet betreffende de regionale technologische centra en houdende noodzakelijke en dringende onderwijsbepalingen
 
+### ART. X.35.
+
+In het decreet van 7 mei 2004 betreffende de regionale technologische centra en houdende noodzakelijke en dringende onderwijsbepalingen, zoals gewijzigd, wordt met ingang van 1 januari 2008 een artikel 55quater ingevoegd dat luidt als volgt :<br />« Artikel 55quater<br />§ 1. Om duurzaam woon-schoolverkeer in het gewoon basisonderwijs te stimuleren, kunnen de gemeenten van het Vlaamse Gewest acties ondernemen naar alle scholen voor gewoon basisonderwijs gelegen op hun grondgebied.<br /><br />Binnen de beschikbare begrotingskredieten kan de Vlaamse Regering vanaf het schooljaar 2008-2009 in het kader van het basisluik stappen en trappen' subsidies verlenen aan gemeenten die projecten opzetten om het te voet en het met de fiets naar school gaan te stimuleren.<br /><br />Een gemeente die minstens gedurende het voorafgaande schooljaar in het kader van het basisluik stappen en trappen' subsidies verkregen heeft voor het stimuleren van het te voet en het met de fiets naar school gaan, kan ook optioneel subsidies verkrijgen voor de organisatie van collectief leerlingenvervoer.<br /><br />§ 2. Jaarlijks vóór 10 januari lanceert de Vlaamse Regering een projectoproep aan de gemeenten. De projectoproep vermeldt minstens :<br />1° de inhoudelijke en vormelijke vereisten waaraan de projectvoorstellen moeten voldoen;<br />2° per gemeente de berekeningswijze van het maximale bedrag waarvoor een projectvoorstel kan worden ingediend. Dit bedrag houdt rekening met het aantal leerlingen in het gewoon basisonderwijs binnen de gemeente.<br /><br />§ 3. Om in overweging te worden genomen, moet het projectvoorstel :<br />1° vóór 15 februari aangetekend worden ingediend in de vorm van een projectfiche, waarvan het model samen met de oproep wordt meegedeeld;<br />2° alle noodzakelijke bijlagen bevatten die in de projectoproep zijn opgenomen;<br />3° voldoen aan de ontvankelijkheids- en selectiecriteria bedoeld in § 4.<br /><br />Uit het projectvoorstel moet minstens blijken dat :<br />1° de gemeente beschikt over een goedgekeurd mobiliteitsplan;<br />2° de scholen voor gewoon basisonderwijs gelegen op het grondgebied van de gemeente bereid zijn om het project te ondersteunen;<br />3° de gemeente beschikt over een schoolroutekaart of dat zij bereid is deze binnen het jaar na de start van het project te ontwikkelen.<br /><br />§ 4. De Vlaamse Regering stelt het selectiekader vast en maakt dit vooraf bekend. In de selectiecriteria worden minstens de elementen vermeld in § 3 opgenomen.<br /><br />§ 5. De projectvoorstellen worden beoordeeld door een door de Vlaamse Regering samengestelde commissie die minstens is samengesteld uit ambtenaren en externe deskundigen.<br /><br />§ 6. Op basis van het advies van de commissie stelt de regering de projecten vast die voor subsidiëring in aanmerking komen.<br /><br />§ 7. De subsidies worden toegekend per schooljaar.<br /><br />§ 8. In afwijking van § 1, derde lid, kunnen de gemeenten die met toepassing van artikel 55ter subsidies ontvingen voor leerlingenvervoer, inzonderheid woon-schoolvervoer in het schooljaar 2007-2008, in 2008-2009 een subsidie ontvangen voor de organisatie van collectief leerlingenvervoer op voorwaarde dat de Vlaamse Regering hen in het kader van het basisluik stappen en trappen' al subsidies toekent voor projecten die het te voet en het met de fiets naar school gaan stimuleren. ».<br /><br />
+
 ## Afdeling VIII Decreet betreffende participatie op school en de Vlaamse Onderwijsraad
 
 ## Afdeling IX Opleiding voor opleiders van volwassenen
 
 ## Afdeling X Flankerend onderwijsbeleid en leerplicht
+
+### ART. X.49.
+
+In artikel 2 van het decreet van 30 november 2007 betreffende het flankerend onderwijsbeleid op lokaal niveau wordt punt 8° vervangen door wat volgt :<br />« 8° de gemeenten, de provincies en de Vlaamse Gemeenschapscommissie, tenzij anders bepaald. ».<br /><br />
+
+### ART. X.50.
+
+Aan hetzelfde decreet wordt in hoofdstuk II, afdeling II, een artikel 8bis ingevoegd, dat luidt als volgt :<br />« Artikel 8bis<br />Voor de toepassing van deze afdeling wordt de Vlaamse Gemeenschapscommissie niet als een lokaal bestuur beschouwd. ».<br /><br />
+
+### ART. X.51.
+
+Aan artikel 19 en aan artikel 21 van hetzelfde decreet wordt een vierde lid toegevoegd, dat luidt als volgt :<br />« De Vlaamse Regering is belast met het bepalen van het aandeel van de verplichte financiële inbreng zoals bedoeld in punt 2°. ».<br /><br />
+
+### ART. X.52.
+
+Artikel 26 van hetzelfde decreet wordt ingetrokken.<br /><br />
+
+### ART. X.53.
+
+In artikel 3 van de wet van 29 juni 1983 betreffende de leerplicht worden de volgende wijzigingen aangebracht :<br />1° § 3 wordt vervangen door wat volgt :<br />« § 3. De Vlaamse Regering regelt de controle op het geregeld schoolbezoek van leerplichtigen en bepaalt de redenen van afwezigheid die als geldig aanvaard kunnen worden. »;<br />2° § 4, ingevoegd bij het decreet van 14 juli 1998, wordt opgeheven.<br /><br />
 
 ## Afdeling XI Inwerkingtreding
 
