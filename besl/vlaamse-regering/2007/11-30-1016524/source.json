@@ -1,0 +1,17 @@
+{
+  "codex_id": 1016524,
+  "title": "Besluit van de Vlaamse Regering van 2007-11-30 houdende pensionering van de secretaris-generaal, belast met de leiding over het project « Verkeersslachtoffers » bij de Diensten voor het Algemeen Regeringsbeleid",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1016524/VolledigDocument?datum=2008-01-01",
+  "source_sha256": "fe1301217aea1e213964816976057ac42fa7e884cc096657a7d78a72a291cbe0",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1016524&param=informatie",
+  "as_of": "2008-01-01",
+  "made": "2007-11-30",
+  "gazette": "2008-01-22",
+  "numac": 2008035048,
+  "document_start": "2008-01-01",
+  "document_end": null,
+  "in_force": "2008-01-01",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2008-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
