@@ -1,0 +1,17 @@
+{
+  "codex_id": 1017620,
+  "title": "Ministerieel besluit van 2009-01-20 tot wijziging van het ministerieel besluit van 24 november 2000 betreffende steun aan de investeringen en aan de installatie in de landbouw",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1017620/VolledigDocument?datum=2008-01-01",
+  "source_sha256": "dc1a6068e0af2c8bc5d81309c74e236da62973781490004e1712d7e5993aae08",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1017620&param=informatie",
+  "as_of": "2008-01-01",
+  "made": "2009-01-20",
+  "gazette": "2009-02-24",
+  "numac": 2009035153,
+  "document_start": "2008-06-27",
+  "document_end": null,
+  "in_force": "2008-01-01",
+  "article_versions": 2,
+  "record_form": "consolidated version as in force on 2008-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
