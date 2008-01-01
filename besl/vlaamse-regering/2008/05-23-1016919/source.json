@@ -1,0 +1,17 @@
+{
+  "codex_id": 1016919,
+  "title": "Besluit van de Vlaamse Regering van 2008-05-23 tot wijziging van het besluit van de Vlaamse Regering van 23 september 2005 betreffende de interlandelijke adoptie",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1016919/VolledigDocument?datum=2008-01-01",
+  "source_sha256": "4f3d77189957dd984d22df053dc373b5409d2c2d1a65e76e01be8d568e86e053",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1016919&param=informatie",
+  "as_of": "2008-01-01",
+  "made": "2008-05-23",
+  "gazette": "2008-07-23",
+  "numac": 2008202568,
+  "document_start": "2008-01-01",
+  "document_end": null,
+  "in_force": "2008-01-01",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2008-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
