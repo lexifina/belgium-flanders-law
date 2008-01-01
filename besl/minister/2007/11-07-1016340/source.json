@@ -2,16 +2,16 @@
   "codex_id": 1016340,
   "title": "Ministerieel besluit van 2007-11-07 houdende beëindiging van de visserij op kabeljauw in de i.c.e.s.-gebieden II, IV",
   "type": "Ministerieel besluit",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1016340/VolledigDocument?datum=2007-11-14",
-  "source_sha256": "454827353c410f4a810a9e9ad9c0da7d949ce3137db62bda54f2f2e20cc865ee",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1016340/VolledigDocument?datum=2008-01-01",
+  "source_sha256": "448941e2b423333f3a88893e1dcec681c2f9ed3caf9934f7f10cca9ee347361a",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1016340&param=informatie",
-  "as_of": "2007-11-14",
+  "as_of": "2008-01-01",
   "made": "2007-11-07",
   "gazette": "2007-11-14",
   "numac": 2007037010,
   "document_start": "2007-11-14",
   "document_end": "2008-01-01",
-  "in_force": "2007-11-14",
+  "in_force": "2008-01-01",
   "article_versions": 4,
-  "record_form": "consolidated version as in force on 2007-11-14; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2008-01-01; future article versions excluded; article text as the API gives it"
 }
