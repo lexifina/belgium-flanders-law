@@ -2,16 +2,16 @@
   "codex_id": 1013273,
   "title": "Besluit van de Vlaamse Regering van 2004-05-14 ter uitvoering van de bepalingen over de oprichting en de organisatie van het Garantiefonds voor Huisvesting in het kader van PPS-projecten sociale huisvesting",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1013273/VolledigDocument?datum=2006-12-25",
-  "source_sha256": "8a2ccabb8ab8ee510c96987e8cab72f646c8493c36076efdc67b9baa9f962cad",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1013273/VolledigDocument?datum=2008-01-01",
+  "source_sha256": "b57f2dae8527903cd546a284eed85db576f57de2773a8c9c9597a443aa3db7d2",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1013273&param=informatie",
-  "as_of": "2006-12-25",
+  "as_of": "2008-01-01",
   "made": "2004-05-14",
   "gazette": "2004-07-27",
   "numac": 2004036230,
   "document_start": "2004-07-27",
   "document_end": "2020-12-31",
-  "in_force": "2006-12-25",
+  "in_force": "2008-01-01",
   "article_versions": 21,
-  "record_form": "consolidated version as in force on 2006-12-25; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2008-01-01; future article versions excluded; article text as the API gives it"
 }
