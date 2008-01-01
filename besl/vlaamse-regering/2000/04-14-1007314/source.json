@@ -2,16 +2,16 @@
   "codex_id": 1007314,
   "title": "Besluit van de Vlaamse Regering van 2000-04-14 houdende toekenning van een verlof voorafgaand aan de pensionering aan de ambtenaren van de administratieve diensten van de Raad van het Gemeenschapsonderwijs",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1007314/VolledigDocument?datum=2006-06-01",
-  "source_sha256": "ca66b07db1d6a002f1185a991c2da602dda8e44b197da7e48aa37d731f042c68",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1007314/VolledigDocument?datum=2008-01-01",
+  "source_sha256": "639e199604871695c1521174488ab91f1c9f6db64c4c88a7c2ce602a2f45ab7f",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1007314&param=informatie",
-  "as_of": "2006-06-01",
+  "as_of": "2008-01-01",
   "made": "2000-04-14",
   "gazette": "2000-06-06",
   "numac": 2000035502,
   "document_start": null,
   "document_end": "2007-12-31",
-  "in_force": "2006-06-01",
+  "in_force": "2008-01-01",
   "article_versions": 9,
-  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2008-01-01; future article versions excluded; article text as the API gives it"
 }
