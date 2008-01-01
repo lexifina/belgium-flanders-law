@@ -1,0 +1,17 @@
+{
+  "codex_id": 1016583,
+  "title": "Ministerieel besluit van 2008-01-21 tot wijziging van het ministerieel besluit van 22 december 2006 tot bepaling van de standaard voor de titel van bestuurder mobiele kraan",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1016583/VolledigDocument?datum=2008-01-01",
+  "source_sha256": "5e6aac383039aa1e90d7586a22a5be1067d4e70f6abef8614572a26ca22dfb15",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1016583&param=informatie",
+  "as_of": "2008-01-01",
+  "made": "2008-01-21",
+  "gazette": "2008-02-07",
+  "numac": 2008035156,
+  "document_start": "2008-01-01",
+  "document_end": null,
+  "in_force": "2008-01-01",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2008-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
