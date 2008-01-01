@@ -2,16 +2,16 @@
   "codex_id": 1015938,
   "title": "Besluit van de Vlaamse Regering van 2007-05-16 betreffende de toekenning van dienstencheques voor kinderopvang",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1015938/VolledigDocument?datum=2007-05-16",
-  "source_sha256": "d842a862940e0666c542ab4623b4afd49484a84b990da8ac382165fa73e0cf14",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1015938/VolledigDocument?datum=2008-01-01",
+  "source_sha256": "433749e4fb4a466087f700cb8a64028171995a54296d711f65dfb53534f78f70",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1015938&param=informatie",
-  "as_of": "2007-05-16",
+  "as_of": "2008-01-01",
   "made": "2007-05-16",
   "gazette": "2007-07-05",
   "numac": 2007035993,
   "document_start": "2007-05-16",
   "document_end": "2008-12-31",
-  "in_force": "2007-05-16",
+  "in_force": "2008-01-01",
   "article_versions": 26,
-  "record_form": "consolidated version as in force on 2007-05-16; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2008-01-01; future article versions excluded; article text as the API gives it"
 }
