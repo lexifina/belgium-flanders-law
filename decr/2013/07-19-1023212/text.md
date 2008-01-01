@@ -62,6 +62,10 @@ In artikel 9, eerste lid, van het decreet van 22 februari 1995 betreffende   de 
 
 ## Afdeling XIII Opheffingen
 
+### ART. V.95.
+
+Het besluit van de Vlaamse Regering van 8 maart 1995 houdende vaststelling   van bijkomende voorschriften voor het bepalen van het aantal financierbare   eenheden, de wijze van controle van de echtheid van de verstrekte gegevens en   van de vorm waarin de universiteiten hun inschrijvingen jaarlijks aan het   Departement Onderwijs meedelen, wordt opgeheven.<BR>
+
 ## Afdeling XIV Inwerkingtreding
 
 ## HOOFDSTUK VI Rechtspositie onderwijspersoneel
