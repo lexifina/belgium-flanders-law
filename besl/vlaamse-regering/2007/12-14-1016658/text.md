@@ -38,7 +38,7 @@ Het besluit van de Vlaamse Regering van 15 december 2006 houdende de facultatiev
 
 ### ART. 9.
 
-In afwijking van artikel 8 blijft het besluit van de Vlaamse Regering van 15 december 2006 houdende de facultatieve subsidiëring van de vervanging van oude verwarmingsketels door hoogrendementsketels op de sociale huurmarkt nog van toepassing voor de aanvragen die ingediend zijn voor 1 januari 2008.<br /><br />
+In afwijking van artikel 8 blijft het besluit van de Vlaamse Regering van 15 december 2006 houdende de facultatieve subsidiëring van de vervanging van oude verwarmingsketels door hoogrendementsketels op de sociale huurmarkt nog van toepassing voor de aanvragen die ingediend zijn voor 1 januari 2009.<br /><br />
 
 ### ART. 10.
 
