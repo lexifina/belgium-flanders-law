@@ -2,16 +2,16 @@
   "codex_id": 1010515,
   "title": "Decreet van 2002-12-13 tot vaststelling van de regels inzake de werking en de verdeling van het Vlaams Stedenfonds",
   "type": "Decreet",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1010515/VolledigDocument?datum=2006-06-01",
-  "source_sha256": "91791edd646bc06bbb9068d0ccff38131c48ded44eb2c917883786dd52f034db",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1010515/VolledigDocument?datum=2008-01-01",
+  "source_sha256": "8c452360289000d264ce764ed2bca46c1b781c2e9b1f8f0920ae0ffca95b259a",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1010515&param=informatie",
-  "as_of": "2006-06-01",
+  "as_of": "2008-01-01",
   "made": "2002-12-13",
   "gazette": "2003-01-29",
   "numac": 2003035124,
   "document_start": null,
   "document_end": "2016-12-31",
-  "in_force": "2006-06-01",
+  "in_force": "2008-01-01",
   "article_versions": 25,
-  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2008-01-01; future article versions excluded; article text as the API gives it"
 }

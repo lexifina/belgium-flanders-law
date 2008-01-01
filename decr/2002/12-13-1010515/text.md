@@ -20,7 +20,7 @@ Het Stedenfonds richt zich op de grootsteden Antwerpen en Gent, de centrumsteden
 
 ### ART. 5.
 
-§ 1. Jaarlijks wordt voor het Stedenfonds in programma 53.2 van de begroting van de Vlaamse Gemeenschap een vastleggingskrediet ingeschreven, waarvan liet bedrag minstens gelijk is aan het vastleggingskrediet van het vorige jaar, aangepast met het in § 3 bepaalde evolutiepercentage. Bij de vastlegging van dat bedrag wordt geen rekening gehouden met de verhoging, bedoeld in artikel 8, § 5.<br /><br />§ 2. Het vastleggingskrediet 2003 bestaat uit het gedeelte boven de waarborg van het Sociaal Impulsfonds 2002, afgekort SIF, aangepast met het in § 3 bepaalde evolutiepercentage.<br /><br />§ 3. [Vanaf het begrotingsjaar 2005 bedraagt het evolutiepercentage 3,5 %.  <span class="reference">(verv. decr. 24 december 2004, art. 58, I: 1 januari 2005)</span> ]<br /><br />§ 4. Het berekende vastleggingskrediet wordt afgerond op het hogere duizendtal.
+§ 1. Jaarlijks wordt voor het Stedenfonds in de begroting van de Vlaamse Gemeenschap een vastleggingskrediet ingeschreven, waarvan het bedrag minstens gelijk is aan het vastleggingskrediet van het vorige jaar, aangepast met een evolutiepercentage. Bij de vastlegging van dat bedrag wordt geen rekening gehouden met de verhoging, bedoeld in artikel 8, § 5.<br /><br />§ 2. Het vastleggingskrediet 2003 bestaat uit het gedeelte boven de waarborg van het Sociaal Impulsfonds 2002, afgekort SIF, aangepast met het in § 3 bepaalde evolutiepercentage.<br /><br />§ 3. Vanaf het begrotingsjaar 2005 bedraagt het evolutiepercentage 3,5 %. <br /><br />§ 4. Het berekende vastleggingskrediet wordt afgerond op het hogere duizendtal.
 
 ## HOOFDSTUK II VASTSTELLING EN VERDELING VAN TREKKINGSRECHTEN
 
@@ -32,7 +32,7 @@ Het Stedenfonds richt zich op de grootsteden Antwerpen en Gent, de centrumsteden
 
 ### ART. 7.
 
-Van het vastleggingskrediet, verminderd met de voorafname voor de VGC, wordt jaarlijks een bedrag van 700.000 euro vooraf genomen voor vorming, sensibilisering en communicatie. Die voorafname wordt ingeschreven in het programma 53.2 op basisallocatie 12.05 (libellé Communicatie stedenbeleid).
+Van het vastleggingskrediet, verminderd met de voorafname voor de Vlaamse Gemeenschapscommissie (VGC), wordt jaarlijks een bedrag van 700.000 euro vooraf genomen voor vorming, sensibilisering en communicatie. Die voorafname wordt ingeschreven in op een aparte basisallocatie in de begroting van de Vlaamse Gemeenschap (libellé Communicatie stedenbeleid).
 
 ## AFDELING 2 VASTSTELLING EN VERDELING VAN DE TREKKINGSRECHTEN VAN DE STEDEN
 
