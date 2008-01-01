@@ -1,0 +1,13 @@
+# Ministerieel besluit van 2008-12-12 tot wijziging van het ministerieel besluit van 29 augustus 2008 houdende de definiëring van de objectieve parameters en de programmatie voor de subsidiëring van de centra voor algemeen welzijnswerk in het kader van de ziekenfondsen
+
+### Aanhef
+
+De Vlaamse minister van Welzijn, Volksgezondheid en Gezin,<br /><br />Gelet op het decreet van 19 december 1997 betreffende het algemeen welzijnswerk, artikel 15;<br /><br />Gelet op het besluit van de Vlaamse Regering van 12 oktober 2001 ter uitvoering van het decreet van 19 december 1997 betreffende het algemeen welzijnswerk, artikel 35, § 10, ingevoegd bij het besluit van de Vlaamse Regering van 17 november 2006 en gewijzigd bij de besluiten van de Vlaamse Regering van 12 januari 2007, 14 december 2007 en 12 december 2008;<br /><br />Gelet op het besluit van de Vlaamse Regering van 27 juli 2004 tot bepaling van de bevoegdheden van de leden van de Vlaamse Regering, gewijzigd bij de besluiten van de Vlaamse Regering van 15 oktober 2004, 23 december 2005, 19 mei 2006, 30 juni 2006, 1 september 2006, 15 juni 2007, 28 juni 2007, 10 oktober 2007, 14 november 2007, 5 september 2008 en 22 september 2008; <br /><br />Gelet op het ministerieel besluit van 29 augustus 2008 houdende de definiëring van de objectieve parameters en de programmatie voor de subsidiëring van de centra voor algemeen welzijnswerk in het kader van de ziekenfondsen;<br /><br />Gelet op het advies van de Inspectie van Financiën, gegeven op 14 november 2008;<br /><br />Gelet op de wetten de Raad van State, gecoördineerd op 12 januari 1973, artikel 3, § 1, vervangen bij de wet van 4 juli 1989 en gewijzigd bij de wet van 4 augustus 1996;<br /><br />Gelet op de dringende noodzakelijkheid;<br /><br />Overwegend dat ter uitvoering van de bepalingen van het tweede Vlaams akkoord voor de social profit/non-profit 2006-2011 het subsidiebedrag per voltijdse equivalent onverwijld moet worden verhoogd voor de centra voor algemeen welzijnswerk in het kader van de ziekenfondsen; dat, aangezien die verhoging geldt voor 2008 en ze bijgevolg moet worden aangerekend op de begroting van dat jaar, daarvoor onverwijld de regelgeving moet worden aangepast,<br /><br />Besluit :
+
+### ART. 1.
+
+In artikel 7, § 4, tweede lid, van het ministerieel besluit van 29 augustus 2008 houdende de definiëring van de objectieve parameters en de programmatie voor de subsidiëring van de centra voor algemeen welzijnswerk in het kader van de ziekenfondsen wordt het bedrag "30.844" vervangen door het bedrag "31.044,34".
+
+### ART. 2.
+
+Dit besluit heeft uitwerking met ingang van 1 januari 2008.
