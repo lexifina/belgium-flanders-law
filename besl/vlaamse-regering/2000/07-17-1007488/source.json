@@ -2,16 +2,16 @@
   "codex_id": 1007488,
   "title": "Besluit van de Vlaamse Regering van 2000-07-17 omtrent de mestuitscheidingsbalans, ter uitvoering van artikel 3, §1, 4°, 5, §2, 1°, 6, §2 en 20bis, §2, §3 en §4 van het decreet van 23 januari 1991 inzake de bescherming van het leefmilieu tegen de verontreiniging door meststoffen",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1007488/VolledigDocument?datum=2006-07-01",
-  "source_sha256": "abe0caeab397efe978e00cfc63bbdbddd3dd05d51bb27fa85c375a6e710726c9",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1007488/VolledigDocument?datum=2008-01-01",
+  "source_sha256": "09c9e5870421d3d67f9e5d809e835ec72ad430f34875d8adf1196a1e8f6dd9e9",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1007488&param=informatie",
-  "as_of": "2006-07-01",
+  "as_of": "2008-01-01",
   "made": "2000-07-17",
   "gazette": "2000-07-29",
   "numac": 2000035760,
   "document_start": "2000-07-29",
   "document_end": "2007-12-31",
-  "in_force": "2006-07-01",
+  "in_force": "2008-01-01",
   "article_versions": 12,
-  "record_form": "consolidated version as in force on 2006-07-01; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2008-01-01; future article versions excluded; article text as the API gives it"
 }
