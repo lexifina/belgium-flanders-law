@@ -2,16 +2,16 @@
   "codex_id": 1013278,
   "title": "Decreet van 2004-04-30 betreffende de studiefinanciering en studentenvoorzieningen in het hoger onderwijs van de Vlaamse Gemeenschap",
   "type": "Decreet",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1013278/VolledigDocument?datum=2007-07-01",
-  "source_sha256": "dab88993e04ac58fc7e65cbad8aa8e741beecb102cd33011a4e6c302663b67e4",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1013278/VolledigDocument?datum=2008-01-01",
+  "source_sha256": "1900f74f049d6488c60c044dadfd38017d1fbf2d592c7f572eeb4ff32a1b84a1",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1013278&param=informatie",
-  "as_of": "2007-07-01",
+  "as_of": "2008-01-01",
   "made": "2004-04-30",
   "gazette": "2004-07-28",
   "numac": 2004036219,
   "document_start": "2004-07-01",
   "document_end": "2013-09-30",
-  "in_force": "2007-07-01",
+  "in_force": "2008-01-01",
   "article_versions": 82,
-  "record_form": "consolidated version as in force on 2007-07-01; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2008-01-01; future article versions excluded; article text as the API gives it"
 }
