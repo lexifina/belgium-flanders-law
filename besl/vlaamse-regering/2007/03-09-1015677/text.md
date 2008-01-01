@@ -26,120 +26,71 @@ De Vlaamse minister, bevoegd voor het Mediabeleid, is belast met de uitvoering v
 
 ### BIJLAGE
 
-In de hectometerband
-<table border="0" cellpadding="0" cellspacing="0" style="border-collapse:collapse; width:431.4pt">
+<p>In de hectometerband<!--?xml:namespace prefix = o ns =   "urn:schemas-microsoft-com:office:office" /--></p>
+
+<p>&nbsp;</p>
+
+<table border="1" cellpadding="0" cellspacing="0" style="border-collapse:collapse">
 	<tbody>
 		<tr>
-			<td rowspan="2" style="background-color:transparent; border-bottom:black 1pt solid; border-left:black 1pt solid; border-right:black 1pt solid; border-top:black 1pt solid; height:14.65pt; width:64.9pt">
-			<p>Frequentie (kHz)<!--?xml:namespace prefix = o ns =         "urn:schemas-microsoft-com:office:office" /--></p>
+			<td rowspan="2" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; height:14.2pt; width:76.75pt">
+			<p>Frequentie (kHz)</p>
 			</td>
-			<td rowspan="2" style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:black 1pt solid; height:14.65pt; width:76.75pt">
+			<td rowspan="2" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; height:14.2pt; width:76.75pt">
 			<p>Opstelplaats</p>
 			</td>
-			<td colspan="2" style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:black 1pt solid; border-top:black 1pt solid; height:14.65pt; width:128pt">
+			<td colspan="2" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; height:14.2pt; width:153.5pt">
 			<p>Positie (WGS84)</p>
 			</td>
-			<td rowspan="2" style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:black 1pt solid; height:14.65pt; width:53.75pt">
-			<p>Vermogen (kW)</p>
+			<td rowspan="2" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; height:14.2pt; width:76.8pt">
+			<p>Vermogen</p>
+
+			<p>(kW)</p>
 			</td>
-			<td rowspan="2" style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:black 1pt solid; height:14.65pt; width:108pt">
+			<td rowspan="2" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; height:14.2pt; width:76.8pt">
 			<p>D (Directief)</p>
 
 			<p>ND (Niet Directief)</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:14.6pt; width:63.95pt">
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; width:76.75pt">
 			<p>OL</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.6pt; width:64.05pt">
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; width:76.75pt">
 			<p>NB</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:black 1pt solid; border-right:black 1pt solid; border-top:#f0f0f0; height:19.25pt; width:64.9pt">
-			<p>540</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:19.25pt; width:76.75pt">
-			<p>Waver-Overijse</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:19.25pt; width:63.95pt">
-			<p>04°34’39″</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:19.25pt; width:64.05pt">
-			<p>50°44’52″</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:19.25pt; width:53.75pt">
-			<p>150</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:19.25pt; width:108pt">
-			<p>ND</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:black 1pt solid; border-right:black 1pt solid; border-top:#f0f0f0; height:13.25pt; width:64.9pt">
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; width:76.75pt">
 			<p>927</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:13.25pt; width:76.75pt">
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; width:76.75pt">
 			<p>Wolvertem</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:13.25pt; width:63.95pt">
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; width:76.75pt">
 			<p>04°18’05″</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:13.25pt; width:64.05pt">
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; width:76.75pt">
 			<p>50°58’42″</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:13.25pt; width:53.75pt">
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; width:76.8pt">
 			<p>300</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:13.25pt; width:108pt">
-			<p>ND</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:black 1pt solid; border-right:black 1pt solid; border-top:#f0f0f0; height:14.15pt; width:64.9pt">
-			<p>1188</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.15pt; width:76.75pt">
-			<p>Kuurne</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.15pt; width:63.95pt">
-			<p>03°15’46″</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.15pt; width:64.05pt">
-			<p>50°52’21″</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.15pt; width:53.75pt">
-			<p>5</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.15pt; width:108pt">
-			<p>ND</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:black 1pt solid; border-right:black 1pt solid; border-top:#f0f0f0; height:17.65pt; width:64.9pt">
-			<p>1512</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:17.65pt; width:76.75pt">
-			<p>Wolvertem</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:17.65pt; width:63.95pt">
-			<p>04°18’10″</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:17.65pt; width:64.05pt">
-			<p>50°58’33″</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:17.65pt; width:53.75pt">
-			<p>300</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:17.65pt; width:108pt">
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; width:76.8pt">
 			<p>ND</p>
 			</td>
 		</tr>
 	</tbody>
 </table>
 
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+
 <p>In de FM-band 87.5 MHz – 108MHz</p>
+
+<p>&nbsp;</p>
 
 <table border="0" cellpadding="0" cellspacing="0" style="border-collapse:collapse; width:443.7pt">
 	<tbody>
@@ -971,5 +922,7 @@ In de hectometerband
 		</tr>
 	</tbody>
 </table>
+
+<p>&nbsp;</p>
 
 <p>&nbsp;</p>
