@@ -4,6 +4,14 @@
 
 De Vlaamse Regering,<br /><br />Gelet op de organieke wet van 8 juli 1976 betreffende de openbare centra voor maatschappelijk welzijn, artikel 43, § 4, vervangen bij het decreet van 7 juli 2006;<br /><br />Gelet op het Gemeentedecreet van 15 juli 2005, artikel 76, § 2;<br /><br />Gelet op het besluit van de Vlaamse Regering van 11 juni 2004 tot vaststelling van het statuut van de gewestelijke ontvangers, gewijzigd bij het besluit van de Vlaamse Regering van 17 februari 2006;<br /><br />Gelet op het besluit van de Vlaamse Regering van 13 januari 2006 houdende vaststelling van de rechtspositie van het personeel van de diensten van de Vlaamse overheid, gewijzigd bij de besluiten van de Vlaamse Regering van 29 september 2006, 16 maart 2007, 6 juli 2007 en 19 juli 2007;<br /><br />Gelet op het akkoord van de Vlaamse minister, bevoegd voor de begroting, gegeven op 17 september 2008;<br /><br />Gelet op protocol nr. 265.857 van 13 oktober 2008 van het sectorcomité XVIII Vlaamse Gemeenschap - Vlaams Gewest;<br /><br />Gelet op advies 45.239/3 van de Raad van State, gegeven op 21 oktober 2008, met toepassing van artikel 84, § 1, eerste lid, 1°, van de wetten op de Raad van State, gecoördineerd op 12 januari 1973;<br /><br />Op voorstel van de Vlaamse minister van Binnenlands Bestuur, Stedenbeleid, Wonen en Inburgering;<br /><br />Na beraadslaging,<br /><br />Besluit :
 
+### ART. 3.
+
+Aan artikel 2 van hetzelfde besluit worden een punt 4° en 5° toegevoegd, die luiden als volgt :<br /><br />« 4° VPS : het besluit van de Vlaamse Regering van 13 januari 2006 houdende vaststelling van de rechtspositie van het personeel van de diensten van de Vlaamse overheid;<br />5° de gewestelijk ontvanger : de vastbenoemde gewestelijk ontvanger en de stagiair. »
+
+### ART. 4.
+
+Aan deel I, hoofdstuk 2, van hetzelfde besluit worden een artikel 2bis en 2ter toegevoegd, die luiden als volgt :<br /><br />« Art. 2bis. Voor de toepassing van het VPS op de gewestelijk ontvanger wordt verstaan onder :<br />1° de ambtenaar : de vastbenoemde gewestelijk ontvanger en de stagiair;<br />2° het personeelslid : de vastbenoemde gewestelijk ontvanger, de stagiair en de contractuele gewestelijk ontvanger;<br />3° het contractueel personeelslid : de contractuele gewestelijk ontvanger;<br />4° de lijnmanager : de provinciegouverneur, tenzij anders is bepaald;<br />5° de Vlaamse minister, bevoegd voor bestuurszaken : de minister van Binnenlandse Aangelegenheden, tenzij anders is bepaald en uitgezonderd voor de aanwijzing van het geneeskundig controleorgaan, vermeld in artikel X 18 van het VPS;<br />6° de functioneel bevoegde Vlaamse minister of de functionele minister : de minister van Binnenlandse Aangelegenheden;<br />7° de benoemende overheid : de provinciegouverneur, tenzij anders is bepaald;<br />8° de Vlaamse Gemeenschap, de IVA met rechtspersoonlijkheid, de EVA, de SAR of het Gemeenschapsonderwijs, de diensten van de Vlaamse overheid : het Vlaams Gewest;<br />9° de ambtenaar op proef, de ambtenaar in proeftijd : de stagiair.<br /><br />Art. 2ter. De minister van Binnenlandse Aangelegenheden stelt het arbeidsreglement voor de gewestelijk ontvangers vast.»
+
 ### ART. 72.
 
 Artikel 157 van hetzelfde besluit wordt opgeheven.
@@ -94,3 +102,7 @@ Art. 158nonies. De nominale waarde van de maaltijdcheque bedraagt 5,00 euro, waa
 ### ART. 80.
 
 In deel XII van hetzelfde besluit wordt een artikel 159bis ingevoegd, dat luidt als volgt :<br /><br />« Art. 159bis. De contractuele gewestelijk ontvanger behoudt in geval van carenzdag, zijn bezoldiging voor die dag. »
+
+### ART. 81.
+
+Artikel 160bis van hetzelfde besluit, ingevoegd bij het besluit van de Vlaamse Regering van 17 februari 2006, wordt vervangen door wat volgt :<br /><br />« Art. 160bis. In afwijking van artikel X 9, § 1, van het VPS kunnen voor de periode van 1 januari 2006 tot en met 31 december 2008 maximaal 33 werkdagen vakantie geheel of gedeeltelijk opgespaard worden en aangewend worden in de daaropvolgende kalenderjaren en uiterlijk vóór de pensionering. »
