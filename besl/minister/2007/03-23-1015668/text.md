@@ -10,20 +10,20 @@ Het artikel 18 van het ministerieel besluit van 21 december 2006, houdende tijde
 
 ### ART. 2.
 
-In het artikel 19 van hetzelfde besluit, worden met ingang van 1 april 2007 volgende wijzigingen aangebracht :<br />1° in de §§ 1 en 2 worden de woorden « 31 december » vervangen door de woorden « 31 maart »<br />2° de § 1 wordt aangevuld met het volgend lid :<br />« In de periode van 1 april 2007 tot en met 31 december 2007 is het in het i.c.e.s.-gebied VIIa voor een vissersvaartuig met een motorvermogen van 221 kW of minder, verboden bij de tongvangst per zeereis een hoeveelheid te overschrijden die gelijk is aan 300 kg, vermenigvuldigd met het aantal vaartdagen gerealiseerd tijdens die zeereis in het desbetreffende i.c.e.s.-gebied. » <br />3° de § 2 wordt aangevuld met het volgend lid :<br />« In de periode van 1 april 2007 tot en met 31 december 2007 is het in het i.c.e.s.-gebied VIIa voor een vissersvaartuig met een motorvermogen van meer dan 221 kW, verboden bij de tongvangst per zeereis een hoeveelheid te overschrijden die gelijk is aan 600 kg, vermenigvuldigd met het aantal vaartdagen gerealiseerd tijdens die zeereis in het desbetreffende i.c.e.s.-gebied. » <br /><br />
+<P>...</P>
 
 ### ART. 3.
 
-In het artikel 20 van hetzelfde besluit, worden met ingang van 1 april 2007, volgende wijzigingen aangebracht :<br />1° in de § 2 worden de woorden « 31 december » vervangen door de woorden « 31 maart »<br />2° de § 2 wordt aangevuld met het volgende lid :« In de periode van 1 april 2007 tot en met 31 december 2007 is het in de i.c.e.s.-gebieden VIId,e voor een vissersvaartuig met een motorvermogen van meer dan 221 kW, verboden bij de scholvangst per zeereis een hoeveelheid te overschrijden, die gelijk is aan 350 kg, vermenigvuldigd met het aantal vaartdagen gerealiseerd tijdens die zeereis in de desbetreffende i.c.e.s.-gebieden. » <br />3° in de §§ 5 en 6 worden de woorden « VIIa en » geschrapt.<br />4° In de § 6 wordt het jaartal « 2006 » vervangen door « 2007 ».<br /><br />
+<P>...</P>
 
 ### ART. 4.
 
-In het artikel 21 van hetzelfde besluit, worden met ingang van 16 april 2007 volgende wijzigingen aangebracht :<br />1° § 1 wordt aangevuld met het volgend lid :<br />« In de periode van 16 april 2007 tot en met 31 december 2007 is het in de i.c.e.s.-gebieden II, IV (Noordzee en Schelde-estuarium) voor een vissersvaartuig met een motorvermogen van 221 kW of minder, verboden bij de kabeljauwvangst per zeereis een hoeveelheid te overschrijden die gelijk is aan 200 kg, vermenigvuldigd met het aantal vaartdagen gerealiseerd tijdens de zeereis in de desbetreffende i.c.e.s.-gebieden. » <br />2° § 2 wordt aangevuld met het volgend lid :<br />« In de periode van 16 april 2007 tot en met 31 december 2007 is het in de i.c.e.s.-gebieden II, IV (Noordzee en Schelde-estuarium) voor een vissersvaartuig met een motorvermogen van meer dan 221 kW, verboden bij de kabeljauwvangst per zeereis een hoeveelheid te overschrijden die gelijk is aan 400 kg, vermenigvuldigd met het aantal vaartdagen gerealiseerd tijdens de zeereis in de desbetreffende i.c.e.s.-gebieden. » <br /><br />
+<P>...</P>
 
 ### ART. 5.
 
-In het artikel 23 van hetzelfde besluit, worden met ingang van 1 april 2007, volgende wijzigingen aangebracht :<br />1° in de §§ 4, 5 en 6 worden de woorden « 31 december » vervangen door de woorden « 31 maart »<br />2° de § 4 wordt aangevuld met het volgende lid :<br />« In afwijking van vorig lid is het voor een vissersvaartuig in de periode van 1 april 2007 tot en met 31 december 2007, zolang geen 60 % van het quotum is benut, verboden bij de bot- en scharvangsten per zeereis in de i.c.e.s.-gebieden II, IV (Noordzee en Schelde-estuarium) een hoeveelheid te overschrijden die gelijk is aan 1.000 kg, vermenigvuldigd met het aantal vaartdagen gerealiseerd tijdens die zeereis in de desbetreffende i.c.e.s.-gebieden. » <br />3° de § 5 wordt aangevuld met het volgende lid :<br />« In de periode van 1 april 2007 tot en met 31 december 2007 is het in de i.c.e.s.-gebieden II, IV (Noordzee en Schelde-estuarium) voor een vissersvaartuig met een motorvermogen van 221 kw of minder, verboden bij de tongschar en witjevangst per zeereis een hoeveelheid te overschrijden die gelijk is aan 400 kg, vermenigvuldigd met het aantal vaartdagen gerealiseerd tijdens die zeereis in de desbetreffende i.c.e.s.-gebieden. » <br />4° de § 6 wordt aangevuld met het volgende lid :<br />« In de periode van 1 april 2007 tot en met 31 december 2007 is het in de i.c.e.s.-gebieden II, IV (Noordzee en Schelde-estuarium) voor een vissersvaartuig met een motorvermogen van meer dan 221 kw, verboden bij de tongschar en witjevangst per zeereis een hoeveelheid te overschrijden die gelijk is aan 800 kg, vermenigvuldigd met het aantal vaartdagen gerealiseerd tijdens die zeereis in de desbetreffende i.c.e.s.-gebieden. » <br /><br />
+<P>...</P>
 
 ### ART. 6.
 
-Dit besluit treedt in werking op 1 april 2007 en houdt op van kracht te zijn op 1 januari 2008, met uitzondering van het artikel 1.<br /><br />
+<P>...</P>
