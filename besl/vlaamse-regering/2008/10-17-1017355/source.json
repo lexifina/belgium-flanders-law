@@ -1,0 +1,17 @@
+{
+  "codex_id": 1017355,
+  "title": "Besluit van de Vlaamse Regering van 2008-10-17 tot wijziging van het besluit van de Vlaamse Regering van 24 november 2000 betreffende steun aan de investeringen en aan de installatie in de landbouw",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1017355/VolledigDocument?datum=2008-01-01",
+  "source_sha256": "dc9dc5b24da1691ce441b078e3165714ffb3a44add1d7a4f7446287860d2e797",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1017355&param=informatie",
+  "as_of": "2008-01-01",
+  "made": "2008-10-17",
+  "gazette": "2008-12-10",
+  "numac": 2008036377,
+  "document_start": "2008-06-27",
+  "document_end": null,
+  "in_force": "2008-01-01",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2008-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
