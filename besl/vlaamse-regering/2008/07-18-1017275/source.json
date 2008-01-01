@@ -1,0 +1,17 @@
+{
+  "codex_id": 1017275,
+  "title": "Besluit van de Vlaamse Regering van 2008-07-18 tot wijziging van het besluit van de Vlaamse Regering van 16 juni 1998 tot regeling van de erkenning en subsidiëring van de centra voor ontwikkelingsstoornissen",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1017275/VolledigDocument?datum=2008-01-01",
+  "source_sha256": "24a4a34488bde0bae74c06426525a4f459bb6c9e4ce7e6f23e5d18c213fcfe49",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1017275&param=informatie",
+  "as_of": "2008-01-01",
+  "made": "2008-07-18",
+  "gazette": "2008-11-06",
+  "numac": 2008203851,
+  "document_start": "2008-01-01",
+  "document_end": null,
+  "in_force": "2008-01-01",
+  "article_versions": 15,
+  "record_form": "consolidated version as in force on 2008-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
