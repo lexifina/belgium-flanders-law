@@ -1,0 +1,17 @@
+{
+  "codex_id": 1017230,
+  "title": "Besluit van de Vlaamse Regering van 2008-07-10 tot wijziging van het besluit van de Vlaamse Regering van 9 december 2005 betreffende de modulering en de netwerken rechtstreeks toegankelijke jeugdhulpverlening en crisisjeugdhulpverlening in het raam van de integrale jeugdhulp, wat betreft de vergoeding voor interventie, begeleiding en opvang binnen het hulpprogramma van de netwerken crisisjeugdhulpverlening",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1017230/VolledigDocument?datum=2008-01-01",
+  "source_sha256": "a04dc2f1fe1661b93022ce1cf2a1ca1e0f228914bf106ddd0ecc933934a0631b",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1017230&param=informatie",
+  "as_of": "2008-01-01",
+  "made": "2008-07-10",
+  "gazette": "2008-10-27",
+  "numac": 2008203755,
+  "document_start": "2008-01-01",
+  "document_end": null,
+  "in_force": "2008-01-01",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2008-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
