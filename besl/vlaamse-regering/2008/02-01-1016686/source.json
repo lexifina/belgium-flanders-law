@@ -1,0 +1,17 @@
+{
+  "codex_id": 1016686,
+  "title": "Besluit van de Vlaamse Regering van 2008-02-01 tot wijziging van het besluit van de Vlaamse Regering van 27 oktober 1993 tot veralgemening van het stelstel van gesubsidieerde contractuelen",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1016686/VolledigDocument?datum=2008-01-01",
+  "source_sha256": "a870407fda43d6f06cdd6ec698ce13b77f27319e618dc1b5d1bcd11bf66a7f60",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1016686&param=informatie",
+  "as_of": "2008-01-01",
+  "made": "2008-02-01",
+  "gazette": "2008-03-26",
+  "numac": 2008200915,
+  "document_start": "2008-01-01",
+  "document_end": null,
+  "in_force": "2008-01-01",
+  "article_versions": 12,
+  "record_form": "consolidated version as in force on 2008-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
