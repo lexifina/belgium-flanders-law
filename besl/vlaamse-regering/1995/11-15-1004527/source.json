@@ -2,16 +2,16 @@
   "codex_id": 1004527,
   "title": "Besluit van de Vlaamse Regering van 1995-11-15 betreffende de beleidsboekhouding, de jaarrekening en het rekeningstelsel voor de hogescholen en de vzw's sociale voorzieningen",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1004527/VolledigDocument?datum=2006-06-01",
-  "source_sha256": "de51ec3a1f7f0ae1670a1ccad2ddeefcd7f42a6372b706e0d862f4a46c973485",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1004527/VolledigDocument?datum=2008-01-01",
+  "source_sha256": "d0235e7b60d7f5dd31f6fdb83b88e474c4ecb1e638d329702daa2f1b1ecb04b6",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1004527&param=informatie",
-  "as_of": "2006-06-01",
+  "as_of": "2008-01-01",
   "made": "1995-11-15",
   "gazette": "1996-03-08",
   "numac": 1996035196,
   "document_start": "1996-01-01",
   "document_end": "2007-12-31",
-  "in_force": "2006-06-01",
+  "in_force": "2008-01-01",
   "article_versions": 52,
-  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2008-01-01; future article versions excluded; article text as the API gives it"
 }
