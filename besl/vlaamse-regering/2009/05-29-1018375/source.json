@@ -2,16 +2,16 @@
   "codex_id": 1018375,
   "title": "Besluit van de Vlaamse Regering van 2009-05-29 tot wijziging van het Vlaams personeelsstatuut van 13 januari 2006, wat betreft inhoudelijke en technische aanpassingen",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1018375/VolledigDocument?datum=2007-03-16",
-  "source_sha256": "39116cacd8dec2cf53907f12fabd1b0828311927111d7efbea0a90c6c04b077b",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1018375/VolledigDocument?datum=2008-01-01",
+  "source_sha256": "c46c5882bff50049860b1fe657afb283d2ba55b9634aa3e06317d52c35523c88",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1018375&param=informatie",
-  "as_of": "2007-03-16",
+  "as_of": "2008-01-01",
   "made": "2009-05-29",
   "gazette": "2009-09-21",
   "numac": 2009035843,
   "document_start": "2009-05-29",
   "document_end": null,
-  "in_force": "2007-03-16",
-  "article_versions": 9,
-  "record_form": "consolidated version as in force on 2007-03-16; future article versions excluded; article text as the API gives it"
+  "in_force": "2008-01-01",
+  "article_versions": 14,
+  "record_form": "consolidated version as in force on 2008-01-01; future article versions excluded; article text as the API gives it"
 }

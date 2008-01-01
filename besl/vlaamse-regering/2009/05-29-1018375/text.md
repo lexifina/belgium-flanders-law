@@ -1,5 +1,9 @@
 # Besluit van de Vlaamse Regering van 2009-05-29 tot wijziging van het Vlaams personeelsstatuut van 13 januari 2006, wat betreft inhoudelijke en technische aanpassingen
 
+### ART. 42.
+
+In artikel V 30 van hetzelfde besluit wordt het eerste lid vervangen door wat volgt :<br />Het hoofd van het secretariaatspersoneel van een strategische adviesraad wordt jaarlijks geëvalueerd over de prestaties en de wijze van functie-uitoefening door de strategische adviesraad, hierin bijgestaan door Jobpunt Vlaanderen. Jobpunt Vlaanderen laat zich bijstaan door een externe instantie. De Vlaamse minister bevoegd voor de bestuurszaken legt de aanstelling van de externe instantie ter bekrachtiging voor aan de Vlaamse Regering.<br /><br />Ook het hoofd van het secretariaatspersoneel van een strategische adviesraad die in de loop van het evaluatiejaar of tijdens de evaluatieperiode die volgt op het evaluatiejaar, vrijwillig uit dienst treedt of op rust gesteld wordt, wordt met zijn akkoord nog geëvalueerd over de prestaties en de wijze waarop hij zijn functie heeft uitgeoefend zowel van het afgelopen evaluatiejaar als, in voorkomend geval, van het lopende evaluatiejaar, overeenkomstig de bepalingen van het eerste lid.<br /><br />
+
 ### ART. 44.
 
 In artikel V 35 van hetzelfde besluit, gewijzigd bij het besluit van de Vlaamse Regering van 16 maart 2007, wordt een paragraaf 4 toegevoegd, die luidt als volgt :<br />« § 4. In afwijking van paragraaf 2, is artikel I 5, § 5, van toepassing op de N-1 functies. »<br /><br />
@@ -12,9 +16,25 @@ Artikel VI 120 van hetzelfde besluit, ingevoegd bij het besluit van de Vlaamse R
 
 Aan artikel VII 8 van hetzelfde besluit wordt een vierde lid toegevoegd, dat luidt als volgt :<br />« Het contractuele personeelslid behoudt het recht op bezoldiging voor de feestdagen die vallen in een periode van 30 dagen die volgt op de aanvang van de schorsing van de uitvoering van de arbeidsovereenkomst die het gevolg is van een :<br />a) een ziekte of ongeval;<br />b) een arbeidsongeval of een beroepsziekte die een algehele arbeidsongeschiktheid meebrengt;<br />c) een periode van moederschapsrust. »<br /><br />
 
+### ART. 107.
+
+In artikel VII 36 van hetzelfde besluit, ingevoegd bij het besluit van de Vlaamse Regering van 16 maart 2007 en vervangen bij het besluit van de Vlaamse Regering van 23 mei 2008, worden tussen het woord « Regering, » en het woord « en », de woorden « voor de afgevaardigd bestuurder van het Gemeenschapsonderwijs door de Raad van het Gemeenschapsonderwijs, » ingevoegd.<br /><br />
+
+### ART. 108.
+
+Aan artikel VII 39 van hetzelfde besluit, ingevoegd bij het besluit van de Vlaamse Regering van 16 maart 2007 en vervangen bij het besluit van de Vlaamse Regering van 23 mei 2008, wordt een paragraaf 3 toegevoegd, die luidt als volgt :<br />« § 3. Een prestatietoelage kan ook toegekend worden op basis van de evaluatie na de opruststelling of vrijwillige uitdiensttreding zoals bepaald in de artikelen IV 1, V 13 en V 30. »<br /><br />
+
 ### ART. 110.
 
 In artikel VII 54 van hetzelfde besluit, ingevoegd bij het besluit van de Vlaamse Regering van 16 maart 2007, worden tussen het woord « preventieadviseur » en het woord « ontvangt » de woorden « van rang A1 of lager » ingevoegd.<br /><br />
+
+### ART. 112.
+
+In de tabel van artikel VII 70bis van hetzelfde besluit, ingevoegd bij het besluit van de Vlaamse Regering van 5 september 2008, wordt in de tabel, in de kolom « graad » het woord « matroos » vervangen door de woorden « speciaal assistent » en wordt in de kolom « functie » het woord « matroos » vervangen door de woorden « matroos/stoker. »<br /><br />
+
+### ART. 119.
+
+In artikel VII 90, § 3, van hetzelfde besluit, ingevoegd bij het besluit van de Vlaamse Regering van 5 september 2008, wordt het tweede lid vervangen door wat volgt :<br />« De aangepaste dagbedragen worden als volgt berekend :<br />((3.332,48 euro + (factor zone*jaarprestaties*bedrag kilometervergoeding woonplaats- standplaats))/1,4002) / 133 (arbeidsprestaties van 12 uur per dag) of 210 (andere arbeidsregeling); ».<br /><br />
 
 ### ART. 130.
 
