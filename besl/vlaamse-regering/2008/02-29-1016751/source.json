@@ -1,0 +1,17 @@
+{
+  "codex_id": 1016751,
+  "title": "Besluit van de Vlaamse Regering van 2008-02-29 tot wijziging van het besluit van de Vlaamse Regeringvan 8 december 2006 betreffende de ondersteuning van de Industriële Onderzoeksfondsen in 2006 en 2007",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1016751/VolledigDocument?datum=2008-01-01",
+  "source_sha256": "db6bdc212cc755e25138722ea5dc9009ca9eb9a847a71311068b5be856de5375",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1016751&param=informatie",
+  "as_of": "2008-01-01",
+  "made": "2008-02-29",
+  "gazette": "2008-05-05",
+  "numac": 2008201450,
+  "document_start": "2008-01-01",
+  "document_end": null,
+  "in_force": "2008-01-01",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2008-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
