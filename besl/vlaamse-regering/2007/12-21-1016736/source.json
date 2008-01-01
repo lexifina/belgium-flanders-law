@@ -1,0 +1,17 @@
+{
+  "codex_id": 1016736,
+  "title": "Besluit van de Vlaamse Regering van 2007-12-21 betreffende de algemene boekhouding, de jaarrekening en het rekeningstelsel voor de hogescholen",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1016736/VolledigDocument?datum=2008-01-01",
+  "source_sha256": "67be657ded11311ae6354b39ccda9a1a5b59245bffcaa6f473fffc76b5ef097c",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1016736&param=informatie",
+  "as_of": "2008-01-01",
+  "made": "2007-12-21",
+  "gazette": "2008-04-17",
+  "numac": 2008035448,
+  "document_start": "2008-01-01",
+  "document_end": "2025-12-31",
+  "in_force": "2008-01-01",
+  "article_versions": 80,
+  "record_form": "consolidated version as in force on 2008-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
