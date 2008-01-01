@@ -1,0 +1,17 @@
+{
+  "codex_id": 1016799,
+  "title": "Besluit van de Vlaamse Regering van 2008-04-11 houdende wijziging van het besluit van de Vlaamse Regering van 9 maart 2007 waarbij de nodige frequenties voor analoge radio ter beschikking van de Vlaamse Radio en Televisieomroep worden gesteld",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1016799/VolledigDocument?datum=2008-01-01",
+  "source_sha256": "858c69202489279f752e784cd0febdb07eb4e8294b0cdf0690a2239663de3e9a",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1016799&param=informatie",
+  "as_of": "2008-01-01",
+  "made": "2008-04-11",
+  "gazette": "2008-05-30",
+  "numac": 2008201458,
+  "document_start": "2008-01-01",
+  "document_end": null,
+  "in_force": "2008-01-01",
+  "article_versions": 5,
+  "record_form": "consolidated version as in force on 2008-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
