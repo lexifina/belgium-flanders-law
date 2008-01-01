@@ -56,11 +56,11 @@ De in artikel 2, 2° tot en met 6°, vermelde woningen moeten, indien ze ongesch
 
 ### ART. 13.
 
-Het VWF stelt de voorwaarden vast voor de verkoop van de woningen aan de kandidaat-kopers. Zij stelt de huurvoorwaarden en de huurprijzen vast voor de in huur te geven woningen, rekening houdend, enerzijds met het inkomen en de gezinslast van de kandidaat-huurders alsmede met de hen eventueel door het Vlaamse Gewest toegekende huursubsidies, en anderzijds met de kostprijs en de huurwaarde van de woningen.<br /><br />Zij is gemachtigd met derden overeenkomsten af te sluiten met het oog op de uitvoering van de huurhulpverrichtingen.<br /><br />Op voorstel van het VWF, stelt de minister een type-huurovereenkomst op.
+Het VWF stelt de voorwaarden vast voor de verkoop van de woningen aan de kandidaat-kopers. Zij stelt de huurvoorwaarden en de huurprijzen vast voor de in huur te geven woningen, rekening houdend, enerzijds met het inkomen en de gezinslast van de kandidaat-huurders alsmede met de hen eventueel door het Vlaamse Gewest toegekende huursubsidies, en anderzijds met de kostprijs en de huurwaarde van de woning, voor zover de woning geen sociale huurwoning is, zoals gedefinieerd in artikel 2, § 1, eerste lid, 22°, van de Vlaamse Wooncode. In dat geval wordt de woning verhuurd overeenkomstig de bepalingen van titel VII van de Vlaamse Wooncode.<br /><br />Zij is gemachtigd met derden overeenkomsten af te sluiten met het oog op de uitvoering van de huurhulpverrichtingen.<br />
 
 ### ART. 14.
 
-Om overbewoning of onderbezetting van de in huur gegeven woningen te voorkomen, kan het VWF, voorzover de met de huurder gesloten huurovereenkomst het toelaat, de huurders van verschillende woningen muteren.
+Om overbewoning of onderbezetting van de in huur gegeven woningen te voorkomen, kan het VWF, voor zover de met de huurder gesloten huurovereenkomst het toelaat, de huurders van verschillende woningen muteren, voor zover de woning geen sociale huurwoning is, zoals gedefinieerd in artikel 2, § 1, eerste lid, 22°, van de Vlaamse Wooncode. In dat geval zijn de bepalingen van titel VII van de Vlaamse Wooncode van toepassing.
 
 ## HOOFDSTUK IV Gemeenschappelijke bepalingen
 
