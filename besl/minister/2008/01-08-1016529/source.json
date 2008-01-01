@@ -1,0 +1,17 @@
+{
+  "codex_id": 1016529,
+  "title": "Ministerieel besluit van 2008-01-08 tot wijziging van het ministerieel besluit van 17 mei 2006 houdende de uitvoering van het besluit van de Vlaamse Regering van 13 januari 2006 betreffende de boekhouding en het financieel verslag van de voorzieningen in bepaalde sectoren van het beleidsdomein Welzijn, Volksgezondheid en Gezin, in de kinderdagverblijven, de diensten voor opvanggezinnen, de initiatieven voor buitenschoolse opvang en de centra voor kinderopvang en gezinsondersteuning",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1016529/VolledigDocument?datum=2008-01-01",
+  "source_sha256": "dfae057f8abbfb4d9a6fff4808e6e56db75972deedd99dc72b979946c688ac30",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1016529&param=informatie",
+  "as_of": "2008-01-01",
+  "made": "2008-01-08",
+  "gazette": "2008-01-23",
+  "numac": 2008035060,
+  "document_start": "2008-01-01",
+  "document_end": null,
+  "in_force": "2008-01-01",
+  "article_versions": 5,
+  "record_form": "consolidated version as in force on 2008-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
