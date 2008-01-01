@@ -1,0 +1,17 @@
+{
+  "codex_id": 1016671,
+  "title": "Besluit van de Vlaamse Regering van 2008-01-11 tot wijziging van het besluit van de Vlaamse Regering van 25 maart 1997 tot uitvoering van het decreet van 24 juli 1996 houdende regeling tot erkenning van de instellingen voor schuldbemiddeling in de Vlaamse Gemeenschap",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1016671/VolledigDocument?datum=2008-01-01",
+  "source_sha256": "4dd21b6504fc5173e2190edd97cebed4e27d5d2a9b1e39eac43e8cc34c85d3a5",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1016671&param=informatie",
+  "as_of": "2008-01-01",
+  "made": "2008-01-11",
+  "gazette": "2008-03-20",
+  "numac": 2008200791,
+  "document_start": "2008-01-01",
+  "document_end": null,
+  "in_force": "2008-01-01",
+  "article_versions": 6,
+  "record_form": "consolidated version as in force on 2008-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
