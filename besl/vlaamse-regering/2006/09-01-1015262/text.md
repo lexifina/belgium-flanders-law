@@ -38,7 +38,7 @@ Het programma en de organisatie van de zittijden van de examencommissie worden b
 
 ### ART. 9.
 
-De volgende bedragen worden toegekend als presentiegeld :<br />1° aan elke voorzitter en plaatsvervangende voorzitter :<br />a) 6 euro per zitdag van 6 of 7 uur;<br />b) 8 euro per zitdag van 8 uur of meer;<br />2° aan elk werkend en plaatsvervangend lid :<br />a) 4 euro per zitdag van 6 of 7 uur;<br />b) 6 euro per zitdag van 8 uur of meer.<br /><br />Onder zitdag wordt verstaan : iedere dag waarop de noodzakelijke activiteiten met betrekking tot de feitelijke examens worden uitgevoerd.
+De volgende bedragen worden toegekend als presentiegeld :<br />1° aan elke voorzitter en plaatsvervangende voorzitter :<br />a) 30 euro per zitdag van 6 of 7 uur;<br />b) 45 euro per zitdag van 8 uur of meer;<br />2° aan elk werkend en plaatsvervangend lid dat in het onderwijs ter beschikking is gesteld wegens persoonlijke aangelegenheden voorafgaand aan het rustpensioen of dat gepensioneerd is :<br />a) 30 euro per zitdag van 6 of 7 uur;<br />b) 45 euro per zitdag van 8 uur of meer;<br />3° aan elk werkend en plaatsvervangend lid dat in het onderwijs in actieve dienst is of ter beschikking is gesteld wegens persoonlijke aangelegenheden :<br />a) 20 euro per zitdag van 6 of 7 uur;<br />b) 30 euro per zitdag van 8 uur of meer.<br /><br />Onder zitdag wordt verstaan : iedere dag waarop de noodzakelijke activiteiten met betrekking tot de feitelijke examens worden uitgevoerd.
 
 ### ART. 10.
 
