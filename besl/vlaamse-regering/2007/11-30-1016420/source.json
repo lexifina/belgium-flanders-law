@@ -1,0 +1,17 @@
+{
+  "codex_id": 1016420,
+  "title": "Besluit van de Vlaamse Regering van 2007-11-30 tot vaststelling van de tarieven van het loodsgeld en andere vergoedingen en kosten voor loodsverrichtingen in het Belgische loodsvaarwater",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1016420/VolledigDocument?datum=2008-01-01",
+  "source_sha256": "5b04d6d1ed6b1c87f72c68e3e5b83f07607923ebf33a636b913076729bb1deb6",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1016420&param=informatie",
+  "as_of": "2008-01-01",
+  "made": "2007-11-30",
+  "gazette": "2007-12-19",
+  "numac": 2007037237,
+  "document_start": "2008-01-01",
+  "document_end": "2008-12-31",
+  "in_force": "2008-01-01",
+  "article_versions": 16,
+  "record_form": "consolidated version as in force on 2008-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
