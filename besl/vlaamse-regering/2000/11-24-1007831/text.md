@@ -52,19 +52,19 @@ In het startplan bedoeld in artikel 10 moet worden aangetoond dat de landbouwer 
 
 ### ART. 12.
 
-De vestigingssteun die in aanmerking komt voor financiering uit het Europees Oriëntatie- en Garantiefonds van de Landbouw (EOGFL) kan een of meerdere van de volgende maatregelen omvatten:<br /><br />1° de steun onder de vorm van een investeringspremie;<br /><br />2° de steun onder de vorm van een rentetoelage;<br /><br />3° de waarborg, bedoeld in artikel 12, § 5 van het decreet van 22 december 1993 houdende bepalingen tot begeleiding van de begroting 1994.<br /><br />De gekapitaliseerde waarde van de steun bedraagt ten hoogste 25.000 euro onder vorm van een investeringspremie en 25 000 euro onder vorm van een rentetoelage.
+De vestigingssteun kan een of meer van de volgende maatregelen omvatten :<br />1° de steun in de vorm van een vestigingspremie;<br />2° de steun in de vorm van een rentetoelage;<br />3° de waarborg, vermeld in artikel 12, § 5, van het decreet van 22 december 1993 houdende bepalingen tot begeleiding van de begroting 1994.<br /><br />De totale gekapitaliseerde vestigingssteun bedraagt maximaal 55.000 euro; ten hoogste 25.000 euro in de vorm van een vestigingspremie en aanvullend 30.000 euro in de vorm van een gekapitaliseerde rentetoelage als de aanvrager zich vestigt als landbouwer-natuurlijke persoon of maximaal 40.000 euro in de vorm van een vestigingspremie en aanvullend 15.000 euro in de vorm van een gekapitaliseerde rentetoelage als de aanvrager zich vestigt als beherende vennoot, zaakvoerder, bestuurder of gedelegeerd bestuurder met de kwalificatie landbouwer van een landbouwer-rechtspersoon.
 
 ### ART. 13.
 
-Voor het verkrijgen van de in artikel 12 bedoelde vestigingssteun moet de landbouwer vesti-gingskosten aantonen. Deze bedragen 50 000 euro per vestiging voor de investeringspremie en 100 000 euro per vestiging voor de rentetoelage. Bij kleinere bedragen kan de steun proportioneel verkregen worden.<br /><br />De rentetoelage bedraagt maximaal 4 %.
+Om de vestigingssteun, vermeld in artikel 12, te verkrijgen, moeten vestigingskosten aangetoond worden. Voor de steun in de vorm van een vestigingspremie bedragen die kosten het dubbele van de vestigingspremie. Voor de steun in de vorm van een rentetoelage wordt het bedrag van de aan te tonen kosten jaarlijks vastgesteld op basis van de actualisatievoet. De actuele waarde van de maximale rentetoelage gedurende de maximale duur ervan op dat bedrag mag niet groter zijn dan 30.000 euro bij een vestiging als landbouwer-natuurlijke persoon, en 15.000 euro bij een vestiging als beherende vennoot, zaakvoerder, bestuurder of gedelegeerd bestuurder met de kwalificatie landbouwer van een landbouwer-rechtspersoon. Bij kleinere bedragen aan vestigingskosten kan de steun proportioneel verkregen worden.<br /><br />De rentetoelage bedraagt maximaal 4 %.
 
 ### ART. 14.
 
-De landbouwer die geniet van de vestigingssteun, bedoeld in artikel 12, kan van volgende aanvul-lende regionale steunmaatregelen genieten:<br /><br />1° de steun onder de vorm van een rentetoelage;<br /><br />2° de waarborg, bedoeld in artikel 12, § 5 van het decreet van 22 december 1993 houdende bepalingen tot begeleiding van de begroting 1994.<br /><br />De gekapitaliseerde waarde van de regionale steun bedraagt ten hoogste 25 000 euro per vestiging.
+...
 
 ### ART. 15.
 
-Voor het verkrijgen van de in artikel 14 bedoelde regionale vestigingssteun moet de landbouwer 100 000 euro vestigingskosten aantonen, andere dan deze bedoeld in artikel 13.<br /><br />De rentetoelage met betrekking tot de aanvullende regionale steun bedraagt maximaal 4 %.
+...
 
 ### ART. 16.
 
