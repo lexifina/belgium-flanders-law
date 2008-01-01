@@ -2,16 +2,16 @@
   "codex_id": 1001123,
   "title": "Besluit van de Vlaamse Regering van 1994-06-08 betreffende het financiële en materiële beheer van de dienst met afzonderlijk beheer \"Beheersdienst van het Kasteel-Domein van Gaasbeek",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1001123/VolledigDocument?datum=2006-06-01",
-  "source_sha256": "9de0b409645624ccdac38aecbe1a6cbbb786cdfa018521f796d2b8fb2d2fd96c",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1001123/VolledigDocument?datum=2008-01-01",
+  "source_sha256": "3b285065dd1d4e385eb6e9970500d5a511d605819feed6d88124b8516013ea37",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1001123&param=informatie",
-  "as_of": "2006-06-01",
+  "as_of": "2008-01-01",
   "made": "1994-06-08",
   "gazette": "1994-10-20",
   "numac": 1994036116,
   "document_start": null,
   "document_end": "2007-12-31",
-  "in_force": "2006-06-01",
+  "in_force": "2008-01-01",
   "article_versions": 26,
-  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2008-01-01; future article versions excluded; article text as the API gives it"
 }
