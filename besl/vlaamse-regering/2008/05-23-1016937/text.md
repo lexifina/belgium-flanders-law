@@ -4,6 +4,10 @@
 
 De Vlaamse Regering,<br /><br />Gelet op de bijzondere wet van 8 augustus 1980 tot hervorming der instellingen, inzonderheid op artikel 87, § 1 en § 3, vervangen bij de wet van 8 augustus 1988;<br /><br />Gelet op het bijzonder decreet van 14 juli 1998 betreffende het Gemeenschapsonderwijs, inzonderheid op artikel 67, § 2;<br /><br />Gelet op het kaderdecreet Bestuurlijk Beleid van 18 juli 2003, inzonderheid op artikel 2, 3 en 5;<br /><br />Gelet op het decreet van 18 juli 2003 tot regeling van strategische adviesraden, inzonderheid op artikel 12, derde lid;<br /><br />Gelet op het besluit van de Vlaamse Regering van 13 januari 2006 houdende vaststelling van de rechtspositie van het personeel van de diensten van de Vlaamse overheid, gewijzigd bij de besluiten van de Vlaamse Regering van 29 september 2006, 16 maart 2007, 6 juli 2007 en 19 juli 2007;<br /><br />Gelet op het akkoord van de minister, bevoegd voor de pensioenen, gegeven op 14 februari 2008;<br /><br />Gelet op het akkoord van de Vlaamse minister, bevoegd voor de begroting, gegeven op 23 oktober 2007;<br /><br />Gelet op protocol nr. 252.815 van 13 maart 2008 van het Sectorcomité XVIII Vlaamse Gemeenschap - Vlaams Gewest;<br /><br />Gelet op het advies nummer 44.250/3 van de Raad van State, gegeven op 8 april 2008 met toepassing van artikel 84, § 1, eerste lid, 1°, van de gecoördineerde wetten op de Raad van State;<br /><br />Op voorstel van de Vlaamse minister van Bestuurszaken, Buitenlands Beleid, Media en Toerisme;<br /><br />Na beraadslaging,<br /><br />Besluit :
 
+### ART. 9.
+
+Artikel III 26 van hetzelfde besluit, ingevoegd bij het besluit van de Vlaamse Regering van 16 maart 2007, wordt opgeheven.
+
 ### ART. 15.
 
 In artikel V 38 van hetzelfde besluit, gewijzigd bij het besluit van de Vlaamse Regering van 29 september 2006, worden de volgende wijzigingen aangebracht :<br /><br />1° in § 1 wordt het derde lid opgeheven;<br /><br />2° in § 2, tweede lid, worden tussen de woorden « een » en « externe » de woorden « door Jobpunt Vlaanderen of zijn rechtsopvolger georganiseerde » ingevoegd.
@@ -31,6 +35,10 @@ In artikel VI 90 van hetzelfde besluit, ingevoegd bij het besluit van de Vlaamse
 ### ART. 53.
 
 In artikel VI 92, § 3, eerste lid, van hetzelfde besluit, ingevoegd bij het besluit van de Vlaamse Regering van 16 maart 2007, worden tussen het woord « redenen » en de woorden « of op verzoek » de woorden « , om organisatorische redenen » ingevoegd.
+
+### ART. 61.
+
+Artikel VI 132 van hetzelfde besluit, ingevoegd bij het besluit van de Vlaamse Regering van 16 maart 2007, wordt opgeheven.
 
 ### ART. 65.
 
@@ -272,6 +280,10 @@ In artikel VII 22 van hetzelfde besluit, ingevoegd bij het besluit van de Vlaams
 </table>
 
 <p>&nbsp;</p>
+
+### ART. 72.
+
+In deel VII, titel 2, hoofdstuk 2, van hetzelfde besluit, ingevoegd bij het besluit van de Vlaamse Regering van 16 maart 2007, wordt afdeling 4, bestaande uit de artikelen VII 25 en VII 26, opgeheven.
 
 ### ART. 73.
 
@@ -534,6 +546,10 @@ In artikel VII 118, § 1, van hetzelfde besluit, ingevoegd bij het besluit van d
 
 In artikel VII 124, § 3, van hetzelfde besluit, ingevoegd bij het besluit van de Vlaamse Regering van 16 maart 2007 worden de woorden « 16 tot en met 21, 27, 40, 43 en 45 » vervangen door de woorden « 15 tot en met 19, 25, 37, 40 en 42 ».
 
+### ART. 92.
+
+Artikel VII 134 van hetzelfde besluit, ingevoegd bij het besluit van de Vlaamse Regering van 16 maart 2007, wordt opgeheven.
+
 ### ART. 93.
 
 Artikel VII 151 van hetzelfde besluit, ingevoegd bij het besluit van de Vlaamse Regering van 16 maart 2007, wordt als volgt gewijzigd :<br /><br />1° wordt opgeheven;<br /><br />2° wordt terug ingevoegd als volgt :<br /><br />Ambtenaren van rang A1 die op de datum van de inwerkingtreding van dit besluit de diensthoofdentoelage bedoeld in artikel XIII 25 en XIII 26 van het besluit van de Vlaamse Regering van 13 januari 2006 houdende vaststelling van de rechtspositie van het personeel van de diensten van de Vlaamse overheid zoals gewijzigd bij besluit van 16 maart 2007 genieten, behouden in de volgende gevallen deze toelage :<br />1° De huidige titularissen van de A1-diensthoofdentoelage die bevorderd worden tot een functie van N-2 en wiens salaris in N-2 lager is dan het A1-salaris verhoogd met 10% totdat hun salaris in rang A2 hoger wordt dan de som van hun salaris in rang A1 verhoogd met de diensthoofdentoelage;<br />2° De huidige titularissen van de A1-diensthoofdentoelage die niet bevorderd worden in een functie van N-2, maar die de functie blijven uitoefenen en niet gevat worden door toepassing van vermelde overgangsregel, behouden ten persoonlijken titel de A1-diensthoofdentoelage.
@@ -541,6 +557,10 @@ Artikel VII 151 van hetzelfde besluit, ingevoegd bij het besluit van de Vlaamse 
 ### ART. 94.
 
 Artikel VII 152 van hetzelfde besluit, ingevoegd bij het besluit van de Vlaamse Regering van 16 maart 2007, wordt opgeheven.
+
+### ART. 95.
+
+Artikel VIII 19 van hetzelfde besluit wordt vervangen door wat volgt :<br /><br />« VIII 19. De bevoegde overheid noch de raad van beroep kunnen een zwaardere tuchtstraf definitief uitspreken dan de straf die uitgesproken is voor het beroep.<br /><br />Zij mogen alleen feiten in aanmerking nemen die de tuchtprocedure gerechtvaardigd hebben.<br /><br />Als de raad van beroep unaniem beslist dat de tuchtstraf ongegrond is, kan de raad aansluitend bij eenparigheid van stemmen beslissen om geen of een lichtere straf toe te kennen dan de straf die uitgesproken is voor het beroep. »<br /><br />Een tuchtstraf kan geen uitwerking hebben over een periode vóór de uitspraak. »
 
 ### ART. 96.
 
