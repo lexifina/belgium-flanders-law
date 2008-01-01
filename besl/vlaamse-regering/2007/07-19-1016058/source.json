@@ -1,0 +1,17 @@
+{
+  "codex_id": 1016058,
+  "title": "Besluit van de Vlaamse Regering van 2007-07-19 tot vaststelling van de bepalingen en voorwaarden van erkenning en subsidiëring van organisaties inzake vrijetijdszorg voor personen met een handicap",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1016058/VolledigDocument?datum=2008-01-01",
+  "source_sha256": "8d8c3e1fff24b7298a496756fd73feb0221c6553ae870c9c8a4783a509460e8a",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1016058&param=informatie",
+  "as_of": "2008-01-01",
+  "made": "2007-07-19",
+  "gazette": "2007-08-09",
+  "numac": 2007036337,
+  "document_start": "2008-01-01",
+  "document_end": null,
+  "in_force": "2008-01-01",
+  "article_versions": 18,
+  "record_form": "consolidated version as in force on 2008-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
