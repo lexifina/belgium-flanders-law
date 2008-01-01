@@ -2,16 +2,16 @@
   "codex_id": 1015543,
   "title": "Ministerieel besluit van 2007-02-02 betreffende de toekenning van een afwijking krachtens artikel 6 van het decreet van 15 juli 1997 houdende invoering van een meer evenwichtige vertegenwoordiging van mannen en vrouwen in adviesorganen aan de wetenschappelijke commissies FWO-Vlaanderen",
   "type": "Ministerieel besluit",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1015543/VolledigDocument?datum=2007-03-01",
-  "source_sha256": "f945850093061f252cf780fbd1a67bbb4fac534156fe7e6af2436f48145b1955",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1015543/VolledigDocument?datum=2008-01-01",
+  "source_sha256": "0c4bc6695ff8a3b771efe3acc1bfe51e82befe5910923a4c47ae384de60426dc",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1015543&param=informatie",
-  "as_of": "2007-03-01",
+  "as_of": "2008-01-01",
   "made": "2007-02-02",
   "gazette": "2007-02-19",
   "numac": 2007035234,
   "document_start": "2007-03-01",
   "document_end": "2007-12-31",
-  "in_force": "2007-03-01",
+  "in_force": "2008-01-01",
   "article_versions": 3,
-  "record_form": "consolidated version as in force on 2007-03-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2008-01-01; future article versions excluded; article text as the API gives it"
 }
