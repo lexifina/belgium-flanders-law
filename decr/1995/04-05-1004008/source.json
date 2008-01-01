@@ -2,16 +2,16 @@
   "codex_id": 1004008,
   "title": "Decreet van 1995-04-05 houdende erkenning en subsidiëring van de gemeentelijke sportdiensten, de provinciale sportdiensten en de sportdienst van de Vlaamse Gemeenschapscommissie",
   "type": "Decreet",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1004008/VolledigDocument?datum=2006-06-01",
-  "source_sha256": "ea5a16a4e06221f59db7a8801c5ad5d66a166ef833154b26bab47245bb5401be",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1004008/VolledigDocument?datum=2008-01-01",
+  "source_sha256": "7b6c0351a664469417d44843af6775851ee77535523d8a5e6734df7dd5e9181c",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1004008&param=informatie",
-  "as_of": "2006-06-01",
+  "as_of": "2008-01-01",
   "made": "1995-04-05",
   "gazette": "1995-09-20",
   "numac": 1995036101,
   "document_start": "1996-01-01",
   "document_end": "2007-12-31",
-  "in_force": "2006-06-01",
+  "in_force": "2008-01-01",
   "article_versions": 14,
-  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2008-01-01; future article versions excluded; article text as the API gives it"
 }

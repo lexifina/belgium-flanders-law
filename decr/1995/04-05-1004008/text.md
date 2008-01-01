@@ -4,62 +4,62 @@
 
 ### ART. 1.
 
-Dit decreet regelt een aangelegenheid als bedoeld in artikel 127 van de Grondwet.
+...
 
 ### ART. 2.
 
-In dit decreet wordt verstaan onder:<br /><br />1° de Hoge Raad: de Vlaamse Hoge Raad voor de Sport;<br /><br />2° de sportdienst: de dienst, belast met de uitvoering van het sportbeleid, de programmering en de coördinatie van de sportactiviteiten en het beheer van de sportinfrastructuur;<br /><br />3° de sportfunctionaris: het personeelslid, uitsluitend werkzaam voor de sportdienst in een leidinggevende of verantwoordelijke functie en hoofdzakelijk belast met de sportpromotie en -animatie;<br /><br />4° de sportraad: de door de organiserende overheid erkende adviesraad inzake sportaangelegenheden;<br /><br />5° het sportcentrum: het geheel van sportaccomodaties dat bestuurd wordt hetzij door de organiserende overheid, hetzij door een vereniging zonder winstgevend doel;<br /><br />6° het BLOSO: het Vlaams Commissariaat-generaal voor de Bevordering van de Lichamelijke Ontwikkeling, de Sport en de Openluchtrecreatie;<br /><br />7° de Vlaamse Trainersschool: de instelling die ter uitvoering van de opdrachten, toegekend aan het BLOSO, werd opgericht in de vorm van een samenwerkingsverband tussen het BLOSO, de universiteiten (Katholieke Universiteit Leuven, Universiteit Gent en Vrije Universiteit Brussel) en de sportfederaties.
+...
 
 ### ART. 3.
 
-Binnen de perken van de daartoe uitgetrokken begrotingskredieten kent het BLOSO subsidies toe aan de gemeente, de provincie en de Vlaamse Gemeenschapscommissie indien zij een erkende sportdienst hebben.
+...
 
 ### ART. 4.
 
-§ 1. De erkenning van een sportdienst wordt door het BLOSO verleend, geweigerd, geschorst of ingetrokken na advies van de Hoge Raad onder de voorwaarden en in de vorm, bepaald door de Vlaamse regering.<br /><br />§ 2. In geval van weigering van een erkenning kan de aanvrager van de erkenning beroep aantekenen bij de Vlaamse regering volgens een procedure die door de Vlaamse regering wordt bepaald.<br /><br />§ 3. De controle over de werking van de erkende sportdiensten gebeurt door het BLOSO onder de voorwaarden en in de vorm, bepaald door de Vlaamse regering.<br /><br />§ 4. De erkenning kan, naargelang van het geval geweigerd, geschorst of ingetrokken worden als één of meer van de voorwaarden, vermeld in de artikelen 5, 6, 7, 8 en 9 niet of niet meer worden nageleefd.
+...
 
 ## HOOFDSTUK II ERKENNINGSVOORWAARDEN
 
 ### ART. 5.
 
-Om erkend te worden en erkend te blijven moet een gemeentelijke sportdienst, een provinciale sportdienst en de sportdienst van de Vlaamse Gemeenschapscommissie aan de volgende voorwaarden voldoen:<br /><br />1° de organiserende overheid van de sportdienst is een gemeente, een provincie of de Vlaamse Gemeenschapscommissie;<br /><br />2° de organiserende overheid stelt een sportcentrum ter beschikking voor sportactiviteiten van verenigingen, organisaties en bevolkingsgroepen, ongeacht hun ideologische en filosofische strekking;<br /><br />3° de organiserende overheid bezit het eigendomsrecht of het genotsrecht van het sportcentrum: de Vlaamse regering bepaalt het minimumaantal uren waarop het sportcentrum ter beschikking moet staan van de sportdienst;<br /><br />4° de sportaccomodaties moeten bestuurd worden door:<br /><br />a) hetzij door de organiserende overheid, bijgestaan door een erkende sportraad;<br /><br />b) hetzij door een vereniging zonder winstgevend doel waaraan door de organiserende overheid het bestuur over het sportcentrum bij overeenkomst wordt toevertrouwd; in dat geval moeten de statuten van de vereniging zonder winstgevend doel bepalen dat elk van de statutaire organen voor de helft bestaat uit vertegenwoordigers van de organiserende overheid volgens het evenredige stelsel en voor de andere helft uit afgevaardigden van de door de organiserende overheid erkende sportraad; de Vlaamse regering omschrijft nader de opdracht van de bestuursorganen bij gemeentelijk beheer of beheer door een vereniging zonder winstgevend doel;<br /><br />5° binnen het kader van de organisatie van het overleg en de inspraak moet<br /><br />a) een gemeente kiezen voor een afzonderlijke en autonome sportraad zoals bepaald wordt in het decreet van 24 juli 1991 houdende organisatie van het overleg en de inspraak in het gemeentelijk cultuurbeleid;<br /><br />b) een provincie en de Vlaamse Gemeenschapscommissie een sportraad oprichten als adviesorgaan waarin alle verenigingen, groeperingen of organisaties die actief zijn in het provinciale sportleven of in het Nederlandstalige sportleven in het Brussels Hoofdstedelijk Gewest, vertegenwoordigd kunnen zijn; de Vlaamse regering bepaalt nader de organisatie van deze sportraad;<br /><br />6° de sportdienst heeft als opdracht de algemene sportbeoefening door de bevolking te promoten; dat houdt onder meer het volgende in:<br /><br />a) in te staan voor de sportpromotie door in overleg met de respectieve sportraden:<br /><br />- activiteiten te organiseren die de bevolking tot sportbeoefening aanzetten;<br /><br />- op aangepaste en onafhankelijke wijze de sportpromotionele campagnes en acties te ondersteunen die voor de hele bevolking van de Vlaamse Gemeenschap gelden;<br /><br />voor die activiteiten is jaarlijks een afzonderlijk budget beschikbaar;<br /><br />b) het gemeentelijke sportleven, het provinciale sportleven of het Nederlandstalig sportleven in het Brussels Hoofdstedelijk Gewest te coördineren;<br /><br />c) organisatoren van sportevenementen te begeleiden en te ondersteunen;<br /><br />d) het bestuur en de promotie van het sportcentrum te ondersteunen;<br /><br />7° de organiserende overheid dient jaarlijks de volgende documenten in:<br /><br />a) een werkingsverslag;<br /><br />b) een financieel verslag met een goedgekeurde begroting en goedgekeurde rekeningen, waaruit blijkt dat aan de vereisten in 6°, littera a is voldaan;<br /><br />c) een sportpromotieplan voor het komende werkjaar, na overleg met de sportraad;<br /><br />de Vlaamse regering bepaalt de voorwaarden waaraan het werkingsverslag, het financiële verslag en het sportpromotieplan moeten voldoen.
+...
 
 ### ART. 6.
 
-Om voor erkenning in aanmerking te komen, moet een gemeentelijke sportdienst, een provinciale sportdienst en de sportdienst van de Vlaamse Gemeenschapscommissie bovendien aan de volgende voorwaarden voldoen:<br /><br />1° als afzonderlijke dienst functioneren in de gemeente, de provincie of de Vlaamse Gemeenschapscommissie;<br /><br />2° over eigen personeel beschikken;<br /><br />3° over kredieten beschikken die een eigen werking mogelijk maken;<br /><br />4° over voldoende administratieve ruimten beschikken.
+...
 
 ### ART. 7.
 
-§ 1. Om voor erkenning in aanmerking te komen, moet een gemeentelijke sportdienst een sportcentrum beheren dat voldoet aan de voorwaarden zoals bepaald door de Vlaamse regering inzake de minimale oppervlakte van de sportaccommodaties.<br /><br />§ 2. De te erkennen gemeentelijke sportdiensten worden in drie categorieën ingedeeld:<br /><br />1° categorie A: in gemeenten met meer dan vijftigduizend inwoners;<br /><br />2° categorie B: in gemeenten met twintigduizend tot en met vijftigduizend inwoners;<br /><br />3° categorie C: in gemeenten met minder dan twintigduizend inwoners.<br /><br />Het aantal inwoners wordt bepaald zoals vastgelegd in artikel 11, § 1.<br /><br />§ 3. Om voor erkenning in aanmerking te komen, moeten de gemeentelijke sportdiensten sportfunctionarissen in dienst hebben. Het minimumaantal sportfunctionarissen wordt voor elke categorie bepaald als volgt:<br /><br />1° categorie A: minimum twee door sportfunctionarissen ingevulde voltijdse formatieplaatsen;<br /><br />2° categorie B: minimum één door sportfunctionarissen ingevulde voltijdse formatieplaats;<br /><br />3° categorie C: minimum één door sportfunctionarissen ingevulde voltijdse formatieplaats.<br /><br />§ 4. Een gemeente uit categorie C kan erkend worden in categorie B als beantwoord wordt aan alle erkenningsvereisten en de minimale infrastructuurvereisten die gesteld worden aan een gemeente van categorie B.<br /><br />Een gemeente uit categorie B kan erkend worden in categorie A als beantwoord wordt aan alle erkenningsvereisten en de minimale infrastructuurvereisten die gesteld worden aan een gemeente van categorie A.<br /><br />§ 5. Om te voldoen aan de bepalingen van dit artikel kan een gemeente met minder dan tienduizend inwoners zich verenigen met één of meer aangrenzende gemeenten om samen een intergemeentelijke sportdienst op te richten. De bepalingen van artikel 5 en artikel 6 van dit decreet zijn op deze intergemeentelijke sportdienst van overeenkomstige toepassing.
+...
 
 ### ART. 8.
 
-Voor de toepassing van dit decreet worden de Vlaamse Gemeenschapscommissie en de provinciebesturen voor wat de erkenning betreft, gelijkgesteld met een gemeente van categorie A met vijftigduizend inwoners.<br /><br />Voor het sportcentrum van de provincies en de Vlaamse Gemeenschapscommissie gelden geen voorwaarden inzake minimale oppervlakten.
+...
 
 ### ART. 9.
 
-Het in artikel 5, 6°, littera a bedoelde budget is minimaal even groot als de subsidie die het BLOSO tijdens het voorgaande werkjaar aan de gemeente, de provincie of de Vlaamse Gemeenschapscommissie toegekend heeft.
+...
 
 ## HOOFDSTUK III SUBSIDIEVOORWAARDEN
 
 ### ART. 10.
 
-§ 1. Om in aanmerking te komen voor subsidiëring, moeten:<br /><br />- de gemeenten van categorie A tenminste twee door houders van het diploma van licentiaat in de lichamelijke opvoeding ingevulde voltijdse formatieplaatsen hebben;<br /><br />- de gemeenten van categorie B tenminste één door een houder van het diploma van licentiaat in de lichamelijke opvoeding ingevulde voltijdse formatieplaats hebben;<br /><br />- de gemeenten van categorie C tenminste één door een houder van het diploma van geaggregeerde voor het lager secundair onderwijs in de lichamelijke opvoeding ingevulde voltijdse formatieplaats hebben.<br /><br />De sportfunctionarissen worden minimaal betaald overeenkomstig het vereiste diploma.<br /><br />Bovendien moet een sportfunctionaris houder zijn van het brevet van sportfunctionaris, afgeleverd door de Vlaamse Trainersschool, of van een van de bekwaamheidsbewijzen die door de Vlaamse regering worden bepaald.<br /><br />§ 2. De sportfunctionaris moet voldoen aan de eisen inzake bijscholing. De Vlaamse regering bepaalt deze eisen.
+...
 
 ### ART. 11.
 
-§ 1. De totale subsidie bestaat voor elke erkende gemeentelijke sportdienst uit een basissubsidie en een aanvullende subsidie die als volgt wordt berekend:<br /><br />1° de basissubsidie : één vierde van het begrotingskrediet dat de Vlaamse Gemeenschap uittrekt voor de uitvoering van dit decreet, verdeeld a rato van het inwonersaantal van de gesubsidieerde gemeenten;<br /><br />2° de aanvullende subsidie : drie vierde van het begrotingskrediet dat de Vlaamse Gemeenschap uittrekt voor de uitvoering van dit decreet, verdeeld a rato van de in erkende sportdiensten werkzame sportfunctionarissen die voldoen aan de in dit decreet gestelde voorwaarden; hierbij wordt rekening gehouden met de volgende maxima :<br /><br />a) categorie A: drie door sportfunctionarissen ingevulde voltijdse formatieplaatsen. Dit aantal wordt voor gemeenten met meer dan honderdduizend inwoners en bij elke supplementaire schijf van honderdduizend inwoners telkens met 1 verhoogd;<br /><br />b) categorie B: twee door sportfunctionarissen ingevulde voltijdse formatieplaatsen;<br /><br />c) categorie C: één door sportfunctionarissen ingevulde voltijdse formatieplaats.<br /><br />De totale subsidie wordt vermenigvuldigd met een correctiefactor die rekening houdt met de beschikbare infrastructuur van het sportcentrum, die de minimale oppervlakte van de sportaccomodaties zoals bepaald in artikel 7, § 1, overtreft. De Vlaamse regering bepaalt de nadere regelen voor de berekening van deze correctiefactor voor elke sportdienst.<br /><br />Het inwonersaantal, bedoeld in het eerste lid, 1°, wordt bepaald overeenkomstig de laatste gegevens waarover de Vlaamse regering beschikt. De gegevens worden ingewonnen bij het Nationaal Instituut voor de Statistiek.<br /><br />§ 2. Voor de erkende sportdiensten van de provincies en de Vlaamse Gemeenschapscommissie wordt de totale subsidie berekend op dezelfde wijze als in § 1 van dit artikel, met dien verstande dat de provincies en de Vlaamse Gemeenschapscommissie gelijkgesteld worden met een gemeente van categorie A, met vijftigduizend inwoners.<br /><br />De correctiefactor die voor de subsidieberekening wordt gehanteerd is gelijk aan de gemiddelde correctiefactor van alle erkende en gesubsidieerde gemeenten, met een minimum van zestig percent.
+...
 
 ## HOOFDSTUK IV SLOTBEPALINGEN
 
 ### ART. 12.
 
-(niet opgenomen)<br /><br />(Heft het decreet van 7 december 1976 betreffende de toekenning van weddetoelagen voor sportfunctionarissen belast met de animatie en die werkzaam zijn in erkende gemeentelijke sportcentra die de sport en de sportieve vrijetijdsbesteding in de Nederlandstalige gemeenschap bevorderen op)
+...
 
 ### ART. 13.
 
-§ 1. De sportfunctionarissen die op 1 januari van het jaar waarin dit decreet in werking treedt gesubsidieerd worden volgens voornoemd decreet van 7 december 1976 en de sportfuncionarissen die op die datum in dienst zijn van de sportdienst van de provincies en van de Vlaamse Gemeenschapscommissie, worden in aanmerking genomen voor de berekening van de subsidie volgens dit decreet.<br /><br />Ook als zij in dienst treden bij een andere erkende sportdienst, worden die sportfunctionarissen in aanmerking genomen voor de berekening van de subsidie volgens dit decreet.<br /><br />§ 2. De besturen waarvan de sportdienst reeds wordt gesubsidieerd bij de inwerkingtreding van dit decreet, komen verder in aanmerking voor subsidiëring. Zij krijgen drie jaar de tijd om te voldoen aan de voorwaarden gesteld in artikel 5, 1°.<br /><br />Personeelsleden die thans tewerkgesteld worden in een erkende sportdienst beheerd door een vereniging zonder winstgevend doel, worden in dezelfde hoedanigheid door de organiserende overheid overgenomen.<br /><br />§ 3. De sportfunctionaris die op de datum van de inwerkingtreding van dit decreet met de opleiding zoals bepaald in artikel 10, § 1, laatste lid is gestart en die opleiding nadien ook met succes beëindigt, wordt gelijk geschakeld met de in § 1 vermelde sportfunctionarissen, ongeacht of hij voldoet aan de bepalingen van artikel 10.
+...
 
 ### ART. 14.
 
-Dit decreet treedt in werking op 1 januari van het jaar dat volgt op de bekendmaking ervan in het Belgisch Staatsblad.
+...
