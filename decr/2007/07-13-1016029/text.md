@@ -36,9 +36,17 @@ In artikel 15 van hetzelfde decreet wordt § 1 vervangen door wat volgt :<br /><
 
 In artikel 16 van hetzelfde decreet worden in 2° de woorden "artikelen 11, 12 en 13" vervangen door de woorden "artikel 11".<br />
 
+### ART. 10.
+
+In artikel 17 van hetzelfde decreet worden de volgende wijzigingen aangebracht :<br /><br />1° § 1 wordt vervangen door wat volgt :<br /><br />« § 1. Voor blinden, slechtzienden en personen met een leesbeperking voorziet dit decreet in de ondersteuning van een bibliotheekvoorziening.<br /><br />De Vlaamse Regering sluit met deze bibliotheekvoorziening een beheersovereenkomst. »;<br /><br />2° § 2 wordt opgeheven.<br />
+
 ### ART. 11.
 
 In artikel 19, § 1, eerste lid, van hetzelfde decreet worden de woorden "de opmaak en" geschrapt.<br />
+
+### ART. 12.
+
+Artikel 21 van hetzelfde decreet, gewijzigd bij het decreet van 23 december 2005, wordt vervangen door wat volgt :<br /><br />« Artikel 21. § 1. Voor de uitvoering van het cultuurbeleidsplan wordt aan gemeenten, aan samenwerkingsverbanden van gemeenten en aan de Vlaamse Gemeenschapscommissie een enveloppensubsidie ter beschikking gesteld :<br />1° voor gemeenten vanaf 10 000 inwoners en voor samenwerkingsverbanden van gemeenten een subsidie van 50.000 euro op jaarbasis;<br />2° voor gemeenten met minder dan 10 000 inwoners een subsidie van 25.000 euro op jaarbasis.<br /><br />De subsidie moet worden aangewend voor personeelskosten of voor andere uitgaven van de gemeente ter uitvoering van het cultuurbeleidsplan, met uitzondering van de uitgaven die voortvloeien uit de verplichtingen, vermeld in artikel 22, § 1, 2°, 3° en 4°.<br /><br />Loonkosten van personen voor wie de gemeente al een subsidie ontvangt op basis van een andere regelgeving, zijn eveneens uitgesloten.<br /><br />Voor de Vlaamse Gemeenschapscommissie en de gemeenten in het tweetalige gebied Brussel-Hoofdstad wordt 30 % van het aantal inwoners in aanmerking genomen.<br /><br />§ 2. Met uitzondering van de gemeenten in het tweetalige gebied Brussel-Hoofdstad wordt de enveloppensubsidie, vermeld in § 1, aangevuld met een subsidie van één euro per inwoner voor de ondersteuning van initiatieven ter bevordering van gemeenschapsvorming. Voor de berekening van de subsidie die aan een samenwerkingsverband wordt toegekend, wordt het aantal inwoners van de aan het samenwerkingsverband deelnemende gemeenten opgeteld.<br /><br />De besteding van die subsidie door de Vlaamse Gemeenschapscommissie wordt bepaald in een convenant van de Vlaamse Regering met de Vlaamse Gemeenschapscommissie. ».<br />
 
 ### ART. 13.
 
@@ -68,9 +76,29 @@ In artikel 28, § 1, van hetzelfde decreet, gewijzigd bij het decreet van 23 dec
 
 In titel IV, hoofdstuk II, van hetzelfde decreet wordt in het opschrift van afdeling 2 het woord "Basissubsidie" vervangen door het woord "Subsidie".<br />
 
+### ART. 20.
+
+Artikel 29 van hetzelfde decreet wordt vervangen door wat volgt :<br /><br />« Artikel 29. Als tegemoetkoming in de loonkosten van het personeel, dat werkt in het A- of B-niveau in een cultuurcentrum, kan een gemeente aanspraak maken op een enveloppensubsidie. Personen voor wie de gemeente al een subsidie ontvangt op basis van een andere regelgeving, kunnen niet in aanmerking worden genomen. ».<br />
+
+### ART. 21.
+
+Artikel 30 van hetzelfde decreet wordt vervangen door wat volgt :<br /><br />« Artikel 30. De enveloppensubsidie bestaat uit de volgende bedragen, naar gelang van de categorie waarin een gemeente wordt ingeschaald :<br />1° categorie A : 325.000 euro per cultuurcentrum; <br />2° categorie B : 190.000 euro per cultuurcentrum; <br />3° categorie C : 110.000 euro per cultuurcentrum. ».<br />
+
+### ART. 22.
+
+In hetzelfde decreet wordt een artikel 30bis ingevoegd, dat luidt als volgt :<br /><br />« Artikel 30bis. § 1. De Vlaamse Regering stelt jaarlijks een bedrag van minimaal 700.000 euro ter beschikking voor cultuurcentra uit categorie A. Dat bedrag wordt aangewend ter ondersteuning van bijzondere projecten die de gewone werking van een cultuurcentrum als vermeld in artikel 2, 4°, overstijgen. Projecten met het oog op het bereiken van een nieuw publiek, het verruimen van het aanbod van door de Vlaamse overheid gesubsidieerde en ondersteunde gezelschappen en het ondersteunen en toegankelijk maken van het aanbod van lokale gezelschappen en verenigingen krijgen prioriteit.<br /><br />Een gemeente met een cultuurcentrum, gesubsidieerd in categorie A, kan hiertoe een aanvraag indienen bij de administratie.<br /><br />De subsidie wordt toegekend op basis van een convenant dat de Vlaamse Regering met de gemeente sluit. De subsidie kan maximaal lopen tot en met het eerste jaar van een volgende gemeentelijke bestuursperiode.<br /><br />De Vlaamse Regering bepaalt de voorwaarden voor de procedure en de beoordeling van de aanvragen en voor de verantwoording van de toegekende subsidie.<br /><br />§ 2. De Vlaamse Regering stelt jaarlijks een bedrag van minimaal 700.000 euro ter beschikking voor cultuurcentra uit categorie B en C. Met dat bedrag kan de enveloppensubsidie van de cultuurcentra uit categorie B en C worden verhoogd met minimaal 10.000 euro per cultuurcentrum op jaarbasis, om bijzondere aandacht te besteden aan het bereiken van een nieuw publiek, het verruimen van het aanbod van door de Vlaamse overheid gesubsidieerde en ondersteunde gezelschappen en het ondersteunen en toegankelijk maken van het aanbod van lokale gezelschappen en verenigingen.<br /><br />De Vlaamse Regering bepaalt de voorwaarden voor de procedure en de beoordeling van de aanvragen en voor de verantwoording van de toegekende subsidie. ».<br />
+
+### ART. 23.
+
+In titel IV, hoofdstuk II, van hetzelfde decreet worden in het opschrift van afdeling 3 de woorden "Variabele subsidie" vervangen door het woord "Evaluatie".<br />
+
 ### ART. 24.
 
 Artikel 32 van hetzelfde decreet wordt vervangen door wat volgt :<br /><br />« Artikel 32. Tijdens de looptijd van het cultuurbeleidsplan of het beleidsplan van het cultuurcentrum maakt de administratie voor elk cultuurcentrum een analyse van de werking van het cultuurcentrum, op basis van de verwerking van de, conform artikel 28, § 1, 5°, ter beschikking gestelde gegevens over werking, personeel en financiën.<br /><br />De analyse wordt tijdens een bezoek ter plaatse met het cultuurcentrum besproken en geëvalueerd, met als resultaat een tegensprekelijk verslag met aanbevelingen voor het cultuurcentrum. De administratie kan voor de analyse een beroep doen op externe expertise.<br /><br />Tijdens het voorlaatste jaar van de looptijd van het cultuurbeleidsplan of het beleidsplan van het cultuurcentrum maakt de administratie een alomvattend evaluatieverslag over de werking van de cultuurcentra voor de Vlaamse Regering. ».<br />
+
+### ART. 25.
+
+Artikel 33 van hetzelfde decreet, gewijzigd bij de decreten van 5 juli 2002, 20 december 2002 en 23 december 2005, wordt opgeheven.<br />
 
 ### ART. 26.
 
@@ -88,6 +116,10 @@ In artikel 36, § 2, eerste lid, van hetzelfde decreet, vervangen bij het decree
 
 In artikel 39, § 1, van hetzelfde decreet, gewijzigd bij het decreet van 23 december 2005, wordt het eerste lid vervangen door wat volgt :<br /><br />« In aanvulling op de subsidie, vermeld in artikel 38, § 1, voorziet de Vlaamse Regering voor elke gemeente in een forfaitaire subsidie van 0,15 euro per inwoner van de gemeente ter ondersteuning van de participatie aan provinciale bibliotheeksystemen. » .<br />
 
+### ART. 30.
+
+In artikel 42 van hetzelfde decreet, gewijzigd bij de decreten van 24 december 2004 en 23 december 2005, wordt § 1 vervangen door wat volgt :<br /><br />« § 1. De Vlaamse Regering kent aan de bibliotheekvoorziening voor blinden, slechtzienden en personen met een leesbeperking, vermeld in artikel 17, § 1, een subsidie toe van minimaal 1.020.000 euro voor personeel, werking en collectievorming.<br /><br />De voorwaarden voor de toekenning van die subsidie worden bepaald in de beheersovereenkomst, vermeld in artikel 17, § 1. » .<br />
+
 ### ART. 31.
 
 In artikel 44, § 2, eerste lid, van hetzelfde decreet, vervangen bij het decreet van 23 december 2005, worden de woorden "de evaluatie van de uitvoering van het plan" vervangen door de woorden "een evaluatiemoment tijdens de looptijd van het plan".<br />
@@ -104,6 +136,10 @@ Artikel 47 van hetzelfde decreet, gewijzigd bij het decreet van 23 december 2005
 
 Artikel 48 van hetzelfde decreet, gewijzigd bij het decreet van 23 december 2005, wordt vervangen door wat volgt :<br /><br />« Artikel 48. De Vlaamse Gemeenschapscommissie concretiseert het convenant, vermeld in artikel 16, in een plan. De voorwaarden waaraan het plan moet voldoen, worden opgenomen in het convenant. ».<br /><br />
 
+### ART. 35.
+
+Artikel 49 van hetzelfde decreet, gewijzigd bij het decreet van 23 december 2005, wordt vervangen door wat volgt :<br /><br />« Artikel 49. De bibliotheekvoorziening voor blinden, slechtzienden en personen met een leesbeperking concretiseert de beheersovereenkomst, vermeld in artikel 17, § 1, in een plan. De voorwaarden waaraan het plan moet voldoen, worden opgenomen in de beheersovereenkomst.<br /><br />De organisatie, vermeld in artikel 17, § 3, concretiseert de beheersovereenkomst in een plan. De voorwaarden waaraan het plan moet voldoen, worden opgenomen in de beheersovereenkomst. ».<br />
+
 ### ART. 36.
 
 Artikel 50 van hetzelfde decreet, gewijzigd bij het decreet van 23 december 2005, wordt vervangen door wat volgt :<br /><br />« Artikel 50. De organisatie, vermeld in artikel 18, concretiseert de beheersovereenkomst in een plan. De voorwaarden waaraan het plan moet voldoen, worden opgenomen in de beheersovereenkomst. ».<br />
@@ -111,6 +147,10 @@ Artikel 50 van hetzelfde decreet, gewijzigd bij het decreet van 23 december 2005
 ### ART. 37.
 
 In artikel 51, § 1, van hetzelfde decreet wordt 2° vervangen door wat volgt :<br />« 2° beschikken over minstens één aangesloten gemeente met een aanvaard gemeentelijk cultuurbeleidsplan als vermeld in artikel 19, § 1, waarin wordt aangegeven dat de gemeente in een intergemeentelijk samenwerkingsverband wil stappen;".<br />
+
+### ART. 38.
+
+In artikel 53 van hetzelfde decreet wordt 2° opgeheven.<br />
 
 ### ART. 39.
 
