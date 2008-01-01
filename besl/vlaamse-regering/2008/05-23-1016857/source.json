@@ -1,0 +1,17 @@
+{
+  "codex_id": 1016857,
+  "title": "Besluit van de Vlaamse Regering van 2008-05-23 houdende de samenstelling van de Raad van het Fonds voor Scheepsjongens",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1016857/VolledigDocument?datum=2008-01-01",
+  "source_sha256": "0058ecc29d1db7e43e158668fae989cc54a655fdc04bd79250fdd0498fdc67a1",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1016857&param=informatie",
+  "as_of": "2008-01-01",
+  "made": "2008-05-23",
+  "gazette": "2008-06-25",
+  "numac": 2008202174,
+  "document_start": "2008-01-01",
+  "document_end": null,
+  "in_force": "2008-01-01",
+  "article_versions": 6,
+  "record_form": "consolidated version as in force on 2008-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
