@@ -3634,73 +3634,415 @@ De Vlaamse Regering,<br /><br />Gelet op de bijzondere wet van 8 augustus 1980 t
 
 ## TITEL I. Toepassingsgebied en algemene bepalingen
 
+### ART. 1.
+
+Dit besluit is van toepassing op :<br />1° het gemeentepersoneel, vermeld in artikel 76, § 1, en in artikel 102 van het gemeentedecreet;<br />2° het provinciepersoneel, vermeld in artikel 74 en in artikel 98 van het provinciedecreet;<br />3° de secretarissen en ontvangers van de openbare centra voor maatschappelijk welzijn, wat artikel 219, 220, 223 en 226, tweede lid, betreft.<br /><br />In afwijking van het eerste lid, 1°, worden op het personeel van een gemeentelijke gezondheidsinstelling die door de federale overheid gefinancierd wordt, de functies, de salarisschalen en functionele loopbanen, bepaalde geldelijke regelingen en bepaalde afwezigheden toegepast, zoals op het personeel van het Openbaar Centrum voor Maatschappelijk Welzijn dat tewerkgesteld is in een federaal gefinancierde gezondheidsinstelling.<br /><br />Op het personeel van erkende gemeentelijke en provinciale voorzieningen voor opvang, behandeling en begeleiding van personen met een handicap zijn, in afwijking van het eerste lid, 1°, de soorten functies van toepassing zoals bepaald in de reglementering van de Vlaamse overheid betreffende de erkenning en de subsidiëring van de voorzieningen voor personen met een handicap. Voor dat personeel worden de salarisschalen van dit besluit gekozen die verenigbaar zijn met de vermelde erkennings- en subsidiëringsnormen.<br />
+
+### ART. 2.
+
+In dit besluit wordt verstaan onder :<br />1° het gemeentedecreet : het gemeentedecreet van 15 juli 2005;<br />2° het provinciedecreet : het provinciedecreet van 9 december 2005;<br />3° de raad : de gemeenteraad voor de gemeente en de provincieraad voor de provincie, elk voor de rechtspositie van zijn eigen personeel;<br />4° de aanstellende overheid :<br />a) de gemeenteraad, voor de gemeentesecretaris, de adjunct-gemeentesecretaris en de financieel beheerder van de gemeente;<br />b) de provincieraad, voor de provinciegriffier en de financieel beheerder van de provincie;<br />c) de gemeenteraad, voor andere leden van het managementteam van de gemeente dan de personeelsleden, vermeld in punt a), behalve als hij zijn bevoegdheid tot aanstelling met toepassing van artikel 43 van het gemeentedecreet gedelegeerd heeft aan het college van burgemeester en schepenen;<br />d) de provincieraad, voor andere leden van het managementteam van de provincie dan de personeelsleden, vermeld in punt b), behalve als hij zijn bevoegdheid tot aanstelling met toepassing van artikel 43 van het provinciedecreet gedelegeerd heeft aan de deputatie;<br />e) het college van burgemeester en schepenen, voor de overige personeelsleden van de gemeente, en met toepassing van artikel 106 van het gemeentedecreet, de gemeentesecretaris;<br />f) de deputatie, voor de overige personeelsleden van de provincie, en met toepassing van artikel 102 van het provinciedecreet, de provinciegriffier;<br />5° het uitvoerend orgaan van het bestuur : het college van burgemeester en schepenen voor de gemeente en de deputatie voor de provincie;<br />6° het hoofd van het personeel : de gemeentesecretaris voor het gemeentepersoneel, de provinciegriffier voor het provinciepersoneel en in voorkomend geval het hoofd van het gemeentelijk intern verzelfstandigd agentschap of het hoofd van het provinciaal intern verzelfstandigd agentschap;<br />7° het bestuur : het gemeentebestuur of het provinciebestuur;<br />8° het personeelslid : zowel het statutaire personeelslid als het contractuele personeelslid;<br />9° het statutaire personeelslid : elk personeelslid dat bij eenzijdige beslissing van de overheid vast aangesteld is in statutair dienstverband, evenals het personeelslid dat bij eenzijdige beslissing van de overheid toegelaten is tot de proeftijd met het oog op een vaste aanstelling in statutair dienstverband;<br />10° het statutaire personeelslid op proef : elk personeelslid dat bij eenzijdige beslissing van de overheid toegelaten is tot de proeftijd met het oog op een vaste aanstelling in statutair dienstverband;<br />11° het vast aangestelde statutaire personeelslid : het personeelslid dat bij eenzijdige beslissing van de overheid vast is aangesteld in statutair dienstverband, ook genoemd 'in vast verband benoemd' in afdeling 2 van het koninklijk besluit van 28 november 1969 tot uitvoering van de wet van 27 juni 1969 tot herziening van de besluitwet van 28 december 1944 betreffende de maatschappelijke zekerheid der arbeiders;<br />12° het contractuele personeelslid : elk personeelslid dat in dienst is genomen bij arbeidsovereenkomst, conform de wet van 3 juli 1978 betreffende de arbeidsovereenkomsten;<br />13° het contractuele personeelslid op proef : het contractuele personeelslid in de proeftijd;<br />14° graad : benaming voor een groep van gelijkwaardige functies of benaming voor een specifieke functie;<br />15° functiebeschrijving : de weergave van de functie-inhoud en van het functieprofiel, waaronder de competenties;<br />16° competenties : de kennis, vaardigheden, persoonlijkheidskenmerken en attitudes die nodig zijn voor de uitoefening van een functie;<br />17° voltijds en volledige prestaties : betrekking hebbend op een prestatie van achtendertig uur per week;<br />18° toelage : een geldelijk voordeel dat het personeelslid ontvangt dat welbepaalde prestaties levert;<br />19° vergoeding : een geldelijke tegemoetkoming ter compensatie van kosten die het personeelslid werkelijk maakt;<br />20° sociale voordelen : alle voordelen in natura of in contanten die de besturen aan de personeelsleden toekennen;<br />21° gezondheidsindex : het prijsindexcijfer dat berekend wordt voor de toepassing van artikel 2 van het koninklijk besluit van 24 december 1993 ter uitvoering van de wet van 6 januari 1989 tot vrijwaring van 's lands concurrentievermogen, bekrachtigd bij de wet van 30 maart 1994 houdende sociale bepalingen. De toelagen, vergoedingen en sociale voordelen tegen 100 % worden gekoppeld aan het spilindexcijfer 138,01;<br />22° overloon : toeslag boven het gewone loon.<br />
+
 ## TITEL II. De personeelsformatie
+
+### ART. 3.
+
+De bepalingen van titel II zijn niet van toepassing op de gemeentesecretaris, de adjunct-gemeentesecretaris, de financieel beheerder van de gemeente, de provinciegriffier en de financieel beheerder van de provincie.<br />
+
+### ART. 4.
+
+De personeelsformatie vermeldt per graad het aantal betrekkingen. Dat aantal wordt uitgedrukt in voltijdse equivalenten.<br />
+
+### ART. 5.
+
+§ 1. De personeelsformatie geeft, in voorkomend geval, het onderscheid weer tussen de statutaire betrekkingen enerzijds en de contractuele betrekkingen, ingesteld met toepassing van artikel 104, § 2, 3° tot en met 6°, van het gemeentedecreet en artikel 100, § 2, 3° tot en met 6°, van het provinciedecreet, anderzijds.<br /><br />De contractuele betrekkingen, vermeld in het eerste lid, behelzen zowel bestendige betrekkingen als tijdelijke betrekkingen die ingesteld worden voor projecten.<br /><br />§ 2. De personeelsformatie bevat, in voorkomend geval :<br />1° de betrekkingen die bestemd zijn voor :<br />a) het intern verzelfstandigd agentschap;<br />b) de districten;<br />c) de kabinetten van de burgemeester en de schepenen of van de provinciegouverneur en de gedeputeerden en voor de fracties in de raad, in overeenstemming met artikel 3 van het besluit van de Vlaamse Regering van 12 januari 2007 tot vaststelling van de regels inzake de aanwerving en terbeschikkingstelling van het kabinets- en fractiepersoneel in de gemeenten en de provincies;<br />2° de bezette statutaire betrekkingen die overtallig zijn of die het voorwerp zijn van een andere rangindeling binnen de personeelsformatie.
+
+### ART. 6.
+
+De graden worden ingedeeld in vijf niveaus. De niveaus stemmen, met uitzondering van de niveaus D en E, overeen met een diplomavereiste van een bepaald onderwijsniveau.<br /><br />De niveaus en de daarmee overeenstemmende diploma's of getuigschriften zijn :<br />1° niveau A : ofwel een masterdiploma, ofwel een diploma van het universitair onderwijs of een diploma van het hoger onderwijs van twee cycli dat gelijkgesteld werd met universitair onderwijs;<br />2° niveau B : ofwel een bachelordiploma, ofwel een diploma van het hoger onderwijs van één cyclus of daarmee gelijkgesteld onderwijs;<br />3° niveau C : een diploma van het secundair onderwijs of daarmee gelijkgesteld onderwijs;<br />4° niveau D : geen diplomavereiste;<br />5° niveau E : geen diplomavereiste.<br />
+
+### ART. 7.
+
+Per niveau worden de graden hiërarchisch gerangschikt in rangen. Elke rang wordt aangeduid met twee of drie letters. De hoofdletter geeft het niveau aan, de kleine letter situeert de rang in dat niveau. De rangen geven het relatieve gewicht van de betrekkingen binnen het niveau weer.<br /><br />De rangen per niveau zijn :<br />1° in niveau A :<br />a) voor de basisgraad : Av;<br />b) voor de hogere graden, in opklimmende volgorde : Ax, Ay en Az;<br />c) voor de specifieke basisgraden van burgerlijk ingenieur, bio-ingenieur, geneesheer, apotheker : Avb;<br />d) desgewenst, voor de basisgraden van het wetenschappelijk personeel in wetenschappelijk instellingen en in de musea die krachtens de Vlaamse reglementering inzake de erkenning en subsidiëring van musea erkend zijn in het landelijke niveau : Avb;<br />e) voor de hogere specifieke graden, in opklimmende volgorde : Axb, Ayb;<br />f) desgewenst, voor de hogere graden van het wetenschappelijk personeel in wetenschappelijke instellingen en in de musea die krachtens de Vlaamse reglementering inzake de erkenning en subsidiëring van musea erkend zijn in het landelijke niveau : Axb, Ayb;<br />2° in niveau B :<br />a) voor de basisgraad : Bv;<br />b) voor de hogere graad : Bx;<br />3° in niveau C :<br />a) voor de basisgraad : Cv;<br />b) voor de hogere graad : Cx;<br />4° in niveau D :<br />a) voor de basisgraad : Dv;<br />b) voor de hogere technische graad : Dx;<br />5° in niveau E : Ev.<br /><br />Met behoud van de toepassing van artikel 1, tweede en derde lid, kunnen er geen andere rangen ingesteld worden.<br /><br />Een betrekking wordt in een graad gesitueerd op basis van de functiebeschrijving. <br />
 
 ## TITEL III. De loopbaan
 
 ## HOOFDSTUK I. De procedures voor de vervulling van betrekkingen
 
+### ART. 8.
+
+§ 1. Met behoud van de toepassing van de specifieke regels per procedure wordt een vacante betrekking, ongeacht haar rangindeling, vervuld op een van de volgende manieren :<br />1° door een aanwervingsprocedure;<br />2° door een bevorderingsprocedure;<br />3° door de procedure van interne personeelsmobiliteit;<br />4° door een combinatie van de procedures, vermeld in punt 1° en 2°, 1° en 3°, 2° en 3° of in punt 1°, 2° en 3°.<br /><br />Bij de aanwervingprocedure worden tegelijk personen extern aan het bestuur en personen in dienst van het bestuur uitgenodigd om zich kandidaat te stellen voor de betrekking.<br /><br />Bij de bevorderingsprocedure en bij de procedure van interne personeelsmobiliteit worden alleen personeelsleden in dienst van het bestuur uitgenodigd om zich kandidaat te stellen voor de betrekking.<br /><br />§ 2. De aanstellende overheid verklaart de betrekking vacant.<br /><br />De aanstellende overheid bepaalt bij de vacantverklaring van de betrekking volgens welke procedure of procedures ze vervuld wordt.<br />
+
+### ART. 9.
+
+n afwijking van artikel 8, § 1, eerste lid, en § 2, tweede lid, kan de raad vaststellen dat bepaalde betrekkingen alleen of bij voorrang vervuld worden :<br />1° door een bevorderingsprocedure;<br />2° door een procedure van interne personeelsmobiliteit;<br />3° door de combinatie van een bevorderingsprocedure en de procedure van interne personeelsmobiliteit;<br />4° door een bevorderingsprocedure of een procedure van interne personeelsmobiliteit.<br /><br />Alleen als de raad de keuzemogelijkheid, vermeld in punt 4°, heeft vastgesteld, bepaalt de aanstellende overheid welke van de twee procedures van toepassing is.<br />
+
 ## HOOFDSTUK II. De aanwerving
 
 ## Afdeling I. De algemene toelatingsvoorwaarden en de aanwervingsvoorwaarden
 
+### ART. 10.
+
+Om toegang te hebben tot een functie bij een bestuur moeten de kandidaten :<br />1° een gedrag vertonen dat in overeenstemming is met de eisen van de functie waarvoor ze solliciteren;<br />2° de burgerlijke en politieke rechten genieten;<br />3° a) voor een statutaire functie : Belg zijn als de uit te oefenen functie een rechtstreekse of onrechtstreekse deelname aan de uitoefening van het openbaar gezag inhoudt of werkzaamheden omvat die strekken tot de bescherming van de belangen van het bestuur, of, in de andere gevallen, Belg zijn of burger van een lidstaat van de Europese Economische Ruimte of van de Zwitserse Bondsstaat; <br />b) voor een contractuele functie : Belg zijn als de uit te oefenen functie een rechtstreekse of onrechtstreekse deelname aan de uitoefening van het openbaar gezag inhoudt of werkzaamheden omvat die strekken tot de bescherming van de belangen van het bestuur;<br />4° medisch geschikt zijn voor de uit te oefenen functie, in overeenstemming met de wetgeving betreffende het welzijn van de werknemers op het werk.<br /><br />Het passende gedrag, vermeld in punt 1°, wordt getoetst aan de hand van een uittreksel uit het strafregister. Als daarop ongunstige vermeldingen voorkomen, mag de kandidaat daarover een schriftelijke toelichting voorleggen.<br /><br />De medische geschiktheid van de kandidaat, vermeld in punt 4°, moet vaststaan op het ogenblik dat bepaald is in de wetgeving betreffende het welzijn van de werknemers op het werk.<br />
+
+### ART. 11.
+
+§ 1. Om in aanmerking te komen voor aanwerving moeten de kandidaten :<br />1° voldoen aan de vereiste over de taalkennis, opgelegd door de wetten op het gebruik der talen in bestuurszaken, gecoördineerd op 18 juli 1966;<br />2° slagen voor de selectieprocedure.<br /><br />§ 2. Bovendien moeten de kandidaten :<br />1° voor de functies in de basisgraden van niveau A, B en C : voldoen aan de diplomavereiste die geldt voor het niveau waarin de functie gesitueerd is;<br />2° voor de functies in de hogere rangen van niveau A, B en C :<br />a) voldoen aan de diplomavereiste, vermeld in punt 1°;<br />b) een minimaal aantal jaren relevante beroepservaring hebben;<br />3° voor een functie in de technische hogere rang van niveau D : een minimaal aantal jaren relevante beroepservaring hebben.<br /><br />Alleen de diploma's die per niveau vermeld worden in bijlage I van dit besluit, komen bij aanwerving in aanmerking.<br /><br />De raad kan aanvullende aanwervingsvoorwaarden vaststellen.<br />
+
+### ART. 12.
+
+De raad kan bepalen dat de diplomavereiste, die als regel geldt voor de niveaus A, B en C, uitzonderlijk en op grond van vooraf vastgestelde, objectieve criteria vervalt op voorwaarde dat :<br />1° de functie noch op basis van de functiebeschrijving, noch krachtens een reglementering van de hogere overheid een specifiek diploma vergt, en het algemene capaciteitsniveau en het potentieel van de kandidaten belangrijker zijn dan een diploma;<br />2° het wegvallen van de diplomavereiste gecompenseerd wordt door een vereiste inzake relevante beroepservaring;<br />3° er een specifieke selectieprocedure vastgesteld wordt en de kandidaten daarvoor slagen.<br /><br />In voorkomend geval beslist de aanstellende overheid voor de vacantverklaring van de functie om geen diplomavereiste op te leggen.<br />
+
+### ART. 13.
+
+In afwijking van artikel 11, § 1, 2°, kan de raad bepalen dat kandidaten die al geslaagd zijn voor gelijkwaardige selectieproeven voor een functie bij het bestuur in dezelfde graad als de vacante functie, geheel of gedeeltelijk vrijgesteld worden van deelname aan de selectieproeven.<br /><br />Het personeelslid dat tewerkgesteld is in een deeltijdse functie nadat het geslaagd is voor selectieproeven, is vrijgesteld van nieuwe selectieproeven als de wekelijkse prestaties binnen die functie uitgebreid worden of als de functie voltijds wordt.<br />
+
 ## Afdeling II. De aanwervingsprocedure
+
+### ART. 14.
+
+§ 1. Aan elke aanwerving gaat een externe bekendmaking van de vacature met een oproep tot kandidaten vooraf. De raad stelt de algemene regels voor de externe bekendmaking van de vacatures vast.<br /><br />De aanstellende overheid stelt na de vacantverklaring van een of meer functies de inhoud van het vacaturebericht vast en kiest de gepaste bekendmakingskanalen op basis van de door de raad vastgestelde algemene regels.<br /><br />§ 2. De bepalingen van § 1 zijn niet van toepassing als de aanstellende overheid bij de vacantverklaring beslist een beroep te doen op een bestaande wervingsreserve die geldig is voor de vacature.<br /><br />De bepalingen van § 1 zijn evenmin van toepassing als de wekelijkse prestaties van een deeltijdse betrekking in de personeelsformatie uitgebreid worden, of als die betrekking omgezet wordt in een voltijdse betrekking. Als er meerdere personeelsleden deeltijds werken in een betrekking van dezelfde graad, richt de aanstellende overheid een oproep tot die personeelsleden voor de vervulling van de extra uren. Ze maakt haar keuze op basis van een vergelijking van de kandidaturen.<br />
+
+### ART. 15.
+
+De raad stelt met inachtneming van de redelijkheid de algemeen geldende minimale termijn vast tussen de datum van de bekendmaking van de vacature en de uiterste datum voor de indiening van de kandidaturen.<br />
+
+### ART. 16.
+
+Aan elke aanwerving gaat een selectieprocedure vooraf.<br />
+
+### ART. 17.
+
+§ 1. De raad bepaalt wanneer de kandidaten het bewijs moeten leveren dat ze voldoen aan de diplomavereiste.<br /><br />De raad bepaalt wanneer de kandidaten het bewijs moeten leveren dat ze voldoen aan de algemene toelatingsvoorwaarden, vermeld in artikel 10, 1° tot en met 3°, en aan de andere aanwervingsvoorwaarden, de selectie uitgezonderd.<br /><br />§ 2. De aanstellende overheid beoordeelt de geldigheid van de ingediende kandidaturen en van de voorgelegde bewijzen, vermeld in § 1, eerste en tweede lid, behalve als de raad de aanstellende overheid is. In dat geval beoordeelt het uitvoerend orgaan van het bestuur de geldigheid.<br /><br />Op basis van die beoordeling wordt beslist welke kandidaten definitief tot de selectieprocedure worden toegelaten. De kandidaten die geweigerd worden, worden daarvan schriftelijk op de hoogte gebracht met vermelding van de reden voor de weigering.<br /><br />Voor de deelname aan de selectieprocedure volstaat een kopie of een gewoon afschrift van de bewijzen, vermeld in § 1. Eventuele eensluidend verklaarde afschriften worden alleen gevraagd aan de kandidaten die geslaagd zijn voor de selectie.
 
 ## Afdeling III. De selectieprocedure
 
+### ART. 18.
+
+De selectie wordt uitgevoerd op basis van selectiecriteria en met behulp van een of meer selectietechnieken. De selectiecriteria en de selectietechnieken worden afgestemd op de functiebeschrijving van de functie. Voor functies van dezelfde graad zijn de selectietechnieken gelijkwaardig.<br /><br />Een selectiecommissie die uitsluitend uit deskundigen bestaat, voert de selectie uit. Ten minste een derde van de leden van de selectiecommissie zijn deskundigen die extern zijn aan het eigen bestuur. De raad kan bepalen dat de aanstellende overheid uitzonderlijk vanwege de specificiteit van de functies van dat minimumaantal externe commissieleden kan afwijken. In voorkomend geval motiveert de aanstellende overheid haar keuze om af te wijken van de algemene regel.<br /><br />De leden van de raad en van het uitvoerend orgaan van het bestuur kunnen geen lid zijn van een selectiecommissie in een selectieprocedure voor het eigen bestuur. De gemeentesecretaris die met toepassing van artikel 58 van het gemeentedecreet en de provinciegriffier die met toepassing van artikel 58 van het provinciedecreet de bevoegdheid van aanstellende overheid heeft, mag geen deel uitmaken van de selectiecommissie.<br /><br />De raad stelt de algemene regels voor de selecties vast.<br />
+
+### ART. 19.
+
+§ 1. Voor de aanvang van een selectie en binnen de grenzen van de algemene regels die de raad met toepassing van artikel 18 heeft vastgesteld, stelt de aanstellende overheid de concrete selectieprocedure vast. Ze bepaalt :<br />1° de selectiecriteria;<br />2° de keuze van de selectietechnieken, waaronder, in voorkomend geval, het gebruik van een betrouwbare selectietechniek voor preselectie;<br />3° het verloop van de selectie;<br />4° het minimale resultaat om als geslaagd beschouwd te worden bij de afsluiting van de selectieprocedure en, in voorkomend geval, het minimale resultaat om toegelaten te worden tot een volgende stap in de selectieprocedure;<br />5° de samenstelling en de werking van de selectiecommissie;<br />6° de aard van de selectieprocedure, namelijk :<br />a) een selectieprocedure die resulteert in een vorm van bindende rangschikking van de geslaagde of geschikt bevonden kandidaten op basis van hun eindresultaat;<br />b) een selectieprocedure die alleen resulteert in een lijst van de geslaagde of geschikt bevonden kandidaten.<br /><br />Bij de toepassing van punt 6°, b), kiest de aanstellende overheid een kandidaat uit de lijst van de geslaagde of de geschikt bevonden kandidaten en motiveert ze uitdrukkelijk haar keuze.<br /><br />§ 2. Als de aanstellende overheid kiest voor een combinatie van de aanwervingsprocedure en de bevorderingsprocedure en voor de gelijktijdige toepassing daarvan, worden de externe en de interne kandidaten onderworpen aan dezelfde selectieproeven. Eventuele schriftelijke kennisproeven met dezelfde inhoud worden op hetzelfde tijdstip afgenomen.<br /><br />Voor de toepassing van artikel 12 behelst de selectieprocedure naast een of meer functiegerichte competentietests ook een niveau- of capaciteitstest, die onderzoekt of de kandidaten in staat zijn te functioneren op het niveau waarin de functie is gesitueerd. De kandidaten moeten zowel voor de niveau- of capaciteitstest als voor de functiegerichte competentietests slagen.<br />
+
+### ART. 20.
+
+In afwijking van artikel 18, tweede lid, kan de raad bepalen dat selecties geheel of gedeeltelijk uitbesteed worden aan een erkend extern selectiebureau. Het selectiebureau voert in dat geval de selectie uit in overeenstemming met de rechtspositieregeling en met de specifieke opdracht van het bestuur.<br /><br />Voor de niveau- of capaciteitstest, vermeld in artikel 19, § 2, tweede lid, is de uitvoering van de selectie door een erkend extern selectiebureau verplicht.<br />
+
+### ART. 21.
+
+De kandidaten worden schriftelijk op de hoogte gebracht van het resultaat van de selectie.<br />
+
 ## Afdeling IV. Wervingsreserves
+
+### ART. 22.
+
+§ 1. De raad kan bepalen dat wervingsreserves worden aangelegd. Hij stelt de regels voor de wervingsreserves vast. Hij bepaalt :<br />1° de maximale geldigheidsduur van de wervingsreserves, met inbegrip van eventuele verlenging;<br />2° de regels volgens dewelke de kandidaten hun opname in de wervingsreserve behouden of verliezen.<br /><br />§ 2. De aanstellende overheid beslist bij de vacantverklaring of er een wervingsreserve wordt aangelegd en hoe lang die geldig is.<br />
 
 ## Afdeling V. Specifieke bepalingen voor de aanwerving van de gemeentesecretaris, de adjunct-gemeentesecretaris, de financieel beheerder van de gemeente, de provinciegriffier en de financieel beheerder van de provincie
 
+### ART. 23.
+
+De raad stelt de functiebeschrijving vast voor de functie van gemeentesecretaris, adjunct-gemeentesecretaris, financieel beheerder van de gemeente, provinciegriffier en financieel beheerder van de provincie. <br />
+
+### ART. 24.
+
+§ 1. Als de functie van gemeentesecretaris, adjunct-gemeentesecretaris of provinciegriffier door aanwerving vervuld wordt, moet de kandidaat houder zijn van een diploma dat toegang geeft tot niveau A.<br /><br />De raad stelt een selectieprocedure vast in overeenstemming met de bepalingen van artikel 19, § 1. De selectietechnieken bevatten ten minste een test die de managements- en leiderschapscapaciteiten van de kandidaten toetst. De test wordt afgenomen door een erkend extern selectiebureau.<br /><br />§ 2. Als de functie van financieel beheerder van de gemeente of van financieel beheerder van de provincie door aanwerving vervuld wordt, moet de kandidaat houder zijn van een diploma dat toegang geeft tot niveau A.<br /><br />De raad stelt een selectieprocedure vast in overeenstemming met de bepalingen van artikel 19, § 1. De selectietechnieken bevatten ten minste een proef die het financieel-economische inzicht van de kandidaat toetst.
+
 ## Afdeling VI. Specifieke bepalingen voor de aanwerving in de betrekkingen die ingesteld worden ter uitvoering van werkgelegenheidsmaatregelen van de hogere overheid, en in sommige tijdelijke betrekkingen
+
+### ART. 25.
+
+Voor de aanwerving in contractuele betrekkingen die ingesteld worden ter uitvoering van werkgelegenheidsmaatregelen van de hogere overheden waarvan de tewerkstellingsduur onbepaald is, kan de raad bepalen dat de bepalingen van afdeling II en III vervangen worden door een specifieke aanwervings- en selectieprocedure, die aangepast is aan de doelgroep.<br />
+
+### ART. 26.
+
+De raad kan bepalen dat artikel 11, § 1, 2°, en de bepalingen van afdeling II en III niet van toepassing zijn op de tijdelijke vervanging van afwezige personeelsleden door contractuele personeelsleden als vermeld in artikel 104, § 2, 2°, van het gemeentedecreet en in artikel 100, § 2, 2°, van het provinciedecreet.<br />
+
+### ART. 27.
+
+De raad bepaalt de aanwervingsprocedure en de selectieprocedure voor de toegang tot de contractuele betrekkingen, al dan niet in een tewerkstellingsmaatregel van de hogere overheid, waarvan de tewerkstellingsduur tot maximaal een of twee jaar beperkt is.<br />
 
 ## Afdeling VII. De aanwerving van personen met een arbeidshandicap
 
+### ART. 28.
+
+Ten minste 2 % van het totale aantal betrekkingen binnen het bestuur wordt vervuld door personen met een arbeidshandicap, die aan een van de volgende voorwaarden voldoen :<br />1° ze zijn ingeschreven bij het Vlaams Agentschap voor Personen met een Handicap, voorheen het Vlaams Fonds voor de Sociale Integratie van Personen met een Handicap;<br />2° ze zijn erkend door de Vlaamse Dienst voor Arbeidsbemiddeling en Beroepsopleiding als personen met een handicap;<br />3° ze komen in aanmerking voor een inkomensvervangende tegemoetkoming of voor een integratietegemoetkoming, die verstrekt wordt aan personen met een handicap op basis van de wet van 27 februari 1987 houdende tegemoetkomingen aan personen met een handicap;<br />4° ze zijn in het bezit van een attest dat uitgereikt is door de algemene directie Personen met een Handicap van de Federale Overheidsdienst Sociale Zekerheid voor het verstrekken van sociale en fiscale voordelen;<br />5° ze zijn slachtoffer van een arbeidsongeval of van een beroepsziekte en ze kunnen een bewijs voorleggen van een blijvende arbeidsongeschiktheid van ten minste 66 %, uitgereikt door het Fonds voor Arbeidsongevallen, door het Fonds voor Beroepsziekten of door de Administratieve Gezondheidsdienst of zijn rechtsopvolger in het kader van de wet van 3 juli 1967 betreffende de preventie van of de schadevergoeding voor arbeidsongevallen, voor ongevallen op de weg naar en van het werk en voor beroepsziekten in de overheidssector;<br />6° ze hebben hun hoogste getuigschrift of diploma behaald in het buitengewoon secundair onderwijs.<br />
+
+### ART. 29.
+
+De raad bepaalt het aantal functies in overeenstemming met het percentage vermeld in artikel 28. Hij kan bepalen dat functies gereserveerd worden voor personen met een arbeidshandicap om het vastgestelde aantal te bereiken. De aanstellende overheid doet voor die gereserveerde functies een oproep aan erkende kandidaten via de Vlaamse Dienst voor Arbeidsbemiddeling en Beroepsopleiding en onderzoekt in samenwerking met de Vlaamse Dienst voor Arbeidsbemiddeling en Beroepsopleiding welke kandidaten voor aanwerving in aanmerking komen.<br />
+
+### ART. 30.
+
+De kandidaten moeten voldoen aan de algemene toelatingsvoorwaarden en aan de aanwervingsvoorwaarden. Bij de toepassing van de selectieproeven worden de hinderpalen die verbonden zijn met de handicap, door redelijke aanpassingen verholpen.<br /><br />De raad kan bepalen dat de kandidaten voor de gereserveerde functies, vermeld in artikel 29, moeten slagen voor een aangepaste, functiegerichte selectieprocedure.<br />
+
 ## Afdeling VIII. De indiensttreding
+
+### ART. 31.
+
+De aanstellende overheid bepaalt de datum of de termijn van indiensttreding van het geselecteerde personeelslid.<br /><br />Het personeelslid legt de eed, vermeld in artikel 106, derde lid, van het gemeentedecreet en in artikel 102, derde lid, van het provinciedecreet, af bij zijn indiensttreding.<br />
 
 ## HOOFDSTUK III. De proeftijd met het oog op de vaste aanstelling in statutair verband
 
 ## Afdeling I. Algemene bepaling
 
+### ART. 32.
+
+De proeftijd beoogt de integratie van het op proef aangestelde statutaire personeelslid in het bestuur en de inwerking in zijn functie en stelt de aanstellende overheid in staat de geschiktheid van het personeelslid voor de functie te verifiëren.<br>
+<br>
+Met het personeelslid worden de nodige afspraken gemaakt voor de integratie in het bestuur en de inwerking in zijn functie.
+
 ## Afdeling II. De duur van de proeftijd en de evaluatie tijdens de proeftijd
 
+### ART. 33.
+
+De raad stelt de duur van de proeftijd vast, rekening houdend met wat bepaald is in artikel 32. Hij bepaalt welke vormen van afwezigheid een verlenging van de proeftijd tot gevolg hebben.
+
+### ART. 34.
+
+De diensten die een kandidaat ononderbroken tot de datum van de statutaire aanstelling op proef in tijdelijk verband bij het bestuur heeft vervuld in dezelfde functie als de functie waarin hij aangesteld wordt, worden in aanmerking genomen voor de proeftijd, op voorwaarde dat het personeelslid daarvoor een gunstig evaluatieresultaat heeft gekregen.
+
+### ART. 35.
+
+§ 1. De raad stelt de regels voor de evaluatie tijdens de proeftijd vast.<br>
+<br>
+Het statutaire personeelslid op proef krijgt tijdens de proeftijd feedback over zijn manier van functioneren. Voor de proeftijd afgelopen is, vindt een eindevaluatie van de proeftijd plaats.<br>
+<br>
+Het resultaat van de eindevaluatie van de proeftijd is ofwel gunstig ofwel ongunstig.<br>
+<br>
+De raad kan bepalen dat de evaluator een verlenging van de proeftijd kan voorstellen als uit de eindevaluatie blijkt dat de duur van de proeftijd niet volstaat om tot een gefundeerd evaluatieresultaat te komen. De verlenging kan eenmaal toegepast worden.<br>
+<br>
+§ 2. Als de duur van de proeftijd zes maanden of meer is, kan de raad in afwijking van § 1 bepalen dat het statutaire personeelslid op proef voor de proeftijd afgelopen is, tussentijds onderworpen wordt aan een evaluatie. In voorkomend geval wordt de tussentijdse evaluatie pas uitgevoerd na een periode van ten minste drie maanden.
+
+### ART. 36.
+
+De raad kan bepalen dat het statutaire personeelslid op proef met een ongunstig resultaat voor de tussentijdse evaluatie, vermeld in artikel 35, § 2, ontslagen wordt.<br /><br />Het statutaire personeelslid op proef dat na het verstrijken van de proeftijd op grond van het ongunstige resultaat van de eindevaluatie niet in aanmerking komt voor de vaste aanstelling in statutair verband, wordt ontslagen.<br /><br />Het ontslag, vermeld in het eerste en het tweede lid, wordt gegeven in overeenstemming met de bepalingen van artikel 108, § 1.<br />
+
+### ART. 37.
+
+Na afloop van de proeftijd behoudt het statutaire personeelslid op proef zijn hoedanigheid van op proef aangesteld personeelslid, tot de aanstellende overheid beslist over de vaste aanstelling of het ontslag. De aanstellende overheid neemt haar beslissing zonder uitstel.
+
 ## Afdeling III. De vaste aanstelling in statutair verband
+
+### ART. 38.
+
+Het statutaire personeelslid op proef wordt vast aangesteld in statutair verband op voorwaarde dat het :<br>
+1° voldoet aan de algemene toelatingsvoorwaarden en aan de aanwervingsvoorwaarden die op de betrekking van toepassing zijn;<br>
+2° met goed gevolg de proeftijd heeft volbracht.<br>
+<br>
+Het personeelslid wordt vast aangesteld in statutair verband in de functie waarin het op proef werd aangesteld.
 
 ## HOOFDSTUK IV. De evaluatie van het personeelslid tijdens de loopbaan
 
 ## Afdeling I. Algemene bepalingen
 
+### ART. 39.
+
+Dit hoofdstuk is niet van toepassing op de evaluatie van de gemeentesecretaris, de adjunct-gemeentesecretaris, de financieel beheerder van de gemeente, de provinciegriffier en de financieel beheerder van de provincie.<br /><br />De personeelsleden zijn tijdens hun loopbaan onderworpen aan de evaluatie, vermeld in artikel 113 van het gemeentedecreet en in artikel 109 van het provinciedecreet. De raad kan bepalen dat contractuele personeelsleden met een beperkte tewerkstellingsduur niet aan de evaluatie onderworpen zijn.<br />
+
+### ART. 40.
+
+De evaluatoren leggen de evaluatie vast in een kwalitatief beschrijvend evaluatieverslag dat het evaluatieresultaat op afdoende wijze onderbouwt.<br />
+
+### ART. 41.
+
+De personeelsleden worden geïnformeerd over alle aspecten van het evaluatiestelsel en over de evaluatiecriteria die op hen van toepassing zijn.<br /><br />De personeelsleden krijgen tussentijds feedback over hun manier van functioneren. De raad bepaalt de werkwijze voor die feedback.<br />
+
 ## Afdeling II. De duur van de evaluatieperiodes en de evaluatiecriteria
+
+### ART. 42.
+
+§ 1. De raad stelt de duur van de evaluatieperiodes vast. Die is ten minste een jaar en ten hoogste twee jaar.<br /><br />Hij bepaalt de minimale termijn die het personeelslid effectief gepresteerd moet hebben binnen de evaluatieperiode om voor een evaluatie in aanmerking te komen.<br /><br />De evaluatie wordt voor een door de raad te bepalen termijn uitgesteld als het personeelslid niet voldoet aan de minimale prestatietermijn binnen de evaluatieperiode. Het personeelslid behoudt tot dan het evaluatieresultaat van de vorige evaluatieperiode.<br /><br />§ 2. De evaluatie heeft betrekking op de periode die volgt op de vorige evaluatieperiode.<br /><br />De raad kan bepalen dat in afwijking van de vastgestelde duur van de evaluatieperiodes tussentijds een specifieke evaluatie uitgevoerd wordt in het kader van een bevorderingsprocedure of een procedure van interne personeelsmobiliteit.<br />
+
+### ART. 43.
+
+De evaluatie wordt uitgevoerd op basis van vooraf vastgestelde evaluatiecriteria. De evaluatiecriteria sluiten aan bij de functiebeschrijvingen en bij de doelstellingen van het bestuur.<br /><br />Bij de vaststelling van de evaluatiecriteria voor de evaluatie van personen met een arbeidshandicap, vermeld in artikel 28, wordt zo nodig rekening gehouden met de handicap.<br />
 
 ## Afdeling III. De evaluatoren en het verloop van de evaluatie
 
+### ART. 44.
+
+Het personeelslid wordt geëvalueerd door ten minste één leidinggevende die bij voorkeur de rechtstreekse leidinggevende is.<br /><br />De raad bepaalt aan welke voorwaarden een evaluator moet voldoen om te kunnen evalueren. De raad regelt de samenwerking tussen de evaluatoren als er meer dan één evaluator is.<br /><br />
+
+### ART. 45.
+
+§ 1. De evaluatie gaat gepaard met een evaluatiegesprek tussen de evaluator en het personeelslid.<br /><br />De evaluator neemt zijn bevindingen op in een evaluatieverslag als vermeld in artikel 40. Het personeelslid ontvangt het evaluatieverslag en ondertekent het voor kennisneming. Het personeelslid kan in het evaluatieverslag opmerkingen bij zijn evaluatie formuleren.<br /><br />§ 2. Het evaluatieresultaat wordt opgenomen in het individuele personeelsdossier.<br /><br />Het personeelslid heeft het recht om zijn persoonlijke evaluatiedossier te raadplegen en krijgt er op zijn verzoek een afschrift van. Het personeelslid krijgt een kopie van zijn evaluatie.<br />
+
+### ART. 46.
+
+De raad bepaalt de termijn waarbinnen :<br />1° het personeelslid het ondertekende evaluatieverslag met zijn eventuele opmerkingen terugbezorgt aan zijn evaluator;<br />2° het evaluatieproces, met uitzondering van de beslissing over het gevolg van de evaluatie, vermeld in artikel 49, en met uitzondering van de beroepsprocedure, vermeld in artikel 50, afgerond moet zijn.<br /><br />Het hoofd van het personeel zorgt voor de interne organisatie van het evaluatieproces binnen de door de raad bepaalde termijnen.<br />
+
 ## Afdeling IV. De evaluatieresultaten en de gevolgen van de evaluatie
+
+### ART. 47.
+
+§ 1. Het evaluatieresultaat is gunstig of ongunstig.<br /><br />De raad kan het evaluatieresultaat gunstig verder opdelen in positieve evaluatieresultaten en het evaluatieresultaat ongunstig verder opdelen in negatieve evaluatieresultaten.<br /><br />§ 2. Het personeelslid met een gunstig evaluatieresultaat dat de vereiste schaalanciënniteit heeft, krijgt de volgende salarisschaal van de functionele loopbaan.<br /><br />Het personeelslid met een ongunstig evaluatieresultaat heeft geen recht op de volgende salarisschaal van de functionele loopbaan, ook al heeft het de vereiste schaalanciënniteit. Het personeelslid krijgt die salarisschaal pas als het een volgende evaluatieperiode afsluit met een gunstig evaluatieresultaat.<br /><br />In afwijking van het tweede lid kan de raad bepalen dat het personeelslid de volgende salarisschaal van de functionele loopbaan krijgt als het een gunstig evaluatieresultaat behaalt voor een tussentijdse evaluatie die uitgevoerd wordt zodra de volgende evaluatieperiode voor de helft is verstreken.<br />
+
+### ART. 48.
+
+Met behoud van de toepassing van artikel 47 kan de raad aan het gunstige evaluatieresultaat andere positieve gevolgen en aan het ongunstige evaluatieresultaat andere negatieve gevolgen koppelen, met inbegrip van het ontslag wegens beroepsongeschiktheid.<br>
+<br>
+Het ontslag wegens beroepsongeschiktheid is alleen mogelijk als na de passende maatregelen voor de verbetering van de wijze van functioneren, vermeld in artikel 114 van het gemeentedecreet en in artikel 110 van het provinciedecreet, uit een tussentijdse evaluatie manifest blijkt dat het personeelslid nog steeds niet voldoet. De tussentijdse evaluatie wordt uitgevoerd na een termijn van ten minste een half jaar die volgt op de kennisgeving aan het personeelslid van het ongunstige evaluatieresultaat.
+
+### ART. 49.
+
+§ 1. Het hoofd van het personeel beslist over de toepassing van de positieve gevolgen, vermeld in artikel 47 en 48, en over de toepassing van de negatieve gevolgen, met uitzondering van het ontslag wegens beroepsongeschiktheid, vermeld in artikel 47 en 48. Hij baseert zijn beslissing op een voorstel van de evaluatoren. Het hoofd van het personeel formuleert zelf het gewenste gevolg voor de personeelsleden van wie hijzelf de evaluator is, en baseert zijn beslissing daarop.<br>
+<br>
+Het personeelslid en zijn evaluator worden van die beslissing op de hoogte gebracht binnen een door de raad te bepalen termijn.<br>
+<br>
+§ 2. Het hoofd van het personeel formuleert het gemotiveerde voorstel tot ontslag wegens beroepsongeschiktheid op basis van het evaluatieverslag van de tussentijdse evaluatie, vermeld in artikel 48, tweede lid.<br>
+<br>
+Het personeelslid en zijn evaluator worden daarvan op de hoogte gebracht binnen een door de raad te bepalen termijn.<br>
+<br>
+§ 3. De aanstellende overheid beslist over het ontslag wegens beroepsongeschiktheid. Ze hoort het personeelslid vooraf.<br>
+<br>
+Het ontslag van het vast aangestelde statutaire personeelslid verloopt volgens de regels, vermeld in artikel 108, § 2.
 
 ## Afdeling V. Het beroep tegen de ongunstige evaluatie
 
+### ART. 50.
+
+§ 1. De raad stelt een beroepsinstantie vast waarbij het personeelslid beroep kan aantekenen. Het personeelslid kan beroep aantekenen tegen :<br />1° de evaluatie met het evaluatieresultaat ongunstig of, als het evaluatieresultaat ongunstig met toepassing van artikel 47, § 1, tweede lid, verder opgedeeld werd in negatieve evaluatieresultaten, de evaluatie met een negatief evaluatieresultaat;<br />2° als het evaluatieresultaat gunstig met toepassing van artikel 47, § 1, tweede lid, verder opgedeeld werd in positieve evaluatieresultaten, de evaluatie met het positieve evaluatieresultaat dat het personeelslid niet positief genoeg vindt.<br /><br />De raad bepaalt de samenstelling van de beroepsinstantie. Leden van de raad en van het uitvoerend orgaan van het bestuur, evenals de evaluator van het personeelslid dat beroep aantekent, mogen er geen deel van uitmaken.<br /><br />§ 2. De beroepsinstantie onderzoekt het beroep en hoort de evaluator en het personeelslid. Het onderzoek resulteert in een gemotiveerd advies aan het hoofd van het personeel tot bevestiging of tot aanpassing van de evaluatie en het evaluatieresultaat. Het hoofd van het personeel beslist op basis van het advies of hij de bestaande evaluatie en het evaluatieresultaat bevestigt of aanpast. Hij brengt het personeelslid, de evaluator en de beroepsinstantie van zijn beslissing op de hoogte.<br /><br />Het hoofd van het personeel kan geen beslissing nemen over de toekenning van een negatief gevolg van de evaluatie, vermeld in artikel 49, § 1, noch een voorstel formuleren over het ontslag, vermeld in artikel 49, § 2, voor het beroep tegen een ongunstige evaluatie is afgehandeld en hij beslist heeft om de evaluatie al dan niet aan te passen.<br /><br />§ 3. De raad stelt de nadere procedureregels vast. Hij bepaalt ten minste :<br />1° de termijn om beroep aan te tekenen;<br />2° de wijze waarop het personeelslid en de evaluator gehoord worden en de termijn die daarvoor geldt;<br />3° de termijn waarbinnen het gemotiveerd advies geformuleerd moet zijn;<br />4° de uiterste termijn voor de beslissing van het hoofd van het personeel om de evaluatie en het evaluatieresultaat te bevestigen of aan te passen;<br />5° de termijn en de regels voor de kennisgeving van de eindbeslissing over de evaluatie aan het personeelslid, aan de evaluator en aan de beroepsinstantie.<br /><br />Als de beroepsinstantie in een beroep als vermeld in § 1, 1°, geen advies formuleert binnen de door de raad vastgestelde termijn, dan is het evaluatieresultaat gunstig en past het hoofd van het personeel de evaluatie en het evaluatieresultaat in die zin aan. Als in een dergelijk beroep het hoofd van het personeel geen beslissing neemt over de bevestiging of aanpassing van de evaluatie en van het evaluatieresultaat binnen de door de raad bepaalde termijn, dan zijn de evaluatie en het evaluatieresultaat gunstig.<br /><br />Als de beroepsinstantie in een beroep als vermeld in § 1, 2°, geen advies formuleert binnen de door de raad vastgestelde termijn, dan krijgt het personeelslid het evaluatieresultaat dat één trap positiever is dan het eerder gekregen evaluatieresultaat en past het hoofd van het personeel de evaluatie en het evaluatieresultaat in die zin aan. Als in een dergelijk beroep het hoofd van het personeel geen beslissing neemt over de bevestiging of aanpassing van de evaluatie en van het evaluatieresultaat binnen de door de raad bepaalde termijn, dan krijgt het personeelslid het evaluatieresultaat dat één trap positiever is dan het eerder gekregen evaluatieresultaat.<br />
+
 ## HOOFDSTUK V. [Specifieke bepalingen voor de evaluatie van de gemeentesecretaris, de adjunct-gemeentesecretaris, de financieel beheerder van de gemeente, de provinciegriffier en de financieel beheerde van de provincie en voor de evaluatie van de ombudsman van de gemeente en van de provincie (verv. BVR 23 november 2012, art. 10)]
+
+### ART. 51.
+
+§ 1. Met behoud van de toepassing van artikel 115, tweede lid, van het gemeentedecreet en artikel 111, tweede lid, van het provinciedecreet, bepaalt de raad voor de evaluatie van de gemeentesecretaris, de adjunct-gemeentesecretaris, de financieel beheerder van de gemeente, de provinciegriffier en de financieel beheerder van de provincie de volgende elementen :<br />1° de evaluatie tijdens de proeftijd;<br />2° de duur van de evaluatieperiodes, die dezelfde is als voor de andere personeelsleden;<br />3° de evaluatiecriteria;<br />4° de evaluatieresultaten en de mogelijke gevolgen ervan.<br /><br />De raad bepaalt de wijze waarop de externe deskundigen in het personeelsbeleid betrokken worden bij de vaststelling van de evaluatiecriteria en de wijze waarop zij de noodzakelijke informatie vergaren voor de opmaak van het voorbereidende rapport, vermeld in artikel 115, tweede lid, van het gemeentedecreet en in artikel 111, tweede lid, van het provinciedecreet.<br /><br />§ 2. De evaluatiecriteria worden vastgesteld voor :<br />1° de gemeentesecretaris en de provinciegriffier : na overleg van de functiehouders met het college van burgemeester en schepenen of de deputatie;<br />2° de adjunct-gemeentesecretaris : na overleg van de adjunct-gemeentesecretaris met de gemeentesecretaris en het college van burgemeester en schepenen;<br />3° de financieel beheerder van de gemeente en de financieel beheerder van de provincie : na overleg met de gemeentesecretaris of de provinciegriffier en het college van burgemeester en schepenen of de deputatie.<br /><br />§ 3. De onafhankelijkheid waarmee de financieel beheerder van de gemeente en de financieel beheerder van de provincie bepaalde taken, vermeld in het gemeentedecreet en in het provinciedecreet, uitvoeren, mag niet het voorwerp zijn van evaluatie. De mate waarin zij zich inzetten voor de uitvoering van die taken is wel een aandachtspunt in de evaluatie.<br />
+
+### ART. 52.
+
+De raad regelt de tussentijdse feedback over de wijze van functioneren tussen :<br />1° de gemeentesecretaris of de provinciegriffier en het college van burgemeester en schepenen of de deputatie;<br />2° de adjunct-gemeentesecretaris enerzijds en het college van burgemeester en schepenen en de gemeentesecretaris anderzijds;<br />3° de financieel beheerder van de gemeente enerzijds en het college van burgemeester en schepenen en de gemeentesecretaris anderzijds;<br />4° de financieel beheerder van de provincie enerzijds en de deputatie en de provinciegriffier anderzijds.<br /><br />
+
+### ART. 53.
+
+De raad kan bepalen dat een ongunstige evaluatie het ontslag wegens beroepsongeschiktheid tot gevolg heeft.<br /><br />Het ontslag is alleen mogelijk als uit een tussentijdse evaluatie na een periode van ten minste een half jaar die volgt op de kennisgeving van het ongunstige evaluatieresultaat aan de functiehouder, manifest blijkt dat hij nog steeds niet voldoet. De bepalingen van artikel 49, § 3, zijn van overeenkomstige toepassing.<br />
 
 ## HOOFDSTUK VI. De personeelsvorming
 
+### ART. 54.
+
+§ 1. Voor de uitvoering van het vormingsrecht en de vormingsplicht, vermeld in artikel 111 van het gemeentedecreet en in artikel 107 van het provinciedecreet, wordt onder vorming verstaan : elk begeleid en gestructureerd leertraject, ongeacht of dat intern of extern aan het bestuur georganiseerd wordt, ongeacht de duur ervan en ongeacht of het individueel dan wel in groepsverband georganiseerd wordt.<br /><br />In elke bestuur is er een vormingsverantwoordelijke. De vormingsverantwoordelijke zorgt in samenwerking met het hoofd van het personeel voor de concrete invulling van het vormingsrecht en van de vormingsplicht op basis van de vastgestelde vormingsbehoeften.<br /><br />§ 2. De raad stelt een vormingsreglement vast. Het vormingsreglement regelt onder meer :<br />1° de vorming tijdens de proeftijd;<br />2° de verplichtingen van de personeelsleden bij deelname aan een vormingsactiviteit;<br />3° de faciliteiten die aan de personeelsleden toegekend worden bij het volgen van vorming, andere dan degene die vastgesteld worden in § 3;<br />4° de algemene criteria op basis waarvan vormingsaanvragen geweigerd worden.<br /><br />§ 3. Het personeelslid krijgt voor alle interne of externe vormingsactiviteiten waaraan het deelneemt op uitdrukkelijk verzoek van het bestuur, dienstvrijstelling en de periodes van afwezigheid worden gelijkgesteld met dienstactiviteit.<br /><br />De raad kan bepalen dat het personeelslid dat op eigen initiatief deelneemt aan interne of externe vormingsactiviteiten daarvoor dienstvrijstelling krijgt. De periodes van afwezigheid worden ook in dat geval gelijkgesteld met dienstactiviteit.<br /><br />§ 4. Het bestuur draagt de kosten voor de deelname aan opgelegde vormingsactiviteiten. Tot die kosten behoren ook de kosten voor de verplaatsing naar en van de plaats waar de vormingsactiviteit doorgaat.<br /><br />De raad kan bepalen dat de kosten voor deelname aan niet-opgelegde maar wel toegestane vormingsactiviteiten op dezelfde wijze betaald worden.<br />
+
 ## HOOFDSTUK VII. De administratieve anciënniteiten van het personeelslid
+
+### ART. 55.
+
+Met administratieve anciënniteiten worden de anciënniteiten bedoeld die gebruikt worden voor het verloop van de loopbaan.<br />De volgende administratieve anciënniteiten zijn van toepassing op het personeelslid :<br />1° graadanciënniteit;<br />2° niveauanciënniteit;<br />3° dienstanciënniteit;<br />4° schaalanciënniteit.<br /><br />De graad-, niveau-, en dienstanciënniteit bestaan uit de werkelijke diensten die bij een overheid werden gepresteerd.<br /><br />Onder werkelijke diensten worden alle diensten verstaan die recht geven op het salaris of die, voor het statutaire personeelslid, bij ontstentenis van een salaris gelijkgesteld worden met dienstactiviteit.<br />
+
+### ART. 56.
+
+De administratieve anciënniteiten, vermeld in artikel 55, tweede lid, 1° tot en met 4°, worden uitgedrukt in jaren en volle kalendermaanden. Ze nemen een aanvang op de eerste dag van een maand. Als de diensten geen aanvang hebben genomen op de eerste dag van een maand of geen einde hebben genomen op de laatste dag van een maand, worden de gedeelten van maanden weggelaten.<br />
+
+### ART. 57.
+
+De graadanciënniteit bestaat uit de werkelijke diensten bij een overheid sinds de datum van de aanstelling op proef in een bepaalde graad of een daarmee vergelijkbare graad.<br /><br />De niveauanciënniteit bestaat uit de werkelijke diensten bij een overheid sinds de datum van de aanstelling op proef in een of meer graden van een bepaald niveau of van een daarmee vergelijkbaar niveau.<br /><br />De dienstanciënniteit bestaat uit de werkelijke diensten die gepresteerd zijn bij een overheid.<br />
+
+### ART. 58.
+
+De schaalanciënniteit is de anciënniteit, verworven bij het bestuur in een bepaalde salarisschaal van de functionele loopbaan van een bepaalde graad. Ze neemt een aanvang op de datum van de aanstelling op proef in die graad, tenzij anders bepaald.<br /><br />De diensten die recht geven op een salaris, geven recht op de toekenning van schaalanciënniteit. Bepaalde vormen van onbezoldigde afwezigheid komen in aanmerking voor de toekenning van schaalanciënniteit. De raad stelt die vormen van afwezigheid vast. De schaalanciënniteit die voor die afwezigheden wordt toegekend mag in het totaal niet meer zijn dan een jaar.<br />
+
+### ART. 59.
+
+§ 1. Onder overheid wordt in artikel 55 en 57 verstaan :<br />1° de provincies, de gemeenten en de OCMW's van België, en de instellingen die eronder ressorteren;<br />2° de diensten en instellingen van de federale overheid, van de gemeenschappen en van de gewesten;<br />3° de diensten en instellingen van de Europese Unie;<br />4° de diensten en instellingen van een lidstaat van de Europese Unie of van de Europese Economische Ruimte;<br />5° de lokale overheden van een lidstaat van de Europese Unie of van de Europese Economische Ruimte.<br /><br />§ 2. De diensten die gepresteerd werden bij een andere overheid, worden in aanmerking genomen voor de vaststelling van de administratieve anciënniteiten, met uitzondering van de schaalanciënniteit.<br /><br />Die administratieve anciënniteiten worden in aanmerking genomen op basis van een vergelijking van die diensten met de voorwaarden en met het functieprofiel van de functie waarin het personeelslid aangesteld wordt.<br /><br />Het personeelslid levert zelf de bewijsstukken voor de diensten die bij een andere overheid gepresteerd werden.<br />
+
+### ART. 60.
+
+De raad kan bepalen dat graadanciënniteit, niveauanciënniteit en dienstanciënniteit toegekend worden aan het personeelslid met beroepservaring in de privésector of als zelfstandige, als die beroepservaring relevant is voor de functie waarin het personeelslid aangesteld wordt.<br /><br />In voorkomend geval worden die anciënniteiten in aanmerking genomen volgens de bepalingen van artikel 59, § 2, tweede en derde lid.<br />
+
+### ART. 61.
+
+In afwijking van artikel 58, eerste lid, en artikel 59, § 2, eerste lid, kan de raad bepalen dat beroepservaring die relevant is voor de functie waarin het personeelslid wordt aangesteld, en die het personeelslid heeft opgedaan bij een andere overheid, in de privésector of als zelfstandige, recht geeft op de toekenning van schaalanciënniteit.<br /><br />In voorkomend geval wordt de schaalanciënniteit toegekend op basis van een vergelijking als vastgesteld in artikel 59, § 2, tweede en derde lid.<br />
 
 ## HOOFDSTUK VIII. De functionele loopbaan
 
 ## Afdeling I. Algemene bepalingen
 
+### ART. 62.
+
+De functionele loopbaan bestaat uit de toekenning van opeenvolgende salarisschalen die met dezelfde graad verbonden zijn.<br /><br />Bij elke aanstelling in een graad krijgt het personeelslid de eerste salarisschaal van de functionele loopbaan van die graad, tenzij anders bepaald.<br />
+
 ## Afdeling II. De functionele loopbanen per niveau
+
+### ART. 63.
+
+De functionele loopbanen en de voorwaarden voor doorstroming naar de volgende salarisschalen zijn voor niveau A :<br /><br />1° voor de graden van rang Av, vermeld in artikel 7, tweede lid, een van de volgende functionele loopbanen :<br />a) A1a-A2a-A3a :<br />1) van A1a naar A2a na vier jaar schaalanciënniteit in A1a en een gunstig evaluatieresultaat;<br />2) van A2a naar A3a na achttien jaar gecumuleerde schaalanciënniteit in A1a en A2a en een gunstig evaluatieresultaat;<br />b) A1a-A1b-A2a :<br />1) van A1a naar A1b na vier jaar schaalanciënniteit in A1a en een gunstig evaluatieresultaat;<br />2) van A1b naar A2a na achttien jaar gecumuleerde schaalanciënniteit in A1a en A1b en een gunstig evaluatieresultaat;<br /><br />2° voor de graden van rang Avb, vermeld in artikel 7, tweede lid, een van de volgende functionele loopbanen :<br />a) A6a-A7a-A7b :<br />1) van A6a naar A7a na vier jaar schaalanciënniteit in A6a en een gunstig evaluatieresultaat;<br />2) van A7a naar A7b na achttien jaar gecumuleerde schaalanciënniteit in A6a en A7a en een gunstig evaluatieresultaat;<br />b) A6a-A6b-A7a :<br />1) van A6a naar A6b na vier jaar schaalanciënniteit in A6a en een gunstig evaluatieresultaat;<br />2) van A6b naar A7a na achttien jaar gecumuleerde schaalanciënniteit in A6a en A6b en een gunstig evaluatieresultaat;<br /><br />3° voor de graden van rang Ax, vermeld in artikel 7, tweede lid :<br />A4a-A4b : van A4a naar A4b na negen jaar schaalanciënniteit in A4a en een gunstig evaluatieresultaat;<br /><br />4° voor de graden van rang Axb, vermeld in artikel 7, tweede lid :<br />A8a-A8b : van A8a naar A8b na negen jaar schaalanciënniteit in A8a en een gunstig evaluatieresultaat;<br /><br />5° voor de graden van rang Ay, vermeld in artikel 7, tweede lid :<br />A5a-A5b : van A5a naar A5b na negen jaar schaalanciënniteit in A5a en een gunstig evaluatieresultaat;<br /><br />6° voor de graden van rang Ayb, vermeld in artikel 7, tweede lid :<br />A9a-A9b : van A9a naar A9b na negen jaar schaalanciënniteit in A9a en een gunstig evaluatieresultaat;<br /><br />7° voor de graden van rang Az, vermeld in artikel 7, tweede lid :<br />A10a-A10b : van A10a naar A10b na negen jaar schaalanciënniteit in A10a en een gunstig evaluatieresultaat.<br />
+
+### ART. 64.
+
+De functionele loopbanen en de voorwaarden voor doorstroming naar de volgende salarisschalen zijn voor niveau B :<br /><br />1° voor de graden van rang Bv, vermeld in artikel 7, tweede lid :<br />B1-B2-B3 :<br />a) van B1 naar B2 na vier jaar schaalanciënniteit in B1 en een gunstig evaluatieresultaat;<br />b) van B2 naar B3 na achttien jaar gecumuleerde schaalanciënniteit in B1 en B2 en een gunstig evaluatieresultaat;<br /><br />2° voor de graad van rang Bx, vermeld in artikel 7, tweede lid :<br />B4-B5 : van B4 naar B5 na negen jaar schaalanciënniteit in B4 en een gunstig evaluatieresultaat.<br />
+
+### ART. 65.
+
+De functionele loopbanen en de voorwaarden voor doorstroming naar de volgende salarisschalen zijn voor niveau C :<br /><br />1° voor een graad van rang Cv, vermeld in artikel 7, tweede lid :<br />a) C1-C2-C3 :<br />1) van C1 naar C2 na vier jaar schaalanciënniteit in C1 en een gunstig evaluatieresultaat;<br />2) van C2 naar C3 na achttien jaar gecumuleerde schaalanciënniteit in C1 en C2 en een gunstig evaluatieresultaat;<br />b) voor de kinderverzorgsters :<br />C1-C2 : van C1 naar C2 na negen jaar schaalanciënniteit in C1 en een gunstig evaluatieresultaat;<br /><br />2° voor de graad van rang Cx, vermeld in artikel 7, tweede lid :<br />C4-C5 : van C4 naar C5 na negen jaar schaalanciënniteit in C4 en een gunstig evaluatieresultaat.<br />
+
+### ART. 66.
+
+De functionele loopbaan en de voorwaarden voor doorstroming naar de volgende salarisschalen voor niveau D zijn, voor de graad van rang Dv, vermeld in artikel 7, tweede lid :<br /><br />D1-D2-D3 :<br /><br />1° van D1 naar D2 na vier jaar schaalanciënniteit in D1 en een gunstig evaluatieresultaat;<br /><br />2° van D2 naar D3 na achttien jaar gecumuleerde schaalanciënniteit in D1 en D2 en een gunstig evaluatieresultaat.<br />
+
+### ART. 67.
+
+De functionele loopbaan en de voorwaarden voor doorstroming naar de volgende salarisschalen voor niveau E zijn, voor de graad van rang Ev, vermeld in artikel 7, tweede lid :<br /><br />E1-E2-E3 :<br /><br />1° van E1 naar E2 na vier jaar schaalanciënniteit in E1, en een gunstig evaluatieresultaat;<br /><br />2° van E2 naar E3 na achttien jaar gecumuleerde schaalanciënniteit in E1 en E2, en een gunstig evaluatieresultaat.
 
 ## HOOFDSTUK IX. De bevordering
 
 ## Afdeling I. Algemene bepalingen
 
+### ART. 68.
+
+De bevordering is de aanstelling van een personeelslid in een functie van een graad van een hogere rang in overeenstemming met de indeling en rangschikking van de graden, vermeld in artikel 7.<br />
+
+### ART. 69.
+
+§ 1. Een bevordering is alleen mogelijk in een vacante betrekking van de personeelsformatie.<br /><br />§ 2. Voor de deelname aan een bevorderingsprocedure komen de volgende personeelsleden in aanmerking :<br />1° de vast aangestelde statutaire personeelsleden die aan de bevorderingsvoorwaarden voldoen, ongeacht hun administratieve toestand;<br />2° de contractuele personeelsleden die aan de bevorderingsvoorwaarden voldoen, als ze aan een van de volgende criteria beantwoorden :<br />a) ze zijn na de inwerkingtreding van dit besluit aangesteld na een aanwervings- en selectieprocedure als vermeld in hoofdstuk II, afdeling II en III, en ze hebben de proeftijd beëindigd;<br />b) ze zijn voor de inwerkingtreding van dit besluit aangesteld na een externe bekendmaking van de vacature en een gelijkwaardige selectieprocedure als van toepassing op vacatures in statutaire betrekkingen.<br /><br />§ 3. De aanstellende overheid doet een oproep tot kandidaten.<br /><br />De raad stelt de regels voor de bekendmaking van de vacature vast en bepaalt de wijze waarop de kandidaten hun kandidatuur indienen en de algemeen geldende minimale termijn daarvoor.<br />
+
+### ART. 70.
+
+De aanstellende overheid beoordeelt de geldigheid van de ingediende kandidaturen, behalve als de raad de aanstellende overheid is. In dat geval beoordeelt het uitvoerend orgaan van het bestuur de geldigheid.<br /><br />Alleen kandidaten die voldoen aan de bevorderingsvoorwaarden, worden toegelaten tot de selectieprocedure. Voor de aanvang van de selectieprocedure worden de kandidaten die niet tot de selectieprocedure worden toegelaten er schriftelijk van op de hoogte gebracht dat ze geweigerd zijn, met vermelding van de reden daarvoor.<br />
+
+### ART. 71.
+
+De raad kan bepalen dat bevordering gepaard gaat met een proeftijd. De proeftijd na bevordering mag nooit langer zijn dan de proeftijd die voor dezelfde functie geldt bij aanwerving.<br /><br />In voorkomend geval is artikel 35 van overeenkomstige toepassing op de evaluatie van de proeftijd.<br />
+
 ## Afdeling II. De bevorderingsvoorwaarden en de selectie
+
+### ART. 72.
+
+§ 1. De kandidaten moeten :<br />1° een door de raad te bepalen minimale anciënniteit hebben;<br />2° een gunstig evaluatieresultaat gekregen hebben voor de periodieke evaluatie of evaluaties, of voor de specifieke evaluatie, vermeld in artikel 42, § 2, laatste lid;<br />3° zo nodig, het vereiste diploma hebben;<br />4° slagen voor een selectieprocedure.<br /><br />De inhoud van de periodieke evaluatie of evaluaties, vermeld in punt 2°, kan een element zijn in de beoordeling van de kandidaten.<br /><br />De raad kan aanvullende bevorderingsvoorwaarden vaststellen.<br /><br />§ 2. Onder minimale anciënniteit als vermeld in § 1, 1°, wordt verstaan : ofwel dienstanciënniteit, ofwel niveauanciënniteit, ofwel graadanciënniteit, ofwel een combinatie van die anciënniteiten.<br /><br />De bepalingen van hoofdstuk II, afdeling III, zijn met uitzondering van artikel 19, § 2, tweede lid, en van artikel 20, tweede lid, van toepassing op de selectieprocedure, vermeld in § 1, 4°.<br />
+
+### ART. 73.
+
+In afwijking van artikel 72, § 1, 4°, kan de raad bepalen dat een personeelslid dat al geslaagd is voor een onderdeel van de selectie voor een functie van dezelfde graad, vrijgesteld wordt van datzelfde onderdeel, als het opnieuw deelneemt aan de selectieprocedure. Het personeelslid behoudt voor dat onderdeel zijn eerder behaalde resultaat.<br />
+
+### ART. 74.
+
+De raad bepaalt dat de geslaagde kandidaten ofwel :<br />1° onbeperkt het voordeel van hun selectieresultaat behouden en op basis daarvan in aanmerking blijven komen voor een bevordering in een functie van de graad waarvoor ze geslaagd zijn;<br />2° opgenomen worden in een bevorderingsreserve waarvan de raad de maximale geldigheidsduur vaststelt.<br /><br />De aanstellende overheid bepaalt haar keuze bij de vacantverklaring van de functie. Als de geslaagde kandidaten opgenomen worden in een bevorderingsreserve, bepaalt de aanstellende overheid de geldigheidsduur daarvan, rekening houdend met de door de raad vastgestelde maximale duur.<br />
 
 ## HOOFDSTUK X. De vervulling van een vacature door interne personeelsmobiliteit
 
 ## Afdeling I. Algemene bepalingen
 
+### ART. 75.
+
+§ 1. Onder interne personeelsmobiliteit voor de vervulling van een vacature wordt verstaan : de heraanstelling van een personeelslid in een vacante betrekking van de personeelsformatie die in dezelfde graad of in een andere graad van dezelfde rang is ingedeeld.<br /><br />§ 2. Voor de deelname aan een procedure van interne personeelsmobiliteit komen de volgende personeelsleden in aanmerking :<br />1° de vast aangestelde statutaire personeelsleden die aan de voorwaarden voldoen, ongeacht hun administratieve toestand;<br />2° de contractuele personeelsleden die aan de voorwaarden voldoen, als ze aan een van de volgende criteria beantwoorden :<br />a) ze zijn na de inwerkingtreding van dit besluit aangesteld na een aanwervings- en selectieprocedure als vermeld in hoofdstuk II, afdeling II en III, en ze hebben de proeftijd beëindigd;<br />b) ze zijn voor de inwerkingtreding van dit besluit aangesteld na een externe bekendmaking van de vacature en een gelijkwaardige selectieprocedure als van toepassing op vacatures in statutaire betrekkingen.<br />
+
+### ART. 76.
+
+De aanstellende overheid doet een oproep tot kandidaten. Ze beslist over de heraanstelling. De heraanstelling is niet tijdelijk maar definitief.<br />
+
 ## Afdeling II. De voorwaarden en de procedures voor de interne personeelsmobiliteit
+
+### ART. 77.
+
+De kandidaten moeten ten minste :<br />1° een door de raad te bepalen minimale graadanciënniteit hebben;<br />2° een gunstig evaluatieresultaat gekregen hebben voor de laatste evaluatie;<br />3° voldoen aan de competentievereisten die vastgesteld zijn in de functiebeschrijving voor de functie;<br />4° zo nodig, voldoen aan de diplomavereiste voor de functie.<br />
+
+### ART. 78.
+
+De raad stelt de procedure voor de toepassing van de interne personeelsmobiliteit vast. De procedure regelt ten minste :<br />1° de interne bekendmaking van de vacature;<br />2° de wijze van kandidaatstelling en de algemeen geldende minimale termijn ervoor; 3° de wijze waarop nagegaan wordt of de kandidaten voldoen aan de competentievereisten voor de functie.<br />
+
+### ART. 79.
+
+Het personeelslid behoudt na de heraanstelling in een andere functie, ongeacht of die tot dezelfde of tot een andere graad behoort, de salarisschaal en de schaalanciënniteit die het verworven had in de functionele loopbaan van zijn vorige functie.<br /><br />Artikel 59, § 2, is van toepassing op de vaststelling van de graadanciënniteit bij de heraanstelling in een functie van een andere graad.<br />
 
 ## TITEL IV. Het mandaatstelsel, het opdrachthouderschap en de waarneming van een hogere functie
 
@@ -3708,63 +4050,602 @@ De Vlaamse Regering,<br /><br />Gelet op de bijzondere wet van 8 augustus 1980 t
 
 ## Afdeling I. Algemene bepalingen
 
+### ART. 80.
+
+§ 1. Het mandaatstelsel, vermeld in artikel 105, § 4, van het gemeentedecreet en in artikel 101, § 4, van het provinciedecreet, houdt in dat een personeelslid voor een vooraf bepaalde periode belast wordt met de uitoefening van een bepaalde functie.<br /><br />§ 2. Er zijn twee soorten functies die bij mandaat vervuld kunnen worden :<br />1° de functies van gemeentesecretaris, adjunct-gemeentesecretaris, financieel beheerder van de gemeente, provinciegriffier en financieel beheerder van de provincie;<br />2° functies in statutaire betrekkingen van niveau A of niveau B.<br /><br />De raad stelt in de rechtspositieregeling de lijst vast van de functies die bij mandaat kunnen worden vervuld of die bij mandaat worden vervuld.<br /><br />Alleen een vacante functie kan bij mandaat vervuld worden.<br />
+
+### ART. 81.
+
+De raad bepaalt de duur van de mandaatperiode, met dien verstande dat de duur van de mandaatperiode voor de functies, vermeld in artikel 80, § 2, 1°, nooit korter mag zijn dan zeven jaar en voor de functies, vermeld in artikel 80, § 2, 2°, nooit korter mag zijn dan vijf jaar.<br /><br />De raad bepaalt of het mandaat na afloop van de mandaatperiode al dan niet verlengbaar is en stelt de duur van de verlenging vast.<br />
+
+### ART. 82.
+
+Artikel 14, § 1, en artikel 15 zijn van toepassing als het mandaat opengesteld wordt voor personen die extern zijn aan het bestuur.<br /><br />Artikel 69, § 3, is van toepassing als de mandaatfunctie vervuld wordt bij bevordering.<br /><br />Artikel 78, 1° en 2°, is van toepassing als de mandaatfunctie door interne personeelsmobiliteit vervuld wordt.<br />
+
 ## Afdeling II. De toegang tot de mandaatfuncties en de selectie
+
+### ART. 83.
+
+Om toegang te hebben tot een vacante mandaatfunctie, moet de kandidaat :<br />1° voldoen aan de algemene toelatingsvoorwaarden, vermeld in artikel 10, en aan de aanwervingsvoorwaarden, vermeld in artikel 11, 1°, als de vacature vervuld wordt bij aanwerving;<br />2° voldoen aan de algemene toelatingsvoorwaarden, vermeld in artikel 10, en aan de voorwaarden, vermeld in artikel 69, § 2, en in artikel 72, § 1, 1° tot en met 3°, als de vacature vervuld wordt bij bevordering;<br />3° voldoen aan de algemene toelatingsvoorwaarden in artikel 10, en aan de voorwaarden, vermeld in artikel 75, § 2, en in artikel 77, als de vacature vervuld wordt bij interne personeelsmobiliteit;<br />4° slagen voor de selectieproeven voor de mandaatfunctie, ongeacht de wijze waarop de vacature vervuld wordt.<br />
+
+### ART. 84.
+
+De bepalingen van titel III, hoofdstuk II, afdeling III, zijn met uitzondering van artikel 19, § 2, laatste lid, en van artikel 20, tweede lid, mede van toepassing op de selectie voor een mandaatfunctie.<br /><br />Artikel 23 en 24 zijn van overeenkomstige toepassing als een mandaatfunctie als vermeld in artikel 80, § 2, 1°, opengesteld wordt voor personen die extern zijn aan het bestuur.<br />
 
 ## Afdeling III. Dienstverband, proeftijd, beloning en functionele loopbaan van de mandaathouder
 
+### ART. 85.
+
+§ 1. De geselecteerde kandidaat wordt in statutair dienstverband aangesteld in de mandaatfunctie als hij een vast aangesteld statutair personeelslid van het bestuur is.<br /><br />De geselecteerde kandidaat wordt in contractueel dienstverband aangesteld in de mandaatfunctie als hij een contractueel personeelslid van het bestuur is of als hij extern is aan het bestuur.<br /><br />§ 2. De raad bepaalt de duur van de proeftijd voor de mandaatfuncties.<br /><br />Artikel 35 is met uitzondering van de mogelijkheid van verlenging van de proeftijd van overeenkomstige toepassing op de evaluatie van de proeftijd.<br /><br />De mandaathouder die ongunstig geëvalueerd wordt bij de eindevaluatie van de proeftijd of bij de tussentijdse evaluatie, vermeld in artikel 35, § 2, wordt van zijn mandaat ontheven.<br />
+
+### ART. 86.
+
+De mandaathouder in een functie als vermeld in artikel 80, § 2, 1°, krijgt de salarisschaal die overeenstemt met die functie.<br /><br />De mandaathouder in een functie als vermeld in artikel 80, § 2, 2°, krijgt de eerste salarisschaal van de functionele loopbaan die overeenstemt met de functie die hij bij mandaat uitoefent, tenzij artikel 119 van toepassing is. Hij heeft recht op de functionele loopbaan onder dezelfde voorwaarden als de personeelsleden die niet in een mandaatfunctie aangesteld zijn.<br />
+
+### ART. 87.
+
+De raad kan bepalen dat de mandaathouder tijdens de uitoefening van het mandaat een mandaattoelage krijgt.<br />
+
 ## Afdeling IV. De evaluatie, de verlenging en de beëindiging van het mandaat
+
+### ART. 88.
+
+§ 1. Artikel 51 en artikel 52 zijn, met uitzondering van artikel 51, § 1, 1°, van toepassing op de evaluatie van de mandaathouder in een functie als vermeld in artikel 80, § 2, 1°.<br /><br />Titel III, hoofdstuk IV, afdeling I tot en met V zijn, met uitzondering van het ontslag, vermeld in artikel 48, van overeenkomstige toepassing op de evaluatie van de mandaathouder in een functie als vermeld in artikel 80, § 2, 2°.<br /><br />§ 2. Binnen een door de raad vastgestelde termijn voor de afloop van een mandaatperiode krijgt de mandaathouder een eindevaluatie over de afgelopen mandaatperiode, waarbij rekening wordt gehouden met de evaluaties tijdens het mandaat.<br /><br />De aanstelling van de mandaathouder die het door de raad bepaalde gunstige evaluatieresultaat voor de eindevaluatie van de afgelopen mandaatperiode heeft gekregen, wordt verlengd voor zover de plaatselijke rechtspositieregeling voorziet in de verlenging van het mandaat. Bij de verlenging zijn de procedures voor bekendmaking en selectie niet van toepassing.<br /><br />De mandaathouder die ongunstig geëvalueerd wordt bij een periodieke evaluatie of bij de eindevaluatie van de mandaatperiode, wordt van zijn mandaat ontheven.<br />
+
+### ART. 89.
+
+Bij de beëindiging of de afloop van het mandaat keert het vast aangestelde statutaire personeelslid terug naar de graad waarin het vast aangesteld is, en, indien mogelijk, naar zijn vorige functie.<br /><br />Het contractuele personeelslid dat van het mandaat wordt ontheven of waarvan de mandaatperiode afloopt, wordt uit de mandaatfunctie ontslagen in overeenstemming met de wettelijke bepalingen voor de beëindiging van arbeidsovereenkomsten.<br />
+
+### ART. 90.
+
+Als een mandaathouder met toepassing van artikel 89, eerste lid, terugkeert naar zijn vorige graad, gelden de volgende principes :<br />1° de schaalanciënniteit die verworven werd in de opeenvolgende salarisschalen van de functionele loopbaan van de mandaatfunctie, wordt overgedragen naar de opeenvolgende salarisschalen van de functionele loopbaan die het personeelslid voor het begin van zijn mandaat had;<br />2° de evaluatie die het personeelslid heeft gekregen voor de aanvang van het mandaat, blijft behouden.<br />
+
+### ART. 91.
+
+Met behoud van de toepassing van artikel 88, § 2, laatste lid, wordt een mandaathouder in statutair verband in de volgende gevallen van het mandaat ontheven voor de afloop van de mandaatperiode :<br />1° op eigen verzoek;<br />2° voor een mandaathouder in een functie als vermeld in artikel 80, § 2, 2°, wegens aanstelling in een andere functie binnen het bestuur na een aanwervings- of een bevorderingsprocedure of een procedure van interne personeelsmobiliteit;<br />3° wegens herplaatsing met toepassing van artikel 99, § 1, eerste lid, of van artikel 101, § 1, eerste lid;<br />4° wegens pensionering.<br />
 
 ## HOOFDSTUK II. Het opdrachthouderschap
 
+### ART. 92.
+
+De raad kan een stelsel van opdrachthouderschap vaststellen.<br /><br />Onder opdrachthouderschap wordt verstaan : de belasting van een personeelslid in dienst met een in de tijd beperkte opdracht die zijn functie, naar taakinhoud, verantwoordelijkheden en functievereisten, aanzienlijk verzwaart.<br /><br />Het opdrachthouderschap kan alleen toegepast worden op functies in graden van niveau A, B en C en op personeelsleden die de proeftijd beëindigd hebben.<br /><br />
+
+### ART. 93.
+
+Het hoofd van het personeel brengt de personeelsleden die daarvoor wegens de aard van hun functie in aanmerking komen, op de hoogte van de opdracht met het oog op de kandidaatstelling.<br /><br />De mededeling bevat een inhoudelijke omschrijving van de opdracht en van de gevraagde competenties en vermeldt de uiterste termijn voor de indiening van de kandidaturen voor de opdracht.<br /><br />Het hoofd van het personeel toetst de ingediende kandidaturen aan de opdracht en aan de daarvoor geldende competentievereisten en beslist op basis van een vergelijking van de kandidaten over de toewijzing van de opdracht.<br />
+
+### ART. 94.
+
+De raad kan bepalen dat de opdrachthouder voor de duur van de opdracht een toelage krijgt.<br />
+
 ## HOOFDSTUK III. De waarneming van een hogere functie
+
+### ART. 95.
+
+Dit hoofdstuk is, met uitzondering van artikel 96, § 3, tweede lid, niet van toepassing op de waarneming, vermeld in artikel 81, § 2, en artikel 82 van het gemeentedecreet, noch op de waarneming, vermeld in artikel 78, § 2, en artikel 79 van het provinciedecreet.<br /><br />
+
+### ART. 96.
+
+§ 1. De raad kan bepalen dat een functie waargenomen wordt door een vast aangesteld statutair personeelslid van een lagere graad, als de titularis van de waar te nemen functie tijdelijk afwezig is of als die functie definitief vacant is.<br /><br />Onder lagere graad wordt elke graad verstaan die krachtens de plaatselijke rechtspositieregeling door bevordering rechtstreeks toegang geeft tot de waar te nemen functie.<br /><br />De aanstellende overheid beslist op voorstel van het hoofd van het personeel wie de hogere functie waarneemt.<br /><br />§ 2. De waarneming van een hogere functie in een betrekking die definitief vacant is, mag ten hoogste zes maanden duren. Die termijn mag, als dat noodzakelijk is voor de goede werking van de dienst, verlengd worden op voorwaarde dat de procedure om de betrekking definitief te vervullen op het ogenblik van de verlenging ingezet is.<br /><br />§ 3. De waarnemer van de hogere functie beschikt over alle prerogatieven die verbonden zijn met die functie.<br /><br />De raad kan bepalen dat de waarnemer van een hogere functie een toelage krijgt.<br />
+
+### ART. 97.
+
+De raad kan bepalen dat een contractueel personeelslid in dienst dat de eventuele proeftijd beëindigd heeft en dat met de waarneming instemt, in aanmerking komt voor de waarneming van een hogere functie.<br /><br />Artikel 96 is mede van toepassing, met dien verstande dat de waarneming in een betrekking die niet definitief vacant is, nooit langer dan twee jaar mag duren en dat aan de waarnemer een salaris toegekend wordt in de salarisschaal die verbonden is met de hogere functie.
 
 ## TITEL V. De ambtshalve herplaatsing van het vast aangestelde statutaire personeelslid
 
 ## HOOFDSTUK I. De ambtshalve herplaatsing van het vast aangestelde statutaire personeelslid in een functie van dezelfde rang
 
+### ART. 98.
+
+De ambtshalve herplaatsing in een functie van dezelfde rang gebeurt op initiatief van het bestuur. Ze houdt in dat het vast aangestelde statutaire personeelslid herplaatst wordt in een andere, passende functie van dezelfde graad of in een passende functie van een andere graad van dezelfde rang.<br /><br />De aanstellende overheid beslist over de ambtshalve herplaatsing. Ze voert hierover vooraf een gesprek met het personeelslid. De herplaatsing is niet tijdelijk, maar definitief.<br />
+
+### ART. 99.
+
+§ 1. De ambtshalve herplaatsing in een functie van dezelfde rang wordt toegepast als de betrekking van een vast aangesteld statutair personeelslid afgeschaft wordt en het personeelslid zijn betrekking niet in overgangsregeling behoudt, en als de raad geen stelsel van disponibiliteit wegens ambtsopheffing, als vermeld in artikel 192, 1°, heeft vastgesteld.<br /><br />De raad kan bepalen dat de ambtshalve herplaatsing toegepast kan worden als een vast aangesteld statutair personeelslid door een bevoegde gezondheidsdienst ongeschikt verklaard wordt om zijn functie nog langer uit te oefenen, maar wel geschikt geacht wordt om een andere functie uit te oefenen die verenigbaar is met zijn gezondheidstoestand.<br /><br />§ 2. De raad kan bepalen dat een vast aangesteld statutair personeelslid ambtshalve herplaatst kan worden in een functie van dezelfde rang om aan een vast aangesteld statutair personeelslid een herkansing te bieden na een ongunstige evaluatie of als alternatief voor het ontslag wegens beroepsongeschiktheid, vermeld in artikel 48.<br />
+
+### ART. 100.
+
+De ambtshalve herplaatsing, vermeld in artikel 99, § 1, eerste lid, en in artikel 99, § 2, is alleen mogelijk in een vacante functie.<br /><br />De ambtshalve herplaatsing, vermeld in artikel 99, § 1, eerste lid, heeft voorrang op de manieren om een vacature te vervullen, vermeld in artikel 8 en 9. De raad bepaalt de eventuele voorrangsregels die van toepassing zijn als er meerdere overtallige personeelsleden in aanmerking komen voor ambtshalve herplaatsing in een vacature.<br /><br />Het personeelslid behoudt na de ambtshalve herplaatsing de salarisschaal en de schaalanciënniteit die het verworven had in zijn vorige functie. Artikel 59, § 2, is van toepassing op de vaststelling van de graadanciënniteit als het personeelslid herplaatst wordt in een functie van een andere graad.<br />
+
 ## HOOFDSTUK II. De ambtshalve herplaatsing van het vast aangestelde statutaire personeelslid in een functie van een lagere graad
+
+### ART. 101.
+
+§ 1. De raad kan bepalen dat het vast aangestelde statutaire personeelslid op initiatief van het bestuur herplaatst wordt in een passende functie van een lagere graad als een bevoegde gezondheidsdienst het personeelslid niet langer geschikt acht om zijn functie of een functie van dezelfde graad uit te oefenen, maar wel geschikt acht voor de uitoefening van een functie van een lagere graad.<br /><br />Het vast aangestelde statutaire personeelslid dat na een bevordering een ongunstig evaluatieresultaat krijgt bij afloop van de proeftijd, wordt opnieuw aangesteld in zijn vorige functie of in een andere, vacante functie van zijn vorige graad, als zijn vorige functie niet meer vacant is.<br /><br />§ 2. De raad kan bepalen dat een vast aangesteld statutair personeelslid dat om functionele of persoonlijke redenen zelf verzoekt om herplaatsing in een functie van een lagere graad, kan worden aangesteld in een passende, vacante functie van een lagere graad. Die vorm van herplaatsing kan slechts eenmaal tijdens de loopbaan toegekend worden.<br /><br />De aanstellende overheid beslist over de herplaatsing. Ze voert hierover vooraf een gesprek met het personeelslid.<br />
+
+### ART. 102.
+
+§ 1. Bij de herplaatsing om gezondheidsredenen, vermeld in artikel 101, § 1, eerste lid, wordt met het oog op de billijkheid een salaris, salarisschaal of een functionele loopbaan voor het betrokken personeelslid vastgesteld, rekening houdend met het salaris, de salarisschaal en de schaalanciënniteit die het personeelslid al verworven had in zijn vorige functie.<br /><br />Het vast aangestelde statutaire personeelslid dat na een bevordering herplaatst wordt met toepassing van artikel 101, § 1, tweede lid, krijgt opnieuw de salarisschaal die het verworven had in de functie van zijn vorige graad. De schaalanciënniteit die opgebouwd werd in de functie van de hogere graad tijdens de proeftijd, wordt overgedragen naar de schaalanciënniteit in de functie van de lagere graad.<br /><br />§ 2. Het vast aangestelde statutaire personeelslid dat met toepassing van artikel 101, § 2, op zijn verzoek herplaatst wordt in een functie van een lagere graad krijgt, binnen de functionele loopbaan die verbonden is met zijn nieuwe graad, de salarisschaal waarvan het maximumbedrag het kleinste verschil vertoont met het maximumbedrag van zijn vorige salarisschaal.<br /><br />Als aan de functie van de vorige graad een functionele loopbaan verbonden was, wordt de schaalanciënniteit die het betrokken personeelslid had opgebouwd in zijn laatste salarisschaal, overgedragen op de nieuwe salarisschaal. <br />
 
 ## TITEL VI. Het verlies van de hoedanigheid van statutair personeelslid en de definitieve ambtsneerlegging
 
 ## HOOFDSTUK I. Het verlies van de hoedanigheid van statutair personeelslid
 
+### ART. 103.
+
+Met behoud van de toepassing van andere wettelijke en decretale bepalingen kan niemand de hoedanigheid van statutair personeelslid verliezen, behalve in de gevallen die bepaald zijn door dit besluit.
+
+### ART. 104.
+
+Ambtshalve wordt een einde gemaakt aan de hoedanigheid van statutair personeelslid als :<br>
+1° de statutaire aanstelling onregelmatig werd bevonden binnen de termijn voor beroep tot nietigverklaring bij de Raad van State of, als een zodanig beroep is ingesteld, tijdens de procedure;<br>
+2° het statutaire personeelslid niet meer voldoet aan de voor zijn functie geldende nationaliteitsvereiste, of de burgerlijke en politieke rechten niet meer geniet, of zijn medische ongeschiktheid voor de functie behoorlijk werd vastgesteld;<br>
+3° het statutaire personeelslid zonder geldige reden de werkpost verlaat of na een toegelaten afwezigheid zonder geldige reden het werk niet hervat na meer dan tien dagen;<br>
+4° het statutaire personeelslid zich in een toestand bevindt waarin de toepassing van de burgerlijke wetten en van de strafwetten de ambtsneerlegging tot gevolg heeft.<br>
+<br>
+De termijn, vermeld in punt 1°, geldt niet in geval van arglist of bedrog vanwege het statutaire personeelslid.
+
+### ART. 105.
+
+§ 1. De raad kan bepalen dat het statutaire personeelslid van wie de onregelmatige aanstelling, vermeld in artikel 104, 1°, niet te wijten is aan arglist of bedrog van zijn kant, een verbrekingsvergoeding krijgt waarvan het bedrag in verhouding staat tot de duur van de statutaire tewerkstelling.<br>
+<br>
+In de andere gevallen, vermeld in artikel 104, wordt een einde gemaakt aan de hoedanigheid van statutair personeelslid zonder opzeggingstermijn of verbrekingsvergoeding.<br>
+<br>
+§ 2. De aanstellende overheid stelt het verlies van de hoedanigheid van statutair personeelslid vast en beslist tot ontslag van het betrokken personeelslid. Het personeelslid wordt vooraf gehoord.<br>
+<br>
+Het ontslag wordt met een aangetekende brief betekend.<br>
+<br>
+Als de wet van 20 juli 1991 houdende sociale en diverse andere bepalingen van toepassing is, wordt het personeelslid geïnformeerd over alle verplichtingen die uit die wet voortvloeien.
+
 ## HOOFDSTUK II. De definitieve ambtsneerlegging van het statutaire personeelslid
+
+### ART. 106.
+
+§ 1. De volgende zaken geven aanleiding tot de definitieve ambtsneerlegging van het statutaire personeelslid op proef :<br />1° het vrijwillige ontslag;<br />2° de definitief vastgestelde beroepsongeschiktheid na de ongunstige tussentijdse evaluatie of eindevaluatie van de proeftijd, vermeld in artikel 36.<br /><br />§ 2. Naast de ambtsneerlegging als gevolg van de pensioenwetgeving, geven de volgende zaken aanleiding tot de definitieve ambtsneerlegging van het vast aangestelde statutaire personeelslid :<br />1° het vrijwillige ontslag;<br />2° de definitief vastgestelde beroepsongeschiktheid na een ongunstige evaluatie, vermeld in artikel 48.<br />
+
+### ART. 107.
+
+Het statutaire personeelslid dat vrijwillig ontslag neemt, brengt het bestuur daarvan schriftelijk op de hoogte.<br /><br />De aanstellende overheid neemt kennis van het ontslag en brengt het personeelslid daarvan schriftelijk op de hoogte.<br /><br />De datum waarop het statutaire personeelslid de dienst effectief verlaat, wordt vastgesteld in onderling akkoord tussen het personeelslid en de aanstellende overheid.<br /><br />De vaste aanstelling in statutair verband bij een andere overheid wordt gelijkgesteld met vrijwillig ontslag, behalve als een deeltijds werkend personeelslid daarnaast ook deeltijds bij een andere overheid vast aangesteld wordt.<br /><br />
+
+### ART. 108.
+
+§ 1. De raad stelt de regels vast voor het ontslag wegens definitief vastgestelde beroepsongeschiktheid van het statutaire personeelslid op proef, rekening houdend met de totale duur van de proeftijd en de socialezekerheidsregeling die van toepassing is tijdens de proeftijd.<br /><br />Het ontslag wordt met een aangetekende brief, die de datum van uitwerking vermeldt, betekend. Daarbij wordt het personeelslid in voorkomend geval geïnformeerd over alle verplichtingen die voortvloeien uit de wet van 20 juli 1991 houdende sociale en diverse andere bepalingen.<br /><br />§ 2. Het ontslag wegens definitief vastgestelde beroepsongeschiktheid van het vast aangestelde statutaire personeelslid wordt met een aangetekende brief betekend. Daarbij wordt de datum van uitwerking vermeld en wordt het personeelslid geïnformeerd over alle verplichtingen die voortvloeien uit de wet van 20 juli 1991 houdende sociale en diverse andere bepalingen.<br /><br />De raad stelt een opzeggingstermijn vast. De opzeggingstermijn is ongeacht de duur van de tewerkstelling bij het bestuur ten minste drie maanden. De raad kan bepalen dat het personeelslid dat langer dan vijf jaar in statutaire dienst is bij het bestuur een opzeggingstermijn krijgt waarvan de duur in verhouding staat tot de totale duur van de statutaire tewerkstelling.<br /><br />De opzeggingstermijn gaat in op de eerste dag van de maand die volgt op de betekening van het ontslag.
 
 ## TITEL VII. Het salaris
 
 ## HOOFDSTUK I. Algemene bepalingen
 
+### ART. 109.
+
+De raad stelt het jaarsalaris van het personeel vast in salarisschalen, die bestaan uit :<br />1° een minimumsalaris;<br />2° de salaristrappen, die het resultaat zijn van de periodieke verhogingen;<br />3° een maximumsalaris.<br />
+
+### ART. 110.
+
+Elke salarisschaal wordt aangeduid met één van de letters A, B, C, D, E, die overeenstemmen met de niveaus, vermeld in artikel 6, gevolgd door een cijfer en eventueel een kleine letter a, b of c.<br /><br />Het eerste lid is niet van toepassing op de gemeentesecretaris, de adjunct-gemeentesecretaris, de financieel beheerder van de gemeente, de provinciegriffier en de financieel beheerder van de provincie.<br />
+
+### ART. 111.
+
+<p>§ 1. Aan de volgende graden worden de salarisschalen en de functionele loopbanen, vermeld in artikel 63 tot en met 67, verbonden die overeenkomen met de ernaast vermelde lettercijfercode :<br>
+</p>
+
+<table border="1" cellpadding="0" cellspacing="0" style="border-collapse:collapse; width:359.4pt">
+	<tbody>
+		<tr>
+			<td colspan="3" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; height:14.2pt; width:359.4pt">
+			<p>1° niveau E:<!--?xml:namespace prefix = o ns =         "urn:schemas-microsoft-com:office:office" /--></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; width:137.45pt">
+			<p>graad</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; width:113.95pt">
+			<p>rang</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; width:108pt">
+			<p>schalen</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; width:137.45pt">
+			<p>1 basisgraad</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; width:113.95pt">
+			<p>Ev</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; width:108pt">
+			<p>E1-E2-E3</p>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="3" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; width:359.4pt">
+			<p>2° niveau D:</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; width:137.45pt">
+			<p>graad</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; width:113.95pt">
+			<p>rang</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; width:108pt">
+			<p>schalen</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; width:137.45pt">
+			<p>1 basisgraad</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; width:113.95pt">
+			<p>Dv</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; width:108pt">
+			<p>D1-D2-D3</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; width:137.45pt">
+			<p>1 (technische) hogere graad</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; width:113.95pt">
+			<p>Dx</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; width:108pt">
+			<p>D4</p>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="3" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; width:359.4pt">
+			<p>3° niveau C:</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; width:137.45pt">
+			<p>graad</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; width:113.95pt">
+			<p>rang</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; width:108pt">
+			<p>schalen</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; width:137.45pt">
+			<p>1 basisgraad</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; width:113.95pt">
+			<p>Cv</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; width:108pt">
+			<p>C1-C2-C3</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; width:137.45pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; width:113.95pt">
+			<p>Cv</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; width:108pt">
+			<p>C1-C2</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; width:137.45pt">
+			<p>1 hogere graad</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; width:113.95pt">
+			<p>Cx</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; width:108pt">
+			<p>C4-C5</p>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="3" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; width:359.4pt">
+			<p>4° niveau B:</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; width:137.45pt">
+			<p>graad</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; width:113.95pt">
+			<p>rang</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; width:108pt">
+			<p>schalen</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; width:137.45pt">
+			<p>1 basisgraad</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; width:113.95pt">
+			<p>Bv</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; width:108pt">
+			<p>B1-B2-B3</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; width:137.45pt">
+			<p>1 hogere graad</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; width:113.95pt">
+			<p>Bx</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; width:108pt">
+			<p>B4-B5</p>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="3" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; width:359.4pt">
+			<p>5° niveau A:</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; width:137.45pt">
+			<p>graad</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; width:113.95pt">
+			<p>rang</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; width:108pt">
+			<p>schalen</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; width:137.45pt">
+			<p>1 basisgraad</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; width:113.95pt">
+			<p>Av</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; width:108pt">
+			<p>A1a-A1b-A2a</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; width:137.45pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; width:113.95pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; width:108pt">
+			<p>A1a-A2a-A3a</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; width:137.45pt">
+			<p>1 specifieke basisgraad</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; width:113.95pt">
+			<p>Avb</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; width:108pt">
+			<p>A6a-A6b-A7a</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; width:137.45pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; width:113.95pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; width:108pt">
+			<p>A6a-A7a-A7b</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; width:137.45pt">
+			<p>eerste hogere graad</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; width:113.95pt">
+			<p>Ax</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; width:108pt">
+			<p>A4a-A4b</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; width:137.45pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; width:113.95pt">
+			<p>Axb</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; width:108pt">
+			<p>A8a-A8b</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; width:137.45pt">
+			<p>tweede hogere graad</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; width:113.95pt">
+			<p>Ay</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; width:108pt">
+			<p>A5a-A5b</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; width:137.45pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; width:113.95pt">
+			<p>Ayb</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; width:108pt">
+			<p>A9a-A9b</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; width:137.45pt">
+			<p>derde hogere graad</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; width:113.95pt">
+			<p>Az</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; width:108pt">
+			<p>A10a-A10b</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p>§ 2. De salarisschaal van gemeentesecretaris of van provinciegriffier is de hoogste salarisschaal binnen de gemeentelijke of provinciale organisatie.<br>
+<br>
+De salarisschalen die met inbegrip van de periodieke verhogingen en de loopbaanspreiding van toepassing zijn, zijn in bijlage II bij dit besluit gevoegd.</p>
+
+### ART. 112.
+
+Het personeelslid wordt bezoldigd in de salarisschaal die verbonden is aan zijn graad.<br /><br />Het personeelslid ontvangt het salaris dat overeenstemt met zijn geldelijke anciënniteit. De geldelijke anciënniteit bestaat uit het aantal dienstjaren dat in aanmerking wordt genomen voor de berekening van het salaris.<br /><br />Het personeelslid dat geen recht heeft op het meerekenen van vroegere diensten, ontvangt het beginsalaris van de eerste salarisschaal van de functionele loopbaan die verbonden is aan zijn graad.<br /><br />Het salaris van een deeltijds personeelslid wordt vastgesteld in verhouding tot zijn prestaties.<br /><br />Het hoofd van het personeel stelt het individuele jaarsalaris van de personeelsleden vast.<br />
+
 ## HOOFDSTUK II. De toekenning van periodieke salarisverhogingen door de opbouw van geldelijke anciënniteit
 
 ## Afdeling I. Diensten bij een overheid
 
+### ART. 113.
+
+Voor de toekenning van periodieke salarisverhogingen komen alleen de werkelijke diensten in statutair of contractueel verband in aanmerking die het personeelslid levert of heeft geleverd in dienst van :<br />1° de Belgische staat, de Europese Economische Ruimte, een lidstaat van de Europese Economische Ruimte, een overheidsdienst in een lidstaat van de Europese Economische Ruimte, de internationale instellingen waarvan België of een van zijn gemeenschappen of gewesten lid is, de autonome overheidsbedrijven, de gemeenschappen, de gewesten, de provincies, de gemeenten, de autonome gemeente- en provinciebedrijven, de agglomeraties van gemeenten, de federaties van gemeenten, de verenigingen van gemeenten, de interlokale samenwerkingsverbanden, de intercommunale diensten en instellingen van de openbare onderstand, de commissies van openbare onderstand, de openbare centra voor maatschappelijk welzijn, de verenigingen, vermeld in hoofdstuk XII, XIIbis of XIIter van de organieke wet van 8 juli 1976 betreffende de openbare centra voor maatschappelijk welzijn, de openbare kassen van lening of andere openbare diensten, als titularis van een bezoldigde betrekking;<br />2° de gesubsidieerde vrije onderwijsinstellingen of de gesubsidieerde vrije centra voor leerlingenbegeleiding;<br />3° de publiekrechtelijke en vrije universiteiten als titularis van een bezoldigde betrekking;<br />4° een andere overheid.<br />
+
+### ART. 114.
+
+Voor de toepassing van artikel 113 moet worden verstaan onder :<br />1° werkelijke diensten : alle diensten die recht geven op een salaris of die bij ontstentenis van een salaris krachtens de rechtspositieregeling toch in aanmerking worden genomen voor de vaststelling van het salaris;<br />2° dienst van de staat : elke dienst zonder rechtspersoonlijkheid die ressorteert onder de wetgevende, de uitvoerende of de rechterlijke macht;<br />3° andere overheid :<br />a) elke dienst met rechtspersoonlijkheid die onder de uitvoerende macht ressorteert;<br />b) elke andere instelling naar Belgisch recht of naar het recht van een lidstaat van de Europese Economische Ruimte die beantwoordt aan collectieve behoeften van algemeen of lokaal belang en waarbij in de oprichting of bijzondere leiding ervan het overwicht van de overheid tot uiting komt.<br />
+
 ## Afdeling II. Diensten in de privésector of als zelfstandige
+
+### ART. 115.
+
+De raad kan bepalen dat beroepservaring in de privésector of als zelfstandige, voor de toekenning van periodieke salarisverhogingen in aanmerking wordt genomen, op voorwaarde dat die beroepservaring relevant is voor de uitoefening van de functie waarin het personeelslid aangesteld wordt.<br /><br />In voorkomend geval bepaalt de raad of die diensten meerekenbaar zijn voor alle functies dan wel alleen meerekenbaar zijn voor functies in knelpuntberoepen. De raad bepaalt ook of de diensten onbeperkt in aanmerking worden genomen dan wel tot een maximumaantal jaren in aanmerking worden genomen.<br /><br />De relevantie van de beroepservaring in de privésector of als zelfstandige wordt beoordeeld op basis van een vergelijking van die diensten met de voorwaarden en met het functieprofiel voor de functie waarin het personeelslid aangesteld wordt.<br /><br />Het personeelslid levert zelf de bewijsstukken van de diensten.<br /><br />De geldelijke anciënniteit die op die manier verkregen wordt, blijft behouden voor het verdere verloop van de loopbaan.<br />
 
 ## Afdeling III. De valorisatie van de diensten
 
+### ART. 116.
+
+§ 1. De diensten die in overeenstemming met artikel 113 tot en met 115 gepresteerd werden, worden voor de vaststelling van de geldelijke anciënniteit meegerekend voor honderd procent, ongeacht of ze voltijds dan wel deeltijds gepresteerd werden.<br /><br />Voor de toepassing van het eerste lid geldt het volgende :<br />1° deeltijdse diensten die gepresteerd worden na de datum van de inwerkingtreding van dit besluit worden vanaf die datum meegerekend voor honderd procent;<br />2° de geldelijke anciënniteit voor deeltijdse diensten die gepresteerd werden voor de datum van de inwerkingtreding van dit besluit wordt vastgesteld volgens de regels die op dat ogenblijk krachtens de plaatselijke rechtspositieregeling van toepassing waren;<br />3° in afwijking van de bepaling in punt 2°, kan de raad bepalen dat de geldelijke anciënniteit voor deeltijdse diensten die gepresteerd zijn sinds 1 januari 2002 voor honderd procent meegerekend worden voor de vaststelling van de geldelijke anciënniteit na de datum vermeld in punt 1°.<br /><br />§ 2. De geldelijke anciënniteit, verworven in twee of meer gelijktijdig uitgeoefende functies, wordt voor dezelfde periode maximaal voor een volledige prestatie gevaloriseerd. Ze is bovendien in actieve deeltijdse functies niet onderling cumuleerbaar voor de toekenning van de periodieke verhogingen.<br />
+
+### ART. 117.
+
+Het hoofd van het personeel stelt de duur vast van de in aanmerking komende diensten die het personeelslid in het onderwijs als interim of als tijdelijk personeelslid heeft gepresteerd aan de hand van het attest, verstrekt door de bevoegde autoriteiten.<br /><br />De diensten, vermeld op het attest, die in tienden zijn betaald, en die per schooljaar geen volledig jaar werkelijke diensten vertegenwoordigen, worden dag per dag samengeteld. Het totale aantal zo gewerkte dagen wordt vermenigvuldigd met 1,2. Het totaal van de rekenkundige bewerking wordt vervolgens gedeeld door 30. Het quotiënt geeft het aantal in aanmerking te nemen maanden. Met de rest wordt geen rekening gehouden.<br /><br />De diensten, vermeld op hetzelfde attest, die bewijzen dat het personeelslid een volledig schooljaar heeft gewerkt, gelden voor een totaal van driehonderd dagen en leveren één jaar in aanmerking te nemen diensten op.<br />
+
+### ART. 118.
+
+De diensten die in aanmerking komen, worden berekend per kalendermaand. De diensten die niet zijn begonnen op de eerste dag van een maand of geëindigd op de laatste dag van een maand, worden niet meegerekend.<br />
+
 ## HOOFDSTUK III. Bijzondere bepalingen
+
+### ART. 119.
+
+Het personeelslid dat met toepassing van artikel 61 schaalanciënniteit verwerft voor ervaring, opgedaan bij een andere overheid, in de privésector of als zelfstandige, wordt met de toegekende schaalanciënniteit ingeschaald in de salarisschaal van de functionele loopbaan die overeenstemt met de toegekende schaalanciënniteit.<br />
+
+### ART. 120.
+
+Het personeelslid dat bevorderd wordt, krijgt in zijn nieuwe graad nooit een salaris dat lager is dan het salaris dat het in zijn vorige graad zou hebben gekregen.<br />
+
+### ART. 121.
+
+§ 1.Vanaf de datum van de inwerkingtreding van dit besluit heeft het   personeelslid dat bevorderd wordt naar een graad van een hoger niveau ten minste   recht op de volgende verhoging van zijn jaarsalaris tegen 100 % :<BR>1° 620 euro   bij bevordering naar niveau D;<BR>2° 745 euro bij bevordering naar niveau   C;<BR>3° 870 euro bij bevordering naar niveau B;<BR>4° 1240 euro bij bevordering   naar niveau A.<BR><BR>Als het jaarsalaris in de nieuwe graad niet ten minste het   bedrag, vermeld in het eerste lid, hoger is dan het jaarsalaris dat het   personeelslid in zijn oude graad zou hebben gekregen, wordt het jaarsalaris in   de nieuwe graad verhoogd tot de minimale verhoging, vermeld in het eerste lid,   bereikt wordt.<BR><BR>Die minimale salarisverhoging wordt gegarandeerd gedurende   de hele functionele loopbaan in de graad waarnaar het personeelslid bevorderd   wordt. Daartoe wordt telkens zijn oude salarisschaal, met inbegrip van de   periodieke verhogingen, maar zonder het verloop in de functionele loopbaan,   vergeleken met de nieuwe salarisschaal, met inbegrip van de toepassing van de   periodieke verhogingen en het verloop in de functionele loopbaan.<BR><BR>§ 2. In   afwijking van § 1, eerste lid, kan de raad bepalen dat de gegarandeerde   salarisverhoging eveneens geldt voor personeelsleden die tussen 1 januari 2006   en de datum van de inwerkingtreding van dit besluit bevorderd werden.<BR><BR>In   afwijking van § 1, eerste lid, is de minimale salarisverhoging ook van   toepassing als een personeelslid in dienst van het bestuur via een   aanwervingsprocedure aangesteld wordt in een graad van een hoger   niveau.<BR><BR>§ 3. De minimale salarisverhoging, vermeld in paragraaf 1 en 2,   is een integraal onderdeel van het jaarsalaris.
 
 ### ART. 122.
 
-De gemeenteraad bepaalt de salarisschaal van de gemeentesecretaris, binnen de hieronder vastgestelde minimum- en maximumgrenzen, uitgedrukt in euro :<br />1° gemeenten tot 6000 inwoners : 23.450 - 38.500;<br />2° gemeenten van 6001 tot 8000 inwoners : 26.000 - 39.000;<br />3° gemeenten van 8001 tot 10.000 inwoners :<br />a) 27.117,10 - 39.978,60 met ingang van 1 januari 2007;<br />b) 28.066,20 - 41.377,85 vanaf 1 januari 2008;<br />4° gemeenten van 10.001 tot 15.000 inwoners :<br />a) 29.204,07 - 43.133,65, met ingang van 1 januari 2007;<br />b) 30.226,21- 44.643,33 vanaf 1 januari 2008;<br />5° gemeenten van 15.001 tot 20.000 inwoners : 31.663,12 - 46.207,48;<br />6° gemeenten van 20.001 tot 25.000 inwoners : 33.475,08 - 49.281,50;<br />7° gemeenten van 25.001 tot 35.000 inwoners : 35.562,09 - 52.516,94;<br />8° gemeenten van 35.001 tot 50.000 inwoners : 37.729,92 - 55.590,48;<br />9° gemeenten van 50.001 tot 80.000 inwoners : 40.334,59 - 58.988,18;<br />10° gemeenten van 80.001 tot 150.000 inwoners : 42.712,75 - 62.223,77;<br />11° gemeenten van meer dan 150.000 inwoners : 46.320,47 - 67.076,84.<br /><br />De salarisverhogingen van de gemeentesecretaris mogen niet gespreid worden over meer dan drieëntwintig jaar, noch over minder dan vijftien jaar. Ze worden op evenredige wijze gespreid volgens de bepalingen van artikel 109, 2°.<br /><br />Als het inwoneraantal van de gemeente daalt onder het minimale aantal inwoners, op basis waarvan met toepassing van het eerste lid de salarisschaal van de gemeentesecretaris werd vastgesteld, dan behoudt de gemeentesecretaris in dienst zijn salarisschaal op persoonlijke titel.<br />
+De gemeenteraad bepaalt de salarisschaal van de gemeentesecretaris, binnen de hieronder vastgestelde minimum- en maximumgrenzen, uitgedrukt in euro, die gelden vanaf 1 januari 2009 :<br />1° gemeenten tot 6.000 inwoners : 24.250 - 38.500;<br />2° gemeenten van 6.001 tot 15.000 inwoners : 30.226,21 - 44.643,33;<br />3° gemeenten van 15.001 tot 20.000 inwoners : 32.771,33 - 47.824,74;<br />4° gemeenten van 20.001 tot 25.000 inwoners : 34.646,71 - 51.006,35;<br />5° gemeenten van 25.001 tot 35.000 inwoners : 36.806,76 - 54.355,03;<br />6° gemeenten van 35.001 tot 50.000 inwoners : 39.050,47 - 57.536,15;<br />7° gemeenten van 50.001 tot 80.000 inwoners : 41.746,30 - 61.052,77;<br />8° gemeenten van 80.001 tot 150.000 inwoners : 44.207,70 - 64.401,60;<br />9° gemeenten van meer dan 150.000 inwoners : 47.941,69 - 69.424,53.<br /><br />De salarisverhogingen van de gemeentesecretaris worden gespreid over vijftien jaar. Ze worden op evenredige wijze gespreid volgens de bepalingen van artikel 109, 2°.<br /><br />Als het inwoneraantal van de gemeente daalt onder het minimale aantal inwoners, op basis waarvan met toepassing van het eerste lid de salarisschaal van de gemeentesecretaris werd vastgesteld, dan behoudt de gemeentesecretaris in dienst zijn salarisschaal op persoonlijke titel.
+
+### ART. 123.
+
+De gemeenteraad stelt de salarisschaal van de adjunct-gemeentesecretaris vast. Die salarisschaal moet lager blijven dan de salarisschaal die voor de gemeentesecretaris vastgesteld werd.<br />
 
 ### ART. 124.
 
 De gemeenteraad van de gemeenten met meer dan 5000 inwoners bepaalt de salarisschaal van de financieel beheerder, binnen de hieronder vastgestelde minimum- en maximumgrenzen, uitgedrukt in euro :<br />1° gemeenten van 5001 tot 6000 inwoners : 22.842,80 - 34.246,93;<br />2° gemeenten van 6001 tot 8000 inwoners : 24.751,38 - 36.455,41;<br />3° gemeenten van 8001 tot 10.000 inwoners : 26.439,17 - 38.979,14;<br />4° gemeenten van 10.001 tot 15.000 inwoners : 28.473,97 - 42.055,31;<br />5° gemeenten van 15.001 tot 20.000 inwoners : 30.871,54 - 45.052,29;<br />6° gemeenten van 20.001 tot 25.000 inwoners : 32.638,20 - 48.049,46;<br />7° gemeenten van 25.001 tot 35.000 inwoners : 34.673,04 - 51.203,63;<br />8° gemeenten van 35.001 tot 50.000 inwoners : 36.786,67 - 54.200,72;<br />9° gemeenten van 50.001 tot 80.000 inwoners : 39.326,23 - 57.513,48;<br />10° gemeenten van 80.001 tot 150.000 inwoners : 41.644,93 - 60.668,18;<br />11° gemeenten van meer dan 150.000 inwoners : 45.162,46 - 65.399,92.<br /><br />De salarisverhogingen van de financieel beheerder mogen niet gespreid worden over meer dan drieëntwintig jaar, noch over minder dan vijftien jaar. Ze worden op evenredige wijze gespreid volgens de bepalingen van artikel 109, 2°.<br /><br />Als het inwoneraantal van de gemeente daalt onder het minimale aantal inwoners, op basis waarvan met toepassing van het eerste lid de salarisschaal van de financieel beheerder werd vastgesteld, dan behoudt de financieel beheerder in dienst zijn salarisschaal op persoonlijke titel.<br />
 
+### ART. 125.
+
+De provincieraad stelt de salarisschaal van de provinciegriffier vast binnen de minimum- en maximumgrenzen van de salarisschaal van de gemeentesecretaris in de gemeenten die in artikel 122, eerste lid, in de hoogste klasse zijn ingedeeld.<br />
+
+### ART. 126.
+
+De provincieraad stelt de salarisschaal van de financieel beheerder vast binnen de minimum- en maximumgrenzen van de salarisschaal van de gemeentesecretaris in de gemeenten die in artikel 122, eerste lid, in de klasse van 80.001 tot 150.000 inwoners zijn ingedeeld.<br />
+
 ## HOOFDSTUK IV. De betaling van het salaris
+
+### ART. 127.
+
+Het salaris volgt het verloop van het indexcijfer van de consumptieprijzen. Het salaris tegen 100 % wordt gekoppeld aan het spilindexcijfer 138,01.<br />
+
+### ART. 128.
+
+Het salaris wordt maandelijks betaald vanaf de indiensttreding. Voor het vast aangestelde statutaire personeelslid wordt het vooruitbetaald. Het salaris van het overige personeel wordt betaald nadat de termijn vervallen is.<br /><br />In afwijking van het eerste lid kunnen besturen die het salaris van het vast aangestelde statutaire personeelslid op grond van de plaatselijke rechtspositieregeling betalen nadat de termijn vervallen is, die regeling behouden.<br />
+
+### ART. 129.
+
+Het maandsalaris is gelijk aan een twaalfde van het jaarsalaris. Het uurloon is gelijk aan 1/1976 van het jaarsalaris.<br />
+
+### ART. 130.
+
+Als het personeelslid in de loop van de maand in dienst treedt, krijgt het voor die maand het gedeelte van het maandsalaris dat overeenstemt met de gepresteerde werkdagen.<br /><br />Als het personeelslid in de loop van de maand met pensioen gaat of overlijdt, wordt het salaris voor de volledige maand betaald.<br />
 
 ## TITEL VIII. De toelagen, vergoedingen en sociale voordelen
 
 ## HOOFDSTUK I. Algemene bepalingen
 
+### ART. 131.
+
+Met behoud van de toepassing van eventuele decretale of wettelijke bepalingen kunnen geen andere toelagen en vergoedingen worden toegekend of ingevoerd dan die welke vermeld worden in dit besluit.<br /><br />De raad kan geen taalpremie instellen of behouden voor de personeelsleden. Onder taalpremie wordt verstaan elke toelage, toegekend aan het personeelslid dat op grond van de wetten op het gebruik van de talen in bestuurszaken, gecoördineerd bij het koninklijk besluit van 18 juli 1966, verplicht is tot kennis van de tweede taal, of elke andere toelage, toegekend aan het personeelslid voor het gebruik van een andere taal dan het Nederlands.<br />
+
+### ART. 132.
+
+Effectief gemaakte, bewezen en noodzakelijke kosten bij de uitoefening van de functie worden terugbetaald.<br />
+
 ## HOOFDSTUK II. De eindejaarstoelage
+
+### ART. 133.
+
+In dit hoofdstuk wordt verstaan onder :<br />1° referentieperiode : de periode van 1 januari tot en met 30 september van het in aanmerking te nemen jaar;<br />2° jaarsalaris : het salaris op jaarbasis of, in voorkomend geval, het wachtgeld of de uitkering, uitbetaald in plaats van een salaris, eventueel aangevuld met de haard- of standplaatstoelage of de gegarandeerde salarisverhoging na bevordering.<br />
+
+### ART. 134.
+
+Het personeelslid ontvangt jaarlijks een eindejaarstoelage.<br />
+
+### ART. 135.
+
+Het bedrag van de eindejaarstoelage is de som van het forfaitaire gedeelte en het veranderlijke gedeelte.<br /><br />Het forfaitaire gedeelte en het veranderlijke gedeelte worden als volgt berekend :<br />1° het forfaitaire gedeelte :<br />a) het forfaitaire gedeelte bedraagt voor het jaar 2006 311,95 euro;<br />b) vanaf 2007 wordt het forfaitaire gedeelte dat toegekend is tijdens het vorige jaar, telkens vermeerderd met een breuk waarvan de noemer gelijk is aan het gezondheidsindexcijfer van de maand oktober van het vorige jaar en de teller gelijk is aan het gezondheidsindexcijfer van de maand oktober van het in aanmerking te nemen jaar. Het resultaat daarvan wordt berekend tot op twee decimalen nauwkeurig;<br />c) het bedrag dat het resultaat is van de berekening, vermeld in punt b), wordt verhoogd met 248,74 euro;<br />2° het veranderlijke gedeelte :<br />2,5 procent van het jaarsalaris, aangepast volgens de indexverhogingscoëfficiënt die van toepassing is op het salaris van de maand oktober van het in aanmerking te nemen jaar. Als het personeelslid in de maand oktober van het in aanmerking te nemen jaar geen of slechts een gedeeltelijk salaris ontvangen heeft, dan wordt het percentage berekend op basis van het salaris dat voor diezelfde maand betaald zou zijn als het personeelslid zijn functie wel volledig had uitgeoefend.<br />
+
+### ART. 136.
+
+Het personeelslid ontvangt het volledige bedrag van de toelage, vermeld in artikel 135, als het als titularis van een betrekking met volledige prestaties het volledige salaris heeft ontvangen tijdens de hele duur van de referentieperiode.<br /><br />Als het personeelslid niet het volledige salaris heeft ontvangen als titularis van een betrekking met volledige prestaties of onvolledige prestaties, wordt het bedrag van de toelage verminderd in verhouding tot het salaris dat het werkelijk heeft ontvangen.<br /><br />De periodes waarin het personeelslid tijdens de referentieperiode als titularis van een betrekking met volledige prestaties of onvolledige prestaties met ouderschapsverlof, als vermeld in het koninklijk besluit van 29 oktober 1997 tot invoering van een recht op ouderschapsverlof in het kader van de onderbreking van de beroepsloopbaan, was, of met bevallingsverlof was met toepassing van de Arbeidswet van 16 maart 1971, worden gelijkgesteld met periodes waarvoor het personeelslid het salaris volledig heeft ontvangen.<br />
+
+### ART. 137.
+
+De eindejaarstoelage wordt uiterlijk tijdens de maand december van het in aanmerking te nemen jaar in één keer uitbetaald.<br />
 
 ## HOOFDSTUK III. De onregelmatige prestaties
 
 ## Afdeling I. Nachtprestaties en prestaties op zaterdagen, zondagen en feestdagen
 
+### ART. 138.
+
+Deze afdeling is niet van toepassing op :<br />1° de gemeentesecretaris, de adjunct-gemeentesecretaris, de financieel beheerder van de gemeente, de provinciegriffier en de financieel beheerder van de provincie;<br />2° de personeelsleden van niveau A.<br />
+
+### ART. 139.
+
+§ 1. Naast de wettelijk voorgeschreven inhaalrust krijgt het personeelslid :<br />1° per uur nachtprestaties tussen 22 uur en 6 uur ofwel :<br />a) één kwartier extra inhaalrust;<br />b) een toeslag op het uursalaris die gelijk is aan 25 % van het uursalaris.<br />2° per uur prestaties tussen 0 en 24 uur op een zondag of een feestdag ofwel :<br />a) één uur extra inhaalrust;<br />b) een toeslag op het uursalaris die gelijk is aan 100 % van het uursalaris.<br />3° per uur prestaties tussen 0 en 24 uur op een zaterdag ofwel :<br />a) extra inhaalrust van maximaal één uur;<br />b) een toeslag op het uursalaris van maximaal 100 % van het uursalaris.<br /><br />Als berekeningsbasis voor de toeslag geldt het bruto-uursalaris, eventueel verhoogd met de haard- of standplaatstoelage, de toelage voor het waarnemen van een hogere functie of de gegarandeerde salarisverhoging na bevordering.<br /><br />§ 2. De extra inhaalrust of de toeslag voor prestaties op zaterdag bedraagt in voorkomend geval nooit meer dan de extra inhaalrust of de toeslag voor prestaties op zondag.<br /><br />De raad kan bepalen dat de extra inhaalrust of de toeslag voor nachtprestaties cumuleerbaar is met de extra inhaalrust of de toeslag voor prestaties op zaterdagen, zondagen of feestdagen.
+
 ## Afdeling II. De overuren
+
+### ART. 140.
+
+Deze afdeling is niet van toepassing op de gemeentesecretaris, de adjunct-gemeentesecretaris, de financieel beheerder van de gemeente, de provinciegriffier en de financieel beheerder van de provincie.<br /><br />Deze afdeling is evenmin van toepassing op de personeelsleden die onder het toepassingsgebied van de Arbeidswet van 16 maart 1971 vallen.<br />
+
+### ART. 141.
+
+§ 1. Onder overuren worden verstaan de uitzonderlijke prestaties die op verzoek van het bestuur geleverd worden boven op de uren die op grond van de gewone arbeidstijdregeling op weekbasis door het personeelslid gepresteerd worden.<br /><br />Het personeelslid dat overuren presteert, krijgt compenserende inhaalrust binnen de termijn, bepaald in de wet van 14 december 2000 tot vaststelling van sommige aspecten van de organisatie van de arbeidstijd in de openbare sector. De compenserende inhaalrust is gelijk aan de duur van de overuren.<br /><br />§ 2. Als over een periode van vier maanden de gemiddelde arbeidstijd groter is dan 38 uur per week voor voltijdse prestaties of dan de gewone arbeidstijdregeling op weekbasis bij deeltijdse prestaties, wordt aan het personeelslid boven op het uursalaris ofwel overloon betaald in de vorm van een toeslag, ofwel extra inhaalrust toegekend.<br /><br />Het overloon of de extra inhaalrust bedraagt voor alle niveaus behalve voor niveau A :<br />1° een toeslag van 25 % per uur voor overuren op weekdagen tussen 6 en 22 uur;<br />2° een toeslag van maximaal 25 % per uur voor overuren op weekdagen tussen 22 en 6 uur;<br />3° een toeslag van maximaal 25 % per uur voor overuren op zaterdagen tussen 0 en 24 uur;<br />4° een toeslag van maximaal 25 % per uur voor overuren op zondagen of reglementaire feestdagen tussen 0 en 24 uur.<br /><br />Als berekeningsbasis voor het overloon geldt het bruto-uursalaris, eventueel verhoogd met de haard- of standplaatstoelage, de toelage voor het waarnemen van een hogere functie of de gegarandeerde salarisverhoging na bevordering.<br /><br />§ 3. Als het personeelslid gedurende een periode van vier maanden overuren gepresteerd heeft op verschillende tijdstippen als vermeld in punt 1° tot en met 4°, en het totaal aan gepresteerde overuren binnen die periode van vier maanden niet heeft kunnen compenseren met inhaalrust, geniet het voor de nog resterende overuren het meest gunstige overloon of de meest gunstige regeling van extra inhaalrust, vastgesteld met toepassing van § 2, tweede lid.<br /><br />§ 4. Aan het personeelslid van niveau A wordt voor elk overuur een uursalaris uitbetaald als over een periode van vier maanden de gemiddelde arbeidstijd groter is dan 38 uur per week voor voltijdse prestaties of dan de gewone arbeidstijdregeling op weekbasis bij deeltijdse prestaties.<br />
+
+### ART. 142.
+
+De raad kan bepalen dat het personeelslid dat onvoorzien buiten zijn arbeidstijdregeling of permanentieplicht opgeroepen wordt voor een dringend werk, per oproep een verstoringstoelage ontvangt. De verstoringstoelage bedraagt minimaal twee keer en maximaal vier keer het uurloon.<br /><br />Als berekeningsbasis voor het uurloon geldt het bruto-uursalaris, eventueel verhoogd met de haard- of standplaatstoelage, de toelage voor het waarnemen van een hogere functie of de gegarandeerde salarisverhoging na bevordering.<br /><br />De verstoringstoelage kan gecumuleerd worden met de toeslag voor overuren, vermeld in artikel 141.<br />
 
 ## [Afdeling III. Onregelmatige prestaties van verzorgend personeel in gezinszorg (ing. BVR 3 juni 2022, art. 1, I: 1 september 2021)]
 
@@ -3772,49 +4653,253 @@ De gemeenteraad van de gemeenten met meer dan 5000 inwoners bepaalt de salarissc
 
 ## Afdeling I. De toelage voor het waarnemen van een hogere functie
 
+### ART. 143.
+
+Voor de toekenning van de toelage die de raad met toepassing van artikel 96, § 3, tweede lid, vaststelt, moet de waarneming van de hogere functie ten minste dertig opeenvolgende kalenderdagen beslaan.<br /><br />De toelage is gelijk aan het verschil tussen het salaris dat het personeelslid bij een bevordering in de waargenomen hogere functie zou ontvangen en het salaris dat het personeelslid in zijn werkelijke functie ontvangt.<br />
+
+### ART. 144.
+
+In het salaris, vermeld in artikel 143, tweede lid, zijn inbegrepen :<br />1° de haard- of standplaatstoelage;<br />2° elke andere salaristoeslag.<br />
+
 ## Afdeling II. De gevarentoelage
+
+### ART. 145.
+
+De raad kan een gevarentoelage instellen die in voorkomend geval toegekend wordt onder de voorwaarden van artikel 146 en 147.<br />
+
+### ART. 146.
+
+Voor de gevarentoelage komen de werkzaamheden in aanmerking, waarbij de mate van gevaar, hinder of ongezondheid bij normale uitvoering ervan aanzienlijk toeneemt door de bijzondere omstandigheden van fysieke werkdruk waarin ze uitgevoerd moeten worden, of door het gebruik van schadelijke of gevaarlijke stoffen. Het uitvoerend orgaan van het bestuur somt in een afzonderlijke lijst de werkzaamheden op die aan die criteria beantwoorden en die in aanmerking komen voor de gevarentoelage.<br /><br />
+
+### ART. 147.
+
+<p>§ 1. Het personeelslid dat occasioneel een werk uitvoert dat opgenomen is in de lijst, vermeld in artikel 146, ontvangt een gevarentoelage, waarvan het maximale bedrag bepaald wordt als volgt :</p>
+
+<table border="1" cellpadding="0" cellspacing="0" style="border-collapse:collapse">
+	<tbody>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; height:14.2pt; width:179.4pt">
+			<p>aantal uren gevaarlijk werk per maand<!--?xml:namespace prefix = o ns =         "urn:schemas-microsoft-com:office:office" /--></p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; height:14.2pt; width:168pt">
+			<p>bedrag van de gevarentoelage</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; width:179.4pt">
+			<p>minder dan 7 uur</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; width:168pt">
+			<p>1,10 euro per uur tegen 100 %</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; width:179.4pt">
+			<p>van 7 tot 25 uur</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; width:168pt">
+			<p>1,20 euro per uur tegen 100 %</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; width:179.4pt">
+			<p>meer dan 25 uur</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; width:168pt">
+			<p>1,25 euro per uur tegen 100 %</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+<p><br>
+§ 2. De raad kan bepalen dat aan het personeelslid dat permanent werkzaamheden als vermeld in artikel 146 uitvoert, een jaartoelage wordt toegekend. Het bedrag van die jaartoelage is gelijk aan maximaal 10 % van de 13de salaristrap van salarisschaal E2 tegen 100 %.</p>
 
 ## Afdeling III. De permanentietoelage
 
+### ART. 148.
+
+De raad kan een permanentietoelage instellen voor het personeelslid dat door het hoofd van het personeel wordt aangewezen om zich buiten de normale diensturen thuis beschikbaar te houden voor interventies.<br /><br />De gemeentesecretaris, de adjunct-gemeentesecretaris, de financieel beheerder van de gemeente, de provinciegriffier en de financieel beheerder van de provincie komen niet in aanmerking voor een permanentietoelage.<br />
+
+### ART. 149.
+
+Het bedrag van de toelage, vermeld in artikel 148, bedraagt 2,01 euro tegen 100 % voor elk uur dat werkelijk aan de permanentie wordt besteed. Dat bedrag is gekoppeld aan de gezondheidsindex.<br />
+
 ## Afdeling IV. De mandaattoelage
+
+### ART. 150.
+
+De toelage voor het uitoefenen van een mandaat, vermeld in artikel 87, bedraagt maximaal 5 % van het geïndexeerde brutosalaris van de mandaathouder. De toelage wordt maandelijks samen met het salaris betaald.<br />
 
 ## Afdeling V. De toelage voor opdrachthouderschap
 
+### ART. 151.
+
+De toelage voor het opdrachthouderschap die de raad met toepassing van artikel 94 instelt, is gelijk aan de toelage die het personeelslid zou ontvangen als het een functie van de naast hogere graad, zoals vastgesteld in artikel 7, zou waarnemen. De toelage wordt maandelijks samen met het salaris betaald.<br />
+
 ## Afdeling VI. De functioneringstoelage en de managementstoelage
+
+### ART. 152.
+
+De raad kan ter uitvoering van artikel 48 de toekenning van een functioneringstoelage vaststellen. In voorkomend geval geldt het volgende :<br />1° de functioneringstoelage kan worden toegekend als uit de evaluatie blijkt dat het personeelslid uitstekend heeft gepresteerd in relatie tot de evaluatiecriteria en de eventuele resultaatsverbintenissen;<br />2° de functioneringstoelage bedraagt maximaal 5 % van het geïndexeerde brutojaarsalaris;<br />3° de raad stelt de nadere regels ter zake vast.<br /><br />De raad kan ter uitvoering van artikel 48 en 51, § 1, 4°, een managementstoelage vaststellen. In voorkomend geval geldt het volgende :<br />1° de managementstoelage kan worden toegekend aan een lid van het managementteam als uit de evaluatie blijkt dat de betrokkene uitstekend heeft gepresteerd en de concrete doelstellingen die hem bij de aanvang van de evaluatieperiode waren opgelegd, heeft gerealiseerd;<br />2° de managementstoelage bedraagt maximaal 8 % van het geïndexeerde brutojaarsalaris;<br />3° de raad stelt de nadere regels ter zake vast.<br /><br />De functioneringstoelage en de managementstoelage zijn niet cumuleerbaar.<br />
 
 ## HOOFDSTUK V. De vergoeding voor reis- en verblijfkosten
 
 ## Afdeling I. Algemene bepalingen
 
+### ART. 153.
+
+Een dienstreis is de verplaatsing van de woonplaats of de standplaats naar een vooraf bepaalde bestemming in opdracht of op uitnodiging van de bevoegde hiërarchische meerdere van het personeelslid.<br />
+
+### ART. 154.
+
+Het hoofd van het personeel geeft toestemming voor dienstreizen.<br /><br />Hij beslist welk vervoermiddel functioneel en financieel het meest verantwoord is.<br />
+
+### ART. 155.
+
+De raad werkt nadere procedureregels uit voor de indiening en vergoeding van door het personeelslid gemaakte, noodzakelijke en bewezen kosten voor een dienstreis.<br />
+
 ## Afdeling II. De vergoeding voor reiskosten
 
+### ART. 156.
+
+§ 1. Het personeelslid dat voor dienstreizen van zijn eigen motorvoertuig gebruikmaakt, heeft recht op een vergoeding van 0,2903 euro per kilometer. De kilometervergoeding dekt alle kosten die gepaard gaan met het gebruik van het eigen motorvoertuig, met uitzondering van de parkeerkosten. Onder motorvoertuig wordt verstaan : een auto, motorfiets of bromfiets.<br /><br />Bij carpooling kan de vergoeding voor de bestuurder worden verhoogd met 0,1452 euro. De meereizende personeelsleden hebben geen recht op een kilometervergoeding.<br /><br />Het personeelslid heeft recht op de terugbetaling van eventuele parkeerkosten.<br /><br />Het personeelslid dat voor dienstreizen van de eigen fiets gebruikmaakt, ontvangt 0,15 euro per kilometer.<br /><br />§ 2. Als het personeelslid een reizende functie uitoefent, kan de vergoeding voor het gebruik van zijn privévoertuig uit een forfaitaire vergoeding bestaan. De raad bepaalt het bedrag van de vergoeding en de voorwaarden waaraan het personeelslid moet voldoen voor de toekenning ervan.<br /><br />§ 3. De bedragen van de kilometervergoeding en de forfaitaire vergoeding worden jaarlijks op 1 juli automatisch aangepast aan het algemene indexcijfer van de consumptieprijzen door de van kracht zijnde bedragen te vermenigvuldigen met een breuk waarvan de noemer gelijk is aan het consumptie-indexcijfer van de maand mei van het voorgaande jaar en de teller gelijk is aan het consumptie-indexcijfer van de maand mei van het lopende jaar.<br />
+
+### ART. 157.
+
+Voor dienstreizen met het openbaar vervoer of per vliegtuig worden de reële kosten vergoed die het personeelslid bewijst.<br />
+
 ## Afdeling III. De hotel- en dagvergoeding
+
+### ART. 158.
+
+Het personeelslid kan een hotel- en dagvergoeding krijgen voor dienstreizen onder de voorwaarden die de raad bepaalt.<br /><br />Het personeelslid dat een dienstreis met overnachting maakt, heeft recht op vergoeding van de kosten voor kamer en ontbijt, maaltijden en eventuele andere kosten. Het personeelslid dient voor al de gemaakte kosten de originele bewijsstukken in.<br />
 
 ## HOOFDSTUK VI. De sociale voordelen
 
 ## Afdeling I. De maaltijdcheques
 
+### ART. 159.
+
+Het personeelslid heeft recht op maaltijdcheques, die op jaarbasis voor ten minste 497,47 euro ten laste vallen van het bestuur.<br /><br />Bij onvolledige prestaties of prestaties die niet geleverd zijn gedurende het werkjaar, wordt het bedrag op jaarbasis, vermeld in het eerste lid, pro rata verminderd.<br />
+
 ## Afdeling II. De hospitalisatieverzekering
+
+### ART. 160.
+
+§ 1. De besturen sluiten een collectieve hospitalisatieverzekering af voor :<br />1° de statutaire personeelsleden;<br />2° de personeelsleden met een arbeidsovereenkomst van onbepaalde duur.<br /><br />De besturen nemen de premie voor de hospitalisatieverzekering voor de personeelsleden, vermeld in punt 1° en 2°, die voltijds of halftijds werken, volledig ten laste.<br /><br />§ 2. In afwijking van § 1 kan de raad bepalen dat :<br />1° de verzekeringspremie voor de personeelsleden die minder dan halftijds werken, slechts gedeeltelijk ten laste wordt genomen;<br />2° een hospitalisatieverzekering wordt afgesloten voor sommige contractuele personeelsleden met een arbeidsovereenkomst van bepaalde duur.<br />
+
+### ART. 161.
+
+De raad kan bepalen dat een hospitalisatieverzekering wordt aangeboden aan de volgende categorieën van personeelsleden :<br />1° de gepensioneerde personeelsleden;<br />2° de gezinsleden van de personeelsleden.<br /><br />De raad bepaalt voor elke categorie of de hospitalisatieverzekering al dan niet wordt toegekend. In voorkomend geval bepaalt hij voor elke categorie of de premie volledig of gedeeltelijk ten laste wordt genomen.<br />
+
+### ART. 162.
+
+Het bestuur informeert de personeelsleden over de toepassingsvoorwaarden van de hospitalisatieverzekering.<br />
 
 ## Afdeling III. -De vergoeding van de kosten voor het woon-werkverkeer
 
+### ART. 163.
+
+Bij het gebruik van de trein voor de verplaatsing van en naar het werk wordt het personeelslid voor de kosten van het sociale abonnement vergoed in overeenstemming met de geldende wettelijke bepalingen daarover.<br /><br />In afwijking van het eerste lid kan de raad bepalen dat het treinabonnement voor een hoger bedrag of volledig door het bestuur ten laste wordt genomen.<br /><br />Als het personeelslid in eerste klasse reist, betaalt het zelf de supplementaire kosten daarvoor.<br /><br />De raad bepaalt de mate waarin het bestuur de kosten voor het gebruik van de bus, de tram of de metro voor de verplaatsing van en naar het werk vergoedt.<br />
+
+### ART. 164.
+
+De raad kan bepalen dat een maandelijkse fietsvergoeding van 15 cent per kilometer wordt toegekend aan het personeelslid dat de verplaatsing van en naar het werk volledig of gedeeltelijk met de fiets aflegt.<br />
+
+### ART. 165.
+
+Het personeelslid dat minstens 66 % arbeidsongeschikt is, ontvangt een vergoeding voor de verplaatsing van en naar het werk met de wagen. Die vergoeding is gelijk aan de kostprijs van een treinkaart tweede klasse over dezelfde afstand.<br />
+
 ## Afdeling IV. De begrafenisvergoeding
 
+### ART. 166.
+
+De raad kan bepalen dat een vergoeding toegekend wordt voor de begrafenis van het personeelslid.<br />
+
+### ART. 167.
+
+Als een personeelslid overlijdt, wordt aan de persoon of personen, vermeld in artikel 168, een begrafenisvergoeding toegekend die overeenstemt met het geïndexeerde maandsalaris van het personeelslid, eventueel verhoogd met de haard- en standplaatstoelage of met om het even welke andere salaristoeslag. Het geïndexeerde maandsalaris wordt omgezet in een maandsalaris voor voltijdse prestaties als het overleden personeelslid deeltijds werkte.<br /><br />De begrafenisvergoeding mag niet meer bedragen dan een twaalfde van het bedrag, vastgesteld met toepassing van artikel 39, eerste, derde en vierde lid, van de Arbeidsongevallenwet van 10 april 1971.<br /><br />De vergoeding wordt in voorkomend geval verminderd met het bedrag van een vergoeding die krachtens andere wettelijke of reglementaire bepalingen wordt toegekend.<br />
+
+### ART. 168.
+
+De begrafenisvergoeding wordt betaald aan de persoon of de personen die kosten voor de begrafenis hebben gedragen.<br />
+
 ## HOOFDSTUK VII. De vergoeding van de conciërge
+
+### ART. 169.
+
+De conciërge geniet voor zijn verplichtingen als conciërge een van de volgende voordelen :<br />1° de kosteloze huisvesting in een woning die aan de hedendaagse comfortnormen voldoet met gratis verwarming en verlichting, als voordelen in natura;<br />2° een toelage voor de prestaties van conciërge.<br /><br />De raad bepaalt de keuze ter zake en regelt bij de keuze voor de toekenning van de toelage, vermeld in punt 2°, het bedrag en de toekenningsvoorwaarden.<br />
 
 ## TITEL IX. Verloven en afwezigheden
 
 ## HOOFDSTUK I. Algemene bepalingen
 
+### ART. 170.
+
+§ 1. Het statutaire personeelslid bevindt zich geheel of gedeeltelijk in een van de volgende administratieve toestanden :<br />1° dienstactiviteit;<br />2° non-activiteit.<br /><br />§ 2. Het statutaire personeelslid kan zich ook in een toestand van disponibiliteit bevinden.<br /><br />§ 3. Het statutaire personeelslid is bij verlof of afwezigheid in dienstactiviteit, als het statutaire personeelslid op dat ogenblik het recht op het salaris behoudt.<br /><br />§ 4. Het statutaire personeelslid is in non-activiteit bij verlof of afwezigheid, als het statutaire personeelslid op dat ogenblik geen recht heeft op zijn salaris, tenzij in de gevallen die anders bepaald zijn in deze titel.<br /><br />§ 5. De raden kunnen, binnen de beperkingen van de bepalingen van dit besluit, zelf aan sommige verloven of afwezigheden een gelijkstelling met dienstactiviteit toekennen, als dat niet al het geval is volgens de hiernavolgende bepalingen.<br />
+
+### ART. 171.
+
+Het statutaire personeelslid kan niet in disponibiliteit wegens ambtsopheffing worden gesteld of gehouden als het aan de voorwaarden voldoet om met pensioen te gaan, al dan niet op eigen verzoek.<br />
+
+### ART. 172.
+
+Het personeelslid dat zonder toestemming of geldige reden, en ook niet ten gevolge van de toepassing van een tuchtstraf of van een andere administratieve maatregel, afwezig is, bevindt zich in een toestand van non-activiteit, tenzij in geval van overmacht.<br />
+
+### ART. 173.
+
+In afwijking van artikel 172 is het personeelslid in actieve dienst als het deelneemt aan een georganiseerde werkonderbreking en verliest het enkel zijn recht op salaris voor de duur van de afwezigheid.<br />
+
+### ART. 174.
+
+De raad bepaalt de algemene regels voor de aanvraagtermijnen, de aanvraagprocedure, de toekenning, de mogelijkheid tot opzegging en de opzeggingstermijnen van de verloven. Onverminderd de individuele rechten van het personeelslid wordt bij de toekenning van verloven afgewogen of de continuïteit en de kwaliteit van de openbare dienstverlening gehandhaafd blijven.<br />
+
+### ART. 175.
+
+Voor personeelsleden met een specifieke arbeidsregeling kan de raad, indien nodig, omrekeningsregels vaststellen voor bepaalde in werkdagen uitgedrukte verloven of ziektecontingenten zonder dat het totale aantal toegekende dagen per soort verlof overschreden wordt.
+
 ## HOOFDSTUK II. De jaarlijkse vakantiedagen
 
+### ART. 176.
+
+§ 1. Het personeelslid heeft jaarlijks recht op een door de raad te bepalen aantal werkdagen betaalde vakantie. Het aantal dagen vakantie mag voor een volledig arbeidsjaar niet minder bedragen dan dertig werkdagen en niet meer dan vijfendertig werkdagen.<br /><br />De vakantiedagen worden genomen naar keuze van het personeelslid, met inachtneming van de behoeften van de dienst. De raad kan hierover nadere regels uitwerken.<br /><br />§ 2. In afwijking van § 1, tweede lid, kan het personeelslid vier dagen vakantie nemen, zonder dat het dienstbelang kan worden ingeroepen om de vakantie te weigeren.<br />
+
+### ART. 177.
+
+Elke periode met recht op salaris geeft recht op jaarlijkse vakantiedagen, rekening houdend met de prestatieregeling. De raad kan bepalen dat periodes met recht op een uitkering in het kader van de ziekte- en invaliditeitsverzekering of een wachtgeld eveneens recht geven op jaarlijkse vakantiedagen.<br /><br />Als een personeelslid in de loop van het jaar in dienst treedt of zijn functie definitief neerlegt, worden zijn vakantiedagen in evenredige mate verminderd.<br /><br />Het aantal vakantiedagen wordt verminderd in verhouding tot het aantal onbezoldigde verlofdagen dat wordt opgenomen.<br />
+
+### ART. 178.
+
+Als een statutair personeelslid ziek wordt voor de aanvang van aangevraagde en toegestane vakantiedagen, dan wordt de vakantie opgeschort en worden de ziektedagen aangerekend op het beschikbare ziektekrediet.<br /><br />De raad bepaalt vanaf wanneer en onder welke voorwaarden de vakantie van een statutair personeelslid wordt opgeschort, als het statutaire personeelslid ziek wordt tijdens zijn vakantie.<br /><br />Als een statutair personeelslid tijdens zijn vakantie in het ziekenhuis opgenomen wordt, dan wordt de vakantie opgeschort vanaf de eerste dag van de ziekenhuisopname.
+
 ## HOOFDSTUK III. De feestdagen
+
+### ART. 179.
+
+§ 1. Het personeelslid heeft betaalde vakantie op de volgende feestdagen : 1 januari, paasmaandag, 1 mei, Hemelvaartsdag, pinkstermaandag, 11 juli, 21 juli, 15 augustus, 1 november, 11 november en 25 december. Die lijst wordt aangevuld met drie extra feestdagen, naar keuze van het bestuur.<br /><br />§ 2. De raad bepaalt de wijze waarop de vrije dagen, vermeld in § 1, die samenvallen met een zaterdag of zondag, zullen worden vervangen door andere dagen.<br />
 
 ## [HOOFDSTUK IV. Het bevallingsverlof, opvangverlof, pleegzorgverlof en pleegouderverlof (verv. BVR 12 maart 2021, art. 14, I: 24 april 2021)]
 
 ## Afdeling I. Het bevallingsverlof
 
+### ART. 180.
+
+Het bevallingsverlof wordt toegekend aan het personeelslid krachtens de Arbeidswet van 16 maart 1971. Het vast aangestelde statutaire personeelslid behoudt het recht op salaris tijdens het bevallingsverlof, op voorwaarde dat de betrokkene alle beroepswerkzaamheid staakt.<br /><br />
+
+### ART. 181.
+
+Bij verlenging van de postnatale rustperiode in overeenstemming met artikel 39, zesde lid, van de Arbeidswet van 16 maart 1971, wordt het vast aangestelde statutaire personeelslid tijdens de duur van die verlenging doorbetaald.<br />
+
+### ART. 182.
+
+§ 1. Als de moeder overlijdt, heeft het statutaire personeelslid dat vader is van het kind, recht op vaderschapsverlof, dat niet langer mag duren dan het deel van het bevallingsverlof dat nog niet opgenomen werd door de moeder bij haar overlijden.<br /><br />§ 2. Bij opname van de moeder in een ziekenhuis heeft het statutaire personeelslid dat vader is van het kind, recht op vaderschapsverlof, dat op zijn vroegst een aanvang neemt vanaf de achtste dag, te rekenen na de geboorte van het kind, op voorwaarde dat de moeder meer dan zeven dagen opgenomen is in het ziekenhuis en dat de pasgeborene het ziekenhuis verlaten heeft.<br /><br />Het vaderschapsverlof eindigt als de moeder het ziekenhuis verlaat en uiterlijk bij het verstrijken van de periode die overeenstemt met het deel van het bevallingsverlof dat door de moeder op het ogenblik van haar opname in het ziekenhuis nog niet was opgenomen.<br /><br />§ 3. Het vaderschapsverlof, vermeld in § 1 en § 2, is bezoldigd.<br />
+
 ## Afdeling II. Het opvangverlof
+
+### ART. 183.
+
+Het statutaire personeelslid krijgt op zijn verzoek opvangverlof als een minderjarig kind in zijn gezin wordt opgenomen met het oog op adoptie of pleegvoogdij.<br /><br />Het opvangverlof bedraagt ten hoogste zes of ten hoogste vier weken naargelang het opgenomen kind de leeftijd van drie jaar nog niet heeft bereikt of al bereikt heeft.<br /><br />De maximumduur van het opvangverlof wordt verdubbeld als het opgenomen kind een handicap heeft.<br /><br />Als slechts een van de samenwonende partners adopteert of de pleegvoogdij uitoefent, kan alleen die persoon het verlof genieten.<br /><br />Tijdens het opvangverlof behoudt het statutaire personeelslid het recht op zijn gebruikelijke salaris.<br /><br />De raad kan bepalen dat :<br />1° de uitoefening van het recht op adoptieverlof een einde neemt op het ogenblik waarop het kind de leeftijd van acht jaar bereikt tijdens de opname van het verlof;<br />2° het adoptieverlof opgenomen moet worden in een aaneengesloten periode.<br /><br />Het bestuur kan bepalen dat de uitoefening van het recht op adoptieverlof een aanvang moet nemen binnen twee maanden die volgen op de inschrijving van het kind als lid van het gezin van de werknemer.<br />
 
 ## [Afdeling III. Pleegzorgverlof (ing. BVR 12 maart 2021, art. 16, I: 24 april 2021)]
 
@@ -3822,23 +4907,288 @@ De gemeenteraad van de gemeenten met meer dan 5000 inwoners bepaalt de salarissc
 
 ## HOOFDSTUK V. Het ziekteverlof
 
+### ART. 184.
+
+Het statutaire personeelslid dat afwezig is wegens ziekte of ongeval van gemeen recht, krijgt ziekteverlof.<br />
+
+### ART. 185.
+
+Het statutaire personeelslid met ziekteverlof staat onder het toezicht van een geneeskundig controleorgaan.<br /><br />
+
+### ART. 186.
+
+De raad bepaalt de algemene regels voor de ziektecontrole.<br />
+
+### ART. 187.
+
+§ 1 Het statutaire personeelslid dat geen recht heeft op uitkeringen in het kader van de ziekte- en invaliditeitsverzekering, heeft recht op ziekteverlof volgens een stelsel van ziektekredietdagen. Voor opgenomen ziektekredietdagen wordt het gewone salaris betaald.<br /><br />De ziektekredietdagen worden toegekend in de vorm van een krediet van eenentwintig werkdagen per jaar volledige dienstactiviteit. De raad kan bepalen dat periodes van disponibiliteit eveneens geheel of gedeeltelijk in aanmerking komen voor de vaststelling van het jaarlijkse aantal ziektekredietdagen.<br /><br />Bij aanvang, en na de eventuele periode van recht op ziekte-uitkering in het kader van de ziekte- en invaliditeitsverzekering, wordt aan een statutair personeelslid onmiddellijk een krediet van drieënzestig dagen toegestaan. Aanvullende ziektekredietdagen worden nadien toegestaan voor het vierde jaar en de daaropvolgende jaren die recht geven op ziektekrediet.<br /><br />§ 2. De raad bepaalt de pro-rata berekeningswijze van het toe te kennen ziektekrediet rekening houdend met de periodes van non-activiteit of van disponibiliteit, die niet in aanmerking komen voor de toekenning van ziektekredietdagen.<br /><br />§ 3. De raad bepaalt of eventuele ziektekredietdagen, opgebouwd bij een vorige publieke werkgever, in rekening zullen worden gebracht, en bepaalt de wijze waarop dat zal gebeuren.<br /><br />§ 4. De raad kan bepalen dat de vakantiedagen die het statutaire personeelslid niet heeft kunnen opnemen als gevolg van langdurige ziekte, worden toegevoegd aan het nog beschikbare ziektekrediet.<br /><br />De afwezigheid wegens ziekte van de personeelsleden met een specifieke of deeltijdse werktijdregeling wordt pro rata berekend.<br />
+
+### ART. 188.
+
+Zodra de aanstellende overheid heeft vastgesteld dat een statutair personeelslid zijn ziektekrediet, vermeld in artikel 187, heeft opgebruikt, en als het betrokken personeelslid nog altijd ziek is, kan het bestuur het personeelslid doorverwijzen naar de federale medische dienst die bevoegd is voor de eventuele verklaring tot definitieve ongeschiktheid, met het oog op een eventuele vervroegde pensionering om gezondheidsredenen.<br />
+
+### ART. 189.
+
+Het statutaire personeelslid dat tijdens een opdracht bij een buitenlandse regering, een buitenlands openbaar bestuur of een internationale instelling op pensioen wordt gesteld wegens invaliditeit en een pensioenuitkering van die overheid of die instelling ontvangt, kan voor het ziektekrediet, vermeld in artikel 187, is opgebruikt, definitief ongeschikt worden verklaard.<br />
+
+### ART. 190.
+
+§ 1. Een statutair personeelslid dat na een afwezigheid wegens ziekte of ongeval van gemeen recht geschikt wordt geacht om zijn functie weer op te nemen met deeltijdse prestaties, kan toestemming krijgen zijn functie opnieuw op te nemen met een deeltijds uurrooster van ten minste de helft van het normale uurrooster van het betrokken personeelslid. De toestemming wordt verleend voor een periode van ten hoogste drie maanden.<br /><br />Onder dezelfde voorwaarden en op dezelfde wijze als bij het toestaan van de eerste periode van deeltijdse prestaties wegens ziekte kan het bestuur de periode van deeltijdse prestaties wegens ziekte meermaals verlengen met een periode van telkens ten hoogste drie maanden.<br /><br />§ 2. De afwezigheid van het statutaire personeelslid tijdens een periode van deeltijdse prestaties wegens ziekte kan worden beschouwd als ziekteverlof. De afwezigheid wordt dan pro rata aangerekend op het aantal nog beschikbare ziektekredietdagen. De raad kan echter ook bepalen dat die afwezigheid wordt beschouwd als verlof en gelijkgesteld wordt met dienstactiviteit.<br />
+
+### ART. 191.
+
+§ 1. Verlof wegens arbeidsongeschiktheid wordt toegestaan voor de duur van de afwezigheid naar aanleiding van :<br />1° een arbeidsongeval;<br />2° een ongeval op de weg naar en van het werk;<br />3° een ongeval van gemeen recht, veroorzaakt door de schuld van een derde;<br />4° een beroepsziekte;<br />5° de vrijstelling van arbeid van het zwangere personeelslid of het personeelslid dat borstvoeding geeft en dat werkt in een schadelijk arbeidsmilieu, nadat vastgesteld werd dat geen aangepaste of andere arbeidsplaats mogelijk is;<br />6° de dagen afwezigheid wegens ziekte die zich voordoen binnen zes weken voor de werkelijke bevallingsdatum. Bij de geboorte van een meerling wordt die periode verlengd tot acht weken.<br /><br />Die dagen afwezigheid worden niet aangerekend op het beschikbare ziektekrediet, vermeld in artikel 187, behalve voor de toepassing van artikel 188, wat de afwezigheden, vermeld in artikel 191, § 1, 1° tot en met 4°, betreft.<br /><br />§ 2. In de gevallen waarin de afwezigheid door de oorzaken, vermeld in § 1, 1° tot en met 4°, te wijten is aan een verantwoordelijke derde partij, ontvangt het statutaire personeelslid het salaris alleen als voorschot, dat nadien verrekend wordt op de door de derde verschuldigde vergoeding en dat op de derde te verhalen is.<br /><br />Om het salaris als voorschot te kunnen verkrijgen, moet het personeelslid zijn bestuur in alle rechten, vorderingen en rechtsmiddelen laten treden die de getroffene kan doen gelden tegen de persoon die verantwoordelijk is voor het ongeval, tot het bedrag van het salaris.
+
 ## HOOFDSTUK VI. De disponibiliteit
 
 ## Afdeling I. Algemene bepalingen
 
+### ART. 192.
+
+§ 1. De raad kan de statutaire personeelsleden volgens de voorwaarden van dit besluit in disponibiliteit stellen om een van de volgende redenen :<br />1° wegens ambtsopheffing;<br />2° wegens ziekte of invaliditeit;<br />3° zowel wegens ambtsopheffing als wegens ziekte of invaliditeit.<br /><br />§ 2. Als een functie verdwijnt zonder dat de raad in een stelsel van diponibiliteit wegens ambtsopheffing heeft voorzien, blijft het dienstverband bestaan zonder dat het recht op het normale loon wordt gewijzigd. In dat geval zorgt het bestuur voor een nieuwe, evenwaardige dienstaanwijzing, met toepassing van artikel 98, 99, § 1 en 100.<br /><br />§ 3. Als de raad niet in een stelsel van disponibiliteit wegens ziekte voorziet, blijft de gelijkstelling van het ziekteverlof met dienstactiviteit, met inbegrip van het normale recht op loon, voortduren, ook nadat het ziektekrediet vermeld in artikel 188, is opgebruikt.<br />
+
+### ART. 193.
+
+De aanstellende overheid van het betrokken statutaire personeelslid neemt de beslissing om het statutaire personeelslid in disponibiliteit te stellen.<br />
+
+### ART. 194.
+
+Het wachtgeld wordt berekend op de bezoldigingsonderdelen die ook voor de vaststelling van de pensioenen in aanmerking komen.<br />
+
+### ART. 195.
+
+De tijd die een statutair personeelslid doorbrengt in de stand disponibiliteit moet worden aangerekend als werkelijke dienst.<br /><br />Elk statutair personeelslid dat in disponibiliteit werd gesteld, moet aan het uitvoerend orgaan een adres bekendmaken in een van de lidstaten van de Europese Unie, waar hem de beslissingen die op hem betrekking hebben, kunnen worden bezorgd.<br />
+
 ## Afdeling II. De disponibiliteit wegens ziekte of invaliditeit
+
+### ART. 196.
+
+§ 1. Een statutair personeelslid dat geen recht heeft op uitkeringen in het kader van de ziekte- en invaliditeitsverzekering, kan bij afwezigheid wegens ziekte of invaliditeit in disponibiliteit worden gesteld op het ogenblik dat het personeelslid het totale aantal beschikbare ziektekredietdagen, toegekend volgens de bepalingen van zijn rechtspositieregeling, heeft opgebruikt.<br /><br />§ 2. De disponibiliteit wegens ziekte of invaliditeit houdt op telkens als de toestand van ziekte of invaliditeit ophoudt te bestaan, of als het betrokken statutaire personeelslid, al dan niet vervroegd, op pensioen wordt gesteld.<br /><br />Voor de vaststelling en rechtvaardiging van de toestand van ziekte of invaliditeit gelden dezelfde regels als voor een ziek of invalide statutair personeelslid dat zijn beschikbare ziektekrediet nog niet volledig heeft opgebruikt.<br /><br />§ 3. Het statutaire personeelslid dat in disponibiliteit is gesteld wegens ziekte of invaliditeit, behoudt zijn aanspraken op verhoging in salaris.<br />
+
+### ART. 197.
+
+§ 1 Het statutaire personeelslid dat in disponibiliteit is gesteld wegens ziekte of invaliditeit, ontvangt een wachtgeld, gelijk aan 60 % van het laatste activiteitssalaris en de fictieve ontwikkeling daarvan, berekend volgens de regels die van toepassing zouden zijn geweest als het personeelslid nog in effectieve actieve dienst was gebleven.<br /><br />§ 2. Het bedrag van dat wachtgeld mag evenwel in geen geval minder bedragen dan :<br />1° de vergoedingen die betrokkene in dezelfde toestand zou hebben verkregen met toepassing van de regeling voor contractuele werknemers in het kader van de sociale verzekering bij ziekte of invaliditeit;<br />2° het pensioen dat de betrokkene verkregen zou hebben bij vervroegde pensionering op dezelfde dag waarop de toestand van disponibiliteit wegens ziekte of invaliditeit ingaat.<br />
 
 ## Afdeling III. De disponibiliteit wegens ambtsopheffing
 
+### ART. 198.
+
+§ 1. De vast aangestelde statutaire personeelsleden die in disponibiliteit wegens ambtsopheffing zijn gesteld, behouden hun aanspraken op verhoging in salaris. Zij genieten een wachtgeld, gebaseerd op het laatste activiteitssalaris en de fictieve ontwikkeling daarvan, berekend volgens de regels die van toepassing zouden zijn geweest als zij nog in effectieve actieve dienst waren gebleven.<br>
+<br>
+§ 2. Het eerste en het tweede jaar is het wachtgeld gelijk aan het laatste activiteitssalaris en de ontwikkeling ervan, vermeld in § 1. Elk jaar dat daarop volgt wordt het met 20 % verminderd. Het wachtgeld mag echter, binnen de grens van 40/40, niet lager zijn dan zoveel maal 1/40 van het laatste activiteitssalaris als het statutaire personeelslid, op de datum van de indisponibiliteitsstelling wegens ambtsopheffing, jaren werkelijke dienst in de openbare sector heeft.<br>
+<br>
+§ 3. Als tijdens de disponibiliteit wegens ambtsopheffing de organieke salarissen van het personeel worden gewijzigd, dan wordt het wachtgeld aangepast aan het nieuwe fictieve laatste activiteitssalaris, dat zal worden berekend rekening houdend met de omschakelingsprincipes van de herziening van de salarisschalen en uitgaande van het vroegere laatste activiteitssalaris dat als basis heeft gediend om het vroegere wachtgeld te berekenen.<br>
+<br>
+§ 4. In geen geval mag de disponibiliteit wegens ambtsopheffing in het totaal, en al dan niet met onderbroken periodes, de duur van de werkelijke overheidsdiensten van het statutaire personeelslid overtreffen, met inbegrip van de tijdelijke en contractuele diensten in de publieke sector, maar met uitsluiting van de militaire diensten die voor de vermelde overheidsdiensten werden volbracht.<br>
+<br>
+Niemand mag door dezelfde werkgever meer dan tweemaal in disponibiliteit wegens ambtsopheffing worden gesteld.<br>
+&nbsp;
+
+### ART. 199.
+
+§ 1. De statutaire personeelsleden in disponibiliteit wegens ambtsopheffing kunnen opnieuw in actieve dienst worden geroepen. Voor de vacante betrekkingen bij het bestuur waartoe zij behoren, genieten zij de voorkeur, als zij beantwoorden aan de reglementaire voorwaarden om die betrekkingen te verkrijgen. Bij keuzemogelijkheid uit meerdere in disponibiliteit wegens ambtsopheffing gestelde statutaire personeelsleden moet met het aantal dienstjaren en met de voor de vacante betrekking vereiste bijzondere geschiktheden rekening worden gehouden.<br>
+<br>
+§ 2. Als een statutair personeelslid in disponibiliteit wegens ambtsopheffing weer in actieve dienst geroepen wordt, dan moet dat zo spoedig mogelijk gebeuren. Het statutaire personeelslid kan echter het bestuur om een wachttermijn van een maand verzoeken, die ingaat op de eerste dag van de maand die volgt op de maand van ontvangst van de individuele betekening van de beslissing van het bestuur om een einde te stellen aan de disponibiliteit wegens ambtsopheffing door toewijzing van een nieuwe statutaire betrekking.<br>
+<br>
+Als het statutaire personeelslid tijdens zijn indisponibiliteitsstelling een andere beroepsactiviteit heeft gevonden, dan heeft hij recht op een uitstel van maximaal drie maanden, als hij opnieuw in actieve dienst wordt geroepen.
+
 ## HOOFDSTUK VII. [Onbetaald verlof als gunstmaatregel (verv. BVR 2 december 2016, art. 1, I: 1 februari 2017)]
+
+### ART. 200.
+
+Het statutaire personeelslid kan een verlof voor deeltijdse prestaties krijgen.<br /><br />De raad bepaalt in welke gevallen of voor welke categorieën van personeelsleden verlof voor deeltijdse prestaties een recht is. De raad bepaalt in welke gevallen, evenals aan welke categorieën van personeelsleden, verlof voor deeltijdse prestaties kan worden toegestaan. Dat verlof is geen recht, maar kan worden toegestaan als een gunstmaatregel, als de goede werking van de dienst daardoor niet in het gedrang komt.<br />
+
+### ART. 201.
+
+Het ziekteverlof maakt geen einde aan een toegekend stelsel van verlof voor deeltijdse prestaties.<br /><br />Als een feestdag op een dag verlof voor deeltijdse prestaties valt, loopt dat verlof door.<br />
+
+### ART. 202.
+
+De raad bepaalt de omvang en de maximumduur van het verlof voor deeltijdse prestaties. Verlof voor deeltijdse prestaties wordt niet bezoldigd.<br /><br />Het statutaire personeelslid kan voor de aangevraagde termijn verstreken is, een einde stellen aan het verlof voor deeltijdse prestaties. De raad bepaalt de nadere regels voor de termijnen en de praktische wijze van opzegging.<br />
+
+### ART. 203.
+
+De raad kan een vergelijkbare regeling invoeren voor het contractuele personeel.<br />
 
 ## HOOFDSTUK VIII. Het verlof voor opdracht
 
+### ART. 204.
+
+De raad kan voor het vast aangestelde statutaire personeelslid een regeling uitwerken waarbij het verlof kan krijgen om :<br />1° een functie uit te oefenen op een kabinet, of in voorkomend geval bij de entiteiten met politieke functie ter vervanging van het kabinet, van een federaal minister, staatssecretaris of regeringscommissaris, een lid van de regering van een gemeenschap of een gewest, een provinciegouverneur, de gouverneur of de vice-gouverneur van het administratief arrondissement Brussel-Hoofdstad, of de adjunct-gouverneur van de provincie Vlaams-Brabant, een gedeputeerde, een burgemeester of schepen, een Europees commissaris;<br />2° op verzoek van de voorzitter van een erkende politieke groep of fractie, een functie uit te oefenen bij een erkende politieke groep van de wetgevende vergaderingen van de federale overheid, van de gemeenschappen en de gewesten of van de Europese Unie, bij de voorzitter van een dergelijke groep, of bij een erkende fractie van een gemeenteraad of een provincieraad;<br />3° een externe opdracht uit te voeren waarvan de raad het algemeen belang erkent. Onder een dergelijke opdracht wordt in ieder geval verstaan de uitoefening van nationale en internationale opdrachten, aangeboden door een regering of een internationale instelling, en de internationale opdrachten in het raam van ontwikkelingssamenwerking, wetenschappelijk onderzoek of humanitaire hulp.<br />
+
+### ART. 205.
+
+Het verlof is onbezoldigd, tenzij de bezoldiging wettelijk verplicht is.<br />
+
+### ART. 206.
+
+De raad bepaalt voor wie, in welke gevallen, en voor welke duur het verlof wordt gelijkgesteld met dienstactiviteit.<br />
+
+### ART. 207.
+
+De raad bepaalt de nadere algemene regels voor het indienen van de aanvragen en het toekennen van het verlof.<br />
+
+### ART. 208.
+
+In het bijzonder moeten de algemene regels voor de eventuele vroegtijdige opzegging van het verlof worden vastgesteld. Hierbij moet in het bijzonder in redelijke opzegtermijnen worden voorzien.<br />
+
 ## HOOFDSTUK IX. Het omstandigheidsverlof
+
+### ART. 209.
+
+<p>Het personeelslid krijgt omstandigheidsverlof naar aanleiding van de volgende gebeurtenissen :<br>
+<!--[if gte mso 9]><xml><br> <o:DocumentProperties><br>  <o:Author>Decockge</o:Author><br>  <o:Template>Normal</o:Template><br>  <o:LastAuthor>Decockge</o:LastAuthor><br>  <o:Revision>1</o:Revision><br>  <o:TotalTime>7</o:TotalTime><br>  <o:Created>2008-01-04T08:03:00Z</o:Created><br>  <o:LastSaved>2008-01-04T08:10:00Z</o:LastSaved><br>  <o:Pages>1</o:Pages><br>  <o:Words>393</o:Words><br>  <o:Characters>2166</o:Characters><br>  <o:Company>MVG</o:Company><br>  <o:Lines>18</o:Lines><br>  <o:Paragraphs>5</o:Paragraphs><br>  <o:CharactersWithSpaces>2554</o:CharactersWithSpaces><br>  <o:Version>11.6408</o:Version><br> </o:DocumentProperties><br></xml><![endif]--><!--[if gte mso 9]><xml><br> <w:WordDocument><br>  <w:SpellingState>Clean</w:SpellingState><br>  <w:GrammarState>Clean</w:GrammarState><br>  <w:HyphenationZone>21</w:HyphenationZone><br>  <w:DrawingGridHorizontalSpacing>6 pt</w:DrawingGridHorizontalSpacing><br>  <w:DrawingGridVerticalSpacing>8,15 pt</w:DrawingGridVerticalSpacing><br>  <w:DisplayHorizontalDrawingGridEvery>2</w:DisplayHorizontalDrawingGridEvery><br>  <w:DisplayVerticalDrawingGridEvery>2</w:DisplayVerticalDrawingGridEvery><br>  <w:ValidateAgainstSchemas></w:ValidateAgainstSchemas><br>  <w:SaveIfXMLInvalid>false</w:SaveIfXMLInvalid><br>  <w:IgnoreMixedContent>false</w:IgnoreMixedContent><br>  <w:AlwaysShowPlaceholderText>false</w:AlwaysShowPlaceholderText><br>  <w:Compatibility><br>   <w:BreakWrappedTables></w:BreakWrappedTables><br>   <w:SnapToGridInCell></w:SnapToGridInCell><br>   <w:WrapTextWithPunct></w:WrapTextWithPunct><br>   <w:UseAsianBreakRules></w:UseAsianBreakRules><br>   <w:UseWord2002TableStyleRules></w:UseWord2002TableStyleRules><br>  </w:Compatibility><br>  <w:BrowserLevel>MicrosoftInternetExplorer4</w:BrowserLevel><br> </w:WordDocument><br></xml><![endif]--><!--[if gte mso 9]><xml><br> <w:LatentStyles DefLockedState="e;false"e; LatentStyleCount="e;156"e;><br> </w:LatentStyles><br></xml><![endif]--><!--[if gte mso 10]><br><style><br> /* Style Definitions */<br> table.MsoNormalTable<br>	&lftaco;mso-style-name:Standaardtabel;<br>	mso-tstyle-rowband-size:0;<br>	mso-tstyle-colband-size:0;<br>	mso-style-noshow:yes;<br>	mso-style-parent:"e;"e;;<br>	mso-padding-alt:0cm 5.4pt 0cm 5.4pt;<br>	mso-para-margin:0cm;<br>	mso-para-margin-bottom:.0001pt;<br>	mso-pagination:widow-orphan;<br>	font-size:10.0pt;<br>	font-family:"e;Times New Roman"e;;<br>	mso-ansi-language:#0400;<br>	mso-fareast-language:#0400;<br>	mso-bidi-language:#0400;&rgtaco;<br></style><br><![endif]--><!--[if gte mso 9]><xml><br> <o:shapedefaults v:ext="e;edit"e; spidmax="e;2050"e;></o:shapedefaults><br></xml><![endif]--><!--[if gte mso 9]><xml><br> <o:shapelayout v:ext="e;edit"e;><br>  <o:idmap v:ext="e;edit"e; data="e;1"e;></o:idmap><br> </o:shapelayout></xml><![endif]--></p>
+
+<table border="1" cellpadding="0" cellspacing="0" class="MsoNormalTable" style="border-bottom:medium none; border-collapse:collapse; border-left:medium none; border-right:medium none; border-top:medium none; mso-border-alt:solid black .75pt; mso-border-insideh:.75pt solid black; mso-border-insidev:.75pt solid black; mso-padding-alt:0cm 5.4pt 0cm 5.4pt; mso-yfti-tbllook:1184; width:383.4pt">
+	<tbody>
+		<tr>
+			<td style="background-color:transparent; height:14.2pt; width:263.4pt">
+			<p style="margin-left:0cm; margin-right:0cm; text-align:justify">1° huwelijk van het personeelslid of het afleggen van een verklaring van wettelijke samenwoning door het personeelslid, vermeld in artikel 1475 tot en&nbsp; met 1479 van het Burgerlijk Wetboek, met uitzondering van het afleggen van&nbsp; een verklaring van samenwoning van bloed- of aanverwanten : <!--?xml:namespace prefix = o ns =         "urn:schemas-microsoft-com:office:office" /--></p>
+			</td>
+			<td style="background-color:transparent; height:14.2pt; width:120pt">
+			<p style="margin-left:0cm; margin-right:0cm; text-align:justify">4 werkdagen</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; height:14.2pt; width:263.4pt">
+			<p style="margin-left:0cm; margin-right:0cm; text-align:justify">2° bevalling van de echtgenote of samenwonende partner, of ter gelegenheid van de geboorte van een kind dat wettelijk afstamt van de werknemer :</p>
+			</td>
+			<td style="background-color:transparent; height:14.2pt; width:120pt">
+			<p style="margin-left:0cm; margin-right:0cm; text-align:justify">10 werkdagen</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; height:14.2pt; width:263.4pt">
+			<p style="margin-left:0cm; margin-right:0cm; text-align:justify">3° overlijden van de samenwonende of huwelijkspartner, een bloed- of&nbsp; aanverwant in de eerste graad van het personeelslid, of van de samenwonende of huwelijkspartner:</p>
+			</td>
+			<td style="background-color:transparent; height:14.2pt; width:120pt">
+			<p style="margin-left:0cm; margin-right:0cm; text-align:justify">4 werkdagen</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; height:14.2pt; width:263.4pt">
+			<p style="margin-left:0cm; margin-right:0cm; text-align:justify">4° huwelijk van een kind van het personeelslid, van de samenwonende of huwelijkspartner:</p>
+			</td>
+			<td style="background-color:transparent; height:14.2pt; width:120pt">
+			<p style="margin-left:0cm; margin-right:0cm; text-align:justify">2 werkdagen</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; height:14.2pt; width:263.4pt">
+			<p style="margin-left:0cm; margin-right:0cm; text-align:justify">5° overlijden van een bloed- of aanverwant van het personeelslid of de samenwonende partner in om het even welke graad, die onder hetzelfde dak woont als het personeelslid of de samenwonende partner:</p>
+			</td>
+			<td style="background-color:transparent; height:14.2pt; width:120pt">
+			<p style="margin-left:0cm; margin-right:0cm; text-align:justify">2 werkdagen</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; height:14.2pt; width:263.4pt">
+			<p style="margin-left:0cm; margin-right:0cm; text-align:justify">6° overlijden van een bloed- of aanverwant van het personeelslid of de samenwonende partner in de tweede graad, een overgrootouder of een achterkleinkind, niet onder hetzelfde dak wonend als het personeelslid of de samenwonende partner:</p>
+			</td>
+			<td style="background-color:transparent; height:14.2pt; width:120pt">
+			<p style="margin-left:0cm; margin-right:0cm; text-align:justify">1 werkdag</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; height:14.2pt; width:263.4pt">
+			<p style="margin-left:0cm; margin-right:0cm; text-align:justify">7° huwelijk van een bloed- of aanverwant:</p>
+
+			<p style="margin-left:0cm; margin-right:0cm; text-align:justify">a) in de eerste graad, die geen kind is;</p>
+
+			<p style="margin-left:0cm; margin-right:0cm; text-align:justify">b) in de tweede graad, van het personeelslid, de samenwonende of huwelijkspartner:</p>
+			</td>
+			<td style="background-color:transparent; height:14.2pt; width:120pt">
+			<p style="margin-left:0cm; margin-right:0cm; text-align:justify">de dag van het huwelijk</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; height:14.2pt; width:263.4pt">
+			<p style="margin-left:0cm; margin-right:0cm; text-align:justify">8° priesterwijding of intrede in het klooster van een kind van de werknemer, van de samenwonende of huwelijkspartner, of van een broer, zuster, schoonbroer of schoonzuster van de werknemer:</p>
+			</td>
+			<td style="background-color:transparent; height:14.2pt; width:120pt">
+			<p style="margin-left:0cm; margin-right:0cm; text-align:justify">de dag van de rooms-katholieke plechtigheid of een daarmee overeenstemmende plechtigheid bij een andere erkende eredienst</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; height:14.2pt; width:263.4pt">
+			<p style="margin-left:0cm; margin-right:0cm; text-align:justify">9° plechtige communie van een kind van de werknemer of van de samenwonende of huwelijkspartner;</p>
+
+			<p style="margin-left:0cm; margin-right:0cm; text-align:justify">deelneming van een kind van de werknemer of van de samenwonende of huwelijkspartner aan het feest van de vrijzinnige jeugd;</p>
+
+			<p style="margin-left:0cm; margin-right:0cm; text-align:justify">deelneming van een kind van de werknemer of van de samenwonende of huwelijkspartner aan een plechtigheid in het kader van een erkende eredienst die overeenstemt met de rooms-katholieke plechtige communie:</p>
+			</td>
+			<td style="background-color:transparent; height:14.2pt; width:120pt">
+			<p style="margin-left:0cm; margin-right:0cm; text-align:justify">de dag van de plechtigheid, of, als dat een zondag, feestdag of inactiviteitsdag is, de eerstvolgende werkdag</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; height:14.2pt; width:263.4pt">
+			<p style="margin-left:0cm; margin-right:0cm; text-align:justify">10° gehoord worden door de vrederechter in het kader van de organisatie van de voogdij over een minderjarige:</p>
+			</td>
+			<td style="background-color:transparent; height:14.2pt; width:120pt">
+			<p style="margin-left:0cm; margin-right:0cm; text-align:justify">de nodige tijd, maximaal één dag</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; height:14.2pt; width:263.4pt">
+			<p style="margin-left:0cm; margin-right:0cm; text-align:justify">11° deelneming aan een assisenjury, oproeping als getuige voor de rechtbank of persoonlijke verschijning op aanmaning van de arbeidsrechtbank:</p>
+			</td>
+			<td style="background-color:transparent; height:14.2pt; width:120pt">
+			<p style="margin-left:0cm; margin-right:0cm; text-align:justify">de nodige tijd</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+<p>&nbsp;</p>
+
+<p style="margin-left:0cm; margin-right:0cm">&nbsp;</p>
+
+<p>De raad bepaalt de nadere algemene regels voor het indienen van de aanvragen en het toekennen van het verlof.<br>
+<br>
+Het omstandigheidsverlof wordt gelijkgesteld met dienstactiviteit en is in alle gevallen bezoldigd, met uitzondering van een deel van het vaderschapsverlof voor contractuele personeelsleden in de gevallen die hierna omschreven worden.<br>
+<br>
+Voor het contractuele personeelslid wordt het verlof ter gelegenheid van de geboorte van een kind waarvan de afstamming aan zijn zijde vaststaat, vermeld in 2°, toegekend volgens de regels van het arbeidsrecht, in het bijzonder volgens de regeling, vermeld in artikel 30, § 2, van de wet van 3 juli 1978 op de arbeidsovereenkomsten.</p>
 
 ## HOOFDSTUK X. [Onbetaald verlof als recht (verv. BVR 2 december 2016, art. 4, I: 1 februari 2017)]
 
+### ART. 210.
+
+§ 1. Het personeelslid kan in principe in aanmerking komen voor de volgende contingenten onbetaalde verloven :<br />1° twintig werkdagen per kalenderjaar, te nemen in volledige of halve dagen en al dan niet aaneensluitende perioden. Die dagen worden niet bezoldigd;<br />2° twee jaar gedurende de loopbaan, te nemen in periodes van minimaal één maand. Die periodes worden niet bezoldigd.<br /><br />§ 2. De raad bepaalt de algemene regels voor de toekenning van dit onbezoldigde verlof. In het bijzonder kan de raad bepalen in welke gevallen en voor welke personeelsleden of categorieën van personeelsleden dit verlof een recht is, evenals in welke gevallen sommige personeelsleden of categorieën van personeelsleden niet in aanmerking kunnen komen voor het onbetaalde verlof. De raad bepaalt eveneens dat het personeelslid tegen de weigering van onbetaald verlof bezwaar kan indienen bij de raad of bij het uitvoerend orgaan en kan verzoeken om gehoord te worden. De raad bepaalt de algemene procedureregels.<br /><br />§ 3. Het personeelslid op proef komt niet in aanmerking voor dit onbezoldigde verlof.<br /><br />
+
+### ART. 211.
+
+Als een vast aangesteld statutair personeelslid binnen de diensten van het bestuur een contractuele betrekking opneemt, een mandaat, een tijdelijke aanstelling of een andere functie waaraan een proeftijd verbonden is, dan wordt voor maximaal de duur van het mandaat, de aanstelling of de proeftijd ambtshalve onbetaald verlof toegestaan.<br /><br />De raad kan bepalen dat het vast aangestelde statutaire personeelslid dat een mandaat opneemt bij een ander bestuur, ambtshalve onbetaald verlof krijgt voor de duur van het mandaat, vermeld in artikel 81, eerste lid. Hij kan ook bepalen dat het onbetaalde verlof verlengbaar is bij een verlenging van het mandaat, als vermeld in artikel 81, tweede lid.<br />
+
 ## HOOFDSTUK XI. De dienstvrijstellingen
+
+### ART. 212.
+
+Het personeelslid krijgt dienstvrijstelling :<br />1° als vrijwilliger van een brandweerkorps of korps voor burgerlijke bescherming, voor dringende hulpverlening;<br />2° als actieve vrijwilliger van het Rode Kruis of van het Vlaamse Kruis a rato van telkens maximaal vijf werkdagen per jaar.<br />
+
+### ART. 213.
+
+Het personeelslid dat als voorzitter, bijzitter of secretaris van een stembureau, een stemopnemingsbureau, of een hoofdstembureau optreedt bij de verkiezingen, heeft recht op dienstvrijstelling :<br />1° de dag van de verkiezingen, als hij dan moest werken;<br />2° als lid van een hoofdstembureau : de nodige tijd om de bij de kieswetgeving voorgeschreven vergaderingen van de hoofdbureaus bij te wonen.<br />
+
+### ART. 214.
+
+Het personeelslid krijgt dienstvrijstelling voor het afstaan van :<br />1° beenmerg a rato van maximaal vier werkdagen per afname;<br />2° organen of weefsels voor de benodigde duur van de onderzoeken, de ziekenhuisopname en het herstel.<br />
+
+### ART. 215.
+
+Het personeelslid krijgt één dag dienstvrijstelling om bloed, plasma of bloedplaatjes te geven, maximaal één dag per maand.<br />
+
+### ART. 216.
+
+Het vrouwelijke personeelslid krijgt dienstvrijstelling voor borstvoeding op het werk a rato van de benodigde tijd, en voor prenatale onderzoeken tijdens de diensturen gedurende de zwangerschap.<br />
+
+### ART. 217.
+
+De raad kan bepalen dat de personeelsleden dienstvrijstelling krijgen voor de duur van medische onderzoeken die niet buiten de diensturen kunnen plaatshebben.<br />
+
+### ART. 218.
+
+De raad bepaalt de algemene wijze waarop de dienstvrijstellingen aangevraagd en opgenomen moeten worden.<br /><br />De raad kan nog andere dienstvrijstellingen regelen en bepaalt onder meer ook wie bevoegd is voor de toekenning van de dienstvrijstellingen die niet vermeld zijn in dit besluit.
 
 ## TITEL X. De salarisschalen van de secretarissen en de ontvangers van de openbare centra voor maatschappelijk welzijn
 
@@ -3856,19 +5206,576 @@ De periodieke salarisverhogingen van de secretaris en van de ontvanger van het o
 
 ## Afdeling I. Opheffingsbepalingen met betrekking tot het gemeentepersoneel en het provinciepersoneel
 
+### ART. 221.
+
+In het koninklijk besluit van 26 december 1938 betreffende de pensioenregeling van het gemeentepersoneel worden de volgende artikelen opgeheven :<br />1° artikel 35, gewijzigd bij het koninklijk besluit van 23 december 1969;<br />2° artikel 36 tot en met 67.<br />
+
+### ART. 222.
+
+De volgende regelgevende teksten worden opgeheven :<br />1° het koninklijk besluit van 19 april 1962 betreffende de toekenning van een toelage wegens uitoefening van hogere functies aan het provinciaal en gemeentelijk personeel, gewijzigd bij het koninklijk besluit van 6 april 1972;<br />2° het koninklijk besluit van 19 april 1962 betreffende de toekenning van een vergoeding voor huisvesting aan het provinciaal en gemeentelijk personeel;<br />3° het koninklijk besluit van 12 februari 1963 betreffende de toekenning van een vergoeding wegens buitengewone prestaties aan het provincie- en gemeentepersoneel, gewijzigd bij de koninklijke besluiten van 15 juni 1970, 8 juni 1971, 16 oktober 1975 en 21 augustus 1979;<br />4° het koninklijk besluit van 21 juni 1965 inzake vergoeding wegens verblijfskosten, toegekend aan het provincie- en gemeentepersoneel, gewijzigd bij de koninklijke besluiten van 18 februari 1974 en 29 augustus 1991;<br />5° het koninklijk besluit van 21 december 1965 betreffende het toekennen van een vergoeding wegens begrafeniskosten in geval van overlijden van sommige leden van het provincie- of gemeentepersoneel, gewijzigd bij de koninklijke besluiten van 8 mei 1973, 22 juli 1975 en 27 november 1985;<br />6° het koninklijk besluit van 29 december 1965 houdende de algemene regeling inzake reiskosten, gemaakt voor dienstreizen van het provincie- en gemeentepersoneel, gewijzigd bij het koninklijk besluit van 18 april 1985;<br />7° het koninklijk besluit van 18 januari 1974 tot vaststelling van de algemene bepalingen betreffende de toekenning van een diplomabijslag aan sommige personeelsleden van de provincies, gemeenten, agglomeraties en federaties van gemeenten, gewijzigd bij de koninklijke besluiten van 29 januari 1990, 6 maart 1991, 31 maart 1993 en 20 juni 1994;<br />8° het koninklijk besluit van 15 januari 1975 tot vaststelling van de algemene bepalingen betreffende de toekenning van een toelage voor nachtwerk aan sommige personeelsleden van de provincies, de gemeenten, de agglomeraties van gemeenten en de federaties van gemeenten, gewijzigd bij de koninklijke besluiten van 11 januari 1989, 2 juni 1989 en 20 juni 1994;<br />9° het koninklijk besluit van 1 oktober 1975 tot vaststelling van de algemene bepalingen betreffende de tegemoetkoming van de provincies, de gemeenten, de agglomeraties van gemeenten en de federaties van gemeenten in sommige vervoerskosten van hun personeelsleden;<br />10° het koninklijk besluit van 3 december 1975 tot vaststelling van de grens van de algemene bepalingen betreffende de geldelijke valorisatie van de vroegere diensten die in de overheidssector door sommige leden van het provincie- en het gemeentepersoneel werden verricht, gewijzigd bij het koninklijk besluit van 27 november 1985;<br />11° het koninklijk besluit van 17 november 1976 tot vaststelling van de grens van de algemene bepalingen betreffende de toekenning van een toelage voor gevaarlijk, ongezond of hinderlijk werk aan sommige personeelsleden van de provincies en de gemeenten;<br />12° het koninklijk besluit van 12 april 1977 tot vaststelling van de algemene bepalingen betreffende de inaanmerkingneming van de diensten door sommige personeelsleden van de provincies, gemeenten en agglomeraties van gemeenten, verricht in de privésector, in de hoedanigheid van door de openbare besturen tewerkgestelde werkloze of als stagiair krachtens de wetgeving op de stage van jongeren;<br />13° het koninklijk besluit van 2 juni 1977 tot vaststelling van de grens van de algemene bepalingen betreffende de toekenning van een reisvergoeding aan sommige personeelsleden van de gemeenten, betrokken bij een samenvoeging, een aanhechting of een wijziging van gebiedsgrenzen na 31 december 1976, gewijzigd bij het koninklijk besluit van 4 december 1978;<br />14° het koninklijk besluit van 2 juni 1977 tot vaststelling van de algemene bepalingen betreffende de bezoldigingsregeling van de personeelsleden der provincies en gemeenten die verlof voor de opvang met het oog op adoptie of pleegvoogdij genieten;<br />15° het koninklijk besluit van 23 december 1977 tot vaststelling van het aantal mindervaliden dat door de provincies, de gemeenten, de verenigingen van gemeenten en de agglomeraties van gemeenten moet worden tewerkgesteld;<br />16° het koninklijk besluit van 28 november 1990 houdende vaststelling van de algemene bepalingen betreffende de toekenning van maaltijdcheques aan sommige personeelsleden van de provincies en de gemeenten;<br />17° het koninklijk besluit van 12 februari 1993 tot vaststelling van de algemene bepalingen betreffende de bezoldiging door de provincies en de gemeenten van sommige personeelsleden die met bevallingsverlof zijn;<br />18° het besluit van de Vlaamse Regering van 10 februari 2006 houdende de minimale voorwaarden voor het mandaatstelsel van het gemeentepersoneel en het provinciepersoneel en bepaling over de taalpremie.<br />
+
 ## Afdeling II. Opheffingsbepaling met betrekking tot de secretaris en ontvanger van de openbare centra voor maatschappelijk welzijn
+
+### ART. 223.
+
+In het koninklijk besluit van 20 juli 1993 tot vaststelling van de algemene bepalingen inzake het administratief en geldelijk statuut van de secretarissen en de ontvangers van de openbare centra voor maatschappelijk welzijn worden de volgende bepalingen opgeheven :<br />1° artikel 3, 2° en 3°, b) ;<br />2° artikel 4;<br />3° artikel 5, 2° en 3°;<br />4° artikel 6;<br />5° artikel 7;<br />6° artikel 9 tot en met artikel 15;<br />7° artikel 16 en 17;<br />8° artikel 18.<br />
 
 ## HOOFDSTUK II. Overgangsbepalingen
 
 ## Afdeling I. Geldelijke waarborgen
 
+### ART. 224.
+
+Het statutaire personeelslid in dienst dat na 1 januari 1994 op grond van de plaatselijke rechtspositieregeling zijn vroegere salarisschaal, al dan niet aangevuld met een bepaalde toelage of bijslag, heeft behouden, behoudt die salarisschaal en die toelage of bijslag ook na de plaatselijke uitvoering van dit besluit, zolang die regeling gunstiger is dan de salarisschaal die het met toepassing van dit besluit zou hebben. De raad neemt de salarisschaal en de eventuele toelage of bijslag van het personeelslid in de overgangsregeling op in de plaatselijke rechtspositieregeling, evenals de organieke salarisschaal waarin het personeelslid ingeschaald werd.<br />
+
+### ART. 225.
+
+Het statutaire personeelslid in dienst dat op het ogenblik van de plaatselijke uitvoering van dit besluit, voorheen op grond van de plaatselijke rechtspositieregeling, een salarisschaal en een functionele loopbaan had die niet opgenomen zijn in artikel 111, behoudt die salarisschaal en functionele loopbaan zolang het aangesteld is in de graad waarmee die salarisschaal en die functionele loopbaan in de vorige plaatselijke rechtspositieregeling verbonden waren.<br />
+
+### ART. 226.
+
+De gemeentesecretaris in dienst en de financieel beheerder van de gemeente in dienst, die na een klasseverhoging met toepassing van artikel 29 van de Nieuwe Gemeentewet een hogere salarisschaal hebben gekregen, behouden die salarisschaal op persoonlijke titel zolang die gunstiger is dan de salarisschaal die ze met toepassing van artikel 122 of artikel 124 zouden krijgen.<br /><br />De secretaris in dienst en de ontvanger in dienst van de openbare centra voor maatschappelijk welzijn die na een klasseverhoging met toepassing van artikel 29 van de Nieuwe Gemeentewet een hogere salarisschaal hebben gekregen, behouden die salarisschaal op persoonlijke titel zolang die gunstiger is dan de salarisschaal die ze met toepassing van artikel 219, § 1 of § 2 zouden krijgen.<br />
+
+### ART. 227.
+
+Het statutaire personeelslid in dienst dat voorheen met toepassing van het koninklijk besluit van 17 november 1976 tot vaststelling van de grens van de algemene bepalingen betreffende de toekenning van een toelage voor gevaarlijk, ongezond of hinderlijk werk aan sommige personeelsleden van de provincies en de gemeenten voor occasionele gevaarlijke of hinderlijke werken een toelageregeling genoot die gunstiger is dan de regeling, vermeld in artikel 146, behoudt die gunstigere regeling ook na de datum van de plaatselijke uitvoering van dit besluit.<br />
+
+### ART. 228.
+
+Het statutaire personeelslid dat met toepassing van artikel 18 van het besluit van de Vlaamse Regering van 10 februari 2006 houdende de minimale voorwaarden voor het mandaatstelsel van het gemeentepersoneel en het provinciepersoneel en bepaling over de taalpremie in overgangsregeling de taalpremie heeft behouden, behoudt ook bij de plaatselijke uitvoering van dit besluit die taalpremie in overgangsregeling.
+
+### ART. 229.
+
+De raad kan bepalen dat het statutaire personeelslid in dienst dat op grond van de plaatselijke rechtspositieregeling een vergoeding heeft gekregen voor niet-gemotoriseerde verplaatsingen van en naar het werk, die vergoeding op persoonlijke titel behoudt na de plaatselijke uitvoering van dit besluit.<br />
+
 ## Afdeling II. De plaatselijke uitvoering van het besluit en diverse lopende procedures en lopende periodes
+
+### ART. 230.
+
+Procedures van aanwerving, bevordering of interne personeelsmobiliteit die opgestart zijn voor de datum van de plaatselijke uitvoering van dit besluit, worden afgewerkt in overeenstemming met de regels die van toepassing waren op het ogenblik dat ze werden opgestart.<br />
+
+### ART. 231.
+
+De procedureregels die van toepassing waren bij de start van de evaluatieperiode die doorloopt na de datum van de plaatselijke uitvoering van dit besluit, blijven van toepassing op die lopende evaluatieperiode, met uitzondering van bestaande plaatselijke regels over het interne beroep tegen de ongunstige evaluatie bij het college van burgemeester en schepenen of de deputatie.<br /><br />Als de raad de andere positieve en negatieve gevolgen van de evaluatie, vermeld in artikel 48, in de plaatselijke rechtspositieregeling invoert, of de bestaande termijn voor de toepassing van het ontslag verkort, dan bepaalt hij tegelijk dat die gevolgen en die termijn pas van toepassing zijn op de eerstvolgende evaluatieperiode die volgt op de invoering ervan in de plaatselijke rechtspositieregeling. Negatieve evaluatieresultaten die personeelsleden hebben gekregen voor de vorige evaluatieperiodes, tellen in dat geval niet mee voor de ontslagmogelijkheid.<br />
+
+### ART. 232.
+
+Het statutaire personeelslid in dienst behoudt na de datum van de plaatselijke uitvoering van dit besluit de verloven en afwezigheden die voordien aan hem werden toegekend, voor de duur en volgens de regels die geldig waren op het ogenblik van de toekenning. Aanvragen tot verlenging of vernieuwing van een verlof of afwezigheid worden beschouwd als een nieuwe aanvraag en worden behandeld in overeenstemming met de nieuwe reglementaire bepalingen.<br /><br />Het statutaire personeelslid in disponibiliteit wegens ziekte of invaliditeit en het statutaire personeelslid in disponibiliteit wegens ambtsopheffing die op de datum van de plaatselijke uitvoering van dit besluit een regeling voor het wachtgeld genieten die gunstiger is dan de regeling die ze zouden krijgen met toepassing van de nieuwe reglementaire bepalingen, behouden die regeling voor de verdere duur van de lopende periode van disponibiliteit.<br />
+
+### ART. 233.
+
+De raad kan bepalen dat de overgangsbepalingen die met toepassing van artikel 17 van het besluit van de Vlaamse Regering van 10 februari 2006 houdende de minimale voorwaarden voor het mandaatstelsel van het gemeentepersoneel en het provinciepersoneel en bepaling over de taalpremie werden vastgesteld voor de mandaatperiodes die op 1 januari 2006 lopende waren, van toepassing blijven op de statutaire mandaathouders die op die datum al in dienst waren.<br /><br />De mandaathouder die na 1 januari 2006 met toepassing van artikel 6 van het genoemde besluit van de Vlaamse Regering op grond van de plaatselijke rechtspositieregeling voor tien jaar of langer in de mandaatfunctie werd aangesteld, behoudt de duur van die aanstelling ook bij de plaatselijke uitvoering van dit besluit voor de lopende mandaatperiode.<br /><br />
+
+### ART. 234.
+
+Het statutaire personeelslid dat op de datum van de plaatselijke uitvoering van dit besluit, voorheen op grond van de plaatselijke rechtspositieregeling, ingeschakeld was in een stelsel van ziektekrediet dat hem bij de aanvang van de loopbaan een totaal ziektekrediet van 666 ziektedagen heeft toegekend, behoudt, in afwijking van artikel 187, zijn vorige ziektekredietregeling op persoonlijke titel.
 
 ## Afdeling III. Specifieke bepalingen
 
+### ART. 235.
+
+Zolang artikel 76, § 1, eerste lid, van het gemeentedecreet van 15 juli 2005 niet in werking is getreden en artikel 23 van de Nieuwe Gemeentewet niet is opgeheven, wordt « gemeentesecretaris » in dit besluit gelezen als « secretaris » en wordt « financieel beheerder » in dit besluit gelezen als « ontvanger ».<br />
+
+### ART. 236.
+
+De statutair tijdelijke personeelsleden en de statutair tijdelijke werklieden die op het ogenblik van de plaatselijke uitvoering van dit besluit in overgangsregeling nog in de hoedanigheid van statutair tijdelijke in dienst zijn, zijn onderworpen aan de bepalingen die van toepassing zijn op het vast aangestelde statutaire personeelslid, voor zover die bepalingen verenigbaar zijn met de federale bepalingen over de socialezekerheidsregeling voor statutair tijdelijke personeelsleden.<br />
+
+### ART. 237.
+
+Alle plaatselijke reglementaire bepalingen over de personeelsformatie, de rechtspositieregeling en het mandaatstelsel moeten uiterlijk op 1 januari 2009 met de bepalingen van dit besluit in overeenstemming gebracht zijn of opgeheven zijn.<br /><br />Zolang de raad de bepaling in het eerste lid niet heeft uitgevoerd, blijven de bestaande plaatselijke reglementaire bepalingen over de rechtspositieregeling en het mandaatstelsel van kracht voor zover ze niet strijdig zijn met een andere wettelijke bepaling. Eventuele wijzigingen die voor 1 januari 2009 aangebracht worden aan die bestaande reglementaire bepalingen, moeten in overeenstemming zijn met de bepalingen van dit besluit.<br /><br />Als de personeelsformatie na de datum van inwerkingtreding van dit besluit en voor 1 januari 2009 gewijzigd wordt, dan wordt ze tegelijk volledig vastgesteld in overeenstemming met de bepalingen van titel II.<br />
+
 ## HOOFDSTUK III. Inwerkingtredingsbepalingen
 
+### ART. 238.
+
+Artikel 303, 9°, van het gemeentedecreet van 15 juni 2005 treedt in werking op 1 januari 2008.<br />
+
+### ART. 239.
+
+Artikel 262, 4°, van het provinciedecreet van 9 december 2005 treedt in werking op 1 januari 2008.<br />
+
+### ART. 240.
+
+Dit besluit treedt in werking op 1 januari 2008, met uitzondering van :<br />1° artikel 122 en artikel 124, die uitwerking hebben met ingang van 1 januari 2007;<br />2° artikel 219, 220 en 223,7°, die uitwerking hebben met ingang van 1 januari 2007.<br />
+
+### ART. 241.
+
+De Vlaamse minister, bevoegd voor de binnenlandse aangelegenheden, is belast met de uitvoering van dit besluit.<br />
+
 ## Bijlage I: Diplomavoorwaarden
+
+### BIJLAGE
+
+<p>Bijlage I. - Diplomavoorwaarden<br>
+<br>
+1. De volgende diploma’s en getuigschriften worden, naargelang van het administratieve niveau, in aanmerking genomen voor aanwerving :<br>
+<br>
+Niveau A:<br>
+</p>
+
+<table border="1" cellpadding="0" cellspacing="0" style="border-collapse:collapse">
+	<tbody>
+		<tr>
+			<td colspan="2" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; height:14.2pt; width:431.4pt">
+			<p>academisch gerichte masterdiploma’s die uitgereikt zijn door :<!--?xml:namespace prefix = o ns =         "urn:schemas-microsoft-com:office:office" /--></p>
+
+			<p>- de Belgische universiteiten, met inbegrip van de aan die universiteiten verbonden scholen, of de bij wet of bij decreet daarmee gelijkgestelde instellingen;</p>
+
+			<p>- een door de Staat of door een van de gemeenschappen opgerichte, gesubsidieerde of erkende instelling voor hoger onderwijs;</p>
+
+			<p>- een door de Staat of door een van de gemeenschappen ingestelde examencommissie.</p>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="2" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; width:431.4pt">
+			<p>&nbsp;</p>
+
+			<p>Niveau A (overgangsmaatregel):</p>
+
+			<p>&nbsp;</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; vertical-align:top; width:29.4pt">
+			<p>a)</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; vertical-align:top; width:402pt">
+			<p>diploma’s van licentiaat, doctor, apotheker, burgerlijk ingenieur, landbouwkundig ingenieur, ingenieur voor de scheikunde en de landbouwindustrieën, handelsingenieur, burgerlijk ingenieur-architect, bio-ingenieur, arts, tandarts of dierenarts, uitgereikt door de Belgische universiteiten, met inbegrip van de aan die universiteiten verbonden scholen, of door de bij wet of bij decreet daarmee gelijkgestelde instellingen, als de studie ten minste vier jaar heeft omvat, zelfs als een gedeelte van die studie niet in een van de voormelde onderwijsinstellingen werd volbracht of als de examens niet werden afgelegd bij een door de Staat of door een van de gemeenschappen ingestelde examencommissie;</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; vertical-align:top; width:29.4pt">
+			<p>b)</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; vertical-align:top; width:402pt">
+			<p>diploma’s van licentiaat in de handelswetenschappen, van handelsingenieur, van licentiaat in de bestuurskunde, van licentiaat-vertaler, van licentiaat-tolk, van licentiaat in de nautische wetenschappen, van industrieel ingenieur, van architect of van licentiaat in de toegepaste communicatie, van licentiaat in de kinesitherapie en van licentiaat in de arbeidsorganisatie en gezondheid, uitgereikt door een door de Staat of door een van de gemeenschappen opgerichte, gesubsidieerde of erkende instelling voor hoger onderwijs van twee cycli of door een door de Staat of door een van de gemeenschappen ingestelde examencommissie;</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; vertical-align:top; width:29.4pt">
+			<p>c)</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; vertical-align:top; width:402pt">
+			<p>diploma’s van interieurarchitect, licentiaat in de productontwikkeling, meester in de muziek of in de beeldende kunst of in de dramatische kunst of in de audiovisuele kunst of in het productdesign of in de conservatie-restauratie, uitgereikt door een door de Vlaamse Gemeenschap opgerichte, gesubsidieerde of erkende instelling van het hoger onderwijs van twee cycli of door een door die gemeenschap ingestelde examencommissie;</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; vertical-align:top; width:29.4pt">
+			<p>d)</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; vertical-align:top; width:402pt">
+			<p>getuigschriften, uitgereikt aan degenen die geslaagd zijn voor de studie aan de polytechnische afdeling of aan de afdeling Alle Wapens van de Koninklijke Militaire School en die krachtens de wet van 11 september 1933 op de bescherming van de titels van het hoger onderwijs gerechtigd zijn tot het voeren van de titel van burgerlijk ingenieur of van licentiaat, met de door de koning bepaalde kwalificatie;</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; vertical-align:top; width:29.4pt">
+			<p>e)</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; vertical-align:top; width:402pt">
+			<p>diploma uitgereikt door de Koloniale Hogeschool van België in Antwerpen, of licentiaatsdiploma, uitgereikt door het Universitair Instituut voor Overzeese Gebieden in Antwerpen als de studie ten minste vier jaar heeft omvat;</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; vertical-align:top; width:29.4pt">
+			<p>f)</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; vertical-align:top; width:402pt">
+			<p>diploma van licentiaat in de handelswetenschappen, in de bestuurswetenschappen, van handelsingenieur, van licentiaat-vertaler of van licentiaat-tolk, uitgereikt door instellingen van hoger technisch onderwijs van de derde graad of door instellingen van technisch onderwijs, gerangschikt als handelshogescholen categorie A5, of door een door de Staat ingestelde examencommissie;</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; vertical-align:top; width:29.4pt">
+			<p>g)</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; vertical-align:top; width:402pt">
+			<p>diploma of eindgetuigschift, uitgereikt na een cyclus van vijf jaar door de afdeling Bestuurswetenschappen van het Institut d’enseignement supérieur Lucien Cooremans in Brussel of door het Hoger Instituut voor Bestuurs- en Handelswetenschappen in Elsene of door het Provinciaal Hoger Instituut voor Bestuurswetenschappen in Antwerpen.</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p>Niveau B:<br>
+</p>
+
+<table border="1" cellpadding="0" cellspacing="0" style="border-collapse:collapse">
+	<tbody>
+		<tr>
+			<td colspan="2" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; height:14.2pt; width:431.4pt">
+			<p>a) bachelordiploma’s die uitgereikt zijn door:</p>
+
+			<p>- een door de Staat of door een van de gemeenschappen opgerichte, gesubsidieerde of erkende instelling voor hoger onderwijs;</p>
+
+			<p>- een door de Staat of door een van de gemeenschappen ingestelde examencommissie;</p>
+
+			<p>b) diploma’s van een afdeling van het hoger onderwijs voor sociale promotie van één cyclus, uitgereikt door een instelling, opgericht, gesubsidieerd of erkend door de Staat of door een van de gemeenschappen.</p>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="2" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; width:431.4pt">
+			<p>&nbsp;</p>
+
+			<p>Niveau B (overgangsmaatregel):</p>
+
+			<p>&nbsp;</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; vertical-align:top; width:29.4pt">
+			<p>a)</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; vertical-align:top; width:402pt">
+			<p>getuigschrift, diploma of brevet van het zeevaartonderwijs van de hogere cyclus;</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; vertical-align:top; width:29.4pt">
+			<p>b)</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; vertical-align:top; width:402pt">
+			<p>diploma van meetkundig schatter van onroerende goederen;</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; vertical-align:top; width:29.4pt">
+			<p>c)</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; vertical-align:top; width:402pt">
+			<p>diploma van mijnmeter;</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; vertical-align:top; width:29.4pt">
+			<p>d)</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; vertical-align:top; width:402pt">
+			<p>een diploma, uitgereikt in een basisopleiding van één cyclus of in een initiële lerarenopleiding van één cyclus door een hogeschool, opgericht, erkend of gesubsidieerd door de Vlaamse Gemeenschap, of door een examencommissie van de Vlaamse Gemeenschap;</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; vertical-align:top; width:29.4pt">
+			<p>e)</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; vertical-align:top; width:402pt">
+			<p>kandidaatsdiploma of -getuigschrift, uitgereikt na een cyclus van ten minste twee jaar studie ofwel door de Belgische universiteiten, met inbegrip van de aan die universiteiten verbonden scholen, de bij de wet ermee gelijkgestelde instellingen of de instellingen voor hoger onderwijs van twee cycli, opgericht, gesubsidieerd of erkend door de Staat of door een van de gemeenschappen ofwel door een door de Staat of door een van de gemeenschappen ingestelde examencommissie;</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; vertical-align:top; width:29.4pt">
+			<p>f)</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; vertical-align:top; width:402pt">
+			<p>diploma van technisch ingenieur, uitgereikt na hogere technische leergangen van de tweede graad;</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; vertical-align:top; width:29.4pt">
+			<p>g)</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; vertical-align:top; width:402pt">
+			<p>getuigschrift van het pedagogisch hoger onderwijs van het korte type voor sociale promotie, uitgereikt door een instelling, opgericht, gesubsidieerd of erkend door de Vlaamse Gemeenschap of door een examencommissie van de Vlaamse Gemeenschap;</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; vertical-align:top; width:29.4pt">
+			<p>h)</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; vertical-align:top; width:402pt">
+			<p>getuigschrift na het slagen voor de eerste twee studiejaren van de polytechnische afdeling of van de afdeling Alle Wapens van de Koninklijke Militaire School;</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; vertical-align:top; width:29.4pt">
+			<p>i)</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; vertical-align:top; width:402pt">
+			<p>diploma van hoger kunst- of technisch onderwijs van de 3e, 2e of 1e graad, uitgereikt door een instelling opgericht, gesubsidieerd of erkend door de Staat of door een van de gemeenschappen;</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; vertical-align:top; width:29.4pt">
+			<p>j)</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; vertical-align:top; width:402pt">
+			<p>diploma, uitgereikt na een cyclus van ten minste twee jaar studie, door de Koloniale Hogeschool van België in Antwerpen of kandidaatsdiploma, uitgereikt door het Universitair Instituut voor Overzeese Gebieden in Antwerpen;</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; vertical-align:top; width:29.4pt">
+			<p>k)</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; vertical-align:top; width:402pt">
+			<p>kandidaatsdiploma, uitgereikt na een cyclus van ten minste twee jaar studie door een instelling van hoger technisch onderwijs van de derde graad, of door een instelling van technisch onderwijs, gerangschikt als handelshogescholen in de categorie A5;</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; vertical-align:top; width:29.4pt">
+			<p>l)</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; vertical-align:top; width:402pt">
+			<p>diploma van burgerlijk conducteur, uitgereikt door een Belgische universiteit;</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; vertical-align:top; width:29.4pt">
+			<p>m)</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; vertical-align:top; width:402pt">
+			<p>diploma van technisch ingenieur, afgeleverd door een hogere technische school van de tweede graad;</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; vertical-align:top; width:29.4pt">
+			<p>n)</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; vertical-align:top; width:402pt">
+			<p>diploma van geaggregeerde voor het lager secundair onderwijs, van lager onderwijzer, lagere onderwijzeres of bewaarschoolonderwijzeres;</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; vertical-align:top; width:29.4pt">
+			<p>o)</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; vertical-align:top; width:402pt">
+			<p>diploma van gegradueerde in de landbouwwetenschappen, uitgereikt overeenkomstig de bepalingen van artikel 8 van het koninklijk besluit van 31 oktober 1934 tot vaststelling van de voorwaarden voor het toekennen der diploma’s van landbouwkundig ingenieur, van scheikundig landbouwingenieur, van ingenieur voor waters en bossen, van koloniaal landbouwkundig ingenieur, van tuinbouwkundig ingenieur, van boerderijbouwkundig ingenieur, van ingenieur der landbouwbedrijven, zoals het werd gewijzigd bij het koninklijk besluit van 16 juli 1936;</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; vertical-align:top; width:29.4pt">
+			<p>p)</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; vertical-align:top; width:402pt">
+			<p>diploma, uitgereikt door een instelling voor het hoger technisch onderwijs van de eerste graad met volledig leerplan opgericht, gesubsidieerd of erkend door de Staat of door een van regeringswege samengestelde examencommissie;</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; vertical-align:top; width:29.4pt">
+			<p>q)</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; vertical-align:top; width:402pt">
+			<p>diploma, uitgereikt door een instelling voor hoger technisch onderwijs, opgericht, gesubsidieerd of erkend door de Staat of door een van regeringswege samengestelde examencommissie en gerangschikt in een van de volgende categorieën : A1, A6/A1, A7/A1, C1/A1, A8/A1, A1/D, A2/An, C1/D, C5/C1/D, C1/An of door een van regeringswege samengestelde examencommissie;</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; vertical-align:top; width:29.4pt">
+			<p>r)</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; vertical-align:top; width:402pt">
+			<p>diploma, gerangschikt in de categorie B3/B1, uitgereikt na een cyclus van ten minste zevenhonderdvijftig lestijden door een instelling voor technisch onderwijs, opgericht, gesubsidieerd of erkend door de Staat, die bij de toelating, een diploma eist van volledige hogere secundaire studies of het welslagen voor een daarmee gelijkgesteld toelatingsexamen of een diploma van een afdeling, gerangschikt in de categorie B3/B2, uitgereikt door een instelling voor technisch onderwijs, opgericht, gesubsidieerd of erkend door de Staat, die bij de toelating een diploma eist van lagere secundaire studies of het welslagen voor een daarmee gelijkgesteld toelatingsexamen;</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; vertical-align:top; width:29.4pt">
+			<p>s)</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; vertical-align:top; width:402pt">
+			<p>diploma van het hoger onderwijs van één cyclus met volledig leerplan, uitgereikt door de instellingen, opgericht, gesubsidieerd of erkend door de Staat of door een van de gemeenschappen of door een door de Staat of door een van de gemeenschappen ingestelde examencommissie.</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p>Niveau C:<br>
+</p>
+
+<table border="1" cellpadding="0" cellspacing="0" style="border-collapse:collapse">
+	<tbody>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; height:14.2pt; vertical-align:top; width:29.4pt">
+			<p>a)</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; height:14.2pt; vertical-align:top; width:402pt">
+			<p>gehomologeerd of door de examencommissie van de Staat of van een van de gemeenschappen voor het secundair onderwijs uitgereikt getuigschrift van hoger secundair onderwijs;</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; vertical-align:top; width:29.4pt">
+			<p>b)</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; vertical-align:top; width:402pt">
+			<p>gehomologeerd of door de examencommissie van de Staat of van een van de gemeenschappen voor het secundair onderwijs uitgereikt bekwaamheidsdiploma dat toegang verleent tot het hoger onderwijs;</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; vertical-align:top; width:29.4pt">
+			<p>c)</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; vertical-align:top; width:402pt">
+			<p>diploma, uitgereikt na het examen, vermeld in artikel 5 van de wetten op het toekennen van de academische graden en het programma van de universitaire examens, gecoördineerd op 31 december 1949;</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; vertical-align:top; width:29.4pt">
+			<p>d)</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; vertical-align:top; width:402pt">
+			<p>brevet van verpleeg- of ziekenhuisassistent of van verpleger, uitgereikt hetzij door een door de Staat in de categorie van de aanvullende secundaire beroepsscholen opgerichte, gesubsidieerde of erkende verplegingsafdeling, hetzij door een door de Staat of een van de gemeenschappen ingestelde examencommissie;</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; vertical-align:top; width:29.4pt">
+			<p>e)</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; vertical-align:top; width:402pt">
+			<p>diploma van secundair onderwijs, uitgereikt in het algemeen, het technisch, het kunst- of het beroepssecundair onderwijs door een door de Staat of door een van de gemeenschappen opgerichte,</p>
+
+			<p>erkende of gesubsidieerde instelling of door de examencommissie van de Vlaamse Gemeenschap;</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; vertical-align:top; width:29.4pt">
+			<p>f)</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; vertical-align:top; width:402pt">
+			<p>studiegetuigschrift van het tweede leerjaar van de derde graad van het beroepssecundair onderwijs, uitgereikt door een door de Staat of door een van de Gemeenschappen opgerichte, erkende of gesubsidieerde instelling;</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; vertical-align:top; width:29.4pt">
+			<p>g)</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; vertical-align:top; width:402pt">
+			<p>getuigschrift, diploma of brevet van het zeevaartonderwijs van de hogere secundaire cyclus;</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; vertical-align:top; width:29.4pt">
+			<p>h)</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; vertical-align:top; width:402pt">
+			<p>diploma van een tot de groep handel, administratie en organisatie behorende afdeling van een hogere secundaire technische leergang van een instelling voor technisch onderwijs, opgericht, gesubsidieerd of erkend door de Staat of door een van de Gemeenschappen, uitgereikt na een cyclus van ten minste zevenhonderdvijftig lestijden.</p>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="2" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; vertical-align:top; width:431.4pt">
+			<p>&nbsp;</p>
+
+			<p>Niveau C (overgangsmaatregel):</p>
+
+			<p>&nbsp;</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; vertical-align:top; width:29.4pt">
+			<p>a)</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; vertical-align:top; width:402pt">
+			<p>getuigschrift, uitgereikt na een van de voorbereidende proeven, voorgeschreven in artikel 10, 10bis en 12 van de op 31 december 1949 gecoördineerde wetten op het toekennen van de academische graden en het programma van de universitaire examens, zoals die bepalingen bestonden voor 8 juni 1964;</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; vertical-align:top; width:29.4pt">
+			<p>b)</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; vertical-align:top; width:402pt">
+			<p>gehomologeerd of door de examencommissie van de Staat voor het hoger middelbaar onderwijs afgeleverd diploma of getuigschrift van hoger middelbaar onderwijs;</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; vertical-align:top; width:29.4pt">
+			<p>c)</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; vertical-align:top; width:402pt">
+			<p>erkend of aanvaard diploma van middelbare studies van de hogere graad (handelsafdeling);</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; vertical-align:top; width:29.4pt">
+			<p>d)</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; vertical-align:top; width:402pt">
+			<p>diploma of eindgetuigschrift van hoger middelbaar onderwijs, behaald met vrucht;</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; vertical-align:top; width:29.4pt">
+			<p>e)</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; vertical-align:top; width:402pt">
+			<p>gehomologeerd diploma van de hogere secundaire technische school of eindgetuigschrift van studies in een hogere secundaire technische school, uitgereikt na een cyclus van drie jaar hogere secundaire studies, door een instelling van technisch onderwijs, opgericht, gesubsidieerd of erkend door de Staat, of diploma van de hogere secundaire technische school, uitgereikt door de examencommissie van de Staat;</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; vertical-align:top; width:29.4pt">
+			<p>f)</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; vertical-align:top; width:402pt">
+			<p>diploma of eindgetuigschrift van de hogere secundaire technische school, de vroegere categorieën A2, A6/A2, A6/C1/A2, A7/A2, A8/A2, A2A, C1, C1A, C5/C1, C1/A2, uitgereikt na een cyclus van drie jaar hogere secundaire studie, door een instelling van technisch onderwijs, opgericht, gesubsidieerd of erkend door de Staat of door een examencommissie van de Staat;</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; vertical-align:top; width:29.4pt">
+			<p>g)</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; vertical-align:top; width:402pt">
+			<p>gehomologeerd diploma van hoger secundair kunstonderwijs met volledig leerplan, uitgereikt overeenkomstig de voorwaarden, bepaald bij het koninklijk besluit van 10 februari 1971 tot vaststelling van de gelijkwaardigheid van het studiepeil van de instellingen voor kunstonderwijs met dat van de hogere secundaire technische school en waarbij de voorwaarden voor het uitreiken van de diploma’s bepaald worden en het koninklijk besluit van 25 juni 1976 tot regeling van de studies van sommige hogere secundaire afdelingen van de instellingen voor kunstonderwijs met volledig leerplan;</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; vertical-align:top; width:29.4pt">
+			<p>h)</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; vertical-align:top; width:402pt">
+			<p>einddiploma, eindgetuigschrift, studieattest of brevet van het zesde jaar van het kunst- of beroepssecundair onderwijs met volledig leerplan, uitgereikt door een instelling, opgericht, gesubsidieerd of erkend door de Staat;</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; vertical-align:top; width:29.4pt">
+			<p>i)</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; vertical-align:top; width:402pt">
+			<p>brevet of eindgetuigschrift, uitgereikt na afloop van de hogere cyclus van een beroepsafdeling verbonden aan een instelling voor technisch onderwijs, opgericht, gesubsidieerd of erkend door de Staat en gerangschikt in één van de categorieën A4, C3, C2, C5;</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; vertical-align:top; width:29.4pt">
+			<p>j)</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; vertical-align:top; width:402pt">
+			<p>diploma, uitgereikt na een cyclus van ten minste zevenhonderdvijftig lestijden, door een instelling voor technisch onderwijs, gerangschikt in de categorie B3/B1, opgericht, gesubsidieerd of erkend door de Staat;</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; vertical-align:top; width:29.4pt">
+			<p>k)</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; vertical-align:top; width:402pt">
+			<p>einddiploma of -getuigschrift, uitgereikt na een cyclus van ten minste zevenhonderdvijftig lestijden, door een instelling voor technisch onderwijs, gerangschikt in de categorie B3/B2, opgericht, gesubsidieerd of erkend door de Staat en die bij de toelating een diploma eist van lagere secundaire studie of het welslagen voor een daarmee gelijkgesteld toelatingsexamen;</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; vertical-align:top; width:29.4pt">
+			<p>l)</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; vertical-align:top; width:402pt">
+			<p>einddiploma, studiegetuigschrift of getuigschrift, uitgereikt na het volgen, met vrucht volbracht, van het zesde leerjaar van het algemeen, het technisch, het kunst- of het beroepssecundair onderwijs met volledig leerplan, uitgereikt door een instelling, opgericht, gesubsidieerd of erkend door de Staat of door een van de gemeenschappen.</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p>Niveau D: geen diploma of studiegetuigschrift vereist.<br>
+<br>
+Niveau E: geen diploma of studiegetuigschrift vereist.<br>
+<br>
+<br>
+2. De in overeenstemming met een buitenlandse regeling behaalde diploma’s en studiegetuigschriften die, krachtens verdragen of internationale overeenkomsten of met toepassing van de procedure voor het verlenen van de gelijkwaardigheid, voorgeschreven bij de wet van 19 maart 1971 betreffende de gelijkwaardigheid van de buitenlandse diploma’s en getuigschriften, gelijkwaardig worden verklaard met een van de in deze lijst vermelde diploma’s of studiegetuigschriften, worden eveneens in aanmerking genomen voor toelating tot de diensten van gemeenten en provincies.<br>
+<br>
+<br>
+3. In afwijking van punt 2 worden de bepalingen van de richtlijn 89/48/EEG van de Raad van de EEG van 21 december 1988 betreffende een algemeen stelsel van erkenning van hogeronderwijsdiploma’s waarmee beroepsopleidingen van ten minste drie jaar worden afgesloten, evenals de bepalingen van de richtlijn 92/51/EEG van de Raad van de EEG van 18 juni 1992 betreffende een tweede algemeen stelsel van erkenning van beroepsopleidingen, in aanmerking genomen voor de toelating tot de diensten van de gemeenten en provincies.<br>
+<br>
+Om de waarde van de voorgestelde titels te kennen, legt de aanstellende overheid die titels voor advies voor aan de bevoegde onderwijsoverheden.</p>
 
 ## Bijlage II: Uitgewerkte salarisschalen
 
