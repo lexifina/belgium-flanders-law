@@ -16,6 +16,10 @@
 
 ## Afdeling VI Fonds - Terugvorderingen Salarissen - Centra voor Basiseducatie (Recuperatiefonds)
 
+### ART. 10.
+
+§ 1. Er wordt een fonds « Terugvorderingen Salarissen - Centra voor Basiseducatie » opgericht, hierna het Fonds te noemen.<br /><br />§ 2. Het Fonds is een B-fonds in de zin van artikel 45 van de wetten op de Rijkscomptabiliteit, gecoördineerd op 17 juli 1991.<br /><br />§ 3. Aan het Fonds worden alle ontvangsten voortvloeiend uit de terugstorting van onverschuldigde salarissen en vergoedingen toegewezen.<br /><br />§ 4. De middelen van het Fonds kunnen uitsluitend aangewend worden voor uitgaven met betrekking tot de betaling van salarissen van personeelsleden van de Centra voor Basiseducatie.<br /><br />
+
 ## Afdeling VII VZW Werkgroep Immigratie
 
 ## Afdeling VIII Instituut voor Europese Studies
@@ -64,7 +68,31 @@
 
 ## HOOFDSTUK XII Projectmatig wetenschappelijk onderzoek
 
+### ART. 49.
+
+In artikel 190bis, § 3, van het decreet van 13 juli 1994 betreffende de hogescholen in de Vlaamse Gemeenschap wordt het derde lid vervangen door wat volgt :<br />« De in het eerste en tweede lid bedoelde bedragen worden in de begrotingsjaren 2008 en 2009 tussen de hogescholen verdeeld a rato van het gemiddeld aantal opgenomen studiepunten in professioneel gerichte bacheloropleidingen en bachelor-na-bacheloropleidingen op 1 februari 2005, op 1 februari 2006 en op 1 februari 2007. Voor het jaar 2005 worden deze opgenomen studiepunten bekomen door het aantal financierbare studenten op 1 februari 2005 te vermenigvuldigen met een factor 57. ».<br /><br />
+
+### ART. 50.
+
+In artikel 190bis, § 3, van hetzelfde decreet wordt het vierde lid vervangen door wat volgt :<br />« De in het eerste en tweede lid bedoelde bedragen worden jaarlijks aangepast op de wijze bepaald door artikel 9, § 5, van het decreet van 14 maart 2008 betreffende de financiering van de werking van de hogescholen en universiteiten in Vlaanderen. ».<br /><br />
+
+### ART. 51.
+
+Aan artikel 190bis, § 3, van hetzelfde decreet wordt een vijfde lid toegevoegd, dat luidt als volgt :<br />« Vanaf het begrotingsjaar t worden de in het eerste en het tweede lid bedoelde bedragen tussen de hogescholen verdeeld a rato van het gemiddeld aantal opgenomen studiepunten in de professioneel gerichte bacheloropleidingen en de bachelor-na-bacheloropleidingen van de jaren t-4, t-3 en t-2. Deze formule wordt voor het eerst gebruikt voor de verdeling van de bedoelde bedragen in het begrotingsjaar 2010. ».<br /><br />
+
+### ART. 52.
+
+In artikel 190bis, § 4, tweede lid, van hetzelfde decreet worden in punt 1° de woorden « die niet korter mag zijn dan 3 jaar » geschrapt.<br /><br />
+
+### ART. 53.
+
+Aan artikel 190bis van hetzelfde decreet wordt een § 6 toegevoegd, die luidt als volgt :<br />« § 6. In het begrotingsjaar 2011 wordt 10 % van het in § 2, 2°, bedoelde bedrag verdeeld op basis van een reeks van gewogen output-indicatoren die betrekking hebben op de opdrachten wetenschappelijk onderzoek en wetenschappelijke dienstverlening van de hogescholen.<br /><br />De Vlaamse Regering bepaalt uiterlijk op 1 juli 2010 de kwaliteitscriteria waaraan de genoemde indicatoren moeten beantwoorden.<br /><br />In het begrotingsjaar 2012 stijgt het in het eerste lid genoemde percentage tot 15 % en vanaf het begrotingsjaar 2013 wordt het vastgelegd op 20 %. ».<br /><br />
+
 ## HOOFDSTUK XIII Bijzonder Onderzoeksfonds
+
+### ART. 54.
+
+Aan artikel 168, § 5, eerste lid, van het decreet van 12 juni 1991 betreffende de universiteiten in de Vlaamse Gemeenschap, vervangen bij decreet van 14 maart 2008, wordt een punt 5° toegevoegd, dat luidt als volgt :<br />« 5° vanaf het begrotingsjaar 2008 tot en het met begrotingsjaar 2010 het procentueel aandeel van iedere universiteit in de jaarlijkse werkingstoelage. ».<br /><br />
 
 ## HOOFDSTUK XIV Vlaams Agentschap Ondernemen
 
@@ -96,9 +124,21 @@ In artikel VI.9.9., § 1, van het decreet van 19 maart 2004 betreffende de recht
 
 ## Afdeling I Grondwaterbeheer
 
+### ART. 81.
+
+In artikel 28quater van het decreet van 24 januari 1984 houdende maatregelen inzake het grondwaterbeheer, worden in § 1, 2°, b), ingevoegd bij het decreet van 20 december 1996 en gewijzigd bij de decreten van 19 december 1997, 22 december 1999, 22 december 2000, 21 december 2001, 24 december 2004, 23 december 2005 en 22 december 2006, de woorden « in het heffingsjaar 2007 » geschrapt.<br /><br />
+
 ## Afdeling II Oppervlaktewateren
 
+### ART. 83.
+
+In artikel 35bis van dezelfde wet, gewijzigd bij decreet van 22 december 2006, wordt § 4 vervangen door wat volgt :<br />« § 4. Elke rechtspersoon die in het Vlaamse Gewest een zuiveringstechnisch werk exploiteert waarin uitsluitend afvalwater van de openbare riolering (met inbegrip van afvalstoffen afkomstig van septische putten, vetvangers of kleinschalige waterzuiveringsinstallaties met een capaciteit van maximaal 20 inwonerequivalenten waarin uitsluitend huishoudelijk afvalwater wordt geleid, per as aangevoerde afvalwaters, slibs afkomstig van openbare rioolwaterzuiveringsinstallaties en/of slibs afkomstig van het onderhoud van collectoren en pompstations) wordt behandeld en dat aangesloten is op het openbaar hydrografisch net, is van heffing vrijgesteld voor wat betreft de lozing van de effluentwaters van voornoemde openbare rioolwaterzuiveringsinstallaties.<br /><br />Een slibverbrandingsinstallatie waarmee het zuiveringstechnisch werk een milieutechnische eenheid vormt is geen onderdeel van het zuiveringstechnisch werk. ».<br /><br />
+
 ## Afdeling III Liberalisering van de elektriciteitsmarkt
+
+### ART. 84.
+
+Het besluit van de Vlaamse Regering van 23 november 2007 tot vrijstelling van de federale bijdrage ter compensatie van de inkomstenderving van de gemeenten ingevolge de liberalisering van de elektriciteitsmarkt wordt met ingang van 1 januari 2008 bekrachtigd.<br /><br />
 
 ## HOOFDSTUK XXIV Landbouw
 
