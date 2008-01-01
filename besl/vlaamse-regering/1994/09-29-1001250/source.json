@@ -2,16 +2,16 @@
   "codex_id": 1001250,
   "title": "Besluit van de Vlaamse Regering van 1994-09-29 tot reglementering van het sociale huurstelsel voor de woningen die door de Vlaamse Huisvestingsmaatschappij of door de door de Vlaamse Huisvestingsmaatschappij erkende lokale sociale huisvestingsmaatschappijen worden verhuurd in toepassing van artikel 80ter van de Huisvestingscode",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1001250/VolledigDocument?datum=2006-06-01",
-  "source_sha256": "4a321510ec8605f7cceae02de15ff0415e3095230904b5bc97f9bfa6dcc06fae",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1001250/VolledigDocument?datum=2008-01-01",
+  "source_sha256": "b8d55b8192f21862f6e9c71a5e26b6afca564efcf410e5c5885b21a82857724c",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1001250&param=informatie",
-  "as_of": "2006-06-01",
+  "as_of": "2008-01-01",
   "made": "1994-09-29",
   "gazette": "1994-12-03",
   "numac": 1994036480,
   "document_start": "1995-01-01",
   "document_end": "2007-12-31",
-  "in_force": "2006-06-01",
+  "in_force": "2008-01-01",
   "article_versions": 31,
-  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2008-01-01; future article versions excluded; article text as the API gives it"
 }
