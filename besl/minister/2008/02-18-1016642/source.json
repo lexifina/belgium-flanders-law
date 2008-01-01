@@ -1,0 +1,17 @@
+{
+  "codex_id": 1016642,
+  "title": "Ministerieel besluit van 2008-02-18 tot bepaling van de standaard voor de titel van patronenmaakster",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1016642/VolledigDocument?datum=2008-01-01",
+  "source_sha256": "0211bd6cd31029f5017785ad15b646a53151d8e4411a1b49733fcf69cc63cd8b",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1016642&param=informatie",
+  "as_of": "2008-01-01",
+  "made": "2008-02-18",
+  "gazette": "2008-03-06",
+  "numac": 2008035350,
+  "document_start": "2008-01-01",
+  "document_end": "2018-12-31",
+  "in_force": "2008-01-01",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2008-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
