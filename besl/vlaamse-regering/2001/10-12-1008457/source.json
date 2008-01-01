@@ -2,16 +2,16 @@
   "codex_id": 1008457,
   "title": "Besluit van de Vlaamse Regering van 2001-10-12 ter uitvoering van het decreet van 19 december 1997 betreffende het algemeen welzijnswerk",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1008457/VolledigDocument?datum=2007-01-01",
-  "source_sha256": "2668e315e9bdac70c11d910031884e8df9c2828820f7d3ac7dae5319e904ed75",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1008457/VolledigDocument?datum=2008-01-01",
+  "source_sha256": "968bb603c8e0876d0283045c03182ea610ce9d52867c4620764fedd6e57e68dc",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1008457&param=informatie",
-  "as_of": "2007-01-01",
+  "as_of": "2008-01-01",
   "made": "2001-10-12",
   "gazette": "2001-11-17",
   "numac": 2001036263,
   "document_start": "2001-11-01",
   "document_end": "2013-12-31",
-  "in_force": "2007-01-01",
+  "in_force": "2008-01-01",
   "article_versions": 40,
-  "record_form": "consolidated version as in force on 2007-01-01; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2008-01-01; future article versions excluded; article text as the API gives it"
 }
