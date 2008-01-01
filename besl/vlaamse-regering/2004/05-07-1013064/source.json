@@ -2,16 +2,16 @@
   "codex_id": 1013064,
   "title": "Besluit van de Vlaamse Regering van 2004-05-07 tot oprichting van het intern verzelfstandigd agentschap \"Zorg en Gezondheid\"",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1013064/VolledigDocument?datum=2007-09-20",
-  "source_sha256": "1131debe0244b30afba41579078959385313db6842d7f73d73938c9203731cc8",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1013064/VolledigDocument?datum=2008-01-01",
+  "source_sha256": "5754772f96dfb8970b2b75621e06511cc6af57ced6f16514946e22aa6d9ef37c",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1013064&param=informatie",
-  "as_of": "2007-09-20",
+  "as_of": "2008-01-01",
   "made": "2004-05-07",
   "gazette": "2004-06-07",
   "numac": 2004035841,
   "document_start": "2006-04-01",
   "document_end": "2023-05-31",
-  "in_force": "2007-09-20",
+  "in_force": "2008-01-01",
   "article_versions": 22,
-  "record_form": "consolidated version as in force on 2007-09-20; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2008-01-01; future article versions excluded; article text as the API gives it"
 }

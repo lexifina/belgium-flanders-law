@@ -60,7 +60,7 @@ Het hoofd van het agentschap heeft delegatie van beslissingsbevoegdheid voor de 
 
 ### ART. 14.
 
-Naast de delegaties betreffende de aangelegenheden bedoeld in artikel 13, worden aan het hoofd van het agentschap volgende specifieke delegaties verleend:<br /><br />1° het verlenen van afwijkingen inzake brandveiligheidsnormen en erkenningsnormen;<br /><br />2° het verlenen van niet-gereglementeerde subsidies, die niet nominatim in de begroting zijn vermeld, tot een maximum bedrag van 150.000 euro;<br /><br />3° het verlenen van subsidies die nominatim in de begroting zijn vermeld;<br /><br />4° het afleveren van bekwaamheidsattesten en inschrijvingsbewijzen betreffende de opleiding polyvalent verzorgenden;<br /><br />5° het beheren van het Vlaams Zorgfonds;<br /><br />6° [...  <span class="reference">(opgeh. B.V.R. 31 maart 2006, art. 32, I: 1 april 2006)</span> ].
+Naast de delegaties betreffende de aangelegenheden bedoeld in artikel 13, worden aan het hoofd van het agentschap volgende specifieke delegaties verleend:<br />1° het verlenen van afwijkingen inzake brandveiligheidsnormen en erkenningsnormen;<br />2° het verlenen van niet-gereglementeerde subsidies, die niet nominatim in de begroting zijn vermeld, tot een maximum bedrag van 150.000 euro;<br />3° het verlenen van subsidies die nominatim in de begroting zijn vermeld;<br />4° het afleveren van inschrijvingsbewijzen aan het verzorgend personeel van de diensten voor gezinszorg; <br />5° het beheren van het Vlaams Zorgfonds;<br />6° ...
 
 ### ART. 15.
 
