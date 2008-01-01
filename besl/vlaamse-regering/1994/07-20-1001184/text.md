@@ -22,11 +22,11 @@ Het Agentschap neemt voor de gebruikers, die tot de bij artikel 3 bedoelde doelg
 
 ### ART. 5.
 
-Het Agentschap neemt voor de gebruikers die tot de bij artikel 3 bedoelde doelgroep behoren de dienstverlening door een tolk voor doven en slechthorenden ten laste in aan de handicap aangepaste arbeidssituaties die occasioneel taken of omstandigheden met zich brengen waarbij de verbale communicatie noodzakelijk is om tot een optimale functieuitoefening en taakuitvoering te komen, en aldus technische bijstand door een deskundig opgeleide tolk verantwoorden.<br /><br />De krachtens het eerste lid van dit artikel genomen bijstand wordt op jaarbasis beperkt tot maximaal 10 % van de effectieve werktijd die de gebruiker presteert.<br /><br />Het Agentschap kan een afwijking toestaan op het in vorig lid bedoeld maximum in geval van uitbreiding van werkzaamheden, van promotie of van bijscholing van de gebruiker, waarvoor de beperking tot 10 % van de effectieve werktijd niet volstaat. Deze verhoogde tenlasteneming mag op jaarbasis 20 % van de effectieve werktijd niet overschrijden. <br /><br />De bij vorig lid bedoelde afwijking wordt slechts toegekend op basis van een schriftelijke gemotiveerde aanvraag, gestaafd met alle nuttige attesten en documenten en mits gelijktijdig aan volgende voorwaarden wordt voldaan:<br />1° ...;<br />2° uit een attest van de werkgever moet blijken dat de overschrijding van het in lid 2 van dit artikel bepaalde maximum gerechtvaardigd is;<br />
+...
 
 ### ART. 5bis.
 
-Het Vlaams Agentschap voor Personen met een Handicap sluit met de Vlaamse Dienst voor Arbeidsbemiddeling en Beroepsopleiding een protocol voor de aansturing van en verslaggeving over de dienstverlening, vermeld in artikel 5. Dit protocol voorziet eveneens in de wijze waarop beide partijen de kosten van de dienstverlening en de personeels- en werkingskosten van het centraal tolkenbureau,vastgesteld in hoofdstuk III, op zich nemen.
+...
 
 ## HOOFDSTUK III DE WIJZE VAN VERGOEDING VAN DE BIJSTAND
 
@@ -43,7 +43,7 @@ Dat bedrag wordt jaarlijks op 1 januari aangepast volgens de formule :<br>
 
 ### ART. 8.
 
-§ 1.Het Agentschap subsidieert de personeels- en werkingskosten van het gemachtigd centraal tolkenbureau, vermeld in artikel 11, op jaarbasis naar rato van een forfaitair bedrag van 31 euro per uur, vermenigvuldigd met 9 500 uren. <br /><br />Het forfaitair bedrag is gekoppeld aan het prijsindexcijfer, dat berekend en benoemd wordt voor de toepassing van artikel 2 van het koninklijk besluit van 24 december 1993 ter uitvoering van de wet van 6 januari 1989 tot vrijwaring van het concurrentievermogen. De basisindex is het prijsindexcijfer van toepassing op de dag van de inwerkingtreding van dit besluit. Het wordt op 1 januari van elk jaar aangepast aan de evolutie van dat prijsindexcijfer gedurende het voorbije jaar.<br /><br />§ 2. Minimum 75 % van de in § 1 bedoelde subsidies wordt besteed aan personeelskosten voor personeel waarvan de helft beschikt over een tolkdiploma.<br /><br />Er is 1 fulltime coördinator.<br /><br />De personeelsleden worden vergoed overeenkomstig de voor de voorzieningen voor opvang van personen met een handicap vastgestelde reglementaire barema's en anciënniteitsregeling.<br /><br />Het centraal tolkenbureau beslist over de voor de coördinator en de overige personeelsleden toegepaste barema's.<br /><br />§ 3. Maximum 25 % van de in § 1 bedoelde subsidie wordt besteed aan werkingskosten.
+§ 1.Het Agentschap subsidieert de personeels- en werkingskosten van het gemachtigd centraal tolkenbureau, vermeld in artikel 11, op jaarbasis naar rato van een forfaitair bedrag van 31 euro per uur, vermenigvuldigd met 4750 uren. <br /><br />Het forfaitair bedrag is gekoppeld aan het prijsindexcijfer, dat berekend en benoemd wordt voor de toepassing van artikel 2 van het koninklijk besluit van 24 december 1993 ter uitvoering van de wet van 6 januari 1989 tot vrijwaring van het concurrentievermogen. De basisindex is het prijsindexcijfer van toepassing op de dag van de inwerkingtreding van dit besluit. Het wordt op 1 januari van elk jaar aangepast aan de evolutie van dat prijsindexcijfer gedurende het voorbije jaar.<br /><br />§ 2. Minimum 75 % van de in § 1 bedoelde subsidies wordt besteed aan personeelskosten voor personeel waarvan de helft beschikt over een tolkdiploma.<br /><br />Er is 1 fulltime coördinator.<br /><br />De personeelsleden worden vergoed overeenkomstig de voor de voorzieningen voor opvang van personen met een handicap vastgestelde reglementaire barema's en anciënniteitsregeling.<br /><br />Het centraal tolkenbureau beslist over de voor de coördinator en de overige personeelsleden toegepaste barema's.<br /><br />§ 3. Maximum 25 % van de in § 1 bedoelde subsidie wordt besteed aan werkingskosten.
 
 ### ART. 9.
 
@@ -57,7 +57,7 @@ Dat bedrag wordt jaarlijks op 1 januari aangepast volgens de formule :<br>
 
 ### ART. 11.
 
-De bij artikel 1 bedoelde dienstverlening wordt door het Agentschap slechts ten laste genomen als zij door bemiddeling van het hiertoe door het Agentschap gemachtigd centraal tolkenbureau verstrekt wordt en voor ten hoogste 12 000 uren per jaar.
+De bij artikel 1 bedoelde dienstverlening wordt door het Agentschap slechts ten laste genomen als zij door bemiddeling van het hiertoe door het Agentschap gemachtigd centraal tolkenbureau verstrekt wordt en voor ten hoogste 6000 uren per jaar.
 
 ### ART. 12.
 
@@ -89,7 +89,7 @@ Bij wijze van overgangsmaatregel:<br /><br />1° mag voor het werkingsjaar 1994 
 
 ### ART. 18.
 
-De in dit besluit bedoelde attesten, getuigschriften en gemotiveerde aanvragen mogen vervangen wor-den door gelijkwaardige en relevante gegevens die vervat zijn in of gevoegd bij het verslag bedoeld bij artikel 40, § 4, van het decreet van 27 juni 1990 houdende oprichting van een Vlaams Fonds voor Sociale Integratie van Personen met een Handicap.
+De attesten, getuigschriften en gemotiveerde aanvragen, vermeld in dit besluit, mogen vervangen worden door gelijkwaardige en relevante gegevens die vervat zijn in of gevoegd zijn bij het multidisciplinaire verslag van een instantie die door het agentschap is erkend om een multidisciplinair verslag af te leveren.
 
 ### ART. 19.
 
