@@ -2,16 +2,16 @@
   "codex_id": 1002346,
   "title": "Besluit van de Vlaamse Regering van 1995-02-08 houdende vastlegging van het boekhoudkundig schema en van de voorschriften voor het opstellen van de jaarrekening van de universiteiten in de Vlaamse Gemeenschap",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1002346/VolledigDocument?datum=2006-06-01",
-  "source_sha256": "74281a1c88515ca5057dc6da398de070b804da25d569368ad390765c8b8a31dc",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1002346/VolledigDocument?datum=2008-01-01",
+  "source_sha256": "64ea981e0bff40e6e2d815d3afed72bb2d47d9751229d928bd0a6344b6a0a1a1",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1002346&param=informatie",
-  "as_of": "2006-06-01",
+  "as_of": "2008-01-01",
   "made": "1995-02-08",
   "gazette": "1995-05-03",
   "numac": 1995035504,
   "document_start": null,
   "document_end": "2007-12-31",
-  "in_force": "2006-06-01",
-  "article_versions": 15,
-  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "in_force": "2008-01-01",
+  "article_versions": 16,
+  "record_form": "consolidated version as in force on 2008-01-01; future article versions excluded; article text as the API gives it"
 }
