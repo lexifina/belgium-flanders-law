@@ -1,0 +1,17 @@
+{
+  "codex_id": 1016757,
+  "title": "Besluit van de Vlaamse Regering van 2008-03-14 tot bepaling van de subsidie voor 2008 voor een bedrag van 1.561.525 euro voor de levensbeschouwelijke verenigingen die erkend zijn om televisieprogramma's op de VRT te verzorgen",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1016757/VolledigDocument?datum=2008-01-01",
+  "source_sha256": "b8063fcf64a77790b317d88b0fe1d9d3d069c252b0f9546751fed652c3f6e03e",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1016757&param=informatie",
+  "as_of": "2008-01-01",
+  "made": "2008-03-14",
+  "gazette": "2008-05-06",
+  "numac": 2008201460,
+  "document_start": "2008-01-01",
+  "document_end": null,
+  "in_force": "2008-01-01",
+  "article_versions": 7,
+  "record_form": "consolidated version as in force on 2008-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
