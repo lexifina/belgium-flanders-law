@@ -12,7 +12,7 @@ In dit besluit wordt verstaan onder :<br />1° Kind en Gezin : het intern verzel
 
 ### ART. 2.
 
-De bepalingen van dit besluit zijn van toepassing op de kinderdagverblijven, diensten voor opvanggezinnen, initiatieven voor buitenschoolse opvang en centra voor kinderzorg en gezinsondersteuning die erkend of gesubsidieerd zijn door Kind en Gezin, hierna opvangvoorzieningen te noemen.<br /><br />
+De bepalingen van dit besluit zijn van toepassing op de kinderdagverblijven, diensten voor onthaalouders, initiatieven voor buitenschoolse opvang en centra voor kinderzorg en gezinsondersteuning die erkend of gesubsidieerd zijn door Kind en Gezin, hierna opvangvoorzieningen te noemen.<br /><br />
 
 ## HOOFDSTUK II Activiteitencentrum
 
@@ -42,15 +42,15 @@ Alle opvangvoorzieningen moeten, waar nodig, gebruikmaken van de indeling van he
 
 ### ART. 8.
 
-Ter uitvoering van de mogelijkheid die geboden wordt in artikel 17 van het besluit van de Vlaamse Regering wordt bepaald dat als de totaliteit van de door Kind en Gezin toegekende subsidies met betrekking tot het boekjaar aan een vereniging zonder winstoogmerk die een of meer opvangvoorzieningen uitbaat gelijk is aan of meer bedraagt dan 725.000 euro, die vereniging zonder winstoogmerk haar boekhouding moet voorleggen aan een commissaris-bedrijfsrevisor.<br /><br />
+...<br />
 
 ### ART. 9.
 
-De commissaris wordt benoemd door de algemene vergadering onder de leden, natuurlijke personen of rechtspersonen van het instituut voor bedrijfsrevisoren.<br /><br />
+...<br /><br />
 
 ### ART. 10.
 
-De commissaris wordt belast met de controle van de financiële toestand en de jaarrekening. Zijn verslag moet als bijlage bij de jaarrekening worden opgenomen.<br /><br />
+...<br />
 
 ## HOOFDSTUK V Aanvullende documenten
 
