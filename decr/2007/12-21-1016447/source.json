@@ -1,0 +1,17 @@
+{
+  "codex_id": 1016447,
+  "title": "Decreet van 2007-12-21 houdende de middelenbegroting van de Vlaamse Gemeenschap voor het begrotingsjaar 2008",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1016447/VolledigDocument?datum=2008-01-01",
+  "source_sha256": "ddced1f2d94822d0548fa51bf35ab060b18930eee63d8174d8dc862993332639",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1016447&param=informatie",
+  "as_of": "2008-01-01",
+  "made": "2007-12-21",
+  "gazette": "2007-12-31",
+  "numac": 2007037390,
+  "document_start": "2008-01-01",
+  "document_end": null,
+  "in_force": "2008-01-01",
+  "article_versions": 18,
+  "record_form": "consolidated version as in force on 2008-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
