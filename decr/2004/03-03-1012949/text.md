@@ -100,7 +100,13 @@ Het erkenningsbesluit van de partnerorganisatie en/of het beleidsplan, bedoeld i
 
 ### ART. 16.
 
-§ 1. Het zorgcontinuüm moet verzekerd worden, onder andere door de uitwisseling van gegevens die noodzakelijk zijn om de continuïteit en de kwaliteit van de zorgverlening te verzekeren tussen de zorgaanbieders onderling en tussen de zorgaanbieders en organisaties, diensten en personen met een meer gespecialiseerd zorgaanbod. Deze gegevensuitwisseling gebeurt door middel van een operationeel informatiesysteem dat de uitwisseling optimaal laat verlopen.<br /><br />Indien de gegevensuitwisseling door organisaties, diensten en personen met een meer gespecialiseerd zorgaanbod een weerslag heeft op de financiering door de federale overheid van de exploitatie, dan gebeurt deze gegevensuitwisseling op vrijwillige basis.<br /><br />§ 2. De samenwerkingsverbanden op het niveau van de praktijkvoering, samenwerkingsinitiatieven eerstelijns-gezondheidszorg en partnerorganisaties, participeren op verzoek van de Vlaamse regering aan de uitbouw en aan de werking van een epidemiologisch informatiesysteem om het gezondheidsbeleid zo veel mogelijk wetenschappelijk te onderbouwen.<br /><br />§ 3. Met betrekking tot § 1 en § 2 bepaalt de Vlaamse regering, na advies van de Commissie voor de Bescherming van de Persoonlijke Levenssfeer, nadere regels.
+§ 1. Het zorgcontinuüm moet verzekerd worden, onder andere door de uitwisseling van gegevens die noodzakelijk zijn om de continuïteit en de kwaliteit van de zorgverlening te verzekeren tussen de zorgaanbieders onderling en tussen de zorgaanbieders en organisaties, diensten en personen met een meer gespecialiseerd zorgaanbod. Deze gegevensuitwisseling gebeurt door middel van een operationeel informatiesysteem dat de uitwisseling optimaal laat verlopen.<br>
+<br>
+Indien de gegevensuitwisseling door organisaties, diensten en personen met een meer gespecialiseerd zorgaanbod een weerslag heeft op de financiering door de federale overheid van de exploitatie, dan gebeurt deze gegevensuitwisseling op vrijwillige basis.<br>
+<br>
+§ 2. De samenwerkingsverbanden op het niveau van de praktijkvoering, samenwerkingsinitiatieven eerstelijns-gezondheidszorg en partnerorganisaties, participeren op verzoek van de Vlaamse regering aan de uitbouw en aan de werking van een epidemiologisch informatiesysteem om het gezondheidsbeleid zo veel mogelijk wetenschappelijk te onderbouwen.<br>
+<br>
+§ 3. Met betrekking tot § 1 en § 2 bepaalt de Vlaamse regering, na advies van de een kamer van de toezichtcommissie als vermeld in artikel 10 van het decreet van 18 juli 2008 betreffende het elektronische bestuurlijke gegevensverkeer, die specifiek toeziet op de bescherming van de persoonlijke levenssfeer ten opzichte van de verwerking van persoonsgegevens die de gezondheid betreffen, nadere regels.
 
 ### ART. 17.
 
