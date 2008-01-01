@@ -48,11 +48,11 @@ Voor de erkende beschutte werkplaatsen wordt voor de toepassing van artikel 8 he
 
 ### ART. 10.
 
-De VDAB neemt ten belope van 2,5 FTE het loon ten laste van de werknemers die tewerkgesteld zijn of kunnen tewerkgesteld zijn in het DAC-project 1653 met de Federatie van West-Vlaamse Consultatiebureaus voor gehandicapten als promotor.<br /><br />De VDAB neemt ten bedrage van 1 FTE het loon ten laste van de werknemers die tewerkgesteld zijn of kunnen tewerkgesteld kunnen zijn in het DAC-project 53.208 met de vzw Centrum Ambulante Diensten, deelwerking De Vest als promotor. <br /><br />De in acht genomen weddeschaal is deze van de krachtens de kwalificatie van de werknemer uitgeoefende functie in het centrum.
+...
 
 ### ART. 11.
 
-Voor de bij artikel 10 bedoelde werknemers worden [aan het provinciaal samenwerkingscontract van de provincie, waarbinnen de promotoren als centrum voor gespecialiseerde voorlichting bij beroepskeuze voor personen met een handicap erkend zijn  <span class="reference">(verv. B.V.R. 27 januari 2006, art. 2, I: 1 januari 2005)</span> ] een loonsubsidiëring toegekend bovenop de subsidiëring krachtens het besluit van de Vlaamse regering van 13 april 1999 betreffende de erkenning en subsidiëring van centra voor gespecialiseerde voorlichting bij beroepskeuze voor personen met een handicap, ook als hierdoor het maximum subsidieerbaar personeelskader overschreden wordt.
+...
 
 ## HOOFDSTUK VI DE REVALIDATIECENTRA EN -DIENSTEN
 
