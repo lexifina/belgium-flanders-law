@@ -28,6 +28,10 @@ In artikel 91 van het Wetboek van de met de inkomstenbelastingen gelijkgestelde 
 
 ## Afdeling III Onroerende voorheffing
 
+### ART. 22.
+
+Aan artikel 253 van het Wetboek van de inkomstenbelastingen 1992 wordt na de zin « De onder 1°, 1°bis, 2° en 3°, bedoelde vrijstelling wordt evenzeer verleend wanneer het betreffend onroerend goed het voorwerp uitmaakt van een financiering door middel van financiële leasing of huurkoop met uitgestelde eigendomsoverdracht voor de duur van de overeenkomst. » de volgende zin toegevoegd :<br />« Onder deze overeenkomsten worden zowel de leasingovereenkomsten zoals omschreven in artikel 44, § 3, 2), b, van het BTW-Wetboek, als de leasingovereenkomsten die beantwoorden aan de omschrijving opgenomen in de uitvoeringsbesluiten van het Wetboek van Vennootschappen, begrepen. »<br /><br />
+
 ## Afdeling IV E-notificaties - fase 2
 
 ## Afdeling V Successierechten
