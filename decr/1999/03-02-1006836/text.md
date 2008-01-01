@@ -370,7 +370,7 @@ De ambten die de personeelsleden van een centrum kunnen uitoefenen, worden als v
 
 ### ART. 57.
 
-In afwijking van het decreet van 27 maart 1991 betreffende de rechtspositie van bepaalde personeelsle-den van het gemeenschapsonderwijs en van het decreet van 27 maart 1991 betreffende de rechtspositie van sommige personeelsleden van het gesubsidieerd onderwijs en de gesubsidieerde psycho-medisch-sociale centra bepalen de besturen jaarlijks op basis van een beleidsplan en na onderhandelingen in het lokaal comité welke openstaande betrekkingen zij al dan niet vacant verklaren.<br /><br />Voor de openstaande betrekkingen waarover de onderhandelingen niet tot een akkoord hebben geleid, zijn de besturen gehouden de openstaande betrekkingen met de hiernavolgende kenmerken vacant te verklaren tijdens het schooljaar dat de kenmerken verworven worden:<br /><br />1° de openstaande betrekkingen die gedurende twee opeenvolgende schooljaren vacant zijn en die overeenkomstig het beleidsplan voor lineair onderwijs zullen worden aangewend;<br /><br />2° de openstaande betrekkingen die gedurende drie opeenvolgende schooljaren vacant zijn en die overeenkomstig het beleidsplan voor modulair onderwijs zullen worden aangewend;<br /><br />3° de openstaande betrekkingen die gedurende drie opeenvolgende schooljaren vacant zijn en die overeenkomstig het beleidsplan voor gecombineerd onderwijs zullen worden aangewend.
+...
 
 ### ART. 57bis.
 
