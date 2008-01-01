@@ -2,16 +2,16 @@
   "codex_id": 1006235,
   "title": "Decreet van 1998-06-09 betreffende de Hogere Zeevaartschool",
   "type": "Decreet",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1006235/VolledigDocument?datum=2007-09-01",
-  "source_sha256": "903dece781d91132a945e2caa53e3f37b4c3978745b561ed962a7f079bd29b56",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1006235/VolledigDocument?datum=2008-01-01",
+  "source_sha256": "263af9cd31221f304b8ee31c9353e6a3cce7239ce1e70cacba6ebdb2518f9874",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1006235&param=informatie",
-  "as_of": "2007-09-01",
+  "as_of": "2008-01-01",
   "made": "1998-06-09",
   "gazette": "1998-08-04",
   "numac": 1998035838,
   "document_start": null,
   "document_end": "2008-12-31",
-  "in_force": "2007-09-01",
+  "in_force": "2008-01-01",
   "article_versions": 62,
-  "record_form": "consolidated version as in force on 2007-09-01; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2008-01-01; future article versions excluded; article text as the API gives it"
 }
