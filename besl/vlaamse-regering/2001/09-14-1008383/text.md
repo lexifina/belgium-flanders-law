@@ -38,7 +38,7 @@ De personeelsleden van de kabinetten kunnen gedetacheerd of aangesteld worden.
 
 ### ART. 8.
 
-Binnen de perken van de daartoe voorziene kredieten kunnen de leden van de Vlaamse regering, [...  <span class="reference">(geschr. B.V.R. 29 oktober 2004, art. 6, I: 22 juli 2004)</span> ] voor in de tijd beperkte opdrachten of voor specifieke opdrachten een beroep doen op experten die gedetacheerd of aangesteld kunnen worden [of op expertise via consultancy.  <span class="reference">(ing. B.V.R. 19 oktober 2001, art. 1, I: 1 augustus 2001)</span> ] Deze experten worden niet in aanmerking genomen voor de berekening van het aantal stafleden overeenkomstig artikel 7.
+...
 
 ## AFDELING 3 UITVOERENDE PERSONEELSLEDEN
 

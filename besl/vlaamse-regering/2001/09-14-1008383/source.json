@@ -2,16 +2,16 @@
   "codex_id": 1008383,
   "title": "Besluit van de Vlaamse Regering van 2001-09-14 tot organisatie van de kabinetten van de leden van de Vlaamse regering",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1008383/VolledigDocument?datum=2007-08-09",
-  "source_sha256": "a0d2b12454f335785fc98ad8e2d2b60c590222bdca6543c069b575061db4cae3",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1008383/VolledigDocument?datum=2008-01-01",
+  "source_sha256": "1190c1adfe685f426c3d9cc4355c8685f0b78a8ac5b9c159e2a01b463a29e20b",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1008383&param=informatie",
-  "as_of": "2007-08-09",
+  "as_of": "2008-01-01",
   "made": "2001-09-14",
   "gazette": "2001-09-27",
   "numac": 2001036102,
   "document_start": "2001-08-01",
   "document_end": "2009-08-31",
-  "in_force": "2007-08-09",
+  "in_force": "2008-01-01",
   "article_versions": 32,
-  "record_form": "consolidated version as in force on 2007-08-09; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2008-01-01; future article versions excluded; article text as the API gives it"
 }
