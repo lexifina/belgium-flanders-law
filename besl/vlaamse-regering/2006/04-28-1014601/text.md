@@ -24,7 +24,7 @@ De tewerkstellingspremie kan alleen worden toegekend binnen de perken van de daa
 
 ### ART. 4.
 
-Aan de onderneming die een niet-werkende werkzoekende aanwerft, die minstens veertien dagen voorafgaand aan de indiensttreding bij de VDAB als zodanig is ingeschreven,kan een tewerkstellingspremie worden toegekend als de onderneming de volgende voorwaarden vervult :<br />1° de onderneming dient een aanvraag voor de tewerkstellingspremie in bij de VDAB conform de voorwaarden vermeld in artikel 6;<br />2° de onderneming mag geen werknemers ontslaan met de uitsluitende bedoeling ze te vervangen door één of meer niet-werkende werkzoekenden die recht geven op de tewerkstellingspremie;<br />3° de aangeworvene mag zes maanden voorafgaand aan de indiensttreding niet bij dezelfde of een andere onderneming van de technische bedrijfseenheid bedoeld in artikel 14 van de wet van 20 september 1948 betreffende de organisatie van het bedrijfsleven,waartoe de onderneming behoort in dienst zijn geweest;<br />4° de aangeworvene wordt aangeworven met een arbeidsovereenkomst van onbepaalde duur;<br />5° de aangeworvene wordt minstens vijf opeenvolgende kwartalen tewerkgesteld bij de onderneming;<br />6° de geldende loons- en arbeidsvoorwaarden worden nageleefd.<br /><br />
+Aan de onderneming die een niet-werkende werkzoekende aanwerft, die minstens een dag voorafgaand aan de indiensttreding bij de VDAB als zodanig is ingeschreven,kan een tewerkstellingspremie worden toegekend als de onderneming de volgende voorwaarden vervult :<br />1° de onderneming dient een aanvraag voor de tewerkstellingspremie in bij de VDAB conform de voorwaarden vermeld in artikel 6;<br />2° de onderneming mag geen werknemers ontslaan met de uitsluitende bedoeling ze te vervangen door één of meer niet-werkende werkzoekenden die recht geven op de tewerkstellingspremie;<br />3° de aangeworvene mag zes maanden voorafgaand aan de indiensttreding niet bij dezelfde of een andere onderneming van de technische bedrijfseenheid bedoeld in artikel 14 van de wet van 20 september 1948 betreffende de organisatie van het bedrijfsleven,waartoe de onderneming behoort in dienst zijn geweest;<br />4° de aangeworvene wordt aangeworven met een arbeidsovereenkomst van onbepaalde duur;<br />5° de aangeworvene wordt minstens vijf opeenvolgende kwartalen tewerkgesteld bij de onderneming;<br />6° de geldende loons- en arbeidsvoorwaarden worden nageleefd.<br /><br />
 
 ### ART. 5.
 
@@ -34,7 +34,7 @@ Aan de onderneming die een niet-werkende werkzoekende aanwerft, die minstens vee
 
 ### ART. 6.
 
-Om geldig te zijn moet de aanvraag tot het verkrijgen van de tewerkstellingspremie door de onderneming of aangestelde ingediend worden bij de VDAB binnen de twee maanden na de indiensttreding met het aanvraagformulier dat door de VDAB ter beschikking wordt gesteld. Voor de indiensttredingen die gebeuren na 1 april 2006 tot en met 30 juni 2006, begint de termijn van twee maanden te lopen vanaf 1 juli 2006.<br /><br />
+Om geldig te zijn moet de aanvraag tot het verkrijgen van de tewerkstellingspremie door de onderneming of aangestelde ingediend worden bij de VDAB binnen de drie maanden na de indiensttreding met het aanvraagformulier dat door de VDAB ter beschikking wordt gesteld.<br /><br />
 
 ### ART. 7.
 
