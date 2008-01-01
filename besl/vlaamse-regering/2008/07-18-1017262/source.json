@@ -1,0 +1,17 @@
+{
+  "codex_id": 1017262,
+  "title": "Besluit van de Vlaamse Regering van 2008-07-18 tot wijziging van het besluit van de Vlaamse Regering van 23 december 1987 houdende de wijze van vereffening van de toelagen per dag toegekend voor het onderhoud en de behandeling van gehandicapten, geplaatst ten laste van het Fonds voor medische, sociale en pedagogische zorg voor gehandicapten",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1017262/VolledigDocument?datum=2008-01-01",
+  "source_sha256": "16dfd958f440d2242af7211e8080c47443728312cd00b7e4cf46fadfe0b706e8",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1017262&param=informatie",
+  "as_of": "2008-01-01",
+  "made": "2008-07-18",
+  "gazette": "2008-11-03",
+  "numac": 2008203850,
+  "document_start": "2008-01-01",
+  "document_end": null,
+  "in_force": "2008-01-01",
+  "article_versions": 6,
+  "record_form": "consolidated version as in force on 2008-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
