@@ -1,0 +1,17 @@
+{
+  "codex_id": 1016489,
+  "title": "Besluit van de Vlaamse Regering van 2007-11-14 tot wijziging van het besluit van de Vlaamse Regering van 13 september 2002 betreffende de ondersteuning van interfaceactiviteiten van de universiteiten in de Vlaamse Gemeenschap",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1016489/VolledigDocument?datum=2008-01-01",
+  "source_sha256": "dd665dace8e346854b44eb7cf3f755f0a956ed81101e812da3c54162d70c3ebf",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1016489&param=informatie",
+  "as_of": "2008-01-01",
+  "made": "2007-11-14",
+  "gazette": "2008-01-14",
+  "numac": 2007037391,
+  "document_start": "2008-01-01",
+  "document_end": null,
+  "in_force": "2008-01-01",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2008-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
