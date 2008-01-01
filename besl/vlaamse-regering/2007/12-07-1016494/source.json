@@ -1,0 +1,17 @@
+{
+  "codex_id": 1016494,
+  "title": "Besluit van de Vlaamse Regering van 2007-12-07 tot wijziging van de regelingen inzake de gewaarborgde leervergoeding in het kader van de leertijd en inzake de gewaarborgde stagevergoeding in het kader van de ondernemingsopleiding",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1016494/VolledigDocument?datum=2008-01-01",
+  "source_sha256": "b540f9e1b63cff97c6ecbc20c90dfab3dbb54c2f74475348d4a00a679ee66cff",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1016494&param=informatie",
+  "as_of": "2008-01-01",
+  "made": "2007-12-07",
+  "gazette": "2008-01-14",
+  "numac": 2007037393,
+  "document_start": "2008-01-01",
+  "document_end": null,
+  "in_force": "2008-01-01",
+  "article_versions": 5,
+  "record_form": "consolidated version as in force on 2008-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
