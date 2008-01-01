@@ -260,4 +260,4 @@ De regering laat binnen de vijf jaar wetenschappelijk onderzoek verrichten met b
 
 ### ART. 55.
 
-Artikelen 1, 2, 49 en 55 treden in werking op 1 april 2004.<br /><br />Artikelen 4, 34, 43 en 50 tot en met 52 treden in werking op 1 juli 2004.<br /><br />Artikelen 3, 5 tot en met 16, 28 tot en met 30, 32, 33, 35 tot en met 42, 44 tot en met 48 en 53 en 54 treden in werking op 1 januari 2005.<br /><br />Artikelen 17 tot en met 27 en artikel 31 treden in werking op 1 januari 2008.
+Artikelen 1, 2, 49 en 55 treden in werking op 1 april 2004.<br /><br />Artikelen 4, 34, 43 en 50 tot en met 52 treden in werking op 1 juli 2004.<br /><br />Artikelen 3, 5 tot en met 16, 28 tot en met 30, 32, 33, 35 tot en met 42, 44 tot en met 48 en 53 en 54 treden in werking op 1 januari 2005.<br /><br />De Vlaamse Regering stelt voor elk van de artikelen 17 tot 27, en 31 de datum van inwerkingtreding vast.
