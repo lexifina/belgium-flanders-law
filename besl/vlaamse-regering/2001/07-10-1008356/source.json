@@ -2,16 +2,16 @@
   "codex_id": 1008356,
   "title": "Besluit van de Vlaamse Regering van 2001-07-10 tot subsidiëring van management en vorming ten bate van voorzieningen gesubsidieerd door het Vlaams Fonds voor Sociale Integratie van Personen met een Handicap [of door de Vlaamse Dienst voor Arbeidsbemiddeling en Beroepsopleiding]",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1008356/VolledigDocument?datum=2006-06-01",
-  "source_sha256": "a0aa9850c9824bd6aafd731fcbcdfdc6e25f87314a3b536f43e5b7d15c4d6b3b",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1008356/VolledigDocument?datum=2008-01-01",
+  "source_sha256": "61f1e34e27e217f3e41c0dcbc85b07111d553559505a513ac9491eee593514c3",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1008356&param=informatie",
-  "as_of": "2006-06-01",
+  "as_of": "2008-01-01",
   "made": "2001-07-10",
   "gazette": "2001-09-15",
   "numac": 2001036024,
   "document_start": "2001-01-01",
   "document_end": null,
-  "in_force": "2006-06-01",
+  "in_force": "2008-01-01",
   "article_versions": 8,
-  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2008-01-01; future article versions excluded; article text as the API gives it"
 }
