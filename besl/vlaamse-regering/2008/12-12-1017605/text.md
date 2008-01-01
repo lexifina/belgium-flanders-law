@@ -120,6 +120,10 @@ De bewijsstukken worden door de DAB ICT ter plaatse bewaard.<br />Het Rekenhof e
 
 ## HOOFDSTUK VI Slotbepalingen
 
+### ART. 27.
+
+In afwijking van artikel 4, eerste lid, 3°, mogen de financiële verrichtingen voor de DAB ICT uitgevoerd worden door een centrale rekenplichtige van de Vlaamse Gemeenschap.<br /><br />
+
 ### ART. 28.
 
 Dit besluit heeft uitwerking met ingang van 1 januari 2007, met uitzondering van artikel 27 dat uitwerking heeft met ingang van 1 januari 2008.<br /><br />
