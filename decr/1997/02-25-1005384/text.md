@@ -206,7 +206,7 @@ Behoudens afwijkingen, zoals bepaald in artikel 19, volgt de leerling in het gew
 
 ### ART. 22.
 
-§ 1. De regering regelt de controle op de inschrijvingen, ze bepaalt op welke wijze dubbele in-schrijvingen geregulariseerd worden, ze regelt de controle op de leerplicht en op het geregeld schoolbezoek van de leerplichtigen en bepaalt in welke gevallen afwezigheid gewettigd is.<br /><br />(Zie: B.V.R. 12 november 1997, B.S., 6 januari 1998)<br /><br />§ 2. De directie is verplicht medewerking te verlenen aan de controle op de inschrijvingen en het geregeld school-bezoek.<br /><br />[§ 3. De diensten van de Vlaamse gemeenten zullen medewerking verlenen aan de controle op de leerplicht. De Vlaamse regering bepaalt de procedure.  <span class="reference">(ing. decr. 14 juli 1998, art. 19, I: 1 september 1998)</span> ]
+§ 1. De regering regelt de controle op de inschrijvingen, ze bepaalt op welke wijze dubbele in-schrijvingen geregulariseerd worden, ze regelt de controle op de leerplicht en op het geregeld schoolbezoek van de leerplichtigen en bepaalt in welke gevallen afwezigheid gewettigd is.<br /><br />(Zie: B.V.R. 12 november 1997, B.S., 6 januari 1998)<br /><br />§ 2. De directie is verplicht medewerking te verlenen aan de controle op de inschrijvingen en het geregeld school-bezoek.<br /><br />§ 3. ...
 
 ### ART. 23.
 
@@ -802,23 +802,23 @@ Leerlingen met een handicap die gefinancierd of gesubsidieerd gewoon kleuteronde
 
 ### ART. 92.
 
-§ 1. De provincies en gemeenten kunnen aan het gemeenschapsonderwijs en het gesubsidieerd vrij onderwijs op hun grondgebied geen andere voordelen toekennen dan de sociale voordelen en het gezondheidstoezicht.<br /><br />Zij mogen geen enkel onderscheid maken tussen de kinderen, welke scholen die ook bezoeken.<br /><br />§ 2. Met gezondheidstoezicht wordt bedoeld het preventief medisch schooltoezicht zoals bepaald in de wet van 21 maart 1964 en zoals het verzekerd wordt door de diensten van het medisch schooltoezicht en de psycho-medisch-sociale centra.<br /><br />§ 3. Met sociale voordelen wordt bedoeld:<br /><br />1° het ochtend- en avondtoezicht buiten de periode van normale aanwezigheid van de leerlingen;<br /><br />2° het middagtoezicht voor de tijdsduur van maximaal één uur;<br /><br />3° het ter beschikking stellen van de voor het publiek toegankelijk gemeentelijke en provinciale infrastructuur inzonder-heid de sportinfrastructuur maar met uitzondering van de roerende en onroerende goederen uitsluitend bestemd voor de organisatie van het gemeentelijk en provinciaal onderwijs;<br /><br />4° de kosten van de toegang tot het zwembad indien het niet behoort tot de gemeentelijke sportinfrastructuur bedoeld in 3°;<br /><br />5° het leerlingenvervoer.<br /><br />§ 4. De regering legt de voorwaarden vast waaraan de scholen van het gefinancierd onderwijs of gesubsidieerd vrij onderwijs moeten voldoen om aanspraak te kunnen maken op de in § 3 bedoelde sociale voordelen.<br /><br />§ 5. [...  <span class="reference">(opgeh. decr. 13 juli 2001, art. V. 5, I: 1 september 2001)</span> ]
+...
 
 ### ART. 92bis.
 
-In afwijking van artikel 92, § 3, 3° en 4°, van dit decreet, worden de kosten verbonden aan het verstrekken van één schooljaar gratis zwemmen, waar elke leerling lager onderwijs recht op heeft, niet als sociaal voordeel beschouwd.  <span class="reference">(ing. decr. 20 oktober 2000, art. 4, I: 1 september 2000)</span> ]
+...
 
 ### ART. 93.
 
-Elke provinciale en gemeentelijke beslissing inzake een voordeel ten bate van een school van een ander schoolbestuur moet onmiddellijk aan de regering en aan de schoolbesturen die op hun respectievelijk grondgebied onderwijs organiseren worden meegedeeld.
+...
 
 ### ART. 94.
 
-De regering kan de in artikel 93 bedoelde beslissing wegens wetsoverschrijding of schending van het algemeen belang binnen een tijdspanne van veertig dagen vanaf de mededeling vernietigen.
+...
 
 ### ART. 95.
 
-De provincies en de gemeenten bewaren de staat van gedane uitgaven en van vrijstellingen van tak-sen en vergoedingen toegekend aan een school van een ander schoolbestuur ter inzage voor de verificatiediensten.
+...
 
 ## [HOOFDSTUK VIII PROGRAMMATIE EN RATIONALISATIE VAN SCHOLEN (verv. decr. 10 juli 2003, art. 17)]
 
