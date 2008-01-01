@@ -1,0 +1,17 @@
+{
+  "codex_id": 1016821,
+  "title": "Besluit van de Vlaamse Regering van 2008-04-11 betreffende het financiële en materiële beheer van de dienst met afzonderlijk beheer Cultureel Centrum van de Vlaamse Gemeenschap Landcommanderij Alden Biesen",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1016821/VolledigDocument?datum=2008-01-01",
+  "source_sha256": "4ee748f3c8102208b63ead8bee47865a1eeaa3e969d1b3c8b7c4a546c8d89521",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1016821&param=informatie",
+  "as_of": "2008-01-01",
+  "made": "2008-04-11",
+  "gazette": "2008-06-11",
+  "numac": 2008202001,
+  "document_start": "2008-01-01",
+  "document_end": "2017-12-31",
+  "in_force": "2008-01-01",
+  "article_versions": 27,
+  "record_form": "consolidated version as in force on 2008-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
