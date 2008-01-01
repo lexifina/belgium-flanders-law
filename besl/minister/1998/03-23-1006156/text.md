@@ -30,7 +30,7 @@ De erkende centra moeten voldoen aan de hierna volgende verplichtingen:<br /><br
 
 ### ART. 8.
 
-De driemaandelijkse afrekening van subsidies gebeurt op basis van in drievoud ingediende bescheiden en verantwoordingsstukken waarvan model als bij dit besluit is gevoegd.<br /><br />De afrekening voor de laatste drie maanden van elk jaar gebeurt bovendien slechts na ontvangst van het jaarverslag waarvan sprake in artikel 3 van dit besluit.
+De driemaandelijkse betaling van de subsidie gebeurt op basis van een correct en waarheidsgetrouw ingevuld formulier, vermeld op de website van het Agentschap Zorg en Gezondheid.<br /><br />De afrekening voor de laatste drie maanden van elk jaar gebeurt bovendien slechts na ontvangst van het jaarverslag waarvan sprake in artikel 3 van dit besluit.
 
 ### ART. 9.
 
