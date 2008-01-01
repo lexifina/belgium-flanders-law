@@ -2,16 +2,16 @@
   "codex_id": 1017732,
   "title": "Besluit van de Vlaamse Regering van 2009-02-20 tot wijziging van het besluit van de Vlaamse Regering van 1 december 2000 houdende organisatie van de Vlaamse Maatschappij voor Watervoorziening en de regeling van de rechtspositie van het personeel, inzake de aansluiting bij de Raad van Beroep, opgericht bij het besluit van de Vlaamse Regering van 13 januari 2006, en de uitvoering van het sociaal akkoord 2007-2010",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1017732/VolledigDocument?datum=2005-07-04",
-  "source_sha256": "8ff5940ddd49315c429d3304f77c1454a52abfa6b72a67fe6c48cb3ec6aa2aef",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1017732/VolledigDocument?datum=2008-01-01",
+  "source_sha256": "ee06610f32ba038bcb01f2034af7de0c5ba35e23242321f67ce5e668b42773b7",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1017732&param=informatie",
-  "as_of": "2005-07-04",
+  "as_of": "2008-01-01",
   "made": "2009-02-20",
   "gazette": "2009-03-27",
   "numac": 2009035261,
   "document_start": "2009-04-06",
   "document_end": null,
-  "in_force": "2005-07-04",
-  "article_versions": 7,
-  "record_form": "consolidated version as in force on 2005-07-04; oldest version available; future article versions excluded; article text as the API gives it"
+  "in_force": "2008-01-01",
+  "article_versions": 26,
+  "record_form": "consolidated version as in force on 2008-01-01; future article versions excluded; article text as the API gives it"
 }
