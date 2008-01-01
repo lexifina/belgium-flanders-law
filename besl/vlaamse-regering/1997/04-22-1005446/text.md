@@ -4,45 +4,45 @@
 
 ### ART. 1.
 
-Voor de toepassing van dit besluit wordt verstaan onder:<br /><br />1° het centrum: de centra voor beroepsopleiding of omscholing die zich hoofdzakelijk richten tot personen met een handicap, en die tot doel hebben deze personen de nodige professionele vaardigheden bij te brengen om in het normale economische circuit tewerkgesteld te worden;<br /><br />2° de persoon met een handicap: de persoon met een handicap vermeld in artikel 2, 10°, van het decreet van 7 mei 2004 tot oprichting van het publiekrechtelijk vormgegeven extern verzelfstandigd agentschap « Vlaamse Dienst voor Arbeidsbemiddeling en Beroepsopleiding, waarvoor bij de bijstandsindicatie maatregelen inzake beroepsopleiding of tewerkstelling opgenomen zijn en die via de arbeidstrajectbegeleiding naar een centrum verwezen wordt;<br /><br />3° tewerkstelling in het normale economische circuit: betaalde arbeid op de reguliere arbeidsmarkt, met inbegrip van de tewerkstelling onder het stelsel van gesubsidieerd contractueel personeelslid in de privé- of openbare sector, tewerkstelling in het derde arbeidscircuit en invoegbedrijven, interimarbeid en tewerkstelling in het raam van een startbaanovereenkomst zoals vastgesteld in de wet van 24 december 1999 ter bevordering van de werkgelegenheid;<br /><br />4° opleidingspakket: de werkingseenheid die 3 600 opleidingsuren omvat, maximaal over 24 maand gespreid;<br /><br />5° de VDAB : de Vlaamse Dienst voor Arbeidsbemiddeling en Beroepsopleiding; <br /><br />6° het decreet: het decreet van 27 juni 1990 houdende oprichting van een Vlaams Fonds voor Sociale Integratie van Personen met een Handicap;<br /><br />7° enveloppe: het totale subsidiebedrag dat op jaarbasis, overeenkomstig de in de begroting van de VDAB ingeschreven kredieten, aan de centra wordt toegekend.<br /><br />Voor de toepassing van dit besluit worden stages, werkervaringsprojecten, tewerkstelling in sociale of beschutte werkplaatsen behalve voor wat betreft het kaderpersoneel, tewerkstelling in het raam van een weerwerkprogramma of tewerkstelling krachtens de bepalingen van artikel 60, § 7 van de organieke wet van 8 juli 1976 betreffende de openbare centra voor maatschappelijk welzijn niet als tewerkstelling in het normaal economisch circuit beschouwd.
+...
 
 ### ART. 2.
 
-De VDAB kan overeenkomstig de bepalingen van dit besluit en binnen de grenzen van de hiervoor op zijn begroting ingeschreven kredieten centra erkennen en subsidiëren voor de beroepsopleiding of omscholing volgens de modaliteiten bepaald bij dit besluit.
+...
 
 ## HOOFDSTUK II ERKENNING
 
 ### ART. 3.
 
-Onverminderd de algemene erkenningsvoorwaarden bepaald in hoofdstuk VI van het decreet of in uitvoering hiervan, moeten de centra, om erkend te worden:<br /><br />1° zich minstens voor 55 % van de hen toegewezen opleidingspakketten richten tot de personen met een handicap zoals bepaald in artikel 1, 2°;<br /><br />2° de sociale integratie van de personen met een handicap nastreven met het oog op hun maximale professionele integratie via tewerkstelling in het normale economische circuit zoals bepaald in artikel 1, 3°;<br /><br />3° verplicht deelnemen in het samenwerkingsverband dat de arbeidstrajectbegeleiding verzorgt in de regio waarin het centrum ligt, en met het oog op de optimalisering van de integratie van personen met een handicap deelnemen aan regionaal netwerkoverleg met andere voorzieningen of organisaties die actief zijn op het vlak van de opleiding en tewerkstelling van risicogroepen;<br /><br />4° bij hun werking de principes bepaald in hoofdstuk IV in acht nemen;<br /><br />5° beschikken over de nodige infrastructuur en bijzondere uitrusting:<br />a) om hun taak zoals omschreven in dit besluit op te nemen;<br />b) die aangepast zijn aan de doelgroep waartoe zij zich richten;<br />c) die voldoen aan de algemene bouwtechnische en bouwfysische normen die voor de voorzieningen voor de sociale integratie van personen met een handicap vastgesteld zijn ter uitvoering van het decreet van 23 februari 1994 inzake de infrastructuur voor persoonsgebonden aangelegenheden;<br /><br />6° beschikken over de minimale personeelsbezetting zoals omschreven in hoofdstuk III, en de opleiding van dit personeel regelmatig aanvullen via bijscholing;<br /><br />7° beschikken over de nodige controle- en evaluatie-instrumenten, inzonderheid:<br />a) jaarlijks uiterlijk op 1 april aan de VDAB een jaarverslag over het voorbije werkingsjaar voorleggen;<br />b) de modulaire opbouw van de opleiding- en begeleidingsstrategie planmatig vastleggen;<br />c) per persoon in opleiding en begeleiding wordt een individueel dossier bijgehouden, dat het begeleidingsplan omvat overeenkomstig de bepalingen van artikel 9;<br />d) beschikken over een cliëntopvolgings- en registratiesysteem dat het mogelijk maakt de gerealiseerde doelstellingen te controleren, inzonderheid inzake tewerkstelling van de op- of begeleide personen;<br />e) een boekhouding voeren en die zo organiseren dat de financiële controle op de aanwending van de subsidies door de VDAB mogelijk is. De VDAB kan hiervoor nadere regels vastleggen; <br /><br />8° de nodige psychische en sociale bijstand verlenen aan de personen met een handicap die zich tot de dienst wenden;<br /><br />9° een technische, budgettaire en administratieve autonomie genieten die hen in staat stelt hun opdracht te vervullen. Het bestuursorgaan van de inrichtende macht van het centrum mag geen aantal personen bevatten behorend tot dezelfde familie, echtgenoten en bloed- of aanverwanten tot de tweede graad inbegrepen, dat voor elke familie hoger is dan een derde van het totaal aantal leden waaruit dit bestuursorgaan is samengesteld;<br /><br />10° de hen opgelegde verplichtingen krachtens de wetgeving op de sociale zekerheid der werknemers nakomen;<br /><br />11° de nodige maatregelen nemen opdat de bij het Vlaams Agentschap voor Personen met een Handicap ingeschreven personen met een handicap het voordeel genieten van de betaling van uitkeringen en aanvullend loon en van de tegemoetkoming in de reis- en verblijfskosten.<br /><br />Het model van het opvolgings- en registratiesysteem zoals bepaald in 7°, d, wordt door de VDAB vastgesteld.
+Onverminderd de algemene erkenningsvoorwaarden bepaald in hoofdstuk VI van het decreet of in uitvoering hiervan, moeten de centra, om erkend te worden:<br />1° ...<br />2° ...<br />3° ...<br />4° ...<br />5° ...<br />6° ...<br />7° ...<br />8° ...<br />9° ...<br />10° de hen opgelegde verplichtingen krachtens de wetgeving op de sociale zekerheid der werknemers nakomen;<br />11° de nodige maatregelen nemen opdat de bij het Vlaams Agentschap voor Personen met een Handicap ingeschreven personen met een handicap het voordeel genieten van de betaling van uitkeringen en aanvullend loon en van de tegemoetkoming in de reis- en verblijfskosten.
 
 ### ART. 4.
 
-De VDAB beslist over de vergunningen en erkenningen die aan de centra verleend worden overeenkomstig de procedure vastgesteld ter uitvoering van de bepalingen van hoofdstuk VI van het decreet, en stelt hun capaciteit vast op basis van de opleidingspakketten.
+...
 
 ### ART. 5.
 
-De bepalingen genomen ter uitvoering van artikel 47 van het decreet zijn van toepassing op de centra.
+...
 
 ## HOOFDSTUK III MINIMUMPERSONEELSBEZETTING
 
 ### ART. 6.
 
-§ 1. De bij artikel 3, 6°, bedoelde minimumpersoneelsbezetting bestaat uit een begeleidend en opleidend personeelslid met een diploma van minstens hoger onderwijs buiten de universiteit per 5 opleidingspakketten.<br /><br />Met deze diplomavereiste wordt gelijkgesteld, een door de VDAB als equivalent beschouwd getuigschrift van opleiding op minstens graduaatsniveau.<br /><br />Als het centrum niet beschikt over extra personeel in toepassing van § 2 moet één personeelslid ook de managements- en beheerstaken uitoefenen.<br /><br />§ 2. Per voltooide schijf van vijf in § 1 bedoelde personeelsleden kan voor managements- en beheerstaken een extra personeelslid aangeworven worden met een diploma dat toegang verleent tot de betrekkingen van niveau A bij de Vlaamse administratie; dit extra personeelslid is vrijgesteld van begeleiding en opleiding.<br /><br />§ 3. De bij dit artikel bedoelde minimumpersoneelsbezetting wordt uitgedrukt in FTE (full time equivalent), waarbij een FTE overeenstemt met een tewerkstelling van 38 uur per week.
+...
 
 ### ART. 7.
 
-§ 1. De bezoldiging van de in artikel 6 bedoelde personeelsleden dient minimaal overeen te stemmen met de salarisschalen en anciënniteitsregels vastgesteld ten aanzien van de personeelsleden gesubsidieerd overeenkomstig het besluit van de Vlaamse regering van 15 december 1993 houdende de subsidiëring van de personeelskosten in bepaalde voorzieningen van de welzijnssector.<br /><br />§ 2. Het opleidingsniveau van het personeel dat op de datum van inwerkingtreding van dit besluit in dienst is, wordt gelijkgesteld met het bij artikel 6 bedoelde kwalificatieniveau.
+...
 
 ## HOOFDSTUK IV WERKING VAN HET CENTRUM
 
 ### ART. 8.
 
-Een opleiding en begeleiding kan per persoon met een handicap maximaal 3 600 effectieve opleidingsuren beslaan, en maximaal over een periode van 24 maanden gespreid worden. de VDAB kan nominatief afwijkingen op deze maximale spreidingsduur toestaan.
+...
 
 ### ART. 9.
 
-Per persoon met een handicap wordt een individueel opleidings- en begeleidingsplan opgesteld, dat minstens de einddoelstelling, de tussentijdse werkdoelen en de evaluatiemomenten vastlegt.<br /><br />De persoon met een handicap wordt betrokken bij het opstellen van dit opleidings- en begeleidingsplan, dat resulteert in een overeenkomst die ondertekend wordt door het centrum, de persoon met een handicap en de VDAB.<br /><br />De VDAB stelt het model van de in dit artikel bedoelde documenten vast.
+...
 
 ### ART. 10.
 
@@ -52,48 +52,48 @@ Per persoon met een handicap wordt een individueel opleidings- en begeleidingspl
 
 ### ART. 11.
 
-§ 1. De subsidiëring van elk centrum bedraagt 550 000 fr. per opleidingspakket en per jaar.<br /><br />Dit subsidiebedrag wordt geïndexeerd overeenkomstig de bepalingen van het koninklijk besluit van 24 december 1993 tot uitvoering van de wet van 6 januari 1989 tot vrijwaring van 's lands concurrentievermogen; voor de toepassing hiervan is het in het vorige lid bedoeld bedrag gekoppeld aan het indexcijfer dat van kracht is op de datum van inwerkingtreding van dit besluit.<br /><br />§ 2. Minimum 70 procent en maximum 85 procent van de in § 1 bedoelde subsidie wordt besteed aan personeelskosten voor het bij hoofdstuk III bedoeld personeel.<br /><br />§ 3. Minimum 15 procent en maximum 30 procent van de in § 1 bedoelde subsidie wordt besteed aan infrastructuur- en werkingskosten en aan personeelskosten voor administratief- en onderhoudspersoneel.
+...
 
 ### ART. 12.
 
-Bovenop de in artikel 11 bedoelde subsidie wordt aan elk centrum een bijkomend forfait "uitrustingsgebonden werkingskosten" toegekend, dat per opleidingspakket en per jaar 39 000 fr. bedraagt voor de opleidingspakketten die voorbereiden op een tewerkstelling als bediende, en 26 000 fr. voor de opleidingspakketten die voorbereiden op andere beroepen.<br /><br />Dit subsidiebedrag wordt geïndexeerd overeenkomstig de bepalingen van artikel 15, § 2 van het decreet van 6 juli 1994 houdende de bepalingen tot begeleiding van de aanpassing van de begroting 1994; voor de toepassing hiervan is het in vorig lid bedoeld bedrag gekoppeld aan het indexcijfer dat van kracht is op de datum van inwerkingtreding van dit besluit.
+...
 
 ### ART. 13.
 
-§ 1. Elk centrum bouwt met het niet uitgegeven deel van de subsidie reserves op.<br /><br />De besteding van deze reserves is onderworpen aan de voorafgaande toestemming van de VDAB.<br /><br />§ 2. De VDAB kan het bedrag van de toegestane reserves beperken.
+...
 
 ### ART. 14.
 
-§ 1. De in de artikelen 11 en 12 bedoelde subsidie wordt slechts tegen 100 procent uitgekeerd als het centrum, per twee jaar een aantal personen met een handicap tewerkstelt dat 60 procent bedraagt van het aantal in die periode gesubsidieerde opleidingspakketten.<br /><br />Voor de toepassing van deze paragraaf wordt de tewerkstelling slechts in aanmerking genomen als zij minstens een totale duurtijd heeft van 3 maanden binnen de 36 maanden na het opstarten van de opleiding-begeleiding.<br /><br />§ 2. Voor de toepassing van § 1 wordt dubbel geteld, de tewerkstelling van personen met een handicap die bij de aanvang van hun opleiding-begeleiding:<br />1° buitengewoon secundair onderwijs met opleidingsvorm 1 of 2 gevolgd hebben;<br />2° tot de groep van de matig mentaal gehandicapten behoren (intelligentiequotiënt 35-40 tot 50-55), of autist zijn;<br />3° recht geven op bijkomende kinderbijslag overeenkomstig de bepalingen van artikel 47 van de gecordineerde wetten betreffende de kinderbijslag voor loonarbeiders, of van artikel 20, § 2 van het koninklijk besluit van 8 april 1976 houdende regeling van de gezinsbijslag ten voordele van zelfstandigen, en daarenboven bij de evaluatie van de zelfredzaamheid ten minste 4 punten behalen overeenkomstig de bepalingen van het koninklijk besluit van 3 mei 1991 tot uitvoering van de artikelen 47, 56septies, 62, § 3 en 63 van de gecoördineerde wetten betreffende de kinderbijslag voor loonarbeiders en van artikel 96 van de wet van 29 december 1990 houdende sociale bepalingen, of van artikel 3 van het koninklijk besluit van 28 augustus 1991 tot uitvoering van de artikelen 20, §§ 2 en 3, 26 en 35 van het koninklijk besluit van 8 april 1976 houdende regeling van de gezinsbijslag, ten voordele van de zelfstandigen, of van artikel 23 van het koninklijk besluit van 21 februari 1991 tot wijziging van sommige bepalingen betreffende de regeling van de gezinsbijslag ten voordele van de zelfstandigen;<br />4° krachtens de wetgeving op de tegemoetkomingen aan gehandicapten die erkend werden als rechthebbende op een integratietegemoetkoming en van wie de graad van zelfredzaamheid op ten minste 9 punten werd vastgesteld krachtens de bepalingen van het ministerieel besluit van 30 juli 1987 tot vaststelling van de categorieën en van de handleiding voor de evaluatie van de graad van zelfredzaamheid met het oog op het onderzoek naar het recht op de integratietegemoetkoming;<br />5° minstens 2 jaar onafgebroken in een psychiatrische voorziening of erkende beschutte woonvorm opgenomen zijn;<br />6° opgenomen zijn in een door het Vlaams Agentschap voor Personen met een Handicap erkend dagcentrum of tehuis voor niet-werkenden;<br />7° de doven, te weten de auditief gehandicapten die ofwel een verlies van 90 decibel of meer aan het beste oor voor de zuivere toonstimuli van 500, 1.000 en 2.000 Hz (gemiddelde waarde Fletcher-index) aantonen via een tonaal audiometrische test, ofwel een verlies van minder dan 90 decibel, doch met minder dan 20 procent herkende woorden bij optimale versterking (categorie 4 in de BIAP-classificatie) aantonen via een vocaal audiometrische test;<br />8° de blinden, te weten de visueel gehandicapten die ofwel een gezichtsscherpte hebben van ten hoogste 1/20 (0,05) na maximale correctie, ofwel een gezichtsveld van gemiddeld ten hoogste 10 procent aan beide ogen.<br /><br />§ 3. Voor de toepassing van § 1 wordt voor 1,5 geteld, de tewerkstelling van personen met een handicap die bij de aanvang van hun opleiding-begeleiding:<br />1° krachtens artikel 40 van het decreet beschikken over een zorgtoewijzing voor beschutte tewerkstelling;<br />2° meer dan 5 jaar volledig uitkeringsgerechtigd werkloos zijn;<br />3° laaggeschoold zijn, d.w.z. geen diploma of kwalificatie hebben die het niveau gewoon of buitengewoon lager middelbaar onderwijs overschrijdt;<br />4° ouder zijn dan 45 jaar;<br />5° nooit gewerkt hebben en reeds meer dan 2 jaar de school verlaten hebben;<br />6° verblijven in een residentiële voorziening van de gehandicaptenzorg andere dan die bedoeld bij § 2, 6°, van de bijzondere jeugdbijstand of van het algemeen welzijnswerk;<br />7° een invaliditeitsuitkering ontvangen met toepassing van de wetgeving op de verplichte verzekering voor geneeskundige verzorging en uitkeringen;<br />8° de slechthorenden, te weten de auditief gehandicapten die een gehoorverlies hebben van 70 decibel op het beste oor volgens de "Indice de perte auditive" berekend volgens de formule van Fournier;<br />9° de slechtzienden, te weten de visueel gehandicapten met ofwel een gezichtsscherpte van minder dan 3/10 (0,3), doch gelijk aan of meer dan 1/100 (0,01) ter hoogte van het beste oog en met maximale correctie, ofwel een gezichtsveldvernauwing van gemiddeld 10° tot 20°, bilateraal of aan het beste oog, ofwel met grote centrale skotomen (minimum 5°), die de macula omvatten, of met meerdere kleine maculaire of paramaculaire skotomen (tot 30°);<br />10° een profiel hebben waarin tegelijk minimum 4 van volgende factoren voorkomen:<br />a) meer dan 1 jaar volledig uitkeringsgerechtigd werkloos;<br />b) ouder dan 25 jaar;<br />c) vrouw;<br />d) alleenstaande ouder met thuiswonende kinderen;<br />e) functioneel analfabeet, d.w.z. een schools niveau voor schrijven, lezen en rekenen ten hoogste gelijk aan het niveau van het tweede leerjaar basisonderwijs;<br />f) migrant overeenkomstig de definitie opgenomen in artikel 5, § 2 van het decreet van 31 juli 1990 tot instelling van een Vlaams Fonds voor de Integratie van Kansarmen;<br />g) begeleid worden door ambulante dienstverlening van bijzondere jeugdzorg, gehandicaptenzorg of van het algemeen welzijnswerk;<br />h) wisselende arbeidsloopbaan (minstens 4 verschillende tewerkstellingen gedurende een periode van 2 jaar);<br />i) geen rijbewijs hebben;<br />j) de school beëindigd hebben in het buitengewoon onderwijs type 1.<br /><br />§ 4. de VDAB bepaalt welke bewijsstukken ingediend moeten worden voor de toepassing van de §§ 2 en 3.
+...
 
 ### ART. 15.
 
-Ingeval de gerealiseerde tewerkstelling twee opeenvolgende jaren afwijkt van het bij artikel 14, § 1, bedoelde streefcijfer, wordt het aantal opleidingspakketten en de op dit aantal berekende subsidiëring, zoals bedoeld in de artikelen 11 en 12, door de VDAB het daaropvolgende jaar aangepast binnen de enveloppe. Deze aanpassing bedraagt het procentueel verschil tussen het streefcijfer en de gerealiseerde tewerkstelling, waarbij steeds naar de hogere eenheid wordt afgerond.<br /><br />De eerste evaluatie vindt plaats op 1 januari 2000.
+...
 
 ### ART. 16.
 
-Per kwartaal wordt aan het erkend centrum 22,5 procent uitgekeerd van de jaarlijkse subsidie zoals bepaald in dit hoofdstuk.<br /><br />Het saldo van de eindafrekening wordt betaald na goedkeuring van het jaarverslag bedoeld in artikel 3, 7°, en uiterlijk op 1 juli volgend op het betrokken werkingsjaar.
+...
 
 ## HOOFDSTUK VI EVALUATIE
 
 ### ART. 17.
 
-Onverminderd de bepalingen van hoofdstuk X van het decreet moeten de bij artikel 3, 7° bedoelde controle- en evaluatie-instrumenten te allen tijde ter beschikking staan van de VDAB.
+...
 
 ## HOOFDSTUK VII SLOTBEPALINGEN
 
 ### ART. 18.
 
-(niet opgenomen)<br /><br />(Heft de volgende regelingen op:<br /><br />1° de artikelen 44 tot en met 46, 56, § 2, 5°; 57 tot en met 61 van het koninklijk besluit van 5 juli 1963 betreffende de sociale reclassering van de minder-validen;<br /><br />2° de hoofdstukken II, III en IV van het ministerieel besluit van 22 september 1966 houdende vaststelling van de criteria van toekenning der toelagen voor de oprichting, de vergroting, de inrichting en het onderhoud van de centra voor beroepsopleiding of omscholing van minder-validen;<br /><br />3° de artikelen 12 en 16, 1° van het ministerieel besluit van 27 december 1967 houdende vaststelling van de criteria van toekenning der tegemoetkomingen inzake sociale hulp op het gebied van de sociale reclassering van de minder-validen;<br /><br />4° de woorden "de kosten voor beroepsopleiding, omscholing en herscholing" in het opschrift van hoofdstuk II en in artikel 15, § 1 van hetzelfde ministerieel besluit)
+...
 
 ### ART. 19.
 
-§ 1. Bij wijze van overgangsmaatregel blijven de algemene voorwaarden voor erkenning, vastgesteld bij het besluit van de Vlaamse Regering van 15 december 1993 tot vaststelling van algemene erkenningsvoorwaarden van voorzieningen bedoeld in het decreet van 27 juni 1990 houdende oprichting van een Vlaams Fonds voor de Sociale Integratie van Personen met een Handicap, alsmede de bouwtechnische en bouwfysische normen, vastgesteld in het besluit van de Vlaamse Regering van 6 juli 1994 tot vaststelling van de totale investeringssubsidie en de bouwtechnische normen voor de voorzieningen voor de sociale integratie van personen met een handicap, van kracht voor de centra voor beroepsopleiding of omscholing van personen met een handicap tot op het ogenblik dat ze voor het beleidsdomein Werk en Sociale Economie opgeheven worden of vervangen door andere algemene voorwaarden voor erkenning of bouwtechnische en bouwfysische normen.<br /><br />§ 2. Bij wijze van overgangsmaatregel blijven de door het Vlaams Fonds voor de Sociale Integratie van Personen met een Handicap vastgestelde modellen en richtlijnen, vermeld in artikel 3, 7°, e), artikel 11°, 9, derde lid, en artikel 14, § 4, van kracht tot ze vervangen worden door de door de VDAB vastgestelde modellen en richtlijnen.<br /><br />§ 3. De erkenningen die het Vlaams Fonds voor de Sociale Integratie van Personen met een Handicap aan de centra heeft verleend en de individuele opleidings- en begeleidingsplannen die het met de personen met een handicap heeft gesloten, blijven van kracht tot op de datum die in de erkenningen en overeenkomsten bepaald is, en uiterlijk tot en met 31 december 2008.<br />
+...
 
 ### ART. 20.
 
-Dit besluit heeft uitwerking met ingang van 1 januari 1997.
+...
 
 ### ART. 21.
 
-De Vlaamse minister, bevoegd voor de bijstand aan personen, is belast met de uitvoering van dit besluit.
+...
