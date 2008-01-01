@@ -1,0 +1,17 @@
+{
+  "codex_id": 1018483,
+  "title": "Ministerieel besluit van 2008-04-14 tot gelijkstelling van bepaalde dagen afwezigheid met werkelijke aanwezigheid in het raam van de subsidies voor het verblijf van de minderjarigen in de voorzieningen van de bijzondere jeugdbijstand van de categorieën 1 en 2",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1018483/VolledigDocument?datum=2008-01-01",
+  "source_sha256": "e0e964e0792fa9101fd6e248dcc632293ab9fba78ff67409e2074a14db4a6376",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1018483&param=informatie",
+  "as_of": "2008-01-01",
+  "made": "2008-04-14",
+  "gazette": "2009-10-26",
+  "numac": 2009204774,
+  "document_start": "2008-01-01",
+  "document_end": null,
+  "in_force": "2008-01-01",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2008-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
