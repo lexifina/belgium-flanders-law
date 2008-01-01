@@ -6,40 +6,40 @@ De Vlaamse minister van Institutionele Hervormingen, Landbouw, Zeevisserij en Pl
 
 ### ART. 1.
 
-In het artikel 9, § 4, van het ministerieel besluit van 21 december 2006, houdende tijdelijke aanvullende maatregelen tot het behoud van de visbestanden in zee, wordt het cijfer "8" vervangen door het getal "13".<br />
+...
 
 ### ART. 2.
 
-In het artikel 13 van hetzelfde besluit, worden met ingang van 1 juli 2007 volgende wijzigingen aangebracht :<br />1° in de § 1 wordt het getal "401" vervangen door het getal "415";<br />2° de § 2 wordt aangevuld met volgende leden :<br />« Het totale tongquotum in de i.c.e.s.-gebieden II, IV (Noordzee en Schelde-estuarium) voorbehouden aan de vissersvaartuigen met een motorvermogen van meer dan 221 kW bedraagt, voor de periode van 1 januari 2007 tot en met 31 december 2007, 969 ton.<br />Bij uitputting van dit quotum is het aan die vissersvaartuigen tot en met 31 december 2007 verboden nog tong aan te voeren uit de i.c.e.s.-gebieden II, IV (Noordzee en Schelde-estuarium). » <br />3° in de § 4 wordt het getal "4500" vervangen door "6000";<br />4° de § 4 wordt aangevuld met het volgende lid :<br />« Vanaf 1 juli 2007 tot en met 31 oktober 2007 is het verboden dat in de i.c.e.s.-gebieden II, IV (Noordzee en Schelde-estuarium) de tongvangst van een vissersvaartuig met een motorvermogen van meer dan 221 kW een hoeveelheid overschrijdt die gelijk is aan 3.000 kg, vermeerderd met een hoeveelheid die gelijk is aan 19 kg vermenigvuldigd met het motorvermogen van het vissersvaartuig, uitgedrukt in kW. » <br />
+...
 
 ### ART. 3.
 
-Het artikel 14, § 4, van hetzelfde besluit, wordt aangevuld met het volgende lid :<br />« Vanaf 1 juli 2007 tot en met 31 oktober 2007 is het verboden dat in de i.c.e.s.-gebieden II, IV (Noordzee en Schelde-estuarium) de scholvangst van een vissersvaartuig met een motorvermogen van meer dan 221 kW een hoeveelheid overschrijdt, die gelijk is aan 75 kg vermenigvuldigd met het motorvermogen van het vissersvaartuig uitgedrukt in kW. » <br />
+...
 
 ### ART. 4.
 
-In het artikel 15 van hetzelfde besluit, worden volgende wijzigingen aangebracht :<br />1° in § 1 wordt het getal "60" vervangen door het getal "69";<br />2° in § 2 wordt het getal "439" vervangen door het getal "506";<br />3° de § 4 wordt aangevuld met het volgende lid :<br />« Vanaf 1 juli 2007 tot en met 31 oktober 2007 is het verboden dat in de i.c.e.s.-gebieden VIIf,g, de tongvangst van een vissersvaartuig met een motorvermogen van meer dan 221 kW een hoeveelheid overschrijdt die gelijk is aan 5 kg vermenigvuldigd met het motorvermogen van het vissersvaartuig uitgedrukt in kW. » <br />
+...
 
 ### ART. 5.
 
-Het artikel 16, § 2, van hetzelfde besluit, wordt aangevuld met het volgende lid :<br />« Vanaf 1 juli 2007 tot en met 31 oktober 2007 is het verboden dat in de i.c.e.s.-gebieden VIIh,j,k de tongvangst van een vissersvaartuig met een motorvermogen van meer dan 221 kW een hoeveelheid overschrijdt die gelijk is aan 3 kg vermenigvuldigd met het motorvermogen van het vissersvaartuig uitgedrukt in kW. » <br />
+...
 
 ### ART. 6.
 
-In het artikel 18, § 3, van hetzelfde besluit, vervangen bij het ministerieel besluit van 23 maart 2007 wordt het getal "15" vervangen door het getal "20".<br />
+...
 
 ### ART. 7.
 
-In het artikel 19, § 5, van hetzelfde besluit, gewijzigd bij het ministerieel besluit van 23 maart 2007 wordt met ingang van 1 juli 2007 het getal "60" vervangen door het getal "20".<br />
+...
 
 ### ART. 8.
 
-In het artikel 20 van hetzelfde besluit, gewijzigd bij het ministerieel besluit van 23 maart 2007 worden volgende wijzigingen met ingang van 1 juli 2007 aangebracht :<br />1° in § 3 wordt het getal "60" vervangen door het getal "120";<br />2° in § 4 wordt het getal "120" vervangen door het getal "240".<br />
+...
 
 ### ART. 9.
 
-Het artikel 24, § 2, van hetzelfde besluit, wordt aangevuld met het volgende lid :<br />« Ingeval voor het betrokken vissersvaartuig gedurende 2006 dagen werden ingeruild, worden voor de toepassing van vorig lid, deze ingeruilde dagen als effectieve vaartdagen meegerekend. » <br />
+...
 
 ### ART. 10.
 
-Dit besluit treedt in werking op 1 juli 2007 en houdt op van kracht te zijn op 1 januari 2008.<br />
+...
