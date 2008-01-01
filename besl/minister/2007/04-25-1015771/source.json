@@ -2,16 +2,16 @@
   "codex_id": 1015771,
   "title": "Ministerieel besluit van 2007-04-25 houdende de bepaling van de middelgrote en grote veebedrijven en nadere bepalingen over het abonnement voor de financiering van de ophaling en verwerking van krengen voor 2007",
   "type": "Ministerieel besluit",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1015771/VolledigDocument?datum=2007-01-01",
-  "source_sha256": "ddb97157090df4df9f6898e0d7c2a60ec04404cd97c3bb9bef4db44576e39a7f",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1015771/VolledigDocument?datum=2008-01-01",
+  "source_sha256": "e3a9ed9746a6e31edbc1744dc47a1c9a596884171f55ff26c6448ce0dd846b05",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1015771&param=informatie",
-  "as_of": "2007-01-01",
+  "as_of": "2008-01-01",
   "made": "2007-04-25",
   "gazette": "2007-05-18",
   "numac": 200702025,
   "document_start": "2007-01-01",
   "document_end": "2007-12-31",
-  "in_force": "2007-01-01",
+  "in_force": "2008-01-01",
   "article_versions": 6,
-  "record_form": "consolidated version as in force on 2007-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2008-01-01; future article versions excluded; article text as the API gives it"
 }
