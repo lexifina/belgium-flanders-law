@@ -1,0 +1,17 @@
+{
+  "codex_id": 1016986,
+  "title": "Ministerieel besluit van 2008-07-25 betreffende het gebruik van uit productie genomen grond voor de productie van grondstoffen voor de vervaardiging in de Gemeenschap van niet specifiek voor voeding of vervoedering bestemde producten",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1016986/VolledigDocument?datum=2008-01-01",
+  "source_sha256": "b3d803a8961881ad029de0013df23af5e770eb87278f47f3aa13f52e3807c714",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1016986&param=informatie",
+  "as_of": "2008-01-01",
+  "made": "2008-07-25",
+  "gazette": "2008-08-22",
+  "numac": 2008202819,
+  "document_start": "2008-01-01",
+  "document_end": "2008-12-31",
+  "in_force": "2008-01-01",
+  "article_versions": 23,
+  "record_form": "consolidated version as in force on 2008-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
