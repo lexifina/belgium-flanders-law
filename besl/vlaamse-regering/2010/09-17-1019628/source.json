@@ -1,0 +1,17 @@
+{
+  "codex_id": 1019628,
+  "title": "Besluit van de Vlaamse Regering van 2010-09-17 betreffende de subsidiëring van crisisjeugdhulpverlening en rechtstreeks toegankelijke jeugdhulp verleend door voorzieningen voor personen met een handicap [...opgeh. BVR 24 januari 2014, art. 1, I: 1 januari 2014)]",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1019628/VolledigDocument?datum=2008-01-01",
+  "source_sha256": "5b8c2f841139be5921fc420360d1f856c93ccd79cd470e8290b6330ac0ab80ef",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1019628&param=informatie",
+  "as_of": "2008-01-01",
+  "made": "2010-09-17",
+  "gazette": "2010-10-28",
+  "numac": 2010205562,
+  "document_start": "2008-01-01",
+  "document_end": null,
+  "in_force": "2008-01-01",
+  "article_versions": 6,
+  "record_form": "consolidated version as in force on 2008-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
