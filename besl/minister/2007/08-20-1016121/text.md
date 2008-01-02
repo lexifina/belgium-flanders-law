@@ -6,16 +6,16 @@ De Vlaamse minister van Institutionele hervormingen, Havens, Landbouw, Zeevisser
 
 ### ART. 1.
 
-In het artikel 13, § 3 van het ministerieel besluit van 21 december 2006, houdende tijdelijke aanvullende maatregelen tot het behoud van de visbestanden in zee, gewijzigd bij het ministerieel besluit van 25 juni 2007, wordt het getal "35" vervangen door het getal "40".<br /><br />
+...
 
 ### ART. 2.
 
-In het artikel 14, § 3 van hetzelfde besluit, gewijzigd bij het ministerieel besluit van 25 juni 2007, wordt het getal "90" vervangen door het getal "100".<br /><br />
+...
 
 ### ART. 3.
 
-In het artikel 19 van hetzelfde besluit, gewijzigd bij de ministeriële besluiten van 23 maart 2007 en 25 juni 2007 worden met ingang van 1 september 2007 volgende wijzigingen aangebracht :<br />1° in § 1 wordt het getal "300" vervangen door het getal "400";<br />2° in § 2 wordt het getal "600" vervangen door het getal "800";<br /><br />
+...
 
 ### ART. 4.
 
-Dit besluit treedt in werking op 1 september 2007 en houdt op van kracht te zijn op 1 januari 2008.<br /><br />
+...
