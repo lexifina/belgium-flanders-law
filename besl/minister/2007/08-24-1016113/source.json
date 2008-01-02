@@ -2,16 +2,16 @@
   "codex_id": 1016113,
   "title": "Ministerieel besluit van 2007-08-24 houdende beëindiging van de visserij op schartong in de i.c.e.s.-gebieden II, IV",
   "type": "Ministerieel besluit",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1016113/VolledigDocument?datum=2007-08-29",
-  "source_sha256": "79176ff6bc237a6ed8ec59baf241c0aee5119722543f01bcf5f318a1075af5e5",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1016113/VolledigDocument?datum=2008-01-02",
+  "source_sha256": "bb34f3673027931a58c24819862b5e038b1156e77f97777d9b0b234ec903e5cf",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1016113&param=informatie",
-  "as_of": "2007-08-29",
+  "as_of": "2008-01-02",
   "made": "2007-08-24",
   "gazette": "2007-08-29",
   "numac": 2007036488,
   "document_start": "2007-08-29",
   "document_end": "2008-01-01",
-  "in_force": "2007-08-29",
+  "in_force": "2008-01-02",
   "article_versions": 4,
-  "record_form": "consolidated version as in force on 2007-08-29; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2008-01-02; future article versions excluded; article text as the API gives it"
 }
