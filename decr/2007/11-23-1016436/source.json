@@ -1,0 +1,17 @@
+{
+  "codex_id": 1016436,
+  "title": "Decreet van 2007-11-23 houdende instemming met de overeenkomst houdende oprichting van het « International Plant Genetic Resources Institute », opgemaakt in Rome op 9 oktober 1991",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1016436/VolledigDocument?datum=2008-01-03",
+  "source_sha256": "df245cbdf9d0407b640bfb77aa619c36b59f6ac4b6d353650e3098a96c147959",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1016436&param=informatie",
+  "as_of": "2008-01-03",
+  "made": "2007-11-23",
+  "gazette": "2007-12-24",
+  "numac": 2007037160,
+  "document_start": "2008-01-03",
+  "document_end": null,
+  "in_force": "2008-01-03",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2008-01-03; oldest version available; future article versions excluded; article text as the API gives it"
+}
