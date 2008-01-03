@@ -1,0 +1,17 @@
+{
+  "codex_id": 1016434,
+  "title": "Decreet van 2007-11-23 houdende instemming met de herziene tekst van het Internationaal Verdrag voor de bescherming van planten en de bijlage, opgemaakt in Rome op 17 november 1997",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1016434/VolledigDocument?datum=2008-01-03",
+  "source_sha256": "d8576d5de8d9d3ee5517c592c4bda775de999ea2ea084511e53275a44a580af7",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1016434&param=informatie",
+  "as_of": "2008-01-03",
+  "made": "2007-11-23",
+  "gazette": "2007-12-24",
+  "numac": 2007037163,
+  "document_start": "2008-01-03",
+  "document_end": null,
+  "in_force": "2008-01-03",
+  "article_versions": 2,
+  "record_form": "consolidated version as in force on 2008-01-03; oldest version available; future article versions excluded; article text as the API gives it"
+}
