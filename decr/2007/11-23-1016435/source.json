@@ -1,0 +1,17 @@
+{
+  "codex_id": 1016435,
+  "title": "Decreet van 2007-11-23 houdende instemming met het Verdrag van de Verenigde Naties tegen corruptie, opgemaakt in New York op 31 oktober 2003",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1016435/VolledigDocument?datum=2008-01-03",
+  "source_sha256": "ef3ea372c4516a6a3b95f9cdbf6f6b6e5826b1f4a70f51320ee58d8dc3021cfc",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1016435&param=informatie",
+  "as_of": "2008-01-03",
+  "made": "2007-11-23",
+  "gazette": "2007-12-24",
+  "numac": 2007037162,
+  "document_start": "2008-01-03",
+  "document_end": null,
+  "in_force": "2008-01-03",
+  "article_versions": 2,
+  "record_form": "consolidated version as in force on 2008-01-03; oldest version available; future article versions excluded; article text as the API gives it"
+}
