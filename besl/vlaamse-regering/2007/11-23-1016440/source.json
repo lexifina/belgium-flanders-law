@@ -1,0 +1,17 @@
+{
+  "codex_id": 1016440,
+  "title": "Besluit van de Vlaamse Regering van 2007-11-23 tot vrijstelling van de federale bijdrage ter compensatie van de inkomstenderving van de gemeenten ingevolge de liberalisering van de elektriciteitsmarkt",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1016440/VolledigDocument?datum=2008-01-06",
+  "source_sha256": "628ae65f1a13e37c34a605e307a50a0a481ce5fb1faf9248b89a73853d27db14",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1016440&param=informatie",
+  "as_of": "2008-01-06",
+  "made": "2007-11-23",
+  "gazette": "2007-12-27",
+  "numac": 2007037291,
+  "document_start": "2008-01-06",
+  "document_end": null,
+  "in_force": "2008-01-06",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2008-01-06; oldest version available; future article versions excluded; article text as the API gives it"
+}
