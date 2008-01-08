@@ -44,7 +44,7 @@ Bij tijdelijke afwezigheid van een gewestelijk ontvanger kan de provinciegouvern
 
 ### ART. 7.
 
-De gewestelijke ontvanger behandelt de gebruikers van de dienst welwillend en zonder enige discriminatie.
+...
 
 ### ART. 8.
 
