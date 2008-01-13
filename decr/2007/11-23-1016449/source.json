@@ -1,0 +1,17 @@
+{
+  "codex_id": 1016449,
+  "title": "Decreet van 2007-11-23 houdende instemming met het verdrag betreffende het Eurokorps en de rechtspositie van zijn hoofdkwartier tussen de Franse Republiek, de Bondsrepubliek Duitsland, het Koninkrijk België, het Koninkrijk Spanje en het Groothertogdom Luxemburg, en de Slotakte, ondertekend in Brussel op 22 november 2004",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1016449/VolledigDocument?datum=2008-01-13",
+  "source_sha256": "a29b298d15767f355b6454ef3c9248429f70d2dc2906fb8b9ef4ef3b504192d1",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1016449&param=informatie",
+  "as_of": "2008-01-13",
+  "made": "2007-11-23",
+  "gazette": "2008-01-03",
+  "numac": 2007037177,
+  "document_start": "2008-01-13",
+  "document_end": null,
+  "in_force": "2008-01-13",
+  "article_versions": 2,
+  "record_form": "consolidated version as in force on 2008-01-13; oldest version available; future article versions excluded; article text as the API gives it"
+}
