@@ -1,0 +1,17 @@
+{
+  "codex_id": 1016450,
+  "title": "Decreet van 2007-12-07 houdende instemming met de avenant van 28 december 2006 aan het Samenwerkingsakkoord van 30 mei 2005 tussen de Federale Staat, het Vlaams, het Waals en het Brussels Hoofdstedelijk Gewest en de Duitstalige Gemeenschap betreffende de meerwaardeneconomie",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1016450/VolledigDocument?datum=2008-01-13",
+  "source_sha256": "31f4abe1b6298de9fbdc4c127d3e986a987decbbc7d2665c76d2520149af25d4",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1016450&param=informatie",
+  "as_of": "2008-01-13",
+  "made": "2007-12-07",
+  "gazette": "2008-01-03",
+  "numac": 2007037270,
+  "document_start": "2008-01-13",
+  "document_end": null,
+  "in_force": "2008-01-13",
+  "article_versions": 2,
+  "record_form": "consolidated version as in force on 2008-01-13; oldest version available; future article versions excluded; article text as the API gives it"
+}
