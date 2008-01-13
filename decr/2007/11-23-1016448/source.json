@@ -1,0 +1,17 @@
+{
+  "codex_id": 1016448,
+  "title": "Decreet van 2007-11-23 houdende instemming met de stabilisatie- en associatieovereenkomst tussen de Europese Gemeenschappen en hun lidstaten, enerzijds, en de Republiek Albanië, anderzijds, en de Slotakte, ondertekend in Luxemburg op 12 juni 2006",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1016448/VolledigDocument?datum=2008-01-13",
+  "source_sha256": "6403b7981ccb9af8bbe2c1a4b428d63feb2d16680c937d46db6f539ede25adb6",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1016448&param=informatie",
+  "as_of": "2008-01-13",
+  "made": "2007-11-23",
+  "gazette": "2008-01-03",
+  "numac": 2007037179,
+  "document_start": "2008-01-13",
+  "document_end": null,
+  "in_force": "2008-01-13",
+  "article_versions": 2,
+  "record_form": "consolidated version as in force on 2008-01-13; oldest version available; future article versions excluded; article text as the API gives it"
+}
