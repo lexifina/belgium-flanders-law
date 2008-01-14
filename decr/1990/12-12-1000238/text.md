@@ -266,13 +266,13 @@ Het Ministerie van de Vlaamse Gemeenschap wordt belast met de taken inzake vergu
 
 ### ART. 56.
 
-De Vlaamse regering bepaalt welke personeelsleden ingevolge de gewijzigde opdrachten van de Afvalstoffenmaatschappij en het Ministerie van de Vlaamse Gemeenschap, vanuit de Afvalstoffenmaatschappij worden overgedragen aan de Vlaamse regering en geïntegreerd in het Ministerie van de Vlaamse Gemeenschap.<br /><br />De Vlaamse regering bepaalt welke roerende en onroerende goederen die noodzakelijk zijn voor de uitvoering van de ingevolge dit decreet aan het Ministerie van de Vlaamse Gemeenschap toegewezen opdrachten vanuit de Afvalstoffenmaatschappij worden overgedragen naar het Vlaamse Gewest.<br /><br />De Vlaamse regering bepaalt de nadere regels inzake de overdracht van de betrokken ambtenaren en goederen.<br /><br />(I: 21 december 1990. Zie B.V.R. 21 december 1990, B.S., 29 december 1990)
+De Vlaamse regering bepaalt welke personeelsleden ingevolge de gewijzigde opdrachten van de Openbare Vlaamse Afvalstoffenmaatschappij en de Vlaamse overheid, vanuit de Openbare Vlaamse Afvalstoffenmaatschappij worden overgedragen aan de Vlaamse regering en geïntegreerd in de Vlaamse overheid.<br /><br />De Vlaamse regering bepaalt welke roerende en onroerende goederen die noodzakelijk zijn voor de uitvoering van de ingevolge dit decreet aan de Vlaamse overheid toegewezen opdrachten vanuit de Openbare Vlaamse Afvalstoffenmaatschappij worden overgedragen naar het Vlaamse Gewest.<br /><br />De Vlaamse regering bepaalt de nadere regels inzake de overdracht van de betrokken ambtenaren en goederen.
 
 ## HOOFDSTUK 9 VLAAMSE MILIEUMAATSCHAPPIJ
 
 ### ART. 57.
 
-Het Ministerie van de Vlaamse Gemeenschap wordt belast met de taken inzake vergunningen en inspectie bepaald in de wet van 26 maart 1971 op de bescherming van de oppervlaktewateren tegen verontreiniging.<br /><br />(I: 21 december 1990. Zie B.V.R. 21 december 1990, B.S., 29 december 1990)
+De Vlaamse overheid wordt belast met de taken inzake vergunningen en inspectie bepaald in de wet van 26 maart 1971 op de bescherming van de oppervlaktewateren tegen verontreiniging.
 
 ### ART. 58.
 
@@ -300,11 +300,11 @@ De personeelsleden van het Wegenfonds die, in toepassing van artikel 14, §§ 4 
 
 ### ART. 62.
 
-De Vlaamse regering stelt nadere regels vast met betrekking tot de samenwerking tussen het Mi-nisterie van de Vlaamse Gemeenschap, de Openbare Afvalstoffenmaatschappij voor het Vlaamse Gewest, de Vlaamse Landmaatschappij, de Vlaamse Huisvestingsmaatschappij, de Vlaamse Milieumaatschappij, de Vlaamse Maatschappij voor Watervoorziening, en de in de artikel 32 septies, § 1, van de wet van 26 maart 1971 op de bescherming van de oppervlaktewateren bedoelde naamloze vennootschap, inzonderheid wat de al dan niet geautomatiseerde informatie-uitwisseling betreft.<br /><br />(I: 21 december 1990. Zie B.V.R. 21 december 1990, B.S., 29 december 1990)
+De Vlaamse regering stelt nadere regels vast met betrekking tot de samenwerking tussen de Vlaamse overheid, de Openbare Vlaamse Afvalstoffenmaatschappij voor het Vlaamse Gewest, de Vlaamse Landmaatschappij, de Vlaamse Huisvestingsmaatschappij, de Vlaamse Milieumaatschappij, de Vlaamse Maatschappij voor Watervoorziening, en de in de artikel 32 septies, § 1, van de wet van 26 maart 1971 op de bescherming van de oppervlaktewateren bedoelde naamloze vennootschap, inzonderheid wat de al dan niet geautomatiseerde informatie-uitwisseling betreft.
 
 ### ART. 63.
 
-De overdracht van de personeelsleden van het Commissariaat-generaal voor de Internationale Samenwerking, het Gebouwenfonds voor de Rijksscholen, het Vlaams Fonds voor de Bouw van Ziekenhuizen en Medisch-Sociale Instellingen, het Wegenfonds, de Vlaamse Maatschappij voor Waterzuivering, de Openbare Afvalstoffenmaatschappij voor het Vlaamse Gewest, naar het Ministerie van de Vlaamse Gemeenschap geschiedt met hun graad of een gelijkwaardige graad en in hun hoedanigheid.<br /><br />Zij behouden tenminste de administratieve en geldelijke anciënniteit, de toelagen, vergoedingen of premies en andere voordelen die zij hadden of zouden verkregen hebben krachtens een reglementering indien zij binnen de instelling van herkomst het ambt hadden blijven uitoefenen dat zij bij hun overdracht bekleedden.<br /><br />Deze overdrachten zijn geen nieuwe benoemingen. Zij kunnen niet worden beschouwd als overplaatsingen volgens het koninklijk besluit van 2 oktober 1937 houdende het statuut van het rijkspersoneel.<br /><br />(I: 21 december 1990. Zie B.V.R. 21 december 1990, B.S., 29 december 1990)
+De overdracht van de personeelsleden van het Commissariaat-generaal voor de Internationale Samenwerking, het Gebouwenfonds voor de Rijksscholen, het Vlaams Fonds voor de Bouw van Ziekenhuizen en Medisch-Sociale Instellingen, het Wegenfonds, de Vlaamse Maatschappij voor Waterzuivering, de Openbare Vlaamse Afvalstoffenmaatschappij voor het Vlaamse Gewest, naar de Vlaamse overheid geschiedt met hun graad of een gelijkwaardige graad en in hun hoedanigheid.<br /><br />Zij behouden tenminste de administratieve en geldelijke anciënniteit, de toelagen, vergoedingen of premies en andere voordelen die zijn hadden of zouden verkregen hebben krachtens een reglementering indien zij binnen de instelling van herkomst het ambt hadden blijven uitoefenen dat zij bij hun overdracht bekleedden.<br /><br />Deze overdrachten zijn geen nieuwe benoemingen. Zij kunnen niet worden beschouwd als overplaatsingen volgens het koninklijk besluit van 2 oktober 1937 houdende het statuut van het rijkspersoneel.
 
 ## TITEL II BESTUURLIJKE MAATREGELEN INZAKE HET PERSONEEL VAN SOMMIGE OPENBARE INSTELLINGEN
 
