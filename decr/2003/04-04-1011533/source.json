@@ -2,16 +2,16 @@
   "codex_id": 1011533,
   "title": "Decreet van 2003-04-04 betreffende de oppervlaktedelfstoffen",
   "type": "Decreet",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1011533/VolledigDocument?datum=2006-06-01",
-  "source_sha256": "7ff1ae210dccbeff12d531864519584369f50d09eec5d2c7d76467386379e5e4",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1011533/VolledigDocument?datum=2008-01-14",
+  "source_sha256": "9f5605ae868b62ad5da3e6460f78a1734f920dc4220a1ff2612429337a52d0a0",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1011533&param=informatie",
-  "as_of": "2006-06-01",
+  "as_of": "2008-01-14",
   "made": "2003-04-04",
   "gazette": "2003-08-25",
   "numac": 2003035691,
   "document_start": "2004-07-08",
   "document_end": null,
-  "in_force": "2006-06-01",
+  "in_force": "2008-01-14",
   "article_versions": 35,
-  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2008-01-14; future article versions excluded; article text as the API gives it"
 }
