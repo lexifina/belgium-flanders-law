@@ -60,6 +60,18 @@
 
 ## HOOFDSTUK VIII Flanders House Inc.
 
+### ART. 43.
+
+De Vlaamse Regering wordt ertoe gemachtigd om toe te treden als stichtend lid tot de Amerikaanse non for profit corporation (NFP) type 501. c 3 « Flanders House Inc. ».<br /><br />
+
+### ART. 44.
+
+De NFP stelt zich tot doel Vlaanderen in de VS te promoten en de Vlaamse cultuur er uit te dragen door middel van diverse communicatiekanalen en activiteiten.<br /><br />
+
+### ART. 45.
+
+De financiële tegemoetkoming van de Vlaamse Gemeenschap in de algemene werking van de Amerikaanse non for profit corporation « Flanders House Inc. » omvat een jaarlijkse subsidie die in de begroting van de Vlaamse Gemeenschap is opgenomen. Vanaf de begroting 2009 zal deze subsidie worden opgenomen.<br /><br />
+
 ## HOOFDSTUK IX Fonds voor Kunsten en Erfgoed
 
 ## HOOFDSTUK X Vlaamse Regulator voor de Media
