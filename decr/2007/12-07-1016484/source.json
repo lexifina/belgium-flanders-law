@@ -1,0 +1,17 @@
+{
+  "codex_id": 1016484,
+  "title": "Decreet van 2007-12-07 houdende de wettelijke en decretale aanpassingen inzake leefmilieu, natuurbehoud en energie als gevolg van het bestuurlijk beleid",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1016484/VolledigDocument?datum=2008-01-14",
+  "source_sha256": "97cf953da48eae62e9fbd1b8a619b6aa3392b3f1cac070c94b5b08d7c490c727",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1016484&param=informatie",
+  "as_of": "2008-01-14",
+  "made": "2007-12-07",
+  "gazette": "2008-01-14",
+  "numac": 2007037387,
+  "document_start": "2008-01-14",
+  "document_end": null,
+  "in_force": "2008-01-14",
+  "article_versions": 73,
+  "record_form": "consolidated version as in force on 2008-01-14; oldest version available; future article versions excluded; article text as the API gives it"
+}
