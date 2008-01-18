@@ -1,0 +1,17 @@
+{
+  "codex_id": 1016565,
+  "title": "Besluit van de Vlaamse Regering van 2008-01-18 [houdende uitvoering van de Verordening (EG) Nr. 1082/2006 van het Europees Parlement en de Raad van 5 juli 2006 betreffende een Europese groepering voor territoriale samenwerking (EGTS) (verv. BVR 26 september 2008, art. 1)]",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1016565/VolledigDocument?datum=2008-01-18",
+  "source_sha256": "32d675ae882f1a69855da6904c1027999287ee54f2b86d779c7ba1f42ae4a4c9",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1016565&param=informatie",
+  "as_of": "2008-01-18",
+  "made": "2008-01-18",
+  "gazette": "2008-02-05",
+  "numac": 2008035149,
+  "document_start": "2008-01-18",
+  "document_end": null,
+  "in_force": "2008-01-18",
+  "article_versions": 5,
+  "record_form": "consolidated version as in force on 2008-01-18; oldest version available; future article versions excluded; article text as the API gives it"
+}
