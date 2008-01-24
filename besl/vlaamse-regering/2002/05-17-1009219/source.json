@@ -2,16 +2,16 @@
   "codex_id": 1009219,
   "title": "Besluit van de Vlaamse Regering van 2002-05-17 betreffende erkenning en subsidiëring van de vertrouwenscentra kindermishandeling",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1009219/VolledigDocument?datum=2006-06-01",
-  "source_sha256": "214b1df8453fed6a758897585b79e5563a8a0178e2d29655277bef9919194288",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1009219/VolledigDocument?datum=2008-01-24",
+  "source_sha256": "61710e7dee35c6f8b3a4d4be91ef1874d46d042a90290777a5357b8f7ca8cbb7",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1009219&param=informatie",
-  "as_of": "2006-06-01",
+  "as_of": "2008-01-24",
   "made": "2002-05-17",
   "gazette": "2002-06-19",
   "numac": 2002035781,
   "document_start": "2002-01-01",
   "document_end": "2017-12-31",
-  "in_force": "2006-06-01",
-  "article_versions": 37,
-  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "in_force": "2008-01-24",
+  "article_versions": 38,
+  "record_form": "consolidated version as in force on 2008-01-24; future article versions excluded; article text as the API gives it"
 }
