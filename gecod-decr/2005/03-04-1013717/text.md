@@ -1006,39 +1006,39 @@ De termijnen, vastgesteld in dit decreet, met uitzondering van die welke bedoeld
 
 ### ART. 192.
 
-Bij het ministerie van de Vlaamse Gemeenschap wordt een Vlaamse Mediaraad opgericht, waarnaar hierna in deze titel met « de Mediaraad » wordt verwezen.<br /><br />De zetel van de Mediaraad is gevestigd in Brussel.<br /><br />De Mediaraad heeft als opdracht op vraag van het Vlaams Parlement, van de Vlaamse Regering of op eigen initiatief advies uit te brengen over alle aangelegenheden die het mediabeleid betreffen. De Vlaamse Regering wint inzonderheid het advies van de Mediaraad in over al haar voorontwerpen van decreet en al haar ontwerpen van reglementaire besluiten inzake het mediabeleid.<br /><br />Voor de toepassing van dit artikel wordt onder mediabeleid verstaan: de radio-omroep en de televisie, de schrijvende pers en alle andere communicatie- en informatiemedia.
+...
 
 ### ART. 193.
 
-De adviezen van de Mediaraad zijn met redenen omkleed. Ze vermelden desgevallend minderheidsstandpunten.<br /><br />De Mediaraad maakt de adviezen openbaar nadat ze aan de Vlaamse Regering en aan het Vlaams Parlement zijn overhandigd.<br /><br />Als de Mediaraad gevraagd wordt om advies te geven, kan de Vlaamse Regering de termijn bepalen waarbinnen de Mediaraad dat advies moet uitbrengen. Die termijn mag enkel in geval van beargumenteerde hoogdringendheid minder dan veertien werkdagen bedragen maar nooit minder dan zeven. Als binnen de gestelde termijn geen advies wordt uitgebracht, wordt geacht aan de adviesverplichting te zijn voldaan.
+...
 
 ### ART. 194.
 
-§ 1. De Mediaraad bestaat uit maximaal vijfentwintig leden. Zij worden benoemd door de Vlaamse Regering voor de duur van vier jaar. De Vlaamse Regering duidt onder hen een voorzitter en een ondervoorzitter aan. Voor elk lid wordt een plaatsvervanger aangeduid.<br /><br />§ 2. De Mediaraad is samengesteld uit mediadeskundigen en vertegenwoordigers van de gebruikers en van de mediasectoren. Het aantal vertegenwoordigers van de mediasectoren bedraagt maximaal vijftien. Het aantal mediadeskundigen en vertegenwoordigers van de gebruikers bedraagt telkens minstens vijf.<br /><br />Er moet bij de samenstelling gestreefd worden naar een vertegenwoordiging van onder meer de volgende mediasectoren: de openbare omroep, de particuliere televisieomroepen, de regionale omroepen, de particuliere radio-omroepen, de dag- en weekbladen, de beroepsjournalisten, de kabelnetwerken, de audiovisuele sector, de vereniging voor auteursrechten en de reclamesector.<br /><br />§ 3. De Vlaamse Regering kan kandidaten laten voordragen door verenigingen of instellingen die een mediasector vertegenwoordigen. Op verzoek van het lid of van de vereniging of instelling die het lid heeft voorgedragen, wordt aan het mandaat voortijdig een einde gemaakt. De opvolger beëindigt het mandaat van zijn voorganger.<br /><br />§ 4. Ten hoogste twee derde van de leden van de Mediaraad is van hetzelfde geslacht.
+...
 
 ### ART. 195.
 
-Het lidmaatschap van de Mediaraad is onverenigbaar met een mandaat in het Europees Parlement, de Kamer van Volksvertegenwoordigers, de Senaat, het Vlaams Parlement en het Brussels Hoofdstedelijk Parlement, met het ambt van minister, staatssecretaris, Vlaams minister, Brussels minister en hun kabinetsleden en met het ambt van personeelslid van het ministerie van de Vlaamse Gemeenschap.<br /><br />Het uitoefenen van om het even welke functie in of opdracht voor een mediasector, -bedrijf of -instelling is onverenigbaar met de hoedanigheid van mediadeskundige en vertegenwoordiger van de gebruikers zoals bedoeld in artikel 194, § 2.
+...
 
 ### ART. 196.
 
-Voor de voorbereiding van zijn adviezen kan de Mediaraad zich onder de voorwaarden, bepaald in het reglement van orde, laten bijstaan door externe experts of door werkgroepen die de Mediaraad opricht. Externe experts kunnen in de werkgroepen zitting hebben. De werkgroepen worden voorgezeten door een van de vaste mediadeskundigen van de Mediaraad. De werkgroepen leggen over hun voorbereidend werk een verslag aan de Mediaraad voor.
+...
 
 ### ART. 197.
 
-De voorzitter zit de Mediaraad voor en vertegenwoordigt hem naar buiten.
+...
 
 ### ART. 198.
 
-De Mediaraad stelt zijn reglement van orde op en legt het ter goedkeuring voor aan de Vlaamse Regering. Het reglement van orde bepaalt inzonderheid de voorwaarden betreffende de samenstelling en de werking van de werkgroepen, het in de arm nemen van experts, het aanwezigheidsquorum dat moet worden bereikt om geldig te adviseren en de wijze waarop de adviezen openbaar worden gemaakt.
+...
 
 ### ART. 199.
 
-De Mediaraad stelt jaarlijks ten behoeve van de Vlaamse Regering en het Vlaams Parlement een activiteitenverslag op dat, voor 30 april van het daaropvolgende kalenderjaar, wordt voorgelegd.
+...
 
 ### ART. 200.
 
-Het ministerie van de Vlaamse Gemeenschap staat in voor het secretariaat en de logistiek van de Mediaraad en van de werkgroepen.
+...
 
 ## TITEL XIII Strafbepalingen
 
@@ -1066,7 +1066,7 @@ Onverminderd artikel 111, blijft de code voor reclame en sponsoring op radio en 
 
 ### ART. 206.
 
-§ 1. De bepalingen van artikel 66 tot en met 68, artikel 70, artikel 81 tot en met 86, 88, 89 en artikel 166 kunnen worden gewijzigd of opgeheven, bij besluit van de Vlaamse Regering.<br /><br />Deze reglementaire besluiten evenals de reglementaire besluiten bedoeld in artikel 62, § 1 en § 2, worden genomen op advies van de Vlaamse Mediaraad. Ze worden zonder terugwerkende kracht toepasbaar ten vroegste vanaf de dag van de publicatie ervan in het Belgisch Staatsblad, en ze worden in voorkomend geval op een latere datum in het betreffende besluit vastgesteld.<br /><br />§ 2. Ze worden binnen tien dagen na de bekendmaking ervan in het Belgisch Staatsblad door de Vlaamse Regering ter bekrachtiging voorgelegd aan het Vlaams Parlement. De bekrachtiging wordt geacht niet verleend te zijn, als het Vlaams Parlement bij het verstrijken van een termijn van zes maanden geen beslissing heeft genomen. De bedoelde besluiten behouden in dat geval hun rechtsgevolgen tegenover derden zolang ze niet vervangen zijn door nieuwe besluiten.<br /><br />§ 3. De op grond van een besluit van de Vlaamse Regering erkende particuliere televisieomroepen, kunnen zich binnen zes maanden aanpassen aan de bij decreet nieuw opgelegde of gewijzigde voorwaarden, zonder opschorting van hun erkenning.<br />
+§ 1. De bepalingen van artikel 66 tot en met 68, artikel 70, artikel 81 tot en met 86, 88, 89 en artikel 166 kunnen worden gewijzigd of opgeheven, bij besluit van de Vlaamse Regering.<br /><br />Deze reglementaire besluiten evenals de reglementaire besluiten bedoeld in artikel 62, § 1 en § 2, worden genomen op advies van de Raad voor Cultuur, Jeugd, Sport en Media. Ze worden zonder terugwerkende kracht toepasbaar ten vroegste vanaf de dag van de publicatie ervan in het Belgisch Staatsblad, en ze worden in voorkomend geval op een latere datum in het betreffende besluit vastgesteld.<br /><br />§ 2. Ze worden binnen tien dagen na de bekendmaking ervan in het Belgisch Staatsblad door de Vlaamse Regering ter bekrachtiging voorgelegd aan het Vlaams Parlement. De bekrachtiging wordt geacht niet verleend te zijn, als het Vlaams Parlement bij het verstrijken van een termijn van zes maanden geen beslissing heeft genomen. De bedoelde besluiten behouden in dat geval hun rechtsgevolgen tegenover derden zolang ze niet vervangen zijn door nieuwe besluiten.<br /><br />§ 3. De op grond van een besluit van de Vlaamse Regering erkende particuliere televisieomroepen, kunnen zich binnen zes maanden aanpassen aan de bij decreet nieuw opgelegde of gewijzigde voorwaarden, zonder opschorting van hun erkenning.<br />
 
 ## Bijlage: Inhoudscoördinatie
 
