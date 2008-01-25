@@ -2,16 +2,16 @@
   "codex_id": 1007238,
   "title": "Besluit van de Vlaamse Regering van 2000-02-18 tot vaststelling van de voorwaarden en de procedure inzake het verzoek om afwijking krachtens artikel 6 van het decreet van 15 juli 1997 houdende invoering van een meer evenwichtige vertegenwoordiging van mannen en vrouwen in adviesorganen",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1007238/VolledigDocument?datum=2006-06-01",
-  "source_sha256": "229c974e7b74cec237cbe849c26a673ee0a5f3b1bfebef05baac4ed017d1df1e",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1007238/VolledigDocument?datum=2008-01-25",
+  "source_sha256": "07093154b4c0a841afcec13538ef10a150e5c79dbef3850d1704d6bfc3071a55",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1007238&param=informatie",
-  "as_of": "2006-06-01",
+  "as_of": "2008-01-25",
   "made": "2000-02-18",
   "gazette": "2000-04-20",
   "numac": 2000035211,
   "document_start": "2000-04-20",
   "document_end": "2008-01-24",
-  "in_force": "2006-06-01",
+  "in_force": "2008-01-25",
   "article_versions": 11,
-  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2008-01-25; future article versions excluded; article text as the API gives it"
 }
