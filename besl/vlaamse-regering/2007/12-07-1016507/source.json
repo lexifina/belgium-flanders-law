@@ -1,0 +1,17 @@
+{
+  "codex_id": 1016507,
+  "title": "Besluit van de Vlaamse Regering van 2007-12-07 tot onderwerping van delen van het grondgebied van de gemeente Hechtel-Eksel aan landinrichting en tot aanwijzing van een publiekrechtelijke rechtspersoon die kan worden belast met de uitvoering van een landinrichtingsplan of gedeelten ervan",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1016507/VolledigDocument?datum=2008-01-27",
+  "source_sha256": "cbcf0250feacf2c61e6df57ca3a54dc54153c3081fe846912c3c4f2cdad0af41",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1016507&param=informatie",
+  "as_of": "2008-01-27",
+  "made": "2007-12-07",
+  "gazette": "2008-01-17",
+  "numac": 2007037383,
+  "document_start": "2008-01-27",
+  "document_end": null,
+  "in_force": "2008-01-27",
+  "article_versions": 5,
+  "record_form": "consolidated version as in force on 2008-01-27; oldest version available; future article versions excluded; article text as the API gives it"
+}
