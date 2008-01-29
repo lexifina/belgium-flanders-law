@@ -1,0 +1,17 @@
+{
+  "codex_id": 1017479,
+  "title": "Decreet van 2008-12-05 houdende wijziging van het decreet van 17 juli 2000 houdende de oprichting van een Vlaams Instituut voor Wetenschappelijk en Technologisch Aspectenonderzoek. - Verwijzingen",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1017479/VolledigDocument?datum=2008-01-29",
+  "source_sha256": "6df8203f7add9a9b5f35b055addca0148b221a116ca527284b70077c568b8966",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1017479&param=informatie",
+  "as_of": "2008-01-29",
+  "made": "2008-12-05",
+  "gazette": "2009-01-19",
+  "numac": 2009200025,
+  "document_start": "2008-01-29",
+  "document_end": null,
+  "in_force": "2008-01-29",
+  "article_versions": 11,
+  "record_form": "consolidated version as in force on 2008-01-29; oldest version available; future article versions excluded; article text as the API gives it"
+}
