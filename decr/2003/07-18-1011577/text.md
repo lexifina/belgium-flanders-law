@@ -120,11 +120,39 @@ In geval van weigering, intrekking of schorsing van een erkenning is beroep moge
 
 ### ART. 15.
 
-Met een geldboete van 200 tot 5.000 euro wordt de natuurlijke persoon of rechtspersoon gestraft die er zich wederrechtelijk op beroept houder te zijn van een erkenning, label of beschermde benaming vermeld in dit decreet. Bij herhaling wordt het bedrag verdubbeld.
+§ 1. Een administratieve geldboete van 250 euro tot 25.000 euro kan worden opgelegd aan degene die er zich wederrechtelijk op beroept houder te zijn van een erkenning, label of beschermde benaming als vermeld in dit decreet.<br>
+<br>
+§ 2. Toerisme Vlaanderen beschikt over een termijn van zes maanden om een administratieve geldboete op te leggen, te rekenen vanaf de dag van ontvangst van het proces-verbaal, vermeld in artikel 16.<br>
+<br>
+§ 3. De beslissing van Toerisme Vlaanderen wordt genomen nadat de betrokkene werd gehoord. Als een administratieve geldboete wordt opgelegd, vermeldt de beslissing het bedrag, de wijze waarop en de termijn waarbinnen die moet worden betaald.<br>
+<br>
+§ 4. De betrokkene wordt van de beslissing, vermeld in § 3, op de hoogte gebracht met een ter post aangetekende brief, per fax of elektronisch, als dat een ontvangstbewijs van de geadresseerde oplevert. De kennisgeving vermeldt de wijze waarop en de termijn waarbinnen beroep ingesteld kan worden.<br>
+<br>
+§ 5. In geval van betwisting van de beslissing, vermeld in § 3, moet op straffe van verval binnen een termijn van twee maanden vanaf de ontvangst van de kennisgeving, vermeld in § 4, door middel van indiening van een verzoekschrift, beroep aangetekend worden bij de rechtbank van eerste aanleg in wiens rechtsgebied de exploitatie gelegen is. Titel Vbis van boek II van het vierde deel van het Gerechtelijk Wetboek is van overeenkomstige toepassing. Dat beroep schorst de uitvoering van de beslissing.<br>
+<br>
+§ 6. Toerisme Vlaanderen, of in geval van beroep, de rechtbank van eerste aanleg, kan bij verzachtende omstandigheden het bedrag van de opgelegde administratieve boete verminderen, zelfs tot onder het toepasselijke minimumbedrag.<br>
+<br>
+§ 7. Als verscheidene overtredingen, die de opeenvolgende en voortgezette uitvoering zijn van eenzelfde bijzonder opzet, gelijktijdig worden voorgelegd aan Toerisme Vlaanderen of aan de rechtbanken van eerste aanleg, worden de bedragen van de administratieve geldboeten samengevoegd, zonder dat ze evenwel meer mogen bedragen dan 250.000 euro.<br>
+<br>
+Als Toerisme Vlaanderen of de rechtbank van eerste aanleg vaststelt dat overtredingen die al het voorwerp waren van een in kracht van gewijsde getreden beslissing en andere feiten die erbij aanhangig zijn en die, in de veronderstelling dat ze bewezen zouden zijn, aan die beslissing voorafgaan en samen met de eerste overtredingen de opeenvolgende en voortgezette uitvoering zijn van eenzelfde bijzonder opzet, wordt bij de straftoemeting rekening gehouden met de al opgelegde sancties. Als die voor een juiste bestraffing van al die overtredingen voldoende lijken, spreekt Toerisme Vlaanderen of de rechtbank van eerste aanleg zich over de schuldvraag uit en verwijst in de beslissing naar de al opgelegde sancties.<br>
+<br>
+§ 8. Als binnen vijfjaar, te rekenen vanaf de datum van het proces-verbaal, een nieuwe overtreding wordt vastgesteld, worden de bedragen, vermeld in § 1 en § 7, verdubbeld.<br>
+<br>
+§ 9. De Vlaamse Regering bepaalt de termijn en de andere regels voor de betaling van de administratieve geldboete nader.<br>
+<br>
+§ 10. Met behoud van de toepassing van het decreet van 22 februari 1995 tot regeling van de invordering van niet-fiscale schuldvorderingen voor de Vlaamse Gemeenschap en de instellingen die eronder ressorteren, zal de Vlaamse Regering bij besluit de personeelsleden binnen haar diensten machtigen om de onbetwiste en opeisbare administratieve geldboeten, vermeld in dit artikel, en eventuele invorderingskosten te verhalen.
 
 ### ART. 16.
 
-Onverminderd de bevoegdheid van de officieren van gerechtelijke politie worden de ambtenaren die de Vlaamse regering aanwijst en de ambtenaren van Toerisme Vlaanderen die door de Vlaamse regering hiertoe werden gemachtigd, ermee belast de natuurlijke persoon of rechtspersoon op te sporen die er zich wederrechtelijk op beroept houder te zijn van een erkenning, label of beschermde benaming vermeld in dit decreet en door middel van processen-verbaal vast te stellen. De processen-verbaal worden naar de bevoegde ambtenaren van het Openbaar Ministerie gestuurd en een afschrift ervan wordt op straffe van nietigheid, binnen vijftien werkdagen na de vaststelling van de overtreding bezorgd aan de overtreder, alsmede aan Toerisme Vlaanderen.
+Onverminderd de bevoegdheden van de agenten van de federale en de lokale politie oefenen de personen die door de Vlaamse Regering daartoe zijn gemachtigd, toezicht en controle uit op de naleving van de bepalingen van dit decreet en zijn uitvoeringsbesluiten. Ze worden ermee belast de overtredingen van dit decreet op te sporen en door middel van processen-verbaal vast te stellen. Ze kunnen in de uitoefening van hun ambt de bijstand van de lokale en federale politie vorderen.<br>
+<br>
+Het opgestelde en betekende proces-verbaal heeft bewijskracht tot het tegendeel is bewezen.<br>
+<br>
+Een afschrift van het proces-verbaal wordt, op straffe van het verlies van de aan de akte toekomende bijzondere bewijskracht, met een ter post aangetekende brief, per fax of elektronisch, als dat een ontvangstbewijs van de geadresseerde oplevert, aan de overtreder bezorgd en in voorkomend geval aan de eigenaar van het verblijf, binnen een termijn van vijftien kalenderdagen die aanvangt de eerste kalenderdag nadat het proces-verbaal is opgesteld.<br>
+<br>
+Een afschrift van het proces-verbaal wordt binnen dezelfde termijn met een ter post aangetekende brief, per fax of elektronisch, als dat een ontvangstbewijs van de geadresseerde oplevert, bezorgd aan Toerisme Vlaanderen en, in voorkomend geval, aan de burgemeester van de gemeente waar de exploitatie ligt.<br>
+<br>
+De Vlaamse Regering kan de regels voor de inhoud van het proces-verbaal nader bepalen.
 
 ## HOOFDSTUK VI OVERGANGS-, OPHEFFINGS- EN WIJZIGINGSBEPALINGEN
 

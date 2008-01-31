@@ -2,16 +2,16 @@
   "codex_id": 1011577,
   "title": "Decreet van 2003-07-18 betreffende de verblijven en verenigingen die een werking uitoefenen in het kader van \"Toerisme voor Allen\"",
   "type": "Decreet",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1011577/VolledigDocument?datum=2006-06-01",
-  "source_sha256": "baaeb9d47644eb1ccbf1b835512df6cd9369608661f558300251e910944d3ac0",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1011577/VolledigDocument?datum=2008-01-31",
+  "source_sha256": "0f88534982a98ce699bd5e16b9d84392df3f2fd076fe1814cb4ac8bc10cea749",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1011577&param=informatie",
-  "as_of": "2006-06-01",
+  "as_of": "2008-01-31",
   "made": "2003-07-18",
   "gazette": "2003-09-19",
   "numac": 2003200873,
   "document_start": null,
   "document_end": "2023-12-31",
-  "in_force": "2006-06-01",
+  "in_force": "2008-01-31",
   "article_versions": 21,
-  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2008-01-31; future article versions excluded; article text as the API gives it"
 }
