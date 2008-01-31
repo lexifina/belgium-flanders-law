@@ -1,0 +1,17 @@
+{
+  "codex_id": 1016517,
+  "title": "Decreet van 2007-12-07 tot bekrachtiging van het besluit van de Vlaamse Regering van 5 oktober 2007 betreffende het beroepsprofiel van de leraar",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1016517/VolledigDocument?datum=2008-01-31",
+  "source_sha256": "8a127c4a96060cb12b189db71605891dffc84bffa35afc46ddf8214ab4fdaf9f",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1016517&param=informatie",
+  "as_of": "2008-01-31",
+  "made": "2007-12-07",
+  "gazette": "2008-01-21",
+  "numac": 200835017,
+  "document_start": "2008-01-31",
+  "document_end": null,
+  "in_force": "2008-01-31",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2008-01-31; oldest version available; future article versions excluded; article text as the API gives it"
+}
