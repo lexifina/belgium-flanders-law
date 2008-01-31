@@ -1,0 +1,17 @@
+{
+  "codex_id": 1016522,
+  "title": "Besluit van de Vlaamse Regering van 2007-12-14 betreffende het handhavingsbeleid in [het kader van Toerisme voor Allen]",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1016522/VolledigDocument?datum=2008-01-31",
+  "source_sha256": "95c9bca887e26943a6c8beb0361746b54bdc89673fafe3031d20efcb47ab1d73",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1016522&param=informatie",
+  "as_of": "2008-01-31",
+  "made": "2007-12-14",
+  "gazette": "2008-01-21",
+  "numac": 2008035049,
+  "document_start": "2008-01-31",
+  "document_end": null,
+  "in_force": "2008-01-31",
+  "article_versions": 7,
+  "record_form": "consolidated version as in force on 2008-01-31; oldest version available; future article versions excluded; article text as the API gives it"
+}
