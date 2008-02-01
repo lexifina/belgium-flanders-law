@@ -1,0 +1,17 @@
+{
+  "codex_id": 1016810,
+  "title": "Ministerieel besluit van 2008-04-28 houdende goedkeuring van een algemeen reglement van de leningen met het oog op de kredietverlening van de Vlaamse Maatschappij voor Sociaal Wonen aan de sociale huisvestingsmaatschappijen",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1016810/VolledigDocument?datum=2008-02-01",
+  "source_sha256": "b041854066300e70f71f5bfb307a8cdcb67f06430c10c2a2ceed12e0d32d6065",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1016810&param=informatie",
+  "as_of": "2008-02-01",
+  "made": "2008-04-28",
+  "gazette": "2008-06-05",
+  "numac": 2008201868,
+  "document_start": "2008-02-01",
+  "document_end": null,
+  "in_force": "2008-02-01",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2008-02-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
