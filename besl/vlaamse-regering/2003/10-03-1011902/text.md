@@ -16,11 +16,15 @@ De door de burgemeester aangestelde technische ambtenaren, alsmede de ambtenaren
 
 ### ART. 3.
 
-§ 1. De kwaliteits- en veiligheidsnormen, bedoeld in artikel 4, 6, 7 en 8 van het Kamerdecreet, worden beoordeeld aan de hand van het technisch verslag, gevoegd als bijlage I bij dit besluit.<br /><br />§ 2. De procedure om de kwaliteit en veiligheid van de (studenten)kamer of de kamerwoning, het studenten- of studentengemeenschapshuis te beoordelen, verloopt overeenkomstig de bepalingen van hoofdstuk III of IV van titel III van de Vlaamse Wooncode.
+§ 1. De kwaliteits- en veiligheidsnormen, bedoeld in artikel 4, 6, 7 en 8 van het Kamerdecreet, worden beoordeeld aan de hand van het technisch verslag, gevoegd als bijlage I bij dit besluit.<br /><br />§ 2. De procedure om de kwaliteit en veiligheid van de (studenten)kamer of de kamerwoning, het studenten- of studentengemeenschapshuis te beoordelen, verloopt overeenkomstig de bepalingen van hoofdstuk III of IV van titel III van de Vlaamse Wooncode.<br /><br />§ 3. Als een controleverslag van de brandweer uitwijst dat er ernstige brandveiligheidsproblemen zijn, wordt dat opgenomen en meegerekend in het technisch verslag.<br /><br />Als er nog geen controleverslag van de brandweer is opgemaakt, maar er zijn vermoedens dat de kamerwoning ernstige brandveiligheidsproblemen vertoont of dat de kamerwoning wegens brandveiligheidsproblemen ontruimd moet worden, vermeldt de gewestelijke ambtenaar dat in zijn advies aan de burgemeester. Die kan hiermee rekening houden bij de opmaak van zijn besluit.<br />
+
+### ART. 4.
+
+§ 1. De gewestelijke ambtenaar stelt in zijn advies, zoals bedoeld in artikel 15, § 1, eerste lid, van de Vlaamse Wooncode, aan de burgemeester voor om de (studenten)kamer ongeschikt te verklaren als:<br />1° de (studenten)kamer volgens deel E van het technisch verslag een eindscore van minstens 15 punten behaalt;<br />2° de (studenten)kamer minder dan 12 m2 bedraagt, onverminderd de toepassing van artikel 8, § 1, van het Kamerdecreet.<br /><br />§ 2. Het advies van de gewestelijke ambtenaar wordt aangevuld met een omstandig verslag als de (studenten) kamer, de kamerwoning, het studenten- of studentengemeenschapshuis een ernstig veiligheids- en/ of gezondheidsrisico inhoudt.
 
 ### ART. 5.
 
-De kamerwoning, het studenten- of studentengemeenschapshuis wordt niet-conform bevonden als volgens deel B van het technisch verslag een eindscore van 15 punten of meer wordt behaald, waarbij een gebrek van categorie I geldt voor 1 punt, van categorie II voor 3 punten, van categorie III voor 9 punten en van categorie IV voor 15 punten.<br /><br />De (studenten)kamer wordt niet-conform bevonden:<br /><br />1° als ze volgens de delen B en C van het technisch verslag een eindscore van 15 punten of meer behaalt, waarbij een gebrek van categorie I geldt voor 1 punt, van categorie II voor 3 punten, van categorie III voor 9 punten en van categorie IV voor 15 punten;<br /><br />2° als ze volgens deel C niet aangepast is aan de vereisten inzake woningbezetting;<br /><br />3° als ze minder dan 12m2 bedraagt, onverminderd de toepassing van artikel 8, § 1, van het Kamerdecreet.
+De kamerwoning, het studenten- of studentengemeenschapshuis wordt niet-conform bevonden als volgens deel B van het technisch verslag een eindscore van 15 punten of meer wordt behaald, waarbij een gebrek van categorie I geldt voor 1 punt, van categorie II voor 3 punten, van categorie III voor 9 punten en van categorie IV voor 15 punten.<br /><br />De (studenten)kamer wordt niet conform bevonden:<br />1° als ze volgens deel E van het technisch verslag een eindscore van minstens 15 punten behaalt;<br />2° als ze volgens deel F niet aangepast is aan de vereisten inzake woonbezetting;<br />3° als ze minder dan 12 m2 bedraagt, met behoud van de toepassing van artikel 8, § 1, van het kamerdecreet. <br />
 
 ## HOOFDSTUK IV AANVULLENDE GEMEENTELIJKE NORMEN
 
@@ -94,7 +98,7 @@ De Vlaamse minister, bevoegd voor de Huisvesting, is belast met de uitvoering va
 
 ### BIJLAGE I.
 
-<a href="http://www.ejustice.just.fgov.be/mopdf/2003/12/10_1.pdf#page=38" title=" bijlage I" target="_blank" class="pdf">bijlage I</a>
+<a href="http://www.ejustice.just.fgov.be/mopdf/2006/07/14_2.pdf#page=36" title=" bijlage 1" target="_blank" class="pdf">bijlage 1</a>
 
 ### BIJLAGE II.
 
