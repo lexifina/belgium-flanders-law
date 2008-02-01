@@ -22,6 +22,10 @@ In dit decreet wordt verstaan onder :<br />1° aangifteplichtige : een natuurlij
 
 § 1. De Vlaamse Regering bepaalt de EPB-eisen waaraan gebouwen moeten voldoen waarvoor een aanvraag tot het verkrijgen van een stedenbouwkundige vergunning wordt ingediend, als vermeld in artikel 99, § 1, 1°, 6° en 7°, van het decreet van 18 mei 1999 houdende de organisatie van de ruimtelijke ordening.<br /><br />Bij het vaststellen van de eisen wordt een onderscheid gemaakt tussen nieuwe en bestaande gebouwen. Er kan tevens een onderscheid gemaakt worden tussen verschillende categorieën gebouwen.<br /><br />Wanneer op een gebouw EPB-eisen van toepassing zijn, dan gelden die voor de totaliteit van de werken, handelingen of wijzigingen die aan het gebouw uitgevoerd worden en dus ook voor die werken, handelingen en wijzigingen die op zich niet vergunningsplichtig zijn.<br /><br />§ 2. De Vlaamse Regering bepaalt de EPB-eisen waaraan bestaande gebouwen moeten voldoen wanneer werken, wijzigingen of handelingen uitgevoerd worden die de energieprestatie van het gebouw bepalen en waarvoor geen aanvraag tot stedenbouwkundige vergunning moet worden ingediend, als vermeld in artikel 99, § 1, 1°, 6° en 7°, van het decreet van 18 mei 1999 houdende de organisatie van de ruimtelijke ordening.<br /><br />
 
+### ART. 5.
+
+Bij nieuwe gebouwen met een bruikbare vloeroppervlakte groter dan 1000 m2 wordt, voor met de bouw gestart wordt, de technische, milieutechnische en economische haalbaarheid in aanmerking genomen van alternatieve systemen zoals :<br />1° gedecentraliseerde systemen voor energievoorziening gebaseerd op hernieuwbare energiebronnen;<br />2° kwalitatieve warmtekrachtinstallatie;<br />3° stads-/blokverwarming of -koeling, indien beschikbaar;<br />4° warmtepompen.<br /><br />De Vlaamse Regering bepaalt de nadere regels inzake de bruikbare vloeroppervlakte.<br /><br />
+
 ### ART. 6.
 
 De Vlaamse Regering kan nadere regels bepalen over de vorm en de inhoud van de haalbaarheidsstudie, vermeld in artikel 5.<br /><br />
