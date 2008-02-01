@@ -206,7 +206,7 @@ Behoudens afwijkingen, zoals bepaald in artikel 19, volgt de leerling in het gew
 
 ### ART. 22.
 
-§ 1. De regering regelt de controle op de inschrijvingen, ze bepaalt op welke wijze dubbele in-schrijvingen geregulariseerd worden, ze regelt de controle op de leerplicht en op het geregeld schoolbezoek van de leerplichtigen en bepaalt in welke gevallen afwezigheid gewettigd is.<br /><br />(Zie: B.V.R. 12 november 1997, B.S., 6 januari 1998)<br /><br />§ 2. De directie is verplicht medewerking te verlenen aan de controle op de inschrijvingen en het geregeld school-bezoek.<br /><br />§ 3. ...
+§ 1. De regering regelt de controle op de inschrijvingen, ze bepaalt op welke wijze dubbele in-schrijvingen geregulariseerd worden, ze regelt de controle op de leerplicht en op het geregeld schoolbezoek van de leerplichtigen en bepaalt in welke gevallen afwezigheid gewettigd is.<br /><br />De regering neemt maatregelen om de kleuterparticipatie te stimuleren en kan met dat doel gegevens met betrekking tot niet-ingeschreven kleuters uitwisselen met door de Vlaamse Gemeenschap gefinancierde of gesubsidieerde instellingen die het welzijn van kinderen beogen en met de gemeenten en de Vlaamse Gemeenschapscommissie.<br /><br />§ 2. De directie is verplicht medewerking te verlenen aan de controle op de inschrijvingen en het geregeld school-bezoek.<br /><br />§ 3. ...
 
 ### ART. 23.
 
@@ -932,7 +932,7 @@ Om in het gewoon basisonderwijs na het vierde bestaansjaar nog gefinancierd of g
 
 ### ART. 115.
 
-Om in het buitengewoon basisonderwijs na het derde bestaansjaar nog gefinancierd of gesubsi-dieerd te blijven, moeten per school, per type in de administratieve vestigingsplaats en per type in elke vestigingsplaats op meer dan twee kilometer van de administratieve vestigingsplaats, op de eerste schooldag van februari van het voor-gaande schooljaar de door de regering vastgelegde rationalisatienormen of behoudsnormen bereikt worden.<br /><br />Als dit niet het geval is wordt de school of vestigingsplaats vanaf 1 september van het daarop volgende schooljaar niet langer gefinancierd of gesubsidieerd.
+Scholen, vestigingsplaatsen, niveaus of types die op de teldag, zoals bepaald in artikel 114, niet aan de voor hen geldende rationalisatienormen of behoudsnormen voldoen blijven gesubsidieerd of gefinancierd als op de vorige teldag de volgende voorwaarden vervuld waren :<br />1° de school in haar geheel voldeed aan de rationalisatienormen of behoudsnormen;<br />2° elke vestigingsplaats, elk niveau, elk type van de school en elk type van de vestigingsplaatsen voldeden aan de voor hen geldende rationalisatienormen of behoudsnormen.
 
 ## ONDERAFDELING B BEHOUD IN HET BUITENGEWOON ONDERWIJS
 
@@ -974,13 +974,13 @@ Indien voor een bepaald type in een bepaalde provincie, per groep geen enkele sc
 
 ### ART. 124.
 
-Bij het tellen van de leerlingen gelden volgende principes:<br /><br />1° in scholen met twee taalafdelingen worden de leerlingen van beide taalafdelingen samengeteld voor het behoud van de financiering of subsidiëring van de school.<br /><br />De leerlingen van elke taalafdeling worden afzonderlijk geteld voor het behoud van de financiering of subsidiring van de afdeling;<br /><br />2° in scholen met verscheidene vestigingsplaatsen worden de leerlingen van elke vestigingsplaats afzonderlijk geteld voor de rationalisatienorm van de vestigingsplaats. Voor het buitengewoon onderwijs geldt dit alleen voor de ves-tigingsplaatsen die op twee kilometer of meer van de administratieve vestigingsplaats gelegen zijn.<br /><br />Voor de rationalisatienorm van de school worden de leerlingen van alle vestigingsplaatsen samengeteld;<br /><br />3° in scholen met verschillende onderwijsniveaus worden voor het gewoon basisonderwijs de leerlingen van elk niveau afzonderlijk geteld; voor het buitengewoon basisonderwijs worden per type de leerlingen van kleuter- en lager on-derwijs samengeteld;<br /><br />4° de voor de telling in aanmerking te nemen leerlingen zijn de regelmatige leerlingen die op de teldag zijn inge-schreven;<br /><br />5° in afwijking van 4° wordt voor de scholen van type 5 het gemiddelde van de tijdens de tellingsperiode ingeschreven regelmatige leerlingen berekend.
+Bij het tellen van de leerlingen gelden volgende principes:<br />1° in scholen met twee taalafdelingen worden de leerlingen van beide taalafdelingen samengeteld voor het behoud van de financiering of subsidiëring van de school.<br />De leerlingen van elke taalafdeling worden afzonderlijk geteld voor het behoud van de financiering of subsidiring van de afdeling;<br />2° in scholen met verscheidene vestigingsplaatsen, de scholen voor buitengewoon onderwijs van het type 5 uitgezonderd, worden de leerlingen van elke vestigingsplaats afzonderlijk geteld voor de rationalisatienorm van de vestigingsplaats. Voor het buitengewoon onderwijs geldt dit alleen voor de ves-tigingsplaatsen die op twee kilometer of meer van de administratieve vestigingsplaats gelegen zijn.<br />Voor de rationalisatienorm van de school worden de leerlingen van alle vestigingsplaatsen samengeteld;<br />3° in scholen met verschillende onderwijsniveaus worden voor het gewoon basisonderwijs de leerlingen van elk niveau afzonderlijk geteld; voor het buitengewoon basisonderwijs worden per type de leerlingen van kleuter- en lager on-derwijs samengeteld;<br />4° de voor de telling in aanmerking te nemen leerlingen zijn de regelmatige leerlingen die op de teldag zijn inge-schreven;<br />5° in afwijking van 4° wordt voor de scholen van type 5 het gemiddelde van de tijdens de tellingsperiode ingeschreven regelmatige leerlingen berekend.
 
 ## AFDELING 5 [... (opgheh. Decr 22 juni 2007, art. II.32, I: 1 februari 2008)]
 
 ### ART. 125.
 
-§ 1. [...  <span class="reference">(opgeh. decr. 28 juni 2002, art. IX 7, I: 1 september 2002)</span> ]<br /><br />§ 2. [De regering kan na advies van de Vlaamse Onderwijsraad, afwijkingen toestaan op de programmatie- en rationalisatienormen.  <span class="reference">(verv. decr. 20 oktober 2000, art. 6, I: 1 september 2000)</span> ]
+...
 
 ## [HOOFDSTUK VIIIBIS SCHOLENGEMEENSCHAPPEN (ing. decr. 10 juli 2003, art. 26)]
 
