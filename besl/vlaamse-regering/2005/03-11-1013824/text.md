@@ -4,7 +4,7 @@
 
 ### ART. 1.
 
-Voor de toepassing van dit besluit en de bijlagen wordt verstaan onder:<br /><br />1° minister: de Vlaamse minister, bevoegd voor het energiebeleid;<br /><br />2° aanvraag tot het verkrijgen van een stedenbouwkundige vergunning: de aanvraag tot het verkrijgen van een stedenbouwkundige vergunning zoals bedoeld in artikel 99, § 1, 1°, 6° en 7° van het decreet van 18 mei 1999 houdende de organisatie van de ruimtelijke ordening;<br /><br />3° woongebouw: gebouw bestemd voor individuele of collectieve huisvesting;<br /><br />4° kantoorgebouw: gebouw bestemd voor een dienstverleningsfunctie waarin voornamelijk administratief werk wordt verricht en waaronder ook de gebouwen vallen die bestemd zijn om te worden gebruikt voor de uitoefening van een vrij beroep zoals gedefinieerd in de wet van 2 augustus 2002 betreffende de misleidende en vergelijkende reclame, de onrechtmatige bedingen en de op afstand gesloten overeenkomsten inzake de vrije beroepen;<br /><br />5° schoolgebouw: gebouw bestemd voor een onderwijsfunctie;<br /><br />6° industrieel gebouw: gebouw bestemd voor de productie, de bewerking, de opslag of manipulatie van goederen;<br /><br />7° gebouw met een andere specifieke bestemming: gebouw dat niet valt onder woongebouw, kantoorgebouw, schoolgebouw of industrieel gebouw. Hieronder vallen:<br /><br />- ziekenhuizen;<br /><br />- hotels en restaurants;<br /><br />- sportvoorzieningen;<br /><br />- groot- en kleinhandelsgebouwen;<br /><br />- andere typen energieverbruikende gebouwen;<br /><br />8° R-waarde: warmteweerstand van een constructieonderdeel;<br /><br />9° wooneenheid: elke eenheid in een woongebouw die over de nodige woonvoorzieningen beschikt om autonoom te kunnen functioneren.
+Voor de toepassing van dit besluit en de bijlagen wordt verstaan onder:<br />1° minister: de Vlaamse minister, bevoegd voor het energiebeleid;<br />2° aanvraag tot het verkrijgen van een stedenbouwkundige vergunning: de aanvraag tot het verkrijgen van een stedenbouwkundige vergunning zoals bedoeld in artikel 99, § 1, 1°, 6° en 7° van het decreet van 18 mei 1999 houdende de organisatie van de ruimtelijke ordening;<br />3° woongebouw: gebouw bestemd voor individuele of collectieve huisvesting;<br />4° kantoorgebouw: gebouw bestemd voor een dienstverleningsfunctie waarin voornamelijk administratief werk wordt verricht en waaronder ook de gebouwen vallen die bestemd zijn om te worden gebruikt voor de uitoefening van een vrij beroep zoals gedefinieerd in de wet van 2 augustus 2002 betreffende de misleidende en vergelijkende reclame, de onrechtmatige bedingen en de op afstand gesloten overeenkomsten inzake de vrije beroepen;<br />5° schoolgebouw: gebouw bestemd voor een onderwijsfunctie;<br />6° industrieel gebouw: gebouw bestemd voor de productie, de bewerking, de opslag of manipulatie van goederen;<br />7° gebouw met een andere specifieke bestemming: gebouw dat niet valt onder woongebouw, kantoorgebouw, schoolgebouw of industrieel gebouw. Hieronder vallen:<br />- ziekenhuizen;<br />- hotels en restaurants;<br />- sportvoorzieningen;<br />- groot- en kleinhandelsgebouwen;<br />- andere typen energieverbruikende gebouwen;<br />8° R-waarde: warmteweerstand van een constructieonderdeel;<br />9° wooneenheid: elke eenheid in een woongebouw die over de nodige woonvoorzieningen beschikt om autonoom te kunnen functioneren.<br />10° haalbaarheidsstudie : studie waaruit blijkt dat de technische, milieukundige en economische haalbaarheid van alternatieve energiesystemen voor de start van de bouw in aanmerking werd genomen;<br />11° bruikbare vloeroppervlakte : de som van de bruto vloeroppervlakten van alle vloerniveaus binnen het beschermd volume van het gebouw, zoals berekend volgens de door het Vlaams Energieagentschap vastgelegde specificaties.
 
 ### ART. 2.
 
@@ -64,6 +64,14 @@ Elke wooneenheid van nieuw op te richten woongebouwen moet afzonderlijk voldoen 
 
 ## [AFDELING 4 HAALBAARHEIDSSTUDIES VOOR ALTERNATIEVE ENERGIESYTSTEMEN (ing. BVR 23 november 2007, art. 2)]
 
+### ART. 13bis.
+
+Bij nieuw op te richten gebouwen met een totale bruikbare vloeroppervlakte van meer dan 1000 m2, dient de bouwheer uiterlijk één maand na de indiening van de aanvraag voor stedenbouwkundige vergunning een haalbaarheidsstudie in bij het Vlaams Energieagentschap.
+
+### ART. 13ter.
+
+De minister legt de technologieën vast waarvoor een haalbaarheidsstudie moet worden opgesteld. Die heeft betrekking op de technische, milieutechnische en economische haalbaarheid van alternatieve systemen zoals gedecentraliseerde systemen voor energievoorziening op basis van hernieuwbare energiebronnen, warmtekrachtkoppeling, stads/blokverwarming of -koeling indien beschikbaar, en warmtepompen onder bepaalde voorwaarden. <br /><br />De haalbaarheidsstudie bepaalt voor elk van de alternatieve systemen :<br />1° het aangewezen te installeren vermogen van het alternatief systeem;<br />2° de investeringskosten zonder overheidssteun;<br />3° de investeringskosten met overheidssteun;<br />4° de meerinvesteringen ten opzichte van een klassiek systeem, rekening houdend met de overheidssteun;<br />5° de besparingen of meeruitgaven qua energieverbruik en exploitatie tengevolge van het alternatief systeem ten opzichte van een klassiek systeem;<br />6° de eenvoudige terugverdientijd; <br />7° of de bouwheer van plan is, rekening houdend met de resultaten van de haalbaarheidsstudie, de technologie toe te passen.<br /><br />De eenvoudige terugverdientijd, vermeld in 6°, wordt berekend als de meerinvesteringen, opgegeven onder 4°, gedeeld door de besparingen opgegeven onder 5°, indien deze positief zijn.<br /><br />De minister bepaalt de nadere regels voor het indienen van de haalbaarheidsstudie.
+
 ## HOOFDSTUK III EPB-EISEN BIJ HERBOUWEN, UITBREIDEN, VERBOUWEN EN FUNCTIEWIJZIGING
 
 ### ART. 14.
@@ -122,7 +130,7 @@ De minister bepaalt de vrijstellingen bedoeld in de artikelen 21 en 22 evenals d
 
 ### ART. 25.
 
-De minister bepaalt de nadere regels tot vaststelling van de vorm en inhoud en de wijze van indienen van de EPB-aangifte en de startverklaring. <br />
+De minister bepaalt de nadere regels tot vaststelling van de vorm en inhoud en de wijze van indienen van de EPB-aangifte, de haalbaarheidsstudie en de startverklaring. <br />
 
 ### ART. 26.
 
