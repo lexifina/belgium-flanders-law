@@ -1,0 +1,17 @@
+{
+  "codex_id": 1016618,
+  "title": "Ministerieel besluit van 2008-02-13 houdende erkenning van een arts als keuringsarts inzake medisch verantwoorde sportbeoefening",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1016618/VolledigDocument?datum=2008-02-01",
+  "source_sha256": "fd4a1f3a43a1e2a389af7b2e7ee5b4ad9a8d502e78dec446fa515fe7f0a1a92a",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1016618&param=informatie",
+  "as_of": "2008-02-01",
+  "made": "2008-02-13",
+  "gazette": "2008-02-26",
+  "numac": 2008035318,
+  "document_start": "2008-02-01",
+  "document_end": "2010-08-31",
+  "in_force": "2008-02-01",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2008-02-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
