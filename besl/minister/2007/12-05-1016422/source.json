@@ -1,0 +1,17 @@
+{
+  "codex_id": 1016422,
+  "title": "Ministerieel besluit van 2007-12-05 houdende de tijdelijke erkenning van de procedure van monsterneming voor dopingcontrole van de International Tennis Federation (ITF) en van een controlelaboratorium in het kader van de medisch verantwoorde sportbeoefening",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1016422/VolledigDocument?datum=2008-02-01",
+  "source_sha256": "b57354653fcf496e760a82020f48f5e08e3514748090cb19b7d61c29c45555ce",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1016422&param=informatie",
+  "as_of": "2008-02-01",
+  "made": "2007-12-05",
+  "gazette": "2007-12-19",
+  "numac": 2007037241,
+  "document_start": "2008-02-01",
+  "document_end": null,
+  "in_force": "2008-02-01",
+  "article_versions": 7,
+  "record_form": "consolidated version as in force on 2008-02-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
