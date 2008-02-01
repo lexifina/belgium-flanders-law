@@ -2,16 +2,16 @@
   "codex_id": 1014376,
   "title": "Besluit van de Vlaamse Regering van 2006-02-17 houdende de delegatie van bevoegdheden aan de Vlaamse minister, bevoegd voor het Onderwijs, inzake het toestaan van afwijkingen van de programmatie- en rationalisatienormen aan scholen van het basisonderwijs",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1014376/VolledigDocument?datum=2006-06-01",
-  "source_sha256": "6fe8a2bcfc2197e0b15db71309683d0cc1fb9800170b8ca21f7aff9ceb56b7b6",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1014376/VolledigDocument?datum=2008-02-01",
+  "source_sha256": "13deabd7838c50498dcb61a88a1f25bd72b3a202b7fc55a938b3d9360d307f2e",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1014376&param=informatie",
-  "as_of": "2006-06-01",
+  "as_of": "2008-02-01",
   "made": "2006-02-17",
   "gazette": "2006-03-17",
   "numac": 2006035400,
   "document_start": "2006-02-01",
   "document_end": "2008-01-31",
-  "in_force": "2006-06-01",
+  "in_force": "2008-02-01",
   "article_versions": 2,
-  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2008-02-01; future article versions excluded; article text as the API gives it"
 }
