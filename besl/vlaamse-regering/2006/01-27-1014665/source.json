@@ -1,0 +1,17 @@
+{
+  "codex_id": 1014665,
+  "title": "Besluit van de Vlaamse Regering van 2006-01-27 tot wijziging van het besluit van de Vlaamse Regering van 6 oktober 1998 betreffende de kwaliteitsbewaking, het recht van voorkoop en het sociaal beheersrecht op woningen, tot wijziging van het besluit van de Vlaamse Regering van 3 oktober 2003 betreffende de kwaliteits- en veiligheidsnormen voor kamers en studentenkamers en tot wijziging van het besluit van de Vlaamse Regering van 2 april 1996 betreffende de heffing ter bestrijding van leegstand en verkrotting van gebouwen en/of woningen",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1014665/VolledigDocument?datum=2008-02-01",
+  "source_sha256": "33a50ee95777a75759e9c48e22c9b733a9ef8fc400994405ac09050709eaf7f3",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1014665&param=informatie",
+  "as_of": "2008-02-01",
+  "made": "2006-01-27",
+  "gazette": "2006-07-14",
+  "numac": 2006025986,
+  "document_start": "2008-02-01",
+  "document_end": null,
+  "in_force": "2008-02-01",
+  "article_versions": 20,
+  "record_form": "consolidated version as in force on 2008-02-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
