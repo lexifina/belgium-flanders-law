@@ -40,7 +40,7 @@ De gebreken en tekenen van verval, bedoeld in artikel 29 van het decreet, worden
 
 ### ART. 6.
 
-§ 1. De gewestelijke ambtenaar, bedoeld in artikel 24, 3° van het decreet, is de ambtenaar die wordt aangewezen overeenkomstig artikel 2, § 3 van dit besluit. Hij beoordeelt of de woning voldoet aan de vereisten van [stabiliteit, bouwfysica, veiligheid en minimaal comfort  <span class="reference">(verv. B.V.R. 15 juli 1997, art. 3, I: 1 mei 1996)</span> ] aan de hand van het model van technisch verslag opgenomen als bijlage II bij dit besluit. [Kamers beoordeelt hij aan de hand van het model van technisch verslag opgenomen als bijlage IIbis bij dit besluit.  <span class="reference">(ing. B.V.R. 23 juli 1998, art. 17, I: 1 september 1998)</span> ]<br /><br />[De gewestelijk ambtenaar stelt in zijn advies, zoals bedoeld in artikel 34 van het decreet, aan de burgemeester voor de woning ongeschikt te verklaren als de woning volgens het technisch verslag een eindscore van minstens 18 punten behaalt, waarbij een gebrek van categorie I geldt voor 1 punt, van categorie II voor 3 punten, van categorie III voor 9 punten en van categorie IV voor 15 punten.  <span class="reference">(verv. B.V.R. 6 oktober 1998, art. 42, I: 1 november 1998)</span> ]<br /><br />[Als de woning een kamer is, stelt de gewestelijk ambtenaar in zijn advies, zoals bedoeld in artikel 34 van het decreet, aan de burgemeester voor de kamer ongeschikt te verklaren als de kamer volgens het betreffende technisch verslag een eindscore van minstens 15 punten behaalt, waarbij een gebrek van categorie I geldt voor 1 punt, van categorie II voor 3 punten, van categorie III voor 9 punten en van categorie IV voor 15 punten.  <span class="reference">(ing. B.V.R. 23 juli 1998, art. 17, I: 1 september 1998)</span> ]<br /><br />§ 2. De inventarisatie als verwaarloosde woning is niet vereist om een woning ongeschikt of onbewoonbaar te verklaren.
+§ 1. De gewestelijke ambtenaar, bedoeld in artikel 24, 3° van het decreet, is de ambtenaar die wordt aangewezen overeenkomstig artikel 2, § 3 van dit besluit. Hij beoordeelt of de woning voldoet aan de vereisten van stabiliteit, bouwfysica, veiligheid en minimaal comfort aan de hand van artikel 3 van het besluit van de Vlaamse Regering van 6 oktober 1998 betreffende de kwaliteitsbewaking, het recht van voorkoop en het sociaal beheersrecht op woningen.<br /><br />Kamers beoordeelt hij aan de hand van artikel 4 van het besluit van de Vlaamse Regering van 3 oktober 2003 betreffende de kwaliteits- en veiligheidsnormen voor kamers en studentenkamers.<br /><br />§ 2. De inventarisatie als verwaarloosde woning is niet vereist om een woning ongeschikt of onbewoonbaar te verklaren.
 
 ### ART. 6bis.
 
@@ -145,6 +145,14 @@ De Vlaamse minister bevoegd voor de huisvesting en de Vlaamse minister bevoegd v
 ### BIJLAGE I.
 
 Formulier: (niet opgenomen)
+
+### BIJLAGE II
+
+...
+
+### BIJLAGE IIbis.
+
+...
 
 ### BIJLAGE III.
 
