@@ -1,0 +1,17 @@
+{
+  "codex_id": 1016525,
+  "title": "Ministerieel besluit van 2007-12-17 tot definitieve vaststelling van het natuurrichtplan voor de VEN-gebieden, speciale beschermingszone, groen-, park- en bosgebieden in de \"Duinen van de Middenkust tussen Oostende en Blankenberge\"",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1016525/VolledigDocument?datum=2008-02-01",
+  "source_sha256": "13ceb284cd2420e86d83dbc1383b08754ab4ebd2e3d086e79b412ad224a36ca2",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1016525&param=informatie",
+  "as_of": "2008-02-01",
+  "made": "2007-12-17",
+  "gazette": "2008-01-22",
+  "numac": 2008035015,
+  "document_start": "2008-02-01",
+  "document_end": null,
+  "in_force": "2008-02-01",
+  "article_versions": 5,
+  "record_form": "consolidated version as in force on 2008-02-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
