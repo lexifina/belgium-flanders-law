@@ -42,13 +42,7 @@ Behoudens andersluidende bepaling wordt in dit reglement verstaan onder:<br /><b
 
 ### ART. 5.
 
-Vaartuigen die bestemd zijn voor het vervoer van reizigers zijn onderworpen aan de betaling van een recht, dat afzonderlijk voor de heen- en voor de terugreis bepaald wordt op:<br>
-<br>
-1° 5,00 euro voor vaartuigen die minder dan 50 passagiers vervoeren;<br>
-<br>
-2° 10,00 euro voor vaartuigen die 50 tot 100 passagiers vervoeren;<br>
-<br>
-3° 15,00 euro voor vaartuigen die meer dan 100 passagiers vervoeren.
+...
 
 ### ART. 6.
 

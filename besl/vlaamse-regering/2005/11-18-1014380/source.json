@@ -2,16 +2,16 @@
   "codex_id": 1014380,
   "title": "Besluit van de Vlaamse Regering van 2005-11-18 tot bekrachtiging van het tariefreglement voor het kanaal Brussel-Schelde",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1014380/VolledigDocument?datum=2006-06-01",
-  "source_sha256": "9369771e4f12aedf8256a63af6588609a99f29c79316b622e17b685416e307e6",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1014380/VolledigDocument?datum=2008-02-01",
+  "source_sha256": "7038f84bbb2d7b6508c0fbd03825ae97d70da2bdf286e008631287719dad35b8",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1014380&param=informatie",
-  "as_of": "2006-06-01",
+  "as_of": "2008-02-01",
   "made": "2005-11-18",
   "gazette": "2006-03-21",
   "numac": 2006035382,
   "document_start": "2006-03-31",
   "document_end": null,
-  "in_force": "2006-06-01",
+  "in_force": "2008-02-01",
   "article_versions": 19,
-  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2008-02-01; future article versions excluded; article text as the API gives it"
 }
