@@ -42,9 +42,17 @@ In artikelen 78 en 125quinquies van hetzelfde decreet worden de woorden « het d
 
 In artikelen 88 en 105 van hetzelfde decreet wordt het woord « DIGO » vervangen door het woord « Agion ».<br /><br />
 
+### ART. II.24.
+
+Artikel 115 van hetzelfde decreet wordt vervangen door wat volgt :<br />« Artikel 115<br />Scholen, vestigingsplaatsen, niveaus of types die op de teldag, zoals bepaald in artikel 114, niet aan de voor hen geldende rationalisatienormen of behoudsnormen voldoen blijven gesubsidieerd of gefinancierd als op de vorige teldag de volgende voorwaarden vervuld waren :<br />1° de school in haar geheel voldeed aan de rationalisatienormen of behoudsnormen;<br />2° elke vestigingsplaats, elk niveau, elk type van de school en elk type van de vestigingsplaatsen voldeden aan de voor hen geldende rationalisatienormen of behoudsnormen. ».<br /><br />
+
 ### ART. II.28.
 
 In artikel 120, § 2, eerste lid, en § 3, eerste lid, van hetzelfde decreet worden tussen de woorden « van dezelfde groep » en de woorden « waar onderwijs van hetzelfde niveau gegeven wordt » de woorden « en van hetzelfde taalstelsel » ingevoegd.<br /><br />
+
+### ART. II.32.
+
+In hetzelfde decreet, het laatst gewijzigd bij het decreet van 15 december 2006, wordt in hoofdstuk VIII - Programmatie en rationalisatie van scholen, afdeling 5 - Afwijkingen, bestaande uit artikel 125 opgeheven.<br /><br />
 
 ### ART. II.33.
 
@@ -81,6 +89,10 @@ In hetzelfde decreet wordt een artikel 164bis ingevoegd, dat luidt als volgt :<b
 ### ART. II.48.
 
 In artikel 177 van hetzelfde decreet, gewijzigd bij de decreten van 13 juli 2001, 10 juli 2003 en 7 juli 2006, worden de volgende wijzigingen aangebracht :<br />1° punt 10° wordt vervangen door wat volgt :<br />« 10° de misbruiken bij het berekenen en aanwenden van lestijden, uren en punten. »;<br /><br />2° punt 11° wordt opgeheven.<br /><br />
+
+### ART. II.52.
+
+In hetzelfde decreet, het laatst gewijzigd bij het decreet van 15 december 2006, wordt een artikel 188quater ingevoegd dat luidt als volgt :<br />« Artikel 188quater <br />Scholen die voor het schooljaar 2007-2008 van de regering een afwijking gekregen hebben op de rationalisatienormen, komen in aanmerking om een beroep te doen op de bepalingen van artikel 115 voor het schooljaar 2008-2009. » .<br /><br />
 
 ## Afdeling II Inwerkingtreding
 
