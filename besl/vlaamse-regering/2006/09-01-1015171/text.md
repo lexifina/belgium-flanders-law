@@ -6,32 +6,28 @@ De Vlaamse Regering,<br /><br />Gelet op de bijzondere wet van 8 augustus 1980 t
 
 ### ART. 1.
 
-Ter uitvoering van artikel 14 en 15, § 1, van het decreet van 2 maart 1999 tot regeling van een aantal aangelegenheden van het volwassenenonderwijs wordt het opleidingsprofiel voor de modulaire structuur van het studiegebied Personenzorg, dat behoort tot het secundair onderwijs voor sociale promotie, vastgelegd in bijlage I die bij dit besluit is gevoegd.<br>
-&nbsp;
+...
 
 ### ART. 2.
 
-Het opleidingsprofiel, vermeld in artikel 1, wordt uiterlijk drie jaar na de inwerkingtreding van dit besluit geëvalueerd.<br /><br />
+...
 
 ### ART. 3.
 
-De modulaire opleiding « Kinderzorg/Begeleider in de kinderopvang BSO 3 » leidt tot een diploma secundair onderwijs als aan de voorwaarden, vermeld in artikel 41, § 4, 2° of 3°, van het decreet van 2 maart 1999 tot regeling van een aantal aangelegenheden van het volwassenenonderwijs, is voldaan.<br>
-&nbsp;
+...
 
 ### ART. 4.
 
-Het hierna vermelde, conform artikel 75 van het decreet van 2 maart 1999 tot regeling van een aantal aangelegenheden van het volwassenenonderwijs, goedgekeurde structuurschema kan bij wijze van overgangsmaatregel nog gedurende twee schooljaren gebruikt worden :<br>
-1° « Kinderzorg BSO 3 », goedgekeurd op 31 mei 2003.<br>
-&nbsp;
+...
 
 ### ART. 5.
 
-Dit besluit heeft uitwerking met ingang van 1 september 2005.<br /><br />
+...
 
 ### ART. 6.
 
-De Vlaamse minister, bevoegd voor het Onderwijs, is belast met de uitvoering van dit besluit.<br /><br />
+...
 
 ### Bijlage I
 
-<a href="http://www.ejustice.just.fgov.be/mopdf/2006/11/22_2.pdf#page=95" title=" bijlage I" target="_blank" class="pdf">bijlage I</a>
+...
