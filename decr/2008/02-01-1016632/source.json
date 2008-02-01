@@ -1,0 +1,17 @@
+{
+  "codex_id": 1016632,
+  "title": "Decreet van 2008-02-01 houdende wijziging van het decreet basisonderwijs van 25 februari 1997, wat betreft de gegevensuitwisseling in het kader van de stimulering van de kleuterparticipatie",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1016632/VolledigDocument?datum=2008-02-01",
+  "source_sha256": "2cc3dcace7e0a30a92bdad547dde87b7a32354c7b8d99e431d85e1412f51ab85",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1016632&param=informatie",
+  "as_of": "2008-02-01",
+  "made": "2008-02-01",
+  "gazette": "2008-03-04",
+  "numac": 2008035367,
+  "document_start": "2008-02-01",
+  "document_end": null,
+  "in_force": "2008-02-01",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2008-02-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
