@@ -14,6 +14,10 @@ Dit decreet regelt een gemeenschapsaangelegenheid.<br /><br />
 
 In artikel 3 van het decreet basisonderwijs van 25 februari 1997, gewijzigd bij de decreten van 14 juli 1998, 22 december 2000, 13 juli 2001, 28 juni 2002, 14 februari 2003, 10 juli 2003, 7 juli 2006, 22 juni 2007 en 6 juli 2007 worden de volgende wijzigingen aangebracht :<br />1° het punt 14°bis, ingevoegd bij het decreet van 22 juni 2007 en impliciet opgeheven bij decreet van 6 juli 2007, wordt opnieuw ingevoegd, als volgt :<br />« 14°bis extra-uren : uren die toegekend zijn in het kader van tijdelijke projecten; »;<br />2° een punt 14ter wordt ingevoegd dat luidt als volgt :<br />« 14°ter extra-murosactiviteiten : activiteiten die plaatsvinden buiten de schoolmuren en georganiseerd worden voor één of meer leerlingengroepen. Activiteiten die volledig buiten de schooluren georganiseerd worden, vallen hier niet onder; ».<br /><br />
 
+### ART. II.3.
+
+In artikel 124 van hetzelfde decreet worden tussen de woorden « verscheidene vestigingsplaatsen » en de woorden « worden de leerlingen » de woorden « , de scholen voor buitengewoon onderwijs van het type 5 uitgezonderd, » ingevoegd.<br /><br />
+
 ### ART. II.9.
 
 In artikel 138, § 1, van hetzelfde decreet, gewijzigd bij de decreten van 13 juli 2001, 28 juni 2002, 7 juli 2006 en 22 juni 2007, wordt een punt 3°bis ingevoegd dat luidt als volgt :<br />« 3°bis lestijden voor de opvang van gewezen anderstalige nieuwkomers; ».<br /><br />
