@@ -2,16 +2,16 @@
   "codex_id": 1016674,
   "title": "Besluit van de Vlaamse Regering van 2008-03-14 tot wijziging van diverse bepalingen op het vlak van wonen",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1016674/VolledigDocument?datum=2008-01-01",
-  "source_sha256": "083468d5da201c2737e39fffb79ac93646ca9cc25de3ef906315ad9545704ba3",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1016674/VolledigDocument?datum=2008-02-01",
+  "source_sha256": "2bd54f709577b1b966c8badef5136adb679c3013292cd782afd7047dc4f86866",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1016674&param=informatie",
-  "as_of": "2008-01-01",
+  "as_of": "2008-02-01",
   "made": "2008-03-14",
   "gazette": "2008-03-21",
   "numac": 2008035428,
   "document_start": "2008-03-31",
   "document_end": null,
-  "in_force": "2008-01-01",
-  "article_versions": 38,
-  "record_form": "consolidated version as in force on 2008-01-01; future article versions excluded; article text as the API gives it"
+  "in_force": "2008-02-01",
+  "article_versions": 39,
+  "record_form": "consolidated version as in force on 2008-02-01; future article versions excluded; article text as the API gives it"
 }
