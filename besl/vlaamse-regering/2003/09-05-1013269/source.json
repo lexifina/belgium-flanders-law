@@ -2,16 +2,16 @@
   "codex_id": 1013269,
   "title": "Besluit van de Vlaamse Regering van 2003-09-05 houdende de instellingsspecifieke regeling van de rechtspositie van het personeel van de Dienst voor de Scheepvaart",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1013269/VolledigDocument?datum=2006-06-01",
-  "source_sha256": "1602879e2e0d68292dbe168e01ccde378ffce169ac1a7487a41fa09328a18b31",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1013269/VolledigDocument?datum=2008-02-03",
+  "source_sha256": "428ab20c942f226367813d28205779bcf1aa56f37ce478620cbd8dc75457d81c",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1013269&param=informatie",
-  "as_of": "2006-06-01",
+  "as_of": "2008-02-03",
   "made": "2003-09-05",
   "gazette": "2004-07-26",
   "numac": 2004036197,
   "document_start": null,
   "document_end": "2008-02-02",
-  "in_force": "2006-06-01",
+  "in_force": "2008-02-03",
   "article_versions": 54,
-  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2008-02-03; future article versions excluded; article text as the API gives it"
 }
