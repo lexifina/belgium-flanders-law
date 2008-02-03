@@ -2,16 +2,16 @@
   "codex_id": 1014739,
   "title": "Ministerieel besluit van 1993-06-10 betreffende de registratie en de inschrijving in het stamboek van uit kunstmatige inseminatie en embryo-transplantatie geboren kalveren",
   "type": "Ministerieel besluit",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1014739/VolledigDocument?datum=2006-06-01",
-  "source_sha256": "9f1d82f654752e99334ed1892cc77044a574547c6b073f1e8dfec44a82cd760a",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1014739/VolledigDocument?datum=2008-02-03",
+  "source_sha256": "1f5cad42399be6a435ee023b7c7622d624cb868af0146dce258bd51c1faa4117",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1014739&param=informatie",
-  "as_of": "2006-06-01",
+  "as_of": "2008-02-03",
   "made": "1993-06-10",
   "gazette": "1993-07-02",
   "numac": 0,
   "document_start": "1993-07-02",
   "document_end": "2008-02-02",
-  "in_force": "2006-06-01",
+  "in_force": "2008-02-03",
   "article_versions": 7,
-  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2008-02-03; future article versions excluded; article text as the API gives it"
 }

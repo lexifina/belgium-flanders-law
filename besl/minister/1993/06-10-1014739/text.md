@@ -2,28 +2,28 @@
 
 ### Aanhef
 
-De Minister van Landbouw,<br /><br />Gelet op de wet van 20 juni 1956 betreffende de verbetering van de rassen van voor de landbouw nuttige huisdieren, laatst gewijzigd bij de Dierengezondheidswet van 24 maart 1987;<br /><br />Gelet op het koninklijk besluit van 23 september 1971 betreffende de verbetering van het rundveeras, gewijzigd bij de koninklijke besluiten van 9 maart 1974, 12 januari 1984, 18 maart 1988 en 9 december 1992, inzonderheid zijn artikels 31 tot 33 en 42;<br /><br />Gelet op het koninklijk besluit van 23 januari 1992 betreffende de sanitaire voorwaarden voor het verzamelen en overplaatsen van embryo's van runderen;<br /><br />Gelet op het koninklijk besluit van 9 december 1992 betreffende veterinairrechtelijke en zoötechnische voorwaarden aangaande de produktie, de behandeling, de bewaring, het gebruik, het intracommunautaire handelsverkeer en de invoer van rundersperma, inzonderheid zijn artikels 11 tot 14;<br /><br />Gelet op het ministerieel besluit van 27 februari 1991 betreffende de verbetering van het rundveeras, inzonderheid zijn artikel 44;<br /><br />Gelet op de beschikking 84/419/EEG van de Commissie van 19 juli 1984 tot vaststelling van de criteria voor inschrijving in de rundveestamboeken;<br /><br />Gelet op de beschikking 88/124/EEG van 21 januari 1988 houdende vaststelling van het model van en de gegevens die moeten voorkomen op de stamboekcertificaten voor sperma en embryo's van raszuivere fokrunderen;<br /><br />Gelet op de dringende noodzakelijkheid;<br /><br />Overwegende de noodzaak om onverwijld, in overeenkomst met de communautaire bepalingen, de registratie en de inschrijving van kalveren bekomen na kunstmatige inseminatie en embryo-transplantatie, te reglementeren;
+...
 
 ### ART. 1.
 
-Tot de registratie of de inschrijving in het rasstamboek van kalveren die werden geboren uit kunstmatige inseminatie of embryo-transplantatie mag alleen worden overgegaan als aan de hierna vermelde voorwaarden wordt voldaan :<br />1°) de kunstmatige inseminatie of embryo-transplantatie moet uitgevoerd geweest zijn overeenkomstig de zoötechnische en sanitaire wetgeving, inzonderheid :<br />- het koninklijk besluit van 23 september 1971 betreffende de verbetering van het rundveeras laatst gewijzigd bij koninklijk besluit van 9 december 1992, inzonderheid zijn artikels 31 tot 33 en 42, die aan erkende verenigingen van kwekers en houders van rundvee de opdracht toevertrouwen voor het bijhouden van stam- en inschrijvingsboeken evenals de verdeling en het aanwenden van rundersperma;<br />- het koninklijk besluit van 9 december 1992 betreffende de veterinairrechtelijke en zoötechnische voorwaarden aangaande de produktie, de behandeling, de bewaring, het gebruik, het intracommunautaire handelsverkeer en de invoer van rundersperma, dat bepaalt dat enkel de door de Minister erkende spermacentra gemachtigd zijn sperma in de nationale handel te brengen;<br />- het koninklijk besluit van 23 januari 1992 betreffende de sanitaire voorwaarden voor het verzamelen en overplanten van embryo's van runderen, dat bepaalt dat enkel de door de Minister erkende embryo-teams gemachtigd zijn embryo's te verzamelen, te behandelen en op te slaan alsook ze over te planten;<br />- het ministerieel besluit van 27 februari 1991 betreffende de verbetering van het rundveeras, inzonderheid zijn artikel 44, dat bepaalt aan welke voorwaarden een rundveehouder moet voldoen om sperma gekocht bij de provinciale vereniging van kwekers en houders en rundvee in voorraad te houden en aan te wenden;<br />2°) sperma dat ingevoerd werd of afkomstig is uit een Lidstaat waaruit het kalf is voortgekomen, moet vergezeld geweest zijn van een genealogisch en zoötechnisch certificaat dat overeenstemt met het model uit bijlage IV, hoofdstuk II van het koninklijk besluit van 9 december 1992 betreffende de veterinairrechtelijke en zoötechnische voorwaarden aangaande de produktie, de behandeling, de bewaring, het gebruik, het intracommunautaire handelsverkeer en de invoer van rundersperma.<br />Het embryo dat werd ingevoerd of afkomstig is uit een lid-Staat waaruit het kalf is voortgekomen moet vergezeld geweest zijn van een genealogisch en zoötechnisch donorcertificaat dat overeenstemt met het in bijlage van dit besluit voorkomende model;<br />3°) de kunstmatige inseminatie moet aangegeven geweest zijn bij de bevoegde provinciale of interprovinciale vereniging van rundveefokkers en -houders. De wijze van aangifte en het model van het aangiftedocument moeten goedgekeurd worden door de bevoegde entiteit van het Departement Landbouw en Visserij, hierna de bevoegde entiteit te noemen;<br />4°) de winning en de opslag van het diepgevroren embryo moeten uitgevoerd zijn door een erkend team voor embryo-transplantatie. Aanwending van het diepgevroren embryo of de overplanting binnen eenzelfde beslag van een vers embryo moet uitgevoerd geweest zijn, ofwel door een erkend team, ofwel door een aangenomen dierenarts die als zelfstandige of weddetrekkende werkt voor de bevoegde provinciale of interprovinciale vereniging van rundveefokkers en -houders;<br />5°) op het ogenblik dat het embryo wordt ingeplant, moet de dierenarts aan de eigenaar of de houder van de receptorkoe een certificaat van embryo-transplantatie afgeleverd hebben waarop met name de datum van het gebruik en de identificatie van de donorstier, de donorkoe en de receptorkoe zijn vermeld. Hij moet een dubbel van dit certificaat naar de bevoegde provinciale vereniging van kwekers en houders van rundvee sturen. Het model van dit certificaat moet goedgekeurd worden door de bevoegde entiteit.<br /><br />
+...
 
 ### ART. 2.
 
-Om de verantwoordelijke van de bevoegde provinciale of interprovinciale vereniging van rundveefokkers en -houders in staat te stellen over te gaan tot de registratie of de inschrijving in het stamboek van het uit kunstmatige inseminatie of embryo-transplantatie geboren kalf, moeten de in artikel 1, 3° en 5° vermelde documenten hem op zijn verzoek worden voorgelegd. Deze documenten moeten ook worden voorgelegd telkens de bevoegde ambtenaar van de bevoegde entiteit daarom verzoekt.<br /><br />
+...
 
 ### ART. 3.
 
-Met het oog op de inschrijving in het rasstamboek van een uit kunstmatige inseminatie of embryo-transplantatie geboren kalf wordt een controle van de afstamming uitgevoerd overeenkomstig het reglement opgesteld door de Nationale Vereniging van rundveefokkers en -houders. Dit reglement wordt door de Direkteur van de bevoegde entiteit goedgekeurd.<br /><br />
+...
 
 ### ART. 4.
 
-Overtreding van dit besluit wordt opgespoord, vastgesteld en gestraft overeenkomstig de bepalingen van de wet van 20 juni 1956, betreffende de verbetering van de rassen van voor de landbouw nuttige huisdieren.<br /><br />
+...
 
 ### ART. 5.
 
-Dit besluit wordt van kracht de dag van zijn bekendmaking in het Belgisch Staatsblad.<br /><br />
+...
 
 ### BIJLAGE
 
-MODEL VAN GENEALOGISCH EN ZOOTECHNISCH CERTIFICAAT voor de invoer of het intracommunautair handelsverkeer van embryo's van raszuivere fokrunderen. <br /><br />(niet opgenomen)
+...
