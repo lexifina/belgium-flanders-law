@@ -1,0 +1,17 @@
+{
+  "codex_id": 1016539,
+  "title": "Besluit van de Vlaamse Regering van 2007-11-09 houdende verhoging van de vastleggingsmachtiging en het gesplitst vastleggingskrediet van het Minafonds voor het begrotingsjaar 2007",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1016539/VolledigDocument?datum=2008-02-04",
+  "source_sha256": "7472c8e7b90f4aa0dde577666a64f67de7242d16fc026c5e9e7a1671fb4fcbcc",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1016539&param=informatie",
+  "as_of": "2008-02-04",
+  "made": "2007-11-09",
+  "gazette": "2008-01-25",
+  "numac": 2008035074,
+  "document_start": "2008-02-04",
+  "document_end": null,
+  "in_force": "2008-02-04",
+  "article_versions": 5,
+  "record_form": "consolidated version as in force on 2008-02-04; oldest version available; future article versions excluded; article text as the API gives it"
+}
