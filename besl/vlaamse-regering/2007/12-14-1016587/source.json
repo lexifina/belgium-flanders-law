@@ -1,0 +1,17 @@
+{
+  "codex_id": 1016587,
+  "title": "Besluit van de Vlaamse Regering van 2007-12-14 tot samenstelling van de beroepscommissie, vermeld in artikel 9 van het decreet van 30 april 2004 betreffende het verwerven van een titel van beroepsbekwaamheid",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1016587/VolledigDocument?datum=2008-02-08",
+  "source_sha256": "42c91f551e7183cdbea5833e91f0fd3a9e09769c955aa37c8c2fe9a2438b6036",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1016587&param=informatie",
+  "as_of": "2008-02-08",
+  "made": "2007-12-14",
+  "gazette": "2008-02-08",
+  "numac": 2008035173,
+  "document_start": "2008-02-08",
+  "document_end": null,
+  "in_force": "2008-02-08",
+  "article_versions": 8,
+  "record_form": "consolidated version as in force on 2008-02-08; oldest version available; future article versions excluded; article text as the API gives it"
+}
