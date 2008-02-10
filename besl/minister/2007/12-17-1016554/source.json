@@ -1,0 +1,17 @@
+{
+  "codex_id": 1016554,
+  "title": "Ministerieel besluit van 2007-12-17 tot wijziging van de samenstelling van de natuurinrichtingsprojectcomités voor de natuurinrichtingsprojecten Kanaal Ieper-IJzer en Uitkerkse Polder",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1016554/VolledigDocument?datum=2008-02-10",
+  "source_sha256": "b2b503cb92b7daf8ce9c627aea80ae6ee9fb92339cb938f42aed444bdf2e4929",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1016554&param=informatie",
+  "as_of": "2008-02-10",
+  "made": "2007-12-17",
+  "gazette": "2008-01-31",
+  "numac": 2008035142,
+  "document_start": "2008-02-10",
+  "document_end": null,
+  "in_force": "2008-02-10",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2008-02-10; oldest version available; future article versions excluded; article text as the API gives it"
+}
