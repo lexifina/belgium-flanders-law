@@ -1,0 +1,17 @@
+{
+  "codex_id": 1016552,
+  "title": "Besluit van de Vlaamse Regering van 2007-12-14 houdende de verdeling van het provisioneel krediet voor CAO onderwijs, ingeschreven onder organisatieafdeling 24, programma 60 - provisionele kredieten, basisallocatie 00.35 van de algemene uitgavenbegroting van de Vlaamse Gemeenschap voor het begrotingsjaar 2007",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1016552/VolledigDocument?datum=2008-02-10",
+  "source_sha256": "2bc97275853baee9627b652b393be8cad85780e12b19b27b59eef8fbb37c06af",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1016552&param=informatie",
+  "as_of": "2008-02-10",
+  "made": "2007-12-14",
+  "gazette": "2008-01-31",
+  "numac": 2008035136,
+  "document_start": "2008-02-10",
+  "document_end": null,
+  "in_force": "2008-02-10",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2008-02-10; oldest version available; future article versions excluded; article text as the API gives it"
+}
