@@ -1,0 +1,17 @@
+{
+  "codex_id": 1016560,
+  "title": "Decreet van 2007-12-21 houdende wijziging van artikel 2, 17°, van de decreten betreffende de radio-omroep en de televisie, gecoördineerd op 4 maart 2005",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1016560/VolledigDocument?datum=2008-02-14",
+  "source_sha256": "af1b8ac8273caaa0e7f93021ba031ba3b87a816e44cc388b0ac5ccb0769c1e30",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1016560&param=informatie",
+  "as_of": "2008-02-14",
+  "made": "2007-12-21",
+  "gazette": "2008-02-04",
+  "numac": 2008035094,
+  "document_start": "2008-02-14",
+  "document_end": null,
+  "in_force": "2008-02-14",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2008-02-14; oldest version available; future article versions excluded; article text as the API gives it"
+}
