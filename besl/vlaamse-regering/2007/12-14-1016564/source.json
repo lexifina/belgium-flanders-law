@@ -1,0 +1,17 @@
+{
+  "codex_id": 1016564,
+  "title": "Besluit van de Vlaamse Regering van 2007-12-14 tot erkenning van de professioneel gerichte bacheloropleiding bachelor in de bouw als nieuwe opleiding van de Katholieke Hogeschool Kempen",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1016564/VolledigDocument?datum=2008-02-15",
+  "source_sha256": "4895a7bfe1f2ab19043ca016fc373277a6c1721ebef3f19bd51990606ff46ca7",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1016564&param=informatie",
+  "as_of": "2008-02-15",
+  "made": "2007-12-14",
+  "gazette": "2008-02-05",
+  "numac": 2008035172,
+  "document_start": "2008-02-15",
+  "document_end": null,
+  "in_force": "2008-02-15",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2008-02-15; oldest version available; future article versions excluded; article text as the API gives it"
+}
