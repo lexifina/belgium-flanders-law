@@ -1,0 +1,17 @@
+{
+  "codex_id": 1016662,
+  "title": "Ministerieel besluit van 2008-02-18 tot wijziging van het ministerieel besluit van 6 januari 2006 tot regeling van de vaststelling van de ernst en de duur van het verminderd zelfzorgvermogen aan de hand van de BEL-profielschaal in het kader van de Vlaamse zorgverzekering",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1016662/VolledigDocument?datum=2008-02-15",
+  "source_sha256": "a68b4dd74ab5f99c2d6fe8146f15a84b38a18cec9ca40ea7a95ab5948ee94af7",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1016662&param=informatie",
+  "as_of": "2008-02-15",
+  "made": "2008-02-18",
+  "gazette": "2008-03-17",
+  "numac": 2008200777,
+  "document_start": "2008-02-15",
+  "document_end": null,
+  "in_force": "2008-02-15",
+  "article_versions": 8,
+  "record_form": "consolidated version as in force on 2008-02-15; oldest version available; future article versions excluded; article text as the API gives it"
+}
