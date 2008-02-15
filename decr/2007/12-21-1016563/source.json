@@ -1,0 +1,17 @@
+{
+  "codex_id": 1016563,
+  "title": "Decreet van 2007-12-21 houdende instemming met het protocol nr. 7 bij het Verdrag tot bescherming van de Rechten van de Mens en de Fundamentele Vrijheden, opgemaakt in Straatsburg op 22 november 1984",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1016563/VolledigDocument?datum=2008-02-15",
+  "source_sha256": "c70814a37699da9b040f1c15041e78e8a1de03033fe8bcc987d29eab9f9e31c5",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1016563&param=informatie",
+  "as_of": "2008-02-15",
+  "made": "2007-12-21",
+  "gazette": "2008-02-05",
+  "numac": 2008035177,
+  "document_start": "2008-02-15",
+  "document_end": null,
+  "in_force": "2008-02-15",
+  "article_versions": 2,
+  "record_form": "consolidated version as in force on 2008-02-15; oldest version available; future article versions excluded; article text as the API gives it"
+}
