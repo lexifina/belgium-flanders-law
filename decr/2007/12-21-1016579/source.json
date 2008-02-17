@@ -1,0 +1,17 @@
+{
+  "codex_id": 1016579,
+  "title": "Decreet van 2007-12-21 houdende uitvoering van de Verordening (EG) Nr. 1082/2006 van het Europees Parlement en de Raad van 5 juli 2006 betreffende een Europese groepering voor territoriale samenwerking (EGTS)",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1016579/VolledigDocument?datum=2008-02-17",
+  "source_sha256": "10f2891d66f368e8fabed93b19f216c4a8a930e0d46cc0b0f33b31daafeb89bb",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1016579&param=informatie",
+  "as_of": "2008-02-17",
+  "made": "2007-12-21",
+  "gazette": "2008-02-07",
+  "numac": 2008035176,
+  "document_start": "2008-02-17",
+  "document_end": null,
+  "in_force": "2008-02-17",
+  "article_versions": 2,
+  "record_form": "consolidated version as in force on 2008-02-17; oldest version available; future article versions excluded; article text as the API gives it"
+}
