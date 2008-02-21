@@ -6,7 +6,7 @@ De gemeenten die besluiten tot de heffing van opcentiemen op de milieuheffingen 
 
 ### ART. 2.
 
-Het bedrag van de gemeentelijke opcentiemen op de geïnde milieuheffingen, met inbegrip van de bedragen voortvloeiend uit ambtelijke aanslagen en navorderingen, verminderd met 5 % invorderingskosten, wordt door de Openbare Afvalstoffenmaatschappij voor het Vlaamse Gewest op de rekening van de gemeente bij de n.v. Gemeentekrediet van België gestort vóór het eind van de maand volgend op de maand waarin de inning is geschied.
+Het bedrag van de gemeentelijke opcentiemen op de geïnde milieuheffingen, met inbegrip van de bedragen voortvloeiend uit ambtelijke aanslagen en navorderingen, verminderd met 5 % invorderingskosten, wordt door de Openbare Vlaamse Afvalstoffenmaatschappij op de rekening van de gemeente bij de n.v. Gemeentekrediet van België gestort vóór het eind van de maand volgend op de maand waarin de inning is geschied.
 
 ### ART. 3.
 
