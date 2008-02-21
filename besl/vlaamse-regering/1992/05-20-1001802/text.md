@@ -4,7 +4,7 @@
 
 ### ART. 1.
 
-Voor de toepassing van dit besluit wordt verstaan onder:<br /><br />1° Vlaamse minister: Vlaamse minister bevoegd vóór de riviervisserij.<br /><br />2° bevoegde dienst: Dienst Waters en Bossen van het Bestuur Natuurbehoud en -ontwikkeling van het Departement, Leefmilieu en Infrastructuur.
+Voor de toepassing van dit besluit wordt verstaan onder:<br />1° Vlaamse minister: Vlaamse minister bevoegd vóór de riviervisserij.<br />2° Agentschap: het Agentschap voor Natuur en Bos
 
 ### ART. 2.
 
