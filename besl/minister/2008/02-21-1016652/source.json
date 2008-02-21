@@ -1,0 +1,17 @@
+{
+  "codex_id": 1016652,
+  "title": "Ministerieel besluit van 2008-02-21 tot aanvulling van het ministerieel besluit van 5 april 2006 houdende toekenning van aanvullende en specifieke delegaties aan het hoofd van het departement Leefmilieu, Natuur en Energie",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1016652/VolledigDocument?datum=2008-02-21",
+  "source_sha256": "f9fdae6f36547b3b47619845832a92640305dbe684440d9be1792e61c44d6ca2",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1016652&param=informatie",
+  "as_of": "2008-02-21",
+  "made": "2008-02-21",
+  "gazette": "2008-03-14",
+  "numac": 2008200770,
+  "document_start": "2008-02-21",
+  "document_end": null,
+  "in_force": "2008-02-21",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2008-02-21; oldest version available; future article versions excluded; article text as the API gives it"
+}
