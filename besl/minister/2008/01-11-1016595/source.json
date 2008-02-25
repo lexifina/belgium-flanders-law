@@ -1,0 +1,17 @@
+{
+  "codex_id": 1016595,
+  "title": "Ministerieel besluit van 2008-01-11 betreffende toepassing van de artikelen 48 en 48ter van het decreet van 22 februari 1995 betreffende de bodemsanering - site 'Voormalige zinkfabriek Boom'",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1016595/VolledigDocument?datum=2008-02-25",
+  "source_sha256": "87a468eaca39a868cebc169ccb480cff397b34e779fcce92440654a833a1f9a5",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1016595&param=informatie",
+  "as_of": "2008-02-25",
+  "made": "2008-01-11",
+  "gazette": "2008-02-15",
+  "numac": 2008035201,
+  "document_start": "2008-02-25",
+  "document_end": null,
+  "in_force": "2008-02-25",
+  "article_versions": 9,
+  "record_form": "consolidated version as in force on 2008-02-25; oldest version available; future article versions excluded; article text as the API gives it"
+}
