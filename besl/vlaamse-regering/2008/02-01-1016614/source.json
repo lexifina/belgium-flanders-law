@@ -1,0 +1,17 @@
+{
+  "codex_id": 1016614,
+  "title": "Besluit van de Vlaamse Regering van 2008-02-01 tot wijziging van het besluit van de Vlaamse Regering van 9 september 2005 betreffende de geografische indeling van watersystemen en de organisatie van het integraal waterbeleid in uitvoering van Titel I van het decreet van 18 juli 2003 betreffende het integraal waterbeleid",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1016614/VolledigDocument?datum=2008-02-26",
+  "source_sha256": "1acc74da6aab13e7f285310200d06b3c995333307fff842dabcc3a1efaf10517",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1016614&param=informatie",
+  "as_of": "2008-02-26",
+  "made": "2008-02-01",
+  "gazette": "2008-02-26",
+  "numac": 2008035323,
+  "document_start": "2008-02-26",
+  "document_end": null,
+  "in_force": "2008-02-26",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2008-02-26; oldest version available; future article versions excluded; article text as the API gives it"
+}
