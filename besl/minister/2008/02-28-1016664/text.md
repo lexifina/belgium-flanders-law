@@ -1,0 +1,17 @@
+# Ministerieel besluit van 2008-02-28 houdende delegatie van bevoegdheid tot afsluiting van de vereffenings- werkzaamheden van de werkholding, naamloze vennootschap met sociaal oogmerk in vereffening
+
+### Aanhef
+
+De Vlaamse minister van Mobiliteit, Sociale Economie en Gelijke Kansen,<br /><br />Gelet op het decreet van 28 juni 2002 betreffende de oprichting van de vennootschappen T-Groep en Werkholding, gewijzigd bij decreet van 19 maart 2004;<br /><br />Gelet op het besluit van de Vlaamse Regering van 27 juli 2004 tot bepaling van de bevoegdheden van de leden van de Vlaamse regering, gewijzigd bij het besluit van de Vlaamse Regering van 15 oktober 2004, 23 december 2005, 19 mei 2006, 30 juni 2006, 1 september 2006; 15 juni 2007, 28 juni 2007 en 10 oktober 2007; <br /><br />Gelet op het besluit van de Vlaamse Regering van 10 oktober 2003 tot regeling van de delegatie van beslissingsbevoegdheden aan de hoofden van de departementen van de Vlaamse ministeries, inzonderheid de artikelen 17 en 18;<br /><br />Gelet op het advies van de Inspectie van Financiën, gegeven op 21 februari 2008, <br /><br />Besluit : <br />
+
+### ART. 1.
+
+De Vlaamse minister van Mobiliteit, Sociale Economie en Gelijke Kansen, Mevr. Kathleen Van Brempt, verleent aan de heer Dirk Vanderpoorten, secretaris-generaal van het Departement Werk en Sociale Economie, een specifieke delegatie van bevoegdheid, in naam en voor rekening van de Vlaamse Gemeenschap en het Vlaamse Gewest, voor de afsluiting van de vereffeningswerkzaamheden van werkholding, naamloze vennootschap met sociaal oogmerk, die ontbonden en in vereffening is gesteld bij beslissing van de buitengewone algemene vergadering van 25 juli 2006.<br />
+
+### ART. 2.
+
+Deze specifieke delegatie omvat de bevoegdheid om de Vlaamse Gemeenschap en het Vlaamse Gewest te vertegenwoordigen op de bijzondere algemene vergadering van de NV VSO Werkholding die gehouden zal worden met het oog op de afsluiting van de vereffening; de bevoegdheid om tijdens deze bijzondere algemene vergadering in naam en voor rekening van de Vlaamse Gemeenschap en het Vlaamse Gewest : <br />1° kennis te nemen van de jaarrekening, het bijhorende jaarverslag van de vereffenaar en het verslag van de commissaris-revisor, de sluitingsrekeningen met bijhorende stavingstukken, het bijzonder verslag van de vereffenaar en het verslag van de commissaris over de sluitingsrekeningen, deze daar waar nodig te bespreken en indien nodig goed te keuren; <br />2° kennis te nemen van de beslissing over de bestemming van het vereffeningssaldo en voor zoveel als nodig deze te bekrachtigen; <br />3° volledige en onbeperkte kwijting te verlenen aan de vereffenaar en de commissaris-revisor voor de door hen vervulde opdracht; <br />4° te besluiten tot de sluiting van de vereffening;<br />5° te beslissen waar de boeken en bescheiden gedurende vijf jaar zullen worden bewaard; <br />6° de nodige volmachten aan de vereffenaar en/of de commissaris te verlenen met het oog op de sluiting van de vereffening;<br />7° om het even welke andere beslissing te nemen of handeling te stellen die nodig of nuttig is voor de afsluiting van de vereffening van de NV VSO Werkholding in vereffening;<br />8° om het even welke overeenkomst of document, waaronder de notulen van de buitengewone algemene vergadering, te ondertekenen.<br />
+
+### ART. 3.
+
+Dit besluit treedt in werking op datum van afkondiging.<br />

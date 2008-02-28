@@ -1,0 +1,17 @@
+{
+  "codex_id": 1016664,
+  "title": "Ministerieel besluit van 2008-02-28 houdende delegatie van bevoegdheid tot afsluiting van de vereffenings- werkzaamheden van de werkholding, naamloze vennootschap met sociaal oogmerk in vereffening",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1016664/VolledigDocument?datum=2008-02-28",
+  "source_sha256": "1c2bd4ec46065dc09630bc1de5fd261a2d441af6ecbec5b21a04e0b7969ba6cf",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1016664&param=informatie",
+  "as_of": "2008-02-28",
+  "made": "2008-02-28",
+  "gazette": "2008-03-17",
+  "numac": 2008200785,
+  "document_start": "2008-02-28",
+  "document_end": null,
+  "in_force": "2008-02-28",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2008-02-28; oldest version available; future article versions excluded; article text as the API gives it"
+}
