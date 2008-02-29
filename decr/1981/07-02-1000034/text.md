@@ -644,29 +644,7 @@ Op straffe van nietigheid moet een afschrift van het proces-verbaal ter kennis v
 
 ### ART. 56.
 
-[Met gevangenisstraf van één maand tot 5 jaar en met geldboete van honderd frank tot 10 miljoen frank of met één van die straffen alleen, wordt gestraft: (verv. decr. 20 april 1994, art. 10, I: 7 mei 1994) ]<br>
-<br>
-1. hij die de voorschriften, vastgesteld door of krachtens dit decreet of de voorschriften van de verleende vergunning overtreedt;<br>
-<br>
-2. hij die het krachtens dit decreet geregelde toezicht verhindert;<br>
-<br>
-[3. hij die zich schuldig maakt aan sluikhandel als bedoeld in artikel 26 van de Verordening (EEG) nr. 259/93 van de Raad van de Europese Gemeenschappen van 1 februari 1993 betreffende toezicht en controle op de overbrenging van afvalstoffen binnen, naar en uit de Europese Gemeenschap;<br>
-<br>
-4. hij die afvalstoffen als bedoeld in artikel 11, lid 1, van voormelde verordening vervoert of overbrengt zonder dat ze vergezeld gaan van de informatie bedoeld in dezelfde bepaling;<br>
-<br>
-5. hij die afvalstoffen uitvoert naar een ACS-Staat in strijd met artikel 18 van voormelde verordening;<br>
-<br>
-6. hij die afvalstoffen overbrengt zonder te hebben voldaan aan de verplichting om een borgsom of gelijkwaardige financiële zekerheid te stellen wanneer dit vereist is door de krachtens artikel 33, § 2, van dit decreet ter uitvoering van artikel 27, eerste lid, van voormelde verordening uitgevaardigde bepalingen;<br>
-<br>
-7. hij die tijdens de overbrenging, in strijd met artikel 29 van voormelde verordening, afvalstoffen mengt waarop verschillende kennisgevingen betrekking hebben; (ing. decr. 20 april 1994, art. 10, I: 7 mei 1994) ]<br>
-<br>
-[8. hij die zich schuldig maakt aan de uitvoer uit de Europese Gemeenschap van afvalstoffen zoals bedoeld in artikel 11 van de verordening 2037/2000/EG van het Europees Parlement en de Raad van 29 juni 2000 betreffende de ozonlaag afbrekende stoffen;<br>
-<br>
-9. hij die teruggewonnen gebruikte gereguleerde stoffen niet verwerkt zoals bepaald in artikel 16, lid 1, 2 en 3 van voormelde verordening; (ing. decr. 30 april 2004, art. 6, I: 18 juni 2004) ]<br>
-<br>
-[10° hij die dierlijke bijproducten van categorie 1, 2 en 3, voor zover ze kunnen beschouwd worden als afvalstoffen, beheert in strijd met de Verordening (EG) nr. 1774/2002 van het Europees Parlement en de Raad van 3 oktober 2002 tot vaststelling van gezondheidsvoorschriften inzake niet voor menselijke consumptie bestemde dierlijke bijproducten;<br>
-<br>
-11° hij die persistente organische verontreinigde stoffen, voor zover ze kunnen beschouwd worden als afvalstoffen, beheert in strijd met de Verordening (EG) nr. 850/2004 van het Europees Parlement en de Raad van 29 april 2004 betreffende de persistente organische verontreinigde stoffen en tot wijziging van richtlijn 97/117/EEG. (ing. decr. 22 april 2005, art. 29, I: 1 januari 2005) ]
+Met gevangenisstraf van één maand tot 5 jaar en met geldboete van honderd frank tot 10 miljoen frank of met één van die straffen alleen, wordt gestraft: <br />1. hij die de voorschriften, vastgesteld door of krachtens dit decreet of de voorschriften van de verleende vergunning overtreedt;<br />2. hij die het krachtens dit decreet geregelde toezicht verhindert;<br />3. hij die zich schuldig maakt aan sluikhandel als bedoeld in artikel 26 van de Verordening (EEG) nr. 259/93 van de Raad van de Europese Gemeenschappen van 1 februari 1993 betreffende toezicht en controle op de overbrenging van afvalstoffen binnen, naar en uit de Europese Gemeenschap;<br />4. hij die afvalstoffen als bedoeld in artikel 11, lid 1, van voormelde verordening vervoert of overbrengt zonder dat ze vergezeld gaan van de informatie bedoeld in dezelfde bepaling;<br />5. hij die afvalstoffen uitvoert naar een ACS-Staat in strijd met artikel 18 van voormelde verordening;<br />6. hij die afvalstoffen overbrengt zonder te hebben voldaan aan de verplichting om een borgsom of gelijkwaardige financiële zekerheid te stellen wanneer dit vereist is door de krachtens artikel 33, § 2, van dit decreet ter uitvoering van artikel 27, eerste lid, van voormelde verordening uitgevaardigde bepalingen;<br />7. hij die tijdens de overbrenging, in strijd met artikel 29 van voormelde verordening, afvalstoffen mengt waarop verschillende kennisgevingen betrekking hebben; <br />8. hij die zich schuldig maakt aan de uitvoer uit de Europese Gemeenschap van afvalstoffen zoals bedoeld in artikel 11 van de verordening 2037/2000/EG van het Europees Parlement en de Raad van 29 juni 2000 betreffende de ozonlaag afbrekende stoffen;<br />9. hij die teruggewonnen gebruikte gereguleerde stoffen niet verwerkt zoals bepaald in artikel 16, lid 1, 2 en 3 van voormelde verordening; <br />10° hij die dierlijke bijproducten van categorie 1, 2 en 3, voor zover ze kunnen beschouwd worden als afvalstoffen, beheert in strijd met de Verordening (EG) nr. 1774/2002 van het Europees Parlement en de Raad van 3 oktober 2002 tot vaststelling van gezondheidsvoorschriften inzake niet voor menselijke consumptie bestemde dierlijke bijproducten;<br />11° hij die persistente organische verontreinigde stoffen, voor zover ze kunnen beschouwd worden als afvalstoffen, beheert in strijd met de Verordening (EG) nr. 850/2004 van het Europees Parlement en de Raad van 29 april 2004 betreffende de persistente organische verontreinigde stoffen en tot wijziging van richtlijn 97/117/EEG. <br /><br />In afwijking van de straffen vermeld in het eerste lid, kunnen gemeenten voor kleine vormen van openbare overlast gemeentelijke sancties bepalen overeenkomstig artikel 119bis van de Nieuwe Gemeentewet.<br /><br />Wanneer de gemeente geen gemeentelijke sancties overeenkomstig artikel 119bis van de Nieuwe Gemeentewet heeft bepaald, worden in die gemeente deze kleine vormen van openbare overlast gestraft met een geldboete van maximum 45,45 euro.
 
 ### ART. 57.
 
