@@ -34,9 +34,33 @@ In artikel 3, § 2, van hetzelfde decreet wordt het bedrag van « 150 euro » ve
 
 ## Afdeling I. Hertekening van de huidige structuur van de LRM-groep
 
+### ART. 10.
+
+Alle aandelen van de NV Limburgse Strategische Ontwikkelingsmaatschappij, hierna 'LISOM' te noemen, in bezit van LRM worden overgedragen aan de provincie Limburg. De provincie Limburg oefent vanaf de datum van inwerkingtreding van dit artikel alle aan deze aandelen verbonden rechten uit en staat in voor alle gevolgen en risico's daaraan verbonden.<br /><br />Alle rechten en plichten, niets uitgezonderd noch voorbehouden, die in verband met het beheer van LISOM en zijn middelen zijn ontstaan of kunnen ontstaan, worden, wat het Vlaamse Gewest aangaat, van rechtswege overgenomen door de provincie Limburg.
+
+### ART. 11.
+
+Er worden fondsen ten belope van 177,52 miljoen euro van de NV Limburgse Reconversiemaatschappij, hierna 'LRM' te noemen overgedragen naar de provincie Limburg.
+
 ## Afdeling II. Toekomstige overdrachten
 
+### ART. 12.
+
+Voor zover de bevoegde organen van de LRM beslissen over te gaan tot een winstuitkering, wordt het bedrag daarvan dat toekomt aan het Vlaamse Gewest overgedragen aan de provincie Limburg.<br /><br />Indien het tot een valorisatie komt van de LRM of één van zijn dochters of bedrijfsunits zal de opbrengst hiervan die toekomt aan het Vlaamse Gewest exclusief voorbehouden worden voor grote maatschappelijke uitdagingen die zich dan aandienen in de provincie Limburg.
+
 ## Afdeling III. Slotbepalingen
+
+### ART. 13.
+
+De modaliteiten van de uitwerking van deze overdrachten worden vastgelegd in een protocol dat wordt afgesloten door de Vlaamse Regering en de provincie Limburg.
+
+### ART. 14.
+
+De provincie Limburg kan de rechten en plichten die in de afdelingen I en II aan haar zijn toegewezen, overdragen aan een door haar aangewezen rechtspersoon.
+
+### ART. 15.
+
+De Vlaamse Regering is belast met de verdere uitvoering van de bepalingen van dit hoofdstuk.
 
 ## HOOFDSTUK V. Sportieve vrijetijdsbesteding
 
