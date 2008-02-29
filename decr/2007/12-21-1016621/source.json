@@ -1,0 +1,17 @@
+{
+  "codex_id": 1016621,
+  "title": "Decreet van 2007-12-21 tot aanvulling van het decreet van 5 april 1995 houdende algemene bepalingen inzake milieubeleid met een titel XVI « Toezicht, handhaving en veiligheidsmaatregelen »",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1016621/VolledigDocument?datum=2008-02-29",
+  "source_sha256": "9bfd32c0dd6459306a65a4942cba648a578407076851e9bd84227fcc9b5799bb",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1016621&param=informatie",
+  "as_of": "2008-02-29",
+  "made": "2007-12-21",
+  "gazette": "2008-02-29",
+  "numac": 2008035341,
+  "document_start": "2009-05-01",
+  "document_end": null,
+  "in_force": "2008-02-29",
+  "article_versions": 1,
+  "record_form": "consolidated version as in force on 2008-02-29; oldest version available; future article versions excluded; article text as the API gives it"
+}
