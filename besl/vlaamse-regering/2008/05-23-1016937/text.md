@@ -20,6 +20,10 @@ In artikel V 39 van hetzelfde besluit, gewijzigd bij het besluit van de Vlaamse 
 
 In artikel V 46 van hetzelfde besluit, vervangen bij het besluit van de Vlaamse Regering van 16 maart 2007, worden de volgende wijzigingen aangebracht :<br />1° er wordt een § 1bis ingevoegd, die luidt als volgt :<br /><br />« § 1bis. De dienstaanwijzing in een mandaatgraad van afdelingshoofd bij de GDPB of een interne dienst Preventie en Bescherming kan in de gevallen, vermeld in §1, alleen worden beëindigd na akkoord van respectievelijk het Hoog Overlegcomité Vlaamse Gemeenschap - Vlaams Gewest of het bevoegde overlegcomité of, onverminderd §1, eveneens worden beëindigd om functionele redenen op verzoek van respectievelijk het Hoog Overlegcomité Vlaamse Gemeenschap - Vlaams Gewest of het bevoegde overlegcomité.<br /><br />Als er geen akkoord bereikt wordt in het Hoog Overlegcomité Vlaamse Gemeenschap - Vlaams Gewest, wordt de beslissing genomen door de Vlaamse minister, bevoegd voor de bestuurszaken.<br /><br />Als er geen akkoord bereikt wordt in het bevoegde overlegcomité, wordt de beslissing genomen door de functionele minister voor het IVA met rechtspersoonlijkheid en de raden en door de raad van bestuur voor het EVA en de instelling. »<br /><br />2° in § 3, tweede lid, worden tussen de woorden « § 1, 1° en 2°, » en de woorden « en § 2 » de woorden « § 1bis, » ingevoegd.
 
+### ART. 30.
+
+In artikel VI 30quater van hetzelfde besluit, ingevoegd bij het besluit van de Vlaamse Regering van 19 juli 2007, wordt punt 2° vervangen door wat volgt :<br /><br />« 2° de voorwaarden vervullen zoals vermeld in artikel III 1; ».
+
 ### ART. 47.
 
 In artikel VI 86 van hetzelfde besluit, ingevoegd bij het besluit van de Vlaamse Regering van 16 maart 2007, wordt het tweede lid vervangen door wat volgt :<br /><br />« De GDPB is samengesteld uit verschillende preventieadviseurs en een afdelingshoofd. Het afdelingshoofd leidt de GDPB en rapporteert rechtstreeks aan het hoofd van het Departement Bestuurszaken. »
