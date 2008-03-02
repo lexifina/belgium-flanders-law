@@ -1,0 +1,17 @@
+{
+  "codex_id": 1016738,
+  "title": "Ministerieel besluit van 2008-03-31 tot vaststelling van het model van attest van aanmelding, attest van vrijstelling, attest van inburgering, attest van EVC, de modellen van inburgeringscontract en de modellen van bijlage bij het inburgeringscontract in het kader van het inburgeringsbeleid",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1016738/VolledigDocument?datum=2008-03-02",
+  "source_sha256": "4c8851b5ec72a98345430558c92d7812c7d651cff4370bde9d4adbfba4ccfd40",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1016738&param=informatie",
+  "as_of": "2008-03-02",
+  "made": "2008-03-31",
+  "gazette": "2008-04-17",
+  "numac": 2008035466,
+  "document_start": "2008-03-02",
+  "document_end": "2009-01-04",
+  "in_force": "2008-03-02",
+  "article_versions": 25,
+  "record_form": "consolidated version as in force on 2008-03-02; oldest version available; future article versions excluded; article text as the API gives it"
+}
