@@ -1,0 +1,17 @@
+{
+  "codex_id": 1016601,
+  "title": "Decreet van 2008-02-01 tot wijziging van het decreet van 28 februari 2003 betreffende het Vlaamse inburgeringsbeleid",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1016601/VolledigDocument?datum=2008-03-02",
+  "source_sha256": "abfd1d1dc8f5e0ba5e656351561c64cdf7c924c4f1faf3cdfd4cf23d49e64a28",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1016601&param=informatie",
+  "as_of": "2008-03-02",
+  "made": "2008-02-01",
+  "gazette": "2008-02-21",
+  "numac": 2008035262,
+  "document_start": "2008-03-02",
+  "document_end": null,
+  "in_force": "2008-03-02",
+  "article_versions": 11,
+  "record_form": "consolidated version as in force on 2008-03-02; oldest version available; future article versions excluded; article text as the API gives it"
+}
