@@ -1,0 +1,17 @@
+{
+  "codex_id": 1016608,
+  "title": "Decreet van 2007-11-23 houdende instemming met het Verdrag nr. 156 betreffende gelijke kansen voor en gelijke behandeling van mannelijke en vrouwelijke werknemers : werknemers met gezinsverantwoordelijkheid, aangenomen door de Internationale Arbeidsconferentie tijdens haar zevenenzestigste zitting in Genève op 23 juni 1981",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1016608/VolledigDocument?datum=2008-03-06",
+  "source_sha256": "45a7964d8c803d2cbb8b322d8dbe569cd928106bb4a11b2ff3a74a5d63ee617a",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1016608&param=informatie",
+  "as_of": "2008-03-06",
+  "made": "2007-11-23",
+  "gazette": "2008-02-25",
+  "numac": 2008035305,
+  "document_start": "2008-03-06",
+  "document_end": null,
+  "in_force": "2008-03-06",
+  "article_versions": 2,
+  "record_form": "consolidated version as in force on 2008-03-06; oldest version available; future article versions excluded; article text as the API gives it"
+}
