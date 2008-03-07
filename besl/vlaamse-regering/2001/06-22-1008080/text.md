@@ -18,7 +18,7 @@ De subsidie voor de opmaak van het eerste vergunningenregister bedraagt 3.718,40
 
 ### ART. 4.
 
-De subsidie voor de opmaak van het eerste vergunningenregister wordt zonder verdere formaliteiten uitbetaald door het agentschap nadat de gewestelijke stedenbouwkundige ambtenaar zijn verslag over het ontwerp van vergunningenregister heeft afgesloten met een gunstige evaluatie.
+De subsidie voor de opmaak van het eerste vergunningenregister wordt zonder verdere formaliteiten uitbetaald door het agentschap nadat de gewestelijke stedenbouwkundige ambtenaar zijn verslag over het ontwerp van vergunningenregister heeft afgesloten met een gunstige evaluatie, op voorwaarde dat de gemeente het vergunningenregister aan de gewestelijke stedenbouwkundige ambtenaar heeft toegezonden vóór 1 januari 2010.<br /><br />Als de gemeente het eerste vergunningenregister aan de gewestelijke stedenbouwkundige ambtenaar heeft toegezonden voor 1 januari 2009, en de gewestelijke stedenbouwkundige ambtenaar zijn verslag over dat register heeft afgesloten met een gunstige evaluatie, dan zal het agentschap 0,62 euro per aanvullende vergunning, of aanvullend attest of proces-verbaal, waarvan de gegevens op 15 januari 2012 zijn ingevoerd in de aan het agentschap bezorgde actualisatie, aan de gemeente uitbetalen.
 
 ## HOOFDSTUK III SUBSIDIËRING VAN HET EERSTE PLANNENREGISTER
 
