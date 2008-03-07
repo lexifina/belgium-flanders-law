@@ -1,0 +1,13 @@
+# Besluit van de Vlaamse Regering van 2008-02-01 tot wijziging van het besluit van de Vlaamse Regering van 22 juni 2001 tot bepaling van de voorwaarden voor de toekenning van subsidies aan gemeenten voor de opmaak van het eerste vergunningenregister en het eerste plannenregister
+
+### Aanhef
+
+De Vlaamse Regering,<br /><br />Gelet op het decreet van 18 mei 1999 houdende de organisatie van de ruimtelijke ordening, inzonderheid op artikel 191, § 2;<br /><br />Gelet op het besluit van de Vlaamse Regering van 22 juni 2001 tot bepaling van de voorwaarden voor de toekenning van subsidies aan gemeenten voor de opmaak van het eerste vergunningenregister en het eerste plannenregister, gewijzigd bij het besluit van de Vlaamse Regering van 23 juni 2006;<br /><br />Gelet op het akkoord van de Vlaamse minister, bevoegd voor de Begroting, gegeven op 19 november 2007;<br /><br />Gelet op het advies van de Raad van State, gegeven op 10 januari 2008, met toepassing van artikel 84, § 1, eerste lid, 1°, van de gecoördineerde wetten op de Raad van State;<br /><br />Op voorstel van de Vlaamse minister van Financiën en Begroting en Ruimtelijke Ordening;<br /><br />Na beraadslaging,<br /><br />Besluit : <br /><br />
+
+### ART. 1.
+
+Artikel 4 van het besluit van de Vlaamse Regering van 22 juni 2001 tot bepaling van de voorwaarden voor de toekenning van subsidies aan gemeenten voor de opmaak van het eerste vergunningenregister en het eerste plannenregister, gewijzigd bij het besluit van de Vlaamse Regering van 23 juni 2006, wordt vervangen door wat volgt :<br />« Art. 4. De subsidie voor de opmaak van het eerste vergunningenregister wordt zonder verdere formaliteiten uitbetaald door het agentschap nadat de gewestelijke stedenbouwkundige ambtenaar zijn verslag over het ontwerp van vergunningenregister heeft afgesloten met een gunstige evaluatie, op voorwaarde dat de gemeente het vergunningenregister aan de gewestelijke stedenbouwkundige ambtenaar heeft toegezonden vóór 1 januari 2010.<br /><br />Als de gemeente het eerste vergunningenregister aan de gewestelijke stedenbouwkundige ambtenaar heeft toegezonden voor 1 januari 2009, en de gewestelijke stedenbouwkundige ambtenaar zijn verslag over dat register heeft afgesloten met een gunstige evaluatie, dan zal het agentschap 0,62 euro per aanvullende vergunning, of aanvullend attest of proces-verbaal, waarvan de gegevens op 15 januari 2012 zijn ingevoerd in de aan het agentschap bezorgde actualisatie, aan de gemeente uitbetalen ».<br /><br />
+
+### ART. 2.
+
+De Vlaamse minister, bevoegd voor de Ruimtelijke Ordening, is belast met de uitvoering van dit besluit.<br /><br />
