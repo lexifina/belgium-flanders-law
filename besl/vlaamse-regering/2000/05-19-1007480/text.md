@@ -92,7 +92,7 @@ Indien niet aan deze vereiste is voldaan binnen de gestelde termijn, vervalt de 
 
 ### ART. 15.
 
-In afwijking van artikel 13 en 14 kunnen in dezelfde gemeenten, gedurende een periode van 5 jaar na de inwerkingtreding van dit besluit, eveneens personen die houder zijn van een diploma dat toegang geeft tot niveau A, maar die niet het vereiste diploma van een opleiding ruimtelijke ordening hebben, noch minstens 6 jaar werkzaam zijn geweest bij een gewestelijke, provinciale of gemeentelijke administratie en daarbij relevante ervaring hebben opgedaan zoals omschreven in artikel 14, als gemeentelijk stedenbouwkundig ambtenaar worden aangesteld. Zij moeten wel binnen zes jaar na hun eerste aanstelling een diploma hebben behaald zoals bedoeld in artikel 13. Indien niet aan deze vereiste is voldaan binnen de gestelde termijn, vervalt de aanstelling bij het verstrijken van die termijn.
+In afwijking van artikel 13 en 14 kunnen in dezelfde gemeenten, gedurende een periode van twaalf jaar na de inwerkingtreding van dit besluit, eveneens personen die houder zijn van een diploma dat toegang geeft tot niveau A, maar die niet het vereiste diploma van een opleiding ruimtelijke ordening hebben, noch minstens 6 jaar werkzaam zijn geweest bij een gewestelijke, provinciale of gemeentelijke administratie en daarbij relevante ervaring hebben opgedaan zoals omschreven in artikel 14, als gemeentelijk stedenbouwkundig ambtenaar worden aangesteld. Zij moeten wel binnen zes jaar na hun eerste aanstelling een diploma hebben behaald zoals bedoeld in artikel 13. Indien niet aan deze vereiste is voldaan binnen de gestelde termijn, vervalt de aanstelling bij het verstrijken van die termijn.
 
 ## AFDELING 2 DE GEMEENTELIJKE STEDENBOUWKUNDIGE AMBTENAREN IN GEMEENTEN MET MINDER DAN 20.000 INWONERS
 
@@ -110,7 +110,7 @@ De personen die overeenkomstig het eerste lid als gemeentelijk stedenbouwkundig 
 
 ### ART. 18.
 
-In afwijking van artikel 16 en 17 kunnen in dezelfde gemeenten, gedurende een periode van 5 jaar na de inwerkingtreding van dit besluit, eveneens personen die houder zijn van een diploma dat toegang geeft tot niveau A of B, maar die niet het vereiste diploma van een opleiding ruimtelijke ordening hebben, noch minstens 6 jaar werkzaam zijn geweest bij een gewestelijke, provinciale of gemeentelijke administratie en daarbij relevante ervaring hebben opgedaan zoals omschreven in artikel 17, als gemeentelijk stedenbouwkundig ambtenaar worden aangesteld. Zij moeten wel binnen zes jaar na hun aanstelling een diploma hebben behaald zoals bedoeld in artikel 16. Indien niet aan deze vereiste is voldaan binnen de gestelde termijn, vervalt de aanstelling bij het verstrijken van die termijn.
+In afwijking van artikel 16 en 17 kunnen in dezelfde gemeenten, gedurende een periode van twaalf jaar na de inwerkingtreding van dit besluit, eveneens personen die houder zijn van een diploma dat toegang geeft tot niveau A of B, maar die niet het vereiste diploma van een opleiding ruimtelijke ordening hebben, noch minstens 6 jaar werkzaam zijn geweest bij een gewestelijke, provinciale of gemeentelijke administratie en daarbij relevante ervaring hebben opgedaan zoals omschreven in artikel 17, als gemeentelijk stedenbouwkundig ambtenaar worden aangesteld. Zij moeten wel binnen zes jaar na hun aanstelling een diploma hebben behaald zoals bedoeld in artikel 16. Indien niet aan deze vereiste is voldaan binnen de gestelde termijn, vervalt de aanstelling bij het verstrijken van die termijn.
 
 ### ART. 19.
 
