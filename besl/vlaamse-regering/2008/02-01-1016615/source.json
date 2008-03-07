@@ -1,0 +1,17 @@
+{
+  "codex_id": 1016615,
+  "title": "Besluit van de Vlaamse Regering van 2008-02-01 tot wijziging van het besluit van de Vlaamse Regering van 19 mei 2000 tot vaststelling van de voorwaarden waaraan personen moeten voldoen om als ambtenaar van ruimtelijke ordening te kunnen worden aangesteld",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1016615/VolledigDocument?datum=2008-03-07",
+  "source_sha256": "f40209e7e23c891a224aeebe2598028bc68621122a8f79a22374c15218c1988f",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1016615&param=informatie",
+  "as_of": "2008-03-07",
+  "made": "2008-02-01",
+  "gazette": "2008-02-26",
+  "numac": 2008035325,
+  "document_start": "2008-03-07",
+  "document_end": null,
+  "in_force": "2008-03-07",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2008-03-07; oldest version available; future article versions excluded; article text as the API gives it"
+}
