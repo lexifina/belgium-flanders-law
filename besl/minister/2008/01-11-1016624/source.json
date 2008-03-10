@@ -1,0 +1,17 @@
+{
+  "codex_id": 1016624,
+  "title": "Ministerieel besluit van 2008-01-11 houdende de vaststelling van het Compendium voor Monsterneming en Analyse",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1016624/VolledigDocument?datum=2008-03-10",
+  "source_sha256": "3c9ad37994ee5015fb582d0d8256472ea56c94ac1125dd84cc95825b3d22b153",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1016624&param=informatie",
+  "as_of": "2008-03-10",
+  "made": "2008-01-11",
+  "gazette": "2008-02-29",
+  "numac": 2008035192,
+  "document_start": "2008-03-10",
+  "document_end": "2009-03-04",
+  "in_force": "2008-03-10",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2008-03-10; oldest version available; future article versions excluded; article text as the API gives it"
+}
