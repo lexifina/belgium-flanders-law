@@ -1,0 +1,17 @@
+{
+  "codex_id": 1016622,
+  "title": "Besluit van de Vlaamse Regering van 2008-01-18 tot wijziging van het besluit van de Vlaamse Regering van 2 april 2004 tot oprichting van het intern verzelfstandigd agentschap zonder rechtspersoonlijkheid Agentschap voor Landbouw en Visserij",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1016622/VolledigDocument?datum=2008-03-10",
+  "source_sha256": "6059c4a7df3098f52b91d0dac3c24e25a9df1127795c653d675a0d92db19a634",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1016622&param=informatie",
+  "as_of": "2008-03-10",
+  "made": "2008-01-18",
+  "gazette": "2008-02-29",
+  "numac": 2008035332,
+  "document_start": "2008-03-10",
+  "document_end": null,
+  "in_force": "2008-03-10",
+  "article_versions": 6,
+  "record_form": "consolidated version as in force on 2008-03-10; oldest version available; future article versions excluded; article text as the API gives it"
+}
