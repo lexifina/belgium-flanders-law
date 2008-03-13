@@ -2,16 +2,16 @@
   "codex_id": 1014030,
   "title": "Ministerieel besluit van 2005-07-04 tot definitieve erkenning van het Vlaams betaalorgaan voor het Europees Oriëntatie- en Garantiefonds voor de Landbouw, afdeling Garantie",
   "type": "Ministerieel besluit",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1014030/VolledigDocument?datum=2006-06-01",
-  "source_sha256": "5821f629df641379661bc5735e15f3f392da5c56c7d5fef3af1a1ad57c2b51f8",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1014030/VolledigDocument?datum=2008-03-13",
+  "source_sha256": "2f7cee00742e28af950c911974908c6d651e869cd4fa3dd7ad2712f42071056e",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1014030&param=informatie",
-  "as_of": "2006-06-01",
+  "as_of": "2008-03-13",
   "made": "2005-07-04",
   "gazette": "2005-10-18",
   "numac": 2005036284,
   "document_start": "2005-10-18",
   "document_end": "2008-03-12",
-  "in_force": "2006-06-01",
+  "in_force": "2008-03-13",
   "article_versions": 2,
-  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2008-03-13; future article versions excluded; article text as the API gives it"
 }
