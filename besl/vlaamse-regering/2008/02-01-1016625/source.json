@@ -1,0 +1,17 @@
+{
+  "codex_id": 1016625,
+  "title": "Besluit van de Vlaamse Regering van 2008-02-01 houdende klassering van een waterloop gelegen in het gebied d'Hoye op het grondgebied van de stad Dendermonde tot onbevaarbare waterloop van derde categorie",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1016625/VolledigDocument?datum=2008-03-13",
+  "source_sha256": "b3d70aebbf9d162a2a30f368804b0354b2d21ab29b6f111dc0af4ea080449959",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1016625&param=informatie",
+  "as_of": "2008-03-13",
+  "made": "2008-02-01",
+  "gazette": "2008-03-03",
+  "numac": 2008035322,
+  "document_start": "2008-03-13",
+  "document_end": null,
+  "in_force": "2008-03-13",
+  "article_versions": 5,
+  "record_form": "consolidated version as in force on 2008-03-13; oldest version available; future article versions excluded; article text as the API gives it"
+}
