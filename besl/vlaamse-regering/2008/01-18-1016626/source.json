@@ -1,0 +1,17 @@
+{
+  "codex_id": 1016626,
+  "title": "Besluit van de Vlaamse Regering van 2008-01-18 houdende het verlenen van machtiging aan de Katholieke Universiteit te Leuven tot het aanvaarden van een legaat haar gedaan door Mevr. P. Maloens",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1016626/VolledigDocument?datum=2008-03-13",
+  "source_sha256": "240f286474d8cd8016a3eff3a78bf14131a186b3610e952f88b89de2913155d2",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1016626&param=informatie",
+  "as_of": "2008-03-13",
+  "made": "2008-01-18",
+  "gazette": "2008-03-03",
+  "numac": 2008035368,
+  "document_start": "2008-03-13",
+  "document_end": null,
+  "in_force": "2008-03-13",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2008-03-13; oldest version available; future article versions excluded; article text as the API gives it"
+}
