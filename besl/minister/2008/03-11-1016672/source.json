@@ -1,0 +1,17 @@
+{
+  "codex_id": 1016672,
+  "title": "Ministerieel besluit van 2008-03-11 betreffende de opleidingen tot energiedeskundige type A en type B",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1016672/VolledigDocument?datum=2008-03-20",
+  "source_sha256": "26074fac5ca0ca8633f6169e9884609e35b0d838d366f76343617c787a9bc2b0",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1016672&param=informatie",
+  "as_of": "2008-03-20",
+  "made": "2008-03-11",
+  "gazette": "2008-03-20",
+  "numac": 2008200896,
+  "document_start": "2008-03-20",
+  "document_end": "2018-12-31",
+  "in_force": "2008-03-20",
+  "article_versions": 10,
+  "record_form": "consolidated version as in force on 2008-03-20; oldest version available; future article versions excluded; article text as the API gives it"
+}
