@@ -1,0 +1,17 @@
+{
+  "codex_id": 1016648,
+  "title": "Decreet van 2007-06-29 houdende aanpassing van de algemene uitgavenbegroting van de Vlaamse Gemeenschap voor het begrotingsjaar 2007",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1016648/VolledigDocument?datum=2008-03-21",
+  "source_sha256": "f052da4db4064eaa4c10a0fc2d0bcd101d364300e57e24ceafcad32c7813b08b",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1016648&param=informatie",
+  "as_of": "2008-03-21",
+  "made": "2007-06-29",
+  "gazette": "2008-03-11",
+  "numac": 2008035335,
+  "document_start": "2008-03-21",
+  "document_end": null,
+  "in_force": "2008-03-21",
+  "article_versions": 79,
+  "record_form": "consolidated version as in force on 2008-03-21; oldest version available; future article versions excluded; article text as the API gives it"
+}
