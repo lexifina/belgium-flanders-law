@@ -1,0 +1,17 @@
+{
+  "codex_id": 1016656,
+  "title": "Ministerieel besluit van 2008-02-18 van de Vlaamse minister van Openbare Werken, Energie, Leefmilieu en Natuur houdende vaststelling van het subsidiëringsprogramma voor gemeentelijke rioleringen en KWZI's, voor het derde en vierde kwartaalprogramma 2008",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1016656/VolledigDocument?datum=2008-03-24",
+  "source_sha256": "a07a036b2479cd0964074677da7b9884ed7739d6cd29a6d01dd8b7aa00528884",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1016656&param=informatie",
+  "as_of": "2008-03-24",
+  "made": "2008-02-18",
+  "gazette": "2008-03-14",
+  "numac": 2008035416,
+  "document_start": "2008-03-24",
+  "document_end": null,
+  "in_force": "2008-03-24",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2008-03-24; oldest version available; future article versions excluded; article text as the API gives it"
+}
