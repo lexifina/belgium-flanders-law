@@ -1,0 +1,17 @@
+{
+  "codex_id": 1016660,
+  "title": "Ministerieel besluit van 2008-02-29 houdende toekenning van een dotatie aan het E.V.A. VVM De Lijn voor het jaar 2008",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1016660/VolledigDocument?datum=2008-03-24",
+  "source_sha256": "64664ff50cfb565fc6374b8858a6e64b2dbfd6f3b190067e38bf6cfcb2648435",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1016660&param=informatie",
+  "as_of": "2008-03-24",
+  "made": "2008-02-29",
+  "gazette": "2008-03-14",
+  "numac": 2008200761,
+  "document_start": "2008-03-24",
+  "document_end": null,
+  "in_force": "2008-03-24",
+  "article_versions": 5,
+  "record_form": "consolidated version as in force on 2008-03-24; oldest version available; future article versions excluded; article text as the API gives it"
+}
