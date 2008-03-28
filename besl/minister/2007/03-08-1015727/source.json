@@ -2,16 +2,16 @@
   "codex_id": 1015727,
   "title": "Ministerieel besluit van 2007-03-08 betreffende de herverdeling van de steunbedragen via de reserve",
   "type": "Ministerieel besluit",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1015727/VolledigDocument?datum=2008-01-01",
-  "source_sha256": "b7248d368b7b3ce12ec306a885e48cba804b2c6509baab5452c8df3f0f020909",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1015727/VolledigDocument?datum=2008-03-28",
+  "source_sha256": "a5ee4b52338c805ac0a77dfa9bd986516acc70b4b3c50b68559a099856f86056",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1015727&param=informatie",
-  "as_of": "2008-01-01",
+  "as_of": "2008-03-28",
   "made": "2007-03-08",
   "gazette": "2007-04-24",
   "numac": 2007035567,
   "document_start": "2007-01-01",
   "document_end": "2014-12-31",
-  "in_force": "2008-01-01",
+  "in_force": "2008-03-28",
   "article_versions": 7,
-  "record_form": "consolidated version as in force on 2008-01-01; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2008-03-28; future article versions excluded; article text as the API gives it"
 }
