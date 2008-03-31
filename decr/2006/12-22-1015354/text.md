@@ -32,6 +32,10 @@ Aan artikel 15, § 1, van hetzelfde decreet wordt een tweede lid toegevoegd, dat
 
 ## HOOFDSTUK II Wijzigingsbepalingen met betrekking tot diverse oprichtingsdecreten van strategische adviesraden
 
+### ART. 21.
+
+In artikel 21, § 2, van het decreet van 15 juli 1997 houdende de Vlaamse Wooncode, vervangen bij het decreet van 24 maart 2006 houdende wijziging van decretale bepalingen inzake wonen als gevolg van het bestuurlijk beleid, worden de volgende wijzigingen aangebracht :<br />1° in het eerste lid wordt punt 7° vervangen door wat volgt :<br />"7° uit eigen beweging of op verzoek advies uitbrengen over ontwerpen van samenwerkingsakkoord met betrekking tot het woonbeleid die het Vlaamse Gewest wil sluiten met de staat of met andere gemeenschappen en gewesten;";<br />2° in het eerste lid wordt een punt 8° toegevoegd, dat luidt als volgt :<br />"8° uit eigen beweging of op verzoek advies uitbrengen over beleidsvoornemens, beleidsplannen en in voorbereiding zijnde regelgeving met betrekking tot het woonbeleid op het niveau van de Europese Unie, alsook over in voorbereiding zijnde internationale verdragen met betrekking tot het woonbeleid.";<br />3° in het tweede lid wordt punt 2° vervangen door wat volgt :<br />"2° de ontwerpen van reglementair of organiek besluit van de Vlaamse Regering die uitvoering geven aan de inhoud van een decreet met betrekking tot het woonbeleid en waarvan de Vlaamse Regering beslist dat het basisuitvoeringsbesluiten zijn.";<br />4° in het tweede lid wordt punt 3° opgeheven.
+
 ## HOOFDSTUK III Wijzigingsbepalingen met betrekking tot het kaderdecreet Bestuurlijk Beleid
 
 ### ART. 22.
