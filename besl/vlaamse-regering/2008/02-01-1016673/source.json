@@ -1,0 +1,17 @@
+{
+  "codex_id": 1016673,
+  "title": "Besluit van de Vlaamse Regering van 2008-02-01 houdende klassering van een oud-geklasseerde waterloop op het grondgebied van de gemeente Putte tot onbevaarbare waterloop van derde categorie",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1016673/VolledigDocument?datum=2008-03-31",
+  "source_sha256": "1f547c8800bd8a67b283c67f1b1c93d31aa5add01530e74887f0e2d60c1b4b86",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1016673&param=informatie",
+  "as_of": "2008-03-31",
+  "made": "2008-02-01",
+  "gazette": "2008-03-21",
+  "numac": 2008035320,
+  "document_start": "2008-03-31",
+  "document_end": null,
+  "in_force": "2008-03-31",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2008-03-31; oldest version available; future article versions excluded; article text as the API gives it"
+}
