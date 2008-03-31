@@ -6,17 +6,85 @@ De Vlaamse Regering,<br /><br />Gelet op de wetten op de Rijkscomptabiliteit, ge
 
 ## HOOFDSTUK I. Wijziging van het besluit van de Vlaamse Regering van 16 juni 1998 tot aanmoediging van projecten inzake het zelfstandig wonen van personen met een fysieke handicap in sociale woonwijken
 
+### ART. 1.
+
+Aan artikel 1 van het besluit van de Vlaamse Regering van 16 juni 1998 tot aanmoediging van projecten inzake het zelfstandig wonen van personen met een fysieke handicap in sociale woonwijken, gewijzigd bij de besluiten van Vlaamse Regering van 20 oktober 2000 en 30 juni 2006, wordt een punt 16° toegevoegd, dat luidt als volgt :<br /><br />« 16° NBN EN 81/70 : Belgische norm inzake veiligheidsvereisten voor de toegankelijkheid van liften voor personen met een handicap, gepubliceerd door het Belgisch Instituut voor Normalisatie op 5 november 2003. Het is een omzetting van de Europese geharmoniseerde norm EN 81/70 (Safety rules for the construction and installation of lifts. Particular applications for passenger and goods passenger lifts. Accessibility to lifts for persons including persons with disability). De norm is verkrijgbaar bij het Bureau voor Normalisatie, de rechtsopvolger van het Belgisch Instituut voor Normalisatie. »
+
+### ART. 2.
+
+Artikel 8 van hetzelfde besluit wordt vervangen door wat volgt :<br /><br />« Art. 8. Als het gebouw een lift heeft, moet die lift beantwoorden aan alle wettelijke bepalingen en in overeenstemming zijn met de norm NBN EN 81/70. »<br />
+
 ## HOOFDSTUK II. Wijziging van het besluit van de Vlaamse Regering van 6 oktober 1998 betreffende de kwaliteitsbewaking, het recht van voorkoop en het sociaal beheersrecht op woningen
+
+### ART. 3.
+
+In artikel 19, § 1, eerste lid, van het besluit van de Vlaamse Regering van 6 oktober 1998 betreffende de kwaliteitsbewaking, het recht van voorkoop en het sociaal beheersrecht op woningen, gewijzigd bij het besluit van de Vlaamse Regering van 30 juni 2006, worden de woorden « bij het agentschap » geschrapt.
 
 ## HOOFDSTUK III. Wijziging van het besluit van de Vlaamse Regering van 11 mei 1999 houdende de voorwaarden voor het toestaan van leningen aan particulieren door de Vlaamse Maatschappij voor Sociaal Wonen ter uitvoering van de Vlaamse Wooncode
 
+### ART. 4.
+
+In artikel 1 van het besluit van de Vlaamse Regering van 11 mei 1999 houdende de voorwaarden voor het toestaan van leningen aan particulieren door de Vlaamse Maatschappij voor Sociaal Wonen ter uitvoering van de Vlaamse Wooncode, gewijzigd bij het besluit van de Vlaamse Regering van 30 juni 2006, worden de volgende wijzigingen aangebracht :<br />1° in het eerste lid, 6°, worden de woorden « , desgevallend verhoogd met de fictieve rente, » geschrapt;<br />2° in het eerste lid wordt punt 7° opgeheven;<br />3° het derde lid wordt opgeheven.<br />
+
+### ART. 5.
+
+In artikel 3 van hetzelfde besluit, gewijzigd bij het besluit van de Vlaamse Regering van 30 juni 2006, worden de volgende wijzigingen aangebracht :<br />1° in § 2 wordt het tweede lid opgeheven;<br />2° in § 2, derde lid, wordt de zin « De eventuele opbrengst van de vervreemding van die andere woning wordt omgezet in een fictieve rente. » geschrapt;<br />3° in § 3, eerste lid, worden de woorden « maar zonder rekening te houden met de fictieve rente, » geschrapt.
+
 ## HOOFDSTUK IV. Wijziging van het besluit van de Vlaamse Regering van 8 juni 1999 houdende de verbintenissen, voorwaarden, vergoedingen en sancties voor de bewoners van sociale koopwoningen en verkochte sociale huurwoningen ter uitvoering van de Vlaamse Wooncode
+
+### ART. 6.
+
+In artikel 1 van het besluit van de Vlaamse Regering van 8 juni 1999 houdende de verbintenissen, voorwaarden, vergoedingen en sancties voor de bewoners van sociale koopwoningen en verkochte sociale huurwoningen ter uitvoering van de Vlaamse Wooncode worden de volgende wijzigingen aangebracht :<br /><br />1° in het eerste lid worden punt 4° en punt 6° vervangen door wat volgt :<br />« 4° oorspronkelijke koper : de alleenstaande die of het gezin dat een sociale koopwoning of een sociale huurwoning heeft gekocht door toedoen van een initiatiefnemer, of een van de wettelijke erfgenamen; »;<br />« 6° persoonlijke bewoning : het effectief en gewoonlijk verblijf als volle eigenaar in de gekochte woning door minstens een van de personen die de sociale koopwoning of sociale huurwoning hebben gekocht door toedoen van een initiatiefnemer, of door een van de wettelijke erfgenamen; »;<br /><br />2° er wordt een derde lid toegevoegd, dat luidt als volgt :<br />« Voor de toepassing van dit besluit wordt als sociale huurwoning beschouwd, de woning die in het kader van de vrijwillige verkoop van verhuurbare sociale huurwoningen, vermeld in artikel 13, § 1 en § 2, van bijlage III bij het besluit van de Vlaamse Regering van 29 september 2006 betreffende de voorwaarden voor de overdracht van onroerende goederen door de Vlaamse Maatschappij voor Sociaal Wonen en de sociale huisvestingsmaatschappijen ter uitvoering van de Vlaamse Wooncode, aangekocht wordt door de zittende huurder. »
+
+### ART. 7.
+
+In artikel 2, § 3, eerste lid, van hetzelfde besluit worden tussen de woorden « In afwijking van § 1 kan » en de woorden « de oorspronkelijke koper » de woorden « , in geval van een aankoop van een sociale koopwoning, » ingevoegd.<br />
 
 ## HOOFDSTUK V. Wijziging van het besluit van de Vlaamse Regering van 6 februari 2004 houdende bepaling van de erkennings- en subsidievoorwaarden van sociale verhuurkantoren
 
+### ART. 8.
+
+Artikel 5 van het besluit van de Vlaamse Regering van 6 februari 2004 houdende bepaling van de erkennings- en subsidievoorwaarden van sociale verhuurkantoren wordt vervangen door wat volgt :<br /><br />« Art. 5. § 1. Alleen woningen die beantwoorden aan de veiligheids-, gezondheids- en woonkwaliteitsnormen, vastgesteld ter uitvoering van de Vlaamse Wooncode, mogen door het sociaal verhuurkantoor worden verhuurd of onderverhuurd. Bovendien moeten de woningen beantwoorden aan de volgende oppervlakte- en bezettingsnormen :<br /><br />1° de nettovloeroppervlakte van de leefkamer bedraagt minimaal 16 m2 voor één persoon, te verhogen met 2 m2 per bijkomende persoon;<br /><br />2° er is een slaapkamer per alleenstaande persoon of per koppel;<br /><br />3° er is een slaapkamer per kind, per groep van twee of drie kinderen van hetzelfde geslacht of per groep van twee of drie kinderen van verschillende geslacht jonger dan tien jaar.<br /><br />De nettovloeroppervlakte van de slaapkamer, vermeld in het eerste lid, 2° en 3°, bedraagt minimaal :<br />1° 6,5 m2, als ze bestemd is voor één persoon; <br />2° 10 m2, als ze bestemd is voor twee personen;<br />3° 15 m2, als ze bestemd is voor drie personen. <br /><br />Een studio is bestemd voor de huisvesting van maximaal twee personen. In afwijking van het eerste lid, 1°, bedraagt de nettovloeroppervlakte van de leefkamer van een studio minimaal :<br />1° 22,5 m2, als ze bestemd is voor één persoon;<br />2° 28 m2, als ze bestemd is voor twee personen.<br /><br />§ 2. Alleen kamers die beantwoorden aan de oppervlakte- en bezettingsnormen, vermeld in het decreet van 4 februari 1997 houdende de kwaliteits- en veiligheidsnormen voor kamers en studentenkamers, mogen door het sociaal verhuurkantoor worden verhuurd of onderverhuurd. »
+
+### ART. 9.
+
+In artikel 13, § 1, van hetzelfde besluit, vervangen bij het besluit van de Vlaamse Regering van 30 juni 2006, worden de volgende wijzigingen aangebracht :<br />1° aan het eerste lid worden de woorden « en aan de toezichthouder » toegevoegd;<br />2° in het tweede lid wordt het woord « betekening » telkens vervangen door het woord « ondertekening ».<br />
+
+### ART. 10.
+
+Aan artikel 14, eerste lid, van hetzelfde besluit, vervangen bij het besluit van de Vlaamse Regering van 30 juni 2006, worden de woorden « en aan de toezichthouder » toegevoegd.
+
+### ART. 11.
+
+In artikel 15 van hetzelfde besluit, gewijzigd bij het besluit van de Vlaamse Regering van 30 juni 2006, wordt § 2 vervangen door wat volgt :<br /><br />« § 2. De basissubsidie-enveloppe en de aanvullende subsidie-enveloppe worden besteed aan de werkings- en personeelskosten van het sociaal verhuurkantoor. Na voorafgaande goedkeuring door de minister of zijn gemachtigde kunnen kostenvergoedingen voor externe personeelsleden, waarvan het sociaal verhuurkantoor aantoont dat ze noodzakelijk zijn om structureel te voorzien in het nodige personeelskader, als personeelskosten worden beschouwd.<br /><br />Als de aangetoonde personeelskosten lager zijn dan 75 % van de totale subsidie-enveloppe, dan wordt er bij de jaarlijkse afrekening, vermeld in artikel 16, enkel rekening gehouden met de aangetoonde personeelskosten.<br /><br />Als de aangetoonde werkingskosten lager zijn dan 25 % van de totale subsidie-enveloppe, dan wordt er bij de jaarlijkse afrekening, vermeld in artikel 16, enkel rekening gehouden met de aangetoonde werkingskosten. Als ze hoger zijn, dan worden ze slechts ten bedrage van 25 % van de totale subsidie-enveloppe aanvaard. »
+
+### ART. 12.
+
+In artikel 16 van hetzelfde besluit, gewijzigd bij het besluit van de Vlaamse Regering van 30 juni 2006, wordt het eerste lid vervangen door wat volgt :<br /><br />« De basissubsidie-enveloppe en de aanvullende subsidie-enveloppe worden voor elk volledig kalenderjaar uitbetaald via drie voorschotten van elk 30 % op het toegestane maximumbedrag, die ambtshalve betaalbaar worden gesteld bij het begin van elk kwartaal. De jaarlijkse afrekening wordt uiterlijk op 31 mei van het volgende kalenderjaar opgemaakt op basis van de stukken, vermeld in artikel 18, § 1, tweede lid, 1°, 2° en 3°, met het oog op de uitbetaling van het saldo. »
+
+### ART. 13.
+
+In artikel 18 van hetzelfde besluit, gewijzigd bij het besluit van de Vlaamse Regering van 30 juni 2006, wordt § 2 opgeheven.
+
 ## HOOFDSTUK VI. Wijziging van het besluit van de Vlaamse Regering van 2 april 2004 houdende de voorwaarden waaronder kredietmaatschappijen erkend kunnen worden door de Vlaamse Regering en ter bepaling van de kredietinstellingen erkend door de Vlaamse Regering, ter uitvoering van artikel 78 van het decreet van 15 juli 1997 houdende de Vlaamse Wooncode
 
+### ART. 14.
+
+In artikel 1 van het besluit van de Vlaamse Regering van 2 april 2004 houdende de voorwaarden waaronder kredietmaatschappijen erkend kunnen worden door de Vlaamse Regering en ter bepaling van de kredietinstellingen erkend door de Vlaamse Regering, ter uitvoering van artikel 78 van het decreet van 15 juli 1997 houdende de Vlaamse Wooncode, gewijzigd bij de besluiten van de Vlaamse Regering van 30 juni 2006 en 29 juni 2007, wordt punt 7° vervangen door wat volgt :<br /><br />« 7° toezichthouder : de toezichthouder voor de sociale huisvesting, vermeld in artikel 29bis van het decreet van 15 juli 1997 houdende de Vlaamse Wooncode. »
+
+### ART. 15.
+
+In artikel 4, 2°, en artikel 10 van hetzelfde besluit, gewijzigd bij het besluit van de Vlaamse Regering van 30 juni 2006, worden de woorden « Inspectie RWO » vervangen door de woorden « de toezichthouder ».
+
+### ART. 16.
+
+In artikel 15 van hetzelfde besluit, gewijzigd bij de besluiten van de Vlaamse Regering van 30 juni 2006 en 29 juni 2007, worden de woorden « Inspectie RWO » vervangen door de woorden « De toezichthouder ».
+
 ## HOOFDSTUK VII. Wijziging van het besluit van de Vlaamse Regering van 9 december 2005 betreffende de aanwending van kapitalen van het Fonds B2 door het Vlaams Woningfonds van de Grote Gezinnen, ter uitvoering van de Vlaamse Wooncode
+
+### ART. 17.
+
+Artikel 16 van het besluit van de Vlaamse Regering van 9 december 2005 betreffende de aanwending van kapitalen van het Fonds B2 door het Vlaams Woningfonds van de Grote Gezinnen, ter uitvoering van de Vlaamse Wooncode wordt vervangen door wat volgt :<br /><br />« Art. 16. Voor een lening of een koop mag het inkomen op de referentiedatum, respectievelijk vermeld in artikel 1, eerste lid, 4°, a), of b), niet meer bedragen dan 37.190 euro, te verhogen met 2.480 euro per persoon ten laste. Deze bedragen worden gekoppeld aan het indexcijfer van de consumptieprijzen van januari 1999. Ze worden jaarlijks op 1 januari aangepast aan het indexcijfer van de maand december, voorafgaand aan de aanpassing en afgerond naar het dichtstbijzijnde tiental. Als de aanvrager geen of een niet belastbaar inkomen als vermeld in artikel 1, eerste lid, 6°, heeft, wordt het geacht 7.000 euro te bedragen voor de toepassing van dit lid.<br /><br />Voor de huur mag het inkomen op de referentiedatum, vermeld in artikel 1, eerste lid, 4°, b), met voorbehoud van de toepassing van artikel 29, § 2, van het besluit van de Vlaamse Regering van 12 oktober 2007 tot reglementering van het sociale huurstelsel ter uitvoering van titel VII van de Vlaamse Wooncode, niet meer bedragen dan de inkomensgrenzen, vermeld in artikel 3, § 2, van hetzelfde besluit. In afwijking van artikel 1, eerste lid, 6° en 7°, worden voor de toepassing van dit lid het begrip inkomen, vermeld in artikel 1, 15°, en het begrip persoon ten laste, vermeld in artikel 1, 22°, van hetzelfde besluit gehanteerd. »
 
 ## HOOFDSTUK VIII. Wijziging van het besluit van de Vlaamse Regering van 10 februari 2006 houdende de erkennings- en subsidiëringsvoorwaarden voor de samenwerkings- en overlegstructuur voor de erkende huurdiensten
 
@@ -44,13 +112,61 @@ Artikel 175 van hetzelfde besluit wordt vervangen door wat volgt :<br /><br />«
 
 ## HOOFDSTUK X. Wijziging van het besluit van de Vlaamse Regering van 29 september 2006 betreffende de voorwaarden voor de overdracht van onroerende goederen door de Vlaamse Maatschappij voor Sociaal Wonen en de sociale huisvestingsmaatschappijen ter uitvoering van de Vlaamse Wooncode
 
+### ART. 23.
+
+In artikel 1 van het besluit van de Vlaamse Regering van 29 september 2006 betreffende de voorwaarden voor de overdracht van onroerende goederen door de Vlaamse Maatschappij voor Sociaal Wonen en de sociale huisvestingsmaatschappijen ter uitvoering van de Vlaamse Wooncode worden de volgende wijzigingen aangebracht : <br /><br />1° punt 5° wordt vervangen door wat volgt :<br />« 5° sociale kavel : een perceel grond dat deel uitmaakt van een sociale verkaveling. De sociale kavel heeft een maximale grootte van 5 aren. Als de rationele indeling van het terrein het vereist, kan de oppervlakte van één of meer sociale kavels meer bedragen dan 5 aren, zonder dat het gemiddelde van de oppervlakte van de percelen die deel uitmaken van de sociale verkaveling, meer mag bedragen dan 5 aren. Het volume van de op te richten woning op de sociale kavel mag niet meer bedragen dan 550 m3, te verhogen met 25 m3 per persoon ten laste vanaf de derde persoon ten laste, met dien verstande dat het bovengrondse volume van de woning voor 100 % meegerekend wordt en het ondergrondse volume voor 50 %; »;<br /><br />2° aan punt 6° worden de woorden « , met dien verstande dat het bovengrondse volume van de woning voor 100 % meegerekend wordt en het ondergrondse volume voor 50 % » toegevoegd;<br /><br />3° in punt 10° wordt punt b) vervangen door wat volgt :<br />« b) bij de verkoop van sociale huurwoningen op basis van het kooprecht, vermeld in artikel 43 van de Vlaamse Wooncode : de datum waarop het statutair bevoegde orgaan van de sociale huisvestingsmaatschappij attesteert dat voldaan is aan de voorwaarden voor de aankoop, vermeld in dit besluit; »;<br /><br />4° punt 11° wordt vervangen door wat volgt :<br />« 11° persoon ten laste :<br />a) een persoon die op de referentiedatum bij de kandidaat-koper gedomicilieerd is en die minderjarig is, of waarvoor kinderbijslag of wezentoelage wordt uitbetaald, of die door de minister na voorlegging van bewijzen als ten laste wordt beschouwd;<br />b) de kandidaat-koper of de persoon, vermeld in a), die erkend is als ernstig gehandicapt, of erkend was op het ogenblik van pensionering. De minister stelt de voorwaarden daarvoor vast; ».
+
+### ART. 24.
+
+Aan artikel 2 van hetzelfde besluit wordt een tweede lid toegevoegd, dat luidt als volgt :<br /><br />« In afwijking van het eerste lid zijn de bepalingen van dit besluit en de bij dit besluit gevoegde bijlagen niet van toepassing op de woningen die deel uitmaken van woonprojecten met sociaal karakter als vermeld in het besluit van de Vlaamse Regering van 20 juli 1994 houdende regeling van het beheer van het Investeringsfonds voor Grond- en Woonbeleid voor Vlaams-Brabant, en houdende regeling van de voorwaarden inzake woonprojecten met sociaal karakter. »
+
+### ART. 25.
+
+In artikel 3 van hetzelfde besluit worden de volgende wijzigingen aangebracht :<br /><br />1° in § 6, eerste lid, wordt punt 3° vervangen door wat volgt :<br />« 3° als die andere woning onbewoonbaar verklaard is overeenkomstig artikel 135 van de Nieuwe Gemeentewet of als die andere woning onbewoonbaar verklaard is of als dusdanig geadviseerd is overeenkomstig artikel 15 van de Vlaamse Wooncode; »;<br /><br />2° er wordt een § 8 toegevoegd, die luidt als volgt :<br />« § 8. Voor de toepassing van artikel 52 van het Wetboek van Registratie-, Hypotheek- en Griffierechten wordt de particulier die voldoet aan de voorwaarden, vermeld in dit artikel, beschouwd als de persoon die recht heeft op de aankooppremie, voor zover hij overgaat tot de aankoop van een sociale koopwoning of een sociale huurwoning. »
+
+### ART. 26.
+
+Artikel 11 van hetzelfde besluit wordt vervangen door wat volgt :<br /><br />« Art. 11. De hiernavolgende bepalingen van dit besluit gelden eveneens voor de andere initiatiefnemers dan de VMSW en de sociale huisvestingsmaatschappijen die een subsidie ontvingen of ontvangen voor de uitvoering van verrichtingen in het kader van de realisatie van sociale woonprojecten :<br /><br />1° de oppervlaktenormen voor sociale kavels en middelgrote kavels en de volumenormen voor woningen, op te richten op die kavels, vermeld in artikel 1, 5° en 6°;<br /><br />2° de woonbehoeftigheidsvoorwaarden voor de kandidaat-kopers van kavels of woningen, vermeld in artikel 3;<br /><br />3° het aandeel middelgrote koopwoningen en middelgrote kavels in een sociaal woonproject, vermeld in artikel 1 van bijlage IV. »
+
 ### ART. 27.
 
 In artikel 15 van hetzelfde besluit wordt het derde lid vervangen door wat volgt :<br /><br />« De oppervlaktenormen voor sociale kavels en middelgrote kavels en de volumenormen voor woningen, op te richten op die kavels, vermeld in artikel 1, 5° en 6°, gelden niet voor kavels of woningen waarvoor reeds registers werden geopend met toepassing van het besluit, vermeld in artikel 12. De oppervlaktenormen gelden evenmin voor sociale kavels en middelgrote kavels die op de datum van inwerkingtreding van dit besluit reeds uitgerust of vergund waren. »
 
+### ART. 28.
+
+Aan bijlage I, artikel 5, § 2, eerste lid, van hetzelfde besluit wordt de volgende zin toegevoegd :<br /><br />« Als ze niet meer voldoen aan de inschrijvingsvoorwaarden, wordt hun kandidatuur uit de desbetreffende registers geschrapt. »<br />
+
+### ART. 29.
+
+In bijlage II, artikel 5, van hetzelfde besluit worden de volgende wijzigingen aangebracht :<br /><br />1° in § 1, tweede lid, wordt het woord « woning » vervangen door het woord « kavel »;<br /><br />2° aan § 2, eerste lid, wordt de volgende zin toegevoegd :<br />« Als ze niet meer voldoen aan de inschrijvingsvoorwaarden, wordt hun kandidatuur uit de desbetreffende registers geschrapt. »<br />
+
+### ART. 30.
+
+In bijlage III, artikel 3, van hetzelfde besluit wordt tussen het tweede en het derde lid een nieuw lid ingevoegd, dat luidt als volgt :<br /><br />« Als zowel de zittende huurder, vermeld in artikel 1, 15°, a), als de zittende huurder, vermeld in artikel 1, 15°, b) of c), de gehuurde woning wil verwerven, moet enkel de zittende huurder, vermeld in artikel 1, 15°, a), voldoen aan de voorwaarde, vermeld in het eerste lid, 2°. »
+
+### ART. 31.
+
+In bijlage IV, artikel 1, van hetzelfde besluit worden tussen de woorden « sociale koopwoningen » en de woorden « of op sociale kavels op te richten woningen » de woorden « , sociale huurwoningen » ingevoegd.
+
 ## HOOFDSTUK XI. Wijziging van het besluit van de Vlaamse Regering van 29 september 2006 houdende de erkenning en de subsidiëring van huurdersorganisaties
 
+### ART. 32.
+
+In artikel 11 van het besluit van de Vlaamse Regering van 29 september 2006 houdende de erkenning en subsidiëring van huurdersorganisaties worden de volgende wijzigingen aangebracht :<br /><br />1° in het eerste lid worden de woorden « met dien verstande dat ten minste 75 % van de totale subsidie-enveloppe wordt aangewend voor personeelskosten » geschrapt;<br /><br />2° er wordt een derde lid toegevoegd, dat luidt als volgt :<br />« Als de aangetoonde personeelskosten lager zijn dan 75 % van de totale subsidie-enveloppe, dan wordt er bij de jaarlijkse afrekening enkel rekening gehouden met de aangetoonde personeelskosten. Als de aangetoonde werkingskosten lager zijn dan 25 % van de totale subsidie-enveloppe, dan wordt er bij de jaarlijkse afrekening enkel rekening gehouden met de aangetoonde werkingskosten. Als ze hoger zijn, dan worden ze slechts ten bedrage van 25 % van de totale subsidie-enveloppe aanvaard. »
+
+### ART. 33.
+
+In artikel 13, eerste lid, van hetzelfde besluit wordt de zin « Die voorschotten komen in mindering bij de afrekening van de subsidie voor elk kalenderjaar nadat de leidend ambtenaar van het agentschap, na het binnen een maand te geven advies van het departement, het jaarverslag over de werking heeft goedgekeurd, en na controle van de verantwoordingsstukken voor de personeels- en werkingskosten. » vervangen door de zin « De jaarlijkse afrekening wordt uiterlijk op 31 mei van het volgende kalenderjaar opgemaakt op basis van de stukken, vermeld in artikel 14, tweede lid, met het oog op de uitbetaling van het saldo. »<br /><br />
+
+### ART. 34.
+
+Artikel 15 van hetzelfde besluit wordt opgeheven.
+
 ## HOOFDSTUK XII. Wijziging van het besluit van de Vlaamse Regering van 2 februari 2007 tot instelling van een tegemoetkoming in de huurprijs voor woonbehoeftige huurders
+
+### ART. 35.
+
+Aan artikel 1, § 1, 5°, van het besluit van de Vlaamse Regering van 2 februari 2007 tot instelling van een tegemoetkoming in de huurprijs voor woonbehoeftige huurders worden de woorden « en op zijn vroegst de datum waarop de huurovereenkomst een aanvang heeft genomen » toegevoegd.
 
 ### ART. 36.
 
@@ -180,12 +296,32 @@ In artikel 9 van het besluit van de Vlaamse Regering van 14 december 2007 houden
 
 ## HOOFDSTUK XVI. Opheffingsbepaling
 
+### ART. 66.
+
+Het ministerieel besluit van 1 juli 1999 tot bepaling van de opbrengst, berekeningswijze en voorwaarden van de fictieve rente, bedoeld in de besluiten van de Vlaamse Regering ter uitvoering van de Vlaamse Wooncode wordt opgeheven.
+
 ## HOOFDSTUK XVII. Overgangs- en slotbepalingen
 
 ### ART. 67.
 
 Bij de berekening van de huurcompensatie overeenkomstig het besluit van de Vlaamse Regering van 19 mei 1987 tot instelling van een huurcompensatie wordt het begrip inkomen gehanteerd, vermeld in artikel 1, 15°, van het besluit van de Vlaamse Regering van 12 oktober 2007 tot reglementering van het sociale huurstelsel ter uitvoering van titel VII van de Vlaamse Wooncode, met dien verstande dat de indexatie van het inkomen niet wordt toegepast. <br /><br />Bij de berekening van de huurcompensatie overeenkomstig het besluit van de Vlaamse Regering van 4 april 1990 tot aanmoediging van de bouw van sociale huurwoningen wordt het begrip inkomen gehanteerd, vermeld in artikel 1, 15°, van het besluit van de Vlaamse Regering van 12 oktober 2007 tot reglementering van het sociale huurstelsel ter uitvoering van titel VII van de Vlaamse Wooncode, met dien verstande dat de indexatie van het inkomen niet wordt toegepast en met behoud van de gezinskorting van 991,57 euro voor gehuwden, voor wettelijk of feitelijk samenwonenden en voor elke persoon ten laste.<br /><br />Voor de woningen die verhuurd worden door een sociale huisvestingsmaatschappij, gelden de huurprijsbepalingen van artikel 11 van het besluit van 19 mei 1987, vermeld in het eerste lid, en van artikel 7, § 3, van het besluit van 4 april 1990, vermeld in het tweede lid, alleen voor de zittende huurders op 31 december 2007. Voor de nieuwe huurders blijven de maximumbedragen, vermeld in dezelfde artikelen, enkel gelden voor de berekening van de huurcompensatie aan de sociale huisvestingsmaatschappij.
 
+### ART. 68.
+
+§ 1. Onder de voorwaarden, vermeld in § 2, kan de begunstigde van een verbeteringspremie, ingesteld bij het besluit van de Vlaamse Regering van 18 december 1992 houdende instelling van een aanpassingspremie en een verbeteringspremie voor woningen, gewijzigd bij de besluiten van de Vlaamse Regering van 29 juni 1994, 28 november 2003, 6 februari 2004, 23 april 2004, 19 mei 2006, 30 juni 2006 en 2 maart 2007, die geheel of gedeeltelijk berekend is op basis van facturen van 2006 of 2007, voor dezelfde woning een tegemoetkoming in de kosten bij de renovatie van een woning verkrijgen, in afwijking van artikel 10, 1°, van het besluit van de Vlaamse Regering van 2 maart 2007 tot instelling van een tegemoetkoming in de kosten bij de renovatie van een woning.<br /><br />§ 2. De aanvrager voldoet aan de voorwaarden, vermeld in artikelen 3 en 4 van het besluit van de Vlaamse Regering van 2 maart 2007, vermeld in § 1, en heeft geen herziening verkregen overeenkomstig artikel 19 van voormelde besluit.<br /><br />De woning en de uitgevoerde werkzaamheden voldoen aan de voorwaarden, vermeld in artikel 5 van het besluit van de Vlaamse Regering van 2 maart 2007, vermeld in § 1.<br /><br />§ 3. De aanvraag wordt schriftelijk tegen afgifte van een ontvangstbewijs of met een aangetekende brief ingediend bij het agentschap Wonen-Vlaanderen, waarbij de datum van het ontvangstbewijs of de postdatum geldt als aanvraagdatum.<br /><br />De aanvraag bevat :<br />1° een opsomming van de uitgevoerde werkzaamheden, een afschrift van de op die werkzaamheden betrekking hebbende facturen en een factuurlijst;<br />2° als er facturen worden voorgelegd die betrekking hebben op de aankoop van materialen of uitrustingsgoederen, een verklaring van de aanvrager dat hij de werkzaamheden zelf heeft uitgevoerd;<br />3° de documenten of verklaringen waaruit blijkt dat voldaan is aan de voorwaarden, vermeld in § 2.<br /><br />§ 4. Artikel 1, 3°, 4°, 7°, 8° en 9°, artikel 6, § 1, derde lid, artikel 8 en artikel 11, tweede lid, van het besluit van de Vlaamse Regering van 2 maart 2007, vermeld in § 1, zijn van toepassing op de aanvraag.<br /><br />Het agentschap Wonen-Vlaanderen berekent de tegemoetkoming op basis van de in aanmerking komende facturen met factuurdatum van 1 januari 2006 tot en met 25 juni 2007, betekent het resultaat van de berekening aan de aanvrager en betaalt het saldo, na aftrek van de verbeteringspremies die geheel of gedeeltelijk berekend zijn op basis van facturen van 2006 of 2007, binnen vier maanden na de betekening uit.
+
 ### ART. 69.
 
 Gemeentelijke verordeningen als vermeld in artikel 9 van het decreet van 4 februari 1997 houdende de kwaliteits- en veiligheidsnormen voor kamers en studentenkamers, die bekrachtigd zijn voor 1 februari 2008, blijven van toepassing voor de bepalingen die niet minder streng zijn dan de bepalingen in het voormelde decreet en in het besluit van de Vlaamse Regering van 3 oktober 2003 betreffende de kwaliteits- en veiligheidsnormen voor kamers en studentenkamers.
+
+### ART. 70.
+
+Artikel 21 van het decreet van 22 december 2006 tot wijziging van het decreet van 18 juli 2003 tot regeling van strategische adviesraden, van diverse oprichtingsdecreten van strategische adviesraden en van het Kaderdecreet Bestuurlijk Beleid treedt in werking op de datum van de inwerkingtreding van dit besluit.
+
+### ART. 71.
+
+Dit besluit treedt in werking op de tiende dag na de bekendmaking ervan in het Belgisch Staatsblad, met uitzondering van :<br />1° artikel 18, dat uitwerking heeft met ingang van 1 januari 2006;<br />2° artikelen 21 en 22, die uitwerking hebben met ingang van 1 juli 2006;<br />3° artikelen 27, dat uitwerking heeft met ingang van 23 november 2006;<br />4° artikelen 37 en 38, die uitwerking hebben met ingang van 1 mei 2007;<br />5° artikelen 19, 20, 36, 39 tot en met 65 en 67, die uitwerking hebben met ingang van 1 januari 2008;<br />6° artikel 69, dat uitwerking heeft met ingang van 1 februari 2008.
+
+### ART. 72.
+
+De Vlaamse minister, bevoegd voor de Huisvesting, is belast met de uitvoering van dit besluit.
