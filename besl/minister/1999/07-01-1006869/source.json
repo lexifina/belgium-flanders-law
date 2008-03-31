@@ -2,16 +2,16 @@
   "codex_id": 1006869,
   "title": "Ministerieel besluit van 1999-07-01 tot bepaling van de opbrengst, berekeningswijze en voorwaarden van de fictieve rente, bedoeld in de besluiten van de Vlaamse regering ter uitvoering van de Vlaamse Wooncode",
   "type": "Ministerieel besluit",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1006869/VolledigDocument?datum=2006-06-01",
-  "source_sha256": "63ad80161d1b0554be3972a7ad5ccac81f5452e873ded5ea0e5b6017a177ed38",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1006869/VolledigDocument?datum=2008-03-31",
+  "source_sha256": "0ef02f5f3f131cf6d1bc55d2e5647388c3e1cef918515379a772526f904714f0",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1006869&param=informatie",
-  "as_of": "2006-06-01",
+  "as_of": "2008-03-31",
   "made": "1999-07-01",
   "gazette": "1999-08-31",
   "numac": 0,
   "document_start": null,
   "document_end": "2008-03-30",
-  "in_force": "2006-06-01",
+  "in_force": "2008-03-31",
   "article_versions": 3,
-  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2008-03-31; future article versions excluded; article text as the API gives it"
 }
