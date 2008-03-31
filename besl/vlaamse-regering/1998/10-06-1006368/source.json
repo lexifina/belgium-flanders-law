@@ -2,16 +2,16 @@
   "codex_id": 1006368,
   "title": "Besluit van de Vlaamse Regering van 1998-10-06 betreffende [...] het recht van voorkoop [...].",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1006368/VolledigDocument?datum=2008-02-01",
-  "source_sha256": "7fd4390894cd2e76dcf3506011a8de2c6803449203b642ccf9107b30feda4123",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1006368/VolledigDocument?datum=2008-03-31",
+  "source_sha256": "d5b715fe67645abfe261490864e36ba053035d84b1e381f3205f591aa73bb8f9",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1006368&param=informatie",
-  "as_of": "2008-02-01",
+  "as_of": "2008-03-31",
   "made": "1998-10-06",
   "gazette": "1998-10-30",
   "numac": 1998036228,
   "document_start": null,
   "document_end": "2020-12-31",
-  "in_force": "2008-02-01",
+  "in_force": "2008-03-31",
   "article_versions": 49,
-  "record_form": "consolidated version as in force on 2008-02-01; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2008-03-31; future article versions excluded; article text as the API gives it"
 }
