@@ -2,16 +2,16 @@
   "codex_id": 1006365,
   "title": "Besluit van de Vlaamse Regering van 1998-06-16 tot aanmoediging van projecten inzake het zelfstandig wonen van personen met een fysieke handicap in sociale woonwijken",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1006365/VolledigDocument?datum=2008-01-01",
-  "source_sha256": "ed660c25858b0d20ee66da8fa74a75b7029b0cb25293294cb7706f876f8493ed",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1006365/VolledigDocument?datum=2008-03-31",
+  "source_sha256": "92f878d5c8a590a54a330614161580e0eb847f3bc1aab86ea4fc997123dc6216",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1006365&param=informatie",
-  "as_of": "2008-01-01",
+  "as_of": "2008-03-31",
   "made": "1998-06-16",
   "gazette": "1998-10-23",
   "numac": 1998036174,
   "document_start": null,
   "document_end": null,
-  "in_force": "2008-01-01",
+  "in_force": "2008-03-31",
   "article_versions": 26,
-  "record_form": "consolidated version as in force on 2008-01-01; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2008-03-31; future article versions excluded; article text as the API gives it"
 }
