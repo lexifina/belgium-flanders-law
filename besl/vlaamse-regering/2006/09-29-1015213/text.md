@@ -75,7 +75,7 @@ De aanvraag voor de aanvullende subsidie-enveloppe wordt ingediend bij het agent
 
 ### ART. 11.
 
-De basissubsidie-enveloppe, eventueel vermeerderd met een aanvullende subsidie-enveloppe voor het regionale steunpunt, wordt besteed aan de werkings- en personeelskosten van de huurdersorganisatie en in voorkomend geval van haar regionale steunpunt, met dien verstande dat ten minste 75 % van de totale subsidie-enveloppe wordt aangewend voor personeelskosten.<br /><br />De subsidiëring voor de personeelskosten wordt bij de jaarlijkse afrekening berekend op grond van de uitbetaalde bruto personeelskosten inclusief sociale bijdragen, toelagen en vergoedingen volgens de voorwaarden vastgelegd binnen het Paritair Subcomité 319.01 voor de Opvoedings- en Huisvestingsinrichtingen en Diensten van de Vlaamse Gemeenschap.<br /><br />
+De basissubsidie-enveloppe, eventueel vermeerderd met een aanvullende subsidie-enveloppe voor het regionale steunpunt, wordt besteed aan de werkings- en personeelskosten van de huurdersorganisatie en in voorkomend geval van haar regionale steunpunt.<br /><br />De subsidiëring voor de personeelskosten wordt bij de jaarlijkse afrekening berekend op grond van de uitbetaalde bruto personeelskosten inclusief sociale bijdragen, toelagen en vergoedingen volgens de voorwaarden vastgelegd binnen het Paritair Subcomité 319.01 voor de Opvoedings- en Huisvestingsinrichtingen en Diensten van de Vlaamse Gemeenschap.<br /><br />Als de aangetoonde personeelskosten lager zijn dan 75 % van de totale subsidie-enveloppe, dan wordt er bij de jaarlijkse afrekening enkel rekening gehouden met de aangetoonde personeelskosten. Als de aangetoonde werkingskosten lager zijn dan 25 % van de totale subsidie-enveloppe, dan wordt er bij de jaarlijkse afrekening enkel rekening gehouden met de aangetoonde werkingskosten. Als ze hoger zijn, dan worden ze slechts ten bedrage van 25 % van de totale subsidie-enveloppe aanvaard.<br /><br />
 
 ### ART. 12.
 
@@ -83,7 +83,7 @@ De bedragen vermeld in de artikelen 7, 8 en 21 worden jaarlijks aangepast aan de
 
 ### ART. 13.
 
-De basissubsidie-enveloppe, eventueel vermeerderd met een aanvullende subsidie-enveloppe voor het regionale steunpunt, wordt uitbetaald voor elk volledig kalenderjaar via twee voorschotten van 45 % op het toegestane maximumbedrag. Zij worden, respectievelijk, betaalbaar gesteld bij het begin van het kalenderjaar en het begin van de tweede semester. Die voorschotten komen in mindering bij de afrekening van de subsidie voor elk kalenderjaar nadat de leidend ambtenaar van het agentschap, na het binnen een maand te geven advies van het departement, het jaarverslag over de werking heeft goedgekeurd, en na controle van de verantwoordingsstukken voor de personeels- en werkingskosten.<br /><br />De basissubsidie-enveloppe, eventueel vermeerderd met een aanvullende subsidie-enveloppe voor een regionaal regionaal steunpunt, voor de maanden tussen de inwerkingtreding van het subsidiebesluit en 1 januari van het eerste volledige kalenderjaar wordt berekend in verhouding tot het aantal maanden.<br /><br />Ze wordt uitbetaald volgens de voorschotregeling, vermeld in het eerste lid. Als na controle van de verantwoordingsstukken blijkt dat niet-verschuldigde subsidies werden uitbetaald, kunnen die bedragen worden afgetrokken van het voorschot of de afrekening voor het volgende kalenderjaar.<br /><br />
+De basissubsidie-enveloppe, eventueel vermeerderd met een aanvullende subsidie-enveloppe voor het regionale steunpunt, wordt uitbetaald voor elk volledig kalenderjaar via twee voorschotten van 45 % op het toegestane maximumbedrag. Zij worden, respectievelijk, betaalbaar gesteld bij het begin van het kalenderjaar en het begin van de tweede semester. De jaarlijkse afrekening wordt uiterlijk op 31 mei van het volgende kalenderjaar opgemaakt op basis van de stukken, vermeld in artikel 14, tweede lid, met het oog op de uitbetaling van het saldo.<br /><br />De basissubsidie-enveloppe, eventueel vermeerderd met een aanvullende subsidie-enveloppe voor een regionaal regionaal steunpunt, voor de maanden tussen de inwerkingtreding van het subsidiebesluit en 1 januari van het eerste volledige kalenderjaar wordt berekend in verhouding tot het aantal maanden.<br /><br />Ze wordt uitbetaald volgens de voorschotregeling, vermeld in het eerste lid. Als na controle van de verantwoordingsstukken blijkt dat niet-verschuldigde subsidies werden uitbetaald, kunnen die bedragen worden afgetrokken van het voorschot of de afrekening voor het volgende kalenderjaar.<br /><br />
 
 ## HOOFDSTUK VI Jaarverslag en boekhouding
 
@@ -93,7 +93,7 @@ Elke erkende huurdersorganisatie voert een dubbele boekhouding, gebaseerd op het
 
 ### ART. 15.
 
-Het agentschap is belast met de evaluatie van de werking van de huurdersorganisatie en de controle op de stukken, vermeld in artikel 14, tweede lid.<br /><br />Uiterlijk op 31 mei wordt op basis van de stukken, vermeld in artikel 14, tweede lid, de eindafrekening gemaakt met het oog op de uitbetaling van het saldo van de subsidie.<br /><br />
+...
 
 ## HOOFDSTUK VII Toezicht
 
