@@ -1,0 +1,17 @@
+{
+  "codex_id": 1016842,
+  "title": "Ministerieel besluit van 2008-05-26 tot wijziging van het ministerieel besluit van 2 april 2008 tot bepaling van de diensten voor logistieke hulp en aanvullende thuiszorg die in aanmerking komen voor subsidiëring en tot bepaling van het aantal VTE per functiecategorie en per dienst voor het jaar 2008",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1016842/VolledigDocument?datum=2008-04-01",
+  "source_sha256": "2004279026654f447c6d834159142fe6fee2b32da630b157fe300fe1dc8f5ada",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1016842&param=informatie",
+  "as_of": "2008-04-01",
+  "made": "2008-05-26",
+  "gazette": "2008-06-17",
+  "numac": 2008202111,
+  "document_start": "2008-04-01",
+  "document_end": null,
+  "in_force": "2008-04-01",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2008-04-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
