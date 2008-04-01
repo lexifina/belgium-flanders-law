@@ -344,7 +344,7 @@ Dit decreet regelt een gemeenschapsaangelegenheid.
 
 ### ART. 82.
 
-§ 1. In elke netoverstijgende scholengemeenschap wordt een lokaal onderhandelingscomité van de scholengemeenschap opgericht, dat bevoegd is om te onderhandelen over aangelegenheden waarvoor de scholengemeenschap bevoegd is.<br /><br />§ 2. Hiertoe duidt elk lokaal onderhandelings- of basisoverlegorgaan van de scholen van de scholengemeenschap en/of het afzonderlijk bijzonder comité bij elk schoolbestuur van het officieel gesubsidieerd onderwijs, één vertegenwoordiger per representatieve vakorganisatie en één vertegenwoordiger van de betrokken schoolbesturen aan.
+...
 
 ## HOOFDSTUK VIII WIJZIGING VAN HET DECREET VAN 1 DECEMBER 1998 BETREFFENDE DE CENTRA VOOR LEERLINGENBEGELEIDING
 

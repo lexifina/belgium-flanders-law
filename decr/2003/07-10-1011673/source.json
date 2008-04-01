@@ -2,16 +2,16 @@
   "codex_id": 1011673,
   "title": "Decreet van 2003-07-10 betreffende het landschap basisonderwijs",
   "type": "Decreet",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1011673/VolledigDocument?datum=2006-06-01",
-  "source_sha256": "f3dd2b7094cd9718f8f0b07062837fa8ffeda125bc535a1f35aeae4d327bc06c",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1011673/VolledigDocument?datum=2008-04-01",
+  "source_sha256": "9a8f0aeb0f1f0e201a847807dcf4b2ff8de2e13927d2bb6059d0e7ab95f6069f",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1011673&param=informatie",
-  "as_of": "2006-06-01",
+  "as_of": "2008-04-01",
   "made": "2003-07-10",
   "gazette": "2003-10-24",
   "numac": 2003201478,
   "document_start": null,
   "document_end": null,
-  "in_force": "2006-06-01",
+  "in_force": "2008-04-01",
   "article_versions": 85,
-  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2008-04-01; future article versions excluded; article text as the API gives it"
 }
