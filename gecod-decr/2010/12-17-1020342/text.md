@@ -356,7 +356,103 @@ Indien in een scholengemeenschap door een herstructurering van de school of van 
 
 ## Onderafdeling 1. Scholengemeenschap gesubsidieerd officieel onderwijs
 
+### ART. 71.
+
+Deze onderafdeling is van toepassing op de scholengemeenschappen secundair onderwijs die uitsluitend bestaan uit scholen die behoren tot het gesubsidieerd officieel onderwijs. (70)
+
+### ART. 72.
+
+In elke scholengemeenschap wordt een lokaal comité opgericht op het niveau van de scholengemeenschap, verder OCSG genoemd.<br /><br />Het vorige lid is niet van toepassing op de scholengemeenschappen die uitsluitend bestaan uit scholen die behoren tot hetzelfde schoolbestuur. In dat geval worden de bevoegdheden van het OCSG zoals vastgelegd in deze afdeling uitgeoefend door het afzonderlijk bijzonder comité opgericht krachtens artikel 4, § 1, 3° van de wet van 19 december 1974 tot regeling van de betrekkingen tussen de overheid en de vakbonden van haar personeel. (71)
+
+### ART. 73.
+
+§ 1. Elk OCSG is samengesteld uit afgevaardigden van enerzijds de schoolbesturen en anderzijds de representatieve vakorganisaties. Als representatieve vakorganisaties worden beschouwd de vakorganisaties die zitting hebben in het Comité voor de provinciale en plaatselijke overheidsdiensten B Afdeling 2 B Onderafdeling "Vlaamse Gemeenschap ». <br /><br />§ 2. De afvaardiging van de schoolbesturen bestaat uit minstens 1 lid van elk schoolbestuur zonder dat zijn totale afvaardiging groter mag zijn dan de totale afvaardiging van de representatieve vakorganisaties.<br /><br />De vertegenwoordigers van de schoolbesturen moeten bevoegd zijn om hun respectievelijk schoolbestuur te verbinden.<br /><br />§ 3. De afvaardiging van de representatieve vakorganisaties bestaat uit maximaal 1 lid per representatieve vakorganisatie per schoolbestuur en wordt vrij door hen samengesteld.<br /><br />§ 4. De effectieve leden van het OCSG kunnen zich laten vervangen op de wijze zoals bepaald in het werkingsreglement. <br /><br />De leden van de afvaardiging van de schoolbesturen kunnen zich alleen laten vervangen door een behoorlijk gemachtigde afgevaardigde. (72)
+
+### ART. 74.
+
+De afgevaardigden van de representatieve vakorganisaties genieten de rechten en plichten voorzien in de wet van 19 december 1974 tot regeling van de betrekkingen tussen de overheid en de vakbonden van haar personeel en haar uitvoeringsbesluiten. (73)
+
+### ART. 75.
+
+§ 1. De afgevaardigden van de schoolbesturen bepalen wie onder hen het voorzitterschap van het OCSG waarneemt. De voorzitter waakt over de goede werking van het OCSG.<br /><br />§ 2. Het secretariaat van het OCSG wordt waargenomen door een secretaris die onder en door de vertegenwoordigers van het personeel wordt gekozen. Mits akkoord van alle leden van het OCSG kan het secretariaat ook worden waargenomen door een secretaris die geen deel uitmaakt van het OCSG. (74)
+
+### ART. 76.
+
+§ 1. Het OCSG is bevoegd om te onderhandelen over de aangelegenheden waarvoor de scholengemeenschap bevoegd is voor zover deze aangelegenheden een repercussie kunnen hebben op de arbeidsomstandigheden of de arbeidsvoorwaarden van het personeel van de onderliggende scholen en/of van de scholengemeenschap zelf. <br /><br />§ 2. De leden van het OCSG hebben een informatierecht met betrekking tot alle aangelegenheden waarvoor de scholengemeenschap bevoegd is. <br /><br />Ze hebben bovendien ten minste jaarlijks recht op inlichtingen in verband met de tewerkstelling. Deze inlichtingen hebben betrekking op : <br />1° inlichtingen over de evolutie van het aantal leerlingen in de scholen van de scholengemeenschap en de weerslag ervan op tewerkstelling en infrastructuur in de scholen die tot de scholengemeenschap behoren; <br />2° inlichtingen over de structuur van de scholen die tot de scholengemeenschap behoren, inclusief over de mogelijke structuurwijzigingen die een weerslag kunnen hebben op de arbeidsomstandigheden en/of tewerkstelling; <br />3° inlichtingen over het personeelsverloop in de scholen van de scholengemeenschap.<br /><br />§ 3. De afgevaardigden van de schoolbesturen moeten aan de leden van het OCSG inlichtingen verstrekken over beslissingen die een belangrijke weerslag kunnen hebben op de personeelsleden van de scholen van de scholengemeenschap.<br /><br />§ 4. De leden van het OCSG ontvangen de informatie die nodig is om na te gaan of de onderwijswetgeving met betrekking tot schooloverschrijdende personeelsmateries correct wordt nageleefd.<br /><br />§ 5. De afgevaardigden van de representatieve vakorganisaties kunnen bij de afgevaardigden van de schoolbesturen stappen zetten in het gemeenschappelijk belang van het personeel werkzaam in de scholengemeenschap. (75)
+
+### ART. 77.
+
+De aangelegenheden waarover moet onderhandeld worden, worden op de agenda geplaatst door de voorzitter van het OCSG. Ook de andere leden van het OCSG kunnen punten op de agenda zetten. Met het oog op de onderhandelingen ontvangen de leden van het OCSG vooraf alle documenten die nodig en nuttig zijn om met voldoende kennis van zaken standpunten te kunnen innemen. (76)
+
+### ART. 78.
+
+Noch de afwezigheid van een of meer regelmatig opgeroepen leden van de afvaardiging van de schoolbesturen, noch die van een of meer regelmatig opgeroepen afgevaardigden van representatieve vakorganisaties, maakt de onderhandelingen ongeldig. (77)<br />
+
+### ART. 79.
+
+§ 1. De conclusies van iedere onderhandeling worden vermeld in een protocol waarin worden opgetekend :<br />1° ofwel het eenparig akkoord van al de afvaardigingen;<br />2° ofwel het akkoord tussen de afvaardiging van de schoolbesturen en de afvaardiging van één of meer representatieve vakorganisaties, alsook het standpunt van de afvaardiging van een of meer representatieve vakorganisaties;<br />3° ofwel het respectieve standpunt van de afvaardiging van de schoolbesturen en dat van de afvaardigingen van de verschillende representatieve vakorganisaties.<br /><br />§ 2.Ingeval van eenparig akkoord of ingeval van akkoord tussen de afvaardiging van de schoolbesturen en de afvaardiging van één of meer representatieve vakorganisaties kunnen, noch op het niveau van een individuele schoolbesturen, noch op het niveau van de individuele scholen beslissingen genomen worden die afwijken van het protocol. (78)
+
+### ART. 80.
+
+Maatregelen die na onderhandeling worden genomen vermelden de datum van het protocol bedoeld in artikel 79. (79)
+
+### ART. 81.
+
+§ 1. Het OCSG neemt bij eenparigheid een werkingsreglement aan. Het bepaalt minimaal : <br />1° de wijze waarop het OCSG wordt samengeroepen, de termijn van bijeenroeping en het aantal vergaderingen per schooljaar met een minimum van drie; <br />2° de wijze waarop documenten zullen bezorgd worden;<br />3° de wijze waarop leden van het OCSG een punt op de agenda van het OCSG kunnen zetten en de termijn waarbinnen dit moet gebeuren; <br />4° de taken van de voorzitter; <br />5° de taken van de secretaris; <br />6° de termijnen voor het beëindigen van de onderhandeling; <br />7° de wijze waarop de notulen en protocollen tot stand komen;<br />8° de wijze waarop de agenda, bijgevoegde documentatie, notulen en protocollen zullen bewaard worden;<br />9° de wijze waarop de effectieve leden zich kunnen laten vervangen en de wijze waarop en de gevallen waarin de afvaardigingen technici kunnen laten deelnemen aan de vergaderingen.<br />10° de concretisering van de bevoegdheden zoals vermeld in artikel 76;<br />11° de concretisering van de rechten en plichten bedoeld in artikel 74;<br />12° de nominatieve lijst van de effectieve vertegenwoordigers van de schoolbesturen en de effectieve vertegenwoordigers van de representatieve vakorganisaties alsook de vertegenwoordigers die hen kunnen vervangen.<br /><br />§ 2. Indien er binnen een termijn van drie maanden na de oprichting van het OCSG geen akkoord is over een werkingsreglement, is het model van werkingsreglement bij eenparigheid opgesteld door onderafdeling « Vlaamse Gemeenschap » van afdeling 2 van het comité voor de provinciale en plaatselijke overheidsdiensten van toepassing. (80)
+
+### ART. 82.
+
+De werkingskosten van het OCSG komen ten laste van de schoolbesturen. (81)
+
 ## Onderafdeling 2. Netoverschrijdende scholengemeenschappen
+
+### ART. 83.
+
+Deze onderafdeling is van toepassing op de netoverschrijdende scholengemeenschappen die uitsluitend bestaan uit scholen die secundair onderwijs inrichten. (82)<br /><br />
+
+### ART. 84.
+
+In elke scholengemeenschap wordt een lokaal comité opgericht op het niveau van de scholengemeenschap, verder OCSG genoemd. (83)
+
+### ART. 85.
+
+§ 1. Elk OCSG is samengesteld uit afgevaardigden van enerzijds de schoolbesturen en anderzijds de representatieve vakorganisaties. Als representatieve vakorganisaties worden beschouwd de vakorganisaties die zitting hebben in Sectorcomité X B Onderwijs (Vlaamse Gemeenschap), het Comité voor de provinciale en plaatselijke overheidsdiensten B Afdeling 2 B Onderafdeling "Vlaamse Gemeenschap" en/of het Overkoepelend Onderhandelingscomité Gesubsidieerd Vrij Onderwijs. <br /><br />§ 2. De afvaardiging van de schoolbesturen bestaat uit minstens 1 lid van elk schoolbestuur zonder dat zijn totale afvaardiging groter mag zijn dan de totale afvaardiging van de representatieve vakorganisaties. <br /><br />De vertegenwoordigers van de schoolbesturen moeten bevoegd zijn om hun respectievelijk schoolbestuur te verbinden.<br /><br />§ 3. De afvaardiging van de representatieve vakorganisaties bestaat uit maximaal 1 lid per representatieve vakorganisatie per schoolbestuur en wordt vrij door hen samengesteld. <br /><br />In afwijking van het vorig lid mag voor de schoolbesturen van de scholengemeenschap die behoren tot het gesubsidieerd vrij onderwijs waar maar één representatieve vakorganisatie vertegenwoordigd is in het lokaal comité of de lokale comités, deze representatieve vakorganisatie maximaal drie vertegenwoordigers afvaardigen naar het OCSG. Zijn er twee representatieve vakorganisaties vertegenwoordigd in het lokaal comité of de lokale comités, dan mag de representatieve vakorganisatie met het grootst aantal vertegenwoordigers in het lokaal comité of de lokale comités maximaal twee vertegenwoordigers afvaardigden naar het OCSG. De andere representatieve vakorganisatie mag dan maximaal één vertegenwoordiger afvaardigen.<br /><br />§ 4. De effectieve leden van het OCSG kunnen zich laten vervangen op de wijze zoals bepaald in het werkingsreglement. De leden van de afvaardiging van de schoolbesturen kunnen zich alleen laten vervangen door een behoorlijk gemachtigde afgevaardigde. (84)
+
+### ART. 86.
+
+De afgevaardigden van de representatieve vakorganisaties vanuit het gesubsidieerd officieel onderwijs of gemeenschapsonderwijs genieten de rechten en plichten voorzien in de wet van 19 december 1974 tot regeling van de betrekkingen tussen de overheid en de vakbonden van haar personeel en haar uitvoeringsbesluiten. De afgevaardigden van de representatieve vakorganisaties vanuit het gesubsidieerd vrij onderwijs genieten de rechten en de plichten voorzien in het decreet van 5 april 1995 tot oprichting van onderhandelingscomités in het vrij gesubsidieerd onderwijs. (85)
+
+### ART. 87.
+
+§ 1. De afgevaardigden van de schoolbesturen bepalen wie onder hen het voorzitterschap van het OCSG waarneemt. De voorzitter waakt over de goede werking van het OCSG.<br /><br />§ 2. Het secretariaat van het OCSG wordt waargenomen door een secretaris die onder en door de vertegenwoordigers van het personeel wordt gekozen. Mits akkoord van alle leden van het OCSG kan het secretariaat ook worden waargenomen door een secretaris die geen deel uitmaakt van het OCSG. (86)
+
+### ART. 88.
+
+§ 1. Het OCSG is bevoegd om te onderhandelen over de aangelegenheden waarvoor de scholengemeenschap bevoegd is voor zover deze aangelegenheden een repercussie kunnen hebben op de arbeidsomstandigheden of de arbeidsvoorwaarden van het personeel van de onderliggende scholen en/of van de scholengemeenschap zelf.<br /><br />§ 2. De leden van het OCSG hebben een informatierecht met betrekking tot alle aangelegenheden waarvoor de scholengemeenschap bevoegd is. <br /><br />Ze hebben bovendien ten minste jaarlijks recht op inlichtingen in verband met de tewerkstelling. Deze inlichtingen hebben betrekking op : <br />1° inlichtingen over de evolutie van het aantal leerlingen in de scholen van de scholengemeenschap en de weerslag ervan op tewerkstelling en infrastructuur in de scholen die tot de scholengemeenschap behoren; <br />2° inlichtingen over de structuur van de scholen die tot de scholengemeenschap behoren, inclusief over de mogelijke structuurwijzigingen die een weerslag kunnen hebben op de arbeidsomstandigheden en/of tewerkstelling; <br />3° inlichtingen over het personeelsverloop in de scholen van de scholengemeenschap.<br /><br />§ 3. De afgevaardigden van de schoolbesturen moeten aan de leden van het OCSG inlichtingen verstrekken over beslissingen die een belangrijke weerslag kunnen hebben op de personeelsleden van de scholen van de scholengemeenschap.<br /><br />§ 4. De leden van het OCSG ontvangen de informatie die nodig is om na te gaan of de onderwijswetgeving met betrekking tot schooloverschrijdende personeelsmateries correct wordt nageleefd.<br /><br />§ 5. De afgevaardigden van de representatieve vakorganisaties kunnen bij de afgevaardigden van de schoolbesturen stappen zetten in het gemeenschappelijk belang van het personeel werkzaam in de scholengemeenschap. (87)
+
+### ART. 89.
+
+De aangelegenheden waarover moet onderhandeld worden, worden op de agenda geplaatst door de voorzitter van het OCSG. Ook de andere leden van het OCSG kunnen punten op de agenda zetten. Met het oog op de onderhandelingen ontvangen de leden van het OCSG vooraf alle documenten die nodig en nuttig zijn om met voldoende kennis van zaken standpunten te kunnen innemen. (88)
+
+### ART. 90.
+
+Noch de afwezigheid van een of meer regelmatig opgeroepen leden van de afvaardiging van de schoolbesturen, noch die van een of meer regelmatig opgeroepen afgevaardigden van representatieve vakorganisaties, maakt de onderhandelingen ongeldig. (89)
+
+### ART. 91.
+
+§ 1. De conclusies van iedere onderhandeling worden vermeld in een protocol waarin worden opgetekend :<br />1° ofwel het eenparig akkoord van al de afvaardigingen;<br />2° ofwel het akkoord tussen de afvaardiging van de schoolbesturen en de afvaardiging van één of meer representatieve vakorganisaties, alsook het standpunt van de afvaardiging van een of meer representatieve vakorganisaties;<br />3° ofwel het respectieve standpunt van de afvaardiging van de schoolbesturen en dat van de afvaardigingen van de verschillende representatieve vakorganisaties.<br /><br />§ 2. Ingeval van eenparig akkoord of ingeval van akkoord tussen de afvaardiging van de schoolbesturen en de afvaardiging van één of meer representatieve vakorganisaties kunnen, noch op het niveau van een individuele schoolbesturen, noch op het niveau van de individuele scholen beslissingen genomen worden die afwijken van het protocol. (90)<br /><br />
+
+### ART. 92.
+
+Maatregelen die na onderhandeling worden genomen vermelden de datum van het protocol bedoeld in artikel 91. (91)
+
+### ART. 93.
+
+§ 1. Het OCSG neemt bij eenparigheid een werkingsreglement aan. Het bepaalt minimaal : <br />1° de wijze waarop het OCSG wordt samengeroepen, de termijn van bijeenroeping en het aantal vergaderingen per schooljaar met een minimum van drie; <br />2° de wijze waarop documenten zullen bezorgd worden;<br />3° de wijze waarop leden van het OCSG een punt op de agenda van het OCSG kunnen zetten en de termijn waarbinnen dit moet gebeuren; <br />4° de taken van de voorzitter; <br />5° de taken van de secretaris; <br />6° de termijnen voor het beëindigen van de onderhandeling; <br />7° de wijze waarop de notulen en protocollen tot stand komen;<br />8° de wijze waarop de agenda, bijgevoegde documentatie, notulen en protocollen zullen bewaard worden;<br />9° de wijze waarop de effectieve leden zich kunnen laten vervangen en de wijze waarop en de gevallen waarin de afvaardigingen technici kunnen laten deelnemen aan de vergaderingen.<br />10° de concretisering van de bevoegdheden zoals vermeld in artikel 88;<br />11° de concretisering van de rechten en plichten bedoeld in artikel 86;<br />12° de nominatieve lijst van de effectieve vertegenwoordigers van de schoolbesturen en de effectieve vertegenwoordigers van de representatieve vakorganisaties alsook de vertegenwoordigers die hen kunnen vervangen.<br /><br />§ 2. Indien er binnen een termijn van drie maanden na de oprichting van het OCSG geen akkoord is over een werkingsreglement, is het model van werkingsreglement bij eenparigheid opgesteld door Sectorcomité X, onderafdeling « Vlaamse Gemeenschap » van afdeling 2 van het comité voor de provinciale en plaatselijke overheidsdiensten en het Overkoepelend Onderhandelingscomité van toepassing. (92)
+
+### ART. 94.
+
+De werkingskosten van het OCSG komen ten laste van de schoolbesturen. (93)
 
 ## Onderafdeling 3. Inzagerecht lokaal comité
 
