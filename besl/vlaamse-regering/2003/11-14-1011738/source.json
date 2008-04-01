@@ -2,16 +2,16 @@
   "codex_id": 1011738,
   "title": "Besluit van de Vlaamse Regering van 2003-11-14 tot vaststelling van de nadere regels voor de toekenning en de verrekening van gratis elektriciteit voor huishoudelijke afnemers",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1011738/VolledigDocument?datum=2006-06-01",
-  "source_sha256": "641bdeb9c0f8a70717a6581a3fd9cab49bc81f07db21473b01afbf52e2f24091",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1011738/VolledigDocument?datum=2008-04-01",
+  "source_sha256": "e402ac6e4c9b5e6799773a501675683aa7cf3aafdc4a1704a37d5f52052dbd9c",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1011738&param=informatie",
-  "as_of": "2006-06-01",
+  "as_of": "2008-04-01",
   "made": "2003-11-14",
   "gazette": "2003-11-26",
   "numac": 2003202015,
   "document_start": "2003-11-26",
   "document_end": "2010-12-31",
-  "in_force": "2006-06-01",
+  "in_force": "2008-04-01",
   "article_versions": 8,
-  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2008-04-01; future article versions excluded; article text as the API gives it"
 }
