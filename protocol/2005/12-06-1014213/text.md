@@ -2,15 +2,15 @@
 
 ### ART. 1.
 
-De nationale reserve voor leveringen en de nationale reserve voor rechtstreekse verkopen zijn het verschil tussen de respectievelijke nationale referentiehoeveelheden en de respectievelijke sommen van de individuele referentiehoeveelheden, toegekend aan de producenten door de bevoegde overheden. Deze reserves worden jaarlijks herberekend, op nationaal niveau, zowel voor de leveringen als voor de rechtstreekse verkopen. Het Gewest van herkomst van de referentiehoeveelheden die eraan toegevoegd worden, wordt bepaald op basis van de zone waartoe die hoeveelheden behoren zoals gedefinieerd in artikel 2.
+De nationale reserve voor leveringen en de nationale reserve voor rechtstreekse verkopen zijn het verschil tussen de respectievelijke nationale referentiehoeveelheden en de respectievelijke sommen van de individuele referentiehoeveelheden, toegekend aan de producenten door de bevoegde overheden. Deze reserves worden jaarlijks herberekend, op nationaal niveau, zowel voor de leveringen als voor de rechtstreekse verkopen. De Gewesten komen overeen dat startende vanaf 1 april 2008, de referentiehoeveelheden van de nationale reserve voor leveringen en van de nationale reserve voor rechtstreekse verkopen worden beheerd door de gerechtigde autoriteit van elke zone, naar evenredigheid van de relatieve belangrijkheid van de quota, toebedeeld aan de producenten van de betreffende zones op 1 april 2002, zoals vastgesteld in de bijlage van het protocol.
 
 ### ART. 2.
 
-Het adres van de melkproductie-eenheid, uitgebaat door de producent, voor de productie van melk en van waaruit gedurende de maand maart 2002 de leveringen en/of de rechtstreekse verkopen gebeurden, of bij gebrek daaraan, de laatste leveringen en/of rechtstreekse verkopen van het tijdvak 2001-2002, bepaalt de zone waartoe de referentiehoeveelheid van de producent behoort.<br /><br />De volgende zones worden onderscheiden:<br /><br />a) zone A: het grondgebied van het Waalse Gewest, waar het betaalorgaan van het Waalse Gewest de bevoegde overheid is;<br /><br />b) zone B: het grondgebied van het Vlaamse Gewest en het Brussels Hoofdstedelijk Gewest, waar het betaalorgaan van het Vlaamse Gewest de bevoegde overheid is.<br /><br />De situatie op 1 april 2002, 2003 en 2004 is opgenomen als bijlage van dit samenwerkingsakkoord. Deze situatie wordt, in voorkomend geval, jaarlijks aangepast door de bevoegde betaalorganen van de Gewesten.
+Het adres van de melkproductie-eenheid, uitgebaat door de producent, voor de productie van melk en van waaruit gedurende de maand maart 2002 de leveringen en/of de rechtstreekse verkopen gebeurden, of bij gebrek daaraan, de laatste leveringen en/of rechtstreekse verkopen van het tijdvak 2001-2002, bepaalt de zone waartoe de referentiehoeveelheid van de producent behoort.<br /><br />De volgende zones worden onderscheiden:<br />a) zone A: het grondgebied van het Waalse Gewest, waar het betaalorgaan van het Waalse Gewest de bevoegde overheid is;<br />b) zone B: het grondgebied van het Vlaamse Gewest en het Brussels Hoofdstedelijk Gewest, waar het betaalorgaan van het Vlaamse Gewest de bevoegde overheid is.<br /><br />De situatie op 1 april 2002, 2003, 2004, 2005, 2006 en 2007 is opgenomen in de bijlage van dit protocol. Deze situatie wordt in voorkomend geval, jaarlijks aangepast door de bevoegde betaalorganen van de Gewesten.
 
 ### ART. 3.
 
-De betaalorganen delen jaarlijks aan elkaar de gegevens mee met betrekking tot de producenten waarvan de zone van productie veranderd is en verzekeren de jaarlijkse opvolging. Voor deze producenten blijft het Gewest, waar hun referentiehoeveelheid zich bevond op 31 maart 2002, het Gewest dat die referentiehoeveelheid beheert.
+De betaalorganen delen jaarlijks aan elkaar de gegevens mee met betrekking tot de producenten van wie de zone van productie veranderd is. De referentiehoeveelheid van de betrokken producenten zal beheerd worden door het Gewest, naar hetwelk de producent zijn productie verhuisd heeft. Voor deze producenten, zullen de overdrachten zoals bedoeld in artikel 4 en de vrijmakingen of tijdelijke overdrachten zoals beoogd in artikel 7 worden onderworpen aan de voorschriften in werking in de zone naar dewelke de productie is verplaatst.
 
 ### ART. 4.
 
@@ -18,15 +18,15 @@ De vaststelling en toepassing van de modaliteiten voor de overdrachten van refer
 
 ### ART. 5.
 
-§ 1. Bij een eventuele herverdeling van de nationale reserve moeten de principes van het akkoord van 15 juli 2002 in de Interministeriële Conferentie Landbouw worden gerespecteerd.<br /><br />De Gewesten plegen hiervoor jaarlijks overleg, rekening houdend met hun respectievelijke bijdragen aan deze reserve, om de criteria en de modaliteiten van een herverdeling te bepalen.<br /><br />De Gewesten komen overeen dat ieder Gewest elk tijdvak over 500.000 liter van de nationale reserve leveringen kan beschikken voor eventuele tijdelijke overdrachten aan instellingen, erkend door de bevoegde Minister, die een deel van hun activiteiten besteden aan wetenschappelijk onderzoek en/of onderwijs in de sector van de melkproductie en aan de erkende landbouwbeurzen.<br /><br />§ 2. In de zone A zullen producenten die tijdens de duur van een tijdvak niet minstens 70 % van hun gecumuleerde referentiehoeveelheid leveringen en rechtstreekse verkopen in de handel hebben gebracht, 50 % van hun niet geproduceerde referentiehoeveelheid aan de nationale reserve zien toegevoegd worden.<br /><br />De termijn binnen dewelke de betrokken producenten minstens 70 % van hun gecumuleerde referentiehoeveelheid leveringen en rechtstreekse verkopen in de handel moeten brengen teneinde de referentiehoeveelheden, zoals bedoeld in § 2, eerste alinea, terug toegekend te krijgen, is vastgelegd op 31 maart van het tijdvak dat volgt op het tijdvak waarin de producenten niet voldoende melk of zuivelproducten in de handel hebben gebracht.
+§ 1. Zonder afbreuk te doen aan de voorschriften van artikel 1. Bij een eventuele herverdeling van de nationale reserve moeten de principes van het akkoord van 15 juli 2002 in de Interministeriële Conferentie Landbouw worden gerespecteerd.<br /><br />De Gewesten plegen hiervoor jaarlijks overleg, rekening houdend met hun respectievelijke bijdragen aan deze reserve, om de criteria en de modaliteiten van een herverdeling te bepalen.<br /><br />De Gewesten komen overeen dat ieder Gewest elk tijdvak over 500.000 liter van de nationale reserve leveringen kan beschikken voor eventuele tijdelijke overdrachten aan instellingen, erkend door de bevoegde Minister, die een deel van hun activiteiten besteden aan wetenschappelijk onderzoek en/of onderwijs in de sector van de melkproductie en aan de erkende landbouwbeurzen.<br /><br />§ 2. In de zone A zullen producenten die tijdens de duur van een tijdvak niet minstens 70 % van hun gecumuleerde referentiehoeveelheid leveringen en rechtstreekse verkopen in de handel hebben gebracht, 50 % van hun niet geproduceerde referentiehoeveelheid aan de nationale reserve zien toegevoegd worden.<br /><br />De termijn binnen dewelke de betrokken producenten minstens 70 % van hun gecumuleerde referentiehoeveelheid leveringen en rechtstreekse verkopen in de handel moeten brengen teneinde de referentiehoeveelheden, zoals bedoeld in § 2, eerste alinea, terug toegekend te krijgen, is vastgelegd op 31 maart van het tijdvak dat volgt op het tijdvak waarin de producenten niet voldoende melk of zuivelproducten in de handel hebben gebracht.
 
 ### ART. 6.
 
-De maatschappelijke zetel van de koper bepaalt de zone, zoals gedefinieerd in het tweede lid van artikel 2, waartoe hij behoort. De Administraties kunnen evenwel, in gezamenlijk akkoord en om beheersredenen, bepalen dat de koper tot een andere zone behoort. Deze wijziging kan evenwel pas in voege gaan bij het begin van een nieuw tijdvak.
+De maatschappelijke zetel van de koper bepaalt de zone, zoals gedefinieerd in het tweede lid van artikel 2, waartoe hij behoort. De Administraties kunnen evenwel, in gezamenlijk akkoord en om beheersredenen, bepalen dat de koper tot een andere zone behoort. Deze wijziging kan evenwel pas in voege gaan bij het begin van een nieuw tijdvak.<br /><br />Als er onregelmatigheden worden vastgesteld bij kopers die innen in een zone waartoe zij niet behoren, licht de bevoegde overheid van de zone waarin de onregelmatigheden zijn vastgesteld de bevoegde overheid van de andere zone in. In dat geval zijn de reglementaire bepalingen van de zone waartoe de betrokken kopers behoren van toepassing.
 
 ### ART. 7.
 
-De producent kan enkel binnen de zone, waartoe zijn referentiehoeveelheid behoort op 31 maart 2002, zijn referentiehoeveelheid vrijmaken of tijdelijk overdragen. De criteria voor de vrijmaking en de tijdelijke overdrachten worden vastgelegd door de bevoegde overheden van elke zone. Ze zijn onderworpen aan de overlegprocedure zoals voorzien in het samenwerkingsakkoord van 18 juni 2003.
+Een producent kan enkel binnen de zone waartoe zijn referentiehoeveelheden behoren op 31 maart 2002, zijn referentiehoeveelheden vrijmaken of tijdelijk overdragen. Wanneer de referentiehoeveelheden na 31 maart 2002 worden overgedragen van de ene zone naar de andere in toepassing van artikel 4, lid 2, is het de nieuwe zone waarbinnen de referentiehoeveelheden kunnen vrijgemaakt of tijdelijk overgedragen kunnen worden. De criteria voor de vrijmaking en de tijdelijke overdrachten worden vastgelegd door de bevoegde overheden van elke zone. Ze zijn onderworpen aan de overlegprocedure zoals voorzien in het samenwerkingsakkoord van 18 juni 2003.
 
 ### ART. 8.
 
@@ -34,15 +34,15 @@ De berekening van de heffing, die eventueel verschuldigd is voor de leveringen e
 
 ### ART. 9.
 
-§ 1. De ongebruikte referentiehoeveelheid voor leveringen (of voor rechtstreekse verkopen) van een producent is het verschil tussen de referentiehoeveelheid voor leveringen (of rechtstreekse verkopen) toegekend aan die producent en zijn leveringen (of rechtstreekse verkopen), voor zover dat verschil positief is.<br /><br />De bijdrage van de producenten aan de betaling van de verschuldigde extra heffing wordt bepaald nadat de ongebruikte referentiehoeveelheden, enerzijds voor leveringen en anderzijds voor rechtstreekse verkopen, zijn verdeeld over alle producenten van beide zones die voor het tijdvak in kwestie hun referentiehoeveelheid respectievelijk voor leveringen of voor rechtstreekse verkopen hebben overschreden. Deze verdelingen worden zo uitgevoerd, dat iedere producent een gelijke hoeveelheid krijgt, respectievelijk voor leveringen of voor rechtstreekse verkopen, onder voorbehoud dat die hoeveelheid niet hoger mag zijn dan zijn respectievelijke overschrijdingen en niet hoger dan 15.000 liter wat de leveringen betreft.<br /><br />De volgende producenten hebben geen recht op verdelingen wat betreft leveringen:<br /><br />1° de producenten van wie leveringen op een onjuiste manier werden medegedeeld of die niet werden medegedeeld;<br /><br />2° de producenten die aan een niet-erkende koper hebben geleverd;<br /><br />De volgende producenten hebben geen recht op verdelingen wat betreft rechtstreekse verkopen:<br /><br />1° de producenten van wie rechtstreekse verkopen op een onjuiste manier werden medegedeeld of die niet werden medegedeeld;<br /><br />2° de producenten waarvan de inlichtingen en de verklaringen van de rechtstreekse verkopen van melk en zuivelproducten niet werden medegedeeld voor 15 mei, volgend op het betreffende tijdvak;<br /><br />3° de producenten die in het register dat hen ter beschikking gesteld wordt door de Administratie, hun productboekhouding niet hebben bijgehouden.<br /><br />Als een productie-eenheid of een gedeelte ervan in de loop van een tijdvak achtereenvolgens wordt beheerd en uitgebaat door meerdere producenten, komt alleen die laatste producent voor herverdeling van ongebruikte referentiehoeveelheden in aanmerking.<br /><br />§ 2. In het geval van een bedrijfsovername in de loop van het tijdvak, wordt de berekening van de extra heffing en de berekening van de in de eerste paragraaf voor verdeling bedoelde beschikbare hoeveelheid vastgesteld na samenvoeging van de respectievelijke verkopen en leveringen van de betrokken producenten. In het voorkomend geval is de extra heffing verschuldigd door de producent of de producenten die de voor dit tijdvak verklaarde behouden of overgenomen referentiehoeveelheid hebben overschreden.<br /><br />§ 3. De technische diensten van de betaalorganen bezorgen elkaar, in voorkomend geval, alle gegevens en een kopie van de betrokken dossiers, die noodzakelijk zijn voor de opvolging van de inning van de verschuldigde heffing.<br /><br />§ 4. Voor wat de inning van de heffingen betreft, dienen de principes van artikel 11 van het samenwerkingsakkoord van 30 maart 2004 tussen het Vlaamse Gewest, het Waalse Gewest en het Brussels Hoofdstedelijk Gewest met betrekking tot de uitoefening van de geregionaliseerde bevoegdheden op het gebied van Landbouw en Visserij te worden nageleefd.
+§ 1. De ongebruikte referentiehoeveelheid voor leveringen (of voor rechtstreekse verkopen) van een producent is het verschil tussen de referentiehoeveelheid voor leveringen (of rechtstreekse verkopen) toegekend aan die producent en zijn leveringen (of rechtstreekse verkopen), voor zover dat verschil positief is.<br /><br />De bijdrage van de producenten aan de betaling van de verschuldigde extra heffing wordt bepaald nadat de ongebruikte referentiehoeveelheden, enerzijds voor leveringen en anderzijds voor rechtstreekse verkopen, zijn verdeeld over alle producenten van beide zones die voor het tijdvak in kwestie hun referentiehoeveelheid respectievelijk voor leveringen of voor rechtstreekse verkopen hebben overschreden. Deze verdelingen worden zo uitgevoerd, dat iedere producent een gelijke hoeveelheid krijgt, respectievelijk voor leveringen of voor rechtstreekse verkopen, onder voorbehoud dat die hoeveelheid niet hoger mag zijn dan zijn respectievelijke overschrijdingen en niet hoger dan 30.000 liter wat de leveringen betreft.<br /><br />De volgende producenten hebben geen recht op verdelingen wat betreft leveringen:<br />1° de producenten van wie leveringen op een onjuiste manier werden medegedeeld of die niet werden medegedeeld;<br />2° de producenten die aan een niet-erkende koper hebben geleverd;<br /><br />De volgende producenten hebben geen recht op verdelingen wat betreft rechtstreekse verkopen:<br />1° de producenten van wie rechtstreekse verkopen op een onjuiste manier werden medegedeeld of die niet werden medegedeeld;<br />2° de producenten waarvan de inlichtingen en de verklaringen van de rechtstreekse verkopen van melk en zuivelproducten niet werden medegedeeld voor 15 mei, volgend op het betreffende tijdvak;<br />3° de producenten die in het register dat hen ter beschikking gesteld wordt door de Administratie, hun productboekhouding niet hebben bijgehouden.<br /><br />Als een productie-eenheid of een gedeelte ervan in de loop van een tijdvak achtereenvolgens wordt beheerd en uitgebaat door meerdere producenten, komt alleen die laatste producent voor herverdeling van ongebruikte referentiehoeveelheden in aanmerking.<br /><br />§ 2. In het geval van een bedrijfsovername in de loop van het tijdvak, wordt de berekening van de extra heffing en de berekening van de in de eerste paragraaf voor verdeling bedoelde beschikbare hoeveelheid vastgesteld na samenvoeging van de respectievelijke verkopen en leveringen van de betrokken producenten. In het voorkomend geval is de extra heffing verschuldigd door de producent of de producenten die de voor dit tijdvak verklaarde behouden of overgenomen referentiehoeveelheid hebben overschreden.<br /><br />§ 3. De technische diensten van de betaalorganen bezorgen elkaar, in voorkomend geval, alle gegevens en een kopie van de betrokken dossiers, die noodzakelijk zijn voor de opvolging van de inning van de verschuldigde heffing.<br /><br />§ 4. Voor wat de inning van de heffingen betreft, dienen de principes van artikel 11 van het samenwerkingsakkoord van 30 maart 2004 tussen het Vlaamse Gewest, het Waalse Gewest en het Brussels Hoofdstedelijk Gewest met betrekking tot de uitoefening van de geregionaliseerde bevoegdheden op het gebied van Landbouw en Visserij te worden nageleefd.
 
 ### ART. 10.
 
-§ 1. Voor de tijdvakken voorafgaand aan het tijdvak dat begint op 1 april 2004, komen de betaalorganen samen de periode overeen binnen dewelke de te veel geïnde extra heffing in de loop van de tijdvakken na 31 maart 1999 zal worden terugbetaald pro rata van de liters van de referentiehoeveelheid leveringen op 1/04/2005. Het terugbetaalde bedrag per liter<br />referentiehoeveelheid zal bepaald worden rekening houdend met het totaal van de te veel geïnde extra heffing op die datum.<br /><br />De producenten die gedurende een van de tijdvakken na 31 maart 2001 hun aldus aangepaste referentiehoeveelheid met meer dan 15.000 liter zullen hebben overschreden, zullen het recht verliezen op eventuele terugbetalingen.<br /><br />§ 2. Voor de tijdvakken vanaf 2004-2005 komen de betaalorganen, samen de periode overeen binnen dewelke, met toepassing van de bepalingen van artikel 13, punt 1, b van Verordening (EG) nr. 1788/2003 en van artikel 16, punt 2 van Verordening (EG) nr. 595/2004, de te veel geïnde extra heffing per tijdvak zal worden terugbetaald aan de producenten zodanig dat de terugbetaling plaatsvindt binnen de 15 maanden na afloop van het betrokken tijdvak van twaalf maanden.<br /><br />Deze terugbetaling gebeurt pro rata van de liters van de referentiehoeveelheid leveringen van het betrokken tijdvak en bedrag per liter referentiehoeveelheid zal bepaald worden rekening houdend met het totaal van de te veel geïnde extra heffing van dat tijdvak.<br /><br />De producenten die gedurende het betrokken tijdvak hun aldus aangepaste referentiehoeveelheid met meer dan 15.000 liter hebben overschreden, verliezen het recht op de eventuele terugbetaling voor dat tijdvak.
+§ 1. Voor de tijdvakken voorafgaand aan het tijdvak dat begint op 1 april 2004, komen de betaalorganen samen de periode overeen binnen dewelke de te veel geïnde extra heffing in de loop van de tijdvakken na 31 maart 1999 zal worden terugbetaald pro rata van de liters van de referentiehoeveelheid leveringen op 1/04/2005. Het terugbetaalde bedrag per liter referentiehoeveelheid zal bepaald worden rekening houdend met het totaal van de te veel geïnde extra heffing op die datum.<br /><br />De producenten die gedurende een van de tijdvakken na 31 maart 2001 hun aldus aangepaste referentiehoeveelheid met meer dan 15.000 liter zullen hebben overschreden, zullen het recht verliezen op eventuele terugbetalingen.<br /><br />§ 2. Voor de tijdvakken vanaf 2004-2005 komen de betaalorganen, samen de periode overeen binnen dewelke, met toepassing van de bepalingen van artikel 13, punt 1, b van Verordening (EG) nr. 1788/2003 en van artikel 16, punt 2 van Verordening (EG) nr. 595/2004, de te veel geïnde extra heffing per tijdvak zal worden terugbetaald aan de producenten zodanig dat de terugbetaling plaatsvindt binnen de 15 maanden na afloop van het betrokken tijdvak van twaalf maanden.<br /><br />Deze terugbetaling gebeurt pro rata van de liters van de referentiehoeveelheid leveringen van het betrokken tijdvak en bedrag per liter referentiehoeveelheid zal bepaald worden rekening houdend met het totaal van de te veel geïnde extra heffing van dat tijdvak.<br /><br />De producenten van wie de volgens artikel 9 gecorrigeerde leveringen hun referentiehoeveelheid leveringen overschrijden met ten minste 14.565 liter of met ten minste 5 % als de overschrijding kleiner is dan 14 565 liter, verliezen het recht op eventuele terugbetaling.<br /><br />§ 3. Wanneer het forfaitaire bedrag van 1 % van de heffing, vermeld in artikel 3, lid 1, van de Verordening (EG) nr. 1788/2003, niet is opgebruikt, overleggen de Gewesten om de uitvoeringsbepalingen vast te stellen van artikel 16bis van de Verordening (EG) nr. 595/2004.
 
 ### ART. 11.
 
-§ 1. De individuele referentiehoeveelheden die per 1 april 2003 worden toegekend aan de instellingen die een deel van hun activiteiten besteden aan wetenschappelijk onderzoek en/of onderwijs in de sector van de melkproductie en aan de erkende landbouwbeurzen, komen van de nationale reserve van de rechtstreekse verkopen. De aldus toegekende referentiehoeveelheden vloeien terug naar de nationale reserve op de eerste dag van het volgende tijdvak in geval van een aanvraag tot overdracht van het geheel of een gedeelte van een bedrijf of in geval van een aanvraag tot gehele of gedeeltelijke vrijmaking. Het betrokken Gewest kan over deze hoeveelheden beschikken voor een tijdelijke overdracht zoals bedoeld in artikel 5, derde lid, naast de 500.000 liter.<br /><br />§ 2. De Gewesten komen overeen om de supplementen van de nationale referentiehoeveelheden voor de tijdvakken 2006-2007, 2007-2008 en 2008-2009 zoals vermeld in bijlage I van de Verordening (EG) nr. 1788/2003 op een lineaire manier te herverdelen aan alle producenten.
+§ 1. De individuele referentiehoeveelheden die per 1 april 2003 worden toegekend aan de instellingen die een deel van hun activiteiten besteden aan wetenschappelijk onderzoek en/of onderwijs in de sector van de melkproductie en aan de erkende landbouwbeurzen, komen van de nationale reserve van de rechtstreekse verkopen. De aldus toegekende referentiehoeveelheden vloeien terug naar de nationale reserve op de eerste dag van het volgende tijdvak in geval van een aanvraag tot overdracht van het geheel of een gedeelte van een bedrijf of in geval van een aanvraag tot gehele of gedeeltelijke vrijmaking. Het betrokken Gewest kan over deze hoeveelheden beschikken voor een tijdelijke overdracht zoals bedoeld in artikel 5, derde lid, naast de 500.000 liter.<br /><br />§ 2. De Gewesten komen overeen om de supplementen van de nationale referentiehoeveelheden voor de tijdvakken 2006-2007, 2007-2008 en 2008-2009 zoals vermeld in bijlage I van de Verordening (EG) nr. 1788/2003 op een lineaire manier te herverdelen aan alle producenten.<br /><br />§ 3. De Gewesten komen overeen om de verdeling van de bijkomende referentiehoeveelheden die niet vermeld zijn onder § 2 van dit artikel over te laten aan de bevoegdheid van de Gewesten. De bijkomende referentiehoeveelheden zullen, in voorkomend geval, op 1 april van het betreffende jaar verdeeld worden tussen de Gewesten naar evenredigheid van de relatieve belangrijkheid van de quota toebedeeld aan de producenten van de zones, zoals overeengekomen op 1 april 2002 en zoals verduidelijkt in de bijlage van het protocol. De bevoegde overheden van elke zone plegen, in voorkomend geval, overleg om de verdelingscriteria aan elkaar toe te lichten.
 
 ### ART. 12.
 
@@ -51,3 +51,633 @@ De berekening van de heffing, die eventueel verschuldigd is voor de leveringen e
 ### ART. 13.
 
 Dit samenwerkingsakkoord heeft uitwerking met ingang van 1 april 2005.<br /><br />Bijlage aan artikel 2 van het samenwerkingsprotocol tussen het Vlaamse Gewest, het Waalse Gewest en het Brussels Hoofdstedelijk Gewest met betrekking tot de heffing in de sector van de melk en de zuivelproducten<br /><br />Melkquota in kg: Situatie op 1 april 2002 (Foto 2002), 1 april 2003 en 1 april 2004, excl. osmose en leasing<br /><br /><Table><TBody><TR><TD><Standaard/></TD><TD><Standaard>Zone A</Standaard></TD><TD><Standaard>Zone B</Standaard></TD></TR><TR><TD><Standaard/></TD><TD><Standaard>Toegekend</Standaard></TD><TD><Standaard>Bijdrage aan</Standaard><Standaard>de reserve</Standaard></TD><TD><Standaard>Totaal</Standaard></TD><TD><Standaard>Toegekend</Standaard></TD><TD><Standaard>Bijdrage aan</Standaard><Standaard>de reserve</Standaard></TD><TD><Standaard>Totaal</Standaard></TD></TR><TR><TD><Standaard>2002 Qleveringen</Standaard><Standaard>Q rechtstr. verkopen</Standaard></TD><TD><Standaard>1 245 556 330</Standaard></TD><TD><Standaard>0</Standaard></TD><TD><Standaard>1 245 556 330</Standaard></TD><TD><Standaard>1 939 726 947</Standaard></TD><TD><Standaard>0</Standaard></TD><TD><Standaard>1 939 726 947</Standaard></TD></TR><TR><TD><Standaard>77 845 905</Standaard></TD><TD><Standaard>0</Standaard></TD><TD><Standaard>77 845 905</Standaard></TD><TD><Standaard>25 053 959</Standaard></TD><TD><Standaard>0</Standaard></TD><TD><Standaard>25 053 959</Standaard></TD></TR><TR><TD><Standaard/></TD><TD><Standaard/></TD><TD><Standaard/></TD><TD><Standaard/></TD><TD><Standaard/></TD><TD><Standaard/></TD><TD><Standaard/></TD></TR><TR><TD><Standaard>2003 Qleveringen</Standaard><Standaard>Q rechtstr. verkopen</Standaard></TD><TD><Standaard>1 262 417 988</Standaard></TD><TD><Standaard>25 835</Standaard></TD><TD><Standaard>1 262 443 823</Standaard></TD><TD><Standaard>1 944 946 853</Standaard></TD><TD><Standaard>39 174</Standaard></TD><TD><Standaard>1 944 986 027</Standaard></TD></TR><TR><TD><Standaard>62 102 042</Standaard></TD><TD><Standaard>0</Standaard></TD><TD><Standaard>62 102 042</Standaard></TD><TD><Standaard>22 747 693</Standaard></TD><TD><Standaard>0</Standaard></TD><TD><Standaard>22 747 693</Standaard></TD></TR><TR><TD><Standaard/></TD><TD><Standaard/></TD><TD><Standaard/></TD><TD><Standaard/></TD><TD><Standaard/></TD><TD><Standaard/></TD><TD><Standaard/></TD></TR><TR><TD><Standaard>2004 Qleveringen</Standaard><Standaard>Q rechtstr. verkopen</Standaard></TD><TD><Standaard>1 268 678 282</Standaard></TD><TD><Standaard>0</Standaard></TD><TD><Standaard>1 268 678 282</Standaard></TD><TD><Standaard>1 946 252 812</Standaard></TD><TD><Standaard>41 206</Standaard></TD><TD><Standaard>1 946 294 018</Standaard></TD></TR><TR><TD><Standaard>55 237 402</Standaard></TD><TD><Standaard>0</Standaard></TD><TD><Standaard>55 237 402</Standaard></TD><TD><Standaard>21 410 023</Standaard></TD><TD><Standaard>0</Standaard></TD><TD><Standaard>21 410 023</Standaard></TD></TR><TR><TD><Standaard/></TD><TD><Standaard/></TD><TD><Standaard/></TD><TD><Standaard/></TD><TD><Standaard/></TD><TD><Standaard/></TD><TD><Standaard/></TD></TR></TBody></Table><br /><br /><Table><TBody><TR><TD><Standaard/></TD><TD><Standaard>Belgi&#235;</Standaard></TD></TR><TR><TD><Standaard/></TD><TD><Standaard>Toegekend</Standaard></TD><TD><Standaard>Reserve</Standaard></TD><TD><Standaard>Totaal</Standaard></TD></TR><TR><TD><Standaard>2002 Qleveringen</Standaard><Standaard>Q rechtstr. verkopen</Standaard></TD><TD><Standaard>3 185 283 277</Standaard></TD><TD><Standaard>16 078 846</Standaard></TD><TD><Standaard>3 201 362 123</Standaard></TD></TR><TR><TD><Standaard>102 899 864</Standaard></TD><TD><Standaard>6 169 013</Standaard></TD><TD><Standaard>109 068 877</Standaard></TD></TR><TR><TD><Standaard/></TD><TD><Standaard/></TD><TD><Standaard/></TD><TD><Standaard>3 310 431 000</Standaard></TD></TR><TR><TD><Standaard>2003 Qleveringen</Standaard><Standaard>Q rechtstr. verkopen</Standaard></TD><TD><Standaard>3 207 364 841</Standaard></TD><TD><Standaard>15 997 361</Standaard></TD><TD><Standaard>3 223 362 202</Standaard></TD></TR><TR><TD><Standaard>84 849 735</Standaard></TD><TD><Standaard>2 219 063</Standaard></TD><TD><Standaard>87 068 798</Standaard></TD></TR><TR><TD><Standaard/></TD><TD><Standaard/></TD><TD><Standaard/></TD><TD><Standaard>3 310 431 000</Standaard></TD></TR><TR><TD><Standaard>2004 Qleveringen</Standaard><Standaard>Q rechtstr. verkopen</Standaard></TD><TD><Standaard>3 214 931 094</Standaard></TD><TD><Standaard>16 692 026</Standaard></TD><TD><Standaard>3 231 623 120</Standaard></TD></TR><TR><TD><Standaard>76 647 425</Standaard></TD><TD><Standaard>2 160 455</Standaard></TD><TD><Standaard>78 807 880</Standaard></TD></TR><TR><TD><Standaard/></TD><TD><Standaard/></TD><TD><Standaard/></TD><TD><Standaard>3 310 431 000</Standaard></TD></TR></TBody></Table>
+
+### BIJLAGE
+
+<table border="1" cellpadding="0" cellspacing="0" style="border-collapse:collapse">
+	<tbody>
+		<tr>
+			<td rowspan="2" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; height:14.2pt; width:72.35pt">
+			<p><!--?xml:namespace prefix = o ns =         "urn:schemas-microsoft-com:office:office"   /-->&nbsp;</p>
+			</td>
+			<td colspan="3" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; height:14.2pt; width:212.1pt">
+			<p>Zona A</p>
+			</td>
+			<td colspan="3" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; height:14.2pt; width:212.1pt">
+			<p>Zone B</p>
+			</td>
+			<td colspan="3" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; height:14.2pt; width:212.2pt">
+			<p>België</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; width:70.7pt">
+			<p>Toegekend</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; width:70.7pt">
+			<p>Bijdrage aan de reserve</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; width:70.7pt">
+			<p>Totaal</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; width:70.7pt">
+			<p>Toegekend</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; width:70.7pt">
+			<p>Bijdrage aan de reserve</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; width:70.7pt">
+			<p>Totaal</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; width:70.7pt">
+			<p>Toegekend</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; width:70.75pt">
+			<p>Reserve</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; width:70.75pt">
+			<p>Totaal</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; width:72.35pt">
+			<p>2002 Qleveringen</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; width:70.7pt">
+			<p>1.245.556.330</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; width:70.7pt">
+			<p>0</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; width:70.7pt">
+			<p>1.245.556.330</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; width:70.7pt">
+			<p>1.939.726.947</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; width:70.7pt">
+			<p>0</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; width:70.7pt">
+			<p>1.939.726.947</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; width:70.7pt">
+			<p>3.185.283.277</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; width:70.75pt">
+			<p>16.078.846</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; width:70.75pt">
+			<p>3.201.362.123</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; width:72.35pt">
+			<p>Qrechtstr.verkopen</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; width:70.7pt">
+			<p>77.845.905</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; width:70.7pt">
+			<p>0</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; width:70.7pt">
+			<p>77.845.905</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; width:70.7pt">
+			<p>25.053.959</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; width:70.7pt">
+			<p>0</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; width:70.7pt">
+			<p>25.053.959</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; width:70.7pt">
+			<p>102.899.864</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; width:70.75pt">
+			<p>6.169.013</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; width:70.75pt">
+			<p>109.068.877</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; width:72.35pt">
+			<p>Totaal</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; width:70.7pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; width:70.7pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; width:70.7pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; width:70.7pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; width:70.7pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; width:70.7pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; width:70.7pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; width:70.75pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; width:70.75pt">
+			<p>3.310.431.000</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; width:72.35pt">
+			<p>2003 Qleveringen</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; width:70.7pt">
+			<p>1.262.560.804</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; width:70.7pt">
+			<p>25.835</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; width:70.7pt">
+			<p>1.262.568.639</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; width:70.7pt">
+			<p>1.944.946.853</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; width:70.7pt">
+			<p>39174</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; width:70.7pt">
+			<p>1.944.946.027</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; width:70.7pt">
+			<p>3.207.507.657</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; width:70.75pt">
+			<p>15.854.545</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; width:70.75pt">
+			<p>3.223.632.202</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; width:72.35pt">
+			<p>Qrechtstr.verkopen</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; width:70.7pt">
+			<p>62.123.738</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; width:70.7pt">
+			<p>0</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; width:70.7pt">
+			<p>62.123.738</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; width:70.7pt">
+			<p>22.747.693</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; width:70.7pt">
+			<p>0</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; width:70.7pt">
+			<p>22.747.693</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; width:70.7pt">
+			<p>84.871.431</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; width:70.75pt">
+			<p>2.197.367</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; width:70.75pt">
+			<p>87.068.798</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; width:72.35pt">
+			<p>Totaal</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; width:70.7pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; width:70.7pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; width:70.7pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; width:70.7pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; width:70.7pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; width:70.7pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; width:70.7pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; width:70.75pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; width:70.75pt">
+			<p>3.310.431.000</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; width:72.35pt">
+			<p>2004 Qleveringen</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; width:70.7pt">
+			<p>1.268.827.793</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; width:70.7pt">
+			<p>25.835</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; width:70.7pt">
+			<p>1.268.827.793</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; width:70.7pt">
+			<p>1.946.252.812</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; width:70.7pt">
+			<p>41.206</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; width:70.7pt">
+			<p>1.946.294.018</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; width:70.7pt">
+			<p>3.215.080.605</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; width:70.75pt">
+			<p>16.542.515</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; width:70.75pt">
+			<p>3.231.623.120</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; width:72.35pt">
+			<p>Qrechtstr.verkopen</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; width:70.7pt">
+			<p>55.259.098</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; width:70.7pt">
+			<p>0</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; width:70.7pt">
+			<p>55.259.098</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; width:70.7pt">
+			<p>21.410.023</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; width:70.7pt">
+			<p>0</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; width:70.7pt">
+			<p>21.410.023</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; width:70.7pt">
+			<p>76.669.121</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; width:70.75pt">
+			<p>2.138.759</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; width:70.75pt">
+			<p>78.817.880</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; width:72.35pt">
+			<p>Totaal</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; width:70.7pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; width:70.7pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; width:70.7pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; width:70.7pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; width:70.7pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; width:70.7pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; width:70.7pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; width:70.75pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; width:70.75pt">
+			<p>3.310.431.000</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; width:72.35pt">
+			<p>2005 Qleveringen</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; width:70.7pt">
+			<p>1.277.812.283</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; width:70.7pt">
+			<p>0</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; width:70.7pt">
+			<p>1.277.812.283</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; width:70.7pt">
+			<p>1.947.710.969</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; width:70.7pt">
+			<p>0</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; width:70.7pt">
+			<p>1.947.710.969</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; width:70.7pt">
+			<p>3.225.523.252</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; width:70.75pt">
+			<p>16.206.133</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; width:70.75pt">
+			<p>3.241.729.385</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; width:72.35pt">
+			<p>Qrechtstr.verkopen</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; width:70.7pt">
+			<p>46.231..347</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; width:70.7pt">
+			<p>0</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; width:70.7pt">
+			<p>46.231..347</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; width:70.7pt">
+			<p>20.181.356</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; width:70.7pt">
+			<p>0</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; width:70.7pt">
+			<p>20.181.356</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; width:70.7pt">
+			<p>66.412.703</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; width:70.75pt">
+			<p>2.288.912</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; width:70.75pt">
+			<p>68.701.615</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; width:72.35pt">
+			<p>Totaal</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; width:70.7pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; width:70.7pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; width:70.7pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; width:70.7pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; width:70.7pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; width:70.7pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; width:70.7pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; width:70.75pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; width:70.75pt">
+			<p>3.310.431.000</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; width:72.35pt">
+			<p>2006 Qleveringen</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; width:70.7pt">
+			<p>1.288.543.238</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; width:70.7pt">
+			<p>0</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; width:70.7pt">
+			<p>1.288.543.238</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; width:70.7pt">
+			<p>1.959.560.753</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; width:70.7pt">
+			<p>0</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; width:70.7pt">
+			<p>1.959.560.753</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; width:70.7pt">
+			<p>3.248.103.991</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; width:70.75pt">
+			<p>14.885.626</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; width:70.75pt">
+			<p>3.262.989.617</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; width:72.35pt">
+			<p>Qrechtstr.verkopen</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; width:70.7pt">
+			<p>41.820.369</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; width:70.7pt">
+			<p>0</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; width:70.7pt">
+			<p>41.820.369</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; width:70.7pt">
+			<p>19.674.697</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; width:70.7pt">
+			<p>0</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; width:70.7pt">
+			<p>19.674.697</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; width:70.7pt">
+			<p>61.495.066</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; width:70.75pt">
+			<p>2.498.317</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; width:70.75pt">
+			<p>63.993.383</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; width:72.35pt">
+			<p>Totaal</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; width:70.7pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; width:70.7pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; width:70.7pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; width:70.7pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; width:70.7pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; width:70.7pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; width:70.7pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; width:70.75pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; width:70.75pt">
+			<p>3.326.983.000</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; width:72.35pt">
+			<p>2007 Qleveringen</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; width:70.7pt">
+			<p>1.298.176.679</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; width:70.7pt">
+			<p>0</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; width:70.7pt">
+			<p>1.298.176.679</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; width:70.7pt">
+			<p>1.969.683.443</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; width:70.7pt">
+			<p>0</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; width:70.7pt">
+			<p>1.969.683.443</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; width:70.7pt">
+			<p>3.267.860.122</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; width:70.75pt">
+			<p>15.419.847</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; width:70.75pt">
+			<p>3.283.279.969</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; width:72.35pt">
+			<p>Qrechtstr.verkopen</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; width:70.7pt">
+			<p>38.660.079</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; width:70.7pt">
+			<p>0</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; width:70.7pt">
+			<p>38.660.079</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; width:70.7pt">
+			<p>18.961.270</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; width:70.7pt">
+			<p>0</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; width:70.7pt">
+			<p>18.961.270</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; width:70.7pt">
+			<p>57.621.349</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; width:70.75pt">
+			<p>2.633.682</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; width:70.75pt">
+			<p>60.255.031</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; width:72.35pt">
+			<p>Totaal</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; width:70.7pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; width:70.7pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; width:70.7pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; width:70.7pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; width:70.7pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; width:70.7pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; width:70.7pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; width:70.75pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; width:70.75pt">
+			<p>3.343.535.000</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
