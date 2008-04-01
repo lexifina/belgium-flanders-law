@@ -1058,7 +1058,103 @@ Het schoolbestuur beslist over de toetreding van zijn scho(o)l(en) tot een schol
 
 ## [Onderafdeling 1 Scholengemeenschappen gesubsidieerd officieel onderwijs]
 
+### ART. 125quinquies decies.
+
+Deze onderafdeling is van toepassing op de scholengemeenschappen basisonderwijs die uitsluitend bestaan uit scholen die behoren tot het gesubsidieerd officieel onderwijs.
+
+### ART. 125sexies decies.
+
+In elke scholengemeenschap wordt een lokaal comité opgericht op het niveau van de scholengemeenschap, verder OCSG genoemd.<br /><br />Het vorige lid is niet van toepassing op de scholengemeenschappen die uitsluitend bestaan uit scholen die behoren tot hetzelfde schoolbestuur. In dat geval worden de bevoegdheden van het OCSG zoals vastgelegd in deze onderafdeling uitgeoefend door het afzonderlijk bijzonder comité opgericht krachtens artikel 4, § 1, 3°, van de wet van 19 december 1974 tot regeling van de betrekkingen tussen de overheid en de vakbonden van haar personeel.
+
+### ART. 125septies decies.
+
+§ 1. Elk OCSG is samengesteld uit afgevaardigden van enerzijds de schoolbesturen en anderzijds de representatieve vakorganisaties. Als representatieve vakorganisaties worden beschouwd de vakorganisaties die zitting hebben in het Comité voor de provinciale en plaatselijke overheidsdiensten - Afdeling 2 - Onderafdeling « Vlaamse Gemeenschap ».<br /><br />§ 2. De afvaardiging van de schoolbesturen bestaat uit minstens één lid van elk schoolbestuur zonder dat haar totale afvaardiging groter mag zijn dan de totale afvaardiging van de representatieve vakorganisaties.<br /><br />De vertegenwoordigers van de schoolbesturen moeten bevoegd zijn om hun respectief schoolbestuur te verbinden.<br /><br />§ 3. De afvaardiging van de representatieve vakorganisaties bestaat uit maximaal één lid per representatieve vakorganisatie per schoolbestuur en wordt vrij door hen samengesteld.<br /><br />§ 4. De effectieve leden van het OCSG kunnen zich laten vervangen op de wijze zoals bepaald in het werkingsreglement. De leden van de afvaardiging van de schoolbesturen kunnen zich alleen laten vervangen door een behoorlijk gemachtigde afgevaardigde.
+
+### ART. 125duodevicies.
+
+De afgevaardigden van de representatieve vakorganisaties genieten de rechten en plichten voorzien in de wet van 19 december 1974 tot regeling van de betrekkingen tussen de overheid en de vakbonden van haar personeel en haar uitvoeringsbesluiten.
+
+### ART. 125undevicies.
+
+§ 1. De afgevaardigden van de schoolbesturen bepalen wie onder hen het voorzitterschap van het OCSG waarneemt. De voorzitter waakt over de goede werking van het OCSG.<br /><br />§ 2. Het secretariaat van het OCSG wordt waargenomen door een secretaris die onder en door de vertegenwoordigers van het personeel wordt gekozen. Mits akkoord van alle leden van het OCSG kan het secretariaat ook worden waargenomen door een secretaris die geen deel uitmaakt van het OCSG.
+
+### ART. 125vicies.
+
+§ 1. Het OCSG is bevoegd om te onderhandelen over de aangelegenheden waarvoor de scholengemeenschap bevoegd is voor zover deze aangelegenheden een repercussie kunnen hebben op de arbeidsomstandigheden of de arbeidsvoorwaarden van het personeel van de onderliggende scholen en/of van de scholengemeenschap zelf.<br /><br />§ 2. De leden van het OCSG hebben een informatierecht met betrekking tot alle aangelegenheden waarvoor de scholengemeenschap bevoegd is.<br /><br />Ze hebben bovendien ten minste jaarlijks recht op inlichtingen in verband met de tewerkstelling.<br /><br />Deze inlichtingen hebben betrekking op :<br />1° inlichtingen over de evolutie van het aantal leerlingen in de scholen van de scholengemeenschap en de weerslag ervan op tewerkstelling en infrastructuur in de scholen die tot de scholengemeenschap behoren;<br />2° inlichtingen over de structuur van de scholen die tot de scholengemeenschap behoren, inclusief over de mogelijke structuurwijzigingen die een weerslag kunnen hebben op de arbeidsomstandigheden en/of tewerkstelling;<br />3° inlichtingen over het personeelsverloop in de scholen van de scholengemeenschap.<br /><br />§ 3. De afgevaardigden van de schoolbesturen moeten aan de leden van het OCSG inlichtingen verstrekken over beslissingen die een belangrijke weerslag kunnen hebben op de personeelsleden van de scholen van de scholengemeenschap.<br /><br />§ 4. De leden van het OCSG ontvangen de informatie die nodig is om na te gaan of de onderwijswetgeving met betrekking tot schooloverschrijdende personeelsmateries correct wordt nageleefd.<br /><br />§ 5. De afgevaardigden van de representatieve vakorganisaties kunnen bij de afgevaardigden van de schoolbesturen stappen zetten in het gemeenschappelijk belang van het personeel werkzaam in de scholengemeenschap.
+
+### ART. 125vicies semel.
+
+De aangelegenheden waarover moet onderhandeld worden, worden op de agenda geplaatst door de voorzitter van het OCSG. Ook de andere leden van het OCSG kunnen punten op de agenda zetten. Met het oog op de onderhandelingen ontvangen de leden van het OCSG vooraf alle documenten die nodig en nuttig zijn om met voldoende kennis van zaken standpunten te kunnen innemen.
+
+### ART. 125vicies bis.
+
+Noch de afwezigheid van een of meer regelmatig opgeroepen leden van de afvaardiging van de schoolbesturen, noch die van een of meer regelmatig opgeroepen afgevaardigden van representatieve vakorganisaties, maakt de onderhandelingen ongeldig.
+
+### ART. 125vicies ter.
+
+§ 1. De conclusies van iedere onderhandeling worden vermeld in een protocol waarin worden opgetekend :<br />1° ofwel het eenparig akkoord van al de afvaardigingen;<br />2° ofwel het akkoord tussen de afvaardiging van de schoolbesturen en de afvaardiging van één of meer representatieve vakorganisaties, alsook het standpunt van de afvaardiging van een of meer representatieve vakorganisaties;<br />3° ofwel het respectieve standpunt van de afvaardiging van de schoolbesturen en dat van de afvaardigingen van de verschillende representatieve vakorganisaties.<br /><br />§ 2. Ingeval van eenparig akkoord of ingeval van akkoord tussen de afvaardiging van de schoolbesturen en de afvaardiging van één of meer representatieve vakorganisaties kunnen, noch op het niveau van de individuele schoolbesturen, noch op het niveau van de individuele scholen beslissingen genomen worden die afwijken van het protocol.
+
+### ART. 125vicies quater.
+
+Maatregelen die na onderhandeling worden genomen vermelden de datum van het protocol bedoeld in artikel 125vicies ter.
+
+### ART. 125vicies quinquies.
+
+§ 1. Het OCSG neemt bij eenparigheid een werkingsreglement aan. Het bepaalt minimaal :<br />1° de wijze waarop het OCSG wordt samengeroepen, de termijn van bijeenroeping en het aantal vergaderingen per schooljaar met een minimum van drie;<br />2° de wijze waarop documenten zullen bezorgd worden;<br />3° de wijze waarop leden van het OCSG een punt op de agenda van het OCSG kunnen zetten en de termijn waarbinnen dit moet gebeuren;<br />4° de taken van de voorzitter;<br />5° de taken van de secretaris;<br />6° de termijnen voor het beëindigen van de onderhandeling;<br />7° de wijze waarop de notulen en protocollen tot stand komen;<br />8° de wijze waarop de agenda, bijgevoegde documentatie, notulen en protocollen zullen bewaard worden;<br />9° de wijze waarop de effectieve leden zich kunnen laten vervangen en de wijze waarop en de gevallen waarin de afvaardigingen technici kunnen laten deelnemen aan de vergaderingen;<br />10° de concretisering van de bevoegdheden zoals vermeld in artikel 125vicies;<br />11° de concretisering van de rechten en plichten bedoeld in artikel 125duodevicies;<br />12° de nominatieve lijst van de effectieve vertegenwoordigers van de schoolbesturen en de effectieve vertegenwoordigers van de representatieve vakorganisaties alsook de vertegenwoordigers die hen kunnen vervangen.<br /><br />§ 2. Indien er binnen een termijn van drie maanden na de oprichting van het OCSG geen akkoord is over een werkingsreglement, is het model van werkingsreglement bij eenparigheid opgesteld door onderafdeling « Vlaamse Gemeenschap » van afdeling 2 van het comité voor de provinciale en plaatselijke overheidsdiensten van toepassing.
+
+### ART. 125vicies sexies.
+
+De werkingskosten van het OCSG komen ten laste van de schoolbesturen.
+
 ## [Onderafdeling 2 Netoverschrijdende scholengemeenschappen]
+
+### ART. 125vicies septies.
+
+Deze onderafdeling is van toepassing op de netoverschrijdende scholengemeenschappen die uitsluitend bestaan uit scholen die basisonderwijs inrichten.
+
+### ART. 125duodetricies.
+
+In elke scholengemeenschap wordt een lokaal comité opgericht op het niveau van de scholengemeenschap, verder OCSG genoemd.
+
+### ART. 125undetricies.
+
+§ 1. Elk OCSG is samengesteld uit afgevaardigden van enerzijds de schoolbesturen en anderzijds de representatieve vakorganisaties. Als representatieve vakorganisaties worden beschouwd de vakorganisaties die zitting hebben in Sectorcomité X - Onderwijs (Vlaamse Gemeenschap), het Comité voor de provinciale en plaatselijke overheidsdiensten - Afdeling 2 - Onderafdeling « Vlaamse Gemeenschap » en/of het Overkoepelend Onderhandelingscomité Gesubsidieerd Vrij Onderwijs.<br /><br />§ 2. De afvaardiging van de schoolbesturen bestaat uit minstens één lid van elk schoolbestuur zonder dat haar totale afvaardiging groter mag zijn dan de totale afvaardiging van de representatieve vakorganisaties.<br /><br />De vertegenwoordigers van de schoolbesturen moeten bevoegd zijn om hun respectief schoolbestuur te verbinden.<br /><br />§ 3. De afvaardiging van de representatieve vakorganisaties bestaat uit maximaal één lid per representatieve vakorganisatie per schoolbestuur en wordt vrij door hen samengesteld.<br /><br />In afwijking van het vorige lid mag voor de schoolbesturen van de scholengemeenschap die behoren tot het gesubsidieerd vrij onderwijs waar maar één representatieve vakorganisatie vertegenwoordigd is in het lokaal comité of de lokale comités, deze representatieve vakorganisatie maximaal drie vertegenwoordigers afvaardigen naar het OCSG. Zijn er twee representatieve vakorganisaties vertegenwoordigd in het lokaal comité of de lokale comités, dan mag de representatieve vakorganisatie met het grootst aantal vertegenwoordigers in het lokaal comité of de lokale comités maximaal twee vertegenwoordigers afvaardigden naar het OCSG. De andere representatieve vakorganisatie mag dan maximaal één vertegenwoordiger afvaardigen.<br /><br />§ 4. De effectieve leden van het OCSG kunnen zich laten vervangen op de wijze zoals bepaald in het werkingsreglement. De leden van de afvaardiging van de schoolbesturen kunnen zich alleen laten vervangen door een behoorlijk gemachtigde afgevaardigde.
+
+### ART. 125tricies.
+
+De afgevaardigden van de representatieve vakorganisaties vanuit het gesubsidieerd officieel onderwijs of Gemeenschapsonderwijs genieten de rechten en plichten voorzien in de wet van 19 december 1974 tot regeling van de betrekkingen tussen de overheid en de vakbonden van haar personeel en haar uitvoeringsbesluiten.<br /><br />De afgevaardigden van de representatieve vakorganisaties vanuit het gesubsidieerd vrij onderwijs genieten de rechten en de plichten voorzien in het decreet van 5 april 1995 tot oprichting van onderhandelingscomités in het vrij gesubsidieerd onderwijs.
+
+### ART. 125tricies semel.
+
+§ 1. De afgevaardigden van de schoolbesturen bepalen wie onder hen het voorzitterschap van het OCSG waarneemt. De voorzitter waakt over de goede werking van het OCSG.<br /><br />§ 2. Het secretariaat van het OCSG wordt waargenomen door een secretaris die onder en door de vertegenwoordigers van het personeel wordt gekozen. Mits akkoord van alle leden van het OCSG kan het secretariaat ook worden waargenomen door een secretaris die geen deel uitmaakt van het OCSG.
+
+### ART. 125tricies bis.
+
+§ 1. Het OCSG is bevoegd om te onderhandelen over de aangelegenheden waarvoor de scholengemeenschap bevoegd is voor zover deze aangelegenheden een repercussie kunnen hebben op de arbeidsomstandigheden of de arbeidsvoorwaarden van het personeel van de onderliggende scholen en/of van de scholengemeenschap zelf.<br /><br />§ 2. De leden van het OCSG hebben een informatierecht met betrekking tot alle aangelegenheden waarvoor de scholengemeenschap bevoegd is.<br /><br />Ze hebben bovendien ten minste jaarlijks recht op inlichtingen in verband met de tewerkstelling.<br /><br />Deze inlichtingen hebben betrekking op :<br />1° inlichtingen over de evolutie van het aantal leerlingen in de scholen van de scholengemeenschap en de weerslag ervan op tewerkstelling en infrastructuur in de scholen die tot de scholengemeenschap behoren;<br />2° inlichtingen over de structuur van de scholen die tot de scholengemeenschap behoren, inclusief over de mogelijke structuurwijzigingen die een weerslag kunnen hebben op de arbeidsomstandigheden en/of tewerkstelling;<br />3° inlichtingen over het personeelsverloop in de scholen van de scholengemeenschap.<br /><br />§ 3. De afgevaardigden van de schoolbesturen moeten aan de leden van het OCSG inlichtingen verstrekken over beslissingen die een belangrijke weerslag kunnen hebben op de personeelsleden van de scholen van de scholengemeenschap.<br /><br />§ 4. De leden van het OCSG ontvangen de informatie die nodig is om na te gaan of de onderwijswetgeving met betrekking tot schooloverschrijdende personeelsmateries correct wordt nageleefd.<br /><br />§ 5. De afgevaardigden van de representatieve vakorganisaties kunnen bij de afgevaardigden van de schoolbesturen stappen zetten in het gemeenschappelijk belang van het personeel werkzaam in de scholengemeenschap.
+
+### ART. 125tricies ter.
+
+De aangelegenheden waarover moet onderhandeld worden, worden op de agenda geplaatst door de voorzitter van het OCSG. Ook de andere leden van het OCSG kunnen punten op de agenda zetten. Met het oog op de onderhandelingen ontvangen de leden van het OCSG vooraf alle documenten die nodig en nuttig zijn om met voldoende kennis van zaken standpunten te kunnen innemen.
+
+### ART. 125tricies quater.
+
+Noch de afwezigheid van een of meer regelmatig opgeroepen leden van de afvaardiging van de schoolbesturen, noch die van een of meer regelmatig opgeroepen afgevaardigden van representatieve vakorganisaties, maakt de onderhandelingen ongeldig.
+
+### ART. 125tricies quinquies.
+
+§ 1. De conclusies van iedere onderhandeling worden vermeld in een protocol waarin worden opgetekend :<br />1° ofwel het eenparig akkoord van al de afvaardigingen;<br />2° ofwel het akkoord tussen de afvaardiging van de schoolbesturen en de afvaardiging van één of meer representatieve vakorganisaties, alsook het standpunt van de afvaardiging van een of meer representatieve vakorganisaties;<br />3° ofwel het respectieve standpunt van de afvaardiging van de schoolbesturen en dat van de afvaardigingen van de verschillende representatieve vakorganisaties.<br /><br />§ 2. Ingeval van eenparig akkoord of ingeval van akkoord tussen de afvaardiging van de schoolbesturen en de afvaardiging van één of meer representatieve vakorganisaties kunnen, noch op het niveau van de individuele schoolbesturen, noch op het niveau van de individuele scholen beslissingen genomen worden die afwijken van het protocol.
+
+### ART. 125tricies sexies.
+
+Maatregelen die na onderhandeling worden genomen vermelden de datum van het protocol bedoeld in artikel 125tricies quinquies.
+
+### ART. 125tricies septies.
+
+§ 1. Het OCSG neemt bij eenparigheid een werkingsreglement aan. Het bepaalt minimaal :<br />1° de wijze waarop het OCSG wordt samengeroepen, de termijn van bijeenroeping en het aantal vergaderingen per schooljaar met een minimum van drie;<br />2° de wijze waarop documenten zullen bezorgd worden;<br />3° de wijze waarop leden van het OCSG een punt op de agenda van het OCSG kunnen zetten en de termijn waarbinnen dit moet gebeuren;<br />4° de taken van de voorzitter;<br />5° de taken van de secretaris;<br />6° de termijnen voor het beëindigen van de onderhandeling;<br />7° de wijze waarop de notulen en protocollen tot stand komen;<br />8° de wijze waarop de agenda, bijgevoegde documentatie, notulen en protocollen zullen bewaard worden;<br />9° de wijze waarop de effectieve leden zich kunnen laten vervangen en de wijze waarop en de gevallen waarin de afvaardigingen technici kunnen laten deelnemen aan de vergaderingen;<br />10° de concretisering van de bevoegdheden zoals vermeld in artikel 125tricies bis;<br />11° de concretisering van de rechten en plichten bedoeld in artikel 125tricies;<br />12° de nominatieve lijst van de effectieve vertegenwoordigers van de schoolbesturen en de effectieve vertegenwoordigers van de representatieve vakorganisaties alsook de vertegenwoordigers die hen kunnen vervangen.<br /><br />§ 2. Indien er binnen een termijn van drie maanden na de oprichting van het OCSG geen akkoord is over een werkingsreglement, is het model van werkingsreglement bij eenparigheid opgesteld door Sectorcomité X, onderafdeling « Vlaamse Gemeenschap » van afdeling 2 van het comité voor de provinciale en plaatselijke overheidsdiensten en het Overkoepelend Onderhandelingscomité van toepassing.
+
+### ART. 125duodequadragies.
+
+De werkingskosten van het OCSG komen ten laste van de schoolbesturen.
 
 ## HOOFDSTUK IX PERSONEELSFORMATIE IN HET BASISONDERWIJS
 
