@@ -1350,6 +1350,10 @@ Ter uitvoering van artikel 11bis van het besluit van de Vlaamse Regering van 10 
 
 <p>&nbsp;</p>
 
+### ART. 4bis.
+
+Vanaf 1 april 2008 wordt het aantal toegewezen VTE doelgroepwerknemers van de VZW Familiehulp, vermeld in de tabel van artikel 4, verhoogd met 36,5 VTE doelgroepwerknemers.<br /><br />Het totaal aantal toegewezen VTE doelgroepwerknemers aan de diensten voor logistieke hulp en aanvullende thuiszorg bedraagt 82,5 VTE.
+
 ### ART. 5.
 
 Dit besluit heeft uitwerking met ingang van 1 januari 2008, met uitzondering van artikel 4 dat uitwerking heeft met ingang van 1 maart 2008.
