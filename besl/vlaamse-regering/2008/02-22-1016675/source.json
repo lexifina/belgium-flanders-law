@@ -1,0 +1,17 @@
+{
+  "codex_id": 1016675,
+  "title": "Besluit van de Vlaamse Regering van 2008-02-22 tot wijziging van het besluit van de Vlaamse Regering van 5 mei 2000 tot aanwijzing van de werken, handelingen of wijzigingen van algemeen belang en tot regeling van het vooroverleg met de Vlaamse bouwmeester",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1016675/VolledigDocument?datum=2008-04-04",
+  "source_sha256": "d42f5897c5961773a6e7ee87fdccfa0d3ac0ccf66ab2450f96925f2783305e94",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1016675&param=informatie",
+  "as_of": "2008-04-04",
+  "made": "2008-02-22",
+  "gazette": "2008-03-25",
+  "numac": 2008200905,
+  "document_start": "2008-04-04",
+  "document_end": null,
+  "in_force": "2008-04-04",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2008-04-04; oldest version available; future article versions excluded; article text as the API gives it"
+}
