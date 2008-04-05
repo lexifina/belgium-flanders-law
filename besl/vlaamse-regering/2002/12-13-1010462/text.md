@@ -369,6 +369,34 @@ Deel A : Microbiologische parameters<br>
 		</tr>
 		<tr>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:140.4pt">
+			<p>Chloriet</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:81pt">
+			<p>700</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:90pt">
+			<p>μg/l</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:149.2pt">
+			<p>13 en 14</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:140.4pt">
+			<p>Chloraat</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:81pt">
+			<p>700</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:90pt">
+			<p>μg/l</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:149.2pt">
+			<p>13</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:140.4pt">
 			<p>Chroom</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:81pt">
@@ -711,8 +739,13 @@ Opmerking 11 : uiterlijk op 25 december 2003 moet aan deze waarden worden voldaa
 <br>
 Opmerking 12 : de waterleverancier streeft ernaar om de waarde van 3 |gmg/l voor cadmium niet te overschrijden.<br>
 <br>
+Opmerking 13 : De parameters hoeven alleen te worden gemeten als chloordioxide gebruikt wordt bij de behandeling van het water, bestemd voor menselijke consumptie.<br>
+<br>
+Opmerking 14 : De waterleverancier tracht te allen tijde de concentratie chloriet in het water, bestemd voor menselijke consumptie, zo laag mogelijk te houden en de streefwaarde van 200 µg/1 niet te overschrijden.<br>
+<br>
 Deel C : indicatorparameters<br>
-&nbsp;</p>
+<br>
+</p>
 
 <table border="1" cellpadding="0" cellspacing="0" style="border-collapse:collapse">
 	<tbody>
@@ -2609,8 +2642,7 @@ Opmerking 1 : Voor de bewaking van de troebelingsgraad in behandeld oppervlaktew
 
 TOEVOEGSEL TOEGELATEN VOOR DE WATERBEHANDELING<br>
 <br>
-4.1 Voor desinfectie of oxidatie :<br>
-&nbsp;
+4.1 Voor desinfectie of oxidatie :
 <table border="1" cellpadding="0" cellspacing="0" style="border-collapse:collapse">
 	<tbody>
 		<tr>
@@ -2633,6 +2665,17 @@ TOEVOEGSEL TOEGELATEN VOOR DE WATERBEHANDELING<br>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.55pt">
 			<p>30</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:167.4pt">
+			<p>Chloordioxide</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:139.65pt">
+			<p>ClO<sub>2</sub></p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.55pt">
+			<p>3</p>
 			</td>
 		</tr>
 		<tr>
