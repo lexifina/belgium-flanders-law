@@ -1,0 +1,17 @@
+{
+  "codex_id": 1016685,
+  "title": "Besluit van de Vlaamse Regering van 2008-02-29 tot wijziging van het besluit van de Vlaamse Regering van 13 december 2002 houdende reglementering inzake de kwaliteit en levering van water, bestemd voor menselijke consumptie",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1016685/VolledigDocument?datum=2008-04-05",
+  "source_sha256": "7f6218c72623d6d1c973c0073b174a6ea8c7fa8d0f84779ea56502d2348ec05d",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1016685&param=informatie",
+  "as_of": "2008-04-05",
+  "made": "2008-02-29",
+  "gazette": "2008-03-26",
+  "numac": 2008200910,
+  "document_start": "2008-04-05",
+  "document_end": null,
+  "in_force": "2008-04-05",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2008-04-05; oldest version available; future article versions excluded; article text as the API gives it"
+}
