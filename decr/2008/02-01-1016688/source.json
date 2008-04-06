@@ -1,0 +1,17 @@
+{
+  "codex_id": 1016688,
+  "title": "Decreet van 2008-02-01 tot wijziging van het havendecreet van 2 maart 1999 in relatie met het gemeentedecreet",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1016688/VolledigDocument?datum=2008-04-06",
+  "source_sha256": "84b5ef719e1f5390d884ad8834740e0737e79b708a01a504b67c4a4282c71ae9",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1016688&param=informatie",
+  "as_of": "2008-04-06",
+  "made": "2008-02-01",
+  "gazette": "2008-03-27",
+  "numac": 2008200861,
+  "document_start": "2008-04-06",
+  "document_end": null,
+  "in_force": "2008-04-06",
+  "article_versions": 27,
+  "record_form": "consolidated version as in force on 2008-04-06; oldest version available; future article versions excluded; article text as the API gives it"
+}
