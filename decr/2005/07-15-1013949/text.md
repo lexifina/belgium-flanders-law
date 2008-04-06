@@ -1020,7 +1020,7 @@ Het oprichtingsbesluit van een intern verzelfstandigd agentschap omvat minstens 
 
 ### ART. 226.
 
-Onder voorbehoud van de toepassing van andere wettelijke of decretale bepalingen, bestaan er twee vormen van gemeentelijke extern verzelfstandigde agentschappen:<br /><br />1° het autonoom gemeentebedrijf;<br /><br />2° het gemeentelijke extern verzelfstandigd agentschap in privaatrechtelijke vorm.
+Onder voorbehoud van de toepassing van andere wettelijke of decretale bepalingen, bestaan er drie vormen van gemeentelijke extern verzelfstandigde agentschappen :<br />1° het autonoom gemeentebedrijf;<br />2° het gemeentelijke extern verzelfstandigd agentschap in privaatrechtelijke vorm;<br />3° het autonoom gemeentelijk havenbedrijf.
 
 ### ART. 227.
 
@@ -1040,7 +1040,7 @@ Bij gemeenteraadsbesluit kan de gemeente aan haar gemeentelijke extern verzelfst
 
 ### ART. 231.
 
-Deze titel is niet van toepassing op de havenbedrijven in de zin van het decreet van 2 maart 1999 houdende het beleid en het beheer van de zeehavens.
+...
 
 ## Afdeling II Het autonoom gemeentebedrijf
 
@@ -1107,6 +1107,10 @@ Het autonoom gemeentebedrijf maakt een budget op overeenkomstig de regels die kr
 Tussen de gemeente en de gemeentelijke vennootschap, vereniging of stichting wordt een samenwerkingsovereenkomst gesloten betreffende de uitvoering van de toevertrouwde taken van gemeentelijk belang. De samenwerkingsovereenkomst regelt de volgende aangelegenheden:<br /><br />1° in voorkomend geval de aanwending van de aan het agentschap ter beschikking gestelde of overgedragen personeelsleden, middelen en infrastructuur;<br /><br />2° binnen de perken en overeenkomstig de toekenningsvoorwaarden, bepaald door de Vlaamse Regering, het presentiegeld en de andere vergoedingen die in het kader van de bestuurlijke werking van het agentschap worden toegekend;<br /><br />3° de wijze waarop de gemeentelijke vennootschap, vereniging of stichting zal voorzien in een systeem van interne controle;<br /><br />4° de instemming van de gemeentelijke vennootschap, vereniging of stichting met de toekenning aan een externe auditcommissie of een of meer commissarissen van audittaken in de gemeentelijke vennootschap, vereniging of stichting overeenkomstig artikel 265, en de wijze waarop de externe auditcommissie of commissaris deze audittaken uitoefent.
 
 ## Afdeling IV Het autonoom gemeentelijk havenbedrijf
+
+### ART. 247bis.
+
+De autonome gemeentelijke havenbedrijven zijn de havenbedrijven in de zin van het decreet van 2 maart 1999 houdende het beleid en het beheer van de zeehavens waarop de bepalingen inzake autonome gemeentelijke havenbedrijven van toepassing zijn.<br /><br />Met uitzondering van artikel 226 zijn de bepalingen van dit decreet niet van toepassing op de autonome gemeentelijke havenbedrijven.
 
 ## TITEL VIII Bestuurlijk toezicht en externe audit
 
