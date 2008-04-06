@@ -1,0 +1,17 @@
+{
+  "codex_id": 1016690,
+  "title": "Ministerieel besluit van 2008-02-22 betreffende toepassing van artikelen 48 en 48ter van het decreet van 22 februari 1995 betreffende de bodemsanering Site 'Kleiputten 'Lambrechts', 'Campina' en 'Oud Geleg' te Brecht",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1016690/VolledigDocument?datum=2008-04-06",
+  "source_sha256": "3fe1134c03cd2785b1c7a5d725e12388053f830d1b97182b77bdf5fe2c5073da",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1016690&param=informatie",
+  "as_of": "2008-04-06",
+  "made": "2008-02-22",
+  "gazette": "2008-03-27",
+  "numac": 2008200854,
+  "document_start": "2008-04-06",
+  "document_end": null,
+  "in_force": "2008-04-06",
+  "article_versions": 7,
+  "record_form": "consolidated version as in force on 2008-04-06; oldest version available; future article versions excluded; article text as the API gives it"
+}
