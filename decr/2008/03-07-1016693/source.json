@@ -1,0 +1,17 @@
+{
+  "codex_id": 1016693,
+  "title": "Decreet van 2008-03-07 houdende instemming met het samenwerkingsakkoord tussen de Franse Gemeenschap, de Vlaamse Gemeenschap en de Gemeenschappelijke Gemeenschapscommissie inzake hulpverlening aan jongeren, gesloten te Brussel op 11 mei 2007",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1016693/VolledigDocument?datum=2008-04-07",
+  "source_sha256": "a6ae7b2a31a134d6cc0b0de47abfdd130cd5a84e859481b1500ab901648d4219",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1016693&param=informatie",
+  "as_of": "2008-04-07",
+  "made": "2008-03-07",
+  "gazette": "2008-03-28",
+  "numac": 2008200922,
+  "document_start": "2008-04-07",
+  "document_end": null,
+  "in_force": "2008-04-07",
+  "article_versions": 2,
+  "record_form": "consolidated version as in force on 2008-04-07; oldest version available; future article versions excluded; article text as the API gives it"
+}
