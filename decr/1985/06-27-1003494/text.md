@@ -56,6 +56,10 @@ Met het oog op coördinatie van de werking van de Raad en die van de commissies 
 
 Bij de Raad wordt een Mobiliteitsraad van Vlaanderen opgericht. Het decreet van 7 juli 2006 houdende de oprichting van de Mobiliteitsraad van Vlaanderen bepaalt de samenstelling, de taken en bevoegdheden, de werking en de werkingsmiddelen van de Mobiliteitsraad van Vlaanderen.
 
+### ART. 7novies.
+
+Binnen de Raad is de Strategische Adviesraad voor het Vlaamse Welzijns-, Gezondheids- en Gezinsbeleid opgericht. Deze strategische adviesraad wordt geregeld door het decreet van 7 december 2007 houdende de oprichting van de Strategische Adviesraad voor het Vlaamse Welzijns-, Gezondheids- en Gezinsbeleid en van een Adviescommissie voor Voorzieningen van Welzijn, Volksgezondheid en Gezin.
+
 ### ART. 8.
 
 Voor 10 september van elk jaar brengt de Raad een met redenen omkleed advies uit over het uit te voeren begrotingsbeleid. Het advies wordt toegezonden aan de Vlaamse regering. Indien het advies niet tijdig is verstrekt, moet erop niet worden gewacht.
