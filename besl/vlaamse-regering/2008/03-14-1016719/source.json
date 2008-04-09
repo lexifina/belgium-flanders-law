@@ -1,0 +1,17 @@
+{
+  "codex_id": 1016719,
+  "title": "Besluit van de Vlaamse Regering van 2008-03-14 betreffende de Strategische Adviesraad voor het Vlaamse Welzijns-, Gezondheids- en Gezinsbeleid",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1016719/VolledigDocument?datum=2008-04-09",
+  "source_sha256": "41a66ee055ef6292ed5c213bd0a6d22fb7fadd1f9a0164aab61b057733f37be0",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1016719&param=informatie",
+  "as_of": "2008-04-09",
+  "made": "2008-03-14",
+  "gazette": "2008-04-09",
+  "numac": 2008201118,
+  "document_start": "2008-04-09",
+  "document_end": "2018-12-31",
+  "in_force": "2008-04-09",
+  "article_versions": 8,
+  "record_form": "consolidated version as in force on 2008-04-09; oldest version available; future article versions excluded; article text as the API gives it"
+}
