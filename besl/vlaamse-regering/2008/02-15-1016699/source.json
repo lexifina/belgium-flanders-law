@@ -1,0 +1,17 @@
+{
+  "codex_id": 1016699,
+  "title": "Besluit van de Vlaamse Regering van 2008-02-15 houdende de definitieve vaststelling van het gebied « Waterzone van het IJzerestuarium », dat in aanmerking komt als speciale beschermingszone in toepassing van de Habitatrichtlijn 92/43/EEG van de Raad van de Europese Gemeenschappen van 21 mei 1992",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1016699/VolledigDocument?datum=2008-04-10",
+  "source_sha256": "1fe71b6fc0e28256365bbb6e57143ceaa7b386adcf3742168284aa540c34f307",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1016699&param=informatie",
+  "as_of": "2008-04-10",
+  "made": "2008-02-15",
+  "gazette": "2008-03-31",
+  "numac": 2008035433,
+  "document_start": "2008-04-10",
+  "document_end": null,
+  "in_force": "2008-04-10",
+  "article_versions": 5,
+  "record_form": "consolidated version as in force on 2008-04-10; oldest version available; future article versions excluded; article text as the API gives it"
+}
