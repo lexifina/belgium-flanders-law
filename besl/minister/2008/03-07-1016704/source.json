@@ -1,0 +1,17 @@
+{
+  "codex_id": 1016704,
+  "title": "Ministerieel besluit van 2008-03-07 tot wijziging van het ministerieel besluit van 15 maart 2006 betreffende het autonome beheer van land- en tuinbouwbedrijven en het kunstmatig creëren van betalingsvoorwaarden",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1016704/VolledigDocument?datum=2008-04-10",
+  "source_sha256": "4cb684b2eef23a03f75da39f7372e42ce53230e9286eed6d57504f1131e414d9",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1016704&param=informatie",
+  "as_of": "2008-04-10",
+  "made": "2008-03-07",
+  "gazette": "2008-03-31",
+  "numac": 2008200923,
+  "document_start": "2008-04-10",
+  "document_end": null,
+  "in_force": "2008-04-10",
+  "article_versions": 6,
+  "record_form": "consolidated version as in force on 2008-04-10; oldest version available; future article versions excluded; article text as the API gives it"
+}
