@@ -1,0 +1,17 @@
+{
+  "codex_id": 1016711,
+  "title": "Decreet van 2008-03-14 houdende wijziging van het gemeentedecreet wat betreft de bevoegdheid van een gemeentelijk beslissingsorgaan om in rechte op te treden",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1016711/VolledigDocument?datum=2008-04-14",
+  "source_sha256": "49a7b9eb4494392018942d6793f85d04bc82bdf0ff44266d18a38fa25b4fc288",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1016711&param=informatie",
+  "as_of": "2008-04-14",
+  "made": "2008-03-14",
+  "gazette": "2008-04-04",
+  "numac": 2008201062,
+  "document_start": "2008-04-14",
+  "document_end": null,
+  "in_force": "2008-04-14",
+  "article_versions": 5,
+  "record_form": "consolidated version as in force on 2008-04-14; oldest version available; future article versions excluded; article text as the API gives it"
+}
