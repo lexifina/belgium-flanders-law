@@ -83,3 +83,31 @@ Journaals en politieke informatieprogramma's mogen niet worden gesponsord.<br />
 De sponsering is onderworpen aan dezelfde voorwaarden als de reclame.
 
 ## [HOOFDSTUK VII RECLAME GERICHT OP KINDEREN EN JONGEREN (ing. BVR 7 september 2007, art. 1)]
+
+### ART. 16.
+
+Voor de toepassing van dit hoofdstuk wordt verstaan onder :<br />1° een kind : een persoon van twaalf jaar of jonger<br />2° een jongere : een persoon onder de leeftijd van zestien jaar.
+
+### ART. 17.
+
+Reclame die gericht is op kinderen en jongeren, moet voor hen duidelijk als dusdanig herkenbaar zijn.
+
+### ART. 18.
+
+§ 1. Reclameboodschappen, gericht op kinderen en jongeren, moeten worden opgemaakt met de nodige sociale verantwoordelijkheidszin, zodat ze positieve sociale gedragingen, levensstijlen en houdingen niet ondermijnen.<br /><br />§ 2. Reclame, gericht op kinderen, mag geen geweld weergeven, banaliseren, tolereren, idealiseren of aanmoedigen, noch onwettig, antisociaal of laakbaar gedrag tonen of aanmoedigen.<br /><br />Reclame, gericht op jongeren, mag geen geweld banaliseren, tolereren, idealiseren of aanmoedigen, noch onwettig, antisociaal of laakbaar gedrag aanmoedigen.<br /><br />§ 3. Reclame, gericht op kinderen en jongeren, mag niet het gezag, de verantwoordelijkheid of het oordeel van ouders en opvoeders ondermijnen, rekening houdend met de heersende sociale en culturele waarden.
+
+### ART. 19.
+
+§ 1. Reclameboodschappen, gericht op kinderen en jongeren, moeten respect opbrengen voor de waardigheid van kinderen en jongeren, en mogen kinderen en jongeren niet zo in beeld brengen dat hun fysieke of morele integriteit wordt aangetast of in gevaar wordt gebracht.<br /><br />§ 2. Reclame mag bij kinderen geen gevoelens van angst of ongemak oproepen.<br /><br />§ 3. Reclame, gericht op kinderen of jongeren, mag geen teksten of visuele voorstellingen bevatten die kinderen of jongeren geestelijk, moreel of fysiek schade kunnen berokkenen, of die hen aanzetten tot gevaarlijke handelingen of om zich in onveilige toestanden te begeven, die hun gezondheid of hun veiligheid ernstig in gevaar kunnen brengen, of dat soort gedrag goedpraten. <br /><br />§ 4. Reclame mag kinderen niet ontraden om de gevestigde veiligheidsregels te volgen.<br /><br />Bijzondere aandacht moet in dat verband gaan naar onder meer :<br />1° verkeersveiligheid met kinderen als voetganger, fietser of passagier;<br />2° huishoudelijke situaties;<br />3° medicijnen en chemische producten;<br />4° gevaarlijke gereedschappen, vuur, lucifers;<br />5° spel in of bij het water.
+
+### ART. 20.
+
+§ 1. Reclame, gericht op kinderen, moet de mogelijkheden en eigenschappen van het product dat in de reclame voorgesteld wordt, correct weergeven, zodat kinderen zeker niet misleid worden over een van die kenmerken.<br /><br />§ 2. De reclame mag kinderen niet misleiden over :<br />1° de eigenschappen, de afmetingen, de waarde, de aard, de levensduur of de prestaties van het product;<br />2° de met het product door een kind te behalen resultaten;<br />3° de effecten op de gezondheid;<br />4° de graad van handigheid of de leeftijd, vereist voor het gebruik van het product.<br /><br />Het gebruik van fantasie, inclusief animatie, is geoorloofd in reclameboodschappen voor kinderen, maar er moet over gewaakt worden dat de fantasie en de animatie hen niet misleiden over de reële eigenschappen van het product in kwestie.
+
+### ART. 22.
+
+Reclame en sponsoring die betrekking hebben op alcoholhoudende dranken mogen niet worden uitgezonden in het blok voor of na kinderprogramma's.
+
+### ART. 23.
+
+Reclame, gericht op kinderen en jongeren, mag geen buitensporig verbruik aanmoedigen of vergoelijken van voedingsmiddelen en dranken die stoffen bevatten waarvan een overmatig gebruik niet aanbevolen is, zoals vetten, transvetzuren, zout of natrium en suikers.

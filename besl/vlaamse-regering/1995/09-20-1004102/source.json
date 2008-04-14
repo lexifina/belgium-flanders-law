@@ -2,16 +2,16 @@
   "codex_id": 1004102,
   "title": "Besluit van de Vlaamse Regering van 1995-09-20 houdende vaststelling van de code voor reclame en sponsoring op radio en televisie",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1004102/VolledigDocument?datum=2006-06-01",
-  "source_sha256": "6640dfcd689c7b418a00e6e79cfa907a2e808bc663316f7360499179e33948c3",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1004102/VolledigDocument?datum=2008-04-14",
+  "source_sha256": "53a78db367d9f87dac6211f16fad065cb34c10ff29da622a93a4c81d9094a526",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1004102&param=informatie",
-  "as_of": "2006-06-01",
+  "as_of": "2008-04-14",
   "made": "1995-09-20",
   "gazette": "1995-11-29",
   "numac": 1995936547,
   "document_start": null,
   "document_end": "2009-05-09",
-  "in_force": "2006-06-01",
-  "article_versions": 16,
-  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "in_force": "2008-04-14",
+  "article_versions": 23,
+  "record_form": "consolidated version as in force on 2008-04-14; future article versions excluded; article text as the API gives it"
 }
