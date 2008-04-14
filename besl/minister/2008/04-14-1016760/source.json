@@ -1,0 +1,17 @@
+{
+  "codex_id": 1016760,
+  "title": "Ministerieel besluit van 2008-04-14 tot overschrijving van de vastleggingsmachtigingen van de begroting van het Vlaams Infrastructuurfonds voor Persoonsgebonden Aangelegenheden voor het begrotingsjaar 2008",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1016760/VolledigDocument?datum=2008-04-14",
+  "source_sha256": "1e4340fa4c1c1338d42f1415874ce794c9c69a27503f9253571162479c37312e",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1016760&param=informatie",
+  "as_of": "2008-04-14",
+  "made": "2008-04-14",
+  "gazette": "2008-05-07",
+  "numac": 2008201448,
+  "document_start": "2008-04-14",
+  "document_end": null,
+  "in_force": "2008-04-14",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2008-04-14; oldest version available; future article versions excluded; article text as the API gives it"
+}
