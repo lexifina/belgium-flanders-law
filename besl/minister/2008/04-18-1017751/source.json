@@ -1,0 +1,17 @@
+{
+  "codex_id": 1017751,
+  "title": "Ministerieel besluit van 2008-04-18 tot uitvoering van het besluit van de Vlaamse Regering tot toekenning van strategische investerings- en opleidingssteun aan ondernemingen in het Vlaamse Gewest",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1017751/VolledigDocument?datum=2008-04-18",
+  "source_sha256": "9491148fd00e1141bbc63b331429bf5c46a5bf54ed61107659f8123129849cbe",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1017751&param=informatie",
+  "as_of": "2008-04-18",
+  "made": "2008-04-18",
+  "gazette": "2009-03-30",
+  "numac": 2009035256,
+  "document_start": "2008-04-18",
+  "document_end": "2010-12-16",
+  "in_force": "2008-04-18",
+  "article_versions": 23,
+  "record_form": "consolidated version as in force on 2008-04-18; oldest version available; future article versions excluded; article text as the API gives it"
+}
