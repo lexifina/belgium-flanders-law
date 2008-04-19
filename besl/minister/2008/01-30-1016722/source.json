@@ -1,0 +1,17 @@
+{
+  "codex_id": 1016722,
+  "title": "Ministerieel besluit van 2008-01-30 betreffende de gunning van het raamcontract netwerk 2007 voor Kind en Gezin",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1016722/VolledigDocument?datum=2008-04-19",
+  "source_sha256": "9c4ab8dd972355b2d20a851812c29808022aa769a69598d00668a01560dd4bb7",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1016722&param=informatie",
+  "as_of": "2008-04-19",
+  "made": "2008-01-30",
+  "gazette": "2008-04-09",
+  "numac": 2008201074,
+  "document_start": "2008-04-19",
+  "document_end": null,
+  "in_force": "2008-04-19",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2008-04-19; oldest version available; future article versions excluded; article text as the API gives it"
+}
