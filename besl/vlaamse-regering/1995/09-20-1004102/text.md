@@ -104,6 +104,10 @@ Reclame die gericht is op kinderen en jongeren, moet voor hen duidelijk als dusd
 
 § 1. Reclame, gericht op kinderen, moet de mogelijkheden en eigenschappen van het product dat in de reclame voorgesteld wordt, correct weergeven, zodat kinderen zeker niet misleid worden over een van die kenmerken.<br /><br />§ 2. De reclame mag kinderen niet misleiden over :<br />1° de eigenschappen, de afmetingen, de waarde, de aard, de levensduur of de prestaties van het product;<br />2° de met het product door een kind te behalen resultaten;<br />3° de effecten op de gezondheid;<br />4° de graad van handigheid of de leeftijd, vereist voor het gebruik van het product.<br /><br />Het gebruik van fantasie, inclusief animatie, is geoorloofd in reclameboodschappen voor kinderen, maar er moet over gewaakt worden dat de fantasie en de animatie hen niet misleiden over de reële eigenschappen van het product in kwestie.
 
+### ART. 21.
+
+§ 1. Reclame, gericht op kinderen, mag niet beweren dat het hebben of gebruiken van een bepaald product hen voordeel biedt ten opzichte van andere kinderen, noch dat het niet-hebben van een bepaald product tot het tegenovergestelde effect leidt.<br /><br />De reclame mag niet beweren dat kinderen die het product niet bezitten, minderwaardig of onpopulair zijn.<br /><br />§ 2. Reclame, gericht op kinderen, mag de prijs van het aangeboden product niet minimaliseren, noch suggereren dat het aangeboden product tot de mogelijkheden van elk familiaal budget behoort.
+
 ### ART. 22.
 
 Reclame en sponsoring die betrekking hebben op alcoholhoudende dranken mogen niet worden uitgezonden in het blok voor of na kinderprogramma's.
