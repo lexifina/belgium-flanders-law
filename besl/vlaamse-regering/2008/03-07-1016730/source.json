@@ -1,0 +1,17 @@
+{
+  "codex_id": 1016730,
+  "title": "Besluit van de Vlaamse Regering van 2008-03-07 tot vaststelling van de methodologie en de criteria van de voortgangstoets voor de academisch gerichte opleidingen van de hogescholen in Vlaanderen",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1016730/VolledigDocument?datum=2008-04-24",
+  "source_sha256": "a0506a69224e4e18a95b70544d86e8eedebc40f5ee6ecfe57af8ddb4f181a705",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1016730&param=informatie",
+  "as_of": "2008-04-24",
+  "made": "2008-03-07",
+  "gazette": "2008-04-14",
+  "numac": 2008201167,
+  "document_start": "2008-04-24",
+  "document_end": "2016-12-31",
+  "in_force": "2008-04-24",
+  "article_versions": 9,
+  "record_form": "consolidated version as in force on 2008-04-24; oldest version available; future article versions excluded; article text as the API gives it"
+}
