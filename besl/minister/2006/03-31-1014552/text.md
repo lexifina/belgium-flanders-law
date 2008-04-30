@@ -74,7 +74,7 @@ De onderneming kan met behulp van de log-in en het paswoord een subsidieaanvraag
 
 ### ART. 16.
 
-De subsidieaanvraag moet ingediend worden binnen veertien kalenderdagen nadat de overeenkomst is gesloten of de inschrijving is gebeurd.<br /><br />
+De subsidieaanvraag moet ingediend worden binnen dertig kalenderdagen nadat de overeenkomst is gesloten of de inschrijving is gebeurd.<br /><br />
 
 ### ART. 17.
 
