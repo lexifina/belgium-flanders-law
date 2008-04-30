@@ -1,0 +1,17 @@
+{
+  "codex_id": 1017225,
+  "title": "Ministerieel besluit van 2008-10-07 tot wijziging van het ministerieel besluit van 31 maart 2006 tot uitvoering van het besluit van de Vlaamse Regering van 16 december 2005 tot toekenning van steun aan kleine en middelgrote ondernemingen voor ondernemerschapsbevorderende diensten, met betrekking tot de subsidieverlening",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1017225/VolledigDocument?datum=2008-04-30",
+  "source_sha256": "a09636247f1da59923e92f6a0a5ab89d7dea0e1b8e3170de881689bbc6b958d8",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1017225&param=informatie",
+  "as_of": "2008-04-30",
+  "made": "2008-10-07",
+  "gazette": "2008-10-23",
+  "numac": 2008203737,
+  "document_start": "2008-04-30",
+  "document_end": null,
+  "in_force": "2008-04-30",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2008-04-30; oldest version available; future article versions excluded; article text as the API gives it"
+}
