@@ -1,0 +1,17 @@
+{
+  "codex_id": 1016801,
+  "title": "Ministerieel besluit van 2008-04-30 tot uitvoering van artikel 11 van het besluit van de Vlaamse Regering van 16 december 2005 tot toekenning van steun aan kleine en middelgrote ondernemingen voor ondernemerschapsbevorderende diensten",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1016801/VolledigDocument?datum=2008-04-30",
+  "source_sha256": "5d37c1be997f200ea7d4cc142718e55783804c1a57d85a177e300a4104e909ec",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1016801&param=informatie",
+  "as_of": "2008-04-30",
+  "made": "2008-04-30",
+  "gazette": "2008-05-30",
+  "numac": 200835572,
+  "document_start": "2008-04-30",
+  "document_end": null,
+  "in_force": "2008-04-30",
+  "article_versions": 7,
+  "record_form": "consolidated version as in force on 2008-04-30; oldest version available; future article versions excluded; article text as the API gives it"
+}
