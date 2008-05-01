@@ -1,0 +1,17 @@
+{
+  "codex_id": 1016770,
+  "title": "Ministerieel besluit van 2008-04-25 tot wijziging van het ministerieel besluit van 13 juli 2007 tot bepaling van de kwalificatiebewijzen voor begeleiders en leidinggevenden in initiatieven voor buitenschoolse opvang",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1016770/VolledigDocument?datum=2008-05-01",
+  "source_sha256": "b4b04aa95ea3d100e06ac710b2e012daeba9fbb447aa947235eceabdf847064b",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1016770&param=informatie",
+  "as_of": "2008-05-01",
+  "made": "2008-04-25",
+  "gazette": "2008-05-15",
+  "numac": 2008201649,
+  "document_start": "2008-05-01",
+  "document_end": null,
+  "in_force": "2008-05-01",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2008-05-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
