@@ -134,6 +134,10 @@ In artikel VI.9.9., § 1, van het decreet van 19 maart 2004 betreffende de recht
 
 ## HOOFDSTUK XXI Tewerkstelling
 
+### ART. 76.
+
+In artikel 11 van het decreet van 17 maart 1998 houdende diverse beleidsbepalingen, gewijzigd bij het decreet van 8 december 2000 houdende diverse bepalingen, worden § 3 en § 4 vervangen door wat volgt :<br />« § 3. De Vlaamse Regering bepaalt de organisaties die tijdelijke werkervaringsplaatsen kunnen inrichten en de categorieën van niet-werkende werkzoekenden die in deze werkervaringsplaatsen kunnen worden tewerkgesteld.<br /><br />§ 4. De Vlaamse Regering bepaalt de organisaties waaraan contingenten van werkervaringsplaatsen kunnen worden toegewezen. Deze organisaties waarborgen de begeleiding en de opleiding van de werkzoekenden en stellen die werkzoekenden ter beschikking van andere organisaties als bedoeld in § 3. ».<br /><br />
+
 ## HOOFDSTUK XXII Personen met een arbeidshandicap
 
 ## HOOFDSTUK XXIII Leefmilieu en energie
