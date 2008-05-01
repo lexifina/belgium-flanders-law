@@ -14,7 +14,7 @@
 
 ### ART. 3.
 
-§ 1. Na ontvangst van de aanvraag stuurt K&G onmiddellijk een ontvangstmelding aan het organiserend bestuur, en brengt het organiserend bestuur in kennis van eventuele opmerkingen.<br /><br />§ 2. De aanvraag tot een principieel akkoord verleent de door K&G aangestelde ambtenaren het recht om de voorziening te inspecteren.<br /><br />§ 3. Vanaf de dag dat het organiserend bestuur in kennis gebracht is van eventuele opmerkingen beschikt het over maximaal dertig kalenderdagen om die opmerkingen te beantwoorden.<br /><br />§ 4. Binnen negentig kalenderdagen na het afronden van de procedurestap, vermeld in artikel 3, § 3, wordt het dossier voor advies voorgelegd aan het, Provinciaal Comité in kwestie, en nemen de beheerinstanties van K&G een beslissing.
+§ 1. Na ontvangst van de aanvraag stuurt K&G onmiddellijk een ontvangstmelding aan het organiserend bestuur, en brengt het organiserend bestuur in kennis van eventuele opmerkingen.<br /><br />§ 2. De aanvraag tot een principieel akkoord verleent de door K&G aangestelde ambtenaren het recht om de voorziening te inspecteren.<br /><br />§ 3. Vanaf de dag dat het organiserend bestuur in kennis gebracht is van eventuele opmerkingen beschikt het over maximaal dertig kalenderdagen om die opmerkingen te beantwoorden.<br /><br />§ 4. Kind en Gezin beslist uiterlijk negentig dagen na het afronden van de procedurestap, vermeld in § 1. Als die termijn gedeeltelijk of geheel in de maand juli of augustus valt, wordt die termijn met dertig dagen verlengd.
 
 ### ART. 4.
 
