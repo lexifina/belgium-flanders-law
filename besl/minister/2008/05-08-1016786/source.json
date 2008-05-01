@@ -1,0 +1,17 @@
+{
+  "codex_id": 1016786,
+  "title": "Ministerieel besluit van 2008-05-08 tot wijziging van het ministerieel besluit van 12 juni 2001 houdende vaststelling van de procedure tot het verlenen, het verlengen, het weigeren of het intrekken van een principieel akkoord, een erkenning en subsidiëring van kinderdagverblijven en diensten voor opvanggezinnen",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1016786/VolledigDocument?datum=2008-05-01",
+  "source_sha256": "07188dbe8b59cddd78899cbc9c241c9ad3c983fe6c121994c2e06e78f572e5d0",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1016786&param=informatie",
+  "as_of": "2008-05-01",
+  "made": "2008-05-08",
+  "gazette": "2008-05-27",
+  "numac": 2008201765,
+  "document_start": "2008-05-01",
+  "document_end": null,
+  "in_force": "2008-05-01",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2008-05-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
