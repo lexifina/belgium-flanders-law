@@ -2,16 +2,16 @@
   "codex_id": 1014957,
   "title": "Besluit van de Vlaamse Regering van 2006-06-23 betreffende de organisatie van tijdelijke projecten in het basis- en secundair onderwijs",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1014957/VolledigDocument?datum=2006-03-15",
-  "source_sha256": "db2d052a80209d326d3d1b1d5e3910ac1344fbc7882ee079259c3b8eae2833c2",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1014957/VolledigDocument?datum=2008-05-01",
+  "source_sha256": "26205ac78451c9698b3da44f33fc042445d2cbcc4e6dd233eb1fd75782651c51",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1014957&param=informatie",
-  "as_of": "2006-03-15",
+  "as_of": "2008-05-01",
   "made": "2006-06-23",
   "gazette": "2006-09-18",
   "numac": 2006036352,
   "document_start": "2005-03-15",
   "document_end": "2008-08-31",
-  "in_force": "2006-03-15",
-  "article_versions": 33,
-  "record_form": "consolidated version as in force on 2006-03-15; future article versions excluded; article text as the API gives it"
+  "in_force": "2008-05-01",
+  "article_versions": 34,
+  "record_form": "consolidated version as in force on 2008-05-01; future article versions excluded; article text as the API gives it"
 }
