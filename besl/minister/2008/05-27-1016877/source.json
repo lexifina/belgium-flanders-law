@@ -1,0 +1,17 @@
+{
+  "codex_id": 1016877,
+  "title": "Ministerieel besluit van 2008-05-27 tot wijziging van de samenstelling van de Technische Commissie Brandveiligheid voor de logiesverstrekkende bedrijven, de Technische Commissie Brandveiligheid voor de openluchtrecreatieve verblijven en de Technische Commissie Brandveiligheid voor \"Toerisme voor Allen\" verblijven",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1016877/VolledigDocument?datum=2008-05-05",
+  "source_sha256": "019e4cf39383a1ef8db7ef4a5692212db483616679a6dabdff74e0275d9c403f",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1016877&param=informatie",
+  "as_of": "2008-05-05",
+  "made": "2008-05-27",
+  "gazette": "2008-06-12",
+  "numac": 2008202022,
+  "document_start": "2008-05-05",
+  "document_end": null,
+  "in_force": "2008-05-05",
+  "article_versions": 6,
+  "record_form": "consolidated version as in force on 2008-05-05; oldest version available; future article versions excluded; article text as the API gives it"
+}
