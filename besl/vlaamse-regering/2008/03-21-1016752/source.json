@@ -2,16 +2,16 @@
   "codex_id": 1016752,
   "title": "Besluit van de Vlaamse Regering van 2008-03-21 tot wijziging van het besluit van de Vlaamse Regering van 1 juni 1995 houdende algemene en sectorale bepalingen inzake milieuhygiëne en het besluit van de Vlaamse Regering van 8 december 1998 tot aanduiding van de oppervlaktewateren bestemd voor de productie van drinkwater categorieën A1, A2 en A3, zwemwater, viswater en schelpdierwater, ter omzetting van Richtlijn 2006/7/EG van het Europees Parlement en de Raad van 15 februari 2006 betreffende het beheer van de zwemwaterkwaliteit en tot intrekking van Richtlijn 76/160/EEG",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1016752/VolledigDocument?datum=2008-03-24",
-  "source_sha256": "91a82c6913627c8a26f103b08ecbd48ae41b9b2a4d3cdd8fd3d0feca4f478e5f",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1016752/VolledigDocument?datum=2008-05-15",
+  "source_sha256": "78094a29ccea569b680d557624c40a89838d7fb0adb110281b771e133e9fddd3",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1016752&param=informatie",
-  "as_of": "2008-03-24",
+  "as_of": "2008-05-15",
   "made": "2008-03-21",
   "gazette": "2008-05-05",
   "numac": 2008201412,
   "document_start": "2008-05-15",
   "document_end": null,
-  "in_force": "2008-03-24",
-  "article_versions": 2,
-  "record_form": "consolidated version as in force on 2008-03-24; oldest version available; future article versions excluded; article text as the API gives it"
+  "in_force": "2008-05-15",
+  "article_versions": 15,
+  "record_form": "consolidated version as in force on 2008-05-15; future article versions excluded; article text as the API gives it"
 }
