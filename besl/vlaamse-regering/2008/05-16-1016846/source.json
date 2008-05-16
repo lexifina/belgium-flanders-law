@@ -1,0 +1,17 @@
+{
+  "codex_id": 1016846,
+  "title": "Besluit van de Vlaamse Regering van 2008-05-16 houdende verdeling van het provisioneel krediet tot dekking van de uitgaven in het kader van de uitdagingen op de arbeidsmarkt, inzonderheid de uitvoering van het meerbanenplan",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1016846/VolledigDocument?datum=2008-05-16",
+  "source_sha256": "11fafa3499343cbb9437453dfc6c049007f9116609417123e270a7ec511a4a0a",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1016846&param=informatie",
+  "as_of": "2008-05-16",
+  "made": "2008-05-16",
+  "gazette": "2008-06-19",
+  "numac": 2008202123,
+  "document_start": "2008-05-16",
+  "document_end": null,
+  "in_force": "2008-05-16",
+  "article_versions": 5,
+  "record_form": "consolidated version as in force on 2008-05-16; oldest version available; future article versions excluded; article text as the API gives it"
+}
