@@ -15,3 +15,7 @@ De Vlaamse regering wordt gemachtigd:<br /><br />1° in te stemmen met de overdr
 ### ART. 4.
 
 Gimvindus kan bij besluit van haar algemene vergadering worden ontbonden. Het tijdstip van de ontbinding, de keuze van de vereffenaars en de wijze van vereffening moeten vooraf worden goedgekeurd door de Vlaamse regering.<br /><br />Het Vlaamse Gewest mag in voorkomend geval, onder de voorwaarden en volgens de procedure, bepaald door de Vlaamse regering, zijn aandelen van Gimvindus overdragen aan een of meer rechtspersonen van de publieke of particuliere sector. In dit geval is artikel 4, eerste lid niet van toepassing en is Gimvindus vanaf de datum van de effectieve realisatie van de overdracht niet langer onderworpen aan de bepalingen van het decreet van 13 juli 1994 betreffende de herstructurering van de GIMV, Gimvindus, VMH, Mijnen en LIM en tot oprichting van het Limburgonds en van de permanente werkgroep Limburg.
+
+### ART. 5.
+
+De bepalingen van het decreet van 13 juli 1994 betreffende de Vlaamse investeringsmaatschappijen blijven van toepassing op Gimvindus tot aan haar ontbinding of tot aan de effectieve realisatie van haar overdracht.
