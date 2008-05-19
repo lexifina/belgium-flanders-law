@@ -1,0 +1,17 @@
+{
+  "codex_id": 1015372,
+  "title": "Decreet van 2006-12-15 betreffende corporate governance en andere bepalingen inzake de investeringsmaatschappijen van de Vlaamse overheid",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1015372/VolledigDocument?datum=2008-05-19",
+  "source_sha256": "664acb9454d4d3f37556c6e6873def5f6ff1aeabbc5c1941ccca641de4f40440",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1015372&param=informatie",
+  "as_of": "2008-05-19",
+  "made": "2006-12-15",
+  "gazette": "2007-01-18",
+  "numac": 2007035011,
+  "document_start": "2008-05-19",
+  "document_end": null,
+  "in_force": "2008-05-19",
+  "article_versions": 9,
+  "record_form": "consolidated version as in force on 2008-05-19; oldest version available; future article versions excluded; article text as the API gives it"
+}
