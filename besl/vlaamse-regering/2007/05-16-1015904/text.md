@@ -424,6 +424,14 @@ Dit besluit treedt in werking met ingang van 17 mei 2007.<br /><br />
 		</tr>
 		<tr>
 			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:black 1pt solid; border-right:black 1pt solid; border-top:#f0f0f0; height:10pt; width:95.6pt">
+			<p>17150</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:10pt; width:348pt">
+			<p>Twijnen en voorbewerken van zijde, met inbegrip van chappezijde, en twijnen en textureren van synthetisch of kunstmatig vezelgaren</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:black 1pt solid; border-right:black 1pt solid; border-top:#f0f0f0; height:10pt; width:95.6pt">
 			<p>17160</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:10pt; width:348pt">
@@ -1091,7 +1099,7 @@ Dit besluit treedt in werking met ingang van 17 mei 2007.<br /><br />
 			<p>25110</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:10pt; width:348pt">
-			<p>Vervaardiging van binnen- en buitenbanden van rubber</p>
+			<p>Vervaardiging van binnen-en buitenbanden van rubber</p>
 			</td>
 		</tr>
 	</tbody>
@@ -1366,7 +1374,7 @@ Dit besluit treedt in werking met ingang van 17 mei 2007.<br /><br />
 			<p>26700</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:10pt; width:348pt">
-			<p>Houwen, bewerken en afwerken van bouw-en siersteen</p>
+			<p>Houwen, bewerken en afwerken van bouw- en siersteen</p>
 			</td>
 		</tr>
 		<tr>
@@ -1374,7 +1382,7 @@ Dit besluit treedt in werking met ingang van 17 mei 2007.<br /><br />
 			<p>26810</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:10pt; width:348pt">
-			<p>Vervaardiging van schuur-, slijp-en polijstmiddelen</p>
+			<p>Vervaardiging van schuur-, slijp- en polijstmiddelen</p>
 			</td>
 		</tr>
 		<tr>
@@ -1383,6 +1391,70 @@ Dit besluit treedt in werking met ingang van 17 mei 2007.<br /><br />
 			</td>
 			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:10pt; width:348pt">
 			<p>Vervaardiging van niet-metaalhoudende minerale produkten, n.e.g.</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:black 1pt solid; border-right:black 1pt solid; border-top:#f0f0f0; height:10pt; width:95.6pt">
+			<p>27100</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:10pt; width:348pt">
+			<p>Vervaardiging van ijzer en staal en van ferro-legeringen</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:black 1pt solid; border-right:black 1pt solid; border-top:#f0f0f0; height:10pt; width:95.6pt">
+			<p>27210</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:10pt; width:348pt">
+			<p>Vervaardiging van gietijzeren buizen</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:black 1pt solid; border-right:black 1pt solid; border-top:#f0f0f0; height:10pt; width:95.6pt">
+			<p>27220</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:10pt; width:348pt">
+			<p>Vervaardiging van stalen buizen</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:black 1pt solid; border-right:black 1pt solid; border-top:#f0f0f0; height:10pt; width:95.6pt">
+			<p>27310</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:10pt; width:348pt">
+			<p>Koudtrekken</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:black 1pt solid; border-right:black 1pt solid; border-top:#f0f0f0; height:10pt; width:95.6pt">
+			<p>27320</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:10pt; width:348pt">
+			<p>Koudwalsen van bandstaal</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:black 1pt solid; border-right:black 1pt solid; border-top:#f0f0f0; height:10pt; width:95.6pt">
+			<p>27330</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:10pt; width:348pt">
+			<p>Koudvervormen en koudfelsen</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:black 1pt solid; border-right:black 1pt solid; border-top:#f0f0f0; height:10pt; width:95.6pt">
+			<p>27340</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:10pt; width:348pt">
+			<p>Draadtrekken</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:black 1pt solid; border-right:black 1pt solid; border-top:#f0f0f0; height:10pt; width:95.6pt">
+			<p>27350</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:10pt; width:348pt">
+			<p>Overige eerste verwerking van staal; productie van niet-EGKS-ferro-legeringen</p>
 			</td>
 		</tr>
 		<tr>
@@ -1455,6 +1527,22 @@ Dit besluit treedt in werking met ingang van 17 mei 2007.<br /><br />
 			</td>
 			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:10pt; width:348pt">
 			<p>Eerste verwerking van overige non-ferro metalen</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:black 1pt solid; border-right:black 1pt solid; border-top:#f0f0f0; height:10pt; width:95.6pt">
+			<p>27510</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:10pt; width:348pt">
+			<p>Gieten van ijzer</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:black 1pt solid; border-right:black 1pt solid; border-top:#f0f0f0; height:10pt; width:95.6pt">
+			<p>27520</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:10pt; width:348pt">
+			<p>Gieten van staal</p>
 			</td>
 		</tr>
 		<tr>
@@ -5096,6 +5184,14 @@ Dit besluit treedt in werking met ingang van 17 mei 2007.<br /><br />
 			</td>
 			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:10pt; width:348pt">
 			<p>Veterinaire diensten</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:black 1pt solid; border-right:black 1pt solid; border-top:#f0f0f0; height:10pt; width:95.6pt">
+			<p>85315</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:10pt; width:348pt">
+			<p>Rust- en verzorgingstehuizen</p>
 			</td>
 		</tr>
 		<tr>
