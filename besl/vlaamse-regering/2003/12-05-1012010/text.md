@@ -38,7 +38,7 @@ De Vlaamse regering machtigt de minister om in afwachting van de aanwerving van 
 
 ### ART. 10.
 
-§ 1. De in artikel 9 bedoelde bevoegdheid heeft betrekking op:<br /><br />1° de handelingen en uitgaven voor de aankoop, de huur en de reservering van kantoorruimte, materiaal en daarmee verband houdende diensten;<br /><br />2° het aangaan van verbintenissen en het verrichten van daaraan verbonden uitgaven inzake vervoers-, verzendings- en verplaatsingskosten, studies, softwareontwikkelingen, publicaties en adviesverstrekking, met inbegrip van diensten voor personeelsselectie en ondersteunende diensten.<br /><br />§ 2. De minister kan de bevoegdheid in paragraaf 1 geheel of gedeeltelijk verder delegeren aan de directeur-generaal van de administratie Milieu-, Natuur-, Land- en Waterbeleid van het ministerie van de Vlaamse Gemeenschap.
+§ 1. De in artikel 9 bedoelde bevoegdheid heeft betrekking op:<br />1° de handelingen en uitgaven voor de aankoop, de huur en de reservering van kantoorruimte, materiaal en daarmee verband houdende diensten;<br />2° het aangaan van verbintenissen en het verrichten van daaraan verbonden uitgaven inzake vervoers-, verzendings- en verplaatsingskosten, studies, softwareontwikkelingen, publicaties en adviesverstrekking, met inbegrip van diensten voor personeelsselectie en ondersteunende diensten.<br /><br />§ 2. De minister kan de bevoegdheid in paragraaf 1 geheel of gedeeltelijk verder delegeren aan de Vlaamse Milieumaatschappij.
 
 ### ART. 11.
 

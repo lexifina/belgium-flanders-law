@@ -2,16 +2,16 @@
   "codex_id": 1012010,
   "title": "Besluit van de Vlaamse Regering van 2003-12-05 houdende de vaststelling van de nadere regels voor de aanwerving van de leden van het dagelijks bestuur, de onverenigbaarheden voor de leden van het dagelijks bestuur en de zetel van de reguleringsinstantie bedoeld in het decreet betreffende water bestemd voor menselijke aanwending",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1012010/VolledigDocument?datum=2006-06-01",
-  "source_sha256": "5e238e3f03b2f5951e4c4da25e4220bd383aec2faa85061699c6b56a03ee3105",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1012010/VolledigDocument?datum=2008-05-21",
+  "source_sha256": "9ba3390bf592423020c92b02289b30313861a24b74ff83498cfe7dad864fa79d",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1012010&param=informatie",
-  "as_of": "2006-06-01",
+  "as_of": "2008-05-21",
   "made": "2003-12-05",
   "gazette": "2004-01-29",
   "numac": 2004035084,
   "document_start": "2003-07-22",
   "document_end": null,
-  "in_force": "2006-06-01",
+  "in_force": "2008-05-21",
   "article_versions": 12,
-  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2008-05-21; future article versions excluded; article text as the API gives it"
 }
