@@ -2,16 +2,16 @@
   "codex_id": 1002411,
   "title": "Besluit van de Vlaamse Regering van 1991-10-16 betreffende de medewerking van [de Openbare Vlaamse Afvalstoffenmaatschappij] aan de inning van gemeentelijke opcentiemen op sommige milieuheffingen",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1002411/VolledigDocument?datum=2008-02-21",
-  "source_sha256": "b2ff519de1878cbdb29dbd7c03a566a0be93b07723954642a30a0e4f46a09434",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1002411/VolledigDocument?datum=2008-05-21",
+  "source_sha256": "613c0af9579146bd10cf862d50ccdff045d14c67145258758d996b688491eb54",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1002411&param=informatie",
-  "as_of": "2008-02-21",
+  "as_of": "2008-05-21",
   "made": "1991-10-16",
   "gazette": "1991-11-27",
   "numac": 1991036524,
   "document_start": null,
   "document_end": null,
-  "in_force": "2008-02-21",
+  "in_force": "2008-05-21",
   "article_versions": 5,
-  "record_form": "consolidated version as in force on 2008-02-21; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2008-05-21; future article versions excluded; article text as the API gives it"
 }

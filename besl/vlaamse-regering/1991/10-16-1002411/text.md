@@ -2,7 +2,7 @@
 
 ### ART. 1.
 
-De gemeenten die besluiten tot de heffing van opcentiemen op de milieuheffingen ingesteld door art. 47, § 7, van het decreet van 2 juli 1981 betreffende het beheer van afvalstoffen gewijzigd bij het decreet van 21 december 1990, zenden met een ter post aangetekend schrijven, uiterlijk op 31 december van het jaar voorafgaand aan het jaar waarop de in voormeld art. 47, § 7 bedoelde opcentiemen betrekking hebben een voor éénsluidend verklaard afschrift van het desbetreffende gemeenteraadsbesluit aan de Openbare Afvalstoffenmaatschappij voor het Vlaamse Gewest. Dat besluit vermeldt duidelijk het aantal opcentiemen met een maximum van 20, dat voor het volgend jaar wordt geheven en bepaalt dat de gemeente een beroep doet op de medewerking van de Openbare Afvalstoffenmaatschappij voor het Vlaamse Gewest met het oog op de invordering van de opcentiemen.
+De gemeenten die besluiten tot de heffing van opcentiemen op de milieuheffingen ingesteld door art. 47, § 7, van het decreet van 2 juli 1981 betreffende het beheer van afvalstoffen gewijzigd bij het decreet van 21 december 1990, zenden met een ter post aangetekend schrijven, uiterlijk op 31 december van het jaar voorafgaand aan het jaar waarop de in voormeld art. 47, § 7 bedoelde opcentiemen betrekking hebben een voor éénsluidend verklaard afschrift van het desbetreffende gemeenteraadsbesluit aan de Openbare Vlaamse Afvalstoffenmaatschappij. Dat besluit vermeldt duidelijk het aantal opcentiemen met een maximum van 20, dat voor het volgend jaar wordt geheven en bepaalt dat de gemeente een beroep doet op de medewerking van de Openbare Vlaamse Afvalstoffenmaatschappij met het oog op de invordering van de opcentiemen.
 
 ### ART. 2.
 
@@ -10,7 +10,7 @@ Het bedrag van de gemeentelijke opcentiemen op de geïnde milieuheffingen, met i
 
 ### ART. 3.
 
-Na afloop van elk kalenderjaar zendt de Openbare Afvalstoffenmaatschappij voor het Vlaamse Gewest aan elke gemeente die opcentiemen op de milieuheffingen heft, een lijst met vermelding van:<br /><br />1° de naam en het adres van de heffingsplichtigen die op het grondgebied van de gemeente gevestigd zijn;<br /><br />2° per heffingsplichtige, de hoeveelheid afvalstoffen waarvoor de milieuheffingen werden betaald;<br /><br />3° per heffingsplichtige, het totaal van de geïnde heffingen;<br /><br />4° de totale opbrengst van de opcentiemen die, op basis van de inningen, aan de gemeente toekomt;<br /><br />5° het bedrag van de aangerekende inningskosten en het bedrag dat aan de gemeente werd gestort.
+Na afloop van elk kalenderjaar zendt de Openbare Vlaamse Afvalstoffenmaatschappij aan elke gemeente die opcentiemen op de milieuheffingen heft, een lijst met vermelding van:<br />1° de naam en het adres van de heffingsplichtigen die op het grondgebied van de gemeente gevestigd zijn;<br />2° per heffingsplichtige, de hoeveelheid afvalstoffen waarvoor de milieuheffingen werden betaald;<br />3° per heffingsplichtige, het totaal van de geïnde heffingen;<br />4° de totale opbrengst van de opcentiemen die, op basis van de inningen, aan de gemeente toekomt;<br />5° het bedrag van de aangerekende inningskosten en het bedrag dat aan de gemeente werd gestort.
 
 ### ART. 4.
 
