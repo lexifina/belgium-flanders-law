@@ -2,16 +2,16 @@
   "codex_id": 1011903,
   "title": "Besluit van de Vlaamse Regering van 2003-10-10 tot vaststelling van de bijzondere regelen inzake de erkenning en de subsidiëring van de Milieu- en Natuurverenigingen",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1011903/VolledigDocument?datum=2006-06-01",
-  "source_sha256": "293f8d37ac0a231f137570aaf50ea01d18800130941bf95d60ccf5aedb19f29e",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1011903/VolledigDocument?datum=2008-05-21",
+  "source_sha256": "5c77f4e0cbea22fe5ada8bd9b682182a7ded4c2a6cac300b94eaca699241c23d",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1011903&param=informatie",
-  "as_of": "2006-06-01",
+  "as_of": "2008-05-21",
   "made": "2003-10-10",
   "gazette": "2003-12-10",
   "numac": 2003036141,
   "document_start": "2003-10-10",
   "document_end": "2015-12-31",
-  "in_force": "2006-06-01",
+  "in_force": "2008-05-21",
   "article_versions": 27,
-  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2008-05-21; future article versions excluded; article text as the API gives it"
 }
