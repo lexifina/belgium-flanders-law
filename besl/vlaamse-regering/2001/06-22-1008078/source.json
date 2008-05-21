@@ -2,16 +2,16 @@
   "codex_id": 1008078,
   "title": "Besluit van de Vlaamse Regering van 2001-06-22 tot aanwijzing van de bevoegde diensten in het Vlaams Gewest ter uitvoering van het samenwerkingsakkoord van 21 juni 1999 gesloten tussen de Federale Staat, het Vlaams Gewest, het Waals Gewest en het Brussels Hoofdstedelijk Gewest betreffende de beheersing van de gevaren van zware ongevallen waarbij gevaarlijke stoffen zijn betrokken",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1008078/VolledigDocument?datum=2006-06-01",
-  "source_sha256": "ec0199ec95b65080fb994e79c7f5fb712a1146bfdccc69d0a90c7e1acef02764",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1008078/VolledigDocument?datum=2008-05-21",
+  "source_sha256": "ae8c7cea587b19d492c2d53356236a9635e0a7b22d868501cd1395d2b333c33b",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1008078&param=informatie",
-  "as_of": "2006-06-01",
+  "as_of": "2008-05-21",
   "made": "2001-06-22",
   "gazette": "2001-07-19",
   "numac": 2001035794,
   "document_start": null,
   "document_end": null,
-  "in_force": "2006-06-01",
+  "in_force": "2008-05-21",
   "article_versions": 7,
-  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2008-05-21; future article versions excluded; article text as the API gives it"
 }
