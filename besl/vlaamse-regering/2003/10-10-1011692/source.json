@@ -2,16 +2,16 @@
   "codex_id": 1011692,
   "title": "Besluit van de Vlaamse Regering van 2003-10-10 tot vaststelling van de bijzondere regelen inzake de subsidiëring van projecten inzake duurzaam milieu- en natuurbeleid",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1011692/VolledigDocument?datum=2006-06-01",
-  "source_sha256": "22052c3f54f53abf6512414187e6539da0668da00b5efb4522d17092395722fe",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1011692/VolledigDocument?datum=2008-05-21",
+  "source_sha256": "2636f3982e4d556d9f1e4687ca17917b63775da644e7ed39aa2e4cc5c66dd612",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1011692&param=informatie",
-  "as_of": "2006-06-01",
+  "as_of": "2008-05-21",
   "made": "2003-10-10",
   "gazette": "2003-11-04",
   "numac": 2003036065,
   "document_start": null,
   "document_end": "2015-12-31",
-  "in_force": "2006-06-01",
+  "in_force": "2008-05-21",
   "article_versions": 14,
-  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2008-05-21; future article versions excluded; article text as the API gives it"
 }
