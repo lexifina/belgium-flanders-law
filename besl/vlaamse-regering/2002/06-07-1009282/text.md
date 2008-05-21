@@ -66,7 +66,7 @@ De kopers die een uittreksel van het proces-verbaal van toewijzing of van de akt
 
 ### ART. 16.
 
-Indien andere bosproducten dan hout openbaar worden verkocht, zijn de artikelen 6 tot 15 van overeenkomstige toepassing, behoudens afwijkende bepalingen vastgesteld door het Bosbeheer.
+Indien andere bosproducten dan hout openbaar worden verkocht, zijn de artikelen 6 tot 15 van overeenkomstige toepassing, behoudens afwijkende bepalingen vastgesteld door het Agentschap voor Natuur en Bos.
 
 ## HOOFDSTUK III EXPLOITATIE VAN HOUT
 
@@ -78,19 +78,19 @@ De verplichtingen die bij dit hoofdstuk aan de koper worden opgelegd, gelden ook
 
 ### ART. 18.
 
-De kapvergunning wordt uitgereikt na betaling van de volledig verschuldigde verkoopprijs, of nadat de ontvanger van de verkoper aan de houtvester schriftelijk heeft bevestigd dat het voorschot betaald is en de vereiste waarborgen geleverd werden.
+De kapvergunning wordt uitgereikt na betaling van de volledig verschuldigde verkoopprijs, of nadat de ontvanger van de verkoper aan de aangewezen ambtenaar schriftelijk heeft bevestigd dat het voorschot betaald is en de vereiste waarborgen geleverd werden.
 
 ### ART. 19.
 
-§ 1. De koper zal de naam en het adres van de exploitant(en) aan de boswachter meedelen voordat die aanvangen met werken.<br /><br />§ 2. Als de exploitant de velling of ruiming aanvangt of hervat, verwittigt hij de boswachter daarvan minstens twee werkdagen op voorhand.<br /><br />§ 3. De exploitanten of hun aangestelden moeten, voor ze aanvangen met werken, het lot bezichtigen samen met de boswachter.
+§ 1. De koper zal de naam en het adres van de exploitant(en) aan de aangestelde meedelen voordat die aanvangen met werken.<br /><br />§ 2. Als de exploitant de velling of ruiming aanvangt of hervat, verwittigt hij de aangestelde daarvan minstens twee werkdagen op voorhand.<br /><br />§ 3. De exploitanten of hun aangestelden moeten, voor ze aanvangen met werken, het lot bezichtigen samen met de aangestelde.
 
 ### ART. 20.
 
-Iedereen die hout velt, bewerkt, ruimt of vervoert, moet in het bezit zijn van een kapvergunning of een afschrift ervan. Die vergunning moet steeds voorgelegd kunnen worden aan de boswachter als die laatste daar om vraagt.
+Iedereen die hout velt, bewerkt, ruimt of vervoert, moet in het bezit zijn van een kapvergunning of een afschrift ervan. Die vergunning moet steeds voorgelegd kunnen worden aan de aangestelde als die laatste daar om vraagt.
 
 ### ART. 21.
 
-§ 1. De exploitant is verplicht tijdens de exploitatie de nodige voorzorgsmaatregelen te treffen opdat geen vermijdbare schade aan de voorbehouden bomen, de aanplantingen en natuurlijke zaailingen, de vegetatie, de bodem, de uitrusting en alle andere aanhorigheden van het bos kan ontstaan.<br /><br />§ 2. De exploitant is verplicht de exploitatie te verrichten in overleg met de boswachter. Die kan aanvullende richtlijnen geven en uitzonderingen toestaan op de artikelen 22, 23, § 1, 29, 32, 34 en 35. Telkens als de exploitatie niet zonder schade kan gebeuren, zal de boswachter geraadpleegd worden. De boswachter moet zo spoedig mogelijk verwittigd worden bij schade ingevolge exploitatie.
+§ 1. De exploitant is verplicht tijdens de exploitatie de nodige voorzorgsmaatregelen te treffen opdat geen vermijdbare schade aan de voorbehouden bomen, de aanplantingen en natuurlijke zaailingen, de vegetatie, de bodem, de uitrusting en alle andere aanhorigheden van het bos kan ontstaan.<br /><br />§ 2. De exploitant is verplicht de exploitatie te verrichten in overleg met de aangestelde. Die kan aanvullende richtlijnen geven en uitzonderingen toestaan op de artikelen 22, 23, § 1, 29, 32, 34 en 35. Telkens als de exploitatie niet zonder schade kan gebeuren, zal de aangestelde geraadpleegd worden. De aangestelde moet zo spoedig mogelijk verwittigd worden bij schade ingevolge exploitatie.
 
 ### ART. 22.
 
@@ -98,11 +98,11 @@ Iedereen die hout velt, bewerkt, ruimt of vervoert, moet in het bezit zijn van e
 
 ### ART. 23.
 
-§ 1. De koper is op basis van artikel 71 van het Bosdecreet verplicht alle gemerkte bomen te vellen en te ruimen.<br /><br />§ 2. Voor zover in de bijzondere verkoopvoorwaarden een afwijking is bepaald op de exploitatietermijn kan een gemotiveerde schriftelijke aanvraag tot uitstel, ten minste 14 dagen op voorhand, gericht worden aan het hoofd van het Bosbeheer of zijn gedelegeerde, die aanvullende voorwaarden kan opleggen. Louter door zijn aanvraag verplicht de koper zich tot het betalen van de door het Bosbeheer vastgestelde vergoeding, overeenkomstig artikel 45. Als de exploitant door overmacht of uitzonderlijke omstandigheden niet bij machte is de exploitatie binnen de vooropgestelde termijn uit te voeren, kan het hoofd van het Bosbeheer of zijn gedelegeerde beslissen de in artikel 45 vastgestelde vergoeding niet aan te rekenen.
+§ 1. De koper is op basis van artikel 71 van het Bosdecreet verplicht alle gemerkte bomen te vellen en te ruimen.<br /><br />§ 2. Voor zover in de bijzondere verkoopvoorwaarden een afwijking is bepaald op de exploitatietermijn kan een gemotiveerde schriftelijke aanvraag tot uitstel, ten minste 14 dagen op voorhand, gericht worden aan het hoofd van het Agentschap voor Natuur en Bos of zijn gedelegeerde, die aanvullende voorwaarden kan opleggen. Louter door zijn aanvraag verplicht de koper zich tot het betalen van de door het Agentschap voor Natuur en Bos vastgestelde vergoeding, overeenkomstig artikel 45. Als de exploitant door overmacht of uitzonderlijke omstandigheden niet bij machte is de exploitatie binnen de vooropgestelde termijn uit te voeren, kan het hoofd van het Agentschap voor Natuur en Bos of zijn gedelegeerde beslissen de in artikel 45 vastgestelde vergoeding niet aan te rekenen.
 
 ### ART. 24.
 
-§ 1. De houtvester kan het ruimen of de toegang tot bepaalde bestanden en wegen tijdelijk verbieden ingevolge weersomstandigheden of andere uitzonderlijke omstandigheden of activiteiten.<br /><br />§ 2. In geval van waardevolle wetenschappelijke waarnemingen kan de houtvester tijdelijk de exploitatie verbieden op een bepaalde plaats.
+§ 1. De aangewezen ambtenaar kan het ruimen of de toegang tot bepaalde bestanden en wegen tijdelijk verbieden ingevolge weersomstandigheden of andere uitzonderlijke omstandigheden of activiteiten.<br /><br />§ 2. In geval van waardevolle wetenschappelijke waarnemingen kan de aangewezen ambtenaar tijdelijk de exploitatie verbieden op een bepaalde plaats.
 
 ### ART. 25.
 
@@ -112,7 +112,7 @@ Als de exploitant bomen wil laten vallen op of ruimen over aangrenzende terreine
 
 ### ART. 26.
 
-§ 1. Bomen die met een pijl zijn gemerkt, moeten geveld worden in de richting van de pijl. De boswachter moet vooraf verwittigd worden van de velling.<br /><br />§ 2. Bomen of kruinen, gemerkt met de letter "V", moeten gespaard worden, zelfs indien ze met de hamer gemerkt zijn. Ze moeten onaangeroerd blijven. Bij twijfel zal de boswachter geraadpleegd worden.<br /><br />§ 3. Bomen die met de letter "K" zijn gemerkt moeten voor de velling onttakt worden. Ze zullen in de catalogus worden vermeld.
+§ 1. Bomen die met een pijl zijn gemerkt, moeten geveld worden in de richting van de pijl. De aangestelder moet vooraf verwittigd worden van de velling.<br /><br />§ 2. Bomen of kruinen, gemerkt met de letter "V", moeten gespaard worden, zelfs indien ze met de hamer gemerkt zijn. Ze moeten onaangeroerd blijven. Bij twijfel zal de aangestelde geraadpleegd worden.<br /><br />§ 3. Bomen die met de letter "K" zijn gemerkt moeten voor de velling onttakt worden. Ze zullen in de catalogus worden vermeld.
 
 ### ART. 27.
 
@@ -134,7 +134,7 @@ Bij de velling kan de verkoper kosteloos zaden en kegels oogsten, zonder dat de 
 
 ### ART. 31.
 
-De schouwing gebeurt onder de verantwoordelijkheid van de houtvester.
+De schouwing gebeurt onder de verantwoordelijkheid van de aangewezen ambtenaar.
 
 ## AFDELING 4 RUIMING EN TRANSPORT
 
@@ -144,11 +144,11 @@ Na de velling moeten de takken worden gespreid zodat ze de groei van de verjongi
 
 ### ART. 33.
 
-Bij de ruiming moeten die tractoren of tuigen gebruikt worden die door hun gewicht, hun afmetingen of hun werkwijze de minste schade aan het bosbestand, de flora, de fauna of de bodem veroorzaken. Daartoe moet de koper of exploitant voor de aanvang van de exploitatie zijn tuigen of tractoren laten goedkeuren door de houtvester.
+Bij de ruiming moeten die tractoren of tuigen gebruikt worden die door hun gewicht, hun afmetingen of hun werkwijze de minste schade aan het bosbestand, de flora, de fauna of de bodem veroorzaken. Daartoe moet de koper of exploitant voor de aanvang van de exploitatie zijn tuigen of tractoren laten goedkeuren door de aangewezen ambtenaar.
 
 ### ART. 34.
 
-§ 1. Het ruimen naar de wegen moet langs het minst schadelijke tracé gebeuren. De boswachter kan een verplicht te volgen tracé opleggen. Het opgelegde tracé kan ook in de catalogus vermeld staan.<br /><br />§ 2. De lading en/of de lengte van de getrokken stamstukken moeten aangepast zijn aan het gebruikte ruimingsmiddel en aan de terreinomstandigheden.<br /><br />§ 3. Het is verboden diepe rij- of sleepsporen te maken. Als dat, ondanks de genomen voorzorgsmaatregelen, toch zou gebeuren, moet de beschadigde bodem hersteld worden volgens de aanwijzingen van de boswachter.
+§ 1. Het ruimen naar de wegen moet langs het minst schadelijke tracé gebeuren. De aangestelde kan een verplicht te volgen tracé opleggen. Het opgelegde tracé kan ook in de catalogus vermeld staan.<br /><br />§ 2. De lading en/of de lengte van de getrokken stamstukken moeten aangepast zijn aan het gebruikte ruimingsmiddel en aan de terreinomstandigheden.<br /><br />§ 3. Het is verboden diepe rij- of sleepsporen te maken. Als dat, ondanks de genomen voorzorgsmaatregelen, toch zou gebeuren, moet de beschadigde bodem hersteld worden volgens de aanwijzingen van de aangestelde.
 
 ### ART. 35.
 
@@ -160,11 +160,11 @@ Het laten slippen van de wielen tijdens het ruimen is verboden.
 
 ### ART. 37.
 
-De boswachter wijst de stapelplaatsen aan. Het is verboden stammen of hout op andere plaatsen te stapelen. De stapelplaatsen kunnen eveneens in de catalogus vermeld worden.
+De aangestelde wijst de stapelplaatsen aan. Het is verboden stammen of hout op andere plaatsen te stapelen. De stapelplaatsen kunnen eveneens in de catalogus vermeld worden.
 
 ### ART. 38.
 
-Het transport van het hout zal gebeuren langs de wegen en plaatsen, aangegeven door de boswachter, zoals bepaald in artikel 70 van het Bosdecreet.
+Het transport van het hout zal gebeuren langs de wegen en plaatsen, aangegeven door de aangestelde, zoals bepaald in artikel 70 van het Bosdecreet.
 
 ### ART. 39.
 
@@ -174,21 +174,21 @@ De snelheid van gemotoriseerde voertuigen en werktuigen is in het bos en op de b
 
 ### ART. 40.
 
-Bij overtreding van een bepaling uit de algemene of bijzondere verkoopvoorwaarden die betrekking heeft op de exploitatie, kan het Bosbeheer, zelfs mondeling ter plaatse, het bevel geven de strijdige handeling stop te zetten, onverminderd de mogelijkheid tot het opstellen van een proces-verbaal.
+Bij overtreding van een bepaling uit de algemene of bijzondere verkoopvoorwaarden die betrekking heeft op de exploitatie, kan het Agentschap voor Natuur en Bos, zelfs mondeling ter plaatse, het bevel geven de strijdige handeling stop te zetten, onverminderd de mogelijkheid tot het opstellen van een proces-verbaal.
 
 ## AFDELING 6 AANSPRAKELIJKHEID
 
 ### ART. 41.
 
-Indien de nodige voorzorgsmaatregelen niet zijn genomen of indien de algemene of de bijzondere verkoopvoorwaarden niet zijn nageleefd, en indien daardoor materiële schade is ontstaan ingevolge de exploitatie, zijn de koper, de borg en de exploitanten hoofdelijk gehouden tot het herstel in natura of het betalen van een schadevergoeding. De verkoper kan voorzien in het herstel in natura op hun kosten, onder meer door het laten uitvoeren van de nodige werkzaamheden. Schade aan voorbehouden bomen wordt geraamd door de houtvester. Hij bepaalt ook de wijze van herstel in natura.
+Indien de nodige voorzorgsmaatregelen niet zijn genomen of indien de algemene of de bijzondere verkoopvoorwaarden niet zijn nageleefd, en indien daardoor materiële schade is ontstaan ingevolge de exploitatie, zijn de koper, de borg en de exploitanten hoofdelijk gehouden tot het herstel in natura of het betalen van een schadevergoeding. De verkoper kan voorzien in het herstel in natura op hun kosten, onder meer door het laten uitvoeren van de nodige werkzaamheden. Schade aan voorbehouden bomen wordt geraamd door de aangewezen ambtenaar. Hij bepaalt ook de wijze van herstel in natura.
 
 ### ART. 42.
 
-Het Bosbeheer kan in geen geval aansprakelijk worden gesteld voor eventuele schade aan derden, aangebracht ingevolge de bezichtiging, de exploitatie, de ruiming of het transport.
+Het Agentschap voor Natuur en Bos kan in geen geval aansprakelijk worden gesteld voor eventuele schade aan derden, aangebracht ingevolge de bezichtiging, de exploitatie, de ruiming of het transport.
 
 ### ART. 43.
 
-Het Bosbeheer en de verkoper zijn niet aansprakelijk voor eventuele beschadiging of diefstal van hout, dat reeds geveld, maar nog niet geruimd of getransporteerd is.
+Het Agentschap voor Natuur en Bos en de verkoper zijn niet aansprakelijk voor eventuele beschadiging of diefstal van hout, dat reeds geveld, maar nog niet geruimd of getransporteerd is.
 
 ### ART. 44.
 
@@ -210,7 +210,7 @@ De bijzondere verkoopvoorwaarden worden opgenomen in de catalogus.
 
 ### ART. 47.
 
-§ 1. Voor elk lot wordt, overeenkomstig artikel 6, de wijze van verkoop bepaald in de bijzondere verkoopvoorwaarden.<br /><br />§ 2. De bijzondere verkoopvoorwaarden kunnen de artikelen 4 tot 45 aanvullen. Ze kunnen enkel afwijken van de artikelen 8 en 12, § 2, op voorwaarde dat het gaat om de verkoop van hout van een ander openbaar bos dan een domeinbos, en dat ze vooraf zijn goedgekeurd door het Bosbeheer.
+§ 1. Voor elk lot wordt, overeenkomstig artikel 6, de wijze van verkoop bepaald in de bijzondere verkoopvoorwaarden.<br /><br />§ 2. De bijzondere verkoopvoorwaarden kunnen de artikelen 4 tot 45 aanvullen. Ze kunnen enkel afwijken van de artikelen 8 en 12, § 2, op voorwaarde dat het gaat om de verkoop van hout van een ander openbaar bos dan een domeinbos, en dat ze vooraf zijn goedgekeurd door het Agentschap voor Natuur en Bos.
 
 ## AFDELING 3 EXPLOITATIE
 
@@ -221,6 +221,10 @@ De vellings- en ruimingstermijnen worden voor elk lot vastgesteld in de bijzonde
 ### ART. 49.
 
 De bijzondere verkoopvoorwaarden kunnen bepalingen bevatten die alleen van toepassing zijn op een of meer loten of delen ervan.
+
+### ART. 49bis
+
+Het hoofd van het Agentschap kan de bijlagen 1, 2, 3 en 4 bij dit besluit vaststellen, vervangen of wijzigen.
 
 ## HOOFDSTUK V SLOTBEPALINGEN
 
