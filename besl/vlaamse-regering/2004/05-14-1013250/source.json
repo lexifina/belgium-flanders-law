@@ -2,16 +2,16 @@
   "codex_id": 1013250,
   "title": "Besluit van de Vlaamse Regering van 2004-05-14 inzake energieplanning voor ingedeelde energie-intensieve inrichtingen en tot wijziging van het besluit van de Vlaamse regering van 6 februari 1991 houdende vaststelling van het Vlaams reglement betreffende de milieuvergunning en het besluit van de Vlaamse regering van 1 juni 1995 houdende de algemene en sectorale bepalingen inzake milieuhygiëne",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1013250/VolledigDocument?datum=2008-05-14",
-  "source_sha256": "8a191f0245d6fd53f65d6616669c4411f892846146177cab717f7ad4369ccded",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1013250/VolledigDocument?datum=2008-05-21",
+  "source_sha256": "6307ceb76a6982734386f1705ec126e63b3afd513d9d272bdbb63ed45733b958",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1013250&param=informatie",
-  "as_of": "2008-05-14",
+  "as_of": "2008-05-21",
   "made": "2004-05-14",
   "gazette": "2004-07-16",
   "numac": 2004036172,
   "document_start": "2004-10-14",
   "document_end": "2010-12-31",
-  "in_force": "2008-05-14",
+  "in_force": "2008-05-21",
   "article_versions": 21,
-  "record_form": "consolidated version as in force on 2008-05-14; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2008-05-21; future article versions excluded; article text as the API gives it"
 }

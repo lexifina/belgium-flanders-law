@@ -4,7 +4,7 @@
 
 ### ART. 1.
 
-In dit besluit wordt verstaan onder:<br /><br />1° energie-administratie: de afdeling Natuurlijke Rijkdommen en Energie van de administratie Economie van het ministerie van de Vlaamse Gemeenschap;<br /><br />2° energiegebruik: het primair elektriciteitsgebruik en primair energetisch gebruik van energiedragers en niet het non-energetisch gebruik van energiedragers in de vorm van als grondstof ingezette energiedragers;<br /><br />3° specifiek energiegebruik: het energiegebruik per eenheid van product van een bepaalde kwaliteit;<br /><br />4° energie-intensieve inrichting: inrichting met een jaarlijks energiegebruik van tenminste 0,1 PJ.
+In dit besluit wordt verstaan onder:<br />1° energie-administratie: de afdeling Natuurlijke Rijkdommen en Energie;<br />2° energiegebruik: het primair elektriciteitsgebruik en primair energetisch gebruik van energiedragers en niet het non-energetisch gebruik van energiedragers in de vorm van als grondstof ingezette energiedragers;<br />3° specifiek energiegebruik: het energiegebruik per eenheid van product van een bepaalde kwaliteit;<br />4° energie-intensieve inrichting: inrichting met een jaarlijks energiegebruik van tenminste 0,1 PJ.<br />5° de afdeling, bevoegd voor milieuvergunningen : de afdeling Milieuvergunningen van het Departement Leefmilieu, Natuur en Energie, zoals thans bepaald met toepassing van artikel 10 van het besluit van de Vlaamse Regering van 10 oktober 2003 tot regeling van de delegatie van beslissingsbevoegdheden aan de hoofden van de departementen van de Vlaamse ministeries.
 
 ## HOOFDSTUK II ENERGIEPLANNING VOOR INGEDEELDE ENERGIE-INTENSIEVE INRICHTINGEN
 
