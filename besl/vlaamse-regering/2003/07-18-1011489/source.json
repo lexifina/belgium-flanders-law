@@ -2,16 +2,16 @@
   "codex_id": 1011489,
   "title": "Besluit van de Vlaamse Regering van 2003-07-18 betreffende de jacht in het Vlaamse Gewest voor de periode van 1 juli 2003 tot 30 juni 2008",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1011489/VolledigDocument?datum=2006-06-01",
-  "source_sha256": "f7a7869a1f7e6ab23b2002ebe15c84a73b5f1b6ddd7554a512f3d51039ddcc10",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1011489/VolledigDocument?datum=2008-05-21",
+  "source_sha256": "b2a6886e52f5e1ae174c902f4555f01cc012604af0a3d6bf0623b094d5869ed5",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1011489&param=informatie",
-  "as_of": "2006-06-01",
+  "as_of": "2008-05-21",
   "made": "2003-07-18",
   "gazette": "2003-07-28",
   "numac": 2003035848,
   "document_start": "2003-07-01",
   "document_end": "2008-06-30",
-  "in_force": "2006-06-01",
-  "article_versions": 22,
-  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "in_force": "2008-05-21",
+  "article_versions": 23,
+  "record_form": "consolidated version as in force on 2008-05-21; future article versions excluded; article text as the API gives it"
 }
