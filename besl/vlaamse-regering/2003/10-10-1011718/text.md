@@ -6,13 +6,13 @@
 
 ### ART. I 1.
 
-I 1. Onverminderd de bepalingen van het besluit van de Vlaamse regering van 30 juni 2000 houdende de regeling van de rechtspositie van het personeel van sommige Vlaamse openbare instellingen, is dit besluit van toepassing op het personeel van de Openbare Afvalstoffenmaatschappij voor het Vlaamse Gewest.
+I 1. Onverminderd de bepalingen van het besluit van de Vlaamse regering van 30 juni 2000 houdende de regeling van de rechtspositie van het personeel van sommige Vlaamse openbare instellingen, is dit besluit van toepassing op het personeel van de Openbare Vlaamse Afvalstoffenmaatschappij.
 
 ## TITEL 2 ALGEMENE BEPALINGEN
 
 ### ART. I 2.
 
-I 2. Onverminderd de bepalingen van het stambesluit VOI wordt voor de toepassing van dit besluit verstaan onder:<br /><br />1. het stambesluit VOI: het besluit van de Vlaamse regering van 30 juni 2000 houdende de regeling van de rechtspositie van het personeel van sommige Vlaamse openbare instellingen, zoals gewijzigd;<br /><br />2. de instelling: de Openbare Afvalstoffenmaatschappij voor het Vlaamse Gewest;
+Onverminderd de bepalingen van het stambesluit VOI wordt voor de toepassing van dit besluit verstaan onder:<br /><br />1. het stambesluit VOI: het besluit van de Vlaamse regering van 30 juni 2000 houdende de regeling van de rechtspositie van het personeel van sommige Vlaamse openbare instellingen, zoals gewijzigd;<br /><br />2. de instelling: de Openbare Vlaamse Afvalstoffenmaatschappij;
 
 ### ART. I. 3.
 
