@@ -238,7 +238,7 @@ Het afdelingshoofd en de ambtenaren van de dienst heffingen van de afdeling Mest
 
 ### ART. 50.
 
-§ 1. De beroepen bedoeld in artikel 24 van het decreet dienen ingesteld bij de Vlaamse minister, bevoegd voor het leefmilieu.<br /><br />§ 2. De adviescommissie bedoeld in artikel 24 van het decreet bestaat uit:<br /><br />1° een voorzitter, aangesteld in onderling overleg tussen de Vlaamse minister bevoegd voor financiën, de Vlaamse minister bevoegd voor het landbouwbeleid en de Vlaamse minister bevoegd voor het leefmilieu;<br /><br />2° 2 ambtenaren van de Vlaamse Landmaatschappij aangewezen door de Vlaamse minister, bevoegd voor het leefmilieu;<br /><br />3° 1 ambtenaar van de Administratie van financiën en begroting, aangewezen door de Vlaamse minister, bevoegd voor financiën;<br /><br />4° 1 ambtenaar van de administratie Land- en Tuinbouw aangewezen door de Vlaamse minister, bevoegd voor het landbouwbeleid.
+§ 1. De beroepen bedoeld in artikel 24 van het decreet dienen ingesteld bij de Vlaamse minister, bevoegd voor het leefmilieu.<br /><br />§ 2. De adviescommissie bedoeld in artikel 24 van het decreet bestaat uit:<br />1° een voorzitter, aangesteld in onderling overleg tussen de Vlaamse minister bevoegd voor financiën, de Vlaamse minister bevoegd voor het landbouwbeleid en de Vlaamse minister bevoegd voor het leefmilieu;<br />2° 2 ambtenaren van de Vlaamse Landmaatschappij aangewezen door de Vlaamse minister, bevoegd voor het leefmilieu;<br />3° 1 ambtenaar van het Departement Financiën en Begroting, aangewezen door de Vlaamse minister, bevoegd voor financiën;<br />4° 1 ambtenaar van het departement Lanbouw en Visserij, aangewezen door de Vlaamse minister, bevoegd voor het landbouwbeleid.
 
 ### ART. 51.
 
