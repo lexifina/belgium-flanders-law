@@ -2,16 +2,16 @@
   "codex_id": 1013344,
   "title": "Besluit van de Vlaamse Regering van 2004-06-04 houdende vaststelling van de voorwaarden voor de erkenning van Vlaamse opvangcentra voor vogels en wilde dieren en houdende toekenning van subsidies",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1013344/VolledigDocument?datum=2006-06-01",
-  "source_sha256": "1642256ebf2ab019021ea0c8a1a06eaa19a1c09fc1d148c363a1e30568a1cef6",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1013344/VolledigDocument?datum=2008-05-21",
+  "source_sha256": "98259647f0c78d38fdec08ec7a207424951968ae2d539d43ab2e82094a0055d4",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1013344&param=informatie",
-  "as_of": "2006-06-01",
+  "as_of": "2008-05-21",
   "made": "2004-06-04",
   "gazette": "2004-08-24",
   "numac": 2004036372,
   "document_start": null,
   "document_end": "2009-08-31",
-  "in_force": "2006-06-01",
+  "in_force": "2008-05-21",
   "article_versions": 26,
-  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2008-05-21; future article versions excluded; article text as the API gives it"
 }
