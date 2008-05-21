@@ -2,11 +2,11 @@
 
 ### ART. 1.
 
-De kapvergunning, bedoeld in artikel 62 van het bosdecreet van 13 juni 1990, wordt uitgereikt door de houtvester, nadat deze zich ervan vergewist heeft dat de koper voor de betrokken houtverkoop voldaan heeft aan de bepalingen terzake van de algemene en de bijzondere verkoopvoorwaarden.
+De kapvergunning, bedoeld in artikel 62 van het bosdecreet van 13 juni 1990, wordt uitgereikt door de aangewezen ambtenaar, nadat deze zich ervan vergewist heeft dat de koper voor de betrokken houtverkoop voldaan heeft aan de bepalingen terzake van de algemene en de bijzondere verkoopvoorwaarden.
 
 ### ART. 2.
 
-De kapvergunning wordt opgesteld overeenkomstig het model als bijlage bij dit besluit.
+De kapvergunning wordt opgesteld overeenkomstig het model als bijlage bij dit besluit.<br /><br />Het hoofd van het Agentschap kan de bijlage bij dit besluit vaststellen, vervangen of wijzigen.
 
 ### ART. 3.
 
