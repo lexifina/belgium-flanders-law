@@ -2,16 +2,16 @@
   "codex_id": 1007524,
   "title": "Besluit van de Vlaamse Regering van 2000-07-17 houdende vaststelling van de personeelsformatie van het Instituut voor Bosbouw en Wildbeheer",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1007524/VolledigDocument?datum=2006-06-01",
-  "source_sha256": "7f7ee03be694afbe4d31017443c0f5d32db364280754733047ff5935d0586366",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1007524/VolledigDocument?datum=2008-05-21",
+  "source_sha256": "113173d04885b9f866ae05c2e61968d71356acdc0ae410a5c0185077af3e335d",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1007524&param=informatie",
-  "as_of": "2006-06-01",
+  "as_of": "2008-05-21",
   "made": "2000-07-17",
   "gazette": "2000-08-17",
   "numac": 2000035841,
   "document_start": null,
   "document_end": "2008-05-20",
-  "in_force": "2006-06-01",
+  "in_force": "2008-05-21",
   "article_versions": 4,
-  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2008-05-21; future article versions excluded; article text as the API gives it"
 }
