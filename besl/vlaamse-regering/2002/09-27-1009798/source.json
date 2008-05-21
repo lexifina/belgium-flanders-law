@@ -2,16 +2,16 @@
   "codex_id": 1009798,
   "title": "Besluit van de Vlaamse Regering van 2002-09-27 tot uitvoering van artikel 15bis van het decreet van 14 juli 1993 tot oprichting van het Grindfonds en tot regeling van de grindwinning",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1009798/VolledigDocument?datum=2006-06-01",
-  "source_sha256": "8d0c995728e74f2287f9f7960f8af12974a84579ad227ca25c70ddcc57c683c0",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1009798/VolledigDocument?datum=2008-05-21",
+  "source_sha256": "aba2b1dbd54be8b2f09de73fc6fe67526403a05bf3b79d06f5a1547fbf36d108",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1009798&param=informatie",
-  "as_of": "2006-06-01",
+  "as_of": "2008-05-21",
   "made": "2002-09-27",
   "gazette": "2002-11-01",
   "numac": 2002036268,
   "document_start": "2002-09-30",
   "document_end": null,
-  "in_force": "2006-06-01",
+  "in_force": "2008-05-21",
   "article_versions": 7,
-  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2008-05-21; future article versions excluded; article text as the API gives it"
 }
