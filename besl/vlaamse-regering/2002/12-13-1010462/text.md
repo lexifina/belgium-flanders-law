@@ -4,7 +4,7 @@
 
 ### ART. 1.
 
-Voor de toepassing van dit besluit wordt verstaan onder:<br />1° de minister: de Vlaamse minister, bevoegd voor het Leefmilieu en het Waterbeleid;<br />2° nieuwe inrichtingen en waterdistributienetwerken: inrichtingen en waterdistributienetwerken die aangelegd of gewijzigd worden na het inwerking treden van dit besluit;<br />3° het decreet: het decreet van 24 mei 2002 betreffende water, bestemd voor menselijke aanwending;<br />4° de afdeling Water: de afdeling Water van de administratie Milieu-, Natuur-, Land- en Waterbeheer van het departement Leefmilieu en Infrastructuur van het ministerie van de Vlaamse Gemeenschap;<br />5° de gezondheidsinspectie : de afdeling Toezicht Volksgezondheid van het intern verzelfstandigd agentschap Zorg en Gezondheid <br /><br />De definities van het decreet zijn van toepassing op dit besluit.
+Voor de toepassing van dit besluit wordt verstaan onder:<br />1° de minister: de Vlaamse minister, bevoegd voor het Leefmilieu en het Waterbeleid;<br />2° nieuwe inrichtingen en waterdistributienetwerken: inrichtingen en waterdistributienetwerken die aangelegd of gewijzigd worden na het inwerking treden van dit besluit;<br />3° het decreet: het decreet van 24 mei 2002 betreffende water, bestemd voor menselijke aanwending;<br />4° de afdeling Water : de Vlaamse Milieumaatschappij;<br />5° de gezondheidsinspectie : de afdeling Preventie, Eerstelijns- en Thuiszorg van het Agentschap Zorg en Gezondheid van het beleidsdomein Welzijn, Volksgezondheid en Gezin; <br /><br />De definities van het decreet zijn van toepassing op dit besluit.
 
 ### ART. 2.
 
