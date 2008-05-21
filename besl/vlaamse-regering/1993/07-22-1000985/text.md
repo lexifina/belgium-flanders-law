@@ -38,21 +38,21 @@ Behoudens deelname aan activiteiten toegestaan door of krachtens het jachtdecree
 
 ### ART. 8.
 
-§ 1. Voor het occasionele gebruik is geen machtiging vereist, indien het zich beperkt tot één van de volgende activiteiten:<br /><br />1° de werkzaamheden eigen aan de bosgebruiker;<br /><br />2° de regelmatig verpachte jacht, het faunabeheer en de visserij;<br /><br />3° natuurwandelingen onder leiding van natuurgidsen;<br /><br />4° spelen met min-18-jarigen en hun begeleiders in de daartoe door het Bosbeheer of de eigenaar aangewezen speelzones;<br /><br />5° het gebruik van bosvrije oppervlakten, stroken, lig- en speelweiden, met al dan niet recreatieve uitrustingen, voor zover dit plaatsvindt overeenkomstig het reglement op de toegankelijkheid;<br /><br />6° het aanbrengen van wegaanduidingen voor de organisatie van wandelingen die op de opengestelde boswegen plaatsvinden.<br /><br />De zones, bedoeld in het eerste lid, 4°, worden vermeld op de infopanelen aan de hoofdingangen van het bos. Spelen door min-18-jarigen en hun begeleiders buiten deze zones is slechts mogelijk mits toestemming van het Bosbeheer voor de domeinbossen en van de eigenaar voor de overige openbare bossen.<br /><br />De wegaanduidingen bedoeld in het eerste lid, 6° dienen tevens de datum van de wandeling, de organiserende vereniging en naam en adres van de verantwoordelijke te vermelden. Het aanbrengen van de wegaanduidingen mag geen schade aan de bosinfrastructuur of de vegetatie veroorzaken. De wegaanduidingen dienen binnen de 24 uur na de organisatie van de activiteit verwijderd te worden. [ <span class="reference">(verv. B.V.R. 9 maart 1999, art. 5, I: 20 maart 1999)</span> ]<br /><br />§ 2. Andere vormen van occasioneel gebruik zijn onderworpen aan een voorafgaande toestemming van de eigenaar en een voorafgaande en voorwaardelijke machtiging van de woudmeester. Het verzoek daartoe moet tenminste veertien dagen van tevoren worden ingediend.
+§ 1. Voor het occasionele gebruik is geen machtiging vereist, indien het zich beperkt tot één van de volgende activiteiten:<br />1° de werkzaamheden eigen aan de bosgebruiker;<br />2° de regelmatig verpachte jacht, het faunabeheer en de visserij;<br />3° natuurwandelingen onder leiding van natuurgidsen;<br />4° spelen met min-18-jarigen en hun begeleiders in de daartoe door het Agentschap voor Natuur en Bos of de eigenaar aangewezen speelzones;<br />5° het gebruik van bosvrije oppervlakten, stroken, lig- en speelweiden, met al dan niet recreatieve uitrustingen, voor zover dit plaatsvindt overeenkomstig het reglement op de toegankelijkheid;<br />6° het aanbrengen van wegaanduidingen voor de organisatie van wandelingen die op de opengestelde boswegen plaatsvinden.<br /><br />De zones, bedoeld in het eerste lid, 4°, worden vermeld op de infopanelen aan de hoofdingangen van het bos. Spelen door min-18-jarigen en hun begeleiders buiten deze zones is slechts mogelijk mits toestemming van het Agentschap voor Natuur en Bos voor de domeinbossen en van de eigenaar voor de overige openbare bossen.<br /><br />De wegaanduidingen bedoeld in het eerste lid, 6° dienen tevens de datum van de wandeling, de organiserende vereniging en naam en adres van de verantwoordelijke te vermelden. Het aanbrengen van de wegaanduidingen mag geen schade aan de bosinfrastructuur of de vegetatie veroorzaken. De wegaanduidingen dienen binnen de 24 uur na de organisatie van de activiteit verwijderd te worden. <br /><br />§ 2. Andere vormen van occasioneel gebruik zijn onderworpen aan een voorafgaande toestemming van de eigenaar en een voorafgaande en voorwaardelijke machtiging van de woudmeester. Het verzoek daartoe moet tenminste veertien dagen van tevoren worden ingediend.
 
 ### ART. 9.
 
-Om veiligheidsredenen en om redenen van brandgevaar kan de boswachter of de houtvester het boswegennet tijdelijk afsluiten.
+Om veiligheidsredenen en om redenen van brandgevaar kan de aangestelde of de aangewezen ambtenaar het boswegennet tijdelijk afsluiten.
 
 ## HOOFDSTUK III DE TOEGANKELIJKHEID VAN DE DOMEINBOSSEN
 
 ### ART. 10.
 
-De houtvester stel voor elk domeinbos een reglement op dat de toegankelijkheid regelt.<br /><br />Dit reglement moet worden goedgekeurd door de woudmeester. Een uittreksel ervan wordt aan de voornaamste ingangen van het domeinbos opgehangen.
+De aangewezen ambtenaar stel voor elk domeinbos een reglement op dat de toegankelijkheid regelt.<br /><br />Dit reglement moet worden goedgekeurd door de woudmeester. Een uittreksel ervan wordt aan de voornaamste ingangen van het domeinbos opgehangen.
 
 ### ART. 10bis.
 
-Het Bosbeheer bepaalt, na de gemeentelijke Jeugdraad te hebben gehoord, welke domeinbossen of delen ervan permanent of gedurende een vaste periode in het jaar als speelzone voor min-18-jarigen en hun begeleiders ingesteld worden. [ <span class="reference">(ing. B.V.R. 9 maart 1999, art. 6, I: 20 maart 1999)</span> ]
+Het Agentschap voor Natuur en Bos bepaalt, na de gemeentelijke Jeugdraad te hebben gehoord, welke domeinbossen of delen ervan permanent of gedurende een vaste periode in het jaar als speelzone voor min-18-jarigen en hun begeleiders ingesteld worden.
 
 ### ART. 11.
 
@@ -66,7 +66,7 @@ De eigenaar van een openbaar bos, ander dan domeinbos, stelt na advies van de wo
 
 ### ART. 12bis.
 
-De eigenaar bepaalt, na de gemeentelijke Jeugdraad en het Bosbeheer te hebben gehoord, welke delen van zijn bos permanent of gedurende een vaste periode in het jaar als speelzone voor min-18-jarigen en hun begeleiders ingesteld worden. Deze beslissing wordt onverwijld meegedeeld aan het Bosbeheer. [ <span class="reference">(ing. B.V.R. 9 maart 1999, art. 8, I: 20 maart 1999)</span> ]
+De eigenaar bepaalt, na de gemeentelijke Jeugdraad en het Agentschap voor Natuur en Bos te hebben gehoord, welke delen van zijn bos permanent of gedurende een vaste periode in het jaar als speelzone voor min-18-jarigen en hun begeleiders ingesteld worden. Deze beslissing wordt onverwijld meegedeeld aan het Agentschap voor Natuur en Bos.
 
 ### ART. 13.
 
@@ -80,7 +80,7 @@ Voor de activiteiten, vermeld in artikel 11, § 1, is een machtiging van de eige
 
 ### ART. 15.
 
-§ 1. De eigenaar bepaalt, na het Bosbeheer te hebben gehoord, welke delen van zijn bos permanent of gedurende een vaste periode als speelzone voor min-18-jarugen en hun begeleiders ingesteld worden. Deze beslissing wordt onverwijld meegedeeld aan het Bosbeheer. Spelen buiten deze zones is slechts toegestaan na een voorafgaande toestemming van de eigenaar.<br /><br />§ 2. Voor de vormen van occasioneel gebruik, vermeld in artikel 8, §1, is geen machtiging van het Bosbeheer vereist.<br /><br />Andere vormen van occasioneel gebruik dan deze vermeld in artikel 8, § 1 en in § 1, zijn onderworpen aan een voorafgaande toestemming van de eigenaar en een voorafgaande en voorwaardelijke machtiging van de woudmeester. Het verzoek daartoe moet ten minste veertien dagen van tevoren worden ingediend. [ <span class="reference">(verv. B.V.R. 9 maart 1999, art. 11, I: 20 maart 1999)</span> ]
+§ 1. De eigenaar bepaalt, na het Agentschap voor Natuur en Bos te hebben gehoord, welke delen van zijn bos permanent of gedurende een vaste periode als speelzone voor min-18-jarugen en hun begeleiders ingesteld worden. Deze beslissing wordt onverwijld meegedeeld aan het Agentschap voor Natuur en Bos. Spelen buiten deze zones is slechts toegestaan na een voorafgaande toestemming van de eigenaar.<br /><br />§ 2. Voor de vormen van occasioneel gebruik, vermeld in artikel 8, §1, is geen machtiging van het Agentschap voor Natuur en Bos vereist.<br /><br />Andere vormen van occasioneel gebruik dan deze vermeld in artikel 8, § 1 en in § 1, zijn onderworpen aan een voorafgaande toestemming van de eigenaar en een voorafgaande en voorwaardelijke machtiging van de woudmeester. Het verzoek daartoe moet ten minste veertien dagen van tevoren worden ingediend.
 
 ## [HOOFDSTUK VBIS BIJZONDERE BEPALINGEN BETREFFENDE DE RANDGEMEENTEN EN DE TAALGRENSGEMEENTEN (ing. B.V.R. 24 januari 1996, art. 5)]
 
@@ -90,7 +90,7 @@ Voor de activiteiten, vermeld in artikel 11, § 1, is een machtiging van de eige
 
 ### ART. 16.
 
-Het Bosbeheer maakt ten behoeve van de jeugd overzichtskaarten waarop alle speelzones in de Vlaamse bosgebieden vermeld staan. Deze kaarten worden gratis ter beschikking gesteld. [ <span class="reference">(verv. B.V.R. 9 maart 1999, art. 12, I: 20 maart 1999)</span> ]
+Het Agentschap voor Natuur en Bos maakt ten behoeve van de jeugd overzichtskaarten waarop alle speelzones in de Vlaamse bosgebieden vermeld staan. Deze kaarten worden gratis ter beschikking gesteld.
 
 ## HOOFDSTUK VI SLOTBEPALINGEN
 
