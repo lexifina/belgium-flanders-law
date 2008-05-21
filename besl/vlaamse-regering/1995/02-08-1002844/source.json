@@ -2,16 +2,16 @@
   "codex_id": 1002844,
   "title": "Besluit van de Vlaamse Regering van 1995-02-08 tot instelling en organisatie van een Vlaams Impulsprogramma Natuurontwikkeling",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1002844/VolledigDocument?datum=2006-06-01",
-  "source_sha256": "1b4525390657f4bbaded28a61953cde1181cb13d52840e04f0c6b66cda550e13",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1002844/VolledigDocument?datum=2008-05-21",
+  "source_sha256": "67225b32b8ea53636267b2068076f61a14e877fb2272f2e1f18c07210df98740",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1002844&param=informatie",
-  "as_of": "2006-06-01",
+  "as_of": "2008-05-21",
   "made": "1995-02-08",
   "gazette": "1995-06-10",
   "numac": 1995035804,
   "document_start": "1995-06-10",
   "document_end": null,
-  "in_force": "2006-06-01",
+  "in_force": "2008-05-21",
   "article_versions": 24,
-  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2008-05-21; future article versions excluded; article text as the API gives it"
 }
