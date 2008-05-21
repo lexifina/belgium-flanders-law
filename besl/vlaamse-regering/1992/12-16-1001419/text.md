@@ -4,25 +4,41 @@
 
 ### ART. 1.
 
-Verenigingen die het beleid ondersteunen het behoud van de natuurlijke milieus en inzake de voorlichting en de vorming van het publiek om te komen tot een meer ecologisch verantwoord gedrag op het gebied van de bosbouw, de jacht, het faunabeheer te land en te water, kunnen een aanvraag indienen om erkend te worden.<br /><br />Over de erkenning van de verenigingen beslist de Vlaamse minister van Leefmilieu en Huisvesting, hierna "de Vlaamse minister" genoemd.<br /><br />Die verenigingen worden hierna "de vereniging" genoemd.<br /><br />De aanvragen worden behandeld door het bestuur Natuurbehoud en -ontwikkeling van de administratie Milieu, Natuur en Landinrichting van het Departement Leefmilieu en Infrastructuur van het Ministerie van de Vlaamse Gemeenschap, hierna "het bestuur" genoemd.
+Verenigingen die het beleid ondersteunen het behoud van de natuurlijke milieus en inzake de voorlichting en de vorming van het publiek om te komen tot een meer ecologisch verantwoord gedrag op het gebied van de bosbouw, de jacht, het faunabeheer te land en te water, kunnen een aanvraag indienen bij het Agentschap voor Natuur en Bos, hierna het Agentschap te noemen, om erkend te worden.<br /><br />Over de erkenning van de verenigingen beslist het hoofd van het Agentschap.<br /><br />Die verenigingen worden hierna "de vereniging" genoemd.<br /><br />...
 
 ### ART. 2.
 
-Om met het oog op subsidiëring erkend te worden en erkend te blijven, moet de vereniging voldoen aan de volgende voorwaarden:<br /><br />1° de doelstelling en de werking van de vereniging moet worden bepaald door statuten die in het Belgisch Staatsblad werd gepubliceerd;<br /><br />2° de vereniging wordt geleid door een beheerraad die in een algemene vergadering van de leden werd verkozen;<br /><br />3° de vereniging beschikt over een secretariaat en de zetel is gevestigd in het Vlaamse Gewest of in het tweetalig gebied Brussel-Hoofdstad;<br /><br />4° de vereniging geeft een contactblad uit dat tenminste viermaal per jaar verschijnt;<br /><br />5° de vereniging telt tenminste 500 individuele betalende leden;<br /><br />6° tenminste viermaal per jaar wordt een activiteit van enige omvang georganiseerd;<br /><br />7° een boekhouding voeren derwijze dat de controle op de aanwending van eventuele subsidies mogelijk is;<br /><br />8° de vereniging is actief over tenminste een Vlaamse provincie. Zo de vereniging ook buiten het Vlaamse Gewest actief is, moet uit de boekhouding van de vereniging duidelijk blijken dat eventuele subsidies van het Vlaamse Gewest alleen voor activiteiten in dat gewest worden aangewend;<br /><br />9° de vereniging werd op particulier initiatief opgericht en groepeert hoofdzakelijk privé-personen;<br /><br />10° de vereniging is tenminste twee jaar actief in het Vlaamse Gewest;<br /><br />11° de vereniging aanvaardt de controle door ambtenaren van het ministerie van de Vlaamse Gemeenschap op haar boekhouding en op haar werking.
+Om met het oog op subsidiëring erkend te worden en erkend te blijven, moet de vereniging voldoen aan de volgende voorwaarden:<br>
+1° de doelstelling en de werking van de vereniging moet worden bepaald door statuten die in het Belgisch Staatsblad werd gepubliceerd;<br>
+2° de vereniging wordt geleid door een beheerraad die in een algemene vergadering van de leden werd verkozen;<br>
+3° de vereniging beschikt over een secretariaat en de zetel is gevestigd in het Vlaamse Gewest of in het tweetalig gebied Brussel-Hoofdstad;<br>
+4° de vereniging geeft een contactblad uit dat tenminste viermaal per jaar verschijnt;<br>
+5° de vereniging telt tenminste 500 individuele betalende leden;<br>
+6° tenminste viermaal per jaar wordt een activiteit van enige omvang georganiseerd;<br>
+7° een boekhouding voeren derwijze dat de controle op de aanwending van eventuele subsidies mogelijk is;<br>
+8° de vereniging is actief over tenminste een Vlaamse provincie. Zo de vereniging ook buiten het Vlaamse Gewest actief is, moet uit de boekhouding van de vereniging duidelijk blijken dat eventuele subsidies van het Vlaamse Gewest alleen voor activiteiten in dat gewest worden aangewend;<br>
+9° de vereniging werd op particulier initiatief opgericht en groepeert hoofdzakelijk privé-personen;<br>
+10° de vereniging is ten minste twee jaar actief in het Vlaamse Gewest;<br>
+11° de vereniging aanvaardt de controle door ambtenaren van het beleidsdomein Leefmilieu, Natuur en Energie op haar boekhouding en op haar werking.
 
 ### ART. 3.
 
-De aanvraag tot erkenning wordt bij aangetekende brief gericht tot het bestuur en dient de volgende gegevens te bevatten:<br /><br />1° een door de op grond van de statuten van de vereniging, aangewezen bestuurders eensluidend verklaard afschrift van de in het Belgisch Staatsblad gepubliceerde statuten en van de wijzigingen daarvan;<br /><br />2° een door de algemene vergadering der leden goedgekeurd gedetailleerd financieel verslag over het voorbije kalenderjaar, met balans, waarin het aantal bijdragen betaald door de leden wordt vermeld;<br /><br />3° een werkingsverslag over het voorbije kalenderjaar;<br /><br />4° een verklaring, opgesteld door de op grond van de statuten aangewezen bestuurders die de vereniging kunnen verbinden, dat de vereniging voldoet aan de erkenningsvoorwaarden vermeld in artikel 2 en dat zij daarmede akkoord gaat;<br /><br />5° een verklaring van de voorzitter van de vereniging waaruit blijkt dat de vereniging voldoet aan de sociale en fiscale wetgeving. De nodige bewijsstukken daarvan dienen op het secretariaat ter inzage te liggen van de bevoegde ambtenaren van het ministerie van de Vlaamse Gemeenschap.
+De aanvraag tot erkenning wordt bij aangetekende brief gericht tot het Agentschap en dient de volgende gegevens te bevatten:<br>
+1° een door de op grond van de statuten van de vereniging, aangewezen bestuurders eensluidend verklaard afschrift van de in het Belgisch Staatsblad gepubliceerde statuten en van de wijzigingen daarvan;<br>
+2° een door de algemene vergadering der leden goedgekeurd gedetailleerd financieel verslag over het voorbije kalenderjaar, met balans, waarin het aantal bijdragen betaald door de leden wordt vermeld;<br>
+3° een werkingsverslag over het voorbije kalenderjaar;<br>
+4° een verklaring, opgesteld door de op grond van de statuten aangewezen bestuurders die de vereniging kunnen verbinden, dat de vereniging voldoet aan de erkenningsvoorwaarden vermeld in artikel 2 en dat zij daarmede akkoord gaat;<br>
+5° een verklaring van de voorzitter van de vereniging waaruit blijkt dat de vereniging voldoet aan de sociale en fiscale wetgeving. De nodige bewijsstukken daarvan dienen op het secretariaat ter inzage te liggen van de bevoegde ambtenaren van het beleidsdomein Leefmilieu, Natuur en Energie.
 
 ### ART. 4.
 
-De Vlaamse minister kan, op voorstel van het bestuur, een vereniging erkennen voor een periode van ten hoogste vijf jaar.<br /><br />Deze periode kan worden verlengd voor telkens vijf jaar indien de vereniging daartoe een aanvraag indient bij het bestuur, met voorlegging van de in artikel 3 vermelde documenten.
+Het Hoofd van het Agentschap kan een vereniging erkennen voor een periode van ten hoogste vijf jaar.<br /><br />Deze periode kan worden verlengd voor telkens vijf jaar indien de vereniging daartoe een aanvraag indient bij het Agentschap, met voorlegging van de in artikel 3 vermelde documenten.
 
 ## HOOFDSTUK II SUBSIDIERING VAN VERENIGINGEN
 
 ### ART. 5.
 
-Binnen de perken van de begrotingskredieten kan de Vlaamse minister, volgens de in dit besluit vastgestelde regelen, subsidies verlenen aan de verenigingen die overeenkomstig artikel 4 zijn erkend en die daarnaast een aanvraag tot subsidiëring hebben ingediend bij het bestuur.<br /><br />De aanvraag tot subsidiëring wordt jaarlijks ingediend voor 1 april van het kalenderjaar waarop zij slaat.<br /><br />Bij de aanvraag worden gevoegd:<br /><br />1° een door de algemene vergadering der leden goedgekeurde begroting voor het kalenderjaar;<br /><br />2° een door de algemene vergadering der leden goedgekeurd werkingsprogramma voor het kalenderjaar;<br /><br />3° een door de algemene vergadering der leden goedgekeurd gedetailleerd financieel verslag over het voorbije kalenderjaar, met balans, waaruit duidelijk blijkt dat de uitgaven en inkomsten in evenwicht zijn en hoeveel betalende leden de vereniging telde op 31 december van het vorige kalenderjaar;<br /><br />4° het door de algemene vergadering goedgekeurde werkingsverslag over het vorige kalenderjaar, met de opgave van het aantal en de aard van de activiteiten bedoeld in artikel 6, § 1, 3°;<br /><br />5° het adres en het nummer van de rekening waarop een eventuele subsidie kan worden gestort.
+Binnen de perken van de begrotingskredieten kan het hoofd van het Agentschap, volgens de in dit besluit vastgestelde regelen, subsidies verlenen aan de verenigingen die overeenkomstig artikel 4 zijn erkend en die daarnaast een aanvraag tot subsidiëring hebben ingediend bij het Agentschap.<br /><br />De aanvraag tot subsidiëring wordt jaarlijks ingediend voor 1 april van het kalenderjaar waarop zij slaat.<br /><br />Bij de aanvraag worden gevoegd:<br /><br />1° een door de algemene vergadering der leden goedgekeurde begroting voor het kalenderjaar;<br /><br />2° een door de algemene vergadering der leden goedgekeurd werkingsprogramma voor het kalenderjaar;<br /><br />3° een door de algemene vergadering der leden goedgekeurd gedetailleerd financieel verslag over het voorbije kalenderjaar, met balans, waaruit duidelijk blijkt dat de uitgaven en inkomsten in evenwicht zijn en hoeveel betalende leden de vereniging telde op 31 december van het vorige kalenderjaar;<br /><br />4° het door de algemene vergadering goedgekeurde werkingsverslag over het vorige kalenderjaar, met de opgave van het aantal en de aard van de activiteiten bedoeld in artikel 6, § 1, 3°;<br /><br />5° het adres en het nummer van de rekening waarop een eventuele subsidie kan worden gestort.
 
 ### ART. 6.
 
@@ -36,11 +52,11 @@ Voor het kalenderjaar 1992 worden de aanvragen tot erkenning en subsidiëring in
 
 ### ART. 8.
 
-De Vlaamse minister kan op elk ogenblik de in artikel 4 bedoelde erkenning intrekken zo blijkt dat deze werd bekomen op voorlegging van valse verklaringen of documenten.<br /><br />De betrokken vereniging heeft geen recht op enige subsidie voor het kalenderjaar waarin de erkenning werd ingetrokken.
+Het hoofd van het Agentschap kan op elk ogenblik de in artikel 4 bedoelde erkenning intrekken zo blijkt dat deze werd bekomen op voorlegging van valse verklaringen of documenten.<br /><br />De betrokken vereniging heeft geen recht op enige subsidie voor het kalenderjaar waarin de erkenning werd ingetrokken.
 
 ### ART. 9.
 
-De Vlaamse minister kan ook de terugbetaling van de uitgekeerde subsidie vorderen als blijkt dat deze verkregen werd op grond van valse verklaringen of documenten, of als de subsidie geheel of gedeeltelijk werd aangewend buiten het Vlaamse Gewest. [ <span class="reference">(verv. B.V.R. 5 maart 1996, art. 1, I: 24 mei 1996)</span> ]<br /><br />De betrokken vereniging wordt daarvan op de hoogte gesteld door het bestuur bij middel van een ter post aangetekende brief.
+Het hoofd van het Agentschap kan ook de terugbetaling van de uitgekeerde subsidie vorderen als blijkt dat deze verkregen werd op grond van valse verklaringen of documenten, of als de subsidie geheel of gedeeltelijk werd aangewend buiten het Vlaamse Gewest. <br /><br />De betrokken vereniging wordt daarvan op de hoogte gesteld door het Agentschap bij middel van een ter post aangetekende brief.
 
 ## HOOFDSTUK IV ALGEMENE BEPALINGEN
 
