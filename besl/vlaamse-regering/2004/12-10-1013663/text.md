@@ -2,33 +2,7 @@
 
 ### ART. 1.
 
-Voor de toepassing van dit besluit wordt verstaan onder:<br>
-<br>
-1° decreet: het decreet van 5 april 1995 houdende algemene bepalingen inzake milieubeleid;<br>
-<br>
-2° bevoegde administratie: de Afdeling Algemeen Milieu- en Natuurbeleid van de Administratie Milieu-, Natuur-, Land en Waterbeheer van het Ministerie van de Vlaamse Gemeenschap;<br>
-<br>
-3° de productiecapaciteit: de jaarlijkse of dagelijkse effectieve productiecapaciteit van de installaties, rekening houdend met onder andere de eigenschappen van de inrichtingen zoals de opslagcapaciteiten, de werkuren, het aantal werknemers, de werkregeling (personeelsbezetting) en rekening houdend met de bij de vergunning aan te vragen capaciteit;<br>
-<br>
-4° bijzonder beschermde gebieden: als bijzonder beschermde gebieden met betrekking tot dit besluit worden de volgende gebieden beschouwd:<br>
-<br>
-a. de speciale beschermingszones overeenkomstig het decreet van 21 oktober 1997 betreffende het natuurbehoud en het natuurlijk milieu;<br>
-<br>
-b. een gebied aangeduid overeenkomstig de Conventie van Ramsar inzake watergebieden van internationale betekenis;<br>
-<br>
-c. een beschermd duingebied of voor het duingebied belangrijk landbouwgebied zoals aangegeven ter uitvoering van het decreet van 14 juli 1993 houdende maatregelen tot bescherming van de kustduinen;<br>
-<br>
-d. natuurgebieden, natuurgebieden met wetenschappelijke waarde en de ermee vergelijkbare gebieden, aangewezen op plannen van aanleg en de ruimtelijke uitvoeringsplannen van kracht in de ruimtelijke ordening;<br>
-<br>
-e. bosgebieden, valleigebieden, brongebieden, overstromingsgebieden, agrarische gebieden met ecologisch belang of ecologische waarde en de ermee vergelijkbare gebieden, aangewezen op plannen van aanleg en de ruimtelijke uitvoeringsplannen van kracht in de ruimtelijke ordening;<br>
-<br>
-f. een beschermd landschap, stads- of dorpsgezicht, monument of archeologische zone;<br>
-<br>
-g. de waterwingebieden en bijhorende beschermingszones type I en II vastgesteld ter uitvoering van het decreet van 24 januari 1984 houdende maatregelen inzake het grondwaterbeheer;<br>
-<br>
-h. het Vlaams Ecologisch Netwerk overeenkomstig het decreet van 21 oktober 1997 betreffende het natuurbehoud en het natuurlijk milieu;<br>
-<br>
-i. een volgens een plan van aanleg of ruimtelijk uitvoeringsplan vastgesteld erfgoedlandschap.
+Voor de toepassing van dit besluit wordt verstaan onder:<br />1° decreet: het decreet van 5 april 1995 houdende algemene bepalingen inzake milieubeleid;<br />2° bevoegde administratie: de afdeling, bevoegd voor milieueffectrapportage : de afdeling Milieu-, Natuur- en Energiebeleid van het Departement Leefmilieu, Natuur en Energie, zoals thans bepaald met toepassing van artikel 10 van het besluit van de Vlaamse Regering van 10 oktober 2003 tot regeling van de delegatie van beslissingsbevoegdheden aan de hoofden van de departementen van de Vlaamse ministeries;<br />3° de productiecapaciteit: de jaarlijkse of dagelijkse effectieve productiecapaciteit van de installaties, rekening houdend met onder andere de eigenschappen van de inrichtingen zoals de opslagcapaciteiten, de werkuren, het aantal werknemers, de werkregeling (personeelsbezetting) en rekening houdend met de bij de vergunning aan te vragen capaciteit;<br />4° bijzonder beschermde gebieden: als bijzonder beschermde gebieden met betrekking tot dit besluit worden de volgende gebieden beschouwd:<br />a. de speciale beschermingszones overeenkomstig het decreet van 21 oktober 1997 betreffende het natuurbehoud en het natuurlijk milieu;<br />b. een gebied aangeduid overeenkomstig de Conventie van Ramsar inzake watergebieden van internationale betekenis;<br />c. een beschermd duingebied of voor het duingebied belangrijk landbouwgebied zoals aangegeven ter uitvoering van het decreet van 14 juli 1993 houdende maatregelen tot bescherming van de kustduinen;<br />d. natuurgebieden, natuurgebieden met wetenschappelijke waarde en de ermee vergelijkbare gebieden, aangewezen op plannen van aanleg en de ruimtelijke uitvoeringsplannen van kracht in de ruimtelijke ordening;<br />e. bosgebieden, valleigebieden, brongebieden, overstromingsgebieden, agrarische gebieden met ecologisch belang of ecologische waarde en de ermee vergelijkbare gebieden, aangewezen op plannen van aanleg en de ruimtelijke uitvoeringsplannen van kracht in de ruimtelijke ordening;<br />f. een beschermd landschap, stads- of dorpsgezicht, monument of archeologische zone;<br />g. de waterwingebieden en bijhorende beschermingszones type I en II vastgesteld ter uitvoering van het decreet van 24 januari 1984 houdende maatregelen inzake het grondwaterbeheer;<br />h. het Vlaams Ecologisch Netwerk overeenkomstig het decreet van 21 oktober 1997 betreffende het natuurbehoud en het natuurlijk milieu;<br />i. een volgens een plan van aanleg of ruimtelijk uitvoeringsplan vastgesteld erfgoedlandschap.
 
 ### ART. 2.
 
