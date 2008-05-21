@@ -2,16 +2,16 @@
   "codex_id": 1001784,
   "title": "Besluit van de Vlaamse Regering van 1992-07-31 houdende de regeling van de samenwerking tussen het Ministerie van de Vlaamse Gemeenschap en de milieu-parastatalen inzake de oprichting en de organisatie van een milieudatabank",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1001784/VolledigDocument?datum=2006-06-01",
-  "source_sha256": "f581388c84ef80645aafdd19b3c5d1aad67145d94a127f7f0e1ae3437a9c129e",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1001784/VolledigDocument?datum=2008-05-21",
+  "source_sha256": "bbcdf2f143de4bbd45d804115e71220206c63e5e9518d0b85cd7ad5c218abdef",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1001784&param=informatie",
-  "as_of": "2006-06-01",
+  "as_of": "2008-05-21",
   "made": "1992-07-31",
   "gazette": "1992-09-15",
   "numac": 1992035979,
   "document_start": "1992-08-01",
   "document_end": null,
-  "in_force": "2006-06-01",
+  "in_force": "2008-05-21",
   "article_versions": 12,
-  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2008-05-21; future article versions excluded; article text as the API gives it"
 }
