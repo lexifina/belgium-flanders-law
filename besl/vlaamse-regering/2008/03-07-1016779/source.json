@@ -1,0 +1,17 @@
+{
+  "codex_id": 1016779,
+  "title": "Besluit van de Vlaamse Regering van 2008-03-07 waarbij de sectorale regelgeving leefmilieu, natuur en energie in overeenstemming wordt gebracht met het kaderdecreet Bestuurlijk Beleid van 18 juli 2003",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1016779/VolledigDocument?datum=2008-05-21",
+  "source_sha256": "1c84002f04de638a9b4616ed8e4018c01f9cedb69d79fb7a49bdf80c92c4b4fa",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1016779&param=informatie",
+  "as_of": "2008-05-21",
+  "made": "2008-03-07",
+  "gazette": "2008-05-21",
+  "numac": 2008201667,
+  "document_start": "2008-05-21",
+  "document_end": null,
+  "in_force": "2008-05-21",
+  "article_versions": 408,
+  "record_form": "consolidated version as in force on 2008-05-21; oldest version available; future article versions excluded; article text as the API gives it"
+}
