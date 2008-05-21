@@ -2,16 +2,16 @@
   "codex_id": 1008295,
   "title": "Besluit van de Vlaamse Regering van 1984-03-22 tot aanwijzing van de ambtenaren bevoegd voor het opsporen en vaststellen van overtredingen op het decreet van 24 januari 1984 houdende maatregelen inzake het grondwaterbeheer",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1008295/VolledigDocument?datum=2006-06-01",
-  "source_sha256": "b83bfa685774da7c743b04c5a0d88e889540a0ae09c922b6fcaf1ac1755c8492",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1008295/VolledigDocument?datum=2008-05-21",
+  "source_sha256": "917120b5af731d426c735f09fa9f26025ac23c3059bd62d1a7853cf5469c7213",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1008295&param=informatie",
-  "as_of": "2006-06-01",
+  "as_of": "2008-05-21",
   "made": "1984-03-22",
   "gazette": "1984-06-07",
   "numac": 1984023679,
   "document_start": null,
   "document_end": "2017-03-31",
-  "in_force": "2006-06-01",
+  "in_force": "2008-05-21",
   "article_versions": 3,
-  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2008-05-21; future article versions excluded; article text as the API gives it"
 }
