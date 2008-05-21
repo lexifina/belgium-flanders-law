@@ -22,7 +22,7 @@ De prijs van de vergunning wordt vastgesteld op 75 euro per kalenderjaar. De ver
 
 ### ART. 5.
 
-Om een vergunning te verkrijgen, moet de belanghebbende de prijs ervan vooruit storten ten kantore van de ontvanger der registratie en domeinen van Antwerpen.<br /><br />De vergunningen, waarvan de Vlaamse minister het formulier vaststelt, worden op overlegging van het kwijtschrift van de ontvanger afgegeven door de houtvester van Antwerpen of zijn gemachtigde.
+Het Agentschap stelt het model van de vergunning vast en bepaalt de nadere regels voor betaling van de prijs van de vergunning.
 
 ### ART. 6.
 
@@ -68,7 +68,7 @@ Gedurende de paaitijd is vissen naar elke soort vis - paling uitgezonderd - verb
 
 ### ART. 14.
 
-Het is bovendien verboden te vissen:<br /><br />1° van 16 april tot en met 31 mei, in alle kanalen, waterlopen en gedeelten daarvan;<br /><br />2° van 1 juni tot en met 15 juli in de onder 1° bedoelde gedeelten van waterlopen en kanalen die ter plaatse door de bevoegde dienst werden afgebakend;<br /><br />3° van 1 oktober tot 15 april in de door de bevoegde dienst ter plaatse afgebakende gedeelten van bedoelde waters voor de bescherming van paaiende en pas uitgezette vis.
+Het is bovendien verboden te vissen:<br />1° van 16 april tot en met 31 mei, in alle kanalen, waterlopen en gedeelten daarvan;<br />2° van 1 juni tot en met 15 juli in de onder 1° bedoelde gedeelten van waterlopen en kanalen die ter llaatse door het Agentschap werden afgebakend;<br />3° van 1 oktober tot 15 april in de door de bevoegde dienst ter plaatse afgebakende gedeelten van bedoelde waters voor de bescherming van paaiende en pas uitgezette vis.
 
 ### ART. 15.
 
@@ -84,11 +84,11 @@ Het is verboden te vissen van twee uur na zonsondergang tot twee uur vóór zons
 
 ### ART. 18.
 
-Het is te allen tijde verboden op de volgende plaatsen te vissen:<br /><br />1° in de gedeelten van de niet-bevaarbare noch vlotbare waterlopen, die onder bosbeheer staande bossen doorkruisen;<br /><br />2° in sluizen;<br /><br />3° op minder dan 50 m boven en 50 m beneden de stuwen die van vistrappen voorzien zijn;<br /><br />4° in de buurt van elke stuw, sluis, verlaat, gat, schuif, watertoevoer en monding van een zijrivier waarvoor een gebied van visverbod ter plaatse aangeduid is door de bevoegde dienst na overleg met de betrokken provinciale visserijcommissie;<br /><br />5° in de jachthavens, dokken en ligplaatsen, indien het verbod ter plaatse door de bevoegde dienst aangeduid werd. [ <span class="reference">(verv. B.V.R. 17 oktober 2003, art. 10, I: 29 december 2003)</span> ]<br /><br />De onder 3° bedoelde verbodstroken worden op de oevers door de bevoegde dienst aangeduid door middel van de in bijlage 2 van dit besluit opgenomen signalisatie.<br /><br />Zij worden begrensd:<br /><br />1° stroomopwaarts, door een lijn die verondersteld wordt, op de bepaalde afstand, getrokken te zijn evenwijdig met de eigenlijke stuw;<br /><br />2° stroomafwaarts, door een lijn die verondersteld wordt, op de bepaalde afstand, haaks op de stroom getrokken te zijn en gemeten vanaf het meest stroomafwaarts gelegen punt van het eigenlijk kunstwerk. Voor de toepassing van deze bepaling worden twee tegen elkaar aangebouwde kunstwerken als één kunstwerk beschouwd.
+Het is te allen tijde verboden op de volgende plaatsen te vissen:<br />1° in de gedeelten van de niet-bevaarbare noch vlotbare waterlopen, die onder bosbeheer staande bossen doorkruisen;<br />2° in sluizen;<br />3° op minder dan 50 m boven en 50 m beneden de stuwen die van vistrappen voorzien zijn;<br />4° in de buurt van elke stuw, sluis, verlaat, gat, schuif, watertoevoer en monding van een zijrivier waarvoor een gebied van visverbod ter plaatse aangeduid is door het Agentschap na overleg met de betrokken provinciale visserijcommissie;<br />5° in de jachthavens, dokken en ligplaatsen, indien het verbod ter plaatse door het Agentschap aangeduid werd. <br /><br />De onder 3° bedoelde verbodstroken worden op de oevers door het Agentschap aangeduid door middel van de in bijlage 2 van dit besluit opgenomen signalisatie.<br /><br />Zij worden begrensd:<br />1° stroomopwaarts, door een lijn die verondersteld wordt, op de bepaalde afstand, getrokken te zijn evenwijdig met de eigenlijke stuw;<br />2° stroomafwaarts, door een lijn die verondersteld wordt, op de bepaalde afstand, haaks op de stroom getrokken te zijn en gemeten vanaf het meest stroomafwaarts gelegen punt van het eigenlijk kunstwerk. Voor de toepassing van deze bepaling worden twee tegen elkaar aangebouwde kunstwerken als één kunstwerk beschouwd.
 
 ### ART. 19.
 
-Het is verboden te vissen:<br /><br />1° in gedeelten van de waters waarop de wet op de riviervisserij van toepassing is wanneer het peil abnormaal laag zou zijn of wanneer zich uitzonderlijk hoge visconcentraties voordoen;<br /><br />2° van boven op de bruggen van de bevaarbare of vlotbare waterlopen;<br /><br />3° in de paaiplaatsen aangewezen door de Vlaamse minister of door de bevoegde dienst. [ <span class="reference">(ing. B.V.R. 17 oktober 2003, art. 11, I: 29 december 2003)</span> ]<br /><br />De gedeelten van kanalen en waterlopen waarin alle visvangst verboden is, worden ter plaatse door de bevoegde dienst aangeduid door middel van de in bijlage 2 van dit besluit opgenomen signalisatie.
+Het is verboden te vissen:<br />1° in gedeelten van de waters waarop de wet op de riviervisserij van toepassing is wanneer het peil abnormaal laag zou zijn of wanneer zich uitzonderlijk hoge visconcentraties voordoen;<br />2° van boven op de bruggen van de bevaarbare of vlotbare waterlopen;<br />3° in de paaiplaatsen aangewezen door de Vlaamse minister of door het Agentschap. <br /><br />De gedeelten van kanalen en waterlopen waarin alle visvangst verboden is, worden ter plaatse door het Agentschap aangeduid door middel van de in bijlage 2 van dit besluit opgenomen signalisatie.
 
 ## ONDERAFDELING B BIJZONDERE BEPALINGEN
 
@@ -146,7 +146,7 @@ Op de toegelaten vistuigen en vistoestellen wordt een maat gesteld als volgt:<br
 
 ### ART. 29.
 
-Voor de keuring van de maaswijdte wordt gebruik gemaakt van een mal in de vorm van een rechthoekige pyramide, waarop strepen zijn aangebracht die met de opgelegde maten overeenstemmen.<br /><br />Voor het verrichten van de keuring wordt de mal op verschillende, op goed geluk afgenomen plaatsen in de mazen, tussen de roeden of in het rijswerk gestoken.<br /><br />De mal wordt door de bevoegde dienst verstrekt en geijkt. Een model ervan wordt neergelegd ter griffie van de politierechtbanken, van de rechtbanken van eerste aanleg en van de hoven van beroep.
+Voor de keuring van de maaswijdte wordt gebruik gemaakt van een mal in de vorm van een rechthoekige pyramide, waarop strepen zijn aangebracht die met de opgelegde maten overeenstemmen.<br /><br />Voor het verrichten van de keuring wordt de mal op verschillende, op goed geluk afgenomen plaatsen in de mazen, tussen de roeden of in het rijswerk gestoken.<br /><br />De mal wordt door het Agentschap verstrekt en geijkt. Een model ervan wordt neergelegd ter griffie van de politierechtbanken, van de rechtbanken van eerste aanleg en van de hoven van beroep.
 
 ## AFDELING 2 GEBRUIKSVOORWAARDEN
 
@@ -208,7 +208,7 @@ Het schepnet mag alleen worden gebezigd om de met de hengel of kruisnet gevangen
 
 ### ART. 42.
 
-Tijdens de hengelwedstrijden toegestaan door of namens de minister tot wiens bevoegdheid de Rivier-visserij, behoort, gelden de in artikel 41 bepaalde lengten voor blankvoorn, rietvoorn, winde, serpeling, kopvoorn, karper en zeelt niet voor de duur van de wedstrijd.<br /><br />De minister bepaalt de voorwaarden waaraan de wedstrijden moeten voldoen om te worden toegestaan met genot van de in vorig lid bepaalde afwijking van artikel 41. [ <span class="reference">(verv. B.V.R. 17 oktober 2003, art. 30, I: 29 december 2003)</span> ]
+Tijdens de hengelwedstrijden toegestaan door het Agentschap, gelden de in artikel 41 bepaalde lengten voor blankvoorn, rietvoorn, winde, serpeling, kopvoorn, karper en zeelt niet voor de duur van de wedstrijd.<br /><br />Het Agentschap bepaalt de voorwaarden waaraan de wedstrijden moeten voldoen om te worden toegestaan met genot van de in vorig lid bepaalde afwijking van artikel 41.
 
 ### ART. 43.
 
