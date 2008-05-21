@@ -2,16 +2,16 @@
   "codex_id": 1007538,
   "title": "Besluit van de Vlaamse Regering van 2000-07-17 houdende vaststelling van de personeelsformatie van het Instituut voor Natuurbehoud",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1007538/VolledigDocument?datum=2006-06-01",
-  "source_sha256": "3e619dbc317ffa6507af8ad49365fadc1ef5f4dccc6dba4d51089603d655d1db",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1007538/VolledigDocument?datum=2008-05-21",
+  "source_sha256": "53205579ef53f04e040367e107a7602d4437a958b28fe0077924abbebd9f11a2",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1007538&param=informatie",
-  "as_of": "2006-06-01",
+  "as_of": "2008-05-21",
   "made": "2000-07-17",
   "gazette": "2000-08-30",
   "numac": 2000035843,
   "document_start": null,
   "document_end": "2008-05-20",
-  "in_force": "2006-06-01",
+  "in_force": "2008-05-21",
   "article_versions": 4,
-  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2008-05-21; future article versions excluded; article text as the API gives it"
 }
