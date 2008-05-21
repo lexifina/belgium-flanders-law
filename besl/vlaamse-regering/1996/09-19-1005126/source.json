@@ -2,16 +2,16 @@
   "codex_id": 1005126,
   "title": "Besluit van de Vlaamse Regering van 1996-09-19 houdende vaststelling van de personeelsformatie van de Openbare Afvalstoffenmaatschappij voor het Vlaamse Gewest",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1005126/VolledigDocument?datum=2006-06-01",
-  "source_sha256": "c11802b83da03d0a377e7dc8236fa08258fa7d64495ad8ee5e027aaa10681963",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1005126/VolledigDocument?datum=2008-05-21",
+  "source_sha256": "d4aaa0de65ab35d374afb5327a812ff5db48e9c579e4805a23fe5d997aa3dd2c",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1005126&param=informatie",
-  "as_of": "2006-06-01",
+  "as_of": "2008-05-21",
   "made": "1996-09-19",
   "gazette": "1997-02-04",
   "numac": 1997036267,
   "document_start": null,
   "document_end": "2008-05-20",
-  "in_force": "2006-06-01",
+  "in_force": "2008-05-21",
   "article_versions": 5,
-  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2008-05-21; future article versions excluded; article text as the API gives it"
 }
