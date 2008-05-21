@@ -2,16 +2,16 @@
   "codex_id": 1013055,
   "title": "Besluit van de Vlaamse Regering van 2004-04-02 tot invoering van het integrale milieujaarverslag",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1013055/VolledigDocument?datum=2006-06-01",
-  "source_sha256": "6e1195d16a0bbe743d7d78682b5dfa7fc8cb074a4bd5582a6cca4021e250bf64",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1013055/VolledigDocument?datum=2008-05-21",
+  "source_sha256": "598109f3a30d79a7813cd59b3858d51a5f5668a2ad5580a62ec4a1027ebaa9f7",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1013055&param=informatie",
-  "as_of": "2006-06-01",
+  "as_of": "2008-05-21",
   "made": "2004-04-02",
   "gazette": "2004-06-04",
   "numac": 2004035658,
   "document_start": null,
   "document_end": null,
-  "in_force": "2006-06-01",
+  "in_force": "2008-05-21",
   "article_versions": 22,
-  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2008-05-21; future article versions excluded; article text as the API gives it"
 }
