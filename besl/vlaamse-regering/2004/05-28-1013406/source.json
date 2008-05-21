@@ -2,16 +2,16 @@
   "codex_id": 1013406,
   "title": "Besluit van de Vlaamse Regering van 2004-05-28 betreffende de procedure tot opmaak van landinrichtingsplannen en houdende opheffing van het besluit van de Vlaamse regering van 6 juni 1996 houdende nadere regelen betreffende de landinrichting en houdende wijziging van het besluit van de Vlaamse regering van 17 maart 1998 houdende subsidiëring van de landinrichtingswerken",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1013406/VolledigDocument?datum=2006-06-01",
-  "source_sha256": "ab5a37c3c83d173e985e42f074b2dfa9b31951bc68390d442caf7690f01ca8db",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1013406/VolledigDocument?datum=2008-05-21",
+  "source_sha256": "019f7d6d299b21bd020e79ef02918c55aeb925c13428fa8fd946b9d9035bbbef",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1013406&param=informatie",
-  "as_of": "2006-06-01",
+  "as_of": "2008-05-21",
   "made": "2004-05-28",
   "gazette": "2004-09-16",
   "numac": 2004036434,
   "document_start": "2004-09-26",
   "document_end": "2014-10-31",
-  "in_force": "2006-06-01",
+  "in_force": "2008-05-21",
   "article_versions": 25,
-  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2008-05-21; future article versions excluded; article text as the API gives it"
 }
