@@ -2,16 +2,16 @@
   "codex_id": 1013410,
   "title": "Besluit van de Vlaamse Regering van 2004-07-14 houdende nadere regels inzake de reductieprogramma's ter vermindering van het gebruik van bestrijdingsmiddelen door openbare diensten in het Vlaamse Gewest",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1013410/VolledigDocument?datum=2006-06-01",
-  "source_sha256": "a885455335b42a1a9d5dca64fb66965edad874525d1d10f6ddc4ec01855f4bbb",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1013410/VolledigDocument?datum=2008-05-21",
+  "source_sha256": "ac8f646326e3a40505e118dd2dbfb2920cf591870307b0d0ca6830830d11a45c",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1013410&param=informatie",
-  "as_of": "2006-06-01",
+  "as_of": "2008-05-21",
   "made": "2004-07-14",
   "gazette": "2004-09-20",
   "numac": 2004036449,
   "document_start": null,
   "document_end": "2009-02-01",
-  "in_force": "2006-06-01",
+  "in_force": "2008-05-21",
   "article_versions": 8,
-  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2008-05-21; future article versions excluded; article text as the API gives it"
 }
