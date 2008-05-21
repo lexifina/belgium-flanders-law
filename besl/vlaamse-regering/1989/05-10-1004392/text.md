@@ -14,11 +14,15 @@ Dit plan wordt jaarlijks in drievoud of op een door de Vlaamse minister bevoegd 
 
 ### ART. 3.
 
-De arrondissementscommissaris bij wie het plan of de verklaring vermeld in artikel 2 wordt neergelegd, zendt een exemplaar daarvan aan de landbouwkundig ingenieur van het bestuur Landinrichting, bevoegd voor de jacht, in wiens ambtsgebied het jachtterrein of het grootste gedeelte ervan gelegen is.<br /><br />Zo een neergelegd plan of verklaring betrekking heeft op een jachtterrein dat ook in een ander arrondissement ligt, dan zendt de arrondissementscommissaris, bij wie het document werd neergelegd, afschrift daarvan aan de arrondissementscommissaris bevoegd voor dat arrondissement.
+De arrondissementscommissaris bij wie het plan of de verklaring vermeld in artikel 2 wordt neergelegd, zendt een exemplaar daarvan aan het daartoe aangestelde personeelslid van het Agentschap voor Natuur en Bos.<br /><br />Zo een neergelegd plan of verklaring betrekking heeft op een jachtterrein dat ook in een ander arrondissement ligt, dan zendt de arrondissementscommissaris, bij wie het document werd neergelegd, afschrift daarvan aan de arrondissementscommissaris bevoegd voor dat arrondissement.
 
 ### ART. 4.
 
-Indien de landbouwkundig ingenieur, bevoegd voor de jacht, vaststelt dat eenzelfde grondstuk door meer dan één persoon of groep van personen als zijn of hun uitsluitend jachtterrein wordt aangeduid, brengt hij de arrondissementscommissaris bij wie het plan werd neergelegd, op de hoogte van zijn vaststelling.<br /><br />De arrondissementscommissaris nodigt de betrokken personen uit een nieuw plan neer te leggen binnen een termijn van ten hoogste drie maand. Zo dit niet gebeurt binnen deze termijn, brengt hij de procureur des Konings daarvan op de hoogte.<br /><br />De arrondissementscommissaris die zelf feiten vaststelt zoals bedoeld in het eerste lid, handelt op dezelfde wijze als gesteld in het tweede lid.
+Indien het daartoe aangestelde personeelslid van het Agentschap voor Natuur en Bos vaststelt dat eenzelfde grondstuk door meer dan één persoon of groep van personen als zijn of hun uitsluitend jachtterrein wordt aangeduid, brengt hij de arrondissementscommissaris bij wie het plan werd neergelegd, op de hoogte van zijn vaststelling.<br /><br />De arrondissementscommissaris nodigt de betrokken personen uit een nieuw plan neer te leggen binnen een termijn van ten hoogste drie maand. Zo dit niet gebeurt binnen deze termijn, brengt hij de procureur des Konings daarvan op de hoogte.<br /><br />De arrondissementscommissaris die zelf feiten vaststelt zoals bedoeld in het eerste lid, handelt op dezelfde wijze als gesteld in het tweede lid.
+
+### ART. 4bis.
+
+Het hoofd van het Agentschap voor Natuur en Bos kan de bijlage bij dit besluit vaststellen, vervangen of wijzigen.
 
 ### ART. 5.
 
