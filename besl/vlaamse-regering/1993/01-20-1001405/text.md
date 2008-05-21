@@ -10,11 +10,11 @@ Het examen genoemd in artikel 1 van dit besluit omvat:<br /><br />1° een schrif
 
 ### ART. 3.
 
-§ 1. De centrale examencommissie bestaat uit zes leden:<br /><br />1° de directeur-generaal van de Algemene Administratieve Diensten van het departement Leefmilieu en Infrastructuur of een ambtenaar van tenminste rang 13 die hij daartoe afvaardigt, voorzitter;<br /><br />2° de in rang hoogste ambtenaar van de dienst Waters en Bossen of zijn afgevaardigde van niveau 1;<br /><br />3° de in rang hoogste ambtenaar van de dienst Natuurbescherming of zijn afgevaardigde van niveau 1.<br /><br />§ 2. Volgens de instructies van de centrale examencommissie wordt het praktische gedeelte van het examen beoordeeld door een commissie voorgezeten door de woudmeester van de provincie waar dit examendeel plaatsvindt, met als leden een houtvester en een ambtenaar van niveau 2 in de graad van groentechnicus, eerste groentechnicus, hoofdgroentechnicus of adjunct-houtvester, die door de woudmeester worden aangewezen.
+§ 1. De samenstelling van de centrale examencommissie wordt bepaald door de Vlaamse minister, bevoegd voor de landinrichting en het natuurbehoud.<br /><br />§ 2. Volgens de instructies van de centrale examencommissie wordt het praktische gedeelte van het examen per provincie beoordeeld door een provinciale commissie waarvan de samenstelling bepaald wordt door de centrale examencommissie.
 
 ### ART. 4.
 
-Een personeelslid van de dienst Waters en Bossen neemt het secretariaat waar.
+Een personeelslid van het Agentschap voor Natuur en Bos neemt het secretariaat waar.
 
 ### ART. 5.
 
