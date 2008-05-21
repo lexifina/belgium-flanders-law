@@ -12,7 +12,7 @@ Domeinbossen en bossen die door het Vlaams Gewest worden gehuurd kunnen geheel o
 
 ### ART. 3.
 
-Bosreservaten worden aangewezen of erkend door de minister.
+Bosreservaten worden aangewezen of erkend door het hoofd van het Agentschap voor Natuur en Bos.
 
 ### ART. 4.
 
@@ -24,7 +24,7 @@ Om een bos of een bosgedeelte te laten erkennen als bosreservaat, dient de eigen
 
 ### ART. 6.
 
-Elk voorstel tot erkenning of aanwijzing als bosreservaat wordt met een gemotiveerd verslag van het Bosbeheer voorgelegd aan de adviescommissie van de betrokken houtvesterij, voor de adviesprocedure zoals bepaald in artikel 22 van het Bosdecreet wordt toegepast.
+Elk voorstel tot erkenning of aanwijzing als bosreservaat wordt met een gemotiveerd verslag van het Agentschap voor Natuur en Bos voorgelegd aan de adviescommissie van het gebied in kwestie, voor de adviesprocedure zoals bepaald in artikel 22 van het Bosdecreet wordt toegepast.
 
 ## HOOFDSTUK II HET BEHEER EN DE BEWAKING
 
@@ -38,23 +38,23 @@ Ingevolge artikel 25 van het Bosdecreet bevat het beheer van gerichte bosreserva
 
 ### ART. 9.
 
-De houtvester wordt belast met het beheer van de bosreservaten die in zijn ambtsgebied liggen.<br /><br />In de erkende bosreservaten beperkt dit beheer zich tot de technische aspecten van het beheersplan en de controle op de naleving ervan.
+De aangewezen ambtenaar wordt belast met het beheer van de bosreservaten die in zijn ambtsgebied liggen.<br /><br />In de erkende bosreservaten beperkt dit beheer zich tot de technische aspecten van het beheersplan en de controle op de naleving ervan.
 
 ### ART. 10.
 
-Behoudens andere bepalingen uit het besluit tot erkenning van een bosreservaat, wordt de bewaking van erkende bosreservaten toevertrouwd aan het Bosbeheer.
+Behoudens andere bepalingen uit het besluit tot erkenning van een bosreservaat, wordt de bewaking van erkende bosreservaten toevertrouwd aan het Agentschap voor Natuur en Bos.
 
 ### ART. 11.
 
-De houtvester stelt voor elk bosreservaat een ontwerp van beheersplan of een ontwerp van een nieuw beheersplan op en legt dat voor aan de adviescommissie.<br /><br />De houtvester stelt ook een ontwerp van beheersovereenkomst op gesloten ingevolge het artikel 29 van het Bosdecreet, en legt dat voor aan de adviescommissie.
+De aangewezen ambtenaar stelt voor elk bosreservaat een ontwerp van beheersplan of een ontwerp van een nieuw beheersplan op en legt dat voor aan de adviescommissie.<br /><br />De aangewezen ambtenaar stelt ook een ontwerp van beheersovereenkomst op gesloten ingevolge het artikel 29 van het Bosdecreet, en legt dat voor aan de adviescommissie.
 
 ### ART. 12.
 
-Het beheersplan van een bosreservaat moet minstens alle gegevens uit de bijlage van dit besluit bevatten.<br /><br />Alleen als de adviescommissie een gunstig advies geeft, kan het Bosbeheer van het beheersplan afwijken.
+Het beheersplan van een bosreservaat moet minstens alle gegevens uit de bijlage van dit besluit bevatten.<br /><br />Alleen als de adviescommissie een gunstig advies geeft, kan het Agentschap voor Natuur en Bos van het beheersplan afwijken.
 
 ### ART. 13.
 
-Het beheersplan, de wijzigingen aan het beheersplan en de beheersovereenkomsten, die worden gesloten krachtens artikel 29 van het Bosdecreet moeten aan de minister ter goedkeuring voorgelegd worden.<br /><br />De vergoeding in het raam van deze beheersovereenkomst wordt jaarlijks bepaald.
+Het beheersplan, de wijzigingen aan het beheersplan en de beheersovereenkomsten, die worden gesloten krachtens artikel 29 van het Bosdecreet moeten aan het hoofd van het Agentschap voor Natuur en Bos ter goedkeuring voorgelegd worden.<br /><br />De vergoeding in het raam van deze beheersovereenkomst wordt jaarlijks bepaald.
 
 ### ART. 14.
 
@@ -64,11 +64,11 @@ Het gebruik van biociden bij het beheer van de bosreservaten is verboden.
 
 ### ART. 15.
 
-De adviescommissie staat de houtvester bij in het beheer van de bosreservaten. Zij heeft tot opdracht adviezen te verlenen in de door de artikelen 6, 11 en 12 genoemde gevallen.
+De adviescommissie staat de aangewezen ambtenaar bij in het beheer van de bosreservaten. Zij heeft tot opdracht adviezen te verlenen in de door de artikelen 6, 11 en 12 genoemde gevallen.
 
 ### ART. 16.
 
-Als lid van de adviescommissie worden aangewezen:<br /><br />1° de woudmeester van het ambtsgebied<br /><br />2° de houtvester, verantwoordelijk voor het beheer<br /><br />3° een vertegenwoordiger van het Instituut voor Bosbouw en Wildbeheer;<br /><br />4° een vertegenwoordiger van het Instituut voor Natuurbehoud.<br /><br />Bovendien wijst de minister voor elke adviescommissie nog 3 à 5 leden aan uit wetenschappelijke kringen of uit plaatselijke verenigingen die actief zijn op het vlak van natuurbehoud en bosbouw. Het mandaat loop zes jaar en kan hernieuwd worden.
+Als lid van de adviescommissie worden aangewezen:<br />1° de woudmeester van het ambtsgebied<br />2° de aangewezen ambtenaar, verantwoordelijk voor het beheer<br />3° een vertegenwoordiger van het Instituut voor Natuur- en Bosonderzoek;<br />4° ...<br /><br />Bovendien wijst de minister voor elke adviescommissie nog 3 à 5 leden aan uit wetenschappelijke kringen of uit plaatselijke verenigingen die actief zijn op het vlak van natuurbehoud en bosbouw. Het mandaat loop zes jaar en kan hernieuwd worden.
 
 ### ART. 17.
 
@@ -82,7 +82,7 @@ De leden van de adviescommissie worden niet bezoldigd.<br /><br />De leden en de
 
 ### ART. 19.
 
-Het bedrag van de vergoeding bedoeld in artikel 24 van het bosdecreet wordt berekend op basis van:<br /><br />- de oppervlakte van de boseigendom, die werd erkend als bosreservaat;<br /><br />- de waarde van de opstand;<br /><br />- de te verwachten inkomsten door houtexploitatie.<br /><br />De basisvergoeding bedraagt minimum 100 euro [ <span class="reference">(verv. B.V.R. 14 september 2001, art. 4, I: 1 januari 2002)</span> ] en maximum 250 [ <span class="reference">(verv. B.V.R. 14 september 2001, art. 4, I: 1 januari 2002)</span> ] per hectare.<br /><br />Als het jachtrecht echter wordt uitgeoefend, wordt de basisvergoeding per hectare met 50 euro [ <span class="reference">(verv. B.V.R. 14 september 2001, art. 4, I: 1 januari 2002)</span> ] verminderd.<br /><br />De eigenaar moet jaarlijks een aanvraag indienen om de vergoeding te ontvangen; het bedrag van de vergoeding wordt berekend op basis van de gegevens uit het verslag van het Bosbeheer.<br /><br />Om de negen jaar kan de basisvergoeding worden aangepast op basis van de gewijzigde opstandswaarde van het bos.<br /><br />Als de eigenaar de erkenningsvoorwaarden niet naleeft, moet hij als hij in gebreke is gesteld bij aangetekende brief door de houtvester, de vergoeding terugstorten in het Fonds voor Preventie en Sanering inzake leefmilieu en natuur.
+Het bedrag van de vergoeding bedoeld in artikel 24 van het bosdecreet wordt berekend op basis van:<br />- de oppervlakte van de boseigendom, die werd erkend als bosreservaat;<br />- de waarde van de opstand;<br />- de te verwachten inkomsten door houtexploitatie.<br /><br />De basisvergoeding bedraagt minimum 100 euro  en maximum 250 per hectare.<br /><br />Als het jachtrecht echter wordt uitgeoefend, wordt de basisvergoeding per hectare met 50 euro verminderd.<br /><br />De eigenaar moet jaarlijks een aanvraag indienen om de vergoeding te ontvangen; het bedrag van de vergoeding wordt berekend op basis van de gegevens uit het verslag van het Agentschap voor Natuur en Bos.<br /><br />Om de negen jaar kan de basisvergoeding worden aangepast op basis van de gewijzigde opstandswaarde van het bos.<br /><br />Als de eigenaar de erkenningsvoorwaarden niet naleeft, moet hij als hij in gebreke is gesteld bij aangetekende brief door de aangewezen ambtenaar, de vergoeding terugstorten in het Fonds voor Preventie en Sanering inzake leefmilieu en natuur.
 
 ## HOOFDSTUK V SLOTBEPALINGEN
 
