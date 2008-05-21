@@ -2,16 +2,16 @@
   "codex_id": 1002462,
   "title": "Besluit van de Vlaamse Regering van 1991-07-31 betreffende de uitoefening van de door het Boswetboek van 19 december 1854 en door het Bosdecreet van 13 juni 1990 aan het [Agentschap voor Natuur en Bos] opgedragen bevoegdheden",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1002462/VolledigDocument?datum=2006-06-01",
-  "source_sha256": "b0584ed9247bdd512149cd662c9f1d5f23ca00ea798345dca273ad79ecbcb51c",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1002462/VolledigDocument?datum=2008-05-21",
+  "source_sha256": "3ad64074e9f989dff20d4f7d37520b56ec886365822106d1c6d69122d710a636",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1002462&param=informatie",
-  "as_of": "2006-06-01",
+  "as_of": "2008-05-21",
   "made": "1991-07-31",
   "gazette": "1991-10-24",
   "numac": 1991036337,
   "document_start": null,
   "document_end": "2009-06-24",
-  "in_force": "2006-06-01",
+  "in_force": "2008-05-21",
   "article_versions": 5,
-  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2008-05-21; future article versions excluded; article text as the API gives it"
 }

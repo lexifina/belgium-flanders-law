@@ -2,7 +2,7 @@
 
 ### ART. 1.
 
-De dienst Waters en Bossen van het Bestuur Natuurbehoud en Ontwikkeling van het Departement Leefmilieu en Infrastructuur wordt belast met het Bosbeheer, bedoeld in artikel 4, 6°, van het Bosdecreet van 13 juni 1990.
+...
 
 ### ART. 2.
 
@@ -14,7 +14,7 @@ De woudmeesters worden gemachtigd om voor de rechtbank de maatregelen tot herste
 
 ### ART. 4.
 
-De opdrachten die aan het Bosbeheer zijn opgedragen door de artikelen 15, 20, 30, 44, 50, 71, 81, 86, 87, 89, 90, 91, 94, 96, 97, 98, 99, 105 en 106 van het Bosdecreet worden vervuld door de woudmeesters, ieder binnen de grenzen van zijn ambtsgebied.
+De opdrachten die aan het Agentschap voor Natuur en Bos zijn opgedragen door de artikelen 15, 20, 30, 44, 50, 71, 81, 86, 87, 89, 90, 91, 94, 96, 97, 98, 99, 105 en 106 van het Bosdecreet worden vervuld door de woudmeesters, ieder binnen de grenzen van zijn ambtsgebied.
 
 ### ART. 5.
 
