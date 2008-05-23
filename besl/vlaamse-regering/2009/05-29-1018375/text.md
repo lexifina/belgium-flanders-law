@@ -8,9 +8,21 @@ In artikel V 30 van hetzelfde besluit wordt het eerste lid vervangen door wat vo
 
 In artikel V 35 van hetzelfde besluit, gewijzigd bij het besluit van de Vlaamse Regering van 16 maart 2007, wordt een paragraaf 4 toegevoegd, die luidt als volgt :<br />« § 4. In afwijking van paragraaf 2, is artikel I 5, § 5, van toepassing op de N-1 functies. »<br /><br />
 
+### ART. 53.
+
+In artikel VI 11, § 1, van hetzelfde besluit, ingevoegd bij het besluit van de Vlaamse Regering van 16 maart 2007, worden de woorden « rang A2 » telkens vervangen door de woorden « rang A2E ».<br /><br />
+
 ### ART. 89.
 
 Artikel VI 120 van hetzelfde besluit, ingevoegd bij het besluit van de Vlaamse Regering van 16 maart 2007, wordt vervangen door wat volgt :<br />« Art. VI 120. § 1. De lijnmanager van het Departement Bestuurszaken kan de duur van de reserves van loopbaanexamens verlengen als de geldigheidsduur nog niet verstreken is op 1 januari 2009.<br /><br />§ 2. De laureaten putten uit het feit dat ze geslaagd zijn, gelijke aanspraken voor bevordering bij een entiteit, raad of instelling, ongeacht de dienst of instelling waarvoor het examen oorspronkelijk georganiseerd werd. »<br /><br />
+
+### ART. 94.
+
+Artikel VI 144 van hetzelfde besluit, ingevoegd bij het besluit van de Vlaamse Regering van 23 mei 2008, wordt vervangen door wat volgt :<br />« Art. VI 144. § 1. De lijnmanager kan aan een ambtenaar met de graad van directeur eenmalig tussen 23 mei en 31 december 2009 een graadverandering toekennen naar de graad van adviseur, op voorwaarde dat die ambtenaar een functie uitoefent die een doorgedreven specialisatie in inhoudelijke materie veronderstelt. Hij is vrijgesteld van de proef waarbij de functiespecifieke competenties van de kandidaat getest worden.<br /><br />§ 2. De lijnmanager kan aan een ambtenaar met de graad van adviseur eenmalig tussen 23 mei en 31 december 2009 een graadverandering toekennen naar de graad van directeur, op voorwaarde dat die ambtenaar een leidinggevende functie uitoefent. Hij is vrijgesteld van de proef waarbij de generieke en functiespecifieke competenties van de kandidaat getest worden.<br /><br />§ 3. Bij graadverandering als vermeld in paragraaf 1 en paragraaf 2 behoudt de ambtenaar de verworven anciënniteiten en wordt hij ingeschakeld op de overeenkomstige trap van de functionele loopbaan. De ambtenaar heeft nooit een lager salaris dan hij in zijn vorige functionele loopbaan zou hebben ontvangen volgens de regeling die op hem van toepassing was op de datum van de graadverandering. »<br /><br />
+
+### ART. 96.
+
+Aan deel VI, titel 10 van hetzelfde besluit, ingevoegd bij het besluit van de Vlaamse Regering van 16 maart 2007 en gewijzigd bij het besluit van de Vlaamse Regering van 23 mei 2008, wordt een artikel VI 146 toegevoegd, dat luidt als volgt :<br />« Art. VI 146. In afwijking van artikel VI 109 § 1, 3°, a), verkrijgt de adviseur die vóór 1 januari 2008 werd benoemd en die bezoldigd wordt in salarisschaal A251, na tien jaar schaalanciënniteit de schaal A252.<br /><br />Deze overgangsregeling blijft gelden voor de directeur die een graadverandering bekomt vanuit de graad van adviseur en die in die laatste graad werd aangesteld vóór 1 januari 2008. »'<br /><br />
 
 ### ART. 100.
 
