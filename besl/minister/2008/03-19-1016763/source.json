@@ -1,0 +1,17 @@
+{
+  "codex_id": 1016763,
+  "title": "Ministerieel besluit van 2008-03-19 tot wijziging van het ministerieel besluit van 5 juli 2005 houdende samenstelling van de jury en de stuurgroep voor het Kustactieplan 2005-2009 (KAPIII)",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1016763/VolledigDocument?datum=2008-05-24",
+  "source_sha256": "bd9ac589388df5ab52e1e1b069fd024e67407457136da8b45b27aa5452d287f1",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1016763&param=informatie",
+  "as_of": "2008-05-24",
+  "made": "2008-03-19",
+  "gazette": "2008-05-14",
+  "numac": 2008201574,
+  "document_start": "2008-05-24",
+  "document_end": null,
+  "in_force": "2008-05-24",
+  "article_versions": 2,
+  "record_form": "consolidated version as in force on 2008-05-24; oldest version available; future article versions excluded; article text as the API gives it"
+}
