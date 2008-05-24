@@ -1,0 +1,17 @@
+{
+  "codex_id": 1016762,
+  "title": "Besluit van de Vlaamse Regering van 2008-03-14 houdende de agentschapspecifieke regeling van de rechtspositie van het personeel van [Sport Vlaanderen (verv. BVR 15 juli 2016, art. 15, I: 1 januari 2016)]",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1016762/VolledigDocument?datum=2008-05-24",
+  "source_sha256": "09db3f4467bfd64f27daa649069d8ef9e03c7e3c58939668a2c961d2ca96add2",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1016762&param=informatie",
+  "as_of": "2008-05-24",
+  "made": "2008-03-14",
+  "gazette": "2008-05-14",
+  "numac": 2008201567,
+  "document_start": "2008-05-24",
+  "document_end": null,
+  "in_force": "2008-05-24",
+  "article_versions": 16,
+  "record_form": "consolidated version as in force on 2008-05-24; oldest version available; future article versions excluded; article text as the API gives it"
+}
