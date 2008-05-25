@@ -1,0 +1,17 @@
+{
+  "codex_id": 1016768,
+  "title": "Ministerieel besluit van 2008-04-18 houdende de toekenning van een subsidie aan de vijf Vlaamse provincies en aan de Vlaamse Gemeenschapscommissie voor de organisatie van externe ondersteuning voor complexe cliëntdossiers in de zes regio's Integrale Jeugdhulp",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1016768/VolledigDocument?datum=2008-05-25",
+  "source_sha256": "44eb5d727f2128c1a5888d37e904d62a4cb88a6154eb35599c3f863716f2e679",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1016768&param=informatie",
+  "as_of": "2008-05-25",
+  "made": "2008-04-18",
+  "gazette": "2008-05-15",
+  "numac": 2008201592,
+  "document_start": "2008-05-25",
+  "document_end": null,
+  "in_force": "2008-05-25",
+  "article_versions": 5,
+  "record_form": "consolidated version as in force on 2008-05-25; oldest version available; future article versions excluded; article text as the API gives it"
+}
