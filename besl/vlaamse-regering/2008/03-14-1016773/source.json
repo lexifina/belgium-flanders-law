@@ -1,0 +1,17 @@
+{
+  "codex_id": 1016773,
+  "title": "Besluit van de Vlaamse Regering van 2008-03-14 tot wijziging van het besluit van de Vlaamse Regering van 4 juni 2004 betreffende de toekenning van subsidies voor naschoolse opleidingsinitiatieven in de landbouwsector",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1016773/VolledigDocument?datum=2008-05-29",
+  "source_sha256": "51f671440d424b9f07d273d249b759b5cdd99a4f0d167cbe2a7b290cc9755b2a",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1016773&param=informatie",
+  "as_of": "2008-05-29",
+  "made": "2008-03-14",
+  "gazette": "2008-05-19",
+  "numac": 2008201665,
+  "document_start": "2008-05-29",
+  "document_end": null,
+  "in_force": "2008-05-29",
+  "article_versions": 14,
+  "record_form": "consolidated version as in force on 2008-05-29; oldest version available; future article versions excluded; article text as the API gives it"
+}
