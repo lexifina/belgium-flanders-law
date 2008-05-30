@@ -1,0 +1,17 @@
+{
+  "codex_id": 1016774,
+  "title": "Besluit van de Vlaamse Regering van 2008-03-21 tot verdeling van de trekkingsrechten uit het Stedenfonds voor het jaar 2008",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1016774/VolledigDocument?datum=2008-05-30",
+  "source_sha256": "d8d00aa2ac543fb1061a69f46a54f4d21c17800a162dfac11f277a3833cd754b",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1016774&param=informatie",
+  "as_of": "2008-05-30",
+  "made": "2008-03-21",
+  "gazette": "2008-05-20",
+  "numac": 2008201682,
+  "document_start": "2008-05-30",
+  "document_end": null,
+  "in_force": "2008-05-30",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2008-05-30; oldest version available; future article versions excluded; article text as the API gives it"
+}
