@@ -2,16 +2,16 @@
   "codex_id": 1009045,
   "title": "Besluit van de Vlaamse Regering van 2002-01-18 houdende het toekennen van een gewestbijdrage aan polders, wateringen, verenigingen van polders of verenigingen van wateringen voor het uitvoeren van bepaalde waterhuishoudkundige werken en tot vastlegging van de procedure inzake subsidiëring van deze werken",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1009045/VolledigDocument?datum=2008-05-21",
-  "source_sha256": "61929532e4d3d62bb750f5fcc1fdd869f0f9cd3609e20e326971fea9fa9afab8",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1009045/VolledigDocument?datum=2008-05-30",
+  "source_sha256": "e69a6827e23cf3752c67332705039022e49c8eb072d7e1d364b2cef757b5b1b2",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1009045&param=informatie",
-  "as_of": "2008-05-21",
+  "as_of": "2008-05-30",
   "made": "2002-01-18",
   "gazette": "2002-04-25",
   "numac": 2002035549,
   "document_start": "2002-04-25",
   "document_end": null,
-  "in_force": "2008-05-21",
+  "in_force": "2008-05-30",
   "article_versions": 16,
-  "record_form": "consolidated version as in force on 2008-05-21; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2008-05-30; future article versions excluded; article text as the API gives it"
 }
