@@ -1,0 +1,17 @@
+{
+  "codex_id": 1016776,
+  "title": "Besluit van de Vlaamse Regering van 2008-03-21 tot wijziging van het besluit van de Vlaamse Regering van 18 januari 2002 houdende het toekennen van een gewestbijdrage aan polders, wateringen, verenigingen van polders of verenigingen van wateringen voor het uitvoeren van bepaalde waterhuishoudkundige werken en tot vastlegging van de procedure inzake subsidiëring van deze werken",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1016776/VolledigDocument?datum=2008-05-30",
+  "source_sha256": "ec44e9cdb9fbda27c6300184be5abf7bb8d86c6d68161ef3063ba5efbe023e66",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1016776&param=informatie",
+  "as_of": "2008-05-30",
+  "made": "2008-03-21",
+  "gazette": "2008-05-20",
+  "numac": 2008201688,
+  "document_start": "2008-05-30",
+  "document_end": null,
+  "in_force": "2008-05-30",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2008-05-30; oldest version available; future article versions excluded; article text as the API gives it"
+}
