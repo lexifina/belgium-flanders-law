@@ -16,11 +16,11 @@ Het dossier met het voorstel bevat ten minste de volgende elementen :<br />1° d
 
 ### ART. 3.
 
-§ 1. Het voorstel wordt voorgelegd aan een commissie, samengesteld uit :<br />1° afgevaardigden van het Departement Onderwijs en Vorming, het Agentschap voor Onderwijsdiensten en de Onderwijsinspectie van het Vlaams Ministerie van Onderwijs en Vorming;<br />2° deskundigen intern of extern aan de onderwijssector.<br /><br />De samenstelling van de commissie en het voorzitterschap ervan worden toevertrouwd aan de entiteit Curriculum van het Departement Onderwijs en Vorming. De nominatieve samenstelling kan differentiëren afhankelijk van het te behandelen voorstel.<br /><br />§ 2. De commissie onderzoekt het voorstel ten minste op volledigheid, correctheid en actualiteitswaarde, en stuurt het al dan niet bij. De commissie hanteert daarbij de criteria, vermeld in artikel 5.<br /><br />De commissie hoort de indiener van het voorstel.<br /><br />De commissie maakt het oorspronkelijke voorstel, een rapport van haar bevindingen en een advies over aan de Vlaamse minister, bevoegd voor het onderwijs.<br />
+§ 1. Het voorstel wordt voorgelegd aan een commissie, samengesteld uit :<br />1° afgevaardigden van het Departement Onderwijs en Vorming, het Agentschap voor Onderwijsdiensten en de Onderwijsinspectie van het Vlaams Ministerie van Onderwijs en Vorming;<br />2° deskundigen intern of extern aan de onderwijssector.<br /><br />De samenstelling van de commissie en het voorzitterschap ervan worden toevertrouwd aan de entiteit Curriculum van het Departement Onderwijs en Vorming. De nominatieve samenstelling kan differentiëren afhankelijk van het te behandelen voorstel.<br /><br />§ 2. De commissie onderzoekt het voorstel ten minste op volledigheid, correctheid en actualiteitswaarde, en formuleert conclusies. De commissie hanteert daarbij de criteria, vermeld in artikel 5, en hoort de indiener van het voorstel.<br />
 
 ### ART. 4.
 
-De Vlaamse minister, bevoegd voor het onderwijs, maakt het oorspronkelijke voorstel en het rapport van de commissie ter advies over aan de Vlaamse Onderwijsraad.<br />
+De Vlaamse minister, bevoegd voor het onderwijs, legt het oorspronkelijke voorstel en de conclusies van de commissie ter advies voor aan de Vlaamse Onderwijsraad.
 
 ### ART. 5.
 
@@ -28,7 +28,7 @@ Bij het advies worden de volgende criteria gezamenlijk toegepast :<br />1° de b
 
 ### ART. 6.
 
-Over een voorstel dat wordt ingediend uiterlijk 31 januari, respectievelijk uiterlijk 31 augustus, beslist de Vlaamse Regering uiterlijk 31 mei, respectievelijk uiterlijk 31 december, daaropvolgend. Als op de uiterste datum geen beslissing is genomen, dan is het voorstel zoals het is ingediend van rechtswege goedgekeurd.<br /><br />Een voorstel wordt al dan niet voorwaardelijk of onder beding van beperkingen goedgekeurd.<br />
+Over een voorstel dat uiterlijk op 31 januari wordt ingediend, beslist de Vlaamse Regering uiterlijk op 30 juni daaropvolgend na kennisname van enerzijds de conclusies van de commissie en anderzijds het advies van de Vlaamse Onderwijsraad. Als op de uiterste datum geen beslissing is genomen, dan is het voorstel zoals het is ingediend van rechtswege goedgekeurd.<br /><br />Een voorstel wordt al dan niet voorwaardelijk of onder beding van beperkingen goedgekeurd.<br />
 
 ## [HOOFDSTUK 2. Procedure voor de actualisering of schrapping van structuuronderdelen (ing. BVR 16 juli 2021, art. 28, I: 1 september 2021)]
 
