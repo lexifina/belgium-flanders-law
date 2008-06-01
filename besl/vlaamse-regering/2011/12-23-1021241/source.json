@@ -1,0 +1,17 @@
+{
+  "codex_id": 1021241,
+  "title": "Besluit van de Vlaamse Regering van 2011-12-23 tot wijziging van het besluit van de Vlaamse Regering van 20 maart 2009 houdende de agentschapsspecifieke regeling van de rechtspositie van het personeel van Kind en Gezin, wat betreft de integratie van agentschapsspecifieke graden, loopbanen en salarisschalen en de invoering van een agentschapsspecifieke toelage",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1021241/VolledigDocument?datum=2008-06-01",
+  "source_sha256": "8d85c9d74be6f94094863f3182cf785237c96270a9a22b93ca50147ad1e70b89",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1021241&param=informatie",
+  "as_of": "2008-06-01",
+  "made": "2011-12-23",
+  "gazette": "2012-02-08",
+  "numac": 201235077,
+  "document_start": "2012-02-18",
+  "document_end": null,
+  "in_force": "2008-06-01",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2008-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
