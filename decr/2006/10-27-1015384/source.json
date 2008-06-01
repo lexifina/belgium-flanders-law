@@ -1,0 +1,17 @@
+{
+  "codex_id": 1015384,
+  "title": "Decreet van 2006-10-27 betreffende de bodemsanering en de bodembescherming (citeeropschrift: \"Bodemdecreet van 27 oktober 2006\")",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1015384/VolledigDocument?datum=2008-06-01",
+  "source_sha256": "d178ebf21a3a1435383380323d46d7361fefe61dd926e868a6da19ea95cbcc3d",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1015384&param=informatie",
+  "as_of": "2008-06-01",
+  "made": "2006-10-27",
+  "gazette": "2007-01-22",
+  "numac": 2006037062,
+  "document_start": "2008-06-01",
+  "document_end": null,
+  "in_force": "2008-06-01",
+  "article_versions": 178,
+  "record_form": "consolidated version as in force on 2008-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
