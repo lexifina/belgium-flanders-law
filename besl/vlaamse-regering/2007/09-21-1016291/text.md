@@ -1821,6 +1821,38 @@ Met toepassing van § 3 bedraagt de som van het aantal punten van de betrekkinge
 
 ## [HOOFDSTUK IVbis De vakantieregeling en de aanwending van de onderwijstijd (ing. BVR 10 juli 2008, art. 4, I: 1 juni 2008)]
 
+### ART. 8bis.
+
+Het schooljaar begint op 1 september en eindigt op 31 augustus. De lessen kunnen op alle dagen van de week plaatsvinden.
+
+### ART. 8ter.
+
+De volgende vakantieperioden worden vastgelegd :<br />1° de zomervakantie begint op 1 juli en eindigt op 31 augustus;<br />2° de herfstvakantie begint op de maandag van de week waarin 1 november valt en duurt één week. Als 1 november op een zondag valt, dan begint de herfstvakantie op 2 november;<br />3° de kerstvakantie begint op de maandag van de week waarin 25 december valt en duurt twee weken. Als 25 december op een zaterdag of een zondag valt, dan begint de kerstvakantie op de maandag na 25 december;<br />4° de krokusvakantie begint op de zevende maandag voor Pasen en duurt één week;<br />5° de paasvakantie begint op de eerste maandag van april en duurt twee weken. Als Pasen in maart valt, dan begint de paasvakantie op de maandag na Pasen. Als Pasen na 15 april valt, dan begint de paasvakantie op de tweede maandag voor Pasen.
+
+### ART. 8quater.
+
+Als ze niet tijdens een vakantieperiode vallen, is er bovendien vakantie op de volgende dagen :<br />1° 11 november;<br />2° 1 mei;<br />3° paasmaandag;<br />4° Hemelvaartsdag en de dag nadien;<br />5° pinkstermaandag.
+
+### ART. 8quinquies.
+
+De centra kunnen bijkomend één facultatieve vakantiedag organiseren. Deze facultatieve vakantiedag kan opgesplitst worden in twee halve facultatieve vakantiedagen. <br /><br />De lessen kunnen voor alle cursisten of voor een groep van cursisten één dag per schooljaar geschorst worden om pedagogische studiedagen voor de leraren te houden. Deze pedagogische studiedag kan niet opgesplitst worden.
+
+### ART. 8sexies.
+
+De dag voor, van en na de bij wet of decreet bepaalde parlementaire, provinciale of gemeentelijke verkiezingen kunnen de lessen geschorst worden in de instellingen waarvan lokalen naar aanleiding van die verkiezingen gebruikt zijn.
+
+### ART. 8septies.
+
+Met behoud van de toepassing van artikel 26, § 4, van het decreet kan de minister voor individuele centra op verzoek van de centrumbesturen in kwestie permanent afwijking verlenen van de bepalingen, vermeld in artikel 8ter en 8quater wat de dag na Hemelvaartsdag betreft. <br /><br />Met behoud van de toepassing van artikel 26, § 4, van het decreet kan de minister voor individuele centra op verzoek van de centrumbesturen in kwestie occasioneel afwijking verlenen van de bepalingen, vermeld in artikel 8ter en 8quater. <br /><br />Die aanvragen moeten gebaseerd worden op argumenten van eigen onderwijskundige en agogische concepten of religieuze of filosofische overtuigingen. <br /><br />Het protocol van de onderhandelingen in het lokaal comité wordt toegevoegd aan de aanvraag tot afwijking. Bij het al dan niet verlenen van de afwijking houdt de minister rekening met het standpunt van het personeel zoals opgenomen in het protocol.
+
+### ART. 8octies.
+
+Uiterlijk op 15 juni voor de aanvang van het volgende schooljaar leggen de centra de facultatieve vakantiedag vast en de dagen waarop de lessen, met toepassing van artikel 8quinquies, tweede lid, geschorst worden. <br /><br />Uiterlijk op 30 juni delen de centra de lijst van de dagen mee die met toepassing van artikel 8quinquies verdeeld zijn, alsook de bij toepassing van artikel 8septies, eerste en tweede lid, toegestane afwijkingen, mee aan de personeelsleden van de centra in kwestie en de bevoegde administratie.<br /><br />Die lijst wordt eveneens opgenomen in het centrumreglement, vermeld in artikel 120 van het decreet.
+
+### ART. 8novies.
+
+Het geheel van de concrete schikkingen die door het centrumbestuur kunnen worden getroffen conform de bepalingen van dit besluit, moeten het voorwerp uitmaken van onderhandelingen in het lokaal comité.
+
 ## [HOOFDSTUK IVter Financierbaarheid of subsidieerbaarheid van cursisten Nederlands tweede taal (ing. BVR 10 juli 2008, art. 5, I: 1 september 2008)]
 
 ## [HOOFDSTUK IVquater Sancties (ing. BVR 10 juli 2008, art. 6, I: 1 september 2008)]
