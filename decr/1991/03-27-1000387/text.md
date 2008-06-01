@@ -830,7 +830,7 @@ De Vlaamse regering bepaalt de nadere regelen betreffende het secretariaat en de
 
 ### ART. 73quater.
 
-Onverminderd artikel 73ter wordt voor het basisonderwijs bij het opmaken van een functiebeschrijving ook rekening gehouden met de bepalingen van het besluit van de Vlaamse Regering van 10 juni 1997 houdende de taken die niet in de functiebeschrijvingen van het personeel in het basisonderwijs kunnen opgenomen worden en met de bepalingen van hoofdstuk X, afdeling 2, van het decreet Basisonderwijs van 25 februari 1997.<br /><br />Bij het verdelen van de instellingsgebonden opdrachten tussen alle personeelsleden in het kader van de schoolopdracht, wordt o.a. rekening gehouden met :<br />1° de aard van de hoofdopdracht van de personeelsleden in de instelling, het voltijds of deeltijds karakter ervan en de tijd die hieraan besteed wordt;<br />2° het principe van de billijke verdeling van de taken, inzonderheid met betrekking tot personeelsleden die nog in andere instellingen werkzaam zijn;<br />3° de mogelijkheden en capaciteiten van de personeelsleden;<br />4° de tijd die personeelsleden besteden aan hun vertegenwoordiging in officiële inspraakorganen.
+Onverminderd artikel 73ter legt de Vlaamse Regering voor het basisonderwijs voor de verschillende ambten vast welke taken niet tot het taken- en opdrachtenpakket kunnen behoren. Deze taken mogen niet in de functiebeschrijving opgenomen worden.<br /><br />Onverminderd artikel 73ter wordt voor het basisonderwijs ook rekening gehouden met de bepalingen van hoofdstuk X, afdeling 2, van het decreet basisonderwijs van 25 februari 1997.<br /><br />Bij het verdelen van de instellingsgebonden opdrachten tussen alle personeelsleden in het kader van de schoolopdracht, wordt o.a. rekening gehouden met :<br />1° de aard van de hoofdopdracht van de personeelsleden in de instelling, het voltijds of deeltijds karakter ervan en de tijd die hieraan besteed wordt;<br />2° het principe van de billijke verdeling van de taken, inzonderheid met betrekking tot personeelsleden die nog in andere instellingen werkzaam zijn;<br />3° de mogelijkheden en capaciteiten van de personeelsleden;<br />4° de tijd die personeelsleden besteden aan hun vertegenwoordiging in officiële inspraakorganen.
 
 ### ART. 73quinquies.
 
@@ -1074,7 +1074,7 @@ De diensten gepresteerd door de personeelsleden in de semi-internaten en in de o
 
 ### ART. 100ter.
 
-...
+Alle beroepen die tijdens het schooljaar 2007-2008 werden ingediend bij de kamer van beroep tegen een ontslag om dringende redenen of tegen een tuchtstraf worden geacht conform de regelgeving te zijn ingediend.
 
 ### ART. 100quater.
 
