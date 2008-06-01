@@ -84,9 +84,17 @@ Hoofdstuk II van titel IV van het decreet van 5 april 1995 houdende algemene bep
 
 ## Afdeling I. Bodemsanering
 
+### ART. 126.
+
+Artikel 123 van hetzelfde decreet wordt vervangen door wat volgt :<br /><br />« Artikel 123<br /><br />§ 1. Als een handelaar of een vennootschap die eigenaar is van een risicogrond, failliet wordt verklaard, wordt op initiatief van de curator een oriënterend bodemonderzoek uitgevoerd op de risicogrond. De curator neemt het initiatief tot het uitvoeren van het oriënterend bodemonderzoek binnen een termijn van zestig dagen na zijn vaststelling dat de gefailleerde eigenaar is van een risicogrond. <br /><br />§ 2. Als een vennootschap die eigenaar is van een risicogrond in vereffening wordt gesteld, wordt op initiatief van de vereffenaar een oriënterend bodemonderzoek uitgevoerd op de risicogrond. De vereffenaar neemt het initiatief tot het uitvoeren van het oriënterend bodemonderzoek binnen een termijn van zestig dagen na zijn vaststelling dat de vennootschap die in vereffening wordt gesteld eigenaar is van een risicogrond.<br /><br />§ 3. Binnen een termijn van zestig dagen na ontvangst van het verslag van oriënterend bodemonderzoek spreekt de OVAM er zich over uit en stelt ze de curator of de vereffenaar, en de eigenaar en de gebruiker van de grond hiervan in kennis. ».
+
 ## Afdeling II. Bodembescherming
 
 ## Afdeling III. Overgangsbepaling
+
+### ART. 138.
+
+Aan artikel 177 van hetzelfde decreet wordt een § 4 toegevoegd, die luidt als volgt : <br /><br />« § 4. Voor de uitvoering van haar taken en de uitoefening van haar bevoegdheden kan de OVAM en de Vlaamse Regering zich baseren op technische verslagen, bodemonderzoeken, bodemsaneringsprojecten en eindevaluatieonderzoeken die voor de inwerkingtreding van dit decreet bij de OVAM werden ingediend, alsook op de bestuurshandelingen naar aanleiding van de beoordeling ervan. ».
 
 ## HOOFDSTUK XIV. Wijzigingen aan titel XVI van het decreet van 5 april 1995 houdende algemene bepalingen inzake milieubeleid, zoals toegevoegd bij decreet van 21 december 2007 tot aanvulling van het decreet van 5 april 1995 houdende algemene bepalingen inzake milieubeleid met een titel XVI « Toezicht, handhaving en veiligheidsmaatregelen »
 
