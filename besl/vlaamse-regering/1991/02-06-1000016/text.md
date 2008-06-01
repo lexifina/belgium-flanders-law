@@ -35396,199 +35396,114 @@ R = Inrichting waarvoor de exploitant op grond van de Verordening nr. 166/2005 v
 <table border="1" cellpadding="0" cellspacing="0" style="border-collapse:collapse">
 	<tbody>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; height:11.35pt; width:44.6pt">
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; height:14.2pt; width:44.6pt">
 			<p>Rubriek<!--?xml:namespace prefix =         o ns = "urn:schemas-microsoft-com:office:office"       /--></p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; height:11.35pt; width:215.95pt">
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; height:14.2pt; width:215.95pt">
 			<p>Omschrijving en subrubrieken</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; height:11.35pt; width:45pt">
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; height:14.2pt; width:45pt">
 			<p>Klasse</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; height:11.35pt; width:45pt">
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; height:14.2pt; width:45pt">
 			<p>Bemer-kingen</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; height:11.35pt; width:45pt">
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; height:14.2pt; width:45pt">
 			<p>Coördi-nator</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; height:11.35pt; width:36pt">
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; height:14.2pt; width:36pt">
 			<p>Audit</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; height:11.35pt; width:36pt">
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; height:14.2pt; width:36pt">
 			<p>Jaar-ver-slag</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:44.6pt">
-			<p>61.</p>
+			<td rowspan="4" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; vertical-align:top; width:44.6pt">
+			<p>60.</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:215.95pt">
-			<p>TUSSENTIJDSE OPSLAGPLAATSEN VOOR UITGEGRAVEN BODEM</p>
-
-			<p>Dit zijn permanente inrichtingen (die langer dan 1 jaar in exploitatie zullen zijn) voor grondpartijen die er tijdelijk worden gestockeerd.</p>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; vertical-align:top; width:215.95pt">
+			<p><strong>Geheel of gedeeltelijk opvullen met niet-verontreinigde uitgegraven bodem van groeven, graverijen, uitgravingen en andere putten, met inbegrip van waterplassen en vijvers</strong></p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; vertical-align:bottom; width:45pt">
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; vertical-align:bottom; width:45pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; vertical-align:bottom; width:45pt">
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; vertical-align:bottom; width:45pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; vertical-align:bottom; width:45pt">
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; vertical-align:bottom; width:45pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; vertical-align:bottom; width:36pt">
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; vertical-align:bottom; width:36pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:bottom; width:36pt">
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td rowspan="3" style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:44.6pt">
-			<p>61.1.</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:215.95pt">
-			<p>Tussentijdse opslagplaats voor uitgegraven bodem die niet voldoet aan een toepassing van hoofdstuk X van het besluit van de Vlaamse Regering van 5 maart 1996 houdende vaststelling van het Vlaams reglement betreffende de bodemsanering:</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; vertical-align:bottom; width:45pt">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; vertical-align:bottom; width:45pt">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; vertical-align:bottom; width:45pt">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; vertical-align:bottom; width:36pt">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:bottom; width:36pt">
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; vertical-align:bottom; width:36pt">
 			<p>&nbsp;</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:215.95pt">
-			<p>1°. met een capaciteit van 1000 m<sup>3</sup> tot en met 10.000 m<sup>3</sup></p>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; width:215.95pt">
+			<p>1°. met een capaciteit van 1000 tot en met 10.000 m<sup>3</sup></p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; vertical-align:bottom; width:45pt">
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; vertical-align:bottom; width:45pt">
 			<p>2</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; vertical-align:bottom; width:45pt">
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; vertical-align:bottom; width:45pt">
 			<p>N, O</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; vertical-align:bottom; width:45pt">
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; vertical-align:bottom; width:45pt">
 			<p>N</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; vertical-align:bottom; width:36pt">
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; vertical-align:bottom; width:36pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:bottom; width:36pt">
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; vertical-align:bottom; width:36pt">
 			<p>&nbsp;</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:215.95pt">
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; width:215.95pt">
 			<p>2° met een capaciteit van meer dan 10.000 m<sup>3</sup></p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; vertical-align:bottom; width:45pt">
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; vertical-align:bottom; width:45pt">
 			<p>1</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; vertical-align:bottom; width:45pt">
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; vertical-align:bottom; width:45pt">
 			<p>N, O</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; vertical-align:bottom; width:45pt">
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; vertical-align:bottom; width:45pt">
 			<p>N</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; vertical-align:bottom; width:36pt">
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; vertical-align:bottom; width:36pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:bottom; width:36pt">
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td rowspan="3" style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:44.6pt">
-			<p>61.2.</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:215.95pt">
-			<p>Tussentijdse opslagplaats voor uitgegraven bodem die voldoet aan een toepassing overeenkomstig hoofdstuk X van het besluit van de Vlaamse Regering van 5 maart 1996 houdende vaststelling van het Vlaams reglement betreffende de bodemsanering:</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:45pt">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:45pt">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:45pt">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:36pt">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:36pt">
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; vertical-align:bottom; width:36pt">
 			<p>&nbsp;</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:215.95pt">
-			<p>1°. met een capaciteit van 1000 m<sup>3</sup> tot en met 10.000 m<sup>3</sup></p>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; width:215.95pt">
+			<p>Opmerkingen:</p>
+
+			<p>Het grondverzet en het gebruik van uitgegraven bodem of bagger- en ruimingsspecie in het kader van functionele ophogingen en aanvullingen, boven het maaiveld, voor het bouwrijp maken van terreinen of voor de realisatie van een grond- of bouwwerk valt niet onder deze rubriek. In deze rubriek wordt onder « niet-verontreinigde uitgegraven bodem » verstaan : uitgegraven bodem, uitgegraven bodem die een fysische scheiding heeft ondergaan en gereinigde uitgegraven bodem die voldoet aan de volgende voorwaarden :<br>
+			1° inzake fysische samenstelling voldoet hij aan de bepalingen van artikel 162 van het besluit van de Vlaamse Regering van 14 december 2007 houdende vaststelling van het Vlaams reglement betreffende de bodemsanering en bodembescherming;<br>
+			2° inzake chemische samenstelling voldoet hij aan een van de volgende waarden :<br>
+			a) de waarden voor vrij gebruik van uitgegraven bodem, vermeld in bijlage V van hetzelfde besluit;<br>
+			b) de waarden van bijlage IV van hetzelfde besluit voor bestemmingstype III, op voorwaarde dat dit bepaald is in de milieuvergunning en dat, indien nodig, aanvullende milieubeschermende voorwaarden garanties geven met betrekking tot het isoleren, beheren en controleren.</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:45pt">
-			<p>3</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:45pt">
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; vertical-align:bottom; width:45pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:45pt">
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; vertical-align:bottom; width:45pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:36pt">
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; vertical-align:bottom; width:45pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:36pt">
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; vertical-align:bottom; width:36pt">
 			<p>&nbsp;</p>
 			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:215.95pt">
-			<p>2° met een capaciteit van meer dan 10.000 m<sup>3</sup></p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; vertical-align:bottom; width:45pt">
-			<p>2</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; vertical-align:bottom; width:45pt">
-			<p>N, O</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; vertical-align:bottom; width:45pt">
-			<p>N</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:36pt">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:36pt">
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:44.6pt">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:215.95pt">
-			<p>Beperkte mechanische activiteiten, zoals het sorteren en/of zeven van uitgegraven bodem zijn begrepen in deze rubriek, en zijn niet vergunningsplichtig volgens rubriek 30.</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:45pt">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:45pt">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:45pt">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:36pt">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:36pt">
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; vertical-align:bottom; width:36pt">
 			<p>&nbsp;</p>
 			</td>
 		</tr>
@@ -35656,7 +35571,7 @@ R = Inrichting waarvoor de exploitant op grond van de Verordening nr. 166/2005 v
 			<p>61.1.</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:215.95pt">
-			<p>Tussentijdse opslagplaats voor uitgegraven bodem die niet voldoet aan een toepassing van hoofdstuk X van het besluit van de Vlaamse Regering van 5 maart 1996 houdende vaststelling van het Vlaams reglement betreffende de bodemsanering:</p>
+			<p>Tussentijdse opslagplaats voor uitgegraven bodem die niet voldoet aan een toepassing van het besluit van de Vlaamse Regering van 14 december 2007 houdende vaststelling van het Vlaams reglement betreffende de bodemsanering en de bodembescherming:</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; vertical-align:bottom; width:45pt">
 			<p>&nbsp;</p>
@@ -35719,7 +35634,7 @@ R = Inrichting waarvoor de exploitant op grond van de Verordening nr. 166/2005 v
 			<p>61.2.</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:215.95pt">
-			<p>Tussentijdse opslagplaats voor uitgegraven bodem die voldoet aan een toepassing overeenkomstig hoofdstuk X van het besluit van de Vlaamse Regering van 5 maart 1996 houdende vaststelling van het Vlaams reglement betreffende de bodemsanering:</p>
+			<p>Tussentijdse opslagplaats voor uitgegraven bodem die voldoet aan een toepassing overeenkomstig het besluit van de Vlaamse Regering van 14 december 2007 houdende vaststelling van het Vlaams reglement betreffende de bodemsanering en de bodembescherming:</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:45pt">
 			<p>&nbsp;</p>
