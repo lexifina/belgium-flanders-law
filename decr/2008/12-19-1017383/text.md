@@ -36,6 +36,10 @@ Aan artikel 253 van het Wetboek van de inkomstenbelastingen 1992 wordt na de zin
 
 ## Afdeling V Successierechten
 
+### ART. 30.
+
+In artikel 21 van het Wetboek der successierechten wordt in het tweede lid van de tekst sub III het woord « twee » vervangen door het woord « drie ».<br /><br />
+
 ## Afdeling VI Verlaagde tarieven inzake schenkings- en successierechten
 
 ## HOOFDSTUK IV Pooling van de verzekeringen van de agentschappen
