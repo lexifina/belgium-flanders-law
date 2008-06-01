@@ -20,6 +20,10 @@ In artikel I 5, III 10, III 16, VI 14, VI 25, VI 35, VI 50, VI 51, VI 59 tot en 
 
 In artikel I 5, III 10, VI 35, VI 50 en VI 51 van hetzelfde besluit worden de woorden « loopbaanexamen » en « loopbaanexamens » telkens vervangen door respectievelijk de woorden « overgangsexamen » en « overgangsexamens ».
 
+### ART. 5.
+
+Artikel I 18 van hetzelfde besluit, vervangen bij het besluit van de Vlaamse Regering van 16 maart 2007, wordt opgeheven.
+
 ### ART. 6.
 
 In artikel II 2, § 2, eerste lid, van hetzelfde besluit, vervangen bij het besluit van de Vlaamse Regering van 16 maart 2007, worden de woorden « zijn lijnmanager » vervangen door de woorden « een functionele chef ».
@@ -239,6 +243,18 @@ In artikel VI 112, § 1, van hetzelfde besluit worden de woorden « de scheepste
 ### ART. 61.
 
 Artikel VI 132 van hetzelfde besluit, ingevoegd bij het besluit van de Vlaamse Regering van 16 maart 2007, wordt opgeheven.
+
+### ART. 62.
+
+Artikel VI 142 van hetzelfde besluit, ingevoegd bij het besluit van de Vlaamse Regering van 16 maart 2007, wordt vervangen door wat volgt :<br /><br />« Art. VI 142. Een adjunct van de directeur die op de datum van de inwerkingtreding van dit besluit tijdelijk aangesteld is als opdrachthouder, wordt ambtshalve benoemd in de graad van adviseur.<br /><br />Een ingenieur of informaticus die op de datum van inwerkingtreding van dit besluit tijdelijk aangesteld is als opdrachthouder, wordt ambtshalve benoemd in de graad van respectievelijk adviseur-ingenieur of adviseur-informaticus.»
+
+### ART. 63.
+
+Aan deel VI van hetzelfde besluit, ingevoegd bij het besluit van de Vlaamse Regering van 16 maart 2007, worden de artikelen VI 143 tot en met VI 145 toegevoegd, die luiden als volgt :<br /><br />« Art. VI 143. § 1. Een ambtenaar die op de datum van de inwerkingtreding van dit besluit tijdelijk aangesteld is als senior auditor, wordt ambtshalve benoemd in de graad van adviseur.<br /><br />§ 2. De anciënniteit opgebouwd in de vroegere functie van senior auditor wordt in rekening gebracht voor de bepaling van de anciënniteit in de graad van adviseur.<br /><br />Art. VI 144. De lijnmanager kan aan een ambtenaar met de graad van directeur eenmalig op de datum van de inwerkingtreding van dit besluit een graadverandering toekennen naar de graad van adviseur op voorwaarde dat hij een functie uitoefent die een doorgedreven specialisatie in inhoudelijke materie veronderstelt. Hij is vrijgesteld van de proef waarbij de functiespecifieke competenties van de kandidaat getest worden.<br /><br />Art. VI 145. De lijnmanager kan aan een ambtenaar met de graad van adviseur eenmalig op de datum van de inwerkingtreding van dit besluit een graadverandering toekennen naar de graad van directeur op voorwaarde dat hij een leidinggevende functie uitoefent. Hij is vrijgesteld van de proef waarbij de generieke en functiespecifieke competenties van de kandidaat getest worden. »
+
+### ART. 64.
+
+In artikel VII 1, § 3 van hetzelfde besluit, vervangen bij het besluit van de Vlaamse Regering van 16 maart 2007, wordt een punt 3° toegevoegd, dat luidt als volgt :<br /><br />« 3° een contractueel personeelslid dat een van de volgende bijkomende of specifieke opdrachten uitoefent :<br />a) Vlaams bouwmeester bij het Departement Bestuurszaken;<br />b) programmamanager financieel hervormingstraject bij het Departement Financiën en Begroting;<br />c) projectmanager Vlaams Fiscaal Platform bij het Departement Financiën en Begroting;<br />d) projectmanager migratie gewestbelastingen bij het intern verzelfstandigd agentschap Vlaamse Belastingdienst;<br />e) ICT-manager bij de Vlaamse Dienst voor Arbeidsbemiddeling en Beroepsopleiding. »
 
 ### ART. 65.
 
@@ -508,6 +524,10 @@ In deel VII, titel 2, hoofdstuk 3, van hetzelfde besluit, ingevoegd bij het besl
 ### ART. 76.
 
 In deel VII, titel 2, hoofdstuk 3, afdeling 3 van hetzelfde besluit, ingevoegd bij het besluit van de Vlaamse Regering van 16 maart 2007, wordt een artikel VII 49bis ingevoegd, dat luidt als volgt :<br /><br />« Art. VII 49bis. De personeelsleden die hun rekenplichtigheid verliezen door het afschaffen van hun financiële rekening na 31 december 2006, voor de buitengewone rekenplichtigen, en na 31 december 2007 voor de speciale en gewone rekenplichtigen, door een rationalisering in de financiële administratie, behouden hun premie op voorwaarde dat ze blijven werken op een boekhoudcel en daar verantwoordelijk zijn voor de boeking van ontvangsten en/uitgaven.<br /><br />De toelage aan de personeelsleden, vermeld in het eerste lid, die gewone en buitengewone rekenplichtigen waren, wordt driemaandelijks, na verloop van de termijn uitbetaald, na het verwerken van alle openstaande problemen met betrekking tot de transacties die zij hebben verricht. Die kwartaaltoelage is bovendien maar verschuldigd als zij transacties hebben geboekt ten belope van minstens 7400 euro. »
+
+### ART. 77.
+
+Artikel VII 52 van hetzelfde besluit, ingevoegd bij het besluit van de Vlaamse Regering van 16 maart 2007, wordt vervangen door wat volgt :<br /><br />« Art. VII 52. De leidend ambtenaar van het departement Diensten voor het Algemeen Regeringsbeleid wijst de personeelsleden aan die met secretariaatstaken voor de Vlaamse Regering belast worden. Die personeelsleden krijgen een toelage waarvan het bedrag wordt vastgesteld door de leidend ambtenaar, met een maximum van 5.694,00 euro aan 100 % per jaar. »
 
 ### ART. 78.
 
@@ -837,6 +857,10 @@ Artikel XI 3 van hetzelfde besluit wordt vervangen door wat volgt :<br /><br />�
 ### ART. 109.
 
 Artikel XI 7 van hetzelfde besluit wordt vervangen door wat volgt :<br /><br />« Art. XI 7. De ambtenaar die 60 jaar geworden is, wordt op rust gesteld op de eerste dag van de maand die volgt op de maand waarin hij, zonder definitief ongeschikt te zijn bevonden, komt tot een totaal van 222 werkdagen wegens ziekte, te rekenen vanaf de leeftijd van 60 jaar.<br /><br />Op verzoek van de ambtenaar en na akkoord van de lijnmanager of de functioneel bevoegde minister(s) kan de opruststelling met 6 maanden worden uitgesteld. Die periode kan meermaals stilzwijgend verlengd worden met een periode van 6 maanden.<br /><br />De lijnmanager of de functioneel bevoegde minister kan de beslissing tot uitstel van de opruststelling op elk moment op gemotiveerde wijze intrekken, waardoor de ambtenaar ambtshalve op rust gesteld wordt op de eerste dag van de maand die volgt op de maand waarin de beslissing ingetrokken wordt.<br /><br />Als de opruststelling wordt uitgesteld, moet de ambtenaar de niet-opgenomen vakantieverlofdagen opnemen vóór de datum van opruststelling.<br /><br />Als de ambtenaar de vakantieverlofdagen niet heeft kunnen opnemen vóór de datum van opruststelling, worden de bepalingen van artikel VII 11, § 2 toegepast. »
+
+### ART. 110.
+
+Bijlage 1 van hetzelfde besluit, vervangen bij het besluit van de Vlaamse Regering van 16 maart 2007, wordt opgeheven.
 
 ### ART. 111.
 
