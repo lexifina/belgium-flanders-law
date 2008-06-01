@@ -2,16 +2,16 @@
   "codex_id": 1001355,
   "title": "Besluit van de Vlaamse Regering van 1994-07-13 inzake de erkenningsvoorwaarden en de subsidienormen voor de voorzieningen van de bijzondere jeugdbijstand",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1001355/VolledigDocument?datum=2007-01-01",
-  "source_sha256": "7cc6a11f4f62d07419dc49788b7768543c0c0306c87aaa5ceb7e6bb55fdc19bd",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1001355/VolledigDocument?datum=2008-06-01",
+  "source_sha256": "b233ea264e8c3a82a74d484f4fa07c4cb83351e3464a75b1d1722e67b96b022e",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1001355&param=informatie",
-  "as_of": "2007-01-01",
+  "as_of": "2008-06-01",
   "made": "1994-07-13",
   "gazette": "1994-12-10",
   "numac": 1994036316,
   "document_start": "1995-01-01",
   "document_end": "2018-12-31",
-  "in_force": "2007-01-01",
-  "article_versions": 87,
-  "record_form": "consolidated version as in force on 2007-01-01; future article versions excluded; article text as the API gives it"
+  "in_force": "2008-06-01",
+  "article_versions": 88,
+  "record_form": "consolidated version as in force on 2008-06-01; future article versions excluded; article text as the API gives it"
 }

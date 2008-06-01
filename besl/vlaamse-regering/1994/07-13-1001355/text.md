@@ -256,7 +256,7 @@ Voor het berekenen van de subsidieerbare personeelskosten, overeenkomstig de art
 
 ### ART. 39.
 
-§ 1. Om de uitgaven te vergoeden met betrekking tot het verblijf van de minderjarigen die zelfstandig wonen, evenals voor het verblijf van de minderjarigen in een voorziening van categorie 1 tot 4, of in een pleeggezin, worden aan de voorzieningen van de categorieën 1 tot 4, 6 en 7 per minderjarige en per dag subsidies toegekend overeenkomstig de tarieven bepaald in bijlage 3 bij dit besluit.<br /><br />Er wordt slechts één dag aangerekend voor de dag van de opname en de dag van het ontslag: hij wordt bestempeld als dag van de opname. De Vlaamse minister kan bepaalde dagen afwezigheid met werkelijke aanwezigheid gelijkstellen.<br /><br />§ 2. De subsidies voorzien in § 1 worden niet uitbetaald voor de personen vermeld in artikel 1, punt 3°, b) die zelfstandig wonen, tenzij na uitputting van de procedure waaruit blijkt dat de betrokkene geen recht heeft op het bestaansminimum en niet over voldoende eigen inkomsten beschikt. De Vlaamse minister bepaalt de wijze waarop aan de voorziening voorschotten worden verleend gedurende de tijd dat de procedure loopt.<br /><br />§ 3. De in § 1 bedoelde subsidies die toegekend worden aan de voorzieningen van categorie 7 kunnen, in uitzonderlijke omstandigheden en bij beslissing van de administrateur-generaal, rechtstreeks worden uitbetaald aan het pleeggezin.<br /><br />§ 4. Behalve in het geval bedoeld in artikel 19, 4°, a) en b) kunnen de subsidies bedoeld in § 1 noch aan een voorziening van categorie 7, noch aan een pleeggezin worden toegekend indien meer dan vier personen in het pleeggezin worden opgenomen tegen vergoeding, al dan niet ten laste van de openbare besturen.
+§ 1. Om de uitgaven te vergoeden met betrekking tot het verblijf van de minderjarigen die zelfstandig wonen, evenals voor het verblijf van de minderjarigen in een voorziening van categorie 1 tot 4, of in een pleeggezin, worden aan de voorzieningen van de categorieën 1 tot 4, 6 en 7 per minderjarige en per dag subsidies toegekend overeenkomstig de tarieven bepaald in bijlage 3 bij dit besluit.<br /><br />Er wordt slechts één dag aangerekend voor de dag van de opname en de dag van het ontslag: hij wordt bestempeld als dag van de opname. De Vlaamse minister kan bepaalde dagen afwezigheid met werkelijke aanwezigheid gelijkstellen.<br /><br />§ 2. De subsidies voorzien in § 1 worden niet uitbetaald voor de personen vermeld in artikel 1, punt 3°, b) die zelfstandig wonen, tenzij na uitputting van de procedure waaruit blijkt dat de betrokkene geen recht heeft op het bestaansminimum en niet over voldoende eigen inkomsten beschikt. De Vlaamse minister bepaalt de wijze waarop aan de voorziening voorschotten worden verleend gedurende de tijd dat de procedure loopt.<br /><br />De subsidies, vermeld in §1, die uitbetaald worden voor de personen, vermeld in artikel 1, punt 3°, b), die zelfstandig wonen, worden verminderd met de eigen inkomsten waarover de betrokkene beschikt. Voor inkomsten uit arbeid geldt op die vermindering een vrijstelling als vermeld in artikel 35, §1, van het koninklijk besluit van 11 juli 2002 houdende het algemeen reglement betreffende het recht op maatschappelijke integratie. <br /><br />§ 3. De in § 1 bedoelde subsidies die toegekend worden aan de voorzieningen van categorie 7 kunnen, in uitzonderlijke omstandigheden en bij beslissing van de administrateur-generaal, rechtstreeks worden uitbetaald aan het pleeggezin.<br /><br />§ 4. Behalve in het geval bedoeld in artikel 19, 4°, a) en b) kunnen de subsidies bedoeld in § 1 noch aan een voorziening van categorie 7, noch aan een pleeggezin worden toegekend indien meer dan vier personen in het pleeggezin worden opgenomen tegen vergoeding, al dan niet ten laste van de openbare besturen.
 
 ### ART. 40.
 
@@ -805,6 +805,109 @@ A. Directiepersoneel<br>
 ### BIJLAGE 2.
 
 <p><a href="http://www.ejustice.just.fgov.be/mopdf/2006/06/15_1.pdf#page=90" target="_blank">bjilage 2</a></p>
+
+### BIJLAGE 3.
+
+<table border="1" cellpadding="0" cellspacing="0" style="border-collapse:collapse; width:467.95pt">
+	<tbody>
+		<tr>
+			<td rowspan="3" style="border-color:black; border-style:solid; border-width:1.0pt; height:14.2pt; width:3.0cm">
+			<p>voorzieningen</p>
+			</td>
+			<td colspan="6" style="border-color:black; border-left:none; border-style:solid; border-width:1.0pt; height:14.2pt; width:297.8pt">
+			<p>erkende voorzieningen</p>
+			</td>
+			<td colspan="2" rowspan="3" style="border-color:black; border-left:none; border-style:solid; border-width:1.0pt; height:14.2pt; width:85.1pt">
+			<p>niet-erkende voorzieningen</p>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="6" style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; height:14.2pt; width:297.8pt">
+			<p>categorieën</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; height:14.2pt; width:42.55pt">
+			<p>1, 2 en 3</p>
+			</td>
+			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; height:14.2pt; width:42.55pt">
+			<p>1, 2 en 3</p>
+			</td>
+			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; height:14.2pt; width:42.55pt">
+			<p>4</p>
+			</td>
+			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; height:14.2pt; width:42.55pt">
+			<p>7</p>
+			</td>
+			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; height:14.2pt; width:42.55pt">
+			<p>7</p>
+			</td>
+			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; height:14.2pt; width:3.0cm">
+			<p>BZW (1, 2 en 6)</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-color:black; border-style:solid; border-top:none; border-width:1.0pt; height:14.2pt; width:3.0cm">
+			<p>leeftijd minderjarigen</p>
+			</td>
+			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; height:14.2pt; width:42.55pt">
+			<p>- 12 jaar</p>
+			</td>
+			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; height:14.2pt; width:42.55pt">
+			<p>+ 12 jaar</p>
+			</td>
+			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; height:14.2pt; width:42.55pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; height:14.2pt; width:42.55pt">
+			<p>- 12 jaar</p>
+			</td>
+			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; height:14.2pt; width:42.55pt">
+			<p>+ 12 jaar</p>
+			</td>
+			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; height:14.2pt; width:3.0cm">
+			<p>&nbsp;</p>
+			</td>
+			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; height:14.2pt; width:42.55pt">
+			<p>- 12 jaar</p>
+			</td>
+			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; height:14.2pt; width:42.55pt">
+			<p>+ 12 jaar</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-color:black; border-style:solid; border-top:none; border-width:1.0pt; height:14.2pt; vertical-align:top; width:3.0cm">
+			<p>euro per dag</p>
+			</td>
+			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; height:14.2pt; vertical-align:top; width:42.55pt">
+			<p>7,34</p>
+			</td>
+			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; height:14.2pt; vertical-align:top; width:42.55pt">
+			<p>9,07</p>
+			</td>
+			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; height:14.2pt; vertical-align:top; width:42.55pt">
+			<p>2,78</p>
+			</td>
+			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; height:14.2pt; vertical-align:top; width:42.55pt">
+			<p>11,23</p>
+			</td>
+			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; height:14.2pt; vertical-align:top; width:42.55pt">
+			<p>12,22</p>
+			</td>
+			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; height:14.2pt; vertical-align:top; width:3.0cm">
+			<p>1/365 van het bedrag, vermeld in artikel 14, 2°, van de wet van 26 mei 2002 betreffende het recht op maatschappelijke integratie</p>
+			</td>
+			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; height:14.2pt; vertical-align:top; width:42.55pt">
+			<p>11,23</p>
+			</td>
+			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; height:14.2pt; vertical-align:top; width:42.55pt">
+			<p>12,22</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+<p>&nbsp;</p>
 
 ### BIJLAGE 4.
 
