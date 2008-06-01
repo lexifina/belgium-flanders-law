@@ -1,0 +1,17 @@
+{
+  "codex_id": 1016742,
+  "title": "Besluit van de Vlaamse Regering van 2007-12-14 tot wijziging van het besluit van de Vlaamse Regering van 6 februari 1991 houdende vaststelling van het Vlaams reglement betreffende de milieuvergunning, het besluit van de Vlaamse Regering van 1 juni 1995 houdende algemene en sectorale bepalingen inzake milieuhygiëne en het besluit van de Vlaamse Regering van 5 december 2003 tot vaststelling van het Vlaams reglement inzake afvalvoorkoming en -beheer",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1016742/VolledigDocument?datum=2008-06-01",
+  "source_sha256": "376b8746435d2443574cd8e69a236433f37433d014b78a968f9969730b97ada3",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1016742&param=informatie",
+  "as_of": "2008-06-01",
+  "made": "2007-12-14",
+  "gazette": "2008-04-22",
+  "numac": 2008035086,
+  "document_start": "2008-06-01",
+  "document_end": null,
+  "in_force": "2008-06-01",
+  "article_versions": 11,
+  "record_form": "consolidated version as in force on 2008-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
