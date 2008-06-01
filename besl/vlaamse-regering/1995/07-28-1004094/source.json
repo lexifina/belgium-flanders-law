@@ -2,16 +2,16 @@
   "codex_id": 1004094,
   "title": "Besluit van de Vlaamse Regering van 1995-07-28 houdende samenstelling van de afvaardiging van de overheid in de basis- en tussenoverlegcomités van het ministerie van de Vlaamse Gemeenschap en de Vlaamse wetenschappelijke instellingen",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1004094/VolledigDocument?datum=2006-06-01",
-  "source_sha256": "f472cfcdfe7369dced7b17578dffa37859e0baabbd2142dd3cb5a5700604e00c",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1004094/VolledigDocument?datum=2008-06-01",
+  "source_sha256": "f2040736ef8408a1f3e9a53fe3f7b34c3aa5b021386bc7fa0bed434d68307497",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1004094&param=informatie",
-  "as_of": "2006-06-01",
+  "as_of": "2008-06-01",
   "made": "1995-07-28",
   "gazette": "1995-11-22",
   "numac": 1995036380,
   "document_start": null,
   "document_end": "2008-05-31",
-  "in_force": "2006-06-01",
+  "in_force": "2008-06-01",
   "article_versions": 3,
-  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2008-06-01; future article versions excluded; article text as the API gives it"
 }
