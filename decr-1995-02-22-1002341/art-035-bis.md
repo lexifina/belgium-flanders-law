@@ -1,4 +1,0 @@
-# Art. 35bis
-§ 1. Een bodemsaneringsorganisatie is een rechtspersoon die als maatschappelijk doel heeft het voorkomen en beheersen van bodemverontreiniging, alsook het begeleiden en stimuleren van de sanering van bodemverontreiniging die tot stand is gekomen naar aanleiding van de uitoefening van een activiteit als vermeld in artikel 5bis, § 1.
-§ 2. Een bodemsaneringsorganisatie kan door de Vlaamse Regering worden erkend op voorwaarde dat ze mede is opgericht door één of meer organisaties die gezamenlijk minimaal 60 % vertegenwoordigen van alle natuurlijke personen of rechtspersonen die de activiteit uitoefenen waarvoor de bodemsaneringsorganisatie is opgericht.
-De Vlaamse Regering bepaalt de procedure tot erkenning als bodemsaneringsorganisatie. Ze bepaalt tevens de voorwaarden voor het gebruik van de erkenning en kan bijkomende erkenningsvoorwaarden bepalen.
