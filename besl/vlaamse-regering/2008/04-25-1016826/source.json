@@ -1,0 +1,17 @@
+{
+  "codex_id": 1016826,
+  "title": "Besluit van de Vlaamse Regering van 2008-04-25 tot opheffing van het besluit van de Vlaamse Regering van 28 juli 1995 houdende de oprichting van basis- en tussenoverlegcomités voor het ministerie van de Vlaamse Gemeenschap en de Vlaamse wetenschappelijke instellingen en het besluit van de Vlaamse Regering van 28 juli 1995 houdende samenstelling van de afvaardiging van de overheid in de basis- en tussenoverlegcomités voor het ministerie van de Vlaamse Gemeenschap en de Vlaamse wetenschappelijke instellingen",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1016826/VolledigDocument?datum=2008-06-01",
+  "source_sha256": "4c88bef49ef3e0529de345399cc667c61d5b5812b3b7b6ec300c35eff4bccfe1",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1016826&param=informatie",
+  "as_of": "2008-06-01",
+  "made": "2008-04-25",
+  "gazette": "2008-06-12",
+  "numac": 2008202029,
+  "document_start": "2008-06-01",
+  "document_end": null,
+  "in_force": "2008-06-01",
+  "article_versions": 5,
+  "record_form": "consolidated version as in force on 2008-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
