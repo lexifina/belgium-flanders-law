@@ -1,0 +1,17 @@
+{
+  "codex_id": 1016782,
+  "title": "Decreet van 2008-04-18 houdende wijziging van het decreet van 16 januari 2004 op de begraafplaatsen en de lijkbezorging",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1016782/VolledigDocument?datum=2008-06-05",
+  "source_sha256": "c23ac8dc6e2a2d4403e43ec924262ac35c8497a01b68037753e25e570fd39634",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1016782&param=informatie",
+  "as_of": "2008-06-05",
+  "made": "2008-04-18",
+  "gazette": "2008-05-26",
+  "numac": 2008201706,
+  "document_start": "2008-06-05",
+  "document_end": null,
+  "in_force": "2008-06-05",
+  "article_versions": 5,
+  "record_form": "consolidated version as in force on 2008-06-05; oldest version available; future article versions excluded; article text as the API gives it"
+}
