@@ -1,0 +1,17 @@
+{
+  "codex_id": 1016790,
+  "title": "Ministerieel besluit van 2008-05-08 in uitvoering van het besluit van de Vlaamse Regering van 1 oktober 2004 houdende de normen voor de preventie van brand in de mini-crèches met betrekking tot mini-crèche Het Jungle Paleis, Kiekenhoefstraat 3, 3270 Scherpenheuvel",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1016790/VolledigDocument?datum=2008-06-06",
+  "source_sha256": "9aa2c8469c2fb3f2c22f40fb17ca6a7f888cb56a8c2f7fbabcd8822ab6a7515d",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1016790&param=informatie",
+  "as_of": "2008-06-06",
+  "made": "2008-05-08",
+  "gazette": "2008-05-27",
+  "numac": 2008201762,
+  "document_start": "2008-06-06",
+  "document_end": null,
+  "in_force": "2008-06-06",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2008-06-06; oldest version available; future article versions excluded; article text as the API gives it"
+}
