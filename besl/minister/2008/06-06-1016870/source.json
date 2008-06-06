@@ -1,0 +1,17 @@
+{
+  "codex_id": 1016870,
+  "title": "Ministerieel besluit van 2008-06-06 tot uitvoering van artikel 23 van het besluit van de Vlaamse Regering van 11 mei 2007 houdende subsidiëring van bedrijvencentra en doorgangsgebouwen",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1016870/VolledigDocument?datum=2008-06-06",
+  "source_sha256": "33b3b91ce47a8b9af4b375fc956e9efd4f2f4077861982c4ab4ce82677382e1a",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1016870&param=informatie",
+  "as_of": "2008-06-06",
+  "made": "2008-06-06",
+  "gazette": "2008-06-27",
+  "numac": 2008202200,
+  "document_start": "2008-06-06",
+  "document_end": null,
+  "in_force": "2008-06-06",
+  "article_versions": 15,
+  "record_form": "consolidated version as in force on 2008-06-06; oldest version available; future article versions excluded; article text as the API gives it"
+}
