@@ -1,0 +1,17 @@
+{
+  "codex_id": 1016789,
+  "title": "Ministerieel besluit van 2008-05-08 in uitvoering van het besluit van de Vlaamse Regering van 1 oktober 2004 houdende de normen voor de preventie van brand in de mini-crèches met betrekking tot mini-crèche De Biebeltjes, Westlaan 128, 3550 Heusden-Zolder",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1016789/VolledigDocument?datum=2008-06-06",
+  "source_sha256": "7d35a6f093c669a247c846319b2fa0adb3f97f1722afd02e9a935f2868d86639",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1016789&param=informatie",
+  "as_of": "2008-06-06",
+  "made": "2008-05-08",
+  "gazette": "2008-05-27",
+  "numac": 2008201764,
+  "document_start": "2008-06-06",
+  "document_end": null,
+  "in_force": "2008-06-06",
+  "article_versions": 5,
+  "record_form": "consolidated version as in force on 2008-06-06; oldest version available; future article versions excluded; article text as the API gives it"
+}
