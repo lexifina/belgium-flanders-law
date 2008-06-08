@@ -1,0 +1,17 @@
+{
+  "codex_id": 1016796,
+  "title": "Besluit van de Vlaamse Regering van 2008-04-11 houdende oprichting, samenstelling en werking van het raadgevend comité bij het intern verzelfstandigd agentschap Vlaams Subsidieagentschap voor Werk en Sociale Economie",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1016796/VolledigDocument?datum=2008-06-08",
+  "source_sha256": "5801640a16b1e87fb6edc8adff0a5fff75e718f0aaf1df23fd61312b22c33936",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1016796&param=informatie",
+  "as_of": "2008-06-08",
+  "made": "2008-04-11",
+  "gazette": "2008-05-29",
+  "numac": 2008201795,
+  "document_start": "2008-06-08",
+  "document_end": "2014-05-31",
+  "in_force": "2008-06-08",
+  "article_versions": 13,
+  "record_form": "consolidated version as in force on 2008-06-08; oldest version available; future article versions excluded; article text as the API gives it"
+}
