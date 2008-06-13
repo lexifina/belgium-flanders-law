@@ -1,0 +1,17 @@
+{
+  "codex_id": 1016803,
+  "title": "Ministerieel besluit van 2008-04-18 betreffende toepassing van de artikelen 48 en 48ter van het decreet van 22 februari 1995 betreffende bodemsanering - Site \"Oude Kale\"",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1016803/VolledigDocument?datum=2008-06-13",
+  "source_sha256": "80c47102d020cf7bf8f2e5dd8c295a958e88ecf42f035888fe3a3975a10dbb4f",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1016803&param=informatie",
+  "as_of": "2008-06-13",
+  "made": "2008-04-18",
+  "gazette": "2008-06-03",
+  "numac": 2008201980,
+  "document_start": "2008-06-13",
+  "document_end": null,
+  "in_force": "2008-06-13",
+  "article_versions": 8,
+  "record_form": "consolidated version as in force on 2008-06-13; oldest version available; future article versions excluded; article text as the API gives it"
+}
