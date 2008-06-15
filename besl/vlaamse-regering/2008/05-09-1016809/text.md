@@ -1,0 +1,13 @@
+# Besluit van de Vlaamse Regering van 2008-05-09 tot bepaling van nadere regels voor de zorgplicht betreffende definitief aangeduide ankerplaatsen en erfgoedlandschappen
+
+### Aanhef
+
+De Vlaamse Regering,<br /><br />Gelet op het decreet van 16 april 1996 betreffende de landschapszorg, inzonderheid op artikel 26 en 29, § 2, ingevoegd bij het decreet van 13 februari 2004;<br /><br />Gelet op het advies van Inspectie van Financiën, gegeven op 28 november 2007;<br /><br />Gelet op het advies van de Raad van State, gegeven op 22 april 2008, met toepassing van artikel 84 § 1, eerste lid, 1°, van de gecoördineerde wetten op de Raad van State;<br /><br />Op voorstel van de viceminister-president van de Vlaamse Regering en Vlaamse minister van Financiën en Begroting en Ruimtelijke Ordening;<br /><br />Na beraadslaging,<br /><br />Besluit :
+
+### ART. 1.
+
+De administratieve overheid geeft in haar beslissingen inzake een eigen werk of handeling, of inzake het verlenen van een opdracht daartoe, of inzake een eigen plan of verordening, die een ankerplaats of een erfgoedlandschap nadelig kunnen beïnvloeden aan hoe ze rekening heeft gehouden met de verplichtingen uit de artikelen 26 of 29 van het decreet van 16 april 1996 betreffende de landschapszorg ingevoegd bij het decreet van 13 februari 2004. De overweging om tot een beslissing te komen, die een ankerplaats of een erfgoedlandschap nadelig kan beïnvloeden, wordt beschreven in een motiveringsnota die de volgende elementen bevat :<br />1° naam van het werk, de handeling, het plan of de verordening;<br />2° naam van de ankerplaatsen of erfgoedlandschappen in kwestie, met beknopte opsomming van de waarden en kenmerken die betrokken zijn bij de activiteit;<br />3° beschrijving van het werk, de handeling, het plan of de verordening met nadruk op de opsomming van alle aspecten van de activiteit die impact hebben op de waarden of kenmerken van de ankerplaats of het erfgoedlandschap;<br />4° verduidelijking of de impact, bedoeld in 3°, negatieve of positieve effecten heeft op de waarden of kenmerken van de ankerplaats of het erfgoedlandschap;<br />5° analyse van elk negatief effect om na te gaan of de schade vermeden kan worden, als de schade onvermijdbaar is, worden er schadebeperkende maatregelen gezocht. Als schadebeperkende maatregelen niet mogelijk zijn, worden er herstel- of compenserende maatregelen gezocht;<br />6° conclusie van die analyse voor de beslissing over het werk, de handeling, het plan of de verordening. De conclusie geeft aan welke schadebeperkende, herstel- of compenserende maatregelen waar, wanneer, hoe en door wie uitgevoerd zullen worden.
+
+### ART. 2.
+
+De Vlaamse minister, bevoegd voor Monumenten en Landschappen, is belast met de uitvoering van dit besluit.
