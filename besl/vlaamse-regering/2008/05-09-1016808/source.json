@@ -1,0 +1,17 @@
+{
+  "codex_id": 1016808,
+  "title": "Besluit van de Vlaamse Regering van 2008-05-09 tot wijziging van het besluit van de Vlaamse Regering van 20 april 1994 tot uitvoering van het decreet van 30 juni 1993 houdende de bescherming van het archeologisch patrimonium",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1016808/VolledigDocument?datum=2008-06-15",
+  "source_sha256": "ad04b5080fd07141201d9940683755890a38eca6db5f1a90e38d650b6bf4615d",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1016808&param=informatie",
+  "as_of": "2008-06-15",
+  "made": "2008-05-09",
+  "gazette": "2008-06-05",
+  "numac": 2008201862,
+  "document_start": "2008-06-15",
+  "document_end": null,
+  "in_force": "2008-06-15",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2008-06-15; oldest version available; future article versions excluded; article text as the API gives it"
+}
