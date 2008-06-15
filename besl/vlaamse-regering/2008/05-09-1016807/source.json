@@ -1,0 +1,17 @@
+{
+  "codex_id": 1016807,
+  "title": "Besluit van de Vlaamse Regering van 2008-05-09 tot wijziging van het besluit van de Vlaamse Regering van 1 februari 2002 met betrekking tot de subsidiëring van de aanleg door de gemeenten, gemeentebedrijven, intercommunales of intergemeentelijke samenwerkingsverbanden van openbare rioleringen, andere dan prioritaire rioleringen, en van de bouw door de gemeenten, gemeentebedrijven, intercommunales of intergemeentelijke samenwerkingsverbanden van kleinschalige rioolwaterzuiveringsinstallaties",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1016807/VolledigDocument?datum=2008-06-15",
+  "source_sha256": "fa2a2037a9f8416cf69e0263756673dc05611102c84440b208df2536e7cf97b9",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1016807&param=informatie",
+  "as_of": "2008-06-15",
+  "made": "2008-05-09",
+  "gazette": "2008-06-05",
+  "numac": 2008201866,
+  "document_start": "2008-06-15",
+  "document_end": null,
+  "in_force": "2008-06-15",
+  "article_versions": 9,
+  "record_form": "consolidated version as in force on 2008-06-15; oldest version available; future article versions excluded; article text as the API gives it"
+}
