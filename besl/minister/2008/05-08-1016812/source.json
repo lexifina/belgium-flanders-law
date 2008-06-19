@@ -1,0 +1,17 @@
+{
+  "codex_id": 1016812,
+  "title": "Ministerieel besluit van 2008-05-08 betreffende de toepassing van de artikelen 48 en 48ter van het decreet van 22 februari betreffende de bodemsanering - « Site Sint-Ool » te Opglabbeek",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1016812/VolledigDocument?datum=2008-06-19",
+  "source_sha256": "35ef7e342fb707f70227283479713d2fcb0973d2e4e09f7534bca0d2d002c028",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1016812&param=informatie",
+  "as_of": "2008-06-19",
+  "made": "2008-05-08",
+  "gazette": "2008-06-09",
+  "numac": 2008201881,
+  "document_start": "2008-06-19",
+  "document_end": null,
+  "in_force": "2008-06-19",
+  "article_versions": 10,
+  "record_form": "consolidated version as in force on 2008-06-19; oldest version available; future article versions excluded; article text as the API gives it"
+}
