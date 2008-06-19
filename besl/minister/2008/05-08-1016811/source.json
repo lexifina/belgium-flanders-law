@@ -1,0 +1,17 @@
+{
+  "codex_id": 1016811,
+  "title": "Ministerieel besluit van 2008-05-08 betreffende toepassing van artikelen 48 en 48ter van het decreet van 22 februari 1995 betreffende de bodemsanering Site - « Groendal » te Meise",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1016811/VolledigDocument?datum=2008-06-19",
+  "source_sha256": "0c65370ecaf0ee17d36d46d8c2a56778275d43bdf735d94a847cd1c6c17b1e40",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1016811&param=informatie",
+  "as_of": "2008-06-19",
+  "made": "2008-05-08",
+  "gazette": "2008-06-09",
+  "numac": 2008201880,
+  "document_start": "2008-06-19",
+  "document_end": null,
+  "in_force": "2008-06-19",
+  "article_versions": 8,
+  "record_form": "consolidated version as in force on 2008-06-19; oldest version available; future article versions excluded; article text as the API gives it"
+}
