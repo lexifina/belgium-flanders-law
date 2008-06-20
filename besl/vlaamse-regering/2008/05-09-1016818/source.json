@@ -1,0 +1,17 @@
+{
+  "codex_id": 1016818,
+  "title": "Besluit van de Vlaamse Regering van 2008-05-09 tot vaststelling van de datum van inwerkingtreding van het decreet van 7 mei 2004 betreffende de investeringsmaatschappijen van de Vlaamse overheid",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1016818/VolledigDocument?datum=2008-06-20",
+  "source_sha256": "0cec9c29e608f74100c9bdab0fa6e384d117ed22f38d4ecec149452e394f58ff",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1016818&param=informatie",
+  "as_of": "2008-06-20",
+  "made": "2008-05-09",
+  "gazette": "2008-06-10",
+  "numac": 2008201974,
+  "document_start": "2008-06-20",
+  "document_end": null,
+  "in_force": "2008-06-20",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2008-06-20; oldest version available; future article versions excluded; article text as the API gives it"
+}
