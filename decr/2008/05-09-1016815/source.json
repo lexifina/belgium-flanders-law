@@ -1,0 +1,17 @@
+{
+  "codex_id": 1016815,
+  "title": "Decreet van 2008-05-09 houdende instemming met het Internationaal Verdrag betreffende de controle van schadelijke aangroeiwerende systemen op schepen, opgemaakt in Londen op 5 oktober 2001",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1016815/VolledigDocument?datum=2008-06-20",
+  "source_sha256": "c253359e5122bf1858d75609bd32f29c27d5744747488634b9b95d7ec7476ef6",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1016815&param=informatie",
+  "as_of": "2008-06-20",
+  "made": "2008-05-09",
+  "gazette": "2008-06-10",
+  "numac": 2008201884,
+  "document_start": "2008-06-20",
+  "document_end": null,
+  "in_force": "2008-06-20",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2008-06-20; oldest version available; future article versions excluded; article text as the API gives it"
+}
