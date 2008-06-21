@@ -100,9 +100,25 @@ Bij een functiewijziging van een gebouw waarbij na de functiewijziging in tegens
 
 Wanneer bij het indienen van de aanvraag tot het verkrijgen van een stedenbouwkundige vergunning voor een gebouw met beschermd volume kleiner dan 3000 m3, de tussenkomst van een architect niet vereist is, zijn de EPB-eisen van dit besluit niet van toepassing.
 
+### ART. 19bis.
+
+De EPB-eisen zijn niet van toepassing voor gebouwen waarvoor een tijdelijke vergunning, met toepassing van artikel 105, § 4, van het decreet van 18 mei 1999 houdende de organisatie van de ruimtelijke ordening, verleend wordt en voor zover de totale duur van deze tijdelijke vergunning twee jaar niet overschrijdt.
+
+### ART. 19ter.
+
+De EPB-eisen zijn niet van toepassing op alleenstaande gebouwen met een totale bruikbare vloeroppervlakte van minder dan 50 m2.
+
 ### ART. 20.
 
 Voor beschermde monumenten en bestaande gebouwen die deel uitmaken van een beschermd landschap, stads- of dorpsgezicht, zijn enkel de EPB-eisen van dit besluit bij herbouw en uitbreiding, zoals vastgelegd in de artikelen 14 en 15, van toepassing.
+
+### ART. 20bis.
+
+Gebouwen die opgenomen zijn in de inventaris van het bouwkundige erfgoed, vastgesteld door de minister, bevoegd voor de monumenten en landschappen, of delen van die gebouwen, worden vrijgesteld van volgende in artikel 16 opgelegde eisen :<br />1° het voldoen aan de maximale warmtedoorgangscoëfficiënt of aan de minimale warmteweerstand zoals vastgelegd in bijlage III bij dit besluit voor de van op de openbare weg zichtbare gevelonderdelen.<br />2° de luchttoevoereisen vermeld in bijlage V van dit besluit in het geval van woongebouwen en de luchttoevoereisen vermeld in bijlage VI bij dit besluit in het geval van kantoor- en schoolgebouwen en gebouwen met een andere specifieke bestemming in die ruimten van woon-, kantoor- en schoolgebouwen en gebouwen met andere specifieke bestemming waar enkel ramen die zichtbaar zijn van op de openbare weg, worden vervangen.
+
+### ART. 20ter.
+
+Bij een functiewijziging van gebouwen die opgenomen zijn in de inventaris van het bouwkundige erfgoed, vastgesteld door de minister, bevoegd voor de monumenten en landschappen, of delen van die gebouwen, gelden in afwijking van artikel 18 volgende eisen :<br />1° de niet van op de openbare weg zichtbare gevelonderdelen voldoen aan de maximale warmtedoorgangscoëfficiënt of aan de minimale warmteweerstand, zoals vastgelegd in bijlage III bij dit besluit;<br />2° in die ruimten van woon-, kantoor- en schoolgebouwen en gebouwen met andere specifieke bestemming waar ramen die niet zichtbaar zijn van op de openbare weg worden vervangen, moet worden voldaan aan de luchttoevoereisen vermeld in bijlage V bij dit besluit in het geval van woongebouwen en aan de luchttoevoereisen, vermeld in bijlage VI bij dit besluit in het geval van kantoor- en schoolgebouwen en gebouwen met een andere specifieke bestemming.
 
 ### ART. 21.
 
@@ -110,7 +126,11 @@ Gebouwen die worden gebruikt voor erediensten en religieuze activiteiten en die 
 
 ### ART. 22.
 
-§ 1. Industriële gebouwen met een beschermd volume groter dan 3000 m3 waarvoor het behalen van de EPB-eisen technisch, functioneel of economisch niet haalbaar is, kunnen vrijgesteld worden van één of meerdere van de EPB-eisen die in dit besluit worden bepaald.<br /><br />§ 2. Industriële gebouwen met een beschermd volume groter dan 3000 m3 waarin industriële processen plaatsvinden die zelf warmte produceren en waarvoor om die reden koeling of een geforceerde ventilatie moet worden voorzien ten behoeve van een aanvaardbaar binnenklimaat, kunnen vrijgesteld worden van een of meerdere van de EPB-eisen die in dit besluit worden bepaald.
+§ 1. Bestaande gebouwen en nieuwe gebouwen waarvoor het behalen van de EPB-eisen technisch, functioneel of economisch niet haalbaar is, kunnen vrijgesteld worden van een of meer van de EPB-eisen die in dit besluit worden bepaald.<br /><br />In afwijking van het eerste lid kunnen nieuwe gebouwen, gebouwen die herbouwd worden na volledige afbraak en het nieuw gebouwde toegevoegde deel van een gebouw dat uitgebreid wordt met een of meerdere wooneenheden of met een bijkomend beschermd volume dat groter is dan 800 m3, niet worden vrijgesteld van de E-peileisen die in dit besluit worden bepaald.<br /><br />§ 2. Industriële gebouwen waarin industriële processen plaatsvinden die zelf warmte produceren en waarvoor om die reden in koeling of in een geforceerde ventilatie moet worden voorzien ten behoeve van een aanvaardbaar binnenklimaat, kunnen vrijgesteld worden van een of meer van de EPB-eisen die in dit besluit worden bepaald.
+
+### ART. 22bis.
+
+§ 1. Voor bestaande gebouwen en nieuwe gebouwen waarvoor het behalen van de EPB-eisen technisch, functioneel of economisch niet haalbaar is, kan een afwijking aangevraagd worden voor bepaalde onderdelen van het gebouw.<br /><br />In afwijking van het eerste lid kan voor nieuwe gebouwen, gebouwen die herbouwd worden na volledige afbraak en het nieuw gebouwde toegevoegde deel van een gebouw dat uitgebreid wordt met een of meerdere wooneenheden of met een bijkomend beschermd volume dat groter is dan 800 m3, geen afwijking worden aangevraagd wat betreft de E-peileisen die in dit besluit worden bepaald.<br /><br />§ 2. Voor industriële gebouwen waarin industriële processen plaatsvinden die zelf warmte produceren en waarvoor om die reden in koeling of in een geforceerde ventilatie moet worden voorzien ten behoeve van een aanvaardbaar binnenklimaat, kan een afwijking aangevraagd worden voor bepaalde onderdelen van het gebouw.
 
 ### ART. 23.
 
@@ -118,7 +138,7 @@ Voor gebouwen die gebruik maken van innovatieve bouwconcepten of technologieën 
 
 ### ART. 24.
 
-De minister bepaalt de vrijstellingen bedoeld in de artikelen 21 en 22 evenals de nadere regels voor het toestaan van de afwijkingen bedoeld in artikel 23.
+§ 1. De vrijstellingen vermeld in de artikelen 20 en 20bis en de afwijking vermeld in artikel 20ter worden ten minste acht dagen voor het aanvatten van de werken en de handelingen gemeld aan het Vlaams Energieagentschap. <br /><br />§ 2. De vrijstellingen vermeld in artikel 22 en de afwijkingen vermeld in artikel 22bis worden ten laatste een maand na het aanvragen van de stedenbouwkundige vergunning door de aangifteplichtige aangevraagd.<br /><br />§ 3. De minister kan, na advies van het Vlaams Energieagentschap, de vrijstellingen bepalen, vermeld in de artikelen 21 en 22, evenals de nadere regels voor het toestaan van de afwijkingen, vermeld in artikel 22bis en 23.
 
 ## [HOOFDSTUK IVbis ENERGIEPRESTATIECERTIFICAAT (ing. B.V.R. 2 december 2005, art. 1)]
 
@@ -138,11 +158,11 @@ De minister bepaalt welke gegevens van de aanvraag tot het verkrijgen van een st
 
 ### ART. 27.
 
-De minister wijst de ambtenaren aan die bevoegd zijn om de nodige controles met betrekking tot de EPB-aangiften uit te voeren en om inbreuken op de bepalingen van het Energieprestatiedecreet en haar uitvoeringsbesluiten op te sporen en vast te stellen door een proces-verbaal dat geldt tot bewijs van het tegendeel.
+De minister wijst de ambtenaren aan die bevoegd zijn om de nodige controles met betrekking tot de EPB-aangiften uit te voeren en om inbreuken op de bepalingen van het EPB-decreet en haar uitvoeringsbesluiten op te sporen en vast te stellen door een verslag van vaststelling.
 
 ### ART. 28.
 
-De Vlaamse minister, bevoegd voor financiën, wijst de ambtenaren aan die bevoegd zijn om het in artikel 27 van het Energieprestatiedecreet bedoelde dwangbevel te viseren en uitvoerbaar te verklaren.
+De Vlaamse minister, bevoegd voor financiën, wijst de ambtenaren aan die bevoegd zijn om het in artikel 26, § 3, van het EPB-decreet bedoelde dwangbevel te viseren en uitvoerbaar te verklaren.
 
 ## HOOFDSTUK VI OVERGANGS- EN SLOTBEPALINGEN
 
@@ -160,7 +180,7 @@ In afwijking van artikel 13, is de eis m.b.t. de beperking van het risico op ove
 
 ### ART. 32.
 
-In afwijking van artikel 6, mag de invloed van de koudebruggen op het specifiek warmteverlies door transmissie buiten beschouwing gelaten worden, indien de aanvraag tot het verkrijgen van de stedenbouwkundige vergunning wordt ingediend binnen de twee jaar na de inwerkingtreding van dit besluit.
+In afwijking van artikel 6, mag de invloed van de koudebruggen op het specifiek warmteverlies door transmissie buiten beschouwing gelaten worden, indien de aanvraag tot het verkrijgen van de stedenbouwkundige vergunning wordt ingediend binnen de vier jaar na de inwerkingtreding van dit besluit.
 
 ### ART. 33.
 
