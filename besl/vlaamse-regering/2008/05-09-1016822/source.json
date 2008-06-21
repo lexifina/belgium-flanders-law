@@ -1,0 +1,17 @@
+{
+  "codex_id": 1016822,
+  "title": "Besluit van de Vlaamse Regering van 2008-05-09 tot wijziging van het besluit van de Vlaamse Regering van 11 maart 2005 tot vaststelling van de eisen op het vlak van de energieprestaties en het binnenklimaat van gebouwen",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1016822/VolledigDocument?datum=2008-06-21",
+  "source_sha256": "dcc639503323e076afc798d4a221d4691eb594de2ea9c46c0d2e46c384a80d52",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1016822&param=informatie",
+  "as_of": "2008-06-21",
+  "made": "2008-05-09",
+  "gazette": "2008-06-11",
+  "numac": 2008201997,
+  "document_start": "2008-06-21",
+  "document_end": null,
+  "in_force": "2008-06-21",
+  "article_versions": 10,
+  "record_form": "consolidated version as in force on 2008-06-21; oldest version available; future article versions excluded; article text as the API gives it"
+}
