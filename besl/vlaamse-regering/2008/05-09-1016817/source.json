@@ -1,0 +1,17 @@
+{
+  "codex_id": 1016817,
+  "title": "Besluit van de Vlaamse Regering van 2008-05-09 tot toekenning van premies voor het uitvoeren van energiebesparende investeringen in woongebouwen",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1016817/VolledigDocument?datum=2008-06-21",
+  "source_sha256": "5a580238dd7e7c936afc169cf99dfccf117673604f5a1a1127b94789c88c59a0",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1016817&param=informatie",
+  "as_of": "2008-06-21",
+  "made": "2008-05-09",
+  "gazette": "2008-06-10",
+  "numac": 2008201998,
+  "document_start": "2008-06-21",
+  "document_end": "2010-12-31",
+  "in_force": "2008-06-21",
+  "article_versions": 16,
+  "record_form": "consolidated version as in force on 2008-06-21; oldest version available; future article versions excluded; article text as the API gives it"
+}
