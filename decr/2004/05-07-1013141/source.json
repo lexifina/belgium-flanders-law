@@ -2,16 +2,16 @@
   "codex_id": 1013141,
   "title": "Decreet van 2004-05-07 houdende het stimuleren van de beveiliging van woongelegenheden door rookmelders",
   "type": "Decreet",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1013141/VolledigDocument?datum=2006-06-01",
-  "source_sha256": "a96b7bec2a8f4b4c5e857b959dc80201c292578d8a729025fff14712a3f6c4f7",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1013141/VolledigDocument?datum=2008-06-23",
+  "source_sha256": "bae07fa954e22993404c084f21ec58ebdebab2968852a422bb6f2819fda08b86",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1013141&param=informatie",
-  "as_of": "2006-06-01",
+  "as_of": "2008-06-23",
   "made": "2004-05-07",
   "gazette": "2004-06-28",
   "numac": 2004035971,
   "document_start": null,
   "document_end": "2008-06-22",
-  "in_force": "2006-06-01",
+  "in_force": "2008-06-23",
   "article_versions": 2,
-  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2008-06-23; future article versions excluded; article text as the API gives it"
 }
