@@ -1,0 +1,17 @@
+{
+  "codex_id": 1016829,
+  "title": "Decreet van 2008-05-09 houdende de beveiliging van woningen door optische rookmelders",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1016829/VolledigDocument?datum=2008-06-23",
+  "source_sha256": "7aa553ec7047e693b8ce91035c838eaea1c8866b7a424b6bbb183ab0071080f3",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1016829&param=informatie",
+  "as_of": "2008-06-23",
+  "made": "2008-05-09",
+  "gazette": "2008-06-13",
+  "numac": 2008201886,
+  "document_start": "2008-06-23",
+  "document_end": "2009-07-04",
+  "in_force": "2008-06-23",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2008-06-23; oldest version available; future article versions excluded; article text as the API gives it"
+}
