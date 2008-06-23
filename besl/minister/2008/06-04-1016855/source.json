@@ -1,0 +1,17 @@
+{
+  "codex_id": 1016855,
+  "title": "Ministerieel besluit van 2008-06-04 betreffende het Raadgevend Comité van het Instituut voor Landbouw- en Visserijonderzoek (ILVO)",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1016855/VolledigDocument?datum=2008-06-23",
+  "source_sha256": "91e9564547020c9ce9c1423023e9dde4817909b4890807b046f0ad00360df9b5",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1016855&param=informatie",
+  "as_of": "2008-06-23",
+  "made": "2008-06-04",
+  "gazette": "2008-06-23",
+  "numac": 2008202141,
+  "document_start": "2008-06-23",
+  "document_end": null,
+  "in_force": "2008-06-23",
+  "article_versions": 12,
+  "record_form": "consolidated version as in force on 2008-06-23; oldest version available; future article versions excluded; article text as the API gives it"
+}
