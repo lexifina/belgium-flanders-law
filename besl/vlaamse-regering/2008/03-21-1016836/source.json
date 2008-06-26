@@ -1,0 +1,17 @@
+{
+  "codex_id": 1016836,
+  "title": "Besluit van de Vlaamse Regering van 2008-03-21 houdende gedeeltelijke herverdeling van het provisionele krediet, ingeschreven onder begrotingsartikel GB0107B van de algemene uitgavenbegroting van de Vlaamse Gemeenschap voor het begrotingsjaar 2008",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1016836/VolledigDocument?datum=2008-06-26",
+  "source_sha256": "185bd5e8a67d84944df802955b4f96004583f36bd14d0401f86e3cea405dfc36",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1016836&param=informatie",
+  "as_of": "2008-06-26",
+  "made": "2008-03-21",
+  "gazette": "2008-06-16",
+  "numac": 2008202090,
+  "document_start": "2008-06-26",
+  "document_end": null,
+  "in_force": "2008-06-26",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2008-06-26; oldest version available; future article versions excluded; article text as the API gives it"
+}
