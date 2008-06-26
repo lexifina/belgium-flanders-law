@@ -1,0 +1,17 @@
+{
+  "codex_id": 1016835,
+  "title": "Decreet van 2008-05-16 houdende instemming met het Verdrag van de Raad van Europa inzake de strijd tegen mensenhandel, opgemaakt in Warschau op 16 mei 2005",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1016835/VolledigDocument?datum=2008-06-26",
+  "source_sha256": "d7d6a17469149871f811eedf14e2a9a1790904b3e1987bac3f71c1fb16abc4c7",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1016835&param=informatie",
+  "as_of": "2008-06-26",
+  "made": "2008-05-16",
+  "gazette": "2008-06-16",
+  "numac": 2008202092,
+  "document_start": "2008-06-26",
+  "document_end": null,
+  "in_force": "2008-06-26",
+  "article_versions": 2,
+  "record_form": "consolidated version as in force on 2008-06-26; oldest version available; future article versions excluded; article text as the API gives it"
+}
