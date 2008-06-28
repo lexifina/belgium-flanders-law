@@ -1,0 +1,17 @@
+{
+  "codex_id": 1016843,
+  "title": "Besluit van de Vlaamse Regering van 2008-04-11 houdende de herverdeling van kredieten binnen het programma HB en HE van de algemene uitgavenbegroting van de Vlaamse Gemeenschap voor de begroting 2008",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1016843/VolledigDocument?datum=2008-06-28",
+  "source_sha256": "2fe4ad18a8f3fe3a2f05232f5688fd4f64a7ea3187201fddbbc6cf4764615e0e",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1016843&param=informatie",
+  "as_of": "2008-06-28",
+  "made": "2008-04-11",
+  "gazette": "2008-06-18",
+  "numac": 2008202103,
+  "document_start": "2008-06-28",
+  "document_end": null,
+  "in_force": "2008-06-28",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2008-06-28; oldest version available; future article versions excluded; article text as the API gives it"
+}
