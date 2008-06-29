@@ -1,0 +1,17 @@
+{
+  "codex_id": 1016850,
+  "title": "Ministerieel besluit van 2008-01-14 betreffende toepassing van de artikelen 48 en 48ter van het decreet van 22 februari 1995 betreffende de bodemsanering - site \"Voormalige stortplaats Niel\"",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1016850/VolledigDocument?datum=2008-06-29",
+  "source_sha256": "82996d0d78fa9780e5926f58b33e3e0471dc8a37a6eb27644b83be543bb1a96c",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1016850&param=informatie",
+  "as_of": "2008-06-29",
+  "made": "2008-01-14",
+  "gazette": "2008-06-19",
+  "numac": 2008202087,
+  "document_start": "2008-06-29",
+  "document_end": null,
+  "in_force": "2008-06-29",
+  "article_versions": 9,
+  "record_form": "consolidated version as in force on 2008-06-29; oldest version available; future article versions excluded; article text as the API gives it"
+}
