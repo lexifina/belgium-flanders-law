@@ -14,6 +14,10 @@ In dit besluit wordt verstaan onder :<br />1° minister : de Vlaamse minister, b
 
 Het hoofd van het agentschap wordt gemachtigd om :<br />1° de dagelijkse briefwisseling die verband houdt met zijn opdracht te ondertekenen, met behoud van de toepassing van de bijzondere regeling die geldt voor de antwoorden op brieven van het Rekenhof met betrekking tot de door het Rekenhof geformuleerde opmerkingen;<br />2° gewone en aangetekende zendingen, bestemd voor het agentschap, in ontvangst te nemen, met uitzondering van de dagvaardingen, betekend aan de Vlaamse Gemeenschap of het Vlaamse Gewest;<br />3° uittreksels en afschriften van documenten die verband houden met de taken van zijn agentschap eensluidend te verklaren en uit te reiken;<br />4° staten van verschuldigde sommen betreffende presentiegelden en reis- en verblijfkosten goed te keuren als ze verband houden met de werking van aan zijn agentschap verbonden advies- en overlegorganen.<br /><br />
 
+### ART. 2bis.
+
+Het hoofd van het agentschap wordt gemachtigd om beslissingen te nemen met betrekking tot het aangaan van verbintenissen en het nemen van de eraan verbonden vastleggingen, het goedkeuren van verplichtingen en de eruit voortvloeiende uitgaven en betalingen, het vaststellen van vorderingen en het verkrijgen van ontvangsten en inkomsten met betrekking tot het Fonds voor Landbouw en Visserij, plantaardige sector en voor zover het gaat om bedragen tot 200 000 euro.
+
 ## HOOFDSTUK II Specifieke delegaties
 
 ### ART. 3.
