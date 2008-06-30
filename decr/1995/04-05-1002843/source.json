@@ -2,16 +2,16 @@
   "codex_id": 1002843,
   "title": "Decreet van 1995-04-05 tot oprichting van de Vlaamse Opera",
   "type": "Decreet",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1002843/VolledigDocument?datum=2007-03-26",
-  "source_sha256": "905c55534e32cd0d79aec0f62085715ef988dc858cb49eff96fbdef3ac519aa6",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1002843/VolledigDocument?datum=2008-06-30",
+  "source_sha256": "8c043a2fbe93631d569be85c5e865c81951fd9d66f310610cfb4c84dab755e39",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1002843&param=informatie",
-  "as_of": "2007-03-26",
+  "as_of": "2008-06-30",
   "made": "1995-04-05",
   "gazette": "1995-06-10",
   "numac": 1995035752,
   "document_start": "1996-03-01",
   "document_end": "2008-06-29",
-  "in_force": "2007-03-26",
+  "in_force": "2008-06-30",
   "article_versions": 37,
-  "record_form": "consolidated version as in force on 2007-03-26; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2008-06-30; future article versions excluded; article text as the API gives it"
 }
