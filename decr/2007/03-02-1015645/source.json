@@ -2,16 +2,16 @@
   "codex_id": 1015645,
   "title": "Decreet van 2007-03-02 houdende opheffing van het decreet van 5 april 1995 tot oprichting van de Vlaamse Opera en tot regeling van de rechtsopvolging",
   "type": "Decreet",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1015645/VolledigDocument?datum=2007-03-26",
-  "source_sha256": "05947e7d643d959d69cf4344c54987f1f0d4f03b219f4867bfe93c6e4f1f3675",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1015645/VolledigDocument?datum=2008-06-30",
+  "source_sha256": "f4ce6f914aa5d626778cf0dcc391c3462e2ae8b5289750bc875cbacec7f2d1fd",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1015645&param=informatie",
-  "as_of": "2007-03-26",
+  "as_of": "2008-06-30",
   "made": "2007-03-02",
   "gazette": "2007-03-26",
   "numac": 2007035421,
   "document_start": "2007-03-26",
   "document_end": null,
-  "in_force": "2007-03-26",
-  "article_versions": 4,
-  "record_form": "consolidated version as in force on 2007-03-26; oldest version available; future article versions excluded; article text as the API gives it"
+  "in_force": "2008-06-30",
+  "article_versions": 5,
+  "record_form": "consolidated version as in force on 2008-06-30; future article versions excluded; article text as the API gives it"
 }

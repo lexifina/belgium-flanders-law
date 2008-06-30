@@ -12,6 +12,10 @@ Dit decreet regelt een gemeenschapsaangelegenheid.<br /><br />
 
 Artikel 19, § 1, van het decreet van 5 april 1995 tot oprichting van de Vlaamse Opera wordt opgeheven.<br /><br />
 
+### ART. 4.
+
+Het decreet van 5 april 1995 tot oprichting van de Vlaamse Opera wordt, onverminderd artikel 3, opgeheven met ingang van 30 juni 2008.<br /><br />
+
 ### ART. 5.
 
 Het decreet treedt in werking op de dag van publicatie in het Belgisch Staatsblad.<br /><br />
