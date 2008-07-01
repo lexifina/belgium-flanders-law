@@ -2,16 +2,16 @@
   "codex_id": 1009160,
   "title": "Ministerieel besluit van 2002-03-28 houdende de voorwaarden voor de berekening van de financiële bijdrage van de ouders als vergoeding voor de opvang van kinderen in kinderdagverblijven en diensten voor opvanggezinnen",
   "type": "Ministerieel besluit",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1009160/VolledigDocument?datum=2006-06-01",
-  "source_sha256": "73ee870c56b7d973ff1e1dabb7ae78b6af7d59d11c42a698803fbfbdd4fbcfc1",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1009160/VolledigDocument?datum=2008-07-01",
+  "source_sha256": "45a2b40944388f3a63d58faa9a88c5335473fd1b35e1ba65be9a67bc44017fa4",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1009160&param=informatie",
-  "as_of": "2006-06-01",
+  "as_of": "2008-07-01",
   "made": "2002-03-28",
   "gazette": "2002-05-23",
   "numac": 2002035642,
   "document_start": "2002-07-01",
   "document_end": "2008-06-30",
-  "in_force": "2006-06-01",
+  "in_force": "2008-07-01",
   "article_versions": 19,
-  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2008-07-01; future article versions excluded; article text as the API gives it"
 }
