@@ -56,7 +56,7 @@ De zetel van de examencommissie is gevestigd op het adres van de afdeling Person
 
 ### ART. 12.
 
-§ 1. Alleen de voorzitter van de examencommissie is gemachtigd om namens de examencommissie mededelingen te doen. Mocht de voorzitter verhinderd zijn, dan kan de secretaris optreden.<br /><br />§ 2. De examencommissie kan beslissen één of meer van haar leden te machtigen om namens haar in goed afgebakende gevallen op te treden. De aldus gemandateerde leden zullen zo snel als mogelijk bij de voorzitter rapporteren over hun werkzaamheden.<br /><br />§ 3. Mocht de voorzitter verhinderd zijn, dan treedt het in leeftijd oudste lid op als zijn vervanger. Mocht de secretaris verhinderd zijn, dan kan de voorzitter een ambtenaar van niveau A van de administratie Hoger Onderwijs en Wetenschappelijk Onderzoek aanduiden als vervangend secretaris.
+§ 1. Alleen de voorzitter van de examencommissie is gemachtigd om namens de examencommissie mededelingen te doen. Mocht de voorzitter verhinderd zijn, dan kan de secretaris optreden.<br /><br />§ 2. De examencommissie kan beslissen één of meer van haar leden te machtigen om namens haar in goed afgebakende gevallen op te treden. De aldus gemandateerde leden zullen zo snel als mogelijk bij de voorzitter rapporteren over hun werkzaamheden.<br /><br />§ 3. Mocht de voorzitter verhinderd zijn, dan treedt het in leeftijd oudste lid op als zijn vervanger. Mocht de secretaris verhinderd zijn, dan kan de voorzitter een ambtenaar van niveau A van het Onderwijsdienstencentrum Hoger Onderwijs en Volwassenenonderwijs aanduiden als vervangend secretaris.
 
 ### ART. 13.
 
