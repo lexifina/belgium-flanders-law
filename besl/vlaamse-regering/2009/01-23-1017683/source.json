@@ -1,0 +1,17 @@
+{
+  "codex_id": 1017683,
+  "title": "Besluit van de Vlaamse Regering van 2009-01-23 tot wijziging van het besluit van de Vlaamse Regering van 6 juli 2007 tot uitvoering van het decreet van 7 juli 2006 houdende toekenning van een rentetoelage voor ondernemingen die lijden onder de verstoorde bereikbaarheid ten gevolge van hinder door openbare werken",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1017683/VolledigDocument?datum=2008-07-01",
+  "source_sha256": "4399edd8f1bf90ba92ab88d63d834b5f88cd35753377a21a1e81fe3930439541",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1017683&param=informatie",
+  "as_of": "2008-07-01",
+  "made": "2009-01-23",
+  "gazette": "2009-03-16",
+  "numac": 2009200989,
+  "document_start": "2008-07-01",
+  "document_end": null,
+  "in_force": "2008-07-01",
+  "article_versions": 15,
+  "record_form": "consolidated version as in force on 2008-07-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
