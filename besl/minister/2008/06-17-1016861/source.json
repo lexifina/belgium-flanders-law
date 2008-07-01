@@ -1,0 +1,17 @@
+{
+  "codex_id": 1016861,
+  "title": "Ministerieel besluit van 2008-06-17 tot vaststelling van de coëfficiënt voor het berekenen van de geactualiseerde kostprijs van sociale huurwoningen",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1016861/VolledigDocument?datum=2008-07-01",
+  "source_sha256": "232582b41952a5046d8841f733208d1551fa17ecfa69fa1dc6c24101f147352b",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1016861&param=informatie",
+  "as_of": "2008-07-01",
+  "made": "2008-06-17",
+  "gazette": "2008-06-25",
+  "numac": 2008035649,
+  "document_start": "2008-07-01",
+  "document_end": null,
+  "in_force": "2008-07-01",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2008-07-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
