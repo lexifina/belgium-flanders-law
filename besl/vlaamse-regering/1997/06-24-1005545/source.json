@@ -2,16 +2,16 @@
   "codex_id": 1005545,
   "title": "Besluit van de Vlaamse Regering van 1997-06-24 houdende de algemene voorwaarden inzake het organiseren van buitenschoolse opvang",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1005545/VolledigDocument?datum=2007-06-19",
-  "source_sha256": "775f3c5a5edeb1bc06a76eb0eed61dc552216477bb83c3ea06119df77824bb8c",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1005545/VolledigDocument?datum=2008-07-01",
+  "source_sha256": "dbd1e7a52ee096d45f41dc857e451ebfb2c2a9049194330c695d344601527cd3",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1005545&param=informatie",
-  "as_of": "2007-06-19",
+  "as_of": "2008-07-01",
   "made": "1997-06-24",
   "gazette": "1997-09-09",
   "numac": 1997036082,
   "document_start": "1997-07-01",
   "document_end": "2008-06-30",
-  "in_force": "2007-06-19",
+  "in_force": "2008-07-01",
   "article_versions": 43,
-  "record_form": "consolidated version as in force on 2007-06-19; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2008-07-01; future article versions excluded; article text as the API gives it"
 }
