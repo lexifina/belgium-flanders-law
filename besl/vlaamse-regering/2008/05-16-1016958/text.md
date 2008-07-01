@@ -48,6 +48,10 @@ In artikel 18 van hetzelfde besluit, gewijzigd bij het besluit van de Vlaamse Re
 
 In artikel 21 van hetzelfde besluit, gewijzigd bij de besluiten van de Vlaamse Regering van 14 december 2001, 13 december 2002 en 30 maart 2007, worden de volgende wijzigingen aangebracht :<br />1° § 4 wordt vervangen door wat volgt :<br />« § 4. De diensten kunnen voor een vergoeding van de opvangkosten van kinderen met een specifieke zorgbehoefte aan de onthaalouders, alsook voor het vergoeden van flexibele opvang aan de onthaalouders, een extra vergoeding krijgen conform de bepalingen die de minister vastlegt. »;<br />2° er wordt een § 6 toegevoegd, die luidt als volgt :<br />« § 6. De diensten kunnen een extra vergoeding voor flexibele opvang krijgen, conform de bepalingen die de minister vastlegt. »
 
+### ART. 12.
+
+Aan hoofdstuk IV, afdeling 1, van hetzelfde besluit, gewijzigd bij het besluit van de Vlaamse Regering van 30 maart 2007, worden een artikel 24bis en een artikel 24ter toegevoegd, die luiden als volgt :<br />« Art. 24bis. Zodra de voorziening een opvangplaats schriftelijk garandeert, kan van het gezin een voorschot gevraagd worden, dat integraal verrekend wordt bij de facturatie van de bijdrage, vermeld in artikel 24, § 1, en integraal terugbetaald wordt als de opvang niet plaatsvindt door een situatie van overmacht voor het gezin.<br /><br />Het voorschot, vermeld in het eerste lid, moet in redelijke verhouding staan tot de door het gezin te verwachten financiële bijdrage, vermeld in artikel 24, § 1.<br /><br />Art. 24ter. Indien een voorziening de bepalingen van artikel 24 en 24bis systematisch niet correct toepast, kan Kind en Gezin de maximale bijdrage, zoals vastgelegd door de minister, toepassen bij de jaarlijkse verrekening van de financiële bijdragen van de gezinnen met de subsidie van de voorziening, vermeld in dit besluit. »
+
 ### ART. 13.
 
 Dit besluit heeft uitwerking met ingang van 1 januari 2008, met uitzondering van :<br />1° artikel 10, 2°, en artikel 11, die uitwerking hebben met ingang van 1 juli 2007;<br />2° artikel 12, dat in werking treedt op 1 juli 2008.
