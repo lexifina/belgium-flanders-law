@@ -256,7 +256,7 @@ Een verlenging van de subsidiëring moet jaarlijks worden aangevraagd in de loop
 
 ### ART. 20.
 
-§ 1. Het behoud van de subsidiÙring veronderstelt een minimale bezettingsgraad van 70 % per vestigingsplaats op basis van de vereiste 230 openingsdagen en op basis van de capaciteit.<br /><br />§ 2. Daarvoor komt elke aanwezigheid in aanmerking met een maximum van één per dag per kind, ongeacht de aanwezigheidsduur.<br /><br />§ 3. De subsidiëring wordt verhoudingsgewijs herleid of geschorst met ingang van 1 april van het volgende kalenderjaar, als de minimumbezetting van 70 % per vestigingsplaats niet wordt gehaald.<br /><br />§ 4. Als het kinderdagverblijf aantoont dat over een periode van vier kwartalen de vereiste minimumbezetting opnieuw werd bereikt, kan de subsidiëring met ingang van het kwartaal dat volgt op de referentieperiode, weer worden verhoogd of gestart.
+§ 1. Het behoud van de subsidiÙring veronderstelt een minimale bezettingsgraad van 80 % per vestigingsplaats op basis van de vereiste 230 openingsdagen en op basis van de capaciteit.<br /><br />§ 2. Daarvoor komt elke aanwezigheid in aanmerking met een maximum van één per dag per kind, ongeacht de aanwezigheidsduur.<br /><br />§ 3. De subsidiëring wordt verhoudingsgewijs herleid of geschorst met ingang van 1 april van het volgende kalenderjaar, als de minimumbezetting van 80 % per vestigingsplaats niet wordt gehaald.<br /><br />§ 4. Als het kinderdagverblijf aantoont dat over een periode van vier kwartalen de vereiste minimumbezetting opnieuw werd bereikt, kan de subsidiëring met ingang van het kwartaal dat volgt op de referentieperiode, weer worden verhoogd of gestart.
 
 ## HOOFDSTUK V [BEROEPSPROCEDURE]
 
