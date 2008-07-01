@@ -28,6 +28,10 @@ Als, binnen de perken van de daarvoor vastgelegde kredieten binnen de begroting,
 
 De bedragen, vermeld in dit besluit, worden elk jaar op 1 januari verhoogd met het gezondheidsindexcijfer tussen 1 november van het vorige kalenderjaar en 1 november van het daaraan voorafgaande kalenderjaar.
 
+### ART. 6bis.
+
+Het bedrag vermeld in artikel 2, eerste lid, wordt gedurende de periode van 1 juli 2008 tot en met 31 december 2008 verhoogd met 0,31 euro.
+
 ### ART. 7.
 
 Het ministerieel besluit van 9 juli 2001 houdende nadere bepalingen betreffende de kostenvergoeding voor opvanggezinnen, aangesloten bij een dienst voor opvanggezinnen, gewijzigd bij de ministeriële besluiten van 1 april 2003 en 1 december 2003, wordt opgeheven.

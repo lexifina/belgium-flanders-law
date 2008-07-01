@@ -2,16 +2,16 @@
   "codex_id": 1017090,
   "title": "Ministerieel besluit van 2008-09-10 betreffende de vergoeding voor aangesloten onthaalouders en voor diensten voor onthaalouders",
   "type": "Ministerieel besluit",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1017090/VolledigDocument?datum=2008-01-01",
-  "source_sha256": "5c8ec9282d42ec2d7ca8efcc223805b7dd81a7076d477decef66ef612eb0b086",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1017090/VolledigDocument?datum=2008-07-01",
+  "source_sha256": "24fbbbeee0e1d47175d46a14c818fb5c5425b049e58a655b65cbd5431739ca09",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1017090&param=informatie",
-  "as_of": "2008-01-01",
+  "as_of": "2008-07-01",
   "made": "2008-09-10",
   "gazette": "2008-09-26",
   "numac": 0,
   "document_start": "2007-07-01",
   "document_end": "2014-03-31",
-  "in_force": "2008-01-01",
-  "article_versions": 9,
-  "record_form": "consolidated version as in force on 2008-01-01; future article versions excluded; article text as the API gives it"
+  "in_force": "2008-07-01",
+  "article_versions": 10,
+  "record_form": "consolidated version as in force on 2008-07-01; future article versions excluded; article text as the API gives it"
 }
