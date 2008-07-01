@@ -2,16 +2,16 @@
   "codex_id": 1026773,
   "title": "Ministerieel besluit van 1982-12-02 [houdende vaststelling van de programmatiecriteria voor rust- en verzorgingstehuizen] [voor centra voor dagverzorging en voor centra voor niet aangeboren hersenletsels]",
   "type": "Ministerieel besluit",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1026773/VolledigDocument?datum=2006-06-01",
-  "source_sha256": "6967d9e4e245a4bbf614932da26789086bcd7c7d8cc7f6a757df1191d7705aea",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1026773/VolledigDocument?datum=2008-07-01",
+  "source_sha256": "04756a35911d9a37f3df422639c5bdb9025874b737a1cbcba8e9b3f0ea3a62b9",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1026773&param=informatie",
-  "as_of": "2006-06-01",
+  "as_of": "2008-07-01",
   "made": "1982-12-02",
   "gazette": "1982-12-07",
   "numac": 1982120201,
   "document_start": null,
   "document_end": null,
-  "in_force": "2006-06-01",
-  "article_versions": 3,
-  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "in_force": "2008-07-01",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2008-07-01; future article versions excluded; article text as the API gives it"
 }

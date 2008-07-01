@@ -8,6 +8,10 @@
 
 <P>[De programmatie voor de centra voor dagverzorging, bedoeld in punt 7 van   artikel 1 van het koninklijk besluit van de 2 december 1982 houdende   vaststelling van de normen voor de bijzondere erkenning van rust- en   verzorgingstehuizen, is als volgt : <EM>(ing. MB 5 juli 1999, art. 2, I: 10   maart 2000)</EM>]<BR>[1° Tot 31 december 2001 kunnen voor het Rijk maximum 0,9   plaatsen voor centra voor dagverzorging erkend worden per schijf van 1000   inwoners van 60 jaar en ouder. Tot 31 december 2002 en vanaf 1 januari 2003   wordt dit maximum aantal plaatsen opgetrokken tot respectievelijk 1,2 plaatsen   en 1,5 plaatsen per schijf van 1 000 inwoners van 60 jaar en ouder. <EM>(verv.   MB 12 juli 2001, art. 1, I: 1 januari 2000)</EM>]<BR>[2° de in 1° bedoelde   maxima beletten niet dat de plaatsen die reeds op 31 december <EM>(ing. MB 5   juli 1999, art. 2, I: 10 maart 2000)</EM>]&nbsp;[2000 <EM>(verv. MB 12 juli   2001, art. 1, I: 1 januari 2000)</EM>]&nbsp;[bestonden, <EM>(ing. MB 5 juli   1999, art. 2, I: 10 maart 2000)</EM>]&nbsp;[in het&nbsp;jaar   2001&nbsp;<EM>(verv. MB 12 juli 2001, art. 1, I: 1 januari   2000)</EM>]&nbsp;[erkend kunnen worden; een verhoging van het aantal erkende   plaatsen is dan pas mogelijk vanaf het jaar waarin het aantal aldus erkende   plaatsen lager is dan het aantal dat volgens 1° erkend kan worden.<EM> (ing. MB   5 juli 1999, art. 2, I: 10 maart 2000)</EM>]</P>
 
+### ART. 1ter.
+
+[Binnen het programmatiecriterium bedoeld in artikel 1 kunnen voor het   Rijk&nbsp;maximum 165 bedden worden opgericht met het oog op een bijzondere   erkenning als centrum voor niet aangeboren hersenletsels zoals bedoeld in   artikel 3bis van koninklijk besluit van 21 september 2004 houdende vaststelling   van de normen voor de bijzonder erkenning als rust- en verzorgingstehuis, als   centrum voor dagverzorging of als centrum voor niet aangeboren hersenletsels.   <EM>(ing. MB 9 juni 2008, art.&nbsp;2, I: 1 juli 2008)</EM>]
+
 ### ART. 2.
 
 &nbsp;Dit besluit treedt in werking de datum van publikatie in het   Belgisch Staatsblad.
