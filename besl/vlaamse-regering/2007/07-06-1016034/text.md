@@ -30,11 +30,11 @@ Voor de toepassing van dit besluit wordt verstaan onder :<br />1° decreet : het
 
 ### ART. 2.
 
-De grootte van de onderneming, vermeld in de door de Europese Commissie vastgestelde definitie van kleine en middelgrote ondernemingen vermeld in bijlage I van Verordening (EG) nr. 364/2004 van de Commissie van 25 februari 2004 tot wijziging van Verordening (EG) nr. 70/2001 van de Commissie wat betreft uitbreiding van het toepassingsgebied tot steun voor onderzoek en ontwikkeling, wordt vastgesteld op basis van een verklaring op erewoord van de onderneming en op basis van artikel 3 en 4.<br />
+De grootte van de onderneming, bepaald in de door de Europese Commissie vastgestelde definitie van kleine en middelgrote ondernemingen vermeld in bijlage I vanverordening (EG) nr. 800/2008 van de Commissie van 6 augustus 2008 waarbij bepaalde categorieën steun op grond van de artikelen 87 en 88 van het Verdrag met de gemeenschappelijke markt verenigbaar worden verklaard ("de algemene groepsvrijstellingsverordening") wordt vastgesteld op basis van een verklaring op erewoord van de onderneming en op basis van artikel 3 en 4.<br />
 
 ### ART. 3.
 
-De gegevens voor de berekening van de jaaromzet en het balanstotaal worden vastgesteld op basis van de laatst bij de Nationale Bank van België neergelegde jaarrekening voor de datum van de steunaanvraag, die beschikbaar is via een centrale databank.<br /><br />Om de omzet te berekenen, wordt een boekjaar van meer of minder dan twaalf maanden herberekend tot een periode van twaalf maanden.<br /><br />Voor ondernemingen die geen jaarrekening moeten opmaken, worden de gegevens vastgesteld op basis van de laatste aangifte bij de directe belastingen voor de datum van de steunaanvraag.<br /><br />Bij recent opgerichte ondernemingen, waarvan de eerste jaarrekening nog niet is afgesloten en de eerste fiscale aangifte nog niet is gebeurd, worden de gegevens vastgesteld op basis van een financieel plan van het eerste productiejaar.<br />
+De gegevens voor de berekening van de jaaromzet en het balanstotaal worden vastgesteld op basis van de laatst bij de Nationale Bank van België neergelegde jaarrekening voor de datum van de steunaanvraag, die beschikbaar is via een centrale databank.<br /><br />Om de omzet te berekenen, wordt een boekjaar van meer of minder dan twaalf maanden herberekend tot een periode van twaalf maanden.<br /><br />Voor ondernemingen die geen jaarrekening moeten opmaken, worden de gegevens vastgesteld op basis van de laatste aangifte bij de directe belastingen voor de datum van de steunaanvraag.<br /><br />Bij recent opgerichte ondernemingen, waarvan de eerste jaarrekening nog niet is neergelegd en de eerste fiscale aangifte nog niet is gebeurd, worden de gegevens vastgesteld op basis van een financieel plan van het eerste productiejaar.<br />
 
 ### ART. 4.
 
@@ -50,19 +50,19 @@ Deze regelgeving valt onder de toepassing van de de-minimissteun, zoals bepaald 
 
 ### ART. 6.
 
-Er kan enkel een rentetoelage toegekend worden aan ondernemingen die behoren tot de in aanmerking komende sectoren.<br /><br />De minister bepaalt welke sectoren in aanmerking komen op basis van de beleidsprioriteiten en de Europese regelgeving.<br />
+Er kan enkel een rentetoelage toegekend worden aan ondernemingen waarvan de hoofdactiviteit behoort tot de in aanmerking komende sectoren.<br /><br />De minister bepaalt welke sectoren in aanmerking komen op basis van de beleidsprioriteiten en de Europese regelgeving.<br />
 
 ### ART. 7.
 
-De openbare werken moeten minstens twee aaneensluitende maanden duren.<br />
+De openbare werken moeten minstens een maand duren.<br />
 
 ### ART. 8.
 
-De steunaanvragende onderneming moet 30 % omzetverlies geleden hebben in het laatste jaarkwartaal voor de datum van de steunaanvraag. Als de steunaanvragende onderneming meerdere exploitatiezetels heeft, wordt enkel het omzetverlies van de betrokken exploitatiezetel in aanmerking genomen.<br />
+...<br />
 
 ### ART. 9.
 
-De rentetoelage wordt alleen toegekend voor kredieten die aan al de volgende extra voorwaarden voldoen :<br />1° een krediet met een vaste looptijd;<br />2° een krediet met een vaste rentevoet, hoogstens jaarlijks herzienbaar;<br />3° een krediet met een vast aflossingsschema;<br />4° een krediet dat niet aangewend wordt voor de herfinanciering van schulden waarvoor reeds een rentetoelage op basis van dit besluit is toegekend;<br />5° de financieringsovereenkomst met betrekking tot het krediet bevat de volgende gegevens :<br />a) de hoofdsom van het krediet;<br />b) de looptijd van het krediet;<br />c) de aangerekende jaarlijkse rentevoet;<br />d) de aanpassingsformule van de rentevoet;<br />e) het aflossingsschema;<br />f) de bestemming van het krediet.<br />
+De rentetoelage wordt alleen toegekend voor kredieten die aan al de volgende extra voorwaarden voldoen :<br />1° een krediet met een vaste looptijd;<br />2° ...<br />3° ...<br />4° een krediet dat niet aangewend wordt voor de herfinanciering van schulden waarvoor reeds een rentetoelage op basis van dit besluit is toegekend;<br />5° de financieringsovereenkomst met betrekking tot het krediet bevat de volgende gegevens :<br />a) de hoofdsom van het krediet;<br />b) de looptijd van het krediet;<br />c) als het een krediet betreft met een vaste rentevoet, hoogstens jaarlijks herzienbaar, en met een vast aflossingsschema : de aangerekende jaarlijkse rentevoet en het aflossingsschema;<br />d) de aanpassingsformule van de rentevoet;<br />e) ...<br />f) de bestemming van het krediet.<br />
 
 ## HOOFDSTUK III. Procedure
 
@@ -70,13 +70,13 @@ De rentetoelage wordt alleen toegekend voor kredieten die aan al de volgende ext
 
 ### ART. 10.
 
-De rentetoelage wordt door de onderneming, uiterlijk binnen zes maanden na het beëindigen van de openbare werken, aangevraagd via een modelaanvraagformulier dat op de website van het Agentschap Economie staat. Dat formulier wordt elektronisch ingediend bij het Agentschap Economie.<br />
+De rentetoelage wordt door de onderneming, uiterlijk binnen zes maanden na het beëindigen van de openbare werken, aangevraagd via een modelaanvraagformulier dat op de website van het Agentschap Ondernemen staat. Dat formulier wordt elektronisch ingediend bij het Agentschap Ondernemen.<br />
 
 ## Afdeling II. Stavingsstukken
 
 ### ART. 11.
 
-§ 1. De onderneming moet uiterlijk binnen veertien kalenderdagen na de datum van de steunaanvraag de volgende stavingsstukken opsturen naar het Agentschap Economie :<br />1° de ondertekende verklaring op erewoord van het modelaanvraagformulier;<br />2° eventueel een kopie van het financieel plan, opgesteld bij de oprichting van de onderneming, waarbij het balanstotaal en de jaaromzet en het aantal werkzame personen, vermeld in artikel 3 en 4, worden aangetoond;<br />3° een kopie van de periodieke btw-aangiften of een kopie van de stukken uit de boekhouding van de laatste vier jaarkwartalen voor de datum van de steunaanvraag of van de jaarkwartalen waarin de onderneming reeds actief is voor de datum van de steunaanvraag als het gaat om minder dan vier jaarkwartalen, waarbij het omzetverlies, vermeld in artikel 8, wordt aangetoond;<br />4° een kopie van de financieringsovereenkomst, vermeld in artikel 9, 5°.<br /><br />§ 2. De duur van de openbare werken op de datum van de steunaanvraag, vermeld in artikel 7, wordt aangetoond door een verklaring van de gemeente die wordt opgevraagd door het Agentschap Economie.<br /><br />§ 3. De naleving van de overige voorwaarden van het decreet en dit besluit wordt aangetoond door de gegevens die ter beschikking gesteld worden via een centrale databank die worden opgevraagd door het Agentschap Economie.<br />
+§ 1. De onderneming moet uiterlijk binnen veertien kalenderdagen na de datum van de steunaanvraag de volgende stavingsstukken opsturen naar het Agentschap Ondernemen:<br />1° de ondertekende verklaring op erewoord van het modelaanvraagformulier;<br />2° eventueel een kopie van het financieel plan, opgesteld bij de oprichting van de onderneming, waarbij het balanstotaal en de jaaromzet en het aantal werkzame personen, vermeld in artikel 3 en 4, worden aangetoond;<br />3° ...<br />4° een kopie van de financieringsovereenkomst, vermeld in artikel 9, 5°.<br /><br />§ 2. De duur van de openbare werken op de datum van de steunaanvraag, vermeld in artikel 7, en de verstoorde bereikbaarheid worden aangetoond door een verklaring van de gemeente die wordt opgevraagd door het Agentschap Economie.<br /><br />§ 3. De naleving van de overige voorwaarden van het decreet en dit besluit wordt aangetoond door de gegevens die ter beschikking gesteld worden via een centrale databank die worden opgevraagd door het Agentschap Ondernemen.<br />
 
 ## Afdeling III. Ontvankelijkheid
 
@@ -94,11 +94,11 @@ De steunaanvragende onderneming wordt per post op de hoogte gebracht van de besl
 
 ### ART. 14.
 
-De uitbetaling van de rentetoelage wordt aangevraagd via een standaarddocument dat op de website van het Agentschap Economie staat. Dat formulier wordt elektronisch ingediend bij het Agentschap Economie.<br />
+De uitbetaling van de rentetoelage wordt aangevraagd via een standaarddocument dat op de website van het Agentschap Ondernemen staat. Dat formulier wordt elektronisch ingediend bij het Agentschap Ondernemen.<br />
 
 ### ART. 15.
 
-De rentetoelage wordt aan de onderneming uitbetaald in jaarlijkse schijven :<br />1° een eerste schijf : na de kennisgeving van de gunstige beslissing en na de volledige opname van het krediet;<br />2° een tweede schijf : op zijn vroegst twaalf maanden na de datum van de steunaanvraag;<br />3° de volgende schijven : op zijn vroegst twaalf maanden na de datum van de aanvraag tot uitbetaling van de vorige schijf.<br /><br />De jaarlijkse rentetoelage wordt volgens de volgende formule berekend :<br />JRT = (KB X JRV) X 80 % waarbij :<br />1° JRT = jaarlijkse rentetoelage;<br />2° KB = kredietbedrag;<br />3° JRV = jaarlijkse rentevoet.<br /><br />Dit bedrag wordt beperkt tot 4 % van het kredietbedrag.<br /><br />Als de looptijd van het krediet uitgedrukt in maanden kleiner is dan twaalf of geen veelvoud is van twaalf, dan wordt voor het onvolledige jaar de rentetoelage pro rata berekend.<br />
+De rentetoelage wordt aan de onderneming uitbetaald in jaarlijkse schijven :<br />1° een eerste schijf : na de kennisgeving van de gunstige beslissing en als het een krediet betreft met een vaste rentevoet, hoogstens jaarlijks herzienbaar, en met een vast aflossingsschema, na de volledige opname van het krediet;<br />2° een tweede schijf : op zijn vroegst twaalf maanden na de datum van de steunaanvraag;<br />3° de volgende schijven : op zijn vroegst twaalf maanden na de datum van de aanvraag tot uitbetaling van de vorige schijf.<br /><br />De jaarlijkse rentetoelage wordt volgens de volgende formule berekend : <br />1° als het een krediet betreft met een vaste rentevoet, hoogstens jaarlijks herzienbaar, en met een vast aflossingsschema : JRT = (KB X JRV) X 80 %, waarbij : <br />a) JRT = jaarlijkse rentetoelage;<br />b) KB = kredietbedrag;<br />c) JRV = jaarlijkse rentevoet.<br />Dat bedrag wordt beperkt tot 8 % van het kredietbedrag;<br />2° als het een ander krediet betreft : JRT = ((KB/2) X JRV) X 80 %, waarbij : <br />a) JRT = jaarlijkse rentetoelage;<br />b) KB = kredietbedrag;<br />c) JRV = jaarlijkse rentevoet.<br />Dat bedrag wordt beperkt tot 6 % van het werkelijk opgenomen kredietbedrag en tot 6 % van de helft van de toegestane kredietlijn.<br /><br />Als de looptijd van het krediet, uitgedrukt in maanden, kleiner is dan twaalf of geen veelvoud is van twaalf, dan wordt voor het onvolledige jaar de rentetoelage pro rata berekend.<br /><br />Als het een ander krediet betreft dan een krediet met een vaste rentevoet, hoogstens jaarlijks herzienbaar, en met een vast aflossingsschema, wordt de rentetoelage voor een periode van maximaal één jaar toegekend. <br /><br />De totale rentetoelage bedraagt maximaal 50.000 euro.
 
 ### ART. 16.
 
@@ -108,7 +108,7 @@ De aanvragen tot uitbetaling moeten ingediend worden uiterlijk binnen één jaar
 
 ### ART. 17.
 
-§ 1. De beslissing tot toekenning van steun wordt in de volgende gevallen op de volgende manier herzien :<br />1° de openbare werken hebben minstens vierentwintig maanden geduurd : de rentetoelage wordt met terugwerkende kracht verhoogd tot 100 % van de totale rentekosten;<br />2° de rentevoet wordt aangepast : de rentetoelage wordt herberekend;<br />3° de terugbetaling van het krediet wordt uitgesteld : de rentetoelage wordt maximaal drie jaar verlengd.<br /><br />§ 2. De onderneming deelt de gevallen van herziening, vermeld in § 1, mee aan het Agentschap Economie. Die mededeling bevat de stukken waaruit het geval van herziening blijkt.<br /><br />De duur van de openbare werken, vermeld in § 1, 1°, wordt aangetoond door een verklaring van de gemeente die wordt opgevraagd door het Agentschap Economie.<br />
+§ 1. Als het een krediet betreft met een vaste rentevoet, hoogstens jaarlijks herzienbaar, en met een vast aflossingsschema, wordt de beslissing tot toekenning van steun in de volgende gevallen op de volgende manier herzien : <br />1° de openbare werken hebben minstens twaalf maanden geduurd : de rentetoelage wordt met terugwerkende kracht verhoogd tot 100 % van de totale rentekosten;<br />2° de rentevoet wordt aangepast : de rentetoelage wordt herberekend;<br />3° de terugbetaling van het krediet wordt uitgesteld : de rentetoelage wordt maximaal drie jaar verlengd.<br /><br />§ 2. De onderneming deelt de gevallen van herziening, vermeld in § 1, mee aan het Agentschap Ondernemen. Die mededeling bevat de stukken waaruit het geval van herziening blijkt.<br /><br />De duur van de openbare werken, vermeld in § 1, 1°, wordt aangetoond door een verklaring van de gemeente die wordt opgevraagd door het Agentschap Ondernemen.<br />
 
 ## HOOFDSTUK V. Stopzetting
 
@@ -120,13 +120,17 @@ De uitbetaling van de rentetoelage wordt stopgezet in de volgende gevallen :<br 
 
 ### ART. 19.
 
-De rentetoelage wordt geheel of gedeeltelijk teruggevorderd binnen vijf jaar na de datum van de laatste aanvraag tot uitbetaling, met behoud van de toepassing van de bepalingen in de wetten op de Rijkscomptabiliteit, gecoördineerd op 17 juli 1991, en van de wet van 7 juni 1994 tot wijziging van het koninklijk besluit van 31 mei 1933 betreffende de verklaringen te doen in verband met subsidies, vergoedingen en toelagen van elke aard, die geheel of gedeeltelijk ten laste zijn van de Staat, in geval van :<br />1° niet-naleving van de voorwaarden van het decreet, dit besluit of de uitvoeringsbesluiten;<br />2° het afleggen van valse verklaringen in de steunaanvraag of in de aanvraag tot uitbetaling door de steunaanvragende onderneming.<br /><br />In geval van terugvordering wordt de Europese referentierentevoet voor terugvordering van onrechtmatig verleende staatssteun toegepast vanaf de datum van ingebrekestelling.<br />
+De rentetoelage kan geheel of gedeeltelijk teruggevorderd worden binnen vijf jaar na de datum van de laatste aanvraag tot uitbetaling, met behoud van de toepassing van de bepalingen in de wetten op de Rijkscomptabiliteit, gecoördineerd op 17 juli 1991, en van de wet van 7 juni 1994 tot wijziging van het koninklijk besluit van 31 mei 1933 betreffende de verklaringen te doen in verband met subsidies, vergoedingen en toelagen van elke aard, die geheel of gedeeltelijk ten laste zijn van de Staat, in geval van :<br />1° niet-naleving van de voorwaarden van het decreet, dit besluit of de uitvoeringsbesluiten;<br />2° het afleggen van valse verklaringen in de steunaanvraag of in de aanvraag tot uitbetaling door de steunaanvragende onderneming.<br /><br />In geval van terugvordering wordt de Europese referentierentevoet voor terugvordering van onrechtmatig verleende staatssteun toegepast.<br />
+
+### ART. 19bis.
+
+Het Agentschap Ondernemen kan vanaf de indiening van de aanvraag controleren of het decreet, het besluit van de Vlaamse Regering en de uitvoeringsbesluiten ervan worden nageleefd. <br /><br />Die controle kan, afhankelijk van het feit of de rentetoelage al dan niet werd toegekend, het volgende tot gevolg hebben : <br />1° onontvankelijkheid van de aanvraag van de rentetoelage of weigering van de toekenning van de rentetoelage;<br />2° niet-uitbetaling van de toegekende rentetoelage of terugvordering van de uitbetaalde rentetoelage.
 
 ## HOOFDSTUK VII. Delegatie
 
 ### ART. 20.
 
-De minister heeft beslissingsbevoegdheid over het volgende :<br />1° de toekenning van de rentetoelage;<br />2° de herziening van de beslissing tot toekenning van de rentetoelage;<br />3° de stopzetting van de uitbetaling van de rentetoelage;<br />4° de terugvordering van de rentetoelage.<br /><br />De minister kan die beslissingsbevoegdheid delegeren aan het Agentschap Economie.<br />
+De minister heeft beslissingsbevoegdheid over het volgende :<br />1° de toekenning van de rentetoelage;<br />2° de herziening van de beslissing tot toekenning van de rentetoelage;<br />3° de stopzetting van de uitbetaling van de rentetoelage;<br />4° de terugvordering van de rentetoelage.<br /><br />De minister kan die beslissingsbevoegdheid delegeren aan het Agentschap Ondernemen.<br />
 
 ## HOOFDSTUK VIII. Inwerkingtreding
 
