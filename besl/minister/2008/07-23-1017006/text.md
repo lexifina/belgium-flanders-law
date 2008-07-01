@@ -1,0 +1,13 @@
+# Ministerieel besluit van 2008-07-23 tot wijziging van het ministerieel besluit van 9 juli 2001 houdende de voorwaarden voor het organiseren van en de bepalingen over de toestemming voor en de subsidiëring van buitenschoolse opvang in aparte lokalen in kinderdagverblijven
+
+### Aanhef
+
+De Vlaamse minister van Welzijn, Volksgezondheid en Gezin,<br /><br />Gelet op het decreet van 30 april 2004 tot oprichting van het intern verzelfstandigd agentschap met rechtspersoonlijkheid Kind en Gezin, gewijzigd bij de decreten van 2 juni 2006 en 22 december 2006;<br /><br />Gelet op het besluit van de Vlaamse Regering van 23 februari 2001 houdende de voorwaarden inzake erkenning en subsidiëring van kinderdagverblijven en diensten voor onthaalouders, inzonderheid op artikel 5, § 5, gewijzigd bij het besluit van de Vlaamse Regering van 30 maart 2007;<br /><br />Gelet op het besluit van de Vlaamse Regering van 27 juli 2004 tot bepaling van de bevoegdheden van de leden van de Vlaamse Regering, gewijzigd bij de besluiten van de Vlaamse Regering van 15 oktober 2004, 23 december 2005, 19 mei 2006, 30 juni 2006, 1 september 2006, 15 juni 2007, 28 juni 2007, 10 oktober 2007 en 14 november 2007;<br /><br />Gelet op het ministerieel besluit van 9 juli 2001 houdende de voorwaarden voor het organiseren van en de bepalingen over de toestemming voor en de subsidiëring van buitenschoolse opvang in aparte lokalen in kinderdagverblijven, gewijzigd bij de ministeriële besluiten van 22 september 2006, 13 juli 2007, 26 juli 2007 en 25 april 2008;<br /><br />Gelet op de wetten op de Raad van State, gecoördineerd op 12 januari 1973, inzonderheid op artikel 3, § 1, vervangen bij de wet van 4 juli 1989 en gewijzigd bij de wet van 4 augustus 1996;<br /><br />Gelet op de dringende noodzakelijkheid;<br /><br />Overwegende dat een aanpassing van het besluit dringend nodig is om de bezettingsgraad op te trekken; dat de behoefte aan een zo goed mogelijke bezetting groot is, gezien de enorme vraag naar kinderopvang,<br /><br />Besluit : <br /><br />
+
+### ART. 1.
+
+Aan artikel 20 van het ministerieel besluit van 9 juli 2001 houdende de voorwaarden voor het organiseren van en de bepalingen over de toestemming voor en de subsidiëring van buitenschoolse opvang in aparte lokalen in kinderdagverblijven, worden de volgende wijzigingen aangebracht :<br />1° in § 1 worden de woorden "minimale bezettingsgraad van 70 %" vervangen door de woorden "minimale bezettingsgraad van 80 %";<br />2° in § 3 worden de woorden "minimumbezetting van 70 %" vervangen door de woorden "minimumbezetting van 80 %".<br /><br />
+
+### ART. 2.
+
+Dit besluit treedt in werking op 1 juli 2008.<br /><br />
