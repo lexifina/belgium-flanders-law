@@ -1,0 +1,17 @@
+{
+  "codex_id": 1017506,
+  "title": "Besluit van de Vlaamse Regering van 2008-12-12 tot wijziging van het besluit van de Vlaamse Regering van 10 juli 2008 houdende de wijze van vereffening van een vrij besteedbaar bedrag en de toekenning ervan aan de minderjarigen aan wie residentiële jeugdhulpverlening geboden wordt, ter uitvoering van een beschikking van de jeugdrechtbank of van een advies van het bureau voor bijzondere jeugdbijstand, in voorzieningen die erkend en gesubsidieerd zijn door het Vlaams Agentschap voor Personen met een Handicap",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1017506/VolledigDocument?datum=2008-07-01",
+  "source_sha256": "0a012a82e3f22a95ca1192d6bc9846bae009a621f37b8fc04c4f07b598d42d90",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1017506&param=informatie",
+  "as_of": "2008-07-01",
+  "made": "2008-12-12",
+  "gazette": "2009-01-23",
+  "numac": 2009200084,
+  "document_start": "2008-07-01",
+  "document_end": null,
+  "in_force": "2008-07-01",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2008-07-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
