@@ -1,0 +1,17 @@
+{
+  "codex_id": 1017380,
+  "title": "Ministerieel besluit van 2008-12-01 houdende de programmatie van de pleegzorg en de dienstverlening in de ambulante sector van de gehandicaptenzorg",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1017380/VolledigDocument?datum=2008-07-01",
+  "source_sha256": "837fd0a971c200bf54e9924b4d34f60e07e067fb5a0a8eb20966f813660768e9",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1017380&param=informatie",
+  "as_of": "2008-07-01",
+  "made": "2008-12-01",
+  "gazette": "2008-12-23",
+  "numac": 2008204601,
+  "document_start": "2008-07-01",
+  "document_end": null,
+  "in_force": "2008-07-01",
+  "article_versions": 8,
+  "record_form": "consolidated version as in force on 2008-07-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
