@@ -2,16 +2,16 @@
   "codex_id": 1007945,
   "title": "Besluit van de Vlaamse Regering van 2001-02-23 houdende de voorwaarden inzake erkenning en subsidiëring van initiatieven voor buitenschoolse opvang",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1007945/VolledigDocument?datum=2006-06-01",
-  "source_sha256": "e59cd452b0d1e25309fb8277eba51d166a8855df83a489a2cb886c4bee22ae49",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1007945/VolledigDocument?datum=2008-07-01",
+  "source_sha256": "78bb414320e061dbdffd0f1257da01a3cfadc263748cdb846f89a65b1e7af503",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1007945&param=informatie",
-  "as_of": "2006-06-01",
+  "as_of": "2008-07-01",
   "made": "2001-02-23",
   "gazette": "2001-04-27",
   "numac": 2001035445,
   "document_start": null,
   "document_end": "2014-03-31",
-  "in_force": "2006-06-01",
-  "article_versions": 27,
-  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "in_force": "2008-07-01",
+  "article_versions": 28,
+  "record_form": "consolidated version as in force on 2008-07-01; future article versions excluded; article text as the API gives it"
 }
