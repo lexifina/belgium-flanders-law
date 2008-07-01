@@ -1,0 +1,17 @@
+{
+  "codex_id": 1016976,
+  "title": "Besluit van de Vlaamse Regering van 2008-06-20 tot wijziging van het besluit van de Vlaamse Regering van 17 december 1996 betreffende de erkenning en subsidiëring van thuisbegeleidingsdiensten voor personen met een handicap",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1016976/VolledigDocument?datum=2008-07-01",
+  "source_sha256": "7c49aff4d644dc8d1d164ea5ce4cc75ce70e74a83293a354e872cb840eb054ff",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1016976&param=informatie",
+  "as_of": "2008-07-01",
+  "made": "2008-06-20",
+  "gazette": "2008-08-21",
+  "numac": 2008202751,
+  "document_start": "2008-07-01",
+  "document_end": null,
+  "in_force": "2008-07-01",
+  "article_versions": 12,
+  "record_form": "consolidated version as in force on 2008-07-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
