@@ -1,0 +1,17 @@
+{
+  "codex_id": 1017481,
+  "title": "Besluit van de Vlaamse Regering van 2008-11-21 houdende aanwijzing van de afgevaardigde van het Vlaamse Gewest in de raad van bestuur van het Europees Milieuagentschap",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1017481/VolledigDocument?datum=2008-07-01",
+  "source_sha256": "c6811e0ef002f3a11cceec90bbebeafc84d188fb530cf644aa7cf2976061eedc",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1017481&param=informatie",
+  "as_of": "2008-07-01",
+  "made": "2008-11-21",
+  "gazette": "2009-01-19",
+  "numac": 2009200023,
+  "document_start": "2008-07-01",
+  "document_end": "2011-06-30",
+  "in_force": "2008-07-01",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2008-07-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
