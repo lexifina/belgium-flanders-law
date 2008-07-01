@@ -10,7 +10,7 @@
 
 ### ART. 2.
 
-§ 1. Het organiserend bestuur van een initiatief kan een principieel akkoord aanvragen bij K & G.<br /><br />§ 2. De aanvraag bevat alle gegevens met betrekking tot de opportuniteit van het initiatief, gebaseerd op het geargumenteerde advies van het lokale overleg, geformuleerd in het kader van het lokale beleidsplan.<br /><br />§ 3. Elke aanvraag vermeldt de hoedanigheid en de identificatie van het organiserend bestuur en bevat per vestigingsplaats de volgende gegevens:<br /><br />1° het adres en een inplantingsplan in de gemeente;<br /><br />2° de geplande capaciteit;<br /><br />3° het mogelijk aanvullende aanbod van het initiatief;<br /><br />4° de vermoedelijke startdatum;<br /><br />5° de beoogde financieringsbasis voor de werking;<br /><br />6° de beoogde infrastructuur (plan op schaal 1/50 en ruimtelijke indeling) en financiering ervan;<br /><br />7° de eventuele samenwerkingsverbanden waarin het initiatief past;<br /><br />8° de geplande personeelsformatie;<br /><br />9° de geplande openingsmomenten.
+§ 1. Het organiserend bestuur van een initiatief kan een principieel akkoord aanvragen bij K & G.<br /><br />§ 2. De aanvraag bevat alle gegevens met betrekking tot de opportuniteit van het initiatief, gebaseerd op het geargumenteerde advies van het lokale overleg, geformuleerd in het kader van het lokale beleidsplan.<br /><br />§ 3. Elke aanvraag vermeldt de hoedanigheid en de identificatie van het organiserende bestuur en bevat per vestigingsplaats de volgende gegevens : <br />1° het adres en een situeringsplan in de gemeente; <br />2° de mogelijke, maximale infrastructurele capaciteit; <br />3° het mogelijk aanvullende aanbod; <br />4° de vermoedelijke startdatum; <br />5° de beoogde financieringsbasis voor de werking; <br />6° de beoogde infrastructuur (plan op schaal 1/50 en ruimtelijke indeling) en de financiering ervan;<br />7° de eventuele samenwerkingsverbanden waarin het initiatief past; <br />8° de mogelijke openingsmomenten.<br /><br />§ 4. Elke aanvraag vermeldt eveneens de totale capaciteit die het initiatief wil realiseren, met opgave van de openingsmomenten en de geplande personeelsformatie, in de verschillende vestigingsplaatsen.
 
 ### ART. 3.
 
@@ -22,7 +22,7 @@
 
 ### ART. 5.
 
-Een positieve beslissing impliceert een principieel akkoord en bepaalt per vestigingsplaats de maximumcapaciteit en de openingsmomenten.
+Een positieve beslissing impliceert een principieel akkoord en bepaalt, zowel op niveau van de vestigingsplaats als op het totale initiatiefniveau, de maximumcapaciteit en de openingsmomenten.
 
 ### ART. 6.
 
@@ -36,7 +36,7 @@ Het principieel akkoord heeft een geldigheidsduur van één jaar. Die termijn ka
 
 ### ART. 8.
 
-§ 1. Het organiserend bestuur van een initiatief dat een principieel akkoord heeft verkregen, kan gedurende de periode van de geldigheidsduur van het principieel akkoord, voor de vestigingsplaats in kwestie van het initiatief, een erkenning aanvragen bij K & G.<br /><br />§ 2. Een aanvraag bevat de volgende gegevens:<br /><br />1° de samenstelling van de personeelsformatie, en voor elk personeelslid het in aanmerking genomen diploma of getuigschrift;<br /><br />2° een exemplaar van het huishoudelijk reglement, opgesteld volgens de richtlijnen van K & G;<br /><br />3° een kopie van de verzekeringsbewijzen zoals vereist in artikel 11, 6°, van het besluit van de Vlaamse regering;<br /><br />4° een attest of verslag van de brandweer na controle van de brandveiligheid van gebouw en inrichting op basis van de vigerende regelgeving;<br /><br />5° de naam van de contactpersoon met K & G;<br /><br />6° de te erkennen capaciteit en de gewenste erkenningsdatum;<br /><br />7° als het organiserend bestuur een vzw is, de statuten.
+§ 1. Het organiserend bestuur van een initiatief dat een principieel akkoord heeft verkregen, kan gedurende de periode van de geldigheidsduur van het principieel akkoord een erkenning aanvragen bij K & G.<br /><br />§ 2. Een aanvraag bevat de volgende gegevens:<br />1° de samenstelling van de personeelsformatie, en voor elk personeelslid het in aanmerking genomen diploma of getuigschrift;<br />2° een exemplaar van het huishoudelijk reglement, opgesteld volgens de richtlijnen van K & G;<br />3° een kopie van de verzekeringsbewijzen zoals vereist in artikel 11, 6°, van het besluit van de Vlaamse regering;<br />4° een attest of verslag van de brandweer na controle van de brandveiligheid van gebouw en inrichting op basis van de vigerende regelgeving;<br />5° de naam van de contactpersoon met K & G;<br />6° de te erkennen capaciteit en de gewenste erkenningsdatum;<br />7° als het organiserend bestuur een vzw is, de statuten;<br />8° opgave van een of meer aan de erkenning te koppelen vestigingsplaatsen.
 
 ### ART. 9.
 
@@ -48,21 +48,21 @@ Het principieel akkoord heeft een geldigheidsduur van één jaar. Die termijn ka
 
 ### ART. 11.
 
-§ 1. De erkenningsbeslissing zoals bedoeld in artikel 9, § 3, bepaalt voor het initiatief en per vestigingsplaats die erkend moet worden:<br /><br />1° de ingangsdatum van de erkenning;<br /><br />2° de capaciteit;<br /><br />3° het aantal leidinggevenden;<br /><br />4° de openingsmomenten.<br /><br />§ 2. Die erkenningsbeslissing kan tevens voorwaarden met bepaling van een realisatietermijn vanaf de uitvoerbaarheid van de beslissing, bevatten.<br /><br />§ 3. De ingangsdatum van de erkenning kan niet liggen voor de datum van het principieel akkoord.
+§ 1. De erkenningsbeslissing, vermeld in artikel 9, § 3, bepaalt voor het initiatief dat erkend moet worden : <br />1° de ingangsdatum van de erkenning; <br />2° de totale erkende capaciteit; <br />3° het aantal leidinggevenden; <br />4° de openingsmomenten.<br /><br />§ 2. Die erkenningsbeslissing kan tevens voorwaarden met bepaling van een realisatietermijn vanaf de uitvoerbaarheid van de beslissing, bevatten.<br /><br />§ 3. De ingangsdatum van de erkenning kan niet liggen voor de datum van het principieel akkoord.<br /><br />§ 4. Aan elke vestigingsplaats wordt een maximale infrastructurele capaciteit gekoppeld.<br /><br />§ 5. Het organiserende bestuur kan de totale erkende capaciteit vrij invullen op een of meer vestigingsplaatsen, rekening houdend met de maximale infrastructurele capaciteiten.
 
 ### ART. 12.
 
-§ 1. De eerste erkenning van een initiatief is twee jaar geldig, te rekenen vanaf de ingangsdatum van de erkenning.<br /><br />§ 2. De einddatum van de erkenning van een nieuwe vestigingsplaats is dezelfde als de einddatum van de erkenning van het initiatief.
+De eerste erkenning van een initiatief is twee jaar geldig, te rekenen vanaf de ingangsdatum van de erkenning.<br /><br />
 
 ## HOOFDSTUK IV VERLENEN EN WEIGEREN VAN SUBSIDIRING
 
 ### ART. 13.
 
-§ 1. Het organiserend bestuur van een initiatief dat een erkenning aanvraagt of aan wie een erkenning verleend is, kan per vestigingsplaats subsidiëring aanvragen bij K & G.<br /><br />§ 2. De aanvraag tot subsidiëring kan op zijn vroegst gelijktijdig met de aanvraag tot erkenning gebeuren.
+§ 1. Het organiserend bestuur van een initiatief dat een erkenning aanvraagt of aan wie een erkenning verleend is, kan subsidiëring aanvragen bij K & G.<br /><br />§ 2. De aanvraag tot subsidiëring kan op zijn vroegst gelijktijdig met de aanvraag tot erkenning gebeuren.
 
 ### ART. 14.
 
-§ 1. Na ontvangst van de aanvraag stuurt K & G onmiddellijk een ontvangstmelding aan het organiserend bestuur.<br /><br />§ 2. Binnen zestig kalenderdagen na de ontvangstmelding brengt K & G het aanvragend organiserend bestuur op de hoogte van eventuele opmerkingen. Het organiserend bestuur beschikt over maximaal dertig kalenderdagen om die opmerkingen te beantwoorden.<br /><br />§ 3. Binnen negentig kalenderdagen na het afronden van de procedurestap vermeld in het artikel 14, § 2, beslist K & G per vestigingsplaats, rekening houdend met de beschikbare budgetten, over de subsidiëring van het erkende initiatief.
+§ 1. Na ontvangst van de aanvraag stuurt K & G onmiddellijk een ontvangstmelding aan het organiserend bestuur.<br /><br />§ 2. Binnen zestig kalenderdagen na de ontvangstmelding brengt K & G het aanvragend organiserend bestuur op de hoogte van eventuele opmerkingen. Het organiserend bestuur beschikt over maximaal dertig kalenderdagen om die opmerkingen te beantwoorden.<br /><br />§ 3. Binnen negentig kalenderdagen na het afronden van de procedurestap vermeld in het artikel 14, § 2, beslist K & G, rekening houdend met de beschikbare budgetten, over de subsidiëring van het erkende initiatief.
 
 ### ART. 15.
 
@@ -70,7 +70,7 @@ Het principieel akkoord heeft een geldigheidsduur van één jaar. Die termijn ka
 
 ### ART. 16.
 
-De beslissing tot toekenning van subsidies bepaalt per vestigingsplaats de ingangsdatum en de subsidiabele capaciteit.
+De beslissing tot toekenning van subsidies bepaalt de ingangsdatum en de subsidiabele capaciteit.
 
 ## HOOFDSTUK V VERLENGING VAN EEN ERKENNING EN SUBSIDIËRING
 
@@ -114,7 +114,7 @@ De herziene beslissing is niet voor een tweede herziening door K & G vatbaar.
 
 ### ART. 25.
 
-§ 1. Het organiserend bestuur kan, per vestigingsplaats, beroep aantekenen bij de minister tegen:<br /><br />1° de beslissing tot gehele of gedeeltelijke weigering van een principieel akkoord;<br /><br />2° de beslissing tot gehele of gedeeltelijke weigering van een erkenning;<br /><br />3° de beslissing tot gehele of gedeeltelijke weigering van subsidiëring;<br /><br />4° de beslissing tot intrekking van een erkenning;<br /><br />5° de beslissing tot de weigering van de verlenging van de erkenning;<br /><br />6° de herziening van een beslissing, vermeld in 1° tot 5°.<br /><br />§ 2. Ook tegen het geuite en formeel betekende voornemen tot het nemen van een beslissing, vermeld in § 1, kan het organiserend bestuur beroep aantekenen.
+§ 1. Het organiserend bestuur kan beroep aantekenen bij de minister tegen:<br />1° de beslissing tot gehele of gedeeltelijke weigering van een principieel akkoord;<br />2° de beslissing tot gehele of gedeeltelijke weigering van een erkenning;<br />3° de beslissing tot gehele of gedeeltelijke weigering van subsidiëring;<br />4° de beslissing tot intrekking van een erkenning;<br />5° de beslissing tot de weigering van de verlenging van de erkenning;<br />6° de herziening van een beslissing, vermeld in 1° tot 5°.<br /><br />§ 2. Ook tegen het geuite en formeel betekende voornemen tot het nemen van een beslissing, vermeld in § 1, kan het organiserend bestuur beroep aantekenen.
 
 ### ART. 26.
 
