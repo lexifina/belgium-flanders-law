@@ -2,16 +2,16 @@
   "codex_id": 1015008,
   "title": "Decreet van 2006-07-07 houdende toekenning van een rentetoelage voor ondernemingen die lijden onder de verstoorde bereikbaarheid ten gevolge van hinder door openbare werken",
   "type": "Decreet",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1015008/VolledigDocument?datum=2007-07-10",
-  "source_sha256": "4d2ff308b200dbe670d3c8dda3c0badff6f8bcf33d77428ff5522559c371b0d1",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1015008/VolledigDocument?datum=2008-07-01",
+  "source_sha256": "e28047b563a6b2b0bb812123d8fe012c5c68de176bfd6a1cfb27f40c51c91aad",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1015008&param=informatie",
-  "as_of": "2007-07-10",
+  "as_of": "2008-07-01",
   "made": "2006-07-07",
   "gazette": "2006-10-06",
   "numac": 2006036308,
   "document_start": "2007-07-10",
   "document_end": "2017-12-31",
-  "in_force": "2007-07-10",
+  "in_force": "2008-07-01",
   "article_versions": 7,
-  "record_form": "consolidated version as in force on 2007-07-10; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2008-07-01; future article versions excluded; article text as the API gives it"
 }
