@@ -114,6 +114,22 @@ Aan artikel 168, § 5, eerste lid, van het decreet van 12 juni 1991 betreffende 
 
 ## HOOFDSTUK XV Rentetoelage voor ondernemingen die lijden onder de verstoorde bereikbaarheid ten gevolge van hinder door openbare werken
 
+### ART. 56.
+
+In artikel 2 van het decreet van 7 juli 2006 houdende toekenning van een rentetoelage voor ondernemingen die lijden onder de verstoorde bereikbaarheid ten gevolge van hinder door openbare werken worden de volgende wijzigingen aangebracht :<br />1° in punt 1° worden de woorden « de vennootschappen die de rechtsvorm van een handelsvennootschap hebben aangenomen » vervangen door de woorden « de handelsvennootschappen met rechtspersoonlijkheid en de burgerlijke vennootschappen met handelsvorm »;<br /><br />2° punten 6° en 7° worden vervangen door wat volgt :<br />« 6° de-minimisverordening : Verordening (EG) nr. 1998/2006 van de Commissie van 15 december 2006 betreffende de toepassing van de artikelen 87 en 88 van het EG-Verdrag op de-minimissteun, en de latere wijzigingen;<br />7° kredietinstelling : de kredietinstellingen die overeenkomstig de wet van 22 maart 1993 op het statuut van en het toezicht op de kredietinstellingen kredieten voor eigen rekening mogen verlenen; ».<br /><br />
+
+### ART. 57.
+
+In artikel 3 van hetzelfde decreet worden § 1 en § 3 vervangen door wat volgt :<br />« § 1. Kleine en middelgrote ondernemingen die in het Vlaamse Gewest beschikken over ruimtes die bestemd en toegankelijk zijn voor de eindgebruikers en die die ruimtes daartoe daadwerkelijk aanwenden en die te kampen hebben met een verstoorde bereikbaarheid tengevolge van openbare werken komen in aanmerking voor de toekenning van een rentetoelage. »;<br /><br />« § 3. De Vlaamse Regering kan voorwaarden bepalen voor het aantonen van de hinder door openbare werken. ».<br /><br />
+
+### ART. 58.
+
+In artikel 4 van hetzelfde decreet wordt het woord « de minimis-verordening » vervangen door het woord « de de-minimisverordening ».<br /><br />
+
+### ART. 59.
+
+In artikel 5 van hetzelfde decreet worden de volgende wijzigingen aangebracht :<br />1° in § 1 wordt tussen de woorden « stijgende rentevoeten » en de woorden « kan de Vlaamse Regering » de woorden « of om begrotingsredenen » ingevoegd;<br /><br />2° een § 1bis wordt ingevoegd, die luidt als volgt :<br />« § 1bis. De Vlaamse Regering kan om begrotingsredenen een maximaal steunbedrag bepalen. »;<br /><br />3° in § 2, 2°, worden de woorden « Belgische of buitenlandse kredietinstellingen die volgens de wet van 22 maart 1993 op het statuut van en het toezicht op de kredietinstellingen gerechtigd zijn in België kredieten te verstrekken » vervangen door het woord « kredietinstellingen »;<br /><br />4° in § 2, 3°, worden de woorden « ten minste 5000 euro en » geschrapt.<br /><br />
+
 ## HOOFDSTUK XVI Economisch ondersteuningsbeleid
 
 ## HOOFDSTUK XVII IWT-Vlaanderen
