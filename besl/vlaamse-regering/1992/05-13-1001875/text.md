@@ -16,11 +16,11 @@ Voor de toepassing van dit besluit wordt verstaan onder:<br /><br />1° Medisch-
 
 ### ART. 4.
 
-De verificatiedienst van het Departement Onderwijs wordt belast met de controle van:<br /><br />1° de regelmatigheid van de opname van de leerlingen in de opvangcentra;<br /><br />2° de boeking tijdens de openstelling van de aanwezigheden en afwezigheden van de leerlingen in de opvangcentra;<br /><br />3° de berekening van de gemiddelde bezetting zoals bepaald in artikel 7.
+De verificatiedienst van het Agentschap voor Onderwijsdiensten wordt belast met de controle van:<br />1° de regelmatigheid van de opname van de leerlingen in de opvangcentra;<br />2° de boeking tijdens de openstelling van de aanwezigheden en afwezigheden van de leerlingen in de opvangcentra;<br />3° de berekening van de gemiddelde bezetting zoals bepaald in artikel 7.
 
 ### ART. 5.
 
-Op gemotiveerd voorstel van de Autonome Raad voor het Gemeenschapsonderwijs bepaalt de Vlaamse regering, overeenkomstig de normen die terzake gelden voor de instellingen gesubsidieerd door het departement van Welzijn, Volksgezondheid en Cultuur:<br /><br />a) het aantal bedden dat wordt toegekend aan nieuw te organiseren opvangcentra;<br /><br />b) het bijkomend aantal bedden aan reeds bestaande opvangcentra, die voldoen aan de beschikkingen van dit besluit.
+Op gemotiveerd voorstel van de Raad van het Gemeenschapsonderwijs bepaalt de Vlaamse regering, overeenkomstig de normen die terzake gelden voor de instellingen gesubsidieerd door het departement van Welzijn, Volksgezondheid en Cultuur:<br />a) het aantal bedden dat wordt toegekend aan nieuw te organiseren opvangcentra;<br />b) het bijkomend aantal bedden aan reeds bestaande opvangcentra, die voldoen aan de beschikkingen van dit besluit.
 
 ## HOOFDSTUK II DE INSTANDHOUDING EN OPRICHTING VAN OPVANGCENTRA
 
@@ -40,7 +40,7 @@ De gemiddelde bezetting van een opvangcentrum dient gedurende de paas- en de zom
 
 ### ART. 9.
 
-§ 1. De internaten van de Medisch-Pedagogische Instituten van het Gemeenschapsonderwijs respectievelijk gevestigd te Oostende-Klemskerke-De Haan, te Lommel-Leopoldsburg en te Koksijde-Diksmuide zijn permanent opengesteld en fungeren als opvangcentrum gedurende al de schoolvrije dagen.<br /><br />§ 2. Aan deze opvangcentra wordt respectievelijk het volgende aantal bedden toegekend:<br /><br />- Oostende-Klemskerke-De Haan: 120 bedden;<br /><br />- Lommel-Leopoldsburg: 99 bedden;<br /><br />- Koksijde-Diksmuide: 55 bedden.<br /><br />§ 3. Deze opvangcentra vallen niet onder de toepassing van de rationalisatienormen vastgesteld bij dit hoofdstuk.<br /><br />§ 4. Indien de opdracht van permanente opvang aan één van de in § 1 bedoelde instellingen zou onttrokken worden, wordt de vrijstelling van de rationalisatienormen door de Autonome Raad voor het Gemeenschapsonderwijs aan een andere instelling bedoeld in artikel 1 toegewezen.<br /><br />In geen geval kunnen meer dan drie opvangcentra van deze vrijstelling genieten.
+§ 1. De internaten van de Medisch-Pedagogische Instituten van het Gemeenschapsonderwijs respectievelijk gevestigd te Oostende-Klemskerke-De Haan, te Lommel-Leopoldsburg en te Koksijde-Diksmuide zijn permanent opengesteld en fungeren als opvangcentrum gedurende al de schoolvrije dagen.<br /><br />§ 2. Aan deze opvangcentra wordt respectievelijk het volgende aantal bedden toegekend:<br />- Oostende-Klemskerke-De Haan: 120 bedden;<br />- Lommel-Leopoldsburg: 99 bedden;<br />- Koksijde-Diksmuide: 75 bedden.<br /><br />§ 3. Deze opvangcentra vallen niet onder de toepassing van de rationalisatienormen vastgesteld bij dit hoofdstuk.<br /><br />§ 4. Indien de opdracht van permanente opvang aan één van de in § 1 bedoelde instellingen zou onttrokken worden, wordt de vrijstelling van de rationalisatienormen door de Raad van het Gemeenschapsonderwijs toegewezen aan een instelling opgenomen in artikel 10bis.<br /><br />In geen geval kunnen meer dan drie opvangcentra van deze vrijstelling genieten.
 
 ## AFDELING 2 DE OPRICHTING VAN OPVANGCENTRA
 
@@ -72,7 +72,7 @@ Het urenpakket van de nieuw opgerichte opvangcentra wordt in twee schijven toege
 
 ### ART. 15.
 
-Overheveling van urenpakketten tussen de opvangcentra onderling is mogelijk en beperkt tot de duur van het betrokken schooljaar.<br /><br />Bedoelde overhevelingen kunnen slechts worden doorgevoerd met het akkoord van de lokale bestuursorganen, na overleg in het bevoegde overlegcomité opgericht krachtens de wet van 19 december 1974 tot regeling van de betrekkingen tussen de overheid en de vakbonden van haar personeel en bekrachtigd door de Centrale Raad van de A.R.G.O.
+Overheveling van urenpakketten tussen de opvangcentra onderling is mogelijk en beperkt tot de duur van het betrokken schooljaar.<br /><br />Bedoelde overhevelingen kunnen slechts worden doorgevoerd met het akkoord van de lokale bestuursorganen, na overleg in het bevoegde overlegcomité opgericht krachtens de wet van 19 december 1974 tot regeling van de betrekkingen tussen de overheid en de vakbonden van haar personeel en bekrachtigd door de Raad van het Gemeenschapsonderwijs.
 
 ### ART. 16.
 
