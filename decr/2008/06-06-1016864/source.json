@@ -1,0 +1,17 @@
+{
+  "codex_id": 1016864,
+  "title": "Decreet van 2008-06-06 houdende wijziging van het decreet van 4 februari 1997 houdende de kwaliteits- en veiligheidsnormen voor kamers en studentenkamers, met het oog op tijdelijke huisvesting van seizoenarbeiders",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1016864/VolledigDocument?datum=2008-07-06",
+  "source_sha256": "a3bbfce12e48867c7d1ff977ca113975e726109eb9a5ec16956b3fd11698d202",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1016864&param=informatie",
+  "as_of": "2008-07-06",
+  "made": "2008-06-06",
+  "gazette": "2008-06-26",
+  "numac": 2008202167,
+  "document_start": "2008-07-06",
+  "document_end": null,
+  "in_force": "2008-07-06",
+  "article_versions": 8,
+  "record_form": "consolidated version as in force on 2008-07-06; oldest version available; future article versions excluded; article text as the API gives it"
+}
