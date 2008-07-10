@@ -2,16 +2,16 @@
   "codex_id": 1016981,
   "title": "Decreet van 2008-07-18 houdende wijziging van het Elektriciteitsdecreet van 17 juli 2000, wat betreft de hoeveelheid gratis ontvangen elektriciteit, van het Aardgasdecreet van 6 juli 2001, wat betreft de uitbreiding van de dekkingsgraad van het aardgasdistributienetwerk, van het REG-decreet van 2 april 2004, wat betreft de Autonome Commissie Energiebeleid Vlaanderen, van het EPB-decreet van 22 december 2006, wat betreft de controles, en van het decreet van 25 mei 2007 tot wijziging van het decreet van 20 december 1996 tot regeling van het recht op minimumlevering van elektriciteit, gas en water, wat betreft elektriciteit en gas, van het decreet van 17 juli 2000 houdende de organisatie van de elektriciteitsmarkt, wat betreft de openbaredienstverplichtingen, en van het decreet van 6 juli 2001 houdende de organisatie van de gasmarkt, wat betreft de openbaredienstverplichtingen",
   "type": "Decreet",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1016981/VolledigDocument?datum=2008-04-01",
-  "source_sha256": "288f359b73f63f74e2d547880f41167d012d79524cc91b576da81ad5002415ac",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1016981/VolledigDocument?datum=2008-07-10",
+  "source_sha256": "af0a4f5e8f3b3ff62cbb27a3b36e84532a827ac616e29b1a04eb6a4f7bdd27fe",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1016981&param=informatie",
-  "as_of": "2008-04-01",
+  "as_of": "2008-07-10",
   "made": "2008-07-18",
   "gazette": "2008-08-22",
   "numac": 2008202857,
   "document_start": "2008-08-22",
   "document_end": null,
-  "in_force": "2008-04-01",
-  "article_versions": 7,
-  "record_form": "consolidated version as in force on 2008-04-01; future article versions excluded; article text as the API gives it"
+  "in_force": "2008-07-10",
+  "article_versions": 8,
+  "record_form": "consolidated version as in force on 2008-07-10; future article versions excluded; article text as the API gives it"
 }

@@ -12,6 +12,10 @@ In artikel 18bis, § 4, van hetzelfde decreet worden in het eerste lid de woorde
 
 In artikel 18bis, § 5, van hetzelfde decreet worden in het eerste lid de woorden "wordt geleverd tijdens de normale daguren. Zij" en de woorden "tijdens die uren" alsook het tweede lid geschrapt. <br /><br />
 
+### ART. 8.
+
+In hetzelfde artikel, 43°, worden de woorden "door een rechtspersoon of BTW-plichtige" vervangen door de woorden "door een onderneming, zoals bedoeld in artikel 2, 3°, van de wet van 16 januari 2003 tot oprichting van een kruispuntbank voor ondernemingen, tot modernisering van het handelsregister, tot oprichting van erkende ondernemingsloketten en houdende diverse bepalingen". <br /><br />
+
 ### ART. 9.
 
 In hoofdstuk VI van hetzelfde decreet wordt een artikel 17quater ingevoegd, dat luidt als volgt :<br />« Art. 17quater. Alle kosten die verbonden zijn aan het opzeggen van het leveringscontract van een wanbetaler door een leverancier komen voor rekening van de leverancier. »<br /><br />
