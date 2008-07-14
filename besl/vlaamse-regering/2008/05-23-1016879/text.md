@@ -1,0 +1,13 @@
+# Besluit van de Vlaamse Regering van 2008-05-23 houdende goedkeuring van programmatie van specifieke structuuronderdelen van de tweede of derde graad of van een nieuw studiegebied van scholen al dan niet behorende tot een scholengemeenschap
+
+### Aanhef
+
+De Vlaamse Regering,<br /><br />Gelet op het decreet van 14 juli 1998 houdende diverse maatregelen met betrekking tot het secundair onderwijs en tot wijziging van het decreet van 25 februari 1997 betreffende het basisonderwijs;<br /><br />Gelet op het advies van de Vlaamse Onderwijsraad gegeven op 26 februari 2008;<br /><br />Gelet op het advies van de Inspectie van Financiën gegeven op 6 mei 2008;<br /><br />Op voorstel van de Vlaamse minister van Werk, Onderwijs en Vorming;<br /><br />Na beraadslaging,<br /><br />Besluit :
+
+### ART. 1.
+
+Aan de hierna vermelde instellingen voor het voltijds secundair onderwijs, die al dan niet behoren tot een scholengemeenschap wordt, in toepassing van het decreet van 14 juli 1998 houdende diverse maatregelen met betrekking tot het secundair onderwijs en tot wijziging van het decreet van 25 februari 1997 betreffende het basisonderwijs, toelating verleend om de programmatie te doen van :<br /><br />A. Programmatie van specifieke structuuronderdelen van de tweede of derde graad - onderwijsinstellingen die tot een scholengemeenschap behoren<br />1) K.T.A. Vesaliusinstituut Oostende<br />Leffingestraat 1<br />8400 Oostende<br />derde graad : TSO, Productie- en procestechnologie<br />studiegebied : chemie<br />2) Technisch Instituut Sint-Carolus<br />Hospitaalstraat 2<br />9100 Sint-Niklaas<br />derde graad : TSO, Productie- en procestechnologie<br />studiegebied : chemie<br /><br />B. Programmatie van een studiegebied dat nog op geen enkel leerjaarniveau door de school wordt georganiseerd (nieuw studiegebied)<br />3) Middelbare Rudolf Steinerschool Vlaanderen<br />Kasteellaan 54<br />9000 Gent<br />tweede graad : BSO, duurzaam wonen<br />studiegebied : bouw<br />4) KTA<br />Leenhofstraat 33<br />2400 Mol<br />tweede graad : BSO, duurzaam wonen<br />studiegebied : bouw<br />5) MSGO<br />Sint-Martinusstraat 3<br />3740 Bilzen<br />tweede graad : BSO, duurzaam wonen<br />studiegebied : bouw<br /><br />C. Programmatie van specifieke structuuronderdelen van de tweede of derde graad of een nieuw studiegebied - onderwijsinstellingen die niet behoren tot een scholengemeenschap<br />6) Provinciaal Technisch Instituut<br />Graaf Karel de Goedelaan 7<br />8500 Kortrijk<br />derde graad : TSO, Productie- en procestechnologie<br />studiegebied : textiel.
+
+### ART. 2.
+
+De Vlaamse minister, bevoegd voor Onderwijs is belast met de uitvoering van dit besluit.

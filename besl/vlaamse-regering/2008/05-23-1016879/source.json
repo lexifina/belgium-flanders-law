@@ -1,0 +1,17 @@
+{
+  "codex_id": 1016879,
+  "title": "Besluit van de Vlaamse Regering van 2008-05-23 houdende goedkeuring van programmatie van specifieke structuuronderdelen van de tweede of derde graad of van een nieuw studiegebied van scholen al dan niet behorende tot een scholengemeenschap",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1016879/VolledigDocument?datum=2008-07-14",
+  "source_sha256": "94965e48318e25d94e400ef6ed6984318cabb6f18a867b7faf78a140ca5d160f",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1016879&param=informatie",
+  "as_of": "2008-07-14",
+  "made": "2008-05-23",
+  "gazette": "2008-07-04",
+  "numac": 2008035651,
+  "document_start": "2008-07-14",
+  "document_end": "2016-12-31",
+  "in_force": "2008-07-14",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2008-07-14; oldest version available; future article versions excluded; article text as the API gives it"
+}
