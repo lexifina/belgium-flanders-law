@@ -1,0 +1,17 @@
+{
+  "codex_id": 1016894,
+  "title": "Ministerieel besluit van 2008-07-09 tot wijziging van het ministerieel besluit van 14 december 2007 houdende tijdelijke aanvullende maatregelen tot het behoud van de visbestanden in zee",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1016894/VolledigDocument?datum=2008-07-15",
+  "source_sha256": "57432de9caf08c19ffce532e941009f3d921c0b075c0624bd45e2ab721fbb568",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1016894&param=informatie",
+  "as_of": "2008-07-15",
+  "made": "2008-07-09",
+  "gazette": "2008-07-14",
+  "numac": 2008202488,
+  "document_start": "2008-07-15",
+  "document_end": "2009-01-01",
+  "in_force": "2008-07-15",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2008-07-15; oldest version available; future article versions excluded; article text as the API gives it"
+}
