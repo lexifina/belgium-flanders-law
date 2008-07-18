@@ -140,32 +140,21 @@ Het hoofd van het agentschap heeft delegatie om overheidsopdrachten te gunnen to
 
 Het hoofd van het agentschap heeft delegatie om de beslissingen te nemen inzake de uitvoering van overheidsopdrachten. Voor beslissingen met een financiële weerslag geldt de delegatie enkel binnen het voorwerp van de opdracht en tot een gezamenlijke maximale financiële weerslag van 15 % boven het initiële gunningsbedrag.
 
+### ART. 14bis.
+
+Het hoofd van het agentschap heeft delegatie om bestellingen te doen op grond van een bestellingsopdracht, binnen het voorwerp en de bepalingen van die bestellingsopdracht, en tot een bedrag per bestelling van respectievelijk :<br />1° 1.500.000 euro voor werken;<br />2° 900.000 euro voor leveringen;<br />3° 500.000 euro voor diensten.<br /><br />Als de bestelling bestaat uit continue prestaties, zoals exploitatie en recurrent onderhoud, geldt de delegatie zonder beperking van het bedrag.
+
 ## HOOFDSTUK V DELEGATIE INZAKE RECHTSGEDINGEN
 
 ### ART. 15.
 
-§ 1. Het hoofd van het agentschap heeft delegatie om:<br>
-<br>
-1° advocaten aan te stellen en het bedrag van de erelonen en de vergoedbare kosten van de advocaten goed te keuren en te betalen;<br>
-2° rechtsgedingen te voeren, als eiser, verweerder of tussenkomende partij, voor de hoven en rechtbanken, de administratieve rechtscolleges en het Rekenhof, met uitzondering van de rechtsgedingen voor het Arbitragehof; deze delegatie omvat het nemen van de beslissingen betreffende :<br>
-a) het instellen van rechtsgedingen;<br>
-b) het verrichten van alle noodzakelijke proceshandelingen;<br>
-c) het instellen van rechtsmiddelen tegen vonnissen of arresten, of desgevallend het berusten erin;<br>
-wat de intern verzelfstandigde agentschappen zonder rechtspersoonlijkheid betreft, worden de rechtsgedingen gevoerd namens de Vlaamse Regering, ten verzoeke van de bevoegde Vlaamse minister;<br>
-3° dadingen, minnelijke schikkingen en schulderkenningen aan te gaan, voor zover de budgettaire weerslag ervan niet meer bedraagt dan 65.000 euro;<br>
-4° de uitgaven verbonden aan de uitvoering van vonnissen, arresten, dadingen, minnelijke schikkingen en schulderkenningen, goed te keuren en te betalen.<br>
-<br>
-§ 2. De beslissing met betrekking tot de dagvaarding van een rekenplichtige voor het Rekenhof wordt genomen door de minister. Deze beslissing kan niet gedelegeerd worden.<br>
-<br>
------------------------------------------------------------------------------------------------<br>
-(noot: In afwijking van artikel 15, § 1, 2°, heeft het hoofd van het Departement Financiën en Begroting delegatie om verzet aan te tekenen bij de beslagrechter tegen elk bewarend beslag dat gelegd wordt op de tegoeden van de Vlaamse Gemeenschap of het Vlaamse Gewest ter uitvoering van artikel 1412bis, § 2, 1°, van het Gerechtelijk Wetboek, en tegen elk beslag dat gelegd wordt op de tegoeden van de Vlaamse Gemeenschap of het Vlaamse Gewest ter uitvoering van artikel 1412bis, § 2, 2°, van het Gerechtelijk Wetboek. - zie art. 3 BVR 1 september 2006)<br>
-&nbsp;
+§ 1. Het hoofd van het agentschap heeft delegatie om:<br /><br />1° advocaten aan te stellen en het bedrag van de erelonen en de vergoedbare kosten van de advocaten goed te keuren en te betalen;<br />2° rechtsgedingen te voeren, als eiser, verweerder of tussenkomende partij, voor de hoven en rechtbanken, de administratieve rechtscolleges en het Rekenhof, met uitzondering van de rechtsgedingen voor het Arbitragehof; deze delegatie omvat het nemen van de beslissingen betreffende :<br />a) het instellen van rechtsgedingen;<br />b) het verrichten van alle noodzakelijke proceshandelingen;<br />c) het instellen van rechtsmiddelen tegen vonnissen of arresten, of desgevallend het berusten erin;<br />wat de intern verzelfstandigde agentschappen zonder rechtspersoonlijkheid betreft, worden de rechtsgedingen gevoerd namens de Vlaamse Regering, ten verzoeke van de bevoegde Vlaamse minister;<br />3° dadingen, minnelijke schikkingen en schulderkenningen aan te gaan, voor zover de budgettaire weerslag ervan niet meer bedraagt dan 65.000 euro;<br />3°bis overeenkomsten tot arbitrage te sluiten, voor zover, als het een in geld waardeerbaar geschil betreft, de waarde van het geschil 500.000 euro in hoofdsom niet overschrijdt;<br />4° de uitgaven die verbonden zijn aan de uitvoering van vonnissen, arresten, dadingen, minnelijke schikkingen, schulderkenningen en arbitrageprocedures, goed te keuren en te betalen.<br /><br />§ 2. De beslissing met betrekking tot de dagvaarding van een rekenplichtige voor het Rekenhof wordt genomen door de minister. Deze beslissing kan niet gedelegeerd worden.<br /><br /><br />
 
 ## HOOFDSTUK VI DELEGATIES INZAKE DIVERSE AANGELEGENHEDEN
 
 ### ART. 16.
 
-Het hoofd van het agentschap heeft delegatie om de beslissingen te nemen betreffende:<br /><br />1° de verwerving, de bouw, het beheer, de exploitatie, het onderhoud en de vervreemding van onroerende goederen en infrastructuren;<br /><br />2° het verlenen van gereglementeerde subsidies en andere vormen van financiële tussenkomsten met een gereglementeerd karakter;<br /><br />3° de invordering en inning van belastingen, heffingen, retributies en niet-fiscale schuldvorderingen;<br /><br />4° het verlenen en intrekken van vergunningen;<br /><br />5° het verlenen en intrekken van erkenningen;<br /><br />6° toezichts-, controle- en inspectietaken.
+Het hoofd van het agentschap heeft delegatie om de beslissingen te nemen betreffende:<br />1° de verwerving, de bouw, het beheer, de exploitatie, het onderhoud en de vervreemding van onroerende goederen en infrastructuren;<br />2° het verlenen van gereglementeerde subsidies en andere vormen van financiële tussenkomsten met een gereglementeerd karakter;<br />3° de invordering en inning van belastingen, heffingen, retributies en niet-fiscale schuldvorderingen;<br />4° het verlenen en intrekken van vergunningen;<br />5° het verlenen en intrekken van erkenningen;<br />6° toezichts-, controle- en inspectietaken.<br /><br />Wat de onroerende goederen en infrastructuren betreft die behoren tot het domein van de Vlaamse Gemeenschap of het Vlaamse Gewest, is de delegatie tot vervreemding, vermeld in het eerste lid, punt 1°, beperkt tot de beslissing tot wijziging van de bestemming, of tot het onttrekken van een onroerend goed aan zijn bestemming, voor zover die beslissing onverwijld ter kennis wordt gebracht van het lid van de Vlaamse Regering dat bevoegd is voor het algemeen beleid inzake vastgoedbeheer.
 
 ## HOOFDSTUK VII MOGELIJKHEID TOT HET INSTELLEN VAN BEPERKINGEN OP DE ALGEMENE DELEGATIE
 
