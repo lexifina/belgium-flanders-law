@@ -2,16 +2,16 @@
   "codex_id": 1014020,
   "title": "Samenwerkingsakkoord van 2005-09-23 tussen de Federale Staat, het Vlaamse Gewest, het Waalse Gewest en het Brussels Hoofdstedelijk Gewest betreffende de organisatie en het administratief beheer van het gestandaardiseerd registersysteem van België overeenkomstig richtlijn 2003/87/EG van het Europees Parlement en de raad en beschikking 280/2004/EG van het Europees Parlement en de Raad",
   "type": "Samenwerkingsakkoord",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1014020/VolledigDocument?datum=2006-06-01",
-  "source_sha256": "422accf2978631317a2e49da78c634fde92892d12bb17274cd94ac26d24a9da4",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1014020/VolledigDocument?datum=2008-07-18",
+  "source_sha256": "162dca46772b3db8a3b8dea3ffbec43950bc4fc6db34c026b6c558807370aafe",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1014020&param=informatie",
-  "as_of": "2006-06-01",
+  "as_of": "2008-07-18",
   "made": "2005-09-23",
   "gazette": "2005-10-14",
   "numac": 2005021135,
   "document_start": null,
   "document_end": "2999-12-31",
-  "in_force": "2006-06-01",
+  "in_force": "2008-07-18",
   "article_versions": 17,
-  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2008-07-18; future article versions excluded; article text as the API gives it"
 }
