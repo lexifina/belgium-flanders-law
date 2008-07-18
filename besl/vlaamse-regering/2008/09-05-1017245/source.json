@@ -1,0 +1,17 @@
+{
+  "codex_id": 1017245,
+  "title": "Besluit van de Vlaamse Regering van 2008-09-05 tot wijziging van de delegaties aan de leden van de Vlaamse Regering en aan de hoofden van de departementen en van de intern verzelfstandigde agentschappen en tot wijziging van de toezichtsbevoegdheid van de Inspectie van Financiën",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1017245/VolledigDocument?datum=2008-07-18",
+  "source_sha256": "fa438d42e31b609de020f645c1e686facd80cde5b3f570ed50eed11b7e00f1bd",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1017245&param=informatie",
+  "as_of": "2008-07-18",
+  "made": "2008-09-05",
+  "gazette": "2008-10-29",
+  "numac": 2008036258,
+  "document_start": "2008-07-18",
+  "document_end": null,
+  "in_force": "2008-07-18",
+  "article_versions": 16,
+  "record_form": "consolidated version as in force on 2008-07-18; oldest version available; future article versions excluded; article text as the API gives it"
+}
