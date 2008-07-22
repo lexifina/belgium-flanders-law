@@ -1,0 +1,17 @@
+{
+  "codex_id": 1016908,
+  "title": "Ministerieel besluit van 2008-07-07 tot bepaling van de standaard voor de titel van onderhoudstechnicus liften",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1016908/VolledigDocument?datum=2008-07-22",
+  "source_sha256": "223481fa10149aac43e8742986b69675e625640407da1d9424e59743504d1b74",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1016908&param=informatie",
+  "as_of": "2008-07-22",
+  "made": "2008-07-07",
+  "gazette": "2008-07-22",
+  "numac": 2008202543,
+  "document_start": "2008-07-22",
+  "document_end": "2018-12-31",
+  "in_force": "2008-07-22",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2008-07-22; oldest version available; future article versions excluded; article text as the API gives it"
+}
