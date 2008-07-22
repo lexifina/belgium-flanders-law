@@ -1,0 +1,17 @@
+{
+  "codex_id": 1016910,
+  "title": "Ministerieel besluit van 2008-07-07 tot bepaling van de standaard voor de titel van personal trainer",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1016910/VolledigDocument?datum=2008-07-22",
+  "source_sha256": "f1af8c8cbcd8a2dfe3c12a1bdaa778c8a1632d0fc45b892978e8c815cdf84c16",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1016910&param=informatie",
+  "as_of": "2008-07-22",
+  "made": "2008-07-07",
+  "gazette": "2008-07-22",
+  "numac": 2008202545,
+  "document_start": "2008-07-22",
+  "document_end": "2018-12-31",
+  "in_force": "2008-07-22",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2008-07-22; oldest version available; future article versions excluded; article text as the API gives it"
+}
