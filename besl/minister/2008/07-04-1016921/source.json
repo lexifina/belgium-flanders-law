@@ -1,0 +1,17 @@
+{
+  "codex_id": 1016921,
+  "title": "Ministerieel besluit van 2008-07-04 tot goedkeuring van ecodisR-cel als alternatieve beheersmaatregel in het kader van het Legionellabesluit",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1016921/VolledigDocument?datum=2008-07-23",
+  "source_sha256": "e216dfb3447c22788f0d4388706caa6b367e7576a0bdc63c2c3e0703bb12fe53",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1016921&param=informatie",
+  "as_of": "2008-07-23",
+  "made": "2008-07-04",
+  "gazette": "2008-07-23",
+  "numac": 2008202566,
+  "document_start": "2008-07-23",
+  "document_end": null,
+  "in_force": "2008-07-23",
+  "article_versions": 6,
+  "record_form": "consolidated version as in force on 2008-07-23; oldest version available; future article versions excluded; article text as the API gives it"
+}
