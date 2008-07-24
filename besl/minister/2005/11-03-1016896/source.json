@@ -1,0 +1,17 @@
+{
+  "codex_id": 1016896,
+  "title": "Ministerieel besluit van 2005-11-03 betreffende toepassing van artikelen 48 en 48ter van het decreet van 22 februari 1995 betreffende de bodemsanering - site « Rabot » te Gent",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1016896/VolledigDocument?datum=2008-07-24",
+  "source_sha256": "a20dc3f998aba382abc1948b80b4683f7d5b3a9a7428c30f2caaa0adc8fdccc4",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1016896&param=informatie",
+  "as_of": "2008-07-24",
+  "made": "2005-11-03",
+  "gazette": "2008-07-14",
+  "numac": 2008035653,
+  "document_start": "2008-07-24",
+  "document_end": null,
+  "in_force": "2008-07-24",
+  "article_versions": 10,
+  "record_form": "consolidated version as in force on 2008-07-24; oldest version available; future article versions excluded; article text as the API gives it"
+}
