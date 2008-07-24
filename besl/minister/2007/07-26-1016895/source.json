@@ -1,0 +1,17 @@
+{
+  "codex_id": 1016895,
+  "title": "Ministerieel besluit van 2007-07-26 betreffende de wijziging van het toepassingsgebied van het ministerieel besluit van 3 november 2005 betreffende de toepassing van artikelen 48 en 48ter van het decreet van 22 februari 1995 betreffende de bodemsanering - Site \"Rabot\" te Gent",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1016895/VolledigDocument?datum=2008-07-24",
+  "source_sha256": "2ff6e0342bec0ae7aa0530021ae7a095a9b4dcb9010b23864187e4f631c0cb01",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1016895&param=informatie",
+  "as_of": "2008-07-24",
+  "made": "2007-07-26",
+  "gazette": "2008-07-14",
+  "numac": 2008035654,
+  "document_start": "2008-07-24",
+  "document_end": null,
+  "in_force": "2008-07-24",
+  "article_versions": 6,
+  "record_form": "consolidated version as in force on 2008-07-24; oldest version available; future article versions excluded; article text as the API gives it"
+}
