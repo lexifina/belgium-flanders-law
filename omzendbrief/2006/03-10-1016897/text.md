@@ -555,5 +555,4 @@ Toestemming tot crematie<br>
 
 ### BIJLAGE
 
-Toestemming tot vervoer van het stoffelijk overschot<br>
-&nbsp;
+...
