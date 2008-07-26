@@ -1,0 +1,17 @@
+{
+  "codex_id": 1016902,
+  "title": "Ministerieel besluit van 2008-06-23 houdende vaststelling van de maatregelen en de modaliteiten tot uitvoering van het natuurinrichtingsproject de Blankaart",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1016902/VolledigDocument?datum=2008-07-26",
+  "source_sha256": "04b892427eae1c1d262142bd1e857d66e4b0e19c3ab64747ddefe0808572b30c",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1016902&param=informatie",
+  "as_of": "2008-07-26",
+  "made": "2008-06-23",
+  "gazette": "2008-07-16",
+  "numac": 2008202490,
+  "document_start": "2008-07-26",
+  "document_end": null,
+  "in_force": "2008-07-26",
+  "article_versions": 6,
+  "record_form": "consolidated version as in force on 2008-07-26; oldest version available; future article versions excluded; article text as the API gives it"
+}
