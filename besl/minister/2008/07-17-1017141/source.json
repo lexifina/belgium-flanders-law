@@ -1,0 +1,17 @@
+{
+  "codex_id": 1017141,
+  "title": "Ministerieel besluit van 2008-07-17 houdende vaststelling van de voorwaarden van toekenning van een persoonlijke-assistentiebudget",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1017141/VolledigDocument?datum=2008-08-01",
+  "source_sha256": "bcc4b9f400cac3cb534f9cb99e80ba4e122314163a6ca8325994755584ca031e",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1017141&param=informatie",
+  "as_of": "2008-08-01",
+  "made": "2008-07-17",
+  "gazette": "2008-10-09",
+  "numac": 2008202730,
+  "document_start": "2008-08-01",
+  "document_end": null,
+  "in_force": "2008-08-01",
+  "article_versions": 5,
+  "record_form": "consolidated version as in force on 2008-08-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
