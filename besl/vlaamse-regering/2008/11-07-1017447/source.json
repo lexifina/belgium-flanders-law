@@ -1,0 +1,17 @@
+{
+  "codex_id": 1017447,
+  "title": "Besluit van de Vlaamse Regering van 2008-11-07 tot wijziging van het besluit van de Vlaamse Regering van 21 september 2007 betreffende de verstrekking van melk en bepaalde zuivelproducten aan leerlingen in onderwijsinstellingen",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1017447/VolledigDocument?datum=2008-08-01",
+  "source_sha256": "b4db7f9a3099dd8665667b1461e15db49ca04cd1a386ce4d60577a806b949a6d",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1017447&param=informatie",
+  "as_of": "2008-08-01",
+  "made": "2008-11-07",
+  "gazette": "2009-01-14",
+  "numac": 2008204757,
+  "document_start": "2008-08-01",
+  "document_end": null,
+  "in_force": "2008-08-01",
+  "article_versions": 6,
+  "record_form": "consolidated version as in force on 2008-08-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
