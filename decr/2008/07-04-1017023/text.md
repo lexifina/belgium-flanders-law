@@ -132,6 +132,10 @@ In artikel 162 van hetzelfde decreet worden de woorden « met uitzondering van d
 
 In titel IX, hoofdstuk II, afdeling III, van hetzelfde decreet, wordt een artikel 196bis ingevoegd, dat luidt als volgt :<br />« Artikel 196bis<br />De referteperiode van 1 februari 2007 tot 31 januari 2008 wordt éénmalig met twee maanden verlengd tot 31 maart 2008. ».<br /><br />
 
+### ART. IV.17.
+
+In hetzelfde decreet worden de artikelen 135, 141, 142, 147, 152 en 155 opgeheven.<br /><br />
+
 ### ART. IV.18.
 
 In alle betrokken artikelen van hetzelfde decreet worden de woorden « referteperiode van 1 februari n-1 tot 31 januari n » vervangen door de woorden « referteperiode van 1 april n-1 tot 31 maart n ».<br /><br />
