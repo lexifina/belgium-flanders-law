@@ -1,0 +1,17 @@
+{
+  "codex_id": 1016907,
+  "title": "Ministerieel besluit van 2008-06-24 houdende vaststelling van het subsidiëringsprogramma voor gemeentelijke rioleringen en KWZI's, voor het eerste kwartaalprogramma 2009",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1016907/VolledigDocument?datum=2008-08-01",
+  "source_sha256": "16fbfd47801af6a2452ac58a015fefcc8203e0ea5d7dac91aecf8386b24e4e2e",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1016907&param=informatie",
+  "as_of": "2008-08-01",
+  "made": "2008-06-24",
+  "gazette": "2008-07-22",
+  "numac": 2008035965,
+  "document_start": "2008-08-01",
+  "document_end": null,
+  "in_force": "2008-08-01",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2008-08-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
