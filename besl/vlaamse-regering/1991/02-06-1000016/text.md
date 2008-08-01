@@ -5399,7 +5399,7 @@ R = Inrichting waarvoor de exploitant op grond van de Verordening nr. 166/2005 v
 		</tr>
 		<tr>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:216pt">
-			<p>a) het lozen van huishoudelijk afvalwater in de openbare riolen, voor zover dit afvalwater afkomstig is van woongelegenheden;</p>
+			<p>a) het lozen van huishoudelijk afvalwater, met inbegrip van de eventueel bijbehorende afvalwaterzuiveringsinstallatie, voor zover dit afvalwater afkomstig is van woongelegenheden</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:54pt">
 			<p>&nbsp;</p>
@@ -5419,7 +5419,7 @@ R = Inrichting waarvoor de exploitant op grond van de Verordening nr. 166/2005 v
 		</tr>
 		<tr>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:216pt">
-			<p>b) afvalwaterzuiveringsinstallaties voor de behandeling van huishoudelijk afvalwater die horen bij individuele woongelegenheden</p>
+			<p>b) het lozen van huishoudelijk afvalwater, ander dan afkomstig van woongelegenheden, met inbegrip van de eventueel bijbehorende afvalwaterzuiveringsinstallatie, voor zover de biologisch afbreekbare organische belasting van dit afvalwater niet meer bedraagt dan 20 inwonersequivalenten;</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:54pt">
 			<p>&nbsp;</p>
