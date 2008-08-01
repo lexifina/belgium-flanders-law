@@ -4,7 +4,7 @@
 
 ### ART. 1.
 
-Voor de toepassing van dit besluit wordt verstaan onder:<br /><br />1° decreet: het decreet van 27 maart 1991 inzake medisch verantwoorde sportbeoefening;<br /><br />2° minister: de Vlaamse minister, bevoegd voor de medisch verantwoorde sportbeoefening;<br /><br />3° administratie: de administratie van de diensten van de Vlaamse Regering, bevoegd voor de medisch verantwoorde sportbeoefening;<br /><br />4° Bloso: Vlaams Commissariaat-generaal voor de Bevordering van de Lichamelijke Ontwikkeling, de Sport en de Openluchtrecreatie of zijn rechtsopvolger;<br /><br />5° controlearts: erkend controlearts als vermeld in artikel 16 van het decreet;<br /><br />6° controlecomité: controlecomité als vermeld in artikel 23 van het decreet;<br /><br />7° controlelaboratorium: erkend controlelaboratorium als vermeld in artikel 16 van het decreet;<br /><br />8° disciplinaire commissie: disciplinaire commissie als vermeld in artikel 17 van het decreet;<br /><br />9° disciplinaire raad: disciplinaire raad als vermeld in artikel 18 van het decreet;<br /><br />10° IOC.: Internationaal Olympisch Comité;<br /><br />11° keuringsarts: erkende keuringsarts als vermeld in artikel 14 van het decreet;<br /><br />12° keuringscentrum: erkend keuringscentrum als vermeld in artikel 14 van het decreet;<br /><br />13° monster: monster van de lichaamsvochten, hoofdhaar of slijmvlies van de sportbeoefenaar of van de drank, van het voedsel of van de substanties die in het bezit zijn van de sportbeoefenaar of van de begeleider, vermeld in artikel 28, § 1, 3° en 4°, van het decreet;<br /><br />14° monsterneming: afname van het monster, vermeld in 13°;<br /><br />15° opdrachtenblad: formulier als vermeld in artikel 55;<br /><br />16° overkoepelend orgaan: samenwerkingsverband van sportfederaties als vermeld in artikel 4, 3°, van het decreet;<br /><br />17° positief analyseresultaat: vaststelling in het monster van de aanwezigheid van substanties of middelen, als vermeld in artikel 2, 6°, van het decreet;<br /><br />18° sportfederatie: groepering van sportverenigingen, die bij overeenkomst of krachtens de statuten tot doel heeft om sportmanifestaties te organiseren;<br /><br />19° sportmedisch toezicht: verplicht toezicht op sportmanifestaties door toezichthoudende artsen als vermeld in artikel 15 van het decreet;<br /><br />20° toezichthoudende arts: erkende arts als vermeld in artikel 15 van het decreet;<br /><br />21° Vlaamse Adviesraad: de Vlaamse Adviesraad voor erkenning van verzorgingsvoorzieningen als vermeld in artikel 10 van het decreet van 20 december 1996 houdende oprichting van een Vlaamse Gezondheidsraad en van een Vlaamse Adviesraad inzake erkenning van verzorgingsvoorzieningen;<br /><br />22° erkende sportfederatie: de sportfederatie, erkend op basis van het decreet van 13 juli 2001 houdende de regeling van de erkenning en subsidiëring van de Vlaamse sportfederaties, de koepelorganisatie en de organisaties voor de sportieve vrijetijdsbesteding;<br /><br />23° kinesitherapeut: erkende kinesitherapeut als vermeld in artikel 16 van het decreet;<br /><br />24° verpleegkundige: erkende verpleegkundige als vermeld in artikel 16 van het decreet;<br /><br />25° WADA: het wereldantidopingagentschap, een door de regering erkende internationale organisatie ter bestrijding van doping als vermeld in artikel 26 van het decreet;<br /><br />26° controle op de verblijfplaats: dopingcontrole die niet verbonden is aan een sportmanifestatie of een georganiseerde voorbereiding als vermeld in artikel 26, § 2, van het decreet;<br /><br />27° binnen wedstrijdverband: dopingcontrole in rechtstreeks verband met een wedstrijd of competitie;<br /><br />28° buiten wedstrijdverband: dopingcontrole, niet binnen wedstrijdverband;<br /><br />29° getalenteerde sportbeoefenaars: de sportbeoefenaars, vermeld in artikel 2, 10°, van het decreet;<br /><br />30° elitegroep:<br /><br />a) alle meerderjarige sportbeoefenaars die door een sportvereniging gepreselecteerd of geselecteerd zijn voor deelname aan de Olympische Spelen, Paralympics, Wereldspelen, Wereldkampioenschappen, Europese Kampioenschappen of Europese competities, georganiseerd door een internationale sportfederatie;<br /><br />b) alle meerderjarige sportbeoefenaars die als zelfstandige of verbonden door een arbeidsovereenkomst voornamelijk sportieve prestaties leveren of zich daarop voorbereiden en hiervan hun hoofdactiviteit maken;<br /><br />31° expertencommissie: de expertencommissie medisch verantwoord sporten, vermeld in artikel 10 van het decreet;<br /><br />32° Vlaamse Sportraad: de raad, vermeld in artikel 2 van het decreet van 7 juli 1998 houdende oprichting van de Vlaamse Sportraad en de Adviserende Beroepscommissie voor sportaangelegenheden, of zijn rechtsopvolger;<br /><br />33° exogeen: een substantie die van nature niet door het menselijk lichaam kan worden aangemaakt;<br /><br />34° endogeen: een substantie die van nature door het menselijk lichaam kan worden aangemaakt.
+...
 
 ## TITEL II Organen voor de medisch verantwoorde sportbeoefening
 
@@ -14,23 +14,23 @@ Voor de toepassing van dit besluit wordt verstaan onder:<br /><br />1° decreet:
 
 ### ART. 2.
 
-Alleen personen of centra die door de minister erkend zijn, zijn bevoegd voor de sportmedische keuring, vermeld in artikel 20 van het decreet, en het preventieve gezondheidsonderzoek, vermeld in artikel 20bis van het decreet.
+...
 
 ### ART. 3.
 
-De erkenning wordt verleend voor ten hoogste drie jaar en kan hernieuwd worden.
+...
 
 ## Onderafdeling I Erkenning van keuringsartsen
 
 ### ART. 4.
 
-§ 1. Om als keuringsarts erkend te worden, moet de betrokkene:<br /><br />1° aan een van de onderstaande voorwaarden voldoen:<br /><br />a) hij is arts en houder van het diploma van licentiaat in de lichamelijke opvoeding, van de bijzondere licentie in de lichamelijke opvoeding en de sportgeneeskunde, van de licentie in de sportgeneeskunde of van het getuigschrift van aanvullend onderwijs in de sportgeneeskunde;<br /><br />b) hij is master in de geneeskunde en houder van het diploma van master in de lichamelijke opvoeding en de bewegingswetenschappen of van master in de sportgeneeskunde;<br /><br />2° de administratie een geschreven verklaring bezorgen waarin hij zijn eventuele bindingen met sportverenigingen en sportmanifestaties meedeelt, en vermeldt of hij begeleider is;<br /><br />3° beschikken over de nodige apparatuur en ruimte om de absolute en relatieve sportmedische geschiktheidcriteria bij sportbeoefenaars te kunnen vaststellen.<br /><br />§ 2. Om als keuringsarts erkend te blijven, moet de betrokkene:<br /><br />1° jaarlijks minstens een vormingsactiviteit bijwonen, georganiseerd door of op initiatief van de administratie door een universitaire instelling of door derden;<br /><br />2° de bepalingen inzake inhoud en frequentie van sportmedische keuring naleven;<br /><br />3° elke wijziging in de bindingen, vermeld in § 1, 2°, binnen 30 kalenderdagen schriftelijk aan de administratie meedelen.
+...
 
 ## Onderafdeling II Erkenning van keuringscentra
 
 ### ART. 5.
 
-§ 1. Om erkend te worden moet het keuringscentrum:<br /><br />1° onder de leiding en verantwoordelijkheid van een keuringsarts staan;<br /><br />2° overeenkomsten voorleggen met:<br /><br />a) een arts of een master in de geneeskunde die erkend specialist in de cardiologie is en deskundig in de sportgeneeskunde;<br /><br />b) een arts of een master in de geneeskunde die erkend specialist in de fysische geneeskunde of de orthopedie is en deskundig in de sportgeneeskunde;<br /><br />c) een doctor, licentiaat of gegradueerde in de kinesitherapie die deskundig is in de sportkinesitherapie of een doctor, een master in de revalidatiewetenschappen en de kinesitherapie of een master in de kinesitherapie die deskundig is in sportkinesitherapie;<br /><br />d) een doctor of licentiaat in de psychologie of een master in de psychologie die deskundig is in de sportpsychologie;<br /><br />e) een voedingsdeskundige met een universitair diploma of een diploma van het hoger onderwijs buiten de universiteit die deskundig is in de sportdieetleer;<br /><br />f) een doctor of licentiaat in de lichamelijke opvoeding die deskundig is in de trainingsleer of een master in de lichamelijke opvoeding en de bewegingswetenschappen;<br /><br />3° samenwerken met andere medische deskundigen met het oog op specifieke onderzoeken die nodig zijn voor het vervullen van de opdrachten, vermeld in artikel 14 van het decreet;<br /><br />4° beschikken over de nodige ruimte en apparatuur voor sportmedische begeleiding van getalenteerde sportbeoefenaars. De ruimten en de apparatuur moeten minstens voldoen aan de volgende infrastructuurnormen:<br /><br />a) de volgende ruimten:<br /><br />1) minimaal twee onderzoeks- en gesprekskamers;<br /><br />2) ruimte voor functioneel onderzoek;<br /><br />3) ruimte voor het administratief en het technisch personeel;<br /><br />4) de nodige sanitaire voorzieningen;<br /><br />b) de volgende uitrusting:<br /><br />1) spiro-ergometrie-installatie met loopband en fietsergometer, alsook de nodige apparatuur om een inspanningselektrocardiogram af te nemen en lactaatmetingen in bloed of plasma uit te voeren;<br /><br />2) apparatuur voor longfunctietests;<br /><br />3) apparatuur voor antropometrisch onderzoek en bepaling van de lichaamssamenstelling;<br /><br />4) krachtmeetapparatuur en apparatuur voor biomechanisch onderzoek;<br /><br />5) reanimatieapparatuur, minimaal een defibrillator;<br /><br />c) de onder punt a) vermelde ruimten moeten functioneel als een geheel kunnen werken. Dat houdt in dat namelijk alle belangrijke aspecten in de begeleiding van de getalenteerde sportbeoefenaars in een entiteit moeten kunnen functioneren;<br /><br />d) beschikken over sportinfrastructuur in de nabijheid van het keuringscentrum om veldtesten mogelijk te maken;<br /><br />5° deel uitmaken van een universiteit of de vorm aannemen van een vereniging zonder winstgevend doel. In dat laatste geval moet er een samenwerkingsverband bestaan met een universiteit die geconcretiseerd is in een samenwerkingsovereenkomst. In die overeenkomst gaat het keuringscentrum de verbintenis aan om desgevraagd te zorgen voor de begeleiding van de topsportstudenten van de universiteit en waarin de universiteit de verbintenis aangaat om wetenschappelijke expertise aan te reiken aan het keuringscentrum en haar medewerking te verlenen aan de realisatie van een aanbod van extra opleidingen voor keuringsartsen en begeleiders, opleidingen georganiseerd op initiatief van het keuringscentrum.<br /><br />§ 2. De overeenkomsten, vermeld in § 1, 2°, bevatten de voorwaarden van beschikbaarheid waaronder de keuringscentra op de deskundigen een beroep kunnen doen. Elke wijziging aan de overeenkomsten wordt onmiddellijk schriftelijk aan de administratie meegedeeld.<br /><br />§ 3. Om als keuringscentrum erkend te blijven, moet het keuringscentrum:<br /><br />1° meewerken aan de gezamenlijke totstandkoming en toepassing van gestandaardiseerde onderzoeksprotocollen met betrekking tot de sportmedische keuring en begeleiding, waarvan de inhoudelijke basis en minimale frequentie zijn vastgelegd op basis van het specifieke karakter van de sportactiviteit en leeftijdscategorie waartoe de sportbeoefenaar behoort;<br /><br />2° jaarlijks aan de administratie een rapport opsturen over de uitgevoerde onderzoeken inzake sportmedische keuring en begeleiding, samen met vaststellingen en suggesties;<br /><br />3° sportmedische keuring en begeleiding van getalenteerde sportbeoefenaars uitvoeren;<br /><br />4° de aanwezige kennis en ervaring aanbieden aan erkende keuringsartsen, andere keuringscentra en de overheid met het oog op een wetenschappelijk onderbouwde sportmedische keuring en begeleiding;<br /><br />5° aan de sportbeoefenaars en aan de administratie de gehanteerde tarieven van de sportmedische keuringen bekendmaken.
+...
 
 ## Afdeling II Erkenning en bevoegdheden van toezichthoudende artsen
 
@@ -38,45 +38,45 @@ De erkenning wordt verleend voor ten hoogste drie jaar en kan hernieuwd worden.
 
 ### ART. 6.
 
-Alleen personen die de minister heeft erkend, kunnen sportmedisch toezicht uitoefenen bij sportmanifestaties.
+...
 
 ### ART. 7.
 
-§ 1. Om erkend te worden als toezichthoudend arts, moet de betrokkene:<br /><br />1° aan een van de volgende voorwaarden voldoen:<br /><br />a) hij is arts en houder van het diploma van licentiaat in de lichamelijke opvoeding, van de bijzondere licentie in de lichamelijke opvoeding en de sportgeneeskunde, van de licentie in de sportgeneeskunde of van het getuigschrift van aanvullend onderwijs in de sportgeneeskunde;<br /><br />b) hij is master in de geneeskunde en houder van het diploma van master in de lichamelijke opvoeding en de bewegingswetenschappen of van master in de sportgeneeskunde;<br /><br />2° de administratie een geschreven verklaring bezorgen waarin hij zijn eventuele bindingen met sportverenigingen en sportmanifestaties mededeelt en vermeldt of hij begeleider is.<br /><br />§ 2. Om als toezichthoudend arts erkend te blijven, moet de betrokkene:<br /><br />1° jaarlijks aan ten minste een vormingsactiviteit deelnemen die werd georganiseerd door of op initiatief van de administratie;<br /><br />2° de bepalingen inzake sportmedische keuring en leeftijdsgrenzen, zoals vastgesteld door de regering, naleven;<br /><br />3° elke wijziging in de bindingen, vermeld in § 1, 2°, binnen de 30 kalenderdagen schriftelijk aan de administratie meedelen.
+...
 
 ### ART. 8.
 
-De erkenning voor toezichthoudende artsen wordt verleend voor ten hoogste drie jaar en kan worden hernieuwd.
+...
 
 ## Onderafdeling II Bevoegdheden
 
 ### ART. 9.
 
-De minister bepaalt de bevoegdheden van de toezichthoudende artsen en de sportmanifestaties waarop ze aanwezig moeten zijn.
+...
 
 ## Afdeling III Erkenning van controleartsen, verpleegkundigen en kinesitherapeuten
 
 ### ART. 10.
 
-Alleen personen die de minister heeft erkend, kunnen worden aangewezen om controle uit te oefenen op de naleving van het decreet en de uitvoeringsbesluiten ervan, wat betreft dopingcontrole, leeftijdsgrenzen, opleidingsvoorwaarden, sportmedische keuring, preventief gezondheidsonderzoek en risicovechtsporten. De minister erkent afhankelijk van de behoeften aan controlecapaciteit.
+...
 
 ### ART. 11.
 
-§ 1.Om als controlearts erkend te kunnen worden, moet de betrokkene:<br /><br />1° aan een van de volgende voorwaarden voldoen:<br /><br />a) hij is arts en houder van het diploma van licentiaat in de lichamelijke opvoeding, van de bijzondere licentie in de lichamelijke opvoeding en de sportgeneeskunde, van de licentie in de sportgeneeskunde of van het getuigschrift van aanvullend onderwijs in de sportgeneeskunde;<br /><br />b) hij is master in de geneeskunde en houder van het diploma van master in de lichamelijke opvoeding en de bewegingswetenschappen of van master in de sportgeneeskunde;<br /><br />2° na voorafgaande machtiging door de minister driemaal als waarnemer een dopingcontrole hebben bijgewoond en vervolgens op minstens voldoende wijze een dopingcontrole zelfstandig hebben uitgevoerd onder toezicht en verantwoordelijkheid van een erkend controlearts die de administratie heeft aangewezen;<br /><br />3° deel hebben genomen aan ten minste een vormingsactiviteit die werd georganiseerd door of op initiatief van de administratie;<br /><br />4° de administratie een geschreven verklaring bezorgen, waarin hij zijn eventuele bindingen met de sportverenigingen en sportmanifestaties meedeelt, en vermeldt of hij begeleider is;<br /><br />5° verklaren dat hij niet verbonden is aan een keuringscentrum.<br /><br />§ 2. Om als controlearts erkend te kunnen blijven, moet de betrokkene:<br /><br />1° jaarlijks aan ten minste een vormingsactiviteit die georganiseerd werd door of op initiatief van de administratie, deelnemen;<br /><br />2° zich jaarlijks op ten minste tien verschillende kalenderdagen, waarvan ten minste drie kalenderdagen buiten het weekend, ter beschikking stellen om dopingcontroles uit te voeren in opdracht van de administratie;<br /><br />3° elke wijziging in de bindingen, vermeld in § 1, 4° en 5°, binnen 30 kalenderdagen schriftelijk aan de administratie meedelen;<br /><br />4° de voorgeschreven controleprocedures respecteren.<br /><br />§ 3. Om als verpleegkundige of kinesitherapeut erkend te kunnen worden moet de betrokkene:<br /><br />1° verpleegkundige of kinesitherapeut te zijn zoals omschreven in artikel 2, 12° of 13°, van het decreet;<br /><br />2° na voorafgaande machtiging door de minister driemaal als waarnemer een dopingcontrole of controle ter naleving van de voorwaarden inzake leeftijd, opleiding, sportmedische keuring, preventief gezondheidsonderzoek of risicovechtsporten hebben bijgewoond;<br /><br />3° deel hebben genomen aan ten minste een vormingsactiviteit die werd georganiseerd door of op initiatief van de administratie;<br /><br />4° de administratie een geschreven verklaring bezorgen, waarin hij zijn eventuele bindingen met de sportverenigingen en sportmanifestaties meedeelt en vermeldt of hij begeleider is;<br /><br />5° verklaren dat hij niet verbonden is aan een keuringscentrum.<br /><br />§ 4. Om als verpleegkundige of kinesitherapeut erkend te kunnen blijven, dient de betrokkene:<br /><br />1° jaarlijks aan ten minste een vormingsactiviteit die georganiseerd werd door of op initiatief van de administratie, deelnemen;<br /><br />2° zich jaarlijks op ten minste tien verschillende kalenderdagen, waarvan ten minste drie kalenderdagen buiten het weekend, ter beschikking stellen om een controlearts bij dopingcontroles bij te staan of om controles uit te voeren ter naleving van de voorwaarden inzake leeftijd, opleiding, sportmedische keuring, preventief gezondheidsonderzoek of risicovechtsporten;<br /><br />3° elke wijziging in de bindingen, vermeld in § 1, 4° en 5°, binnen 30 kalenderdagen schriftelijk aan de administratie meedelen;<br /><br />4° de voorgeschreven controleprocedures respecteren.
+...
 
 ### ART. 12.
 
-De erkenning als controlearts, verpleegkundige of kinesitherapeut wordt verleend voor ten hoogste drie jaar en kan worden hernieuwd.
+...
 
 ## Afdeling IV Erkenning van controlelaboratoria
 
 ### ART. 13.
 
-De analyse van monsters kan uitsluitend worden verricht door controlelaboratoria die de minister erkend heeft. Om erkend te kunnen worden en te blijven moeten de laboratoria erkend zijn door het WADA, en moeten ze schriftelijk de verbintenis, vastgesteld in artikel 14, aangaan en naleven.
+...
 
 ### ART. 14.
 
-Het controlelaboratorium moet schriftelijk de verbintenis aangaan:<br /><br />1° de analyses binnen de bepaalde termijn uit te voeren;<br /><br />2° de uitslagen van de analyses niet aan derden mee te delen, met uitzondering van de gecodeerde resultaten aan de opdrachtgever en de instanties zoals verplicht wordt door het WADA;<br /><br />3° de personen die de minister met die opdracht heeft belast, op hun verzoek toegang te verlenen tot het controlelaboratorium;<br /><br />4° de door de minister vastgestelde tarieven toe te passen;<br /><br />5° de administratie op de hoogte te brengen van elke substantie en van elk middel, vermeld in artikel 2, 6°, van het decreet, dat niet is opgenomen in de lijst die met toepassing van artikel 22 van het decreet werd opgesteld. Dit geldt eveneens voor elke nieuwe methode tot identificatie van een al eerder bekende substantie of bekend middel;<br /><br />6° nieuwe analyses op proefmonsters uit te voeren, die de minister op geregelde tijdstippen kan bevelen en die eenmaal per jaar kunnen worden opgelegd zonder dat daarvoor een vergoeding verschuldigd is;<br /><br />7° direct noch indirect deel te nemen aan de fabricage van of de handel in geneesmiddelen, geen sportgeneeskunde uit te oefenen, geen sportbeoefenaars te begeleiden als vermeld in artikel 2, 8°, van het decreet, noch personeel in dienst te hebben dat activiteiten uitoefent waardoor de onafhankelijkheid van het controlelaboratorium in het gedrang komt;<br /><br />8° bij het analyseren van monsters elk belangenconflict te vermijden.
+...
 
 ## Afdeling V De erkenningsprocedure, het toezicht op de naleving van de erkenningsvoorwaarden, de procedure van schorsing van erkenning en de procedure van intrekking van erkenning
 
@@ -84,99 +84,99 @@ Het controlelaboratorium moet schriftelijk de verbintenis aangaan:<br /><br />1�
 
 ### ART. 15.
 
-De erkenning als keuringsarts, keuringscentrum, toezichthoudende arts, controlearts, controlelaboratorium, kinesitherapeut of verpleegkundige, verloopt volgens de procedure die is vastgesteld in artikel 16 tot en met 21 en in artikel 23.
+...
 
 ### ART. 16.
 
-Om ontvankelijk te zijn moet een aanvraag tot erkenning bij de administratie worden ingediend. De aanvraag moet de gegevens en stukken bevatten, vermeld in artikel 4, § 1, artikel 5, § 1, artikel 7, § 1, artikel 11, § 1 en § 3, artikel 13 en 14.<br /><br />Als de aanvraag niet ontvankelijk is, stuurt de administratie ze binnen dertig kalenderdagen na ontvangst terug aan de aanvrager, met vermelding van de reden van de niet-ontvankelijkheid.
+...
 
 ### ART. 17.
 
-Het gemotiveerde voornemen van de minister tot weigering van de erkenning wordt binnen 120 kalenderdagen na ontvangst van een ontvankelijke aanvraag aan de aanvrager betekend per aangetekende brief. Als de minister beslist tot erkenning, wordt die beslissing binnen 120 kalenderdagen na ontvangst van een ontvankelijke aanvraag aan de aanvrager meegedeeld.<br /><br />Bij het betekenen van het voornemen tot weigering van erkenning worden de mogelijkheid en de regeling vermeld om een bezwaarschrift in te dienen conform artikel 18, eerste lid.
+...
 
 ### ART. 18.
 
-Op straffe van niet-ontvankelijkheid kan de aanvrager, tot uiterlijk 30 kalenderdagen na ontvangst van het voornemen, vermeld in artikel 17, tweede lid, een gemotiveerd bezwaarschrift bij de administratie indienen tegen het voornemen tot weigering van de erkenning. Hij kan daarin uitdrukkelijk vragen om te worden gehoord.<br /><br />De administratie zorgt ervoor dat, binnen 15 kalenderdagen na ontvangst van het bezwaarschrift, dat bezwaarschrift samen met het volledige administratieve dossier wordt bezorgd aan de Vlaamse Adviesraad.
+...
 
 ### ART. 19.
 
-Binnen 30 kalenderdagen nadat de minister het advies van de Vlaamse Adviesraad heeft ontvangen of als dat advies hem niet binnen de reglementair bepaalde termijn heeft bereikt binnen de 30 kalenderdagen na het verstrijken van die termijn, wordt de gemotiveerde beslissing van de minister om de erkenning te verlenen of te weigeren per aangetekende brief aan de aanvrager betekend.<br /><br />Als het advies ontbreekt, kan de minister geen beslissing nemen zonder de aanvrager te hebben gehoord, als de aanvrager daarom in zijn bezwaarschrift heeft verzocht. De termijn, vermeld in het eerste lid, wordt in dat geval met 30 kalenderdagen verlengd.
+...
 
 ### ART. 20.
 
-Als er geen bezwaarschrift werd ingediend binnen de termijn, bepaald in artikel 18, eerste lid, wordt de gemotiveerde beslissing van de minister per aangetekende brief aan de aanvrager betekend binnen 30 kalenderdagen na het verstrijken van die termijn.<br /><br />Als het voornemen, vermeld in artikel 17, of de beslissing, vermeld in het eerste lid of in artikel 17 of 19 niet binnen de gestelde termijn aan de aanvrager wordt betekend, wordt ervan uitgegaan dat de aanvrager erkend is.
+...
 
 ### ART. 21.
 
-Als de minister de erkenning weigert, kan de aanvrager geen nieuwe erkenningsaanvraag voor de erkenning in kwestie indienen, tenzij hij aantoont dat de reden voor de weigering niet langer bestaat.
+...
 
 ### ART. 22.
 
-Artikel 16 tot en met 21 zijn van overeenkomstige toepassing op een aanvraag tot hernieuwing van erkenning als keuringsarts, keuringscentrum, toezichthoudende arts, controlearts, verpleegkundige of kinesitherapeut.
+...
 
 ### ART. 23.
 
-Elk besluit inzake erkenning of hernieuwing van erkenning wordt bij uittreksel in het Belgisch Staatsblad bekendgemaakt.
+...
 
 ## Onderafdeling II Het toezicht op de naleving van de erkenningsvoorwaarden
 
 ### ART. 24.
 
-De ambtenaren van de administratie die daartoe aangewezen zijn, oefenen ter plaatse of op stukken toezicht uit op de naleving van de erkenningsvoorwaarden door de centra, de laboratoria, de artsen, de verpleegkundigen of de kinesitherapeuten die een erkenning of een hernieuwing van erkenning aanvragen of erkend zijn als keuringsarts, keuringscentrum, toezichthoudende arts, controlearts, controlelaboratorium, verpleegkundige of kinesitherapeut.<br /><br />De centra, laboratoria, artsen, verpleegkundigen en kinesitherapeuten, vermeld in het eerste lid, verlenen hun medewerking aan de uitoefening van het toezicht. Ze bezorgen aan de ambtenaren, vermeld in het eerste lid, op hun eenvoudig verzoek, de stukken die met de erkenningsaanvraag of de erkenning verband houden.
+...
 
 ## Onderafdeling III De procedure van schorsing van erkenning
 
 ### ART. 25.
 
-De erkenning als keuringsarts, toezichthoudende arts, controlearts, verpleegkundige of kinesitherapeut kan door de minister preventief geschorst worden voor maximaal een jaar, als er ernstige redenen zijn die de geloofwaardigheid, de objectiviteit of het moreel gezag van de betrokken arts, verpleegkundige of kinesitherapeut zouden kunnen aantasten. Deze termijn van een jaar wordt eventueel verlengd tijdens de duur van het strafrechtelijk onderzoek tot twee maanden na kennisneming door de administratie van de strafrechtelijke uitspraak, tenzij er een buitenvervolgingstelling of vrijspraak volgt. In dat geval vervalt de schorsing van rechtswege.<br /><br />De schorsing gaat in vanaf het moment waarop de betrokkene een aangetekend, gemotiveerd bericht van schorsing heeft ontvangen, waarin de mogelijkheid om een bezwaarschrift in te dienen is vermeld. De betrokken arts, verpleegkundige of kinesitherapeut kan hiertegen binnen 8 kalenderdagen per aangetekende brief bezwaar aantekenen bij de minister. Hij kan daarin vragen gehoord te worden.<br /><br />Binnen 45 kalenderdagen na ontvangst van het bezwaarschrift door de minister bezorgt de administratie haar advies aan de minister. Als de betrokkene in zijn bezwaarschrift heeft verzocht om te worden gehoord, hoort de administratie de betrokkene voor ze haar advies verleent. In het advies wordt dan melding gemaakt van de door betrokkene mondeling naar voren gebrachte argumenten. Het advies van de administratie wordt aan de betrokkene toegestuurd per aangetekende brief binnen 15 kalenderdagen na het uitbrengen ervan. Binnen 30 kalenderdagen nadat de minister het advies van de administratie heeft ontvangen, wordt de beslissing van de minister over de voortzetting of opheffing van de schorsing aan de betrokkene toegestuurd per aangetekende brief.<br /><br />Als op het einde van de schorsingsperiode de procedure van intrekking van erkenning niet is aangevat conform artikel 28 en volgende, wordt automatisch de lopende erkenningtermijn hervat. Als de procedure van intrekking is ingezet, loopt de schorsing verder tot er een eindbeslissing over de intrekking is genomen.<br /><br />De beslissingen inzake schorsing of opheffing van schorsing worden bij uittreksel in het Belgisch Staatsblad bekendgemaakt.
+...
 
 ## Onderafdeling IV De procedure van intrekking van erkenning
 
 ### ART. 26.
 
-De minister kan de erkenning als keuringsarts, keuringscentrum, toezichthoudende arts en controlearts, verpleegkundige of kinesitherapeut intrekken. De reden hiervoor kan zijn dat niet langer voldaan wordt aan een of meer na te leven voorwaarden als vermeld in artikel 4, 5, 7 en 11, of dat de arts, de verpleegkundige of de kinesitherapeut of het centrum niet meewerkt aan de uitoefening van het toezicht. Er kan ook een andere ernstige reden hiervoor zijn.
+...
 
 ### ART. 27.
 
-Als er volgens de minister of de administratie reden is om de erkenning als keuringsarts, keuringscentrum, toezichthoudende arts, controlearts, verpleegkundige of kinesitherapeut in te trekken, kan de minister of de administratie de betrokken arts, verpleegkundige of kinesitherapeut of het centrum in kwestie per aangetekende brief aanmanen om zich binnen een termijn van ten hoogste 180 kalenderdagen te schikken naar de erkenningsvoorwaarden of de regels betreffende het toezicht.
+...
 
 ### ART. 28.
 
-Als de betrokken arts, verpleegkundige, kinesitherapeut of het centrum in kwestie ondanks de aanmaning de voorwaarden niet naleeft of niet meewerkt aan de uitoefening van het toezicht, of als de aanmaningsprocedure, vermeld in artikel 27, niet werd toegepast, wordt het gemotiveerde voornemen van de minister tot intrekking aan de betrokken arts, verpleegkundige of kinesitherapeut of het centrum in kwestie betekend. De administratie verstuurt die betekening per aangetekende brief. In de brief worden de mogelijkheid en de regeling om een bezwaarschrift in te dienen vermeld.<br /><br />Artikel 18 tot en met 20 zijn verder van overeenkomstige toepassing.
+...
 
 ### ART. 29.
 
-Binnen een jaar na de betekening van de beslissing tot intrekking, kan geen aanvraag tot erkenning van dezelfde arts, verpleegkundige of kinesitherapeut of hetzelfde centrum worden ingediend.
+...
 
 ### ART. 30.
 
-Elk besluit over de intrekking van een erkenning wordt bij uittreksel in het Belgisch Staatsblad bekendgemaakt.
+...
 
 ### ART. 31.
 
-De minister kan de erkenning van een controlelaboratorium altijd intrekken of tot een bepaalde termijn beperken. De reden hiervoor kan zijn dat niet langer voldaan wordt aan een of meer erkenningsvoorwaarden, vermeld in artikel 13 en 14, dat het controlelaboratorium niet meewerkt aan de uitoefening van het toezicht, of dat het weigert een monster te analyseren. Er kan ook een andere ernstige reden zijn.
+...
 
 ### ART. 32.
 
-Als er volgens de minister of de administratie reden is om de erkenning als controlelaboratorium in te trekken of de erkenning als controlelaboratorium tot een bepaalde termijn te beperken, kan de minister of de administratie het controlelaboratorium met een aangetekende brief aanmanen om zich binnen een termijn van ten hoogste 180 kalenderdagen te schikken naar de erkenningsvoorwaarden of naar de regels betreffende het toezicht.
+...
 
 ### ART. 33.
 
-Als het controlelaboratorium in kwestie ondanks de aanmaning de erkenningvoorwaarden niet naleeft of niet meewerkt aan de uitoefening van het toezicht, of als de aanmaningsprocedure, vermeld in artikel 32, niet werd toegepast, kan de erkenning van het controlelaboratorium tot een bepaalde termijn worden beperkt overeenkomstig artikel 34 of kan de erkenning van het controlelaboratorium worden ingetrokken overeenkomstig artikel 35.
+...
 
 ### ART. 34.
 
-§ 1. In het geval, vermeld in artikel 33, kan de minister de lopende erkenning van het controlelaboratorium tot een periode van ten minste 180 kalenderdagen en ten hoogste twee jaar beperken.<br /><br />§ 2. Het gemotiveerde voornemen van de minister om de duur van de erkenning te beperken, wordt per aangetekende brief aan het controlelaboratorium betekend. De betekening vermeldt de mogelijkheid en de regeling om een bezwaarschrift in te dienen.<br /><br />Het controlelaboratorium kan, op straffe van niet-ontvankelijkheid, tot uiterlijk 15 kalenderdagen na ontvangst, tegen het voornemen per aangetekende brief een gemotiveerd bezwaarschrift bij de minister indienen. Het controlelaboratorium kan daarin uitdrukkelijk vragen om te worden gehoord.<br /><br />§ 3. Binnen 30 kalenderdagen na ontvangst van het bezwaarschrift of, als er geen bezwaarschrift werd ingediend, na het verstrijken van de termijn, vermeld in § 2, tweede lid, wordt de gemotiveerde beslissing van de minister over de beperking van de duur van de erkenning per aangetekende brief aan het controlelaboratorium betekend. Het controlelaboratorium wordt voor de beslissing gehoord, als het daarom in zijn bezwaarschrift heeft gevraagd.<br /><br />Als de beslissing van de minister over de beperking van de duur van de erkenning niet binnen de gestelde termijn aan het controlelaboratorium wordt betekend, blijft het controlelaboratorium zijn erkenning voor onbepaalde termijn behouden.<br /><br />§ 4. Elk besluit over de beperking van de duur van de erkenning van een controlelaboratorium wordt bij uittreksel in het Belgisch Staatsblad bekendgemaakt.
+...
 
 ### ART. 35.
 
-§ 1. Als in het geval, vermeld in artikel 33, de minister overweegt de erkenning in te trekken, wordt zijn gemotiveerd voornemen aan het controlelaboratorium betekend per aangetekende brief. Daarin worden de mogelijkheid en de regeling om een bezwaarschrift in te dienen vermeld.<br /><br />Artikel 18 tot en met 20 zijn verder van overeenkomstige toepassing.<br /><br />Als de beslissing van de minister tot intrekking van de erkenning niet binnen de gestelde termijn aan het controlelaboratorium wordt betekend, blijft het controlelaboratorium erkend.<br /><br />§ 2. Binnen een jaar na de betekening van de beslissing tot intrekking van de erkenning van een controlelaboratorium, kan dat laboratorium geen aanvraag tot erkenning indienen.<br /><br />§ 3. Elk besluit over de intrekking van een erkenning wordt bij uittreksel in het Belgisch Staatsblad bekendgemaakt.
+...
 
 ## Onderafdeling V Algemene bepaling
 
 ### ART. 36.
 
-Voor de toepassing van deze afdeling wordt een aangetekende brief de eerste werkdag na de dag van zijn verzending geacht ontvangen te zijn.
+...
 
 ## HOOFDSTUK II Disciplinaire commissie en disciplinaire raad
 
@@ -184,57 +184,57 @@ Voor de toepassing van deze afdeling wordt een aangetekende brief de eerste werk
 
 ### ART. 37.
 
-De volgende personen komen niet in aanmerking om de functie van voorzitter of lid van de disciplinaire commissie of van de disciplinaire raad uit te oefenen:<br /><br />1° de leden van de Vlaamse Adviesraad;<br /><br />2° de controleartsen, de verpleegkundigen, de kinesitherapeuten, de keuringsartsen of de toezichthoudende artsen;<br /><br />3° de personen die werken voor een keuringscentrum of een controlelaboratorium;<br /><br />4° de leden van controlecomités;<br /><br />5° de parketmagistraten;<br /><br />6° de ambtenaren die belast zijn met het toezicht op het decreet;<br /><br />7° de leden van het Vlaams Parlement of van een van de Wetgevende Kamers;<br /><br />8° de leden van de Vlaamse Gezondheidsraad;<br /><br />9° de leden van de Vlaamse Sportraad;<br /><br />10° de leden van de expertencommissie.
+...
 
 ### ART. 38.
 
-Om tot lid of plaatsvervangend lid van de disciplinaire commissie of de disciplinaire raad benoemd te worden, moet de kandidaat ten minste 30 jaar oud zijn.
+...
 
 ### ART. 39.
 
-Minstens een lid en een plaatsvervangend lid van de disciplinaire commissie en van de disciplinaire raad vervult een van de onderstaande functies:<br /><br />a) arts en houder van een diploma van licentiaat in de lichamelijke opvoeding, van de bijzondere licentie in de lichamelijke opvoeding en de sportgeneeskunde, van de licentie in de sportgeneeskunde of van het getuigschrift van aanvullend onderwijs in de sportgeneeskunde;<br /><br />b) master in de geneeskunde en houder van het diploma van master in de lichamelijke opvoeding en de bewegingswetenschappen of van master in de sportgeneeskunde.
+...
 
 ### ART. 40.
 
-Minstens een lid en een plaatsvervangend lid van de disciplinaire commissie en van de disciplinaire raad worden benoemd na advies van de Vlaamse Sportraad.
+...
 
 ## Afdeling II Wijze van mededeling van stukken
 
 ### ART. 41.
 
-In artikel 42, 43 en 44 wordt de wijze bepaald waarop de ambtenaren, die de regering heeft aangewezen, alle stukken die verband houden met de overtredingen, vermeld in artikel 30 van het decreet moeten opsturen aan de voorzitter van de disciplinaire commissie.
+...
 
 ### ART. 42.
 
-§ 1. De administratie opent een dossier zodra de administratie op de hoogte wordt gesteld van de vaststelling dat een sportbeoefenaar aan een sportmanifestatie heeft deelgenomen zonder te voldoen aan de voorwaarden inzake leeftijdsgrenzen, opleiding, preventief gezondheidsonderzoek, risicovechtsporten of sportmedische keuring, of dopingpraktijken toegepast heeft.<br /><br />§ 2. Elk dossier bevat een inventaris van de stukken, met vermelding van de datum van ontvangst van die stukken.<br /><br />§ 3. Elk dossier wordt met een volgnummer ingeschreven op de rol. Die inschrijving bevat tevens:<br /><br />1° naam, voornaam en geboortedatum van de sportbeoefenaar;<br /><br />2° datum van inschrijving.<br /><br />§ 4. Elk dossier bevat, zo mogelijk en in voorkomend geval, de volgende gegevens:<br /><br />1° voornaam, naam, geboortedatum en adres van de sportbeoefenaar;<br /><br />2° voornaam, naam en adres van de wettelijke vertegenwoordigers van de minderjarige sportbeoefenaar;<br /><br />3° voornaam en naam van de begeleider;<br /><br />4° naam en adres van de sportvereniging of van de organisator van de sportmanifestatie;<br /><br />5° voornaam, naam en adres van de verantwoordelijke van het controlecomité;<br /><br />6° aard, datum en plaats van de controle, van de sportmanifestatie of van de georganiseerde voorbereiding;<br /><br />7° voornaam, naam en adres van de advocaat of arts;<br /><br />8° aard van de overtreding;<br /><br />9° een afschrift van alle andere stukken die nuttig kunnen zijn voor de behandeling van het dossier.
+...
 
 ### ART. 43.
 
-§ 1. In geval van overtreding van de voorwaarden inzake de leeftijdsgrenzen, de opleiding, het preventief gezondheidsonderzoek, de risicovechtsporten of sportmedische keuring bevat het dossier eveneens, zo mogelijk en in voorkomend geval:<br /><br />1° een afschrift van het proces-verbaal waarin de overtreding van de leeftijdsgrenzen, de opleiding, het preventief gezondheidsonderzoek, de risicovechtsporten of de sportmedische keuring wordt vastgesteld;<br /><br />2° het verslag, vermeld in artikel 29 van het decreet.<br /><br />§ 2. Indien de overtreding betrekking heeft op dopingpraktijken, bevat het dossier eveneens, zo mogelijk en in voorkomend geval, een afschrift van:<br /><br />1° het opdrachtenblad waarbij de controlearts belast werd met de uitvoering van een dopingcontrole;<br /><br />2° het formulier waarmee de sportbeoefenaar wordt aangewezen voor een dopingcontrole;<br /><br />3° het aanplakbiljet bij de sportmanifestaties waarbij de oproep voor dopingcontrole gebeurt via aanplakbiljet;<br /><br />4° het proces-verbaal van monsterneming;<br /><br />5° de analysecertificaten en laboratoriumdocumentatiepakketten van de controlelaboratoria;<br /><br />6° de aangetekende brief waarmee de sportbeoefenaar op de hoogte wordt gebracht van het positieve analyseresultaat, alsook van het afgiftebewijs, vermeld in artikel 72;<br /><br />7° de aangetekende brief waarin de sportbeoefenaar een tweede analyse vraagt, vermeld in artikel 72;<br /><br />8° alle andere stukken die nuttig zijn voor de behandeling van het dossier.
+...
 
 ### ART. 44.
 
-Zodra de administratie het dossier als volledig beschouwd, wordt het verstuurd naar de voorzitter van de disciplinaire commissie.
+...
 
 ## Afdeling III Termijn
 
 ### ART. 45.
 
-De voorzitter stelt de zaak vast op een zitting van de disciplinaire commissie binnen 45 kalenderdagen na de ontvangst van de stukken vermeld in artikel 31 van het decreet.
+...
 
 ## HOOFDSTUK III Vergoedingen
 
 ### ART. 46.
 
-De voorzitter, de leden, de plaatsvervangende voorzitter en de plaatsvervangende leden van de disciplinaire commissie en de disciplinaire raad kunnen per zitting aanspraak maken op:<br /><br />1° een presentiegeld, zoals vastgesteld in artikel 9 van het besluit van de Vlaamse Regering van 27 januari 1988 houdende sommige maatregelen tot harmonisatie van de toelagen en presentiegelden aan commissarissen, gemachtigden van financiën, afgevaardigden van de Vlaamse Regering, voorzitters en leden van niet-adviserende bijzondere commissies of van raden van bestuur van instellingen en ondernemingen die onder de Vlaamse Regering behoren, met dien verstande dat dit presentiegeld, per zitting van minstens twee uur, wordt bepaald als volgt:<br /><br />a) voor de voorzitter en de plaatsvervangende voorzitter: 100 euro;<br /><br />b) voor de leden en de plaatsvervangende leden: 75 euro;<br /><br />2° de terugbetaling van hun reis- en verblijfkosten volgens dezelfde normen als die voor de ambtenaren van de administratie.
+...
 
 ### ART. 47.
 
-De minister stelt de vergoedingen vast voor de prestaties en onkosten van de controleartsen, de controlelaboratoria, de verpleegkundigen en de kinesitherapeuten.
+...
 
 ### ART. 48.
 
-§ 1. Binnen de begrotingskredieten kan de minister aan keuringscentra een jaarlijkse tegemoetkoming verlenen. De jaarlijkse tegemoetkoming kan bestaan uit een vaste toelage, een variabele toelage en een projecttoelage. De variabele toelage en de projecttoelage kunnen enkel verleend worden aan keuringscentra die een vaste toelage verkrijgen. Per Vlaamse provincie en in het tweetalige gebied Brussel-Hoofdstad kan maximaal een keuringscentrum een toelage ontvangen.<br /><br />Als er in een bepaalde provincie of in het tweetalig gebied Brussel-Hoofdstad meer dan een keuringscentrum voor een vaste toelage in aanmerking komt op basis van het dossier dat ze hebben ingediend, dan bepaalt de minister welk keuringscentrum uiteindelijk voor subsidiëring in aanmerking komt. Om deze keuze te maken gebruikt de minister in dat geval de volgende criteria: het niveau van de integrale kwaliteitszorg dat het keuringscentrum hanteert, de kwaliteit van de aanwezige ruimte en apparatuur, het feit of het keuringscentrum ruimtelijk al of niet een functioneel geheel vormt, het aantal activiteiten dat het keuringscentrum uitvoert en de toegankelijkheid van het keuringscentrum op het vlak van openingsuren.<br /><br />§ 2. De vaste toelage bedraagt 62.000 euro voor de compensatie van vaste kosten. Die vaste toelage wordt verleend op voorwaarde dat:<br /><br />1° het keuringscentrum erkend is door de minister overeenkomstig het decreet;<br /><br />2° het keuringscentrum schriftelijk verklaart dat het de controle van zijn boekhouding toestaat door de bevoegde administratie of door de instanties daartoe door de administratie gemachtigd.<br /><br />De vaste toelage wordt uitbetaald na indiening van de facturen en nadat de administratie de volgende voor te leggen stukken heeft goedgekeurd:<br /><br />1° een voor waar en echt verklaarde schuldvordering;<br /><br />2° een overzichtelijke en genummerde lijst van kosten;<br /><br />3° de genummerde originele bewijsstukken;<br /><br />4° een jaarrapport, volgens een door de administratie goedgekeurd model, dat het mogelijk maakt de centra te evalueren en beleidsrelevante gegevens te verzamelen.<br /><br />De vaste toelage is gekoppeld aan het indexcijfer van de consumptieprijzen overeenkomstig artikel 1bis van de wet van 2 augustus 1971 houdende inrichting van een stelsel waarbij de wedden, lonen, pensioenen, toelagen en tegemoetkomingen ten laste van de openbare schatkist, sommige sociale uitkeringen, de bezoldigingsgrenzen waarmee rekening moet worden gehouden bij de berekening van sommige bijdragen van de sociale zekerheid der arbeiders, alsmede de verplichtingen op sociaal gebied opgelegd aan de zelfstandigen, aan het indexcijfer van de consumptieprijzen wordt gekoppeld.<br /><br />§ 3. Daarnaast kan binnen de begrotingskredieten een toelage verleend worden aan de erkende keuringscentra voor de sportmedische keuring en begeleiding van getalenteerde sportbeoefenaars, vermeld in artikel 2, 10°, van het decreet.<br /><br />Die variabele toelage wordt per gekeurde en begeleide sportbeoefenaar vastgesteld op maximaal 250 euro op jaarbasis en wordt verleend op voorwaarde dat de gegevens worden opgeslagen in een voor alle erkende centra eenvormig sportmedisch dossier.<br /><br />De variabele toelage wordt uitbetaald na indiening van de facturen en nadat de administratie de volgende voor te leggen stukken heeft goedgekeurd:<br /><br />1° een voor waar en echt verklaarde schuldvordering;<br /><br />2° de bewijsstukken met betrekking tot het aantal onderzochte en begeleide sportbeoefenaars.<br /><br />§ 4. Bovendien kan binnen de begrotingskredieten en na advies van de administratie een projecttoelage verleend worden voor de uitvoering van projecten of voor onderzoek met betrekking tot de medisch verantwoorde sportbeoefening. Het bedrag van die projecttoelage is afhankelijk van de omvang van het onderzoeksproject of het onderzoek.<br /><br />De projecttoelage wordt uitbetaald na indiening van de facturen en nadat de administratie de volgende voor te leggen stukken heeft goedgekeurd:<br /><br />1° een voor waar en echt verklaarde schuldvordering;<br /><br />2° een overzichtelijke en genummerde lijst van kosten;<br /><br />3° de genummerde originele bewijsstukken.
+...
 
 ## TITEL III Toezicht op de medisch verantwoorde sportbeoefening
 
@@ -242,7 +242,7 @@ De minister stelt de vergoedingen vast voor de prestaties en onkosten van de con
 
 ### ART. 49.
 
-§ 1. De controlearts, de verpleegkundige of kinesitherapeut stelt een proces-verbaal op aan de hand van formulieren, waarvan het model door de administratie wordt vastgesteld. Alle relevante rubrieken van de formulieren worden ingevuld.<br /><br />§ 2. Het proces-verbaal maakt melding van alle vaststellingen betreffende de voorwaarden, vermeld in artikel 19, 20, 20bis en 22bis van het decreet.<br /><br />§ 3. Het proces-verbaal wordt opgemaakt in twee exemplaren, die beide door de controlearts, de verpleegkundige of de kinesitherapeut worden ondertekend. Een exemplaar wordt in een gesloten enveloppe aan de administratie gestuurd en wordt eventueel door de administratie verder doorgestuurd overeenkomstig artikel 41. Het andere exemplaar wordt door de controlearts, de verpleegkundige of kinesitherapeut gedurende een jaar bewaard.
+...
 
 ## HOOFDSTUK II Bestraffen van dopingpraktijken
 
@@ -250,125 +250,125 @@ De minister stelt de vergoedingen vast voor de prestaties en onkosten van de con
 
 ### ART. 50.
 
-De regels inzake dopingcontrole, meer bepaald die voor de aanwijzing van controleartsen, verpleegkundigen of kinesitherapeuten, de lijst van verboden substanties, de monsterneming en de analyse in de controlelaboratoria zijn, onverminderd het bepaalde in het tweede lid en in artikel 54, volledig en exclusief van toepassing op elke dopingcontrole die op initiatief van de administratie, van een controlecomité, van een sportvereniging of van het WADA plaatsvindt.<br /><br />De Vlaamse Regering erkent het WADA als een internationale organisatie ter bestrijding van doping en kan met die organisatie een overeenkomst sluiten inzake het uitvoeren van dopingcontroles.
+...
 
 ## Afdeling II Vrijstelling van de verplichting controlecomités op te richten
 
 ### ART. 51.
 
-De volgende instanties zijn vrijgesteld van de verplichting een controlecomité op te richten:<br /><br />1° sportverenigingen die onderworpen zijn aan statutaire, reglementaire of contractuele bepalingen van een plaatselijke, Vlaamse of nationale sportfederatie, voorzover die een controlecomité heeft opgericht;<br /><br />2° sportfederaties die in totaal, rechtstreeks of via een sportvereniging, gewoonlijk en gemiddeld minder dan driehonderd sportbeoefenaars tellen;<br /><br />3° sportverenigingen die per jaar slechts een sportmanifestatie organiseren;<br /><br />4° sportverenigingen die niet onderworpen zijn aan statutaire, reglementaire of contractuele bepalingen van een plaatselijke, Vlaamse of nationale sportfederatie.
+...
 
 ## Afdeling III Aanwijzing van controleartsen, verpleegkundigen of kinesitherapeuten
 
 ### ART. 52.
 
-Op verzoek van het controlecomité, de sportvereniging of het WADA stelt de administratie voor de uitvoering van de geplande dopingcontroles de benodigdheden voor de monsterneming tegen kostprijs ter beschikking.
+...
 
 ### ART. 53.
 
-§ 1. Het controlecomité, de sportvereniging of het WADA deelt aan de administratie minstens veertien kalenderdagen van te voren per brief, per fax of elektronisch, de volgende gegevens mee van de sportmanifestatie of georganiseerde voorbereiding waarvoor ze op eigen kosten een dopingcontrole wensen uit te voeren:<br /><br />1° gemeente, precieze plaats, datum en aanvangsuur van de sportmanifestatie of georganiseerde voorbereiding;<br /><br />2° naam, adres en telefoonnummer van de afgevaardigde van de sportvereniging of, in voorkomend geval, van de organisator;<br /><br />3° aard van de sportmanifestatie of georganiseerde voorbereiding en het vermoedelijke aantal deelnemers.<br /><br />§ 2. Minstens veertien kalenderdagen voor de geplande dopingcontrole, vermeld in § 1, deelt het controlecomité, de sportvereniging of het WADA aan de administratie de volgende gegevens mee:<br /><br />1° naam en adres van de aangewezen controlearts en eventueel de verpleegkundige of de kinesitherapeut, alsook een afschrift van het opdrachtenblad van de controlearts;<br /><br />2° de aard en het aantal uit te voeren monsternemingen;<br /><br />3° de wijze waarop de sportbeoefenaars, die een dopingcontrole moeten ondergaan, worden aangewezen.<br /><br />§ 3. Minstens vier kalenderdagen voor de geplande dopingcontrole, vermeld in § 1, deelt het controlecomité, de sportvereniging of het WADA het aangewezen controlelaboratorium en de gevraagde analyses aan de administratie mee.
+...
 
 ### ART. 54.
 
-De minister kan, op verzoek van de sportvereniging of sportfederatie in kwestie voor een dopingcontrole die bevolen wordt door een internationale sportfederatie, of op verzoek van het WADA:<br /><br />1° een laboratorium voor die specifieke dopingcontrole tijdelijk erkennen voorzover dat laboratorium erkend is door het WADA;<br /><br />2° de geplande procedure voor dopingcontrole geheel of gedeeltelijk als gelijkwaardig erkennen met de bepalingen van dit besluit;<br /><br />3° een of meer artsen of masters in de geneeskunde van buitenlandse nationaliteit tijdelijk erkennen als controlearts voor de uitvoering van deze specifieke dopingcontrole. De minister kan daarbij afwijken van de vereisten, vermeld in artikel 11.<br /><br />Om ontvankelijk te zijn moet de aanvraag ten minste veertien kalenderdagen van te voren aan de administratie gericht worden. Die aanvraag moet bovendien als bijlage de volledige procedure van dopingcontrole, vermeld in het eerste lid, bevatten en, wat betreft de erkenning als controlearts, genoemd in het eerste lid, de naam en de kwalificaties van de arts of de master in de geneeskunde.
+...
 
 ### ART. 55.
 
-De administratie, het controlecomité of in voorkomend geval de sportvereniging of het WADA formuleert een opdracht tot dopingcontrole aan de controlearts en eventueel aan de verpleegkundige of de kinesitherapeut. Die instanties sturen de analyseopdracht, die bestemd is voor het controlelaboratorium, als bijlage bij de opdracht mee.<br /><br />De administratie kan bepalen welke gegevens de opdracht bevat.<br /><br />De controlearts, de verpleegkundige of de kinesitherapeut kan niet optreden voor een controleopdracht waarbij de controleopdracht zou kunnen worden beïnvloed door een persoonlijke betrokkenheid bij of door bindingen met de sportvereniging in kwestie.
+...
 
 ### ART. 56.
 
-De opdracht wordt ondertekend door de gemachtigde ambtenaar of, in voorkomend geval, door de verantwoordelijke of gemachtigde van het controlecomité, de sportvereniging of het WADA.
+...
 
 ### ART. 57.
 
-De opdracht wordt op zijn vroegst tweeënzeventig uur voor de aanvang van de geplande dopingcontrole aan de betrokken controlearts bezorgd.
+...
 
 ### ART. 58.
 
-De opdracht wordt opgemaakt in drie exemplaren: een exemplaar is bestemd voor de controlearts, een tweede voor de instantie die de controle beveelt en een derde dat aan de administratie wordt gestuurd. De administratie bewaart de opdracht.
+...
 
 ## Afdeling IV Lijst van verboden substanties en verboden middelen
 
 ### ART. 59.
 
-§ 1. Met behoud van de toepassing van de bepalingen in artikel 2, 6°, b) en c), van het decreet, omvat de lijst van verboden substanties en van verboden middelen, vermeld in artikel 22 van het decreet, de middelen en substanties, vermeld in § 2 tot en met § 5.<br /><br />§ 2. De volgende substanties en methoden zijn verboden op elk ogenblik (binnen en buiten wedstrijdverband):<br /><br />1° anabole middelen:<br /><br />a) exogene anabole androgene steroïden (AAS), met inbegrip van:<br /><br />18 ga-homo-17ss-hydroxyestr-4-en-3-on;<br /><br />bolasteron;<br /><br />boldenon;<br /><br />boldion;<br /><br />calusteron;<br /><br />clostebol;<br /><br />danazol;<br /><br />dehydrochloormethyltestosteron;<br /><br />delta1-androsteen-3,17-dion;<br /><br />delta1-androsteendiol;<br /><br />delta1-dihydro-testosteron;<br /><br />drostanolon;<br /><br />ethylestrenol;<br /><br />fluoxymesteron;<br /><br />formebolon;<br /><br />furazabol;<br /><br />gestrinon;<br /><br />4-hydroxytestosteron;<br /><br />4-hydroxy-19-nortestosteron;<br /><br />mestanolon;<br /><br />mesterolon;<br /><br />metandiënon;<br /><br />metenolon;<br /><br />methandriol;<br /><br />methyldienolon;<br /><br />methyltestosteron;<br /><br />methyltrienolon;<br /><br />miboleron;<br /><br />nandrolon;<br /><br />19-norandrosteendiol;<br /><br />19-norandrosteendion;<br /><br />norbolethon;<br /><br />norclostebol;<br /><br />norethandrolon;<br /><br />oxabolon;<br /><br />oxandrolon;<br /><br />oxymesteron;<br /><br />oxymetholon;<br /><br />quinbolon;<br /><br />stanozolol;<br /><br />stenbolon;<br /><br />tetrahydrogestrinon;<br /><br />trenbolon;<br /><br />andere substanties met een vergelijkbare scheikundige structuur of een vergelijkbare biologische werking;<br /><br />b) endogene AAS:<br /><br />androsteendiol (androst-5-een-3ss,17ss-diol);<br /><br />androsteendion (androst-4-een-3,17-dion);<br /><br />dehydro-epiandrosteron (DHEA);<br /><br />dihydrotestosteron;<br /><br />testosteron;<br /><br />en de volgende metabolieten en isomeren:<br /><br />ga-androstaan-3ga,17ga-diol;<br /><br />ga-androstaan-3ga,17ss-diol;<br /><br />ga-androstaan-3ss,17ss-diol;<br /><br />ga-androstaan-3ss,17ss-diol;<br /><br />androst-4-een-3ga,17ga-diol;<br /><br />androst-4-een-3ga,17ss-diol;<br /><br />androst-4-een-3ss,17ga-diol;<br /><br />androst-5-een-3ga,17ga-diol;<br /><br />androst-5-een-3ga,17ss-diol;<br /><br />androst-5-een-3ss,17ga-diol;<br /><br />4-androsteendiol (androst-4-een-3ss,17ss-diol);<br /><br />5-androsteendion (androst-5-een-3,17-dion);<br /><br />epi-dihydrotestosteron;<br /><br />3ga-hydroxy-5ga-androstaan-17-on;<br /><br />3ss-hydroxy-5ga-androstaan-17-on;<br /><br />19-norandrosteron;<br /><br />19-noretiocholanolon.<br /><br />Als een verboden substantie als vermeld in 1°, b), van nature door het lichaam wordt geproduceerd, is er sprake van een verboden substantie in het monster als de concentratie van de verboden substantie, de metabolieten of markeerstoffen ervan, of om het even welke andere relevante verhouding(en) in het monster van de sportbeoefenaar in die mate afwijken van de waarden die in normale omstandigheden teruggevonden worden bij mensen, dat het onwaarschijnlijk is dat die concentratie of verhouding overeenstemt met een normale endogene productie.<br /><br />Er is geen sprake van een monster dat een verboden substantie bevat als de sportbeoefenaar kan bewijzen dat de concentratie van de verboden substantie, de metabolieten of markeerstoffen ervan, of om het even welke relevante verhouding in het monster toe te schrijven zijn aan een pathologische of fysiologische toestand.<br /><br />In alle gevallen en bij elke concentratie zal het controlelaboratorium een belastend analyseresultaat melden als het, gebaseerd op een betrouwbare analysemethode, kan aantonen dat de verboden substantie van exogene herkomst is.<br /><br />Als het resultaat van het controlelaboratorium geen definitief uitsluitsel kan brengen, en er geen concentratie is gevonden als vermeld in het vorige lid, dan zal nader onderzoek worden verricht in geval van ernstige aanwijzingen voor het mogelijke gebruik van een verboden substantie, bijvoorbeeld een vergelijking tussen steroïdenprofielen.<br /><br />Als het controlelaboratorium melding maakt van de aanwezigheid van een testosteron-epitestosteronverhouding in de urine die groter is dan vier (4) op een (1), is nader onderzoek verplicht om vast te stellen of de verhouding het gevolg is van een fysiologische of pathologische toestand, behalve als het controlelaboratorium een belastend analyseresultaat meldt, gebaseerd op een betrouwbare analysemethode, dat aantoont dat de verboden substantie van exogene oorsprong is.<br /><br />In geval van nader onderzoek zullen de resultaten van voorgaande dopingcontroles worden meegenomen. Als er geen voorgaande dopingcontroles zijn uitgevoerd, zal de sportbeoefenaar minstens drie keer onaangekondigd gecontroleerd worden binnen een periode van drie maanden. Gebrek aan medewerking van de sportbeoefenaar aan die onderzoeken zal erin resulteren dat het monster wordt beschouwd als een monster dat een verboden substantie bevat;<br /><br />c) andere anabole middelen, met inbegrip van maar niet beperkt tot:<br /><br />- clenbuterol;<br /><br />- zeranol;<br /><br />- zilpaterol;<br /><br />2° hormonen en verwante substanties: de volgende substanties, met inbegrip van andere substanties met een vergelijkbare scheikundige structuur of een vergelijkbare biologische werking, en hun releasing factors zijn verboden:<br /><br />- erytropoëtine (EPO);<br /><br />- groeihormoon (hGH);<br /><br />- insulineachtige groeifactor (IGF-1);<br /><br />- mechanogroeifactoren (MGFs);<br /><br />- gonadotrope hormonen (LH, hCG);<br /><br />- insuline;<br /><br />- corticotrope hormonen.<br /><br />Tenzij de sportbeoefenaar kan aantonen dat de gevonden concentratie het gevolg is van een fysiologische of pathologische toestand, is er sprake van een verboden substantie in het monster als de concentratie van de verboden substantie of van de metabolieten of markeerstoffen ervan, of relevante verhoudingen in het monster in die mate de normale waarden bij mensen overtreffen, dat het onwaarschijnlijk is dat die concentratie of verhouding overeenstemt met een normale endogene productie.<br /><br />De aanwezigheid van andere substanties met een vergelijkbare scheikundige structuur of een vergelijkbare biologische werking, diagnostische markeerstof(fen) of releasing factors van hormonen die in de bovenstaande lijst voorkomen, of elke andere bevinding die aantoont dat de gevonden substantie van exogene oorsprong is, zal worden gerapporteerd als een belastend analyseresultaat;<br /><br />3° bèta 2-agonisten: alle bèta 2-agonisten, met inbegrip van hun D- en L-isomeren, zijn verboden. Het gebruik ervan vereist een toestemming wegens therapeutische noodzaak. Een toestemming wegens therapeutische noodzaak is een toestemming die door een onafhankelijke commissie van artsen kan worden verleend tot het rechtmatige gebruik van een geneesmiddel dat een verboden substantie bevat of tot het rechtmatige gebruik van een verboden middel.<br /><br />Als uitzondering is voor formoterol, salbutamol, salmeterol en terbutaline een toestemming wegens therapeutische noodzaak via verkorte aanvraag vereist, wanneer toediening via inhalatie noodzakelijk is om astma en inspanningsastma of bronchoconstrictie te voorkomen of te behandelen.<br /><br />Ongeacht de toestemming wegens therapeutische noodzaak is er sprake van een belastend analyseresultaat als het controlelaboratorium een concentratie van salbutamol (vrij salbutamol plus het glucuronideconjugaat) meldt die groter is dan 1000 ng/ml, tenzij de sportbeoefenaar kan bewijzen dat dit resultaat het gevolg is van het therapeutische gebruik van het geïnhaleerde salbutamol;<br /><br />4° middelen met een anti-oestrogene werking:<br /><br />a) aromatase-inhibitoren, met inbegrip van, maar niet beperkt tot:<br /><br />- anastrozol;<br /><br />- letrozol;<br /><br />- aminogluthetimide;<br /><br />- exemestaan;<br /><br />- formestaan;<br /><br />- testolacton;<br /><br />b) selectieve oestrogeenreceptormodulatoren (SERM's), met inbegrip van maar niet beperkt tot:<br /><br />- raloxifen;<br /><br />- tamoxifen;<br /><br />- toremifeen;<br /><br />c) andere anti-oestrogene substanties, met inbegrip van, maar niet beperkt tot:<br /><br />- clomifeen;<br /><br />- cyclofenil;<br /><br />- fulvestrant;<br /><br />5° diuretica en andere maskerende middelen:<br /><br />a) maskerende middelen omvatten, maar zijn niet beperkt tot:<br /><br />- diuretica;<br /><br />- epitestosteron;<br /><br />- probenecid;<br /><br />- alfa-reductase-inhibitoren (bijvoorbeeld finasteride, dutasteride);<br /><br />- middelen die het plasmavolume vergroten (bijvoorbeeld albumine, dextraan, hydroxy-ethylzetmeel (HES));<br /><br />b) diuretica omvatten:<br /><br />- acetazolamide;<br /><br />- amiloride;<br /><br />- bumetanide;<br /><br />- canrenon;<br /><br />- chloortalidon;<br /><br />- etacrynezuur;<br /><br />- furosemide;<br /><br />- indapamide;<br /><br />- metolazon;<br /><br />- spironolacton;<br /><br />- thiaziden (bijvoorbeeld bendroflumethiazide, chloorthiazide, hydrochloorthiazide);<br /><br />- triamtereen;<br /><br />andere substanties met een vergelijkbare scheikundige structuur of vergelijkbare biologische werking.<br /><br />Een toestemming wegens therapeutische noodzaak is niet geldig als de urine van de sportbeoefenaar een diureticum bevat naast een of meer verboden substanties op of onder de grenswaarde.<br /><br />6° de volgende methoden:<br /><br />a) verbetering van het zuurstoftransport:<br /><br />1) bloeddoping, met inbegrip van het gebruik van autoloog, homoloog of heteroloog bloed, of rode-bloedcelproducten van welke<br /><br />oorsprong ook, anders dan voor een medisch noodzakelijke behandeling;<br /><br />2) het kunstmatig verhogen van de opname, het transport of de afgifte van zuurstof, met inbegrip van, maar niet beperkt tot perfluorchemicaliën, efaproxiral (RSR 13) en gemodificeerde hemoglobineproducten (bijvoorbeeld bloedvervangers, gebaseerd op hemoglobine, hemoglobineproducten in microcapsules);<br /><br />b) chemische en fysieke manipulatie: frauderen of proberen te frauderen om de validiteit en integriteit van de monsters die afgenomen worden tijdens een dopingcontrole te beïnvloeden. Onder andere de volgende methodes behoren tot chemische en fysieke manipulatie:<br /><br />1) intraveneuze infusies, behalve bij een gerechtvaardigde medische behandeling;<br /><br />2) catheterisatie;<br /><br />3) verwisseling van of frauderen met de urine;<br /><br />c) genetische doping: het niet-therapeutische gebruik van cellen, genen, genetische elementen, of het veranderen van de genetische expressie, waardoor de sportprestatie verbeterd kan worden.<br /><br />§ 3. De volgende substanties en methoden zijn verboden binnen wedstrijdverband:<br /><br />1° stimulantia, met inbegrip van, indien van toepassing, zowel hun optische L- als hun optische D-isomeren:<br /><br />- adrafinil;<br /><br />- amfepramon;<br /><br />- amfetamine;<br /><br />- amfetaminil;<br /><br />- amifenazol;<br /><br />- benzfetamine;<br /><br />- bromantan;<br /><br />- carfedon;<br /><br />- cathine, de concentratie in de urine mag niet hoger zijn dan 5 microgram per milliliter;<br /><br />- clobenzorex;<br /><br />- cocaïne;<br /><br />- dimethylamfetamine;<br /><br />- efedrine, de concentratie in de urine mag niet hoger zijn dan 10 microgram per milliliter;<br /><br />- etilamfetamine;<br /><br />- etilefrine;<br /><br />- famprofazon;<br /><br />- fencamfamine;<br /><br />- fencamine;<br /><br />- fendimetrazine;<br /><br />- fenetylline;<br /><br />- fenfluramine;<br /><br />- fenmetrazine;<br /><br />- fenproporex;<br /><br />- fentermine;<br /><br />- furfenorex;<br /><br />- mefenorex;<br /><br />- mefentermine;<br /><br />- mesocarb;<br /><br />- metamfetamine;<br /><br />- methylamfetamine;<br /><br />- methyleendioxyamfetamine;<br /><br />- methyleendioxymetamfetamine;<br /><br />- methylefedrine, de concentratie in de urine mag niet hoger zijn dan 10 microgram per - milliliter;<br /><br />- methylfenidaat;<br /><br />- modafinil;<br /><br />- nicethamide;<br /><br />- norfenfluramine;<br /><br />- parahydroxyamfetamine;<br /><br />- pemoline;<br /><br />- prolintaan;<br /><br />- selegiline;<br /><br />- strychnine;<br /><br />- andere substanties met een vergelijkbare scheikundige structuur of een vergelijkbare biologische werking.<br /><br />Substanties die zijn opgenomen in het WADA monitoring Program 2005 (bupropion, coffeïne, fenylefrine, fenylpropanolamine, pipradol, pseudo-efedrine en synefrine (oxedrine)) worden niet als verboden beschouwd.<br /><br />Adrenaline, in combinatie met lokale anesthetica of voor lokaal gebruik (bijvoorbeeld nasaal of oftalmologisch) is niet verboden;<br /><br />2° narcotica:<br /><br />- buprenorfine;<br /><br />- dextromoramide;<br /><br />- diamorfine (heroïne);<br /><br />- fentanyl en derivaten ervan;<br /><br />- hydromorfon;<br /><br />- methadon;<br /><br />- morfine;<br /><br />- oxycodon;<br /><br />- oxymorfon;<br /><br />- pentazocine;<br /><br />- pethidine;<br /><br />3° cannabinoïden:<br /><br />cannabinoïden (bijvoorbeeld hasjiesj, marihuana);<br /><br />4° glucocorticosteroïden:<br /><br />alle glucocorticosteroïden zijn verboden als ze oraal, rectaal of door intraveneuze of intramusculaire injectie worden toegediend.<br /><br />Het gebruik ervan vereist een toestemming wegens therapeutische noodzaak.<br /><br />Voor alle andere toedieningsvormen is een toestemming wegens therapeutische noodzaak via verkorte aanvraag vereist.<br /><br />Dermatologische preparaten zijn niet verboden.<br /><br />§ 4. De volgende substanties zijn verboden bij bepaalde sporten:<br /><br />1° alcohol: alcohol (ethanol) is alleen binnen wedstrijdverband verboden in de onderstaande sporten. De opsporing zal worden verricht door ademanalyse of bloedcontrole. De geldende grenswaarde voor een dopingovertreding is achter elke sport weergegeven, waarbij tussen haakjes de betrokken internationale federatie is vermeld;<br /><br />a) autosport (FIA) 0,10 g/l;<br /><br />b) boogschieten (FITA) 0,10 g/l;<br /><br />c) biljarten (WCBS) 0,20 g/l;<br /><br />d) karate (WKF) 0,10 g/l;<br /><br />e) moderne vijfkamp (UIPM) 0,10 g/l (alleen bij schietonderdelen);<br /><br />f) motorsport (FIM) 0,00 g/l;<br /><br />g) jeu de boules (CMSB) 0,10 g/l;<br /><br />h) skiën (FIS) 0,10 g/l;<br /><br />i) vliegsport (FAI) 0,20 g/l);<br /><br />2° bètablokkers, alleen verboden binnen wedstrijdverband, behalve als het anders vermeld wordt:<br /><br />a) autosport (FIA);<br /><br />b) biljart (WCBS);<br /><br />c) bobsleeën (FIBT);<br /><br />d) boogschieten (FITA), ook verboden buiten wedstrijdverband;<br /><br />e) bowling (FIQ);<br /><br />f) bridge (FMB);<br /><br />g) curling (WCF);<br /><br />h) gymnastiek (FIG);<br /><br />i) moderne vijfkamp (UIPM), alleen bij schietonderdelen;<br /><br />j) motorsport (FIM);<br /><br />k) petanque (CMSB);<br /><br />l) schaken (FIDE);<br /><br />m) skiën (FIS) voor het schansspringen en het vrije stijl snowboarden;<br /><br />n) schieten (ISSF), ook verboden buiten wedstrijdverband;<br /><br />o) vliegsport (FAI);<br /><br />p) worstelen (FILA);<br /><br />q) zeilen (ISAF), enkel voor stuurmannen in het matchracen;<br /><br />r) zwemmen (FINA) bij het schoonspringen en synchroonzwemmen.<br /><br />Bètablokkers omvatten maar zijn niet beperkt tot:<br /><br />- acebutolol;<br /><br />- alprenolol;<br /><br />- atenolol;<br /><br />- betaxolol;<br /><br />- bisoprolol;<br /><br />- bunolol;<br /><br />- carteolol;<br /><br />- carvedilol;<br /><br />- celiprolol;<br /><br />- esmolol;<br /><br />- labetalol;<br /><br />- levobunolol;<br /><br />- metipranolol;<br /><br />- metoprolol;<br /><br />- nadolol;<br /><br />- oxprenolol;<br /><br />- pindolol;<br /><br />- propranolol;<br /><br />- sotalol;<br /><br />- timolol.<br /><br />§ 5. Voor bepaalde substanties (carboxy-THC, cathine, efedrine, methylefedrine, epitestosteron, 19-norandrosteron, morfine en salbutamol), alsook voor de testosteron-epitestosteronverhouding gelden analytische drempels die bepalen dat een bepaalde concentratie of waarde overschreden moet worden voor een belastend analysecertificaat wordt opgemaakt.
+...
 
 ### ART. 60.
 
-De lijst, vermeld in artikel 59, wordt door de administratie ambtshalve aangepast aan de internationaal erkende WADA-lijst. De nieuwe aangepaste lijst wordt dan door de administratie bekendgemaakt in het Belgisch Staatsblad en zal van toepassing zijn de dag na de bekendmaking ervan.
+...
 
 ## Afdeling V Toestemming wegens therapeutische noodzaak
 
 ### ART. 61.
 
-Wegens therapeutische noodzaak kan er vooraf toestemming verleend worden tot rechtmatig gebruik van een geneesmiddel dat een verboden substantie bevat als vermeld in artikel 59 of tot rechtmatig gebruik van een verboden middel als vermeld in artikel 59.<br /><br />Sportbeoefenaars die behoren tot de elitegroep en die zich willen beroepen op het rechtmatig gebruik van een geneesmiddel dat een verboden substantie bevat als vermeld in artikel 59 of op het rechtmatig gebruik van een verboden middel als vermeld in artikel 59, zijn verplicht een toestemming te vragen wegens therapeutische noodzaak.<br /><br />Sportbeoefenaars die niet behoren tot de elitegroep, kunnen een toestemming vragen wegens therapeutische noodzaak.
+...
 
 ### ART. 62.
 
-§ 1. Een onafhankelijke commissie van artsen, de expertencommissie, beslist over die toestemming. De sportbeoefenaars die behoren tot de elitegroep hebben echter de keuze:<br /><br />- ofwel hun aanvraag indienen bij de expertencommissie;<br /><br />- ofwel hun aanvraag indienen bij de internationale sportfederatie waartoe zij behoren.<br /><br />In dit laatste geval beslist een onafhankelijke commissie van artsen van de betreffende internationale sportfederatie.<br /><br />§ 2. De minister benoemt de leden van de expertencommissie en wijst onder hen een voorzitter en een plaatsvervangend voorzitter aan.<br /><br />De minister benoemt de leden op voordracht van de administratie voor een hernieuwbare termijn van ten hoogste vijf jaar.<br /><br />De minister kan op verzoek van een lid een einde maken aan zijn mandaat. De minister kan de leden van hun opdracht ontheffen wegens tekortkomingen in hun taken of wegens inbreuk op de waardigheid van hun functie.<br /><br />Alle leden vervullen een van de onderstaande functies:<br /><br />a) ze zijn arts en houder van het diploma van licentiaat in de lichamelijke opvoeding, van de bijzondere licentie in de lichamelijke opvoeding en de sportgeneeskunde, van de licentie in de sportgeneeskunde of van het getuigschrift van aanvullend onderwijs in de sportgeneeskunde;<br /><br />b) ze zijn master in de geneeskunde en houder van het diploma van master in de lichamelijke opvoeding en de bewegingswetenschappen of van master in de sportgeneeskunde.<br /><br />De expertencommissie rapporteert aan de administratie over het gebruik van de criteria vermeld in artikel 63, en over de motivatie van de genomen beslissingen op de wijze die de administratie heeft bepaald.<br /><br />§ 3. Alle leden van de expertencommissie, alsook het secretariaat van de expertencommissie, en de eventuele externe specialisten behandelen de dossiers met eerbiediging van het medisch beroepsgeheim.<br /><br />De expertencommissie kan zo nodig advies vragen aan externe specialisten, onder meer bijzondere experten in de zorg en behandeling van sportbeoefenaars met een handicap.<br /><br />Het lid van de commissie dat een belang heeft bij een door de commissie te onderzoeken dossier, waardoor hij niet onpartijdig kan oordelen, mag niet beslissen in dit dossier. Dat belang kan onder meer blijken uit de activiteiten die het lid verricht of de functies die hij vervult. Het lid brengt de voorzitter van de commissie daarvan op de hoogte.
+...
 
 ### ART. 63.
 
-§ 1. De eventuele toestemming wegens therapeutische noodzaak zal steeds tijdelijk worden verleend aan de sportbeoefenaar door middel van een formulier, dat door de voorzitter of de plaatsvervangend voorzitter is ondertekend. De administratie stelt het model van dit formulier vast.<br /><br />§ 2. De toestemming wegens therapeutische noodzaak kan enkel worden verleend indien voldaan is aan al de volgende voorwaarden en criteria:<br /><br />1° er bestaat geen ander redelijk therapeutisch alternatief voor het geneesmiddel met de verboden substantie of de behandeling met een verboden methode;<br /><br />2° de gezondheid van de sportbeoefenaar wordt geschaad als het geneesmiddel met de verboden substantie of de behandeling met de verboden methode niet toegepast zou worden tijdens de behandeling van een acute of chronische aandoening;<br /><br />3° het prestatievermogen van de sportbeoefenaar mag na genezing door het gebruik van het geneesmiddel met de verboden substantie of de behandeling met een verboden methode niet hoger liggen dan het prestatievermogen bij de aanvang van de ziekte.<br /><br />Het gebruik van enige verboden substantie of verboden middel om laagnormale waarden van enig endogeen hormoon te verhogen wordt niet als een aanvaardbare therapeutische ingreep beschouwd;<br /><br />4° de noodzaak voor het gebruik van het geneesmiddel met de verboden substantie of de behandeling met een verboden methode is niet het gevolg, deels of volledig, van voormalig niet-therapeutisch gebruik van een verboden substantie of een verboden middel;<br /><br />5° de sportbeoefenaar kreeg nog geen weigering van een andere commissie voor eenzelfde therapeutisch gebruik van een verboden substantie of een verboden middel.<br /><br />§ 3. Voor bepaalde verboden substanties zoals bepaald in artikel 59 kan een verkorte aanvraag voor toestemming wegens therapeutische noodzaak ingediend worden.<br /><br />Deze aanvraag dient te gebeuren op een door de administratie ter beschikking gesteld formulier waarop de naam van de verboden substantie, de dosis, de toedieningswijze en de duur van de behandeling wordt vermeld. De diagnose en in voorkomend geval de uitgevoerde onderzoeken om tot deze diagnose te komen worden ook vermeld.<br /><br />Voor deze aanvragen geldt dat zij automatisch leiden tot toestemming wegens therapeutische noodzaak vanaf de dag dat de volledig ingevulde aanvraag de expertencommissie heeft bereikt.<br /><br />Op eender welk tijdstip kan de expertencommissie bijkomende informatie met betrekking tot deze verkorte aanvraag opvragen en de beslissing herzien. Deze intrekking gaat onmiddellijk in vanaf het ogenblik dat de sportbeoefenaar hiervan op de hoogte is gebracht.<br /><br />§ 4. De aanvraag wordt ingediend volgens de voorwaarden die de administratie op haar website zal bekendmaken.<br /><br />De minister kan de regels bepalen voor:<br /><br />1° de nadere procedure voor de behandeling van de aanvraag;<br /><br />2° de uitoefening van en de vergoedingen voor het secretariaat van de expertencommissie;<br /><br />3° de vergoedingen voor de leden van de expertencommissie en de externe specialisten.<br /><br />De minister kan een gedeelte van de kosten die te maken hebben met de toestemming wegens therapeutische noodzaak ten laste leggen van de sportbeoefenaar.
+...
 
 ### ART. 64.
 
-Een toestemming wegens therapeutische noodzaak kan nooit retroactief gegeven worden. Op die regel zijn twee uitzonderingen:<br /><br />1° als een spoedbehandeling of behandeling van een acute medische aandoening in hoogst uitzonderlijke gevallen noodzakelijk bleek;<br /><br />2° als de sportbeoefenaar niet tot de elitegroep behoort waarvoor toestemming wegens therapeutische noodzaak is vereist.<br /><br />De expertencommissie hanteert in de gevallen, vermeld in het eerste lid, dezelfde voorwaarden en criteria als vermeld in artikel 63, § 2, 1° tot en met 5°.
+...
 
 ## Afdeling VI Monsterneming
 
 ### ART. 65.
 
-§ 1. De controlearts die de opdracht krijgt van de administratie, een controlecomité, een sportvereniging of het WADA, organiseert en controleert de monsterneming.<br /><br />§ 2. De controlearts legitimeert zich desgevraagd aan de hand van zijn legitimatiekaart.<br /><br />§ 3. Voor een dopingcontrole bij een sportmanifestatie of georganiseerde voorbereiding wijst de afgevaardigde van de sportvereniging of, in voorkomend geval, de organisator iemand aan om de controlearts bij te staan.<br /><br />De opdrachtgever van de dopingcontrole kan een of meer personen aanwijzen om de controlearts bij te staan.
+...
 
 ### ART. 66.
 
-Voor een dopingcontrole bij een sportmanifestatie moet de controlearts bij de monsterneming rekening houden met het normale wedstrijdverloop van de sportmanifestatie. De controlearts wijst volgens zijn opdracht de sportbeoefenaars aan die zich voor een dopingcontrole moeten aanbieden. Over die aanwijzing kan hij vooraf overleg plegen met de afgevaardigde van de betrokken sportvereniging of van de organisator.
+...
 
 ### ART. 67.
 
-§ 1. In de nabijheid van de plaats waar de sportmanifestatie of de georganiseerde voorbereiding plaatsvindt, houdt de sportvereniging, of in voorkomend geval de organisator, een lokaal ter beschikking dat door de controlearts geschikt wordt bevonden voor monsterneming. Dat lokaal moet gedurende de procedure van monsterneming exclusief ter beschikking staan van de controleactiviteit. In dat lokaal moet een tafel staan die het de controlearts mogelijk maakt om op een efficiënte manier te werken met de documenten en materialen. De sportvereniging, of in voorkomend geval de organisator zorgt voor voldoende<br /><br />ongeopende flessen mineraalwater. Tevens moet er in het lokaal of in het lokaal ernaast een toilet zijn, dat bruikbaar is voor dames en heren. Indien de administratie een mobiel dopinglokaal ter beschikking stelt, kan de monsterneming ook in dat mobiele dopinglokaal worden uitgevoerd. Bij controles op de verblijfplaats bepaalt de controlearts de plaats van monsterneming.<br /><br />De sportbeoefenaar, aangewezen voor dopingcontrole, wordt door de controlearts of een van de personen die hem bijstaan op de hoogte gebracht van zijn aanwijzing bij middel van een formulier waarvan het model door de administratie wordt vastgesteld. Het formulier vermeldt de naam van de sportbeoefenaar, het tijdstip van afgifte, het lokaal waar de monsterneming geschiedt en het tijdstip waarop de sportbeoefenaar zich uiterlijk moet aanmelden. Het formulier wordt opgesteld in het Nederlands. Het wordt tegen ontvangstbewijs overhandigd. De controlearts kan opdragen de sporters vanaf het ogenblik van de oproep tot het beëindigen van de controle te laten chaperonneren.<br /><br />De minister kan, rekening houdend met het specifieke karakter van de sportactiviteiten, andere wijzen voor oproeping van dopingcontrole bepalen.<br /><br />§ 2. De sportbeoefenaar meldt zich zo vlug mogelijk na de oproeping en uiterlijk op het tijdstip op het formulier vermeld in § 1 van dit artikel, aan in het aangewezen lokaal.<br /><br />Tijdens de monsterneming blijft de sportbeoefenaar onder toezicht van de controlearts, de verpleegkundige of kinesitherapeut tot de voorgeschreven hoeveelheid is bereikt. De controlearts neemt alle maatregelen die nodig zijn om misleiding, vermeld in artikel 21, § 2, 3°, van het decreet, te voorkomen. Als de sportbeoefenaar onvoldoende urine produceert wordt die urine door de controlearts tijdelijk bewaard in de bijbehorende set voor gedeeltelijke monsterneming. De sportbeoefenaar mag na verzegeling van die set het dopinglokaal verlaten en moet zich op een door de controlearts vastgesteld tijdstip weer aanmelden.<br /><br />§ 3. De sportbeoefenaar mag vragen dat de monsterneming plaatsvindt in aanwezigheid van een persoon van zijn keuze. Een minderjarige sportbeoefenaar kan door een van zijn wettelijke vertegenwoordigers worden vergezeld. Het normale verloop van de monsterneming mag hierdoor niet in het gedrang worden gebracht. Als de controlearts op een dergelijk verzoek niet ingaat, vermeldt hij de redenen van de weigering in het proces-verbaal van monsterneming.<br /><br />§ 4. Behalve de personen die met toepassing van het decreet bevoegd zijn, kan de controlearts, naast de verpleegkundige, kinesitherapeut of helper alleen de volgende personen in het lokaal voor monsterneming toelaten:<br /><br />1° de persoon, gekozen door de sportbeoefenaar;<br /><br />2° een wettelijke vertegenwoordiger van de minderjarige sportbeoefenaar;<br /><br />3° een afgevaardigde van een Vlaamse, nationale of internationale sportfederatie of eventueel van de organisator.
+...
 
 ### ART. 68.
 
-§ 1. De monsterneming van urine geschiedt als volgt:<br /><br />1° de controlearts verifieert de identiteit van de sportbeoefenaar;<br /><br />2° de sportbeoefenaar kiest een beker uit die in een gesloten verpakking zit;<br /><br />3° onder toezicht van de controlearts, verpleegkundige of kinesitherapeut vult de sportbeoefenaar die beker met minstens 75 milliliter van zijn urine;<br /><br />4° de sportbeoefenaar kiest twee flesjes, verpakt in een gesloten verpakking, uit een voorraad die ter beschikking wordt gesteld of goedgekeurd wordt door de administratie. Beide flesjes zijn voorzien van eenzelfde codenummer, met daarbij op het eerste flesje de letter "A" en op het tweede flesje de letter "B". Dat codenummer wordt in het proces-verbaal van monsterneming opgenomen;<br /><br />5° de sportbeoefenaar of onder diens toezicht de controlearts, verpleegkundige of kinesitherapeut, brengt urine uit de beker over in twee flesjes: ten minste vijftig milliliter in het flesje met de letter "A", dat bestemd is voor de eerste analyse en ten minste vijfentwintig milliliter in het flesje met de letter "B", dat bestemd is voor een eventuele tweede analyse. De sportbeoefenaar of onder diens toezicht de controlearts, verpleegkundige of kinesitherapeut sluit beide flesjes hermetisch af, wat tevens een verzegeling inhoudt. De controlearts, verpleegkundige of kinesitherapeut meet de dichtheid en de pH van de in de beker achtergebleven urine. De pH van de urine mag niet minder bedragen dan 5 en niet meer dan 7. De met een refractometer gemeten dichtheid bedraagt ten minste 1,005. Indien het monster niet aan die voorwaarden voldoet, kan de controlearts een nieuwe monsterneming eisen;<br /><br />6° er wordt gebruikgemaakt van dopingcontrolemateriaal voor eenmalig gebruik. Als de sportbeoefenaar onvoldoende urine produceert, conform artikel 67, § 2, wordt die urine door de controlearts tijdelijk bewaard in de bijbehorende set voor gedeeltelijke monsterneming totdat de vereiste hoeveelheid wordt geproduceerd.<br /><br />§ 2. De monsterneming van bloed geschiedt als volgt:<br /><br />1° de controlearts verifieert de identiteit van de sportbeoefenaar. Hij informeert de sportbeoefenaar uitvoerig over de vereisten bij het afnemen van een bloedstaal. Hij vraagt aan de sportbeoefenaar of de sportbeoefenaar een wettige reden ziet voor weigering van de monsterneming van bloed;<br /><br />2° de sportbeoefenaar kiest een kit die geschikt is voor bloedafname, verpakt in een gesloten verpakking, uit een voorraad die ter beschikking wordt gesteld of goedgekeurd wordt door de administratie;<br /><br />3° de controlearts en de sportbeoefenaar gaan na of alle codenummers overeenstemmen en gaan na of dat codenummer correct wordt genoteerd door de controlearts;<br /><br />4° bij het afnemen van het bloed zorgt de controlearts ervoor dat de hoeveelheid bloed die wordt afgenomen voldoende is om te beantwoorden aan de in dat verband geldende analysevereisten voor de analyse van het bloedstaal die moet worden uitgevoerd. Er wordt ook bloed afgenomen dat bestemd is voor een eventuele tweede analyse. Indien de hoeveelheid bloed die bij een eerste poging van de sportbeoefenaar afgenomen kan worden, onvoldoende is, moet de controlearts de procedure herhalen. Er mogen maximaal drie pogingen plaatsvinden. De controlearts zorgt ervoor dat de bloedafname in optimale omstandigheden, zowel op hygiënisch als medisch vlak, kan plaatsvinden. De bloedafname gebeurt van een ader die oppervlakkig aan de huid loopt op een plaats waarvan het onwaarschijnlijk is dat dit een nadelige invloed zal hebben op de atleet of op zijn prestatie. Eventueel kan gebruikgemaakt worden van een afknelband bij de bloedafname. Die wordt wel onmiddellijk verwijderd na het inbrengen van de naald;<br /><br />5° de controlearts kan de bloedstalen vóór verzegeling centrifugeren;<br /><br />6° de sportbeoefenaar of onder diens toezicht de controlearts verzegelt de stalen in de set voor afname van bloedstalen zoals wordt aangegeven door de controlearts;<br /><br />7° het verzegelde bloedstaal moet op een koele plaats, maar niet bij vriestemperatuur worden bewaard voor het voor analyse wordt doorgestuurd naar het controlelaboratorium.<br /><br />§ 3. De monsterneming van andere monsters geschiedt als volgt: ze worden in een aangepaste verpakking geplaatst. Er worden ook monsters afgenomen die bestemd zijn voor een eventuele tweede analyse. Die verpakking wordt verzegeld in aanwezigheid van de betrokken sportbeoefenaar of van de begeleider. Op elke verpakking wordt een codenummer aangebracht, dat aan de betrokken persoon wordt meegedeeld en dat in het proces-verbaal vermeld wordt.<br /><br />De minister kan extra regels vastleggen.<br /><br />§ 4. Voor de monsterneming mogen alleen verpakkingen, flesjes, bekers en andere benodigdheden worden gebruikt die door de administratie ter beschikking worden gesteld of zijn goedgekeurd.
+...
 
 ### ART. 69.
 
-§ 1. Van de monsterneming wordt een proces-verbaal van monsterneming opgesteld, aan de hand van een formulier, volgens het model dat de administratie heeft vastgesteld. Het formulier wordt opgesteld in het Nederlands. Alle relevante rubrieken van het formulier worden ingevuld.<br /><br />§ 2. Het proces-verbaal van monsterneming wordt ondertekend door:<br /><br />- de gecontroleerde persoon;<br /><br />- eventueel de persoon die de gecontroleerde persoon vergezelt;<br /><br />- de controlearts;<br /><br />- eventueel de verpleegkundige of kinesitherapeut.<br /><br />§ 3. Het proces-verbaal van monsterneming wordt op doorslagpapier opgemaakt in vier exemplaren en wordt ondertekend door de betrokkenen.<br /><br />Eén exemplaar wordt overhandigd aan de gecontroleerde persoon. Eén exemplaar wordt zo vlug mogelijk bezorgd aan de administratie. Eén exemplaar wordt in voorkomend geval aan de sportvereniging, het controlecomité of het WADA gezonden. De controlearts bewaart een exemplaar gedurende een jaar.<br /><br />§ 4. In voorkomend geval wordt een proces-verbaal van dopingcontrole opgemaakt door de controlearts, dat melding maakt van alle gevallen, vermeld in artikel 21, § 2, van het decreet. Dat proces-verbaal wordt opgemaakt in twee exemplaren en zo vlug mogelijk naar de administratie gezonden. De administratie zendt een eensluidend verklaard afschrift naar de procureur des Konings.
+...
 
 ### ART. 70.
 
-De analyseopdracht, met mededeling van de identificatie van de instantie die de dopingcontrole bevolen heeft, en het monster, moeten binnen vijf kalenderdagen na de monsterneming, tegen ontvangstbewijs aan het aangewezen controlelaboratorium worden afgegeven. In afwachting neemt de controlearts alle maatregelen om de monsters te bewaren.<br /><br />De minister kan extra regels vastleggen.
+...
 
 ## Afdeling VII Analyse van monsters
 
 ### ART. 71.
 
-§ 1. Het controlelaboratorium laat zo vlug mogelijk na de ontvangst het monster onderzoeken en neemt, in voorkomend geval, de nodige maatregelen voor de bewaring van het tweede monster.<br /><br />§ 2. Het controlelaboratorium stelt binnen eenentwintig kalenderdagen na ontvangst van het monster een analysecertificaat op. De minister kan de termijn aanpassen afhankelijk van specifieke analyses.<br /><br />Het analysecertificaat en het laboratoriumdocumentatiepakket bevatten minstens:<br /><br />1° datum, uur van ontvangst en staat van het monster;<br /><br />2° codenummer van het monster en beschrijving van de verpakking;<br /><br />3° de bevindingen met betrekking tot de aard, het volume en de toestand van het onderzochte monster;<br /><br />4° de resultaten van de analyse en de conclusies.<br /><br />§ 3. De analysecertificaten en laboratoriumdocumentatiepakketten of afschriften ervan, vermeld in § 2, worden door het controlelaboratorium bewaard gedurende een periode van ten minste zes jaar. Het laboratoriumdocumentatiepakket wordt alleen aan een dossier toegevoegd op verzoek van de betrokken sportbeoefenaar of de administratie.<br /><br />§ 4. In geval van een positief analyseresultaat bewaart het controlelaboratorium het betrokken monster gedurende minstens een jaar na de datum van ontvangst.<br /><br />§ 5. In geval van negatief analyseresultaat bewaart het controlelaboratorium het monster in kwestie gedurende minstens een maand na de datum van de rapportering.
+...
 
 ### ART. 72.
 
-Het controlelaboratorium bezorgt het analysecertificaat, vermeld in artikel 71, § 2, aan de administratie en, in voorkomend geval, aan het controlecomité, de sportvereniging of het WADA, die de dopingcontrole bevolen heeft, en bezorgt de gecodeerde resultaten aan de instanties, vermeld in artikel 14, 2°.<br /><br />In geval van een positief analyseresultaat kan de administratie de bevoegde gerechtelijke instanties onmiddellijk op de hoogte brengen.<br /><br />In geval van positief analyseresultaat brengt de administratie of, in voorkomend geval, het controlecomité of de sportvereniging, binnen vijftien kalenderdagen na ontvangst van het positieve analyseresultaat, de betrokken sportbeoefenaar op de hoogte van het resultaat met een aangetekende brief, die uitwerking heeft de vijfde dag na de dag van verzending. Die brief bevat eveneens de mededeling dat de sportbeoefenaar recht heeft op een tweede analyse uitgevoerd op het monster dat tijdens de controle in het tweede flesje met de letter « B » werd geplaatst. Die analyse wordt volledig op zijn eigen kosten uitgevoerd in een controlelaboratorium dat hij uit de door de administratie aangeboden lijst van controlelaboratoria kan kiezen. De kosten van die analyse moet hij vooraf betalen. De administratie of, in voorkomend geval, het controlecomité of de sportvereniging brengt ook het WADA, de betrokken sportfederatie en de internationale sportfederatie op de hoogte van elk positief analyseresultaat.<br /><br />De sportbeoefenaar beschikt over een termijn van vijftien kalenderdagen nadat de aangetekende brief, vermeld in het derde lid, uitwerking heeft, om de administratie of, in voorkomend geval, het controlecomité of de sportvereniging op de hoogte te brengen van zijn beslissing een tweede analyse aan te vragen. Die aanvraag, die het gekozen controlelaboratorium bevat, wordt verstuurd met een aangetekende brief, die uitwerking heeft de vijfde dag na de dag van verzending. In die brief deelt de sportbeoefenaar eveneens mee of hij zich door een advocaat of arts zal laten bijstaan. Die advocaat of arts, alsook de sportbeoefenaar zelf en een afgevaardigde van de administratie, het WADA en de bevoegde internationale sportfederatie, hebben het recht de analyse bij te wonen.<br /><br />De sportbeoefenaar of eventueel zijn advocaat of arts zal, in geval van analyse van het tweede monster, het codenummer verifiëren en een attest ondertekenen dat het codenummer van het monster en de beschrijving van de verpakking bevat.
+...
 
 ### ART. 73.
 
-De administratie, of in voorkomend geval het controlecomité of de sportvereniging, brengt zo snel mogelijk na de ontvangst van de beslissing van de betrokken sportbeoefenaar, het controlelaboratorium op de hoogte van de aanvraag om het tweede monster te laten analyseren.<br /><br />Indien het tweede monster in een ander controlelaboratorium geanalyseerd wordt, wordt het aan dit laboratorium bezorgd binnen tien kalenderdagen na ontvangst van de beslissing van de sportbeoefenaar door de administratie, het controlecomité of de sportvereniging.<br /><br />Het gekozen controlelaboratorium brengt de betrokken sportbeoefenaar met een aangetekende brief op de hoogte van de datum, met vermelding van plaats en uur, waarop het tweede monster geanalyseerd zal worden, alsook van de analysekosten. Die datum valt binnen een periode van eenentwintig kalenderdagen na ontvangst van het tweede monster. Als dat tweede monster in hetzelfde controlelaboratorium geanalyseerd wordt als het eerste monster, valt die datum binnen een periode van eenendertig kalenderdagen na ontvangst van de beslissing van de sportbeoefenaar, vermeld in het eerste lid.<br /><br />De tweede analyse vindt ook plaats als de sportbeoefenaar, zijn advocaat of arts niet zijn komen opdagen voor de analyse. Van de tweede analyse wordt eveneens een analysecertificaat en laboratoriumdocumentatiepakket opgemaakt volgens de bepalingen, vastgesteld in artikel 71, § 2. Bovendien wordt er melding gemaakt van het feit dat de sportbeoefenaar, zijn advocaat of arts de analyse al dan niet hebben bijgewoond. Het laboratoriumdocumentatiepakket wordt alleen aan een dossier toegevoegd op vraag van de betrokken sportbeoefenaar of de administratie.
+...
 
 ## HOOFDSTUK III Toezicht door de regering
 
 ### ART. 74.
 
-De gemachtigde ambtenaar van de administratie, die houder is van ofwel een diploma in de genees-, heel- en verloskunde, ofwel van een diploma van master in de geneeskunde heeft toegang tot de onderzoeksruimte tijdens sportmedische keuringen van sportbeoefenaars.
+...
 
 ### ART. 75.
 
-De leidend ambtenaar van de administratie wijst de ambtenaren aan, vermeld in artikel 29, § 1, van het decreet. De aangewezen ambtenaar stelt een proces-verbaal op aan de hand van een formulier, waarvan het model door de administratie wordt vastgesteld. Alle relevante rubrieken van het formulier worden ingevuld.<br /><br />Het proces-verbaal maakt melding van alle vaststellingen betreffende de controles, vermeld in artikel 25 en 26 van het decreet.<br /><br />Het wordt opgemaakt in twee exemplaren, die beide door de aangewezen ambtenaar worden ondertekend.
+...
 
 ### ART. 76.
 
-§ 1. De leidend ambtenaar van de administratie wijst de ambtenaren aan die moeten toezien op de tenuitvoerlegging van de disciplinaire maatregelen, overeenkomstig artikel 40, § 6, eerste lid, van het decreet.<br /><br />§ 2. De ambtenaren, vermeld in § 1, oefenen ter plaatse of op stukken toezicht uit op de tenuitvoerlegging van de disciplinaire maatregelen door de sportverenigingen. De sportverenigingen verlenen hun medewerking aan de uitoefening van het toezicht. Ze bezorgen aan de ambtenaren, op hun eenvoudig verzoek, de nuttige stukken voor de uitvoering van de toezichtsopdracht.<br /><br />§ 3. De ambtenaren, vermeld in § 1, stellen hun bevindingen vast in een proces-verbaal. Het proces-verbaal wordt opgemaakt in twee exemplaren, die beide door de betrokken ambtenaar worden ondertekend. Een afschrift van het proces-verbaal wordt binnen tien kalenderdagen bezorgd aan de sportvereniging en eventueel aan de betrokken sportbeoefenaar.<br /><br />Indien de betrokken ambtenaar vaststelt dat een sportbeoefenaar het opgelegde verbod om voor een bepaalde termijn aan enige sportmanifestatie en georganiseerde voorbereiding deel te nemen, niet naleeft, bezorgt de ambtenaar binnen tien kalenderdagen een exemplaar van het proces-verbaal aan de voorzitter van de disciplinaire commissie en een exemplaar van het proces-verbaal aan de procureur des Konings.
+...
 
 ## TITEL IV Opdrachten van sportvereningen
 
@@ -376,68 +376,68 @@ De leidend ambtenaar van de administratie wijst de ambtenaren aan, vermeld in ar
 
 ### ART. 77.
 
-De sportvereniging, de sportfederatie of in voorkomend geval het overkoepelend orgaan, brengt de administratie op de hoogte van alle statutaire, reglementaire en contractuele bepalingen, vermeld in artikel 8, 1°, van het decreet. Elke wijziging of aanvulling van die bepalingen wordt onmiddellijk aan de administratie meegedeeld.
+...
 
 ### ART. 78.
 
-Jaarlijks, uiterlijk op 31 maart, stuurt de sportvereniging, de sportfederatie of in voorkomend geval het overkoepelend orgaan het verslag, vermeld in artikel 8, 2°, van het decreet, naar de administratie.
+...
 
 ### ART. 79.
 
-De minister kan extra bepalingen betreffende de verslaggeving, vermeld in artikel 8 van het decreet, vastleggen.
+...
 
 ## HOOFDSTUK II Mededeling van geplande sportmanifestaties, lokaliseringen en controle op de verblijfplaats
 
 ### ART. 80.
 
-§ 1. Overeenkomstig artikel 23, § 1, 1°, van het decreet brengt de sportvereniging, de sportfederatie, of in voorkomend geval, het overkoepelend orgaan, de administratie minstens veertien kalenderdagen van tevoren met een brief, een faxbericht of elektronisch, op de hoogte van alle geplande sportmanifestaties, georganiseerde voorbereidingen en van elke wijziging aan die planning.<br /><br />Die mededeling vermeldt:<br /><br />1° aard van de geplande sportmanifestatie of van de georganiseerde voorbereiding;<br /><br />2° gemeente, precieze plaats, datum en aanvangsuur van de geplande sportmanifestaties, of van de georganiseerde voorbereiding;<br /><br />3° naam, adres en telefoonnummer van de afgevaardigde van de sportvereniging of in voorkomend geval van de organisator.<br /><br />De minister kan extra bepalingen opleggen.<br /><br />§ 2. De lijst van de sportbeoefenaars, die behoren tot de elitegroep, en alle wijzigingen hieraan, wordt door de betrokken sportfederatie aan de administratie bezorgd.<br /><br />De minister kan extra bepalingen opleggen.<br /><br />§ 3. Met het oog op dopingcontroles buiten wedstrijdverband zal de sportbeoefenaar die behoort tot de elitegroep aan de administratie meedelen waar en wanneer hij bereikbaar is.<br /><br />De gegevens van voorbije periodes kunnen maar bewaard worden zolang een procedure loopt in verband met een mogelijk gebrek aan informatie over de verblijfplaats van de betrokken sportbeoefenaar. Als er gedurende een voorbije periode geen controle buiten wedstrijdverband is uitgevoerd en de verblijfplaats van de sportbeoefenaar geen enkele reden tot geschil oproept, moeten de gegevens onmiddellijk worden vernietigd.<br /><br />De minister zal na advies van de Commissie ter bescherming van de persoonlijke levenssfeer extra bepalingen opleggen.<br /><br />§ 4. Wat de controle op de verblijfplaats betreft, bezorgt het controlecomité of eventueel de sportvereniging, uiterlijk vier kalenderdagen na de dopingcontrole, met een brief, een mailbericht of een faxbericht, de volgende gegevens aan de administratie:<br /><br />1° naam, woonplaats en geboortedatum van de gecontroleerde sportbeoefenaar;<br /><br />2° datum en plaats van de dopingcontrole;<br /><br />3° naam van de controlearts, en eventueel van de kinesitherapeut of de verpleegkundige;<br /><br />4° naam van het gekozen controlelaboratorium.
+...
 
 ## HOOFDSTUK III Erkenning en naleving van specifieke disciplinaire maatregelen
 
 ### ART. 81.
 
-§ 1. De sportverenigingen en sportfederaties zijn verplicht om de disciplinaire maatregelen te erkennen en te doen naleven die opgelegd werden aan een sportbeoefenaar wegens dopingpraktijken of daarmee gelijkgestelde praktijken, ingevolge of overeenkomstig de wetgeving van de Franse Gemeenschap, de Duitstalige Gemeenschap of de Gemeenschappelijke Gemeenschapscommissie.<br /><br />§ 2. De sportverenigingen en sportfederaties zijn verplicht de disciplinaire maatregelen, die overeenkomstig de WADA-code zijn opgelegd aan een van hun leden wegens dopingpraktijken of daarmee gelijkgestelde praktijken begaan in het buitenland, mee te delen aan de administratie.<br /><br />De sportverenigingen en sportfederaties zijn verplicht om die disciplinaire maatregelen te erkennen en te doen naleven.
+...
 
 ## TITEL V Erkenning van de interne tuchtregeling van een sportvereninging
 
 ### ART. 82.
 
-§ 1. De aanvraag tot erkenning van de interne tuchtregeling van een sportvereniging of sportfederatie geschiedt met een aangetekende brief, gericht aan de administratie.<br /><br />§ 2. Bij die aanvraag worden de volgende documenten gevoegd:<br /><br />1° de stukken waaruit blijkt dat de aanvrager rechtspersoonlijkheid bezit;<br /><br />2° alle statutaire, reglementaire en contractuele bepalingen inzake de interne tuchtregeling van de aanvrager;<br /><br />3° de samenstelling van de organen die de bevoegdheid hebben disciplinaire maatregelen uit te spreken.<br /><br />Minstens een lid en een plaatsvervangend lid van de organen, vermeld in het eerste lid, heeft dezelfde kwalificaties als vermeld in artikel 39.
+...
 
 ### ART. 83.
 
-De minister neemt een beslissing binnen drie maanden na de ontvangst van de aanvraag tot erkenning.<br /><br />In geval van weigering van de erkenning deelt de minister de redenen daarvoor schriftelijk aan de betrokken sportvereniging of sportfederatie mee.
+...
 
 ### ART. 84.
 
-Om erkend te blijven moet de sportvereniging of sportfederatie:<br /><br />1° elke wijziging aan de bepalingen van artikel 82, § 2, onverwijld en schriftelijk aan de administratie meedelen;<br /><br />2° de disciplinaire maatregelen die betrekking hebben op de bepalingen in het decreet en die definitief geworden zijn, bij wijze van een afschrift van de beslissing onverwijld aan de administratie meedelen;<br /><br />3° de bepalingen van artikel 4 van het decreet en de bepalingen tot erkenning van de interne tuchtregeling naleven.
+...
 
 ### ART. 85.
 
-De erkenning wordt verleend voor een termijn van ten hoogste drie jaar. Ze kan worden hernieuwd na aanvraag door de sportvereniging of sportfederatie.
+...
 
 ### ART. 86.
 
-De minister kan de erkenning intrekken nadat aan de sportvereniging of sportfederatie in kwestie of aan een gemandateerd persoon de gelegenheid werd geboden te worden gehoord.<br /><br />De erkenning van de interne tuchtregeling van een sportvereniging of van een sportfederatie wordt door de minister ambtshalve ingetrokken indien de betrokkene niet meer voldoet aan de voorwaarden, bepaald in artikel 84.
+...
 
 ## TITEL VI Inwerkingreding, overgangs- en slotbepalingen
 
 ### ART. 87.
 
-De minister kan de beslissingsbevoegdheden die hem bij artikel 2, 6, 9, 10, 13, 14, 4°, 17, 19, 20, 25, 26, 28, 31, 34, 35, 47, 48, 54, 62, 63, 68, 70, 80, 83 en 86 van dit besluit worden verleend, niet delegeren aan een of meer ambtenaren.
+...
 
 ### ART. 88.
 
-(niet opgenomen)<br /><br />(Heft het besluit van de Vlaamse Regering van 23 oktober 1991 houdende uitvoering van het decreet van 27 maart 1991 inzake medisch verantwoorde sportbeoefening op)
+...
 
 ### ART. 89.
 
-De bepalingen van de besluiten, genomen ter uitvoering van het besluit, vermeld in artikel 88, blijven van kracht totdat hun geldigheidsduur verstreken is of totdat ze uitdrukkelijk opgeheven of gewijzigd worden.<br /><br />De volgende controlelaboratoria worden geacht erkend te zijn op basis van dit besluit:<br /><br />1° Dopingcontrolelaboratorium Universiteit Gent;<br /><br />2° Instituut voor Biochemie van de Duitse Sporthogeschool Keulen;<br /><br />3° Institut Municipal d'Investgacio Médica, Barcelona.
+...
 
 ### ART. 90.
 
-Dit besluit treedt in werking op 1 januari 2006.
+...
 
 ### ART. 91.
 
-De minister is belast met de uitvoering van dit besluit.
+...
