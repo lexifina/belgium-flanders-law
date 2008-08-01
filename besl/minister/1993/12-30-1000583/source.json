@@ -2,16 +2,16 @@
   "codex_id": 1000583,
   "title": "Ministerieel besluit van 1993-12-30 houdende nadere bepalingen betreffende de erkenning van keuringsartsen",
   "type": "Ministerieel besluit",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1000583/VolledigDocument?datum=2006-06-01",
-  "source_sha256": "31f87a53bb87dd1191a47a6d2333d78a63716cfe0fc58ed1a3026412f7e9c8b0",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1000583/VolledigDocument?datum=2008-08-01",
+  "source_sha256": "f6b7f2cdfd492335ab82bb48d17df687f629667d465271b2a7ce1e6b6e40563b",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1000583&param=informatie",
-  "as_of": "2006-06-01",
+  "as_of": "2008-08-01",
   "made": "1993-12-30",
   "gazette": "1994-02-15",
   "numac": 0,
   "document_start": null,
   "document_end": "2008-07-31",
-  "in_force": "2006-06-01",
+  "in_force": "2008-08-01",
   "article_versions": 2,
-  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2008-08-01; future article versions excluded; article text as the API gives it"
 }
