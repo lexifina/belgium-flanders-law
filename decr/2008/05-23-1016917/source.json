@@ -1,0 +1,17 @@
+{
+  "codex_id": 1016917,
+  "title": "Decreet van 2008-05-23 houdende instemming met de avenant van 20 september 2007 aan het samenwerkingsakkoord van 30 mei 2005 tussen de Federale Staat, het Vlaamse, het Waalse en het Brussels Hoofdstedelijk Gewest en de Duitstalige Gemeenschap betreffende de meerwaardeneconomie",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1016917/VolledigDocument?datum=2008-08-02",
+  "source_sha256": "ebefe0a25d5b9a4f0332a780fdcc07538ed54cac9faeab19e2148fd0a9308917",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1016917&param=informatie",
+  "as_of": "2008-08-02",
+  "made": "2008-05-23",
+  "gazette": "2008-07-23",
+  "numac": 2008202569,
+  "document_start": "2008-08-02",
+  "document_end": null,
+  "in_force": "2008-08-02",
+  "article_versions": 2,
+  "record_form": "consolidated version as in force on 2008-08-02; oldest version available; future article versions excluded; article text as the API gives it"
+}
