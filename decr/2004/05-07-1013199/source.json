@@ -2,16 +2,16 @@
   "codex_id": 1013199,
   "title": "Decreet van 2004-05-07 houdende de organisatie en subsidiëring van een cultureel-erfgoedbeleid",
   "type": "Decreet",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1013199/VolledigDocument?datum=2006-06-01",
-  "source_sha256": "cabd902e92774828895603924b46c31c26e86ca78b064cff9893f2c7b2c160a5",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1013199/VolledigDocument?datum=2008-08-04",
+  "source_sha256": "101409f13af377fa89e2201b5dad8ace6dc19507884ef2f8553bb5be53fa2876",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1013199&param=informatie",
-  "as_of": "2006-06-01",
+  "as_of": "2008-08-04",
   "made": "2004-05-07",
   "gazette": "2004-07-09",
   "numac": 2004036066,
   "document_start": null,
   "document_end": null,
-  "in_force": "2006-06-01",
+  "in_force": "2008-08-04",
   "article_versions": 59,
-  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2008-08-04; future article versions excluded; article text as the API gives it"
 }
