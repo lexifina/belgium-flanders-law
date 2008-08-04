@@ -1,0 +1,13 @@
+# Besluit van de Vlaamse Regering van 2007-05-04 tot ratificatie van de Internationale Conventie tegen het dopinggebruik in de sport, opgemaakt in Parijs op 19 oktober 2005, en de Bijlagen I en II, en goedgekeurd bij het decreet van 20 april 2007
+
+### Aanhef
+
+De Vlaamse Regering,<br /><br />Gelet op het Verdrag van Wenen van 23 mei 1969 inzake het verdragenrecht, inzonderheid op artikel 11;<br /><br />Gelet op de bijzondere wet van 8 augustus 1980 tot hervorming der instellingen, inzonderheid op artikel 81, § 1, gewijzigd bij de bijzondere wet van 5 mei 1993;<br /><br />Gelet op het decreet van 20 april 2007 houdende instemming met de internationale conventie tegen het dopinggebruik in de sport, opgemaakt in Parijs op 19 oktober 2005, en de bijlagen I en II;<br /><br />Overwegende dat de conventie op 1 februari 2007 in werking is getreden;<br /><br />Overwegende dat artikel 37 van de conventie bepaalt dat voor elke staat die na 1 februari 2007 zijn instemming met de conventie tot uitdrukking brengt, de conventie in werking treedt op de eerste dag van de maand die volgt op het verstrijken van een maand na de datum van de neerlegging van zijn akte van bekrachtiging, aanvaarding, goedkeuring of toetreding;<br /><br />Overwegende dat de conventie voor een wettelijk kader zorgt, waarbinnen alle regeringen maatregelen kunnen nemen om doping uit de sport te bannen en verder een bijdrage te kunnen leveren aan de harmonisering van de wereldwijde strijd tegen doping;<br /><br />Overwegende dat de conventie bijdraagt tot een wereldwijde formalisering van de regels, van het beleid en van richtlijnen tegen doping;<br /><br />Overwegende dat dopingbestrijding als internationaal fenomeen, ook een geharmoniseerde aanpak tussen staten en internationale sportfederaties vergt;<br /><br />Overwegende dat hierdoor het beleid met betrekking tot de dopingbestrijding in Vlaanderen verder op één lijn gebracht kan worden met de aanpak van het Wereldantidopingagentschap (WADA), de Raad van Europa en de UNESCO;<br /><br />Gelet op het advies van de Inspectie van Financiën van 2 maart 2007;<br /><br />Op voorstel van de Vlaamse minister van Cultuur, Jeugd, Sport en Brussel en de Vlaamse minister van Bestuurszaken, Buitenlands Beleid, Media en Toerisme;<br /><br />Na beraadslaging,<br /><br />Besluit :
+
+### ART. 1.
+
+De internationale conventie tegen het dopinggebruik in de sport, opgemaakt in Parijs op 19 oktober 2005, en de bijlagen I en II, en goedgekeurd bij het decreet van 20 april 2007, worden geratificeerd.
+
+### ART. 2.
+
+De Vlaamse minister, bevoegd voor het Buitenlands Beleid en de Europese Aangelegenheden, is gelast met de uitvoering van dit besluit.
