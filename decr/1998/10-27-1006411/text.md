@@ -4,11 +4,11 @@
 
 ### ART. 1.
 
-Dit decreet regelt een gemeenschapsaangelegenheid.
+...
 
 ### ART. 2.
 
-In dit decreet wordt verstaan onder:<br /><br />1° volkscultuur: alle collectieve, al of niet traditionele uitingen van het volksleven, zoals die door organisaties, hetzij als studieterrein, hetzij als toepassingsgebied, in hun doelstellingen en programma zijn ingeschreven;<br /><br />2° familiekunde: het domein van de volkscultuur dat zich bezighoudt met het onderzoek naar de historische herkomst en de geografische verspreiding van families met de bedoeling het sociaal en professioneel profiel van de stam te ontdekken;<br /><br />3° heemkunde: het domein van de volkscultuur dat zich toelegt op een betere kennis van de eigen streek in al haar aspecten en op de bescherming van het gemeenschappelijke materiële culturele erfgoed;<br /><br />4° algemene volkskunde: het domein van de volkscultuur dat zich bezighoudt met de observatie en de studie van algemene traditionele en eigentijdse volksculturele fenomenen in hun cultuurhistorische context;<br /><br />5° gethematiseerde volkskunde: het domein van de volkscultuur dat zich bezighoudt met de observatie en de studie van specifieke traditionele en eigentijdse volksculturele fenomenen in hun cultuurhistorische context;<br /><br />6° industriële archeologie: het domein van de volkscultuur dat zich vanuit een actieve belangstelling voor de menselijke activiteit uit het verleden en de vertaling ervan naar de actualiteit, bezighoudt met het behoud en het beheer van verwaarloosd industrieel cultureel erfgoed;<br /><br />7° [administratie: de administratieve dienst, bevoegd voor het roerend en immaterieel erfgoed;  <span class="reference">(verv. decr. 15 juli 2005, art. 2, I: 1 januari 2005)</span> ]<br /><br />8° commissie: de sectorale commissie die bevoegd is voor het volksontwikkelingswerk.
+...
 
 ## HOOFDSTUK II VOLKSCULTUUR
 
@@ -16,72 +16,72 @@ In dit decreet wordt verstaan onder:<br /><br />1° volkscultuur: alle collectie
 
 ### ART. 3.
 
-De Vlaamse Gemeenschap streeft via een ondersteuningsbeleid de instandhouding en de waardering van de volkscultuur na, om de kennis en de verbreiding van de volkscultuur te bevorderen.
+...
 
 ## ONDERAFDELING A ERKENNING
 
 ### ART. 4.
 
-Een organisatie voor volkscultuur is een organisatie die werkt in het domein van de familiekunde, de heemkunde, de algemene volkskunde, de gethematiseerde volkskunde of de industriële archeologie; zij doet dit hetzij via ledenwerking hetzij via een dienstverlenende structuur voor belangstellenden.
+...
 
 ### ART. 5.
 
-§ 1. Om door de Vlaamse regering als organisatie voor volkscultuur erkend te kunnen worden, voldoet de organisatie aan de volgende voorwaarden:<br /><br />1° een werking hebben met een landelijk karakter door ofwel activiteiten te ontplooien in minstens vier Vlaamse provincies ofwel een publieksbereik te kunnen aantonen in minstens vier Vlaamse provincies; voor de toepassing van dit decreet wordt het tweetalige gebied Brussel-Hoofdstad beschouwd als een provincie;<br /><br />2° met activiteiten aantonen dat zij bezig is met het verzamelen, beschermen, bestuderen, bekendmaken en demonstreren van de volkscultuur;<br /><br />3° de vorm van een vereniging zonder winstoogmerk hebben met een werkterrein dat duidelijk ligt in het domein van de volkscultuur, zoals bepaald in artikel 2 van dit decreet;<br /><br />4° over een kwaliteitsbeleid beschikken dat erop gericht is op een systematische wijze de kwaliteit van de aangeboden dienstverlening en ook van haar werking, te bepalen, te plannen, te verbeteren en te volgen.<br /><br />§ 2. In de domeinen van de familiekunde, de heemkunde, de algemene volkskunde en de industridle archeologie kan slechts één organisatie of samenwerkingsverband van organisaties erkend worden. In het domein van de gethematiseerde volkskunde kan per thema slechts één organisatie of samenwerkingsverband van organisaties erkend worden.
+...
 
 ## ONDERAFDELING B ERKENNINGSPROCEDURE
 
 ### ART. 6.
 
-§ 1. Om de vijf jaar kunnen aanvragen tot erkenning ingediend worden. Die aanvragen moeten de administratie bereiken voor 1 oktober van het lopende jaar.<br /><br />§ 2. Voor de toepassing van § 1 van dit artikel wordt de eerste startdatum vastgesteld op 1 oktober 2000.<br /><br />§ 3. Tegen het voornemen van de beslissing van niet-erkenning kan de organisatie beroep aantekenen bij de adviserende beroepscommissie voor culturele aangelegenheden.<br /><br />§ 4. De erkenningsprocedure met inbegrip van de eventuele beroepsprocedure wordt voor 1 april van het kalenderjaar volgend op de aanvraag afgesloten met de berekening van de beslissing betreffende de erkenning of de niet-erkenning.
+...
 
 ## ONDERAFDELING C SUBSIDIERING
 
 ### ART. 7.
 
-§ 1. De subsidiëring gaat in op 1 januari van het kalenderjaar volgend op de berekening van de erkenningsbeslissing.<br /><br />§ 2. Gelet op artikel 6, § 2, worden de eerste aanvragen tot erkenningen gehonoreerd met ingang van 1 januari 2002.
+...
 
 ### ART. 8.
 
-§ 1. De Vlaamse regering sluit met de erkende organisatie om de vijf jaar een overeenkomst af voor een duur van vijf jaar.<br /><br />§ 2. De overeenkomst bevat de volgende elementen:<br /><br />1° het beleidsplan van de organisatie omtrent de toepassing van de principes van integrale kwaliteitszorg en omtrent de activiteiten die zij gaat organiseren en de wijze waarop ze dat zal doen, in de mate van het mogelijke vertaald in kwantificeerbare gegevens;<br /><br />2° de verbintenis van de organisatie om enerzijds de gegevens te verstrekken die door de administratie gevraagd worden en anderzijds de documenten af te geven die de uitkering van de subsidies verantwoorden;<br /><br />3° het subsidiebedrag.<br /><br />§ 3. Voor de eerste periode van toepassing van dit decreet, die loopt tot 31 december 2001, zijn de jaarlijkse subsidiebedragen voor de overeenkomstig artikel 14, § 1, erkende organisaties van volkscultuur degene die vermeld zijn in artikel 15.<br /><br />[§ 4. De jaarlijkse werkingssubsidie, bepaald binnen de perken van de beschikbare begrotingskredieten, wordt als volgt beschikbaar gesteld:<br /><br />1° vier voorschotten van telkens 22,5 percent van het subsidiebedrag dat voor dat werkingsjaar is toegekend, worden op zijn vroegst uitbetaald op respectievelijk 1 januari, 1 april, 1 juli en 1 oktober van het werkingsjaar;<br /><br />2° het saldo van 10 percent van het subsidiebedrag dat voor dat werkingsjaar is toegekend, wordt uitbetaald na controle op de naleving van de subsidievoorwaarden en na aanvaarding van de bewijsstukken door de administratie.<br /><br />De verantwoording van de jaarlijkse subsidie gebeurt op basis van het werkingsverslag, het financiële verslag, het jaarplan en de begroting. Hiertoe legt de organisatie voor volkscultuur jaarlijks de jaarrekening van het vorige jaar met de nodige bewijsstukken voor, evenals een door de algemene vergadering goedgekeurde begroting.<br /><br />§ 5. Een organisatie voor volkscultuur die een werkingssubsidie ontvangt, kan gedurende de beleidsperiode onbeperkt een reserve aanleggen met eigen inkomsten en subsidies.<br /><br />Een reserve wordt in de balans van een organisatie voor volkscultuur opgenomen als een onderdeel van het eigen vermogen en bestaat uit de volgende rekeningen, vermeld in de minimumindeling van het algemeen rekeningenstelsel, als bijlage gevoegd bij het koninklijk besluit van 19 december 2003 betreffende de<br /><br />boekhoudkundige verplichtingen en de openbaarmaking van de jaarrekening van bepaalde verenigingen zonder winstoogmerk, internationale verenigingen zonder winstoogmerk en stichtingen:<br /><br />1° rekening 13: bestemde fondsen;<br /><br />2° rekening 14: overgedragen resultaat.<br /><br />De aangelegde reserve wordt aangewend voor de realisatie van het beleidsplan, bedoeld in § 2.<br /><br />§ 6. Als de organisatie voor volkscultuur op het einde van de beleidsperiode nog beschikt over een reserve, aangelegd overeenkomstig § 5, kan die reserve overgedragen worden naar een volgende beleidsperiode op voorwaarde dat, ten opzichte van de bestaande reserve in het begin van de subsidieperiode, de aangroei<br /><br />niet meer bedraagt dan twintig percent van de gemiddelde jaarlijkse personeels- en werkingskosten berekend over de beleidsperiode.<br /><br />De personeels- en werkingskosten omvatten alle kosten die betrekking hebben op de uitvoering en de realisatie van het goedgekeurde beleidsplan en die in de voorbije beleidsperiode tot stand zijn gekomen.<br /><br />De personeels- en werkingskosten zijn de som van alle kosten, met uitzondering van de afschrijvingen op kapitaalsubsidies.<br /><br />De Vlaamse Regering kan, na advies van de Inspectie van Financiën, een afwijking toestaan van het in het eerste lid bepaalde percentage op voorwaarde dat de organisatie daartoe een gemotiveerd bestedingsplan voorlegt voor het teveel aan opgebouwde reserve of voor de gehele reserve, in te dienen bij de dienst, aangewezen door de Vlaamse Regering.<br /><br />De overgedragen reserve wordt aangewend voor de realisatie van het beleidsplan, bedoeld in § 2.<br /><br />§ 7. Als bij de afrekening van het laatste werkingsjaar van de beleidsperiode de aangroei van de reserve meer bedraagt dan hetgeen bepaald werd in § 6, dan wordt het teveel ingehouden op het nog uit te keren saldo van de werkingssubsidie, toegekend aan de organisatie voor volkscultuur, en wordt het eventueel daarna nog resterende bedrag in mindering gebracht op de voorschotten toegekend voor het eerste werkingsjaar van de nieuwe beleidsperiode tot een maximum van de werkingssubsidie toegekend voor het laatste jaar van de beleidsperiode.<br /><br />Als aan een organisatie voor volkscultuur na afloop van de beleidsperiode waarop het beleidsplan betrekking heeft, geen werkingssubsidies meer worden verleend, dan is de organisatie verplicht een gemotiveerd bestedingsplan voor de aangelegde reserve, aangelegd overeenkomstig § 5, in te dienen bij de dienst, aangewezen door de Vlaamse Regering. De reserve wordt in voorkomend geval prioritair aangewend voor het voldoen van de arbeidsrechtelijke verplichtingen.  <span class="reference">(ing. decr. 15 juli 2005, art. 3, I: 1 januari 2007)</span> ]
+...
 
 ## ONDERAFDELING D PROJECTSUBSIDIERING
 
 ### ART. 9.
 
-§ 1. Initiatieven, andere dan de overeenkomstig afdeling 1 van hoofdstuk II en artikel 14, § 1, van hoofdstuk III van dit decreet erkende organisaties, kunnen voor publicaties inzake Volkscultuur bij de administratie aanvragen tot financiële ondersteuning indienen.<br /><br />§ 2. De Vlaamse regering bepaalt de grootte van het hiervoor beschikbare krediet evenals de uitvoeringsregeling.
+...
 
 ## AFDELING 2 VLAAMS CENTRUM VOOR VOLKSCULTUUR
 
 ### ART. 10.
 
-§ 1. De Vlaamse regering wordt gemachtigd om, onder de in § 2 van dit artikel bepaalde voorwaarden, mee te werken aan de oprichting van een vzw Vlaams Centrum voor Volkscultuur, met het oog op het ondersteunen van de Vlaamse volkscultuur.<br /><br />§ 2. Het Vlaams Centrum voor Volkscultuur heeft als doelstelling:<br /><br />1° het verlenen van technische adviezen aan het beleid inzake de volkscultuur;<br /><br />2° het begeleiden, stimuleren en coördineren van wetenschappelijk onderzoek ter bevordering van de volkscultuur;<br /><br />3° het verzorgen van publicaties en het leggen van contacten met binnen- en buitenlandse universiteiten en wetenschappelijke instellingen;<br /><br />4° het ondersteunen van de Volkscultuur door deskundige inbreng te verschaffen;<br /><br />5° het organiseren van een documentatie- en informatiedienst ten behoeve van personen, verenigingen en instellingen;<br /><br />6° de administratie adviseren met betrekking tot de toekenning van subsidies van publicaties inzake volkscultuur, zoals bepaald in artikel 9.<br /><br />§ 3. De bestuursorganen van het Vlaams Centrum voor Volkscultuur worden samengesteld op basis van artikel 9, c), van de wet van 16 juli 1973 waarbij de bescherming van de ideologische en filosofische strekkingen gewaarborgd wordt. In de samenstelling wordt eveneens rekening gehouden met de aanwezigheid van deskundigen zowel vanuit het wetenschappelijk onderzoek van de Volkscultuur als vanuit het volkscultureel verenigingsleven.
+...
 
 ### ART. 11.
 
-Tussen de Vlaamse Gemeenschap en het Vlaams Centrum voor Volkscultuur wordt een overeenkomst gesloten waarin onder meer de subsidie vermeld in artikel 12 van dit decreet, de voorwaarden betreffende het bestuur, het toezicht en de werking worden vastgelegd.
+...
 
 ### ART. 12.
 
-§ 1. De subsidie van de Vlaamse Gemeenschap aan het Vlaams Centrum voor Volkscultuur omvat voor de periode vanaf de inwerkingtreding van dit decreet tot en met het jaar 2001 jaarlijks een bedrag van 12 miljoen frank waarmee minimaal drie voltijdse stafmedewerkers met een universitair einddiploma en één uitvoerend personeelslid in dienst worden genomen. § 2. Het bedrag in § 1 wordt gekoppeld aan het prijsindexcijfer zoals bepaald in artikel 15, §§ 1 en 2, van het decreet van 6 juli 1994 houdende bepalingen tot begeleiding van de aanpassing van de begroting 1994.<br /><br />§ 3. Het Centrum legt om de vijf jaar vanuit de bekommernis om een integrale kwaliteitszorg een beleidsplan voor aan de Vlaamse regering. Jaarlijks dient het centrum een tussentijds verslag in, samen met de afrekening van uitgaven en inkomsten van het betrokken jaar.<br /><br />Teneinde de subsidie in § 1 opnieuw te bepalen, maakt de bevoegde administratie om de vijf jaar een evaluatie op basis van enerzijds de rapportering door het centrum over de voorbije vijf jaar, en anderzijds het beleidsplan van het centrum voor de volgende vijf jaar.<br /><br />§ 4. Voor de eerste toepassing van § 3 loopt de periode vanaf de inwerkingtreding van dit decreet tot 31 december 2001.<br /><br />[§ 5. De jaarlijkse werkingssubsidie, bepaald binnen de perken van de beschikbare begrotingskredieten, wordt als volgt beschikbaar gesteld:<br /><br />1° vier voorschotten van telkens 22,5 percent van het subsidiebedrag dat voor dat werkingsjaar is toegekend, worden op zijn vroegst uitbetaald op respectievelijk 1 januari, 1 april, 1 juli en 1 oktober van het werkingsjaar;<br /><br />2° het saldo van 10 percent van het subsidiebedrag dat voor dat werkingsjaar is toegekend, wordt uitbetaald na controle op de naleving van de subsidievoorwaarden en na aanvaarding van de bewijsstukken door de administratie.<br /><br />De verantwoording van de jaarlijkse subsidie gebeurt op basis van het tussentijds verslag en de afrekening van uitgaven en inkomsten, bedoeld in § 3, het jaarplan en de begroting. Hiertoe legt het Vlaams Centrum voor Volkscultuur jaarlijks de jaarrekening van het vorige jaar met de nodige bewijsstukken voor, evenals een door de<br /><br />algemene vergadering goedgekeurde begroting.<br /><br />§ 6. Het Vlaams Centrum voor Volkscultuur kan gedurende de beleidsperiode onbeperkt een reserve aanleggen met eigen inkomsten en subsidies. Die reserve wordt in de balans van het Vlaams Centrum voor Volkscultuur opgenomen als een onderdeel van het eigen vermogen en bestaat uit de volgende rekeningen, vermeld in de<br /><br />minimumindeling van het algemeen rekeningenstelsel, als bijlage gevoegd bij het koninklijk besluit van 19 december 2003 betreffende de boekhoudkundige verplichtingen en de openbaarmaking van de jaarrekening van bepaalde verenigingen zonder winstoogmerk, internationale verenigingen zonder winstoogmerk en stichtingen:<br /><br />1° rekening 13: bestemde fondsen;<br /><br />2° rekening 14: overgedragen resultaat.<br /><br />De aangelegde reserve moet aangewend worden voor de realisatie van het beleidsplan, bedoeld in § 3.<br /><br />§ 7. Als het Vlaams Centrum voor Volkscultuur op het einde van de beleidsperiode nog beschikt over een reserve, aangelegd overeenkomstig §6, kan die reserve overgedragen worden naar een volgende beleidsperiode op voorwaarde dat, ten opzichte van de bestaande reserve in het begin van de subsidieperiode, de aangroei<br /><br />niet meer bedraagt dan twintig percent van de gemiddelde jaarlijkse personeels- en werkingskosten berekend over de beleidsperiode. De overgedragen reserve moet aangewend worden voor de realisatie van het beleidsplan, bedoeld in § 3.<br /><br />De personeels- en werkingskosten omvatten alle kosten die betrekking hebben op de uitvoering en de realisatie van het goedgekeurde beleidsplan en die in de voorbije beleidsperiode tot stand zijn gekomen.<br /><br />De personeels- en werkingskosten zijn de som van alle kosten, met uitzondering van de afschrijvingen op kapitaalsubsidies.<br /><br />De Vlaamse Regering kan, na advies van de Inspectie van Financiën, een afwijking toestaan van het in het eerste lid, bepaalde percentage op voorwaarde dat het Vlaams Centrum voor Volkscultuur daartoe een gemotiveerd bestedingsplan voorlegt voor het teveel aan opgebouwde reserve of voor de gehele reserve, in te dienen bij de dienst, aangewezen door de Vlaamse Regering.<br /><br />§ 8. Als bij de afrekening van het laatste werkingsjaar van de beleidsperiode de aangroei van de reserve meer bedraagt dan hetgeen bepaald werd in § 7, dan moet het teveel ingehouden worden van het nog uit te keren saldo van de werkingssubsidie, toegekend aan het Vlaams Centrum voor Volkscultuur, en wordt het eventueel daarna nog resterende bedrag in mindering gebracht op de voorschotten toegekend voor het eerste werkingsjaar van de nieuwe beleidsperiode tot een maximum van de werkingssubsidie toegekend voor het laatste jaar van de beleidsperiode.  <span class="reference">(ing. decr. 15 juli 2005, art. 4, I: 1 januari 2007)</span> ]
+...
 
 ## HOOFDSTUK III SLOTBEPALINGEN
 
 ### ART. 13.
 
-De grootte van het beschikbare krediet, de grootte van de projectsubsidies, evenals de grootte van de subsidies aan elke organisatie en aan het in afdeling 2 van hoofdstuk II geplande Vlaams Centrum voor Volkscultuur, worden, na het verstrijken van de periode vermeld in artikel 8, §§ 1 en 3, opnieuw bepaald.
+...
 
 ### ART. 14.
 
-§ 1. De organisaties die op het ogenblik van de datum van inwerkingtreding van dit decreet een werking ontplooien in het domein van de volkscultuur, en hiervoor door de afdeling Volksontwikkeling en Bibliotheken gesubsidieerd worden, zijn verplicht naar de regeling van dit decreet over te stappen en worden automatisch erkend. Het betreft organisaties die een experimentele werkingssubsidie ontvangen of gesubsidieerd worden in het kader van:<br /><br />1° het decreet van 19 april 1995 houdende de subsidieregeling voor verenigingen voor volksontwikkelingswerk;<br /><br />2° het decreet van 19 april 1995 houdende een subsidieregeling voor diensten voor sociaal-cultureel werk voor volwassenen en houdende een wijziging van het decreet van 2 januari 1976 tot erkenning en subsidiring van de Nederlandstalige koepelorganisaties voor beleidsvoorbereidend overleg in de sector van het sociaal-cultureel werk voor volwassenen.<br /><br />§ 2. De regeling van artikel 5, § 2, van dit decreet geldt eveneens voor de toepassing van § 1 van dit artikel.
+...
 
 ### ART. 15.
 
-Voor de organisaties, erkend krachtens artikel 14 van dit decreet, wordt tot 31 december 2001 de grootte van de jaarlijkse subsidies als volgt vastgesteld:<br /><br />1° de organisaties, voorheen erkend op basis van de decreten bedoeld in artikel 14, § 1, 1° en 2°, en actief in de sectoren familiekunde, heemkunde en algemene volkskunde ontvangen een subsidie van 2 miljoen frank met dien verstande dat de organisaties die voorheen op basis van voormelde decreten meer subsidies ontvingen dan het hier bepaalde subsidiebedrag, maximum 3 miljoen frank als subsidie kunnen ontvangen;<br /><br />2° de organisaties, voorheen erkend op basis van de decreten bedoeld in artikel 14, § 1, 1° en 2°, en actief in de sector van de gethematiseerde volkskunde, behouden hun subsidie, met als minimum een subsidiebedrag van 100 000 frank;<br /><br />3° de organisaties voor volkscultuur die voorheen een experimentele subsidie ontvingen, behouden hetzelfde subsidiebedrag.
+...
 
 ### ART. 16.
 
-(niet opgenomen)<br /><br />(Heft het koninklijk besluit van 23 november 1956 tot instelling van een Koninklijke Belgische Commissie voor Volkskunde op)
+...
 
 ### ART. 17.
 
-Dit decreet treedt in werking op 1 januari 1999.
+...

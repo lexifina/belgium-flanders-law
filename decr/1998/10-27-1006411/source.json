@@ -2,16 +2,16 @@
   "codex_id": 1006411,
   "title": "Decreet van 1998-10-27 houdende de erkenning en subsidiëring van organisaties voor volkscultuur en de oprichting van het Vlaams Centrum voor Volkscultuur",
   "type": "Decreet",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1006411/VolledigDocument?datum=2006-06-01",
-  "source_sha256": "f1b59ac667fdbf8eee553b4ceb6c5135597ad000034a77af762ac00631d5fd5f",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1006411/VolledigDocument?datum=2008-08-04",
+  "source_sha256": "362ce2cf1f6b5a8637814c9b6e515ff3674b6475d9ca2ea937f4c94a40275d22",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1006411&param=informatie",
-  "as_of": "2006-06-01",
+  "as_of": "2008-08-04",
   "made": "1998-10-27",
   "gazette": "1998-12-22",
   "numac": 1998036396,
   "document_start": "1999-01-01",
   "document_end": "2008-08-03",
-  "in_force": "2006-06-01",
+  "in_force": "2008-08-04",
   "article_versions": 17,
-  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2008-08-04; future article versions excluded; article text as the API gives it"
 }
