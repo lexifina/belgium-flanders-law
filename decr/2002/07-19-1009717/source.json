@@ -2,16 +2,16 @@
   "codex_id": 1009717,
   "title": "Decreet van 2002-07-19 houdende de privaatrechtelijke culturele archiefwerking",
   "type": "Decreet",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1009717/VolledigDocument?datum=2006-06-01",
-  "source_sha256": "ded8ded4599cc4db0c275bfca3fccfd16e3fadca2d855bdba784714c1cfffa26",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1009717/VolledigDocument?datum=2008-08-04",
+  "source_sha256": "378eb299854cfb4eb160abb45511a80749daaea479b06fcc9650089fd8cbe530",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1009717&param=informatie",
-  "as_of": "2006-06-01",
+  "as_of": "2008-08-04",
   "made": "2002-07-19",
   "gazette": "2002-10-01",
   "numac": 2002036231,
   "document_start": "2002-01-01",
   "document_end": null,
-  "in_force": "2006-06-01",
+  "in_force": "2008-08-04",
   "article_versions": 28,
-  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2008-08-04; future article versions excluded; article text as the API gives it"
 }
