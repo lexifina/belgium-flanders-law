@@ -1,0 +1,17 @@
+{
+  "codex_id": 1016941,
+  "title": "Decreet van 2008-05-23 betreffende een inhaalbeweging in sportinfrastructuur via alternatieve financiering",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1016941/VolledigDocument?datum=2008-08-06",
+  "source_sha256": "40d480ad9760aabf659269db91a8cf8ef653ef4249d96d16b8dc8f50c1674364",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1016941&param=informatie",
+  "as_of": "2008-08-06",
+  "made": "2008-05-23",
+  "gazette": "2008-08-06",
+  "numac": 2008202798,
+  "document_start": "2008-08-06",
+  "document_end": null,
+  "in_force": "2008-08-06",
+  "article_versions": 16,
+  "record_form": "consolidated version as in force on 2008-08-06; oldest version available; future article versions excluded; article text as the API gives it"
+}
