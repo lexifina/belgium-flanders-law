@@ -1,0 +1,17 @@
+{
+  "codex_id": 1016939,
+  "title": "Besluit van de Vlaamse Regering van 2008-04-11 tot vaststelling van de nadere regels met betrekking tot de vorm en de inhoud van de ruimtelijke uitvoeringsplannen",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1016939/VolledigDocument?datum=2008-08-11",
+  "source_sha256": "49e9b5358aaeebd38afd1b5f79740e6d0ce8fb2a4aaac4cec702eacda76641c3",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1016939&param=informatie",
+  "as_of": "2008-08-11",
+  "made": "2008-04-11",
+  "gazette": "2008-08-01",
+  "numac": 2008035699,
+  "document_start": "2008-08-11",
+  "document_end": null,
+  "in_force": "2008-08-11",
+  "article_versions": 71,
+  "record_form": "consolidated version as in force on 2008-08-11; oldest version available; future article versions excluded; article text as the API gives it"
+}
