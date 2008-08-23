@@ -1,0 +1,17 @@
+{
+  "codex_id": 1016957,
+  "title": "Decreet van 2008-07-10 houdende wijziging van het decreet van 24 juli 1996 houdende regeling tot erkenning van de instellingen voor schuldbemiddeling in de Vlaamse Gemeenschap",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1016957/VolledigDocument?datum=2008-08-23",
+  "source_sha256": "f4bdfbed838bdb77c7c11c7c60efd4faa599ed870bc42f2921bc69bd4e780c47",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1016957&param=informatie",
+  "as_of": "2008-08-23",
+  "made": "2008-07-10",
+  "gazette": "2008-08-13",
+  "numac": 2008202737,
+  "document_start": "2008-08-23",
+  "document_end": null,
+  "in_force": "2008-08-23",
+  "article_versions": 11,
+  "record_form": "consolidated version as in force on 2008-08-23; oldest version available; future article versions excluded; article text as the API gives it"
+}
