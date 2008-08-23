@@ -1,0 +1,17 @@
+{
+  "codex_id": 1016955,
+  "title": "Samenwerkingsakkoord van 2007-09-20 Avenant aan het Samenwerkingsakkoord van 30 mei 2005 tussen de Federale Staat, het Vlaams, het Waals en het Brussels Hoofdstedelijk Gewest en de Duitstalige gemeenschap betreffende de meerwaardeneconomie",
+  "type": "Samenwerkingsakkoord",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1016955/VolledigDocument?datum=2008-08-23",
+  "source_sha256": "87922a07286891503dedd08e6cdd406da026d6cfdd8ce844872749d9d8493be8",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1016955&param=informatie",
+  "as_of": "2008-08-23",
+  "made": "2007-09-20",
+  "gazette": "2008-08-13",
+  "numac": 200822433,
+  "document_start": "2008-08-23",
+  "document_end": null,
+  "in_force": "2008-08-23",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2008-08-23; oldest version available; future article versions excluded; article text as the API gives it"
+}
