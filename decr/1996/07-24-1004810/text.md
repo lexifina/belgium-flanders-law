@@ -8,13 +8,13 @@ Dit decreet regelt een gemeenschapsaangelegenheid.
 
 ### ART. 2.
 
-Dit decreet regelt de erkenning van instellingen die aan schuldbemiddeling, zoals bepaald in artikel 1, 13°, van de wet van 12 juni 1991 op het consumentenkrediet, doen.
+In dit decreet wordt onder schuldbemiddeling de dienstverlening verstaan als bedoeld in artikel 1, 13°, van de wet van 12 juni 1991 op het consumentenkrediet.
 
 ## HOOFDSTUK II Instellingen voor schuldbemiddeling
 
 ### ART. 3.
 
-De Vlaamse regering stelt de procedure vast voor de aanvraag tot erkenning en de hernieuwing ervan en voor de bekendmaking van beide. Tevens voorziet zij in een beroepsprocedure.<br /><br />Indien de aanvragende instelling erom verzoekt, moet zij worden gehoord.
+De Vlaamse Regering stelt de procedure vast voor de aanvraag tot erkenning van instellingen die aan schuldbemiddeling doen, de hernieuwing van de erkenning en voor de bekendmaking van de erkenning en hernieuwing.<br /><br />Indien de aanvragende instelling erom verzoekt, moet zij worden gehoord.
 
 ### ART. 4.
 
@@ -26,7 +26,7 @@ Komen enkel voor erkenning in aanmerking, die instellingen die behoeve van schul
 
 ### ART. 6.
 
-Onverminderd de bepalingen van artikel 5, komen voor erkenning in aanmerking:<br /><br />1° de openbare centra voor maatschappelijk welzijn;<br /><br />2° de door de Vlaamse regering erkende instellingen voor algemeen welzijnswerk.
+Onverminderd de bepalingen van artikel 5, komen voor erkenning in aanmerking:<br />1° de openbare centra voor maatschappelijk welzijn;<br />2° de door de Vlaamse regering autonome centra voor algemeen welzijnswerk die erkend zijn krachtens het decreet van 19 december 1997 betreffende het algemeen welzijnswerk.
 
 ### ART. 7.
 
@@ -38,13 +38,21 @@ De erkenning kan, niettegenstaande aan de hierboven in de artikelen 5, 6 en 7 ge
 
 ### ART. 9.
 
-§ 1. De erkende instellingen moeten, gebeurlijk om erkend te blijven of opnieuw erkend te worden, de volgende verplichtingen naleven:<br />1° in hun briefwisseling en op hun officiële stukken melding maken van hun erkenning als schuldbemiddelaar, met aanduiding van het erkenningsnummer;<br />2° de Vlaamse regering onverwijld in kennis te stellen van elke wijziging aangebracht aan de statuten en van benoemingen van bestuurders;<br />3° de Vlaamse regering onverwijld inlichten over de stopzetting van de schuldbemiddelingsactiviteiten; bij definitieve stopzetting van de activiteit wordt de erkenning ambtshalve geschrapt;<br />4° de Vlaamse regering onverwijld op de hoogte brengen in alle gevallen waarin ze niet meer voldoen aan de bij dit decreet vastgestelde erkenningsvoorwaarden;<br />5° in de loop van het eerste trimester dat volgt op het einde van elk boekjaar, een jaarverslag overmaken aan de Vlaamse regering;<br />6° zich onderwerpen aan het toezicht van de door de Vlaamse regering aangewezen ambtenaren en beambten;<br />7° de modelovereenkomst inzake schuldbemiddeling opgemaakt door de Vlaamse regering gebruiken.<br /><br />§ 2. Het jaarverslag, bedoeld in § 1, 5°, bevat een gestandaardiseerde registratie met betrekking tot de geboden schuldbemiddeling. De Vlaamse Regering legt door middel van een model de modaliteiten van die registratie vast.<br /><br />De Vlaamse Regering bepaalt verder de minimale voorwaarden waaraan het jaarverslag moet voldoen.<br />
+§ 1. De erkende instellingen voor schuldbemiddeling moeten, gebeurlijk om erkend te blijven of opnieuw erkend te worden, de volgende verplichtingen naleven:<br />1° in hun briefwisseling en op hun officiële stukken melding maken van hun erkenning als schuldbemiddelaar, met aanduiding van het erkenningsnummer;<br />2° de Vlaamse regering onverwijld in kennis te stellen van elke wijziging aangebracht aan de statuten en van benoemingen van bestuurders;<br />3° de Vlaamse regering onverwijld inlichten over de stopzetting van de schuldbemiddelingsactiviteiten; bij definitieve stopzetting van de activiteit wordt de erkenning ambtshalve geschrapt;<br />4° de Vlaamse regering onverwijld op de hoogte brengen in alle gevallen waarin ze niet meer voldoen aan de bij dit decreet vastgestelde erkenningsvoorwaarden;<br />5° in de loop van het eerste trimester dat volgt op het einde van elk boekjaar, een jaarverslag overmaken aan de Vlaamse regering;<br />6° zich onderwerpen aan het toezicht van de door de Vlaamse regering aangewezen ambtenaren en beambten;<br />7° de modelovereenkomst inzake schuldbemiddeling opgemaakt door de Vlaamse regering gebruiken.<br /><br />§ 2. Het jaarverslag, bedoeld in § 1, 5°, bevat een gestandaardiseerde registratie met betrekking tot de geboden schuldbemiddeling. De Vlaamse Regering legt door middel van een model de modaliteiten van die registratie vast.<br /><br />De Vlaamse Regering bepaalt verder de minimale voorwaarden waaraan het jaarverslag moet voldoen.<br />
 
 ### ART. 10.
 
 De erkenning kan door de Vlaamse regering onverwijld en met onmiddellijke ingang worden ingetrokken of geschorst voor de termijn die hij bepaalt, indien de bepalingen van dit decreet niet worden nageleefd.
 
+### ART. 10bis.
+
+De Vlaamse Regering kan de erkende instellingen voor schuldbemiddeling subsidiëren. Zij bepaalt hiertoe de regels met betrekking tot de aanvraag, de vaststelling, de toekenning en de vereffening van de subsidie.
+
 ## HOOFDSTUK III [... (opgeh. decr. 17 februari 2017, art. 17, I: 1 januari 2018)]
+
+### ART. 10ter.
+
+§ 1. De Vlaamse Regering kan een vereniging zonder winstoogmerk subsidiëren als Vlaams Centrum Schuldenlast wanneer deze vereniging aan de volgende voorwaarden voldoet :<br />1° de volgende actoren maken deel uit van de vereniging : <br />a) een organisatie die de consumenten vertegenwoordigt; <br />b) een organisatie die de openbare centra voor maatschappelijke welzijn in de Vlaamse Gemeenschap vertegenwoordigt;<br />c) een organisatie die de centra voor algemeen welzijnswerk vertegenwoordigt; <br />d) een organisatie die de Nederlandstalige balies van België vertegenwoordigt; <br />e) een organisatie die de Nederlandstalige notarissen vertegenwoordigt;<br />f) een organisatie die de Nederlandstalige gerechtsdeurwaarders vertegenwoordigt;<br />g) een beroepsvereniging die de sector van de kredietverstrekking aan natuurlijke personen vertegenwoordigt.<br />De Vlaamse Regering bepaalt de voorwaarden waaronder afwijkingen kunnen worden toegestaan op deze minimale samenstelling; <br />2° de raad van bestuur van de vereniging bestaat uit de actoren bedoeld in punt 1°, b) en c), en minstens twee andere actoren bedoeld in punt 1°; <br />3° de vereniging vervult minstens de volgende opdrachten :<br />a) zij bouwt expertise op rond de preventie en remediëring van schuldenproblemen;<br />b) zij verwerkt de gestandaardiseerde registratie bedoeld in artikel 9, § 2;<br />c) zij biedt permanente vorming en inhoudelijke ondersteuning aan personen die aan schuldbemiddeling doen; <br />d) zij ontwikkelt programma's rond de preventie van schuldenproblemen;<br />e) zij is verantwoordelijk voor de kwaliteitsbevordering en -bewaking bij de erkende instellingen voor schuldbemiddeling;<br />f) zij is verantwoordelijk voor een efficiënte en effectieve informatieverstrekking rond schuldbemiddeling;<br />g) zij formuleert beleidsaanbevelingen rond schuldenlast en doet hiervoor een beroep op een werkgroep die zij aanstuurt en die bestaat uit de actoren bedoeld in 1° en waarvoor ook de volgende actoren worden uitgenodigd :<br />1) het Vlaams Netwerk van verenigingen waar armen het woord nemen, bedoeld in het decreet van 21 maart 2003 betreffende de armoedebestrijding;<br />2) de Centrale voor kredieten aan particulieren van de Nationale Bank van België;<br />3) een vertegenwoordiger van de personen die activiteiten van minnelijke invordering van schulden ontwikkelen;<br />4) een rechter bij een arbeidsrechtbank of een raadsheer bij een arbeidshof; <br />5) een beslagrechter;<br />6) een vertegenwoordiger van de leveranciers van elektriciteit, aardgas en water;<br />7) een of meer deskundigen uit de academische wereld;<br />h) zij onderhoudt contacten met analoge centra in binnen- en buitenland.<br /><br />§ 2. De subsidie wordt toegekend op basis van een jaarplanning. <br /><br />De Vlaamse Regering bepaalt de nadere voorwaarden van de subsidiëring bedoeld in § 1. <br /><br />Het Vlaams Centrum Schuldenlast rapporteert jaarlijks over zijn activiteiten in de vorm van een inhoudelijk en financieel verslag. De Vlaamse Regering bepaalt de datum van indiening, de inhoud en de vorm van dat verslag.
 
 ## HOOFDSTUK IV Slotbepaling
 
