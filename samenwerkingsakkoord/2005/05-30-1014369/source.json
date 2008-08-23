@@ -2,16 +2,16 @@
   "codex_id": 1014369,
   "title": "Samenwerkingsakkoord van 2005-05-30 tussen de Federale Staat, het Vlaams, het Waals en het Brussels Hoofdstedelijk Gewest en de Duitstalige Gemeenschap betreffende de meerwaardeneconomie",
   "type": "Samenwerkingsakkoord",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1014369/VolledigDocument?datum=2008-01-01",
-  "source_sha256": "6119c9d49721e33fab46877ab762afced88fe57c9e26d041df1a1b0e9820cc45",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1014369/VolledigDocument?datum=2008-08-23",
+  "source_sha256": "598e95bc7ae28bfab30d9fcde88f3290393deedc8607e48b71485e7340f5e431",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1014369&param=informatie",
-  "as_of": "2008-01-01",
+  "as_of": "2008-08-23",
   "made": "2005-05-30",
   "gazette": "2006-03-15",
   "numac": 2006031109,
   "document_start": null,
   "document_end": null,
-  "in_force": "2008-01-01",
+  "in_force": "2008-08-23",
   "article_versions": 23,
-  "record_form": "consolidated version as in force on 2008-01-01; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2008-08-23; future article versions excluded; article text as the API gives it"
 }
