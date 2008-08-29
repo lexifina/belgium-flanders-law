@@ -132,7 +132,7 @@ In geval van terugvordering wordt de Europese referentierentevoet voor terugvord
 
 ### ART. 27.
 
-Deze regelgeving valt onder de toepassing van verordening (EG) nr. 70/2001 van de Commissie van 12 januari 2001 betreffende de toepassing van de artikelen 87 en 88 van het EG-Verdrag op staatssteun voor kleine en middelgrote ondernemingen (PB L 010 van 13 januari 2001, blz. 33-42).
+Deze regelgeving valt onder de toepassing van Verordening (EG) nr. 800/2008 van de Commissie van 6 augustus 2008 waarbij bepaalde categorieën steun op grond van de artikelen 87 en 88 van het Verdrag met de gemeenschappelijke markt verenigbaar worden verklaard (de algemene vrijstellingsverordening), en de eventuele latere wijzigingen van die verordening (PB L 214 van 9 augustus 2008, blz. 3).
 
 ## HOOFDSTUK IX OPHEFFINGSBEPALING
 
