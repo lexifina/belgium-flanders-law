@@ -1,0 +1,17 @@
+{
+  "codex_id": 1017022,
+  "title": "Besluit van de Vlaamse Regering van 2008-07-04 tot wijziging van sommige regelgeving betreffende de jacht",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1017022/VolledigDocument?datum=2008-08-29",
+  "source_sha256": "5290cc31c77174cd6d34b05d90a7ef32cc6514bdc1560ad705157ba745b931d7",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1017022&param=informatie",
+  "as_of": "2008-08-29",
+  "made": "2008-07-04",
+  "gazette": "2008-08-29",
+  "numac": 2008036031,
+  "document_start": "2008-08-29",
+  "document_end": null,
+  "in_force": "2008-08-29",
+  "article_versions": 15,
+  "record_form": "consolidated version as in force on 2008-08-29; oldest version available; future article versions excluded; article text as the API gives it"
+}
