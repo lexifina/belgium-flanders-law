@@ -1,0 +1,17 @@
+{
+  "codex_id": 1016971,
+  "title": "Besluit van de Vlaamse Regering van 2008-04-11 tot tijdelijke erkenning van de opleiding \"Master of Tropical Natural Resources Management\" van de Katholieke Universiteit Leuven",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1016971/VolledigDocument?datum=2008-08-30",
+  "source_sha256": "b8d5487170074b951b3df1852750da3873e5a286341e859def677e5388b7e66b",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1016971&param=informatie",
+  "as_of": "2008-08-30",
+  "made": "2008-04-11",
+  "gazette": "2008-08-20",
+  "numac": 2008202791,
+  "document_start": "2008-08-30",
+  "document_end": null,
+  "in_force": "2008-08-30",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2008-08-30; oldest version available; future article versions excluded; article text as the API gives it"
+}
