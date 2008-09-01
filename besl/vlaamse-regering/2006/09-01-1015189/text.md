@@ -13,10 +13,10 @@ Dit besluit is van toepassing op de door de Vlaamse Gemeenschap gefinancierde en
 ### ART. 2.
 
 Voor de toepassing van dit besluit wordt verstaan onder :<br>
-1° aanvullende lestijden : de aanvullende lestijden, vermeld in artikel 138, § 1, 7°,&nbsp;van het decreet Basisonderwijs van 25 februari 1997;<br>
+1° aanvullende lestijden : de aanvullende lestijden, vermeld in artikel 138, § 1, 7°, van het decreet Basisonderwijs van 25 februari 1997;<br>
 2° decreet : het decreet Basisonderwijs van 25 februari 1997;<br>
 3° departement : bevoegde dienst of ambtenaar van het Departement Onderwijs en Vorming;<br>
-4° leerling TNN (leerling met thuistaal niet het Nederlands) : leerling van wie de taal die gebruikt wordt voor de gangbare communicatie in het gezin niet het Nederlands is. De thuistaal niet het Nederlands wordt bewezen aan de hand van een verklaring op eer door de ouders;<br>
+4° leerling TNN (leerling met thuistaal niet het Nederlands) : leerling die in het gezin bestaande uit vader en/of moeder en/of broers en zussen ofwel met niemand ofwel in een gezin met drie gezinsleden (de leerling niet meegerekend) met maximaal één gezinslid Nederlands spreekt; broers en zussen worden als één gezinslid beschouwd. De thuistaal niet het Nederlands wordt bewezen aan de hand van een verklaring op eer door de ouders.<br>
 5° minister : de Vlaamse minister, bevoegd voor het onderwijs;<br>
 6° randgemeenten : de gemeenten van het Vlaamse Gewest, genoemd in artikel 7 van de wetten op het gebruik van de talen in bestuurszaken, gecoördineerd op 18 juli 1966;<br>
 7° taalgrensgemeenten : de gemeenten van het Vlaamse Gewest, genoemd in artikel 3, 1°, van de wet van 30 juli 1963 houdende taalregeling in het onderwijs.<br>
@@ -26,7 +26,7 @@ Voor de toepassing van dit besluit wordt verstaan onder :<br>
 
 ### ART. 3.
 
-Met toepassing van artikel 138, § 1, 7° , van het decreet worden aan de scholen die op de eerste schooldag van februari voorafgaand aan de tweejaarlijkse periode zoals bepaald in artikel 5, minstens 10 % leerlingen TNN telden, wekelijks aanvullend bij de lestijden volgens de schalen, lestijden voor de integratie van de anderstalige leerlingen gefinancierd of gesubsidieerd.<br>
+Met toepassing van artikel 138, § 1, 7° , van het decreet worden aan de scholen die op de eerste schooldag van februari voorafgaand aan de driejaarlijkse periode zoals bepaald in artikel 5, minstens 10 % leerlingen TNN telden, wekelijks aanvullend bij de lestijden volgens de schalen, lestijden voor de integratie van de anderstalige leerlingen gefinancierd of gesubsidieerd.<br>
 <br>
 Deze aanvullende lestijden hebben tot doel de integratie van het grote aantal anderstalige leerlingen te bevorderen en een eventuele leerbedreiging en leerachterstand tegen te gaan.
 
@@ -36,7 +36,7 @@ Deze aanvullende lestijden hebben tot doel de integratie van het grote aantal an
 
 ### ART. 5.
 
-Het aantal aanvullende lestijden dat een school bekomt met toepassing van artikel 4 wordt toegekend voor een periode van twee opeenvolgende schooljaren.<br /><br />De eerste tweejaarlijkse cyclus start vanaf het schooljaar 2006-2007.<br /><br />Programmaties, fusies en herstructureringen hebben geen invloed op het toegekende aantal aanvullende lestijden per school.<br /><br />
+Het aantal aanvullende lestijden dat een school bekomt met toepassing van artikel 4 wordt toegekend voor een periode van drie opeenvolgende schooljaren.<br /><br />De eerste driejaarlijkse cyclus start vanaf het schooljaar 2008-2009.<br /><br />Programmaties, fusies en herstructureringen hebben geen invloed op het toegekende aantal aanvullende lestijden per school.
 
 ### ART. 6.
 
