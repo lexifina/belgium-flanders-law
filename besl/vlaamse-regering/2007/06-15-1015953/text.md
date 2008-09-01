@@ -6,11 +6,11 @@ De Vlaamse Regering,<br /><br />Gelet op het decreet van 2 maart 1999 tot regeli
 
 ### ART. 1.
 
-Het Centrum voor Volwassenenonderwijs Deurne, Frank Craeybeckxlaan 22, in 2100 Deurne, wordt gemachtigd om in de gemeente Oostende de gefinancierde maritieme opleiding : dek en motoren te organiseren.<br />
+<P>...</P>
 
 ### ART. 2.
 
-Het Centrum voor Volwassenenonderwijs Horito, de Merodelei 220, in 2300 Turnhout, wordt gemachtigd om in de gemeente Beerse de gefinancierde opleiding polyvalent verzorgende te organiseren.<br />
+<P>...</P>
 
 ### ART. 3.
 
