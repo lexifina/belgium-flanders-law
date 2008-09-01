@@ -1,0 +1,17 @@
+{
+  "codex_id": 1017034,
+  "title": "Besluit van de Vlaamse Regering van 2008-05-16 tot wijziging van het besluit van de Vlaamse Regering van 17 juni 1997 betreffende de personeelsformatie in het buitengewoon basisonderwijs, het besluit van de Vlaamse Regering van 17 juni 1997 betreffende de personeelsformatie in het gewoon basisonderwijs en het besluit van de Vlaamse Regering van 7 juli 1998 betreffende het omrekeningspercentage en het puntengewicht voor de vaststelling van het werkingsbudget basisonderwijs",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1017034/VolledigDocument?datum=2008-09-01",
+  "source_sha256": "d2f79e0170983f9cb7ed7e61801e8bf41f49ee2ff49d6dca721cb357bd5e1d99",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1017034&param=informatie",
+  "as_of": "2008-09-01",
+  "made": "2008-05-16",
+  "gazette": "2008-09-04",
+  "numac": 2008203009,
+  "document_start": "2008-09-01",
+  "document_end": null,
+  "in_force": "2008-09-01",
+  "article_versions": 16,
+  "record_form": "consolidated version as in force on 2008-09-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
