@@ -6,7 +6,15 @@
 
 ## Afdeling I VZW Voorrangsbeleid Brussel
 
+### ART. 2.
+
+In artikel 22, § 2, van het decreet van 30 november 2007 betreffende het flankerend onderwijsbeleid op lokaal niveau worden de woorden « 31 augustus 2008 » vervangen door de woorden « 31 december 2009 ».<br /><br />
+
 ## Afdeling II VZW Brussels Ondersteuningscentrum secundair onderwijs
+
+### ART. 4.
+
+In artikel X.7 van het decreet van 22 juni 2007 betreffende het onderwijs XVII worden de woorden « 31 augustus 2008 » vervangen door de woorden « 31 december 2010 ».<br /><br />
 
 ## Afdeling III Centra voor leerlingenbegeleiding
 
@@ -22,6 +30,10 @@
 
 ## Afdeling VII VZW Werkgroep Immigratie
 
+### ART. 11.
+
+In artikel 23, § 2, van het decreet van 30 november 2007 betreffende het flankerend onderwijsbeleid op lokaal niveau wordt het jaartal « 2008 » vervangen door het jaartal « 2010 ».<br /><br />
+
 ## Afdeling VIII Instituut voor Europese Studies
 
 ## Afdeling IX Werkingsbudgetten leerplichtonderwijs
@@ -31,6 +43,10 @@
 ## Afdeling I Leegstandsheffing woningen
 
 ## Afdeling II Leegstandsheffing bedrijfsruimten
+
+### ART. 20.
+
+Aan artikel 17, § 2, van het decreet van 19 april 1995 houdende maatregelen ter bestrijding en voorkoming van leegstand en verwaarlozing van bedrijfsruimten, het laatst gewijzigd bij decreet van 23 juni 2006, wordt een derde lid toegevoegd, dat luidt als volgt :<br />« Het Vernieuwingsfonds heeft verder als doel, met ingang van 1 juli 2008 en tot een nader door de Vlaamse Regering te bepalen datum, doch uiterlijk tot 1 juli 2013, alle kosten, met inbegrip van de desbetreffende personeels-, werkings- en informaticakosten te dragen die gepaard gaan met de inning en invordering en de bezwaar- en geschilafhandeling van de planbatenheffing, zoals bedoeld in titel II, hoofdstuk VIII, afdeling II, van het decreet van 18 mei 1999 houdende de organisatie van de ruimtelijke ordening, zoals later gewijzigd, alsook aan de voorbereiding van deze inning. ».<br /><br />
 
 ## Afdeling III Successierechten
 
