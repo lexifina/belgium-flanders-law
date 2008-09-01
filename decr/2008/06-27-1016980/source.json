@@ -1,0 +1,17 @@
+{
+  "codex_id": 1016980,
+  "title": "Decreet van 2008-06-27 houdende instemming met het Protocol tot wijziging (wijzigingen aan de Conventie voor het Europees Centrum voor Weervoorspellingen op Middellange Termijn, en aan het Protocol over de voorrechten en immuniteiten van het Europees Centrum voor Weersvoorspellingen op Middellange Termijn, ondertekend in Brussel, op 11 oktober 1973), aangenomen op 22 april 2005",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1016980/VolledigDocument?datum=2008-09-01",
+  "source_sha256": "fba509601f53e53b076ad731c09aa0d7343e5ef5461efc766ad000b8d43e61e4",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1016980&param=informatie",
+  "as_of": "2008-09-01",
+  "made": "2008-06-27",
+  "gazette": "2008-08-22",
+  "numac": 2008202891,
+  "document_start": "2008-09-01",
+  "document_end": null,
+  "in_force": "2008-09-01",
+  "article_versions": 2,
+  "record_form": "consolidated version as in force on 2008-09-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
