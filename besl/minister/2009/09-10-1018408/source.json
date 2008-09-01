@@ -1,0 +1,17 @@
+{
+  "codex_id": 1018408,
+  "title": "Ministerieel besluit van 2009-09-10 tot wijziging van het ministerieel besluit van 2 juni 2009 tot toekenning van een beëindigingspremie voor de definitieve onttrekking van vissersvaartuigen aan de zeevisserijactiviteit in het kader van een vlootaanpassingsregeling",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1018408/VolledigDocument?datum=2008-09-01",
+  "source_sha256": "413901cdd09723837f2bee7c6719359accb11743b3a3c62686e0e9ecb856c576",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1018408&param=informatie",
+  "as_of": "2008-09-01",
+  "made": "2009-09-10",
+  "gazette": "2009-09-24",
+  "numac": 2009035923,
+  "document_start": "2008-09-01",
+  "document_end": null,
+  "in_force": "2008-09-01",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2008-09-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
