@@ -2,16 +2,16 @@
   "codex_id": 1014315,
   "title": "Besluit van de Vlaamse Regering van 2005-11-18 betreffende de modulaire structuur van het secundair onderwijs voor sociale promotie voor het studiegebied Huishoudelijk Onderwijs",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1014315/VolledigDocument?datum=2006-06-01",
-  "source_sha256": "e64430872a073d948ab51e97448f4b03dd617164f378f9a93503275afc94cdab",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1014315/VolledigDocument?datum=2008-09-01",
+  "source_sha256": "e7060208c11fe0112a1696a7994b77319db29edeb1fce69242913a61bb5cb6cd",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1014315&param=informatie",
-  "as_of": "2006-06-01",
+  "as_of": "2008-09-01",
   "made": "2005-11-18",
   "gazette": "2006-02-28",
   "numac": 2006035077,
   "document_start": "2005-09-01",
   "document_end": "2008-08-31",
-  "in_force": "2006-06-01",
+  "in_force": "2008-09-01",
   "article_versions": 5,
-  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2008-09-01; future article versions excluded; article text as the API gives it"
 }
