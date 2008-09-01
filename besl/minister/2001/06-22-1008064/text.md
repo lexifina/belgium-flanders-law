@@ -28,6 +28,14 @@ Om het formuleren van beleidsopties mogelijk te maken, moeten de op individueel 
 
 § 1. De gegevens, genoemd in artikel 4 en in de bij dit besluit gevoegde tabellen, worden, met uitzondering van de gegevens aangaande de vaccinaties, geregistreerd op een gefaseerde wijze naargelang de beschikbaarheid van de onderzoeksprotocollen.<br /><br />§ 2. In afwachting van de uitvoering van de richtlijnen, vermeld in artikel 3, § 2, delen de centra minstens de in dit besluit vermelde gegevens met betrekking tot de vaccinaties jaarlijks mee aan de Vlaamse minister, bevoegd voor het gezondheidsbeleid.
 
+### ART. 7bis.
+
+Het centrum registreert gegevens over activiteiten met betrekking tot lezen en spellen, het attest buitengewoon onderwijs en het GON-attest, pesten en gepest worden; en de problematische afwezigheden van de leerling.
+
+### ART. 7ter.
+
+De door de centra geregistreerde gegevens, vermeld in artikelen 4, 5, 6 en 7bis, worden in het multidisciplinair dossier bijgehouden op basis van het rijksregisternummer of bisnummer van de leerling, en worden jaarlijks elektronisch in een gestandaardiseerde vorm bezorgd aan de Vlaamse minister, bevoegd voor het Onderwijs, overeenkomstig de richtlijnen van de Vlaamse minister, bevoegd voor het Onderwijs.<br /><br />De richtlijnen vermeld in het eerste lid, houden voor de gegevens vermeld in artikelen 4, 5, 6 en 7bis in dat die gegevens op een dergelijke wijze door de centra verzonden worden dat ze uniek zijn, maar niet langer met een geïdentificeerd of identificeerbaar persoon in verband gebracht kunnen worden.<br /><br />De Vlaamse minister, bevoegd voor het Onderwijs, bezorgt de gegevens, vermeld in artikelen 4, 5 en 6, vervolgens aan de administratie.<br /><br />In afwijking van het tweede lid bezorgen de centra de gegevens over het attest buitengewoon onderwijs en het GON-attest aan de Vlaamse minister, bevoegd voor het Onderwijs, met vermelding van het rijksregisternummer of bisnummer van de betrokken leerling.
+
 ### ART. 8.
 
 Dit besluit treedt in werking op 1 september 2001.
