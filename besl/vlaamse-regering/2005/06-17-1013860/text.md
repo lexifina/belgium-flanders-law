@@ -2,40 +2,40 @@
 
 ### ART. 1.
 
-In dit besluit wordt verstaan onder:<br /><br />1° de minister: de Vlaamse minister, bevoegd voor het Onderwijs;<br /><br />2° het departement: het departement Onderwijs van het ministerie van de Vlaamse Gemeenschap;<br /><br />3° decreet: het decreet van 13 juli 2001 betreffende het onderwijs-XIII-Mozaïek;<br /><br />4° Regionaal Technologisch Centrum: een organisatie als bedoeld in artikel XII.1 van het decreet;<br /><br />5° prioritaire studiegebieden: door de minister aangeduide studiegebieden waarvoor ingediende aanvragen voorrang krijgen;<br /><br />6° project: een samenwerking tussen onderwijsinstellingen, erkend gefinancierd en/of gesubsidieerd door het departement Onderwijs, van het technisch en beroepssecundair onderwijs, met inbegrip van het deeltijds beroepssecundair onderwijs en het buitengewoon secundair onderwijs, in de provincie waarin het RTC gelegen is, én andere organisaties zoals onder meer bedrijven, andere opleidingsverstrekkers en openbare besturen met het oog op:<br /><br />- het verkrijgen van de toegang voor secundaire scholen en centra voor volwassenenonderwijs tot hoogtechnologische apparatuur en infrastructuur<br /><br />- het vergemakkelijken van de overgang tussen de wereld van onderwijs en de wereld van tewerkstelling voor leerlingen secundair onderwijs met uitsluiting van promotie-acties voor technisch en beroepssecundair onderwijs of acties rond beroepskeuze.
+...
 
 ### ART. 2.
 
-De subsidie projectfinanciering, bedoeld in artikel XII.7 van het decreet, kan binnen de perken van de beschikbare begrotingskredieten aan een RTC worden verleend onder de in dit besluit vermelde voorwaarden.
+...
 
 ### ART. 3.
 
-§ 1. De minister stelt een commissie samen die bestaat uit:<br /><br />1° twee vertegenwoordigers voorgedragen door de minister, bevoegd voor onderwijs<br /><br />2° een vertegenwoordiger voorgedragen door de minister, bevoegd voor werk<br /><br />§ 2. De administratie wordt waargenomen door het departement Onderwijs.
+...
 
 ### ART. 4.
 
-De subsidie projectfinanciering bedraagt maximaal 50 % van de aanvaardbare projectkosten.<br /><br />De aanvaardbare projectkosten zijn de kosten die direct en uitsluitend aan het project zijn te relateren.<br /><br />De aangevraagde subsidie mag maximaal 50 000 euro bedragen.
+...
 
 ### ART. 5.
 
-§ 1. De subsidie wordt toegekend volgens een wedstrijdformule waarbij de minister na een oproep een vooraf bepaalde subsidie-enveloppe verdeelt onder de best gerangschikte aanvragen.<br /><br />§ 2. Bedoelde oproep vermeldt het totaal te verdelen subsidiebedrag, desgevallend de gekozen prioritaire studiegebieden en de termijn voor het indienen van de aanvragen.<br /><br />§ 3. De aanvrager die een subsidie wenst te ontvangen in het kader van dit besluit, dient naar aanleiding van de oproep en binnen de vermelde termijn een aanvraag in. Deze aanvraag bestaat uit een volledig ingevuld gestandaardiseerd aanvraagformulier, het projectplan met timing en de projectbegroting. Elk RTC kan per oproep maximaal twee verschillende projecten indienen. De minister bepaalt het model van bedoelde documenten.<br /><br />§ 4. Het departement onderzoekt de ontvankelijkheid van de aanvragen binnen maximaal dertig kalenderdagen na afsluiting van de oproep. Een aanvraag is ontvankelijk wanneer aan de volgende voorwaarden cumulatief is voldaan:<br /><br />1° de aanvraag is tijdig ingediend;<br /><br />2° de aanvraag is ondertekend en correct ingevuld;<br /><br />3° de aanvraag bevat het bewijs dat het vereiste cofinancieringsbedrag van 50 % zal bekomen worden via (een) ondertekende samenwerkingsovereenkomst(en);<br /><br />4° de aanvraag beschrijft een project met een looptijd van ten hoogste twaalf maanden;<br /><br />5° de aangevraagde subsidie bedraagt niet meer dan 50.000 euro;<br /><br />6° de aanvraag gaat niet over een project dat voorheen reeds krachtens dit besluit gesubsidieerd werd.<br /><br />§ 5. De aanvrager kan, op verzoek van de administratie, zijn aanvraag vervolledigen tot veertien kalenderdagen na de afsluiting van de oproep.<br /><br />§ 6. De ontvankelijke projecten worden ter beoordeling voorgelegd aan de commissie, die de projecten binnen maximaal twintig kalenderdagen na de afsluiting van het ontvankelijkheidsonderzoek onderzoekt aan de hand van volgende gelijkwaardige beoordelingscriteria:<br /><br />1° samenwerking: ter uitvoering van art. XII.7, § 2, tweede lid, 2° van het decreet, de mate waarin verschillende scholen en organisaties binnen het project en haar aansturing betrokken zijn;<br /><br />2° netoverstijging: ter uitvoering van art. XII.7, § 2, tweede lid, 3° van het decreet, de mate waarin binnen het project leerlingen van scholen uit verschillende netten kunnen deelnemen;<br /><br />3° inhoud: ter uitvoering van art. XII.7, § 2, tweede lid, 1° van het decreet, de relevantie en haalbaarheid van het project in het licht van het probleem of de behoefte die ten grondslag ligt van het project;<br /><br />4° leerlingenbereik: ter uitvoering van art. XII.7, § 2, tweede lid, 3° van het decreet, de mate waarin binnen het project de leerlingen secundair onderwijs en desgevallend cursisten volwassenenonderwijs bereikt worden;<br /><br />5° voorbeeldfunctie: ter uitvoering van art. XII.7, § 2, tweede lid, 4° van het decreet, de mate waarin het project toepasbaar en overdraagbaar isevenals de relevantie op lange termijn;<br /><br />6° kwaliteit: ter uitvoering van art. XII.7, § 2, tweede lid, 1° van het decreet, de mate waarin het bereiken van de vooropgestelde doelen gegarandeerd wordt.<br /><br />§ 7. Vooraleer ze overgaat tot de beoordeling van de projecten, kan de commissie beslissen een hoorzitting te organiseren, mocht zij zulke hoorzitting wenselijk of opportuun achten. Op deze hoorzitting krijgen de RTC's de kans om hun projecten toe te lichten.<br /><br />§ 8. De commissie rangschikt de projecten op basis van de beoordelingscriteria en legt de rangschikking ter bekrachtiging aan de minister voor. Van de als waardevol gerangschikte projecten wordt er ten minste een toegekend aan ieder RTC dat een als waardevol beoordeeld project inleverde.<br /><br />§ 9. Het komt de commissie toe om bij de beoordeling van de projecten aan de hand van de criteria, vermeld in § 6, zelf haar werkzaamheden of werkwijze naar best vermogen te organiseren en de meest werkbare methode te bepalen en te hanteren.<br /><br />§ 10. De minister bekrachtigt de rangschikking van de commissie binnen maximaal dertig kalenderdagen na afsluiting van het ontvankelijkheidsonderzoek. De subsidie wordt toegekend volgens de plaats in de rangschikking, in afnemende volgorde te beginnen bij de eerste tot uitputting van het beschikbare budget. Indien het saldo ontoereikend is om de eerstvolgende aanvraag of de eerstvolgende aanvragen volledig te subsidiëren, wordt met dit saldo geen subsidie meer toegekend.<br /><br />§ 11. De beslissing tot subsidiÙring wordt binnen maximaal vijfenveertig kalenderdagen na afsluiting van het ontvankelijkheidsonderzoek genomen bij ministerieel besluit. Dit besluit wordt, binnen veertien kalenderdagen na de datum van ondertekening ervan, betekend aan de RTC's die in aanmerking komen. Dit besluit omvat minimaal de volgende elementen:<br /><br />1° rangschikking van de projecten, met vermelding van de RTC's die in aanmerking komen voor een subsidie;<br /><br />2° de toegekende subsidiebedragen per in aanmerking komend project.<br /><br />§ 12. Het RTC dat een project indient dat niet voldoet aan de ontvankelijkheidscriteria of beoordelingscriteria of van een project waarvoor geen budget meer beschikbaar is, wordt hiervan in kennis gesteld binnen veertien kalenderdagen na de datum van het ministerieel besluit, vermeld in § 11.<br /><br />§ 13. Het RTC kan een project dat niet gesubsidieerd werd omwille van de uitputting van het beschikbare budget bij een volgende oproep opnieuw indienen.
+...
 
 ### ART. 6.
 
-De projecttermijn kan, tijdens de uitvoering en enkel met het oog op kwaliteitsvolle afwerking van het project op vraag van het RTC verlengd worden met een door de administratie te bepalen periode.
+...
 
 ### ART. 7.
 
-De subsidie wordt uitbetaald overeenkomstig volgende nadere regelen: een eerste schijf ten belope van 90 % van de subsidie wordt betaald, onmiddellijk na ondertekening van het ministerieel besluit. Het saldo wordt betaald na goedkeuring van de door het RTC uiterlijk 45 kalenderdagen na het afsluiten van het project voor te leggen volgende documenten:<br /><br />1° een projectverslag, bestaande uit een activiteitenverslag en een financieel verslag;<br /><br />2° een afschrift van alle bewijsstukken betreffende de gemaakte kosten.<br /><br />Deze documenten worden in drie exemplaren ingediend bij het ministerie van de Vlaamse Gemeenschap, departement Onderwijs, afdeling Beleidsvoorbereiding Secundaire Scholen, Koning Albert II-laan 15, 1210 Brussel.
+...
 
 ### ART. 8.
 
-De door de minister daartoe aangewezen ambtenaren van het ministerie van de Vlaamse Gemeenschap, departement Onderwijs, oefenen het toezicht en de controle uit op de aanwending van de subsidie projectfinanciering door de RTC's.
+...
 
 ### ART. 9.
 
-Dit besluit treedt in werking op 1 juli 2005.
+...
 
 ### ART. 10.
 
-De Vlaamse minister, bevoegd voor het Onderwijs, is belast met de uitvoering van dit besluit.
+...

@@ -2,16 +2,16 @@
   "codex_id": 1013860,
   "title": "Besluit van de Vlaamse Regering van 2005-06-17 betreffende de subsidie projectfinanciering voor Regionale Technologische Centra",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1013860/VolledigDocument?datum=2006-06-01",
-  "source_sha256": "4b1960da3180160c486261fa7a4ee3b7bf577d85b5261be9c480b26267a29314",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1013860/VolledigDocument?datum=2008-09-01",
+  "source_sha256": "565ed23f3b2d75ee9f6a97d5515d873256440b4a12e73995991807d21abfb0c9",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1013860&param=informatie",
-  "as_of": "2006-06-01",
+  "as_of": "2008-09-01",
   "made": "2005-06-17",
   "gazette": "2005-07-15",
   "numac": 2005035812,
   "document_start": "2005-07-01",
   "document_end": "2008-08-31",
-  "in_force": "2006-06-01",
+  "in_force": "2008-09-01",
   "article_versions": 10,
-  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2008-09-01; future article versions excluded; article text as the API gives it"
 }
