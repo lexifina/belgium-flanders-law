@@ -67,7 +67,7 @@ Van dit overleg wordt een proces-verbaal opgemaakt dat wordt ondertekend door de
 
 ### ART. 11.
 
-Dit hoofdstuk is van toepassing op de instellingen die deeltijds onderwijs of onderwijs voor sociale promotie inrichten, georganiseerd, erkend of gesubsidieerd door de Vlaamse Gemeenschap. Dit hoofdstuk is niet van toepassing op de centra voor deeltijds beroepssecundair onderwijs.
+Dit hoofdstuk is van toepassing op de instellingen die deeltijds onderwijs inrichten, georganiseerd, erkend of gesubsidieerd door de Vlaamse Gemeenschap. Dit hoofdstuk is niet van toepassing op de centra voor deeltijds beroepssecundair onderwijs.
 
 ### ART. 12.
 
