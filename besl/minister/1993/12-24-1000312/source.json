@@ -2,16 +2,16 @@
   "codex_id": 1000312,
   "title": "Ministerieel besluit van 1993-12-24 houdende de vaststelling van de salarisschalen voor de personeelsleden tewerkgesteld in de erkende voorzieningen bijzondere jeugdbijstand",
   "type": "Ministerieel besluit",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1000312/VolledigDocument?datum=2006-06-01",
-  "source_sha256": "2c685920f9c12a92f6274af2f810b80557f252f4b9a505ca77ab4aaea02a4c84",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1000312/VolledigDocument?datum=2008-09-01",
+  "source_sha256": "97fa7bc3edb93ab421342b6935f0454138936f0dd17410d69afba2471b4b4208",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1000312&param=informatie",
-  "as_of": "2006-06-01",
+  "as_of": "2008-09-01",
   "made": "1993-12-24",
   "gazette": "1994-03-25",
   "numac": 0,
   "document_start": null,
   "document_end": "2008-08-31",
-  "in_force": "2006-06-01",
+  "in_force": "2008-09-01",
   "article_versions": 4,
-  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2008-09-01; future article versions excluded; article text as the API gives it"
 }
