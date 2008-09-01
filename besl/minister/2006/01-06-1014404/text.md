@@ -528,7 +528,7 @@ In de andere gevallen verandert een persoon van zorgkas door aan de nieuwe zorgk
 
 <p>Dit bestand bevat alle via het mutatieformulier van de zorgverzekering aangevraagde mutaties en alle door mutualistische zorgkassen aan te vragen mutaties op basis van verandering van ziekenfonds.<br>
 • In voorkomend geval levert het Vlaams Zorgfonds dit tekstbestand via mail ten laatste op 10 december terug aan de nieuwe zorgkas aangevuld met de code van de afstaande zorgkas.<br>
-</p>
+&lt;</p>
 
 <table border="1" cellpadding="0" cellspacing="0" style="border-collapse:collapse">
 	<tbody>
@@ -2269,55 +2269,29 @@ AFDELING I<br>
 <br>
 MANTEL- EN THUISZORG EN PERSOONLIJK ASSISTENTIEBUDGET (PAB)<br>
 <br>
-163. Personen hebben geen recht op de uitvoering van een tenlasteneming voor mantel- en thuiszorg indien ze een beroep doen op het persoonlijk assistentiebudget (PAB). In voorkomend geval worden de tenlastenemingen voor mantel- en thuiszorg opgeschort vanaf de eerste dag van de maand na de start van het PAB tot het einde van de maand waarin het PAB beëindigd wordt. De beslissing kan echter niet worden geweigerd of stopgezet omwille van het feit dat iemand een beroep doet op het persoonlijk assistentiebudget.<br>
+163. ...<br>
 <br>
-164. Het Vlaams Agentschap voor Personen met een Handicap bezorgt regelmatig een geactualiseerd bestand aan het Vlaams Zorgfonds. Dit bestand bevat van de mensen die een PAB hebben de volgende gegevens:<br>
+164. ...<br>
 <br>
-* rijksregisternummer;<br>
-<br>
-* naam en adres gehandicapte;<br>
-<br>
-* startdatum PAB.<br>
-<br>
-165. Het Zorgfonds deelt aan de zorgkassen mee welke van hun aangeslotenen recht hebben op een PAB. Deze hebben dan geen recht op mantel- en thuiszorg.<br>
+165....<br>
 <br>
 AFDELING II<br>
 <br>
 MANTEL- EN THUISZORG EN HET VERBLIJF IN EEN RESIDENTIËLE VOORZIENING ERKEND DOOR HET VLAAMS AGENTSCHAP VOOR PERSONEN MET EEN HANDICAP<br>
 <br>
-166. Personen hebben geen recht op een tenlasteneming voor mantel- en thuiszorg als ze volgens het protocol van verblijf in een voltijds regime verblijven in een door het Het Vlaams Agentschap voor Personen met een Handicap erkende residentiële voorziening. Het gaat om volgende voorzieningen:<br>
+166. ...<br>
 <br>
-* de tehuizen niet werkenden;<br>
+167. ...<br>
 <br>
-* internaten;<br>
+168. ...<br>
 <br>
-* tehuizen werkenden;<br>
+169. ...<br>
 <br>
-* diensten voor beschermd wonen;<br>
+170. ...<br>
 <br>
-* centra voor observatie, oriëntering en medische, psychologische en pedagogischebehandeling.<br>
+171. ...<br>
 <br>
-167. In voorkomend geval worden de tenlastenemingen voor mantel- en thuiszorg opgeschort vanaf de eerste dag van de maand na de start van het verblijf.<br>
-<br>
-168. De gebruiker of zijn vertegenwoordiger zal op het aanvraagformulier moeten verklaren of de gebruiker in een voltijds regime in een door het Het Vlaams Agentschap voor Personen met een Handicap erkende residentiële voorziening verblijft of op de wachtlijst voor een dergelijke voorziening staat.<br>
-<br>
-169. Indien de gebruiker pas na het indienen van zijn aanvraagformulier alsnog in een dergelijke voorziening gaat verblijven, dan moet hij (of zijn vertegenwoordiger) dit melden aan de zorgkas.<br>
-<br>
-170. Als een persoon die volgens een protocol van verblijf in een voltijds regime in een door het Het Vlaams Agentschap voor Personen met een Handicap erkende residentiële voorziening verblijft, gedurende 21 of meer opeenvolgende dagen afwezig is uit deze voorziening, dan heeft hij recht op een tenlasteneming voor mantel- en thuiszorg voor de maand of maanden waarin deze aaneengesloten periode van afwezigheid valt.<br>
-<br>
-Indien een persoon minder dan 21 opeenvolgende dagen afwezig is uit deze voorziening, dan blijven de tenlastenemingen voor mantel- en thuiszorg opgeschort.<br>
-<br>
-171. De persoon vraagt bij de residentiële voorziening een attest dat bewijst dat de persoon 21 dagen of meer afwezig is. Het attest moet minstens volgende gegevens bevatten:<br>
-<br>
-* naam, adres, geboortedatum of rijksregisternummer van de gebruiker;<br>
-<br>
-* naam van de instantie die het attest heeft afgeleverd;<br>
-<br>
-* naam van de residentiële voorziening waar de gebruiker verblijft;<br>
-<br>
-* periode van afwezigheid uit de residentiële voorziening.<br>
-<br>
-172. De gebruiker of zijn vertegenwoordiger bezorgt het attest aan de zorgkas.<br>
+172. ...<br>
 <br>
 HOOFDSTUK XVII<br>
 <br>
