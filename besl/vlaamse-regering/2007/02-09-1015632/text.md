@@ -2,17 +2,17 @@
 
 ### Aanhef
 
-De Vlaamse Regering,<br /><br />Gelet op het decreet van 9 december 2005 betreffende de organisatie van tijdelijke projecten in het onderwijs;<br /><br />Gelet op het akkoord van de Vlaamse minister, bevoegd voor de begroting, gegeven op 5 oktober 2006;<br /><br />Overwegende dat de Opleiding voor Opleiders van Volwassenen, voor de duurtijd van de tijdelijke projecten, wordt ingedeeld in de categorie pedagogisch hoger onderwijs van het hoger onderwijs voor sociale promotie, wordt afgeweken van de studiebekrachtiging en de toelatingsvoorwaarden die conform het decreet van 2 maart 1999 tot regeling van een aantal aangelegenheden van het volwassenenonderwijs voor deze categorie gelden. <br />De Opleiding voor Opleiders van Volwassenen leidt niet tot een getuigschrift van pedagogische bekwaamheid en is gericht tot een specifieke doelgroep, met name opleiders van volwassenen die werken bij publieke of private opleidingsverstrekkers;<br /><br />Gelet op het advies van de Vlaamse Onderwijsraad, gegeven op 26 oktober 2006;<br /><br />Gelet op protocol nr. 613 van 1 december 2006 houdende de conclusies van de onderhandelingen die gevoerd werden in de gemeenschappelijke vergaderingen van sectorcomité X en van de onderafdeling "Vlaamse Gemeenschap" van afdeling 2 van het comité voor de provinciale en plaatselijke overheidsdiensten;<br /><br />Gelet op protocol nr. 378 van 1 december 2006 houdende de conclusies van de onderhandelingen die gevoerd werden in de vergadering van het overkoepelend onderhandelingscomité vrij gesubsidieerd onderwijs;<br /><br />Gelet op het advies 41.984/1 van de Raad van State, gegeven op 11 januari 2007, met toepassing van artikel 84, § 1, eerste lid, 1°, van de gecoördineerde wetten op de Raad van State;<br /><br />Op voorstel van de Vlaamse minister van Werk, Onderwijs en Vorming; <br /><br />Na beraadslaging,<br /><br />Besluit : <br /><br />
+<P>...</P>
 
 ## HOOFDSTUK I Algemene bepalingen
 
 ### ART. 1.
 
-Dit besluit is van toepassing op de centra voor volwassenenonderwijs die onderwijsbevoegdheid hebben voor de categorie pedagogisch hoger onderwijs voor sociale promotie.<br /><br />De Opleiding voor Opleiders van Volwassenen wordt ingedeeld in de categorie pedagogisch hoger onderwijs van het hoger onderwijs voor sociale promotie.<br /><br />
+Dit besluit is van toepassing op de centra voor volwassenenonderwijs die onderwijsbevoegdheid hebben voor het studiegebied onderwijs van het hoger beroepsonderwijs.<br /><br />De Opleiding voor Opleiders van Volwassenen wordt ingedeeld in de categorie pedagogisch hoger onderwijs van het hoger onderwijs voor sociale promotie.<br /><br />
 
 ### ART. 2.
 
-Voor de toepassing van dit besluit wordt verstaan onder :<br />1° lestijd : een periode van vijftig minuten die als eenheid voor de bepaling van de duur van de onderwijsactiviteiten wordt gebruikt, conform artikel 3, 26°, van het decreet van 2 maart 1999 tot regeling van een aantal aangelegenheden van het volwassenenonderwijs;<br />2° praktijkbegeleiding : het ondersteunen van de cursist bij het verwerken van het geleerde in de praktijk;<br />3° proefcentra : de zes Centra voor Volwassenenonderwijs die conform artikel 10 door de Vlaamse Regering, aangeduid worden om de tijdelijke projecten voor de Opleiding voor Opleiders van Volwassenen te organiseren.<br /><br />
+Voor de toepassing van dit besluit wordt verstaan onder :<br />1° lestijd : een periode van vijftig minuten die als eenheid voor de bepaling van de duur van de onderwijsactiviteiten wordt gebruikt, conform artikel 2, 26°, van het decreet van 15 juni 2007 betreffende het volwassenenonderwijs;<br />2° praktijkbegeleiding : het ondersteunen van de cursist bij het verwerken van het geleerde in de praktijk;<br />3° proefcentra : de zes Centra voor Volwassenenonderwijs die conform artikel 10 door de Vlaamse Regering, aangeduid worden om de tijdelijke projecten voor de Opleiding voor Opleiders van Volwassenen te organiseren.<br /><br />
 
 ### ART. 3.
 
@@ -24,7 +24,7 @@ De opleiding bestaat uit een duaal traject van 280 lestijden, waarvan een geïnt
 
 ### ART. 5.
 
-Binnen de tijdelijke projecten wordt de Opleiding voor Opleiders voor Volwassenen éénmaal volledig georganiseerd vanaf 1 september 2007 tot 31 augustus 2008.<br /><br />
+Binnen de tijdelijke projecten wordt de Opleiding voor Opleiders voor Volwassenen éénmaal volledig georganiseerd vanaf 1 september 2007 tot 31 augustus 2008 en ten minste eenmaal volledig georganiseerd vanaf 1 september 2008 tot en met 31 augustus 2009.<br /><br />
 
 ## HOOFDSTUK II Kandidaturen voor het organiseren van de Opleiding voor Opleiders van Volwassenen
 
@@ -54,7 +54,7 @@ De Vlaamse Regering duidt, op voordracht van de selectiecommissie, de zes proefc
 
 ### ART. 11.
 
-§ 1. De proefcentra verbinden er zich toe gedurende de looptijd van het tijdelijke project alle gegevens te verzamelen die de realisatie van de projectdoelen kunnen aantonen. Deze gegevens betreffen minimaal :<br />1° het aantal ingeschreven cursisten;<br />2° het aantal effectieve deelnemers;<br />3° de werkplek van de cursisten;<br />4° de scholingsgraad van de cursisten;<br />5° het sociaal economisch profiel van de cursisten;<br />6° het aantal deelnemers aan de evaluaties;<br />7° het aantal geslaagde cursisten;<br />8° het aantal afnemers van de opleiding met wie contact is opgenomen;<br />9° het aantal uitgereikte certificaten en deelcertificaten;<br />10° het aantal cursisten dat wil doorstromen naar de reguliere GPB-opleiding.<br /><br />§ 2. De besturen van de proefcentra gaan het engagement aan om onderling samen te werken tijdens de projectfase zodat de uitwisselbaarheid van de knowhow inzake cursusmateriaal en begeleiding van het werkplekleren gegarandeerd wordt.<br /><br />§ 3. De besturen van de proefcentra gaan het engagement aan om een tevredenheidsmeting uit te voeren bij de cursisten en de afnemende organisaties.<br /><br />§ 4. De besturen van de proefcentra gaan het engagement aan om een vrijstellingsbeleid te voeren voor cursisten die met vrucht het certificaat van de Opleiding voor Opleiders van Volwassenen hebben behaald. Zij verwerven vrijstelling in de reguliere GPB-opleidirg conform het structuurschema, goedgekeurd ter uitvoering van artikel 75 van het decreet van 2 maart 1999 tot regeling van een aantal aangelegenheden van het volwassenenonderwijs.<br /><br />
+§ 1. De proefcentra verbinden er zich toe gedurende de looptijd van het tijdelijke project alle gegevens te verzamelen die de realisatie van de projectdoelen kunnen aantonen. Deze gegevens betreffen minimaal :<br />1° het aantal ingeschreven cursisten;<br />2° het aantal effectieve deelnemers;<br />3° de werkplek van de cursisten;<br />4° de scholingsgraad van de cursisten;<br />5° het sociaal economisch profiel van de cursisten;<br />6° het aantal deelnemers aan de evaluaties;<br />7° het aantal geslaagde cursisten;<br />8° het aantal afnemers van de opleiding met wie contact is opgenomen;<br />9° het aantal uitgereikte certificaten en deelcertificaten;<br />10° het aantal cursisten dat wil doorstromen naar de specifieke lerarenopleidingen.<br /><br />§ 2. De besturen van de proefcentra gaan het engagement aan om onderling samen te werken tijdens de projectfase zodat de uitwisselbaarheid van de knowhow inzake cursusmateriaal en begeleiding van het werkplekleren gegarandeerd wordt.<br /><br />§ 3. De besturen van de proefcentra gaan het engagement aan om een tevredenheidsmeting uit te voeren bij de cursisten en de afnemende organisaties.<br /><br />§ 4. De besturen van de proefcentra gaan het engagement aan om een vrijstellingsbeleid te voeren voor cursisten die met vrucht het certificaat van de Opleiding voor Opleiders van Volwassenen hebben behaald.<br /><br />
 
 ## HOOFDSTUK V Opvolging, begeleiding en evaluatie
 
@@ -68,7 +68,7 @@ De pedagogische begeleidingsdiensten ondersteunen de centra die erom verzoeken b
 
 ### ART. 14.
 
-§ 1. De evaluatie van de tijdelijke projecten kan resulteren in beleidsbeslissingen over de wenselijkheid, de haalbaarheid en de budgettaire inpasbaarheid van wijzigingen in de vigerende regelgeving op het vlak van de structuur en de organisatie van het pedagogisch hoger onderwijs voor sociale promotie.<br /><br />§ 2. Aangezien de tijdelijke projecten verband houden met een of meer aspecten van het leerproces, wordt de evaluatie uitgevoerd door de onderwijsinspectie. Aan de hand van gerichte instrumenten wordt de evaluatie cumulatief opgebouwd. De evaluatie wordt afgerond binnen de projectperiode.<br /><br />Het Gemeenschapsonderwijs, de representatieve verenigingen van de schoolbesturen of inrichtende machten, de pedagogische begeleidingsdiensten, de representatieve vakorganisaties en de Vlaamse Onderwijsraad worden vooraf in kennis gesteld van het door de onderwijsinspectie gehanteerde instrumentarium en worden bij de evaluatie betrokken.<br /><br />Het geheel van de evaluatieresultaten en de daaruit voortvloeiende beleidsaanbevelingen maakt het voorwerp uit van een rapport, opgemaakt onder de verantwoordelijkheid van de stuurgroep, dat aan de Vlaamse minister, bevoegd voor het onderwijs, wordt bezorgd.<br /><br />§ 3. De besturen en de centra zullen hun medewerking verlenen aan de evaluatie van de tijdelijke projecten waarin ze participeren. Alle actoren binnen het centrum, waaronder de cursisten, worden actief betrokken bij de evaluatie. Elk centrum stelt op het einde van het project een eindrapport op waarin het projectverloop wordt beschreven en geëvalueerd en de verzamelde gegevens worden vermeld en besproken. Het eindrapport bevat tevens een financiële verantwoording over de besteding van de middelen, vermeld in artikel 16.<br /><br />
+§ 1. De evaluatie van de tijdelijke projecten kan resulteren in beleidsbeslissingen over de wenselijkheid, de haalbaarheid en de budgettaire inpasbaarheid van wijzigingen in de vigerende regelgeving op het vlak van de structuur en de organisatie van het studiegebied onderwijs van het hoger beroepsonderwijs.<br /><br />§ 2. Aangezien de tijdelijke projecten verband houden met een of meer aspecten van het leerproces, wordt de evaluatie uitgevoerd door de onderwijsinspectie. Aan de hand van gerichte instrumenten wordt de evaluatie cumulatief opgebouwd. De evaluatie wordt afgerond binnen de projectperiode.<br /><br />Het Gemeenschapsonderwijs, de representatieve verenigingen van de schoolbesturen of inrichtende machten, de pedagogische begeleidingsdiensten, de representatieve vakorganisaties en de Vlaamse Onderwijsraad worden vooraf in kennis gesteld van het door de onderwijsinspectie gehanteerde instrumentarium en worden bij de evaluatie betrokken.<br /><br />Het geheel van de evaluatieresultaten en de daaruit voortvloeiende beleidsaanbevelingen maakt het voorwerp uit van een rapport, opgemaakt onder de verantwoordelijkheid van de stuurgroep, dat aan de Vlaamse minister, bevoegd voor het onderwijs, wordt bezorgd.<br /><br />§ 3. De besturen en de centra zullen hun medewerking verlenen aan de evaluatie van de tijdelijke projecten waarin ze participeren. Alle actoren binnen het centrum, waaronder de cursisten, worden actief betrokken bij de evaluatie. Elk centrum stelt op het einde van het project een eindrapport op waarin het projectverloop wordt beschreven en geëvalueerd en de verzamelde gegevens worden vermeld en besproken. Het eindrapport bevat tevens een financiële verantwoording over de besteding van de middelen, vermeld in artikel 16.<br /><br />
 
 ### ART. 15.
 
@@ -78,7 +78,7 @@ Het eindrapport wordt uiterlijk één maand na het einde van de projectduur bezo
 
 ### ART. 16.
 
-Aan elk proefcentrum wordt een eenmalig bedrag toegekend van maximum 2000 euro. Dat bedrag mag uitsluitend aangewend worden voor de supplementaire publiciteits- en sensibiliseringskosten die verbonden zijn aan de organisatie van de Opleiding voor Opleiders van Volwassenen.<br /><br />
+Aan elk proefcentrum wordt een eenmalig bedrag toegekend van maximum 2000 euro. Dat bedrag mag uitsluitend aangewend worden voor de supplementaire publiciteits- en sensibiliseringskosten die verbonden zijn aan de organisatie van de Opleiding voor Opleiders van Volwassenen.<br /><br />Voor het schooljaar 2008-2009 wordt aan elk proefcentrum eenzelfde bedrag toegekend.
 
 ### ART. 17.
 
@@ -90,11 +90,11 @@ De proefcentra laten toe dat de bevoegde ambtenaren van het Vlaams Ministerie va
 
 ### ART. 19.
 
-De besturen van de proefcentra kunnen enkel aanvullende werkingsmiddelen verwerven door middel van de inschrijvingsgelden conform artikel 50 van het decreet van 2 maart 1999 tot regeling van een aantal aangelegenheden van het volwassenenonderwijs.<br /><br />Cursusmateriaal kan enkel aan de cursisten ten laste worden gelegd conform artikel 50bis van het decreet van 2 maart 1999 tot regeling van een aantal aangelegenheden van het volwassenenonderwijs.<br /><br />
+De besturen van de proefcentra kunnen enkel aanvullende werkingsmiddelen verwerven door middel van de inschrijvingsgelden conform artikel 109 van het decreet van 15 juni 2007 betreffende het volwassenenonderwijs.<br /><br />Cursusmateriaal kan enkel aan de cursisten ten laste worden gelegd conform artikel 121 van het decreet van 15 juni 2007 betreffende het volwassenenonderwijs.<br /><br />
 
 ### ART. 20.
 
-§ 1. Per keer dat de Opleiding voor Opleiders van Volwassenen wordt georganiseerd, wordt voorzien in een extra halftijdse betrekking van leraar hoger onderwijs voor sociale promotie voor de implementatie, de begeleiding en de ondersteuning van de tijdelijke projecten.<br /><br />§ 2. De Opleiding voor Opleiders van Volwassenen kan pas georganiseerd worden als het aantal cursisten voor de eerste module twaalf of meer bedraagt. Het aantal cursisten voor elk van de volgende modules bedraagt ten minste zeven.<br /><br />De extra betrekking bedoeld in § 1 wordt verhoudingsgewijs per georganiseerde module toegekend.<br /><br />
+§ 1. Per keer dat de Opleiding voor Opleiders van Volwassenen wordt georganiseerd, wordt voorzien in een extra halftijdse betrekking van leraar hoger onderwijs voor sociale promotie voor de implementatie, de begeleiding en de ondersteuning van de tijdelijke projecten.<br /><br />§ 2. De Opleiding voor Opleiders van Volwassenen kan pas georganiseerd worden als het aantal cursisten voor de eerste module twaalf of meer bedraagt. Het aantal cursisten voor elk van de volgende modules bedraagt ten minste zeven.<br /><br />Wanneer het aantal cursisten voor de eerste module veertien bedraagt, dan kan het proefcentrum de Opleiding voor Opleiders van Volwassenen een tweede keer organiseren. In dit geval voldoet het aantal cursisten voor de eerste module en de volgende modules aan de bepalingen, vermeld in het eerste lid. <br /><br />De extra betrekking bedoeld in § 1 wordt verhoudingsgewijs per georganiseerde module toegekend.<br /><br />
 
 ### ART. 21.
 
@@ -104,7 +104,7 @@ Het bedrag vermeld in artikel 16, en de extra betrekking, vermeld in artikel 20,
 
 ### ART. 22.
 
-Volgende afwijkingen gelden voor de organisatie van de tijdelijke projecten :<br />1° in afwijking van artikel 34 en 37 van het decreet van 2 maart 1999 tot regeling van een aantal aangelegenheden van het volwassenenonderwijs kan een cursist ongeacht zijn behaalde studiebewijzen tot de Opleiding voor Opleiders van Volwassenen toegelaten worden, op voorwaarde dat hij op het ogenblik van zijn inschrijving werkt bij één van de volgende organisaties :<br />a) de competentiecentra van de VDAB;<br />b) de ondernemersopleidingen van Syntra; <br />c) organisaties binnen het sociaal-cultureel volwassenenwerk;<br />d) organisaties binnen de welzijnssector; <br />e) organisaties uit de sportsector; <br />f) rijscholen;<br />g) inter- en intrasectorale vormingsorganisaties;<br />h) organisaties die werken op het gebied van ontwikkelingseducatie binnen de sector van de internationale samenwerking;<br />i) private opleidingsverstrekkers;<br />2° in afwijking van artikel 41, § 3, van hetzelfde decreet, wordt de Opleiding voor Opleiders van Volwassenen bekrachtigd met een certificaat.<br /><br />
+Volgende afwijkingen gelden voor de organisatie van de tijdelijke projecten :<br />1° in afwijking van artikel 34 van het decreet van 15 juni 2007 betreffende het volwassenenonderwijs kan een cursist ongeacht zijn behaalde studiebewijzen tot de Opleiding voor Opleiders van Volwassenen toegelaten worden, op voorwaarde dat hij op het ogenblik van zijn inschrijving werkt bij één van de volgende organisaties :<br />a) de competentiecentra van de VDAB;<br />b) de ondernemersopleidingen van Syntra; <br />c) organisaties binnen het sociaal-cultureel volwassenenwerk;<br />d) organisaties binnen de welzijnssector; <br />e) organisaties uit de sportsector; <br />f) rijscholen;<br />g) inter- en intrasectorale vormingsorganisaties;<br />h) organisaties die werken op het gebied van ontwikkelingseducatie binnen de sector van de internationale samenwerking;<br />i) private opleidingsverstrekkers;<br />2° in afwijking van artikel 41, § 5, van hetzelfde decreet, wordt de Opleiding voor Opleiders van Volwassenen bekrachtigd met een certificaat.<br /><br />
 
 ## HOOFDSTUK VIII Sancties
 
@@ -114,15 +114,19 @@ Volgende afwijkingen gelden voor de organisatie van de tijdelijke projecten :<br
 
 ### ART. 24.
 
-Indien wordt vastgesteld dat het bedrag, vermeld in artikel 16, of de extra betrekking, vermeld in artikel 20, niet besteed of aangewend wordt in overeenstemming met de doelstelling van het project, dan wordt het uitbetaalde bedrag of de loonkost van de ten onrechte ingerichte extra betrekking van het bestuur teruggevorderd conform artikel 62 van het decreet van 2 maart 1999 tot regeling van een aantal aangelegenheden van het volwassenenonderwijs.<br /><br />
+Indien wordt vastgesteld dat het bedrag, vermeld in artikel 16, of de extra betrekking, vermeld in artikel 20, niet besteed of aangewend wordt in overeenstemming met de doelstelling van het project, dan wordt het uitbetaalde bedrag of de loonkost van de ten onrechte ingerichte extra betrekking van het bestuur teruggevorderd conform artikel 114 van het decreet van 15 juni 2007 betreffende het volwassenenonderwijs.<br /><br />
 
 ## [HOOFDSTUK VIIIbis De verlenging van de tijdelijke projecten tijdens het schooljaar 2008-2009 (ing. decr. 4 juli 2008, art. X.47, I: 1 september 2008)]
+
+### ART. 24bis.
+
+§ 1. De volgende Centra voor Volwassenenonderwijs organiseren tijdens het schooljaar 2008-2009 de tijdelijke projecten voor de Opleiding voor Opleiders van Volwassenen :<br />1° het Centrum voor Volwassenenonderwijs VIVO, Scheutistenlaan 12, 8500 Kortrijk;<br />2° het Centrum voor Volwassenenonderwijs Limburgse Lerarenopleiding, Stationsstraat 36, 3590 Diepenbeek;<br />3° het Centrum voor Volwassenenonderwijs De Oranjerie, Boudewijnvest 3, 3290 Diest;<br />4° het Centrum voor Volwassenenonderwijs - KISP, Industrieweg 228, 9030 Mariakerke, in samenwerking met het Centrum voor Volwassenenonderwijs - Vormingsleergang voor Sociaal en Pedagogisch Werk - Gent, Edgard Tinelstraat 92, 9040 Sint-Amandsberg.<br /><br />§ 2. Over de verlenging van het tijdelijke project wordt onderhandeld in het lokaal comité.
 
 ## HOOFDSTUK IX Slotbepalingen
 
 ### ART. 25.
 
-Dit besluit treedt in werking op 15 maart 2007 en houdt op van kracht te zijn op 31 augustus 2008.<br /><br />
+Dit besluit treedt in werking op 15 maart 2007.<br /><br />
 
 ### ART. 26.
 
