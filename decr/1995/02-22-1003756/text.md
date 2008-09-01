@@ -52,7 +52,7 @@ Onder spin-off bedrijven moeten, voor de toepassing van dit decreet,   worden ve
 
 ### ART. 11.
 
-[...  <span class="reference">(opgeh. decr. 18 mei 1999, art. V 4, I: 1 september 1995)</span> ]
+Het Expertisecentrum Onderzoek en Ontwikkelingsmonitoring, zoals vermeld in titel IVter, deel VI, van het decreet van 19 maart 2004 stelt jaarlijks een lijst vast van de spin-offbedrijven, zoals bedoeld in artikel 9.<br /><br />De universiteiten en hogescholen leveren de daartoe nodige en nuttige gegevens aan, onder de voorwaarden als bepaald door de Vlaamse Regering.
 
 ### ART. 12.
 
@@ -104,7 +104,7 @@ Zo de universiteit of hogeschool niet behoort tot een associatie, wordt de forme
 
 ### ART. 21.
 
-[...  <span class="reference">(opgeh. decr. 19 maart 2004, art. IV 6, I: 1 oktober 2004)</span> ]
+Het Expertisecentrum Onderzoek en Ontwikkelingsmonitoring, zoals vermeld in titel IVter, deel VI, van het decreet van 19 maart 2004 stelt jaarlijks een lijst vast van de spin-offondersteunende bedrijven.<br /><br />De universiteiten en hogescholen leveren de daartoe nodige en nuttige gegevens aan, onder de voorwaarden als bepaald door de Vlaamse Regering.
 
 ### ART. 22.
 

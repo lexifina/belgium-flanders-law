@@ -2,16 +2,16 @@
   "codex_id": 1003756,
   "title": "Decreet van 1995-02-22 betreffende de wetenschappelijke of maatschappelijke dienstverlening door de universiteiten of de hogescholen en betreffende de relaties van de universiteiten en de hogescholen met andere rechtspersonen",
   "type": "Decreet",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1003756/VolledigDocument?datum=2007-01-01",
-  "source_sha256": "8ddc1f04b7adc3829fecedc5cf86dfb1ecd0401802dd2ebf1c622ee410375f46",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1003756/VolledigDocument?datum=2008-09-01",
+  "source_sha256": "ff0b3b61919a8345d8e791795253d0a60d78198eb79cd2ce8d32855b4f66cd26",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1003756&param=informatie",
-  "as_of": "2007-01-01",
+  "as_of": "2008-09-01",
   "made": "1995-02-22",
   "gazette": "1995-07-19",
   "numac": 1995035567,
   "document_start": "1995-09-01",
   "document_end": "2013-09-30",
-  "in_force": "2007-01-01",
+  "in_force": "2008-09-01",
   "article_versions": 29,
-  "record_form": "consolidated version as in force on 2007-01-01; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2008-09-01; future article versions excluded; article text as the API gives it"
 }
