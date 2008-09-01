@@ -1,0 +1,17 @@
+{
+  "codex_id": 1016983,
+  "title": "Ministerieel besluit van 2008-07-08 tot hoogdringende onteigening ten algemenen nutte van onroerende goederen bestemd voor de uitvoering van waterbeheersingswerken op de Velpe, te Halen, door de Vlaamse Milieumaatschappij",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1016983/VolledigDocument?datum=2008-09-01",
+  "source_sha256": "bed6758b36196ed375948c409a053e43cf53e6dc1a4dd77e4dee76ef00f6a501",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1016983&param=informatie",
+  "as_of": "2008-09-01",
+  "made": "2008-07-08",
+  "gazette": "2008-08-22",
+  "numac": 2008036010,
+  "document_start": "2008-09-01",
+  "document_end": null,
+  "in_force": "2008-09-01",
+  "article_versions": 1,
+  "record_form": "consolidated version as in force on 2008-09-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
