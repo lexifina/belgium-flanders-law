@@ -14,7 +14,7 @@ Voor de materies die tot de bevoegdheid van de schooldirecteur behoren, wordt te
 
 ### ART. 4.
 
-Voor de materies die tot de bevoegdheid van de directeur van een centrum voor leerlingenbegeleiding behoren, wordt telkens een basiscomité voor het centrum voor leerlingenbegeleiding opgericht. De directeur van het centrum voor leerlingenbegeleiding zit het voor.
+§ 1. Voor de materies die tot de bevoegdheid van de directeur van een centrum voor leerlingenbegeleiding behoren, wordt telkens een basiscomité voor het centrum voor leerlingenbegeleiding opgericht. De directeur van het centrum voor leerlingenbegeleiding zit het voor.<br /><br />§ 2. Voor de materies die behoren tot de bevoegdheid van de directeur van de permanente ondersteuningscel, vermeld in artikel 89 van het decreet van 1 december 1998 betreffende de centra voor leerlingenbegeleiding, wordt een basiscomité voor de permanente ondersteuningscel opgericht. De directeur van de permanente ondersteuningscel zit het basiscomité voor.
 
 ### ART. 5.
 
@@ -26,7 +26,7 @@ Voor de materies die de personeelsleden van de pedagogische begeleidingsdienst b
 
 ### ART. 7.
 
-Voor de materies die de bevoegdheid van één basiscomité van een bepaalde scholengroep overstijgen en die tot de bevoegdheid van de raad van bestuur, de algemene vergadering, de algemeen directeur of van het college van directeurs van de betreffende scholengroep behoren, wordt telkens één tussencomité voor de scholengroep opgericht. De algemeen directeur zit het voor.
+Voor de materies die de bevoegdheid van één basiscomité van een bepaalde scholengroep overstijgen en die tot de bevoegdheid van de raad van bestuur, de algemene vergadering, de algemeen directeur of van het college van directeurs van de betreffende scholengroep behoren, wordt telkens één tussencomité voor de scholengroep opgericht. De algemeen directeur zit het voor.<br /><br />Het tussencomité van de scholengroep is eveneens bevoegd om te onderhandelen over de materies die tot de bevoegdheid van de scholengemeenschap behoren.<br /><br />Het tussencomité is niet bevoegd voor de materies die zijn toegewezen aan het lokaal comité, opgericht op het niveau van de netoverschrijdende scholengemeenschappen opgericht bij artikel 125duodetricies van het decreet van 25 februari 1997 betreffende het basisonderwijs en bij artikel 81quinquies decies van het decreet van 14 juli 1998 houdende diverse maatregelen met betrekking tot het secundair onderwijs en tot wijziging van het decreet van 25 februari 1997 betreffende het basisonderwijs.
 
 ### ART. 8.
 
