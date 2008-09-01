@@ -1,0 +1,17 @@
+{
+  "codex_id": 1017321,
+  "title": "Besluit van de Vlaamse Regering van 2008-10-10 tot wijziging van het besluit van de Vlaamse Regering van 17 juni 1997 betreffende de personeelsformatie in het gewoon basisonderwijs",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1017321/VolledigDocument?datum=2008-09-01",
+  "source_sha256": "5304d34173020e3c296d24a0ef9b6b9eaa1dd3e455a5d7d002cd0e43c897e278",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1017321&param=informatie",
+  "as_of": "2008-09-01",
+  "made": "2008-10-10",
+  "gazette": "2008-11-26",
+  "numac": 2008204123,
+  "document_start": "2008-09-01",
+  "document_end": null,
+  "in_force": "2008-09-01",
+  "article_versions": 5,
+  "record_form": "consolidated version as in force on 2008-09-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
