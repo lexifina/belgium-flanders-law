@@ -12,7 +12,7 @@ Voor de toepassing van dit besluit wordt verstaan onder:<br />1° de gecoördine
 
 ### ART. 3.
 
-§ 1. De erkende voorzieningen worden ingedeeld in de hiernavolgende categorieën:<br />Categorie 1: begeleidingstehuizen.<br />Categorie 2: gezinstehuizen.<br />Categorie 3: onthaal-, oriëntatie- en observatiecentra.<br />Categorie 4: dagcentra.<br />Categorie 5: thuisbegeleidingsdiensten.<br />Categorie 6: diensten voor begeleid zelfstandig wonen.<br />Categorie 7: diensten voor pleegzorg.<br /><br />§ 2. Eenzelfde inrichtende macht kan voorzieningen laten erkennen van de in § 1 genoemde categorieën 1, 2, 4, 5 en 6. De inrichtende macht van een voorziening van categorie 3 of 7 kan geen voorziening van één van de andere in § 1 genoemde categorieën laten erkennen.<br /><br />§ 3. De voorzieningen van de categorieën 1 en 2 kunnen een bijkomende erkenning krijgen om na hun residentiële opname minderjarigen te begeleiden die zelfstandig wonen.
+§ 1. De erkende voorzieningen worden ingedeeld in de hiernavolgende categorieën:<br />Categorie 1: begeleidingstehuizen.<br />Categorie 2: gezinstehuizen.<br />Categorie 3: onthaal-, oriëntatie- en observatiecentra.<br />Categorie 4: dagcentra.<br />Categorie 5: thuisbegeleidingsdiensten.<br />Categorie 6: diensten voor begeleid zelfstandig wonen.<br />Categorie 7: diensten voor pleegzorg.<br /><br />§ 2. Eenzelfde inrichtende macht kan voorzieningen laten erkennen van de in § 1 genoemde categorieën 1, 2, 3, 4, 5 en 6. De inrichtende macht van een voorziening van categorie 7 kan geen voorziening van één van de andere in § 1 genoemde categorieën laten erkennen.<br /><br />§ 3. De voorzieningen van de categorieën 1 en 2 kunnen een bijkomende erkenning krijgen om na hun residentiële opname minderjarigen te begeleiden die zelfstandig wonen.
 
 ### ART. 4.
 
@@ -112,7 +112,7 @@ De kwaliteitsplanning van de voorziening bevat minimaal:<br /><br />1° de situe
 
 ### ART. 19.
 
-[De diensten voor pleegzorg dienen te voldoen aan de volgende bijzondere voorwaarden:<br /><br />1° het minimumaantal te begeleiden minderjarigen is zesendertig;<br /><br />2° de dienst zorgt voor de selectie van pleeggezinnen en laat elke plaatsing in een pleeggezin voorafgaan door een grondige studie van de minderjarige en van het pleeggezin. De selectie past in het hulpverleningsprogramma en houdt rekening met de materiële en immateriële omstandigheden in het pleeggezin. De dienst zorgt voor de begeleiding en de vorming van de pleeggezinnen;<br /><br />3° de leden van het pleeggezin moeten van goed zedelijk gedrag zijn en hun gezondheidstoestand mag geen gevaar inhouden voor de minderjarigen;<br /><br />4° aan een pleeggezin mogen niet meer dan vier minderjarigen en andere personen beneden de leeftijd van achttien jaar worden toevertrouwd, behalve:<br /><br />a) wanneer allen tot eenzelfde gezin behoren;<br /><br />b) wanneer het een bijkomende opname betreft van een minderjarige die reeds eerder in het pleeggezin verbleef;<br /><br />5° elk pleeggezin aan wie een minderjarige is toevertrouwd, wordt tenminste eenmaal per trimester en telkens als dit vereist is, bezocht;<br /><br />6° de opdracht die de dienst vooropstelt ten aanzien van het oorspronkelijke milieu, dient in het handelingsplan te worden vastgesteld;<br /><br />7° de dienst betaalt de subsidies, opgenomen in artikel 39, § 1, 40 en 42, § 1 en § 3, regelmatig en volledig uit aan de pleeggezinnen.  <span class="reference">(verv. B.V.R. 8 december 2000, art. 3, I: 1 januari 2001)</span> ]
+De diensten voor pleegzorg dienen te voldoen aan de volgende bijzondere voorwaarden:<br />1° het minimumaantal te begeleiden minderjarigen is zesendertig;<br />2° de dienst zorgt voor de selectie van pleeggezinnen en laat elke plaatsing in een pleeggezin voorafgaan door een grondige studie van de minderjarige en van het pleeggezin. De selectie past in het hulpverleningsprogramma en houdt rekening met de materiële en immateriële omstandigheden in het pleeggezin. De dienst zorgt voor de begeleiding en de vorming van de pleeggezinnen;<br />3° de leden van het pleeggezin moeten van goed zedelijk gedrag zijn en hun gezondheidstoestand mag geen gevaar inhouden voor de minderjarigen;<br />4° aan een pleeggezin mogen niet meer dan vier minderjarigen en andere personen beneden de leeftijd van achttien jaar worden toevertrouwd, behalve:<br />a) wanneer allen tot eenzelfde gezin behoren;<br />b) wanneer het een bijkomende opname betreft van een minderjarige die reeds eerder in het pleeggezin verbleef;<br />5° de dienst garandeert in elke pleegzorgsituatie gemiddeld 7 begeleidingscontacten per jaar met de direct betrokken actoren. De dienst zorgt ervoor dat elke actor op voldoende wijze in de hulpverlening wordt betrokken;<br />6° de opdracht die de dienst vooropstelt ten aanzien van het oorspronkelijke milieu, dient in het handelingsplan te worden vastgesteld;<br />7° de dienst betaalt de subsidies, opgenomen in artikel 39, § 1, 40 en 42, § 1 en § 3, regelmatig en volledig uit aan de pleeggezinnen.
 
 ## [ONDERAFDELING H DIENSTEN VOOR HERSTELGERICHTE EN CONSTRUCTIEVE AFHANDELING (ing. BVR 16 januari 2009)]
 
@@ -218,7 +218,7 @@ Onverminderd de toepassing van artikel 37 van de gecoördineerde decreten mogen 
 
 ### ART. 30.
 
-Onverminderd de toepassing van artikel 11 van het besluit van 15 december 1993 wordt de maximum personeelsbezetting die in aanmerking komt voor het subsidiëren van de personeelskosten van de erkende voorzieningen vastgesteld overeenkomstig bijlage 2 bij dit besluit.
+§ 1. Onverminderd de toepassing van artikel 11 van het besluit van 15 december 1993 wordt de maximum personeelsbezetting die in aanmerking komt voor het subsidiëren van de personeelskosten van de erkende voorzieningen vastgesteld overeenkomstig bijlage 2 bij dit besluit.<br /><br />§ 2. Een voorziening van de categorie 7 heeft voor de subsidiëring van de personeelskosten minimaal recht op het personeelskader dat vastgesteld is op basis van het gemiddelde aantal begeleidingen van het jaar ervoor.
 
 ### ART. 31.
 
@@ -804,7 +804,1152 @@ A. Directiepersoneel<br>
 
 ### BIJLAGE 2.
 
-<p><a href="http://www.ejustice.just.fgov.be/mopdf/2006/06/15_1.pdf#page=90" target="_blank">bjilage 2</a></p>
+MAXIMALE PERSONEELSBEZETTING DIE IN AANMERKING KOMT VOOR HET SUBSIDIËREN VAN DE PERSONEELSKOSTEN<br>
+A. Directiepersoneel
+<table border="1" cellpadding="0" cellspacing="0" style="border-collapse:collapse">
+	<tbody>
+		<tr>
+			<td rowspan="2" style="border-color:black; border-style:solid; border-width:1.0pt; vertical-align:top; width:90.25pt">
+			<p>Voorziening</p>
+			</td>
+			<td colspan="3" style="border-color:black; border-left:none; border-style:solid; border-width:1.0pt; vertical-align:top; width:102.5pt">
+			<p>Categorie 1</p>
+			</td>
+			<td style="border-color:black; border-left:none; border-style:solid; border-width:1.0pt; vertical-align:top; width:90.85pt">
+			<p>Categorie 2</p>
+			</td>
+			<td style="border-color:black; border-left:none; border-style:solid; border-width:1.0pt; vertical-align:top; width:91.15pt">
+			<p>Categorie 3</p>
+			</td>
+			<td colspan="2" style="border-color:black; border-left:none; border-style:solid; border-width:1.0pt; vertical-align:top; width:89.65pt">
+			<p>Categorie 4</p>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="3" style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; vertical-align:top; width:102.5pt">
+			<p>Begeleidingstehuizen</p>
+			</td>
+			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; vertical-align:top; width:90.85pt">
+			<p>Gezinstehuizen</p>
+			</td>
+			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; vertical-align:top; width:91.15pt">
+			<p>Onthaal-, oriëntatie- en observatiecentra</p>
+			</td>
+			<td colspan="2" style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; vertical-align:top; width:89.65pt">
+			<p>Dagcentra</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-color:black; border-style:solid; border-top:none; border-width:1.0pt; vertical-align:top; width:90.25pt">
+			<p>capaciteit</p>
+			</td>
+			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; vertical-align:top; width:32.0pt">
+			<p>10 tot 12</p>
+			</td>
+			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; vertical-align:top; width:35.25pt">
+			<p>Vanaf 13</p>
+			</td>
+			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; vertical-align:top; width:35.25pt">
+			<p>Vanaf 76</p>
+			</td>
+			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; vertical-align:top; width:90.85pt">
+			<p>5 tot 10</p>
+			</td>
+			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; vertical-align:top; width:91.15pt">
+			<p>8 tot 24</p>
+			</td>
+			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; vertical-align:top; width:44.8pt">
+			<p>10</p>
+			</td>
+			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; vertical-align:top; width:44.85pt">
+			<p>20</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-color:black; border-style:solid; border-top:none; border-width:1.0pt; vertical-align:top; width:90.25pt">
+			<p>Verantwoordelijke (begrepen binnen het maximum aantal begeleiders)</p>
+			</td>
+			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; vertical-align:top; width:32.0pt">
+			<p>1</p>
+			</td>
+			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; vertical-align:top; width:35.25pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; vertical-align:top; width:35.25pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; vertical-align:top; width:90.85pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; vertical-align:top; width:91.15pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; vertical-align:top; width:44.8pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; vertical-align:top; width:44.85pt">
+			<p>&nbsp;</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-color:black; border-style:solid; border-top:none; border-width:1.0pt; vertical-align:top; width:90.25pt">
+			<p>Directeur/verantwoordelijk</p>
+			</td>
+			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; vertical-align:top; width:32.0pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; vertical-align:top; width:35.25pt">
+			<p>1</p>
+			</td>
+			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; vertical-align:top; width:35.25pt">
+			<p>1</p>
+			</td>
+			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; vertical-align:top; width:90.85pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; vertical-align:top; width:91.15pt">
+			<p>1</p>
+			</td>
+			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; vertical-align:top; width:44.8pt">
+			<p>0,5</p>
+			</td>
+			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; vertical-align:top; width:44.85pt">
+			<p>1</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-color:black; border-style:solid; border-top:none; border-width:1.0pt; vertical-align:top; width:90.25pt">
+			<p>Onderdirecteur</p>
+			</td>
+			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; vertical-align:top; width:32.0pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; vertical-align:top; width:35.25pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; vertical-align:top; width:35.25pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; vertical-align:top; width:90.85pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; vertical-align:top; width:91.15pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; vertical-align:top; width:44.8pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; vertical-align:top; width:44.85pt">
+			<p>&nbsp;</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+<p>&nbsp;</p>
+
+<table border="1" cellpadding="0" cellspacing="0" style="border-collapse:collapse">
+	<tbody>
+		<tr>
+			<td rowspan="2" style="border-color:black; border-style:solid; border-width:1.0pt; vertical-align:top; width:119.65pt">
+			<p>Voorziening</p>
+			</td>
+			<td colspan="2" style="border-color:black; border-left:none; border-style:solid; border-width:1.0pt; vertical-align:top; width:90.0pt">
+			<p>Categorie 5</p>
+			</td>
+			<td colspan="2" style="border-color:black; border-left:none; border-style:solid; border-width:1.0pt; vertical-align:top; width:90.0pt">
+			<p>Categorie 6</p>
+			</td>
+			<td style="border-color:black; border-left:none; border-style:solid; border-width:1.0pt; vertical-align:top; width:99.0pt">
+			<p>Categorie 7</p>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="2" style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; vertical-align:top; width:90.0pt">
+			<p>Thuisbegeleidingsdiensten</p>
+			</td>
+			<td colspan="2" style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; vertical-align:top; width:90.0pt">
+			<p>Diensten voor begeleid zelfstandig wonen</p>
+			</td>
+			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; vertical-align:top; width:99.0pt">
+			<p>Diensten voor pleegzorg</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-color:black; border-style:solid; border-top:none; border-width:1.0pt; vertical-align:top; width:119.65pt">
+			<p>capaciteit</p>
+			</td>
+			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; vertical-align:top; width:45.0pt">
+			<p>16</p>
+			</td>
+			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; vertical-align:top; width:45.0pt">
+			<p>32</p>
+			</td>
+			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; vertical-align:top; width:45.0pt">
+			<p>16</p>
+			</td>
+			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; vertical-align:top; width:45.0pt">
+			<p>32</p>
+			</td>
+			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; vertical-align:top; width:99.0pt">
+			<p>Vanaf 36</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-color:black; border-style:solid; border-top:none; border-width:1.0pt; vertical-align:top; width:119.65pt">
+			<p>Verantwoordelijke (begrepen binnen het maximum aantal begeleiders)</p>
+			</td>
+			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; vertical-align:top; width:45.0pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; vertical-align:top; width:45.0pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; vertical-align:top; width:45.0pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; vertical-align:top; width:45.0pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; vertical-align:top; width:99.0pt">
+			<p>&nbsp;</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-color:black; border-style:solid; border-top:none; border-width:1.0pt; vertical-align:top; width:119.65pt">
+			<p>Directeur/verantwoordelijk</p>
+			</td>
+			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; vertical-align:top; width:45.0pt">
+			<p>0,5</p>
+			</td>
+			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; vertical-align:top; width:45.0pt">
+			<p>1</p>
+			</td>
+			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; vertical-align:top; width:45.0pt">
+			<p>0,5</p>
+			</td>
+			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; vertical-align:top; width:45.0pt">
+			<p>1</p>
+			</td>
+			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; vertical-align:top; width:99.0pt">
+			<p>1</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-color:black; border-style:solid; border-top:none; border-width:1.0pt; vertical-align:top; width:119.65pt">
+			<p>Onderdirecteur</p>
+			</td>
+			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; vertical-align:top; width:45.0pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; vertical-align:top; width:45.0pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; vertical-align:top; width:45.0pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; vertical-align:top; width:45.0pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; vertical-align:top; width:99.0pt">
+			<p>&nbsp;</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-color:black; border-style:solid; border-top:none; border-width:1.0pt; vertical-align:top; width:119.65pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; vertical-align:top; width:45.0pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; vertical-align:top; width:45.0pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; vertical-align:top; width:45.0pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; vertical-align:top; width:45.0pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; vertical-align:top; width:99.0pt">
+			<p>&nbsp;</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+<p>&nbsp;</p>
+<br>
+<br>
+B. Begeleidend personeel<br>
+<br>
+Voorziening
+<table border="1" cellpadding="0" cellspacing="0" style="border-collapse:collapse">
+	<tbody>
+		<tr>
+			<td rowspan="2" style="border-color:black; border-style:solid; border-width:1.0pt; vertical-align:top; width:90.25pt">
+			<p>Voorziening</p>
+			</td>
+			<td colspan="2" style="border-color:black; border-left:none; border-style:solid; border-width:1.0pt; vertical-align:top; width:131.1pt">
+			<p>Categorie 1</p>
+			</td>
+			<td style="border-color:black; border-left:none; border-style:solid; border-width:1.0pt; vertical-align:top; width:90.85pt">
+			<p>Categorie 2</p>
+			</td>
+			<td style="border-color:black; border-left:none; border-style:solid; border-width:1.0pt; vertical-align:top; width:91.15pt">
+			<p>Categorie 3</p>
+			</td>
+			<td style="border-color:black; border-left:none; border-style:solid; border-width:1.0pt; vertical-align:top; width:89.65pt">
+			<p>Categorie 4</p>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="2" style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; vertical-align:top; width:131.1pt">
+			<p>Begeleidingstehuizen</p>
+			</td>
+			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; vertical-align:top; width:90.85pt">
+			<p>Gezinstehuizen</p>
+			</td>
+			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; vertical-align:top; width:91.15pt">
+			<p>Onthaal-, oriëntatie- en observatiecentra</p>
+			</td>
+			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; vertical-align:top; width:89.65pt">
+			<p>Dagcentra</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-color:black; border-style:solid; border-top:none; border-width:1.0pt; vertical-align:top; width:90.25pt">
+			<p>capaciteit</p>
+			</td>
+			<td colspan="2" style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; vertical-align:top; width:131.1pt">
+			<p>10 tot 90</p>
+			</td>
+			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; vertical-align:top; width:90.85pt">
+			<p>5 tot 10</p>
+			</td>
+			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; vertical-align:top; width:91.15pt">
+			<p>8 tot 24</p>
+			</td>
+			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; vertical-align:top; width:89.65pt">
+			<p>10 tot 20</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-color:black; border-style:solid; border-top:none; border-width:1.0pt; vertical-align:top; width:90.25pt">
+			<p>Eerste begeleiders</p>
+			</td>
+			<td colspan="2" style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; vertical-align:top; width:131.1pt">
+			<p>1 per 30</p>
+			</td>
+			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; vertical-align:top; width:90.85pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; vertical-align:top; width:91.15pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; vertical-align:top; width:89.65pt">
+			<p>&nbsp;</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-color:black; border-style:solid; border-top:none; border-width:1.0pt; vertical-align:top; width:90.25pt">
+			<p>Hoofdbegeleiders (begrepen in het totale aantal begeleiders)</p>
+			</td>
+			<td colspan="2" style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; vertical-align:top; width:131.1pt">
+			<p>1 per 10</p>
+			</td>
+			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; vertical-align:top; width:90.85pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; vertical-align:top; width:91.15pt">
+			<p>1 per 8</p>
+			</td>
+			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; vertical-align:top; width:89.65pt">
+			<p>1 per 10</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-color:black; border-style:solid; border-top:none; border-width:1.0pt; vertical-align:top; width:90.25pt">
+			<p>begeleiders</p>
+			</td>
+			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; vertical-align:top; width:65.55pt">
+			<p>Begeleidings-tehuizen</p>
+			</td>
+			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; vertical-align:top; width:65.55pt">
+			<p>Begeleidings-</p>
+
+			<p>tehuizen,</p>
+
+			<p>vermeld</p>
+
+			<p>in art. 23,</p>
+
+			<p>3°, h)</p>
+			</td>
+			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; vertical-align:top; width:90.85pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; vertical-align:top; width:91.15pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; vertical-align:top; width:89.65pt">
+			<p>&nbsp;</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-color:black; border-style:solid; border-top:none; border-width:1.0pt; vertical-align:top; width:90.25pt">
+			<p>Basis aanvullend</p>
+			</td>
+			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; vertical-align:top; width:65.55pt">
+			<p>1 per 2,5</p>
+
+			<p>1 per 10</p>
+			</td>
+			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; vertical-align:top; width:65.55pt">
+			<p>1 per 2,5</p>
+
+			<p>1,5 per 10</p>
+			</td>
+			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; vertical-align:top; width:90.85pt">
+			<p>1 per 2,5</p>
+
+			<p>0,5 per 10</p>
+
+			<p>0,5</p>
+			</td>
+			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; vertical-align:top; width:91.15pt">
+			<p>0,5 per 1</p>
+
+			<p>0,5 per 8</p>
+
+			<p>0,5 per 10</p>
+			</td>
+			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; vertical-align:top; width:89.65pt">
+			<p>2 per 5</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+<p>&nbsp;</p>
+
+<table border="1" cellpadding="0" cellspacing="0" style="border-collapse:collapse">
+	<tbody>
+		<tr>
+			<td rowspan="2" style="border-color:black; border-style:solid; border-width:1.0pt; vertical-align:top; width:119.65pt">
+			<p>Voorziening</p>
+			</td>
+			<td style="border-color:black; border-left:none; border-style:solid; border-width:1.0pt; vertical-align:top; width:119.55pt">
+			<p>Categorie 5</p>
+			</td>
+			<td style="border-color:black; border-left:none; border-style:solid; border-width:1.0pt; vertical-align:top; width:90.0pt">
+			<p>Categorie 6</p>
+			</td>
+			<td style="border-color:black; border-left:none; border-style:solid; border-width:1.0pt; vertical-align:top; width:99.0pt">
+			<p>Categorie 7</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; vertical-align:top; width:119.55pt">
+			<p>Thuisbegeleidingsdiensten</p>
+			</td>
+			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; vertical-align:top; width:90.0pt">
+			<p>Diensten voor begeleid zelfstandig wonen</p>
+			</td>
+			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; vertical-align:top; width:99.0pt">
+			<p>Diensten voor pleegzorg</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-color:black; border-style:solid; border-top:none; border-width:1.0pt; vertical-align:top; width:119.65pt">
+			<p>capaciteit</p>
+			</td>
+			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; vertical-align:top; width:119.55pt">
+			<p>16 tot 32</p>
+			</td>
+			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; vertical-align:top; width:90.0pt">
+			<p>16 tot 32</p>
+			</td>
+			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; vertical-align:top; width:99.0pt">
+			<p>Vanaf 36</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-color:black; border-style:solid; border-top:none; border-width:1.0pt; vertical-align:top; width:119.65pt">
+			<p>Eerste begeleiders</p>
+			</td>
+			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; vertical-align:top; width:119.55pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; vertical-align:top; width:90.0pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; vertical-align:top; width:99.0pt">
+			<p>&nbsp;</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-color:black; border-style:solid; border-top:none; border-width:1.0pt; vertical-align:top; width:119.65pt">
+			<p>Hoofdbegeleiders (begrepen in het totale aantal begeleiders)</p>
+			</td>
+			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; vertical-align:top; width:119.55pt">
+			<p>1 per 16</p>
+			</td>
+			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; vertical-align:top; width:90.0pt">
+			<p>1 per 16</p>
+			</td>
+			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; vertical-align:top; width:99.0pt">
+			<p>1 per 75</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-color:black; border-style:solid; border-top:none; border-width:1.0pt; vertical-align:top; width:119.65pt">
+			<p>begeleiders</p>
+			</td>
+			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; vertical-align:top; width:119.55pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; vertical-align:top; width:90.0pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; vertical-align:top; width:99.0pt">
+			<p>&nbsp;</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-color:black; border-style:solid; border-top:none; border-width:1.0pt; vertical-align:top; width:119.65pt">
+			<p>Basis aanvullend</p>
+			</td>
+			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; vertical-align:top; width:119.55pt">
+			<p>0,5 per 4</p>
+			</td>
+			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; vertical-align:top; width:90.0pt">
+			<p>0,5 per 4</p>
+			</td>
+			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; vertical-align:top; width:99.0pt">
+			<p>1/25 per minderjarige</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+<p>&nbsp;</p>
+<br>
+<br>
+C. Administratief personeel (klasse 2 of 3)<br>
+<br>
+Voorziening
+<table border="1" cellpadding="0" cellspacing="0" style="border-collapse:collapse">
+	<tbody>
+		<tr>
+			<td rowspan="2" style="border-color:black; border-style:solid; border-width:1.0pt; vertical-align:top; width:104.4pt">
+			<p>Voorziening</p>
+			</td>
+			<td colspan="5" style="border-color:black; border-left:none; border-style:solid; border-width:1.0pt; vertical-align:top; width:126.2pt">
+			<p>Categorie 1</p>
+			</td>
+			<td style="border-color:black; border-left:none; border-style:solid; border-width:1.0pt; vertical-align:top; width:115.2pt">
+			<p>Categorie2</p>
+			</td>
+			<td colspan="2" style="border-color:black; border-left:none; border-style:solid; border-width:1.0pt; vertical-align:top; width:115.2pt">
+			<p>Categorie3</p>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="5" style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; vertical-align:top; width:126.2pt">
+			<p>Begeleidingstehuizen</p>
+			</td>
+			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; vertical-align:top; width:115.2pt">
+			<p>Gezinstehuizen</p>
+			</td>
+			<td colspan="2" style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; vertical-align:top; width:115.2pt">
+			<p>Onthaal-, oriëntatie- en observatiecentra</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-color:black; border-style:solid; border-top:none; border-width:1.0pt; vertical-align:top; width:104.4pt">
+			<p>Capaciteit</p>
+			</td>
+			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; vertical-align:top; width:25.2pt">
+			<p>13</p>
+			</td>
+			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; vertical-align:top; width:25.25pt">
+			<p>25</p>
+			</td>
+			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; vertical-align:top; width:25.25pt">
+			<p>63</p>
+			</td>
+			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; vertical-align:top; width:25.25pt">
+			<p>76</p>
+			</td>
+			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; vertical-align:top; width:25.25pt">
+			<p>84</p>
+			</td>
+			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; vertical-align:top; width:115.2pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; vertical-align:top; width:57.6pt">
+			<p>8</p>
+			</td>
+			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; vertical-align:top; width:57.6pt">
+			<p>16</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-color:black; border-style:solid; border-top:none; border-width:1.0pt; vertical-align:top; width:104.4pt">
+			<p>Basis</p>
+			</td>
+			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; vertical-align:top; width:25.2pt">
+			<p>0,5</p>
+			</td>
+			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; vertical-align:top; width:25.25pt">
+			<p>1</p>
+			</td>
+			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; vertical-align:top; width:25.25pt">
+			<p>1,5</p>
+			</td>
+			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; vertical-align:top; width:25.25pt">
+			<p>2,5 (1)</p>
+			</td>
+			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; vertical-align:top; width:25.25pt">
+			<p>3 (1)</p>
+			</td>
+			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; vertical-align:top; width:115.2pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; vertical-align:top; width:57.6pt">
+			<p>2</p>
+			</td>
+			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; vertical-align:top; width:57.6pt">
+			<p>3</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-color:black; border-style:solid; border-top:none; border-width:1.0pt; vertical-align:top; width:104.4pt">
+			<p>Aanvullend</p>
+			</td>
+			<td colspan="5" style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; vertical-align:top; width:126.2pt">
+			<p>Van capaciteit 10 tot 29:</p>
+
+			<p>0,5 (4)</p>
+
+			<p>Vanaf capaciteit 30: 1 (5)</p>
+
+			<p>&nbsp;</p>
+			</td>
+			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; vertical-align:top; width:115.2pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; vertical-align:top; width:57.6pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; vertical-align:top; width:57.6pt">
+			<p>&nbsp;</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+<p>&nbsp;</p>
+
+<table border="1" cellpadding="0" cellspacing="0" style="border-collapse:collapse">
+	<tbody>
+		<tr>
+			<td rowspan="2" style="border-color:black; border-style:solid; border-width:1.0pt; vertical-align:top; width:92.1pt">
+			<p>Voorziening</p>
+			</td>
+			<td style="border-color:black; border-left:none; border-style:solid; border-width:1.0pt; vertical-align:top; width:92.1pt">
+			<p>Categorie 4</p>
+			</td>
+			<td style="border-color:black; border-left:none; border-style:solid; border-width:1.0pt; vertical-align:top; width:92.1pt">
+			<p>Categorie 5</p>
+			</td>
+			<td style="border-color:black; border-left:none; border-style:solid; border-width:1.0pt; vertical-align:top; width:92.15pt">
+			<p>Categorie 6</p>
+			</td>
+			<td style="border-color:black; border-left:none; border-style:solid; border-width:1.0pt; vertical-align:top; width:92.15pt">
+			<p>Categorie 7</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; vertical-align:top; width:92.1pt">
+			<p>Dagcentra</p>
+			</td>
+			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; vertical-align:top; width:92.1pt">
+			<p>Thuisbegeleidings-diensten</p>
+			</td>
+			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; vertical-align:top; width:92.15pt">
+			<p>Diensten voor begeleid zelfstandig wonen</p>
+			</td>
+			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; vertical-align:top; width:92.15pt">
+			<p>Diensten voor Pleegzorg</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-color:black; border-style:solid; border-top:none; border-width:1.0pt; vertical-align:top; width:92.1pt">
+			<p>Capaciteit</p>
+			</td>
+			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; vertical-align:top; width:92.1pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; vertical-align:top; width:92.1pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; vertical-align:top; width:92.15pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; vertical-align:top; width:92.15pt">
+			<p>&nbsp;</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-color:black; border-style:solid; border-top:none; border-width:1.0pt; vertical-align:top; width:92.1pt">
+			<p>Basis</p>
+			</td>
+			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; vertical-align:top; width:92.1pt">
+			<p>1 per 10 (2)</p>
+			</td>
+			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; vertical-align:top; width:92.1pt">
+			<p>1 per 16 (2)</p>
+			</td>
+			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; vertical-align:top; width:92.15pt">
+			<p>1,5 per 16 (3)</p>
+			</td>
+			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; vertical-align:top; width:92.15pt">
+			<p>1/60 per minderjarige (6)</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-color:black; border-style:solid; border-top:none; border-width:1.0pt; vertical-align:top; width:92.1pt">
+			<p>Aanvullend</p>
+			</td>
+			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; vertical-align:top; width:92.1pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; vertical-align:top; width:92.1pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; vertical-align:top; width:92.15pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; vertical-align:top; width:92.15pt">
+			<p>&nbsp;</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+<p>&nbsp;</p>
+<br>
+(1) waarvan maximaal 1 klasse 1<br>
+(2) ofwel 1 logistiek, ofwel 0,5 administratief en 0,5 logistiek<br>
+(3) ofwel 1,5 logistiek, ofwel 1 logistiek en 0,5 administratief, ofwel 0,5 logistiek en 1 administratief<br>
+(4) ofwel 0,5 logistiek<br>
+(5) ofwel 1 logistiek, ofwel 0,5 administratief en 0,5 logistiek<br>
+(6) waarvan maximaal 0,5 klasse 1 tot 239 minderjarigen en maximaal 1 klasse 1 vanaf 240 minderjarigen<br>
+<br>
+D. Logistiek personeel (klasse 2, 3 of 4)<br>
+<br>
+Voorziening
+<table border="1" cellpadding="0" cellspacing="0" style="border-collapse:collapse">
+	<tbody>
+		<tr>
+			<td rowspan="2" style="border-color:black; border-style:solid; border-width:1.0pt; vertical-align:top; width:104.4pt">
+			<p>Voorziening</p>
+			</td>
+			<td style="border-color:black; border-left:none; border-style:solid; border-width:1.0pt; vertical-align:top; width:126.2pt">
+			<p>Categorie 1</p>
+			</td>
+			<td style="border-color:black; border-left:none; border-style:solid; border-width:1.0pt; vertical-align:top; width:115.2pt">
+			<p>Categorie2</p>
+			</td>
+			<td colspan="2" style="border-color:black; border-left:none; border-style:solid; border-width:1.0pt; vertical-align:top; width:115.2pt">
+			<p>Categorie3</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; vertical-align:top; width:126.2pt">
+			<p>Begeleidingstehuizen</p>
+			</td>
+			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; vertical-align:top; width:115.2pt">
+			<p>Gezinstehuizen</p>
+			</td>
+			<td colspan="2" style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; vertical-align:top; width:115.2pt">
+			<p>Onthaal-, oriëntatie- en observatiecentra</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-color:black; border-style:solid; border-top:none; border-width:1.0pt; vertical-align:top; width:104.4pt">
+			<p>Capaciteit</p>
+			</td>
+			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; vertical-align:top; width:126.2pt">
+			<p>10 tot 90</p>
+			</td>
+			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; vertical-align:top; width:115.2pt">
+			<p>5 tot 10</p>
+			</td>
+			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; vertical-align:top; width:57.6pt">
+			<p>8</p>
+			</td>
+			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; vertical-align:top; width:57.6pt">
+			<p>16</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-color:black; border-style:solid; border-top:none; border-width:1.0pt; vertical-align:top; width:104.4pt">
+			<p>Basis</p>
+			</td>
+			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; vertical-align:top; width:126.2pt">
+			<p>0,5 per 5</p>
+			</td>
+			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; vertical-align:top; width:115.2pt">
+			<p>0,5 per 1</p>
+			</td>
+			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; vertical-align:top; width:57.6pt">
+			<p>2</p>
+			</td>
+			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; vertical-align:top; width:57.6pt">
+			<p>3</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-color:black; border-style:solid; border-top:none; border-width:1.0pt; vertical-align:top; width:104.4pt">
+			<p>Aanvullend</p>
+			</td>
+			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; vertical-align:top; width:126.2pt">
+			<p>Van capaciteit 10 tot 29:</p>
+
+			<p>0,5 (3)</p>
+
+			<p>Vanaf capaciteit 30 tot 75:</p>
+
+			<p>1 (4)</p>
+
+			<p>Vanaf capaciteit 76:</p>
+
+			<p>2 (5)</p>
+
+			<p>&nbsp;</p>
+			</td>
+			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; vertical-align:top; width:115.2pt">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2" style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; vertical-align:top; width:115.2pt">
+			<p>&nbsp;</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+<p>&nbsp;</p>
+
+<table border="1" cellpadding="0" cellspacing="0" style="border-collapse:collapse">
+	<tbody>
+		<tr>
+			<td rowspan="2" style="border-color:black; border-style:solid; border-width:1.0pt; vertical-align:top; width:92.1pt">
+			<p>Voorziening</p>
+			</td>
+			<td style="border-color:black; border-left:none; border-style:solid; border-width:1.0pt; vertical-align:top; width:92.1pt">
+			<p>Categorie 4</p>
+			</td>
+			<td style="border-color:black; border-left:none; border-style:solid; border-width:1.0pt; vertical-align:top; width:92.1pt">
+			<p>Categorie 5</p>
+			</td>
+			<td style="border-color:black; border-left:none; border-style:solid; border-width:1.0pt; vertical-align:top; width:92.15pt">
+			<p>Categorie 6</p>
+			</td>
+			<td style="border-color:black; border-left:none; border-style:solid; border-width:1.0pt; vertical-align:top; width:92.15pt">
+			<p>Categorie 7</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; vertical-align:top; width:92.1pt">
+			<p>Dagcentra</p>
+			</td>
+			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; vertical-align:top; width:92.1pt">
+			<p>Thuisbegeleidings-diensten</p>
+			</td>
+			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; vertical-align:top; width:92.15pt">
+			<p>Diensten voor begeleid zelfstandig wonen</p>
+			</td>
+			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; vertical-align:top; width:92.15pt">
+			<p>Diensten voor Pleegzorg</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-color:black; border-style:solid; border-top:none; border-width:1.0pt; vertical-align:top; width:92.1pt">
+			<p>Capaciteit</p>
+			</td>
+			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; vertical-align:top; width:92.1pt">
+			<p>10 tot 20</p>
+			</td>
+			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; vertical-align:top; width:92.1pt">
+			<p>16 tot 32</p>
+			</td>
+			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; vertical-align:top; width:92.15pt">
+			<p>16 tot 32</p>
+			</td>
+			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; vertical-align:top; width:92.15pt">
+			<p>&nbsp;</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-color:black; border-style:solid; border-top:none; border-width:1.0pt; vertical-align:top; width:92.1pt">
+			<p>Basis</p>
+			</td>
+			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; vertical-align:top; width:92.1pt">
+			<p>1 per 10 (1)</p>
+			</td>
+			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; vertical-align:top; width:92.1pt">
+			<p>1 per 16 (1)</p>
+			</td>
+			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; vertical-align:top; width:92.15pt">
+			<p>1,5 per 16 (2)</p>
+			</td>
+			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; vertical-align:top; width:92.15pt">
+			<p>&nbsp;</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-color:black; border-style:solid; border-top:none; border-width:1.0pt; vertical-align:top; width:92.1pt">
+			<p>Aanvullend</p>
+			</td>
+			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; vertical-align:top; width:92.1pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; vertical-align:top; width:92.1pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; vertical-align:top; width:92.15pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; vertical-align:top; width:92.15pt">
+			<p>&nbsp;</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+<p>&nbsp;</p>
+<br>
+<br>
+(1) ofwel 1 administratief, ofwel 0,5 logistiek en 0,5 administratief<br>
+(2) ofwel 1,5 administratief, ofwel 1 administratief en 0,5 logistiek, ofwel 0,5 administratief en 1 logistiek<br>
+(3) ofwel 0,5 administratief<br>
+(4) ofwel 1 administratief, ofwel 0,5 administratief en 0,5 logistiek<br>
+(5) ofwel 1 administratief en 1 logistiek, ofwel 0,5 administratief en 1,5 logistiek<br>
+<br>
+E. Bijzondere functies<br>
+<br>
+Voorziening
+<table border="1" cellpadding="0" cellspacing="0" style="border-collapse:collapse">
+	<tbody>
+		<tr>
+			<td rowspan="2" style="border-color:black; border-style:solid; border-width:1.0pt; vertical-align:top; width:92.95pt">
+			<p>Voorziening</p>
+			</td>
+			<td colspan="11" style="border-color:black; border-left:none; border-style:solid; border-width:1.0pt; vertical-align:top; width:259.45pt">
+			<p>Categorie 1</p>
+			</td>
+			<td style="border-color:black; border-left:none; border-style:solid; border-width:1.0pt; vertical-align:top; width:112.0pt">
+			<p>Categorie 2</p>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="7" style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; vertical-align:top; width:145.6pt">
+			<p>Begeleidingstehuizen</p>
+			</td>
+			<td colspan="4" style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; vertical-align:top; width:113.85pt">
+			<p>Begeleidingstehuizen vermeld in artikel 23, 4° h)</p>
+			</td>
+			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; vertical-align:top; width:112.0pt">
+			<p>gezinstehuizen</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-color:black; border-style:solid; border-top:none; border-width:1.0pt; vertical-align:top; width:92.95pt">
+			<p>Vanaf capaciteit</p>
+			</td>
+			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; vertical-align:top; width:20.8pt">
+			<p>13</p>
+			</td>
+			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; vertical-align:top; width:20.8pt">
+			<p>25</p>
+			</td>
+			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; vertical-align:top; width:20.8pt">
+			<p>38</p>
+			</td>
+			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; vertical-align:top; width:20.8pt">
+			<p>50</p>
+			</td>
+			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; vertical-align:top; width:20.8pt">
+			<p>63</p>
+			</td>
+			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; vertical-align:top; width:20.8pt">
+			<p>76</p>
+			</td>
+			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; vertical-align:top; width:20.8pt">
+			<p>88</p>
+			</td>
+			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; vertical-align:top; width:28.45pt">
+			<p>10</p>
+			</td>
+			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; vertical-align:top; width:28.45pt">
+			<p>25</p>
+			</td>
+			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; vertical-align:top; width:28.45pt">
+			<p>38</p>
+			</td>
+			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; vertical-align:top; width:28.5pt">
+			<p>50</p>
+			</td>
+			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; vertical-align:top; width:112.0pt">
+			<p>&nbsp;</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-color:black; border-style:solid; border-top:none; border-width:1.0pt; vertical-align:top; width:92.95pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; vertical-align:top; width:20.8pt">
+			<p>0,5</p>
+			</td>
+			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; vertical-align:top; width:20.8pt">
+			<p>1</p>
+			</td>
+			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; vertical-align:top; width:20.8pt">
+			<p>1,5</p>
+			</td>
+			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; vertical-align:top; width:20.8pt">
+			<p>2</p>
+			</td>
+			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; vertical-align:top; width:20.8pt">
+			<p>2,5</p>
+			</td>
+			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; vertical-align:top; width:20.8pt">
+			<p>3</p>
+			</td>
+			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; vertical-align:top; width:20.8pt">
+			<p>3,5</p>
+			</td>
+			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; vertical-align:top; width:28.45pt">
+			<p>1</p>
+			</td>
+			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; vertical-align:top; width:28.45pt">
+			<p>2</p>
+			</td>
+			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; vertical-align:top; width:28.45pt">
+			<p>3</p>
+			</td>
+			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; vertical-align:top; width:28.5pt">
+			<p>4</p>
+			</td>
+			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; vertical-align:top; width:112.0pt">
+			<p>&nbsp;</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+<p>&nbsp;</p>
+
+<table border="1" cellpadding="0" cellspacing="0" style="border-collapse:collapse">
+	<tbody>
+		<tr>
+			<td rowspan="2" style="border-color:black; border-style:solid; border-width:1.0pt; vertical-align:top; width:80.15pt">
+			<p>Voorziening</p>
+			</td>
+			<td colspan="2" style="border-color:black; border-left:none; border-style:solid; border-width:1.0pt; vertical-align:top; width:78.8pt">
+			<p>Categorie 3</p>
+			</td>
+			<td style="border-color:black; border-left:none; border-style:solid; border-width:1.0pt; vertical-align:top; width:76.2pt">
+			<p>Categorie 4</p>
+			</td>
+			<td style="border-color:black; border-left:none; border-style:solid; border-width:1.0pt; vertical-align:top; width:87.5pt">
+			<p>Categorie 5</p>
+			</td>
+			<td style="border-color:black; border-left:none; border-style:solid; border-width:1.0pt; vertical-align:top; width:76.45pt">
+			<p>Categorie 6</p>
+			</td>
+			<td style="border-color:black; border-left:none; border-style:solid; border-width:1.0pt; vertical-align:top; width:65.3pt">
+			<p>Categorie 7</p>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="2" style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; vertical-align:top; width:78.8pt">
+			<p>Onthaal-,</p>
+
+			<p>Oriëntatie- en</p>
+
+			<p>Observatiecentra</p>
+			</td>
+			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; vertical-align:top; width:76.2pt">
+			<p>Dagcentra</p>
+			</td>
+			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; vertical-align:top; width:87.5pt">
+			<p>Thuisbegeleidings-</p>
+
+			<p>Diensten</p>
+			</td>
+			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; vertical-align:top; width:76.45pt">
+			<p>Diensten voor begeleid zelfstandig wonen</p>
+			</td>
+			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; vertical-align:top; width:65.3pt">
+			<p>Diensten voor pleegzorg</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-color:black; border-style:solid; border-top:none; border-width:1.0pt; vertical-align:top; width:80.15pt">
+			<p>Vanaf capaciteit</p>
+			</td>
+			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; vertical-align:top; width:39.4pt">
+			<p>8</p>
+			</td>
+			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; vertical-align:top; width:39.4pt">
+			<p>16</p>
+			</td>
+			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; vertical-align:top; width:76.2pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; vertical-align:top; width:87.5pt">
+			<p>16</p>
+			</td>
+			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; vertical-align:top; width:76.45pt">
+			<p>16</p>
+			</td>
+			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; vertical-align:top; width:65.3pt">
+			<p>Vanaf 36</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-color:black; border-style:solid; border-top:none; border-width:1.0pt; vertical-align:top; width:80.15pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; vertical-align:top; width:39.4pt">
+			<p>2 (1)</p>
+			</td>
+			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; vertical-align:top; width:39.4pt">
+			<p>3 (2)</p>
+			</td>
+			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; vertical-align:top; width:76.2pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; vertical-align:top; width:87.5pt">
+			<p>1</p>
+			</td>
+			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; vertical-align:top; width:76.45pt">
+			<p>1</p>
+			</td>
+			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; vertical-align:top; width:65.3pt">
+			<p>0,5 + 0,5 per schijf van 36 minderjarigen</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+<p>&nbsp;</p>
+<br>
+(1) ofwel 1,5 waaronder 0,5 geneesheer-psychiater (2) ofwel 2,5 waaronder 0,5 geneesheer-psychiater
 
 ### BIJLAGE 3.
 
