@@ -4,7 +4,7 @@
 
 ### ART. 1.
 
-§ 1. Dit besluit is van toepassing op het voltijds gewoon en buitengewoon secundair onderwijs en op het deeltijds beroepssecundair onderwijs, erkend, gefinancierd of gesubsidieerd door de Vlaamse Gemeenschap.<br /><br />§ 2. In dit besluit wordt onder "betrokken personen" verstaan, de personen die het ouderlijk gezag uitoefenen of in rechte of in feite de minderjarige leerplichtige onder hun bewaring hebben of de meerderjarige leerling zelf.
+§ 1. Dit besluit is van toepassing op het voltijds gewoon en buitengewoon secundair onderwijs en op het deeltijds beroepssecundair onderwijs, erkend, gefinancierd of gesubsidieerd door de Vlaamse Gemeenschap.<br /><br />De bepalingen van dit besluit die van toepassing zijn op het deeltijds beroepssecundair onderwijs zijn, met uitzondering van artikel 9, eveneens van toepassing op de deeltijdse vorming als vermeld in het decreet van 10 juli 2008 betreffende het stelsel van leren en werken in de Vlaamse Gemeenschap. In afwijking hiervan gelden evenwel voor wat het artikel 3 betreft de bepalingen van het voltijds secundair onderwijs voor zover de deeltijdse vorming de organisatie van persoonlijke ontwikkelingstrajecten betreft.<br /><br />§ 2. In dit besluit wordt onder "betrokken personen" verstaan, de personen die het ouderlijk gezag uitoefenen of in rechte of in feite de minderjarige leerplichtige onder hun bewaring hebben of de meerderjarige leerling zelf.
 
 ### ART. 2.
 
@@ -12,7 +12,7 @@ Het schooljaar begint op 1 september en eindigt op 31 augustus van het daaropvol
 
 ### ART. 3.
 
-§ 1. In het voltijds gewoon en buitengewoon secundair onderwijs worden de lessen gespreid over 9 halve lesdagen van maandag tot en met vrijdag. De lessen vangen op zijn vroegst om 8 uur aan en eindigen op zijn vroegst om 15 uur en uiterlijk om 17 uur. Er is een middagpauze van ten minste 50 minuten. Deze bepaling geldt niet voor stages.<br /><br />§ 2. Onverminderd de bepalingen van artikel 14 van het besluit van de Vlaamse regering van 31 juli 1990 houdende inrichting van het deeltijds beroepssecundair onderwijs, worden in het deeltijds beroepssecundair onderwijs de lessen gespreid over maximum 4 halve lesdagen van maandag tot en met vrijdag. De lessen vangen op zijn vroegst om 8 uur aan en eindigen op zijn vroegst om 15 uur en uiterlijk om 17 uur. Er is een middagpauze van ten minste 50 minuten.
+§ 1. In het voltijds gewoon en buitengewoon secundair onderwijs worden de lessen gespreid over 9 halve lesdagen van maandag tot en met vrijdag. De lessen vangen op zijn vroegst om 8 uur aan en eindigen op zijn vroegst om 15 uur en uiterlijk om 17 uur. Er is een middagpauze van ten minste 50 minuten. Deze bepaling geldt niet voor stages.<br /><br />§ 2. In het deeltijds beroepssecundair onderwijs worden de lessen gespreid over maximum 4 halve lesdagen van maandag tot en met vrijdag. De lessen vangen op zijn vroegst om 8 uur aan en eindigen op zijn vroegst om 15 uur en uiterlijk om 17 uur. Er is een middagpauze van ten minste 50 minuten.
 
 ### ART. 4.
 

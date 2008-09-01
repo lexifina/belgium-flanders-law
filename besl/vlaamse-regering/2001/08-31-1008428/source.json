@@ -2,16 +2,16 @@
   "codex_id": 1008428,
   "title": "Besluit van de Vlaamse Regering van 2001-08-31 houdende de organisatie van het schooljaar in het secundair onderwijs",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1008428/VolledigDocument?datum=2006-06-01",
-  "source_sha256": "4a16776dbd3272901664da1fb35dc8a3d5f34971fb909b1ef655fe8b3c978609",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1008428/VolledigDocument?datum=2008-09-01",
+  "source_sha256": "cdf4efa43ddae153b902648c8ac2789837570e08d7a2b199abb267bb0c5c62b6",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1008428&param=informatie",
-  "as_of": "2006-06-01",
+  "as_of": "2008-09-01",
   "made": "2001-08-31",
   "gazette": "2001-10-24",
   "numac": 2001036202,
   "document_start": "2001-09-01",
   "document_end": null,
-  "in_force": "2006-06-01",
+  "in_force": "2008-09-01",
   "article_versions": 21,
-  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2008-09-01; future article versions excluded; article text as the API gives it"
 }
