@@ -1,0 +1,17 @@
+{
+  "codex_id": 1017156,
+  "title": "Ministerieel besluit van 2008-08-29 tot bepaling van de voorwaarden voor het verbod van cumulatie van de tenlastenemingen in de zorgverzekering met uitkeringen krachtens andere bepalingen, en tot wijziging van de enige bijlage bij het ministerieel besluit van 6 januari 2006 houdende de goedkeuring van de handleiding zorgverzekering",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1017156/VolledigDocument?datum=2008-09-01",
+  "source_sha256": "9ac8a108eb700fee5fe6a4ab7a63880a1e840c04a1dc2c3c424744cbf84f941e",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1017156&param=informatie",
+  "as_of": "2008-09-01",
+  "made": "2008-08-29",
+  "gazette": "2008-10-15",
+  "numac": 2008203655,
+  "document_start": "2008-09-01",
+  "document_end": "2009-12-31",
+  "in_force": "2008-09-01",
+  "article_versions": 10,
+  "record_form": "consolidated version as in force on 2008-09-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
