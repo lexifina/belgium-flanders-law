@@ -66,11 +66,11 @@ Dit decreet regelt een gemeenschapsaangelegenheid.
 
 ### ART. 16.
 
-Elke administratief adjunct tweede klasse vast benoemd op 31 augustus 1995 in het zeevisse-rijonderwijs wordt met ingang van 1 september 1995 vast benoemd als studiemeester-opvoeder.<br /><br />De voor die datum gepresteerde diensten in het onderwijs als administratief adjunct tweede klasse worden beschouwd als diensten gepresteerd in het ambt van studiemeester-opvoeder.
+...
 
 ### ART. 17.
 
-De bezoldiging die voor de periode van 1 september 1985 tot en met 31 augustus 1987 werd uitgekeerd aan de vastbenoemde eerste rekenplichtig correspondent die tijdens dezelfde periode werd belast met het ambt van opvoeder-huismeester is verworven.
+...
 
 ### ART. 18.
 
