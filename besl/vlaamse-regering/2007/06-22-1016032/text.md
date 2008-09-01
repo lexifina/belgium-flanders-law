@@ -299,6 +299,17 @@ De Vlaamse minister, bevoegd voor het onderwijs, is belast met de uitvoering van
 		</tr>
 		<tr>
 			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:black 1pt solid; border-right:black 1pt solid; border-top:#f0f0f0; height:14pt; width:62.25pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14pt; width:307pt">
+			<p>European Master in Engineering Rheology</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14pt; width:130.75pt">
+			<p>burgerlijk ingenieur</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:black 1pt solid; border-right:black 1pt solid; border-top:#f0f0f0; height:14pt; width:62.25pt">
 			<p>UGent</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14pt; width:307pt">
@@ -1108,7 +1119,7 @@ De Vlaamse minister, bevoegd voor het onderwijs, is belast met de uitvoering van
 <p>&nbsp;</p>
 
 <p>&nbsp;</p>
-<!--[if gte mso 9]><xml><br> <o:DocumentProperties><br>  <o:Author>Decockge</o:Author><br>  <o:Template>Normal</o:Template><br>  <o:LastAuthor>Decockge</o:LastAuthor><br>  <o:Revision>4</o:Revision><br>  <o:TotalTime>40</o:TotalTime><br>  <o:Created>2007-08-03T09:14:00Z</o:Created><br>  <o:LastSaved>2007-08-03T12:17:00Z</o:LastSaved><br>  <o:Pages>1</o:Pages><br>  <o:Words>2162</o:Words><br>  <o:Characters>11892</o:Characters><br>  <o:Company>MVG</o:Company><br>  <o:Lines>99</o:Lines><br>  <o:Paragraphs>28</o:Paragraphs><br>  <o:CharactersWithSpaces>14026</o:CharactersWithSpaces><br>  <o:Version>11.6408</o:Version><br> </o:DocumentProperties><br></xml><![endif]--><!--[if gte mso 9]><xml><br> <w:WordDocument><br>  <w:SpellingState>Clean</w:SpellingState><br>  <w:GrammarState>Clean</w:GrammarState><br>  <w:HyphenationZone>21</w:HyphenationZone><br>  <w:DrawingGridHorizontalSpacing>6 pt</w:DrawingGridHorizontalSpacing><br>  <w:DrawingGridVerticalSpacing>8,15 pt</w:DrawingGridVerticalSpacing><br>  <w:DisplayHorizontalDrawingGridEvery>2</w:DisplayHorizontalDrawingGridEvery><br>  <w:DisplayVerticalDrawingGridEvery>2</w:DisplayVerticalDrawingGridEvery><br>  <w:ValidateAgainstSchemas></w:ValidateAgainstSchemas><br>  <w:SaveIfXMLInvalid>false</w:SaveIfXMLInvalid><br>  <w:IgnoreMixedContent>false</w:IgnoreMixedContent><br>  <w:AlwaysShowPlaceholderText>false</w:AlwaysShowPlaceholderText><br>  <w:Compatibility><br>   <w:BreakWrappedTables></w:BreakWrappedTables><br>   <w:SnapToGridInCell></w:SnapToGridInCell><br>   <w:WrapTextWithPunct></w:WrapTextWithPunct><br>   <w:UseAsianBreakRules></w:UseAsianBreakRules><br>   <w:UseWord2002TableStyleRules></w:UseWord2002TableStyleRules><br>  </w:Compatibility><br>  <w:BrowserLevel>MicrosoftInternetExplorer4</w:BrowserLevel><br> </w:WordDocument><br></xml><![endif]--><!--[if gte mso 9]><xml><br> <w:LatentStyles DefLockedState="e;false"e; LatentStyleCount="e;156"e;><br> </w:LatentStyles><br></xml><![endif]--><!--[if gte mso 10]><br><style><br> /* Style Definitions */<br> table.MsoNormalTable<br>	&lftaco;mso-style-name:Standaardtabel;<br>	mso-tstyle-rowband-size:0;<br>	mso-tstyle-colband-size:0;<br>	mso-style-noshow:yes;<br>	mso-style-parent:"e;"e;;<br>	mso-padding-alt:0pt 5.4pt 0pt 5.4pt;<br>	mso-para-margin:0pt;<br>	mso-para-margin-bottom:.0001pt;<br>	mso-pagination:widow-orphan;<br>	font-size:10.0pt;<br>	font-family:"e;Times New Roman"e;;<br>	mso-ansi-language:#0400;<br>	mso-fareast-language:#0400;<br>	mso-bidi-language:#0400;&rgtaco;<br></style><br><![endif]--><!--[if gte mso 9]><xml><br> <o:shapedefaults v:ext="e;edit"e; spidmax="e;5122"e;></o:shapedefaults><br></xml><![endif]--><!--[if gte mso 9]><xml><br> <o:shapelayout v:ext="e;edit"e;><br>  <o:idmap v:ext="e;edit"e; data="e;1"e;></o:idmap><br> </o:shapelayout></xml><![endif]-->
+<!--[if gte mso 9]><xml><br> <o:DocumentProperties><br>  <o:Author>Decockge</o:Author><br>  <o:Template>Normal</o:Template><br>  <o:LastAuthor>steenpfr</o:LastAuthor><br>  <o:Revision>3</o:Revision><br>  <o:TotalTime>47</o:TotalTime><br>  <o:Created>2011-01-25T10:33:00Z</o:Created><br>  <o:LastSaved>2011-01-25T10:39:00Z</o:LastSaved><br>  <o:Pages>3</o:Pages><br>  <o:Words>1562</o:Words><br>  <o:Characters>12529</o:Characters><br>  <o:Company>MVG</o:Company><br>  <o:Lines>104</o:Lines><br>  <o:Paragraphs>28</o:Paragraphs><br>  <o:CharactersWithSpaces>14063</o:CharactersWithSpaces><br>  <o:Version>12.00</o:Version><br> </o:DocumentProperties><br></xml><![endif]--><!--[if gte mso 9]><xml><br> <w:WordDocument><br>  <w:SpellingState>Clean</w:SpellingState><br>  <w:TrackMoves></w:TrackMoves><br>  <w:TrackFormatting></w:TrackFormatting><br>  <w:HyphenationZone>21</w:HyphenationZone><br>  <w:DrawingGridHorizontalSpacing>6 pt</w:DrawingGridHorizontalSpacing><br>  <w:DrawingGridVerticalSpacing>8,15 pt</w:DrawingGridVerticalSpacing><br>  <w:DisplayHorizontalDrawingGridEvery>2</w:DisplayHorizontalDrawingGridEvery><br>  <w:DisplayVerticalDrawingGridEvery>2</w:DisplayVerticalDrawingGridEvery><br>  <w:ValidateAgainstSchemas></w:ValidateAgainstSchemas><br>  <w:SaveIfXMLInvalid>false</w:SaveIfXMLInvalid><br>  <w:IgnoreMixedContent>false</w:IgnoreMixedContent><br>  <w:AlwaysShowPlaceholderText>false</w:AlwaysShowPlaceholderText><br>  <w:DoNotPromoteQF></w:DoNotPromoteQF><br>  <w:LidThemeOther>NL-BE</w:LidThemeOther><br>  <w:LidThemeAsian>X-NONE</w:LidThemeAsian><br>  <w:LidThemeComplexScript>X-NONE</w:LidThemeComplexScript><br>  <w:Compatibility><br>   <w:BreakWrappedTables></w:BreakWrappedTables><br>   <w:SnapToGridInCell></w:SnapToGridInCell><br>   <w:WrapTextWithPunct></w:WrapTextWithPunct><br>   <w:UseAsianBreakRules></w:UseAsianBreakRules><br>   <w:DontGrowAutofit></w:DontGrowAutofit><br>   <w:SplitPgBreakAndParaMark></w:SplitPgBreakAndParaMark><br>   <w:DontVertAlignCellWithSp></w:DontVertAlignCellWithSp><br>   <w:DontBreakConstrainedForcedTables></w:DontBreakConstrainedForcedTables><br>   <w:DontVertAlignInTxbx></w:DontVertAlignInTxbx><br>   <w:Word11KerningPairs></w:Word11KerningPairs><br>   <w:CachedColBalance></w:CachedColBalance><br>  </w:Compatibility><br>  <w:BrowserLevel>MicrosoftInternetExplorer4</w:BrowserLevel><br>  <m:mathPr><br>   <m:mathFont m:val="e;Cambria Math"e;></m:mathFont><br>   <m:brkBin m:val="e;before"e;></m:brkBin><br>   <m:brkBinSub m:val="e;--"e;></m:brkBinSub><br>   <m:smallFrac m:val="e;off"e;></m:smallFrac><br>   <m:dispDef></m:dispDef><br>   <m:lMargin m:val="e;0"e;></m:lMargin><br>   <m:rMargin m:val="e;0"e;></m:rMargin><br>   <m:defJc m:val="e;centerGroup"e;></m:defJc><br>   <m:wrapIndent m:val="e;1440"e;></m:wrapIndent><br>   <m:intLim m:val="e;subSup"e;></m:intLim><br>   <m:naryLim m:val="e;undOvr"e;></m:naryLim><br>  </m:mathPr></w:WordDocument><br></xml><![endif]--><!--[if gte mso 9]><xml><br> <w:LatentStyles DefLockedState="e;false"e; DefUnhideWhenUsed="e;false"e;<br>  DefSemiHidden="e;false"e; DefQFormat="e;false"e; LatentStyleCount="e;267"e;><br>  <w:LsdException Locked="e;false"e; QFormat="e;true"e; Name="e;Normal"e;></w:LsdException><br>  <w:LsdException Locked="e;false"e; QFormat="e;true"e; Name="e;heading 1"e;></w:LsdException><br>  <w:LsdException Locked="e;false"e; SemiHidden="e;true"e; UnhideWhenUsed="e;true"e;<br>   QFormat="e;true"e; Name="e;heading 2"e;/><br>  <w:LsdException Locked="e;false"e; SemiHidden="e;true"e; UnhideWhenUsed="e;true"e;<br>   QFormat="e;true"e; Name="e;heading 3"e;/><br>  <w:LsdException Locked="e;false"e; SemiHidden="e;true"e; UnhideWhenUsed="e;true"e;<br>   QFormat="e;true"e; Name="e;heading 4"e;/><br>  <w:LsdException Locked="e;false"e; SemiHidden="e;true"e; UnhideWhenUsed="e;true"e;<br>   QFormat="e;true"e; Name="e;heading 5"e;/><br>  <w:LsdException Locked="e;false"e; SemiHidden="e;true"e; UnhideWhenUsed="e;true"e;<br>   QFormat="e;true"e; Name="e;heading 6"e;/><br>  <w:LsdException Locked="e;false"e; SemiHidden="e;true"e; UnhideWhenUsed="e;true"e;<br>   QFormat="e;true"e; Name="e;heading 7"e;/><br>  <w:LsdException Locked="e;false"e; SemiHidden="e;true"e; UnhideWhenUsed="e;true"e;<br>   QFormat="e;true"e; Name="e;heading 8"e;/><br>  <w:LsdException Locked="e;false"e; SemiHidden="e;true"e; UnhideWhenUsed="e;true"e;<br>   QFormat="e;true"e; Name="e;heading 9"e;/><br>  <w:LsdException Locked="e;false"e; SemiHidden="e;true"e; UnhideWhenUsed="e;true"e;<br>   QFormat="e;true"e; Name="e;caption"e;/><br>  <w:LsdException Locked="e;false"e; QFormat="e;true"e; Name="e;Title"e;></w:LsdException><br>  <w:LsdException Locked="e;false"e; Priority="e;1"e; Name="e;Default Paragraph Font"e;></w:LsdException><br>  <w:LsdException Locked="e;false"e; QFormat="e;true"e; Name="e;Subtitle"e;></w:LsdException><br>  <w:LsdException Locked="e;false"e; QFormat="e;true"e; Name="e;Strong"e;></w:LsdException><br>  <w:LsdException Locked="e;false"e; QFormat="e;true"e; Name="e;Emphasis"e;></w:LsdException><br>  <w:LsdException Locked="e;false"e; Priority="e;99"e; Name="e;No List"e;></w:LsdException><br>  <w:LsdException Locked="e;false"e; Priority="e;99"e; SemiHidden="e;true"e;<br>   Name="e;Placeholder Text"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;1"e; QFormat="e;true"e; Name="e;No Spacing"e;></w:LsdException><br>  <w:LsdException Locked="e;false"e; Priority="e;60"e; Name="e;Light Shading"e;></w:LsdException><br>  <w:LsdException Locked="e;false"e; Priority="e;61"e; Name="e;Light List"e;></w:LsdException><br>  <w:LsdException Locked="e;false"e; Priority="e;62"e; Name="e;Light Grid"e;></w:LsdException><br>  <w:LsdException Locked="e;false"e; Priority="e;63"e; Name="e;Medium Shading 1"e;></w:LsdException><br>  <w:LsdException Locked="e;false"e; Priority="e;64"e; Name="e;Medium Shading 2"e;></w:LsdException><br>  <w:LsdException Locked="e;false"e; Priority="e;65"e; Name="e;Medium List 1"e;></w:LsdException><br>  <w:LsdException Locked="e;false"e; Priority="e;66"e; Name="e;Medium List 2"e;></w:LsdException><br>  <w:LsdException Locked="e;false"e; Priority="e;67"e; Name="e;Medium Grid 1"e;></w:LsdException><br>  <w:LsdException Locked="e;false"e; Priority="e;68"e; Name="e;Medium Grid 2"e;></w:LsdException><br>  <w:LsdException Locked="e;false"e; Priority="e;69"e; Name="e;Medium Grid 3"e;></w:LsdException><br>  <w:LsdException Locked="e;false"e; Priority="e;70"e; Name="e;Dark List"e;></w:LsdException><br>  <w:LsdException Locked="e;false"e; Priority="e;71"e; Name="e;Colorful Shading"e;></w:LsdException><br>  <w:LsdException Locked="e;false"e; Priority="e;72"e; Name="e;Colorful List"e;></w:LsdException><br>  <w:LsdException Locked="e;false"e; Priority="e;73"e; Name="e;Colorful Grid"e;></w:LsdException><br>  <w:LsdException Locked="e;false"e; Priority="e;60"e; Name="e;Light Shading Accent 1"e;></w:LsdException><br>  <w:LsdException Locked="e;false"e; Priority="e;61"e; Name="e;Light List Accent 1"e;></w:LsdException><br>  <w:LsdException Locked="e;false"e; Priority="e;62"e; Name="e;Light Grid Accent 1"e;></w:LsdException><br>  <w:LsdException Locked="e;false"e; Priority="e;63"e; Name="e;Medium Shading 1 Accent 1"e;></w:LsdException><br>  <w:LsdException Locked="e;false"e; Priority="e;64"e; Name="e;Medium Shading 2 Accent 1"e;></w:LsdException><br>  <w:LsdException Locked="e;false"e; Priority="e;65"e; Name="e;Medium List 1 Accent 1"e;></w:LsdException><br>  <w:LsdException Locked="e;false"e; Priority="e;99"e; SemiHidden="e;true"e; Name="e;Revision"e;></w:LsdException><br>  <w:LsdException Locked="e;false"e; Priority="e;34"e; QFormat="e;true"e;<br>   Name="e;List Paragraph"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;29"e; QFormat="e;true"e; Name="e;Quote"e;></w:LsdException><br>  <w:LsdException Locked="e;false"e; Priority="e;30"e; QFormat="e;true"e;<br>   Name="e;Intense Quote"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;66"e; Name="e;Medium List 2 Accent 1"e;></w:LsdException><br>  <w:LsdException Locked="e;false"e; Priority="e;67"e; Name="e;Medium Grid 1 Accent 1"e;></w:LsdException><br>  <w:LsdException Locked="e;false"e; Priority="e;68"e; Name="e;Medium Grid 2 Accent 1"e;></w:LsdException><br>  <w:LsdException Locked="e;false"e; Priority="e;69"e; Name="e;Medium Grid 3 Accent 1"e;></w:LsdException><br>  <w:LsdException Locked="e;false"e; Priority="e;70"e; Name="e;Dark List Accent 1"e;></w:LsdException><br>  <w:LsdException Locked="e;false"e; Priority="e;71"e; Name="e;Colorful Shading Accent 1"e;></w:LsdException><br>  <w:LsdException Locked="e;false"e; Priority="e;72"e; Name="e;Colorful List Accent 1"e;></w:LsdException><br>  <w:LsdException Locked="e;false"e; Priority="e;73"e; Name="e;Colorful Grid Accent 1"e;></w:LsdException><br>  <w:LsdException Locked="e;false"e; Priority="e;60"e; Name="e;Light Shading Accent 2"e;></w:LsdException><br>  <w:LsdException Locked="e;false"e; Priority="e;61"e; Name="e;Light List Accent 2"e;></w:LsdException><br>  <w:LsdException Locked="e;false"e; Priority="e;62"e; Name="e;Light Grid Accent 2"e;></w:LsdException><br>  <w:LsdException Locked="e;false"e; Priority="e;63"e; Name="e;Medium Shading 1 Accent 2"e;></w:LsdException><br>  <w:LsdException Locked="e;false"e; Priority="e;64"e; Name="e;Medium Shading 2 Accent 2"e;></w:LsdException><br>  <w:LsdException Locked="e;false"e; Priority="e;65"e; Name="e;Medium List 1 Accent 2"e;></w:LsdException><br>  <w:LsdException Locked="e;false"e; Priority="e;66"e; Name="e;Medium List 2 Accent 2"e;></w:LsdException><br>  <w:LsdException Locked="e;false"e; Priority="e;67"e; Name="e;Medium Grid 1 Accent 2"e;></w:LsdException><br>  <w:LsdException Locked="e;false"e; Priority="e;68"e; Name="e;Medium Grid 2 Accent 2"e;></w:LsdException><br>  <w:LsdException Locked="e;false"e; Priority="e;69"e; Name="e;Medium Grid 3 Accent 2"e;></w:LsdException><br>  <w:LsdException Locked="e;false"e; Priority="e;70"e; Name="e;Dark List Accent 2"e;></w:LsdException><br>  <w:LsdException Locked="e;false"e; Priority="e;71"e; Name="e;Colorful Shading Accent 2"e;></w:LsdException><br>  <w:LsdException Locked="e;false"e; Priority="e;72"e; Name="e;Colorful List Accent 2"e;></w:LsdException><br>  <w:LsdException Locked="e;false"e; Priority="e;73"e; Name="e;Colorful Grid Accent 2"e;></w:LsdException><br>  <w:LsdException Locked="e;false"e; Priority="e;60"e; Name="e;Light Shading Accent 3"e;></w:LsdException><br>  <w:LsdException Locked="e;false"e; Priority="e;61"e; Name="e;Light List Accent 3"e;></w:LsdException><br>  <w:LsdException Locked="e;false"e; Priority="e;62"e; Name="e;Light Grid Accent 3"e;></w:LsdException><br>  <w:LsdException Locked="e;false"e; Priority="e;63"e; Name="e;Medium Shading 1 Accent 3"e;></w:LsdException><br>  <w:LsdException Locked="e;false"e; Priority="e;64"e; Name="e;Medium Shading 2 Accent 3"e;></w:LsdException><br>  <w:LsdException Locked="e;false"e; Priority="e;65"e; Name="e;Medium List 1 Accent 3"e;></w:LsdException><br>  <w:LsdException Locked="e;false"e; Priority="e;66"e; Name="e;Medium List 2 Accent 3"e;></w:LsdException><br>  <w:LsdException Locked="e;false"e; Priority="e;67"e; Name="e;Medium Grid 1 Accent 3"e;></w:LsdException><br>  <w:LsdException Locked="e;false"e; Priority="e;68"e; Name="e;Medium Grid 2 Accent 3"e;></w:LsdException><br>  <w:LsdException Locked="e;false"e; Priority="e;69"e; Name="e;Medium Grid 3 Accent 3"e;></w:LsdException><br>  <w:LsdException Locked="e;false"e; Priority="e;70"e; Name="e;Dark List Accent 3"e;></w:LsdException><br>  <w:LsdException Locked="e;false"e; Priority="e;71"e; Name="e;Colorful Shading Accent 3"e;></w:LsdException><br>  <w:LsdException Locked="e;false"e; Priority="e;72"e; Name="e;Colorful List Accent 3"e;></w:LsdException><br>  <w:LsdException Locked="e;false"e; Priority="e;73"e; Name="e;Colorful Grid Accent 3"e;></w:LsdException><br>  <w:LsdException Locked="e;false"e; Priority="e;60"e; Name="e;Light Shading Accent 4"e;></w:LsdException><br>  <w:LsdException Locked="e;false"e; Priority="e;61"e; Name="e;Light List Accent 4"e;></w:LsdException><br>  <w:LsdException Locked="e;false"e; Priority="e;62"e; Name="e;Light Grid Accent 4"e;></w:LsdException><br>  <w:LsdException Locked="e;false"e; Priority="e;63"e; Name="e;Medium Shading 1 Accent 4"e;></w:LsdException><br>  <w:LsdException Locked="e;false"e; Priority="e;64"e; Name="e;Medium Shading 2 Accent 4"e;></w:LsdException><br>  <w:LsdException Locked="e;false"e; Priority="e;65"e; Name="e;Medium List 1 Accent 4"e;></w:LsdException><br>  <w:LsdException Locked="e;false"e; Priority="e;66"e; Name="e;Medium List 2 Accent 4"e;></w:LsdException><br>  <w:LsdException Locked="e;false"e; Priority="e;67"e; Name="e;Medium Grid 1 Accent 4"e;></w:LsdException><br>  <w:LsdException Locked="e;false"e; Priority="e;68"e; Name="e;Medium Grid 2 Accent 4"e;></w:LsdException><br>  <w:LsdException Locked="e;false"e; Priority="e;69"e; Name="e;Medium Grid 3 Accent 4"e;></w:LsdException><br>  <w:LsdException Locked="e;false"e; Priority="e;70"e; Name="e;Dark List Accent 4"e;></w:LsdException><br>  <w:LsdException Locked="e;false"e; Priority="e;71"e; Name="e;Colorful Shading Accent 4"e;></w:LsdException><br>  <w:LsdException Locked="e;false"e; Priority="e;72"e; Name="e;Colorful List Accent 4"e;></w:LsdException><br>  <w:LsdException Locked="e;false"e; Priority="e;73"e; Name="e;Colorful Grid Accent 4"e;></w:LsdException><br>  <w:LsdException Locked="e;false"e; Priority="e;60"e; Name="e;Light Shading Accent 5"e;></w:LsdException><br>  <w:LsdException Locked="e;false"e; Priority="e;61"e; Name="e;Light List Accent 5"e;></w:LsdException><br>  <w:LsdException Locked="e;false"e; Priority="e;62"e; Name="e;Light Grid Accent 5"e;></w:LsdException><br>  <w:LsdException Locked="e;false"e; Priority="e;63"e; Name="e;Medium Shading 1 Accent 5"e;></w:LsdException><br>  <w:LsdException Locked="e;false"e; Priority="e;64"e; Name="e;Medium Shading 2 Accent 5"e;></w:LsdException><br>  <w:LsdException Locked="e;false"e; Priority="e;65"e; Name="e;Medium List 1 Accent 5"e;></w:LsdException><br>  <w:LsdException Locked="e;false"e; Priority="e;66"e; Name="e;Medium List 2 Accent 5"e;></w:LsdException><br>  <w:LsdException Locked="e;false"e; Priority="e;67"e; Name="e;Medium Grid 1 Accent 5"e;></w:LsdException><br>  <w:LsdException Locked="e;false"e; Priority="e;68"e; Name="e;Medium Grid 2 Accent 5"e;></w:LsdException><br>  <w:LsdException Locked="e;false"e; Priority="e;69"e; Name="e;Medium Grid 3 Accent 5"e;></w:LsdException><br>  <w:LsdException Locked="e;false"e; Priority="e;70"e; Name="e;Dark List Accent 5"e;></w:LsdException><br>  <w:LsdException Locked="e;false"e; Priority="e;71"e; Name="e;Colorful Shading Accent 5"e;></w:LsdException><br>  <w:LsdException Locked="e;false"e; Priority="e;72"e; Name="e;Colorful List Accent 5"e;></w:LsdException><br>  <w:LsdException Locked="e;false"e; Priority="e;73"e; Name="e;Colorful Grid Accent 5"e;></w:LsdException><br>  <w:LsdException Locked="e;false"e; Priority="e;60"e; Name="e;Light Shading Accent 6"e;></w:LsdException><br>  <w:LsdException Locked="e;false"e; Priority="e;61"e; Name="e;Light List Accent 6"e;></w:LsdException><br>  <w:LsdException Locked="e;false"e; Priority="e;62"e; Name="e;Light Grid Accent 6"e;></w:LsdException><br>  <w:LsdException Locked="e;false"e; Priority="e;63"e; Name="e;Medium Shading 1 Accent 6"e;></w:LsdException><br>  <w:LsdException Locked="e;false"e; Priority="e;64"e; Name="e;Medium Shading 2 Accent 6"e;></w:LsdException><br>  <w:LsdException Locked="e;false"e; Priority="e;65"e; Name="e;Medium List 1 Accent 6"e;></w:LsdException><br>  <w:LsdException Locked="e;false"e; Priority="e;66"e; Name="e;Medium List 2 Accent 6"e;></w:LsdException><br>  <w:LsdException Locked="e;false"e; Priority="e;67"e; Name="e;Medium Grid 1 Accent 6"e;></w:LsdException><br>  <w:LsdException Locked="e;false"e; Priority="e;68"e; Name="e;Medium Grid 2 Accent 6"e;></w:LsdException><br>  <w:LsdException Locked="e;false"e; Priority="e;69"e; Name="e;Medium Grid 3 Accent 6"e;></w:LsdException><br>  <w:LsdException Locked="e;false"e; Priority="e;70"e; Name="e;Dark List Accent 6"e;></w:LsdException><br>  <w:LsdException Locked="e;false"e; Priority="e;71"e; Name="e;Colorful Shading Accent 6"e;></w:LsdException><br>  <w:LsdException Locked="e;false"e; Priority="e;72"e; Name="e;Colorful List Accent 6"e;></w:LsdException><br>  <w:LsdException Locked="e;false"e; Priority="e;73"e; Name="e;Colorful Grid Accent 6"e;></w:LsdException><br>  <w:LsdException Locked="e;false"e; Priority="e;19"e; QFormat="e;true"e;<br>   Name="e;Subtle Emphasis"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;21"e; QFormat="e;true"e;<br>   Name="e;Intense Emphasis"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;31"e; QFormat="e;true"e;<br>   Name="e;Subtle Reference"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;32"e; QFormat="e;true"e;<br>   Name="e;Intense Reference"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;33"e; QFormat="e;true"e; Name="e;Book Title"e;></w:LsdException><br>  <w:LsdException Locked="e;false"e; Priority="e;37"e; SemiHidden="e;true"e;<br>   UnhideWhenUsed="e;true"e; Name="e;Bibliography"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;39"e; SemiHidden="e;true"e;<br>   UnhideWhenUsed="e;true"e; QFormat="e;true"e; Name="e;TOC Heading"e;/><br> </w:LatentStyles><br></xml><![endif]--><!--[if gte mso 10]><br><style><br> /* Style Definitions */<br> table.MsoNormalTable<br>	&lftaco;mso-style-name:Standaardtabel;<br>	mso-tstyle-rowband-size:0;<br>	mso-tstyle-colband-size:0;<br>	mso-style-noshow:yes;<br>	mso-style-priority:99;<br>	mso-style-qformat:yes;<br>	mso-style-parent:"e;"e;;<br>	mso-padding-alt:0cm 5.4pt 0cm 5.4pt;<br>	mso-para-margin:0cm;<br>	mso-para-margin-bottom:.0001pt;<br>	mso-pagination:widow-orphan;<br>	font-size:10.0pt;<br>	font-family:"e;Times New Roman"e;,"e;serif"e;;&rgtaco;<br></style><br><![endif]--><!--[if gte mso 9]><xml><br> <o:shapedefaults v:ext="e;edit"e; spidmax="e;1026"e;></o:shapedefaults><br></xml><![endif]--><!--[if gte mso 9]><xml><br> <o:shapelayout v:ext="e;edit"e;><br>  <o:idmap v:ext="e;edit"e; data="e;1"e;></o:idmap><br> </o:shapelayout></xml><![endif]-->
 
 <table border="1" cellpadding="0" cellspacing="0" style="border-collapse:collapse; width:490pt">
 	<tbody>
@@ -1130,7 +1141,7 @@ De Vlaamse minister, bevoegd voor het onderwijs, is belast met de uitvoering van
 		</tr>
 		<tr>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:12pt; vertical-align:top; width:137.4pt">
-			<p>Hogeschool Antwerpen</p>
+			<p>Artesis Hogeschool Antwerpen</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:12pt; vertical-align:top; width:246pt">
 			<p>Master in de architectuur</p>
@@ -1227,7 +1238,7 @@ De Vlaamse minister, bevoegd voor het onderwijs, is belast met de uitvoering van
 		</tr>
 		<tr>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:12pt; vertical-align:top; width:137.4pt">
-			<p>Hogeschool Antwerpen</p>
+			<p>Artesis Hogeschool Antwerpen</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:12pt; vertical-align:top; width:246pt">
 			<p>Bachelor in de vroedkunde</p>
@@ -1331,7 +1342,7 @@ De Vlaamse minister, bevoegd voor het onderwijs, is belast met de uitvoering van
 		</tr>
 		<tr>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:12pt; vertical-align:top; width:137.4pt">
-			<p>EHSAL, Europese Hogeschool Brussel</p>
+			<p>HUB-EHSAL</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:12pt; vertical-align:top; width:246pt">
 			<p>Master handelsingenieur</p>
@@ -1362,7 +1373,7 @@ De Vlaamse minister, bevoegd voor het onderwijs, is belast met de uitvoering van
 		</tr>
 		<tr>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:12pt; vertical-align:top; width:137.4pt">
-			<p>Groep T-Leuven Hogeschool</p>
+			<p>GROEP T- Internationale Hogeschool Leuven</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:12pt; vertical-align:top; width:246pt">
 			<p>Master in de industriële wetenschappen: chemie</p>
@@ -1422,7 +1433,7 @@ De Vlaamse minister, bevoegd voor het onderwijs, is belast met de uitvoering van
 		</tr>
 		<tr>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:12pt; vertical-align:top; width:137.4pt">
-			<p>Hogeschool Antwerpen</p>
+			<p>Artesis Hogeschool Antwerpen</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:12pt; vertical-align:top; width:246pt">
 			<p>Master in de industriële wetenschappen: bouwkunde</p>
@@ -1732,7 +1743,7 @@ De Vlaamse minister, bevoegd voor het onderwijs, is belast met de uitvoering van
 		</tr>
 		<tr>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:12pt; vertical-align:top; width:137.4pt">
-			<p>Karel de Grote-Hogeschool – Katho-lieke Hogeschool Antwerpen</p>
+			<p>Karel de Grote-Hogeschool – Katholieke Hogeschool Antwerpen</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:12pt; vertical-align:top; width:246pt">
 			<p>Master in de industriële wetenschappen: chemie</p>
@@ -1989,7 +2000,7 @@ De Vlaamse minister, bevoegd voor het onderwijs, is belast met de uitvoering van
 		</tr>
 		<tr>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:12pt; vertical-align:top; width:137.4pt">
-			<p>Hogeschool Antwerpen</p>
+			<p>Artesis Hogeschool Antwerpen</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:12pt; vertical-align:top; width:246pt">
 			<p>Master in de beeldende kunsten</p>
@@ -2148,7 +2159,7 @@ De Vlaamse minister, bevoegd voor het onderwijs, is belast met de uitvoering van
 		</tr>
 		<tr>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:12pt; vertical-align:top; width:137.4pt">
-			<p>Hogeschool Antwerpen</p>
+			<p>Artesis Hogeschool Antwerpen</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:12pt; vertical-align:top; width:246pt">
 			<p>Master in het drama</p>
@@ -2192,13 +2203,24 @@ De Vlaamse minister, bevoegd voor het onderwijs, is belast met de uitvoering van
 		</tr>
 		<tr>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:12pt; vertical-align:top; width:137.4pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:12pt; vertical-align:top; width:246pt">
+			<p>Master of Music</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:12pt; vertical-align:top; width:106.6pt">
+			<p>meester</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:12pt; vertical-align:top; width:137.4pt">
 			<p>Hogeschool voor Wetenschap &amp; Kunst</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:12pt; vertical-align:top; width:246pt">
 			<p>Master in het drama</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:12pt; vertical-align:top; width:106.6pt">
-			<p>meester</p>
+			<p>Meester</p>
 			</td>
 		</tr>
 		<tr>
@@ -2295,7 +2317,7 @@ De Vlaamse minister, bevoegd voor het onderwijs, is belast met de uitvoering van
 		</tr>
 		<tr>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:12pt; vertical-align:top; width:137.4pt">
-			<p>EHSAL, Europese Hogeschool Brussel</p>
+			<p>HUB-EHSAL</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:12pt; vertical-align:top; width:246pt">
 			<p>Bachelor in het onderwijs: kleuteronderwijs</p>
@@ -2361,7 +2383,7 @@ De Vlaamse minister, bevoegd voor het onderwijs, is belast met de uitvoering van
 		</tr>
 		<tr>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:12pt; vertical-align:top; width:137.4pt">
-			<p>Groep T-Leuven Hogeschool</p>
+			<p>GROEP T-Internationale Hogeschool Leuven</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:12pt; vertical-align:top; width:246pt">
 			<p>Bachelor in het onderwijs: kleuteronderwijs</p>
@@ -2394,7 +2416,7 @@ De Vlaamse minister, bevoegd voor het onderwijs, is belast met de uitvoering van
 		</tr>
 		<tr>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:12pt; vertical-align:top; width:137.4pt">
-			<p>Hogeschool Antwerpen</p>
+			<p>Artesis Hogeschool Antwerpen</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:12pt; vertical-align:top; width:246pt">
 			<p>Bachelor in het onderwijs: kleuteronderwijs</p>
@@ -2828,7 +2850,7 @@ De Vlaamse minister, bevoegd voor het onderwijs, is belast met de uitvoering van
 		</tr>
 		<tr>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:12pt; vertical-align:top; width:137.4pt">
-			<p>EHSAL, Europese Hogeschool Brussel</p>
+			<p>HUB-EHSAL</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:12pt; vertical-align:top; width:246pt">
 			<p>Bachelor in het sociaal werk</p>
@@ -2850,7 +2872,7 @@ De Vlaamse minister, bevoegd voor het onderwijs, is belast met de uitvoering van
 		</tr>
 		<tr>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:12pt; vertical-align:top; width:137.4pt">
-			<p>Hogeschool Antwerpen</p>
+			<p>Artesis Hogeschool Antwerpen</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:12pt; vertical-align:top; width:246pt">
 			<p>Bachelor in het sociaal werk</p>
