@@ -1,0 +1,17 @@
+{
+  "codex_id": 1018930,
+  "title": "Besluit van de Vlaamse Regering van 2010-03-12 tot wijziging van het koninklijk besluit van 15 april 1958 houdende bezoldigingsregeling van het onderwijzend, wetenschappelijk en daarmee gelijkgesteld personeel van het Ministerie van Openbaar Onderwijs en van het besluit van de Vlaamse Regering van 7 oktober 1997 betreffende de nuttige ervaring als bekwaamheidsbewijs voor personeelsleden van het onderwijs",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1018930/VolledigDocument?datum=2008-09-01",
+  "source_sha256": "5522b8524ea83e2f534213830be7a8a9b6fedfabf3ae27da7323af088814d450",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1018930&param=informatie",
+  "as_of": "2008-09-01",
+  "made": "2010-03-12",
+  "gazette": "2010-04-15",
+  "numac": 2010035270,
+  "document_start": "2010-09-01",
+  "document_end": null,
+  "in_force": "2008-09-01",
+  "article_versions": 2,
+  "record_form": "consolidated version as in force on 2008-09-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
