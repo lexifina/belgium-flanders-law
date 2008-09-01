@@ -1,0 +1,17 @@
+{
+  "codex_id": 1017474,
+  "title": "Besluit van de Vlaamse Regering van 2008-10-17 betreffende het financiële en materiële beheer van de dienst met afzonderlijk beheer van het Fonds Inschrijvingsgelden Centra voor Volwassenenonderwijs",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1017474/VolledigDocument?datum=2008-09-01",
+  "source_sha256": "8a9a2a10989ff1e32e82cd2c7eebd771756364911fe42956f8bb345cce89a6cb",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1017474&param=informatie",
+  "as_of": "2008-09-01",
+  "made": "2008-10-17",
+  "gazette": "2009-01-15",
+  "numac": 2008204814,
+  "document_start": "2008-09-01",
+  "document_end": "2019-12-30",
+  "in_force": "2008-09-01",
+  "article_versions": 25,
+  "record_form": "consolidated version as in force on 2008-09-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
