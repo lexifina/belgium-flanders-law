@@ -22,6 +22,10 @@ Artikel 19 van hetzelfde besluit wordt vervangen door wat volgt :<br />" Art. 19
 
 In hetzelfde besluit worden een artikel 21bis en 21ter ingevoegd, die luiden als volgt :<br />"Art. 21bis. Met het oog op de financiële leefbaarheid van een centrum kan de raad van bestuur, op basis van een gemotiveerd verzoek van het centrum en binnen de perken van de kredieten, vastgelegd in de algemene uitgavenbegroting van de Vlaamse Gemeenschap, in het jaar t-1 een voorschot van de enveloppe gecertificeerde of niet-gecertificeerde opleidingen uitkeren. De raad van bestuur legt de voorwaarden en de procedure vast.<br /><br />Eén of meer bedrijfsrevisoren, aangewezen door de raad van bestuur, adviseren de raad van bestuur over de financiële leefbaarheid van een centrum, vermeld in het eerste lid.<br /><br />De raad van bestuur kan de bestemming bepalen van het voorschot, vermeld in het eerste lid.<br /><br />Art. 21ter. SYNTRA Vlaanderen kan in de door de raad van bestuur vastgelegde gecertificeerde en niet-gecertificeerde opleidingen een leer- of taalcoach financieren voor cursussen, bestemd voor de doelgroepen en kansengroepen, vermeld in artikel 22bis, laatste lid.<br /><br />
 
+### ART. 5.
+
+In hetzelfde besluit wordt een artikel 22bis ingevoegd, dat luidt als volgt :<br />"Art. 22bis. Voor gecertificeerde opleidingen bestemd voor doelgroepen en kansengroepen, kan SYNTRA Vlaanderen, binnen de perken van de kredieten, vastgelegd in de algemene uitgavenbegroting van de Vlaamse Gemeenschap, in de periode i de lesgeverkosten voor eigen rekening nemen.<br /><br />Voor niet-gecertificeerde opleidingen, bestemd voor doelgroepen en kansengroepen, kan SYNTRA Vlaanderen, binnen de perken van de kredieten, vastgelegd in de algemene uitgavenbegroting van de Vlaamse Gemeenschap, in de periode i per lesuur een vast bedrag van 52 euro voor eigen rekening nemen.<br /><br />De raad van bestuur legt de criteria vast volgens dewelke SYNTRA Vlaanderen de bedragen, vermeld in het eerste en het tweede lid, voor eigen rekening neemt.<br /><br />De coëfficiënt voor de jaarlijkse berekening per centrum van de gecertificeerde en niet-gecertificeerde opleidingen, vermeld in het eerste en het tweede lid, wordt vastgelegd op 4,20 euro." <br /><br />De doelgroepen en kansengroepen, vermeld in het eerste en tweede lid, worden vastgelegd door de Vlaamse Regering in een overeenkomst met SYNTRA Vlaanderen als vermeld in artikel 14, 15 en 16 van het kaderdecreet Bestuurlijk Beleid van 18 juli 2003 en in artikel 23 van het decreet, of, bij ontstentenis daarvan, bij besluit." <br /><br />
+
 ### ART. 6.
 
 Artikel 23 van hetzelfde besluit wordt vervangen door wat volgt :<br />" Art. 23. Binnen de perken van de totale werkingssubsidie, vermeld in artikel 17, § 2, eerste lid, kan SYNTRA Vlaanderen jaarlijks aan de centra een subsidie projectfinanciering toekennen.<br /><br />Die subsidie wordt door de raad van bestuur verdeeld over de projecten die overeenkomstig dit artikel worden geselecteerd.<br /><br />Uiterlijk op 30 september van het jaar dat voorafgaat aan het jaar van de toekenning van een subsidie projectfinanciering, deelt SYNTRA Vlaanderen aan de centra de volgende gegevens mee :<br />1° de specifieke criteria waaraan de projecten moeten voldoen;<br />2° de procedure voor het indienen van de projectvoorstellen bij de raad van bestuur;<br />3° de procedure voor de evaluatie en de selectie van de projectvoorstellen door de raad van bestuur.<br /><br />De centra dienen uiterlijk op 15 november van datzelfde jaar hun projectvoorstellen bij SYNTRA Vlaanderen in.<br /><br />De raad van bestuur beslist vóór 30 december van datzelfde jaar en legt tevens de voorwaarden vast.<br /><br />De centra moeten voor 30 juni van het jaar dat volgt op de toekenning van de subsidie voor een project, een evaluatie van het project en een overzicht van de besteding van de subsidie aan SYNTRA Vlaanderen bezorgen.<br /><br />
@@ -30,6 +34,18 @@ Artikel 23 van hetzelfde besluit wordt vervangen door wat volgt :<br />" Art. 23
 
 Aan artikel 25 van hetzelfde besluit waarvan de bestaande tekst het eerste lid zal vormen, wordt een tweede lid toegevoegd, dat luidt als volgt :<br />"SYNTRA Vlaanderen kan het verworven aandeel van de verkoopsom of van de geactualiseerde waarde, vermeld in het eerste lid, een nieuwe bestemming geven door :<br />1° de herinvestering in de huur, het verwerven, de nieuwbouw of het eigenaarsonderhoud van gebouwen van een centrum, vermeld in artikel 38, § 2, 5°, van het decreet;<br />2° de toekenning van een subsidie projectfinanciering aan de centra overeenkomstig artikel 23;<br />3° de herinvestering in uitrusting, vermeld in artikel 38, § 2, 6°, van het decreet." <br /><br />
 
+### ART. 8.
+
+In het opschrift van hoofdstuk IV, afdeling 4, van hetzelfde besluit worden de woorden "en bonus" geschrapt.<br /><br />
+
+### ART. 9.
+
+In artikel 26 van hetzelfde besluit worden de volgende wijzigingen aangebracht :<br />1° § 1 wordt opgeheven;<br />2° § 2 wordt vervangen door wat volgt : <br />"§ 2. De kwaliteitszorg van de centra wordt om de drie jaar geëvalueerd. De evaluatie meet vooral de progressie van elk centrum en de relatieve positie van de centra onderling.";<br />3° in § 3 wordt het eerste lid opgeheven;<br />4° in § 3 worden de woorden "van het criterium, bedoeld in het eerste lid, 5°," geschrapt.<br /><br />
+
+### ART. 10.
+
+Artikel 28 van hetzelfde besluit, gewijzigd bij besluit van de Vlaamse Regering van 12 december 2003, wordt opgeheven.<br /><br />
+
 ## HOOFDSTUK II Wijziging aan het besluit van de Vlaamse Regering van 13 december 2002 houdende de subsidiëring van een centrum voor vorming van zelfstandigen en kleine en middelgrote ondernemingen, als bedoeld bij het besluit van de Vlaamse Regering van 14 december 2001 betreffende de erkenning en de subsidiëring van de centra voor vorming van zelfstandigen en kleine en middelgrote ondernemingen.
 
 ### ART. 11.
@@ -37,6 +53,10 @@ Aan artikel 25 van hetzelfde besluit waarvan de bestaande tekst het eerste lid z
 In artikel 2 van het besluit van de Vlaamse Regering van 13 december 2002 houdende de subsidiëring van een centrum voor vorming van zelfstandigen en kleine en middelgrote ondernemingen, als bedoeld bij het besluit van de Vlaamse Regering van 14 december 2001 betreffende de erkenning en de subsidiëring van de centra voor vorming van zelfstandigen en kleine en middelgrote ondernemingen worden de volgende wijzigingen aangebracht : <br />1° in § 1 worden de woorden "6,25 euro" vervangen door de woorden "2,50 euro";<br />2° § 2 wordt opgeheven;<br />3° er wordt een § 3 toegevoegd, die luidt als volgt : <br />"§ 3. Het bedrag, vermeld in artikel 19, 5°, van het besluit op de erkenning en subsidiëring, wordt vastgelegd op 1,50 euro."<br /><br />
 
 ## HOOFDSTUK III Slotbepalingen
+
+### ART. 12.
+
+Het besluit van de Vlaamse Regering van 12 december 2003 houdende de bonus van de centra voor vorming van zelfstandigen en kleine en middelgrote ondernemingen, bedoeld bij het besluit van de Vlaamse Regering van 14 december 2001 betreffende de erkenning en de subsidiëring van de centra voor vorming van zelfstandigen en kleine en middelgrote ondernemingen, gewijzigd bij het besluit van de Vlaamse Regering van 21 maart 2008, wordt opgeheven.<br /><br />
 
 ### ART. 13.
 
