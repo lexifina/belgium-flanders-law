@@ -16,8 +16,9 @@ Dit besluit is van toepassing op het buitengewoon basisonderwijs gefinancierd of
 
 ### ART. 3.
 
-<p>[§ 1. (ing. B.V.R. 13 januari 2006, art. 1) ] Met toepassing van artikel 101 van het decreet kan een school die voldoet aan artikel 11, per 1 september types van vrije keuze oprichten als deze nieuwe types [op de eerste schooldag van oktober (verv. B.V.R. 14 december 2001, art. 2, I: 1 september 2000) ] van het oprichtingsjaar en van het daarop volgende schooljaar voldoen aan de programmatienormen zoals aangegeven in onderstaande tabel:<br>
-&nbsp;</p>
+<p>§ 1. Met toepassing van artikel 101 van het decreet kan een school die voldoet aan artikel 11, per 1 september types van vrije keuze oprichten als deze nieuwe types op de eerste schooldag van oktober van het oprichtingsjaar en van het daarop volgende schooljaar voldoen aan de programmatienormen zoals aangegeven in onderstaande tabel:<br>
+<br>
+</p>
 
 <table border="1" cellpadding="0" cellspacing="0" style="border-collapse:collapse">
 	<tbody>
@@ -88,8 +89,9 @@ Dit besluit is van toepassing op het buitengewoon basisonderwijs gefinancierd of
 
 <p>&nbsp;</p>
 
-<p>[§ 2. Met toepassing van artikelen 101 en 113 van het decreet kan een school die ontstaan is door toepassing van artikel 103, § 1bis, van het decreet en die voldoet aan artikel 11, per 1 september types van vrije keuze oprichten, op voorwaarde dat die nieuwe types op de eerste schooldag van oktober van het oprichtingsjaar en van het daaropvolgende schooljaar voldoen aan de programmatienormen zoals aangegeven in onderstaande tabel :<br>
-&nbsp;</p>
+<p>§ 2. Met toepassing van artikel 101 van het decreet kan een school die ontstaan is door toepassing van artikel 103, § 1bis, van het decreet en die voldoet aan artikel 11, per 1 september types van vrije keuze oprichten, op voorwaarde dat die nieuwe types op de eerste schooldag van oktober van het oprichtingsjaar en van het daaropvolgende schooljaar voldoen aan de programmatienormen zoals aangegeven in onderstaande tabel :<br>
+<br>
+</p>
 
 <table border="1" cellpadding="0" cellspacing="0" style="border-collapse:collapse">
 	<tbody>
@@ -158,13 +160,11 @@ Dit besluit is van toepassing op het buitengewoon basisonderwijs gefinancierd of
 
 <p>&nbsp;</p>
 
-<p>&nbsp;</p>
-
 ## AFDELING 2 [PROGRAMMATIE VAN SCHOLEN (verv. BVR 5 september 2008, art. 2, I: 1 september 2008)]
 
 ### ART. 4.
 
-<p>[§ 1. (ing. B.V.R. 13 januari 2006, art. 2) ] Met toepassing van de artikelen 103, § 1 en § 2, en 113 van het decreet kan een school tijdens de eerste drie bestaansjaren worden gefinancierd of gesubsidieerd als zij [op de eerste schooldag van oktober (verv. B.V.R. 14 december 2001, art. 2, I: 1 september 2000) ] voor de school als geheel en voor elk type afzonderlijk de programmatienormen bereikt zoals aangegeven in onderstaande tabel:<br>
+<p>§ 1. Met toepassing van de artikelen 103, § 1 en § 2, en 105bis van het decreet kan een school tijdens de eerste drie bestaansjaren worden gefinancierd of gesubsidieerd als zij op de eerste schooldag van oktober voor de school als geheel en voor elk type afzonderlijk de programmatienormen bereikt zoals aangegeven in onderstaande tabel:<br>
 <br>
 </p>
 
@@ -468,10 +468,9 @@ Dit besluit is van toepassing op het buitengewoon basisonderwijs gefinancierd of
 
 <p>&nbsp;</p>
 
-<p>[§ 2. Met toepassing van artikelen 103, § 1bis en § 2, en 113 van het decreet kan een school tijdens de eerste drie bestaansjaren worden gefinancierd of gesubsidieerd als ze op de eerste schooldag van oktober voor de school als geheel, ongeacht het aantal aangeboden types, de programmatienorm van 16 leerlingen bereikt voor scholen in een gemeente met 75 of meer inwoners per vierkante kilometer of de programmatienorm bereikt van 15 leerlingen voor scholen in een gemeente met minder dan 75 inwoners per vierkante kilometer.<br>
+<p>§ 2. Met toepassing van artikelen 103, § 1bis en § 2, en 105bis van het decreet kan een school tijdens de eerste drie bestaansjaren worden gefinancierd of gesubsidieerd als ze op de eerste schooldag van oktober voor de school als geheel, ongeacht het aantal aangeboden types, de programmatienorm van 16 leerlingen bereikt voor scholen in een gemeente met 75 of meer inwoners per vierkante kilometer of de programmatienorm bereikt van 15 leerlingen voor scholen in een gemeente met minder dan 75 inwoners per vierkante kilometer.<br>
 <br>
 In het tweede en derde bestaansjaar moet daarenboven per type de programmatienorm bereikt worden zoals aangegeven in onderstaande tabel:<br>
-<br>
 </p>
 
 <table border="1" cellpadding="0" cellspacing="0" style="border-collapse:collapse">
@@ -541,13 +540,10 @@ In het tweede en derde bestaansjaar moet daarenboven per type de programmatienor
 
 <p>&nbsp;</p>
 
-<p>&nbsp;</p>
-
 ### ART. 5.
 
-<p>§ 1. Met toepassing van de artikelen 103, § 3, en 113 van het decreet kan een school voor type 5 tijdens de eerste drie bestaansjaren worden gefinancierd of gesubsidieerd als de gemiddelde aanwezigheid van de regelmatige leerlingen gedurende de maand september de programmatienormen bereikt zoals aangegeven in onderstaande tabel.<br>
-<br>
-</p>
+<p>§ 1. Met toepassing van de artikelen 103, § 3, en 105bis van het decreet kan een school voor type 5 tijdens de eerste drie bestaansjaren worden gefinancierd of gesubsidieerd als de gemiddelde aanwezigheid van de regelmatige leerlingen gedurende de maand september de programmatienormen bereikt zoals aangegeven in onderstaande tabel.<br>
+&nbsp;</p>
 
 <table border="1" cellpadding="0" cellspacing="0" style="border-collapse:collapse">
 	<tbody>
@@ -596,300 +592,35 @@ In het tweede en derde bestaansjaar moet daarenboven per type de programmatienor
 
 ### ART. 6.
 
-Met toepassing van artikel 109, § 1 van het decreet kan een gefinancierde of gesubsidieerde school die voldoet aan artikel 11 per 1 september een of meer vestigingsplaats(en) oprichten op minder dan twee kilometer van de administratieve vestigingsplaats.
+...
 
 ### ART. 7.
 
-Met toepassing van artikel 109, § 2 van het decreet kan een gefinancierde of gesubsidieerde school die voldoet aan artikel 11 per 1 september een of meer vestigingsplaats(en) oprichten op twee kilometer en meer van de administratieve vestigingsplaats, als de types in deze nieuwe vestigingsplaats(en) de normen bereiken zoals aangegeven in onderstaande tabel:<br>
-<br>
-
-<table border="1" cellpadding="0" cellspacing="0" style="border-collapse:collapse">
-	<tbody>
-		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:153.5pt">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:153.55pt">
-			<p>Gemeente met &lt; 75 inwoners/km<sup>2</sup></p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:153.55pt">
-			<p>Gemeente met ³ 75 inwoners/km<sup>2</sup></p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.5pt">
-			<p>Type 1</p>
-
-			<p>Type 2</p>
-
-			<p>Type 3</p>
-
-			<p>Type 4</p>
-
-			<p>Type 5</p>
-
-			<p>Type 6</p>
-
-			<p>Type 7</p>
-
-			<p>Type 8</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.55pt">
-			<p>8</p>
-
-			<p>5</p>
-
-			<p>5</p>
-
-			<p>5</p>
-
-			<p>5</p>
-
-			<p>5</p>
-
-			<p>5</p>
-
-			<p>8</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.55pt">
-			<p>10</p>
-
-			<p>7</p>
-
-			<p>7</p>
-
-			<p>7</p>
-
-			<p>7</p>
-
-			<p>6</p>
-
-			<p>6</p>
-
-			<p>10</p>
-			</td>
-		</tr>
-	</tbody>
-</table>
-
-<p>&nbsp;</p>
+...
 
 ## AFDELING 4 [... (opgeh. BVR 5 september 2008, I: 1 september 2008)]
+
+### ART. 8.
+
+...
 
 ## AFDELING 5 [... (opgeh. BVR 5 september 2008, I: 1 september 2008)]
 
 ### ART. 9.
 
-§ 1. Met toepassing van artikelen 111 en 113 van het decreet kan een gefinancierde of gesubsidieerde school die op de eerste schooldag van februari van het voorgaande schooljaar als school de normen bereikte zoals aangegeven in onderstaande tabel, per 1 september een nieuw type oprichten.<br>
-<br>
-§ 2. Het nieuwe type moet bovendien [op de eerste schooldag van oktober (verv. B.V.R. 14 december 2001, art. 2, I: 1 september 2000) ] van het eerste en tweede bestaansjaar de programmatienormen bereiken zoals aangegeven in onderstaande tabel:<br>
-&nbsp;
-<table border="1" cellpadding="0" cellspacing="0" style="border-collapse:collapse">
-	<tbody>
-		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:153.5pt">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:153.55pt">
-			<p>Gemeente met &lt; 75 inwoners/km<sup>2</sup></p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:153.55pt">
-			<p>Gemeente met ³ 75 inwoners/km<sup>2</sup></p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.5pt">
-			<p>Norm voor de school (art.9, § 1)</p>
-
-			<p>Type 1</p>
-
-			<p>Type 2</p>
-
-			<p>Type 3</p>
-
-			<p>Type 4</p>
-
-			<p>Type 6</p>
-
-			<p>Type 7</p>
-
-			<p>Type 8</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.55pt">
-			<p>&nbsp;</p>
-
-			<p>19</p>
-
-			<p>13</p>
-
-			<p>13</p>
-
-			<p>13</p>
-
-			<p>11</p>
-
-			<p>11</p>
-
-			<p>19</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.55pt">
-			<p>&nbsp;</p>
-
-			<p>25</p>
-
-			<p>18</p>
-
-			<p>18</p>
-
-			<p>18</p>
-
-			<p>15</p>
-
-			<p>15</p>
-
-			<p>25</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.5pt">
-			<p>Norm nieuw type eerste en tweede bestaansjaar (art. 9, § 2)</p>
-
-			<p>Type 1</p>
-
-			<p>Type 2</p>
-
-			<p>Type 3</p>
-
-			<p>Type 4</p>
-
-			<p>Type 6</p>
-
-			<p>Type 7</p>
-
-			<p>Type 8</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.55pt">
-			<p>&nbsp;</p>
-
-			<p>&nbsp;</p>
-
-			<p>23</p>
-
-			<p>16</p>
-
-			<p>16</p>
-
-			<p>16</p>
-
-			<p>14</p>
-
-			<p>14</p>
-
-			<p>23</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.55pt">
-			<p>&nbsp;</p>
-
-			<p>&nbsp;</p>
-
-			<p>30</p>
-
-			<p>21</p>
-
-			<p>21</p>
-
-			<p>21</p>
-
-			<p>18</p>
-
-			<p>18</p>
-
-			<p>30</p>
-			</td>
-		</tr>
-	</tbody>
-</table>
-
-<p>&nbsp;</p>
+...
 
 ## AFDELING 6 [... (opgeh. BVR 5 september 2008, I: 1 september 2008)]
 
 ### ART. 10.
 
-Met toepassing van artikelen 112 en 113 van het decreet kan een gefinancierde of gesubsidieerde school die voldoet aan artikel 11 per 1 september een bestaand type omvormen tot een ander type als het type dat zal worden omgevormd, op de eerste schooldag van februari van het voorgaande schooljaar, en het nieuwe type, [op de eerste schooldag van oktober (verv. B.V.R. 14 december 2001, art. 2, I: 1 september 2000) ] van het schooljaar waarin de omvorming aanvat, de normen bereiken zoals aangegeven in onderstaande tabel:<br>
-&nbsp;
-<table border="1" cellpadding="0" cellspacing="0" style="border-collapse:collapse">
-	<tbody>
-		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:153.5pt">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:153.55pt">
-			<p>Gemeente met &lt; 75 inwoners/km<sup>2</sup></p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:153.55pt">
-			<p>Gemeente met ³ 75 inwoners/km<sup>2</sup></p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.5pt">
-			<p>Type 1</p>
-
-			<p>Type 2</p>
-
-			<p>Type 3</p>
-
-			<p>Type 4</p>
-
-			<p>Type 6</p>
-
-			<p>Type 7</p>
-
-			<p>Type 8</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.55pt">
-			<p>15</p>
-
-			<p>11</p>
-
-			<p>11</p>
-
-			<p>11</p>
-
-			<p>9</p>
-
-			<p>9</p>
-
-			<p>15</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.55pt">
-			<p>20</p>
-
-			<p>14</p>
-
-			<p>14</p>
-
-			<p>14</p>
-
-			<p>12</p>
-
-			<p>12</p>
-
-			<p>20</p>
-			</td>
-		</tr>
-	</tbody>
-</table>
-
-<p>&nbsp;</p>
+...
 
 ## HOOFDSTUK 3 RATIONALISATIE
 
 ### ART. 11.
 
-<p>§ 1. Om, met toepassing van de artikelen 115 en 121 van het decreet na het derde bestaansjaar nog gefinancierd of gesubsidieerd te blijven, moeten per school en per type in de administratieve vestigingsplaats en in elke vestigingsplaats op twee kilometer en meer van de administratieve vestigingsplaats, op de eerste schooldag van februari van het voorgaande schooljaar de rationalisatienormen worden bereikt zoals aangegeven in onderstaande tabel:<br>
-<br>
-</p>
+<p>§ 1. Met toepassing van artikel 121 van het decreet zijn de rationalisatienormen bepaald voor de toepassing van artikelen 109, 110, 111, 112 en 114 van het decreet, deze aangegeven in onderstaande tabel :</p>
 
 <table border="1" cellpadding="0" cellspacing="0" style="border-collapse:collapse">
 	<tbody>
@@ -1032,11 +763,10 @@ Met toepassing van artikelen 112 en 113 van het decreet kan een gefinancierde of
 
 <p>&nbsp;</p>
 
-<p>§ 2. Met toepassing van de artikelen 123, § 2, en 124, 5° worden de normen voor type 5 in § 1 vergeleken met de gemiddelde aanwezigheid van de regelmatige leerlingen tijdens de telperiode. De gemiddelde aanwezigheid wordt naar beneden afgerond.<br>
+<p>§ 2. Met toepassing van artikel 114, § 3, en 124, 5° worden de normen voor type 5 in § 1 vergeleken met de gemiddelde aanwezigheid van de regelmatige leerlingen tijdens de telperiode. De gemiddelde aanwezigheid wordt naar beneden afgerond.<br>
 <br>
-[§ 3. Om met toepassing van artikelen 115 en 121 van het decreet na het derde bestaansjaar nog gefinancierd of gesubsidieerd te blijven, moet een school die ontstond door toepassing van artikel 103, § 1bis, van het decreet, op schoolniveau en per type in de administratieve vestigingsplaats en in elke vestigingsplaats op twee kilometer en meer van de administratieve vestigingsplaats, op de eerste schooldag van februari van het voorgaande schooljaar de rationalisatienormen hebben bereikt zoals aangegeven in onderstaande tabel :<br>
-<br>
-</p>
+§ 3. Om met toepassing van artikel 114 en 121 van het decreet na het derde bestaansjaar nog gefinancierd of gesubsidieerd te blijven, moet een school die ontstond door toepassing van artikel 103, § 1bis, van het decreet, op schoolniveau en per type in de administratieve vestigingsplaats en in elke vestigingsplaats op twee kilometer en meer van de administratieve vestigingsplaats, op de eerste schooldag van februari van het voorgaande schooljaar de rationalisatienormen hebben bereikt zoals aangegeven in onderstaande tabel :<br>
+&nbsp;</p>
 
 <table border="1" cellpadding="0" cellspacing="0" style="border-collapse:collapse">
 	<tbody>
@@ -1174,10 +904,6 @@ Met toepassing van artikelen 112 en 113 van het decreet kan een gefinancierde of
 
 <p>&nbsp;</p>
 
-<p>&nbsp;</p>
-
-<p>&nbsp;</p>
-
 ## HOOFDSTUK 4 BEHOUD
 
 ### ART. 12.
@@ -1262,11 +988,11 @@ Met toepassing van artikel 118 van het decreet kan een gefinancierde of gesubsid
 
 ### ART. 15.
 
-Onverminderd de toepassing van artikel 174 van het decreet, worden de misbruiken bij het tellen van de regelmatige leerlingen voor rationalisatie-, programmatie- en behoudsnormen die vastgesteld zijn door het departement met toepassing van de artikelen 177, § 1, 9° van het decreet bij aangetekend schrijven meegedeeld aan het betrokken schoolbestuur. De mededeling verwijst naar de mogelijke sancties.
+Onverminderd de toepassing van artikel 174 van het decreet, worden de misbruiken bij het tellen van de regelmatige leerlingen voor rationalisatie-, programmatie- en behoudsnormen die vastgesteld zijn door Agodi met toepassing van de artikelen 177, § 1, 9° van het decreet bij aangetekend schrijven meegedeeld aan het betrokken schoolbestuur. De mededeling verwijst naar de mogelijke sancties.
 
 ### ART. 16.
 
-§ 1. Binnen een termijn van 30 kalenderdagen na de betekening van het aangetekend schrijven kan het schoolbestuur bij het departement een verweerschrift indienen. De betekening wordt geacht te gebeuren de derde werkdag na het versturen van het aangetekend schrijven. De herfstvakantie, kerstvakantie, krokusvakantie, paasvakantie en zomervakantie schorten de termijn van 30 kalenderdagen op.<br /><br />§ 2. Na ontvangst van het verweerschrift en uiterlijk na 60 kalenderdagen na de betekening van het aangetekend schrijven bedoeld in § 1, legt het departement Onderwijs eventueel een dossier met een voorstel tot sanctie voor aan de minister.
+§ 1. Binnen een termijn van 30 kalenderdagen na de betekening van het aangetekend schrijven kan het schoolbestuur bij het Agodi een verweerschrift indienen. De betekening wordt geacht te gebeuren de derde werkdag na het versturen van het aangetekend schrijven. De herfstvakantie, kerstvakantie, krokusvakantie, paasvakantie en zomervakantie schorten de termijn van 30 kalenderdagen op.<br /><br />§ 2. Na ontvangst van het verweerschrift en uiterlijk na 60 kalenderdagen na de betekening van het aangetekend schrijven bedoeld in § 1, legt het Agodi eventueel een dossier met een voorstel tot sanctie voor aan de minister.
 
 ### ART. 17.
 
@@ -1276,7 +1002,7 @@ Binnen een termijn van drie maanden na de betekening van de in artikel 15 bedoel
 
 ### ART. 18.
 
-Scholen, vestigingsplaatsen en/of types die door de toepassing van artikel 115 van het decreet op de eerste schooldag van februari 1997 niet voldeden aan de normen van dit besluit, maar wel voldoen op de laatste schooldag van september 1997 blijven gedurende het schooljaar 1997-1998 verder gefinancierd of gesubsidieerd. Indien dit niet het geval is, kan voor een verdere financiering of subsidiëring in toepassing van artikel 125, § 2 van het decreet een afwijking wegens uitzonderlijke omstandigheden worden toegestaan door de Vlaamse regering.
+...
 
 ## HOOFDSTUK 7 OPHEFFINGSBEPALINGEN
 
