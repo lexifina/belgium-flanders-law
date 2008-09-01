@@ -2,16 +2,16 @@
   "codex_id": 1005770,
   "title": "Besluit van de Vlaamse Regering van 1997-10-07 betreffende de nuttige ervaring als bekwaamheidsbewijs voor personeelsleden van het onderwijs",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1005770/VolledigDocument?datum=2006-06-01",
-  "source_sha256": "f22b6eb6a047285f46cf8485a3ead3d89922c83b0c82d993d54c3c9aaf8d23eb",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1005770/VolledigDocument?datum=2008-09-01",
+  "source_sha256": "b257d0d72ccd83fd290b6e034a52e7d8b48954e0c2d8af8d11203d7b6c315d4b",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1005770&param=informatie",
-  "as_of": "2006-06-01",
+  "as_of": "2008-09-01",
   "made": "1997-10-07",
   "gazette": "1997-11-19",
   "numac": 1997036332,
   "document_start": "1997-09-01",
   "document_end": null,
-  "in_force": "2006-06-01",
+  "in_force": "2008-09-01",
   "article_versions": 23,
-  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2008-09-01; future article versions excluded; article text as the API gives it"
 }
