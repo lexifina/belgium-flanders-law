@@ -2,16 +2,16 @@
   "codex_id": 1001748,
   "title": "Besluit van de Vlaamse Regering van 1989-06-05 [tot vaststelling en indeling van de ambten van de leden van het bestuurs- en onderwijzend personeel van instellingen voor secundair onderwijs]",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1001748/VolledigDocument?datum=2006-06-01",
-  "source_sha256": "166fa7fe34c91b7a14621c2b91c13c92c64e7f89ddc11ec3d1b7ad0e38d5654f",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1001748/VolledigDocument?datum=2008-09-01",
+  "source_sha256": "caa19d88db7a0e5d8ba1ec841fe997216d701aa5c814cb0f0853b4eb0849c5e1",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1001748&param=informatie",
-  "as_of": "2006-06-01",
+  "as_of": "2008-09-01",
   "made": "1989-06-05",
   "gazette": "1989-08-15",
   "numac": 1989029496,
   "document_start": "1989-09-01",
   "document_end": null,
-  "in_force": "2006-06-01",
+  "in_force": "2008-09-01",
   "article_versions": 9,
-  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2008-09-01; future article versions excluded; article text as the API gives it"
 }

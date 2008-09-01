@@ -2,12 +2,14 @@
 
 ### ART. 1.
 
-[De bepalingen van dit besluit zijn van toepassing op de leden van het bestuurs- en onderwijzend personeel van de door de Vlaamse Gemeenschap georganiseerde en gesubsidieerde instellingen:<br>
-- voor voltijds secundair onderwijs;<br>
-- voor voltijds secundair onderwijs die deeltijds beroepssecundair onderwijs organiseren;<br>
-- voor voltijds secundair zeevisserijonderwijs die deeltijds secundair zeevisserijonderwijs organiseren. (verv. B.V.R. 19 oktober 1994, art. 1, I: 1 september 1990) ]<br>
+Dit besluit is van toepassing op de leden van het bestuurs- en onderwijzend personeel van de volgende instellingen die door de Vlaamse Gemeenschap gefinancierd en gesubsidieerd worden :<br>
+1° de instellingen voor voltijds secundair onderwijs;<br>
+2° de instellingen voor voltijds secundair onderwijs die deeltijds beroepssecundair onderwijs organiseren;<br>
+3° de instellingen voor voltijds secundair zeevisserijonderwijs die deeltijds secundair zeevisserijonderwijs organiseren.<br>
 <br>
-Ze zijn echter niet van toepassing op de leden van het bestuurs- en onderwijzend personeel van de instellingen of afdelingen [... (geschr. B.V.R. 9 juli 1996, art. 1, I: 1 september 1996) ] voor buitengewoon secundair onderwijs.
+Dit besluit is ook van toepassing op de autonome centra voor deeltijds beroepssecundair onderwijs die door de Vlaamse Gemeenschap gefinancierd en gesubsidieerd worden.<br>
+<br>
+Ze zijn echter niet van toepassing op de leden van het bestuurs- en onderwijzend personeel van de instellingen of afdelingen&nbsp;voor buitengewoon secundair onderwijs.
 
 ### ART. 2.
 
