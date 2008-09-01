@@ -12,6 +12,10 @@ In het opschrift van het besluit van de Vlaamse Regering van 27 april 2001 houde
 
 Artikel 6 van hetzelfde besluit, vervangen bij het besluit van de Vlaamse Regering van 13 december 2002, wordt vervangen door wat volgt :<br />« Art. 6. § 1. De mini-crèche biedt minstens dagopvang of buitenschoolse opvang aan, eventueel aangevuld met flexibele opvang, opvang van zieke kinderen of opvang van kinderen met een specifieke zorgbehoefte.<br /><br />§ 2. Het zelfstandige kinderdagverblijf biedt uitsluitend buitenschoolse opvang aan. »<br /><br />
 
+### ART. 3.
+
+Artikel 8 van hetzelfde besluit, gewijzigd bij het besluit van de Vlaamse Regering van 13 december 2002, wordt vervangen door wat volgt :<br />« Art. 8. De verantwoordelijke van de mini-crèche of het zelfstandige kinderdagverblijf beschikt over een diploma of getuigschrift van een door Kind en Gezin vastgelegde opleiding ».<br /><br />
+
 ### ART. 4.
 
 Aan artikel 8 van hetzelfde besluit, gewijzigd bij het besluit van de Vlaamse Regering van 13 december 2002, waarvan de bestaande tekst § 1 zal vormen, wordt een § 2 toegevoegd, die luidt als volgt :<br />« § 2. Per opvangvoorziening volgt de verantwoordelijke(n) van de mini-crèche of het kinderdagverblijf en/of één van de begeleiders die de opvang helpen verzorgen in het kalenderjaar van de aanvraag een vorming of bijscholing van minstens acht uur die rechtstreeks verband houdt met de opvangactiviteiten. In geval van een verlenging van de aanvraag is de vorming of bijscholing jaarlijks te herhalen in het kalenderjaar dat aan de verlengingsaanvraag voorafgaat. »<br /><br />
