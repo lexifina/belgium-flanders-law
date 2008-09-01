@@ -1,0 +1,17 @@
+{
+  "codex_id": 1017204,
+  "title": "Besluit van de Vlaamse Regering van 2008-07-04 tot wijziging van het Besluit van de Vlaamse Regering van 17 november 2006 betreffende de goedkeuring en subsidiëring van geïntegreerde woonprojecten voor personen met een handicap en tot opheffing van het ministerieel besluit van 19 december 2006 houdende de profielbeschrijving van de cliënten geïntegreerd wonen",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1017204/VolledigDocument?datum=2008-09-01",
+  "source_sha256": "83d17197fae94f9e2c4482eb3234f17747d3a565eec3002ee5e1303e3c14e1c3",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1017204&param=informatie",
+  "as_of": "2008-09-01",
+  "made": "2008-07-04",
+  "gazette": "2008-10-21",
+  "numac": 2008036214,
+  "document_start": "2008-09-01",
+  "document_end": null,
+  "in_force": "2008-09-01",
+  "article_versions": 11,
+  "record_form": "consolidated version as in force on 2008-09-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
