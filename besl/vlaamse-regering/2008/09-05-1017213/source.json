@@ -1,0 +1,17 @@
+{
+  "codex_id": 1017213,
+  "title": "Besluit van de Vlaamse Regering van 2008-09-05 tot wijziging van het besluit van de Vlaamse Regering van 5 maart 2004 betreffende de puntenenveloppen voor de scholengemeenschappen basisonderwijs en het besluit van de Vlaamse Regering van 17 juni 1997 betreffende de personeelsformatie in het gewoon basisonderwijs",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1017213/VolledigDocument?datum=2008-09-01",
+  "source_sha256": "ef41ada9c0ae3d60349e113fde5963821879a8245e77263a936721f248f4a204",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1017213&param=informatie",
+  "as_of": "2008-09-01",
+  "made": "2008-09-05",
+  "gazette": "2008-10-21",
+  "numac": 2008203677,
+  "document_start": "2008-09-01",
+  "document_end": null,
+  "in_force": "2008-09-01",
+  "article_versions": 8,
+  "record_form": "consolidated version as in force on 2008-09-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
