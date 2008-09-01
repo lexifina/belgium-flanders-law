@@ -14,7 +14,7 @@ Bij de berekening van het aantal kalenderdagen vermeld in dit besluit, worden de
 
 ### ART. 3.
 
-Dit besluit is van toepassing op de scholen van het basisonderwijs en de instellingen van het secundair onderwijs.
+Dit besluit is van toepassing op de scholen voor basis- of secundair onderwijs, op de centra voor deeltijds beroepssecundair onderwijs en op de centra voor deeltijdse vorming. Met uitzondering van de pariteitregel is dit besluit eveneens van toepassing op de centra voor vorming van zelfstandigen en kleine en middelgrote ondernemingen.
 
 ## HOOFDSTUK III SAMENSTELLING VAN EEN COLLEGE
 
