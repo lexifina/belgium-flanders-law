@@ -2,16 +2,16 @@
   "codex_id": 1014126,
   "title": "Besluit van de Vlaamse Regering van 2005-09-16 betreffende een tijdelijk project tot ondersteuning van sommige leerlingen in de optie verzorging van de derde graag BSO van het gewoon voltijds secundair onderwijs",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1014126/VolledigDocument?datum=2006-06-01",
-  "source_sha256": "053c8b2e7501c578590890f3f660d8e1f1dddd46c02f142cccda0ddaafa5627a",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1014126/VolledigDocument?datum=2008-09-01",
+  "source_sha256": "3b3d4b8a1041edbd655ee0fcdfdec800e8736f17338e9f78728b2a898a0ccb4f",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1014126&param=informatie",
-  "as_of": "2006-06-01",
+  "as_of": "2008-09-01",
   "made": "2005-09-16",
   "gazette": "2005-12-06",
   "numac": 2005036516,
   "document_start": "2005-08-31",
   "document_end": "2008-08-31",
-  "in_force": "2006-06-01",
+  "in_force": "2008-09-01",
   "article_versions": 11,
-  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2008-09-01; future article versions excluded; article text as the API gives it"
 }
