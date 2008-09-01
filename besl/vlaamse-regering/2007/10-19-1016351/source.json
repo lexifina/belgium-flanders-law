@@ -2,16 +2,16 @@
   "codex_id": 1016351,
   "title": "Besluit van de Vlaamse Regering van 2007-10-19 betreffende de organisatie van tijdelijke projecten rond studie- en beroepskeuze en rond werkplekleren",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1016351/VolledigDocument?datum=2007-11-07",
-  "source_sha256": "5368e3250d8a20102fec94d4b74a5a8b32fab26f6de4efa2847409720dd2f16d",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1016351/VolledigDocument?datum=2008-09-01",
+  "source_sha256": "78028504b5139e0630ceb2fa4b74399bc655046ac4e1f5912ce3b652edba997c",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1016351&param=informatie",
-  "as_of": "2007-11-07",
+  "as_of": "2008-09-01",
   "made": "2007-10-19",
   "gazette": "2007-11-20",
   "numac": 2007037013,
   "document_start": "2007-09-07",
   "document_end": "2010-08-31",
-  "in_force": "2007-11-07",
-  "article_versions": 21,
-  "record_form": "consolidated version as in force on 2007-11-07; future article versions excluded; article text as the API gives it"
+  "in_force": "2008-09-01",
+  "article_versions": 22,
+  "record_form": "consolidated version as in force on 2008-09-01; future article versions excluded; article text as the API gives it"
 }
