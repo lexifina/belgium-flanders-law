@@ -36,14 +36,14 @@ Het Agentschap betaalt de kosten van de krachtens dit besluit ten laste genomen 
 
 ### ART. 7.
 
-De uren bijstand die de erkende tolken voor doven en slechthorenden effectief hebben gepresteerd, de tijd voor verplaatsing niet inbegrepen, zoals die blijken uit de prestatiestaten, worden vergoed naar rato van 30,47 euro per gefactureerd vol of begonnen uur.<br>
+De uren bijstand die de erkende tolken voor doven en slechthorenden effectief hebben gepresteerd, de tijd voor verplaatsing niet inbegrepen, zoals die blijken uit de prestatiestaten, worden vergoed naar rato van 31,47 euro per gefactureerd vol of begonnen uur.<br>
 <br>
 Dat bedrag wordt jaarlijks op 1 januari aangepast volgens de formule :<br>
-[30,47] x index december [jaar - 1]/index december [jaar - 2].
+[31,47] x index december [jaar - 1]/index december [jaar - 2].
 
 ### ART. 8.
 
-§ 1.Het Agentschap subsidieert de personeels- en werkingskosten van het gemachtigd centraal tolkenbureau, vermeld in artikel 11, op jaarbasis naar rato van een forfaitair bedrag van 31 euro per uur, vermenigvuldigd met 4750 uren. <br /><br />Het forfaitair bedrag is gekoppeld aan het prijsindexcijfer, dat berekend en benoemd wordt voor de toepassing van artikel 2 van het koninklijk besluit van 24 december 1993 ter uitvoering van de wet van 6 januari 1989 tot vrijwaring van het concurrentievermogen. De basisindex is het prijsindexcijfer van toepassing op de dag van de inwerkingtreding van dit besluit. Het wordt op 1 januari van elk jaar aangepast aan de evolutie van dat prijsindexcijfer gedurende het voorbije jaar.<br /><br />§ 2. Minimum 75 % van de in § 1 bedoelde subsidies wordt besteed aan personeelskosten voor personeel waarvan de helft beschikt over een tolkdiploma.<br /><br />Er is 1 fulltime coördinator.<br /><br />De personeelsleden worden vergoed overeenkomstig de voor de voorzieningen voor opvang van personen met een handicap vastgestelde reglementaire barema's en anciënniteitsregeling.<br /><br />Het centraal tolkenbureau beslist over de voor de coördinator en de overige personeelsleden toegepaste barema's.<br /><br />§ 3. Maximum 25 % van de in § 1 bedoelde subsidie wordt besteed aan werkingskosten.
+§ 1.Het Agentschap subsidieert de personeels- en werkingskosten van het gemachtigd centraal tolkenbureau, vermeld in artikel 11, op jaarbasis naar rato van een forfaitair bedrag van 21,81 euro per uur, vermenigvuldigd met 7525 uren. <br /><br />§ 2. Minimum 75 % van de in § 1 bedoelde subsidies wordt besteed aan personeelskosten voor personeel waarvan de helft kennis heeft van de gebarentaal.<br /><br />Er is 1 fulltime coördinator.<br /><br />De personeelsleden worden vergoed overeenkomstig de voor de voorzieningen voor opvang van personen met een handicap vastgestelde reglementaire barema's en anciënniteitsregeling.<br /><br />Het centraal tolkenbureau beslist over de voor de coördinator en de overige personeelsleden toegepaste barema's.<br /><br />§ 3. Maximum 25 % van de in § 1 bedoelde subsidie wordt besteed aan werkingskosten.
 
 ### ART. 9.
 
@@ -57,7 +57,7 @@ Dat bedrag wordt jaarlijks op 1 januari aangepast volgens de formule :<br>
 
 ### ART. 11.
 
-De bij artikel 1 bedoelde dienstverlening wordt door het Agentschap slechts ten laste genomen als zij door bemiddeling van het hiertoe door het Agentschap gemachtigd centraal tolkenbureau verstrekt wordt en voor ten hoogste 6000 uren per jaar.
+De bij artikel 1 bedoelde dienstverlening wordt door het Agentschap slechts ten laste genomen als zij door bemiddeling van het hiertoe door het Agentschap gemachtigd centraal tolkenbureau verstrekt wordt en voor ten hoogste 7525 uren per jaar.
 
 ### ART. 12.
 
