@@ -14,9 +14,33 @@ Dit decreet regelt een gemeenschapsaangelegenheid.<br /><br />
 
 In artikel 3 van het decreet basisonderwijs van 25 februari 1997, gewijzigd bij de decreten van 14 juli 1998, 22 december 2000, 13 juli 2001, 28 juni 2002, 14 februari 2003, 10 juli 2003, 7 juli 2006, 22 juni 2007 en 6 juli 2007 worden de volgende wijzigingen aangebracht :<br />1° het punt 14°bis, ingevoegd bij het decreet van 22 juni 2007 en impliciet opgeheven bij decreet van 6 juli 2007, wordt opnieuw ingevoegd, als volgt :<br />« 14°bis extra-uren : uren die toegekend zijn in het kader van tijdelijke projecten; »;<br />2° een punt 14ter wordt ingevoegd dat luidt als volgt :<br />« 14°ter extra-murosactiviteiten : activiteiten die plaatsvinden buiten de schoolmuren en georganiseerd worden voor één of meer leerlingengroepen. Activiteiten die volledig buiten de schooluren georganiseerd worden, vallen hier niet onder; ».<br /><br />
 
+### ART. II.2.
+
+Aan artikel 68, § 1, 3°, van hetzelfde decreet wordt een derde lid toegevoegd dat luidt als volgt :<br />« Dit punt is niet van toepassing op de scholen van het buitengewoon basisonderwijs type 5. ».<br /><br />
+
 ### ART. II.3.
 
 In artikel 124 van hetzelfde decreet worden tussen de woorden « verscheidene vestigingsplaatsen » en de woorden « worden de leerlingen » de woorden « , de scholen voor buitengewoon onderwijs van het type 5 uitgezonderd, » ingevoegd.<br /><br />
+
+### ART. II.4.
+
+In artikel 125quinquies van hetzelfde decreet wordt § 4ter vervangen door wat volgt :<br />« § 4ter. Tijdens voormelde periode van zes schooljaren kan de beslissing of overeenkomst inzake de vorming van een scholengemeenschap evenwel worden gewijzigd, in die zin dat een school alsnog tot de scholengemeenschap kan toetreden of uit de scholengemeenschap kan stappen.<br /><br />Uitstap uit de scholengemeenschap kan :<br />1° indien de scholengemeenschap minder dan 900 gewogen regelmatige leerlingen telt op de eerste schooldag van februari van het voorgaande schooljaar; of<br />2° indien een school door een schoolbestuur van een andere groep zoals bepaald in artikel 3, 21°, wordt overgenomen en mits alle schoolbesturen, behorende tot de scholengemeenschap instemmen met de uitstap.<br /><br />Wijzigingen van een beslissing of overeenkomst treden in werking op 1 september na de datum waarop de wijziging is tot stand gekomen. ».<br /><br />
+
+### ART. II.5.
+
+In artikel 125novies, § 1, van hetzelfde decreet, ingevoegd bij het decreet van 10 juli 2003 en gewijzigd bij de decreten van 15 december 2006, van 22 juni 2007 en van 13 juli 2007, worden de volgende wijzigingen aangebracht :<br />1° er worden een punt 1°bis, 1°ter en 1°quater ingevoegd, die luiden als volgt :<br />« 1°bis maakt afspraken over het zorgbeleid in de scholen van de scholengemeenschap;<br />1°ter maakt afspraken over de aanwending van de puntenenveloppe voor het voeren van een zorgbeleid toegekend aan de scholengemeenschap zoals bepaald in artikel 125duodecies1;<br />1°quater duidt een personeelslid aangesteld in het ambt van zorgcoördinator aan als aanspreekpunt, voor de overheid, voor de kleuterparticipatie binnen de scholengemeenschap; »;<br />2° punt 3°bis, ingevoegd bij het decreet van 22 juni 2007, wordt opgeheven.<br /><br />
+
+### ART. II.6.
+
+In artikel 125decies, § 1, van hetzelfde decreet, ingevoegd bij het decreet van 10 juli 2003, worden de volgende wijzigingen aangebracht :<br />1° punt 2° wordt geschrapt;<br />2° in punt 3° wordt het getal « 172bis » vervangen door het getal « 172 ».<br /><br />
+
+### ART. II.7.
+
+In hetzelfde decreet wordt artikel 125duodecies1, ingevoegd bij het decreet van 22 juni 2007, vervangen door wat volgt :<br /><br />« Artikel 125duodecies1<br /><br />§ 1. De scholengemeenschap ontvangt jaarlijks een door de regering vastgelegde puntenenveloppe voor het voeren van een zorgbeleid. Deze puntenenveloppe kan enkel voor dit doel, zoals omschreven in artikel 153septies, aangewend worden.<br /><br />Bij het vastleggen van de berekeningswijze van deze puntenenveloppe neemt de regering volgende principes in acht :<br />1° elke scholengemeenschap ontvangt per school voor gewoon basisonderwijs dat de scholengemeenschap telt op de eerste schooldag van februari van het voorgaande schooljaar een sokkel aan punten;<br />2° de overige punten worden lineair toegekend op basis van de leerlingenaantallen in het gewoon basisonderwijs en het aantal kleuters in het buitengewoon basisonderwijs binnen de scholengemeenschap.<br /><br />Voor de lineaire toekenning wordt er een puntengewicht vastgelegd voor :<br />a) kleuters in het gewoon basisonderwijs;<br />b) kleuters in het buitengewoon basisonderwijs;<br />c) leerlingen lager onderwijs in het gewoon basisonderwijs.<br /><br />§ 2. Bij het tellen van de leerlingen voor deze puntenenveloppe gelden de volgende regels :<br />1° in het gewoon basisonderwijs worden alleen de regelmatige leerlingen op de eerste schooldag van februari van het voorgaande schooljaar geteld;<br />2° in afwijking van 1° worden voor de CKG-scholen de leerlingen geteld op basis van het gemiddelde aantal regelmatige leerlingen tijdens de periode van twaalf maanden die voorafgaat aan de eerste schooldag van februari;<br />3° in het buitengewoon basisonderwijs worden alleen de regelmatige kleuters op de eerste schooldag van februari van het voorgaande schooljaar geteld;<br />4° in afwijking van punt 3°, worden in de scholen voor type 5 de kleuters geteld op basis van het gemiddeld aantal regelmatige leerlingen tijdens de periode van twaalf maanden die voorafgaat aan de eerste schooldag van februari.<br /><br />§ 3. Maximaal 10 % van de puntenenveloppe kan aangewend worden voor het aanstellen van personeelsleden die een beleidsondersteunende functie, in het kader van het zorgbeleid zoals omschreven in artikel 153septies, uitoefenen ten behoeve van de scholengemeenschap. Van dit percentage kan na akkoord in het bevoegd lokaal comité worden afgeweken.<br /><br />§ 4. De scholengemeenschap kent, tijdens de schooljaren 2008-2009, 2009-2010 en 2010-2011, aan elke school van de scholengemeenschap jaarlijks minimum het aantal punten toe dat de school, op basis van haar leerlingenaantal op de eerste schooldag van februari van het voorgaande schooljaar, kon inrichten op basis van de berekeningswijze, geldig tijdens het schooljaar 2007-2008 voor de puntenenveloppe toegekend voor een personeelsomkadering ter ondersteuning van het op school gevoerde zorgbeleid.<br /><br />§ 5. De verdeling van de puntenenveloppe door de scholengemeenschap mag niet tot gevolg hebben dat bijkomende personeelsleden wegens ontstentenis van betrekking ter beschikking moeten worden gesteld, tenzij ze onmiddellijk kunnen gereaffecteerd of wedertewerkgesteld worden in een vacante of niet-vacante organieke betrekking in de scholengemeenschap en dit voor de duur van het volledige schooljaar.<br /><br />§ 6. De regering bepaalt de personeelscategorieën en ambten waarin op basis van de puntenenveloppe betrekkingen kunnen worden ingericht en bepaalt op welke wijze de omrekening van punten naar de gefinancierde of gesubsidieerde betrekkingen gebeurt. ».<br /><br />
+
+### ART. II.8.
+
+In artikel 130, § 2, van hetzelfde decreet, gewijzigd bij het decreet van 7 juli 2006, worden de woorden « de puntenenveloppe ter ondersteuning en coördinatie van het zorgbeleid in het gewoon basisonderwijs » vervangen door de woorden « de puntenenveloppe voor het voeren van een zorgbeleid ».<br /><br />
 
 ### ART. II.9.
 
@@ -25,6 +49,62 @@ In artikel 138, § 1, van hetzelfde decreet, gewijzigd bij de decreten van 13 ju
 ### ART. II.10.
 
 In artikel 139, in hetzelfde decreet gewijzigd bij het decreet van 7 juli 2006, wordt tussen de woorden « in artikel 138, 1°, 2°, 3°, en de woorden « 4°, 5° en 7° », de woorden « 3°bis, » ingevoegd.<br /><br />
+
+### ART. II.11.
+
+In artikel 139bis van hetzelfde decreet worden de volgende wijzigingen aangebracht :<br />1° In § 1 worden 1° en 5° vervangen door wat volgt :<br />« 1° het gezin ontvangt één of meerdere schooltoelage(n) zoals bedoeld in artikel 5, punt 34°, van het decreet van 8 juni 2007 betreffende de studiefinanciering van de Vlaamse Gemeenschap;<br />5° de taal die de leerling in het gezin spreekt, dit is de taal die de leerling spreekt met moeder, vader, broers of zussen, is niet het Nederlands. Die taal is niet het Nederlands indien de leerling in het gezin met niemand of in een gezin met drie gezinsleden (de leerling niet meegerekend) met maximum één gezinslid het Nederlands spreekt. Broers en zussen worden als één gezinslid beschouwd. »;<br /><br />2° § 2 wordt vervangen door wat volgt :<br />« § 2. Het beantwoorden aan de in § 1, 4° en 5°, bedoelde gelijkekansenindicatoren wordt bewezen aan de hand van een verklaring op eer door de ouders. Deze documenten of verklaringen worden ten minste vijf jaar bewaard in de school. De Vlaamse Regering bepaalt de wijze waarop het beantwoorden aan de in § 1, 1°, 2° en 3°, bedoelde gelijkekansenindicator wordt vastgesteld en legt de procedure vast volgens dewelke de gegevens worden gemeld aan het Ministerie van Onderwijs en Vorming. Zij houdt daarbij rekening met de vigerende regelgeving inzake de bescherming van de persoonlijke levenssfeer. ».<br /><br />
+
+### ART. II.12.
+
+In artikel 139ter van hetzelfde decreet wordt punt 1° vervangen door wat volgt :<br />« 1° op 1 februari van het voorafgaand schooljaar ten minste 10 % regelmatige leerlingen tellen die beantwoorden aan één of meer van de in artikel 139bis, § 1, 1°, 2°, 3° en 4°, bedoelde gelijkekansenindicatoren waarbij het aantal regelmatige leerlingen die enkel en alleen beantwoorden aan de in artikel 139bis, § 1, 1° of 1° en 5°, bedoelde gelijkekansenindicatoren wordt vermenigvuldigd met een door de Vlaamse Regering bepaalde coëfficiënt, die ten minste gelijk is aan 0,1 en ten hoogste gelijk is aan 1; en ».<br /><br />
+
+### ART. II.13.
+
+In hetzelfde decreet wordt een artikel 139ter1 ingevoegd dat luidt als volgt :<br />« Artikel 139ter1<br />In afwijking van artikel 139bis, § 1, 1°, geldt voor de schooljaren 2008-2009, 2009-2010 en 2010-2011 de volgende gelijkekansenindicator : het gezin leeft van een vervangingsinkomen zoals vastgelegd op de eerste schooldag van februari van 2005. ».<br /><br />
+
+### ART. II.14.
+
+In artikel 139quater, § 1, van hetzelfde decreet wordt punt 1° vervangen door wat volgt :<br />« 1° de in artikel 139ter bedoelde scholen worden gerangschikt volgens het percentage leerlingen die beantwoorden aan één of meer van de in artikel 139bis, § 1, 1°, 2°, 3° en 4°, bedoelde gelijkekansenindicatoren, waarbij het aantal regelmatige leerlingen die enkel en alleen beantwoorden aan de in artikel 139bis, § 1, 1° of 1° en 5°, bedoelde gelijkekansenindicatoren wordt vermenigvuldigd met een door de Vlaamse Regering bepaalde coëfficiënt, die ten minste gelijk is aan 0,1 en ten hoogste gelijk is aan 1. Binnen eenzelfde percentage worden de scholen volgens het absoluut aantal van deze leerlingen gerangschikt; ».<br /><br />
+
+### ART. II.15.
+
+In hetzelfde decreet wordt in artikel 139octies, in § 1, het derde lid vervangen door wat volgt :<br />« Bij negatieve evaluatie verliest de school het recht op de in artikel 139ter bedoelde aanvullende lestijden voor de volgende periode van drie opeenvolgende schooljaren tenzij de school een engagement tot remediëring aangaat. In dat geval krijgen ze de helft van het aantal aanvullende lestijden waarop ze in geval van een positieve evaluatie recht zouden hebben.<br /><br />Een engagement tot remediëring moet aan volgende voorwaarden voldoen :<br />1° de scholen verbinden er zich toe om een stappenplan op te stellen dat voldoet aan de volgende criteria :<br />a) het uitgangspunt van het stappenplan zijn de geformuleerde knelpunten in het evaluatieverslag van de onderwijsinspectie van de betrokken school;<br />b) de geformuleerde doelstellingen tot remediëring in het stappenplan passen binnen de doelstellingen zoals geformuleerd in artikel 139quinquies, § 1, punt 1°;<br />c) de doelstellingen zijn outputgericht, concreet en operationeel geformuleerd. Ze moeten voldoende controleerbaar zijn;<br />d) het stappenplan moet vóór 1 mei van het schooljaar volgend op de negatieve beoordeling aan de onderwijsinspectie bezorgd worden;<br />e) de doelstellingen dienen gerealiseerd te zijn voor 1 juni van het schooljaar volgend op de negatieve evaluatie;<br />2° de scholen verbinden er zich toe om een beroep te doen op externe begeleiding en ondersteuning bij het opstellen en de uitvoering van het stappenplan.<br /><br />De onderwijsinspectie gaat in de maand juni van het schooljaar volgend op de negatieve evaluatie na of, en in welke mate, de doelstellingen werden bereikt. Het bereiken van de doelstellingen wordt afgewogen tegenover de schoolcontext en de kenmerken van de schoolpopulatie.<br /><br />Bij een positieve evaluatie zal de school vanaf het tweede schooljaar terug een beroep kunnen doen op het volledige aantal in artikel 139ter bedoelde aanvullende lestijden. Bij een negatieve evaluatie verliest de school het recht op de in artikel 139ter bedoelde aanvullende lestijden voor de volgende twee schooljaren. ».<br /><br />
+
+### ART. II.16.
+
+In hetzelfde decreet wordt in artikel 139bis, § 3, de volgende zin geschrapt :<br />« Zij bepaalt tevens het maximum van de gecumuleerde gewichten, dat ten minste gelijk is aan het hoogste gewicht dat aan een gelijkekansenindicator wordt toegekend en ten hoogste gelijk is aan anderhalf maal dit hoogste gewicht. ».<br /><br />
+
+### ART. II.17.
+
+In hetzelfde decreet wordt het artikel 139novies vervangen door wat volgt :<br />« Artikel 139novies<br /><br />§ 1. Een school voor gewoon basisonderwijs of gewoon kleuteronderwijs ontvangt voor de schooljaren 2008-2009, 2009-2010 en 2010-2011 GOK+lestijden op voorwaarde dat ze op de eerste schooldag van februari 2008 ten minste 40 % kleuters telde, die beantwoorden aan de in artikel 139bis, § 1, 1°, 2°, 3° en 4°, bedoelde gelijkekansenindicatoren.<br /><br />§ 2. Bij het tellen van de kleuters voor deze aanvullende lestijden gelden de volgende regels :<br />1° alleen de regelmatige kleuters, die op de eerste schooldag van februari 2008 beantwoorden aan de in artikel 139bis, § 1, 1°, 2°, 3° en 4°, bedoelde gelijkekansenindicatoren worden geteld;<br />2° elk van deze kleuters geldt voor één teleenheid.<br /><br />§ 3. Deze GOK+lestijden kunnen binnen de scholen enkel in het gewoon kleuteronderwijs aangewend worden.<br /><br />§ 4. De regering bepaalt binnen de beschikbare begrotingskredieten het aantal GOK+lestijden, alsook de wijze van berekening en bepaalt in welk ambt de GOK+lestijden kunnen worden ingericht. ».<br /><br />
+
+### ART. II.18.
+
+Artikel 153quinquies van hetzelfde decreet, ingevoegd bij decreet van 10 juli 2003, wordt vervangen door wat volgt :<br />« Artikel 153quinquies<br /><br />§ 1. Aan iedere school voor gewoon of buitengewoon basisonderwijs wordt jaarlijks een puntenenveloppe toegekend voor administratieve ondersteuning.<br /><br />§ 2. Aan iedere school voor gewoon of buitengewoon basisonderwijs die deel uitmaakt van een scholengemeenschap, scholengroep of een samenwerkingsplatform zoals bepaald in artikel X.53 van het decreet betreffende het onderwijs XIV van 14 februari 2003 wordt jaarlijks een puntenenveloppe toegekend voor ICT-coördinatie. ».<br /><br />
+
+### ART. II.19.
+
+In artikel 153sexies van hetzelfde decreet, ingevoegd bij het decreet van 10 juli 2003 en gewijzigd bij de decreten van 15 juli 2005, van 7 juli 2006 en van 22 juni 2007 worden de volgende wijzigingen aangebracht :<br />1° § 1 wordt vervangen door wat volgt :<br />« § 1. De regering bepaalt hoe de puntenenveloppe voor ICT-coördinatie en voor administratieve ondersteuning berekend wordt en bepaalt eveneens de personeelscategorieën en ambten waarin op basis van de puntenenveloppe betrekkingen kunnen worden opgericht. »;<br />2° in § 3 worden de woorden « het voeren van een zorgbeleid, » geschrapt;<br />3° § 4 wordt vervangen door wat volgt :<br />« § 4. Maximaal 10 % van de punten uit de puntenenveloppen ICT en administratieve ondersteuning kunnen samen gelegd worden op het niveau van de scholengemeenschap.<br /><br />In afwijking van § 3 kunnen de punten voor ICT en administratieve ondersteuning die op het niveau van de scholengemeenschap samen gelegd worden, vrij aangewend worden. Scholengemeenschappen, waar scholen van het Gemeenschapsonderwijs deel van uitmaken, kunnen deze vrij aan te wenden punten aanwenden om het personeelslid dat belast is met het mandaat van algemeen directeur in de scholengroep, waar één of meerdere scholen van de scholengemeenschap deel van uitmaken, school- of klasvrij te maken. Dit samen leggen mag niet tot gevolg hebben dat personeelsleden bijkomend ter beschikking gesteld worden wegens ontstentenis van betrekking. De niet-naleving van deze bepaling heeft tot gevolg dat een terbeschikkingstelling wegens ontstentenis van betrekking geen uitwerking heeft ten aanzien van de overheid. Het schoolbestuur moet met het oog op de controle een verklaring op erewoord bezorgen aan Agodi waarin het verklaart deze bepaling in acht te nemen. ».<br /><br />
+
+### ART. II.20.
+
+Artikel 153septies van hetzelfde decreet, ingevoegd bij decreet van 10 juli 2003, wordt vervangen door wat volgt :<br />« Artikel 153septies<br />Het zorgbeleid houdt het volgende in :<br />1° de coördinatie van alle zorginitiatieven op het niveau van de school en in voorkomend geval van de scholengemeenschap;<br />2° het ondersteunen van het handelen van het onderwijzend personeel;<br />3° het begeleiden van leerlingen;<br />4° de bevordering van de kleuterparticipatie. ».<br /><br />
+
+### ART. II.21.
+
+Artikel 153octies van hetzelfde decreet, ingevoegd bij decreet van 10 juli 2003, wordt opgeheven.<br /><br />
+
+### ART. II.22.
+
+In artikel 155 van hetzelfde decreet wordt § 2, toegevoegd bij decreet van 7 juli 2006, vervangen door wat volgt :<br />« § 2. In het kader van het geïntegreerd onderwijs gericht op de begeleiding van autistische kinderen en in afwijking van de bepalingen van dit hoofdstuk kan de regering, op vraag van het schoolbestuur, in het buitengewoon onderwijs voor het schooljaar 2008-2009 bijkomende lestijden en bijkomende uren toekennen voor het onderwijzend en paramedisch, medisch, sociaal, psychologisch en orthopedagogisch personeel.<br /><br />Het aantal bijkomende lestijden bedraagt voor het Gemeenschapsonderwijs, het gesubsidieerd officieel onderwijs en het gesubsidieerd vrij onderwijs samen maximaal 702 bijkomende lestijden.<br /><br />Het aantal bijkomende uren bedraagt voor het Gemeenschapsonderwijs, het gesubsidieerd officieel onderwijs en het gesubsidieerd vrij onderwijs samen maximaal 648 bijkomende uren.<br /><br />In geen geval kan het schoolbestuur personeelsleden affecteren, muteren en/of vast benoemen in de bijkomende lestijden of bijkomende uren. ».<br /><br />
+
+### ART. II.23.
+
+Artikel 172 van hetzelfde decreet, gewijzigd bij het decreet van 10 juli 2003, wordt vervangen door wat volgt :<br />« Artikel 172<br />Conform artikel 125decies, § 1, 3°, van dit decreet kunnen scholengemeenschappen punten voor het voeren van een zorgbeleid, verkregen op basis van artikel 125duodecies1, § 3, naar andere scholengemeenschappen overdragen, teneinde speciale projecten met betrekking tot zorg mogelijk te maken. Dit overdragen dient vóór 15 oktober van het lopende schooljaar te gebeuren. ».<br /><br />
+
+### ART. II.24.
+
+In hetzelfde decreet wordt een artikel 194quater ingevoegd dat luidt als volgt :<br />« Artikel 194quater<br />§ 1. Aan iedere school voor gewoon kleuter-, lager- en basisonderwijs, die geen deel uit maakt van een scholengemeenschap, wordt, voor de schooljaren 2008-2009, 2009-2010 en 2010-2011, jaarlijks op basis van het aantal regelmatige leerlingen ingeschreven op de teldag of op basis van het gemiddelde aantal regelmatige leerlingen tijdens de telperiode die van toepassing is voor de berekening van de lestijden volgens de schalen, een puntenenveloppe voor het voeren van een zorgbeleid toegekend.<br /><br />§ 2. De regering bepaalt de personeelscategorieën en ambten waarin op basis van de puntenenveloppe betrekkingen kunnen worden ingericht en bepaalt op welke wijze de omrekening van punten naar de gefinancierde of gesubsidieerde betrekkingen gebeurt. ».<br /><br />
 
 ## Afdeling II Inspraak van het personeel op niveau van de scholengemeenschap
 
@@ -46,15 +126,35 @@ De bepalingen van dit hoofdstuk treden in werking op 1 september 2008, met uitzo
 
 ## Afdeling I Wet tot wijziging van sommige bepalingen van de onderwijswetgeving
 
+### ART. III.1.
+
+In artikel 3 van de wet van 29 mei 1959 tot wijziging van sommige bepalingen van de onderwijswetgeving, ingevoegd bij het decreet van 31 juli 1990 en gewijzigd bij de decreten van 5 juli 1989, 9 april 1992, 28 april 1993, 21 december 1994, 14 juli 1998, 18 mei 1999, 15 juli 2005, 7 juli 2006 en 22 juni 2007, worden de volgende wijzigingen aangebracht :<br />1° in § 5 wordt het woord « voltijds » telkens geschrapt;<br />2° in § 6 worden de volgende wijzigingen aangebracht :<br />1° het woord « voltijds » wordt telkens geschrapt;<br />2° de zinsnede « is niet van toepassing op het deeltijds beroepssecundair onderwijs en » wordt geschrapt;<br />3° in § 8, 1°, wordt een lid toegevoegd, dat luidt als volgt :<br />« Een fusie of afsplitsing van onderwijsinstellingen of een toetreding van een onderwijsinstelling tot of een uittreding van een onderwijsinstelling uit een scholengemeenschap op 1 september van een schooljaar, wordt geacht al op 1 februari van het voorafgaande schooljaar of op de eerstvolgende lesdag erna indien voormelde datum op een vrije dag valt, te hebben plaatsgevonden voor wat de telling per onderwijsinstelling van het aantal leerlingen in het voltijds en deeltijds secundair onderwijs betreft. ».<br /><br />
+
 ## Afdeling II Decreet betreffende het onderwijs II
+
+### ART. III.2.
+
+In artikel 50 van het decreet van 31 juli 1990 betreffende het onderwijs II, wordt in § 5 het punt 6° geschrapt.<br /><br />
+
+### ART. III.3.
+
+In artikel 57, § 3, van hetzelfde decreet, gewijzigd bij de decreten van 13 juli 2001 en 14 februari 2003, wordt aan het eerste lid de volgende zin toegevoegd :<br />« Het wekelijks aantal uren-leraar kan eveneens worden aangewend binnen het centrum voor deeltijds beroepssecundair onderwijs dat verbonden is aan de onderwijsinstelling waaraan de uren-leraar worden toegekend. ».<br /><br />
 
 ### ART. III.4.
 
 In artikel 59bis van hetzelfde decreet, ingevoegd bij het decreet van 28 april 1993 en gewijzigd bij het decreet van 7 juli 2006, worden de volgende wijzigingen aangebracht :<br />1° punt 1° wordt vervangen door wat volgt :<br />« 1° het maximum aantal uren-leraar van een bepaald schooljaar dat wordt overgedragen naar het daaropvolgende schooljaar dient vastgelegd uiterlijk op 1 november van dat schooljaar; »;<br />2° punt 2° wordt vervangen door wat volgt :<br />« 2° het maximum aantal uren-leraar van een bepaald schooljaar dat wordt overgedragen naar het daaropvolgende schooljaar kan nooit hoger liggen dan twee procent van het aantal aanwendbare uren-leraar van dat bepaald schooljaar; »;<br />3° punt 3° wordt vervangen door wat volgt :<br />« 3° het in 1° en 2° bedoelde maximum aantal overgedragen uren-leraar, of een gedeelte ervan, mag, in afwijking van artikel 3, § 6, van de wet van 29 mei 1959 tot wijziging van sommige bepalingen van de onderwijswetgeving, na 1 november van dat schooljaar zowel gebruikt worden in de eigen onderwijsinstelling als overgedragen worden naar een andere onderwijsinstelling binnen hetzelfde net of binnen eenzelfde scholengemeenschap; ».<br /><br />
 
+### ART. III.5.
+
+In hetzelfde decreet wordt in titel IV, hoofdstuk I, een afdeling 4quinquies, Experimenteel modulair onderwijs, ingevoegd, bestaande uit de artikelen 74duodecies tot en met 74vicies semel, die luiden als volgt :<br />« Afdeling 4quinquies. - Experimenteel modulair onderwijs<br /><br />Artikel 74duodecies<br />Vanaf het schooljaar 2008-2009 en tot het tijdstip waarop de decreetgever globale hervormingsmaatregelen aangaande de structuur en de organisatie van het voltijds gewoon secundair onderwijs in werking laat treden, kan als experiment in door de Vlaamse Gemeenschap erkende, gefinancierde of gesubsidieerde instellingen voor voltijds gewoon secundair onderwijs, modulair onderwijs worden georganiseerd overeenkomstig de bepalingen van deze afdeling. In voorkomend geval zijn wettelijke, decretale en reglementaire bepalingen die in strijd zijn met de bepalingen van deze afdeling, niet van toepassing.<br /><br />Het experiment heeft enkel betrekking op structuuronderdelen van het voltijds gewoon beroepssecundair onderwijs en kan enkel worden ingericht door instellingen die gedurende het schooljaar 2007-2008 modulair onderwijs organiseren overeenkomstig het besluit van de Vlaamse Regering van 1 maart 2002 betreffende het experimenteel secundair onderwijs volgens een modulair stelsel.<br /><br />Het decreet van 9 december 2005 betreffende de organisatie van tijdelijke projecten in het onderwijs is niet van toepassing op dit experiment.<br /><br />Artikel 74ter decies<br />§ 1. Modulair onderwijs wordt georganiseerd per studiegebied zonder opdeling in graden of leerjaren. De betrokken studiegebieden zijn : auto, bouw, grafische communicatie en media, handel, hout, koeling en warmte, lichaamsverzorging, mechanica-elektriciteit, personenzorg, textiel, voeding. Elk studiegebied bundelt een reeks opleidingen. Eenzelfde opleiding kan in verschillende studiegebieden voorkomen.<br /><br />§ 2. Elke opleiding omvat algemene vorming, beroepsgerichte vorming en gedifferentieerde onderwijsactiviteiten. In afwijking op deze bepaling is in de opleiding verpleegkunde de algemene vorming facultatief.<br /><br />De algemene vorming, waaronder de basisvorming bedoeld in artikel 55, § 3, § 6 en § 7, wordt hetzij niet-modulair hetzij gedeeltelijk modulair georganiseerd.<br /><br />De beroepsgerichte vorming wordt modulair georganiseerd. In elke opleiding komen een of meer modules voor. Een module is het kleinste te certificeren deel van een opleiding, dat overeenstemt met een bepaalde inhoud. In modules komen geen afzonderlijke vakken voor. Eenzelfde module kan in verschillende opleidingen voorkomen.<br /><br />Gedifferentieerde onderwijsactiviteiten omvatten individuele begeleiding, ondersteuning of remediëring, afgestemd op de specifieke noden van de leerling.<br /><br />§ 3. De Vlaamse Regering legt de opleidingenstructuur vast. Onder opleidingenstructuur wordt verstaan :<br />1° het geheel van de opleidingen per studiegebied;<br />2° de modules per opleiding;<br />3° de duurtijd per module uitgedrukt in uren per week en uitgedrukt in weken per schooljaar;<br />4° de aanduiding dat de modules zich sequentieel of onafhankelijk tot elkaar verhouden; als de modules in een sequentieel verband staan, moeten zij in een eveneens vastgelegde volgorde worden gevolgd;<br />5° het minimum of de minima inzake aantal uren per week voorbehouden voor gedifferentieerde onderwijsactiviteiten.<br /><br />Voor zover de opleidingenstructuur afwijkt van die, vastgesteld bij besluit van de Vlaamse Regering van 1 maart 2002 betreffende het experimenteel secundair onderwijs volgens een modulair stelsel, legt de Vlaamse Regering desbetreffende opleidingenstructuur ter advies aan de Vlaamse Onderwijsraad voor.<br /><br />§ 4. Programmatie respectievelijk opname in de erkennings-, financierings- of subsidiëringsregeling gebeurt per studiegebied.<br /><br />In een onderwijsinstelling kan een studiegebied niet gelijktijdig modulair en niet-modulair worden georganiseerd, tenzij tijdens het geleidelijke omzettingsproces van de ene naar de andere structuur.<br /><br />§ 5. Het modulair onderwijsaanbod van een instelling moet waarborgen dat ten minste één van volgende studiebewijzen kan worden behaald : een studiegetuigschrift van het tweede leerjaar van de derde graad van het secundair onderwijs, een diploma van secundair onderwijs, een diploma in de verpleegkunde.<br /><br />Artikel 74quater decies<br />Voor de modulair georganiseerde leerinhouden van een opleiding worden competenties door de Vlaamse Regering bepaald.<br /><br />De Vlaamse Regering leidt de competenties af uit kwalificaties. Als die er niet zijn, leidt de Vlaamse Regering de competenties af uit een referentiekader in nauw overleg met de beroepssectoren.<br /><br />Voor zover de competenties afwijken van die, bepaald bij besluit van de Vlaamse Regering van 1 maart 2002 betreffende het experimenteel secundair onderwijs volgens een modulair stelsel, legt de Vlaamse Regering desbetreffende competenties ter advies aan de Vlaamse Onderwijsraad voor.<br /><br />Competenties kunnen ook door middel van stages worden gerealiseerd.<br /><br />Artikel 74quinquies decies<br />Een opleiding kan starten op elk ogenblik van het schooljaar en gespreid worden over een of meer schooljaren. Een module kan starten op elk ogenblik van het schooljaar en gespreid worden over een of meer schooljaren.<br /><br />Artikel 74sexies decies<br />§ 1. In het modulair onderwijs gelden als gezamenlijke toelatingsvoorwaarden voor regelmatige leerlingen :<br />1° de reglementaire toelatingsvoorwaarden tot het eerste leerjaar van de tweede graad van het beroepssecundair onderwijs. In afwijking op deze bepaling gelden, voor wat betreft de opleiding verpleegkunde, de reglementaire toelatingsvoorwaarden tot het eerste leerjaar van de vierde graad van het beroepssecundair onderwijs;<br />2° de volgorde waarin modules dienen gevolgd zoals bepaald in de opleidingenstructuur;<br />3° eventueel : de specifieke toelatingsvoorwaarden tot een module zoals vastgelegd door de toelatingsklassenraad, onverminderd het in 1° en 2° gestelde;<br />4° eventueel : de vrijstelling van toelatingsvoorwaarden tot een module op grond van een geattesteerde beslissing van de toelatingsklassenraad, onverminderd het in 1° gestelde.<br /><br />Een leerling kan slechts één module tezelfdertijd volgen.<br /><br />§ 2. De overstap van een leerling van het modulair naar het niet-modulair onderwijs vindt plaats op basis van een beslissing van de toelatingsklassenraad, tenzij een leerling aan de reglementaire toelatingsvoorwaarden voldoet op basis van het bezit van een eindstudiebewijs.<br /><br />Artikel 74septies decies<br />§ 1. De delibererende klassenraad beslist of een regelmatige leerling hetzij geslaagd is zonder beperkingen hetzij niet geslaagd is. Deze beslissing wordt genomen :<br />1° op het ogenblik dat de leerling een module heeft beëindigd. In voorkomend geval wordt, voor wat betreft het onderwijzend personeel, de klassenraad beperkt tot die leden die effectief aan de leerling in de desbetreffende module onderricht hebben verstrekt;<br />2° op het ogenblik dat de leerling aan alle opleidingsvoorwaarden voldoet die toelaten een beslissing te nemen over de toekenning van een getuigschrift van de tweede graad van het secundair onderwijs, een studiegetuigschrift van het tweede leerjaar van de derde graad van het secundair onderwijs, een studiegetuigschrift van het derde leerjaar van de derde graad van het secundair onderwijs ingericht onder de vorm van een specialisatiejaar, een diploma van secundair onderwijs of een diploma in de verpleegkunde.<br /><br />In het modulair onderwijs worden geen geïntegreerde proeven ingericht.<br /><br />§ 2. Tegen beslissingen van delibererende klassenraden die door de betrokken personen worden betwist, kan beroep worden ingesteld overeenkomstig de procedure van toepassing in het niet-modulair onderwijs, met dien verstande dat de inrichtende macht van de betrokken instelling, rekening houdend met het principe van de redelijkheid, de termijnen bepaalt die inherent zijn aan deze procedure.<br /><br />Artikel 74duodevicies<br />De studiebekrachtiging, al dan niet op het einde van het schooljaar, wordt als volgt vastgesteld :<br />1° attest van verworven competenties : wordt uitgereikt aan een regelmatige leerling die een module van een opleiding niet met vrucht heeft gevolgd; het attest vermeldt die competenties die de jongere wel heeft bereikt;<br />2° deelcertificaat : wordt uitgereikt aan een regelmatige leerling die een module van een opleiding met vrucht heeft gevolgd;<br />3° certificaat : wordt uitgereikt aan een regelmatige leerling die een opleiding met vrucht heeft gevolgd;<br />4° getuigschrift van de tweede graad van het secundair onderwijs : wordt uitgereikt aan een regelmatige leerling die :<br />a) ten minste twee schooljaren secundair onderwijs heeft gevolgd; en<br />b) door de delibererende klassenraad als geslaagd voor de tweede graad wordt beschouwd, wat enerzijds het bereiken van de eindtermen van de tweede graad van het beroepssecundair onderwijs en anderzijds het met vrucht gevolgd hebben van de beroepsgerichte vorming impliceert;<br />5° studiegetuigschrift van het tweede leerjaar van de derde graad van het secundair onderwijs : wordt uitgereikt aan de regelmatige leerling die :<br />a) ten minste vier schooljaren secundair onderwijs heeft gevolgd; en<br />b) door de delibererende klassenraad als geslaagd voor het tweede leerjaar van de derde graad wordt beschouwd, wat enerzijds het bereiken van de eindtermen van de eerste twee leerjaren van de derde graad van het beroepssecundair onderwijs en anderzijds het met vrucht gevolgd hebben van de beroepsgerichte vorming impliceert;<br />6° studiegetuigschrift van het derde leerjaar van de derde graad van het secundair onderwijs, ingericht onder de vorm van een specialisatiejaar : wordt, voor zover de leerling niet in aanmerking komt voor het diploma van secundair onderwijs, uitgereikt aan de regelmatige leerling die :<br />a) ten minste vijf schooljaren secundair onderwijs heeft gevolgd; en<br />b) door de delibererende klassenraad als geslaagd voor het derde leerjaar van de derde graad wordt beschouwd, wat enerzijds het bereiken van de eindtermen van het derde leerjaar van de derde graad van het beroepssecundair onderwijs en anderzijds het met vrucht gevolgd hebben van de beroepsgerichte vorming impliceert;<br />7° diploma van secundair onderwijs (derde graad) : wordt uitgereikt aan de regelmatige leerling die :<br />a) na het behalen van het getuigschrift van de tweede graad van het secundair onderwijs ten minste drie schooljaren secundair onderwijs heeft gevolgd; en<br />b) door de delibererende klassenraad als geslaagd voor de derde graad wordt beschouwd, wat enerzijds het bereiken van de eindtermen van het derde leerjaar van de derde graad van het beroepssecundair onderwijs en anderzijds het met vrucht gevolgd hebben van de beroepsgerichte vorming impliceert;<br />8° diploma van secundair onderwijs (vierde graad) : wordt uitgereikt aan de regelmatige leerling die :<br />a) houder is van het getuigschrift van de tweede graad van het secundair onderwijs; en<br />b) hetzij houder is van het studiegetuigschrift van het tweede leerjaar van de derde graad van het secundair onderwijs en geslaagd is voor modules die overeenstemmen met het eerste jaar van de, voor zover niet-modulair, driejarige opleiding verpleegkunde hetzij geslaagd is voor alle modules van de opleiding verpleegkunde;<br />9° diploma in de verpleegkunde : wordt uitgereikt aan de regelmatige leerling die houder is van de deelcertificaten van alle modules van de opleiding verpleegkunde;<br />10° getuigschrift over de basiskennis van het bedrijfsbeheer : wordt uitgereikt aan de regelmatige leerling die :<br />a) met uitzondering van de eerste graad, ten minste vier schooljaren secundair onderwijs heeft gevolgd; en<br />b) voldaan heeft aan de voorwaarden opgenomen in de federale wet- en regelgeving inzake de basiskennis van het bedrijfsbeheer.<br /><br />Voor de toepassing van deze bepalingen wordt een module waarvoor de leerling bij beslissing van de toelatingsklassenraad is vrijgesteld, geacht met vrucht gevolgd te zijn.<br /><br />De Vlaamse Regering stelt de modellen en de invulonderrichtingen van de hiervoor vermelde studiebewijzen vast.<br /><br />Artikel 74undevicies<br />§ 1. In het modulair onderwijs geldt als coëfficiënt uren-leraar per leerling voor een bepaalde opleiding, de reglementair vastgestelde coëfficiënt voor de inhoudelijk overeenkomstige opleiding van het niet-modulair onderwijs. De Vlaamse Regering legt de inhoudelijk overeenkomstige opleidingen vast.<br /><br />Het pakket uren-leraar dat op basis van het voorgaande wordt berekend, wordt voor wat betreft de schooljaren 2008-2009 en 2009-2010 als volgt netto verhoogd :<br />a) per studiegebied dat tijdens het betrokken schooljaar volledig modulair wordt georganiseerd, worden 4 uren-leraar toegekend;<br />b) per leerling in het experiment die op de gebruikelijke teldatum in aanmerking wordt genomen voor financiering of subsidiëring worden 0,10 uren-leraar toegekend.<br /><br />Bij de toepassing van deze verhoging wordt de vierde graad van het studiegebied personenzorg buiten beschouwing gelaten.<br /><br />§ 2. Modulair onderwijs wordt georganiseerd op basis van uren die geen lesuren zijn doch ermee gelijkgesteld worden, meer bepaald onder vorm van bijzondere pedagogische taken. De gelijkstelling vindt plaats met een opdracht in de tweede graad, in de derde graad of, doch uitsluitend voor wat betreft de opleiding verpleegkunde, in de vierde graad van het voltijds gewoon beroepssecundair onderwijs.<br /><br />De organisatie van modulair onderwijs mag er niet toe leiden dat de verhouding tussen praktische vakken en niet-praktische vakken kennelijk onredelijk verschilt van de verhouding tussen praktische vakken en niet-praktische vakken zoals die zich, onmiddellijk voorafgaand aan de organieke invoering van modulair onderwijs, in het betrokken studiegebied en de betrokken instelling voordoet.<br /><br />Met praktische vakken gelijkgestelde uren komen in aanmerking voor de vaststelling van betrekkingen in de ambten van technisch adviseur-coördinator en technisch adviseur.<br /><br />Artikel 74vicies<br />In zover het de vaststelling van het aantal regelmatige leerlingen met het oog op financiering, subsidiëring of normering betreft, worden voor de opleiding verpleegkunde twee teldata gehanteerd in het schooljaar voorafgaand aan het betrokken schooljaar : enerzijds 15 januari of de eerstvolgende lesdag erna indien voornoemde datum op een vrije dag valt en anderzijds 15 juni of de eerstvolgende lesdag erna indien voornoemde datum op een vrije dag valt. Op elke teldatum wordt een regelmatige leerling voor 1/2 leerling in aanmerking genomen.<br /><br />Artikel 74vicies semel<br />De inspectie van het Vlaams Ministerie van Onderwijs en Vorming is belast met de evaluatie van het experiment. De instellingen die aan het experiment deelnemen, zijn verplicht hun medewerking te verlenen aan de evaluatie. De evaluatie moet, inzonderheid wat de timing betreft, derwijze worden georganiseerd dat ze toelaat om beleidsconclusies te trekken met het oog op de geplande hervormingsmaatregelen voor het secundair onderwijs waarvan sprake in artikel 74duodecies. ».<br /><br />
+
 ## Afdeling III Decreet houdende diverse bepalingen met betrekking tot het secundair onderwijs
 
 ## Onderafdeling I Diverse wijzigingen
+
+### ART. III.6.
+
+In artikel 2 van het decreet van 14 juli 1998 houdende diverse maatregelen met betrekking tot het secundair onderwijs en tot wijziging van het decreet van 25 februari 1997 betreffende het basisonderwijs, gewijzigd bij de decreten van 14 februari 2003, 7 juli 2006 en 22 juni 2007, wordt punt 27° vervangen door wat volgt :<br />« 27° programmatie : een numerieke toename van het onderwijsaanbod door middel van :<br />a) hetzij de oprichting van een op 1 oktober van het voorafgaande schooljaar niet bestaande instelling, met de bedoeling die instelling in aanmerking te laten komen voor financiering of subsidiëring;<br />b) hetzij de oprichting van een op 1 oktober van de twee voorafgaande schooljaren niet georganiseerd structuuronderdeel (dat niet onder toepassing van c) valt), met de bedoeling dat structuuronderdeel in aanmerking te laten komen voor financiering of subsidiëring;<br />c) hetzij de oprichting van een op 1 oktober van de zes voorafgaande schooljaren niet georganiseerd structuuronderdeel met in de benaming de component « topsport », met de bedoeling dat structuuronderdeel in aanmerking te laten komen voor financiering of subsidiëring; opdat de heroprichting van een structuuronderdeel, conform deze definitie, niet als een programmatie wordt beschouwd, moet de betrokken instelling ten minste één sportdiscipline organiseren die eerder ook al aan die instelling werd toegewezen. ».<br /><br />
 
 ### ART. III.7.
 
@@ -64,13 +164,33 @@ In artikel 6, § 3, van hetzelfde decreet, gewijzigd bij het decreet van 7 juli 
 
 In artikel 8bis, van hetzelfde decreet, ingevoegd bij het decreet van 14 februari 2003, worden tussen het woord « opties » en het woord « militaire » de woorden « elektronica militaire wapensystemen, » ingevoegd.<br /><br />
 
+### ART. III.9.
+
+In artikel 25 van hetzelfde decreet, gewijzigd bij het decreet van 18 mei 1999, worden de volgende wijzigingen aangebracht :<br />1° in § 1, § 2 en § 3 worden de woorden « , bedoeld in artikel 49, 1° » geschrapt;<br />2° in § 3 wordt de volgende zinsnede geschrapt :<br />« , bedoeld in :<br />a) hetzij artikel 49, 1°;<br />b) hetzij artikel 49, 2° : voor de instellingen gelegen in het administratief arrondissement Brussel-Hoofdstad of in een gemeente met een bevolkingsdichtheid van minder dan 250 inwoners per km2 en voor de instellingen waarvan meer dan 75 % van de regelmatige leerlingen in een internaat verblijven »;<br />3° een § 3bis wordt ingevoegd, die luidt als volgt :<br />« § 3bis. Onder toepasbare rationalisatienorm, vermeld in § 1, § 2 en § 3, wordt verstaan :<br />a) hetzij, afhankelijk van de door de instelling georganiseerde graden, de norm vermeld in artikelen 49, 2°, en 53 : voor de instellingen gelegen in het Brusselse Hoofdstedelijke Gewest of in een gemeente met een bevolkingsdichtheid van minder dan 250 inwoners per km2 en voor de instellingen waarvan meer dan 75 % van de regelmatige leerlingen in een internaat verblijven;<br />b) hetzij, afhankelijk van de door de instelling georganiseerde graden, de norm vermeld in artikelen 49, 1°, en 53 : voor de instellingen die niet onder toepassing van a) vallen. ».<br /><br />
+
 ### ART. III.10.
 
 Aan artikel 28, § 1, van hetzelfde decreet, vervangen bij het decreet van 7 juli 2006 en gewijzigd bij het decreet van 22 juni 2007, worden de volgende wijzigingen aangebracht :<br />1° de woorden « op 1 oktober van de twee voorafgaande schooljaren in de school in kwestie » worden geschrapt;<br />2° een tweede lid wordt toegevoegd, dat luidt als volgt :<br />« Voor zover een optie een zelfde benaming draagt in de tweede en de derde graad, heeft een gunstige beslissing van de Vlaamse Regering betrekking op de twee graden samen. Tussen de opstart van beide graden kunnen dan maximaal twee schooljaren liggen. ».<br /><br />
 
+### ART. III.11.
+
+In artikel 31 van hetzelfde decreet, gewijzigd bij het decreet van 18 mei 1999, worden telkens de volgende wijzigingen aangebracht :<br />1° in § 1, § 2 en § 3 worden de woorden « , bedoeld in artikel 49, 1° » geschrapt;<br />2° in § 3 wordt de volgende zinsnede geschrapt :<br />« , bedoeld in :<br />a) hetzij artikel 49, 1°;<br />b) hetzij artikel 49, 2° : voor de instellingen gelegen in het administratief arrondissement Brussel-Hoofdstad of in een gemeente met een bevolkingsdichtheid van minder dan 250 inwoners per km2 en voor de instellingen waarvan meer dan 75 % van de regelmatige leerlingen in een internaat verblijven »;<br />3° een § 3bis wordt ingevoegd, die luidt als volgt :<br />« § 3bis. Onder toepasbare rationalisatienorm, vermeld in § 1, § 2 en § 3, wordt verstaan :<br />a) hetzij, afhankelijk van de door de instelling georganiseerde graden, de norm vermeld in artikel 49, 2°, en artikel 53 : voor de instellingen gelegen in het Brusselse Hoofdstedelijke Gewest of in een gemeente met een bevolkingsdichtheid van minder dan 250 inwoners per km2 en voor de instellingen waarvan meer dan 75 % van de regelmatige leerlingen in een internaat verblijven;<br />b) hetzij, afhankelijk van de door de instelling georganiseerde graden, de norm vermeld in artikel 49, 1°, en 53 : voor de instellingen die niet onder toepassing van a) vallen. ».<br /><br />
+
 ### ART. III.12.
 
 Aan artikel 38, § 1, van hetzelfde decreet, vervangen bij het decreet van 7 juli 2006 en gewijzigd bij het decreet van 22 juni 2007, worden de volgende wijzigingen aangebracht :<br />1° de woorden « op 1 oktober van de twee voorafgaande schooljaren in de school in kwestie » worden geschrapt;<br />2° een tweede lid wordt toegevoegd, dat luidt als volgt :<br />« Voor zover een optie een zelfde benaming draagt in de tweede en de derde graad, heeft een gunstige beslissing van de Vlaamse Regering betrekking op de twee graden samen. Tussen de opstart van beide graden kunnen dan maximaal twee schooljaren liggen. ».<br /><br />
+
+### ART. III.13.
+
+In artikel 62 van hetzelfde decreet, gewijzigd bij de decreten van 15 juli 2005 en 22 juni 2007, wordt de zinsnede « , 78 en 79 » vervangen door de zinsnede « en 78 ».<br /><br />
+
+### ART. III.14.
+
+In artikel 85bis van hetzelfde decreet, ingevoegd bij het decreet van 7 juli 2006, worden de volgende wijzigingen aangebracht :<br />1° in § 1 en § 2 worden de worden « voor voltijds technisch of beroepssecundair onderwijs » vervangen door de woorden « die een eerste graad of technisch secundair onderwijs of beroepssecundair onderwijs organiseert, »;<br />2° in § 3, 3°, worden tussen het woord « onderwijs » en de woorden « in aanmerking » de woorden « dat verbonden is aan een school voor voltijds gewoon secundair onderwijs, » ingevoegd.<br /><br />
+
+### ART. III.15.
+
+§ 1. In artikel 103 van hetzelfde decreet worden de volgende wijzigingen aangebracht :<br />1° in § 1 worden de woorden « en 2007-2008 » vervangen door de woorden « , 2007-2008 en 2008-2009 »;<br />2° in § 2 worden tussen de woorden « het schooljaar 2007-2008 » en de woorden « worden extra middelen toegekend » de woorden « en respectievelijk op 1 februari 2008 voor wat betreft het schooljaar 2008-2009 » ingevoegd.<br /><br />§ 2. De bijlage II bij hetzelfde decreet wordt vervangen door de bijlage bij dit decreet.<br /><br />
 
 ### ART. III.16.
 
@@ -90,9 +210,29 @@ In het besluit van de Vlaamse Regering van 14 juli 2004 betreffende het experime
 
 ## Onderafdeling I Afwijkingsuren
 
+### ART. III.19.
+
+Aan artikel 5 van het koninklijk besluit nr. 65 van 20 juli 1982 tot vaststelling van de wijze waarop de ambten van het bestuurs- en onderwijzend personeel worden bepaald in de inrichtingen voor buitengewoon onderwijs, gewijzigd bij de decreten van 9 april 1992, 28 april 1993, 14 juli 1998 en 7 juli 2006, wordt een § 6 toegevoegd, die luidt als volgt :<br />« § 6. In het kader van het geïntegreerd onderwijs gericht op de begeleiding van autistische kinderen en in afwijking van de bepalingen van dit besluit kan de regering op vraag van de inrichtende macht in het buitengewoon onderwijs voor het schooljaar 2008-2009, extra lesuren toekennen voor het onderwijzend personeel.<br /><br />Het aantal extra lesuren bedraagt voor het Gemeenschapsonderwijs, het gesubsidieerd officieel onderwijs en het gesubsidieerd vrij onderwijs samen maximaal 439 extra lesuren.<br /><br />In geen geval kan de inrichtende macht personeelsleden affecteren, muteren en/of vast benoemen in de extra lesuren. ».<br /><br />
+
+### ART. III.20.
+
+Aan artikel 6 van het koninklijk besluit nr. 67 van 20 juli 1982 tot vaststelling van de wijze waarop de ambten van het paramedisch, medisch, sociaal, psychologisch en orthopedagogisch personeel worden bepaald in het buitengewoon secundair onderwijs, gewijzigd bij de decreten van 28 april 1993, 14 juli 1998 en 7 juli 2006 wordt een § 5 toegevoegd, die luidt als volgt :<br />« § 5. In het kader van het geïntegreerd onderwijs gericht op de begeleiding van autistische kinderen en in afwijking van de bepalingen van dit besluit kan de regering op vraag van de inrichtende macht in het buitengewoon onderwijs voor het schooljaar 2008-2009, extra uren toekennen voor het paramedisch, medisch, sociaal, psychologisch en orthopedagogisch personeel.<br /><br />Het aantal extra uren bedraagt voor het Gemeenschapsonderwijs, het gesubsidieerd officieel onderwijs en het gesubsidieerd vrij onderwijs samen maximaal 77 extra uren.<br /><br />In geen geval kan de inrichtende macht personeelsleden affecteren, muteren en/of vast benoemen in de extra uren. ».<br /><br />
+
+### ART. III.21.
+
+Aan artikel 9 van het koninklijk besluit nr. 184 van 30 december 1982 tot vaststelling van de wijze waarop voor de Rijksinstituten voor buitengewoon onderwijs en de tehuizen van het Rijk de ambten worden bepaald van het paramedisch personeel en van het personeel toegekend in het kader van het internaat, gewijzigd bij de decreten van 28 april 1993, 14 juli 1998 en 7 juli 2006 wordt een § 5 toegevoegd, die luidt als volgt :<br />« § 5. In het kader van het geïntegreerd onderwijs gericht op de begeleiding van autistische kinderen en in afwijking van de bepalingen van dit besluit kan de regering op vraag van de inrichtende macht in het buitengewoon onderwijs voor het schooljaar 2008-2009, extra uren toekennen voor het paramedisch, medisch, sociaal, psychologisch en orthopedagogisch personeel.<br /><br />Het aantal extra uren bedraagt voor het Gemeenschapsonderwijs, het gesubsidieerd officieel onderwijs en het gesubsidieerd vrij onderwijs samen maximaal 77 extra uren.<br /><br />In geen geval kan de inrichtende macht personeelsleden affecteren, muteren en/of vast benoemen in de extra uren. ».<br /><br />
+
 ## Onderafdeling II Modulair onderwijs
 
+### ART. III.22.
+
+In het besluit van de Vlaamse Regering van 6 december 2002 betreffende de organisatie van het buitengewoon secundair onderwijs van opleidingsvorm 3, wordt een hoofdstuk IIIbis, Experimenteel modulair onderwijs, ingevoegd, bestaande uit de artikelen 20bis tot en met 20decies, die luiden als volgt :<br />« Hoofdstuk IIIbis. - Experimenteel modulair onderwijs<br /><br />Artikel 20bis<br />Vanaf het schooljaar 2008-2009 en tot zolang bedoeld experiment in het voltijds gewoon secundair onderwijs loopt, kan als experiment in door de Vlaamse Gemeenschap erkende, gefinancierde of gesubsidieerde instellingen voor buitengewoon secundair onderwijs, modulair onderwijs worden georganiseerd overeenkomstig de bepalingen van deze afdeling. In voorkomend geval zijn wettelijke, decretale en reglementaire bepalingen die in strijd zijn met de bepalingen van dit hoofdstuk, niet van toepassing.<br /><br />Het experiment heeft betrekking op opleidingsvorm 3, met uitzondering van de observatiefase, en kan enkel worden ingericht door instellingen die gedurende het schooljaar 2007-2008 modulair onderwijs organiseren overeenkomstig het besluit van de Vlaamse Regering van 1 maart 2002 betreffende het experimenteel secundair onderwijs volgens een modulair stelsel.<br /><br />Het decreet van 9 december 2005 betreffende de organisatie van tijdelijke projecten in het onderwijs is niet van toepassing op dit experiment.<br /><br />Artikel 20ter<br />§ 1. Modulair onderwijs wordt georganiseerd per studiegebied zonder opdeling in fasen of leerjaren. De betrokken studiegebieden zijn : auto, bouw, grafische communicatie en media, handel, hout, koeling en warmte, lichaamsverzorging, mechanica-elektriciteit, personenzorg, textiel, voeding. Elk studiegebied bundelt een reeks opleidingen. Eenzelfde opleiding kan in verschillende studiegebieden voorkomen.<br /><br />§ 2. Elke opleiding omvat algemene en sociale vorming en beroepsgerichte vorming.<br /><br />De algemene en sociale vorming wordt hetzij niet-modulair hetzij gedeeltelijk modulair georganiseerd.<br /><br />De beroepsgerichte vorming wordt modulair georganiseerd. In elke opleiding komen een of meer modules voor. Een module is het kleinste te certificeren deel van een opleiding, dat overeenstemt met een bepaalde inhoud. In modules komen geen afzonderlijke vakken voor. Eenzelfde module kan in verschillende opleidingen voorkomen.<br /><br />§ 3. De Vlaamse Regering legt de opleidingenstructuur vast. Onder opleidingenstructuur wordt verstaan :<br />1° het geheel van de opleidingen per studiegebied;<br />2° de modules per opleiding;<br />3° de duurtijd per module uitgedrukt in uren per week;<br />4° de aanduiding dat de modules zich sequentieel of onafhankelijk tot elkaar verhouden; als de modules in een sequentieel verband staan, moeten zij in een eveneens vastgelegde volgorde worden gevolgd.<br /><br />Voor zover de opleidingenstructuur afwijkt van die, vastgesteld bij besluit van de Vlaamse Regering van 1 maart 2002 betreffende het experimenteel secundair onderwijs volgens een modulair stelsel, legt de Vlaamse Regering desbetreffende opleidingenstructuur ter advies aan de Vlaamse Onderwijsraad voor.<br /><br />§ 4. Programmatie respectievelijk opname in de erkennings-, financierings- of subsidiëringsregeling gebeurt per studiegebied.<br /><br />In een onderwijsinstelling kan een studiegebied niet gelijktijdig modulair en niet-modulair worden georganiseerd, tenzij tijdens het geleidelijke omzettingsproces van de ene naar de andere structuur.<br /><br />§ 5. Het modulair onderwijsaanbod van een instelling moet waarborgen dat een certificaat of een getuigschrift van een opleiding kan worden behaald.<br /><br />Artikel 20quater<br />Voor de modulair georganiseerde leerinhouden van een opleiding worden competenties door de Vlaamse Regering bepaald. Die leerinhouden zijn niet onderworpen aan de voorwaarde van door de Vlaamse Regering vastgestelde opleidingsprofielen.<br /><br />De Vlaamse Regering leidt de competenties af uit kwalificaties. Als die er niet zijn, leidt de Vlaamse Regering de competenties af uit een referentiekader in nauw overleg met de beroepssectoren.<br /><br />Voor zover de competenties afwijken van die bepaald bij besluit van de Vlaamse Regering van 1 maart 2002 betreffende het experimenteel secundair onderwijs volgens een modulair stelsel, legt de Vlaamse Regering desbetreffende competenties ter advies aan de Vlaamse Onderwijsraad voor.<br /><br />Competenties kunnen ook door middel van stages of werkervaring worden gerealiseerd.<br /><br />Artikel 20quinquies<br />Een opleiding kan starten op elk ogenblik van het schooljaar en gespreid worden over een of meer schooljaren. Een module kan starten op elk ogenblik van het schooljaar en gespreid worden over een of meer schooljaren.<br /><br />Artikel 20sexies<br />§ 1. In het modulair onderwijs gelden als gezamenlijke toelatingsvoorwaarden voor regelmatige leerlingen :<br />1° de reglementaire toelatingsvoorwaarden tot de opleidingsfase van opleidingsvorm 3;<br />2° de volgorde waarin modules dienen gevolgd zoals bepaald in de opleidingenstructuur;<br />3° eventueel : de specifieke toelatingsvoorwaarden tot een module zoals vastgelegd door de klassenraad, onverminderd het in 1° en 2° gestelde;<br />4° eventueel : de vrijstelling van toelatingsvoorwaarden tot een module op grond van een geattesteerde beslissing van de klassenraad, onverminderd het in 1° gestelde.<br /><br />Een leerling kan slechts één module tezelfdertijd volgen.<br /><br />§ 2. De overstap van een leerling van het modulair naar het niet-modulair onderwijs vindt plaats op basis van een beslissing van de klassenraad.<br /><br />Artikel 20septies<br />De klassenraad beslist of een regelmatige leerling hetzij geslaagd is zonder beperkingen hetzij niet geslaagd is. Deze beslissing wordt genomen :<br />1° op het ogenblik dat de leerling een module heeft beëindigd. In voorkomend geval wordt, voor wat betreft het onderwijzend personeel, de klassenraad beperkt tot die leden die effectief aan de leerling in de desbetreffende module onderricht hebben verstrekt;<br />2° op het ogenblik dat de leerling aan alle opleidingsvoorwaarden voldoet die toelaten een beslissing te nemen over de toekenning van een attest van verworven competenties, een getuigschrift van verworven competenties, een getuigschrift van een opleiding of een getuigschrift van alternerende beroepsopleiding.<br /><br />In het modulair onderwijs worden geen kwalificatieproeven ingericht.<br /><br />Artikel 20octies<br />De studiebekrachtiging, al dan niet op het einde van het schooljaar, wordt als volgt vastgesteld.<br />1° attest van verworven competenties : wordt uitgereikt aan een regelmatige leerling die een module van een opleiding niet met vrucht heeft gevolgd; het attest vermeldt die competenties die de jongere wel heeft bereikt;<br />2° deelcertificaat : wordt uitgereikt aan een regelmatige leerling die een module van een opleiding met vrucht heeft gevolgd;<br />3° getuigschrift van verworven competenties : wordt uitgereikt aan een regelmatige leerling die een afgerond geheel binnen een opleiding met vrucht heeft gevolgd;<br />4° certificaat : wordt uitgereikt aan een regelmatige leerling die een opleiding met vrucht heeft gevolgd;<br />5° getuigschrift van een opleiding : wordt uitgereikt aan een regelmatige leerling die een opleiding van assistentniveau met vrucht heeft gevolgd;<br />6° getuigschrift van alternerende beroepsopleiding : wordt uitgereikt aan een regelmatige leerling die de integratiefase met vrucht heeft gevolgd.<br /><br />Voor de toepassing van deze bepalingen wordt een module waarvoor de leerling bij beslissing van de klassenraad is vrijgesteld, geacht met vrucht gevolgd te zijn.<br /><br />De Vlaamse Regering stelt de modellen en de invulonderrichtingen van de hiervoor vermelde studiebewijzen vast.<br /><br />Artikel 20novies<br />§ 1. In het modulair onderwijs gelden als richtgetallen de reglementair vastgestelde richtgetallen van de overeenkomstige types van opleidingsvorm 3.<br /><br />Het lesurenpakket dat op basis van het voorgaande wordt berekend, wordt voor wat betreft de schooljaren 2008-2009 en 2009-2010 als volgt netto verhoogd :<br />a) per studiegebied dat tijdens het betrokken schooljaar volledig modulair wordt georganiseerd, worden 4 lesuren toegekend;<br />b) per leerling in het experiment die op de gebruikelijke teldatum in aanmerking wordt genomen voor financiering of subsidiëring worden 0,10 lesuren toegekend.<br /><br />§ 2. Modulair onderwijs wordt georganiseerd op basis van uren die geen lesuren zijn doch ermee gelijkgesteld worden, meer bepaald onder vorm van bijzondere pedagogische taken.<br /><br />Met beroepsgerichte vorming gelijkgestelde uren komen in aanmerking voor de vaststelling van betrekkingen in de ambten van technisch adviseur-coördinator en technisch adviseur.<br /><br />Artikel 20decies<br />De inspectie van het Vlaams Ministerie van Onderwijs en Vorming is belast met de evaluatie van het experiment. De instellingen die aan het experiment deelnemen, zijn verplicht hun medewerking te verlenen aan de evaluatie. De evaluatie moet, inzonderheid wat de timing betreft, derwijze worden georganiseerd dat ze toelaat om beleidsconclusies te trekken met het oog op een vlotte, eventuele, organieke implementatie. ».<br /><br />
+
 ## Onderafdeling III Lokaal overlegplatform
+
+### ART. III.23.
+
+In artikel 24bis, § 1, 14°, van de wet van 29 mei 1959 tot wijziging van sommige bepalingen van de onderwijswetgeving, ingevoegd bij het decreet van 7 juli 2006, wordt een tweede lid toegevoegd dat luidt als volgt :<br />« Dit punt is niet van toepassing op secundaire afdelingen van de scholen van het type 5 en het zeepreventorium. ».<br /><br />
 
 ## Afdeling VI Inwerkingtreding
 
@@ -104,13 +244,25 @@ De bepalingen van dit hoofdstuk treden in werking op 1 september 2008, met uitzo
 
 ## Afdeling I Deeltijds kunstonderwijs
 
+### ART. IV.1.
+
+In het decreet van 31 juli 1990 betreffende het onderwijs II worden de artikelen 96bis en 96ter ingevoegd, die luiden als volgt :<br />« Artikel 96bis<br />Een instelling kan tijdens een bepaald schooljaar niet-ingerichte uren-leraar overdragen naar het volgend schooljaar mits te voldoen aan de volgende voorwaarden :<br />1° het maximum aantal uren-leraar van een bepaald schooljaar dat wordt overgedragen naar het daaropvolgende schooljaar dient vastgelegd uiterlijk op 1 november van dat schooljaar;<br />2° het maximum aantal uren-leraar van een bepaald schooljaar dat wordt overgedragen naar het daaropvolgende schooljaar kan nooit hoger liggen dan twee procent van het aantal aanwendbare uren-leraar van dat bepaald schooljaar;<br />3° de overgedragen uren-leraar kunnen enkel in het volgend schooljaar worden aangewend.<br /><br />Artikel 96ter<br />§ 1. De overdracht van uren-leraar tijdens een bepaald schooljaar, zoals bedoeld in artikel 96bis is slechts mogelijk indien de betrokken inrichtende macht van de onderwijsinstelling op eer verklaart dat zij tijdens dat schooljaar in de betrokken onderwijsinstelling overeenkomstig de geldende reglementering geen nieuwe of bijkomende terbeschikkingstellingen wegens ontstentenis van betrekking in de categorie van het onderwijzend personeel dient uit te spreken.<br /><br />§ 2. De niet-naleving van de bepalingen van § 1 heeft tot gevolg dat een terbeschikkingstelling wegens ontstentenis van betrekking geen uitwerking heeft ten aanzien van de overheid.<br /><br />§ 3. In de overgedragen uren-leraar zoals bedoeld in artikel 96bis kunnen geen personeelsleden vastbenoemd worden.<br /><br />§ 4. Met het oog op de controle van § 3 door het Vlaams Ministerie van Onderwijs en Vorming, dienen de inrichtende machten van de betrokken onderwijsinstellingen een verklaring op eer af te leggen die er toe strekt dat in de bedoelde uren-leraar geen personeelsleden vastbenoemd worden.<br /><br />§ 5. De niet-naleving van de bepalingen van § 3 en § 4 heeft tot gevolg dat de vaste benoemingen geen uitwerking kunnen hebben ten aanzien van de overheid. ».<br /><br />
+
 ## Afdeling II Volwassenenonderwijs
 
 ## Onderafdeling I Centra voor volwassenenonderwijs
 
+### ART. IV.2.
+
+In artikel 2 van het decreet van 15 juni 2007 betreffende het volwassenenonderwijs wordt een punt 36°bis opgenomen dat luidt als volgt :<br />« 36°bis representatieve vakorganisatie : personeelsvereniging die aangesloten is bij een in de Sociaal-Economische Raad van Vlaanderen vertegenwoordigde syndicale organisatie en die een werking ontplooit, naargelang het geval, in de centra voor volwassenenonderwijs of in de centra voor basiseducatie; ».<br /><br />
+
 ### ART. IV.3.
 
 In de eerste zin van artikel 17, § 3, van hetzelfde decreet worden de woorden « gedurende de schooljaren 2007-2008, 2008-2009 en 2009-2010 » vervangen door de woorden « gedurende de schooljaren 2008-2009, 2009-2010 en 2010-2011 ».<br /><br />
+
+### ART. IV.4.
+
+In artikel 26, § 1, § 3 en § 4, derde lid, van hetzelfde decreet wordt het woord « verlofregeling » telkens vervangen door het woord « vakantieregeling ».<br /><br />
 
 ### ART. IV.5.
 
@@ -120,6 +272,18 @@ In artikel 35, § 1, van hetzelfde decreet worden de volgende wijzigingen aangeb
 
 In artikel 87 van hetzelfde decreet wordt § 1 vervangen door wat volgt :<br />« § 1.Elk centrum voor basiseducatie heeft recht op één voltijdse functie van directeur.<br /><br />Elk centrum is verplicht een directeur aan te stellen.<br /><br />De functie van directeur kan worden toegekend aan één personeelslid dat voltijds in deze functie wordt aangesteld of aan twee personeelsleden die elk halftijds in deze functie worden aangesteld. ».<br /><br />
 
+### ART. IV.7.
+
+In artikel 93, § 1, van hetzelfde decreet wordt punt 2° vervangen door wat volgt :<br />« 2° regelmatig aan het geheel van de vorming geparticipeerd hebben vanaf het moment van inschrijving tot het moment dat één derde van het minimum aantal lestijden van de module voorbij is. ».<br /><br />
+
+### ART. IV.8.
+
+In artikel 99, § 1, van hetzelfde decreet wordt punt 3° vervangen door wat volgt :<br />« 3° regelmatig aan het geheel van de vorming geparticipeerd hebben vanaf het moment van inschrijving tot het moment dat één derde van het minimum aantal lestijden van de module voorbij is. ».<br /><br />
+
+### ART. IV.9.
+
+In artikel 107 van hetzelfde decreet wordt een derde lid ingevoegd, dat luidt als volgt :<br />« Wanneer er definitief leraarsuren of punten van een Centrum voor Volwassenenonderwijs overgedragen worden naar een instelling van het secundair onderwijs, hoger onderwijs of deeltijds kunstonderwijs, dan worden deze leraarsuren of punten niet meer in rekening gebracht voor het bepalen van het percentage vermeld in het eerste lid. ».<br /><br />
+
 ### ART. IV.10.
 
 In artikel 109, van hetzelfde decreet worden de volgende wijzingen aangebracht :<br />1° aan § 1 wordt een tweede lid toegevoegd, dat luidt als volgt :<br />« Indien de in artikel 24, § 2, bedoelde afwijking voor bijzondere doelgroepen het minimale aantal lestijden van een opleiding overschrijdt, dan wordt het inschrijvingsgeld berekend op basis van het aantal lestijden bedoeld in hetzelfde artikel 24, § 1, 3°. »;<br />2° in § 3 wordt 5° opgeheven.<br /><br />
@@ -127,6 +291,22 @@ In artikel 109, van hetzelfde decreet worden de volgende wijzingen aangebracht :
 ### ART. IV.11.
 
 In artikel 162 van hetzelfde decreet worden de woorden « met uitzondering van de artikelen 55, 57 en 57bis die worden opgeheven met ingang van 1 september 2008 » vervangen door de woorden « met uitzondering van artikel 57 dat wordt opgeheven met ingang van 1 januari 2008, artikel 57bis dat wordt opgeheven met ingang van 1 september 2008 en artikel 55 dat wordt opgeheven met ingang van 1 september 2009 ».<br /><br />
+
+### ART. IV.12.
+
+Aan artikel 180 van hetzelfde decreet wordt een tweede lid toegevoegd, dat luidt als volgt :<br />« Zodra voor een modulaire opleiding, bedoeld in het eerste lid, een opleidingsprofiel door de Vlaamse Regering wordt goedgekeurd, kan de modulaire opleiding nog georganiseerd worden :<br />1° gedurende één schooljaar volgend op de goedkeuring door de Vlaamse Regering en uiterlijk tot 1 september 2012, in het geval de modulaire opleiding minder dan 700 lestijden bedraagt;<br />2° gedurende twee schooljaren volgend op de goedkeuring door de Vlaamse Regering en uiterlijk tot 1 september 2012, in het geval de modulaire opleiding meer dan 700 lestijden bedraagt. ».<br /><br />
+
+### ART. IV.13.
+
+Aan artikel 181 van hetzelfde decreet wordt een derde lid toegevoegd, dat luidt als volgt :<br />« De Vlaamse Regering is gemachtigd om aan de Centra voor Volwassenenonderwijs die onderwijsbevoegdheid hebben voor de opleidingen, vermeld in artikel 179, § 1, 2°, en artikel 180, ambtshalve onderwijsbevoegdheid te verlenen voor de goedgekeurde opleidingsprofielen die met deze opleidingen inhoudelijk overeenstemmen. ».<br /><br />
+
+### ART. IV.14.
+
+In artikel 193 van hetzelfde decreet wordt een § 4 ingevoegd, die luidt als volgt :<br />« § 4. Wanneer er definitief leraarsuren of punten overgedragen worden tussen twee onderwijsinstellingen in de periode dat de overgangsregeling bedoeld in § 1 en § 3 geldt, dan worden deze overgedragen leraarsuren of punten :<br />1° in mindering gebracht in het geval er een overdracht is van een Centrum voor Volwassenenonderwijs naar een andere onderwijsinstelling;<br />2° toegevoegd in het geval een Centrum voor Volwassenenonderwijs ontvangt van een andere onderwijsinstelling. ».<br /><br />
+
+### ART. IV.15.
+
+In hetzelfde decreet wordt in titel IX, een hoofdstuk IIbis, Uitzonderingsbepalingen, bestaande uit artikel 197bis, ingevoegd, dat luidt als volgt :<br />« Hoofdstuk IIbis. - Uitzonderingsbepalingen<br />Artikel 197bis<br />Aan het Centrum voor Volwassenenonderwijs « De Vlaamse Ardennen », Fortstraat 47, 9700 Oudenaarde, wordt vanaf 1 september 2008 :<br />1° onderwijsbevoegdheid verleend voor de specifieke lerarenopleiding van het studiegebied onderwijs van het hoger beroepsonderwijs;<br />2° éénmalig 2740 bijkomende leraarsuren beschikbaar gesteld voor de organisatie van de opleiding bedoeld in 1°;<br />3° éénmalig 13 bijkomende punten beschikbaar gesteld, onverminderd de bepalingen in artikel 105, voor de oprichting van betrekkingen in de ambten van bestuurs- en ondersteunend personeel.<br /><br />De directeur van het Centrum voor Volwassenenonderwijs « De Vlaamse Ardennen » stelt de personeelsleden aan die in toepassing van artikel 5 van de wet van 21 juli 1971 betreffende de bevoegdheid en de werking van de Cultuurraden voor de Nederlandse cultuurgemeenschap en voor de Franse cultuurgemeenschap tot 31 augustus 2008 door de Vlaamse overheid gefinancierde diensten hebben gepresteerd in het Centrum voor Volwassenenvorming Hogere Leergangen voor Technisch Onderwijs van het Gemeenschapsonderwijs Moeskroen, en die op 30 juni 2008 effectief in dienst waren.<br /><br />De diensten, bedoeld in het tweede lid, worden geacht gepresteerd te zijn in het Centrum voor Volwassenenonderwijs « De Vlaamse Ardennen. ». ».<br /><br />
 
 ### ART. IV.16.
 
@@ -142,7 +322,15 @@ In alle betrokken artikelen van hetzelfde decreet worden de woorden « refertepe
 
 ## Onderafdeling II ICT-coördinatie
 
+### ART. IV.19.
+
+In artikel X.53 van het decreet van 14 februari 2003 betreffende het onderwijs XIV, gewijzigd bij de decreten van 7 mei 2004 en 15 juli 2005, worden de volgende wijzingen aangebracht :<br />1° in § 1 wordt een punt 2°bis ingevoegd, dat luidt als volgt :<br />« 2°bis een consortium volwassenenonderwijs of »;<br />2° in § 1, 3°, worden tussen de woorden « - (een) centr(um)(a) voor volwassenenonderwijs en/of » en « - (een) instelling(en) voor deeltijds kunstonderwijs. » de woorden « - een of meerdere consortia volwassenenonderwijs en/of » ingevoegd;<br />3° in § 2, 3°, worden na de woorden « en tot wijziging van het decreet van 25 februari 1997 betreffende het basisonderwijs » de woorden « of van het artikel 73 van het decreet van 15 juni 2007 betreffende het volwassenenonderwijs. » toegevoegd;<br />4° in § 2, 3°, worden in het tweede lid tussen de woorden « en/of een scholengroep » en « omvat, kan van deze regeling » de woorden « en/of een consortium volwassenenonderwijs » ingevoegd.<br /><br />
+
 ## Afdeling III Centra voor Basiseducatie
+
+### ART. IV.20.
+
+In hetzelfde decreet wordt in titel VI, het hoofdstuk I, Personeel van de centra voor basiseducatie, dat bestaat uit artikelen 127 en 128, vervangen door de artikelen 127 tot en met 128bis, die luiden als volgt :<br />« HOOFDSTUK I. - Personeel van de centra voor basiseducatie<br />Afdeling I. - Het personeelskader<br /><br />Artikel 127<br />§ 1. De Vlaamse Regering bepaalt voor de betrekkingen die worden ingericht volgens artikel 29, § 1, 1°, de functies waarin de personeelsleden van de centra voor basiseducatie kunnen aangesteld worden.<br /><br />§ 2. De personeelsleden bedoeld in § 1, die worden aangesteld in betrekkingen bedoeld in artikel 29, § 1, 1°, worden in de functies, vermeld in § 1, aangeworven als contractuele personeelsleden op wie de wet van 3 juli 1978 betreffende de arbeidsovereenkomsten van toepassing is.<br /><br />Afdeling II. - Administratieve en geldelijke rechtspositie van het personeel<br /><br />Artikel 128<br />§ 1. De Vlaamse Regering bepaalt voor de personeelsleden bedoeld in artikel 127 nadere bepalingen met betrekking tot de prestatieregeling, de vakantieregeling, de verlofregeling en de terugbetaling van de vervoerskosten van de woonplaats naar de plaats van tewerkstelling en terug.<br /><br />In afwachting dat de Vlaamse Regering uitvoering geeft aan het eerste lid, blijven de bestaande bepalingen van toepassing die op de datum van de inwerkingtreding van dit decreet gelden.<br /><br />§ 2. De Vlaamse Regering bepaalt voor de personeelsleden bedoeld in artikel 127 de geldelijke rechtspositie en de wijze waarop een aanvraag tot salarissubsidiëring plaatsvindt.<br /><br />§ 3. De Vlaamse Regering bepaalt wanneer en onder welke voorwaarden een personeelslid, bedoeld in artikel 127, tijdens zijn afwezigheid kan vervangen worden.<br /><br />Artikel 128bis<br />De bepalingen van artikelen 127 en 128 zijn eveneens van toepassing op de personeelsleden die worden aangesteld in betrekkingen bedoeld in artikel 29, § 1, 2°, tenzij de Vlaamse Regering dit anders bepaalt. ».<br /><br />
 
 ## Afdeling IV Inwerkingtreding
 
@@ -154,6 +342,26 @@ De bepalingen van dit hoofdstuk treden in werking op 1 september 2008, met uitzo
 
 ## Afdeling I Decreet betreffende de universiteiten
 
+### ART. V.1.
+
+In artikel 64 van het decreet van 12 juni 1991 betreffende de universiteiten in de Vlaamse Gemeenschap wordt tussen het eerste en het tweede lid een nieuw lid ingevoegd, dat luidt als volgt :<br />« Binnen de formatie van het zelfstandig academisch personeel kunnen de universiteiten docenten aanstellen in het tenure trackstelsel, waarvan de aanstellings- en benoemingsvoorwaarden worden beschreven in artikel 91bis. ».<br /><br />
+
+### ART. V.2.
+
+Aan artikel 72 van hetzelfde decreet wordt een tweede lid toegevoegd, dat luidt als volgt :<br />« De opdracht van een docent in het tenure trackstelsel bedraagt ten minste 50 % van een voltijdse opdracht. ».<br /><br />
+
+### ART. V.3.
+
+In artikel 84 van het decreet van 12 juni 1991 betreffende de universiteiten in de Vlaamse Gemeenschap, gewijzigd bij het decreet van 27 januari 1993, worden de volgende wijzigingen aangebracht :<br />1° in het eerste lid worden de woorden « een diploma van de tweede cyclus van het academisch onderwijs » vervangen door de woorden « een diploma van master »;<br />2° het tweede lid wordt opgeheven;<br />3° in het derde lid worden de woorden « en twee » opgeheven.<br /><br />
+
+### ART. V.4.
+
+In hetzelfde decreet wordt een artikel 91bis ingevoegd, dat luidt als volgt :<br />« Artikel 91bis<br />In afwijking van het bepaalde in artikel 91 worden de in artikel 64, tweede lid bedoelde docenten aangesteld voor een termijn van vijf jaar. Indien het universiteitsbestuur aan het einde van die termijn de prestaties van een docent gunstig beoordeelt, wordt het betrokken personeelslid zonder nieuwe vacature benoemd in de graad van hoofddocent. De beoordeling wordt grondig gemotiveerd op basis van de academische verdiensten van de docent in het tenure trackstelsel.<br /><br />Het universiteitsbestuur legt voorafgaandelijk de criteria vast voor de beoordeling van de docenten in het tenure trackstelsel en maakt deze in de universiteit bekend.<br /><br />In geval van zwangerschap of langdurige en ernstige ziekte tijdens de termijn van de aanstelling wordt op verzoek van de betrokken docent de aanstelling met een bijkomende termijn van één jaar verlengd. ».<br /><br />
+
+### ART. V.5.
+
+In artikel 97 van hetzelfde decreet, gewijzigd bij de decreten van 18 mei 1999, 20 oktober 2000 en 20 april 2001, worden de volgende wijzigingen aangebracht :<br />1° het eerste lid wordt vervangen door wat volgt :<br />« Bij de benoeming of aanstelling in een graad van het zelfstandig academisch personeel schaalt het universiteitsbestuur de leden van het zelfstandig academisch personeel in, in de overeenstemmende salarisschaal op grond van een gemotiveerde beoordeling van de doorlopen academische carrière, de academische verdiensten, de doorlopen carrière buiten de academische wereld en de verworven ervaring en kwalificaties. Als een universiteit een personeelslid van een andere universiteit aanstelt of benoemt, dan neemt de universiteit bij deze beoordeling de inschalingsanciënniteit verworven in dezelfde salarisschaal aan de universiteit van herkomst mee in overweging.<br /><br />Onverminderd het eerste lid moeten in het geval van instellingsoverschrijdende mobiliteit te allen tijde de diensten in overweging worden genomen die in een andere geregistreerde hoger onderwijsinstelling werden gepresteerd binnen dezelfde graad van het zelfstandig academisch personeel of in een overeenstemmend ambt van het onderwijzend personeel zoals beschreven in artikel 101, 3°, van het decreet van 13 juli 1994 betreffende de hogescholen in de Vlaamse Gemeenschap. »;<br /><br />2° het vierde lid wordt vervangen door wat volgt :<br />« De anciënniteitsopbouw in een salarisschaal met het oog op het verkrijgen van de volgende salaristrappen is gelijk aan de nominale aanstellingsduur, ongeacht de omvang van het dienstverband. ».<br /><br />
+
 ### ART. V.6.
 
 Artikel 154, tweede lid, van hetzelfde decreet wordt vervangen door wat volgt :<br />« De begroting is ingedeeld in acht afdelingen :<br />1° Afdeling I. Werking<br />2° Afdeling II. Onroerende investeringen<br />3° Afdeling III. Sociale voorzieningen voor studenten<br />4° Afdeling IV.1. Bijzondere onderzoeksfondsen<br />5° Afdeling IV.2. Andere onderzoeksfondsen<br />6° Afdeling V. Patrimonium<br />7° Afdeling VI. Voor orde<br />8° Afdeling VII. Bedrijfseconomische afdeling. ».<br /><br />
@@ -162,17 +370,97 @@ Artikel 154, tweede lid, van hetzelfde decreet wordt vervangen door wat volgt :<
 
 In artikel 158, eerste lid, van hetzelfde decreet, gewijzigd bij het decreet van 14 juli 1998, worden de woorden « per kalenderjaar en » geschrapt.<br /><br />
 
+### ART. V.8.
+
+In artikel 159 van hetzelfde decreet wordt een zesde lid ingevoegd, dat luidt als volgt :<br />« De mandaten van de ZAP-leden die bezoldigd worden met middelen van het in artikel 168 vermelde Bijzonder Onderzoeksfonds worden niet in rekening gebracht voor de berekening van de in dit artikel vermelde personeelsformatie. ». <br /><br />
+
+### ART. V.10.
+
+In hetzelfde decreet wordt punt 1° van artikel 169 opgeheven.<br /><br />
+
 ## Afdeling II Decreet betreffende de hogescholen
+
+### ART. V.11.
+
+In artikel 92, § 2, van het decreet van 13 juli 1994 betreffende de hogescholen in de Vlaamse Gemeenschap worden de volgende wijzigingen aangebracht :<br />1° aan het eerste lid wordt een zin toegevoegd die luidt als volgt :<br />« De opzeggingstermijn gaat in op de eerste dag van de maand die volgt op de datum van kennisgeving van de opzegging. Op straffe van nietigheid moet de kennisgeving van de opzegging het begin en de duur van de opzeggingstermijn vermelden. De kennisgeving gebeurt door afgifte van een geschrift aan het personeelslid dat tekent voor ontvangst, ofwel bij aangetekend schrijven dat uitwerking heeft de derde werkdag na verzending, ofwel bij deurwaardersexploot. »;<br />2° in het tweede lid worden de woorden « één academiejaar » vervangen door de woorden « twaalf maanden ».<br /><br />
+
+### ART. V.12.
+
+In artikel 95 van hetzelfde decreet wordt een tweede lid toegevoegd, dat luidt als volgt :<br />« Op schriftelijk verzoek van het personeelslid deelt het hogeschoolbestuur de motivatie van een opzeg mee ofwel bij geschrift tegen ontvangstbewijs ofwel bij aangetekend schrijven. ».<br /><br />
+
+### ART. V.13.
+
+In artikel 96 van hetzelfde decreet wordt een tweede lid toegevoegd, dat luidt als volgt :<br />« De opzeggingstermijn gaat in de eerste dag van de maand die volgt op de kennisgeving van de opzegging. Op straffe van nietigheid moet de kennisgeving van de opzegging het begin en de duur van de opzeggingstermijn vermelden. De kennisgeving gebeurt door afgifte van een geschrift aan het hogeschoolbestuur dat tekent voor ontvangst, ofwel bij aangetekend schrijven dat uitwerking heeft de derde werkdag na verzending, ofwel bij deurwaardersexploot. ».<br /><br />
+
+### ART. V.14.
+
+In hetzelfde decreet wordt een artikel 96bis ingevoegd, dat luidt als volgt :<br />« Artikel 96bis<br />Als het hogeschoolbestuur een aanstelling of benoeming beëindigt zonder inachtneming van de in artikel 92, § 2, en artikel 93, § 2, bedoelde opzeggingstermijn, of zonder inachtneming van de in artikel 95 bedoelde motivering, moet zij aan het personeelslid een vergoeding betalen die gelijk is aan het lopend loon dat overeenstemt hetzij met de duur van de opzeggingstermijn, hetzij met het resterende gedeelte van die termijn.<br /><br />Als het personeelslid zijn aanstelling beëindigt zonder inachtneming van de in artikel 96 bedoelde opzeggingstermijn, moet het aan het hogeschoolbestuur een vergoeding betalen die gelijk is aan het lopend loon dat overeenstemt hetzij met de duur van de opzeggingstermijn, hetzij met het resterende gedeelte van die termijn. ».<br /><br />
+
+### ART. V.15.
+
+In artikel 122 van hetzelfde decreet wordt § 2bis vervangen door wat volgt :<br />« § 2bis. In afwijking van de bepalingen in § 2, kan het hogeschoolbestuur een lid van het onderwijzend personeel benoemen in het ambt van assistent indien het personeelslid voldoet aan één van de hierna vermelde voorwaarden :<br />1° het personeelslid heeft de leeftijd van 55 jaar bereikt, vervult de voorwaarden voor vaste benoeming en is sinds 1 januari 1996 ononderbroken in dienst van de hogeschool als assistent;<br />2° het personeelslid heeft op 1 januari 2008 de leeftijd van 55 jaar bereikt en is op die datum gedurende ten minste zes jaar ononderbroken in de hogeschool in het ambt van assistent aangesteld.<br /><br />Indien het personeelslid al een benoeming heeft in een ander onderwijsniveau, kan het slechts ten belope van maximaal één voltijdse benoeming vastbenoemd zijn. ».<br /><br />
+
+### ART. V.16.
+
+In artikel 140, § 2, van hetzelfde decreet wordt na de eerste zin een zin toegevoegd, die luidt als volgt :<br />« De beperking tot tien jaar nuttige ervaring geldt niet voor de nuttige beroepservaring opgedaan in de eigen hogeschool of in de vzw zoals bedoeld in artikel 208, § 1, verbonden aan de eigen hogeschool. ».<br /><br />
+
+### ART. V.17.
+
+In artikel 156, § 2, van hetzelfde decreet wordt na de eerste zin een zin toegevoegd, die luidt als volgt :<br />« De beperking tot tien jaar nuttige ervaring geldt niet voor de nuttige beroepservaring opgedaan in de eigen hogeschool of in de vzw zoals bedoeld in artikel 208, § 1, verbonden aan de eigen hogeschool. ».<br /><br />
+
+### ART. V.18.
+
+In artikel 165 van hetzelfde decreet wordt het tweede lid vervangen door wat volgt :<br />« De omvang van een deeltijds dienstverband wordt uitgedrukt in een procentueel aandeel van een voltijds dienstverband. Het procentueel dienstverband moet ten minste 10 % van een voltijdse aanstelling omvatten en wordt als een veelvoud van vijf uitgedrukt. Een halve dag per week komt overeen met 10 %. Het betrokken personeelslid verkrijgt hetzelfde procentueel aandeel van het salaris dat het zou genieten in een voltijds dienstverband. ».<br /><br />
+
+### ART. V.19.
+
+Aan artikel 166 van hetzelfde decreet wordt een § 3 toegevoegd, die luidt als volgt :<br />« § 3. Personeelsleden die bezoldigd worden buiten de werkingsuitkeringen van de Vlaamse Gemeenschap kunnen zonder nieuwe vacature overgeheveld worden naar een betrekking van de personeelsformatie van het administratief en technisch personeel met behoud van hun verworven graad, salarisschaal en anciënniteit op voorwaarde dat :<br />1° zij geworven werden volgens de procedure die beantwoordt aan de in § 1 en § 2 bepaalde wervingseisen;<br />2° zij de graad, anciënniteit en salarisschaal bezitten die zij zouden bekomen hebben indien de voorgaande diensten gepresteerd werden overeenkomstig de wettelijke, decretale en reglementaire bepalingen van toepassing op het personeel ten laste van de jaarlijkse werkingsuitkeringen. ».<br /><br />
+
+### ART. V.20.
+
+In artikel 231 van hetzelfde decreet wordt een § 2 toegevoegd, die luidt als volgt :<br />« § 2. In geval van een herstructurering zoals bedoeld in artikel 2, 14°, van het decreet van 14 maart 2008 betreffende de financiering van de werking van de hogescholen en universiteiten in Vlaanderen, kunnen de herstructurerende instellingen op gemotiveerde wijze afwijken van de normen vermeld in § 1. ».<br /><br />
+
+### ART. V.21.
+
+In artikel 232 van hetzelfde decreet wordt een tweede lid in § 1 toegevoegd, dat luidt als volgt :<br />« In geval van een herstructurering zoals bedoeld in artikel 2, 14°, van het decreet van 14 maart 2008 betreffende de financiering van de werking van de hogescholen en universiteiten in Vlaanderen, kunnen de herstructurerende instellingen op gemotiveerde wijze afwijken van de in de eerste alinea bedoelde variatie. ».<br /><br />
+
+### ART. V.23.
+
+Artikel 242, § 1, van hetzelfde decreet wordt vervangen door wat volgt :<br />« § 1. De Vlaamse Regering benoemt de commissarissen van de Vlaamse Regering bij de hogescholen. De commissarissen worden benoemd onder de houders van een masterdiploma die ten minste vijf jaar nuttige ervaring hebben. Hun statuut wordt door de Vlaamse Regering vastgesteld. ».<br /><br />
+
+### ART. V.24.
+
+Aan artikel 243 van hetzelfde decreet, gewijzigd bij de decreten van 19 april 1995, 15 juli 1997, 18 mei 1999 en 16 juni 2006, worden de volgende wijzigingen aangebracht :<br />1° in de eerste zin van § 2 wordt het woord « blijft » vervangen door het woord « is »;<br />2° in § 3 en het eerste lid van § 3bis worden de woorden « bedoeld in artikel 242, § 1 » vervangen door de woorden « van niveau A van het departement Onderwijs, met ten minste drie jaar niveau-anciënniteit, die van de Vlaamse Regering een opdracht als commissaris van de Vlaamse Regering bij de hogescholen gekregen hebben ».<br /><br />
 
 ### ART. V.25.
 
 Aan artikel 304bis van hetzelfde decreet wordt een § 3 toegevoegd, die luidt als volgt :<br />« § 3. De Vlaamse overheid kent aan de representatieve vakorganisaties middelen toe voor de werkingskosten van de in dit artikel bedoelde personeelsleden met een verlof wegens vakbondsopdracht. Deze middelen bedragen 3000 euro per effectieve voltijdse eenheid. ».<br /><br />
+
+### ART. V.26.
+
+In artikel 327 van hetzelfde decreet worden de volgende wijzigingen aangebracht :<br />1° in § 1 worden de woorden « artikel 182 » vervangen door de woorden « artikel 36 van het decreet van 14 maart 2008 betreffende de financiering van de werking van de hogescholen en de universiteiten »;<br />2° in § 2 worden de woorden « artikel 182, § 1, 4°, 6° en 7° » en « artikel 182, § 1, 5° » telkens vervangen door de woorden « artikel 36 van het decreet van 14 maart 2008 betreffende de financiering van de werking van de hogescholen en de universiteiten »;<br />3° aan § 2 wordt een derde lid toegevoegd, dat luidt als volgt :<br />« De bepaling in het eerste lid geldt evenmin voor de personeelsleden met een andere bezoldigde activiteit binnen het onderwijs naast de bezoldiging ten laste van de centrale voorafname die voor minder dan 50 % van een voltijdse opdracht ten laste van de centrale voorafname bezoldigd worden. ».<br /><br />
+
+### ART. V.27.
+
+Artikel 337bis van hetzelfde decreet, ingevoegd bij het decreet van 19 maart 2004 en opgeheven bij het decreet van 15 juli 2007 wordt opnieuw opgenomen in de volgende lezing :<br />« Artikel 337bis<br />In afwijking van het bepaalde in artikel 166, § 3, kunnen gedurende een periode van acht jaar te rekenen vanaf 1 september 2008 personeelsleden die bezoldigd worden buiten de werkingsuitkeringen van de Vlaamse Gemeenschap die niet voldoen aan de voorwaarden bepaald in artikel 166, § 1 en § 2, zonder nieuwe vacature overgeheveld worden naar een betrekking van de personeelsformatie van het administratief en technisch personeel indien zij op 1 september 2008 ten minste vijf jaar in dienst zijn van de hogeschool. ».<br /><br />
+
+### ART. V.28.
+
+In artikel 339quater van hetzelfde decreet worden de volgende wijzigingen aangebracht :<br />1° in § 1 worden de woorden « artikel 195ter, § 1 » vervangen door de woorden « artikel 37, § 8, van het decreet van 14 maart 2008 betreffende de financiering van de werking van de hogescholen en de universiteiten »;<br />2° in § 2 worden de woorden « artikel 195ter, § 1 » en « artikel 195ter, §§ 3 en 4 » telkens vervangen door de woorden « artikel 37, § 8, van het decreet van 14 maart 2008 betreffende de financiering van de werking van de hogescholen en de universiteiten »;<br />3° aan § 2 wordt een tweede lid toegevoegd, dat luidt als volgt :<br />« De bepaling in het eerste lid geldt niet voor de personeelsleden, bedoeld in artikel 37, § 8, van het decreet van 14 maart 2008 betreffende de financiering van de werking van de hogescholen en de universiteiten, met een andere niet centraal bezoldigde activiteit binnen het onderwijs van ten minste 50 % van een voltijdse opdracht. ».<br /><br />
 
 ### ART. V.29.
 
 Aan artikel 340sexies, § 3, van hetzelfde decreet worden de volgende wijzigingen aangebracht :<br />1° het vijfde gedachtestreepje wordt geschrapt;<br />2° er wordt een tweede lid toegevoegd, dat luidt als volgt :<br />« De besluiten die de Vlaamse Regering neemt in uitvoering van de bepalingen van dit decreet met betrekking tot de begroting en de personeelsformatie voor de hogescholen en betreffende de algemene boekhouding, de jaarrekening en het rekeningstelsel voor de hogescholen zijn van overeenkomstige toepassing op de instituten voor schone kunsten en de instellingen die excellente kunstopleidingen organiseren. ».<br /><br />
 
 ## Afdeling III Decreet betreffende de wetenschappelijke en maatschappelijke dienstverlening door het hoger onderwijs
+
+### ART. V.30.
+
+Artikel 11 van het decreet van 22 februari 1995 betreffende de wetenschappelijke of maatschappelijke dienstverlening door de universiteiten of de hogescholen en betreffende de relaties van de universiteiten en de hogescholen met andere rechtspersonen, opgeheven bij decreet van 18 mei 1999, wordt opnieuw opgenomen in volgende lezing :<br />« Artikel 11<br />Het Expertisecentrum Onderzoek en Ontwikkelingsmonitoring, zoals vermeld in titel IVter, deel VI, van het decreet van 19 maart 2004 stelt jaarlijks een lijst vast van de spin-offbedrijven, zoals bedoeld in artikel 9.<br /><br />De universiteiten en hogescholen leveren de daartoe nodige en nuttige gegevens aan, onder de voorwaarden als bepaald door de Vlaamse Regering. ».<br /><br />
+
+### ART. V.31.
+
+Artikel 21 van hetzelfde decreet, opgeheven bij decreet van 19 maart 2004, wordt opnieuw opgenomen in volgende lezing :<br />« Artikel 21<br />Het Expertisecentrum Onderzoek en Ontwikkelingsmonitoring, zoals vermeld in titel IVter, deel VI, van het decreet van 19 maart 2004 stelt jaarlijks een lijst vast van de spin-offondersteunende bedrijven.<br /><br />De universiteiten en hogescholen leveren de daartoe nodige en nuttige gegevens aan, onder de voorwaarden als bepaald door de Vlaamse Regering. ».<br /><br />
 
 ## Afdeling IV Decreet betreffende de Hogere Zeevaartschool
 
@@ -204,6 +492,26 @@ Aan artikel 15 van hetzelfde decreet worden de volgende wijzigingen aangebracht 
 
 ## Afdeling VI Decreet betreffende de herstructurering van het hoger onderwijs
 
+### ART. V.38.
+
+In artikel 5 van het decreet van 4 april 2003 betreffende de herstructurering van het hoger onderwijs in Vlaanderen, wordt het punt 4° vervangen door wat volgt :<br />« 4° de « GROEP T - Internationale Hogeschool Leuven »; ».<br /><br />
+
+### ART. V.39.
+
+Artikel 8 van het hetzelfde decreet wordt vervangen door wat volgt :<br />« Artikel 8<br />§ 1. Voor de toepassing van dit decreet wordt verstaan onder geregistreerde instellingen voor hoger onderwijs : alle niet ambtshalve geregistreerde instellingen die hoger onderwijs aanbieden in de Vlaamse Gemeenschap en door de Vlaamse Regering werden geregistreerd.<br /><br />§ 2. Iedere instelling kan de registratie aanvragen bij de Vlaamse Regering.<br />Een registratie van een instelling voor hoger onderwijs wordt slechts toegekend voor zover aan volgende voorwaarde is voldaan : ten minste één opleiding heeft de toets nieuwe opleidingen' door het voorziene Accreditatieorgaan met positief gevolg ondergaan.<br /><br />Bij een buitenlandse instelling geldt daarenboven dat ze reeds in het land waar haar hoofdzetel is gevestigd moet erkend zijn door de bevoegde overheid. De instelling dient dit te kunnen aantonen aan het Accreditatieorgaan bij de aanvraag toets nieuwe opleiding'.<br /><br />§ 3. De instellingen tonen door middel van een regis-tratiedossier aan dat zij beschikken over :<br />1° een bestuursstructuur die voldoende organisatorisch is uitgebouwd om de ingeschreven studenten toe te laten hun opleiding te voltooien;<br />2° een financiële structuur die de ingeschreven studenten toelaat hun opleiding te voltooien;<br />3° een voldoende aangepaste infrastructuur voor het aanbieden van hoger onderwijs.<br /><br />§ 4. Het registratiedossier omvat ten minste :<br />1° de statuten van de instelling;<br />2° een beschrijving van de bestuursstructuur;<br />3° een financieel plan;<br />4° een overeenkomst met een andere binnenlandse of buitenlandse instelling, die door de respectievelijke overheid erkend is voor hoger onderwijs en die de betreffende opleiding kan aanbieden. Deze overeenkomst betreft de wijze waarop de ingeschreven studenten hun opleiding kunnen voltooien.<br /><br />§ 5. De Vlaamse Regering beslist over de registratie binnen een ordetermijn van dertig kalenderdagen die ingaat de dag na deze van ontvangst van het toetsingsrapport van het Accreditatieorgaan. Het besluit treedt in werking met ingang van de bekendmaking ervan aan de instelling. In geval van registratie wordt het Accreditatieorgaan hiervan op de hoogte gebracht.<br /><br />§ 6. De registratie vervalt van rechtswege indien gedurende een termijn van twee jaar geen enkele geaccrediteerde of nieuwe opleiding aangeboden wordt.<br /><br />§ 7. De geregistreerde instellingen bezorgen jaarlijks hun jaarrekening en jaarverslag aan de Vlaamse Regering. ».<br /><br />
+
+### ART. V.40.
+
+In artikel 24bis van hetzelfde decreet worden de volgende wijzigingen aangebracht :<br />1° in de eerste zin van het eerste lid worden de woorden « in het kader van een associatie » vervangen door de woorden « in het kader van een associatie of over associaties heen voor zover die hierover een akkoord hebben bereikt »;<br />2° het tweede lid wordt opgeheven.<br /><br />
+
+### ART. V.41.
+
+In artikel 33 van hetzelfde decreet worden de volgende wijzigingen aangebracht :<br />1° punt 2° wordt vervangen door wat volgt :<br />« 2° Handelswetenschappen en bedrijfskunde, waarvoor :<br />a) in het hoger professioneel onderwijs de graad van bachelor kan worden verleend;<br />b) binnen een associatie in het academisch onderwijs de graden van bachelor en master kunnen worden verleend; »;<br /><br />2° er wordt een punt 5° toegevoegd, dat luidt als volgt :<br />« 5° Toegepaste taalkunde, waarvoor binnen een associatie in het academisch onderwijs de graden van bachelor en master kunnen worden verleend. ».<br /><br />
+
+### ART. V.42.
+
+In artikel 42 van hetzelfde decreet worden de volgende punten geschrapt :<br />« 3° Handelswetenschappen en bedrijfskunde, waarvoor :<br />a) in het hoger professioneel onderwijs de graad van bachelor wordt verleend;<br />b) binnen een associatie in het academisch onderwijs de graden van bachelor en master worden verleend;<br />7° Toegepaste taalkunde, waarvoor binnen een associatie in het academisch onderwijs de graden van bachelor en master kunnen worden verleend; ».<br /><br />
+
 ### ART. V.43.
 
 Artikel 53bis van hetzelfde decreet wordt vervangen door wat volgt :<br />« Artikel 53bis<br />De ambtshalve geregistreerde instellingen en de geregistreerde instellingen met hoofdzetel in Vlaanderen kunnen de opleidingen die ze bij of krachtens dit decreet mogen aanbieden ook organiseren buiten het Belgische grondgebied en de daarop betrekking hebbende graden verlenen op voorwaarde dat :<br />1° die opleidingen afzonderlijk geaccrediteerd werden overeenkomstig dit decreet en de accreditatieprocedure volgen van de Vlaamse opleiding, of die opleidingen afzonderlijk erkend zijn als nieuwe opleiding overeenkomstig dit decreet als de instelling een nieuwe opleiding start buiten het Belgische grondgebied al dan niet gelijktijdig met eenzelfde opleiding in Vlaanderen;<br />2° die opleidingen voldoen aan de wettelijke bepalingen van het land van vestiging;<br />3° de opleidingen afzonderlijk worden geregistreerd in het Hoger Onderwijsregister;<br />4° de kosten van die opleidingen integraal gedekt worden met andere middelen dan de middelen uit de begroting van de Vlaamse Gemeenschap.<br /><br />De in het vorige lid vermelde voorwaarde geldt niet voor de voortgezette academische opleidingen in afbouw en voor de opleidingen die door de instelling ook aangeboden worden in België en die aldaar genieten van een overgangsaccreditatie. ».<br /><br />
@@ -220,9 +528,17 @@ In hetzelfde decreet wordt aan artikel 55quinquies een § 6 toegevoegd die luidt
 
 Aan artikel 56 van hetzelfde decreet wordt een derde paragraaf toegevoegd die luidt als volgt :<br />« § 3. De accreditatiestatus van een opleiding, zoals bepaald in § 1, wordt bij overdracht van de ene instelling voor hoger onderwijs naar een andere instelling voor hoger onderwijs behouden. ».<br /><br />
 
+### ART. V.47.
+
+In artikel 86 van hetzelfde decreet wordt een § 5 toegevoegd die luidt als volgt :<br />« § 5. Onverminderd de toepassing van artikel 24bis, kunnen universiteiten of hogescholen voor de toepassing van dit artikel besluiten de uitreiking van gezamenlijke diploma's te differentiëren per afstudeerrichting. ».<br /><br />
+
 ### ART. V.48.
 
 In artikel 124 van hetzelfde decreet, ingevoegd bij het decreet van 19 maart 2004, worden de volgende wijzigingen aangebracht :<br />1° in § 2, tweede lid, wordt de eerste zin vervangen door wat volgt :<br />« In het academiejaar 2007-2008 wordt op de academisch gerichte opleidingen van de hogescholen die vermeld zijn in de lijst bedoeld in artikel 123, § 5, met uitzondering van de gezamenlijke opleidingen bedoeld in artikel 24bis, of in de lijst bedoeld in artikel 125ter, § 4, en die hun zelfevaluatierapport in het kader van de externe beoordeling overeenkomstig het protocol van kwaliteitszorg bedoeld in artikel 93, § 3, na 1 januari 2009 moeten indienen, een indicatieve voortgangstoets uitgevoerd onder de verantwoordelijkheid van de Erkenningscommissie. »;<br /><br />2° in § 2, tweede lid, wordt de laatste zin aangevuld met de woorden :<br />« en legt de lijst van de opleidingen vast; »;<br /><br />3° § 11 wordt vervangen door wat volgt :<br />« § 11. De master-na-masteropleidingen die het Europa College Brugge met ingang van het academische jaar 2007-2008 organiseert op haar campus in het arrondissement Brugge en op haar campus in Polen, worden niet als nieuwe opleidingen beschouwd in de zin van artikel 60septies. Zij worden geacht geaccrediteerd te zijn tot en met het einde van het academische jaar 2009-2010. ».<br /><br />
+
+### ART. V.49.
+
+In artikel 129 van hetzelfde decreet, gewijzigd bij decreet van 19 maart 2004, wordt een § 6 toegevoegd, die luidt als volgt :<br />« § 6. De graad van gegradueerde, die een Centrum voor Volwassenenonderwijs heeft uitgereikt ten aanzien van een op grond van artikel 57ter geaccrediteerde opleiding, in de periode voorafgaand aan de uitreiking van het nieuwe bachelordiploma door de ontvangende ambtshalve geregistreerde instelling of door het overdragende Centrum voor Volwassenenonderwijs en de ontvangende ambtshalve geregistreerde instelling gezamenlijk in toepassing van artikel 57ter, § 5, is gelijkgeschakeld met de graad van bachelor. De houders van die graden zijn gerechtigd tot het voeren van de titel van bachelor. ».<br /><br />
 
 ### ART. V.50.
 
@@ -233,6 +549,10 @@ In artikel 130 van hetzelfde decreet, gewijzigd bij het decreet van 19 maart 200
 ### ART. V.51.
 
 In deel II, titel IV, van het decreet van 19 maart 2004 betreffende de rechtspositieregeling van de student, de medezeggenschap in het hoger onderwijs, de integratie van bepaalde afdelingen van het hoger onderwijs voor sociale promotie in de hogescholen en de begeleiding van de herstructurering van het hoger onderwijs in Vlaanderen, wordt een hoofdstuk 4bis, Vormingsfonds, bestaande uit de artikelen II.88bis tot en met II.88ter decies ingevoegd, die luiden als volgt :<br />« Hoofdstuk 4bis. - Vormingsfonds<br /><br />Artikel II.88bis<br />Er wordt een Sectoraal Vormingsfonds voor het Hoger Onderwijs ingesteld, hierna vormingsfonds genoemd.<br /><br />Het vormingsfonds heeft tot doel de vormingsdynamiek voor de personeelsleden in de universiteiten en hogescholen te stimuleren.<br /><br />Artikel II.88ter<br />Het vormingsfonds wordt beheerd door het Vlaams Onderhandelingscomité voor het hoger onderwijs.<br /><br />Artikel II.88quater<br />Het Vlaams Onderhandelingscomité legt bij eenparigheid de prioritaire vormingsthema's vast.<br /><br />Artikel II.88quinquies<br />Jaarlijks wordt op de begroting van de Vlaamse Gemeenschap een dotatie ten behoeve van het vormingsfonds uitgetrokken. De dotatie bedraagt minstens 1.070.000 euro.<br /><br />De Vlaamse Regering deelt ieder jaar voor één oktober het bedrag van de dotatie mee aan het Vlaams Onderhandelingscomité.<br /><br />Artikel II.88sexies<br />De dotatie wordt onder de universiteiten en hogescholen verdeeld a rato van het aandeel van elke instelling in de werkingsuitkering voor het voorgaande begrotingsjaar.<br /><br />In afwijking van het eerste lid wordt de dotatie voor het jaar 2008 onder de instellingen verdeeld a rato van hun aandeel in de werkingsuitkering voor het jaar 2008.<br /><br />Artikel II.88septies<br />De instellingen kunnen de via het vormingsfonds toegekende vormingsmiddelen maximaal tweemaal overdragen naar een volgend begrotingsjaar.<br /><br />Artikel II.88octies<br />Het bedrag van de via het vormingsfonds toegekende middelen dat niet binnen drie begrotingsjaren besteed is, wordt het eerstvolgende begrotingsjaar in mindering gebracht op de toegekende middelen voor het vormingsfonds voor de betrokken instelling.<br /><br />De ingehouden middelen worden in gelijke delen toegevoegd aan de middelen voor de andere instellingen.<br /><br />Artikel II.88novies<br />De universiteiten en hogescholen nemen bij de besteding van de via het vormingsfonds toegekende vormingsmiddelen de volgende regels in acht :<br />1° de toegekende middelen worden gebruikt voor de bekostiging van bijkomende opleidings- en vormingsinitiatieven in vergelijking met de opleidings- en vormingsinitiatieven tot en met het academiejaar 2005-2006;<br />2° bij het vastleggen van de vormingsinitiatieven wordt rekening gehouden met de prioritaire vormingsthema's;<br />3° er is over de vormingsinitiatieven een akkoord met de afgevaardigden van het personeel in het lokale medezeggenschapsorgaan;<br />4° de instelling besteedt minstens een zelfde bedrag aan vormings- en opleidingsinitiatieven als het bedrag dat met de middelen van het vormingsfonds besteed is.<br /><br />Artikel II.88decies<br />Het instellingsbestuur bezorgt het Vlaams Onderhandelingscomité ieder jaar een verslag en een afrekening van de vormingsinitiatieven van het voorgaande begrotingsjaar. Deze documenten zijn in het lokale medezeggenschapsorgaan besproken met de afvaardigingen van het personeel.<br /><br />Artikel II.88undecies<br />Het Vlaams Onderhandelingscomité bezorgt de Vlaamse Regering ieder jaar voor 1 juli een verslag van het beheer van het vormingsfonds in het afgelopen begrotingsjaar.<br /><br />Artikel II.88duodecies<br />Het Vlaams Onderhandelingscomité neemt een reglement vormingsfonds aan dat bekrachtigd wordt door de Vlaamse Regering.<br /><br />Het reglement vormingsfonds bevat ten minste een regeling voor :<br />1° de procedure voor de vaststelling van de prioritaire vormingsthema's;<br />2° de procedure voor de rapportering van de instellingen aan het Vlaams Onderhandelingscomité;<br />3° de procedure voor de rapportering door het Vlaams Onderhandelingscomité.<br /><br />Artikel II.88ter decies<br />De begroting voor het vormingsfonds wordt toegevoegd aan het ontwerp van decreet houdende de algemene uitgavenbegroting van de Vlaamse Gemeenschap. ».<br /><br />
+
+### ART. V.52.
+
+In hetzelfde decreet wordt in deel VI, een titel IVquater, Expertisecentrum Onderzoek en Ontwikkelingsmonitoring, ingevoegd bestaande uit de artikelen VI.9.19 tot en met VI.9.26, die luiden als volgt :<br />« TITEL IV quater. - Expertisecentrum Onderzoek en Ontwikkelingsmonitoring<br /><br />Artikel VI.9.19<br />De Vlaamse Regering is er toe gemachtigd om onder de in volgende artikel en vermelde voorwaarden over te gaan tot de erkenning van het door de verenigde associaties opgerichte Expertisecentrum Onderzoek en Ontwikkelingsmonitoring, waarbij de Katholieke Universiteit Leuven optreedt als initiërende instelling.<br /><br />Artikel VI.9.20<br />§ 1. De opdrachten van het Expertisecentrum Onderzoek en Ontwikkelingsmonitoring zijn :<br />1° de opmaak, de actualisering en de voortgangsbewaking van een Onderzoek en Ontwikkelingsmonitor, die noodzakelijke en nuttige en kwantitatieve parameters omvat in het kader van de decretale en tijdelijke financieringskanalen van het wetenschaps- en innovatiebeleid en van specifieke onderzoeksgerelateerde werkingstoelagen aan hogeronderwijsinstellingen;<br />2° de coördinatie van de opmaak van een tweejaarlijks Onderzoek en Ontwikkelingsindicatorenboek met een overzicht van de Vlaamse onderzoeks- en innovatiecapaciteit in een Europese en internationale context.<br /><br />De Vlaamse Regering kan het Expertisecentrum Onderzoek en Ontwikkelingsmonitoring belasten met bijzondere opdrachten.<br /><br />§ 2. De Vlaamse Regering kan regelen bepalen betreffende de kwaliteitsbewaking van de gegevens die in de Onderzoek en Ontwikkelingsmonitor worden opgenomen.<br /><br />Artikel VI.9.21<br />§ 1. Het Expertisecentrum Onderzoek en Ontwikkelingsmonitoring bezit geen rechtspersoonlijkheid.<br /><br />De Initiërende Instelling bepaalt, in overleg met de associaties, de functionele autonomie waarover het Expertisecentrum Onderzoek en Ontwikkelingsmonitoring beschikt, alsmede de bestuurs- en beheersstructuur ervan, met dien verstande dat ten minste een beheerscomité en een wetenschappelijke adviesraad worden ingesteld.<br /><br />§ 2. In het beheerscomité zetelen vertegenwoordigers van alle associaties, vertegenwoordigers van de Vlaamse overheid en onafhankelijke deskundigen.<br /><br />§ 3. De wetenschappelijke adviesraad bestaat ten minste voor de helft uit niet in België werkzame experten die op het vlak van het wetenschaps- en innovatiebeleid als toonaangevend worden erkend.<br /><br />Artikel VI.9.22<br />De Vlaamse Regering en de associaties sluiten ten aanzien van de organisatie van het Expertisecentrum Onderzoek en Ontwikkelingsmonitoring vijfjaarlijks een convenant waarin ten minste volgende elementen zijn opgenomen :<br />1° de aansturingsmogelijkheden van de Vlaamse Regering;<br />2° de minimale resultaatsverbintenissen van het Expertisecentrum Onderzoek en Ontwikkelingsmonitoring;<br />3° de minimale behoorlijkheidsvereisten op het vlak van het financieel management, evenals de mogelijkheden om een bepaalde financiële reserve aan te leggen;<br />4° de rapporterings- en controlemechanismen, in het bijzonder de wijze van evaluatie van het Expertisecentrum Onderzoek en Ontwikkelingsmonitoring in de tweede helft van het vierde kalenderjaar van het lopende convenant;<br />5° de remediërende en sanctionerende maatregelen in geval van niet-naleving van het convenant;<br />6° de gevallen waarin en de wijze waarop het convenant tijdens de looptijd ervan kan worden gewijzigd;<br />7° de mate en inhoud van de samenwerking met in Vlaanderen gevestigde en niet in Vlaanderen gevestigde instellingen en met internationale instellingen.<br /><br />Artikel VI.9.23<br />De Initiërende Instelling bezorgt met betrekking tot de werking van het Expertisecentrum Onderzoek en Ontwikkelingsmonitoring jaarlijks een afzonderlijke begroting, jaarplanning, jaarrekening en jaarverslag aan de Vlaamse Regering.<br /><br />Artikel VI.9.24<br />Het sluiten van een convenant met de Vlaamse Regering doet in hoofde van de initiërende instelling een recht ontstaan op een jaarlijkse werkingsenveloppe ten behoeve van de werking van het betrokken Expertisecentrum Onderzoek en Ontwikkelingsmonitoring.<br /><br />De Vlaamse Regering bepaalt, rekening houdend met de beschikbare begrotingskredieten, de grootte van de jaarlijkse werkingsenveloppe, evenals de wijze van vereffening ervan.<br /><br />Artikel VI.9.25<br />De partners bij de associaties kunnen personeelsleden met hun instemming belasten met een taak bij het Expertisecentrum Onderzoek en Ontwikkelingsmonitoring. De betrokken personeelsleden blijven gedurende de uitoefening van deze taak juridisch en administratief behoren tot de terbeschikkingstellende universiteit of hogeschool.<br /><br />Artikel VI.9.26<br />De erkenning van het Expertisecentrum Onderzoek en Ontwikkelingsmonitoring houdt van rechtswege de beëindiging in van de erkenning en de betoelaging van het steunpunt voor Onderzoek en Ontwikkelingsindicatoren, geselecteerd in uitvoering van artikel 8bis van het decreet van 22 februari 1995 betreffende de wetenschappelijke of maatschappelijke dienstverlening door de universiteiten of de hogescholen en betreffende de relaties van de universiteiten en de hogescholen met andere rechtspersonen.<br /><br />De Vlaamse Regering kan nadere regelingen bepalen inzake de beëindiging van de lopende beheersovereenkomst met het steunpunt voor Onderzoek en Ontwikkelingsindicatoren. ».<br /><br />
 
 ## Afdeling VIII Decreet betreffende de studiefinanciering en studentenvoorzieningen in het hoger onderwijs
 
@@ -246,13 +566,162 @@ Aan artikel 71, 2°, van hetzelfde decreet wordt een zin toegevoegd, die luidt a
 
 ## Afdeling IX Decreet betreffende de financiering van de werking van de hogescholen en de universiteiten
 
+### ART. V.55.
+
+<p>Aan artikel 9 van het decreet van 14 maart 2008 betreffende de financiering van de werking van de hogescholen en de universiteiten in Vlaanderen, wordt een § 6 toegevoegd, die luidt als volgt :<br>
+« § 6. De bedragen VOWprof, als vermeld in of berekend conform dit artikel, worden vermeerderd met volgende bedragen, uitgedrukt in euro :<br>
+</p>
+
+<table border="1" cellpadding="0" cellspacing="0" style="border-collapse:collapse">
+	<tbody>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:230.3pt">
+			<p>Begrotingsjaar 2011<!--?xml:namespace prefix = o ns =         "urn:schemas-microsoft-com:office:office" /--></p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:230.3pt">
+			<p>290.291,99</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Begrotingsjaar 2012</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>580.583,98</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Begrotingsjaar 2013</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>870.875,96</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Begrotingsjaar 2014</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>1.161.167,95</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Vanaf begrotingsjaar 2015</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>1.451.459,94</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+<p>&nbsp;</p>
+
+<p>Vanaf het begrotingsjaar 2009 worden de bedragen vermeld in het eerste lid, geïndexeerd aan de hand van de indexformule, vermeld in § 5 van dit artikel. ».<br>
+&nbsp;</p>
+
+<p>&nbsp;</p>
+
+### ART. V.56.
+
+Aan artikel 23, § 4, 2°, van hetzelfde decreet wordt een punt d) toegevoegd, dat luidt als volgt :<br />« d) voor de organisatie van de professionele bacheloropleiding in de pop- en rockmuziek wordt de som van het aantal opgenomen studiepunten, zoals bepaald in artikel 15, § 2, en het aantal verworven studiepunten, zoals bepaald in artikel 16, § 3, 1°, a), in een hogeschool, met een maximum van 9000 studiepunten, vermenigvuldigd met een puntengewicht 2,5. ».<br /><br />
+
+### ART. V.57.
+
+In artikel 31 van hetzelfde decreet worden in § 2, eerste lid, 19°, de woorden « Groep T - Leuven Hogeschool » vervangen door de woorden « GROEP T - Internationale Hogeschool Leuven ».<br /><br />
+
+### ART. V.58.
+
+<p>Aan artikel 35 van hetzelfde decreet wordt een § 6 toegevoegd, die luidt als volgt :<br>
+« § 6. Volgende bedragen, uitgedrukt in euro, worden als aanvullende uitkering toegevoegd aan de werkingsuitkering van EHSAL, Europese Hogeschool Brussel :</p>
+
+<table border="1" cellpadding="0" cellspacing="0" style="border-collapse:collapse">
+	<tbody>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:230.3pt">
+			<p>Begrotingsjaar 2008<!--?xml:namespace prefix = o ns =         "urn:schemas-microsoft-com:office:office" /--></p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:230.3pt">
+			<p>390.777,68</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Begrotingsjaar 2009</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>1.451.459,94</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Begrotingsjaar 2010</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>1.451.459,94</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Begrotingsjaar 2011</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>1.161.167,95</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Begrotingsjaar 2012</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>870.875,96</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Begrotingsjaar 2013</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>580.583,98</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Begrotingsjaar 2014</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>290.291,99</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+<p>&nbsp;</p>
+
+<p>Vanaf het begrotingsjaar 2009 worden de bedragen vermeld in het eerste lid, geïndexeerd aan de hand van de indexformule, vermeld in artikel 9, § 5. ».<br>
+&nbsp;</p>
+
+### ART. V.59.
+
+In artikel 38 van hetzelfde decreet worden de woorden « Groep T - Leuven Hogeschool » vervangen door de woorden « GROEP T - Internationale Hogeschool Leuven ».<br /><br />
+
 ### ART. V.60.
 
 Aan hoofdstuk II van het hetzelfde decreet wordt een afdeling VIII toegevoegd, bestaande uit het enige artikel 42bis, dat luidt als volgt :<br />« Afdeling VIII. - Studiecentra Open Hoger Onderwijs<br />Artikel 42bis<br />§ 1. De studiecentra Open Hoger Onderwijs, door de Vlaamse instellingen voor hoger onderwijs ingericht in Antwerpen, Brussel, Diepenbeek, Gent, Kortrijk en Leuven, en hierna samen de studiecentra genoemd, ontvangen een bijdrage in de financiering van hun werking.<br /><br />De studiecentra bieden daartoe ondersteuning en begeleiding aan de studenten die zich in Vlaanderen hebben ingeschreven voor een cursus van de Open Universiteit Nederland. In het kader hiervan sluiten de Vlaamse instellingen voor hoger onderwijs een samenwerkingsovereenkomst met de Open Universiteit Nederland. De studiecentra duiden in overleg een studiecentrum aan dat de coördinatie tussen de verschillende studiecentra en de relaties met de Open Universiteit Nederland waarneemt.<br /><br />§ 2. Als bijdrage in de financiering van de werking van de in § 1 bedoelde studiecentra stelt de Vlaamse Gemeenschap jaarlijks een bedrag van 632.000 euro ter beschikking. Dit bedrag wordt verdeeld over de studiecentra, volgens de volgende componenten :<br />1° een vaste component van maximaal 7500,00 euro per studiecentrum;<br />2° een vaste component van maximaal 15.000,00 euro voor het studiecentrum dat in overleg tussen de studiecentra is aangeduid voor het waarnemen van de coördinatie tussen de verschillende studiecentra en van de relaties met de Open Universiteit Nederland;<br />3° een variabele component, waarbij het resterende bedrag van de subsidie over de studiecentra verdeeld wordt a rato van het aantal inschrijvingen met examenrechten bij de Open Universiteit Nederland in het aan het begrotingsjaar voorafgaande kalenderjaar, omgerekend naar het aantal eenheidsmodulen. Het aldus bekomen bedrag per eenheidsmodule kan niet hoger zijn dan 185,00 euro. ».<br /><br />
 
 ## Afdeling X Decreet betreffende de flexibilisering van het hoger onderwijs
 
+### ART. V.62.
+
+Aan artikel 57 van het decreet van 30 april 2004 betreffende de flexibilisering van het hoger onderwijs in Vlaanderen en houdende dringende hogeronderwijsmaatregelen, wordt een § 3 toegevoegd, die luidt als volgt :<br />« § 3. Studenten die het laatste jaar secundair onderwijs volgen en die met een creditcontract voor maximaal 10 studiepunten ingeschreven zijn in het hoger onderwijs, betalen 50 % van het studiegeld van een beurstariefstudent. ».<br /><br />
+
 ## Afdeling XI Inwerkingtreding
+
+### ART. V.63.
+
+De bepalingen van dit hoofdstuk treden in werking op 1 september 2008 met uitzondering van :<br />1° artikel V.43 dat uitwerking heeft met ingang van 1 oktober 2005;<br />2° artikelen V.32, V.44, V.45, V.48, V.50 die uitwerking hebben met ingang van 1 september 2007;<br />3° artikelen V.6, V.7, V.25, V.29, V.33, V.34, V.35, V.36, V.37, V.46, V.51, V.53, V.54 en V.60 die uitwerking hebben met ingang van 1 januari 2008;<br />4° artikel V.61 dat in werking treedt op 1 januari 2009;<br />5° artikelen V.9 en V.22 die in werking treden op de datum van inwerkingtreding van de wet van 16 mei 2003 tot vaststelling van de algemene bepalingen die gelden voor de begrotingen, de controle op de subsidies en voor de boekhouding van de gemeenschappen en de gewesten, alsook voor de organisatie van de controle door het Rekenhof.<br /><br />
 
 ## HOOFDSTUK VI Centrum voor leerlingenbegeleiding
 
@@ -263,6 +732,10 @@ In artikel 2 van het decreet van 1 december 1998 betreffende de centra voor leer
 ### ART. VI.2.
 
 In artikel 40, tweede lid, van hetzelfde decreet wordt de tweede zin opgeheven.<br /><br />
+
+### ART. VI.3.
+
+In artikel 43, § 1, van hetzelfde decreet worden de woorden « 1° tot en met 11° « vervangen door de woorden « 1° tot en met 11°, 13° en 14° ».<br /><br />
 
 ### ART. VI.4.
 
@@ -278,6 +751,14 @@ De bepalingen van dit hoofdstuk treden in werking op de hierna vermelde datum :<
 
 Aan artikel 6 van het decreet van 17 juli 1991 betreffende inspectie, Dienst voor Onderwijsontwikkeling en pedagogische begeleidingsdiensten, gewijzigd bij het decreet van 1 december 1998, worden de volgende wijzigingen aangebracht :<br />1° in § 1, 1°, worden de woorden « 1° tot en met 11° » vervangen door de woorden « 1° tot en met 11°, 13° en 14° »;<br />2° in § 1, wordt 7° opgeheven;<br />3° § 2 wordt vervangen door wat volgt :<br />« § 2. De centra voor leerlingenbegeleiding worden periodiek doorgelicht door de inspectie van de centra samen met externe deskundigen. ».<br /><br />
 
+### ART. VII.2.
+
+In artikel 90 van hetzelfde decreet worden de woorden « 128 voltijdse betrekkingen » vervangen door de woorden « 150,5 voltijdse betrekkingen ».<br /><br />
+
+### ART. VII.3.
+
+Aan artikel 92 van hetzelfde decreet, gewijzigd bij de decreten van 28 april 1993, 13 april 1999 en 22 juni 2007, worden de volgende wijzigingen aangebracht :<br />1° in § 2 worden de woorden « artikel 89, § 3 » vervangen door de woorden « artikel 89, § 1, derde lid »;<br />2° een § 2bis wordt toegevoegd die luidt als volgt :<br />« § 2bis. De pedagogische begeleidingsdiensten ontvangen 69.420 euro aan aanvullende werkingsmiddelen voor het ondersteunen van het gelijke onderwijskansenbeleid. Deze aanvullende werkingsmiddelen worden verdeeld over de pedagogische begeleidingsdiensten naar rato van het aantal organieke betrekkingen in het basis- en secundair onderwijs en de centra voor leerlingenbegeleiding, vastgesteld overeenkomstig artikel 89, § 1, derde lid. »;<br />3° in § 3 en in § 4 worden de woorden « § 1 en § 2 » vervangen door de woorden « § 1, § 2 en § 2bis ».<br /><br />
+
 ### ART. VII.7.
 
 De bepalingen van dit hoofdstuk treden in werking op 1 september 2008, met uitzondering van :<br />1° artikelen VII.1, 2° en 3°, en VII.6, die uitwerking hebben met ingang van 1 januari 2008;<br />2° artikelen VII.4, VII.5 en VII.6 die in werking treden op 1 januari 2009.<br /><br />
@@ -287,6 +768,10 @@ De bepalingen van dit hoofdstuk treden in werking op 1 september 2008, met uitzo
 ## Afdeling I Terugvorderingen
 
 ## Afdeling II Rechtspositie van bepaalde personeelsleden van het Gemeenschapsonderwijs
+
+### ART. VIII.2.
+
+In artikel 3, 10°, van het decreet van 27 maart 1991 betreffende de rechtspositie van bepaalde personeelsleden van het Gemeenschapsonderwijs, gewijzigd bij het decreet van 15 juli 2005, worden in het eerste lid de woorden « een ambt van het ondersteunend personeel » vervangen door de woorden « een ambt van het ondersteunend personeel in het gewoon en buitengewoon secundair onderwijs » en de woorden « een ambt van het beleids- en ondersteunend personeel » door de woorden « een ambt van het beleids- en ondersteunend personeel in het basisonderwijs of een ambt van het ondersteunend personeel in het volwassenenonderwijs ».<br /><br />
 
 ### ART. VIII.3.
 
@@ -303,6 +788,34 @@ In artikel 28 van hetzelfde decreet, gewijzigd bij de decreten van 18 mei 1999, 
 ### ART. VIII.6.
 
 In artikel 28bis van hetzelfde decreet, ingevoegd bij het decreet van 14 juli 1998 en gewijzigd bij de decreten van 18 mei 1999, 14 februari 2003, 15 juli 2005, 7 juli 2006 en 15 juni 2007, worden § 3, § 4, § 5, § 6, § 7 en § 8 opgeheven.<br /><br />
+
+### ART. VIII.7.
+
+In artikel 36 van hetzelfde decreet, gewijzigd bij de decreten van 14 februari 2003, 10 juli 2003, 7 juli 2006 en 13 juli 2007, worden de volgende wijzigingen aangebracht :<br />1° in § 1, 1°, worden de woorden « het administratief, het statutair meesters-, vak- en dienstpersoneel, » vervangen door de woorden « het administratief personeel » en worden de woorden « gewoon secundair onderwijs » vervangen door de woorden « secundair onderwijs »;<br />2° § 2 wordt opgeheven.<br /><br />
+
+### ART. VIII.8.
+
+In artikel 40septies, § 4, van hetzelfde decreet, vervangen bij het decreet van 22 juni 2007, wordt punt 3° vervangen door wat volgt :<br />« 3° de betrekkingen die worden opgericht op basis van de punten van de puntenenveloppe voor het voeren van een zorgbeleid, vermeld in artikel 125duodecies1, § 1, van het decreet van 25 februari 1997 betreffende het basisonderwijs, die worden aangewend voor het aanstellen van personeelsleden die een beleidsondersteunende functie uitoefenen ten behoeve van de scholengemeenschap, zoals bedoeld in artikel 125duodecies1, § 3, van het decreet van 25 februari 1997 betreffende het basisonderwijs. ».<br /><br />
+
+### ART. VIII.9.
+
+In artikel 55bis van hetzelfde decreet, ingevoegd bij het decreet van 15 juli 1997 en gewijzigd bij de decreten van 18 mei 1999, 14 februari 2003, 15 juli 2005 en 13 juli 2007, worden in § 7 tussen de woorden « In dit artikel wordt » en de woorden « met een tijdelijke aanstelling » de woorden « voor een wervingsambt » ingevoegd.<br /><br />
+
+### ART. VIII.10.
+
+Artikel 61, § 2, van hetzelfde decreet, gewijzigd bij het decreet van 13 juli 2007, wordt opgeheven.<br /><br />
+
+### ART. VIII.11.
+
+Artikel 62 van hetzelfde decreet, gewijzigd bij de decreten van 18 mei 1999 en 13 juli 2007, wordt vervangen door wat volgt :<br />« Artikel 62<br />§ 1. De tuchtstraffen, bedoeld in artikel 61, worden uitgesproken door de raad van bestuur.<br /><br />§ 2. In afwijking op § 1 worden de tuchtstraffen, bedoeld in artikel 61, voor de leden van de pedagogische begeleidingsdienst en het vormingscentrum uitgesproken door de afgevaardigd bestuurder.<br /><br />§ 3. Een tuchtstraf is definitief ofwel na het verstrijken van de termijn van twintig kalenderdagen, bedoeld in artikel 73, tweede lid, ofwel nadat de kamer van beroep een definitieve beslissing heeft genomen, zoals bedoeld in artikel 71, tweede lid. De raad van bestuur, of de afgevaardigd bestuurder voor de leden van de pedagogische begeleidingsdienst en het vormingscentrum, is gehouden de beslissing van de kamer van beroep uit te voeren. ».<br /><br />
+
+### ART. VIII.12.
+
+In artikel 71 van hetzelfde decreet, gewijzigd bij het decreet van 13 juli 2007, wordt een tweede lid toegevoegd, dat luidt als volgt :<br />« De kamer van beroep heeft in laatste aanleg de bevoegdheid om een door de raad van bestuur, of een door de afgevaardigd bestuurder voor de leden van de pedagogische begeleidingsdienst en het vormingscentrum, uitgesproken tuchtstraf te bevestigen of te vernietigen of een lichtere tuchtstraf uit te spreken. ».<br /><br />
+
+### ART. VIII.13.
+
+In artikel 73 van hetzelfde decreet, gewijzigd bij de decreten van 13 juli 2001 en 13 juli 2007, wordt de laatste zin vervangen door wat volgt :<br />« Het beroep heeft een schorsende werking. ».<br /><br />
 
 ### ART. VIII.14.
 
@@ -326,6 +839,14 @@ Artikel 100ter van hetzelfde decreet, opgeheven bij het decreet van 7 juli 2006,
 
 In artikel 2, § 4, van het decreet van 27 maart 1991 betreffende de rechtspositie van sommige personeelsleden van het gesubsidieerd onderwijs en de gesubsidieerde centra voor leerlingenbegeleiding worden de volgende wijzigingen aangebracht :<br />1° er wordt een punt c) toegevoegd, dat luidt als volgt :<br />« c) te bemiddelen tussen werkgevers en werknemers als er door representatieve vakorganisaties, inrichtende machten en/of een representatieve vereniging van inrichtende machten problemen aanhangig gemaakt worden inzake de regels betreffende de functiebeschrijvingen en evaluaties, de rechten en de plichten van de sociale partners of betreffende de toepassing van het syndicaal statuut wanneer de relaties tussen de vertegenwoordigers van de representatieve vakorganisaties en de werkgevers geregeld worden door een statuut afgesloten tussen enerzijds de representatieve vakorganisaties en anderzijds een inrichtende macht of de representatieve vereniging van deze inrichtende macht. »;<br />2° er wordt een tweede lid toegevoegd dat luidt als volgt :<br />« Om de bevoegdheden vermeld in b) en c) te kunnen uitoefenen, kan elk Centraal Paritair Comité ook bemiddelaars aanstellen. ».<br /><br />
 
+### ART. VIII.19.
+
+Artikel 4, § 5, van hetzelfde decreet wordt vervangen door wat volgt :<br />« § 5. In het gesubsidieerd officieel onderwijs ingericht door de gemeenten gelegen in het Vlaamse Gewest is het college van burgemeester en schepenen bevoegd voor de aanstelling, vaste benoeming en ontslag van personeelsleden evenals voor het toekennen van een afwezigheid, een verlof, een terbeschikkingstelling, een affectatie en een loopbaanonderbreking. In afwijking op artikelen 58, 86 en 106 van het Gemeentedecreet van 15 juli 2005 kunnen deze bevoegdheden niet uitgeoefend worden door de secretaris.<br /><br />In het gesubsidieerd officieel onderwijs ingericht door de gemeenten van het Brusselse Hoofdstedelijke Gewest is het college van burgemeester en schepenen bevoegd voor het toekennen van een afwezigheid, een verlof, een terbeschikkingstelling, een tijdelijke aanstelling, een affectatie en een loopbaanonderbreking, voor zover die de duur van maximaal twaalf maanden niet overschrijdt. ».<br /><br />
+
+### ART. VIII.20.
+
+In artikel 5, 12°, van hetzelfde decreet, gewijzigd bij het decreet van 15 juli 2005, worden in het eerste lid de woorden « een ambt van het ondersteunend personeel » vervangen door de woorden « een ambt van het ondersteunend personeel in het gewoon en buitengewoon secundair onderwijs » en de woorden « een ambt van het beleids- en ondersteunend personeel » door de woorden « een ambt van het beleids- en ondersteunend personeel in het basisonderwijs of een ambt van het ondersteunend personeel in het volwassenenonderwijs ».<br /><br />
+
 ### ART. VIII.21.
 
 In artikel 23 van hetzelfde decreet, gewijzigd bij de decreten van 14 februari 2003, 10 juli 2003, 2 april 2004, 15 juli 2005 en 13 juli 2007, worden de volgende wijzigingen aangebracht :<br />1° § 5 wordt vervangen door wat volgt :<br />« § 5. Het recht op een tijdelijke aanstelling van doorlopende duur geldt voor dat ambt waarin de in § 3 bedoelde anciënniteit is verworven en waarvoor het personeelslid uiterlijk op 31 augustus van het schooljaar waarin hij het recht inroept het vereiste bekwaamheidsbewijs of voldoende geacht bekwaamheidsbewijs, bij organieke bepaling of bij overgangsmaatregel, bezit.<br /><br />Is de in § 3 bedoelde anciënniteit verworven in een ambt van leraar, dan geldt dit recht voor dit ambt en voor alle vakken en specialiteiten waarvoor het personeelslid uiterlijk op 31 augustus van het schooljaar waarin hij het recht inroept een vereist bekwaamheidsbewijs, bij organieke bepaling of bij overgangsmaatregel, bezit.<br /><br />Is de in § 3 bedoelde anciënniteit verworven in een ambt van leraar voor een vak of een specialiteit waarvoor het personeelslid uiterlijk op 31 augustus van het schooljaar waarin hij het recht inroept een voldoende geacht bekwaamheidsbewijs, bij organieke bepaling of bij overgangsmaatregel, bezit, dan geldt dit recht voor dit ambt, dit vak of deze specialiteit en daarenboven ook voor alle vakken en specialiteiten waarvoor het personeelslid een vereist bekwaamheidsbewijs, bij organieke bepaling of bij overgangsmaatregel, bezit. »;<br /><br />2° § 8 wordt vervangen door wat volgt :<br />« § 8. Een personeelslid kan het recht op een tijdelijke aanstelling van doorlopende duur laten gelden voor elke vacature die in de loop van het schooljaar ontstaat, behalve wanneer hij reeds als titularis voor doorlopende duur is aangesteld voor een voltijdse betrekking. ».<br /><br />
@@ -338,9 +859,25 @@ In artikel 23bis van hetzelfde decreet, ingevoegd bij het decreet van 14 juli 19
 
 In artikel 24 van hetzelfde decreet, vervangen bij het decreet van 13 juli 2007, worden volgende wijzigingen aangebracht :<br />1° een § 1bis wordt ingevoegd, die luidt als volgt :<br />« § 1bis. Onverminderd § 1 en tot en met 31 augustus 2009 kan een inrichtende macht in het basisonderwijs, het deeltijds kunstonderwijs, de tehuizen voor kinderen wier ouders geen vaste verblijfplaats hebben en de internaten een personeelslid dat tijdelijk aangesteld is voor bepaalde duur met een opzeggingstermijn van dertig kalenderdagen ontslaan om redenen die verband houden met zijn geschiktheid.<br /><br />Het ontslag bedoeld in het eerste lid wordt schriftelijk gemotiveerd en aan het personeelslid betekend conform artikel 27. »;<br /><br />2° in § 2 worden de woorden « van § 1 » vervangen door de woorden « van § 1 en § 1bis ».<br /><br />
 
+### ART. VIII.24.
+
+In artikel 31, § 1, 1°, van hetzelfde decreet, gewijzigd bij de decreten van 14 februari 2003 en 7 juli 2006 en vervangen bij het decreet van 13 juli 2007, worden de woorden « gewoon secundair onderwijs » vervangen door de woorden « secundair onderwijs ».<br /><br />
+
 ### ART. VIII.25.
 
 In artikel 33, van hetzelfde decreet, gewijzigd bij de decreten van 14 juli 1998, 18 mei 1999, 14 februari 2003, 15 juli 2005, 7 juli 2006 en 15 juni 2007, wordt § 1 vervangen door wat volgt :<br />« § 1. Behoudens andersluidende overeenkomst in het bevoegd paritair comité en onverminderd de bepalingen inzake de reaffectatie en wedertewerkstelling, deelt de inrichtende macht ieder schooljaar, vóór 15 mei, aan de personeelsleden die de voorwaarden voor vaste benoeming vervullen, de vacante betrekkingen mee. Behoort een instelling tot een scholengemeenschap dan deelt de inrichtende macht van die instelling de vacante betrekkingen in haar instellingen die behoren tot die scholengemeenschap mee aan de personeelsleden van de scholengemeenschap die de voorwaarden voor vaste benoeming vervullen. De vacante betrekkingen worden vastgesteld in functie van de toestand op 15 april van dat jaar.<br /><br />Met het oog op de vaste benoemingen in het basisonderwijs op 1 januari 2009 deelt de inrichtende macht voor het schooljaar 2008-2009 de vacante betrekkingen die worden opgericht op basis van de punten van de puntenenveloppe voor het voeren van een zorgbeleid, vermeld in artikel 125duodecies1, § 1, van het decreet van 25 februari 1997 betreffende het basisonderwijs, mee na 15 september 2008 en vóór 15 oktober 2008. De vacante betrekkingen worden vastgesteld in functie van de toestand op 15 september 2008. De vacante betrekkingen in het ambt van zorgcoördinator die werden meegedeeld vóór 15 mei 2008 op basis van de toestand op 15 april 2008 hebben geen uitwerking.<br /><br />Het bericht bevat een duidelijke omschrijving van de aangeboden betrekkingen en vermeldt de vorm waarin en de termijn waarbinnen moet worden gekandideerd. Dit bericht wordt aan alle in het eerste lid bedoelde personeelsleden met bewijs van ontvangst meegedeeld.<br /><br />De vaste benoeming gaat in op 1 januari van het volgend schooljaar en kan enkel geschieden voor zover de betrekkingen bedoeld in het eerste lid op die datum nog vacant zijn. ».<br /><br />
+
+### ART. VIII.26.
+
+In artikel 36quinquies, § 4, van hetzelfde decreet, vervangen bij het decreet van 22 juni 2007, wordt punt 3° vervangen door wat volgt :<br />« 3° de betrekkingen die worden opgericht op basis van de punten van de puntenenveloppe voor het voeren van een zorgbeleid, vermeld in artikel 125duodecies1, § 1, van het decreet van 25 februari 1997 betreffende het basisonderwijs, die worden aangewend voor het aanstellen van personeelsleden die een beleidsondersteunende functie uitoefenen ten behoeve van de scholengemeenschap, zoals bedoeld in artikel 125duodecies1, § 3, van het decreet van 25 februari 1997 betreffende het basisonderwijs. ».<br /><br />
+
+### ART. VIII.27.
+
+In artikel 44bis van hetzelfde decreet, ingevoegd bij het decreet van 15 juli 1997 en gewijzigd bij de decreten van 18 mei 1999, 14 februari 2003 en 15 juli 2005, worden in § 6 tussen de woorden « In dit artikel wordt » en de woorden « met een tijdelijke aanstelling » de woorden « voor een wervingsambt » ingevoegd.<br /><br />
+
+### ART. VIII.28.
+
+Aan artikel 47ter van hetzelfde decreet, ingevoegd bij het decreet van 13 juli 2007, worden volgende wijzigingen aangebracht :<br />1° aan § 5 wordt een lid toegevoegd, dat luidt als volgt :<br />« In afwijking van § 4 wordt het personeelslid dat belast is met het mandaat van coördinerend directeur geëvalueerd door de instantie die hem met het mandaat belast heeft. De instantie die de evaluatie op zich neemt, heeft als voornaamste taak het personeelslid te coachen in diens functioneren. Het houden van functioneringsgesprekken is een onderdeel van deze taak. »;<br />2° in § 8 wordt in het eerste lid aan de eerste zin een zin toegevoegd, die luidt als volgt :<br />« Voor het personeelslid dat belast is met het mandaat van coördinerend directeur leggen het personeelslid en de instantie die hem met het mandaat belast heeft, de geïndividualiseerde functiebeschrijving vast. ».<br /><br />
 
 ### ART. VIII.29.
 
@@ -354,15 +891,31 @@ In artikel 47quinquiesdecies van hetzelfde decreet, ingevoegd bij het decreet va
 
 In artikel 60 van hetzelfde decreet, gewijzigd bij de decreten van 28 april 1993, 18 mei 1999, 13 juli 2001 en 13 juli 2007, worden de volgende wijzigingen aangebracht :<br />1° in punt 10° worden de woorden « artikel 47quaterdecies » vervangen door de woorden « artikel 47quaterdecies, 47quinquiesdecies »;<br />2° in punt 11° worden de woorden « artikel 47terdecies » vervangen door de woorden « artikel 47terdecies, 47quinquiesdecies ».<br /><br />
 
+### ART. VIII.32.
+
+Artikel 68, § 2, van hetzelfde decreet wordt vervangen door wat volgt :<br />« § 2. In het gemeentelijk onderwijs ingericht door de gemeenten van het Brusselse Hoofdstedelijke Gewest is het schepencollege bevoegd om de blaam, de afhouding van wedde en de schorsing bij tuchtmaatregel voor maximum één maand op te leggen. In het provinciaal onderwijs heeft de bestendige deputatie dezelfde bevoegdheid. ».<br /><br />
+
+### ART. VIII.33.
+
+In artikel 69 van hetzelfde decreet, gewijzigd bij het decreet van 1 december 1998, wordt § 1 vervangen door wat volgt :<br />« § 1. Er worden kamers van beroep ingesteld ten behoeve van het personeel waarop dit decreet van toepassing is.<br /><br />Er is een kamer van beroep voor :<br />1° het gesubsidieerd officieel onderwijs;<br />2° het gesubsidieerd vrij onderwijs. ».<br /><br />
+
 ### ART. VIII.34.
 
 In hetzelfde decreet wordt een artikel 84quaterdecies ingevoegd, dat luidt als volgt :<br />« Artikel 84quaterdecies<br />§ 1. Voor de personeelsleden die in juni 2008 in dienst zijn in een gesubsidieerd internaat als contractueel personeelslid worden de diensten gepresteerd als contractueel personeelslid in een functie van studiemeester-opvoeder in een gesubsidieerd internaat beschouwd als dienstanciënniteit zoals bepaald in artikelen 6, 23, 31, 35, 74 en 77. Deze diensten worden beschouwd alsof zij gepresteerd werden in het ambt van studiemeester-opvoeder in de personeelscategorie van het opvoedend hulppersoneel in een internaat.<br /><br />Een personeelslid kan op basis van deze diensten een dienstanciënniteit van maximaal 720 dagen verwerven.<br /><br />De bepalingen van deze paragraaf zijn niet van toepassing op het contractueel personeelslid dat vóór juni 2008 werd ontslagen, tenzij dit personeelslid na dit ontslag opnieuw wordt aangeworven door de inrichtende macht die het ontslag heeft gegeven.<br /><br />§ 2. Voor de personeelsleden die in juni 2008 in dienst zijn in een gesubsidieerd internaat van het gesubsidieerd officieel onderwijs als tijdelijk personeelslid ten laste van de inrichtende macht worden de diensten gepresteerd als tijdelijk personeelslid ten laste van de inrichtende macht in een functie van studiemeester-opvoeder in een gesubsidieerd internaat beschouwd als dienstanciënniteit zoals bepaald in artikelen 6, 23, 31, 35, 74 en 77. Deze diensten worden beschouwd alsof zij gepresteerd werden in het ambt van studiemeester-opvoeder in de personeelscategorie van het opvoedend hulppersoneel in een internaat.<br /><br />Een personeelslid kan op basis van deze diensten een dienstanciënniteit van maximaal 720 dagen verwerven.<br /><br />De bepalingen van deze paragraaf zijn niet van toepassing op het tijdelijk personeelslid ten laste van de inrichtende macht dat vóór juni 2008 werd ontslagen, tenzij dit personeelslid na dit ontslag opnieuw wordt aangeworven door de inrichtende macht die het ontslag heeft gegeven.<br /><br />§ 3. In afwijking van de bepalingen van hoofdstuk III deelt de inrichtende macht vóór 15 oktober 2008 aan de personeelsleden die de voorwaarden voor vaste benoeming vervullen de vacante betrekkingen mee van studiemeester-opvoeder, die kunnen worden ingericht op basis van artikel 27, § 1, van de wet van 29 mei 1959 tot wijziging van sommige bepalingen van de onderwijswetgeving. De vacante betrekkingen worden vastgesteld in functie van de toestand op 15 september 2008. In een vacante betrekking die op deze wijze werd meegedeeld, kan op 1 januari 2009 worden vastbenoemd.<br /><br />§ 4. In afwijking van de bepalingen van artikel 23, kan het personeelslid bedoeld in § 1 dat een beroep wenst te doen op het recht van een tijdelijke aanstelling van doorlopende duur, op straffe van verlies van zijn recht voor schooljaar 2008-2009, vóór 15 augustus 2008 bij de inrichtende macht kandideren met een ter post aangetekende brief. ».<br /><br />
 
 ## Afdeling IV Politiek verlof
 
+### ART. VIII.35.
+
+In artikel 29 van het decreet van 28 april 1993 betreffende het onderwijs IV, gewijzigd bij het decreet van 7 juli 2006, worden in punt 3° de woorden « psycho-medisch-sociale centra » vervangen door de woorden « centra voor leerlingenbegeleiding ».<br /><br />
+
 ### ART. VIII.36.
 
 In artikel 34 van hetzelfde decreet wordt het tweede lid opgeheven.<br /><br />
+
+### ART. VIII.37.
+
+In artikel 35 van hetzelfde decreet worden de woorden « psycho-medisch-sociaal centrum » vervangen door de woorden « centrum voor leerlingenbegeleiding ».<br /><br />
 
 ## Afdeling V Bekwaamheidsbewijzen
 
@@ -371,6 +924,10 @@ In artikel 34 van hetzelfde decreet wordt het tweede lid opgeheven.<br /><br />
 In artikel 97, § 1, van het decreet van 14 juli 1998 houdende diverse maatregelen met betrekking tot het secundair onderwijs en tot wijziging van het decreet van 25 februari 1997 betreffende het basisonderwijs, gewijzigd bij de decreten van 14 februari 2003, 15 juli 2005 en 7 juli 2006, worden de volgende wijzigingen aangebracht :<br />1° in punt 2° en punt 16° worden de woorden « bekwaamheidsbewijs hoger onderwijs van het korte type : » vervangen door de woorden « bekwaamheidsbewijs van het niveau professioneel gerichte bachelor : »;<br />2° in punt 3° en punt 17° worden de woorden « bekwaamheidsbewijs hoger onderwijs van het lange type of universitair onderwijs : » vervangen door de woorden « bekwaamheidsbewijs van het niveau master : ».<br /><br />
 
 ## Afdeling VI Sociale tegemoetkomingen
+
+### ART. VIII.39.
+
+Aan artikel XI.1 van het decreet van 13 juli 2001 betreffende het onderwijs XIII-Mozaïek, gewijzigd bij het decreet van 15 juli 2007, worden de volgende wijzigingen aangebracht :<br />1° de bestaande tekst wordt aangeduid als § 1;<br />2° er wordt een § 2 toegevoegd, die luidt als volgt :<br />« § 2. De bepalingen van dit hoofdstuk zijn niet van toepassing op de personeelsleden van de centra voor basiseducatie. ».<br /><br />
 
 ## Afdeling VII Inwerkingtreding
 
@@ -494,6 +1051,10 @@ In artikel 45 van hetzelfde decreet worden de woorden « en het voltijds en deel
 
 Aan artikel 50 van hetzelfde decreet, gewijzigd bij het decreet van 14 februari 2003, wordt een tweede lid toegevoegd, dat luidt als volgt :<br />« De Vlaamse Gemeenschap stelt volgens de tabel in artikel 44, § 1, elk jaar een globaal bedrag ter beschikking van het Gemeenschapsonderwijs en van de verenigingen zonder winstoogmerk, bedoeld in artikel 49, voor het realiseren van nascholingsprojecten voor de professionalisering van de evaluatoren met het oog op de functionerings- en evaluatiegesprekken.<br /><br />De besteding van deze middelen wordt afzonderlijk verantwoord van de besteding van de middelen bedoeld in het eerste lid. ».<br /><br />
 
+### ART. X.6.
+
+In artikel 56 van hetzelfde decreet worden de woorden « de representatieve verenigingen van inrichtende machten » vervangen door de woorden « van de verenigingen zonder winstoogmerk, bedoeld in artikel 49 ».<br /><br />
+
 ## Afdeling III Decreet dringende maatregelen betreffende het lerarenambt
 
 ### ART. X.7.
@@ -540,7 +1101,75 @@ In artikel V.25 van het decreet van 13 juli 2001 betreffende het onderwijs XIII-
 
 ## Afdeling V Decreet betreffende de gelijke kansen I
 
+### ART. X.17.
+
+In artikel V.1 van het decreet van 28 juni 2002 betreffende de gelijke onderwijskansen-I, wordt in § 2 het woord « vijf » vervangen door het woord « eenentwintig ».<br /><br />
+
+### ART. X.18.
+
+In artikel V.2 van hetzelfde decreet wordt in § 3 het woord « vijf » vervangen door het woord « eenentwintig ».<br /><br />
+
+### ART. X.19.
+
+In artikel V.3 van hetzelfde decreet wordt het woord « drie » vervangen door het woord « zeven ».<br /><br />
+
+### ART. X.20.
+
+In artikel VI.2 van hetzelfde decreet worden de volgende wijzigingen aangebracht :<br />1° In § 1 worden 1° en 5° vervangen door wat volgt :<br />« 1° het gezin ontvangt één of meerdere schooltoelagen zoals bedoeld in artikel 5, 34°, van het decreet van 8 juni 2007 betreffende de studiefinanciering van de Vlaamse Gemeenschap;<br />5° de taal die de leerling in het gezin spreekt, dit is de taal die de leerling spreekt met moeder, vader, broers of zussen, is niet het Nederlands. Die taal is niet het Nederlands indien de leerling in het gezin met niemand of in een gezin met drie gezinsleden (de leerling niet meegerekend) met maximum één gezinslid het Nederlands spreekt. Broers en zussen worden als één gezinslid beschouwd. »;<br /><br />2° § 2 wordt vervangen door wat volgt :<br />« § 2. Hetbeantwoorden aan de in § 1, 4° en 5°, bedoelde gelijkekansenindicatoren wordt bewezen aan de hand van een verklaring op eer door de ouders. De Vlaamse Regering bepaalt de wijze waarop het beantwoorden aan de in § 1, 1°, 2° en 3°, bedoelde gelijkekansenindicator wordt vastgesteld en legt de procedure vast volgens dewelke de gegevens worden gemeld aan het Vlaams Ministerie van Onderwijs en Vorming. Zij houdt daarbij rekening met de vigerende regelgeving inzake de bescherming van de persoonlijke levenssfeer.<br /><br />De documenten of verklaringen die aantonen dat leerlingen beantwoorden aan één of meer van de gelijkekansenindicatoren worden ten minste vijf jaar bewaard in de school. ».<br /><br />
+
+### ART. X.21.
+
+In artikel VI.3 van hetzelfde decreet wordt punt 1° vervangen door wat volgt :<br />« 1° op 1 februari van het voorafgaand schooljaar ten minste 10 % regelmatige leerlingen tellen die beantwoorden aan één of meer van de in artikel VI.2, § 1, 1°, 2°, 3° en 4°, bedoelde gelijkekansenindicatoren waarbij het aantal regelmatige leerlingen die enkel en alleen beantwoorden aan de in artikel VI.2, § 1, 1° of 1° en 5°, bedoelde gelijkekansenindicatoren wordt vermenigvuldigd met een door de Vlaamse Regering bepaalde coëfficiënt, die ten minste gelijk is aan 0,1 en ten hoogste gelijk is aan 1; en ».<br /><br />
+
+### ART. X.22.
+
+In artikel VI.4, § 1, van hetzelfde decreet wordt punt 1° vervangen door wat volgt :<br />« 1° de in artikel VI.3 bedoelde scholen worden gerangschikt volgens het percentage leerlingen die beantwoorden aan één of meer van de in artikel VI.2. § 1, 1°, 2°, 3° en 4°, bedoelde gelijkekansenindicatoren, waarbij het aantal regelmatige leerlingen die enkel en alleen beantwoorden aan de in artikel VI.2, § 1, 1° of 1° en 5°, bedoelde gelijkekansenindicatoren wordt vermenigvuldigd met een door de Vlaamse Regering bepaalde coëfficiënt, die ten minste gelijk is aan 0,1 en ten hoogste gelijk is aan 1. Binnen eenzelfde percentage worden de scholen volgens het absoluut aantal van deze leerlingen gerangschikt; ».<br /><br />
+
+### ART. X.23.
+
+In hetzelfde decreet wordt een artikel VI.3bis ingevoegd dat luidt als volgt :<br />« Artikel VI.3bis<br />In afwijking van artikel VI.2, § 1, 1°, geldt voor het gewoon basisonderwijs in de schooljaren 2008-2009, 2009-2010 en 2010-2011 de volgende gelijkekansenindicator : het gezin leeft van een vervangingsinkomen zoals vastgesteld op de eerste schooldag van februari van 2005. ».<br /><br />
+
+### ART. X.24.
+
+In hetzelfde decreet wordt in artikel VI.8, in § 1, het derde lid vervangen door wat volgt :<br />« Bij negatieve evaluatie verliest de school het recht op de in artikel VI.3 bedoelde aanvullende lestijden of extra uren-leraar voor de volgende periode van drie schooljaren tenzij de school een engagement tot remediëring aangaat. In dat geval krijgen ze de helft van het aantal aanvullende lestijden of extra uren-leraar waarop ze in geval van positieve evaluatie recht zouden hebben.<br /><br />Een engagement tot remediëring moet aan volgende voorwaarden voldoen :<br />1° de scholen verbinden er zich toe een stappenplan op te stellen dat voldoet aan de volgende criteria :<br />a) het uitgangspunt van het stappenplan zijn de geformuleerde knelpunten in het evaluatieverslag van de onderwijsinspectie van de betrokken school;<br />b) de geformuleerde doelstellingen tot remediëring in het stappenplan passen binnen de doelstellingen zoals geformuleerd in artikel VI.5, § 1, 1°, van het decreet;<br />c) de doelstellingen zijn outputgericht, concreet en operationeel geformuleerd. Ze moeten voldoende controleerbaar zijn;<br />d) het stappenplan wordt vóór 1 mei van het schooljaar volgend op de negatieve evaluatie aan de onderwijsinspectie bezorgd;<br />e) de doelstellingen dienen gerealiseerd te zijn vóór 1 juni van het schooljaar volgend op de negatieve evaluatie;<br />2° de scholen verbinden er zich toe om een beroep te doen op externe begeleiding en ondersteuning bij het opstellen en de uitvoering van het stappenplan.<br /><br />De onderwijsinspectie gaat in de maand juni van het schooljaar volgend op de negatieve evaluatie opnieuw na of, en in welke mate, de doelstellingen werden bereikt. Het bereiken van de doelstellingen wordt afgewogen tegenover de schoolcontext en de kenmerken van de schoolpopulatie.<br /><br />Bij een positieve evaluatie zal de school vanaf het tweede schooljaar terug een beroep kunnen doen op het volledige aantal in artikel VI.3 bedoelde lestijden of uren-leraar. Bij een negatieve evaluatie verliest de school het recht op de in artikel VI.3 bedoelde aanvullende lestijden of op extra uren-leraar voor de volgende twee schooljaren. ».<br /><br />
+
+### ART. X.25.
+
+Artikel VI.11 van hetzelfde decreet wordt vervangen door wat volgt :<br />« Artikel VI.11<br />§ 1. Voor de toepassing van deze afdeling gelden volgende indicatoren, verder genoemd « gelijkekansenindicatoren » :<br />1° het gezin ontvangt één of meerdere schooltoelage(n) zoals bedoeld in artikel 5, 34°, van het decreet van 8 juni 2007 betreffende de studiefinanciering van de Vlaamse Gemeenschap;<br />2° de leerling is tijdelijk of permanent buiten het eigen gezinsverband opgenomen door een gezin of persoon, een voorziening of een sociale dienst, bedoeld in de gecoördineerde decreten van 4 april 1990 inzake bijzondere jeugdbijstand, met uitzondering van de internaten gefinancierd of gesubsidieerd door het Vlaams Ministerie van Onderwijs en Vorming;<br />3° de ouders behoren tot de trekkende bevolking;<br />4° de moeder is niet in het bezit van een diploma van het secundair onderwijs, een studiegetuigschrift van het tweede leerjaar van de derde graad van het beroepssecundair onderwijs of van een daarmee gelijkwaardig studiebewijs;<br />5° de taal die de leerling in het gezin spreekt, dit is de taal die de leerling spreekt met moeder, vader, broers of zussen, is niet het Nederlands. Die taal is niet het Nederlands indien de leerling in het gezin met niemand of in een gezin met drie gezinsleden (de leerling niet meegerekend) met maximum één gezinslid het Nederlands spreekt. Broers en zussen worden als één gezinslid beschouwd.<br /><br />§ 2. Het beantwoorden aan de in § 1, 4° en 5°, bedoelde gelijkekansenindicatoren wordt bewezen aan de hand van een verklaring op eer door de ouders. De Vlaamse Regering bepaalt de wijze waarop het beantwoorden aan de in § 1, 1°, 2° en 3°, bedoelde gelijkekansenindicator wordt vastgesteld en legt de procedure vast volgens dewelke de gegevens worden gemeld aan het Vlaams Ministerie van Onderwijs en Vorming. Zij houdt daarbij rekening met de vigerende regelgeving inzake de bescherming van de persoonlijke levenssfeer.<br /><br />De documenten of verklaringen die aantonen dat leerlingen beantwoorden aan één of meer van de gelijkekansenindicatoren worden ten minste vijf jaar bewaard in de school.<br /><br />§ 3. De Vlaamse Regering kent aan elke gelijkekansenindicator een gewicht toe. Zij bepaalt tevens het maximum van de gecumuleerde gewichten, dat ten minste gelijk is aan het hoogste gewicht dat aan een gelijkekansenindicator wordt toegekend en ten hoogste gelijk is aan anderhalf maal dit hoogste gewicht.<br /><br />De hoogste gewichten worden toegekend aan de in § 1, 2° en 3°, bedoelde gelijkekansenindicatoren. De in § 1, 5°, bedoelde gelijkekansenindicator wordt enkel gewogen in combinatie met andere gelijkekansenindicatoren. ».<br /><br />
+
+### ART. X.26.
+
+Artikel VI.12 van hetzelfde decreet wordt vervangen door wat volgt :<br />« Artikel VI.12<br />Scholen kunnen voor een periode van drie schooljaren extra uren-leraar/puntenwaarden krijgen, voor zover ze aan alle onderstaande voorwaarden voldoen :<br />1° op 1 februari van het voorafgaand schooljaar ten minste 25 % regelmatige leerlingen tellen die beantwoorden aan één of meer van de in artikel VI.11, § 1, 1°, 2°, 3° en 4°, bedoelde gelijkekansenindicatoren, waarbij het aantal regelmatige leerlingen die enkel en alleen beantwoorden aan de in artikel VI.11, § 1, 1° of 1° en 5°, bedoelde gelijkekansenindicatoren wordt vermenigvuldigd met een door de Vlaamse Regering bepaalde coëfficiënt, die ten minste gelijk is aan 0,1 en ten hoogste gelijk is aan 1; en<br />2° overeenkomstig de bepalingen van artikel VI.13 batig gerangschikt zijn onder de in 1° bedoelde scholen en ten minste zes extra uren-leraar genereren.<br /><br />De inrichtende machten bepalen of de extra ondersteuning uren-leraar en/of puntenwaarden betreft. ».<br /><br />
+
+### ART. X.27.
+
+Artikel VI.13 van hetzelfde decreet wordt vervangen door wat volgt :<br />« Artikel VI.13<br />§ 1. De toekenning van de extra uren leraar/puntenwaarden gebeurt voor de tweede en derde graad van het gewoon voltijds secundair onderwijs driejaarlijks als volgt :<br />1° de in artikel VI.12 bedoelde scholen worden gerangschikt volgens het percentage leerlingen die beantwoorden aan één of meer van de in artikel VI.11. § 1, 1°, 2°, 3° en 4°, bedoelde gelijkekansenindicatoren, waarbij het aantal regelmatige leerlingen die enkel en alleen beantwoorden aan de in artikel VI.11, § 1, 1° of 1° en 5°, bedoelde gelijkekansenindicatoren wordt vermenigvuldigd met een door de Vlaamse Regering bepaalde coëfficiënt, die ten minste gelijk is aan 0,1 en ten hoogste gelijk is aan 1. Binnen eenzelfde percentage worden de scholen volgens het absolute aantal van deze leerlingen gerangschikt;<br />2° de leerlingen genereren op basis van het gewicht van de gelijkekansenindicatoren die op hen van toepassing zijn een aantal punten;<br />3° het aantal punten van scholen met ten minste 80 % leerlingen die aan één of meer van de in artikel VI.11, § 1, 1°, 2°, 3° en 4°, bedoelde gelijkekansenindicatoren beantwoorden, wordt vermenigvuldigd met een door de Vlaamse Regering vastgelegde coëfficiënt, die ten minste gelijk is aan 1 en ten hoogste gelijk is aan 1,5;<br />4° het aantal punten van scholen in het tweetalig gebied Brussel-Hoofdstad wordt vermenigvuldigd met een door de Vlaamse Regering vastgelegde coëfficiënt, die ten minste gelijk is aan 1 en ten hoogste gelijk is aan 1,5.<br /><br />§ 2. De Vlaamse Regering bepaalt binnen de beschikbare begrotingskredieten hoeveel extra uren-leraar/puntenwaarden een punt vertegenwoordigt.<br />De Vlaamse Regering bepaalt tevens de regelen inzake de toekenning of herverdeling, tijdens een lopende periode van drie schooljaren, van nieuwe of vrijkomende extra uren-leraar/puntenwaarden. ».<br /><br />
+
+### ART. X.28.
+
+In hetzelfde decreet wordt in artikel VI.18, § 1 vervangen door wat volgt :<br />« § 1. De onderwijsinspectie gaat telkens in de loop van het derde schooljaar na of, en in welke mate, de doelstellingen werden bereikt. Het bereiken van de doelstellingen wordt afgewogen tegenover de schoolcontext en de kenmerken van de schoolpopulatie.<br /><br />Bij positieve evaluatie kan de school voor een nieuwe periode van drie schooljaren extra uren-leraar/puntenwaarden krijgen indien opnieuw aan alle voorwaarden van artikel VI.12 voldaan is.<br /><br />Bij negatieve evaluatie verliest de school het recht op de in artikel VI.13 bedoelde extra uren-leraar/puntenwaarden voor de volgende periode van drie schooljaren tenzij de school een engagement tot remediëring aangaat. In dat geval krijgen ze de helft van het aantal extra uren-leraar/puntenwaarden waarop ze in geval van positieve evaluatie recht zouden hebben.<br /><br />Een engagement tot remediëring moet aan volgende voorwaarden voldoen :<br />1° de scholen verbinden er zich toe een stappenplan op te stellen dat voldoet aan de volgende criteria :<br />a) het uitgangspunt van het stappenplan zijn de geformuleerde knelpunten in het evaluatieverslag van de onderwijsinspectie van de betrokken school;<br />b) de geformuleerde doelstellingen tot remediëring in het stappenplan passen binnen de doelstellingen zoals geformuleerd in artikel VI.15, § 1, 1°;<br />c) de doelstellingen zijn outputgericht, concreet en operationeel geformuleerd. Ze moeten voldoende controleerbaar zijn;<br />d) het stappenplan moet vóór 1 mei van het schooljaar volgend op de negatieve evaluatie aan de onderwijsinspectie bezorgd worden;<br />e) de doelstellingen dienen gerealiseerd te zijn vóór 1 juni van het schooljaar volgend op de negatieve evaluatie;<br />2° de scholen verbinden er zich toe om een beroep te doen op externe begeleiding en ondersteuning bij het opstellen en de uitvoering van het stappenplan.<br /><br />De onderwijsinspectie gaat in de maand juni van het schooljaar volgend op de negatieve evaluatie opnieuw na of, en in welke mate, de doelstellingen werden bereikt. Het bereiken van de doelstellingen wordt afgewogen tegenover de schoolcontext en de kenmerken van de schoolpopulatie.<br /><br />Bij een positieve evaluatie zal de school vanaf het tweede schooljaar terug een beroep kunnen doen op het volledige aantal in artikel VI.13 bedoelde extra uren-leraar/puntenwaarden. Bij een negatieve evaluatie verliest de school het recht op de in artikel VI.13 bedoelde extra uren-leraar/puntenwaarden voor de volgende twee schooljaren. ».<br /><br />
+
+### ART. X.29.
+
+In hetzelfde decreet wordt een artikel VI.19bis ingevoegd dat luidt als volgt :<br />« Artikel VI.19bis<br />De Vlaamse Regering voorziet voor het schooljaar 2008-2009, 2009-2010 en 2010-2011 in overgangsmaatregelen.<br /><br />In functie van deze overgangsmaatregelen wordt het aantal extra uren-leraar/puntenwaarden gelijke onderwijskansen dat een school in het schooljaar 2007-2008 kreeg vergeleken met het aantal uren-leraar verkregen in toepassing van artikelen VI.12 en VI.13.<br /><br />Het verlies van een vastgelegd aantal uren-leraar wordt beperkt tot nul. ».<br /><br />
+
+### ART. X.30.
+
+Artikel VI.21 van hetzelfde decreet wordt opgeheven.<br /><br />
+
+### ART. X.31.
+
+In artikel X.1bis, § 1 en § 2, van hetzelfde decreet, gewijzigd bij het decreet van 15 juli 2005, worden de woorden « en 2007-2008 » vervangen door « , 2007-2008 en 2008-2009 ».<br /><br />
+
+### ART. X.32.
+
+Aan hetzelfde decreet worden aan hoofdstuk X, Andere bepalingen een artikel X.2 toegevoegd, dat luidt als volgt :<br />« Artikel X.2<br />§ 1. Schoolbesturen en inrichtende machten kunnen voor de inschrijvingen tijdens het schooljaar 2009-2010 en 2010-2011 beroep doen op een experimentele aanmeldingsprocedure, vermeld in § 2.<br /><br />De experimentele aanmeldingsprocedure is eerst uitvoerbaar indien zij bij een dubbele meerderheid goedgekeurd is door het lokaal overlegplatform waarin de betrokken scholen participeren. De vereiste dubbele meerderheid is bereikt wanneer de goedkeuring verleend wordt door, enerzijds, ten minste de helft plus één van participanten, vermeld in artikel IV.3, § 1, 1° en 2°, en, anderzijds, ten minste de helft plus één van de overige participanten.<br /><br />§ 2. De experimentele aanmeldingsprocedure omvat alle hiernavolgende elementen :<br />1° het schoolbestuur of de inrichtende macht stelt voorafgaand aan de aanmeldingstermijn, vermeld in 2°, ordeningscriteria vast. De ordeningscriteria worden bepaald op het niveau van de school of van de vestingsplaats. De gekozen criteria dienen objectief gemotiveerd te worden en mogen niet leiden tot uitsluiting uit de rangorde. Geografische criteria kunnen enkel gehanteerd worden in het basisonderwijs;<br />2° het schoolbestuur of de inrichtende macht bepaalt een aanmeldingstermijn waarbinnen ouders de intentie tot inschrijving kenbaar kunnen maken;<br />3° de aanmeldingstermijn en de ordeningscriteria worden door middel van diverse communicatiekanalen bekendgemaakt aan de ouders;<br />4° de aangemelde leerlingen worden na afloop van de aanmeldingsperiode ambtshalve ingeschreven, rekening houdend met hun voorrangsregeling van afdeling 2, hoofdstuk III.<br /><br />§ 3. Het lokaal overlegplatform evalueert jaarlijks de goedgekeurde experimentele aanmeldingsprocedures. Het evaluatieverslag wordt vóór 1 november ter kennis van de Vlaamse Regering gebracht.<br /><br />§ 4. In voorkomend geval houdt de Commissie Leerlingenrechten bij het formuleren van het oordeel, vermeld in hoofdstuk V, rekening met de regelmatige toepassing van de experimentele aanmeldingsprocedure.<br /><br />§ 5. Voor alles wat niet bij of krachtens dit artikel geregeld is, zijn de overige bepalingen van dit decreet onverkort van toepassing. ».<br /><br />
+
 ## Afdeling VI Decreet betreffende het onderwijs XIV
+
+### ART. X.33.
+
+Aan artikel X.35 van het decreet van 14 februari 2003 betreffende het onderwijs XIV wordt een punt 41° en 42° toegevoegd, die luiden als volgt :<br />« 41° het decreet van 16 mei 2007 betreffende dringende maatregelen voor het onderwijs;<br />42° het decreet betreffende het onderwijs XVIII. ».<br /><br />
 
 ### ART. X.34.
 
@@ -554,7 +1183,59 @@ In het decreet van 7 mei 2004 betreffende de regionale technologische centra en 
 
 ## Afdeling VIII Decreet betreffende participatie op school en de Vlaamse Onderwijsraad
 
+### ART. X.36.
+
+In artikel 92 van het decreet van 2 april 2004 betreffende participatie op school en de Vlaamse Onderwijsraad wordt na een eerste lid een nieuw tweede lid ingevoegd, dat luidt als volgt :<br />« De Vlaamse Onderwijsraad kan personeelsleden tewerkstellen die overeenkomstig hun geldende rechtspositie een verlof wegens bijzondere opdracht of een verlof wegens opdracht hebben opgenomen.<br /><br />Op de personeelsleden die bij de Vlaamse Onderwijsraad overeenkomstig een verlof wegens bijzondere opdracht of een verlof wegens opdracht zijn tewerkgesteld, zijn de artikelen X.9 tot en met X.12 van het Vlaams personeelsstatuut van 13 januari van 2006 van toepassing.<br /><br />Aan de personeelsleden die bij de Vlaamse Onderwijsraad overeenkomstig een verlof wegens bijzondere opdracht of een verlof wegens opdracht zijn tewerkgesteld, wordt per werkdag een verblijfsvergoeding van 9,50 euro tegen 100 %, toegekend.<br /><br />Deze verblijfsvergoeding wordt niet toegekend voor vakantie-, verlof- en ziektedagen en wordt maandelijks na vervallen termijn uitbetaald.<br /><br />Deze verblijfsvergoeding is gekoppeld aan de evolutie van de gezondheidsindex overeenkomstig de wet van 1 maart 1977 houdende inrichting van een stelsel waarbij sommige uitgaven in de overheidssector aan het indexcijfer van de consumptieprijzen van het Rijk worden gekoppeld, zoals gewijzigd door het koninklijk besluit nr. 178 van 30 december 1982 en onverminderd artikel 2 van het koninklijk besluit van 24 december 1993 ter uitvoering van de wet van 6 januari 1989 tot vrijwaring van s lands concurrentievermogen. ».<br /><br />
+
 ## Afdeling IX Opleiding voor opleiders van volwassenen
+
+### ART. X.37.
+
+In artikel 1 van het besluit van de Vlaamse Regering van 9 februari 2007 betreffende de organisatie van tijdelijke projecten voor de Opleiding voor Opleiders van Volwassenen, bekrachtigd bij het decreet van 9 maart 2007, worden de woorden « de categorie pedagogisch hoger onderwijs voor sociale promotie » vervangen door de woorden « het studiegebied onderwijs van het hoger beroepsonderwijs ».<br /><br />
+
+### ART. X.38.
+
+In artikel 2, 1°, van hetzelfde besluit worden de woorden « artikel 3, 26°, van het decreet van 2 maart 1999 tot regeling van een aantal aangelegenheden van het volwassenenonderwijs » vervangen door de woorden « artikel 2, 26°, van het decreet van 15 juni 2007 betreffende het volwassenenonderwijs ».<br /><br />
+
+### ART. X.39.
+
+Aan artikel 5 van hetzelfde besluit worden na de woorden « vanaf 1 september 2007 tot 31 augustus 2008 » de volgende woorden toegevoegd : « en ten minste eenmaal volledig georganiseerd vanaf 1 september 2008 tot en met 31 augustus 2009. ».<br /><br />
+
+### ART. X.40.
+
+In artikel 11 van hetzelfde besluit worden de volgende wijzigingen aangebracht :<br />1° in § 1, 10°, worden de woorden « de reguliere GPB-opleiding » vervangen door de woorden « de specifieke lerarenopleidingen »;<br />2° in § 4 worden de woorden « Zij verwerven vrijstelling in de reguliere GPB-opleiding conform het structuurschema, goedgekeurd ter uitvoering van artikel 75 van het decreet van 2 maart 1999 tot regeling van een aantal aangelegenheden van het volwassenenonderwijs » geschrapt.<br /><br />
+
+### ART. X.41.
+
+In artikel 14 van hetzelfde besluit worden de woorden « pedagogisch hoger onderwijs voor sociale promotie » vervangen door de woorden « studiegebied onderwijs van het hoger beroepsonderwijs ».<br /><br />
+
+### ART. X.42.
+
+Aan artikel 16 van hetzelfde besluit wordt een tweede lid toegevoegd, dat luidt als volgt :<br />« Voor het schooljaar 2008-2009 wordt aan elk proefcentrum eenzelfde bedrag toegekend. ».<br /><br />
+
+### ART. X.43.
+
+In artikel 19 van hetzelfde besluit worden de volgende wijzigingen aangebracht :<br />1° in het eerste lid worden de woorden « artikel 50 van het decreet van 2 maart 1999 tot regeling van een aantal aangelegenheden van het volwassenenonderwijs » vervangen door de woorden « artikel 109 van het decreet van 15 juni 2007 betreffende het volwassenenonderwijs »;<br />2° in het tweede lid worden de woorden « artikel 50bis van het decreet van 2 maart 1999 tot regeling van een aantal aangelegenheden van het volwassenenonderwijs » vervangen door de woorden « artikel 121 van het decreet van 15 juni 2007 betreffende het volwassenenonderwijs ».<br /><br />
+
+### ART. X.44.
+
+In artikel 20, § 2, van hetzelfde besluit wordt tussen het eerste en het tweede lid een nieuw lid ingevoegd, dat luidt als volgt :<br />« Wanneer het aantal cursisten voor de eerste module veertien bedraagt, dan kan het proefcentrum de Opleiding voor Opleiders van Volwassenen een tweede keer organiseren. In dit geval voldoet het aantal cursisten voor de eerste module en de volgende modules aan de bepalingen, vermeld in het eerste lid. ».<br /><br />
+
+### ART. X.45.
+
+In artikel 22 van hetzelfde besluit worden de volgende wijzigingen aangebracht :<br />1° in punt 1° worden de woorden « artikel 34 en 37 van het decreet van 2 maart 1999 tot regeling van een aantal aangelegenheden van het volwassenenonderwijs » vervangen door de woorden « artikel 34 van het decreet van 15 juni 2007 betreffende het volwassenenonderwijs »;<br />2° in punt 2° van hetzelfde artikel worden de woorden « artikel 41, § 3 » vervangen door de woorden « artikel 41, § 5 ».<br /><br />
+
+### ART. X.46.
+
+In artikel 24 van hetzelfde besluit worden de woorden « artikel 62 van het decreet van 2 maart 1999 tot regeling van een aantal aangelegenheden van het volwassenenonderwijs » vervangen door de woorden « artikel 114 van het decreet van 15 juni 2007 betreffende het volwassenenonderwijs ».<br /><br />
+
+### ART. X.47.
+
+In hetzelfde besluit wordt een hoofdstuk VIIIbis, bestaande uit artikel 24bis, ingevoegd, dat luidt als volgt :<br />« HOOFDSTUK VIIIbis. - De verlenging van de tijdelijke projecten tijdens het schooljaar 2008-2009<br /><br />Artikel 24bis<br />§ 1. De volgende Centra voor Volwassenenonderwijs organiseren tijdens het schooljaar 2008-2009 de tijdelijke projecten voor de Opleiding voor Opleiders van Volwassenen :<br />1° het Centrum voor Volwassenenonderwijs VIVO, Scheutistenlaan 12, 8500 Kortrijk;<br />2° het Centrum voor Volwassenenonderwijs Limburgse Lerarenopleiding, Stationsstraat 36, 3590 Diepenbeek;<br />3° het Centrum voor Volwassenenonderwijs De Oranjerie, Boudewijnvest 3, 3290 Diest;<br />4° het Centrum voor Volwassenenonderwijs - KISP, Industrieweg 228, 9030 Mariakerke, in samenwerking met het Centrum voor Volwassenenonderwijs - Vormingsleergang voor Sociaal en Pedagogisch Werk - Gent, Edgard Tinelstraat 92, 9040 Sint-Amandsberg.<br /><br />§ 2. Over de verlenging van het tijdelijke project wordt onderhandeld in het lokaal comité. ».<br /><br />
+
+### ART. X.48.
+
+In artikel 25 van hetzelfde besluit worden de woorden « en houdt op van kracht te zijn op 31 augustus 2008 » geschrapt.<br /><br />
 
 ## Afdeling X Flankerend onderwijsbeleid en leerplicht
 
@@ -594,9 +1275,25 @@ In het basisonderwijs worden aanstellingen op basis van vervangingseenheden in d
 
 Het besluit van de Vlaamse Regering van 7 september 2007 betreffende de organisatie van CLIL-projecten in het secundair onderwijs wordt bekrachtigd.<br /><br />
 
+### ART. XI.4.
+
+De volgende bepalingen, zoals gewijzigd worden opgeheven :<br />1° artikelen 12, 36, 47, 63, 64, 85, 86, van het decreet van 5 juli 1989 betreffende het onderwijs;<br />2° artikelen 18, 24, 25, 44, 52, 56, 2°, 58, 59, 5° en 6°, 63, 84bis, § 2, 84sexies, 84septies, 89, 100quinquies, § 1 en § 1bis, 101, 107, 148, § 4, 201, 202, van het decreet van 31 juli 1990 betreffende het onderwijs II;<br />3° artikelen 11, 14, 16, § 3, 18, 19, 42, 60, 68, 69, 70, van het decreet van 9 april 1992 betreffende het onderwijs III;<br />4° artikelen 9, 22, 27, 66, 67, 68, 76, 91, 125, 127, van het decreet van 28 april 1993 betreffende het onderwijs IV;<br />5° artikelen 45, 58, 63, 92 tot en met 96, 99, 100 tot en met 103, 107 tot en met 109, 146, 148, 166 tot en met 168, 169bis tot en met 169ter, 169quinquies tot en met 169sexies, 170, van het decreet van 21 december 1994 betreffende het onderwijs VI;<br />6° artikelen 9, 13, 58 tot en met 61, 95, 72, 54, 81, 112, 182, 191 tot en met 195, 200, van het decreet van 8 juli 1996 betreffende het onderwijs VII;<br />7° artikelen 16 en17 van het decreet van 15 juli 1997 betreffende het onderwijs VIII;<br />8° artikel 7 van het decreet van 14 juli 1998 betreffende het onderwijs IX;<br />9° artikelen 159 en 177 van het decreet van 18 mei 1999 betreffende het onderwijs XI;<br />10° artikelen 83, 84, 85, 86 van het decreet van 20 oktober 2000 betreffende het onderwijs XII Ensor;<br />11° artikel V.36 van het decreet van 13 juli 2001 betreffende het onderwijs XIII-Mozaïek;<br />12° het besluit van de Vlaamse Regering van 17 juni 2005 betreffende de subsidie projectfinanciering voor regionale technologische centra.<br /><br />
+
+### ART. XI.6.
+
+Onverminderd de krachtens artikel 146 van de Grondwet door de wet georganiseerde rechtsbescherming, worden de betrekkingen in het ambt van werkmeester, werkplaatsleider, technisch adviseur of technisch adviseur-coördinatordie voor 1 september 2008 werden opgericht of instandgehouden, beschouwd als zijnde opgericht of instandgehouden volgens de bepalingen van artikel 85bis van het decreet van 14 juli 1998 houdende diverse maatregelen met betrekking tot het secundair onderwijs en tot wijziging van het decreet van 25 februari 1997 betreffende het basisonderwijs, ingevoegd bij het decreet van 7 juli 2006 en gewijzigd bij het decreet betreffende het onderwijs XVIII.<br /><br />
+
 ### ART. XI.7.
 
 Sectorcomité X of onderafdeling « Vlaamse Gemeenschap » van afdeling 2 van het comité voor de provinciale en plaatselijke overheidsdiensten bemiddelen op vraag van een afgevaardigde van de representatieve vakorganisaties, een afgevaardigde van het schoolbestuur en/of een afgevaardigde van de representatieve verenigingen van inrichtende machten en/of het Gemeenschapsonderwijs bij elk geschil, elk conflict of elk dreigend conflict van collectieve aard dat zich binnen hun respectieve werkingsveld voordoet. Sectorcomité X en onderafdeling « Vlaamse Gemeenschap » van afdeling 2 van het comité voor de provinciale en plaatselijke overheidsdiensten kunnen daartoe inzonderheid een bemiddelaar aanstellen.<br /><br />Sectorcomité X en onderafdeling « Vlaamse Gemeenschap » van afdeling 2 van het comité voor de provinciale en plaatselijke overheidsdiensten nemen binnen een termijn van zes maanden, ingaande vanaf 1 april 2008, elk een intern reglement inzake de bemiddelingsprocedure aan. De reglementen worden uitvoerbaar na bekrachtiging door de Vlaamse Regering.<br /><br />Bij elk geschil, elk conflict of elke dreigend conflict van collectieve aard dat zich in een netoverstijgende scholengemeenschap of in een consortium voordoet, kunnen Sectorcomité X, onderafdeling « Vlaamse Gemeenschap » van afdeling 2 van het comité voor de provinciale en plaatselijke overheidsdiensten, de centraal paritaire comités van het gesubsidieerd vrij onderwijs en het Vlaams Onderhandelingscomité voor de basiseducatie in een gemeenschappelijke vergadering bemiddelen en gemeenschappelijk een bemiddelaar aanstellen.<br /><br />
+
+### ART. XI.8.
+
+De Vlaamse Regering voorziet voor de schooljaren 2008-2009, 2009-2010 en 2010-2011 in een extra begeleidingscorps, bestaande uit orthopedagogen en psychologen die expertise hebben in collegiale ondersteuning betreffende autismespectrumstoornissen en andere personen die op basis van praktijkervaring gelijkaardige expertise hebben, om de scholen van het buitengewoon basis- en secundair onderwijs bij de verbreding en verdieping van hun aanbod voor jongeren met autisme te ondersteunen.<br /><br />De Vlaamse Regering verleent daartoe een verlof wegens bijzondere opdracht aan personeelsleden van het Gemeenschapsonderwijs, de gesubsidieerde onderwijsinstellingen en centra voor leerlingenbegeleiding.<br /><br />De Vlaamse Regering sluit hiertoe een convenant af met het Gemeenschapsonderwijs en de representatieve verenigingen van inrichtende machten waarin minimaal de voorwaarden op basis waarvan leerlingen tot de doelgroep behoren, de doelstellingen en engagementen bepaald zullen worden, inzonderheid voor type 3.<br /><br />Het aantal extra personeelsleden bedraagt maximaal het equivalent van 22,5 voltijdse opdrachten voor het buitengewoon basisonderwijs en het buitengewoon secundair onderwijs.<br /><br />De verdeling gebeurt als volgt : 4,5 voltijds equivalent voor het Gemeenschapsonderwijs, 2,5 voltijds equivalent voor het gesubsidieerd officieel onderwijs en 15,5 voltijds equivalent voor het gesubsidieerd vrij onderwijs.<br /><br />
+
+### ART. XI.9.
+
+§ 1. Voor de representatieve vakorganisaties, aangesloten bij een in de Sociaal-Economische Raad van Vlaanderen vertegenwoordigde syndicale organisatie wordt jaarlijks binnen de voorziene begrotingskredieten een bedrag ter beschikking gesteld voor de ondersteuning van de syndicale werkzaamheden van hun vakbondsafgevaardigden.<br /><br />§ 2. De Vlaamse Regering bepaalt het bedrag en de wijze van verdeling van dit bedrag over de betrokken vakorganisaties en legt de aanvraagprocedure vast.
 
 ### ART. XI.11.
 
@@ -604,7 +1301,7 @@ De Vlaamse Regering heeft de bevoegdheid om het besluit van de Vlaamse Regering 
 
 ### ART. XI.12.
 
-De bepalingen van dit hoofdstuk hebben uitwerking met ingang van de hierna vermelde datum :<br />1° artikel XI.3 heeft uitwerking met ingang van 1 april 1991;<br />2° artikel XI.2 heeft uitwerking met ingang van 1 mei 2007;<br />3° artikel XI.1 heeft uitwerking met ingang van 1 september 2007;<br />4° artikel XI.7 heeft uitwerking met ingang van 1 april 2008;<br />5° artikel XI.11 heeft uitwerking met ingang van 1 juni 2008;<br />6° artikelen XI.4, XI.6 en XI.8 treden in werking op 1 september 2008;<br />7° artikel XI.5 treedt in werking op de datum van inwerkingtreding van de wet van 16 mei 2003 tot vaststelling van de algemene bepalingen die gelden voor de begrotingen, de controle op de subsidies en voor de boekhouding van de gemeenschappen en de gewesten, alsook voor de organisatie van de controle door het Rekenhof<br /><br />
+De bepalingen van dit hoofdstuk hebben uitwerking met ingang van de hierna vermelde datum :<br />1° artikel XI.3 heeft uitwerking met ingang van 1 april 1991;<br />2° artikel XI.2 heeft uitwerking met ingang van 1 mei 2007;<br />3° artikel XI.1 heeft uitwerking met ingang van 1 september 2007;<br />4° artikel XI.7 heeft uitwerking met ingang van 1 april 2008;<br />5° artikel XI.11 heeft uitwerking met ingang van 1 juni 2008;<br />6° artikelen XI.4, XI.6, XI.8 en XI.9 treden in werking op 1 september 2008; <br />7° artikel XI.5 treedt in werking op de datum van inwerkingtreding van de wet van 16 mei 2003 tot vaststelling van de algemene bepalingen die gelden voor de begrotingen, de controle op de subsidies en voor de boekhouding van de gemeenschappen en de gewesten, alsook voor de organisatie van de controle door het Rekenhof<br /><br />
 
 ## Bijlage 1 Bijlage II bij artikel 103 van het decreet van 14 juli 1998 houdende diverse maatregelen met betrekking tot het secundair onderwijs en tot wijziging van het decreet van 25 februari 1997 betreffende het basisonderwijs
 
