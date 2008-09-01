@@ -760,6 +760,10 @@ Het puntengewicht per leerling, bedoeld in artikel 85, § 1, van het decreet bas
 
 <p>&nbsp;</p>
 
+### ART. 2ter.
+
+Voor de toepassing van artikel 86, § 5, van het decreet is het gemiddeld aantal onderwijsdagen per kind gelijk aan 10.
+
 ### ART. 3.
 
 (niet opgenomen)<br /><br />(§ 1. Heft het besluit van de Vlaamse regering van 27 maart 1991 tot vaststelling van het puntengewicht per leerling, student of interne, bedoeld in artikel 3, § 2, van het decreet van 31 juli 1990 betreffende het onderwijs-II voor het basisonderwijs op<br /><br />§ 2. Heft het besluit van de Vlaamse regering van 22 juni 1994 tot uitvoering van artikel 2, § 1, van het decreet van 31 juli 1990 betreffende het onderwijs-II, vaststelling van de wegingspercentages in het gewoon- en buitengewoon kleuteronderwijs op)
