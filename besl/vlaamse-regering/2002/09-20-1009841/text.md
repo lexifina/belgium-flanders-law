@@ -8,6 +8,10 @@
 
 De bij dit besluit vastgestelde eindtermen worden in acht genomen vanaf het schooljaar 2006-2007.
 
+### ART. 2bis.
+
+Om het studiepeil te waarborgen, en uitsluitend met het oog op de uitreiking in het deeltijds beroepssecundair onderwijs of in de leertijd van graad- of leerjaargebonden eindstudiebewijzen, identiek aan die van het voltijds gewoon secundair onderwijs, zijn de bepalingen van dit besluit met uitzondering van het vak lichamelijke opvoeding, met ingang van het schooljaar 2008-2009 ook van toepassing op de algemene vorming van het deeltijds beroepssecundair onderwijs en van de leertijd.
+
 ### ART. 3.
 
 De Vlaamse minister, bevoegd voor het Onderwijs, is belast met de uitvoering van dit besluit.
