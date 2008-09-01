@@ -138,43 +138,43 @@
 
 ### ART. 29.
 
-De Vlaamse regering kan, na advies van de bevoegde beoordelingscommissie, bedoeld in artikel 44, een projectsubsidie toekennen aan een publiekrechtelijke of een privaatrechtelijke rechtspersoon zonder winstgevend doel voor de productie van een cultuurhistorische tentoonstelling met het oog op de ontsluiting van het cultureel erfgoed.<br /><br />Daartoe voorziet de Vlaamse regering jaarlijks in een krediet van ten minste 400.000 euro.
+...
 
 ### ART. 30.
 
-Om in aanmerking te komen voor subsidiring, wordt het project getoetst aan de volgende criteria:<br /><br />1° de relevantie van het thema voor de cultuurgeschiedenis;<br /><br />2° de ontsluiting van de resultaten van wetenschappelijk cultuurhistorisch onderzoek;<br /><br />3° het publieksgericht concept van de tentoonstelling;<br /><br />4° het bovenregionale belang;<br /><br />5° de samenwerking met andere culturele actoren in binnen- en buitenland;<br /><br />6° de voorbeeldwerking op het vlak van ontsluiting van cultureel erfgoed;<br /><br />7° de geografische reikwijdte.<br /><br />Projecten die gesubsidieerd worden met toepassing van andere decreten, komen niet in aanmerking voor subsidiëring als bedoeld in artikel 29, § 1.
+...
 
 ### ART. 31.
 
-De Vlaamse regering bepaalt de nadere regels met betrekking tot de criteria, de aanvraag, de proce-dure, de toekenning, het toezicht en de evaluatie van de projectsubsidies.
+...
 
 ## AFDELING 2 ONTWIKKELINGSGERICHTE PROJECTEN CULTUREEL ERFGOED
 
 ### ART. 32.
 
-De Vlaamse regering kan, na advies van de bevoegde beoordelingscommissie, bedoeld in<br /><br />artikel 44, een projectsubsidie toekennen aan een publiekrechtelijke of een privaatrechtelijke rechtspersoon zonder winstgevend doel voor een ontwikkelingsgericht project met het oog op de zorg voor en de ontsluiting van het cultureel erfgoed.<br /><br />Daartoe voorziet de Vlaamse regering jaarlijks in een krediet van ten minste 1.500.000 euro.
+...
 
 ### ART. 33.
 
-§ 1. Om in aanmerking te komen voor subsidiëring, wordt het project getoetst aan de volgende criteria:<br /><br />1° de voorbeeldwerking;<br /><br />2° de samenwerking met andere culturele actoren;<br /><br />3° een duidelijk omschreven doelgroep;<br /><br />4° het bovenlokale belang.<br /><br />§ 2. De Vlaamse regering kan beleidsprioriteiten stellen op basis van de Beleidsnota Cultuur.<br /><br />§ 3. De volgende projecten komen niet in aanmerking voor subsidiëring als bedoeld in artikel 32, eerste lid:<br /><br />1° projecten die gesubsidieerd worden met toepassing van andere decreten;<br /><br />2° projecten die gesubsidieerd worden op grond van titel II, hoofdstukken I, II en V.
+...
 
 ### ART. 34.
 
-De Vlaamse regering bepaalt de nadere regels met betrekking tot de criteria, de aanvraag, de proce-dure, de toekenning, het toezicht en de evaluatie van de projectsubsidies.
+...
 
 ## AFDELING 3 INTERNATIONALE PROJECTEN
 
 ### ART. 35.
 
-De Vlaamse regering kan, na advies van de bevoegde beoordelingscommissie, bedoeld in artikel 44, een projectsubsidie toekennen aan een publiekrechtelijke of een privaatrechtelijke rechtspersoon zonder winstgevend doel voor een internationaal project met betrekking tot het cultureel erfgoed.<br /><br />Daartoe voorziet de Vlaamse regering jaarlijks in een krediet van ten minste 200.000 euro.
+...
 
 ### ART. 36.
 
-§ 1. Om in aanmerking te komen voor subsidiëring, wordt het project getoetst aan de volgende criteria:<br /><br />1° de bevordering van de internationale samenwerking, uitwisseling en expertise;<br /><br />2° het internationale belang van het project of van de partners binnen hun werkterrein;<br /><br />3° de inhoudelijke kwaliteit van het project;<br /><br />4° de samenwerking met andere culturele actoren in binnen- en buitenland;<br /><br />5° de geografische spreiding.<br /><br />§ 2. In aanvulling op de criteria, genoemd in § 1, kan de Vlaamse regering prioritaire landen of regio's bepalen.<br /><br />§ 3. Projecten die gesubsidieerd worden op grond van de bepalingen in andere hoofdstukken of afdelingen van dit decreet of met toepassing van andere decreten, komen niet in aanmerking voor subsidiëring als bedoeld in artikel 35, eerste lid.
+...
 
 ### ART. 37.
 
-De Vlaamse regering bepaalt de nadere regels met betrekking tot de criteria, de aanvraag, de proce-dure, de toekenning, het toezicht en de evaluatie van de projectsubsidies.
+...
 
 ## HOOFDSTUK V HET STEUNPUNT VOOR DE MUSEA, DE ARCHIEFINSTELLINGEN, DE BEWAARBIBLIOTHEKEN, DE DOCUMENTATIECENTRA EN DE ERFGOEDCONVENANTSWERKING
 
