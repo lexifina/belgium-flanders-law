@@ -1,0 +1,17 @@
+{
+  "codex_id": 1017529,
+  "title": "Besluit van de Vlaamse Regering van 2008-12-12 tot wijziging van de regelgeving betreffende de bekwaamheidsbewijzen van de personeelsleden van de onderwijsinstellingen voor deeltijds kunstonderwijs en tot wijziging van het besluit van de Vlaamse Regering van 1 september 2006 betreffende de ambtshalve concordantie",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1017529/VolledigDocument?datum=2008-09-01",
+  "source_sha256": "02eb1d5d144225849a8d66625f81c64a4ccce62d5aa87cea48abb0fed4fbad44",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1017529&param=informatie",
+  "as_of": "2008-09-01",
+  "made": "2008-12-12",
+  "gazette": "2009-02-02",
+  "numac": 2009035043,
+  "document_start": "2008-09-01",
+  "document_end": null,
+  "in_force": "2008-09-01",
+  "article_versions": 99,
+  "record_form": "consolidated version as in force on 2008-09-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
