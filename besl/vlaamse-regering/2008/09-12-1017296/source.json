@@ -1,0 +1,17 @@
+{
+  "codex_id": 1017296,
+  "title": "Besluit van de Vlaamse Regering van 2008-09-12 betreffende het multidisciplinaire dossier in de centra voor leerlingenbegeleiding",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1017296/VolledigDocument?datum=2008-09-01",
+  "source_sha256": "423a400873a2ff5938d83200f929a64fa3040e09496b8031931b6b5ca245c43c",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1017296&param=informatie",
+  "as_of": "2008-09-01",
+  "made": "2008-09-12",
+  "gazette": "2008-11-17",
+  "numac": 2008204062,
+  "document_start": "2008-09-01",
+  "document_end": "2018-08-31",
+  "in_force": "2008-09-01",
+  "article_versions": 16,
+  "record_form": "consolidated version as in force on 2008-09-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
