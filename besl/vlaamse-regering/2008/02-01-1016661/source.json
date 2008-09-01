@@ -2,16 +2,16 @@
   "codex_id": 1016661,
   "title": "Besluit van de Vlaamse Regering van 2008-02-01 houdende goedkeuring van aanvullend geselecteerde tijdelijke projecten rond studie- en beroepskeuze en rond werkplekleren",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1016661/VolledigDocument?datum=2007-11-07",
-  "source_sha256": "036620c1c9962f9cf2bf3e7460196ce6169d4a5201e358ea2aaf4727ded06a66",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1016661/VolledigDocument?datum=2008-09-01",
+  "source_sha256": "b824a31fea34acc6deb26fbad4766b1c6ccaac33b115a1de6a88186f09c5091f",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1016661&param=informatie",
-  "as_of": "2007-11-07",
+  "as_of": "2008-09-01",
   "made": "2008-02-01",
   "gazette": "2008-03-14",
   "numac": 2008200741,
   "document_start": "2007-11-07",
   "document_end": "2010-08-31",
-  "in_force": "2007-11-07",
-  "article_versions": 8,
-  "record_form": "consolidated version as in force on 2007-11-07; oldest version available; future article versions excluded; article text as the API gives it"
+  "in_force": "2008-09-01",
+  "article_versions": 11,
+  "record_form": "consolidated version as in force on 2008-09-01; future article versions excluded; article text as the API gives it"
 }
