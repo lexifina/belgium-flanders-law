@@ -8,17 +8,17 @@ Dit besluit is van toepassing op het gewoon en buitengewoon lager onderwijs en o
 
 ### ART. 2.
 
-Voor de toepassing van dit besluit wordt verstaan onder:<br /><br />- buitengewoon onderwijs type 2: onderwijs dat aangepast is aan de opvoedings- en onderwijsbehoeften van kinderen en jongeren met een matige of ernstige verstandelijke handicap;<br /><br />- permanente integratie: de leerling volgt ten minste vanaf de eerste schooldag van oktober van het lopende schooljaar tot het einde van dat schooljaar de lessen en activiteiten in het gewoon onderwijs;<br /><br />- volledige integratie: de leerling volgt alle lessen en activiteiten in het gewoon onderwijs.
+Voor de toepassing van dit besluit wordt verstaan onder:<br />- buitengewoon onderwijs type 2: onderwijs dat aangepast is aan de opvoedings- en onderwijsbehoeften van kinderen en jongeren met een matige of ernstige verstandelijke handicap;
 
 ## HOOFDSTUK II TOEKENNING VAN DE MIDDELEN
 
 ### ART. 3.
 
-§ 1. Vanaf het schooljaar 2002-2003 wordt, in toepassing van artikel 11 van het decreet basisonderwijs van 25 februari 1997 en van artikel 20 van het decreet van 15 juli 1997 betreffende het onderwijs VIII en rekening houdend met het bepaalde in § 2, de integratie ondersteund van leerlingen met een matige of ernstige verstandelijke handicap die op de eerste schooldag van oktober van het lopende schooljaar regelmatig ingeschreven zijn in het gewoon lager onderwijs of in het gewoon secundair onderwijs. <br /><br />§ 2. Binnen de beschikbare begrotingskredieten kunnen per schooljaar maximaal 50 leerlingen ondersteund worden. <br /><br />De leerlingen die in de periode van 1 september 1999 tot 31 augustus 2002 deelnamen aan het project inclusie voor kinderen met een matige of ernstige verstandelijke handicap in het gewoon lager onderwijs of die zich in dezelfde periode hebben aangemeld komen prioritair in aanmerking voor het schooljaar 2002-2003. <br /><br />In voorkomend geval worden jaarlijks de resterende plaatsen toebedeeld aan leerlingen van het lager onderwijs, te beginnen met deze die in het eerste leerjaar zijn ingeschreven en volgens datum van aanvraag.
+§ 1. Vanaf het schooljaar 2002-2003 wordt, in toepassing van artikel 11 van het decreet basisonderwijs van 25 februari 1997 en van artikel 5bis van de wet van 6 juli 1970 betreffende het buitengewoon en geïntegreerd onderwijs en rekening houdend met het bepaalde in § 2, de integratie ondersteund van leerlingen met een matige of ernstige verstandelijke handicap die op de eerste schooldag van oktober van het lopende schooljaar regelmatig ingeschreven zijn in het gewoon lager onderwijs of in het gewoon secundair onderwijs.<br /><br />§ 2. Binnen de beschikbare begrotingskredieten kunnen per schooljaar maximaal 100 leerlingen ondersteund worden.<br /><br />Vrije en vrijgekomen plaatsen worden toegewezen aan de leerling(en) met de oudste volledige aanvraag ingediend bij het Agentschap voor Onderwijsdiensten. De postdatum geldt als bewijs. Bij aanvragen met gelijke postdatum wordt voorrang gegeven aan het jongste kind.
 
 ### ART. 4.
 
-De ondersteuning neemt de vorm aan van:<br /><br />1° 5,5 aanvullende lestijden of lesuren onderwijzend personeel per leerling;<br /><br />2° een forfaitaire integratietoelage van 250 euro op jaarbasis per leerling.
+De ondersteuning neemt de vorm aan van:<br />1° 5,5 aanvullende lestijden of lesuren onderwijzend personeel per leerling;<br />2° een forfaitaire integratietoelage van 250 euro op jaarbasis per leerling.<br />Vanaf het begrotingsjaar 2009 wordt de ION-toelage geïndexeerd aan 75 % van de evolutie van de geraamde gezondheidsindex »<br /><br />Het bekomen bedrag wordt afgerond naar het hoger gelegen geheel getal.
 
 ### ART. 5.
 
@@ -30,7 +30,7 @@ De aanvullende lestijden of lesuren kunnen niet gecumuleerd worden met aanvullen
 
 ### ART. 7.
 
-Om in aanmerking te komen voor de ondersteuning zoals bepaald in artikel 4 moet, rekening houdend met artikel 3 § 2., aan de volgende voorwaarden voldaan zijn:<br /><br />1° de leerling moet voldoen aan de algemene toelatingsvoorwaarden die bij of krachtens decreet voor het betreffende onderwijsniveau zijn bepaald;<br /><br />2° de leerling moet permanent en volledig gentegreerd zijn in het gewoon lager of in het gewoon secundair onderwijs;<br /><br />3° de leerling moet beschikken over een attest ge´ntegreerd onderwijs waaruit blijkt dat type 2 aangewezen is;<br /><br />4° uiterlijk op de eerste schooldag van oktober van het lopende schooljaar is een integratieplan opgemaakt conform de bepalingen van artikel 16 van het decreet basisonderwijs van 25 februari 1997 en de artikelen 21, 3° en 23 van het decreet van 15 juli 1997 betreffende het onderwijs VIII;<br /><br />5° uiterlijk op de eerste schooldag van oktober werd per leerling een aangifteformulier, zoals gevoegd in bijlage bij dit besluit, en het attest ge´ntegreerd onderwijs ingediend bij het departement.
+Om in aanmerking te komen voor de ondersteuning zoals bepaald in artikel 4 moet, rekening houdend met artikel 3 § 2., aan de volgende voorwaarden voldaan zijn:<br />1° de leerling moet voldoen aan de algemene toelatingsvoorwaarden die bij of krachtens decreet voor het betreffende onderwijsniveau zijn bepaald;<br />2° de leerling moet permanent en volledig geïntegreerd zoals bedoeld in artikel 5bis van de wet op het buitengewoon en geïntegreerd onderwijs van 6 juli 1970 en artikel 11 van het decreet basisonderwijs van 25 februari 1997 zijn in het gewoon lager of in het gewoon secundair onderwijs;<br />3° de leerling moet beschikken over een attest buitengewoon onderwijs waaruit blijkt dat type 2 aangewezen is;<br />4° bij de aanvang van de begeleiding is een integratieplan opgemaakt conform de bepalingen van artikel 16 van het decreet basisonderwijs van 25 februari 1997 en de artikelen 5bis 1 en 5bis 3 van de wet van 6 juli 1970 <br />5° de aanvraag voor de begeleiding wordt, door de begeleidende school voor buitengewoon onderwijs, aangetekend ingediend bij het Agentschap voor Onderwijsdiensten door middel van het aanvraagformulier Geïntegreerd Onderwijs type 2; dit formulier bevat de identificatiegegevens van respectievelijk de leerling, de begeleidende school en de school voor gewoon onderwijs en wordt aangevuld met een kopie van het attest buitengewoon onderwijs.
 
 ## HOOFDSTUK III AANWENDING VAN DE MIDDELEN
 
@@ -73,3 +73,7 @@ Dit besluit heeft uitwerking met ingang van 1 september 2002.
 ### ART. 16.
 
 De Vlaamse minister bevoegd voor het Onderwijs is belast met de uitvoering van dit besluit.<br /><br />
+
+### BIJLAGE
+
+...
