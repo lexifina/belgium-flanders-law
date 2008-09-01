@@ -8,7 +8,7 @@ Dit besluit is van toepassing op het gewoon basisonderwijs, gefinancierd of gesu
 
 ### ART. 2.
 
-Voor de toepassing van dit besluit wordt verstaan onder:<br />1° ...<br />2° anderstalige nieuwkomer : leerling die ten laatste op 31 december van het lopende schooljaar vijf jaar of ouder is en die op de dag van inschrijving of op 1 september volgend op de inschrijving gelijktijdig aan volgende voorwaarden voldoet :<br />a) een nieuwkomer zijn, dat wil zeggen maximaal één jaar ononderbroken in België verblijven;<br />b) niet het Nederlands als thuistaal of moedertaal hebben;<br />c) onvoldoende de onderwijstaal beheersen om met goed gevolg de lessen te kunnen volgen;<br />d) maximaal negen maanden ingeschreven zijn (vakantiemaanden juli en augustus niet inbegrepen) in een school met het Nederlands als onderwijstaal.<br />Het beantwoorden aan de voorwaarden, vermeld in punt a), en b), wordt bewezen aan de hand van een verklaring op eer van de ouders. Met deze verklaring op eer wordt voor het beantwoorden aan de voorwaarde, vermeld in punt a) echter geen rekening gehouden, wanneer in het inschrijvings- of het leerlingendossier documenten aanwezig zijn die deze verklaring tegenspreken.<br />De verklaringen die aantonen dat anderstalige nieuwkomers beantwoorden aan de voorwaarden worden ten minste vijf jaar bewaard in de school en dienen eventueel ter verificatie worden voorgelegd; <br />3° ...<br />4° cursus: minimum twee tot maximum drie lestijden bestemd voor één van de erkende godsdiensten, niet-confessionele zedenleer of cultuurbeschouwing;<br />5° decreet: het decreet betreffende het basisonderwijs van 25 februari 1997;<br />5°bis : gewezen anderstalige nieuwkomer : leerling die op 1 oktober van het lopende schooljaar in het voorgaande schooljaar een anderstalige nieuwkomer was en onthaalonderwijs heeft genoten; <br />6° ...<br />7° leerling: leerling die voldoet aan de bepalingen van de artikelen 20 en 21 van het decreet of daar op grond van artikel 23 of 24 van afwijkt;<br />8° minister: de Vlaamse minister bevoegd voor Onderwijs;<br />8°bis onthaalonderwijs: onderwijs aan anderstalige nieuwkomers ter bevordering van hun taalvaardigheid Nederlands en ter bevordering van hun sociale integratie. Onthaalonderwijs kan bestaan uit twee periodes :<br />a) een onthaaljaar met aanbieding van een taalbad Nederlands aan de anderstalige nieuwkomer;<br />b) een vervolgjaar in de vorm van ondersteuning, begeleiding en opvolging van de gewezen anderstalige nieuwkomer.<br />9° ...<br />9°bis. Rand- en taalgrensgemeenten: de gemeenten van het Vlaamse Gewest, genoemd in artikel 3, 1°, van de wet van 30 juli 1963 houdende taalregeling in het onderwijs, en de gemeenten van het Vlaamse Gewest, genoemd in artikel 7 van de wetten op het gebruik van de talen in bestuurszaken, gecoördineerd op 18 juli 1966; <br />10° teldag: dag waarop de leerlingen, met toepassing van het decreet moeten worden geteld;<br />11° telperiode: periode gedurende dewelke leerlingen, met toepassing van het decreet moeten worden geteld;<br />12° vrijwillige fusie:<br />- fusie tussen twee of meerdere scholen waarbij in geen van de betrokken scholen wijzigingen aangebracht worden in het onderwijsaanbod, noch op het vlak van vestigingsplaatsen, noch op het vlak van de onderwijsniveaus;<br />- fusie tussen twee of meer scholen waarbij tegelijk in één of meerdere van de scholen in kwestie het onderwijsaanbod op het vlak van het aantal vestigingsplaatsen en/of op het vlak van de onderwijsniveaus wordt gewijzigd zonder dat vestigingsplaatsen afgestaan of overgenomen mogen worden.
+Voor de toepassing van dit besluit wordt verstaan onder:<br />1° ...<br />2° anderstalige nieuwkomer :<br />a) een leerling die uiterlijk op 31 december van het lopende schooljaar vijf jaar of ouder is en die op de dag van inschrijving of op 1 september die volgt op de inschrijving, gelijktijdig aan de volgende voorwaarden voldoet :<br />1) hij is een nieuwkomer, dit wil zeggen dat hij maximaal één jaar ononderbroken in België verblijft;<br />2) hij heeft niet het Nederlands als thuistaal of moedertaal;<br />3) hij beheerst onvoldoende de onderwijstaal om met goed gevolg de lessen te kunnen volgen;<br />4) hij is maximaal negen maanden ingeschreven (vakantiemaanden juli en augustus niet inbegrepen) in een school met het Nederlands als onderwijstaal;<br />b) een leerling die officieel verblijft in een open asielcentrum, zijnde een collectieve opvangstructuur zoals bedoeld in art. 2, 10° van de Wet van 12 januari 2007 betreffende de opvang van asielzoekers en van bepaalde categorieën van vreemdelingen en die uiterlijk op 31 december van het lopende schooljaar vijf jaar of ouder is.<br />Dat de leerling voldoet aan de voorwaarden, vermeld in punt a), 1) en 2), wordt bewezen aan de hand van een verklaring op eer van de ouders. Met die verklaring op eer wordt voor het beantwoorden aan de voorwaarde vermeld in punt 1) echter geen rekening gehouden, als in het inschrijvings- of leerlingendossier documenten aanwezig zijn die deze verklaring tegenspreken. Dat de leerling voldoet aan de voorwaarde vermeld in punt b) wordt bewezen aan de hand van een attest, uitgereikt door het open asielcentrum waar hij officieel verblijft. De verklaringen die aantonen dat anderstalige nieuwkomers voldoen aan de voorwaarden, worden ten minste vijf jaar in de school bewaard en moeten eventueel ter verificatie worden voorgelegd.<br />3° ...<br />4° cursus: minimum twee tot maximum drie lestijden bestemd voor één van de erkende godsdiensten, niet-confessionele zedenleer of cultuurbeschouwing;<br />5° decreet: het decreet betreffende het basisonderwijs van 25 februari 1997;<br />5°bis : gewezen anderstalige nieuwkomer : leerling die op 1 oktober van het lopende schooljaar in het voorgaande schooljaar een anderstalige nieuwkomer was en onthaalonderwijs heeft genoten; <br />6° ...<br />7° leerling: leerling die voldoet aan de bepalingen van de artikelen 20 en 21 van het decreet of daar op grond van artikel 23 of 24 van afwijkt;<br />8° minister: de Vlaamse minister bevoegd voor Onderwijs;<br />8°bis onthaalonderwijs: onderwijs aan anderstalige nieuwkomers ter bevordering van hun taalvaardigheid Nederlands en ter bevordering van hun sociale integratie. Onthaalonderwijs kan voor de twee groepen van anderstalige nieuwkomers, bedoeld in 2°, eerste lid, a) en b), bestaan uit twee periodes :<br />a) een onthaaljaar met aanbieding van een taalbad Nederlands aan de anderstalige nieuwkomer;<br />b) een vervolgjaar in de vorm van ondersteuning, begeleiding en opvolging van de gewezen anderstalige nieuwkomer.<br />9° ...<br />9°bis. ... <br />10° teldag: dag waarop de leerlingen, met toepassing van het decreet moeten worden geteld;<br />11° telperiode: periode gedurende dewelke leerlingen, met toepassing van het decreet moeten worden geteld;
 
 ## HOOFDSTUK II DIRECTIE
 
@@ -28,13 +28,7 @@ Voor de toepassing van dit besluit wordt verstaan onder:<br />1° ...<br />2° a
 
 ### ART. 5.
 
-§ 1. De adjunct-directeur van een school die ontstaan is uit vrijwillige fusie behoudt gedurende de periode van vier schooljaren, de onderwijsopdracht waarmee hij belast was tijdens het schooljaar voorafgaand aan de fusie.<br>
-<br>
-Vanaf het vierde schooljaar na de fusie is de adjunct-directeur niet langer belast met een onderwijsopdracht op voorwaarde dat de school ten minste 180 leerlingen telt.<br>
-<br>
-§ 2. In afwijking van § 1 is de adjunct-directeur van een school ontstaan uit vrijwillige fusie in het tweetalig gebied Brussel-Hoofdstad vanaf het vierde schooljaar na de fusie niet langer belast met een onderwijsopdracht, op voorwaarde dat de school ten minste 100 leerlingen telt.<br>
-<br>
-§ 3. Voor de toepassing van § 1, tweede lid en § 2 wordt rekening gehouden met de leerlingen uit het kleuteronderwijs en uit het lager onderwijs die in aanmerking komen voor de berekening van de lestijden volgens de schalen van het lopende schooljaar.
+§ 1. Met toepassing van artikel 130, § 2, van het decreet behoudt de adjunct-directeur van een school die ontstaan is uit vrijwillige fusie, zoals bedoeld in artikel 129 van het decreet, gedurende het schooljaar van de fusie en de drie daaropvolgende schooljaren, de onderwijsopdracht waarmee hij belast was tijdens het schooljaar voorafgaand aan de fusie.<br /><br />Na die periode van vier schooljaren is de adjunct-directeur niet langer belast met een onderwijsopdracht, op voorwaarde dat de school op de teldag ten minste 180 leerlingen telt. <br /><br />§ 2. In afwijking van § 1 is de adjunct-directeur van een school ontstaan uit vrijwillige fusie in het tweetalig gebied Brussel-Hoofdstad vanaf het vierde schooljaar na de fusie niet langer belast met een onderwijsopdracht, op voorwaarde dat de school ten minste 100 leerlingen telt.<br /><br />§ 3. Voor de toepassing van § 1, tweede lid en § 2 wordt rekening gehouden met de leerlingen uit het kleuteronderwijs en uit het lager onderwijs die in aanmerking komen voor de berekening van de lestijden volgens de schalen van het lopende schooljaar.
 
 ## HOOFDSTUK III ONDERWIJZEND PERSONEEL
 
@@ -48,11 +42,196 @@ Vanaf het vierde schooljaar na de fusie is de adjunct-directeur niet langer bela
 
 ### ART. 6.
 
-Met toepassing van de artikelen 131, 132 en 135 van het decreet worden de lestijden volgens de schalen voor het kleuteronderwijs jaarlijks vastgesteld volgens tabel 1 als bijlage bij dit besluit indien er in toepassing van het decreet op de eerste schooldag van februari moet geteld worden en volgens tabel 2 als bijlage bij dit besluit indien er in toe-passing van het decreet op [de eerste schooldag van oktober  <span class="reference">(verv. B.V.R. 11 januari 2002, art. 2, I: 1 september 2000)</span> ] moet ge-teld worden.<br /><br />Voor het kleuteronderwijs in het tweetalig gebied Brussel-Hoofdstad worden de lestijden volgens de schalen vastgesteld volgens tabel 3 als bijlage bij dit besluit indien er in toepassing van het decreet op de eerste schooldag van februari moet geteld worden en volgens tabel 4 als bijlage bij dit besluit indien er volgens het decreet op [de eerste schooldag van oktober  <span class="reference">(verv. B.V.R. 11 januari 2002, art. 2, I: 1 september 2000)</span> ] moet geteld worden.
+Met toepassing van artikel 132 van het decreet worden de lestijden volgens de schalen voor het kleuteronderwijs jaarlijks vastgesteld volgens tabel 1 als bijlage bij dit besluit indien er in toepassing van het decreet op de eerste schooldag van februari moet geteld worden en volgens tabel 2 als bijlage bij dit besluit indien er in toepassing van het decreet op de eerste schooldag van oktober moet geteld worden.<br /><br />Voor het kleuteronderwijs in het tweetalig gebied Brussel-Hoofdstad worden de lestijden volgens de schalen vastgesteld volgens tabel 3 als bijlage bij dit besluit indien er in toepassing van het decreet op de eerste schooldag van februari moet geteld worden en volgens tabel 4 als bijlage bij dit besluit indien er volgens het decreet op de eerste schooldag van oktober moet geteld worden.
 
 ### ART. 7.
 
-§ 1. Met toepassing van artikel 141, § 2, van het decreet, kunnen de lestijden in het kleuteronderwijs op de instapdata, vermeld in artikel 12, § 2, van het decreet, herberekend worden. <br /><br />Het aantal regelmatige kleuters dat de school op de instapdatum méér telt ten opzichte van de teldag voor de berekening van de lestijden volgens de schalen wordt vermenigvuldigd met 0,8. Het bekomen getal wordt naar beneden afgerond tot op het geheel getal. Van dit getal worden de lestijden bekomen ten gevolge van eerdere herberekeningen tijdens het lopende schooljaar afgetrokken. Dit geeft het aantal lestijden bekomen ten gevolge van de herberekening<br /><br />§ 2. Het aantal lestijden, bekomen ten gevolge van de herberekening, wordt maar gefinancierd of gesubsidieerd tot 30 juni van het lopende schooljaar.
+§ 1. Met toepassing van artikel 141, § 2, van het decreet, kunnen de lestijden in het kleuteronderwijs op de instapdata, vermeld in artikel 12, § 2, van het decreet, herberekend worden.<br>
+<br>
+Het aantal regelmatige kleuters dat de school op de instapdatum méér telt ten opzichte van de teldag voor de berekening van de lestijden volgens de schalen wordt vermenigvuldigd met 1. Van dit getal worden de lestijden bekomen ten gevolge van eerdere herberekeningen tijdens het lopende schooljaar afgetrokken. Dit geeft het aantal lestijden bekomen ten gevolge van de herberekening.<br>
+<br>
+§ 2. Het aantal lestijden, bekomen ten gevolge van de herberekening, wordt maar gefinancierd of gesubsidieerd tot 30 juni van het lopende schooljaar.<br>
+<br>
+§ 3. Uit de lestijden bekomen ten gevolge van de herberekening kunnen betrekkingen worden ingericht in :<br>
+1° het ambt van kleuteronderwijzer;<br>
+2° de schooljaren 2008-2009 en 2009-2010 in het ambt van kinderverzorger mits er een tekort aan kleuteronderwijzers met het vereiste of het voldoende geachte bekwaamheidsbewijs wordt vastgesteld.<br>
+<br>
+§ 4. De herberekende lestijden die op de verschillende instapdata worden bekomen en die overeenkomstig § 3 niet worden aangewend in het ambt van kleuteronderwijzer worden samengeteld. Na het samentellen van deze herberekende lestijden worden ze omgezet volgens onderstaande tabel :<br>
+Herberekende lestijden
+<table border="1" cellpadding="0" cellspacing="0" style="border-collapse:collapse; width:293.4pt">
+	<tbody>
+		<tr>
+			<td style="border-color:black; border-style:solid; border-width:1.0pt; height:14.2pt; width:149.4pt">
+			<p>Herberekende lestijden</p>
+			</td>
+			<td style="border-color:black; border-left:none; border-style:solid; border-width:1.0pt; height:14.2pt; width:144.0pt">
+			<p>Uren Kinderverzorger</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-color:black; border-style:solid; border-top:none; border-width:1.0pt; height:14.2pt; width:149.4pt">
+			<p>1</p>
+			</td>
+			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; height:14.2pt; width:144.0pt">
+			<p>2</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-color:black; border-style:solid; border-top:none; border-width:1.0pt; height:14.2pt; width:149.4pt">
+			<p>2</p>
+			</td>
+			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; height:14.2pt; width:144.0pt">
+			<p>3</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-color:black; border-style:solid; border-top:none; border-width:1.0pt; height:14.2pt; width:149.4pt">
+			<p>3</p>
+			</td>
+			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; height:14.2pt; width:144.0pt">
+			<p>5</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-color:black; border-style:solid; border-top:none; border-width:1.0pt; height:14.2pt; width:149.4pt">
+			<p>4</p>
+			</td>
+			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; height:14.2pt; width:144.0pt">
+			<p>6</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-color:black; border-style:solid; border-top:none; border-width:1.0pt; height:14.2pt; width:149.4pt">
+			<p>5</p>
+			</td>
+			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; height:14.2pt; width:144.0pt">
+			<p>8</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-color:black; border-style:solid; border-top:none; border-width:1.0pt; height:14.2pt; width:149.4pt">
+			<p>6</p>
+			</td>
+			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; height:14.2pt; width:144.0pt">
+			<p>10</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-color:black; border-style:solid; border-top:none; border-width:1.0pt; height:14.2pt; width:149.4pt">
+			<p>7</p>
+			</td>
+			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; height:14.2pt; width:144.0pt">
+			<p>11</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-color:black; border-style:solid; border-top:none; border-width:1.0pt; height:14.2pt; width:149.4pt">
+			<p>8</p>
+			</td>
+			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; height:14.2pt; width:144.0pt">
+			<p>13</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-color:black; border-style:solid; border-top:none; border-width:1.0pt; height:14.2pt; width:149.4pt">
+			<p>9</p>
+			</td>
+			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; height:14.2pt; width:144.0pt">
+			<p>14</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-color:black; border-style:solid; border-top:none; border-width:1.0pt; height:14.2pt; width:149.4pt">
+			<p>10</p>
+			</td>
+			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; height:14.2pt; width:144.0pt">
+			<p>16</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-color:black; border-style:solid; border-top:none; border-width:1.0pt; height:14.2pt; width:149.4pt">
+			<p>11</p>
+			</td>
+			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; height:14.2pt; width:144.0pt">
+			<p>17</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-color:black; border-style:solid; border-top:none; border-width:1.0pt; height:14.2pt; width:149.4pt">
+			<p>12</p>
+			</td>
+			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; height:14.2pt; width:144.0pt">
+			<p>19</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-color:black; border-style:solid; border-top:none; border-width:1.0pt; height:14.2pt; width:149.4pt">
+			<p>13</p>
+			</td>
+			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; height:14.2pt; width:144.0pt">
+			<p>21</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-color:black; border-style:solid; border-top:none; border-width:1.0pt; height:14.2pt; width:149.4pt">
+			<p>14</p>
+			</td>
+			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; height:14.2pt; width:144.0pt">
+			<p>22</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-color:black; border-style:solid; border-top:none; border-width:1.0pt; height:14.2pt; width:149.4pt">
+			<p>15</p>
+			</td>
+			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; height:14.2pt; width:144.0pt">
+			<p>24</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-color:black; border-style:solid; border-top:none; border-width:1.0pt; height:14.2pt; width:149.4pt">
+			<p>16</p>
+			</td>
+			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; height:14.2pt; width:144.0pt">
+			<p>25</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-color:black; border-style:solid; border-top:none; border-width:1.0pt; height:14.2pt; width:149.4pt">
+			<p>17</p>
+			</td>
+			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; height:14.2pt; width:144.0pt">
+			<p>27</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-color:black; border-style:solid; border-top:none; border-width:1.0pt; height:14.2pt; width:149.4pt">
+			<p>18</p>
+			</td>
+			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; height:14.2pt; width:144.0pt">
+			<p>29</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-color:black; border-style:solid; border-top:none; border-width:1.0pt; height:14.2pt; width:149.4pt">
+			<p>19</p>
+			</td>
+			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; height:14.2pt; width:144.0pt">
+			<p>30</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-color:black; border-style:solid; border-top:none; border-width:1.0pt; height:14.2pt; width:149.4pt">
+			<p>20</p>
+			</td>
+			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; height:14.2pt; width:144.0pt">
+			<p>32</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+<p>&nbsp;</p>
 
 ### ART. 8.
 
@@ -64,13 +243,13 @@ Uit de lestijden volgens de schalen verkregen volgens de artikelen 6 en 8 worden
 
 ### ART. 10.
 
-De omrekening van de lestijden volgens de schalen naar de gefinancierde of gesubsidieerde voltijdse of deeltijdse betrekkingen van kleuteronderwijzer of kinderverzorger gebeurt als volgt:<br />1° op de lestijden volgens de schalen wordt het aanwendingspercentage toegepast, het resultaat wordt afgerond naar de hogere eenheid als het eerste cijfer achter de komma groter is dan vier;<br />2° van het resultaat worden de eventuele lestijden onderwijsopdracht afgetrokken die de directeur en de adjunct-directeur presteren in het kleuteronderwijs;<br />3° de overige lestijden worden gedeeld:<br />- door 24 tot op de eenheid voor het ambt van kleuteronderwijzer; het quotiënt is gelijk aan het mogelijk aantal volledige betrekkingen;
+De omrekening van de lestijden volgens de schalen naar de gefinancierde of gesubsidieerde voltijdse of deeltijdse betrekkingen van kleuteronderwijzer gebeurt als volgt:<br />1° op de lestijden volgens de schalen wordt het aanwendingspercentage toegepast, het resultaat wordt afgerond naar de hogere eenheid als het eerste cijfer achter de komma groter is dan vier;<br />2° van het resultaat worden de eventuele lestijden onderwijsopdracht afgetrokken die de directeur en de adjunct-directeur presteren in het kleuteronderwijs;<br />3° de overige lestijden worden gedeeld:<br />- door 24 tot op de eenheid voor het ambt van kleuteronderwijzer; het quotiënt is gelijk aan het mogelijk aantal volledige betrekkingen;
 
 ## ONDERAFDELING 2 [... (opgeh. BVR 12 oktober 2012, art. 8)]
 
 ### ART. 11.
 
-Met toepassing van de artikelen 131, 132 en 135 van het decreet worden de lestijden volgens de schalen van het lager onderwijs jaarlijks vastgesteld volgens de tabel 5 als bijlage bij dit besluit.<br /><br />Voor het lager onderwijs in het tweetalig gebied Brussel-Hoofdstad worden de lestijden volgens de schalen vastgesteld volgens de tabel 6 als bijlage bij dit besluit.
+Met toepassing van artikel 132 van het decreet worden de lestijden volgens de schalen van het lager onderwijs jaarlijks vastgesteld volgens de tabel 5 als bijlage bij dit besluit.<br /><br />Voor het lager onderwijs in het tweetalig gebied Brussel-Hoofdstad worden de lestijden volgens de schalen vastgesteld volgens de tabel 6 als bijlage bij dit besluit.
 
 ### ART. 12.
 
@@ -322,7 +501,7 @@ Uit de aanvullende lestijden kunnen de volgende betrekkingen worden geput:<br />
 
 ### ART. 24.
 
-Op basis van artikel 132 § 3 van het decreet wordt het lestijdenpakket van de school die ontstaan is door een fusie, gelijktijdig met een herstructurering, berekend op basis van het aantal regelmatige leerlingen ingeschreven [op de eerste schooldag van oktober van het lopende schooljaar  <span class="reference">(verv. B.V.R. 11 januari 2002, art. 10, I: 1 september 2000)</span> ] en op basis van de lestijden volgens de tabellen in bijlage.
+...
 
 ### ART. 25.
 
@@ -392,7 +571,7 @@ X - Y = Z.<br>
 
 ### ART. 26.
 
-Met toepassing van artikel 132 § 4, tweede alinea van het decreet kunnen de lestijden volgens de schalen slechts volledig aangewend worden als een gemiddelde van tien onderwijsdagen per kind bereikt wordt gedurende de telperiode bedoeld in artikel 132 § 4, eerste alinea.
+...
 
 ## ONDERAFDELING 3 [... (opgeh. BVR 19 juli 2007, art. 13, I: 1 september 2002)]
 
@@ -428,288 +607,19 @@ De omrekening van het urenpakket naar gefinancierde of gesubsidieerde voltijdse 
 
 ### ART. 27septies.
 
-Met toepassing van artikel 153octies van het decreet wordt aan iedere autonome kleuter-, lagere of basisschool jaarlijks een puntenenveloppe toegekend voor een personeelsomkadering ter ondersteuning van het op school gevoerde zorgbeleid.  <span class="reference">(ing. B.V.R. 5 december 2003, art. 4, I: 1 september 2003)</span> ]
+...
 
 ### ART. 27octies.
 
-Op basis van het aantal regelmatige leerlingen ingeschreven op de teldatum of op basis van het gemiddeld aantal regelmatige leerlingen tijdens de telperiode die van toepassing is voor de berekening van de lestijden volgens de schalen wordt volgende puntenenveloppe per school toegekend:<br /><br />9 punten voor scholen met minder dan 100 leerlingen;<br /><br />17 punten voor scholen met 100 tot 149 leerlingen;<br /><br />24 punten voor scholen met 150 tot 299 leerlingen;<br /><br />42 punten voor scholen met 300 tot 449 leerlingen;<br /><br />61 punten voor scholen met 450 tot 599 leerlingen;<br /><br />85 punten voor scholen met 600 tot 699 leerlingen;<br /><br />102 punten voor scholen met 700 tot 749 leerlingen;<br /><br />109 punten voor scholen vanaf 750 leerlingen.  <span class="reference">(ing. B.V.R. 5 december 2003, art. 4, I: 1 september 2003)</span> ]
+...
 
 ### ART. 27novies.
 
-27novies. Uit de puntenenveloppe verkregen volgens artikel 27octies kan het ambt worden ingericht van  <span class="reference">(ing. B.V.R. 5 december 2003, art. 4, I: 1 september 2003)</span> ] [zorg-coördinator  <span class="reference">(verv. B.V.R. 30 september 2005, art. 1, I: 1 september 2005)</span> ] uit de categorie van het beleids- en ondersteunend personeel.  <span class="reference">(ing. B.V.R. 5 december 2003, art. 4, I: 1 september 2003)</span> ]
+...
 
 ### ART. 27decies.
 
-§ 1. De omrekening van punten naar de gefinancierde of gesubsidieerde voltijdse betrekkingen gebeurt als volgt:<br>
-<br>
-1° indien een betrekking wordt ingericht die de weddenschaal 148 genereert, wordt voor een voltijdse betrekking 85 punten in rekening gebracht.<br>
-<br>
-2° indien een betrekking wordt ingericht die de weddenschaal 501 genereert, wordt voor een voltijdse betrekking 126 punten in rekening gebracht.<br>
-<br>
-§ 2. Voor de aanwending in uren wordt de toegekende puntenenveloppe omgezet volgens de onderstaande tabel:<br>
-<br>
-
-<table border="1" cellpadding="0" cellspacing="0" style="border-collapse:collapse">
-	<tbody>
-		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:153.5pt">
-			<p>Puntenwaarde</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:153.55pt">
-			<p>85</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:153.55pt">
-			<p>126</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.5pt">
-			<p>Aantal uren</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.55pt">
-			<p>Punten</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.55pt">
-			<p>Punten</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.5pt">
-			<p>1</p>
-
-			<p>2</p>
-
-			<p>3</p>
-
-			<p>4</p>
-
-			<p>5</p>
-
-			<p>6</p>
-
-			<p>7</p>
-
-			<p>8</p>
-
-			<p>9</p>
-
-			<p>10</p>
-
-			<p>11</p>
-
-			<p>12</p>
-
-			<p>13</p>
-
-			<p>14</p>
-
-			<p>15</p>
-
-			<p>16</p>
-
-			<p>17</p>
-
-			<p>18</p>
-
-			<p>19</p>
-
-			<p>20</p>
-
-			<p>21</p>
-
-			<p>22</p>
-
-			<p>23</p>
-
-			<p>24</p>
-
-			<p>25</p>
-
-			<p>26</p>
-
-			<p>27</p>
-
-			<p>28</p>
-
-			<p>29</p>
-
-			<p>30</p>
-
-			<p>31</p>
-
-			<p>32</p>
-
-			<p>33</p>
-
-			<p>34</p>
-
-			<p>35</p>
-
-			<p>36</p>
-
-			<p><em>(ing. B.V.R. 5 december 2003, art. 4, I: 1 september 2003)</em><strong>]</strong></p>
-
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.55pt">
-			<p>2</p>
-
-			<p>5</p>
-
-			<p>7</p>
-
-			<p>9</p>
-
-			<p>12</p>
-
-			<p>14</p>
-
-			<p>17</p>
-
-			<p>19</p>
-
-			<p>21</p>
-
-			<p>24</p>
-
-			<p>26</p>
-
-			<p>28</p>
-
-			<p>31</p>
-
-			<p>33</p>
-
-			<p>35</p>
-
-			<p>38</p>
-
-			<p>40</p>
-
-			<p>42</p>
-
-			<p>45</p>
-
-			<p>47</p>
-
-			<p>50</p>
-
-			<p>52</p>
-
-			<p>54</p>
-
-			<p>57</p>
-
-			<p>59</p>
-
-			<p>61</p>
-
-			<p>64</p>
-
-			<p>66</p>
-
-			<p>68</p>
-
-			<p>71</p>
-
-			<p>73</p>
-
-			<p>76</p>
-
-			<p>75</p>
-
-			<p>80</p>
-
-			<p>83</p>
-
-			<p>85</p>
-
-			<p>&nbsp;</p>
-
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.55pt">
-			<p>4</p>
-
-			<p>7</p>
-
-			<p>11</p>
-
-			<p>14</p>
-
-			<p>18</p>
-
-			<p>21</p>
-
-			<p>25</p>
-
-			<p>28</p>
-
-			<p>32</p>
-
-			<p>35</p>
-
-			<p>39</p>
-
-			<p>42</p>
-
-			<p>46</p>
-
-			<p>49</p>
-
-			<p>53</p>
-
-			<p>56</p>
-
-			<p>60</p>
-
-			<p>63</p>
-
-			<p>67</p>
-
-			<p>70</p>
-
-			<p>74</p>
-
-			<p>77</p>
-
-			<p>81</p>
-
-			<p>84</p>
-
-			<p>88</p>
-
-			<p>91</p>
-
-			<p>95</p>
-
-			<p>98</p>
-
-			<p>102</p>
-
-			<p>105</p>
-
-			<p>109</p>
-
-			<p>112</p>
-
-			<p>116</p>
-
-			<p>119</p>
-
-			<p>123</p>
-
-			<p>126</p>
-
-			<p>&nbsp;</p>
-
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-	</tbody>
-</table>
-
-<p>&nbsp;</p>
+...<br />
 
 ## [AFDELING B ADMINISTRATIEVE EN BELEIDSONDERSTEUNING (verv. BVR 22 april 2022, art. 17, I: 1 januari 2022)]
 
@@ -1089,6 +999,18 @@ Onverminderd de toepassing van artikel 174 van het decreet worden de misbruiken 
 Binnen een termijn van drie maanden na de betekening van de in artikel 28 bedoelde aangetekende brief, neemt de minister een beslissing omtrent een sanctie. Die beslissing wordt bij aangetekend schrijven meegedeeld aan het betrokken schoolbestuur.<br /><br />Na de termijn van 3 maanden kan er geen sanctie meer worden opgelegd.
 
 ## HOOFDSTUK V SLOTBEPALINGEN
+
+### ART. 30bis.
+
+Met toepassing van artikel 194quater van het decreet wordt, voor de schooljaren 2008-2009, 2009-2010 en 2010-2011, aan iedere school voor gewoon kleuter-, lager en basisonderwijs die geen deel uitmaakt van een scholengemeenschap jaarlijks de volgende puntenenveloppe voor het voeren van een zorgbeleid toegekend :<br />1° 9 punten voor scholen met minder dan 100 leerlingen;<br />2° 17 punten voor scholen met 100 tot 149 leerlingen;<br />3° 24 punten voor scholen met 150 tot 299 leerlingen;<br />4° 42 punten voor scholen met 300 tot 449 leerlingen;<br />5° 61 punten voor scholen met 450 tot 599 leerlingen;<br />6° 85 punten voor scholen met 600 tot 699 leerlingen;<br />7° 102 punten voor scholen met 700 tot 749 leerlingen;<br />8° 109 punten voor scholen vanaf 750 leerlingen.
+
+### ART. 30ter.
+
+Uit de puntenenveloppe, verkregen volgens artikel 30bis, kunnen betrekkingen in het ambt worden ingericht van zorgcoördinator uit de categorie van het beleids- en ondersteunend personeel.
+
+### ART. 30quater.
+
+§ 1. De omrekening van punten naar de gefinancierde of gesubsidieerde voltijdse betrekkingen gebeurt als volgt : <br />1° als een betrekking wordt ingericht die de weddenschaal 148 genereert, wordt voor een voltijdse betrekking 85 punten in rekening gebracht; <br />2° als een betrekking wordt ingericht die de weddenschaal 501 genereert, wordt voor een voltijdse betrekking 126 punten in rekening gebracht.<br />§ 2. Voor de aanwending in uren wordt de toegekende puntenenveloppe omgezet volgens de onderstaande tabel : <br /> <html xmlns:v=&quote;urn:schemas-microsoft-com:vml&quote;xmlns:o=&quote;urn:schemas-microsoft-com:office:office&quote;xmlns:w=&quote;urn:schemas-microsoft-com:office:word&quote;xmlns=&quote;http://www.w3.org/TR/REC-html40&quote;><head><meta http-equiv=Content-Type content=&quote;text/html; charset=windows-1252&quote;><meta name=ProgId content=Word.Document><meta name=Generator content=&quote;Microsoft Word 11&quote;><meta name=Originator content=&quote;Microsoft Word 11&quote;><link rel=File-List href=&quote;20080905-q08-art5_bestanden/filelist.xml&quote;><title>puntenwaarde</title><!--[if gte mso 9]><xml> <o:DocumentProperties>  <o:Author>decockge</o:Author>  <o:Template>Normal</o:Template>  <o:LastAuthor>decockge</o:LastAuthor>  <o:Revision>1</o:Revision>  <o:TotalTime>4</o:TotalTime>  <o:Created>2008-10-21T09:45:00Z</o:Created>  <o:LastSaved>2008-10-21T09:49:00Z</o:LastSaved>  <o:Pages>1</o:Pages>  <o:Words>61</o:Words>  <o:Characters>341</o:Characters>  <o:Company>MVG</o:Company>  <o:Lines>2</o:Lines>  <o:Paragraphs>1</o:Paragraphs>  <o:CharactersWithSpaces>401</o:CharactersWithSpaces>  <o:Version>11.8132</o:Version> </o:DocumentProperties></xml><![endif]--><!--[if gte mso 9]><xml> <w:WordDocument>  <w:SpellingState>Clean</w:SpellingState>  <w:GrammarState>Clean</w:GrammarState>  <w:HyphenationZone>21</w:HyphenationZone>  <w:PunctuationKerning/>  <w:ValidateAgainstSchemas/>  <w:SaveIfXMLInvalid>false</w:SaveIfXMLInvalid>  <w:IgnoreMixedContent>false</w:IgnoreMixedContent>  <w:AlwaysShowPlaceholderText>false</w:AlwaysShowPlaceholderText>  <w:Compatibility>   <w:BreakWrappedTables/>   <w:SnapToGridInCell/>   <w:WrapTextWithPunct/>   <w:UseAsianBreakRules/>   <w:DontGrowAutofit/>  </w:Compatibility>  <w:BrowserLevel>MicrosoftInternetExplorer4</w:BrowserLevel> </w:WordDocument></xml><![endif]--><!--[if gte mso 9]><xml> <w:LatentStyles DefLockedState=&quote;false&quote; LatentStyleCount=&quote;156&quote;> </w:LatentStyles></xml><![endif]--><style><!-- /* Font Definitions */ @font-face	&lftaco;font-family:&quote;FFCKJ K+ Palatino&quote;;	panose-1:0 0 0 0 0 0 0 0 0 0;	mso-font-alt:&quote;Book Antiqua&quote;;	mso-font-charset:0;	mso-generic-font-family:roman;	mso-font-format:other;	mso-font-pitch:auto;	mso-font-signature:3 0 0 0 1 0;&rgtaco; /* Style Definitions */ p.MsoNormal, li.MsoNormal, div.MsoNormal	&lftaco;mso-style-parent:&quote;&quote;;	margin:0cm;	margin-bottom:.0001pt;	mso-pagination:widow-orphan;	font-size:12.0pt;	font-family:&quote;Times New Roman&quote;;	mso-fareast-font-family:&quote;Times New Roman&quote;;&rgtaco;p.Default, li.Default, div.Default	&lftaco;mso-style-name:Default;	mso-style-parent:&quote;&quote;;	margin:0cm;	margin-bottom:.0001pt;	mso-pagination:widow-orphan;	mso-layout-grid-align:none;	text-autospace:none;	font-size:12.0pt;	font-family:&quote;FFCKJ K+ Palatino&quote;;	mso-fareast-font-family:&quote;Times New Roman&quote;;	mso-bidi-font-family:&quote;FFCKJ K+ Palatino&quote;;	color:black;&rgtaco;@page Section1	&lftaco;size:595.3pt 841.9pt;	margin:70.85pt 70.85pt 70.85pt 70.85pt;	mso-header-margin:35.4pt;	mso-footer-margin:35.4pt;	mso-paper-source:0;&rgtaco;div.Section1	&lftaco;page:Section1;&rgtaco;--></style><!--[if gte mso 10]><style> /* Style Definitions */ table.MsoNormalTable	&lftaco;mso-style-name:Standaardtabel;	mso-tstyle-rowband-size:0;	mso-tstyle-colband-size:0;	mso-style-noshow:yes;	mso-style-parent:&quote;&quote;;	mso-padding-alt:0cm 5.4pt 0cm 5.4pt;	mso-para-margin:0cm;	mso-para-margin-bottom:.0001pt;	mso-pagination:widow-orphan;	font-size:10.0pt;	font-family:&quote;Times New Roman&quote;;	mso-ansi-language:#0400;	mso-fareast-language:#0400;	mso-bidi-language:#0400;&rgtaco;</style><![endif]--><!--[if gte mso 9]><xml> <o:shapedefaults v:ext=&quote;edit&quote; spidmax=&quote;2050&quote;/></xml><![endif]--><!--[if gte mso 9]><xml> <o:shapelayout v:ext=&quote;edit&quote;>  <o:idmap v:ext=&quote;edit&quote; data=&quote;1&quote;/> </o:shapelayout></xml><![endif]--></head><body lang=NL style='tab-interval:35.4pt'><div class=Section1><table class=MsoNormalTable border=1 cellspacing=0 cellpadding=0 width=454 style='width:12.0cm;border-collapse:collapse;border:none;mso-border-alt:solid windowtext .5pt; mso-padding-alt:0cm 5.4pt 0cm 5.4pt;mso-border-insideh:.5pt solid windowtext; mso-border-insidev:.5pt solid windowtext'> <tr style='mso-yfti-irow:0;mso-yfti-firstrow:yes;height:11.35pt'>  <td width=151 style='width:4.0cm;border:solid windowtext 1.0pt;mso-border-alt:  solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:11.35pt'>  <p class=Default align=center style='text-align:center'><span  style='font-size:10.0pt;mso-bidi-font-size:8.0pt;font-family:&quote;Times New Roman&quote;'>puntenwaarde<o:p></o:p></span></p>  </td>  <td width=151 style='width:4.0cm;border:solid windowtext 1.0pt;border-left:  none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;  padding:0cm 5.4pt 0cm 5.4pt;height:11.35pt'>  <p class=Default align=center style='text-align:center'><span  style='font-size:10.0pt;mso-bidi-font-size:8.0pt;font-family:&quote;Times New Roman&quote;'>85<o:p></o:p></span></p>  </td>  <td width=151 style='width:4.0cm;border:solid windowtext 1.0pt;border-left:  none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;  padding:0cm 5.4pt 0cm 5.4pt;height:11.35pt'>  <p class=Default align=center style='text-align:center'><span  style='font-size:10.0pt;mso-bidi-font-size:8.0pt;font-family:&quote;Times New Roman&quote;'>126<o:p></o:p></span></p>  </td> </tr> <tr style='mso-yfti-irow:1;height:11.35pt'>  <td width=151 style='width:4.0cm;border:solid windowtext 1.0pt;border-top:  none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;  padding:0cm 5.4pt 0cm 5.4pt;height:11.35pt'>  <p class=Default align=center style='text-align:center'><span  style='font-size:10.0pt;mso-bidi-font-size:8.0pt;font-family:&quote;Times New Roman&quote;'>aantal  uren<o:p></o:p></span></p>  </td>  <td width=151 style='width:4.0cm;border-top:none;border-left:none;border-bottom:  solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:  solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:  solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:11.35pt'>  <p class=Default align=center style='text-align:center'><span  style='font-size:10.0pt;mso-bidi-font-size:8.0pt;font-family:&quote;Times New Roman&quote;'>punten<o:p></o:p></span></p>  </td>  <td width=151 style='width:4.0cm;border-top:none;border-left:none;border-bottom:  solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:  solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:  solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:11.35pt'>  <p class=Default align=center style='text-align:center'><span  style='font-size:10.0pt;mso-bidi-font-size:8.0pt;font-family:&quote;Times New Roman&quote;'>punten<o:p></o:p></span></p>  </td> </tr> <tr style='mso-yfti-irow:2;height:11.35pt'>  <td width=151 style='width:4.0cm;border:solid windowtext 1.0pt;border-top:  none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;  padding:0cm 5.4pt 0cm 5.4pt;height:11.35pt'>  <p class=Default align=center style='text-align:center'><span  style='font-size:10.0pt;mso-bidi-font-size:8.0pt;font-family:&quote;Times New Roman&quote;'>1<o:p></o:p></span></p>  </td>  <td width=151 style='width:4.0cm;border-top:none;border-left:none;border-bottom:  solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:  solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:  solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:11.35pt'>  <p class=Default align=center style='text-align:center'><span  style='font-size:10.0pt;mso-bidi-font-size:8.0pt;font-family:&quote;Times New Roman&quote;'>2<o:p></o:p></span></p>  </td>  <td width=151 style='width:4.0cm;border-top:none;border-left:none;border-bottom:  solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:  solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:  solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:11.35pt'>  <p class=Default align=center style='text-align:center'><span  style='font-size:10.0pt;mso-bidi-font-size:8.0pt;font-family:&quote;Times New Roman&quote;'>4<o:p></o:p></span></p>  </td> </tr> <tr style='mso-yfti-irow:3;height:11.35pt'>  <td width=151 style='width:4.0cm;border:solid windowtext 1.0pt;border-top:  none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;  padding:0cm 5.4pt 0cm 5.4pt;height:11.35pt'>  <p class=Default align=center style='text-align:center'><span  style='font-size:10.0pt;mso-bidi-font-size:8.0pt;font-family:&quote;Times New Roman&quote;'>2<o:p></o:p></span></p>  </td>  <td width=151 style='width:4.0cm;border-top:none;border-left:none;border-bottom:  solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:  solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:  solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:11.35pt'>  <p class=Default align=center style='text-align:center'><span  style='font-size:10.0pt;mso-bidi-font-size:8.0pt;font-family:&quote;Times New Roman&quote;'>5<o:p></o:p></span></p>  </td>  <td width=151 style='width:4.0cm;border-top:none;border-left:none;border-bottom:  solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:  solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:  solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:11.35pt'>  <p class=Default align=center style='text-align:center'><span  style='font-size:10.0pt;mso-bidi-font-size:8.0pt;font-family:&quote;Times New Roman&quote;'>7<o:p></o:p></span></p>  </td> </tr> <tr style='mso-yfti-irow:4;height:11.35pt'>  <td width=151 style='width:4.0cm;border:solid windowtext 1.0pt;border-top:  none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;  padding:0cm 5.4pt 0cm 5.4pt;height:11.35pt'>  <p class=Default align=center style='text-align:center'><span  style='font-size:10.0pt;mso-bidi-font-size:8.0pt;font-family:&quote;Times New Roman&quote;'>3<o:p></o:p></span></p>  </td>  <td width=151 style='width:4.0cm;border-top:none;border-left:none;border-bottom:  solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:  solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:  solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:11.35pt'>  <p class=Default align=center style='text-align:center'><span  style='font-size:10.0pt;mso-bidi-font-size:8.0pt;font-family:&quote;Times New Roman&quote;'>7<o:p></o:p></span></p>  </td>  <td width=151 style='width:4.0cm;border-top:none;border-left:none;border-bottom:  solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:  solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:  solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:11.35pt'>  <p class=Default align=center style='text-align:center'><span  style='font-size:10.0pt;mso-bidi-font-size:8.0pt;font-family:&quote;Times New Roman&quote;'>11<o:p></o:p></span></p>  </td> </tr> <tr style='mso-yfti-irow:5;height:11.35pt'>  <td width=151 style='width:4.0cm;border:solid windowtext 1.0pt;border-top:  none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;  padding:0cm 5.4pt 0cm 5.4pt;height:11.35pt'>  <p class=Default align=center style='text-align:center'><span  style='font-size:10.0pt;mso-bidi-font-size:8.0pt;font-family:&quote;Times New Roman&quote;'>4<o:p></o:p></span></p>  </td>  <td width=151 style='width:4.0cm;border-top:none;border-left:none;border-bottom:  solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:  solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:  solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:11.35pt'>  <p class=Default align=center style='text-align:center'><span  style='font-size:10.0pt;mso-bidi-font-size:8.0pt;font-family:&quote;Times New Roman&quote;'>9<o:p></o:p></span></p>  </td>  <td width=151 style='width:4.0cm;border-top:none;border-left:none;border-bottom:  solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:  solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:  solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:11.35pt'>  <p class=Default align=center style='text-align:center'><span  style='font-size:10.0pt;mso-bidi-font-size:8.0pt;font-family:&quote;Times New Roman&quote;'>14<o:p></o:p></span></p>  </td> </tr> <tr style='mso-yfti-irow:6;height:11.35pt'>  <td width=151 style='width:4.0cm;border:solid windowtext 1.0pt;border-top:  none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;  padding:0cm 5.4pt 0cm 5.4pt;height:11.35pt'>  <p class=Default align=center style='text-align:center'><span  style='font-size:10.0pt;mso-bidi-font-size:8.0pt;font-family:&quote;Times New Roman&quote;'>5<o:p></o:p></span></p>  </td>  <td width=151 style='width:4.0cm;border-top:none;border-left:none;border-bottom:  solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:  solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:  solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:11.35pt'>  <p class=Default align=center style='text-align:center'><span  style='font-size:10.0pt;mso-bidi-font-size:8.0pt;font-family:&quote;Times New Roman&quote;'>12<o:p></o:p></span></p>  </td>  <td width=151 style='width:4.0cm;border-top:none;border-left:none;border-bottom:  solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:  solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:  solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:11.35pt'>  <p class=Default align=center style='text-align:center'><span  style='font-size:10.0pt;mso-bidi-font-size:8.0pt;font-family:&quote;Times New Roman&quote;'>18<o:p></o:p></span></p>  </td> </tr> <tr style='mso-yfti-irow:7;height:11.35pt'>  <td width=151 style='width:4.0cm;border:solid windowtext 1.0pt;border-top:  none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;  padding:0cm 5.4pt 0cm 5.4pt;height:11.35pt'>  <p class=Default align=center style='text-align:center'><span  style='font-size:10.0pt;mso-bidi-font-size:8.0pt;font-family:&quote;Times New Roman&quote;'>6<o:p></o:p></span></p>  </td>  <td width=151 style='width:4.0cm;border-top:none;border-left:none;border-bottom:  solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:  solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:  solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:11.35pt'>  <p class=Default align=center style='text-align:center'><span  style='font-size:10.0pt;mso-bidi-font-size:8.0pt;font-family:&quote;Times New Roman&quote;'>14<o:p></o:p></span></p>  </td>  <td width=151 style='width:4.0cm;border-top:none;border-left:none;border-bottom:  solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:  solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:  solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:11.35pt'>  <p class=Default align=center style='text-align:center'><span  style='font-size:10.0pt;mso-bidi-font-size:8.0pt;font-family:&quote;Times New Roman&quote;'>21<o:p></o:p></span></p>  </td> </tr> <tr style='mso-yfti-irow:8;height:11.35pt'>  <td width=151 style='width:4.0cm;border:solid windowtext 1.0pt;border-top:  none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;  padding:0cm 5.4pt 0cm 5.4pt;height:11.35pt'>  <p class=Default align=center style='text-align:center'><span  style='font-size:10.0pt;mso-bidi-font-size:8.0pt;font-family:&quote;Times New Roman&quote;'>7<o:p></o:p></span></p>  </td>  <td width=151 style='width:4.0cm;border-top:none;border-left:none;border-bottom:  solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:  solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:  solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:11.35pt'>  <p class=Default align=center style='text-align:center'><span  style='font-size:10.0pt;mso-bidi-font-size:8.0pt;font-family:&quote;Times New Roman&quote;'>17<o:p></o:p></span></p>  </td>  <td width=151 style='width:4.0cm;border-top:none;border-left:none;border-bottom:  solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:  solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:  solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:11.35pt'>  <p class=Default align=center style='text-align:center'><span  style='font-size:10.0pt;mso-bidi-font-size:8.0pt;font-family:&quote;Times New Roman&quote;'>25<o:p></o:p></span></p>  </td> </tr> <tr style='mso-yfti-irow:9;height:11.35pt'>  <td width=151 style='width:4.0cm;border:solid windowtext 1.0pt;border-top:  none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;  padding:0cm 5.4pt 0cm 5.4pt;height:11.35pt'>  <p class=Default align=center style='text-align:center'><span  style='font-size:10.0pt;mso-bidi-font-size:8.0pt;font-family:&quote;Times New Roman&quote;'>8<o:p></o:p></span></p>  </td>  <td width=151 style='width:4.0cm;border-top:none;border-left:none;border-bottom:  solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:  solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:  solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:11.35pt'>  <p class=Default align=center style='text-align:center'><span  style='font-size:10.0pt;mso-bidi-font-size:8.0pt;font-family:&quote;Times New Roman&quote;'>19<o:p></o:p></span></p>  </td>  <td width=151 style='width:4.0cm;border-top:none;border-left:none;border-bottom:  solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:  solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:  solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:11.35pt'>  <p class=Default align=center style='text-align:center'><span  style='font-size:10.0pt;mso-bidi-font-size:8.0pt;font-family:&quote;Times New Roman&quote;'>28<o:p></o:p></span></p>  </td> </tr> <tr style='mso-yfti-irow:10;height:11.35pt'>  <td width=151 style='width:4.0cm;border:solid windowtext 1.0pt;border-top:  none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;  padding:0cm 5.4pt 0cm 5.4pt;height:11.35pt'>  <p class=Default align=center style='text-align:center'><span  style='font-size:10.0pt;mso-bidi-font-size:8.0pt;font-family:&quote;Times New Roman&quote;'>9<o:p></o:p></span></p>  </td>  <td width=151 style='width:4.0cm;border-top:none;border-left:none;border-bottom:  solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:  solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:  solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:11.35pt'>  <p class=Default align=center style='text-align:center'><span  style='font-size:10.0pt;mso-bidi-font-size:8.0pt;font-family:&quote;Times New Roman&quote;'>21<o:p></o:p></span></p>  </td>  <td width=151 style='width:4.0cm;border-top:none;border-left:none;border-bottom:  solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:  solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:  solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:11.35pt'>  <p class=Default align=center style='text-align:center'><span  style='font-size:10.0pt;mso-bidi-font-size:8.0pt;font-family:&quote;Times New Roman&quote;'>32<o:p></o:p></span></p>  </td> </tr> <tr style='mso-yfti-irow:11;height:11.35pt'>  <td width=151 style='width:4.0cm;border:solid windowtext 1.0pt;border-top:  none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;  padding:0cm 5.4pt 0cm 5.4pt;height:11.35pt'>  <p class=Default align=center style='text-align:center'><span  style='font-size:10.0pt;mso-bidi-font-size:8.0pt;font-family:&quote;Times New Roman&quote;'>10<o:p></o:p></span></p>  </td>  <td width=151 style='width:4.0cm;border-top:none;border-left:none;border-bottom:  solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:  solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:  solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:11.35pt'>  <p class=Default align=center style='text-align:center'><span  style='font-size:10.0pt;mso-bidi-font-size:8.0pt;font-family:&quote;Times New Roman&quote;'>24<o:p></o:p></span></p>  </td>  <td width=151 style='width:4.0cm;border-top:none;border-left:none;border-bottom:  solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:  solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:  solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:11.35pt'>  <p class=Default align=center style='text-align:center'><span  style='font-size:10.0pt;mso-bidi-font-size:8.0pt;font-family:&quote;Times New Roman&quote;'>35<o:p></o:p></span></p>  </td> </tr> <tr style='mso-yfti-irow:12;height:11.35pt'>  <td width=151 style='width:4.0cm;border:solid windowtext 1.0pt;border-top:  none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;  padding:0cm 5.4pt 0cm 5.4pt;height:11.35pt'>  <p class=Default align=center style='text-align:center'><span  style='font-size:10.0pt;mso-bidi-font-size:8.0pt;font-family:&quote;Times New Roman&quote;'>11<o:p></o:p></span></p>  </td>  <td width=151 style='width:4.0cm;border-top:none;border-left:none;border-bottom:  solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:  solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:  solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:11.35pt'>  <p class=Default align=center style='text-align:center'><span  style='font-size:10.0pt;mso-bidi-font-size:8.0pt;font-family:&quote;Times New Roman&quote;'>26<o:p></o:p></span></p>  </td>  <td width=151 style='width:4.0cm;border-top:none;border-left:none;border-bottom:  solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:  solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:  solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:11.35pt'>  <p class=Default align=center style='text-align:center'><span  style='font-size:10.0pt;mso-bidi-font-size:8.0pt;font-family:&quote;Times New Roman&quote;'>39<o:p></o:p></span></p>  </td> </tr> <tr style='mso-yfti-irow:13;height:11.35pt'>  <td width=151 style='width:4.0cm;border:solid windowtext 1.0pt;border-top:  none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;  padding:0cm 5.4pt 0cm 5.4pt;height:11.35pt'>  <p class=Default align=center style='text-align:center'><span  style='font-size:10.0pt;mso-bidi-font-size:8.0pt;font-family:&quote;Times New Roman&quote;'>12<o:p></o:p></span></p>  </td>  <td width=151 style='width:4.0cm;border-top:none;border-left:none;border-bottom:  solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:  solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:  solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:11.35pt'>  <p class=Default align=center style='text-align:center'><span  style='font-size:10.0pt;mso-bidi-font-size:8.0pt;font-family:&quote;Times New Roman&quote;'>28<o:p></o:p></span></p>  </td>  <td width=151 style='width:4.0cm;border-top:none;border-left:none;border-bottom:  solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:  solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:  solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:11.35pt'>  <p class=Default align=center style='text-align:center'><span  style='font-size:10.0pt;mso-bidi-font-size:8.0pt;font-family:&quote;Times New Roman&quote;'>42<o:p></o:p></span></p>  </td> </tr> <tr style='mso-yfti-irow:14;height:11.35pt'>  <td width=151 style='width:4.0cm;border:solid windowtext 1.0pt;border-top:  none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;  padding:0cm 5.4pt 0cm 5.4pt;height:11.35pt'>  <p class=Default align=center style='text-align:center'><span  style='font-size:10.0pt;mso-bidi-font-size:8.0pt;font-family:&quote;Times New Roman&quote;'>13<o:p></o:p></span></p>  </td>  <td width=151 style='width:4.0cm;border-top:none;border-left:none;border-bottom:  solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:  solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:  solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:11.35pt'>  <p class=Default align=center style='text-align:center'><span  style='font-size:10.0pt;mso-bidi-font-size:8.0pt;font-family:&quote;Times New Roman&quote;'>31<o:p></o:p></span></p>  </td>  <td width=151 style='width:4.0cm;border-top:none;border-left:none;border-bottom:  solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:  solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:  solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:11.35pt'>  <p class=Default align=center style='text-align:center'><span  style='font-size:10.0pt;mso-bidi-font-size:8.0pt;font-family:&quote;Times New Roman&quote;'>46<o:p></o:p></span></p>  </td> </tr> <tr style='mso-yfti-irow:15;height:11.35pt'>  <td width=151 style='width:4.0cm;border:solid windowtext 1.0pt;border-top:  none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;  padding:0cm 5.4pt 0cm 5.4pt;height:11.35pt'>  <p class=Default align=center style='text-align:center'><span  style='font-size:10.0pt;mso-bidi-font-size:8.0pt;font-family:&quote;Times New Roman&quote;'>14<o:p></o:p></span></p>  </td>  <td width=151 style='width:4.0cm;border-top:none;border-left:none;border-bottom:  solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:  solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:  solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:11.35pt'>  <p class=Default align=center style='text-align:center'><span  style='font-size:10.0pt;mso-bidi-font-size:8.0pt;font-family:&quote;Times New Roman&quote;'>33<o:p></o:p></span></p>  </td>  <td width=151 style='width:4.0cm;border-top:none;border-left:none;border-bottom:  solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:  solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:  solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:11.35pt'>  <p class=Default align=center style='text-align:center'><span  style='font-size:10.0pt;mso-bidi-font-size:8.0pt;font-family:&quote;Times New Roman&quote;'>49<o:p></o:p></span></p>  </td> </tr> <tr style='mso-yfti-irow:16;height:11.35pt'>  <td width=151 style='width:4.0cm;border:solid windowtext 1.0pt;border-top:  none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;  padding:0cm 5.4pt 0cm 5.4pt;height:11.35pt'>  <p class=Default align=center style='text-align:center'><span  style='font-size:10.0pt;mso-bidi-font-size:8.0pt;font-family:&quote;Times New Roman&quote;'>15<o:p></o:p></span></p>  </td>  <td width=151 style='width:4.0cm;border-top:none;border-left:none;border-bottom:  solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:  solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:  solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:11.35pt'>  <p class=Default align=center style='text-align:center'><span  style='font-size:10.0pt;mso-bidi-font-size:8.0pt;font-family:&quote;Times New Roman&quote;'>35<o:p></o:p></span></p>  </td>  <td width=151 style='width:4.0cm;border-top:none;border-left:none;border-bottom:  solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:  solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:  solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:11.35pt'>  <p class=Default align=center style='text-align:center'><span  style='font-size:10.0pt;mso-bidi-font-size:8.0pt;font-family:&quote;Times New Roman&quote;'>53<o:p></o:p></span></p>  </td> </tr> <tr style='mso-yfti-irow:17;height:11.35pt'>  <td width=151 style='width:4.0cm;border:solid windowtext 1.0pt;border-top:  none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;  padding:0cm 5.4pt 0cm 5.4pt;height:11.35pt'>  <p class=Default align=center style='text-align:center'><span  style='font-size:10.0pt;mso-bidi-font-size:8.0pt;font-family:&quote;Times New Roman&quote;'>16<o:p></o:p></span></p>  </td>  <td width=151 style='width:4.0cm;border-top:none;border-left:none;border-bottom:  solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:  solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:  solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:11.35pt'>  <p class=Default align=center style='text-align:center'><span  style='font-size:10.0pt;mso-bidi-font-size:8.0pt;font-family:&quote;Times New Roman&quote;'>38<o:p></o:p></span></p>  </td>  <td width=151 style='width:4.0cm;border-top:none;border-left:none;border-bottom:  solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:  solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:  solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:11.35pt'>  <p class=Default align=center style='text-align:center'><span  style='font-size:10.0pt;mso-bidi-font-size:8.0pt;font-family:&quote;Times New Roman&quote;'>56<o:p></o:p></span></p>  </td> </tr> <tr style='mso-yfti-irow:18;height:11.35pt'>  <td width=151 style='width:4.0cm;border:solid windowtext 1.0pt;border-top:  none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;  padding:0cm 5.4pt 0cm 5.4pt;height:11.35pt'>  <p class=Default align=center style='text-align:center'><span  style='font-size:10.0pt;mso-bidi-font-size:8.0pt;font-family:&quote;Times New Roman&quote;'>17<o:p></o:p></span></p>  </td>  <td width=151 style='width:4.0cm;border-top:none;border-left:none;border-bottom:  solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:  solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:  solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:11.35pt'>  <p class=Default align=center style='text-align:center'><span  style='font-size:10.0pt;mso-bidi-font-size:8.0pt;font-family:&quote;Times New Roman&quote;'>40<o:p></o:p></span></p>  </td>  <td width=151 style='width:4.0cm;border-top:none;border-left:none;border-bottom:  solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:  solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:  solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:11.35pt'>  <p class=Default align=center style='text-align:center'><span  style='font-size:10.0pt;mso-bidi-font-size:8.0pt;font-family:&quote;Times New Roman&quote;'>60<o:p></o:p></span></p>  </td> </tr> <tr style='mso-yfti-irow:19;height:11.35pt'>  <td width=151 style='width:4.0cm;border:solid windowtext 1.0pt;border-top:  none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;  padding:0cm 5.4pt 0cm 5.4pt;height:11.35pt'>  <p class=Default align=center style='text-align:center'><span  style='font-size:10.0pt;mso-bidi-font-size:8.0pt;font-family:&quote;Times New Roman&quote;'>18<o:p></o:p></span></p>  </td>  <td width=151 style='width:4.0cm;border-top:none;border-left:none;border-bottom:  solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:  solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:  solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:11.35pt'>  <p class=Default align=center style='text-align:center'><span  style='font-size:10.0pt;mso-bidi-font-size:8.0pt;font-family:&quote;Times New Roman&quote;'>42<o:p></o:p></span></p>  </td>  <td width=151 style='width:4.0cm;border-top:none;border-left:none;border-bottom:  solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:  solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:  solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:11.35pt'>  <p class=Default align=center style='text-align:center'><span  style='font-size:10.0pt;mso-bidi-font-size:8.0pt;font-family:&quote;Times New Roman&quote;'>63<o:p></o:p></span></p>  </td> </tr> <tr style='mso-yfti-irow:20;height:11.35pt'>  <td width=151 style='width:4.0cm;border:solid windowtext 1.0pt;border-top:  none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;  padding:0cm 5.4pt 0cm 5.4pt;height:11.35pt'>  <p class=Default align=center style='text-align:center'><span  style='font-size:10.0pt;mso-bidi-font-size:8.0pt;font-family:&quote;Times New Roman&quote;'>19<o:p></o:p></span></p>  </td>  <td width=151 style='width:4.0cm;border-top:none;border-left:none;border-bottom:  solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:  solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:  solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:11.35pt'>  <p class=Default align=center style='text-align:center'><span  style='font-size:10.0pt;mso-bidi-font-size:8.0pt;font-family:&quote;Times New Roman&quote;'>45<o:p></o:p></span></p>  </td>  <td width=151 style='width:4.0cm;border-top:none;border-left:none;border-bottom:  solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:  solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:  solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:11.35pt'>  <p class=Default align=center style='text-align:center'><span  style='font-size:10.0pt;mso-bidi-font-size:8.0pt;font-family:&quote;Times New Roman&quote;'>67<o:p></o:p></span></p>  </td> </tr> <tr style='mso-yfti-irow:21;height:11.35pt'>  <td width=151 style='width:4.0cm;border:solid windowtext 1.0pt;border-top:  none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;  padding:0cm 5.4pt 0cm 5.4pt;height:11.35pt'>  <p class=Default align=center style='text-align:center'><span  style='font-size:10.0pt;mso-bidi-font-size:8.0pt;font-family:&quote;Times New Roman&quote;'>20<o:p></o:p></span></p>  </td>  <td width=151 style='width:4.0cm;border-top:none;border-left:none;border-bottom:  solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:  solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:  solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:11.35pt'>  <p class=Default align=center style='text-align:center'><span  style='font-size:10.0pt;mso-bidi-font-size:8.0pt;font-family:&quote;Times New Roman&quote;'>47<o:p></o:p></span></p>  </td>  <td width=151 style='width:4.0cm;border-top:none;border-left:none;border-bottom:  solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:  solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:  solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:11.35pt'>  <p class=Default align=center style='text-align:center'><span  style='font-size:10.0pt;mso-bidi-font-size:8.0pt;font-family:&quote;Times New Roman&quote;'>70<o:p></o:p></span></p>  </td> </tr> <tr style='mso-yfti-irow:22;height:11.35pt'>  <td width=151 style='width:4.0cm;border:solid windowtext 1.0pt;border-top:  none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;  padding:0cm 5.4pt 0cm 5.4pt;height:11.35pt'>  <p class=Default align=center style='text-align:center'><span  style='font-size:10.0pt;mso-bidi-font-size:8.0pt;font-family:&quote;Times New Roman&quote;'>21<o:p></o:p></span></p>  </td>  <td width=151 style='width:4.0cm;border-top:none;border-left:none;border-bottom:  solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:  solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:  solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:11.35pt'>  <p class=Default align=center style='text-align:center'><span  style='font-size:10.0pt;mso-bidi-font-size:8.0pt;font-family:&quote;Times New Roman&quote;'>50<o:p></o:p></span></p>  </td>  <td width=151 style='width:4.0cm;border-top:none;border-left:none;border-bottom:  solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:  solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:  solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:11.35pt'>  <p class=Default align=center style='text-align:center'><span  style='font-size:10.0pt;mso-bidi-font-size:8.0pt;font-family:&quote;Times New Roman&quote;'>74<o:p></o:p></span></p>  </td> </tr> <tr style='mso-yfti-irow:23;height:11.35pt'>  <td width=151 style='width:4.0cm;border:solid windowtext 1.0pt;border-top:  none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;  padding:0cm 5.4pt 0cm 5.4pt;height:11.35pt'>  <p class=Default align=center style='text-align:center'><span  style='font-size:10.0pt;mso-bidi-font-size:8.0pt;font-family:&quote;Times New Roman&quote;'>22<o:p></o:p></span></p>  </td>  <td width=151 style='width:4.0cm;border-top:none;border-left:none;border-bottom:  solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:  solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:  solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:11.35pt'>  <p class=Default align=center style='text-align:center'><span  style='font-size:10.0pt;mso-bidi-font-size:8.0pt;font-family:&quote;Times New Roman&quote;'>52<o:p></o:p></span></p>  </td>  <td width=151 style='width:4.0cm;border-top:none;border-left:none;border-bottom:  solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:  solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:  solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:11.35pt'>  <p class=Default align=center style='text-align:center'><span  style='font-size:10.0pt;mso-bidi-font-size:8.0pt;font-family:&quote;Times New Roman&quote;'>77<o:p></o:p></span></p>  </td> </tr> <tr style='mso-yfti-irow:24;height:11.35pt'>  <td width=151 style='width:4.0cm;border:solid windowtext 1.0pt;border-top:  none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;  padding:0cm 5.4pt 0cm 5.4pt;height:11.35pt'>  <p class=Default align=center style='text-align:center'><span  style='font-size:10.0pt;mso-bidi-font-size:8.0pt;font-family:&quote;Times New Roman&quote;'>23<o:p></o:p></span></p>  </td>  <td width=151 style='width:4.0cm;border-top:none;border-left:none;border-bottom:  solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:  solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:  solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:11.35pt'>  <p class=Default align=center style='text-align:center'><span  style='font-size:10.0pt;mso-bidi-font-size:8.0pt;font-family:&quote;Times New Roman&quote;'>54<o:p></o:p></span></p>  </td>  <td width=151 style='width:4.0cm;border-top:none;border-left:none;border-bottom:  solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:  solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:  solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:11.35pt'>  <p class=Default align=center style='text-align:center'><span  style='font-size:10.0pt;mso-bidi-font-size:8.0pt;font-family:&quote;Times New Roman&quote;'>81<o:p></o:p></span></p>  </td> </tr> <tr style='mso-yfti-irow:25;height:11.35pt'>  <td width=151 style='width:4.0cm;border:solid windowtext 1.0pt;border-top:  none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;  padding:0cm 5.4pt 0cm 5.4pt;height:11.35pt'>  <p class=Default align=center style='text-align:center'><span  style='font-size:10.0pt;mso-bidi-font-size:8.0pt;font-family:&quote;Times New Roman&quote;'>24<o:p></o:p></span></p>  </td>  <td width=151 style='width:4.0cm;border-top:none;border-left:none;border-bottom:  solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:  solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:  solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:11.35pt'>  <p class=Default align=center style='text-align:center'><span  style='font-size:10.0pt;mso-bidi-font-size:8.0pt;font-family:&quote;Times New Roman&quote;'>57<o:p></o:p></span></p>  </td>  <td width=151 style='width:4.0cm;border-top:none;border-left:none;border-bottom:  solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:  solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:  solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:11.35pt'>  <p class=Default align=center style='text-align:center'><span  style='font-size:10.0pt;mso-bidi-font-size:8.0pt;font-family:&quote;Times New Roman&quote;'>84<o:p></o:p></span></p>  </td> </tr> <tr style='mso-yfti-irow:26;height:11.35pt'>  <td width=151 style='width:4.0cm;border:solid windowtext 1.0pt;border-top:  none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;  padding:0cm 5.4pt 0cm 5.4pt;height:11.35pt'>  <p class=Default align=center style='text-align:center'><span  style='font-size:10.0pt;mso-bidi-font-size:8.0pt;font-family:&quote;Times New Roman&quote;'>25<o:p></o:p></span></p>  </td>  <td width=151 style='width:4.0cm;border-top:none;border-left:none;border-bottom:  solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:  solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:  solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:11.35pt'>  <p class=Default align=center style='text-align:center'><span  style='font-size:10.0pt;mso-bidi-font-size:8.0pt;font-family:&quote;Times New Roman&quote;'>59<o:p></o:p></span></p>  </td>  <td width=151 style='width:4.0cm;border-top:none;border-left:none;border-bottom:  solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:  solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:  solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:11.35pt'>  <p class=Default align=center style='text-align:center'><span  style='font-size:10.0pt;mso-bidi-font-size:8.0pt;font-family:&quote;Times New Roman&quote;'>88<o:p></o:p></span></p>  </td> </tr> <tr style='mso-yfti-irow:27;height:11.35pt'>  <td width=151 style='width:4.0cm;border:solid windowtext 1.0pt;border-top:  none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;  padding:0cm 5.4pt 0cm 5.4pt;height:11.35pt'>  <p class=Default align=center style='text-align:center'><span  style='font-size:10.0pt;mso-bidi-font-size:8.0pt;font-family:&quote;Times New Roman&quote;'>26<o:p></o:p></span></p>  </td>  <td width=151 style='width:4.0cm;border-top:none;border-left:none;border-bottom:  solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:  solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:  solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:11.35pt'>  <p class=Default align=center style='text-align:center'><span  style='font-size:10.0pt;mso-bidi-font-size:8.0pt;font-family:&quote;Times New Roman&quote;'>61<o:p></o:p></span></p>  </td>  <td width=151 style='width:4.0cm;border-top:none;border-left:none;border-bottom:  solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:  solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:  solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:11.35pt'>  <p class=Default align=center style='text-align:center'><span  style='font-size:10.0pt;mso-bidi-font-size:8.0pt;font-family:&quote;Times New Roman&quote;'>91<o:p></o:p></span></p>  </td> </tr> <tr style='mso-yfti-irow:28;height:11.35pt'>  <td width=151 style='width:4.0cm;border:solid windowtext 1.0pt;border-top:  none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;  padding:0cm 5.4pt 0cm 5.4pt;height:11.35pt'>  <p class=Default align=center style='text-align:center'><span  style='font-size:10.0pt;mso-bidi-font-size:8.0pt;font-family:&quote;Times New Roman&quote;'>27<o:p></o:p></span></p>  </td>  <td width=151 style='width:4.0cm;border-top:none;border-left:none;border-bottom:  solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:  solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:  solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:11.35pt'>  <p class=Default align=center style='text-align:center'><span  style='font-size:10.0pt;mso-bidi-font-size:8.0pt;font-family:&quote;Times New Roman&quote;'>64<o:p></o:p></span></p>  </td>  <td width=151 style='width:4.0cm;border-top:none;border-left:none;border-bottom:  solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:  solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:  solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:11.35pt'>  <p class=Default align=center style='text-align:center'><span  style='font-size:10.0pt;mso-bidi-font-size:8.0pt;font-family:&quote;Times New Roman&quote;'>95<o:p></o:p></span></p>  </td> </tr> <tr style='mso-yfti-irow:29;height:11.35pt'>  <td width=151 style='width:4.0cm;border:solid windowtext 1.0pt;border-top:  none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;  padding:0cm 5.4pt 0cm 5.4pt;height:11.35pt'>  <p class=Default align=center style='text-align:center'><span  style='font-size:10.0pt;mso-bidi-font-size:8.0pt;font-family:&quote;Times New Roman&quote;'>28<o:p></o:p></span></p>  </td>  <td width=151 style='width:4.0cm;border-top:none;border-left:none;border-bottom:  solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:  solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:  solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:11.35pt'>  <p class=Default align=center style='text-align:center'><span  style='font-size:10.0pt;mso-bidi-font-size:8.0pt;font-family:&quote;Times New Roman&quote;'>66<o:p></o:p></span></p>  </td>  <td width=151 style='width:4.0cm;border-top:none;border-left:none;border-bottom:  solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:  solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:  solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:11.35pt'>  <p class=Default align=center style='text-align:center'><span  style='font-size:10.0pt;mso-bidi-font-size:8.0pt;font-family:&quote;Times New Roman&quote;'>98<o:p></o:p></span></p>  </td> </tr> <tr style='mso-yfti-irow:30;height:11.35pt'>  <td width=151 style='width:4.0cm;border:solid windowtext 1.0pt;border-top:  none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;  padding:0cm 5.4pt 0cm 5.4pt;height:11.35pt'>  <p class=Default align=center style='text-align:center'><span  style='font-size:10.0pt;mso-bidi-font-size:8.0pt;font-family:&quote;Times New Roman&quote;'>29<o:p></o:p></span></p>  </td>  <td width=151 style='width:4.0cm;border-top:none;border-left:none;border-bottom:  solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:  solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:  solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:11.35pt'>  <p class=Default align=center style='text-align:center'><span  style='font-size:10.0pt;mso-bidi-font-size:8.0pt;font-family:&quote;Times New Roman&quote;'>68<o:p></o:p></span></p>  </td>  <td width=151 style='width:4.0cm;border-top:none;border-left:none;border-bottom:  solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:  solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:  solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:11.35pt'>  <p class=Default align=center style='text-align:center'><span  style='font-size:10.0pt;mso-bidi-font-size:8.0pt;font-family:&quote;Times New Roman&quote;'>102<o:p></o:p></span></p>  </td> </tr> <tr style='mso-yfti-irow:31;height:11.35pt'>  <td width=151 style='width:4.0cm;border:solid windowtext 1.0pt;border-top:  none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;  padding:0cm 5.4pt 0cm 5.4pt;height:11.35pt'>  <p class=Default align=center style='text-align:center'><span  style='font-size:10.0pt;mso-bidi-font-size:8.0pt;font-family:&quote;Times New Roman&quote;'>30<o:p></o:p></span></p>  </td>  <td width=151 style='width:4.0cm;border-top:none;border-left:none;border-bottom:  solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:  solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:  solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:11.35pt'>  <p class=Default align=center style='text-align:center'><span  style='font-size:10.0pt;mso-bidi-font-size:8.0pt;font-family:&quote;Times New Roman&quote;'>71<o:p></o:p></span></p>  </td>  <td width=151 style='width:4.0cm;border-top:none;border-left:none;border-bottom:  solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:  solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:  solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:11.35pt'>  <p class=Default align=center style='text-align:center'><span  style='font-size:10.0pt;mso-bidi-font-size:8.0pt;font-family:&quote;Times New Roman&quote;'>105<o:p></o:p></span></p>  </td> </tr> <tr style='mso-yfti-irow:32;height:11.35pt'>  <td width=151 style='width:4.0cm;border:solid windowtext 1.0pt;border-top:  none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;  padding:0cm 5.4pt 0cm 5.4pt;height:11.35pt'>  <p class=Default align=center style='text-align:center'><span  style='font-size:10.0pt;mso-bidi-font-size:8.0pt;font-family:&quote;Times New Roman&quote;'>31<o:p></o:p></span></p>  </td>  <td width=151 style='width:4.0cm;border-top:none;border-left:none;border-bottom:  solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:  solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:  solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:11.35pt'>  <p class=Default align=center style='text-align:center'><span  style='font-size:10.0pt;mso-bidi-font-size:8.0pt;font-family:&quote;Times New Roman&quote;'>73<o:p></o:p></span></p>  </td>  <td width=151 style='width:4.0cm;border-top:none;border-left:none;border-bottom:  solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:  solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:  solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:11.35pt'>  <p class=Default align=center style='text-align:center'><span  style='font-size:10.0pt;mso-bidi-font-size:8.0pt;font-family:&quote;Times New Roman&quote;'>109<o:p></o:p></span></p>  </td> </tr> <tr style='mso-yfti-irow:33;height:11.35pt'>  <td width=151 style='width:4.0cm;border:solid windowtext 1.0pt;border-top:  none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;  padding:0cm 5.4pt 0cm 5.4pt;height:11.35pt'>  <p class=Default align=center style='text-align:center'><span  style='font-size:10.0pt;mso-bidi-font-size:8.0pt;font-family:&quote;Times New Roman&quote;'>32<o:p></o:p></span></p>  </td>  <td width=151 style='width:4.0cm;border-top:none;border-left:none;border-bottom:  solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:  solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:  solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:11.35pt'>  <p class=Default align=center style='text-align:center'><span  style='font-size:10.0pt;mso-bidi-font-size:8.0pt;font-family:&quote;Times New Roman&quote;'>76<o:p></o:p></span></p>  </td>  <td width=151 style='width:4.0cm;border-top:none;border-left:none;border-bottom:  solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:  solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:  solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:11.35pt'>  <p class=Default align=center style='text-align:center'><span  style='font-size:10.0pt;mso-bidi-font-size:8.0pt;font-family:&quote;Times New Roman&quote;'>112<o:p></o:p></span></p>  </td> </tr> <tr style='mso-yfti-irow:34;height:11.35pt'>  <td width=151 style='width:4.0cm;border:solid windowtext 1.0pt;border-top:  none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;  padding:0cm 5.4pt 0cm 5.4pt;height:11.35pt'>  <p class=Default align=center style='text-align:center'><span  style='font-size:10.0pt;mso-bidi-font-size:8.0pt;font-family:&quote;Times New Roman&quote;'>33<o:p></o:p></span></p>  </td>  <td width=151 style='width:4.0cm;border-top:none;border-left:none;border-bottom:  solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:  solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:  solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:11.35pt'>  <p class=Default align=center style='text-align:center'><span  style='font-size:10.0pt;mso-bidi-font-size:8.0pt;font-family:&quote;Times New Roman&quote;'>78<o:p></o:p></span></p>  </td>  <td width=151 style='width:4.0cm;border-top:none;border-left:none;border-bottom:  solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:  solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:  solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:11.35pt'>  <p class=Default align=center style='text-align:center'><span  style='font-size:10.0pt;mso-bidi-font-size:8.0pt;font-family:&quote;Times New Roman&quote;'>116<o:p></o:p></span></p>  </td> </tr> <tr style='mso-yfti-irow:35;height:11.35pt'>  <td width=151 style='width:4.0cm;border:solid windowtext 1.0pt;border-top:  none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;  padding:0cm 5.4pt 0cm 5.4pt;height:11.35pt'>  <p class=Default align=center style='text-align:center'><span  style='font-size:10.0pt;mso-bidi-font-size:8.0pt;font-family:&quote;Times New Roman&quote;'>34<o:p></o:p></span></p>  </td>  <td width=151 style='width:4.0cm;border-top:none;border-left:none;border-bottom:  solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:  solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:  solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:11.35pt'>  <p class=Default align=center style='text-align:center'><span  style='font-size:10.0pt;mso-bidi-font-size:8.0pt;font-family:&quote;Times New Roman&quote;'>80<o:p></o:p></span></p>  </td>  <td width=151 style='width:4.0cm;border-top:none;border-left:none;border-bottom:  solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:  solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:  solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:11.35pt'>  <p class=Default align=center style='text-align:center'><span  style='font-size:10.0pt;mso-bidi-font-size:8.0pt;font-family:&quote;Times New Roman&quote;'>119<o:p></o:p></span></p>  </td> </tr> <tr style='mso-yfti-irow:36;height:11.35pt'>  <td width=151 style='width:4.0cm;border:solid windowtext 1.0pt;border-top:  none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;  padding:0cm 5.4pt 0cm 5.4pt;height:11.35pt'>  <p class=Default align=center style='text-align:center'><span  style='font-size:10.0pt;mso-bidi-font-size:8.0pt;font-family:&quote;Times New Roman&quote;'>35<o:p></o:p></span></p>  </td>  <td width=151 style='width:4.0cm;border-top:none;border-left:none;border-bottom:  solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:  solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:  solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:11.35pt'>  <p class=Default align=center style='text-align:center'><span  style='font-size:10.0pt;mso-bidi-font-size:8.0pt;font-family:&quote;Times New Roman&quote;'>83<o:p></o:p></span></p>  </td>  <td width=151 style='width:4.0cm;border-top:none;border-left:none;border-bottom:  solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:  solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:  solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:11.35pt'>  <p class=Default align=center style='text-align:center'><span  style='font-size:10.0pt;mso-bidi-font-size:8.0pt;font-family:&quote;Times New Roman&quote;'>123<o:p></o:p></span></p>  </td> </tr> <tr style='mso-yfti-irow:37;mso-yfti-lastrow:yes;height:11.35pt'>  <td width=151 style='width:4.0cm;border:solid windowtext 1.0pt;border-top:  none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;  padding:0cm 5.4pt 0cm 5.4pt;height:11.35pt'>  <p class=Default align=center style='text-align:center'><span  style='font-size:10.0pt;mso-bidi-font-size:8.0pt;font-family:&quote;Times New Roman&quote;'>36<o:p></o:p></span></p>  </td>  <td width=151 style='width:4.0cm;border-top:none;border-left:none;border-bottom:  solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:  solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:  solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:11.35pt'>  <p class=Default align=center style='text-align:center'><span  style='font-size:10.0pt;mso-bidi-font-size:8.0pt;font-family:&quote;Times New Roman&quote;'>85<o:p></o:p></span></p>  </td>  <td width=151 style='width:4.0cm;border-top:none;border-left:none;border-bottom:  solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:  solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:  solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:11.35pt'>  <p class=Default align=center style='text-align:center'><span  style='font-size:10.0pt;mso-bidi-font-size:8.0pt;font-family:&quote;Times New Roman&quote;'>126<o:p></o:p></span></p>  </td> </tr></table><p class=MsoNormal><o:p>&nbsp;</o:p></p></div></body></html>
 
 ### ART. 31.
 
