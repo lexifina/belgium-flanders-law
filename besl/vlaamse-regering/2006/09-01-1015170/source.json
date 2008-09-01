@@ -2,16 +2,16 @@
   "codex_id": 1015170,
   "title": "Besluit van de Vlaamse Regering van 2006-09-01 betreffende de modulaire structuur van het secundair onderwijs voor sociale promotie voor het studiegebied Bouw",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1015170/VolledigDocument?datum=2005-09-01",
-  "source_sha256": "5f91df10b42d9cdd00172afba4058e44a8727fa1ceb8079a68bc0a6ee0d7650d",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1015170/VolledigDocument?datum=2008-09-01",
+  "source_sha256": "6213e576f07f77f455dff10a65b6c676047222ef2b7f96f196d4fd82aff814bf",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1015170&param=informatie",
-  "as_of": "2005-09-01",
+  "as_of": "2008-09-01",
   "made": "2006-09-01",
   "gazette": "2006-11-22",
   "numac": 2006036769,
   "document_start": "2005-09-01",
   "document_end": "2008-08-31",
-  "in_force": "2005-09-01",
+  "in_force": "2008-09-01",
   "article_versions": 12,
-  "record_form": "consolidated version as in force on 2005-09-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2008-09-01; future article versions excluded; article text as the API gives it"
 }
