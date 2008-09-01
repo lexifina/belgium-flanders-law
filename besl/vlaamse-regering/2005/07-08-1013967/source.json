@@ -2,16 +2,16 @@
   "codex_id": 1013967,
   "title": "Besluit van de Vlaamse Regering van 2005-07-08 houdende de organisatie, de normering en de financiering van deeltijdse vormingen die voor de vervulling van de deeltijdse leerplicht in aanmerking komen",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1013967/VolledigDocument?datum=2006-06-01",
-  "source_sha256": "4213cbf31ee936a3fe9ff9aa2f8058ea1ca17da6efc16fed2b5284c11d9ef388",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1013967/VolledigDocument?datum=2008-09-01",
+  "source_sha256": "8daad089aa09e8d78c6f84ad1ab9a652127272678650769ce5125c9ab24c4924",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1013967&param=informatie",
-  "as_of": "2006-06-01",
+  "as_of": "2008-09-01",
   "made": "2005-07-08",
   "gazette": "2005-09-09",
   "numac": 2005036075,
   "document_start": "2005-09-01",
   "document_end": "2008-08-31",
-  "in_force": "2006-06-01",
+  "in_force": "2008-09-01",
   "article_versions": 28,
-  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2008-09-01; future article versions excluded; article text as the API gives it"
 }
