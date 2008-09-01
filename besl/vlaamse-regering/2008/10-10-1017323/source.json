@@ -1,0 +1,17 @@
+{
+  "codex_id": 1017323,
+  "title": "Besluit van de Vlaamse Regering van 2008-10-10 tot wijziging van het besluit van de Vlaamse Regering van 6 september 2002 betreffende het geïntegreerd ondersteuningsaanbod in het gewoon secundair onderwijs",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1017323/VolledigDocument?datum=2008-09-01",
+  "source_sha256": "673c77284930eb0e3717448b9e992bbb77f378f3e0eef526046e5a18676e253d",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1017323&param=informatie",
+  "as_of": "2008-09-01",
+  "made": "2008-10-10",
+  "gazette": "2008-11-26",
+  "numac": 2008204208,
+  "document_start": "2008-09-01",
+  "document_end": null,
+  "in_force": "2008-09-01",
+  "article_versions": 18,
+  "record_form": "consolidated version as in force on 2008-09-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
