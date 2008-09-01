@@ -374,7 +374,7 @@ De ambten die de personeelsleden van een centrum kunnen uitoefenen, worden als v
 
 ### ART. 57bis.
 
-De directeur van een centrum kan zijn ambt enkel in hoofdambt uitoefenen.<br /><br />De directeurs van een centrum die op 31 augustus 1999 het ambt van directeur in bijbetrekking uitoefenden, worden ten persoonlijker titel uitgesloten van de bepaling van het eerste lid voor het volume van de opdracht die zij op de bedoelde data uitoefenden.  <span class="reference">(ing. decr. 13 juli 2001, art. VI. 20, I: 1 september 2001)</span> ]
+...
 
 ## AFDELING 2 AANPASSINGEN AAN HET DECREET VAN 27 MAART 1991 BETREFFENDE DE RECHTSPOSITIE VAN BEPAALDE PERSONEELSLEDEN VAN HET GEMEEN-SCHAPSONDERWIJS
 
