@@ -4,197 +4,27 @@
 
 ### ART. 1.
 
-§ 1. Een beëindigingspremie kan worden toegekend voor vaartuigen die op één van de volgende wijzen aan de zeevisserijactiviteit worden onttrokken:<br /><br />1° de sloop van het vaartuig;<br /><br />2° tot en met 31 december 2004 de definitieve overbrenging van het vaartuig naar een derde, mits voldaan wordt aan de voorwaarden van artikel 7, lid 3, b, van de verordening (EG) nr. 2792/1999;<br /><br />3° het definitieve gebruik van het vaartuig voor niet-commerciële andere doeleinden dan visserij.<br /><br />§ 2. Voor vaartuigen met een tonnenmaat van minder dan 20 BRT of 22 BT of voor vaartuigen die 30 jaar of ouder zijn wordt alleen een beëindigingspremie toegekend voor de sloop van het vaartuig of voor de definitieve bestemming van het vaartuig voor niet-commerciële andere doeleinden dan visserij.
+...
 
 ### ART. 2.
 
-Het vaartuig dat definitief aan de zeevisserij wordt onttrokken, moet:<br /><br />1° meer dan 10 jaar oud zijn op de datum van de premieaanvraag;<br /><br />2° sedert de 5 jaren die aan de premieaanvraag voorafgaan, ingeschreven zijn op de officiÙle lijst der Belgische vissersvaartuigen.<br /><br />3° voldoen aan de bepalingen en bijzondere voorwaarden van artikel 7, lid 1 en lid 3 van verordening (EG) nr. 2792/1999.
+...
 
 ### ART. 3.
 
-De tijdstippen waarop aanvragen kunnen worden ingediend en de sociaal-economische criteria waaraan de aanvragen dienen te voldoen, worden via het Belgisch Staatsblad bekendgemaakt.<br /><br />Het FIVA bepaalt de tijdstippen waarop aanvragen kunnen worden ingediend en de sociaal-economische criteria waaraan de aanvragen dienen te voldoen.<br /><br />Het FIVA beslist welke aanvragen voor een beëindigingspremie in aanmerking komen.
+...
 
 ### ART. 4.
 
-<p>§ 1. De beëindigingspremie kan om budgettaire redenen variëren, maar bedraagt minimum 50 % van het basisbedrag weergegeven in de tabellen van § 2, desgevallend verminderd ingevolge toepassing van §§ 4, 5, 6, 7 en 8 van dit artikel. De beëindigingspremie wordt slechts toegekend onder voorwaarde dat een zelfde cofinanciering verleend wordt door het FIOV.<br>
-<br>
-§ 2. Het basisbedrag van de beëindigingspremie wordt in functie van de brutotonnenmaat BT of brutoregistertonnenmaat BRT bepaald in de tabellen 1 en 2:<br>
-<br>
-tabel 1:<br>
-<br>
-</p>
-
-<table border="1" cellpadding="0" cellspacing="0" style="border-collapse:collapse">
-	<tbody>
-		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:153.5pt">
-			<p>Brutotonnage (BT)</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:153.55pt">
-			<p>Maximumpremie in euro</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:153.55pt">
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.5pt">
-			<p>&lt; 10 BT</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.55pt">
-			<p>1.000 EUR</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.55pt">
-			<p>+ 5.500 EUR/BT</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.5pt">
-			<p>10 – 25 BT</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.55pt">
-			<p>31.000 EUR</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.55pt">
-			<p>+ 2.500 EUR/BT</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.5pt">
-			<p>25 – 100 BT</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.55pt">
-			<p>41.000 EUR</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.55pt">
-			<p>+ 2.100 EUR/BT</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.5pt">
-			<p>100 – 300 BT</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.55pt">
-			<p>116.000 EUR</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.55pt">
-			<p>+ 1.350 EUR/BT</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.5pt">
-			<p>300 – 500 BT</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.55pt">
-			<p>191.000 EUR</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.55pt">
-			<p>+ 1.100 EUR/BT</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.5pt">
-			<p>+ 500 BT</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.55pt">
-			<p>441.000 EUR</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.55pt">
-			<p>+ 600 EUR/BT</p>
-			</td>
-		</tr>
-	</tbody>
-</table>
-
-<p>&nbsp;</p>
-
-<p>tabel 2:<br>
-<br>
-</p>
-
-<table border="1" cellpadding="0" cellspacing="0" style="border-collapse:collapse">
-	<tbody>
-		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:153.5pt">
-			<p>Brutoregister-tonnage (BRT)</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:153.55pt">
-			<p>Maximumpremie in euro</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:153.55pt">
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.5pt">
-			<p>&lt; 25 BRT</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.55pt">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.55pt">
-			<p>4.100 EUR/BRT</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.5pt">
-			<p>25 – 50 BRT</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.55pt">
-			<p>27.500 EUR</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.55pt">
-			<p>+ 3.000 EUR/BRT</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.5pt">
-			<p>50 – 100 BRT</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.55pt">
-			<p>45.500 EUR</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.55pt">
-			<p>+ 2.700 EUR/BRT</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.5pt">
-			<p>100 – 250 BRT</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.55pt">
-			<p>182.500 EUR</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.55pt">
-			<p>+ 1.300 EUR/BRT</p>
-			</td>
-		</tr>
-	</tbody>
-</table>
-
-<p>&nbsp;</p>
-
-<p>&nbsp;</p>
-
-<p>§ 3. Voor vaartuigen met een lengte van meer dan 24 m tussen de loodlijnen, en vanaf 1 januari 2004 voor alle vaartuigen, zijn alleen de tarieven, bedoeld in tabel 1, van toepassing.<br>
-<br>
-§ 4. Voor vaartuigen die 10 tot 15 jaar oud zijn en indien het vaartuig aan de zeevisserij onttrokken wordt door sloop of de definitieve bestemming voor niet-commerciële andere doeleinden dan visserij, is het maximumbedrag van de beëindigingspremie gelijk aan het basisbedrag zoals bepaald in de tabellen 1 en 2 van § 2.<br>
-<br>
-§ 5. Voor vaartuigen die 16 tot 29 jaar oud zijn en indien het vaartuig aan de zeevisserij onttrokken wordt door sloop of de definitieve bestemming voor niet-commerciële andere doeleinden dan visserij, is het maximumbedrag van de beëindigingspremie gelijk aan het basisbedrag zoals bepaald in de tabellen 1 en 2 van § 2, verminderd met 1,5 % per jaar dat de vaartuigen ouder zijn dan 15 jaar.<br>
-<br>
-§ 6. Voor vaartuigen van 30 jaar of ouder en indien het vaartuig aan de zeevisserij onttrokken wordt door sloop of de definitieve bestemming voor niet-commerciële andere doeleinden dan visserij, is het maximumbedrag van de beëindigingspremie, gelijk aan het basisbedrag zoals bepaald in de tabellen 1 en 2 van § 2, verminderd met 22,5 %.<br>
-<br>
-§ 7. Indien het vaartuig aan de vloot wordt onttrokken door definitieve overbrenging naar een derde land, wordt het maximumbedrag, bedoeld in § 4, § 5 en § 6, verminderd met 70 %. Vaartuigen met een tonnage van minder dan 20 BRT of 22 BT, of die dertig jaar oud of ouder zijn, komen niet voor deze overheidssteun in aanmerking.<br>
-<br>
-§ 8. De beëindigingspremie wordt verminderd met het deel van het bedrag, pro rata temporis, dat eerder is ontvangen als steun voor uitrusting of modernisering binnen de vijf jaar vóór de definitieve beëindiging, evenals met het totale bedrag van de ontvangen steun voor tijdelijke stillegging die in het jaar vóór de definitieve beëindiging is betaald.</p>
+...
 
 ### ART. 5.
 
-§ 1. De beëindigingspremie wordt toegekend aan de natuurlijke of rechtspersonen die eigenaar zijn van een Belgisch zeevisserijvaartuig of in geval van mede-eigendom aan de mede-eigenaars van het vaartuig naar rata van hun eigendomsaandelen en betaald nadat de stukken, bedoeld in artikel 6, § 1, zijn ingediend.<br /><br />§ 2. De begunstigden moeten de beëindigingspremie volledig terugbetalen indien het vaartuig na de betaling van de premie niet definitief aan de zeevisserijactiviteit wordt onttrokken.
+...
 
 ### ART. 6.
 
-§ 1. De begunstigden zijn ertoe gehouden binnen de 30 dagen na de betekening van de beslissing tot toekenning van de beëindigingspremie de volgende stukken toe te sturen:<br /><br />1° een bewijs van schrapping van het vaartuig uit de officiële lijst der Belgische vissersvaartuigen. Dit bewijs wordt afgeleverd door de Dienst Scheepvaartbeleid van de FOD Mobiliteit en Vervoer;<br /><br />2° een verklaring waarin de begunstigde bevestigt dat binnen de 60 dagen na de betaling van de premie de in § 2 bedoelde verantwoordingsstukken zullen worden toegestuurd;<br /><br />3° in geval van sloop, een verklaring waarin het Hoofd van de met de scheepvaartcontrole belaste dienst van de FOD Mobiliteit en Vervoer, bevestigt in kennis te zijn gesteld van het voornemen om het vaartuig te laten slopen.<br /><br />§ 2. De begunstigde is ertoe gehouden binnen de 60 dagen na de betaling van de premie de volgende verantwoordingsstukken toe te sturen:<br /><br />1° een bewijsstuk waaruit blijkt dat het vaartuig definitief aan de zeevisserij is onttrokken, met name:<br /><br />a) in geval van sloop, een bewijs van sloop van het vaartuig, afgeleverd door de onderneming, belast met de sloop, en voor echt verklaard door het Hoofd van de met de scheepvaartcontrole belaste dienst van de FOD Mobiliteit en Vervoer,<br /><br />b) in geval van overbrenging van het vaartuig naar een derde land dat beantwoordt aan de voorwaarden van artikel 7, lid 3, b, van de verordening (EG) nr. 2792/1999, een door een beëdigd ambtenaar voor echt verklaard afschrift van de verkoopsovereenkomst tussen de begunstigde en de vreemde eigenaar. Ingeval de verkoop gebeurt via een derde, moeten een voor echt verklaard afschrift van de verkoopsovereenkomst tussen de eigenaar en de tussenpersoon en een voor echt verklaard afschrift van de verkoopsovereenkomst tussen de tussenpersoon en de vreemde eigenaar worden toegestuurd;<br /><br />c) in geval van bestemming voor niet-commerciële andere doeleinden dan visserij, hetzij een verklaring van de betrokkene dat hijzelf het vaartuig voor andere doeleinden zal aanwenden, hetzij een door een beëdigd ambtenaar voor echt verklaard afschrift van de verkoopsovereenkomst waaruit blijkt dat de nieuwe eigenaar het vaartuig voor andere doeleinden zal aanwenden;<br /><br />2° een bewijs, afgeleverd door de Bewaarder der Scheepshypotheken, waaruit blijkt dat de teboekstelling is doorgehaald of waaruit de nieuwe bestemming van het vaartuig blijkt.
+...
 
 ## HOOFDSTUK II PROEFPROJECTEN
 
@@ -252,163 +82,7 @@ De in dit besluit bedoelde premies en subsidies worden betaald binnen de beschik
 
 ### ART. 18.
 
-<p>§ 1. Met betrekking tot de bedragen die in euro worden vermeld in de tabel 1 van artikel 4, gelden vanaf de datum van inwerkingtreding van dit besluit tot en met 31 december 2001, de bedragen die in Belgische frank worden vermeld in onderstaande tabel:<br>
-<br>
-</p>
-
-<table border="1" cellpadding="0" cellspacing="0" style="border-collapse:collapse">
-	<tbody>
-		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:153.5pt">
-			<p>Brutotonnage (BT</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:153.55pt">
-			<p>Maximumbedrag in BEF</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:153.55pt">
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.5pt">
-			<p>&lt; 10 BT</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.55pt">
-			<p>40.340 BEF</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.55pt">
-			<p>221.869 BEF/BT</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.5pt">
-			<p>10 - 25 BT</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.55pt">
-			<p>1.250.537 BEF</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.55pt">
-			<p>1 000 849 BEF/BT</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.5pt">
-			<p>25 – 100 BT</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.55pt">
-			<p>1 653 936 BEF</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.55pt">
-			<p>84 713 BEF/BT</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.5pt">
-			<p>100 – 300 BT</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.55pt">
-			<p>4 679 428 BEF</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.55pt">
-			<p>54 458 BEF/BT</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.5pt">
-			<p>300 – 500 BT</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.55pt">
-			<p>7 704 921 BEF</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.55pt">
-			<p>44 373 BEF/BT</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.5pt">
-			<p>+ 500 BT</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.55pt">
-			<p>17 789 895 BEF</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.55pt">
-			<p>24 203 BEF/BT</p>
-			</td>
-		</tr>
-	</tbody>
-</table>
-
-<p>&nbsp;</p>
-
-<p>&nbsp;</p>
-
-<p>§ 2. Met betrekking tot de bedragen die in euro worden vermeld in tabel 2 van artikel 4, gelden vanaf de datum van inwerkingtreding van dit besluit tot en met 31 december 2001, de bedragen die in Belgische frank worden vermeld in onderstaande tabel:<br>
-<br>
-</p>
-
-<table border="1" cellpadding="0" cellspacing="0" style="border-collapse:collapse">
-	<tbody>
-		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:153.5pt">
-			<p>Brutoregister-tonnage (BRT)</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:153.55pt">
-			<p>Maximum subsidie in BEF</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:153.55pt">
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.5pt">
-			<p>&lt; 25 BRT</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.55pt">
-			<p>0</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.55pt">
-			<p>165 393 BEF/BRT</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.5pt">
-			<p>25 – 50 BRT</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.55pt">
-			<p>1 109 347 BEF</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.55pt">
-			<p>121 019 BEF/BRT</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.5pt">
-			<p>50 – 100 BRT</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.55pt">
-			<p>1 714 446 BEF</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.55pt">
-			<p>108 917 BEF/BRT</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.5pt">
-			<p>100 – 250 BRT</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.55pt">
-			<p>7 362 032 BEF</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.55pt">
-			<p>52 441 BEF/BRT</p>
-			</td>
-		</tr>
-	</tbody>
-</table>
-
-<p>&nbsp;</p>
-
-<p>&nbsp;</p>
+...
 
 ### ART. 19.
 
@@ -418,4 +92,4 @@ Dit besluit heeft uitwerking met ingang van 1 juli 2001.<br />
 
 ### Tekst
 
-niet opgenomen
+...
