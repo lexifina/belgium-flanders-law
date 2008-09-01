@@ -2,16 +2,16 @@
   "codex_id": 1000439,
   "title": "Decreet van 1990-07-31 betreffende het onderwijs-II",
   "type": "Decreet",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1000439/VolledigDocument?datum=2007-09-01",
-  "source_sha256": "ed40d0cecfbf1bbb359fcd0afc4dbc15dc50dd9676ef8672bfb846c5ea4ab173",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1000439/VolledigDocument?datum=2008-09-01",
+  "source_sha256": "26db556d38d576ecd0b2007fe6a27c76e25207b8ebf10e093fb237b73f9d83ed",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1000439&param=informatie",
-  "as_of": "2007-09-01",
+  "as_of": "2008-09-01",
   "made": "1990-07-31",
   "gazette": "1990-08-18",
   "numac": 1990029980,
   "document_start": null,
   "document_end": null,
-  "in_force": "2007-09-01",
-  "article_versions": 260,
-  "record_form": "consolidated version as in force on 2007-09-01; future article versions excluded; article text as the API gives it"
+  "in_force": "2008-09-01",
+  "article_versions": 272,
+  "record_form": "consolidated version as in force on 2008-09-01; future article versions excluded; article text as the API gives it"
 }
