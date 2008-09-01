@@ -6,7 +6,7 @@ In dit besluit wordt verstaan onder :<br />1° besluit op de erkenning en subsid
 
 ### ART. 2.
 
-§ 1. De coëfficiënt voor de jaarlijkse berekening per centrum van de subsidie leertijd, waarvan sprake in artikel 19, 4° van het besluit op de erkenning en subsidiëring, wordt vastgelegd op 6,25 euro.<br /><br />§ 2. In het kalenderjaar 2003 wordt de coëfficiënt, vastgelegd in § 1, vermenigvuldigd met 0,94.
+§ 1. De coëfficiënt voor de jaarlijkse berekening per centrum van de subsidie leertijd, waarvan sprake in artikel 19, 4° van het besluit op de erkenning en subsidiëring, wordt vastgelegd op 2,50 euro.<br /><br />§ 2. ...<br /><br />§ 3. Het bedrag, vermeld in artikel 19, 5°, van het besluit op de erkenning en subsidiëring, wordt vastgelegd op 1,50 euro.<br />
 
 ### ART. 3.
 
