@@ -1,0 +1,17 @@
+{
+  "codex_id": 1017331,
+  "title": "Besluit van de Vlaamse Regering van 2008-09-05 tot wijziging van het besluit van de Vlaamse Regering van 14 april 2000 tot bepaling van de vergunningsplichtige functiewijzigingen en van de werken, handelingen en wijzigingen waarvoor geen stedenbouwkundige vergunning nodig is",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1017331/VolledigDocument?datum=2008-09-01",
+  "source_sha256": "a12fa4ba023f44f5fdf2c838bb4b223cc72cfc8a593e4c6e4aeb92e63e3d3939",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1017331&param=informatie",
+  "as_of": "2008-09-01",
+  "made": "2008-09-05",
+  "gazette": "2008-11-28",
+  "numac": 2008036361,
+  "document_start": "2008-09-01",
+  "document_end": null,
+  "in_force": "2008-09-01",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2008-09-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
