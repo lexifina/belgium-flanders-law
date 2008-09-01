@@ -8,6 +8,10 @@ De Vlaamse minister van Werk, Onderwijs en Vorming,<br /><br />Gelet op de wet v
 
 In artikel 1 van het ministerieel besluit van 9 januari 2006, houdende samenstelling van de commissies zetelend in de commissies van advies voor het buitengewoon onderwijs, gewijzigd bij het besluit van de Vlaamse Regering van 14 september 2007, worden de volgende wijzigingen aangebracht :<br />1° in de rubriek "Provincie Antwerpen ondervoorzitter" worden de woorden "De heer Dams, Louis, inspecteur buitengewoon basisonderwijs" vervangen door de woorden "Mevr. De Volder, Ilse, inspecteur buitengewoon basisonderwijs".<br />2° in de rubriek "Provincie Antwerpen Plaatsvervangende leden" de woorden "De heer Verberck, Willy, directeur buitengewoon basisonderwijs" vervangen door de woorden "Mevr. Van Den Broeck, Jeanne, directeur buitengewoon basisonderwijs"<br />3° in de rubriek "Provincie Antwerpen Werkende leden" worden de woorden "Mevr. Wyndaele, Anne, adjunct-directeur buitengewoon secundair onderwijs" vervangen door de woorden "Mevr. Cavens, Greet, adjunct- directeur buitengewoon secundair onderwijs";<br />4° in de rubriek "Provincie Antwerpen Werkende leden" worden de woorden "Mevr. Van Lint, Christiane, directeur centrum voor leerlingenbegeleiding" vervangen door de woorden "Mevr. Michielsen, Cherstiena, directeur centrum voor leerlingenbegeleiding".<br /><br />
 
+### ART. 2.
+
+In artikel 2 van hetzelfde besluit, gewijzigd bij het besluit van de Vlaamse Regering van 14 september 2007, worden de volgende wijzigingen aangebracht :<br />1° in de rubriek "Provincie Vlaams-Brabant ondervoorzitter" de woorden "Mevr. Hollants, Marianne, inspecteur buitengewoon basisonderwijs" vervangen door de woorden "De heer De Witte, Geert, inspecteur".<br />2° in de rubriek "Provincie Vlaams-Brabant Secretaris" de woorden "De heer Decruyenaere, Philippe, inspecteur" vervangen door de woorden "Mevr. Leconte, Lieve, inspecteur".<br /><br />
+
 ### ART. 3.
 
 In artikel 3 van hetzelfde besluit, gewijzigd bij het besluit van de Vlaamse Regering van 15 januari 2007, worden in de rubriek "Provincie Limburg Werkende leden" de woorden "De heer Van Ransbeek, Johan, directeur buitengewoon secundair onderwijs" vervangen door de woorden "De heer Bleus, Gaston, directeur buitengewoon secundair onderwijs".<br /><br />
@@ -15,6 +19,10 @@ In artikel 3 van hetzelfde besluit, gewijzigd bij het besluit van de Vlaamse Reg
 ### ART. 4.
 
 In artikel 4 van hetzelfde besluit worden in de rubriek "Provincie Oost-Vlaanderen Werkende leden" de woorden "De heer Ingels Roland, pedagogisch begeleider" vervangen door de woorden "Mevr. De Keyzer Gerda, pedagogisch begeleider". <br /><br />
+
+### ART. 5.
+
+In artikel 5 van hetzelfde besluit, gewijzigd bij het besluit van de Vlaamse Regering van 15 januari 2007, worden de volgende wijzigingen aangebracht :<br />1° in de rubriek "Provincie West-Vlaanderen Plaatsvervangende leden" worden de woorden "De heer Swaenepoel, Erik, directeur centrum voor leerlingenbegeleiding" vervangen door de woorden "Mevr. Barroen, Annie, coördinator buitengewoon onderwijs";<br />2° in de rubriek "Provincie West-Vlaanderen Plaatsvervangende leden" worden de woorden "Mevr. Danneels, Rita, beleidsmedewerker buitengewoon onderwijs" vervangen door de woorden "Mevr. Van Steenkiste, Kathelijne, orthopedagoge buitengewoon basisonderwijs".<br />3° in de rubriek "Provincie West-Vlaanderen Werkende leden" worden de woorden "Mevr. Dumon, Chris, directeur buitengewoon basisonderwijs" vervangen door de woorden "Mevr. Danneels, Rita, directeur buitengewoon basisonderwijs".<br /><br />
 
 ### ART. 6.
 
