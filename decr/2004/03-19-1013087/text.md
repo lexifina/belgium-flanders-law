@@ -1250,6 +1250,38 @@ De Vlaamse Regering bepaalt nadere regelen op het vlak van :<br />1° de selecti
 
 ## [TITEL IVquater EXPERTISECENTRUM ONDERZOEK EN ONTWIKKELINGSMONITORING (ing. decr. 4 juli 2008, art. V.52, I: 1 september 2008)]
 
+### ART. VI.9.19.
+
+De Vlaamse Regering is er toe gemachtigd om onder de in volgende artikel en vermelde voorwaarden over te gaan tot de erkenning van het door de verenigde associaties opgerichte Expertisecentrum Onderzoek en Ontwikkelingsmonitoring, waarbij de Katholieke Universiteit Leuven optreedt als initiërende instelling.
+
+### ART. VI.9.20.
+
+§ 1. De opdrachten van het Expertisecentrum Onderzoek en Ontwikkelingsmonitoring zijn :<br />1° de opmaak, de actualisering en de voortgangsbewaking van een Onderzoek en Ontwikkelingsmonitor, die noodzakelijke en nuttige en kwantitatieve parameters omvat in het kader van de decretale en tijdelijke financieringskanalen van het wetenschaps- en innovatiebeleid en van specifieke onderzoeksgerelateerde werkingstoelagen aan hogeronderwijsinstellingen;<br />2° de coördinatie van de opmaak van een tweejaarlijks Onderzoek en Ontwikkelingsindicatorenboek met een overzicht van de Vlaamse onderzoeks- en innovatiecapaciteit in een Europese en internationale context.<br /><br />De Vlaamse Regering kan het Expertisecentrum Onderzoek en Ontwikkelingsmonitoring belasten met bijzondere opdrachten.<br /><br />§ 2. De Vlaamse Regering kan regelen bepalen betreffende de kwaliteitsbewaking van de gegevens die in de Onderzoek en Ontwikkelingsmonitor worden opgenomen.
+
+### ART. VI.9.21.
+
+§ 1. Het Expertisecentrum Onderzoek en Ontwikkelingsmonitoring bezit geen rechtspersoonlijkheid.<br /><br />De Initiërende Instelling bepaalt, in overleg met de associaties, de functionele autonomie waarover het Expertisecentrum Onderzoek en Ontwikkelingsmonitoring beschikt, alsmede de bestuurs- en beheersstructuur ervan, met dien verstande dat ten minste een beheerscomité en een wetenschappelijke adviesraad worden ingesteld.<br /><br />§ 2. In het beheerscomité zetelen vertegenwoordigers van alle associaties, vertegenwoordigers van de Vlaamse overheid en onafhankelijke deskundigen.<br /><br />§ 3. De wetenschappelijke adviesraad bestaat ten minste voor de helft uit niet in België werkzame experten die op het vlak van het wetenschaps- en innovatiebeleid als toonaangevend worden erkend.
+
+### ART. VI.9..22.
+
+De Vlaamse Regering en de associaties sluiten ten aanzien van de organisatie van het Expertisecentrum Onderzoek en Ontwikkelingsmonitoring vijfjaarlijks een convenant waarin ten minste volgende elementen zijn opgenomen :<br />1° de aansturingsmogelijkheden van de Vlaamse Regering;<br />2° de minimale resultaatsverbintenissen van het Expertisecentrum Onderzoek en Ontwikkelingsmonitoring;<br />3° de minimale behoorlijkheidsvereisten op het vlak van het financieel management, evenals de mogelijkheden om een bepaalde financiële reserve aan te leggen;<br />4° de rapporterings- en controlemechanismen, in het bijzonder de wijze van evaluatie van het Expertisecentrum Onderzoek en Ontwikkelingsmonitoring in de tweede helft van het vierde kalenderjaar van het lopende convenant;<br />5° de remediërende en sanctionerende maatregelen in geval van niet-naleving van het convenant;<br />6° de gevallen waarin en de wijze waarop het convenant tijdens de looptijd ervan kan worden gewijzigd;<br />7° de mate en inhoud van de samenwerking met in Vlaanderen gevestigde en niet in Vlaanderen gevestigde instellingen en met internationale instellingen.
+
+### ART. VI.9.23.
+
+De Initiërende Instelling bezorgt met betrekking tot de werking van het Expertisecentrum Onderzoek en Ontwikkelingsmonitoring jaarlijks een afzonderlijke begroting, jaarplanning, jaarrekening en jaarverslag aan de Vlaamse Regering.
+
+### ART. VI.9.24
+
+Het sluiten van een convenant met de Vlaamse Regering doet in hoofde van de initiërende instelling een recht ontstaan op een jaarlijkse werkingsenveloppe ten behoeve van de werking van het betrokken Expertisecentrum Onderzoek en Ontwikkelingsmonitoring.<br /><br />De Vlaamse Regering bepaalt, rekening houdend met de beschikbare begrotingskredieten, de grootte van de jaarlijkse werkingsenveloppe, evenals de wijze van vereffening ervan.
+
+### ART. VI.9.25.
+
+De partners bij de associaties kunnen personeelsleden met hun instemming belasten met een taak bij het Expertisecentrum Onderzoek en Ontwikkelingsmonitoring. De betrokken personeelsleden blijven gedurende de uitoefening van deze taak juridisch en administratief behoren tot de terbeschikkingstellende universiteit of hogeschool.
+
+### ART. VI.9.26.
+
+De erkenning van het Expertisecentrum Onderzoek en Ontwikkelingsmonitoring houdt van rechtswege de beëindiging in van de erkenning en de betoelaging van het steunpunt voor Onderzoek en Ontwikkelingsindicatoren, geselecteerd in uitvoering van artikel 8bis van het decreet van 22 februari 1995 betreffende de wetenschappelijke of maatschappelijke dienstverlening door de universiteiten of de hogescholen en betreffende de relaties van de universiteiten en de hogescholen met andere rechtspersonen.<br /><br />De Vlaamse Regering kan nadere regelingen bepalen inzake de beëindiging van de lopende beheersovereenkomst met het steunpunt voor Onderzoek en Ontwikkelingsindicatoren.<br />
+
 ## TITEL V INWERKINGTREDINGSBEPALING
 
 ### ART. VI.10.
