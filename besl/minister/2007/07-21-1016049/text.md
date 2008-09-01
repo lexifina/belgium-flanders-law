@@ -6,12 +6,12 @@ De Vlaamse Regering, <br /><br />Gelet op het besluit van de Vlaamse Regering va
 
 ### ART. 1.
 
-Dit besluit heeft betrekking op de toekenning voor het schooljaar 2007-2008 van uren-leraar aan de door de Vlaamse Gemeenschap gefinancierde of gesubsidieerde centra voor deeltijds beroepssecundair onderwijs, die zijn voorbehouden voor leerlingenbegeleiding onder vorm van trajectbegeleiding, georiënteerd naar werkplekervaring.
+...
 
 ### ART. 2.
 
-Het aantal uren-leraar per in aanmerking te nemen leerling van het deeltijds beroepssecundair onderwijs wordt vastgesteld op 0,19.
+...
 
 ### ART. 3.
 
-Dit besluit treedt in werking op 1 september 2007 en houdt op uitwerking te hebben op 31 augustus 2008.
+...
