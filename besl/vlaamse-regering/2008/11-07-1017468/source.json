@@ -1,0 +1,17 @@
+{
+  "codex_id": 1017468,
+  "title": "Besluit van de Vlaamse Regering van 2008-11-07 betreffende de erkenning en de subsidiëring als Centrum voor Basiseducatie voor het schooljaar 2008-2009",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1017468/VolledigDocument?datum=2008-09-01",
+  "source_sha256": "e003740ddc40ca95a16aa741906fe989733393b0c6c3099c7fbcb59077de4122",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1017468&param=informatie",
+  "as_of": "2008-09-01",
+  "made": "2008-11-07",
+  "gazette": "2009-01-15",
+  "numac": 2008204816,
+  "document_start": "2008-09-01",
+  "document_end": "2016-12-31",
+  "in_force": "2008-09-01",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2008-09-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
