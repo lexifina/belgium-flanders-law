@@ -42,7 +42,7 @@ De Vlaamse regering kan aan instellingen die voltijds gewoon kunstsecundair onde
 
 ### ART. 159.
 
-De Vlaamse regering kan, zonder dat toepassing dient gemaakt van artikel 3, § 3, 4°, van de wet van 29 mei 1959 tot wijziging van sommige bepalingen van de onderwijswetgeving, voor het schooljaar 1999-2000 een afwijking verlenen van de toepasbare rationalisatienorm voor een instelling voor voltijds gewoon secundair onderwijs met meer dan 50 % doelgroepleerlingen.<br /><br />Onder doelgroepleerling wordt de leerling verstaan waarvan:<br /><br />1° de grootmoeder van moederszijde niet in België is geboren en evenmin door geboorte de Belgische of Nederlandse nationaliteit bezit; en<br /><br />2° de moeder ten hoogste tot het einde van het schooljaar waarin zij 18 werd, onderwijs heeft genoten.
+...
 
 ### ART. 160.
 
@@ -114,7 +114,7 @@ Dit hoofdstuk treedt in werking op 1 september 1999, met uitzondering van artike
 
 ### ART. 177.
 
-De directeur, de raad van bestuur en de algemeen directeur zoals bedoeld in artikel 5, § 2 en § 3, van het bijzonder decreet van 14 juli 1998 betreffende het gemeenschapsonderwijs, worden tot en met 31 maart 2001 geadviseerd voor de aangelegenheden bedoeld in artikel 11, § 1 en § 2, van het bijzonder decreet van 14 juli 1998 betreffende het gemeenschapsonderwijs door een adviesraad, samengesteld uit de personen die lid zijn van de lokale raden, zoals bedoeld in artikel 5 van het bijzonder decreet van 19 december 1988 betreffende de Autonome Raad voor het Gemeenschapsonderwijs.
+...
 
 ### ART. 178.
 

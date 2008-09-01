@@ -2,16 +2,16 @@
   "codex_id": 1006864,
   "title": "Decreet van 1999-05-18 betreffende het onderwijs XI",
   "type": "Decreet",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1006864/VolledigDocument?datum=2007-09-01",
-  "source_sha256": "00cc0ce27ae4c3cc7365135191b3fd6550db2f30d615534ebe06d38c0a80fc8b",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1006864/VolledigDocument?datum=2008-09-01",
+  "source_sha256": "63cb55b3d868c963268522ddf7a624d81393d9d6469ee7d1979c69b350958ef3",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1006864&param=informatie",
-  "as_of": "2007-09-01",
+  "as_of": "2008-09-01",
   "made": "1999-05-18",
   "gazette": "1999-08-31",
   "numac": 1999036093,
   "document_start": null,
   "document_end": null,
-  "in_force": "2007-09-01",
+  "in_force": "2008-09-01",
   "article_versions": 32,
-  "record_form": "consolidated version as in force on 2007-09-01; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2008-09-01; future article versions excluded; article text as the API gives it"
 }
