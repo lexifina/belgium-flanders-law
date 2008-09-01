@@ -12,7 +12,7 @@ Dit besluit is van toepassing op de Centra voor Volwassenenonderwijs, vermeld in
 
 ### ART. 2.
 
-Voor de toepassing van dit besluit wordt verstaan onder :<br />1° centrum : een Centrum voor Volwassenenonderwijs, zoals bepaald in artikel 60 van het decreet van 15 juni 2007;<br />2° cursist : deelnemer aan het volwassenenonderwijs die voldoet aan de toelatingsvoorwaarden en ingeschreven is;<br />3° decreet : het decreet van 15 juni 2007 betreffende het volwassenenonderwijs;<br />4° lesurencursist : het resultaat van de vermenigvuldiging van het aantal lestijden van een module met het aantal financierbare of subsidieerbare cursisten;<br />5° NT2 : Nederlands tweede taal;<br />6° referteperiode : een tijdspanne voor de registratie van de cursistenkenmerken.<br /><br />
+Voor de toepassing van dit besluit wordt verstaan onder :<br />1° centrum : een Centrum voor Volwassenenonderwijs, zoals bepaald in artikel 60 van het decreet van 15 juni 2007;<br />1°bis centrumbestuur : de inrichtende macht die ten aanzien van het centrum de bestuurshandelingen verricht, overeenkomstig de door de wet, het decreet, het bijzonder decreet of de statuten toegewezen bevoegdheden;<br />2° cursist : deelnemer aan het volwassenenonderwijs die voldoet aan de toelatingsvoorwaarden en ingeschreven is;<br />3° decreet : het decreet van 15 juni 2007 betreffende het volwassenenonderwijs;<br />4° lesurencursist : het resultaat van de vermenigvuldiging van het aantal lestijden van een module met het aantal financierbare of subsidieerbare cursisten;<br />4°bis lokaal comité : het lokale overleg- of onderhandelingscomité dat bevoegd is op het vlak van arbeidsvoorwaarden en personeelsaangelegenheden;<br />5° NT2 : Nederlands tweede taal;<br />5°bis de minister : de Vlaamse minister, bevoegd voor het Onderwijs.<br />6° referteperiode : een tijdspanne voor de registratie van de cursistenkenmerken.<br /><br />
 
 ## HOOFDSTUK II De toelating van voltijds leerplichtige leerlingen uit het secundair onderwijs tot de opleidingen [van de studiegebieden NT2 (verv. BVR 9 november 2018, art. 1, I: 1 september 2019)]
 
@@ -24,7 +24,7 @@ Voor de toepassing van dit besluit wordt verstaan onder :<br />1° centrum : een
 
 ### ART. 4.
 
-§ 1. Met behoud van de toepassing van de bepalingen, vermeld in artikel 193, § 3, van het decreet, heeft een centrum met toepassing van artikel 105, § 3, van het decreet jaarlijks recht op een puntenenveloppe om betrekkingen op te richten in de ambten van het bestuurs- en ondersteunend personeel.<br /><br />Die puntenenveloppe wordt berekend op basis van het aantal lesurencursist voor de referteperiode van 1 februari van het jaar n-1 tot en met 31 januari van het jaar n voor het toekennen van de betrekkingen in de ambten van het bestuurs- en ondersteunend personeel voor het schooljaar n/n+1.<br /><br />§ 2. De puntenenveloppe, zoals bepaald in § 1, is samengesteld uit twee delen, die als volgt berekend worden :<br />1° 1 punt per volledige schijf van 755 lesurencursist;<br />2° 1 punt per volledige schijf van 2 430 lesurencursist van de opleidingen van de studiegebieden auto, boekbinden, bouw, decoratieve technieken, diamantbewerking, grafische technieken, hout, juwelen, koeling en warmte, land- en tuinbouw, lederbewerking, lichaamsverzorging, maritieme opleidingen, mechanica-elektriciteit, mode, muziekinstrumentenbouw, smeden, textiel en voeding en van de opleiding vrachtwagenchauffeur van het studiegebied bijzondere educatieve noden.<br /><br />§ 3. Met toepassing van artikel 100, § 6, van het decreet behouden de centra die in de periode van 1 september 1999 tot en met 31 augustus 2007 tot stand zijn gekomen door fusie, jaarlijks tenminste het aantal punten dat nodig is om het volume aan betrekkingen in de ambten van bestuurs- en ondersteunend personeel, toegekend aan de betrokken centra op de vooravond van de fusie, in stand te houden.<br /><br />De gewaarborgde puntenenveloppe voor de centra, vermeld in het eerste lid, wordt vastgelegd in de bijlage, die gevoegd is bij dit besluit.<br /><br />§ 4. De jaarlijkse puntenenveloppe voor de centra die vermeld worden in de bijlage, wordt als volgt bepaald :<br />1° als A groter of gelijk is aan B, dan is de toe te kennen puntenenveloppe gelijk aan A;<br />2° als A kleiner is dan B, dan is de toe te kennen puntenenveloppe gelijk aan B,<br />waarbij :<br />1° A = aantal punten, berekend op basis van § 2;<br />2° B = aantal punten, vastgelegd in de bijlage.<br /><br />
+§ 1. Met behoud van de toepassing van de bepalingen, vermeld in artikel 193, § 3, van het decreet, heeft een centrum met toepassing van artikel 105, § 3, van het decreet jaarlijks recht op een puntenenveloppe om betrekkingen op te richten in de ambten van het bestuurs- en ondersteunend personeel.<br /><br />Die puntenenveloppe wordt berekend op basis van het aantal lesurencursist voor de referteperiode van 1 april van het jaar n-1 tot 31 maart van het jaar n, zoals vermeld in artikel 105, § 3, eerste lid voor het toekennen van de betrekkingen in de ambten van het bestuurs- en ondersteunend personeel voor het schooljaar n/n+1.<br /><br />De referteperiode van 1 februari 2007 tot en met 31 januari 2008 wordt éénmalig met twee maanden verlengd tot 31 maart 2008, zoals vermeld in artikel 196bis van het decreet.<br /><br />§ 2. De puntenenveloppe, zoals bepaald in § 1, is samengesteld uit twee delen, die als volgt berekend worden :<br />1° 1 punt per volledige schijf van 755 lesurencursist;<br />2° 1 punt per volledige schijf van 2 430 lesurencursist van de opleidingen van de studiegebieden auto, boekbinden, bouw, decoratieve technieken, diamantbewerking, grafische technieken, hout, juwelen, koeling en warmte, land- en tuinbouw, lederbewerking, lichaamsverzorging, maritieme opleidingen, mechanica-elektriciteit, mode, muziekinstrumentenbouw, smeden, textiel en voeding en van de opleiding vrachtwagenchauffeur van het studiegebied bijzondere educatieve noden.<br /><br />§ 3. Met toepassing van artikel 100, § 6, van het decreet behouden de centra die in de periode van 1 september 1999 tot en met 31 augustus 2007 tot stand zijn gekomen door fusie, jaarlijks tenminste het aantal punten dat nodig is om het volume aan betrekkingen in de ambten van bestuurs- en ondersteunend personeel, toegekend aan de betrokken centra op de vooravond van de fusie, in stand te houden.<br /><br />De gewaarborgde puntenenveloppe voor de centra, vermeld in het eerste lid, wordt vastgelegd in de bijlage, die gevoegd is bij dit besluit.<br /><br />§ 4. De jaarlijkse puntenenveloppe voor de centra die vermeld worden in de bijlage, wordt als volgt bepaald :<br />1° als A groter of gelijk is aan B, dan is de toe te kennen puntenenveloppe gelijk aan A;<br />2° als A kleiner is dan B, dan is de toe te kennen puntenenveloppe gelijk aan B,<br />waarbij :<br />1° A = aantal punten, berekend op basis van § 2;<br />2° B = aantal punten, vastgelegd in de bijlage.<br /><br />
 
 ### ART. 5.
 
@@ -1298,7 +1298,7 @@ Voor de toepassing van dit besluit wordt verstaan onder :<br />1° centrum : een
 
 <p>&nbsp;</p>
 
-<p>§ 3. In afwijking van § 2 wordt voor het schooljaar 2007-2008 de puntenenveloppe voor de aanwending per fractie omgezet volgens onderstaande tabel :<br>
+<p>§ 3. In afwijking van § 2 wordt voor het schooljaar 2007-2008 en het schooljaar 2008-2009 de puntenenveloppe voor de aanwending per fractie omgezet volgens onderstaande tabel :<br>
 1° voor de ambten in de betrekkingen van technisch adviseur en technisch adviseur-coördinator</p>
 
 <table border="1" cellpadding="0" cellspacing="0" style="border-collapse:collapse">
@@ -1855,13 +1855,33 @@ Het geheel van de concrete schikkingen die door het centrumbestuur kunnen worden
 
 ## [HOOFDSTUK IVter Financierbaarheid of subsidieerbaarheid van cursisten Nederlands tweede taal (ing. BVR 10 juli 2008, art. 5, I: 1 september 2008)]
 
+### ART. 8decies.
+
+§ 1. De Huizen van het Nederlands beschikken over de uitsluitende bevoegdheid voor de organisatie en coördinatie van de intake, testing en doorverwijzing van cursisten die niet beschikken over een studiebewijs Nederlands tweede taal, zoals vermeld in artikel 36, eerste lid van het decreet. <br /><br />Ter uitvoering van artikel 36 van het decreet stelt de bevoegde administratie aan de hand van het plan, vermeld in artikel 5, 3°, van het decreet van 7 mei 2004 betreffende de Huizen van het Nederlands, vast of de centra die bevoegdheid van de Huizen van het Nederlands aanvaarden en de afspraken daarover naleven. <br /><br />§ 2. De bevoegde administratie schrapt een cursist van het studiegebied Nederlands tweede taal, die voor de inschrijving niet beschikte over een studiebewijs Nederlands tweede taal, als financierbare of subsidieerbare cursist als bij verificatie van de cursistenkenmerken wordt vastgesteld dat de bepalingen opgenomen in het plan, vermeld in § 1, niet worden nageleefd.
+
 ## [HOOFDSTUK IVquater Sancties (ing. BVR 10 juli 2008, art. 6, I: 1 september 2008)]
+
+### ART. 8undecies.
+
+§ 1. De overtredingen van artikel 118, § 1, 1°, 2°, 3°, 5° en 6°van het decreet kunnen onder de verantwoordelijkheid van de bevoegde administratie in de vorm van een rapport worden vastgesteld. <br /><br />Het rapport wordt met een aangetekende brief meegedeeld aan het centrumbestuur in kwestie.<br /><br />§ 2. Binnen een termijn van zestig kalenderdagen na de betekening van de aangetekende brief kan het centrumbestuur bij de bevoegde administratie met een aangetekende brief een verweerschrift indienen. Het rapport wordt geacht betekend te zijn aan het centrumbestuur, de derde werkdag na het versturen van de aangetekende brief. <br /><br />§ 3. Op basis van het rapport van de bevoegde administratie en het eventuele verweerschrift van het centrumbestuur in kwestie oordeelt de minister binnen een termijn van zestig kalenderdagen of de overtreding bestraft moet worden. <br /><br />Indien de minister oordeelt dat de overtreding bestraft moet worden, oordeelt hij ook over de strafmaat.
+
+### ART. 8duodecies.
+
+§ 1. De overtredingen van artikel 118, § 1, 3°, 4°, 5° en 7°, van het decreet kunnen onder de verantwoordelijkheid van de inspectie in de vorm van een verslag worden vastgesteld.<br /><br />Het verslag wordt aangetekend verstuurd naar het centrumbestuur in kwestie. <br /><br />§ 2. Binnen een termijn van zestig kalenderdagen na de betekening van de aangetekende brief kan het centrumbestuur bij de inspectie met een aangetekende brief een verweerschrift indienen. Het verslag wordt geacht betekend te zijn aan het centrumbestuur, de derde werkdag na het versturen van de aangetekende brief. <br /><br />§ 3. Op basis van het verslag van de inspectie en het eventuele verweerschrift van het centrumbestuur in kwestie oordeelt de minister binnen een termijn van zestig kalenderdagen of de overtreding bestraft moet worden. <br /><br />Indien de minister oordeelt dat de overtreding bestraft moet worden, oordeelt hij ook over de strafmaat.
+
+### ART. 8ter decies.
+
+De minister kan aan de centra een financiële sanctie opleggen van ten hoogste 10 procent van de werkingsmiddelen, vermeld in artikel 108 van het decreet. <br /><br />Bij een eerste overtreding kan dat bedrag ten hoogste 5 procent zijn van de werkingsmiddelen van het voorgaande schooljaar. <br /><br />Bij een tweede of volgende overtreding kan dat bedrag ten hoogste 10 procent zijn van de werkingsmiddelen van het voorgaande schooljaar.
+
+### ART. 8quater decies.
+
+Als de minister oordeelt dat de overtreding bestraft moet worden, heeft het centrumbestuur het recht binnen zestig kalenderdagen na de beslissing van de minister met een aangetekende brief beroep tegen die beslissing aan te tekenen bij de Vlaamse Regering. <br /><br />De Vlaamse Regering neemt binnen zestig kalenderdagen na de aantekening van het beroep een definitieve beslissing over de bestraffing van de overtreding.
 
 ## HOOFDSTUK V Slotbepalingen
 
 ### ART. 9.
 
-Dit besluit treedt in werking op 1 september 2007.<br /><br />Artikel 5, § 3 en § 4, tweede lid, houden op van kracht te zijn op 31 augustus 2008.<br /><br />
+Dit besluit treedt in werking op 1 september 2007.<br /><br />Artikel 5, § 3 en § 4, tweede lid, houden op van kracht te zijn op 31 augustus 2009.<br /><br />
 
 ### ART. 10.
 
