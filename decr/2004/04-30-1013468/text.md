@@ -364,7 +364,7 @@ Het instellingsbestuur stelt jaarlijks vóór 1 mei de bedragen van het studiege
 
 ### ART. 57.
 
-§ 1. Voor beurstariefstudenten die een studietraject van meer dan 53 studiepunten volgen, betreft het studiegeld een forfaitair bedrag dat ten hoogste gelijk is aan:<br />1° in de hogescholen: 100 euro;<br />2° in de universiteiten: 80 euro.<br /><br />Voor beurstariefstudenten die een studietraject van ten hoogste 53 studiepunten volgen of een bijkomende inschrijving nemen, betreft het studiegeld een forfaitair bedrag dat ten hoogste gelijk is aan 55 euro.<br /><br />§ 2. Voor bijna-beursstudenten bedraagt het studiegeld ten hoogste twee derden van het bedrag vastgesteld overeenkomstig artikel 55 en 56.
+§ 1. Voor beurstariefstudenten die een studietraject van meer dan 53 studiepunten volgen, betreft het studiegeld een forfaitair bedrag dat ten hoogste gelijk is aan:<br />1° in de hogescholen: 100 euro;<br />2° in de universiteiten: 80 euro.<br /><br />Voor beurstariefstudenten die een studietraject van ten hoogste 53 studiepunten volgen of een bijkomende inschrijving nemen, betreft het studiegeld een forfaitair bedrag dat ten hoogste gelijk is aan 55 euro.<br /><br />§ 2. Voor bijna-beursstudenten bedraagt het studiegeld ten hoogste twee derden van het bedrag vastgesteld overeenkomstig artikel 55 en 56.<br /><br />§ 3. Studenten die het laatste jaar secundair onderwijs volgen en die met een creditcontract voor maximaal 10 studiepunten ingeschreven zijn in het hoger onderwijs, betalen 50 % van het studiegeld van een beurstariefstudent.
 
 ### ART. 58.
 
