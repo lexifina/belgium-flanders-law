@@ -6,6 +6,14 @@
 
 ## Afdeling I. Decreet Basisonderwijs
 
+### ART. II.21.
+
+Aan artikel 153sexies, § 4, eerste lid, van hetzelfde decreet, ingevoegd bij het decreet van 10 juli 2003, gewijzigd bij het decreet van 22 juni 2007 en 4 juli 2008, wordt de volgende zin toegevoegd : <br /><br />« Van dit percentage kan per puntenenveloppe na akkoord in het bevoegd lokaal comité worden afgeweken. »
+
+### ART. II.22.
+
+In hetzelfde decreet wordt in hoofdstuk IX. Personeelsformatie in het basisonderwijs, een afdeling 3ter, bestaande uit de artikelen 153decies en 153undecies, ingevoegd, die luidt als volgt :<br /><br />« Afdeling 3ter. - Vervangingseenheden voor korte afwezigheden<br /><br />Artikel 153decies <br /><br />Voor de toepassing van deze afdeling wordt verstaan onder :<br />1° samenwerkingsplatform : scholen die samenwerken binnen :<br />a) een scholengemeenschap;<br />b) een samenwerkingsverband tussen een of meer scholengemeenschappen en een of meer scholen die niet behoren tot een scholengemeenschap;<br />c) een samenwerkingsverband tussen verschillende scholengemeenschappen;<br />2° korte afwezigheden : de afwezigheden van de personeelsleden die aangesteld zijn in een wervingsambt van het bestuurs- en onderwijzend personeel, voor wie op basis van andere regelgeving geen vervanger kan worden gefinancierd of gesubsidieerd.<br /><br />Artikel 153undecies <br /><br />§ 1. Vanaf het schooljaar 2008-2009 kent de regering aan alle gefinancierde en gesubsidieerde scholen basisonderwijs, die deel uitmaken van een samenwerkingsplatform, jaarlijks vervangingseenheden voor korte afwezigheden toe. De regering bepaalt het aantal, de berekenings- en aanwendingswijze van de vervangingseenheden voor korte afwezigheden. De regering bepaalt eveneens de ambten die in aanmerking komen voor deze vervangingen.<br /><br />§ 2. De vervangingseenheden voor korte afwezigheden worden samengelegd op het niveau van het samenwerkingsplatform.<br /><br />§ 3. Er wordt een convenant op het niveau van het samenwerkingsplatform afgesloten tussen de schoolbesturen en een of meer representatieve vakorganisaties. Het convenant omvat minimaal :<br />1° de aanleiding voor het sluiten van het convenant;<br />2° de doelstellingen;<br />3° de wijze waarop vervangingen in korte afwezigheden zullen gebeuren;<br />4° afspraken over de opvolging van de aanwending van de vervangingseenheden;<br />5° de gegevens van de participanten;<br />6° de duur van het convenant;<br />7° de datum van inwerkingtreding.<br /><br />De scholen wenden de vervangingseenheden aan conform de bepalingen van het convenant. De scholen in een samenwerkingsplatform kunnen, binnen de bepalingen van het convenant, een eigen beleid voeren betreffende vervangingen van korte afwezigheden van personeelsleden die aangesteld zijn in een wervingsambt van het bestuurs- en onderwijzend personeel, afhankelijk van eigen lokale behoeften en prioriteiten. ».
+
 ## Afdeling II. Wet houdende taalregeling in het onderwijs
 
 ## Afdeling III. Wet op het gebruik van de talen in bestuurszaken
@@ -28,9 +36,17 @@ In artikel 55 van hetzelfde decreet worden de volgende wijzigingen aangebracht :
 
 ## Afdeling III. Decreet houdende diverse maatregelen met betrekking tot het secundair onderwijs
 
+### ART. III.20.
+
+In hetzelfde decreet wordt een titel XIquinquies ingevoegd, bestaande uit de artikelen 99undecies tot en met 99ter decies, die luidt als volgt :<br /><br />« TITEL XIquinquies. - Omkadering op basis van vervangingen van korte afwezigheden en bij bedrijfsstages <br /><br />Artikel 99undecies <br /><br />De bepalingen van deze titel zijn van toepassing op het gewoon en buitengewoon secundair onderwijs.<br /><br />Artikel 99duodecies <br /><br />Voor de toepassing van de bepalingen van deze titel wordt verstaan onder :<br />1° een samenwerkingsplatform : een scholengemeenschap, al dan niet uitgebreid met één of meer instellingen die niet tot een scholengemeenschap behoren dan wel een groep van scholengemeenschappen, al dan niet uitgebreid met een of meer instellingen die niet tot een scholengemeenschap behoren;<br />2° korte afwezigheden : afwezigheden van personeelsleden voor wie op basis van andere regelgeving geen vervanger kan worden gefinancierd of gesubsidieerd;<br />3° bedrijfsstage : het opdoen van werkervaring in een arbeidsmilieu buiten het onderwijs op basis van een stageovereenkomst tussen de stagegever, de instelling en het betrokken personeelslid en waarbij die stage ten minste vijf werkdagen omvat en niet door de stagegever wordt bezoldigd.<br /><br />Artikel 99ter decies <br /><br />§ 1. Aan instellingen voor secundair onderwijs, verenigd in een samenwerkingsplatform, worden vanaf het schooljaar 2008-2009 :<br />1° vervangingseenheden toegekend die zijn voorbehouden voor het voorzien in vervangingen van korte afwezigheden van personeelsleden waarvan het salaris of de salaristoelage ten laste valt van de Vlaamse Gemeenschap;<br />2° vervangingseenheden en werkingsmiddelen toegekend die zijn voorbehouden voor het voorzien in vervangingen bij bedrijfsstages van personeelsleden waarvan het salaris of de salaristoelage ten laste valt van de Vlaamse Gemeenschap.<br /><br />De berekening en toekenning van de middelen gebeurt op het niveau van de instelling. Na samenvoeging van de middelen van de afzonderlijke instellingen die tot het samenwerkingsplatform behoren, beslissen de inrichtende machten van die instellingen gezamenlijk over de verdeling en de aanwending van de middelen in functie van lokale behoeften en prioriteiten. <br /><br />§ 2. Met betrekking tot de toekenning van de middelen bestemd voor de vervangingen van korte afwezigheden is alleszins vereist dat er, per samenwerkingsplatform, tussen de betrokken inrichtende machten en een of meer representatieve vakorganisaties een convenant is gesloten over de wijze van aanwending van de middelen. Het convenant omvat minimaal :<br />1° de aanleiding voor het sluiten van het convenant;<br />2° de doelstellingen;<br />3° de wijze waarop vervangingen in korte afwezigheden zullen gebeuren;<br />4° afspraken over de opvolging van de aanwending van de vervangingseenheden;<br />5° de gegevens van de participanten;<br />6° de duur van het convenant;<br />7° de datum van inwerkingtreding.<br /><br />De scholen wenden de vervangingseenheden aan conform de bepalingen van het convenant. De scholen in een samenwerkingsplatform kunnen, binnen de bepalingen van het convenant, een eigen beleid voeren betreffende vervangingen van korte afwezigheden van personeelsleden die aangesteld zijn in een wervingsambt van het bestuurs- en onderwijzend personeel, afhankelijk van eigen lokale behoeften en prioriteiten. <br /><br />Met betrekking tot de middelen bestemd voor de vervangingen bij bedrijfsstages is alleszins vereist dat de aanwending moet kaderen binnen het nascholingsplan van de instellingen.<br /><br />§ 3. De Vlaamse Regering bepaalt, respectievelijk voor vervangingen van korte afwezigheden en voor vervangingen bij bedrijfsstages :<br />1° met inachtname van de beschikbare begrotingskredieten, de berekeningswijze van de middelen per instelling en, doch uitsluitend voor wat betreft vervangingen bij bedrijfsstages, het aandeel van die kredieten dat is voorbehouden voor werkingsmiddelen met een maximum van 5 %;<br />2° de ambten die in aanmerking komen voor vervangingen. ».
+
 ## Afdeling IV. Wijzigingen betreffende de eindtermen, ontwikkelingsdoelen en specifieke eindtermen in het secundair onderwijs
 
 ## Afdeling V. Decreet betreffende het stelsel van leren en werken
+
+### ART. III.42.
+
+In artikel 143 van hetzelfde decreet wordt punt 8° opgeheven.
 
 ## Afdeling VI. Wet betreffende de leerplicht
 
@@ -72,9 +88,21 @@ In artikel 49 van hetzelfde decreet worden de volgende wijzigingen aangebracht :
 
 In artikel 62, § 1, van hetzelfde decreet wordt punt 1° vervangen door wat volgt :<br /><br />« 1° de organisatie van een of meerdere opleidingen per leergebied, als vermeld in artikel 6, 1° tot en met 6°; ».
 
+### ART. IV.36.
+
+In titel VI. Personeel, van hetzelfde decreet wordt het hoofdstuk I. Personeel van de Centra voor Basiseducatie, dat bestaat uit de artikelen 127, 128 en 128bis, gewijzigd bij decreet van 4 juli 2008, vervangen door wat volgt :<br /><br />» HOOFDSTUK I. - Personeel van de Centra voor Basiseducatie<br /><br />Afdeling I. - Het personeelskader<br /><br />Artikel 127<br /><br />§ 1. Het personeelskader is samengesteld uit de volgende personeelsleden :<br />1° de personeelsleden met recht op een salaristoelage, bedoeld in artikel 88 van dit decreet;<br />2° de personeelsleden, niet bedoeld in artikel 88, doch aangesteld zijn in een functie zoals bedoeld in § 2;<br />3° de personeelsleden, niet bedoeld in 1° en 2°.<br /><br />De personeelsleden vermeld in het eerste lid, worden aangeworven als contractuele personeelsleden op wie de wet van 3 juli 1978 betreffende de arbeidsovereenkomsten van toepassing is.<br /><br />§ 2. De Vlaamse Regering bepaalt voor de personeelsleden, vermeld in § 1, 1°, de functies waarin zij kunnen aangesteld worden. <br /><br />Afdeling II. - Administratieve en geldelijke rechtspositie van het personeel<br /><br />Artikel 128<br /><br />§ 1. De Vlaamse Regering bepaalt voor de personeelsleden bedoeld in artikel 127, § 1, 1°, nadere bepalingen met betrekking tot de prestatieregeling, de vakantieregeling, de verlofregeling en de terugbetaling van de vervoerskosten van de woonplaats naar de plaats van tewerkstelling en terug.<br /><br />In afwachting dat de Vlaamse Regering uitvoering geeft aan het eerste lid, blijven de bestaande bepalingen van toepassing die op de datum van de inwerkingtreding van dit decreet gelden.<br /><br />§ 2. De Vlaamse Regering bepaalt voor de personeelsleden bedoeld in artikel 127, § 1, 1°, de geldelijke rechtspositie en de wijze waarop een aanvraag tot salarissubsidiëring plaatsvindt. <br /><br />§ 3. De Vlaamse Regering bepaalt wanneer en onder welke voorwaarden een personeelslid, bedoeld in artikel 127, § 1, 1°, tijdens zijn afwezigheid kan vervangen worden.<br /><br />Artikel 128bis <br /><br />De Vlaamse Regering legt vast welke bepalingen die van toepassing zijn op de personeelsleden vermeld in artikel 127, § 1, 1°, ook gelden voor de personeelsleden vermeld in artikel 127, § 1, 2° en 3°. ».<br />Artikel 128bis /1<br /><br />Aan de personeelsleden van de Centra voor Basiseducatie, vermeld in artikel 127, § 1, die volledig uitkeringsgerechtigd werkloos worden nadat ze op 1 september 2008 of later de leeftijd van 60 jaar bereiken of bereikt hebben, kan een aanvullende vergoeding worden toegekend. De Vlaamse Regering bepaalt de voorwaarden en de modaliteiten van deze vergoeding. »
+
 ### ART. IV.40.
 
 In hetzelfde decreet wordt een artikel 179bis ingevoegd, dat luidt als volgt :<br /><br />« Artikel 179bis <br /><br />In afwijking van artikel 24, § 1, en in afwachting van de installatie van de stuurgroep vermeld in artikel 50, § 1, 2° en 3°, bepaalt de Vlaamse Regering de opleidingsprofielen na advies van de Vlaamse Onderwijsraad. ».
+
+### ART. IV.42.
+
+In hetzelfde decreet wordt een artikel 190bis toegevoegd, dat luidt als volgt :<br /><br />« Artikel 190bis <br /><br />§ 1. Naast de VTE, vermeld in artikel 190, heeft elk Centrum voor Basiseducatie, dat overeenkomstig artikel 84 in aanmerking komt voor subsidiëring, voor het schooljaar 2008-2009 recht op een puntenenveloppe voor het aanwerven van personeelsleden in de functies voor de ondersteuning van haar werking. Deze puntenenveloppe wordt berekend op basis van het aantal door het Vlaamse ministerie van Onderwijs en Vorming in 2007 gesubsidieerde prestaties basiseducatie. <br /><br />De Vlaamse Regering bepaalt het aantal gesubsidieerde prestaties basiseducatie per toe te kennen punt. <br /><br />§ 2. De oprichting van functies, vermeld in § 1, is gebaseerd op een puntensysteem, waarbij aan elke functie een aantal punten wordt gekoppeld. Dit aantal punten wordt bepaald op basis van de salarisschaal van het personeelslid dat de functie uitoefent. <br /><br />De Vlaamse Regering legt voor elke functie de puntenwaarde vast volgens de salarisschaal. <br /><br />§ 3. De Vlaamse Regering kan voor het schooljaar 2008-2009 bijkomende punten toekennen aan een Centrum voor Basiseducatie, als het werkingsgebied van dat centrum samenvalt met drie of meer werkingsgebieden van de Centra voor Basiseducatie die tot en met 31 augustus 2008 erkend waren op basis van het decreet van 12 juli 1990 houdende de regeling van basiseducatie voor laaggeschoolde volwassenen. <br /><br />De Vlaamse Regering bepaalt de nadere voorwaarden voor de toekenning van deze bijkomende punten. »
+
+### ART. IV.44.
+
+In artikel 197 van hetzelfde decreet worden de volgende wijzigingen aangebracht : <br /><br />1° de bestaande tekst van artikel 197 vormt de § 1;<br /><br />2° een § 2 wordt toegevoegd, die luidt als volgt :<br />« § 2. Een personeelslid dat op 1 september 2008 in een Centrum voor Basiseducatie opnieuw in dienst wordt genomen in de functie die hij in dat Centrum op 31 augustus 2008 uitoefende en dat voor die functie niet in het bezit is van een bekwaamheidsbewijs zoals bepaald in het besluit van de Vlaamse Regering tot vaststelling van de functies, de bekwaamheidsbewijzen en de salarisschalen in de Centra voor Basiseducatie, wordt met ingang van 1 september 2008 bij wijze van overgangsmaatregel geacht in het bezit te zijn van het bekwaamheidsbewijs voor die functie.<br /><br />Het personeelslid behoudt de overgangsmaatregel, vermeld in het eerste lid, zolang hij ononderbroken in dienst blijft in dezelfde functie in een Centrum voor Basiseducatie. Voor de toepassing van deze bepaling worden de volgende perioden niet als een onderbreking beschouwd : de vakantieperioden, het verlof voor de onderbreking of vermindering van de arbeidsprestaties, de ziekte- en bevallingsverloven, de perioden van verwijdering uit een risico in het kader van bedreiging door een beroepsziekte of moederschapsbescherming, de verloven van korte duur met behoud van salaristoelage ter gelegenheid van sommige gebeurtenissen van familiale of sociale aard, alsook de verloven zonder behoud van salaristoelage voor een maximumduur van zes werkdagen per schooljaar, evenals een onderbreking van een doorlopende periode van maximum twee kalenderjaren. »
 
 ### ART. IV.45.
 
@@ -98,7 +126,27 @@ In artikel 168, § 4, van hetzelfde decreet, gewijzigd bij het decreet van 14 ma
 
 ## Afdeling III. Hogescholen
 
+### ART. V.9.
+
+In punt 35° van artikel 2 van het decreet van 13 juli 1994 betreffende de hogescholen in de Vlaamse Gemeenschap worden de woorden « ten minste 50 procent » vervangen door de woorden « ten minste 10 procent ».
+
+### ART. V.27.
+
+Aan artikel 303, tweede lid, van hetzelfde decreet wordt een zin toegevoegd, die luidt als volgt :<br /><br />« Bij fusie van instellingen of onderdelen van instellingen worden de afgevaardigden van het personeel in de onderhandelingscomités van de betrokken instellingen tot de volgende verkiezingen samengevoegd tot de nieuwe personeelsafvaardiging in het nieuwe onderhandelingscomité en geldt het maximum aantal van negen afgevaardigden niet. »
+
+### ART. V.28.
+
+Aan artikel 327, § 2, tweede lid, van hetzelfde decreet worden de volgende wijzigingen aangebracht :<br /><br />1° in de eerste zin worden de woorden « artikel 36 » vervangen door de woorden « artikel 36, § 1, 4° en 6°, »;<br /><br />2° in de tweede zin worden de woorden « artikel 36 » vervangen door de woorden « artikel 36, § 1, 5°, ».
+
 ## Afdeling IV. Herstructurering hoger onderwijs
+
+### ART. V.30.
+
+Aan artikel 5 van hetzelfde decreet worden de volgende wijzigingen aangebracht :<br /><br />1° punt 2° wordt vervangen door wat volgt : <br />« 2° de « HUB-EHSAL »; »;<br /><br />2° punt 6° wordt vervangen door wat volgt :<br />« 6° de « Artesis Hogeschool Antwerpen »; ».
+
+### ART. V.34.
+
+In artikel 37 van hetzelfde decreet wordt voor de woorden « Hogeschool Antwerpen » het woord « Artesis » gevoegd.
 
 ## Afdeling V. Decreet betreffende de rechtspositieregeling van de student, de medezeggenschap in het hoger onderwijs, de integratie van bepaalde afdelingen van het hoger onderwijs voor sociale promotie in de hogescholen en de begeleiding van de herstructurering van het hoger onderwijs
 
@@ -112,11 +160,19 @@ In artikel 168, § 4, van hetzelfde decreet, gewijzigd bij het decreet van 14 ma
 
 In artikel 11, § 3, van het decreet van 14 maart 2008 betreffende de financiering van de werking van de hogescholen en de universiteiten in Vlaanderen worden de woorden « voor de onderwijssokkel » vervangen door de woorden « van alle componenten van de werkingsuitkering ».
 
+### ART. V.63.
+
+Aan het eerste lid van artikel 49 van hetzelfde decreet worden de volgende zinnen toegevoegd die luiden als volgt : <br /><br />« Een student krijgt op het ogenblik van het behalen van het diploma van master eenmalig en bij wijze van overgangsmaatregel het verschil tussen 60 en het aantal opgenomen studiepunten vanaf het academiejaar 2008-2009 extra bij het saldo van het leerkrediet. Deze regeling geldt voor zover de student al in het academiejaar 2007-2008 in de desbetreffende masteropleiding ingeschreven was en op voorwaarde dat hij vanaf het academiejaar 2008-2009 het initiële masterdiploma behaalt en vanaf datzelfde academiejaar minder dan 60 studiepunten heeft opgenomen. »
+
 ### ART. V.65.
 
 In hetzelfde decreet wordt een artikel 78bis ingevoegd dat luidt als volgt :<br /><br />« Artikel 78bis <br /><br />Bij wijze van overgangsmaatregel zijn de bepalingen van dit decreet ook van toepassing op de basisopleidingen in afbouw. ».
 
 ## Afdeling IX. Decreet betreffende het onderwijs XVIII
+
+### ART. V.66.
+
+In artikel V.63 van het decreet van 4 juli 2008 betreffende het onderwijs XVIII wordt in 5° de zinsnede « artikel V.10 » vervangen door de zinsnede « artikel V.9 ».
 
 ## Afdeling X. Inwerkingtreding
 
@@ -164,6 +220,10 @@ In artikel 16 van dezelfde wet worden de woorden « en kan slechts twee maal her
 
 ## Afdeling IV. Decreet gelijke kansen
 
+### ART. IX.4.
+
+In artikel II.1 van het decreet van 28 juni 2002 betreffende gelijke onderwijskansen-I, vervangen bij het decreet van 15 juli 2005, wordt punt 3°bis, dat luidt als volgt, ingevoegd : <br /><br />« 3°bis extra lesuren : een eenheid waarin de omkadering voor het voeren van een gelijke onderwijskansenbeleid in het buitengewoon secundair onderwijs uitgedrukt wordt; ».
+
 ## Afdeling V. Decreet betreffende het onderwijs XIV
 
 ## Afdeling VI. Busbegeleiding
@@ -183,6 +243,14 @@ In artikel 2 van het decreet van 30 november 2007 betreffende het flankerend ond
 ## Onderafdeling I. Verbredings- en verdiepingsbegeleiders
 
 ## Onderafdeling II. Ondersteuning syndicale werkzaamheden
+
+### ART. IX.16.
+
+In artikel XI.9 van hetzelfde decreet wordt § 2 vervangen door wat volgt :<br /><br />« § 2. De Vlaamse Regering bepaalt het bedrag en de wijze van verdeling van dit bedrag over de betrokken vakorganisaties en legt de aanvraagprocedure vast. ».
+
+### ART. IX.17.
+
+In artikel XI.12 van hetzelfde decreet wordt het punt 6° vervangen door wat volgt :<br /><br />« 6° artikelen XI.4, XI.6, XI.8 en XI.9 treden in werking op 1 september 2008; ».
 
 ## Afdeling XI. Dienstprestaties in internaten
 
@@ -210,6 +278,18 @@ In artikel 2 van het decreet van 30 november 2007 betreffende het flankerend ond
 
 ## Afdeling I. Overdracht naar volgend schooljaar van uren mentorschap
 
+### ART. X.1.
+
+§ 1. Na onderhandeling in het lokale comité, kan een schoolbestuur, centrumbestuur of instellingsbestuur tijdens het schooljaar 2008-2009 desgevallend niet-aangewende lestijden, lesuren, uren-leraar of leraars-uren overdragen naar het schooljaar 2009-2010, onder volgende voorwaarden :<br />1° de overdracht heeft betrekking op lestijden, lesuren, uren-leraar of leraarsuren die in toepassing van de vigerende regelgeving betreffende de toekenning van de middelen voor het mentorschap in het onderwijs, vanaf 1 januari 2009, in vergelijking met 31 december 2008, bijkomend werden toegekend;<br />2° de lestijden, lesuren of uren-leraar die overgedragen worden, kunnen tijdens het schooljaar 2009-2010 slechts aangewend worden voor 2/3e;<br />3° de overgedragen lestijden, lesuren, uren-leraar of leraarsuren blijven voorbehouden voor het mentorschap.<br /><br />In bovenstaand geval is een overdracht niet toegelaten indien in de betrokken school, centrum of instelling en in het betrokken schooljaar zich nieuwe of bijkomende terbeschikkingstellingen wegens ontstentenis van betrekking in de categorie van het onderwijzend personeel hebben voorgedaan, niet van toepassing. <br /><br />§ 2. In de overgedragen lestijden, lesuren, uren-leraar of leraarsuren kunnen geen personeelsleden benoemd worden. De school, het centrum of de instelling moet met het oog op de controle aan de bevoegde administratie een verklaring op erewoord bezorgen, waarin de school, het centrum of de instelling aangeeft die bepaling in acht te zullen nemen. De niet-naleving van die bepaling heeft tot gevolg dat de vaste benoeming geen uitwerking heeft ten aanzien van de overheid.
+
 ## Afdeling II. Subsidie voor opleidingen inzake knelpuntberoepen
 
+### ART. X.2.
+
+Voor het schooljaar 2008-2009 wordt voorzien in bijkomende financiering voor instellingen voor voltijds gewoon en buitengewoon secundair onderwijs, centra voor deeltijds beroepssecundair onderwijs en centra voor vorming van zelfstandigen en kleine en middelgrote ondernemingen, die opleidingen geven die leiden tot de invulling van een knelpuntberoep. Desbetreffende financiering strekt ertoe de kost voor leerlingen en jongeren in die opleidingen, waarvan de lijst in bijlage bij dit decreet gaat, te verminderen. De bijkomende financiering vindt plaats onder vorm van een premie die, rekening houdend met het aantal regelmatige leerlingen en jongeren in die opleidingen per 1 oktober 2008 en rekening houdend met het beschikbaar budget, maximaal 226 euro per leerling of jongere bedraagt.
+
 ## Afdeling III. Inwerkingtreding
+
+### ART. X.3.
+
+De bepalingen van dit hoofdstuk hebben uitwerking met ingang van 1 september 2008.
