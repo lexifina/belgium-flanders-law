@@ -34,7 +34,7 @@ De Vlaamse Regering,<br /><br />Gelet op het decreet van 2 maart 1999 tot regeli
 
 ### ART. 8.
 
-Dit besluit heeft uitwerking met ingang van 1 september 2006. Het besluit houdt op van kracht te zijn op 31 augustus 2008.<br /><br />
+...
 
 ### ART. 9.
 
