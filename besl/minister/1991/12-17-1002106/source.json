@@ -2,16 +2,16 @@
   "codex_id": 1002106,
   "title": "Ministerieel besluit van 1991-12-17 tot vaststelling van de bezoldigingsmodaliteiten van de personen, die ermede belast zijn de gehandicapten die een instelling, een afdeling of een instituut voor buitengewoon onderwijs bezoeken, tijdens het gemeenschappelijk vervoer te helpen en te bewaken",
   "type": "Ministerieel besluit",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1002106/VolledigDocument?datum=2006-06-01",
-  "source_sha256": "39e6055b86c2f7496452272534f807bd270eb7c7b85a36ac44367cd60c9ae4e0",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1002106/VolledigDocument?datum=2008-09-01",
+  "source_sha256": "72144e8f093e8d30c7886c144269c09b9f1786f2c7c899a5ef7331a98a91aa1a",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1002106&param=informatie",
-  "as_of": "2006-06-01",
+  "as_of": "2008-09-01",
   "made": "1991-12-17",
   "gazette": "1992-03-13",
   "numac": 0,
   "document_start": null,
   "document_end": "2008-08-31",
-  "in_force": "2006-06-01",
+  "in_force": "2008-09-01",
   "article_versions": 4,
-  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2008-09-01; future article versions excluded; article text as the API gives it"
 }
