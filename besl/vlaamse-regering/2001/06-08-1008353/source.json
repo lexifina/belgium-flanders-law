@@ -2,16 +2,16 @@
   "codex_id": 1008353,
   "title": "Besluit van de Vlaamse Regering van 2001-06-08 betreffende het multidisciplinair dossier in de centra voor leerlingenbegeleiding",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1008353/VolledigDocument?datum=2006-09-01",
-  "source_sha256": "285e1b0a94a5211303662ae0188532cc427fcf9031e4d565b20be87c522a3cc2",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1008353/VolledigDocument?datum=2008-09-01",
+  "source_sha256": "e338d17b8e7a4bad76087bb68c5297ccd782c1d7ec0c2636bc78be4466bdee0b",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1008353&param=informatie",
-  "as_of": "2006-09-01",
+  "as_of": "2008-09-01",
   "made": "2001-06-08",
   "gazette": "2001-09-11",
   "numac": 2001035814,
   "document_start": null,
   "document_end": "2008-08-31",
-  "in_force": "2006-09-01",
+  "in_force": "2008-09-01",
   "article_versions": 14,
-  "record_form": "consolidated version as in force on 2006-09-01; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2008-09-01; future article versions excluded; article text as the API gives it"
 }
