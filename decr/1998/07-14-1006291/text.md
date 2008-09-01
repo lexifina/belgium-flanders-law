@@ -30,7 +30,7 @@ Dit decreet regelt een gemeenschapsaangelegenheid.
 
 ### ART. 7.
 
-In afwijking van artikel 33 van hetzelfde decreet delen de inrichtende machten van het deeltijds kunstonderwijs en het onderwijs met beperkt leerplan of sociale promotie de vacante betrekkingen in het schooljaar 1997-1998 mee na 1 februari 1998 en vóór 1 juni 1998.
+...
 
 ### ART. 8.
 
