@@ -2,16 +2,16 @@
   "codex_id": 1014581,
   "title": "Besluit van de Vlaamse Regering van 2006-03-31 betreffende tijdelijke projecten inzake kunstinitiatie voor kansarme en/of allochtone minderjarigen",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1014581/VolledigDocument?datum=2005-09-01",
-  "source_sha256": "b2b352fdad1a301daa8aa1bdbcfd8cee396e1d8fea5ee579b80d9affd4524a2b",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1014581/VolledigDocument?datum=2008-09-01",
+  "source_sha256": "b13a144bb75c7eb7ef4f6ae6550273decfa4e4df0146e2581734fe06ef9b65f1",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1014581&param=informatie",
-  "as_of": "2005-09-01",
+  "as_of": "2008-09-01",
   "made": "2006-03-31",
   "gazette": "2006-06-16",
   "numac": 2006035897,
   "document_start": "2005-09-01",
   "document_end": null,
-  "in_force": "2005-09-01",
+  "in_force": "2008-09-01",
   "article_versions": 13,
-  "record_form": "consolidated version as in force on 2005-09-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2008-09-01; future article versions excluded; article text as the API gives it"
 }
