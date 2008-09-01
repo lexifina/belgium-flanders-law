@@ -42,7 +42,7 @@ Dit decreet regelt een gemeenschapsaangelegenheid.
 
 ### ART. 9.
 
-Onverminderd de bepalingen van artikel 48, paragrafen 2 en 3 en artikel 49 van het decreet van 27 maart 1991 betreffende de rechtspositie van bepaalde personeelsleden van het Gemeenschapsonderwijs worden de personeelsleden die in het gemeenschapsonderwijs met ingang van 1 januari 1995 tot de proeftijd toegelaten werden in een betrekking van het ambt van beheerder in een instelling voor hoger onderwijs met volledig leerplan, geacht hun proeftijd te hebben aangevangen in een betrekking van het ambt van beheerder in een instelling voor voltijds secundair onderwijs met volledig leerplan. Deze proeftijd omvat een periode van 12 maanden effectief gepresteerd in deze betrek-king.
+...
 
 ### ART. 10.
 
@@ -60,7 +60,7 @@ Artikel 2, 2°, eerste lid, van het besluit van de Vlaamse regering van 8 juni 1
 
 ### ART. 13.
 
-In de periode van 1 augustus 1985 tot 1 oktober 1994 wordt het brevet van officier-werktuigkun-dige tweede klasse beschouwd als een vereist bekwaamheidsbewijs voor het ambt van directeur van een instelling met secundair zeevisserijonderwijs. De daaraan verbonden weddeschaal is 348.
+...
 
 ### ART. 14.
 
@@ -258,7 +258,7 @@ De bepalingen van titel III hebben uitwerking met ingang van 1 september 1995, m
 
 ### ART. 54.
 
-In afwijking van artikel 155 van hetzelfde decreet blijven de leden van de raden en afdelingen van de Vlaamse Onderwijsraad die op 18 november 1991 en op 18 mei 1992 benoemd werden, benoemd tot 31 augustus 1996.
+...
 
 ### ART. 55.
 
@@ -276,19 +276,19 @@ In afwijking van artikel 155 van hetzelfde decreet blijven de leden van de raden
 
 ### ART. 58.
 
-De Vlaamse regering wordt gemachtigd om toe te treden tot de v.z.w. Vlaams Leonardo Da Vinci-Agentschap en bij te dragen tot de werking van deze v.z.w.
+...
 
 ### ART. 59.
 
-De v.z.w. Vlaams Leonardo Da Vinci-Agentschap wordt gemachtigd met de tenuitvoerlegging van het Europees actieprogramma "Leonardo Da Vinci", zoals vastgelegd in het besluit van de ministerraad van de Europese Unie van 6 december 1994 tot vaststelling van een actieprogramma voor de ontwikkeling van een beleid van de Europese Gemeenschap inzake beroepsopleiding en dit voor wat betreft de Vlaamse Gemeenschap.
+...
 
 ### ART. 60.
 
-Binnen de perken van de daartoe op de gemeenschapsbegroting uitgetrokken kredieten wordt aan voornoemde v.z.w. een toelage verleend op basis van een ontwerpbegroting door de v.z.w. opgesteld en goed te keuren door de regering. Deze toelage zal jaarlijks worden herzien in functie van de taken en verplichtingen ten aanzien van de Europese Unie en de Vlaamse Gemeenschap inzake onderwijs.
+...
 
 ### ART. 61.
 
-§ 1. De toelage dient aangewend te worden voor de werkingskosten van voornoemde v.z.w. en voor de activiteiten die in de Vlaamse Gemeenschap worden ontwikkeld in het kader van het Europees actieprogramma "Leonardo Da Vinci".<br /><br />§ 2. De v.z.w. is ertoe gehouden jaarlijks een activiteitenverslag en een financieel verslag ter goedkeuring aan de Vlaamse regering voor te leggen.<br /><br />De toelage zal worden uitbetaald in drie schijven; een eerste voorschot van 50 percent, een tweede voorschot van 30 percent en het resterende saldo. Het saldo zal worden overgemaakt na voorlegging van het activiteitenverslag en mits gunstig advies van de Inspectie van Financiën.
+...
 
 ### ART. 62.
 
@@ -344,7 +344,7 @@ De bepalingen van titel IX hebben uitwerking met ingang van 1 september 1995.
 
 ### ART. 72.
 
-Scholen waarvan de inrichtende macht met de Vlaamse regering een overeenkomst sluit omtrent het meewerken aan experimenten betreffende nieuwe werkwijzen inzake de controle op de inschrijvingen, de controle op het regelmatig schoolbezoek, de controle op de nieuwe inschrijvingen na schoolverandering en na uitsluiting, vallen voor een periode van [drie opeenvolgende schooljaren  <span class="reference">(verv. decr. 14 juli 1998, art. 130, I: 1 september 1998)</span> ] na het afslui-ten van de overeenkomst, buiten de toepassing van volgende reglementering:<br /><br />1° de artikelen 3, § 1, tweede alinea en 4 van de wet van 29 juni 1983 betreffende de leerplicht;<br /><br />2° de artikelen 8, 9, 10 en 12 van de gecordineerde wetten op het lager onderwijs van 20 augustus 1957;<br /><br />3° de artikelen 48, 2°, b) en 70, § 1, laatste lid van het decreet betreffende het onderwijs-II van 31 juli 1990.<br /><br />[Nieuwe overeenkomsten voor een duurtijd van één schooljaar kunnen afgesloten worden met nieuwe scholen vanaf 1 september 1998.  <span class="reference">(ing. decr. 14 juli 1998, art. 131, I: 1 september 1996)</span> ]
+...
 
 ### ART. 73.
 
@@ -388,7 +388,7 @@ De Vlaamse regering bepaalt onder welke voorwaarden en volgens welke modaliteite
 
 ### ART. 81.
 
-De bepalingen van de artikelen 1, 2, 5, 6, 7, 8, 10 en 12 van het besluit van de Vlaamse regering van 29 juli 1989 tot wijziging van het koninklijk besluit van 30 maart 1982 betreffende de scholengemeenschappen voor secundair onderwijs en houdende het rationalisatie- en programmatieplan van het secundair onderwijs met volledig leerplan worden bekrachtigd met terugwerkende kracht tot de datum van hun inwerkingtreding.
+...
 
 ### ART. 82.
 
@@ -456,85 +456,7 @@ De salarisschalen die werden toegekend aan de op 1 april 1991 vastbenoemde leden
 
 ### ART. 95.
 
-<p>§ 1. De salarisschalen tot op de datum van 31 december 1995 toegekend aan de leden van het bestuurs- en onderwijzend personeel van de Hogere Radionavigatieschool op grond van het koninklijk besluit van 5 oktober 1970 tot vaststelling van de regelen voor het bepalen van de weddetoelagen aan het onderwijzend personeel van de gesubsidieerde inrichting voor zeevaartonderwijs. "Hogere Radionavigatieschool te Brussel" en aan het personeel van het Koninklijk werk "Ibis", zoals gewijzigd door het koninklijk besluit van 18 juli 1973, worden bekrachtigd.<br>
-<br>
-Aan de ambten van directeur, leraar en lesgever worden volgens onderstaande tabel de salarisschalen toegekend die voor de ambten van directeur en van leraar algemene of technische vakken in een hogere technische school van de tweede graad voorzien zijn in het koninklijk besluit van 1 december 1970 tot vaststelling van de schalen verbonden aan de ambten der leden van het bestuurs- en onderwijzend personeel, van het opvoedend hulppersoneel, van het parame-disch personeel bij de inrichtingen voor kleuteronderwijs, lager, buitengewoon, middelbaar, technisch, kunst- en normaal onderwijs van de Staat, en van de ambten der leden van de inspectiedienst belast met het toezicht op deze inrichtingen.<br>
-<br>
-Deze salarisschalen stemmen overeen met de salarisschalen die met de in de tabel aangeduide salariscode voorkomen in het koninklijk besluit van 27 juni 1974 waarbij op 1 april 1972 worden vastgesteld de schalen verbonden aan de ambten van de leden van het bestuurs- en onderwijzend personeel, van het opvoedend hulppersoneel en van het paramedisch personeel bij de rijksonderwijsinrichtingen, aan de ambten van de leden van de inspectiedienst belast met het toezicht op deze inrichtingen en aan de ambten van de leden van de inspectiedienst (van het schriftelijk onderwijs en) van het gesubsidieerd lager onderwijs en de schalen verbonden aan de graden van het personeel van de psycho-medische-sociale centra van de Staat. Bedoelde salarisschalen volgen de evolutie die zij in het koninklijk besluit van 27 juni 1974 ondergaan hebben.<br>
-&nbsp;</p>
-
-<table border="1" cellpadding="0" cellspacing="0" style="border-collapse:collapse">
-	<tbody>
-		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:230.3pt">
-			<p>Ambt in de Hoger Radionavigatieschool</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:230.3pt">
-			<p>Salarisschaal zoals voorzien in het K.B. van 1 december 1970 voor het referentieambt in een hoger technische school van de 2<sup>e</sup> graad.</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
-			<p>Directeur:</p>
-
-			<p>a) Houder van een universitair diploma</p>
-
-			<p>&nbsp;</p>
-
-			<p>b) Radiotelegrafist 2<sup>e</sup> klasse</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
-			<p>Directeur</p>
-
-			<p>a) Houder van een universitair diploma (salarisschaalcode 475)</p>
-
-			<p>b) Houder van een diploma van het hoger niveau van de 2<sup>e</sup> graad (salarisschaalcode 475)</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
-			<p>Leraar:</p>
-
-			<p>a) Houder van een universitair diploma</p>
-
-			<p>&nbsp;</p>
-
-			<p>b) Technisch ingenieur, radiotelegrafist 2<sup>e</sup> klasse of houder van een diploma van specialist in de elektronica voor de zeevaart</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
-			<p>Leraar:</p>
-
-			<p>a) Houder van een universitair diploma (salarisschaalcode 422)</p>
-
-			<p>b) Houder van een diploma van het hoger niveau van de 2<sup>e</sup> graad (salarisschaalcode 350)</p>
-
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
-			<p>Lesgever:</p>
-
-			<p>a) Houder van een universitair diploma of kapitein ter lange omvaart</p>
-
-			<p>b) Luitenant ter lange omvaart</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
-			<p>Lesgever:</p>
-
-			<p>a) Houder van een universitair diploma (salarisschaalcode 422)</p>
-
-			<p>b) Houder van een diploma van het hoger niveau van de 2<sup>e</sup> graad (salarisschaalcode 350)</p>
-			</td>
-		</tr>
-	</tbody>
-</table>
-
-<p>&nbsp;</p>
-
-<p>&nbsp;</p>
-
-<p>§ 2. De nuttige ervaring die in de geldelijk anciënniteit van de leden van het bestuurs- en onderwijzend personeel van de Hogere Radionavigatieschool werd opgenomen, wordt geacht opgenomen te zijn overeenkomstig artikel 17, § 1 van het koninklijk besluit van 15 april 1958 houdende bezoldigingsregeling van het onderwijzend, wetenschappelijk en daarmee gelijkgesteld personeel van het Ministerie van Openbaar Onderwijs.</p>
+...
 
 ## HOOFDSTUK II WIJZIGINGEN AAN HET DECREET VAN 13 JULI 1994 BETREFFENDE DE HOGESCHOLEN IN DE VLAAMSE GEMEENSCHAP
 
@@ -610,7 +532,7 @@ Deze salarisschalen stemmen overeen met de salarisschalen die met de in de tabel
 
 ### ART. 112.
 
-In uitvoering van artikel 196, § 2 van hetzelfde decreet, gewijzigd door het decreet van 6 april 1995, wordt de Dienst voor Infrastructuurwerken van het Gesubsidieerd Onderwijs gemachtigd om, tijdens het laatste kwartaal van het begrotingsjaar 1995, de investeringsdossiers van de gesubsidieerde vrije en officiële hogescholen vast te leggen op de vastleggingsmachtigingen bedoeld in artikel 17 van het decreet van 21 december 1994 houdende de algemene uitgavenbegroting van de Vlaamse Gemeenschap voor het begrotingsjaar 1995.
+...
 
 ### ART. 113.
 
@@ -902,7 +824,7 @@ In uitvoering van artikel 196, § 2 van hetzelfde decreet, gewijzigd door het de
 
 ### ART. 182.
 
-§ 1. In afwijking van de regelgeving inzake de uitoefening van nevenactiviteiten door perso-neelsleden van de universiteiten, geldend voor 1 oktober 1993, worden de medische en paramedische activiteiten uitgeoefend door een lid van het onderwijzend, wetenschappelijk of academisch personeel van 1 oktober 1977 tot 1 oktober 1993 in uitvoering van arbeidsovereenkomst of van een reglement van kliniekvergoedingen met toestemming van het universiteitsbestuur, niet beschouwd als zijnde een hoofdberoep buiten het onderwijs noch als zijnde andere beroepsactiviteiten of andere bezoldigde activiteiten indien ze uitsluitend werden uitgeoefend in het Universitair Ziekenhuis voor wat betreft de Universiteit Gent of in de tandheelkundige kliniek voor wat de Vrije Universiteit Brussel betreft of in het academisch ziekenhuis, deel uitmakend van de eigen universiteit.<br /><br />De medische en paramedische prestaties die een lid van het onderwijzend, wetenschappelijk of academisch personeel als zelfstandige heeft geleverd in de periode van 1 oktober 1977 tot 1 oktober 1993 worden niet beschouwd als zijnde andere bezoldigde activiteiten die een groot gedeelte van de tijd in beslag nemen indien ze uitsluitend met toestemming van het universiteitsbestuur werden geleverd in het Universitair Ziekenhuis Gent voor wat de Universiteit Gent betreft of in de tandheelkundige kliniek voor wat de Vrije Universiteit Brussel betreft of in het academisch ziekenhuis, deel uitmakend van de eigen universiteit.<br /><br />§ 2. Het universiteitsbestuur is bevoegd om verdere beslissingen te nemen bedoeld in het besluit van de Vlaamse regering van 16 februari 1993 houdende aanvulling van de cumulatieregeling in het universitair onderwijs met het oog op regularisatie van situaties die zich hebben voorgedaan in de periode tussen 1 oktober 1977 tot 31 oktober 1993.
+...
 
 ### ART. 183.
 
@@ -942,23 +864,23 @@ Aan de GPB-afdelingen van het hoger onderwijs van het korte type voor sociale pr
 
 ### ART. 191.
 
-De wedden en de weddetoelagen die, op grond van de maatregelen getroffen in uitvoering van de wet van 14 mei 1955 tot regeling van het kunstonderwijs, tot 1 april 1972 werden uitgekeerd aan de personeelsleden die in het kunstonderwijs met beperkt leerplan en in het kunstonderwijs met volledig leerplan een ambt hebben uitgeoefend van het bestuurs- en onderwijzend personeel en van het opvoedend hulppersoneel, zijn in hoofde van deze personeelsle-den definitief verworven, behoudens indien een betrokken personeelslid, wat het gesubsidieerd onderwijs betreft, tewerkgesteld was in een niet-subsidieerbare betrekking.
+...
 
 ### ART. 192.
 
-Onverminderd de krachtens artikel 146 van de Grondwet door de wet georganiseerde rechtsbe-scherming, worden de beslissingen die genomen werden op basis van de volgende ministeriële omzendbrieven in het kunstonderwijs met beperkt leerplan en in het secundair kunstonderwijs met volledig leerplan, georganiseerd of gesubsidieerd in toepassing van de wet van 14 mei 1955 tot regeling van het kunstonderwijs, geacht te zijn genomen in overeenstemming met de bepalingen en de uitvoeringsbesluiten van de wet van 22 juni 1964, betreffende het statuut van de personeelsleden van het rijksonderwijs en/of de wet van 29 mei 1959 tot wijziging van sommige bepalingen van de onderwijswetgeving:<br /><br />1° omzendbrieven van 19 oktober 1973 betreffende de sociale programmatie 1972/73, gericht aan het gesubsidieerd on-derwijs in de bouwkunst en de plastische kunsten en aan het gesubsidieerd muziekonderwijs;<br /><br />2° KO/M.BK/85.10 van 9 juli 1985 op de klassering van de vakken in de rijksinrichtingen voor nederlandstalig se-cundair kunstonderwijs; de ingangsdatum wordt bepaald op 1 april 1972;<br /><br />3° KO/M/85/16 van 14 augustus 1985, betreffende maatregelen ten aanzien van de gesubsidieerde muziekinrichtingen met beperkt leerplan;<br /><br />4° KO/M/85-14 van 19 december 1985, gewijzigd door KO/M/85-14-bis, betreffende de afwijking van de vereiste, inzake bekwaamheidsbewijzen;<br /><br />5° KO/BK/86-3 van 9 juli 1986 op de vereiste bekwaamheidsbewijzen voor de leermeesters, de leraars en de assistenten artistieke vakken;<br /><br />6° KO/BK/86-4 van 10 juli 1986, betreffende de voldoende geachte bekwaamheidsbewijzen voor de leermeesters, de leraars en de assistenten artistieke vakken en voor de directeurs van de gesubsidieerde kunstonderwijsinrichtingen, die een secundair onderwijs in de beeldende kunsten organiseren;<br /><br />7° KO/M.BK/86-5 van 15 juli 1986 tot wijziging op 1 januari 1986 van de weddeschalen van sommige leden van het onderwijzend personeel van het kunstonderwijs, bezoldigd op grond van de weddeschaal van onderwijzer of van een weddeschaal afgeleid van deze laatste;<br /><br />8° KO/GC/MH van 5 september 1986, betreffende het secundair muziekonderwijs met beperkt leerplan, voor zover het gaat over de bekwaamheidsbewijzen voor de cursus clavecimbel.
+...
 
 ### ART. 193.
 
-De bekwaamheidsbewijzen die, in toepassing van de koninklijke besluiten van 26 januari 1968 tot vaststelling van de titels vereist met het oog op de toekenning van toelagen aan de gesubsidieerde inrichtingen voor muziekonderwijs en van 9 september 1969 betreffende het getuigschrift van bekwaamheid tot het geven van onderricht in de gesubsidieerde inrichtingen voor muziekonderwijs, gelden voor het gesubsidieerd onderwijs worden geacht eveneens van toepassing te zijn op de rijksinrichtingen voor muziekonderwijs voor de duur van de gelding van deze besluiten.
+...
 
 ### ART. 194.
 
-§ 1. De onder artikel 192 vermelde omzendbrieven van 19 oktober 1973 op de sociale pro-grammatie in het gesubsidieerd kunstonderwijs worden bekrachtigd voor zover het aanvullende bepalingen en weddeschalen betreft die niet zijn opgenomen in het koninklijk besluit van 9 november 1978 tot vaststelling op 1 april 1972 van de weddeschalen van het personeel van het bestuurs- en onderwijzend personeel en van het opvoedend hulppersoneel van de rijksinrichtingen voor kunstonderwijs met beperkt, respectievelijk volledig, leerplan.<br /><br />§ 2. De Vlaamse regering is gemachtigd de weddeschalen waarvan sprake in § 1 van dit artikel bedoelde koninklijk besluit van 9 november 1978 met terugwerkende kracht tot voor 1 september 1989 aan te passen. Hetzelfde geldt voor de weddeschalen waarvan sprake in de in artikel 192 bedoelde omzendbrieven van 19 oktober 1973 en KO/M-BK/86-5 van 15 juli 1986.
+...
 
 ### ART. 195.
 
-De leermeesters, de leraars artistieke vakken en de assistenten artistieke vakken waarvan sprake in de in artikel 192 bedoelde omzendbrief KO/BK/86/3 van 9 juli 1986 die tussen 1 april 1972 en 31 augustus 1986 hun ambt hebben uitgeoefend in een rijkskunstonderwijsinrichting met beperkt en met volledig leerplan en hiervoor bezoldigd werden op basis van het in artikel 194 van dit decreet bedoelde koninklijk besluit van 9 november 1978 worden verondersteld hiervoor in het bezit te zijn geweest van een vereist bekwaamheidsbewijs.
+...
 
 ### ART. 196.
 
@@ -982,4 +904,4 @@ De bepalingen van Titel XVII treden in werking op 1 september 1997.
 
 ### ART. 200.
 
-Onverminderd de krachtens artikel 146 van de Grondwet door de wet georganiseerde rechtsbe-scherming wordt rechtsgeldig verklaard de beslissing van de Vlaamse regering om terugwerkende kracht te verlenen tot vóór 1 januari 1989 aan:<br /><br />1. artikel 3 van het besluit van de Vlaamse regering van 25 januari 1995 tot wijziging van het koninklijk besluit van 15 april 1958 houdende bezoldigingsregeling van het onderwijzend, wetenschappelijk en daarmee gelijkgesteld personeel van het Ministerie van Openbaar Onderwijs;<br /><br />2. de artikelen 1 en 2 van het besluit van de Vlaamse regering van 24 mei 1995 tot wijziging van het koninklijk besluit van 9 november 1978 tot vaststelling op 1 april 1972 van de weddeschalen van de leden van het bestuurs- en onderwij-zend personeel en van het opvoedend hulppersonel van de rijksinrichtingen voor kunstonderwijs met beperkt leerplan, ressorterend onder de Minister van Nederlandse Cultuur en de Minister van Franse Cultuur;<br /><br />3. de artikelen 1 en 2 van het besluit van de Vlaamse regering van 24 mei 1995 tot wijziging van het koninklijk besluit van 9 november 1978 tot vaststelling op 1 april 1972 van de weddeschalen van het bestuurs- en onderwijzend personeel en van het opvoedend hulppersoneel van de rijksinrichtingen voor kunstonderwijs met volledig leerplan ressorterend onder de Minister van Nederlandse Cultuur en de Minister van Franse Cultuur, alsmede van de personeelsleden van de inspectiedienst belast met het toezicht op de inrichtingen voor kunstonderwijs.
+...
