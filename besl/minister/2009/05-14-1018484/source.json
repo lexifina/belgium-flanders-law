@@ -1,0 +1,17 @@
+{
+  "codex_id": 1018484,
+  "title": "Ministerieel besluit van 2009-05-14 houdende vaststelling van de salarisschalen voor de personeelsleden tewerkgesteld in de erkende voorzieningen van de bijzondere jeugdbijstand",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1018484/VolledigDocument?datum=2008-09-01",
+  "source_sha256": "f4fd5d72fc0f92842379e47719c96ddf7fa9b3295b0993465756ab3f308f681e",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1018484&param=informatie",
+  "as_of": "2008-09-01",
+  "made": "2009-05-14",
+  "gazette": "2009-10-26",
+  "numac": 2009204778,
+  "document_start": "2008-09-01",
+  "document_end": null,
+  "in_force": "2008-09-01",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2008-09-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
