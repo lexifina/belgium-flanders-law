@@ -465,7 +465,7 @@ De Vlaamse regering wijst de uitvoering van de nascholingsinitiatieven toe in na
 
 ### ART. 56.
 
-De Vlaamse Gemeenschap stelt volgens de tabel in artikel 44, § 1, vanaf 2008 middelen ter beschikking van het gemeenschapsonderwijs en de representatieve verenigingen van inrichtende machten voor de vorming van directeurs. Elke directeur kan gedurende zijn loopbaan ten bedrage van 1.500 euro beroep doen op deze middelen om kosten verbonden aan het volgen van de opleiding te dekken. Er wordt een regeling uitgewerkt waarbij er eenmaal per jaar een aanvraag kan worden ingediend en nieuw aangestelde directeurs voorrang krijgen.<br /><br />De Vlaamse Regering bepaalt de modaliteiten met betrekking tot de toekenningen en uitbetaling van de middelen, de wijze waarop de voorrangsregeling voor nieuw aangestelde directeurs wordt toegepast en de wijze waarop de representatieve vakorganisaties worden betrokken.
+De Vlaamse Gemeenschap stelt volgens de tabel in artikel 44, § 1, vanaf 2008 middelen ter beschikking van het gemeenschapsonderwijs en van de verenigingen zonder winstoogmerk, bedoeld in artikel 49 voor de vorming van directeurs. Elke directeur kan gedurende zijn loopbaan ten bedrage van 1.500 euro beroep doen op deze middelen om kosten verbonden aan het volgen van de opleiding te dekken. Er wordt een regeling uitgewerkt waarbij er eenmaal per jaar een aanvraag kan worden ingediend en nieuw aangestelde directeurs voorrang krijgen.<br /><br />De Vlaamse Regering bepaalt de modaliteiten met betrekking tot de toekenningen en uitbetaling van de middelen, de wijze waarop de voorrangsregeling voor nieuw aangestelde directeurs wordt toegepast en de wijze waarop de representatieve vakorganisaties worden betrokken.
 
 ## TITEL V OPHEFFINGS- EN SLOTBEPALINGEN
 
