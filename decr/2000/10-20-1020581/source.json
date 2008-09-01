@@ -2,16 +2,16 @@
   "codex_id": 1020581,
   "title": "Decreet van 2000-10-20 betreffende het onderwijs XII-Ensor",
   "type": "Decreet",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1020581/VolledigDocument?datum=2007-09-01",
-  "source_sha256": "5728e1093bccf54ba4d061e796ddf48427aa419102f451c83d6ec98db603aefd",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1020581/VolledigDocument?datum=2008-09-01",
+  "source_sha256": "1ca42e8d0b8994813666b607fed0f96571a2ebbe2221ae9dbc5240785f4fe641",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1020581&param=informatie",
-  "as_of": "2007-09-01",
+  "as_of": "2008-09-01",
   "made": "2000-10-20",
   "gazette": "2000-12-16",
   "numac": 200036221,
   "document_start": null,
   "document_end": null,
-  "in_force": "2007-09-01",
+  "in_force": "2008-09-01",
   "article_versions": 88,
-  "record_form": "consolidated version as in force on 2007-09-01; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2008-09-01; future article versions excluded; article text as the API gives it"
 }

@@ -362,15 +362,15 @@ Artikel 76 heeft uitwerking met ingang van 1 december 1999.
 
 ### ART. 83.
 
-De Vlaamse regering kent gedurende [de schooljaren 2000-2001 en 2001-2002 (verv. decr. 13 juli 2001, art. XIII.6, I: 1 september 2000)] projectmatig extra betrekkingen toe aan scholen met bijzondere noden. Bij het vaststellen van de bijzondere noden van een school houdt de regering rekening met minstens één van de volgende criteria :<br />- de ligging van de school;<br />- het totale aantal leerlingen;<br />- het absolute of relatieve aantal beroepsschoolleerlingen;<br />- de schoolse achterstand;<br />- het relatieve of absolute aantal neveninstromers;<br />- de aanwezigheid van anti-sociaal gedrag;<br />- objectieve indicatoren van kansarmoede en risicofactoren.
+...
 
 ### ART. 84.
 
-De extra betrekkingen bedoeld in artikel 80 worden voltijds toegekend.<br /><br />Een extra betrekking kan :<br />- halftijds of voltijds worden uitgeoefend in het ambt van leraar;<br />- halftijds of voltijds worden uitgeoefend in het ambt van opvoeder;<br />- halftijds worden uitgeoefend in het ambt van leraar en, in afwijking van artikel 94, § 4, van het decreet van 14 juli 1998 houdende diverse maatregelen met betrekking tot het secundair onderwijs en tot wijziging van het decreet van 25 februari 1997 betreffende het basisonderwijs, in het ambt van opvoeder.
+...
 
 ### ART. 85.
 
-De extra betrekkingen bedoeld in artikel 80 zijn niet onderworpen aan de reglementering inzake de terbeschikkingstelling wegens ontstentenis van betrekking, de reaffectatie en de wedertewerkstelling. De inrichtende macht kan evenwel op vrijwillige basis een personeelslid aanstellen dat ter beschikking is gesteld wegens ontstentenis van betrekking. Deze aanstelling wordt beschouwd als een reaffectatie of een wedertewerkstelling. Deze reaffectatie of wedertewerkstelling gebeurt steeds met instemming van het terbeschikkinggestelde personeelslid.
+...
 
 ### ART. 86.
 
