@@ -48,6 +48,10 @@ In artikel 155, § 1, van hetzelfde decreet, gewijzigd bij de decreten van 14 ju
 
 ## HOOFDSTUK VIII Studiefinanciering
 
+### ART. VIII.2.
+
+Aan artikel 13 van hetzelfde decreet, gewijzigd bij het decreet van 8 mei 2009, wordt een paragraaf 5 toegevoegd, die luidt als volgt :<br />« § 5. In afwijking van § 2 en § 3, eerste lid, wordt een kleuter tijdens het betrokken schooljaar geacht voldoende aanwezig te zijn, indien een attest van een arts, een paramedicus, vermeld in het koninklijk besluit van 2 juli 2009 tot vaststelling van de lijst van de paramedische beroepen, of een houder van een diploma in kinesitherapie, vermeld in artikel 21bis, § 2, van het koninklijk besluit nr. 78 van 10 november 1967 betreffende de uitvoering van de gezondheidsberoepen, voorgelegd wordt. Het attest bevat een verklaring dat de in een school ingeschreven kleuter tijdens het betrokken schooljaar niet of slechts onregelmatig naar school kan gaan. Het attest wordt door de aanvrager teruggestuurd naar de bevoegde dienst van het Vlaams ministerie van Onderwijs en Vorming. ».<br /><br />
+
 ## HOOFDSTUK IX Rechtspositie onderwijspersoneel
 
 ## Afdeling I Rechtspositie van bepaalde personeelsleden van het gemeenschapsonderwijs
