@@ -48,7 +48,7 @@ Dit decreet regelt een aangelegenheid bedoeld bij artikel 59bis van de Grondwet.
 
 ### ART. 12.
 
-(niet opgenomen)<br /><br />(Tijdelijke bepaling - schooljaar 1988-1989)
+...
 
 ### ART. 13.
 
@@ -148,7 +148,7 @@ Dit decreet regelt een aangelegenheid bedoeld bij artikel 59bis van de Grondwet.
 
 ### ART. 36.
 
-(niet opgenomen) (Tijdelijke bepalingen)
+...
 
 ## HOOFDSTUK VI BUITENGEWOON ONDERWIJS
 
@@ -196,7 +196,7 @@ Dit decreet regelt een aangelegenheid bedoeld bij artikel 59bis van de Grondwet.
 
 ### ART. 47.
 
-In het secundair onderwijs van het type II zijn voor de oprichting van een zevende vervolmakings- of specialisatiejaar van het technisch, kunst- en beroepssecundair onderwijs en voor de oprichting van een zevende leerjaar van het beroepssecundair onderwijs de volgende normen vereist:<br /><br />- 13 leerlingen;<br /><br />- 10 leerlingen, indien ten minste één derde van het lessenrooster gemeenschappelijk gevolgd wordt met de leerlingen van hetzelfde of van een ander leerjaar;<br /><br />- 5 leerlingen, indien ten minste twee derde van het lessenrooster gemeenschappelijk gevolgd wordt met de leerlingen van hetzelfde of van een ander leerjaar;<br /><br />- 1 leerling, indien het volledig lessenrooster gemeenschappelijk gevolgd wordt met de leerlingen van hetzelfde of van een ander leerjaar.
+...
 
 ### ART. 48.
 
@@ -266,11 +266,11 @@ In het secundair onderwijs van het type II zijn voor de oprichting van een zeven
 
 ### ART. 63.
 
-Met ingang van 1 september 1984 nemen alle afdelingen van het Pedagogisch Hoger Onderwijs van het korte type met volledig leerplan, zoals bedoeld in hoofdstuk II van de wet van 7 juli 1970 betreffende de algemene structuur van het hoger onderwijs, zoals gewijzigd door de wetten van 18 februari 1977 en 15 juli 1985, een driejarige structuur aan.<br /><br />(tweede lid: niet opgenomen)<br /><br />(Heft het koninklijk besluit van 30 april 1957 houdende coördinatie van de wetten op het normaalonderwijs op, met uitzondering van artikel 47 dat slechts opgeheven wordt wanneer de daarin bedoelde centrale examencommissies ingesteld zullen zijn met toepassing van artikel 5bis, § 2, van de wet van 7 juni 1970 betreffende de algemene structuur van het hoger onderwijs)
+...
 
 ### ART. 64.
 
-Artikel 9, § 1, van de wet van 18 februari 1977 betreffende de inrichting van het hoger onderwijs en inzonderheid van het technisch hoger en het agrarisch onderwijs van het lange type wordt geïnterpreteerd als volgt:<br /><br />"De leden van het bestuurs- en onderwijzend personeel die krachtens dit artikel in aanmerking komen voor de voorrangsregeling, bedoeld in dit artikel, kunnen hiervan slechts eenmaal gebruik maken voor zover zij hierdoor vastbenoemd worden in om het even welk ambt van het bestuurs- en onderwijzend personeel van het hoger onderwijs van het lange type".
+...
 
 ### ART. 65.
 
@@ -366,11 +366,11 @@ Artikel 9, § 1, van de wet van 18 februari 1977 betreffende de inrichting van h
 
 ### ART. 85.
 
-Voor het begrotingsjaar 1989 worden de middelen voor onroerende investeringen als volgt bepaald.<br /><br />1. het Gemeenschapsonderwijs bekomt een dotatie ten belope van 1 648,0 miljoen frank;<br /><br />2. het gesubsidieerd officieel onderwijs bekomt een dotatie van 343,6 miljoen frank en leningsmachtigingen ten belope van 229,1 miljoen frank;<br /><br />3. het gesubsidieerd vrij onderwijs bekomt leningsmachtigingen ten belope van 2.658,60 miljoen frank; het op 1 oktober bestaand saldo van de aldus bepaalde leningsmachtigingen wordt op die datum opgezet in een dotatie voor het gesubsidieerd vrij onderwijs. De omzettingscofficiënt bedraagt 0,6863 frank dotatie voor 1 frank leningsmachtiging.
+...
 
 ### ART. 86.
 
-Voor het begrotingsjaar 1990 wordt de verdeling van de investeringsmiddelen over het Ge-meenschapsonderwijs, het gesubsidieerd officieel onderwijs en het gesubsidieerd vrij onderwijs afhankelijk gemaakt van de bekrachtiging door de Vlaamse Raad van het door artikel 7, in de wet van 29 mei 1959 tot wijziging van sommige bepalingen van de onderwijswetgeving ingevoegde artikel 17, § 1, b, bedoelde besluit van de Vlaamse regering.
+...
 
 ## HOOFDSTUK XIV SLOTBEPALING
 
