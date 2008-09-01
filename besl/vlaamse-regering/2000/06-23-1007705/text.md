@@ -8,6 +8,10 @@
 
 De eindtermen worden progressief, leerjaar na leerjaar, te beginnen met het eerste leerjaar van de tweede graad, in acht genomen vanaf het schooljaar 2001-2002.
 
+### ART. 2bis.
+
+Om het studiepeil te waarborgen, en uitsluitend met het oog op de uitreiking in het deeltijds beroepssecundair onderwijs of in de leertijd van graad- of leerjaargebonden eindstudiebewijzen, identiek aan die van het voltijds gewoon secundair onderwijs, zijn de bepalingen van dit besluit die betrekking hebben op het beroepssecundair onderwijs met uitzondering van het vak lichamelijke opvoeding, met ingang van het schooljaar 2008-2009 ook van toepassing op de algemene vorming van het deeltijds beroepssecundair onderwijs en van de leertijd. Voor wat de vakoverschrijdende eindtermen evenwel betreft, zijn de bepalingen van dit besluit van toepassing uiterlijk vanaf het schooljaar 2009-2010.
+
 ### ART. 3.
 
 De Vlaamse minister, bevoegd voor het onderwijs, is belast met de uitvoering van dit besluit.
