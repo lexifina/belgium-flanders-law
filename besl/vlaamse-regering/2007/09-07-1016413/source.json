@@ -2,16 +2,16 @@
   "codex_id": 1016413,
   "title": "Besluit van de Vlaamse Regering van 2007-09-07 betreffende de toekenning van middelen voor mentorschap in het onderwijs",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1016413/VolledigDocument?datum=2007-09-01",
-  "source_sha256": "30798cfdb9f96a6e7ddc0097fbd33944efaad7f8b459435ae012543b31acea19",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1016413/VolledigDocument?datum=2008-09-01",
+  "source_sha256": "f742e64108add3e57e444328d38362e78b6c63caa47ef64cfa062bcdd6d89cb8",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1016413&param=informatie",
-  "as_of": "2007-09-01",
+  "as_of": "2008-09-01",
   "made": "2007-09-07",
   "gazette": "2007-12-17",
   "numac": 2007037209,
   "document_start": "2007-09-01",
   "document_end": "2008-08-31",
-  "in_force": "2007-09-01",
+  "in_force": "2008-09-01",
   "article_versions": 16,
-  "record_form": "consolidated version as in force on 2007-09-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2008-09-01; future article versions excluded; article text as the API gives it"
 }
