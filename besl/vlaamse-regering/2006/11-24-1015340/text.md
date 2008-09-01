@@ -6,19 +6,19 @@ De Vlaamse Regering,<br /><br />Gelet op het decreet van 2 maart 1999 tot regeli
 
 ### ART. 1.
 
-Het Centrum voor Volwassenenonderwijs GLTT, Schoolstraat 2 in 1640 Sint-Genesius-Rode, wordt gemachtigd om in de gemeente Lennik gefinancierde opleidingen Nederlands tweede taal te organiseren.<br /><br />
+<P>...</P>
 
 ### ART. 2.
 
-Het Centrum voor Volwassenenonderwijs Audiovisueel Centrum, Stationsstraat 15 in 1861 Meise, wordt gemachtigd om in de gemeente Wemmel gesubsidieerde opleidingen Nederlands tweede taal te organiseren.<br /><br />
+<P>...</P>
 
 ### ART. 3.
 
-Het Centrum voor Volwassenenonderwijs Vrij Technisch Instituut, Vakschoolstraat 1, in 9300 Aalst, wordt gemachtigd om in de strafinrichting van Dendermonde gesubsidieerde opleidingen te organiseren.<br /><br />
+<P>...</P>
 
 ### ART. 4.
 
-Het Centrum voor Volwassenenonderwijs LBC - NVK Turnhout, Kasteelplein 20 in 2300 Turnhout, wordt gemachtigd om in samenwerking met derden de gesubsidieerde opleiding polyvalent verzorgende/thuis- en bejaardenzorg te organiseren in de gemeente Antwerpen.<br /><br />
+<P>...</P>
 
 ### ART. 5.
 
