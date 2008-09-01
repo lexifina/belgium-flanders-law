@@ -252,7 +252,57 @@ De volgende bedragen worden toegevoegd aan de totale werkingsuitkering van de ho
 &nbsp;<br>
 § 5. Vanaf het begrotingsjaar 2008 worden de bedragen, vermeld in § 3 en § 4, geïndexeerd aan de hand van de volgende formule :<br>
 1° 80 % van de bedragen volgen de evolutie van de gezondheidsindex;<br>
-2° 20 % van de bedragen volgen 75 % van de evolutie van de gezondheidsindex.
+2° 20 % van de bedragen volgen 75 % van de evolutie van de gezondheidsindex.<br>
+&nbsp;<br>
+§ 6. De bedragen VOWprof, als vermeld in of berekend conform dit artikel, worden vermeerderd met volgende bedragen, uitgedrukt in euro :<br>
+&nbsp;
+<table border="1" cellpadding="0" cellspacing="0" style="border-collapse:collapse">
+	<tbody>
+		<tr>
+			<td style="border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:230.3pt">
+			<p>Begrotingsjaar 2011</p>
+			</td>
+			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:230.3pt">
+			<p>290.291,99</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:230.3pt">
+			<p>Begrotingsjaar 2012</p>
+			</td>
+			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:230.3pt">
+			<p>580.583,98</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:230.3pt">
+			<p>Begrotingsjaar 2013</p>
+			</td>
+			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:230.3pt">
+			<p>870.875,96</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:230.3pt">
+			<p>Begrotingsjaar 2014</p>
+			</td>
+			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:230.3pt">
+			<p>1.161.167,95</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:230.3pt">
+			<p>Vanaf begrotingsjaar 2015</p>
+			</td>
+			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:230.3pt">
+			<p>1.451.459,94</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+<br>
+&nbsp;<br>
+Vanaf het begrotingsjaar 2009 worden de bedragen vermeld in het eerste lid, geïndexeerd aan de hand van de indexformule, vermeld in § 5 van dit artikel.
 
 ### ART. 10.
 
@@ -313,7 +363,8 @@ De totale omvang van de middelen die gegenereerd worden door de toepassing van d
 ### ART. 23.
 
 <p>§ 1. Voor de berekening van het aantal financieringspunten wordt het puntengewicht van de studiegebieden als volgt vastgelegd :<br>
-1° voor de professioneel gerichte opleidingen aan de hogescholen :</p>
+1° voor de professioneel gerichte opleidingen aan de hogescholen :<br>
+</p>
 
 <table border="1" cellpadding="0" cellspacing="0" style="border-collapse:collapse">
 	<tbody>
@@ -404,7 +455,8 @@ De totale omvang van de middelen die gegenereerd worden door de toepassing van d
 
 <p>&nbsp;</p>
 
-<p>2° voor de academisch gerichte opleidingen aan de hogescholen :</p>
+<p>2° voor de academisch gerichte opleidingen aan de hogescholen :<br>
+</p>
 
 <table border="1" cellpadding="0" cellspacing="0" style="border-collapse:collapse">
 	<tbody>
@@ -495,7 +547,8 @@ De totale omvang van de middelen die gegenereerd worden door de toepassing van d
 
 <p>&nbsp;</p>
 
-<p>3° voor de academisch gerichte opleidingen aan de universiteiten :</p>
+<p>3° voor de academisch gerichte opleidingen aan de universiteiten :<br>
+</p>
 
 <table border="1" cellpadding="0" cellspacing="0" style="border-collapse:collapse">
 	<tbody>
@@ -783,6 +836,7 @@ c) voor de organisatie van de academische bachelor- en masteropleiding in de con
 a) voor de organisatie van de academische bachelor- en masteropleiding in de muziek en van de academische bachelor- en masteropleiding in het drama samen, wordt de som van het aantal opgenomen studiepunten, zoals bepaald in artikel 15, § 2, en het aantal verworven studiepunten, zoals bepaald in artikel 16, § 3, 1°, a) en b), in een hogeschool, met een maximum van 27 000 studiepunten, vermenigvuldigd met een puntengewicht 3;<br>
 b) voor de organisatie van de professionele bacheloropleiding in de musical wordt de som van het aantal opgenomen studiepunten, zoals bepaald in artikel 15, § 2, en het aantal verworven studiepunten, zoals bepaald in artikel 16, § 3, 1°, a), in een hogeschool, met een maximum van 2400 studiepunten, vermenigvuldigd met een puntengewicht 3;<br>
 c) voor de organisatie van de professionele bacheloropleiding in de dans wordt de som van het aantal opgenomen studiepunten, zoals bepaald in artikel 15, § 2, en het aantal verworven studiepunten, zoals bepaald in artikel 16, § 3, 1°, a), in een hogeschool, met een maximum van 1 500 studiepunten, vermenigvuldigd met een puntengewicht 4.<br>
+d) voor de organisatie van de professionele bacheloropleiding in de pop- en rockmuziek wordt de som van het aantal opgenomen studiepunten, zoals bepaald in artikel 15, § 2, en het aantal verworven studiepunten, zoals bepaald in artikel 16, § 3, 1°, a), in een hogeschool, met een maximum van 9000 studiepunten, vermenigvuldigd met een puntengewicht 2,5.<br>
 <br>
 Voor de berekening van het aantal financieringspunten FPi-diploma-initieel, vermeld in artikel 17, is voor de opleidingen vermeld in het eerste lid, het puntengewicht gelijk aan de som van het puntengewicht van het studiegebied waaronder deze opleiding ressorteert, vermeld in § 1, en het bijkomende puntengewicht voor deze opleiding, vermeld in het eerste lid.<br>
 <br>
@@ -1140,7 +1194,7 @@ Als in de begrotingsjaren 2008 tot en met 2013 de som van de werkingsuitkeringen
 		</tr>
 		<tr>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:320.4pt">
-			<p>19° Groep T-Leuven Hogeschool</p>
+			<p>19° GROEP T - Internationale Hogeschool Leuven</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:140.2pt">
 			<p>10.782.254,05</p>
@@ -1238,98 +1292,159 @@ Het aantal studiepunten voor de berekening van de onderwijssokkel en het aantal 
 
 ### ART. 35.
 
-<p>§ 1. Voor de hogescholen wordt voorzien in de volgende aanvullende uitkeringen :<br>
-1° een bedrag van 1.108.000 euro voor de geraamde kosten van de salarissen van de personeelsleden van het meester-, vak- en dienstpersoneel van de hogescholen die op 31 december 1995 rechtstreeks betaald werden door het beleidsdomein Onderwijs en Vorming. Het eventuele saldo op het einde van het begrotingsjaar t wordt in het begrotingsjaar t+1 toegevoegd aan het variabel onderwijsgedeelte voor de professioneel gerichte opleidingen VOWprof aan de hogescholen;<br>
-2° een bedrag van 7.850.000 euro voor de geraamde kosten van de salarissen of wachtgelden van de personeelsleden, vermeld in artikel 36. Het eventuele saldo op het einde van het begrotingsjaar t wordt in het begrotingsjaar t+1 toegevoegd aan het variabel onderwijsgedeelte voor de professioneel gerichte opleidingen VOWprof aan de hogescholen;<br>
-3° de bedragen VOWprof en VOWac worden verhoudingsgewijs verminderd met de bedragen die nodig zijn om de kosten te dekken van de kinderbijslagen van de personeelsleden van de hogescholen, en met de bedragen die nodig zijn om de salariskosten te dekken van hun benoemde personeelsleden die tijdens het voorgaande begrotingsjaar met bevallingsverlof waren en van hun benoemde en tijdelijke personeelsleden die tijdens het voorgaande begrotingsjaar met opvangverlof voor adoptie of pleegvoogdij waren, voor wat de duur van dat bevallings- of opvangverlof betreft.<br>
-<br>
-§ 2. De bedragen, vermeld in § 1, volgen vanaf het begrotingsjaar 2008 de evolutie van de gezondheidsindex.<br>
-<br>
-§ 3. De bedragen voor de verhoging van het vakantiegeld van de personeelsleden van de hogescholen, die naar aanleiding van cao II worden toegevoegd aan de enveloppe van de hogescholen, worden verdeeld volgens het aandeel van elke hogeschool in de som van de effectieve werkingsuitkeringen van alle hogescholen.<br>
-<br>
-§ 4. Het bedrag van VOWprof wordt verminderd met het bedrag voor de financiering van de voortgezette lerarenopleidingen die niet tot bachelor-na-bacheloropleidingen zijn omgevormd. Vanaf het begrotingsjaar 2007 ontvangen de hogescholen die een voortgezette lerarenopleiding organiseren waaruit geen bachelor-na-bacheloropleiding is ontstaan, per in het vorig academiejaar afgeleverd diploma 1944,79 euro. Als het totale bedrag meer dan 317.000,77 euro bedraagt, dan wordt dit bedrag verdeeld over de hogescholen op basis van het aantal in het vorig academiejaar afgeleverde diploma's. Deze bedragen worden jaarlijks aangepast op de wijze bepaald in artikel 9 van dit decreet.<br>
-<br>
-§ 5. Voor de begrotingsjaren 2008 en 2009 wordt een bedrag van 1.000.000 euro voorzien voor de hogescholen met opleidingen in de studiegebieden Audiovisuele en beeldende kunst en Muziek en podiumkunsten. Dit bedrag wordt als volgt verdeeld over de hogescholen die opleidingen in deze studiegebieden aanbieden :<br>
-1° van het totale bedrag van 1.000.000 euro wordt een bedrag voorafgenomen om elke hogeschool in het variabel onderwijsdeel minimaal het bedrag te garanderen dat haar academisch gerichte opleidingen bij de berekening van de werkingsuitkering voor het begrotingsjaar 2007 genereerden. Het gaat om de volgende bedragen (uitgedrukt in euro) :<br>
-</p>
+<p>§ 1. Voor de hogescholen wordt voorzien in de volgende aanvullende uitkeringen :</p>
+
+<p>1° een bedrag van 1.108.000 euro voor de geraamde kosten van de salarissen van de personeelsleden van het meester-, vak- en dienstpersoneel van de hogescholen die op 31 december 1995 rechtstreeks betaald werden door het beleidsdomein Onderwijs en Vorming. Het eventuele saldo op het einde van het begrotingsjaar t wordt in het begrotingsjaar t+1 toegevoegd aan het variabel onderwijsgedeelte voor de professioneel gerichte opleidingen VOWprof aan de hogescholen;</p>
+
+<p>2° een bedrag van 7.850.000 euro voor de geraamde kosten van de salarissen of wachtgelden van de personeelsleden, vermeld in artikel 36. Het eventuele saldo op het einde van het begrotingsjaar t wordt in het begrotingsjaar t+1 toegevoegd aan het variabel onderwijsgedeelte voor de professioneel gerichte opleidingen VOWprof aan de hogescholen;</p>
+
+<p>3° de bedragen VOWprof en VOWac worden verhoudingsgewijs verminderd met de bedragen die nodig zijn om de kosten te dekken van de kinderbijslagen van de personeelsleden van de hogescholen, en met de bedragen die nodig zijn om de salariskosten te dekken van hun benoemde personeelsleden die tijdens het voorgaande begrotingsjaar met bevallingsverlof waren en van hun benoemde en tijdelijke personeelsleden die tijdens het voorgaande begrotingsjaar met opvangverlof voor adoptie of pleegvoogdij waren, voor wat de duur van dat bevallings- of opvangverlof betreft.</p>
+
+<p>§ 2. De bedragen, vermeld in § 1, volgen vanaf het begrotingsjaar 2008 de evolutie van de gezondheidsindex.</p>
+
+<p>§ 3. De bedragen voor de verhoging van het vakantiegeld van de personeelsleden van de hogescholen, die naar aanleiding van cao II worden toegevoegd aan de enveloppe van de hogescholen, worden verdeeld volgens het aandeel van elke hogeschool in de som van de effectieve werkingsuitkeringen van alle hogescholen.</p>
+
+<p>§ 4. Het bedrag van VOWprof wordt verminderd met het bedrag voor de financiering van de voortgezette lerarenopleidingen die niet tot bachelor-na-bacheloropleidingen zijn omgevormd. Vanaf het begrotingsjaar 2007 ontvangen de hogescholen die een voortgezette lerarenopleiding organiseren waaruit geen bachelor-na-bacheloropleiding is ontstaan, per in het vorig academiejaar afgeleverd diploma 1944,79 euro. Als het totale bedrag meer dan 317.000,77 euro bedraagt, dan wordt dit bedrag verdeeld over de hogescholen op basis van het aantal in het vorig academiejaar afgeleverde diploma's. Deze bedragen worden jaarlijks aangepast op de wijze bepaald in artikel 9 van dit decreet.</p>
+
+<p>§ 5. Voor de begrotingsjaren 2008 en 2009 wordt een bedrag van 1.000.000 euro voorzien voor de hogescholen met opleidingen in de studiegebieden Audiovisuele en beeldende kunst en Muziek en podiumkunsten. Dit bedrag wordt als volgt verdeeld over de hogescholen die opleidingen in deze studiegebieden aanbieden : 1° van het totale bedrag van 1.000.000 euro wordt een bedrag voorafgenomen om elke hogeschool in het variabel onderwijsdeel minimaal het bedrag te garanderen dat haar academisch gerichte opleidingen bij de berekening van de werkingsuitkering voor het begrotingsjaar 2007 genereerden. Het gaat om de volgende bedragen (uitgedrukt in euro) :</p>
 
 <table border="1" cellpadding="0" cellspacing="0" style="border-collapse:collapse">
 	<tbody>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:230.3pt">
-			<p>a. Erasmushogeschool Brussel:<!--?xml:namespace prefix = o ns =         "urn:schemas-microsoft-com:office:office" /--></p>
+			<td style="border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:230.3pt">
+			<p>a. Erasmushogeschool Brussel:</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:230.3pt">
+			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:230.3pt">
 			<p>8.672.045,02</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<td style="border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:230.3pt">
 			<p>b. Hogeschool Antwerpen:</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:230.3pt">
 			<p>10.929.576,74</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<td style="border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:230.3pt">
 			<p>c. Hogeschool gent:</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:230.3pt">
 			<p>10.188.445,78</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<td style="border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:230.3pt">
 			<p>d. Hogeschool Sint-Lukas Brussel:</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:230.3pt">
 			<p>5.112.051,45</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<td style="border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:230.3pt">
 			<p>e. Hogeschool voor Wetenschap &amp; Kunst:</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:230.3pt">
 			<p>10.944.324,46</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<td style="border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:230.3pt">
 			<p>f. Karel de Grote Hogeschool:</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:230.3pt">
 			<p>4.077.011,92</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<td style="border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:230.3pt">
 			<p>g. Katholieke Hogeschool Limburg:</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:230.3pt">
 			<p>3.686.317,67</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<td style="border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:230.3pt">
 			<p>h. Provinciale Hogeschool Limburg:</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:230.3pt">
 			<p>2.851.809,72</p>
 			</td>
 		</tr>
 	</tbody>
 </table>
 
-<p>&nbsp;</p>
+<p>&nbsp; 2° het eventuele resterende bedrag wordt verdeeld op basis van het aandeel van de instellingen in financieringspunten, gegenereerd door opgenomen en verworven studiepunten in de academisch gerichte opleidingen in deze studiegebieden. Bij de berekening van het aantal financieringspunten kunnen de maxima voor opgenomen en verworven studiepunten, zoals vastgelegd in artikel 23, § 4, niet overschreden worden. De bedragen vermeld in deze paragraaf worden vanaf het begrotingsjaar 2008 geïndexeerd aan de hand van de indexformule, vermeld in artikel 9, § 5.</p>
+
+<p>§ 6. Volgende bedragen, uitgedrukt in euro, worden als aanvullende uitkering toegevoegd aan de werkingsuitkering van EHSAL, Europese Hogeschool Brussel :</p>
+
+<table border="1" cellpadding="0" cellspacing="0" style="border-collapse:collapse">
+	<tbody>
+		<tr>
+			<td style="border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:230.3pt">
+			<p>Begrotingsjaar 2008</p>
+			</td>
+			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:230.3pt">
+			<p>390.777,68</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:230.3pt">
+			<p>Begrotingsjaar 2009</p>
+			</td>
+			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:230.3pt">
+			<p>1.451.459,94</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:230.3pt">
+			<p>Begrotingsjaar 2010</p>
+			</td>
+			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:230.3pt">
+			<p>1.451.459,94</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:230.3pt">
+			<p>Begrotingsjaar 2011</p>
+			</td>
+			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:230.3pt">
+			<p>1.161.167,95</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:230.3pt">
+			<p>Begrotingsjaar 2012</p>
+			</td>
+			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:230.3pt">
+			<p>870.875,96</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:230.3pt">
+			<p>Begrotingsjaar 2013</p>
+			</td>
+			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:230.3pt">
+			<p>580.583,98</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:230.3pt">
+			<p>Begrotingsjaar 2014</p>
+			</td>
+			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:230.3pt">
+			<p>290.291,99</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
 
 <p>&nbsp;</p>
-
-<p>2° het eventuele resterende bedrag wordt verdeeld op basis van het aandeel van de instellingen in financieringspunten, gegenereerd door opgenomen en verworven studiepunten in de academisch gerichte opleidingen in deze studiegebieden. Bij de berekening van het aantal financieringspunten kunnen de maxima voor opgenomen en verworven studiepunten, zoals vastgelegd in artikel 23, § 4, niet overschreden worden.<br>
 <br>
-De bedragen vermeld in deze paragraaf worden vanaf het begrotingsjaar 2008 geïndexeerd aan de hand van de indexformule, vermeld in artikel 9, § 5.<br>
-&nbsp;</p>
+Vanaf het begrotingsjaar 2009 worden de bedragen vermeld in het eerste lid, geïndexeerd aan de hand van de indexformule, vermeld in artikel 9, § 5.
 
 ### ART. 36.
 
@@ -1460,7 +1575,7 @@ De bedragen vermeld in deze paragraaf worden vanaf het begrotingsjaar 2008 geïn
 		</tr>
 		<tr>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:329.4pt">
-			<p>15° Groep T – Leuven Hogeschool</p>
+			<p>15° GROEP T - Internationale Hogeschool Leuven</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:131.2pt">
 			<p>563.422,31</p>
@@ -1635,6 +1750,22 @@ Vanaf het begrotingsjaar 2008 ontvangt iedere associatie jaarlijks een toelage v
 § 1. In het kader van het Aanmoedigingsfonds sluiten de hogescholen en de universiteiten met de Vlaamse Regering een beheersovereenkomst met een looptijd van vijf jaar. De eerste overeenkomst moet gesloten worden voor 1 juli 2008. Die beheersoverkomst past in het strategische onderwijsplan van de instellingen.<br /><br />§ 2. In die beheersovereenkomst worden ten minste de volgende zaken afgesproken :<br />1° de doelstellingen die de instelling wil realiseren in het kader van de beleidsdoelstelling, vermeld in artikel 43, § 1, en de onderliggende visie;<br />2° de prestaties die de instelling zal leveren om de doelstellingen te behalen;<br />3° de concrete resultaten en effecten die nagestreefd worden;<br />4° een tijdspad waarop de belangrijkste mijlpalen zijn aangegeven;<br />5° een voorstel van evaluatiecriteria waarmee de mate van succes gemeten kan worden;<br />6° de ingezette middelen;<br />7° de wijze van verantwoording;<br />8° de wijze waarop de doelgroepen structureel worden betrokken.<br /><br />§ 3. In afwijking van § 1 hebben de beheersovereenkomsten die gesloten zijn vóór 1 juli 2008 een looptijd van drie jaar.<br /><br />§ 4. Tijdens het laatste jaar van de looptijd van de beheersovereenkomsten vindt een evaluatie plaats van de uitvoering van de beheersovereenkomsten. De resultaten van die evaluatie worden meegenomen bij het opstellen van de volgende beheersovereenkomsten.<br /><br />§ 5. De Vlaamse Regering wint het advies in van onafhankelijke deskundigen die de beheersovereenkomsten toetsen op de deugdelijkheid ervan en die de realisatie van de beheersovereenkomsten in het laatste jaar van hun looptijd evalueren.<br /><br />
 
 ## HOOFDSTUK IV Het leerkrediet
+
+### ART. 46.
+
+§ 1. Vanaf het academiejaar 2008-2009 krijgt elke student bij inschrijving in een hogeschool of universiteit, ongeacht of het gaat om een diploma-, een credit- of een examencontract, een eenmalig individueel leerkrediet van 140 studiepunten. Het leerkrediet wordt ingezet in:<br />1° de initiële bachelor- en masteropleidingen, opgenomen in het Hoger Onderwijsregister door studenten onder diplomacontract;<br />2° een of meer opleidingsonderdelen door studenten onder creditcontract.<br /><br />§ 2. Bij elke inschrijving in een academiejaar t-1/t wordt het aantal studiepunten waarvoor een student zich heeft ingeschreven in het desbetreffende academiejaar afgetrokken van het individuele leerkrediet van de student.<br /><br />§ 3. De studiepunten, verworven in het academiejaar t-1/t, worden aan het individuele leerkrediet van de student toegevoegd.<br /><br />Voor de vaststelling van het aantal verworven studiepunten wordt het aantal studiepunten in aanmerking genomen waarvoor de student een creditbewijs ontvangen heeft.<br /><br />De eerste 60 verworven studiepunten door een student onder diplomacontract worden eenmalig dubbel aangerekend.<br /><br />
+
+### ART. 47.
+
+§ 1. Voor de berekening van de omvang van het individuele leerkrediet van een student bij de start van een academiejaar t/t+1 worden het aantal opgenomen en het aantal verworven studiepunten gerekend over het academiejaar t-1/t. Wijzigingen van het aantal opgenomen studiepunten kunnen verwerkt worden in het individueel leerkrediet van de student tot op de data, vermeld in artikel 8.<br /><br />§ 2. Met behoud van de toepassing van de bepalingen in § 1 wordt bij een generatiestudent die in de loop van hetzelfde academiejaar verandert van opleiding :<br />1° het aantal opgenomen studiepunten opnieuw toegevoegd aan het individuele leerkrediet als de student verandert voor 1 december van het desbetreffende academiejaar;<br />2° de helft van het aantal opgenomen studiepunten, afgerond naar het bovenliggende geheel getal, opnieuw toegevoegd aan het individuele leerkrediet als de student verandert tussen 1 december en 15 maart van het desbetreffende academiejaar;<br />3° het aantal opgenomen studiepunten afgetrokken van het leerkrediet als de student verandert na 15 maart van het desbetreffende academiejaar.<br /><br />
+
+### ART. 48.
+
+Een hogeschool of universiteit kan de inschrijving van een student weigeren als hij een leerkrediet heeft dat kleiner of gelijk is aan nul.<br /><br />In afwijking van het eerste lid kan het instellingsbestuur een student met een leerkrediet kleiner dan of gelijk aan nul niet weigeren voor de inschrijving voor een initiële masteropleiding als de student voldoet aan de toelatingsvoorwaarden voor deze masteropleiding, vermeld in titel III, hoofdstuk III, afdeling 2, onderafdeling 2, van het Flexibiliseringsdecreet en nog niet eerder een masterdiploma behaalde.<br /><br />
+
+### ART. 49.
+
+Bij het behalen van een diploma voor een initiële masteropleiding wordt het individuele leerkrediet van de student verminderd met 140 studiepunten. Bij een positief saldo kan de student het resterende leerkrediet opnieuw aanwenden voor een inschrijving in een initiële bachelor- of masteropleiding. Als het saldo van het resterende leerkrediet minder dan 60 studiepunten bedraagt, kan de student zijn leerkrediet eenmalig opnieuw opbouwen tot maximaal 60 studiepunten. Vanaf het academiejaar dat volgt op het academiejaar waarin hij zijn masterdiploma behaald heeft, worden elk academiejaar 10 studiepunten toegevoegd aan het individuele leerkrediet. Met behoud van de toepassing van de bepalingen van de derde en vierde volzin, krijgt een student onder diplomacontract bij de start van het academiejaar dat volgt op het academiejaar waarin hij zijn masterdiploma heeft behaald, eenmalig en bij wijze van overgangsmaatregel het verschil tussen 60 en het aantal opgenomen studiepunten in een opleiding bedoeld in artikel 46, § 1, 1°, waarvoor hij vanaf het academiejaar 2008-2009 een inschrijving heeft genomen, extra bij het saldo van het leerkrediet. Deze regeling geldt voor zover de student al in het academiejaar 2007-2008 in de desbetreffende masteropleiding ingeschreven was en op voorwaarde dat hij vanaf het academiejaar 2008-2009 het initiële masterdiploma behaalt en vanaf datzelfde academiejaar minder dan 60 studiepunten heeft opgenomen.<br /><br />Als het individueel leerkrediet van een student die nog geen masterdiploma behaald heeft en geen inschrijvingen meer heeft in het hoger onderwijs, zoals bedoeld in artikel 46, § 1, minder dan 60 studiepunten bedraagt, kan hij in het kader van levenslang leren zijn leerkrediet eenmalig opnieuw opbouwen tot maximaal 60 studiepunten behalve indien zijn leerkrediet al eerder aangevuld is geweest in toepassing van het derde lid. Vanaf het academiejaar waarin hij geen inschrijvingen meer heeft in het hoger onderwijs zoals bedoeld in artikel 46, § 1, worden daartoe elk academiejaar 10 studiepunten toegevoegd aan het individuele leerkrediet. Het aldus opgebouwde leerkrediet kan opnieuw aangewend worden voor een inschrijving in een initiële bachelor- of masteropleiding.<br /><br />Als een student die een diploma behaald heeft in het hoger beroepsonderwijs, op het moment van herinschrijving in het hoger onderwijs, een leerkrediet heeft dat minder dan 60 studiepunten bedraagt, dan wordt het leerkrediet van de betreffende student aangevuld tot 60 studiepunten behalve indien de student al een masterdiploma heeft behaald.<br /><br />In het kader van een opnieuw opgebouwd leerkrediet met toepassing van de bepalingen in dit artikel worden de eerste 60 verworven studiepunten niet dubbel aangerekend.
 
 ## HOOFDSTUK V Rationalisatie van het opleidingenaanbod
 
