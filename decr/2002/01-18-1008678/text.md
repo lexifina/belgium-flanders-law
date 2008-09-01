@@ -6,7 +6,7 @@ Dit decreet regelt een gemeenschapsaangelegenheid.
 
 ### ART. 2.
 
-Dit decreet is van toepassing op het voltijds gewoon en buitengewoon secundair onderwijs. De Vlaamse regering kan de inrichtende machten die deelnemen aan een experiment inzake onderwijsorganisatie voor de duur van dit experiment en uitsluitend voor de bij het experiment betrokken structuuronderdelen uitsluiten van de bepalingen van dit decreet inzake specifieke eindtermen.
+Dit decreet is van toepassing op het voltijds gewoon en buitengewoon secundair onderwijs. De Vlaamse regering kan de inrichtende machten die deelnemen aan een experiment inzake onderwijsorganisatie voor de duur van dit experiment en uitsluitend voor de bij het experiment betrokken structuuronderdelen uitsluiten van de bepalingen van dit decreet inzake specifieke eindtermen.<br /><br />De bepalingen van dit decreet met betrekking tot eindtermen, leerplannen en afwijkingsprocedure, met uitzondering van het vak lichamelijke opvoeding, zijn vanaf het schooljaar 2008-2009 ook van toepassing op de algemene vorming van het deeltijds beroepssecundair onderwijs respectievelijk op de algemene vorming van de leertijd. Voor wat de vakoverschrijdende eindtermen evenwel betreft, zijn de bepalingen van dit decreet van toepassing uiterlijk vanaf het schooljaar 2009-2010.
 
 ## HOOFDSTUK I TOTSTANDKOMING
 
