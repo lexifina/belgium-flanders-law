@@ -38,17 +38,101 @@ Artikel 44bis van hetzelfde decreet, gewijzigd bij de decreten van 15 juli 1997,
 
 In artikelen 78 en 125quinquies van hetzelfde decreet worden de woorden « het departement » telkens vervangen door het woord « Agodi ».<br /><br />
 
+### ART. II.8.
+
+Artikel 86 van hetzelfde decreet, vervangen bij het decreet van 15 juli 2005, wordt vervangen door wat volgt :<br />« Artikel 86<br />§ 1. Het werkingsbudget wordt ieder schooljaar per school berekend op basis van het aantal regelmatige leerlingen ingeschreven op de eerste schooldag van februari van het voorgaande schooljaar.<br /><br />§ 2. In afwijking van § 1 is de teldag voor de berekening van het werkingsbudget voor scholen in programmatie de eerste schooldag van oktober van het lopende schooljaar.<br /><br />Die teldag geldt in het gewoon basisonderwijs voor de hele school voor het schooljaar van oprichting en voor de vijf daaropvolgende schooljaren.<br /><br />Die teldag geldt in het buitengewoon basisonderwijs voor de hele school voor het schooljaar van oprichting en voor de twee daaropvolgende schooljaren.<br /><br />§ 3. In afwijking van § 1 is de teldag voor de berekening van het werkingsbudget voor scholen die betrokken zijn bij een herstructurering de eerste schooldag van oktober van het lopende schooljaar.<br /><br />§ 4. Voor de toepassing van dit artikel op CKG-scholen en op scholen voor type 5 worden de woorden « de eerste schooldag van oktober » telkens gelezen als de woorden « de maand september » en wordt het woord « teldag » telkens gelezen als het woord « telperiode ».<br /><br />Voor de toepassing van dit artikel op CKG-scholen en scholen voor type 5 worden de woorden « op basis van het aantal regelmatige leerlingen, ingeschreven op de eerste schooldag van februari » gelezen als de woorden « op basis van het gemiddeld aantal regelmatige leerlingen, ingeschreven tijdens de periode van twaalf maanden die voorafgaat aan de eerste schooldag van februari ».<br /><br />§ 5. Het werkingsbudget van een school voor type 5 kan alleen volledig worden aangewend als een door de regering vastgelegd gemiddelde van onderwijsdagen per kind gedurende de telperiode wordt bereikt.<br /><br />Als dat gemiddelde niet wordt bereikt, dan wordt het werkingsbudget evenredig verminderd. ».<br /><br />
+
 ### ART. II.9.
 
 In artikelen 88 en 105 van hetzelfde decreet wordt het woord « DIGO » vervangen door het woord « Agion ».<br /><br />
+
+### ART. II.10.
+
+In hetzelfde decreet, het laatst gewijzigd bij het decreet van 15 december 2006, wordt in hoofdstuk VIII - Programmatie en rationalisatie van scholen, in afdeling 2 - Programmatie, het opschrift van « Onderafdeling A - Oprichten van scholen » vervangen door « Onderafdeling A - Programmatie van scholen ».<br /><br />
+
+### ART. II.11.
+
+In artikel 102 van hetzelfde decreet, vervangen bij het decreet van 10 juli 2003, worden de volgende wijzigingen aangebracht :<br />1° in § 2 worden de woorden « en vierde » vervangen door de woorden « , vierde, vijfde en zesde »;<br />2° er wordt een § 3 toegevoegd, die luidt als volgt :<br />« § 3. Voor de toepassing van dit artikel op CKG-scholen worden de woorden « op de eerste schooldag van oktober » telkens gelezen als de woorden « tijdens de maand september ». ».<br /><br />
+
+### ART. II.12.
+
+In hetzelfde decreet, het laatst gewijzigd bij het decreet van 15 december 2006, wordt een artikel 105bis ingevoegd, dat luidt als volgt :<br />« Artikel 105bis <br />Bij het vastleggen van de verschillende programmatienormen neemt de regering de volgende principes in acht :<br />1° de programmatienormen zijn verschillend naargelang de bevolkingsdichtheid van de gemeenten;<br />2° a) voor het gewoon basisonderwijs worden programmatienormen vastgelegd voor de eerste zes bestaansjaren;<br />b) voor het buitengewoon basisonderwijs worden programmatienormen vastgelegd voor de eerste drie bestaansjaren;<br />3° a) de programmatienormen voor het gewoon basisonderwijs liggen tussen 25 en 165 leerlingen;<br />b) de programmatienormen voor het buitengewoon basisonderwijs liggen tussen 5 en 180 leerlingen. ».<br /><br />
+
+### ART. II.13.
+
+In hetzelfde decreet, het laatst gewijzigd bij het decreet van 15 december 2006, wordt in hoofdstuk VIII - Programmatie en rationalisatie van scholen, in afdeling 2 - Programmatie, het opschrift van « Onderafdeling C - Oprichten van vestigingsplaatsen » vervangen door « Afdeling 2bis - Oprichten van vestigingsplaatsen, niveaus of types. Onderafdeling A - Oprichten van vestigingsplaatsen ».<br /><br />
+
+### ART. II.14.
+
+Artikel 108bis van hetzelfde decreet, ingevoegd bij het decreet van 10 juli 2003 en gewijzigd bij decreet van 7 juli 2006, wordt vervangen door wat volgt :<br />« Artikel 108bis <br />§ 1. Elke school voor gewoon kleuter-, lager-, of basisonderwijs die op de eerste schooldag van februari van het voorgaande schooljaar voldoet aan de door de regering vastgelegde rationalisatienormen, mag één of meer vestigingsplaatsen oprichten. Daartoe moeten de school en al haar reeds bestaande vestigingsplaatsen en niveaus op de eerste schooldag van oktober van het oprichtingsjaar van de nieuwe vestigingsplaatsen de door de regering vastgelegde rationalisatienormen bereiken en moeten de nieuwe vestigingsplaatsen de door de regering vastgelegde rationalisatienormen bereiken.<br /><br />§ 2. In afwijking van § 1 kan een school voor gewoon basisonderwijs in programmatie, vanaf het tweede jaar dat ze opgenomen is in de financierings- of subsidieregeling, één of meer vestigingsplaats(en) oprichten. In voorkomend geval gelden de programmatienormen.<br /><br />§ 3. Voor de toepassing van dit artikel op CKG-scholen worden de woorden « op de eerste schooldag van oktober » telkens gelezen als de woorden « tijdens de maand september » en worden de woorden « op de eerste schooldag van februari » gelezen als de woorden « tijdens de periode van twaalf maanden die voorafgaat aan de eerste schooldag van februari. ». »<br /><br />
+
+### ART. II.15.
+
+Artikel 109 van hetzelfde decreet, gewijzigd bij decreet van 13 juli 2001, wordt vervangen door wat volgt :<br />« Artikel 109<br />§ 1. Elke school voor buitengewoon basisonderwijs die op de eerste schooldag van februari van het voorgaande schooljaar voldoet aan de door de regering vastgelegde rationalisatienormen, mag binnen een afstand van minder dan twee kilometer van de administratieve vestigingsplaats één of meer vestigingsplaats(en) oprichten.<br /><br />§ 2. Elke school voor buitengewoon basisonderwijs die op de eerste schooldag van februari van het voorgaande schooljaar voldoet aan de door de regering vastgelegde rationalisatienormen, mag op een afstand van twee kilometer en meer van de administratieve vestigingsplaats één of meer vestigingsplaats(en) oprichten. Daartoe moeten de school al haar reeds bestaande types in scholen en al haar reeds bestaande types in vestigingsplaatsen op de eerste schooldag van oktober van het oprichtingsjaar van de nieuwe vestigingsplaatsen de door de regering vastgelegde rationalisatienormen bereiken en moeten de types in de nieuwe vestigingsplaatsen de door de regering vastgelegde rationalisatienormen bereiken.<br /><br />§ 3. In afwijking van § 1 en § 2 kan een school voor buitengewoon basisonderwijs in programmatie vanaf het tweede jaar, dat ze opgenomen is in de financierings- of subsidieregeling één of meer vestigingsplaats(en) oprichten. In voorkomend geval gelden de programmatienormen.<br /><br />§ 4. Onverminderd de bepalingen in § 1, § 2 en § 3 kan een school voor type 5 pas een nieuwe vestigingsplaats oprichten na goedkeuring door de regering.<br /><br />§ 5. Voor de toepassing van dit artikel op een school voor type 5 worden de woorden « op de eerste schooldag van oktober » telkens gelezen als de woorden « tijdens de maand september » en worden de woorden « op de eerste schooldag van februari » gelezen als de woorden « tijdens de periode van twaalf maanden die voorafgaat aan de eerste schooldag van februari. ».<br /><br />
+
+### ART. II.16.
+
+In hetzelfde decreet, het laatst gewijzigd bij het decreet van 15 december 2006, wordt in hoofdstuk VIII - Programmatie en rationalisatie van scholen, in afdeling 2 - Programmatie, het opschrift van « Onderafdeling D - Oprichten van een niveau » vervangen door « Onderafdeling B - Oprichten van een niveau ».<br /><br />
+
+### ART. II.17.
+
+Artikel 110 van hetzelfde decreet, gewijzigd bij decreet van 20 oktober 2000, wordt vervangen door wat volgt :<br />« Artikel 110<br />§ 1. Elke gefinancierde of gesubsidieerde school of vestigingsplaats die alleen gewoon lager onderwijs of alleen gewoon kleuteronderwijs organiseert, kan gefinancierde of gesubsidieerde basisschool of vestigingsplaats basisonderwijs worden. Daartoe moeten de school en elke vestigingsplaats of niveau van de school op de eerste schooldag van oktober van het oprichtingsjaar van het nieuwe niveau de door de regering vastgelegde rationalisatienormen bereiken en moet het nieuw opgerichte niveau de door de regering vastgelegde rationalisatienormen bereiken.<br /><br />§ 2. Elke gefinancierde of gesubsidieerde school die alleen buitengewoon lager onderwijs organiseert of alleen buitengewoon kleuteronderwijs organiseert, kan voor de door haar georganiseerde types basisschool worden. Daartoe moeten de school en elk type in de school en elk type in de vestigingsplaatsen van de school op de eerste schooldag van oktober van het oprichtingsjaar van het nieuwe niveau de door de regering vastgelegde rationalisatienormen bereiken.<br /><br />§ 3. In afwijking van § 2 kan een school voor buitengewoon basisonderwijs in programmatie vanaf het tweede jaar, dat ze opgenomen is in de financierings- of subsidieregeling een niveau oprichten. In voorkomend geval gelden de programmatienormen.<br /><br />§ 4. Voor de toepassing van dit artikel op CKG-scholen en op scholen voor type 5 worden de woorden « op de eerste schooldag van oktober » telkens gelezen als de woorden « tijdens de maand september. ». »<br /><br />
+
+### ART. II.18.
+
+In hetzelfde decreet, het laatst gewijzigd bij het decreet van 15 december 2006, wordt in hoofdstuk VIII - Programmatie en rationalisatie van scholen, in afdeling 2 - Programmatie, het opschrift van « Onderafdeling E - Oprichten van een type » vervangen door « Onderafdeling C - Oprichten van een type ».<br /><br />
+
+### ART. II.19.
+
+Artikel 111 van hetzelfde decreet, gewijzigd bij het decreet van 20 oktober 2000, wordt vervangen door wat volgt :<br />« Artikel 111<br />§ 1. Met uitzondering van de scholen voor type 5, kan een school voor buitengewoon onderwijs die voldoet aan de rationalisatienorm, per 1 september een nieuw type oprichten, met uitzondering van type 5, op voorwaarde dat :<br />1° de school als geheel op de eerste schooldag van oktober van het lopende schooljaar voldoet aan de door de regering vastgelegde rationalisatienormen;<br />2° het opgerichte type op de eerste schooldag van oktober van het oprichtingsjaar voldoet aan de door de regering vastgelegde rationalisatienorm.<br /><br />§ 2. In afwijking van § 1 kan een school voor buitengewoon basisonderwijs, met uitzondering van de scholen voor type 5, in programmatie vanaf het tweede jaar, dat ze opgenomen is in de financierings- of subsidieregeling één of meer types, met uitzondering van type 5, oprichten op voorwaarde dat de school het voorgaande schooljaar voldeed aan de door de regering vastgelegde programmatienormen. In dat geval zijn de programmatienormen van toepassing. ».<br /><br />
+
+### ART. II.20.
+
+In hetzelfde decreet, het laatst gewijzigd bij het decreet van 15 december 2006, wordt in hoofdstuk VIII - Programmatie en rationalisatie van scholen, in afdeling 2 - Programmatie, het opschrift van « Onderafdeling F - Omvorming van een type » vervangen door « Onderafdeling D - Oprichten van een type door omvorming ».<br /><br />
+
+### ART. II.21.
+
+In artikel 112 van hetzelfde decreet, gewijzigd bij decreet van 20 oktober 2000, worden de volgende wijzigingen aangebracht :<br />1° in § 1 wordt het woord « programmatienorm » vervangen door het woord « rationalisatienorm »;<br />2° er wordt een § 6 toegevoegd die luidt als volgt :<br />« § 6. In een school kunnen, gedurende de programmatieperiode geen types omgevormd worden. ».<br /><br />
+
+### ART. II.22.
+
+In hetzelfde decreet, het laatst gewijzigd bij het decreet van 15 december 2006, wordt in hoofdstuk VIII - Programmatie en rationalisatie van scholen, in afdeling 2 - Programmatie, onderafdeling G - programmatienormen, bestaande uit artikel 113 opgeheven.<br /><br />
+
+### ART. II.23.
+
+Artikel 114 van hetzelfde decreet wordt vervangen door wat volgt :<br />« Artikel 114<br />§ 1. De teldag voor de rationalisatie is de eerste schooldag van februari van het voorgaande schooljaar.<br /><br />§ 2. In afwijking van § 1 is de teldag voor het behalen van de rationalisatienormen voor scholen die betrokken zijn bij een herstructurering of voor scholen die door een beslissing van de regering moeten afbouwen, de eerste schooldag van oktober van het lopende schooljaar. In het geval van een herstructurering geldt deze teldag voor het schooljaar van de herstructurering, in het geval van afbouw geldt deze teldag voor de duur van de afbouw.<br /><br />§ 3. Voor de toepassing van dit artikel op CKG-scholen en op scholen voor type 5 wordt het woord « teldag » telkens gelezen als het woord « telperiode » en worden de woorden « eerste schooldag van februari » telkens gelezen als de woorden « periode van twaalf maanden die voorafgaat aan de eerste schooldag van februari ».<br /><br />Voor de toepassing van dit artikel op CKG-scholen en op scholen voor type 5 worden de woorden « de eerste schooldag van oktober » telkens gelezen als de woorden « de maand september ». ».<br /><br />
 
 ### ART. II.24.
 
 Artikel 115 van hetzelfde decreet wordt vervangen door wat volgt :<br />« Artikel 115<br />Scholen, vestigingsplaatsen, niveaus of types die op de teldag, zoals bepaald in artikel 114, niet aan de voor hen geldende rationalisatienormen of behoudsnormen voldoen blijven gesubsidieerd of gefinancierd als op de vorige teldag de volgende voorwaarden vervuld waren :<br />1° de school in haar geheel voldeed aan de rationalisatienormen of behoudsnormen;<br />2° elke vestigingsplaats, elk niveau, elk type van de school en elk type van de vestigingsplaatsen voldeden aan de voor hen geldende rationalisatienormen of behoudsnormen. ».<br /><br />
 
+### ART. II.25.
+
+Artikel 116 van hetzelfde decreet wordt vervangen door wat volgt :<br />« Artikel 116<br />In afwijking van de rationalisatienormen kan een gefinancierde of gesubsidieerde school voor buitengewoon onderwijs die twee of meer types organiseert, deze types behouden, wanneer de school als geheel op de eerste schooldag van februari van het voorgaande schooljaar de door de regering vastgestelde rationalisatienormen bereikt en elk type afzonderlijk op de eerste schooldag van februari van het voorgaande schooljaar de door de regering vastgelegde behoudsnorm bereikt.<br /><br />Types die door de regering vastgelegde behoudsnormen niet bereiken, worden met ingang van 1 september van het daaropvolgende schooljaar niet langer gefinancierd of gesubsidieerd. ».<br /><br />
+
+### ART. II.26.
+
+In artikel 117 van hetzelfde decreet wordt het tweede lid opgeheven.<br /><br />
+
+### ART. II.27.
+
+In artikel 118, § 1, van hetzelfde decreet wordt het tweede lid opgeheven.<br /><br />
+
 ### ART. II.28.
 
 In artikel 120, § 2, eerste lid, en § 3, eerste lid, van hetzelfde decreet worden tussen de woorden « van dezelfde groep » en de woorden « waar onderwijs van hetzelfde niveau gegeven wordt » de woorden « en van hetzelfde taalstelsel » ingevoegd.<br /><br />
+
+### ART. II.29.
+
+Artikel 122 van hetzelfde decreet, gewijzigd bij het decreet van 20 oktober 2000, wordt opgeheven.<br /><br />
+
+### ART. II.30.
+
+Artikel 123 van hetzelfde decreet, gewijzigd bij het decreet van 20 oktober 2000, wordt opgeheven.<br /><br />
+
+### ART. II.31.
+
+In artikel 124, 5°, van hetzelfde decreet worden tussen de woorden « van type 5 » en de woorden « het gemiddelde » de woorden « en voor een CKG-school » ingevoegd.<br /><br />
 
 ### ART. II.32.
 
@@ -66,6 +150,26 @@ In hetzelfde decreet, het laatst gewijzigd bij het decreet van 15 december 2006,
 
 Artikel 126bis van hetzelfde decreet wordt opgeheven.<br /><br />
 
+### ART. II.36.
+
+In artikel 129 van hetzelfde decreet, vervangen bij het decreet van 14 juli 1998, worden de volgende wijzigingen aangebracht :<br />1° in § 1 worden tussen de woorden « fusie » en « kan » de woorden « met uitzondering van scholen voor type 5 » ingevoegd;<br />2° in § 1, 1°, worden tussen de woorden « de rationalisatienorm » en het woord « ligt » de woorden « voor scholen » ingevoegd.<br /><br />
+
+### ART. II.37.
+
+Artikel 131 van hetzelfde decreet wordt opgeheven.<br /><br />
+
+### ART. II.38.
+
+Artikel 132 van hetzelfde decreet, gewijzigd bij de decreten van 20 oktober 2000, 13 juli 2001 en 10 juli 2003, wordt vervangen door wat volgt :<br />« Artikel 132<br />§ 1. De lestijden volgens de schalen worden ieder schooljaar per school berekend op basis van het aantal regelmatige leerlingen ingeschreven op de eerste schooldag van februari van het voorgaande schooljaar en aan de hand van de lestijdenschalen die door de regering worden vastgelegd.<br /><br />§ 2. In afwijking van § 1 is de teldag voor de berekening van de lestijden volgens de schalen voor scholen in het gewoon onderwijs in programmatie de eerste schooldag van oktober van het lopende schooljaar. Die teldag geldt voor de hele school voor het schooljaar van oprichting en voor de vijf daaropvolgende schooljaren.<br /><br />§ 3. In afwijking van § 1 is de teldag voor de berekening van de lestijden volgens de schalen voor scholen in het buitengewoon onderwijs in programmatie de eerste schooldag van oktober van het lopende schooljaar. Die teldag geldt voor de hele school voor het schooljaar van oprichting en voor de twee daaropvolgende schooljaren.<br /><br />§ 4. In afwijking van § 1 is de teldag voor de berekening van de lestijden volgens de schalen voor scholen die betrokken zijn bij een herstructurering de eerste schooldag van oktober van het lopende schooljaar.<br /><br />§ 5. Voor de toepassing van dit artikel op CKG-scholen en op scholen voor type 5 worden de woorden « de eerste schooldag van oktober » telkens gelezen als de woorden « de maand september » en wordt het woord « teldag » telkens gelezen als het woord « telperiode ».<br /><br />Voor de toepassing van dit artikel op CKG-scholen en op scholen voor type 5 worden de woorden « op basis van het aantal regelmatige leerlingen ingeschreven op de eerste schooldag van februari » gelezen als de woorden « op basis van het gemiddeld aantal regelmatige leerlingen, ingeschreven tijdens de periode van twaalf maanden die voorafgaat aan de eerste schooldag van februari ».<br /><br />§ 6. De lestijden volgens de schalen van een school voor type 5 kunnen slechts volledig worden aangewend als een door de regering vastgelegd gemiddelde van onderwijsdagen per kind gedurende de telperiode wordt bereikt.<br /><br />Als dat gemiddelde niet wordt bereikt, dan worden de lestijden volgens de schalen evenredig verminderd.<br /><br />§ 7. In afwijking van § 1 is het aantal lestijden volgens de schalen voor scholen voor type 5 die betrokken zijn bij of die ontstaan zijn door een fusie gelijk aan de som van de lestijdenpakketten van de betrokken scholen. ».<br /><br />
+
+### ART. II.39.
+
+Artikel 133 van hetzelfde decreet, gewijzigd bij het decreet van 20 oktober 2000, wordt opgeheven.<br /><br />
+
+### ART. II.40.
+
+Artikel 134 van hetzelfde decreet, gewijzigd bij het decreet van 7 juli 2006, wordt opgeheven.<br /><br />
+
 ### ART. II.41.
 
 Aan artikel 138 van hetzelfde decreet wordt in § 1 een punt 8° toegevoegd, dat luidt als volgt :<br />« 8° lestijden voor het voeren van een gelijkekansenbeleid in het kader van de kleuterparticipatie, verder « GOK+lestijden » genoemd. ».<br /><br />
@@ -78,6 +182,14 @@ In hetzelfde decreet wordt artikel 139novies vervangen door de volgende bepaling
 
 Artikel 142, § 2, van hetzelfde decreet, vervangen bij het decreet van 14 februari 2003, wordt vervangen door wat volgt :<br />« § 2. De overdracht van lestijden moet vóór 15 oktober van het lopende schooljaar gebeuren. De regering kan de soorten lestijden bepalen waarbij van deze datum afgeweken wordt. ».<br /><br />
 
+### ART. II.44.
+
+In artikel 146, § 1, van hetzelfde decreet worden tussen het woord « school » en de woorden « een aantal » de woorden « , met uitzondering van scholen voor type 5, » en tussen de woorden « vereiste rationalisatienorm » en het woord « ligt » de woorden « voor scholen » toegevoegd.<br /><br />
+
+### ART. II.45.
+
+In artikel 148 van hetzelfde decreet, gewijzigd bij decreet van 14 juli 1998, worden de woorden « de artikelen 131, 132 en 133 » vervangen door de woorden « het artikel 132 ».<br /><br />
+
 ### ART. II.46.
 
 In artikel l53sexies van hetzelfde decreet, ingevoegd bij het decreet van 10 juli 2003 en gewijzigd bij de decreten van 15 juli 2005 en 7 juli 2006, worden de volgende wijzigingen aangebracht :<br />1° § 4 wordt vervangen door wat volgt :<br />« § 4. De punten uit de puntenenveloppes voor het voeren van een zorgbeleid, ICT en administratieve ondersteuning kunnen in het schooljaar 2007-2008 samengelegd worden op het niveau van de scholengemeenschap. In afwijking van § 3 kunnen de punten voor ICT en administratieve ondersteuning die op het niveau van de scholengemeenschap samengelegd worden, vrij aangewend worden. Scholengemeenschappen, waar scholen van het gemeenschapsonderwijs deel van uitmaken, kunnen deze vrij aan te wenden punten aanwenden om het personeelslid dat belast is met het mandaat van algemeen directeur in de scholengroep, waar één of meerdere scholen van de scholengemeenschap deel van uit maken, school- of klasvrij te maken.<br /><br />Dit samenleggen mag niet tot gevolg hebben dat personeelsleden bijkomend ter beschikking gesteld worden wegens ontstentenis van betrekking. De niet-naleving van deze bepaling heeft tot gevolg dat een terbeschikkingstelling wegens ontstentenis van betrekking geen uitwerking heeft ten aanzien van de overheid. Het schoolbestuur moet met het oog op de controle een verklaring op erewoord bezorgen aan het departement waarin het verklaart deze bepaling in acht te nemen. »;<br /><br />2° § 5 wordt vervangen door wat volgt :<br />« § 5. De punten voor ICT kunnen samengelegd worden op het niveau van een samenwerkingsplatform, zoals bedoeld in artikel X.53 van het decreet van 14 februari 2003 betreffende het onderwijs XIV. De punten voor ICT kunnen op het niveau van het samenwerkingsplatform enkel voor ICT-coördinatie gebruikt worden.<br /><br />Dit samenleggen mag niet tot gevolg hebben dat personeelsleden bijkomend ter beschikking gesteld worden wegens ontstentenis van betrekking. De niet-naleving van deze bepaling heeft tot gevolg dat een terbeschikkingstelling wegens ontstentenis van betrekking geen uitwerking heeft ten aanzien van de overheid. Het schoolbestuur moet met het oog op de controle een verklaring op erewoord bezorgen aan het departement waarin het verklaart deze bepaling in acht te nemen. ».<br /><br />
@@ -89,6 +201,18 @@ In hetzelfde decreet wordt een artikel 164bis ingevoegd, dat luidt als volgt :<b
 ### ART. II.48.
 
 In artikel 177 van hetzelfde decreet, gewijzigd bij de decreten van 13 juli 2001, 10 juli 2003 en 7 juli 2006, worden de volgende wijzigingen aangebracht :<br />1° punt 10° wordt vervangen door wat volgt :<br />« 10° de misbruiken bij het berekenen en aanwenden van lestijden, uren en punten. »;<br /><br />2° punt 11° wordt opgeheven.<br /><br />
+
+### ART. II.49.
+
+Artikel 188 van hetzelfde decreet, opgeheven door het decreet van 14 februari 2003, wordt opnieuw opgenomen in de volgende lezing :<br />« Artikel 188<br />Scholen die een herstructurering hebben doorgevoerd op 1 september 2002, 2003, 2004, 2005, 2006 of 2007 hebben de eerste schooldag van oktober van het lopende schooljaar als teldag voor de berekening van de lestijden volgens de schalen tijdens het schooljaar van de herstructurering.<br /><br />In geval van oprichting van een vestigingsplaats voor kleuteronderwijs of van een niveau kleuteronderwijs in een school of vestigingsplaats voor gewoon basisonderwijs geldt die teldag voor de hele school voor het schooljaar van oprichting en de twee daaropvolgende schooljaren.<br /><br />In geval van oprichting van een vestigingsplaats voor basisonderwijs of lager onderwijs of van een onderwijsniveau lager onderwijs in een school of vestigingsplaats voor gewoon basisonderwijs geldt die teldag voor de hele school voor het schooljaar van oprichting en de vijf daaropvolgende schooljaren.<br /><br />In het geval van oprichting van een type in een school voor buitengewoon basisonderwijs geldt die teldag voor het schooljaar van oprichting en de twee daaropvolgende schooljaren. ».<br /><br />
+
+### ART. II.50.
+
+In hetzelfde decreet, het laatst gewijzigd bij het decreet van 15 december 2006, wordt een artikel 188bis ingevoegd dat luidt als volgt :<br />« Artikel 188bis <br />Scholen die opgericht werden op 1 september 2004, 2005, 2006 of 2007 hebben een programmatieperiode van vier schooljaren. ».<br /><br />
+
+### ART. II.51.
+
+In hetzelfde decreet, het laatst gewijzigd bij het decreet van 15 december 2006, wordt een artikel 188ter ingevoegd dat luidt als volgt :<br />« Artikel 188ter <br />De teldag voor de berekening van het werkingsbudget is voor scholen die op 1 september 2002, 2003, 2004, 2005, 2006 of 2007 betrokken waren bij een herstructurering, voor het schooljaar van de herstructurering, de eerste schooldag van oktober van het lopende schooljaar.<br /><br />In geval van oprichting van een vestigingsplaats voor kleuteronderwijs of van een niveau kleuteronderwijs in een school of vestigingsplaats voor gewoon basisonderwijs geldt die teldag voor de hele school voor het schooljaar van oprichting en de twee daaropvolgende schooljaren.<br /><br />In geval van oprichting van een vestigingsplaats voor basisonderwijs of lager onderwijs of van een onderwijsniveau lager onderwijs in een school of vestigingsplaats voor gewoon basisonderwijs geldt die teldag voor de hele school voor het schooljaar van oprichting en de vijf daaropvolgende schooljaren.<br /><br />In het geval van oprichting van een type in een school voor buitengewoon basisonderwijs geldt die teldag voor het schooljaar van oprichting en de twee daaropvolgende schooljaren. ».<br /><br />
 
 ### ART. II.52.
 
@@ -656,6 +780,10 @@ In artikel 24bis, van dezelfde wet, ingevoegd bij het decreet van 7 juli 2006, w
 
 In artikel 24ter van dezelfde wet, ingevoegd bij het decreet van 7 juli 2006, worden de volgende wijzigingen aangebracht :<br />1° in § 2, tweede lid, worden de woorden « uiterlijk op 15 juni » vervangen door de woorden « uiterlijk op 15 januari »;<br />2° aan § 2, wordt de volgende zin wordt toegevoegd :<br />« Tot erkenning van het structuuronderdeel in kwestie, steeds met terugwerkende kracht vanaf 1 september van het betrokken schooljaar, kan slechts worden overgegaan indien de resultaten van de inspectie gunstig zijn of geacht worden gunstig te zijn. »;<br />3° in § 3, worden de woorden « de bevoegde onderwijsadministratie » vervangen door de woorden « het Agentschap voor Onderwijsdiensten ».<br /><br />
 
+### ART. IX.6.
+
+In artikel 27, § 1, van dezelfde wet, vervangen bij het decreet van 13 juli 2001, wordt het derde lid vervangen door wat volgt :<br />« In de gesubsidieerde internaten worden er salaristoelagen verleend voor volgende personeelsleden :<br />1° één betrekking in het ambt van beheerder;<br />2° twee of meer betrekkingen in het ambt van studiemeester-opvoeder internaat indien het internaat een tehuis is voor kinderen van wie de ouders geen vaste verblijfplaats hebben; het aantal betrekkingen wordt bepaald overeenkomstig de normen die voor de Gemeenschapsinternaten gelden;<br />3° betrekkingen in het ambt van studiemeester-opvoeder internaat indien het internaat niet onder toepassing van 2° valt, op basis van volgende normen :<br />a) twee betrekkingen indien in het internaat uitsluitend internen uit het secundair onderwijs verblijven;<br />b) twee en een halve betrekkingen indien in het internaat ook internen uit het basisonderwijs verblijven. ».<br /><br />
+
 ### ART. IX.7.
 
 In artikel 28, van dezelfde wet, gewijzigd bij het decreet van 5 juli 1989, wordt § 2 vervangen door wat volgt :<br />« § 2. Wanneer het arbeidsgerecht, bij een in kracht van gewijsde gegaan vonnis of arrest, een beslissing van een inrichtende macht van het gesubsidieerd vrij onderwijs houdende beëindiging of vermindering van de opdracht van een door haar vastbenoemd personeelslid, strijdig acht met het decreet rechtspositie personeelsleden gesubsidieerd onderwijs, bekomt dit personeelslid de salaristoelage voor het geheel of voor een deel van de opdracht die hem ontnomen werd, alsof hij in dienstactiviteit was gebleven, en verliest de inrichtende macht de salaristoelage voor het geheel of voor een deel van de betrekking, zolang zij de betrekking aan een ander niet-rechthebbend personeelslid toewijst.<br /><br />Deze bepaling heeft ook uitwerking wanneer de kamer van beroep, zoals bedoeld in artikel 69 van het decreet rechtspositie personeelsleden gesubsidieerd onderwijs, het ontslag van een vastbenoemd personeelslid door de inrichtende macht als gevolg van een tuchtmaatregel vernietigt.<br /><br />Het verlies van de salaristoelage voor een betrekking neemt een einde voor de inrichtende macht :<br />1° ofwel op het ogenblik dat de onregelmatige handeling door de inrichtende macht is hersteld;<br />2° ofwel indien dezelfde of een andere inrichtende macht het benadeelde personeelslid, met zijn akkoord, overneemt;<br />3° ofwel op het ogenblik dat het benadeelde personeelslid zonder geldige reden weigert een door dezelfde inrichtende macht of een andere inrichtende macht aangeboden betrekking in hetzelfde ambt met dezelfde statutaire toestand te aanvaarden;<br />4° ofwel op het ogenblik dat het benadeelde personeelslid zich, om redenen vreemd aan het geschil, in de voorwaarden voor definitieve ambtsneerlegging bevindt.<br /><br />De salaristoelage, die gedurende de periode tussen het onrechtmatig ontslag en de betekening aan de diensten van de Vlaamse Regering bevoegd voor het onderwijs van het vonnis of arrest, of van de uitspraak van de hierboven vermelde kamers van beroep of het hierboven vermelde college van beroep, aan de inrichtende macht werd toegekend, wordt van deze inrichtende macht teruggevorderd en wordt vervolgens toegekend aan het ten onrechte ontslagen personeelslid.<br /><br />Vanaf de hogervermelde betekening betalen de diensten van de Vlaamse Regering bevoegd voor onderwijs de salaristoelage rechtstreeks aan het ten onrechte ontslagen personeelslid tot op het ogenblik dat voldaan wordt aan één van de vier voorwaarden, hierboven vermeld. ».<br /><br />
@@ -1001,7 +1129,7 @@ De vzw Brussels ondersteuningscentrum secundair onderwijs ontvangt de in deze af
 
 ### ART. X.7.
 
-§ 1. De Vlaamse Regering waarborgt tot en met 31 augustus 2008 een subsidiëring voor de loonkosten van de personeelsleden en de werkingsmiddelen binnen de door de Vlaamse Gemeenschap voorziene begrotingskredieten.<br /><br />§ 2. De Vlaamse Regering kan beslissen over de uitvoering van de subsidiëring bedoeld in § 1 een samenwerkingsakkoord te sluiten met de Vlaamse Gemeenschapscommissie.<br /><br />
+§ 1. De Vlaamse Regering waarborgt tot en met 31 december 2010 een subsidiëring voor de loonkosten van de personeelsleden en de werkingsmiddelen binnen de door de Vlaamse Gemeenschap voorziene begrotingskredieten.<br /><br />§ 2. De Vlaamse Regering kan beslissen over de uitvoering van de subsidiëring bedoeld in § 1 een samenwerkingsakkoord te sluiten met de Vlaamse Gemeenschapscommissie.<br /><br />
 
 ## Afdeling V Inwerkingtreding
 
