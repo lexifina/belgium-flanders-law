@@ -2,16 +2,16 @@
   "codex_id": 1013833,
   "title": "Besluit van de Vlaamse Regering van 2005-04-15 betreffende de toekenning van een bepaalde [niet-verworven salarisschaal] aan sommige personeelsleden van het onderwijs",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1013833/VolledigDocument?datum=2007-09-01",
-  "source_sha256": "9a472c42627ef4564e7d2d69e27e62a9ae06a1b6a937591ad8f4717df54ce7ca",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1013833/VolledigDocument?datum=2008-09-01",
+  "source_sha256": "d08f1dd5c898ec7fe5cadb7edb9cdd1b4e476d68fb3960318ab04c19e248334b",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1013833&param=informatie",
-  "as_of": "2007-09-01",
+  "as_of": "2008-09-01",
   "made": "2005-04-15",
   "gazette": "2005-06-24",
   "numac": 2005035710,
   "document_start": "2005-09-01",
   "document_end": null,
-  "in_force": "2007-09-01",
+  "in_force": "2008-09-01",
   "article_versions": 15,
-  "record_form": "consolidated version as in force on 2007-09-01; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2008-09-01; future article versions excluded; article text as the API gives it"
 }
