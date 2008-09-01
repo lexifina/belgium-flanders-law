@@ -1,0 +1,17 @@
+{
+  "codex_id": 1018640,
+  "title": "Besluit van de Vlaamse Regering van 2009-10-30 betreffende de toekenning van de middelen voor het mentorschap in het onderwijs",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1018640/VolledigDocument?datum=2008-09-01",
+  "source_sha256": "d58e42548fca1f3c81a1a2781f465090c0adee898e4adbbab59872386152a483",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1018640&param=informatie",
+  "as_of": "2008-09-01",
+  "made": "2009-10-30",
+  "gazette": "2009-12-30",
+  "numac": 2009036137,
+  "document_start": "2008-09-01",
+  "document_end": "2010-09-01",
+  "in_force": "2008-09-01",
+  "article_versions": 23,
+  "record_form": "consolidated version as in force on 2008-09-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
