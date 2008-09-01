@@ -1,0 +1,17 @@
+{
+  "codex_id": 1017307,
+  "title": "Besluit van de Vlaamse Regering van 2008-10-10 tot wijziging van het besluit van de Vlaamse Regering van 12 december 2003 betreffende de integratie van leerlingen met een matige of ernstige verstandelijke handicap in het gewoon lager en secundair onderwijs",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1017307/VolledigDocument?datum=2008-09-01",
+  "source_sha256": "c79ded8039144300ec095c0ab39f0282c43ce10e6cb67f8d05e284d329b50c6d",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1017307&param=informatie",
+  "as_of": "2008-09-01",
+  "made": "2008-10-10",
+  "gazette": "2008-11-21",
+  "numac": 2008204085,
+  "document_start": "2008-09-01",
+  "document_end": null,
+  "in_force": "2008-09-01",
+  "article_versions": 8,
+  "record_form": "consolidated version as in force on 2008-09-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
