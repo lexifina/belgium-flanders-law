@@ -1,0 +1,17 @@
+{
+  "codex_id": 1017784,
+  "title": "Besluit van de Vlaamse Regering van 2009-03-06 betreffende vorming voor directeurs van de onderwijsinstellingen en centra voor leerlingenbegeleiding",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1017784/VolledigDocument?datum=2008-09-01",
+  "source_sha256": "e045418e82278dc73e7052e689db6f2888c3bac1b6b72a508314bd6b7390ef75",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1017784&param=informatie",
+  "as_of": "2008-09-01",
+  "made": "2009-03-06",
+  "gazette": "2009-04-09",
+  "numac": 2009201526,
+  "document_start": "2008-09-01",
+  "document_end": null,
+  "in_force": "2008-09-01",
+  "article_versions": 12,
+  "record_form": "consolidated version as in force on 2008-09-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
