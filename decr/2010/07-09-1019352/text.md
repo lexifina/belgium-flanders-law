@@ -86,6 +86,14 @@ In artikel 91 van hetzelfde decreet, gewijzigd bij het decreet van 30 april 2004
 
 ## Afdeling VII Financiering hoger onderwijs
 
+### ART. V.31.
+
+In artikel 46, § 1, van het decreet van 14 maart 2008 betreffende de financiering van de werking van de hogescholen en de universiteiten in Vlaanderen worden tussen de woorden « een hogeschool of universiteit » en « een eenmalig individueel leerkrediet » de woorden « , ongeacht of het gaat om een diploma-, een credit- of een examencontract, » ingevoegd.<br /><br />
+
+### ART. V.33.
+
+Artikel 49 van hetzelfde decreet wordt vervangen door wat volgt :<br />« Art. 49. Bij het behalen van een diploma voor een initiële masteropleiding wordt het individuele leerkrediet van de student verminderd met 140 studiepunten. Bij een positief saldo kan de student het resterende leerkrediet opnieuw aanwenden voor een inschrijving in een initiële bachelor- of masteropleiding. Als het saldo van het resterende leerkrediet minder dan 60 studiepunten bedraagt, kan de student zijn leerkrediet eenmalig opnieuw opbouwen tot maximaal 60 studiepunten. Vanaf het academiejaar dat volgt op het academiejaar waarin hij zijn masterdiploma behaald heeft, worden elk academiejaar 10 studiepunten toegevoegd aan het individuele leerkrediet. Met behoud van de toepassing van de bepalingen van de derde en vierde volzin, krijgt een student onder diplomacontract bij de start van het academiejaar dat volgt op het academiejaar waarin hij zijn masterdiploma heeft behaald, eenmalig en bij wijze van overgangsmaatregel het verschil tussen 60 en het aantal opgenomen studiepunten in een opleiding bedoeld in artikel 46, § 1, 1°, waarvoor hij vanaf het academiejaar 2008-2009 een inschrijving heeft genomen, extra bij het saldo van het leerkrediet. Deze regeling geldt voor zover de student al in het academiejaar 2007-2008 in de desbetreffende masteropleiding ingeschreven was en op voorwaarde dat hij vanaf het academiejaar 2008-2009 het initiële masterdiploma behaalt en vanaf datzelfde academiejaar minder dan 60 studiepunten heeft opgenomen.<br /><br />Als het individueel leerkrediet van een student die nog geen masterdiploma behaald heeft en geen inschrijvingen meer heeft in het hoger onderwijs, zoals bedoeld in artikel 46, § 1, minder dan 60 studiepunten bedraagt, kan hij in het kader van levenslang leren zijn leerkrediet eenmalig opnieuw opbouwen tot maximaal 60 studiepunten behalve indien zijn leerkrediet al eerder aangevuld is geweest in toepassing van het derde lid. Vanaf het academiejaar waarin hij geen inschrijvingen meer heeft in het hoger onderwijs zoals bedoeld in artikel 46, § 1, worden daartoe elk academiejaar 10 studiepunten toegevoegd aan het individuele leerkrediet. Het aldus opgebouwde leerkrediet kan opnieuw aangewend worden voor een inschrijving in een initiële bachelor- of masteropleiding.<br /><br />Als een student die een diploma behaald heeft in het hoger beroepsonderwijs, op het moment van herinschrijving in het hoger onderwijs, een leerkrediet heeft dat minder dan 60 studiepunten bedraagt, dan wordt het leerkrediet van de betreffende student aangevuld tot 60 studiepunten behalve indien de student al een masterdiploma heeft behaald.<br />In het kader van een opnieuw opgebouwd leerkrediet met toepassing van de bepalingen in dit artikel worden de eerste 60 verworven studiepunten niet dubbel aangerekend. ».<br /><br />
+
 ## Afdeling VIII Kwalificatiestructuur
 
 ## Afdeling IX Onderwijsdecreet XIX
@@ -121,6 +129,18 @@ In artikel 19sexies van hetzelfde decreet, ingevoegd bij het decreet van 8 mei 2
 ## Afdeling IV Decreet betreffende het onderwijs XIII
 
 ## Afdeling V Decreet betreffende het onderwijs XIV
+
+### ART. VII.33.
+
+In artikel X.39 van hetzelfde decreet, gewijzigd bij het decreet van 15 juni 2007, worden in punt 8° de woorden « artikel 127 » vervangen door de woorden « artikel 127, § 1, 1° en 2° ».<br /><br />
+
+### ART. VII.34.
+
+In artikel X.40 van hetzelfde decreet, gewijzigd bij het decreet van 15 juni 2007, worden de woorden « tot elk ambt » vervangen door de woorden « tot elk ambt of voor de basiseducatie tot elke functie ».<br /><br />
+
+### ART. VII.35.
+
+In artikel X.42 van hetzelfde decreet worden de woorden « voor een ambt » vervangen door de woorden « voor een ambt of voor de basiseducatie voor een functie ».<br /><br />
 
 ## Afdeling VI Inwerkingtreding
 
