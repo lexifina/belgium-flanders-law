@@ -1,0 +1,17 @@
+{
+  "codex_id": 1017670,
+  "title": "Besluit van de Vlaamse Regering van 2009-01-16 tot wijziging van het besluit van de Vlaamse Regering van 28 augustus 2000 houdende oprichting en samenstelling van de lokale comités voor de personeelsleden van het gemeenschapsonderwijs",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1017670/VolledigDocument?datum=2008-09-01",
+  "source_sha256": "4027f67a6b61c2ee39e715ccb2ede8012f967d91a69dd73fd18e67d6cde28d78",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1017670&param=informatie",
+  "as_of": "2008-09-01",
+  "made": "2009-01-16",
+  "gazette": "2009-03-12",
+  "numac": 2009200896,
+  "document_start": "2008-09-01",
+  "document_end": null,
+  "in_force": "2008-09-01",
+  "article_versions": 5,
+  "record_form": "consolidated version as in force on 2008-09-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
