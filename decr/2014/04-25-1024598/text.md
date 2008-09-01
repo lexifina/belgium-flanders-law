@@ -1,0 +1,111 @@
+# Decreet van 2014-04-25 betreffende het onderwijs XXIV
+
+## HOOFDSTUK I. Inleidende bepalingen
+
+## HOOFDSTUK II. Basisonderwijs
+
+## HOOFDSTUK III. Secundair onderwijs
+
+## Afdeling I. Codex Secundair Onderwijs
+
+### ART. III.2.
+
+In   artikel 14, § 4, van dezelfde codex, ingevoegd bij het decreet van 21 december   2012, worden de volgende wijzigingen aangebracht:<BR   style="TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">1°   het tweede lid wordt vervangen door een nieuw tweede, derde en vierde lid, die   luiden als volgt:<BR   style="TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">"De   ingebruikname van een nieuwe vestigingsplaats tijdens een bepaald schooljaar   wordt door het schoolbestuur uiterlijk 31 maart van het voorafgaand schooljaar   schriftelijk aangevraagd bij de bevoegde dienst van de Vlaamse Gemeenschap. De   Vlaamse Regering bepaalt de ontvankelijkheidsvoorwaarden waaraan deze aanvraag   moet voldoen.<BR   style="TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">De   onderwijsinspectie onderzoekt de aanvraag op hygiëne, veiligheid en   bewoonbaarheid, en geeft een advies aan de Vlaamse Regering, die beslist over de   goedkeuring. Het advies en de aansluitende beslissing worden uiterlijk 30 juni   van het voorafgaand schooljaar aan het schoolbestuur medegedeeld. Indien de   Vlaamse Regering deze datum overschrijdt, wordt de aanvraag geacht van   rechtswege te zijn goedgekeurd.<BR   style="TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">De   aanvraag tot ingebruikname van een nieuwe vestigingsplaats maakt deel uit van de   aanvraag, bedoeld in paragraaf 2, in het geval van een school die wordt   opgericht zonder het gevolg te zijn van een herstructurering van bestaande   scholen.";<BR   style="TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">2°   er wordt een vijfde lid toegevoegd, dat luidt als volgt:<BR   style="TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">"Nieuwe   vestigingsplaatsen die in gebruik worden genomen tijdens het schooljaar   2013-2014 worden, doch uitsluitend tot en met 31 augustus 2014, van rechtswege   goedgekeurd.".
+
+### ART. III.3.
+
+In   artikel 15, § 4, van dezelfde codex, ingevoegd bij het decreet van 21 december   2012, worden de volgende wijzigingen aangebracht:<BR   style="TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">1°   het tweede lid wordt vervangen door een nieuw tweede, derde en vierde lid, die   luiden als volgt:<BR   style="TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">"De   ingebruikname van een nieuwe vestigingsplaats tijdens een bepaald schooljaar   wordt door het schoolbestuur uiterlijk 31 maart van het voorafgaand schooljaar   schriftelijk aangevraagd bij de bevoegde dienst van de Vlaamse Gemeenschap. De   Vlaamse Regering bepaalt de ontvankelijkheidsvoorwaarden waaraan deze aanvraag   moet voldoen.<BR   style="TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">De   onderwijsinspectie onderzoekt de aanvraag op hygiëne, veiligheid en   bewoonbaarheid, en geeft een advies aan de Vlaamse Regering, die beslist over de   goedkeuring. Het advies en de aansluitende beslissing worden uiterlijk 30 juni   van het voorafgaand schooljaar aan het schoolbestuur medegedeeld. Indien de   Vlaamse Regering deze datum overschrijdt, wordt de aanvraag geacht van   rechtswege te zijn goedgekeurd.<BR   style="TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">De   aanvraag tot ingebruikname van een nieuwe vestigingsplaats maakt deel uit van de   aanvraag, bedoeld in paragraaf 2, in het geval van een school die wordt   opgericht zonder het gevolg te zijn van een herstructurering van bestaande   scholen. De aanvraag tot ingebruikname van een nieuwe vestigingsplaats wordt   gevoegd bij de melding, bedoeld in artikel 175, § 6, voor het voltijds gewoon   secundair onderwijs, en artikel 285/1 voor het buitengewoon secundair onderwijs,   in het geval van een school die wordt opgericht als gevolg van een   herstructurering van bestaande scholen.";<BR   style="TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">2°   er wordt een vijfde lid toegevoegd, dat luidt als volgt:<BR   style="TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">"Nieuwe   vestigingsplaatsen die in gebruik worden genomen tijdens het schooljaar   2013-2014 worden, doch uitsluitend tot en met 31 augustus 2014, van rechtswege   goedgekeurd.".
+
+## Afdeling II. Decreet Leren en Werken
+
+### ART. III.55.
+
+In   artikel 10 van hetzelfde decreet, gewijzigd bij de decreten van 8 mei 2009, 9   juli 2010 en 21 december 2012, worden de volgende wijzigingen   aangebracht:<BR   style="TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">1°   paragraaf 2 wordt opgeheven;<BR   style="TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">2°   in paragraaf 4 wordt het tweede lid vervangen door een nieuw tweede, derde en   vierde lid, die luiden als volgt:<BR   style="TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">"De   ingebruikname van een nieuwe vestigingsplaats tijdens een bepaald schooljaar   wordt door het centrumbestuur uiterlijk 31 maart van het voorafgaand schooljaar   schriftelijk aangevraagd bij de bevoegde dienst van de Vlaamse Gemeenschap. De   Vlaamse Regering bepaalt de ontvankelijkheidsvoorwaarden waaraan deze aanvraag   moet voldoen.<BR   style="TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">De   onderwijsinspectie onderzoekt de aanvraag op hygiëne, veiligheid en   bewoonbaarheid, en geeft een advies aan de Vlaamse Regering, die beslist over de   goedkeuring. Het advies en de aansluitende beslissing worden uiterlijk 30 juni   van het voorafgaand schooljaar aan het centrumbestuur medegedeeld. Indien de   Vlaamse Regering deze datum overschrijdt, wordt de aanvraag geacht van   rechtswege te zijn goedgekeurd.<BR   style="TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">De   aanvraag tot ingebruikname van een nieuwe vestigingsplaats maakt deel uit van de   aanvraag, bedoeld in artikel 8, § 3, in het geval van een centrum dat wordt   opgericht zonder het gevolg te zijn van een splitsing van een bestaand centrum.   De aanvraag tot ingebruikname van een nieuwe vestigingsplaats wordt gevoegd bij   de melding, bedoeld in artikel 8, § 3, in het geval van een centrum dat wordt   opgericht als gevolg van een splitsing van een bestaand centrum.";<BR   style="TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">3°   in paragraaf 4 wordt een vijfde lid toegevoegd, dat luidt als volgt:<BR   style="TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">"Nieuwe   vestigingsplaatsen die in gebruik worden genomen tijdens het schooljaar   2013-2014 worden, doch uitsluitend tot en met 31 augustus 2014, van rechtswege   goedgekeurd.".
+
+### ART. III.56.
+
+In   artikel 11 van hetzelfde decreet, gewijzigd bij de decreten van 9 juli 2010 en   21 december 2012, worden de volgende wijzigingen aangebracht:<BR   style="TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">1°   paragraaf 2 wordt opgeheven;<BR   style="TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">2°   in paragraaf 4 wordt het tweede lid vervangen door een nieuw tweede, derde en   vierde lid, die luiden als volgt:<BR   style="TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">"De   ingebruikname van een nieuwe vestigingsplaats tijdens een bepaald schooljaar   wordt door het centrumbestuur uiterlijk 31 maart van het voorafgaand schooljaar   schriftelijk aangevraagd bij de bevoegde dienst van de Vlaamse Gemeenschap. De   Vlaamse Regering bepaalt de ontvankelijkheidsvoorwaarden waaraan deze aanvraag   moet voldoen.<BR   style="TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">De   onderwijsinspectie onderzoekt de aanvraag op hygiëne, veiligheid en   bewoonbaarheid, en geeft een advies aan de Vlaamse Regering, die beslist over de   goedkeuring. Het advies en de aansluitende beslissing worden uiterlijk 30 juni   van het voorafgaand schooljaar aan het centrumbestuur medegedeeld. Indien de   Vlaamse Regering deze datum overschrijdt, wordt de aanvraag geacht van   rechtswege te zijn goedgekeurd.<BR   style="TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">De   aanvraag tot ingebruikname van een nieuwe vestigingsplaats maakt deel uit van de   aanvraag, bedoeld in artikel 8, § 3, in het geval van een centrum dat wordt   opgericht zonder het gevolg te zijn van een splitsing van een bestaand centrum.   De aanvraag tot ingebruikname van een nieuwe vestigingsplaats wordt gevoegd bij   de melding, bedoeld in artikel 8, § 3, in het geval van een centrum dat wordt   opgericht als gevolg van een splitsing van een bestaand centrum.";<BR   style="TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">3°   in paragraaf 4 wordt een vijfde lid toegevoegd, dat luidt als volgt:<BR   style="TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">"Nieuwe   vestigingsplaatsen die in gebruik worden genomen tijdens het schooljaar   2013-2014 worden, doch uitsluitend tot en met 31 augustus 2014, van rechtswege   goedgekeurd.".
+
+### ART. III.70.
+
+In artikel 101 van hetzelfde decreet, gewijzigd bij het   decreet van 19 juli 2013, worden de volgende wijzigingen aangebracht:<BR   style="TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">1°   in het eerste lid worden de woorden "Met ingang van het schooljaar 2014-2015"   vervangen door de woorden "Met ingang van het schooljaar   2015-2016";<BR   style="TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">2°   in het eerste lid worden de woorden "verder gesubsidieerd voor het schooljaar   2013-2014" vervangen door de woorden "verder gesubsidieerd voor de schooljaren   2013-2014 en 2014-2015";<BR   style="TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">3°   in het derde lid worden tussen de woorden "moet voldoen" en de woorden "In elk   geval" de woorden ", waaronder de toekenning van opleidingsvergoedingen aan   jongeren in een brugproject." ingevoegd.
+
+## Afdeling III. Inwerkingtreding
+
+## HOOFDSTUK IV. Decreet betreffende de centra voor leerlingenbegeleiding
+
+## HOOFDSTUK V. Volwassenenonderwijs
+
+## HOOFDSTUK VI. Hoger onderwijs
+
+## Afdeling I. Codex Hoger Onderwijs
+
+## Afdeling II. Decreet houdende bepalingen tot begeleiding van de begroting 2014
+
+## Afdeling III. Decreet houdende het statuut van de Universiteit Hasselt en de Hoge Raad voor het Hoger Onderwijs in Limburg
+
+## Afdeling IV. Inwerkingtreding
+
+## HOOFDSTUK VII. Decreten Rechtspositie Onderwijspersoneel
+
+## Afdeling I. Decreet betreffende de rechtspositie van bepaalde personeelsleden van het gemeenschapsonderwijs
+
+## Afdeling II. Decreet betreffende de rechtspositie van sommige personeelsleden van het gesubsidieerd onderwijs en de gesubsidieerde centra voor leerlingenbegeleiding
+
+## Afdeling III. Inwerkingtreding
+
+## HOOFDSTUK VIII. Studiefinanciering
+
+## Afdeling I. Decreet betreffende de studiefinanciering
+
+## Afdeling II. Decreet betreffende het onderwijs XXIII
+
+## Afdeling III. Inwerkingtreding
+
+## HOOFDSTUK IX. Andere bepalingen
+
+## Afdeling I. Wet betreffende de leerplicht
+
+## Afdeling II. Deeltijds kunstonderwijs
+
+## Onderafdeling I. Wet tot wijziging van sommige bepalingen van de onderwijswetgeving
+
+## Onderafdeling II. Decreet betreffende het onderwijs-II
+
+## Onderafdeling III. Besluit van de Vlaamse Regering houdende organisatie van de Koninklijke Beiaardschool
+
+## Onderafdeling IV. Inwerkingtreding
+
+## Afdeling III. Decreet betreffende het onderwijs III
+
+## Afdeling IV. Decreet betreffende het onderwijs VII
+
+## Afdeling V. Decreet betreffende het onderwijs XIV
+
+## Afdeling VI. Decreet betreffende het onderwijs XV
+
+## Afdeling VII. Decreet houdende organisatie en werking van de regionale technologische centra
+
+## Afdeling VIII. Decreet betreffende de werkingsbudgetten in het secundair onderwijs en het basisonderwijs
+
+## Afdeling IX. Decreet betreffende het secundair na het secundair onderwijs en het hoger beroepsonderwijs
+
+## Afdeling X. Decreet betreffende de kwalificatiestructuur
+
+## Afdeling XI. Decreet betreffende de kwaliteit
+
+## Afdeling XII. Decreet betreffende het onderwijs XXIII
+
+## Afdeling XIII. Inwerkingtreding
+
+## HOOFDSTUK X. Autonome bepalingen
+
+## Afdeling I. Cultuureducatie in het onderwijs
+
+## Afdeling II. Personeelsleden tewerkgesteld in de voor- en nabewaking in de Nederlandstalige basisscholen van het gemeenschapsonderwijs in tweetalige gebied Brussel-Hoofdstad
+
+## Afdeling III. Schenking meubilair aan de onderwijsnetten
+
+## Afdeling IV. Diensten met onderwijsbehoeften
+
+## Afdeling V. Inwerkingtreding
