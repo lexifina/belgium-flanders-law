@@ -2,16 +2,16 @@
   "codex_id": 1001042,
   "title": "Besluit van de Vlaamse Regering van 1990-07-31 houdende inrichting van het deeltijds beroepssecundair onderwijs",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1001042/VolledigDocument?datum=2007-09-01",
-  "source_sha256": "f302ed52bab56391da26414973ceef9b10f0558c9a9bd3f175b6bfadeb5f58e9",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1001042/VolledigDocument?datum=2008-09-01",
+  "source_sha256": "d4222a3418289dbd348bb42e747cddba1f2d7a99f7cc226e11be8278fb814e1a",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1001042&param=informatie",
-  "as_of": "2007-09-01",
+  "as_of": "2008-09-01",
   "made": "1990-07-31",
   "gazette": "1990-09-26",
   "numac": 1990030154,
   "document_start": "1990-09-01",
   "document_end": "2008-08-31",
-  "in_force": "2007-09-01",
+  "in_force": "2008-09-01",
   "article_versions": 24,
-  "record_form": "consolidated version as in force on 2007-09-01; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2008-09-01; future article versions excluded; article text as the API gives it"
 }
