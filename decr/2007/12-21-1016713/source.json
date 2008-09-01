@@ -2,16 +2,16 @@
   "codex_id": 1016713,
   "title": "Decreet van 2007-12-21 tot oprichting van het Vlaams Onderhandelingscomité voor de basiseducatie",
   "type": "Decreet",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1016713/VolledigDocument?datum=2007-09-01",
-  "source_sha256": "de973bbb8677eee2f96d009dda128f855bd67ea526219d94703e8c7f5a91a696",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1016713/VolledigDocument?datum=2008-09-01",
+  "source_sha256": "9f54be0e165ed16e8238cffe697ba0cca6491a5d5aa56339e433fd9facbbff58",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1016713&param=informatie",
-  "as_of": "2007-09-01",
+  "as_of": "2008-09-01",
   "made": "2007-12-21",
   "gazette": "2008-04-07",
   "numac": 2008201135,
   "document_start": "2007-09-01",
   "document_end": "2008-08-31",
-  "in_force": "2007-09-01",
+  "in_force": "2008-09-01",
   "article_versions": 12,
-  "record_form": "consolidated version as in force on 2007-09-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2008-09-01; future article versions excluded; article text as the API gives it"
 }
