@@ -1,0 +1,17 @@
+{
+  "codex_id": 1017070,
+  "title": "Ministerieel besluit van 2008-08-28 tot wijziging van het ministerieel besluit van 22 juni 2001 tot bepaling van sommige gegevens die de centra voor leerlingenbegeleiding moeten registreren",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1017070/VolledigDocument?datum=2008-09-01",
+  "source_sha256": "53e386e3b958c1fa7305c2600d3d8bea327d6691a53818ca7ced1a9e9f9aede7",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1017070&param=informatie",
+  "as_of": "2008-09-01",
+  "made": "2008-08-28",
+  "gazette": "2008-09-15",
+  "numac": 2008203233,
+  "document_start": "2008-09-01",
+  "document_end": null,
+  "in_force": "2008-09-01",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2008-09-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
