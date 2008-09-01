@@ -8,6 +8,10 @@ De Vlaamse minister van Werk, Onderwijs en Vorming,<br /><br />Gelet op de wet v
 
 In artikel 1 van het ministerieel besluit van 6 maart 2006 houdende samenstelling van de subcommissies zetelend in de commissies van advies voor het buitengewoon onderwijs, gewijzigd bij de besluiten van 2 mei 2006 en 14 september 2007, worden de volgende wijzigingen aangebracht :<br />1° in de rubriek "Plaatsvervangende leden" worden de woorden "1. de heer Willy Verberck, Aarschotsebaan 309, 2590 Berlaar" vervangen door de woorden "1. Mevr. Jeanne Van Den Broeck, Oude Arendonksebaan 36, 2360 Oud Turnhout";<br />2° in de rubriek "Werkende leden" worden de woorden "2. Mevr. Anne Wyndaele, Kempenstraat 32, 2460 Kasterlee" vervangen door de woorden "2. Mevr. Greet Cavens, Kempenstraat 32, 2460 Kasterlee".<br /><br />
 
+### ART. 2.
+
+In artikel 5 van hetzelfde besluit, gewijzigd bij de besluiten van 2 mei 2006 en 14 september 2007, worden in de rubriek "Plaatsvervangende leden" de woorden "2. de heer Erik Swaenepoel, N. Demeulenaerestraat 4, 8800 Roeselare" vervangen door de woorden "2. Mevr. Annie Barroen, Doornstraat 35, 8200 Brugge".<br /><br />
+
 ### ART. 3.
 
 Dit besluit heeft uitwerking met ingang van 1 september 2007, met uitzondering van :<br />1° artikel 1, 2° dat uitwerking heeft met ingang van 1 mei 2008; <br />2° artikel 2 dat uitwerking heeft met ingang van 1 september 2008.<br /><br />
