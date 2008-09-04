@@ -1,0 +1,17 @@
+{
+  "codex_id": 1016991,
+  "title": "Besluit van de Vlaamse Regering van 2008-06-27 tot wijziging van het besluit van 18 juli 2003 betreffende de taxidiensten en de diensten voor het verhuren van voertuigen met bestuurder",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1016991/VolledigDocument?datum=2008-09-04",
+  "source_sha256": "b31cfe6cd9cd9a508fd789e78f07bce5f7523c4600149af4138df36998e80311",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1016991&param=informatie",
+  "as_of": "2008-09-04",
+  "made": "2008-06-27",
+  "gazette": "2008-08-25",
+  "numac": 2008036011,
+  "document_start": "2008-09-04",
+  "document_end": null,
+  "in_force": "2008-09-04",
+  "article_versions": 5,
+  "record_form": "consolidated version as in force on 2008-09-04; oldest version available; future article versions excluded; article text as the API gives it"
+}
