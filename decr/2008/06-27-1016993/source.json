@@ -1,0 +1,17 @@
+{
+  "codex_id": 1016993,
+  "title": "Decreet van 2008-06-27 houdende instemming met het Verdrag nr. 184 betreffende de veiligheid en gezondheid in de landbouw, aangenomen door de Internationale Arbeidsconferentie tijdens haar negenentachtigste zitting in Genève, op 21 juni 2001",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1016993/VolledigDocument?datum=2008-09-05",
+  "source_sha256": "9d9ccb1a59a99b8b4f3198afc6f5c08fff4644dedcf0a35642583aa3ff23b9d5",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1016993&param=informatie",
+  "as_of": "2008-09-05",
+  "made": "2008-06-27",
+  "gazette": "2008-08-26",
+  "numac": 2008202904,
+  "document_start": "2008-09-05",
+  "document_end": null,
+  "in_force": "2008-09-05",
+  "article_versions": 2,
+  "record_form": "consolidated version as in force on 2008-09-05; oldest version available; future article versions excluded; article text as the API gives it"
+}
