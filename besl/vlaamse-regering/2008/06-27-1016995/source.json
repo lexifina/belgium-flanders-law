@@ -1,0 +1,17 @@
+{
+  "codex_id": 1016995,
+  "title": "Besluit van de Vlaamse Regering van 2008-06-27 houdende de agentschapsspecifieke regeling van de rechtspositie van het personeel van de Vlaamse Maatschappij voor Sociaal Wonen",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1016995/VolledigDocument?datum=2008-09-05",
+  "source_sha256": "a59f70de9f6211ba43d19ef1bdf282122dfa4b563649d19e3f9350f2bdf6078e",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1016995&param=informatie",
+  "as_of": "2008-09-05",
+  "made": "2008-06-27",
+  "gazette": "2008-08-26",
+  "numac": 2008202910,
+  "document_start": "2008-09-05",
+  "document_end": "2022-12-31",
+  "in_force": "2008-09-05",
+  "article_versions": 8,
+  "record_form": "consolidated version as in force on 2008-09-05; oldest version available; future article versions excluded; article text as the API gives it"
+}
