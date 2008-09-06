@@ -6,7 +6,7 @@ In dit besluit wordt verstaan onder:<br /><br />1° administratie: [het intern v
 
 ### ART. 2.
 
-Binnen de perken van de begroting kent de Vlaamse Gemeenschap gedurende een periode van maximum achttien jaar aan een initiatiefnemer een jaarlijkse subsidie toe van 961,83 euro per flat in een serviceflatgebouw dat opgericht is in het kader van een onroerende leasingovereenkomst tussen die initiatiefnemer en de BEVAK.
+Binnen de perken van de begroting kent de Vlaamse Gemeenschap gedurende een periode van maximaal achttien jaar aan een initiatiefnemer een jaarlijkse subsidie toe van 961,83 euro (negenhonderdéénenzestig euro drieëntachtig cent) per flat in een serviceflatgebouw dat opgericht is in het kader van een onroerende leasingovereenkomst tussen die initiatiefnemer en de BEVAK.<br /><br />De jaarlijkse subsidie, vermeld in het eerste lid, bedraagt echter 1140,43 euro (duizend honderd veertig euro drieënveertig cent) per flat als de onroerende leasingovereenkomst bij notariële akte is verleden vanaf 1 januari 2007.
 
 ### ART. 3.
 

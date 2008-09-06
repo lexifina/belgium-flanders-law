@@ -2,16 +2,16 @@
   "codex_id": 1008504,
   "title": "Besluit van de Vlaamse Regering van 2001-11-30 houdende de toekenning van een subsidie aan Openbare Centra voor maatschappelijk welzijn en verenigingen zonder winstoogmerk als tegemoetkoming in de vergoeding voor de verwerving van de eigendom van de serviceflatgebouwen die op hun grond zijn opgericht in het kader van een onroerende leasingovereenkomst met de BEVAK",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1008504/VolledigDocument?datum=2006-06-01",
-  "source_sha256": "2eb51cf71455005451cd162e65ac14c45edd0397ac8e9d7bb19af5d405d5c944",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1008504/VolledigDocument?datum=2008-09-06",
+  "source_sha256": "f9daa64ad7814bab73994919d2ce920ab091210c0dc91c77e1d661e8a16af715",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1008504&param=informatie",
-  "as_of": "2006-06-01",
+  "as_of": "2008-09-06",
   "made": "2001-11-30",
   "gazette": "2001-12-21",
   "numac": 2001036438,
   "document_start": "2001-01-01",
   "document_end": null,
-  "in_force": "2006-06-01",
+  "in_force": "2008-09-06",
   "article_versions": 11,
-  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2008-09-06; future article versions excluded; article text as the API gives it"
 }
