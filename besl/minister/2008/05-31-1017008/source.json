@@ -1,0 +1,17 @@
+{
+  "codex_id": 1017008,
+  "title": "Ministerieel besluit van 2008-05-31 betreffende toepassing van de artikelen 48 en 48ter van het decreet van 22 februari 1995 betreffende de bodemsanering - Site 'Voormalige stortplaatsen te Lier, deelproject 2'",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1017008/VolledigDocument?datum=2008-09-07",
+  "source_sha256": "223f0112254d6c6de2e0ae0c48863773b2b7314c76e434ca1bdd82788a098d51",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1017008&param=informatie",
+  "as_of": "2008-09-07",
+  "made": "2008-05-31",
+  "gazette": "2008-08-28",
+  "numac": 2008036019,
+  "document_start": "2008-09-07",
+  "document_end": null,
+  "in_force": "2008-09-07",
+  "article_versions": 7,
+  "record_form": "consolidated version as in force on 2008-09-07; oldest version available; future article versions excluded; article text as the API gives it"
+}
