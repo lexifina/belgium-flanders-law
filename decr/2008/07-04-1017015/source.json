@@ -1,0 +1,17 @@
+{
+  "codex_id": 1017015,
+  "title": "Decreet van 2008-07-04 houdende instemming met het Verdrag nr. 155 betreffende arbeidsveiligheid, gezondheid en het arbeidsmilieu, aangenomen door de Internationale Arbeidsconferentie tijdens haar zevenenzestigste zitting in Genève, op 22 juni 1981",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1017015/VolledigDocument?datum=2008-09-08",
+  "source_sha256": "9d0eb94773eb3490550b1323a4010d121ea8938663acb2e54804be6d43e857b3",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1017015&param=informatie",
+  "as_of": "2008-09-08",
+  "made": "2008-07-04",
+  "gazette": "2008-08-29",
+  "numac": 2008202906,
+  "document_start": "2008-09-08",
+  "document_end": null,
+  "in_force": "2008-09-08",
+  "article_versions": 2,
+  "record_form": "consolidated version as in force on 2008-09-08; oldest version available; future article versions excluded; article text as the API gives it"
+}
