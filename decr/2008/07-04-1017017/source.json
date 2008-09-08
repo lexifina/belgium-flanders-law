@@ -1,0 +1,17 @@
+{
+  "codex_id": 1017017,
+  "title": "Decreet van 2008-07-04 houdende instemming met het Verdrag nr. 161 betreffende de bedrijfsgezondheidsdiensten, aangenomen door de Internationale Arbeidsconferentie tijdens haar eenenzeventigste zitting in Genève, op 25 juni 1985",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1017017/VolledigDocument?datum=2008-09-08",
+  "source_sha256": "9b0336d72b5d2527c61581441439643a6df4134447c72d3d646176858ba22e43",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1017017&param=informatie",
+  "as_of": "2008-09-08",
+  "made": "2008-07-04",
+  "gazette": "2008-08-29",
+  "numac": 2008202908,
+  "document_start": "2008-09-08",
+  "document_end": null,
+  "in_force": "2008-09-08",
+  "article_versions": 2,
+  "record_form": "consolidated version as in force on 2008-09-08; oldest version available; future article versions excluded; article text as the API gives it"
+}
