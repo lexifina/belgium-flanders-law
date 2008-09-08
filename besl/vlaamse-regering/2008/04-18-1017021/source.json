@@ -1,0 +1,17 @@
+{
+  "codex_id": 1017021,
+  "title": "Besluit van de Vlaamse Regering van 2008-04-18 tot wijziging van de regelgeving betreffende de erkenning en de financiële ondersteuning in het kader van Toerisme voor Allen",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1017021/VolledigDocument?datum=2008-09-08",
+  "source_sha256": "b3bc5a94949a73d987404ebd57c70d79bdb34106dca3147b4e39522c59d88701",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1017021&param=informatie",
+  "as_of": "2008-09-08",
+  "made": "2008-04-18",
+  "gazette": "2008-08-29",
+  "numac": 2008202835,
+  "document_start": "2008-09-08",
+  "document_end": null,
+  "in_force": "2008-09-08",
+  "article_versions": 50,
+  "record_form": "consolidated version as in force on 2008-09-08; oldest version available; future article versions excluded; article text as the API gives it"
+}
