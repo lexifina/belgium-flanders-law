@@ -2,16 +2,16 @@
   "codex_id": 1013340,
   "title": "Besluit van de Vlaamse Regering van 2004-05-28 betreffende de erkenning en de financiële ondersteuning van verenigingen in het kader van \"Toerisme voor Allen",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1013340/VolledigDocument?datum=2006-06-01",
-  "source_sha256": "f5485773a1d6652200fbbe11edd2740c7afafcfa858d04c9f88d47c9abc8cc11",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1013340/VolledigDocument?datum=2008-09-08",
+  "source_sha256": "c20843f6abc1c56c5a10a7a56cfeeda596a02db812110228aca96a30e9b8e155",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1013340&param=informatie",
-  "as_of": "2006-06-01",
+  "as_of": "2008-09-08",
   "made": "2004-05-28",
   "gazette": "2004-08-19",
   "numac": 2004036324,
   "document_start": null,
   "document_end": "2023-12-31",
-  "in_force": "2006-06-01",
+  "in_force": "2008-09-08",
   "article_versions": 19,
-  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2008-09-08; future article versions excluded; article text as the API gives it"
 }
