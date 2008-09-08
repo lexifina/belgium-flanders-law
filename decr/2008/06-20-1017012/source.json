@@ -1,0 +1,17 @@
+{
+  "codex_id": 1017012,
+  "title": "Decreet van 2008-06-20 houdende instemming met de Overeenkomst betreffende de deelname van de republiek Bulgarije en Roemenië aan de Europese Economische Ruimte, en de Slotakte, ondertekend in Brussel, op 25 juli 2007",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1017012/VolledigDocument?datum=2008-09-08",
+  "source_sha256": "6e795b3474954dbbaf8ce00e47881eefee3d7eb048b131d3b47707deb0a1e3d3",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1017012&param=informatie",
+  "as_of": "2008-09-08",
+  "made": "2008-06-20",
+  "gazette": "2008-08-29",
+  "numac": 2008202909,
+  "document_start": "2008-09-08",
+  "document_end": null,
+  "in_force": "2008-09-08",
+  "article_versions": 2,
+  "record_form": "consolidated version as in force on 2008-09-08; oldest version available; future article versions excluded; article text as the API gives it"
+}
