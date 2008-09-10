@@ -1,0 +1,17 @@
+{
+  "codex_id": 1017050,
+  "title": "Ministerieel besluit van 2008-08-11 houdende de instelling van de adviescommissie 'West-Vlaamse Leemstreek' voor een aantal Vlaamse natuurreservaten gelegen in de provincie West-Vlaanderen",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1017050/VolledigDocument?datum=2008-09-10",
+  "source_sha256": "1a9cdc417d9961e8108fae197054351d6d6600af575a77fb03d458f1249d454a",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1017050&param=informatie",
+  "as_of": "2008-09-10",
+  "made": "2008-08-11",
+  "gazette": "2008-09-10",
+  "numac": 2008203167,
+  "document_start": "2008-09-10",
+  "document_end": "2014-09-09",
+  "in_force": "2008-09-10",
+  "article_versions": 7,
+  "record_form": "consolidated version as in force on 2008-09-10; oldest version available; future article versions excluded; article text as the API gives it"
+}
