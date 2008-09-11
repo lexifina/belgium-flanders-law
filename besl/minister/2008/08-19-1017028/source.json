@@ -1,0 +1,17 @@
+{
+  "codex_id": 1017028,
+  "title": "Ministerieel besluit van 2008-08-19 betreffende de samenstelling, de ledenaanwijzing en de werking van het raadgevend comité bij het Agentschap voor Landbouw en Visserij",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1017028/VolledigDocument?datum=2008-09-11",
+  "source_sha256": "84f440ca39126add94a2aa1f46bf152e6d8df4048c51cdc3113796ed2abb2de1",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1017028&param=informatie",
+  "as_of": "2008-09-11",
+  "made": "2008-08-19",
+  "gazette": "2008-09-01",
+  "numac": 2008202985,
+  "document_start": "2008-09-11",
+  "document_end": "2014-12-31",
+  "in_force": "2008-09-11",
+  "article_versions": 6,
+  "record_form": "consolidated version as in force on 2008-09-11; oldest version available; future article versions excluded; article text as the API gives it"
+}
