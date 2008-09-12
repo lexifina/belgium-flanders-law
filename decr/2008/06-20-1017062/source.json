@@ -1,0 +1,17 @@
+{
+  "codex_id": 1017062,
+  "title": "Decreet van 2008-06-20 houdende wijziging van titel X van de decreten betreffende de radio-omroep en de televisie, gecoördineerd op 4 maart 2005",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1017062/VolledigDocument?datum=2008-09-12",
+  "source_sha256": "2c70728f7b0dd11bb36eca9d25a4081ce3e551b9948a59f1c94d28ee970b444c",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1017062&param=informatie",
+  "as_of": "2008-09-12",
+  "made": "2008-06-20",
+  "gazette": "2008-09-12",
+  "numac": 2008202834,
+  "document_start": "2008-09-12",
+  "document_end": null,
+  "in_force": "2008-09-12",
+  "article_versions": 10,
+  "record_form": "consolidated version as in force on 2008-09-12; oldest version available; future article versions excluded; article text as the API gives it"
+}
