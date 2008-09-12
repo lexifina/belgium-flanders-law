@@ -1,0 +1,17 @@
+{
+  "codex_id": 1017025,
+  "title": "Ministerieel besluit van 2008-08-18 waarbij de oprichting van rioolwaterzuiveringsinfrastructuur in de gemeente Pepingen en de gemeente Sint-Pieters-Leeuw van openbaar nut wordt verklaard",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1017025/VolledigDocument?datum=2008-09-12",
+  "source_sha256": "50241ae28a46929e00438091dc0a65a91bccd15a4a5ca92eb8a84da0ca47d054",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1017025&param=informatie",
+  "as_of": "2008-09-12",
+  "made": "2008-08-18",
+  "gazette": "2008-09-02",
+  "numac": 2008036051,
+  "document_start": "2008-09-12",
+  "document_end": null,
+  "in_force": "2008-09-12",
+  "article_versions": 8,
+  "record_form": "consolidated version as in force on 2008-09-12; oldest version available; future article versions excluded; article text as the API gives it"
+}
