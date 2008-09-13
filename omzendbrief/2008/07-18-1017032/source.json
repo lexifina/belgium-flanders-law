@@ -1,0 +1,17 @@
+{
+  "codex_id": 1017032,
+  "title": "Omzendbrief van 2008-07-18 BB 2008/09",
+  "type": "Omzendbrief",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1017032/VolledigDocument?datum=2008-09-13",
+  "source_sha256": "09289531d8f009a2390c6994d124416e128dd3acf5baa75665677a6b5a7fb385",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1017032&param=informatie",
+  "as_of": "2008-09-13",
+  "made": "2008-07-18",
+  "gazette": "2008-09-03",
+  "numac": 2008202871,
+  "document_start": "2008-09-13",
+  "document_end": null,
+  "in_force": "2008-09-13",
+  "article_versions": 1,
+  "record_form": "consolidated version as in force on 2008-09-13; oldest version available; future article versions excluded; article text as the API gives it"
+}
