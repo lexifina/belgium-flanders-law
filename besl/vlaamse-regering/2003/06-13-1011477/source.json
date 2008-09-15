@@ -2,16 +2,16 @@
   "codex_id": 1011477,
   "title": "Besluit van de Vlaamse Regering van 2003-06-13 houdende uitvoering van het decreet van 4 april 2003 betreffende het sociaal-cultureel volwassenenwerk",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1011477/VolledigDocument?datum=2006-06-01",
-  "source_sha256": "4a600d1e51a3b3c0efd7f22cc068dafc3cc20b5c1977421c2c42a6065e2ae1dd",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1011477/VolledigDocument?datum=2008-09-15",
+  "source_sha256": "0f1ee7e7e48ef14f60d01173ed2903e799d2faaec20a8577bc8f896fcc294db4",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1011477&param=informatie",
-  "as_of": "2006-06-01",
+  "as_of": "2008-09-15",
   "made": "2003-06-13",
   "gazette": "2003-07-23",
   "numac": 2003035767,
   "document_start": "2003-06-13",
   "document_end": "2008-09-14",
-  "in_force": "2006-06-01",
+  "in_force": "2008-09-15",
   "article_versions": 68,
-  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2008-09-15; future article versions excluded; article text as the API gives it"
 }
