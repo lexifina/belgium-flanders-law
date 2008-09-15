@@ -1,0 +1,17 @@
+{
+  "codex_id": 1017036,
+  "title": "Besluit van de Vlaamse Regering van 2008-06-13 houdende vastlegging van een model van overeenkomst tussen de Vlaamse Regering en de expertisenetwerken en regionale platformen in het kader van de lerarenopleidingen in Vlaanderen",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1017036/VolledigDocument?datum=2008-09-15",
+  "source_sha256": "db9604b99f5d3771866e0cbbb2f22061e5fd1940a79d1e801b26845cb9de2629",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1017036&param=informatie",
+  "as_of": "2008-09-15",
+  "made": "2008-06-13",
+  "gazette": "2008-09-05",
+  "numac": 2008203010,
+  "document_start": "2008-09-15",
+  "document_end": "2016-12-31",
+  "in_force": "2008-09-15",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2008-09-15; oldest version available; future article versions excluded; article text as the API gives it"
+}
