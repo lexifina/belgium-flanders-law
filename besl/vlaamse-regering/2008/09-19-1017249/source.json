@@ -1,0 +1,17 @@
+{
+  "codex_id": 1017249,
+  "title": "Besluit van de Vlaamse Regering van 2008-09-19 betreffende de nadere modaliteiten en de procedure voor de opheffing of gedeeltelijke opheffing van de erkenning van een Centrum voor Basiseducatie of een Centrum voor Volwassenenonderwijs",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1017249/VolledigDocument?datum=2008-09-19",
+  "source_sha256": "b460fa9ed272ad2408b293c67b733c8937895f04513b921f6e012fb031a4d76d",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1017249&param=informatie",
+  "as_of": "2008-09-19",
+  "made": "2008-09-19",
+  "gazette": "2008-10-30",
+  "numac": 2008203822,
+  "document_start": "2008-09-19",
+  "document_end": "2010-11-25",
+  "in_force": "2008-09-19",
+  "article_versions": 21,
+  "record_form": "consolidated version as in force on 2008-09-19; oldest version available; future article versions excluded; article text as the API gives it"
+}
