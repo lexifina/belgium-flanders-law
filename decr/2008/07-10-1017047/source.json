@@ -1,0 +1,17 @@
+{
+  "codex_id": 1017047,
+  "title": "Decreet van 2008-07-10 tot bekrachtiging van het besluit van de Vlaamse Regering van 27 juni 2008 tot wijziging van sommige besluiten van de Vlaamse Regering met betrekking tot tijdelijke projecten in het basisonderwijs en secundair onderwijs",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1017047/VolledigDocument?datum=2008-09-20",
+  "source_sha256": "17550b20f2180cd16671f4628f513212de71f7599bcbfb788e4124d739b270bc",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1017047&param=informatie",
+  "as_of": "2008-09-20",
+  "made": "2008-07-10",
+  "gazette": "2008-09-10",
+  "numac": 2008203166,
+  "document_start": "2008-09-20",
+  "document_end": "2016-12-31",
+  "in_force": "2008-09-20",
+  "article_versions": 2,
+  "record_form": "consolidated version as in force on 2008-09-20; oldest version available; future article versions excluded; article text as the API gives it"
+}
