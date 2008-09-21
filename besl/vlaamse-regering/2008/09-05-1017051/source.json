@@ -1,0 +1,17 @@
+{
+  "codex_id": 1017051,
+  "title": "Besluit van de Vlaamse Regering van 2008-09-05 houdende sluiting van de zitting 2007-2008 van het Vlaams Parlement",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1017051/VolledigDocument?datum=2008-09-21",
+  "source_sha256": "5f3f4070e50b027c8c1e6609b46f6f4f361345d47ca692400e216c298722fe38",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1017051&param=informatie",
+  "as_of": "2008-09-21",
+  "made": "2008-09-05",
+  "gazette": "2008-09-11",
+  "numac": 2008203098,
+  "document_start": "2008-09-21",
+  "document_end": null,
+  "in_force": "2008-09-21",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2008-09-21; oldest version available; future article versions excluded; article text as the API gives it"
+}
