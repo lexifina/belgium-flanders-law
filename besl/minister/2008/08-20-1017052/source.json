@@ -1,0 +1,17 @@
+{
+  "codex_id": 1017052,
+  "title": "Ministerieel besluit van 2008-08-20 betreffende de voorlopige schrapping van roerende goederen in de lijst van het cultureel erfgoed van de Vlaamse Gemeenschap",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1017052/VolledigDocument?datum=2008-09-21",
+  "source_sha256": "4f443a356134c009aaa8e1a9e4a62a5f5b64b7f49c37b260383363533a0064eb",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1017052&param=informatie",
+  "as_of": "2008-09-21",
+  "made": "2008-08-20",
+  "gazette": "2008-09-11",
+  "numac": 2008203173,
+  "document_start": "2008-09-21",
+  "document_end": null,
+  "in_force": "2008-09-21",
+  "article_versions": 2,
+  "record_form": "consolidated version as in force on 2008-09-21; oldest version available; future article versions excluded; article text as the API gives it"
+}
