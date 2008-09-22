@@ -1,0 +1,17 @@
+{
+  "codex_id": 1017446,
+  "title": "Besluit van de Vlaamse Regering van 2008-10-24 tot wijziging van het besluit van de Vlaamse Regering van 29 september 2006 tot vaststelling van de regels voor het algemene personeelsbeleid en het specifieke personeelsbeleid in de diensten van de Vlaamse overheid en in de Vlaamse openbare instellingen",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1017446/VolledigDocument?datum=2008-09-22",
+  "source_sha256": "4a68eabee9f47f376523535f465f935e232e480469bec614b7bde87ad53e99c5",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1017446&param=informatie",
+  "as_of": "2008-09-22",
+  "made": "2008-10-24",
+  "gazette": "2009-01-14",
+  "numac": 2008204704,
+  "document_start": "2008-09-22",
+  "document_end": null,
+  "in_force": "2008-09-22",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2008-09-22; oldest version available; future article versions excluded; article text as the API gives it"
+}
