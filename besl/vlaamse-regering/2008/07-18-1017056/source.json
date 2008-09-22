@@ -1,0 +1,17 @@
+{
+  "codex_id": 1017056,
+  "title": "Besluit van de Vlaamse Regering van 2008-07-18 tot internationale ratificatie van het verdrag tussen het Vlaams Gewest en het Koninkrijk der Nederlanden inzake het gemeenschappelijk nautisch beheer in het Scheldegebied, ondertekend in Middelburg op 21 december 2005, en goedgekeurd bij het decreet van 9 maart 2007",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1017056/VolledigDocument?datum=2008-09-22",
+  "source_sha256": "9f683f23f2513a3f13d1881145c712c8a6d7828164dcb5047afcc27b231cb5d1",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1017056&param=informatie",
+  "as_of": "2008-09-22",
+  "made": "2008-07-18",
+  "gazette": "2008-09-12",
+  "numac": 2008203090,
+  "document_start": "2008-09-22",
+  "document_end": null,
+  "in_force": "2008-09-22",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2008-09-22; oldest version available; future article versions excluded; article text as the API gives it"
+}
