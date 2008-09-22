@@ -1,0 +1,17 @@
+{
+  "codex_id": 1017053,
+  "title": "Decreet van 2007-03-09 houdende instemming met het verdrag tussen het Vlaams Gewest en het Koninkrijk der Nederlanden inzake de beëindiging van de onderlinge koppeling van de loodsgeldtarieven, ondertekend in Middelburg op 21 december 2005, het verdrag tussen het Vlaams Gewest en het Koninkrijk der Nederlanden betreffende de uitvoering van de Ontwikkelingsschets 2010 Schelde-estuarium, en de bijlagen A, B, C, D en E, ondertekend in Middelburg op 21 december 2005, het verdrag tussen het Vlaams Gewest en het Koninkrijk der Nederlanden inzake het gemeenschappelijk nautisch beheer in het Scheldegebied, ondertekend in Middelburg op 21 december 2005, en het verdrag tussen de Vlaamse Gemeenschap en het Vlaams Gewest enerzijds en het Koninkrijk der Nederlanden, anderzijds inzake de samenwerking op het gebied van het beleid en het beheer in het Schelde-estuarium, ondertekend in Middelburg op 21 december 2005",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1017053/VolledigDocument?datum=2008-09-22",
+  "source_sha256": "73bab4d9ceb453d8d6de306c1050ca52b5720648f07120368d40230fac45d46f",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1017053&param=informatie",
+  "as_of": "2008-09-22",
+  "made": "2007-03-09",
+  "gazette": "2008-09-12",
+  "numac": 2008202563,
+  "document_start": "2008-09-22",
+  "document_end": null,
+  "in_force": "2008-09-22",
+  "article_versions": 5,
+  "record_form": "consolidated version as in force on 2008-09-22; oldest version available; future article versions excluded; article text as the API gives it"
+}
