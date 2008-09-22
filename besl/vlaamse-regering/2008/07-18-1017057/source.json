@@ -1,0 +1,17 @@
+{
+  "codex_id": 1017057,
+  "title": "Besluit van de Vlaamse Regering van 2008-07-18 tot internationale ratificatie van het verdrag tussen de Vlaamse Gemeenschap en het Vlaams Gewest, enerzijds en het Koninkrijk der Nederlanden, anderzijds inzake de samenwerking op het gebied van het beleid en het beheer in het Schelde-estuarium, ondertekend in Middelburg op 21 december 2005, en goedgekeurd bij het decreet van 9 maart 2007",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1017057/VolledigDocument?datum=2008-09-22",
+  "source_sha256": "672855f750402e7625c7e3a48fb7ec50ba48cc575bdd0a1a3733b54417e950a8",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1017057&param=informatie",
+  "as_of": "2008-09-22",
+  "made": "2008-07-18",
+  "gazette": "2008-09-12",
+  "numac": 2008203092,
+  "document_start": "2008-09-22",
+  "document_end": null,
+  "in_force": "2008-09-22",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2008-09-22; oldest version available; future article versions excluded; article text as the API gives it"
+}
