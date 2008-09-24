@@ -2,16 +2,16 @@
   "codex_id": 1016123,
   "title": "Besluit van de Vlaamse Regering van 2007-07-19 tot het bepalen van de nadere regels voor het vervoer van meststoffen en houdende uitvoering van artikel 8, § 5, 3°, van het decreet van 22 december 2006 houdende de bescherming van water tegen de verontreiniging door nitraten uit agrarische bronnen",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1016123/VolledigDocument?datum=2007-08-31",
-  "source_sha256": "bff95ba32adfe3f03bc087537b187bdea1464f95fdec0d49f4131e31ed810e35",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1016123/VolledigDocument?datum=2008-09-24",
+  "source_sha256": "70f0ec1cddc3ac0237c37d6d787a080d392db2049092b605dced59265aa72a74",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1016123&param=informatie",
-  "as_of": "2007-08-31",
+  "as_of": "2008-09-24",
   "made": "2007-07-19",
   "gazette": "2007-08-31",
   "numac": 2007036478,
   "document_start": "2007-08-31",
   "document_end": "2013-05-03",
-  "in_force": "2007-08-31",
+  "in_force": "2008-09-24",
   "article_versions": 49,
-  "record_form": "consolidated version as in force on 2007-08-31; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2008-09-24; future article versions excluded; article text as the API gives it"
 }
