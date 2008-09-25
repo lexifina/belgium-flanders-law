@@ -28,7 +28,9 @@ Voor de toepassing van dit besluit wordt verstaan onder :<br>
 17° privaat patrimonium : het geheel van de vorderingen en rechten, schulden en verplichtingen, liquide middelen en van alle bezittingen, van welke aard ook, roerende en onroerende, van het bestuur van de eredienst die niet rechtstreeks aangewend worden voor de eredienst of voor de dagelijkse werking van het bestuur van de eredienst;<br>
 18° hoofdfuncties : de hoofdindeling van de financiële rapportering, zowel qua ontvangsten als qua uitgaven, in de eredienst, de gebouwen van de eredienst, het bestuur van de eredienst, het privaat patrimonium, de stichtingen en de financiering. Die hoofdfuncties worden onderscheiden, zowel binnen de exploitatie als binnen de investeringen;<br>
 19° investeringsproject : geheel van samenhangende ontvangsten en uitgaven die verband houden met één investering;<br>
-20° overboeking : elke overdracht van exploitatie naar investeringen.
+20° overboeking : elke overdracht van exploitatie naar investeringen.<br>
+21° gecorrigeerd overschot of tekort van de exploitatie van twee financiële boekjaren voordien : het overschot of tekort van de exploitatie van twee financiële boekjaren voordien, verminderd met het bedrag dat als gecorrigeerd overschot of tekort van de exploitatie van twee financiële boekjaren voordien werd opgenomen in het budget voor het voorgaande financieel boekjaar.<br>
+&nbsp;
 
 ### ART. 2.
 
@@ -74,7 +76,7 @@ Alle cijfers van het meerjarenplan mogen worden afgerond tot op de gehele euro.<
 
 ### ART. 9.
 
-In elk van de financiële boekjaren waarop het meerjarenplan betrekking heeft, is het totaal van de geraamde ontvangsten in de exploitatie, aangevuld met de eventuele gemeentelijke of provinciale exploitatietoelage, en het eventuele overschot of tekort van de exploitatie van twee financiële boekjaren voordien, gelijk aan de som van de geraamde uitgaven in de exploitatie en de overboekingen. De gemeentelijke of provinciale exploitatietoelage is de sluitpost van die berekening.<br /><br />In elk van de financiële boekjaren waarop het meerjarenplan betrekking heeft, is het verschil van de investeringsontvangsten, inclusief de overboekingen, en de investeringsuitgaven gelijk aan of groter dan nul.<br /><br />In afwijking van het eerste lid mag voor de zelfbedruipende besturen het totaal van de geraamde ontvangsten in de exploitatie, aangevuld met het overschot of tekort van de exploitatie van twee financiële boekjaren voordien, ook groter zijn dan de som van de geraamde uitgaven in de exploitatie en de overboekingen.<br /><br />
+In elk van de financiële boekjaren waarop het meerjarenplan of de wijziging van het meerjarenplan betrekking heeft,  behalve het eerste, is het totaal van de geraamde ontvangsten in de exploitatie, aangevuld met de eventuele gemeentelijke of provinciale exploitatietoelage,  gelijk aan de som van de geraamde uitgaven in de exploitatie en de overboekingen. De gemeentelijke of provinciale exploitatietoelage is de sluitpost van die berekening.<br /><br />Voor het eerste financieel boekjaar waarop het meerjarenplan of de wijziging van het meerjarenplan betrekking heeft, geldt de bepaling van artikel 20, eerste lid.<br /><br />In elk van de financiële boekjaren waarop het meerjarenplan betrekking heeft, is het verschil van de investeringsontvangsten, inclusief de overboekingen, en de investeringsuitgaven gelijk aan of groter dan nul.<br /><br />De zelfbedruipende besturen mogen gemotiveerd afwijken van de bepalingen van dit artikel.<br />
 
 ### ART. 10.
 
@@ -137,11 +139,12 @@ Alle budgetcijfers mogen worden afgerond tot op de gehele euro. <br />
 
 ### ART. 20.
 
-Het totaal van de geraamde ontvangsten in de exploitatie, aangevuld met de eventuele gemeentelijke of provinciale exploitatietoelage, en het overschot of tekort van de exploitatie van twee financiële boekjaren voordien, moet gelijk zijn aan de som van de geraamde uitgaven in de exploitatie en de overboekingen. De gemeentelijke of provinciale exploitatietoelage is de sluitpost van die berekening.<br>
+Het totaal van de geraamde ontvangsten in de exploitatie, aangevuld met de eventuele gemeentelijke of provinciale exploitatietoelage, en het gecorrigeerd overschot of tekort van de exploitatie van twee financiële boekjaren voordien, moet gelijk zijn aan de som van de geraamde uitgaven in de exploitatie en de overboekingen. De gemeentelijke of provinciale exploitatietoelage is de sluitpost van die berekening.<br>
 <br>
 Het saldo van de geraamde ontvangsten en de uitgaven van de investeringen, met inbegrip van het overschot of tekort van de investeringen van twee financiële boekjaren voordien, het eventuele negatieve saldo van de budgetwijziging van het voorgaande financieel boekjaar, vermeld in artikel 23, tweede lid, en de overboekingen, is gelijk aan of groter dan nul.<br>
 <br>
-In afwijking van het eerste lid mag voor de zelfbedruipende besturen het totaal van de geraamde ontvangsten in de exploitatie, aangevuld met het overschot of tekort van de exploitatie van twee financiële boekjaren voordien, ook groter zijn dan de som van de geraamde uitgaven in de exploitatie en de overboekingen.
+De zelfbedruipende besturen mogen gemotiveerd afwijken van de bepalingen van dit artikel.<br>
+&nbsp;
 
 ### ART. 21.
 
