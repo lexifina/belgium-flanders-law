@@ -1,0 +1,17 @@
+{
+  "codex_id": 1017069,
+  "title": "Ministerieel besluit van 2008-09-05 tot wijziging van het ministerieel besluit van 27 november 2006 tot vaststelling van de modellen van de boekhouding van de besturen van de eredienst en ter uitvoering van artikel 46 van het besluit van de Vlaamse Regering van 13 oktober 2006 houdende het algemeen reglement op de boekhouding van de besturen van de eredienst en van de centrale besturen van de eredienst",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1017069/VolledigDocument?datum=2008-09-25",
+  "source_sha256": "f12147f2ffbcfe3aeca13ca7aadca29552578fa546b4beeae423c570a9c9f5f3",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1017069&param=informatie",
+  "as_of": "2008-09-25",
+  "made": "2008-09-05",
+  "gazette": "2008-09-15",
+  "numac": 2008036050,
+  "document_start": "2008-09-25",
+  "document_end": null,
+  "in_force": "2008-09-25",
+  "article_versions": 6,
+  "record_form": "consolidated version as in force on 2008-09-25; oldest version available; future article versions excluded; article text as the API gives it"
+}
