@@ -48,21 +48,25 @@ De kerkfabrieken van de orthodoxe eredienst volgen voor de rekeningen 100, 200, 
 
 De islamitische gemeenschappen volgen voor de rekeningen 100, 200, 201 en 202 van hun rekeningenstelsel de minimumindeling, opgenomen als bijlage IX bij dit besluit. In hun jaarrekeningen volgen ze dezelfde minimumindeling.<br /><br />
 
+### ART. 12.
+
+Op elk meerjarenplan, elke wijziging van het meerjarenplan, elk budget, elke budgetwijziging, elke interne kredietaanpassing, elke jaarrekening en elke eindrekening wordt de naam en het adres van het bestuur vermeld. Op de jaarrekening en de eindrekening wordt ook de naam en het adres van de penningmeester vermeld.
+
 ### Bijlage I.
 
 <a href="http://www.ejustice.just.fgov.be/mopdf/2006/12/29_6.pdf#page=215" title=" bijlage I" target="_blank" class="pdf">bijlage I</a>
 
 ### Bijlage II.
 
-<a href="http://www.ejustice.just.fgov.be/mopdf/2006/12/29_6.pdf#page=219" title=" bijlage II" target="_blank" class="pdf">bijlage II</a>
+<a href="http://www.ejustice.just.fgov.be/mopdf/2008/09/15_1.pdf#page=55" title=" Bijlage" target="_blank" class="pdf">Bijlage</a>
 
 ### Bijlage III.
 
-<a href="http://www.ejustice.just.fgov.be/mopdf/2006/12/29_6.pdf#page=226" title=" bijlage III" target="_blank" class="pdf">bijlage III</a>
+<a href="http://www.ejustice.just.fgov.be/mopdf/2008/09/15_1.pdf#page=62" title=" Bijlage" target="_blank" class="pdf">Bijlage</a>
 
 ### Bijlage IV.
 
-<a href="http://www.ejustice.just.fgov.be/mopdf/2006/12/29_6.pdf#page=232" title=" bijlage IV" target="_blank" class="pdf">bijlage IV</a>
+<a href="http://www.ejustice.just.fgov.be/mopdf/2008/09/15_1.pdf#page=68" title=" Bijlage" target="_blank" class="pdf">Bijlage</a>
 
 ### Bijlage V.
 
