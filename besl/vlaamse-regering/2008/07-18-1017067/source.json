@@ -1,0 +1,17 @@
+{
+  "codex_id": 1017067,
+  "title": "Besluit van de Vlaamse Regering van 2008-07-18 houdende de verdeling van een deel van het krediet ingeschreven op basisallocatie FB0105B van de algemene uitgavenbegroting van de Vlaamse Gemeenschap 2008",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1017067/VolledigDocument?datum=2008-09-25",
+  "source_sha256": "e38a3d36c23f6b86f796a16b741e65a9594aad7294f0cd772f4a04963a48f662",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1017067&param=informatie",
+  "as_of": "2008-09-25",
+  "made": "2008-07-18",
+  "gazette": "2008-09-15",
+  "numac": 2008203042,
+  "document_start": "2008-09-25",
+  "document_end": null,
+  "in_force": "2008-09-25",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2008-09-25; oldest version available; future article versions excluded; article text as the API gives it"
+}
