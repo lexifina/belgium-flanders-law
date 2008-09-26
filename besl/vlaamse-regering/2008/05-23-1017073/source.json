@@ -1,0 +1,17 @@
+{
+  "codex_id": 1017073,
+  "title": "Besluit van de Vlaamse Regering van 2008-05-23 houdende klassering van een gedeelte van de Pedegracht en van de Molenbeek/Neerpedebeek tot onbevaarbare waterlopen van tweede categorie",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1017073/VolledigDocument?datum=2008-09-26",
+  "source_sha256": "f3da4abfbbdb2c8de21193937ea15fdb4cd3027082c61ddf3f4b27bb563c9d8d",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1017073&param=informatie",
+  "as_of": "2008-09-26",
+  "made": "2008-05-23",
+  "gazette": "2008-09-16",
+  "numac": 2008203186,
+  "document_start": "2008-09-26",
+  "document_end": null,
+  "in_force": "2008-09-26",
+  "article_versions": 5,
+  "record_form": "consolidated version as in force on 2008-09-26; oldest version available; future article versions excluded; article text as the API gives it"
+}
