@@ -1,0 +1,17 @@
+{
+  "codex_id": 1017163,
+  "title": "Ministerieel besluit van 2008-09-30 tot uitvoering van artikel 11 van het besluit van de Vlaamse Regering van 10 oktober 2003 tot toekenning van steun aan kleine en middelgrote ondernemingen voor investeringen in het Vlaamse Gewest",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1017163/VolledigDocument?datum=2008-09-30",
+  "source_sha256": "5e59730f06c6f78d00026d58197d6df68c4fc106e4b90996d192d80e2646a558",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1017163&param=informatie",
+  "as_of": "2008-09-30",
+  "made": "2008-09-30",
+  "gazette": "2008-10-16",
+  "numac": 2008036210,
+  "document_start": "2008-09-30",
+  "document_end": null,
+  "in_force": "2008-09-30",
+  "article_versions": 6,
+  "record_form": "consolidated version as in force on 2008-09-30; oldest version available; future article versions excluded; article text as the API gives it"
+}
