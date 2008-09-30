@@ -72,6 +72,10 @@ Aan artikel 17, § 2, van het decreet van 19 april 1995 houdende maatregelen ter
 
 ## HOOFDSTUK VI Vlaams Gemeentefonds
 
+### ART. 41.
+
+Aan artikel 22 van hetzelfde decreet worden de volgende wijzigingen aangebracht :<br />1° in § 4 wordt « 30 september 2008 » vervangen door « 30 september 2009 »;<br />2° in § 5 wordt het jaartal « 2009 » vervangen door het jaartal « 2010 »;<br />3° in § 6 wordt het jaartal « 2008 » vervangen door het jaartal « 2009 »;<br />4° in § 6bis wordt « 30 september 2008 » vervangen door « 30 september 2009 ».<br /><br />
+
 ## HOOFDSTUK VII Overname schuld provinciewegen
 
 ## HOOFDSTUK VIII Flanders House Inc.
