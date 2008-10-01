@@ -2,16 +2,16 @@
   "codex_id": 1025474,
   "title": "Ministerieel besluit van 2003-11-06 tot vaststelling van het bedrag en de voorwaarden voor de toekenning van de tegemoetkoming, bedoeld in artikel 37, § 12, van de wet betreffende de verplichte verzekering voor geneeskundige verzorging en uitkeringen, gecoördineerd op 14 juli 1994, in de rust- en verzorgingstehuizen en in de rustoorden voor bejaarden",
   "type": "Ministerieel besluit",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1025474/VolledigDocument?datum=2008-07-01",
-  "source_sha256": "fa168ddf72134231c2a3977be4b7b39611d04f0ef6a271e95438f97e7ec2c77d",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1025474/VolledigDocument?datum=2008-10-01",
+  "source_sha256": "4e8221160bb616332ed0cd80afcd24acac9acc0b5a3fa4dd5ac27199a6b96b33",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1025474&param=informatie",
-  "as_of": "2008-07-01",
+  "as_of": "2008-10-01",
   "made": "2003-11-06",
   "gazette": "2003-11-26",
   "numac": 0,
   "document_start": "2004-01-01",
   "document_end": "2018-12-31",
-  "in_force": "2008-07-01",
+  "in_force": "2008-10-01",
   "article_versions": 55,
-  "record_form": "consolidated version as in force on 2008-07-01; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2008-10-01; future article versions excluded; article text as the API gives it"
 }
