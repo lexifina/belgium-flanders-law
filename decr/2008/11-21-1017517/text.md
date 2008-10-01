@@ -176,6 +176,22 @@ In artikel 11 van het decreet van 17 maart 1998 houdende diverse beleidsbepaling
 
 ## HOOFDSTUK XXII Personen met een arbeidshandicap
 
+### ART. 77.
+
+In artikel 2 van het decreet van 7 mei 2004 tot oprichting van het publiekrechtelijk vormgegeven extern verzelfstandigd agentschap « Vlaamse Dienst voor Arbeidsbemiddeling en Beroepsopleiding » wordt punt 10° vervangen door wat volgt :<br />« 10° persoon met een arbeidshandicap : een persoon met een langdurig en belangrijk probleem van deelname aan het arbeidsleven dat te wijten is aan het samenspel tussen functiestoornissen van mentale, psychische, lichamelijke of zintuiglijke aard, beperkingen bij het uitvoeren van activiteiten en persoonlijke en externe factoren en die ingeschreven is bij de VDAB.<br /><br />De Vlaamse Regering bepaalt de criteria en de procedure aan de hand waarvan de VDAB bepaalt of een persoon al dan niet een arbeidshandicap heeft. ».<br /><br />
+
+### ART. 78.
+
+In artikel 5, § 1, van hetzelfde decreet worden de volgende wijzigingen aangebracht :<br />1° in punt 5° wordt het woord « handicap » vervangen door het woord « arbeidshandicap »;<br /><br />2° punt 5°, a), wordt vervangen door wat volgt :<br />« a) het toekennen van tegemoetkomingen ter ondersteuning van de inschakeling op de arbeidsmarkt van de personen met een arbeidshandicap.<br /><br />De Vlaamse Regering bepaalt de aard van de tegemoetkomingen, de procedure die wordt gehanteerd en de bijkomende voorwaarden waaraan de persoon met een arbeidshandicap moet voldoen. ».<br /><br />
+
+### ART. 79.
+
+Artikel 582, 2°, van het Gerechtelijk Wetboek, wat de Vlaamse Gemeenschap betreft aangevuld bij decreten van 12 november 1997 en 7 mei 2004, wordt aangevuld met de woorden « en van de geschillen voortvloeiend uit artikel 5, § 1, 5°, a en b, van het decreet tot oprichting van het publiekrechtelijk vormgegeven extern verzelfstandigd agentschap « Vlaamse Dienst voor Arbeidsbemiddeling en Beroepsopleiding » ».<br /><br />
+
+### ART. 80.
+
+In artikel 79 van het decreet van 23 december 2005 houdende bepalingen tot begeleiding van de begroting 2006 worden de volgende wijzigingen aangebracht :<br />1° de woorden « handicap » worden vervangen door de woorden « arbeidshandicap »;<br />2° § 1, eerste lid, wordt vervangen door wat volgt :<br />« De personen met een arbeidshandicap die wegens de aard of de ernst van hun arbeidshandicap niet of nog niet in het normale economische arbeidscircuit beroepsactiviteiten kunnen uitoefenen, kunnen, hetzij voltijds, hetzij deeltijds, in beschutte werkplaatsen worden tewerkgesteld, die worden erkend en gesubsidieerd door het Vlaams Subsidieagentschap voor Werk en Sociale Economie.<br /><br />De Vlaamse Regering bepaalt de criteria en de procedure aan de hand waarvan de Vlaamse Dienst voor Arbeidsbemiddeling en Beroepsopleiding bepaalt of een persoon al dan niet een arbeidshandicap heeft en voldoet aan de hierboven gestelde voorwaarden. ».<br /><br />
+
 ## HOOFDSTUK XXIII Leefmilieu en energie
 
 ## Afdeling I Grondwaterbeheer
