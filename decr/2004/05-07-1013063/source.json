@@ -2,16 +2,16 @@
   "codex_id": 1013063,
   "title": "Decreet van 2004-05-07 tot oprichting van het publiekrechtelijk vormgegeven extern verzelfstandigd agentschap \"Vlaamse Dienst voor Arbeidsbemiddeling en Beroepsopleiding\"",
   "type": "Decreet",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1013063/VolledigDocument?datum=2007-07-09",
-  "source_sha256": "187115d5317424f9c24e2ecb1fce098ab572c9ec1e3bf82fee744c5ed8bcb288",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1013063/VolledigDocument?datum=2008-10-01",
+  "source_sha256": "92ba1ff4cd0303a53661361224191679636529f33de9a9dea4bfa6caa9d30bbd",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1013063&param=informatie",
-  "as_of": "2007-07-09",
+  "as_of": "2008-10-01",
   "made": "2004-05-07",
   "gazette": "2004-06-07",
   "numac": 2004035865,
   "document_start": "2006-04-01",
   "document_end": null,
-  "in_force": "2007-07-09",
+  "in_force": "2008-10-01",
   "article_versions": 26,
-  "record_form": "consolidated version as in force on 2007-07-09; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2008-10-01; future article versions excluded; article text as the API gives it"
 }
