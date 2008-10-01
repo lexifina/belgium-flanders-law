@@ -36,11 +36,23 @@ Aan artikel 253 van het Wetboek van de inkomstenbelastingen 1992 wordt na de zin
 
 ## Afdeling V Successierechten
 
+### ART. 29.
+
+Aan artikel 27 van het Wetboek der successierechten wordt een tweede lid toegevoegd, dat luidt als volgt :<br />« In afwijking van artikel 18 geldt als aannemelijk passief met betrekking tot de nalatenschap van iemand die geen rijksinwoner is, maar wiens domicilie of zetel van zijn vermogen gevestigd was binnen de Europese Economische Ruimte, de schulden waarvan de aangevers het bewijs leveren dat ze specifiek werden aangegaan om deze onroerende goederen te verwerven of te behouden. »<br /><br />
+
 ### ART. 30.
 
 In artikel 21 van het Wetboek der successierechten wordt in het tweede lid van de tekst sub III het woord « twee » vervangen door het woord « drie ».<br /><br />
 
 ## Afdeling VI Verlaagde tarieven inzake schenkings- en successierechten
+
+### ART. 31.
+
+Artikel 140, tweede lid, van het Wetboek der registratie-, hypotheek- en griffierechten wordt vervangen door wat volgt :<br />« De verlagingen vermeld sub 1°, 2° en 3°, zijn ook toepasselijk op gelijkaardige rechtspersonen die opgericht zijn volgens en onderworpen zijn aan de wetgeving van een lidstaat van de Europese Economische Ruimte, en die bovendien hun statutaire zetel, hun hoofdbestuur of hun hoofdvestiging binnen de Europese Economische Ruimte hebben. »<br /><br />
+
+### ART. 32.
+
+Artikel 60 van het Wetboek der Successierechten wordt vervangen door wat volgt :<br />« De verlagingen bepaald in artikel 59 zijn ook toepasselijk op gelijkaardige rechtspersonen die opgericht zijn volgens en onderworpen zijn aan de wetgeving van een lidstaat van de Europese Economische Ruimte, en die bovendien hun statutaire zetel, hun hoofdbestuur of hun hoofdvestiging binnen de Europese Economische Ruimte hebben. »<br /><br />
 
 ## HOOFDSTUK IV Pooling van de verzekeringen van de agentschappen
 
