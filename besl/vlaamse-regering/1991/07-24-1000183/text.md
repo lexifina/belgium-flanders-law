@@ -84,13 +84,13 @@ Indien zich in de toestand van de persoon met een handicap een zodanig belangrij
 
 ### ART. 12.
 
-Er wordt in elke provincie een evaluatiecommissie opgericht. Deze evaluatiecommissie bepaalt de handicap en de behoefte aan bijstand tot sociale integratie en stelt een individueel integratieprotocol op. Het behoeftenprofiel in de sectoren "zorg" en "werk" wordt samengesteld op basis van bijstandsvelden. De minister, bevoegd voor de bijstand aan personen, bepaalt de samenstelling van de bijstandsvelden. <br /><br />De zetel van elke evaluatiecommissie is gevestigd in de hoofdplaats van de provincie.<br /><br />De provinciale evaluatiecommissie Brabant onderzoekt de aanvragen die ingediend zijn door de personen met een handicap die wonen in het arrondissement Leuven en in het administratief arrondissement Halle-Vilvoorde, alsmede door de personen met een handicap die wonen in Brussel-Hoofdstad en hun aanvraag indienden overeenkomstig de bepalingen van artikel 1, §3. Diezelfde evaluatiecommissie onderzoekt de aanvragen, bedoeld in artikel 1, § 4.
+Er wordt in elke provincie een evaluatiecommissie opgericht. Deze evaluatiecommissie bepaalt de handicap en de behoefte aan bijstand tot sociale integratie en stelt een individueel integratieprotocol op. Het behoeftenprofiel in de sector "zorg" wordt samengesteld op basis van bijstandsvelden. De minister, bevoegd voor de bijstand aan personen, bepaalt de samenstelling van de bijstandsvelden. <br /><br />De zetel van elke evaluatiecommissie is gevestigd in de hoofdplaats van de provincie.<br /><br />De provinciale evaluatiecommissie Brabant onderzoekt de aanvragen die ingediend zijn door de personen met een handicap die wonen in het arrondissement Leuven en in het administratief arrondissement Halle-Vilvoorde, alsmede door de personen met een handicap die wonen in Brussel-Hoofdstad en hun aanvraag indienden overeenkomstig de bepalingen van artikel 1, §3. Diezelfde evaluatiecommissie onderzoekt de aanvragen, bedoeld in artikel 1, § 4.
 
 ## AFDELING 1 SAMENSTELLING
 
 ### ART. 13.
 
-§ 1. De evaluatiecommissie bestaat uit tien leden en tien plaatsvervangende leden.<br /><br />De volgende diplomavereisten moeten door minimaal 5 leden worden gewaarborgd:<br />1° doctor in de genees-, heel- en verloskunde;<br />2° licentiaat in de psychologische of pedagogische wetenschappen;<br />3° licentiaat in de sociale of economische wetenschappen, of licentiaat of doctor in de rechten;<br />4° houder van een diploma van het sociaal hoger onderwijs van het korte type;<br />5° houder van een diploma van het paramedisch hoger onderwijs van het korte type, of licentiaten in de motorische revalidatie of in de kinesitherapie.<br /><br />In elke evaluatiecommissie zit daarenboven minstens één ervaringsdeskundige, en de domeinen opvang, behandeling en begeleiding van personen met een handicap, tewerkstelling van personen met een handicap en individuele materiële bijstand zijn vertegenwoordigd. <br /><br />§ 2. Onder de leden en de plaatsvervangende leden van de provinciale evaluatiecommissie Brabant dient minstens één lid woonachtig te zijn in het Brussels Hoofdstedelijk Gewest.<br /><br />§ 3. Onder de leden en de plaatsvervangende leden van elke provinciale evaluatiecommissie worden minstens één ambtenaar en ten hoogste twee ambtenaren ambtshalve door de Vlaamse minister, bevoegd voor de bijstand aan personen, aangewezen.<br /><br />§ 3bis. Onder de leden en de plaatsvervangende leden van elke provinciale evaluatiecommissie wordt één ambtenaar van de Vlaamse Dienst voor Arbeidsbemiddeling en Beroepsopleiding aangewezen door de Vlaamse minister, bevoegd voor de bijstand aan personen, op voordracht van de Vlaamse Dienst voor Arbeidsbemiddeling en Beroepsopleiding.<br /><br />§ 4. Elk lid van een evaluatiecommissie dient tenminste 3 jaar nuttige ervaring in verband met gehandicaptenproblematiek voor te leggen.
+§ 1. De evaluatiecommissie bestaat uit tien leden en tien plaatsvervangende leden.<br /><br />De volgende diplomavereisten moeten door minimaal 5 leden worden gewaarborgd:<br />1° doctor in de genees-, heel- en verloskunde;<br />2° licentiaat in de psychologische of pedagogische wetenschappen;<br />3° licentiaat in de sociale of economische wetenschappen, of licentiaat of doctor in de rechten;<br />4° houder van een diploma van het sociaal hoger onderwijs van het korte type;<br />5° houder van een diploma van het paramedisch hoger onderwijs van het korte type, of licentiaten in de motorische revalidatie of in de kinesitherapie.<br /><br />In elke evaluatiecommissie zit daarenboven minstens één ervaringsdeskundige, en de domeinen opvang, behandeling en begeleiding van personen met een handicap en individuele materiële bijstand zijn vertegenwoordigd. <br /><br />§ 2. Onder de leden en de plaatsvervangende leden van de provinciale evaluatiecommissie Brabant dient minstens één lid woonachtig te zijn in het Brussels Hoofdstedelijk Gewest.<br /><br />§ 3. Onder de leden en de plaatsvervangende leden van elke provinciale evaluatiecommissie worden minstens één ambtenaar en ten hoogste twee ambtenaren ambtshalve door de Vlaamse minister, bevoegd voor de bijstand aan personen, aangewezen.<br /><br />§ 4. Elk lid van een evaluatiecommissie dient ten minste 3 jaar nuttige ervaring in verband met gehandicaptenproblematiek voor te leggen.
 
 ### ART. 14.
 
@@ -203,7 +203,28 @@ Bij het agentschap wordt een adviescommissie opgericht die tot taak heeft advies
 
 ### ART. 30.
 
-§ 1. De adviescommissie bestaat uit drie kamers.<br /><br />In geval van overbelasting van één of meer kamers, kunnen de verenigde kamers beslissen tot het bijkomend instellen van één of meer tijdelijke kamers. Deze beslissing moet bekrachtigd worden door de Vlaamse minister die bevoegd is voor de bijstand aan personen en die de werkingsduur ervan vaststelt.<br /><br />§ 2. Elke kamer bestaat uit 7 leden, met name:<br />1° een licentiaat of doctor in de rechten, bij voorkeur ambtenaar van het agentschap;<br />2° een doctor in de genees-, heel- en verloskunde;<br />3° een licentiaat in de psychologische of pedagogische wetenschappen;<br />4° een maatschappelijk werker;<br />5° twee leden met één van volgende kwalificaties:<br />a) licentiaat of gegradueerde in de kinesitherapie, logopedie of ergotherapie,<br />b) deskundige in de professionele integratie,<br />c) deskundige in de hulpmiddelentechniek;<br />6° een ambtenaar van het agentschap.<br /><br />Elk lid moet tenminste vijf jaar nuttige ervaring hebben in de gehandicaptenzorg, met uitzondering van de onder 1° en 6° van het eerste lid bedoelde leden.<br /><br />In elke kamer moeten de specialisaties zorg, individuele materiële bijstand en tewerkstelling verenigd zijn, met dien verstande dat eenzelfde lid ten hoogste twee specialisaties kan vertegenwoordigen.<br /><br />Een lid kan in meerdere kamers zetelen.<br /><br />Het lidmaatschap van een adviescommissie is onverenigbaar met het lidmaatschap van een provinciale evaluatiecommissie.
+§ 1. De adviescommissie bestaat uit drie kamers.<br>
+<br>
+In geval van overbelasting van één of meer kamers, kunnen de verenigde kamers beslissen tot het bijkomend instellen van één of meer tijdelijke kamers. Deze beslissing moet bekrachtigd worden door de Vlaamse minister die bevoegd is voor de bijstand aan personen en die de werkingsduur ervan vaststelt.<br>
+<br>
+§ 2. Elke kamer bestaat uit 7 leden, met name:<br>
+1° een licentiaat of doctor in de rechten, bij voorkeur ambtenaar van het agentschap;<br>
+2° een doctor in de genees-, heel- en verloskunde;<br>
+3° een licentiaat in de psychologische of pedagogische wetenschappen;<br>
+4° een maatschappelijk werker;<br>
+5° twee leden met één van volgende kwalificaties:<br>
+a) licentiaat of gegradueerde in de kinesitherapie, logopedie of ergotherapie,<br>
+b) deskundige in de professionele integratie,<br>
+c) deskundige in de hulpmiddelentechniek;<br>
+6° een ambtenaar van het agentschap.<br>
+<br>
+Elk lid moet tenminste vijf jaar nuttige ervaring hebben in de gehandicaptenzorg, met uitzondering van de onder 1° en 6° van het eerste lid bedoelde leden.<br>
+<br>
+In elke kamer moeten de specialisaties zorg en individuele materiële bijstand verenigd zijn, met dien verstande dat eenzelfde lid ten hoogste twee specialisaties kan vertegenwoordigen.<br>
+<br>
+Een lid kan in meerdere kamers zetelen.<br>
+<br>
+Het lidmaatschap van een adviescommissie is onverenigbaar met het lidmaatschap van een provinciale evaluatiecommissie.
 
 ### ART. 31.
 
