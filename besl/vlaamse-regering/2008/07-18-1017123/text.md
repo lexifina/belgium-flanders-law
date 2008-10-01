@@ -6,13 +6,45 @@ De Vlaamse Regering,<br /><br />Gelet op het decreet van 7 mei 2004 houdende opr
 
 ## HOOFDSTUK I. Algemene bepalingen
 
+### ART. 1.
+
+In dit besluit wordt verstaan onder :<br />1° VDAB : de Vlaamse Dienst voor Arbeidsbemiddeling en Beroepsopleiding, opgericht bij het decreet van 7 mei 2004 tot oprichting van het publiekrechtelijk vormgegeven extern verzelfstandigd agentschap « Vlaamse Dienst voor Arbeidsbemiddeling en Beroepsopleiding »;<br />2° raad van bestuur : de raad van bestuur van de Vlaamse Dienst voor Arbeidsbemiddeling en Beroepsopleiding, vermeld in artikel 7 van het decreet van 7 mei 2004 tot oprichting van het publiekrechtelijk vormgegeven extern verzelfstandigd agentschap « Vlaamse Dienst voor Arbeidsbemiddeling en Beroepsopleiding », met de bevoegdheden vermeld in artikel 12 van hetzelfde decreet;<br />3° arbeidshandicap : een langdurig en belangrijk probleem van deelname aan het arbeidsleven dat te wijten is aan het samenspel tussen functiestoornissen van mentale, psychische, lichamelijke of zintuiglijke aard, beperkingen bij het uitvoeren van activiteiten en persoonlijke en externe factoren;<br />4° gespecialiseerde arbeidsonderzoeksdienst (GA) : de dienst, vermeld in artikel 1, 10°, van het besluit van de Vlaamse Regering van 15 februari 2008 tot vaststelling van de regels voor de erkenning en financiering door de Vlaamse Dienst voor Arbeidsbemiddeling en Beroepsopleiding van de gespecialiseerde trajectbepalings- en -begeleidingsdienst, de gespecialiseerde arbeidsonderzoeksdiensten en de gespecialiseerde opleidings-, begeleidings- en bemiddelingsdiensten;<br />5° GIBO : de gespecialiseerde individuele beroepsopleiding in een onderneming, vermeld in artikel 3, § 5, § 6 en § 7, van het besluit van de Vlaamse Regering van 15 februari 2008 tot vaststelling van de regels voor de erkenning en de financiering door de Vlaamse Dienst voor Arbeidsbemiddeling en Beroepsopleiding van de gespecialiseerde trajectbepaling- en -begeleidingsdienst, de gespecialiseerde arbeidsonderzoeksdiensten en de gespecialiseerde opleidings-, begeleidings- en bemiddelingsdiensten;<br />6° Vlaamse Ondersteuningspremie (VOP) : tegemoetkoming aan een werkgever die een persoon met een arbeidshandicap aanwerft of heeft aangeworven, of aan een zelfstandige met een arbeidshandicap ter compensatie van de kosten van de inschakeling in het beroepsleven, de kosten van ondersteuning en van verminderde productiviteit;<br />7° bijzondere tewerkstellingsondersteunende maatregelen : maatregelen die beogen een persoon met een indicatie van arbeidshandicap beter te integreren op de arbeidsmarkt. Het gaat om aanpassingen van en aan de arbeidsomgeving, tegemoetkomingen in de verplaatsingskosten en verblijfkosten voor personen met een arbeidshandicap met mobiliteitsproblemen, ondersteuning door gebarentaal-, oraal- en schrijftolken, de Vlaamse Ondersteuningspremie en tewerkstelling in een beschutte werkplaats;<br />8° persoon met een arbeidshandicap : persoon met een indicatie van arbeidshandicap voor wie de VDAB op basis van hoofdstuk II beslist heeft dat hij recht heeft op één of meerdere bijzondere tewerkstellingsondersteunende maatregelen;<br />9° beschutte werkplaats : de beschutte werkplaats, vermeld in het besluit van de Vlaamse Regering van 17 december 1999 tot vaststelling van de erkenningsvoorwaarden van de beschutte werkplaatsen;<br />10° gespecialiseerd vervoer : niet-collectief vervoer, specifiek bedoeld voor en aangepast aan personen met een arbeidshandicap met mobiliteitsproblemen.
+
+### ART. 2.
+
+De krachtens dit besluit aan de werkgevers terugbetaalde kosten of uitgekeerde tegemoetkomingen zijn vrijgesteld van de aanmeldingsverplichting, vermeld in artikel 88, § 3, van het EG-verdrag krachtens de bepalingen van de Verordening (EG) nr. 800/2008 van de Commissie van 6 augustus 2008 waarbij bepaalde categorieën steun op grond van de artikelen 87 en 88 van het Verdrag met de gemeenschappelijke markt verenigbaar worden verklaard ("de algemene groepsvrijstellingsverordening").
+
 ## HOOFDSTUK II. Bepaling van de personen met een arbeidshandicap
+
+### ART. 3.
+
+De personen met een indicatie van een arbeidshandicap zijn :<br />1° personen met een handicap, erkend door het intern verzelfstandigd agentschap met rechtspersoonlijkheid Vlaams Agentschap voor Personen met een Handicap;<br />2° personen die gewezen leerling zijn van het buitengewoon onderwijs en die hoogstens een getuigschrift of diploma behaald hebben in het buitengewoon onderwijs;<br />3° personen die op basis van hun handicap in aanmerking komen voor een inkomensvervangende tegemoetkoming of integratietegemoetkoming, verstrekt aan personen met een handicap op basis van de wet van 27 februari 1987 houdende tegemoetkomingen aan personen met een handicap;<br />4° personen die in het bezit zijn van een afschrift van een definitief geworden gerechtelijke beslissing of van een attest van een bevoegde federale instelling waaruit een blijvende graad van arbeidsongeschiktheid blijkt;<br />5° personen die recht geven op bijkomende kinderbijslag of personen die recht hebben op een verhoogde kinderbijslag voor hun kind of kinderen ten laste als ouder met een handicap;<br />6° personen die een invaliditeitsuitkering ontvangen op basis van het koninklijk besluit van 3 juli 1996 tot uitvoering van de wet betreffende de verplichte verzekering voor geneeskundige verzorging en uitkeringen, gecoördineerd op 14 juli 1994;<br />7° personen met een attest van een door de VDAB aangewezen dienst of arts.
+
+### ART. 4.
+
+De VDAB bepaalt of een persoon met een indicatie van arbeidshandicap recht heeft op één of meerdere bijzondere tewerkstellingsondersteunende maatregelen. Dit recht kan van bepaalde duur of van onbepaalde duur zijn. De VDAB bepaalt dit op basis van een van de volgende documenten of onderzoeken :<br />1° een door de raad van bestuur vastgestelde lijst van aandoeningen en/of voorgeschiedenis van de persoon met een indicatie van een arbeidshandicap;<br />2° multidisciplinaire informatie;<br />3° een gespecialiseerd arbeidsonderzoek, uitgevoerd door een GA.<br /><br />Indien een persoon met een indicatie van arbeidshandicap recht krijgt op één of meerdere bijzondere tewerkstellingsondersteunende maatregelen, dan wordt die persoon een persoon met een arbeidshandicap genoemd.<br /><br />Met uitzondering van hoofdstuk VII behouden de personen die voor de inwerkingtreding van dit besluit een behoefteprofiel hebben, overeenkomend met een bijstandsveld W2 of W3 als vermeld in de bijlage die gevoegd is bij het ministerieel besluit van 27 juni 2006 houdende vaststelling van de bijstandsvelden inzake sociale integratie van personen met een handicap, hun recht op bijzondere tewerkstellingsondersteunende maatregelen.
 
 ## HOOFDSTUK III. Aanpassingen van en aan de arbeidsomgeving
 
 ## Afdeling I. Algemene bepalingen
 
+### ART. 5.
+
+De persoon met een arbeidshandicap of de natuurlijke persoon of rechtspersoon die een persoon met een arbeidshandicap tewerkstelt of opleidt, kan van de VDAB, in overeenstemming met de voorwaarden en modaliteiten vermeld in dit hoofdstuk, een tegemoetkoming krijgen in de kosten van arbeidsgereedschap en -kledij en in de kosten van aanpassing van de arbeidspost, als de aard en de ernst van de arbeidshandicap dat rechtvaardigen.<br /><br />De VDAB bepaalt of de aard en de ernst van de arbeidshandicap een tegemoetkoming, als vermeld in het eerste lid, rechtvaardigen.
+
 ## Afdeling II. [Tegemoetkoming in de kosten van arbeidsgereedschap en -kledij van werknemers met een arbeidshandicap (verv. BVR 26 oktober 2018, art. 8, I: 1 januari 2019)]
+
+### ART. 6.
+
+Onder de voorwaarden, vermeld in artikel 7, en volgens de modaliteiten, vermeld in artikel 8, verleent de VDAB een tegemoetkoming in de kosten van aankoop van arbeidsgereedschap en -kleding, die gedragen worden door personen met een arbeidshandicap.
+
+### ART. 7.
+
+Om van de tegemoetkoming, vermeld in artikel 6 te kunnen genieten, toont de persoon met een arbeidshandicap aan dat :<br />1° het vermelde arbeidsgereedschap of de vermelde arbeidskledij niet courant gebruikt wordt in de beroepstak waarin hij wordt of zal worden tewerkgesteld, en rechtstreeks noodzakelijk is of zal zijn voor de uitoefening van zijn professionele activiteit;<br />2° de werkgever niet gehouden is zelf de kosten van het gereedschap of arbeidskledij te dragen, of dat hij van zijn werkgever het nodige gereedschap of arbeidskledij niet kan krijgen, noch de tegenwaarde in speciën voor de aankoop ervan;<br />3° de noodzaak, de gebruiksfrequentie, de werkzaamheid en de doelmatigheid van het vermelde arbeidsgereedschap of de vermelde arbeidskledij in functie zijn van de arbeidshandicap, en in verhouding staan tot het bedrag van de gevraagde ondersteuning.
+
+### ART. 8.
+
+Met behoud van de toepassing van artikelen 15 en 16, dekt de tegemoetkoming enkel de bijkomende kosten die de persoon met een arbeidshandicap vanwege zijn handicap moet dragen, ten aanzien van de kosten die een valide werknemer voor zijn arbeidsgereedschap en -kledij moet dragen.<br /><br />Als, om te voldoen aan de specifieke noden van de persoon met een arbeidshandicap, alleen het arbeidsgereedschap aangepast hoeft te worden, dekt de tegemoetkoming van de VDAB alleen de aanpassingskosten.
 
 ## [Afdeling II/1. Tegemoetkoming in de kosten van arbeidsgereedschap en arbeidskledij voor zelfstandigen met een arbeidshandicap (ing. BVR 26 oktober 2018, art. 11, I: 1 januari 2019)]
 
@@ -24,33 +56,161 @@ De Vlaamse Regering,<br /><br />Gelet op het decreet van 7 mei 2004 houdende opr
 
 ## Afdeling III. [Tegemoetkoming in de kosten voor de aanpassing van de arbeidspost van werknemers met een arbeidshandicap en van personen met een arbeidshandicap die een IBO of K-IBO volgen (verv. BVR 26 oktober 2018, art. 12, I: 1 januari 2019)]
 
+### ART. 9.
+
+Onder de voorwaarden, vermeld in artikel 10, en volgens de modaliteiten, vermeld in artikel 11, verleent de VDAB een tegemoetkoming in de kosten voor de aanpassing van de arbeidspost, die gedragen worden door de werkgevers die personen met een arbeidshandicap tewerkstellen krachtens een arbeidsovereenkomst of een publiekrechtelijk statuut of die personen met een arbeidshandicap toelaten bij hen een GIBO te volgen.
+
+### ART. 10.
+
+Om aanspraak te kunnen maken op de tegemoetkoming in de kosten voor de aanpassing van de arbeidspost, voldoen de werkgevers, vermeld in artikel 9, aan de volgende voorwaarden :<br />1° aantonen dat de aanpassing van de arbeidspost niet gebruikelijk is in de beroepstak waarin de persoon met een arbeidshandicap werkt of in opleiding is, en rechtstreeks noodzakelijk is voor de uitoefening van de professionele activiteiten;<br />2° zich ertoe verbinden om de persoon met een arbeidshandicap van wie de arbeidspost is aangepast, gedurende een minimumperiode van zes maand in dienst te houden;<br />3° zich ertoe verbinden om in de toekomst iedere met tegemoetkoming van de VDAB aangepaste arbeidspost bij voorrang te reserveren voor een persoon met een arbeidshandicap;<br />4° zich ertoe verbinden om de aanpassing, als voor zover er een tegemoetkoming voor werd verleend, niet als bedrijfslasten in te brengen bij hun belastingaangifte.
+
+### ART. 11.
+
+Met behoud van de toepassing van artikelen 15 en 16 dekt de tegemoetkoming van de VDAB alle werkelijke kosten voor de aanpassing van de arbeidspost.<br /><br />De tussenkomst dekt alleen het verschil tussen de kosten voor de aanpassing van de arbeidspost voor een valide persoon en de kosten voor de aanpassing van de arbeidspost die vereist zijn vanwege de arbeidshandicap.
+
 ## Afdeling IV. Tegemoetkoming in de kosten voor de aanpassing van de arbeidspost voor zelfstandigen
 
+### ART. 12.
+
+Onder de voorwaarden, vermeld in artikel 13, en volgens de modaliteiten, vermeld in artikel 14, verleent de VDAB een tegemoetkoming in de kosten voor de aanpassing van de arbeidspost die gedragen worden door zelfstandigen met een arbeidshandicap.
+
+### ART. 13.
+
+Om aanspraak te maken op de tussenkomst in de kosten van aanpassing van een arbeidspost voldoen de zelfstandigen met een arbeidshandicap, vermeld in artikel 12, aan de volgende voorwaarden :<br />1° aantonen dat de aanpassingen of het materiaal waarvoor een tussenkomst gevraagd wordt, niet gebruikelijk zijn in hun beroepstak en rechtstreeks noodzakelijk zijn omwille van hun arbeidshandicap;<br />2° zich ertoe verbinden om de aanpassing, als voor zover er een tegemoetkoming voor werd verleend, niet als bedrijfslasten in te brengen bij hun belastingsaangifte.
+
+### ART. 14.
+
+Met behoud van de toepassing van artikelen 15 en 16, dekt de tegemoetkoming van de VDAB alle werkelijke kosten voor de aanpassing van de arbeidspost.<br /><br />De tegemoetkoming dekt enkel het verschil tussen de kosten van de aanpassingen voor een valide persoon en de kosten voor de aanpassing van de arbeidspost die vereist zijn vanwege de arbeidshandicap.
+
 ## Afdeling V. [Gemeenschappelijke bepalingen voor afdeling II, II/1, II/2, II/3, III en IV. (verv. BVR 26 oktober 2018, art. 15, I: 1 januari 2019)]
+
+### ART. 15.
+
+De aanvraag om de tegemoetkomingen, vermeld in dit hoofdstuk, te krijgen, wordt bij de VDAB ingediend samen met :<br />1° een raming van de kosten van de gevraagde tegemoetkoming;<br />2° alle vereiste bewijsstukken, inclusief de bewijsstukken omtrent de verbintenissen, vermeld in artikel 10.
+
+### ART. 16.
+
+§ 1. De VDAB beslist over de tenlasteneming van de tegemoetkoming en bepaalt het bedrag ervan.<br /><br />De ter zake door andere decretale, wettelijke of reglementaire bepalingen bepaalde tegemoetkomingen, alsook de tegemoetkomingen die door derden krachtens de wettelijke bepalingen op het gebied van burgerlijke aansprakelijkheid gedragen moeten worden, worden altijd in mindering gebracht van de tenlasteneming door de VDAB.<br /><br />De raad van bestuur kan een refertelijst vastleggen, waarop de VDAB een beroep doet om het bedrag van de tenlasteneming, vermeld in het vorige lid, te bepalen.<br /><br />De VDAB kan het bedrag van de tegemoetkoming ook berekenen op grond van een vergelijkende marktstudie, rekening houdend met de kenmerken, kwaliteiten en garantie- of onderhoudsvoorwaarden betreffende de verschillende hulpverleningen.<br /><br />De beslissing tot tenlasteneming door de VDAB is alleen geldig, als :<br />1° binnen een jaar na die beslissing het arbeidsgereedschap of de -kledij aangekocht is, of de arbeidspost is aangepast;<br />2° de facturen zijn ingediend bij VDAB binnen zes maanden na de aankoop van het arbeidsgereedschap of -kledij, of binnen de zes maand na de aanpassing van de arbeidspost;<br />3° het arbeidsgereedschap of -kledij nog niet aangekocht is, of de arbeidspost nog niet aangepast is, voor de datum van de aanvraag tot tegemoetkoming door de VDAB.<br /><br />§ 2. Als een hulpmiddel bij de tewerkstelling van een persoon met een arbeidshandicap zowel krachtens de bepalingen van afdeling II als krachtens de bepalingen van afdeling III ten laste kan worden genomen, wordt de voorkeur gegeven aan de tenlasteneming van het hulpmiddel waarvan de persoon met een arbeidshandicap eigenaar is.
 
 ## HOOFDSTUK IV. Tegemoetkoming in de verplaatsingskosten en verblijfkosten voor personen met een arbeidshandicap met mobiliteitsproblemen
 
 ## Afdeling I. Algemeen
 
+### ART. 17.
+
+De persoon met een arbeidshandicap kan, onder de voorwaarden en modaliteiten van dit hoofdstuk, van de VDAB een tegemoetkoming krijgen in de verplaatsingskosten en de verblijfkosten indien de aard en de ernst van de arbeidshandicap dat rechtvaardigen.<br /><br />De mobiliteitsproblematiek van de persoon met een arbeidshandicap wordt gestaafd met een attest van een artsspecialist.<br /><br />De persoon met een arbeidshandicap kan verplicht worden alle stukken voor te leggen die de werkelijkheid van de door hem ingeroepen kosten staven.<br /><br />De VDAB bepaalt of de aard en de ernst van de arbeidshandicap een tegemoetkoming, vermeld in het eerste lid, rechtvaardigen. De bedragen van de tegemoetkomingen, vermeld in dit hoofdstuk, worden verminderd met elke feitelijke, wettelijke of reglementaire tegemoetkoming, die de persoon met een arbeidshandicap ontvangt om in de kosten van begeleiding te voorzien.<br /><br />Een tegemoetkoming wordt alleen gegeven, als :<br />1° de aanvraag tot tegemoetkoming uiterlijk is ingediend bij de VDAB in het kwartaal na het kwartaal waarin de kosten zijn gemaakt;<br />2° de kosten meer bedragen dan 15 euro per kwartaal.
+
 ## Afdeling II. Tegemoetkoming in de verplaatsingskosten, gemaakt door de persoon met een arbeidshandicap om zich van zijn verblijfplaats naar de plaats van zijn werk en omgekeerd te begeven
+
+### ART. 18.
+
+Als de persoon met een arbeidshandicap wegens de aard en de ernst van zijn arbeidshandicap onmogelijk kan gebruikmaken van een gemeenschappelijk vervoermiddel zonder vergezeld te zijn van een derde persoon, krijgt de persoon met een arbeidshandicap een tegemoetkoming in de verplaatsingskosten van de derde persoon.<br /><br />De tegemoetkoming, vermeld in het eerste lid, is gelijk aan de verplaatsingskosten, gemaakt door de derde persoon voor het gebruik van het gemeenschappelijk vervoermiddel, berekend tegen het tarief van het voordeligste vervoerbewijs.
+
+### ART. 19.
+
+§ 1. De persoon met een arbeidshandicap, van wie de aard en de ernst van de handicap het gebruik van persoonlijk vervoer of het gebruik van gespecialiseerd vervoer om de verplaatsing van zijn verblijfplaats naar de plaats van zijn werk en omgekeerd te maken, rechtvaardigen, krijgt een tegemoetkoming in de verplaatsingskosten.<br /><br />§ 2. De VDAB neemt de verplaatsingskosten ten laste van de persoon met een arbeidshandicap die de verplaatsing naar het werk en omgekeerd maakt met een persoonlijk gemotoriseerd vervoermiddel. <br /><br />De verplaatsingskosten, vermeld in het eerste lid, zijn gelijk aan de vergoeding, vermeld in artikel 101, § 2, 1°, van het besluit van de Vlaamse Regering van 21 december 1988 houdende organisatie van de arbeidsbemiddeling en de beroepsopleiding.<br /><br />§ 3. Als de persoon met een arbeidshandicap vervoerd wordt door een derde, neemt de VDAB de verplaatsingskosten van die derde ten laste. De verplaatsingskosten zijn dezelfde als de verplaatsingskosten, vermeld in § 2, tweede lid.<br /><br />§ 4. De VDAB neemt de verplaatsingskosten ten laste, van een persoon met een arbeidshandicap die de verplaatsing van zijn verblijfplaats naar het werk, en omgekeerd, met gespecialiseerd vervoer maakt.<br /><br />De verplaatsingskosten zijn gelijk aan het tarief dat aan de persoon met een arbeidshandicap wordt aangerekend. Dat bedrag mag echter de maximumprijs, vermeld in het reglement dat de maximumprijzen voor het vervoer per taxi vaststelt, niet overschrijden.
 
 ## Afdeling III. [Tegemoetkoming in de verplaatsingskosten van de persoon met een arbeidshandicap om zich te begeven van zijn verblijfplaats naar de werkplek waar hij begeleid wordt via een werkplekinstrument, via een alternerende opleiding of actief is in wijk-werken, en omgekeerd (verv. BVR 26 oktober 2018, art. 20, I: 1 januari 2019)]
 
+### ART. 20.
+
+Met behoud van de toepassing van artikel 101 van het besluit van de Vlaamse Regering van 21 december 1988 houdende organisatie van de arbeidsbemiddeling en de beroepsopleiding heeft de cursist met een arbeidshandicap onder de voorwaarden, vermeld in deze afdeling, recht op een aanvullende tegemoetkoming in de verplaatsingskosten om zich te begeven van zijn verblijfplaats naar de plaats waar hij een door de VDAB erkende of georganiseerde beroepsopleiding of stage volgt, en omgekeerd.
+
+### ART. 21.
+
+§ 1. Als de cursist met een arbeidshandicap wegens de aard en de ernst van zijn arbeidshandicap onmogelijk kan gebruikmaken van een gemeenschappelijk vervoermiddel zonder vergezeld te zijn van een derde persoon, krijgt de cursist met een arbeidshandicap een tegemoetkoming in de verplaatsingskosten van de derde persoon.<br /><br />De tegemoetkoming, vermeld in het eerste lid, is gelijk aan de verplaatsingskosten, gemaakt door de derde persoon voor het gebruik van het gemeenschappelijk vervoermiddel, berekend tegen het tarief van het voordeligste vervoerbewijs.<br /><br />§ 2. De VDAB neemt de verplaatsingskosten ten laste van een persoon met een arbeidshandicap die de verplaatsing van zijn verblijfplaats naar de plaats waar hij een door de VDAB erkende of georganiseerde beroepsopleiding of stage volgt, en omgekeerd, met gespecialiseerd vervoer maakt.<br /><br />De verplaatsingskosten zijn gelijk aan het tarief dat aan de persoon met een arbeidshandicap wordt aangerekend. Dat bedrag mag echter de maximumprijs, vermeld in het reglement dat de maximumprijzen voor het vervoer per taxi vaststelt, niet overschrijden.<br /><br />§ 3. Het dagelijkse bedrag van de tegemoetkoming in de verplaatsingskosten mag niet hoger zijn dan het dagelijkse maximumbedrag van de tegemoetkoming van de verblijfkosten, vermeld in artikel 23, uitgezonderd het bedrag van de tegemoetkoming voor één verplaatsing heen en terug per week.
+
 ## Afdeling IV. [Tegemoetkoming in de verblijfkosten van personen met een arbeidshandicap (verv. BVR 26 oktober 2018, art. 23, I: 1 januari 2019)]
 
+### ART. 22.
+
+De persoon met een arbeidshandicap kan een tegemoetkoming in de kosten, gemaakt om te verblijven op de plaats waar hij een door de VDAB erkende of georganiseerde beroepsopleiding of stage volgt, verkrijgen van de VDAB, als hij voldoet aan één van volgende voorwaarden :<br />1° dagelijks meer dan dertien uur van huis moeten zijn;<br />2° ernstige reismoeilijkheden hebben wegens de aard of de ernst van de arbeidshandicap;<br />3° wegens de vereisten of de organisatie van de ondernomen, door de VDAB erkende of georganiseerde beroepsopleiding of stage verplicht zijn ter plaatste te verblijven;<br />4° zich in de omstandigheid bevinden dat de dagelijkse reiskosten, berekend overeenkomstig afdeling III, het dagelijks maximumbedrag van de terugbetaling van de verblijfskosten, vermeld in artikel 23, overschrijden.
+
+### ART. 23.
+
+Het bedrag van de tegemoetkoming in de verblijfskosten is gelijk aan de werkelijk gemaakte kosten. Dat bedrag kan echter niet meer zijn dan het bedrag als vergoeding voor een overnachting, vermeld in artikel 101, § 2, 2°, van het besluit van de Vlaamse Regering van 21 december 1988 houdende organisatie van de arbeidsbemiddeling en de beroepsopleiding, per dag waarop effectief een beroepsopleiding of stage is gevolgd.<br /><br />De tegemoetkoming in de verblijfskosten wordt alleen verleend voor de dagen waarop effectief een beroepsopleiding of stage is gevolgd.
+
 ## HOOFDSTUK V. Ondersteuning door gebarentaal-, oraal- en schrijftolken
+
+### ART. 24.
+
+De VDAB neemt, binnen de perken van het door de raad van bestuur bepaald urencontingent en overeenkomstig de bepalingen van dit hoofdstuk, de kosten ten laste van de dienstverlening, vermeld in dit hoofdstuk.<br /><br />De tenlasteneming geldt alleen voor kosten die gemaakt zijn na een aanvraag bij de VDAB.
+
+### ART. 25.
+
+De dienstverlening, vermeld in artikel 24 wordt door de VDAB slechts ten laste genomen als ze verstrekt wordt aan een persoon met een auditieve arbeidshandicap.<br /><br />De VDAB bepaalt of de aard en de ernst van de auditieve handicap een ondersteuning, als vermeld in dit hoofdstuk, rechtvaardigen.
+
+### ART. 26.
+
+De VDAB neemt voor de werkzoekenden met een auditieve arbeidshandicap de dienstverlening door een tolk voor doven en slechthorenden ten laste bij sollicitatiegesprekken of bij de door de VDAB georganiseerde of erkende dienstverlening, als technische ondersteuning door een deskundig opgeleide tolk vereist is.<br /><br />De ten laste genomen dienstverlening wordt beperkt tot maximaal 18 uren per jaar.<br /><br />De VDAB kan een afwijking van het aantal uren toestaan op het maximum, vermeld in het tweede lid, wegens bijzondere individuele omstandigheden. Die uitzondering kan alleen worden toegestaan als de vraag tot uitbreiding kadert binnen een trajectbegeleiding als vermeld in artikel 1, 39°, van het besluit van de Vlaamse Regering van 21 december 1988 houdende organisatie van de arbeidsbemiddeling en de beroepsopleiding, of binnen een loopbaandienstverlening.<br /><br />De VDAB neemt de werkelijk gemaakte verplaatsingskosten van de tolk ten laste.
+
+### ART. 27.
+
+De VDAB neemt voor de personen met een auditieve arbeidshandicap de dienstverlening door een tolk voor doven en slechthorenden ten laste in aan de arbeidshandicap aangepaste arbeidssituaties die occasionele taken of omstandigheden met zich brengen waarbij de verbale communicatie noodzakelijk is om tot een optimale functie-uitoefening en taakuitvoering te komen, en aldus technische ondersteuning door een deskundig opgeleide tolk verantwoorden.<br /><br />De ten laste genomen dienstverlening wordt op jaarbasis beperkt tot maximaal 10 % van de effectieve werktijd die de gebruiker presteert.<br /><br />De VDAB kan een afwijking toestaan van het maximum, vermeld in het vorige lid, wanneer de aard van de arbeid dit rechtvaardigt of in geval van uitbreiding van werkzaamheden, van promotie of van bijscholing van de persoon met een auditieve arbeidshandicap, voor wie de beperking tot 10 % van de effectieve werktijd niet volstaat. Die verhoogde tenlasteneming mag op jaarbasis 20 % van de effectieve werktijd niet overschrijden. <br /><br />De VDAB neemt de werkelijk gemaakte verplaatsingskosten van de tolk ten laste.
 
 ## HOOFDSTUK VI. [... (opgeh. BVR 15 juli 2022, art. 75, I: 1 juli 2023)]
 
 ## Afdeling I. [... (opgeh. BVR 15 juli 2022, art. 75, I: 1 juli 2023)]
 
+### ART. 28.
+
+Voor de toepassing van dit hoofdstuk wordt verstaan onder :<br />1° werkgever : persoon die behoort tot één van de volgende categorieën :<br />a) een natuurlijk persoon of privaatrechtelijke rechtspersoon, met uitzondering van de beschutte werkplaatsen, die een werknemer als vermeld in 2°, aanwerft of heeft aangeworven;<br />b) een provincie, een gemeente, een O.C.M.W., een door hen opgericht verzelfstandigd agentschap of een vereniging waaraan ze deelnemen met toepassing van het decreet van 6 juli 2001 houdende de intergemeentelijke samenwerking of van de organieke wet van 8 juli 1976 betreffende de Openbare Centra voor Maatschappelijk Welzijn, die een werknemer als vermeld in 2°, aanwerft na de inwerkingtreding van dit besluit;<br />c) een instelling van het onderwijs als vermeld in artikel 127, § 1, eerste lid, 2°, van de Grondwet, die een werknemer vermeld in 2°, aanwerft of heeft aangeworven;<br />2° werknemer met een arbeidshandicap : de persoon met een arbeidshandicap van wie de VDAB op basis van hoofdstuk II bepaald heeft dat hij recht geeft op een VOP, met uitzondering van de personen die onder het toepassingsgebied vallen van hoofdstuk IV van het decreet van 17 maart 1998 houdende diverse beleidsbepalingen;<br />3° referteloon : de volgende bestanddelen die daadwerkelijk door de werkgever worden betaald met betrekking tot de bezoldiging van de persoon met een arbeidshandicap :<br />a) het loon, vermeld in artikel 14 van de wet van 27 juni 1969 tot herziening van de besluitwet van 28 december 1944 betreffende de maatschappelijke zekerheid der arbeiders en zoals als dusdanig gekwalificeerd door de Rijksdienst voor Sociale Zekerheid;<br />b) alle verplichte werkgeversbijdragen verschuldigd overeenkomstig artikel 38, § 3 en § 3bis, van de wet van 29 juni 1981 houdende de algemene beginselen van de sociale zekerheid voor werknemers;<br />c) de verminderingen van sociale zekerheidsbijdragen ten voordele van de werkgever, en meer in het bijzonder deze vermeld in hoofdstuk 7 van titel IV van de programmawet van 24 december 2002.<br /><br />Voor de toepassing van artikelen 30 en 32 kan dit referteloon niet hoger zijn dan het dubbele van het gemiddeld gewaarborgd minimum maandinkomen, vermeld in artikel 3, eerste lid van de collectieve arbeidsovereenkomst nr. 43 gesloten op 2 mei 1988 in de Nationale Arbeidsraad houdende wijziging en coördinatie van de collectieve arbeidsovereenkomsten nr. 21 van 15 mei 1975 en nr. 23 van 25 juli 1975 betreffende de waarborg van een gemiddeld minimum maandinkomen.
+
+### ART. 29.
+
+De VDAB kent, na aanvraag van de werkgever, die een persoon met een arbeidshandicap aanwerft of heeft aangeworven, overeenkomstig de bepalingen van dit besluit, aan de werkgever een VOP toe, om de integratie van werknemers met een arbeidshandicap in het gewone arbeidscircuit te bevorderen.<br /><br />De werkgever :<br />1° mag geen werknemers ontslaan met de uitsluitende bedoeling ze te vervangen door één of meer werknemers met een arbeidshandicap die recht geven op een VOP of op een hogere VOP;<br />2° mag geen werknemers met een arbeidshandicap ontslaan met de uitsluitende bedoeling ze daarna opnieuw aan te werven om een VOP of een hogere VOP te verkrijgen.
+
+### ART. 30.
+
+Het bedrag van de VOP is gelijk aan :<br />1° tijdens periode 1, waarbij periode 1 gelijk is aan het kwartaal van de aanwerving en de vier daaropvolgende kwartalen van de tewerkstelling : 40 % van het referteloon;<br />2° tijdens periode 2, waarbij periode 2 gelijk is aan het vijfde kwartaal na het kwartaal van de aanwerving tot en met het zestiende kwartaal na het kwartaal van aanwerving : 30 % van het referteloon;<br />3° tijdens periode 3, waarbij periode 3 gelijk is aan het zeventiende kwartaal na het kwartaal van de aanwerving tot het einde van de tewerkstelling : 20 % van het referteloon.<br /><br />De VDAB betaalt de VOP vanaf het kwartaal van de aanvraag.
+
+### ART. 31.
+
+Voor de werknemer met een arbeidshandicap, die een GIBO heeft gevolgd, wordt de periode van de GIBO gelijkgesteld met een periode van tewerkstelling voor de berekening van het bedrag van de VOP, overeenkomstig artikel 30.
+
+### ART. 32.
+
+Als een werknemer met een arbeidshandicap wordt tewerkgesteld in het kader van uitzendarbeid, volgens de wet van 24 juli 1987 betreffende de tijdelijke arbeid, de uitzendarbeid en het ter beschikking stellen van werknemers ten behoeve van gebruikers, wordt de helft van het bedrag van de VOP door het uitzendkantoor overgemaakt aan de gebruiker.<br /><br />Het bedrag van de VOP is bij een tewerkstelling in het kader van uitzendarbeid gelijk aan :<br />1° 40 % gedurende het eerste kwartaal van de aanvraag en de vier daaropvolgende kwartalen van tewerkstelling bij hetzelfde uitzendkantoor;<br />2° 20 % gedurende de daaropvolgende kwartalen van tewerkstelling in het kader van uitzendarbeid bij hetzelfde uitzendkantoor.<br /><br />VDAB betaalt de VOP vanaf het kwartaal van aanvraag.
+
+### ART. 33.
+
+Op gemotiveerde aanvraag van de werkgever kan de VDAB een hogere tegemoetkoming toestaan dan de tegemoetkoming vermeld in artikel 30, 63 en 64.<br /><br />De raad van bestuur bepaalt de nadere regels betreffende die mogelijkheid. Het bedrag van de VOP kan echter nooit 60 % van het referteloon overschrijden.
+
+### ART. 34.
+
+De VDAB kent, na aanvraag van de zelfstandige, een VOP toe aan een persoon met een arbeidshandicap die na de inwerkingtreding van dit besluit zelfstandige in hoofdberoep wordt in de zin van het koninklijk besluit nr. 38 van 27 juli 1967 houdende inrichting van het sociaal statuut der zelfstandigen.<br /><br />De VDAB kent ook, na aanvraag van de zelfstandige, een VOP toe aan de zelfstandige in hoofdberoep in de zin van het koninklijk besluit nr. 38 van 27 juli 1967 houdende inrichting van het sociaal statuut der zelfstandigen, die na de inwerkingtreding van dit besluit persoon met een arbeidshandicap wordt en gerechtigd wordt op bijzondere tewerkstellingsondersteunende maatregelen en voorheen geen erkenning had voor een tegemoetkoming om de tewerkstelling onder gewone arbeidsvoorwaarden te bevorderen vanwege het Vlaams Agentschap voor Personen met een Handicap of één van zijn rechtsvoorgangers.
+
 ## Afdeling II. [... (opgeh. BVR 15 juli 2022, art. 75, I: 1 juli 2023)]
+
+### ART. 35.
+
+De toekenning van een VOP aan de persoon, vermeld in artikel 34, kan afhankelijk worden gesteld van een positieve beoordeling van de zelfstandige activiteit door een door de raad van bestuur erkende organisatie.<br /><br />Het gemiddelde gewaarborgde minimummaandinkomen wordt als basis genomen voor de berekening van de VOP, overeenkomstig artikel 36.
+
+### ART. 36.
+
+Het bedrag van de VOP voor zelfstandigen is gelijk aan :<br />1° 40 % gedurende het kwartaal van de aanvraag en de vier daaropvolgende kwartalen;<br />2° 20 % gedurende de daaropvolgende kwartalen van de zelfstandige activiteit, op voorwaarde dat voldoende bedrijfsactiviteit kan worden aangetoond.<br /><br />Er is voldoende bedrijfsactiviteit zolang het netto belastbaar bedrijfsinkomen hoger is dan het gemiddelde gewaarborgde minimummaandinkomen. Dit wordt aangetoond door middel van een fiscaal aanslagbiljet.
 
 ## HOOFDSTUK VII. [... (opgeh. BVR 26 oktober 2018, art. 35, I: 1 januari 2019)]
 
+### ART. 37.
+
+Voor de rechthebbende op tewerkstelling in een beschutte werkplaats bepaalt de VDAB of dit recht onvoorwaardelijk of voorwaardelijk is.<br /><br />De personen die voor de inwerkingtreding van dit besluit een behoefteprofiel, overeenkomend met een bijstandsveld W2 als vermeld in de bijlage, gevoegd bij het ministerieel besluit van 27 juni 2006 houdende vaststelling van de bijstandsvelden inzake sociale integratie van personen met een handicap, hebben, blijven onvoorwaardelijk gerechtigd op tewerkstelling in een beschutte werkplaats.<br /><br />De personen die voor de inwerkingtreding van dit besluit een behoefteprofiel, overeenkomend met een bijstandsveld W3 als vermeld in de bijlage, gevoegd bij het ministerieel besluit van 27 juni 2006 houdende vaststelling van de bijstandsvelden inzake sociale integratie van personen met een handicap, hebben, blijven voorwaardelijk gerechtigd op tewerkstelling in een beschutte werkplaats.<br /><br />De VDAB legt in samenspraak met het departement en het Vlaams Subsidieagentschap voor Werk en Sociale Economie de modaliteiten vast van de voorwaardelijke tewerkstelling in een beschutte werkplaats. Onder voorwaardelijke tewerkstelling wordt begrepen, de tewerkstelling van een persoon met een arbeidshandicap in een beschutte werkplaats gedurende een periode van twee jaren met intensieve begeleiding naar reguliere tewerkstelling.
+
 ## HOOFDSTUK VIII. Heroverweging
 
+### ART. 38.
+
+De persoon met een indicatie van arbeidshandicap, de persoon met een arbeidshandicap of de werkgever kan een verzoek tot heroverweging indienen bij de raad van bestuur als hij niet akkoord gaat met een door de VDAB krachtens dit besluit genomen beslissing.<br /><br />Het gemotiveerde verzoek tot heroverweging wordt ingediend, op straffe van verval, binnen een termijn van 45 dagen, te rekenen vanaf de datum van de kennisname van de beslissing.<br /><br />De raad van bestuur beslist over het heroverwegingsverzoek op basis van een gemotiveerd advies van de heroverwegingscommissie binnen de 30 dagen na ontvangst van het advies.<br /><br />De multidisciplinair samengestelde heroverwegingscommissie wordt aangesteld door de raad van bestuur en bestaat uit :<br />1° twee leden, voorgedragen door de VDAB, waaronder de voorzitter;<br />2° drie leden, voorgedragen door elk van de gespecialiseerde diensten, vermeld in het besluit van de Vlaamse Regering van 15 februari 2008 tot vaststelling van de regels voor de erkenning en financiering door de Vlaamse Dienst voor Arbeidsbemiddeling en Beroepsopleiding van de gespecialiseerde trajectbepaling- en -begeleidingsdienst, de gespecialiseerde arbeidsonderzoeksdiensten en de gespecialiseerde opleidings-, begeleidings- en bemiddelingsdiensten;<br />3° twee leden, voorgedragen door de gebruikersorganisaties, vermeld in artikel 1, 16°, van het besluit van de Vlaamse Regering van 15 februari 2008 tot vaststelling van de regels voor de erkenning en financiering door de VDAB van de gespecialiseerde trajectbepalings- en -begeleidingsdienst, de gespecialiseerde arbeidsonderzoeksdiensten en de gespecialiseerde opleidings-, begeleidings- en bemiddelingsdiensten.<br /><br />De voorgedragen leden hebben deskundigheid door ervaring of een andere bewezen deskundigheid op het vlak van arbeidsproblematieken van personen met een arbeidshandicap.<br /><br />Op verzoek van een lid van de heroverwegingscommissie kunnen externe deskundigen uitgenodigd worden. Die externe deskundigen hebben een raadgevende stem.<br /><br />De heroverwegingscommissie brengt haar advies uit binnen de 60 dagen na ontvangst van het heroverwegingsdossier. De raad van bestuur bepaalt de nadere regels in verband met de werking van de heroverwegingscommissie.
+
 ## HOOFDSTUK IX. Controle en sancties
+
+### ART. 39.
+
+De persoon met een arbeidshandicap of de werkgever verstrekt aan de VDAB op het eerste verzoek alle nodige documenten of inlichtingen om de naleving van de toekenningsvoorwaarden te controleren. Zij laten de afgevaardigden van de VDAB toe zich ter plekke te vergewissen van de noodzaak en omvang van de bijzondere tewerkstellingsondersteunende maatregelen.<br /><br />De sociaalrechtelijke inspecteurs van de entiteit Inspectie van het departement Werk en Sociale Economie zijn gerechtigd om ter plaatse controle uit te oefenen op de naleving van de bepalingen van dit besluit.
+
+### ART. 40.
+
+De VDAB schorst de betaling van de tegemoetkomingen, vermeld in dit besluit, en vordert die terug als blijkt dat : <br />1° een persoon met een arbeidshandicap of een werkgever de voorwaarden, vermeld in dit besluit niet nageleefd heeft;<br />2° er nauwkeurige of overeenstemmende vermoedens zijn dat een werkgever één of meer personen met een arbeidshandicap heeft ontslagen met de uitsluitende bedoeling ze te vervangen door één of meer personen met een arbeidshandicap die recht geven op een VOP of op een hogere VOP of met de uitsluitende bedoeling ze daarna opnieuw aan te werven om een hogere VOP te verkrijgen.
 
 ## HOOFDSTUK X. Wijziging in het besluit van de Vlaamse Regering van 21 december 1988 houdende organisatie van de arbeidsbemiddeling en de beroepsopleiding
 
@@ -60,8 +220,120 @@ In artikel 101 van het besluit van de Vlaamse Regering van 21 december 1988 houd
 
 ## HOOFDSTUK XI. Wijziging in de regelgeving betreffende de inschrijving bij het Vlaams Agentschap voor Personen met een Handicap
 
+### ART. 42.
+
+In artikel 12, eerste lid, van het besluit van de Vlaamse Regering van 24 juli 1991 betreffende de inschrijving bij ht Vlaams Agentschap voor Personen met een Handicap, gewijzigd bij de besluiten van de Vlaamse Regering van 23 juli 1993, 23 juli 1998 en 16 februari 2007, worden de volgende wijzigingen aangebracht :<br />1° het woord « sectoren » wordt vervangen door het woord « sector »;<br />2° de woorden « en « werk » » worden geschrapt.
+
+### ART. 43.
+
+In artikel 13 van hetzelfde besluit, gewijzigd bij de besluiten van de Vlaamse Regering van 19 januari 2001, 17 februari 2006 en 16 februari 2007, worden de volgende wijzigingen aangebracht :<br />1° in § 1, derde lid worden de woorden « , tewerkstelling van personen met een handicap » geschrapt;<br />2° § 3bis wordt opgeheven.
+
+### ART. 44.
+
+In artikel 30, § 2, derde lid, van hetzelfde besluit, vervangen bij het besluit van de Vlaamse Regering van 16 september 1997, worden de woorden « zorg, individuele materiële bijstand en tewerkstelling » vervangen door de woorden « zorg en individuele materiële bijstand ».
+
 ## HOOFDSTUK XII. Wijziging in de regelgeving betreffende de beschutte werkplaatsen
+
+### ART. 45.
+
+In het opschrift van hoofdstuk II van het besluit van de Vlaamse Regering van 19 december 1996 houdende subsidieregeling van het loon en van de sociale lasten van de werknemers in de beschutte werkplaatsen die erkend zijn door het Vlaams Subsidieagentschap voor Werk en Sociale Economie, worden de woorden « gehandicapte werknemers » vervangen door de woorden « werknemers met een arbeidshandicap ».
+
+### ART. 46.
+
+Artikel 2 van hetzelfde besluit, gewijzigd bij het besluit van de Vlaamse Regering van 17 november 2006, wordt vervangen door wat volgt :<br /><br />« Art. 2. § 1. Subsidies in het loon en in de sociale lasten worden verleend voor elke werknemer die, volgens de Vlaamse Dienst voor Arbeidsbemiddeling en Beroepsopleiding als persoon met een arbeidshandicap onvoorwaardelijk of voorwaardelijk gerechtigd is op tewerkstelling in een beschutte werkplaats zoals bepaald in artikel 37 van het besluit van de Vlaamse Regering van 18 juli 2008 betreffende de professionele integratie van personen met een arbeidshandicap.<br /><br />§ 2. In de beschutte werkplaats zijn evenwel minimaal 90 % van de gesubsidieerde werknemers met een arbeidshandicap onvoorwaardelijk gerechtigde werknemers met een arbeidshandicap. »
+
+### ART. 47.
+
+In artikel 3 van hetzelfde besluit gewijzigd bij de besluiten van 8 juni 1999, 30 maart 2001, 24 december 200, 2 juni 2006 en 22 september 2006, worden de volgende wijzigingen aangebracht :<br />1° in § 2, derde lid, 1° tot en met 6°, van hetzelfde besluit wordt het woord « handicap » vervangen door het woord « arbeidshandicap »;<br />2° in § 3, 2°, wordt het woord « handicap » vervangen door het woord « arbeidshandicap ».
+
+### ART. 48.
+
+In artikel 4 van hetzelfde besluit worden de volgende wijzigingen aangebracht :<br />1° in § 1 worden de woorden « gehandicapte werknemers » vervangen door de woorden « werknemers met een arbeidshandicap »;<br />2° in § 4, tweede lid, ingevoegd bij het besluit van de Vlaamse Regering van 22 september 1996, worden de woorden « die volgens het Fonds voorlopig of definitief in een beschutte werkplaats geplaatst moeten worden » telkens vervangen door de woorden « met een arbeidshandicap ».
+
+### ART. 49.
+
+In artikel 5 van hetzelfde besluit, gewijzigd bij de besluiten van de Vlaamse Regering van 13 juli 2001 en 27 november 2006, worden de volgende wijzigingen aangebracht :<br />1° de woorden « gehandicapte werknemers » worden telkens vervangen door de woorden « werknemers met een arbeidshandicap » en de woorden « gehandicapte werknemer » vervangen door de woorden « werknemer met een arbeidshandicap »;<br />2° het woord « handicap » wordt vervangen door het woord « arbeidshandicap ».
+
+### ART. 50.
+
+In artikel 7, tweede lid, van hetzelfde besluit, vervangen bij het besluit van de Vlaamse Regering van 22 september 2006, worden de woorden « handicap die krachtens hun individueel integratieprotocol in aanmerking komen voor een tegemoetkoming om hun tewerkstelling onder gewone arbeidsomstandigheden te bevorderen, » vervangen door de woorden « arbeidshandicap die krachtens een beslissing van de Vlaamse Dienst voor Arbeidsbemiddeling en Beroepsopleiding recht hebben op een VOP, zoals bepaald in hoofdstuk VI van het besluit van de Vlaamse Regering van 18 juli 2008 betreffende de professionele integratie van personen met een arbeidshandicap ».
+
+### ART. 51.
+
+In artikel 10 van hetzelfde besluit, gewijzigd bij de besluiten van de Vlaamse Regering van 24 juli 1998, 17 november 2006 en 29 juni 2007, worden de woorden « gehandicapte werknemer » telkens vervangen door de woorden « werknemer met een arbeidshandicap » en worden de woorden « gehandicapte werknemers » vervangen door de woorden « werknemers met een arbeidshandicap ».
+
+### ART. 52.
+
+In artikel 13, § 2, tweede lid, van hetzelfde besluit, gewijzigd bij het besluit van de Vlaamse Regering van 23 november 2001, worden de woorden « gehandicapte werknemer » vervangen door de woorden « werknemer met een arbeidshandicap ».
+
+### ART. 53.
+
+In artikel 13ter van hetzelfde besluit, ingevoegd bij het besluit van de Vlaamse Regering van 22 september 2006, worden de volgende wijzigingen aangebracht :<br />1° in het eerste lid worden de woorden « het Fonds voorlopig of definitief in een beschutte werkplaats geplaatst moeten worden » vervangen door de woorden « de VDAB onvoorwaardelijk of voorwaardelijk recht openen op tewerkstelling in een beschutte werkplaats »;<br />2° in het tweede lid worden de woorden « Het in aanmerking te nemen aantal werknemers die volgens het Fonds voorlopig of definitief in een beschutte werkplaats geplaatst moeten worden » vervangen door de woorden « De in aanmerking te nemen werknemers die volgens de Vlaamse Dienst voor Arbeidsbemiddeling en Beroepsopleiding onvoorwaardelijk of voorwaardelijk recht openen op tewerkstelling in een beschutte werkplaats »;<br />3° in het derde lid worden de woorden « Het aantal werknemers die volgens het Fonds voorlopig of definitief in een beschutte werkplaats geplaatst moeten worden » vervangen door de woorden « Het aantal werknemers dat volgens de VDAB onvoorwaardelijk of voorwaardelijk recht openen op tewerkstelling in een beschutte werkplaats »;<br />4° in het vierde lid, 1°, wordt het woord « handicap » vervangen door het woord « arbeidshandicap »;<br />5° in het vierde lid, 2°, worden de woorden « handicap die krachtens hun individuele integratieprotocol in aanmerking komen voor tegemoetkoming om hun tewerkstelling onder gewone arbeidsvoorwaarden te bevorderen » vervangen door de woorden « arbeidshandicap die krachtens een beslissing van de Vlaamse Dienst voor Arbeidsbemiddeling en Beroepsopleiding recht hebben op een VOP, zoals bepaald in hoofdstuk VI van het besluit van de Vlaamse Regering van 18 juli 2008 betreffende de professionele integratie van personen met een arbeidshandicap ».
+
+### ART. 54.
+
+In artikel 1, § 1, van het besluit van de Vlaamse Regering van 17 december 1999 tot vaststelling van de erkenningsvoorwaarden van de beschutte werkplaatsen, gewijzigd bij het besluit van de Vlaamse Regering van 17 november 2006, worden de volgende wijzigingen aangebracht :<br />1° punt 1° vervangen door wat volgt :<br />« 1° zich ertoe verbinden de beschikbare arbeidsplaatsen bij voorrang toe te wijzen aan de personen met een arbeidshandicap, zoals omschreven in artikel 1, 8° van het besluit van de Vlaamse Regering van 18 juli 2008 betreffende de professionele integratie van personen met een arbeidshandicap en bepaalt door artikel 37 van hetzelfde besluit. »<br />2° in punt 2°, a) en b), wordt het woord « handicap » vervangen door het woord « arbeidshandicap »;<br />3° in punt 2°, b), worden de woorden « door de Vlaamse Dienst voor Arbeidsbemiddeling en Beroepsopleiding erkende ATB-dienst » vervangen door de woorden « door de Vlaamse Dienst voor Arbeidsbemiddeling en Beroepsopleiding of de door de Vlaamse Dienst voor Arbeidsbemiddeling en Beroepsopleiding erkende gespecialiseerde trajectbepalings- en -begeleidingsdienst »;<br />3° in punt 3° wordt het woord « handicap » vervangen door het woord « arbeidshandicap »;<br />4° in punt 11° wordt het woord « handicap » vervangen door het woord « arbeidshandicap ».
+
+### ART. 55.
+
+In artikel 2 van hetzelfde besluit, gewijzigd bij het besluit van de Vlaamse Regering van 17 november 2006, wordt het woord « handicap » vervangen door « arbeidshandicap ».
 
 ## HOOFDSTUK XIII. Wijzigingen aan het ministerieel besluit van 27 december 1967 houdende vaststelling van de criteria van toekenning der tegemoetkomingen inzake sociale integratie op het gebied van de sociale hulp op het gebied van de sociale reclassering van de mindervaliden
 
+### ART. 56.
+
+Artikel 11bis van het ministerieel besluit van 27 december 1967 houdende vaststelling van de criteria van toekenning der tegemoetkomingen inzake sociale integratie op het gebied van de sociale hulp op het gebied van de sociale reclassering van de mindervaliden, ingevoegd bij het ministerieel besluit van 2 juli 1975 en gewijzigd bij de besluiten van de Vlaamse Regering van 7 maart 1990, 23 november 2001 en 17 november 2006, wordt opgeheven.
+
 ## HOOFDSTUK XIV. Slotbepalingen
+
+### ART. 57.
+
+Het besluit van de Vlaamse Regering van 20 januari 1993 tot instelling en tot regeling van een stelsel van bedrijfsopleidingen met het oog op de integratie van personen met een handicap in het arbeidsproces, gewijzigd bij de besluiten van de Vlaamse Regering van 12 december 2003 en 17 november 2006, wordt opgeheven.
+
+### ART. 58.
+
+Het besluit van de Vlaamse Regering van 5 april 1995 tot vaststelling van de voorwaarden waarop de Vlaamse Dienst voor Arbeidsbemiddeling en Beroepsopleiding een loonsubsidie toekent aan de werkgevers die personen met een handicap tewerkstellen onder gewone arbeidsvoorwaarden, gewijzigd bij de besluiten van de Vlaamse Regering van 23 mei 1996, 18 december 1998, 12 december 2003 en 17 november 2006, wordt opgeheven.
+
+### ART. 59.
+
+Het besluit van de Vlaamse Regering van 5 april 1995 betreffende de tenlasteneming door de Vlaamse Dienst voor Arbeidsbemiddeling en Beroepsopleiding van bijkomende uitgaven voor de professionele integratie van personen met een arbeidshandicap, gewijzigd bij de besluiten van de Vlaamse Regering van 12 december 2003 en 17 november 2006, wordt opgeheven.
+
+### ART. 60.
+
+Het besluit van de Vlaamse Regering van 18 december 1998 tot vaststelling van de voorwaarden en modaliteiten volgens dewelke de Vlaamse Dienst voor Arbeidsbemiddeling en Beroepsopleiding een inschakelingspremie toekent aan de werkgevers die personen met een handicap tewerkstellen onder gewone arbeidsvoorwaarden, gewijzigd bij de besluiten van de Vlaamse Regering van 12 december 2003 en 17 november 2006, wordt opgeheven.
+
+### ART. 61.
+
+Het ministerieel besluit van 9 april 1964 tot vaststelling van de voorwaarden waaronder de lasten die voor de mindervaliden voortvloeien uit de verplaatsing naar en het verblijf op de plaats die aangewezen werd voor hun beroepsopleiding, omscholing of herscholing, worden gedragen door de Vlaamse Dienst voor Arbeidsbemiddeling en Beroepsopleiding, gewijzigd bij de besluiten van de Vlaamse Regering van 7 maart 1990 en 17 november 2006 en bij de ministeriele besluiten van 28 maart 1972 en 17 januari 1978, wordt opgeheven.
+
+### ART. 62.
+
+Het ministerieel besluit van 29 maart 1990 houdende vaststelling van de perken binnen en de voorwaarden onder dewelke een schoolopleiding bedoeld bij artikel 56, § 1, van het koninklijk besluit van 5 juli 1963 betreffende de sociale reclassering van de mindervaliden, in de Vlaamse Gemeenschap kan gelijkgesteld worden met een beroepsopleiding, omscholing of herscholing bedoeld bij § 2 van hetzelfde artikel, gewijzigd bij het besluit van de Vlaamse Regering van 17 november 2006 wordt opgeheven.
+
+### ART. 63.
+
+De werknemers die bij de inwerkingtreding van dit besluit recht geven op een premie en voor wie effectief een premie wordt betaald, overeenkomstig het besluit van de Vlaamse Regering van 18 december 1998 tot vaststelling van de voorwaarden en modaliteiten volgens dewelke de Vlaamse Dienst voor Arbeidsbemiddeling en Beroepsopleiding een inschakelingspremie toekent aan de werkgevers die personen met een handicap tewerkstellen onder gewone arbeidsvoorwaarden, geven bij de inwerkingtreding van dit besluit recht op een premie die gelijk is aan :<br />1° voor periode 1, waarbij periode 1 gelijk is aan het kwartaal van de inwerkingtreding van dit besluit en de 15 daaropvolgende kwartalen : 30 % van het referteloon;<br />2° voor periode 2, waarbij periode 2 gelijk is aan het zestiende kwartaal na het kwartaal van de inwerkingtreding van dit besluit tot het einde van de tewerkstelling : het bedrag vermeld in artikel 30, 3°.
+
+### ART. 64.
+
+De werknemers, die bij de inwerkingtreding van dit besluit, overeenkomstig het besluit van de Vlaamse Regering van 5 april 1995 tot vaststelling van de voorwaarden waarop de Vlaamse Dienst voor Arbeidsbemiddeling en Beroepsopleiding een loonsubsidie toekent aan de werkgevers die personen met een handicap tewerkstellen onder gewone arbeidsvoorwaarden, recht geven op een premie en voor wie ook effectief een premie wordt betaald die hoger is dan het in artikel 30, 2° vermelde bedrag, behouden het recht op deze hogere premie gedurende het kwartaal van de inwerkingtreding van dit besluit en de vijftien daaropvolgende kwartalen. Na deze periode geven die werknemers recht op een premie die gelijk is aan bedrag, vermeld in artikel 30, 3°.<br /><br />De werknemers, die bij de inwerkingtreding van dit besluit, overeenkomstig het besluit van de Vlaamse Regering van 5 april 1995 tot vaststelling van de voorwaarden waarop de Vlaamse Dienst voor Arbeidsbemiddeling en Beroepsopleiding een loonsubsidie toekent aan de werkgevers die personen met een handicap tewerkstellen onder gewone arbeidsvoorwaarden, recht geven op een premie en voor wie ook effectief een premie wordt betaald die lager is dan het bedrag, vermeld in artikel 30, 2°, geven bij de inwerkingtreding van dit besluit, recht op een premie die gelijk is aan :<br />1° voor periode 1, waarbij periode 1 gelijk is aan het kwartaal van de inwerkingtreding van dit besluit en de vijftien daaropvolgende kwartalen : 30 % van het referteloon;<br />2° voor periode 2, waarbij periode 2 gelijk is aan het zestiende kwartaal na het kwartaal van de inwerkingtreding van dit besluit tot het einde van de tewerkstelling : het bedrag vermeld in artikel 30, 3°.<br /><br />In afwijking van het vorige lid, geven de werknemers, die bij de inwerkingtreding van dit besluit, overeenkomstig het besluit van de Vlaamse Regering van 5 april 1995 tot vaststelling van de voorwaarden waarop de Vlaamse Dienst voor Arbeidsbemiddeling en Beroepsopleiding een loonsubsidie toekent aan de werkgevers die personen met een handicap tewerkstellen onder gewone arbeidsvoorwaarden, recht geven op een premie en waarvoor ook effectief een premie wordt betaald die lager is dan het in artikel 30, 3°, bepaalde bedrag, bij de inwerkingtreding van dit besluit recht op een bedrag, zoals bepaald in artikel 30, 3°.
+
+### ART. 65.
+
+De personen, die voor de inwerkingtreding van dit besluit beschikken over een behoefteprofiel, overeenkomend met een bijstandsveld W2 of W3 als vermeld in het ministerieel besluit van 27 juni 2006 houdende vaststelling van de bijstandsvelden inzake sociale integratie van personen met een handicap, en die tussen 1 juli 2008 en de datum van de inwerkingtreding van dit besluit worden aangeworven door een werkgever als vermeld in artikel 28, 1°, b), worden eveneens beschouwd als werknemer met een arbeidshandicap overeenkomstig artikel 28, 2°.<br /><br />De personen, die voor de inwerkingtreding van dit besluit beschikken over een behoefteprofiel, overeenkomend met een bijstandsveld W2 of W3 als vermeld in het ministerieel besluit van 27 juni 2006 houdende vaststelling van de bijstandsvelden inzake sociale integratie van personen met een handicap, die tussen 1 juli 2008 en de datum van inwerkingtreding van dit besluit starten met een zelfstandige activiteit in hoofdberoep als vermeld in artikel 34 komen eveneens in aanmerking voor de toekenning van een VOP voor zelfstandigen, overeenkomstig artikel 34.
+
+### ART. 66.
+
+De aanvragen tot het verkrijgen van bijstand tot sociale integratie op vlak van werk die voor de inwerkingtreding van dit besluit overeenkomstig artikelen 1 en 2 van het besluit van de Vlaamse Regering van 24 juli 1991 betreffende de inschrijving bij het Vlaams Agentschap voor Personen met een Handicap zijn ingediend, worden verder behandeld door dit agentschap, volgens de regels van voormeld besluit.
+
+### ART. 67.
+
+Indien een persoon een aanvraag, vermeld in dit besluit, indient bij de VDAB, dan vervalt dezelfde aanvraag die deze persoon voor de inwerkingtreding van dit besluit al heeft ingediend, overeenkomstig artikelen 1 en 2 van het besluit van de Vlaamse Regering van 24 juli 1991 betreffende de inschrijving bij het Vlaams Agentschap voor Personen met een Handicap.
+
+### ART. 68.
+
+Dit besluit treedt in werking op 1 oktober 2008 met uitzondering van artikel 41, dat uitwerking heeft met ingang van 1 april 2008.
+
+### ART. 69.
+
+De Vlaamse minister, bevoegd voor het Tewerkstellingsbeleid en de Beroepsopleiding, is belast met de uitvoering van dit besluit.
