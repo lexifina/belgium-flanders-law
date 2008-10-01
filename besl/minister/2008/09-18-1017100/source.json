@@ -1,0 +1,17 @@
+{
+  "codex_id": 1017100,
+  "title": "Ministerieel besluit van 2008-09-18 van de Vlaamse minister van Institutionele Hervormingen, Havens, Landbouw, Zeevisserij en Plattelandsbeleid en van de Nederlandse Minister van Verkeer en Waterstaat houdende opheffing van het besluit verklaringen van vrijstelling Scheldereglement",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1017100/VolledigDocument?datum=2008-10-01",
+  "source_sha256": "71afdb40e92beaedfe0a79c305e6aa6eca048334b79dc6ab28c7d6edc6cc2015",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1017100&param=informatie",
+  "as_of": "2008-10-01",
+  "made": "2008-09-18",
+  "gazette": "2008-09-29",
+  "numac": 2008203442,
+  "document_start": "2008-10-01",
+  "document_end": null,
+  "in_force": "2008-10-01",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2008-10-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
