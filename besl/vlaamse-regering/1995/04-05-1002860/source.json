@@ -2,16 +2,16 @@
   "codex_id": 1002860,
   "title": "Besluit van de Vlaamse Regering van 1995-04-05 betreffende de tenlasteneming door [de Vlaamse Dienst voor Arbeidsbemiddeling en Beroepsopleiding] van bijkomende uitgaven voor de professionele integratie van personen met een handicap",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1002860/VolledigDocument?datum=2006-06-01",
-  "source_sha256": "458c6f4a499b8c305c8d2fd9d9ece64aa193966cbbc8d63ad92947a35af879c2",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1002860/VolledigDocument?datum=2008-10-01",
+  "source_sha256": "1a5465cc0cb1003c9466bb44afa6226b388cf277ff0cdc87a5a159379e98a003",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1002860&param=informatie",
-  "as_of": "2006-06-01",
+  "as_of": "2008-10-01",
   "made": "1995-04-05",
   "gazette": "1995-06-16",
   "numac": 1995035649,
   "document_start": null,
   "document_end": "2008-09-30",
-  "in_force": "2006-06-01",
+  "in_force": "2008-10-01",
   "article_versions": 17,
-  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2008-10-01; future article versions excluded; article text as the API gives it"
 }
