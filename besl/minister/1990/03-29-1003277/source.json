@@ -2,16 +2,16 @@
   "codex_id": 1003277,
   "title": "Ministerieel besluit van 1990-03-29 houdende vaststelling van de perken binnen en de voorwaarden onder dewelke een schoolopleiding bedoeld bij artikel 56, § 1, van het koninklijk besluit van 5 juli 1963 betreffende de sociale reclassering van de minder-validen, in de Vlaamse Gemeenschap, kan gelijkgesteld worden met een beroepsopleiding, omscholing of herscholing bedoeld bij § 2 van hetzelfde artikel",
   "type": "Ministerieel besluit",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1003277/VolledigDocument?datum=2006-06-01",
-  "source_sha256": "830c567d49be32936a10bd2d50922489c1b1585b1e1ee847cada8b185b883fab",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1003277/VolledigDocument?datum=2008-10-01",
+  "source_sha256": "562b2d7098f56eb4fc8552cb08f0e0045900d1e18a2a3e54d19b8de16423568d",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1003277&param=informatie",
-  "as_of": "2006-06-01",
+  "as_of": "2008-10-01",
   "made": "1990-03-29",
   "gazette": "1990-12-04",
   "numac": 0,
   "document_start": "1990-01-01",
   "document_end": "2008-09-30",
-  "in_force": "2006-06-01",
+  "in_force": "2008-10-01",
   "article_versions": 3,
-  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2008-10-01; future article versions excluded; article text as the API gives it"
 }
