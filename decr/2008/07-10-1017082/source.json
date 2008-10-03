@@ -1,0 +1,17 @@
+{
+  "codex_id": 1017082,
+  "title": "Decreet van 2008-07-10 houdende een kader voor het Vlaamse gelijkekansen- en gelijkebehandelingsbeleid",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1017082/VolledigDocument?datum=2008-10-03",
+  "source_sha256": "6ff52b4763fd8e8c198d26952331d77b893f3c6671e97a924fdfda4fe075a271",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1017082&param=informatie",
+  "as_of": "2008-10-03",
+  "made": "2008-07-10",
+  "gazette": "2008-09-23",
+  "numac": 2008203387,
+  "document_start": "2008-10-03",
+  "document_end": null,
+  "in_force": "2008-10-03",
+  "article_versions": 48,
+  "record_form": "consolidated version as in force on 2008-10-03; oldest version available; future article versions excluded; article text as the API gives it"
+}
