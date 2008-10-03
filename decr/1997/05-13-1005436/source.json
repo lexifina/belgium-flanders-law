@@ -2,16 +2,16 @@
   "codex_id": 1005436,
   "title": "Decreet van 1997-05-13 houdende de opvolging van de resoluties van de Wereldvrouwenconferentie die van 4 tot 14 september 1995 in Peking heeft plaatsgehad",
   "type": "Decreet",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1005436/VolledigDocument?datum=2006-06-01",
-  "source_sha256": "206a45541d9084f44193e66eab4172b73c9925354bf4513a522a6e43a82f6cf7",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1005436/VolledigDocument?datum=2008-10-03",
+  "source_sha256": "8a2839da12c55e13ccdf6862b3b281db26126507aebb1c8fb3c5b3dded1e6b82",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1005436&param=informatie",
-  "as_of": "2006-06-01",
+  "as_of": "2008-10-03",
   "made": "1997-05-13",
   "gazette": "1997-06-18",
   "numac": 1997035721,
   "document_start": null,
   "document_end": "2008-10-02",
-  "in_force": "2006-06-01",
+  "in_force": "2008-10-03",
   "article_versions": 3,
-  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2008-10-03; future article versions excluded; article text as the API gives it"
 }
