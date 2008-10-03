@@ -84,11 +84,11 @@ In een periode van twintig jaar na de voorlopige oplevering van een investering 
 
 ### ART. 18.
 
-De bedragen zoals bepaald in artikelen 12 en 13 worden jaarlijks op I januari aangepast aan de bouwindex. De basisindex is die van 1 januari 1994.
+De bedragen zoals bepaald in artikelen 12 en 13 worden jaarlijks op I januari aangepast aan de bouwindex. De basisindex is die van 1 januari 1994.<br /><br />De aanpassing, vermeld in het eerste lid, gebeurt aan de hand van de actualisatieformule 0,40 s/S + 0,40 i/I + 0,20. Daarin geldt : s = het officiële loon in de bouwnijverheid voor de categorie 2A, van kracht op 1 januari van het betreffende jaar; S = 19,885; i = de index van de bouwmaterialen van kracht op 1 november voorafgaand aan het betreffende jaar; I = 3,627.
 
 ### ART. 19.
 
-Behalve voor de aankoop omvat de investeringssubsidie, naast het bedrag dat exclusief BTW wordt vastgesteld met toepassing van artikelen 12, 13, 14, 15 en 17, een subsidie voor de BTW tegen het geldende tarief en voor de algemene onkosten tegen 7 %. De totale investeringssubsidie wordt dan als volgt berekend: basisbedrag + geldende BTW op het basisbedrag + algemene onkosten à 7 % op het basisbedrag + geldende BTW op de algemene onkosten.
+Behalve voor de aankoop omvat de investeringssubsidie, naast het bedrag dat exclusief BTW wordt vastgesteld met toepassing van artikelen 12, 13, 14, 15 en 17, een subsidie voor de BTW tegen het geldende tarief en voor de algemene onkosten tegen 10 %. De totale investeringssubsidie wordt dan als volgt berekend: basisbedrag + geldende BTW op het basisbedrag + algemene onkosten à 10 % op het basisbedrag + geldende BTW op de algemene onkosten.
 
 ## HOOFDSTUK VI SPECIFIEKE SUBSIDIERINGSVOORWAARDEN VOOR DE WIJKGEZONDHEIDSCENTRA
 
