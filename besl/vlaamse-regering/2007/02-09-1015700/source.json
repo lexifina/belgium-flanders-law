@@ -2,16 +2,16 @@
   "codex_id": 1015700,
   "title": "Besluit van de Vlaamse Regering van 2007-02-09 tot regeling van de investeringswaarborg voor [woonzorgcentra (verv. BVR 24 juli 2009, art. 67)], verstrekt door het Vlaams Infrastructuurfonds voor Persoonsgebonden Aangelegenheden, en tot wijziging van het besluit van de Vlaamse Regering van 1 september 2006 tot regeling van de alternatieve investeringswaarborg verstrekt door het Vlaams Infrastructuurfonds voor Persoonsgebonden Aangelegenheden",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1015700/VolledigDocument?datum=2007-10-19",
-  "source_sha256": "06f97d0a8df53209bdbb000ae5325108d5c6e691bd3f3bdae83adf53d7970efc",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1015700/VolledigDocument?datum=2008-10-03",
+  "source_sha256": "90fa0f66f782ca487b0d601629ba0d210e2bc9af7fce4408ce67808016f382de",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1015700&param=informatie",
-  "as_of": "2007-10-19",
+  "as_of": "2008-10-03",
   "made": "2007-02-09",
   "gazette": "2007-04-10",
   "numac": 2007035515,
   "document_start": "2007-05-01",
   "document_end": null,
-  "in_force": "2007-10-19",
+  "in_force": "2008-10-03",
   "article_versions": 33,
-  "record_form": "consolidated version as in force on 2007-10-19; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2008-10-03; future article versions excluded; article text as the API gives it"
 }
