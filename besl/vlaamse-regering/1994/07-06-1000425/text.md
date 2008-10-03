@@ -60,11 +60,11 @@ Bij de eerste erkenning van een dienst voor begeleid wonen, wordt een eenmalige 
 
 ### ART. 14.
 
-De bedragen van de investeringssubsidie zoals bepaald in de artikelen 5 en 6 worden jaarlijks per 1 januari aangepast aan de bouwindex. De basisindex is die van de eerste januari 1994.
+De bedragen van de investeringssubsidie zoals bepaald in de artikelen 5 en 6 worden jaarlijks per 1 januari aangepast aan de bouwindex. De basisindex is die van de eerste januari 1994.<br /><br />De aanpassing, vermeld in het eerste lid, gebeurt aan de hand van de actualisatieformule 0,40 s/S + 0,40 i/I + 0,20. Daarin geldt : s = het officiële loon in de bouwnijverheid voor de categorie 2A, van kracht op 1 januari van het betreffende jaar; S = 19,885; i = de index van de bouwmaterialen van kracht op 1 november voorafgaand aan het betreffende jaar; I = 3,627.
 
 ### ART. 15.
 
-De investeringssubsidie zoals omschreven in de artikelen 5, 7, 8 en 10 is exclusief de BTW tegen het geldende tarief en de algemene onkosten tegen 7 %. De BTW en de algemene onkosten worden tevens gesubsidieerd. Daartoe dient de investeringssubsidie in eerste instantie te worden vermenigvuldigd met 1,07 waarna op het bekomen produkt de BTW tegen het geldende tarief wordt verrekend.
+De investeringssubsidie zoals omschreven in de artikelen 5, 7, 8 en 10 is exclusief de BTW tegen het geldende tarief en de algemene onkosten tegen 10 %. De BTW en de algemene onkosten worden tevens gesub-sidieerd. Daartoe dient de investeringssubsidie in eerste instantie te worden vermenigvuldigd met 1,10 waarna op het bekomen produkt de BTW tegen het geldende tarief wordt verrekend.
 
 ## HOOFDSTUK IV SLOT- EN OVERGANGSBEPALINGEN
 
