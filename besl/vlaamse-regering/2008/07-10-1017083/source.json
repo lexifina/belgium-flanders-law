@@ -1,0 +1,17 @@
+{
+  "codex_id": 1017083,
+  "title": "Besluit van de Vlaamse Regering van 2008-07-10 houdende klassering van afwateringsgrachten op het grondgebied van de gemeente Holsbeek tot onbevaarbare waterlopen van derde categorie",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1017083/VolledigDocument?datum=2008-10-05",
+  "source_sha256": "f000aafdcc5d16db65c2255dfec8127aa1af2c55d378efb87f7fa09679ab9050",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1017083&param=informatie",
+  "as_of": "2008-10-05",
+  "made": "2008-07-10",
+  "gazette": "2008-09-25",
+  "numac": 2008203302,
+  "document_start": "2008-10-05",
+  "document_end": null,
+  "in_force": "2008-10-05",
+  "article_versions": 10,
+  "record_form": "consolidated version as in force on 2008-10-05; oldest version available; future article versions excluded; article text as the API gives it"
+}
