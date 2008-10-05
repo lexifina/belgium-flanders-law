@@ -1,0 +1,17 @@
+{
+  "codex_id": 1017087,
+  "title": "Omzendbrief van 2008-07-24 Omzendbrief 42c. Boekhoudkundige opvolging van de VLIF-beslissingen m.b.t. rentesubsidies, kapitaalpremies en waarborg",
+  "type": "Omzendbrief",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1017087/VolledigDocument?datum=2008-10-05",
+  "source_sha256": "b16d8fc6064acbbfa017ae1d99efa646ed765937531758903b6672fbb207cda4",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1017087&param=informatie",
+  "as_of": "2008-10-05",
+  "made": "2008-07-24",
+  "gazette": "2008-09-25",
+  "numac": 2008036066,
+  "document_start": "2008-10-05",
+  "document_end": null,
+  "in_force": "2008-10-05",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2008-10-05; oldest version available; future article versions excluded; article text as the API gives it"
+}
