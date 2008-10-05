@@ -1,0 +1,17 @@
+{
+  "codex_id": 1017084,
+  "title": "Besluit van de Vlaamse Regering van 2008-07-10 houdende klassering van grachten op het grondgebied van de stad Lokeren tot onbevaarbare waterlopen van de derde categorie",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1017084/VolledigDocument?datum=2008-10-05",
+  "source_sha256": "f0c284df0fbea95e4664e429e7824bece93b17eb26e94253d140dc338b31a492",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1017084&param=informatie",
+  "as_of": "2008-10-05",
+  "made": "2008-07-10",
+  "gazette": "2008-09-25",
+  "numac": 2008203303,
+  "document_start": "2008-10-05",
+  "document_end": null,
+  "in_force": "2008-10-05",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2008-10-05; oldest version available; future article versions excluded; article text as the API gives it"
+}
