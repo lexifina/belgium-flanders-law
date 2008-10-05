@@ -1,0 +1,17 @@
+{
+  "codex_id": 1017086,
+  "title": "Besluit van de Vlaamse Regering van 2008-07-18 houdende overdracht en klassering van de waterloop, bekend als Antitankgracht op het grondgebied van de gemeenten Stabroek, Kapellen, Brasschaat, Schoten, Brecht, Schilde en Ranst, tot onbevaarbare waterloop van de eerste categorie",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1017086/VolledigDocument?datum=2008-10-05",
+  "source_sha256": "e766c6becb9f233761ef823006157d993762a8597ed334c8e2c1a400af28cb72",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1017086&param=informatie",
+  "as_of": "2008-10-05",
+  "made": "2008-07-18",
+  "gazette": "2008-09-25",
+  "numac": 2008203301,
+  "document_start": "2008-10-05",
+  "document_end": null,
+  "in_force": "2008-10-05",
+  "article_versions": 6,
+  "record_form": "consolidated version as in force on 2008-10-05; oldest version available; future article versions excluded; article text as the API gives it"
+}
