@@ -1,0 +1,17 @@
+{
+  "codex_id": 1017098,
+  "title": "Besluit van de Vlaamse Regering van 2008-07-18 houdende goedkeuring van programmatie van specifieke structuuronderdelen van de tweede of derde graad van scholen behorende tot een scholengemeenschap",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1017098/VolledigDocument?datum=2008-10-09",
+  "source_sha256": "95eabf4c2e2e011151562b176b6085ef72cc09e196560d6261b897516fafb0f6",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1017098&param=informatie",
+  "as_of": "2008-10-09",
+  "made": "2008-07-18",
+  "gazette": "2008-09-29",
+  "numac": 2008203415,
+  "document_start": "2008-10-09",
+  "document_end": null,
+  "in_force": "2008-10-09",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2008-10-09; oldest version available; future article versions excluded; article text as the API gives it"
+}
