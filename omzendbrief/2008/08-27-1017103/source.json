@@ -1,0 +1,17 @@
+{
+  "codex_id": 1017103,
+  "title": "Omzendbrief van 2008-08-27 LNE/2008/1 over asbest in Vlaamse sorteercentra",
+  "type": "Omzendbrief",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1017103/VolledigDocument?datum=2008-10-09",
+  "source_sha256": "0b8dbdb01aa3fcb714ee15e15fe8b067e3caf96c9afb39e44cad79e8af053052",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1017103&param=informatie",
+  "as_of": "2008-10-09",
+  "made": "2008-08-27",
+  "gazette": "2008-09-29",
+  "numac": 2008203409,
+  "document_start": "2008-10-09",
+  "document_end": null,
+  "in_force": "2008-10-09",
+  "article_versions": 1,
+  "record_form": "consolidated version as in force on 2008-10-09; oldest version available; future article versions excluded; article text as the API gives it"
+}
