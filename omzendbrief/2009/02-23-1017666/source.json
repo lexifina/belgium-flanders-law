@@ -1,0 +1,17 @@
+{
+  "codex_id": 1017666,
+  "title": "Omzendbrief van 2009-02-23 BZ-OVO-09-01 met betrekking tot de gevolgen van de prijsstijgingen van petroleumbitumen bij de aanleg van bitumineuze wegverhardingen",
+  "type": "Omzendbrief",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1017666/VolledigDocument?datum=2008-10-10",
+  "source_sha256": "5c5ad279630a396c62fb5918bf7357aa062bfaa93d0d0eec351549fe72e856fd",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1017666&param=informatie",
+  "as_of": "2008-10-10",
+  "made": "2009-02-23",
+  "gazette": "2009-03-11",
+  "numac": 2009200984,
+  "document_start": "2008-10-10",
+  "document_end": null,
+  "in_force": "2008-10-10",
+  "article_versions": 1,
+  "record_form": "consolidated version as in force on 2008-10-10; oldest version available; future article versions excluded; article text as the API gives it"
+}
