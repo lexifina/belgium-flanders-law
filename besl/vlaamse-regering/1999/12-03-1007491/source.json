@@ -2,16 +2,16 @@
   "codex_id": 1007491,
   "title": "Besluit van de Vlaamse Regering van 1999-12-03 betreffende de aanwijzing van de organisaties in de Vlaamse Land- en Tuinbouwraad",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1007491/VolledigDocument?datum=2006-06-01",
-  "source_sha256": "2b84b9e00786fd40fac7cea904dbfdc2a52834ac46bbaf641104f28fd1ba9c12",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1007491/VolledigDocument?datum=2008-10-12",
+  "source_sha256": "788c337f79dd633091c1cc9999850f5415b1186d5906da5555f85913587ac23c",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1007491&param=informatie",
-  "as_of": "2006-06-01",
+  "as_of": "2008-10-12",
   "made": "1999-12-03",
   "gazette": "2000-08-05",
   "numac": 2000035439,
   "document_start": "1999-12-01",
   "document_end": "2008-10-11",
-  "in_force": "2006-06-01",
+  "in_force": "2008-10-12",
   "article_versions": 3,
-  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2008-10-12; future article versions excluded; article text as the API gives it"
 }
