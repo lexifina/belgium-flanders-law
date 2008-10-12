@@ -2,16 +2,16 @@
   "codex_id": 1000120,
   "title": "Besluit van de Vlaamse Regering van 1993-11-24 betreffende de [omkadering] van de zeevisserij en de aquicultuur",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1000120/VolledigDocument?datum=2006-06-01",
-  "source_sha256": "406647790552da0b6108fa5d4d71d1236826d9d1967c133883f3712f8cd0e0dd",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1000120/VolledigDocument?datum=2008-10-12",
+  "source_sha256": "5e3d759460dabcded440535d64f1d6c389af8d1daafb8b42f7ddcfa9d4387476",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1000120&param=informatie",
-  "as_of": "2006-06-01",
+  "as_of": "2008-10-12",
   "made": "1993-11-24",
   "gazette": "1994-06-16",
   "numac": 1994035693,
   "document_start": "1993-11-24",
   "document_end": "2016-03-29",
-  "in_force": "2006-06-01",
+  "in_force": "2008-10-12",
   "article_versions": 30,
-  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2008-10-12; future article versions excluded; article text as the API gives it"
 }
