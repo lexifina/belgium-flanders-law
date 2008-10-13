@@ -1,0 +1,17 @@
+{
+  "codex_id": 1017122,
+  "title": "Besluit van de Vlaamse Regering van 2008-09-19 houdende opruststelling van de secretaris-generaal van het departement Diensten voor het Algemeen Regeringsbeleid",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1017122/VolledigDocument?datum=2008-10-13",
+  "source_sha256": "d03de0ab159e1b6d18c3f4e7a35b3449fd45a45eb0fb843bc591ddd3b13d09b7",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1017122&param=informatie",
+  "as_of": "2008-10-13",
+  "made": "2008-09-19",
+  "gazette": "2008-10-03",
+  "numac": 2008036187,
+  "document_start": "2008-10-13",
+  "document_end": null,
+  "in_force": "2008-10-13",
+  "article_versions": 5,
+  "record_form": "consolidated version as in force on 2008-10-13; oldest version available; future article versions excluded; article text as the API gives it"
+}
