@@ -1,0 +1,17 @@
+{
+  "codex_id": 1017149,
+  "title": "Ministerieel besluit van 2008-09-22 tot uitvoering van artikel 60bis van het Wetboek der Successierechten",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1017149/VolledigDocument?datum=2008-10-14",
+  "source_sha256": "dc7ff51568dabf27ccd6a5dfe0726498a3cbd2fee4edb30973976b5873c56569",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1017149&param=informatie",
+  "as_of": "2008-10-14",
+  "made": "2008-09-22",
+  "gazette": "2008-10-14",
+  "numac": 2008036138,
+  "document_start": "2008-10-14",
+  "document_end": null,
+  "in_force": "2008-10-14",
+  "article_versions": 8,
+  "record_form": "consolidated version as in force on 2008-10-14; oldest version available; future article versions excluded; article text as the API gives it"
+}
