@@ -1,0 +1,17 @@
+{
+  "codex_id": 1017125,
+  "title": "Ministerieel besluit van 2008-07-10 tot wijziging van het ministerieel besluit van 13 januari 2006 betreffende de overdracht van toeslagrechten",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1017125/VolledigDocument?datum=2008-10-16",
+  "source_sha256": "9d1f8fb8644914f6f9b7a12337704e012cca3b3dde39c500c1865201212aecc9",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1017125&param=informatie",
+  "as_of": "2008-10-16",
+  "made": "2008-07-10",
+  "gazette": "2008-10-06",
+  "numac": 2008203553,
+  "document_start": "2008-10-16",
+  "document_end": null,
+  "in_force": "2008-10-16",
+  "article_versions": 10,
+  "record_form": "consolidated version as in force on 2008-10-16; oldest version available; future article versions excluded; article text as the API gives it"
+}
