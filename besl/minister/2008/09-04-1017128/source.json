@@ -1,0 +1,17 @@
+{
+  "codex_id": 1017128,
+  "title": "Ministerieel besluit van 2008-09-04 in uitvoering van het besluit van de Vlaamse Regering van 24 oktober 2003 houdende de normen voor de preventie van brand in de erkende initiatieven voor buitenschoolse opvang met betrekking tot het Initiatief Buitenschoolse Opvang Kinderclub Kasterlee, Het Trollenhol, Pastorijstraat 10, 2460 Kasterlee",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1017128/VolledigDocument?datum=2008-10-16",
+  "source_sha256": "51d8279040027e2b3addad13b1dbbc472e60ee1c6739901e9edcd7e17e5cea01",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1017128&param=informatie",
+  "as_of": "2008-10-16",
+  "made": "2008-09-04",
+  "gazette": "2008-10-06",
+  "numac": 2008203478,
+  "document_start": "2008-10-16",
+  "document_end": null,
+  "in_force": "2008-10-16",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2008-10-16; oldest version available; future article versions excluded; article text as the API gives it"
+}
