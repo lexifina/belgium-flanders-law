@@ -1,0 +1,17 @@
+{
+  "codex_id": 1017131,
+  "title": "Ministerieel besluit van 2008-09-19 met betrekking tot het hergebruik van gegevens bij de opmaak van een energieprestatiecertificaat residentiële gebouwen",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1017131/VolledigDocument?datum=2008-10-16",
+  "source_sha256": "e0c5d42f86c033197b6790660336a24a5d7586dee55f0714c2da505b6bea33a8",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1017131&param=informatie",
+  "as_of": "2008-10-16",
+  "made": "2008-09-19",
+  "gazette": "2008-10-06",
+  "numac": 2008203486,
+  "document_start": "2008-10-16",
+  "document_end": "2018-12-31",
+  "in_force": "2008-10-16",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2008-10-16; oldest version available; future article versions excluded; article text as the API gives it"
+}
