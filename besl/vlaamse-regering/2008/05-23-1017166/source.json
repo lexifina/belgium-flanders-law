@@ -1,0 +1,17 @@
+{
+  "codex_id": 1017166,
+  "title": "Besluit van de Vlaamse Regering van 2008-05-23 tot de selectie en rangschikking van nieuwbouwprojecten in onderwijs volgens de passiefhuisstandaard",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1017166/VolledigDocument?datum=2008-10-17",
+  "source_sha256": "8aa4f611e0addc0674f2fac90f93f26a0b2ee7b730b0e1dc058fe89e0abfcba9",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1017166&param=informatie",
+  "as_of": "2008-10-17",
+  "made": "2008-05-23",
+  "gazette": "2008-10-17",
+  "numac": 0,
+  "document_start": "2008-10-17",
+  "document_end": null,
+  "in_force": "2008-10-17",
+  "article_versions": 6,
+  "record_form": "consolidated version as in force on 2008-10-17; oldest version available; future article versions excluded; article text as the API gives it"
+}
