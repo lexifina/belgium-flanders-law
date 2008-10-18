@@ -1,0 +1,17 @@
+{
+  "codex_id": 1017135,
+  "title": "Besluit van de Vlaamse Regering van 2008-09-05 tot tijdelijke erkenning van de opleiding bachelor in de fysica van de Universiteit Antwerpen",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1017135/VolledigDocument?datum=2008-10-18",
+  "source_sha256": "05f54ea87e4de7dbe1d5a6a7d577229293433868861caaa3f5212dc0133010f8",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1017135&param=informatie",
+  "as_of": "2008-10-18",
+  "made": "2008-09-05",
+  "gazette": "2008-10-08",
+  "numac": 2008203555,
+  "document_start": "2008-10-18",
+  "document_end": null,
+  "in_force": "2008-10-18",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2008-10-18; oldest version available; future article versions excluded; article text as the API gives it"
+}
