@@ -1,0 +1,17 @@
+{
+  "codex_id": 1017144,
+  "title": "Ministerieel besluit van 2008-05-31 betreffende de toepassing van de artikelen 48 en 48ter van het decreet van 22 februari betreffende de bodemsanering - Site \"Aen den Koetsweg te Riemst-Vlijtingen\"",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1017144/VolledigDocument?datum=2008-10-20",
+  "source_sha256": "3e06aa754a301c53986a456e6e7fbe07c4666c063732bd156dd7a13c9fb172b4",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1017144&param=informatie",
+  "as_of": "2008-10-20",
+  "made": "2008-05-31",
+  "gazette": "2008-10-10",
+  "numac": 2008203453,
+  "document_start": "2008-10-20",
+  "document_end": null,
+  "in_force": "2008-10-20",
+  "article_versions": 8,
+  "record_form": "consolidated version as in force on 2008-10-20; oldest version available; future article versions excluded; article text as the API gives it"
+}
