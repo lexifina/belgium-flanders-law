@@ -1,0 +1,17 @@
+{
+  "codex_id": 1017220,
+  "title": "Besluit van de Vlaamse Regering van 2008-07-18 houdende de agentschapsspecifieke regeling van de rechtspositie van het personeel van het Agentschap voor Geografische Informatie Vlaanderen",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1017220/VolledigDocument?datum=2008-10-23",
+  "source_sha256": "45e6c9dd99bf25e1c123de36fb7227216cff123d6d67136eafcd96426b218499",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1017220&param=informatie",
+  "as_of": "2008-10-23",
+  "made": "2008-07-18",
+  "gazette": "2008-10-23",
+  "numac": 2008202940,
+  "document_start": "2008-10-23",
+  "document_end": "2015-12-31",
+  "in_force": "2008-10-23",
+  "article_versions": 7,
+  "record_form": "consolidated version as in force on 2008-10-23; oldest version available; future article versions excluded; article text as the API gives it"
+}
