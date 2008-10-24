@@ -164,7 +164,7 @@ Om ontvankelijk te zijn, omvat de aanvraag voor een zendvergunning voor een land
 
 ### ART. 36.
 
-Om ontvankelijk te zijn, omvat de aanvraag voor een zendvergunning voor aardse televisieomroep of een wijziging ervan per frequentie :<br />1° een voldoende nauwkeurig uittreksel van de landkaart waarop de verwachte opstellingsplaats wordt aangegeven evenals de geografische coördinaten waar de antenne is opgesteld (lengte en breedte in graden, minuten en seconden);<br />2° een volledige verklaring over de zendinstallatie, onder andere het merk, het type, de antennekarakteristieken en de kabels, zodat alle eigenschappen van de zendinstallatie kunnen worden bepaald, evenals een meetverslag dat opgesteld is overeenkomstig de regels, bepaald door de bevoegde federale overheid.<br /><br />Elke wijziging in deze informatie wordt onverwijld aan de Regulator meegedeeld.<br /><br />
+...<br /><br />
 
 ### ART. 37.
 
@@ -174,15 +174,15 @@ Om ontvankelijk te zijn, omvat de aanvraag voor een transportvergunning of een w
 
 ### ART. 38.
 
-In afwijking van de bepalingen van dit hoofdstuk, moet bij de aanvraag tot verlenging van een bestaande erkenning van een omroep of van een bestaande vergunning van een radio- of televisieomroepnetwerk van het werkings- en financieel verslag van het voorafgaande kalenderjaar gevoegd zijn, aangevuld met de stukken die een wijziging inhouden ten opzichte van die verslagen, en die nog niet aan de Regulator werden meegedeeld.<br /><br />
+In afwijking van de bepalingen van dit hoofdstuk, moet bij de aanvraag tot verlenging van een bestaande erkenning van een omroep van het werkings- en financieel verslag van het voorafgaande kalenderjaar gevoegd zijn, aangevuld met de stukken die een wijziging inhouden ten opzichte van die verslagen, en die nog niet aan de Regulator werden meegedeeld.<br /><br />
 
 ### ART. 39.
 
-De algemene kamer kan op ieder ogenblik de erkenning van de particuliere omroep of de vergunning van de erkende omroep en het radio- of televisieomroepnetwerk schorsen of intrekken als de betrokkene zich niet houdt aan de bepalingen van het Mediadecreet, dit besluit, de voorwaarden van de erkenning, alsmede in geval van erkende landelijke, regionale en lokale radio-omroepen, als de betrokkene zich niet houdt aan de voorwaarden die betrekking hebben op de informatieve programma's, op de statuten of de aandeelhoudersstructuur waarvoor de Vlaamse Regering zijn goedkeuring niet heeft verleend, bepaald in de offerte die door de erkende radio-omroep is ingediend, in overeenstemming waarmee de erkenning door de Vlaamse Regering werd afgeleverd.<br /><br />De schorsing of de intrekking wordt steeds voorafgegaan door een ingebrekestelling vanwege de algemene kamer die de omroep of het omroepnetwerk de kans biedt aan alle voorschriften te voldoen. De omroep of het omroepnetwerk beschikt over ten minste een maand om de toestand te regulariseren. Die termijn kan door de algemene kamer worden verlengd, naar gelang van de vastgestelde inbreuk.<br /><br />Op zijn verzoek wordt de omroep of het omroepnetwerk gehoord.<br /><br />Geen enkele schorsing of intrekking geeft aanleiding tot een vergoeding noch tot terugbetaling van de vergoedingen die overeenkomstig artikel 22, 24, 26, 28 en 30 zijn betaald.<br /><br />
+De algemene kamer kan op ieder ogenblik de erkenning van de particuliere omroep of de vergunning van de erkende omroep  schorsen of intrekken als de betrokkene zich niet houdt aan de bepalingen van het Mediadecreet, dit besluit, de voorwaarden van de erkenning, alsmede in geval van erkende landelijke, regionale en lokale radio-omroepen, als de betrokkene zich niet houdt aan de voorwaarden die betrekking hebben op de informatieve programma's, op de statuten of de aandeelhoudersstructuur waarvoor de Vlaamse Regering zijn goedkeuring niet heeft verleend, bepaald in de offerte die door de erkende radio-omroep is ingediend, in overeenstemming waarmee de erkenning door de Vlaamse Regering werd afgeleverd.<br /><br />De schorsing of de intrekking wordt steeds voorafgegaan door een ingebrekestelling vanwege de algemene kamer die de omroep de kans biedt aan alle voorschriften te voldoen. De omroep of het omroepnetwerk beschikt over ten minste een maand om de toestand te regulariseren. Die termijn kan door de algemene kamer worden verlengd, naar gelang van de vastgestelde inbreuk.<br /><br />Op zijn verzoek wordt de omroep gehoord.<br /><br />Geen enkele schorsing of intrekking geeft aanleiding tot een vergoeding noch tot terugbetaling van de vergoedingen die overeenkomstig artikel 22, 24, 26, 28 en 30 zijn betaald.<br /><br />
 
 ### ART. 40.
 
-Als een omroep of radio- of televisieomroepnetwerk wil afzien van zijn erkenning of vergunning, deelt hij dat mee aan de Regulator.<br /><br />
+Als een omroep wil afzien van zijn erkenning of vergunning, deelt hij dat mee aan de Regulator.<br /><br />
 
 ## Afdeling V [Procedure van kennisgevingen (verv. BVR 29 januari 2010, art. 21)]
 
