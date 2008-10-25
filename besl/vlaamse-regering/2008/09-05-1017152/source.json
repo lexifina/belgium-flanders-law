@@ -1,0 +1,17 @@
+{
+  "codex_id": 1017152,
+  "title": "Besluit van de Vlaamse Regering van 2008-09-05 tot wijziging van het besluit van de Vlaamse Regering van 25 maart 2005 houdende de reglementering van de handel in en de keuring van zaaizaad van groenvoedergewassen",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1017152/VolledigDocument?datum=2008-10-25",
+  "source_sha256": "f9e702bb182b937f527245d1cc19f887c9c676888b313c6c754ac4479bcb170e",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1017152&param=informatie",
+  "as_of": "2008-10-25",
+  "made": "2008-09-05",
+  "gazette": "2008-10-15",
+  "numac": 2008036143,
+  "document_start": "2008-10-25",
+  "document_end": null,
+  "in_force": "2008-10-25",
+  "article_versions": 9,
+  "record_form": "consolidated version as in force on 2008-10-25; oldest version available; future article versions excluded; article text as the API gives it"
+}
