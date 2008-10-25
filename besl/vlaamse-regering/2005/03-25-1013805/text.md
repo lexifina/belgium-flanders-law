@@ -4,124 +4,226 @@
 
 ### ART. 1.
 
-a) Grassen
 <p>§ 1. Voor de toepassing van dit besluit, wordt verstaan onder:<br>
 <br>
-1° groenvoedergewassen: de gewassen en kiemen van de volgende geslachten en soorten:<br>
-</p>
+1° groenvoedergewassen: de gewassen en kiemen van de volgende geslachten en soorten:</p>
 
-<table border="1" cellpadding="0" cellspacing="0" style="border-collapse:collapse">
+<table border="0" cellpadding="0" cellspacing="0" style="border-collapse:collapse; width:14cm">
 	<tbody>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:210.5pt">
-			<p>a) Grassen</p>
-
-			<p>Kruipend struisgras en heidestruisgras</p>
-
-			<p>Hoog struisgras</p>
-
-			<p>Wit struisgras</p>
-
-			<p>Gewoon struisgras</p>
-
-			<p>Beemdvossestaart</p>
-
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:7cm">
+			<p>a) grassen:<!--?xml:namespace         prefix = o ns = "urn:schemas-microsoft-com:office:office"         /--></p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:7cm">
+			<p><em>Gramineae</em></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:7cm">
+			<p>kruipend struisgras en heidestruisgras</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:7cm">
+			<p><em>Agrostis canina L.</em></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:7cm">
+			<p>hoog struisgras</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:7cm">
+			<p><em>Agrostis gigantea Roth.</em></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:7cm">
+			<p>wit struisgras</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:7cm">
+			<p><em>Agrostis stolonifer L.</em></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:7cm">
+			<p>gewoon struisgras</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:7cm">
+			<p><em>Agrostis capillaris L.</em></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:7cm">
+			<p>beemdvossenstaart</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:7cm">
+			<p><em>Alopecurus pratensis L.</em></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:7cm">
 			<p>Frans raaigras</p>
-
-			<p>Paardegras</p>
-
-			<p>Alaskadravik</p>
-
-			<p>Bermudagras</p>
-
-			<p>Kropaar</p>
-
-			<p>Rietzwenkgras</p>
-
-			<p>Schapegras</p>
-
-			<p>Beemdlangbloem</p>
-
-			<p>Roodzwenkgras</p>
-
-			<p>Westerworlds en Italiaans raaigras</p>
-
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:7cm">
+			<p><em>Arrhenatherum elatius (L.) P. Beauv. ex J. et K.B. Presl.</em></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:7cm">
+			<p>paardengras</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:7cm">
+			<p><em>Bromus catharticus Vahl.</em></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:7cm">
+			<p>alaskadravik</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:7cm">
+			<p><em>Bromus sitchensis Trin.</em></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:7cm">
+			<p>bermudagras</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:7cm">
+			<p><em>Cynodon dactylon (L.) Pers.</em></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:7cm">
+			<p>kropaar</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:7cm">
+			<p><em>Dactylis glomerata L.</em></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:7cm">
+			<p>rietzwenkgras</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:7cm">
+			<p><em>Festuca arundinacea Schreber.</em></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:7cm">
+			<p>schapengras</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:7cm">
+			<p><em>Festuca ovina L.</em></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:7cm">
+			<p>beemdlangbloem</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:7cm">
+			<p><em>Festuca pratensis Hudson.</em></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:7cm">
+			<p>roodzwenkgras</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:7cm">
+			<p><em>Festuca rubra L.</em></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:7cm">
+			<p>westerworlds en Italiaans raaigras</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:7cm">
+			<p><em>Lolium multiflorum Lam.</em></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:7cm">
 			<p>Engels raaigras</p>
-
-			<p>Gekruist raaigras</p>
-
-			<p>Knolrietgras, Phalaris</p>
-
-			<p>Kleine timothee</p>
-
-			<p>Timothee</p>
-
-			<p>Tuintjesgras</p>
-
-			<p>Bosbeemdgras</p>
-
-			<p>Moerasbeemdgras</p>
-
-			<p>Veldbeemdgras</p>
-
-			<p>Ruwbeemdgras</p>
-
-			<p>Goudhaver</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:250.1pt">
-			<p>Gramineae</p>
-
-			<p>Agrostis canina L.</p>
-
-			<p>Agrostis gigantea Roth.</p>
-
-			<p>Agristis stolonifer L.</p>
-
-			<p>Agrostis capillaris L.</p>
-
-			<p>Alopecurnus pratensis L.</p>
-
-			<p>Arrhenatherum elatius (L.) P. Beauv. Ex J. Et K.B. Presl.</p>
-
-			<p>Bromus catharticus Vahl.</p>
-
-			<p>Bromus sitchensis Trin.</p>
-
-			<p>Cynodon dactylon (L.) Pers.</p>
-
-			<p>Dactylis glomerata L.</p>
-
-			<p>Festuca arundinacea Schreber.</p>
-
-			<p>Festuca ovina L.</p>
-
-			<p>Festuca pratensis Hudson.</p>
-
-			<p>Festuca rubra L.</p>
-
-			<p>Lolium multiflorum Lam.</p>
-
-			<p>Lolium perenne L.</p>
-
-			<p>Lolium x boucheanum Kunth.</p>
-
-			<p>Phalaris aquatica L.</p>
-
-			<p>Phleum bertolonii DC.</p>
-
-			<p>Phleum pratense L.</p>
-
-			<p>Poa annua L.</p>
-
-			<p>Poa nemoralis L.</p>
-
-			<p>Poa palustris L.</p>
-
-			<p>Poa pratensis L.</p>
-
-			<p>Poa trivialis L.</p>
-
-			<p>Trisetum flavescens (L.) P. Beauv.</p>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:7cm">
+			<p><em>Lolium perenne L.</em></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:7cm">
+			<p>gekruist raaigras</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:7cm">
+			<p><em>Lolium x boucheanum Kunth.</em></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:7cm">
+			<p>knolrietgras, Phalaris</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:7cm">
+			<p><em>Phalaris aquatica L.</em></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:7cm">
+			<p>kleine timothee</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:7cm">
+			<p><em>Phleum bertolonii DC.</em></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:7cm">
+			<p>timothee</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:7cm">
+			<p><em>Phleum pratense L.</em></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:7cm">
+			<p>tuintjesgras</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:7cm">
+			<p><em>Poa annua L.</em></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:7cm">
+			<p>bosbeemdgras</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:7cm">
+			<p><em>Poa nemoralis L.</em></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:7cm">
+			<p>moerasbeemdgras</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:7cm">
+			<p><em>Poa palustris L.</em></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:7cm">
+			<p>veldbeemdgras</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:7cm">
+			<p><em>Poa pratensis L.</em></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:7cm">
+			<p>ruwbeemdgras</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:7cm">
+			<p><em>Poa trivialis L.</em></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:7cm">
+			<p>goudhaver</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:7cm">
+			<p><em>Trisetum flavescens (L.) P. Beauv.</em></p>
 			</td>
 		</tr>
 	</tbody>
@@ -131,146 +233,233 @@ a) Grassen
 
 <p>&nbsp;</p>
 
-<p>Onder het hier omschreven begrip vallen ook de volgende hybriden die verkregen zijn door kruising van de hierboven vermelde soorten: x Festulolium (Festuca spp. x Lolium spp.)<br>
-hybriden die het gevolg zijn van de kruising van een soort van het geslacht Festuca met een soort van het geslacht Lolium (x Festulolium);<br>
-</p>
+<p>Onder het hier omschreven begrip vallen ook de volgende hybriden die verkregen zijn door kruising van de hierboven vermelde soorten met : x Festulolium (Festuca spp. x Lolium spp. ) : hybriden die het gevolg zijn van de kruising van een soort van het geslacht Festuca met een soort van het geslacht Lolium (x Festulolium);<br>
+&nbsp;</p>
 
-<table border="1" cellpadding="0" cellspacing="0" style="border-collapse:collapse">
+<table border="0" cellpadding="0" cellspacing="0" style="border-collapse:collapse; width:14cm">
 	<tbody>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:230.3pt">
-			<p>b) Vlinderbloemigen</p>
-
-			<p>Esparcette</p>
-
-			<p>Rolklaver</p>
-
-			<p>Witte lupine</p>
-
-			<p>Blauwe lupine</p>
-
-			<p>Gele lupine</p>
-
-			<p>Hopperupsklaver</p>
-
-			<p>Luzerne</p>
-
-			<p>Luzerne</p>
-
-			<p>Steenklaver</p>
-
-			<p>Voedererwten</p>
-
-			<p>Alexandrijnse klaver</p>
-
-			<p>Bastaardklaver</p>
-
-			<p>Incarnaatklaver</p>
-
-			<p>Rode klaver</p>
-
-			<p>Witte klaver</p>
-
-			<p>Perzische klaver</p>
-
-			<p>Bokshoorn</p>
-
-			<p>Veldboon</p>
-
-			<p>Pannonische wikke</p>
-
-			<p>Voederwikke</p>
-
-			<p>Zachte wikke</p>
-
-			<p>&nbsp;</p>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:7cm">
+			<p>b) vlinderbloemigen:</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:230.3pt">
-			<p>Leguminosae</p>
-
-			<p>Hedysarium coronarium L.</p>
-
-			<p>Lotus corniculatus L.</p>
-
-			<p>Lupinus albus L.</p>
-
-			<p>Lupinus angustifolius L.</p>
-
-			<p>Lupinus luteus L.</p>
-
-			<p>Medicago lupulina L.</p>
-
-			<p>Medicago sativa L.</p>
-
-			<p>Medicago x varia T. Martyn.</p>
-
-			<p>Onobrychis viciifolia Scop.</p>
-
-			<p>Pisum sativum L. (partim).</p>
-
-			<p>Trifolium alexandrinum L.</p>
-
-			<p>Trifolium hybridum L.</p>
-
-			<p>Trifolium incarnatum L.</p>
-
-			<p>Trifolium pratense L.</p>
-
-			<p>Trifolium repens L.</p>
-
-			<p>Trifolium resupinatum L.</p>
-
-			<p>Trigonella foenum-graecum L.</p>
-
-			<p>Vicia faba L. (partim).</p>
-
-			<p>Vicia pannonica Crantz.</p>
-
-			<p>Vicia sativa L.</p>
-
-			<p>Vicia villosa Roth.</p>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:7cm">
+			<p><em>Leguminosae</em></p>
 			</td>
 		</tr>
-	</tbody>
-</table>
-
-<p>&nbsp;</p>
-
-<p>&nbsp;</p>
-
-<p>c) Andere soorten<br>
-</p>
-
-<p>&nbsp;</p>
-
-<p>&nbsp;</p>
-
-<table border="1" cellpadding="0" cellspacing="0" style="border-collapse:collapse">
-	<tbody>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:192.5pt">
-			<p>c) Andere soorten</p>
-
-			<p>Koolrapen</p>
-
-			<p>Mergkool</p>
-
-			<p>&nbsp;</p>
-
-			<p>Facelie</p>
-
-			<p>Bladrammenas</p>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:7cm">
+			<p>voedergalega</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:268.1pt">
-			<p>&nbsp;</p>
-
-			<p>Brassica napus L. Var. Napobrassica (L.) rchb.</p>
-
-			<p>Brassica oleracea L. Convar. Acephala (DC.) Alef. Var. Medullosa Thell. + var. Viridis L.</p>
-
-			<p>Phacelia tanacetifolia Benth.</p>
-
-			<p>Raphanus sativus L. Var. Oleiformis Pers.</p>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:7cm">
+			<p><em>Galega orientalis Lam.</em></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:7cm">
+			<p>esparcette</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:7cm">
+			<p><em>Hedysarium coronarium L.</em></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:7cm">
+			<p>rolklaver</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:7cm">
+			<p><em>Lotus corniculatus L.</em></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:7cm">
+			<p>witte lupine</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:7cm">
+			<p><em>Lupinus albus L.</em></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:7cm">
+			<p>blauwe lupine</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:7cm">
+			<p><em>Lupinus angustifolius L.</em></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:7cm">
+			<p>gele lupine</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:7cm">
+			<p><em>Lupinus luteus L.</em></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:7cm">
+			<p>hopperupsklaver</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:7cm">
+			<p><em>Medicago lupulina L.</em></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:7cm">
+			<p>luzerne</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:7cm">
+			<p><em>Medicago sativa L.</em></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:7cm">
+			<p>luzerne</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:7cm">
+			<p><em>Medicago x varia T. Martyn.</em></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:7cm">
+			<p>steenklaver</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:7cm">
+			<p><em>Onobrychis viciifolia Scop.</em></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:7cm">
+			<p>voedererwten</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:7cm">
+			<p><em>Pisum sativum L. (partim</em></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:7cm">
+			<p>alexandrijnse klaver</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:7cm">
+			<p><em>Trifolium alexandrinum L </em></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:7cm">
+			<p>bastaardklaver</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:7cm">
+			<p><em>Trifolium hybridum L.</em></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:7cm">
+			<p>incarnaatklaver</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:7cm">
+			<p><em>Trifolium incarnatum L.</em></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:7cm">
+			<p>rode klaver</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:7cm">
+			<p><em>Trifolium pratense L.</em></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:7cm">
+			<p>witte klaver</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:7cm">
+			<p><em>Trifolium repens L.</em></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:7cm">
+			<p>perzische klaver</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:7cm">
+			<p><em>Trifolium resupinatum L.</em></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:7cm">
+			<p>bokshoorn</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:7cm">
+			<p><em>Trigonella foenum-graecum L.</em></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:7cm">
+			<p>veldboon</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:7cm">
+			<p><em>Vicia faba L. (partim).</em></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:7cm">
+			<p>pannonische wikke</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:7cm">
+			<p><em>Vicia pannonica Crantz.</em></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:7cm">
+			<p>voederwikke</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:7cm">
+			<p><em>Vicia sativa L.</em></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:7cm">
+			<p>zachte wikke</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:7cm">
+			<p><em>Vicia villosa Roth</em></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:7cm">
+			<p>c) andere soorten</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:7cm">
+			<p><em>&nbsp;</em></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:7cm">
+			<p>koolrapen</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:7cm">
+			<p><em>Brassica napus L. var. Napobrassica (L.) Rchb. </em></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:7cm">
+			<p>mergkool</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:7cm">
+			<p><em>Brassica oleracea L. convar. acephala (DC.) Alef. var. medullosa Thell. + var. viridis L.</em></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:7cm">
+			<p>facelie</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:7cm">
+			<p><em>Phacelia tanacetifolia Benth.</em></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:7cm">
+			<p>bladrammenas</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:7cm">
+			<p><em>Raphanus sativus L. var. oleiformis Pers</em></p>
 			</td>
 		</tr>
 	</tbody>
@@ -281,6 +470,7 @@ hybriden die het gevolg zijn van de kruising van een soort van het geslacht Fest
 <p>&nbsp;</p>
 
 <p>2° prebasiszaad: kwekerszaad van generaties die aan het basiszaad voorafgaan, dat door een tot keuring bevoegde entiteit officieel is onderzocht en goedgekeurd volgens de voor de keuring van basiszaad geldende voorschriften;<br>
+<br>
 3° basiszaad:<br>
 a) zaad van gekweekte rassen: zaad,<br>
 1) dat is voortgebracht onder de verantwoordelijkheid van de kweker volgens de regels voor de stelselmatige instandhouding met betrekking tot het ras;<br>
@@ -292,36 +482,48 @@ b) zaad van landrassen: zaad:<br>
 2) dat is bestemd voor de voortbrenging van zaad van de categorie gecertificeerd zaad;<br>
 3) dat, onder voorbehoud van de toepassing van artikel 4, voldoet aan de voorwaarden voor basiszaad opgesomd in bijlage I en II;<br>
 4) waarvan bij een officieel onderzoek is gebleken dat bovenbedoelde voorwaarden zijn vervuld;<br>
+<br>
 4° gecertificeerd zaad: zaad van alle onder 1° opgenomen soorten, met uitzondering van Lupinus spp., Pisum sativum, Vicia spp., alsmede Medicago sativa:<br>
 a) dat rechtstreeks afkomstig is van basiszaad of, op verzoek van de kweker, van zaad van een aan het basiszaad voorafgaande generatie waarvan bij een officieel onderzoek is gebleken dat het voldoet aan de voorwaarden voor basiszaad opgesomd in bijlage I en II;<br>
 b) dat bestemd is voor andere doeleinden dan de productie van zaad;<br>
 c) dat, onder voorbehoud van artikel 4, § 2, voldoet aan de voorwaarden voor gecertificeerd zaad in bijlage I en II;<br>
 d) waarvan bij een officieel onderzoek of bij een onderzoek onder officieel toezicht is gebleken dat het aan de voorwaarden vastgesteld in a), b) en c) voldoet;<br>
+<br>
 5° gecertificeerd zaad, eerste generatie (Lupinus spp., Pisum sativum, Vicia spp., alsmede Medicago sativa): zaad:<br>
 a) dat rechtstreeks afkomstig is van basiszaad of, op verzoek van de kweker, van zaad van een aan het basiszaad<br>
 voorafgaande generatie dat kan voldoen aan de voorwaarden voor basiszaad vastgesteld in bijlage I en II en waarvoor bij een officieel onderzoek is gebleken dat dat het geval is;<br>
 b) dat bestemd is voor het voortbrengen van zaad van de categorie gecertificeerd zaad, tweede generatie dan wel voor andere doeleinden dan het voortbrengen van zaad van groenvoedergewassen;<br>
 c) dat, onder voorbehoud van de toepassing van artikel 4, § 2, voldoet aan de voorwaarden voor gecertificeerd zaad, vastgesteld in bijlage I en II;<br>
 d) waarvan bij een officieel onderzoek of bij een onderzoek onder officieel toezicht is gebleken dat het aan de voorwaarden vastgesteld in a), b) en c) voldoet;<br>
+<br>
 6° gecertificeerd zaad, tweede generatie (Lupinus spp., Pisum sativum, Vicia spp., Medicago sativa): zaad:<br>
 a) dat rechtstreeks afkomstig is van basiszaad, van gecertificeerd zaad van de eerste generatie of, op verzoek van de kweker, van zaad van een aan het basiszaad voorafgaande generatie dat kan voldoen aan de voorwaarden voor basiszaad vastgesteld in bijlage I en II en waarvoor bij een officieel onderzoek is gebleken dat zulks het geval is;<br>
 b) dat bestemd is voor andere doeleinden dan het voortbrengen van zaad van groenvoedergewassen;<br>
 c) dat, onder voorbehoud van de toepassing van artikel 4, § 2, voldoet aan de voorwaarden voor gecertificeerd zaad, vastgesteld in bijlagen I en II;<br>
 d) waarvan bij een officieel onderzoek of bij een onderzoek onder officieel toezicht is gebleken dat het aan de voorwaarden vastgesteld in a), b) en c) voldoet.<br>
+<br>
 7° handelszaad: zaad:<br>
 a) dat soortecht is;<br>
 b) dat, onder voorbehoud van de toepassing van artikel 4, § 2, voldoet aan de voorwaarden voor handelszaad opgesomd in bijlage II, onder III;<br>
 c) waarvan bij een officieel onderzoek is gebleken dat bovenbedoelde voorwaarden zijn vervuld;<br>
+<br>
 8° gemeenschappelijke rassenlijst voor landbouwgewassen: de lijst van alle rassen waarvan het zaaizaad of pootgoed, op grond van artikel 16, § 1, van het koninklijk besluit van 8 juli 2001 betreffende de nationale rassencatalogi voor landbouwgewassen en groentegewassen, niet aan handelsbeperkingen ten aanzien van het ras is onderworpen;<br>
+<br>
 9° kleine verpakking EG A: verpakking met een mengsel van zaden dat niet bestemd is voor de voortbrenging vangroenvoedergewassen, met een nettogewicht van ten hoogste 2 kg, korrelvormige bestrijdingsmiddelen, omhullingen of andere toevoegingsmiddelen in vaste staat, indien deze aanwezig zijn, daarin niet begrepen;<br>
+<br>
 10° kleine verpakking EG B: verpakking met basiszaad, gecertificeerd zaad, handelszaad of - voorzover het geen kleine verpakkingen EG A betreft - een mengsel van zaden, met een nettogewicht van ten hoogste 10 kg, korrelvormige bestrijdingsmiddelen, omhullingen of andere toevoegingsmiddelen in vaste staat, als ze aanwezig zijn, daarin niet begrepen;<br>
+<br>
 11° officiële maatregelen: maatregelen die uitgaan van of verricht worden:<br>
 a) door autoriteiten van een staat;<br>
 b) door publiekrechtelijke of privaatrechtelijke rechtspersonen die handelen onder de verantwoordelijkheid van een staat;<br>
 c) voor hulpwerkzaamheden, door beëdigde natuurlijke personen die handelen onder het toezicht van een staat;<br>
+<br>
 De personen, genoemd onder 11°, b) en c), mogen geen bijzonder voordeel ontlenen aan de resultaten van bovenvermelde maatregelen;<br>
+<br>
 12° de minister: de Vlaamse minister, bevoegd voor het landbouwbeleid;<br>
+<br>
 13° bevoegde entiteit : het Agentschap voor Landbouw en Visserij;<br>
+<br>
 14° in de handel brengen: de verkoop, het bezit met het oog op de verkoop, het aanbieden voor verkoop en iedere beschikbaarstelling, levering of overdracht van zaaizaad aan derden, tegen of zonder vergoeding, met het oog op commercieel gebruik. Onder in de handel brengen, wordt niet verstaan:<br>
 a) de handel in zaaizaad die niet is gericht op commercieel gebruik van het ras, zoals de volgende handelingen:<br>
 1) beschikbaarstellen van zaaizaad aan officiÙle onderzoeks- en controle-instanties;<br>
@@ -569,7 +771,7 @@ De bevoegde entiteit is belast met de uitvoering van de controle op de productie
 
 ### ART. 20bis.
 
-De veldkeuring onder officieel toezicht als vermeld in artikel 1, § 1, 3°, a), 4) en b), 4°, d), 5°, d), 6°, d), 7°, c), moet voldoen aan de volgende eisen :<br /><br />1° de keurmeesters nemen de volgende eisen in acht :<br /><br />a) ze moeten beschikken over de nodige technische vakbekwaamheid;<br /><br />b) ze halen geen persoonlijk voordeel uit de door hen uitgevoerde keuringen;<br /><br />c) ze zijn officieel erkend door de overheden die voor certificering bevoegd zijn. Dat houdt in dat ze beëdigd zijn, ofwel dat ze een verklaring hebben ondertekend waarin zij zichzelf ertoe verbinden de regels voor officiële onderzoeken in acht te nemen;<br /><br />d) zij voeren de keuringen onder officieel toezicht uit overeenkomstig de regels die voor officiële keuringen gelden;<br /><br />2° het te keuren zaadgewas wordt geproduceerd uit zaad waarop een officiële nacontrole is uitgevoerd waarvan de resultaten bevredigend waren;<br /><br />3° een gedeelte van de zaadgewassen wordt door officiële keurmeesters gecontroleerd. Dat gedeelte is ten minste 5 %;<br /><br />4° een gedeelte van de monsters van het van de zaadgewassen geoogste zaad wordt gebruikt voor officiële nacontrole en, zo nodig, voor officiële laboratoriumtesten om de rasechtheid en -zuiverheid van het zaad te controleren;<br /><br />5° de minister kan beslissen dat een officieel erkende keurmeester die bewust of door nalatigheid de regels voor de officiële veldkeuring overtreedt, zijn erkenning als vermeld in 1°, c, verliest. Als een dergelijke overtreding wordt vastgesteld, wordt de certificering van het onderzochte zaad nietig verklaard, tenzij kan worden aangetoond dat het zaad in kwestie nog steeds aan alle eisen voldoet.  <span class="reference">(ing. B.V.R. 16 december 2005, art. 9, I: 4 februari 2006)</span> ]
+De veldkeuring onder officieel toezicht als vermeld in artikel 1, § 1, 4°, d), 5°, d), 6°, d), 7°, c), moet voldoen aan de volgende eisen :<br />1° de keurmeesters nemen de volgende eisen in acht :<br />a) ze moeten beschikken over de nodige technische vakbekwaamheid;<br />b) ze halen geen persoonlijk voordeel uit de door hen uitgevoerde keuringen;<br />c) ze zijn officieel erkend door de overheden die voor certificering bevoegd zijn. Dat houdt in dat ze beëdigd zijn, ofwel dat ze een verklaring hebben ondertekend waarin zij zichzelf ertoe verbinden de regels voor officiële onderzoeken in acht te nemen;<br />d) zij voeren de keuringen onder officieel toezicht uit overeenkomstig de regels die voor officiële keuringen gelden;<br />2° het te keuren zaadgewas wordt geproduceerd uit zaad waarop een officiële nacontrole is uitgevoerd waarvan de resultaten bevredigend waren;<br />3° een gedeelte van de zaadgewassen wordt door officiële keurmeesters gecontroleerd. Dat gedeelte is ten minste 5 %;<br />4° een gedeelte van de monsters van het van de zaadgewassen geoogste zaad wordt gebruikt voor officiële nacontrole en, zo nodig, voor officiële laboratoriumtesten om de rasechtheid en -zuiverheid van het zaad te controleren;<br />5° de minister kan beslissen dat een officieel erkende keurmeester die bewust of door nalatigheid de regels voor de officiële veldkeuring overtreedt, zijn erkenning als vermeld in 1°, c, verliest. Als een dergelijke overtreding wordt vastgesteld, wordt de certificering van het onderzochte zaad nietig verklaard, tenzij kan worden aangetoond dat het zaad in kwestie nog steeds aan alle eisen voldoet.
 
 ### ART. 21.
 
@@ -766,14 +968,12 @@ c) de grootte, het aantal en de verdeling van de perceelstukken, waarvoor moet w
 <br>
 deze bijlage wordt voldaan, moeten volgens daarvoor passende methoden worden vastgesteld.</p>
 
-### Bijlage II
+### BIJLAGE II
 
 Soorten en categorieën
 <p>I. Gecertificeerd zaad.<br>
 <br>
-1. Het zaad moet voldoende rasecht en raszuiver zijn. Het zaaizaad van de onderstaande soorten moet met name aan de<br>
-<br>
-volgende normen of eisen voldoen:<br>
+1. Het zaad moet voldoende rasecht en raszuiver zijn. Het zaaizaad van de onderstaande soorten moet met name aan de volgende normen of eisen voldoen:<br>
 <br>
 <!--[if gte mso 9]><xml><br> <o:DocumentProperties><br>  <o:Author>Johan</o:Author><br>  <o:Template>Normal</o:Template><br>  <o:LastAuthor>Deschrma</o:LastAuthor><br>  <o:Revision>2</o:Revision><br>  <o:TotalTime>6</o:TotalTime><br>  <o:Created>2007-04-11T08:37:00Z</o:Created><br>  <o:LastSaved>2007-04-11T08:37:00Z</o:LastSaved><br>  <o:Pages>1</o:Pages><br>  <o:Words>53</o:Words><br>  <o:Characters>296</o:Characters><br>  <o:Company>JOHAN</o:Company><br>  <o:Lines>2</o:Lines><br>  <o:Paragraphs>1</o:Paragraphs><br>  <o:CharactersWithSpaces>348</o:CharactersWithSpaces><br>  <o:Version>11.6408</o:Version><br> </o:DocumentProperties><br></xml><![endif]--><!--[if gte mso 9]><xml><br> <w:WordDocument><br>  <w:HyphenationZone>21</w:HyphenationZone><br>  <w:ValidateAgainstSchemas></w:ValidateAgainstSchemas><br>  <w:SaveIfXMLInvalid>false</w:SaveIfXMLInvalid><br>  <w:IgnoreMixedContent>false</w:IgnoreMixedContent><br>  <w:AlwaysShowPlaceholderText>false</w:AlwaysShowPlaceholderText><br>  <w:Compatibility><br>   <w:SelectEntireFieldWithStartOrEnd></w:SelectEntireFieldWithStartOrEnd><br>   <w:UseWord2002TableStyleRules></w:UseWord2002TableStyleRules><br>  </w:Compatibility><br>  <w:BrowserLevel>MicrosoftInternetExplorer4</w:BrowserLevel><br> </w:WordDocument><br></xml><![endif]--><!--[if gte mso 9]><xml><br> <w:LatentStyles DefLockedState="e;false"e; LatentStyleCount="e;156"e;><br> </w:LatentStyles><br></xml><![endif]--><!--[if gte mso 10]><br><style><br> /* Style Definitions */<br> table.MsoNormalTable<br>	&lftaco;mso-style-name:Standaardtabel;<br>	mso-tstyle-rowband-size:0;<br>	mso-tstyle-colband-size:0;<br>	mso-style-noshow:yes;<br>	mso-style-parent:"e;"e;;<br>	mso-padding-alt:0cm 5.4pt 0cm 5.4pt;<br>	mso-para-margin:0cm;<br>	mso-para-margin-bottom:.0001pt;<br>	mso-pagination:widow-orphan;<br>	font-size:10.0pt;<br>	font-family:"e;Times New Roman"e;;<br>	mso-ansi-language:#0400;<br>	mso-fareast-language:#0400;<br>	mso-bidi-language:#0400;&rgtaco;<br></style><br><![endif]--></p>
 
@@ -822,1993 +1022,74 @@ volgende normen of eisen voldoen:<br>
 <br>
 2. Het zaaizaad moet ten aanzien van kiemkracht, mechanische zuiverheid en gehalte aan zaden van andere plantensoorten inclusief lupinezaden van een andere kleur en zaden van bitterstofhoudende lupinen aan de volgende normen of eisen voldoen:<br>
 <br>
-tabel.<br>
-<br>
-<!--[if gte mso 9]><xml><br> <o:DocumentProperties><br>  <o:Author>Johan</o:Author><br>  <o:Template>Normal</o:Template><br>  <o:LastAuthor>Deschrma</o:LastAuthor><br>  <o:Revision>5</o:Revision><br>  <o:TotalTime>102</o:TotalTime><br>  <o:Created>2007-04-11T08:47:00Z</o:Created><br>  <o:LastSaved>2007-04-11T11:45:00Z</o:LastSaved><br>  <o:Pages>1</o:Pages><br>  <o:Words>912</o:Words><br>  <o:Characters>5016</o:Characters><br>  <o:Company>JOHAN</o:Company><br>  <o:Lines>41</o:Lines><br>  <o:Paragraphs>11</o:Paragraphs><br>  <o:CharactersWithSpaces>5917</o:CharactersWithSpaces><br>  <o:Version>11.6408</o:Version><br> </o:DocumentProperties><br></xml><![endif]--><!--[if gte mso 9]><xml><br> <w:WordDocument><br>  <w:SpellingState>Clean</w:SpellingState><br>  <w:GrammarState>Clean</w:GrammarState><br>  <w:HyphenationZone>21</w:HyphenationZone><br>  <w:ValidateAgainstSchemas></w:ValidateAgainstSchemas><br>  <w:SaveIfXMLInvalid>false</w:SaveIfXMLInvalid><br>  <w:IgnoreMixedContent>false</w:IgnoreMixedContent><br>  <w:AlwaysShowPlaceholderText>false</w:AlwaysShowPlaceholderText><br>  <w:Compatibility><br>   <w:SelectEntireFieldWithStartOrEnd></w:SelectEntireFieldWithStartOrEnd><br>   <w:UseWord2002TableStyleRules></w:UseWord2002TableStyleRules><br>  </w:Compatibility><br>  <w:BrowserLevel>MicrosoftInternetExplorer4</w:BrowserLevel><br> </w:WordDocument><br></xml><![endif]--><!--[if gte mso 9]><xml><br> <w:LatentStyles DefLockedState="e;false"e; LatentStyleCount="e;156"e;><br> </w:LatentStyles><br></xml><![endif]--><!--[if gte mso 10]><br><style><br> /* Style Definitions */<br> table.MsoNormalTable<br>	&lftaco;mso-style-name:Standaardtabel;<br>	mso-tstyle-rowband-size:0;<br>	mso-tstyle-colband-size:0;<br>	mso-style-noshow:yes;<br>	mso-style-parent:"e;"e;;<br>	mso-padding-alt:0cm 5.4pt 0cm 5.4pt;<br>	mso-para-margin:0cm;<br>	mso-para-margin-bottom:.0001pt;<br>	mso-pagination:widow-orphan;<br>	font-size:10.0pt;<br>	font-family:"e;Times New Roman"e;;<br>	mso-ansi-language:#0400;<br>	mso-fareast-language:#0400;<br>	mso-bidi-language:#0400;&rgtaco;<br>table.MsoTableGrid<br>	&lftaco;mso-style-name:Tabelraster;<br>	mso-tstyle-rowband-size:0;<br>	mso-tstyle-colband-size:0;<br>	border:solid windowtext 1.0pt;<br>	mso-border-alt:solid windowtext .5pt;<br>	mso-padding-alt:0cm 5.4pt 0cm 5.4pt;<br>	mso-border-insideh:.5pt solid windowtext;<br>	mso-border-insidev:.5pt solid windowtext;<br>	mso-para-margin:0cm;<br>	mso-para-margin-bottom:.0001pt;<br>	mso-pagination:widow-orphan;<br>	font-size:10.0pt;<br>	font-family:"e;Times New Roman"e;;<br>	mso-ansi-language:#0400;<br>	mso-fareast-language:#0400;<br>	mso-bidi-language:#0400;&rgtaco;<br></style><br><![endif]--><!--[if gte mso 9]><xml><br> <o:shapedefaults v:ext="e;edit"e; spidmax="e;3074"e;></o:shapedefaults><br></xml><![endif]--><!--[if gte mso 9]><xml><br> <o:shapelayout v:ext="e;edit"e;><br>  <o:idmap v:ext="e;edit"e; data="e;1"e;></o:idmap><br> </o:shapelayout></xml><![endif]--></p>
+A. Tabel<br>
+<!--[if gte mso 9]><xml><br> <o:DocumentProperties><br>  <o:Author>Martine</o:Author><br>  <o:Template>Normal</o:Template><br>  <o:LastAuthor>decockge</o:LastAuthor><br>  <o:Revision>2</o:Revision><br>  <o:TotalTime>3</o:TotalTime><br>  <o:Created>2008-10-15T10:29:00Z</o:Created><br>  <o:LastSaved>2008-10-15T10:29:00Z</o:LastSaved><br>  <o:Pages>1</o:Pages><br>  <o:Words>868</o:Words><br>  <o:Characters>4779</o:Characters><br>  <o:Company>MVG</o:Company><br>  <o:Lines>39</o:Lines><br>  <o:Paragraphs>11</o:Paragraphs><br>  <o:CharactersWithSpaces>5636</o:CharactersWithSpaces><br>  <o:Version>11.8132</o:Version><br> </o:DocumentProperties><br></xml><![endif]--><!--[if gte mso 9]><xml><br> <w:WordDocument><br>  <w:SpellingState>Clean</w:SpellingState><br>  <w:GrammarState>Clean</w:GrammarState><br>  <w:HyphenationZone>21</w:HyphenationZone><br>  <w:PunctuationKerning></w:PunctuationKerning><br>  <w:ValidateAgainstSchemas></w:ValidateAgainstSchemas><br>  <w:SaveIfXMLInvalid>false</w:SaveIfXMLInvalid><br>  <w:IgnoreMixedContent>false</w:IgnoreMixedContent><br>  <w:AlwaysShowPlaceholderText>false</w:AlwaysShowPlaceholderText><br>  <w:Compatibility><br>   <w:BreakWrappedTables></w:BreakWrappedTables><br>   <w:SnapToGridInCell></w:SnapToGridInCell><br>   <w:WrapTextWithPunct></w:WrapTextWithPunct><br>   <w:UseAsianBreakRules></w:UseAsianBreakRules><br>   <w:DontGrowAutofit></w:DontGrowAutofit><br>  </w:Compatibility><br>  <w:BrowserLevel>MicrosoftInternetExplorer4</w:BrowserLevel><br> </w:WordDocument><br></xml><![endif]--><!--[if gte mso 9]><xml><br> <w:LatentStyles DefLockedState="e;false"e; LatentStyleCount="e;156"e;><br> </w:LatentStyles><br></xml><![endif]--><!--[if gte mso 10]><br><style><br> /* Style Definitions */<br> table.MsoNormalTable<br>	&lftaco;mso-style-name:Standaardtabel;<br>	mso-tstyle-rowband-size:0;<br>	mso-tstyle-colband-size:0;<br>	mso-style-noshow:yes;<br>	mso-style-parent:"e;"e;;<br>	mso-padding-alt:0cm 5.4pt 0cm 5.4pt;<br>	mso-para-margin:0cm;<br>	mso-para-margin-bottom:.0001pt;<br>	mso-pagination:widow-orphan;<br>	font-size:10.0pt;<br>	font-family:"e;Times New Roman"e;;<br>	mso-ansi-language:#0400;<br>	mso-fareast-language:#0400;<br>	mso-bidi-language:#0400;&rgtaco;<br>table.MsoTableGrid<br>	&lftaco;mso-style-name:Tabelraster;<br>	mso-tstyle-rowband-size:0;<br>	mso-tstyle-colband-size:0;<br>	border:solid windowtext 1.0pt;<br>	mso-border-alt:solid windowtext .5pt;<br>	mso-padding-alt:0cm 5.4pt 0cm 5.4pt;<br>	mso-border-insideh:.5pt solid windowtext;<br>	mso-border-insidev:.5pt solid windowtext;<br>	mso-para-margin:0cm;<br>	mso-para-margin-bottom:.0001pt;<br>	mso-pagination:widow-orphan;<br>	font-size:10.0pt;<br>	font-family:"e;Times New Roman"e;;<br>	mso-ansi-language:#0400;<br>	mso-fareast-language:#0400;<br>	mso-bidi-language:#0400;&rgtaco;<br></style><br><![endif]--><!--[if gte mso 9]><xml><br> <o:shapedefaults v:ext="e;edit"e; spidmax="e;2050"e;></o:shapedefaults><br></xml><![endif]--><!--[if gte mso 9]><xml><br> <o:shapelayout v:ext="e;edit"e;><br>  <o:idmap v:ext="e;edit"e; data="e;1"e;></o:idmap><br> </o:shapelayout></xml><![endif]--></p>
 
-<table class="MsoNormalTable" style="border: currentColor; border-image: none; width: 476.75pt; border-collapse: collapse; mso-yfti-tbllook: 1184; mso-padding-alt: 0cm 3.5pt 0cm 3.5pt; mso-border-alt: solid windowtext .5pt; mso-border-insideh: .5pt solid windowtext; mso-border-insidev: .5pt solid windowtext;" border="1" cellspacing="0" cellpadding="0">
+<table class="MsoTableGrid" style="border: currentColor; border-image: none; border-collapse: collapse; mso-yfti-tbllook: 480; mso-padding-alt: 0cm 5.4pt 0cm 5.4pt; mso-border-alt: solid windowtext .5pt;" border="1" cellspacing="0" cellpadding="0">
 	<tbody>
 		<tr>
-			<td style="width: 57.5pt; vertical-align: top; background-color: transparent;" rowspan="3">
+			<td style="width: 36.4pt; height: 11.35pt; background-color: transparent;" rowspan="3">
 			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">Soort</p>
 			</td>
-			<td style="border-color: windowtext windowtext windowtext rgb(240, 240, 240); width: 80.75pt; vertical-align: top; background-color: transparent;" colspan="2">
+			<td style="border-color: windowtext windowtext windowtext rgb(240, 240, 240); width: 198.15pt; height: 11.35pt; background-color: transparent;" colspan="2">
 			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">Kiemkracht</p>
 			</td>
-			<td style="border-color: windowtext windowtext windowtext rgb(240, 240, 240); width: 338.5pt; vertical-align: top; background-color: transparent;" colspan="7">
+			<td style="border-color: windowtext windowtext windowtext rgb(240, 240, 240); width: 229.85pt; height: 11.35pt; background-color: transparent;" colspan="4">
 			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">Mechanische zuiverheid</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 36pt; height: 2cm; vertical-align: top; background-color: transparent;" rowspan="2">
-			<p style="margin-right: 5.65pt; margin-left: 5.65pt;">Minimum kiemkracht (% zuiver zaad)</p>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 98.45pt; height: 11.35pt; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">Minimumkiemkracht (% zuiver zaad)</p>
 			</td>
-			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 44.75pt; height: 2cm; vertical-align: top; background-color: transparent;" rowspan="2">
-			<p style="margin-right: 5.65pt; margin-left: 5.65pt;">Maximum bestanddeel hardschalige zaden (% zuiver zaad)</p>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 99.7pt; height: 11.35pt; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">Maximumbestanddeel hardschalige zaden (% zuiver zaad)</p>
 			</td>
-			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 338.5pt; height: 2cm; vertical-align: top; background-color: transparent;" colspan="7">
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 62.45pt; height: 11.35pt; background-color: transparent;" rowspan="2">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">Minimum mechanische zuiverheid (% van het gewicht)</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 167.4pt; height: 11.35pt; background-color: transparent;" colspan="3">
 			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">Maximumgehalte aan zaden van andere plantensoorten (% van het gewicht)</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 58.65pt; height: 2cm; vertical-align: top; background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">Minimum&nbsp; mechanische zuiverheid (% van het gewicht)</p>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 98.45pt; height: 11.35pt; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
 			</td>
-			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 32.55pt; height: 2cm; vertical-align: top; background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">Totaal</p>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 99.7pt; height: 11.35pt; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
 			</td>
-			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 33.1pt; height: 2cm; vertical-align: top; background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">Van één enkele soort</p>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 55.3pt; height: 11.35pt; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">Totaal</p>
 			</td>
-			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 50.9pt; height: 2cm; vertical-align: top; background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">Agropyron repens</p>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 55.35pt; height: 11.35pt; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">Van één enkele soort</p>
 			</td>
-			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 58.15pt; height: 2cm; vertical-align: top; background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">Alopecurus&nbsp; myosuroides</p>
-			</td>
-			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 45.35pt; height: 2cm; vertical-align: top; background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">Melilotus spp</p>
-			</td>
-			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 59.8pt; height: 2cm; vertical-align: top; background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">Rpahanus raphanistrum</p>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 56.75pt; height: 11.35pt; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">Agropyron repens</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="border-color: rgb(240, 240, 240) windowtext windowtext; width: 57.5pt; vertical-align: top; background-color: transparent;">
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext; width: 36.4pt; height: 11.35pt; background-color: transparent;">
 			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">1</p>
 			</td>
-			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 36pt; vertical-align: top; background-color: transparent;">
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 98.45pt; height: 11.35pt; background-color: transparent;">
 			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">2</p>
 			</td>
-			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 44.75pt; vertical-align: top; background-color: transparent;">
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 99.7pt; height: 11.35pt; background-color: transparent;">
 			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">3</p>
 			</td>
-			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 58.65pt; vertical-align: top; background-color: transparent;">
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 62.45pt; height: 11.35pt; background-color: transparent;">
 			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">4</p>
 			</td>
-			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 32.55pt; vertical-align: top; background-color: transparent;">
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 55.3pt; height: 11.35pt; background-color: transparent;">
 			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">5</p>
 			</td>
-			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 33.1pt; vertical-align: top; background-color: transparent;">
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 55.35pt; height: 11.35pt; background-color: transparent;">
 			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">6</p>
 			</td>
-			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 50.9pt; vertical-align: top; background-color: transparent;">
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 56.75pt; height: 11.35pt; background-color: transparent;">
 			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">7</p>
-			</td>
-			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 58.15pt; vertical-align: top; background-color: transparent;">
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">8</p>
-			</td>
-			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 45.35pt; vertical-align: top; background-color: transparent;">
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">9</p>
-			</td>
-			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 59.8pt; vertical-align: top; background-color: transparent;">
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">10</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="border-color: rgb(240, 240, 240) windowtext windowtext; width: 57.5pt; vertical-align: top; background-color: transparent;">
-			<h1 style="margin-right: 0cm; margin-left: 0cm;">GRAMINEAE</h1>
-
-			<p style="margin-right: 0cm; margin-left: 0cm;">Agrostis canina</p>
-
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="margin-right: 0cm; margin-left: 0cm;">Agrostis gigantea</p>
-
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="margin-right: 0cm; margin-left: 0cm;">Agrostis stolonifera</p>
-
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="margin-right: 0cm; margin-left: 0cm;">Agrostis capillaris</p>
-
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="margin-right: 0cm; margin-left: 0cm;">Alopecurus pratensis</p>
-
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="margin-right: 0cm; margin-left: 0cm;">Arrhenatherum elatius</p>
-
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="margin-right: 0cm; margin-left: 0cm;">Bromus catharticus</p>
-
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="margin-right: 0cm; margin-left: 0cm;">Bromus sitchensis</p>
-
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="margin-right: 0cm; margin-left: 0cm;">Cynodon dactylon</p>
-
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="margin-right: 0cm; margin-left: 0cm;">Dactylis glomerata</p>
-
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="margin-right: 0cm; margin-left: 0cm;">Festuca arundinacea</p>
-
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="margin-right: 0cm; margin-left: 0cm;">Festuca ovina</p>
-
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="margin-right: 0cm; margin-left: 0cm;">Festuca pratensis</p>
-
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="margin-right: 0cm; margin-left: 0cm;">Festuca rubra</p>
-
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="margin-right: 0cm; margin-left: 0cm;">X Festulolium</p>
-
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="margin-right: 0cm; margin-left: 0cm;">Lolium multiflorum</p>
-
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="margin-right: 0cm; margin-left: 0cm;">Lolium perenne</p>
-
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="margin-right: 0cm; margin-left: 0cm;">Lolium x boucheanum</p>
-
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="margin-right: 0cm; margin-left: 0cm;">Phalaris aquatica L.</p>
-
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="margin-right: 0cm; margin-left: 0cm;">Phleum bertolinii</p>
-
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="margin-right: 0cm; margin-left: 0cm;">Phleum pratense</p>
-
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="margin-right: 0cm; margin-left: 0cm;">Poa annua</p>
-
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="margin-right: 0cm; margin-left: 0cm;">Poa nemoralis</p>
-
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="margin-right: 0cm; margin-left: 0cm;">Poa palustris</p>
-
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="margin-right: 0cm; margin-left: 0cm;">Poa pratensis</p>
-
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="margin-right: 0cm; margin-left: 0cm;">Poa trivialis</p>
-
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="margin-right: 0cm; margin-left: 0cm;">Trisetum flavescens</p>
-
-			<p style="margin-right: 0cm; margin-left: 0cm;"><strong>&nbsp;</strong></p>
-			</td>
-			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 36pt; vertical-align: top; background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="margin-right: 0cm; margin-left: 0cm;">75(a)</p>
-
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="margin-right: 0cm; margin-left: 0cm;">80(a)</p>
-
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="margin-right: 0cm; margin-left: 0cm;">75(a)</p>
-
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="margin-right: 0cm; margin-left: 0cm;">75(a)</p>
-
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="margin-right: 0cm; margin-left: 0cm;">70(a)</p>
-
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="margin-right: 0cm; margin-left: 0cm;">75(a)</p>
-
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="margin-right: 0cm; margin-left: 0cm;">75(a)</p>
-
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="margin-right: 0cm; margin-left: 0cm;">75(a)</p>
-
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="margin-right: 0cm; margin-left: 0cm;">70(a)</p>
-
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="margin-right: 0cm; margin-left: 0cm;">80(a)</p>
-
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="margin-right: 0cm; margin-left: 0cm;">80(a)</p>
-
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="margin-right: 0cm; margin-left: 0cm;">75(a)</p>
-
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="margin-right: 0cm; margin-left: 0cm;">80(a)</p>
-
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="margin-right: 0cm; margin-left: 0cm;">75(a)</p>
-
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="margin-right: 0cm; margin-left: 0cm;">75(a)</p>
-
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="margin-right: 0cm; margin-left: 0cm;">75(a)</p>
-
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="margin-right: 0cm; margin-left: 0cm;">80(a)</p>
-
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="margin-right: 0cm; margin-left: 0cm;">75(a)</p>
-
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="margin-right: 0cm; margin-left: 0cm;">75(a)</p>
-
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="margin-right: 0cm; margin-left: 0cm;">80(a)</p>
-
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="margin-right: 0cm; margin-left: 0cm;">80(a)</p>
-
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="margin-right: 0cm; margin-left: 0cm;">75(a)</p>
-
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="margin-right: 0cm; margin-left: 0cm;">75(a)</p>
-
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="margin-right: 0cm; margin-left: 0cm;">75(a)</p>
-
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="margin-right: 0cm; margin-left: 0cm;">75(a)</p>
-
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="margin-right: 0cm; margin-left: 0cm;">75(a)</p>
-
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="margin-right: 0cm; margin-left: 0cm;">70(a)</p>
-
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-			</td>
-			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 44.75pt; vertical-align: top; background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-			</td>
-			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 58.65pt; vertical-align: top; background-color: transparent;">
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">90</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">90</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">90</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">90</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">75</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">90</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">97</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">97</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">90</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">90</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">95</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">85</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">95</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">90</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">96</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">96</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">96</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">96</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">96</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">96</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">96</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">85</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">85</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">85</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">85</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">85</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">75</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-			</td>
-			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 32.55pt; vertical-align: top; background-color: transparent;">
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">2,0</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">2,0</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">2,0</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">2,0</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">2,5</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">3,0</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">1,5</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">1,5</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">2,0</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">1,5</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">1,5</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">2,0</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">1,5</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">1,5</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">1,5</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">1,5</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">1,5</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">1,5</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">1,5</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">1,5</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">1,5</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">2,0(c)</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">2,0(c)</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">2,0(c)</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">2,0(c)</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">2,0(c)</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">3,0</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-			</td>
-			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 33.1pt; vertical-align: top; background-color: transparent;">
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">1,0</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">1,0</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">1,0</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">1,0</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">1,0(f)</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">1,0(f)</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">1,0</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">1,0(f)</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">1,0</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">1,0</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">1,0</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">1,0</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">1,0</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">1,0</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">1,0</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">1,0</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">1,0</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">1,0</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">1,0</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">1,0</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">1,0</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">1,0(c)</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">1,0(c)</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">1,0(c)</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">1,0(c)</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">1,0(c)</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">1,0(f)</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-			</td>
-			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 50.9pt; vertical-align: top; background-color: transparent;">
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">0,3</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">0,3</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">0,3</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">0,3</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">0,3</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">0,5</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">0,5</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">0,5</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">0,3</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">0,3</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">0,5</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">0,5</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">0,5</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">0,5</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">0,5</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">0,5</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">0,5</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">0,5</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">0,3</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">0,3</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">0,3</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">0,3</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">0,3</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">0,3</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">0,3</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">0,3</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">0,3</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-			</td>
-			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 58.15pt; vertical-align: top; background-color: transparent;">
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">0,3</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">0,3</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">0,3</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">0,3</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">0,3</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">0,3</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">0,3</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">0,3</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">0,3</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">0,3</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">0,3</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">0,3</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">0,3</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">0,3</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">0,3</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">0,3</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">0,3</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">0,3</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">0,3</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">0,3</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">0,3</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">0,3</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">0,3</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">0,3</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">0,3</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">0,3</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">0,3</p>
-			</td>
-			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 45.35pt; vertical-align: top; background-color: transparent;">
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-			</td>
-			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 59.8pt; vertical-align: top; background-color: transparent;">
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="border-color: rgb(240, 240, 240) windowtext windowtext; width: 57.5pt; vertical-align: top; background-color: transparent;">
-			<h1 style="margin-right: 0cm; margin-left: 0cm;">LEGUMINOSAE</h1>
-
-			<p style="margin-right: 0cm; margin-left: 0cm;">Hedysarium</p>
-
-			<p style="margin-right: 0cm; margin-left: 0cm;">coronarium</p>
-
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="margin-right: 0cm; margin-left: 0cm;">Lotus corniculatus</p>
-
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="margin-right: 0cm; margin-left: 0cm;">Lupinus albus</p>
-
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="margin-right: 0cm; margin-left: 0cm;">Lupinus angustifolius</p>
-
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="margin-right: 0cm; margin-left: 0cm;">Lupinus luteus</p>
-
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="margin-right: 0cm; margin-left: 0cm;">Medicago lupulina</p>
-
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="margin-right: 0cm; margin-left: 0cm;">Madicago sativa</p>
-
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="margin-right: 0cm; margin-left: 0cm;">Medicago x varia</p>
-
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="margin-right: 0cm; margin-left: 0cm;">Onobrychis viciifolia</p>
-
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="margin-right: 0cm; margin-left: 0cm;">Pisum sativum</p>
-
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="margin-right: 0cm; margin-left: 0cm;">Trifolium alexandrinum</p>
-
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="margin-right: 0cm; margin-left: 0cm;">Trifolium hybridum</p>
-
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="margin-right: 0cm; margin-left: 0cm;">Trifolium incarnatum</p>
-
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="margin-right: 0cm; margin-left: 0cm;">Trifolium pratense</p>
-
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="margin-right: 0cm; margin-left: 0cm;">Trifolium repens</p>
-
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="margin-right: 0cm; margin-left: 0cm;">Trifolium resupinatum</p>
-
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="margin-right: 0cm; margin-left: 0cm;">Trigonella foenumgraecum</p>
-
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="margin-right: 0cm; margin-left: 0cm;">Vicia faba</p>
-
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="margin-right: 0cm; margin-left: 0cm;">Vicia pannonica</p>
-
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="margin-right: 0cm; margin-left: 0cm;">Vicia sativa</p>
-
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="margin-right: 0cm; margin-left: 0cm;">Vicia villosa</p>
-
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-			</td>
-			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 36pt; vertical-align: top; background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="margin-right: 0cm; margin-left: 0cm;">75(a)(b)</p>
-
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="margin-right: 0cm; margin-left: 0cm;">75(a)(b)</p>
-
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="margin-right: 0cm; margin-left: 0cm;">80(a)(b)</p>
-
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="margin-right: 0cm; margin-left: 0cm;">75(a)(b)</p>
-
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="margin-right: 0cm; margin-left: 0cm;">80(a)(b)</p>
-
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="margin-right: 0cm; margin-left: 0cm;">80(a)(b)</p>
-
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="margin-right: 0cm; margin-left: 0cm;">80(a)(b)</p>
-
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="margin-right: 0cm; margin-left: 0cm;">80(a)(b)</p>
-
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="margin-right: 0cm; margin-left: 0cm;">75(a)(b)</p>
-
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="margin-right: 0cm; margin-left: 0cm;">80(a)</p>
-
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="margin-right: 0cm; margin-left: 0cm;">80(a)(b)</p>
-
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="margin-right: 0cm; margin-left: 0cm;">80(a)(b)</p>
-
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="margin-right: 0cm; margin-left: 0cm;">75(a)(b)</p>
-
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="margin-right: 0cm; margin-left: 0cm;">80(a)(b)</p>
-
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="margin-right: 0cm; margin-left: 0cm;">80(a)(b)</p>
-
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="margin-right: 0cm; margin-left: 0cm;">80(a)(b)</p>
-
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="margin-right: 0cm; margin-left: 0cm;">80(a)</p>
-
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="margin-right: 0cm; margin-left: 0cm;">80(a)(b)</p>
-
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="margin-right: 0cm; margin-left: 0cm;">85(a)(b)</p>
-
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="margin-right: 0cm; margin-left: 0cm;">85(a)(b)</p>
-
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="margin-right: 0cm; margin-left: 0cm;">85(a)(b)</p>
-
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-			</td>
-			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 44.75pt; vertical-align: top; background-color: transparent;">
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">30</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">40</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">20</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">20</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">20</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">20</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">40</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">40</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">20</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">20</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">20</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">20</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">20</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">40</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">20</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">5</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">20</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">20</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">20</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-			</td>
-			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 58.65pt; vertical-align: top; background-color: transparent;">
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">95</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">95</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">98</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">98</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">98</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">97</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">97</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">97</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">95</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">98</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">97</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">97</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">97</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">97</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">97</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">97</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">95</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">98</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">98</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">98</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">98</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-			</td>
-			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 32.55pt; vertical-align: top; background-color: transparent;">
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">2,5</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">1,8(d)</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">0,5(e)</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">0,5(e)</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">0,5(e)</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">1,5</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">1,5</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">1,5</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">2,5</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">0,5</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">1,5</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">1,5</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">1,5</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">1,5</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">1,5</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">1,5</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">1,0</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">0,5</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">1,0(e)</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">1,0(e)</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">1,0(e)</p>
-			</td>
-			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 33.1pt; vertical-align: top; background-color: transparent;">
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">1,0</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">1,0(d)</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">0,3(e)</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">0,3(e)</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">0,3(e)</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">1,0</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">1,0</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">1,0</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">1,0</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">0,3</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">1,0</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">1,0</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">1,0</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">1,0</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">1,0</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">1,0</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">0,5</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">0,3</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">0,5(e)</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">0,5(e)</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">0,5(e)</p>
-			</td>
-			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 50.9pt; vertical-align: top; background-color: transparent;">
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-			</td>
-			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 58.15pt; vertical-align: top; background-color: transparent;">
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-			</td>
-			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 45.35pt; vertical-align: top; background-color: transparent;">
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">0,3</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">0,3</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">0,3</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">0,3</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">0,3</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">0,3</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">0,3</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">0,3</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">0,3</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">0,3</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">0,3</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">0,3</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">0,3</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">0,3</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">0,3</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">0,3</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">0,3</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">0,3</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">0,3</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">0,3</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">0,3</p>
-			</td>
-			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 59.8pt; vertical-align: top; background-color: transparent;">
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="border-color: rgb(240, 240, 240) windowtext windowtext; width: 57.5pt; vertical-align: top; background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;"><strong>ANDERE SOORTEN</strong></p>
-
-			<p style="margin-right: 0cm; margin-left: 0cm;">Brassica napus var. Napobrassica</p>
-
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="margin-right: 0cm; margin-left: 0cm;">Brassica oleracea convar. Acephala</p>
-
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="margin-right: 0cm; margin-left: 0cm;">Phacelia tanacetifolia</p>
-
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="margin-right: 0cm; margin-left: 0cm;">Raphanus sativus var. oleiformis</p>
-			</td>
-			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 36pt; vertical-align: top; background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="margin-right: 0cm; margin-left: 0cm;">80(a)</p>
-
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="margin-right: 0cm; margin-left: 0cm;">75(a)</p>
-
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="margin-right: 0cm; margin-left: 0cm;">80(a)</p>
-
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="margin-right: 0cm; margin-left: 0cm;">80(a)</p>
-			</td>
-			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 44.75pt; vertical-align: top; background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-			</td>
-			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 58.65pt; vertical-align: top; background-color: transparent;">
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">98</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">98</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">96</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">97</p>
-			</td>
-			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 32.55pt; vertical-align: top; background-color: transparent;">
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">1,0</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">1,0</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">1,0</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">1,0</p>
-			</td>
-			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 33.1pt; vertical-align: top; background-color: transparent;">
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">0,5</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">0,5</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">0,5</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">0,5</p>
-			</td>
-			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 50.9pt; vertical-align: top; background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-			</td>
-			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 58.15pt; vertical-align: top; background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-			</td>
-			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 45.35pt; vertical-align: top; background-color: transparent;">
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-			</td>
-			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 59.8pt; vertical-align: top; background-color: transparent;">
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">0,3</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">0,3</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">0,3</p>
 			</td>
 		</tr>
 	</tbody>
@@ -2823,1193 +1104,3128 @@ tabel.<br>
 <table class="MsoTableGrid" style="border: currentColor; border-image: none; border-collapse: collapse; mso-yfti-tbllook: 480; mso-padding-alt: 0cm 5.4pt 0cm 5.4pt; mso-border-alt: solid windowtext .5pt;" border="1" cellspacing="0" cellpadding="0">
 	<tbody>
 		<tr>
-			<td style="width: 76.75pt; vertical-align: top; background-color: transparent;">
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">Soort</p>
+			<td style="width: 175.35pt; height: 11.35pt; background-color: transparent;" colspan="3">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">Mechanische zuiverheid</p>
 			</td>
-			<td style="border-color: windowtext windowtext windowtext rgb(240, 240, 240); width: 307.05pt; vertical-align: top; background-color: transparent;" colspan="4">
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">Maximumgehalte, in aantal, aan zaden van andere plantensoorten in een monster, waarvan het gewicht is aangegeven in bijlage III, kolom4 (totaal per kolom)</p>
+			<td style="border-color: windowtext windowtext windowtext rgb(240, 240, 240); width: 203.25pt; height: 11.35pt; background-color: transparent;" rowspan="2" colspan="4">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">Maximumgehalte, in aantal, aan zaden van andere plantensoorten in een monster, waarvan het gewicht is aangegeven in bijlage III, kolom 4 (totaal per kolom)</p>
 			</td>
-			<td style="border-color: windowtext windowtext windowtext rgb(240, 240, 240); width: 76.8pt; vertical-align: top; background-color: transparent;" rowspan="2">
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">Eisen aangaande het gehalte aan lupinezaden met een andere kleur en van bitterstofhoudende lupinezaden</p>
+			<td style="border-color: windowtext windowtext windowtext rgb(240, 240, 240); width: 85.8pt; height: 11.35pt; background-color: transparent;" rowspan="3">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">Eisen voor het gehalte aan lupinezaden met een andere kleur en van bitterstofhoudende lupinezaden</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="border-color: rgb(240, 240, 240) windowtext windowtext; width: 76.75pt; vertical-align: top; background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext; width: 175.35pt; height: 11.35pt; background-color: transparent;" colspan="3">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">Maximumgehalte aan zaden van andere plantensoorten (% van het gewicht)</p>
 			</td>
-			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 76.75pt; vertical-align: top; background-color: transparent;">
+		</tr>
+		<tr>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext; width: 61.95pt; height: 11.35pt; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">Alopecurus myosuroides</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 49.8pt; height: 11.35pt; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">Melilotus spp</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 63.6pt; height: 11.35pt; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">Raphanus raphanistrum</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 47.25pt; height: 11.35pt; background-color: transparent;">
 			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">Sinapis Arvensis</p>
 			</td>
-			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 76.75pt; vertical-align: top; background-color: transparent;">
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 60pt; height: 11.35pt; background-color: transparent;">
 			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">Avena fatua, Avena ludoviciana, Avena sterilis</p>
 			</td>
-			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 76.75pt; vertical-align: top; background-color: transparent;">
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 44.15pt; height: 11.35pt; background-color: transparent;">
 			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">Cuscuta spp.</p>
 			</td>
-			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 76.8pt; vertical-align: top; background-color: transparent;">
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">Rumex spp. Andere dan rumex acetosella en rumex maritimus</p>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 51.85pt; height: 11.35pt; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">Rumex spp. andere dan Rumex acetosella en Rumex maritimus</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="border-color: rgb(240, 240, 240) windowtext windowtext; width: 76.75pt; vertical-align: top; background-color: transparent;">
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">1</p>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext; width: 61.95pt; height: 11.35pt; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">8</p>
 			</td>
-			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 76.75pt; vertical-align: top; background-color: transparent;">
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 49.8pt; height: 11.35pt; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">9</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 63.6pt; height: 11.35pt; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">10</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 47.25pt; height: 11.35pt; background-color: transparent;">
 			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">11</p>
 			</td>
-			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 76.75pt; vertical-align: top; background-color: transparent;">
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 60pt; height: 11.35pt; background-color: transparent;">
 			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">12</p>
 			</td>
-			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 76.75pt; vertical-align: top; background-color: transparent;">
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 44.15pt; height: 11.35pt; background-color: transparent;">
 			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">13</p>
 			</td>
-			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 76.8pt; vertical-align: top; background-color: transparent;">
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 51.85pt; height: 11.35pt; background-color: transparent;">
 			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">14</p>
 			</td>
-			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 76.8pt; vertical-align: top; background-color: transparent;">
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 85.8pt; height: 11.35pt; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">15</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+<p>&nbsp;</p>
+
+<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<table class="MsoTableGrid" style="border: currentColor; border-image: none; width: 461.3pt; border-collapse: collapse; mso-yfti-tbllook: 480; mso-padding-alt: 0cm 5.4pt 0cm 5.4pt; mso-border-alt: solid windowtext .5pt;" border="1" cellspacing="0" cellpadding="0">
+	<tbody>
+		<tr>
+			<td style="width: 86pt; vertical-align: top; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">1</p>
+			</td>
+			<td style="border-color: windowtext windowtext windowtext rgb(240, 240, 240); width: 45.4pt; vertical-align: top; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">2</p>
+			</td>
+			<td style="border-color: windowtext windowtext windowtext rgb(240, 240, 240); width: 66.1pt; vertical-align: top; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">3</p>
+			</td>
+			<td style="border-color: windowtext windowtext windowtext rgb(240, 240, 240); width: 41.9pt; vertical-align: top; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">4</p>
+			</td>
+			<td style="border-color: windowtext windowtext windowtext rgb(240, 240, 240); width: 54pt; vertical-align: top; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">5</p>
+			</td>
+			<td style="border-color: windowtext windowtext windowtext rgb(240, 240, 240); width: 59.9pt; vertical-align: top; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">6</p>
+			</td>
+			<td style="border-color: windowtext windowtext windowtext rgb(240, 240, 240); width: 48.1pt; vertical-align: top; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">7</p>
+			</td>
+			<td style="border-color: windowtext windowtext windowtext rgb(240, 240, 240); width: 59.9pt; vertical-align: top; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">8</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext; width: 86pt; vertical-align: top; background-color: transparent;">
+			<p style="margin-right: 0cm; margin-left: 0cm;"><strong>GRAMINEAE</strong></p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 45.4pt; vertical-align: top; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 66.1pt; vertical-align: top; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 41.9pt; vertical-align: top; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 54pt; vertical-align: top; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 59.9pt; vertical-align: top; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 48.1pt; vertical-align: top; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 59.9pt; vertical-align: top; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext; width: 86pt; vertical-align: top; background-color: transparent;">
+			<p style="margin-right: 0cm; margin-left: 0cm;">Agrostis canina</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 45.4pt; vertical-align: top; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">75(a)</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 66.1pt; vertical-align: top; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 41.9pt; vertical-align: top; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">90</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 54pt; vertical-align: top; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">2,0</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 59.9pt; vertical-align: top; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">1,0</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 48.1pt; vertical-align: top; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">0,3</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 59.9pt; vertical-align: top; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">0,3</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext; width: 86pt; vertical-align: top; background-color: transparent;">
+			<p style="margin-right: 0cm; margin-left: 0cm;">Agrostis gigantea</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 45.4pt; vertical-align: top; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">80(a)</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 66.1pt; vertical-align: top; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 41.9pt; vertical-align: top; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">90</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 54pt; vertical-align: top; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">2,0</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 59.9pt; vertical-align: top; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">1,0</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 48.1pt; vertical-align: top; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">0,3</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 59.9pt; vertical-align: top; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">0,3</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext; width: 86pt; vertical-align: top; background-color: transparent;">
+			<p style="margin-right: 0cm; margin-left: 0cm;">Agrostis stolonifera</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 45.4pt; vertical-align: top; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">75(a)</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 66.1pt; vertical-align: top; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 41.9pt; vertical-align: top; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">90</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 54pt; vertical-align: top; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">2,0</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 59.9pt; vertical-align: top; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">1,0</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 48.1pt; vertical-align: top; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">0,3</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 59.9pt; vertical-align: top; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">0,3</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext; width: 86pt; vertical-align: top; background-color: transparent;">
+			<p style="margin-right: 0cm; margin-left: 0cm;">Agrostis capillaris</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 45.4pt; vertical-align: top; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">75(a)</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 66.1pt; vertical-align: top; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 41.9pt; vertical-align: top; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">90</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 54pt; vertical-align: top; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">2,0</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 59.9pt; vertical-align: top; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">1,0</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 48.1pt; vertical-align: top; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">0,3</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 59.9pt; vertical-align: top; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">0,3</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext; width: 86pt; vertical-align: top; background-color: transparent;">
+			<p style="margin-right: 0cm; margin-left: 0cm;">Alopecurus pratensis</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 45.4pt; vertical-align: top; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">70(a)</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 66.1pt; vertical-align: top; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 41.9pt; vertical-align: top; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">75</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 54pt; vertical-align: top; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">2,5</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 59.9pt; vertical-align: top; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">1,0(f)</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 48.1pt; vertical-align: top; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">0,3</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 59.9pt; vertical-align: top; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">0,3</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext; width: 86pt; vertical-align: top; background-color: transparent;">
+			<p style="margin-right: 0cm; margin-left: 0cm;">Arrhenaltherum elatius</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 45.4pt; vertical-align: top; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">75(a)</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 66.1pt; vertical-align: top; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 41.9pt; vertical-align: top; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">90</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 54pt; vertical-align: top; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">3,0</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 59.9pt; vertical-align: top; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">1,0(f)</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 48.1pt; vertical-align: top; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">0,5</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 59.9pt; vertical-align: top; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">0,3</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext; width: 86pt; vertical-align: top; background-color: transparent;">
+			<p style="margin-right: 0cm; margin-left: 0cm;">Bromus catharticus</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 45.4pt; vertical-align: top; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">75(a)</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 66.1pt; vertical-align: top; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 41.9pt; vertical-align: top; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">97</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 54pt; vertical-align: top; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">1,5</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 59.9pt; vertical-align: top; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">1,0</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 48.1pt; vertical-align: top; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">0,5</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 59.9pt; vertical-align: top; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">0,3</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext; width: 86pt; vertical-align: top; background-color: transparent;">
+			<p style="margin-right: 0cm; margin-left: 0cm;">Bromus sitchensis</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 45.4pt; vertical-align: top; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">75(a)</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 66.1pt; vertical-align: top; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 41.9pt; vertical-align: top; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">97</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 54pt; vertical-align: top; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">1,5</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 59.9pt; vertical-align: top; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">1,0(f)</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 48.1pt; vertical-align: top; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">0,5</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 59.9pt; vertical-align: top; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">0,3</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext; width: 86pt; vertical-align: top; background-color: transparent;">
+			<p style="margin-right: 0cm; margin-left: 0cm;">Cynodon dactylon</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 45.4pt; vertical-align: top; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">70(a)</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 66.1pt; vertical-align: top; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 41.9pt; vertical-align: top; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">90</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 54pt; vertical-align: top; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">2,0</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 59.9pt; vertical-align: top; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">1,0</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 48.1pt; vertical-align: top; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">0,3</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 59.9pt; vertical-align: top; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">0,3</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext; width: 86pt; vertical-align: top; background-color: transparent;">
+			<p style="margin-right: 0cm; margin-left: 0cm;">Dactylis glomerata</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 45.4pt; vertical-align: top; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">80(a)</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 66.1pt; vertical-align: top; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 41.9pt; vertical-align: top; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">90</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 54pt; vertical-align: top; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">1,5</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 59.9pt; vertical-align: top; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">1,0</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 48.1pt; vertical-align: top; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">0,3</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 59.9pt; vertical-align: top; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">0,3</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext; width: 86pt; vertical-align: top; background-color: transparent;">
+			<p style="margin-right: 0cm; margin-left: 0cm;">Festuca arundinacea</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 45.4pt; vertical-align: top; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">80(a)</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 66.1pt; vertical-align: top; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 41.9pt; vertical-align: top; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">95</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 54pt; vertical-align: top; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">1,5</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 59.9pt; vertical-align: top; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">1,0</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 48.1pt; vertical-align: top; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">0,5</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 59.9pt; vertical-align: top; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">0,3</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext; width: 86pt; vertical-align: top; background-color: transparent;">
+			<p style="margin-right: 0cm; margin-left: 0cm;">Festuca ovina</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 45.4pt; vertical-align: top; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">75(a)</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 66.1pt; vertical-align: top; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 41.9pt; vertical-align: top; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">85</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 54pt; vertical-align: top; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">2,0</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 59.9pt; vertical-align: top; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">1,0</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 48.1pt; vertical-align: top; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">0,5</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 59.9pt; vertical-align: top; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">0,3</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext; width: 86pt; vertical-align: top; background-color: transparent;">
+			<p style="margin-right: 0cm; margin-left: 0cm;">Festuca pratensis</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 45.4pt; vertical-align: top; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">80(a)</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 66.1pt; vertical-align: top; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 41.9pt; vertical-align: top; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">95</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 54pt; vertical-align: top; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">1,5</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 59.9pt; vertical-align: top; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">1,0</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 48.1pt; vertical-align: top; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">0,5</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 59.9pt; vertical-align: top; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">0,3</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext; width: 86pt; vertical-align: top; background-color: transparent;">
+			<p style="margin-right: 0cm; margin-left: 0cm;">Festuca rubra</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 45.4pt; vertical-align: top; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">75(a)</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 66.1pt; vertical-align: top; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 41.9pt; vertical-align: top; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">90</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 54pt; vertical-align: top; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">1,5</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 59.9pt; vertical-align: top; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">1,0</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 48.1pt; vertical-align: top; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">0,5</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 59.9pt; vertical-align: top; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">0,3</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext; width: 86pt; vertical-align: top; background-color: transparent;">
+			<p style="margin-right: 0cm; margin-left: 0cm;">X Festulolium</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 45.4pt; vertical-align: top; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">75(a)</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 66.1pt; vertical-align: top; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 41.9pt; vertical-align: top; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">96</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 54pt; vertical-align: top; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">1,5</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 59.9pt; vertical-align: top; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">1,0</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 48.1pt; vertical-align: top; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">0,5</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 59.9pt; vertical-align: top; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">0,3</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext; width: 86pt; vertical-align: top; background-color: transparent;">
+			<p style="margin-right: 0cm; margin-left: 0cm;">Lolium multiflorum</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 45.4pt; vertical-align: top; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">75(a)</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 66.1pt; vertical-align: top; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 41.9pt; vertical-align: top; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">96</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 54pt; vertical-align: top; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">1,5</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 59.9pt; vertical-align: top; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">1,0</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 48.1pt; vertical-align: top; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">0,5</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 59.9pt; vertical-align: top; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">0,3</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext; width: 86pt; vertical-align: top; background-color: transparent;">
+			<p style="margin-right: 0cm; margin-left: 0cm;">Lolium perenne</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 45.4pt; vertical-align: top; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">80(a)</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 66.1pt; vertical-align: top; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 41.9pt; vertical-align: top; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">96</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 54pt; vertical-align: top; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">1,5</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 59.9pt; vertical-align: top; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">1,0</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 48.1pt; vertical-align: top; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">0,5</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 59.9pt; vertical-align: top; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">0,3</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext; width: 86pt; vertical-align: top; background-color: transparent;">
+			<p style="margin-right: 0cm; margin-left: 0cm;">Lolium x boucheanum</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 45.4pt; vertical-align: top; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">75(a)</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 66.1pt; vertical-align: top; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 41.9pt; vertical-align: top; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">96</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 54pt; vertical-align: top; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">1,5</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 59.9pt; vertical-align: top; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">1,0</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 48.1pt; vertical-align: top; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">0,5</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 59.9pt; vertical-align: top; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">0,3</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext; width: 86pt; vertical-align: top; background-color: transparent;">
+			<p style="margin-right: 0cm; margin-left: 0cm;">Phalaris aquatica L.</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 45.4pt; vertical-align: top; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">75(a)</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 66.1pt; vertical-align: top; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 41.9pt; vertical-align: top; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">96</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 54pt; vertical-align: top; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">1,5</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 59.9pt; vertical-align: top; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">1,0</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 48.1pt; vertical-align: top; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">0,3</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 59.9pt; vertical-align: top; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">0,3</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext; width: 86pt; vertical-align: top; background-color: transparent;">
+			<p style="margin-right: 0cm; margin-left: 0cm;">Phleum bertolonii</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 45.4pt; vertical-align: top; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">80(a)</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 66.1pt; vertical-align: top; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 41.9pt; vertical-align: top; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">96</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 54pt; vertical-align: top; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">1,5</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 59.9pt; vertical-align: top; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">1,0</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 48.1pt; vertical-align: top; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">0,3</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 59.9pt; vertical-align: top; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">0,3</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext; width: 86pt; vertical-align: top; background-color: transparent;">
+			<p style="margin-right: 0cm; margin-left: 0cm;">Phleum pratense</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 45.4pt; vertical-align: top; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">80(a)</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 66.1pt; vertical-align: top; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 41.9pt; vertical-align: top; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">96</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 54pt; vertical-align: top; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">1,5</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 59.9pt; vertical-align: top; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">1,0</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 48.1pt; vertical-align: top; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">0,3</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 59.9pt; vertical-align: top; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">0,3</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext; width: 86pt; vertical-align: top; background-color: transparent;">
+			<p style="margin-right: 0cm; margin-left: 0cm;">Poa annua</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 45.4pt; vertical-align: top; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">75(a)</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 66.1pt; vertical-align: top; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 41.9pt; vertical-align: top; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">85</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 54pt; vertical-align: top; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">2,0(c)</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 59.9pt; vertical-align: top; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">1,0(c)</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 48.1pt; vertical-align: top; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">0,3</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 59.9pt; vertical-align: top; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">0,3</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext; width: 86pt; vertical-align: top; background-color: transparent;">
+			<p style="margin-right: 0cm; margin-left: 0cm;">Poa nemoralis</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 45.4pt; vertical-align: top; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">75(a)</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 66.1pt; vertical-align: top; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 41.9pt; vertical-align: top; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">85</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 54pt; vertical-align: top; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">2,0(c)</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 59.9pt; vertical-align: top; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">1,0(c)</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 48.1pt; vertical-align: top; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">0,3</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 59.9pt; vertical-align: top; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">0,3</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext; width: 86pt; vertical-align: top; background-color: transparent;">
+			<p style="margin-right: 0cm; margin-left: 0cm;">Poa palustris</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 45.4pt; vertical-align: top; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">75(a)</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 66.1pt; vertical-align: top; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 41.9pt; vertical-align: top; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">85</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 54pt; vertical-align: top; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">2,0(c)</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 59.9pt; vertical-align: top; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">1,0(c)</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 48.1pt; vertical-align: top; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">0,3</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 59.9pt; vertical-align: top; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">0,3</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext; width: 86pt; vertical-align: top; background-color: transparent;">
+			<p style="margin-right: 0cm; margin-left: 0cm;">Poa pratensis</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 45.4pt; vertical-align: top; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">75(a)</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 66.1pt; vertical-align: top; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 41.9pt; vertical-align: top; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">85</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 54pt; vertical-align: top; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">2,0(c)</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 59.9pt; vertical-align: top; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">1,0(c)</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 48.1pt; vertical-align: top; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">0,3</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 59.9pt; vertical-align: top; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">0,3</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext; width: 86pt; vertical-align: top; background-color: transparent;">
+			<p style="margin-right: 0cm; margin-left: 0cm;">Poa trivialis</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 45.4pt; vertical-align: top; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">75(a)</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 66.1pt; vertical-align: top; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 41.9pt; vertical-align: top; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">85</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 54pt; vertical-align: top; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">2,0(c)</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 59.9pt; vertical-align: top; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">1,0(c)</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 48.1pt; vertical-align: top; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">0,3</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 59.9pt; vertical-align: top; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">0,3</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext; width: 86pt; vertical-align: top; background-color: transparent;">
+			<p style="margin-right: 0cm; margin-left: 0cm;">Trisetum flavescens</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 45.4pt; vertical-align: top; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">70(a)</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 66.1pt; vertical-align: top; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 41.9pt; vertical-align: top; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">75</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 54pt; vertical-align: top; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">3,0</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 59.9pt; vertical-align: top; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">1,0(f)</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 48.1pt; vertical-align: top; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">0,3</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 59.9pt; vertical-align: top; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">0,3</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+<p>&nbsp;</p>
+
+<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<table class="MsoTableGrid" style="border: currentColor; border-image: none; width: 461.3pt; border-collapse: collapse; mso-yfti-tbllook: 480; mso-padding-alt: 0cm 5.4pt 0cm 5.4pt; mso-border-alt: solid windowtext .5pt;" border="1" cellspacing="0" cellpadding="0">
+	<tbody>
+		<tr>
+			<td style="width: 86pt; vertical-align: top; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">1</p>
+			</td>
+			<td style="border-color: windowtext windowtext windowtext rgb(240, 240, 240); width: 45.4pt; vertical-align: top; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">9</p>
+			</td>
+			<td style="border-color: windowtext windowtext windowtext rgb(240, 240, 240); width: 66.1pt; vertical-align: top; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">10</p>
+			</td>
+			<td style="border-color: windowtext windowtext windowtext rgb(240, 240, 240); width: 41.9pt; vertical-align: top; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">11</p>
+			</td>
+			<td style="border-color: windowtext windowtext windowtext rgb(240, 240, 240); width: 54pt; vertical-align: top; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">12</p>
+			</td>
+			<td style="border-color: windowtext windowtext windowtext rgb(240, 240, 240); width: 59.9pt; vertical-align: top; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">13</p>
+			</td>
+			<td style="border-color: windowtext windowtext windowtext rgb(240, 240, 240); width: 48.1pt; vertical-align: top; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">14</p>
+			</td>
+			<td style="border-color: windowtext windowtext windowtext rgb(240, 240, 240); width: 59.9pt; vertical-align: top; background-color: transparent;">
 			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">15</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="border-color: rgb(240, 240, 240) windowtext windowtext; width: 76.75pt; vertical-align: top; background-color: transparent;">
-			<h1 style="margin-right: 0cm; margin-left: 0cm;">GRAMINEAE</h1>
-
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext; width: 86pt; vertical-align: top; background-color: transparent;">
+			<p style="margin-right: 0cm; margin-left: 0cm;"><strong>GRAMINEAE</strong></p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 45.4pt; vertical-align: top; background-color: transparent;">
+			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 66.1pt; vertical-align: top; background-color: transparent;">
+			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 41.9pt; vertical-align: top; background-color: transparent;">
+			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 54pt; vertical-align: top; background-color: transparent;">
+			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 59.9pt; vertical-align: top; background-color: transparent;">
+			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 48.1pt; vertical-align: top; background-color: transparent;">
+			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 59.9pt; vertical-align: top; background-color: transparent;">
+			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext; width: 86pt; vertical-align: top; background-color: transparent;">
 			<p style="margin-right: 0cm; margin-left: 0cm;">Agrostis canina</p>
-
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 45.4pt; vertical-align: top; background-color: transparent;">
 			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 66.1pt; vertical-align: top; background-color: transparent;">
+			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 41.9pt; vertical-align: top; background-color: transparent;">
+			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 54pt; vertical-align: top; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">0</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 59.9pt; vertical-align: top; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">0(j)(k)</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 48.1pt; vertical-align: top; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">2(n)</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 59.9pt; vertical-align: top; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext; width: 86pt; vertical-align: top; background-color: transparent;">
 			<p style="margin-right: 0cm; margin-left: 0cm;">Agrostis gigantea</p>
-
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 45.4pt; vertical-align: top; background-color: transparent;">
 			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 66.1pt; vertical-align: top; background-color: transparent;">
+			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 41.9pt; vertical-align: top; background-color: transparent;">
+			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 54pt; vertical-align: top; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">0</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 59.9pt; vertical-align: top; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">0(j)(k)</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 48.1pt; vertical-align: top; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">2(n)</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 59.9pt; vertical-align: top; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext; width: 86pt; vertical-align: top; background-color: transparent;">
 			<p style="margin-right: 0cm; margin-left: 0cm;">Agrostis stolonifera</p>
-
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 45.4pt; vertical-align: top; background-color: transparent;">
 			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 66.1pt; vertical-align: top; background-color: transparent;">
+			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 41.9pt; vertical-align: top; background-color: transparent;">
+			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 54pt; vertical-align: top; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">0</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 59.9pt; vertical-align: top; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">0(j)(k)</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 48.1pt; vertical-align: top; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">2(n)</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 59.9pt; vertical-align: top; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext; width: 86pt; vertical-align: top; background-color: transparent;">
 			<p style="margin-right: 0cm; margin-left: 0cm;">Agrostis capillaris</p>
-
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 45.4pt; vertical-align: top; background-color: transparent;">
 			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 66.1pt; vertical-align: top; background-color: transparent;">
+			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 41.9pt; vertical-align: top; background-color: transparent;">
+			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 54pt; vertical-align: top; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">0</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 59.9pt; vertical-align: top; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">0(j)(k)</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 48.1pt; vertical-align: top; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">2(n)</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 59.9pt; vertical-align: top; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext; width: 86pt; vertical-align: top; background-color: transparent;">
 			<p style="margin-right: 0cm; margin-left: 0cm;">Alopecurus pratensis</p>
-
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 45.4pt; vertical-align: top; background-color: transparent;">
 			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="margin-right: 0cm; margin-left: 0cm;">Arrhenatherum elatius</p>
-
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 66.1pt; vertical-align: top; background-color: transparent;">
 			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 41.9pt; vertical-align: top; background-color: transparent;">
+			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 54pt; vertical-align: top; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">0</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 59.9pt; vertical-align: top; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">0(j)(k)</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 48.1pt; vertical-align: top; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">5(n)</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 59.9pt; vertical-align: top; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext; width: 86pt; vertical-align: top; background-color: transparent;">
+			<p style="margin-right: 0cm; margin-left: 0cm;">Arrhenaltherum elatius</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 45.4pt; vertical-align: top; background-color: transparent;">
+			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 66.1pt; vertical-align: top; background-color: transparent;">
+			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 41.9pt; vertical-align: top; background-color: transparent;">
+			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 54pt; vertical-align: top; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">0(g)</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 59.9pt; vertical-align: top; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">0(j)(k)</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 48.1pt; vertical-align: top; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">5(n)</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 59.9pt; vertical-align: top; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext; width: 86pt; vertical-align: top; background-color: transparent;">
 			<p style="margin-right: 0cm; margin-left: 0cm;">Bromus catharticus</p>
-
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 45.4pt; vertical-align: top; background-color: transparent;">
 			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 66.1pt; vertical-align: top; background-color: transparent;">
+			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 41.9pt; vertical-align: top; background-color: transparent;">
+			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 54pt; vertical-align: top; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">0(g)</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 59.9pt; vertical-align: top; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">0(j)(k)</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 48.1pt; vertical-align: top; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">10(n)</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 59.9pt; vertical-align: top; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext; width: 86pt; vertical-align: top; background-color: transparent;">
 			<p style="margin-right: 0cm; margin-left: 0cm;">Bromus sitchensis</p>
-
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 45.4pt; vertical-align: top; background-color: transparent;">
 			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 66.1pt; vertical-align: top; background-color: transparent;">
+			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 41.9pt; vertical-align: top; background-color: transparent;">
+			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 54pt; vertical-align: top; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">0(g)</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 59.9pt; vertical-align: top; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">0(j)(k)</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 48.1pt; vertical-align: top; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">10(n)</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 59.9pt; vertical-align: top; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext; width: 86pt; vertical-align: top; background-color: transparent;">
 			<p style="margin-right: 0cm; margin-left: 0cm;">Cynodon dactylon</p>
-
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 45.4pt; vertical-align: top; background-color: transparent;">
 			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 66.1pt; vertical-align: top; background-color: transparent;">
+			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 41.9pt; vertical-align: top; background-color: transparent;">
+			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 54pt; vertical-align: top; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">0</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 59.9pt; vertical-align: top; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">0(j)(k)</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 48.1pt; vertical-align: top; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">2</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 59.9pt; vertical-align: top; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext; width: 86pt; vertical-align: top; background-color: transparent;">
 			<p style="margin-right: 0cm; margin-left: 0cm;">Dactylis glomerata</p>
-
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 45.4pt; vertical-align: top; background-color: transparent;">
 			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 66.1pt; vertical-align: top; background-color: transparent;">
+			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 41.9pt; vertical-align: top; background-color: transparent;">
+			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 54pt; vertical-align: top; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">0</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 59.9pt; vertical-align: top; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">0(j)(k)</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 48.1pt; vertical-align: top; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">5(n)</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 59.9pt; vertical-align: top; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext; width: 86pt; vertical-align: top; background-color: transparent;">
 			<p style="margin-right: 0cm; margin-left: 0cm;">Festuca arundinacea</p>
-
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 45.4pt; vertical-align: top; background-color: transparent;">
 			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 66.1pt; vertical-align: top; background-color: transparent;">
+			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 41.9pt; vertical-align: top; background-color: transparent;">
+			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 54pt; vertical-align: top; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">0</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 59.9pt; vertical-align: top; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">0(j)(k)</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 48.1pt; vertical-align: top; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">5(n)</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 59.9pt; vertical-align: top; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext; width: 86pt; vertical-align: top; background-color: transparent;">
 			<p style="margin-right: 0cm; margin-left: 0cm;">Festuca ovina</p>
-
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 45.4pt; vertical-align: top; background-color: transparent;">
 			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 66.1pt; vertical-align: top; background-color: transparent;">
+			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 41.9pt; vertical-align: top; background-color: transparent;">
+			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 54pt; vertical-align: top; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">0</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 59.9pt; vertical-align: top; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">0(j)(k)</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 48.1pt; vertical-align: top; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">5(n)</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 59.9pt; vertical-align: top; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext; width: 86pt; vertical-align: top; background-color: transparent;">
 			<p style="margin-right: 0cm; margin-left: 0cm;">Festuca pratensis</p>
-
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 45.4pt; vertical-align: top; background-color: transparent;">
 			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 66.1pt; vertical-align: top; background-color: transparent;">
+			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 41.9pt; vertical-align: top; background-color: transparent;">
+			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 54pt; vertical-align: top; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">0</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 59.9pt; vertical-align: top; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">0(j)(k)</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 48.1pt; vertical-align: top; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">5(n)</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 59.9pt; vertical-align: top; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext; width: 86pt; vertical-align: top; background-color: transparent;">
 			<p style="margin-right: 0cm; margin-left: 0cm;">Festuca rubra</p>
-
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 45.4pt; vertical-align: top; background-color: transparent;">
 			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 66.1pt; vertical-align: top; background-color: transparent;">
+			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 41.9pt; vertical-align: top; background-color: transparent;">
+			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 54pt; vertical-align: top; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">0</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 59.9pt; vertical-align: top; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">0(j)(k)</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 48.1pt; vertical-align: top; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">5(n)</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 59.9pt; vertical-align: top; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext; width: 86pt; vertical-align: top; background-color: transparent;">
 			<p style="margin-right: 0cm; margin-left: 0cm;">X Festulolium</p>
-
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 45.4pt; vertical-align: top; background-color: transparent;">
 			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 66.1pt; vertical-align: top; background-color: transparent;">
+			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 41.9pt; vertical-align: top; background-color: transparent;">
+			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 54pt; vertical-align: top; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">0</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 59.9pt; vertical-align: top; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">0(j)(k)</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 48.1pt; vertical-align: top; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">5(n)</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 59.9pt; vertical-align: top; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext; width: 86pt; vertical-align: top; background-color: transparent;">
 			<p style="margin-right: 0cm; margin-left: 0cm;">Lolium multiflorum</p>
-
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 45.4pt; vertical-align: top; background-color: transparent;">
 			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 66.1pt; vertical-align: top; background-color: transparent;">
+			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 41.9pt; vertical-align: top; background-color: transparent;">
+			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 54pt; vertical-align: top; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">0</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 59.9pt; vertical-align: top; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">0(j)(k)</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 48.1pt; vertical-align: top; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">5(n)</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 59.9pt; vertical-align: top; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext; width: 86pt; vertical-align: top; background-color: transparent;">
 			<p style="margin-right: 0cm; margin-left: 0cm;">Lolium perenne</p>
-
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 45.4pt; vertical-align: top; background-color: transparent;">
 			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 66.1pt; vertical-align: top; background-color: transparent;">
+			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 41.9pt; vertical-align: top; background-color: transparent;">
+			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 54pt; vertical-align: top; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">0</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 59.9pt; vertical-align: top; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">0(j)(k)</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 48.1pt; vertical-align: top; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">5(n)</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 59.9pt; vertical-align: top; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext; width: 86pt; vertical-align: top; background-color: transparent;">
 			<p style="margin-right: 0cm; margin-left: 0cm;">Lolium x boucheanum</p>
-
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 45.4pt; vertical-align: top; background-color: transparent;">
 			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 66.1pt; vertical-align: top; background-color: transparent;">
+			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 41.9pt; vertical-align: top; background-color: transparent;">
+			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 54pt; vertical-align: top; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">0</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 59.9pt; vertical-align: top; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">0(j)(k)</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 48.1pt; vertical-align: top; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">5(n)</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 59.9pt; vertical-align: top; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext; width: 86pt; vertical-align: top; background-color: transparent;">
 			<p style="margin-right: 0cm; margin-left: 0cm;">Phalaris aquatica L.</p>
-
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 45.4pt; vertical-align: top; background-color: transparent;">
 			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="margin-right: 0cm; margin-left: 0cm;">Phleum bertolinii</p>
-
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 66.1pt; vertical-align: top; background-color: transparent;">
 			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 41.9pt; vertical-align: top; background-color: transparent;">
+			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 54pt; vertical-align: top; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">0</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 59.9pt; vertical-align: top; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">0(j)(k)</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 48.1pt; vertical-align: top; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">5</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 59.9pt; vertical-align: top; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext; width: 86pt; vertical-align: top; background-color: transparent;">
+			<p style="margin-right: 0cm; margin-left: 0cm;">Phleum bertolonii</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 45.4pt; vertical-align: top; background-color: transparent;">
+			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 66.1pt; vertical-align: top; background-color: transparent;">
+			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 41.9pt; vertical-align: top; background-color: transparent;">
+			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 54pt; vertical-align: top; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">0</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 59.9pt; vertical-align: top; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">0 (k)</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 48.1pt; vertical-align: top; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">5</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 59.9pt; vertical-align: top; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext; width: 86pt; vertical-align: top; background-color: transparent;">
 			<p style="margin-right: 0cm; margin-left: 0cm;">Phleum pratense</p>
-
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 45.4pt; vertical-align: top; background-color: transparent;">
 			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 66.1pt; vertical-align: top; background-color: transparent;">
+			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 41.9pt; vertical-align: top; background-color: transparent;">
+			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 54pt; vertical-align: top; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">0</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 59.9pt; vertical-align: top; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">0 (k)</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 48.1pt; vertical-align: top; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">5</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 59.9pt; vertical-align: top; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext; width: 86pt; vertical-align: top; background-color: transparent;">
 			<p style="margin-right: 0cm; margin-left: 0cm;">Poa annua</p>
-
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 45.4pt; vertical-align: top; background-color: transparent;">
 			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 66.1pt; vertical-align: top; background-color: transparent;">
+			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 41.9pt; vertical-align: top; background-color: transparent;">
+			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 54pt; vertical-align: top; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">0</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 59.9pt; vertical-align: top; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">0(j)(k)</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 48.1pt; vertical-align: top; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">5(n)</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 59.9pt; vertical-align: top; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext; width: 86pt; vertical-align: top; background-color: transparent;">
 			<p style="margin-right: 0cm; margin-left: 0cm;">Poa nemoralis</p>
-
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 45.4pt; vertical-align: top; background-color: transparent;">
 			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 66.1pt; vertical-align: top; background-color: transparent;">
+			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 41.9pt; vertical-align: top; background-color: transparent;">
+			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 54pt; vertical-align: top; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">0</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 59.9pt; vertical-align: top; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">0(j)(k)</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 48.1pt; vertical-align: top; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">2(n)</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 59.9pt; vertical-align: top; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext; width: 86pt; vertical-align: top; background-color: transparent;">
 			<p style="margin-right: 0cm; margin-left: 0cm;">Poa palustris</p>
-
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 45.4pt; vertical-align: top; background-color: transparent;">
 			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 66.1pt; vertical-align: top; background-color: transparent;">
+			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 41.9pt; vertical-align: top; background-color: transparent;">
+			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 54pt; vertical-align: top; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">0</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 59.9pt; vertical-align: top; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">0(j)(k)</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 48.1pt; vertical-align: top; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">2(n)</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 59.9pt; vertical-align: top; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext; width: 86pt; vertical-align: top; background-color: transparent;">
 			<p style="margin-right: 0cm; margin-left: 0cm;">Poa pratensis</p>
-
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 45.4pt; vertical-align: top; background-color: transparent;">
 			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 66.1pt; vertical-align: top; background-color: transparent;">
+			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 41.9pt; vertical-align: top; background-color: transparent;">
+			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 54pt; vertical-align: top; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">0</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 59.9pt; vertical-align: top; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">0(j)(k)</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 48.1pt; vertical-align: top; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">2(n)</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 59.9pt; vertical-align: top; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext; width: 86pt; vertical-align: top; background-color: transparent;">
 			<p style="margin-right: 0cm; margin-left: 0cm;">Poa trivialis</p>
-
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 45.4pt; vertical-align: top; background-color: transparent;">
 			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 66.1pt; vertical-align: top; background-color: transparent;">
+			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 41.9pt; vertical-align: top; background-color: transparent;">
+			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 54pt; vertical-align: top; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">0</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 59.9pt; vertical-align: top; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">0(j)(k)</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 48.1pt; vertical-align: top; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">2(n)</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 59.9pt; vertical-align: top; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext; width: 86pt; vertical-align: top; background-color: transparent;">
 			<p style="margin-right: 0cm; margin-left: 0cm;">Trisetum flavescens</p>
-
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 45.4pt; vertical-align: top; background-color: transparent;">
 			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
 			</td>
-			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 76.75pt; vertical-align: top; background-color: transparent;">
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 66.1pt; vertical-align: top; background-color: transparent;">
+			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
 			</td>
-			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 76.75pt; vertical-align: top; background-color: transparent;">
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">0</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">0</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">0</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">0</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">0</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">0(g)</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">0(g)</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">0(g)</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">0</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">0</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">0</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">0</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">0</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">0</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">0</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">0</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">0</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">0</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">0</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">0</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">0</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">0</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">0</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">0</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">0</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">0</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 41.9pt; vertical-align: top; background-color: transparent;">
+			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 54pt; vertical-align: top; background-color: transparent;">
 			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">0(h)</p>
 			</td>
-			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 76.75pt; vertical-align: top; background-color: transparent;">
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">0(j)(k)</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">0(j)(k)</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">0(j)(k)</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">0(j)(k)</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">0(j)(k)</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">0(j)(k)</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">0(j)(k)</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">0(j)(k)</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">0(j)(k)</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">0(j)(k)</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">0(j)(k)</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">0(j)(k)</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">0(j)(k)</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">0(j)(k)</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">0(j)(k)</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">0(j)(k)</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">0(j)(k)</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">0(j)(k)</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">0(j)(k)</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">0(k)</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">0(k)</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">0(j)(k)</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">0(j)(k)</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">0(j)(k)</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">0(j)(k)</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">0(j)(k)</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 59.9pt; vertical-align: top; background-color: transparent;">
 			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">0(j)(k)</p>
 			</td>
-			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 76.8pt; vertical-align: top; background-color: transparent;">
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">(n)</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 48.1pt; vertical-align: top; background-color: transparent;">
 			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">2(n)</p>
-
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 59.9pt; vertical-align: top; background-color: transparent;">
 			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
 
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
+<p>&nbsp;</p>
 
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">2(n)</p>
+<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
 
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
+<p>&nbsp;</p>
 
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">2(n)</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">5(n)</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">5(n)</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">10(n)</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">10(n)</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
+<table class="MsoTableGrid" style="border: currentColor; border-image: none; border-collapse: collapse; mso-yfti-tbllook: 480; mso-padding-alt: 0cm 5.4pt 0cm 5.4pt; mso-border-alt: solid windowtext .5pt;" border="1" cellspacing="0" cellpadding="0">
+	<tbody>
+		<tr>
+			<td style="width: 57.55pt; vertical-align: top; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">1</p>
+			</td>
+			<td style="border-color: windowtext windowtext windowtext rgb(240, 240, 240); width: 57.55pt; vertical-align: top; background-color: transparent;">
 			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">2</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">5(n)</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">5(n)</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">5(n)</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">5(n)</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">5(n)</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">5(n)</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">5(n)</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">5(n)</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">5(n)</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">5</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">5</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">5</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">5(n)</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">2(n)</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">2(n)</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">2(n)</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">2(n)</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">2(n)</p>
 			</td>
-			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 76.8pt; vertical-align: top; background-color: transparent;">
+			<td style="border-color: windowtext windowtext windowtext rgb(240, 240, 240); width: 57.55pt; vertical-align: top; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">3</p>
+			</td>
+			<td style="border-color: windowtext windowtext windowtext rgb(240, 240, 240); width: 57.55pt; vertical-align: top; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">4</p>
+			</td>
+			<td style="border-color: windowtext windowtext windowtext rgb(240, 240, 240); width: 57.6pt; vertical-align: top; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">5</p>
+			</td>
+			<td style="border-color: windowtext windowtext windowtext rgb(240, 240, 240); width: 57.6pt; vertical-align: top; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">6</p>
+			</td>
+			<td style="border-color: windowtext windowtext windowtext rgb(240, 240, 240); width: 57.6pt; vertical-align: top; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">7</p>
+			</td>
+			<td style="border-color: windowtext windowtext windowtext rgb(240, 240, 240); width: 57.6pt; vertical-align: top; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">8</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext; width: 57.55pt; vertical-align: top; background-color: transparent;">
+			<p style="margin-right: 0cm; margin-left: 0cm;"><strong>LEGUMINOSAE</strong></p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 57.55pt; vertical-align: top; background-color: transparent;">
+			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 57.55pt; vertical-align: top; background-color: transparent;">
+			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 57.55pt; vertical-align: top; background-color: transparent;">
+			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 57.6pt; vertical-align: top; background-color: transparent;">
+			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 57.6pt; vertical-align: top; background-color: transparent;">
+			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 57.6pt; vertical-align: top; background-color: transparent;">
+			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 57.6pt; vertical-align: top; background-color: transparent;">
+			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext; width: 57.55pt; vertical-align: top; background-color: transparent;">
+			<p style="margin-right: 0cm; margin-left: 0cm;">Galega orientalis Lam.</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 57.55pt; vertical-align: top; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">60</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 57.55pt; vertical-align: top; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">40</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 57.55pt; vertical-align: top; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">97</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 57.6pt; vertical-align: top; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">2,0</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 57.6pt; vertical-align: top; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">1,5</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 57.6pt; vertical-align: top; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 57.6pt; vertical-align: top; background-color: transparent;">
 			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="border-color: rgb(240, 240, 240) windowtext windowtext; width: 76.75pt; vertical-align: top; background-color: transparent;">
-			<h1 style="margin-right: 0cm; margin-left: 0cm;">LEGUMINOSAE</h1>
-
-			<p style="margin-right: 0cm; margin-left: 0cm;">Hedysarium</p>
-
-			<p style="margin-right: 0cm; margin-left: 0cm;">coronarium</p>
-
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="margin-right: 0cm; margin-left: 0cm;">Lotus corniculatus</p>
-
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext; width: 57.55pt; vertical-align: top; background-color: transparent;">
+			<p style="margin-right: 0cm; margin-left: 0cm;">Hedysarum oronarium</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 57.55pt; vertical-align: top; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">75(a)(b)</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 57.55pt; vertical-align: top; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">30</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 57.55pt; vertical-align: top; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">95</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 57.6pt; vertical-align: top; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">2,5</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 57.6pt; vertical-align: top; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">1,0</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 57.6pt; vertical-align: top; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 57.6pt; vertical-align: top; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext; width: 57.55pt; vertical-align: top; background-color: transparent;">
+			<p style="margin-right: 0cm; margin-left: 0cm;">Lotus corniculatis</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 57.55pt; vertical-align: top; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">75(a)(b)</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 57.55pt; vertical-align: top; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">40</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 57.55pt; vertical-align: top; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">95</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 57.6pt; vertical-align: top; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">1,8(d)</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 57.6pt; vertical-align: top; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">1,0(d)</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 57.6pt; vertical-align: top; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 57.6pt; vertical-align: top; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext; width: 57.55pt; vertical-align: top; background-color: transparent;">
 			<p style="margin-right: 0cm; margin-left: 0cm;">Lupinus albus</p>
-
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="margin-right: 0cm; margin-left: 0cm;">Lupinus angustifolius</p>
-
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="margin-right: 0cm; margin-left: 0cm;">Lupinus luteus</p>
-
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="margin-right: 0cm; margin-left: 0cm;">Medicago lupulina</p>
-
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="margin-right: 0cm; margin-left: 0cm;">Madicago sativa</p>
-
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="margin-right: 0cm; margin-left: 0cm;">Medicago x varia</p>
-
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="margin-right: 0cm; margin-left: 0cm;">Onobrychis viciifolia</p>
-
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="margin-right: 0cm; margin-left: 0cm;">Pisum sativum</p>
-
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="margin-right: 0cm; margin-left: 0cm;">Trifolium alexandrinum</p>
-
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="margin-right: 0cm; margin-left: 0cm;">Trifolium hybridum</p>
-
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="margin-right: 0cm; margin-left: 0cm;">Trifolium incarnatum</p>
-
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="margin-right: 0cm; margin-left: 0cm;">Trifolium pratense</p>
-
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="margin-right: 0cm; margin-left: 0cm;">Trifolium repens</p>
-
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="margin-right: 0cm; margin-left: 0cm;">Trifolium resupinatum</p>
-
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="margin-right: 0cm; margin-left: 0cm;">Trigonella foenumgraecum</p>
-
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="margin-right: 0cm; margin-left: 0cm;">Vicia faba</p>
-
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="margin-right: 0cm; margin-left: 0cm;">Vicia pannonica</p>
-
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="margin-right: 0cm; margin-left: 0cm;">Vicia sativa</p>
-
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="margin-right: 0cm; margin-left: 0cm;">Vicia villosa</p>
-
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
 			</td>
-			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 76.75pt; vertical-align: top; background-color: transparent;">
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 57.55pt; vertical-align: top; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">80(a)(b)</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 57.55pt; vertical-align: top; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">20</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 57.55pt; vertical-align: top; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">98</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 57.6pt; vertical-align: top; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">0,5(e)</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 57.6pt; vertical-align: top; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">0,3(e)</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 57.6pt; vertical-align: top; background-color: transparent;">
 			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
 			</td>
-			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 76.75pt; vertical-align: top; background-color: transparent;">
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 57.6pt; vertical-align: top; background-color: transparent;">
 			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">0</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">0</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">0(i)</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">0(i)</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">0(i)</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">0</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">0</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">0</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">0</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">0</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">0</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">0</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">0</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">0</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">0</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">0</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">0</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">0</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">0(i)</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">0(i)</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">0(i)</p>
-			</td>
-			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 76.75pt; vertical-align: top; background-color: transparent;">
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">0(k)</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">0(l)(m)</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">0(j)</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">0(j)</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">0(j)</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">0(l)(m)</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">0(l)(m)</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">0(l)(m)</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">0(j)</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">0(j)</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">0(l)(m)</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">0(l)(m)</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">0(l)(m)</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">0(l)(m)</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">0(l)(m)</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">0(l)(m)</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">0(j)</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">0(j)</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">0(j)</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">0(j)</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">0(j)</p>
-			</td>
-			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 76.8pt; vertical-align: top; background-color: transparent;">
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">2(n)</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">2(n)</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">2(n)</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">2(n)</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">5(n)</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">5(n)</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">10(n)</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">10(n)</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">2</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">5(n)</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">5(n)</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">5(n)</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">5(n)</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">5(n)</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">5(n)</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">5(n)</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">5(n)</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">5(n)</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">5</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">5</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">5</p>
-			</td>
-			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 76.8pt; vertical-align: top; background-color: transparent;">
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">(o)(p)</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">(o)(p)</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">(o)(p)</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="border-color: rgb(240, 240, 240) windowtext windowtext; width: 76.75pt; vertical-align: top; background-color: transparent;">
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext; width: 57.55pt; vertical-align: top; background-color: transparent;">
+			<p style="margin-right: 0cm; margin-left: 0cm;">Lupinus angustifolius</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 57.55pt; vertical-align: top; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">75(a)(b)</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 57.55pt; vertical-align: top; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">20</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 57.55pt; vertical-align: top; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">98</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 57.6pt; vertical-align: top; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">0,5(e)</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 57.6pt; vertical-align: top; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">0,3(e)</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 57.6pt; vertical-align: top; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 57.6pt; vertical-align: top; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext; width: 57.55pt; vertical-align: top; background-color: transparent;">
+			<p style="margin-right: 0cm; margin-left: 0cm;">Lupinus luteus</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 57.55pt; vertical-align: top; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">80(a)(b)</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 57.55pt; vertical-align: top; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">20</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 57.55pt; vertical-align: top; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">98</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 57.6pt; vertical-align: top; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">0,5(e)</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 57.6pt; vertical-align: top; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">0,3(e)</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 57.6pt; vertical-align: top; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 57.6pt; vertical-align: top; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext; width: 57.55pt; vertical-align: top; background-color: transparent;">
+			<p style="margin-right: 0cm; margin-left: 0cm;">Medicago lupulina</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 57.55pt; vertical-align: top; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">80(a)(b)</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 57.55pt; vertical-align: top; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">20</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 57.55pt; vertical-align: top; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">97</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 57.6pt; vertical-align: top; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">1,5</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 57.6pt; vertical-align: top; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">1,0</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 57.6pt; vertical-align: top; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 57.6pt; vertical-align: top; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext; width: 57.55pt; vertical-align: top; background-color: transparent;">
+			<p style="margin-right: 0cm; margin-left: 0cm;">Madicago sativa</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 57.55pt; vertical-align: top; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">80(a)(b)</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 57.55pt; vertical-align: top; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">40</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 57.55pt; vertical-align: top; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">97</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 57.6pt; vertical-align: top; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">1,5</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 57.6pt; vertical-align: top; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">1,0</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 57.6pt; vertical-align: top; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 57.6pt; vertical-align: top; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext; width: 57.55pt; vertical-align: top; background-color: transparent;">
+			<p style="margin-right: 0cm; margin-left: 0cm;">Medicago x varia</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 57.55pt; vertical-align: top; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">80(a)(b)</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 57.55pt; vertical-align: top; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">40</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 57.55pt; vertical-align: top; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">97</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 57.6pt; vertical-align: top; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">1,5</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 57.6pt; vertical-align: top; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">1,0</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 57.6pt; vertical-align: top; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 57.6pt; vertical-align: top; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext; width: 57.55pt; vertical-align: top; background-color: transparent;">
+			<p style="margin-right: 0cm; margin-left: 0cm;">Onobrychis viciifolia</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 57.55pt; vertical-align: top; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">75(a)(b)</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 57.55pt; vertical-align: top; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">20</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 57.55pt; vertical-align: top; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">95</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 57.6pt; vertical-align: top; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">2,5</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 57.6pt; vertical-align: top; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">1,0</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 57.6pt; vertical-align: top; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 57.6pt; vertical-align: top; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext; width: 57.55pt; vertical-align: top; background-color: transparent;">
+			<p style="margin-right: 0cm; margin-left: 0cm;">Pisum sativum</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 57.55pt; vertical-align: top; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">80(a)</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 57.55pt; vertical-align: top; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 57.55pt; vertical-align: top; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">98</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 57.6pt; vertical-align: top; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">0,5</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 57.6pt; vertical-align: top; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">0,3</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 57.6pt; vertical-align: top; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 57.6pt; vertical-align: top; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext; width: 57.55pt; vertical-align: top; background-color: transparent;">
+			<p style="margin-right: 0cm; margin-left: 0cm;">Trifolium alexandrinum</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 57.55pt; vertical-align: top; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">80(a)(b)</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 57.55pt; vertical-align: top; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">20</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 57.55pt; vertical-align: top; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">97</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 57.6pt; vertical-align: top; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">1,5</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 57.6pt; vertical-align: top; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">1,0</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 57.6pt; vertical-align: top; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 57.6pt; vertical-align: top; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext; width: 57.55pt; vertical-align: top; background-color: transparent;">
+			<p style="margin-right: 0cm; margin-left: 0cm;">Trifolium hybridum</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 57.55pt; vertical-align: top; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">80(a)(b)</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 57.55pt; vertical-align: top; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">20</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 57.55pt; vertical-align: top; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">97</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 57.6pt; vertical-align: top; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">1,5</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 57.6pt; vertical-align: top; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">1,0</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 57.6pt; vertical-align: top; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 57.6pt; vertical-align: top; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext; width: 57.55pt; vertical-align: top; background-color: transparent;">
+			<p style="margin-right: 0cm; margin-left: 0cm;">Trifolium incarnatum</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 57.55pt; vertical-align: top; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">75(a)(b)</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 57.55pt; vertical-align: top; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">20</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 57.55pt; vertical-align: top; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">97</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 57.6pt; vertical-align: top; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">1,5</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 57.6pt; vertical-align: top; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">1,0</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 57.6pt; vertical-align: top; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 57.6pt; vertical-align: top; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext; width: 57.55pt; vertical-align: top; background-color: transparent;">
+			<p style="margin-right: 0cm; margin-left: 0cm;">Trifolium pratense</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 57.55pt; vertical-align: top; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">80(a)(b)</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 57.55pt; vertical-align: top; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">20</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 57.55pt; vertical-align: top; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">97</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 57.6pt; vertical-align: top; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">1,5</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 57.6pt; vertical-align: top; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">1,0</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 57.6pt; vertical-align: top; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 57.6pt; vertical-align: top; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext; width: 57.55pt; vertical-align: top; background-color: transparent;">
+			<p style="margin-right: 0cm; margin-left: 0cm;">Trifolium repens</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 57.55pt; vertical-align: top; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">80(a)(b)</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 57.55pt; vertical-align: top; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">40</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 57.55pt; vertical-align: top; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">97</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 57.6pt; vertical-align: top; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">1,5</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 57.6pt; vertical-align: top; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">1,0</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 57.6pt; vertical-align: top; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 57.6pt; vertical-align: top; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext; width: 57.55pt; vertical-align: top; background-color: transparent;">
+			<p style="margin-right: 0cm; margin-left: 0cm;">Trifolium resupinatum</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 57.55pt; vertical-align: top; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">80(a)(b)</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 57.55pt; vertical-align: top; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">20</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 57.55pt; vertical-align: top; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">97</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 57.6pt; vertical-align: top; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">1,5</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 57.6pt; vertical-align: top; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">1,0</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 57.6pt; vertical-align: top; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 57.6pt; vertical-align: top; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext; width: 57.55pt; vertical-align: top; background-color: transparent;">
+			<p style="margin-right: 0cm; margin-left: 0cm;">Trigonella foenumgraecum</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 57.55pt; vertical-align: top; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">80(a)</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 57.55pt; vertical-align: top; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 57.55pt; vertical-align: top; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">95</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 57.6pt; vertical-align: top; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">1,0</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 57.6pt; vertical-align: top; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">0,5</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 57.6pt; vertical-align: top; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 57.6pt; vertical-align: top; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext; width: 57.55pt; vertical-align: top; background-color: transparent;">
+			<p style="margin-right: 0cm; margin-left: 0cm;">Vicia faba</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 57.55pt; vertical-align: top; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">80(a)(b)</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 57.55pt; vertical-align: top; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">5</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 57.55pt; vertical-align: top; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">98</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 57.6pt; vertical-align: top; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">0,5</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 57.6pt; vertical-align: top; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">0,3</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 57.6pt; vertical-align: top; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 57.6pt; vertical-align: top; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext; width: 57.55pt; vertical-align: top; background-color: transparent;">
+			<p style="margin-right: 0cm; margin-left: 0cm;">Vicia pannonica</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 57.55pt; vertical-align: top; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">85(a)(b)</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 57.55pt; vertical-align: top; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">20</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 57.55pt; vertical-align: top; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">98</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 57.6pt; vertical-align: top; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">1,0(e)</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 57.6pt; vertical-align: top; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">0,5(e)</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 57.6pt; vertical-align: top; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 57.6pt; vertical-align: top; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext; width: 57.55pt; vertical-align: top; background-color: transparent;">
+			<p style="margin-right: 0cm; margin-left: 0cm;">Vicia sativa</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 57.55pt; vertical-align: top; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">85(a)(b)</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 57.55pt; vertical-align: top; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">20</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 57.55pt; vertical-align: top; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">98</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 57.6pt; vertical-align: top; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">1,0(e)</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 57.6pt; vertical-align: top; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">0,5(e)</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 57.6pt; vertical-align: top; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 57.6pt; vertical-align: top; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext; width: 57.55pt; vertical-align: top; background-color: transparent;">
+			<p style="margin-right: 0cm; margin-left: 0cm;">Viia villosa</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 57.55pt; vertical-align: top; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">85(a)(b)</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 57.55pt; vertical-align: top; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">20</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 57.55pt; vertical-align: top; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">98</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 57.6pt; vertical-align: top; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">1,0(e)</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 57.6pt; vertical-align: top; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">0,5(e)</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 57.6pt; vertical-align: top; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 57.6pt; vertical-align: top; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext; width: 57.55pt; vertical-align: top; background-color: transparent;">
 			<p style="margin-right: 0cm; margin-left: 0cm;"><strong>ANDERE SOORTEN</strong></p>
-
-			<p style="margin-right: 0cm; margin-left: 0cm;">Brassica napus var. Napobrassica</p>
-
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 57.55pt; vertical-align: top; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 57.55pt; vertical-align: top; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 57.55pt; vertical-align: top; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 57.6pt; vertical-align: top; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 57.6pt; vertical-align: top; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 57.6pt; vertical-align: top; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 57.6pt; vertical-align: top; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext; width: 57.55pt; vertical-align: top; background-color: transparent;">
+			<p style="margin-right: 0cm; margin-left: 0cm;">Brassica napus var. napobrassica</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 57.55pt; vertical-align: top; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">80(a)</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 57.55pt; vertical-align: top; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 57.55pt; vertical-align: top; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">98</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 57.6pt; vertical-align: top; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">1,0</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 57.6pt; vertical-align: top; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">0,5</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 57.6pt; vertical-align: top; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 57.6pt; vertical-align: top; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext; width: 57.55pt; vertical-align: top; background-color: transparent;">
 			<p style="margin-right: 0cm; margin-left: 0cm;">Brassica oleracea convar. Acephala</p>
-
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 57.55pt; vertical-align: top; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">75(a)</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 57.55pt; vertical-align: top; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 57.55pt; vertical-align: top; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">98</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 57.6pt; vertical-align: top; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">1,0</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 57.6pt; vertical-align: top; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">0,5</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 57.6pt; vertical-align: top; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 57.6pt; vertical-align: top; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext; width: 57.55pt; vertical-align: top; background-color: transparent;">
 			<p style="margin-right: 0cm; margin-left: 0cm;">Phacelia tanacetifolia</p>
-
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 57.55pt; vertical-align: top; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">80(a)</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 57.55pt; vertical-align: top; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 57.55pt; vertical-align: top; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">96</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 57.6pt; vertical-align: top; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">1,0</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 57.6pt; vertical-align: top; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">0,5</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 57.6pt; vertical-align: top; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 57.6pt; vertical-align: top; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext; width: 57.55pt; vertical-align: top; background-color: transparent;">
 			<p style="margin-right: 0cm; margin-left: 0cm;">Raphanus sativus var. oleiformis</p>
 			</td>
-			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 76.75pt; vertical-align: top; background-color: transparent;">
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 57.55pt; vertical-align: top; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">80(a)</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 57.55pt; vertical-align: top; background-color: transparent;">
 			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 57.55pt; vertical-align: top; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">97</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 57.6pt; vertical-align: top; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">1,0</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 57.6pt; vertical-align: top; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">0,5</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 57.6pt; vertical-align: top; background-color: transparent;">
 			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">0,3</p>
-
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 57.6pt; vertical-align: top; background-color: transparent;">
 			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
 
+<p>&nbsp;</p>
+
+<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<table class="MsoTableGrid" style="border: currentColor; border-image: none; border-collapse: collapse; mso-yfti-tbllook: 480; mso-padding-alt: 0cm 5.4pt 0cm 5.4pt; mso-border-alt: solid windowtext .5pt;" border="1" cellspacing="0" cellpadding="0">
+	<tbody>
+		<tr>
+			<td style="width: 87pt; height: 17.3pt; vertical-align: top; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">1</p>
+			</td>
+			<td style="border-color: windowtext windowtext windowtext rgb(240, 240, 240); width: 54.1pt; height: 17.3pt; vertical-align: top; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">9</p>
+			</td>
+			<td style="border-color: windowtext windowtext windowtext rgb(240, 240, 240); width: 53.85pt; height: 17.3pt; vertical-align: top; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">10</p>
+			</td>
+			<td style="border-color: windowtext windowtext windowtext rgb(240, 240, 240); width: 53.85pt; height: 17.3pt; vertical-align: top; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">11</p>
+			</td>
+			<td style="border-color: windowtext windowtext windowtext rgb(240, 240, 240); width: 53.9pt; height: 17.3pt; vertical-align: top; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">12</p>
+			</td>
+			<td style="border-color: windowtext windowtext windowtext rgb(240, 240, 240); width: 53.9pt; height: 17.3pt; vertical-align: top; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">13</p>
+			</td>
+			<td style="border-color: windowtext windowtext windowtext rgb(240, 240, 240); width: 53.9pt; height: 17.3pt; vertical-align: top; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">14</p>
+			</td>
+			<td style="border-color: windowtext windowtext windowtext rgb(240, 240, 240); width: 53.9pt; height: 17.3pt; vertical-align: top; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">15</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext; width: 87pt; vertical-align: top; background-color: transparent;">
+			<p style="margin-right: 0cm; margin-left: 0cm;"><strong>LEGUMINOSAE</strong></p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 54.1pt; vertical-align: top; background-color: transparent;">
+			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 53.85pt; vertical-align: top; background-color: transparent;">
 			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 53.85pt; vertical-align: top; background-color: transparent;">
 			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">0,3</p>
-
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 53.9pt; vertical-align: top; background-color: transparent;">
 			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 53.9pt; vertical-align: top; background-color: transparent;">
 			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 53.9pt; vertical-align: top; background-color: transparent;">
 			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 53.9pt; vertical-align: top; background-color: transparent;">
 			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
+			</td>
+		</tr>
+		<tr>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext; width: 87pt; vertical-align: top; background-color: transparent;">
+			<p style="margin-right: 0cm; margin-left: 0cm;">Galega orientalis Lam.</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 54.1pt; vertical-align: top; background-color: transparent;">
 			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">0,3</p>
 			</td>
-			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 76.75pt; vertical-align: top; background-color: transparent;">
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">0,3</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">0,3</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">0,3</p>
-			</td>
-			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 76.75pt; vertical-align: top; background-color: transparent;">
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">0</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">0</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">0</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 53.85pt; vertical-align: top; background-color: transparent;">
 			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">0</p>
 			</td>
-			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 76.8pt; vertical-align: top; background-color: transparent;">
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">0(j)(k)</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">0(j)(k)</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">0(j)(k)</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">0(j)(k)</p>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 53.85pt; vertical-align: top; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">0</p>
 			</td>
-			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 76.8pt; vertical-align: top; background-color: transparent;">
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 53.9pt; vertical-align: top; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">0</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 53.9pt; vertical-align: top; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">0(l)(m)</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 53.9pt; vertical-align: top; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">10(e)</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 53.9pt; vertical-align: top; background-color: transparent;">
 			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
+			</td>
+		</tr>
+		<tr>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext; width: 87pt; vertical-align: top; background-color: transparent;">
+			<p style="margin-right: 0cm; margin-left: 0cm;">Hedysarum oronarium</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 54.1pt; vertical-align: top; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">0,3</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 53.85pt; vertical-align: top; background-color: transparent;">
 			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 53.85pt; vertical-align: top; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 53.9pt; vertical-align: top; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">0</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 53.9pt; vertical-align: top; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">0(k)</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 53.9pt; vertical-align: top; background-color: transparent;">
 			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">2(n)</p>
-
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 53.9pt; vertical-align: top; background-color: transparent;">
 			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
+			</td>
+		</tr>
+		<tr>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext; width: 87pt; vertical-align: top; background-color: transparent;">
+			<p style="margin-right: 0cm; margin-left: 0cm;">Lotus corniculatis</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 54.1pt; vertical-align: top; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">0,3</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 53.85pt; vertical-align: top; background-color: transparent;">
 			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 53.85pt; vertical-align: top; background-color: transparent;">
 			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 53.9pt; vertical-align: top; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">0</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 53.9pt; vertical-align: top; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">0(l)(m)</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 53.9pt; vertical-align: top; background-color: transparent;">
 			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">2(n)</p>
-
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 53.9pt; vertical-align: top; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">(0)(p)</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext; width: 87pt; vertical-align: top; background-color: transparent;">
+			<p style="margin-right: 0cm; margin-left: 0cm;">Lupinus albus</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 54.1pt; vertical-align: top; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">0,3</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 53.85pt; vertical-align: top; background-color: transparent;">
 			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 53.85pt; vertical-align: top; background-color: transparent;">
 			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 53.9pt; vertical-align: top; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">0(i)</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 53.9pt; vertical-align: top; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">0(j)</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 53.9pt; vertical-align: top; background-color: transparent;">
 			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">2(n)</p>
-
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 53.9pt; vertical-align: top; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">(0)(p)</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext; width: 87pt; vertical-align: top; background-color: transparent;">
+			<p style="margin-right: 0cm; margin-left: 0cm;">Lupinus angustifolius</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 54.1pt; vertical-align: top; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">0,3</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 53.85pt; vertical-align: top; background-color: transparent;">
 			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 53.85pt; vertical-align: top; background-color: transparent;">
 			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 53.9pt; vertical-align: top; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">0(i)</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 53.9pt; vertical-align: top; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">0(j)</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 53.9pt; vertical-align: top; background-color: transparent;">
 			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">2(n)</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 53.9pt; vertical-align: top; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">(0)(p)</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext; width: 87pt; vertical-align: top; background-color: transparent;">
+			<p style="margin-right: 0cm; margin-left: 0cm;">Lupinus luteus</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 54.1pt; vertical-align: top; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">0,3</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 53.85pt; vertical-align: top; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 53.85pt; vertical-align: top; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 53.9pt; vertical-align: top; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">0(i)</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 53.9pt; vertical-align: top; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">0(j)</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 53.9pt; vertical-align: top; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">5(n)</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 53.9pt; vertical-align: top; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext; width: 87pt; vertical-align: top; background-color: transparent;">
+			<p style="margin-right: 0cm; margin-left: 0cm;">Medicago lupulina</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 54.1pt; vertical-align: top; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">0,3</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 53.85pt; vertical-align: top; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 53.85pt; vertical-align: top; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 53.9pt; vertical-align: top; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">0</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 53.9pt; vertical-align: top; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">0(l)(m)</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 53.9pt; vertical-align: top; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">5(n)</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 53.9pt; vertical-align: top; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext; width: 87pt; vertical-align: top; background-color: transparent;">
+			<p style="margin-right: 0cm; margin-left: 0cm;">Madicago sativa</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 54.1pt; vertical-align: top; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">0,3</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 53.85pt; vertical-align: top; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 53.85pt; vertical-align: top; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 53.9pt; vertical-align: top; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">0</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 53.9pt; vertical-align: top; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">0(l)(m)</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 53.9pt; vertical-align: top; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">10(n)</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 53.9pt; vertical-align: top; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext; width: 87pt; vertical-align: top; background-color: transparent;">
+			<p style="margin-right: 0cm; margin-left: 0cm;">Medicago x varia</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 54.1pt; vertical-align: top; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">0,3</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 53.85pt; vertical-align: top; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 53.85pt; vertical-align: top; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 53.9pt; vertical-align: top; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">0</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 53.9pt; vertical-align: top; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">0(l)(m)</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 53.9pt; vertical-align: top; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">10(n)</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 53.9pt; vertical-align: top; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext; width: 87pt; vertical-align: top; background-color: transparent;">
+			<p style="margin-right: 0cm; margin-left: 0cm;">Onobrychis viciifolia</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 54.1pt; vertical-align: top; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">0,3</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 53.85pt; vertical-align: top; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 53.85pt; vertical-align: top; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 53.9pt; vertical-align: top; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">0</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 53.9pt; vertical-align: top; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">0(j)</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 53.9pt; vertical-align: top; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">2</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 53.9pt; vertical-align: top; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext; width: 87pt; vertical-align: top; background-color: transparent;">
+			<p style="margin-right: 0cm; margin-left: 0cm;">Pisum sativum</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 54.1pt; vertical-align: top; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">0,3</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 53.85pt; vertical-align: top; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 53.85pt; vertical-align: top; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 53.9pt; vertical-align: top; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">0</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 53.9pt; vertical-align: top; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">0(j)</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 53.9pt; vertical-align: top; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">5(n)</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 53.9pt; vertical-align: top; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext; width: 87pt; vertical-align: top; background-color: transparent;">
+			<p style="margin-right: 0cm; margin-left: 0cm;">Trifolium alexandrinum</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 54.1pt; vertical-align: top; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">0,3</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 53.85pt; vertical-align: top; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 53.85pt; vertical-align: top; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 53.9pt; vertical-align: top; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">0</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 53.9pt; vertical-align: top; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">0(l)(m)</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 53.9pt; vertical-align: top; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">5(n)</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 53.9pt; vertical-align: top; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext; width: 87pt; vertical-align: top; background-color: transparent;">
+			<p style="margin-right: 0cm; margin-left: 0cm;">Trifolium hybridum</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 54.1pt; vertical-align: top; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">0,3</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 53.85pt; vertical-align: top; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 53.85pt; vertical-align: top; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 53.9pt; vertical-align: top; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">0</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 53.9pt; vertical-align: top; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">0(l)(m)</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 53.9pt; vertical-align: top; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">5(n)</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 53.9pt; vertical-align: top; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext; width: 87pt; vertical-align: top; background-color: transparent;">
+			<p style="margin-right: 0cm; margin-left: 0cm;">Trifolium incarnatum</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 54.1pt; vertical-align: top; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">0,3</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 53.85pt; vertical-align: top; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 53.85pt; vertical-align: top; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 53.9pt; vertical-align: top; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">0</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 53.9pt; vertical-align: top; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">0(l)(m)</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 53.9pt; vertical-align: top; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">5(n)</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 53.9pt; vertical-align: top; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext; width: 87pt; vertical-align: top; background-color: transparent;">
+			<p style="margin-right: 0cm; margin-left: 0cm;">Trifolium pratense</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 54.1pt; vertical-align: top; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">0,3</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 53.85pt; vertical-align: top; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 53.85pt; vertical-align: top; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 53.9pt; vertical-align: top; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">0</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 53.9pt; vertical-align: top; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">0(l)(m)</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 53.9pt; vertical-align: top; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">5(n)</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 53.9pt; vertical-align: top; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext; width: 87pt; vertical-align: top; background-color: transparent;">
+			<p style="margin-right: 0cm; margin-left: 0cm;">Trifolium repens</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 54.1pt; vertical-align: top; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">0,3</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 53.85pt; vertical-align: top; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 53.85pt; vertical-align: top; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 53.9pt; vertical-align: top; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">0</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 53.9pt; vertical-align: top; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">0(l)(m)</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 53.9pt; vertical-align: top; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">5(n)</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 53.9pt; vertical-align: top; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext; width: 87pt; vertical-align: top; background-color: transparent;">
+			<p style="margin-right: 0cm; margin-left: 0cm;">Trifolium resupinatum</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 54.1pt; vertical-align: top; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">0,3</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 53.85pt; vertical-align: top; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 53.85pt; vertical-align: top; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 53.9pt; vertical-align: top; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">0</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 53.9pt; vertical-align: top; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">0(l)(m)</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 53.9pt; vertical-align: top; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">5(n)</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 53.9pt; vertical-align: top; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext; width: 87pt; vertical-align: top; background-color: transparent;">
+			<p style="margin-right: 0cm; margin-left: 0cm;">Trigonella foenumgraecum</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 54.1pt; vertical-align: top; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">0,3</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 53.85pt; vertical-align: top; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 53.85pt; vertical-align: top; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 53.9pt; vertical-align: top; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">0</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 53.9pt; vertical-align: top; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">0(j)</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 53.9pt; vertical-align: top; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">5(n)</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 53.9pt; vertical-align: top; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext; width: 87pt; vertical-align: top; background-color: transparent;">
+			<p style="margin-right: 0cm; margin-left: 0cm;">Vicia faba</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 54.1pt; vertical-align: top; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">0,3</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 53.85pt; vertical-align: top; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 53.85pt; vertical-align: top; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 53.9pt; vertical-align: top; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">0</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 53.9pt; vertical-align: top; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">0(j)</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 53.9pt; vertical-align: top; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">5(n)</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 53.9pt; vertical-align: top; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext; width: 87pt; vertical-align: top; background-color: transparent;">
+			<p style="margin-right: 0cm; margin-left: 0cm;">Vicia pannonica</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 54.1pt; vertical-align: top; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">0,3</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 53.85pt; vertical-align: top; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 53.85pt; vertical-align: top; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 53.9pt; vertical-align: top; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">0(i)</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 53.9pt; vertical-align: top; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">0(j)</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 53.9pt; vertical-align: top; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">5</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 53.9pt; vertical-align: top; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext; width: 87pt; vertical-align: top; background-color: transparent;">
+			<p style="margin-right: 0cm; margin-left: 0cm;">Vicia sativa</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 54.1pt; vertical-align: top; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">0,3</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 53.85pt; vertical-align: top; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 53.85pt; vertical-align: top; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 53.9pt; vertical-align: top; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">0(i)</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 53.9pt; vertical-align: top; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">0(j)</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 53.9pt; vertical-align: top; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">5</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 53.9pt; vertical-align: top; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext; width: 87pt; vertical-align: top; background-color: transparent;">
+			<p style="margin-right: 0cm; margin-left: 0cm;">Viia villosa</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 54.1pt; vertical-align: top; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">0,3</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 53.85pt; vertical-align: top; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 53.85pt; vertical-align: top; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 53.9pt; vertical-align: top; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">0(i)</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 53.9pt; vertical-align: top; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">0(j)</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 53.9pt; vertical-align: top; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">5</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 53.9pt; vertical-align: top; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext; width: 87pt; vertical-align: top; background-color: transparent;">
+			<p style="margin-right: 0cm; margin-left: 0cm;"><strong>ANDERE SOORTEN</strong></p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 54.1pt; vertical-align: top; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 53.85pt; vertical-align: top; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 53.85pt; vertical-align: top; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 53.9pt; vertical-align: top; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 53.9pt; vertical-align: top; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 53.9pt; vertical-align: top; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">5(n)</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 53.9pt; vertical-align: top; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext; width: 87pt; vertical-align: top; background-color: transparent;">
+			<p style="margin-right: 0cm; margin-left: 0cm;">Brassica napus var. napobrassica</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 54.1pt; vertical-align: top; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 53.85pt; vertical-align: top; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">0,3</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 53.85pt; vertical-align: top; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">0,3</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 53.9pt; vertical-align: top; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">0</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 53.9pt; vertical-align: top; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">0</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 53.9pt; vertical-align: top; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">2(n)</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 53.9pt; vertical-align: top; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext; width: 87pt; vertical-align: top; background-color: transparent;">
+			<p style="margin-right: 0cm; margin-left: 0cm;">Brassica oleracea convar. Acephala</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 54.1pt; vertical-align: top; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 53.85pt; vertical-align: top; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">0,3</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 53.85pt; vertical-align: top; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">0,3</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 53.9pt; vertical-align: top; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">0</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 53.9pt; vertical-align: top; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">0</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 53.9pt; vertical-align: top; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">2(n)</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 53.9pt; vertical-align: top; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext; width: 87pt; vertical-align: top; background-color: transparent;">
+			<p style="margin-right: 0cm; margin-left: 0cm;">Phacelia tanacetifolia</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 54.1pt; vertical-align: top; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 53.85pt; vertical-align: top; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 53.85pt; vertical-align: top; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 53.9pt; vertical-align: top; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">0</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 53.9pt; vertical-align: top; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">0</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 53.9pt; vertical-align: top; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">2(n)</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 53.9pt; vertical-align: top; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext; width: 87pt; vertical-align: top; background-color: transparent;">
+			<p style="margin-right: 0cm; margin-left: 0cm;">Raphanus sativus var. oleiformis</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 54.1pt; vertical-align: top; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 53.85pt; vertical-align: top; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">0,3</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 53.85pt; vertical-align: top; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">0,3</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 53.9pt; vertical-align: top; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">0</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 53.9pt; vertical-align: top; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">0</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 53.9pt; vertical-align: top; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">2(n)</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 53.9pt; vertical-align: top; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
 			</td>
 		</tr>
 	</tbody>
@@ -4020,31 +4236,18 @@ tabel.<br>
 <p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
 
 <p>B. normen of andere voorwaarden waaraan moet worden voldaan wanneer daarnaar wordt verwezen in de onder punt I, 2, A, van deze bijlage opgenomen tabel.<br>
-<br>
 a) Alle na voorbehandeling niet gekiemde verse en gezonde zaden worden beschouwd als gekiemde zaden.<br>
-<br>
 b) Hardschalige zaden worden voor zover zij het aangegeven maximumpercentage niet overschrijden, meegeteld als kiemkrachtige zaden.<br>
-<br>
 c) Een maximum gewichtspercentage van 0,8 % aan zaden van andere Poa-soorten geldt niet als onzuiverheid.<br>
-<br>
 d) Een maximum gewichtspercentage van 1 % aan zaden van Trifolium pratense geldt niet als onzuiverheid.<br>
-<br>
 e) Een maximum gewichtspercentage van 0,5 aan zaden van Lupinus albus, Lupinus angustifolius, Lupinus luteus, Pisum sativum, Vicia faba, Vicia pannonica, Vicia sativa, Vicia villosa, in een van de andere genoemde soorten, geldt niet als onzuiverheid.<br>
-<br>
 f) Het voorgeschreven maximum gewichtspercentage aan zaden van één enkele soort geldt niet voor zaden van Poa-soorten.<br>
-<br>
 g) De aanwezigheid van maximaal twee zaden van Avena fatua, Avena ludoviciana of Avena sterilis, in een monster van de voorgeschreven grootte, geldt niet als onzuiverheid wanneer een tweede monster van dezelfde grootte volledig vrij is van zaden van deze soorten.<br>
-<br>
 h) De aanwezigheid van één zaad van Avena fatua, Avena ludoviciana of Avena sterilis, in een monster van de voorgeschreven grootte, geldt niet als onzuiverheid wanneer een tweede monster van tweemaal de voorgeschreven grootte volledig vrij is van zaden van deze soort.<br>
-<br>
 i) Het aantal zaden van Avena fatua, Avena ludoviciana of Avena sterilis wordt slechts bepaald indien er twijfel bestaat of aan de in kolom 12 vastgestelde eisen is voldaan.<br>
-<br>
 j) Het aantal zaden van Cuscuta-soorten wordt slechts bepaald indien er twijfel over bestaat of in kolom 13 vastgestelde eisen is voldaan.<br>
-<br>
 k) De aanwezigheid van één zaad van Cuscuta-soorten, in een monster van de voorgeschreven grootte, geldt niet als onzuiverheid indien een tweede monster van dezelfde grootte volledig vrij is van zaden van Cuscuta-soorten.<br>
-<br>
 l) Om het aantal zaden van Cuscuta-soorten te bepalen, moet het monster tweemaal zo groot zijn als de in kolom 4 van bijlage III, voor deze soort aangegeven grootte.<br>
-<br>
 m) De aanwezigheid van één zaad van Cuscuta-soorten, in een monster van de voorgeschreven grootte, geldt niet als onzuiverheid indien een tweede monster van tweemaal de voorgeschreven grootte volledig vrij is van zaden van Cuscuta-soorten.<br>
 <br>
 n) Het aantal zaden van andere Rumex-soorten, dan Rumex acetosella en Rumex maritimus, moet slechts worden bepaald indien er twijfel over bestaat of aan de in kolom 14 vastgestelde eisen is voldaan.<br>
@@ -4068,1797 +4271,1565 @@ Voor basiszaad, gelden de voorwaarden van deel I van deze bijlage, tenzij hieron
 2. Het zaad moet aan de volgende normen of andere eisen voldoen:<br>
 <br>
 A. tabel<br>
-<br>
-<!--[if gte mso 9]><xml><br> <o:DocumentProperties><br>  <o:Author>Deschrma</o:Author><br>  <o:Template>Normal</o:Template><br>  <o:LastAuthor>Deschrma</o:LastAuthor><br>  <o:Revision>2</o:Revision><br>  <o:TotalTime>36</o:TotalTime><br>  <o:Created>2007-04-11T11:48:00Z</o:Created><br>  <o:LastSaved>2007-04-11T12:27:00Z</o:LastSaved><br>  <o:Pages>1</o:Pages><br>  <o:Words>434</o:Words><br>  <o:Characters>2387</o:Characters><br>  <o:Company>Ministerie van de Vlaamse Gemeenschap</o:Company><br>  <o:Lines>19</o:Lines><br>  <o:Paragraphs>5</o:Paragraphs><br>  <o:CharactersWithSpaces>2816</o:CharactersWithSpaces><br>  <o:Version>11.6408</o:Version><br> </o:DocumentProperties><br></xml><![endif]--><!--[if gte mso 9]><xml><br> <w:WordDocument><br>  <w:SpellingState>Clean</w:SpellingState><br>  <w:GrammarState>Clean</w:GrammarState><br>  <w:HyphenationZone>21</w:HyphenationZone><br>  <w:PunctuationKerning></w:PunctuationKerning><br>  <w:ValidateAgainstSchemas></w:ValidateAgainstSchemas><br>  <w:SaveIfXMLInvalid>false</w:SaveIfXMLInvalid><br>  <w:IgnoreMixedContent>false</w:IgnoreMixedContent><br>  <w:AlwaysShowPlaceholderText>false</w:AlwaysShowPlaceholderText><br>  <w:Compatibility><br>   <w:BreakWrappedTables></w:BreakWrappedTables><br>   <w:SnapToGridInCell></w:SnapToGridInCell><br>   <w:WrapTextWithPunct></w:WrapTextWithPunct><br>   <w:UseAsianBreakRules></w:UseAsianBreakRules><br>   <w:DontGrowAutofit></w:DontGrowAutofit><br>  </w:Compatibility><br>  <w:BrowserLevel>MicrosoftInternetExplorer4</w:BrowserLevel><br> </w:WordDocument><br></xml><![endif]--><!--[if gte mso 9]><xml><br> <w:LatentStyles DefLockedState="e;false"e; LatentStyleCount="e;156"e;><br> </w:LatentStyles><br></xml><![endif]--><!--[if gte mso 10]><br><style><br> /* Style Definitions */<br> table.MsoNormalTable<br>	&lftaco;mso-style-name:Standaardtabel;<br>	mso-tstyle-rowband-size:0;<br>	mso-tstyle-colband-size:0;<br>	mso-style-noshow:yes;<br>	mso-style-parent:"e;"e;;<br>	mso-padding-alt:0cm 5.4pt 0cm 5.4pt;<br>	mso-para-margin:0cm;<br>	mso-para-margin-bottom:.0001pt;<br>	mso-pagination:widow-orphan;<br>	font-size:10.0pt;<br>	font-family:"e;Times New Roman"e;;<br>	mso-ansi-language:#0400;<br>	mso-fareast-language:#0400;<br>	mso-bidi-language:#0400;&rgtaco;<br>table.MsoTableGrid<br>	&lftaco;mso-style-name:Tabelraster;<br>	mso-tstyle-rowband-size:0;<br>	mso-tstyle-colband-size:0;<br>	border:solid windowtext 1.0pt;<br>	mso-border-alt:solid windowtext .5pt;<br>	mso-padding-alt:0cm 5.4pt 0cm 5.4pt;<br>	mso-border-insideh:.5pt solid windowtext;<br>	mso-border-insidev:.5pt solid windowtext;<br>	mso-para-margin:0cm;<br>	mso-para-margin-bottom:.0001pt;<br>	mso-pagination:widow-orphan;<br>	font-size:10.0pt;<br>	font-family:"e;Times New Roman"e;;<br>	mso-ansi-language:#0400;<br>	mso-fareast-language:#0400;<br>	mso-bidi-language:#0400;&rgtaco;<br></style><br><![endif]--></p>
+<!--[if gte mso 9]><xml><br> <o:DocumentProperties><br>  <o:Author>Martine</o:Author><br>  <o:Template>Normal</o:Template><br>  <o:LastAuthor>decockge</o:LastAuthor><br>  <o:Revision>2</o:Revision><br>  <o:TotalTime>26</o:TotalTime><br>  <o:Created>2008-10-15T10:27:00Z</o:Created><br>  <o:LastSaved>2008-10-15T10:27:00Z</o:LastSaved><br>  <o:Pages>1</o:Pages><br>  <o:Words>392</o:Words><br>  <o:Characters>2159</o:Characters><br>  <o:Company>MVG</o:Company><br>  <o:Lines>17</o:Lines><br>  <o:Paragraphs>5</o:Paragraphs><br>  <o:CharactersWithSpaces>2546</o:CharactersWithSpaces><br>  <o:Version>11.8132</o:Version><br> </o:DocumentProperties><br></xml><![endif]--><!--[if gte mso 9]><xml><br> <w:WordDocument><br>  <w:SpellingState>Clean</w:SpellingState><br>  <w:GrammarState>Clean</w:GrammarState><br>  <w:HyphenationZone>21</w:HyphenationZone><br>  <w:PunctuationKerning></w:PunctuationKerning><br>  <w:ValidateAgainstSchemas></w:ValidateAgainstSchemas><br>  <w:SaveIfXMLInvalid>false</w:SaveIfXMLInvalid><br>  <w:IgnoreMixedContent>false</w:IgnoreMixedContent><br>  <w:AlwaysShowPlaceholderText>false</w:AlwaysShowPlaceholderText><br>  <w:Compatibility><br>   <w:BreakWrappedTables></w:BreakWrappedTables><br>   <w:SnapToGridInCell></w:SnapToGridInCell><br>   <w:WrapTextWithPunct></w:WrapTextWithPunct><br>   <w:UseAsianBreakRules></w:UseAsianBreakRules><br>   <w:DontGrowAutofit></w:DontGrowAutofit><br>  </w:Compatibility><br>  <w:BrowserLevel>MicrosoftInternetExplorer4</w:BrowserLevel><br> </w:WordDocument><br></xml><![endif]--><!--[if gte mso 9]><xml><br> <w:LatentStyles DefLockedState="e;false"e; LatentStyleCount="e;156"e;><br> </w:LatentStyles><br></xml><![endif]--><!--[if gte mso 10]><br><style><br> /* Style Definitions */<br> table.MsoNormalTable<br>	&lftaco;mso-style-name:Standaardtabel;<br>	mso-tstyle-rowband-size:0;<br>	mso-tstyle-colband-size:0;<br>	mso-style-noshow:yes;<br>	mso-style-parent:"e;"e;;<br>	mso-padding-alt:0cm 5.4pt 0cm 5.4pt;<br>	mso-para-margin:0cm;<br>	mso-para-margin-bottom:.0001pt;<br>	mso-pagination:widow-orphan;<br>	font-size:10.0pt;<br>	font-family:"e;Times New Roman"e;;<br>	mso-ansi-language:#0400;<br>	mso-fareast-language:#0400;<br>	mso-bidi-language:#0400;&rgtaco;<br>table.MsoTableGrid<br>	&lftaco;mso-style-name:Tabelraster;<br>	mso-tstyle-rowband-size:0;<br>	mso-tstyle-colband-size:0;<br>	border:solid windowtext 1.0pt;<br>	mso-border-alt:solid windowtext .5pt;<br>	mso-padding-alt:0cm 5.4pt 0cm 5.4pt;<br>	mso-border-insideh:.5pt solid windowtext;<br>	mso-border-insidev:.5pt solid windowtext;<br>	mso-para-margin:0cm;<br>	mso-para-margin-bottom:.0001pt;<br>	mso-pagination:widow-orphan;<br>	font-size:10.0pt;<br>	font-family:"e;Times New Roman"e;;<br>	mso-ansi-language:#0400;<br>	mso-fareast-language:#0400;<br>	mso-bidi-language:#0400;&rgtaco;<br></style><br><![endif]--><!--[if gte mso 9]><xml><br> <o:shapedefaults v:ext="e;edit"e; spidmax="e;2050"e;></o:shapedefaults><br></xml><![endif]--><!--[if gte mso 9]><xml><br> <o:shapelayout v:ext="e;edit"e;><br>  <o:idmap v:ext="e;edit"e; data="e;1"e;></o:idmap><br> </o:shapelayout></xml><![endif]--></p>
 
 <table class="MsoTableGrid" style="border: currentColor; border-image: none; border-collapse: collapse; mso-yfti-tbllook: 480; mso-padding-alt: 0cm 5.4pt 0cm 5.4pt; mso-border-alt: solid windowtext .5pt;" border="1" cellspacing="0" cellpadding="0">
 	<tbody>
 		<tr>
-			<td style="width: 57.55pt; vertical-align: top; background-color: transparent;" rowspan="3">
+			<td style="width: 57.5pt; height: 11.35pt; background-color: transparent;" rowspan="3">
 			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">Soorten</p>
 			</td>
-			<td style="border-color: windowtext windowtext windowtext rgb(240, 240, 240); width: 345.45pt; vertical-align: top; background-color: transparent;" colspan="6">
+			<td style="border-color: windowtext windowtext windowtext rgb(240, 240, 240); width: 349.55pt; height: 11.35pt; background-color: transparent;" colspan="6">
 			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">Maximumgehalte aan zaden van andere plantensoorten</p>
 			</td>
-			<td style="border-color: windowtext windowtext windowtext rgb(240, 240, 240); width: 57.6pt; vertical-align: top; background-color: transparent;" rowspan="3">
+			<td style="border-color: windowtext windowtext windowtext rgb(240, 240, 240); width: 57.35pt; height: 11.35pt; background-color: transparent;" rowspan="3">
 			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">Overige normen of eisen</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 57.55pt; vertical-align: top; background-color: transparent;" rowspan="2">
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 57.5pt; height: 11.35pt; background-color: transparent;" rowspan="2">
 			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">Totaal (% van het gewicht)</p>
 			</td>
-			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 287.9pt; vertical-align: top; background-color: transparent;" colspan="5">
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 292.05pt; height: 11.35pt; background-color: transparent;" colspan="5">
 			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">Aantal in een monster waarvan het gewicht is aangegeven in bijlage III, kolom 4 (totaal per kolom)</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 57.55pt; vertical-align: top; background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">Van één enkele soort</p>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 57.45pt; height: 11.35pt; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">Van één enkele soort</p>
 			</td>
-			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 57.55pt; vertical-align: top; background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">Rumex spp.</p>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 57.5pt; height: 11.35pt; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">Rumex spp.</p>
 
-			<p style="margin-right: 0cm; margin-left: 0cm;">Andere dan rumex ace tosella en Rumes maritimus</p>
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">Andere dan Rumex acetosella en Rumex maritimus</p>
 			</td>
-			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 57.6pt; vertical-align: top; background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">Agropyron repens</p>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 57.6pt; height: 11.35pt; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">Agropyron repens</p>
 			</td>
-			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 57.6pt; vertical-align: top; background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">Alopecursus myosuroides</p>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 61.95pt; height: 11.35pt; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">Alopecurus myosuroides</p>
 			</td>
-			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 57.6pt; vertical-align: top; background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">Melilotus spp.</p>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 57.55pt; height: 11.35pt; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">Melilotus spp.</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="border-color: rgb(240, 240, 240) windowtext windowtext; width: 57.55pt; vertical-align: top; background-color: transparent;">
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext; width: 57.5pt; height: 11.35pt; background-color: transparent;">
 			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">1</p>
 			</td>
-			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 57.55pt; vertical-align: top; background-color: transparent;">
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 57.5pt; height: 11.35pt; background-color: transparent;">
 			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">2</p>
 			</td>
-			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 57.55pt; vertical-align: top; background-color: transparent;">
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 57.45pt; height: 11.35pt; background-color: transparent;">
 			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">3</p>
 			</td>
-			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 57.55pt; vertical-align: top; background-color: transparent;">
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 57.5pt; height: 11.35pt; background-color: transparent;">
 			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">4</p>
 			</td>
-			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 57.6pt; vertical-align: top; background-color: transparent;">
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 57.6pt; height: 11.35pt; background-color: transparent;">
 			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">5</p>
 			</td>
-			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 57.6pt; vertical-align: top; background-color: transparent;">
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 61.95pt; height: 11.35pt; background-color: transparent;">
 			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">6</p>
 			</td>
-			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 57.6pt; vertical-align: top; background-color: transparent;">
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 57.55pt; height: 11.35pt; background-color: transparent;">
 			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">7</p>
 			</td>
-			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 57.6pt; vertical-align: top; background-color: transparent;">
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 57.35pt; height: 11.35pt; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">8</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+<p>&nbsp;</p>
+
+<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<table class="MsoTableGrid" style="border: currentColor; border-image: none; border-collapse: collapse; mso-yfti-tbllook: 480; mso-padding-alt: 0cm 5.4pt 0cm 5.4pt; mso-border-alt: solid windowtext .5pt;" border="1" cellspacing="0" cellpadding="0">
+	<tbody>
+		<tr>
+			<td style="width: 86.95pt; height: 11.35pt; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">1</p>
+			</td>
+			<td style="border-color: windowtext windowtext windowtext rgb(240, 240, 240); width: 54.2pt; height: 11.35pt; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">2</p>
+			</td>
+			<td style="border-color: windowtext windowtext windowtext rgb(240, 240, 240); width: 53.85pt; height: 11.35pt; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">3</p>
+			</td>
+			<td style="border-color: windowtext windowtext windowtext rgb(240, 240, 240); width: 53.8pt; height: 11.35pt; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">4</p>
+			</td>
+			<td style="border-color: windowtext windowtext windowtext rgb(240, 240, 240); width: 53.9pt; height: 11.35pt; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">5</p>
+			</td>
+			<td style="border-color: windowtext windowtext windowtext rgb(240, 240, 240); width: 53.9pt; height: 11.35pt; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">6</p>
+			</td>
+			<td style="border-color: windowtext windowtext windowtext rgb(240, 240, 240); width: 53.9pt; height: 11.35pt; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">7</p>
+			</td>
+			<td style="border-color: windowtext windowtext windowtext rgb(240, 240, 240); width: 53.9pt; height: 11.35pt; background-color: transparent;">
 			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">8</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="border-color: rgb(240, 240, 240) windowtext windowtext; width: 57.55pt; vertical-align: top; background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;"><strong>GRAMINEAE</strong></p>
-
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext; width: 86.95pt; height: 11.35pt; background-color: transparent;">
+			<p style="margin-right: 0cm; margin-left: 0cm;"><strong>GRAMINAE</strong></p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 54.2pt; height: 11.35pt; background-color: transparent;">
+			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 53.85pt; height: 11.35pt; background-color: transparent;">
+			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 53.8pt; height: 11.35pt; background-color: transparent;">
+			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 53.9pt; height: 11.35pt; background-color: transparent;">
+			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 53.9pt; height: 11.35pt; background-color: transparent;">
+			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 53.9pt; height: 11.35pt; background-color: transparent;">
+			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 53.9pt; height: 11.35pt; background-color: transparent;">
+			<p style="margin-right: 0cm; margin-left: 0cm;">(j)</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext; width: 86.95pt; height: 11.35pt; background-color: transparent;">
 			<p style="margin-right: 0cm; margin-left: 0cm;">Agrostis canina</p>
-
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 54.2pt; height: 11.35pt; background-color: transparent;">
+			<p style="margin-right: 0cm; margin-left: 0cm;">0,3</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 53.85pt; height: 11.35pt; background-color: transparent;">
+			<p style="margin-right: 0cm; margin-left: 0cm;">20</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 53.8pt; height: 11.35pt; background-color: transparent;">
+			<p style="margin-right: 0cm; margin-left: 0cm;">1</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 53.9pt; height: 11.35pt; background-color: transparent;">
+			<p style="margin-right: 0cm; margin-left: 0cm;">1</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 53.9pt; height: 11.35pt; background-color: transparent;">
+			<p style="margin-right: 0cm; margin-left: 0cm;">1</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 53.9pt; height: 11.35pt; background-color: transparent;">
 			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 53.9pt; height: 11.35pt; background-color: transparent;">
+			<p style="margin-right: 0cm; margin-left: 0cm;">(j)</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext; width: 86.95pt; height: 11.35pt; background-color: transparent;">
 			<p style="margin-right: 0cm; margin-left: 0cm;">Agrostis gigantea</p>
-
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 54.2pt; height: 11.35pt; background-color: transparent;">
+			<p style="margin-right: 0cm; margin-left: 0cm;">0,3</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 53.85pt; height: 11.35pt; background-color: transparent;">
+			<p style="margin-right: 0cm; margin-left: 0cm;">20</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 53.8pt; height: 11.35pt; background-color: transparent;">
+			<p style="margin-right: 0cm; margin-left: 0cm;">1</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 53.9pt; height: 11.35pt; background-color: transparent;">
+			<p style="margin-right: 0cm; margin-left: 0cm;">1</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 53.9pt; height: 11.35pt; background-color: transparent;">
+			<p style="margin-right: 0cm; margin-left: 0cm;">1</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 53.9pt; height: 11.35pt; background-color: transparent;">
 			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 53.9pt; height: 11.35pt; background-color: transparent;">
+			<p style="margin-right: 0cm; margin-left: 0cm;">(j)</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext; width: 86.95pt; height: 11.35pt; background-color: transparent;">
 			<p style="margin-right: 0cm; margin-left: 0cm;">Agrostis stolonifera</p>
-
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 54.2pt; height: 11.35pt; background-color: transparent;">
+			<p style="margin-right: 0cm; margin-left: 0cm;">0,3</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 53.85pt; height: 11.35pt; background-color: transparent;">
+			<p style="margin-right: 0cm; margin-left: 0cm;">20</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 53.8pt; height: 11.35pt; background-color: transparent;">
+			<p style="margin-right: 0cm; margin-left: 0cm;">1</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 53.9pt; height: 11.35pt; background-color: transparent;">
+			<p style="margin-right: 0cm; margin-left: 0cm;">1</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 53.9pt; height: 11.35pt; background-color: transparent;">
+			<p style="margin-right: 0cm; margin-left: 0cm;">1</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 53.9pt; height: 11.35pt; background-color: transparent;">
 			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 53.9pt; height: 11.35pt; background-color: transparent;">
+			<p style="margin-right: 0cm; margin-left: 0cm;">(j)</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext; width: 86.95pt; height: 11.35pt; background-color: transparent;">
 			<p style="margin-right: 0cm; margin-left: 0cm;">Agrostis capillaris</p>
-
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 54.2pt; height: 11.35pt; background-color: transparent;">
+			<p style="margin-right: 0cm; margin-left: 0cm;">0,3</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 53.85pt; height: 11.35pt; background-color: transparent;">
+			<p style="margin-right: 0cm; margin-left: 0cm;">20</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 53.8pt; height: 11.35pt; background-color: transparent;">
+			<p style="margin-right: 0cm; margin-left: 0cm;">1</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 53.9pt; height: 11.35pt; background-color: transparent;">
+			<p style="margin-right: 0cm; margin-left: 0cm;">1</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 53.9pt; height: 11.35pt; background-color: transparent;">
+			<p style="margin-right: 0cm; margin-left: 0cm;">1</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 53.9pt; height: 11.35pt; background-color: transparent;">
 			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 53.9pt; height: 11.35pt; background-color: transparent;">
+			<p style="margin-right: 0cm; margin-left: 0cm;">(j)</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext; width: 86.95pt; height: 11.35pt; background-color: transparent;">
 			<p style="margin-right: 0cm; margin-left: 0cm;">Alopecurus pratensis</p>
-
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 54.2pt; height: 11.35pt; background-color: transparent;">
+			<p style="margin-right: 0cm; margin-left: 0cm;">0,3</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 53.85pt; height: 11.35pt; background-color: transparent;">
+			<p style="margin-right: 0cm; margin-left: 0cm;">20(a)</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 53.8pt; height: 11.35pt; background-color: transparent;">
+			<p style="margin-right: 0cm; margin-left: 0cm;">2</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 53.9pt; height: 11.35pt; background-color: transparent;">
+			<p style="margin-right: 0cm; margin-left: 0cm;">5</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 53.9pt; height: 11.35pt; background-color: transparent;">
+			<p style="margin-right: 0cm; margin-left: 0cm;">5</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 53.9pt; height: 11.35pt; background-color: transparent;">
 			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="margin-right: 0cm; margin-left: 0cm;">Arrhenatherum elatius</p>
-
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 53.9pt; height: 11.35pt; background-color: transparent;">
+			<p style="margin-right: 0cm; margin-left: 0cm;">(i)(j)</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext; width: 86.95pt; height: 11.35pt; background-color: transparent;">
+			<p style="margin-right: 0cm; margin-left: 0cm;">Arrhenaltherum elatius</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 54.2pt; height: 11.35pt; background-color: transparent;">
+			<p style="margin-right: 0cm; margin-left: 0cm;">0,3</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 53.85pt; height: 11.35pt; background-color: transparent;">
+			<p style="margin-right: 0cm; margin-left: 0cm;">20(a)</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 53.8pt; height: 11.35pt; background-color: transparent;">
+			<p style="margin-right: 0cm; margin-left: 0cm;">2</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 53.9pt; height: 11.35pt; background-color: transparent;">
+			<p style="margin-right: 0cm; margin-left: 0cm;">5</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 53.9pt; height: 11.35pt; background-color: transparent;">
+			<p style="margin-right: 0cm; margin-left: 0cm;">5</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 53.9pt; height: 11.35pt; background-color: transparent;">
 			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 53.9pt; height: 11.35pt; background-color: transparent;">
+			<p style="margin-right: 0cm; margin-left: 0cm;">(j)</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext; width: 86.95pt; height: 11.35pt; background-color: transparent;">
 			<p style="margin-right: 0cm; margin-left: 0cm;">Bromus catharticus</p>
-
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 54.2pt; height: 11.35pt; background-color: transparent;">
+			<p style="margin-right: 0cm; margin-left: 0cm;">0,4</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 53.85pt; height: 11.35pt; background-color: transparent;">
+			<p style="margin-right: 0cm; margin-left: 0cm;">20</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 53.8pt; height: 11.35pt; background-color: transparent;">
+			<p style="margin-right: 0cm; margin-left: 0cm;">5</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 53.9pt; height: 11.35pt; background-color: transparent;">
+			<p style="margin-right: 0cm; margin-left: 0cm;">5</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 53.9pt; height: 11.35pt; background-color: transparent;">
+			<p style="margin-right: 0cm; margin-left: 0cm;">5</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 53.9pt; height: 11.35pt; background-color: transparent;">
 			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 53.9pt; height: 11.35pt; background-color: transparent;">
+			<p style="margin-right: 0cm; margin-left: 0cm;">(j)</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext; width: 86.95pt; height: 11.35pt; background-color: transparent;">
 			<p style="margin-right: 0cm; margin-left: 0cm;">Bromus sitchensis</p>
-
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 54.2pt; height: 11.35pt; background-color: transparent;">
+			<p style="margin-right: 0cm; margin-left: 0cm;">0,4</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 53.85pt; height: 11.35pt; background-color: transparent;">
+			<p style="margin-right: 0cm; margin-left: 0cm;">20</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 53.8pt; height: 11.35pt; background-color: transparent;">
+			<p style="margin-right: 0cm; margin-left: 0cm;">5</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 53.9pt; height: 11.35pt; background-color: transparent;">
+			<p style="margin-right: 0cm; margin-left: 0cm;">5</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 53.9pt; height: 11.35pt; background-color: transparent;">
+			<p style="margin-right: 0cm; margin-left: 0cm;">5</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 53.9pt; height: 11.35pt; background-color: transparent;">
 			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 53.9pt; height: 11.35pt; background-color: transparent;">
+			<p style="margin-right: 0cm; margin-left: 0cm;">(j)</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext; width: 86.95pt; height: 11.35pt; background-color: transparent;">
 			<p style="margin-right: 0cm; margin-left: 0cm;">Cynodon dactylon</p>
-
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 54.2pt; height: 11.35pt; background-color: transparent;">
+			<p style="margin-right: 0cm; margin-left: 0cm;">0,3</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 53.85pt; height: 11.35pt; background-color: transparent;">
+			<p style="margin-right: 0cm; margin-left: 0cm;">20(a)</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 53.8pt; height: 11.35pt; background-color: transparent;">
+			<p style="margin-right: 0cm; margin-left: 0cm;">1</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 53.9pt; height: 11.35pt; background-color: transparent;">
+			<p style="margin-right: 0cm; margin-left: 0cm;">1</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 53.9pt; height: 11.35pt; background-color: transparent;">
+			<p style="margin-right: 0cm; margin-left: 0cm;">1</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 53.9pt; height: 11.35pt; background-color: transparent;">
 			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 53.9pt; height: 11.35pt; background-color: transparent;">
+			<p style="margin-right: 0cm; margin-left: 0cm;">(j)</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext; width: 86.95pt; height: 11.35pt; background-color: transparent;">
 			<p style="margin-right: 0cm; margin-left: 0cm;">Dactylis glomerata</p>
-
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 54.2pt; height: 11.35pt; background-color: transparent;">
+			<p style="margin-right: 0cm; margin-left: 0cm;">0,3</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 53.85pt; height: 11.35pt; background-color: transparent;">
+			<p style="margin-right: 0cm; margin-left: 0cm;">20(a)</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 53.8pt; height: 11.35pt; background-color: transparent;">
+			<p style="margin-right: 0cm; margin-left: 0cm;">2</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 53.9pt; height: 11.35pt; background-color: transparent;">
+			<p style="margin-right: 0cm; margin-left: 0cm;">5</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 53.9pt; height: 11.35pt; background-color: transparent;">
+			<p style="margin-right: 0cm; margin-left: 0cm;">5</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 53.9pt; height: 11.35pt; background-color: transparent;">
 			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 53.9pt; height: 11.35pt; background-color: transparent;">
+			<p style="margin-right: 0cm; margin-left: 0cm;">(j)</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext; width: 86.95pt; height: 11.35pt; background-color: transparent;">
 			<p style="margin-right: 0cm; margin-left: 0cm;">Festuca arundinacea</p>
-
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 54.2pt; height: 11.35pt; background-color: transparent;">
+			<p style="margin-right: 0cm; margin-left: 0cm;">0,3</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 53.85pt; height: 11.35pt; background-color: transparent;">
+			<p style="margin-right: 0cm; margin-left: 0cm;">20(a)</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 53.8pt; height: 11.35pt; background-color: transparent;">
+			<p style="margin-right: 0cm; margin-left: 0cm;">2</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 53.9pt; height: 11.35pt; background-color: transparent;">
+			<p style="margin-right: 0cm; margin-left: 0cm;">5</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 53.9pt; height: 11.35pt; background-color: transparent;">
+			<p style="margin-right: 0cm; margin-left: 0cm;">5</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 53.9pt; height: 11.35pt; background-color: transparent;">
 			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 53.9pt; height: 11.35pt; background-color: transparent;">
+			<p style="margin-right: 0cm; margin-left: 0cm;">(j)</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext; width: 86.95pt; height: 11.35pt; background-color: transparent;">
 			<p style="margin-right: 0cm; margin-left: 0cm;">Festuca ovina</p>
-
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 54.2pt; height: 11.35pt; background-color: transparent;">
+			<p style="margin-right: 0cm; margin-left: 0cm;">0,3</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 53.85pt; height: 11.35pt; background-color: transparent;">
+			<p style="margin-right: 0cm; margin-left: 0cm;">20(a)</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 53.8pt; height: 11.35pt; background-color: transparent;">
+			<p style="margin-right: 0cm; margin-left: 0cm;">2</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 53.9pt; height: 11.35pt; background-color: transparent;">
+			<p style="margin-right: 0cm; margin-left: 0cm;">5</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 53.9pt; height: 11.35pt; background-color: transparent;">
+			<p style="margin-right: 0cm; margin-left: 0cm;">5</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 53.9pt; height: 11.35pt; background-color: transparent;">
 			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 53.9pt; height: 11.35pt; background-color: transparent;">
+			<p style="margin-right: 0cm; margin-left: 0cm;">(j)</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext; width: 86.95pt; height: 11.35pt; background-color: transparent;">
 			<p style="margin-right: 0cm; margin-left: 0cm;">Festuca pratensis</p>
-
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 54.2pt; height: 11.35pt; background-color: transparent;">
+			<p style="margin-right: 0cm; margin-left: 0cm;">0,3</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 53.85pt; height: 11.35pt; background-color: transparent;">
+			<p style="margin-right: 0cm; margin-left: 0cm;">20(a)</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 53.8pt; height: 11.35pt; background-color: transparent;">
+			<p style="margin-right: 0cm; margin-left: 0cm;">2</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 53.9pt; height: 11.35pt; background-color: transparent;">
+			<p style="margin-right: 0cm; margin-left: 0cm;">5</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 53.9pt; height: 11.35pt; background-color: transparent;">
+			<p style="margin-right: 0cm; margin-left: 0cm;">5</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 53.9pt; height: 11.35pt; background-color: transparent;">
 			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 53.9pt; height: 11.35pt; background-color: transparent;">
+			<p style="margin-right: 0cm; margin-left: 0cm;">(j)</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext; width: 86.95pt; height: 11.35pt; background-color: transparent;">
 			<p style="margin-right: 0cm; margin-left: 0cm;">Festuca rubra</p>
-
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 54.2pt; height: 11.35pt; background-color: transparent;">
+			<p style="margin-right: 0cm; margin-left: 0cm;">0,3</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 53.85pt; height: 11.35pt; background-color: transparent;">
+			<p style="margin-right: 0cm; margin-left: 0cm;">20(a)</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 53.8pt; height: 11.35pt; background-color: transparent;">
+			<p style="margin-right: 0cm; margin-left: 0cm;">2</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 53.9pt; height: 11.35pt; background-color: transparent;">
+			<p style="margin-right: 0cm; margin-left: 0cm;">5</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 53.9pt; height: 11.35pt; background-color: transparent;">
+			<p style="margin-right: 0cm; margin-left: 0cm;">5</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 53.9pt; height: 11.35pt; background-color: transparent;">
 			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 53.9pt; height: 11.35pt; background-color: transparent;">
+			<p style="margin-right: 0cm; margin-left: 0cm;">(j)</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext; width: 86.95pt; height: 11.35pt; background-color: transparent;">
 			<p style="margin-right: 0cm; margin-left: 0cm;">X Festulolium</p>
-
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 54.2pt; height: 11.35pt; background-color: transparent;">
+			<p style="margin-right: 0cm; margin-left: 0cm;">0,3</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 53.85pt; height: 11.35pt; background-color: transparent;">
+			<p style="margin-right: 0cm; margin-left: 0cm;">20(a)</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 53.8pt; height: 11.35pt; background-color: transparent;">
+			<p style="margin-right: 0cm; margin-left: 0cm;">2</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 53.9pt; height: 11.35pt; background-color: transparent;">
+			<p style="margin-right: 0cm; margin-left: 0cm;">5</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 53.9pt; height: 11.35pt; background-color: transparent;">
+			<p style="margin-right: 0cm; margin-left: 0cm;">5</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 53.9pt; height: 11.35pt; background-color: transparent;">
 			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 53.9pt; height: 11.35pt; background-color: transparent;">
+			<p style="margin-right: 0cm; margin-left: 0cm;">(j)</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext; width: 86.95pt; height: 11.35pt; background-color: transparent;">
 			<p style="margin-right: 0cm; margin-left: 0cm;">Lolium multiflorum</p>
-
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 54.2pt; height: 11.35pt; background-color: transparent;">
+			<p style="margin-right: 0cm; margin-left: 0cm;">0,3</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 53.85pt; height: 11.35pt; background-color: transparent;">
+			<p style="margin-right: 0cm; margin-left: 0cm;">20(a)</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 53.8pt; height: 11.35pt; background-color: transparent;">
+			<p style="margin-right: 0cm; margin-left: 0cm;">2</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 53.9pt; height: 11.35pt; background-color: transparent;">
+			<p style="margin-right: 0cm; margin-left: 0cm;">5</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 53.9pt; height: 11.35pt; background-color: transparent;">
+			<p style="margin-right: 0cm; margin-left: 0cm;">5</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 53.9pt; height: 11.35pt; background-color: transparent;">
 			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 53.9pt; height: 11.35pt; background-color: transparent;">
+			<p style="margin-right: 0cm; margin-left: 0cm;">(j)</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext; width: 86.95pt; height: 11.35pt; background-color: transparent;">
 			<p style="margin-right: 0cm; margin-left: 0cm;">Lolium perenne</p>
-
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 54.2pt; height: 11.35pt; background-color: transparent;">
+			<p style="margin-right: 0cm; margin-left: 0cm;">0,3</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 53.85pt; height: 11.35pt; background-color: transparent;">
+			<p style="margin-right: 0cm; margin-left: 0cm;">20(a)</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 53.8pt; height: 11.35pt; background-color: transparent;">
+			<p style="margin-right: 0cm; margin-left: 0cm;">2</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 53.9pt; height: 11.35pt; background-color: transparent;">
+			<p style="margin-right: 0cm; margin-left: 0cm;">5</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 53.9pt; height: 11.35pt; background-color: transparent;">
+			<p style="margin-right: 0cm; margin-left: 0cm;">5</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 53.9pt; height: 11.35pt; background-color: transparent;">
 			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 53.9pt; height: 11.35pt; background-color: transparent;">
+			<p style="margin-right: 0cm; margin-left: 0cm;">(j)</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext; width: 86.95pt; height: 11.35pt; background-color: transparent;">
 			<p style="margin-right: 0cm; margin-left: 0cm;">Lolium x boucheanum</p>
-
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 54.2pt; height: 11.35pt; background-color: transparent;">
+			<p style="margin-right: 0cm; margin-left: 0cm;">0,3</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 53.85pt; height: 11.35pt; background-color: transparent;">
+			<p style="margin-right: 0cm; margin-left: 0cm;">20(a)</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 53.8pt; height: 11.35pt; background-color: transparent;">
+			<p style="margin-right: 0cm; margin-left: 0cm;">2</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 53.9pt; height: 11.35pt; background-color: transparent;">
+			<p style="margin-right: 0cm; margin-left: 0cm;">5</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 53.9pt; height: 11.35pt; background-color: transparent;">
+			<p style="margin-right: 0cm; margin-left: 0cm;">5</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 53.9pt; height: 11.35pt; background-color: transparent;">
 			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 53.9pt; height: 11.35pt; background-color: transparent;">
+			<p style="margin-right: 0cm; margin-left: 0cm;">(j)</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext; width: 86.95pt; height: 11.35pt; background-color: transparent;">
 			<p style="margin-right: 0cm; margin-left: 0cm;">Phalaris aquatica L.</p>
-
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 54.2pt; height: 11.35pt; background-color: transparent;">
+			<p style="margin-right: 0cm; margin-left: 0cm;">0,3</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 53.85pt; height: 11.35pt; background-color: transparent;">
+			<p style="margin-right: 0cm; margin-left: 0cm;">20</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 53.8pt; height: 11.35pt; background-color: transparent;">
+			<p style="margin-right: 0cm; margin-left: 0cm;">2</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 53.9pt; height: 11.35pt; background-color: transparent;">
+			<p style="margin-right: 0cm; margin-left: 0cm;">5</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 53.9pt; height: 11.35pt; background-color: transparent;">
+			<p style="margin-right: 0cm; margin-left: 0cm;">5</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 53.9pt; height: 11.35pt; background-color: transparent;">
 			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="margin-right: 0cm; margin-left: 0cm;">Phleum bertolinii</p>
-
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 53.9pt; height: 11.35pt; background-color: transparent;">
+			<p style="margin-right: 0cm; margin-left: 0cm;">(j)</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext; width: 86.95pt; height: 11.35pt; background-color: transparent;">
+			<p style="margin-right: 0cm; margin-left: 0cm;">Phleum bertolonii</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 54.2pt; height: 11.35pt; background-color: transparent;">
+			<p style="margin-right: 0cm; margin-left: 0cm;">0,3</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 53.85pt; height: 11.35pt; background-color: transparent;">
+			<p style="margin-right: 0cm; margin-left: 0cm;">20</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 53.8pt; height: 11.35pt; background-color: transparent;">
+			<p style="margin-right: 0cm; margin-left: 0cm;">2</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 53.9pt; height: 11.35pt; background-color: transparent;">
+			<p style="margin-right: 0cm; margin-left: 0cm;">1</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 53.9pt; height: 11.35pt; background-color: transparent;">
+			<p style="margin-right: 0cm; margin-left: 0cm;">1</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 53.9pt; height: 11.35pt; background-color: transparent;">
 			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 53.9pt; height: 11.35pt; background-color: transparent;">
+			<p style="margin-right: 0cm; margin-left: 0cm;">(j)</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext; width: 86.95pt; height: 11.35pt; background-color: transparent;">
 			<p style="margin-right: 0cm; margin-left: 0cm;">Phleum pratense</p>
-
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 54.2pt; height: 11.35pt; background-color: transparent;">
+			<p style="margin-right: 0cm; margin-left: 0cm;">0,3</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 53.85pt; height: 11.35pt; background-color: transparent;">
+			<p style="margin-right: 0cm; margin-left: 0cm;">20</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 53.8pt; height: 11.35pt; background-color: transparent;">
+			<p style="margin-right: 0cm; margin-left: 0cm;">2</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 53.9pt; height: 11.35pt; background-color: transparent;">
+			<p style="margin-right: 0cm; margin-left: 0cm;">1</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 53.9pt; height: 11.35pt; background-color: transparent;">
+			<p style="margin-right: 0cm; margin-left: 0cm;">1</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 53.9pt; height: 11.35pt; background-color: transparent;">
 			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 53.9pt; height: 11.35pt; background-color: transparent;">
+			<p style="margin-right: 0cm; margin-left: 0cm;">(j)</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext; width: 86.95pt; height: 11.35pt; background-color: transparent;">
 			<p style="margin-right: 0cm; margin-left: 0cm;">Poa annua</p>
-
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 54.2pt; height: 11.35pt; background-color: transparent;">
+			<p style="margin-right: 0cm; margin-left: 0cm;">0,3</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 53.85pt; height: 11.35pt; background-color: transparent;">
+			<p style="margin-right: 0cm; margin-left: 0cm;">20(b)</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 53.8pt; height: 11.35pt; background-color: transparent;">
+			<p style="margin-right: 0cm; margin-left: 0cm;">1</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 53.9pt; height: 11.35pt; background-color: transparent;">
+			<p style="margin-right: 0cm; margin-left: 0cm;">1</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 53.9pt; height: 11.35pt; background-color: transparent;">
+			<p style="margin-right: 0cm; margin-left: 0cm;">1</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 53.9pt; height: 11.35pt; background-color: transparent;">
 			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 53.9pt; height: 11.35pt; background-color: transparent;">
+			<p style="margin-right: 0cm; margin-left: 0cm;">(f)(j)</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext; width: 86.95pt; height: 11.35pt; background-color: transparent;">
 			<p style="margin-right: 0cm; margin-left: 0cm;">Poa nemoralis</p>
-
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 54.2pt; height: 11.35pt; background-color: transparent;">
+			<p style="margin-right: 0cm; margin-left: 0cm;">0,3</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 53.85pt; height: 11.35pt; background-color: transparent;">
+			<p style="margin-right: 0cm; margin-left: 0cm;">20(b)</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 53.8pt; height: 11.35pt; background-color: transparent;">
+			<p style="margin-right: 0cm; margin-left: 0cm;">1</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 53.9pt; height: 11.35pt; background-color: transparent;">
+			<p style="margin-right: 0cm; margin-left: 0cm;">1</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 53.9pt; height: 11.35pt; background-color: transparent;">
+			<p style="margin-right: 0cm; margin-left: 0cm;">1</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 53.9pt; height: 11.35pt; background-color: transparent;">
 			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 53.9pt; height: 11.35pt; background-color: transparent;">
+			<p style="margin-right: 0cm; margin-left: 0cm;">(f)(j)</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext; width: 86.95pt; height: 11.35pt; background-color: transparent;">
 			<p style="margin-right: 0cm; margin-left: 0cm;">Poa palustris</p>
-
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 54.2pt; height: 11.35pt; background-color: transparent;">
+			<p style="margin-right: 0cm; margin-left: 0cm;">0,3</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 53.85pt; height: 11.35pt; background-color: transparent;">
+			<p style="margin-right: 0cm; margin-left: 0cm;">20(b)</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 53.8pt; height: 11.35pt; background-color: transparent;">
+			<p style="margin-right: 0cm; margin-left: 0cm;">1</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 53.9pt; height: 11.35pt; background-color: transparent;">
+			<p style="margin-right: 0cm; margin-left: 0cm;">1</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 53.9pt; height: 11.35pt; background-color: transparent;">
+			<p style="margin-right: 0cm; margin-left: 0cm;">1</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 53.9pt; height: 11.35pt; background-color: transparent;">
 			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 53.9pt; height: 11.35pt; background-color: transparent;">
+			<p style="margin-right: 0cm; margin-left: 0cm;">(f)(j)</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext; width: 86.95pt; height: 11.35pt; background-color: transparent;">
 			<p style="margin-right: 0cm; margin-left: 0cm;">Poa pratensis</p>
-
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 54.2pt; height: 11.35pt; background-color: transparent;">
+			<p style="margin-right: 0cm; margin-left: 0cm;">0,3</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 53.85pt; height: 11.35pt; background-color: transparent;">
+			<p style="margin-right: 0cm; margin-left: 0cm;">20(b)</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 53.8pt; height: 11.35pt; background-color: transparent;">
+			<p style="margin-right: 0cm; margin-left: 0cm;">1</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 53.9pt; height: 11.35pt; background-color: transparent;">
+			<p style="margin-right: 0cm; margin-left: 0cm;">1</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 53.9pt; height: 11.35pt; background-color: transparent;">
+			<p style="margin-right: 0cm; margin-left: 0cm;">1</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 53.9pt; height: 11.35pt; background-color: transparent;">
 			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 53.9pt; height: 11.35pt; background-color: transparent;">
+			<p style="margin-right: 0cm; margin-left: 0cm;">(f)(j)</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext; width: 86.95pt; height: 11.35pt; background-color: transparent;">
 			<p style="margin-right: 0cm; margin-left: 0cm;">Poa trivialis</p>
-
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 54.2pt; height: 11.35pt; background-color: transparent;">
+			<p style="margin-right: 0cm; margin-left: 0cm;">0,3</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 53.85pt; height: 11.35pt; background-color: transparent;">
+			<p style="margin-right: 0cm; margin-left: 0cm;">20(b)</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 53.8pt; height: 11.35pt; background-color: transparent;">
+			<p style="margin-right: 0cm; margin-left: 0cm;">1</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 53.9pt; height: 11.35pt; background-color: transparent;">
+			<p style="margin-right: 0cm; margin-left: 0cm;">1</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 53.9pt; height: 11.35pt; background-color: transparent;">
+			<p style="margin-right: 0cm; margin-left: 0cm;">1</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 53.9pt; height: 11.35pt; background-color: transparent;">
 			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 53.9pt; height: 11.35pt; background-color: transparent;">
+			<p style="margin-right: 0cm; margin-left: 0cm;">(f)(j)</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext; width: 86.95pt; height: 11.35pt; background-color: transparent;">
 			<p style="margin-right: 0cm; margin-left: 0cm;">Trisetum flavescens</p>
-
-			<p style="margin-right: 0cm; margin-left: 0cm;"><strong>&nbsp;</strong></p>
 			</td>
-			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 57.55pt; vertical-align: top; background-color: transparent;">
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">0,3</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">0,3</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">0,3</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">0,3</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">0,3</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">0,3</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">0,4</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">0,4</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">0,3</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">0,3</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">0,3</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">0,3</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">0,3</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">0,3</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">0,3</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">0,3</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">0,3</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">0,3</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">0,3</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">0,3</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">0,3</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">0,3</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">0,3</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">0,3</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">0,3</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">0,3</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">0,3</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 54.2pt; height: 11.35pt; background-color: transparent;">
+			<p style="margin-right: 0cm; margin-left: 0cm;">0,3</p>
 			</td>
-			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 57.55pt; vertical-align: top; background-color: transparent;">
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">20</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">20</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">20</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">20</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">20(a)</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">20(a)</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">20</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">20</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">20(a)</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">20(a)</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">20(a)</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">20(a)</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">20(a)</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">20(a)</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">20(a)</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">20(a)</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">20(a)</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">20(a)</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">20</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">20</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">20</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">20(b)</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">20(b)</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">20(b)</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">20(b)</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">20(b)</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">20©</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 53.85pt; height: 11.35pt; background-color: transparent;">
+			<p style="margin-right: 0cm; margin-left: 0cm;">20(c)</p>
 			</td>
-			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 57.55pt; vertical-align: top; background-color: transparent;">
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">1</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">1</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">1</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">1</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">2</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">2</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">5</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">5</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">1</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">2</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">2</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">2</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">2</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">2</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">2</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">2</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">2</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">2</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">2</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">2</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">2</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">1</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">1</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">1</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">1</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">1</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">1</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 53.8pt; height: 11.35pt; background-color: transparent;">
+			<p style="margin-right: 0cm; margin-left: 0cm;">1</p>
 			</td>
-			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 57.6pt; vertical-align: top; background-color: transparent;">
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">1</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">1</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">1</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">1</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">5</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">5</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">5</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">5</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">1</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">5</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">5</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">5</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">5</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">5</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">5</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">5</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">5</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">5</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">5</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">1</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">1</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">1</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">1</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">1</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">1</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">1</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">1</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 53.9pt; height: 11.35pt; background-color: transparent;">
+			<p style="margin-right: 0cm; margin-left: 0cm;">1</p>
 			</td>
-			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 57.6pt; vertical-align: top; background-color: transparent;">
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">1</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">1</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">1</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">1</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">5</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">5</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">5</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">5</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">1</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">5</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">5</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">5</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">5</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">5</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">5</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">5</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">5</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">5</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">5</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">1</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">1</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">1</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">1</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">1</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">1</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">1</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">1</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 53.9pt; height: 11.35pt; background-color: transparent;">
+			<p style="margin-right: 0cm; margin-left: 0cm;">1</p>
 			</td>
-			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 57.6pt; vertical-align: top; background-color: transparent;">
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 53.9pt; height: 11.35pt; background-color: transparent;">
+			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
 			</td>
-			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 57.6pt; vertical-align: top; background-color: transparent;">
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">(j)</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">(j)</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">(j)</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">(j)</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">(j)</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">(j)(j)</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">(j)</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">(j)</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">(j)</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">(j)</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">(j)</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">(j)</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">(j)</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">(j)</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">(j)</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">(j)</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">(j)</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">(j)</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">(j)</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">(j)</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">(j)</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">(f)(j)</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">(f)(j)</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">(f)(j)</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">(f)(j)</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">(f)(j)</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">(i)(j)</p>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 53.9pt; height: 11.35pt; background-color: transparent;">
+			<p style="margin-right: 0cm; margin-left: 0cm;">(f)(j)</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="border-color: rgb(240, 240, 240) windowtext windowtext; width: 57.55pt; vertical-align: top; background-color: transparent;">
-			<h1 style="margin-right: 0cm; margin-left: 0cm;">LEGUMINOSAE</h1>
-
-			<p style="margin-right: 0cm; margin-left: 0cm;">Hedysarium</p>
-
-			<p style="margin-right: 0cm; margin-left: 0cm;">coronarium</p>
-
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext; width: 86.95pt; height: 11.35pt; background-color: transparent;">
+			<p style="margin-right: 0cm; margin-left: 0cm;"><strong>LEGUMINOSAE</strong></p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 54.2pt; height: 11.35pt; background-color: transparent;">
 			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="margin-right: 0cm; margin-left: 0cm;">Lotus corniculatus</p>
-
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 53.85pt; height: 11.35pt; background-color: transparent;">
 			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 53.8pt; height: 11.35pt; background-color: transparent;">
+			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 53.9pt; height: 11.35pt; background-color: transparent;">
+			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 53.9pt; height: 11.35pt; background-color: transparent;">
+			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 53.9pt; height: 11.35pt; background-color: transparent;">
+			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 53.9pt; height: 11.35pt; background-color: transparent;">
+			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext; width: 86.95pt; height: 11.35pt; background-color: transparent;">
+			<p style="margin-right: 0cm; margin-left: 0cm;">Galega orientalis Lam.</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 54.2pt; height: 11.35pt; background-color: transparent;">
+			<p style="margin-right: 0cm; margin-left: 0cm;">0,3</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 53.85pt; height: 11.35pt; background-color: transparent;">
+			<p style="margin-right: 0cm; margin-left: 0cm;">20</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 53.8pt; height: 11.35pt; background-color: transparent;">
+			<p style="margin-right: 0cm; margin-left: 0cm;">2</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 53.9pt; height: 11.35pt; background-color: transparent;">
+			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 53.9pt; height: 11.35pt; background-color: transparent;">
+			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 53.9pt; height: 11.35pt; background-color: transparent;">
+			<p style="margin-right: 0cm; margin-left: 0cm;">(e)</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 53.9pt; height: 11.35pt; background-color: transparent;">
+			<p style="margin-right: 0cm; margin-left: 0cm;">(j)</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext; width: 86.95pt; height: 11.35pt; background-color: transparent;">
+			<p style="margin-right: 0cm; margin-left: 0cm;">Hedysarum oronarium</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 54.2pt; height: 11.35pt; background-color: transparent;">
+			<p style="margin-right: 0cm; margin-left: 0cm;">0,3</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 53.85pt; height: 11.35pt; background-color: transparent;">
+			<p style="margin-right: 0cm; margin-left: 0cm;">20</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 53.8pt; height: 11.35pt; background-color: transparent;">
+			<p style="margin-right: 0cm; margin-left: 0cm;">2</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 53.9pt; height: 11.35pt; background-color: transparent;">
+			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 53.9pt; height: 11.35pt; background-color: transparent;">
+			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 53.9pt; height: 11.35pt; background-color: transparent;">
+			<p style="margin-right: 0cm; margin-left: 0cm;">0(c)</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 53.9pt; height: 11.35pt; background-color: transparent;">
+			<p style="margin-right: 0cm; margin-left: 0cm;">(j)</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext; width: 86.95pt; height: 11.35pt; background-color: transparent;">
+			<p style="margin-right: 0cm; margin-left: 0cm;">Lotus corniculatis</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 54.2pt; height: 11.35pt; background-color: transparent;">
+			<p style="margin-right: 0cm; margin-left: 0cm;">0,3</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 53.85pt; height: 11.35pt; background-color: transparent;">
+			<p style="margin-right: 0cm; margin-left: 0cm;">20</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 53.8pt; height: 11.35pt; background-color: transparent;">
+			<p style="margin-right: 0cm; margin-left: 0cm;">3</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 53.9pt; height: 11.35pt; background-color: transparent;">
+			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 53.9pt; height: 11.35pt; background-color: transparent;">
+			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 53.9pt; height: 11.35pt; background-color: transparent;">
+			<p style="margin-right: 0cm; margin-left: 0cm;">0(c)</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 53.9pt; height: 11.35pt; background-color: transparent;">
+			<p style="margin-right: 0cm; margin-left: 0cm;">(g)(j)</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext; width: 86.95pt; height: 11.35pt; background-color: transparent;">
 			<p style="margin-right: 0cm; margin-left: 0cm;">Lupinus albus</p>
-
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="margin-right: 0cm; margin-left: 0cm;">Lupinus angustifolius</p>
-
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="margin-right: 0cm; margin-left: 0cm;">Lupinus luteus</p>
-
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="margin-right: 0cm; margin-left: 0cm;">Medicago lupulina</p>
-
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="margin-right: 0cm; margin-left: 0cm;">Madicago sativa</p>
-
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="margin-right: 0cm; margin-left: 0cm;">Medicago x varia</p>
-
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="margin-right: 0cm; margin-left: 0cm;">Onobrychis viciifolia</p>
-
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="margin-right: 0cm; margin-left: 0cm;">Pisum sativum</p>
-
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="margin-right: 0cm; margin-left: 0cm;">Trifolium alexandrinum</p>
-
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="margin-right: 0cm; margin-left: 0cm;">Trifolium hybridum</p>
-
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="margin-right: 0cm; margin-left: 0cm;">Trifolium incarnatum</p>
-
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="margin-right: 0cm; margin-left: 0cm;">Trifolium pratense</p>
-
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="margin-right: 0cm; margin-left: 0cm;">Trifolium repens</p>
-
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="margin-right: 0cm; margin-left: 0cm;">Trifolium resupinatum</p>
-
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="margin-right: 0cm; margin-left: 0cm;">Trigonella foenumgraecum</p>
-
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="margin-right: 0cm; margin-left: 0cm;">Vicia faba</p>
-
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="margin-right: 0cm; margin-left: 0cm;">Vicia pannonica</p>
-
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="margin-right: 0cm; margin-left: 0cm;">Vicia sativa</p>
-
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="margin-right: 0cm; margin-left: 0cm;">Vicia villosa</p>
-
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 54.2pt; height: 11.35pt; background-color: transparent;">
+			<p style="margin-right: 0cm; margin-left: 0cm;">0,3</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 53.85pt; height: 11.35pt; background-color: transparent;">
+			<p style="margin-right: 0cm; margin-left: 0cm;">20</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 53.8pt; height: 11.35pt; background-color: transparent;">
+			<p style="margin-right: 0cm; margin-left: 0cm;">2</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 53.9pt; height: 11.35pt; background-color: transparent;">
 			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
 			</td>
-			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 57.55pt; vertical-align: top; background-color: transparent;">
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">0,3</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">0,3</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">0,3</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">0,3</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">0,3</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">0,3</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">0,3</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">0,3</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">0,3</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">0,3</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">0,3</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">0,3</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">0,3</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">0,3</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">0,3</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">0,3</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">0,3</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">0,3</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">0,3</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">0,3</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">0,3</p>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 53.9pt; height: 11.35pt; background-color: transparent;">
+			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
 			</td>
-			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 57.55pt; vertical-align: top; background-color: transparent;">
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">20</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">20</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">20</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">20</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">20</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">20</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">20</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">20</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">20</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">20</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">20</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">20</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">20</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">20</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">20</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">20</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">20</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">20</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">20</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">20</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">20</p>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 53.9pt; height: 11.35pt; background-color: transparent;">
+			<p style="margin-right: 0cm; margin-left: 0cm;">0(d)</p>
 			</td>
-			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 57.55pt; vertical-align: top; background-color: transparent;">
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">2</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">3</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">2</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">2</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">2</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">5</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">3</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">3</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">2</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">2</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">3</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">3</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">3</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">5</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">5</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">3</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">2</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">2</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">2</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">2</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">2</p>
-			</td>
-			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 57.6pt; vertical-align: top; background-color: transparent;">
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-			</td>
-			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 57.6pt; vertical-align: top; background-color: transparent;">
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-			</td>
-			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 57.6pt; vertical-align: top; background-color: transparent;">
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">0©</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">0©</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">0(d)</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">0(d)</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">0(d)</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">0©</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">0©</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">0©</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">0(d)</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">0(d)</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">0©</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">0©</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">0©</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">0©</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">0©</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">0©</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">0(d)</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">0(d)</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">0(d)</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">0(d)</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">0(d)</p>
-			</td>
-			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 57.6pt; vertical-align: top; background-color: transparent;">
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">(j)</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">(g)(j)</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">(h)(k)</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">(h)(k)</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">(h)(k)</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">(j)</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">(j)</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">(j)</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">(j)</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">(j)</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">(j)</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">(j)</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">(j)</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">(j)</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">(h)</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">(h)</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">(h)</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 53.9pt; height: 11.35pt; background-color: transparent;">
+			<p style="margin-right: 0cm; margin-left: 0cm;">(h)(k)</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="border-color: rgb(240, 240, 240) windowtext windowtext; width: 57.55pt; vertical-align: top; background-color: transparent;">
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext; width: 86.95pt; height: 11.35pt; background-color: transparent;">
+			<p style="margin-right: 0cm; margin-left: 0cm;">Lupinus angustifolius</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 54.2pt; height: 11.35pt; background-color: transparent;">
+			<p style="margin-right: 0cm; margin-left: 0cm;">0,3</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 53.85pt; height: 11.35pt; background-color: transparent;">
+			<p style="margin-right: 0cm; margin-left: 0cm;">20</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 53.8pt; height: 11.35pt; background-color: transparent;">
+			<p style="margin-right: 0cm; margin-left: 0cm;">2</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 53.9pt; height: 11.35pt; background-color: transparent;">
+			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 53.9pt; height: 11.35pt; background-color: transparent;">
+			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 53.9pt; height: 11.35pt; background-color: transparent;">
+			<p style="margin-right: 0cm; margin-left: 0cm;">0(d)</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 53.9pt; height: 11.35pt; background-color: transparent;">
+			<p style="margin-right: 0cm; margin-left: 0cm;">(h)(k)</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext; width: 86.95pt; height: 11.35pt; background-color: transparent;">
+			<p style="margin-right: 0cm; margin-left: 0cm;">Lupinus luteus</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 54.2pt; height: 11.35pt; background-color: transparent;">
+			<p style="margin-right: 0cm; margin-left: 0cm;">0,3</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 53.85pt; height: 11.35pt; background-color: transparent;">
+			<p style="margin-right: 0cm; margin-left: 0cm;">20</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 53.8pt; height: 11.35pt; background-color: transparent;">
+			<p style="margin-right: 0cm; margin-left: 0cm;">2</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 53.9pt; height: 11.35pt; background-color: transparent;">
+			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 53.9pt; height: 11.35pt; background-color: transparent;">
+			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 53.9pt; height: 11.35pt; background-color: transparent;">
+			<p style="margin-right: 0cm; margin-left: 0cm;">0(d)</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 53.9pt; height: 11.35pt; background-color: transparent;">
+			<p style="margin-right: 0cm; margin-left: 0cm;">(h)(k)</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext; width: 86.95pt; height: 11.35pt; background-color: transparent;">
+			<p style="margin-right: 0cm; margin-left: 0cm;">Medicago lupulina</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 54.2pt; height: 11.35pt; background-color: transparent;">
+			<p style="margin-right: 0cm; margin-left: 0cm;">0,3</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 53.85pt; height: 11.35pt; background-color: transparent;">
+			<p style="margin-right: 0cm; margin-left: 0cm;">20</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 53.8pt; height: 11.35pt; background-color: transparent;">
+			<p style="margin-right: 0cm; margin-left: 0cm;">5</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 53.9pt; height: 11.35pt; background-color: transparent;">
+			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 53.9pt; height: 11.35pt; background-color: transparent;">
+			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 53.9pt; height: 11.35pt; background-color: transparent;">
+			<p style="margin-right: 0cm; margin-left: 0cm;">0(c)</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 53.9pt; height: 11.35pt; background-color: transparent;">
+			<p style="margin-right: 0cm; margin-left: 0cm;">(j)</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext; width: 86.95pt; height: 11.35pt; background-color: transparent;">
+			<p style="margin-right: 0cm; margin-left: 0cm;">Madicago sativa</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 54.2pt; height: 11.35pt; background-color: transparent;">
+			<p style="margin-right: 0cm; margin-left: 0cm;">0,3</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 53.85pt; height: 11.35pt; background-color: transparent;">
+			<p style="margin-right: 0cm; margin-left: 0cm;">20</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 53.8pt; height: 11.35pt; background-color: transparent;">
+			<p style="margin-right: 0cm; margin-left: 0cm;">3</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 53.9pt; height: 11.35pt; background-color: transparent;">
+			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 53.9pt; height: 11.35pt; background-color: transparent;">
+			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 53.9pt; height: 11.35pt; background-color: transparent;">
+			<p style="margin-right: 0cm; margin-left: 0cm;">0(c)</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 53.9pt; height: 11.35pt; background-color: transparent;">
+			<p style="margin-right: 0cm; margin-left: 0cm;">(j)</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext; width: 86.95pt; height: 11.35pt; background-color: transparent;">
+			<p style="margin-right: 0cm; margin-left: 0cm;">Medicago x varia</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 54.2pt; height: 11.35pt; background-color: transparent;">
+			<p style="margin-right: 0cm; margin-left: 0cm;">0,3</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 53.85pt; height: 11.35pt; background-color: transparent;">
+			<p style="margin-right: 0cm; margin-left: 0cm;">20</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 53.8pt; height: 11.35pt; background-color: transparent;">
+			<p style="margin-right: 0cm; margin-left: 0cm;">3</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 53.9pt; height: 11.35pt; background-color: transparent;">
+			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 53.9pt; height: 11.35pt; background-color: transparent;">
+			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 53.9pt; height: 11.35pt; background-color: transparent;">
+			<p style="margin-right: 0cm; margin-left: 0cm;">0(c)</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 53.9pt; height: 11.35pt; background-color: transparent;">
+			<p style="margin-right: 0cm; margin-left: 0cm;">(j)</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext; width: 86.95pt; height: 11.35pt; background-color: transparent;">
+			<p style="margin-right: 0cm; margin-left: 0cm;">Onobrychis viciifolia</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 54.2pt; height: 11.35pt; background-color: transparent;">
+			<p style="margin-right: 0cm; margin-left: 0cm;">0,3</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 53.85pt; height: 11.35pt; background-color: transparent;">
+			<p style="margin-right: 0cm; margin-left: 0cm;">20</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 53.8pt; height: 11.35pt; background-color: transparent;">
+			<p style="margin-right: 0cm; margin-left: 0cm;">2</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 53.9pt; height: 11.35pt; background-color: transparent;">
+			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 53.9pt; height: 11.35pt; background-color: transparent;">
+			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 53.9pt; height: 11.35pt; background-color: transparent;">
+			<p style="margin-right: 0cm; margin-left: 0cm;">0(d)</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 53.9pt; height: 11.35pt; background-color: transparent;">
+			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext; width: 86.95pt; height: 11.35pt; background-color: transparent;">
+			<p style="margin-right: 0cm; margin-left: 0cm;">Pisum sativum</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 54.2pt; height: 11.35pt; background-color: transparent;">
+			<p style="margin-right: 0cm; margin-left: 0cm;">0,3</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 53.85pt; height: 11.35pt; background-color: transparent;">
+			<p style="margin-right: 0cm; margin-left: 0cm;">20</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 53.8pt; height: 11.35pt; background-color: transparent;">
+			<p style="margin-right: 0cm; margin-left: 0cm;">2</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 53.9pt; height: 11.35pt; background-color: transparent;">
+			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 53.9pt; height: 11.35pt; background-color: transparent;">
+			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 53.9pt; height: 11.35pt; background-color: transparent;">
+			<p style="margin-right: 0cm; margin-left: 0cm;">0(d)</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 53.9pt; height: 11.35pt; background-color: transparent;">
+			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext; width: 86.95pt; height: 11.35pt; background-color: transparent;">
+			<p style="margin-right: 0cm; margin-left: 0cm;">Trifolium alexandrinum</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 54.2pt; height: 11.35pt; background-color: transparent;">
+			<p style="margin-right: 0cm; margin-left: 0cm;">0,3</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 53.85pt; height: 11.35pt; background-color: transparent;">
+			<p style="margin-right: 0cm; margin-left: 0cm;">20</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 53.8pt; height: 11.35pt; background-color: transparent;">
+			<p style="margin-right: 0cm; margin-left: 0cm;">3</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 53.9pt; height: 11.35pt; background-color: transparent;">
+			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 53.9pt; height: 11.35pt; background-color: transparent;">
+			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 53.9pt; height: 11.35pt; background-color: transparent;">
+			<p style="margin-right: 0cm; margin-left: 0cm;">0(c)</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 53.9pt; height: 11.35pt; background-color: transparent;">
+			<p style="margin-right: 0cm; margin-left: 0cm;">(j)</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext; width: 86.95pt; height: 11.35pt; background-color: transparent;">
+			<p style="margin-right: 0cm; margin-left: 0cm;">Trifolium hybridum</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 54.2pt; height: 11.35pt; background-color: transparent;">
+			<p style="margin-right: 0cm; margin-left: 0cm;">0,3</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 53.85pt; height: 11.35pt; background-color: transparent;">
+			<p style="margin-right: 0cm; margin-left: 0cm;">20</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 53.8pt; height: 11.35pt; background-color: transparent;">
+			<p style="margin-right: 0cm; margin-left: 0cm;">3</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 53.9pt; height: 11.35pt; background-color: transparent;">
+			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 53.9pt; height: 11.35pt; background-color: transparent;">
+			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 53.9pt; height: 11.35pt; background-color: transparent;">
+			<p style="margin-right: 0cm; margin-left: 0cm;">0(c)</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 53.9pt; height: 11.35pt; background-color: transparent;">
+			<p style="margin-right: 0cm; margin-left: 0cm;">(j)</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext; width: 86.95pt; height: 11.35pt; background-color: transparent;">
+			<p style="margin-right: 0cm; margin-left: 0cm;">Trifolium incarnatum</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 54.2pt; height: 11.35pt; background-color: transparent;">
+			<p style="margin-right: 0cm; margin-left: 0cm;">0,3</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 53.85pt; height: 11.35pt; background-color: transparent;">
+			<p style="margin-right: 0cm; margin-left: 0cm;">20</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 53.8pt; height: 11.35pt; background-color: transparent;">
+			<p style="margin-right: 0cm; margin-left: 0cm;">3</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 53.9pt; height: 11.35pt; background-color: transparent;">
+			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 53.9pt; height: 11.35pt; background-color: transparent;">
+			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 53.9pt; height: 11.35pt; background-color: transparent;">
+			<p style="margin-right: 0cm; margin-left: 0cm;">0(c)</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 53.9pt; height: 11.35pt; background-color: transparent;">
+			<p style="margin-right: 0cm; margin-left: 0cm;">(j)</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext; width: 86.95pt; height: 11.35pt; background-color: transparent;">
+			<p style="margin-right: 0cm; margin-left: 0cm;">Trifolium pratense</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 54.2pt; height: 11.35pt; background-color: transparent;">
+			<p style="margin-right: 0cm; margin-left: 0cm;">0,3</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 53.85pt; height: 11.35pt; background-color: transparent;">
+			<p style="margin-right: 0cm; margin-left: 0cm;">20</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 53.8pt; height: 11.35pt; background-color: transparent;">
+			<p style="margin-right: 0cm; margin-left: 0cm;">5</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 53.9pt; height: 11.35pt; background-color: transparent;">
+			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 53.9pt; height: 11.35pt; background-color: transparent;">
+			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 53.9pt; height: 11.35pt; background-color: transparent;">
+			<p style="margin-right: 0cm; margin-left: 0cm;">0(c)</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 53.9pt; height: 11.35pt; background-color: transparent;">
+			<p style="margin-right: 0cm; margin-left: 0cm;">(j)</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext; width: 86.95pt; height: 11.35pt; background-color: transparent;">
+			<p style="margin-right: 0cm; margin-left: 0cm;">Trifolium repens</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 54.2pt; height: 11.35pt; background-color: transparent;">
+			<p style="margin-right: 0cm; margin-left: 0cm;">0,3</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 53.85pt; height: 11.35pt; background-color: transparent;">
+			<p style="margin-right: 0cm; margin-left: 0cm;">20</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 53.8pt; height: 11.35pt; background-color: transparent;">
+			<p style="margin-right: 0cm; margin-left: 0cm;">5</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 53.9pt; height: 11.35pt; background-color: transparent;">
+			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 53.9pt; height: 11.35pt; background-color: transparent;">
+			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 53.9pt; height: 11.35pt; background-color: transparent;">
+			<p style="margin-right: 0cm; margin-left: 0cm;">0(c)</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 53.9pt; height: 11.35pt; background-color: transparent;">
+			<p style="margin-right: 0cm; margin-left: 0cm;">(j)</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext; width: 86.95pt; height: 11.35pt; background-color: transparent;">
+			<p style="margin-right: 0cm; margin-left: 0cm;">Trifolium resupinatum</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 54.2pt; height: 11.35pt; background-color: transparent;">
+			<p style="margin-right: 0cm; margin-left: 0cm;">0,3</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 53.85pt; height: 11.35pt; background-color: transparent;">
+			<p style="margin-right: 0cm; margin-left: 0cm;">20</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 53.8pt; height: 11.35pt; background-color: transparent;">
+			<p style="margin-right: 0cm; margin-left: 0cm;">3</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 53.9pt; height: 11.35pt; background-color: transparent;">
+			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 53.9pt; height: 11.35pt; background-color: transparent;">
+			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 53.9pt; height: 11.35pt; background-color: transparent;">
+			<p style="margin-right: 0cm; margin-left: 0cm;">0(c)</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 53.9pt; height: 11.35pt; background-color: transparent;">
+			<p style="margin-right: 0cm; margin-left: 0cm;">(j)</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext; width: 86.95pt; height: 11.35pt; background-color: transparent;">
+			<p style="margin-right: 0cm; margin-left: 0cm;">Trigonella foenumgraecum</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 54.2pt; height: 11.35pt; background-color: transparent;">
+			<p style="margin-right: 0cm; margin-left: 0cm;">0,3</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 53.85pt; height: 11.35pt; background-color: transparent;">
+			<p style="margin-right: 0cm; margin-left: 0cm;">20</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 53.8pt; height: 11.35pt; background-color: transparent;">
+			<p style="margin-right: 0cm; margin-left: 0cm;">2</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 53.9pt; height: 11.35pt; background-color: transparent;">
+			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 53.9pt; height: 11.35pt; background-color: transparent;">
+			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 53.9pt; height: 11.35pt; background-color: transparent;">
+			<p style="margin-right: 0cm; margin-left: 0cm;">0(d)</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 53.9pt; height: 11.35pt; background-color: transparent;">
+			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext; width: 86.95pt; height: 11.35pt; background-color: transparent;">
+			<p style="margin-right: 0cm; margin-left: 0cm;">Vicia faba</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 54.2pt; height: 11.35pt; background-color: transparent;">
+			<p style="margin-right: 0cm; margin-left: 0cm;">0,3</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 53.85pt; height: 11.35pt; background-color: transparent;">
+			<p style="margin-right: 0cm; margin-left: 0cm;">20</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 53.8pt; height: 11.35pt; background-color: transparent;">
+			<p style="margin-right: 0cm; margin-left: 0cm;">2</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 53.9pt; height: 11.35pt; background-color: transparent;">
+			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 53.9pt; height: 11.35pt; background-color: transparent;">
+			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 53.9pt; height: 11.35pt; background-color: transparent;">
+			<p style="margin-right: 0cm; margin-left: 0cm;">0(d)</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 53.9pt; height: 11.35pt; background-color: transparent;">
+			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext; width: 86.95pt; height: 11.35pt; background-color: transparent;">
+			<p style="margin-right: 0cm; margin-left: 0cm;">Vicia pannonica</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 54.2pt; height: 11.35pt; background-color: transparent;">
+			<p style="margin-right: 0cm; margin-left: 0cm;">0,3</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 53.85pt; height: 11.35pt; background-color: transparent;">
+			<p style="margin-right: 0cm; margin-left: 0cm;">20</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 53.8pt; height: 11.35pt; background-color: transparent;">
+			<p style="margin-right: 0cm; margin-left: 0cm;">2</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 53.9pt; height: 11.35pt; background-color: transparent;">
+			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 53.9pt; height: 11.35pt; background-color: transparent;">
+			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 53.9pt; height: 11.35pt; background-color: transparent;">
+			<p style="margin-right: 0cm; margin-left: 0cm;">0(d)</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 53.9pt; height: 11.35pt; background-color: transparent;">
+			<p style="margin-right: 0cm; margin-left: 0cm;">(h)</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext; width: 86.95pt; height: 11.35pt; background-color: transparent;">
+			<p style="margin-right: 0cm; margin-left: 0cm;">Vicia sativa</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 54.2pt; height: 11.35pt; background-color: transparent;">
+			<p style="margin-right: 0cm; margin-left: 0cm;">0,3</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 53.85pt; height: 11.35pt; background-color: transparent;">
+			<p style="margin-right: 0cm; margin-left: 0cm;">20</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 53.8pt; height: 11.35pt; background-color: transparent;">
+			<p style="margin-right: 0cm; margin-left: 0cm;">2</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 53.9pt; height: 11.35pt; background-color: transparent;">
+			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 53.9pt; height: 11.35pt; background-color: transparent;">
+			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 53.9pt; height: 11.35pt; background-color: transparent;">
+			<p style="margin-right: 0cm; margin-left: 0cm;">0(d)</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 53.9pt; height: 11.35pt; background-color: transparent;">
+			<p style="margin-right: 0cm; margin-left: 0cm;">(h)</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext; width: 86.95pt; height: 11.35pt; background-color: transparent;">
+			<p style="margin-right: 0cm; margin-left: 0cm;">Viia villosa</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 54.2pt; height: 11.35pt; background-color: transparent;">
+			<p style="margin-right: 0cm; margin-left: 0cm;">0,3</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 53.85pt; height: 11.35pt; background-color: transparent;">
+			<p style="margin-right: 0cm; margin-left: 0cm;">20</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 53.8pt; height: 11.35pt; background-color: transparent;">
+			<p style="margin-right: 0cm; margin-left: 0cm;">2</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 53.9pt; height: 11.35pt; background-color: transparent;">
+			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 53.9pt; height: 11.35pt; background-color: transparent;">
+			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 53.9pt; height: 11.35pt; background-color: transparent;">
+			<p style="margin-right: 0cm; margin-left: 0cm;">0(d)</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 53.9pt; height: 11.35pt; background-color: transparent;">
+			<p style="margin-right: 0cm; margin-left: 0cm;">(h)</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext; width: 86.95pt; height: 11.35pt; background-color: transparent;">
 			<p style="margin-right: 0cm; margin-left: 0cm;"><strong>ANDERE SOORTEN</strong></p>
-
-			<p style="margin-right: 0cm; margin-left: 0cm;">Brassica napus var. Napobrassica</p>
-
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 54.2pt; height: 11.35pt; background-color: transparent;">
 			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 53.85pt; height: 11.35pt; background-color: transparent;">
+			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 53.8pt; height: 11.35pt; background-color: transparent;">
+			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 53.9pt; height: 11.35pt; background-color: transparent;">
+			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 53.9pt; height: 11.35pt; background-color: transparent;">
+			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 53.9pt; height: 11.35pt; background-color: transparent;">
+			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 53.9pt; height: 11.35pt; background-color: transparent;">
+			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext; width: 86.95pt; height: 11.35pt; background-color: transparent;">
+			<p style="margin-right: 0cm; margin-left: 0cm;">Brassica napus var. napobrassica</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 54.2pt; height: 11.35pt; background-color: transparent;">
+			<p style="margin-right: 0cm; margin-left: 0cm;">0,3</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 53.85pt; height: 11.35pt; background-color: transparent;">
+			<p style="margin-right: 0cm; margin-left: 0cm;">20</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 53.8pt; height: 11.35pt; background-color: transparent;">
+			<p style="margin-right: 0cm; margin-left: 0cm;">2</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 53.9pt; height: 11.35pt; background-color: transparent;">
+			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 53.9pt; height: 11.35pt; background-color: transparent;">
+			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 53.9pt; height: 11.35pt; background-color: transparent;">
+			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 53.9pt; height: 11.35pt; background-color: transparent;">
+			<p style="margin-right: 0cm; margin-left: 0cm;">(j)</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext; width: 86.95pt; height: 11.35pt; background-color: transparent;">
 			<p style="margin-right: 0cm; margin-left: 0cm;">Brassica oleracea convar. Acephala</p>
-
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 54.2pt; height: 11.35pt; background-color: transparent;">
+			<p style="margin-right: 0cm; margin-left: 0cm;">0,3</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 53.85pt; height: 11.35pt; background-color: transparent;">
+			<p style="margin-right: 0cm; margin-left: 0cm;">20</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 53.8pt; height: 11.35pt; background-color: transparent;">
+			<p style="margin-right: 0cm; margin-left: 0cm;">3</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 53.9pt; height: 11.35pt; background-color: transparent;">
 			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 53.9pt; height: 11.35pt; background-color: transparent;">
+			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 53.9pt; height: 11.35pt; background-color: transparent;">
+			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 53.9pt; height: 11.35pt; background-color: transparent;">
+			<p style="margin-right: 0cm; margin-left: 0cm;">(j)</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext; width: 86.95pt; height: 11.35pt; background-color: transparent;">
 			<p style="margin-right: 0cm; margin-left: 0cm;">Phacelia tanacetifolia</p>
-
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 54.2pt; height: 11.35pt; background-color: transparent;">
+			<p style="margin-right: 0cm; margin-left: 0cm;">0,3</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 53.85pt; height: 11.35pt; background-color: transparent;">
+			<p style="margin-right: 0cm; margin-left: 0cm;">20</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 53.8pt; height: 11.35pt; background-color: transparent;">
+			<p style="margin-right: 0cm; margin-left: 0cm;">2</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 53.9pt; height: 11.35pt; background-color: transparent;">
 			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 53.9pt; height: 11.35pt; background-color: transparent;">
+			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 53.9pt; height: 11.35pt; background-color: transparent;">
+			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 53.9pt; height: 11.35pt; background-color: transparent;">
+			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext; width: 86.95pt; height: 11.35pt; background-color: transparent;">
 			<p style="margin-right: 0cm; margin-left: 0cm;">Raphanus sativus var. oleiformis</p>
 			</td>
-			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 57.55pt; vertical-align: top; background-color: transparent;">
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">0,3</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">0,3</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">0,3</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">0,3</p>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 54.2pt; height: 11.35pt; background-color: transparent;">
+			<p style="margin-right: 0cm; margin-left: 0cm;">0,3</p>
 			</td>
-			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 57.55pt; vertical-align: top; background-color: transparent;">
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">20</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">20</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">20</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">20</p>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 53.85pt; height: 11.35pt; background-color: transparent;">
+			<p style="margin-right: 0cm; margin-left: 0cm;">20</p>
 			</td>
-			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 57.55pt; vertical-align: top; background-color: transparent;">
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">2</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">3</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">2</p>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 53.8pt; height: 11.35pt; background-color: transparent;">
+			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
 			</td>
-			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 57.6pt; vertical-align: top; background-color: transparent;">
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 53.9pt; height: 11.35pt; background-color: transparent;">
+			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
 			</td>
-			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 57.6pt; vertical-align: top; background-color: transparent;">
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 53.9pt; height: 11.35pt; background-color: transparent;">
+			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
 			</td>
-			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 57.6pt; vertical-align: top; background-color: transparent;">
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 53.9pt; height: 11.35pt; background-color: transparent;">
+			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
 			</td>
-			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 57.6pt; vertical-align: top; background-color: transparent;">
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">(j)</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">(j)</p>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 53.9pt; height: 11.35pt; background-color: transparent;">
+			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
 			</td>
 		</tr>
 	</tbody>
@@ -5869,27 +5840,16 @@ A. tabel<br>
 <p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
 
 <p>B. normen of andere voorwaarden waaraan moet worden voldaan wanneer daarnaar wordt verwezen in de onder punt II, 2, A, van deze bijlage opgenomen tabel:<br>
-<br>
 a) De aanwezigheid van maximaal 80 zaden van Poa-soorten geldt niet als onzuiverheid.<br>
-<br>
 b) De in kolom 3 vastgestelde eis is niet van toepassing op zaaizaad van Poa-soorten. Het totale maximale aantal van de andere Poa-soorten dan de soort die onderzocht wordt mag niet meer dan 1 bedragen, in een monster van 500 zaden.<br>
-<br>
 c) De aanwezigheid van maximaal 20 zaden van Poa-soorten geldt niet als onzuiverheid.<br>
-<br>
 d) Het aantal zaden van Melilotus-soorten wordt slechts bepaald indien er twijfel over bestaat of aan de in kolom 7 vastgestelde eisen is voldaan.<br>
-<br>
 e) De aanwezigheid van één zaad van Melilotus-soorten, in een monster van de voorgeschreven grootte, geldt niet als onzuiverheid indien een tweede monster van tweemaal de voorgeschreven grootte volledig vrij is van zaden van Melilotus-soorten.<br>
-<br>
 f) Voorwaarde c), in punt 2, B van deel I, van deze bijlage, is niet van toepassing.<br>
-<br>
 g) Voorwaarde d), in punt 2, B van deel I, van deze bijlage, is niet van toepassing.<br>
-<br>
 h) Voorwaarde e), in punt 2, B van deel I, van deze bijlage, is niet van toepassing.<br>
-<br>
 i) Voorwaarde f), in punt 2, B van deel I, van deze bijlage, is niet van toepassing.<br>
-<br>
 j) De voorwaarden k) en m), in punt 2, B van deel I, van deze bijlage, zijn niet van toepassing.<br>
-<br>
 k) Het percentage van het aantal zaden van bitterstofhoudende lupinen in andere dan mag niet meer bedragen dan 1.<br>
 <br>
 III. Handelszaad.<br>
@@ -5907,13 +5867,9 @@ Voor handelszaad, gelden de voorwaarden van deel I, punt 2 en punt 3, van deze b
 5. Voorwaarde d), ten aanzien van Lotus corniculatus, in punt 2 van deel I, van deze bijlage, is niet van toepassing.<br>
 <br>
 6. Voor Lupinus-soorten:<br>
-<br>
 a) bedraagt de minimum mechanische zuiverheid 97 gewichtspercenten;<br>
-<br>
 b) mag het percentage van het aantal lupinezaden van een andere kleur niet meer bedragen dan:<br>
-<br>
 1) 4, in bitterstofhoudende lupinen;<br>
-<br>
 2) 2, in andere dan bitterstofhoudende lupinen.<br>
 <br>
 7. Voor Vicia spp., geldt een gewichtspercentage van maximaal 6 aan zaden van Vicia pannonica, Vicia villosa of aanverwante cultuursoorten in één van de andere genoemde soorten niet als onzuiverheid.<br>
@@ -5922,699 +5878,882 @@ b) mag het percentage van het aantal lupinezaden van een andere kleur niet meer 
 
 ### BIJLAGE III.
 
-<p><!--[if gte mso 9]><xml><br> <o:DocumentProperties><br>  <o:Author>Johan</o:Author><br>  <o:Template>Normal</o:Template><br>  <o:LastAuthor>Deschrma</o:LastAuthor><br>  <o:Revision>2</o:Revision><br>  <o:TotalTime>30</o:TotalTime><br>  <o:Created>2007-04-11T08:41:00Z</o:Created><br>  <o:LastSaved>2007-04-11T08:41:00Z</o:LastSaved><br>  <o:Pages>1</o:Pages><br>  <o:Words>293</o:Words><br>  <o:Characters>1613</o:Characters><br>  <o:Company>JOHAN</o:Company><br>  <o:Lines>13</o:Lines><br>  <o:Paragraphs>3</o:Paragraphs><br>  <o:CharactersWithSpaces>1903</o:CharactersWithSpaces><br>  <o:Version>11.6408</o:Version><br> </o:DocumentProperties><br></xml><![endif]--><!--[if gte mso 9]><xml><br> <w:WordDocument><br>  <w:HyphenationZone>21</w:HyphenationZone><br>  <w:ValidateAgainstSchemas></w:ValidateAgainstSchemas><br>  <w:SaveIfXMLInvalid>false</w:SaveIfXMLInvalid><br>  <w:IgnoreMixedContent>false</w:IgnoreMixedContent><br>  <w:AlwaysShowPlaceholderText>false</w:AlwaysShowPlaceholderText><br>  <w:Compatibility><br>   <w:SelectEntireFieldWithStartOrEnd></w:SelectEntireFieldWithStartOrEnd><br>   <w:UseWord2002TableStyleRules></w:UseWord2002TableStyleRules><br>  </w:Compatibility><br>  <w:BrowserLevel>MicrosoftInternetExplorer4</w:BrowserLevel><br> </w:WordDocument><br></xml><![endif]--><!--[if gte mso 9]><xml><br> <w:LatentStyles DefLockedState="e;false"e; LatentStyleCount="e;156"e;><br> </w:LatentStyles><br></xml><![endif]--><!--[if gte mso 10]><br><style><br> /* Style Definitions */<br> table.MsoNormalTable<br>	&lftaco;mso-style-name:Standaardtabel;<br>	mso-tstyle-rowband-size:0;<br>	mso-tstyle-colband-size:0;<br>	mso-style-noshow:yes;<br>	mso-style-parent:"e;"e;;<br>	mso-padding-alt:0cm 5.4pt 0cm 5.4pt;<br>	mso-para-margin:0cm;<br>	mso-para-margin-bottom:.0001pt;<br>	mso-pagination:widow-orphan;<br>	font-size:10.0pt;<br>	font-family:"e;Times New Roman"e;;<br>	mso-ansi-language:#0400;<br>	mso-fareast-language:#0400;<br>	mso-bidi-language:#0400;&rgtaco;<br></style><br><![endif]--></p>
-
-<table class="MsoNormalTable" style="border: currentColor; border-image: none; border-collapse: collapse; mso-yfti-tbllook: 1184; mso-padding-alt: 0cm 3.5pt 0cm 3.5pt; mso-border-alt: solid windowtext .5pt; mso-border-insideh: .5pt solid windowtext; mso-border-insidev: .5pt solid windowtext;" border="1" cellspacing="0" cellpadding="0">
+<br>
+<!--[if gte mso 9]><xml><br> <o:DocumentProperties><br>  <o:Author>Martine</o:Author><br>  <o:Template>Normal</o:Template><br>  <o:LastAuthor>decockge</o:LastAuthor><br>  <o:Revision>2</o:Revision><br>  <o:TotalTime>13</o:TotalTime><br>  <o:Created>2008-10-15T11:20:00Z</o:Created><br>  <o:LastSaved>2008-10-15T11:20:00Z</o:LastSaved><br>  <o:Pages>1</o:Pages><br>  <o:Words>305</o:Words><br>  <o:Characters>1683</o:Characters><br>  <o:Company>MVG</o:Company><br>  <o:Lines>14</o:Lines><br>  <o:Paragraphs>3</o:Paragraphs><br>  <o:CharactersWithSpaces>1985</o:CharactersWithSpaces><br>  <o:Version>11.8132</o:Version><br> </o:DocumentProperties><br></xml><![endif]--><!--[if gte mso 9]><xml><br> <w:WordDocument><br>  <w:SpellingState>Clean</w:SpellingState><br>  <w:GrammarState>Clean</w:GrammarState><br>  <w:HyphenationZone>21</w:HyphenationZone><br>  <w:PunctuationKerning></w:PunctuationKerning><br>  <w:ValidateAgainstSchemas></w:ValidateAgainstSchemas><br>  <w:SaveIfXMLInvalid>false</w:SaveIfXMLInvalid><br>  <w:IgnoreMixedContent>false</w:IgnoreMixedContent><br>  <w:AlwaysShowPlaceholderText>false</w:AlwaysShowPlaceholderText><br>  <w:Compatibility><br>   <w:BreakWrappedTables></w:BreakWrappedTables><br>   <w:SnapToGridInCell></w:SnapToGridInCell><br>   <w:WrapTextWithPunct></w:WrapTextWithPunct><br>   <w:UseAsianBreakRules></w:UseAsianBreakRules><br>   <w:DontGrowAutofit></w:DontGrowAutofit><br>  </w:Compatibility><br>  <w:BrowserLevel>MicrosoftInternetExplorer4</w:BrowserLevel><br> </w:WordDocument><br></xml><![endif]--><!--[if gte mso 9]><xml><br> <w:LatentStyles DefLockedState="e;false"e; LatentStyleCount="e;156"e;><br> </w:LatentStyles><br></xml><![endif]--><!--[if !mso]><![endif]--><!--[if gte mso 10]><br><style><br> /* Style Definitions */<br> table.MsoNormalTable<br>	&lftaco;mso-style-name:Standaardtabel;<br>	mso-tstyle-rowband-size:0;<br>	mso-tstyle-colband-size:0;<br>	mso-style-noshow:yes;<br>	mso-style-parent:"e;"e;;<br>	mso-padding-alt:0cm 5.4pt 0cm 5.4pt;<br>	mso-para-margin:0cm;<br>	mso-para-margin-bottom:.0001pt;<br>	mso-pagination:widow-orphan;<br>	font-size:10.0pt;<br>	font-family:"e;Times New Roman"e;;<br>	mso-ansi-language:#0400;<br>	mso-fareast-language:#0400;<br>	mso-bidi-language:#0400;&rgtaco;<br>table.MsoTableGrid<br>	&lftaco;mso-style-name:Tabelraster;<br>	mso-tstyle-rowband-size:0;<br>	mso-tstyle-colband-size:0;<br>	border:solid windowtext 1.0pt;<br>	mso-border-alt:solid windowtext .5pt;<br>	mso-padding-alt:0cm 5.4pt 0cm 5.4pt;<br>	mso-border-insideh:.5pt solid windowtext;<br>	mso-border-insidev:.5pt solid windowtext;<br>	mso-para-margin:0cm;<br>	mso-para-margin-bottom:.0001pt;<br>	mso-pagination:widow-orphan;<br>	font-size:10.0pt;<br>	font-family:"e;Times New Roman"e;;<br>	mso-ansi-language:#0400;<br>	mso-fareast-language:#0400;<br>	mso-bidi-language:#0400;&rgtaco;<br></style><br><![endif]--><!--[if gte mso 9]><xml><br> <o:shapedefaults v:ext="e;edit"e; spidmax="e;2050"e;></o:shapedefaults><br></xml><![endif]--><!--[if gte mso 9]><xml><br> <o:shapelayout v:ext="e;edit"e;><br>  <o:idmap v:ext="e;edit"e; data="e;1"e;></o:idmap><br> </o:shapelayout></xml><![endif]-->
+<table class="MsoTableGrid" style="border: currentColor; border-image: none; border-collapse: collapse; mso-yfti-tbllook: 480; mso-padding-alt: 0cm 5.4pt 0cm 5.4pt; mso-border-alt: solid windowtext .5pt;" border="1" cellspacing="0" cellpadding="0">
 	<tbody>
 		<tr>
-			<td style="width: 138.5pt; vertical-align: top; background-color: transparent;">
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">Soorten</p>
+			<td style="width: 115.15pt; height: 11.35pt; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">Soorten<!--?xml:namespace prefix =         o ns = "urn:schemas-microsoft-com:office:office"       /--></p>
 			</td>
-			<td style="border-color: windowtext windowtext windowtext rgb(240, 240, 240); width: 108pt; vertical-align: top; background-color: transparent;">
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">Maximumgewicht van een partij (in tonnen)</p>
+			<td style="border-color: windowtext windowtext windowtext rgb(240, 240, 240); width: 115.15pt; height: 11.35pt; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">Maximum gewicht van een partij (in tonnen)</p>
 			</td>
-			<td style="border-color: windowtext windowtext windowtext rgb(240, 240, 240); width: 98.95pt; vertical-align: top; background-color: transparent;">
+			<td style="border-color: windowtext windowtext windowtext rgb(240, 240, 240); width: 115.15pt; height: 11.35pt; background-color: transparent;">
 			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">Minimumgewicht van een monster van een partij (in grammen)</p>
 			</td>
-			<td style="border-color: windowtext windowtext windowtext rgb(240, 240, 240); width: 115.15pt; vertical-align: top; background-color: transparent;">
-			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">Gewicht van het monster voor de bepaling van aantallen, als voorzien in bijlage II, I,.2,A, kolommen 12 tot 14 en in bijlage II, II, 2, A, kolommen 3 tot 7 (in grammen)</p>
+			<td style="border-color: windowtext windowtext windowtext rgb(240, 240, 240); width: 115.15pt; height: 11.35pt; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">Gewicht van het monster voor de bepaling van aantallen, als voorzien in bijlage II, I, <!--?xml:namespace         prefix = st1 ns = "urn:schemas-microsoft-com:office:smarttags"         /-->2, A, kolommen 12 tot 14 en in bijlage II, II, 2, A, kolommen 3 tot 7 (in grammen)</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="border-color: rgb(240, 240, 240) windowtext windowtext; width: 138.5pt; vertical-align: top; background-color: transparent;">
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext; width: 115.15pt; height: 11.35pt; background-color: transparent;">
 			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">1</p>
 			</td>
-			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 108pt; vertical-align: top; background-color: transparent;">
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 115.15pt; height: 11.35pt; background-color: transparent;">
 			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">2</p>
 			</td>
-			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 98.95pt; vertical-align: top; background-color: transparent;">
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 115.15pt; height: 11.35pt; background-color: transparent;">
 			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">3</p>
 			</td>
-			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 115.15pt; vertical-align: top; background-color: transparent;">
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 115.15pt; height: 11.35pt; background-color: transparent;">
 			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">4</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="border-color: rgb(240, 240, 240) windowtext windowtext; width: 138.5pt; vertical-align: top; background-color: transparent;">
-			<h1 style="margin-right: 0cm; margin-left: 0cm;">GRAMINEAE</h1>
-
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext; width: 115.15pt; height: 11.35pt; background-color: transparent;">
+			<p style="margin-right: 0cm; margin-left: 0cm;"><strong>GRAMINAE</strong></p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 115.15pt; height: 11.35pt; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 115.15pt; height: 11.35pt; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 115.15pt; height: 11.35pt; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext; width: 115.15pt; height: 11.35pt; background-color: transparent;">
 			<p style="margin-right: 0cm; margin-left: 0cm;">Agrostis canina</p>
-
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 115.15pt; height: 11.35pt; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">10</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 115.15pt; height: 11.35pt; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">50</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 115.15pt; height: 11.35pt; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">5</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext; width: 115.15pt; height: 11.35pt; background-color: transparent;">
 			<p style="margin-right: 0cm; margin-left: 0cm;">Agrostis capillaris</p>
-
-			<p style="margin-right: 0cm; margin-left: 0cm;">Agristis gigantea</p>
-
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 115.15pt; height: 11.35pt; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">10</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 115.15pt; height: 11.35pt; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">50</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 115.15pt; height: 11.35pt; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">5</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext; width: 115.15pt; height: 11.35pt; background-color: transparent;">
+			<p style="margin-right: 0cm; margin-left: 0cm;">Agrostis gigantea</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 115.15pt; height: 11.35pt; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">10</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 115.15pt; height: 11.35pt; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">50</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 115.15pt; height: 11.35pt; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">5</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext; width: 115.15pt; height: 11.35pt; background-color: transparent;">
 			<p style="margin-right: 0cm; margin-left: 0cm;">Agrostis stolonifera</p>
-
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 115.15pt; height: 11.35pt; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">10</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 115.15pt; height: 11.35pt; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">50</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 115.15pt; height: 11.35pt; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">5</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext; width: 115.15pt; height: 11.35pt; background-color: transparent;">
 			<p style="margin-right: 0cm; margin-left: 0cm;">Alopecurus pratensis</p>
-
-			<p style="margin-right: 0cm; margin-left: 0cm;">Arrhenatherum elatius</p>
-
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 115.15pt; height: 11.35pt; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">10</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 115.15pt; height: 11.35pt; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">100</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 115.15pt; height: 11.35pt; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">30</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext; width: 115.15pt; height: 11.35pt; background-color: transparent;">
+			<p style="margin-right: 0cm; margin-left: 0cm;">Arrhenaltherum elatius</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 115.15pt; height: 11.35pt; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">10</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 115.15pt; height: 11.35pt; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">200</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 115.15pt; height: 11.35pt; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">80</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext; width: 115.15pt; height: 11.35pt; background-color: transparent;">
 			<p style="margin-right: 0cm; margin-left: 0cm;">Bromus catharticus</p>
-
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 115.15pt; height: 11.35pt; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">10</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 115.15pt; height: 11.35pt; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">200</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 115.15pt; height: 11.35pt; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">200</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext; width: 115.15pt; height: 11.35pt; background-color: transparent;">
 			<p style="margin-right: 0cm; margin-left: 0cm;">Bromus sitchensis</p>
-
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 115.15pt; height: 11.35pt; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">10</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 115.15pt; height: 11.35pt; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">200</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 115.15pt; height: 11.35pt; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">200</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext; width: 115.15pt; height: 11.35pt; background-color: transparent;">
 			<p style="margin-right: 0cm; margin-left: 0cm;">Cynodon dactylon</p>
-
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 115.15pt; height: 11.35pt; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">10</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 115.15pt; height: 11.35pt; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">50</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 115.15pt; height: 11.35pt; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">5</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext; width: 115.15pt; height: 11.35pt; background-color: transparent;">
 			<p style="margin-right: 0cm; margin-left: 0cm;">Dactylis glomerata</p>
-
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 115.15pt; height: 11.35pt; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">10</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 115.15pt; height: 11.35pt; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">100</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 115.15pt; height: 11.35pt; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">30</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext; width: 115.15pt; height: 11.35pt; background-color: transparent;">
 			<p style="margin-right: 0cm; margin-left: 0cm;">Festuca arundinacea</p>
-
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 115.15pt; height: 11.35pt; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">10</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 115.15pt; height: 11.35pt; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">100</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 115.15pt; height: 11.35pt; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">50</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext; width: 115.15pt; height: 11.35pt; background-color: transparent;">
 			<p style="margin-right: 0cm; margin-left: 0cm;">Festuca ovina</p>
-
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 115.15pt; height: 11.35pt; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">10</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 115.15pt; height: 11.35pt; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">100</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 115.15pt; height: 11.35pt; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">30</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext; width: 115.15pt; height: 11.35pt; background-color: transparent;">
 			<p style="margin-right: 0cm; margin-left: 0cm;">Festuca pratensis</p>
-
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 115.15pt; height: 11.35pt; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">10</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 115.15pt; height: 11.35pt; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">100</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 115.15pt; height: 11.35pt; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">50</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext; width: 115.15pt; height: 11.35pt; background-color: transparent;">
 			<p style="margin-right: 0cm; margin-left: 0cm;">Festuca rubra</p>
-
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 115.15pt; height: 11.35pt; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">10</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 115.15pt; height: 11.35pt; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">100</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 115.15pt; height: 11.35pt; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">30</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext; width: 115.15pt; height: 11.35pt; background-color: transparent;">
 			<p style="margin-right: 0cm; margin-left: 0cm;">X Festulolium</p>
-
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 115.15pt; height: 11.35pt; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">10</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 115.15pt; height: 11.35pt; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">200</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 115.15pt; height: 11.35pt; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">60</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext; width: 115.15pt; height: 11.35pt; background-color: transparent;">
 			<p style="margin-right: 0cm; margin-left: 0cm;">Lolium multiflorum</p>
-
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 115.15pt; height: 11.35pt; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">10</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 115.15pt; height: 11.35pt; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">200</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 115.15pt; height: 11.35pt; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">60</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext; width: 115.15pt; height: 11.35pt; background-color: transparent;">
 			<p style="margin-right: 0cm; margin-left: 0cm;">Lolium perenne</p>
-
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 115.15pt; height: 11.35pt; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">10</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 115.15pt; height: 11.35pt; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">200</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 115.15pt; height: 11.35pt; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">60</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext; width: 115.15pt; height: 11.35pt; background-color: transparent;">
 			<p style="margin-right: 0cm; margin-left: 0cm;">Lolium x boucheanum</p>
-
-			<p style="margin-right: 0cm; margin-left: 0cm;">Phalaris aquatica</p>
-
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 115.15pt; height: 11.35pt; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">10</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 115.15pt; height: 11.35pt; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">200</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 115.15pt; height: 11.35pt; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">60</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext; width: 115.15pt; height: 11.35pt; background-color: transparent;">
+			<p style="margin-right: 0cm; margin-left: 0cm;">Phalaris aquatica L.</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 115.15pt; height: 11.35pt; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">10</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 115.15pt; height: 11.35pt; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">100</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 115.15pt; height: 11.35pt; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">50</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext; width: 115.15pt; height: 11.35pt; background-color: transparent;">
 			<p style="margin-right: 0cm; margin-left: 0cm;">Phleum bertolonii</p>
-
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 115.15pt; height: 11.35pt; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">10</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 115.15pt; height: 11.35pt; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">50</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 115.15pt; height: 11.35pt; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">10</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext; width: 115.15pt; height: 11.35pt; background-color: transparent;">
 			<p style="margin-right: 0cm; margin-left: 0cm;">Phleum pratense</p>
-
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 115.15pt; height: 11.35pt; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">10</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 115.15pt; height: 11.35pt; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">50</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 115.15pt; height: 11.35pt; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">10</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext; width: 115.15pt; height: 11.35pt; background-color: transparent;">
 			<p style="margin-right: 0cm; margin-left: 0cm;">Poa annua</p>
-
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 115.15pt; height: 11.35pt; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">10</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 115.15pt; height: 11.35pt; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">50</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 115.15pt; height: 11.35pt; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">10</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext; width: 115.15pt; height: 11.35pt; background-color: transparent;">
 			<p style="margin-right: 0cm; margin-left: 0cm;">Poa nemoralis</p>
-
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 115.15pt; height: 11.35pt; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">10</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 115.15pt; height: 11.35pt; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">50</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 115.15pt; height: 11.35pt; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">5</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext; width: 115.15pt; height: 11.35pt; background-color: transparent;">
 			<p style="margin-right: 0cm; margin-left: 0cm;">Poa palustris</p>
-
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 115.15pt; height: 11.35pt; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">10</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 115.15pt; height: 11.35pt; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">50</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 115.15pt; height: 11.35pt; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">5</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext; width: 115.15pt; height: 11.35pt; background-color: transparent;">
 			<p style="margin-right: 0cm; margin-left: 0cm;">Poa pratensis</p>
-
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 115.15pt; height: 11.35pt; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">10</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 115.15pt; height: 11.35pt; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">50</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 115.15pt; height: 11.35pt; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">5</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext; width: 115.15pt; height: 11.35pt; background-color: transparent;">
 			<p style="margin-right: 0cm; margin-left: 0cm;">Poa trivialis</p>
-
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 115.15pt; height: 11.35pt; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">10</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 115.15pt; height: 11.35pt; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">50</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 115.15pt; height: 11.35pt; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">5</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext; width: 115.15pt; height: 11.35pt; background-color: transparent;">
 			<p style="margin-right: 0cm; margin-left: 0cm;">Trisetum flavescens</p>
-
-			<p style="margin-right: 0cm; margin-left: 0cm;"><strong>LEGUMINOSAE&nbsp;:</strong></p>
-
-			<p style="margin-right: 0cm; margin-left: 0cm;">Hedysarum Coronarium&nbsp;:</p>
-
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 115.15pt; height: 11.35pt; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">10</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 115.15pt; height: 11.35pt; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">50</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 115.15pt; height: 11.35pt; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">5</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext; width: 115.15pt; height: 11.35pt; background-color: transparent;">
+			<p style="margin-right: 0cm; margin-left: 0cm;"><strong>LEGUMINOSAE</strong></p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 115.15pt; height: 11.35pt; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 115.15pt; height: 11.35pt; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 115.15pt; height: 11.35pt; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext; width: 115.15pt; height: 11.35pt; background-color: transparent;">
+			<p style="margin-right: 0cm; margin-left: 0cm;">Galega orientalis Lam.</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 115.15pt; height: 11.35pt; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">10</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 115.15pt; height: 11.35pt; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">250</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 115.15pt; height: 11.35pt; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">200</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext; width: 115.15pt; height: 11.35pt; background-color: transparent;">
+			<p style="margin-right: 0cm; margin-left: 0cm;">Hedysarum Coronarium</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 115.15pt; height: 11.35pt; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 115.15pt; height: 11.35pt; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 115.15pt; height: 11.35pt; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext; width: 115.15pt; height: 11.35pt; background-color: transparent;">
 			<p style="margin-right: 0cm; margin-left: 0cm;">- vrucht</p>
-
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 115.15pt; height: 11.35pt; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">10</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 115.15pt; height: 11.35pt; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">1000</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 115.15pt; height: 11.35pt; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">300</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext; width: 115.15pt; height: 11.35pt; background-color: transparent;">
 			<p style="margin-right: 0cm; margin-left: 0cm;">- zaad</p>
-
-			<p style="margin-right: 0cm; margin-left: 0cm;">Lotus corniculatus</p>
-
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 115.15pt; height: 11.35pt; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">10</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 115.15pt; height: 11.35pt; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">400</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 115.15pt; height: 11.35pt; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">120</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext; width: 115.15pt; height: 11.35pt; background-color: transparent;">
+			<p style="margin-right: 0cm; margin-left: 0cm;">Lotus corniculatis</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 115.15pt; height: 11.35pt; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">10</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 115.15pt; height: 11.35pt; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">200</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 115.15pt; height: 11.35pt; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">30</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext; width: 115.15pt; height: 11.35pt; background-color: transparent;">
 			<p style="margin-right: 0cm; margin-left: 0cm;">Lupinus albus</p>
-
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 115.15pt; height: 11.35pt; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">25</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 115.15pt; height: 11.35pt; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">1000</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 115.15pt; height: 11.35pt; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">1000</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext; width: 115.15pt; height: 11.35pt; background-color: transparent;">
 			<p style="margin-right: 0cm; margin-left: 0cm;">Lupinus angustifolius</p>
-
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 115.15pt; height: 11.35pt; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">25</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 115.15pt; height: 11.35pt; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">1000</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 115.15pt; height: 11.35pt; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">1000</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext; width: 115.15pt; height: 11.35pt; background-color: transparent;">
 			<p style="margin-right: 0cm; margin-left: 0cm;">Lupinus luteus</p>
-
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 115.15pt; height: 11.35pt; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">25</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 115.15pt; height: 11.35pt; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">1000</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 115.15pt; height: 11.35pt; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">1000</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext; width: 115.15pt; height: 11.35pt; background-color: transparent;">
 			<p style="margin-right: 0cm; margin-left: 0cm;">Medicago lupulina</p>
-
-			<p style="margin-right: 0cm; margin-left: 0cm;">Medicago sativa</p>
-
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 115.15pt; height: 11.35pt; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">10</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 115.15pt; height: 11.35pt; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">300</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 115.15pt; height: 11.35pt; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">50</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext; width: 115.15pt; height: 11.35pt; background-color: transparent;">
+			<p style="margin-right: 0cm; margin-left: 0cm;">Madicago sativa</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 115.15pt; height: 11.35pt; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">10</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 115.15pt; height: 11.35pt; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">300</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 115.15pt; height: 11.35pt; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">50</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext; width: 115.15pt; height: 11.35pt; background-color: transparent;">
 			<p style="margin-right: 0cm; margin-left: 0cm;">Medicago x varia</p>
-
-			<p style="margin-right: 0cm; margin-left: 0cm;">Onobrychis viciifolia:</p>
-
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 115.15pt; height: 11.35pt; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">10</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 115.15pt; height: 11.35pt; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">300</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 115.15pt; height: 11.35pt; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">50</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext; width: 115.15pt; height: 11.35pt; background-color: transparent;">
+			<p style="margin-right: 0cm; margin-left: 0cm;">Onobrychis viciifolia</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 115.15pt; height: 11.35pt; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 115.15pt; height: 11.35pt; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 115.15pt; height: 11.35pt; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext; width: 115.15pt; height: 11.35pt; background-color: transparent;">
 			<p style="margin-right: 0cm; margin-left: 0cm;">- vrucht</p>
-
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 115.15pt; height: 11.35pt; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">10</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 115.15pt; height: 11.35pt; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">600</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 115.15pt; height: 11.35pt; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">600</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext; width: 115.15pt; height: 11.35pt; background-color: transparent;">
 			<p style="margin-right: 0cm; margin-left: 0cm;">- zaad</p>
-
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 115.15pt; height: 11.35pt; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">10</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 115.15pt; height: 11.35pt; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">400</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 115.15pt; height: 11.35pt; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">400</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext; width: 115.15pt; height: 11.35pt; background-color: transparent;">
 			<p style="margin-right: 0cm; margin-left: 0cm;">Pisum sativum</p>
-
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 115.15pt; height: 11.35pt; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">25</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 115.15pt; height: 11.35pt; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">1000</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 115.15pt; height: 11.35pt; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">1000</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext; width: 115.15pt; height: 11.35pt; background-color: transparent;">
 			<p style="margin-right: 0cm; margin-left: 0cm;">Trifolium alexandrinum</p>
-
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 115.15pt; height: 11.35pt; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">10</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 115.15pt; height: 11.35pt; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">400</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 115.15pt; height: 11.35pt; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">60</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext; width: 115.15pt; height: 11.35pt; background-color: transparent;">
 			<p style="margin-right: 0cm; margin-left: 0cm;">Trifolium hybridum</p>
-
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 115.15pt; height: 11.35pt; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">10</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 115.15pt; height: 11.35pt; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">200</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 115.15pt; height: 11.35pt; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">20</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext; width: 115.15pt; height: 11.35pt; background-color: transparent;">
 			<p style="margin-right: 0cm; margin-left: 0cm;">Trifolium incarnatum</p>
-
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 115.15pt; height: 11.35pt; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">10</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 115.15pt; height: 11.35pt; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">500</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 115.15pt; height: 11.35pt; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">80</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext; width: 115.15pt; height: 11.35pt; background-color: transparent;">
 			<p style="margin-right: 0cm; margin-left: 0cm;">Trifolium pratense</p>
-
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 115.15pt; height: 11.35pt; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">10</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 115.15pt; height: 11.35pt; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">300</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 115.15pt; height: 11.35pt; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">50</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext; width: 115.15pt; height: 11.35pt; background-color: transparent;">
 			<p style="margin-right: 0cm; margin-left: 0cm;">Trifolium repens</p>
-
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 115.15pt; height: 11.35pt; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">10</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 115.15pt; height: 11.35pt; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">200</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 115.15pt; height: 11.35pt; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">20</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext; width: 115.15pt; height: 11.35pt; background-color: transparent;">
 			<p style="margin-right: 0cm; margin-left: 0cm;">Trifolium resupinatum</p>
-
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 115.15pt; height: 11.35pt; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">10</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 115.15pt; height: 11.35pt; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">200</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 115.15pt; height: 11.35pt; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">20</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext; width: 115.15pt; height: 11.35pt; background-color: transparent;">
 			<p style="margin-right: 0cm; margin-left: 0cm;">Trigonella foenumgraecum</p>
-
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 115.15pt; height: 11.35pt; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">10</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 115.15pt; height: 11.35pt; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">500</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 115.15pt; height: 11.35pt; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">450</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext; width: 115.15pt; height: 11.35pt; background-color: transparent;">
 			<p style="margin-right: 0cm; margin-left: 0cm;">Vicia faba</p>
-
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 115.15pt; height: 11.35pt; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">25</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 115.15pt; height: 11.35pt; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">1000</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 115.15pt; height: 11.35pt; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">1000</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext; width: 115.15pt; height: 11.35pt; background-color: transparent;">
 			<p style="margin-right: 0cm; margin-left: 0cm;">Vicia pannonica</p>
-
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 115.15pt; height: 11.35pt; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">20</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 115.15pt; height: 11.35pt; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">1000</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 115.15pt; height: 11.35pt; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">1000</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext; width: 115.15pt; height: 11.35pt; background-color: transparent;">
 			<p style="margin-right: 0cm; margin-left: 0cm;">Vicia sativa</p>
-
-			<p style="margin-right: 0cm; margin-left: 0cm;">Vicia villosa</p>
-
-			<p style="margin-right: 0cm; margin-left: 0cm;">ANDERE SOORTEN&nbsp;:</p>
-
-			<p style="margin-right: 0cm; margin-left: 0cm;">Brassica napus var. Napobrassica</p>
-
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 115.15pt; height: 11.35pt; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">25</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 115.15pt; height: 11.35pt; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">1000</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 115.15pt; height: 11.35pt; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">1000</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext; width: 115.15pt; height: 11.35pt; background-color: transparent;">
+			<p style="margin-right: 0cm; margin-left: 0cm;">Viia villosa</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 115.15pt; height: 11.35pt; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">20</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 115.15pt; height: 11.35pt; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">1000</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 115.15pt; height: 11.35pt; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">1000</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext; width: 115.15pt; height: 11.35pt; background-color: transparent;">
+			<p style="margin-right: 0cm; margin-left: 0cm;"><strong>ANDERE SOORTEN</strong></p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 115.15pt; height: 11.35pt; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 115.15pt; height: 11.35pt; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 115.15pt; height: 11.35pt; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext; width: 115.15pt; height: 11.35pt; background-color: transparent;">
+			<p style="margin-right: 0cm; margin-left: 0cm;">Brassica napus var. napobrassica</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 115.15pt; height: 11.35pt; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">10</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 115.15pt; height: 11.35pt; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">200</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 115.15pt; height: 11.35pt; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">100</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext; width: 115.15pt; height: 11.35pt; background-color: transparent;">
 			<p style="margin-right: 0cm; margin-left: 0cm;">Brassica oleracea convar. Acephala</p>
-
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 115.15pt; height: 11.35pt; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">10</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 115.15pt; height: 11.35pt; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">200</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 115.15pt; height: 11.35pt; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">100</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext; width: 115.15pt; height: 11.35pt; background-color: transparent;">
 			<p style="margin-right: 0cm; margin-left: 0cm;">Phacelia tanacetifolia</p>
-
-			<p style="margin-right: 0cm; margin-left: 0cm;">Rphanus sativus var. Oleiformis</p>
-
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
 			</td>
-			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 108pt; vertical-align: top; background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="margin-right: 0cm; margin-left: 0cm;">10</p>
-
-			<p style="margin-right: 0cm; margin-left: 0cm;">10</p>
-
-			<p style="margin-right: 0cm; margin-left: 0cm;">10</p>
-
-			<p style="margin-right: 0cm; margin-left: 0cm;">10</p>
-
-			<p style="margin-right: 0cm; margin-left: 0cm;">10</p>
-
-			<p style="margin-right: 0cm; margin-left: 0cm;">10</p>
-
-			<p style="margin-right: 0cm; margin-left: 0cm;">10</p>
-
-			<p style="margin-right: 0cm; margin-left: 0cm;">10</p>
-
-			<p style="margin-right: 0cm; margin-left: 0cm;">10</p>
-
-			<p style="margin-right: 0cm; margin-left: 0cm;">10</p>
-
-			<p style="margin-right: 0cm; margin-left: 0cm;">10</p>
-
-			<p style="margin-right: 0cm; margin-left: 0cm;">10</p>
-
-			<p style="margin-right: 0cm; margin-left: 0cm;">10</p>
-
-			<p style="margin-right: 0cm; margin-left: 0cm;">10</p>
-
-			<p style="margin-right: 0cm; margin-left: 0cm;">10</p>
-
-			<p style="margin-right: 0cm; margin-left: 0cm;">10</p>
-
-			<p style="margin-right: 0cm; margin-left: 0cm;">10</p>
-
-			<p style="margin-right: 0cm; margin-left: 0cm;">10</p>
-
-			<p style="margin-right: 0cm; margin-left: 0cm;">10</p>
-
-			<p style="margin-right: 0cm; margin-left: 0cm;">10</p>
-
-			<p style="margin-right: 0cm; margin-left: 0cm;">10</p>
-
-			<p style="margin-right: 0cm; margin-left: 0cm;">10</p>
-
-			<p style="margin-right: 0cm; margin-left: 0cm;">10</p>
-
-			<p style="margin-right: 0cm; margin-left: 0cm;">10</p>
-
-			<p style="margin-right: 0cm; margin-left: 0cm;">10</p>
-
-			<p style="margin-right: 0cm; margin-left: 0cm;">10</p>
-
-			<p style="margin-right: 0cm; margin-left: 0cm;">10</p>
-
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="margin-right: 0cm; margin-left: 0cm;">10</p>
-
-			<p style="margin-right: 0cm; margin-left: 0cm;">10</p>
-
-			<p style="margin-right: 0cm; margin-left: 0cm;">10</p>
-
-			<p style="margin-right: 0cm; margin-left: 0cm;">25</p>
-
-			<p style="margin-right: 0cm; margin-left: 0cm;">25</p>
-
-			<p style="margin-right: 0cm; margin-left: 0cm;">25</p>
-
-			<p style="margin-right: 0cm; margin-left: 0cm;">10</p>
-
-			<p style="margin-right: 0cm; margin-left: 0cm;">10</p>
-
-			<p style="margin-right: 0cm; margin-left: 0cm;">10</p>
-
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="margin-right: 0cm; margin-left: 0cm;">10</p>
-
-			<p style="margin-right: 0cm; margin-left: 0cm;">10</p>
-
-			<p style="margin-right: 0cm; margin-left: 0cm;">25</p>
-
-			<p style="margin-right: 0cm; margin-left: 0cm;">10</p>
-
-			<p style="margin-right: 0cm; margin-left: 0cm;">10</p>
-
-			<p style="margin-right: 0cm; margin-left: 0cm;">10</p>
-
-			<p style="margin-right: 0cm; margin-left: 0cm;">10</p>
-
-			<p style="margin-right: 0cm; margin-left: 0cm;">10</p>
-
-			<p style="margin-right: 0cm; margin-left: 0cm;">10</p>
-
-			<p style="margin-right: 0cm; margin-left: 0cm;">10</p>
-
-			<p style="margin-right: 0cm; margin-left: 0cm;">25</p>
-
-			<p style="margin-right: 0cm; margin-left: 0cm;">20</p>
-
-			<p style="margin-right: 0cm; margin-left: 0cm;">25</p>
-
-			<p style="margin-right: 0cm; margin-left: 0cm;">20</p>
-
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="margin-right: 0cm; margin-left: 0cm;">10</p>
-
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="margin-right: 0cm; margin-left: 0cm;">10</p>
-
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="margin-right: 0cm; margin-left: 0cm;">10</p>
-
-			<p style="margin-right: 0cm; margin-left: 0cm;">10</p>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 115.15pt; height: 11.35pt; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">10</p>
 			</td>
-			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 98.95pt; vertical-align: top; background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="margin-right: 0cm; margin-left: 0cm;">50</p>
-
-			<p style="margin-right: 0cm; margin-left: 0cm;">50</p>
-
-			<p style="margin-right: 0cm; margin-left: 0cm;">50</p>
-
-			<p style="margin-right: 0cm; margin-left: 0cm;">50</p>
-
-			<p style="margin-right: 0cm; margin-left: 0cm;">100</p>
-
-			<p style="margin-right: 0cm; margin-left: 0cm;">200</p>
-
-			<p style="margin-right: 0cm; margin-left: 0cm;">200</p>
-
-			<p style="margin-right: 0cm; margin-left: 0cm;">200</p>
-
-			<p style="margin-right: 0cm; margin-left: 0cm;">50</p>
-
-			<p style="margin-right: 0cm; margin-left: 0cm;">100</p>
-
-			<p style="margin-right: 0cm; margin-left: 0cm;">100</p>
-
-			<p style="margin-right: 0cm; margin-left: 0cm;">100</p>
-
-			<p style="margin-right: 0cm; margin-left: 0cm;">100</p>
-
-			<p style="margin-right: 0cm; margin-left: 0cm;">100</p>
-
-			<p style="margin-right: 0cm; margin-left: 0cm;">200</p>
-
-			<p style="margin-right: 0cm; margin-left: 0cm;">200</p>
-
-			<p style="margin-right: 0cm; margin-left: 0cm;">200</p>
-
-			<p style="margin-right: 0cm; margin-left: 0cm;">200</p>
-
-			<p style="margin-right: 0cm; margin-left: 0cm;">100</p>
-
-			<p style="margin-right: 0cm; margin-left: 0cm;">50</p>
-
-			<p style="margin-right: 0cm; margin-left: 0cm;">50</p>
-
-			<p style="margin-right: 0cm; margin-left: 0cm;">50</p>
-
-			<p style="margin-right: 0cm; margin-left: 0cm;">50</p>
-
-			<p style="margin-right: 0cm; margin-left: 0cm;">50</p>
-
-			<p style="margin-right: 0cm; margin-left: 0cm;">50</p>
-
-			<p style="margin-right: 0cm; margin-left: 0cm;">50</p>
-
-			<p style="margin-right: 0cm; margin-left: 0cm;">50</p>
-
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="margin-right: 0cm; margin-left: 0cm;">1000</p>
-
-			<p style="margin-right: 0cm; margin-left: 0cm;">400</p>
-
-			<p style="margin-right: 0cm; margin-left: 0cm;">200</p>
-
-			<p style="margin-right: 0cm; margin-left: 0cm;">1000</p>
-
-			<p style="margin-right: 0cm; margin-left: 0cm;">1000</p>
-
-			<p style="margin-right: 0cm; margin-left: 0cm;">1000</p>
-
-			<p style="margin-right: 0cm; margin-left: 0cm;">300</p>
-
-			<p style="margin-right: 0cm; margin-left: 0cm;">300</p>
-
-			<p style="margin-right: 0cm; margin-left: 0cm;">300</p>
-
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="margin-right: 0cm; margin-left: 0cm;">600</p>
-
-			<p style="margin-right: 0cm; margin-left: 0cm;">400</p>
-
-			<p style="margin-right: 0cm; margin-left: 0cm;">1000</p>
-
-			<p style="margin-right: 0cm; margin-left: 0cm;">400</p>
-
-			<p style="margin-right: 0cm; margin-left: 0cm;">200</p>
-
-			<p style="margin-right: 0cm; margin-left: 0cm;">500</p>
-
-			<p style="margin-right: 0cm; margin-left: 0cm;">300</p>
-
-			<p style="margin-right: 0cm; margin-left: 0cm;">200</p>
-
-			<p style="margin-right: 0cm; margin-left: 0cm;">200</p>
-
-			<p style="margin-right: 0cm; margin-left: 0cm;">500</p>
-
-			<p style="margin-right: 0cm; margin-left: 0cm;">1000</p>
-
-			<p style="margin-right: 0cm; margin-left: 0cm;">1000</p>
-
-			<p style="margin-right: 0cm; margin-left: 0cm;">1000</p>
-
-			<p style="margin-right: 0cm; margin-left: 0cm;">1000</p>
-
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="margin-right: 0cm; margin-left: 0cm;">200</p>
-
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="margin-right: 0cm; margin-left: 0cm;">200</p>
-
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="margin-right: 0cm; margin-left: 0cm;">300</p>
-
-			<p style="margin-right: 0cm; margin-left: 0cm;">300</p>
-
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 115.15pt; height: 11.35pt; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">300</p>
 			</td>
-			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 115.15pt; vertical-align: top; background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="margin-right: 0cm; margin-left: 0cm;">5</p>
-
-			<p style="margin-right: 0cm; margin-left: 0cm;">5</p>
-
-			<p style="margin-right: 0cm; margin-left: 0cm;">5</p>
-
-			<p style="margin-right: 0cm; margin-left: 0cm;">5</p>
-
-			<p style="margin-right: 0cm; margin-left: 0cm;">30</p>
-
-			<p style="margin-right: 0cm; margin-left: 0cm;">80</p>
-
-			<p style="margin-right: 0cm; margin-left: 0cm;">200</p>
-
-			<p style="margin-right: 0cm; margin-left: 0cm;">200</p>
-
-			<p style="margin-right: 0cm; margin-left: 0cm;">5</p>
-
-			<p style="margin-right: 0cm; margin-left: 0cm;">30</p>
-
-			<p style="margin-right: 0cm; margin-left: 0cm;">50</p>
-
-			<p style="margin-right: 0cm; margin-left: 0cm;">30</p>
-
-			<p style="margin-right: 0cm; margin-left: 0cm;">50</p>
-
-			<p style="margin-right: 0cm; margin-left: 0cm;">30</p>
-
-			<p style="margin-right: 0cm; margin-left: 0cm;">60</p>
-
-			<p style="margin-right: 0cm; margin-left: 0cm;">60</p>
-
-			<p style="margin-right: 0cm; margin-left: 0cm;">60</p>
-
-			<p style="margin-right: 0cm; margin-left: 0cm;">60</p>
-
-			<p style="margin-right: 0cm; margin-left: 0cm;">50</p>
-
-			<p style="margin-right: 0cm; margin-left: 0cm;">10</p>
-
-			<p style="margin-right: 0cm; margin-left: 0cm;">10</p>
-
-			<p style="margin-right: 0cm; margin-left: 0cm;">10</p>
-
-			<p style="margin-right: 0cm; margin-left: 0cm;">5</p>
-
-			<p style="margin-right: 0cm; margin-left: 0cm;">5</p>
-
-			<p style="margin-right: 0cm; margin-left: 0cm;">5</p>
-
-			<p style="margin-right: 0cm; margin-left: 0cm;">5</p>
-
-			<p style="margin-right: 0cm; margin-left: 0cm;">5</p>
-
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="margin-right: 0cm; margin-left: 0cm;">300</p>
-
-			<p style="margin-right: 0cm; margin-left: 0cm;">120</p>
-
-			<p style="margin-right: 0cm; margin-left: 0cm;">30</p>
-
-			<p style="margin-right: 0cm; margin-left: 0cm;">1000</p>
-
-			<p style="margin-right: 0cm; margin-left: 0cm;">1000</p>
-
-			<p style="margin-right: 0cm; margin-left: 0cm;">1000</p>
-
-			<p style="margin-right: 0cm; margin-left: 0cm;">50</p>
-
-			<p style="margin-right: 0cm; margin-left: 0cm;">50</p>
-
-			<p style="margin-right: 0cm; margin-left: 0cm;">50</p>
-
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="margin-right: 0cm; margin-left: 0cm;">600</p>
-
-			<p style="margin-right: 0cm; margin-left: 0cm;">400</p>
-
-			<p style="margin-right: 0cm; margin-left: 0cm;">1000</p>
-
-			<p style="margin-right: 0cm; margin-left: 0cm;">60</p>
-
-			<p style="margin-right: 0cm; margin-left: 0cm;">20</p>
-
-			<p style="margin-right: 0cm; margin-left: 0cm;">80</p>
-
-			<p style="margin-right: 0cm; margin-left: 0cm;">50</p>
-
-			<p style="margin-right: 0cm; margin-left: 0cm;">20</p>
-
-			<p style="margin-right: 0cm; margin-left: 0cm;">20</p>
-
-			<p style="margin-right: 0cm; margin-left: 0cm;">450</p>
-
-			<p style="margin-right: 0cm; margin-left: 0cm;">1000</p>
-
-			<p style="margin-right: 0cm; margin-left: 0cm;">1000</p>
-
-			<p style="margin-right: 0cm; margin-left: 0cm;">1000</p>
-
-			<p style="margin-right: 0cm; margin-left: 0cm;">1000</p>
-
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="margin-right: 0cm; margin-left: 0cm;">100</p>
-
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="margin-right: 0cm; margin-left: 0cm;">100</p>
-
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-			<p style="margin-right: 0cm; margin-left: 0cm;">40</p>
-
-			<p style="margin-right: 0cm; margin-left: 0cm;">300</p>
-
-			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 115.15pt; height: 11.35pt; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">40</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext; width: 115.15pt; height: 11.35pt; background-color: transparent;">
+			<p style="margin-right: 0cm; margin-left: 0cm;">Raphanus sativus var. oleiformis</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 115.15pt; height: 11.35pt; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">10</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 115.15pt; height: 11.35pt; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">300</p>
+			</td>
+			<td style="border-color: rgb(240, 240, 240) windowtext windowtext rgb(240, 240, 240); width: 115.15pt; height: 11.35pt; background-color: transparent;">
+			<p style="text-align: center; margin-right: 0cm; margin-left: 0cm;">300</p>
 			</td>
 		</tr>
 	</tbody>
 </table>
 
-<p>&nbsp;</p>
-
 <p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
-
-<p>Het maximumgewicht van een partij mag ten hoogste met 5 % worden<br>
-<br>
-overschreden.<br>
-Officieel etiket.<br>
-<br>
-I. Te vermelden gegevens.<br>
-<br>
-a) Voor basiszaad en gecertificeerd zaad:<br>
-<br>
-1. "EG-systeem";<br>
-<br>
-2. Keuringsdienst en Lidstaat of desbetreffend kenteken;<br>
-<br>
-3. Partijnummer;<br>
-<br>
-4. Maand en jaar van de sluiting, op de volgende wijze aangegeven: "gesloten in... (maand en jaar)" of maand en jaar van de laatste officiële monsterneming ten behoeve van het besluit van certificering, op de volgende wijze aangegeven: "monster genomen in (maand en jaar)"<br>
-<br>
-In het geval van x Festulolium worden de namen van de soorten van het geslacht Festuca en Lolium vermeld;<br>
-<br>
-5. Soort ten minste aangegeven, met de botanische benaming, eventueel in verkorte vorm en zonder de naam van de auteurs, in Latijns schrift;<br>
-<br>
-6. Ras ten minste vermeld in Latijns schrift;<br>
-<br>
-7. Categorie;<br>
-<br>
-8. Producerend land;<br>
-<br>
-9. Opgegeven netto- of brutogewicht of opgegeven aantal zuivere zaden;<br>
-<br>
-10. Wanneer het gewicht wordt vermeld en er korrelvormige bestrijdingsmiddelen, omhullingen of andere toevoegingsmiddelen in vaste staat worden gebruikt, de vermelding van de aard van het toevoegingsmiddel, alsmede de verhouding, bij benadering, tussen het gewicht der zuivere zaden en het totaalgewicht;<br>
-<br>
-11. Voor gecertificeerd zaad van de tweede en volgende vermeerderingen vanaf het basiszaad, de vermelding: het aantal generaties vanaf het basiszaad;<br>
-<br>
-12. Voor zaad van grasrassen waarvoor geen onderzoek van de cultuur- en gebruikswaarde heeft plaatsgevonden, overeenkomstig artikel 4, § 2, sub a), van het koninklijk besluit van 2 mei 2001 betreffende de nationale rassencatalogi voor landbouwgewassen en groentegewassen: "niet bestemd voor de teelt van voedergewassen";<br>
-<br>
-13. Waar ten minste voor de kiemkracht nacontrole werd verricht, mogen de woorden "nacontrole verricht... (maand en jaar)" en de voor deze nacontrole verantwoordelijke dienst worden vermeld. Deze gegevens mogen voorkomen op een officieel merkteken dat wordt geplakt op het officiële etiket.<br>
-<br>
-b) Voor handelszaad:<br>
-<br>
-1. "EG-systeem";<br>
-<br>
-2. "Handelszaad (niet naar het ras goedgekeurd)";<br>
-<br>
-3. Keuringsdienst en Lidstaat of desbetreffende kenteken;<br>
-<br>
-4. Partijnummer;<br>
-<br>
-5. Maand en jaar van de sluiting, op de volgende wijze aangegeven: "gesloten in... (maand en jaar)" of maand en jaar van de laatste officiële monsterneming ten behoeve van het besluit tot goedkeuring als handelszaad, op de volgende wijze aangegeven: "monster genomen in... (maand en jaar)";<br>
-<br>
-6. Soort (*) ten minste aangegeven, met de botanische benaming, eventueel in verkorte vorm zonder de naam van de auteurs, in Latijns schrift;<br>
-<br>
-7. Teeltgebied;<br>
-<br>
-8. Opgegeven netto- of brutogewicht of opgegeven aantal zuivere zaden;<br>
-<br>
-9. Wanneer het gewicht wordt vermeld en er korrelvormige bestrijdingsmiddelen, omhullingen of andere toevoegingsmiddelen in vaste staat worden gebruikt, de vermelding van de aard van het toevoegingsmiddel, alsmede de verhouding, bij benadering, tussen het gewicht der zuivere zaden en het totaalgewicht;<br>
-<br>
-10. Waar ten minste voor de kiemkracht nacontrole werd verricht, mogen de woorden " nacontrole verricht... (maand en jaar) " en de voor deze nacontrole verantwoordelijke dienst worden vermeld. Deze gegevens mogen voorkomen op een officieel merkteken dat wordt geplakt op het officiële etiket.<br>
-<br>
-(*) Voor lupinen voorts vermelden of het gaat om bittere of bitterstofarme lupinen.<br>
-<br>
-c) Voor zaadmengsels:<br>
-<br>
-1. "Zaadmengsel voor... (gebruiksdoeleinde)";<br>
-<br>
-2. Instantie die de verpakking heeft gesloten en Lidstaat of desbetreffend kenteken;<br>
-<br>
-3. Partijnummer;<br>
-<br>
-4. Maand en jaar van de sluiting, op de volgende wijze aangegeven: "gesloten in (maand en jaar)"<br>
-<br>
-In het geval van x Festulolium worden de namen van de soorten van het geslacht Festuca en Lolium vermeld;<br>
-<br>
-5. Gewichtsverhouding van de verschillende opgegeven bestanddelen naar soort en, in voorkomend geval, naar ras, waarbij soort en ras tenminste dienen te worden vermeld in Latijns schrift, vermelding van de benaming van het mengsel volstaat indien de koper schriftelijk in kennis wordt gesteld van de gewichtsverhouding en indien deze officieel is gedeponeerd;<br>
-<br>
-6. Opgegeven netto- of brutogewicht of opgegeven aantal zuivere zaden;<br>
-<br>
-7. Wanneer het gewicht wordt vermeld en er korrelvormige bestrijdingsmiddelen, omhullingen of andere toevoegingsmiddelen in vaste staat worden gebruikt, de vermelding van de aard van het toevoegingsmiddel, alsmede de verhouding, bij benadering, tussen het gewicht der zuivere zaden en het totaal gewicht;<br>
-<br>
-8. Waar ten minste voor de kiemkracht van alle bestanddelen van het mengsel nacontrole werd verricht, mogen de woorden "nacontrole verricht... (maand en jaar)" en de voor deze nacontrole verantwoordelijke dienst worden vermeld. Deze gegevens mogen voorkomen op een officieel merkteken dat wordt geplakt op het officiële etiket.<br>
-<br>
-II. Minimumafmetingen.<br>
-<br>
-110 mm x 67 mm.<br>
-<br>
-B. Etiket van de leverancier of tekst op de verpakking (kleine verpakking EG).<br>
-<br>
-Te vermelden gegevens:<br>
-<br>
-a) Voor gecertificeerd zaad:<br>
-<br>
-1. "Kleine verpakking EG B";<br>
-<br>
-2. Naam en adres of kenmerk van de voor de aanduiding verantwoordelijke leverancier;<br>
-<br>
-3. Officieel volgnummer;<br>
-<br>
-4. Dienst die het volgnummer heeft toegekend en Lidstaat of desbetreffend kenteken;<br>
-<br>
-5. Partijnummer indien de gecertificeerde partij niet door het officiële volgnummer kan worden geïdentificeerd;<br>
-<br>
-6. Soort ten minste vermeld in Latijns schrift;<br>
-<br>
-7. Ras ten minste vermeld in Latijns schrift;<br>
-<br>
-8. Categorie;<br>
-<br>
-9. Bruto- of nettogewicht of aantal zuivere zaden;<br>
-<br>
-10. Wanneer het gewicht wordt vermeld en er korrelvormige bestrijdingsmiddelen, omhullingen of andere toevoegingsmiddelen in vaste staat worden gebruikt, de vermelding van de aard van het toevoegingsmiddel, alsmede de verhouding, bij benadering, tussen het gewicht der zuivere zaden en het totaalgewicht;<br>
-<br>
-11. Voor zaad van grasrassen waarvoor geen onderzoek van de cultuur- en gebruikswaarde heeft plaatsgevonden, overeenkomstig artikel 4, lid 2, sub a), van het koninklijk besluit van 8 juli 2001 betreffende de nationale rassencatalogi voor landbouwgewassen en groentegewassen: "niet bestemd voor de teelt van voedergewassen".<br>
-<br>
-b) Voor handelszaad:<br>
-<br>
-1. "Kleine verpakking EG B";<br>
-<br>
-2. Naam en adres of kenmerk van de voor de aanduiding verantwoordelijke leverancier;<br>
-<br>
-3. Officieel volgnummer;<br>
-<br>
-4. Dienst die het volgnummer heeft toegekend en Lidstaat of desbetreffend kenteken;<br>
-<br>
-5. Partijnummer indien de gecontroleerde partij niet door het officiële volgnummer kan worden geïdentificeerd;<br>
-<br>
-6. Soort (*) ten minste vermeld in Latijns schrift;<br>
-<br>
-7. "Handelszaad";<br>
-<br>
-8. Bruto- of nettogewicht of aantal zuivere zaden;<br>
-<br>
-9. Wanneer het gewicht wordt vermeld en er korrelvormige bestrijdingsmiddelen, omhullingen of andere toevoegingsmiddelen in vaste staat worden gebruikt, de vermelding van de aard van het toevoegingsmiddel, alsmede de verhouding, bij benadering, tussen het gewicht der zuivere zaden en het totaalgewicht.<br>
-<br>
-(*) Voor de lupinen voorts vermelden of het gaat om bittere of bitterstofarme lupinen.<br>
-<br>
-c) Voor zaadmengsels:<br>
-<br>
-1. "Kleine verpakking EG A" of "kleine verpakking EG B";<br>
-<br>
-2. Naam en adres of kenmerk van de voor de aanduiding verantwoordelijke leverancier;<br>
-<br>
-3. Kleine verpakking EG B: officieel volgnummer;<br>
-<br>
-4. Kleine verpakking EG B: dienst die het volgnummer heeft toegekend en Lidstaat of desbetreffend kenteken;<br>
-<br>
-5. Kleine verpakking EG B: partijnummer indien de gebruikte partijen niet door het officiële volgnummer kunnen worden geïdentificeerd;<br>
-<br>
-6. Kleine verpakking EG A: partijnummer waardoor de gebruikte partijen kunnen worden geïdentificeerd;<br>
-<br>
-7. Kleine verpakking EG A: naam of kenteken van de Lidstaat;<br>
-<br>
-8. "Zaadmengsels voor... (gebruiksdoeleinden)";<br>
-<br>
-9. Bruto- of nettogewicht of aantal zuivere zaden;<br>
-<br>
-10. Wanneer het gewicht wordt vermeld en er korrelvormige bestrijdingsmiddelen, omhullingen of andere toevoegingsmiddelen in vaste staat worden gebruikt, de vermelding van de aard van het toevoegingsmiddel, alsmede de verhouding, bij benadering, tussen het gewicht der zuivere zaden en het totaal gewicht;<br>
-<br>
-11. Gewichtsverhouding van de verschillende opgegeven bestanddelen naar soort en, in voorkomend geval, naar ras, waarbij soort en ras ten minste dienen te worden vermeld in Latijns schrift, de vermelding van de benaming van het mengsel volstaat indien de gewichtsverhouding aan de koper op diens verzoek kan worden medegedeeld en deze officieel is gedeponeerd.</p>
 
 ### BIJLAGE IV
 
