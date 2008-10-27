@@ -1,0 +1,17 @@
+{
+  "codex_id": 1017189,
+  "title": "Ministerieel besluit van 2008-09-19 betreffende de vaststelling van het zoneringsplan van de gemeente Moorslede",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1017189/VolledigDocument?datum=2008-10-27",
+  "source_sha256": "80b0ba0be8fb429d720a75feed387c248e8a929e3b3b1841e1ecb11811aa89b1",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1017189&param=informatie",
+  "as_of": "2008-10-27",
+  "made": "2008-09-19",
+  "gazette": "2008-10-17",
+  "numac": 2008036173,
+  "document_start": "2008-10-27",
+  "document_end": null,
+  "in_force": "2008-10-27",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2008-10-27; oldest version available; future article versions excluded; article text as the API gives it"
+}
