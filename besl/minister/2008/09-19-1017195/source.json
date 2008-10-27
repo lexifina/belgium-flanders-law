@@ -1,0 +1,17 @@
+{
+  "codex_id": 1017195,
+  "title": "Ministerieel besluit van 2008-09-19 betreffende de vaststelling van het zoneringsplan van de gemeente Tienen",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1017195/VolledigDocument?datum=2008-10-27",
+  "source_sha256": "3855a29998960a17fc0ff5d61ea77447ce2dfc743adb33920c4f11d3ee1b0479",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1017195&param=informatie",
+  "as_of": "2008-10-27",
+  "made": "2008-09-19",
+  "gazette": "2008-10-17",
+  "numac": 2008036179,
+  "document_start": "2008-10-27",
+  "document_end": null,
+  "in_force": "2008-10-27",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2008-10-27; oldest version available; future article versions excluded; article text as the API gives it"
+}
