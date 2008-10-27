@@ -1,0 +1,17 @@
+{
+  "codex_id": 1017165,
+  "title": "Besluit van de Vlaamse Regering van 2008-07-18 aangaande diversiteitsprojecten in de lerarenopleidingen",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1017165/VolledigDocument?datum=2008-10-27",
+  "source_sha256": "45bdf670903345a36177ae9f2eac0ecb50239f7a11883cf9c91e5dff45ddc4e1",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1017165&param=informatie",
+  "as_of": "2008-10-27",
+  "made": "2008-07-18",
+  "gazette": "2008-10-17",
+  "numac": 2008203656,
+  "document_start": "2008-10-27",
+  "document_end": "2016-12-31",
+  "in_force": "2008-10-27",
+  "article_versions": 16,
+  "record_form": "consolidated version as in force on 2008-10-27; oldest version available; future article versions excluded; article text as the API gives it"
+}
