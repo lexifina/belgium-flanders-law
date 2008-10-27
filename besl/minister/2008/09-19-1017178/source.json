@@ -1,0 +1,17 @@
+{
+  "codex_id": 1017178,
+  "title": "Ministerieel besluit van 2008-09-19 betreffende de vaststelling van het zoneringsplan van de gemeente Kortemark",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1017178/VolledigDocument?datum=2008-10-27",
+  "source_sha256": "5b1e9031145d7aaaa0b94dab08306b91eff3cf5fec72828636902283f09bf66b",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1017178&param=informatie",
+  "as_of": "2008-10-27",
+  "made": "2008-09-19",
+  "gazette": "2008-10-17",
+  "numac": 2008036166,
+  "document_start": "2008-10-27",
+  "document_end": null,
+  "in_force": "2008-10-27",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2008-10-27; oldest version available; future article versions excluded; article text as the API gives it"
+}
