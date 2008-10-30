@@ -1,0 +1,17 @@
+{
+  "codex_id": 1017253,
+  "title": "Ministerieel besluit van 2008-06-13 houdende vaststelling van het sjabloon en de toelichting bij de 'reserveringsaanvraag van emissierechten voor nieuwkomers in het kader van de CO2-emissiehandel voor de handelsperiode 2008-2012'",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1017253/VolledigDocument?datum=2008-10-30",
+  "source_sha256": "f7ccc416d0d199fe8ed54ac7a52dd8a3bb04d0f344a319227d99af30b1c36f8f",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1017253&param=informatie",
+  "as_of": "2008-10-30",
+  "made": "2008-06-13",
+  "gazette": "2008-10-30",
+  "numac": 2008036268,
+  "document_start": "2008-10-30",
+  "document_end": null,
+  "in_force": "2008-10-30",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2008-10-30; oldest version available; future article versions excluded; article text as the API gives it"
+}
