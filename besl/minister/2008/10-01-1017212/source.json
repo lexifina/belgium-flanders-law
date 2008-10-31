@@ -1,0 +1,17 @@
+{
+  "codex_id": 1017212,
+  "title": "Ministerieel besluit van 2008-10-01 betreffende de vaststelling van het zoneringsplan van de gemeente Antwerpen",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1017212/VolledigDocument?datum=2008-10-31",
+  "source_sha256": "7ec7438419ae51e700718e6f6348493512af87c418aaa129952913da291c324f",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1017212&param=informatie",
+  "as_of": "2008-10-31",
+  "made": "2008-10-01",
+  "gazette": "2008-10-21",
+  "numac": 2008036221,
+  "document_start": "2008-10-31",
+  "document_end": null,
+  "in_force": "2008-10-31",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2008-10-31; oldest version available; future article versions excluded; article text as the API gives it"
+}
