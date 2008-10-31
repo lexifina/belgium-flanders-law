@@ -1,0 +1,17 @@
+{
+  "codex_id": 1017209,
+  "title": "Ministerieel besluit van 2008-10-01 betreffende de vaststelling van het zoneringsplan van de gemeente Meise",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1017209/VolledigDocument?datum=2008-10-31",
+  "source_sha256": "444ffd3f1a9f2aabb52a18b1664d679debc58e4b9c9aa5c5c83c818359ca49ae",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1017209&param=informatie",
+  "as_of": "2008-10-31",
+  "made": "2008-10-01",
+  "gazette": "2008-10-21",
+  "numac": 2008036220,
+  "document_start": "2008-10-31",
+  "document_end": null,
+  "in_force": "2008-10-31",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2008-10-31; oldest version available; future article versions excluded; article text as the API gives it"
+}
