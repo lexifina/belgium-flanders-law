@@ -1,0 +1,17 @@
+{
+  "codex_id": 1017210,
+  "title": "Ministerieel besluit van 2008-09-19 betreffende de vaststelling van het zoneringsplan van de gemeente Torhout",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1017210/VolledigDocument?datum=2008-10-31",
+  "source_sha256": "b2a266fe4fb22ebaefe8a39b3d953a09dff0a7a2a31dcd483d4218c56ef72fb3",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1017210&param=informatie",
+  "as_of": "2008-10-31",
+  "made": "2008-09-19",
+  "gazette": "2008-10-21",
+  "numac": 2008036218,
+  "document_start": "2008-10-31",
+  "document_end": null,
+  "in_force": "2008-10-31",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2008-10-31; oldest version available; future article versions excluded; article text as the API gives it"
+}
