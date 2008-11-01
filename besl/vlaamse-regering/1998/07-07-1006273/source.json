@@ -2,16 +2,16 @@
   "codex_id": 1006273,
   "title": "Besluit van de Vlaamse Regering van 1998-07-07 betreffende het omrekeningspercentage en het puntengewicht voor de vaststelling van het werkingsbudget basisonderwijs",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1006273/VolledigDocument?datum=2008-09-01",
-  "source_sha256": "8f740733331be431e951164a8c0b90479785ba4e6fa51c8ef7048b5b2dde9413",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1006273/VolledigDocument?datum=2008-11-01",
+  "source_sha256": "b00b78ad1a8877624e883acbdf8601e07a1749f82dea7e2d86bab6c7ce3d6c7f",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1006273&param=informatie",
-  "as_of": "2008-09-01",
+  "as_of": "2008-11-01",
   "made": "1998-07-07",
   "gazette": "1998-08-22",
   "numac": 1998035941,
   "document_start": null,
   "document_end": "2008-10-31",
-  "in_force": "2008-09-01",
+  "in_force": "2008-11-01",
   "article_versions": 7,
-  "record_form": "consolidated version as in force on 2008-09-01; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2008-11-01; future article versions excluded; article text as the API gives it"
 }
