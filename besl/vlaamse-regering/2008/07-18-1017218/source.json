@@ -1,0 +1,17 @@
+{
+  "codex_id": 1017218,
+  "title": "Besluit van de Vlaamse Regering van 2008-07-18 betreffende de afvaardiging van de Vlaamse Gemeenschap in de algemene vergadering van de vereniging zonder winstgevend doel Algemene Dienst voor Jeugdtoerisme",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1017218/VolledigDocument?datum=2008-11-01",
+  "source_sha256": "449e618ff8c71253aacd4b5f0ffd646c02593ae2af0755b460c4481e36150b4d",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1017218&param=informatie",
+  "as_of": "2008-11-01",
+  "made": "2008-07-18",
+  "gazette": "2008-10-22",
+  "numac": 2008203686,
+  "document_start": "2008-11-01",
+  "document_end": null,
+  "in_force": "2008-11-01",
+  "article_versions": 6,
+  "record_form": "consolidated version as in force on 2008-11-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
