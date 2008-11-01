@@ -1173,13 +1173,376 @@ De Vlaamse Regering voorziet voor het schooljaar 2008-2009, 2009-2010 en 2010-20
 
 ## Onderafdeling 1 : Leerlingen- en schoolkenmerken
 
+### ART. 242.
+
+§ 1.Voor de toepassing van deze afdeling gelden de volgende kenmerken :<br />1° leerlingenkenmerken :<br />a) het opleidingsniveau van de moeder : de moeder is niet in het bezit van een diploma van het secundair onderwijs, of van een studiegetuigschrift van het tweede leerjaar van de derde graad van het beroepssecundair onderwijs of van een daarmee gelijkwaardig studiebewijs, hierna leerlingenkenmerk 1 te noemen;<br />b) het krijgen van een schooltoelage : er wordt een schooltoelage gegeven aan de leerling, als vermeld in betreffende de studiefinanciering van de Vlaamse Gemeenschap, hierna leerlingenkenmerk 2 te noemen. Voor de toepassing van dit artikel worden de leerlingen die in toepassing van voornoemd decreet enkel omwille van ongewettigde afwezigheid geen recht op een schooltoelage hadden, eveneens meegerekend;<br />c) de taal die de leerling in het gezin spreekt en die verschilt van de onderwijstaal : daaronder wordt de taal verstaan die de leerling meestal spreekt met moeder, vader of broers en zussen, hierna leerlingenkenmerk 3 te noemen. De taal die de leerling in het gezin spreekt is niet de onderwijstaal, indien de leerling in het gezin met niemand of in een gezin met drie gezinsleden (de leerling niet meegerekend) met maximum één gezinslid de onderwijstaal spreekt. Broers en zussen worden als één gezinslid beschouwd;<br />d) de leerling heeft zijn woonplaats in een buurt met een hoog percentage leerlingen met minstens twee jaar schoolse vertraging op vijftienjarige leeftijd, hierna leerlingenkenmerk 4 te noemen. Onder schoolse vertraging wordt het aantal leerjaren vertraging verstaan die een leerling oploopt ten aanzien van het leerjaar waarin hij zich zou bevinden als hij normaal zou vorderen. Voor leerlingen woonachtig in het Vlaamse Gewest wordt onder « buurt » de statistische sector verstaan. De statistische sector is de territoriale basiseenheid zoals vastgelegd door de federale instantie die bevoegd is voor de coördinatie van de openbare statistiek. Voor leerlingen woonachtig in het Brussels Gewest wordt onder « buurt » de gemeente waar zij wonen verstaan;<br />2° schoolkenmerken :<br />a) het studiegebied en de onderwijsvorm in het gewoon onderwijs;<br />b) het type in het buitengewoon onderwijs;<br />c) de begeleiding door een school voor buitengewoon secundair onderwijs van een of meer leerlingen in het geïntegreerd secundair onderwijs, hierna SK_Gon te noemen;<br />d) de organisatie van neutraal onderwijs, conform artikel 24, § 1, tweede lid, van de gecoördineerde Grondwet, hierna voorafname 1 (V1) te noemen;<br />e) het aanbod van de keuze tussen onderricht in een van de erkende godsdiensten en de niet-confessionele zedenleer, conform artikel 24, § 1, vierde lid, van de gecoördineerde Grondwet, hierna voorafname 2 (V2) te noemen.<br /><br />§ 2. Leerlingenkenmerk 4 wordt als volgt vastgesteld :<br />1° in een eerste fase wordt de schoolse vertraging van alle buurten berekend. De berekening van de schoolse vertraging is gebaseerd op alle leerlingen van het gewoon onderwijs die school hebben gelopen in een school, gefinancierd of gesubsidieerd door de Vlaamse Gemeenschap. Per buurt wordt het percentage vijftienjarige leerlingen berekend die de afgelopen zes tot tien jaar op vijftienjarige leeftijd twee of meer jaar schoolse vertraging hebben opgelopen. Buurten waarvan de berekening van de schoolse vertraging gebaseerd is op minder dan vijftig vijftienjarigen worden hierna dunbevolkte buurten genoemd;<br />2° in een tweede fase wordt voor elke leerling vastgesteld wat het percentage schoolse vertraging is van de buurt. Leerlingen die behoren tot de trekkende bevolking en thuislozen worden geacht te wonen in een buurt met een hoog percentage leerlingen met minstens twee jaar schoolse vertraging op vijftienjarige leeftijd.<br /><br />Onder trekkende bevolking worden de binnenschippers, de kermis- en circusexploitanten en -artiesten en woonwagenbewoners verstaan, vermeld in artikel 2, 3°, van het decreet van 28 april 1998 inzake het Vlaamse beleid ten aanzien van etnisch-culturele minderheden. Onder thuislozen worden de leerlingen verstaan die tijdelijk of permanent buiten het eigen gezinsverband opgenomen zijn door een gezin of persoon, een voorziening of sociale dienst, vermeld in het decreet van 7 maart 2008 inzake bijzondere jeugdbijstand en in de wet van 8 april 1965 betreffende de jeugdbescherming, met uitzondering van de internaten, gefinancierd of gesubsidieerd door het Vlaams Ministerie van Onderwijs en Vorming. Leerlingen die hun woonplaats hebben in dunbevolkte buurten worden niet geacht te wonen in een buurt met een hoog percentage leerlingen met minstens twee jaar schoolse vertraging op vijftienjarige leeftijd.<br /><br />Voor alle leerlingen uit het gewoon secundair onderwijs wordt het 75ste percentiel van de buurtscores bepaald. Leerlingen die hun woonplaats hebben in een buurt met een score hoger dan of gelijk aan het 75ste percentiel, beantwoorden aan de indicator « woonplaats hebben in een buurt met een hoog percentage leerlingen met minstens twee jaar schoolse vertraging op vijftienjarige leeftijd ». <br /><br />Leerlingenkenmerk 4 is enkel van toepassing voor leerlingen die in het Nederlandse taalgebied of het tweetalige gebied Brussel-Hoofdstad wonen.<br /><br />§ 3. De Vlaamse Regering bepaalt de wijze waarop de leerlingenkenmerken worden vastgesteld en legt de procedure vast volgens dewelke de gegevens door het Vlaams Ministerie van Onderwijs en Vorming worden verzameld. Voor leerlingenkenmerk 4 bepaalt de Vlaamse Regering de wijze waarop de buurten worden afgebakend. (241)
+
 ## Onderafdeling 2 : Vaststelling van het totale werkingsbudget en van de voorafnamen
+
+### ART. 243.
+
+§ 1. Voor het begrotingsjaar 2009, dat de kredieten omvat voor het schooljaar 2008-2009, is het startbedrag voor de werkingsmiddelen voor het gewoon voltijds secundair onderwijs en het deeltijds beroepssecundair onderwijs 394.419.000 euro.<br /><br />§ 2. 1° Vanaf begrotingsjaar 2010 tot en met begrotingsjaar 2015 wordt het werkingsbudget voor het gewoon voltijds en deeltijds beroepssecundair onderwijs jaarlijks berekend op basis van de kredieten die in de algemene uitgavenbegroting van de Vlaamse Gemeenschap van het vorige begrotingsjaar als werkingsbudget bestemd zijn voor het gewoon voltijds en deeltijds secundair onderwijs, vermeerderd met 30 % van de loonkosten van de leden van het vastbenoemde meesters-, vak- en dienstpersoneel van het gewoon voltijds en deeltijds secundair gemeenschapsonderwijs van het vorige begrotingsjaar.<br /><br />2° Voor het begrotingsjaar 2016 wordt het werkingsbudget voor het gewoon voltijds en deeltijds secundair onderwijs berekend op basis van de kredieten die in de algemene uitgavenbegroting van de Vlaamse Gemeenschap van het vorige begrotingsjaar als werkingsbudget bestemd zijn voor het gewoon voltijds en deeltijds secundair onderwijs, vermeerderd met 60 % van de loonkosten van de leden van het vastbenoemde meesters-, vak- en dienstpersoneel van het gewoon voltijds en deeltijds secundair gemeenschapsonderwijs van het vorige begrotingsjaar.<br /><br />3° Voor het begrotingsjaar 2017 wordt het werkingsbudget voor het gewoon voltijds en deeltijds secundair onderwijs berekend op basis van de kredieten die in de algemene uitgavenbegroting van de Vlaamse Gemeenschap van het vorige begrotingsjaar als werkingsbudget bestemd zijn voor het gewoon voltijds en deeltijds secundair onderwijs, vermeerderd met de volledige loonkosten van de leden van het vastbenoemde meesters-, vak- en dienstpersoneel van het gewoon voltijds en deeltijds secundair gemeenschapsonderwijs van het vorige begrotingsjaar.<br /><br />4° Vanaf 2018 wordt het werkingsbudget voor het gewoon voltijds en <br />deeltijds secundair onderwijs jaarlijks berekend op basis van de kredieten die in de algemene uitgavenbegroting van de Vlaamse Gemeenschap van het vorige begrotingsjaar als werkingsbudget bestemd zijn voor het gewoon voltijds en deeltijds secundair onderwijs.<br /><br />§ 3. Voor het begrotingsjaar 2009 wordt het bedrag van 394.419.000 euro vermenigvuldigd met de aanpassingscoëfficiënten A1 en A2.<br /><br />Vanaf begrotingsjaar 2010 wordt het bedrag, verkregen na de toepassing van § 2, vermenigvuldigd met de aanpassingscoëfficiënten A1 en A2.<br /><br />De coëfficiënten A1 en A2 worden als volgt berekend :<br />1° A1 = 0,6 + 0,4 (punten 1/punten 0), waarbij :<br />a) punten 1 = het totale aantal punten voor schoolkenmerken, zoals berekend na de toepassing van artikel 245, voor de leerlingen van het gewoon secundair onderwijs op 1 februari van het vorige schooljaar;<br />b) punten 0 = het totale aantal punten voor schoolkenmerken, zoals berekend na de toepassing van artikel 245, voor de leerlingen van het gewoon secundair onderwijs op 1 februari van het voorlaatste schooljaar;<br />2° A2 = Cx-1/(Cx-2), waarbij :<br />a) Cx-1 : de gezondheidsindex van de maand januari van het begrotingsjaar x-1;<br />b) Cx-2 : de gezondheidsindex van de maand januari van het begrotingsjaar x-2.<br /><br />De A2-coëfficiënt wordt voor 100 % in rekening gebracht.<br />3° in afwijking van 2° is de A2-coëfficiënt voor het begrotingsjaar 2010 gelijk aan 1.<br /><br />§ 4. Het bedrag verkregen door toepassing van § 3 wordt voor de begrotingsjaren 2009, 2012, 2013, 2014 en 2015 verhoogd met de loonkosten die jaarlijks vrijkomen door de toepassing van artikel 192, § 2, en met 70 % van de loonkosten die vrijkomen door toepassing van het koninklijk besluit nr. 296 van 31 maart 1984 betreffende de leden van het meesters-, vak- en dienstpersoneel van de Rijksinrichtingen.<br /><br />Het bedrag, verkregen door de toepassing van § 3, wordt voor het begrotingsjaar 2016 verhoogd met 40 % van de loonkosten die vrijkomen door de toepassing van het koninklijk besluit nr. 296 van 31 maart 1984 betreffende de leden van het meesters-, vak- en dienstpersoneel van de Rijksinrichtingen. (242)
+
+### ART. 244.
+
+<p>&nbsp;</p>
+
+<table border="0" cellpadding="0" cellspacing="0" style="border-collapse:collapse">
+	<tbody>
+		<tr>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; vertical-align:top; width:460.6pt">
+			<p>§ 1. Van het werkingsbudget gewoon secundair onderwijs, verkregen na de toepassing van artikel 243, wordt een budget van 3 procent voorafgenomen voor scholen die voldoen aan schoolkenmerk V1. Die voorafname wordt berekend volgens de volgende formule :<!--?xml:namespace prefix = o ns =         "urn:schemas-microsoft-com:office:office" /--></p>
+
+			<p>V1 = B * lln_Neu * 3 % / (lln_tot + lln_Neu * 3 % + lln_LB * 4,5 %), waarbij :</p>
+
+			<p>1° B = werkingsbudget, verkregen na de toepassing van artikel 243;</p>
+
+			<p>2° lln_Neu = leerlingen van het secundair Gemeenschapsonderwijs;</p>
+
+			<p>3° lln_tot = het totale aantal leerlingen in het gewoon secundair onderwijs;</p>
+
+			<p>4° lln_LB = leerlingen van het officieel secundair onderwijs.</p>
+
+			<p>&nbsp;</p>
+
+			<p>§ 2. Van het werkingsbudget gewoon secundair onderwijs, verkregen na de toepassing van artikel 243, wordt een budget van 4,5 % voorafgenomen voor scholen die voldoen aan schoolkenmerk V2. Die voorafname wordt berekend volgens de volgende formule :</p>
+
+			<p>V2 = B * lln_LB * 4,5 % / (lln_tot + lln_Neu * 3 % + lln_LB * 4,5 %).</p>
+
+			<p>&nbsp;</p>
+
+			<p>§ 3. Van het werkingsbudget gewoon secundair onderwijs, verkregen na de toepassing van artikel 243 en artikel 244, § 1 en § 2, wordt een percentage berekend dat in aanmerking komt voor verdeling op basis van leerlingenkenmerken. Dat budget wordt berekend volgens de volgende formule :</p>
+
+			<p>(B - V1 - V2) * Pjaarx = B_lli, waarbij :</p>
+
+			<p>1° Pjaarx = percentage voor het begrotingsjaar in kwestie. Dat percentage bedraagt 10% voor de begrotingsjaren 2009, 2010 en 2011. Vanaf het begrotingsjaar 2012 stijgt dit percentage jaarlijks met 0,125% tot 11% in 2019. Vanaf begrotingsjaar 2020 is het dit percentage van 11% dat zal worden toegepast,</p>
+
+			<p>2° B_lli = werkingbudget dat verdeeld zal worden op basis van leerlingenkenmerken.</p>
+
+			<p>&nbsp;</p>
+
+			<p>Het werkingsbudget voor de leerlingenkenmerken 1, 2 en 3 wordt als volgt bepaald :</p>
+
+			<p>B_lli x 30 %,</p>
+
+			<p>en voor leerlingenkenmerk 4 als volgt :</p>
+
+			<p>B_lli x 10 %,</p>
+
+			<p>respectievelijk : B_lli<sub>Opl</sub>, B_lli<sub>St</sub>, B_lli<sub>Ta</sub>, B_lli<sub>Bu</sub>, met :</p>
+
+			<p>a) B_lli<sub>Opl</sub>= werkingsbudget leerlingenkenmerk 1;</p>
+
+			<p>b) B_lli<sub>St</sub>= werkingsbudget leerlingenkenmerk 2;</p>
+
+			<p>c) B_li<sub>Ta</sub>= werkingsbudget leerlingenkenmerk 3;</p>
+
+			<p>d) B_lli<sub>Bu</sub>= werkingsbudget leerlingenkenmerk 4.</p>
+
+			<p>&nbsp;</p>
+
+			<p>§ 4. Het werkingsbudget dat verdeeld wordt op basis van de schoolkenmerken, hierna B<sub>-</sub>SchK te noemen, wordt bepaald door de toepassing van de volgende formule :</p>
+
+			<p>B_SchK= B-V1-V2-B<sub>-</sub>lli.</p>
+
+			<p>&nbsp;</p>
+
+			<p>In afwijking van het eerste lid wordt voor het begrotingsjaar 2010 het B<sub>-</sub>SchK bepaald door toepassing van volgende formule :</p>
+
+			<p>B_SchK = GPP_SchK2009 x het totale aantal punten verkregen na toepassing van artikel 245, 1° en 2°, waarbij : GPP_SchK2009 de geldwaarde per punt is voor het begrotingsjaar 2009, zoals vastgesteld na de derde begrotingscontrole 2009. (243)</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
 
 ## Onderafdeling 3 : Verdeling van het krediet voor schoolkenmerken en leerlingenkenmerken
 
+### ART. 245.
+
+<p>&nbsp;</p>
+
+<table border="0" cellpadding="0" cellspacing="0" style="border-collapse:collapse">
+	<tbody>
+		<tr>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; vertical-align:top; width:460.6pt">
+			<p>B_SchK, vermeld in artikel 244, § 4, wordt als volgt verdeeld over de schoolkenmerken zoals bedoeld in artikel 242, § 1, met uitzondering van schoolkenmerk V1, V2 en SK_Gon :<!--?xml:namespace prefix = o ns =         "urn:schemas-microsoft-com:office:office" /--></p>
+
+			<p>1° voor de leerlingen van het secundair onderwijs worden de puntengewichten als volgt vastgesteld :</p>
+
+			<table border="1" cellpadding="0" cellspacing="0" style="border-collapse:collapse">
+				<tbody>
+					<tr>
+						<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:black 1pt solid; border-right:black 1pt solid; border-top:black 1pt solid; width:361.1pt">
+						<p>Eerste graad</p>
+						</td>
+						<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:black 1pt solid; width:99.5pt">
+						<p>16 punten</p>
+						</td>
+					</tr>
+					<tr>
+						<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:black 1pt solid; border-right:black 1pt solid; border-top:#f0f0f0; width:361.1pt">
+						<p>Tweede en derde graad technisch en beroepssecundair onderwijs, de studiegebieden decoratieve technieken, fotografie, handel, mode, lichaamsverzorging, personenzorg, sport, toerisme en voeding</p>
+						</td>
+						<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; width:99.5pt">
+						<p>18 punten</p>
+						</td>
+					</tr>
+					<tr>
+						<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:black 1pt solid; border-right:black 1pt solid; border-top:#f0f0f0; width:361.1pt">
+						<p>Tweede en derde graad technisch en beroepssecundair onderwijs, de studiegebieden auto, bouw, chemie, glastechnieken, grafische communicatie en media, hout, juwelen, koeling en warmte, land- en tuinbouw, maritieme opleidingen, maatschappelijke veiligheid, mechanica-elektriciteit, muziekinstrumentenbouw, optiek, orthopedische technieken, tandtechnieken en textiel</p>
+						</td>
+						<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; width:99.5pt">
+						<p>22 punten</p>
+						</td>
+					</tr>
+					<tr>
+						<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:black 1pt solid; border-right:black 1pt solid; border-top:#f0f0f0; width:361.1pt">
+						<p>Tweede en derde graad algemeen secundair onderwijs (inclusief de aso-studierichtingen die tot het studiegebied sport behoren)</p>
+						</td>
+						<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; width:99.5pt">
+						<p>16 punten</p>
+						</td>
+					</tr>
+					<tr>
+						<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:black 1pt solid; border-right:black 1pt solid; border-top:#f0f0f0; width:361.1pt">
+						<p>Tweede en derde graad kunstonderwijs, de studiegebieden ballet en podiumkunsten</p>
+						</td>
+						<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; width:99.5pt">
+						<p>20 punten</p>
+						</td>
+					</tr>
+					<tr>
+						<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:black 1pt solid; border-right:black 1pt solid; border-top:#f0f0f0; width:361.1pt">
+						<p>Tweede en derde graad kunstonderwijs, het studiegebied beeldende kunsten</p>
+						</td>
+						<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; width:99.5pt">
+						<p>18 punten</p>
+						</td>
+					</tr>
+					<tr>
+						<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:black 1pt solid; border-right:black 1pt solid; border-top:#f0f0f0; width:361.1pt">
+						<p>Hoger beroepsonderwijs en Vierde graad</p>
+						</td>
+						<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; width:99.5pt">
+						<p>20 punten</p>
+						</td>
+					</tr>
+					<tr>
+						<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:black 1pt solid; border-right:black 1pt solid; border-top:#f0f0f0; width:361.1pt">
+						<p>Deeltijds beroepssecundair onderwijs</p>
+						</td>
+						<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; width:99.5pt">
+						<p>10 punten</p>
+						</td>
+					</tr>
+				</tbody>
+			</table>
+
+			<p>2° voor alle scholen wordt per categorie, vermeld in 1°, het aantal leerlingen, geteld op de teldatum, vermeld in 172, vermenigvuldigd met het overeenkomstige puntengewicht;</p>
+
+			<p>3° het B_SchK wordt vervolgens gedeeld door het totale aantal te verdelen punten. Het quotiënt van die deling is de geldwaarde per punt voor schoolkenmerken, hierna GPP_SchK te noemen. (244)</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+
+### ART. 246.
+
+§ 1. Het budget V1, vermeld in artikel 244, § 1, wordt als volgt verdeeld : V1 wordt gedeeld door alle leerlingen van het gewoon secundair gemeenschapsonderwijs. Het quotiënt van die deling resulteert in een geldwaarde per leerling voor schoolkenmerk V1, hierna GW-V1 te noemen.<br /><br />§ 2. Het budget V2, vermeld in artikel 244, § 2, wordt als volgt verdeeld : V2 wordt gedeeld door alle leerlingen van het officieel gewoon secundair onderwijs. Het quotiënt van die deling resulteert in een geldwaarde per leerling voor schoolkenmerk V2, hierna GW-V2 te noemen. (245)
+
+### ART. 247.
+
+<p>&nbsp;</p>
+
+<table border="0" cellpadding="0" cellspacing="0" style="border-collapse:collapse">
+	<tbody>
+		<tr>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; vertical-align:top; width:460.6pt">
+			<p>§ 1. Het budget leerlingenkenmerken, vermeld in artikel 244, § 3, wordt verdeeld in een bedrag per leerling geteld op de teldatum, vermeld in 172, per kenmerk volgens de volgende formules :<!--?xml:namespace prefix = o ns =         "urn:schemas-microsoft-com:office:office" /--></p>
+
+			<p>1° B_Clli<sub>Opl</sub>= B_lli<sub>Opl</sub>/Clli<sub>Opl</sub>;</p>
+
+			<p>2° B_Clli<sub>St</sub>= B_lli<sub>St</sub>/Clli<sub>St</sub>;</p>
+
+			<p>3° B_Clli<sub>Ta</sub>= B_lli<sub>Ta</sub>/Clli<sub>Ta</sub>;</p>
+
+			<p>4° B_Clli<sub>Bu</sub>= B_lli<sub>Bu</sub>/ Clli<sub>Bu</sub>;</p>
+
+			<p>met :</p>
+
+			<p>a) B_Clli<sub>Opl</sub>= bedrag per gecorrigeerd leerlingenaantal leerlingenkenmerk 1;</p>
+
+			<p>b) B_Clli<sub>St</sub>= bedrag per gecorrigeerd leerlingenaantal leerlingenkenmerk 2;</p>
+
+			<p>c) B_Clli<sub>Ta</sub>= bedrag per gecorrigeerd leerlingenaantal leerlingenkenmerk 3;</p>
+
+			<p>d) B_Clli<sub>Bu</sub>= bedrag per gecorrigeerd leerlingenaantal leerlingenkenmerk 4;</p>
+
+			<p>e) Clli<sub>Opl</sub>= het gecorrigeerde aantal leerlingen dat in aanmerking komt voor leerlingenkenmerk 1;</p>
+
+			<p>f) Clli<sub>St</sub>= het gecorrigeerde aantal leerlingen dat in aanmerking komt voor leerlingenkenmerk 2;</p>
+
+			<p>g) Clli<sub>Ta</sub>= het gecorrigeerde aantal leerlingen dat in aanmerking komt voor leerlingenkenmerk 3;</p>
+
+			<p>h) Clli<sub>Bu</sub>= het gecorrigeerde aantal leerlingen dat in aanmerking komt voor leerlingenkenmerk 4.</p>
+
+			<p>&nbsp;</p>
+
+			<p>§ 2. Clli<sub>Opl</sub>, Clli<sub>St</sub>, Clli<sub>Ta</sub> en Clli<sub>Bu</sub>, vermeld in § 1, worden respectievelijk via de volgende formules berekend :</p>
+
+			<p>&nbsp;</p>
+
+			<p>1° berekening van Clli<sub>Opl</sub> : Clli<sub>Opl</sub>= sigm<sub>alle scholen</sub> Clli<sub>Opl</sub>_school, waarbij :</p>
+
+			<p>Clli<sub>Opl</sub>_school = MIN (Proc<sub>_</sub>school<sub>_</sub>iOpl;</p>
+
+			<p>Gemid_tot_iOpl + (2 x Stdev<sub>_</sub>tot<sub>_</sub>iOpl)) x aantal leerlingen in de school, waarbij :</p>
+
+			<p>a) Clli<sub>Opl</sub>_school = het gecorrigeerde leerlingenaantal per school voor leerlingenkenmerk 1;</p>
+
+			<p>b) Proc_school_iOpl = het procentueel aantal leerlingen dat per school in aanmerking komt voor leerlingenkenmerk 1;</p>
+
+			<p>c) Gemid_tot_iOpl = het gemiddelde van het procentueel aantal leerlingen dat voor alle scholen samen in aanmerking komt voor leerlingenkenmerk 1;</p>
+
+			<p>d) Stdev_tot_iOpl = de standaarddeviatie berekend op de totale procentuele leerlingenpopulatie voor leerlingenkenmerk 1;</p>
+
+			<p>e) MIN = de laagste waarde van de twee : het procentueel aantal leerlingen dat per school in aanmerking komt voor leerlingenkenmerk 1 of het gemiddelde van het procentueel aantal leerlingen dat voor alle scholen samen in aanmerking komt voor leerlingenkenmerk 1 vermeerderd met twee keer de standaarddeviatie berekend op de totale procentuele leerlingenpopulatie voor leerlingenkenmerk 1;</p>
+
+			<p>&nbsp;</p>
+
+			<p>2° berekening van Clli<sub>St</sub> : Clli<sub>St</sub>= sigm<sub>alle scholen</sub> Clli<sub>St</sub>_school, waarbij :</p>
+
+			<p>Clli<sub>St</sub>_school = MIN (Proc_school_iSt; Gemid<sub>_</sub>tot<sub>_</sub>iSt + (2 x Stdev_tot_iSt)) x aantal leerlingen in de school, waarbij :</p>
+
+			<p>a) Clli<sub>St</sub>_school = het gecorrigeerde leerlingenaantal per school voor leerlingenkenmerk 2;</p>
+
+			<p>b) Proc_school_iSt = het procentueel aantal leerlingen per school dat in aanmerking komt voor leerlingenkenmerk 2;</p>
+
+			<p>c) Gemid_tot_iSt = het gemiddelde van het procentueel aantal leerlingen dat voor alle scholen samen in aanmerking komt voor leerlingenkenmerk 2;</p>
+
+			<p>d) Stdev_tot_iSt = de standaarddeviatie berekend op de totale procentuele leerlingenpopulatie voor leerlingenkenmerk 2;</p>
+
+			<p>e) MIN= de laagste waarde van de twee : het procentueel aantal leerlingen dat per school in aanmerking komt voor leerlingenkenmerk 2 of het gemiddelde van het procentueel aantal leerlingen dat voor alle scholen samen in aanmerking komt voor leerlingenkenmerk 2 vermeerderd met twee keer de standaarddeviatie berekend op de totale procentuele leerlingenpopulatie voor leerlingenkenmerk 2;</p>
+
+			<p>&nbsp;</p>
+
+			<p>3° berekening van Clli<sub>Ta</sub> : Clli<sub>Ta</sub>= sigm<sub>alle scholen</sub>Clli<sub>Ta</sub>_school, waarbij :</p>
+
+			<p>Clli<sub>Ta</sub>_school= MIN (Proc_school_iTa; Gemid_tot_iTa + (2 x Stdev_tot_iTa)) x aantal leerlingen in de school, waarbij :</p>
+
+			<p>a) Clli<sub>Ta</sub>_School = het gecorrigeerde leerlingenaantal per school voor leerlingenkenmerk 3;</p>
+
+			<p>b) Proc_school_iTa = het procentueel aantal leerlingen per school dat in aanmerking komt voor leerlingenkenmerk 3;</p>
+
+			<p>c) Gemid_tot_iTa = het gemiddelde van het procentueel aantal leerlingen per school dat voor alle scholen samen in aanmerking komt voor leerlingenkenmerk 3;</p>
+
+			<p>d) Stdev_toT_iTa = de standaarddeviatie berekend op de totale procentuele leerlingenpopulatie voor leerlingenkenmerk 3;</p>
+
+			<p>e) MIN = de laagste waarde van de twee : het procentueel aantal leerlingen dat per school in aanmerking komt voor leerlingenkenmerk 3 of het gemiddelde van het procentueel aantal leerlingen dat voor alle scholen samen in aanmerking komt voor leerlingenkenmerk 3 vermeerderd met twee keer de standaarddeviatie berekend op de totale procentuele leerlingenpopulatie voor leerlingenkenmerk 3;</p>
+
+			<p>&nbsp;</p>
+
+			<p>4° berekening van Clli<sub>Bu</sub> : Clli<sub>Bu</sub>= sigm<sub>alle scholen</sub>Clli<sub>Bu</sub>_school, waarbij :</p>
+
+			<p>Clli<sub>Bu</sub>= MIN (Proc_school_iBu; Gemid<sub>_</sub>tot<sub>_</sub>iBu + (2 x Stdev_tot_iBu)) x aantal leerlingen in de school, waarbij :</p>
+
+			<p>a) Clli<sub>Bu</sub>= het gecorrigeerde leerlingenaantal per school voor leerlingenkenmerk 4;</p>
+
+			<p>b) Proc_school_iBu = het procentueel aantal leerlingen per school dat in aanmerking komt voor leerlingenkenmerk 4;</p>
+
+			<p>c) Gemid_tot_iBu = het gemiddelde van het procentueel aantal leerlingen dat voor alle scholen samen in aanmerking komt voor leerlingenkenmerk 4;</p>
+
+			<p>d) Stdev_tot_iBu = de standaarddeviatie berekend op de totale procentuele leerlingenpopulatie voor leerlingenkenmerk 4;</p>
+
+			<p>e) MIN = de laagste waarde van de twee : het procentueel aantal leerlingen dat per school in aanmerking komt voor leerlingenkenmerk 4 of het gemiddelde van het procentueel aantal leerlingen dat voor alle scholen samen in aanmerking komt voor leerlingenkenmerk 4 vermeerderd met twee keer de standaarddeviatie berekend op de totale procentuele leerlingenpopulatie voor leerlingenkenmerk 4. (246)</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+
 ## Onderafdeling 4 : Berekening van het werkingsbudget per school
 
+### ART. 248.
+
+Het werkingsbudget per school wordt voor een deel berekend op basis van schoolkenmerken en voor een deel op basis van leerlingenkenmerken. (247)
+
+### ART. 249.
+
+<p>&nbsp;</p>
+
+<table border="0" cellpadding="0" cellspacing="0" style="border-collapse:collapse">
+	<tbody>
+		<tr>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; vertical-align:top; width:460.6pt">
+			<p>§ 1. Per school wordt het totale aantal punten berekend door het aantal leerlingen, geteld op de teldatum, vermeld in 172, te vermenigvuldigen met hun puntengewicht voor schoolkenmerken, met uitzondering van schoolkenmerk V1, V2 en SK_Gon.<!--?xml:namespace prefix = o ns =         "urn:schemas-microsoft-com:office:office" /--></p>
+
+			<p>&nbsp;</p>
+
+			<p>§ 2. Het werkingsbudget per school van het gewoon secundair onderwijs is de som van :</p>
+
+			<p>1° het resultaat van de vermenigvuldiging van het totale aantal punten per school met de GPP_SchK, vermeld in artikel 245, 3°;</p>
+
+			<p>2° het bedrag, verkregen door het resultaat van de volgende vermenigvuldigingen</p>
+
+			<p>a) B_Clli<sub>Opl</sub> x Clli<sub>Opl</sub>_school;</p>
+
+			<p>b) B_Clli<sub>St</sub> x Clli<sub>St</sub>_school;</p>
+
+			<p>c) B_Clli<sub>Ta</sub> x Clli<sub>Ta</sub>_school;</p>
+
+			<p>d) B_Clli<sub>Bu</sub> x Clli<sub>Bu</sub>_school;</p>
+
+			<p>3° GW_V1, vermeld in artikel 246, § 1, vermenigvuldigd met het aantal leerlingen in de school;</p>
+
+			<p>4° GW_V2, vermeld in artikel 246, § 2, vermenigvuldigd met het aantal leerlingen in de school.</p>
+
+			<p>&nbsp;</p>
+
+			<p>§ 3. Het budget, verkregen na de toepassing van § 2, wordt voor het gemeenschapsonderwijs jaarlijks aan de raden van bestuur van de scholengroepen toegekend in overeenstemming met de bepalingen van van het bijzonder decreet van 14 juli 1998 betreffende het gemeenschapsonderwijs, waarbij :</p>
+
+			<p>1° de som van het bedrag dat met toepassing van § 2 verkregen is, voor het geheel van de scholen van het gewoon secundair gemeenschapsonderwijs tot en met 2015 verminderd wordt met 30 percent van de loonkosten van de leden van het meesters-, vak- en dienstpersoneel van het gewoon secundair gemeenschapsonderwijs, in 2016 met 60 percent en in 2017 met 100 percent van die loonkosten;</p>
+
+			<p>2° de som van het bedrag dat met toepassing van § 2 verkregen is, voor het geheel van de scholen van het gewoon secundair gemeenschapsonderwijs verhoogd wordt met de middelen, vastgelegd voor het optrekken van het vakantiegeld tot 92 % voor het contractuele meesters-, vak- en dienstpersoneel van het gemeenschapsonderwijs, toegekend via de betreffende onderwijs-cao. Voor het begrotingsjaar 2009 is dat bedrag 851.000 euro. Vanaf begrotingsjaar 2010 wordt dit bedrag jaarlijks geïndexeerd door de toepassing van de A2-coëfficiënt, vermeld in artikel 243;</p>
+
+			<p>3° de som van het bedrag dat met toepassing van § 2 verkregen is, vermeerderd wordt met een transitiefonds dat in 2009 1.250.000 euro bedraagt en jaarlijks verminderd wordt met 125.000 euro.</p>
+
+			<p>&nbsp;</p>
+
+			<p>§ 4. Het werkingsbudget verkregen na toepassing van § 2 wordt voor het gesubsidieerd onderwijs jaarlijks toegekend aan de schoolbesturen van het gesubsidieerd onderwijs. Daarbij worden de middelen voor de schoolbesturen van het vrij gesubsidieerd onderwijs verhoogd met de middelen tot harmonisering van de lonen tussen het meesters-, vak- en dienstpersoneel van het gesubsidieerd vrij onderwijs en dat personeel van het gemeenschapsonderwijs, toegekend via de respectieve onderwijs-cao's. Voor het begrotingsjaar 2009 is dat bedrag 4.768.000 euro. Vanaf begrotingsjaar 2010 wordt dat bedrag jaarlijks geïndexeerd door de toepassing van de A2-coëfficiënt, vermeld in artikel 243. Die cao-middelen worden verdeeld naar rata van het aantal punten per school van het vrij gesubsidieerd onderwijs, dat verkregen is na de toepassing van § 1.</p>
+
+			<p>&nbsp;</p>
+
+			<p>§ 5. De werkingsbudgetten van de scholengroepen van het gemeenschapsonderwijs en van de scholen van het gesubsidieerd gewoon secundair onderwijs worden elk schooljaar in minstens twee schijven uitbetaald waarbij vóór 1 februari de som van de uitbetaalde schijven minstens 50 % van de werkingsmiddelen van het betrokken schooljaar vertegenwoordigt en het saldo vóór 1 juli betaald wordt. (248)</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+
 ## Onderafdeling 5 : Evaluatie
+
+### ART. 250.
+
+De Vlaamse Regering ontwikkelt een methode die jaarlijks toelaat om een globaal zicht te krijgen op de besteding van de werkingsbudgetten in het secundair onderwijs. (249)
+
+### ART. 251.
+
+In 2012 wordt het nieuwe financieringssysteem door de Vlaamse Regering geëvalueerd. Deze evaluatie zal de doelmatige aanwending van de toegekende werkingsmiddelen beoordelen. <br /><br />Uitgangspunten van deze evaluatie zijn :<br />- de gelijke behandeling van elk kind met dezelfde noden;<br />- gelijke middelen voor elke school in eenzelfde situatie;<br />- het voeren van een gelijkekansenbeleid;<br />- transparantie, voorspelbaarheid en stabiliteit van het mechanisme;<br />- evolutie van de schoolloopbanen, met bijzondere aandacht voor gelijke kansen en talentontwikkeling. (250)
 
 ## [Onderafdeling 6. Personeel ten laste van het werkingsbudget (ing. decr. 21 december 2012, art. III.24)]
 
@@ -1656,15 +2019,132 @@ Artikel 216, § 5, is eveneens van toepassing in de scholen van het buitengewoon
 
 ## Onderafdeling 1. Schoolkenmerken
 
+### ART. 323.
+
+Voor de toepassing van deze afdeling gelden volgende schoolkenmerken :<br />a) het studiegebied en de onderwijsvorm in het gewoon onderwijs;<br />b) het type in het buitengewoon onderwijs;<br />c) de begeleiding door een school voor buitengewoon secundair onderwijs van een of meer leerlingen in het geïntegreerd secundair onderwijs, hierna SK-Gon te noemen;<br />d) de organisatie van neutraal onderwijs, conform artikel 24, § 1, tweede lid, van de gecoördineerde Grondwet, hierna voorafname 1 (V1) te noemen;<br />e) het aanbod van de keuze tussen onderricht in een van de erkende godsdiensten en de niet-confessionele zedenleer, conform artikel 24, § 1, vierde lid, van de gecoördineerde Grondwet, hierna voorafname 2 (V2) te noemen. (322)
+
 ## Onderafdeling 2. Vaststelling van het totale werkingsbudget en de voorafnamen
+
+### ART. 324.
+
+§ 1.Voor het begrotingsjaar 2009, dat de kredieten omvat voor het schooljaar 2008-2009, is het startbedrag voor de werkingsmiddelen voor het buitengewoon secundair onderwijs 23.865.000 euro.<br /><br />§ 2. De berekening van het werkingsbudget vanaf begrotingsjaar 2010 gebeurt als volgt :<br />1° vanaf begrotingsjaar 2010 tot en met begrotingsjaar 2015 wordt het werkingsbudget voor het buitengewoon secundair onderwijs jaarlijks berekend op basis van de kredieten die in de algemene uitgavenbegroting van de Vlaamse Gemeenschap van het vorige begrotingsjaar als werkingsbudget bestemd zijn voor het buitengewoon secundair onderwijs, vermeerderd met 30 % van de loonkosten van de leden van het vastbenoemde meesters-, vak- en dienstpersoneel van het buitengewoon secundair gemeenschapsonderwijs van het vorige begrotingsjaar;<br />2° voor het begrotingsjaar 2016 wordt het werkingsbudget voor het buitengewoon secundair onderwijs berekend op basis van de kredieten die in de algemene uitgavenbegroting van de Vlaamse Gemeenschap van het vorige begrotingsjaar als werkingsbudget bestemd zijn voor het buitengewoon secundair onderwijs, vermeerderd met 60 % van de loonkosten van de leden van het vastbenoemde meesters-, vak- en dienstpersoneel van het buitengewoon secundair gemeenschapsonderwijs van het vorige begrotingsjaar;<br />3° voor het begrotingsjaar 2017 wordt het werkingsbudget voor het buitengewoon secundair onderwijs berekend op basis van de kredieten die in de algemene uitgavenbegroting van de Vlaamse Gemeenschap van het vorige begrotingsjaar als werkingsbudget bestemd zijn voor het buitengewoon secundair onderwijs, vermeerderd met de volledige loonkosten van de leden van het vastbenoemde meesters-, vak- en dienstpersoneel van het buitengewoon secundair gemeenschapsonderwijs van het vorige begrotingsjaar;<br />4° vanaf 2018 wordt het werkingsbudget voor het buitengewoon secundair onderwijs jaarlijks berekend op basis van de kredieten die in de algemene uitgavenbegroting van de Vlaamse Gemeenschap van het vorige begrotingsjaar als werkingsbudget bestemd zijn voor het buitengewoon secundair onderwijs.<br /><br />§ 3. Voor het begrotingsjaar 2009 wordt het bedrag van 23.865.000 euro vermenigvuldigd met de aanpassingscoëfficiënten A1 en A2.<br /><br />Vanaf begrotingsjaar 2010 wordt het bedrag, verkregen na de toepassing van § 2, vermenigvuldigd met de aanpassingscoëfficiënten A1 en A2.<br /><br />De coëfficiënten A1 en A2 worden als volgt berekend :<br />1° A1 = 0,6 + 0,4 (punten 1/punten 0), waarbij :<br />a) punten 1 = het totale aantal punten voor schoolkenmerken, zoals berekend na de toepassing van artikel 326, voor de leerlingen van het buitengewoon secundair onderwijs op 1 februari van het vorige schooljaar;<br />b) punten 0 = het totale aantal punten voor schoolkenmerken, zoals berekend na de toepassing van artikel 326, voor de leerlingen van het buitengewoon secundair onderwijs op 1 februari van het voorlaatste schooljaar;<br />2° A2 = Cx-1/(Cx-2), waarbij :<br />a) Cx-1 : de gezondheidsindex van de maand januari van het begrotingsjaar x-1;<br />b) Cx-2 : de gezondheidsindex van de maand januari van het begrotingsjaar x-2.<br />De A2-coëfficiënt wordt voor 100 % in rekening gebracht.<br />3° in afwijking van 2° is de A2-coëfficiënt voor het begrotingsjaar 2010 gelijk aan 1.<br /><br />§ 4. Het bedrag verkregen door toepassing van § 3 wordt voor de begrotingsjaren 2009, 2012, 2013, 2014 en 2015 verhoogd met de loonkosten die jaarlijks vrijkomen door de toepassing van artikel 192, § 2, en met 70 % van de loonkosten die vrijkomen door toepassing van het koninklijk besluit nr. 296 van 31 maart 1984 betreffende de leden van het meesters-, vak- en dienstpersoneel van de Rijksinrichtingen.<br /><br />Het bedrag, verkregen door de toepassing van § 3, wordt voor het begrotingsjaar 2016 verhoogd met 40 % van de loonkosten die vrijkomen door de toepassing van het koninklijk besluit nr. 296 van 31 maart 1984 betreffende de leden van het meesters-, vak- en dienstpersoneel van de Rijksinrichtingen. (323)
+
+### ART. 325.
+
+§ 1. Van het werkingsbudget buitengewoon secundair onderwijs, verkregen na de toepassing van artikel 324, wordt een budget van 3 percent voorafgenomen voor scholen die voldoen aan schoolkenmerk V1. Die voorafname wordt berekend volgens de volgende formule :<br />V1 = B * lln-Neu * 3 % / (lln-tot+ lln-Neu * 3 %+ lln-LB * 4,5 %), waarbij :<br />1° B = werkingsbudget, verkregen na de toepassing van artikel 324;<br />2° lln-Neu = leerlingen van het buitengewoon secundair Gemeenschapsonderwijs;<br />3° lln-tot = het totale aantal leerlingen in het buitengewoon secundair onderwijs;<br />4° lln-LB = leerlingen van het officieel buitengewoon secundair onderwijs.<br /><br />§ 2. Van het werkingsbudget buitengewoon secundair onderwijs, verkregen na de toepassing van artikel 324, wordt een budget van 4,5 % voorafgenomen voor scholen die voldoen aan schoolkenmerk V2. Die voorafname wordt berekend volgens de volgende formule :<br />V2 = B * lln-LB * 4,5 % / (lln-tot + lln-Neu * 3 % + lln-LB * 4,5 %).<br /><br />§ 3. Het werkingsbudget dat verdeeld wordt op basis van de schoolkenmerken, hierna B-SchK te noemen, wordt bepaald door de toepassing van de volgende formule :<br />B-SchK= B-V1-V2. <br /><br />In afwijking van het eerste lid wordt voor het begrotingsjaar 2010 het B-SchK bepaald<br />door toepassing van volgende formule :<br />B-SchK = GPP-SchK2009 x het totale aantal punten verkregen na toepassing van artikel 326, 1° en 2°, waarbij : GPP-SchK2009 de geldwaarde per punt is voor het begrotingsjaar 2009, zoals vastgesteld na de derde begrotingscontrole 2009. (324)
 
 ## Onderafdeling 3. Verdeling van het werkingsbudget voor schoolkenmerken
 
+### ART. 326.
+
+<p>B-SchK, vermeld in artikel 325, § 3, wordt als volgt verdeeld over de schoolkenmerken, vermeld in artikel 323, met uitzondering van schoolkenmerk V1 en V2 :<br>
+1° voor de leerlingen van het buitengewoon secundair onderwijs en van het geïntegreerd secundair onderwijs wordt het puntengewicht als volgt vastgesteld :</p>
+
+<table border="1" cellpadding="0">
+	<tbody>
+		<tr>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; width:351.75pt">
+			<p>Buitengewoon secundair onderwijs niet type 4 <!--?xml:namespace prefix = o ns =         "urn:schemas-microsoft-com:office:office" /--></p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; width:104.05pt">
+			<p>34 punten</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; width:351.75pt">
+			<p>Buitengewoon secundair onderwijs wel type 4</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; width:104.05pt">
+			<p>39 punten</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; width:351.75pt">
+			<p>Geïntegreerd onderwijs - gedeeltelijke en permanente integratie</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; width:104.05pt">
+			<p>2 punten</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; width:351.75pt">
+			<p>Geïntegreerd onderwijs - volledige en permanente integratie voor leerlingen met een attest van het buitengewoon onderwijs type 1</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; width:104.05pt">
+			<p>2 punten</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; width:351.75pt">
+			<p>Geïntegreerd onderwijs - volledige en permanente integratie van leerlingen met een attest van het buitengewoon onderwijs type 3, 4, 6 of 7 met een bijkomende mentale handicap</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; width:104.05pt">
+			<p>2 punten</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; width:351.75pt">
+			<p>Geïntegreerd onderwijs - volledige en permanente integratie van normaal begaafde leerlingen met een attest van het buitengewoon onderwijs type 3</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; width:104.05pt">
+			<p>7 punten</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; width:351.75pt">
+			<p>Geïntegreerd onderwijs - volledige en permanente integratie van normaal begaafde leerlingen met een attest van het buitengewoon onderwijs type 4 of 7</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; width:104.05pt">
+			<p>9 punten</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; width:351.75pt">
+			<p>Geïntegreerd onderwijs - volledige en permanente integratie van normaal begaafde leerlingen met een attest van het buitengewoon onderwijs type 6</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; width:104.05pt">
+			<p>14 punten</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p>2° voor alle scholen wordt per categorie, vermeld in 1°, het aantal leerlingen, geteld op de teldatum, vermeld in artikel 169 tot en met 172, vermenigvuldigd met het overeenkomstige puntengewicht;<br>
+3° het B-SchK wordt vervolgens gedeeld door het totale aantal te verdelen punten. Het quotiënt van die deling is de geldwaarde per punt voor schoolkenmerken, hierna GPP-SchK te noemen. (325)</p>
+
+### ART. 327.
+
+Het budget V1, vermeld in artikel 325, § 1, wordt als volgt verdeeld : V1 wordt gedeeld door alle leerlingen van het buitengewoon secundair gemeenschapsonderwijs. Het quotiënt van die deling resulteert in een geldwaarde per leerling voor schoolkenmerk V1, hierna GW-V1 te noemen.<br /><br />Het budget V2, vermeld in artikel 325, § 2, wordt als volgt verdeeld : V2 wordt gedeeld door alle leerlingen van het buitengewoon officieel secundair onderwijs. Het quotiënt van die deling resulteert in een geldwaarde per leerling voor schoolkenmerk V2, hierna GW-V2 te noemen. (326)
+
 ## Onderafdeling 4. Berekening van het werkingsbudget per school
+
+### ART. 328.
+
+Het werkingsbudget per school wordt berekend op basis van schoolkenmerken. (327)
+
+### ART. 329.
+
+§ 1. Per school wordt het totale aantal punten berekend door het aantal leerlingen, geteld op de teldatum, vermeld in artikel 169 tot en met 172, te vermenigvuldigen met hun puntengewicht voor schoolkenmerken, met uitzondering van schoolkenmerk V1, V2 en SchK-Gon.<br /><br />§ 2. Het werkingsbudget per school van het buitengewoon secundair onderwijs is de som van :<br />1° het resultaat van de vermenigvuldiging van het totale aantal punten per school met de GPP-SchK, vermeld in artikel 326, 3°;<br />2° GW-V1, vermeld in artikel 327, vermenigvuldigd met het aantal leerlingen in de school;<br />3° GW-V2, vermeld in artikel 327, vermenigvuldigd met het aantal leerlingen in de school.<br /><br />§ 3. Het budget, verkregen na de toepassing van § 1 en § 2, wordt voor het gemeenschapsonderwijs jaarlijks aan de raden van bestuur van de scholengroepen toegekend in overeenstemming met de bepalingen van artikel 36, 2°, van het bijzonder decreet van 14 juli 1998 betreffende het gemeenschapsonderwijs, waarbij :<br />1° de som van het bedrag dat met toepassing van § 2 verkregen is, voor het geheel van de scholen van het buitengewoon secundair gemeenschapsonderwijs tot en met 2015 verminderd wordt met 30 percent van de loonkosten van de leden van het meesters-, vak- en dienstpersoneel van het gewoon secundair gemeenschapsonderwijs, in 2016 met 60 percent en in 2017 met 100 percent van die loonkosten;<br />2° de som van het bedrag dat met toepassing van § 2 verkregen is, voor het geheel van de scholen van het buitengewoon secundair gemeenschapsonderwijs verhoogd wordt met de middelen, vastgelegd voor het optrekken van het vakantiegeld tot 92 % voor het contractuele meesters-, vak- en dienstpersoneel van het gemeenschapsonderwijs, toegekend via de betreffende onderwijs-cao. Voor het begrotingsjaar 2009 is dat bedrag 68.000 euro.<br />Vanaf begrotingsjaar 2010 wordt dat bedrag jaarlijks geïndexeerd door de toepassing van de A2-coëfficiënt, vermeld in artikel 324;<br />3° de som van het bedrag dat met toepassing van § 2 verkregen is, vermeerderd wordt met een transitiefonds dat in 2009 56.000 euro bedraagt en in 2010 19.000 euro.<br /><br />§ 4. Het werkingsbudget verkregen na de toepassing van § 2, wordt voor het gesubsidieerd onderwijs jaarlijks toegekend aan de schoolbesturen van het gesubsidieerd onderwijs.<br /><br />Daarbij worden de middelen voor de schoolbesturen van het vrij gesubsidieerd onderwijs verhoogd met de middelen tot harmonisering van de lonen tussen het meesters-, vak- en dienstpersoneel van het gesubsidieerd vrij onderwijs en dat personeel van het gemeenschapsonderwijs, toegekend via de respectieve onderwijs-cao's. Voor het begrotingsjaar 2009 is dat bedrag 267.000 euro. Vanaf begrotingsjaar 2010 wordt dat bedrag jaarlijks geïndexeerd door de toepassing van de A2-coëfficiënt, vermeld in artikel 324. Die cao-middelen worden verdeeld naar rata van het aantal punten per school van het vrij gesubsidieerd onderwijs, dat verkregen is na de toepassing van § 1.<br /><br />§ 5. De werkingsbudgetten van de scholengroepen van het gemeenschapsonderwijs en van de scholen van het gesubsidieerd buitengewoon secundair onderwijs worden elk schooljaar in minstens twee schijven uitbetaald waarbij vóór 1 februari de som van de uitbetaalde schijven minstens 50 % van de werkingsmiddelen van het betrokken schooljaar vertegenwoordigt en het saldo vóór 1 juli betaald wordt. (328)
 
 ## Onderafdeling 5. [Berekening van de werkingsmiddelen voor scholen buitengewoon onderwijs actief in het kader van het ondersteuningsmodel (verv. decr. 5 april 2019, art. 95, I: 1 januari 2018)]
 
+### ART. 330.
+
+Per school wordt het totale aantal punten berekend door het aantal GON-leerlingen die begeleid worden vanuit de school voor buitengewoon secundair onderwijs, te vermenigvuldigen met hun puntengewicht zoals bepaald in artikel 326.<br /><br />De integratietoelage per school van het buitengewoon secundair onderwijs is het resultaat van de vermenigvuldiging van het totale aantal punten per school zoals berekend in het eerste lid met de GPP-SchK, vermeld in artikel 326, 3°. <br /><br />De integratietoelage wordt jaarlijks uitbetaald in één schijf in juni. (329)
+
 ## Onderafdeling 6. Evaluatie
+
+### ART. 331.
+
+De Vlaamse Regering ontwikkelt een methode die jaarlijks toelaat om een globaal zicht te krijgen op de besteding van de werkingsbudgetten in het secundair onderwijs. (330)<br /><br />
+
+### ART. 332.
+
+In 2012 wordt het nieuwe financieringssysteem door de Vlaamse Regering geëvalueerd. Deze evaluatie zal de doelmatige aanwending van de toegekende werkingsmiddelen beoordelen. Uitgangspunten van deze evaluatie zijn :<br />- de gelijke behandeling van elk kind met dezelfde noden;<br />- gelijke middelen voor elke school in eenzelfde situatie;<br />- het voeren van een gelijkekansenbeleid;<br />- transparantie, voorspelbaarheid en stabiliteit van het mechanisme;<br />- evolutie van de schoolloopbanen, met bijzondere aandacht voor gelijke kansen en talentontwikkeling. (331)
 
 ## [Onderafdeling 7. Personeel ten laste van het werkingsbudget (ing. decr. 21 december 2012, art. III.29)]
 
