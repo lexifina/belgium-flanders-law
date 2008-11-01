@@ -24,6 +24,10 @@ In dit besluit wordt verstaan onder :<br />1° auditsoftware : de software die t
 
 ## Afdeling II Overdracht van het energieprestatiecertificaat residentiële gebouwen bij verkoop en verhuur
 
+### ART. 4.
+
+Een eigenaar die een residentieel gebouw wil verkopen, moet over een energieprestatiecertificaat residentiële gebouwen beschikken. <br /><br />De eigenaar moet op eenvoudig verzoek van een kandidaat-koper deze een geldig energieprestatiecertificaat kunnen voorleggen. Bij de verkoop van een residentieel gebouw draagt de eigenaar aan de koper een geldig energieprestatiecertificaat over.<br /><br />
+
 ### ART. 6.
 
 In afwijking van artikel 4, eerste lid en 5, eerste lid, kan de eigenaar van een residentieel gebouw of wooneenheid die al over een geldig energieprestatiecertificaat bij de bouw beschikt en dat slaat op het hele gebouw of de ganse wooneenheid, dat energieprestatiecertificaat gebruiken om te voldoen aan de verplichtingen, vermeld in artikel 4, tweede lid en artikel 5, tweede lid.<br /><br />
