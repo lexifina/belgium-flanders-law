@@ -1,0 +1,17 @@
+{
+  "codex_id": 1017223,
+  "title": "Ministerieel besluit van 2008-07-25 houdende wijziging van het ministerieel besluit van 23 januari 2004 tot vaststelling van de toepassingsvoorwaarden voor de indeling van geslachte varkens",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1017223/VolledigDocument?datum=2008-11-02",
+  "source_sha256": "f968d748ff15cc95af7437d9d46d0a8589df72e240b2b335b6fb5502d6480722",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1017223&param=informatie",
+  "as_of": "2008-11-02",
+  "made": "2008-07-25",
+  "gazette": "2008-10-23",
+  "numac": 2008036240,
+  "document_start": "2008-11-02",
+  "document_end": null,
+  "in_force": "2008-11-02",
+  "article_versions": 6,
+  "record_form": "consolidated version as in force on 2008-11-02; oldest version available; future article versions excluded; article text as the API gives it"
+}
