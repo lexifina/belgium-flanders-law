@@ -1,0 +1,17 @@
+{
+  "codex_id": 1016758,
+  "title": "Besluit van de Vlaamse Regering van 2008-03-14 houdende de terbeschikkingstelling van frequenties aan de Vlaamse Radio- en Televisieomroep",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1016758/VolledigDocument?datum=2008-11-03",
+  "source_sha256": "9b54a9fbde567a5ddaee0507839037ec11f1fda1f9085430158cbdba8498f56d",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1016758&param=informatie",
+  "as_of": "2008-11-03",
+  "made": "2008-03-14",
+  "gazette": "2008-05-06",
+  "numac": 2008201461,
+  "document_start": "2008-11-03",
+  "document_end": null,
+  "in_force": "2008-11-03",
+  "article_versions": 5,
+  "record_form": "consolidated version as in force on 2008-11-03; oldest version available; future article versions excluded; article text as the API gives it"
+}
