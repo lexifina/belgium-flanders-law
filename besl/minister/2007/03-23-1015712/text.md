@@ -6,17 +6,19 @@ De Vlaamse minister van Welzijn, Volksgezondheid en Gezin,<br /><br />Gelet op h
 
 ### ART. 1.
 
-Ter uitvoering van artikel 9 tot en met 12&nbsp;van het besluit van de Vlaamse Regering van 2 februari 2001 betreffende de erkenning van mammografische eenheden en regionale screeningscentra voor borstkankeropsporing, worden de volgende instanties gemachtigd tot het door deskundigen, vermeld in artikel 3, 1°, laten uitvoeren van de acceptatietesten en de jaarlijkse en halfjaarlijkse testen van de toestellen van de mammografische eenheden, verder testen te noemen, en tot het opvolgen van de dagelijkse en wekelijkse kwaliteitscontroles, in het kader van hetzelfde besluit :<br>
+Ter uitvoering van artikel 9 tot en met 12 van het besluit van de Vlaamse Regering van 2 februari 2001 betreffende de erkenning van mammografische eenheden en regionale screeningscentra voor borstkankeropsporing, worden de volgende instanties gemachtigd tot het door deskundigen, vermeld in artikel 3, 1°, laten uitvoeren van de acceptatietesten en de jaarlijkse en halfjaarlijkse testen van de toestellen van de mammografische eenheden, verder testen te noemen, en tot het opvolgen van de dagelijkse en wekelijkse kwaliteitscontroles, in het kader van hetzelfde besluit :<br>
 1° voor klassieke screeningsmammografie waarbij een analoog beeld wordt geproduceerd via een conventioneel filmschermsysteem :<br>
 a) het Leuvens Universitair Centrum voor Medische Fysica in de Radiologie, LUCMFR, van de Katholieke Universiteit Leuven, gevestigd Herestraat 49, 3000 Leuven;<br>
 b) het Centrum voor Fysisch-technische Kwaliteitscontrole in de Radiologie, QCC, van de Universiteit Gent, gevestigd Proeftuinstraat 86, 9000 Gent;<br>
 c) de vakgroep Medical Imaging and Physical Sciences, BEFY, van de Vrije Universiteit Brussel, gevestigd Laarbeeklaan 101, 1090 Brussel;<br>
 d) de dienst stralingsfysica van AIB Vinçotte Controlatom, gevestigd Jan Olieslagerslaan 35, 1800 Vilvoorde.<br>
-e) Ingenimed bvba, gevestigd Louis Bertrandlaan 104, b F0, 1030 Brussel voor een periode van zes maanden startend bij het in werking treden van dit ministerieel besluit.<br>
-2° voor digitale screeningsmammografie, vermeld in het ministerieel besluit van 28 april 2005 tot bepaling van de voorwaarden tot toelating van de digitale mammografie in het Vlaamse bevolkingsonderzoek inzake borstkanker, worden volgende instanties, in afwachting van de mogelijkheid van deelname aan een intercollegiale toetsing voor digitale screeningsmammografie, tot en met 30 juni 2008 gemachtigd :<br>
-a) het Leuvens Universitair Centrum voor Medische Fysica in de Radiologie, LUCMFR, van de Katholieke Universiteit Leuven, gevestigd Herestraat 49, 3000 Leuven;<br>
-b) het Centrum voor Fysisch-technische Kwaliteitscontrole in de Radiologie, QCC, van de Universiteit Gent, gevestigd Proeftuinstraat 86, 9000 Gent;<br>
-c) de vakgroep Medical Imaging and Physical Sciences, BEFY, van de Vrije Universiteit Brussel, gevestigd Laarbeeklaan 101, 1090 Brussel.
+2° voor digitale screeningsmammografie, vermeld in het ministerieel besluit van 28 april 2005 tot bepaling van de voorwaarden tot toelating van de digitale mammografie in het Vlaamse bevolkingsonderzoek inzake borstkanker, worden de volgende instanties gemachtigd :<br>
+a) het Leuvens Universitair Centrum voor Medische Fysica in de Radiologie, LUCMFR, van de Katholieke Universiteit Leuven, gevestigd Herestraat 49, in 3000 Leuven;<br>
+b) het Centrum voor Fysisch-technische Kwaliteitscontrole in de Radiologie, QCC, van de Universiteit Gent, gevestigd Proeftuinstraat 86, in 9000 Gent;<br>
+c) de vakgroep « Medical Imaging and Physical Sciences, BEFY », van de Vrije Universiteit Brussel, gevestigd Laarbeeklaan 101, in 1090 Brussel;<br>
+d) de dienst stralingsfysica van AIB Vinçotte Controlatom, gevestigd Jan Olieslagerslaan 35, in 1800 Vilvoorde.<br>
+<br>
+De machtiging van de dienst stralingsfysica van AIB Vinçotte Controlatom, vermeld in punt 2°, d, geldt alleen voor de uitvoering van de testen, vermeld in artikel 1, eerste lid, en niet voor het uitvoeren van testen voor typetoelating van digitale systemen in het Vlaamse bevolkingsonderzoek naar borstkanker, vermeld in artikelen 8 en 9 van het ministerieel besluit van 28 april 2005 tot bepaling van de voorwaarden voor toelating van de digitale mammografie in het Vlaamse bevolkingsonderzoek inzake borstkanker.
 
 ### ART. 2.
 
@@ -44,7 +46,7 @@ Op basis van het niet naleven van de voorwaarden, vermeld in artikel 3, kan de m
 
 ### ART. 6.
 
-Met behoud van de toepassing van de bepalingen van artikel 1,&nbsp;2°, 3 en 5, wordt de machtiging verleend vanaf de ondertekening van dit besluit tot en met 31 december 2009.
+Met behoud van de toepassing van de bepalingen van&nbsp;artikel 1, &nbsp;2°, 3 en 5, wordt de machtiging verleend vanaf de ondertekening van dit besluit tot en met 31 december 2010. De machtiging, vermeld in artikel 1, 2°, d, heeft uitwerking vanaf 9 oktober 2008.
 
 ### ART. 7.
 
