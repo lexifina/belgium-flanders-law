@@ -1,0 +1,17 @@
+{
+  "codex_id": 1017247,
+  "title": "Besluit van de Vlaamse Regering van 2008-09-19 houdende opheffing van het bouwverbod, vermeld in artikel 52 van de wet van 12 juli 1973 op het natuurbehoud, met betrekking tot het perceel dat kadastraal bekend is als Knokke-Heist, 2e afdeling, sectie F, nummer 495 D enerzijds, en delen van het perceel dat kadastraal bekend is als Knokke-Heist, 2e afdeling, sectie F, nummer 496 F anderzijds",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1017247/VolledigDocument?datum=2008-11-08",
+  "source_sha256": "b314fd03c0e2f997025d2e36a515f88418535127ad1888b9e4f747876b703685",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1017247&param=informatie",
+  "as_of": "2008-11-08",
+  "made": "2008-09-19",
+  "gazette": "2008-10-29",
+  "numac": 2008036260,
+  "document_start": "2008-11-08",
+  "document_end": null,
+  "in_force": "2008-11-08",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2008-11-08; oldest version available; future article versions excluded; article text as the API gives it"
+}
