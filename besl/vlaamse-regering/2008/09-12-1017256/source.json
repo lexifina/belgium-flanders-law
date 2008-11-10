@@ -1,0 +1,17 @@
+{
+  "codex_id": 1017256,
+  "title": "Besluit van de Vlaamse Regering van 2008-09-12 tot vernieuwing van de samenstelling van de erkenningscommissie voor departementen en afdelingen medisch toezicht",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1017256/VolledigDocument?datum=2008-11-10",
+  "source_sha256": "ea1fd55a34886a726e0647722f1225c3413cea8b9609298e6815a0e243574dff",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1017256&param=informatie",
+  "as_of": "2008-11-10",
+  "made": "2008-09-12",
+  "gazette": "2008-10-31",
+  "numac": 2008203798,
+  "document_start": "2008-11-10",
+  "document_end": null,
+  "in_force": "2008-11-10",
+  "article_versions": 5,
+  "record_form": "consolidated version as in force on 2008-11-10; oldest version available; future article versions excluded; article text as the API gives it"
+}
