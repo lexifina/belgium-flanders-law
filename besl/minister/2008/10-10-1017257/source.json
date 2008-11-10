@@ -1,0 +1,17 @@
+{
+  "codex_id": 1017257,
+  "title": "Ministerieel besluit van 2008-10-10 betreffende de vaststelling van het zoneringsplan van de gemeente Vosselaar",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1017257/VolledigDocument?datum=2008-11-10",
+  "source_sha256": "88fbb6f4c668c11a288432b90eb0a25f37ee8e8ae37682852614e6d4450f1eba",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1017257&param=informatie",
+  "as_of": "2008-11-10",
+  "made": "2008-10-10",
+  "gazette": "2008-10-31",
+  "numac": 2008036242,
+  "document_start": "2008-11-10",
+  "document_end": null,
+  "in_force": "2008-11-10",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2008-11-10; oldest version available; future article versions excluded; article text as the API gives it"
+}
