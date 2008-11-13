@@ -12,6 +12,14 @@ Voor de toepassing van dit besluit wordt verstaan onder :<br />1° de verordenin
 
 De Vlaamse minister bevoegd voor de binnenlandse Aangelegenheden is gemachtigd om in toepassing van :<br />1° artikel 4, derde paragraaf, van de verordening, in te stemmen met de deelneming van de Vlaamse Gemeenschap, het Vlaamse Gewest, de provincies, de gemeenten, de binnengemeentelijke territoriale organen opgericht in gemeenten met meer dan 100 000 inwoners, de verenigingen van gemeenten, de openbare centra voor maatschappelijk welzijn, de polders en wateringen, de publiekrechtelijke instellingen die onder zijn voogdij vallen, alsook de verenigingen van instellingen die tot één of meer van deze categorieën behoren, aan een EGTS. Voor de publiekrechtelijke instellingen van de Vlaamse Gemeenschap of het Vlaamse Gewest die niet onder zijn toezicht vallen, geeft hij de instemming tot deelname aan een EGTS na eensluidend advies van de bevoegde toezichtminister;<br />2° artikel 4, vierde paragraaf, van de verordening, de kennisgevingen en documenten als bedoeld in artikel 4, tweede paragraaf, van de verordening in ontvangst te nemen.<br /><br />
 
+### ART. 2bis.
+
+De EGTS met statutaire zetel in het Vlaamse Gewest stuurt, na instemming van haar leden met de overeenkomst en de statuten overeenkomstig artikel 4, vijfde paragraaf, van de verordening, de overeenkomst en statuten naar de Vlaamse minister bevoegd voor de binnenlandse aangelegenheden. <br /><br />De Vlaamse minister bevoegd voor de binnenlandse aangelegenheden zorgt voor de bekendmaking van de statuten van de EGTS, alsook van elke eventuele latere wijziging ervan, in het Belgisch Staatsblad.
+
+### ART. 2ter.
+
+De Vlaamse minister bevoegd voor de binnenlandse aangelegenheden kan de activiteiten van een EGTS die in strijd zijn met de bepaling van artikel 13, eerste lid, van de verordening op het grondgebied van het Vlaamse Gewest verbieden of eisen dat de leden van de EGTS, waarvoor hij de instemming tot deelneming ervan heeft gegeven, zich eruit terugtrekken, tenzij de EGTS de desbetreffende activiteit staakt.
+
 ### ART. 3.
 
 Dit besluit treedt in werking op 18 januari 2008.<br /><br />
