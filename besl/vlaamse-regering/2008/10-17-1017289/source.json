@@ -1,0 +1,17 @@
+{
+  "codex_id": 1017289,
+  "title": "Besluit van de Vlaamse Regering van 2008-10-17 betreffende een aanvullende subsidie voor de verenigingssportbeleidsplannen in de randgemeenten ter uitvoering van artikel 8 van het decreet van 9 maart 2007 houdende de subsidiëring van gemeente- en provinciebesturen en de Vlaamse Gemeenschapscommissie voor het voeren van een Sport voor Allen-beleid",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1017289/VolledigDocument?datum=2008-11-13",
+  "source_sha256": "0ac05d91a06af11b4d1e9bd943da5579da0d6a4330b525907634d92006f5616d",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1017289&param=informatie",
+  "as_of": "2008-11-13",
+  "made": "2008-10-17",
+  "gazette": "2008-11-13",
+  "numac": 2008203972,
+  "document_start": "2008-11-13",
+  "document_end": "2013-12-31",
+  "in_force": "2008-11-13",
+  "article_versions": 10,
+  "record_form": "consolidated version as in force on 2008-11-13; oldest version available; future article versions excluded; article text as the API gives it"
+}
