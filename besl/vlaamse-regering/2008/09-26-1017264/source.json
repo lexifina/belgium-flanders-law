@@ -1,0 +1,17 @@
+{
+  "codex_id": 1017264,
+  "title": "Besluit van de Vlaamse Regering van 2008-09-26 tot wijziging van het besluit van de Vlaamse Regering van 18 januari 2008 houdende aanwijzing van de bevoegde autoriteit, vermeld in artikel 4, derde en vierde paragraaf, van de Verordening (EG) nr. 1082/2006 van het Europees Parlement en de Raad van 5 juli 2006 betreffende een Europese Groepering voor Territoriale Samenwerking (EGTS)",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1017264/VolledigDocument?datum=2008-11-13",
+  "source_sha256": "ff554b5158ebbd0e9fe84e7588ed9300c678326d26670d6a4c72468c67a9989c",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1017264&param=informatie",
+  "as_of": "2008-11-13",
+  "made": "2008-09-26",
+  "gazette": "2008-11-03",
+  "numac": 2008203847,
+  "document_start": "2008-11-13",
+  "document_end": null,
+  "in_force": "2008-11-13",
+  "article_versions": 5,
+  "record_form": "consolidated version as in force on 2008-11-13; oldest version available; future article versions excluded; article text as the API gives it"
+}
