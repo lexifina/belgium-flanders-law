@@ -1,0 +1,17 @@
+{
+  "codex_id": 1017269,
+  "title": "Decreet van 2008-10-10 houdende instemming met het Verdrag van Lissabon tot wijziging van het Verdrag betreffende de Europese Unie en het Verdrag tot oprichting van de Europese Gemeenschap, en de Slotakte, ondertekend in Lissabon op 13 december 2007",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1017269/VolledigDocument?datum=2008-11-15",
+  "source_sha256": "74cd62a85919497cd5fa48aa58e9f02805c5707526939807777c95a595a0224e",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1017269&param=informatie",
+  "as_of": "2008-11-15",
+  "made": "2008-10-10",
+  "gazette": "2008-11-05",
+  "numac": 2008203857,
+  "document_start": "2008-11-15",
+  "document_end": null,
+  "in_force": "2008-11-15",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2008-11-15; oldest version available; future article versions excluded; article text as the API gives it"
+}

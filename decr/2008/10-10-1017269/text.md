@@ -1,0 +1,13 @@
+# Decreet van 2008-10-10 houdende instemming met het Verdrag van Lissabon tot wijziging van het Verdrag betreffende de Europese Unie en het Verdrag tot oprichting van de Europese Gemeenschap, en de Slotakte, ondertekend in Lissabon op 13 december 2007
+
+### ART. 1.
+
+Dit decreet regelt een gemeenschaps- en een gewestaangelegenheid.
+
+### ART. 2.
+
+Het verdrag van Lissabon tot wijziging van het Verdrag betreffende de Europese Unie en het Verdrag tot oprichting van de Europese Gemeenschap, en de Slotakte, ondertekend in Lissabon op 13 december 2007, zullen volkomen gevolg hebben.
+
+### ART. 3.
+
+De handelingen die aangenomen zullen worden op basis van artikel 15ter, hernummerd tot artikel 31, § 3, en artikel 48, § 7, van het Verdrag betreffende de Europese Unie, zullen volkomen gevolg hebben.<br />De wijzigingen aan het Verdrag betreffende de werking van de Europese Unie en aan de bijgevoegde protocollen die aangenomen zullen worden op basis van :<br />- artikel 65, § 3, hernummerd tot artikel 81, § 3, van het Verdrag betreffende de werking van de Europese Unie;<br />- artikel 69B, § 1, hernummerd tot artikel 83, § 1, van het Verdrag betreffende de werking van de Europese Unie;<br />- artikel 69E, § 4, hernummerd tot artikel 86, § 4, van het Verdrag betreffende de werking van de Europese Unie;<br />- artikel 78, hernummerd tot artikel 98, van het Verdrag betreffende de werking van de Europese Unie;<br />- artikel 87, § 2, c), hernummerd tot artikel 107, § 2, c), van het Verdrag betreffende de werking van de Europese Unie;<br />- artikel 104, § 14, hernummerd tot artikel 126, § 14, van het Verdrag betreffende de werking van de Europese Unie;<br />- artikel 107, § 5, hernummerd tot artikel 129, § 3, van het Verdrag betreffende de werking van de Europese Unie;<br />- artikel 137, § 2, hernummerd tot artikel 153, § 2, van het Verdrag betreffende de werking van de Europese Unie;<br />- artikel 175, § 2, hernummerd tot artikel 192, § 2, van het Verdrag betreffende de werking van de Europese Unie;<br />- artikel 245, hernummerd tot artikel 281, van het Verdrag betreffende de werking van de Europese Unie;<br />- artikel 256bis, § 5, hernummerd tot artikel 300, § 5, van het Verdrag betreffende de werking van de Europese Unie;<br />- artikel 266, hernummerd tot artikel 308, van het Verdrag betreffende de werking van de Europese Unie;<br />- artikel 270bis, § 2, hernummerd tot artikel 312, § 2, van het Verdrag betreffende de werking van de Europese Unie;<br />- artikel 280H, hernummerd tot artikel 333, van het Verdrag betreffende de werking van de Europese Unie;<br />zullen volkomen gevolg hebben.
