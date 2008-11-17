@@ -12,6 +12,10 @@ De frequenties, vermeld in de tabel die als bijlage bij dit besluit is gevoegd, 
 
 De Vlaamse minister, bevoegd voor het Mediabeleid, bepaalt de technische karakteristieken van de frequentieassignaties die voortkomen uit de allotments die zijn opgenomen in de bijlage aan dit besluit.<br /><br />
 
+### ART. 3.
+
+In artikel 1, eerste lid van het koninklijk besluit van 10 december 1987 waarbij de nodige frequenties ter beschikking van de "Belgische Radio en Televisie, Nederlandse Uitzendingen" worden gesteld, wordt punt 3° opgeheven.<br /><br />
+
 ### ART. 4.
 
 Dit besluit treedt in werking op 3 november 2008, behalve artikel 3, dat in werking treedt op 17 november 2008.<br /><br />
