@@ -34,6 +34,8 @@ Het VVS wordt aangewezen als de leidende vereniging voor de fokkerijsector varke
 17° de vzw Europese Arabo-Friezen Vereniging;<br>
 18° de VZW Belgisch Stamboek van het Friese Paard;<br>
 19° de VZW Belgian Quarter Horse Association.<br>
+20° de VZW Irish Cob Society Belgium;<br>
+21° de VZW Belgisch Tinker Stamboek.<br>
 <br>
 De erkenning van de organisatie, vermeld in het eerste lid, 1°, is vermeld in artikel 2 van het ministerieel besluit van 16 maart 2005 tot erkenning van verenigingen voor de paardenfokkerij.<br>
 <br>
@@ -50,6 +52,8 @@ De erkenning van de fokkersvereniging, vermeld in het eerste lid, 17°, is opgen
 De erkenning van de fokkersvereniging, vermeld in het eerste lid, 18°, is opgenomen in artikel 1 van het ministerieel besluit van 13 augustus 2007 houdende de erkenning van de fokkersvereniging Belgisch Stamboek van het Friese Paard VZW en tot wijziging van het ministerieel besluit van 25 oktober 2005 houdende de organisatie van de uitbouw van fokkerijstructuren in Vlaanderen.<br>
 <br>
 De erkenning van de fokkersvereniging, vermeld in het eerste lid, 19°, is opgenomen in artikel 2, eerste lid, 18°, van het ministerieel besluit van 16 maart 2005 tot erkenning van verenigingen voor de paardenfokkerij.<br>
+<br>
+De erkenning van de fokkersverenigingen, vermeld in het eerste lid, 20° en 21°, is opgenomen in artikel 2, eerste lid, 19° en 20°, van het ministerieel besluit van 16 maart 2005 tot erkenning van verenigingen voor de paardenfokkerij.<br>
 <br>
 De VCP wordt aangewezen als de leidende vereniging voor de fokkerijsector paarden en ezels.<br>
 <br>

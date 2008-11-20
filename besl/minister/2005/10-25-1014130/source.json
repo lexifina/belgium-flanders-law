@@ -2,16 +2,16 @@
   "codex_id": 1014130,
   "title": "Ministerieel besluit van 2005-10-25 houdende de organisatie van de uitbouw van fokkerijstructuren in Vlaanderen",
   "type": "Ministerieel besluit",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1014130/VolledigDocument?datum=2007-10-28",
-  "source_sha256": "2dff9c07f77922d343532a853ad37b91a7434a72cd4f778dbf0f8e6cb673c367",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1014130/VolledigDocument?datum=2008-11-20",
+  "source_sha256": "e484444a3a602323b3ffe254e0e196811cb27e59ada230194f5990e1532a7539",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1014130&param=informatie",
-  "as_of": "2007-10-28",
+  "as_of": "2008-11-20",
   "made": "2005-10-25",
   "gazette": "2005-12-06",
   "numac": 2005036503,
   "document_start": null,
   "document_end": "2026-04-07",
-  "in_force": "2007-10-28",
+  "in_force": "2008-11-20",
   "article_versions": 4,
-  "record_form": "consolidated version as in force on 2007-10-28; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2008-11-20; future article versions excluded; article text as the API gives it"
 }
