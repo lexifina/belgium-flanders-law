@@ -1,0 +1,17 @@
+{
+  "codex_id": 1017697,
+  "title": "Besluit van de Vlaamse Regering van 2009-01-30 tot wijziging van het besluit van de Vlaamse Regering van 18 juli 2008 houdende de procedure voor de planning, de vaststelling en de goedkeuring van de uitvoeringsprogramma's in het kader van de planmatige realisatie van sociale woonprojecten en houdende de financiering van verrichtingen in het kader van sociale woonprojecten",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1017697/VolledigDocument?datum=2008-11-23",
+  "source_sha256": "24dada68e4dcb57d3a873142e682a1b301cb914fc4164926a69ffd4349eaff32",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1017697&param=informatie",
+  "as_of": "2008-11-23",
+  "made": "2009-01-30",
+  "gazette": "2009-03-18",
+  "numac": 2009201060,
+  "document_start": "2008-11-23",
+  "document_end": null,
+  "in_force": "2008-11-23",
+  "article_versions": 8,
+  "record_form": "consolidated version as in force on 2008-11-23; oldest version available; future article versions excluded; article text as the API gives it"
+}
