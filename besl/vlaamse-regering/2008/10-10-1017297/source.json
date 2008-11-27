@@ -1,0 +1,17 @@
+{
+  "codex_id": 1017297,
+  "title": "Besluit van de Vlaamse Regering van 2008-10-10 betreffende de wijziging van de ligging van de installaties voor het vervoer van aardgas door middel van leidingen van de NV Fluxys, gelegen in het openbaar domein, eigendom de NV Waterwegen en Zeekanaal, tussen de Havenstraat en de Vlaanderenstraat aan de Steenkaai te Vilvoorde",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1017297/VolledigDocument?datum=2008-11-27",
+  "source_sha256": "0954e884f394c2924cbf3907ed5312c3a2e28a5fcdc6fbcf0d0877697704dd8a",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1017297&param=informatie",
+  "as_of": "2008-11-27",
+  "made": "2008-10-10",
+  "gazette": "2008-11-17",
+  "numac": 2008036298,
+  "document_start": "2008-11-27",
+  "document_end": null,
+  "in_force": "2008-11-27",
+  "article_versions": 5,
+  "record_form": "consolidated version as in force on 2008-11-27; oldest version available; future article versions excluded; article text as the API gives it"
+}
