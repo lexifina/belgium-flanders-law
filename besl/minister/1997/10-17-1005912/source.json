@@ -2,16 +2,16 @@
   "codex_id": 1005912,
   "title": "Ministerieel besluit van 1997-10-17 houdende wijze van oproeping voor dopingcontrole voor de sport wielrennen",
   "type": "Ministerieel besluit",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1005912/VolledigDocument?datum=2006-06-01",
-  "source_sha256": "540422c5964a21aec96c58df5db996857cf730aa2e80574b11f25c11c9fcfb15",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1005912/VolledigDocument?datum=2008-11-29",
+  "source_sha256": "7af01c5abfc0791ef231d749b7565a8d778c7406cbc01094fe1185e5cbd2c766",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1005912&param=informatie",
-  "as_of": "2006-06-01",
+  "as_of": "2008-11-29",
   "made": "1997-10-17",
   "gazette": "1997-11-14",
   "numac": 1997036362,
   "document_start": null,
   "document_end": "2008-11-28",
-  "in_force": "2006-06-01",
+  "in_force": "2008-11-29",
   "article_versions": 8,
-  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2008-11-29; future article versions excluded; article text as the API gives it"
 }
