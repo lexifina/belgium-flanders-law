@@ -1,0 +1,17 @@
+{
+  "codex_id": 1017302,
+  "title": "Ministerieel besluit van 2008-11-06 houdende de wijze van oproeping voor dopingcontrole voor de sport bodybuilding",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1017302/VolledigDocument?datum=2008-11-29",
+  "source_sha256": "209cfa464e09426e397c96513bb4aa637eaf13d6bb1de2eed9eda893a0ee4cf0",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1017302&param=informatie",
+  "as_of": "2008-11-29",
+  "made": "2008-11-06",
+  "gazette": "2008-11-19",
+  "numac": 2008036303,
+  "document_start": "2008-11-29",
+  "document_end": "2013-06-09",
+  "in_force": "2008-11-29",
+  "article_versions": 10,
+  "record_form": "consolidated version as in force on 2008-11-29; oldest version available; future article versions excluded; article text as the API gives it"
+}
