@@ -1,0 +1,17 @@
+{
+  "codex_id": 1017305,
+  "title": "Besluit van de Vlaamse Regering van 2008-10-24 houdende de toekenning van een subsidie voor de plaatsing van micro-warmtekrachtinstallaties en warmtepompen door niet-commerciële instellingen en publiekrechtelijke rechtspersonen",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1017305/VolledigDocument?datum=2008-11-30",
+  "source_sha256": "2e2e49f5ce383cc7dc049a4212f65d01300bfacae7777cb74e742000ca7545b0",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1017305&param=informatie",
+  "as_of": "2008-11-30",
+  "made": "2008-10-24",
+  "gazette": "2008-11-20",
+  "numac": 2008204134,
+  "document_start": "2008-11-30",
+  "document_end": "2010-12-31",
+  "in_force": "2008-11-30",
+  "article_versions": 8,
+  "record_form": "consolidated version as in force on 2008-11-30; oldest version available; future article versions excluded; article text as the API gives it"
+}
