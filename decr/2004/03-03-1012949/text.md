@@ -110,7 +110,11 @@ Indien de gegevensuitwisseling door organisaties, diensten en personen met een m
 
 ### ART. 17.
 
-§ 1. De Vlaamse regering kan, in het kader van de operationele en epidemiologische gegevensuit-wisseling, bedoeld in artikel 16, samenwerkingverbanden op het niveau van de praktijkvoering, samenwerkingsinitiatieven eerstelijnsgezondheidszorg en partnerorganisaties, verplichten om voor hun identificatie gebruik te maken van een identificatiecode, die hen op een eenvormige en unieke manier vereenzelvigt.<br /><br />§ 2. Bovendien kan in het kader van de gegevensuitwisseling, bedoeld in artikel 16, en na advies van de Commissie voor de Bescherming van de Persoonlijke Levenssfeer, een gelijkaardig systeem opgelegd worden voor de identificatie van de gebruikers.<br /><br />§ 3. Met betrekking tot § 1 en § 2 kan de Vlaamse regering nadere regels bepalen.
+§ 1. De Vlaamse regering kan, in het kader van de operationele en epidemiologische gegevensuit-wisseling, bedoeld in artikel 16, samenwerkingverbanden op het niveau van de praktijkvoering, samenwerkingsinitiatieven eerstelijnsgezondheidszorg en partnerorganisaties, verplichten om voor hun identificatie gebruik te maken van een identificatiecode, die hen op een eenvormige en unieke manier vereenzelvigt.<br>
+<br>
+§ 2. Bovendien kan in het kader van de gegevensuitwisseling, bedoeld in artikel 16, en na advies van de een kamer van de toezichtcommissie als vermeld in artikel 10 van het decreet van 18 juli 2008 betreffende het elektronische bestuurlijke gegevensverkeer, die specifiek toeziet op de bescherming van de persoonlijke levenssfeer ten opzichte van de verwerking van persoonsgegevens die de gezondheid betreffen, een gelijkaardig systeem opgelegd worden voor de identificatie van de gebruikers.<br>
+<br>
+§ 3. Met betrekking tot § 1 en § 2 kan de Vlaamse regering nadere regels bepalen.
 
 ## HOOFDSTUK VII VERANTWOORDINGSPLICHT EN TOEZICHT
 
@@ -154,7 +158,7 @@ De volgende besluiten blijven van kracht tot aan hun opheffing:<br /><br />1° h
 
 ### ART. 26.
 
-Het advies van de Commissie voor de Bescherming van de Persoonlijke Levenssfeer, bedoeld in artikel 16, § 3 en artikel 17, § 2, wordt ingewonnen tot de Vlaamse regering een eigen toezichtcommissie opricht.<br /><br />In afwachting van het in werking treden van nieuwe regelgeving met betrekking tot de ziekenfondsdiensten voor maatschappelijk werk en woonondersteuning, wordt voor de toepassing van artikel 12 onder ziekenfondsdienst voor maatschappelijk werk en woonondersteuning verstaan, het centrum voor algemeen welzijnswerk in het kader van de ziekenfondsen, bedoeld in het decreet van 19 december 1997 betreffende het algemeen welzijnswerk, al dan niet in samenwerking met een of meer regionale dienstencentra, bedoeld in het decreet van 14 juli 1998 houdende de erkenning en de subsidiëring van verenigingen en welzijnsvoorzieningen in de thuiszorg.
+In afwachting van het in werking treden van nieuwe regelgeving met betrekking tot de ziekenfondsdiensten voor maatschappelijk werk en woonondersteuning, wordt voor de toepassing van artikel 12 onder ziekenfondsdienst voor maatschappelijk werk en woonondersteuning verstaan, het centrum voor algemeen welzijnswerk in het kader van de ziekenfondsen, bedoeld in het decreet van 19 december 1997 betreffende het algemeen welzijnswerk, al dan niet in samenwerking met een of meer regionale dienstencentra, bedoeld in het decreet van 14 juli 1998 houdende de erkenning en de subsidiëring van verenigingen en welzijnsvoorzieningen in de thuiszorg.
 
 ### ART. 27.
 
