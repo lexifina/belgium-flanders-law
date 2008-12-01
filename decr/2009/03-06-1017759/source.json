@@ -1,0 +1,17 @@
+{
+  "codex_id": 1017759,
+  "title": "Decreet van 2009-03-06 houdende wijziging van het decreet van 28 juni 2002 betreffende gelijke onderwijskansen-I",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1017759/VolledigDocument?datum=2008-12-01",
+  "source_sha256": "dc1e02ff9ed52cc179ea0ad33403a2f5d4a4437fb05d777a86c675acc4737d2f",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1017759&param=informatie",
+  "as_of": "2008-12-01",
+  "made": "2009-03-06",
+  "gazette": "2009-04-02",
+  "numac": 2009201417,
+  "document_start": "2008-12-01",
+  "document_end": null,
+  "in_force": "2008-12-01",
+  "article_versions": 7,
+  "record_form": "consolidated version as in force on 2008-12-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
