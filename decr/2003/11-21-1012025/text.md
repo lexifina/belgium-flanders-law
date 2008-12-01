@@ -160,11 +160,17 @@ Ieder Logo heeft een eigen werkgebied dat een geografisch aaneengesloten gebied 
 
 ### ART. 32.
 
-§ 1. De continu´teit van de individuele preventieve zorg- en dienstverstrekking moet verzekerd worden, onder andere door de uitwisseling van gegevens die betrekking hebben op het zorgaanbod, tussen partnerorganisaties, organisaties met terreinwerking en individuele zorgaanbieders onderling. Deze gegevensuitwisseling is noodzakelijk voor de uitbouw en werking van een operationeel informatiesysteem.<br /><br />§ 2. Logo's, partnerorganisaties, organisaties met terreinwerking en individuele zorgaanbieders moeten, enerzijds, onderling en, anderzijds, met de Vlaamse overheid gegevens uitwisselen die noodzakelijk zijn voor de uitbouw en werking van een epidemiologisch informatiesysteem om beleidsvoering zoveel mogelijk wetenschappelijk te onderbouwen.<br /><br />§ 3. Met betrekking tot § 1 en § 2, bepaalt de Vlaamse regering, na advies van de Commissie voor de Bescherming van de Persoonlijke Levenssfeer, nadere regels.
+§ 1. De continuïteit van de individuele preventieve zorg- en dienstverstrekking moet verzekerd worden, onder andere door de uitwisseling van gegevens die betrekking hebben op het zorgaanbod, tussen partnerorganisaties, organisaties met terreinwerking en individuele zorgaanbieders onderling. Deze gegevensuitwisseling is noodzakelijk voor de uitbouw en werking van een operationeel informatiesysteem.<br>
+<br>
+§ 2. Logo's, partnerorganisaties, organisaties met terreinwerking en individuele zorgaanbieders moeten, enerzijds, onderling en, anderzijds, met de Vlaamse overheid gegevens uitwisselen die noodzakelijk zijn voor de uitbouw en werking van een epidemiologisch informatiesysteem om beleidsvoering zoveel mogelijk wetenschappelijk te onderbouwen.<br>
+<br>
+§ 3. Met betrekking tot § 1 en § 2, bepaalt de Vlaamse regering, na advies van een kamer van de toezichtcommissie als vermeld in artikel 10 van het decreet van 18 juli 2008 betreffende het elektronische bestuurlijke gegevensverkeer, die specifiek toeziet op de bescherming van de persoonlijke levenssfeer ten opzichte van de verwerking van persoonsgegevens die de gezondheid betreffen, nadere regels.
 
 ### ART. 33.
 
-§ 1. De Vlaamse regering kan, in het kader van de gegevensuitwisseling, bedoeld in artikel 32, de Logo's, de partnerorganisaties, de organisaties met terreinwerking en de individuele zorgaanbieders verplichten om voor hun eigen identificatie gebruik te maken van een identificatiecode, die respectievelijk het Logo, de partnerorganisatie, de organisatie met terreinwerking en de individuele zorgaanbieder op een eenvormige en unieke manier vereenzelvigt.<br /><br />§ 2. Aan partnerorganisaties, organisaties met terreinwerking en individuele zorgaanbieders kan bovendien in het kader van de gegevensuitwisseling, bedoeld in artikel 32, en na advies van de Commissie voor de Bescherming van de Persoonlijke Levenssfeer, een gelijkaardig systeem opgelegd worden voor de identificatie van de personen, bedoeld in artikel 9 tot en met 11.
+§ 1. De Vlaamse regering kan, in het kader van de gegevensuitwisseling, bedoeld in artikel 32, de Logo's, de partnerorganisaties, de organisaties met terreinwerking en de individuele zorgaanbieders verplichten om voor hun eigen identificatie gebruik te maken van een identificatiecode, die respectievelijk het Logo, de partnerorganisatie, de organisatie met terreinwerking en de individuele zorgaanbieder op een eenvormige en unieke manier vereenzelvigt.<br>
+<br>
+§ 2. Aan partnerorganisaties, organisaties met terreinwerking en individuele zorgaanbieders kan bovendien in het kader van de gegevensuitwisseling, bedoeld in artikel 32, en na advies van een kamer van de toezichtcommissie als vermeld in artikel 10 van het decreet van 18 juli 2008 betreffende het elektronische bestuurlijke gegevensverkeer, die specifiek toeziet op de bescherming van de persoonlijke levenssfeer ten opzichte van de verwerking van persoonsgegevens die de gezondheid betreffen, een gelijkaardig systeem opgelegd worden voor de identificatie van de personen, bedoeld in artikel 9 tot en met 11.
 
 ### ART. 34.
 
@@ -237,7 +243,17 @@ De gemeentelijke en provinciale overheden, met uitzondering van de gemeenten van
 
 ### ART. 45.
 
-§ 1. De Vlaamse regering bepaalt, na advies van de Commissie voor de Bescherming van de Per-soonlijke Levenssfeer, de procedure van melding, de inhoud en de vorm van de melding, alsook de wijze van verwerking van de melding.<br /><br />In principe is de melding, bedoeld in het eerste lid, naamloos. Met het oog op de uitvoering van artikel 44, § 2, bepaalt de Vlaamse regering, na advies van de Commissie van de Bescherming van de Persoonlijke Levenssfeer, de omstandigheden waarin, de identiteit moet worden meegedeeld.<br /><br />§ 2. De gemelde gegevens worden aangewend met het oog op het nemen van initiatieven, als bedoeld in artikel 44, § 2, en in het bijzonder met het oog op het nemen van de maatregelen, als bedoeld in artikel 44, § 3, 2°.<br /><br />Deze gegevens kunnen ook worden verwerkt voor statistische of beleidsondersteunende doeleinden voorzover de identiteit van de betrokkenen niet achterhaald kan worden.<br /><br />Deze gegevens worden voor geen andere doeleinden gebruikt dan voor die welke vermeld zijn in het eerste en tweede lid.<br /><br />§ 3. De verplichting tot melding geldt voor de behandelende arts, het hoofd van een laboratorium van klinische biologie en de arts, belast met het medisch toezicht in scholen, bedrijven, voorzieningen waar kinderen en jongeren verblijven, rust- en verzorgingstehuizen en rustoorden voor bejaarden.
+§ 1. De Vlaamse regering bepaalt, na advies van een kamer van de toezichtcommissie als vermeld in artikel 10 van het decreet van 18 juli 2008 betreffende het elektronische bestuurlijke gegevensverkeer, die specifiek toeziet op de bescherming van de persoonlijke levenssfeer ten opzichte van de verwerking van persoonsgegevens die de gezondheid betreffen, de procedure van melding, de inhoud en de vorm van de melding, alsook de wijze van verwerking van de melding.<br>
+<br>
+In principe is de melding, bedoeld in het eerste lid, naamloos. Met het oog op de uitvoering van artikel 44, § 2, bepaalt de Vlaamse regering, na advies van een kamer van de toezichtcommissie als vermeld in artikel 10 van het decreet van 18 juli 2008 betreffende het elektronische bestuurlijke gegevensverkeer, die specifiek toeziet op de bescherming van de persoonlijke levenssfeer ten opzichte van de verwerking van persoonsgegevens die de gezondheid betreffen, de omstandigheden waarin, de identiteit moet worden meegedeeld.<br>
+<br>
+§ 2. De gemelde gegevens worden aangewend met het oog op het nemen van initiatieven, als bedoeld in artikel 44, § 2, en in het bijzonder met het oog op het nemen van de maatregelen, als bedoeld in artikel 44, § 3, 2°.<br>
+<br>
+Deze gegevens kunnen ook worden verwerkt voor statistische of beleidsondersteunende doeleinden voorzover de identiteit van de betrokkenen niet achterhaald kan worden.<br>
+<br>
+Deze gegevens worden voor geen andere doeleinden gebruikt dan voor die welke vermeld zijn in het eerste en tweede lid.<br>
+<br>
+§ 3. De verplichting tot melding geldt voor de behandelende arts, het hoofd van een laboratorium van klinische biologie en de arts, belast met het medisch toezicht in scholen, bedrijven, voorzieningen waar kinderen en jongeren verblijven, rust- en verzorgingstehuizen en rustoorden voor bejaarden.
 
 ### ART. 46.
 
@@ -433,4 +449,4 @@ Onverminderd de toepassing van de in het Strafwetboek gestelde straffen, worden 
 
 ### ART. 83.
 
-Het advies van de Commissie voor de Bescherming van de Persoonlijke Levenssfeer, bedoeld in artikel 32, § 3, artikel 33, § 2, en artikel 45, § 1, wordt ingewonnen tot de Vlaamse regering een eigen toezichtcommissie opricht.
+...
