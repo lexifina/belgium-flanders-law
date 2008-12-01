@@ -12,6 +12,10 @@ In artikel I 5 van hetzelfde besluit, gewijzigd bij de besluiten van de Vlaamse 
 
 In artikel VI 144, § 1 en § 2, van hetzelfde besluit, ingevoegd bij het besluit van de Vlaamse Regering van 23 mei 2008 en vervangen bij het besluit van de Vlaamse Regering van 29 mei 2009, worden de woorden « tussen 23 mei en 31 december 2009 » vervangen door de woorden « tussen 23 mei 2008 en 31 december 2009 ».
 
+### ART. 32.
+
+In artikel VII 5 van hetzelfde besluit, ingevoegd bij het besluit van de Vlaamse Regering van 16 maart 2007, worden de volgende wijzigingen aangebracht :<br /><br />1° in paragraaf 1 wordt het getal « 13.234,20 » vervangen door het getal « 13.499,00 »; <br /><br />2° in paragraaf 2 wordt het getal « 12.478,10 » vervangen door het getal « 12.727,66 ».<br />
+
 ### ART. 39.
 
 <p>In artikel VII 45 van hetzelfde besluit, ingevoegd bij het besluit van de Vlaamse Regering van 16 maart 2007, worden de volgende wijzigingen aangebracht :<br>
@@ -56,3 +60,7 @@ In artikel VI 144, § 1 en § 2, van hetzelfde besluit, ingevoegd bij het beslui
 <p>4° de bestaande tekst van het tweede lid zal paragraaf 3 vormen en als volgt luiden :<br>
 <br>
 « § 3. Ingeval de in dit artikel vermelde toelagen niet volledig verschuldigd zijn, worden ze betaald overeenkomstig artikel VII 6 ».</p>
+
+### ART. 41.
+
+In artikel VII 70quinquies § 2 van hetzelfde besluit, ingevoegd bij het besluit van de Vlaamse Regering van 29 mei 2009, worden de woorden « P-schaal » vervangen door de woorden « C- of P-schaal ».
