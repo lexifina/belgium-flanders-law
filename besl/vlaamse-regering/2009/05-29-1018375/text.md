@@ -44,6 +44,10 @@ In artikel VII 54 van hetzelfde besluit, ingevoegd bij het besluit van de Vlaams
 
 In de tabel van artikel VII 70bis van hetzelfde besluit, ingevoegd bij het besluit van de Vlaamse Regering van 5 september 2008, wordt in de tabel, in de kolom « graad » het woord « matroos » vervangen door de woorden « speciaal assistent » en wordt in de kolom « functie » het woord « matroos » vervangen door de woorden « matroos/stoker. »<br /><br />
 
+### ART. 115.
+
+In deel VII, titel 2, hoofdstuk 3, van hetzelfde besluit, ingevoegd bij het besluit van de Vlaamse Regering van 16 maart 2007 en gewijzigd bij het besluit van de Vlaamse Regering van 23 mei 2008 en 5 september 2008, wordt een afdeling 20, bestaande uit artikel VII 70quinquies, toegevoegd, die luidt als volgt :<br />« Afdeling 20. Arbeidsmarkttoelage voor artsen en arts-specialisten<br />Art. VII 70quinquies. § 1. Aan een arts wordt een arbeidsmarkttoelage toegekend van 4.650 euro (100 %) op jaarbasis. De toekenning van de toelage mag niet tot gevolg hebben dat het salaris, verhoogd met de toelage, meer bedraagt dan 51.360 euro (100 %). In voorkomend geval wordt de toelage verminderd tot 2.250 euro (100 %).<br /><br />§ 2. Aan een arts-specialist wordt een arbeidsmarkttoelage toegekend van 6.000 euro (100 %) op jaarbasis. Als de arts-specialist titularis is van een P-schaal wordt die toelage pas toegekend vanaf twaalf jaar geldelijke anciënniteit.<br /><br />§ 3. De toelagen worden pro rata van de prestaties toegekend.<br /><br />
+
 ### ART. 119.
 
 In artikel VII 90, § 3, van hetzelfde besluit, ingevoegd bij het besluit van de Vlaamse Regering van 5 september 2008, wordt het tweede lid vervangen door wat volgt :<br />« De aangepaste dagbedragen worden als volgt berekend :<br />((3.332,48 euro + (factor zone*jaarprestaties*bedrag kilometervergoeding woonplaats- standplaats))/1,4002) / 133 (arbeidsprestaties van 12 uur per dag) of 210 (andere arbeidsregeling); ».<br /><br />
