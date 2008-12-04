@@ -2,16 +2,16 @@
   "codex_id": 1013402,
   "title": "Besluit van de Vlaamse Regering van 2004-07-14 betreffende het erkennen van centra voor landbouweducatie en het subsidiëren van landbouweducatieve activiteiten",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1013402/VolledigDocument?datum=2006-06-01",
-  "source_sha256": "32d490016121a7faac4cce7df5d22f952c821a6bf18141738c8c16f2d2348a90",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1013402/VolledigDocument?datum=2008-12-04",
+  "source_sha256": "75ffc4c057ab323f476a4e063afd6f463823a393325029845e483a6edb0ead7b",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1013402&param=informatie",
-  "as_of": "2006-06-01",
+  "as_of": "2008-12-04",
   "made": "2004-07-14",
   "gazette": "2004-09-10",
   "numac": 2004036429,
   "document_start": null,
   "document_end": "2008-12-03",
-  "in_force": "2006-06-01",
+  "in_force": "2008-12-04",
   "article_versions": 11,
-  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2008-12-04; future article versions excluded; article text as the API gives it"
 }
