@@ -316,7 +316,7 @@ Ter uitvoering van artikel 35 van het decreet wordt de aanvullende overgangssubs
 
 ### ART. 56.
 
-De sportfunctionarissen die in 2007 in aanmerking werden genomen voor de berekening van de subsidie volgens het decreet van 5 april 1995 houdende erkenning en subsidiëring van de gemeentelijke sportdiensten, de provinciale sportdiensten en de sportdienst van de VGC, komen verder in aanmerking als sportgekwalificeerde ambtenaar in het kader van dit decreet.<br /><br />
+§ 1. De sportfunctionarissen die in 2007 in aanmerking werden genomen voor de berekening van de subsidie volgens het decreet van 5 april 1995 houdende erkenning en subsidiëring van de gemeentelijke sportdiensten, de provinciale sportdiensten en de sportdienst van de VGC, komen verder in aanmerking als sportgekwalificeerde ambtenaar in het kader van dit decreet.<br /><br />§ 2. De personeelsleden van de gemeenten, de provincies of de Vlaamse Gemeenschapscommissie, die niet beschikken over een van de diploma's bedoeld in artikel 47 van het besluit inzake de beleidssubsidie, maar wel vóór 31 december 2007 het diploma of getuigschrift van sportfunctionaris hebben behaald bij de Vlaamse Trainersschool en die minimum 5 jaar ervaring hebben in een leidinggevende functie in de sportdienst, worden beschouwd als sportgekwalificeerd ambtenaar in het kader van dit decreet.<br /><br />Personeelsleden die beschikken over diploma's, certificaten en titels die niet binnen de Vlaamse Gemeenschap zijn verworven met betrekking tot het diploma of getuigschrift van sportfunctionaris, dienen bij de Vlaamse Trainersschool de gelijkwaardigheid daarvan te laten vaststellen.<br /><br /><br /><br />
 
 ### ART. 57.
 
