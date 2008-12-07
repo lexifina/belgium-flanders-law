@@ -2,16 +2,16 @@
   "codex_id": 1017325,
   "title": "Besluit van de Vlaamse Regering van 2008-10-10 tot wijziging van het besluit van de Vlaamse Regering van 22 juli 2005 betreffende de Huizen van het Nederlands en van het besluit van de Vlaamse Regering van 12 oktober 2007 tot reglementering van het sociale huurstelsel ter uitvoering van titel VII van de Vlaamse Wooncode",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1017325/VolledigDocument?datum=2008-04-30",
-  "source_sha256": "45b9d1b3875929d4d32af8f2b32408c3de6c2ff6552d86e129b7aad8011e58a1",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1017325/VolledigDocument?datum=2008-12-07",
+  "source_sha256": "d94372198f20af9bb07ab3271094ecf4060de1fab7265ff4f49ffe4d2336e238",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1017325&param=informatie",
-  "as_of": "2008-04-30",
+  "as_of": "2008-12-07",
   "made": "2008-10-10",
   "gazette": "2008-11-27",
   "numac": 2008204239,
   "document_start": "2008-04-30",
   "document_end": null,
-  "in_force": "2008-04-30",
-  "article_versions": 9,
-  "record_form": "consolidated version as in force on 2008-04-30; oldest version available; future article versions excluded; article text as the API gives it"
+  "in_force": "2008-12-07",
+  "article_versions": 11,
+  "record_form": "consolidated version as in force on 2008-12-07; future article versions excluded; article text as the API gives it"
 }
