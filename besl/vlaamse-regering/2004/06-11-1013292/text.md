@@ -552,7 +552,7 @@ Het verlof is onbezoldigd en wordt met een periode van dienstactiviteit gelijkge
 
 ### ART. 112.
 
-De minister van Binnenlandse Aangelegenheden kan een gewestelijke ontvanger met zijn in-stemming met de uitvoering van een opdracht belasten.<br /><br />Eveneens kan iedere gewestelijke ontvanger met akkoord van de minister van Binnenlandse Aangelegenheden, de uitvoering van een opdracht aanvaarden.<br /><br />In beide gevallen wint de minister het advies van de provinciegouverneur in.
+...
 
 ### ART. 113.
 
