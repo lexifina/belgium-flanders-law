@@ -36,11 +36,11 @@ Bij tijdelijke afwezigheid van een gewestelijk ontvanger kan de provinciegouvern
 
 ### ART. 5.
 
-§ 1. De gewestelijke ontvanger oefent zijn ambt op een loyale en correcte wijze uit onder het gezag van de Vlaamse regering, de gouverneur en de arrondissementscommissaris.<br /><br />Hij zet zich op een actieve en constructieve wijze in voor de realisatie van de opdracht en de doelstellingen van de Vlaamse regering.<br /><br />Hij handelt overeenkomstig de algemene en bijzondere richtlijnen van de Vlaamse regering, de provinciegouverneur en de arrondissementscommissaris.<br /><br />§ 2. In de omgang met meerderen of collega's en in de contacten met de gemeenten, de O.C.M.W.'s en het publiek respecteert de gewestelijke ontvanger de persoonlijke waardigheid.
+De bepalingen van deel II van het VPS, met uitzondering van artikel II 3, II 4 en II 7, § 2, zijn van overeenkomstige toepassing op de gewestelijk ontvanger, op voorwaarde van de volgende aanpassingen :<br />1° in artikel II 1, § 1, worden de woorden « de diensten van de Vlaamse overheid » gelezen als « de Vlaamse Regering »;<br />2° in artikel II 1, § 1, worden de woorden « zijn lijnmanager en/of functionele chef » gelezen als « de provinciegouverneur en de arrondissementscommissaris »;<br />3° in artikel II 2, § 2, worden de woorden « de Interne Audit van de Vlaamse Administratie op de hoogte brengen overeenkomstig artikel 34, § 3, van het kaderdecreet Bestuurlijk Beleid van 18 juli 2003 » gelezen als « de externe auditcommissie bij de gemeente op de hoogte brengen » en de woorden « een functionele chef » als « de arrondissementscommissaris;<br />4° in artikel II 6, § 3, tweede lid, worden de woorden « de diensten van de Vlaamse overheid » gelezen als « de Vlaamse overheid »;<br />5° in artikel II 12 en II 14 wordt het woord « lijnmanager » gelezen als « arrondissementscommissaris.
 
 ### ART. 6.
 
-§ 1. De gewestelijke ontvanger heeft recht op vrijheid van meningsuiting ten aanzien van de feiten waarvan hij kennis heeft uit hoofde van zijn ambt.<br /><br />Onverminderd de reglementering inzake openbaarheid van bestuur, is het hem enkel verboden feiten bekend te maken die betrekking hebben op:<br /><br />1° de veiligheid van de Belgische Staat;<br /><br />2° de bescherming van de openbare orde;<br /><br />3° de financiële belangen van de overheid;<br /><br />4° het voorkomen en het bestraffen van strafbare feiten;<br /><br />5° het medisch geheim;<br /><br />6° het vertrouwelijke karakter van commerciële, intellectuele en industriële gegevens;<br /><br />7° het interne beraad, zolang in de betrokken aangelegenheid geen eindbeslissing is genomen.<br /><br />Het is hem ook verboden feiten bekend te maken indien de bekendmaking ervan een inbreuk is op de rechten en de vrijheden van de burger, in het bijzonder op het privé-leven, tenzij de betrokkene toestemming heeft verleend om deze gegevens openbaar te maken.<br /><br />Deze paragraaf geldt ook voor de gewestelijke ontvanger die zijn ambt heeft neergelegd.<br /><br />§ 2. De gewestelijke ontvanger die in de uitoefening van zijn ambt nalatigheden, misbruiken of misdrijven vaststelt, brengt de arrondissementcommissaris hiervan onmiddellijk op de hoogte.<br /><br />Indien de arrondissementscommissaris bij deze nalatigheden, misbruiken of misdrijven betrokken is, brengt de gewestelijke ontvanger de gouverneur op de hoogte.<br /><br />Indien de gouverneur bij deze nalatigheden, misbruiken of misdrijven betrokken is, brengt de gewestelijke ontvanger de minister van Binnenlandse Aangelegenheden op de hoogte.<br /><br />In geval van misdrijven brengt hij ook de procureur des Konings van deze onregelmatigheden op de hoogte.
+...
 
 ### ART. 7.
 
@@ -48,15 +48,15 @@ Bij tijdelijke afwezigheid van een gewestelijk ontvanger kan de provinciegouvern
 
 ### ART. 8.
 
-Hij mag, zelfs buiten het ambt, noch rechtstreeks noch via een tussenpersoon, giften, beloningen of enig ander voordeel die verband houden met het ambt, vragen, eisen of aannemen.
+...
 
 ### ART. 9.
 
-§ 1. De gewestelijke ontvanger heeft recht op informatie en voortgezette vorming wat alle aspecten betreft die nuttig zijn voor de functie-uitoefening.<br /><br />§ 2. De gewestelijke ontvanger houdt zich op de hoogte van de evolutie van de reglementeringen in de materies waarmee hij beroepshalve belast is.<br /><br />§ 3. De vorming is een plicht wanneer zij noodzakelijk blijkt voor een betere uitoefening van de functie van gewestelijke ontvanger. Deze vorming kan plaatsvinden buiten en bovenop de normale arbeidsprestaties, eventueel zonder compensatie.
+...
 
 ### ART. 10.
 
-De gewestelijke ontvanger heeft het recht zijn persoonlijk dossier te raadplegen.<br /><br />Het persoonlijk dossier bevat ten minste de administratieve stukken zoals bepaald in bijlage 1.<br /><br />Aanbevelingen waaruit een levensbeschouwelijke, ideologische of politieke overtuiging blijkt, mogen niet voorkomen in het persoonlijk dossier.
+...
 
 ## DEEL IV DE AANWERVING EN DE INDIENSTTREDING VACANTVERKLARING EN MOBILITEIT
 
@@ -70,13 +70,21 @@ De provinciegouverneur verklaart de betrekking van gewestelijk ontvanger vacant.
 
 Bij de vacantverklaring kan de provinciegouverneur besluiten de betrekking toe te kennen aan de vastbenoemde gewestelijk ontvangers die reeds in dienst zijn in het Vlaams Gewest.
 
+### ART. 12bis.
+
+Naast de vacaturevervulling, vermeld in artikel 12, kan een vacante betrekking, als dat noodzakelijk is voor de dienst, vervuld worden door een verandering van dienstaanwijzing na akkoord van de betrokken provinciegouverneurs.
+
 ## [TITEL Ibis DE INDIENSTTREDING (ing. BVR 3 april 2009, art. 7, I: 1 februari 2009)]
+
+### ART. 12ter.
+
+De provinciegouverneur kan een nieuwe gewestelijk ontvanger aanstellen voor de uittredende gewestelijk ontvanger zijn ambt beëindigt. De nieuwe gewestelijk ontvanger kan op zijn vroegst zes maanden voor de beëindiging van het ambt van de uittredende gewestelijk ontvanger in dienst treden.<br /><br />De nieuwe gewestelijk ontvanger staat de uittredende gewestelijk ontvanger bij in de vervulling van zijn taken en de uitoefening van zijn opdrachten. Bij de beëindiging van het ambt van de uittredende gewestelijk ontvanger neemt de nieuwe gewestelijk ontvanger het ambt van gewestelijk ontvanger op.
 
 ## TITEL 2 DE TOELATINGSVOORWAARDEN
 
 ### ART. 13.
 
-Voor de toegang tot een ambt van gewestelijke ontvanger gelden de volgende algemene toela-tingsvoorwaarden:<br /><br />1° Belg zijn;<br /><br />2° een gedrag hebben dat in overeenstemming is met de eisen van het ambt van gewestelijke ontvanger;<br /><br />3° de burgerlijke en politieke rechten genieten;<br /><br />4° aan de dienstplichtwetten voldoen;<br /><br />5° een diploma hebben dat toegang geeft tot niveau A bij het ministerie van de Vlaamse Gemeenschap.
+Voor de toegang tot een ambt van gewestelijk ontvanger gelden de volgende algemene toelatingsvoorwaarden:<br />1° Belg zijn;<br />2° een gedrag hebben dat in overeenstemming is met de eisen van het ambt van gewestelijk ontvanger;<br />3° de burgerlijke en politieke rechten genieten;<br />4° aan de dienstplichtwetten voldoen;<br />5° een diploma hebben dat toegang geeft tot niveau A bij de diensten van de Vlaamse overheid.
 
 ### ART. 14.
 
@@ -92,7 +100,7 @@ De diplomavoorwaarde van artikel 13, 5°, geldt niet voor:<br />1° personen die
 
 ### ART. 16.
 
-Volgende personen worden vrijgesteld van de selectieprocedure waarvan sprake in artikel 15:<br /><br />1° personen die reeds geslaagd zijn in een wervingsprocedure voor het ambt van statutair gewestelijke ontvanger;<br /><br />2° personen die benoemd zijn als gemeenteontvanger of ontvanger van een openbaar centrum voor maatschappelijk welzijn.
+Volgende personen worden vrijgesteld van de selectieprocedure waarvan sprake in artikel 15:<br />1° personen die reeds geslaagd zijn in een wervingsprocedure voor het ambt van statutair gewestelijk ontvanger;<br />2° ...
 
 ### ART. 17.
 
@@ -128,7 +136,7 @@ De provinciegouverneur laat de geselecteerde kandidaat toe tot de stage.
 
 ### ART. 23.
 
-§ 1. De duur van de stage bedraagt 12 maanden.<br /><br />§ 2. Om de duur van de verrichte stage te berekenen worden alle perioden waarin de stagiair in actieve dienst is in aanmerking genomen.<br /><br />§ 3. De stagiair beschikt over een bonus van 25 werkdagen afwezigheid die niet meetelt bij het berekenen van de duur van de stage.<br /><br />De stagiair kan deze bonus in een keer of in meerdere keren gebruiken.<br /><br />In deze bonus aan werkdagen telt de jaarlijkse vakantie niet mee.<br /><br />§ 4. Afwezigheid boven de in § 3 vermelde bonus, zelfs de afwezigheid die met dienstactiviteit gelijkgesteld wordt, schorst de stage.<br /><br />§ 5. Tijdens de schorsing van de stage en tijdens de periode waarin de einddatum van de stage overschreden wordt behoudt de stagiair zijn hoedanigheid van stagiair.
+§ 1. De duur van de stage bedraagt 12 maanden.<br /><br />De provinciegouverneur beslist of de stage deeltijds uitgevoerd kan worden. In geval van deeltijdse stage wordt de duur van de stage pro rata verlengd.<br /><br />§ 2. Om de duur van de verrichte stage te berekenen worden alle perioden waarin de stagiair in actieve dienst is in aanmerking genomen.<br /><br />§ 3. De stagiair beschikt over een bonus van 25 werkdagen afwezigheid die niet meetelt bij het berekenen van de duur van de stage.<br /><br />De stagiair kan deze bonus in een keer of in meerdere keren gebruiken.<br /><br />In deze bonus aan werkdagen telt de jaarlijkse vakantie niet mee.<br /><br />§ 4. Afwezigheid boven de in § 3 vermelde bonus, zelfs de afwezigheid die met dienstactiviteit gelijkgesteld wordt, schorst de stage.<br /><br />§ 5. Tijdens de schorsing van de stage en tijdens de periode waarin de einddatum van de stage overschreden wordt behoudt de stagiair zijn hoedanigheid van stagiair.
 
 ### ART. 24.
 
@@ -170,7 +178,7 @@ De provinciegouverneur kan enkel wie aan de toelatingsvoorwaarden voldoet en met
 
 ### ART. 32.
 
-§ 1. Elke gewestelijke ontvanger die in de loop van een kalenderjaar gedurende ten minste drie maanden prestaties heeft geleverd wordt geëvalueerd.<br /><br />§ 2. De evaluatie heeft betrekking op één kalenderjaar.<br /><br />In uitzonderlijke omstandigheden kan op vraag van de gewestelijke ontvanger de periode waarover gevalueerd wordt op maximum vijftien maanden worden gebracht.<br /><br />§ 3. De evaluatie betreft het functioneren en de beroepsbekwaamheid volgens een planning die de gewestelijke ontvanger met de arrondissementscommissaris afgesproken heeft.<br /><br />De gewestelijke ontvanger en de arrondissementscommissaris leggen de planning schriftelijk vast; zij blijft geldig zolang ze niet wordt gewijzigd.<br /><br />De arrondissementscommissaris moet de planning aan de gewestelijke ontvanger overhandigen binnen de maand nadat ze werd opgesteld of gewijzigd.<br /><br />§ 4. De arrondissementscommissaris bezorgt het evaluatieverslag aan de gewestelijke ontvanger binnen de drie maanden na het verstrijken van de periode waarover geëvalueerd wordt.
+Artikel IV 1 en IV 2 van het VPS zijn van overeenkomstige toepassing op de gewestelijk ontvanger, waarbij in artikel IV 2 het woord « lijnmanager » gelezen wordt als « arrondissementscommissaris ».<br /><br />
 
 ## HOOFDSTUK 2 DE EVALUATOR
 
@@ -186,9 +194,17 @@ De functioneringsevaluatie gebeurt na een evaluatiegesprek tussen de gewestelijk
 
 ### ART. 35.
 
-§ 1. De arrondissementscommissaris legt de functioneringsevaluatie vast in een beschrijvend eva-luatieverslag dat geen einduitspraak over de gewestelijke ontvanger bevat, behalve indien hij oordeelt dat de gewestelijke ontvanger globaal beschouwd "onvoldoende" heeft gepresteerd.<br /><br />§ 2. De gewestelijke ontvanger kan opmerkingen toevoegen aan het definitieve beschrijvende evaluatieverslag.<br /><br />§ 3. De gewestelijke ontvanger heeft het recht zijn persoonlijk evaluatiedossier te raadplegen.<br /><br />§ 4. De gewestelijke ontvanger die een evaluatie "onvoldoende" kreeg kan hiertegen in beroep gaan bij de gouverneur binnen de vijftien kalenderdagen na het ontvangen van het beschrijvend evaluatieverslag. De gouverneur neemt een definitieve beslissing binnen de dertig kalenderdagen.
+De arrondissementscommissaris legt de evaluatie vast in een verslag. Het verslag bevat in voorkomend geval de eindvermelding « onvoldoende », die loopbaangevolgen heeft zoals bepaald in dit besluit.<br /><br />De geëvalueerde gewestelijk ontvanger kan opmerkingen toevoegen aan het definitieve beschrijvende evaluatieverslag.
+
+### ART. 35bis.
+
+Artikel IV 6 en IV 7 van het VPS zijn van overeenkomstige toepassing op de gewestelijk ontvanger.
 
 ## [HOOFDSTUK 4 BEROEP TEGEN DE EVALUATIE "ONVOLDOENDE" (ing. BVR 14 november 2008, art. 15, I: 8 december 2008)]
+
+### ART. 35ter.
+
+De gewestelijk ontvanger van wie het evaluatieverslag wordt besloten met de vermelding « onvoldoende », kan daartegen beroep instellen bij de provinciegouverneur binnen vijftien kalenderdagen na het bezorgen van het evaluatieverslag. De provinciegouverneur neemt een definitieve beslissing binnen dertig kalenderdagen.
 
 ## DEEL VII TUCHTREGELING
 
@@ -196,19 +212,19 @@ De functioneringsevaluatie gebeurt na een evaluatiegesprek tussen de gewestelijk
 
 ### ART. 36.
 
-De gewestelijke ontvanger kan worden onderworpen aan een tuchtprocedure:<br /><br />1° als hij aan zijn plichten tekort komt, of de wettelijke verplichtingen overtreedt;<br /><br />2° na strafrechtelijke veroordeling.
+De bepalingen van deel VIII, titel 1, van het VPS zijn van overeenkomstige toepassing op de gewestelijk ontvanger, met uitzondering van artikel VIII 2, 4° en 5°, VIII 5 en VIII 6.
 
 ### ART. 37.
 
-[De volgende tuchtstraffen kunnen worden uitgesproken:<br /><br />1° blaam;<br /><br />2° inhouding van salaris;<br /><br />3° tuchtschorsing;<br /><br />4° ontslag van ambtswege;<br /><br />5° afzetting.  <span class="reference">(verv. B.V.R. 17 februari 2006, art. 1, I: op zelfde dag als art. 76, § 2, tweede lid, tweede en derde zin van het gemeentedecreet van 15 juli 2005)</span> ]
+...
 
 ### ART. 38.
 
-De inhouding van salaris wordt toegepast gedurende ten hoogste drie maanden en mag niet meer dan één vijfde van de nettobezoldiging bedragen.
+...
 
 ### ART. 39.
 
-De tuchtschorsing wordt uitgesproken voor ten hoogste drie maanden en kan aanleiding geven tot een inhouding van salaris die niet hoger mag liggen dan één vijfde van de nettobezoldiging.<br /><br />Tijdens de tuchtschorsing bevindt de gewestelijke ontvanger zich in de administratieve toestand non-activiteit met behoud van salaris, onverminderd het eerste lid. De gewestelijke ontvanger heeft geen recht op verhoging in salaris.
+...
 
 ## TITEL 2 TUCHTPROCEDURE
 
@@ -230,23 +246,23 @@ De gewestelijk ontvanger kan beroep aantekenen bij de minister van Binnenlandse 
 
 ### ART. 43.
 
-De arrondissementscommissaris formuleert het gemotiveerd voorstel dat ertoe strekt een tuchtstraf op te leggen schriftelijk en deelt het mee aan de gewestelijke ontvanger die een afschrift ontvangt. Het voorstel vermeldt uitdrukkelijk welke tuchtstraf hij voorstelt.<br /><br />De arrondissementscommissaris stuurt tezelfdertijd het voorstel aan de gouverneur voor uitspraak.
+Artikel VIII 9 tot en met VIII 11 van het VPS zijn van overeenkomstige toepassing op de gewestelijk ontvanger, op voorwaarde van de volgende aanpassingen :<br />1° de woorden « het personeelslid dat het voorstel heeft gedaan » worden gelezen als « de arrondissementscommissaris »;<br />2° de woorden « de overheid die bevoegd is voor het uitspreken van de tuchtstraf », « de bevoegde overheid voor de uitspraak » en « de bevoegde overheid » worden gelezen als « de provinciegouverneur »;<br />3° de woorden « in toepassing van art. VIII 12 » vermeld in artikel VIII 11, worden gelezen als « met toepassing van artikel 51 ».
 
 ### ART. 44.
 
-De gouverneur roept, binnen vijftien kalenderdagen die volgen op de datum van het voorstel, de gewestelijke ontvanger op via een aangetekende briefom hem te horen in zijn verdediging.<br /><br />De oproeping moet melding maken van:<br /><br />1° de ten laste gelegde feiten;<br /><br />2° de tuchtstraf die hij voorstelt;<br /><br />3° de plaats, de dag en het uur van het verhoor;<br /><br />4° het recht van de betrokkene om zich te laten bijstaan door een persoon naar eigen keuze, raadgever te noemen, of zich te laten vertegenwoordigen door deze persoon bij gewettigde verhindering;<br /><br />5° de plaats waar en de termijn waarbinnen de gewestelijke ontvanger het tuchtdossier kan inzien en het recht om gratis fotokopieën te maken.
+...
 
 ### ART. 45.
 
-De gewestelijke ontvanger en zijn raadgever mogen het tuchtdossier op hun verzoek raadplegen voordat de verdediging plaats heeft. Zij beschikken voor de inzage van het dossier over een termijn van ten minste vijftien kalenderdagen na ontvangst van de oproepingsbrief.
+...
 
 ### ART. 46.
 
-Van de zitting wordt er een proces-verbaal gemaakt waarvan de betrokkene of zijn raadgever een kopie kan krijgen. De gewestelijke ontvanger kan op straf van nietigheid binnen vijf werkdagen na de mondelinge verdediging schriftelijk de middelen ter verdediging uiteenzetten. Het verweerschrift wordt bij het dossier gevoegd.
+...
 
 ### ART. 47.
 
-De gouverneur spreekt de tuchtstraf uit binnen 15 kalenderdagen nadat hij de gewestelijke ontvanger in zijn verdediging gehoord heeft.<br /><br />De tuchtstraf wordt aangezegd bij aangetekend schrijven binnen de twee werkdagen na de uitspraak en gaat in op de derde werkdag volgend op de datum van het aangetekend schrijven, behalve bij afzetting en ontslag van ambtswege. Enkel in het geval van afzetting en ontslag van ambtswege schort het beroep de uitwerking ervan op. De gewestelijke ontvanger wordt in deze gevallen wel van rechtswege geschorst in het belang van de dienst vanaf de derde werkdag volgend op de datum van het aangetekend schrijven waarmee hem de tuchtstraf wordt meegedeeld, tot op de dag dat de tuchtstraf definitief is geworden.
+...
 
 ### ART. 48.
 
@@ -268,11 +284,11 @@ De tuchtstraf is definitief de dag nadat de termijn om het beroep in te stellen 
 
 ### ART. 52.
 
-Wanneer de arrondissementscommissaris meer dan één feit ten laste van de gewestelijke ontvanger legt, kan dit niettemin slechts aanleiding geven tot één procedure en tot het uitspreken van één tuchtstraf.<br /><br />Wanneer in de loop van een tuchtprocedure een nieuw feit ten laste van de gewestelijke ontvanger wordt gelegd, kan dit tot een nieuwe procedure aanleiding geven zonder dat de lopende procedure onderbroken wordt.
+De bepalingen van deel VIII, titel 2, hoofdstuk 3, van het VPS zijn van overeenkomstige toepassing op de gewestelijk ontvanger, met uitzondering van artikel VIII 19 en VIII 21, en waarbij in artikel VIII 20 de woorden « de administratieve overheid » worden gelezen als « de provinciegouverneur en de arrondissementscommissaris ».
 
 ### ART. 53.
 
-Behoudens nieuwe elementen die de heropening van het dossier rechtvaardigen, kan niemand het voorwerp zijn van een tuchtvordering voor reeds gesanctioneerde feiten.
+...
 
 ### ART. 54.
 
@@ -280,35 +296,35 @@ De minister van Binnenlandse Aangelegenheden kan geen zwaardere tuchtstraf uitsp
 
 ### ART. 55.
 
-De strafvordering schorst de tuchtprocedure en de tuchtuitspraak.<br /><br />Ongeacht het resultaat van de strafvordering oordeelt alleen de gouverneur of de minister van Binnenlandse Aangelegenheden over de gepastheid om een tuchtstraf uit te spreken.
+...
 
 ### ART. 56.
 
-De tuchtvordering mag alleen betrekking hebben op feiten die werden vastgesteld binnen een termijn van zes maanden voor de datum waarop de vordering wordt ingesteld.<br /><br />Bij de beoordeling van de strafmaat mogen evenwel relevante vermeldingen die in het persoonlijk dossier opgetekend werden, in aanmerking genomen worden.<br /><br />In geval van strafrechtelijke vervolging voor dezelfde feiten, begint deze termijn te lopen de dag dat de gouverneur door de gerechtelijke overheid ervan in kennis wordt gesteld dat er een onherroepelijke beslissing uitgesproken is of dat de strafrechtelijke procedure niet wordt voortgezet.
+...
 
 ### ART. 57.
 
-Elke tuchtstraf wordt vermeld op een in het evaluatiedossier te voegen staat en wordt in het per-soneelsdossier opgenomen.
+...
 
 ### ART. 58.
 
-De in deze titel vastgestelde termijnen worden opgeschort in de maand augustus en tussen Kerstmis en Nieuwjaar.
+...
 
 ## TITEL 3 DE DOORHALING VAN DE TUCHTSTRAFFEN
 
 ### ART. 59.
 
-§ 1. Elke tuchtstraf behalve de afzetting en het ontslag van ambtswege wordt in het persoonlijk dossier van de gewestelijke ontvanger doorgehaald onder de in § 2 bepaalde voorwaarden.<br /><br />§ 2. De doorhaling van de tuchtstraffen gebeurt van rechtswege na een termijn waarvan de duur is vastgesteld op:<br /><br />- één jaar voor de blaam;<br /><br />- vier jaar voor de inhouding van salaris;<br /><br />- zes jaar voor de tuchtschorsing.
+De bepalingen van deel VIII, titel 3, van het VPS zijn van overeenkomstige toepassing op de gewestelijk ontvanger, met uitzondering van artikel VIII 24, § 2, vierde gedachtestreep.
 
 ### ART. 60.
 
-Dit deel is ook van toepassing op de stagiair.
+...
 
 ## DEEL VIII SCHORSING IN HET BELANG VAN DE DIENST
 
 ### ART. 61.
 
-De gewestelijke ontvanger kan onder de in dit deel bepaalde voorwaarden in het ambt worden ge-schorst, wanneer het belang van de dienst dat vereist.
+De bepalingen van deel IX van het VPS, met uitzondering van artikel IX 2, IX 6 en IX 7, zijn van overeenkomstige toepassing op de gewestelijk ontvanger, op voorwaarde van de volgende aanpassingen :<br />1° in artikel IX 4 worden de woorden « de overheid bevoegd voor het uitspreken van de schorsing in het belang van de dienst » gelezen als « de provinciegouverneur »;<br />2° in artikel IX 13 worden de woorden « artikel VIII 19, derde lid » gelezen als « artikel 54. »
 
 ### ART. 62.
 
@@ -316,15 +332,15 @@ Enkel de provinciegouverneur kan de schorsing in het belang van de dienst uitspr
 
 ### ART. 63.
 
-De gewestelijke ontvanger wordt vooraf gehoord over de feiten die hem ten laste worden gelegd. Hij mag zich hierbij laten bijstaan door een persoon naar eigen keuze.<br /><br />De redenen om over te gaan tot schorsing in het belang van de dienst worden ten laatste drie werkdagen voorafgaand aan het verhoor schriftelijk meegedeeld aan de gewestelijke ontvanger.<br /><br />De gewestelijke ontvanger wordt verzocht de voorstellen en beslissingen tot schorsing in het belang van de dienst te viseren. Indien de gewestelijke ontvanger weigert of in de onmogelijkheid verkeert om te viseren, worden ze hem meegedeeld via een aangetekende brief.
+...
 
 ### ART. 64.
 
-De gouverneur kan aan de gewestelijke ontvanger het recht ontzeggen aanspraak te maken op verhoging in salaris en salarisschaal en het salaris kan worden verminderd in de volgende gevallen:<br /><br />1. wanneer de gewestelijke ontvanger strafrechtelijk vervolgd wordt;<br /><br />2. wanneer de gewestelijke ontvanger tuchtrechtelijk vervolgd wordt wegens een ernstig vergrijp waarbij hij op heterdaad is betrapt of waarvoor er afdoende<br /><br />aanwijzingen zijn.<br /><br />De inhouding van salaris mag niet meer bedragen dan één vijfde van de nettobezoldiging.
+...
 
 ### ART. 65.
 
-De schorsing in het belang van de dienst gaat in de dag nadat de gewestelijke ontvanger de beslissing tot schorsing in het belang van de dienst heeft geviseerd, ofwel de dag na het aanbieden bij de post van de aangetekende brief waarmee de beslissing aan de gewestelijke ontvanger wordt meegedeeld.<br /><br />De gewestelijke ontvanger kan na vijftien kalenderdagen sedert de dag dat de schorsing in het belang van de dienst uitwerking gekregen heeft, beroep instellen bij de Vlaamse minister van Binnenlandse Aangelegenheden. De Vlaamse minister van Binnenlandse Aangelegenheden kan de schorsing in het belang van de dienst opheffen.
+De gewestelijk ontvanger kan na vijftien kalenderdagen sedert de dag dat de schorsing in het belang van de dienst uitwerking gekregen heeft, beroep instellen bij de Vlaamse minister van Binnenlandse Aangelegenheden. De Vlaamse minister van Binnenlandse Aangelegenheden kan de schorsing in het belang van de dienst opheffen.
 
 ### ART. 66.
 
@@ -332,31 +348,31 @@ De gewestelijk ontvanger die over nieuwe elementen beschikt, kan tegen zijn scho
 
 ### ART. 67.
 
-Behoudens strafrechtelijk onderzoek of strafrechtelijke vervolging mag de schorsing in het belang van de dienst ten hoogste zes maanden bedragen.<br />
+...
 
 ### ART. 68.
 
-Indien de gouverneur in kennis wordt gesteld van de strafrechtelijke uitspraak, de minnelijke schikking of seponering, beslist hij om de schorsing in het belang van de dienst op te heffen of te behouden voor de duur van de tuchtprocedure.
+...
 
 ### ART. 69.
 
-Aan de schorsing in het belang van de dienst komt van rechtswege een einde wanneer de tuchtrech-telijke uitspraak over dezelfde feiten waarvoor de gewestelijke ontvanger in het belang van de dienst werd geschorst, definitief wordt, behalve bij afzetting [of ontslag van ambtswege.  <span class="reference">(ing. B.V.R. 17 februari 2006, art. 2, I: op zelfde dag als art. 76, § 2, tweede lid, tweede en derde zin van het gemeentedecreet van 15 juli 2005)</span> ]
+...
 
 ### ART. 70.
 
-Indien de gewestelijke ontvanger buiten vervolging wordt gesteld, zijn dossier geseponeerd wordt of wanneer een strafrechtelijke of tuchtrechtelijke vrijspraak volgt die kracht van gewijsde gekregen heeft, worden de beslissingen genomen inzake inhouding van salaris en ontzeggen van de aanspraken op verhoging in salaris, ongedaan gemaakt.
+...
 
 ### ART. 71.
 
-De beslissing waarbij de gewestelijke ontvanger geschorst wordt in het belang van de dienst kan geen uitwerking hebben over een periode vóór de datum waarop de schorsing is uitgesproken.
+...
 
 ### ART. 72.
 
-Indien de gouverneur of de Vlaamse minister van Binnenlandse Aangelegenheden na afloop van het tuchtonderzoek een schorsing als tuchtstraf oplegt, vindt die schorsing plaats met terugwerkende kracht. In dit geval wordt de duur van de schorsing in het belang van de dienst, tot de nodige termijn, op de duur van de tuchtschorsing aangerekend.<br /><br />De schorsing gaat evenwel niet verder terug dan de dag waarop de bij toepassing van artikel 65 getroffen maatregelen uitwerking hebben gehad.
+...
 
 ### ART. 73.
 
-Dit deel is ook van toepassing op de stagiair.
+...
 
 ## DEEL IX HET VERLOF EN DE ADMINISTRATIEVE TOESTAND TIJDENS VERLOF
 
@@ -364,7 +380,7 @@ Dit deel is ook van toepassing op de stagiair.
 
 ### ART. 74.
 
-De gewestelijke ontvanger bevindt zich geheel of gedeeltelijk in een van de volgende administratieve toestanden:<br /><br />1° dienstactiviteit;<br /><br />2° non-activiteit.
+De bepalingen van deel X, titel 1, van het VPS zijn van overeenkomstige toepassing op de gewestelijk ontvanger, met uitzondering van artikel X 2 en waarbij het woord « lijnmanager » wordt gelezen als « arrondissementscommissaris ».
 
 ### ART. 75.
 
@@ -376,33 +392,33 @@ De gewestelijk ontvanger in dienstactiviteit heeft recht op salaris en op bevord
 
 ### ART. 77.
 
-De gewestelijke ontvanger wordt voor de vaststelling van zijn administratieve toestand altijd geacht in dienstactiviteit te zijn behoudens uitdrukkelijke bepaling die hem van rechtswege of bij beslissing van de bevoegde overheid in non-activiteit plaatst.
+De dienstvrijstellingen worden aangevraagd bij de arrondissementscommissaris.
 
 ### ART. 78.
 
-Voor de toepassing van dit deel betekent:<br /><br />- « werkdag »: de dag waarop de gewestelijke ontvanger verplicht is te werken ingevolge de arbeidsregeling die op hem van toepassing is;<br /><br />- « vakantiedag »: de vrije dag waarop de gewestelijke ontvanger aan geen enkele dienstverplichting is onderworpen;<br /><br />- « verlof »: het recht van de gewestelijke ontvanger voor een welbepaalde reden de actieve dienst te onderbreken;<br /><br />- « dienstvrijstelling »: de toestemming van de arrondissementscommissaris aan de gewestelijke ontvanger om tijdens de diensturen afwezig te zijn gedurende<br /><br />een vooraf bepaalde tijd, met behoud van alle rechten.
+...
 
 ### ART. 79.
 
-De gewestelijke ontvanger mag niet afwezig zijn zonder verlof, vakantie of dienstvrijstelling te hebben gekregen.<br /><br />De verloven en dienstvrijstellingen dienen te worden aangevraagd bij de arrondissementscommissaris.<br /><br />Onverminderd de eventuele toepassing van een tuchtstraf of van een administratieve maatregel, is de gewestelijke ontvanger die zonder toestemming afwezig is, in non-activiteit tenzij bij overmacht.
+...
 
 ## TITEL 2 JAARLIJKSE VAKANTIEDAGEN EN FEESTDAGEN
 
 ### ART. 80.
 
-§ 1. De gewestelijke ontvanger heeft jaarlijks recht op 35 werkdagen vakantie.<br /><br />§ 2. In afwijking van het vorig lid heeft de gewestelijke ontvanger evenwel het recht om binnen het aantal van 35 werkdagen, 4 werkdagen vakantieverlof te nemen zonder dat de arrondissementscommissaris het dienstbelang daar tegenover kan stellen.<br /><br />§ 3. De gewestelijke ontvanger neemt de jaarlijkse vakantie op binnen het kalenderjaar.<br /><br />In uitzonderlijke gevallen kan aan de gewestelijke ontvanger toegestaan worden om vijf vakantiedagen over te dragen naar het volgend jaar.
+De bepalingen van deel X, titel 2, van het VPS zijn van overeenkomstige toepassing op de gewestelijk ontvanger.
 
 ### ART. 81.
 
-Elke periode van dienstactiviteit geeft recht op jaarlijkse vakantiedagen.<br /><br />Wanneer een gewestelijke ontvanger in de loop van het jaar in dienst treedt of zijn ambt definitief neerlegt, wordt zijn vakantieverlof in evenredige mate verminderd tijdens het lopende jaar.<br /><br />Het aantal zo berekende vakantiedagen bedraagt steeds een halve of een volledige dag. De afronding gebeurt naar de hogere halve of hele dag.
+...
 
 ### ART. 82.
 
-§ 1. De gewestelijke ontvanger heeft vakantie op de wettelijke en decretale feestdagen en op 2 en 15 november en 26 december.<br /><br />§ 2. Ter vervanging van de in § 1 vermelde vakantiedagen die samenvallen met een zaterdag of zondag, heeft de gewestelijke ontvanger vakantie voor de periode tussen Kerstmis en Nieuwjaar.<br /><br />[§ 3. De gewestelijke ontvanger die voor Kerstmis zijn ambt neerlegt ingevolge pensionering krijgt vervangende vakantiedagen, gelijk aan het aantal feestdagen dat samenvalt met een zaterdag of zondag tijdens het gedeelte van het jaar dat aan de pensionering voorafgaat.  <span class="reference">(ing. B.V.R. 17 februari 2006, art. 3, I: 1 maart 2006)</span> ]
+...
 
 ### ART. 83.
 
-De vakantiedagen worden met een periode van dienstactiviteit gelijkgesteld. Zij worden niet opgeschort bij ziekte maar wel bij hospitalisatie van degewestelijke ontvanger.
+...
 
 ## TITEL 3 [BEVALLINGSVERLOF EN OPVANGVERLOF (verv. BVR 14 november 2008, art. 33, I: 8 december 2008)]
 
@@ -410,11 +426,11 @@ De vakantiedagen worden met een periode van dienstactiviteit gelijkgesteld. Zij 
 
 ### ART. 84.
 
-De gewestelijke ontvanger heeft recht op het bevallingsverlof bedoeld in artikel 39 van de arbeidswet van 16 maart 1971. Dit verlof wordt gelijkgesteld met een periode van dienstactiviteit.<br /><br />[...  <span class="reference">(opgeh. B.V.R. 17 februari 2006, art. 4, I: 1 juli 2004)</span> ]
+De bepalingen van deel X, titel 3, hoofdstuk 1, van het VPS zijn van overeenkomstige toepassing op de gewestelijk ontvanger.
 
 ### ART. 85.
 
-De periode dat het bevallingsverlof bezoldigd wordt, mag niet meer dan vijftien weken bedragen [bij één kind, en niet meer dan negentien weken bij een meerling, tenzij de bevalling plaatsvindt na de vermoedelijke bevallingsdatum.  <span class="reference">(verv. B.V.R. 17 februari 2006, art. 5, I: 1 juli 2004)</span> ]
+...
 
 ### ART. 86.
 
@@ -422,41 +438,41 @@ De periode dat het bevallingsverlof bezoldigd wordt, mag niet meer dan vijftien 
 
 ### ART. 87.
 
-§ 1. Als de moeder overlijdt, heeft de vader van het kind recht op vaderschapsverlof; de duur daarvan mag het deel van het bevallingsverlof dat de moeder nog niet opgenomen had bij haar overlijden, niet overschrijden.<br /><br />§ 2. Wanneer de moeder in een ziekenhuis opgenomen wordt, heeft de vader van het kind recht op vaderschapsverlof; dit verlof begint ten vroegste vanaf de achtste dag te rekenen vanaf de geboorte van het kind, op voorwaarde dat de opname van de moeder in het ziekenhuis meer dan zeven dagen bedraagt en dat de pasgeborene het ziekenhuis verlaten heeft.<br /><br />Het vaderschapsverlof verstrijkt op het moment dat de opname van de moeder in het ziekenhuis een einde neemt; het vaderschapsverlof verstrijkt ten laatste wanneer de periode verstrijkt die overeenstemt met het deel van het bevallingsverlof dat de moeder op het ogenblik van haar opname in het ziekenhuis nog niet had opgenomen.<br /><br />§ 3. Dit vaderschapsverlof wordt gelijkgesteld met een periode van dienstactiviteit.
+...
 
 ## HOOFDSTUK 2 OPVANGVERLOF
 
 ### ART. 88.
 
-De gewestelijke ontvanger krijgt op zijn aanvraag een opvangverlof wanneer zijn gezin een kind beneden tien jaar in zijn gezin opneemt met het oog op adoptie of pleegvoogdij.<br /><br />Het verlof bedraagt ten hoogste zes weken als het kind de leeftijd van drie weken nog niet heeft bereikt. Als het kind deze leeftijd wel al bereikt heeft, bedraagt het verlof ten hoogste vier weken.<br /><br />De maximumduur van het opvangverlof wordt verdubbeld wanneer het opgenomen kind mindervalide is en aan de voorwaarden voldoet om kinderbijslag te genieten overeenkomstig artikel 47 van de gecoördineerde wetten betreffende de kinderbijslag van de loonarbeiders of artikel 26 van het koninklijk besluit van 8 april 1976 houdende regeling van de gezinsbijslag ten voordele van de zelfstandigen.<br /><br />Indien slechts één van de samenwonende partners adopteert of de pleegvoogdij uitoefent, kan alleen die persoon het verlof genieten.
+De bepalingen van deel X, titel 3, hoofdstuk 2, van het VPS zijn van overeenkomstige toepassing op de gewestelijk ontvanger.
 
 ### ART. 89.
 
-Dit verlof wordt gelijkgesteld met een periode van dienstactiviteit.
+...
 
 ## TITEL 4 ZIEKTEVERLOF
 
 ### ART. 90.
 
-§ 1. De gewestelijke ontvanger die afwezig is wegens ziekte, heeft ziekteverlof.<br /><br />§ 2. Het ziekteverlof wordt gelijkgesteld met een periode van dienstactiviteit.
+De bepalingen van deel X, titel 4, van het VPS, met uitzondering van artikel X 24, zijn van overeenkomstige toepassing op de gewestelijk ontvanger.
 
 ## [TITEL 5 VERLOF VOOR DEELTIJDSE PRESTATIES (ing. BVR 14 november 2008, art. 40, I: 8 december 2008)]
 
 ### ART. 91.
 
-§ 1. De gewestelijke ontvanger met ziekteverlof staat onder het toezicht van een geneeskundig controleorgaan overeenkomstig de door de Vlaamse minister, [bevoegd voor het algemeen beleid inzake personeel en organisatieontwikkeling,  <span class="reference">(verv. B.V.R. 17 februari 2006, art. 7, I: 1 maart 2006)</span> ] vastgestelde nadere bepalingen. Het geneeskundig controleorgaan wordt aangewezen door de Vlaamse minister, bevoegd voor het algemeen beleid inzake personeel en organisatieontwikkeling.  <span class="reference">(verv. B.V.R. 17 februari 2006, art. 7, I: 1 maart 2006)</span> ]<br /><br />§ 2. Ingeval de gewestelijke ontvanger niet akkoord gaat met de beslissing van de controlearts, kan hij een beroep doen op een arbitrageprocedure waarvan de nadere regelen worden vastgesteld door de Vlaamse minister [bevoegd voor het algemeen beleid inzake personeel en organisatieontwikkeling,  <span class="reference">(verv. B.V.R. 17 februari 2006, art. 7, I: 1 maart 2006)</span> ]
+De gewestelijk ontvanger kan een verlof voor deeltijdse prestaties krijgen. Het verlof wordt toegestaan door de arrondissementscommissaris, die beoordeelt of het geven van de toestemming verenigbaar is met de goede werking van de dienst.<br /><br />De nadere regelen voor het opnemen van het verlof voor deeltijdse prestaties worden bepaald in overleg met de arrondissementscommissaris en de gewestelijk ontvanger.<br /><br />De gewestelijk ontvanger kan binnen vijftien kalenderdagen vanaf de kennisgeving van de beslissing tot weigering van het verlof voor deeltijdse prestaties in beroep gaan bij de provinciegouverneur. De provinciegouverneur neemt een definitieve beslissing binnen dertig kalenderdagen.<br /><br />Het verlof voor deeltijdse prestaties kan worden opgezegd door de gewestelijk ontvanger en door de arrondissementscommissaris.<br />
 
 ### ART. 92.
 
-Indien de gewestelijke ontvanger tijdens de loopbaan 666 werkdagen afwezig is geweest wegens ziekte, te rekenen vanaf de inwerkingtreding van dit statuut, kan het in artikel [91  <span class="reference">(verv. B.V.R. 17 februari 2006, art. 8, I: 1 maart 2006)</span> ] bedoelde geneeskundig controleorgaan een voorstel formuleren aan de Administratieve Gezondheidsdienst tot definitieve ongeschiktverklaring van de gewestelijke ontvanger.<br /><br />De vakantiedagen die de gewestelijke ontvanger niet heeft kunnen opnemen ingevolge langdurige ziekte, worden in mindering gebracht op het in het eerste lid vermelde aantal werkdagen.
+Artikel X 26 en X 27 van het VPS zijn van overeenkomstige toepassing op de gewestelijk ontvanger.
 
 ### ART. 93.
 
-§ 1. Het geneeskundig controleorgaan kan deeltijdse prestaties wegens ziekte opleggen of toestaan a rato van ten minste 50 % voor een periode van ten hoogste zes maanden, indien het een gewestelijke ontvanger die afwezig is wegens ziekte of ongeval van gemeen recht, geschikt acht om het ambt terug op te nemen met deeltijdse prestaties.<br /><br />Het verrichten van deeltijdse prestaties kan door het geneeskundig controleorgaan meermaals worden verlengd met een periode van ten hoogste zes maanden.<br /><br />§ 2. De afwezigheid van de gewestelijke ontvanger tijdens een periode van deeltijdse prestaties wegens ziekte wordt beschouwd als ziekteverlof. De aanrekening op het aantal dagen vermeld in artikel [92 en 128  <span class="reference">(verv. B.V.R. 17 februari 2006, art. 9, I: 1 maart 2006)</span> ] gebeurt pro rata.
+...
 
 ### ART. 94.
 
-§ 1. Ziekteverlof wordt toegestaan voor de duur van de afwezigheid naar aanleiding van:<br /><br />1° een arbeidsongeval;<br /><br />2° een ongeval op weg naar en van het werk;<br /><br />3° een beroepsziekte;<br /><br />[4° een ongeval van gemeen recht, veroorzaakt door de schuld van een derde;  <span class="reference">(ing. B.V.R. 17 februari 2006, art. 10, I: 1 maart 2006)</span> ]<br /><br />[5° de dagen afwezigheid wegens ziekte die zich voordoen binnen zes weken voor de werkelijke bevallingsdatum. In geval van geboorte van een meerling wordt die periode verlengd tot acht weken.  <span class="reference">(ing. B.V.R. 17 februari 2006, art. 10, I: 1 juli 2004)</span> ]<br /><br />[Deze dagen afwezigheid worden niet aangerekend op de contingenten, vermeld in artikel 92, 128 en 160ter.  <span class="reference">(ing. B.V.R. 17 februari 2006, art. 10, I: 1 juli 2004)</span> ]<br /><br />§ 2. Is de afwezigheid te wijten aan de in § 1 vermelde redenen of aan een ongeval, veroorzaakt door de schuld van een derde dan ontvangt de gewestelijke ontvanger zijn salaris alleen als voorschot dat betaald wordt op de door de derde verschuldigde vergoeding en dat op de derde te verhalen is.<br /><br />Het Vlaamse Gewest treedt in dit geval van rechtswege in alle rechten, vorderingen en rechtsmiddelen die de getroffene mocht kunnen doen gelden tegen de persoon die verantwoordelijk is voor het ongeval tot het bedrag van het salaris.<br /><br />§ 3. De gouverneur neemt de juridische beslissing over de erkenning van arbeidsongevallen en van ongevallen op weg naar en van het werk.<br /><br />Hij neemt ook de juridische beslissing over de toekenning van schadevergoeding voor arbeidsongevallen, voor ongevallen op weg naar en van het werk en voor beroepsziekten in de overheidssector.
+...
 
 ## [TITEL 6 VERLOF VOOR LOOPBAANONDERBREKING (verv. BVR 14 november 2008, art.42, I: 8 december 2008)]
 
@@ -524,31 +540,31 @@ Indien de gewestelijk ontvanger geen recht heeft op onderbrekingsuitkeringen als
 
 ### ART. 106.
 
-De gewestelijke ontvanger krijgt verlof wanneer een minister, staatssecretaris, regeringscommissaris of een lid van de regering van een gemeenschap of gewest of een Europees commissaris hem aanwijst om een ambt uit te oefenen op zijn kabinet.<br /><br />De minister van Binnenlandse Aangelegenheden moet zijn akkoord betuigen.
+De bepalingen van deel X, titel 7, hoofdstuk 2, van het VPS zijn van overeenkomstige toepassing op de gewestelijk ontvanger.
 
 ### ART. 107.
 
-Dit verlof wordt gelijkgesteld met een periode van dienstactiviteit.
+...
 
 ## HOOFDSTUK 2 VERLOF VOOR OPDRACHT [... geschr. BVR 14 november 2008, art. 46, I: 8 december 2008)]
 
 ### ART. 108.
 
-De gewestelijke ontvanger krijgt verlof voor de uitoefening van een opdracht waarvan het algemeen belang erkend wordt.
+De bepalingen van deel X, titel 7, hoofdstuk 3, van het VPS zijn van overeenkomstige toepassing op de gewestelijk ontvanger, met uitzondering van artikel X 50, § 2, waarbij de woorden « de Vlaamse overheid » worden gelezen als « de minister van Binnenlandse Aangelegenheden ».
 
 ## [TITEL 8 DIENSTVRIJSTELLING VOOR VORMING (ing. BVR 14 november 2008, art. 48, I: 8 december 2008)]
 
 ### ART. 109.
 
-Het verlof is onbezoldigd en wordt met een periode van dienstactiviteit gelijkgesteld.<br /><br />De minister van Binnenlandse Aangelegenheden kan beslissen het salaris van de gewestelijke ontvanger voor de duur van de opdracht door te betalen en terug te vorderen of geheel of gedeeltelijk door te betalen zonder terugvordering.
+Artikel X 59, met uitzondering van het vormingsverlof, en artikel X 60 van het VPS zijn van overeenkomstige toepassing op de gewestelijk ontvanger waarbij het woord « lijnmanager » wordt gelezen als « arrondissementscommissaris ».
 
 ### ART. 110.
 
-[Behalve ingeval het verlof voor opdracht van algemeen belang ambtshalve wordt erkend, bedraagt het maximum 4 jaren.  <span class="reference">(verv. B.V.R. 17 februari 2006, art. 11, I: 1 maart 2006)</span> ]
+...
 
 ### ART. 111.
 
-§ 1. [De ambtenaar krijgt ambtshalve verlof voor opdracht voor:<br /><br />1° de uitoefening van taken in internationale of supranationale instellingen, aangeboden door een regering of een van de voormelde instellingen;<br /><br />2° de internationale opdrachten in het raam van ontwikkelingssamenwerking, wetenschappelijk onderzoek of humanitaire hulp.  <span class="reference">(verv. B.V.R. 17 februari 2006, art. 12, I: 1 maart 2006)</span> ]<br /><br />§ 2. De minister van Binnenlandse aangelegenheden erkent het karakter van algemeen belang voor de overige opdrachten. De minister geeft zijn toestemming voor de opdracht indien hij de opdracht van overwegend belang acht voor het land, de Vlaamse regering of de Vlaamse administratie.<br /><br />§ 3. In afwijking van de §§ 1 en 2 van dit artikel, verliest iedere opdracht van rechtswege haar karakter van algemeen belang vanaf de eerste dag van de maand die volgt op die waarin de gewestelijke ontvanger een dienstanciënniteit heeft bereikt die volstaat om aanspraak te kunnen maken op het bekomen van een onmiddellijk ingaand of uitgesteld pensioen ten laste van de buitenlandse regering, het buitenlands openbaar bestuur of de internationale instelling voor wie hij de opdracht vervulde.
+...
 
 ### ART. 112.
 
@@ -556,81 +572,81 @@ Het verlof is onbezoldigd en wordt met een periode van dienstactiviteit gelijkge
 
 ### ART. 113.
 
-De minister van Binnenlandse Aangelegenheden kan op ieder ogenblik een einde maken aan deze opdracht. Hij moet hiervoor een opzeggingstermijn van ten minste drie maanden en ten hoogste zes maanden in acht nemen.
+...
 
 ## [TITEL 9 OMSTANDIGHEIDSVERLOF (verv. BVR 14 november 2008, art. 51, I: 8 december 2008)]
 
 ### ART. 114.
 
-§ 1. Aan de gewestelijke ontvanger wordt omstandigheidsverlof toegekend naar aanleiding van de gebeurtenissen en binnen de perken zoals hierna vermeld:<br /><br />1. huwelijk van de gewestelijke ontvanger en verklaring van wettelijke samenwoning door de gewestelijk ontvanger: 4 werkdagen<br /><br />2. bevalling van de echtgenote of samenwonende partner: 10 werkdagen<br /><br />3. overlijden van de echtgenoot of samenwonende partner, een bloed- of aanverwant in de eerste graad van de gewestelijke ontvanger, de echtgenoot of de samenwonende partner: 4 werkdagen<br /><br />4. huwelijk van een kind van de gewestelijke ontvanger, van de echtgenoot of van de samenwonende partner: 2 werkdagen<br /><br />5. overlijden van een bloed- of aanverwant van de gewestelijke ontvanger of van de samenwonende partner in om het even welke graad maar onder eenzelfde dak wonend als de gewestelijke ontvanger: 2 werkdagen<br /><br />6. overlijden van een bloed- of aanverwant van de gewestelijke ontvanger of van de samenwonende partner in de tweede graad, een overgrootouder of een achterkleinkind maar niet onder eenzelfde dak wonend als de gewestelijke ontvanger: 1 werkdag<br /><br />7. huwelijk van een bloed- of aanverwant in de eerste graad, die geen kind is, of in de tweede graad, van de gewestelijke ontvanger, de echtgenoot of de samenwonende partner: de dag van het huwelijk.<br /><br />§ 2. De afwezigheden wegens omstandigheidsverlof worden gelijkgesteld met een periode van dienstactiviteit.
+De bepalingen van deel X, titel 9, van het VPS zijn van overeenkomstige toepassing op de gewestelijk ontvanger.
 
 ## [TITEL 10 POLITIEK VERLOF (verv. BVR 14 november 2008, art. 53, I: 8 december 2008)]
 
 ### ART. 115.
 
-De gewestelijke ontvanger heeft, volgens de hierna bepaalde gevallen en modaliteiten, recht op politiek verlof voor het uitoefenen van een politiek mandaat of een ambt dat ermee gelijkgesteld kan worden, als hij de onverenigbaarheden en verbodsbepalingen die krachtens wettelijke of reglementaire bepalingen op hem van toepassing zijn naleeft.
+De bepalingen van deel X, titel 11, van het VPS zijn van overeenkomstige toepassing op de gewestelijk ontvanger waarbij het woord « lijnmanager » wordt gelezen als « arrondissementscommissaris ».
 
 ## [TITEL 11 ONBETAALD VERLOF (ing. BVR 14 november 2008, art. 55, I: 8 december 2008)]
 
 ### ART. 116.
 
-Op aanvraag van de gewestelijke ontvanger wordt binnen de hierna bepaalde perken dienstvrijstelling verleend voor de uitoefening van de volgende<br /><br />politieke mandaten:<br /><br />1. gemeenteraadslid dat noch burgemeester noch schepen is, of lid van een raad voor maatschappelijk welzijn van een gemeente of van een districtsraad van een district, de voorzitter uitgezonderd: 2 dagen per maand;<br /><br />2. provincieraadslid dat geen lid is van de bestendige deputatie: 2 dagen per maand.
+§ 1. De gewestelijk ontvanger kan aanspraak maken op een contingent onbetaald verlof van maximaal 5 jaar tijdens de loopbaan, fractioneerbaar in maanden, naar rata van de duur die nodig is om een stage of proefperiode in een andere betrekking bij een overheidsdienst of in de privésector te doorlopen.<br /><br />Binnen dat contingent is, al dan niet tezelfdertijd, naar keuze van de ambtenaar :<br />1° één jaar gelijkgesteld met dienstactiviteit;<br />2° één jaar een recht.<br /><br />De nadere regelen voor de opname van een contingent onbetaald verlof worden bepaald in overleg met de arrondissementscommissaris en de gewestelijk ontvanger.<br /><br />§ 2. De gewestelijk ontvanger kan tegen de weigering van het onbetaald verlof dat een gunst is, in beroep gaan bij de provinciegouverneur binnen vijftien kalenderdagen vanaf de kennisgeving van de beslissing tot weigering. De provinciegouverneur neemt een definitieve beslissing binnen dertig kalenderdagen.<br /><br />§ 3. Het verlof, vermeld in § 1, is niet van toepassing op de stagiair.
 
 ### ART. 117.
 
-Op aanvraag van de gewestelijke ontvanger wordt binnen de hierna bepaalde perken facultatief politiek verlof toegekend voor de uitoefening van de volgende politieke mandaten:<br /><br />1° gemeenteraadslid dat noch burgemeester noch schepen is, of lid van de raad voor maatschappelijk welzijn van een gemeente, of van de districtsraad van een district, de voorzitter en de leden van het vast bureau uitgezonderd:<br /><br />a) tot 80.000 inwoners: 2 dagen per maand;<br /><br />b) meer dan 80.000 inwoners: 4 dagen per maand;<br /><br />2° schepen of voorzitter van de raad voor maatschappelijk welzijn van een gemeente of van de districtsraad van een district:<br /><br />a) tot 30.000 inwoners: 4 dagen per maand;<br /><br />b) van 30.001 tot 50.000 inwoners: een vierde van een voltijds ambt;<br /><br />c) van 50.001 tot 80.000 inwoners: de helft van een voltijds ambt;<br /><br />3° lid van het vast bureau van de raad voor maatschappelijk welzijn van een gemeente of van de districtsraad van een district:<br /><br />a) tot 10.000 inwoners: 2 dagen per maand;<br /><br />b) van 10.001 tot 20.000 inwoners: 3 dagen per maand;<br /><br />c) met meer dan 20.000 inwoners: 5 dagen per maand.<br /><br />4° burgemeester van een gemeente:<br /><br />a) tot 30.000 inwoners: een vierde van een voltijds ambt;<br /><br />b) van 30.001 tot 50.000 inwoners: de helft van een voltijds ambt;<br /><br />5° provincieraadslid dat geen lid is van de bestendige deputatie: 4 dagen per maand.
+...
 
 ### ART. 118.
 
-De gewestelijke ontvanger wordt binnen de hierna bepaalde perken met politiek verlof van ambts-wege gezonden voor de uitoefening van de volgende politieke mandaten:<br /><br />1° burgemeester van een gemeente:<br /><br />a) tot 20.000 inwoners: 3 dagen per maand;<br /><br />b) van 20.001 tot 30.000 inwoners: een vierde van een voltijds ambt;<br /><br />c) van 30.001 tot 50.000 inwoners: de helft van een voltijds ambt;<br /><br />d) met meer dan 50.000 inwoners: voltijds.<br /><br />De voorzitters van de districtsraad van een district worden wat betreft het politiek verlof van ambtswege gelijkgesteld met een burgemeester van een gemeente waarbij de duur van het ambtshalve politiek verlof beperkt wordt tot het percentage van de vergoeding van de burgemeester die zij ontvangen;<br /><br />2° schepen of voorzitter van de raad voor maatschappelijk welzijn van een gemeente:<br /><br />a) tot 20.000 inwoners: 2 dagen per maand;<br /><br />b) van 20.001 inwoners tot 30.000 inwoners: 4 dagen per maand;<br /><br />c) van 30.001 tot 50.000 inwoners: een vierde van een voltijds ambt;<br /><br />d) van 50.001 tot 80.000 inwoners: de helft van een voltijds ambt;<br /><br />e) met meer dan 80.000 inwoners: voltijds.<br /><br />De leden van het bureau van de districtsraad van een district worden wat betreft het politiek verlof van ambtswege gelijkgesteld met een schepen van een gemeente waarbij de duur van het ambtshalve politiek verlof beperkt wordt tot het percentage van de vergoeding van de schepenen die zij ontvangen;<br /><br />3° lid van de bestendige deputatie van een provincieraad: voltijds;<br /><br />4° lid van de Kamer van volksvertegenwoordigers of van de Senaat: voltijds;<br /><br />5° lid van de Brusselse Hoofdstedelijke Raad: voltijds;<br /><br />6° lid van het Europees Parlement: voltijds;<br /><br />7° lid van de federale Regering: voltijds;<br /><br />8° lid van de Brusselse Hoofdstedelijke Regering: voltijds;<br /><br />9° gewestelijk staatssecretaris van het Brussels Hoofdstedelijk Gewest: voltijds;<br /><br />10° lid van de Commissie van de Europese Unie: voltijds.<br /><br />Het politiek verlof van ambtswege vangt aan op de datum van de eedaflegging.
+...
 
 ### ART. 119.
 
-De gewestelijke ontvanger die voor de uitoefening van een mandaat van burgemeester, schepen of voorzitter van een raad voor maatschappelijk welzijn of van de districtsraad van een district recht heeft op politiek verlof waarvan de duur niet de helft van een voltijds ambt overschrijdt, kan, op aanvraag, halftijds of voltijds politiek verlof krijgen.<br /><br />De gewestelijke ontvanger die voor de uitoefening van een in het eerste lid vermeld mandaat recht heeft op halftijds politiek verlof, kan, op aanvraag, voltijds politiek verlof krijgen.<br /><br />Het politiek verlof dat in toepassing van het eerste en tweede lid wordt verkregen, wordt gelijkgesteld met politiek verlof van ambtswege wat betreft de weerslag die het heeft op de administratieve en geldelijke toestand van de gewestelijke ontvanger.
+...
 
 ### ART. 120.
 
-De afwezigheden wegens facultatief politiek verlof en politiek verlof van ambtswege voor een in artikel [117  <span class="reference">(verv. B.V.R. 17 februari 2006, art. 13, I: 1 maart 2006)</span> ] en in artikel [118,  <span class="reference">(verv. B.V.R. 17 februari 2006, art. 13, I: 1 maart 2006)</span> ] eerste lid, 1°, 2° en 3°, vermelde politiek mandaat worden gelijkgesteld met een periode van dienstactiviteit. De gewestelijke ontvanger heeft evenwel geen recht op salaris.<br /><br />Het voltijds politiek verlof van ambtswege voor een in artikel [118,  <span class="reference">(verv. B.V.R. 17 februari 2006, art. 13, I: 1 maart 2006)</span> ] eerste lid, 4° tot en met 10°, vermelde politiek mandaat wordt gelijkgesteld met een periode van non-activiteit.<br /><br />De gewestelijke ontvanger heeft recht op bevordering in salarisschaal, behalve bij voltijds politiek verlof.
+...
 
 ### ART. 121.
 
-§ 1. Het politiek verlof voor een in artikel [116,  <span class="reference">(verv. B.V.R. 17 februari 2006, art. 13, I: 1 maart 2006)</span> ] artikel [117  <span class="reference">(verv. B.V.R. 17 februari 2006, art. 13, I: 1 maart 2006)</span> ] en artikel [118,  <span class="reference">(verv. B.V.R. 17 februari 2006, art. 13, I: 1 maart 2006)</span> ] eerste lid, 1°, 2° en 3°, vermeld politiek mandaat eindigt uiterlijk op de laatste dag van de maand die volgt op die tijdens dewelke het mandaat eindigt.<br /><br />Het politiek verlof voor een in artikel [118,  <span class="reference">(verv. B.V.R. 17 februari 2006, art. 13, I: 1 maart 2006)</span> ] eerste lid, 4° tot en met 10°, vermeld politiek mandaat loopt tot zes maanden na de beëindiging van het mandaat.<br /><br />Vanaf dat ogenblik herkrijgt de betrokkene alle statutaire rechten.<br /><br />§ 2. De gewestelijke ontvanger mag na wederindiensttreding het salaris niet cumuleren met enig voordeel verbonden aan de uitoefening van het afgelopen mandaat.<br /><br />Deze titel is ook van toepassing op de stagiair.
+...
 
 ## [TITEL 12 VERLOF KRACHTENS FEDERALE BEPALINGEN OF VERPLICHTINGEN (verv. BVR 14 november 2008, art. 59, I: 8 december 2008)]
 
 ### ART. 123.
 
-Overeenkomstig de federale bepalingen terzake heeft de gewestelijke ontvanger recht op volgende verloven:<br /><br />- verrichten in vredestijd van militaire prestaties of prestaties als vrijwilliger bij het korps voor burgerlijke veiligheid;<br /><br />- voorbehoedend verlof;<br /><br />- vakbondsverlof;<br /><br />- ziekte- of gebrekkigheidsverlof bij een arbeidsongeval, een ongeval op de weg van en naar het werk of een beroepsziekte.
+De bepalingen van deel X, titel 12, van het VPS zijn van overeenkomstige toepassing op de gewestelijk ontvanger.
 
 ## DEEL X [HET VERLIES VAN DE HOEDANIGHEID VAN AMBTENAAR EN DE DEFINITIEVE AMBTSNEERLEGGING (verv. BVR 14 november 2008, art. 61, I: 8 december 2008)]
 
 ### ART. 124.
 
-Niemand kan de hoedanigheid van gewestelijke ontvanger verliezen [vóór de normale leeftijd van 65 jaar  <span class="reference">(verv. B.V.R. 17 februari 2006, art. 14, I: 1 maart 2006)</span> ] behalve in de gevallen bepaald door de pensioenwetgeving of door dit besluit.
+De bepalingen van deel XI, hoofdstuk 1, van het VPS, met uitzondering van artikel XI 2, zijn van overeenkomstige toepassing op de gewestelijk ontvanger, op voorwaarde van de volgende aanpassingen :<br />1° de woorden « de werkgever » worden gelezen als « de provinciegouverneur »;<br />2° de woorden « de diensten van de Vlaamse overheid » worden gelezen als « het Vlaamse Gewest ».
 
 ### ART. 125.
 
-Ambtshalve en zonder opzegging wordt een einde gemaakt aan de hoedanigheid van gewestelijke ontvanger voor:<br /><br />1° de gewestelijke ontvanger van wie de benoeming onregelmatig bevonden wordt binnen de termijn voor beroep tot nietigverklaring bij de Raad van State of, als een zodanig beroep is ingesteld, tijdens de procedure; die termijn geldt niet in geval van arglist of bedrog van de gewestelijke ontvanger;<br /><br />2° de gewestelijke ontvanger die niet langer de burgerlijke en politieke rechten geniet, die niet meer voldoet aan de dienstplichtwetten of die niet meer voldoet aan de nationaliteitsvereiste;<br /><br />3° onverminderd de toepassing van een tuchtprocedure en de deelname aan een georganiseerde werkonderbreking, de gewestelijke ontvanger die zonder geldige reden de werkpost verlaat en meer dan tien dagen afwezig blijft;<br /><br />4° de gewestelijke ontvanger die zich in een geval bevindt waarin de toepassing van de burgerlijke wetten en van de strafwetten de ambtsneerlegging ten gevolge heeft;<br /><br />5° de gewestelijke ontvanger die wordt ontslagen van ambtswege of die wordt afgezet.<br /><br />§ 2. De gewestelijke ontvanger wiens onregelmatige benoeming, in het in § 1, 1°, bedoelde geval, niet te wijten is aan arglist of bedrog in zijn hoofde, krijgt een verbrekingsvergoeding, die overeenstemt met drie maanden loon voor elke volledige of ingegane schijf van vijf jaar tewerkstelling bij het ministerie.<br /><br />§ 3. In de andere in § 1 vermelde gevallen, krijgt de gewestelijke ontvanger ontslag zonder opzeggingstermijn of verbrekingsvergoeding. De gouverneur betaalt evenwel de werkgevers- en werknemersbijdragen nodig voor opname van de betrokken gewestelijke ontvanger in de werkloosheidsverzekering, de ziekteverzekering (sector uitkeringen) en de moederschapsverzekering.<br /><br />Bij betaling van de verbrekingsvergoeding vermeld in § 2 worden op deze verbrekingsvergoeding de werkgevers- en werknemersbijdragen ingehouden voor de werkloosheidsverzekering, de ziekteverzekering (sector uitkeringen) en de moederschapsverzekering en samen met de werkgeversbijdragen gestort. Indien deze niet volstaan, betaalt de gouverneur de nog benodigde werkgevers- en werknemersbijdragen.<br /><br />De duur van de periode gedekt door inhouding of betaling van werkgevers- en werknemersbijdragen voor de werkloosheidsverzekering en de ziekteverzekering (sector uitkeringen) en de moederschapsverzekering mag de duur niet overschrijden van de statutaire tewerkstelling van de ontslagen gewestelijke ontvanger, eventueel vermeerderd met de duur gedekt door de verbrekingsvergoeding.<br /><br />§ 4. De gouverneur verleent het ontslag.<br /><br />§ 5. De in dit artikel uiteengezette regeling geldt ook voor de stagiair.
+...
 
 ### ART. 126.
 
-Tot ambtsneerlegging geven aanleiding:<br /><br />1° het vrijwillig ontslag;<br /><br />2° de pensionering ingevolge leeftijd of lichamelijke ongeschiktheid;<br /><br />3° de definitief vastgestelde beroepsongeschiktheid.
+...
 
 ### ART. 127.
 
-De bepaling onder 1° en 2° van dit artikel is tevens van toepassing op de stagiair.<br /><br />In geval van vrijwillig ontslag mag de gewestelijke ontvanger of de stagiair slechts na toestemming en na een opzeggingstermijn van ten minste dertig kalenderdagen de dienst verlaten. Indien de gouverneur binnen een termijn van dertig kalenderdagen na de aanvraag niet geantwoord heeft, wordt de toestemming geacht gegeven te zijn.<br /><br />Nochtans kan in afwijking van het eerste lid in onderling akkoord tussen de betrokkene en de gouverneur de opzeggingstermijn ingekort worden.<br /><br />Een benoeming bij een andere overheid die definitief geworden is, wordt gelijkgesteld met vrijwillig ontslag.
+...
 
 ### ART. 128.
 
-De gewestelijke ontvanger die 60 jaar geworden is, wordt ambtshalve op rust gesteld op de eerste dag van de maand die volgt op de maand waarin hij, zonder definitief ongeschikt te zijn bevonden, komt tot een totaal van [222 werkdagen  <span class="reference">(verv. B.V.R. 17 februari 2006, art. 15, I: 1 maart 2006)</span> ] afwezigheid wegens ziekte, te rekenen vanaf de leeftijd van 60 jaar. [...  <span class="reference">(geschr. B.V.R. 17 februari 2006, art. 15, I: 1 maart 2006)</span> ]
+...
 
 ### ART. 129.
 
-§ 1. De gewestelijke ontvanger is definitief beroepsongeschikt bevonden indien hij gedurende twee opeenvolgende keren de evaluatie "onvoldoende" gekregen heeft.<br /><br />§ 2. Het ontslag treedt in werking na het verstrijken van een opzeggingstermijn. Deze opzeggingstermijn bedraagt drie maanden voor de gewestelijke ontvanger die minder dan vijf jaar in dienst zijn als gewestelijke ontvanger. Deze termijn wordt vermeerderd met drie maanden bij de aanvang van elke nieuwe periode van vijf jaar dienst als gewestelijke ontvan-ger.<br /><br />De opzeggingstermijn gaat in op de eerste dag van de maand volgend op de betekening van het ontslag. De betekening gebeurt via aangetekend schrijven en heeft uitwerking de derde dag na de verzending.<br /><br />In afwijking van het tweede lid kan in onderling akkoord tussen de gouverneur en de gewestelijke ontvanger een langere opzeggingstermijn worden overeengekomen of kan de opzeggingstermijn worden ingekort.<br /><br />De gouverneur kan evenwel beslissen dat het ontslag wegens beroepsongeschiktheid onmiddellijk ingaat, als hij een verbrekingsvergoeding die gelijk is aan het salaris dat overeenstemt met de duur van een normale opzeggingstermijn betaalt.<br /><br />§ 3. Met het oog op de onderbrenging van de gewestelijke ontvanger onder de werkloosheidsverzekering, de ziekteverzekering (sector uitkeringen) en de moederschapsverzekering worden tijdens de opzeggingstermijn of op de verbrekingsvergoeding de desbetreffende werknemersbijdragen ingehouden en samen met de werkgeversbijdrage gestort. Indien deze niet volstaan, betaalt de gouverneur de nog benodigde werkgevers- en werknemersbijdragen.<br /><br />De duur van de periode gedekt door inhouding of betaling van werkgevers- en werknemersbijdragen voor de werkloosheidsverzekering en de ziekteverzekering (sector uitkeringen) en de moederschapsverzekering mag de duur niet overschrijden van de statutaire tewerkstelling van de ontslagen gewestelijke ontvanger, eventueel vermeerderd met de duur gedekt door de verbrekingsvergoeding.
+...
 
 ### ART. 130.
 
-De pensioengerechtigde gewestelijke ontvanger die, behoudens in geval van vroegtijdige pensionering ten gevolge van een arbeidsongeval, een ongeval op weg naar en van het werk of een beroepsziekte, ten minste 20 jaar dienstanciënniteit telt op het ogenblik van zijn pensionering, wordt gemachtigd de eretitel van zijn ambt te dragen.
+...
 
 ## DEEL XI GELDELIJK STATUUT
 
@@ -888,35 +904,35 @@ De gerechtigde in een schaal ontvangt te allen tijde het salaris dat overeenstem
 
 ### ART. 134.
 
-De gewestelijke ontvanger valoriseert alle voltijdse diensten die hij heeft verricht als personeelslid in de publieke sector in één van de lidstaten van de Europese Economische Ruimte of bij een internationale openbare instelling.<br /><br />De minister van Binnenlandse Aangelegenheden beslist welke diensten worden in aanmerking genomen.
+De diensten en ervaring van de gewestelijk ontvanger worden in aanmerking genomen voor de berekening van zijn geldelijke anciënniteit zoals voor de personeelsleden van de diensten van de Vlaamse overheid.
 
 ### ART. 135.
 
-In afwijking van artikel 134 behouden de gewestelijke ontvangers, die in dienst waren wanneer dit statuut in werking treedt, hun geldelijke anciënniteit.
+In afwijking van artikel 134 behouden de gewestelijk ontvangers, die in dienst waren wanneer dit statuut in werking treedt, hun geldelijke anciënniteit.
 
 ### ART. 136.
 
-Voorzover zij ten minste de helft van een normale beroepsbezigheid in beslag nemen, worden door een gewestelijke ontvanger deeltijds verrichte diensten in aanmerking genomen a rato van het prestatieregime.
+...
 
 ### ART. 137.
 
-De duur van de in aanmerking komende diensten die de gewestelijke ontvanger heeft mag nooit de werkelijke duur van de door deze diensten gedekte periodes overschrijden.
+...
 
 ### ART. 138.
 
-Voor de vaststelling van het salaris en het bepalen van het tijdstip van de periodieke salarisverhoging wordt er alleen rekening gehouden met de nuttige anciënniteit.<br /><br />De nuttige anciënniteit is het kleinste aantal jaren van de totale geldelijke anciënniteit van een gewestelijke ontvanger, dat hem recht geeft op een periodieke salarisverhoging.
+...
 
 ## HOOFDSTUK 4 UITBETALING VAN HET SALARIS
 
 ### ART. 139.
 
-§ 1. Het maandsalaris is gelijk aan 1/12 van het jaarsalaris.<br /><br />§ 2. Wanneer de gewestelijke ontvanger op pensioen wordt gesteld of overlijdt, wordt het volle maandsalaris betaald aan hem of aan zijn rechthebbenden, naar gelang van het geval.<br /><br />§ 3. Het salaris wordt na het verlopen van de termijn betaald, met dien verstande dat het op de rekening van de gewestelijke ontvanger bijgeschreven wordt uiterlijk de laatste werkdag van de maand. Het salaris van de maand december wordt op de rekening van de gewestelijke ontvanger geboekt uiterlijk de eerste werkdag van de maand januari. Het salaris wordt overgemaakt via overschrijving.<br /><br />§ 4. Aan de gewestelijke ontvanger die in dienst is getreden wordt, in zoverre niet onmiddellijk het juiste salaris kan worden uitbetaald, vanaf de eerste maand een maandelijks voorschot uitgekeerd dat gelijk is aan het beginsalaris van zijn graad.<br /><br />De uitbetaling van dit voorschot is niet onderworpen aan het visum van de Inspectie van Financiën. Wanneer de gewestelijke ontvanger op het einde van de tweede maand na de datum van indiensttreding nog steeds geen salaris heeft ontvangen door een fout van de overheid die hem heeft aangeworven ontvangt hij ambtshalve nalatigheidsintresten berekend op het beginsalaris. Deze nalatigheidsintresten worden aangerekend vanaf de maand die volgt op de datum van indiensttreding.<br /><br />[Het maandsalaris volgt de evolutie van het gezondheidsindexcijfer overeenkomstig de wet van 1 maart 1977 houdende inrichting van een stelsel waarbij sommige uitgaven in de overheidssector aan het indexcijfer van de consumptieprijzen van het rijk worden gekoppeld, gewijzigd bij het koninklijk besluit nr. 178 van 30 december 1982 en onverminderd artikel 2 van het koninklijk besluit van 24 december 1993 ter uitvoering van de wet van 6 januari 1989 tot vrijwaring van 's lands concurrentievermogen.<br /><br />Het salaris tegen 100 % wordt gekoppeld aan het spilindexcijfer 138,01.  <span class="reference">(verv. B.V.R. 17 februari 2006, art. 16, I: 1 maart 2006)</span> ]
+§ 1. Het maandsalaris is gelijk aan 1/12 van het jaarsalaris.<br /><br />§ 2. Wanneer de gewestelijk ontvanger op pensioen wordt gesteld of overlijdt, wordt het volle maandsalaris betaald aan hem of aan zijn rechthebbenden, naar gelang van het geval.<br /><br />§ 3. Het salaris wordt na het verlopen van de termijn betaald, met dien verstande dat het op de rekening van de gewestelijk ontvanger bijgeschreven wordt uiterlijk de laatste werkdag van de maand. Het salaris van de maand december wordt op de rekening van de gewestelijk ontvanger geboekt uiterlijk de eerste werkdag van de maand januari. Het salaris wordt overgemaakt via overschrijving.<br /><br />§ 4. Aan de gewestelijk ontvanger die in dienst is getreden wordt, in zoverre niet onmiddellijk het juiste salaris kan worden uitbetaald, vanaf de eerste maand een maandelijks voorschot uitgekeerd dat gelijk is aan het beginsalaris van zijn graad.<br /><br />De uitbetaling van dit voorschot is niet onderworpen aan het visum van de Inspectie van Financiën. Wanneer de gewestelijk ontvanger op het einde van de tweede maand na de datum van indiensttreding nog steeds geen salaris heeft ontvangen door een fout van de overheid die hem heeft aangeworven ontvangt hij ambtshalve nalatigheidsintresten berekend op het beginsalaris. Deze nalatigheidsintresten worden aangerekend vanaf de maand die volgt op de datum van indiensttreding.<br /><br />Het maandsalaris volgt de evolutie van het gezondheidsindexcijfer overeenkomstig de wet van 1 maart 1977 houdende inrichting van een stelsel waarbij sommige uitgaven in de overheidssector aan het indexcijfer van de consumptieprijzen van het rijk worden gekoppeld, gewijzigd bij het koninklijk besluit nr. 178 van 30 december 1982 en onverminderd artikel 2 van het koninklijk besluit van 24 december 1993 ter uitvoering van de wet van 6 januari 1989 tot vrijwaring van 's lands concurrentievermogen.<br /><br />Het salaris tegen 100 % wordt gekoppeld aan het spilindexcijfer 138,01. <br /><br />§ 5. Artikel VII 11, § 2, van het VPS is van overeenkomstige toepassing op de gewestelijk ontvanger.
 
 ## HOOFDSTUK 5 BEREKENING VAN HET SALARIS IN GEVAL VAN DEELTIJDSE PRESTATIES
 
 ### ART. 140.
 
-Wanneer het maandsalaris niet volledig verschuldigd is, wordt het bedrag van het maandloon berekend volgens de volgende formule:<br /><br />M = VW/PW x n% x NM<br /><br />waarbij:<br /><br />M = het te betalen maandloon (100 %);<br /><br />VW = het aantal werkdagen waarvoor betaling is verschuldigd;<br /><br />PW = het aantal te presteren werkdagen;<br /><br />n % = het percentage waaraan de gewestelijke ontvanger prestaties verricht;<br /><br />NM = het normaal maandsalaris (100 %) = het jaarsalaris/12 (100 % en voor voltijdse prestaties).
+Als het maandsalaris niet volledig verschuldigd is, wordt het bedrag van het maandloon berekend volgens de formule, vermeld in artikel VII 6, § 1, van het VPS.
 
 ## TITEL 2 TOELAGEN
 
@@ -946,9 +962,13 @@ De als toelagen verschuldigde bedragen worden uitgekeerd afgerond op de hogere c
 
 ### ART. 146.
 
-§ 1. Voor de berekening van de eindejaarstoelage wordt onder « referteperiode » verstaan de periode van 1 januari tot en met 30 september.<br /><br />§ 2. De eindejaarstoelage bedraagt [53  <span class="reference">(verv. B.V.R. 17 februari 2006, art. 17, I: 1 december 2004)</span> ] % van het brutomaandsalaris van november.<br /><br />§ 3. De eindejaarstoelage wordt uitbetaald tijdens de maand december van het desbetreffende jaar.
+§ 1. Voor de berekening van de eindejaarstoelage wordt onder « referteperiode » verstaan de periode van 1 januari tot en met 30 september.<br /><br />§ 2. Het bedrag van de eindejaarstoelage is gelijk aan een percentage van het brutosalaris van de maand november. Dit percentage is gelijk aan het percentage, vermeld in artikel VII 22, § 2, van het VPS voor de personeelsleden met rang A2. <br /><br />§ 3. De eindejaarstoelage wordt uitbetaald tijdens de maand december van het desbetreffende jaar.
 
 ## [HOOFDSTUK 3 TOELAGE VOOR HET TIJDELIJK OVERNEMEN VAN EEN ANDER BESTUUR (ing. BVR 14 november 2008, art. 70, I: 8 december 2008)]
+
+### ART. 146bis.
+
+§ 1. De gewestelijk ontvanger die door de arrondissementscommissaris wordt belast met een bijkomend bestuur, bij tijdelijke afwezigheid van de effectieve titularis die verantwoordelijk is voor dit bestuur of in afwachting van de invulling van een vacature, ontvangt hiervoor een toelage.<br /><br />§ 2. De arrondissementscommissaris bepaalt deze toelage a rato van het aantal gepresteerde uren voor het bijkomend bestuur, voor zover dit aantal gepresteerde uren opgeteld bij het aantal uren verricht voor de eigen besturen een normale voltijdse beroepsbezigheid te boven gaat.<br /><br />Deze toelage mag maximaal 40 % bedragen van het beginsalaris van een gewestelijk ontvanger.<br /><br />§ 3. Het recht op deze toelage ontstaat zodra de gewestelijk ontvanger gedurende ten minste vijf opeenvolgende werkdagen wordt belast met het bijkomend bestuur.
 
 ## TITEL 3 VERGOEDINGEN
 
@@ -996,7 +1016,7 @@ De provinciegouverneur beslist welk vervoermiddel functioneel en financieel het 
 
 ### ART. 156.
 
-De gewestelijke ontvanger geniet reis- en verblijfsvergoedingen zoals het personeel van het ministerie van de Vlaamse Gemeenschap.
+De gewestelijk ontvanger geniet reis- en verblijfsvergoedingen zoals het personeel van de diensten van de Vlaamse overheid.
 
 ### ART. 157.
 
@@ -1006,7 +1026,7 @@ De gewestelijke ontvanger geniet reis- en verblijfsvergoedingen zoals het person
 
 ### ART. 158.
 
-§ 1. De gewestelijke ontvanger die door de arrondissementscommissaris wordt belast met een bijkomend bestuur, bij tijdelijke afwezigheid van de effectieve titularis die verantwoordelijk is voor dit bestuur, ontvangt hiervoor een vergoeding.<br /><br />§ 2. De arrondissementscommissaris bepaalt deze vergoeding a rato van het aantal gepresteerde uren voor het bijkomend bestuur. Deze vergoeding mag maximaal 25 % bedragen van het beginsalaris van een gewestelijke ontvanger.<br /><br />§ 3. Deze vergoeding wordt toegekend voor de tweede en derde maand dat de gewestelijke ontvanger wordt belast met het bijkomend bestuur.<br /><br />§ 4. In afwijking van § 3 wordt de vergoeding ook betaald voor de eerste maand dat de gewestelijke ontvanger wordt belast met het bijkomend bestuur, indien op voorhand vaststaat dat de afwezigheid van de effectieve titularis langer dan één maand zal duren.
+...
 
 ## HOOFDSTUK 5 [DIENSTVERPLAATSINGEN NAAR DE TE BEDIENEN BESTUREN MET HET OPENBAAR VERVOER (verv. BVR 14 november 2008, art. 74, I: 1 maart 2006)]
 
@@ -1054,11 +1074,15 @@ De nominale waarde van de maaltijdcheque bedraagt 5,00 euro, waarvan de werkneme
 
 ## [HOOFDSTUK 9 RECHTSBIJSTAND (ing. BVR 14 november 2008, art. 78, I: 8 december 2008)]
 
+### ART. 158undecies.
+
+De gewestelijk ontvanger die door derden gerechtelijk vervolgd worden, krijgt hiervoor rechtsbijstand onder de voorwaarden, vermeld in een omzendbrief van de minister van Binnenlandse Aangelegenheden.
+
 ## DEEL XII DE CONTRACTUELE GEWESTELIJK ONTVANGERS
 
 ### ART. 159.
 
-Dit statuut is ook van toepassing op de gewestelijke ontvangers die contractueel worden geworven met uitzondering van de bepalingen van de delen IV, V, VII, VIII en X en de [artikelen 108 tot en met 113.  <span class="reference">(verv. B.V.R. 17 februari 2006, art. 21, I: 1 maart 2006)</span> ]
+Dit statuut is ook van toepassing op de gewestelijk ontvangers die contractueel worden geworven met uitzondering van de bepalingen van de delen IV, titel 1 en 3, V, VII, VIII, IX, titel 5, titel 6 en titel 7, hoofdstuk 2 en van deel X.
 
 ### ART. 159bis.
 
@@ -1078,7 +1102,7 @@ In afwijking van artikel X 9, § 1, van het VPS kunnen voor de periode van 1 jan
 
 ### ART. 160ter.
 
-In afwijking van artikel 128 wordt de gewestelijke ontvanger die 60 jaar geworden is, niet ambtshalve op rust gesteld na 222 werkdagen afwezigheid wegens ziekte, maar pas na 365 kalenderdagen afwezigheid wegens ziekte, indien hij:<br /><br />1° hetzij geen 5 pensioenaanspraakverlenende dienstjaren telt op de datum waarop hij de 222 werkdagen afwezigheid wegens ziekte bereikt;<br /><br />2° hetzij geen 20 pensioenaanspraakverlenende dienstjaren telt op de datum waarop hij de 222 werkdagen afwezigheid wegens ziekte bereikt, én onder toepassing zou vallen van de regeling van het gewaarborgd minimumpensioen;<br /><br />3° hetzij 20 pensioenaanspraakverlenende dienstjaren telt en een minimumpensioen wegens lichamelijke ongeschiktheid zou kunnen verkrijgen dat voordeliger is dan het minimumpensioen wegens leeftijd of anciënniteit.<br /><br />Voor de berekening van de 365 kalenderdagen afwezigheid wegens ziekte waarvan sprake in het eerste lid, wordt geen rekening gehouden met de halve dagen afwezigheid in een periode van deeltijdse prestaties wegens ziekte.  <span class="reference">(ing. B.V.R. 17 februari 2006, art. 22, I: 1 maart 2006)</span> ]
+Artikel XI 13 van het VPS is van overeenkomstige toepassing op de gewestelijk ontvanger.
 
 ### ART. 160quater.
 
@@ -1098,4 +1122,4 @@ De Vlaamse minister, bevoegd voor de Binnenlandse Aangelegenheden, is belast met
 
 ### BIJLAGE 1
 
-Het persoonlijk dossier van de gewestelijke ontvangers omvat volgende administratieve stukken:<br /><br />a) de werving:<br /><br />- nationaliteitsverklaring;<br /><br />- geboorteakte;<br /><br />- diploma's;<br /><br />- getruigschrift van goed gedrag en zeden;<br /><br />- militiegetuigschrift;<br /><br />- de bewijsstukken over de relevante ervaring;<br /><br />b) de selectie:<br /><br />- het voordrachtsdossier van de selectiecommissie;<br /><br />c) stage:<br /><br />- stage-verslagen;<br /><br />d) de benoeming:<br /><br />- het benoemingsbesluit;<br /><br />- proces-verbaal van de eedaflegging;<br /><br />e) evaluatie:<br /><br />- evaluatieverslagen;<br /><br />f) tuchtregeling:<br /><br />- tuchtstraffen;<br /><br />g) verloven:<br /><br />- verlofbesluiten;<br /><br />- ziekteattesten;<br /><br />- formulieren inzake arbeidsongevallen;<br /><br />- briefwisseling over verloven;<br /><br />h) geldelijke loopbaan:<br /><br />- salarisfiches;<br /><br />- voorgaande diensten;<br /><br />- besluiten over salarisvaststelling.
+...
