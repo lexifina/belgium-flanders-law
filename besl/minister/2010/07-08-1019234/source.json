@@ -1,0 +1,17 @@
+{
+  "codex_id": 1019234,
+  "title": "Ministerieel besluit van 2010-07-08 tot wijziging van het ministerieel besluit van 9 december 2008 tot bepaling van de voorwaarden voor de vaststelling van het voorschot op de gewestelijke sociale correctie (GSC) en voor de berekening van de definitieve gewestelijke sociale correctie",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1019234/VolledigDocument?datum=2008-12-09",
+  "source_sha256": "6c731f1e088d47b3eba85386beaf4a75517c26586ac14ef7b7edbf7b753b11f0",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1019234&param=informatie",
+  "as_of": "2008-12-09",
+  "made": "2010-07-08",
+  "gazette": "2010-07-22",
+  "numac": 2010203821,
+  "document_start": "2008-12-09",
+  "document_end": null,
+  "in_force": "2008-12-09",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2008-12-09; oldest version available; future article versions excluded; article text as the API gives it"
+}
