@@ -1,0 +1,17 @@
+{
+  "codex_id": 1017357,
+  "title": "Ministerieel besluit van 2008-11-19 houdende aanwijzing van toezichthoudende ambtenaren en contractuele personeelsleden van de OVAM",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1017357/VolledigDocument?datum=2008-12-12",
+  "source_sha256": "dd388fb79b881e12fcfacc830f9229ed982ba375e0fd32cefbb5529532660c0c",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1017357&param=informatie",
+  "as_of": "2008-12-12",
+  "made": "2008-11-19",
+  "gazette": "2008-12-12",
+  "numac": 2008204460,
+  "document_start": "2008-12-12",
+  "document_end": "2009-07-22",
+  "in_force": "2008-12-12",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2008-12-12; oldest version available; future article versions excluded; article text as the API gives it"
+}
