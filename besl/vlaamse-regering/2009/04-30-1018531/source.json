@@ -1,0 +1,17 @@
+{
+  "codex_id": 1018531,
+  "title": "Besluit van de Vlaamse Regering van 2009-04-30 tot wijziging van het besluit van de Vlaamse Regering van 12 december 2008 betreffende de toekenning van een forfaitaire subsidie voor informatisering aan initiatieven voor preventieve gezinsondersteuning en de toekenning van een forfaitaire subsidie voor brandveiligheid aan kinderopvanginitiatieven",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1018531/VolledigDocument?datum=2008-12-12",
+  "source_sha256": "16af35a412b00c0f28b585f8eb27d337586837c2c718a079480186f5041b1efb",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1018531&param=informatie",
+  "as_of": "2008-12-12",
+  "made": "2009-04-30",
+  "gazette": "2009-11-25",
+  "numac": 2009036062,
+  "document_start": "2008-12-12",
+  "document_end": null,
+  "in_force": "2008-12-12",
+  "article_versions": 5,
+  "record_form": "consolidated version as in force on 2008-12-12; oldest version available; future article versions excluded; article text as the API gives it"
+}
