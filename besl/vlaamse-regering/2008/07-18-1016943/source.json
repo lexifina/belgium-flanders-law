@@ -2,16 +2,16 @@
   "codex_id": 1016943,
   "title": "Besluit van de Vlaamse Regering van 2008-07-18 ter uitvoering van het decreet van 23 mei 2008 betreffende een inhaalbeweging in sportinfrastructuur via alternatieve financiering",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1016943/VolledigDocument?datum=2008-08-06",
-  "source_sha256": "03a1ad24a0c85b70bfd95bfcb7e66b5af8a750259139a0cb68f0f93a9b29f272",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1016943/VolledigDocument?datum=2008-12-12",
+  "source_sha256": "96423994e6901e40d1a43c80fe16fcc7f291053ede5f9980a6b1d21f4ab37b9b",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1016943&param=informatie",
-  "as_of": "2008-08-06",
+  "as_of": "2008-12-12",
   "made": "2008-07-18",
   "gazette": "2008-08-06",
   "numac": 2008202799,
   "document_start": "2008-08-06",
   "document_end": null,
-  "in_force": "2008-08-06",
+  "in_force": "2008-12-12",
   "article_versions": 27,
-  "record_form": "consolidated version as in force on 2008-08-06; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2008-12-12; future article versions excluded; article text as the API gives it"
 }
