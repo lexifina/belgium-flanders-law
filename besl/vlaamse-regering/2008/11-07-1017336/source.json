@@ -1,0 +1,17 @@
+{
+  "codex_id": 1017336,
+  "title": "Besluit van de Vlaamse Regering van 2008-11-07 houdende indeling van de lokale provinciewegen van de provincie Vlaams-Brabant bij de gemeentewegen",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1017336/VolledigDocument?datum=2008-12-13",
+  "source_sha256": "61bd741d707486d4dce2914c33f1e6bed0acedf2e33433ca08da6099871f64a1",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1017336&param=informatie",
+  "as_of": "2008-12-13",
+  "made": "2008-11-07",
+  "gazette": "2008-12-03",
+  "numac": 2008204262,
+  "document_start": "2008-12-13",
+  "document_end": null,
+  "in_force": "2008-12-13",
+  "article_versions": 6,
+  "record_form": "consolidated version as in force on 2008-12-13; oldest version available; future article versions excluded; article text as the API gives it"
+}
