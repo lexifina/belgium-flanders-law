@@ -1,0 +1,17 @@
+{
+  "codex_id": 1017346,
+  "title": "Decreet van 2008-05-23 houdende aanpassing van de algemene uitgavenbegroting van de Vlaamse Gemeenschap voor het begrotingsjaar 2008",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1017346/VolledigDocument?datum=2008-12-18",
+  "source_sha256": "41607d046c9d75f261ed745d66c4ef6eaf7d4787e9bb8d1d2e02897178a8cfe2",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1017346&param=informatie",
+  "as_of": "2008-12-18",
+  "made": "2008-05-23",
+  "gazette": "2008-12-08",
+  "numac": 2008036331,
+  "document_start": "2008-12-18",
+  "document_end": null,
+  "in_force": "2008-12-18",
+  "article_versions": 25,
+  "record_form": "consolidated version as in force on 2008-12-18; oldest version available; future article versions excluded; article text as the API gives it"
+}
