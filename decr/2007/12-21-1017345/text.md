@@ -222,14 +222,27 @@ in duizend euro<br>
 ### ART. 7.
 
 De terugbetalingen van leningen voorzien onder titel III worden, wat betreft het begrotingsjaar 2008, geraamd op :
-<table border="0" cellpadding="0" cellspacing="0" style="border-collapse:collapse; width:347.4pt">
+<table border="1" cellpadding="0" cellspacing="0" style="border-collapse:collapse">
 	<tbody>
 		<tr>
-			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:black 1pt solid; border-right:black 1pt solid; border-top:black 1pt solid; height:11.35pt; width:239.4pt">
-			<p>Terugbetalingen leningen<!--?xml:namespace prefix = o ns =         "urn:schemas-microsoft-com:office:office" /--></p>
+			<td colspan="2" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:460.6pt">
+			<p>Aanpassingen</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:black 1pt solid; height:11.35pt; width:108pt">
-			<p>118.340</p>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Vermeerderingen</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>627.000</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Verminderingen</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>-</p>
 			</td>
 		</tr>
 	</tbody>
@@ -45754,7 +45767,7 @@ Goedgekeurd wordt de bij dit decreet gevoegde begroting voor het jaar 2008 van h
 
 ### ART. 145.
 
-§ 1. Goedgekeurd wordt de bij dit decreet gevoegde begroting voor het jaar 2008 van het IVA Agentschap voor Infrastructuur in het Onderwijs (AGIOn).<br /><br />De begroting beloopt voor de ontvangsten 208.724.000 euro en voor de uitgaven 208.724.000 euro.<br /><br />De ontvangsten en uitgaven voor orde worden respectievelijk geraamd op 0 euro en 0 euro.<br /><br />§ 2. Het Agentschap voor Infrastructuur in het Onderwijs (ba FK9923B) wordt ertoe gemachtigd verbintenissen aan te gaan ten belope van 12.072.000 euro voor het beheer, het onderhoud en de investeringen in schoolgebouwen van de Vlaamse Autonome Hogescholen.<br /><br />§ 3. Het Agentschap voor Infrastructuur in het Onderwijs wordt er tevens toe gemachtigd de hierna volgende verbintenissen aan te gaan voor het beheer, het onderhoud en de investeringen in schoolgebouwen :<br />a) 46.540.000 euro voor het gesubsidieerd officieel onderwijs met uitzondering van het hoger onderwijs (ba FK9921B);<br />b) 195.428.000 euro voor het gesubsidieerd vrij onderwijs met uitzondering van het hoger onderwijs (ba FK9922B);<br />c) 2.100.000 euro voor het gesubsidieerd officieel hoger onderwijs (ba FK9924B );<br />d) 19.533.000 euro voor het gesubsidieerd vrij hoger onderwijs (ba FK9925B).<br /><br />§ 4. De verbintenissen vermeld in § 3 hiervoor, worden in een globaal pakket, per vrijgegeven investeringsschijf, opgenomen en vastgelegd, rekening houdend met een door de Vlaamse minister bevoegd voor financiën en begroting, op voorstel van het Agentschap voor Infrastructuur in het Onderwijs jaarlijks vast te stellen percentage dat volgens de statistische gegevens inzake saldi en ordonnanties effectief wordt geordonnanceerd. Deze te ordonnanceren bedragen kunnen de in § 1 vermelde machtigingsbedragen nooit overschrijden.<br /><br />§ 5. Het Agentschap voor Infrastructuur in het Onderwijs wordt er toe gemachtigd om voor de terbeschikkingstelling van schoolinfrastructuur voor dertig jaar verbintenissen aan te gaan ten belope van maximaal 75 miljoen euro per jaar die voort-vloeien uit de infrastructuurwerken van het DBFM-programma, zoals bedoeld in artikel 2, 3°, van het decreet betreffende de inhaalbeweging in schoolinfrastructuur.<br /><br />§ 6. Het plafond van de gewaarborgde leningen, voorzien in artikel 37 van het decreet van 5 juli 2006 betreffende de inhaalbeweging voor schoolinfrastructuur, is gelijk aan het bedrag, dat binnen de toegekende DBFM-toelages, zoals bepaald in artikel 3 van voormelde decreet, beperkt tot maximum 75 miljoen euro over 30 jaar, verhoogd met de eigen bijdragen van de instellingen, bepaald volgens artikel 19 van het voormelde decreet gedurende dezelfde periode van 30 jaar, voorzien is voor aflossingen van de leningen, zoals gedefinieerd in artikel 37 van voormeld decreet. Indien dit bedrag groter is dan 1 miljard euro, wordt het beperkt tot 1 miljard euro.
+§ 1. Goedgekeurd wordt de bij dit decreet gevoegde begroting voor het jaar 2008 van het IVA Agentschap voor Infrastructuur in het Onderwijs (AGIOn).<br /><br />De begroting beloopt voor de ontvangsten 208.724.000 euro en voor de uitgaven 208.724.000 euro.<br /><br />De ontvangsten en uitgaven voor orde worden respectievelijk geraamd op 0 euro en 0 euro.<br /><br />§ 2. Het Agentschap voor Infrastructuur in het Onderwijs (ba FK9923B) wordt ertoe gemachtigd verbintenissen aan te gaan ten belope van 12.072.000 euro voor het beheer, het onderhoud en de investeringen in schoolgebouwen van de Vlaamse Autonome Hogescholen.<br /><br />§ 3. Het Agentschap voor Infrastructuur in het Onderwijs wordt er tevens toe gemachtigd de hiernavolgende verbintenissen aan te gaan voor het beheer, het onderhoud en de investeringen in schoolgebouwen :<br />a) 55.488.000 euro voor het gesubsidieerd officieel onderwijs met uitzondering van het hoger onderwijs (ba FK9921B);<br />b) 232.999.000 euro voor het gesubsidieerd vrij onderwijs met uitzondering van het hoger onderwijs (ba FK9922B);<br />c) 2.100.000 euro voor het gesubsidieerd officieel hoger onderwijs (ba FK9924B);<br />d) 19.533.000 euro voor het gesubsidieerd vrij hoger onderwijs (ba FK9925B).<br /><br />§ 4. De verbintenissen vermeld in § 3 hiervoor, worden in een globaal pakket, per vrijgegeven investeringsschijf, opgenomen en vastgelegd, rekening houdend met een door de Vlaamse minister bevoegd voor financiën en begroting, op voorstel van het Agentschap voor Infrastructuur in het Onderwijs jaarlijks vast te stellen percentage dat volgens de statistische gegevens inzake saldi en ordonnanties effectief wordt geordonnanceerd. Deze te ordonnanceren bedragen kunnen de in § 1 vermelde machtigingsbedragen nooit overschrijden.<br /><br />§ 5. Het Agentschap voor Infrastructuur in het Onderwijs wordt er toe gemachtigd om voor de terbeschikkingstelling van schoolinfrastructuur voor dertig jaar verbintenissen aan te gaan ten belope van maximaal 75 miljoen euro per jaar die voort-vloeien uit de infrastructuurwerken van het DBFM-programma, zoals bedoeld in artikel 2, 3°, van het decreet betreffende de inhaalbeweging in schoolinfrastructuur.<br /><br />§ 6. Het plafond van de gewaarborgde leningen, voorzien in artikel 37 van het decreet van 5 juli 2006 betreffende de inhaalbeweging voor schoolinfrastructuur, is gelijk aan het bedrag, dat binnen de toegekende DBFM-toelages, zoals bepaald in artikel 3 van voormelde decreet, beperkt tot maximum 75 miljoen euro over 30 jaar, verhoogd met de eigen bijdragen van de instellingen, bepaald volgens artikel 19 van het voormelde decreet gedurende dezelfde periode van 30 jaar, voorzien is voor aflossingen van de leningen, zoals gedefinieerd in artikel 37 van voormeld decreet. Indien dit bedrag groter is dan 1 miljard euro, wordt het beperkt tot 1 miljard euro.
 
 ### ART. 146.
 
