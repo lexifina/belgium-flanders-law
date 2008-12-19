@@ -1,0 +1,17 @@
+{
+  "codex_id": 1017513,
+  "title": "Ministerieel besluit van 2008-12-19 tot vervanging van een lid van de Mobiliteitsraad Vlaanderen",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1017513/VolledigDocument?datum=2008-12-19",
+  "source_sha256": "b0cab3b8ab3b10702f600ddbcf8a3ea828f501993e432ec70a301522f4724bdc",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1017513&param=informatie",
+  "as_of": "2008-12-19",
+  "made": "2008-12-19",
+  "gazette": "2009-01-26",
+  "numac": 2009200133,
+  "document_start": "2008-12-19",
+  "document_end": null,
+  "in_force": "2008-12-19",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2008-12-19; oldest version available; future article versions excluded; article text as the API gives it"
+}
