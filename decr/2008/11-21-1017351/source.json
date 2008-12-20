@@ -1,0 +1,17 @@
+{
+  "codex_id": 1017351,
+  "title": "Decreet van 2008-11-21 houdende wijziging van het decreet van 25 mei 2007 houdende de harmonisering van de procedures van voorkooprechten",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1017351/VolledigDocument?datum=2008-12-20",
+  "source_sha256": "d78ace0bf114d8546af9dccd1f453630571bc5d4d4088de09e7a39e88bb71be5",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1017351&param=informatie",
+  "as_of": "2008-12-20",
+  "made": "2008-11-21",
+  "gazette": "2008-12-10",
+  "numac": 2008204364,
+  "document_start": "2008-12-20",
+  "document_end": null,
+  "in_force": "2008-12-20",
+  "article_versions": 2,
+  "record_form": "consolidated version as in force on 2008-12-20; oldest version available; future article versions excluded; article text as the API gives it"
+}
