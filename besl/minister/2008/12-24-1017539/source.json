@@ -1,0 +1,17 @@
+{
+  "codex_id": 1017539,
+  "title": "Ministerieel besluit van 2008-12-24 houdende bepaling van de coëfficiënt voor de berekening van het bedrag van de gebruikstoelage verstrekt door het Vlaams Infrastructuurfonds voor Persoonsgebonden Aangelegenheden",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1017539/VolledigDocument?datum=2008-12-24",
+  "source_sha256": "1069996c7e53ec0fdfd93a528e14d7edad18e84133180ffbab1bf7a834edafb5",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1017539&param=informatie",
+  "as_of": "2008-12-24",
+  "made": "2008-12-24",
+  "gazette": "2009-02-04",
+  "numac": 2009200250,
+  "document_start": "2008-12-24",
+  "document_end": null,
+  "in_force": "2008-12-24",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2008-12-24; oldest version available; future article versions excluded; article text as the API gives it"
+}
