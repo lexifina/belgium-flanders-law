@@ -1,0 +1,17 @@
+{
+  "codex_id": 1017359,
+  "title": "Besluit van de Vlaamse Regering van 2008-10-10 tot wijziging van het besluit van de Vlaamse Regering van 17 maart 1998 houdende subsidiëring van de landinrichtingswerken en tot wijziging van het besluit van de Vlaamse Regering van 28 mei 2004 betreffende de procedure tot opmaak van landinrichtingsplannen en houdende opheffing van het besluit van de Vlaamse Regering van 6 juni 1996 houdende nadere regelen betreffende de landinrichting en houdende wijziging van het besluit van de Vlaamse Regering van 17 maart 1998 houdende subsidiëring van de landinrichtingswerken",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1017359/VolledigDocument?datum=2008-12-25",
+  "source_sha256": "01ef9579451c75134ca361ef9623e7ee7ff2d5f13a27cfafe92f03b1563e8ca0",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1017359&param=informatie",
+  "as_of": "2008-12-25",
+  "made": "2008-10-10",
+  "gazette": "2008-12-15",
+  "numac": 2008203821,
+  "document_start": "2008-12-25",
+  "document_end": null,
+  "in_force": "2008-12-25",
+  "article_versions": 6,
+  "record_form": "consolidated version as in force on 2008-12-25; oldest version available; future article versions excluded; article text as the API gives it"
+}
