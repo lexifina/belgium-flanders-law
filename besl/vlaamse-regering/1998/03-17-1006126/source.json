@@ -2,16 +2,16 @@
   "codex_id": 1006126,
   "title": "Besluit van de Vlaamse Regering van 1998-03-17 houdende subsidiëring van de landinrichtingswerken",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1006126/VolledigDocument?datum=2008-05-21",
-  "source_sha256": "1669871a0555c7899fbbb3061dc8de5d4243dae52f9c07966d35f3afcf9a0bc5",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1006126/VolledigDocument?datum=2008-12-25",
+  "source_sha256": "3043dc38dcdf5a952769dc632f24648f2348e34c2a916a0199a10a6cb9a9b2b9",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1006126&param=informatie",
-  "as_of": "2008-05-21",
+  "as_of": "2008-12-25",
   "made": "1998-03-17",
   "gazette": "1998-05-07",
   "numac": 1998035495,
   "document_start": "1998-05-07",
   "document_end": "2014-10-31",
-  "in_force": "2008-05-21",
+  "in_force": "2008-12-25",
   "article_versions": 12,
-  "record_form": "consolidated version as in force on 2008-05-21; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2008-12-25; future article versions excluded; article text as the API gives it"
 }
