@@ -1,0 +1,17 @@
+{
+  "codex_id": 1017361,
+  "title": "Ministerieel besluit van 2008-12-08 tot wijziging van het ministerieel besluit van 13 januari 2006 betreffende de vorm en inhoud van de startverklaring en het ministerieel besluit van 2 april 2007 betreffende de vastlegging van de vorm en de inhoud van de EPB-aangifte en het energieprestatiecertificaat bij de bouw",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1017361/VolledigDocument?datum=2008-12-26",
+  "source_sha256": "034eec7505b94eb66821c2bad22bab0814d84b61540320d90219bec859602dda",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1017361&param=informatie",
+  "as_of": "2008-12-26",
+  "made": "2008-12-08",
+  "gazette": "2008-12-16",
+  "numac": 2008036415,
+  "document_start": "2008-12-26",
+  "document_end": null,
+  "in_force": "2008-12-26",
+  "article_versions": 5,
+  "record_form": "consolidated version as in force on 2008-12-26; oldest version available; future article versions excluded; article text as the API gives it"
+}
