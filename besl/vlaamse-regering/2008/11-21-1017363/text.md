@@ -8,9 +8,29 @@ De Vlaamse Regering,<br /><br />Gelet op het kaderdecreet bestuurlijk beleid van
 
 ## TITEL I. Toepassingsgebied
 
+### ART. 1.
+
+Onverminderd de bepalingen van het besluit van de Vlaamse Regering van 13 januari 2006 houdende vaststelling van de rechtspositie van het personeel van de diensten van de Vlaamse overheid,is dit besluit van toepassing op het personeel van de Vlaamse Milieumaatschappij.<br /><br />Dit besluit doet geen afbreuk aan de wettelijke, decretale of reglementaire bepalingen, die op specifieke categorieën van het personeel van de Vlaamse Milieumaatschappij van toepassing zijn.
+
 ## TITEL II. Algemene bepalingen
 
+### ART. 2.
+
+In aanvulling op artikel I 2 van het Vlaams Personeelsstatuut wordt voor de toepassing van dit besluit verstaan onder :<br />1° VPS : het besluit van de Vlaamse Regering van 13 januari 2006 houdende vaststelling van de rechtspositie van het personeel van de diensten van de Vlaamse overheid;<br />2° het agentschap : de Vlaamse Milieumaatschappij;<br />3° de ter beschikking gestelde ambtenaar : de ambtenaar van de Vlaamse Milieumaatschappij die ter beschikking gesteld is van de NV Aquafin, in uitvoering van artikel 56 van het decreet van 22 december 1993 houdende de bepalingen tot begeleiding van de begroting 1994;<br />4° directeur operaties : de ter beschikking gestelde ambtenaar die is aangeduid als lid van de directieraad van het agentschap.
+
 ## DEEL II. ADMINISTRATIEVE LOOPBAAN
+
+### ART. 3.
+
+De graad van directeur operaties wordt uitsluitend bij wege van mandaat begeven.
+
+### ART. 4.
+
+De graad van directeur operaties wordt ingedeeld in de rang A2A.
+
+### ART. 5.
+
+De bepalingen van deel V, titel 3 van het VPS, zijn van toepassing op de aanwijzing van de directeur operaties, met uitzondering van de bepalingen die betrekking hebben op de externe aanwerving en mits volgende nadere bepaling :<br /><br />In afwijking van artikel V 36 komen enkel de in artikel 2, 3°, bedoelde ambtenaren in aanmerking voor de aanwijzing tot directeur operaties.
 
 ## DEEL III. DE VERLONING
 
@@ -26,8 +46,331 @@ De instellingsspecifieke salarisschalen van niveau C worden gevoegd als bijlage 
 
 ## TITEL II. Toelagen
 
+### ART. 8.
+
+Onverminderd de activiteiten opgenomen in bijlage 7 van het VPS worden de in bijlage II bij dit besluit opgesomde activiteiten in aanmerking genomen voor de toekenning van de gevaartoelage bedoeld in artikel VII 33 van het VPS. De toelage wordt berekend overeenkomstig de artikelen VII 14, VII 15, VII 16 en VII 17 van het VPS.
+
+### ART. 9.
+
+§ 1. Voor de personeelsleden die hoofdzakelijk een of meer activiteiten verrichten, opgesomd in bijlage 7 van het VPS of in bijlage II van dit besluit, wordt bij voltijdse prestaties maandelijks een gevaartoelage toegekend van :<br />1. voor de personeelsleden toegewezen aan de afdeling Algemene Zaken die belast zijn met het onderhoud van het wagenpark : 24,00 euro (100 %)<br />2. voor de ter beschikking gestelde personeelsleden :<br />a. die behoren tot niveau B : 30,00 euro (100 %)<br />b. die behoren tot niveau C : 53,00 euro (100 %)<br />c. die behoren tot niveau D : 65,00 euro (100 %)<br />3. voor de personeelsleden, toegewezen aan de afdeling Rapportering Water, de afdeling Lucht, Milieu en Communicatie, de afdeling Ecologisch Toezicht en Economisch Toezicht die belast zijn :<br />a. met de bediening van laboratoriumapparaten, de manipulatie van chemicaliën, laboratoriumglaswerk en -afval, het verhitten van bijtende en/of corrosieve oplosmiddelen, het werken in aanwezigheid van gasflessen onder druk en met oliën, vetten, ontvlambare producten, vuile, irriterende, agressieve en schadelijke stoffen, het monteren, demonteren en herstellen van afvalwatertoestellen : 50,00 euro (100 %)<br />b. met het nemen van monsters, de inventarisatie van lozingspunten langs openbare wegen : 50,00 euro (100 %)<br />c. met het verzegelen van watermeters : 50,00 euro (100 %)<br />4. voor de personeelsleden, toegewezen aan de afdeling Operationeel Waterbeheer die belast zijn met :<br />a. het onderhoud, herstelling en controle van de in het water gebouwde of aan wateroppervlakken grenzende constructies, werk met verontreinigde grond of slibmonsters, werk met of in water of werk waarbij het personeelslid tot kniehoogte in het water staat, activiteiten in het kader van het primair en secundair meetnet grondwater, peilmetingen en boringen grondwater : 50,00 euro (100 %)<br />b. het verdelgen van ratten en ongedierte : 100,00 euro (100 %)<br /><br />Deze bedragen volgen de evolutie van het indexcijfer zoals bepaald in artikel VII 9 van het VPS.<br /><br />§ 2. Voor de personeelsleden waarbij § 1 van dit artikel niet van toepassing is, is de regeling voorzien in artikel VII 33 van het VPS van toepassing.
+
 ### ART. 10.
 
 De personeelsleden van het agentschap ontvangen maaltijdcheques overeenkomstig de geldende federale reglementering.
 
 ## DEEL IV. OPHEFFINGS-, OVERGANGS- EN SLOTBEPALINGEN
+
+### ART. 11.
+
+Bij het beëindigen van het mandaat van directeur operaties van de huidige titularis wordt de salarisschaal A 212 toegekend en na 10 jaar schaalanciënniteit de salarisschaal A 213. De schaalanciënniteit verworven in het mandaat van directeur operaties wordt in dit geval geacht te zijn verworven in de salarisschaal A 212.
+
+### ART. 12.
+
+Het besluit van de Vlaamse Regering van 27 juni 2003 houdende organisatie van de Vlaamse Milieumaatschappij en de instellingsspecifieke regeling van de rechtspositie van het personeel wordt opgeheven.
+
+### ART. 13.
+
+Dit besluit treedt in werking op de tiende dag na publicatie in het Belgisch Staatsblad met uitzondering van het artikel 7 en het artikel 10 die respectievelijk uitwerking hebben met ingang van 1 december 2002 en 1 april 2006.
+
+### ART. 14.
+
+De Vlaamse minister, bevoegd voor het leefmilieu en het waterbeleid is belast met de uitvoering van dit besluit.
+
+### BIJLAGE
+
+Tabel van de instellingsspecifieke salarisschaal van niveau C
+<p>&nbsp;</p>
+
+<table border="1" cellpadding="0" cellspacing="0" style="border-collapse:collapse; width:212.65pt">
+	<tbody>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; height:11.35pt; width:108.45pt">
+			<p>Code</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; height:11.35pt; width:104.2pt">
+			<p>C 224</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; width:108.45pt">
+			<p>Aantal</p>
+
+			<p>Frequentie</p>
+
+			<p>Bedrag</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; width:104.2pt">
+			<p>2/1 x 500</p>
+
+			<p>1/1 x 550</p>
+
+			<p>5/3 x 750</p>
+
+			<p>1/3 x 950</p>
+
+			<p>1/3 x 1.050</p>
+
+			<p>2/3 x 1.000</p>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="2" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; width:212.65pt">
+			<p>Geldelijke anciënniteit</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; width:108.45pt">
+			<p>0</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; width:104.2pt">
+			<p>23.800</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; width:108.45pt">
+			<p>1</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; width:104.2pt">
+			<p>24.300</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; width:108.45pt">
+			<p>2</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; width:104.2pt">
+			<p>24.800</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; width:108.45pt">
+			<p>3</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; width:104.2pt">
+			<p>25.350</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; width:108.45pt">
+			<p>4</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; width:104.2pt">
+			<p>25.350</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; width:108.45pt">
+			<p>5</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; width:104.2pt">
+			<p>25.350</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; width:108.45pt">
+			<p>6</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; width:104.2pt">
+			<p>26.100</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; width:108.45pt">
+			<p>7</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; width:104.2pt">
+			<p>26.100</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; width:108.45pt">
+			<p>8</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; width:104.2pt">
+			<p>26.100</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; width:108.45pt">
+			<p>9</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; width:104.2pt">
+			<p>26.850</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; width:108.45pt">
+			<p>10</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; width:104.2pt">
+			<p>26.850</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; width:108.45pt">
+			<p>11</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; width:104.2pt">
+			<p>26.850</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; width:108.45pt">
+			<p>12</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; width:104.2pt">
+			<p>27.600</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; width:108.45pt">
+			<p>13</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; width:104.2pt">
+			<p>27.600</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; width:108.45pt">
+			<p>14</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; width:104.2pt">
+			<p>27.600</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; width:108.45pt">
+			<p>15</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; width:104.2pt">
+			<p>28.350</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; width:108.45pt">
+			<p>16</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; width:104.2pt">
+			<p>28.350</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; width:108.45pt">
+			<p>17</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; width:104.2pt">
+			<p>28.350</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; width:108.45pt">
+			<p>18</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; width:104.2pt">
+			<p>29.100</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; width:108.45pt">
+			<p>19</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; width:104.2pt">
+			<p>29.100</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; width:108.45pt">
+			<p>20</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; width:104.2pt">
+			<p>29.100</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; width:108.45pt">
+			<p>21</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; width:104.2pt">
+			<p>30.050</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; width:108.45pt">
+			<p>22</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; width:104.2pt">
+			<p>30.050</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; width:108.45pt">
+			<p>23</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; width:104.2pt">
+			<p>30.050</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; width:108.45pt">
+			<p>24</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; width:104.2pt">
+			<p>31.100</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; width:108.45pt">
+			<p>25</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; width:104.2pt">
+			<p>31.100</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; width:108.45pt">
+			<p>26</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; width:104.2pt">
+			<p>31.100</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; width:108.45pt">
+			<p>27</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; width:104.2pt">
+			<p>32.100</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; width:108.45pt">
+			<p>28</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; width:104.2pt">
+			<p>32.100</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; width:108.45pt">
+			<p>29</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; width:104.2pt">
+			<p>32.100</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; width:108.45pt">
+			<p>30</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; width:104.2pt">
+			<p>33.100</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+<p>&nbsp;</p>
+
+### BIJLAGE
+
+Lijst van gevaarlijke, ongezonde of hinderlijke werken bij de Vlaamse Milieumaatschappij<br />1° de exploitatie van de rioolwaterzuiveringsinstallaties of complementaire inrichtingen;<br />2° het nemen van monsters;<br />3° de bediening van laboratoriumapparaten;<br />4° de manipulatie van chemicaliën, laboratoriumglaswerk en laboratoriumafval;<br />5° het verhitten van bijtende en corrosieve en/of oplosmiddelen;<br />6° het werken in de aanwezigheid van gasflessen onder druk;<br />7° preventief, curatief en accidenteel onderhoud van voertuigen;<br />8° het werken met oliën, vetten, ontvlambare producten, vuile, irriterende, agressieve en schadelijke stoffen;<br />9° het werken met sneldraaiende metaalbewerkingmachines, lasapparatuur - zowel elektrische lassen als gassmeltlassen - compressoren, centrifuge, slangenpomp, afsluiters en andere electro-mechanische werkzaamheden;<br />10° het monteren, demonteren en herstellen van afvalwatertoestellen;<br />11° de inventarisatie van lozingspunten langs openbare wegen;<br />12° het opvolgen van boringen.
