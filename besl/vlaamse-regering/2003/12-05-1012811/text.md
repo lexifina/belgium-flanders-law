@@ -12135,6 +12135,17 @@ Afgewerkte olie die onder het toepassingsgebied valt van de aanvaardingsplicht<b
 			<p>artikelen 4.2.1.1 en 4.2.1.2 gebruikscertificaat verplicht regelgeving dierlijk afval</p>
 			</td>
 		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:black 1pt solid; border-right:black 1pt solid; border-top:#f0f0f0; height:14.2pt; vertical-align:top; width:107.75pt">
+			<p>Spuistroom</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.2pt; vertical-align:top; width:5cm">
+			<p>Overtollig voedingswater afkomstig van de teelt van planten op groeimediums, dat niet hergebruikt wordt als voedingswater</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.2pt; vertical-align:top; width:5cm">
+			<p>Artikel 4.2.1.1.</p>
+			</td>
+		</tr>
 	</tbody>
 </table>
 
