@@ -1,0 +1,13 @@
+# Ministerieel besluit van 2008-12-08 houdende de samenstelling van het Adviescomité van het Investeringsfonds voor Grond- en Woonbeleid voor Vlaams-Brabant
+
+### Aanhef
+
+De minister-president van de Vlaamse Regering en de Vlaamse minister van Binnenlands Bestuur, Stedenbeleid, Wonen en Inburgering,<br /><br />Gelet op het decreet van 25 juni 1992 houdende diverse bepalingen tot begeleiding van de begroting 1992, zoals tot op heden gewijzigd;<br /><br />Gelet op het besluit van de Vlaamse Regering van 20 juli 1994 houdende regeling van het beheer van het Investeringsfonds voor Grond- en Woonbeleid voor Vlaams-Brabant, en houdende regeling van de voorwaarden inzake woonprojecten met sociaal karakter, inzonderheid op artikel 4, zoals tot op heden gewijzigd;<br /><br />Gelet op het ministerieel besluit van 1 maart 2004 houdende oprichting van een Adviescomité ter advisering van het beschikbaar stellen van woongelegenheden en percelen ter uitvoering van het besluit van de Vlaamse Regering van 20 juli 1994 houdende regeling van het beheer van het Investeringsfonds voor Grond- en Woonbeleid voor Vlaams-Brabant, en houdende regeling van de voorwaarden inzake woonprojecten met sociaal karakter, inzonderheid op artikelen 2 en 3,<br /><br />Besluit : <br /><br />
+
+### ART. 1.
+
+In het adviescomité, opgericht volgens artikel 2 van het ministerieel besluit van 1 maart 2004 houdende oprichting van een Adviescomité ter advisering van het beschikbaar stellen van woongelegenheden en percelen ter uitvoering van het besluit van de Vlaamse Regering van 20 juli 1994 houdende regeling van het beheer van het Investeringsfonds voor Grond- en Woonbeleid voor Vlaams-Brabant, en houdende regeling van de voorwaarden inzake woonprojecten met sociaal karakter, worden de volgende personen aangesteld : <br />1° als vertegenwoordigers van Vlabinvest : <br />a) de heer Jean Walter Stukkens en de heer Bart Vranken, als effectieve leden;<br />b) Mevr. Annegreet Borrenbergen en de heer Olivier Moelaert, als respectieve plaatsvervangers;<br />2° als vertegenwoordigers van het Ministerie van de Vlaamse Gemeenschap : <br />a) Mevr. Liliane Heremans en de heer Walter De Graeve, als effectieve leden;<br />b) de heer Johan Baeten en Mevr. Dorien Van Cauwenberge, als respectieve plaatsvervangers;<br />3° als vertegenwoordigers van de initiatiefnemers : <br />a) de heer Karel Janssens en Mevr. Anne Van Nieuwenhove, als effectieve leden;<br />b) Mevr. Kathleen Verhoeven en de heer Karel Gutschoven, als respectieve plaatsvervangers.<br /><br />
+
+### ART. 2.
+
+Het ministerieel besluit van 29 oktober 2003 houdende de samenstelling van het Adviescomité van het Investeringsfonds voor Grond- en Woonbeleid voor Vlaams-Brabant wordt opgeheven.<br /><br />
