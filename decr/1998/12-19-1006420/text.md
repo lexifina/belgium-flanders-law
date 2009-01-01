@@ -150,19 +150,19 @@ De personeelsleden van de Intercommunale Maatschappij van de Linker Scheldeoever
 
 ### ART. 30.
 
-§ 1. Er wordt een dienst met afzonderlijk beheer LSO = Linkerscheldeoever opgericht, als bedoeld in artikel 140 van het koninklijk besluit van 17 juli 1991 houdende de coördinatie van de wetten op de rijkscomptabiliteit.<br /><br />§ 2. LSO heeft tot doel het financieel en budgettair beheer van de inkomsten en uitgaven met betrekking tot onderhoud en de uitbating van de Waasland- en de Sint-Annatunnel alsmede het productief en te gelde maken van de gronden van de vroegere Intercommunale Maatschappij van de Linker Scheldeoever en de uitvoering van al de werken die dit productief en te gelde maken zou kunnen omvatten.<br /><br />§ 3. De Vlaamse regering beheert LSO. Zij stelt de nodige diensten, uitrusting, installaties en personeelsleden ter beschikking van LSO.
+...
 
 ### ART. 31.
 
-De middelen van LSO zijn:<br /><br />- de ontvangsten, met inbegrip van betalingen ingevolge schadevergoedingen en ingevolge schadevergoedingen en ingevolge vervreemding voortvloeiend uit het beheer van haar patrimonium;<br /><br />- de renten, de aflossingen, de terugbetalingen, de bijdragen en de opbrengsten van verkopen en van andere verrichtingen voortkomend of gerealiseerd met middelen van LSO;<br /><br />- de opbrengsten van de verkoop, verhuur en concessies van het patrimonium van LSO overeenkomstig haar doel;<br /><br />- de opbrengsten van verkoop, van de vergoeding van dossierkosten en van de vergunningen en verloven in toepassing van de wetten en reglementen inzake openbare werken;<br /><br />- de gebeurlijke dotaties, voorzien in het decreet houdende de algemene uitgavenbegroting van de Vlaamse Gemeenschap en de bijhorende administratieve begroting;<br /><br />- het aan het Vlaamse Gewest toegekende gedeelte van het kapitaal van de Intercommunale Maatschappij van de Linker Scheldeoever.
+...
 
 ### ART. 32.
 
-De Vlaamse regering bepaalt de organieke regels die van toepassing zijn op het financieel en materieel beheer van de dienst met afzonderlijk beheer LSO.
+...
 
 ### ART. 33.
 
-Onverminderd de regelen inzake delegatie en inzake administratieve en begrotingscontrole staat de dienst met afzonderlijk beheer LSO zelfstandig in voor alle verrichtingen, zowel inzake voorbereiding als inzake de uitvoering, met betrekking tot het financieel en budgettair beheer van de inkomsten en uitgaven toegewezen aan LSO, zonder enige afbreuk te doen aan de bevoegdheden van de overige diensten van het ministerie van de Vlaamse Gemeenschap, departement Leefmilieu en Infrastructuur, inhoudelijk verantwoordelijk voor het betrokken project.
+...
 
 ### ART. 34.
 
