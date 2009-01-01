@@ -2,16 +2,16 @@
   "codex_id": 1011904,
   "title": "Besluit van de Vlaamse Regering van 2003-10-24 houdende de normen voor de preventie van brand in de erkende initiatieven voor buitenschoolse opvang",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1011904/VolledigDocument?datum=2006-06-01",
-  "source_sha256": "a0014e19f3078de06f15faa800e6ca958ae29d32bb96c18db9ddfaad6c6334e5",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1011904/VolledigDocument?datum=2009-01-01",
+  "source_sha256": "c7abca1bf7095664eba0efdbc25d9d75bcef9a947bcc488608cb414dba19404c",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1011904&param=informatie",
-  "as_of": "2006-06-01",
+  "as_of": "2009-01-01",
   "made": "2003-10-24",
   "gazette": "2003-12-10",
   "numac": 2003036145,
   "document_start": "2004-01-01",
   "document_end": "2008-12-31",
-  "in_force": "2006-06-01",
+  "in_force": "2009-01-01",
   "article_versions": 22,
-  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2009-01-01; future article versions excluded; article text as the API gives it"
 }
