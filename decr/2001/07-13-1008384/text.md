@@ -30,11 +30,11 @@ Dit decreet heeft tot doel gemeenten te stimuleren om te komen tot een kwalitati
 
 ### ART. 5.
 
-De Vlaamse regering subsidieert een steunpunt voor het lokaal cultuurbeleid, hierna het steunpunt te noemen, dat tot doel heeft gemeenten te ondersteunen bij de opmaak en de uitvoering van het cultuurbeleidsplan, voor de werking van de gemeenschapscentra en de cultuurcentra en bij de uitbouw van een integraal en kwalitatief cultuurbeleid. Het steunpunt verleent ook passende ondersteuning aan de gemeentelijke adviesorganen voor cultuur, zoals bepaald in artikel 55. Het steunpunt moet opgericht zijn in de vorm van een vereniging zonder winstgevend doel en moet beschikken over een vaste staf van deskundig personeel.
+...
 
 ### ART. 6.
 
-§ 1. Het steunpunt is een autonome organisatie die het lokaal cultuurbeleid ondersteunt, ontwikkelt en zichtbaar maakt door middel van haar kerntaken: praktijkondersteuning, praktijkontwikkeling en communicatie.<br /><br />Zijn kerntaken realiseert het steunpunt door middel van activiteiten als begeleiding, deskundigheidsbevordering en implementatie van kwaliteitszorg, onderzoek, ontwikkeling en gegevensverzameling, informatie en communicatie, vertegenwoordiging en internationale samenwerking. Dit gebeurt in samenspraak met andere steunpunten, inzonderheid met het Vlaams Centrum voor de Openbare Bibliotheken, hierna VCOB te noemen.<br /><br />§ 2. Ter uitvoering van de in § 1 vermelde kerntaken zal de Vlaamse regering met het steunpunt een beheers-overeenkomst sluiten.
+...
 
 ## HOOFDSTUK II HET CULTUURCENTRUM
 
@@ -78,11 +78,11 @@ Elke provincie geeft autonoom invulling aan het streekgerichte bibliotheekbeleid
 
 ### ART. 14.
 
-De Vlaamse regering subsidieert een VCOB dat tot doel heeft de sector van de openbare bibliotheken te ondersteunen. Het centrum moet opgericht zijn in de vorm van een vereniging zonder winstgevend doel en moet beschikken over een vaste staf van deskundig personeel.
+...
 
 ### ART. 15.
 
-§ 1. De Vlaamse Regering geeft invulling aan het begrip 'digitale bibliotheek voor de openbare bibliotheken binnen de Vlaamse Gemeenschap', waaronder de uitbouw van het centraal bibliografisch achtergrondbestand Open Vlacc. Het VCOB geeft advies bij die initiatieven en ondersteunt ze.<br /><br />Het VCOB ontwikkelt collectieve producten en diensten ter ondersteuning van backofficetaken van openbare bibliotheken.<br /><br />Het VCOB ontwikkelt begeleidingsprojecten in het kader van gerichte doelgroepenwerking door de bibliotheek en neemt initiatieven in het kader van bibliotheekpromotie.<br /><br />Het VCOB adviseert gemeenten en bibliotheken over bibliotheektechnische zaken zoals bouw en inrichting van de bibliotheek, werkprocessen en marketing van de bibliotheeksector.<br /><br />Het VCOB verzorgt de communicatie met en over de Vlaamse bibliotheeksector, ook op internationaal niveau.<br /><br />Het VCOB begeleidt, samen met het steunpunt voor het lokaal cultuurbeleid, gemeenten bij de uitbouw van een integraal en kwalitatief cultuurbeleid. <br /><br />§ 2. Ter uitvoering van de in § 1 vermelde taken zal de Vlaamse regering met het VCOB een beheersovereenkomst sluiten.
+...
 
 ## AFDELING 5 VLAAMSE GEMEENSCHAPSCOMMISSIE
 
@@ -140,11 +140,11 @@ De Vlaamse Regering bepaalt de maatregelen die zullen worden genomen als :<br />
 
 ### ART. 26.
 
-Voor het uitoefenen van de in artikel 6, § 1, [...  <span class="reference">(geschr. decr. 23 december 2005, art. 26, I : 23 februari 2006)</span> ] bepaalde kerntaken kan het steunpunt jaarlijks aanspraak maken op een forfaitair bedrag van ten minste 750.000 euro. De Vlaamse regering zal de procedure voor het aanvragen en het uitkeren van de subsidie bepalen in de beheersovereenkomst, bedoeld in artikel 6, § 2. [...  <span class="reference">(geschr. decr. 23 december 2005, art. 26, I : 23 februari 2006)</span> ]
+...
 
 ### ART. 27.
 
-Het steunpunt concretiseert de beheersovereenkomst, vermeld in artikel 6, § 2, in een plan. De voorwaarden waaraan het plan moet voldoen, worden in de beheersovereenkomst opgenomen.
+...
 
 ## HOOFDSTUK II HET CULTUURCENTRUM
 
@@ -220,7 +220,7 @@ De centrumgemeenten in de grootstedelijke gebieden concretiseren het convenant, 
 
 ### ART. 40.
 
-Voor de uitvoering van de beheersovereenkomst, bedoeld in artikel 15, § 2, [...  <span class="reference">(geschr. decr. 23 december 2005, art. 26, I : 23 februari 2006)</span> ] voorziet de Vlaamse regering in een structurele subsidie van 3.750.000 euro voor het VCOB.<br /><br />De voorwaarden voor de toekenning van deze subsidie worden bepaald in de beheersovereenkomst.
+...
 
 ## AFDELING 4 VLAAMSE GEMEENSCHAPSCOMMISSIE
 
@@ -262,7 +262,7 @@ Voor de uitvoering van de beheersovereenkomst, bedoeld in artikel 18, [...  <spa
 
 ### ART. 47.
 
-Het VCOB concretiseert de beheersovereenkomst, vermeld in artikel 15, § 2, in een plan. De voorwaarden waaraan het plan moet voldoen, worden opgenomen in de beheersovereenkomst.
+...
 
 ## ONDERAFDELING 4 VLAAMSE GEMEENSCHAPSCOMMISSIE
 
@@ -401,6 +401,10 @@ De Vlaamse regering zal vijf jaar na het in werking treden van dit decreet een a
 ### ART. 76.
 
 De Vlaamse regering kan aanvullende subsidies vaststellen voor bijzondere opdrachten, in het kader van cultuur, die worden toevertrouwd op basis van convenants, aan gemeenten met een goedgekeurd gemeentelijk cultuurbeleidsplan.
+
+### ART. 76bis.
+
+§ 1. De Vlaamse Regering subsidieert een vereniging zonder winstoogmerk die als doel heeft gemeenten te ondersteunen bij de uitbouw van een integraal en kwalitatief cultuurbeleid. De opmaak en de uitvoering van een gemeentelijk cultuurbeleidsplan, en de ondersteuning van de werking van cultuurcentra, openbare bibliotheken, gemeenschapscentra en adviesorganen voor cultuur staan hierbij centraal.<br /><br />§ 2. De Vlaamse Regering sluit met de vereniging, vermeld in § 1, een beheersovereenkomst voor vijf jaar.<br /><br />In de beheersovereenkomst worden ten minste de volgende onderwerpen opgenomen :<br />1° de opdrachten van de vereniging;<br />2° de procedure voor het aanvragen en het uitkeren van de subsidie;<br />3° de in te dienen bewijsstukken en de wijze van toezicht op de aanwending van ter beschikking gestelde middelen;<br />4° correctieve maatregelen als de overeenkomst niet wordt nageleefd;<br />5° de mogelijkheden van reservevorming;<br />6° de aandacht voor de bevordering van de culturele diversiteit.<br /><br />§ 3. De vereniging concretiseert de beheersovereenkomst in een meerjarenplan en legt dat ter goedkeuring voor aan de administratie.<br /><br />De eerste overeenkomst heeft betrekking op de periode 2009-2013.<br /><br />Voor de uitvoering van de beheersovereenkomst voorziet de Vlaamse Regering in een structurele subsidie ter ondersteuning van loon- en werkingskosten.
 
 ### ART. 76ter.
 
