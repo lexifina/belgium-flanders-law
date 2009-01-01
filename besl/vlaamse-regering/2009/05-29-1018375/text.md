@@ -1,5 +1,9 @@
 # Besluit van de Vlaamse Regering van 2009-05-29 tot wijziging van het Vlaams personeelsstatuut van 13 januari 2006, wat betreft inhoudelijke en technische aanpassingen
 
+### ART. 24.
+
+Artikel III 24 van hetzelfde besluit, gewijzigd bij het besluit van de Vlaamse Regering van 16 maart 2007, wordt vervangen door wat volgt :<br />« Art. III 24. De lijnmanager van het Departement Bestuurszaken kan de duur van de reserves verlengen als de geldigheidsduur nog niet verstreken is op 1 januari 2009. »<br /><br />
+
 ### ART. 42.
 
 In artikel V 30 van hetzelfde besluit wordt het eerste lid vervangen door wat volgt :<br />Het hoofd van het secretariaatspersoneel van een strategische adviesraad wordt jaarlijks geëvalueerd over de prestaties en de wijze van functie-uitoefening door de strategische adviesraad, hierin bijgestaan door Jobpunt Vlaanderen. Jobpunt Vlaanderen laat zich bijstaan door een externe instantie. De Vlaamse minister bevoegd voor de bestuurszaken legt de aanstelling van de externe instantie ter bekrachtiging voor aan de Vlaamse Regering.<br /><br />Ook het hoofd van het secretariaatspersoneel van een strategische adviesraad die in de loop van het evaluatiejaar of tijdens de evaluatieperiode die volgt op het evaluatiejaar, vrijwillig uit dienst treedt of op rust gesteld wordt, wordt met zijn akkoord nog geëvalueerd over de prestaties en de wijze waarop hij zijn functie heeft uitgeoefend zowel van het afgelopen evaluatiejaar als, in voorkomend geval, van het lopende evaluatiejaar, overeenkomstig de bepalingen van het eerste lid.<br /><br />
@@ -11,6 +15,10 @@ In artikel V 35 van hetzelfde besluit, gewijzigd bij het besluit van de Vlaamse 
 ### ART. 53.
 
 In artikel VI 11, § 1, van hetzelfde besluit, ingevoegd bij het besluit van de Vlaamse Regering van 16 maart 2007, worden de woorden « rang A2 » telkens vervangen door de woorden « rang A2E ».<br /><br />
+
+### ART. 63.
+
+In artikel VI 30decies, § 2, van hetzelfde besluit, ingevoegd bij het besluit van de Vlaamse Regering van 19 juli 2007, worden de woorden « daarbij mag het salaris waarop de ambtenaar ingeschaald wordt, niet lager zijn dan het salaris die hij genoot » vervangen door de woorden « daarbij mag het salaris waarop de ambtenaar ingeschaald wordt, niet lager zijn dan de som van het salaris en desgevallend de helft van de competentietoelage die hij genoot ».<br /><br />
 
 ### ART. 89.
 
@@ -24,9 +32,17 @@ Artikel VI 144 van hetzelfde besluit, ingevoegd bij het besluit van de Vlaamse R
 
 Aan deel VI, titel 10 van hetzelfde besluit, ingevoegd bij het besluit van de Vlaamse Regering van 16 maart 2007 en gewijzigd bij het besluit van de Vlaamse Regering van 23 mei 2008, wordt een artikel VI 146 toegevoegd, dat luidt als volgt :<br />« Art. VI 146. In afwijking van artikel VI 109 § 1, 3°, a), verkrijgt de adviseur die vóór 1 januari 2008 werd benoemd en die bezoldigd wordt in salarisschaal A251, na tien jaar schaalanciënniteit de schaal A252.<br /><br />Deze overgangsregeling blijft gelden voor de directeur die een graadverandering bekomt vanuit de graad van adviseur en die in die laatste graad werd aangesteld vóór 1 januari 2008. »'<br /><br />
 
+### ART. 97.
+
+Aan deel VI, titel 10 van hetzelfde besluit, ingevoegd bij het besluit van de Vlaamse Regering van 16 maart 2007 en gewijzigd bij het besluit van de Vlaamse Regering van 23 mei 2008, wordt een artikel VI 147 toegevoegd, dat luidt als volgt :<br />« Art. VI 147. In afwijking van artikel VI 109 § 1, heeft de ambtenaar van rang A1 met de graad van bedrijfsadviseur, pedagogisch adviseur of kunstadviseur die op 1 januari 2009 werd overgeheveld van het Vlaams Agentschap voor Ondernemen naar het Agentschap voor Ondernemen volgende functionele loopbaan :<br />a) van de eerste naar de tweede salarisschaal na 3 jaar<br />van A111 naar A112<br />b) van de tweede naar de derde salarisschaal na 9 jaar<br />van A112 naar A120<br />c) van de derde naar de vierde salarisschaal na 9 jaar<br />van A120 naar A114 »<br /><br />
+
 ### ART. 100.
 
 Aan artikel VII 8 van hetzelfde besluit wordt een vierde lid toegevoegd, dat luidt als volgt :<br />« Het contractuele personeelslid behoudt het recht op bezoldiging voor de feestdagen die vallen in een periode van 30 dagen die volgt op de aanvang van de schorsing van de uitvoering van de arbeidsovereenkomst die het gevolg is van een :<br />a) een ziekte of ongeval;<br />b) een arbeidsongeval of een beroepsziekte die een algehele arbeidsongeschiktheid meebrengt;<br />c) een periode van moederschapsrust. »<br /><br />
+
+### ART. 105.
+
+In artikel VII 27 van hetzelfde besluit, ingevoegd bij het besluit van de Vlaamse Regering van 16 maart 2007, worden de volgende wijzigingen aangebracht :<br />1° aan paragraaf 1, eerste lid, wordt de volgende zin toegevoegd :<br />« Voor projecten van een beleidsdomein stelt het managementorgaan van het beleidsdomein de projectleiderstoelage vast. »<br /><br />2° aan paragraaf 1 wordt een derde lid toegevoegd, dat luidt als volgt :<br />« Om de toelage vast te stellen, wordt het project in kwestie bekeken aan de hand van volgende criteria :<br />1° de moeilijkheidsgraad en complexiteit van het project;<br />2° de maatschappelijke of organisatorische relevantie van het project;<br />3° de duurtijd van het project;<br />4° de verantwoordelijkheid van de projectleider. »<br /><br />3° in paragraaf 2 wordt het woord « A311 » vervangen door het woord « A252 »;<br /><br />4° er wordt een paragraaf 3 toegevoegd, die luidt als volgt :<br />« § 3. In afwijking van paragraaf 2 behoudt het personeelslid de projectleiderstoelage zoals die was toegekend voor projecten, opgestart voor 1 januari 2009, en de eventuele verlengingen na die datum van hetzelfde project. »<br /><br />
 
 ### ART. 107.
 
@@ -44,17 +60,130 @@ In artikel VII 54 van hetzelfde besluit, ingevoegd bij het besluit van de Vlaams
 
 In de tabel van artikel VII 70bis van hetzelfde besluit, ingevoegd bij het besluit van de Vlaamse Regering van 5 september 2008, wordt in de tabel, in de kolom « graad » het woord « matroos » vervangen door de woorden « speciaal assistent » en wordt in de kolom « functie » het woord « matroos » vervangen door de woorden « matroos/stoker. »<br /><br />
 
+### ART. 114.
+
+In artikel VII 70quater, paragraaf 3 van hetzelfde besluit, ingevoegd bij het besluit van de Vlaamse Regering van 9 januari 2009, worden de woorden « het Vlaams Agentschap voor Ondernemen en » geschrapt.<br /><br />
+
 ### ART. 115.
 
 In deel VII, titel 2, hoofdstuk 3, van hetzelfde besluit, ingevoegd bij het besluit van de Vlaamse Regering van 16 maart 2007 en gewijzigd bij het besluit van de Vlaamse Regering van 23 mei 2008 en 5 september 2008, wordt een afdeling 20, bestaande uit artikel VII 70quinquies, toegevoegd, die luidt als volgt :<br />« Afdeling 20. Arbeidsmarkttoelage voor artsen en arts-specialisten<br />Art. VII 70quinquies. § 1. Aan een arts wordt een arbeidsmarkttoelage toegekend van 4.650 euro (100 %) op jaarbasis. De toekenning van de toelage mag niet tot gevolg hebben dat het salaris, verhoogd met de toelage, meer bedraagt dan 51.360 euro (100 %). In voorkomend geval wordt de toelage verminderd tot 2.250 euro (100 %).<br /><br />§ 2. Aan een arts-specialist wordt een arbeidsmarkttoelage toegekend van 6.000 euro (100 %) op jaarbasis. Als de arts-specialist titularis is van een P-schaal wordt die toelage pas toegekend vanaf twaalf jaar geldelijke anciënniteit.<br /><br />§ 3. De toelagen worden pro rata van de prestaties toegekend.<br /><br />
+
+### ART. 118.
+
+<p>Artikel VII 80 van hetzelfde besluit, ingevoegd bij het besluit van de Vlaamse Regering van 16 maart 2007 en gewijzigd bij het besluit van de Vlaamse Regering van 23 mei 2008, wordt vervangen door wat volgt :<br>
+« Art. VII 80. § 1. Voor een dienstreis met eigen voertuig wordt volgende forfaitaire vergoeding toegekend (exclusief parkeerkosten die apart ingediend worden) :<br>
+</p>
+
+<table border="1" cellpadding="0">
+	<tbody>
+		<tr>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>&nbsp; <!--?xml:namespace         prefix = o ns = "urn:schemas-microsoft-com:office:office"       /--></p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>bedrag per kilometer</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>Motorvoertuig</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>0,3169 euro (vanaf 1 januari 2009)</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>Fiets</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>0,15 euro</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p>§ 2. In geval van carpooling wordt voor de bestuurder de vergoeding met de helft verhoogd.<br>
+<br>
+§ 3. Voor de reizende functies kan een maandelijkse forfaitaire kilometervergoeding voor motorvoertuigen worden toegekend.<br>
+<br>
+§ 4. De kilometervergoeding voor motorvoertuigen wordt elk jaar op 1 juli herzien na beslissing van de Vlaamse minister, bevoegd voor de bestuurszaken. »<br>
+&nbsp;</p>
 
 ### ART. 119.
 
 In artikel VII 90, § 3, van hetzelfde besluit, ingevoegd bij het besluit van de Vlaamse Regering van 5 september 2008, wordt het tweede lid vervangen door wat volgt :<br />« De aangepaste dagbedragen worden als volgt berekend :<br />((3.332,48 euro + (factor zone*jaarprestaties*bedrag kilometervergoeding woonplaats- standplaats))/1,4002) / 133 (arbeidsprestaties van 12 uur per dag) of 210 (andere arbeidsregeling); ».<br /><br />
 
+### ART. 125.
+
+In artikel VII 102 van hetzelfde besluit, ingevoegd bij het besluit van de Vlaamse Regering van 16 maart 2007, worden de volgende wijzigingen aangebracht :<br />1° in paragraaf 1 worden de woorden « ten minste 80 % van de effectief te werken dagen per maand » geschrapt;<br /><br />2° in paragraaf 4 worden de woorden « op basis van het arbeidsregime van het personeelslid » vervangen door de woorden « pro rata van het gemiddeld aantal dagen per kwartaal dat de fiets wordt gebruikt voor het woonwerkverkeer, met uitzondering van jaarlijkse vakantie en ziekte » 3° in paragraaf 7 wordt het woord « omzendbrief » vervangen door het woord « rondzendbrief ».<br /><br />
+
 ### ART. 130.
 
 In deel VII, titel 5, van hetzelfde besluit, ingevoegd bij het besluit van de Vlaamse Regering van 16 maart 2007 en gewijzigd bij het besluit van de Vlaamse Regering van 23 mei 2008, wordt een artikel VII 145 toegevoegd, dat luidt als volgt :<br />« art. VII 145bis. De ambtenaar die op of na 1 januari 2002 werd bevorderd van niveau E naar een betrekking in niveau D, heeft steeds een bezoldiging die ten minste 620 euro hoger is dan het salaris in de salarisschaal die hij genoot onmiddellijk voorafgaand aan deze inschaling.<br /><br />Onder « bezoldiging » wordt in het eerste lid begrepen : het salaris in de betrekking met een salarisschaal van niveau D en de bevorderingspremie samen. De bevorderingspremie bedraagt maximaal 620 euro (100 %).<br /><br />
+
+### ART. 131.
+
+In deel VII, titel 5, van hetzelfde besluit, ingevoegd bij het besluit van de Vlaamse Regering van 16 maart 2007 en gewijzigd bij het besluit van de Vlaamse Regering van 23 mei 2008, wordt een artikel VII 153 toegevoegd, dat luidt als volgt :<br />« Art. VII 153. § 1. In afwijking van artikel VII 109ter verkrijgt het personeelslid dat op 1 januari 2009 werd overgeheveld van het Vlaams Agentschap voor Ondernemen naar het Agentschap Ondernemen, maaltijdcheques met een nominale waarde van 6 euro (werkgeversbijdrage van 4,91 euro en werknemersbijdrage van 1,09 euro) totdat hij het Agentschap Ondernemen vrijwillig verlaat of ontslagen wordt.<br /><br />Deze overgangsregeling houdt op te bestaan van zodra de maaltijdchequeregeling voorzien in art. VII 109ter gelijk wordt aan of hoger wordt dan deze overgangsregeling.<br /><br />§ 2. Het voordeel vermeld in paragraaf 1 van dit artikel geldt ook voor het personeelslid dat op 1 april 2006 werd overgeheveld van het Vlaams Agentschap voor personen met een handicap naar een Vlaams ministerie.<br /><br />
+
+### ART. 132.
+
+<p>In deel VII, titel 5, van hetzelfde besluit, ingevoegd bij het besluit van de Vlaamse Regering van 16 maart 2007 en gewijzigd bij het besluit van de Vlaamse Regering van 23 mei 2008, wordt een artikel VII 154 toegevoegd, dat luidt als volgt :<br>
+« Art. VII 154. Het personeelslid dat op 1 januari 2009 werd overgeheveld van het Vlaams Agentschap voor Ondernemen naar het Agentschap Ondernemen, ontvangt de hieronder vermelde compenserende toelage totdat hij het Agentschap Ondernemen vrijwillig verlaat of ontslagen wordt :<br>
+</p>
+
+<table border="1" cellpadding="0">
+	<tbody>
+		<tr>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>Periode <!--?xml:namespace         prefix = o ns = "urn:schemas-microsoft-com:office:office"       /--></p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>Bedrag vast benoemden</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>Bedrag contractuelen</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>1-01-2009 tot 30-4-2009</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>euro 17,00</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>euro 18,50</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>Vanaf 1-5-2009</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>euro 29,00</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>euro 32,50</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p>Deze toelage wordt maandelijks pro rata van de prestaties en overeenkomstig artikel VII 15 na vervallen termijn samen met het salaris betaald« .<br>
+&nbsp;</p>
+
+### ART. 133.
+
+In deel VII, titel 5, van hetzelfde besluit, ingevoegd bij het besluit van de Vlaamse Regering van 16 maart 2007 en gewijzigd bij het besluit van de Vlaamse Regering van 23 mei 2008, wordt een artikel VII 155 toegevoegd, dat luidt als volgt :<br />« Art. VII 155. § 1. Het vast benoemde personeelslid dat op 1 januari 2009 werd overgeheveld van het Vlaams Agentschap voor Ondernemen naar het Agentschap Ondernemen, behoudt het voordeel van het weddensupplement van 10 % en een extra 13de maand, zoals bevestigd door de GOM West Vlaanderen op 17 mei 1977,zolang deze bezoldiging voordeliger is dan het salaris, vakantiegeld en eindejaarstoelage voortspruitend uit de toepassing van de functionele loopbaan.<br /><br />§ 2. Het contractuele personeelslid dat op 1 januari 2009 werd overgeheveld van het Vlaams Agentschap voor Ondernemen naar het Agentschap Ondernemen, behoudt het voordeel van de tot een 13de maand verhoogde eindejaartoelage.<br /><br />§ 3. Het vast benoemde personeelslid van niveau C dat op 1 januari 2009 werd overgeheveld van het Vlaams Agentschap voor Ondernemen naar het Agentschap Ondernemen behoudt het voordeel van forfaitaire verplaatsingenkosten en toelage voor extraprestaties haar toegekend door de GOM West Vlaanderen op 8 maart 1988.<br /><br />§ 4. Het vast benoemde personeelslid van niveau C dat op 1 januari 2009 werd overgeheveld van het Vlaams Agentschap voor Ondernemen naar het Agentschap Ondernemen behoudt het voordeel van verloning in de salarisschaal A111, zoals beslist door de GOM West Vlaanderen op 17 mei 1977.<br /><br />§ 5. Het contractuele personeelslid dat op 1 januari 2009 werd overgeheveld van het Vlaams Agentschap voor Ondernemen naar het Agentschap Ondernemen, en dat werd tewerkgesteld in één van de volgende betrekkingen, behouden hun bezoldiging in de bij VLAO toegekende salarisschaal :<br />- directeur (A221)<br />- directeur (A212)<br />- adjunct van de directeur (A112)<br />- deskundige (B122)<br />- deskundige (B112).<br /><br />§ 6. Het vast benoemde personeelslid met de graad van technisch beambte (salarisschaal E123) dat op 1 januari 2009 werd overgeheveld van het Vlaams Agentschap Ondernemen naar het Agentschap Ondernemen wordt in toepassing van artikel VIII 109quinquies en met toepassing van de garantieregeling voorzien in artikel XIII 81terdecies van het VPS van 24 november 1993, bevorderd tot de graad van technisch assistent (schaal D121) (1 januari 2002).<br /><br />Met het oog op de toepassing van de garantieregeling, vermeld in het vorige lid, wordt het salarisbedrag in de schaal E123 met ingang van 1 januari 2009 bepaald op 17.340 à 100 %. »<br /><br />§ 7. De twee contractuele personeelsleden die op 1 januari 2009 in dienst traden bij het Agentschap Ondernemen, op basis van een arbeidsovereenkomst met het Vlaams Agentschap Ondernemen van 12 december 2008, genieten de voordelen zoals voorzien in artikel VII 153 en VII 154 van dit besluit.<br /><br />
 
 ### ART. 158.
 
@@ -63,6 +192,31 @@ In artikel XII 2, § 1, van hetzelfde besluit worden de volgende wijzigingen aan
 ### ART. 159.
 
 In artikel XII 3 van hetzelfde besluit worden de woorden « wat de rechtspositie van het personeel van de Vlaamse wetenschappelijke instellingen betreft, » geschrapt.<br /><br />
+
+### ART. 161.
+
+In bijlage 3 bij hetzelfde besluit worden aan punt « I Algemeen personeel - uitdovende rangen en graden » de volgende woorden toegevoegd :<br>
+&nbsp;
+<table border="1" cellpadding="0">
+	<tbody>
+		<tr>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>Rang A1 <!--?xml:namespace         prefix = o ns = "urn:schemas-microsoft-com:office:office"       /--></p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>bedrijfsadviseur<br>
+			pedagogisch adviseur<br>
+			kunstadviseur</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+<p>&nbsp;</p>
+
+### ART. 163.
+
+Aan bijlage 5 bij hetzelfde besluit, gewijzigd bij het besluit van de Vlaamse Regering van 9 januari 2009, wordt de in bijlage 2 bij dit besluit opgenomen salarisschaal A120 toegevoegd.<br /><br />
 
 ## Bijlage 1
 
