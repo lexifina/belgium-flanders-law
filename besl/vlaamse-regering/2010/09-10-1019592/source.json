@@ -1,0 +1,17 @@
+{
+  "codex_id": 1019592,
+  "title": "Besluit van de Vlaamse Regering van 2010-09-10 tot wijziging van diverse bepalingen van het besluit van de Vlaamse Regering van 8 juli 2005 tot instelling van een bedrijfstoeslagregeling en tot vaststelling van bepaalde steunregelingen voor landbouwers en tot toepassing van de randvoorwaarden",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1019592/VolledigDocument?datum=2009-01-01",
+  "source_sha256": "8c9ef513b4d3da8ec9067e45b2fec748b3cc84450a628d806996c00690c5598a",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1019592&param=informatie",
+  "as_of": "2009-01-01",
+  "made": "2010-09-10",
+  "gazette": "2010-10-21",
+  "numac": 2010035761,
+  "document_start": "2009-01-01",
+  "document_end": null,
+  "in_force": "2009-01-01",
+  "article_versions": 31,
+  "record_form": "consolidated version as in force on 2009-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
