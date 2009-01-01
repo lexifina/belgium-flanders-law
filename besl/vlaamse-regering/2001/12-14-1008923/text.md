@@ -30,7 +30,7 @@ Overeenkomstig artikel 37, § 4, van het decreet moet de vereniging uitsluitend 
 
 ### ART. 6bis.
 
-Overeenkomstig artikelen 37 en 38 van het decreet moet de vereniging in het kader van de leertijd : <br />1° de controle door de onderwijsinspectie mogelijk maken;<br />2° beantwoorden aan de decretale en reglementaire bepalingen inzake eindtermen en leerplannen voor zover de uitreiking wordt beoogd van eindstudiebewijzen die identiek zijn aan die van het voltijds gewoon secundair onderwijs;<br />3° <br />4° binnen zijn opdrachten, maximale inspanningen leveren om het voltijds engagement voor elke jongere te realiseren.
+Overeenkomstig artikelen 37 en 38 van het decreet moet de vereniging in het kader van de leertijd : <br />1° de controle door de onderwijsinspectie mogelijk maken;<br />2° beantwoorden aan de decretale en reglementaire bepalingen inzake eindtermen en leerplannen voor zover de uitreiking wordt beoogd van eindstudiebewijzen die identiek zijn aan die van het voltijds gewoon secundair onderwijs;<br />3° deelnemen aan en samenwerken binnen een of meer regionale overlegplatformen als vermeld in artikel 103 van het decreet van 10 juli 2008 betreffende het stelsel van leren en werken in de Vlaamse Gemeenschap;<br />4° binnen zijn opdrachten, maximale inspanningen leveren om het voltijds engagement voor elke jongere te realiseren.
 
 ### ART. 7.
 
