@@ -1,0 +1,17 @@
+{
+  "codex_id": 1017385,
+  "title": "Besluit van de Vlaamse Regering van 2008-12-19 houdende wijziging van het besluit van de Vlaamse Regering van 31 mei 2002 tot vaststelling van de erkennings- en subsidiëringsvoorwaarden van de Vlaamse sportfederaties, de koepelorganisatie en de organisaties voor de sportieve vrijetijdsbesteding en van het besluit van de Vlaamse Regering van 20 juni 2008 houdende uitvoering van het decreet van 13 juli 2007 inzake medisch verantwoorde sportbeoefening",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1017385/VolledigDocument?datum=2009-01-01",
+  "source_sha256": "0faff2c8c9fe44e77233eac75b56dd963befc9a29367ba827dc0f760bf9a1358",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1017385&param=informatie",
+  "as_of": "2009-01-01",
+  "made": "2008-12-19",
+  "gazette": "2008-12-29",
+  "numac": 2008036458,
+  "document_start": "2009-01-08",
+  "document_end": null,
+  "in_force": "2009-01-01",
+  "article_versions": 24,
+  "record_form": "consolidated version as in force on 2009-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
