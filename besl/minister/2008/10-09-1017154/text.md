@@ -14,7 +14,7 @@ In artikel 23 van hetzelfde besluit, gewijzigd bij de ministeriële besluiten va
 
 ### ART. 3.
 
-In artikel 25 van hetzelfde besluit, gewijzigd bij het ministerieel besluit van 17 maart 2008, worden volgende wijzigingen aangebracht :<br /><br />1° aan § 3 wordt een tweede lid toegevoegd, luidend als volgt :<br /><br />« In afwijking van vorig lid is het voor een vissersvaartuig in de periode van 1 augustus 2008 tot en met 31 december 2008 verboden bij de heekvangsten per zeereis in de Noordzee een hoeveelheid te overschrijden die gelijk is aan 200 kg, vermenigvuldigd met het aantal vaartdagen in de Noordzee gerealiseerd tijdens die zeereis. » <br /><br />2° een § 8 wordt ingevoegd, luidend als volgt :<br /><br />« § 8. In de periode van 1 oktober 2008 tot en met 31 december 2008 is het in de i.c.e.s.-gebieden II, IV voor een vissersvaartuig met een motorvermogen van 221 kW of minder, verboden bij de rogvangsten per zeereis een hoeveelheid te overschrijden, die gelijk is aan 40 kg, vermenigvuldigd met het aantal vaartdagen gerealiseerd tijdens die zeereis in de betreffende i.c.e.s.-gebieden.<br /><br />In de periode van 1 oktober 2008 tot en met 31 december 2008 is het in de i.c.e.s.-gebieden II, IV voor een vissersvaartuig met een motorvermogen van meer dan 221 kW, verboden bij de rogvangsten per zeereis een hoeveelheid te overschrijden, die gelijk is aan 80 kg, vermenigvuldigd met het aantal vaartdagen gerealiseerd tijdens die zeereis in de betreffende i.c.e.s.-gebieden. »
+<P>...</P>
 
 ### ART. 4.
 
