@@ -1,0 +1,17 @@
+{
+  "codex_id": 1017634,
+  "title": "Besluit van de Vlaamse Regering van 2009-02-20 tot wijziging van het besluit van de Vlaamse Regering van 16 mei 1995 betreffende de invordering van niet-fiscale schuldvorderingen voor de Vlaamse Gemeenschap en de instellingen die eronder ressorteren, en tot vaststelling van de datum van inwerkingtreding van artikel 26, 2°, van het decreet van 14 juli 2006 tot wijziging van het decreet van 28 februari 2003 betreffende het Vlaamse inburgeringsbeleid",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1017634/VolledigDocument?datum=2009-01-01",
+  "source_sha256": "ad449311abd622522562c7649cb64377fe5e3998591c643dbbe8081ccd94e4fe",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1017634&param=informatie",
+  "as_of": "2009-01-01",
+  "made": "2009-02-20",
+  "gazette": "2009-02-26",
+  "numac": 2009035184,
+  "document_start": "2009-01-01",
+  "document_end": null,
+  "in_force": "2009-01-01",
+  "article_versions": 5,
+  "record_form": "consolidated version as in force on 2009-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
