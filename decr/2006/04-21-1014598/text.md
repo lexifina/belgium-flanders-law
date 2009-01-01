@@ -96,6 +96,14 @@ In het decreet van 2 april 2004 betreffende de omzetting van de Dienst voor de S
 
 ## HOOFDSTUK VIII Opheffingsbepalingen
 
+### ART. 21.
+
+...
+
+### ART. 21bis.
+
+Met ingang van 1 januari 2009 worden de artikelen 30 tot en met 33 van het decreet van 19 december 1998 houdende bepalingen tot begeleiding van de begroting 1999 opgeheven. De rechten en verplichtingen van de opgeheven dienst met afzonderlijk beheer Linkerscheldeoever zijn overgenomen in de begroting van de verschillende betrokken diensten.
+
 ## HOOFDSTUK IX Slotbepalingen
 
 ### ART. 22.
