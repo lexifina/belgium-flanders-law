@@ -2,16 +2,16 @@
   "codex_id": 1008397,
   "title": "Besluit van de Vlaamse Regering van 2001-06-08 houdende toekenning van een aanmoedigingspremie bij loopbaanonderbreking in het kader van de landingsbanen voor de personeelsleden van de gemeenschapsinstellingen voor bijzondere jeugdbijstand",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1008397/VolledigDocument?datum=2006-06-01",
-  "source_sha256": "36935cfb55202d776f9eabeffae68df0cab9ee316dbdbe726e488b7acdd01808",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1008397/VolledigDocument?datum=2009-01-01",
+  "source_sha256": "e3e7d060aa21009455ddd7aafadce1889dad71636c14e20501142e64bd4eb8c1",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1008397&param=informatie",
-  "as_of": "2006-06-01",
+  "as_of": "2009-01-01",
   "made": "2001-06-08",
   "gazette": "2001-10-05",
   "numac": 2001036084,
   "document_start": "2001-01-01",
   "document_end": null,
-  "in_force": "2006-06-01",
+  "in_force": "2009-01-01",
   "article_versions": 14,
-  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2009-01-01; future article versions excluded; article text as the API gives it"
 }
