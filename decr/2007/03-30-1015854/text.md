@@ -60,7 +60,7 @@ De bepalingen van het facilitair kader, als bedoeld in dit hoofdstuk, mogen niet
 
 ### ART. 12.
 
-De Vlaamse Regering voorziet in een éénloketfunctie ten behoeve van de aanvragen voor en de informatieuitwisseling over goedkeuringen, machtigingen, vergunningen en subsidies voor werken en handelingen in het kader van een Brownfieldproject dat het voorwerp uitmaakt van een Brownfieldconvenant.<br /><br />Het uniek loket wordt opgericht in de schoot van het Vlaams Agentschap Ondernemen, als bedoeld in het decreet van 7 mei 2004 tot oprichting van het intern verzelfstandigd agentschap met rechtspersoonlijkheid « Vlaams Agentschap Ondernemen ».<br />
+De Vlaamse Regering voorziet in een éénloketfunctie ten behoeve van de aanvragen voor en de informatieuitwisseling over goedkeuringen, machtigingen, vergunningen en subsidies voor werken en handelingen in het kader van een Brownfieldproject dat het voorwerp uitmaakt van een Brownfieldconvenant.<br /><br />Het uniek loket wordt opgericht in de schoot van het Agentschap Ondernemen, vermeld in artikel 2, § 1, van het besluit van de Vlaamse Regering van 7 oktober 2005 aangaande het Agentschap Ondernemen.<br />
 
 ### ART. 13.
 
