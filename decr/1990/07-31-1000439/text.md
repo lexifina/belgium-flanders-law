@@ -10,7 +10,7 @@ Dit decreet regelt een aangelegenheid zoals bedoeld, in artikel 59 bis, § 2, 2�
 
 ### ART. 2.
 
-[§ 1. Dit artikel is van toepassing op het voltijds en het deeltijds secundair gemeenschapsonderwijs.<br /><br />§ 2. Voor de toepassing van dit artikel wordt verstaan onder:<br /><br />1° lln1: het aantal regelmatige leerlingen van het gewoon voltijds en deeltijds secundair gemeenschapsonderwijs en gesubsidieerd onderwijs op 1 februari van het vorige schooljaar;<br /><br />2° lln0: het aantal regelmatige leerlingen van het gewoon voltijds en deeltijds secundair gemeenschapsonderwijs en gesubsidieerd onderwijs op 1 februari van het voorlaatste schooljaar;<br /><br />3° lln'1: het aantal regelmatige leerlingen van het gewoon voltijds en deeltijds secundair gemeenschapsonderwijs op 1 februari van het vorige schooljaar;<br /><br />4° lln'0: het aantal regelmatige leerlingen van het gewoon voltijds en deeltijds secundair gemeenschapsonderwijs op 1 februari van het voorlaatste schooljaar;<br /><br />5° c1: het geraamde indexcijfer van de consumptieprijzen op het einde van het volgende begrotingsjaar;<br /><br />6° c0: het geraamde indexcijfer van de consumptieprijzen op het einde van het lopende begrotingsjaar;<br /><br />7° lk1: het geraamde indexcijfer van de eenheidsloonkosten op het einde van het volgende begrotingsjaar;<br /><br />8° lk0: het geraamde indexcijfer van de eenheidsloonkosten op het einde van het lopende begrotingsjaar.<br /><br />§ 3. De werkingsmiddelen van het gewoon voltijds en deeltijds secundair gemeenschapsonderwijs worden jaarlijks berekend door de kredieten die in de algemene uitgavenbegroting van het vorige begrotingsjaar voor de werkingsmiddelen bestemd zijn en de lonen van het vastbenoemde meesters-, vak- en dienstpersoneel van de instellingen van het gewoon secundair gemeenschapsonderwijs van het vorige begrotingsjaar, te vermenigvuldigen met de coëfficiënten A1 en A2, die als volgt worden berekend:<br /><br />A1 = 0,6 + 0,4 (lln'1/lln'0)<br /><br />A2 = 0,4 (c1/c0) + 0,6 (lk1/lk0)<br /><br />§ 4. Het krediet dat met toepassing van § 3 is verkregen, wordt vermeerderd met het aandeel van het secundair gemeenschapsonderwijs in 37,5 % van de loonkost die jaarlijks vrijkomt door de toepassing van het koninklijk besluit nr. 296 van 31 maart 1984 betreffende de leden van het meesters-, vak- en dienstpersoneel van de Rijksinrichtingen.<br /><br />Het aandeel van het secundair gemeenschapsonderwijs in deze vrijgekomen loonkost wordt bepaald in verhouding tot het aantal regelmatige leerlingen in het gewoon voltijds en deeltijds secundair onderwijs.<br /><br />§ 5. Het bedrag van de werkingsmiddelen voor het gewoon voltijds en deeltijds secundair gemeenschapsonderwijs dat met toepassing van artikel 2, § 2 tot en met § 4 is verkregen wordt verminderd met 50 % van de loonkost die jaarlijks vrijkomt door de toepassing van het koninklijk besluit nr. 296 van 31 maart 1984 betreffende de leden van het meesters-, vak- en dienstpersoneel van de Rijksinrichtingen en met de loonkost van het vastbenoemde meesters-, vak- en dienstpersoneel.<br /><br />§ 6. Wanneer de leerlingenevolutie in het gemeenschapsonderwijs lln'1/lln'0 kleiner is dan 1 en kleiner is dan de gemiddelde leerlingenevolutie lln1/lln0, wordt het met toepassing van § 3 verkregen bedrag, aangeduid als WMgo, vermenigvuldigd met de verhouding tussen lln'1 en het aan de gemiddelde leerlingenevolutie aangepaste leerlingencijfer lln'0, volgens de formule:<br /><br />WMgo x lln'1/lln'0 x lln 1/lln 0<br /><br />§ 7. Het bedrag dat met toepassing van § 3 tot en met § 6 is verkregen, wordt jaarlijks aan de raden van bestuur van de scholengroepen toegekend overeenkomstig de bepalingen van artikel 36, 2°, van het bijzonder decreet van 14 juli 1998 betreffende het gemeenschapsonderwijs.  <span class="reference">(verv. decr. 20 december 2002, art. 2, I: 1 januari 2003)</span> ]
+...
 
 ### ART. 2bis.
 
@@ -30,239 +30,11 @@ Dit decreet regelt een aangelegenheid zoals bedoeld, in artikel 59 bis, § 2, 2�
 
 ### ART. 3.
 
-[§ 1. Dit artikel is van toepassing op het voltijds en het deeltijds secundair gesubsidieerd onderwijs.<br>
-<br>
-§ 2. Voor de toepassing van dit artikel wordt verstaan onder:<br>
-<br>
-1° lln''1: het aantal regelmatige leerlingen van het gewoon voltijds en deeltijds secundair gesubsidieerd onderwijs op 1 februari van het vorige schooljaar;<br>
-<br>
-2° lln''0: het aantal regelmatige leerlingen van het gewoon voltijds en deeltijds secundair gesubsidieerd onderwijs op 1 februari van het voorlaatste schooljaar;<br>
-<br>
-3° c1: het geraamde indexcijfer van de consumptieprijzen op het einde van het volgende begrotingsjaar;<br>
-<br>
-4° c0: het geraamde indexcijfer van de consumptieprijzen op het einde van het lopende begrotingsjaar;<br>
-<br>
-5° lk1: het geraamde indexcijfer van de eenheidsloonkosten op het einde van het volgende begrotingsjaar;<br>
-<br>
-6° lk0: het geraamde indexcijfer van de eenheidsloonkosten op het einde van het lopende begrotingsjaar.<br>
-<br>
-De werkingsmiddelen van het gewoon voltijds en deeltijds secundair gesubsidieerd onderwijs worden jaarlijks berekend door de kredieten die in de algemene uitgavenbegroting van het vorige begrotingsjaar voor de werkingsmiddelen bestemd zijn, te vermenigvuldigen met de coëfficiënten A1 en A2, die als volgt worden berekend:<br>
-<br>
-A1 = 0,6 + 0,4 (lln''1/lln''0)<br>
-<br>
-A2 = 0,4 (c1/c0) + 0,6 (lk1/lk0)<br>
-<br>
-§ 3. Het krediet dat met toepassing van § 2 is verkregen, wordt vermeerderd met het aandeel van het gesubsidieerd secundair onderwijs in 37,5 % van de loonkost die jaarlijks vrijkomt door de toepassing van het koninklijk besluit nr. 296 van 31 maart 1984 betreffende de leden van het meesters-, vak- en dienstpersoneel van de Rijksinrichtingen.<br>
-<br>
-Het aandeel van het gesubsidieerd secundair onderwijs in deze vrijgekomen loonkost wordt bepaald in verhouding tot het aantal regelmatige leerlingen in het gewoon voltijds secundair en het deeltijds secundair onderwijs.<br>
-<br>
-§ 4. Het krediet dat met toepassing van § 2 en § 3 is verkregen, wordt zodanig aangepast dat per regelmatige leerling gemiddeld onderstaande verhoudingen tussen de werkingsmiddelen van het gewoon secundair gemeenschapsonderwijs en het gewoon secundair gesubsidieerd onderwijs worden bereikt:<br>
-&nbsp;
-<table border="1" cellpadding="0" cellspacing="0" style="border-collapse:collapse">
-	<tbody>
-		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:153.5pt">
-			<p>Begrotingsjaar<!--?xml:namespace         prefix = o ns = "urn:schemas-microsoft-com:office:office"         /--></p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:153.55pt">
-			<p>Aandeel gemeenschapsonderwijs</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:153.55pt">
-			<p>Aandeel gesubsidieerd onderwijs</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.5pt">
-			<p>1999</p>
-
-			<p>2000</p>
-
-			<p>2001</p>
-
-			<p>2002</p>
-
-			<p>2003</p>
-
-			<p>2004</p>
-
-			<p>2005</p>
-
-			<p>2006</p>
-
-			<p>2007</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.55pt">
-			<p>100</p>
-
-			<p>100</p>
-
-			<p>100</p>
-
-			<p>100</p>
-
-			<p>100</p>
-
-			<p>100</p>
-
-			<p>100</p>
-
-			<p>100</p>
-
-			<p>100</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.55pt">
-			<p>55</p>
-
-			<p>58</p>
-
-			<p>61</p>
-
-			<p>63</p>
-
-			<p>65</p>
-
-			<p>68</p>
-
-			<p>70</p>
-
-			<p>73</p>
-
-			<p>76</p>
-			</td>
-		</tr>
-	</tbody>
-</table>
-
-<p>&nbsp;</p>
-§ 5. De verhogingen bedoeld in § 4 worden bij de werkingsmiddelen van het overeenkomstige begrotingsjaar gevoegd en op dezelfde wijze aangepast.<br>
-<br>
-§ 6. In 2007 moeten de werkingsmiddelen per regelmatige leerling in het gewoon secundair gesubsidieerd onderwijs gemiddeld 76 % bedragen van de werkingsmiddelen per regelmatige leerling van het gewoon secundair gemeenschapsonderwijs.<br>
-<br>
-§ 7. Het bedrag van de jaarlijks vrijkomende loonkost bedoeld in artikel 2, § 5, en artikel 3, § 3, wordt vanaf 2008 op basis van de verhouding vermeld in § 6 verdeeld.<br>
-<br>
-§ 8. In het gesubsidieerd gewoon voltijds en deeltijds secundair onderwijs zijn de werkingstoelagen per school gelijk aan de vermenigvuldiging van de geldwaarde per punt met het puntengewicht van de leerling en met het aantal regelmatige leerlingen.<br>
-<br>
-Het puntengewicht per leerling wordt door de Vlaamse regering vastgesteld. Bij het vaststellen van het puntengewicht kan de Vlaamse regering slechts rekening houden met het onderwijsniveau, de onderwijsvorm, de studierichting, de optimale klasgrootte en de benodigde middelen voor het verstrekken van het onderwijs.<br>
-<br>
-De geldwaarde per punt is gelijk aan het quotiënt van de deling van de werkingsmiddelen die met toepassing van artikel 3, § 2 tot en met § 4, zijn verkregen en verminderd zijn met de gemeenschapsbijdrage in het kostgeld voor kinderen van wie de ouders geen vaste verblijfplaats hebben en die in het secundair onderwijs les volgen, door het aantal te verdelen punten. Dit aantal wordt verkregen door in alle gesubsidieerde secundaire scholen het aantal regelmatige leerlingen met het overeenkomstige puntengewicht te vermenigvuldigen en van deze producten de som te maken. (verv. decr. 20 de-cember 2002, art. 2, I: 1 januari 2003) ]
+...
 
 ### ART. 3bis.
 
-<p>[§ 1. Dit artikel is van toepassing op het buitengewoon secundair onderwijs.<br>
-<br>
-§ 2. Voor de toepassing van dit artikel wordt verstaan onder:<br>
-<br>
-1° lln1: het aantal regelmatige leerlingen van het buitengewoon secundair onderwijs van respectievelijk het gemeenschapsonderwijs en het gesubsidieerd onderwijs op 1 februari van het vorige schooljaar;<br>
-<br>
-2° lln 0: het aantal regelmatige leerlingen van het buitengewoon secundair onderwijs van respectievelijk het gemeenschapsonderwijs en het gesubsidieerd onderwijs op 1 februari van het voorlaatste schooljaar;<br>
-<br>
-3° c1: het geraamde indexcijfer van de consumptieprijzen op het einde van het volgende begrotingsjaar;<br>
-<br>
-4° c0: het geraamde indexcijfer van de consumptieprijzen op het einde van het lopende begrotingsjaar;<br>
-<br>
-5° lk1: het geraamde indexcijfer van de eenheidsloonkosten op het einde van het volgende begrotingsjaar;<br>
-<br>
-6° lk0: het geraamde indexcijfer van de eenheidsloonkosten op het einde van het lopende begrotingsjaar.<br>
-<br>
-De werkingsmiddelen van het buitengewoon secundair onderwijs worden jaarlijks berekend door de kredieten die in de algemene uitgavenbegroting van het vorige begrotingsjaar voor de werkingsmiddelen bestemd zijn en, voor het gemeenschapsonderwijs, de lonen van het vastbenoemde meesters-, vak - en dienstpersoneel van de instellingen van het buitengewoon secundair gemeenschapsonderwijs, te vermenigvuldigen met de coëfficiënten A1 en A2, die als volgt worden berekend:<br>
-<br>
-A1 = 0,6 + 0,4 (lln1/lln0)<br>
-<br>
-A2 = 0,4 (c1/c0) + 0,6 (lk1/lk0)<br>
-<br>
-§ 3. Het krediet dat met toepassing van § 2 is verkregen, wordt zodanig aangepast dat per regelmatige leerling gemiddeld onderstaande verhoudingen tussen de werkingsmiddelen van het buitengewoon secundair gemeenschapsonderwijs en het buitengewoon secundair gesubsidieerd onderwijs worden bereikt:<br>
-&nbsp;</p>
-
-<table border="1" cellpadding="0" cellspacing="0" style="border-collapse:collapse">
-	<tbody>
-		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:153.5pt">
-			<p>Begrotingsjaar<!--?xml:namespace         prefix = o ns = "urn:schemas-microsoft-com:office:office"         /--></p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:153.55pt">
-			<p>Aandeel gemeenschapsonderwijs</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:153.55pt">
-			<p>Aandeel gesubsidieerd onderwijs</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.5pt">
-			<p>1999</p>
-
-			<p>2000</p>
-
-			<p>2001</p>
-
-			<p>2002</p>
-
-			<p>2003</p>
-
-			<p>2004</p>
-
-			<p>2005</p>
-
-			<p>2006</p>
-
-			<p>2007</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.55pt">
-			<p>100</p>
-
-			<p>100</p>
-
-			<p>100</p>
-
-			<p>100</p>
-
-			<p>100</p>
-
-			<p>100</p>
-
-			<p>100</p>
-
-			<p>100</p>
-
-			<p>100</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.55pt">
-			<p>90</p>
-
-			<p>88</p>
-
-			<p>86</p>
-
-			<p>84</p>
-
-			<p>82</p>
-
-			<p>80</p>
-
-			<p>78</p>
-
-			<p>77</p>
-
-			<p>76</p>
-			</td>
-		</tr>
-	</tbody>
-</table>
-
-<p>&nbsp;</p>
-
-<p>&nbsp;</p>
-
-<p>§ 4. Het bedrag van de werkingsmiddelen voor het buitengewoon secundair gemeenschapsonderwijs dat met toepassing van § 2 en § 3 is verkregen, vermeerderd met het bedrag van de loonkost die jaarlijks vrijkomt door de toepassing van het koninklijk besluit nr. 296 van 31 maart 1984 betreffende de leden van het meesters-, vak- en dienstpersoneel, en verminderd met de loonkost van het vastbenoemde meesters-, vak- en dienstpersoneel, wordt jaarlijks aan de raden van bestuur van de scholengroepen toegekend overeenkomstig de bepalingen van artikel 36, 2°, van het bijzonder decreet van 14 juli 1998 betreffende het gemeenschapsonderwijs.<br>
-<br>
-§ 5. De verhogingen bedoeld in § 3 worden bij de werkingsmiddelen van het overeenkomstige begrotingsjaar gevoegd en op dezelfde wijze aangepast.<br>
-<br>
-§ 6. In 2007 moeten de werkingsmiddelen per regelmatige leerling in het buitengewoon secundair gesubsidieerd onderwijs gemiddeld 76 %bedragen van de werkingsmiddelen per regelmatige leerling van het buitengewoon secundair gemeenschapsonderwijs.<br>
-<br>
-§ 7. In het gesubsidieerd buitengewoon secundair onderwijs zijn de werkingstoelagen per school gelijk aan de vermenigvuldiging van de geldwaarde per punt met het puntengewicht van de leerling en met het aantal regelmatige leerlingen.<br>
-<br>
-Het puntengewicht per leerling wordt door de Vlaamse regering vastgesteld. Bij het vaststellen van het puntengewicht kan de Vlaamse regering slechts rekening houden met het onderwijsniveau, de onderwijsvorm, de studierichting, het type en de benodigde middelen voor de organisatie van een internaat.<br>
-<br>
-De geldwaarde per punt is gelijk aan het quotiënt van de deling van de werkingsmiddelen voor het gesubsidieerd buitengewoon secundair onderwijs die met toepassing van dit artikel zijn verkregen, door het aantal te verdelen punten. Dit aantal wordt verkregen door in alle gesubsidieerd scholen voor buitengewoon secundair onderwijs het aantal regelmatige leerlingen met het overeenkomstige puntengewicht te vermenigvuldigen en van deze producten de som te maken. (verv. decr. 20 december 2002, art. 2, I: 1 januari 2003) ]</p>
+...
 
 ### ART. 3ter.
 
@@ -1188,11 +960,11 @@ De bepalingen van deze titel treden in werking op 1 september 1990.
 
 ### ART. 128.
 
-De in artikel 127 bedoelde dienst van de Vlaamse gemeenschap met afzonderlijk beheer wordt geleid door een Bestuurscollege waarvan de samenstelling, bevoegdheid en werking door de Vlaamse regering worden bepaald.
+...
 
 ### ART. 129.
 
-De Vlaamse regering bepaalt de organieke regelen die van toepassing zijn op het financieel en materieel beheer van deze diensten.<br /><br />Deze regelen omvatten:<br /><br />1° het opmaken en het bekendmaken van een begroting en van rekeningen;<br /><br />2° de controle van de rekeningen door het Rekenhof;<br /><br />3° het beperken van de uitgaven binnen de grenzen van de ontvangsten en van de goedgekeurde limitatieve kredieten;<br /><br />4° de mogelijkheid om, met ingang van het jaar, de bij het verstrijken van het vorige jaar beschikbare geldmiddelen te gebruiken;<br /><br />5° de behandeling van de geldmiddelen en de waarden door en tegenover het Rekenhof verantwoordelijke rekenplichtige;<br /><br />6° het bijhouden van een vermogenscomptabiliteit en het opmaken van een inventaris van het vermogen;<br /><br />7° de beperking in de tijd van de overdrachten waartoe machtiging werd verleend.
+...
 
 ### ART. 130.
 
