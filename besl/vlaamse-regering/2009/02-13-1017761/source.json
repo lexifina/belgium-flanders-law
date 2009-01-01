@@ -1,0 +1,17 @@
+{
+  "codex_id": 1017761,
+  "title": "Besluit van de Vlaamse Regering van 2009-02-13 houdende de regeling van de melding aan Kind en Gezin van opvang op bestendige wijze",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1017761/VolledigDocument?datum=2009-01-01",
+  "source_sha256": "28b0d96757e94f4db26900f7b928e64b0db08633455aff9ffd092bd8905fb22d",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1017761&param=informatie",
+  "as_of": "2009-01-01",
+  "made": "2009-02-13",
+  "gazette": "2009-04-02",
+  "numac": 2009201418,
+  "document_start": "2009-01-01",
+  "document_end": "2014-03-31",
+  "in_force": "2009-01-01",
+  "article_versions": 16,
+  "record_form": "consolidated version as in force on 2009-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
