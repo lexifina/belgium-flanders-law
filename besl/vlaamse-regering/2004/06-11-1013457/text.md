@@ -140,7 +140,7 @@ Een medewerker van de beleidsmedewerker, bedoeld in artikel 46, eerste lid, 4°,
 
 ### ART. 29.
 
-De werkingskosten van een regionale stuurgroep evenals de presentiegelden en de vergoedingen, bedoeld in het tweede en derde lid, vallen ten laste van de begroting van de Vlaamse Gemeenschap.<br /><br />Aan de leden of hun plaatsvervangers, met uitzondering van personeelsleden van de Vlaamse overheid, worden presentiegelden en vergoedingen toegekend overeenkomstig het besluit van de Vlaamse Regering van 14 december 1983 houdende sommige maatregelen tot harmonisering van de werking en van de presentiegelden en vergoedingen van adviesraden.<br /><br />In afwijking van het tweede lid ontvangen de vertegenwoordigers van minderjarigen en van ouders een presentiegeld dat gelijk is aan tweemaal het bedrag, bedoeld in het tweede lid.
+De werkingskosten van een regionale stuurgroep evenals de presentiegelden en de vergoedingen, bedoeld in het tweede en derde lid, vallen ten laste van de begroting van de Vlaamse Gemeenschap.<br /><br />Aan de leden of hun plaatsvervangers, met uitzondering van personeelsleden van de Vlaamse overheid, worden presentiegelden en vergoedingen toegekend overeenkomstig het besluit van de Vlaamse Regering van 14 december 1983 houdende sommige maatregelen tot harmonisering van de werking en van de presentiegelden en vergoedingen van adviesraden.<br /><br />In afwijking van het tweede lid ontvangen de vertegenwoordigers van minderjarigen en van ouders alleen een presentiegeld als zij het lidmaatschap opnemen in het kader van een arbeidsovereenkomst. Het presentiegeld is in dat geval gelijk aan tweemaal het bedrag, vermeld in het tweede lid.
 
 ## HOOFDSTUK V SLOTBEPALINGEN
 
