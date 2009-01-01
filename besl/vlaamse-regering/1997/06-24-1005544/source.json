@@ -2,16 +2,16 @@
   "codex_id": 1005544,
   "title": "Besluit van de Vlaamse Regering van 1997-06-24 houdende regeling van de melding aan de instelling Kind en Gezin van de opvang op bestendige wijze van kinderen",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1005544/VolledigDocument?datum=2006-06-01",
-  "source_sha256": "65e50f6bb099452621961ad8be94aa2d25684bfd0de4b0a101d12ae1ac9f47c9",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1005544/VolledigDocument?datum=2009-01-01",
+  "source_sha256": "c715d42798c7a82863b0fe4230524c5236960a73bf6b5a23ae76791e2aa1eea5",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1005544&param=informatie",
-  "as_of": "2006-06-01",
+  "as_of": "2009-01-01",
   "made": "1997-06-24",
   "gazette": "1997-09-09",
   "numac": 1997036080,
   "document_start": "1997-07-01",
   "document_end": "2008-12-31",
-  "in_force": "2006-06-01",
+  "in_force": "2009-01-01",
   "article_versions": 25,
-  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2009-01-01; future article versions excluded; article text as the API gives it"
 }
