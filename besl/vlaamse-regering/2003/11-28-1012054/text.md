@@ -24,10 +24,6 @@ Met toepassing van artikel 145bis, § 2, van het decreet, kan een vergunning wor
 
 Met toepassing van artikel 145bis, § 2, van het decreet, kan een vergunning worden verleend voor het geheel of gedeeltelijk wijzigen van het gebruik van een gebouw of gebouwencomplex, niet gebruikt of bedoeld voor de "landbouw" in de ruime zin, in maximaal één eengezinswoning per gebouwencomplex, voorzover aan al de volgende voorwaarden voldaan is:<br /><br />1° het gebouw of gebouwencomplex maakt deel uit van een gebouwengroep;<br /><br />2° in de ruimere omgeving van het gebouw of het gebouwencomplex komen nog gebouwen voor met de vergunde functie wonen.
 
-### ART. 6.
-
-Met toepassing van artikel 145bis, § 2, van het decreet kan een vergunning worden verleend voor het geheel of gedeeltelijk wijzigen van het gebruik van een gebouw of gebouwencomplex, voorzover aan al de volgende voorwaarden voldaan is:<br /><br />1° het gebouw of gebouwencomplex is gelegen in een industriegebied in de ruime zin;<br /><br />2° in de ruimere omgeving van het gebouw of gebouwencomplex komen nog gebouwen voor met de vergunde functie "handel, horeca, kantoorfunctie of diensten";<br /><br />3° indien op het industriegebied in kwestie meer dan drie bedrijven gevestigd zijn, dan hebben minstens 50 % van de bedrijven van dat industriegebied reeds een vergunde hoofdfunctie "handel, horeca, kantoorfunctie of diensten";<br /><br />4° de nieuwe functie behoort tot de functiecategorie "handel, horeca, kantoorfunctie of diensten".
-
 ### ART. 7.
 
 Met toepassing van artikel 145bis, § 2, van het decreet kan een vergunning worden verleend voor het geheel of gedeeltelijk wijzigen van het gebruik van een gebouw of gebouwencomplex, voorzover aan al de volgende voorwaarden voldaan is:<br /><br />1° het gebouw of gebouwencomplex is gelegen in een industriegebied in de ruime zin;<br /><br />2° de nieuwe functie heeft betrekking op een inrichting voor luidruchtige binnenrecreatie, zoals een karting, een fuifzaal of een schietstand.
