@@ -2,16 +2,16 @@
   "codex_id": 1000393,
   "title": "Decreet van 1991-07-17 betreffende inspectie, [dienst voor onderwijsontwikkeling] en pedagogische begeleidingsdiensten",
   "type": "Decreet",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1000393/VolledigDocument?datum=2008-09-01",
-  "source_sha256": "099abba8b1979f4929ce0deb81fe9192cec7f64669238ab5fc5837e6f9064f56",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1000393/VolledigDocument?datum=2009-01-01",
+  "source_sha256": "d3af81871b687d8e6024efdf5b4d76ebc561754645afb227442e4e6e71bd5e03",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1000393&param=informatie",
-  "as_of": "2008-09-01",
+  "as_of": "2009-01-01",
   "made": "1991-07-17",
   "gazette": "1991-08-31",
   "numac": 1991036029,
   "document_start": null,
   "document_end": "2009-08-31",
-  "in_force": "2008-09-01",
-  "article_versions": 144,
-  "record_form": "consolidated version as in force on 2008-09-01; future article versions excluded; article text as the API gives it"
+  "in_force": "2009-01-01",
+  "article_versions": 145,
+  "record_form": "consolidated version as in force on 2009-01-01; future article versions excluded; article text as the API gives it"
 }
