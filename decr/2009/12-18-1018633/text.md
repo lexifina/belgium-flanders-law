@@ -160,6 +160,10 @@ In artikel 9, § 1, van dezelfde wet worden de volgende wijzigingen aangebracht 
 
 ## HOOFDSTUK XVI Water bestemd voor menselijke aanwending
 
+### ART. 148.
+
+In artikel 16bis van het decreet van 24 mei 2002 betreffende water bestemd voor menselijke aanwending worden in § 3, zoals laatst gewijzigd bij het decreet van 21 december 2007, volgende wijzigingen aangebracht :<br />1° de woorden « - 1,4 keer hoger zijn voor het water verbruikt in 2008 » worden vervangen door de woorden « - 1,4 keer hoger zijn voor het water verbruikt vanaf 2008 »;<br /><br />2° de woorden « de sanering op bovengemeentelijk vlak maximaal 2,4 keer hoger zijn voor het water verbruikt in 2008 » worden vervangen door de woorden « de sanering op bovengemeentelijk vlak maximaal 2,4 keer hoger zijn voor het water verbruikt vanaf 2008 ».<br /><br />
+
 ## HOOFDSTUK XVII Vismijncomplex stad Oostende
 
 ## HOOFDSTUK XVIII Machtiging erfpachtovereenkomst met stad Oostende
