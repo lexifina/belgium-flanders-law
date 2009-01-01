@@ -2,16 +2,16 @@
   "codex_id": 1017684,
   "title": "Ministerieel besluit van 2009-01-16 tot wijziging van het ministerieel besluit van 14 mei 2008 houdende vaststelling van de bijkomende of specifieke opdrachten bij de diensten van de Vlaamse overheid",
   "type": "Ministerieel besluit",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1017684/VolledigDocument?datum=2008-06-01",
-  "source_sha256": "273c23fb86fcc916dc88b2fe668c1d8105a937e45938b0d47b31c74097ebba6b",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1017684/VolledigDocument?datum=2009-01-01",
+  "source_sha256": "34da17dc867f4cf686d820a104c2f784fbd502c18c15e188b93066aaea45135f",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1017684&param=informatie",
-  "as_of": "2008-06-01",
+  "as_of": "2009-01-01",
   "made": "2009-01-16",
   "gazette": "2009-03-16",
   "numac": 2009035225,
   "document_start": "2009-01-01",
   "document_end": null,
-  "in_force": "2008-06-01",
-  "article_versions": 2,
-  "record_form": "consolidated version as in force on 2008-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "in_force": "2009-01-01",
+  "article_versions": 7,
+  "record_form": "consolidated version as in force on 2009-01-01; future article versions excluded; article text as the API gives it"
 }
