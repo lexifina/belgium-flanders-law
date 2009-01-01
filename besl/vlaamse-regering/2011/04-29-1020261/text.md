@@ -64,3 +64,7 @@ In artikel VII 5 van hetzelfde besluit, ingevoegd bij het besluit van de Vlaamse
 ### ART. 41.
 
 In artikel VII 70quinquies § 2 van hetzelfde besluit, ingevoegd bij het besluit van de Vlaamse Regering van 29 mei 2009, worden de woorden « P-schaal » vervangen door de woorden « C- of P-schaal ».
+
+### ART. 47.
+
+Aan artikel VII 155, § 1, van hetzelfde besluit, ingevoegd bij het besluit van de Vlaamse Regering van 29 mei 2009, wordt een tweede lid toegevoegd, dat luidt als volgt :<br /><br />« Artikel VII 20, § 3 en § 4, zijn van toepassing op de extra dertiende maand, vermeld in het eerste lid. In afwijking van artikel VII 22, § 3, wordt de extra dertiende maand uitbetaald tijdens de maand januari van het volgende kalenderjaar ».
