@@ -2,16 +2,16 @@
   "codex_id": 1016497,
   "title": "Ministerieel besluit van 2008-01-01 tot uitvoering van het besluit van de Vlaamse Regering van 5 oktober 2007 houdende de lokale diensteneconomie",
   "type": "Ministerieel besluit",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1016497/VolledigDocument?datum=2008-01-01",
-  "source_sha256": "bd8f36bf2e1e6526124ce0f03267aa1a85c2bc4acd6cf40d16407b62b14d3af7",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1016497/VolledigDocument?datum=2009-01-01",
+  "source_sha256": "901f38dee95667afdd85c5746a0d9a82f4851f1a1bc670d5b38b8c7d8783fc10",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1016497&param=informatie",
-  "as_of": "2008-01-01",
+  "as_of": "2009-01-01",
   "made": "2008-01-01",
   "gazette": "2008-01-14",
   "numac": 2007037398,
   "document_start": "2008-01-01",
   "document_end": "2008-12-31",
-  "in_force": "2008-01-01",
+  "in_force": "2009-01-01",
   "article_versions": 4,
-  "record_form": "consolidated version as in force on 2008-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2009-01-01; future article versions excluded; article text as the API gives it"
 }
