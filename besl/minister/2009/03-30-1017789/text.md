@@ -1,0 +1,17 @@
+# Ministerieel besluit van 2009-03-30 tot bepaling van de inwerkingtreding van het besluit van de Vlaamse Regering van 19 december 2008 tot toekenning van steun aan kleine en middelgrote ondernemingen voor ondernemerschapsbevorderende diensten en tot wijziging van het ministerieel besluit van 1 januari 2009 tot uitvoering van het besluit van de Vlaamse Regering van 19 december 2008 tot toekenning van steun aan kleine en middelgrote ondernemingen voor ondernemerschapsbevorderende diensten
+
+### Aanhef
+
+De Vlaamse minister van Economie, Ondernemen, Wetenschap, Innovatie en Buitenlandse Handel,<br /><br />Gelet op het decreet van 31 januari 2003 betreffende het economisch ondersteuningsbeleid, inzonderheid op artikel 35, vervangen bij het decreet van 23 december 2005, en artikel 38;<br /><br />Gelet op het besluit van de Vlaamse Regering van 27 juli 2004 tot bepaling van de bevoegdheden van de leden van de Vlaamse Regering, gewijzigd bij de besluiten van de Vlaamse Regering van 15 oktober 2004, 23 december 2005, 19 mei 2006, 30 juni 2006, 1 september 2006, 15 juni 2007, 28 juni 2007, 10 oktober 2007, 14 november 2007, 5 september 2008, 22 september 2008 en 6 januari 2009;<br /><br />Gelet op het besluit van de Vlaamse Regering van 19 december 2008 tot toekenning van steun aan kleine en middelgrote ondernemingen voor ondernemerschapsbevorderende diensten;<br /><br />Gelet op het ministerieel besluit van 1 januari 2009 tot uitvoering van het besluit van de Vlaamse Regering van 19 december 2008 tot toekenning van steun aan kleine en middelgrote ondernemingen voor ondernemerschapsbevorderende diensten;<br /><br />Gelet op de wetten op de Raad van State, gecoördineerd op 12 januari 1973, artikel 3, § 1, vervangen bij de wet van 4 juli 1989 en gewijzigd bij de wet van 4 augustus 1996;<br /><br />Gelet op de dringende noodzakelijkheid;<br /><br />Overwegende dat het besluit van de Vlaamse Regering van 19 december 2008 tot toekenning van steun aan kleine en middelgrote ondernemingen voor ondernemerschapsbevorderende diensten de opvolger introduceert van de BEA-maatregel, dat dit besluit gericht is op het verbeteren van de huidige of de toekomstige bedrijfsvoering bij kleine en middelgrote ondernemingen en naast de steun voor advies en opleiding nu ook steun voor advies voor innovatie en advies voor internationaal ondernemen bevat;<br /><br />Overwegende dat de financiële en economische crisis deze vernieuwde steun dringend noodzakelijk maakt, dat om die reden het besluit van de Vlaamse Regering van 19 december 2008 dringend in werking moet treden,<br /><br />Besluit : <br /><br />
+
+### ART. 1.
+
+Ter uitvoering van artikel 37 van het besluit van de Vlaamse Regering van 19 december 2008 tot toekenning van steun aan kleine en middelgrote ondernemingen voor ondernemerschapsbevorderende diensten wordt bepaald dat dit besluit van de Vlaamse Regering van 19 december 2008 uitwerking heeft met ingang van 1 januari 2009.<br /><br />
+
+### ART. 2.
+
+In artikellen 1, 4°, 9, 20, 23, 27, 40, 41, 44, 49 en 51 van het ministerieel besluit van 1 januari 2009 tot uitvoering van het besluit van de Vlaamse Regering van 19 december 2008 tot toekenning van steun aan kleine en middelgrote ondernemingen voor ondernemerschapsbevorderende diensten worden de woorden « Agentschap Economie » telkens vervangen door de woorden « Agentschap Ondernemen ».<br /><br />
+
+### ART. 3.
+
+Dit besluit heeft uitwerking met ingang van 1 januari 2009.<br /><br />
