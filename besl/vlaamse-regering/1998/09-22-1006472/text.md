@@ -4,7 +4,7 @@
 
 ### ART. 1.
 
-Voor de toepassing van dit besluit wordt verstaan onder:<br /><br />1° volledige loopbaanonderbreking: de onderbreking van de beroepsloopbaan zoals bepaald in artikel 100 tot 101bis van de herstelwet van 22 januari 1985 houdende sociale bepalingen, zoals gewijzigd;<br /><br />2° gedeeltelijke loopbaanonderbreking: de vermindering van de arbeidsprestaties zoals bedoeld bij artikel 102 tot 103 van de herstelwet van 22 januari 1985 houdende sociale bepalingen;<br /><br />3° opleiding:<br /><br />- de beroepsopleiding zoals bepaald door het besluit van de Vlaamse regering van 21 december 1988 houdende de organisatie van de arbeidsbemiddeling en de beroepsopleiding en georganiseerd door de in datzelfde besluit, Titel III, Hoofdstuk II vermelde centra;<br /><br />- elke andere vorm van onderwijs en opleiding georganiseerd, gefinancierd, gesubsidieerd of erkend door de Vlaamse overheid en waarvan het programma ten minste 120 uren op jaarbasis omvat;<br /><br />4° administratie: de administratie Werkgelegenheid van het departement Economie, Werkgelegenheid, Binnenlandse Aangelegenheden en Landbouw.
+Voor de toepassing van dit besluit wordt verstaan onder:<br />1° volledige loopbaanonderbreking: de onderbreking van de beroepsloopbaan zoals bepaald in artikel 100 tot 101bis van de herstelwet van 22 januari 1985 houdende sociale bepalingen, zoals gewijzigd;<br />2° gedeeltelijke loopbaanonderbreking: de vermindering van de arbeidsprestaties zoals bedoeld bij artikel 102 tot 103 van de herstelwet van 22 januari 1985 houdende sociale bepalingen;<br />3° opleiding:<br />- de beroepsopleiding zoals bepaald door het besluit van de Vlaamse regering van 21 december 1988 houdende de organisatie van de arbeidsbemiddeling en de beroepsopleiding en georganiseerd door de in datzelfde besluit, Titel III, Hoofdstuk II vermelde centra;<br />- elke andere vorm van onderwijs en opleiding georganiseerd, gefinancierd, gesubsidieerd of erkend door de Vlaamse overheid en waarvan het programma ten minste 120 uren op jaarbasis omvat;<br />4° Subsidieagentschap : het Vlaams Subsidieagentschap voor Werk en Sociale Economie, opgericht bij het besluit van de Vlaamse Regering van 21 oktober 2005.
 
 ## TOEPASSINGSGEBIED
 
@@ -28,23 +28,23 @@ Dit besluit is van toepassing op:<br /><br />- de personeelsleden van het minist
 
 ### ART. 5.
 
-De aanvraag tot het bekomen van de aanmoedigingspremie wordt door het personeelslid ingediend bij de administratie.<br /><br />De aanvraag bestaat uit:<br /><br />- het ingevulde aanvraagformulier, als model bij dit besluit gevoegd;<br /><br />- een kopie van de onderbrekingsuitkeringskaart waarop de ingangsdatum en de duur van de onderbrekingsperiode vermeld is;<br /><br />- het bewijs van vervanging voor het personeelslid dat een gedeeltelijke loopbaanonderbreking opneemt en de arbeidsprestaties vermindert met een vierde of een vijfde van het normaal aantal arbeidsuren van een voltijdse betrekking;<br /><br />- ingeval het personeelslid een opleiding volgt, een attest van de onderwijs- of opleidingsinstelling waaruit de inschrijving voor, de aanvangsdatum, de duur en het aantal lesuren van de opleiding blijken.
+§ 1. De werknemer dient een aanvraag voor de aanmoedigingspremie in bij het Subsidieagentschap.<br /><br />§ 2. De aanvraag wordt ingediend met het papieren aanvraagformulier of, voor zover dat door het Subsidieagentschap ter beschikking wordt gesteld, met het elektronische aanvraagformulier.<br /><br />De minister bepaalt het model van aanvraagformulier.<br /><br />§ 3. De aanvraag is alleen ontvankelijk als ze voldoet aan de volgende voorwaarden : <br />1° het aanvraagformulier wordt volledig en correct ingevuld en ondertekend;<br />2° alle verplichte bewijsstukken worden bij het aanvraagformulier gevoegd, conform de vereisten die zijn opgenomen in het aanvraagformulier.
 
 ### ART. 6.
 
-§ 1. Om geldig te zijn dient de aanvraag tot het bekomen van de aanmoedigingspremie ingediend te worden binnen 6 maanden na aanvang van de loopbaanonderbreking.<br /><br />§ 2. Na beslissing en betalingsopdracht door de administratie wordt de premie per kwartaal aan het rechthebbende personeelslid uitgekeerd, in de loop van het daaropvolgende kwartaal.
+§ 1. Om geldig te zijn dient de aanvraag tot het bekomen van de aanmoedigingspremie ingediend te worden binnen 6 maanden na aanvang van de loopbaanonderbreking.<br /><br />§ 2. Na beslissing en betalingsopdracht door het Vlaams Subsidieagentschap voor Werk en Sociale Economie wordt de premie per kwartaal aan het rechthebbende personeelslid uitgekeerd, in de loop van het daaropvolgende kwartaal.
 
 ## CONTROLE EN SANCTIES
 
 ### ART. 7.
 
-§ 1. Vanaf de eerste dag van de maand volgend op de datum waarop het personeelslid niet meer voldoet aan de voorwaarden waaronder de aanmoedigingspremie werd toegekend, vervalt het recht op de aanmoe-digingspremie.<br /><br />§ 2. Onrechtmatig verkregen aanmoedigingspremies kunnen teruggevorderd worden.<br /><br />§ 3. De controle op de naleving van de voorwaarden wordt uitgeoefend door de inspectie van de administratie.
+§ 1. Vanaf de eerste dag van de maand volgend op de datum waarop het personeelslid niet meer voldoet aan de voorwaarden waaronder de aanmoedigingspremie werd toegekend, vervalt het recht op de aanmoe-digingspremie.<br /><br />§ 2. Onrechtmatig verkregen aanmoedigingspremies kunnen teruggevorderd worden.<br /><br />§ 3. De controle op de naleving van de voorwaarden wordt uitgeoefend door de sociaalrechtelijke inspecteurs van de afdeling Inspectie van het departement Werk en Sociale Economie.
 
 ## EVALUATIE
 
 ### ART. 8.
 
-§ 1. De opvolgingscommissie, opgericht krachtens artikel 13 van het besluit van de Vlaamse regering van 26 mei 1998 houdende de aanmoediging in het Vlaamse Gewest van de wedertewerkstelling van uitkeringsgerechtigde volledig werklozen of van de daarmee gelijkgestelde personen door middel van herverdeling van de arbeid, zal de maatregelen van dit besluit zesmaandelijks evalueren en mogelijke bijsturingen en uitbreidingen ervan onderzoeken.<br /><br />§ 2. De administratie maakt via haar vertegenwoordiger de nodige relevante informatie omtrent het stelsel van de aanmoedigingspremies over aan elk betrokken [Regionaal Sociaal-Economische Overlegcomité. (verv. B.V.R. 10 juni 2005, art. 5, I: 15 juli 2005)]
+§ 1. De opvolgingscommissie, opgericht krachtens artikel 13 van het besluit van de Vlaamse regering van 26 mei 1998 houdende de aanmoediging in het Vlaamse Gewest van de wedertewerkstelling van uitkeringsgerechtigde volledig werklozen of van de daarmee gelijkgestelde personen door middel van herverdeling van de arbeid, zal de maatregelen van dit besluit zesmaandelijks evalueren en mogelijke bijsturingen en uitbreidingen ervan onderzoeken.<br /><br />§ 2. het Vlaams Subsidieagentschap voor Werk en Sociale Economie maakt via haar vertegenwoordiger de nodige relevante informatie omtrent het stelsel van de aanmoedigingspremies over aan elk betrokken Regionaal Sociaal-Economische Overlegcomité.
 
 ## OVERGANGSBEPALINGEN
 
