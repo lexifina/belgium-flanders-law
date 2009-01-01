@@ -285,39 +285,7 @@ AMBTSHALVE AANSLUITING<br>
 <br>
 27. Alle personen die zich ondanks de verplichting niet binnen de gestelde termijnen voor aansluiting naar keuze aansluiten bij een erkende zorgkas, zijn bij de Vlaamse Zorgkas ambtshalve aangesloten.<br>
 <br>
-28. Hierbij kunnen verschillende categorieën onderscheiden worden:<br>
-<br>
-Aansluiting met ingang van 1 oktober 2001<br>
-<br>
-* Personen die wonen in Vlaanderen en 26 jaar of ouder zijn in het jaar 2002 en personen die voor 1 juli 2002 in Vlaanderen komen wonen zijn en 26 jaar of ouder zijn in het jaar 2002:<br>
-<br>
-Dergelijke personen zal geen schorsing met vier maanden opgelegd worden als de bijdrage voor de periode van 1 oktober 2001 tot 31 december 2002 bij de Vlaamse Zorgkas ten laatste op 5 januari 2004 op het rekeningnummer van de zorgkas staat. Uiteraard moet ook de bijdrage voor 2003 tijdig betaald worden om geen schorsing voor 2003 op te lopen.<br>
-<br>
-* Personen die tussen 1 juli 2002 en 31 december 2002 in Vlaanderen komen wonen zijn en 26 jaar of ouder zijn in het jaar 2002.<br>
-<br>
-Dergelijke personen zal geen schorsing met vier maanden opgelegd worden als de bijdrage voor de periode van 1 oktober 2001 tot 31 december 2002 bij de Vlaamse Zorgkas ten laatste op 31 december 2004 op het rekeningnummer van de zorgkas staat.<br>
-<br>
-Vanaf het moment dat de betrokkene een eerste bijdrage betaald heeft, moet hij in hetzelfde jaar de eventuele bijdragen voor voorgaande en lopende kalenderjaren betalen. In het andere geval wordt hij geschorst (met verlies van rechten).<br>
-<br>
-Aansluiting vanaf 1 januari 2003<br>
-<br>
-* Personen die in Vlaanderen wonen en in een kalenderjaar 26 jaar worden :<br>
-<br>
-De eerste en tweede bijdrage kunnen zonder een schorsing op te lopen en zonder dat ze in aanmerking worden genomen voor de berekening van de drie, niet noodzakelijk opeenvolgende keren die aanleiding geven tot het opleggen van een administratieve geldboete, betaald worden bij iedere zorgkas tot 31 december van het jaar na het jaar waarin men 26 jaar is geworden.<br>
-<br>
-* Personen die in de eerste jaarhelft van een kalenderjaar (van 1 januari tot 30 juni) in Vlaanderen komen wonen terwijl ze in het kalenderjaar minstens 26 jaar zijn of worden :<br>
-<br>
-De eerste en tweede bijdrage kunnen zonder een schorsing op te lopen en zonder dat ze in aanmerking worden genomen voor de berekening van de drie, niet noodzakelijk opeenvolgende keren die aanleiding geven tot het opleggen van een administratieve geldboete, betaald worden bij iedere zorgkas tot 31 december van het jaar na het jaar waarin men in Vlaanderen is komen wonen.<br>
-<br>
-* Personen die in de tweede jaarhelft van een kalenderjaar (van 1 juli tot 31 december) in Vlaanderen komen wonen, terwijl ze in het kalenderjaar minstens 26 jaar zijn of worden :<br>
-<br>
-De eerste, tweede en derde bijdrage kunnen zonder een schorsing op te lopen en zonder dat ze in aanmerking worden genomen voor de berekening van de drie, niet noodzakelijk opeenvolgende keren die aanleiding geven tot het opleggen van een administratieve geldboete, betaald worden bij iedere zorgkas tot 31 december van het tweede jaar na het jaar waarin men in Vlaanderen is komen wonen.<br>
-<br>
-Vanaf het moment dat de betrokkene een eerste bijdrage betaald heeft, moet hij ten laatste op 31 december van het zelfde jaar de eventuele bijdragen voor voorgaande en lopende kalenderjaren betalen. In het andere geval wordt hij geschorst (met verlies van rechten).<br>
-<br>
-* Personen die door een zorgkas afgesloten worden en die niet van zorgkas veranderen (vb. personen die geen lid van een zorgkas kunnen blijven omdat de zorgkas niet meer over een erkenning beschikt; personen die niet langer lid kunnen blijven van de zorgkas van een ziekenfonds omwille van MOB-wetgeving, enz.) :<br>
-<br>
-De bijdragen voor het eerste en het tweede jaar na afsluiting door de zorgkas kunnen zonder een schorsing op te lopen en zonder dat ze in aanmerking worden genomen voor de berekening van de drie, niet noodzakelijk opeenvolgende keren die aanleiding geven tot het opleggen van een administratieve geldboete, betaald worden bij iedere zorgkas tot 31 december van het tweede jaar na afsluiting door de zorgkas.<br>
+28. ...<br>
 <br>
 29. De ambtshalve aansluiting bij de Vlaamse Zorgkas vervalt als de persoon zich alsnog bij een andere zorgkas aansluit door het betalen van minstens één bijdrage. De zorgkas in kwestie vordert nog verschuldigde bijdragen in.<br>
 <br>
@@ -399,30 +367,6 @@ De geldboete wordt vermeerderd met de nog verschuldigde bijdragen.<br>
 <br>
 Een gedeeltelijke betaling daarvan wordt eerst aan het openstaande bedrag van de boete toegekend. Van zodra de boete is betaald, wordt het in mindering gebracht van de verschuldigde bijdragen.<br>
 <br>
-§ 3. Personen worden niet aangeschreven voor een administratieve geldboete als ze bij het Vlaams Zorgfonds gekend zijn als :<br>
-1) van ambtswege afgevoerd;<br>
-2) vermist.<br>
-<br>
-§ 4. De administratieve geldboete vervalt als een aangeslotene als vermeld in artikel 19quater van het besluit van de Vlaamse Regering van 28 september 2001 houdende de erkenning, de registratie en de machtiging, en houdende de aansluiting, de aanvraag en de tenlasteneming in het kader van de zorgverzekering, met terugwerkende kracht van zijn lidmaatschap schriftelijk afstand doet bij het Vlaams Zorgfonds binnen de maand na de uitnodiging per aangetekende brief tot betaling van de administratieve geldboete en de bijdragen.<br>
-<br>
-De reeds volledig of onvolledig betaalde bijdragen kunnen niet worden teruggevorderd.<br>
-<br>
-§ 5. In de hieronder vermelde situaties wordt de niet-betaling van de bijdrage, de gedeeltelijke betaling van de bijdrage of de laattijdige betaling van de bijdrage niet in aanmerking genomen voor het opleggen van een administratieve geldboete :<br>
-1° de aangeslotene verblijft ononderbroken en minstens van 1 maart tot en met 30 april van het jaar waarvoor de bijdrage verschuldigd is en waarvoor de bijdrage niet, gedeeltelijk of laattijdig wordt betaald, in een strafinstelling. Dit wordt bewezen met een attest van de betrokken strafinstelling;<br>
-2° de aangeslotene is ononderbroken en minstens van 1 maart tot en met 30 april van het jaar waarvoor de bijdrage verschuldigd is en waarvoor de bijdrage niet, gedeeltelijk of laattijdig wordt betaald, vermist, afwezig verklaard of van ambtswege afgevoerd. Dit wordt bewezen via een afdruk van het elektronisch rijksregisterbestand, met een attest van aangifte (vermist) of een kopie van het vonnis van de rechtbank van eerste aanleg;<br>
-3° de aangeslotene is ononderbroken en minstens van 1 maart tot en met 30 april van het jaar waarvoor de bijdrage verschuldigd is en waarvoor de bijdrage niet, gedeeltelijk of laattijdig wordt betaald, het voorwerp van een collectieve schuldenregeling. De aangeslotene bewijst dit met een kopie van het vonnis van de rechtbank of een attest van de schuldbemiddelaar;<br>
-4° de aangeslotene is ononderbroken en minstens van 1 maart tot en met 30 april van het jaar waarvoor de bijdrage verschuldigd is en waarvoor de bijdrage niet, gedeeltelijk of laattijdig wordt betaald, het voorwerp van budgetbegeleiding of- beheer door een Openbaar Centrum voor Maatschappelijk Welzijn of door een door de Vlaamse Gemeenschap erkende instelling voor schuldbemiddeling. De aangeslotene bewijst dit met een attest van het Openbaar Centrum voor Maatschappelijk Welzijn of van de erkende instelling;<br>
-5° het niet, gedeeltelijk of laattijdig betalen van de bijdrage is het gevolg van een fout van het Vlaams Zorgfonds, het rijksregister of de Kruispuntbank van de Sociale Zekerheid;<br>
-6° het niet of niet tijdig ontvangen van de uitnodiging tot betaling van de bijdrage is het gevolg van een aantoonbare fout van de zorgkas. Dit wordt bewezen via een attest van de zorgkas;<br>
-7° de bijdrage staat uiterlijk 10 mei van het lopende jaar op de rekening van de zorgkas;<br>
-8° tijdens het jaar van verandering van zorgkas indien de bijdrage uiterlijk 31 december van dat jaar wordt betaald;<br>
-9° bij wijziging van het rijksregisternummer indien de bijdrage uiterlijk 31 december van het jaar in kwestie wordt betaald;<br>
-10° als er tijdens het jaar waarvoor de bijdrage verschuldigd is, uiterlijk 30 april een aanvraag voor tenlasteneming of een positieve beslissing voor tenlasteneming is, en de bijdrage wordt betaald vóór 31 december van dat jaar;<br>
-11° een buitenlands sociaal verzekerde of een Belgisch sociaal verzekerde met woonplaats buiten Vlaanderen of Brussel waarvoor een onderzoek loopt over de aansluitingsplicht bij het Vlaams Zorgfonds;<br>
-12° bijdragen voor voorgaande en lopende kalenderjaren worden betaald uiterlijk 31 december van het tweede jaar na het jaar waarin men in Vlaanderen is komen wonen bij personen die in de tweede jaarhelft van een kalenderjaar (van 1 juli tot 31 december) in Vlaanderen komen wonen, terwijl ze in het kalenderjaar van komen wonen minstens 26 jaar zijn of worden.<br>
-<br>
-§ 6. Wanneer na het opleggen van een administratieve geldboete aan de zorgkas of het Vlaams Zorgfonds een kennisgeving wordt gedaan van een collectieve schuldenregeling, worden de aan de kennisgeving voorafgaande niet-betalingen, gedeeltelijke betalingen of laattijdige betalingen van de bijdrage, met terugwerkende kracht niet in aanmerking genomen voor het opleggen van de betreffende administratieve geldboete. Wanneer de kennisgeving van een collectieve schuldenregeling wordt gedaan aan de zorgkas, bezorgt de zorgkas onverwijld de documenten aan het Vlaams Zorgfonds.<br>
-<br>
 39ter. Het niet meer in aanmerking nemen voor de berekening van de drie, niet noodzakelijk opeenvolgende keren die aanleiding geven tot het opleggen van een administratieve geldboete vermeerderd met de nog verschuldigde bijdragen voor voornoemde periodes, van maximaal twee laattijdige betalingen van de bijdrage, kan slechts worden toegepast nadat de bijdrage minstens vijf jaar ononderbroken tijdig en volledig werd betaald én alle verschuldigde bijdragen werden betaald.<br>
 <br>
 Voorbeelden :<br>
@@ -449,17 +393,9 @@ Wanneer het bezwaar gegrond wordt verklaard, zal het Vlaams Zorgfonds :<br>
 <br>
 39quinquies. De zorgkassen bezorgen aan het Vlaams Zorgfonds jaarlijks een bestand dat per persoon een overzicht bevat van de al dan niet geïnde bijdragen en dat een teller « 1 » bevat voor de personen die de ledenbijdrage niet, slechts gedeeltelijk of laattijdig betaald hebben.<br>
 <br>
-39sexies. In het kader van de regularisatiemogelijkheid wordt de niet betaling van de bijdragen, de gedeeltelijke betaling van de bijdragen of de laattijdige betaling van de bijdragen in de hieronder vermelde situaties niet in aanmerking genomen voor het opleggen van een administratieve geldboete :<br>
-1° de aangeslotene verblijft ononderbroken en minstens van 1 november 2005 tot en met 30 april 2006 in een strafinstelling. Dit wordt bewezen met een attest van de betrokken strafinstelling;<br>
-2° de aangeslotene is ononderbroken en minstens van 1 november 2005 tot en met 30 april 2006 vermist, afwezig verklaard of van ambtswege afgevoerd. Dit wordt bewezen via een afdruk van het elektronisch rijksregisterbestand, met een attest van aangifte (vermist) of een kopie van het vonnis van de rechtbank van eerste aanleg;<br>
-3° de aangeslotene is ononderbroken en minstens van 1 november 2005 tot en met 30 april 2006 het voorwerp van een collectieve schuldenregeling. De aangeslotene bewijst dit met een kopie van het vonnis van de rechtbank of een attest van de schuldbemiddelaar;<br>
-4° de aangeslotene is ononderbroken en minstens van 1 november 2005 tot en met 30 april 2006 het voorwerp van budgetbegeleiding of- beheer door een Openbaar Centrum voor Maatschappelijk Welzijn of door een door de Vlaamse Gemeenschap erkende instelling voor schuldbemiddeling. De aangeslotene bewijst dit met een attest van het Openbaar Centrum voor Maatschappelijk Welzijn of van de erkende instelling;<br>
-5° de regularisatiebijdragen staan uiterlijk 10 mei 2006 op de rekening van de zorgkas;<br>
-6° bij verandering van zorgkas op 1 januari 2006 als de regularisatiebijdragen uiterlijk 31 december 2006 worden betaald;<br>
+39sexies. ...<br>
 <br>
-39septies. In het kader van de regularisatiemogelijkheid wordt de niet betaling van de bijdragen, de gedeeltelijke betaling van de bijdragen of de laattijdige betaling van de bijdragen in de hieronder vermelde situaties niet in aanmerking genomen voor het opleggen van een schorsing of wachttijd :<br>
-1° de regularisatiebijdragen staan uiterlijk 10 mei 2006 op de rekening van de zorgkas;<br>
-2° als bij een verandering van zorgkas op 1 januari 2006 de regularisatiebijdragen uiterlijk 31 december 2006 op de rekening van de zorgkas staan.<br>
+39septies. ...<br>
 <br>
 39octies. Bij verhuis van Brussel naar Vlaanderen vallen de wachttijd en de termijn van ononderbroken aansluiting alvorens een aanvraag in te dienen weg. Overige sancties blijven behouden.<br>
 <br>
@@ -528,7 +464,7 @@ In de andere gevallen verandert een persoon van zorgkas door aan de nieuwe zorgk
 
 <p>Dit bestand bevat alle via het mutatieformulier van de zorgverzekering aangevraagde mutaties en alle door mutualistische zorgkassen aan te vragen mutaties op basis van verandering van ziekenfonds.<br>
 • In voorkomend geval levert het Vlaams Zorgfonds dit tekstbestand via mail ten laatste op 10 december terug aan de nieuwe zorgkas aangevuld met de code van de afstaande zorgkas.<br>
-&lt;</p>
+</p>
 
 <table border="1" cellpadding="0" cellspacing="0" style="border-collapse:collapse">
 	<tbody>
