@@ -1,0 +1,17 @@
+{
+  "codex_id": 1017914,
+  "title": "Ministerieel besluit van 2009-04-30 tot wijziging van het ministerieel besluit van 28 juli 2006 tot vaststelling van de bijzondere boekhoudkundige richtlijnen voor voorzieningen voor personen met een handicap",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1017914/VolledigDocument?datum=2009-01-01",
+  "source_sha256": "0d2435d8c1ad98ca1b168d2c9dc57b12f8bcaf8793d84acabdf237f97b01f913",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1017914&param=informatie",
+  "as_of": "2009-01-01",
+  "made": "2009-04-30",
+  "gazette": "2009-05-26",
+  "numac": 2009202238,
+  "document_start": "2009-01-01",
+  "document_end": null,
+  "in_force": "2009-01-01",
+  "article_versions": 5,
+  "record_form": "consolidated version as in force on 2009-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
