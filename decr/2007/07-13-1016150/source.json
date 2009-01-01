@@ -2,16 +2,16 @@
   "codex_id": 1016150,
   "title": "Decreet van 2007-07-13 inzake medisch [en ethisch] verantwoorde sportbeoefening",
   "type": "Decreet",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1016150/VolledigDocument?datum=2008-08-01",
-  "source_sha256": "37938980a34a3646b877c0199baa3accbeb0e01ea2eab2a9de45f90f2ef96cb7",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1016150/VolledigDocument?datum=2009-01-01",
+  "source_sha256": "952ea11f1203d036288e4d23009902d40f237fc8c27612c13e328dd7b5520412",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1016150&param=informatie",
-  "as_of": "2008-08-01",
+  "as_of": "2009-01-01",
   "made": "2007-07-13",
   "gazette": "2007-09-13",
   "numac": 2007036352,
   "document_start": "2008-08-01",
   "document_end": "2014-04-29",
-  "in_force": "2008-08-01",
+  "in_force": "2009-01-01",
   "article_versions": 59,
-  "record_form": "consolidated version as in force on 2008-08-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2009-01-01; future article versions excluded; article text as the API gives it"
 }
