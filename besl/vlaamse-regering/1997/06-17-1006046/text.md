@@ -4,166 +4,166 @@
 
 ### ART. 1.
 
-Voor de toepassing van dit besluit dient te worden verstaan onder:<br /><br />1° minister: de Vlaamse minister bevoegd voor het tewerkstellingsbeleid;<br /><br />2° administratie: de administratie Werkgelegenheid van het Departement Economie, Werkgelegenheid, Binnenlandse Aan-gelegenheden en Landbouw van het Ministerie van de Vlaamse Gemeenschap;<br /><br />3° werkgever: de instellingen en de verenigingen, zoals bepaald in artikel 2 van dit besluit;<br /><br />4° VDAB: Vlaamse Dienst voor Arbeidsbemiddeling en Beroepsopleiding;<br /><br />5° derde: elke door de VDAB erkende instantie waarmee een samenwerkingsovereenkomst zoals bepaald in artikel 14, § 4 van dit besluit gesloten werd;<br /><br />6° doelgroepwerknemers: de werknemers zoals bepaald in artikel 3 van dit besluit;<br /><br />7° begeleidingsplan: een plan dat een overzicht bevat van de inspanningen waartoe de werkgever zich verbindt op vlak van begeleiding en/of opleiding met het oog op doorstroming van de doelgroepwerknemer naar het reguliere arbeidscircuit;<br /><br />8° begeleidingsactie: elke collectieve of individuele begeleidingsactie vanwege de VDAB of een door de VDAB erkende derde zoals vastgesteld overeenkomstig artikel 2 van het Charter van de Werkzoekende, zoals gevoegd bij het decreet van 31 maart 1993 houdende de vaststelling van het Charter van de Werkzoekende;<br /><br />9° integratie-uitkering: uitkering waarop de doelgroepwerknemer gerechtigd is gedurende de periode dat hij verbonden is door een arbeidsovereenkomst in het kader van dit besluit overeenkomstig artikel 78ter van het koninklijk besluit van 25 november 1991 houdende de werkloosheidsreglementering;<br /><br />10° [verlaagd leefloon: uitkering waarop de doelgroepwerknemer gerechtigd is gedurende de periode dat hij verbonden is door een arbeidsovereenkomst in het kader van dit besluit overeenkomstig het koninklijk besluit van 11 juli 2002 tot vaststelling van de financiële tussenkomst vanwege het openbaar centrum voor maatschappelijk welzijn in de loonkost van een gerechtigde op maatschappelijke integratie die wordt tewerkgesteld in een doorstromingsprogramma en tot vaststelling van de tijdelijke vermindering of vrijstelling van werkgeversbijdragen of overeenkomstig het koninklijk besluit van 14 november 2002 tot vaststelling van de financiële tussenkomst vanwege het openbaar centrum voor maatschappelijk welzijn in de loonkost van een rechthebbende op financiële maatschappelijke hulp die wordt tewerkgesteld in een doorstromingsprogramma en tot vaststelling van de tijdelijke vermindering of vrijstelling van werkgeversbijdragen;  <span class="reference">(verv. B.V.R. 14 mei 2004, art. 1, I: 1 april 2004)</span> ]<br /><br />11° voltijdse uurregeling: de voltijdse uurregeling op de werknemer van toepassing en bepaald in het arbeidsreglement of in elk ander document dat hiertoe wordt bijgehouden wanneer de werkgever geen arbeidsreglement moet opmaken;<br /><br />12° [gerechtigden op financiële maatschappelijke hulp: personen van vreemde nationaliteit, die zijn ingeschreven in het vreemdelingenregister met een machtiging tot verblijf voor onbeperkte tijd, en die omwille van hun nationaliteit geen aanspraak kunnen maken op het recht op maatschappelijke integratie maar wel gerechtigd zijn op financiële maatschappe-lijke hulp;  <span class="reference">(verv. B.V.R. 14 mei 2004, art. 1, I: 1 april 2004)</span> ]<br /><br />[13° trajecttoewijzer: dienst binnen de VDAB die het traject van de doelgroepwerknemer naar het reguliere arbeidscircuit toe bepaalt;  <span class="reference">(ing. B.V.R. 14 mei 2004, art. 2, I: 1 april 2004)</span> ]<br /><br />14° [werkgever-gebruiker: de werkgever aan wie de doelgroepwerknemer ter beschikking wordt gesteld als vermeld in artikel 11bis en 11ter;<br /><br />15° begeleidingsorganisatie: de VDAB of de instantie aan wie de begeleiding van de doelgroepwerknemers toegewezen werd.  <span class="reference">(verv. B.V.R. 8 juli 2005, art. 1, I: 1 januari 2005)</span> ]
+...
 
 ## HOOFDSTUK II TOEPASSINGSGEBIED
 
 ### ART. 2.
 
-§ 1. De volgende werkgevers kunnen doelgroepwerknemers in het kader van dit besluit tewerkstellen op voorwaarde dat zij de arbeids- en sociaalrechterlijke verplichtingen naleven:<br /><br />1° a) de gemeenten, de verenigingen en agglomeraties en federaties van gemeenten, met uitzondering van diegene met de economische finaliteit, de aan de gemeenten ondergeschikte instellingen, de instellingen van openbaar nut die van deze verenigingen, agglomeraties en federaties van gemeenten afhangen, de openbare centra voor maatschappelijk welzijn, de verenigingen van openbare centra voor maatschappelijk welzijn, de provincies, de verenigingen van provincies en de aan de provincie ondergeschikte instellingen;<br /><br />b) de verenigingen zonder winstoogmerk waarin de plaatselijke overheid een overwegende rol speelt in de oprichting of de leiding ervan;<br /><br />2° a) het Vlaamse Gewest en de Vlaamse Gemeenschap;<br /><br />b) de door de Vlaamse Gemeenschap ingerichte, erkende of gesubsidieerde onderwijsinstellingen;<br /><br />c) de instellingen van openbaar nut die afhangen van het Vlaamse Gewest en de Vlaamse Gemeenschap;<br /><br />3° de instellingen van openbaar nut en de verenigingen zonder winstoogmerk beheerst door de wet van 27 juni 1921 waarbij aan de verenigingen zonder winstoogmerk en aan de instellingen van openbaar nut rechtspersoonlijkheid wordt verleend, en die een sociaal, humanitair of cultureel doel nastreven, evenals de plaatselijke maatschappijen voor sociale woningen, de Polders en Wateringen en de kerkfabrieken.<br /><br />§ 2. De volgende instellingen worden uitgesloten van de toepassing van dit besluit, tot artikel 3, tweede lid van het samenwerkingsakkoord van 4 maart 1997 tussen de Federale staat en de Gewesten betreffende doorstromingsprogramma's wordt geschrapt:<br /><br />1° de rusthuizen;<br /><br />2° de rust- en verzorgingstehuizen;<br /><br />3° de psychiatrische verzorgingshuizen;<br /><br />4° de initiatieven voor beschut wonen;<br /><br />5° de centra voor functionele revalidatie die een overeenkomst gesloten hebben met het Rijksinstituut voor Ziekte- en Invaliditeitsverzekering;<br /><br />6° de erkende diensten voor gezins- en bejaardenhulp;<br /><br />7° de beschutte werkplaatsen;<br /><br />8° de onthaaltehuizen;<br /><br />9° de kinderkribben en erkende diensten voor bewaking en onthaal van kinderen;<br /><br />10° de diensten voor hulp aan jongeren;<br /><br />11° de medisch-pedagogische instituten;<br /><br />12° de erkende centra, diensten en structuren die gehandicapte personen onthalen, huisvesten, begeleiden en hun socio-professionele integratie verzekeren.
+...
 
 ## HOOFDSTUK III DOELGROEPBEPALING
 
 ### ART. 3.
 
-§ 1. [Als doelgroepwerknemers kunnen enkel personen tewerkgesteld worden die aan één van de vol-gende voorwaarden voldoen:<br /><br />1° op de dag voor hun indiensttreding zonder onderbreking minstens 24 maanden volledig vergoede werklozen zijn. Voor de toepassing van die bepaling wordt alleen rekening gehouden met uitkeringen die verleend zijn overeenkomstig artikel 100 of 103 van het koninklijk besluit van 25 november 1991 houdende de werkloosheidsreglementering;<br /><br />2° op de dag voor hun indiensttreding zonder onderbreking minstens 12 maanden een leefloon genieten en ingeschreven zijn als werkzoekende, of zonder onderbreking minstens 12 maanden gerechtigde op financiële maatschappelijke hulp zijn en ingeschreven zijn als werkzoekende.  <span class="reference">(verv. B.V.R. 8 juli 2005, art. 2, I: 1 januari 2005)</span> ]<br /><br />§ 2. De Vlaamse regering kan afhankelijk van de evolutie van de werkloosheidsstructuur de doelgroep beperken of verruimen tot andere categorieën van werklozen.<br /><br />§ 3. De minister kan periodes bepalen die gelijkgesteld worden met een periode van uitkeringsgerechtigde volledige werkloosheid. (Zie: M.B. 14 januari 1998, B.S., 13 maart 1998)
+...
 
 ## HOOFDSTUK IV VASTSTELLING VAN DE PREMIE
 
 ### Tekst
 
-(- Het bedrag voor een voltijdse tewerkstelling, zoals vermeld in artikel 4, § 1, 3°, artikel 4bis, § 1, 4° en artikel 5, § 1, eerste lid is niet van toepassing op een tewerkstelling in het kader van een arbeidsovereenkomst die een aanvang nam voor 1 juli 1999 en op vervangingscontracten in geval van tijdelijke vervanging van een titularis die tewerkgesteld is in het kader van een arbeidsovereenkomst waarvan de uitvoering een aanvang nam voor 1 juli 1999 en tot zolang deze arbeidsovereenkomsten niet worden beëindigd.<br /><br />- Artikel 4, § 2 en artikel 4bis, §§ 2 en 3 blijven echter in ongewijzigde vorm van toepassing op een tewerkstelling in het kader van een arbeidsovereen-komst waarvan de uitvoering een aanvang nam voor 1 juli 1999 en op een tewerkstelling in een vervangingscontract in geval van tijdelijke vervanging van een titularis die tewerkgesteld is in het kader van een arbeidsovereenkomst waarvan de uitvoering een aanvang nam voor 1 juli 1999 en tot zolang deze arbeidsovereenkomsten niet worden beëindigd.<br /><br />- Zie B.V.R. 8 juni 1999, art. 10)
+...
 
 ### ART. 4.
 
-[Binnen de perken van een daartoe bestemd begrotingskrediet wordt, voor de aanwerving van doelgroepwerknemers onder de voorwaarden van dit besluit, het jaarbedrag van de loonpremie per doelgroepwerknemer als volgt vastgesteld:<br /><br />1 maximaal 7015 euro bij een tewerkstelling waarvan de uurregeling minstens halftijds is, evenwel verminderd met het bedrag van de integratie-uitkering of het verlaagde bestaansminimum;<br /><br />2° maximaal 11.230 euro bij een tewerkstelling die minstens vier vijfde bedraagt van de voltijdse uurregeling, evenwel ver-minderd met het bedrag van de integratie-uitkering of het verlaagde bestaansminimum;<br /><br />3° maximaal 14.030 euro bij een voltijdse tewerkstelling op basis van één arbeidsovereenkomst, evenwel verminderd met het bedrag van de integratie-uitkering of het verlaagde bestaansminimum.  <span class="reference">(verv. B.V.R. 8 juli 2005, art. 3, I: 1 januari 2005)</span> ]
+...
 
 ### ART. 4bis.
 
-<span class="reference">(ing. B.V.R. 27 oktober 1998)</span> ] [...  <span class="reference">(opgeh. B.V.R. 8 juli 2005, art. 4, I: 1 januari 2005)</span> ]
+...
 
 ### ART. 5.
 
-§ 1. [De minister kent per toegekende doelgroepwerknemer een omkaderingspremie toe aan de werkgevers, vermeld in artikel 2, § 1, 3°, ten bedrage van maximaal 25 % van 7015 euro op jaarbasis als de uurregeling minstens halftijds is, ten bedrage van maximaal 25 % van 11.230 euro op jaarbasis als de tewerkstelling minstens vier vijfden bedraagt van de voltijdse uurregeling, en ten bedrage van van maximaal 25 % van 14.030 euro op jaarbasis bij een voltijdse tewerkstelling op basis van één arbeidsovereenkomst.<br /><br />De minister kent per toegekende doelgroepwerknemer een omkaderingspremie toe aan de werkgevers, vermeld in artikel 2, § 1, 1°, ten bedrage van maximaal 15 % van 7015 euro op jaarbasis als de uurregeling minstens halftijds is, ten bedrage van van maximaal 15 % van 11.230 euro op jaarbasis als de tewerkstelling minstens vier vijfde bedraagt van de voltijdse uurregeling, en ten bedrage van maximaal 15 % van 14.030 euro op jaarbasis bij een voltijdse tewerkstelling op basis van één arbeidsovereenkomst.<br /><br />In geval het een doelgroepwerknemer betreft die minstens 36 maanden volledig vergoed werkloos is, kent de minister een omkaderingspremie toe ten belope van maximaal 35 % van 7015,00 euro op jaarbasis indien de uurregeling minstens halftijds is, ten belope van maximaal 35 % van 11230,00 euro op jaarbasis indien de tewerkstelling minstens vier vijfden bedraagt van de voltijdse uurregeling en ten belope van maximaal 35 % van 14030,00 euro op jaarbasis bij een voltijdse tewerkstelling op basis van één arbeidsovereenkomst.  <span class="reference">(verv. B.V.R. 8 juli 2005, art. 5, I: 1 januari 2005)</span> ]<br /><br />(De omkaderingspremie vermeld in artikel 5, § 1, derde lid is alleen van toepassing op doelgroepwerknemers aangeworven vanaf 1 april 2005)<br /><br />[§ 2. Zij kan slechts worden verworven in zoverre het begeleidingsplan en het geïndividualiseerd begeleidingsplan zoals bepaald in artikel 14 van dit besluit werden uitgevoerd.<br /><br />Enkel de omkaderingsuitgaven in functie van de opleiding en de begeleiding van de doelgroepwerknemers waarvoor een bewijs wordt geleverd en die in hoofde van de werkgever een meerkost vertegenwoordigen worden aanvaard.<br /><br />De werkgever maakt op straffe van terugvordering de bewijzen van de omkaderingsuitgaven van ieder kalenderjaar over aan de administratie voor 31 januari van het daaropvolgend burgerlijk jaar, indien het om een project van onbepaalde duur gaat, en vóór de laatste dag van de maand, volgend op de beëindiging van het project, indien het een project van bepaalde duur betreft.  <span class="reference">(verv. B.V.R. 8 juni 1999, art. 8, I: 1 juli 1999)</span> ]
+...
 
 ### ART. 6.
 
-De werkgever brengt de minister onmiddellijk op de hoogte, wanneer hij een andere tegemoetkoming in de loonkost van een doelgroepwerknemer ontvangt.
+...
 
 ### ART. 7.
 
-[De minister kan een premiebedrag dat lager is dan bepaald in artikel 4 toekennen als de werkgever door middel van tewerkstelling van doelgroepwerknemers inkomsten kan verwerven.  <span class="reference">(verv. B.V.R. 8 juli 2005, art. 6, I: 1 januari 2005)</span> ]
+...
 
 ### ART. 8.
 
-Voor de werkgevers vermeld in artikel 2, § 1, 3° van dit besluit evolueert het bedrag van de loonpremie en de omkaderingspremie, met uitzondering van het premiebedrag zoals bepaald in artikel 7 van dit besluit, op dezelfde wijze en in dezelfde mate als de gezondheidsindex.
+...
 
 ## HOOFDSTUK V VOORWAARDEN
 
 ### ART. 9.
 
-De werkgevers zoals bedoeld in artikel 2, § 1, 2° van dit besluit kunnen bij arbeidsovereenkomst perso-nen in dienst nemen uitsluitend om:<br /><br />a) aan uitzonderlijke en tijdelijke personeelsbehoeften te voldoen; het betreft ofwel in de tijd beperkte acties ofwel een buitengewone toename van het werk;<br /><br />b) bijkomende of specifieke opdrachten te vervullen.
+...
 
 ### ART. 10.
 
-De doelgroepwerknemers dienen werkzaamheden te verrichten in de niet-commerciële sector. Onder niet-commerciële sector wordt de sector van de werkzaamheden verstaan die tezelfdertijd:<br /><br />1) van sociaal of openbaar nut zijn of van cultureel belang;<br /><br />2) geen winst beogen;<br /><br />3) voldoen aan collectieve behoeften waaraan anders niet voldaan had kunnen worden.
+...
 
 ### ART. 11.
 
-§ 1. De werkgever sluit met de doelgroepwerknemer een arbeidsovereenkomst van bepaalde duur, en dit ten belope van maximaal twaalf maanden.<br /><br />§ 2. Per individuele tewerkstelling is de uurregeling minstens halftijds.<br /><br />§ 3. De totale tewerkstellingsduur van een doelgroepwerknemer, zowel voltijds als deeltijds, op basis van dit besluit mag niet meer bedragen dan twaalf maanden.<br /><br />[§ 4. Als de trajecttoewijzer in overleg met de begeleidingsorganisatie evenwel oordeelt dat de doelgroepwerknemer nog niet voldoende arbeidsmarktrijp is, kan in afwijking van § 3 de totale tewerkstellingsduur, zowel voltijds als deeltijds, ver-lengd worden tot maximaal achttien maanden.<br /><br />§ 5. Als de trajecttoewijzer in overleg met de begeleidingsorganisatie evenwel oordeelt dat de doelgroepwerknemer al vol-doende arbeidsmarktrijp is, kan de doelgroepwerknemer vanaf de zevende maand van tewerkstelling, zowel voltijds als deeltijds, doorstromen naar het reguliere arbeidscircuit. Als tijdens de eerste zes maanden na de doorstroming blijkt dat de doelgroepwerknemer onvoldoende arbeidsmarktrijp is en dus niet beantwoordt aan de vereisten van de betrekking, wordt die doelgroepwerknemer door de trajecttoewijzer opgenomen in een wervingslijst en wordt hij bij voorrang doorverwezen naar een vacature voor doelgroepwerknemers.  <span class="reference">(verv. B.V.R. 8 juli 2005, art. 7, I: 1 januari 2005)</span> ]
+...
 
 ### ART. 11bis.
 
-§ 1.  <span class="reference">(ing. B.V.R. 14 mei 2004, art. 6)</span> ] [In overleg tussen de werkgever, de doelgroepwerknemer, de werkgever-gebruiker en de begeleidingsorganisatie en mits goedkeuring van de trajecttoewijzer kan de doelgroep-werknemer tijdens zijn tewerkstelling ter beschikking gesteld worden bij een werkgever-gebruiker onder de voorwaarden van het koninklijk besluit van 19 februari 2003 tot vaststelling van de voorwaarden waaronder werknemers ter beschikking kunnen worden gesteld van gebruikers in het kader van doorstromingsprogramma's.<br /><br />§ 2. De maximale duur van de periodes van terbeschikkingstelling bedraagt in totaal drie maanden.<br /><br />§ 3. De werkgever, de doelgroepwerknemer en de werkgever-gebruiker sluiten voorafgaand aan de terbeschikkingstelling een overeenkomst, die minstens de volgende elementen omvat:<br /><br />1° de voorwaarden van de terbeschikkingstelling;<br /><br />2° de duur van de terbeschikkingstelling;<br /><br />3° het takenpakket van de doelgroepwerknemer;<br /><br />4° de contactpersoon in geval van vragen of problemen;<br /><br />5° de voorwaarden voor een eventuele voortijdige beëindiging van de terbeschikkingstelling.<br /><br />§ 4. Al de ondertekenende partijen ontvangen een origineel ondertekend exemplaar van de overeenkomst.<br /><br />§ 5. De werkgever verbindt zich ertoe tijdens de terbeschikkingstelling aan de doelgroepwerknemer minstens het loon, de vergoedingen en de voordelen toe te kennen die werknemers ontvangen die dezelfde functie bij de werkgever-gebruiker uitoefenen.<br /><br />De werkgever verbindt zich er eveneens toe tijdens de terbeschikkingstelling aan de doelgroepwerknemer minstens hetzelfde loon uit te betalen dat die zou genieten mocht hij bij hem tewerkgesteld zijn.<br /><br />§ 6. De werkgever-gebruiker verbindt zich ertoe:<br /><br />1° de doelgroepwerknemer een werkervaring te bieden die beantwoordt aan zijn bekwaamheden en verwachtingen;<br /><br />2° in de nodige begeleiding op de werkvloer van de doelgroepwerknemer te voorzien;<br /><br />3° de doelgroepwerknemer niet in te schakelen ter vervanging van eigen personeel;<br /><br />4° tijdens de periode van de terbeschikkingstelling de prestatiestaten van de doelgroepwerknemer in te vullen;<br /><br />5° de werkgever te verwittigen bij afwezigheid van de doelgroepwerknemer.  <span class="reference">(verv. B.V.R. 8 juli 2005, art. 8, I: 1 januari 2005)</span> ]
+...
 
 ### ART. 11ter.
 
-Ter uitvoering van artikel 11, § 4, van het decreet van 17 maart 1998 houdende diverse be-leidsbepalingen kan een door de minister hiertoe erkende organisatie, die werkgever is van de doelgroepwerknemers, hen voor een maximale duurtijd van negen maanden ter beschikking stellen van een werkgever-gebruiker, onder de voorwaar-den van het koninklijk besluit van 19 februari 2003 tot vaststelling van de voorwaarden waaronder werknemers ter be-schikking kunnen worden gesteld van gebruikers in het kader van doorstromingsprogramma's. De doelgroepwerknemers moeten ter beschikking worden gesteld overeenkomstig de bepalingen vermeld in artikel 11bis, § 3 tot en met § 6. Naast de interne begeleiding door de werkgever-gebruiker zal de organisatie zelf blijven zorgen voor een aangepaste externe begeleiding van de doelgroepwerknemers. Hiertoe sluit de organisatie met de werkgever-gebruiker een overeenkomst.  <span class="reference">(ing. B.V.R. 8 juli 2005, art. 9, I: 1 januari 2005)</span> ]
+...
 
 ### ART. 12.
 
-De tewerkstelling van doelgroepwerknemers op basis van dit besluit moet bijkomend zijn in ver-houding tot het aantal eigen personeelsleden, uitgedrukt in voltijds equivalenten, tewerkgesteld bij elke betrokken werkgever in de vier kwartalen voorafgaand aan de aanvraag. Het aantal eigen personeelsleden wordt vastgesteld door het gemiddelde te nemen over deze vier kwartalen.<br /><br />Voor de berekening hiervan wordt voor de werkgevers bepaald in artikel 2, § 1, 1° a) en 2° van dit besluit rekening gehouden met het vast benoemde, het tijdelijk en het contractueel personeel.<br /><br />Voor de werkgevers bepaald in artikel 2, § 1, 1° b) en 3° van dit besluit zijn de eigen personeelsleden deze personeelsleden waarmee een arbeidsovereenkomst werd gesloten.<br /><br />Voor de berekening wordt voor alle werkgevers rekening gehouden met:<br /><br />a) de stagiairs tewerkgesteld krachtens het koninklijk besluit nr. 230 van 21 december 1983 betreffende de stage en de inschakeling van jongeren in het arbeidsproces, zoals aangevuld door de wet van 22 december 1995 houdende maatregelen tot uitvoering van het meerjarenplan van de werkgelegenheid zoals gewijzigd bij koninklijk besluit van 17 januari 1997;<br /><br />b) de personeelsleden tewerkgesteld in een wedertewerkstellingsprogramma zoals bedoeld in artikel 6, § 1, IX, 2° van de bijzondere wet van 8 augustus 1980 tot hervorming der instellingen, gewijzigd bij de wet van 8 augustus 1988 en de bijzondere wetten van 12 januari 1989, 16 januari 1989 en 5 mei 1993, in zoverre voor deze personeelsleden een trekkings-recht wordt uitbetaald krachtens artikel 35 van de bijzondere wet van 16 januari 1989 betreffende de financiering van Gemeenschappen en Gewesten.<br /><br />De minister kan van deze bepaling afwijken, voor zover de werkgever hiertoe een gemotiveerde aanvraag indient.
+...
 
 ### ART. 13.
 
-§ 1. De doelgroepwerknemers tewerkgesteld bij de werkgevers bedoeld bij artikel 2, § 1, 2° van dit be-sluit ontvangen:<br /><br />a) een bezoldiging die gelijk is aan de wedde die aan een lid van het personeel van de Vlaamse Gemeenschap wordt toegekend voor hetzelfde ambt of voor een overeenkomstig ambt, alsook de daaraan verbonden weddeschaalverhogingen. Het nettoloon wordt evenwel verminderd met het bedrag van de integratie-uitkering of van het verlaagde bestaans-minimum;<br /><br />b) een eindejaarstoelage onder dezelfde voorwaarden als het vast benoemde personeel van de Vlaamse Gemeenschap.<br /><br />§ 2. De doelgroepwerknemers tewerkgesteld bij de werkgevers bedoeld bij artikel 2, § 1, 1° en 3° van dit besluit ontvangen dezelfde bezoldiging, verhogingen en toelagen als deze toegekend voor hetzelfde ambt of een overeenkomstig ambt in deze instellingen, verenigingen of maatschappijen. Het netto-loon wordt evenwel verminderd met het bedrag van de integratie-uitkering of van het [verlaagd leefloon.  <span class="reference">(verv. B.V.R. 14 mei 2004, art. 7, I: 1 april 2004)</span> ]<br /><br />§ 3. Wat betreft de jaarlijkse vakantie genieten de doelgroepwerknemers van hetzelfde stelsel als de contractuelen die door dezelfde werkgever worden tewerkgesteld.
+...
 
 ## HOOFDSTUK VI TOELEIDING EN BEGELEIDING
 
 ### ART. 14.
 
-§ 1. De werkgever verbindt zich ertoe de betrekkingen te laten bekleden door doelgroepwerknemers die toegeleid worden via een begeleidingsactie.<br /><br />[Die toeleiding moet zowel rekening houden met het uit te voeren takenpakket en het functionele profiel zoals gevraagd door de werkgever als met de karakteristieken van de regionale arbeidsmarkt in functie van de doelgroep.  <span class="reference">(ing. B.V.R. 8 juli 2005, art. 10, I: 1 januari 2005)</span> ]<br /><br />§ 2. De werkgever die doelgroepwerknemers wenst aan te werven dient met het oog op hun integratie in het reguliere arbeidscircuit bij zijn aanvraag een begeleidingsplan in.<br /><br />Het begeleidingsplan omvat ten minste volgende onderdelen:<br /><br />- een beschrijving van de functie-inhoud;<br /><br />- een beschrijving van de werkomstandigheden;<br /><br />- de geplande technische en attitudegerichte begeleiding van de doelgroepwerknemer op de werkvloer;<br /><br />- een beschrijving van de vacaturegerichte ondersteuning via sollicitatietraining en begeleiding;<br /><br />- de verbintenis van de werkgever om de aangeworven doelgroepwerknemers begeleidings- en opvolgingsgesprekken te laten voeren met consulenten van de VDAB of met externe consulenten door de VDAB aangeduid en dit tijdens de re-guliere arbeidsuren.<br /><br />Het begeleidingsplan voorziet waar nodig tevens in afspraken met de VDAB over aanvullende opleidingsmodules en hun modaliteiten in het verlengde van het werkervaringsproject en de verdere arbeidsmarktperspectieven van de doelgroepwerknemer, uitgevoerd door deze dienst of door een door de VDAB erkende derde.<br /><br />Het begeleidingsplan wordt geïndividualiseerd bij elke aanwerving. Dit betekent dat door de werkgever een actieplan wordt opgesteld waarin de begeleiding op maat van de individuele doelgroepwerknemer wordt bepaald.<br /><br />§ 3. Het begeleidingsplan wordt jaarlijks door de administratie geëvalueerd. Het geïndividualiseerd begeleidingsplan wordt eveneens jaarlijks door de administratie geëvalueerd, in overleg met de VDAB.<br /><br />§ 4. De minister machtigt de VDAB om, voor de begeleidings- en/of opleidingsactiviteiten die beschreven zijn in het bege-leidingsplan zoals bepaald in dit artikel, een samenwerkingsakkoord te sluiten met derden.<br /><br />§ 5. Derden waarmee een samenwerkingsakkoord is gesloten overeenkomstig § 4 van dit artikel kunnen in het kader van dit besluit geen doelgroepwerknemers toeleiden naar een tewerkstelling binnen een eigen project.
+...
 
 ## HOOFDSTUK VII PROCEDURE
 
 ### ART. 15.
 
-§ 1. De werkgever die doelgroepwerknemers wenst aan te werven, richt een aanvraag tot de admini-stratie, gebruikmakend van een formulier dat ter beschikking wordt gesteld door de administratie.<br /><br />§ 2. Het onderzoek van de aanvraag geschiedt door de bevoegde dienst van de administratie.
+...
 
 ### ART. 16.
 
-§ 1. De aanvraag tot tewerkstelling van doelgroepwerknemers door werkgevers zoals bepaald in artikel 2, § 1, 1°, 2° b) en c) en 3° van dit besluit evenals hun aanvraag tot verlenging van een project, wordt aan het advies van het [Regionaal Sociaal-economisch Overlegcomité  <span class="reference">(verv. B.V.R. 10 juni 2005, art. 4, I: 15 juli 2005)</span> ] onderworpen.<br /><br />§ 2. Het [Regionaal Sociaal-economisch Overlegcomité  <span class="reference">(verv. B.V.R. 10 juni 2005, art. 4, I: 15 juli 2005)</span> ] in wiens ambtsge-bied de plaats van tewerkstelling van de doelgroepwerknemers is gelegen, brengt ten aanzien van de minister een gemotiveerd advies uit binnen zevenentwintig dagen te rekenen vanaf de derde dag nadat de adviesaanvraag is verstuurd. Indien er verschillende plaatsen van tewerkstelling zijn, is elk [Regionaal Sociaal-economisch Overlegcomité  <span class="reference">(verv. B.V.R. 10 juni 2005, art. 4, I: 15 juli 2005)</span> ] bevoegd in wiens ambtsgebied een plaats van tewerkstelling ligt.<br /><br />Dit advies heeft inzonderheid betrekking op het belang van het project in het kader van de regionale tewerkstellings-politiek, op de waarborgen inzake een goede voltooiing van de geplande werkzaamheden en op het eventueel samenvallen of de eventuele concurrentie van die werkzaamheden met andere regionale initiatieven en met de commerciële sector, op de complementariteit ten aanzien van andere herinschakelingsinitiatieven, op het begeleidingsplan, op de verhoging van de doorstromingskansen naar het reguliere arbeidscircuit en op de vertegenwoordiging op subregionaal niveau van de bijzondere doelgroepen zoals bepaald in § 4 van dit artikel.<br /><br />Indien de minister binnen deze termijn het advies van het [Regionaal Sociaal-economisch Overlegcomité  <span class="reference">(verv. B.V.R. 10 juni 2005, art. 4, I: 15 juli 2005)</span> ] niet heeft ontvangen, wordt het geacht te zijn uitgebracht.<br /><br />§ 3. De minister deelt de beslissing de aanvraag al dan niet goed te keuren mee aan het [Regionaal Sociaal-economisch Overlegcomité  <span class="reference">(verv. B.V.R. 10 juni 2005, art. 4, I: 15 juli 2005)</span> ] en motiveert wanneer het advies niet wordt gevolgd of geacht werd te zijn uitgebracht overeenkomstig de voorgaande paragraaf.<br /><br />§ 4. Elk [Regionaal Sociaal-economisch Overlegcomité  <span class="reference">(verv. B.V.R. 10 juni 2005, art. 4, I: 15 juli 2005)</span> ] dient binnen zijn bevoegdheidsgebied en binnen de bepalingen van artikel 3 van dit besluit jaarlijks bijzondere doelgroepen te bepalen die moeten worden tewerkgesteld. Het aandeel van de bijzondere doelgroepen wordt per bevoegdheidsgebied bepaald in verhouding tot hun aandeel in de beroepsbevolking van dit gebied.
+...
 
 ### ART. 17.
 
-§ 1. Wat de werkgevers, zoals bepaald in artikel 2, § 1, 2° a) van dit besluit betreft, moet de aanvraag aan het voorafgaand akkoord van de minister, bevoegd voor ambtenarenzaken worden onderworpen. Dit geldt tevens voor de aanvragen van de werkgevers, zoals bepaald in artikel 2, § 1, 2° c) van dit besluit voor zover de Vlaamse regering hun personeelsstatuut vaststelt.<br /><br />§ 2. Dit akkoord betreft het naleven van de in artikel 9 van dit besluit voorziene bepalingen en wordt uitgebracht binnen 27 dagen, ingaande de derde dag volgend op de vraag tot voorafgaand akkoord. Na het verstrijken van deze termijn wordt het akkoord beschouwd als zijnde uitgebracht.<br /><br />§ 3. De werkgevers bedoeld in artikel 2, § 1, 1° en 2° a) en c) van dit besluit dienen bij de indiening van de aanvraag de onderhandelingsprocedure bedoeld bij de wet van 19 december 1974 tot regeling van de betrekkingen tussen de overheid en de vakbonden van haar personeel na te leven.
+...
 
 ### ART. 18.
 
-§ 1. De minister houdt in zijn beslissing rekening met een evenredige spreiding van de doelgroep-werknemers over alle [Regionale Sociaal-economische Overlegcomités  <span class="reference">(verv. B.V.R. 10 juni 2005, art. 4, I: 15 juli 2005)</span> ] in verhouding tot het aandeel van de doelgroepwerknemers van elk [Regionaal Sociaal-economisch Overlegcomité  <span class="reference">(verv. B.V.R. 10 juni 2005, art. 4, I: 15 juli 2005)</span> ] in het totaal aantal sedert minstens 24 maanden uitkeringsgerechtigd volledig werklozen en sedert minstens 12 maanden bestaansminimumgerechtigden van het Vlaamse Gewest.<br /><br />§ 2. De minister betekent de beslissing betreffende de aanvraag aan de werkgever.<br /><br />§ 3. De minister betekent de beslissing over de goedkeuring van de aanvraag aan de VDAB.
+...
 
 ### ART. 19.
 
-De werkgever dient een nieuwe aanvraag in voor elke uitbreiding van de oorspronkelijke beslissing. Hierbij maakt hij gebruik van een door de administratie ter beschikking gestelde formulier.<br /><br />Dergelijke nieuwe aanvragen vanwege een werkgever, zoals bepaald in artikel 2, § 1, 1° en 3° van dit besluit, worden aan het advies van het bevoegde [Regionaal Sociaal-economisch Overlegcomité  <span class="reference">(verv. B.V.R. 10 juni 2005, art. 4, I: 15 juli 2005)</span> ] voorgelegd, wanneer deze uitbreiding betrekking heeft op meer dan één voltijds equivalent.<br /><br />Voor dergelijke nieuwe aanvragen vanwege een werkgever, zoals bepaald in artikel 2, § 1, 2° van dit besluit, is de procedure vermeld in artikel 17 van dit besluit van toepassing.<br /><br />De minister betekent de beslissing zoals bepaald in artikel 18.
+...
 
 ### ART. 20.
 
-De werkgever dient een aanvraag in voor elke wijziging aan de goedgekeurde aanvraag en voor elke geplande wijziging van de werkzaamheden. Vooraleer er enig begin van uitvoering aan wordt gegeven, is de goedkeuring van de minister vereist.
+...
 
 ### ART. 21.
 
-De minister stelt het bedrag vast dat de VDAB stort voor de tiende van de lopende kalendermaand. De uitbetaling van de loonpremie, zoals bedoeld en met een maximum zoals vermeld in artikel 4 van dit besluit, geschiedt in verhouding tot de duur van de arbeidsovereenkomst, de loonkost en het arbeidsstelsel. Dit bedrag wordt verrekend op basis van de effectieve tewerkstelling binnen het kader van de toegekende premies voor de betrokken maand. Er is slechts recht op een loonpremie voor de werkelijk gepresteerde en daarmee gelijkgestelde arbeidsdagen. De uitbetaalde loonpremie mag de loonkost niet overschrijden.
+...
 
 ### ART. 22.
 
-§ 1. De indienstneming van de doelgroepwerknemers dient te geschieden binnen [zes maanden  <span class="reference">(verv. B.V.R. 14 mei 2004, art. 8, I: 1 april 2004)</span> ] te rekenen vanaf de betekening van de beslissing. Voor projecten waarvoor tewerkstelling is fases zich opdringt, gaan de aanwervingstermijnen slechts in op de in de beslissing aangegeven data. Na deze termijn vervalt het recht op de toegekende premie voor de arbeidsplaatsen die niet zijn ingenomen.<br /><br />§ 2. Met iedere wijziging aan de beslissing gaat een nieuwe aanwervings- of vervangingstermijn in van [zes maanden  <span class="reference">(verv. B.V.R. 14 mei 2004, art. 8, I: 1 april 2004)</span> ] voor alle arbeidsplaatsen waarop de wijziging betrekking heeft. Bij verlenging van het project gaat een nieuwe aanwervings- of vervangingstermijn in van drie maanden voor alle arbeidsplaatsen.<br /><br />§ 3. Een uitdienstgetreden doelgroepwerknemer kan, met behoud van de toegekende premie, worden vervangen indien deze vervanging gebeurt binnen [zes maanden  <span class="reference">(verv. B.V.R. 14 mei 2004, art. 8, I: 1 april 2004)</span> ] te rekenen vanaf de dag van de uitdiensttreding van de te vervangen werknemer.<br /><br />§ 4. [...  <span class="reference">(opgeh. B.V.R. 14 mei 2004, art. 8, I: 1 april 2004)</span> ]
+...
 
 ### ART. 23.
 
-De directeur van de subregionale tewerkstellingsdienst van de VDAB draagt de werknemers voor die als doelgroepwerknemer zullen worden tewerkgesteld, rekening houdend met de structuur van de werkloosheid in het ambtsgebied van de subregionale tewerkstellingsdienst en met toelatingsvoorwaarden zoals bepaald in de artikelen 2 en 3 van dit besluit.
+...
 
 ### ART. 24.
 
-De werkgever vult bij de aanwerving van iedere doelgroepwerknemer een door de administratie ter beschikking gesteld inlichtingenblad in en maakt dit over aan de administratie. Telkens zich een wijziging in de verstrekte gegevens voordoet dient de werkgever onverwijld een vervangend inlichtingenblad over te maken.
+...
 
 ## HOOFDSTUK VIII GARANTIEBEPALINGEN TEN VOORDELE VAN DE WERKNEMERS
 
 ### ART. 25.
 
-De doelgroepwerknemers mogen afwezig zijn met behoud van hun loon om in te gaan op een werk-aanbieding; zij moeten in dit geval een attest voorleggen waarop het uur van het bezoek wordt vermeld.
+...
 
 ### ART. 26.
 
-Onverminderd de wettelijke, reglementaire en conventionele bepalingen die de voorrang regelen van de werknemers tewerkgesteld met een arbeidsovereenkomst voor deeltijdse arbeid of een arbeidsovereenkomst voor tewerkstelling van huisarbeiders regelen, moeten de werkgevers bedoeld in artikel 2, § 1, 3° een vacant verklaarde voltijdse of deeltijdse betrekking in een overeenstemmende functie bij voorrang laten innemen door een bij hem tewerkgestelde doelgroepwerknemer.
+...
 
 ## HOOFDSTUK IX TOEZICHT EN NALEVING
 
 ### ART. 27.
 
-§ 1. De bevoegd diensten van de administratie zien toe op de naleving door de werkgever van de te-werkstelling van de doelgroepwerknemer onder de voorwaarden voorzien in dit besluit.<br /><br />Zij zien er tevens op toe dat de werkgever de doelgroepwerknemers tewerkstelt voor de taken zoals omschreven in de goedgekeurde aanvraag.<br /><br />Bij dringende en dwingende omstandigheden kunnen de inspecteurs van de administratie als voorlopig bewarende maatregel beslissen niet-ingenomen arbeidsplaatsen binnen een project niet meer te laten opvullen. Deze maatregel wordt onmiddellijk ter kennis gebracht van de minister en de VDAB en blijft gelden tot op de datum waarop de minister over de grond van de bewarende maatregelen een beslissing neemt.<br /><br />§ 2. Het [Regionaal Sociaal-economisch Overlegcomité  <span class="reference">(verv. B.V.R. 10 juni 2005, art. 4, I: 15 juli 2005)</span> ] onder wiens be-voegdheid de goedgekeurde beslissing valt, kan steeds een vraag tot controle richten tot de administratie. De administratie informeert het subregionaal tewerkstellingscomité over de bevindingen van het onderzoek.
+...
 
 ### ART. 28.
 
-De minister kan het project beëindigen mits de beslissing tot stopzetting zes volle maanden voor de beëindiging aan de werkgever wordt betekend.
+...
 
 ### ART. 29.
 
-§ 1. De minister kan het project beëindigen indien de werkgever, zoals bepaald in artikel 2, § 1, 2° van dit besluit de doelgroepwerknemers andere werkzaamheden laat uitvoeren dan bepaald in artikel 9 van dit besluit.<br /><br />§ 2. De minister kan het project beëindigen of het toegekende aantal doelgroepwerknemers verminderen indien de werkgever de doelgroepwerknemers andere werkzaamheden laat verrichten dan werkzaamheden in de niet-commerciële sector, zoals bepaald in artikel 10 van dit besluit. Deze beslissing kan een aanvang nemen vanaf de dag waarop de inbreuk werd vastgesteld. De beslissing tot vermindering van het aantal doelgroepwerknemers geldt uitsluitend voor die doel-groepwerknemers die tewerkgesteld worden voor niet-toegestane werkzaamheden.<br /><br />§ 3. De minister kan het project beëindigen indien de werkgever de voorwaarden, zoals bepaald in artikel 12 van dit besluit niet naleeft. De beëindiging van het project kan een aanvang nemen vanaf de dag waarop de inbreuk werd vastgesteld.<br /><br />§ 4. De minister kan het project beëindigen, indien de werkgever de voorwaarden van het begeleidingsplan en het geïndi-vidualiseerd begeleidingsplan, zoals bepaald in artikel 14 van dit besluit niet naleeft.<br /><br />§ 5. De minister kan het project beëindigen indien de werkgever nalaat melding te maken van een ontvangen tegemoetkoming in de loonkost die aan eenzelfde tewerkstelling wordt toegekend. De beslissing kan een aanvang nemen vanaf de dag waarop de arbeidsplaats werd gesubsidieerd.<br /><br />§ 6. De minister kan het project beëindigen of het toegekende aantal doelgroepwerknemers verminderen indien de werkgever zijn doelgroepwerknemers taken laat uitvoeren dan deze toegestaan in de beslissing tot goedkeuring van de aanvraag. De beslissing kan een aanvang nemen vanaf de dag waarop de inbreuk werd vastgesteld en geldt uitsluitend voor die doelgroepwerknemers die tewerkgesteld worden voor niettoegestane werkzaamheden.<br /><br />§ 7. De minister kan het project beëindigen indien de werkgever de administratie niet tijdig de nodige gegevens zoals bepaald in artikel 24 meedeelt.<br /><br />§ 8. De minister kan het project beëindigen indien vastgesteld werd dat de werkgever zware of herhaalde inbreuken heeft gepleegd tegen de regelen van de arbeids- en sociale wetgeving.
+...
 
 ### ART. 30.
 
-De minister betekent de beslissing tot beëindiging van het project of vermindering van het aantal doelgroepwerknemers aan de werkgever, aan de VDAB, aan het [Regionaal Sociaal-economisch Overlegcomité  <span class="reference">(verv. B.V.R. 10 juni 2005, art. 4, I: 15 juli 2005)</span> ] en in voorkomend geval aan de minister bevoegd voor ambtenarenzaken.
+...
 
 ### ART. 31.
 
-Onrechtmatig verkregen premies worden ingevorderd of ingehouden op de later aan de werkgever verschuldigde bedragen. Zo nodig laat de administrateur-generaal van de VDAB de dossiers van de weerspannige debiteurs overzenden aan het Bestuur van de BTW en van de registratie en domeinen. De door hoger benoemd Bestuur in te stellen vervolgingen geschieden overeenkomstig artikel 3 van de domaniale wet van 22 december 1949, zoals bij decreet van 23 december 1986 toepasbaar gesteld voor het Vlaamse Gewest; de aldus ingevorderde bedragen worden na aftrek van de eventuele kosten aan de VDAB terugbetaald.
+...
 
 ## HOOFDSTUK X SLOTBEPALINGEN
 
 ### ART. 32.
 
-Dit besluit treedt in werking met ingang van 1 juni 1997.
+...
 
 ### ART. 33.
 
-De Vlaamse minister bevoegd voor het tewerkstellingsbeleid is belast met de uitvoering van dit besluit.
+...
