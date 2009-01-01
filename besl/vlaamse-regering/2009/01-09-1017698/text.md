@@ -16,6 +16,10 @@ De volgende personeelsleden van het Agentschap voor Landbouw en Visserij worden 
 
 De volgende personeelsleden van het Departement Landbouw en Visserij worden overgedragen aan het Agentschap voor Landbouw en Visserij : <br />1° DUMON, Anita, ingenieur;<br />2° ROGGEMANS, Greet, deskundige;<br />3° VAN WESEMAEL, Anne, medewerker.
 
+### ART. 4.
+
+Het volgende personeelslid van het Departement Landbouw en Visserij wordt overgedragen aan het Agentschap voor Landbouw en Visserij : <br />WLEKLY, Guido, technisch assistent.
+
 ### ART. 5.
 
 Iedere belanghebbende wordt op de hoogte gebracht van dit besluit.
