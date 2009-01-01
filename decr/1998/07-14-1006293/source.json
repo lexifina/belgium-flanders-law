@@ -2,16 +2,16 @@
   "codex_id": 1006293,
   "title": "Decreet van 1998-07-14 houdende diverse maatregelen met betrekking tot het secundair onderwijs en tot wijziging van het decreet van 25 februari 1997 betreffende het basisonderwijs",
   "type": "Decreet",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1006293/VolledigDocument?datum=2008-10-01",
-  "source_sha256": "8daf2696a6d8c5446052893f892f3b01b54007240f029a96716ce6043286b88c",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1006293/VolledigDocument?datum=2009-01-01",
+  "source_sha256": "de7a801704052bbc099953cc47dcc65852a5794b18cc2912c33ba5daf93b9695",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1006293&param=informatie",
-  "as_of": "2008-10-01",
+  "as_of": "2009-01-01",
   "made": "1998-07-14",
   "gazette": "1998-08-29",
   "numac": 1998035933,
   "document_start": null,
   "document_end": "2011-04-30",
-  "in_force": "2008-10-01",
+  "in_force": "2009-01-01",
   "article_versions": 215,
-  "record_form": "consolidated version as in force on 2008-10-01; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2009-01-01; future article versions excluded; article text as the API gives it"
 }
