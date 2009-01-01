@@ -124,7 +124,7 @@ De Vlaamse regering wijst de ambtenaren aan deel uitmakend van de Vlaamse Belast
 
 ### ART. 28.
 
-De vordering tot voldoening van de heffing, van de intresten en administratieve geldboete verjaart na 5 jaar, te rekenen vanaf de dag waarop zij is ontstaan. De verjaring wordt gestuit op de wijze en onder de voorwaarden bepaald bij artikel 2242 en volgende van het Burgerlijk Wetboek.
+...
 
 ### ART. 29.
 
@@ -144,7 +144,7 @@ Als de heffing, intresten en administratieve geldboete niet voldaan worden, kunn
 
 ### ART. 33.
 
-Inzoverre dit hoofdstuk en de besluiten genomen ter uitvoering ervan er niet afwijken, zijn de regels betreffende de invordering, de verwijl- en moratoire intresten, de vervolgingen, de voorrechten, de wettelijke hypotheek, de verjaring alsmede de vestiging inzake rijksinkomstenbelastingen mutatis mutandis van toepassing op de in dit hoofdstuk bedoelde heffingen en administratieve geldboeten [met uitzondering van titel VII, hoofdstuk VIII, afdeling IVbis, van het Wetboek van de inkomstenbelastingen 1992, zoals ingevoegd bij artikel 332 van de Programmawet van 27 december 2004.  <span class="reference">(ing. decr. 24 juni 2005, art. 37, I: 3 september 2005)</span> ]
+Inzoverre dit hoofdstuk en de besluiten genomen ter uitvoering ervan er niet afwijken, zijn de regels betreffende de invordering, de verwijl- en moratoire intresten, de vervolgingen, de voorrechten, de wettelijke hypotheek, de aansprakelijkheid en plichten van sommige ministeriële officieren, openbare ambtenaren en andere personen, de verjaring alsmede de vestiging inzake de onroerende voorheffing, zoals van toepassing in het Vlaamse Gewest, mutatis mutandis van toepassing op de in dit hoofdstuk bedoelde heffingen en administratieve geldboeten met uitzondering van titel VII, hoofdstuk VIII, afdeling IVbis, van het Wetboek van de inkomstenbelastingen 1992, zoals ingevoegd bij artikel 332 van de Programmawet van 27 december 2004.
 
 ## AFDELING 3 OPSCHORTING VAN DE HEFFING
 
