@@ -1,0 +1,17 @@
+{
+  "codex_id": 1018398,
+  "title": "Ministerieel besluit van 2009-06-25 houdende wijziging van het ministerieel besluit van 3 maart 2006 betreffende de zoogkoeienpremie",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1018398/VolledigDocument?datum=2009-01-01",
+  "source_sha256": "5f553ed40271e39fb485dde82c8c3528ef1cbe2e3061a077963d1e9f90012d91",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1018398&param=informatie",
+  "as_of": "2009-01-01",
+  "made": "2009-06-25",
+  "gazette": "2009-09-23",
+  "numac": 2009035902,
+  "document_start": "2009-01-01",
+  "document_end": null,
+  "in_force": "2009-01-01",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2009-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
