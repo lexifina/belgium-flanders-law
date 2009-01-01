@@ -1,0 +1,17 @@
+{
+  "codex_id": 1017119,
+  "title": "Besluit van de Vlaamse Regering van 2008-07-10 betreffende de legitimatiekaarten van de personeelsleden van de diensten van de Vlaamse overheid die belast zijn met inspectie- of controlebevoegdheden",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1017119/VolledigDocument?datum=2009-01-01",
+  "source_sha256": "2e89d69ba97a254c1a289f2980051ee711e029904157f9252bd5a46c296f5592",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1017119&param=informatie",
+  "as_of": "2009-01-01",
+  "made": "2008-07-10",
+  "gazette": "2008-10-03",
+  "numac": 2008203438,
+  "document_start": "2009-01-01",
+  "document_end": null,
+  "in_force": "2009-01-01",
+  "article_versions": 10,
+  "record_form": "consolidated version as in force on 2009-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
