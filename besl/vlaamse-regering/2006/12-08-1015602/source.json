@@ -2,16 +2,16 @@
   "codex_id": 1015602,
   "title": "Besluit van de Vlaamse Regering van 2006-12-08 betreffende de ondersteuning van de Industriële Onderzoeksfondsen in 2006 en 2007",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1015602/VolledigDocument?datum=2008-01-01",
-  "source_sha256": "dcb8459d76ff9a0b01f71550c5d26c94e1f596c6f9cea63b2961d24c82ca9ade",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1015602/VolledigDocument?datum=2009-01-01",
+  "source_sha256": "4d9d2860518d28738b03216cea6d9e7167d494f8e1fb88c238273fee255733e8",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1015602&param=informatie",
-  "as_of": "2008-01-01",
+  "as_of": "2009-01-01",
   "made": "2006-12-08",
   "gazette": "2007-03-02",
   "numac": 2007035252,
   "document_start": "2006-01-01",
   "document_end": "2008-12-31",
-  "in_force": "2008-01-01",
+  "in_force": "2009-01-01",
   "article_versions": 17,
-  "record_form": "consolidated version as in force on 2008-01-01; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2009-01-01; future article versions excluded; article text as the API gives it"
 }
