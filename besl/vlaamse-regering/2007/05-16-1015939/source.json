@@ -2,16 +2,16 @@
   "codex_id": 1015939,
   "title": "Besluit van de Vlaamse Regering van 2007-05-16 houdende subsidiëring van bedrijventerreinen",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1015939/VolledigDocument?datum=2007-01-01",
-  "source_sha256": "c38cfb98807f58a6e258e5557d78674c9647494912cc281ea6ff0e0f87c409bb",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1015939/VolledigDocument?datum=2009-01-01",
+  "source_sha256": "501f9528fc681d4e3dcfcab6f8887e5d6dde24acc233f039f73b33b04b0e5c42",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1015939&param=informatie",
-  "as_of": "2007-01-01",
+  "as_of": "2009-01-01",
   "made": "2007-05-16",
   "gazette": "2007-07-05",
   "numac": 2007035997,
   "document_start": "2007-01-01",
   "document_end": "2013-07-19",
-  "in_force": "2007-01-01",
+  "in_force": "2009-01-01",
   "article_versions": 46,
-  "record_form": "consolidated version as in force on 2007-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2009-01-01; future article versions excluded; article text as the API gives it"
 }
