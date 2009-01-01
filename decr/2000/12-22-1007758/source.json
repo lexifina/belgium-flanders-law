@@ -2,16 +2,16 @@
   "codex_id": 1007758,
   "title": "Decreet van 2000-12-22 houdende oprichting van een Financieringsfonds voor Schuldafbouw en Eenmalige Investeringsuitgaven",
   "type": "Decreet",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1007758/VolledigDocument?datum=2006-06-01",
-  "source_sha256": "6cbd43ac49e3af2ef55ebfe55832371fc7211b95fb80c6f28ee492a39834586a",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1007758/VolledigDocument?datum=2009-01-01",
+  "source_sha256": "0399740a3c4a796797bd0f70aed2156411195d193b4b70f7e2d4ef75be598b12",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1007758&param=informatie",
-  "as_of": "2006-06-01",
+  "as_of": "2009-01-01",
   "made": "2000-12-22",
   "gazette": "2000-12-30",
   "numac": 2000036311,
   "document_start": "2000-12-31",
   "document_end": "2015-12-30",
-  "in_force": "2006-06-01",
+  "in_force": "2009-01-01",
   "article_versions": 6,
-  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2009-01-01; future article versions excluded; article text as the API gives it"
 }
