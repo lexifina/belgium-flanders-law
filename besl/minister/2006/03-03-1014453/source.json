@@ -2,16 +2,16 @@
   "codex_id": 1014453,
   "title": "Ministerieel besluit van 2006-03-03 betreffende de zoogkoeienpremie",
   "type": "Ministerieel besluit",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1014453/VolledigDocument?datum=2008-01-01",
-  "source_sha256": "4c098a4196652333ec12f16ebecd025aad4cd3a83ae760b704bf3f6e28b1d587",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1014453/VolledigDocument?datum=2009-01-01",
+  "source_sha256": "bf64763c5b7c86035d65b27a039bfa3c402602af402d8afc851adcc7855fae8f",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1014453&param=informatie",
-  "as_of": "2008-01-01",
+  "as_of": "2009-01-01",
   "made": "2006-03-03",
   "gazette": "2006-04-21",
   "numac": 2006035584,
   "document_start": "2005-01-01",
   "document_end": null,
-  "in_force": "2008-01-01",
+  "in_force": "2009-01-01",
   "article_versions": 16,
-  "record_form": "consolidated version as in force on 2008-01-01; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2009-01-01; future article versions excluded; article text as the API gives it"
 }
