@@ -2,16 +2,16 @@
   "codex_id": 1014768,
   "title": "Ministerieel besluit van 1997-08-07 tot vaststelling van aanvullende voorwaarden tot erkenning van organismen belast met de controle op de biologische productiemethode en aanduidingen dienaangaande op landbouwproducten en levensmiddelen",
   "type": "Ministerieel besluit",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1014768/VolledigDocument?datum=2006-06-01",
-  "source_sha256": "2789a5d3ee81c156e7782fcc50374af4625f2711bd64ec14c6287c9cf2bdf320",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1014768/VolledigDocument?datum=2009-01-01",
+  "source_sha256": "221ca09aff4dc5d424e16a1615339cdf72a389a7c0738ccb55b2a059496b89ef",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1014768&param=informatie",
-  "as_of": "2006-06-01",
+  "as_of": "2009-01-01",
   "made": "1997-08-07",
   "gazette": "1997-08-29",
   "numac": 1997016215,
   "document_start": "1997-09-08",
   "document_end": "2008-12-31",
-  "in_force": "2006-06-01",
+  "in_force": "2009-01-01",
   "article_versions": 7,
-  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2009-01-01; future article versions excluded; article text as the API gives it"
 }
