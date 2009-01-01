@@ -10,11 +10,11 @@ Voor de toepassing van dit besluit wordt verstaan onder:<br /><br />1° het decr
 
 ### ART. 2.
 
-De legitimatiekaart vertoont de volgende kenmerken:<br /><br />1° de legitimatiekaart heeft een lengte van 85 mm en een breedte van 53 mm;<br /><br />2° de legitimatiekaart is een gele kaart, geplastificeerd en met afgeronde hoeken.
+De legitimatiekaart wordt toegekend in overeenstemming met het besluit van de Vlaamse Regering van 10 juli 2008 betreffende de legitimatiekaarten van de personeelsleden van de diensten van de Vlaamse overheid die belast zijn met inspectie- of controlebevoegdheden.
 
 ### ART. 3.
 
-De legitimatiekaart bevat de volgende opschriften:<br /><br />1° op de voorzijde:<br /><br />a) het opschrift "ministerie van de Vlaamse Gemeenschap", met daaronder de titel "legitimatiekaart" en daaronder "sociaalrechtelijk inspecteur";<br /><br />b) links bovenaan een pasfoto van de titularis van de legitimatiekaart, met een minimumgrootte van 20 mm op 30 mm;<br /><br />c) rechts bovenaan het logo van het ministerie van de Vlaamse Gemeenschap;<br /><br />d) gecentreerd de voornaam en de achternaam van de titularis;<br /><br />e) rechts onderaan de gedrukte tekst: "(handtekening titularis)" en een ruimte voor de handtekening van de titularis;<br /><br />2° op de achterzijde:<br /><br />a) bovenaan: "Toezichthouder op de regelgeving, bedoeld in artikel 2 van het decreet houdende sociaalrechtelijk toezicht";<br /><br />b) daaronder: "Ter uitvoering van artikel 5 van het decreet houdende sociaalrechtelijk toezicht, zullen de aangestelde overheden de betrokkene in deze hoedanigheid erkennen en hem hulp en bescherming verlenen bij de uitoefening van zijn ambt";<br /><br />c) onderaan de vermelding "De Vlaamse minister, bevoegd voor het tewerkstellingsbeleid en de beroepsomscholing en -bijscholing, (voor- en achternaam + handtekening), Brussel (datum van ondertekening)".
+...
 
 ### ART. 4.
 
@@ -22,7 +22,7 @@ De minister wijst de beëdigde sociaalrechtelijke inspecteurs, belast met de con
 
 ### ART. 5.
 
-Als aan zijn aanwijzing een einde komt, bezorgt de sociaalrechtelijk inspecteur de legitimatiekaart onmiddellijk terug aan de centrale inspectieautoriteit of aan de vervanger van het afdelingshoofd.<br /><br />Daarenboven moet het verlies van de legitimatiekaart onmiddellijk gemeld worden aan hetzelfde afdelingshoofd of zijn vervanger.
+Als aan zijn aanwijzing een einde komt, bezorgt de sociaalrechtelijk inspecteur de legitimatiekaart onmiddellijk terug. Daarenboven moet het verlies van de legitimatiekaart onmiddellijk gemeld worden.
 
 ## HOOFDSTUK III BEPALINGEN OVER HET OPLEGGEN VAN ADMINISTRATIEVE GELDBOETEN
 
