@@ -406,21 +406,23 @@ De volgende besluiten worden opgeheven :<br />1° het besluit van de Vlaamse Reg
 
 ### ART. 70.
 
-<p>§ 1. Met behoud van de toepassing van § 2, § 3 en § 4, wordt voor de jaren 2008 tot en met 2010 de huurprijs voor de sociale huisvestingsmaatschappijen en de VMSW berekend op basis van artikel 38 tot en met 50, met dien verstande dat :<br>
-1° de basishuurprijs, vermeld in artikel 38, eerste lid, voor huurovereenkomsten afgesloten voor de inwerkingtreding van dit besluit, voorlopig vastgesteld wordt op 1 januari 2008 en definitief vastgesteld wordt op 1 januari 2009;<br>
+§ 1. Met behoud van de toepassing van § 2, § 3 en § 4, wordt voor de jaren 2008 tot en met 2010 de huurprijs voor de sociale huisvestingsmaatschappijen en de VMSW berekend op basis van artikel 38 tot en met 50, met dien verstande dat :<br>
+1° de basishuurprijs, vermeld in artikel 38, eerste lid, voor huurovereenkomsten afgesloten voor de inwerkingtreding van dit besluit, voorlopig vastgesteld wordt op 1 januari 2008 en op 1 januari 2009 en definitief vastgesteld wordt op 1 januari 2010;<br>
 2° de actualisatie van de basishuurprijs, vermeld in artikel 49, tweede lid, in huurovereenkomsten die werden afgesloten voor de inwerkingtreding van dit besluit, wordt uitgevoerd op 1 januari van het negende jaar na de definitieve vaststelling van de basishuurprijs, vermeld in 1°;<br>
-3° als de in 2008 voorlopig vastgestelde basishuurprijs, geactualiseerd naar 2009 met toepassing van artikel 40, lager is dan de in 2009 definitief vastgestelde basishuurprijs, en als de reële huurprijs op 31 december 2008 gelijk is aan de voorlopig vastgestelde basishuurprijs, dan mag de basishuurprijs, zolang dezelfde huurovereenkomst blijft doorlopen, tijdens de jaren 2009 en 2010 voor de toepassing in § 3, tweede lid en § 4, derde lid, worden verminderd met de volgende bedragen :<br>
-a) in 2009 met tweederde van het verschil tussen de in 2009 definitief vastgestelde basishuurprijs en de in 2008 voorlopig vastgestelde basishuurprijs;<br>
+2°bis de voorlopige basishuurprijs op 1 januari 2009, is gelijk aan de marktwaarde die wordt vastgesteld op basis van artikel 41, met dien verstande dat de verhuurder die waarde voor de toepassing in 2010 nog kan aanpassen in overleg met de VMSW en na evaluatie van deze vaststelling door de VMSW;<br>
+3° als de in 2008 voorlopig vastgestelde basishuurprijs lager is dan de in 2009 voorlopig vastgestelde basishuurprijs, en als de reële huurprijs op 31 december 2008 gelijk is aan de voorlopig vastgestelde basishuurprijs, dan mag de basishuurprijs, zolang dezelfde huurovereenkomst blijft doorlopen, tijdens de jaren 2009 en 2010 voor de toepassing in § 3, tweede lid en § 4, derde lid, worden verminderd met de volgende bedragen :<br>
+a) in 2009 met tweederde van het verschil tussen de in 2009 voorlopig vastgestelde basishuurprijs en de in 2008 voorlopig vastgestelde basishuurprijs;<br>
 b) in 2010 met een derde van het verschil tussen de in 2010 geldende basishuurprijs en de in 2008 voorlopig vastgestelde basishuurprijs;<br>
 4° de minimale huurprijs, vermeld in artikel 42, gelijkgesteld wordt met de helft van de referentiehuurprijs, vermeld in § 2;<br>
 5° de patrimoniumkorting, vermeld in artikel 43, niet wordt vastgesteld;<br>
-6° de maandelijkse vergoeding voor onderbezetting, vermeld in artikel 50, in 2008 niet wordt toegepast.<br>
+6° de maandelijkse vergoeding voor onderbezetting, vermeld in artikel 50, pas wordt toegepast nadat de minister het vooropgestelde aantal bewoners en de wijze van opname daarvan in het interne huurreglement heeft vastgesteld.<br>
 <br>
 § 2. Voor de jaren 2008 tot en met 2010 stelt de verhuurder voor iedere woning jaarlijks op 1 januari een referentiehuurprijs vast, die als basis dient voor de huurprijsberekening tijdens dat jaar. De verhuurder kan deze referentiehuurprijs wijzigen bij het aangaan van een nieuwe huurovereenkomst in de loop van het jaar, of na afloop van werkzaamheden die op kosten van de verhuurder aan de woning zijn uitgevoerd en die aanleiding geven tot een verhoging van de marktwaarde met minimaal 10 % ten opzichte van de basishuurprijs, vermeld in artikel 38.<br>
 <br>
 De minister geeft richtlijnen, ondermeer met betrekking tot minimale waarden voor de referentiehuurprijzen, die de verhuurder in staat moeten stellen om door middel van de vaststelling van de referentiehuurprijs de aangepaste huurprijs, vermeld in § 3, te laten evolueren naar de aangepaste huurprijs, vermeld in artikel 46.<br>
 <br>
-§ 3. In afwijking van artikel 46, is de aangepaste huurprijs voor de jaren 2008 tot en met 2010 gelijk aan het resultaat van de hieronder vermelde formule :</p>
+§ 3. In afwijking van artikel 46, is de aangepaste huurprijs voor de jaren 2008 tot en met 2010 gelijk aan het resultaat van de hieronder vermelde formule :
+<p>&nbsp;</p>
 
 <table border="1" cellpadding="0" cellspacing="0" style="border-collapse:collapse">
 	<tbody>
@@ -543,8 +545,8 @@ De minister geeft richtlijnen, ondermeer met betrekking tot minimale waarden voo
 <br>
 De begrenzing, vermeld in het tweede lid, is :<br>
 1° 1/59e van het inkomen in het jaar 2008;<br>
-2° 1/57e van het inkomen in het jaar 2009;<br>
-3° 1/55e van het inkomen in het jaar 2010.<br>
+2° 1/59e van het inkomen in het jaar 2009;<br>
+3° 1/57e van het inkomen in het jaar 2010.<br>
 <br>
 § 4. Tijdens de jaren 2008 tot en met 2010, wordt de aangepaste huurprijs, zoals bepaald in § 3, jaarlijks vergeleken met de oorspronkelijke huurprijs, die het resultaat is van de volgende formule :<br>
 (I + 1 773 euro/18 608 euro - G) x referenciehuurprijs<br>
@@ -565,8 +567,8 @@ De oorspronkelijke huurprijs mag niet hoger zijn dan enerzijds de basishuurprijs
 <br>
 De begrenzing, vermeld in het derde lid, is :<br>
 1° 1/59ste van het inkomen in het jaar 2008;<br>
-2° 1/57ste van het inkomen in het jaar 2009;<br>
-3° 1/55ste van het inkomen in het jaar 2010.<br>
+2° 1/59ste van het inkomen in het jaar 2009;<br>
+3° 1/57ste van het inkomen in het jaar 2010.<br>
 <br>
 Als de aangepaste huurprijs, vermeld in artikel 46 en na toepassing van § 3, sterker afwijkt van de oorspronkelijke huurprijs dan de hieronder vermelde bedragen, dan wordt de aangepaste huurprijs, in afwijking van artikel 46, gelijkgesteld met de oorspronkelijke huurprijs vermeerderd of verminderd met die bedragen :<br>
 1° het maximum van 5 % van de oorspronkelijke huurprijs en 20 euro, in 2008;<br>
