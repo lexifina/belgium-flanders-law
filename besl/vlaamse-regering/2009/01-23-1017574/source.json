@@ -1,0 +1,17 @@
+{
+  "codex_id": 1017574,
+  "title": "Besluit van de Vlaamse Regering van 2009-01-23 ter uitvoering van het Cultureel-erfgoeddecreet van 23 mei 2008, voor wat betreft de toekenning van een kwaliteitslabel aan collectiebeherende cultureel-erfgoedorganisaties en de indeling van musea en culturele archiefinstellingen bij het Vlaamse niveau",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1017574/VolledigDocument?datum=2009-01-01",
+  "source_sha256": "8c4ccfc32d6dc61a3620ab909affcaa8bae6b668a8bba2c1d0fac1de316f1f33",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1017574&param=informatie",
+  "as_of": "2009-01-01",
+  "made": "2009-01-23",
+  "gazette": "2009-02-13",
+  "numac": 2009035133,
+  "document_start": "2009-01-01",
+  "document_end": null,
+  "in_force": "2009-01-01",
+  "article_versions": 31,
+  "record_form": "consolidated version as in force on 2009-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
