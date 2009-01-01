@@ -37,6 +37,10 @@ Elk gemeentebestuur met een door de minister voor subsidiëring aanvaard jeugdbe
 
 ## HOOFDSTUK III. Slotbepalingen
 
+### ART. 6.
+
+Het besluit van de Vlaamse Regering van 12 september 2003 ter uitvoering van het decreet van 14 februari 2003 houdende de ondersteuning en de stimulering van het gemeentelijk, het intergemeentelijk en het provinciaal jeugd- en jeugdwerkbeleid, inzake de subsidiëring van gemeentebesturen die een jeugdruimtebeleid voeren als onderdeel van het jeugdwerkbeleid, gewijzigd bij de besluiten van de Vlaamse Regering van 11 juni 2004 en 16 juni 2006, wordt opgeheven.<br />
+
 ### ART. 7.
 
 Dit besluit treedt in werking op de dag van de bekendmaking ervan in het Belgisch Staatsblad, met uitzondering van artikel 6 dat in werking treedt op 1 januari 2009.<br />
