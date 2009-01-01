@@ -30,7 +30,7 @@ De Vlaamse regering regelt de voorwaarden voor de verlening van financiële steu
 
 ### ART. 7.
 
-De Vlaamse regering regelt de voorwaarden voor de verlening van financiële steun, in het bijzonder de criteria en de procedure voor de beoordeling van de steunaanvragen, aan de "interface-activiteiten" die uitgaan van de universiteiten in de Vlaamse Gemeenschap. Met "interface-activiteiten" wordt voor de toepassing van dit decreet bedoeld: de bevordering van de samenwerking tussen de universiteit en het bedrijfsleven, de economische valorisatie van het door de universiteit uitgevoerde onderzoek en/of de oprichting van spin-offbedrijven.<br /><br />(Dit artikel treedt in werking op 1 oktober 2002. Zie: B.V.R. 13 september 2002,, B.S., 7 november 2002)
+De Vlaamse regering regelt de voorwaarden voor de verlening van financiële steun, in het bijzonder de criteria en de procedure voor de beoordeling van de steunaanvragen, aan de "interface-activiteiten" van de associaties in de Vlaamse Gemeenschap. Met "interface-activiteiten" wordt voor de toepassing van dit decreet bedoeld: de bevordering van de samenwerking tussen de associatie en het bedrijfsleven, de economische valorisatie van het door de associatie uitgevoerde onderzoek en/of de oprichting van spin-offbedrijven.
 
 ## HOOFDSTUK III WIJZIGINGS- EN OPHEFFINGSBEPALINGEN
 
