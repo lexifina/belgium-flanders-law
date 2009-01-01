@@ -130,17 +130,9 @@ In de lagere graad wordt voor de berekening van het aantal uren-leraar het aanta
 
 In de middelbare graad wordt voor de berekening van het aantal uren-leraar, het aantal [...  <span class="reference">(geschr. B.V.R. 1 september 1993, art. 3, I: 1 september 1993)</span> ] leerlingen vermenigvuldigd met 0,25 [en met 0,6 indien uitsluitend de optie kantwerk wordt opgericht.  <span class="reference">(ing. B.V.R. 10 juli 1991, art. 9, I: 1 september 1991)</span> ] Het produkt wordt afgerond naar het dichtst bijzijnd geheel getal, deelbaar door twee. Indien het produkt een oneven getal is, wordt dit naar boven afgerond.<br /><br />(Zie evenwel: B.V.R. 15 juli 2002, B.S., 10 september 2002)
 
-### ART. 31.
-
-§ 1. In de hogere graad wordt voor de berekening van het aantal uren-leraar het aantal leerlingen vermenigvuldigd met 0,60 wanneer de hogere graad uit vijf leerjaren bestaat en met 0,75 wanneer deze uit vier leerjaren bestaat. Het produkt wordt afgerond tot op de hogere eenheid.<br /><br />(Zie evenwel: B.V.R. 15 juli 2002, B.S., 10 september 2002)<br /><br />§ 2. Het aantal uren-leraar bedoeld in § 1 wordt verhoogd met 10 wanneer een instelling alle leerjaren van de optie architectuurtekenen en/of de optie industriële kunst en/of de optie binnenhuiskunst inricht. Per niet ingericht leerjaar, wordt het aantal uren-leraar verminderd met 2.
-
 ### ART. 32.
 
 Wanneer een instelling overschakelt van een hogere graad met vier leerjaren naar een hogere graad met vijf leerjaren of omgekeerd dan worden, in afwijking van artikel 31, § 1, de leerlingen per leerjaar geteld. Per leerjaar worden de overeenstemmende coëfficiënten vermeld in artikel 31, § 1, toegepast.
-
-### ART. 33.
-
-In de specialisatiegraad wordt voor de berekening van het aantal uren-leraar het aantal leerlingen vermenigvuldigd met 0,70. Het produkt wordt afgerond tot op de hogere eenheid.
 
 ### ART. 34.
 
@@ -159,10 +151,6 @@ In de specialisatiegraad wordt voor de berekening van het aantal uren-leraar het
 § 1. Het totaal aantal uren-leraar per onderwijsinstelling mag door de inrichtende macht vrij worden aangewend na raadpleging van het bestuurs- en onderwijzend personeel, met uitzondering van de tijdelijke personeelsleden die niet voor de duur van het ganse schooljaar worden aangesteld, in het bevoegd overlegcomité opgericht krachtens de wet van 19 december 1974 tot regeling van de betrekkingen tussen de overheid en de vakbonden van haar personeel en het koninklijk besluit van 28 september 1984 tot uitvoering van die wet wat het officieel onderwijs betreft en in de ondernemingsraad opgericht krachtens de wet van 20 september 1948 houdende organisatie van het bedrijfsleven wat het vrij gesubsidieerd onderwijs betreft.<br /><br />§ 2. Het aantal uren-leraar dat men bekomt voor de middelbare en lager graad is niet overdraagbaar naar de hogere graad of naar de specialisatiegraad.<br /><br />§ 3. [Een onderwijsinstelling kan het totale aantal toegekende uren-leraar aanwenden voor de uitvoering van het lessenrooster, voor de navorming en voor de pedagogische coördinatie.  <span class="reference">(verv. B.V.R. 14 december 2001, art. 46, I: 1 september 2001)</span> ]
 
 ## HOOFDSTUK VI [RATIONALISATIE (verv. B.V.R. 1 september 1993, art. 5, I: 1 september 1994)]
-
-### ART. 38.
-
-[§ 1. De rationalisatie wordt toegepast op instellingen,  <span class="reference">(verv. B.V.R. 1 september 1993, art. 5, I: 1 september 1994)</span> ] [filialen  <span class="reference">(ing. B.V.R. 8 juni 1999, art. 38, I: 1 februari 1999)</span> ] [en graden. Zij regelt de instandhouding van instellingen en graden.<br /><br />§ 2. Voor de toepassing van de rationalisatie in een bepaald schooljaar komen enkel de financierbare leerlingen in aanmerking, geteld op 1 februari van het voorgaande schooljaar  <span class="reference">(verv. B.V.R. 1 september 1993, art. 5, I: 1 september 1994)</span> ]
 
 ### ART. 39.
 
