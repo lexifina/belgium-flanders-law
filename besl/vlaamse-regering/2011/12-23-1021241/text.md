@@ -11,3 +11,7 @@ Bijlage I bij hetzelfde besluit wordt opgeheven.
 ### ART. 6.
 
 Bijlage III bij hetzelfde besluit wordt opgeheven.
+
+### ART. 7.
+
+Aan hetzelfde besluit wordt een bijlage IV toegevoegd, die bij dit besluit is gevoegd.
