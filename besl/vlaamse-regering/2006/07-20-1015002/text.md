@@ -216,7 +216,7 @@ In artikel 2, 4, 6 en 9 van hetzelfde besluit worden de woorden « de administra
 
 ### ART. 45.
 
-In artikel 1 van het besluit van de Vlaamse Regering van 7 oktober 2005 tot toekenning van steun voor projecten ter stimulering van het ondernemerschap wordt punt 2° vervangen door wat volgt :<br />« 2° het Departement : het Departement Economie, Wetenschap en Innovatie. »<br /><br />
+...<br /><br />
 
 ### ART. 46.
 
@@ -259,6 +259,10 @@ Artikel 5 van hetzelfde besluit wordt vervangen door wat volgt :<br />« Art. 5.
 ### ART. 54.
 
 Dit besluit treedt in werking op de datum waarop het besluit van 7 oktober 2005 tot oprichting van Agentschap Economie in werking treedt.<br /><br />
+
+### ART. 54/1.
+
+Voor de toepassing van dit besluit moet, met ingang van 1 januari 2009 : <br />1° overal waar in dit besluit taken of bevoegdheden zijn opgelegd, respectievelijk toegewezen aan het Agentschap Economie, worden gelezen dat die taken en bevoegdheden toekomen aan het Agentschap Ondernemen;<br />2° overal waar in dit besluit taken of bevoegdheden zijn opgelegd, respectievelijk toegewezen aan het hoofd van het Agentschap Economie, worden gelezen dat die taken en bevoegdheden toekomen aan het hoofd van het Agentschap Ondernemen.
 
 ### ART. 55.
 
