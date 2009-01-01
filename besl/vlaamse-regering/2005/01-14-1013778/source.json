@@ -2,16 +2,16 @@
   "codex_id": 1013778,
   "title": "Besluit van de Vlaamse Regering van 2005-01-14 ter uitvoering van het Erfgoeddecreet van 7 mei 2004, voor wat betreft de musea, de cultureel-erfgoedpublicaties en de projecten cultureel erfgoed",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1013778/VolledigDocument?datum=2006-06-01",
-  "source_sha256": "a2a20b450eee40e78a13d0e24ab39664d7cfcf704fd0f0151d2e72e3c7360122",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1013778/VolledigDocument?datum=2009-01-01",
+  "source_sha256": "f987d96fd18f65d27c82c0e63523706a74953009784f446a643a9ae196a4b298",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1013778&param=informatie",
-  "as_of": "2006-06-01",
+  "as_of": "2009-01-01",
   "made": "2005-01-14",
   "gazette": "2005-05-12",
   "numac": 2005035541,
   "document_start": "2005-01-14",
   "document_end": "2008-12-31",
-  "in_force": "2006-06-01",
+  "in_force": "2009-01-01",
   "article_versions": 63,
-  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2009-01-01; future article versions excluded; article text as the API gives it"
 }
