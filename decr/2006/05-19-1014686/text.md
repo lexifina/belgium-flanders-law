@@ -34,7 +34,7 @@ Het programma van de uitgaven van het Fonds wordt vastgelegd door de minister, n
 
 ### ART. 8.
 
-Het bijzonder reglement betreffende het beheer van het Fonds wordt vastgesteld door de Vlaamse Regering.<br /><br />
+Het bijzonder reglement betreffende het beheer van het Fonds wordt vastgesteld door de Vlaamse Regering.<br /><br />Het Fonds wordt beheerd door de minister, die zijn beslissingsbevoegdheden inzake de inkomsten en de uitgaven kan subdelegeren.
 
 ### ART. 9.
 
