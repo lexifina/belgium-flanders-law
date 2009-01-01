@@ -1096,9 +1096,11 @@ In het kader van hun missie en taken dragen de in deze titel bedoelde   agentsch
 
 Er wordt een strategische adviesraad voor het milieubeleid ingesteld, zoals bedoeld in artikel 2 van het decreet tot regeling van strategische adviesraden van 18 juli 2003.<br>
 <br>
+Deze Raad functioneert als de strategische adviesraad van het beleidsdomein Leefmilieu, Natuur en Energie.<br>
+<br>
 De strategische adviesraad heeft als naam Milieu- en Natuurraad van Vlaanderen, hierna de Minaraad te noemen. Hij heeft rechtspersoonlijkheid.<br>
 <br>
-De bepalingen van het decreet van 18 juli 2003 tot regeling van strategische adviesraden zijn van toepassing op de Minaraad. (ing. decr. 30 april 2004, art. 2, I: te bepalen door de Vlaamse regering) ]
+De bepalingen van het decreet van 18 juli 2003 tot regeling van strategische adviesraden zijn van toepassing op de Minaraad.
 
 ## [HOOFDSTUK II TAAKOMSCHRIJVING (ing. decr. 30 april 2004, art. 2)]
 
