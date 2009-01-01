@@ -80,6 +80,10 @@ Alle bedragen zoals opgenomen in het besluit worden geïndexeerd overeenkomstig 
 
 Per semester wordt een voorschot uitgekeerd van 45 % van de bedragen, bepaald volgens artikel 13, 13bis en 15. Het eerste voorschot wordt uitbetaald voor het einde van de maand maart en het tweede voorschot wordt uitbetaald voor het einde van de maand juli van het jaar waarop de subsidie betrekking heeft.<br /><br />De definitieve vaststelling en vereffening van de subsidies gebeurt door het bepalen van een regularisatiebedrag, na het kalenderjaar tijdens hetwelk de in het eerste lid bedoelde voorschotten aan de voorziening werden uitgekeerd.<br /><br />Bij een batige vereffening na toepassing van artikel 14, derde lid kan de secretaris-generaal aan het centrum toestemming verlenen het verschuldigde bedrag in maandelijkse schijven terug te betalen over een periode van maximaal drie maanden.
 
+### ART. 16bis.
+
+De minister kan, onder de voorwaarden die hij bepaalt en binnen de begrotingskredieten, een subsidie verlenen voor projecten. Een project is een bijzonder initiatief met een tijdelijk, vernieuwend en experimenteel karakter dat betrekking heeft op de integrale gezinszorg.
+
 ## HOOFDSTUK V HET TOEZICHT
 
 ## AFDELING 1 ERKENNING
