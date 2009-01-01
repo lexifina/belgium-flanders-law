@@ -38,7 +38,7 @@ Het verkrijgen van een tijdelijke loodsvergunning houdt geen benoeming in tot am
 
 ### ART. 8.
 
-De leidend ambtenaar van [het Agentschap voor Maritieme dienstverlening en Kust  <span class="reference">(verv. B.V.R. 7 oktober 2005, art. 23, I : 1 april 2006)</span> ] reikt, in naam van de minister, aan de houder van een loodsbrevet of tijdelijke loodsvergunning een legitimatiebewijs uit.<br /><br />De vorm van dit bewijs is vastgesteld in bijlage III van dit besluit voor de houder van een loodsbrevet en in bijlage IV voor de houder van een tijdelijke loodsvergunning.
+Aan de houder van een loodsbrevet of tijdelijke loodsvergunning wordt een legitimatiekaart als bedoeld in het besluit van de Vlaamse Regering van 10 juli 2008 betreffende de legitimatiekaarten van de personeelsleden van de diensten van de Vlaamse overheid die belast zijn met inspectie- of controlebevoegdheden.
 
 ### ART. 9.
 
@@ -56,4 +56,12 @@ De Vlaamse minister, bevoegd voor het vervoer, is belast met de uitvoering van d
 
 ## Bijlage III
 
+### BIJLAGE III
+
+...
+
 ## Bijlage IV
+
+### BIJLAGE IV
+
+...
