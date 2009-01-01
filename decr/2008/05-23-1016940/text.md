@@ -456,7 +456,7 @@ Een cultureel-erfgoedorganisatie, met uitzondering van de cultureel-erfgoedorgan
 
 ### ART. 100.
 
-De beleidsperiode voor aanvullende subsidies voor tewerkstelling duurt zes jaar. De eerste beleidsperiode duurt vijf jaar en gaat van start op 1 januari 2010 en eindigt op 31 december 2014.
+De beleidsperiode voor aanvullende subsidies voor tewerkstelling duurt zes jaar. De eerste beleidsperiode duurt vier jaar en gaat van start op 1 januari 2011 en eindigt op 31 december 2014.
 
 ### ART. 101.
 

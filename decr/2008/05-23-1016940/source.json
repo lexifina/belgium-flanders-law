@@ -2,16 +2,16 @@
   "codex_id": 1016940,
   "title": "Decreet van 2008-05-23 houdende de ontwikkeling, de organisatie en de subsidiëring van het Vlaams cultureel-erfgoedbeleid (citeeropschrift: \"het Cultureel-erfgoeddecreet\")",
   "type": "Decreet",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1016940/VolledigDocument?datum=2008-08-04",
-  "source_sha256": "f0a2a86c5c747e8b9e74c661858e6e179d80544ae08a74e641f69e336a5ef946",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1016940/VolledigDocument?datum=2009-01-01",
+  "source_sha256": "1f802dccbced6a74e36f95c9b1981071e67ee8a1ac7cd81526be53414cf33598",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1016940&param=informatie",
-  "as_of": "2008-08-04",
+  "as_of": "2009-01-01",
   "made": "2008-05-23",
   "gazette": "2008-08-04",
   "numac": 2008202612,
   "document_start": "2008-08-04",
   "document_end": "2012-09-12",
-  "in_force": "2008-08-04",
+  "in_force": "2009-01-01",
   "article_versions": 125,
-  "record_form": "consolidated version as in force on 2008-08-04; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2009-01-01; future article versions excluded; article text as the API gives it"
 }
