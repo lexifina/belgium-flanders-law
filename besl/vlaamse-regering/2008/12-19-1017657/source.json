@@ -1,0 +1,17 @@
+{
+  "codex_id": 1017657,
+  "title": "Besluit van de Vlaamse Regering van 2008-12-19 tot wijziging van het besluit van de Vlaamse Regering van 3 mei 2002 tot instelling van de aanmoedigingspremies in de Vlaamse private sociale sector",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1017657/VolledigDocument?datum=2009-01-01",
+  "source_sha256": "31c565e1534fe213401233853374adb104cdbbe8aa6c4200c7bfd9bb48941b71",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1017657&param=informatie",
+  "as_of": "2009-01-01",
+  "made": "2008-12-19",
+  "gazette": "2009-03-09",
+  "numac": 2009200826,
+  "document_start": "2009-01-01",
+  "document_end": null,
+  "in_force": "2009-01-01",
+  "article_versions": 7,
+  "record_form": "consolidated version as in force on 2009-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
