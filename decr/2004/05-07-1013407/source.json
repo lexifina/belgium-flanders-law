@@ -2,16 +2,16 @@
   "codex_id": 1013407,
   "title": "Decreet van 2004-05-07 betreffende de onderwijsgebonden sport",
   "type": "Decreet",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1013407/VolledigDocument?datum=2006-06-01",
-  "source_sha256": "05e05c8ff6a9f11e99dd84a60a40b9c5cddeb3997adc50201fb5eec6f48b158d",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1013407/VolledigDocument?datum=2009-01-01",
+  "source_sha256": "0aa18c0d40c80e5f16a063a0ec2ff61d4b178b2cfbbba192e180abff9bd974da",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1013407&param=informatie",
-  "as_of": "2006-06-01",
+  "as_of": "2009-01-01",
   "made": "2004-05-07",
   "gazette": "2004-09-20",
   "numac": 2004036448,
   "document_start": null,
   "document_end": "2008-12-31",
-  "in_force": "2006-06-01",
+  "in_force": "2009-01-01",
   "article_versions": 53,
-  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2009-01-01; future article versions excluded; article text as the API gives it"
 }
