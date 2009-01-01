@@ -1,0 +1,17 @@
+{
+  "codex_id": 1018229,
+  "title": "Besluit van de Vlaamse Regering van 2009-03-06 tot vaststelling van het totale aantal subsidiabele uren voor de diensten voor gezinszorg voor het jaar 2009",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1018229/VolledigDocument?datum=2009-01-01",
+  "source_sha256": "f4de1c528067e0c2ffe0238e3348fd602119521cbadb73a9c1314741dc257477",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1018229&param=informatie",
+  "as_of": "2009-01-01",
+  "made": "2009-03-06",
+  "gazette": "2009-08-14",
+  "numac": 2009203648,
+  "document_start": "2009-01-01",
+  "document_end": null,
+  "in_force": "2009-01-01",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2009-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
