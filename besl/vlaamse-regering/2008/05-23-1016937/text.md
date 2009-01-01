@@ -44,6 +44,10 @@ Artikel III 26 van hetzelfde besluit, ingevoegd bij het besluit van de Vlaamse R
 
 Artikel IV 6 van hetzelfde besluit wordt vervangen door wat volgt :<br /><br />« Art. IV 6. Alle personeelsleden of personen onder wiens functioneel gezag het te evalueren personeelslid prestaties heeft verricht, kunnen gunstige of ongunstige feiten met betrekking tot het presteren van het personeelslid vaststellen.<br /><br />Als ongunstige feiten worden vastgesteld, wordt daarover hetzij een persoonlijke nota opgesteld, hetzij een functioneringsgesprek gevoerd. Het te evalueren personeelslid kan opmerkingen toevoegen aan de persoonlijke nota of het verslag van het functioneringsgesprek. »
 
+### ART. 11.
+
+In artikel IV 8 van hetzelfde besluit worden de volgende wijzigingen aangebracht :<br /><br />1° aan § 3 wordt de volgende zin toegevoegd :<br /><br />« De instantie die bevoegd is voor de definitieve beslissing, kan de evaluatie « onvoldoende » al dan niet behouden, of kan de evaluatie « onvoldoende » vervangen door een loopbaanvertraging. »;<br /><br />2° er wordt een § 4 toegevoegd, die luidt als volgt :<br /><br />« § 4. Als de raad van beroep unaniem beslist dat de « onvoldoende » ongegrond is, kan hij aansluitend bij eenparigheid van stemmen beslissen om de evaluatie « onvoldoende » te vervangen door de toekenning van een loopbaanvertraging. »  <br /><br />
+
 ### ART. 12.
 
 In artikel V 5, V 20 en V36 van hetzelfde besluit, gewijzigd bij het besluit van de Vlaamse Regering van 16 maart 2007, worden de woorden « nuttige professionele ervaring » vervangen door de woorden « relevante beroepservaring ».
