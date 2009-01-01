@@ -20,6 +20,10 @@ De objectieve parameters bepalen het globale proportionele aandeel van elke land
 
 Elke erkenning en subsidiëring van een nieuw centrum dient te gebeuren binnen de grenzen van het proportionele aandeel van de landsbond waarbij het betrokken centrum is aangesloten.
 
+### ART. 5.
+
+De subsidie-enveloppe van elk erkend centrum bestaat uit een forfaitair bedrag per jaar per erkende voltijdse equivalent, zoals bepaald in artikel 35, § 10, van het besluit van de Vlaamse Regering van 12 oktober 2001 ter uitvoering van het decreet van 19 december 1997 betreffende het algemeen welzijnswerk.
+
 ### ART. 6.
 
 Het ministerieel besluit van 23 januari 2002 houdende de definiëring van de objectieve parameters voor de centra voor algemeen welzijnswerk in het kader van de ziekenfondsen wordt opgeheven.<br /><br />De volgende regelingen worden ingetrokken :<br />1° het ministerieel besluit van 8 december 2006 houdende de definiëring van de objectieve parameters en de programmatie voor de subsidiëring van de centra voor algemeen welzijnswerk in het kader van de ziekenfondsen;<br />2° het ministerieel besluit van 1 maart 2007 tot wijziging van het ministerieel besluit van 8 december 2006 houdende de definiëring van de objectieve parameters en de programmatie voor de subsidiëring van de centra voor algemeen welzijnswerk in het kader van de ziekenfondsen;<br />3° het ministerieel besluit van 14 december 2007 tot wijziging van het ministerieel besluit van 8 december 2006 houdende de definiëring van de objectieve parameters en de programmatie voor de subsidiëring van de centra voor algemeen welzijnswerk in het kader van de ziekenfondsen.
