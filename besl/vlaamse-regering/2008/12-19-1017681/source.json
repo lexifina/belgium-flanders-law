@@ -1,0 +1,17 @@
+{
+  "codex_id": 1017681,
+  "title": "Besluit van de Vlaamse Regering van 2008-12-19 tot wijziging van het besluit van de Vlaamse Regering van 22 september 1998 houdende instelling van een aanmoedigingspremie voor loopbaanonderbreking voor personeelsleden van de Vlaamse openbare sector en het Nederlandstalig onderwijs in het raam van de maatregelen tot herverdeling van de arbeid",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1017681/VolledigDocument?datum=2009-01-01",
+  "source_sha256": "b231ba192ac432502b56a22c7c71f72ba5815cf9d2430cd152faaeec6ba050ce",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1017681&param=informatie",
+  "as_of": "2009-01-01",
+  "made": "2008-12-19",
+  "gazette": "2009-03-16",
+  "numac": 2009200990,
+  "document_start": "2009-01-01",
+  "document_end": null,
+  "in_force": "2009-01-01",
+  "article_versions": 8,
+  "record_form": "consolidated version as in force on 2009-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
