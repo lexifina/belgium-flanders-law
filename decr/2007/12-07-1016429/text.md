@@ -56,6 +56,10 @@ Overeenkomstig artikel 8, eerste lid, van het decreet van 18 juli 2003, oefenen 
 
 In het decreet van 27 juni 1985 op de Sociaal-Economische Raad van Vlaanderen, wordt een artikel 7novies ingevoegd, dat luidt als volgt :<br /><br />« Artikel 7novies. Binnen de Raad is de Strategische Adviesraad voor het Vlaamse Welzijns-, Gezondheids- en Gezinsbeleid opgericht. Deze strategische adviesraad wordt geregeld door het decreet van 7 december 2007 houdende de oprichting van de Strategische Adviesraad voor het Vlaamse Welzijns-, Gezondheids- en Gezinsbeleid en van een Adviescommissie voor Voorzieningen van Welzijn, Volksgezondheid en Gezin. » .<br />
 
+### ART. 18.
+
+In het decreet van 7 mei 2004 inzake de Sociaal-Economische Raad van Vlaanderen, wordt na hoofdstuk Vbis, een nieuw hoofdstuk ingevoegd, dat luidt als volgt :<br /><br />"HOOFDSTUK Vter. - Strategische Adviesraad voor het Vlaamse Welzijns-, Gezondheids- en Gezinsbeleid<br /><br />Artikel 22ter. Binnen de Raad is de Strategische Adviesraad voor het Vlaamse Welzijns-, Gezondheids- en Gezinsbeleid opgericht. Deze strategische adviesraad wordt geregeld door het decreet van 7 december 2007 houdende de oprichting van de Strategische Adviesraad voor het Vlaamse Welzijns-, Gezondheids- en Gezinsbeleid en van een Adviescommissie voor Voorzieningen van Welzijn, Volksgezondheid en Gezin. ».
+
 ## HOOFDSTUK V. Slotbepalingen
 
 ### ART. 21.
