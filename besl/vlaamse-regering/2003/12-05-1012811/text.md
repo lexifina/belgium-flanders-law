@@ -1562,7 +1562,7 @@ De analyses op afvalstoffen en bodem gebeuren overeeenkomstig de methoden opgeno
 
 ### ART. 9.3.
 
-De toezichthoudende ambtenaren en contractuele personeelsleden maken zich bekend door een legitimatiebewijs ondertekend door de leidend ambtenaar van OVAM, respectievelijk door de leidend ambtenaar van hun administratie of de burgemeester.
+De toezichthoudende ambtenaren en contractuele personeelsleden maken zich bekend door een legitimatiekaart als bedoeld in het besluit van de Vlaamse Regering van 10 juli 2008 betreffende de legitimatiekaarten van de personeelsleden van de diensten van de Vlaamse overheid die belast zijn met inspectie- of controlebevoegdheden, respectievelijk een legitimatiebewijs ondertekend door de leidend ambtenaar van hun administratie of de burgemeester.
 
 ## HOOFDSTUK X SLOTBEPALINGEN
 
