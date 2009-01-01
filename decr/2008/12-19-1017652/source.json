@@ -1,0 +1,17 @@
+{
+  "codex_id": 1017652,
+  "title": "Decreet van 2008-12-19 houdende diverse maatregelen inzake de ontbinding van het Vlaams Agentschap Ondernemen en houdende de inrichting van een Comité voor Preventief Bedrijfsbeleid",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1017652/VolledigDocument?datum=2009-01-01",
+  "source_sha256": "9d50eebee490317006a18570de1de61db8d27c16b8c3c6ddfeee115832a051cc",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1017652&param=informatie",
+  "as_of": "2009-01-01",
+  "made": "2008-12-19",
+  "gazette": "2009-03-06",
+  "numac": 2009200825,
+  "document_start": "2009-01-01",
+  "document_end": null,
+  "in_force": "2009-01-01",
+  "article_versions": 10,
+  "record_form": "consolidated version as in force on 2009-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
