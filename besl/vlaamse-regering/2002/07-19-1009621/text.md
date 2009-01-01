@@ -184,9 +184,7 @@ Tussen de VVM en de organisator van het evenement moet een contract worden geslo
 
 ### ART. 37.
 
-De wegeninspecteurs en de wegeninspecteurs-controleurs zijn ambtenaren van de administratie Wegen en Verkeer van het ministerie van de Vlaamse Gemeenschap die worden aangewezen door de minister. Zij houden toezicht op de bepalingen van artikel 15 tot en met 24 van het decreet.<br>
-<br>
-De aanstelling blijkt uit een door de minister ondertekend legitimatiebewijs zoals beschreven in bijlage IV bij dit besluit.
+De wegeninspecteurs en de wegeninspecteurs-controleurs zijn ambtenaren van de administratie Wegen en Verkeer van het ministerie van de Vlaamse Gemeenschap die worden aangewezen door de minister. Zij houden toezicht op de bepalingen van artikel 15 tot en met 24 van het decreet.<br /><br />De aanstelling blijkt uit een legitimatiekaart als bedoeld in het besluit van de Vlaamse Regering van 10 juli 2008 betreffende de legitimatiekaarten van de personeelsleden van de diensten van de Vlaamse overheid die belast zijn met inspectie- of controlebevoegdheden.
 
 ## HOOFDSTUK VIII ADMINISTRATIEVE GELDBOETE
 
