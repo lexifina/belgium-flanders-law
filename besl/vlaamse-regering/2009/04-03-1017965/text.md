@@ -1216,6 +1216,42 @@ Zowel van facturen als van aankoopborderellen dienen de betalingsbewijzen ter in
 
 ## HOOFDSTUK IV. Wijzigingsbepaling
 
+### ART. 8.
+
+Ter uitvoering van artikel 27, § 3, laatste lid, van het Mestdecreet, wordt in de tabel in artikel 27, § 1, eerste lid, van het Mestdecreet, hetgeen vermeld is tussen 2° VARKENS en 3° PLUIMVEE vervangen door wat volgt :<br>
+
+<table border="1" cellpadding="0">
+	<tbody>
+		<tr>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>Biggen met een gewicht van 7 tot 20 kg<br>
+			Beren<br>
+			Zeugen, inclusief biggen met een gewicht kleiner dan 7 kg<br>
+			Andere varkens :<br>
+			van 20 tot 110 kg tweefazig<br>
+			van 20 tot 110 kg driefazig van 110 kg of meer</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>1,53<br>
+			14,5<br>
+			14,5<br>
+			5,33 5,33<br>
+			14,5</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>2,18<br>
+			24<br>
+			24<br>
+			13,0<br>
+			13,0<br>
+			24</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+<p>&nbsp;</p>
+
 ## HOOFDSTUK V. Slotbepalingen
 
 ### ART. 9.
