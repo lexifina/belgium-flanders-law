@@ -76,6 +76,10 @@ De strategische adviesraad stelt jaarlijks een begroting en een rekening op en v
 
 Strategische adviesraden kunnen onderling samenwerken en gezamenlijk advies uitbrengen.
 
+### ART. 17bis.
+
+Strategische adviesraden kunnen door de Vlaamse Regering verplicht worden verzekeringen aan te gaan bij een of meer door de Vlaamse Regering aan te wijzen instellingen.
+
 ## HOOFDSTUK V PROGRAMMERING EN VERSLAGGEVING
 
 ### ART. 18.
