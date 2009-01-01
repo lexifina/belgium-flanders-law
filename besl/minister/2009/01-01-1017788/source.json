@@ -1,0 +1,17 @@
+{
+  "codex_id": 1017788,
+  "title": "Ministerieel besluit van 2009-01-01 tot uitvoering van het besluit van de Vlaamse Regering van 19 december 2008 tot toekenning van steun aan kleine en middelgrote ondernemingen voor ondernemerschapsbevorderende diensten",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1017788/VolledigDocument?datum=2009-01-01",
+  "source_sha256": "e36ffbf1bb616e006306331539f721c45794bd062874b64d33a14d8b75a6e1ca",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1017788&param=informatie",
+  "as_of": "2009-01-01",
+  "made": "2009-01-01",
+  "gazette": "2009-04-09",
+  "numac": 2009035306,
+  "document_start": "2009-01-01",
+  "document_end": "2013-06-30",
+  "in_force": "2009-01-01",
+  "article_versions": 54,
+  "record_form": "consolidated version as in force on 2009-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
