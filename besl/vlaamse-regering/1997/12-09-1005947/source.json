@@ -2,16 +2,16 @@
   "codex_id": 1005947,
   "title": "Besluit van de Vlaamse Regering van 1997-12-09 betreffende het toekennen van een financiële tegemoetkoming ten behoeve van kleine ondernemingen die een beroep doen op erkende externe bedrijfsadviseurs en betreffende de erkenning van die bedrijfsadviseurs",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1005947/VolledigDocument?datum=2006-07-01",
-  "source_sha256": "56d796b138217eb4db283df332d684cd28a2a630f862d54b9540b11c8ecdf6c7",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1005947/VolledigDocument?datum=2009-01-01",
+  "source_sha256": "3927ab4f17c47e3a7938887567796940eb553484297f4ae3827ad830d5a4470c",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1005947&param=informatie",
-  "as_of": "2006-07-01",
+  "as_of": "2009-01-01",
   "made": "1997-12-09",
   "gazette": "1998-02-04",
   "numac": 1998035129,
   "document_start": "1998-01-01",
   "document_end": null,
-  "in_force": "2006-07-01",
+  "in_force": "2009-01-01",
   "article_versions": 14,
-  "record_form": "consolidated version as in force on 2006-07-01; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2009-01-01; future article versions excluded; article text as the API gives it"
 }
