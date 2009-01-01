@@ -14,7 +14,7 @@ Dit decreet regelt een gemeenschapsaangelegenheid.
 
 ### ART. 3.
 
-Voor het mentorschap worden de volgende budgetten voorzien :<br />1° voor de ondersteuning van de student/cursist tijdens de stage :<br />a) voor het schooljaar 2007-2008 : 5.231.066,31 euro;<br />b) vanaf het schooljaar 2008-2009 : 3.510.527,59 euro;<br />2° voor de ondersteuning van de leraar in opleiding vanaf het schooljaar 2008-2009 : 5.027.288,72 euro;<br />3° voor de aanvangsbegeleiding gedurende het eerste jaar van de beroepsuitoefening als leraar :<br />a) voor het schooljaar 2007-2008 : 2.678.597,57 euro;<br />b) vanaf het schooljaar 2008-2009 : 4.371.847,57 euro.<br /><br />De beschikbare budgetten volgen de evolutie van het prijsindexcijfer dat berekend en benoemd wordt voor de toepassing van artikel 2 van het koninklijk besluit van 24 december 1993 ter uitvoering van de wet van 6 januari 1989 tot vrijwaring van 's lands concurrentievermogen, bekrachtigd bij wet van 30 maart 1994.<br /><br />De Vlaamse Regering bepaalt per budget de verdeelsleutel over het basisonderwijs, het secundair onderwijs, het volwassenenonderwijs en het deeltijds kunstonderwijs.
+§ 1. Voor het mentorschap worden de volgende budgetten voorzien :<br />1° voor de ondersteuning van de student/cursist tijdens de stage :<br />a) voor het schooljaar 2007-2008 : 5.231.066,31 euro;<br />b) vanaf het schooljaar 2008-2009 : 3.510.527,59 euro;<br />2° voor de ondersteuning van de leraar in opleiding vanaf het schooljaar 2008-2009 : 5.027.288,72 euro;<br />3° voor de aanvangsbegeleiding gedurende het eerste jaar van de beroepsuitoefening als leraar :<br />a) voor het schooljaar 2007-2008 : 2.678.597,57 euro;<br />b) vanaf het schooljaar 2008-2009 : 4.371.847,57 euro.<br /><br />De beschikbare budgetten volgen de evolutie van het prijsindexcijfer dat berekend en benoemd wordt voor de toepassing van artikel 2 van het koninklijk besluit van 24 december 1993 ter uitvoering van de wet van 6 januari 1989 tot vrijwaring van 's lands concurrentievermogen, bekrachtigd bij wet van 30 maart 1994.<br /><br />De Vlaamse Regering bepaalt per budget de verdeelsleutel over het basisonderwijs, het secundair onderwijs, het volwassenenonderwijs en het deeltijds kunstonderwijs.<br /><br />§ 2. Het budget dat jaarlijks toegekend wordt voor de ondersteuning van de leraren in opleiding is gelijk aan 4000 euro vermenigvuldigd met het totale aantal leraren in opleiding in de periode van de eerste lesdag van september tot en met 31 mei van het voorgaande schooljaar en is ten hoogste gelijk aan het budget, vermeld in § 1, 2°. <br /><br />Als het budget, vermeld in § 1, 2°, groter is dan 4000 euro vermenigvuldigd met het totale aantal leraren in opleiding in de periode van de eerste lesdag van september tot en met 31 mei van het voorgaande schooljaar, dan wordt 50 procent van het verschil tussen beide bedragen toegevoegd aan het budget, vermeld in § 1, 1°, b), en 50 procent aan het budget, vermeld in het § 1, 3°, b).
 
 ### ART. 4.
 
@@ -194,198 +194,257 @@ De Vlaamse Gemeenschap voorziet onder de hiernavolgende voorwaarden vanaf het be
 <table border="1" cellpadding="0" cellspacing="0" style="border-collapse:collapse">
 	<tbody>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:239.4pt">
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:212.4pt">
 			<p><!--?xml:namespace prefix         = o ns = "urn:schemas-microsoft-com:office:office"         /-->&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:72pt">
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:54pt">
 			<p>2006</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:72pt">
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:63pt">
 			<p>2007</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:77.2pt">
-			<p>Vanaf 2008</p>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:63pt">
+			<p>2008</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:68.2pt">
+			<p>2009</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:239.4pt">
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:212.4pt">
 			<p>Scholen basisonderwijs</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:72pt">
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:54pt">
 			<p>4384</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:72pt">
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:63pt">
 			<p>4384</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:77.2pt">
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:63pt">
+			<p>4384</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:68.2pt">
 			<p>4384</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:239.4pt">
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:212.4pt">
 			<p>Aanvulling directeurs scholen basisonderwijs</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:72pt">
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:54pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:72pt">
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:63pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:77.2pt">
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:63pt">
+			<p>190</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:68.2pt">
 			<p>190</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:239.4pt">
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:212.4pt">
 			<p>Scholen secundair onderwijs</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:72pt">
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:54pt">
 			<p>6190</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:72pt">
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:63pt">
 			<p>6190</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:77.2pt">
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:63pt">
+			<p>6190</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:68.2pt">
 			<p>6190</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:239.4pt">
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:212.4pt">
 			<p>Aanvulling directeurs scholen secundair onderwijs</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:72pt">
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:54pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:72pt">
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:63pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:77.2pt">
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:63pt">
+			<p>79</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:68.2pt">
 			<p>79</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:239.4pt">
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:212.4pt">
 			<p>Centra voor volwassenenonderwijs</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:72pt">
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:54pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:72pt">
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:63pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:77.2pt">
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:63pt">
+			<p>489</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:68.2pt">
 			<p>489</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:239.4pt">
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:212.4pt">
 			<p>Aanvulling directeurs centra voor volwassenenonderwijs</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:72pt">
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:54pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:72pt">
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:63pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:77.2pt">
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:63pt">
+			<p>13</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:68.2pt">
 			<p>13</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:239.4pt">
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:212.4pt">
 			<p>Scholen voor deeltijds kunstonderwijs</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:72pt">
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:54pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:72pt">
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:63pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:77.2pt">
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:63pt">
+			<p>295</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:68.2pt">
 			<p>295</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:239.4pt">
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:212.4pt">
 			<p>Aanvulling directeurs scholen voor deeltijds kunstonderwijs</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:72pt">
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:54pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:72pt">
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:63pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:77.2pt">
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:63pt">
+			<p>12</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:68.2pt">
 			<p>12</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:239.4pt">
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:212.4pt">
 			<p>Centra voor leerlingenbegeleiding</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:72pt">
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:54pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:72pt">
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:63pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:77.2pt">
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:63pt">
+			<p>211</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:68.2pt">
 			<p>211</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:239.4pt">
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:212.4pt">
 			<p>Aanvulling directeurs centra voor leerlingenbegeleiding</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:72pt">
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:54pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:72pt">
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:63pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:77.2pt">
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:63pt">
+			<p>6</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:68.2pt">
 			<p>6</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:239.4pt">
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:212.4pt">
+			<p>Centra voor basiseducatie</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:54pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:63pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:63pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:68.2pt">
+			<p>33</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:212.4pt">
 			<p>Gemeenschapsonderwijs en representatieve verenigingen van inrichtende machten</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:72pt">
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:54pt">
 			<p>1547</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:72pt">
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:63pt">
 			<p>2057</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:77.2pt">
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:63pt">
+			<p>2057</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:68.2pt">
 			<p>2057</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:239.4pt">
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:212.4pt">
 			<p>Overheid</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:72pt">
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:54pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:72pt">
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:63pt">
 			<p>1500</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:77.2pt">
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:63pt">
+			<p>1500</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:68.2pt">
 			<p>1500</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:239.4pt">
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:212.4pt">
 			<p>Directeurs</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:72pt">
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:54pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:72pt">
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:63pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:77.2pt">
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:63pt">
+			<p>490</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:68.2pt">
 			<p>490</p>
 			</td>
 		</tr>
@@ -396,7 +455,7 @@ De Vlaamse Gemeenschap voorziet onder de hiernavolgende voorwaarden vanaf het be
 
 <p>&nbsp;</p>
 
-<p>§ 2. Vanaf 2007 worden de bedragen voor « Gemeenschapsonderwijs en representatieve verenigingen van inrichtende machten », « Scholen basisonderwijs » en « Scholen secundair onderwijs » en vanaf 2008 worden alle bedragen in deze titel geïndexeerd als volgt :<br>
+<p>§ 2. Vanaf 2007 worden de bedragen voor « Gemeenschapsonderwijs en representatieve verenigingen van inrichtende machten », « Scholen basisonderwijs » en « Scholen secundair onderwijs » en vanaf 2008, met uitzondering van de nascholingsmiddelen voor de centra voor basiseducatie dewelke pas vanaf 2009 geïndexeerd worden, worden alle bedragen in deze titel geïndexeerd als volgt :<br>
 <br>
 Nx = Tx (Cx/Cx-1)<br>
 <br>
@@ -415,15 +474,15 @@ Cx-1: gelijk is aan de gezondheidsindex bij het begin van het begrotingsjaar x-1
 
 ### ART. 45.
 
-De Vlaamse Gemeenschap stelt volgens de tabel in artikel 44, § 1 vanaf het jaar 1996 elk jaar de middelen ter beschikking aan de inrichtende machten van de scholen van het kleuter- en lager onderwijs , het voltijds en deeltijds secundair onderwijs, het volwassenenonderwijs met uitzondering van de basiseducatie, het deeltijds kunstonderwijs en de centra voor leerlingenbegeleiding. Zij moeten deze middelen besteden aan nascholing voor het personeel van de scholen of centra per aangegeven onderwijsniveau.
+De Vlaamse Gemeenschap stelt volgens de tabel in artikel 44, § 1 vanaf het jaar 1996 elk jaar de middelen ter beschikking aan de inrichtende machten van de scholen van het kleuter- en lager onderwijs , het voltijds en deeltijds secundair onderwijs, het volwassenenonderwijs, met inbegrip van de centra voor basiseducatie, het deeltijds kunstonderwijs en de centra voor leerlingenbegeleiding. Zij moeten deze middelen besteden aan nascholing voor het personeel van de scholen of centra per aangegeven onderwijsniveau.
 
 ### ART. 46.
 
-§ 1. [Het aandeel in de middelen bedoeld in artikel 45, waarop elke school recht heeft, wordt bere-kend op basis van het aantal organieke betrekkingen in deze school op 1 februari van het voorafgaand begrotingsjaar, rekening houdend met het onderwijsniveau waarvoor de middelen krachtens de tabel in artikel 44, § 1, bestemd zijn.<br /><br />Het aantal organieke betrekkingen van een onderwijsinstelling of van een centrum voor leerlingenbegeleiding is gelijk aan het geheel van organieke betrekkingen, omgerekend in voltijdse eenheden, waarop deze onderwijsinstelling of dit centrum recht heeft bij toepassing van de bestaande reglementering voor de personeelscategorieën bedoeld in:<br /><br />- artikel 2, § 1, van het decreet van 27 maart 1991 betreffende de rechtspositie van bepaalde personeelsleden van het Gemeenschapsonderwijs, met uitzondering van het personeel van de pedagogische begeleidingsdienst en het statutair meesters-, vak- en dienstpersoneel;<br /><br />- artikel 4, § 1, van het decreet van 27 maart 1991 betreffende de rechtspositie van sommige personeelsleden van het gesubsidieerd onderwijs en de gesubsidieerde centra voor leerlingenbegeleiding. (verv. decr. 14 februari 2003, art. VIII. 2, I: 1 september 2002]<br /><br />§ 2. Het aandeel van elke school wordt berekend als volgt:<br /><br />A = B(N/SB)<br /><br />waarbij:<br /><br />A: gelijk is aan het aandeel van één school;<br /><br />B: gelijk is aan het aantal organieke betrekkingen in die school, bepaald zoals in § 1;<br /><br />N: gelijk is aan het bedrag, dat overeenkomstig de tabel bestemd is voor nascholing op initiatief van de scholen;<br /><br />SB: gelijk is aan de som van de aantallen organieke betrekkingen B in alle scholen van de bedoelde onderwijsniveaus.
+§ 1. Het aandeel in de middelen bedoeld in artikel 45, waarop elke instelling recht heeft, wordt berekend op basis van het aantal organieke betrekkingen in deze instelling op 1 februari van het voorafgaand begrotingsjaar, rekening houdend met het onderwijsniveau waarvoor de middelen krachtens de tabel in artikel 44, § 1, bestemd zijn.<br /><br />Het aantal organieke betrekkingen van een onderwijsinstelling of van een centrum voor leerlingenbegeleiding is gelijk aan het geheel van organieke betrekkingen, omgerekend in voltijdse eenheden, waarop deze onderwijsinstelling of dit centrum recht heeft bij toepassing van de bestaande reglementering voor de personeelscategorieën bedoeld in:<br />- artikel 2, § 1, van het decreet van 27 maart 1991 betreffende de rechtspositie van bepaalde personeelsleden van het Gemeenschapsonderwijs, met uitzondering van het personeel van de pedagogische begeleidingsdienst en het statutair meesters-, vak- en dienstpersoneel;<br />- artikel 4, § 1, van het decreet van 27 maart 1991 betreffende de rechtspositie van sommige personeelsleden van het gesubsidieerd onderwijs en de gesubsidieerde centra voor leerlingenbegeleiding. <br /><br />§ 2. Het aandeel van elke school wordt berekend als volgt:<br /><br />A = B(N/SB)<br /><br />waarbij:<br />A: gelijk is aan het aandeel van één school;<br />B: gelijk is aan het aantal organieke betrekkingen in die school, bepaald zoals in § 1;<br />N: gelijk is aan het bedrag, dat overeenkomstig de tabel bestemd is voor nascholing op initiatief van de scholen;<br />SB: gelijk is aan de som van de aantallen organieke betrekkingen B in alle scholen van de bedoelde onderwijsniveaus.<br /><br />§ 3. In afwijking van § 1 en § 2, worden voor de centra voor basiseducatie de middelen pro rata verdeeld op basis van het aantal contractuelen departement onderwijs, uitgedrukt in voltijdse equivalenten.
 
 ### ART. 47.
 
-De volgens artikel 45 toegewezen middelen worden in twee schijven aan de inrichtende machten van de scholen uitbetaald. De eerste schijf ten bedrage van zestig procent wordt uitbetaald voor het einde van de maand februari van het betreffende begrotingsjaar, de tweede schijf ten bedrage van veertig procent voor het einde van de maand oktober van het betreffende begrotingsjaar. In afwijking hiervan wordt tijdens het begrotingsjaar 1996 het volledige bedrag uitbetaald in oktober.<br /><br />Elke inrichtende macht wendt de middelen uitsluitend aan voor de nascholing van de personeelsleden van de school die recht heeft op de middelen, conform het op voorstel van de directeur door ofwel het lokaal onderhandelingscomité ofwel het basisoverlegcomité ofwel de ondernemingsraad ofwel, bij ontstentenis hieraan, de algemene perso-neelsvergadering goedgekeurde jaarlijkse nascholingsplan.<br /><br />De ontvangen middelen zijn hoogstens twee jaar overdraagbaar.
+De volgens artikel 45 toegewezen middelen worden in twee schijven aan de inrichtende machten van de instellingen uitbetaald. De eerste schijf ten bedrage van zestig procent wordt uitbetaald voor het einde van de maand februari van het betreffende begrotingsjaar, de tweede schijf ten bedrage van veertig procent voor het einde van de maand oktober van het betreffende begrotingsjaar. In afwijking hiervan wordt tijdens het begrotingsjaar 1996 het volledige bedrag uitbetaald in oktober.<br /><br />Elke inrichtende macht wendt de middelen uitsluitend aan voor de nascholing van de personeelsleden van de school die recht heeft op de middelen, conform het op voorstel van de directeur door ofwel het lokaal onderhandelingscomité ofwel het basisoverlegcomité ofwel de ondernemingsraad ofwel, bij ontstentenis hieraan, de algemene personeelsvergadering goedgekeurde jaarlijkse nascholingsplan.<br /><br />De ontvangen middelen zijn hoogstens twee jaar overdraagbaar.
 
 ### ART. 48.
 
