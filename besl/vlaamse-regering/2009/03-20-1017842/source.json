@@ -1,0 +1,17 @@
+{
+  "codex_id": 1017842,
+  "title": "Besluit van de Vlaamse Regering van 2009-03-20 tot wijziging van het besluit van de Vlaamse Regering van 9 mei 2008 houdende de voorwaarden voor toestemming voor en subsidiëring van lokale diensten buurtgerichte kinderopvang",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1017842/VolledigDocument?datum=2009-01-01",
+  "source_sha256": "122f372605a5e1a7fdde34d42138edde3bec3ecf11a1abd8baeed3b6a284d72e",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1017842&param=informatie",
+  "as_of": "2009-01-01",
+  "made": "2009-03-20",
+  "gazette": "2009-04-28",
+  "numac": 2009201780,
+  "document_start": "2009-01-01",
+  "document_end": null,
+  "in_force": "2009-01-01",
+  "article_versions": 7,
+  "record_form": "consolidated version as in force on 2009-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
