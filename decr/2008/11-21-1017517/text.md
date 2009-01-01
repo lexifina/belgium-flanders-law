@@ -42,17 +42,41 @@ In artikel 23, § 2, van het decreet van 30 november 2007 betreffende het flanke
 
 ## Afdeling I Leegstandsheffing woningen
 
+### ART. 18.
+
+In artikel 39, § 1, van decreet van 22 december 1995 houdende bepalingen tot begeleiding van de begroting 1996 wordt het vierde lid opgeheven.<br /><br />
+
+### ART. 19.
+
+In hetzelfde decreet wordt een nieuw artikel 40bis ingevoegd, dat luidt als volgt :<br />« Artikel 40bis. Inzoverre deze afdeling en de besluiten genomen ter uitvoering ervan er niet van afwijken, zijn de regels betreffende de invordering, de verwijl- en moratoire intresten, de vervolgingen, de voorrechten, de wettelijke hypotheek, de aansprakelijkheid en plichten van sommige ministeriële officieren, openbare ambtenaren en andere personen, de verjaring alsmede de vestiging inzake de onroerende voorheffing, zoals van toepassing in het Vlaamse Gewest, mutatis mutandis van toepassing op de in deze afdeling bedoelde heffingen en administratieve geldboeten met uitzondering van titel VII, hoofdstuk VIII, afdeling IVbis, van het Wetboek van de inkomstenbelastingen 1992, zoals ingevoegd bij artikel 332 van de Programmawet van 27 december 2004. ».<br /><br />
+
 ## Afdeling II Leegstandsheffing bedrijfsruimten
 
 ### ART. 20.
 
 Aan artikel 17, § 2, van het decreet van 19 april 1995 houdende maatregelen ter bestrijding en voorkoming van leegstand en verwaarlozing van bedrijfsruimten, het laatst gewijzigd bij decreet van 23 juni 2006, wordt een derde lid toegevoegd, dat luidt als volgt :<br />« Het Vernieuwingsfonds heeft verder als doel, met ingang van 1 juli 2008 en tot een nader door de Vlaamse Regering te bepalen datum, doch uiterlijk tot 1 juli 2013, alle kosten, met inbegrip van de desbetreffende personeels-, werkings- en informaticakosten te dragen die gepaard gaan met de inning en invordering en de bezwaar- en geschilafhandeling van de planbatenheffing, zoals bedoeld in titel II, hoofdstuk VIII, afdeling II, van het decreet van 18 mei 1999 houdende de organisatie van de ruimtelijke ordening, zoals later gewijzigd, alsook aan de voorbereiding van deze inning. ».<br /><br />
 
+### ART. 21.
+
+In hetzelfde decreet wordt artikel 28 opgeheven.<br /><br />
+
+### ART. 22.
+
+In artikel 33 van hetzelfde decreet worden tussen de woorden « de wettelijke hypotheek, » en de woorden « de verjaring » de woorden « de aansprakelijkheid en plichten van sommige ministeriële officieren, openbare ambtenaren en andere personen, » ingevoegd.<br /><br />
+
+### ART. 23.
+
+In artikel 33 van hetzelfde decreet, wordt het woord « rijksinkomstenbelastingen » vervangen door de woorden « de onroerende voorheffing, zoals van toepassing in het Vlaamse Gewest, ».<br /><br />
+
 ## Afdeling III Successierechten
 
 ### ART. 24.
 
 § 1. In artikel 60bis, § 3, van het Wetboek der Successierechten worden de woorden « Europese Unie » vervangen door de woorden « Europese Economische Ruimte ».<br /><br />§ 2. In artikel 60bis, § 5, vierde lid, van hetzelfde Wetboek worden tussen de woorden « de onderneming » en de woorden « in de twintig kwartalen » de woorden « of de vennootschap » ingevoegd.<br /><br />§ 3. In artikel 60bis, § 5, van hetzelfde Wetboek wordt het laatste lid vervangen door wat volgt :<br />« De in het eerste, tweede en zesde lid vermelde bedragen worden vermenigvuldigd met een coëfficiënt, die wordt verkregen door het gemiddelde van de gezondheidsindexcijfers van hetzij de drie kalenderjaren voorafgaand aan dat waarin het overlijden plaatsheeft, hetzij de vijf kalenderjaren te beginnen met het jaar waarin het overlijden plaatsheeft, te delen door het gezondheidsindexcijfer van de maand december 2007. Met het gezondheidsindexcijfer wordt bedoeld, het indexcijfer zoals bepaald in artikel 2 van het koninklijk besluit van 24 december 1993 ter uitvoering van de wet van 6 januari 1989 tot vrijwaring van 's lands concurrentievermogen, bekrachtigd bij de wet van 30 maart 1994 houdende sociale bepalingen. ».<br /><br />
+
+### ART. 25.
+
+Aan artikel 135 van het Wetboek der Successierechten wordt een punt 10° toegevoegd, dat luidt als volgt :<br />« 10° wanneer aan de voorwaarden voor de toepassing van de in artikel 55quater bepaalde vrijstelling wordt voldaan binnen een termijn van 2 jaar na het overlijden. ».<br /><br />
 
 ## HOOFDSTUK IV Wonen
 
@@ -131,6 +155,10 @@ Aan artikel 190bis van hetzelfde decreet wordt een § 6 toegevoegd, die luidt al
 Aan artikel 168, § 5, eerste lid, van het decreet van 12 juni 1991 betreffende de universiteiten in de Vlaamse Gemeenschap, vervangen bij decreet van 14 maart 2008, wordt een punt 5° toegevoegd, dat luidt als volgt :<br />« 5° vanaf het begrotingsjaar 2008 tot en het met begrotingsjaar 2010 het procentueel aandeel van iedere universiteit in de jaarlijkse werkingstoelage. ».<br /><br />
 
 ## HOOFDSTUK XIV Vlaams Agentschap Ondernemen
+
+### ART. 55.
+
+...
 
 ## HOOFDSTUK XV Rentetoelage voor ondernemingen die lijden onder de verstoorde bereikbaarheid ten gevolge van hinder door openbare werken
 
