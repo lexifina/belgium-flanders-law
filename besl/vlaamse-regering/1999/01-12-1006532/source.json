@@ -2,16 +2,16 @@
   "codex_id": 1006532,
   "title": "Besluit van de Vlaamse Regering van 1999-01-12 betreffende het kiesreglement voor de verkiezing van de leden van de raad van bestuur van de Hogere Zeevaartschool en hun opvolgers en tot bepaling van de inwerkingtreding van artikel 60, §1 van het decreet van 9 juni 1998 betreffende de Hogere Zeevaartschool",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1006532/VolledigDocument?datum=2006-06-01",
-  "source_sha256": "ad0e48faeb4b38e9b2ecb30484a641d34f46c8f2095f98b39e2128305ff3590e",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1006532/VolledigDocument?datum=2009-01-01",
+  "source_sha256": "50fb07e8f7d171ea521fc8bea43339d260d4864ac2567c09ff641660a88e9f18",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1006532&param=informatie",
-  "as_of": "2006-06-01",
+  "as_of": "2009-01-01",
   "made": "1999-01-12",
   "gazette": "1999-02-23",
   "numac": 1999035200,
   "document_start": null,
   "document_end": "2008-12-31",
-  "in_force": "2006-06-01",
+  "in_force": "2009-01-01",
   "article_versions": 50,
-  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2009-01-01; future article versions excluded; article text as the API gives it"
 }
