@@ -2,16 +2,16 @@
   "codex_id": 1013511,
   "title": "Besluit van de Vlaamse Regering van 2004-10-01 houdende de normen voor de preventie van brand in de mini-crèches",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1013511/VolledigDocument?datum=2006-06-01",
-  "source_sha256": "33a214c29430dc273e4c483774f86f1234a159db8fdc66b14d90b1a5db84812e",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1013511/VolledigDocument?datum=2009-01-01",
+  "source_sha256": "acbe8a2ee1281c03b854cbe7b50edb795e2dd8491819a1b22d016eb025fefba2",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1013511&param=informatie",
-  "as_of": "2006-06-01",
+  "as_of": "2009-01-01",
   "made": "2004-10-01",
   "gazette": "2004-11-10",
   "numac": 2004036633,
   "document_start": "2005-01-01",
   "document_end": "2008-12-31",
-  "in_force": "2006-06-01",
+  "in_force": "2009-01-01",
   "article_versions": 23,
-  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2009-01-01; future article versions excluded; article text as the API gives it"
 }
