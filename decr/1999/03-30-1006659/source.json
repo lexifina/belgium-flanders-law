@@ -2,16 +2,16 @@
   "codex_id": 1006659,
   "title": "Decreet van 1999-03-30 houdende de organisatie van de zorgverzekering",
   "type": "Decreet",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1006659/VolledigDocument?datum=2006-06-01",
-  "source_sha256": "78cfb1392cccb3de043515b746345782dc1ad30f2a8ba64d3a29a5dab989aa20",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1006659/VolledigDocument?datum=2009-01-01",
+  "source_sha256": "3f8335c01bc5e6498d3a799a199933c69cf28b658844e5d2e0c33f5b54285026",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1006659&param=informatie",
-  "as_of": "2006-06-01",
+  "as_of": "2009-01-01",
   "made": "1999-03-30",
   "gazette": "1999-05-28",
   "numac": 1999035594,
   "document_start": null,
   "document_end": "2017-01-01",
-  "in_force": "2006-06-01",
+  "in_force": "2009-01-01",
   "article_versions": 31,
-  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2009-01-01; future article versions excluded; article text as the API gives it"
 }
