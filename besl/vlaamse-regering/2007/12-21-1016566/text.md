@@ -1441,13 +1441,13 @@ De Vlaamse minister, bevoegd voor het Onderwijs, is belast met de uitvoering van
 		</tr>
 		<tr>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:176.4pt">
-			<p><strong>Specialisatiejaren tso</strong></p>
+			<p><strong>Se-n-Se tso</strong></p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:53.9pt">
 			<p><strong>&nbsp;</strong></p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:171.1pt">
-			<p><strong>Specialisatiejaren tso</strong></p>
+			<p><strong>Se-n-Se tso</strong></p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:59.2pt">
 			<p><strong>&nbsp;</strong></p>
@@ -1458,7 +1458,7 @@ De Vlaamse minister, bevoegd voor het Onderwijs, is belast met de uitvoering van
 			<p>Toegepaste autotechnieken</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:53.9pt">
-			<p>&nbsp;</p>
+			<p>S</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:171.1pt">
 			<p>&nbsp;</p>
