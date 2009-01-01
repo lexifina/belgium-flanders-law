@@ -1,0 +1,17 @@
+{
+  "codex_id": 1017604,
+  "title": "Besluit van de Vlaamse Regering van 2008-12-12 betreffende de biologische productie en de etikettering van biologische producten",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1017604/VolledigDocument?datum=2009-01-01",
+  "source_sha256": "51a173405cbc6f904ae81ea44d34bfed7c7c855fd01a8c9f4c1240300c6986c5",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1017604&param=informatie",
+  "as_of": "2009-01-01",
+  "made": "2008-12-12",
+  "gazette": "2009-02-20",
+  "numac": 2009035162,
+  "document_start": "2009-01-01",
+  "document_end": "2021-12-31",
+  "in_force": "2009-01-01",
+  "article_versions": 56,
+  "record_form": "consolidated version as in force on 2009-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
