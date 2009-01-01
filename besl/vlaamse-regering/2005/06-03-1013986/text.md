@@ -90,7 +90,7 @@ Voor het beleidsdomein financiën en begroting wordt het Vlaams Ministerie van F
 
 ### ART. 21.
 
-§ 1. Voor het beleidsdomein economie, wetenschap en innovatie wordt het Vlaams Ministerie van Economie, Wetenschap en Innovatie opgericht, dat bestaat uit het gelijknamige departement en het agentschap zonder rechtspersoonlijkheid Agentschap Economie. <br /><br />§ 2. De agentschappen met rechtspersoonlijkheid die tot het beleidsdomein economie, wetenschap en innovatie behoren, zijn:<br />1° Vlaams Agentschap Ondernemen;<br />2° N.V. Participatiemaatschappij Vlaanderen;<br />3° N.V. Limburgse Reconversiemaatschappij;<br />4° N.V. Vlaamse Participatiemaatschappij;<br />5° het Instituut voor Innovatie door Wetenschap en Technologie;<br />6° Vlaamse Instelling voor Technologisch onderzoek (*);<br />7° Fonds Wetenschappelijk Onderzoek (*).
+§ 1. Voor het beleidsdomein economie, wetenschap en innovatie wordt het Vlaams Ministerie van Economie, Wetenschap en Innovatie opgericht, dat bestaat uit het gelijknamige departement en het agentschap zonder rechtspersoonlijkheid Agentschap Ondernemen. <br /><br />§ 2. De agentschappen met rechtspersoonlijkheid die tot het beleidsdomein economie, wetenschap en innovatie behoren, zijn:<br />1° ...;<br />2° N.V. Participatiemaatschappij Vlaanderen;<br />3° N.V. Limburgse Reconversiemaatschappij;<br />4° N.V. Vlaamse Participatiemaatschappij;<br />5° het Instituut voor Innovatie door Wetenschap en Technologie;<br />6° Vlaamse Instelling voor Technologisch onderzoek (*);<br />7° Fonds Wetenschappelijk Onderzoek (*).
 
 ### ART. 22.
 
@@ -102,7 +102,7 @@ Voor het beleidsdomein financiën en begroting wordt het Vlaams Ministerie van F
 
 ### ART. 24.
 
-§ 1. Voor het beleidsdomein cultuur, jeugd, sport en media wordt het Vlaams Ministerie van Cultuur, Jeugd, Sport en Media opgericht, dat bestaat uit het gelijknamige departement en twee agentschappen zonder rechtspersoonlijkheid:<br /><br />1° Kunsten en Erfgoed;<br /><br />2° Sociaal-Cultureel Werk voor Jeugd en Volwassenen. <br /><br />§ 2. De agentschappen met rechtspersoonlijkheid die tot het beleidsdomein cultuur, jeugd, sport en media behoren, zijn:<br /><br />1° Bloso;<br /><br />2° Vlaamse Regulator voor de Media (*);<br />
+§ 1. Voor het beleidsdomein cultuur, jeugd, sport en media wordt het Vlaams Ministerie van Cultuur, Jeugd, Sport en Media opgericht, dat bestaat uit het gelijknamige departement en drie agentschappen zonder rechtspersoonlijkheid:<br />1° Kunsten en Erfgoed;<br />2° Sociaal-Cultureel Werk voor Jeugd en Volwassenen. <br />3° Koninklijk Museum voor Schone Kunsten Antwerpen;<br /><br />§ 2. De agentschappen met rechtspersoonlijkheid die tot het beleidsdomein cultuur, jeugd, sport en media behoren, zijn:<br />1° Bloso;<br />2° Vlaamse Regulator voor de Media (*);<br />
 
 ### ART. 25.
 
