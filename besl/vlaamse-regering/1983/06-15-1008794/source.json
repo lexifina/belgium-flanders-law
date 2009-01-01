@@ -1,0 +1,17 @@
+{
+  "codex_id": 1008794,
+  "title": "Besluit van de Vlaamse Regering van 1983-06-15 houdende vaststelling van de toepassingsmodaliteiten van artikel 49 van het decreet houdende de begroting van de Vlaamse Gmeenschap voor het begrotingsjaar 1983",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1008794/VolledigDocument?datum=2009-01-01",
+  "source_sha256": "990a83d180a61bf89ae5a5d8e98266778fc5e28b4226811ca20b2ce66bc908c2",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1008794&param=informatie",
+  "as_of": "2009-01-01",
+  "made": "1983-06-15",
+  "gazette": "1983-07-08",
+  "numac": 1983023322,
+  "document_start": null,
+  "document_end": "2008-12-31",
+  "in_force": "2009-01-01",
+  "article_versions": 1,
+  "record_form": "consolidated version as in force on 2009-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
