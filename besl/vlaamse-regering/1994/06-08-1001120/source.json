@@ -2,16 +2,16 @@
   "codex_id": 1001120,
   "title": "Besluit van de Vlaamse Regering van 1994-06-08 betreffende het financiële en materiële beheer van de dienst met afzonderlijk beheer Hogere Zeevaartschool Antwerpen/Oostende",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1001120/VolledigDocument?datum=2006-06-01",
-  "source_sha256": "7a0b4da99f1ed21720478749d55140ad916b70f806d88cebb22427b2d157fc75",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1001120/VolledigDocument?datum=2009-01-01",
+  "source_sha256": "701341573e2bf38037e82d9ec3a297efdbc43d6f4339c908d6d241503f028b18",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1001120&param=informatie",
-  "as_of": "2006-06-01",
+  "as_of": "2009-01-01",
   "made": "1994-06-08",
   "gazette": "1994-10-20",
   "numac": 1994036121,
   "document_start": null,
   "document_end": "2008-12-31",
-  "in_force": "2006-06-01",
+  "in_force": "2009-01-01",
   "article_versions": 24,
-  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2009-01-01; future article versions excluded; article text as the API gives it"
 }
