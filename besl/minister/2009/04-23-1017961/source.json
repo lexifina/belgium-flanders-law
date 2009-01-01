@@ -1,0 +1,17 @@
+{
+  "codex_id": 1017961,
+  "title": "Ministerieel besluit van 2009-04-23 tot aanwijzing van een geneesheer-inspecteur-psychiater voor het uitoefenen van toezicht op de naleving van de wet van 26 juni 1990 betreffende de bescherming van de persoon van de geesteszieke",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1017961/VolledigDocument?datum=2009-01-01",
+  "source_sha256": "e28c752dd9fb443c9a74c390a53e90389309d4e9dde1f05b95cb018760731109",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1017961&param=informatie",
+  "as_of": "2009-01-01",
+  "made": "2009-04-23",
+  "gazette": "2009-06-08",
+  "numac": 2009202317,
+  "document_start": "2009-01-01",
+  "document_end": "2015-06-10",
+  "in_force": "2009-01-01",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2009-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
