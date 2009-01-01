@@ -660,14 +660,13 @@ Het jaarsalaris, hierna salaris genoemd, van de gewestelijk ontvanger wordt vast
 
 ### ART. 132.
 
-Aan de graad van gewestelijke ontvanger wordt de volgende salarisschaal verbonden.<br>
-<br>
+Aan de graad van gewestelijk ontvanger wordt de volgende salarisschaal verbonden.<br>
 
 <table border="1" cellpadding="0" cellspacing="0" style="border-collapse:collapse">
 	<tbody>
 		<tr>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:230.3pt">
-			<p>&nbsp;</p>
+			<p><!--?xml:namespace prefix         = o ns = "urn:schemas-microsoft-com:office:office"         /-->&nbsp;</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:230.3pt">
 			<p>Gewestelijk ontvanger</p>

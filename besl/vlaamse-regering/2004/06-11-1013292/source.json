@@ -2,16 +2,16 @@
   "codex_id": 1013292,
   "title": "Besluit van de Vlaamse Regering van 2004-06-11 tot vaststelling van het statuut van de [gewestelijk ontvangers]",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1013292/VolledigDocument?datum=2008-12-08",
-  "source_sha256": "2a431b32500642b38fbd67d6f110391c78fbe664a6cf81cbdd3be3b5c74ba22c",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1013292/VolledigDocument?datum=2009-01-01",
+  "source_sha256": "72bd14b43b013c4c51debb4ac800a184d34e4d468cdebc162004d206542b8ead",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1013292&param=informatie",
-  "as_of": "2008-12-08",
+  "as_of": "2009-01-01",
   "made": "2004-06-11",
   "gazette": "2004-08-03",
   "numac": 2004036201,
   "document_start": "2004-07-01",
   "document_end": "2012-12-31",
-  "in_force": "2008-12-08",
+  "in_force": "2009-01-01",
   "article_versions": 184,
-  "record_form": "consolidated version as in force on 2008-12-08; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2009-01-01; future article versions excluded; article text as the API gives it"
 }
