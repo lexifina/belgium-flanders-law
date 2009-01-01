@@ -2,16 +2,16 @@
   "codex_id": 1009295,
   "title": "Besluit van de Vlaamse Regering van 2002-05-03 tot instelling van de aanmoedigingspremies in de Vlaamse private sociale profitsector",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1009295/VolledigDocument?datum=2006-06-01",
-  "source_sha256": "17c4f4cb478d2de54b78f021b16bd77f7bbcd2d9303c0da276ef22ba5d173eaa",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1009295/VolledigDocument?datum=2009-01-01",
+  "source_sha256": "202d2e43c0ee81f44ffb3ef65ad2b28a94c61bf3f4798c0aa75addbc9e7a229c",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1009295&param=informatie",
-  "as_of": "2006-06-01",
+  "as_of": "2009-01-01",
   "made": "2002-05-03",
   "gazette": "2002-07-27",
   "numac": 2002035925,
   "document_start": "2002-01-01",
   "document_end": null,
-  "in_force": "2006-06-01",
+  "in_force": "2009-01-01",
   "article_versions": 30,
-  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2009-01-01; future article versions excluded; article text as the API gives it"
 }
