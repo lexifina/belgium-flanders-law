@@ -90,7 +90,7 @@ Onverminderd de regels bepaald in de artikelen 41 en 50 van de wetten op de rijk
 
 ### ART. 19bis.
 
-§ 1. Vanaf het begrotingsjaar 2008 wordt op de begroting van het Vlaamse Gewest een aanvullende dotatie aan het Vlaams Gemeentefonds ingeschreven. De aanvullende dotatie bedraagt 83.000.000 euro in het jaar 2008 en wordt vanaf het begrotingsjaar 2009 jaarlijks aangepast aan de inflatie.<br /><br />§ 2. De berekende aanvullende dotatie wordt afgerond op het hogere duizendtal.
+§ 1. Vanaf het begrotingsjaar 2008 wordt op de begroting van het Vlaamse Gewest een aanvullende dotatie aan het Vlaams Gemeentefonds ingeschreven. De aanvullende dotatie bedraagt 83.000.000 euro in het jaar 2008 en wordt vanaf het begrotingsjaar 2009 jaarlijks vastgesteld op een bedrag dat minstens gelijk is aan de dotatie van het vorige jaar.<br /><br />§ 2. De berekende aanvullende dotatie wordt afgerond op het hogere duizendtal.
 
 ### ART. 19ter.
 
