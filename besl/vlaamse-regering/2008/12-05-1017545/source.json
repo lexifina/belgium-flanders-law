@@ -1,0 +1,17 @@
+{
+  "codex_id": 1017545,
+  "title": "Besluit van de Vlaamse Regering van 2008-12-05 tot toekenning van subsidies aan sociale verhuurkantoren voor het uitvoeren van energiebesparende investeringen in woongebouwen",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1017545/VolledigDocument?datum=2009-01-01",
+  "source_sha256": "8e64462ce0016e386ac3e7cacb59243af004510d2ffd218b7a5faa9eb3389b73",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1017545&param=informatie",
+  "as_of": "2009-01-01",
+  "made": "2008-12-05",
+  "gazette": "2009-02-06",
+  "numac": 2009200329,
+  "document_start": null,
+  "document_end": "2010-12-31",
+  "in_force": "2009-01-01",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2009-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
