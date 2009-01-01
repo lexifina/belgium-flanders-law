@@ -2,16 +2,16 @@
   "codex_id": 1010804,
   "title": "Decreet van 2003-01-31 betreffende het economisch ondersteuningsbeleid",
   "type": "Decreet",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1010804/VolledigDocument?datum=2006-06-01",
-  "source_sha256": "8ad81f9b7e3aad4218a0fe6545f092cf2492cc1115ce5c8050df8ec2645c53a3",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1010804/VolledigDocument?datum=2009-01-01",
+  "source_sha256": "24602514eb23c2c3cefc24df0a0dde3c3c1245b7930567a3c61f519ea19ea1ee",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1010804&param=informatie",
-  "as_of": "2006-06-01",
+  "as_of": "2009-01-01",
   "made": "2003-01-31",
   "gazette": "2003-03-25",
   "numac": 2003035307,
   "document_start": null,
   "document_end": "2012-05-06",
-  "in_force": "2006-06-01",
+  "in_force": "2009-01-01",
   "article_versions": 42,
-  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2009-01-01; future article versions excluded; article text as the API gives it"
 }
