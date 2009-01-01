@@ -6,12 +6,12 @@ De Vlaamse minister van Openbare Werken, Energie, Leefmilieu en Natuur,<br /><br
 
 ### ART. 1.
 
-In artikel 1, § 1, van het ministerieel besluit van 12 maart 2008 houdende de bepaling van de klassen van bijdrageplichtige veebedrijven en nadere bepalingen over het abonnement voor de financiering van de ophaling en verwerking van krengen voor 2008 wordt de zin "Alle bedrijven aan wie op basis van het decreet van 22 december 2006 een nutriëntenhalte of nutriëntenemissierechten werd toegekend worden beschouwd als een bijdrageplichtig veebedrijf." vervangen door de zin "Alle bedrijven die voor het aanslagjaar 2007 bij de Mestbank een aangifte hebben ingediend, waarop minstens één dier werd aangegeven, worden beschouwd als een bijdrageplichtig veebedrijf." <br /><br />
+...
 
 ### ART. 2.
 
-In artikel 1, § 3, van hetzelfde ministerieel besluit wordt het tweede lid vervangen door wat volgt :<br />"De bedragen die vastgelegd worden in dit besluit, zijn exclusief BTW. <br /><br />De gemiddelde bezetting wordt bepaald op basis van de gemiddelde veebezetting zoals geregistreerd bij de aangifte van het aanslagjaar 2007, overeenkomstig artikel 3 van het decreet van 23 januari 1991 inzake de bescherming van het leefmilieu tegen de verontreiniging door meststoffen, zoals gewijzigd." <br /><br />
+...
 
 ### ART. 3.
 
-Dit besluit treedt in werking op 1 januari 2008 en is geldig tot 31 december 2008.<br /><br />
+...
