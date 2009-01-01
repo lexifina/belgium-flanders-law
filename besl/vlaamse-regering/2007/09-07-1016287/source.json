@@ -2,16 +2,16 @@
   "codex_id": 1016287,
   "title": "Besluit van de Vlaamse Regering van 2007-09-07 betreffende de informatieplichten in het kader van Brownfieldconvenanten",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1016287/VolledigDocument?datum=2007-10-29",
-  "source_sha256": "3d7f7bfd26000cf5fc1ba35cb3e0fddcdccb0022ed67f559d6ffd3487c7bdb5f",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1016287/VolledigDocument?datum=2009-01-01",
+  "source_sha256": "2f875bee4979e03159bd2fe79802fd3efc13833f79b0fb9adf11643fde03aee7",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1016287&param=informatie",
-  "as_of": "2007-10-29",
+  "as_of": "2009-01-01",
   "made": "2007-09-07",
   "gazette": "2007-10-29",
   "numac": 2007036847,
   "document_start": "2007-10-29",
   "document_end": null,
-  "in_force": "2007-10-29",
+  "in_force": "2009-01-01",
   "article_versions": 9,
-  "record_form": "consolidated version as in force on 2007-10-29; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2009-01-01; future article versions excluded; article text as the API gives it"
 }
