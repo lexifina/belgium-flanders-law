@@ -1,0 +1,17 @@
+{
+  "codex_id": 1017306,
+  "title": "Besluit van de Vlaamse Regering van 2008-09-19 houdende de normen voor de preventie van brand in de voorzieningen voor kinderopvang",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1017306/VolledigDocument?datum=2009-01-01",
+  "source_sha256": "60765368f27b0adab6ac79d1b44707cebd92c00114c48e9197a05fd0e67a33ff",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1017306&param=informatie",
+  "as_of": "2009-01-01",
+  "made": "2008-09-19",
+  "gazette": "2008-11-21",
+  "numac": 2008204070,
+  "document_start": "2009-01-01",
+  "document_end": "2014-03-31",
+  "in_force": "2009-01-01",
+  "article_versions": 33,
+  "record_form": "consolidated version as in force on 2009-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
