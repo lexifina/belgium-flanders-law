@@ -3908,7 +3908,7 @@ Het ontslag van het vast aangestelde statutaire personeelslid verloopt volgens d
 
 ### ART. 51.
 
-§ 1. Met behoud van de toepassing van artikel 115, tweede lid, van het gemeentedecreet en artikel 111, tweede lid, van het provinciedecreet, bepaalt de raad voor de evaluatie van de gemeentesecretaris, de adjunct-gemeentesecretaris, de financieel beheerder van de gemeente, de provinciegriffier en de financieel beheerder van de provincie de volgende elementen :<br />1° de evaluatie tijdens de proeftijd;<br />2° de duur van de evaluatieperiodes, die dezelfde is als voor de andere personeelsleden;<br />3° de evaluatiecriteria;<br />4° de evaluatieresultaten en de mogelijke gevolgen ervan.<br /><br />De raad bepaalt de wijze waarop de externe deskundigen in het personeelsbeleid betrokken worden bij de vaststelling van de evaluatiecriteria en de wijze waarop zij de noodzakelijke informatie vergaren voor de opmaak van het voorbereidende rapport, vermeld in artikel 115, tweede lid, van het gemeentedecreet en in artikel 111, tweede lid, van het provinciedecreet.<br /><br />§ 2. De evaluatiecriteria worden vastgesteld voor :<br />1° de gemeentesecretaris en de provinciegriffier : na overleg van de functiehouders met het college van burgemeester en schepenen of de deputatie;<br />2° de adjunct-gemeentesecretaris : na overleg van de adjunct-gemeentesecretaris met de gemeentesecretaris en het college van burgemeester en schepenen;<br />3° de financieel beheerder van de gemeente en de financieel beheerder van de provincie : na overleg met de gemeentesecretaris of de provinciegriffier en het college van burgemeester en schepenen of de deputatie.<br /><br />§ 3. De onafhankelijkheid waarmee de financieel beheerder van de gemeente en de financieel beheerder van de provincie bepaalde taken, vermeld in het gemeentedecreet en in het provinciedecreet, uitvoeren, mag niet het voorwerp zijn van evaluatie. De mate waarin zij zich inzetten voor de uitvoering van die taken is wel een aandachtspunt in de evaluatie.<br />
+§ 1. Met behoud van de toepassing van artikel 115, tweede lid, van het gemeentedecreet en artikel 111, tweede lid, van het provinciedecreet, bepaalt de raad voor de evaluatie van de gemeentesecretaris, de adjunct-gemeentesecretaris, de financieel beheerder van de gemeente, de provinciegriffier en de financieel beheerder van de provincie de volgende elementen :<br />1° de evaluatie tijdens de proeftijd;<br />2° de duur van de evaluatieperiodes, die dezelfde is als voor de andere personeelsleden;<br />3° de evaluatiecriteria;<br />4° de evaluatieresultaten en de mogelijke gevolgen ervan.<br /><br />De raad bepaalt de wijze waarop de externe deskundigen in het personeelsbeleid betrokken worden bij de vaststelling van de evaluatiecriteria en de wijze waarop zij de noodzakelijke informatie vergaren voor de opmaak van het voorbereidende rapport, vermeld in artikel 115, tweede lid, van het gemeentedecreet en in artikel 111, tweede lid, van het provinciedecreet.<br /><br />§ 2. De evaluatiecriteria worden vastgesteld voor :<br />1° de gemeentesecretaris en de provinciegriffier : na overleg van de functiehouders met het college van burgemeester en schepenen of de deputatie;<br />2° de adjunct-gemeentesecretaris : na overleg van de adjunct-gemeentesecretaris met de gemeentesecretaris en het college van burgemeester en schepenen;<br />3° de financieel beheerder van de gemeente en de financieel beheerder van de provincie : na overleg van de financieel beheerder met de gemeentesecretaris of de provinciegriffier en het college van burgemeester en schepenen of de deputatie.<br /><br />§ 3. De onafhankelijkheid waarmee de financieel beheerder van de gemeente en de financieel beheerder van de provincie bepaalde taken, vermeld in het gemeentedecreet en in het provinciedecreet, uitvoeren, mag niet het voorwerp zijn van evaluatie. De mate waarin zij zich inzetten voor de uitvoering van die taken is wel een aandachtspunt in de evaluatie.<br />
 
 ### ART. 52.
 
@@ -3978,7 +3978,7 @@ De functionele loopbanen en de voorwaarden voor doorstroming naar de volgende sa
 
 ### ART. 66.
 
-De functionele loopbaan en de voorwaarden voor doorstroming naar de volgende salarisschalen voor niveau D zijn, voor de graad van rang Dv, vermeld in artikel 7, tweede lid :<br /><br />D1-D2-D3 :<br /><br />1° van D1 naar D2 na vier jaar schaalanciënniteit in D1 en een gunstig evaluatieresultaat;<br /><br />2° van D2 naar D3 na achttien jaar gecumuleerde schaalanciënniteit in D1 en D2 en een gunstig evaluatieresultaat.<br />
+De functionele loopbaan en de voorwaarden voor doorstroming naar de volgende salarisschalen voor niveau D zijn :<br />1° voor de graad van rang Dv, vermeld in artikel 7, tweede lid :<br />D1-D2-D3 :<br />a) van D1 naar D2 na vier jaar schaalanciënniteit in D1 en gunstig evaluatieresultaat;<br />b) van D2 naar D3 na achttien jaar gecumuleerde schaalanciënniteit in D1 en D2 en een gunstig evaluatieresultaat;<br />2° voor de technische hogere graad van rang Dx, vermeld in artikel 7, tweede lid, waaraan de functiebeschrijving in hoofdzaak de leiding over een ploeg medewerkers verbindt, en op voorwaarde dat de functiehouder van die graad die leidinggevende opdracht ook effectief vervult :<br />D4-D5 : van D4 naar D5 na negen jaar schaalanciënniteit in D4 en een gunstig evaluatieresultaat.
 
 ### ART. 67.
 
@@ -4066,7 +4066,7 @@ Artikel 14, § 1, en artikel 15 zijn van toepassing als het mandaat opengesteld 
 
 ### ART. 83.
 
-Om toegang te hebben tot een vacante mandaatfunctie, moet de kandidaat :<br />1° voldoen aan de algemene toelatingsvoorwaarden, vermeld in artikel 10, en aan de aanwervingsvoorwaarden, vermeld in artikel 11, 1°, als de vacature vervuld wordt bij aanwerving;<br />2° voldoen aan de algemene toelatingsvoorwaarden, vermeld in artikel 10, en aan de voorwaarden, vermeld in artikel 69, § 2, en in artikel 72, § 1, 1° tot en met 3°, als de vacature vervuld wordt bij bevordering;<br />3° voldoen aan de algemene toelatingsvoorwaarden in artikel 10, en aan de voorwaarden, vermeld in artikel 75, § 2, en in artikel 77, als de vacature vervuld wordt bij interne personeelsmobiliteit;<br />4° slagen voor de selectieproeven voor de mandaatfunctie, ongeacht de wijze waarop de vacature vervuld wordt.<br />
+Om toegang te hebben tot een vacante mandaatfunctie, moet de kandidaat :<br />1° voldoen aan de algemene toelatingsvoorwaarden, vermeld in artikel 10, en aan de aanwervingsvoorwaarden, vermeld in artikel 11, § 1, 1°, en § 2, als de vacature vervuld wordt bij aanwerving;<br />2° voldoen aan de algemene toelatingsvoorwaarden, vermeld in artikel 10, en aan de voorwaarden, vermeld in artikel 69, § 2, en in artikel 72, § 1, 1° tot en met 3°, als de vacature vervuld wordt bij bevordering;<br />3° voldoen aan de algemene toelatingsvoorwaarden in artikel 10, en aan de voorwaarden, vermeld in artikel 75, § 2, en in artikel 77, als de vacature vervuld wordt bij interne personeelsmobiliteit;<br />4° slagen voor de selectieproeven voor de mandaatfunctie, ongeacht de wijze waarop de vacature vervuld wordt.<br />
 
 ### ART. 84.
 
@@ -4102,7 +4102,7 @@ Als een mandaathouder met toepassing van artikel 89, eerste lid, terugkeert naar
 
 ### ART. 91.
 
-Met behoud van de toepassing van artikel 88, § 2, laatste lid, wordt een mandaathouder in statutair verband in de volgende gevallen van het mandaat ontheven voor de afloop van de mandaatperiode :<br />1° op eigen verzoek;<br />2° voor een mandaathouder in een functie als vermeld in artikel 80, § 2, 2°, wegens aanstelling in een andere functie binnen het bestuur na een aanwervings- of een bevorderingsprocedure of een procedure van interne personeelsmobiliteit;<br />3° wegens herplaatsing met toepassing van artikel 99, § 1, eerste lid, of van artikel 101, § 1, eerste lid;<br />4° wegens pensionering.<br />
+Met behoud van de toepassing van artikel 88, § 2, laatste lid, wordt een mandaathouder in statutair verband in de volgende gevallen van het mandaat ontheven voor de afloop van de mandaatperiode :<br />1° op eigen verzoek;<br />2° voor een mandaathouder in een functie als vermeld in artikel 80, § 2, 2°, wegens aanstelling in een andere functie binnen het bestuur na een aanwervings- of een bevorderingsprocedure of een procedure van interne personeelsmobiliteit;<br />3° wegens herplaatsing met toepassing van artikel 99, § 1, of van artikel 101, § 1, eerste lid; <br />4° wegens pensionering.<br />
 
 ## HOOFDSTUK II. Het opdrachthouderschap
 
@@ -4559,7 +4559,7 @@ De gemeenteraad stelt de salarisschaal van de adjunct-gemeentesecretaris vast. D
 
 ### ART. 124.
 
-De gemeenteraad van de gemeenten met meer dan 5000 inwoners bepaalt de salarisschaal van de financieel beheerder, binnen de hieronder vastgestelde minimum- en maximumgrenzen, uitgedrukt in euro :<br />1° gemeenten van 5001 tot 6000 inwoners : 22.842,80 - 34.246,93;<br />2° gemeenten van 6001 tot 8000 inwoners : 24.751,38 - 36.455,41;<br />3° gemeenten van 8001 tot 10.000 inwoners : 26.439,17 - 38.979,14;<br />4° gemeenten van 10.001 tot 15.000 inwoners : 28.473,97 - 42.055,31;<br />5° gemeenten van 15.001 tot 20.000 inwoners : 30.871,54 - 45.052,29;<br />6° gemeenten van 20.001 tot 25.000 inwoners : 32.638,20 - 48.049,46;<br />7° gemeenten van 25.001 tot 35.000 inwoners : 34.673,04 - 51.203,63;<br />8° gemeenten van 35.001 tot 50.000 inwoners : 36.786,67 - 54.200,72;<br />9° gemeenten van 50.001 tot 80.000 inwoners : 39.326,23 - 57.513,48;<br />10° gemeenten van 80.001 tot 150.000 inwoners : 41.644,93 - 60.668,18;<br />11° gemeenten van meer dan 150.000 inwoners : 45.162,46 - 65.399,92.<br /><br />De salarisverhogingen van de financieel beheerder mogen niet gespreid worden over meer dan drieëntwintig jaar, noch over minder dan vijftien jaar. Ze worden op evenredige wijze gespreid volgens de bepalingen van artikel 109, 2°.<br /><br />Als het inwoneraantal van de gemeente daalt onder het minimale aantal inwoners, op basis waarvan met toepassing van het eerste lid de salarisschaal van de financieel beheerder werd vastgesteld, dan behoudt de financieel beheerder in dienst zijn salarisschaal op persoonlijke titel.<br />
+De gemeenteraad van de gemeenten met meer dan 5.000 inwoners bepaalt de salarisschaal van de financieel beheerder, binnen de hieronder vastgestelde minimum- en maximumgrenzen, uitgedrukt in euro, die gelden vanaf 1 januari 2009 :<br />1° gemeenten van 5.001 tot 6.000 inwoners : 22.842,80 - 34.246,93;<br />2° gemeenten van 6.001 tot 15.000 inwoners : 28.473,97 - 42.055,31;<br />3° gemeenten van 15.001 tot 20.000 inwoners : 30.871,54 - 45.052,29;<br />4° gemeenten van 20.001 tot 25.000 inwoners : 32.638,20 - 48.049,46;<br />5° gemeenten van 25.001 tot 35.000 inwoners : 34.673,04 - 51.203,63;<br />6° gemeenten van 35.001 tot 50.000 inwoners : 36.786,67 - 54.200,72;<br />7° gemeenten van 50.001 tot 80.000 inwoners : 39.326,23 - 57.513,48;<br />8° gemeenten van 80.001 tot 150.000 inwoners : 41.644,93 - 60.668,18;<br />9° gemeenten van meer dan 150.000 inwoners : 45.162,46 - 65.399,92.<br /><br />De salarisverhogingen van de financieel beheerder worden gespreid over vijftien jaar. Ze worden op evenredige wijze gespreid volgens de bepalingen van artikel 109, 2°.<br /><br />Als het inwoneraantal van de gemeente daalt onder het minimale aantal inwoners, op basis waarvan met toepassing van het eerste lid de salarisschaal van de financieel beheerder werd vastgesteld, dan behoudt de financieel beheerder in dienst zijn salarisschaal op persoonlijke titel.
 
 ### ART. 125.
 
@@ -4763,7 +4763,7 @@ De raad werkt nadere procedureregels uit voor de indiening en vergoeding van doo
 
 ### ART. 156.
 
-§ 1. Het personeelslid dat voor dienstreizen van zijn eigen motorvoertuig gebruikmaakt, heeft recht op een vergoeding van 0,2903 euro per kilometer. De kilometervergoeding dekt alle kosten die gepaard gaan met het gebruik van het eigen motorvoertuig, met uitzondering van de parkeerkosten. Onder motorvoertuig wordt verstaan : een auto, motorfiets of bromfiets.<br /><br />Bij carpooling kan de vergoeding voor de bestuurder worden verhoogd met 0,1452 euro. De meereizende personeelsleden hebben geen recht op een kilometervergoeding.<br /><br />Het personeelslid heeft recht op de terugbetaling van eventuele parkeerkosten.<br /><br />Het personeelslid dat voor dienstreizen van de eigen fiets gebruikmaakt, ontvangt 0,15 euro per kilometer.<br /><br />§ 2. Als het personeelslid een reizende functie uitoefent, kan de vergoeding voor het gebruik van zijn privévoertuig uit een forfaitaire vergoeding bestaan. De raad bepaalt het bedrag van de vergoeding en de voorwaarden waaraan het personeelslid moet voldoen voor de toekenning ervan.<br /><br />§ 3. De bedragen van de kilometervergoeding en de forfaitaire vergoeding worden jaarlijks op 1 juli automatisch aangepast aan het algemene indexcijfer van de consumptieprijzen door de van kracht zijnde bedragen te vermenigvuldigen met een breuk waarvan de noemer gelijk is aan het consumptie-indexcijfer van de maand mei van het voorgaande jaar en de teller gelijk is aan het consumptie-indexcijfer van de maand mei van het lopende jaar.<br />
+§ 1. Het personeelslid dat voor dienstreizen van zijn eigen motorvoertuig gebruikmaakt, heeft op 1 januari 2007 recht op een vergoeding van 0,2903 euro per kilometer. De kilometervergoeding dekt alle kosten die gepaard gaan met het gebruik van het eigen motorvoertuig, met uitzondering van de parkeerkosten. Onder motorvoertuig wordt verstaan : een auto, motorfiets of bromfiets.<br /><br />Bij carpooling kan de vergoeding voor de bestuurder worden verhoogd met een bedrag dat op 1 januari 2007 gelijk is aan 0,1452 euro. De meereizende personeelsleden hebben geen recht op een kilometervergoeding. <br /><br />Het personeelslid heeft recht op de terugbetaling van eventuele parkeerkosten.<br /><br />Het personeelslid dat voor dienstreizen van de eigen fiets gebruikmaakt, ontvangt 0,15 euro per kilometer.<br /><br />§ 2. Als het personeelslid een reizende functie uitoefent, kan de vergoeding voor het gebruik van zijn privévoertuig uit een forfaitaire vergoeding bestaan. De raad bepaalt het bedrag van de vergoeding en de voorwaarden waaraan het personeelslid moet voldoen voor de toekenning ervan.<br /><br />§ 3. De bedragen van de kilometervergoeding en de forfaitaire vergoeding worden jaarlijks op 1 juli automatisch aangepast aan het algemene indexcijfer van de consumptieprijzen door de van kracht zijnde bedragen te vermenigvuldigen met een breuk waarvan de noemer gelijk is aan het consumptie-indexcijfer van de maand mei van het voorgaande jaar en de teller gelijk is aan het consumptie-indexcijfer van de maand mei van het lopende jaar.<br />
 
 ### ART. 157.
 
@@ -4899,7 +4899,7 @@ Bij verlenging van de postnatale rustperiode in overeenstemming met artikel 39, 
 
 ### ART. 183.
 
-Het statutaire personeelslid krijgt op zijn verzoek opvangverlof als een minderjarig kind in zijn gezin wordt opgenomen met het oog op adoptie of pleegvoogdij.<br /><br />Het opvangverlof bedraagt ten hoogste zes of ten hoogste vier weken naargelang het opgenomen kind de leeftijd van drie jaar nog niet heeft bereikt of al bereikt heeft.<br /><br />De maximumduur van het opvangverlof wordt verdubbeld als het opgenomen kind een handicap heeft.<br /><br />Als slechts een van de samenwonende partners adopteert of de pleegvoogdij uitoefent, kan alleen die persoon het verlof genieten.<br /><br />Tijdens het opvangverlof behoudt het statutaire personeelslid het recht op zijn gebruikelijke salaris.<br /><br />De raad kan bepalen dat :<br />1° de uitoefening van het recht op adoptieverlof een einde neemt op het ogenblik waarop het kind de leeftijd van acht jaar bereikt tijdens de opname van het verlof;<br />2° het adoptieverlof opgenomen moet worden in een aaneengesloten periode.<br /><br />Het bestuur kan bepalen dat de uitoefening van het recht op adoptieverlof een aanvang moet nemen binnen twee maanden die volgen op de inschrijving van het kind als lid van het gezin van de werknemer.<br />
+Het statutaire personeelslid krijgt op zijn verzoek opvangverlof als een minderjarig kind in zijn gezin wordt opgenomen met het oog op adoptie of pleegvoogdij.<br /><br />Het opvangverlof bedraagt ten hoogste zes of ten hoogste vier weken naargelang het opgenomen kind de leeftijd van drie jaar nog niet heeft bereikt of al bereikt heeft.<br /><br />De maximumduur van het opvangverlof wordt verdubbeld als het opgenomen kind een handicap heeft.<br /><br />Als slechts een van de samenwonende partners adopteert of de pleegvoogdij uitoefent, kan alleen die persoon het verlof genieten.<br /><br />Tijdens het opvangverlof behoudt het statutaire personeelslid het recht op zijn gebruikelijke salaris.<br /><br />De raad kan bepalen dat :<br />1° de uitoefening van het recht op adoptieverlof een einde neemt op het ogenblik waarop het kind de leeftijd van acht jaar bereikt tijdens de opname van het verlof;<br />2° het adoptieverlof opgenomen moet worden in een aaneengesloten periode.<br /><br />De raad kan bepalen dat de uitoefening van het recht op adoptieverlof een aanvang moet nemen binnen twee maanden die volgen op de inschrijving van het kind als lid van het gezin van de werknemer.<br />
 
 ## [Afdeling III. Pleegzorgverlof (ing. BVR 12 maart 2021, art. 16, I: 24 april 2021)]
 
@@ -5194,11 +5194,11 @@ De raad bepaalt de algemene wijze waarop de dienstvrijstellingen aangevraagd en 
 
 ### ART. 219.
 
-§ 1. De raad voor maatschappelijk welzijn bepaalt de salarisschaal van de secretaris, binnen de hieronder vastgestelde minimum- en maximumgrenzen, uitgedrukt in euro :<br />1° gemeenten van 5000 inwoners en minder : 21.850,00 - 34.000,00;<br />2° gemeenten van 5001 tot 6000 inwoners : 22.842,80 - 34.246,93;<br />3° gemeenten van 6001 tot 8000 inwoners : 24.751,38 - 36.455,41;<br />4° gemeenten van 8001 tot 10.000 inwoners : 26.439,16 - 38.979,09;<br />5° gemeenten van 10.000 tot 15.000 inwoners : 28.473,97 - 42.055,27;<br />6° gemeenten van 15.001 tot 20.000 inwoners : 30.871,55 - 45.052,31;<br />7° gemeenten van 20.001 tot 25.000 inwoners : 32.638,19 - 48.049,50;<br />8° gemeenten van 25.001 tot 35.000 inwoners : 34.673,05 - 51.204,02;<br />9° gemeenten van 35.001 tot 50.000 inwoners : 36.786,66 - 54.200,70;<br />10° gemeenten van 50.001 tot 80.000 inwoners : 39.326,23 - 57.513,50;<br />11° gemeenten van 80.001 tot 150.000 inwoners : 41.644,93 - 60.668,23;<br />12° gemeenten van meer dan 150.000 inwoners : 45.162,46 - 65.399,86.<br /><br />Als het inwoneraantal van de gemeente daalt onder het minimale aantal inwoners, op basis waarvan met toepassing van § 1, eerste lid, de salarisschaal van de OCMW-secretaris werd vastgesteld, dan behoudt de OCMW-secretaris in dienst zijn salarisschaal op persoonlijke titel.<br /><br />§ 2. De raad voor maatschappelijk welzijn van de gemeenten met meer dan 5000 inwoners bepaalt de salarisschaal van de ontvanger, binnen de hieronder vastgestelde minimum- en maximumgrenzen, uitgedrukt in euro :<br />1° gemeenten van 5001 tot 6000 inwoners : 22.271,73 - 33.390,85;<br />2° gemeenten van 6001 tot 8000 inwoners : 24.132,59 - 35.544,06;<br />3° gemeenten van 8001 tot 10.000 inwoners : 25.778,18 - 38.004,62;<br />4° gemeenten van 10.000 tot 15.000 inwoners : 27.762,12 - 41.003,95;<br />5° gemeenten van 15.001 tot 20.000 inwoners : 30.099.76 - 43.926,01;<br />6° gemeenten van 20.001 tot 25.000 inwoners : 31.822,22 - 46.848,25;<br />7° gemeenten van 25.001 tot 35.000 inwoners : 33.806,21 - 49.923,89;<br />8° gemeenten van 35.001 tot 50.000 inwoners : 35.867,00 - 52.845,77;<br />9° gemeenten van 50.001 tot 80.000 inwoners : 38.343,08 - 56.075,62;<br />10° gemeenten van 80.001 tot 150.000 inwoners : 40.603,80 - 59.151,51;<br />11° gemeenten van meer dan 150.000 inwoners : 44.033,41 - 63.764,90.<br /><br />Als het inwoneraantal van de gemeente daalt onder het minimale aantal inwoners, op basis waarvan met toepassing van § 2, eerste lid, de salarisschaal van de OCMW-ontvanger werd vastgesteld, dan behoudt de OCMW-ontvanger in dienst zijn salarisschaal op persoonlijke titel.<br />
+§ 1. De raad voor maatschappelijk welzijn bepaalt de salarisschaal van de secretaris binnen de hieronder vastgestelde minimum- en maximumgrenzen, uitgedrukt in euro, die gelden vanaf 1 januari 2009 :<br />1° gemeenten tot 6.000 inwoners : 23.642,30 - 35.455,57;<br />2° gemeenten van 6.001 tot 15.000 inwoners : 29.470,56- 43.527,20;<br />3° gemeenten van 15.001 tot 20.000 inwoners : 31.952,05 - 46.629,14;<br />4° gemeenten van 20.001 tot 25.000 inwoners : 33.780,53 - 49.731,23;<br />5° gemeenten van 25.001 tot 35.000 inwoners : 35.886,61 - 52.996,16;<br />6° gemeenten van 35.001 tot 50.000 inwoners : 38.074,19 - 56.097,72;<br />7° gemeenten van 50.001 tot 80.000 inwoners : 40.702,65 - 59.526,47;<br />8° gemeenten van 80.001 tot 150.000 inwoners : 43.102,50 - 62.791,62;<br />9° gemeenten van meer dan 150.000 inwoners : 46.743,15 - 67.688,86.<br /><br />Als het inwoneraantal van de gemeente daalt onder het minimale aantal inwoners, op basis waarvan met toepassing van het eerste lid de salarisschaal van de O.C.M.W.-secretaris werd vastgesteld, dan behoudt de O.C.M.W.-secretaris in dienst zijn salarisschaal op persoonlijke titel.<br /><br />§ 2. De raad voor maatschappelijk welzijn bepaalt de salarisschaal van de ontvanger binnen de hieronder vastgestelde minimum- en maximumgrenzen, uitgedrukt in euro, die gelden vanaf 1 januari 2009 :<br />1° gemeenten van 5.001 tot 6.000 inwoners : 22.271,73 - 33.390,85;<br />2° gemeenten van 6.001 tot 15.000 inwoners : 27.762,12 - 41.003,95;<br />3° gemeenten van 15.001 tot 20.000 inwoners : 30.099.76 - 43.926,01;<br />4° gemeenten van 20.001 tot 25.000 inwoners : 31.822,22 - 46.848,25;<br />5° gemeenten van 25.001 tot 35.000 inwoners : 33.806,21 - 49.923,89;<br />6° gemeenten van 35.001 tot 50.000 inwoners : 35.867,00 - 52.845,77;<br />7° gemeenten van 50.001 tot 80.000 inwoners : 38.343,08 - 56.075,62;<br />8° gemeenten van 80.001 tot 150.000 inwoners : 40.603,80 - 59.151,51;<br />9° gemeenten van meer dan 150.000 inwoners : 44.033,41 - 63.764,90.<br /><br />Als het inwoneraantal van de gemeente daalt onder het minimale aantal inwoners, op basis waarvan met toepassing van het eerste lid de salarisschaal van de O.C.M.W.-ontvanger werd vastgesteld, dan behoudt de O.C.M.W.-ontvanger in dienst zijn salarisschaal op persoonlijke titel.
 
 ### ART. 220.
 
-De periodieke salarisverhogingen van de secretaris en van de ontvanger van het openbaar centrum voor maatschappelijk welzijn mogen niet gespreid worden over meer dan drieëntwintig jaar, noch over minder dan vijftien jaar. De salarisverhogingen, uitgedrukt in salaristrappen, worden op evenredige wijze gespreid.<br /><br />Het salaris van de secretaris en van de ontvanger van het openbaar centrum voor maatschappelijk welzijn volgt het verloop van het indexcijfer van de consumptieprijzen. Het salaris tegen 100 % wordt gekoppeld aan het spilindexcijfer 138,01.<br />
+Vanaf 1 januari 2009 worden de periodieke salarisverhogingen van de secretaris en de ontvanger van het openbaar centrum voor maatschappelijk welzijn gespreid over vijftien jaar. De salarisverhogingen, uitgedrukt in salaristrappen, worden op evenredige wijze gespreid.<br /><br />Het salaris van de secretaris en van de ontvanger van het openbaar centrum voor maatschappelijk welzijn volgt het verloop van het indexcijfer van de consumptieprijzen. Het salaris tegen 100 % wordt gekoppeld aan het spilindexcijfer 138,01.<br />
 
 ## TITEL XI. Slotbepalingen
 
@@ -5238,7 +5238,7 @@ De gemeentesecretaris in dienst en de financieel beheerder van de gemeente in di
 
 ### ART. 227.
 
-Het statutaire personeelslid in dienst dat voorheen met toepassing van het koninklijk besluit van 17 november 1976 tot vaststelling van de grens van de algemene bepalingen betreffende de toekenning van een toelage voor gevaarlijk, ongezond of hinderlijk werk aan sommige personeelsleden van de provincies en de gemeenten voor occasionele gevaarlijke of hinderlijke werken een toelageregeling genoot die gunstiger is dan de regeling, vermeld in artikel 146, behoudt die gunstigere regeling ook na de datum van de plaatselijke uitvoering van dit besluit.<br />
+Het statutaire personeelslid in dienst dat voorheen met toepassing van het koninklijk besluit van 17 november 1976 tot vaststelling van de grens van de algemene bepalingen betreffende de toekenning van een toelage voor gevaarlijk, ongezond of hinderlijk werk aan sommige personeelsleden van de provincies en de gemeenten voor occasionele gevaarlijke of hinderlijke werken een toelageregeling genoot die gunstiger is dan de regeling, vermeld in artikel 146 en 147, behoudt die gunstigere regeling ook na de datum van de plaatselijke uitvoering van dit besluit.<br />
 
 ### ART. 228.
 
@@ -5247,6 +5247,10 @@ Het statutaire personeelslid dat met toepassing van artikel 18 van het besluit v
 ### ART. 229.
 
 De raad kan bepalen dat het statutaire personeelslid in dienst dat op grond van de plaatselijke rechtspositieregeling een vergoeding heeft gekregen voor niet-gemotoriseerde verplaatsingen van en naar het werk, die vergoeding op persoonlijke titel behoudt na de plaatselijke uitvoering van dit besluit.<br />
+
+### ART. 229bis.
+
+In afwijking van artikel 131, eerste lid, kan de raad bepalen dat het statutaire personeelslid in dienst op 1 januari 2009, dat op grond van de plaatselijke rechtspositieregeling voorheen een andere toelage of vergoeding kreeg dan die welke vermeld worden in titel VIII of in deze afdeling en die niet onder het toepassingsgebied valt van artikel 132, op persoonlijke titel die toelage of die vergoeding behoudt, ook na de datum van de plaatselijke uitvoering van dit besluit.
 
 ## Afdeling II. De plaatselijke uitvoering van het besluit en diverse lopende procedures en lopende periodes
 
@@ -8306,6 +8310,9 @@ Niveau D<br>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; width:81pt">
 			<p>D4</p>
 			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:81pt">
+			<p>D5</p>
+			</td>
 		</tr>
 		<tr>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; width:77.4pt">
@@ -8332,6 +8339,11 @@ Niveau D<br>
 			<p>16.900</p>
 
 			<p>21.950</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:81pt">
+			<p>17.000</p>
+
+			<p>23.800</p>
 			</td>
 		</tr>
 		<tr>
@@ -8413,6 +8425,23 @@ Niveau D<br>
 			<p>10x2x350</p>
 
 			<p>1x2x550</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:81pt">
+			<p>1x1x300</p>
+
+			<p>2x2x500</p>
+
+			<p>1x2x300</p>
+
+			<p>1x2x800</p>
+
+			<p>1x2x500</p>
+
+			<p>4x2x400</p>
+
+			<p>1x2x500</p>
+
+			<p>3x2x600</p>
 			</td>
 		</tr>
 		<tr>
@@ -8701,6 +8730,63 @@ Niveau D<br>
 
 			<p>21.950</p>
 			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:81pt">
+			<p>17.000</p>
+
+			<p>17.300</p>
+
+			<p>17.300</p>
+
+			<p>17.800</p>
+
+			<p>17.800</p>
+
+			<p>18.300</p>
+
+			<p>18.300</p>
+
+			<p>18.600</p>
+
+			<p>18.600</p>
+
+			<p>19.400</p>
+
+			<p>19.400</p>
+
+			<p>19.900</p>
+
+			<p>19.900</p>
+
+			<p>20.300</p>
+
+			<p>20.300</p>
+
+			<p>20.700</p>
+
+			<p>20.700</p>
+
+			<p>21.100</p>
+
+			<p>21.100</p>
+
+			<p>21.500</p>
+
+			<p>21.500</p>
+
+			<p>22.000</p>
+
+			<p>22.000</p>
+
+			<p>22.600</p>
+
+			<p>22.600</p>
+
+			<p>23.200</p>
+
+			<p>23.200</p>
+
+			<p>23.800</p>
+			</td>
 		</tr>
 	</tbody>
 </table>
@@ -8757,7 +8843,7 @@ Niveau E<br>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; width:72pt">
 			<p>1x1x100</p>
 
-			<p>4x2x100</p>
+			<p>3x2x100</p>
 
 			<p>1x2x150</p>
 
