@@ -10,7 +10,7 @@ In dit besluit wordt verstaan onder:<br />1° de minister: de Vlaamse minister, 
 
 ### ART. 2.
 
-De aanvraag voor erkenning wordt ingediend bij het Agentschap Economie en de bevoegde entiteit binnen het Departement Werk en Sociale Economie en bevat alle gegevens en stukken waaruit blijkt dat aan alle erkenningsvoorwaarden als bedoeld in hoofdstuk II van het decreet is voldaan. Aan de aanvraag wordt een dossier gehecht dat minstens alle documenten, bedoeld in artikel 10, § 2, van het decreet, omvat. Het model van het aanvraagformulier is opgenomen als bijlage bij dit besluit.
+De aanvraag voor erkenning wordt ingediend bij het Agentschap Ondernemen en de bevoegde entiteit binnen het Departement Werk en Sociale Economie en bevat alle gegevens en stukken waaruit blijkt dat aan alle erkenningsvoorwaarden als bedoeld in hoofdstuk II van het decreet is voldaan. Aan de aanvraag wordt een dossier gehecht dat minstens alle documenten, bedoeld in artikel 10, § 2, van het decreet, omvat. Het model van het aanvraagformulier is opgenomen als bijlage bij dit besluit.
 
 ### ART. 3.
 
@@ -42,7 +42,7 @@ Het decreet van 7 mei 2004 betreffende het statuut, de werking, de taken en de b
 
 ### ART. 9.
 
-Regionale samenwerkingsverbanden waarvan de aanvraagdossiers door het Agentschap Economie en de bevoegde entiteit binnen het Departement Werk en Sociale Economie in 2004 volledig zijn bevonden, worden vanaf 1 januari 2005 overeenkomstig het decreet en dit besluit gesubsidieerd op voorwaarde dat ze door de Vlaamse Regering zijn erkend.<br /><br />De Vlaamse Regering regelt bij de erkenning van de regionale samenwerkingsverbanden die in 2004 geen of geen volledige aanvraag hebben ingediend, aangepaste uitbetalingsmodaliteiten in afwijking van artikel 4, § 2.
+Regionale samenwerkingsverbanden waarvan de aanvraagdossiers door het Agentschap Ondernemen en de bevoegde entiteit binnen het Departement Werk en Sociale Economie in 2004 volledig zijn bevonden, worden vanaf 1 januari 2005 overeenkomstig het decreet en dit besluit gesubsidieerd op voorwaarde dat ze door de Vlaamse Regering zijn erkend.<br /><br />De Vlaamse Regering regelt bij de erkenning van de regionale samenwerkingsverbanden die in 2004 geen of geen volledige aanvraag hebben ingediend, aangepaste uitbetalingsmodaliteiten in afwijking van artikel 4, § 2.
 
 ### ART. 10.
 
