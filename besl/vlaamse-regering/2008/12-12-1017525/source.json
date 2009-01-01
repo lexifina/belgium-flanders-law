@@ -1,0 +1,17 @@
+{
+  "codex_id": 1017525,
+  "title": "Besluit van de Vlaamse Regering van 2008-12-12 tot wijziging van het besluit van de Vlaamse Regering van 13 juli 2001 tot vaststelling van de criteria, voorwaarden en refertebedragen van de tussenkomsten in de individuele materiële bijstand voor de sociale integratie van personen met een handicap",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1017525/VolledigDocument?datum=2009-01-01",
+  "source_sha256": "d49744ec9b722607aa6d22522676b2c468d04eef4506113292c834f0065731f1",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1017525&param=informatie",
+  "as_of": "2009-01-01",
+  "made": "2008-12-12",
+  "gazette": "2009-01-29",
+  "numac": 2009200195,
+  "document_start": "2009-01-01",
+  "document_end": null,
+  "in_force": "2009-01-01",
+  "article_versions": 32,
+  "record_form": "consolidated version as in force on 2009-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
