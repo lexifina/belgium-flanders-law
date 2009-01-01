@@ -44,7 +44,7 @@ Voor de toepassing van dit decreet wordt verstaan onder:<br /><br />1° administ
 
 ### ART. 8.
 
-§ 1. De Vlaamse regering erkent en subsidieert samenwerkingsinitiatieven eerstelijnsgezondheidszorg en bepaalt hun werkgebied.<br /><br />§ 2. De Vlaamse regering bepaalt de erkenningsvoorwaarden, de regels inzake de duur, de schorsing en de intrekking van de erkenning.<br /><br />§ 3. De Vlaamse regering bepaalt de subsidie en de subsidievoorwaarden.<br /><br />§ 4. Samenwerkingsinitiatieven eerstelijnsgezondheidszorg hebben de vorm van een vereniging zonder winstoogmerk.
+§ 1. De Vlaamse regering erkent en subsidieert samenwerkingsinitiatieven   eerstelijnsgezondheidszorg en bepaalt hun werkgebied.<BR><BR>§ 2. De Vlaamse   regering bepaalt de erkenningsvoorwaarden, de regels inzake de duur, de   schorsing en de intrekking van de erkenning.<BR><BR>§ 3. De Vlaamse regering   bepaalt de subsidie en de subsidievoorwaarden.<BR><BR>§ 4.   Samenwerkingsinitiatieven eerstelijnsgezondheidszorg hebben de vorm van een   vereniging zonder winstoogmerk. In het tweetalige gebied Brussel-Hoofdstad kan   een samenwerkingsinitiatief eerstelijnsgezondheidszorg opgericht worden door de   Vlaamse Gemeenschapscommissie.
 
 ## AFDELING 2 OPDRACHTEN EN TAKEN
 
