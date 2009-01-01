@@ -8,7 +8,7 @@ Voor de toepassing van dit besluit dient te worden verstaan onder:<br />1° mini
 
 ### ART. 2.
 
-Binnen de perken van de uitgavenbegroting van de Vlaamse Gemeenschap kan, onder de voorwaarden van dit besluit:<br />1° een aanpassingspremie worden toegekend om een woning aan te passen aan de lichamelijke gesteldheid van een inwonende bejaarde;<br />2° een verbeteringspremie worden toegekend om:<br />a) verbeteringswerkzaamheden uit te voeren aan een woning waarvan de eerste ingebruikneming dateert van tenminste 20 jaar voor de aanvraagdatum;<br />b) een woning te verbouwen om overbewoning te verhelpen.<br /><br />De premies, vermeld in het eerste lid kunnen worden gecumuleerd als aan al de gestelde voorwaarden is voldaan.
+Binnen de perken van de uitgavenbegroting van de Vlaamse Gemeenschap kan, onder de voorwaarden van dit besluit:<br />1° een aanpassingspremie worden toegekend om een woning aan te passen aan de lichamelijke gesteldheid van een inwonende bejaarde;<br />2° een verbeteringspremie worden toegekend om:<br />a) verbeteringswerkzaamheden uit te voeren aan een woning waarvan de eerste ingebruikneming dateert van tenminste 20 jaar voor de aanvraagdatum;<br />b) een woning te verbouwen om overbewoning te verhelpen.<br />c) het dak of de zoldervloer te isoleren.<br /><br />De premies, vermeld in het eerste lid kunnen worden gecumuleerd als aan al de gestelde voorwaarden is voldaan.
 
 ### ART. 3.
 
@@ -52,41 +52,19 @@ Voor dezelfde woning kan geen verbeteringspremie als vermeld in artikel 2, eerst
 
 ### ART. 12.
 
-De subsidiabele verbeteringswerken bestaan uit:<br />1° een wezenlijke herstelling of vernieuwing van het dak, van het buitenschrijnwerk (ramen, deuren, rolluiken), van de sanitaire installatie of van de elektrische installatie;<br />2° gevelwerken;<br />3° behandelen van optrekkend muurvocht;<br />4° werkzaamheden om de risico's op CO-intoxicatie te verhelpen, meer bepaald :<br />a) de plaatsing van een waterverwarmingstoestel met gesloten verbrandingsruimte;<br />b) de plaatsing van een verwarmingstoestel met gesloten verbrandingsruimte (met maximaal drie toestellen die voor de subsidiëring in aanmerking komen);<br />c) de installatie van of omschakeling naar centrale verwarming;<br />d) het bouwen, verbouwen, herstellen of aanpassen van een rookkanaal.<br /><br />De minister regelt de bijzondere voorwaarden voor de voormelde verbeteringswerkzaamheden.<br /><br />De verbouwingswerken om te verhelpen aan overbewoning moeten betrekking hebben op de uitbreiding van woon-, kook- en/of slaapruimten overeenkomstig de gezinssamenstelling.<br /><br />Het agentschap kan een onderzoek ter plaatse instellen om na te gaan of de werken voldoen aan de terzake door de minister gestelde voorwaarden en effectief werden uitgevoerd.
+De subsidiabele verbeteringswerken bestaan uit:<br />1° een wezenlijke herstelling of vernieuwing van het dak, van het buitenschrijnwerk (ramen, deuren, rolluiken), van de sanitaire installatie of van de elektrische installatie;<br />2° gevelwerken;<br />3° behandelen van optrekkend muurvocht;<br />4° werkzaamheden om de risico's op CO-intoxicatie te verhelpen, meer bepaald :<br />a) de plaatsing van een waterverwarmingstoestel met gesloten verbrandingsruimte;<br />b) de plaatsing van een verwarmingstoestel met gesloten verbrandingsruimte (met maximaal drie toestellen die voor de subsidiëring in aanmerking komen);<br />c) de installatie van of omschakeling naar centrale verwarming;<br />d) het bouwen, verbouwen, herstellen of aanpassen van een rookkanaal.<br />5° het plaatsen van dak- of zoldervloerisolatie, uitgevoerd met factuurdatum vanaf 1 januari 2009 door een geregistreerde aannemer. <br /><br />De minister regelt de bijzondere voorwaarden voor de voormelde verbeteringswerkzaamheden.<br /><br />De verbouwingswerken om te verhelpen aan overbewoning moeten betrekking hebben of de uitbreiding van woon-, kook- en/of slaapruimten overeenkomstig de gezinssamenstelling.<br /><br />Het agentschap kan een onderzoek ter plaatse instellen om na te gaan of de werken voldoen aan de ter zake door de minister gestelde voorwaarden en effectief werden uitgevoerd.
 
 ### ART. 13.
 
-Onder voorbehoud van de bepaling van artikel 4 wordt het bedrag van de verbeteringspremie, naar gelang van het geval, als volgt vastgesteld:<br>
-<br>
-1° voor de verbeteringswerkzaamheden en per onderdeel op:<br>
-<br>
-a) dakwerken: 1.250 euro;<br>
-<br>
-b) buitenschrijnwerk: 1.250 euro;<br>
-<br>
-c) sanitaire installatie: 750 euro;<br>
-<br>
-d) elektrische installatie: 750 euro;<br>
-<br>
-e) gevelwerken: 1.500 euro;<br>
-<br>
-f) behandelen van optrekkend muurvocht: 750 euro;<br>
-<br>
-g) werkzaamheden om de risico's op CO-intoxicatie te verhelpen:<br>
-<br>
-1) de plaatsing van een waterverwarmingstoestel met gesloten verbrandingsruimte: 250 euro;<br>
-<br>
-2) de plaatsing van een verwarmingstoestel met gesloten verbrandingsruimte: 250 euro;<br>
-<br>
-3) de installatie van of omschakeling naar centrale verwarming: 1.000 euro;<br>
-<br>
-4) het bouwen, verbouwen, herstellen of aanpassen van een rookkanaal: 500 euro;<br>
-<br>
-2° voor de verbouwingswerken op 50 % van het bedrag van de voorgelegde facturen, BTW inbegrepen, afgerond tot op het lagere tiental, met een maximumpremiebedrag van 1.250 euro voor dit onderdeel. (verv. B.V.R. 28 november 2003, art. 12, I: 31 december 2003)]<br>
-<br>
-Het bedrag van de voorgelegde facturen, BTW inbegrepen, moet per in het eerste lid, 1° vermeld onderdeel van de verbeteringswerken tenminste het dubbele bedragen van het voor dit onderdeel vastgestelde premiebedrag.<br>
-<br>
-De premie voor de verbouwingswerkzaamheden wordt alleen uitbetaald voorzover het premiebedrag overeenkomstig het eerste lid, 2°, tenminste 600 euro bedraagt. [ (verv. B.V.R. 28 november 2003, art. 13, I: 31 december 2003) ]
+Onder voorbehoud van de bepaling van artikel 4 wordt het bedrag van de verbeteringspremie, naar gelang van het geval, als volgt vastgesteld:<br />1° voor de verbeteringswerkzaamheden en per onderdeel op:<br />a) dakwerken: 1.250 euro;<br />b) buitenschrijnwerk: 1.250 euro;<br />c) sanitaire installatie: 750 euro;<br />d) elektrische installatie: 750 euro;<br />e) gevelwerken: 1.500 euro;<br />f) behandelen van optrekkend muurvocht: 750 euro;<br />g) werkzaamheden om de risico's op CO-intoxicatie te verhelpen:<br />1) de plaatsing van een waterverwarmingstoestel met gesloten verbrandingsruimte: 250 euro;<br />2) de plaatsing van een verwarmingstoestel met gesloten verbrandingsruimte: 250 euro;<br />3) de installatie van of omschakeling naar centrale verwarming: 1.000 euro;<br />4) het bouwen, verbouwen, herstellen of aanpassen van een rookkanaal: 500 euro;<br />h) het plaatsen van dak- of zoldervloerisolatie : 100 euro als minstens 40 m2 dak- of zoldervloerisolatie werd geplaatst, verhoogd tot 300 euro vanaf 100 m2 en tot 500 euro vanaf 150 m2.<br />2° voor de verbouwingswerken op 50 % van het bedrag van de voorgelegde facturen, BTW inbegrepen, afgerond tot op het lagere tiental, met een maximumpremiebedrag van 1.250 euro voor dit onderdeel. <br /><br />Het bedrag van de voorgelegde facturen, BTW inbegrepen, moet per in het eerste lid, 1° vermeld onderdeel van de verbete-ringswerken ten minste het dubbele bedragen van het voor dit onderdeel vastgestelde premiebedrag.<br /><br />De premie voor de verbouwingswerkzaamheden wordt alleen uitbetaald voorzover het premiebedrag overeenkomstig het eerste lid, 2°, ten minste 600 euro bedraagt.
+
+### ART. 13bis.
+
+De verbeteringspremie, vermeld in artikel 13, eerste lid, 1°, h), wordt toegekend binnen de perken van de middelen die voor dakisolatiepremies voorzien worden in de algemene uitgavenbegroting van de Vlaamse Gemeenschap. Die premie wordt slechts eenmaal voor dezelfde woning toegekend.
+
+### ART. 13ter.
+
+Als de premie, vermeld in artikel 13bis, niet gecumuleerd wordt met de aanpassingspremie of met de verbeteringspremie voor andere werkzaamheden, wordt ze, in afwijking van de voorwaarden en de procedureregels, vermeld in artikel 1, 6°, artikelen 3 tot en met 5, artikel 11 en artikel 13, tweede lid, ook toegekend aan beschermde klanten als vermeld in artikel 2, 20° van het REG-decreet van 2 april 2004.<br /><br />De premie, vermeld in het eerste lid, wordt ambtshalve betaalbaar gesteld op basis van de lijsten, vermeld in artikel 8/1, vijfde lid, van het besluit van de Vlaamse Regering van 2 maart 2007 inzake de openbaredienstverplichtingen ter bevordering van het rationeel energiegebruik die het Vlaams Energieagentschap maandelijks bezorgt aan de leidend ambtenaar van het agentschap.<br /><br />Het agentschap informeert de begunstigden van de premie, vermeld in artikel 13, eerste lid, 1°, h), die niet voorkomen op de lijsten, vermeld in het tweede lid, over de premies die ze voor het plaatsen van dak- of zoldervloerisolatie kunnen aanvragen.
 
 ## HOOFDSTUK IV SLOTBEPALINGEN
 
