@@ -2,16 +2,16 @@
   "codex_id": 1008563,
   "title": "Besluit van de Vlaamse Regering van 2001-10-05 houdende de normen voor de preventie van brand en ontploffing, waaraan de erkende kinderdagverblijven moeten voldoen",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1008563/VolledigDocument?datum=2006-06-01",
-  "source_sha256": "752227ad6c77a48e1f1c79c34146fa22fdbbc3933d677748f0cd3888d709bb58",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1008563/VolledigDocument?datum=2009-01-01",
+  "source_sha256": "4003ee23e5cef1032e27ab6cc285856a33390079ce1bc428db54b23bf840078d",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1008563&param=informatie",
-  "as_of": "2006-06-01",
+  "as_of": "2009-01-01",
   "made": "2001-10-05",
   "gazette": "2002-01-09",
   "numac": 2001036492,
   "document_start": "2002-01-01",
   "document_end": "2008-12-31",
-  "in_force": "2006-06-01",
+  "in_force": "2009-01-01",
   "article_versions": 48,
-  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2009-01-01; future article versions excluded; article text as the API gives it"
 }
