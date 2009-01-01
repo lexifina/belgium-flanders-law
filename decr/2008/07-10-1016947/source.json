@@ -1,0 +1,17 @@
+{
+  "codex_id": 1016947,
+  "title": "Decreet van 2008-07-10 houdende wijziging van het decreet van 26 juni 1991 betreffende de erkenning en subsidiëring van het maatschappelijk opbouwwerk, wat de beperking van de subsidiëring tot de instituten betreft",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1016947/VolledigDocument?datum=2009-01-01",
+  "source_sha256": "24c7c8b0f06f610fa846c957193d294da4899f30cc87160c3ffb291bc332bd1f",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1016947&param=informatie",
+  "as_of": "2009-01-01",
+  "made": "2008-07-10",
+  "gazette": "2008-08-11",
+  "numac": 2008202683,
+  "document_start": "2009-01-01",
+  "document_end": null,
+  "in_force": "2009-01-01",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2009-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
