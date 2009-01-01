@@ -148,7 +148,7 @@ Het havenbedrijf stelt periodiek, minstens om de vijf jaar, een ondernemingsplan
 
 ### ART. 24.
 
-De Vlaamse Havencommissie adviseert de Vlaamse regering over het Vlaams Havenbeleid. De Vlaamse regering kan te allen tijde de bevoegdheid, de samenstelling en de werking ervan nader bepalen.<br /><br />De Vlaamse Havencommissie brengt adviezen uit en voert studies uit, hetzij op eigen initiatief, hetzij op verzoek van de Vlaamse regering of het Vlaams Parlement.
+De Vlaamse Havencommissie adviseert de Vlaamse regering over het Vlaams Havenbeleid. De Vlaamse regering kan te allen tijde de bevoegdheid, de samenstelling en de werking ervan nader bepalen.<br /><br />Inzake het Vlaamse havenbeleid brengt de Vlaamse Havencommissie, op eigen initiatief, aanbevelingen gericht tot de Vlaamse regering en het Vlaams Parlement uit. Binnen dezelfde bevoegdheidssfeer neemt de Vlaamse Havencommissie, op verzoek van de Vlaamse regering of het Vlaams Parlement, standpunten die worden meegedeeld aan de Vlaamse regering en het Vlaams Parlement in.<br />
 
 ### ART. 25.
 
