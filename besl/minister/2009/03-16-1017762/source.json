@@ -1,0 +1,17 @@
+{
+  "codex_id": 1017762,
+  "title": "Ministerieel besluit van 2009-03-16 tot wijziging van het ministerieel besluit van 9 januari 2006 houdende samenstelling van de commissies zetelend in de commissies van advies voor het buitengewoon onderwijs",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1017762/VolledigDocument?datum=2009-01-01",
+  "source_sha256": "8a40bc22fe8fc3aaf15691fea2db702ea50dbf9da30bcd97851b8ea0cbba9a6d",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1017762&param=informatie",
+  "as_of": "2009-01-01",
+  "made": "2009-03-16",
+  "gazette": "2009-04-03",
+  "numac": 2009201423,
+  "document_start": "2009-01-01",
+  "document_end": null,
+  "in_force": "2009-01-01",
+  "article_versions": 5,
+  "record_form": "consolidated version as in force on 2009-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
