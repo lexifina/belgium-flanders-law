@@ -2,16 +2,16 @@
   "codex_id": 1007746,
   "title": "Besluit van de Vlaamse Regering van 2000-11-17 houdende vaststelling van de regels inzake de toekenning van een financiële ondersteuning voor publicaties in het Domein van de Volkscultuur",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1007746/VolledigDocument?datum=2006-06-01",
-  "source_sha256": "95cfbd3f53d553487d3ee1817b3258e8beac40885e4ca69b045abd91bb13e663",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1007746/VolledigDocument?datum=2009-01-01",
+  "source_sha256": "10eadb9299cd04f5713e3d90a48a8a482e37e916fb37d77f32e12ce340e4dbed",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1007746&param=informatie",
-  "as_of": "2006-06-01",
+  "as_of": "2009-01-01",
   "made": "2000-11-17",
   "gazette": "2000-12-22",
   "numac": 2000036213,
   "document_start": null,
   "document_end": "2008-12-31",
-  "in_force": "2006-06-01",
+  "in_force": "2009-01-01",
   "article_versions": 3,
-  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2009-01-01; future article versions excluded; article text as the API gives it"
 }
