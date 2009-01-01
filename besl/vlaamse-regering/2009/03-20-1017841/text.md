@@ -12,6 +12,10 @@ In artikel 3, § 6, vierde lid, van het besluit van de Vlaamse Regering van 24 j
 
 In artikel 13, tweede lid, van hetzelfde besluit, vervangen bij het besluit van de Vlaamse Regering van 12 december 2008, wordt punt 1° opgeheven.
 
+### ART. 3.
+
+In hoofdstuk IV van hetzelfde besluit wordt een artikel 16bis ingevoegd, dat luidt als volgt : <br /><br />« Art. 16bis. De minister kan, onder de voorwaarden die hij bepaalt en binnen de begrotingskredieten, een subsidie verlenen voor projecten. Een project is een bijzonder initiatief met een tijdelijk, vernieuwend en experimenteel karakter dat betrekking heeft op de integrale gezinszorg. »
+
 ### ART. 4.
 
 Dit besluit heeft uitwerking met ingang van 1 januari 2008, met uitzondering van artikel 3, dat uitwerking heeft met ingang van 1 januari 2009.
