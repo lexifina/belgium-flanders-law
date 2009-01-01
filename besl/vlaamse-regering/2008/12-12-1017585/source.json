@@ -1,0 +1,17 @@
+{
+  "codex_id": 1017585,
+  "title": "Besluit van de Vlaamse Regering van 2008-12-12 houdende uitvoering van het decreet van 13 juli 2007 houdende wijziging van de decreten inzake voorzieningen voor bejaarden, gecoördineerd op 18 december 1991, en houdende wijziging van het decreet van 14 juli 1998 houdende de erkenning en subsidiëring van verenigingen en welzijnsvoorzieningen in de thuiszorg",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1017585/VolledigDocument?datum=2009-01-01",
+  "source_sha256": "63b72e92c3fbf6b7e92866f52a671ee82dfa6a630b28077c7b2f20f790ba016c",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1017585&param=informatie",
+  "as_of": "2009-01-01",
+  "made": "2008-12-12",
+  "gazette": "2009-02-17",
+  "numac": 2009200402,
+  "document_start": "2009-01-01",
+  "document_end": "2009-12-31",
+  "in_force": "2009-01-01",
+  "article_versions": 28,
+  "record_form": "consolidated version as in force on 2009-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
