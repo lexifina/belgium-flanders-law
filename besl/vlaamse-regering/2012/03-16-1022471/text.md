@@ -6,4 +6,8 @@ De Vlaamse Regering,<br /><br />Gelet op het kaderdecreet bestuurlijk beleid van
 
 ### ART. 4.
 
-De bijlage bij hetzelfde besluit, vervangen bij het besluit van de Vlaamse Regering van 25 februari 2005, wordt vervangen door bijlage 1, die bij dit besluit is gevoegd.<br /><br />
+...<BR>
+
+### ART. 5.
+
+De bijlage bij hetzelfde besluit, vervangen bij het besluit van de Vlaamse Regering van 25 februari 2005, wordt vervangen door bijlage 2, die bij dit besluit is gevoegd.<br /><br />
