@@ -52,7 +52,7 @@ Een lokale dienst voorschoolse opvang, een lokale dienst, gegroeid uit een BND-p
 
 ### ART. 13.
 
-De lokalen van de lokale dienst voorschoolse opvang met minder dan 23 plaatsen voldoen inzake brandveiligheid aan de voorwaarden, vermeld in het besluit van de Vlaamse Regering van 1 oktober 2004 houdende de brandveiligheid in de mini-crèches.<br /><br />
+De lokalen van de lokale dienst voldoen op het vlak van brandveiligheid aan de voorwaarden, vermeld in het besluit van de Vlaamse Regering van 19 september 2008 houdende de normen voor de preventie van brand in de voorzieningen voor kinderopvang.
 
 ### ART. 14.
 
@@ -86,7 +86,7 @@ De lokale dienst levert inspanningen om vanuit kansengroepen begeleiders en/of d
 
 ### ART. 21.
 
-De lokale dienst hanteert de volgende regeling inzake de financiële bijdrage van de gezinnen :<br />1° voor de lokale dienst voorschoolse opvang : de regeling, vermeld in het ministerieel besluit van 17 maart 2008 tot bepaling van de financiële bijdrage van de gezinnen voor de opvang van kinderen in kinderdagverblijven en diensten voor onthaalouders; dat besluit voorziet in de mogelijkheid tot het toekennen van een sociaal tarief;<br />2° voor de lokale dienst buitenschoolse opvang : de regeling, vermeld in artikel 13 van het besluit van de Vlaamse Regering van 23 februari 2001 houdende de voorwaarden inzake erkenning en subsidiëring van initiatieven voor buitenschoolse opvang; dat besluit voorziet in de mogelijkheid tot het toekennen van een sociaal tarief.<br /><br />De lokale dienst informeert de gezinnen over de mogelijkheid van het toekennen van een sociaal tarief.<br /><br />De lokale dienst hanteert procedures voor de regeling inzake financiële bijdragen van de gezinnen die aangepast zijn aan de doelgroep. <br /><br />De lokale dienst behoudt de geïnde financiële bijdragen van de gezinnen.<br /><br />
+De lokale dienst hanteert de volgende regeling inzake de financiële bijdrage van de gezinnen : <br />1° voor de lokale dienst voorschoolse opvang : de regeling, vermeld in het ministerieel besluit van 17 maart 2008 tot bepaling van de financiële bijdrage van de gezinnen voor de opvang van kinderen in kinderdagverblijven en diensten voor onthaalouders; dat besluit voorziet in de mogelijkheid tot het toekennen van een sociaal tarief;<br />2° voor de lokale dienst buitenschoolse opvang : de regeling, vermeld in artikel 13 van het besluit van de Vlaamse Regering van 23 februari 2001 houdende de voorwaarden inzake erkenning en subsidiëring van initiatieven voor buitenschoolse opvang; dat besluit voorziet in de mogelijkheid tot het toekennen van een sociaal tarief.<br /><br />De lokale dienst informeert de gezinnen over de mogelijkheid tot het toekennen van een sociaal tarief.<br /><br />De lokale dienst hanteert procedures voor de regeling inzake financiële bijdragen van de gezinnen die aangepast zijn aan de doelgroep. <br /><br />De lokale dienst buitenschoolse opvang behoudt de geïnde financiële bijdragen van de gezinnen.
 
 ### ART. 22.
 
@@ -188,47 +188,7 @@ Uiterlijk zestig dagen na de ontvangst van het inspectieverslag beslist Kind en 
 
 ### ART. 43.
 
-<p>Voor de voorschoolse opvang wordt een forfaitair subsidiebedrag toegekend door Kind en Gezin per plaats op jaarbasis :<br>
-<br>
-</p>
-
-<table border="1" cellpadding="0" cellspacing="0" style="border-collapse:collapse">
-	<tbody>
-		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:115.15pt">
-			<p><!--?xml:namespace prefix         = o ns = "urn:schemas-microsoft-com:office:office"         /-->&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:115.15pt">
-			<p>2008</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:115.15pt">
-			<p>2009</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:115.15pt">
-			<p>2010</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:115.15pt">
-			<p>Voorschools</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:115.15pt">
-			<p>8.372,91 euro</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:115.15pt">
-			<p>8.434,29 euro</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:115.15pt">
-			<p>8.496,08 euro</p>
-			</td>
-		</tr>
-	</tbody>
-</table>
-
-<p>&nbsp;</p>
-
-<p>Dat basisbedrag geldt voor minimaal 200 openingsdagen en voor minimaal 9 openingsuren per dag. Het bedrag wordt verhoudingsgewijs verlaagd als niet aan die minima voldaan is.<br>
-&nbsp;</p>
+Voor de voorschoolse opvang wordt een forfaitair subsidiebedrag van   11.019,55 euro toegekend door Kind en Gezin per plaats op jaarbasis.<BR><BR>Het   forfaitaire subsidiebedrag geldt voor minimaal 200 openingsdagen en voor   minimaal 9 openingsuren per dag. Het bedrag wordt verhoudingsgewijs verlaagd als   niet aan die minima voldaan is.<BR><BR>Het forfaitaire subsidiebedrag wordt   toegekend per kalenderjaar, na verrekening van de gefactureerde financiële   bijdrage van de gezinnen die de lokale dienst ingevolge artikel 21, 1°,   int.
 
 ### ART. 44.
 
@@ -292,6 +252,10 @@ De lokale dienst in het tweetalige gebied Brussel-Hoofdstad kan boven op de forf
 ### ART. 49.
 
 De subsidie wordt uitbetaald op basis van een evenredige verdeling over de kwartalen, telkens in de eerste maand van een kwartaal. <br /><br />
+
+### ART. 49/1.
+
+De lokale dienst kan bovendien voor de realisatie van een aanbod voor kinderen met een specifieke zorgbehoefte een aanvullende subsidie verwerven conform de bepalingen die de minister vastlegt.
 
 ## HOOFDSTUK VI Beroepsprocedure
 
