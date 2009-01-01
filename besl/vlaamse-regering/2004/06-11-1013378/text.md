@@ -4,7 +4,7 @@
 
 ### ART. 1.
 
-In dit besluit wordt verstaan onder:<br />1° de bevoegde agentschappen : de Vlaamse Milieumaatschappij, hierna de VMM te noemen, en het Agentschap Economie;<br />2° ...<br />3° grijswater: onderdeel van het tweedecircuitwater, namelijk oppervlaktewater, hemelwater of het effluent van rioolwaterzuiveringsinstallaties, al dan niet na extra behandeling;<br />4° grijswaterleverancier: exploitant van een openbaar waterdistributienetwerk, zoals bedoeld in het decreet betreffende water bestemd voor menselijke aanwending van 24 mei 2002, die grijswater aanlevert.
+In dit besluit wordt verstaan onder:<br />1° de bevoegde agentschappen : de Vlaamse Milieumaatschappij, hierna de VMM te noemen, en het Agentschap Ondernemen;<br />2° ...<br />3° grijswater: onderdeel van het tweedecircuitwater, namelijk oppervlaktewater, hemelwater of het effluent van rioolwaterzuiveringsinstallaties, al dan niet na extra behandeling;<br />4° grijswaterleverancier: exploitant van een openbaar waterdistributienetwerk, zoals bedoeld in het decreet betreffende water bestemd voor menselijke aanwending van 24 mei 2002, die grijswater aanlevert.
 
 ### ART. 2.
 
