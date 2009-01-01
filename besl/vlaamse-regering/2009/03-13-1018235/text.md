@@ -8,17 +8,49 @@ De Vlaamse Regering, <br /><br />Gelet op het decreet van 8 december 2000 houden
 
 In artikel 2 van het besluit van de Vlaamse Regering van 8 september 2000 houdende een impuls en ondersteuningsprogramma van de meerwaardeneconomie, gewijzigd bij de besluiten van de Vlaamse Regering van 7 december 2001, 25 maart 2005 en 1 juli 2005, wordt punt 2° vervangen door wat volgt : <br />« 2° Subsidieagentschap : het Vlaams Subsidieagentschap voor Werk en Sociale Economie, opgericht bij het besluit van de Vlaamse Regering van 21 oktober 2005; ».<br />
 
+### ART. 2.
+
+Aan artikel 5 van hetzelfde besluit, gewijzigd bij de besluiten van de Vlaamse Regering van 7 december 2001 en 1 september 2005, wordt een tweede lid toegevoegd, dat luidt als volgt : <br />« Een dienstenchequeonderneming kan geen aanvraag tot erkenning indienen. » <br /><br />
+
 ### ART. 3.
 
 In artikel 7 van hetzelfde besluit, vervangen bij het besluit van de Vlaamse Regering van 23 mei 2003, worden de woorden "de administratie" vervangen door de woorden "het Subsidieagentschap".<br /><br />
+
+### ART. 4.
+
+In artikel 8 van hetzelfde besluit, gewijzigd bij de besluiten van de Vlaamse Regering van 7 december 2001 en 25 maart 2005, worden volgende aanpassingen aangebracht : <br />1° in § 1, wordt het vierde lid opgeheven;<br />2° In § 2, tweede lid, worden de woorden ", met uitzondering van de invoegafdeling-dienstencheque-ondernemingen" geschrapt.<br /><br />
+
+### ART. 5.
+
+In artikel 9 van hetzelfde besluit, gewijzigd bij de besluiten van de Vlaamse Regering van 7 december 2001 en 25 maart 2005, worden de volgende wijzigingen aangebracht : <br />1° in § 1, eerste lid, worden de woorden "en vierde" geschrapt;<br />2° in § 2 wordt het vierde lid opgeheven. <br /><br />
+
+### ART. 6.
+
+In artikel 10 van hetzelfde besluit, gewijzigd bij de besluiten van de Vlaamse Regering van 7 december 2001, 23 mei 2003, 25 maart 2005 en 1 juli 2005, worden de volgende wijzigingen aangebracht : <br />1° in § 1 wordt het eerste lid opgeheven;<br />2° in § 2 wordt het eerste lid opgeheven;<br />3° in § 3 wordt het vierde lid opgeheven. <br /><br />
 
 ### ART. 7.
 
 In artikel 11 van hetzelfde besluit, gewijzigd bij de besluiten van de Vlaamse Regering van 7 december 2001 en 1 juli 2005, worden de woorden "de administratie" telkens vervangen door de woorden "het Subsidieagentschap".<br /><br />
 
+### ART. 8.
+
+Aan artikel 13 van hetzelfde besluit, gewijzigd bij de besluiten van de Vlaamse Regering van 7 december 2001 en 1 juli 2005, wordt een tweede lid toegevoegd, dat luidt als volgt : <br />« Een dienstenchequeonderneming kan geen aanvraag tot erkenning indienen. » <br /><br />
+
 ### ART. 9.
 
 In artikel 15 van hetzelfde besluit, vervangen bij het besluit van de Vlaamse Regering van 23 mei 2003, worden de woorden "de administratie" vervangen door de woorden "het Subsidieagentschap voor Werk en Sociale Economie".<br /><br />
+
+### ART. 10.
+
+In artikel 16 van hetzelfde besluit, gewijzigd bij de besluiten van de Vlaamse Regering van 7 december 2001 en 25 maart 2005 worden de volgende wijzigingen aangebracht : <br />1° in § 1 wordt het vierde lid opgeheven;<br />2° in § 2, tweede lid, worden de woorden ", met uitzondering van de invoegafdeling-dienstencheque-ondernemingen" geschrapt. <br /><br />
+
+### ART. 11.
+
+In artikel 17, § 2, van hetzelfde besluit, gewijzigd bij de besluiten van de Vlaamse Regering van 7 december 2001, 23 mei 2003 en 25 maart 2005, wordt het vierde lid opgeheven.<br /><br />
+
+### ART. 12.
+
+In artikel 18 van hetzelfde besluit, gewijzigd bij de besluiten van de Vlaamse Regering van 7 december 2001, 23 mei 2003, 25 maart 2005 en 1 juli 2005, worden de volgende wijzigingen aangebracht : <br />1° in § 1 wordt het eerste lid opgeheven;<br />2° in § 3 wordt het derde lid opgeheven.<br /><br />
 
 ### ART. 13.
 
@@ -75,3 +107,15 @@ In artikel 81 van hetzelfde besluit wordt § 3 vervangen door wat volgt : <br />
 ### ART. 26.
 
 In artikel 92 van hetzelfde besluit, vervangen bij het besluit van de Vlaamse Regering van 9 mei 2003, worden de woorden "de administratie" vervangen door de woorden "het Subsidieagentschap voor Werk en Sociale Economie".<br /><br />
+
+### ART. 28.
+
+Artikelen 2, 4, 5, 6, 8, 10, 11 en 17 zijn niet van toepassing op de invoegbedrijven-dienstenchequeondernemingen die erkend zijn voor de inwerkingtreding van dit besluit, en gedurende de duurtijd van die erkenning. <br /><br />
+
+### ART. 29.
+
+Dit besluit heeft uitwerking met ingang van 1 januari 2009.<br /><br />Artikelen 1, 3, 7, 9, en artikel 13 tot en met 27 hebben met ingang van 1 april 2006.<br /><br />
+
+### ART. 30.
+
+De Vlaamse minister, bevoegd voor de Sociale Economie, is belast met de uitvoering van dit besluit.<br /><br />
