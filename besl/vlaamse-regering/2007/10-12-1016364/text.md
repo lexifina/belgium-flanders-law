@@ -52,6 +52,22 @@ Voor de toepassing van dit besluit wordt verstaan onder :<br />1° centrum : een
 
 ## HOOFDSTUK IIIquater SANCTIES
 
+### ART. 6quinquies.
+
+§ 1. De overtredingen van de bepalingen, vermeld in artikel 118, § 1, 1°, 2°, 3° en 5°, van het decreet kunnen onder de verantwoordelijkheid van de bevoegde administratie in de vorm van een rapport worden vastgesteld.<br /><br />Het rapport wordt met een aangetekende brief meegedeeld aan het centrumbestuur in kwestie.<br /><br />§ 2. Binnen een termijn van zestig kalenderdagen na de betekening van de aangetekende brief kan het centrumbestuur bij de bevoegde administratie met een aangetekende brief een verweerschrift indienen. Het rapport wordt geacht betekend te zijn aan het centrumbestuur op de derde werkdag nadat de aangetekende brief verstuurd is.<br /><br />§ 3. Op basis van het rapport van de bevoegde administratie en het eventuele verweerschrift van het centrumbestuur in kwestie oordeelt de minister binnen een termijn van zestig kalenderdagen of de overtreding bestraft moet worden.<br /><br />Als de minister oordeelt dat de overtreding bestraft moet worden, oordeelt hij ook over de strafmaat.
+
+### ART. 6sexies.
+
+§ 1. De overtredingen van de bepalingen, vermeld in artikel 118, § 1, 3°, 4°, 5° en 7°, van het decreet kunnen onder de verantwoordelijkheid van de inspectie in de vorm van een verslag worden vastgesteld.<br /><br />Het verslag wordt aangetekend verstuurd naar het centrumbestuur in kwestie.<br /><br />§ 2. Binnen een termijn van zestig kalenderdagen na de betekening van de aangetekende brief kan het centrumbestuur bij de inspectie met een aangetekende brief een verweerschrift indienen. Het verslag wordt geacht betekend te zijn aan het centrumbestuur op de derde werkdag nadat de aangetekende brief verstuurd is.<br /><br />§ 3. Op basis van het verslag van de inspectie en het eventuele verweerschrift van het centrumbestuur in kwestie oordeelt de minister binnen een termijn van zestig kalenderdagen of de overtreding bestraft moet worden.<br /><br />Indien de minister oordeelt dat de overtreding bestraft moet worden, oordeelt hij ook over de strafmaat.
+
+### ART. 6septies.
+
+De minister kan aan de centra een financiële sanctie opleggen van ten hoogste 10 procent van de werkingstoelage, vermeld in artikel 89 van het decreet.<br /><br />Bij een eerste overtreding kan dat bedrag ten hoogste 5 procent zijn van de werkingstoelage van het voorgaande schooljaar.<br /><br />Bij een tweede of volgende overtreding kan dat bedrag ten hoogste 10 procent zijn van de werkingstoelage van het voorgaande schooljaar.
+
+### ART. 6octies.
+
+Als de minister oordeelt dat de overtreding bestraft moet worden, heeft het centrumbestuur het recht binnen zestig kalenderdagen na de beslissing van de minister met een aangetekende brief tegen die beslissing beroep aan te tekenen bij de Vlaamse Regering.<br /><br />De Vlaamse Regering neemt binnen zestig kalenderdagen na de aantekening van het beroep een definitieve beslissing over de bestraffing van de overtreding.
+
 ## [HOOFDSTUK IIIquinquies . De aanwending van VTE voor de aanwerving van gastleraren (verv. BVR 15 september 2023, art. 49, I: 1 september 2023)]
 
 ## [HOOFDSTUK IIIsexies ... (opgeh. BVR 15 maart 2019, art. 5, I: 1 september 2019)]
