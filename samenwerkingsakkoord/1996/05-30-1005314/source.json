@@ -2,16 +2,16 @@
   "codex_id": 1005314,
   "title": "Samenwerkingsakkoord van 1996-05-30 betreffende de preventie en het beheer van verpakkingsafval",
   "type": "Samenwerkingsakkoord",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1005314/VolledigDocument?datum=2006-06-01",
-  "source_sha256": "2aadabbf1beea54e22d1b25900f2554286fc8ef92c2a4297f85a4ef4d3c38cfb",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1005314/VolledigDocument?datum=2009-01-01",
+  "source_sha256": "b6dc89e09f3b4b787bea76d499fe418e62da752e71affcfeda2e8a093a21f30b",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1005314&param=informatie",
-  "as_of": "2006-06-01",
+  "as_of": "2009-01-01",
   "made": "1996-05-30",
   "gazette": "1997-03-05",
   "numac": 0,
   "document_start": "1997-03-05",
   "document_end": "2008-12-31",
-  "in_force": "2006-06-01",
+  "in_force": "2009-01-01",
   "article_versions": 36,
-  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2009-01-01; future article versions excluded; article text as the API gives it"
 }
