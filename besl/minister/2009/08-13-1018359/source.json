@@ -1,0 +1,17 @@
+{
+  "codex_id": 1018359,
+  "title": "Ministerieel besluit van 2009-08-13 betreffende de vaststelling van de modaliteiten tot instelling van een bedrijfstoeslagregeling en tot vaststelling van bepaalde steunregelingen voor landbouwers en tot toepassing van de randvoorwaarden",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1018359/VolledigDocument?datum=2009-01-01",
+  "source_sha256": "df61d4ebafeccf8c0328b162a99f8d422adf13dbafdd41070f8ad1edfb26b106",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1018359&param=informatie",
+  "as_of": "2009-01-01",
+  "made": "2009-08-13",
+  "gazette": "2009-09-16",
+  "numac": 2009035848,
+  "document_start": "2009-01-01",
+  "document_end": "2014-12-31",
+  "in_force": "2009-01-01",
+  "article_versions": 7,
+  "record_form": "consolidated version as in force on 2009-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
