@@ -10,7 +10,15 @@ In dit besluit wordt verstaan onder :<br />1° Kind en Gezin : het intern verzel
 
 ### ART. 2.
 
-Onthaalouders ontvangen van de dienst een kostenvergoeding per opvangdag per kind van 15,12 euro, vermeerderd met de verschuldigde werknemersbijdrage voor de sociale zekerheid. <br /><br />Op het totaalbedrag, vermeld in het eerste lid, wordt de verschuldigde werknemersbijdrage voor de sociale zekerheid ingehouden door de fictieve werkgever.<br /><br />Om de kostenvergoeding te berekenen voor andere opvangdagen dan volledige opvangdagen, wordt uitgegaan van het totaalbedrag, vermeld in het eerste lid, verminderd met de verschuldigde werknemersbijdrage voor de sociale zekerheid.
+Onthaalouders ontvangen van de dienst een kostenvergoeding per opvangdag per kind van 15,12 euro, vermeerderd met de verschuldigde werknemersbijdrage voor de sociale zekerheid.
+
+### ART. 2bis.
+
+Het bedrag van de kostenvergoeding, vermeld in artikel 2, wordt verhoogd met 0,31 euro voor de doorlopende kosten die verbonden zijn aan vorming, en met 1,54 euro voor de doorlopende kosten die verbonden zijn aan sluitingsdagen.<br /><br />De bedragen, vermeld in het eerste lid, zijn de bedragen die gelden voor volledige opvangdagen en voor een volledig kalenderjaar.<br /><br />De component vorming, vermeld in het eerste lid, wordt alleen als definitief toegekend beschouwd als de onthaalouder minstens twaalf uur vorming in het kalenderjaar in kwestie heeft gevolgd. Voor de onthaalouder die niet het hele jaar aangesloten is, wordt het aantal uren vorming pro rata verminderd. De component vorming wordt teruggevorderd door de dienst als de onthaalouder niet aan die voorwaarde voldoet.<br /><br />De dienst heeft voor de onthaalouders een voldoende aanbod aan vorming, registreert het aantal uren vorming per onthaalouder, en deelt aan Kind en Gezin mee hoeveel onthaalouders niet de vereiste uren vorming hebben gevolgd met vermelding van het bedrag dat als gevolg daarvan voor de component vorming werd teruggevorderd van die onthaalouders.<br /><br />Kind en Gezin verrekent het door de dienst teruggevorderde bedrag met de subsidie.
+
+### ART. 2ter.
+
+Op het totaalbedrag, vermeld in artikel 2 en 2bis, eerste lid, wordt de verschuldigde werknemersbijdrage voor de sociale zekerheid ingehouden door de fictieve werkgever.<br /><br />Om de kostenvergoeding te berekenen voor andere opvangdagen dan volledige opvangdagen, wordt uitgegaan van het totaalbedrag, vermeld in artikel 2 en 2bis, eerste lid, verminderd met de verschuldigde werknemersbijdrage voor de sociale zekerheid.
 
 ### ART. 3.
 
