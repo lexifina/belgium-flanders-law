@@ -2,7 +2,7 @@
 
 ### ART. 1.
 
-De gewestelijke aangelegenheden met betrekking tot welke het invorderen van onbetwiste en opeisbare niet-fiscale schuldvorderingen wordt opgedragen aan ambtenaren van de Vlaamse Belastingdienst zijn:<br />1° de economie;<br />2° de landbouw;<br />3° ... <br />4° de stadsvernieuwing;<br />5° de technologische innovatie; <br />6° de energie; <br />7° de werkgelegenheid.
+De gewestelijke aangelegenheden met betrekking tot welke het invorderen van onbetwiste en opeisbare niet-fiscale schuldvorderingen wordt opgedragen aan ambtenaren van de Vlaamse Belastingdienst zijn:<br />1° de economie;<br />2° de landbouw;<br />3° ... <br />4° de stadsvernieuwing;<br />5° de technologische innovatie; <br />6° de energie; <br />7° de werkgelegenheid. <br />8° het statuut van de reisbureaus
 
 ### ART. 2.
 

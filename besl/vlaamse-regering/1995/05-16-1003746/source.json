@@ -2,16 +2,16 @@
   "codex_id": 1003746,
   "title": "Besluit van de Vlaamse Regering van 1995-05-16 betreffende de invordering van niet-fiscale schuldvorderingen voor het Vlaamse Gewest en de instellingen die eronder ressorteren",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1003746/VolledigDocument?datum=2006-07-01",
-  "source_sha256": "eb7bf8e8817894e2b2ab880c7f84ac0b7071f2cc79c25c05bb8cb33863ba6e01",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1003746/VolledigDocument?datum=2009-01-01",
+  "source_sha256": "6f03546abfa1ca2ec8114fb694b7c7f08c74a4ae975eb7f4170c996910e2c6e8",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1003746&param=informatie",
-  "as_of": "2006-07-01",
+  "as_of": "2009-01-01",
   "made": "1995-05-16",
   "gazette": "1995-07-15",
   "numac": 1995035889,
   "document_start": "1995-07-15",
   "document_end": "2024-12-07",
-  "in_force": "2006-07-01",
+  "in_force": "2009-01-01",
   "article_versions": 4,
-  "record_form": "consolidated version as in force on 2006-07-01; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2009-01-01; future article versions excluded; article text as the API gives it"
 }
