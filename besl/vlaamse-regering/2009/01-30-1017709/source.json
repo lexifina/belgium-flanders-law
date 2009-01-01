@@ -1,0 +1,17 @@
+{
+  "codex_id": 1017709,
+  "title": "Besluit van de Vlaamse Regering van 2009-01-30 tot in werking stelling van de ontbinding zonder vereffening van het Vlaams Agentschap Ondernemen en tot regeling van de overdracht van zijn activiteiten en vermogen aan het Agentschap Ondernemen",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1017709/VolledigDocument?datum=2009-01-01",
+  "source_sha256": "a2c0fb4e16335a71875608b83482940ef0a45e5a32ccb06fc3f79211544b6b57",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1017709&param=informatie",
+  "as_of": "2009-01-01",
+  "made": "2009-01-30",
+  "gazette": "2009-03-20",
+  "numac": 2009201142,
+  "document_start": "2009-01-01",
+  "document_end": null,
+  "in_force": "2009-01-01",
+  "article_versions": 80,
+  "record_form": "consolidated version as in force on 2009-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
