@@ -7,3 +7,11 @@ In artikel 4 van hetzelfde decreet, het laatst gewijzigd bij het decreet van 30 
 ### ART. 4.
 
 In artikel 8, § 1, van hetzelfde decreet wordt tussen het eerste en tweede lid een lid ingevoegd, dat luidt als volgt : <br />« De regering bepaalt de omstandigheden waarin van de termijn van zestig dagen, vermeld in het eerste lid, afgeweken kan worden. <br />
+
+### ART. 8.
+
+In artikel 23ter van hetzelfde decreet, ingevoegd bij het decreet van 18 mei 2001 en gewijzigd bij het decreet van 19 december 2008, worden de woorden « artikel 10, § 1, tweede lid » vervangen door de woorden « artikel 10, § 3 ».<br /><br />
+
+### ART. 9.
+
+In artikel 23quater, § 1, van hetzelfde decreet, ingevoegd bij het decreet van 24 juni 2005 en gewijzigd bij de decreten van 19 december 2008 en 30 april 2009, worden de woorden « artikel 10, § 1, tweede lid » vervangen door de woorden « artikel 10, § 3 ».<br /><br />
