@@ -130,6 +130,30 @@ In artikel 168, § 4, van hetzelfde decreet, gewijzigd bij het decreet van 14 ma
 
 In punt 35° van artikel 2 van het decreet van 13 juli 1994 betreffende de hogescholen in de Vlaamse Gemeenschap worden de woorden « ten minste 50 procent » vervangen door de woorden « ten minste 10 procent ».
 
+### ART. V.19.
+
+In artikel 205 van hetzelfde decreet worden de woorden « De commissaris-coördinator » vervangen door de woorden « Een commissaris ».
+
+### ART. V.21.
+
+Artikel 242 van hetzelfde decreet wordt vervangen door wat volgt :<br /><br />« Artikel 242<br /><br />§ 1. De Vlaamse Regering benoemt een commissaris van de Vlaamse Regering bij iedere hogeschool. Eenzelfde commissaris kan bij meerdere hogescholen worden aangesteld.<br /><br />De commissarissen van de Vlaamse Regering worden benoemd onder de houders van een masterdiploma of een bij of krachtens de wet of het decreet of internationaal verdrag gelijkgesteld diploma, die ten minste vijf jaar nuttige ervaring hebben.<br /><br />Het ambt van commissaris van de Vlaamse Regering bij de hogescholen is onverenigbaar met elk ambt of bestuursmandaat in een universiteit, hogeschool, associatie, hogere instituut voor schone kunsten, instelling voor excellente kunstopleidingen, instelling voor postinitieel onderwijs of vzw voor het beheer van de sociale voorzieningen binnen de Vlaamse Gemeenschap.<br /><br />§ 2. De commissarissen van de Vlaamse Regering ontvangen de bezoldiging die op een gewoon hoogleraar aan een Vlaamse universiteit van toepassing is. Hun dienstjaren als commissaris worden gelijkgesteld met academische dienstjaren. <br /><br />De rechtspositieregeling van het personeel van de diensten van de Vlaamse overheid is op hen van toepassing. De Vlaamse Regering is gemachtigd met betrekking tot de commissarissen van de Vlaamse Regering bij de hogescholen aanvullende of afwijkende rechtspositieregels vast te stellen.<br /><br />§ 3. De commissarissen van de Vlaamse Regering bij de hogescholen mogen geen andere beroepsactiviteiten of andere bezoldigde activiteiten uitoefenen dan met toestemming van de Vlaamse minister bevoegd voor onderwijs.<br /><br />§ 4. De Vlaamse Regering bepaalt de ambtsgebieden van de commissarissen. »
+
+### ART. V.22.
+
+Artikel 243 van hetzelfde decreet wordt vervangen door wat volgt :<br /><br />« Artikel 243<br /><br />§ 1. De titularissen die op 31 december 2008 benoemd waren hetzij in het ambt van commissaris-coördinator van de Vlaamse Regering bij de hogescholen hetzij in het ambt van commissaris van de Vlaamse Regering bij de hogescholen, worden met ingang van 1 januari 2009 geacht benoemd te zijn in het ambt van commissaris van de Vlaamse Regering bij de hogescholen zoals bedoeld in artikel 242 van dit decreet. <br /><br />§ 2. De titularis die op 31 december 2008 benoemd was als commissaris-coördinator behoudt de salarisschaal die hij op dat ogenblik genoot evenals zijn titel en het statuut dat op dat ogenblik op hem van toepassing was, met inbegrip van de aanrekening van zijn dienstjaren als academische dienstjaren.<br /><br />§ 3. De commissaris-coördinator en de commissarissen van de Vlaamse Regering die op 31 december 2008 belast waren met het toezicht op één of meer instellingen behouden vanaf 1 januari 2009 het ambtsgebied dat hen toegewezen was. »
+
+### ART. V.23.
+
+In artikel 245 van hetzelfde decreet worden het tweede lid van § 1 en de laatste zin van § 2 opgeheven.
+
+### ART. V.24.
+
+In de eerste zin van artikel 245, § 1, artikel 246, artikel 247, § 1, artikel 248, artikel 249, § 1, en de eerste zin van artikel 253 van hetzelfde decreet worden telkens de woorden « en de commissaris-coördinator » geschrapt.
+
+### ART. V.25.
+
+In artikel 250, § 1, van hetzelfde decreet worden de woorden « of de commissaris-coördinator » geschrapt.
+
 ### ART. V.27.
 
 Aan artikel 303, tweede lid, van hetzelfde decreet wordt een zin toegevoegd, die luidt als volgt :<br /><br />« Bij fusie van instellingen of onderdelen van instellingen worden de afgevaardigden van het personeel in de onderhandelingscomités van de betrokken instellingen tot de volgende verkiezingen samengevoegd tot de nieuwe personeelsafvaardiging in het nieuwe onderhandelingscomité en geldt het maximum aantal van negen afgevaardigden niet. »
@@ -150,6 +174,10 @@ In artikel 37 van hetzelfde decreet wordt voor de woorden « Hogeschool Antwerpe
 
 ## Afdeling V. Decreet betreffende de rechtspositieregeling van de student, de medezeggenschap in het hoger onderwijs, de integratie van bepaalde afdelingen van het hoger onderwijs voor sociale promotie in de hogescholen en de begeleiding van de herstructurering van het hoger onderwijs
 
+### ART. V.56.
+
+In artikel VI.9ter van hetzelfde decreet worden de volgende wijzigingen aangebracht :<br /><br />« 1° in het eerste lid van § 1 worden de woorden « 2006, 2007 en 2008 » vervangen door de woorden « 2006, 2007, 2008 en 2009 »;<br /><br />2° in het tweede lid van § 1 worden de woorden « 2007 en 2008 » vervangen door de woorden « 2007, 2008 en 2009 »;<br /><br />3° in § 2 worden de woorden « in 2006, in 2007 en in 2008 » vervangen door de woorden « in 2006, in 2007, in 2008 en in 2009 ». »
+
 ## Afdeling VI. Studiefinanciering en studentenvoorziening hoger onderwijs
 
 ## Afdeling VII. Flexibilisering hoger onderwijs
@@ -163,6 +191,10 @@ In artikel 11, § 3, van het decreet van 14 maart 2008 betreffende de financieri
 ### ART. V.63.
 
 Aan het eerste lid van artikel 49 van hetzelfde decreet worden de volgende zinnen toegevoegd die luiden als volgt : <br /><br />« Een student krijgt op het ogenblik van het behalen van het diploma van master eenmalig en bij wijze van overgangsmaatregel het verschil tussen 60 en het aantal opgenomen studiepunten vanaf het academiejaar 2008-2009 extra bij het saldo van het leerkrediet. Deze regeling geldt voor zover de student al in het academiejaar 2007-2008 in de desbetreffende masteropleiding ingeschreven was en op voorwaarde dat hij vanaf het academiejaar 2008-2009 het initiële masterdiploma behaalt en vanaf datzelfde academiejaar minder dan 60 studiepunten heeft opgenomen. »
+
+### ART. V.64.
+
+Artikel 53 van hetzelfde decreet wordt vervangen door wat volgt :<br /><br />« Artikel 53<br /><br />De Vlaamse Regering beslist vóór 1 december van het begrotingsjaar waarin de rationalisatieplannen ingediend werden over de goedkeuring ervan. »
 
 ### ART. V.65.
 
@@ -214,6 +246,10 @@ In artikel 16 van dezelfde wet worden de woorden « en kan slechts twee maal her
 
 ## Afdeling I. Mentorschap en nascholing
 
+### ART. IX.1.
+
+Artikel 3 van het decreet van 16 april 1996 betreffende het mentorschap en de nascholing in Vlaanderen, gewijzigd bij het decreet van 15 december 2006 en 22 juni 2007, waarvan de bestaande tekst § 1 zal vormen, wordt aangevuld met een § 2, die luidt als volgt :<br /><br />« § 2. Het budget dat jaarlijks toegekend wordt voor de ondersteuning van de leraren in opleiding is gelijk aan 4000 euro vermenigvuldigd met het totale aantal leraren in opleiding in de periode van de eerste lesdag van september tot en met 31 mei van het voorgaande schooljaar en is ten hoogste gelijk aan het budget, vermeld in § 1, 2°. <br /><br />Als het budget, vermeld in § 1, 2°, groter is dan 4000 euro vermenigvuldigd met het totale aantal leraren in opleiding in de periode van de eerste lesdag van september tot en met 31 mei van het voorgaande schooljaar, dan wordt 50 procent van het verschil tussen beide bedragen toegevoegd aan het budget, vermeld in § 1, 1°, b), en 50 procent aan het budget, vermeld in het § 1, 3°, b). ».
+
 ## Afdeling II. Decreet betreffende het onderwijs III
 
 ## Afdeling III. Decreet betreffende het onderwijs XIII
@@ -223,6 +259,10 @@ In artikel 16 van dezelfde wet worden de woorden « en kan slechts twee maal her
 ### ART. IX.4.
 
 In artikel II.1 van het decreet van 28 juni 2002 betreffende gelijke onderwijskansen-I, vervangen bij het decreet van 15 juli 2005, wordt punt 3°bis, dat luidt als volgt, ingevoegd : <br /><br />« 3°bis extra lesuren : een eenheid waarin de omkadering voor het voeren van een gelijke onderwijskansenbeleid in het buitengewoon secundair onderwijs uitgedrukt wordt; ».
+
+### ART. IX.6.
+
+In artikel VI.14 van hetzelfde decreet, gewijzigd bij het decreet van 7 juli 2006, worden het tweede en het derde lid opgeheven.
 
 ## Afdeling V. Decreet betreffende het onderwijs XIV
 
