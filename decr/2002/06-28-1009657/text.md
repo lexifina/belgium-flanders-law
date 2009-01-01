@@ -256,7 +256,7 @@ Scholen kunnen voor een periode van drie schooljaren extra uren-leraar/puntenwaa
 
 ### ART. VI.14.
 
-De extra uren-leraar worden uitgeoefend in het ambt van leraar of van godsdienstleraar. Met de puntenwaarden worden halftijdse of voltijdse betrekkingen opgericht in het ambt van opvoeder. <br /><br />De personeelsleden die fungeren in de betrekkingen opgericht op basis van de extra urenleraar/puntenwaarden worden aangesteld als tijdelijk personeelslid. Bedoelde betrekkingen kunnen niet vacant worden verklaard. De inrichtende macht kan in deze betrekkingen geen personeelsleden vast benoemen, affecteren of muteren.<br /><br />Bedoelde tijdelijken kunnen ook ingezet worden om vastbenoemden of andere tijdelijken te vervangen, indien deze laatsten voor het geïntegreerd ondersteuningsaanbod worden ingezet.
+De extra uren-leraar worden uitgeoefend in het ambt van leraar of van godsdienstleraar. Met de puntenwaarden worden halftijdse of voltijdse betrekkingen opgericht in het ambt van opvoeder.
 
 ## ONDERAFDELING 4 AANWENDING VAN DE MIDDELEN
 
