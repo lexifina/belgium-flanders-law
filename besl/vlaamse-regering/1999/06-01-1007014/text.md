@@ -24,11 +24,11 @@ De loodsgelden en vergoedingen verschuldigd met toepassing van de artikelen 11 t
 
 ### ART. 5.
 
-De vergoeding voor loodsen op afstand bedraagt 3/4 van het gewone loodsgeld. [... <span class="reference">(geschr. B.V.R. 7 december 2001, art. 2, I: 1 januari 2002)</span> ]<br /><br />Als een gezagvoerder tijdens dezelfde loodsreis gebruik maakt van loodsen op afstand en het gewone loodsen, is het gewone loodsgeldtarief van toepassing.
+...
 
 ### ART. 6.
 
-De houders van een verklaring van vrijstelling zijn 1/4 van het loodsgeld verschuldigd. [...  <span class="reference">(geschr. B.V.R. 7 december 2001, art. 3, I: 1 januari 2002)</span> ]
+...
 
 ## HOOFDSTUK IV INVORDERINGEN
 
