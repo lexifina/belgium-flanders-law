@@ -2,16 +2,16 @@
   "codex_id": 1017520,
   "title": "Besluit van de Vlaamse Regering van 2008-12-12 tot wijziging van het besluit van de Vlaamse Regering van 12 oktober 2007 tot regeling van een aantal aangelegenheden van de Centra voor Basiseducatie ter uitvoering van het decreet van 15 juni 2007 betreffende het volwassenenonderwijs",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1017520/VolledigDocument?datum=2008-09-01",
-  "source_sha256": "aaa4c659f10c872218287a92598c33461a29ca1781474658b982766d5f1c97c3",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1017520/VolledigDocument?datum=2009-01-01",
+  "source_sha256": "0a6c39b078b911d22bd71f3d1f7fe1d310b68480333f8ff96f96df18d38385c2",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1017520&param=informatie",
-  "as_of": "2008-09-01",
+  "as_of": "2009-01-01",
   "made": "2008-12-12",
   "gazette": "2009-01-28",
   "numac": 2009035040,
   "document_start": "2008-09-01",
   "document_end": null,
-  "in_force": "2008-09-01",
-  "article_versions": 9,
-  "record_form": "consolidated version as in force on 2008-09-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "in_force": "2009-01-01",
+  "article_versions": 10,
+  "record_form": "consolidated version as in force on 2009-01-01; future article versions excluded; article text as the API gives it"
 }
