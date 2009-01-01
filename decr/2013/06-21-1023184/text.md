@@ -40,6 +40,10 @@ Aan artikel 30 van hetzelfde decreet wordt een paragraaf 4 toegevoegd, die   lui
 
 ## HOOFDSTUK 16 Eerstelijnsgezondheidszorg en de samenwerking tussen de zorgaanbieders
 
+### ART. 60.
+
+Aan artikel 8, § 4, van hetzelfde decreet wordt de volgende zin toegevoegd   : <BR>"In het tweetalige gebied Brussel-Hoofdstad kan een   samenwerkingsinitiatief eerstelijnsgezondheidszorg opgericht worden door de   Vlaamse Gemeenschapscommissie.".<BR>
+
 ## HOOFDSTUK 17 Preventief gezondheidsbeleid
 
 ## HOOFDSTUK 18 Infrastructuur voor persoonsgebonden aangelegenheden
