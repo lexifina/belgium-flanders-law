@@ -14,7 +14,7 @@ De stuurgroep bedoeld in artikel 9 van het decreet wordt opgericht.<br /><br />
 
 ### ART. 3.
 
-§ 1. Overeenkomstig artikel 9, § 2, van het decreet is de stuurgroep samengesteld uit :<br />1° het hoofd van elke Provinciale Ontwikkelingsmaatschappij;<br />2° een vertegenwoordiger van het beleidsdomein Economie, Wetenschap en Innovatie;<br />3° een vertegenwoordiger van het beleidsdomein Leefmilieu, Natuur en Energie;<br />4° een vertegenwoordiger van het beleidsdomein Ruimtelijke Ordening, Woonbeleid en Onroerend Erfgoed;<br />5° een vertegenwoordiger van het beleidsdomein Mobiliteit en Openbare Werken;<br />6° een vertegenwoordiger van het Vlaams Agentschap Ondernemen.<br /><br />§ 2. De vertegenwoordigers waarvan sprake in artikel 3, § 1, van 2° tot en met 6° worden aangeduid op voorstel van de Vlaamse ministers, bevoegd voor de respectieve beleidsdomeinen en voor het Vlaams Agentschap Ondernemen.<br /><br />
+§ 1. Overeenkomstig artikel 9, § 2, van het decreet is de stuurgroep samengesteld uit :<br />1° het hoofd van elke Provinciale Ontwikkelingsmaatschappij;<br />2° een vertegenwoordiger van het beleidsdomein Economie, Wetenschap en Innovatie;<br />3° een vertegenwoordiger van het beleidsdomein Leefmilieu, Natuur en Energie;<br />4° een vertegenwoordiger van het beleidsdomein Ruimtelijke Ordening, Woonbeleid en Onroerend Erfgoed;<br />5° een vertegenwoordiger van het beleidsdomein Mobiliteit en Openbare Werken;<br />6° een vertegenwoordiger van het Agentschap Ondernemen.<br /><br />§ 2. De vertegenwoordigers waarvan sprake in artikel 3, § 1, van 2° tot en met 6° worden aangeduid op voorstel van de Vlaamse ministers, bevoegd voor de respectieve beleidsdomeinen en voor het  Agentschap Ondernemen.<br /><br />
 
 ### ART. 4.
 

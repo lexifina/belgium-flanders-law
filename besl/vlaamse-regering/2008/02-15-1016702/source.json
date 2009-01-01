@@ -2,16 +2,16 @@
   "codex_id": 1016702,
   "title": "Besluit van de Vlaamse Regering van 2008-02-15 tot oprichting van een stuurgroep van de provinciale ontwikkelingsmaatschappijen",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1016702/VolledigDocument?datum=2008-03-31",
-  "source_sha256": "f17a08b4b11d496722685c00b24344cca35fcf1211404ef9f6d47e9c3bfbd5ae",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1016702/VolledigDocument?datum=2009-01-01",
+  "source_sha256": "7413eec82f3bf446bc13b8ee625251fceacb8a01ea0e63920d3b5709c4b7329e",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1016702&param=informatie",
-  "as_of": "2008-03-31",
+  "as_of": "2009-01-01",
   "made": "2008-02-15",
   "gazette": "2008-03-31",
   "numac": 2008200921,
   "document_start": "2008-03-31",
   "document_end": null,
-  "in_force": "2008-03-31",
+  "in_force": "2009-01-01",
   "article_versions": 7,
-  "record_form": "consolidated version as in force on 2008-03-31; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2009-01-01; future article versions excluded; article text as the API gives it"
 }
