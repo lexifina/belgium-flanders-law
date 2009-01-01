@@ -6,7 +6,7 @@ Dit besluit is van toepassing op de subsidies afkomstig van de verdeelde winst v
 
 ### ART. 2.
 
-§ 1. De subsidies kunnen alleen worden toegekend aan publiekrechtelijke of privaatrechtelijke verenigingen zonder winstoogmerk, stichtingen, internationale verenigingen zonder winstoogmerk en vennootschappen met sociaal oogmerk, evenals aan de inrichtende machten, bedoeld in artikel 24, § 4, van de Grondwet.<br /><br />§ 2. In afwijking van het bepaalde in § 1 kunnen de subsidies eveneens worden toegekend:<br /><br />1° aan elke publiekrechtelijke of privaatrechtelijke rechtspersoon wat de productie van films betreft;<br /><br />2° aan elke persoon, als het gaat om prijzen en beurzen.
+§ 1. De subsidies kunnen alleen worden toegekend aan publiekrechtelijke rechtspersonen, verenigingen zonder winstoogmerk, stichtingen, internationale verenigingen zonder winstoogmerk en vennootschappen met sociaal oogmerk, evenals aan de inrichtende machten, bedoeld in artikel 24, § 4, van de Grondwet.<br /><br />§ 2. In afwijking van het bepaalde in § 1 kunnen de subsidies eveneens worden toegekend:<br />1° aan elke privaatrechtelijke rechtspersoon wat de productie van films betreft;<br />2° aan elke persoon, als het gaat om prijzen en beurzen.
 
 ### ART. 3.
 
@@ -18,11 +18,11 @@ De toekenning van de subsidies is onderworpen aan de voorwaarde dat de in artike
 
 ### ART. 5.
 
-De subsidies worden toegekend binnen de perken van de beschikbare begrotingskredieten. Als de beschikbare begrotingskredieten ontoereikend zijn, worden de subsidies over de begunstigden verdeeld in gelijke dele met een maximum van 50 % van het totaal van de geraamde of werkelijke werkings-, project- of investeringskosten.<br /><br />Het nastreven van één van de in de algemene uitgevanbegroting bepaalde doeleinden van openbaar nut geeft niet automatisch recht op die subsidies.
+De subsidies worden toegekend binnen de perken van de beschikbare begrotingskredieten. Als de beschikbare begrotingskredieten ontoereikend zijn, worden de subsidies over de begunstigden verdeeld.<br /><br />Het nastreven van één van de in de algemene uitgevanbegroting bepaalde doeleinden van openbaar nut geeft niet automatisch recht op die subsidies.
 
 ### ART. 6.
 
-Om ontvankelijk te zijn, moet elke aanvraag voor subsidies bij de functioneel bevoegde Vlaamse minister worden ingediend:<br /><br />1° wat de werkingsubsidies betreft, uiterlijk op 30 juni van het jaar volgend op het dienstjaar waarop die subsidies betrekking hebben;<br /><br />2° wat de project- of investeringsubsidies en de subsidies voor prijzen en beurzen betreft, uiterlijk op 30 september van het dienstjaar.
+Om ontvankelijk te zijn, moet elke aanvraag voor subsidies bij de functioneel bevoegde Vlaamse minister worden ingediend:<br />1° wat de werkingsubsidies betreft, uiterlijk op 31 maart van het jaar volgend op het dienstjaar waarop die subsidies betrekking hebben;<br />2° wat de project- of investeringsubsidies en de subsidies voor prijzen en beurzen betreft, uiterlijk op 31 maart van het dienstjaar.<br /><br />De functioneel bevoegde Vlaamse minister kan bij ministerieel besluit van de termijnen vermeld sub 1° en 2° afwijken.
 
 ### ART. 7.
 
@@ -34,7 +34,7 @@ Elke beslissing tot toekenning van een subsidie vermeldt tenminste:<br /><br />1
 
 ### ART. 9.
 
-De Vlaamse ministers nemen, ieder wat hem of haar betreft, de beslissingen tot toekenning van de subsidies. Zij kunnen op algemene wijze de toekenning van de subsidies afhankelijk stellen van aanvullende voorwaarden.<br /><br />De subsidies worden toegekend overeenkomstig de criteria bepaald door de raad van bestuur van de Nationale Loterij voor het dienstjaar 2001. De Vlaamse ministers kunnens, ieder wat hem of haar betreft, op algemene wijze deze criteria aanvullen of wijzigen.
+De Vlaamse ministers nemen, ieder wat hem of haar betreft, de beslissingen tot toekenning van de subsidies. Zij kunnen op algemene wijze de toekenning van de subsidies afhankelijk stellen van aanvullende voorwaarden.
 
 ### ART. 10.
 
@@ -42,7 +42,7 @@ De door de bevoegde Vlaamse minister aangestelde ambtenaren kunnen bij de beguns
 
 ### ART. 11.
 
-Voor de project- of investeringsubsidies en de subsidies voor prijzen en beurzen met betrekking tot het dienstjaar 2002 wordt de uiterste datum tot indienig van de in artikel 6, 2°, bedoelde aanvraag vastgesteld op 30 november 2002.<br /><br />Onverminderd de in artikel 7 bepaalde verplichting, moeten de aanvragen die reeds op de dag van de bekendmaking van dit besluit in het Belgisch Staatsblad bij de minister-president zijn ingediend, niet opnieuw worden ingediend.<br /><br />De aanvragen voor werkingsubsidies met betrekking tot het dienstjaar 2002 worden ten vroegste in het jaar 2003 en uiterlijk op de in artikel 6, 1°, vermelde datum ingediend.<br /><br />De subsidies voor het dienstjaar 2002 worden toegekend overeenkomstig de criteria en voorwaarden bepaald door de raad van bestuur van de Nationale Loterij voor het dienstjaar 2001 en met toepassing van het bepaalde in artikel 5.
+...
 
 ### ART. 12.
 
@@ -50,4 +50,4 @@ Dit besluit treedt in werking op de dag van de bekendmaking van dit besluit in h
 
 ### ART. 13.
 
-De minister-president van de Vlaamse regering, de Vlaamse ministers, bevoegd voor de bijstand aan personen, voor het onderwijs, voor de culturele aangelegenheden, voor de lichamelijke opvoeding, de sport en het openluchtleven, voor het toerisme, voor de media, voor het leefmilieu, voor het natuurbehoud en voor het wetenschapsbeleid, zijn, ieder wat hem of haar betreft, belast met de uitvoering van dit besluit.
+Elke functioneel bevoegde Vlaamse minister is belast met de uitvoering van dit besluit.
