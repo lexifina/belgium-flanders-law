@@ -1,0 +1,17 @@
+{
+  "codex_id": 1017435,
+  "title": "Besluit van de Vlaamse Regering van 2008-12-12 tot instelling van een kind- en jongere-effectrapport",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1017435/VolledigDocument?datum=2009-01-01",
+  "source_sha256": "660b0ce17f510262fac837ab00a9d9e7fbce945f19f5f035a75e7397109f886d",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1017435&param=informatie",
+  "as_of": "2009-01-01",
+  "made": "2008-12-12",
+  "gazette": "2009-01-13",
+  "numac": 2008204812,
+  "document_start": "2009-01-01",
+  "document_end": "2023-12-31",
+  "in_force": "2009-01-01",
+  "article_versions": 6,
+  "record_form": "consolidated version as in force on 2009-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
