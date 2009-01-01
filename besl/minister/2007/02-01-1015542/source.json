@@ -2,16 +2,16 @@
   "codex_id": 1015542,
   "title": "Ministerieel besluit van 2007-02-01 betreffende de toekenning van een afwijking krachtens artikel 6 van het decreet van 15 juli 1997 houdende invoering van een meer evenwichtige vertegenwoordiging van mannen en vrouwen in de bekkenbesturen van het IJzerbekken en van het Maasbekken",
   "type": "Ministerieel besluit",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1015542/VolledigDocument?datum=2007-03-01",
-  "source_sha256": "0d754689e5a3ae21b013fa69439e3a8ec21e938bee71c550fbf496a80db69811",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1015542/VolledigDocument?datum=2009-01-01",
+  "source_sha256": "b3d9ed4baf4db66d4995eb68d2f2587bbc4279c6c975433eadd6b724bafc0a6a",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1015542&param=informatie",
-  "as_of": "2007-03-01",
+  "as_of": "2009-01-01",
   "made": "2007-02-01",
   "gazette": "2007-02-19",
   "numac": 2007035235,
   "document_start": "2007-03-01",
   "document_end": "2008-12-31",
-  "in_force": "2007-03-01",
+  "in_force": "2009-01-01",
   "article_versions": 3,
-  "record_form": "consolidated version as in force on 2007-03-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2009-01-01; future article versions excluded; article text as the API gives it"
 }

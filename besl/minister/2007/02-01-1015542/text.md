@@ -6,8 +6,8 @@ De Vlaamse minister van Mobiliteit, Sociale Economie en Gelijke Kansen,<br /><br
 
 ### ART. 1.
 
-Er wordt een afwijking verleend op het decreet van 15 juli 1997 houdende invoering van een meer evenwichtige vertegenwoordiging van mannen en vrouwen in adviesorganen voor wat betreft de evenwichtige samenstelling van de bekkenbesturen van het IJzerbekken en van het Maasbekken,<br /><br />
+...
 
 ### ART. 2.
 
-De in artikel 1 bedoelde afwijking wordt toegestaan tot en met 31 december 2008.<br /><br />
+...
