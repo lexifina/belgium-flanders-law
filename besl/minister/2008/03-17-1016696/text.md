@@ -6,15 +6,15 @@ De Vlaamse minister van Institutionele Hervormingen, Havens, Landbouw, Zeevisser
 
 ### ART. 1.
 
-In artikel 16, § 4, van het ministerieel besluit van 14 december 2007 houdende tijdelijke aanvullende maatregelen tot het behoud van de visbestanden in zee, wordt het getal "10" vervangen door het getal "12".<br /><br />
+...
 
 ### ART. 2.
 
-In artikel 18 van hetzelfde besluit worden de volgende wijzigingen aangebracht :<br />1° in § 1 wordt het getal "70" vervangen door het getal "113",<br />2° in § 2 wordt het getal "400" vervangen door het getal "644".<br /><br />
+...
 
 ### ART. 3.
 
-Artikel 20 van hetzelfde besluit wordt vervangen door wat volgt :<br />« Art. 20, § 1. De aanwezigheid van een vissersvaartuig in de i.c.e.s.-gebieden VIIIa,b is verboden van 1 januari 2008 tot en met 31 december 2008.<br /><br />§ 2. In afwijking van § 1 is het vanaf 8 juni 2008, om 00.00 uur, alleen voor de vissersvaartuigen die op de lijst "Visvergunningen Golf van Gascogne 2008" voorkomen, toegestaan om in de i.c.e.s.-gebieden VIIIa,b aanwezig te zijn.<br /><br />Om aan de lijst, vermeld in het eerste lid, toegevoegd te kunnen worden, moeten de eigenaars van vissersvaartuigen vóór 19 mei 2008 met een aangetekende brief of per fax een aanvraag tot de dienst richten.<br /><br />Ingeval het aantal ingeschreven vaartuigen te hoog is in verhouding tot de beschikbare tongquota, zal via loting dat aantal worden beperkt.<br /><br />§ 3. Vanaf 8 juni 2008 tot en met 31 juli 2008 is het verboden dat in de i.c.e.s.-gebieden VIIIa,b de tongvangst van een vissersvaartuig, dat voorkomt op de lijst vermeld in § 2, een hoeveelheid overschrijdt die gelijk is aan 15 kg, vermenigvuldigd met het motorvermogen van het vissersvaartuig, uitgedrukt in kW. Als uitgangspunt wordt de situatie op 1 mei 2008 genomen.<br /><br />De onbenutte hoeveelheden op 31 juli 2008 komen voor herverdeling in aanmerking.<br /><br />§ 4. Ingeval de hoeveelheden tong, vermeld in § 3, worden overschreden, worden de door dat vissersvaartuig overschreden hoeveelheden tong in tweevoud in mindering gebracht op de hoeveelheid tong die aan het vissersvaartuig wordt toegekend voor 2009.<br /><br />§ 5. Voor de vissersvaartuigen die op de lijst "Visvergunningen Golf van Gascogne 2008" voorkomen, wordt het aantal dagen vermeld in artikel 10, § 2, verminderd met 10. Bovendien wordt voor de vissersvaartuigen in kwestie de toe te kennen hoeveelheid tong VIIf,g, overeenkomstig artikel 16, voor de periode 1 juli 2008 tot 31 oktober 2008 verminderd met 2 kg per kW.<br /><br />§ 6. Voor de vissersvaartuigen die de bepalingen van § 1 of § 2 niet naleven, wordt het aantal dagen, vermeld in artikel 10, § 2, en artikel 12, verminderd met 10.<br /><br />Bovendien zullen de vissersvaartuigen in kwestie niet aanwezig mogen zijn in de i.c.e.s.-gebieden VIIIa,b gedurende het jaar 2009. » <br /><br />
+...
 
 ### ART. 4.
 
@@ -22,12 +22,12 @@ In artikel 22 van hetzelfde besluit worden de volgende wijzigingen aangebracht :
 
 ### ART. 5.
 
-In artikel 23 van hetzelfde besluit worden met ingang van 16 april 2008 de volgende wijzigingen aangebracht :<br />1° aan § 1 worden een tweede en een derde lid toegevoegd, die luiden als volgt :<br />« In de periode van 16 april 2008 tot en met 31 december 2008 is het in de i.c.e.s.-gebieden II, IV (Noordzee en Schelde-estuarium) verboden dat de totale kabeljauwvangst per zeereis, gerealiseerd door een vissersvaartuig met een motorvermogen van 221 kW of minder, een hoeveelheid overschrijdt die gelijk is aan 75 kg, vermenigvuldigd met het aantal vaartdagen die tijdens de zeereis in de desbetreffende i.c.e.s.-gebieden worden gerealiseerd.<br /><br />In afwijking van het tweede lid wordt gedurende de periode van 16 april 2008 tot en met 31 december 2008 de hoeveelheid kabeljauw, vermeld in het vorige lid, verhoogd met een extra hoeveelheid van 75 kg, vermenigvuldigd met het aantal vaartdagen van die zeereis die ten noorden van 56°00' noorderbreedte worden verwezenlijkt. » <br /><br />2° aan § 2 worden een tweede en een derde lid toegevoegd, die luiden als volgt :<br />« In de periode van 16 april 2008 tot en met 31 december 2008 is het in de i.c.e.s.-gebieden II, IV (Noordzee en Schelde-estuarium) verboden dat de totale kabeljauwvangst per zeereis, gerealiseerd door een vissersvaartuig met een motorvermogen van meer dan 221 kW, een hoeveelheid overschrijdt die gelijk is 150 kg, vermenigvuldigd met het aantal vaartdagen die tijdens de zeereis in de betreffende i.c.e.s.-gebieden worden gerealiseerd.<br /><br />In afwijking van het tweede lid wordt gedurende de periode van 16 april 2008 tot en met 31 december 2008 de hoeveelheid kabeljauw, vermeld in het vorige lid, verhoogd met een extra hoeveelheid van 150 kg, vermenigvuldigd met het aantal vaartdagen van die zeereis die ten noorden van 56°00' noorderbreedte worden verwezenlijkt. »; <br /><br />
+...
 
 ### ART. 6.
 
-In artikel 25 van hetzelfde besluit, worden met ingang van 1 april 2008, de volgende wijzigingen aangebracht :<br />1° in § 5 en § 6 worden de woorden "31 december" vervangen door de woorden "30 april",<br /><br />2° aan § 4 wordt een tweede lid toegevoegd, dat luidt als volgt :<br />« In afwijking van het eerste lid is het voor een vissersvaartuig in de periode van 1 april 2008 tot en met 31 december 2008, zolang geen 60 % van het quotum is benut, verboden bij de bot- en scharvangsten per zeereis in de i.c.e.s.-gebieden II, IV (Noordzee en Schelde-estuarium) een hoeveelheid te overschrijden die gelijk is aan 1 100 kg, vermenigvuldigd met het aantal vaartdagen die tijdens die zeereis in de desbetreffende i.c.e.s.-gebieden worden gerealiseerd. »;<br /><br />3° aan § 5 wordt een tweede lid toegevoegd dat luidt als volgt :<br />« In de periode van 1 mei 2008 tot en met 31 december 2008 is het in de i.c.e.s.-gebieden II, IV (Noordzee en Schelde-estuarium) voor een vissersvaartuig met een motorvermogen van 221 kW of minder, verboden bij de tongschar en witjevangst per zeereis een hoeveelheid te overschrijden die gelijk is aan 500 kg, vermenigvuldigd met het aantal vaartdagen die tijdens die zeereis in de desbetreffende i.c.e.s.-gebieden worden gerealiseerd. »; <br /><br />4° aan § 6 wordt een tweede lid toegevoegd, dat luidt als volgt :<br />« In de periode van 1 mei 2008 tot en met 31 december 2008 is het in de i.c.e.s.-gebieden II, IV (Noordzee en Schelde-estuarium) voor een vissersvaartuig met een motorvermogen van meer dan 221 kW, verboden bij de tongschar en witjevangst per zeereis een hoeveelheid te overschrijden die gelijk is aan 1 000 kg, vermenigvuldigd met het aantal vaartdagen die tijdens die zeereis in de desbetreffende i.c.e.s.-gebieden worden gerealiseerd. » <br /><br />
+...
 
 ### ART. 7.
 
-Dit besluit treedt in werking op 1 april 2008 en houdt op van kracht te zijn op 1 januari 2009, met uitzondering van artikel 4.<br /><br />
+...
