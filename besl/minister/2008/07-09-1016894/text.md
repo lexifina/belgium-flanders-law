@@ -6,12 +6,12 @@ De Vlaamse minister van Institutionele hervormingen, Havens, Landbouw, Zeevisser
 
 ### ART. 1.
 
-In het ministerieel besluit van 14 december 2007 houdende tijdelijke aanvullende maatregelen tot het behoud van de visbestanden in zee, worden een afdeling Ibis en een artikel 20bis ingevoegd in titel II, hoofdstuk I collectief benuttingsysteem na artikel 20, die als volgt luiden :<br />" Afdeling Ibis - Toewijzing van extra vangstmogelijkheden volgens motorvermogen<br /><br />Art. 20bis. Ingeval een vissersvaartuig in het kader van de Verordening (EG) nr. 1198/2006 van de Raad van 27 juli 2006, inzake het Europees Visserijfonds, artikel 25 lid 3 onder b en c ten minste 20 % van het motorvermogen zoals gekend in het EG-visserijvlootregister heeft ingeleverd, worden de variabele vangstmogelijkheden van dit vissersvaartuig per kW, zoals bepaald in de artikelen 14 tot 20 met 25 % verhoogd. Dit extra kW-vangstrecht is van toepassing op alle kW's van het vissersvaartuig zoals vermeld op de visvergunning en dit eventueel na samenvoeging. Dit extra kW-vangstrecht is vaartuiggebonden en wordt niet mee overgedragen in het kader van samenvoeging van motorvermogens." <br /><br />
+...
 
 ### ART. 2.
 
-In het artikel 26 § 1 van hetzelfde besluit wordt een tweede lid toegevoegd, dat luidt als volgt :<br />"In afwijking met vorig lid vervalt vanaf 15 juli 2008 tot 31 december 2008 de flexibiliteit tot het korten van vaartdagen op verzoek van de reder of zijn vertegenwoordiger en dit bij overschrijding van de vangstmogelijkheden, zoals bepaald in afdeling II, artikel 23, §§ 1 en 2." <br /><br />
+...
 
 ### ART. 3.
 
-Dit besluit treedt in werking op 15 juli 2008 en houdt op van kracht te zijn op 1 januari 2009.<br /><br />
+...
