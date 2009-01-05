@@ -1,0 +1,17 @@
+{
+  "codex_id": 1017393,
+  "title": "Ministerieel besluit van 2008-12-22 houdende de bepaling van de medische en persoonlijke redenen die aanleiding kunnen geven tot uitstel van aanmelding bij het onthaalbureau, uitstel van ondertekening van het inburgeringscontract of tijdelijke opschorting van het inburgeringscontract",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1017393/VolledigDocument?datum=2009-01-05",
+  "source_sha256": "9bd58cbac3ee062a531c02bfba9031c86a86708778f25e60437c1e526838d66b",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1017393&param=informatie",
+  "as_of": "2009-01-05",
+  "made": "2008-12-22",
+  "gazette": "2009-01-02",
+  "numac": 2008036473,
+  "document_start": "2009-01-05",
+  "document_end": "2016-02-28",
+  "in_force": "2009-01-05",
+  "article_versions": 7,
+  "record_form": "consolidated version as in force on 2009-01-05; oldest version available; future article versions excluded; article text as the API gives it"
+}
