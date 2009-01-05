@@ -2,16 +2,16 @@
   "codex_id": 1015751,
   "title": "Ministerieel besluit van 2007-04-04 houdende de bepaling van de medische en persoonlijke redenen die aanleiding kunnen geven tot de tijdelijk opschorting van het inburgeringscontract in het kader van het inburgeringsbeleid",
   "type": "Ministerieel besluit",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1015751/VolledigDocument?datum=2007-01-01",
-  "source_sha256": "d77aea43e59ffd3dd00699531b73e73a80d2962a59c201cb24997821e2ea4da1",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1015751/VolledigDocument?datum=2009-01-05",
+  "source_sha256": "8adad5f74b47dce85a398d51cacd9663123f23d0ff40dd8e7c43f004341e9e18",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1015751&param=informatie",
-  "as_of": "2007-01-01",
+  "as_of": "2009-01-05",
   "made": "2007-04-04",
   "gazette": "2007-05-04",
   "numac": 2007035614,
   "document_start": "2007-01-01",
   "document_end": "2009-01-04",
-  "in_force": "2007-01-01",
+  "in_force": "2009-01-05",
   "article_versions": 5,
-  "record_form": "consolidated version as in force on 2007-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2009-01-05; future article versions excluded; article text as the API gives it"
 }
