@@ -6,7 +6,19 @@ De Vlaamse Regering,<br /><br />Gelet op de bijzondere wet van 8 augustus 1980 t
 
 ## HOOFDSTUK I Wijzigingen van het besluit van de Vlaamse Regering van 31 mei 2002 tot vaststelling van de erkennings- en subsidiëringsvoorwaarden van de Vlaamse sportfederaties, de koepelorganisatie en de organisaties voor de sportieve vrijetijdsbesteding in het kader van de ethisch verantwoorde sportbeoefening
 
+### ART. 1.
+
+In artikel 9, 8°, van het besluit van de Vlaamse Regering van 31 mei 2002 tot vaststelling van de erkennings- en subsidiëringsvoorwaarden van de Vlaamse sportfederaties, de koepelorganisatie en de organisaties voor de sportieve vrijetijdsbesteding worden tussen het woord « medisch » en het woord « verantwoorde » de woorden « en ethisch » ingevoegd.<br /><br />
+
 ## HOOFDSTUK II Wijzigingen van het besluit van de Vlaamse Regering van 20 juni 2008 houdende uitvoering van het decreet van 13 juli 2007 inzake medisch verantwoorde sportbeoefening in het kader van de ethisch verantwoorde sportbeoefening
+
+### ART. 2.
+
+In het opschrift van het besluit van de Vlaamse Regering van 20 juni 2008 houdende uitvoering van het decreet van 13 juli 2007 inzake medisch verantwoorde sportbeoefening worden tussen het woord « medisch » en het woord « verantwoorde » de woorden « en ethisch » ingevoegd.<br /><br />
+
+### ART. 3.
+
+In hetzelfde besluit wordt een titel II/1, bestaande uit artikel 33/1 en 33/2, ingevoegd, die luidt als volgt :<br />« Titel II/1. - Algemeen kader voor de ethisch verantwoorde sportbeoefening<br /><br />« Art. 33/1. § 1. De richtsnoeren inzake ethisch verantwoorde sportbeoefening worden uitgevaardigd door de Vlaamse Regering, door middel van de open coördinatiemethode, die wordt toegepast zoals vermeld in paragraaf 2 tot en met paragraaf 5.<br /><br />§ 2. De Vlaamse minister, bevoegd voor de lichamelijke opvoeding, de sport en het openluchtleven, stelt de sportfederaties die erkend zijn op basis van het decreet van 13 juli 2001 houdende de regeling van de erkenning en subsidiëring van de Vlaamse sportfederaties, de koepelorganisatie en de organisaties voor de sportieve vrijetijdsbesteding, uiterlijk drie maanden na de inwerkingtreding van dit besluit in kennis van :<br />1° de inhoud en de draagwijdte van de open coördinatiemethode, die op basis van het decreet wordt gehanteerd;<br />2° de door hem voorgestelde thema's inzake ethisch verantwoorde sportbeoefening;<br />3° zijn verzoek om, binnen twee maanden na de kennisgeving, voorstellen van richtsnoeren te formuleren in het kader van de voorgestelde thema's en, met een bijgaande motivering, eventuele andere thema's aan te geven inzake ethisch verantwoorde sportbeoefening die voor de Vlaamse Gemeenschap nuttig zouden kunnen zijn.<br /><br />§ 3. Na de verwerking van de antwoorden van de sportfederaties, vermeld in paragraaf 2, vraagt de Vlaamse minister, bevoegd voor de lichamelijke opvoeding, de sport en het openluchtleven, het advies van de sectorraad voor Sport. Bij de adviesvraag wordt een samenvatting van de voorgestelde thema's en de antwoorden van de sportfederaties gevoegd.<br /><br />De sectorraad voor Sport verleent advies binnen een maand.<br /><br />§ 4. Na de ontvangst van het advies, vermeld in paragraaf 3, vindt een overleg plaats waarop de sportfederaties, vermeld in paragraaf 2, worden uitgenodigd, met het oog op het vaststellen van de richtsnoeren.<br /><br />§ 5. Na het overleg, vermeld in paragraaf 4, legt de Vlaamse minister, bevoegd voor de lichamelijke opvoeding, de sport en het openluchtleven, een ontwerpbesluit voor aan de Vlaamse Regering waarbij de richtsnoeren uitgevaardigd worden, met vermelding van de datum van de inwerkingtreding ervan, de termijn waarop de richtsnoeren betrekking hebben, alsook de termijn waarbinnen de implementatie ervan moet worden verantwoord.<br /><br />« Art. 33/2.§ 1. Ter verantwoording van de implementatie van de richtsnoeren die in overeenstemming met het besluit van de Vlaamse Regering, vermeld in artikel 33/1, paragraaf 5 werden vastgesteld, maken de sportfederaties, vermeld in paragraaf 2, een rapport op waarin de belangrijkste maatregelen worden uiteengezet die ze samen met de sportverenigingen hebben genomen ter realisatie van de richtsnoeren, en waarin een toelichting wordt gegeven bij de aantoonbare of verwachte effecten van die maatregelen in het licht van die richtsnoeren. In dat rapport kunnen ze ook voorstellen van nieuwe richtsnoeren en eventuele andere thema's opnemen inzake ethisch verantwoorde sportbeoefening die voor de Vlaamse Gemeenschap nuttig zouden kunnen zijn.<br /><br />De sportfederaties integreren dat rapport in het werkingsverslag, vermeld in artikel 10, § 2, van het besluit van de Vlaamse Regering van 31 mei 2002 tot vaststelling van de erkennings- en subsidiëringsvoorwaarden van de Vlaamse sportfederaties, de koepelorganisatie en de organisaties voor de sportieve vrijetijdsbesteding.<br /><br />§ 2. Op initiatief van de Vlaamse minister, bevoegd voor de lichamelijke opvoeding, de sport en het openluchtleven, vindt een overleg plaats tussen de sportfederaties vermeld in artikel 33/1 § 2, waarop naargelang de behoefte deskundigen op het terrein van de ethisch verantwoorde sportbeoefening en andere sportverenigingen kunnen worden uitgenodigd.<br /><br />Dit tweeledig overleg heeft tot doel :<br />1° de implementatie van de richtsnoeren evalueren en door middel van peer review en uitwisseling van best practices verder vorm geven aan het beleid inzake ethisch verantwoorde sportbeoefening;<br />2° mede op basis van de evaluatie, vermeld in punt 1°, voorstellen van nieuwe richtsnoeren formuleren of de termijn voor de implementatie van vorige richtsnoeren verlengen.<br /><br />§ 3. Na het overleg, vermeld in paragraaf 2, zal een volgende cyclus starten met het uitvaardigen van de richtsnoeren zoals vermeld in artikel 33/1, § 5.<br /><br />§ 4 In afwijking van paragraaf 3, kan de Vlaamse minister, bevoegd voor de lichamelijke opvoeding, de sport en het openluchtleven, beslissen dat na het overleg, vermeld in paragraaf 2, de volgende cyclus opnieuw wordt hervat vanaf artikel 33/1,§ 2. »<br /><br />
 
 ## HOOFDSTUK III Wijzigingen van het besluit van de Vlaamse Regering van 20 juni 2008 houdende uitvoering van het decreet van 13 juli 2007 inzake medisch verantwoorde sportbeoefening in het kader van de medisch verantwoorde sportbeoefening
 
@@ -104,4 +116,204 @@ Aan hetzelfde besluit wordt een bijlage toegevoegd, die als bijlage bij dit besl
 
 ## HOOFDSTUK IV Slotbepalingen
 
+### ART. 27.
+
+Artikel 1, 2, 3, 4, 6, 7, 13 en 14 van het decreet van 21 november 2008 houdende de wijziging van het decreet van 13 juli 2007 inzake medisch verantwoorde sportbeoefening en van het decreet van 24 juli 1996 tot vaststelling van het statuut van de niet-professionele sportbeoefenaar treden in werking tien dagen na de bekendmaking van dit besluit in het Belgisch Staatsblad. <br /><br />
+
+### ART. 28.
+
+Artikel 4 tot en met 26 treden in werking op 1 januari 2009.<br /><br />
+
+### ART. 29.
+
+De Vlaamse minister, bevoegd voor de Medisch Verantwoorde Sportbeoefening, de Lichamelijke Opvoeding, de Sport en het Openluchtleven, is belast met de uitvoering van dit besluit.<br /><br />
+
 ## Bijlage
+
+### BIJLAGE 1
+
+<p>Bijlage bij het besluit van de Vlaamse Regering van 19 december 2008 houdende wijziging van het besluit van de Vlaamse Regering van 31 mei 2002 tot vaststelling van de erkennings- en subsidiëringsvoorwaarden van de Vlaamse sportfederaties, de koepelorganisatie en de organisaties voor de sportieve vrijetijdsbesteding en van het besluit van de Vlaamse Regering van 20 juni 2008 houdende uitvoering van het decreet van 13 juli 2007 inzake de medisch verantwoorde sportbeoefening,<br>
+Bijlage bij het besluit van de Vlaamse Regering van 20 juni 2008 houdende uitvoering van het decreet van 13 juli 2007 inzake de medisch verantwoorde sportbeoefening,<br>
+</p>
+
+<table border="1" cellpadding="0" cellspacing="0" style="border-collapse:collapse">
+	<tbody>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:185.4pt">
+			<p>Eerste overtreding / Tweede overtreding<!--?xml:namespace prefix = o ns =         "urn:schemas-microsoft-com:office:office" /--></p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:45pt">
+			<p>VSS</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:45pt">
+			<p>AGC</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:45pt">
+			<p>GSS</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:45pt">
+			<p>St</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:45pt">
+			<p>VS</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:50.2pt">
+			<p>HT</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:185.4pt">
+			<p>VSS</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:45pt">
+			<p>1 – 4</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:45pt">
+			<p>2 – 4</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:45pt">
+			<p>2 – 4</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:45pt">
+			<p>4 – 6</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:45pt">
+			<p>8 – 10</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:50.2pt">
+			<p>10 –lev</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:185.4pt">
+			<p>AGC</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:45pt">
+			<p>1 – 4</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:45pt">
+			<p>4 – 8</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:45pt">
+			<p>4 – 8</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:45pt">
+			<p>6 – 8</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:45pt">
+			<p>10 – lev</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:50.2pt">
+			<p>lev</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:185.4pt">
+			<p>GSS</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:45pt">
+			<p>1 – 4</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:45pt">
+			<p>4 – 8</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:45pt">
+			<p>4 – 8</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:45pt">
+			<p>6 – 8</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:45pt">
+			<p>10 – lev</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:50.2pt">
+			<p>lev</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:185.4pt">
+			<p>St</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:45pt">
+			<p>2 – 4</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:45pt">
+			<p>6 – 8</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:45pt">
+			<p>6 – 8</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:45pt">
+			<p>8 – lev</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:45pt">
+			<p>lev</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:50.2pt">
+			<p>lev</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:185.4pt">
+			<p>VS</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:45pt">
+			<p>4 – 5</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:45pt">
+			<p>10 – lev</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:45pt">
+			<p>10 – lev</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:45pt">
+			<p>lev</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:45pt">
+			<p>lev</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:50.2pt">
+			<p>lev</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:185.4pt">
+			<p>HT</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:45pt">
+			<p>8 – lev</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:45pt">
+			<p>lev</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:45pt">
+			<p>lev</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:45pt">
+			<p>lev</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:45pt">
+			<p>lev</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:50.2pt">
+			<p>lev</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p>In de tabel voor de tweede dopingpraktijk wordt verstaan onder :<br>
+a) cijfers/« lev » : aantal jaren uitsluiting;<br>
+b) - : tot;<br>
+c) lev : levenslange;<br>
+d) VSS (Verminderde sanctie voor een Specifieke Stof conform art. 70, § 3) : De dopingpraktijk wordt of zou moeten worden bestraft met een verminderde sanctie conform art. 70, § 3, omdat er sprake is van een Specifieke Stof en de andere voorwaarden van art. 70, § 3, zijn vervuld.<br>
+e) AGC (Aangifteverzuim en/of Gemiste Controles) : De dopingpraktijk wordt of zou moeten worden bestraft conform art. 70, § 4, derde lid.<br>
+f) GSS (verminderde sanctie in geval van Geen Significante Schuld of nalatigheid) : De dopingpraktijk wordt of zou moeten worden bestraft met een verminderde sanctie conform art. 70, § 5, 2° omdat de sporter aantoonde dat er sprake was van Geen Significante Schuld of Nalatigheid conform art. 70, § 5, 2°.<br>
+g) St (Standaardsanctie conform art. 70, § 2 of art. 70, § 4, eerste lid) : De overtreding van een antidopingregel wordt bestraft of zou moeten worden bestraft met een standaardsanctie van twee jaar conform art. 70, § 2 of art. 70, § 4, eerste lid.<br>
+h) VS (Verzwaarde Sanctie) : De dopingpraktijk wordt of zou moeten worden bestraft met een verzwaarde sanctie conform art. 70, § 6, omdat aan de voorwaarden van art. 70, § 6, is voldaan.<br>
+i) HT (Handel of poging tot handel en Toediening of poging tot toediening) : De dopingpraktijk wordt of zou moeten worden bestraft met een sanctie conform art. 70, § 4, tweede lid.<br>
+&nbsp;</p>
