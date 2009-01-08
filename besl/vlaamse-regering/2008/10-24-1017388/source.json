@@ -1,0 +1,17 @@
+{
+  "codex_id": 1017388,
+  "title": "Besluit van de Vlaamse Regering van 2008-10-24 houdende de gedeeltelijke verdeling van het provisionele krediet ingeschreven onder basisallocatie CB0140B van de algemene uitgavenbegroting van de Vlaamse Gemeenschap voor het begrotingsjaar 2008",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1017388/VolledigDocument?datum=2009-01-08",
+  "source_sha256": "c83c396420456bab938f7a6bdebc06f2d3c4957202b725d7cba515f02032e16c",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1017388&param=informatie",
+  "as_of": "2009-01-08",
+  "made": "2008-10-24",
+  "gazette": "2008-12-29",
+  "numac": 2008204596,
+  "document_start": "2009-01-08",
+  "document_end": null,
+  "in_force": "2009-01-08",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2009-01-08; oldest version available; future article versions excluded; article text as the API gives it"
+}
