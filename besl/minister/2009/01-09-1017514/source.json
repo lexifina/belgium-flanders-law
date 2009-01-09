@@ -1,0 +1,17 @@
+{
+  "codex_id": 1017514,
+  "title": "Ministerieel besluit van 2009-01-09 tot vervanging van een lid van de Raad van Bestuur van de Vlaamse Vervoermaatschappij-De Lijn",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1017514/VolledigDocument?datum=2009-01-09",
+  "source_sha256": "6b9dda0b5bea411f2c5f2c78e2fc60ed26ecb0bc87733b43a3219b7774aa615c",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1017514&param=informatie",
+  "as_of": "2009-01-09",
+  "made": "2009-01-09",
+  "gazette": "2009-01-26",
+  "numac": 2009200151,
+  "document_start": "2009-01-09",
+  "document_end": null,
+  "in_force": "2009-01-09",
+  "article_versions": 2,
+  "record_form": "consolidated version as in force on 2009-01-09; oldest version available; future article versions excluded; article text as the API gives it"
+}
