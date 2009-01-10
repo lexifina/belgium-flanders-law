@@ -1,0 +1,17 @@
+{
+  "codex_id": 1018637,
+  "title": "Besluit van de Vlaamse Regering van 2009-12-18 tot wijziging van artikelen 79, 80 en 83 van het besluit van de Vlaamse Regering van 18 juli 2003 betreffende de taxidiensten en de diensten voor het verhuren van voertuigen met bestuurder",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1018637/VolledigDocument?datum=2009-01-10",
+  "source_sha256": "4bb09c8edb87c2d064afd752195996d047445eb967100f0e30904c36f99faf1f",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1018637&param=informatie",
+  "as_of": "2009-01-10",
+  "made": "2009-12-18",
+  "gazette": "2009-12-31",
+  "numac": 2009036225,
+  "document_start": "2009-01-10",
+  "document_end": null,
+  "in_force": "2009-01-10",
+  "article_versions": 5,
+  "record_form": "consolidated version as in force on 2009-01-10; oldest version available; future article versions excluded; article text as the API gives it"
+}
