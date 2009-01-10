@@ -1,0 +1,17 @@
+{
+  "codex_id": 1017392,
+  "title": "Ministerieel besluit van 2008-12-03 betreffende de vaststelling van het zoneringsplan van de gemeente Merchtem",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1017392/VolledigDocument?datum=2009-01-10",
+  "source_sha256": "c4ad259d5e3876428dc44ac8452849993a626a32d27c497aee42a699197fa42c",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1017392&param=informatie",
+  "as_of": "2009-01-10",
+  "made": "2008-12-03",
+  "gazette": "2008-12-31",
+  "numac": 2008036425,
+  "document_start": "2009-01-10",
+  "document_end": null,
+  "in_force": "2009-01-10",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2009-01-10; oldest version available; future article versions excluded; article text as the API gives it"
+}
