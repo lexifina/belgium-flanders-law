@@ -1,0 +1,17 @@
+{
+  "codex_id": 1017428,
+  "title": "Ministerieel besluit van 2008-12-15 tot toekenning van een subsidie van de Vlaamse Gemeenschap voor het jaar 2008 aan de VZW Gezinszorg Villers voor het project Acute Thuiszorg (ATZ)",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1017428/VolledigDocument?datum=2009-01-22",
+  "source_sha256": "3d1a5d61a9d217568f93430e11decc5b4582ddc4c5a3dc260afd22095fc2218f",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1017428&param=informatie",
+  "as_of": "2009-01-22",
+  "made": "2008-12-15",
+  "gazette": "2009-01-12",
+  "numac": 2008204723,
+  "document_start": "2009-01-22",
+  "document_end": null,
+  "in_force": "2009-01-22",
+  "article_versions": 10,
+  "record_form": "consolidated version as in force on 2009-01-22; oldest version available; future article versions excluded; article text as the API gives it"
+}
