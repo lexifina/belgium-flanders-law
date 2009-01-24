@@ -1,0 +1,17 @@
+{
+  "codex_id": 1017448,
+  "title": "Besluit van de Vlaamse Regering van 2008-11-28 tot toekenning van een projectsubsidie aan de beroepsorganisaties NAV en BVA voor de organisatie van de opleiding Energiebewust architect",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1017448/VolledigDocument?datum=2009-01-24",
+  "source_sha256": "4ce10b960185349b134b0f7805a36a79b490c69ad56f1d524bccdb855b81b30a",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1017448&param=informatie",
+  "as_of": "2009-01-24",
+  "made": "2008-11-28",
+  "gazette": "2009-01-14",
+  "numac": 2008204711,
+  "document_start": "2009-01-24",
+  "document_end": null,
+  "in_force": "2009-01-24",
+  "article_versions": 9,
+  "record_form": "consolidated version as in force on 2009-01-24; oldest version available; future article versions excluded; article text as the API gives it"
+}
