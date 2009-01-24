@@ -1,0 +1,17 @@
+{
+  "codex_id": 1017455,
+  "title": "Ministerieel besluit van 2008-12-15 tot toekenning van een subsidie van de Vlaamse Gemeenschap voor het jaar 2008 aan de VZW Thuiszorg Vleminckveld voor het project FLEX",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1017455/VolledigDocument?datum=2009-01-24",
+  "source_sha256": "9a5aa3dced2b29e8fdab837658c317d11888a9eecc9a798778c5232875b34a50",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1017455&param=informatie",
+  "as_of": "2009-01-24",
+  "made": "2008-12-15",
+  "gazette": "2009-01-14",
+  "numac": 2008204721,
+  "document_start": "2009-01-24",
+  "document_end": null,
+  "in_force": "2009-01-24",
+  "article_versions": 10,
+  "record_form": "consolidated version as in force on 2009-01-24; oldest version available; future article versions excluded; article text as the API gives it"
+}
