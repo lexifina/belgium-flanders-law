@@ -1,0 +1,17 @@
+{
+  "codex_id": 1017443,
+  "title": "Decreet van 2008-11-28 tot regeling van de overdracht van personeelsleden binnen de diensten van de Vlaamse overheid in geval van verschuiving van taken of bevoegdheden",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1017443/VolledigDocument?datum=2009-01-24",
+  "source_sha256": "6625a93fae2ce14083c2515068e116df68dcae12339ea80e7bbd04fdef29e751",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1017443&param=informatie",
+  "as_of": "2009-01-24",
+  "made": "2008-11-28",
+  "gazette": "2009-01-14",
+  "numac": 2008204698,
+  "document_start": "2009-01-24",
+  "document_end": null,
+  "in_force": "2009-01-24",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2009-01-24; oldest version available; future article versions excluded; article text as the API gives it"
+}
