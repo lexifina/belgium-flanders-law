@@ -1,0 +1,17 @@
+{
+  "codex_id": 1017444,
+  "title": "Decreet van 2008-12-12 houdende wijziging van het kaderdecreet Bestuurlijk Beleid van 18 juli 2003 inzake de beheersovereenkomsten, de interne controle en interne audit",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1017444/VolledigDocument?datum=2009-01-24",
+  "source_sha256": "6608980b57ade5d9e501533f897577e0545ae397fa345402ddb8706bc0544d4c",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1017444&param=informatie",
+  "as_of": "2009-01-24",
+  "made": "2008-12-12",
+  "gazette": "2009-01-14",
+  "numac": 2008204811,
+  "document_start": "2009-01-24",
+  "document_end": null,
+  "in_force": "2009-01-24",
+  "article_versions": 8,
+  "record_form": "consolidated version as in force on 2009-01-24; oldest version available; future article versions excluded; article text as the API gives it"
+}
