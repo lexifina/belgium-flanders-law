@@ -58,4 +58,4 @@ Programma voor het verwerven van het brevet van havenloods.<br /><br />Minimum t
 
 ### BIJLAGE II.
 
-MINISTERIE VAN DE VLAAMSE GEMEENSCHAP<br />Departement Leefmilieu en Infrastructuur<br />Administratie Waterwegen en Zeewezen<br /><br />BREVET VAN HAVENLOODS<br /><br />De directeur-generaal van de administratie Waterwegen en Zeewezen verklaart dat dit brevet is uitgereikt <br />aan . . . . . <br />geboren te . . . . . <br />op . . . . . <br />die blijk heeft gegeven de vereiste bekwaamheid te bezitten om als havenloods op te treden in volgende haven of kanaal :<br />Brussel,<br />Datum : <br />Ondertekend<br /><br />(Naam en handtekening van de directeur-generaalvan de administratie Waterwegen en Zeewezen <br /><br />
+<a href="http://www.ejustice.just.fgov.be/mopdf/2009/01/15_2.pdf#page=65" title=" bijlage" target="_blank" class="pdf">bijlage</a>
