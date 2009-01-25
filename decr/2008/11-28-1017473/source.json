@@ -1,0 +1,17 @@
+{
+  "codex_id": 1017473,
+  "title": "Decreet van 2008-11-28 houdende instemming met het verdrag inzake de bevoegdheid, het toepasselijk recht, de erkenning, de tenuitvoerlegging en de samenwerking op het gebied van ouderlijke verantwoordelijkheid en maatregelen ter bescherming van kinderen, opgemaakt in Den Haag op 19 oktober 1996",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1017473/VolledigDocument?datum=2009-01-25",
+  "source_sha256": "c74f16aef85b00f3a6988185e1131855202da9e558a6f69730bfc9909c45c9b3",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1017473&param=informatie",
+  "as_of": "2009-01-25",
+  "made": "2008-11-28",
+  "gazette": "2009-01-15",
+  "numac": 2008204702,
+  "document_start": "2009-01-25",
+  "document_end": null,
+  "in_force": "2009-01-25",
+  "article_versions": 2,
+  "record_form": "consolidated version as in force on 2009-01-25; oldest version available; future article versions excluded; article text as the API gives it"
+}
