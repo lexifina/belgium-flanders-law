@@ -28,3 +28,11 @@ In de bijlage bij het besluit van de Vlaamse Regering van 22 juni 2007 tot vasts
 ### ART. 2.
 
 In de bijlage bij hetzelde besluit worden in het studiegebied Wetenschappen/Toegepaste wetenschappen/Toegepaste biologische wetenschappen bij de K.U.-Leuven in de tweede kolom de volgende wijzigingen aangebracht : <br />1° in rij 7 worden de woorden « Master in de aardobservatie » vervangen door de woorden « Master in de aardobservatie - afstudeerrichting "bio-ingenieur" »;<br />2° in rij 8 worden de woorden « Master of Earth Observation » vervangen door de woorden « Master of Earth Observation - afstudeerrichting "bioscience-engineering" ».
+
+### ART. 3.
+
+Artikel 1 heeft uitwerking met ingang van het academiejaar 2008-2009. Artikel 2 heeft uitwerking met ingang van het academiejaar 2005-2006.
+
+### ART. 4.
+
+De Vlaamse minister, bevoegd voor het onderwijs, is belast met de uitvoering van dit besluit.

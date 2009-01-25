@@ -2,16 +2,16 @@
   "codex_id": 1017471,
   "title": "Besluit van de Vlaamse Regering van 2008-11-28 houdende wijziging van de bijlage bij het besluit van de Vlaamse Regering van 22 juni 2007 tot vaststelling van de lijst van bachelor- en masteropleidingen en afstudeerrichtingen binnen een masteropleiding met een bijkomende titel",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1017471/VolledigDocument?datum=2008-09-01",
-  "source_sha256": "876d784e2c04d8f4821808bc18f8ff5a46341923752fb14a980db8fb4c642035",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1017471/VolledigDocument?datum=2009-01-25",
+  "source_sha256": "0a6b523e05ad28a1ba41c7364dd74c7c9359d17e9cbbc0736533ce323ada0772",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1017471&param=informatie",
-  "as_of": "2008-09-01",
+  "as_of": "2009-01-25",
   "made": "2008-11-28",
   "gazette": "2009-01-15",
   "numac": 2008204817,
   "document_start": null,
   "document_end": null,
-  "in_force": "2008-09-01",
-  "article_versions": 3,
-  "record_form": "consolidated version as in force on 2008-09-01; future article versions excluded; article text as the API gives it"
+  "in_force": "2009-01-25",
+  "article_versions": 5,
+  "record_form": "consolidated version as in force on 2009-01-25; future article versions excluded; article text as the API gives it"
 }
