@@ -1,0 +1,17 @@
+{
+  "codex_id": 1017470,
+  "title": "Besluit van de Vlaamse Regering van 2008-11-07 houdende vastlegging en ordonnancering van de Vlaamse cofinanciering van plattelandsproject 'Dorpskernvernieuwing Helkijn' voor de provincie West-Vlaanderen in het kader van de gebiedsgerichte werking van As 3 van het Programma voor Plattelandsontwikkeling in Vlaanderen - periode 2007-2013 (Verordening (EG) nr. 1698/2005)",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1017470/VolledigDocument?datum=2009-01-25",
+  "source_sha256": "f1cbf615f94487bddac559c63dbae8734d3d28ad1b91ff430691f4ed92519c78",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1017470&param=informatie",
+  "as_of": "2009-01-25",
+  "made": "2008-11-07",
+  "gazette": "2009-01-15",
+  "numac": 2008204697,
+  "document_start": "2009-01-25",
+  "document_end": null,
+  "in_force": "2009-01-25",
+  "article_versions": 6,
+  "record_form": "consolidated version as in force on 2009-01-25; oldest version available; future article versions excluded; article text as the API gives it"
+}
