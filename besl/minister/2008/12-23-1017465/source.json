@@ -1,0 +1,17 @@
+{
+  "codex_id": 1017465,
+  "title": "Ministerieel besluit van 2008-12-23 tot wijziging van het ministerieel besluit van 26 april 2007 houdende vaststelling van het beoordelingskader voor de interne reglementen in het kader van het besluit van de Vlaamse Regering van 29 september 2006 betreffende de voorwaarden voor de overdracht van onroerende goederen door de Vlaamse Maatschappij voor Sociaal Wonen en de sociale huisvestingsmaatschappijen ter uitvoering van de Vlaamse Wooncode",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1017465/VolledigDocument?datum=2009-01-25",
+  "source_sha256": "f197d435b0718e1c223f143721f427f456b339039bdb03b2d7c8429252dbf719",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1017465&param=informatie",
+  "as_of": "2009-01-25",
+  "made": "2008-12-23",
+  "gazette": "2009-01-15",
+  "numac": 2009035014,
+  "document_start": "2009-01-25",
+  "document_end": null,
+  "in_force": "2009-01-25",
+  "article_versions": 2,
+  "record_form": "consolidated version as in force on 2009-01-25; oldest version available; future article versions excluded; article text as the API gives it"
+}
