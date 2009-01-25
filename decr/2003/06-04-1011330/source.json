@@ -2,16 +2,16 @@
   "codex_id": 1011330,
   "title": "Decreet van 2003-06-04 betreffende het inwerkingsbeleid",
   "type": "Decreet",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1011330/VolledigDocument?datum=2006-09-15",
-  "source_sha256": "bd1029f4b9ce0a557c0503ad737ae9f3170ec264d93487f3a0c238dbd489c660",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1011330/VolledigDocument?datum=2009-01-25",
+  "source_sha256": "ac430b0e8c66dfc0af5de914f9c281ae57dd98d9bc22060f7f85f11d10e35488",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1011330&param=informatie",
-  "as_of": "2006-09-15",
+  "as_of": "2009-01-25",
   "made": "2003-06-04",
   "gazette": "2003-06-30",
   "numac": 2003035645,
   "document_start": "2003-09-01",
   "document_end": null,
-  "in_force": "2006-09-15",
+  "in_force": "2009-01-25",
   "article_versions": 14,
-  "record_form": "consolidated version as in force on 2006-09-15; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2009-01-25; future article versions excluded; article text as the API gives it"
 }
