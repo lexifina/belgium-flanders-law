@@ -94,11 +94,11 @@ Onverminderd de regels bepaald in de artikelen 41 en 50 van de wetten op de rijk
 
 ### ART. 19ter.
 
-§ 1. De aanvullende dotatie aan het Vlaams Gemeentefonds waarvan sprake in artikel 19bis, wordt onder de gemeenten van het Vlaamse Gewest verdeeld volgens dezelfde procentuele verhouding als de verdeling onder de gemeenten van het bedrag voor het jaar 2006 van de federale bijdrage tot compensatie van de inkomstenderving van de gemeenten ingevolge de liberalisering van de elektriciteitsmarkt, ingesteld door artikel 22bis van de wet van 29 april 1999 betreffende de organisatie van de elektriciteitsmarkt.<br /><br />§ 2. De Vlaamse Regering stelt de in § 1 van dit artikel bedoelde procentuele verhouding voor elke gemeente vast.
+§ 1. De aanvullende dotatie aan het Vlaams Gemeentefonds waarvan sprake in artikel 19bis, wordt voor het begrotingsjaar 2008 onder de gemeenten van het Vlaamse Gewest verdeeld volgens dezelfde procentuele verhouding als de verdeling onder de gemeenten van het bedrag voor het jaar 2006 van de federale bijdrage tot compensatie van de inkomstenderving van de gemeenten ingevolge de liberalisering van de elektriciteitsmarkt, ingesteld door artikel 22bis van de wet van 29 april 1999 betreffende de organisatie van de elektriciteitsmarkt.<br /><br />Vanaf het begrotingsjaar 2009 wordt de aanvullende dotatie waarvan sprake in artikel 19bis verdeeld volgens dezelfde procentuele verhouding als de verdeling onder de gemeenten van het bedrag voor het jaar 2007 van de in het eerste lid van deze paragraaf genoemde federale bijdrage.<br /><br />§ 2. De Vlaamse Regering stelt de in § 1 van dit artikel bedoelde procentuele verhouding voor elke gemeente vast.
 
 ### ART. 19quater.
 
-De gemeentelijke aandelen in de aanvullende dotatie waarvan sprake in artikel 19bis en berekend overeenkomstig de bepalingen van artikel 19ter, worden voor het volledige bedrag aan de gemeenten betaald op het einde van de eerste maand van het tweede kwartaal.
+De gemeentelijke aandelen in de aanvullende dotatie waarvan sprake in artikel 19bis en berekend overeenkomstig de bepalingen van artikel 19ter, worden voor het volledige bedrag aan de gemeenten betaald op het einde van de eerste maand van het tweede kwartaal.<br /><br />In afwijking van het in het eerste lid bepaalde kunnen de gemeentelijke aandelen in de aanvullende dotatie voor het jaar 2009 voor het volledige bedrag betaald worden in het jaar 2008.
 
 ### ART. 19quinquies.
 
