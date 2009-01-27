@@ -2,6 +2,10 @@
 
 ## HOOFDSTUK I Algemeen
 
+### ART. 1.
+
+Dit decreet regelt een gemeenschaps- en gewestaangelegenheid.<br /><br />
+
 ## HOOFDSTUK II Onderwijs
 
 ## Afdeling I VZW Voorrangsbeleid Brussel
@@ -9,6 +13,10 @@
 ### ART. 2.
 
 In artikel 22, § 2, van het decreet van 30 november 2007 betreffende het flankerend onderwijsbeleid op lokaal niveau worden de woorden « 31 augustus 2008 » vervangen door de woorden « 31 december 2009 ».<br /><br />
+
+### ART. 3.
+
+Aan artikel 22 van hetzelfde decreet wordt een § 3 toegevoegd, die luidt als volgt :<br />« § 3. De vzw VBB kan geen verbintenissen aangaan die uitvoering hebben na 31 december 2009. ».<br /><br />
 
 ## Afdeling II VZW Brussels Ondersteuningscentrum secundair onderwijs
 
@@ -18,9 +26,387 @@ In artikel X.7 van het decreet van 22 juni 2007 betreffende het onderwijs XVII w
 
 ## Afdeling III Centra voor leerlingenbegeleiding
 
+### ART. 5.
+
+In artikel 53, § 1, van het decreet van 1 december 1998 betreffende de centra voor leerlingenbegeleiding, vervangen bij decreet van 24 december 2004, worden de volgende wijzigingen aangebracht :<br />1° in de eerste zin worden de woorden « 14.150.000 euro » vervangen door de woorden « 15.052.658 euro »;<br />2° punt 2° wordt vervangen door wat volgt :<br />« 2° voor de extra-omkaderingsgewichten :<br />a) voor de 180 extra-omkaderingsgewichten die betrekking hebben op densiteit zoals vermeld in artikel 71, § 4 : 2655 euro per omkaderingsgewicht per jaar;<br />b) voor de 135 extra-omkaderingsgewichten die betrekking hebben op gelijke onderwijskansen zoals vermeld in artikel 71, § 2 : 3000 euro per omkaderingsgewicht per jaar; ».<br /><br />
+
 ## Afdeling IV Hogere Zeevaartschool
 
+### ART. 6.
+
+In artikel 30 van het decreet van 9 juni 1998 betreffende de Hogere Zeevaartschool wordt het bedrag « 1.199.000 euro » vervangen door het bedrag « 1.391.000 euro ».<br /><br />
+
 ## Afdeling V Financiering Hoger Onderwijs
+
+### ART. 7.
+
+De tabel in artikel 9, § 3, van het decreet van 14 maart 2008 betreffende de financiering van de werking van de hogescholen en universiteiten in Vlaanderen wordt vervangen door de volgende tabel :<br>
+
+<table border="1" cellpadding="0" cellspacing="0" style="border-collapse:collapse">
+	<tbody>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:92.1pt">
+			<p><!--?xml:namespace prefix         = o ns = "urn:schemas-microsoft-com:office:office"         /-->&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:92.1pt">
+			<p>Begrotingsjaar 2008</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:92.1pt">
+			<p>Begrotingsjaar 2009</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:92.15pt">
+			<p>Begrotingsjaar 2010</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:92.15pt">
+			<p>Vanaf begrotingsjaar 2011</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:92.1pt">
+			<p>1° SOW</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:92.1pt">
+			<p>100.000.000,00</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:92.1pt">
+			<p>100.000.000,00</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:92.15pt">
+			<p>100.000.000,00</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:92.15pt">
+			<p>100.000.000,00</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:92.1pt">
+			<p>2° VOW prof</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:92.1pt">
+			<p>366.165.166,69</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:92.1pt">
+			<p>366.258.725,67</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:92.15pt">
+			<p>366.352.284,65</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:92.15pt">
+			<p>366.445.843,63</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:92.1pt">
+			<p>3° VOW ac</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:92.1pt">
+			<p>156.526.637,20</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:92.1pt">
+			<p>157.426.226,38</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:92.15pt">
+			<p>158.325.815,56</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:92.15pt">
+			<p>158.583.404,74</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:92.1pt">
+			<p>4° VOW un</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:92.1pt">
+			<p>313.553.570,53</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:92.1pt">
+			<p>313.553.570,53</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:92.15pt">
+			<p>313.553.570,53</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:92.15pt">
+			<p>313.553.570,53</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:92.1pt">
+			<p>5° SOZun</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:92.1pt">
+			<p>105.000.000,00</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:92.1pt">
+			<p>105.000.000,00</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:92.15pt">
+			<p>105.000.000,00</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:92.15pt">
+			<p>105.000.000,00</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:92.1pt">
+			<p>6° VOZun</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:92.1pt">
+			<p>176.186.240,45</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:92.1pt">
+			<p>176.186.240,45</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:92.15pt">
+			<p>176.186.240,45</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:92.15pt">
+			<p>176.186.240,45</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+<p>&nbsp;</p>
+
+### ART. 8.
+
+In artikel 31 van hetzelfde decreet wordt § 2 vervangen door wat volgt :<br>
+« § 2. De volgende gegarandeerde minimumbedragen worden vastgelegd voor de hogescholen en de universiteiten :<br>
+&nbsp;
+<table border="1" cellpadding="0" cellspacing="0" style="border-collapse:collapse">
+	<tbody>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:230.3pt">
+			<p>Instelling<!--?xml:namespace         prefix = o ns = "urn:schemas-microsoft-com:office:office"         /--></p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:230.3pt">
+			<p>Gegarandeerd minimum (uitgedrukt in EUR)</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>1° Arteveldhogeschool</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>39.172.027,94</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>2° Erasmushogeschool Brussel</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>28.221.507,42</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>3° Hogeschool Antwerpen</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>44.770.310,04</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>4° Hogeschool Gent</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>74.423.088,34</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>5° Hogeschool Sint-Lukas Brussel</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>7.340.568,70</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>6° Hogeschool voor Wetenschap &amp; Kunst</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>38.412.534,58</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>7° Hogeschool West-Vlaanderen</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>19.816.734,54</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>8° Karel de Grote-Hogeschool KH Antwerpen</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>40.252.379,35</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>9° Katholieke Hogeschool Brugge-Oostende</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>17.798.398,64</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>10° Katholieke Hogeschool Kempen</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>31.364.082,66</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>11° Katholieke Hogeschool Leuven</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>27.088.744,74</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>12° Katholieke Hogeschool Limburg</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>29.971.388,38</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>13° Katholieke Hogeschool Mechelen</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>19.961.758,26</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>14° Katholieke Hogeschool Sint-Lieven</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>26.915.201,11</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>15° Katholieke Hogeschool Zuid-West-Vlaanderen</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>29.164.438,69</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>16° Lessius Hogeschool</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>13.008.546,51</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>17° Plantijn-Hogeschool</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>13.941.258,15</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>18° Provinciale Hogeschool Limburg</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>20.857.698,06</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>19° Groep T - Leuven Hogeschool</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>10.766.708.,92</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>20° EHSAL – Europese Hogeschool Brussel</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>21.305.296,34</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>21° XIOS Hogeschool Limburg</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>15.193.074,25</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>22° KUBrussel</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>5.502.000,00</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>23° KULeuven</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>222.899.082,00</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>24° UGent</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>196.584.425,00</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>25° Universiteit Antwerpen</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>85.954.139,00</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>26° VUB</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>78.279.046,00</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>27° UHassselt / tUL</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>24.528.509,00</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+<p>&nbsp;</p>
+
+### ART. 9.
+
+In artikel 35, § 1, van hetzelfde decreet worden de volgende wijzigingen aangebracht :<br />1° in punt 1° wordt het getal « 1.108.000 » vervangen door het getal « 951.960,02 »;<br />2° in punt 2° wordt het getal « 7.850.000 » vervangen door het getal « 7.930.245,71 ».<br /><br />
 
 ## Afdeling VI Fonds - Terugvorderingen Salarissen - Centra voor Basiseducatie (Recuperatiefonds)
 
@@ -36,7 +422,31 @@ In artikel 23, § 2, van het decreet van 30 november 2007 betreffende het flanke
 
 ## Afdeling VIII Instituut voor Europese Studies
 
+### ART. 12.
+
+Aan artikel 169quater, § 7, van het decreet van 12 juni 1991 betreffende de universiteiten in de Vlaamse Gemeenschap, laatst gewijzigd bij het decreet van 4 april 2003, wordt aan het tweede lid de volgende zin toegevoegd :<br />« Voor 2008 bedraagt de subsidie 1.824 duizend euro. ».<br /><br />
+
 ## Afdeling IX Werkingsbudgetten leerplichtonderwijs
+
+### ART. 13.
+
+In artikel 3 van het decreet van 4 juli 2008 betreffende de werkingsbudgetten in het secundair onderwijs en tot wijziging van het decreet basisonderwijs van 25 februari 1997 wat de werkingsbudgetten betreft, worden in het ontworpen artikel 85, § 5, de woorden « elk jaar in twee schijven uitbetaald : in januari een voorschot van 50 % en het saldo in juni » vervangen door de woorden « elk schooljaar in minstens twee schijven uitbetaald waarbij vóór 1 februari de som van de uitbetaalde schijven minstens 50 % van de werkingsmiddelen van het betrokken schooljaar vertegenwoordigt en het saldo vóór 1 juli betaald wordt ».<br /><br />
+
+### ART. 14.
+
+In artikel 3 van hetzelfde decreet worden in het ontworpen artikel 86, § 5, de woorden « elk jaar in twee schijven uitbetaald : in januari een voorschot van 50 % en het saldo in juni » vervangen door de woorden « elk schooljaar in minstens twee schijven uitbetaald waarbij vóór 1 februari de som van de uitbetaalde schijven minstens 50 % van de werkingsmiddelen van het betrokken schooljaar vertegenwoordigt en het saldo vóór 1 juli betaald wordt ».<br /><br />
+
+### ART. 15.
+
+In artikel 12, § 5, van hetzelfde decreet worden de woorden « elk jaar in twee schijven uitbetaald : in januari een voorschot van 50 % en het saldo in juni » vervangen door de woorden « elk schooljaar in minstens twee schijven uitbetaald waarbij vóór 1 februari de som van de uitbetaalde schijven minstens 50 % van de werkingsmiddelen van het betrokken schooljaar vertegenwoordigt en het saldo vóór 1 juli betaald wordt ».<br /><br />
+
+### ART. 16.
+
+In artikel 18, § 5, van hetzelfde decreet worden de woorden « elk jaar in twee schijven uitbetaald : in januari een voorschot van 50 % en het saldo in juni » vervangen door de woorden : « elk schooljaar in minstens twee schijven uitbetaald waarbij vóór 1 februari de som van de uitbetaalde schijven minstens 50 % van de werkingsmiddelen van het betrokken schooljaar vertegenwoordigt en het saldo vóór 1 juli betaald wordt ».<br /><br />
+
+### ART. 17.
+
+In artikel 24 van hetzelfde decreet worden de woorden « januari 2009 » vervangen door de woorden « november 2008 ».<br /><br />
 
 ## HOOFDSTUK III Fiscaliteit
 
@@ -82,9 +492,49 @@ Aan artikel 135 van het Wetboek der Successierechten wordt een punt 10° toegevo
 
 ## Afdeling I Herstelvordering
 
+### ART. 26.
+
+In artikel 17bis, § 1, van het decreet van 4 februari 1997 houdende de kwaliteits- en veiligheidsnormen voor kamers en studentenkamers worden in het eerste lid, derde zin, de woorden « of ambtshalve » geschrapt.<br /><br />
+
+### ART. 27.
+
+In artikel 17bis, § 1, van hetzelfde decreet wordt het tweede lid geschrapt.<br /><br />
+
+### ART. 28.
+
+In artikel 17bis, § 6, van hetzelfde decreet worden een tweede en derde lid toegevoegd, die luiden als volgt :<br />« Zolang door de wooninspecteur geen proces-verbaal werd opgesteld waaruit blijkt dat de opgelegde herstelmaatregel volledig werd uitgevoerd, kan door het college van burgemeester en schepenen geen conformiteitsattest worden afgeleverd.<br /><br />De wooninspecteur brengt het college van burgemeester en schepenen onmiddellijk op de hoogte van de resultaten van het controlebezoek. ».<br /><br />
+
+### ART. 29.
+
+In artikel 17bis, § 7, van hetzelfde decreet, worden in het tweede lid de woorden « of in geval van toepassing van wat bepaald is in § 1, laatste lid, » geschrapt.<br /><br />
+
+### ART. 30.
+
+In artikel 20bis, § 1, tweede lid, van het decreet van 15 juli 1997 houdende de Vlaamse Wooncode, zoals gewijzigd bij decreet van 7 juli 2006, worden de woorden « of ambtshalve » geschrapt.<br /><br />
+
+### ART. 31.
+
+In artikel 20bis, § 1, van hetzelfde decreet wordt het derde lid geschrapt.<br /><br />
+
+### ART. 32.
+
+In artikel 20bis, § 6, van hetzelfde decreet worden een tweede en derde lid toegevoegd, die luiden als volgt :<br />« Zolang door de wooninspecteur geen proces-verbaal werd opgesteld waaruit blijkt dat de opgelegde herstelmaatregel volledig werd uitgevoerd, kan door het college van burgemeester en schepenen geen conformiteitsattest worden afgeleverd.<br /><br />De wooninspecteur brengt het college van burgemeester en schepenen onmiddellijk op de hoogte van de resultaten van het controlebezoek. ».<br /><br />
+
+### ART. 33.
+
+In artikel 20bis, § 7, van hetzelfde decreet, worden in het tweede lid de woorden « of in geval van toepassing van wat bepaald is in § 1, laatste lid, » geschrapt.<br /><br />
+
 ## Afdeling II Bevoegdheden toezichthouder
 
+### ART. 34.
+
+Aan artikel 29bis van het decreet van 15 juli 1997 houdende de Vlaamse Wooncode wordt een § 3 toegevoegd, die luidt als volgt :<br />« § 3. De in artikel 47 bedoelde bevoegdheden van de toezichthouder kunnen op een overeenkomstige wijze worden uitgeoefend ten aanzien van de beslissingen van de instanties genomen krachtens titel VI en VII. ».<br /><br />
+
 ## Afdeling III Invordering van subsidies en tegemoetkomingen
+
+### ART. 35.
+
+De ambtenaren die met toepassing van het laatste lid van artikel 59 van het decreet van 15 juli 1997 houdende de Vlaamse Wooncode door de Vlaamse Regering belast zijn met de invordering van subsidies en tegemoetkomingen, evenals de ambtenaren die belast zijn met het opstellen, viseren en uitvoerbaar verklaren van de dwangbevelen, kunnen deze bevoegdheden ook uitoefenen om de andere dan de in het artikel 59 van voormeld decreet bedoelde subsidies en tegemoetkomingen die op het vlak van huisvesting, zoals bedoeld in artikel 6, § 1, IV, van de bijzondere wet van 8 augustus 1980 tot hervorming der instellingen werden verstrekt, terug te vorderen wanneer de begunstigden de aangegane verbintenissen of gestelde voorwaarden niet naleven.<br /><br />De teruggevorderde subsidies en tegemoetkomingen worden toegewezen aan het Fonds voor de Huisvesting, bedoeld in artikel 59 van het decreet van 15 juli 1997 houdende de Vlaamse Wooncode.<br /><br />
 
 ## Afdeling IV Sociale huurwoningen
 
@@ -96,11 +546,27 @@ Aan artikel 135 van het Wetboek der Successierechten wordt een punt 10° toegevo
 
 ## HOOFDSTUK VI Vlaams Gemeentefonds
 
+### ART. 38.
+
+In artikel 19ter, § 1, van het decreet van 5 juli 2002 tot vaststelling van de regels inzake de dotatie en de verdeling van het Vlaams Gemeentefonds worden tussen het woord « wordt » en de woorden « onder de gemeenten van het Vlaamse Gewest » de woorden « voor het begrotingsjaar 2008 » ingevoegd.<br /><br />
+
+### ART. 39.
+
+Aan artikel 19ter, § 1, van hetzelfde decreet wordt een tweede lid toegevoegd, dat luidt als volgt :<br />« Vanaf het begrotingsjaar 2009 wordt de aanvullende dotatie waarvan sprake in artikel 19bis verdeeld volgens dezelfde procentuele verhouding als de verdeling onder de gemeenten van het bedrag voor het jaar 2007 van de in het eerste lid van deze paragraaf genoemde federale bijdrage. ».<br /><br />
+
+### ART. 40.
+
+Aan artikel 19quater van hetzelfde decreet wordt een tweede lid toegevoegd, dat luidt als volgt :<br />« In afwijking van het in het eerste lid bepaalde kunnen de gemeentelijke aandelen in de aanvullende dotatie voor het jaar 2009 voor het volledige bedrag betaald worden in het jaar 2008. ».<br /><br />
+
 ### ART. 41.
 
 Aan artikel 22 van hetzelfde decreet worden de volgende wijzigingen aangebracht :<br />1° in § 4 wordt « 30 september 2008 » vervangen door « 30 september 2009 »;<br />2° in § 5 wordt het jaartal « 2009 » vervangen door het jaartal « 2010 »;<br />3° in § 6 wordt het jaartal « 2008 » vervangen door het jaartal « 2009 »;<br />4° in § 6bis wordt « 30 september 2008 » vervangen door « 30 september 2009 ».<br /><br />
 
 ## HOOFDSTUK VII Overname schuld provinciewegen
+
+### ART. 42.
+
+§ 1. De Vlaamse Regering wordt ertoe gemachtigd om, in het kader van het Lokaal Pact met de Lokale Overheden, leningen aangegaan door de provincies, op te nemen in haar directe schuld, met het oog op de onmiddellijke vervroegde terugbetaling van deze leningen. De Vlaamse Regering wordt er tevens toe gemachtigd om, in het kader van het Lokaal Pact met de Lokale Overheden, schulden in dit kader aangegaan door de provincies aan de bank terug te betalen.<br /><br />Per provincie kan een schuld worden overgenomen of terugbetaald, ten belope van de financiële compensatie die door de provincies aan de gemeenten zal worden betaald voor het in goede staat brengen van de overgedragen lokale wegen, zoals geselecteerd in de structuur- en mobiliteitsplannen.<br /><br />§ 2. De Vlaamse Regering wordt ertoe gemachtigd een gebeurlijke wederbeleggingsvergoeding, gelimiteerd volgens de modaliteiten vast te stellen door de Vlaamse Regering, en één week intrest ten laste te nemen op de leningen vermeld in § 1.<br /><br />§ 3. Voor de omschrijving van de directe schuld wordt verwezen naar artikel 2, 1°, van het decreet van 7 mei 2004 houdende bepalingen inzake kas-, schuld- en waarborgbeheer van de Vlaamse Gemeenschap en het Vlaamse Gewest.<br /><br />
 
 ## HOOFDSTUK VIII Flanders House Inc.
 
@@ -118,7 +584,15 @@ De financiële tegemoetkoming van de Vlaamse Gemeenschap in de algemene werking 
 
 ## HOOFDSTUK IX Fonds voor Kunsten en Erfgoed
 
+### ART. 46.
+
+Artikel 22 van het decreet van 21 december 1990 houdende begrotingstechnische bepalingen alsmede de bepalingen tot begeleiding van de begroting 1991 wordt vervangen door wat volgt :<br /><br />« Artikel 22. § 1. Het fonds voor de Cultuur wordt omgevormd tot het Fonds voor Kunsten en Erfgoed, hierna « het Fonds » genoemd en opgericht zoals voorzien in artikel 45 van de gecoördineerde wetten op de Rijkscomptabiliteit.<br /><br />§ 2. De middelen van het Fonds zijn :<br />1° schenkingen, legaten en sponsoring;<br />2° inkomsten die het gevolg zijn van residenties, Europese projecten, tentoonstellingen, publicaties en audiovisuele realisaties, gefinancierd of geprefinancierd door of in samenwerking met de administratie bevoegd voor Kunsten en Erfgoed;<br />3° terugbetalingen van de door het Fonds verleende financieringen, prefinancieringen en subsidies;<br />4° verkoop van catalogi en publicaties;<br />5° toegangsgelden tot musea en tentoonstellingen;<br />6° terugvorderingen van ten onrechte gedane betalingen.<br /><br />§ 3. De middelen van het Fonds moeten rechtstreeks bijdragen tot :<br />1° het verrijken van de kunstpatrimonia van de collectie van de Vlaamse Gemeenschap, van de eigen kunstinstellingen van de Vlaamse Gemeenschap en van de musea, evenals de valorisatie van hun wetenschappelijke onderzoek;<br />2° financiering, prefinanciering of subsidiëring van professionele kunstenaars met het oog op hun ontwikkeling als zelfstandige; deze financiering, prefinanciering of subsidiëring kan aan natuurlijke personen en rechtspersonen worden verleend;<br />3° financiering, prefinanciering of subsidiëring van documentaire films rond het leven en het werk van scheppende of uitvoerende kunstenaars;<br />4° financiering, prefinanciering of subsidiëring van de productie van gegevensdragers met in hoofdzaak Vlaamse muziek;<br />5° financiering, prefinanciering of subsidiëring van tentoonstellingen, catalogi, publicaties en audiovisuele realisaties van of in samenwerking met de administratie bevoegd voor Kunsten en Erfgoed.<br /><br />§ 4. Om de in § 3 bepaalde doelstellingen te bereiken, kan het Fonds :<br />1° financieringen toekennen;<br />2° terugvorderbare voorschotten verlenen;<br />3° subsidies verstrekken;<br />4° in naam van de Vlaamse Gemeenschap en voor rekening van het Fonds opdrachten voor werken, leveringen en diensten gunnen.<br /><br />§ 5. De in § 3, 2°, bedoelde middelen kunnen aangevraagd worden door alle kunstenaars ongeacht de disciplines waarin zij actief zijn.<br /><br />De aanvrager dient een natuurlijke persoon te zijn.<br /><br />De Vlaamse Regering kent de in § 3, 2°, bedoelde middelen toe op basis van de volgende criteria :<br />1° de onmogelijkheid voor de kunstenaar om het project zelf te financieren;<br />2° de door de kunstenaar geboden garanties op de terugbetaling van de middelen.<br /><br />De overeenkomstig § 3, 2°, door de Vlaamse Regering toegekende middelen moeten volledig terugbetaald worden, behoudens in de door de Vlaamse Regering bepaalde gevallen.<br /><br />
+
 ## HOOFDSTUK X Vlaamse Regulator voor de Media
+
+### ART. 47.
+
+In artikel 176quinquies, § 1, van de decreten betreffende de radio-omroep en de televisie, gecoördineerd op 4 maart 2005, worden de woorden « 3° de administratieve geldboeten, bedoeld in artikelen 176 en 176bis ; » geschrapt.<br /><br />
 
 ## HOOFDSTUK XI Fonds personeelsleden met verlof voor opdracht
 
@@ -180,6 +654,14 @@ In artikel 5 van hetzelfde decreet worden de volgende wijzigingen aangebracht :<
 
 ## HOOFDSTUK XVI Economisch ondersteuningsbeleid
 
+### ART. 60.
+
+In artikel 2 van het decreet van 31 januari 2003 betreffende het economisch ondersteuningsbeleid, gewijzigd bij het decreet van 23 december 2005 houdende bepalingen tot begeleiding van de begroting 2006, wordt § 2 opgeheven.<br /><br />
+
+### ART. 61.
+
+In hetzelfde decreet wordt een hoofdstuk VIIbis, dat bestaat uit artikel 31bis en artikel 31ter, ingevoegd, dat luidt als volgt :<br /><br />« HOOFDSTUK VIIbis. - Steun voor ondernemerschapsbevordering<br />Afdeling I. - Toepassingsgebied<br /><br />Artikel 31bis. § 1. De Vlaamse Regering kan steun verlenen aan projecten ter bevordering van het ondernemerschap en het optreden coördineren van begunstigden die middelen ten laste van de Vlaamse begroting ontvangen voor ondernemerschapsbevordering onder de voorwaarden vermeld in de uitvoeringsbesluiten.<br /><br />De projecten kunnen betrekking hebben op :<br />1° het sensibiliseren over ondernemers, bedrijven en ondernemerschap;<br />2° het aanleren van attitudes, competenties en vaardigheden ter stimulering van de ondernemingszin en de performantie van ondernemingen.<br /><br />De Vlaamse Regering kan die lijst verduidelijken en aanvullen overeenkomstig de beleidsprioriteiten en de noodwendigheden.<br /><br />§ 2. De steun kan worden verleend aan :<br />1° ondernemingen zoals gedefinieerd in artikel 3, 1°, met toepassing van artikel 5 en de hoofdstukken XI, XIII en XIV;<br />2° entiteiten die niet voldoen aan 1°, met toepassing van artikel 5 en de hoofdstukken XIII en XIV.<br /><br />§ 3. De Vlaamse Regering kan de begunstigden, vermeld in § 2, verder concretiseren in functie van de noodwendigheden en de beleidsprioriteiten.<br /><br />Afdeling II. - Steunintensiteit<br /><br />Artikel 31ter. - § 1. De steunintensiteit wordt berekend als een percentage van de in aanmerking komende kosten.<br /><br />§ 2. De Vlaamse Regering bepaalt de in aanmerking komende kosten en de steunintensiteit.<br /><br />§ 3. De Vlaamse Regering bepaalt in welke mate er cumulatie van steun is toegelaten, ongeacht de bron en in welke vorm ook verleend, met betrekking tot dezelfde kosten. ».<br /><br />
+
 ## HOOFDSTUK XVII IWT-Vlaanderen
 
 ### ART. 62.
@@ -194,7 +676,55 @@ In artikel VI.9.9., § 1, van het decreet van 19 maart 2004 betreffende de recht
 
 ## HOOFDSTUK XIX Sociaal-Cultureel Volwassenenwerk
 
+### ART. 64.
+
+De middelen die voor de aanvullende subsidie voor tewerkstelling beschikbaar zijn binnen de sector sociaal-cultureel volwassenenwerk, zoals bedoeld in artikel 9, 3°, van het decreet van 7 mei 2004 houdende aanvullende subsidies voor tewerkstelling in de culturele sector, worden toegevoegd aan de middelen waarop de betrokken organisaties gesubsidieerd worden op basis van het decreet van 4 april 2003 betreffende het sociaal-cultureel volwassenenwerk.<br /><br />
+
 ## HOOFDSTUK XX Uitleendienst kampeermateriaal en jeugdverblijfcentra
+
+### ART. 65.
+
+Het opschrift van het decreet van 3 maart 2004 houdende erkenning en subsidiering van jeugdherbergen, jeugdverblijfcentra, ondersteuningsstructuren en de vzw Algemene Dienst voor Jeugdtoerisme wordt als volgt gewijzigd :<br />« Decreet houdende subsidiëring van hostels, jeugdverblijfcentra, ondersteuningsstructuren en de vzw Algemene Dienst voor Jeugdtoerisme ».<br /><br />
+
+### ART. 66.
+
+In artikel 2, 4°, van hetzelfde decreet wordt het woord « jeugdherberg, » vervangen door de woorden « hostel en ».<br /><br />
+
+### ART. 67.
+
+In artikel 4, § 1, eerste lid, en § 2, eerste lid, van hetzelfde decreet wordt het woord « jeugdherbergen » vervangen door het woord « hostels ».<br /><br />
+
+### ART. 68.
+
+In artikel 5 van hetzelfde decreet wordt punt 3° geschrapt.<br /><br />
+
+### ART. 69.
+
+§ 1. In artikel 7, § 1, van hetzelfde decreet wordt het woord « jeugdherbergen » vervangen door het woord « hostels ».<br /><br />§ 2. In § 3 van hetzelfde artikel worden de woorden « jeugdherbergen » vervangen door « hostels ».<br /><br />
+
+### ART. 70.
+
+In artikel 8, § 1, 1° en 4°, van hetzelfde decreet worden het woord « jeugdherbergen » vervangen door « hostels ».<br /><br />
+
+### ART. 71.
+
+In het opschrift van hoofdstuk VI van hetzelfde decreet wordt het woord « jeugdherbergen » vervangen door het woord « hostels ».<br /><br />
+
+### ART. 72.
+
+In artikel 13 van hetzelfde decreet wordt het woord « jeugdherbergen » vervangen door het woord « hostels ».<br /><br />In hetzelfde artikel worden de woorden « of hostel » ingevoegd na de woorden « type A, B of C ».<br /><br />
+
+### ART. 73.
+
+§ 1. In artikel 14, § 1, van hetzelfde decreet wordt tussen het woord « jeugdverblijfcentrum » en de woorden « moet het centrum » de woorden « of hostel » ingevoegd.<br /><br />§ 2. In § 2 van hetzelfde artikel wordt tussen de woorden « type A en B » en de woorden « moeten bovendien » de woorden « of hostels » ingevoegd.<br /><br />§ 3. In § 3 van hetzelfde artikel wordt tussen de woorden « type C » en de woorden « moeten bovendien » de woorden « of hostels » ingevoegd.<br /><br />§ 4. In dezelfde paragraaf worden de punten 3° en 6° geschrapt.<br /><br />
+
+### ART. 74.
+
+§ 1. Artikel 15, § 1, van hetzelfde decreet wordt in fine aangevuld met de woorden « en hostels ».<br /><br />§ 2. In § 2 van hetzelfde artikel wordt tussen het woord « jeugdverblijfcentra » en de woorden « die voldoen aan » de woorden « of hostels » ingevoegd.<br /><br />§ 3. In § 3 van hetzelfde artikel wordt tussen de woorden « jeugdverblijfcentra van het type C » en de woorden « die voldoen aan » de woorden « of hostels » ingevoegd.<br /><br />
+
+### ART. 75.
+
+In artikel 20 van hetzelfde decreet wordt tussen het woord « ondersteuningsstructuren » en de woorden « en de jeugdverblijfcentra » het woord « , hostels » ingevoegd.<br /><br />
 
 ## HOOFDSTUK XXI Tewerkstelling
 
@@ -230,6 +760,10 @@ In artikel 28quater van het decreet van 24 januari 1984 houdende maatregelen inz
 
 ## Afdeling II Oppervlaktewateren
 
+### ART. 82.
+
+Artikel 2 van de wet van 26 maart 1971 op de bescherming van de oppervlaktewateren tegen verontreiniging, gewijzigd bij decreet van 22 december 2006, wordt vervangen door wat volgt :<br />« Artikel 2. Het is verboden voorwerpen of stoffen in de bij artikel 1 bedoelde wateren of in de openbare riolen te werpen of te deponeren, verontreinigde of verontreinigende vloeistoffen erin uit te lozen of er gassen in te brengen, behalve de lozing van afvalwater waarvoor vergunning is verleend of melding is gedaan overeenkomstig de bepalingen van het decreet van 28 juni 1985 betreffende de milieuvergunning en zijn uitvoeringsbesluiten alsook behalve voor het lozen van huishoudelijk afvalwater, voor zover de biologisch afbreekbare organische belasting van dit afvalwater niet meer bedraagt dan 20 inwonerequivalenten en de lozing geschiedt overeenkomstig het in § 1 van artikel 3 bedoelde reglement. Het is eveneens verboden vaste stoffen of vloeistoffen te deponeren op een plaats vanwaar ze door een natuurlijk verschijnsel in die wateren (of in de openbare riolen) kunnen terechtkomen. ».<br /><br />
+
 ### ART. 83.
 
 In artikel 35bis van dezelfde wet, gewijzigd bij decreet van 22 december 2006, wordt § 4 vervangen door wat volgt :<br />« § 4. Elke rechtspersoon die in het Vlaamse Gewest een zuiveringstechnisch werk exploiteert waarin uitsluitend afvalwater van de openbare riolering (met inbegrip van afvalstoffen afkomstig van septische putten, vetvangers of kleinschalige waterzuiveringsinstallaties met een capaciteit van maximaal 20 inwonerequivalenten waarin uitsluitend huishoudelijk afvalwater wordt geleid, per as aangevoerde afvalwaters, slibs afkomstig van openbare rioolwaterzuiveringsinstallaties en/of slibs afkomstig van het onderhoud van collectoren en pompstations) wordt behandeld en dat aangesloten is op het openbaar hydrografisch net, is van heffing vrijgesteld voor wat betreft de lozing van de effluentwaters van voornoemde openbare rioolwaterzuiveringsinstallaties.<br /><br />Een slibverbrandingsinstallatie waarmee het zuiveringstechnisch werk een milieutechnische eenheid vormt is geen onderdeel van het zuiveringstechnisch werk. ».<br /><br />
@@ -247,3 +781,7 @@ Het besluit van de Vlaamse Regering van 23 november 2007 tot vrijstelling van de
 Bekrachtigd wordt met ingang van de dag van inwerkingtreding het besluit van de Vlaamse Regering van 30 november 2007 tot wijziging van het besluit van de Vlaamse Regering van 4 februari 1997 betreffende de verplichte bijdragen, bestemd voor de promotie en afzetbevordering van de Vlaamse producten van de sectoren landbouw, tuinbouw en visserij.<br /><br />
 
 ## HOOFDSTUK XXV Slotbepalingen
+
+### ART. 86.
+
+Dit decreet treedt in werking op de dag van de bekendmaking ervan in het Belgisch Staatsblad, met uitzondering van :<br />- artikelen 2, 4, 10 en 11, die uitwerking hebben met ingang van 1 september 2008;<br />- artikelen 18 en 19, die in werking treden op 1 januari 2009;<br />- artikel 20, dat uitwerking heeft met ingang van 1 september 2008;<br />- artikelen 21 tot en met 23, die in werking treden vanaf aanslagjaar 2009;<br />- artikel 24, dat uitwerking heeft met ingang van 1 november 2007;<br />- artikel 25, dat in werking treedt op 1 januari 2009;<br />- artikel 36, dat in werking treedt op de datum die de Vlaamse Regering vaststelt;<br />- artikel 37, dat uitwerking heeft met ingang van 1 juli 2006;<br />- artikel 41 dat in werking treedt op 30 september 2008;<br />- artikelen 43 tot en met 45, die uitwerking hebben met ingang van 14 januari 2008;<br />- artikel 48, dat uitwerking heeft met ingang van 1 april 2008;<br />- artikelen 49 tot en met 54, die uitwerking hebben met ingang van 1 januari 2008;<br />- artikelen 56 tot en met 59, die uitwerking hebben met ingang van 1 juli 2008;<br />- artikel 62, dat uitwerking heeft met ingang van 1 januari 2003;<br />- artikel 63, dat uitwerking heeft met ingang van 1 januari 2007;<br />- artikel 76, dat uitwerking heeft met ingang van 1 mei 2008;<br />- artikelen 77 tot en met 80, die uitwerking hebben met ingang van 1 oktober 2008;<br />- artikelen 81 en 83, die uitwerking hebben met ingang van het heffingsjaar 2008.<br /><br />
