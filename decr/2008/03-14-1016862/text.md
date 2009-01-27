@@ -51,8 +51,7 @@ Binnen de perken en volgens de voorwaarden bepaald in dit decreet, draagt de Vla
 2° een variabel onderwijsdeel voor de professioneel gerichte opleidingen aan de hogescholen (VOWprof);<br>
 3° een variabel onderwijsdeel voor de academisch gerichte opleidingen aan de hogescholen (VOWac);<br>
 4° een variabel onderwijsdeel voor de academisch gerichte opleidingen aan de universiteiten (VOWun);<br>
-5° een onderzoekssokkel voor de universiteiten (SOZun);<br>
-6° een variabel onderzoeksdeel voor de universiteiten (VOZun).</p>
+5° een onderzoekssokkel voor de universiteiten (SOZun); 6° een variabel onderzoeksdeel voor de universiteiten (VOZun).</p>
 
 <p>§ 2. Bij de universiteiten is de verhouding (sokkel onderwijs SOWun + variabel onderwijsdeel VOWun) ten opzichte van (sokkel onderzoek SOZun + variabel onderzoeksdeel SOZun) gelijk aan 55 %/45 %. Hierbij is de sokkel onderwijs SOWun gelijk aan de som van de onderwijssokkels van alle universiteiten, berekend overeenkomstig de bepalingen in artikel 13.</p>
 
@@ -96,41 +95,41 @@ Binnen de perken en volgens de voorwaarden bepaald in dit decreet, draagt de Vla
 		</tr>
 		<tr>
 			<td style="border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:92.1pt">
-			<p>2° VOWprof</p>
+			<p>2° VOW prof</p>
 			</td>
 			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:92.1pt">
-			<p>366.110.928,38</p>
+			<p>366.165.166,69</p>
 			</td>
 			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:92.1pt">
-			<p>366.204.514,36</p>
+			<p>366.258.725,67</p>
 			</td>
 			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:92.15pt">
-			<p>366.298.100,35</p>
+			<p>366.352.284,65</p>
 			</td>
 			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:92.15pt">
-			<p>366.391.659,34</p>
+			<p>366.445.843,63</p>
 			</td>
 		</tr>
 		<tr>
 			<td style="border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:92.1pt">
-			<p>3° VOWac</p>
+			<p>3° VOW ac</p>
 			</td>
 			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:92.1pt">
-			<p>156.503.415,36</p>
+			<p>156.526.637,20</p>
 			</td>
 			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:92.1pt">
-			<p>157.403.004,54</p>
+			<p>157.426.226,38</p>
 			</td>
 			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:92.15pt">
-			<p>158.302.593,72</p>
+			<p>158.325.815,56</p>
 			</td>
 			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:92.15pt">
-			<p>158.560.182,90</p>
+			<p>158.583.404,74</p>
 			</td>
 		</tr>
 		<tr>
 			<td style="border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:92.1pt">
-			<p>4° VOWun</p>
+			<p>4° VOW un</p>
 			</td>
 			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:92.1pt">
 			<p>313.553.570,53</p>
@@ -254,8 +253,7 @@ De volgende bedragen worden toegevoegd aan de totale werkingsuitkering van de ho
 1° 80 % van de bedragen volgen de evolutie van de gezondheidsindex;<br>
 2° 20 % van de bedragen volgen 75 % van de evolutie van de gezondheidsindex.<br>
 &nbsp;<br>
-§ 6. De bedragen VOWprof, als vermeld in of berekend conform dit artikel, worden vermeerderd met volgende bedragen, uitgedrukt in euro :<br>
-&nbsp;
+§ 6. De bedragen VOWprof, als vermeld in of berekend conform dit artikel, worden vermeerderd met volgende bedragen, uitgedrukt in euro :&nbsp;
 <table border="1" cellpadding="0" cellspacing="0" style="border-collapse:collapse">
 	<tbody>
 		<tr>
@@ -1035,232 +1033,231 @@ Als in de begrotingsjaren 2008 tot en met 2013 het bedrag van de theoretische we
 Als in de begrotingsjaren 2008 tot en met 2013 de som van de werkingsuitkeringen van de hogescholen en de universiteiten het beschikbare budget voor het betreffende begrotingsjaar, vermeld in artikel 9, overschrijdt, dan ontvangt een instelling i, waarbij het bedrag van de theoretische werkingsuitkering groter is dan het gegarandeerde minimumbedrag, het bedrag van het gegarandeerde minimum, vermeld in § 2, vermeerderd met het procentueel aandeel van deze instelling in het verschil tussen de som van de theoretische werkingsuitkeringen van de hogescholen en de universiteiten, vermeld in het tweede lid, en de som van de gegarandeerde minimumbedragen van deze hogescholen en universiteiten, vermeld in § 2.<br>
 <br>
 § 2. De volgende gegarandeerde minimumbedragen worden vastgelegd voor de hogescholen en de universiteiten :<br>
-<br>
 </p>
 
 <table border="1" cellpadding="0" cellspacing="0" style="border-collapse:collapse">
 	<tbody>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:320.4pt">
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:230.3pt">
 			<p>Instelling<!--?xml:namespace         prefix = o ns = "urn:schemas-microsoft-com:office:office"         /--></p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:140.2pt">
-			<p>Gegarandeerd minimum (uitgedrukt in €)</p>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:230.3pt">
+			<p>Gegarandeerd minimum (uitgedrukt in EUR)</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:320.4pt">
-			<p>1° Arteveldehogeschool</p>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>1° Arteveldhogeschool</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:140.2pt">
-			<p>39.225.189,84</p>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>39.172.027,94</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:320.4pt">
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
 			<p>2° Erasmushogeschool Brussel</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:140.2pt">
-			<p>28.258.959,74</p>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>28.221.507,42</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:320.4pt">
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
 			<p>3° Hogeschool Antwerpen</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:140.2pt">
-			<p>44.828.785,11</p>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>44.770.310,04</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:320.4pt">
-			<p>4° HOGESCHOOL GENT</p>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>4° Hogeschool Gent</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:140.2pt">
-			<p>74.521.874?60</p>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>74.423.088,34</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:320.4pt">
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
 			<p>5° Hogeschool Sint-Lukas Brussel</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:140.2pt">
-			<p>7.351.577,10</p>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>7.340.568,70</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:320.4pt">
-			<p>6° Hogeschool voor Wetenschap en Kunst</p>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>6° Hogeschool voor Wetenschap &amp; Kunst</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:140.2pt">
-			<p>38.459.825,45</p>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>38.412.534,58</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:320.4pt">
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
 			<p>7° Hogeschool West-Vlaanderen</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:140.2pt">
-			<p>19.843.912,97</p>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>19.816.734,54</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:320.4pt">
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
 			<p>8° Karel de Grote-Hogeschool KH Antwerpen</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:140.2pt">
-			<p>40.305.286,18</p>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>40.252.379,35</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:320.4pt">
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
 			<p>9° Katholieke Hogeschool Brugge-Oostende</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:140.2pt">
-			<p>17.821.417,49</p>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>17.798.398,64</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:320.4pt">
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
 			<p>10° Katholieke Hogeschool Kempen</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:140.2pt">
-			<p>31.403.581,40</p>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>31.364.082,66</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:320.4pt">
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
 			<p>11° Katholieke Hogeschool Leuven</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:140.2pt">
-			<p>27.125.374,53</p>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>27.088.744,74</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:320.4pt">
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
 			<p>12° Katholieke Hogeschool Limburg</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:140.2pt">
-			<p>30.012.272,27</p>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>29.971.388,38</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:320.4pt">
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
 			<p>13° Katholieke Hogeschool Mechelen</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:140.2pt">
-			<p>19.988.104,85</p>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>19.961.758,26</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:320.4pt">
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
 			<p>14° Katholieke Hogeschool Sint-Lieven</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:140.2pt">
-			<p>26.950.653,80</p>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>26.915.201,11</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:320.4pt">
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
 			<p>15° Katholieke Hogeschool Zuid-West-Vlaanderen</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:140.2pt">
-			<p>29.202.276,53</p>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>29.164.438,69</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:320.4pt">
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
 			<p>16° Lessius Hogeschool</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:140.2pt">
-			<p>13.025.457,23</p>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>13.008.546,51</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:320.4pt">
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
 			<p>17° Plantijn-Hogeschool</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:140.2pt">
-			<p>13.958.371,32</p>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>13.941.258,15</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:320.4pt">
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
 			<p>18° Provinciale Hogeschool Limburg</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:140.2pt">
-			<p>20.884.878,36</p>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>20.857.698,06</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:320.4pt">
-			<p>19° GROEP T - Internationale Hogeschool Leuven</p>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>19° Groep T - Leuven Hogeschool</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:140.2pt">
-			<p>10.782.254,05</p>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>10.766.708.,92</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:320.4pt">
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
 			<p>20° EHSAL – Europese Hogeschool Brussel</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:140.2pt">
-			<p>21.332.580,86</p>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>21.305.296,34</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:320.4pt">
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
 			<p>21° XIOS Hogeschool Limburg</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:140.2pt">
-			<p>15.213.964,83</p>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>15.193.074,25</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:320.4pt">
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
 			<p>22° KUBrussel</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:140.2pt">
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
 			<p>5.502.000,00</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:320.4pt">
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
 			<p>23° KULeuven</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:140.2pt">
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
 			<p>222.899.082,00</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:320.4pt">
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
 			<p>24° UGent</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:140.2pt">
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
 			<p>196.584.425,00</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:320.4pt">
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
 			<p>25° Universiteit Antwerpen</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:140.2pt">
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
 			<p>85.954.139,00</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:320.4pt">
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
 			<p>26° VUB</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:140.2pt">
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
 			<p>78.279.046,00</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:320.4pt">
-			<p>27° UHasselt/tUL</p>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>27° UHassselt / tUL</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:140.2pt">
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
 			<p>24.528.509,00</p>
 			</td>
 		</tr>
@@ -1271,9 +1268,7 @@ Als in de begrotingsjaren 2008 tot en met 2013 de som van de werkingsuitkeringen
 
 <p>&nbsp;</p>
 
-<p>Het gegarandeerde minimumbedrag, vermeld in het eerste lid, is niet van toepassing op een instelling die niet voldoet aan de voorwaarden voor de minimale instellingsnorm voor de onderwijssokkel, zoals bepaald in artikel 12.<br>
-<br>
-§ 3. De bedragen, vermeld in § 2, worden vanaf het begrotingsjaar 2008 geïndexeerd aan de hand van de indexformule, vermeld in artikel 9, § 5.<br>
+<p>§ 3. De bedragen, vermeld in § 2, worden vanaf het begrotingsjaar 2008 geïndexeerd aan de hand van de indexformule, vermeld in artikel 9, § 5.<br>
 &nbsp;</p>
 
 ### ART. 32.
@@ -1294,9 +1289,9 @@ Het aantal studiepunten voor de berekening van de onderwijssokkel en het aantal 
 
 <p>§ 1. Voor de hogescholen wordt voorzien in de volgende aanvullende uitkeringen :</p>
 
-<p>1° een bedrag van 1.108.000 euro voor de geraamde kosten van de salarissen van de personeelsleden van het meester-, vak- en dienstpersoneel van de hogescholen die op 31 december 1995 rechtstreeks betaald werden door het beleidsdomein Onderwijs en Vorming. Het eventuele saldo op het einde van het begrotingsjaar t wordt in het begrotingsjaar t+1 toegevoegd aan het variabel onderwijsgedeelte voor de professioneel gerichte opleidingen VOWprof aan de hogescholen;</p>
+<p>1° een bedrag van 951.960,02 euro voor de geraamde kosten van de salarissen van de personeelsleden van het meester-, vak- en dienstpersoneel van de hogescholen die op 31 december 1995 rechtstreeks betaald werden door het beleidsdomein Onderwijs en Vorming. Het eventuele saldo op het einde van het begrotingsjaar t wordt in het begrotingsjaar t+1 toegevoegd aan het variabel onderwijsgedeelte voor de professioneel gerichte opleidingen VOWprof aan de hogescholen;</p>
 
-<p>2° een bedrag van 7.850.000 euro voor de geraamde kosten van de salarissen of wachtgelden van de personeelsleden, vermeld in artikel 36. Het eventuele saldo op het einde van het begrotingsjaar t wordt in het begrotingsjaar t+1 toegevoegd aan het variabel onderwijsgedeelte voor de professioneel gerichte opleidingen VOWprof aan de hogescholen;</p>
+<p>2° een bedrag van 7.930.245,71 euro voor de geraamde kosten van de salarissen of wachtgelden van de personeelsleden, vermeld in artikel 36. Het eventuele saldo op het einde van het begrotingsjaar t wordt in het begrotingsjaar t+1 toegevoegd aan het variabel onderwijsgedeelte voor de professioneel gerichte opleidingen VOWprof aan de hogescholen;</p>
 
 <p>3° de bedragen VOWprof en VOWac worden verhoudingsgewijs verminderd met de bedragen die nodig zijn om de kosten te dekken van de kinderbijslagen van de personeelsleden van de hogescholen, en met de bedragen die nodig zijn om de salariskosten te dekken van hun benoemde personeelsleden die tijdens het voorgaande begrotingsjaar met bevallingsverlof waren en van hun benoemde en tijdelijke personeelsleden die tijdens het voorgaande begrotingsjaar met opvangverlof voor adoptie of pleegvoogdij waren, voor wat de duur van dat bevallings- of opvangverlof betreft.</p>
 
@@ -1377,7 +1372,7 @@ Het aantal studiepunten voor de berekening van de onderwijssokkel en het aantal 
 	</tbody>
 </table>
 
-<p>&nbsp; 2° het eventuele resterende bedrag wordt verdeeld op basis van het aandeel van de instellingen in financieringspunten, gegenereerd door opgenomen en verworven studiepunten in de academisch gerichte opleidingen in deze studiegebieden. Bij de berekening van het aantal financieringspunten kunnen de maxima voor opgenomen en verworven studiepunten, zoals vastgelegd in artikel 23, § 4, niet overschreden worden. De bedragen vermeld in deze paragraaf worden vanaf het begrotingsjaar 2008 geïndexeerd aan de hand van de indexformule, vermeld in artikel 9, § 5.</p>
+<p>&nbsp;2° het eventuele resterende bedrag wordt verdeeld op basis van het aandeel van de instellingen in financieringspunten, gegenereerd door opgenomen en verworven studiepunten in de academisch gerichte opleidingen in deze studiegebieden. Bij de berekening van het aantal financieringspunten kunnen de maxima voor opgenomen en verworven studiepunten, zoals vastgelegd in artikel 23, § 4, niet overschreden worden. De bedragen vermeld in deze paragraaf worden vanaf het begrotingsjaar 2008 geïndexeerd aan de hand van de indexformule, vermeld in artikel 9, § 5.</p>
 
 <p>§ 6. Volgende bedragen, uitgedrukt in euro, worden als aanvullende uitkering toegevoegd aan de werkingsuitkering van EHSAL, Europese Hogeschool Brussel :</p>
 
@@ -1441,9 +1436,8 @@ Het aantal studiepunten voor de berekening van de onderwijssokkel en het aantal 
 		</tr>
 	</tbody>
 </table>
-
-<p>&nbsp;</p>
 <br>
+&nbsp;<br>
 Vanaf het begrotingsjaar 2009 worden de bedragen vermeld in het eerste lid, geïndexeerd aan de hand van de indexformule, vermeld in artikel 9, § 5.
 
 ### ART. 36.
