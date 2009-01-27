@@ -10,7 +10,7 @@ Dit decreet regelt een gewestaangelegenheid.
 
 ### ART. 2.
 
-[§ 1.  <span class="reference">(ing. decr. 23 december 2005, art. 7)</span> ] De Vlaamse regering kan met betrekking tot de in dit decreet vermelde categorieën van steun en met inachtneming van de in dit decreet bepaalde regels, steun verlenen aan projecten die passen in het ruimtelijk economisch beleid en het ondernemingsbeleid met aandacht voor ecologie, sociale en economische aspecten, kwantitatieve en kwalitatieve aspecten van werkgelegenheid, duurzaamheid, innovatie en kennisbevordering, binnen de voorziene begrotingskredieten.<br /><br />[§ 2. De Vlaamse Regering kan steun verlenen aan projecten ter stimulering van het ondernemerschap.  <span class="reference">(ing. decr. 23 december 2005, art. 7, I : 1 januari 2006)</span> ]
+§ 1. De Vlaamse regering kan met betrekking tot de in dit decreet vermelde categorieën van steun en met inachtneming van de in dit decreet bepaalde regels, steun verlenen aan projecten die passen in het ruimtelijk economisch beleid en het ondernemingsbeleid met aandacht voor ecologie, sociale en economische aspecten, kwantitatieve en kwalitatieve aspecten van werkgelegenheid, duurzaamheid, innovatie en kennisbevordering, binnen de voorziene begrotingskredieten.<br /><br />§ 2. ...
 
 ## AFDELING 2 DEFINITIES
 
@@ -445,7 +445,15 @@ De Vlaamse regering kan steun verlenen aan ondernemingen en publiekrechtelijke r
 
 ## [AFDELING I TOEPASSINGSGEBIED (ing. decr. 21 november 2008, art. 61, I: 27 januari 2009)]
 
+### ART. 31bis.
+
+§ 1. De Vlaamse Regering kan steun verlenen aan projecten ter bevordering van het ondernemerschap en het optreden coördineren van begunstigden die middelen ten laste van de Vlaamse begroting ontvangen voor ondernemerschapsbevordering onder de voorwaarden vermeld in de uitvoeringsbesluiten.<br /><br />De projecten kunnen betrekking hebben op :<br />1° het sensibiliseren over ondernemers, bedrijven en ondernemerschap;<br />2° het aanleren van attitudes, competenties en vaardigheden ter stimulering van de ondernemingszin en de performantie van ondernemingen.<br /><br />De Vlaamse Regering kan die lijst verduidelijken en aanvullen overeenkomstig de beleidsprioriteiten en de noodwendigheden.<br /><br />§ 2. De steun kan worden verleend aan :<br />1° ondernemingen zoals gedefinieerd in artikel 3, 1°, met toepassing van artikel 5 en de hoofdstukken XI, XIII en XIV;<br />2° entiteiten die niet voldoen aan 1°, met toepassing van artikel 5 en de hoofdstukken XIII en XIV.<br /><br />§ 3. De Vlaamse Regering kan de begunstigden, vermeld in § 2, verder concretiseren in functie van de noodwendigheden en de beleidsprioriteiten.
+
 ## [AFDELING II STEUNINTENSITEIT (ing. decr. 21 november 2008, art. 61, I: 27 januari 2009)]
+
+### ART. 31ter.
+
+§ 1. De steunintensiteit wordt berekend als een percentage van de in aanmerking komende kosten.<br /><br />§ 2. De Vlaamse Regering bepaalt de in aanmerking komende kosten en de steunintensiteit.<br /><br />§ 3. De Vlaamse Regering bepaalt in welke mate er cumulatie van steun is toegelaten, ongeacht de bron en in welke vorm ook verleend, met betrekking tot dezelfde kosten.
 
 ## HOOFDSTUK VIII VERWERVING VAN GRONDEN EN GEBOUWEN
 
