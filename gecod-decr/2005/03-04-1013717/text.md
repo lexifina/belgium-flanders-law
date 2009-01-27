@@ -920,7 +920,7 @@ Als de administratieve geldboete niet wordt betaald, vaardigt de entiteit die do
 
 ### ART. 176quinquies.
 
-§ 1. De Vlaamse Regulator voor de Media kan beschikken over de volgende ontvangsten:<br /><br />1° dotaties;<br /><br />2° de inschrijvingsgelden van kandidaten voor een erkenning en de vergoedingen voor het behoud van de erkenning, bedoeld in artikel 39;<br /><br />3° de administratieve geldboeten, bedoeld in artikelen 176 en 176bis;<br /><br />4° fiscale heffingen voorzover die bij decreet aan de Vlaamse Regulator voor de Media zijn toegewezen;<br /><br />5° retributies voorzover die bij decreet aan de Vlaamse Regulator voor de Media zijn toegewezen.<br /><br />§ 2. Tenzij het decretaal anders is bepaald, worden de ontvangsten, vermeld in § 1, beschouwd als ontvangsten, die bestemd zijn voor de gezamenlijke uitgaven.  <span class="reference">(ing. B.V.R. 16 december 2005, art. 2, I: 10 februari 2006, zie B.V.R. 10 februari 2006, B.S., 7 maart 2006)</span> ]
+§ 1. De Vlaamse Regulator voor de Media kan beschikken over de volgende ontvangsten:<br />1° dotaties;<br />2° de inschrijvingsgelden van kandidaten voor een erkenning en de vergoedingen voor het behoud van de erkenning, bedoeld in artikel 39;<br />3° ...<br />4° fiscale heffingen voorzover die bij decreet aan de Vlaamse Regulator voor de Media zijn toegewezen;<br />5° retributies voorzover die bij decreet aan de Vlaamse Regulator voor de Media zijn toegewezen.<br /><br />§ 2. Tenzij het decretaal anders is bepaald, worden de ontvangsten, vermeld in § 1, beschouwd als ontvangsten, die bestemd zijn voor de gezamenlijke uitgaven.
 
 ## [Afdeling II Personeel (ing. B.V.R. 16 december 2005, art. 2)]
 
