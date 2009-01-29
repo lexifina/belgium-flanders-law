@@ -1,0 +1,17 @@
+{
+  "codex_id": 1017484,
+  "title": "Besluit van de Vlaamse Regering van 2008-11-28 tot toekenning van een projectsubsidie aan de VZW UNIZO voor de verdere sensibilisering, motivering en advisering van de K.M.O.'s op het vlak van energiebesparing",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1017484/VolledigDocument?datum=2009-01-29",
+  "source_sha256": "fff0d9edead149fb593e934c8abf3ef5bb47d6d2a91233509532167a68ca252a",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1017484&param=informatie",
+  "as_of": "2009-01-29",
+  "made": "2008-11-28",
+  "gazette": "2009-01-19",
+  "numac": 2009200022,
+  "document_start": "2009-01-29",
+  "document_end": null,
+  "in_force": "2009-01-29",
+  "article_versions": 14,
+  "record_form": "consolidated version as in force on 2009-01-29; oldest version available; future article versions excluded; article text as the API gives it"
+}
