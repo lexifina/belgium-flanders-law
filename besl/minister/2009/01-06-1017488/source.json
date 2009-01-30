@@ -1,0 +1,17 @@
+{
+  "codex_id": 1017488,
+  "title": "Ministerieel besluit van 2009-01-06 tot wijziging van het ministerieel besluit van 30 maart 2006 houdende de delegatie van specifieke bevoegdheden inzake het landbouwbeleid en de zeevisserij aan de leidend ambtenaar van het departement Landbouw en Visserij",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1017488/VolledigDocument?datum=2009-01-30",
+  "source_sha256": "a501112e4536bf3bc1eaa7944155d40ed2e710d37c38fe521b476deb459472b5",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1017488&param=informatie",
+  "as_of": "2009-01-30",
+  "made": "2009-01-06",
+  "gazette": "2009-01-20",
+  "numac": 2009200052,
+  "document_start": "2009-01-30",
+  "document_end": null,
+  "in_force": "2009-01-30",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2009-01-30; oldest version available; future article versions excluded; article text as the API gives it"
+}
