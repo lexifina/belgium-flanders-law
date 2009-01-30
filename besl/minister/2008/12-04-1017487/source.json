@@ -1,0 +1,17 @@
+{
+  "codex_id": 1017487,
+  "title": "Ministerieel besluit van 2008-12-04 houdende vaststelling van de bedragen voor de presentiegelden en vergoedingen voor de Strategische Adviesraad en de Raadgevende Comités van het beleidsdomein Welzijn, Volksgezondheid en Gezin",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1017487/VolledigDocument?datum=2009-01-30",
+  "source_sha256": "1965fb8fd4c9e3be0131eaf676559dc6603b1ce264569ec616941d1dcd291912",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1017487&param=informatie",
+  "as_of": "2009-01-30",
+  "made": "2008-12-04",
+  "gazette": "2009-01-20",
+  "numac": 2009200038,
+  "document_start": "2009-01-30",
+  "document_end": null,
+  "in_force": "2009-01-30",
+  "article_versions": 8,
+  "record_form": "consolidated version as in force on 2009-01-30; oldest version available; future article versions excluded; article text as the API gives it"
+}
