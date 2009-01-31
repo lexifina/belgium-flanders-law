@@ -1,0 +1,17 @@
+{
+  "codex_id": 1017496,
+  "title": "Omzendbrief van 2008-12-12 nr. 48 over aanpassingen van de VLIF-steunmaatregelen voor de land- en tuinbouwproducenten",
+  "type": "Omzendbrief",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1017496/VolledigDocument?datum=2009-01-31",
+  "source_sha256": "6dd75fbd279921cb4bf8b8d081b789abf5c656194014afcaa5a59ce6e912d357",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1017496&param=informatie",
+  "as_of": "2009-01-31",
+  "made": "2008-12-12",
+  "gazette": "2009-01-21",
+  "numac": 2009035002,
+  "document_start": "2009-01-31",
+  "document_end": null,
+  "in_force": "2009-01-31",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2009-01-31; oldest version available; future article versions excluded; article text as the API gives it"
+}
