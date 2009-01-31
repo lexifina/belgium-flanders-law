@@ -1,0 +1,17 @@
+{
+  "codex_id": 1017491,
+  "title": "Ministerieel besluit van 2008-12-15 tot toekenning van een subsidie van de Vlaamse Gemeenschap voor het jaar 2008 aan OCMW Heusden-Zolder voor het project « Samen sterk (gezin en verzorgende samen aan meer zelfredzaamheid) »",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1017491/VolledigDocument?datum=2009-01-31",
+  "source_sha256": "7a2c1f2375d8517e8f7377d3cbbe6937f7f806055e7e810e1f6660b92c51593a",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1017491&param=informatie",
+  "as_of": "2009-01-31",
+  "made": "2008-12-15",
+  "gazette": "2009-01-21",
+  "numac": 2009200054,
+  "document_start": "2009-01-31",
+  "document_end": null,
+  "in_force": "2009-01-31",
+  "article_versions": 10,
+  "record_form": "consolidated version as in force on 2009-01-31; oldest version available; future article versions excluded; article text as the API gives it"
+}
