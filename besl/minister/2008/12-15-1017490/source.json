@@ -1,0 +1,17 @@
+{
+  "codex_id": 1017490,
+  "title": "Ministerieel besluit van 2008-12-15 tot toekenning van een subsidie van de Vlaamse Gemeenschap voor het jaar 2008 aan CM Limburg voor het project \"Thuiszorg zoekt deur voor kansarmen\"",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1017490/VolledigDocument?datum=2009-01-31",
+  "source_sha256": "0b3a4d3efc2b1bbff46327806ea391cca88862c94678e746a3f508c7c48fd5ae",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1017490&param=informatie",
+  "as_of": "2009-01-31",
+  "made": "2008-12-15",
+  "gazette": "2009-01-21",
+  "numac": 2009200053,
+  "document_start": "2009-01-31",
+  "document_end": null,
+  "in_force": "2009-01-31",
+  "article_versions": 10,
+  "record_form": "consolidated version as in force on 2009-01-31; oldest version available; future article versions excluded; article text as the API gives it"
+}
