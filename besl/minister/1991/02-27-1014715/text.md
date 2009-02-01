@@ -32,15 +32,15 @@
 
 ### ART. 6.
 
-Wordt erkend de streekvereniging " Vlaamse Rundveeteelt Vereniging " met haar zetel gevestigd te Oosterzele.<br /><br />
+...
 
 ### ART. 7.
 
-Worden erkend het rundveeselektiecentrum van Ciney en het rundveeselektiecentrum van Scheldewindeke.<br />Het beheer van deze centra wordt toevertrouwd aan de volgende verenigingen van veefokkers :<br />Association des Eleveurs de Bétail pour la Gestion du Centre de Sélection bovine de Ciney, te Ciney;<br />V.Z.W. Vlaamse Rundveeteeltvereniging, te Oosterzele.<br />
+...
 
 ### ART. 8.
 
-De in artikelen 3, 4, 5, 6 en 7 vermelde verenigingen mogen de benaming " erkend " gebruiken.
+...
 
 ## Afdeling 3 De keuringen en prijskampen
 

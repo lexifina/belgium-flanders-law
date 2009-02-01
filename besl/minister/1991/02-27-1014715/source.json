@@ -2,16 +2,16 @@
   "codex_id": 1014715,
   "title": "Ministerieel besluit van 1991-02-27 betreffende de verbetering van het rundveeras",
   "type": "Ministerieel besluit",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1014715/VolledigDocument?datum=2008-02-03",
-  "source_sha256": "578075a79c1f340e4243642673a40a4941c991bf721ca584252df294489a3209",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1014715/VolledigDocument?datum=2009-02-01",
+  "source_sha256": "096a396f7f941ae366fab4828c771ca788cb95223860b4126f137d2118f850f9",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1014715&param=informatie",
-  "as_of": "2008-02-03",
+  "as_of": "2009-02-01",
   "made": "1991-02-27",
   "gazette": "1991-04-30",
   "numac": 0,
   "document_start": null,
   "document_end": "2008-02-02",
-  "in_force": "2008-02-03",
+  "in_force": "2009-02-01",
   "article_versions": 50,
-  "record_form": "consolidated version as in force on 2008-02-03; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2009-02-01; future article versions excluded; article text as the API gives it"
 }
