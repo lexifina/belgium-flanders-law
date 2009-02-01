@@ -2,16 +2,16 @@
   "codex_id": 1002066,
   "title": "Besluit van de Vlaamse Regering van 1995-01-18 betreffende de organisatie van het jachtexamen",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1002066/VolledigDocument?datum=2008-08-29",
-  "source_sha256": "c7dcf5e601a7511652221bb14261aaf1219f8bd8dc40199743a1cce40aec3a8d",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1002066/VolledigDocument?datum=2009-02-01",
+  "source_sha256": "4502eb1372e34cc703e860545a14a3089602574769d9496132ea5f2b8cc8e115",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1002066&param=informatie",
-  "as_of": "2008-08-29",
+  "as_of": "2009-02-01",
   "made": "1995-01-18",
   "gazette": "1995-03-18",
   "numac": 1995035275,
   "document_start": "1995-01-01",
   "document_end": "2014-06-30",
-  "in_force": "2008-08-29",
+  "in_force": "2009-02-01",
   "article_versions": 25,
-  "record_form": "consolidated version as in force on 2008-08-29; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2009-02-01; future article versions excluded; article text as the API gives it"
 }
