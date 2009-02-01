@@ -6,11 +6,19 @@ De Vlaamse Regering,<br /><br />Gelet op het decreet van 15 juni 2007 betreffend
 
 ### ART. 1.
 
-Ter uitvoering van artikel 24, § 1, van het decreet van 15 juni 2007 betreffende het volwassenenonderwijs worden de opleidingsprofielen voor de modulaire structuur van het studiegebied personenzorg, dat behoort tot het secundair volwassenenonderwijs, vastgelegd in bijlage I en II, die bij dit besluit zijn gevoegd.
+Ter uitvoering van artikel 24, § 1, van het decreet van 15 juni 2007 betreffende het volwassenenonderwijs worden de opleidingsprofielen voor de modulaire structuur van het studiegebied personenzorg, dat behoort tot het secundair volwassenenonderwijs, vastgelegd in bijlage I tot en met IV, die bij dit besluit zijn gevoegd.
 
 ### ART. 2.
 
-De opleidingsprofielen, vermeld in artikel 1, worden uiterlijk drie jaar na de inwerkingtreding van dit besluit geëvalueerd. De resultaten van die evaluatie worden besproken met de stuurgroep, vermeld in artikel 2, 42°, van het decreet van 15 juni 2007 betreffende het volwassenenonderwijs.<br /><br />In afwijking van het eerste lid wordt het opleidingsprofiel voor de modulaire opleiding Begeleider in de kinderopvang uiterlijk tijdens het schooljaar 2008-2009 geëvalueerd.
+De opleidingsprofielen, vermeld in artikel 1, worden uiterlijk drie jaar na de inwerkingtreding van dit besluit geëvalueerd. De resultaten van die evaluatie worden besproken met de stuurgroep, vermeld in artikel 2, 42°, van het decreet van 15 juni 2007 betreffende het volwassenenonderwijs.<br /><br />In afwijking van het eerste lid wordt het opleidingsprofiel voor de modulaire opleiding Begeleider in de kinderopvang uiterlijk tijdens het schooljaar 2008-2009 geëvalueerd. De opleidingsprofielen voor de modulaire opleidingen jeugd- en gehandicaptenzorg en tandartsassistent worden uiterlijk tijdens het schooljaar 2011-2012 geëvalueerd.
+
+### ART. 2/1.
+
+Het bestuur van een Centrum voor Volwassenenonderwijs dat onderwijsbevoegdheid heeft voor de modulaire opleiding jeugd- en gehandicaptenzorg TSO 3, vermeld in bijlage III bij het decreet van 15 juni 2007 betreffende het volwassenenonderwijs, heeft vanaf 1 februari 2009 ook onderwijsbevoegdheid voor de modulaire opleiding jeugd- en gehandicaptenzorg.
+
+### ART. 2/2.
+
+De modulaire opleiding jeugd- en gehandicaptenzorg TSO 3 kan, bij wijze van overgangsmaatregel, nog gedurende de schooljaren 2009-2010 en 2010-2011 georganiseerd worden.
 
 ### ART. 3.
 
@@ -31,3 +39,11 @@ De Vlaamse minister, bevoegd voor het Onderwijs, is belast met de uitvoering van
 ### BIJLAGE II
 
 <a href="http://www.ejustice.just.fgov.be/mopdf/2008/09/22_1.pdf#page=101" title=" Bijlage 2." target="_blank" class="pdf">Bijlage 2.</a>
+
+### BIJLAGE III
+
+<a href="http://www.ejustice.just.fgov.be/mopdf/2009/10/21_1.pdf#page=58" title=" Bijlage III" target="_blank" class="pdf">Bijlage III</a>
+
+### BIJLAGE IV
+
+<a href="http://www.ejustice.just.fgov.be/mopdf/2009/10/21_1.pdf#page=92" title=" Bijlage IV" target="_blank" class="pdf">Bijlage IV</a>
