@@ -14,6 +14,10 @@ In artikel 2, eerste lid, van hetzelfde besluit, gewijzigd bij het besluit van d
 
 In artikel 12 van hetzelfde besluit, gewijzigd bij het besluit van de Vlaamse Regering van 9 november 2007, wordt een tweede lid toegevoegd, dat luidt als volgt :<br /><br />« De salarisschalen, vermeld in het eerste lid, gelden vanaf 1 september 2000, met de beperking evenwel dat daaruit voor de periode van 1 oktober 2000 tot en met 31 augustus 2007 geen gevolgen kunnen voortvloeien voor de personeelsleden en de inrichtende machten met betrekking tot bezoldiging en terbeschikkingstelling wegens ontstentenis van betrekking, reaffectatie en wedertewerkstelling. »
 
+### ART. 9.
+
+In artikel 18 van hetzelfde besluit, gewijzigd bij het besluit van de Vlaamse Regering van 9 november 2007, wordt § 1 vervangen door wat volgt :<br /><br />« § 1. In afwijking van artikel 10 wordt aan de ten laatste op 31 januari 2009 vastbenoemde directeurs van een centrum met tot en met het schooljaar 2006-2007 alleen een tweede graad van het secundair onderwijs en/of alleen richtgraad 1 van het studiegebied talen en/of van het studiegebied Nederlands tweede taal, die houder zijn van een bekwaamheidsbewijs van ten minste hoger onderwijs van het korte type aangevuld met een getuigschrift van pedagogische bekwaamheid, salarisschaal 464 toegekend. »
+
 ## HOOFDSTUK II. Wijziging in het besluit van de Vlaamse Regering van 24 april 2009 betreffende de omzetting van de Europese richtlijn 2005/36 voor wervingsambten in het onderwijs en voor sommige functies in de basiseducatie
 
 ## HOOFDSTUK III. Slotbepalingen

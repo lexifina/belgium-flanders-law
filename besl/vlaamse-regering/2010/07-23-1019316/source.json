@@ -2,16 +2,16 @@
   "codex_id": 1019316,
   "title": "Besluit van de Vlaamse Regering van 2010-07-23 tot wijziging van het besluit van de Vlaamse Regering van 9 februari 2001 betreffende de bekwaamheidsbewijzen en de prestatie- en bezoldigingsregeling voor de personeelsleden van de centra voor volwassenenonderwijs en tot wijziging van het besluit van de Vlaamse Regering van 24 april 2009 betreffende de omzetting van de Europese Richtlijn 2005/36 voor wervingsambten in het onderwijs en voor sommige functies in de basiseducatie",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1019316/VolledigDocument?datum=2007-09-01",
-  "source_sha256": "c7b269e8d6a9ebf6d7398613ac4483b3ee962b43f850f997ca66e98157c657e4",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1019316/VolledigDocument?datum=2009-02-01",
+  "source_sha256": "4cba6935a068f8ad464e9b0f747eec9715adaf11912a981ee9489522126ba664",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1019316&param=informatie",
-  "as_of": "2007-09-01",
+  "as_of": "2009-02-01",
   "made": "2010-07-23",
   "gazette": "2010-08-25",
   "numac": 2010035615,
   "document_start": null,
   "document_end": null,
-  "in_force": "2007-09-01",
-  "article_versions": 3,
-  "record_form": "consolidated version as in force on 2007-09-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "in_force": "2009-02-01",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2009-02-01; future article versions excluded; article text as the API gives it"
 }
