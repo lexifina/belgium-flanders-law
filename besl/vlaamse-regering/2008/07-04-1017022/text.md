@@ -36,13 +36,29 @@ In artikel 2 van het besluit van de Vlaamse Regering van 28 oktober 1987 betreff
 
 In artikel 3 van hetzelfde besluit worden de volgende wijzigingen aangebracht :<br />1° in § 1, punt b) wordt het getal « 3,5 » vervangen door het getal « 4 »;<br />2° in § 1, punt c) worden de woorden « van een nominaal kaliber uitgedrukt of omgerekend in millimeter van ten minste 5,6 mm » geschrapt;<br />3° in § 2 wordt tussen de woorden « worden uitgesloten » en de woorden »fosfor- of lichtspoorkogels » het woord « randvuurkogelpatronen » ingevoegd.<br /><br />
 
+### ART. 9.
+
+Aan artikel 3, eerste lid, van het besluit van de Vlaamse Regering van 18 januari 1995 betreffende de organisatie van het jachtexamen worden een punt c), een punt d) en een punt e) toegevoegd, die luiden als volgt :<br />« c) 100 euro voor de kandidaten die, krachtens artikel 9, § 3, zijn vrijgesteld van het onderdeel veilige omgang met vuurwapens van het praktische gedeelte;<br />d) 40 euro voor de kandidaten die, krachtens artikel 9, § 3, zijn vrijgesteld van de onderdelen veilige omgang met vuurwapens en schietvaardigheid met het hagelgeweer van het praktische gedeelte;<br />e) 40 euro voor de kandidaten die, krachtens artikel 9, § 3, zijn vrijgesteld van de onderdelen veilige omgang met vuurwapens en schietvaardigheid met de buks van het praktische gedeelte. »<br /><br />
+
 ### ART. 10.
 
 Artikel 5 van hetzelfde besluit wordt vervangen door wat volgt :<br />« Art. 5. De kandidaat moet in staat zijn kennis te nemen van de gestelde vragen met eigen middelen zonder de hulp van de persoon die hem eventueel vergezelt.<br /><br />De volgende personen kunnen het examen mondeling afleggen :<br />1° analfabeten. Als bewijs van analfabetisme moet de betrokkene een attest van het gemeentebestuur van zijn woonplaats overleggen aan het bestuur;<br />2° personen met een handicap. Als bewijs van de handicap moet de betrokkene een medisch attest voorleggen waaruit zijn handicap blijkt.<br /><br />Het attest moet samen met het formulier, vermeld in artikel 7, ingediend worden.<br /><br />De fysieke toestand van de kandidaten moet toelaten om op een zelfstandige basis alle onderdelen van het examen af te leggen. »<br /><br />
 
+### ART. 11.
+
+In artikel 9, § 2, van hetzelfde besluit, gewijzigd bij het besluit van de Vlaamse Regering van 30 januari 2004, worden de volgende wijzigingen aangebracht :<br />1° het eerste lid wordt vervangen door wat volgt :<br />« Om te slagen voor het praktische gedeelte moet de kandidaat minstens 60 percent behalen in het onderdeel veilige omgang met vuurwapens en minstens 50 percent in de overige onderdelen. »;<br />2° het tweede lid wordt vervangen door wat volgt :<br />« Een kandidaat wordt pas toegelaten tot de schietvaardigheidsproeven als hij vooraf geslaagd is voor het onderdeel veilige omgang met vuurwapens of als hij voor datzelfde onderdeel een geldig deelbewijs kan voorleggen. »<br /><br />
+
+### ART. 12.
+
+In artikel 9 van hetzelfde besluit, gewijzigd bij de besluiten van de Vlaamse Regering van 26 november 1999 en 30 januari 2004, wordt § 3 vervangen door wat volgt : <br />« § 3. Als een kandidaat niet geslaagd is voor het praktische gedeelte, maar wel geslaagd is voor één of twee onderdelen ervan, wordt hij bij zijn deelname aan een volgend examen vrijgesteld van die onderdelen. De kandidaat betaalt dan het inschrijvingsgeld, vermeld in artikel 3, eerste lid, c), d) of e). Die vrijstelling is maximaal drie jaar geldig. »<br /><br />
+
 ### ART. 13.
 
 In bijlage I van hetzelfde besluit worden de volgende wijzigingen aangebracht :<br />1° punt 14° wordt vervangen door wat volgt :<br />« 14° vervoer van en handel in wild en wildhygiëne; »; <br />2° er wordt een punt 18° toegevoegd, dat luidt als volgt :<br />« 18° de wapenwetgeving in relatie tot de jacht. »<br /><br />
+
+### ART. 14.
+
+In bijlage II van hetzelfde besluit wordt in punt 1 het getal « 50 » vervangen door het getal « 60 ».<br /><br />
 
 ### ART. 15.
 
