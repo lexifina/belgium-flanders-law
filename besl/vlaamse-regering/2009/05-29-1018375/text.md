@@ -4,6 +4,10 @@
 
 Artikel III 24 van hetzelfde besluit, gewijzigd bij het besluit van de Vlaamse Regering van 16 maart 2007, wordt vervangen door wat volgt :<br />« Art. III 24. De lijnmanager van het Departement Bestuurszaken kan de duur van de reserves verlengen als de geldigheidsduur nog niet verstreken is op 1 januari 2009. »<br /><br />
 
+### ART. 25.
+
+Aan deel III, hoofdstuk 5, van hetzelfde besluit, wordt een artikel III 28 toegevoegd, dat luidt als volgt :<br />« Art. III 28. Zolang de lijst van knelpuntfuncties, zoals bedoeld in artikel III 3, niet in werking is getreden, kan de Vlaamse minister bevoegd voor de bestuurszaken, in afwijking van artikel III 3, op vraag van een lijnmanager en na advies van de selector bepalen dat een concrete functie een knelpuntfunctie is. »<br /><br />
+
 ### ART. 42.
 
 In artikel V 30 van hetzelfde besluit wordt het eerste lid vervangen door wat volgt :<br />Het hoofd van het secretariaatspersoneel van een strategische adviesraad wordt jaarlijks geëvalueerd over de prestaties en de wijze van functie-uitoefening door de strategische adviesraad, hierin bijgestaan door Jobpunt Vlaanderen. Jobpunt Vlaanderen laat zich bijstaan door een externe instantie. De Vlaamse minister bevoegd voor de bestuurszaken legt de aanstelling van de externe instantie ter bekrachtiging voor aan de Vlaamse Regering.<br /><br />Ook het hoofd van het secretariaatspersoneel van een strategische adviesraad die in de loop van het evaluatiejaar of tijdens de evaluatieperiode die volgt op het evaluatiejaar, vrijwillig uit dienst treedt of op rust gesteld wordt, wordt met zijn akkoord nog geëvalueerd over de prestaties en de wijze waarop hij zijn functie heeft uitgeoefend zowel van het afgelopen evaluatiejaar als, in voorkomend geval, van het lopende evaluatiejaar, overeenkomstig de bepalingen van het eerste lid.<br /><br />
