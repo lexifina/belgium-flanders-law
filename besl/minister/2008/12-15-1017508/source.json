@@ -1,0 +1,17 @@
+{
+  "codex_id": 1017508,
+  "title": "Ministerieel besluit van 2008-12-15 tot toekenning van een subsidie van de Vlaamse Gemeenschap voor het jaar 2008 aan VZW Familiehulp voor het project \"Sectoroverschrijdend samenwerken om gezinszorg voor kansarmen te introduceren en te optimaliseren\"",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1017508/VolledigDocument?datum=2009-02-02",
+  "source_sha256": "e318114817827b1f7a2e612e34887b08f27840e7b914cb8341e0e75e13bc50b7",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1017508&param=informatie",
+  "as_of": "2009-02-02",
+  "made": "2008-12-15",
+  "gazette": "2009-01-23",
+  "numac": 2009200124,
+  "document_start": "2009-02-02",
+  "document_end": null,
+  "in_force": "2009-02-02",
+  "article_versions": 10,
+  "record_form": "consolidated version as in force on 2009-02-02; oldest version available; future article versions excluded; article text as the API gives it"
+}
