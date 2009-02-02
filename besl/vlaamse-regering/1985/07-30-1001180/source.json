@@ -2,16 +2,16 @@
   "codex_id": 1001180,
   "title": "Besluit van de Vlaamse Regering van 1985-07-30 betreffende de verplichtingen en de opdrachten inzake medisch schooltoezicht, en houdende de erkenningsvoorwaarden en subsidiëring van equipes en centra voor medisch schooltoezicht",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1001180/VolledigDocument?datum=2006-06-01",
-  "source_sha256": "b34dcce89c0c3d8db280cc2eb9a360033e29db790afe09598a41c5dd42cf656e",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1001180/VolledigDocument?datum=2009-02-02",
+  "source_sha256": "d41c13fcedfbf981d2ae006b593edb6fc8bf04381bcadeafe7bde149c3401a93",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1001180&param=informatie",
-  "as_of": "2006-06-01",
+  "as_of": "2009-02-02",
   "made": "1985-07-30",
   "gazette": "1985-11-15",
   "numac": 1985024772,
   "document_start": "1985-09-01",
   "document_end": "2009-02-01",
-  "in_force": "2006-06-01",
+  "in_force": "2009-02-02",
   "article_versions": 3,
-  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2009-02-02; future article versions excluded; article text as the API gives it"
 }
