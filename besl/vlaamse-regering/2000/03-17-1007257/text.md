@@ -42,7 +42,7 @@ Het algemene consult, bedoeld in artikel 4, eerste lid, 4°, omvat minstens:<br 
 
 ### ART. 9.
 
-§ 1. De Vlaamse minister, bevoegd voor het Onderwijs, en de Vlaamse minister, bevoegd voor het Gezondheidsbeleid, leggen de normen voor infrastructuur en uitrusting van een centrum vast.<br /><br />§ 2. Zolang de normen, bedoeld in § 1, niet zijn vastgelegd, gelden de bepalingen die opgenomen zijn als bijlage 2 bij het besluit van de Vlaamse regering van 30 juli 1985 betreffende de verplichtingen en de opdrachten inzake medisch schooltoezicht, en houdende de erkenningsvoorwaarden en subsidiëring van equipes en centra voor medisch schooltoezicht.
+...
 
 ## AFDELING 2 GERICHTE CONSULTEN
 

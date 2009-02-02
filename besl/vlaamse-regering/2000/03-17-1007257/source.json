@@ -2,16 +2,16 @@
   "codex_id": 1007257,
   "title": "Besluit van de Vlaamse Regering van 2000-03-17 tot bepaling van sommige opdrachten van de centra voor leerlingenbegeleiding",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1007257/VolledigDocument?datum=2006-06-01",
-  "source_sha256": "bde1f87f72434b4b7abd29eca5c4f9bb4543dfc0c4f2e3522adf1c6e76d20bde",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1007257/VolledigDocument?datum=2009-02-02",
+  "source_sha256": "977ba4efb1e5589dfc7705eec8433313ebeb78532bfbb85510df2b09e0c5841c",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1007257&param=informatie",
-  "as_of": "2006-06-01",
+  "as_of": "2009-02-02",
   "made": "2000-03-17",
   "gazette": "2000-05-17",
   "numac": 2000035457,
   "document_start": "2000-09-01",
   "document_end": "2009-08-31",
-  "in_force": "2006-06-01",
+  "in_force": "2009-02-02",
   "article_versions": 28,
-  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2009-02-02; future article versions excluded; article text as the API gives it"
 }
