@@ -2,16 +2,16 @@
   "codex_id": 1014857,
   "title": "Besluit van de Vlaamse Regering van 2006-06-09 houdende regeling van het beheer en de werking van het Vlaams Zorgfonds",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1014857/VolledigDocument?datum=2006-04-01",
-  "source_sha256": "87160d72ffadc1c10c9ae941a860fb5b04e570a3d4bb5b9d1e301982f035c1d8",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1014857/VolledigDocument?datum=2009-02-06",
+  "source_sha256": "cee3bc30c554e0e01c95a43093c058a0d254253e588d42230133c4c764861d6e",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1014857&param=informatie",
-  "as_of": "2006-04-01",
+  "as_of": "2009-02-06",
   "made": "2006-06-09",
   "gazette": "2006-08-17",
   "numac": 2006036229,
   "document_start": "2006-04-01",
   "document_end": "2016-12-31",
-  "in_force": "2006-04-01",
+  "in_force": "2009-02-06",
   "article_versions": 12,
-  "record_form": "consolidated version as in force on 2006-04-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2009-02-06; future article versions excluded; article text as the API gives it"
 }
