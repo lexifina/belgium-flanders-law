@@ -1,0 +1,17 @@
+{
+  "codex_id": 1017685,
+  "title": "Besluit van de Vlaamse Regering van 2009-02-06 tot wijziging van het besluit van de Vlaamse Regering van 9 juni 2006 houdende regeling van het beheer en de werking van het Vlaams Zorgfonds",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1017685/VolledigDocument?datum=2009-02-06",
+  "source_sha256": "ad14997ad28181b3d57250897928bfa860c4266c7dcca0edd88be51bf8d4b2fd",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1017685&param=informatie",
+  "as_of": "2009-02-06",
+  "made": "2009-02-06",
+  "gazette": "2009-03-16",
+  "numac": 2009200986,
+  "document_start": "2009-02-06",
+  "document_end": null,
+  "in_force": "2009-02-06",
+  "article_versions": 5,
+  "record_form": "consolidated version as in force on 2009-02-06; oldest version available; future article versions excluded; article text as the API gives it"
+}
