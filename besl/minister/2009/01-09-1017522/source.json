@@ -1,0 +1,17 @@
+{
+  "codex_id": 1017522,
+  "title": "Ministerieel besluit van 2009-01-09 houdende de goedkeuring van het collegebesluit nr. 08/483 van 12 december 2008 houdende bekrachtiging van verordening nr. 08/04 houdende vaststelling van de begroting voor het dienstjaar 2009",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1017522/VolledigDocument?datum=2009-02-08",
+  "source_sha256": "e94e68da4f8486aaa1b0f68a50d7cc40733473476333aaa9df8fc218dc78852f",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1017522&param=informatie",
+  "as_of": "2009-02-08",
+  "made": "2009-01-09",
+  "gazette": "2009-01-29",
+  "numac": 2009200183,
+  "document_start": "2009-02-08",
+  "document_end": null,
+  "in_force": "2009-02-08",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2009-02-08; oldest version available; future article versions excluded; article text as the API gives it"
+}
