@@ -1,0 +1,17 @@
+{
+  "codex_id": 1017531,
+  "title": "Decreet van 2008-12-19 houdende instemming met de wijziging van het Verdrag van Aarhus van 25 juni 1998 betreffende toegang tot informatie, inspraak bij besluitvorming en toegang tot de rechter inzake milieuaangelegenheden, aangenomen op 27 mei 2005 in Almaty",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1017531/VolledigDocument?datum=2009-02-12",
+  "source_sha256": "fc13dbb734d5a404491f7d285d09a1232b19bd85700944ede9157c051aff943a",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1017531&param=informatie",
+  "as_of": "2009-02-12",
+  "made": "2008-12-19",
+  "gazette": "2009-02-02",
+  "numac": 2009200202,
+  "document_start": "2009-02-12",
+  "document_end": null,
+  "in_force": "2009-02-12",
+  "article_versions": 2,
+  "record_form": "consolidated version as in force on 2009-02-12; oldest version available; future article versions excluded; article text as the API gives it"
+}
