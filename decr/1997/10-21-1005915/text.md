@@ -8,7 +8,7 @@ Dit decreet regelt een gewestaangelegenheid.
 
 ### ART. 2.
 
-Voor de toepassing van dit decreet wordt verstaan onder:<br />1° organismen: flora, fauna en overige organismen andere dan de mens;<br />2° biologische diversiteit: de variabiliteit onder levende organismen van allerlei herkomst, met inbegrip van, onder andere, terrestrische, mariene en andere aquatische ecosystemen en de ecologische complexen waarvan zij deel uitmaken; dit omvat mede de diversiteit binnen soorten, tussen soorten en van ecosystemen;<br />3° ecosysteem: het geheel van biotische en abiotische elementen die het samenleven van levende organismen in een bepaald gebied kenmerken;<br />4° habitat: een natuurlijke habitat en/of een habitat van een soort waarbij:<br />- "een natuurlijke habitat" een geheel natuurlijke of halfnatuurlijke land- of waterzone met bijzondere geografische, abiotische en biotische kenmerken is;<br />- "een habitat van een soort" een door specifieke abiotische en biotische elementen bepaald natuurlijk milieu is waarbij de soort tijdens één van de fasen van zijn biologische cyclus leeft. Hiertoe behoren ook de woongebieden van een vogelsoort, zijnde: de rustplaatsen in de trekzones, de voortplantings-, broed- en foerageergebieden evenals de rui- en overwinteringsgebieden; <br />5° historisch permanent grasland: is een halfnatuurlijke vegetatie bestaande uit grasland gekenmerkt door het langdurige grondgebruik als graasweide, hooiland of wisselweide met ofwel cultuurhistorische waarde, ofwel een soortenrijke vegetatie van kruiden en grassoorten waarbij het milieu wordt gekenmerkt door aanwezigheid van sloten, greppels, poelen, uitgesproken microreliëf, bronnen of kwelzones;<br />6° kleine landschapselementen: lijn- of puntvormige elementen met inbegrip van de bijhorende vegetaties waarvan het uitzicht, de structuur of de aard al dan niet resultaat zijn van menselijk handelen, en die deel uitmaken van de natuur zoals: bermen, bomen, ... bronnen, dijken, graften, houtkanten, hagen, holle wegen, hoogstamboomgaarden, perceelsrandbegroeiingen, sloten, struwelen, poelen, veedrinkputten en waterlopen;<br />7° natuur: de levende organismen, hun habitats, de ecosystemen waarvan zij deel uitmaken en de daarmee verbonden uit zichzelf functionerende ecologische processen, ongeacht of deze al dan niet voorkomen in aansluiting op menselijk handelen, met uitsluiting van de cultuurgewassen, de landbouwdieren en de huisdieren;<br />8° natuurelement: elk afzonderlijk element dat natuur in de zin van dit decreet bevat;<br />9° natuur in de bebouwde omgeving: de natuurelementen en soorten die voorkomen in samenhang met de stedelijke en bebouwde omgeving;<br />10° natuurbehoud: het instandhouden, herstellen en ontwikkelen van de natuur en het natuurlijk milieu door natuurbescherming, natuurontwikkeling en natuurbeheer en het streven naar een zo groot mogelijke biologische diversiteit in de natuur en naar een gunstige staat van instandhouding van habitats en soorten; <br />11° natuurbescherming: het geheel van de maatregelen gericht op natuurbehoud en tegen nadelige invloeden die kunnen ontstaan door menselijke activiteiten;<br />12° natuurontwikkeling: het geheel van maatregelen gericht op het creëren van voorwaarden voor het tot stand komen of het herstel van natuur in een bepaald gebied;<br />13° natuurbeheer: het regelend en sturend ingrijpen van de mens in de natuur en in het natuurlijk milieu, bewust niets doen inbegrepen, ten behoeve van het natuurbehoud;<br />14° natuurkwaliteit: de bijdrage die een gebied of één of meerdere afzonderlijke natuurelementen, al of niet in onderlinge samenhang, levert of kan leveren aan de biologische diversiteit;<br />15° natuurlijk milieu: het geheel van biotische en abiotische elementen, samen met hun ruimtelijke en ecologische kenmerken en processen die nodig zijn voor het behoud van de natuur in het Vlaamse Gewest;<br />16° erkende terreinbeherende natuurvereniging: een privaatrechtelijk rechtspersoon waarvan de statuten het natuurbehoud en/of de natuurbescherming als hoofdzakelijk en ondubbelzinnig doel bepalen, die gebieden beheert als natuurreservaat en als dusdanig op grond van dit decreet wordt erkend;<br />17° soortenbehoud: het geheel van maatregelen gericht op het instandhouden, herstellen of ontwikkelen van populaties van soorten en ondersoorten;<br />18° erkende beheerscommissie: een door de Vlaamse regering erkende vereniging van betrokkenen die het onderhoud en de bescherming van de natuurelementen binnen het Integraal Verwevings- en Ondersteunend Netwerk (IVON) conform het goedgekeurd natuurrichtplan tot doel heeft;<br />19° bestrijdingsmiddelen: werkzame stoffen en preparaten die een of meer werkzame stoffen bevatten, in de vorm waarin zij aan de gebruiker worden geleverd en bestemd om een schadelijk organisme te vernietigen, af te schrikken of onschadelijk te maken, de effecten daarvan te voorkomen of dit op andere wijze te bestrijden;<br />20° waterrijke gebieden: gebieden met moerassen, vennen, veen- of plasgebieden, natuurlijk of kunstmatig, blijvend of tijdelijk, met stilstaand of stromend water, zoet, brak of zout, met inbegrip van zeewater, waarvan de diepte bij eb niet meer is dan zes meter;<br />21° waterrijke gebieden van internationale betekenis: waterrijke gebieden die aangeduid zijn conform de Overeenkomst inzake watergebieden die van internationale betekenis zijn, opgemaakt te Ramsar op 2 februari 1971;<br />22° administratieve overheid: het Vlaamse Gewest, de openbare instellingen die ervan afhangen, de publiekrechtelijke en privaatrechtelijke instellingen die belast zijn met taken van openbaar nut en de andere besturen die onderworpen zijn aan het administratief toezicht van het Vlaamse Gewest;<br />23° VEN: Vlaams Ecologisch Netwerk;<br />24° GEN: Grote Eenheid Natuur;<br />25° GENO: Grote Eenheid Natuur in Ontwikkeling;<br />26° IVON: Integraal Verwevings- en Ondersteunend Netwerk;<br />27° VLM: Vlaamse Landmaatschappij;<br />28° ...<br />29° Mina-fonds: Fonds voor Preventie en Sanering inzake leefmilieu en natuur opgericht bij decreet van 23 januari 1991;<br />30° betekenisvolle aantasting van de natuurlijke kenmerken van een speciale beschermingszone: een aantasting die meetbare en aantoonbare gevolgen heeft voor de natuurlijke kenmerken van een speciale beschermingszone, in de mate er meetbare en aantoonbare gevolgen zijn voor de staat van instandhouding van de soort(en) of de habitat(s) waarvoor de betreffende speciale beschermingszone is aangewezen of voor de staat van instandhouding van de soort(en) vermeld in bijlage III van dit decreet voor zover voorkomend in de betreffende speciale beschermingszone;<br />31° betekenisvolle verstoring van een soort: een verstoring die meetbare en aantoonbare gevolgen heeft voor de staat van instandhouding van een soort. Factoren die als dusdanig kunnen worden beschouwd, zijn:<br />- elke activiteit die bijdraagt tot de afname op lange termijn van de grootte van de populatie (populatieomvang) van de betrokken soort in het gebied of tot een geringe afname waardoor in vergelijking met de begintoestand de soort niet langer een levensvatbare component van de natuurlijke habitat kan blijven;<br />- elke activiteit die ertoe bijdraagt dat het verspreidingsgebied van de soort in het gebied kleiner wordt of dreigt te worden;<br />- elke activiteit die ertoe bijdraagt dat de omvang van de habitat van de soort in het gebied kleiner wordt.<br />Betreft het een soort van bijlage II of IV van dit decreet, dan dient de verstoring ervan tevens geëvalueerd te worden in het licht van de bijdrage van de speciale beschermingszone tot de algehele samenhang van de speciale beschermingszone en -zones;<br />32° Bosdecreet: het bosdecreet van 13 juni 1990;<br />33° code voor goede natuurpraktijk: richtlijnen inzake natuurbeheer met het oog op het respecteren van het standstill-beginsel;<br />34° Habitatrichtlijn: Richtlijn 92/43/EEG van de Raad van 21 mei 1992 inzake de instandhouding van de natuurlijke habitats en de wilde flora en fauna;<br />35° huiskavel: kadastraal perceel of kadastrale percelen die ofwel behoren bij een vergunde woning ofwel behoren bij de stal of stallen van de landbouw- en/of veeteeltinrichting zoals bedoeld in het mestdecreet en met de vergunde woning, stal of stallen een ononderbroken geheel vormen; de begrenzing van de huiskavel vindt plaats op basis van een duidelijk herkenbaar specifiek gebruik of op basis van een in het landschap duidelijk herkenbaar element;<br />36° instandhouding: het geheel van maatregelen die nodig zijn voor het behoud of herstel van habitats en populaties van wilde dier- en plantensoorten in een gunstige staat van instandhouding.<br />De staat van instandhouding van een habitat wordt als gunstig beschouwd wanneer:<br />- het natuurlijke verspreidingsgebied van de habitat en de oppervlakte van die habitat binnen dat gebied stabiel zijn of toenemen;<br />- de nodige specifieke structuur en functies voor behoud op lange termijn bestaan en in de afzienbare toekomst vermoedelijk zullen blijven bestaan;<br />- de staat van instandhouding van de voor die habitat gunstige typische soorten gunstig is.<br />De staat van instandhouding van een soort wordt als gunstig beschouwd wanneer:<br />- uit populatiedynamische gegevens blijkt dat de betrokken soort nog altijd een levensvatbare component is van de habitat waarin de soort voorkomt en dat vermoedelijk op lange termijn zal blijven;<br />- het natuurlijke verspreidingsgebied van die soort niet kleiner wordt of binnen afzienbare tijd lijkt te zullen worden;<br />- er een voldoende grote habitat bestaat en waarschijnlijk zal blijven bestaan om de populaties van die soort op lange termijn in stand te houden;<br />37° Mestdecreet: het decreet van 23 januari 1991 inzake de bescherming van het leefmilieu tegen de verontreiniging door meststoffen;<br />38° natuurlijke kenmerken van een speciale beschermingszone: het geheel van biotische en abiotische elementen, samen met hun ruimtelijke en ecologische kenmerken en processen, die nodig zijn voor de instandhouding van<br />a) de natuurlijke habitats en de habitats van de soorten waarvoor de betreffende speciale beschermingszone is aangewezen en<br />b) de soorten vermeld in de bijlage III;<br />39° natuurrichtplan: een plan dat aangeeft wat op vlak van natuurbehoud voor een specifiek gebied wordt beoogd en waarin de instrumenten en maatregelen zijn opgenomen die al dan niet projectmatig verlopen, om de beoogde doelstellingen op het vlak van het natuurbehoud te realiseren. Het plan komt tot stand en wordt uitgevoerd met medewerking van eigenaars of grondgebruikers;<br />40° plan of programma: een document waarin beleidsvoornemens, beleidsontwikkelingen of grootschalige overheids-, particuliere of gemengde activiteiten worden aangekondigd en dat wordt opgemaakt en vastgesteld, gewijzigd of herzien op initiatief of onder toezicht van het Vlaamse Gewest, de provincies, de intercommunales, de intergemeentelijke samenwerkingsverbanden en/of de gemeenten, en/of van de federale overheid of waarvoor medefinanciering voorzien is door de Europese Gemeenschap of door het Vlaamse Gewest of de Vlaamse Gemeenschap in het kader van de internationale samenwerking, voor zover het voorgenomen plan of programma aanzienlijke milieu- of veiligheidseffecten kan hebben op het grondgebied van het Vlaamse Gewest;<br />41° plan-MERrichtlijn: Richtlijn 2001/42/EG van het Europees Parlement en de Raad van 27 juni 2001 betreffende de beoordeling van de gevolgen voor het milieu van bepaalde plannen en programma's;<br />42° project-MERrichtlijn: Richtlijn 85/337/EEG van de Raad van 27 juni 1985 betreffende de milieu-effectbeoordeling van bepaalde openbare en particuliere projecten;<br />43° speciale beschermingszone: gebied aangewezen door de Vlaamse regering in toepassing van de Vogelrichtlijn of van de Habitatrichtlijn;<br />44° staat van instandhouding van een habitat: de som van de invloeden die op de betrokken habitat en de daar voorkomende typische soorten inwerken en op lange termijn een verandering kunnen bewerkstelligen in de natuurlijke verspreiding, de structuur en de functies van die habitat of die van invloed kunnen zijn op het voortbestaan op lange termijn van de betrokken typische soorten in het Vlaamse Gewest;<br />45° staat van instandhouding van een soort: het effect van de som van de invloeden die op de betrokken soort inwerken en op lange termijn een verandering kunnen bewerkstelligen in de verspreiding en de grootte van de populaties van die soort in het Vlaamse Gewest;<br />46° vergunningsplichtige activiteit: een activiteit waarvoor op grond van een wet, decreet of besluit, een vergunning, toestemming of machtiging vereist is;<br />47° Vogelrichtlijn: Richtlijn 79/409/EEG van de Raad van 2 april 1979 inzake het behoud van de vogelstand;<br />48° wijzigingsdecreet 19 juli 2002: decreet van 19 juli 2002 houdende de wijziging van het decreet van 21 oktober 1997 inzake het natuurbehoud en het natuurlijk milieu, van het bosdecreet van 13 juni 1990, van het decreet van 16 april 1996 betreffende de landschapszorg, van het decreet van 21 december 1988 houdende oprichting van de Vlaamse Landmaatschappij, van de wet van 22 juli 1970 op de ruilverkaveling van landeigendommen uit kracht van wet zoals aangevuld door de wet van 11 augustus 1978 houdende bijzondere bepalingen eigen aan het Vlaamse Gewest, van het decreet van 23 januari 1991 inzake de bescherming van het leefmilieu tegen de verontreiniging door meststoffen en van de wet betreffende de politie over het wegverkeer, gecordineerd bij koninklijk besluit van 16 maart 1968;<br />49° de Vlaamse Grondenbank : afdeling van de Vlaamse Landmaatschappij, opgericht volgens het decreet van 16 juni 2006 betreffende de oprichting van de Vlaamse Grondenbank en houdende wijziging van diverse bepalingen.
+Voor de toepassing van dit decreet wordt verstaan onder:<br />1° organismen: flora, fauna en overige organismen andere dan de mens;<br />2° biologische diversiteit: de variabiliteit onder levende organismen van allerlei herkomst, met inbegrip van, onder andere, terrestrische, mariene en andere aquatische ecosystemen en de ecologische complexen waarvan zij deel uitmaken; dit omvat mede de diversiteit binnen soorten, tussen soorten en van ecosystemen;<br />3° ecosysteem: het geheel van biotische en abiotische elementen die het samenleven van levende organismen in een bepaald gebied kenmerken;<br />4° habitat: een natuurlijke habitat en/of een habitat van een soort waarbij:<br />- "een natuurlijke habitat" een geheel natuurlijke of halfnatuurlijke land- of waterzone met bijzondere geografische, abiotische en biotische kenmerken is;<br />- "een habitat van een soort" een door specifieke abiotische en biotische elementen bepaald natuurlijk milieu is waarbij de soort tijdens één van de fasen van zijn biologische cyclus leeft. Hiertoe behoren ook de woongebieden van een vogelsoort, zijnde: de rustplaatsen in de trekzones, de voortplantings-, broed- en foerageergebieden evenals de rui- en overwinteringsgebieden; <br />5° historisch permanent grasland: is een halfnatuurlijke vegetatie bestaande uit grasland gekenmerkt door het langdurige grondgebruik als graasweide, hooiland of wisselweide met ofwel cultuurhistorische waarde, ofwel een soortenrijke vegetatie van kruiden en grassoorten waarbij het milieu wordt gekenmerkt door aanwezigheid van sloten, greppels, poelen, uitgesproken microreliëf, bronnen of kwelzones;<br />6° kleine landschapselementen: lijn- of puntvormige elementen met inbegrip van de bijhorende vegetaties waarvan het uitzicht, de structuur of de aard al dan niet resultaat zijn van menselijk handelen, en die deel uitmaken van de natuur zoals: bermen, bomen, ... bronnen, dijken, graften, houtkanten, hagen, holle wegen, hoogstamboomgaarden, perceelsrandbegroeiingen, sloten, struwelen, poelen, veedrinkputten en waterlopen;<br />7° natuur: de levende organismen, hun habitats, de ecosystemen waarvan zij deel uitmaken en de daarmee verbonden uit zichzelf functionerende ecologische processen, ongeacht of deze al dan niet voorkomen in aansluiting op menselijk handelen, met uitsluiting van de cultuurgewassen, de landbouwdieren en de huisdieren;<br />8° natuurelement: elk afzonderlijk element dat natuur in de zin van dit decreet bevat;<br />9° natuur in de bebouwde omgeving: de natuurelementen en soorten die voorkomen in samenhang met de stedelijke en bebouwde omgeving;<br />10° natuurbehoud: het instandhouden, herstellen en ontwikkelen van de natuur en het natuurlijk milieu door natuurbescherming, natuurontwikkeling en natuurbeheer en het streven naar een zo groot mogelijke biologische diversiteit in de natuur en naar een gunstige staat van instandhouding van habitats en soorten; <br />11° natuurbescherming: het geheel van de maatregelen gericht op natuurbehoud en tegen nadelige invloeden die kunnen ontstaan door menselijke activiteiten;<br />12° natuurontwikkeling: het geheel van maatregelen gericht op het creëren van voorwaarden voor het tot stand komen of het herstel van natuur in een bepaald gebied;<br />13° natuurbeheer: het regelend en sturend ingrijpen van de mens in de natuur en in het natuurlijk milieu, bewust niets doen inbegrepen, ten behoeve van het natuurbehoud;<br />14° natuurkwaliteit: de bijdrage die een gebied of één of meerdere afzonderlijke natuurelementen, al of niet in onderlinge samenhang, levert of kan leveren aan de biologische diversiteit;<br />15° natuurlijk milieu: het geheel van biotische en abiotische elementen, samen met hun ruimtelijke en ecologische kenmerken en processen die nodig zijn voor het behoud van de natuur in het Vlaamse Gewest;<br />16° erkende terreinbeherende natuurvereniging: een privaatrechtelijk rechtspersoon waarvan de statuten het natuurbehoud en/of de natuurbescherming als hoofdzakelijk en ondubbelzinnig doel bepalen, die gebieden beheert als natuurreservaat en als dusdanig op grond van dit decreet wordt erkend;<br />17° soortenbehoud: het geheel van maatregelen gericht op het instandhouden, herstellen of ontwikkelen van populaties van soorten en ondersoorten;<br />18° erkende beheersgroep : een door de Vlaamse Regering erkende lokale of regionale vereniging van betrokkenen die, voor een bepaald gebied, het beheer en de bescherming van natuurelementen of het natuurlijk milieu tot doel heeft.<br />19° bestrijdingsmiddelen: werkzame stoffen en preparaten die een of meer werkzame stoffen bevatten, in de vorm waarin zij aan de gebruiker worden geleverd en bestemd om een schadelijk organisme te vernietigen, af te schrikken of onschadelijk te maken, de effecten daarvan te voorkomen of dit op andere wijze te bestrijden;<br />20° waterrijke gebieden: gebieden met moerassen, vennen, veen- of plasgebieden, natuurlijk of kunstmatig, blijvend of tijdelijk, met stilstaand of stromend water, zoet, brak of zout, met inbegrip van zeewater, waarvan de diepte bij eb niet meer is dan zes meter;<br />21° waterrijke gebieden van internationale betekenis: waterrijke gebieden die aangeduid zijn conform de Overeenkomst inzake watergebieden die van internationale betekenis zijn, opgemaakt te Ramsar op 2 februari 1971;<br />22° administratieve overheid: het Vlaamse Gewest, de openbare instellingen die ervan afhangen, de publiekrechtelijke en privaatrechtelijke instellingen die belast zijn met taken van openbaar nut en de andere besturen die onderworpen zijn aan het administratief toezicht van het Vlaamse Gewest;<br />23° VEN: Vlaams Ecologisch Netwerk;<br />24° GEN: Grote Eenheid Natuur;<br />25° GENO: Grote Eenheid Natuur in Ontwikkeling;<br />26° IVON: Integraal Verwevings- en Ondersteunend Netwerk;<br />27° VLM: Vlaamse Landmaatschappij;<br />28° ...<br />29° Mina-fonds: Fonds voor Preventie en Sanering inzake leefmilieu en natuur opgericht bij decreet van 23 januari 1991;<br />30° betekenisvolle aantasting van de natuurlijke kenmerken van een speciale beschermingszone: een aantasting die meetbare en aantoonbare gevolgen heeft voor de natuurlijke kenmerken van een speciale beschermingszone, in de mate er meetbare en aantoonbare gevolgen zijn voor de staat van instandhouding van de soort(en) of de habitat(s) waarvoor de betreffende speciale beschermingszone is aangewezen of voor de staat van instandhouding van de soort(en) vermeld in bijlage III van dit decreet voor zover voorkomend in de betreffende speciale beschermingszone;<br />31° betekenisvolle verstoring van een soort: een verstoring die meetbare en aantoonbare gevolgen heeft voor de staat van instandhouding van een soort. Factoren die als dusdanig kunnen worden beschouwd, zijn:<br />- elke activiteit die bijdraagt tot de afname op lange termijn van de grootte van de populatie (populatieomvang) van de betrokken soort in het gebied of tot een geringe afname waardoor in vergelijking met de begintoestand de soort niet langer een levensvatbare component van de natuurlijke habitat kan blijven;<br />- elke activiteit die ertoe bijdraagt dat het verspreidingsgebied van de soort in het gebied kleiner wordt of dreigt te worden;<br />- elke activiteit die ertoe bijdraagt dat de omvang van de habitat van de soort in het gebied kleiner wordt.<br />Betreft het een soort van bijlage II of IV van dit decreet, dan dient de verstoring ervan tevens geëvalueerd te worden in het licht van de bijdrage van de speciale beschermingszone tot de algehele samenhang van de speciale beschermingszone en -zones;<br />32° Bosdecreet: het bosdecreet van 13 juni 1990;<br />33° code voor goede natuurpraktijk: richtlijnen inzake natuurbeheer met het oog op het respecteren van het standstill-beginsel;<br />34° Habitatrichtlijn: Richtlijn 92/43/EEG van de Raad van 21 mei 1992 inzake de instandhouding van de natuurlijke habitats en de wilde flora en fauna;<br />35° huiskavel: kadastraal perceel of kadastrale percelen die ofwel behoren bij een vergunde woning ofwel behoren bij de stal of stallen van de landbouw- en/of veeteeltinrichting zoals bedoeld in het mestdecreet en met de vergunde woning, stal of stallen een ononderbroken geheel vormen; de begrenzing van de huiskavel vindt plaats op basis van een duidelijk herkenbaar specifiek gebruik of op basis van een in het landschap duidelijk herkenbaar element;<br />36° instandhouding: het geheel van maatregelen die nodig zijn voor het behoud of herstel van habitats en populaties van wilde dier- en plantensoorten in een gunstige staat van instandhouding.<br />De staat van instandhouding van een habitat wordt als gunstig beschouwd wanneer:<br />- het natuurlijke verspreidingsgebied van de habitat en de oppervlakte van die habitat binnen dat gebied stabiel zijn of toenemen;<br />- de nodige specifieke structuur en functies voor behoud op lange termijn bestaan en in de afzienbare toekomst vermoedelijk zullen blijven bestaan;<br />- de staat van instandhouding van de voor die habitat gunstige typische soorten gunstig is.<br />De staat van instandhouding van een soort wordt als gunstig beschouwd wanneer:<br />- uit populatiedynamische gegevens blijkt dat de betrokken soort nog altijd een levensvatbare component is van de habitat waarin de soort voorkomt en dat vermoedelijk op lange termijn zal blijven;<br />- het natuurlijke verspreidingsgebied van die soort niet kleiner wordt of binnen afzienbare tijd lijkt te zullen worden;<br />- er een voldoende grote habitat bestaat en waarschijnlijk zal blijven bestaan om de populaties van die soort op lange termijn in stand te houden;<br />37° Mestdecreet: het decreet van 23 januari 1991 inzake de bescherming van het leefmilieu tegen de verontreiniging door meststoffen;<br />38° natuurlijke kenmerken van een speciale beschermingszone: het geheel van biotische en abiotische elementen, samen met hun ruimtelijke en ecologische kenmerken en processen, die nodig zijn voor de instandhouding van<br />a) de natuurlijke habitats en de habitats van de soorten waarvoor de betreffende speciale beschermingszone is aangewezen en<br />b) de soorten vermeld in de bijlage III;<br />39° natuurrichtplan: een plan dat aangeeft wat op vlak van natuurbehoud voor een specifiek gebied wordt beoogd en waarin de instrumenten en maatregelen zijn opgenomen die al dan niet projectmatig verlopen, om de beoogde doelstellingen op het vlak van het natuurbehoud te realiseren. Het plan komt tot stand en wordt uitgevoerd met medewerking van eigenaars of grondgebruikers;<br />40° plan of programma: een document waarin beleidsvoornemens, beleidsontwikkelingen of grootschalige overheids-, particuliere of gemengde activiteiten worden aangekondigd en dat wordt opgemaakt en vastgesteld, gewijzigd of herzien op initiatief of onder toezicht van het Vlaamse Gewest, de provincies, de intercommunales, de intergemeentelijke samenwerkingsverbanden en/of de gemeenten, en/of van de federale overheid of waarvoor medefinanciering voorzien is door de Europese Gemeenschap of door het Vlaamse Gewest of de Vlaamse Gemeenschap in het kader van de internationale samenwerking, voor zover het voorgenomen plan of programma aanzienlijke milieu- of veiligheidseffecten kan hebben op het grondgebied van het Vlaamse Gewest;<br />41° plan-MERrichtlijn: Richtlijn 2001/42/EG van het Europees Parlement en de Raad van 27 juni 2001 betreffende de beoordeling van de gevolgen voor het milieu van bepaalde plannen en programma's;<br />42° project-MERrichtlijn: Richtlijn 85/337/EEG van de Raad van 27 juni 1985 betreffende de milieu-effectbeoordeling van bepaalde openbare en particuliere projecten;<br />43° speciale beschermingszone: gebied aangewezen door de Vlaamse regering in toepassing van de Vogelrichtlijn of van de Habitatrichtlijn;<br />44° staat van instandhouding van een habitat: de som van de invloeden die op de betrokken habitat en de daar voorkomende typische soorten inwerken en op lange termijn een verandering kunnen bewerkstelligen in de natuurlijke verspreiding, de structuur en de functies van die habitat of die van invloed kunnen zijn op het voortbestaan op lange termijn van de betrokken typische soorten in het Vlaamse Gewest;<br />45° staat van instandhouding van een soort: het effect van de som van de invloeden die op de betrokken soort inwerken en op lange termijn een verandering kunnen bewerkstelligen in de verspreiding en de grootte van de populaties van die soort in het Vlaamse Gewest;<br />46° vergunningsplichtige activiteit: een activiteit waarvoor op grond van een wet, decreet of besluit, een vergunning, toestemming of machtiging vereist is;<br />47° Vogelrichtlijn: Richtlijn 79/409/EEG van de Raad van 2 april 1979 inzake het behoud van de vogelstand;<br />48° wijzigingsdecreet 19 juli 2002: decreet van 19 juli 2002 houdende de wijziging van het decreet van 21 oktober 1997 inzake het natuurbehoud en het natuurlijk milieu, van het bosdecreet van 13 juni 1990, van het decreet van 16 april 1996 betreffende de landschapszorg, van het decreet van 21 december 1988 houdende oprichting van de Vlaamse Landmaatschappij, van de wet van 22 juli 1970 op de ruilverkaveling van landeigendommen uit kracht van wet zoals aangevuld door de wet van 11 augustus 1978 houdende bijzondere bepalingen eigen aan het Vlaamse Gewest, van het decreet van 23 januari 1991 inzake de bescherming van het leefmilieu tegen de verontreiniging door meststoffen en van de wet betreffende de politie over het wegverkeer, gecordineerd bij koninklijk besluit van 16 maart 1968;<br />49° de Vlaamse Grondenbank : afdeling van de Vlaamse Landmaatschappij, opgericht volgens het decreet van 16 juni 2006 betreffende de oprichting van de Vlaamse Grondenbank en houdende wijziging van diverse bepalingen.
 
 ## HOOFDSTUK II OFFICIËLE STRUCTUREN INZAKE NATUURBELEID
 
@@ -38,7 +38,7 @@ Onverminderd de bepalingen van het decreet van 5 april 1995 houdende algemene be
 
 ### ART. 7.
 
-[Het onder artikel 6 bedoelde beleid is gericht op het nemen van alle maatregelen die nodig zijn voor de uitvoering van internationale overeenkomsten of verdragen betreffende het natuurbehoud of van akten betreffende het natuurbehoud, met inbegrip van Europese richtlijnen, vastgesteld op grond van internationale verdragen.<br /><br />Onverminderd wat bepaald wordt in het eerste lid, wordt in de maatregelen genomen in uitvoering van de Habitat- en Vogelrichtlijn rekening gehouden met de vereisten op economisch, sociaal en cultureel gebied en met de regionale en lokale bijzonderheden.  <span class="reference">(verv. decr. 19 juli 2002, art. 3, I: 10 september 2002)</span> ]
+Het onder artikel 6 bedoelde beleid is gericht op het nemen van alle maatregelen die nodig zijn voor de uitvoering van internationale overeenkomsten of verdragen betreffende het natuurbehoud of van akten betreffende het natuurbehoud, met inbegrip van Europese richtlijnen, vastgesteld op grond van internationale verdragen.<br /><br />Met het oog op het nemen van de in het eerste lid vermelde maatregelen is de Vlaamse Regering ertoe gemachtigd om de bijlagen I, II, III en IV bij dit decreet te wijzigen op een van de volgende gronden, naargelang van toepassing :<br />1° hetzij als gevolg van de in artikel 15 van de Vogelrichtlijn of in artikel 19 van de Habitatrichtlijn bedoelde aanpassing aan de technische en wetenschappelijke vooruitgang;<br />2° hetzij als gevolg van de feitelijke vaststellingen die in het in artikel 10 bedoelde Natuurrapport gedaan worden betreffende de vogelsoorten van de bijlage I van de Vogelrichtlijn, dan wel betreffende de habitats van bijlage I van de Habitat-richtlijn of de dier- en plantensoorten van bijlage II of IV van de diezelfde richtlijn;<br />3° hetzij als gevolg van de feitelijke vaststellingen die gedaan worden in het verslag in uitvoering van artikel 17.1 van de Habitatrichtlijn.<br /><br />Onverminderd wat bepaald wordt in het eerste lid, wordt in de maatregelen genomen in uitvoering van de Habitat- en Vogelrichtlijn rekening gehouden met de vereisten op economisch, sociaal en cultureel gebied en met de regionale en lokale bijzonderheden.
 
 ### ART. 8.
 
@@ -46,7 +46,7 @@ De Vlaamse regering neemt alle nodige maatregelen ter aanvulling van de bestaand
 
 ### ART. 9.
 
-[§ 1. De maatregelen bedoeld in artikel 8, artikel 13, artikel 36ter , §§ 1, 2 en 5, tweede lid en Hoofdstuk VI kunnen beperkingen opleggen maar, met uitzondering van de maatregelen bedoeld in artikel 36ter, §§ 1 en 2 voor zover deze expliciet zijn opgenomen in een goedgekeurd natuurrichtplan, evenwel geen beperkingen vaststellen die absoluut werken of handelingen verbieden of onmogelijk maken die overeenstemmen met de plannen van aanleg of de ruimtelijke uitvoeringsplannen van kracht in de ruimtelijke ordening, noch de realisatie van die plannen en hun bestemmingsvoorschriften verhinderen.<br /><br />De maatregelen bedoeld in het eerste lid beogen de instandhouding van de natuur en kunnen onder meer de bescherming bevatten van de bestaande natuur en natuurelementen, zoals habitats, holle wegen, houtkanten, poelen, waterrijke gebieden, heiden en historisch permanent grasland, ongeacht waar de natuur en de natuurelementen zich bevinden.<br /><br />De in het eerste lid vermelde maatregelen kunnen de landbouwbedrijfsvoering en het teeltplan niet regelen in agrarische gebieden, landschappelijk waardevolle agrarische gebieden, valleigebieden, brongebieden, agrarische gebieden met ecologisch belang of ecologische waarde, agrarische gebieden met bijzondere waarde en de met een van deze gebieden vergelijkbare bestemmingsgebieden, aangewezen op de plannen van aanleg of de ruimtelijke uitvoeringsplannen van kracht in de ruimtelijke ordening, tenzij in de volgende gevallen:<br /><br />1° voor de uitvoering van maatregelen bedoeld in artikel 36ter §§ 1 en 2;<br /><br />2° binnen het VEN;<br /><br />3° voor wat betreft het historisch permanent grasland gelegen binnen:<br /><br />- de valleigebieden, brongebieden, agrarische gebieden met ecologisch belang of ecologische waarde, agrarische gebieden met bijzondere waarde of de met een van deze gebieden vergelijkbare bestemmingsgebieden, aangewezen op de plannen van aanleg of de ruimtelijke uitvoeringsplannen van kracht in de ruimtelijke ordening;<br /><br />- het IVON;<br /><br />- de beschermde duingebieden aangeduid krachtens artikel 52 van de wet van 12 juli 1973 op het natuurbehoud, toegevoegd bij decreet van 14 juli 1993 houdende maatregelen tot bescherming van de kustduinen;<br /><br />- de gebieden afgebakend volgens of in uitvoering van internationale overeenkomsten of verdragen betreffende het natuurbehoud of van akten betreffende het natuurbehoud, met inbegrip van Europese richtlijnen, vastgesteld op grond van internationale verdragen.<br /><br />§ 2. Behoudens andersluidende bepaling kunnen de maatregelen bedoeld in artikel 13, § 1, artikel 25, § 1, eerste lid, artikel 28, § 1, artikel 36ter , §§ 1 en 2, artikel 48, § 3, en artikel 51:<br /><br />1° gericht zijn op het stimuleren van maatregelen op het vlak van natuurbehoud en soortenbehoud;<br /><br />2° het uitvoeren van een activiteit verbieden;<br /><br />3° voorwaarden aan een activiteit opleggen;<br /><br />4° gebodsbepalingen aan een overheid opleggen;<br /><br />5° de verplichting bevatten voor een overheid tot het nemen van maatregelen op het vlak van natuurbeheer voor terreinen en waterlopen die deze in eigendom, gebruik of beheer heeft.<br /><br />De maatregelen bedoeld in artikel 13, § 1, artikel 25, § 1, eerste lid, artikel 28, § 1, artikel 36ter, §§ 1 en 2, en artikel 51 kunnen tevens bevatten:<br /><br />1° het afhankelijk maken van een activiteit van het verkrijgen van een voorafgaande schriftelijke vergunning, toestemming of machtiging;<br /><br />2° het onderwerpen van een activiteit aan een voorafgaande, schriftelijke melding of kennisgeving.<br /><br />De Vlaamse regering of haar gemachtigde kan tevens tegen vergoeding gebodsbepalingen opleggen, al dan niet kaderend binnen een natuurrichtplan, aan de particuliere grondeigenaars of -gebruikers in:<br /><br />1° het VEN;<br /><br />2° een speciale beschermingszone in zoverre het maatregelen betreft zoals bedoeld in artikel 36ter , §§ 1 en 2;<br /><br />3° de overige gebieden die afgebakend zijn volgens of in uitvoering van internationale overeenkomsten of verdragen betreffende het natuurbehoud of van akten betreffende het natuurbehoud, met inbegrip van Europese richtlijnen, vastgesteld op grond van internationale verdragen.<br /><br />De Vlaamse regering kan nadere regels vaststellen inzake het opleggen van gebodsbepalingen aan de particuliere grondeigenaars of -gebruikers en inzake de vergoeding hiervoor.  <span class="reference">(verv. decr. 19 juli 2002, art. 4, I: 10 september 2002)</span> ]
+§ 1. De maatregelen bedoeld in artikelen 8, 13, 36ter, §§ 1, 2 en 5, tweede lid, en hoofdstuk VI, kunnen geen beperkingen opleggen die absoluut werken of handelingen verbieden of onmogelijk maken die overeenstemmen met de plannen van aanleg of de ruimtelijke uitvoeringsplannen van kracht in de ruimtelijke ordening, noch de realisatie van die plannen en hun bestemmingsvoorschriften verhinderen, tenzij deze maatregelen, voor wat artikel 36ter, §§ 1 en 2 aangaat, vastgelegd zijn in een goedgekeurd natuurrichtplan, dan wel, voor wat hoofdstuk VI aangaat, deze maatregelen de op grond van artikel 7 van dit decreet vereiste bescherming betreffen van de soorten die vermeld zijn in de bijlagen II, III en IV bij dit decreet. <br /><br />De maatregelen bedoeld in het eerste lid beogen de instandhouding van de natuur en kunnen onder meer de bescherming bevatten van de bestaande natuur en natuurelementen, zoals habitats, holle wegen, houtkanten, poelen, waterrijke gebieden, heiden en historisch permanent grasland, ongeacht waar de natuur en de natuurelementen zich bevinden.<br /><br />De in het eerste lid vermelde maatregelen kunnen de landbouwbedrijfsvoering en het teeltplan niet regelen in agrarische gebieden, landschappelijk waardevolle agrarische gebieden, valleigebieden, brongebieden, agrarische gebieden met ecologisch belang of ecologische waarde, agrarische gebieden met bijzondere waarde en de met een van deze gebieden vergelijkbare bestemmingsgebieden, aangewezen op de plannen van aanleg of de ruimtelijke uitvoeringsplannen van kracht in de ruimtelijke ordening, tenzij in de volgende gevallen:<br />1° voor de uitvoering van maatregelen bedoeld in artikel 36ter §§ 1 en 2;<br />2° binnen het VEN;<br />3° voor wat betreft het historisch permanent grasland gelegen binnen:<br />- de valleigebieden, brongebieden, agrarische gebieden met ecologisch belang of ecologische waarde, agrarische gebieden met bijzondere waarde of de met een van deze gebieden vergelijkbare bestemmingsgebieden, aangewezen op de plannen van aanleg of de ruimtelijke uitvoeringsplannen van kracht in de ruimtelijke ordening;<br />- het IVON;<br />- de beschermde duingebieden aangeduid krachtens artikel 52 van de wet van 12 juli 1973 op het natuurbehoud, toegevoegd bij decreet van 14 juli 1993 houdende maatregelen tot bescherming van de kustduinen;<br />- de gebieden afgebakend volgens of in uitvoering van internationale overeenkomsten of verdragen betreffende het natuurbehoud of van akten betreffende het natuurbehoud, met inbegrip van Europese richtlijnen, vastgesteld op grond van internationale verdragen.<br />4° voor de uitvoering van de maatregelen die de op grond van artikel 7 van dit decreet vereiste bescherming betreffen van de soorten die vermeld zijn in de bijlagen II, III en IV van het decreet. <br /><br />§ 2. Behoudens andersluidende bepaling kunnen de maatregelen bedoeld in artikel 13, § 1, artikel 25, § 1, eerste lid, artikel 28, § 1, artikel 36ter , §§ 1 en 2, artikel 48, § 3, en artikel 51:<br /><br />1° gericht zijn op het stimuleren van maatregelen op het vlak van natuurbehoud en soortenbehoud;<br /><br />2° het uitvoeren van een activiteit verbieden;<br /><br />3° voorwaarden aan een activiteit opleggen;<br /><br />4° gebodsbepalingen aan een overheid opleggen;<br /><br />5° de verplichting bevatten voor een overheid tot het nemen van maatregelen op het vlak van natuurbeheer voor terreinen en waterlopen die deze in eigendom, gebruik of beheer heeft.<br /><br />De maatregelen bedoeld in artikel 13, § 1, artikel 25, § 1, eerste lid, artikel 28, § 1, artikel 36ter, §§ 1 en 2, en artikel 51 kunnen tevens bevatten:<br /><br />1° het afhankelijk maken van een activiteit van het verkrijgen van een voorafgaande schriftelijke vergunning, toestemming of machtiging;<br /><br />2° het onderwerpen van een activiteit aan een voorafgaande, schriftelijke melding of kennisgeving.<br /><br />De Vlaamse regering of haar gemachtigde kan tevens tegen vergoeding gebodsbepalingen opleggen, al dan niet kaderend binnen een natuurrichtplan, aan de particuliere grondeigenaars of -gebruikers in:<br /><br />1° het VEN;<br /><br />2° een speciale beschermingszone in zoverre het maatregelen betreft zoals bedoeld in artikel 36ter , §§ 1 en 2;<br /><br />3° de overige gebieden die afgebakend zijn volgens of in uitvoering van internationale overeenkomsten of verdragen betreffende het natuurbehoud of van akten betreffende het natuurbehoud, met inbegrip van Europese richtlijnen, vastgesteld op grond van internationale verdragen.<br /><br />De Vlaamse regering kan nadere regels vaststellen inzake het opleggen van gebodsbepalingen aan de particuliere grondeigenaars of -gebruikers en inzake de vergoeding hiervoor.  <span class="reference">(verv. decr. 19 juli 2002, art. 4, I: 10 september 2002)</span> ]
 
 ## AFDELING 2 HET NATUURRAPPORT
 
@@ -73,7 +73,7 @@ Bij het opstellen van het natuurrapport worden de administratieve overheid, de r
 
 ### ART. 11.
 
-§ 1. De Vlaamse regering stelt een algemeen beleidsplan vast voor het natuurbehoud en het behoud van het natuurlijk milieu.<br /><br />Dit natuurbeleidsplan is een actieplan en kadert in het milieubeleidsplan bedoeld in artikel 2.1.7. en 2.1.11 van het decreet van 5 april 1995 houdende algemene bepalingen inzake milieubeleid. De Vlaamse regering bepaalt de delen van het natuurbeleidsplan die bindend zijn voor de administratieve overheid. Het natuurbeleidsplan kan te allen tijde door de Vlaamse regering geheel of gedeeltelijk worden herzien.<br /><br />§ 2. Onverminderd de bepalingen van artikel 2.1.7 en 2.1.11 van het decreet van 5 april 1995 houdende algemene bepalingen inzake milieubeleid omvat het natuurbeleidsplan de volgende deelplannen:<br /><br />1° het deelplan voor het gebiedsgericht beleid. Dit deelplan bevat:<br /><br />1) een nadere uitwerking van het gebiedsgericht beleid dat wordt ingebracht in het kader van het ruimtelijk beleid;<br /><br />2) een invulling van het VEN en het IVON, binnen de onderscheiden gebiedscategorieën;<br /><br />3) het deelplan kan ook voorstellen en acties bevatten voor de bevordering van kleine landschapselementen en groengebieden en bosgebieden conform de uitvoeringsplannen, van kracht in de ruimtelijke ordening, buiten het VEN en het IVON, voor de natuur in de bebouwde omgeving en voor de algemene natuurkwaliteit;<br /><br />2° een deelplan met betrekking tot de relatie tussen natuurdoelstellingen en milieukwaliteit in het VEN en in de groen-, park-, buffer- en bosgebieden van de uitvoeringsplannen van kracht in de ruimtelijke ordening, waarin de doelstellingen, maatregelen en indien nodig bijzondere milieukwaliteitsnormen worden vastgelegd die betrekking hebben op de chemische, fysische, morfologische en hydrologische kenmerken van het natuurlijk milieu in relatie tot de natuurdoeltypen;<br /><br />3° een deelplan voor het behoud van de soorten waarin de doelstelling en de maatregelen inzake de bescherming van levende organismen worden vastgelegd.<br /><br />In dit deelplan kunnen soortenbeschermingsplannen worden opgenomen met aanwijzing van de gebieden waarin deze van toepassing zullen zijn;<br /><br />4° een deelplan voor het doelgroepenbeleid. Daarin wordt de aard van de doelgroepen bepaald alsook de daarop betrekking hebbende doelstellingen, de initiatieven inzake educatie en voorlichting en de stimulerende maatregelen;<br /><br />5° een deelplan met betrekking tot de ondersteuning van de provinciale en lokale overheden.
+§ 1. De Vlaamse regering stelt een algemeen beleidsplan vast voor het natuurbehoud en het behoud van het natuurlijk milieu.<br /><br />Dit natuurbeleidsplan is een actieplan en kadert in het milieubeleidsplan bedoeld in artikel 2.1.7. en 2.1.11 van het decreet van 5 april 1995 houdende algemene bepalingen inzake milieubeleid. De Vlaamse regering bepaalt de delen van het natuurbeleidsplan die bindend zijn voor de administratieve overheid. Het natuurbeleidsplan kan te allen tijde door de Vlaamse regering geheel of gedeeltelijk worden herzien.<br /><br />§ 2. Onverminderd de bepalingen van artikel 2.1.7 en 2.1.11 van het decreet van 5 april 1995 houdende algemene bepalingen inzake milieubeleid omvat het natuurbeleidsplan de volgende deelplannen:<br /><br />1° het deelplan voor het gebiedsgericht beleid. Dit deelplan bevat : <br />(1) een nadere uitwerking van het gebiedsgericht beleid dat wordt ingebracht in het kader van het ruimtelijk beleid; <br />(2) een invulling van het VEN en het IVON, binnen de onderscheiden gebiedscategorieën; <br />(3) een vooruitblik op het tempo en de situering van de op te maken natuurrichtplannen in de betrokken planperiode; <br />(4) het deelplan kan ook voorstellen en acties bevatten voor de bevordering van kleine landschapselementen en groengebieden en bosgebieden conform de uitvoeringsplannen, van kracht in de ruimtelijke ordening, buiten het VEN en het IVON, voor de natuur in de bebouwde omgeving en voor de algemene natuurkwaliteit;<br /><br />2° een deelplan met betrekking tot de relatie tussen natuurdoelstellingen en milieukwaliteit in het VEN en in de groen-, park-, buffer- en bosgebieden van de uitvoeringsplannen van kracht in de ruimtelijke ordening, waarin de doelstellingen, maatregelen en indien nodig bijzondere milieukwaliteitsnormen worden vastgelegd die betrekking hebben op de chemische, fysische, morfologische en hydrologische kenmerken van het natuurlijk milieu in relatie tot de natuurdoeltypen;<br />3° een deelplan voor het behoud van de soorten waarin de doelstelling en de maatregelen inzake de bescherming van levende organismen worden vastgelegd.<br /><br />In dit deelplan kunnen soortenbeschermingsplannen worden opgenomen met aanwijzing van de gebieden waarin deze van toepassing zullen zijn;<br /><br />4° een deelplan voor het doelgroepenbeleid. Daarin wordt de aard van de doelgroepen bepaald alsook de daarop betrekking hebbende doelstellingen, de initiatieven inzake educatie en voorlichting en de stimulerende maatregelen;<br /><br />5° een deelplan met betrekking tot de ondersteuning van de provinciale en lokale overheden.
 
 ### ART. 12.
 
@@ -123,7 +123,7 @@ De Vlaamse regering stelt regels vast met betrekking tot het aanvragen, verlenen
 
 ### ART. 17.
 
-§ 1. Het Vlaams Ecologisch Netwerk is een samenhangend en georganiseerd geheel, van gebieden van de open ruimte waarin een specifiek beleid inzake het natuurbehoud, gebaseerd op de kenmerken en elementen van het natuurlijk milieu, de onderlinge samenhang tussen de gebieden van de open ruimte en de aanwezige en potentiële natuurwaarden wordt gevoerd.<br /><br />De Vlaamse regering bakent binnen 5 jaar na de inwerkingtreding van dit decreet een effectief te realiseren oppervlakte van 125 000 ha af, en draagt zorg voor de totstandkoming van de natuurrichtplannen binnen de periode van 10 jaar na de inwerkingtreding van dit decreet.<br /><br />§ 2. Het Vlaams Ecologisch Netwerk omvat de volgende onderdelen:<br /><br />1° Grote Eenheden Natuur (GEN): dit zijn gebieden die hetzij natuurelementen over een oppervlakte van minstens de helft van het gebied bevatten hetzij gebieden waarin een specifiek natuurelement met hoge natuurkwaliteit aanwezig is;<br /><br />2° Grote Eenheden Natuur in Ontwikkeling (GENO): dit zijn gebieden die één of meer van de volgende kenmerken vertonen:<br /><br />a) aanwezigheid van natuurelementen, verspreid over de oppervlakte van het gebied, waarvan de gezamenlijke oppervlakte echter kleiner kan zijn dan de helft van het gebied;<br /><br />b) aanwezigheid van belangrijke fauna- of floraelementen waarvan het voortbestaan moet worden ondersteund door de maatregelen inzake het grondgebruik;<br /><br />c) terreinen al dan niet door kunstmatige ingrepen tot stand gekomen, met belangrijke mogelijkheden voor natuur- ontwikkeling.<br /><br />De GEN en de GENO omvatten gebieden met een duidelijke samenhang en een voldoende aaneengesloten oppervlakte.<br /><br />§ 3. Elke GEN of GENO die de Vlaamse Regering in overdruk afbakent overeenkomstig de wetgeving betreffende de ruimtelijke ordening in gewestelijke ruimtelijke uitvoeringsplannen, wordt van rechtswege beschouwd als een GEN of GENO in de zin van dit decreet.<br /><br />Een volgens artikel 21 vastgesteld afbakeningsplan wordt van rechtswege opgeheven voor het onderdeel waarvoor nadien een ruimtelijk uitvoeringsplan in werking treedt dat aan dit onderdeel een bestemming geeft waardoor dit laatste niet meer krachtens artikel 20 van dit decreet zou kunnen worden aangeduid als GEN of GENO. Het voorontwerp van ruimtelijk uitvoeringsplan bevat voorstellen voor schadebeperkende en compenserende maatregelen. In het geval dergelijke opheffing gebeurt door middel van een gemeentelijk of een provinciaal ruimtelijk uitvoeringsplan, dient, voor wat die opheffing aangaat, het betrokken ontwerp van ruimtelijk uitvoeringsplan voorafgegaan te worden door een advies vanwege de administratie bevoegd voor het natuurbehoud, en dit uiterlijk tijdens de plenaire vergadering, vermeld in artikel 48, § 1, respectievelijk 44, § 1, van het decreet van 18 mei 1999 houdende de organisatie van de ruimtelijke ordening. Dit advies geeft de benodigde schadebeperking en compenserende maatregelen aan. Het advies is bindend. Het betrokken college van burgemeester en schepenen respectievelijk de betrokken bestendige deputatie kan, met het oog op herziening van dit advies, beroep aantekenen bij de Vlaamse Regering. De Vlaamse Regering kan nadere regels vaststellen inzake de te volgen procedure.<br /><br />De in het vorige lid bedoelde opheffing kan niet gebeuren bij middel van gemeentelijke of provinciale ruimtelijke uitvoeringsplannen wanneer het betrokken gedeelte van GEN of GENO gelegen is binnen een gebied dat definitief is vastgesteld als speciale beschermingszone in de zin van artikel 36bis, §§ 12 of 13. De in het vorige lid bedoelde opheffing kan maar gebeuren bij middel van gemeentelijke of provinciale ruimtelijke uitvoeringsplannen voor zover het om grenscorrecties gaat en voor zover er door deze opheffing geen betekenisvolle schade aan de natuur of het natuurlijk milieu in het VEN kan veroorzaakt worden.<br /><br />Het aldus opgeheven onderdeel van het afbakeningsplan herneemt zijn rechtskracht indien en in de mate het bedoelde ruimtelijk. uitvoeringsplan door de Raad van State wordt geschorst of vernietigd.<br />
+§ 1. Het Vlaams Ecologisch Netwerk is een samenhangend en georganiseerd geheel, van gebieden van de open ruimte waarin een specifiek beleid inzake het natuurbehoud, gebaseerd op de kenmerken en elementen van het natuurlijk milieu, de onderlinge samenhang tussen de gebieden van de open ruimte en de aanwezige en potentiële natuurwaarden wordt gevoerd.<br /><br />De Vlaamse regering bakent binnen 5 jaar na de inwerkingtreding van dit decreet een effectief te realiseren oppervlakte van 125 000 ha af, en draagt zorg voor de totstandkoming van de natuurrichtplannen in dat verband.<br /><br />§ 2. Het Vlaams Ecologisch Netwerk omvat de volgende onderdelen:<br />1° Grote Eenheden Natuur (GEN): dit zijn gebieden die hetzij natuurelementen over een oppervlakte van minstens de helft van het gebied bevatten hetzij gebieden waarin een specifiek natuurelement met hoge natuurkwaliteit aanwezig is;<br />2° Grote Eenheden Natuur in Ontwikkeling (GENO): dit zijn gebieden die één of meer van de volgende kenmerken vertonen:<br />a) aanwezigheid van natuurelementen, verspreid over de oppervlakte van het gebied, waarvan de gezamenlijke oppervlakte echter kleiner kan zijn dan de helft van het gebied;<br />b) aanwezigheid van belangrijke fauna- of floraelementen waarvan het voortbestaan moet worden ondersteund door de maatregelen inzake het grondgebruik;<br />c) terreinen al dan niet door kunstmatige ingrepen tot stand gekomen, met belangrijke mogelijkheden voor natuur- ontwikkeling.<br /><br />De GEN en de GENO omvatten gebieden met een duidelijke samenhang en een voldoende aaneengesloten oppervlakte.<br /><br />§ 3. Elke GEN of GENO die de Vlaamse Regering in overdruk afbakent overeenkomstig de wetgeving betreffende de ruimtelijke ordening in gewestelijke ruimtelijke uitvoeringsplannen, wordt van rechtswege beschouwd als een GEN of GENO in de zin van dit decreet.<br /><br />Een volgens artikel 21 vastgesteld afbakeningsplan wordt van rechtswege opgeheven voor het onderdeel waarvoor nadien een ruimtelijk uitvoeringsplan in werking treedt dat aan dit onderdeel een bestemming geeft waardoor dit laatste niet meer krachtens artikel 20 van dit decreet zou kunnen worden aangeduid als GEN of GENO. Het voorontwerp van ruimtelijk uitvoeringsplan bevat voorstellen voor schadebeperkende en compenserende maatregelen. In het geval dergelijke opheffing gebeurt door middel van een gemeentelijk of een provinciaal ruimtelijk uitvoeringsplan, dient, voor wat die opheffing aangaat, het betrokken ontwerp van ruimtelijk uitvoeringsplan voorafgegaan te worden door een advies vanwege de administratie bevoegd voor het natuurbehoud, en dit uiterlijk tijdens de plenaire vergadering, vermeld in artikel 48, § 1, respectievelijk 44, § 1, van het decreet van 18 mei 1999 houdende de organisatie van de ruimtelijke ordening. Dit advies geeft de benodigde schadebeperking en compenserende maatregelen aan. Het advies is bindend. Het betrokken college van burgemeester en schepenen respectievelijk de betrokken bestendige deputatie kan, met het oog op herziening van dit advies, beroep aantekenen bij de Vlaamse Regering. De Vlaamse Regering kan nadere regels vaststellen inzake de te volgen procedure.<br /><br />De in het vorige lid bedoelde opheffing kan niet gebeuren bij middel van gemeentelijke of provinciale ruimtelijke uitvoeringsplannen wanneer het betrokken gedeelte van GEN of GENO gelegen is binnen een gebied dat definitief is vastgesteld als speciale beschermingszone in de zin van artikel 36bis, §§ 12 of 13. De in het vorige lid bedoelde opheffing kan maar gebeuren bij middel van gemeentelijke of provinciale ruimtelijke uitvoeringsplannen voor zover het om grenscorrecties gaat en voor zover er door deze opheffing geen betekenisvolle schade aan de natuur of het natuurlijk milieu in het VEN kan veroorzaakt worden.<br /><br />Het aldus opgeheven onderdeel van het afbakeningsplan herneemt zijn rechtskracht indien en in de mate het bedoelde ruimtelijk. uitvoeringsplan door de Raad van State wordt geschorst of vernietigd.
 
 ### ART. 18.
 
@@ -169,7 +169,7 @@ De Vlaamse regering kan de gebiedscategorieën van het VEN, overeenkomstig de be
 
 ### ART. 27.
 
-§ 1. Het IVON is een geheel van gebieden waarin de administratieve overheid, binnen haar bevoegdheden, zorg draagt voor het behoud van de aanwezige natuurwaarden, maatregelen neemt ter bevordering en versterking van die natuurwaarden, alsook stimulerende maatregelen neemt ter bevordering van de biologische diversiteit.<br /><br />Deze maatregelen mogen de landbouw- en bosbouwexploitatie binnen het daartoe bestemd gebied niet regelen, tenzij via het instrument van de beheersovereenkomsten conform artikelen 45 en 46.<br /><br />§ 2. Het IVON omvat de volgende onderdelen:<br /><br />1° natuurverwevingsgebieden: dit zijn aaneengesloten gebieden waarin verschillende functies voorkomen en die gekenmerkt zijn door de aanwezigheid van hoge natuurwaarden, waarvan de duurzaamheid kan worden bereikt door het realiseren van het standstill-beginsel, het instandhouden en herstellen van de structuurkenmerken van de waterlopen, het instandhouden en herstellen van de waterhuishouding, het reliëf en de bodem en het bevorderen van het onderhoud en de ontwikkeling van de natuurwaarden.<br /><br />Als natuurverwevingsgebied kunnen worden aangeduid alle in artikel 20 aangeduide gebieden alsook de landschappelijk waardevolle agrarische gebieden en recreatiegebieden met toepassing van het decreet betreffende de ruimtelijke ordening gecoördineerd op 22 oktober 1996.<br /><br />De Vlaamse regering bakent binnen 5 jaar na de inwerkingtreding van dit decreet een effectief te realiseren oppervlakte van 150.000 ha natuurverwevingsgebieden af en draagt zorg voor de totstandkoming van de natuurrichtplannen binnen een periode van 10 jaar na de inwerkingtreding van dit decreet;<br /><br />2° natuurverbindingsgebieden: dit zijn gebieden die ongeacht hun oppervlakte van belang zijn voor de migratie van planten en dieren tussen de gebieden van het VEN en/of natuurreservaten en die strook- of lijnvormig zijn met een aaneenschakeling van kleine landschapselementen.<br /><br />§ 3. Elk natuurverwevingsgebied dat de Vlaamse regering in overdruk afbakent overeenkomstig de wetgeving betreffende de ruimtelijke ordening in een gewestelijk ruimtelijk uitvoeringsplan, wordt van rechtswege beschouwd als natuurverwevingsgebied in de zin van dit decreet.<br /><br />Elk natuurverbindingsgebied of met dit gebied vergelijkbaar gebied dat de provincieraad afbakent overeenkomstig de wetgeving betreffende de ruimtelijke ordening in een provinciaal ruimtelijk uitvoeringsplan, wordt van rechtswege beschouwd als natuurverbindingsgebied in de zin van dit decreet.<br /><br />Een volgens artikel 30, § 1, vastgesteld afbakeningsplan wordt van rechtswege opgeheven voor een onderdeel waarvoor later een gewestelijk ruimtelijk uitvoeringsplan in werking treedt dat aan dit onderdeel een bestemming geeft waardoor dit laatste niet meer krachtens artikel 27, § 2 van dit decreet zou kunnen worden aangeduid als onderdeel van het natuurverwevingsgebied. Het aldus opgeheven onderdeel van het afbakeningsplan herneemt zijn rechtskracht indien en in de mate het bedoelde ruimtelijk uitvoeringsplan door de Raad van State wordt geschorst of vernietigd. <br /><br />Een volgens artikel 30, § 2, vastgesteld afbakeningsplan van een natuurverbindingsgebied kan worden opgeheven door een gewestelijk of een provinciaal ruimtelijk uitvoeringsplan of door afbakeningen op basis van artikelen 21 of 30, § 1.
+§ 1. Het IVON is een geheel van gebieden waarin de administratieve overheid, binnen haar bevoegdheden, zorg draagt voor het behoud van de aanwezige natuurwaarden, maatregelen neemt ter bevordering en versterking van die natuurwaarden, alsook stimulerende maatregelen neemt ter bevordering van de biologische diversiteit.<br /><br />Deze maatregelen mogen de landbouw- en bosbouwexploitatie binnen het daartoe bestemd gebied niet regelen, tenzij via het instrument van de beheersovereenkomsten conform artikelen 45 en 46.<br /><br />§ 2. Het IVON omvat de volgende onderdelen:<br /><br />1° natuurverwevingsgebieden: dit zijn aaneengesloten gebieden waarin verschillende functies voorkomen en die gekenmerkt zijn door de aanwezigheid van hoge natuurwaarden, waarvan de duurzaamheid kan worden bereikt door het realiseren van het standstill-beginsel, het instandhouden en herstellen van de structuurkenmerken van de waterlopen, het instandhouden en herstellen van de waterhuishouding, het reliëf en de bodem en het bevorderen van het onderhoud en de ontwikkeling van de natuurwaarden.<br /><br />Als natuurverwevingsgebied kunnen worden aangeduid alle in artikel 20 aangeduide gebieden alsook de landschappelijk waardevolle agrarische gebieden en recreatiegebieden met toepassing van het decreet betreffende de ruimtelijke ordening gecoördineerd op 22 oktober 1996.<br /><br />De Vlaamse regering bakent binnen 5 jaar na de inwerkingtreding van dit decreet een effectief te realiseren oppervlakte van 150.000 ha natuurverwevingsgebieden af;<br /><br />2° natuurverbindingsgebieden: dit zijn gebieden die ongeacht hun oppervlakte van belang zijn voor de migratie van planten en dieren tussen de gebieden van het VEN en/of natuurreservaten en die strook- of lijnvormig zijn met een aaneenschakeling van kleine landschapselementen.<br /><br />§ 3. Elk natuurverwevingsgebied dat de Vlaamse regering in overdruk afbakent overeenkomstig de wetgeving betreffende de ruimtelijke ordening in een gewestelijk ruimtelijk uitvoeringsplan, wordt van rechtswege beschouwd als natuurverwevingsgebied in de zin van dit decreet.<br /><br />Elk natuurverbindingsgebied of met dit gebied vergelijkbaar gebied dat de provincieraad afbakent overeenkomstig de wetgeving betreffende de ruimtelijke ordening in een provinciaal ruimtelijk uitvoeringsplan, wordt van rechtswege beschouwd als natuurverbindingsgebied in de zin van dit decreet.<br /><br />Een volgens artikel 30, § 1, vastgesteld afbakeningsplan wordt van rechtswege opgeheven voor een onderdeel waarvoor later een gewestelijk ruimtelijk uitvoeringsplan in werking treedt dat aan dit onderdeel een bestemming geeft waardoor dit laatste niet meer krachtens artikel 27, § 2 van dit decreet zou kunnen worden aangeduid als onderdeel van het natuurverwevingsgebied. Het aldus opgeheven onderdeel van het afbakeningsplan herneemt zijn rechtskracht indien en in de mate het bedoelde ruimtelijk uitvoeringsplan door de Raad van State wordt geschorst of vernietigd. <br /><br />Een volgens artikel 30, § 2, vastgesteld afbakeningsplan van een natuurverbindingsgebied kan worden opgeheven door een gewestelijk of een provinciaal ruimtelijk uitvoeringsplan of door afbakeningen op basis van artikelen 21 of 30, § 1.
 
 ### ART. 28.
 
@@ -177,7 +177,7 @@ De Vlaamse regering kan de gebiedscategorieën van het VEN, overeenkomstig de be
 
 ### ART. 29.
 
-§ 1. [Behoudens in de groengebieden en bosgebieden en de met een van deze gebieden vergelijkbare bestemmingsgebieden, aangewezen op de plannen van aanleg of ruimtelijke uitvoeringsplannen van kracht in de ruimtelijke ordening, kunnen  <span class="reference">(verv. Decr. 19 juli 2002, art. 19, I: 10 september 2002)</span> ] [in de natuurverbindingsgebieden  <span class="reference">(ing. Decr. 22 april 2005, art. 14, I: 1 januari 2005)</span> ] [naast de maatregelen vermeld in hoofdstuk IV, afdeling 4 van dit hoofdstuk en hoofdstuk VI, ten aanzien van eigenaars en grondgebruikers slechts stimulerende maatregelen worden genomen en dit gericht op:<br /><br />1° inrichting met het oog op het instandhouden of verbeteren van de verbindingsfunctie;<br /><br />2° onderhoud, ontwikkeling en beheer van de kleine landschapselementen en overige verbindingselementen met inbegrip van waterlopen;<br /><br />3° de instandhouding en de ontwikkeling van de bestaande natuurelementen.  <span class="reference">(verv. decr. 19 juli 2002, art. 19, I: 10 september 2002)</span> ]<br /><br />§ 2. Voor het beheer en de ontwikkeling van kleine landschapselementen kunnen in relatie tot het natuurrichtplan [...  <span class="reference">(geschr. decr. 19 juli 2002, art. 19, I: 10 september 2002)</span> ] premies worden verleend door het Gewest, de betrokken provincie(s) en de betrokken gemeente(n), in de volgende procentuele verhouding: 25 percent door het Gewest, 7,5 percent door de provincie en 7,5 percent door de gemeente. Als de aanvrager een erkende terreinbeherende natuurvereniging of een erkende beheerscommissie is, worden de bedragen verdubbeld.<br /><br />De Vlaamse regering bepaalt de erkenningsvoorwaarden en -procedure van de beheerscommissies alsook de procedure inzake de toekenning van de premies.
+Behoudens in de groengebieden en bosgebieden en de met een van deze gebieden vergelijkbare bestemmingsgebieden, aangewezen op de plannen van aanleg of ruimtelijke uitvoeringsplannen van kracht in de ruimtelijke ordening, kunnen in de natuurverbindingsgebieden naast de maatregelen vermeld in hoofdstuk IV, afdeling 4 van dit hoofdstuk en hoofdstuk VI, ten aanzien van eigenaars en grondgebruikers slechts stimulerende maatregelen worden genomen en dit gericht op:<br />1° inrichting met het oog op het instandhouden of verbeteren van de verbindingsfunctie;<br />2° onderhoud, ontwikkeling en beheer van de kleine landschapselementen en overige verbindingselementen met inbegrip van waterlopen;<br />3° de instandhouding en de ontwikkeling van de bestaande natuurelementen.
 
 ### ART. 30.
 
@@ -203,7 +203,7 @@ Een Vlaams natuurreservaat is een beschermd gebied dat, na advies van de Raad, d
 
 ### ART. 35.
 
-§ 1. Binnen de natuurreservaten hebben, behoudens bij toepassing van het tweede of derde lid, de voetgangers steeds toegang tot alle wegen waarvoor de Vlaamse regering krachtens artikel 13, § 1, 6°, bevoegd is de toegang te regelen. Zij hebben echter geen toegang tot de paden waarop slechts één voetganger tegelijkertijd kan passeren, tenzij die paden in het goedgekeurde beheersplan als toegankelijk zijn aangeduid. Wat de voetgangers betreft, kan dit beheersplan tevens bepalen dat één of meerdere zones van het natuurreservaat ook buiten de wegen toegankelijk zijn.<br /><br />Andere categorieën van weggebruikers dan de voetgangers kunnen uitsluitend tot de wegen en de paden die krachtens het eerste lid voor de voetgangers toegankelijk zijn, worden toegelaten indien en in de mate het goedgekeurde beheersplan dit uitdrukkelijk toelaat.<br /><br />Het goedgekeurde beheersplan van een natuurreservaat kan bepalen dat het reservaat geheel of gedeeltelijk en bestendig, tijdelijk of periodiek ontoegankelijk is, de in het eerste lid bedoelde wegen en paden inbegrepen. Deze ontoegankelijkheid dient op een duidelijk zichtbare wijze te worden aangeduid langs de belangrijkste toegangswegen tot het reservaat of reservaatgedeelte dat ontoegankelijk wordt gesteld. De Vlaamse regering legt de vorm en de wijze vast waarop die aanduiding moet gebeuren.<br /><br />De ambtenaar bedoeld in artikel 34, § 2, kan ten allen tijde, zo mogelijk in overleg met de bevoegde adviescommissie bedoeld in artikel 34, § 3, beslissen dat het Vlaamse natuurreservaat met het beheer waarvan hij belast is, voor een welbepaalde duur geheel of gedeeltelijk ontoegankelijk is, de in het eerste lid bedoelde wegen en paden inbegrepen, omwille van het brandgevaar, de bescherming van de fauna tijdens het voortplantingsseizoen of wegens het bestaan van ernstige bedreigingen voor de te beschermen planten- of diersoorten. De beheerder van een erkend reservaat heeft dezelfde bevoegdheid voor zijn reservaat, maar zijn beslissing behoeft wel de goedkeuring van het Agentschap voor Natuur en Bos. Wat betreft de vorm en de wijze van het aanduiden van de in dit lid bedoelde ontoegankelijkheid, gelden de bepalingen van het vorige lid.<br /><br />§ 2. Binnen de natuurreservaten is het verboden, behoudens ontheffing in het goedgekeurd beheersplan:<br />1° individuele of groepssporten te beoefenen;<br />2° gemotoriseerde voertuigen te gebruiken of achter te laten tenzij die nodig zijn voor het beheer en de bewaking van het reservaat of voor de hulp aan personen in nood;<br />3° keten, loodsen, tenten of andere constructies te plaatsen, zelfs tijdelijk;<br />4° de rust te verstoren of reclame te maken op welke wijze ook;<br />5° in het wild levende diersoorten opzettelijk te verstoren, vooral tijdens de perioden van voortplanting, afhankelijkheid van de jongen of overwintering en trek; ze opzettelijk te vangen of te doden; hun eieren opzettelijk te rapen of te vernielen of hun nesten, voortplantingsplaatsen of rust- en schuilplaatsen te vernielen of te beschadigen;<br />6° planten opzettelijk te plukken, te verzamelen, af te snijden, te ontwortelen of te vernielen of planten of vegetatie op welke wijze ook te beschadigen of te vernietigen;<br />7° opgravingen, boringen, grondwerkzaamheden of exploitatie van materialen te verrichten, welk werk ook uit te voeren dat de aard van de grond, het uitzicht van het terrein, de bronnen en het hydrografisch net zou kunnen wijzigen, boven- of ondergrondse leidingen te leggen en reclameborden en aanplakbrieven te plaatsen;<br />8° vuur te maken en afval te storten;<br />9° bestrijdingsmiddelen te gebruiken;<br />10° meststoffen te gebruiken, met uitzondering van de natuurlijke uitscheiding als gevolg van extensieve begrazing;<br />11° het waterpeil te wijzigen en op kunstmatige wijze water te lozen;<br />12° het terrein op geringe hoogte te overvliegen of er te landen met vliegtuigen, helikopters, luchtballons en andere luchtvaartuigen van om het even welke aard.<br /><br />Deze maatregelen kunnen evenwel geen erfdienstbaarheden opleggen op de omliggende gebieden.<br /><br />De Vlaamse regering kan om redenen van natuurbehoud bijkomende algemene maatregelen treffen voor natuurreservaten.<br /><br />De Vlaamse regering of haar gemachtigde kan in het belang van het natuurbehoud, de volksgezondheid of het wetenschappelijk onderzoek, ter voorkoming van disproportionele schade ontheffing verlenen van de in dit artikel bedoelde verbodsbepalingen.
+§ 1. Binnen de natuurreservaten hebben, behoudens bij toepassing van het tweede of derde lid, de voetgangers steeds toegang tot alle wegen waarvoor de Vlaamse regering krachtens artikel 13, § 1, 6°, bevoegd is de toegang te regelen. Zij hebben echter geen toegang tot de paden waarop slechts één voetganger tegelijkertijd kan passeren, tenzij die paden in het goedgekeurde beheersplan als toegankelijk zijn aangeduid. Wat de voetgangers betreft, kan dit beheersplan tevens bepalen dat één of meerdere zones van het natuurreservaat ook buiten de wegen toegankelijk zijn.<br /><br />Andere categorieën van weggebruikers dan de voetgangers kunnen tot de wegen en de paden die krachtens het eerste lid voor de voetgangers toegankelijk zijn, worden toegelaten voor zover het goedgekeurde beheersplan dit uitdrukkelijk toelaat of voor zover dit medegebruik toegelaten wordt in uitvoering van artikel 13, § 1, 6°. <br /><br />Het goedgekeurde beheersplan van een natuurreservaat kan bepalen dat het reservaat geheel of gedeeltelijk en bestendig, tijdelijk of periodiek ontoegankelijk is, de in het eerste lid bedoelde wegen en paden inbegrepen. Deze ontoegankelijkheid dient op een duidelijk zichtbare wijze te worden aangeduid langs de belangrijkste toegangswegen tot het reservaat of reservaatgedeelte dat ontoegankelijk wordt gesteld. De Vlaamse regering legt de vorm en de wijze vast waarop die aanduiding moet gebeuren.<br /><br />De ambtenaar bedoeld in artikel 34, § 2, kan ten allen tijde, zo mogelijk in overleg met de bevoegde adviescommissie bedoeld in artikel 34, § 3, beslissen dat het Vlaamse natuurreservaat met het beheer waarvan hij belast is, voor een welbepaalde duur geheel of gedeeltelijk ontoegankelijk is, de in het eerste lid bedoelde wegen en paden inbegrepen, omwille van het brandgevaar, de bescherming van de fauna tijdens het voortplantingsseizoen of wegens het bestaan van ernstige bedreigingen voor de te beschermen planten- of diersoorten. De beheerder van een erkend reservaat heeft dezelfde bevoegdheid voor zijn reservaat, maar zijn beslissing behoeft wel de goedkeuring van het Agentschap voor Natuur en Bos. Wat betreft de vorm en de wijze van het aanduiden van de in dit lid bedoelde ontoegankelijkheid, gelden de bepalingen van het vorige lid.<br /><br />§ 2. Binnen de natuurreservaten is het verboden, behoudens ontheffing in het goedgekeurd beheersplan:<br />1° individuele of groepssporten te beoefenen;<br />2° gemotoriseerde voertuigen te gebruiken of achter te laten tenzij die nodig zijn voor het beheer en de bewaking van het reservaat of voor de hulp aan personen in nood;<br />3° keten, loodsen, tenten of andere constructies te plaatsen, zelfs tijdelijk;<br />4° de rust te verstoren of reclame te maken op welke wijze ook;<br />5° in het wild levende diersoorten opzettelijk te verstoren, vooral tijdens de perioden van voortplanting, afhankelijkheid van de jongen of overwintering en trek; ze opzettelijk te vangen of te doden; hun eieren opzettelijk te rapen of te vernielen of hun nesten, voortplantingsplaatsen of rust- en schuilplaatsen te vernielen of te beschadigen;<br />6° planten opzettelijk te plukken, te verzamelen, af te snijden, te ontwortelen of te vernielen of planten of vegetatie op welke wijze ook te beschadigen of te vernietigen;<br />7° opgravingen, boringen, grondwerkzaamheden of exploitatie van materialen te verrichten, welk werk ook uit te voeren dat de aard van de grond, het uitzicht van het terrein, de bronnen en het hydrografisch net zou kunnen wijzigen, boven- of ondergrondse leidingen te leggen en reclameborden en aanplakbrieven te plaatsen;<br />8° vuur te maken en afval te storten;<br />9° bestrijdingsmiddelen te gebruiken;<br />10° meststoffen te gebruiken, met uitzondering van de natuurlijke uitscheiding als gevolg van extensieve begrazing;<br />11° het waterpeil te wijzigen en op kunstmatige wijze water te lozen;<br />12° het terrein op geringe hoogte te overvliegen of er te landen met vliegtuigen, helikopters, luchtballons en andere luchtvaartuigen van om het even welke aard.<br /><br />Deze maatregelen kunnen evenwel geen erfdienstbaarheden opleggen op de omliggende gebieden.<br /><br />De Vlaamse regering kan om redenen van natuurbehoud bijkomende algemene maatregelen treffen voor natuurreservaten.<br /><br />De Vlaamse regering of haar gemachtigde kan in het belang van het natuurbehoud, de volksgezondheid of het wetenschappelijk onderzoek, ter voorkoming van disproportionele schade ontheffing verlenen van de in dit artikel bedoelde verbodsbepalingen. <br /><br />De Vlaamse Regering kan bepalen dat het Agentschap ontheffing kan verlenen van de in deze paragraaf opgesomde verbodsbepalingen, met het oog op het recreatief of educatief medegebruik en voor zover dit medegebruik inpasbaar is in de doelstellingen van het natuurreservaat.
 
 ### ART. 36.
 
@@ -213,7 +213,7 @@ Een Vlaams natuurreservaat is een beschermd gebied dat, na advies van de Raad, d
 
 ### ART. 36bis.
 
-§ 1. De Vlaamse regering stelt, op voorstel van het Instituut voor Natuur- en Bosonderzoek, de gebieden die in aanmerking komen als speciale beschermingszone voorlopig vast via een vaststellingsbesluit.<br /><br />Het voorlopige vaststellingsbesluit bevat een grafisch plan dat aangeeft voor welk gebied of welke gebieden het besluit van toepassing is, evenals een wetenschappelijke omschrijving en een situering van het gebied of de gebieden. De Vlaamse regering kan de nadere regels vaststellen met betrekking tot de inhoud en de vorm van dit besluit.<br /><br />Voor de speciale beschermingszones in toepassing van de Habitatrichtlijn gebeurt de voorlopige vaststelling op grond van de criteria van bijlage V van dit decreet en van de relevante wetenschappelijke gegevens.<br /><br />Voor de speciale beschermingszones in toepassing van de Vogelrichtlijn worden de gebieden aangewezen die naar aantal en oppervlakte het meest geschikt zijn voor de instandhouding van:<br /><br />- de soorten van bijlage IV van dit decreet;<br /><br />- de niet in bijlage IV van dit decreet genoemde en op het grondgebied van het Vlaamse Gewest geregeld voorkomende trekvogels, waarbij rekening wordt gehouden met hun behoefte aan bescherming ten aanzien van hun broed-, rui-, foerageer- en overwinteringsgebieden en de rustplaatsen in hun trekzones.<br /><br />§ 2. De Vlaamse regering onderwerpt het voorlopige vaststellingsbesluit aan een openbaar onderzoek dat binnen 30 dagen na de voorlopige vaststelling minstens wordt aangekondigd door:<br /><br />1° aanplakking in elke gemeente waarop de bedoelde vaststelling geheel of gedeeltelijk betrekking heeft;<br /><br />2° een bericht in het Belgisch Staatsblad en in ten minste drie dagbladen die in het Vlaamse Gewest worden verspreid;<br /><br />3° een bericht dat driemaal door de openbare radio en televisie wordt uitgezonden.<br /><br />Deze aankondiging vermeldt minstens:<br /><br />1° de gemeenten waarop de bedoelde vaststelling geheel of gedeeltelijk betrekking heeft;<br /><br />2° waar het voorlopige vaststellingsbesluit en de in § 3 bedoelde nota ter inzage liggen;<br /><br />3° de begin- en einddatum van het openbaar onderzoek;<br /><br />4° het adres van het Agentschap voor Natuur en Bos waar adviezen, opmerkingen en bezwaren, vermeld in § 4, dienen toe te komen of kunnen worden afgegeven, en de vermelding dat opmerkingen en bezwaren ook kunnen worden afgegeven op het gemeentehuis van de gemeenten waarop de bedoelde vaststelling geheel of gedeeltelijk betrekking heeft.<br /><br />§ 3. Na de aankondiging wordt het voorlopige vaststellingsbesluit samen met een nota betreffende de gevolgde methode voor afbakening van de voorlopig vastgestelde gebieden gedurende 60 dagen ter inzage gelegd in het gemeentehuis van elke gemeente waarop de bedoelde vaststelling geheel of gedeeltelijk betrekking heeft.<br /><br />§ 4. Opmerkingen en bezwaren worden uiterlijk de laatste dag van de termijn van het openbaar onderzoek per aangetekende brief toegezonden aan het Agentschap voor Natuur en Bos of afgegeven tegen ontvangstbewijs.<br /><br />De bezwaren en opmerkingen kunnen ook uiterlijk de laatste dag van die termijn aan het gemeentehuis van elke gemeente bedoeld in § 2, eerste lid, 1°, worden afgegeven tegen ontvangstbewijs of mondeling worden meegedeeld aan de burgemeester of zijn gemachtigde ambtenaar die hiervan een proces verbaal opmaakt. De gemeente bezorgt in dat geval uiterlijk de tiende werkdag na het openbaar onderzoek, de bezwaren en opmerkingen aan het Agentschap voor Natuur en Bos. Met bezwaren en opmerkingen die laattijdig aan het Agentschap voor Natuur en Bos worden bezorgd, moet geen rekening worden gehouden. De Vlaamse regering kan nadere regels vaststellen met betrekking tot het ontvangen en bijhouden van bezwaren en opmerkingen door de gemeente en met betrekking tot de wijze waarop deze aan het Agentschap voor Natuur en Bos worden bezorgd.<br /><br />De administratie bevoegd voor de ruimtelijke ordening kan aan het Agentschap voor Natuur en Bos een advies bezorgen uiterlijk de laatste dag van het openbaar onderzoek.<br /><br />§ 5. het Agentschap voor Natuur en Bos bundelt en coördineert alle adviezen, opmerkingen en bezwaren en brengt binnen 90 dagen na het einde van het openbaar onderzoek gemotiveerd advies uit bij de Vlaamse regering. Dit advies omvat tevens het advies van het Instituut om na te gaan of de voorgestelde wijzigingen aan de gebieden die in aanmerking komen als speciale beschermingszone, voldoen aan de criteria vermeld in § 1, derde of vierde lid.<br /><br />Samen met het gemotiveerd advies bezorgt het Agentschap voor Natuur en Bos de Vlaamse regering de gebundelde adviezen, opmerkingen en bezwaren.<br /><br />§ 6. De Vlaamse regering stelt binnen 150 dagen na het einde van het openbaar onderzoek de gebieden die in aanmerking komen als speciale beschermingszone definitief vast.<br /><br />Bij de definitieve vaststelling van de gebieden bedoeld in het eerste lid kunnen ten opzichte van het voorlopige vaststellingsbesluit slechts wijzigingen worden aangebracht, die gebaseerd zijn op of voortvloeien uit de tijdens het openbaar onderzoek geformuleerde bezwaren en opmerkingen of de adviezen, en dit telkens voor zover hierbij de bepalingen van § 1, derde of vierde lid, worden in acht genomen.<br /><br />De definitieve vaststelling van de gebieden bedoeld in het eerste lid kan echter geen betrekking hebben op delen van het grondgebied die niet opgenomen zijn in het voorlopig vaststellingsbesluit.<br /><br />§ 7. Het definitieve vaststellingsbesluit wordt door de Vlaamse regering bij uittreksel bekendgemaakt in het Belgisch Staatsblad binnen 30 dagen na de definitieve vaststelling. Het besluit treedt in werking veertien dagen na de bekendmaking. De kaarten hebben voorrang op het tekstgedeelte.<br /><br />De Vlaamse regering stuurt een afschrift van het definitieve vaststellingsbesluit naar de betrokken provincie(s) en gemeenten, waar het kan worden ingekeken.<br /><br />Voor de speciale beschermingszones in toepassing van de Vogelrichtlijn vormt het definitieve vaststellingsbesluit tevens het aanwijzingsbesluit zoals bedoeld in § 9.<br /><br />§ 8. Binnen de termijn bedoeld in § 7, tweede lid, zendt de Vlaamse regering het in § 7 bedoelde besluit toe aan de Europese Commissie.<br /><br />§ 9. Binnen drie maanden nadat de Commissie een in het Vlaamse Gewest gelegen gebied van communautair belang heeft verklaard, wijst de Vlaamse regering dit gebied bij besluit aan als speciale beschermingszone. Dit gebeurt met inachtneming van de bepalingen van § 1, tweede lid.<br /><br />Dit aanwijzingsbesluit wordt door de Vlaamse regering bij uittreksel bekendgemaakt in het Belgisch Staatsblad.<br /><br />Het aanwijzingsbesluit treedt in werking veertien dagen na de bekendmaking. De kaarten hebben voorrang op het tekstgedeelte.<br /><br />De Vlaamse regering stuurt een afschrift van het aanwijzingsbesluit aan de betrokken provincie(s) en gemeenten, waar het kan worden ingekeken.<br /><br />§ 10. Het in § 9 bedoelde aanwijzingsbesluit vervangt vanaf zijn inwerkingtreding het in § 12 bedoelde besluit of het besluit houdende definitieve vaststelling van de gebieden bedoeld in § 6, eerste lid, wat betreft elk gebied dat het voorwerp uitmaakt van het eerstgenoemde besluit.<br /><br />Binnen drie maanden nadat de Commissie beslist heeft een gebied dat definitief vastgesteld werd krachtens § 6 of dat het voorwerp uitmaakt van het in § 12 bedoelde besluit, niet van communautair belang te verklaren, heft de Vlaamse regering het betreffende besluit op voor zover het betrekking heeft op dat gebied. De Vlaamse regering stuurt een afschrift van het opheffingsbesluit naar de betrokken provincie(s) en gemeenten.<br /><br />§ 11. Wat betreft de gebieden waarop de in artikel 5 van de Habitatrichtlijn bedoelde overlegprocedure betrekking heeft, neemt elke administratieve overheid, binnen haar bevoegheden, de nodige maatregelen om er gedurende de overlegperiode en in afwachting van een besluit van de Europese Raad een ernstige aantasting van de natuurkwaliteit te voorkomen. Op de gebieden die als gevolg van het overleg of krachtens het besluit van de Europese Raad geselecteerd zijn als gebied van communautair belang, zijn de bepalingen van § 9 van overeenkomstige toepassing.<br /><br />§ 12. De gebieden bedoeld in het besluit van de Vlaamse regering van 24 mei 2002 tot vaststelling van de gebieden die in uitvoering van artikel 4, lid 1, van Richtlijn 92/43/EEG van de Raad van de Europese Gemeenschappen van 21 mei 1992 inzake de instandhouding van de natuurlijke habitats en de wilde flora en fauna aan de Europese Commissie zijn voorgesteld als speciale beschermingszones worden geacht definitief te zijn vastgesteld, in de zin van § 6.<br /><br />§ 13. Elke zone bedoeld in artikel 1, § 2, van het besluit van de Vlaamse regering van 17 oktober 1988 tot aanwijzing van speciale beschermingszones in de zin van artikel 4 van de Vogelrichtlijn en elke in artikel 1, § 3, van dat besluit bedoelde zone voor zover het de in die paragraaf vermelde bestemmingsgebieden en de voor die zone vermelde habitats betreft, worden beschouwd als definitief vastgesteld, in de zin van § 6.<br /><br />§ 14. De bepalingen van dit decreet voor de vaststelling van de gebieden die in aanmerking komen als speciale beschermingszone en voor de aanwijzing van de speciale beschermingszone, zijn eveneens van toepassing op de herziening ervan.<br /><br />§ 15. Zodra een gebied dat in aanmerking komt als speciale beschermingszone definitief is vastgesteld in de zin van § 6 of § 12, wordt het voor de toepassing van de artikelen 13, § 4, 34, 36, 36ter , §§ 2 tot 6, 47 en 48 van dit decreet beschouwd als speciale beschermingszone.<br /><br />Een gebied dat definitief is vastgesteld in de zin van § 6 of § 12, is tevens onderworpen aan artikel 19 van het Bosdecreet, artikel 16 van het decreet van 16 april 1996 betreffende de landschapszorg, artikel 13 van het decreet van 21 december 1998 houdende de oprichting van de Vlaamse Landmaatschappij, de artikelen 62, 70 en 71 van de wet van 22 juli 1970 op de ruilverkaveling van landeigendommen uit kracht van de wet en de artikelen 15ter , §§ 4 en 5, en 15sexies , § 1, van het Mestdecreet.
+§ 1. De Vlaamse regering stelt, op voorstel van het Instituut voor Natuur- en Bosonderzoek, de gebieden die in aanmerking komen als speciale beschermingszone voorlopig vast via een vaststellingsbesluit.<br /><br />Het voorlopige vaststellingsbesluit bevat een grafisch plan dat aangeeft voor welk gebied of welke gebieden het besluit van toepassing is, evenals een wetenschappelijke omschrijving en een situering van het gebied of de gebieden. De Vlaamse regering kan de nadere regels vaststellen met betrekking tot de inhoud en de vorm van dit besluit.<br /><br />Voor de speciale beschermingszones in toepassing van de Habitatrichtlijn gebeurt de voorlopige vaststelling op grond van de criteria van bijlage V van dit decreet en van de relevante wetenschappelijke gegevens.<br /><br />Voor de speciale beschermingszones in toepassing van de Vogelrichtlijn worden de gebieden aangewezen die naar aantal en oppervlakte het meest geschikt zijn voor de instandhouding van:<br />- de soorten van bijlage IV van dit decreet;<br />- de niet in bijlage IV van dit decreet genoemde en op het grondgebied van het Vlaamse Gewest geregeld voorkomende trekvogels, waarbij rekening wordt gehouden met hun behoefte aan bescherming ten aanzien van hun broed-, rui-, foerageer- en overwinteringsgebieden en de rustplaatsen in hun trekzones.<br /><br />§ 2. De Vlaamse regering onderwerpt het voorlopige vaststellingsbesluit aan een openbaar onderzoek dat binnen 30 dagen na de voorlopige vaststelling minstens wordt aangekondigd door:<br />1° aanplakking in elke gemeente waarop de bedoelde vaststelling geheel of gedeeltelijk betrekking heeft;<br />2° een bericht in het Belgisch Staatsblad en in ten minste drie dagbladen die in het Vlaamse Gewest worden verspreid;<br />3° een bericht dat driemaal door de openbare radio en televisie wordt uitgezonden.<br /><br />Deze aankondiging vermeldt minstens:<br />1° de gemeenten waarop de bedoelde vaststelling geheel of gedeeltelijk betrekking heeft;<br />2° waar het voorlopige vaststellingsbesluit en de in § 3 bedoelde nota ter inzage liggen;<br />3° de begin- en einddatum van het openbaar onderzoek;<br />4° het adres van het Agentschap voor Natuur en Bos waar adviezen, opmerkingen en bezwaren, vermeld in § 4, dienen toe te komen of kunnen worden afgegeven, en de vermelding dat opmerkingen en bezwaren ook kunnen worden afgegeven op het gemeentehuis van de gemeenten waarop de bedoelde vaststelling geheel of gedeeltelijk betrekking heeft.<br /><br />§ 3. Na de aankondiging wordt het voorlopige vaststellingsbesluit samen met een nota betreffende de gevolgde methode voor afbakening van de voorlopig vastgestelde gebieden gedurende 60 dagen ter inzage gelegd in het gemeentehuis van elke gemeente waarop de bedoelde vaststelling geheel of gedeeltelijk betrekking heeft.<br /><br />§ 4. Opmerkingen en bezwaren worden uiterlijk de laatste dag van de termijn van het openbaar onderzoek per aangetekende brief toegezonden aan het Agentschap voor Natuur en Bos of afgegeven tegen ontvangstbewijs.<br /><br />De bezwaren en opmerkingen kunnen ook uiterlijk de laatste dag van die termijn aan het gemeentehuis van elke gemeente bedoeld in § 2, eerste lid, 1°, worden afgegeven tegen ontvangstbewijs of mondeling worden meegedeeld aan de burgemeester of zijn gemachtigde ambtenaar die hiervan een proces verbaal opmaakt. De gemeente bezorgt in dat geval uiterlijk de tiende werkdag na het openbaar onderzoek, de bezwaren en opmerkingen aan het Agentschap voor Natuur en Bos. Met bezwaren en opmerkingen die laattijdig aan het Agentschap voor Natuur en Bos worden bezorgd, moet geen rekening worden gehouden. De Vlaamse regering kan nadere regels vaststellen met betrekking tot het ontvangen en bijhouden van bezwaren en opmerkingen door de gemeente en met betrekking tot de wijze waarop deze aan het Agentschap voor Natuur en Bos worden bezorgd.<br /><br />De administratie bevoegd voor de ruimtelijke ordening kan aan het Agentschap voor Natuur en Bos een advies bezorgen uiterlijk de laatste dag van het openbaar onderzoek.<br /><br />§ 5. het Agentschap voor Natuur en Bos bundelt en coördineert alle adviezen, opmerkingen en bezwaren en brengt binnen 90 dagen na het einde van het openbaar onderzoek gemotiveerd advies uit bij de Vlaamse regering. Dit advies omvat tevens het advies van het Instituut om na te gaan of de voorgestelde wijzigingen aan de gebieden die in aanmerking komen als speciale beschermingszone, voldoen aan de criteria vermeld in § 1, derde of vierde lid.<br /><br />Samen met het gemotiveerd advies bezorgt het Agentschap voor Natuur en Bos de Vlaamse regering de gebundelde adviezen, opmerkingen en bezwaren.<br /><br />§ 6. De Vlaamse regering stelt binnen 150 dagen na het einde van het openbaar onderzoek de gebieden die in aanmerking komen als speciale beschermingszone definitief vast.<br /><br />Bij de definitieve vaststelling van de gebieden bedoeld in het eerste lid kunnen ten opzichte van het voorlopige vaststellingsbesluit slechts wijzigingen worden aangebracht, die gebaseerd zijn op of voortvloeien uit de tijdens het openbaar onderzoek geformuleerde bezwaren en opmerkingen of de adviezen, en dit telkens voor zover hierbij de bepalingen van § 1, derde of vierde lid, worden in acht genomen.<br /><br />De definitieve vaststelling van de gebieden bedoeld in het eerste lid kan echter geen betrekking hebben op delen van het grondgebied die niet opgenomen zijn in het voorlopig vaststellingsbesluit.<br /><br />§ 7. Het definitieve vaststellingsbesluit wordt door de Vlaamse regering bij uittreksel bekendgemaakt in het Belgisch Staatsblad binnen 30 dagen na de definitieve vaststelling. Het besluit treedt in werking veertien dagen na de bekendmaking. De kaarten hebben voorrang op het tekstgedeelte.<br /><br />De Vlaamse regering stuurt een afschrift van het definitieve vaststellingsbesluit naar de betrokken provincie(s) en gemeenten, waar het kan worden ingekeken.<br /><br />Voor de speciale beschermingszones in toepassing van de Vogelrichtlijn vormt het definitieve vaststellingsbesluit tevens het aanwijzingsbesluit zoals bedoeld in § 9.<br /><br />§ 8. Binnen de termijn bedoeld in § 7, tweede lid, zendt de Vlaamse regering het in § 7 bedoelde besluit toe aan de Europese Commissie.<br /><br />§ 9. Nadat de Commissie een op grond van § 8 voorgelegd gebied van communautair belang heeft verklaard, wijst de Vlaamse Regering dit gebied zo spoedig mogelijk, doch uiterlijk binnen de zes jaar, bij besluit aan als speciale beschermingszone. Dit gebeurt met inachtneming van de bepalingen van § 1, tweede lid. <br /><br />Dit aanwijzingsbesluit wordt door de Vlaamse regering bij uittreksel bekendgemaakt in het Belgisch Staatsblad.<br /><br />Het aanwijzingsbesluit treedt in werking veertien dagen na de bekendmaking. De kaarten hebben voorrang op het tekstgedeelte.<br /><br />De Vlaamse regering stuurt een afschrift van het aanwijzingsbesluit aan de betrokken provincie(s) en gemeenten, waar het kan worden ingekeken.<br /><br />§ 10. Het in § 9 bedoelde aanwijzingsbesluit vervangt vanaf zijn inwerkingtreding het in § 12 bedoelde besluit of het besluit houdende definitieve vaststelling van de gebieden bedoeld in § 6, eerste lid, wat betreft elk gebied dat het voorwerp uitmaakt van het eerstgenoemde besluit.<br /><br />Binnen drie maanden nadat de Commissie beslist heeft een gebied dat definitief vastgesteld werd krachtens § 6 of dat het voorwerp uitmaakt van het in § 12 bedoelde besluit, niet van communautair belang te verklaren, heft de Vlaamse regering het betreffende besluit op voor zover het betrekking heeft op dat gebied. De Vlaamse regering stuurt een afschrift van het opheffingsbesluit naar de betrokken provincie(s) en gemeenten.<br /><br />§ 11. Wat betreft de gebieden waarop de in artikel 5 van de Habitatrichtlijn bedoelde overlegprocedure betrekking heeft, neemt elke administratieve overheid, binnen haar bevoegheden, de nodige maatregelen om er gedurende de overlegperiode en in afwachting van een besluit van de Europese Raad een ernstige aantasting van de natuurkwaliteit te voorkomen. Op de gebieden die als gevolg van het overleg of krachtens het besluit van de Europese Raad geselecteerd zijn als gebied van communautair belang, zijn de bepalingen van § 9 van overeenkomstige toepassing.<br /><br />§ 12. De gebieden bedoeld in het besluit van de Vlaamse regering van 24 mei 2002 tot vaststelling van de gebieden die in uitvoering van artikel 4, lid 1, van Richtlijn 92/43/EEG van de Raad van de Europese Gemeenschappen van 21 mei 1992 inzake de instandhouding van de natuurlijke habitats en de wilde flora en fauna aan de Europese Commissie zijn voorgesteld als speciale beschermingszones worden geacht definitief te zijn vastgesteld, in de zin van § 6.<br /><br />§ 13. Elke zone bedoeld in artikel 1, § 2, van het besluit van de Vlaamse regering van 17 oktober 1988 tot aanwijzing van speciale beschermingszones in de zin van artikel 4 van de Vogelrichtlijn en elke in artikel 1, § 3, van dat besluit bedoelde zone voor zover het de in die paragraaf vermelde bestemmingsgebieden en de voor die zone vermelde habitats betreft, worden beschouwd als definitief vastgesteld, in de zin van § 6.<br /><br />§ 14. De bepalingen van dit decreet voor de vaststelling van de gebieden die in aanmerking komen als speciale beschermingszone en voor de aanwijzing van de speciale beschermingszone, zijn eveneens van toepassing op de herziening ervan.<br /><br />§ 15. Zodra een gebied dat in aanmerking komt als speciale beschermingszone definitief is vastgesteld in de zin van § 6 of § 12, wordt het voor de toepassing van de artikelen 13, § 4, 34, 36, 36ter , §§ 2 tot 6, 47 en 48 van dit decreet beschouwd als speciale beschermingszone.<br /><br />Een gebied dat definitief is vastgesteld in de zin van § 6 of § 12, is tevens onderworpen aan artikel 19 van het Bosdecreet, artikel 16 van het decreet van 16 april 1996 betreffende de landschapszorg, artikel 13 van het decreet van 21 december 1998 houdende de oprichting van de Vlaamse Landmaatschappij, de artikelen 62, 70 en 71 van de wet van 22 juli 1970 op de ruilverkaveling van landeigendommen uit kracht van de wet en de artikelen 15ter , §§ 4 en 5, en 15sexies , § 1, van het Mestdecreet.
 
 ### ART. 36ter.
 
@@ -259,11 +259,11 @@ De eigenaar van een onroerend goed kan van de Vlaamse Grondenbank de verwerving 
 
 ### ART. 45.
 
-§ 1. De Vlaamse regering kan met de grondgebruikers, mits deze laatsten hiervan de eigenaar bij aangetekend schrijven in kennis stellen, beheersovereenkomsten sluiten in het belang van het natuurbehoud. Ze legt de verdere regels vast voor het afsluiten van deze beheersovereenkomsten. Voor gronden die onder de pachtwetgeving vallen en de laatste jaar verpacht werden, kunnen deze beheersovereenkomsten enkel afgesloten worden met beroepslandbouwers.<br /><br />§ 2. Een beheersovereenkomst is een overeenkomst waarbij de grondgebruiker zich vrijwillig ertoe verbindt gedurende een bepaalde termijn een vooraf bepaalde prestatie te leveren gericht op het bereiken van een hogere kwaliteit dan de basismilieukwaliteit, door het onderhouden of ontwikkelen van natuurwaarden, tegen betaling van een vooraf bepaalde vergoeding, binnen de perken van de begroting.<br /><br />Deze vergoeding wordt berekend op basis van de door de grondgebruiker geleverde inspanningen en de eventuele inkomstenderving ingevolge deze overeenkomst. De vergoeding kan verhoogd worden bij het halen van specifiek overeengekomen resultaten.
+§ 1. De Vlaamse regering kan met de grondgebruikers, mits deze laatsten hiervan de eigenaar bij aangetekend schrijven in kennis stellen, beheersovereenkomsten sluiten in het belang van het natuurbehoud. Ze legt de verdere regels vast voor het afsluiten van deze beheersovereenkomsten. Voor gronden die onder de pachtwetgeving vallen en de laatste jaar verpacht werden, kunnen deze beheersovereenkomsten enkel afgesloten worden met beroepslandbouwers.<br /><br />§ 2. Een beheersovereenkomst is een overeenkomst waarbij de grondgebruiker zich vrijwillig ertoe verbindt, op projectmatige basis of gedurende een bepaalde termijn, een vooraf bepaalde prestatie te leveren gericht op het bereiken van een hogere kwaliteit dan de basismilieukwaliteit, door het onderhouden of ontwikkelen van natuurwaarden, tegen betaling van een vooraf bepaalde vergoeding, binnen de perken van de begroting.<br /><br />Deze vergoeding wordt berekend op basis van de door de grondgebruiker geleverde inspanningen en de eventuele inkomstenderving ingevolge deze overeenkomst. De vergoeding kan verhoogd worden bij het halen van specifiek overeengekomen resultaten.
 
 ### ART. 46.
 
-Beheersovereenkomsten worden gesloten met het oog op:<br /><br />1° hetzij het beheer, het herstel en de ontwikkeling van de natuur in de groengebieden en bosgebieden aangeduid op uitvoeringsplannen, van kracht in de ruimtelijke ordening, in functie van een vastgestelde beheersvisie;<br /><br />2° hetzij het beheer en de ontwikkeling van de natuur in de GEN, de GENO in functie van de vooropgestelde doelstellingen en binnen de perimeter vastgesteld in het goedgekeurd natuurrichtplan;<br /><br />3° hetzij de ontwikkeling van de natuur in de natuurverwevingsgebieden, conform het natuurrichtplan in het IVON;<br /><br />4° hetzij het beheer en de ontwikkeling van de natuur in de natuurverbindingsgebieden conform het natuurrichtplan in het IVON;<br /><br />5° hetzij het optimaal beschermen, herstellen en/of uitbreiden van de habitats of ecosystemen van door de Vlaamse regering aangewezen organismen of levensgemeenschappen;<br /><br />6° hetzij het instandhouden en beheer van de natuurwaarden in de valleigebieden, brongebieden en het agrarisch gebied met ecologisch belang en natuurontwikkelingsgebieden.
+§ 1. Beheersovereenkomsten worden gesloten met het oog op:<br />1° hetzij het beheer, het herstel en de ontwikkeling van de natuur in de groengebieden en bosgebieden aangeduid op uitvoeringsplannen, van kracht in de ruimtelijke ordening, in functie van een vastgestelde beheersvisie;<br />2° hetzij het beheer en de ontwikkeling van de natuur in de GEN, de GENO in functie van de vooropgestelde doelstellingen en binnen de perimeter vastgesteld in het goedgekeurd natuurrichtplan;<br />3° hetzij de ontwikkeling van de natuur in de natuurverwevingsgebieden, conform het natuurrichtplan in het IVON;<br />4° hetzij het beheer en de ontwikkeling van de natuur in de natuurverbindingsgebieden conform het natuurrichtplan in het IVON;<br />5° hetzij het optimaal beschermen, herstellen en/of uitbreiden van de habitats of ecosystemen van door de Vlaamse regering aangewezen organismen of levensgemeenschappen;<br />6° hetzij het instandhouden en beheer van de natuurwaarden in de valleigebieden, brongebieden en het agrarisch gebied met ecologisch belang en natuurontwikkelingsgebieden.<br /><br />§ 2. De Vlaamse Regering kan voor de toepasbaarheid van de onderscheiden types beheersovereenkomsten bepalen aan welke beheersvisies, prioriteiten, perimeters of andere voorwaarden dient beantwoord te worden. <br /><br />De Vlaamse Regering bepaalt de voorwaarden waaronder beheersgroepen erkend kunnen worden met het oog op de planning, de ondersteuning en de begeleiding van het afsluiten en uitvoeren van beheersovereenkomsten in een bepaald gebied, alsook met het oog op het overleg met de andere actoren die in het gebied natuur- of bosbeleidsactiviteiten uitvoeren.
 
 ## ONDERAFDELING C NATUURINRICHTING
 
@@ -279,15 +279,15 @@ De vrederechter van het kanton waarin het grootste gedeelte van het natuurinrich
 
 ### ART. 48.
 
-[§ 1. Voor elk gebied dat behoort tot het VEN, het IVON, de groengebieden, parkgebieden, buffergebieden, bosgebieden of de met één van deze gebieden vergelijkbare bestemmingsgebieden aangewezen op de plannen van aanleg of op de ruimtelijke uitvoeringsplannen van kracht in de ruimtelijke ordening en de gebieden afgebakend volgens of in uitvoering van internationale overeenkomsten of verdragen betreffende het natuurbehoud of van akten betreffende het natuurbehoud, met inbegrip van Europese richtlijnen, vastgesteld op grond van internationale verdragen, wordt een natuurrichtplan opgesteld.<br /><br />§ 2. Een natuurrichtplan is een instrument dat aangeeft wat op het vlak van natuurbehoud voor een specifiek gebied wordt beoogd.<br /><br />Een natuurrichtplan bevat in het bijzonder :<br /><br />1° een gebiedsvisie die het streefbeeld weergeeft voor de natuur en het natuurlijk milieu;<br /><br />2° een beschrijving van de stimulerende en bindende maatregelen inzake natuurbehoud die nodig zijn om de gebiedsvisie te realiseren;<br /><br />3° een opsomming van de instrumenten die nodig zijn om de gebiedsvisie te verwezenlijken.<br /><br />§ 3. Onverminderd hetgeen bepaald wordt in § 4 kan een natuurrichtplan de volgende maatregelen inzake natuurbehoud bevatten:<br /><br />1° alle nodige maatregelen ter verwezenlijking van de gebiedsvisie, met inbegrip van de maatregelen bedoeld in artikel 13, § 1, en artikel 51;<br /><br />2° de maatregelen bedoeld in artikel 25, § 1, wanneer het een natuurrichtplan voor een gebied gelegen in het VEN betreft;<br /><br />3° de maatregelen bedoeld in artikel 36ter, §§ 1 en 2,wanneer het een natuurrichtplan voor een gebied gelegen in een speciale beschermingszone betreft;<br /><br />4° de maatregelen bedoeld in artikel 27, 28 of 29 wanneer het een natuurrichtplan voor een gebied gelegen in IVON betreft;<br /><br />5° ontheffingen om redenen van natuurbehoud of natuureducatie van de verbodsbepalingen die door of krachtens dit decreet zijn opgelegd;<br /><br />6° de specifieke bepalingen bedoeld in artikel 15ter, § 4, tweede lid, en § 5, eerste en tweede lid, van het Mestdecreet;<br /><br />7° de perimeter waarbinnen het recht van voorkoop van het Vlaamse Gewest geldt in uitvoering van artikel 37, § 1, 3;<br /><br />8° de perimeter waarbinnen beheersovereenkomsten kunnen worden afgesloten in uitvoering van artikel 46, 2°.<br /><br />§ 4. Het natuurrichtplan kan bepalen welke gedeelten van de gebiedsvisie bindend zijn voor de administratieve overheid.<br /><br />De maatregelen in een natuurrichtplan voor een gebied behorende tot het IVON of behorende tot de parkgebieden, buffergebieden, of de met een van deze gebieden vergelijkbare bestemmingsgebieden aangewezen op de plannen van aanleg of de ruimtelijke uitvoeringsplannen van kracht in de ruimtelijke ordening kunnen voor particuliere grondeigenaars en grondgebruikers enkel stimulerend en niet bindend zijn behalve de maatregelen in § 3, 5°, 6° en 8°, voor zover dat gebied niet gelegen is in het VEN, in gebieden afgebakend volgens of in uitvoering van internationale overeenkomsten of verdragen betreffende het natuurbehoud of van akten betreffende het natuurbehoud, met inbegrip van Europese richtlijnen, vastgesteld op grond van internationale verdragen, of in de groengebieden, bosgebieden of de met een van deze gebieden vergelijkbare bestemmingsgebieden aangewezen op de plannen van aanleg of de ruimtelijke uitvoeringsplannen van kracht in de ruimtelijke ordening.<br /><br />§ 5. De Vlaamse regering kan nadere regels en voorwaarden vaststellen inzake de stimulerende en bindende maatregelen en inzake subsidiëring of vergoeding van een administratieve overheid of van een particuliere eigenaar of grondgebruiker indien deze maatregelen opgenomen in het natuurrichtplan op projectmatige basis uitvoert op grond van een overeenkomst, hierna genoemd natuurprojectovereenkomst.<br /><br />§ 6. De Vlaamse regering of haar gemachtigde kan een arbitragecommissie oprichten die beslissingen kan nemen over betwistingen inzake:<br /><br />1° de uitvoering van gebodsbepalingen opgelegd door het natuurrichtplan;<br /><br />2° de uitvoering van de natuurprojectovereenkomst bedoeld in § 5.<br /><br />De arbitragecommissie is paritair samengesteld uit vertegenwoordigers van de eigenaars of gebruikers van een grond in het gebied waarvoor een natuurrichtplan is vastgesteld, vertegenwoordigers van de betrokken diensten van het Vlaamse Gewest als ook van de erkende terreinbeherende natuurverenigingen die eigenaar zijn van gronden in het gebied waarvoor een natuurrichtplan is opgesteld. Het voorzitterschap wordt waargenomen door een onafhankelijke externe deskundige.<br /><br />De Vlaamse regering bepaalt de nadere regels inzake de samenstelling en werking van de arbitragecommissie.  <span class="reference">(verv. decr. 19 juli 2002, art. 33, I: 10 september 2002)</span> ]
+§ 1. Voor elke speciale beschermingszone, alsook voor elk gebied dat behoort tot het VEN, wordt een natuurrichtplan vastgesteld, en dit binnen de vijf jaar na aanwijzing van de speciale beschermingszone overeenkomst artikel 36bis, § 9, of de vaststelling van het VEN-gebied overeenkomstig artikel 17, § 3. Voor elk gebied dat behoort tot het VEN, afgebakend op grond van artikel 21, § 9, voor het IVON, voor de groengebieden, parkgebieden, buffergebieden, bosgebieden of de met één van deze gebieden vergelijkbare bestemmingsgebieden aangewezen op de plannen van aanleg of op de ruimtelijke uitvoeringsplannen van kracht in de ruimtelijke ordening, kan er een natuurrichtplan worden vastgesteld.<br /><br />§ 2. De natuurrichtplannen voor speciale beschermingszones, de gebieden van het VEN, de natuurverwevingsgebieden en de groengebieden, parkgebieden, buffergebieden, bosgebieden of de met één van deze gebieden vergelijkbare bestemmingsgebieden aangewezen op de gewestelijke plannen van aanleg of ruimtelijke uitvoeringsplannen, worden vastgesteld door de Vlaamse Regering. Zij worden gewestelijke natuurrichtplannen genoemd.<br /><br />Natuurrichtplannen met betrekking tot natuurverbindingsgebieden, aangewezen op de provinciale of gemeentelijke ruimtelijke uitvoeringsplannen, worden vastgesteld door de deputatie. Zij worden provinciale natuurrichtplannen genoemd.<br /><br />§ 3. De Vlaamse Regering bepaalt de vorm van gewestelijke en provinciale natuurrichtplannen, alsook de procedure die leidt tot de vaststelling, herziening of opheffing ervan.<br /> <br />Elke administratieve overheid stelt, hetzij op eenvoudig verzoek of uit eigen beweging, alle nuttige informatie en kennis waarover zij beschikt ter beschikking van de dienst die wordt belast met het opstellen of herzien van de natuurrichtplannen.
 
 ### ART. 49.
 
-[...  <span class="reference">(opgeh. decr. 19 juli 2002, art. 34, I: 10 september 2002)</span> ]
+§ 1. Voor zover een gewestelijk natuurrichtplan betrekking heeft op een speciale beschermingszone, gelden de instandhoudingsdoelstellingen van dat gebied, vastgesteld op grond van artikel 36ter, § 1, als gebiedsvisie voor het natuurrichtplan. <br /><br />Indien er nog geen instandhoudingsdoelstellingen zijn opgesteld voor een in een natuurrichtplan opgenomen speciale beschermingszone of voor zover het natuurrichtplan geen betrekking heeft op een speciale beschermingszone, dient er een gebiedsvisie te worden opgemaakt die weergeeft wat er in het gebied wordt beoogd voor de natuur en het natuurlijk milieu. Deze gebiedsvisie kan, bij de vaststelling van het natuurrichtplan, geheel of gedeeltelijk bindend worden verklaard voor de administratieve overheid. De doelstellingen uit deze gebiedsvisie kunnen, in het geval het natuurrichtplan betrekking heeft op een speciale beschermingszone waarvoor er nog geen instandhoudingsdoelstellingen zijn opgemaakt, gelijkgesteld worden met instandhoudingsdoelstellingen in de zin van artikel 36ter, § 1.<br /><br />§ 2. Een gewestelijk natuurrichtplan is er op gericht om, in functie van de instandhoudingsdoelstellingen of de gebiedsvisie, een specifieke, bindende afstemming te bekomen tussen de verschillende maatregelen en instrumenten die, in uitvoering van onder meer dit decreet, het Bosdecreet van 13 juni 1990, het Jachtdecreet van 24 juli 1991 en de wet van 1 juli 1954 op de riviervisserij en het decreet van 16 april 1996 betreffende de landschapszorg, gelden voor het bestreken gebied. <br /><br />Een gewestelijk natuurrichtplan bevat aldus onder meer, binnen de desbetreffende, in dit decreet vastgestelde randvoorwaarden, bepalingen met betrekking tot :<br />- de in het bestreken gebied aanwezige uitbreidingszones vastgesteld in uitvoering van artikel 33, derde lid;<br />- de op het bestreken gebied betrekking hebbende beheersplannen vastgesteld in uitvoering van artikel 34;<br />- de in het bestreken gebied aangeduide perimeters binnen welk het recht van voorkoop geldt, in uitvoering van artikel 37;<br />- de in het bestreken gebied aangeduide perimeters die gelden voor de beheersovereenkomsten, overeenkomstig het bepaalde in artikel 46, § 2;<br />- de ontheffingen die in verband met het bestreken gebied op grond van dit decreet kunnen worden verleend.<br /><br />§ 3. Een gewestelijk natuurrichtplan kan bovendien nog, in functie van de instandhoudingsdoelstellingen of de gebiedsvisie en rekening houdend met artikel 9, voor het bestreken gebied volgende bepalingen bevatten :<br />- specifieke maatregelen in uitvoering van artikel 13;<br />- specifieke maatregelen in uitvoering van artikel 25, § 1, voor zover het natuurrichtplan betrekking heeft op een gebied dat in het VEN gelegen is;<br />- specifieke maatregelen in uitvoering van artikel 36ter, § 1 en § 2, voor zover het natuurrichtplan betrekking heeft op een speciale beschermingszone;<br />- specifieke maatregelen in uitvoering van de artikelen 27 en 28, voor zover het natuurrichtplan betrekking heeft op een gebied dat in IVON gelegen is; <br />- specifieke maatregelen in uitvoering van hoofdstuk VI.<br /><br />§ 4. Een provinciaal natuurrichtplan behelst voor het bestreken gebied maatregelen zoals vermeld in artikel 29.
 
 ### ART. 50.
 
-[§ 1. De natuurrichtplannen, met uitzondering van deze bedoeld in het tweede lid, worden vastgesteld door de Vlaamse regering of haar gemachtigde.<br /><br />De natuurrichtplannen die enkel betrekking hebben op natuurverbindingsgebied dat niet behoort tot de groengebieden, bosgebieden of de met één van deze gebieden vergelijkbare bestemmingsgebieden, aangewezen op de plannen van aanleg of ruimtelijke uitvoeringsplannen van kracht in de ruimtelijke ordening, noch tot een speciale beschermingszone, worden vastgesteld door de Bestendige Deputatie van de provincie waartoe het natuurverbindingsgebied behoort.<br /><br />§ 2. De Vlaamse regering bepaalt de vorm van het natuurrichtplan alsook de procedure voor de opstelling, de inspraak, de goedkeuring, de bekendmaking, de herziening en de ontheffing van een natuurrichtplan. Bij de opmaak van het natuurrichtplan worden grondeigenaars en grondgebruikers betrokken om, zo mogelijk, een consensus na te streven.<br /><br />§ 3. Elke administratieve overheid stelt, hetzij op eenvoudig verzoek of uit eigen beweging, alle nuttige informatie en kennis waarover zij beschikt ter beschikking van de dienst bevoegd voor het natuurbehoud die wordt belast met het opstellen of herzien van de natuurrichtplannen.  <span class="reference">(verv. decr. 19 juli 2002, art. 35, I: 10 september 2002)</span> ]
+Ter voorbereiding van een gewestelijk natuurrichtplan en ter opvolging en begeleiding van de uitvoering ervan stelt de Vlaamse Regering telkens een overlegcommissie in. Deze commissie adviseert tevens ten behoeve van de minister bij betwistingen inzake de uitvoering van een vastgesteld gewestelijk natuurrichtplan. <br /><br />Een overlegcommissie bij een natuurrichtplan is evenwichtig samengesteld uit vertegenwoordigers van de grondeigenaars, -gebruikers en -beheerders in het gebied waarvoor een natuurrichtplan wordt vastgesteld, vertegenwoordigers van de betrokken diensten van het Vlaamse Gewest alsook van de natuurverenigingen die actief zijn in het gebied. <br /><br />De Vlaamse Regering bepaalt de nadere regels inzake de samenstelling en werking van deze overlegcommissies.
 
 ## [ONDERAFDELING E PLANMATIGE OMKADERING VAN HET INSTANDHOUDINGSBELEID (ing. decr. 9 mei 2014, art. 36, I:17 juli 2014)]
 
@@ -424,8 +424,6 @@ Wat het gedeelte van een in artikel 1, § 3, van het besluit van de Vlaamse rege
 De habitattypes van bijlage I van de Habitatrichtlijn die in Vlaanderen voorkomen<br>
 <br>
 "Typen van natuurlijke habitats van communautair belang voor de instandhouding waarvan aanwijzing van speciale beschermingszones vereist is" (*:prioritair habitat).<br>
-<br>
-De Vlaamse regering is ertoe gemachtigd om de bijlage te wijzigen als gevolg van de in artikel 19 van Habitatrichtlijn bedoelde aanpassing aan de technische en wetenschappelijke vooruitgang.<br>
 <br>
 
 <table border="1" cellpadding="0" cellspacing="0" style="border-collapse:collapse">
@@ -932,9 +930,7 @@ De Vlaamse regering is ertoe gemachtigd om de bijlage te wijzigen als gevolg van
 
 ### BIJLAGE II.
 
-De dier- en plantensoorten an Bijlage II van de Habitatrichtlijnen die voorkomen in Vlaanderen<br>
-<br>
-De Vlaamse regering is er toe gemachtigd om de bijlage te wijzigen als gevolg van de in artikel 19 van de Habitatrichtlijn bedoelde aanpassing aan de technische en wetenschappelijke vooruitgang.<br>
+De dier- en plantensoorten van Bijlage II van de Habitatrichtlijnen die voorkomen in Vlaanderen<br>
 <br>
 
 <table border="1" cellpadding="0" cellspacing="0" style="border-collapse:collapse">
@@ -1255,8 +1251,6 @@ De Vlaamse regering is er toe gemachtigd om de bijlage te wijzigen als gevolg va
 ### BIJLAGE III.
 
 A) DIERSOORTEN&nbsp; &nbsp;De dier- en plantensoorten van communautair belang van de Bijlage IV van de habitatrichtlijn, die voorkomen in Vlaanderen<br>
-<br>
-De Vlaamse regering is er toe gemachtig om de bijlage te wijzen als gevolg van de in artikel 19 van de Habitatrichtlijn bedoelde aanpassing aan de technische en wetenschappelijke vooruitgang.<br>
 <br>
 <!--[if gte mso 9]><xml><br> <o:DocumentProperties><br>  <o:Author>Johan</o:Author><br>  <o:Template>Normal</o:Template><br>  <o:LastAuthor>steenpfr</o:LastAuthor><br>  <o:Revision>3</o:Revision><br>  <o:TotalTime>14</o:TotalTime><br>  <o:Created>2007-04-11T07:32:00Z</o:Created><br>  <o:LastSaved>2009-04-07T07:29:00Z</o:LastSaved><br>  <o:Pages>1</o:Pages><br>  <o:Words>201</o:Words><br>  <o:Characters>1108</o:Characters><br>  <o:Company>JOHAN</o:Company><br>  <o:Lines>9</o:Lines><br>  <o:Paragraphs>2</o:Paragraphs><br>  <o:CharactersWithSpaces>1307</o:CharactersWithSpaces><br>  <o:Version>11.8132</o:Version><br> </o:DocumentProperties><br></xml><![endif]--><!--[if gte mso 9]><xml><br> <w:WordDocument><br>  <w:SpellingState>Clean</w:SpellingState><br>  <w:GrammarState>Clean</w:GrammarState><br>  <w:HyphenationZone>21</w:HyphenationZone><br>  <w:ValidateAgainstSchemas></w:ValidateAgainstSchemas><br>  <w:SaveIfXMLInvalid>false</w:SaveIfXMLInvalid><br>  <w:IgnoreMixedContent>false</w:IgnoreMixedContent><br>  <w:AlwaysShowPlaceholderText>false</w:AlwaysShowPlaceholderText><br>  <w:Compatibility><br>   <w:SelectEntireFieldWithStartOrEnd></w:SelectEntireFieldWithStartOrEnd><br>   <w:UseWord2002TableStyleRules></w:UseWord2002TableStyleRules><br>  </w:Compatibility><br>  <w:BrowserLevel>MicrosoftInternetExplorer4</w:BrowserLevel><br> </w:WordDocument><br></xml><![endif]--><!--[if gte mso 9]><xml><br> <w:LatentStyles DefLockedState="e;false"e; LatentStyleCount="e;156"e;><br> </w:LatentStyles><br></xml><![endif]--><!--[if gte mso 10]><br><style><br> /* Style Definitions */<br> table.MsoNormalTable<br>	&lftaco;mso-style-name:Standaardtabel;<br>	mso-tstyle-rowband-size:0;<br>	mso-tstyle-colband-size:0;<br>	mso-style-noshow:yes;<br>	mso-style-parent:"e;"e;;<br>	mso-padding-alt:0cm 5.4pt 0cm 5.4pt;<br>	mso-para-margin:0cm;<br>	mso-para-margin-bottom:.0001pt;<br>	mso-pagination:widow-orphan;<br>	font-size:10.0pt;<br>	font-family:"e;Times New Roman"e;;<br>	mso-ansi-language:#0400;<br>	mso-fareast-language:#0400;<br>	mso-bidi-language:#0400;&rgtaco;<br></style><br><![endif]-->
 <table border="1" cellpadding="0" cellspacing="0" class="MsoNormalTable" style="border-bottom:medium none; border-collapse:collapse; border-left:medium none; border-right:medium none; border-top:medium none; mso-border-alt:solid windowtext .5pt; mso-border-insideh:.5pt solid windowtext; mso-border-insidev:.5pt solid windowtext; mso-padding-alt:0cm 3.5pt 0cm 3.5pt; mso-yfti-tbllook:1184">
@@ -1597,272 +1591,539 @@ De Vlaamse regering is er toe gemachtig om de bijlage te wijzen als gevolg van d
 ### BIJLAGE IV.
 
 De vogelsoorten van de Bijlage I van de Vogelrichtlijn die voorkomen in Vlaanderen<br>
-<br>
-De Vlaamse regering is er toe gemachtigd om de bijlage te wijzigen als gevolg van de in artikel 15 van de Vogelrichtlijn bedoelde aanpassing aan de technische en wetenschappelijke vooruitgang.<br>
 &nbsp;
-<p>Acrocephalus paludicola</p>
-
-<p>Waterrietzanger</p>
-
-<p>Alcedo atthis</p>
-
-<p>Ijsvogel</p>
-
-<p>Anser erythropus</p>
-
-<p>Dwerggans</p>
-
-<p>Anthus campestris</p>
-
-<p>Duinpieper</p>
-
-<p>Ardea purpurea</p>
-
-<p>Purperreiger</p>
-
-<p>Asio flammeus</p>
-
-<p>Velduil</p>
-
-<p>Aythya nyroca</p>
-
-<p>Witoogeend</p>
-
-<p>Botaurus stellaris</p>
-
-<p>Roerdomp</p>
-
-<p>Branta leucopsis</p>
-
-<p>Brandgans</p>
-
-<p>Branta ruficollis</p>
-
-<p>Roodhalsgans</p>
-
-<p>Burchinus oedicnemus</p>
-
-<p>Griel</p>
-
-<p>Caprimulgus europaeus</p>
-
-<p>Nachtzwaluw</p>
-
-<p>Charadrius morinellus</p>
-
-<p>Morinelplevier</p>
-
-<p>Chlidonias niger</p>
-
-<p>Zwarte stern</p>
-
-<p>Ciconia ciconia</p>
-
-<p>Ooievaar</p>
-
-<p>Ciconia nigra</p>
-
-<p>Zwarte ooievaar</p>
-
-<p>Circus aeruginosus</p>
-
-<p>Bruine kiekendief</p>
-
-<p>Circus cyaneus</p>
-
-<p>Blauwe kiekendief</p>
-
-<p>Circus pygargus</p>
-
-<p>Grauwe kiekendief</p>
-
-<p>Crex crex</p>
-
-<p>Kwartelkoning</p>
-
-<p>Cygnus columbianus</p>
-
-<p>Kleine zwaan</p>
-
-<p>Cygnus cygnus</p>
-
-<p>Wilde zwaan</p>
-
-<p>Dendrocopus medius</p>
-
-<p>Middelste Bonte Specht</p>
-
-<p>Dryocopus martius</p>
-
-<p>Zwarte specht</p>
-
-<p>Egretta alba</p>
-
-<p>Grote zilverreiger</p>
-
-<p>Egretta garzetta</p>
-
-<p>Kleine zilverreiger</p>
-
-<p>Emberiza hortulana</p>
-
-<p>Ortolaan</p>
-
-<p>Ficedula parva</p>
-
-<p>Kleine vliegenvanger</p>
-
-<p>Falco columbarius</p>
-
-<p>Smelleken</p>
-
-<p>Falco peregrinus</p>
-
-<p>Slechtvalk</p>
-
-<p>Gallinago media</p>
-
-<p>Poelsnip</p>
-
-<p>Gavia arctica</p>
-
-<p>Parelduiker</p>
-
-<p>Gavia immer</p>
-
-<p>Ijsduiker</p>
-
-<p>Gavia stellata</p>
-
-<p>Roodkeelduiker</p>
-
-<p>Grus grus</p>
-
-<p>Kraanvogel</p>
-
-<p>Haliaeetus albicilla</p>
-
-<p>Zeearend</p>
-
-<p>Himantopus himantopus</p>
-
-<p>Steltkluut</p>
-
-<p>Ixobrychus minutus</p>
-
-<p>Woudaapje</p>
-
-<p>Lanius collurio</p>
-
-<p>Grauwe klauwier</p>
-
-<p>Larus melanocephalus</p>
-
-<p>Zwartkopmeeuw</p>
-
-<p>Limosa lapponica</p>
-
-<p>Rosse grutto</p>
-
-<p>Lullula arborea</p>
-
-<p>Boomleeuwerik</p>
-
-<p>Luscinia svecica</p>
-
-<p>Blauwborst</p>
-
-<p>Mergellus albellus</p>
-
-<p>Nonnetje</p>
-
-<p>Milvus migrans</p>
-
-<p>Zwarte wouw</p>
-
-<p>Milvus milvus</p>
-
-<p>Rode wouw</p>
-
-<p>Nycticorax nycticorax</p>
-
-<p>Kwak</p>
-
-<p>Pandion haliaetus</p>
-
-<p>Visarend</p>
-
-<p>Pernis apivorus</p>
-
-<p>Wespendief</p>
-
-<p>Phalaropus lobatus</p>
-
-<p>Grauwe franjepoot</p>
-
-<p>Philomachus pugnax</p>
-
-<p>Kemphaan</p>
-
-<p>Platalea leucorodia</p>
-
-<p>Lepelaar</p>
-
-<p>Pluvialis apricaria</p>
-
-<p>Goudplevier</p>
-
-<p>Podiceps auritus</p>
-
-<p>Kuifduiker</p>
-
-<p>Porzana paura</p>
-
-<p>Kleine waterhoen</p>
-
-<p>Porzana porzana</p>
-
-<p>Porseleinhoen</p>
-
-<p>Porzana pusilla</p>
-
-<p>Kleinste waterhoen</p>
-
-<p>Recurvirostra avocetta</p>
-
-<p>Kluut</p>
-
-<p>Sterna albifrons</p>
-
-<p>Dwergstern</p>
-
-<p>Sterna dougallii</p>
-
-<p>Dougalls stern</p>
-
-<p>Sterna hirundo</p>
-
-<p>Visdief</p>
-
-<p>Sterna paradisaea</p>
-
-<p>Noordse stern</p>
-
-<p>Sterna sandvicensis</p>
-
-<p>Grote stern</p>
-
-<p>Sylvia nisoria</p>
-
-<p>Sperwergrasmus</p>
-
-<p>Tetrao tetrix</p>
-
-<p>Korhoen</p>
-
-<p>Tringa glareola</p>
-
-<p>bosruiter</p>
+<table border="1" cellpadding="0" cellspacing="0" style="border-collapse:collapse">
+	<tbody>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:230.3pt">
+			<p>Acrocephalus paludicola</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:230.3pt">
+			<p>Waterrietzanger</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Alcedo atthis</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Ijsvogel</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Anser erythropus</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Dwerggans</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Anthus campestris</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Duinpieper</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Ardea purpurea</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Purperreiger</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Asio flammeus</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Velduil</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Aythya nyroca</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Witoogeend</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Botaurus stellaris</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Roerdomp</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Branta leucopsis</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Brandgans</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Branta ruficollis</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Roodhalsgans</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Burchinus oedicnemus</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Griel</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Caprimulgus europaeus</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Nachtzwaluw</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Charadrius morinellus</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Morinelplevier</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Chlidonias niger</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Zwarte stern</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Ciconia ciconia</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Ooievaar</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Ciconia nigra</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Zwarte ooievaar</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Circus aeruginosus</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Bruine kiekendief</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Circus cyaneus</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Blauwe kiekendief</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Circus pygargus</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Grauwe kiekendief</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Crex crex</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Kwartelkoning</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Cygnus columbianus</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Kleine zwaan</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Cygnus cygnus</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Wilde zwaan</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Dendrocopus medius</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Middelste Bonte Specht</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Dryocopus martius</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Zwarte specht</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Egretta alba</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Grote zilverreiger</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Egretta garzetta</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Kleine zilverreiger</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Emberiza hortulana</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Ortolaan</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Ficedula parva</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Kleine vliegenvanger</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Falco columbarius</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Smelleken</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Falco peregrinus</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Slechtvalk</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Gallinago media</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Poelsnip</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Gavia arctica</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Parelduiker</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Gavia immer</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Ijsduiker</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Gavia stellata</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Roodkeelduiker</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Grus grus</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Kraanvogel</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Haliaeetus albicilla</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Zeearend</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Himantopus himantopus</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Steltkluut</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Ixobrychus minutus</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Woudaapje</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Lanius collurio</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Grauwe klauwier</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Larus melanocephalus</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Zwartkopmeeuw</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Limosa lapponica</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Rosse grutto</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Lullula arborea</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Boomleeuwerik</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Luscinia svecica</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Blauwborst</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Mergellus albellus</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Nonnetje</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Milvus migrans</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Zwarte wouw</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Milvus milvus</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Rode wouw</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Nycticorax nycticorax</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Kwak</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Pandion haliaetus</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Visarend</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Pernis apivorus</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Wespendief</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Phalaropus lobatus</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Grauwe franjepoot</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Philomachus pugnax</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Kemphaan</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Platalea leucorodia</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Lepelaar</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Pluvialis apricaria</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Goudplevier</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Podiceps auritus</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Kuifduiker</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Porzana paura</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Kleine waterhoen</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Porzana porzana</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Porseleinhoen</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Porzana pusilla</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Kleinste waterhoen</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Recurvirostra avocetta</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Kluut</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Sterna albifrons</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Dwergstern</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Sterna dougallii</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Dougalls stern</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Sterna hirundo</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Visdief</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Sterna paradisaea</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Noordse stern</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Sterna sandvicensis</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Grote stern</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Sylvia nisoria</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Sperwergrasmus</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Tetrao tetrix</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Korhoen</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Tringa glareola</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>bosruiter</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
 
 <p>&nbsp;</p>
 
