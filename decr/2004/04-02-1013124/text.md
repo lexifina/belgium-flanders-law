@@ -126,6 +126,18 @@ De Vlaamse regering kan verplichtingen opleggen aan elke beheerder van een distr
 
 ## [HOOFDSTUK VIbis ENERGIERAPPORT (ing. decr. 12 december 2008, art. 9, I: 14 februari 2009)]
 
+### ART. 23bis.
+
+De minister, bevoegd voor het energiebeleid, publiceert jaarlijks, op voorstel van het Vlaams Energieagentschap, een energierapport. Het energierapport omvat voor het Vlaamse Gewest :<br />1° een energiebalans;<br />2° een beschrijving en analyse van de bestaande toestand inzake energieverbruik en energieproductie, per sector en per energiedrager;<br />3° energiekengetallen per sector.
+
+### ART. 23ter.
+
+De energiebalans bevat minstens volgende gegevens :<br />1° globaal :<br />a) het primair energieverbruik per energiedrager;<br />b) de hoeveelheid energie geleverd aan de internationale lucht- en scheepvaartbunkers per energiedrager;<br />c) het bruto binnenlands energieverbruik per energiedrager;<br />d) de netto-geïmporteerde hoeveelheid energie per energiedrager;<br />2° met betrekking tot de transformatiesector :<br />a) de verwerkte hoeveelheid energie per subsector en per energiedrager;<br />b) de geproduceerde hoeveelheid energie per subsector en per energiedrager;<br />c) de productie van elektriciteit en warmte door warmtekracht en hernieuwbare energie-installaties per subsector en per energiedrager; <br />d) het eigen verbruik en de leidingverliezen per subsector en per energiedrager;<br />3° met betrekking tot de eindverbruiksector :<br />a) het energieverbruik per subsector en per energiedrager;<br />b) de productie van elektriciteit en warmte door warmtekracht-, hernieuwbare energie- en andere zelfopwekkingsinstallaties per subsector en per energiedrager.
+
+### ART. 23quater.
+
+De diensten van de homogene beleidsdomeinen van de Vlaamse overheid, de instellingen die afhangen van het Vlaamse Gewest en de Vlaamse Gemeenschap, de ondergeschikte besturen die onder het administratief toezicht staan van het Vlaamse Gewest en de publiek- en privaatrechtelijke rechtspersonen die belast zijn met taken van openbaar nut inzake energie, stellen, hetzij op eenvoudige vraag van het Vlaams Energieagentschap, hetzij uit eigen beweging, alle niet-vertrouwelijke informatie waarover zij beschikken en die van nut kan zijn voor het opstellen van het energierapport en voor de onderbouwing van het Vlaams beleid inzake rationeel energiegebruik, hernieuwbare energiebronnen evenals het sociaal energiebeleid, ter beschikking van het Vlaams Energieagentschap.
+
 ## HOOFDSTUK VII TOEZICHT
 
 ### ART. 24.
