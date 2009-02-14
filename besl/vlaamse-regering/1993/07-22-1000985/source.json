@@ -2,16 +2,16 @@
   "codex_id": 1000985,
   "title": "Besluit van de Vlaamse Regering van 1993-07-22 betreffende de toegankelijkheid en het occasionele gebruik van de bossen",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1000985/VolledigDocument?datum=2008-05-21",
-  "source_sha256": "1a7a49d1205413ad61b861c0aa2ffe3e806839364a5fcaa5b1abe35dfa376b2d",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1000985/VolledigDocument?datum=2009-02-14",
+  "source_sha256": "d74d6cd6ae45c450f19f1789de6cc82c832fd8ae0511acd9eeed5c1d29569ce8",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1000985&param=informatie",
-  "as_of": "2008-05-21",
+  "as_of": "2009-02-14",
   "made": "1993-07-22",
   "gazette": "1993-09-15",
   "numac": 1993036082,
   "document_start": null,
   "document_end": "2009-02-13",
-  "in_force": "2008-05-21",
+  "in_force": "2009-02-14",
   "article_versions": 22,
-  "record_form": "consolidated version as in force on 2008-05-21; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2009-02-14; future article versions excluded; article text as the API gives it"
 }
