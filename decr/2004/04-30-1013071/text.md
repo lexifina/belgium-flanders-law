@@ -18,7 +18,7 @@
 
 ### ART. 8.
 
-De bevoegdheid die bij artikel 7 van dit decreet aan de Vlaamse regering wordt opgedragen, vervalt op de datum van de toewijzing van het personeel, van de goederen en van de rechten en plichten.<br /><br />De besluiten die krachtens artikel 7 zijn vastgesteld, houden op uitwerking te hebben indien zij niet bij decreet bekrachtigd zijn binnen de 12 maanden na de datum van hun inwerkingtreding. De bekrachtiging werkt terug tot deze laatste datum. Na de in het eerste lid bedoelde data kunnen de besluiten die krachtens artikel 7 zijn vastgesteld en bekrachtigd alleen bij decreet worden gewijzigd, vervangen of opgeheven.
+De bevoegdheid die bij artikel 7 van dit decreet aan de Vlaamse regering wordt opgedragen, vervalt op de datum van de toewijzing van het personeel, van de goederen en van de rechten en plichten.<br /><br />De besluiten die krachtens artikel 7, tweede lid, de wijziging, vervanging of opheffing van decretale bepalingen inhouden, houden op uitwerking te hebben indien zij niet bij decreet bekrachtigd zijn binnen de 12 maanden na de datum van hun inwerkingtreding. De bekrachtiging werkt terug tot deze laatste datum. Na de in het eerste lid bedoelde data kunnen de besluiten die krachtens artikel 7 zijn vastgesteld en bekrachtigd alleen bij decreet worden gewijzigd, vervangen of opgeheven.
 
 ## HOOFDSTUK V WIJZIGINGSBEPALINGEN
 
