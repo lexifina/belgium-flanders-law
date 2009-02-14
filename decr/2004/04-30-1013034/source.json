@@ -2,16 +2,16 @@
   "codex_id": 1013034,
   "title": "Decreet van 2004-04-30 tot oprichting van het publiekrechtelijk vormgegeven extern verzelfstandigd agentschap Vlaamse Reguleringsinstantie voor de Elektriciteits- en Gasmarkt",
   "type": "Decreet",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1013034/VolledigDocument?datum=2007-07-09",
-  "source_sha256": "ba5a6c40c00eaf3713b797d1360ea8f60c0de87e57e3005cd29ccbd8e997c294",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1013034/VolledigDocument?datum=2009-02-14",
+  "source_sha256": "21e3e7ea6070a707746742fa508a09c8933f33bb63d584e2a293ab4e55f28ffa",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1013034&param=informatie",
-  "as_of": "2007-07-09",
+  "as_of": "2009-02-14",
   "made": "2004-04-30",
   "gazette": "2004-05-27",
   "numac": 2004035776,
   "document_start": "2006-04-01",
   "document_end": "2010-12-31",
-  "in_force": "2007-07-09",
+  "in_force": "2009-02-14",
   "article_versions": 29,
-  "record_form": "consolidated version as in force on 2007-07-09; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2009-02-14; future article versions excluded; article text as the API gives it"
 }
