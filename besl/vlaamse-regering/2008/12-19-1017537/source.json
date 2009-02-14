@@ -1,0 +1,17 @@
+{
+  "codex_id": 1017537,
+  "title": "Besluit van de Vlaamse Regering van 2008-12-19 tot herverdeling van basisallocaties van de begroting van de Vlaamse Gemeenschap voor het begrotingsjaar 2008",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1017537/VolledigDocument?datum=2009-02-14",
+  "source_sha256": "a65e494d7fcd5e7e056469d401d546899d9c3b00ca92adfc8b42c240bd23b4ea",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1017537&param=informatie",
+  "as_of": "2009-02-14",
+  "made": "2008-12-19",
+  "gazette": "2009-02-04",
+  "numac": 2009200248,
+  "document_start": "2009-02-14",
+  "document_end": null,
+  "in_force": "2009-02-14",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2009-02-14; oldest version available; future article versions excluded; article text as the API gives it"
+}
