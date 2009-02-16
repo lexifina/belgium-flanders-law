@@ -1,0 +1,17 @@
+{
+  "codex_id": 1017870,
+  "title": "Besluit van de Vlaamse Regering van 2009-04-03 houdende de toewijzing van debiteurenbeheer in het kader van inkomensgerelateerde opvang bij zelfstandige opvangvoorzieningen",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1017870/VolledigDocument?datum=2009-02-16",
+  "source_sha256": "464ce472aba5587470dbc4ebf6eba9974a9dcfc78a5f12b3c346792f1a153025",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1017870&param=informatie",
+  "as_of": "2009-02-16",
+  "made": "2009-04-03",
+  "gazette": "2009-05-05",
+  "numac": 2009035358,
+  "document_start": "2009-02-16",
+  "document_end": "2012-02-16",
+  "in_force": "2009-02-16",
+  "article_versions": 6,
+  "record_form": "consolidated version as in force on 2009-02-16; oldest version available; future article versions excluded; article text as the API gives it"
+}
