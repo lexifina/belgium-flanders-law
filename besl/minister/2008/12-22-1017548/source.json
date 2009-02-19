@@ -1,0 +1,17 @@
+{
+  "codex_id": 1017548,
+  "title": "Ministerieel besluit van 2008-12-22 houdende de toekenning van een bijkomende dotatie voor 2008 aan het intern verzelfstandigd agentschap met rechtspersoonlijkheid 'Kind en Gezin'",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1017548/VolledigDocument?datum=2009-02-19",
+  "source_sha256": "bc33865fca2fdb03583914e04e09f47de4cae7ed47a6b47ec657f32f482c45e4",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1017548&param=informatie",
+  "as_of": "2009-02-19",
+  "made": "2008-12-22",
+  "gazette": "2009-02-09",
+  "numac": 2009200317,
+  "document_start": "2009-02-19",
+  "document_end": null,
+  "in_force": "2009-02-19",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2009-02-19; oldest version available; future article versions excluded; article text as the API gives it"
+}
