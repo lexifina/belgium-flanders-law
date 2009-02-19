@@ -1,0 +1,17 @@
+{
+  "codex_id": 1017547,
+  "title": "Ministerieel besluit van 2008-12-22 houdende de toekenning van een bijkomende dotatie voor 2008 aan het intern verzelfstandigd agentschap met rechtspersoonlijkheid 'Vlaams Agentschap voor Personen met een Handicap'",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1017547/VolledigDocument?datum=2009-02-19",
+  "source_sha256": "ffef0a5532aac6660db87fe5f96575938d60d230f0e50604a5881c2f66c38316",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1017547&param=informatie",
+  "as_of": "2009-02-19",
+  "made": "2008-12-22",
+  "gazette": "2009-02-09",
+  "numac": 2009200311,
+  "document_start": "2009-02-19",
+  "document_end": null,
+  "in_force": "2009-02-19",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2009-02-19; oldest version available; future article versions excluded; article text as the API gives it"
+}
