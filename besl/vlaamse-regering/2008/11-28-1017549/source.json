@@ -1,0 +1,17 @@
+{
+  "codex_id": 1017549,
+  "title": "Besluit van de Vlaamse Regering van 2008-11-28 tot gedeeltelijke verdeling van het provisionele krediet op programma CB, basisallocatie 11.01B",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1017549/VolledigDocument?datum=2009-02-19",
+  "source_sha256": "4a6f38af08e218766bb4f105b07a220513e55aac1e51c07182ef626b0e4815c6",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1017549&param=informatie",
+  "as_of": "2009-02-19",
+  "made": "2008-11-28",
+  "gazette": "2009-02-09",
+  "numac": 2009035088,
+  "document_start": "2009-02-19",
+  "document_end": null,
+  "in_force": "2009-02-19",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2009-02-19; oldest version available; future article versions excluded; article text as the API gives it"
+}
