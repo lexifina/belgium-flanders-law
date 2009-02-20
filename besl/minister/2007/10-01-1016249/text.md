@@ -8,13 +8,25 @@ De Vlaamse minister van Economie, Ondernemen, Wetenschap, Innovatie en Buitenlan
 
 ### ART. 1.
 
-Voor de toepassing van dit besluit wordt verstaan onder :<br />1° decreet : het decreet van 31 januari 2003 betreffende het economisch ondersteuningsbeleid;<br />2° besluit van de Vlaamse Regering : het besluit van de Vlaamse Regering van 16 mei 2007 tot toekenning van steun aan ondernemingen voor ecologie-investeringen in het Vlaamse Gewest;<br />3° Agentschap Economie : het intern verzelfstandigd agentschap zonder rechtspersoonlijkheid dat behoort tot het beleidsdomein Economie, Wetenschap en Innovatie;<br />4° minister : de Vlaamse minister, bevoegd voor het economisch beleid;<br />5° onderneming : een onderneming als vermeld in artikel 3, 1°, van het decreet;<br />6° ecologie-investeringen : milieu-investeringen en investeringen op energiegebied;<br />7° milieu-investeringen : de investeringen, gericht op de milieubescherming, vermeld in artikel 12, 2°, van het decreet;<br />8° investeringen op energiegebied : de investeringen, vermeld in artikel 15, § 1, 3°, van het decreet;<br />9° start van de ecologie-investeringen : de vroegste datum, hetzij van de eerste factuur, hetzij van de akte bij verwerving van een onroerend goed, hetzij van de leasingovereenkomst;<br />10° limitatieve technologieënlijst : een lijst met een limitatieve opsomming van technologieën die beschouwd worden als ecologie-investeringen en die voor ecologiesteun in aanmerking kunnen komen.<br />Per technologie vermeldt de lijst de volgende gegevens :<br />a) een technologiecode;<br />b) een bondige omschrijving van de technologie;<br />c) de in aanmerking komende investeringscomponenten;<br />d) de extra investeringen;<br />e) de performantiefactor;<br />11° indieningsdatum van de subsidieaanvraag : de datum waarop het Agentschap Economie de subsidieaanvraag ontvangt;<br />12° website : de website van het Agentschap Economie;<br />13° oproep : de oproep tot indiening van de subsidieaanvraag;<br />14° bedrijvencentrum : het bedrijvencentrum, vermeld in artikel 1, 1°, van het besluit van de Vlaamse Regering van 11 mei 2007 houdende subsidiëring van bedrijvencentra en doorgangsgebouwen;<br />15° doorgangsgebouw : het doorgangsgebouw, vermeld in artikel 1, 2°, van het besluit van de Vlaamse Regering van 11 mei 2007 houdende subsidiëring van bedrijvencentra en doorgangsgebouwen.<br /><br />
+Voor de toepassing van dit besluit wordt verstaan onder :<br />1° decreet : het decreet van 31 januari 2003 betreffende het economisch ondersteuningsbeleid;<br />2° besluit van de Vlaamse Regering : het besluit van de Vlaamse Regering van 16 mei 2007 tot toekenning van steun aan ondernemingen voor ecologie-investeringen in het Vlaamse Gewest en de latere wijzigingen;<br />3°...<br />4° minister : de Vlaamse minister, bevoegd voor het economisch beleid;<br />5° onderneming : een onderneming als vermeld in artikel 3, 1°, van het decreet;<br />6° ecologie-investeringen : milieu-investeringen en investeringen op energiegebied;<br />7° milieu-investeringen : de investeringen, gericht op de milieubescherming, vermeld in artikel 12, 2°, van het decreet;<br />8° investeringen op energiegebied : de investeringen, vermeld in artikel 15, § 1, 3°, van het decreet;<br />9° start van de ecologie-investeringen : de vroegste datum, hetzij van de eerste factuur, hetzij van de akte bij verwerving van een onroerend goed, hetzij van de leasingovereenkomst;<br />10° limitatieve technologieënlijst : een lijst met een limitatieve opsomming van technologieën die beschouwd worden als ecologie-investeringen en die voor ecologiesteun in aanmerking kunnen komen.<br />Per technologie vermeldt de lijst de volgende gegevens :<br />a) een technologiecode;<br />b) een bondige omschrijving van de technologie;<br />c) de in aanmerking komende investeringscomponenten;<br />d) de extra investeringen;<br />e) de performantiefactor;<br />11° indieningsdatum van de subsidieaanvraag : de datum waarop het Agentschap Ondernemen de subsidieaanvraag ontvangt;<br />12° website : de website van het Agentschap Ondernemen;<br />13° oproep : de oproep tot indiening van de subsidieaanvraag;<br />14° bedrijvencentrum : het bedrijvencentrum, vermeld in artikel 1, 1°, van het besluit van de Vlaamse Regering van 11 mei 2007 houdende subsidiëring van bedrijvencentra en doorgangsgebouwen;<br />15° doorgangsgebouw : het doorgangsgebouw, vermeld in artikel 1, 2°, van het besluit van de Vlaamse Regering van 11 mei 2007 houdende subsidiëring van bedrijvencentra en doorgangsgebouwen.<br /><br />
 
 ## HOOFDSTUK II Aanvullende voorwaarden
 
 ### ART. 2.
 
 Ter uitvoering van artikel 5, tweede lid, en artikel 22, 3°, c), van het besluit van de Vlaamse Regering wordt verstaan onder achterstallige schulden bij de Rijksdienst voor de Sociale Zekerheid : achterstallige schulden van 2500 euro of meer bij de Rijksdienst voor Sociale Zekerheid, ongeacht of er een bezwaar of beroep tegen een vordering van de Rijksdienst voor Sociale Zekerheid werd aangetekend. Schulden waarvoor de onderneming een afbetalingsplan heeft dat ze respecteert, worden niet als achterstallig beschouwd.<br /><br />
+
+### ART. 2/1.
+
+Ter uitvoering van artikel 11 van het besluit van de Vlaamse Regering wordt verstaan onder hoofdactiviteit : de activiteit die is opgenomen als activiteit in de Kruispuntbank van Ondernemingen en die het grootste gedeelte van de omzet vertegenwoordigt.
+
+### ART. 2/2.
+
+De in aanmerking komende investering ten behoeve van elektriciteit opgewekt door zonne-energie, vermeld in artikel 12, § 2, eerste lid, van het besluit van de Vlaamse Regering, wordt bepaald door de opwekkingscapaciteit van de investering te vergelijken met de voor eigen gebruik aangekochte elektriciteit. Er wordt enkel steun verleend voor de opwekkingscapaciteit van de investering die overeenstemt met de voor eigen gebruik aangekochte elektriciteit.<br /><br />De in aanmerking komende opwekkingscapaciteit van de investering wordt bekomen door volgende formule : JEV : 800 en wordt uitgedrukt in kilowattpiek, waarbij : <br />JEV = gemiddeld jaarverbruik, vermeld in artikel 12, § 2, derde en vierde lid, van het besluit van de Vlaamse Regering, of het geraamde elektriciteitsverbruik, vermeld in artikel 12, § 2, vijfde en zesde lid, van het besluit van de Vlaamse Regering, uitgedrukt in kilowattuur;<br />800 = een installatie met een vermogen van 1 kilowattpiek produceert jaarlijks ongeveer 800 kilowattuur.
+
+### ART. 2/3.
+
+Ter uitvoering van artikel 12, § 2, van het besluit van de Vlaamse Regering wordt verstaan onder : <br />1° geraamde elektriciteitsverbruik : het realistisch geraamde elektriciteitsverbruik van het eerste jaar na de beëindiging van de investeringen;<br />2° substantiële capaciteitsuitbreiding : er is een vermoeden van een substantiële capaciteitsuitbreiding als door een toename van de productiecapaciteit het elektriciteitsverbruik met minstens 50 % is toegenomen.<br /><br />Het Agentschap Ondernemen kan dit vermoeden weerleggen als zij vaststelt dat de toename van het elektriciteitsverbruik niet het gevolg is van de toename van de productiecapaciteit.
 
 ## HOOFDSTUK III Oproep- en aanvraagprocedure
 
@@ -42,11 +54,11 @@ Er kan per oproep slechts één subsidieaanvraag per onderneming worden ingedien
 
 ### ART. 8.
 
-Het Agentschap Economie onderzoekt of de subsidieaanvraag op de indieningsdatum voldoet aan de voorwaarden, vermeld in het decreet, het besluit van de Vlaamse Regering en dit besluit.<br /><br />
+Het Agentschap Ondernemen onderzoekt of de subsidieaanvraag op de indieningsdatum voldoet aan de voorwaarden, vermeld in het decreet, het besluit van de Vlaamse Regering en dit besluit.<br /><br />Als er stavingsstukken vereist zijn voor het onderzoek, vermeld in het eerste lid, wordt de onderneming daarvan via de website op de hoogte gebracht. De onderneming moet binnen dertig kalenderdagen na de beëindiging van de periode waarin de subsidieaanvraag ingediend moet worden, vermeld in artikel 4, 1°, de gevraagde stavingsstukken per post of per mail opsturen of bij het Agentschap Ondernemen indienen tegen ontvangstbewijs. De postdatum geldt als ontvangstdatum.<br /><br />
 
 ### ART. 9.
 
-De subsidieaanvraag is ontvankelijk als die op de indieningsdatum voldoet aan de voorwaarden, vermeld in artikel 8.<br /><br />De onderneming wordt daarvan via de website op de hoogte gebracht.<br /><br />
+De subsidieaanvraag is ontvankelijk als de gevraagde stavingsstukken, vermeld in artikel 8, tweede lid, tijdig zijn ontvangen en als de subsidieaanvraag op de indieningsdatum voldoet aan de voorwaarden, vermeld in artikel 8, eerste lid.<br /><br />De onderneming wordt daarvan via de website op de hoogte gebracht.<br /><br />
 
 ### ART. 10.
 
@@ -82,7 +94,7 @@ De subsidie wordt uitbetaald en teruggevorderd overeenkomstig artikelen 22, 23, 
 
 ### ART. 17.
 
-Het Agentschap Economie kan vanaf de indiening van de aanvraag via de website controleren of het decreet, het besluit van de Vlaamse Regering en de uitvoeringsbesluiten ervan worden nageleefd.<br /><br />Die controle kan, afhankelijk van het feit of de steun al dan niet werd toegekend, het volgende tot gevolg hebben :<br />1° onontvankelijkheid of ongunstige rangschikking van de steunaanvraag;<br />2° niet-uitbetaling of terugvordering van de toegekende steun.<br /><br />
+Het Agentschap Ondernemen kan vanaf de indiening van de aanvraag via de website controleren of het decreet, het besluit van de Vlaamse Regering en de uitvoeringsbesluiten ervan worden nageleefd.<br /><br />Die controle kan, afhankelijk van het feit of de steun al dan niet werd toegekend, het volgende tot gevolg hebben :<br />1° onontvankelijkheid of ongunstige rangschikking van de steunaanvraag;<br />2° niet-uitbetaling of terugvordering van de toegekende steun.<br /><br />
 
 ## HOOFDSTUK VII Wijzigingsbepaling
 
