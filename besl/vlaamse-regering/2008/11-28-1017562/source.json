@@ -1,0 +1,17 @@
+{
+  "codex_id": 1017562,
+  "title": "Besluit van de Vlaamse Regering van 2008-11-28 houdende verdeling van het provisionele krediet ingeschreven onder basisallocatie 01.07 B van het programma GB van de algemene uitgavenbegroting van de Vlaamse Gemeenschap voor het begrotingsjaar 2008",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1017562/VolledigDocument?datum=2009-02-20",
+  "source_sha256": "c302333b7bc0921f0289eec3d2e3fe50d007061e9db62ab1442c32eb1e51cd64",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1017562&param=informatie",
+  "as_of": "2009-02-20",
+  "made": "2008-11-28",
+  "gazette": "2009-02-10",
+  "numac": 2009035090,
+  "document_start": "2009-02-20",
+  "document_end": null,
+  "in_force": "2009-02-20",
+  "article_versions": 5,
+  "record_form": "consolidated version as in force on 2009-02-20; oldest version available; future article versions excluded; article text as the API gives it"
+}
