@@ -1,0 +1,17 @@
+{
+  "codex_id": 1017554,
+  "title": "Ministerieel besluit van 2009-01-22 betreffende de vaststelling van het zoneringsplan van de gemeente Lier",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1017554/VolledigDocument?datum=2009-02-20",
+  "source_sha256": "428ba1563f29ead7730a3f5b33a7cc66b295c20a565f25e3c8c35d7aadc7bc1c",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1017554&param=informatie",
+  "as_of": "2009-02-20",
+  "made": "2009-01-22",
+  "gazette": "2009-02-10",
+  "numac": 2009035084,
+  "document_start": "2009-02-20",
+  "document_end": null,
+  "in_force": "2009-02-20",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2009-02-20; oldest version available; future article versions excluded; article text as the API gives it"
+}
