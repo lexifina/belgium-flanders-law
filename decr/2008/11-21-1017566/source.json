@@ -1,0 +1,17 @@
+{
+  "codex_id": 1017566,
+  "title": "Decreet van 2008-11-21 houdende tweede aanpassing van de middelenbegroting van de Vlaamse Gemeenschap voor het begrotingsjaar 2008",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1017566/VolledigDocument?datum=2009-02-22",
+  "source_sha256": "5a1762a776722702fbae4533c4bca12be43a05f0043d9aec22645ed53e5a5b47",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1017566&param=informatie",
+  "as_of": "2009-02-22",
+  "made": "2008-11-21",
+  "gazette": "2009-02-12",
+  "numac": 2009035108,
+  "document_start": "2009-02-22",
+  "document_end": null,
+  "in_force": "2009-02-22",
+  "article_versions": 12,
+  "record_form": "consolidated version as in force on 2009-02-22; oldest version available; future article versions excluded; article text as the API gives it"
+}
