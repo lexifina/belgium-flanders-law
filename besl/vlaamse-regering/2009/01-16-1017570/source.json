@@ -1,0 +1,17 @@
+{
+  "codex_id": 1017570,
+  "title": "Besluit van de Vlaamse Regering van 2009-01-16 houdende afschaffing van delen van de Ledebeek, onbevaarbare waterloop nr. S.202 van eerste categorie, en klassering van delen van onbevaarbare waterlopen tot onbevaarbare waterlopen van derde categorie in Destelbergen en Gent",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1017570/VolledigDocument?datum=2009-02-22",
+  "source_sha256": "d25c2ead6acbf4d05ef5e9ab655dd59535487d436137900c89b86b50673f4336",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1017570&param=informatie",
+  "as_of": "2009-02-22",
+  "made": "2009-01-16",
+  "gazette": "2009-02-12",
+  "numac": 2009035111,
+  "document_start": "2009-02-22",
+  "document_end": null,
+  "in_force": "2009-02-22",
+  "article_versions": 7,
+  "record_form": "consolidated version as in force on 2009-02-22; oldest version available; future article versions excluded; article text as the API gives it"
+}
