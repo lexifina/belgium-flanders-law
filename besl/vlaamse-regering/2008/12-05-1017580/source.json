@@ -1,0 +1,17 @@
+{
+  "codex_id": 1017580,
+  "title": "Besluit van de Vlaamse Regering van 2008-12-05 tot herverdeling van basisallocaties van de begroting van de Vlaamse Gemeenschap voor het begrotingsjaar 2008 en tot gedeeltelijke verdeling van provisionele kredieten",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1017580/VolledigDocument?datum=2009-02-26",
+  "source_sha256": "44fbdb562d61b95b7cccf6ec17ac3bbb252a398f8d4e658326565f3af251ca3b",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1017580&param=informatie",
+  "as_of": "2009-02-26",
+  "made": "2008-12-05",
+  "gazette": "2009-02-16",
+  "numac": 2009035087,
+  "document_start": "2009-02-26",
+  "document_end": null,
+  "in_force": "2009-02-26",
+  "article_versions": 6,
+  "record_form": "consolidated version as in force on 2009-02-26; oldest version available; future article versions excluded; article text as the API gives it"
+}
