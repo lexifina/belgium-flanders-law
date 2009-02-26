@@ -2,16 +2,16 @@
   "codex_id": 1009538,
   "title": "Besluit van de Vlaamse Regering van 2002-05-31 tot vaststelling van de voorwaarden tot het verkrijgen van de subsidies inzake de door de sportfederaties georganiseerde sportkampen",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1009538/VolledigDocument?datum=2006-06-01",
-  "source_sha256": "458d216a08eb67cf96475d7f1eec06d449a0c54d1733fe1b55591d33f5a01771",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1009538/VolledigDocument?datum=2009-02-26",
+  "source_sha256": "95d381001a5b3da4212057aeb1429d26fd8c497cc5476a0c600d2cfd5ee49b50",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1009538&param=informatie",
-  "as_of": "2006-06-01",
+  "as_of": "2009-02-26",
   "made": "2002-05-31",
   "gazette": "2002-08-29",
   "numac": 2002036081,
   "document_start": "2002-01-01",
   "document_end": "2009-02-25",
-  "in_force": "2006-06-01",
-  "article_versions": 17,
-  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "in_force": "2009-02-26",
+  "article_versions": 14,
+  "record_form": "consolidated version as in force on 2009-02-26; future article versions excluded; article text as the API gives it"
 }
