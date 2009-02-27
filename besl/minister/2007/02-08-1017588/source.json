@@ -2,16 +2,16 @@
   "codex_id": 1017588,
   "title": "Ministerieel besluit van 2007-02-08 houdende oprichting van basis- en tussenoverlegcomités en samenstelling van de overheidsafvaardiging in het beleidsdomein Welzijn, Volksgezondheid en Gezin",
   "type": "Ministerieel besluit",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1017588/VolledigDocument?datum=2006-09-01",
-  "source_sha256": "9c136433291db67558436679729251211d9fa5b17eeaf7f7cbea1221649dbea7",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1017588/VolledigDocument?datum=2009-02-27",
+  "source_sha256": "6f0f31d1ca5594247be953d6d8aa595cecc8c93b35cd99e4b2c9d7b4ede254c2",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1017588&param=informatie",
-  "as_of": "2006-09-01",
+  "as_of": "2009-02-27",
   "made": "2007-02-08",
   "gazette": "2009-02-17",
   "numac": 2009200425,
   "document_start": "2006-09-01",
   "document_end": null,
-  "in_force": "2006-09-01",
+  "in_force": "2009-02-27",
   "article_versions": 6,
-  "record_form": "consolidated version as in force on 2006-09-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2009-02-27; future article versions excluded; article text as the API gives it"
 }

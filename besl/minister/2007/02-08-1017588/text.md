@@ -6,11 +6,11 @@ De Vlaamse minister van Welzijn, Volksgezondheid en Gezin,<br /><br />Gelet op d
 
 ### ART. 1.
 
-Er wordt een tussenoverlegcomité opgericht, hierna te noemen beleidsdomeinoverlegcomité, voor het beleidsdomein Welzijn, Volksgezondheid en Gezin, inzonderheid voor volgende entiteiten : <br />• departement Welzijn, Volksgezondheid en Gezin; <br />• Kind en Gezin (IVA); <br />• Vlaams Agentschap voor Personen met een Handicap (IVA); <br />• Zorg en Gezondheid (IVA); <br />• Jongerenwelzijn (IVA); <br />• Inspectie Welzijn en Volksgezondheid (IVA); <br />• Psychiatrisch Zorgcentrum Geel (EVA); <br />• Psychiatrisch Zorgcentrum Rekem (EVA); <br />• Strategische Adviesraad. <br /><br />
+Er wordt een tussenoverlegcomité opgericht, hierna te noemen beleidsdomeinoverlegcomité, voor het beleidsdomein Welzijn, Volksgezondheid en Gezin, inzonderheid voor volgende entiteiten : <br />• departement Welzijn, Volksgezondheid en Gezin; <br />• Kind en Gezin (IVA); <br />• Vlaams Agentschap voor Personen met een Handicap (IVA); <br />• Zorg en Gezondheid (IVA); <br />• Jongerenwelzijn (IVA); <br />• Inspectie Welzijn en Volksgezondheid (IVA); <br />• Psychiatrisch Zorgcentrum Geel (EVA); <br />• Psychiatrisch Zorgcentrum Rekem (EVA); <br /><br /><br />
 
 ### ART. 2.
 
-In het gebied van het beleidsdomeinoverlegcomité wordt er een basisoverlegcomité opgericht, hierna te noemen entiteitsoverlegcomité, voor elk van volgende entiteiten : <br />EOC 7.1. departement Welzijn, Volksgezondheid en Gezin; <br />EOC 7.2. Kind en Gezin (IVA); <br />EOC 7.3. Vlaams Agentschap voor Personen met een Handicap (IVA); <br />EOC 7.4. Zorg en Gezondheid (IVA);<br />EOC 7.5. Jongerenwelzijn (IVA);<br />EOC 7.6. Inspectie Welzijn en Volksgezondheid (IVA);<br />EOC 7.7. Psychiatrisch Zorgcentrum Geel (EVA);<br />EOC 7.8. Psychiatrisch Zorgcentrum Rekem (EVA);<br />EOC STRA Strategische Adviesraad.<br /><br />
+In het gebied van het beleidsdomeinoverlegcomité wordt er een basisoverlegcomité opgericht, hierna te noemen entiteitsoverlegcomité, voor elk van volgende entiteiten : <br />EOC 7.1. departement Welzijn, Volksgezondheid en Gezin; <br />EOC 7.2. Kind en Gezin (IVA); <br />EOC 7.3. Vlaams Agentschap voor Personen met een Handicap (IVA); <br />EOC 7.4. Zorg en Gezondheid (IVA);<br />EOC 7.5. Jongerenwelzijn (IVA);<br />EOC 7.6. Inspectie Welzijn en Volksgezondheid (IVA);<br />EOC 7.7. Psychiatrisch Zorgcentrum Geel (EVA);<br />EOC 7.8. Psychiatrisch Zorgcentrum Rekem (EVA);<br /><br /><br />
 
 ### ART. 3.
 
@@ -22,4 +22,4 @@ In het gebied van het beleidsdomeinoverlegcomité wordt er een basisoverlegcomit
 
 ### ART. 5.
 
-Dit besluit treedt in werking op 1 september 2006 met uitzondering van de Strategische Adviesraad waarvoor dit besluit in werking treedt in overeenstemming met de juridische inwerkingsdatum van deze raad. <br /><br />
+Dit besluit treedt in werking op 1 september 2006.<br /><br />
