@@ -1,0 +1,17 @@
+{
+  "codex_id": 1017636,
+  "title": "Besluit van de Vlaamse Regering van 2008-12-05 tot vaststelling van de erkennings- en subsidiëringsvoorwaarden van de Vlaamse sportfederaties, de koepelorganisatie en de organisaties voor de sportieve vrijetijdsbesteding",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1017636/VolledigDocument?datum=2009-02-27",
+  "source_sha256": "6af2d826ac8c642706e564056d158275a6ce99cbc5d99fd4b1d40aeee690b7ff",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1017636&param=informatie",
+  "as_of": "2009-02-27",
+  "made": "2008-12-05",
+  "gazette": "2009-02-27",
+  "numac": 2009035189,
+  "document_start": "2009-02-27",
+  "document_end": "2016-10-01",
+  "in_force": "2009-02-27",
+  "article_versions": 74,
+  "record_form": "consolidated version as in force on 2009-02-27; oldest version available; future article versions excluded; article text as the API gives it"
+}
