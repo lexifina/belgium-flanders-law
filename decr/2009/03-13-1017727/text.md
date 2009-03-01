@@ -1,0 +1,17 @@
+# Decreet van 2009-03-13 betreffende de al dan niet in effecten belichaamde schuld van het Vlaamse Gewest en de Vlaamse Gemeenschap
+
+### ART. 1.
+
+Dit decreet regelt een gemeenschaps- en gewestaangelegenheid.
+
+### ART. 2.
+
+De schuld van het Vlaamse Gewest en de Vlaamse Gemeenschap wordt, naar keuze van de Vlaamse Regering, al dan niet belichaamd in effecten. Wanneer ze wordt belichaamd in effecten, zijn dat hetzij :<br />1° op naam gestelde inschrijvingen op een grootboek van de schuld van de emittent;<br />2° gedematerialiseerde effecten die uitsluitend op rekening zijn geboekt;<br />3° individuele of verzameleffecten aan toonder, voor zover zij uitsluitend in het buitenland worden uitgegeven of beheerst worden door een buitenlands recht.<br /><br />Het uitgiftebesluit of de leningsovereenkomst bepaalt de vorm of vormen van de effecten waarin de schuld desgevallend is belichaamd.
+
+### ART. 3.
+
+§ 1. In zoverre de Vlaamse overheid zich bij de uitgifte van haar schuldinstrument onderwerpt aan de wet van 2 januari 1991 betreffende de markt van de effecten van de overheidsschuld en het monetair beleidsinstrumentarium, zijn de bij of krachtens deze wet vastgestelde voorwaarden, vormen en rechten van overeenkomstige toepassing.<br /><br />De regelen, vastgesteld door de Vlaamse Regering krachtens de paragrafen 2 tot en met 4, doen geen afbreuk aan het eerste lid.<br /><br />§ 2. De Vlaamse Regering kan de nadere regels bepalen inzake de organisatie en het bijhouden van de in artikel 2, eerste lid, 1°, bedoelde grootboeken van de schuld van de emittenten indien het uitgiftebesluit of de leningsovereenkomst inzonderheid de vorm voorziet van de in artikel 2, eerste lid, 1°, bedoelde op naam gestelde inschrijvingen op een grootboek van de schuld, de voorwaarden voor het verkrijgen van een inschrijving, de wijze waarop inschrijvingen kunnen worden overgedragen, in pand gegeven of omgezet in effecten in een andere vorm, en de wijze van betaling van de vervallen interesten en kapitalen.<br /><br />De Vlaamse Regering kan beperkingen vaststellen inzake het aantal gerechtigden per inschrijving, de vestiging van pandrechten en andere zakelijke rechten, de clausules bedongen door gerechtigden van inschrijvingen ten aanzien van de vrije beschikking over of de bestemming van hun rechten, en door lastgevers ten aanzien van de omvang van de bevoegdheden van de lasthebbers.<br /><br />De overdracht en de inpandgeving van een inschrijving zijn rechtsgeldig en kunnen worden tegengeworpen aan derden zonder andere formaliteiten dan die welke de Vlaamse Regering bepaalt overeenkomstig het eerste lid.<br /><br />§ 3. Indien het uitgiftebesluit of de leningsovereenkomst inzonderheid de vorm voorziet van de in artikel 2, eerste lid, 2°, bedoelde gedematerialiseerde effecten, mogen de effecten van de lening slechts in die vorm op rekening geboekt worden en overgeschreven worden van rekening naar rekening.<br /><br />De Vlaamse Regering kan de nadere regels bepalen inzake de uitgifte, het boeken op rekening, het overschrijven, het beheer, de omzetting en de vereffening van de in artikel 2, eerste lid, 2°, bedoelde gedematerialiseerde effecten.<br /><br />§ 4. De Vlaamse Regering kan de nadere regels bepalen inzake de uitgifte, het beheer, de omzetting en de vereffening van de in artikel 2, eerste lid, 3°, bedoelde individuele of verzameleffecten aan toonder.
+
+### ART. 4.
+
+Dit decreet heeft uitwerking met ingang van 1 maart 2009.
