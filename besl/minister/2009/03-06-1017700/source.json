@@ -1,0 +1,17 @@
+{
+  "codex_id": 1017700,
+  "title": "Ministerieel besluit van 2009-03-06 houdende goedkeuring van het huishoudelijk reglement van de commissie van deskundigen",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1017700/VolledigDocument?datum=2009-03-01",
+  "source_sha256": "94a44c49e7d97d759115e76b45d2628aa478ddd76c6f15fe200e1cefa4b6217e",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1017700&param=informatie",
+  "as_of": "2009-03-01",
+  "made": "2009-03-06",
+  "gazette": "2009-03-18",
+  "numac": 2009035254,
+  "document_start": "2009-03-01",
+  "document_end": null,
+  "in_force": "2009-03-01",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2009-03-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
