@@ -1,0 +1,17 @@
+{
+  "codex_id": 1018495,
+  "title": "Protocol van 2009-09-28 Protocolakkoord tussen de federale overheid en de overheden bedoeld in artikelen 128, 130 en 135 van de Grondwet inzake preventie",
+  "type": "Protocol",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1018495/VolledigDocument?datum=2009-03-01",
+  "source_sha256": "58acd2623d83cb5e62ec2dd4f0be06018def67825ace2523a2ba87d09d0f83b7",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1018495&param=informatie",
+  "as_of": "2009-03-01",
+  "made": "2009-09-28",
+  "gazette": "2009-10-29",
+  "numac": 200924360,
+  "document_start": "2009-03-01",
+  "document_end": "2014-12-31",
+  "in_force": "2009-03-01",
+  "article_versions": 28,
+  "record_form": "consolidated version as in force on 2009-03-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
