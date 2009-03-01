@@ -190,7 +190,7 @@ Retroactieve tenlastenemingen, vermeld in artikel 10, § 4, van het decreet, wor
 
 ### ART. 31.
 
-De mogelijke tenlastenemingen en het bedrag ervan worden als volgt vastgesteld: <br />1) de tenlasteneming voor mantel- en thuiszorg bedraagt per maand:<br />a) 95 euro voor het kalenderjaar 2006;<br />b) 105 euro voor het kalenderjaar 2007;<br />c) 115 euro vanaf 1 januari 2008;<br />d) 125 euro vanaf 1 juli 2008. <br />2) als de gebruiker verblijft in een in artikel 2, § 2, eerste lid, 2° tot en met 4°, bedoelde voorziening met uitzondering van de serviceflats, bedraagt de tenlasteneming voor residentiële zorg 125 euro per maand.<br /><br />De in het eerste lid vermelde bedragen zijn niet cumuleerbaar.<br /><br />Bij een gebruiker die in een bepaalde maand overlijdt, wordt de tenlasteneming voor de maand in kwestie uitgevoerd.
+De mogelijke tenlastenemingen en het bedrag ervan worden als volgt vastgesteld: <br />1) de tenlasteneming voor mantel- en thuiszorg bedraagt per maand:<br />a) 95 euro voor het kalenderjaar 2006;<br />b) 105 euro voor het kalenderjaar 2007;<br />c) 115 euro vanaf 1 januari 2008;<br />d) 125 euro vanaf 1 juli 2008;<br />e) 130 euro vanaf 1 maart 2009.<br />2) als de gebruiker verblijft in een voorziening, vermeld in artikel 2, § 2, eerste lid, 2° tot en met 4°, met uitzondering van de serviceflats, bedraagt de tenlasteneming voor residentiële zorg per maand : <br />a) 125 euro tot en met februari 2009;<br />b) 130 euro vanaf maart 2009.<br /><br />De in het eerste lid vermelde bedragen zijn niet cumuleerbaar.<br /><br />Bij een gebruiker die in een bepaalde maand overlijdt, wordt de tenlasteneming voor de maand in kwestie uitgevoerd.
 
 ## AFDELING VII DE OPSCHORTING VAN DE UITVOERING VAN DE TENLASTENEMING
 
