@@ -1,0 +1,17 @@
+{
+  "codex_id": 1017601,
+  "title": "Besluit van de Vlaamse Regering van 2009-01-23 tot uitvoering van het decreet van 19 december 2008 betreffende de River Information Services op de binnenwateren",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1017601/VolledigDocument?datum=2009-03-01",
+  "source_sha256": "cc982ff3af2190b7041dcd784643c671fe68437b1fc3bca07dfda63f1c4d2bd7",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1017601&param=informatie",
+  "as_of": "2009-03-01",
+  "made": "2009-01-23",
+  "gazette": "2009-02-19",
+  "numac": 2009200691,
+  "document_start": "2009-03-01",
+  "document_end": null,
+  "in_force": "2009-03-01",
+  "article_versions": 5,
+  "record_form": "consolidated version as in force on 2009-03-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
