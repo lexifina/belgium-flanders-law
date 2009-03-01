@@ -370,6 +370,10 @@ Aan artikel 20 van hetzelfde decreet, gewijzigd bij decreten van 22 december 199
 
 Aan artikel 21, § 1, van hetzelfde decreet, wordt een lid toegevoegd, dat luidt als volgt :<br /><br />« Als de bevoegde overheid geen beslissing heeft genomen binnen de door de Vlaamse Regering bepaalde termijn, wordt de vraag tot wijziging of aanvulling van de vergunningsvoorwaarden geacht geweigerd te zijn. ».
 
+### ART. 88.
+
+Aan artikel 24 van hetzelfde decreet worden de volgende wijzigingen aangebracht :<br /><br />1° in § 1, 3°, worden de woorden « , behalve deze bevoegd inzake ruimtelijke ordening en stedenbouw » toegevoegd;<br /><br />2° in § 1 wordt een punt 7° toegevoegd, dat luidt als volgt :<br /><br />« 7° de gewestelijk stedenbouwkundig ambtenaar, zoals bepaald in artikel 12 van het decreet van 18 mei 1999 houdende de organisatie van de ruimtelijke ordening. De Vlaamse Regering kan nader bepalen welke gewestelijke stedenbouwkundige ambtenaren bevoegd zijn. »;<br /><br />3° in § 3 worden de woorden « de adviesverlenende overheidsorganen » telkens vervangen door de woorden « de adviesverlenende overheidsorganen en de gewestelijk stedenbouwkundig ambtenaar ».
+
 ### ART. 89.
 
 In artikel 26 van hetzelfde decreet worden de volgende wijzigingen aangebracht :<br /><br />1° in § 1 worden tussen de woorden « gewijzigd of aangevuld » en de woorden « , kan beroep » de woorden « , of al dan niet stilzwijgend, een vraag tot wijziging of aanvulling wordt geweigerd » ingevoegd;<br /><br />2° in § 2 worden tussen de woorden « gewijzigd of aangevuld » en de woorden « , kan beroep » de woorden « , of al dan niet stilzwijgend, een vraag tot wijziging of aanvulling wordt geweigerd » ingevoegd.
