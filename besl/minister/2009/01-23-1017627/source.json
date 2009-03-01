@@ -1,0 +1,17 @@
+{
+  "codex_id": 1017627,
+  "title": "Ministerieel besluit van 2009-01-23 tot wijziging van het ministerieel besluit van 28 juni 2005 houdende bepaling van de analysepakketten waarvoor laboratoria kunnen erkend worden",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1017627/VolledigDocument?datum=2009-03-01",
+  "source_sha256": "a4f25b7c7daf55e4bc19f5f306b3eb4aa5f1e31777e427eb2a20a33cb13d8075",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1017627&param=informatie",
+  "as_of": "2009-03-01",
+  "made": "2009-01-23",
+  "gazette": "2009-02-25",
+  "numac": 2009035168,
+  "document_start": "2009-03-01",
+  "document_end": null,
+  "in_force": "2009-03-01",
+  "article_versions": 5,
+  "record_form": "consolidated version as in force on 2009-03-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
