@@ -1,0 +1,17 @@
+{
+  "codex_id": 1017608,
+  "title": "Ministerieel besluit van 2009-02-06 tot vaststelling van het PFOS inventarisformulier",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1017608/VolledigDocument?datum=2009-03-02",
+  "source_sha256": "b8976353da5e1472652e16054d7b2f2b4665aad74cdb7e64ac317ac6b781208c",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1017608&param=informatie",
+  "as_of": "2009-03-02",
+  "made": "2009-02-06",
+  "gazette": "2009-02-20",
+  "numac": 2009035155,
+  "document_start": "2009-03-02",
+  "document_end": null,
+  "in_force": "2009-03-02",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2009-03-02; oldest version available; future article versions excluded; article text as the API gives it"
+}
