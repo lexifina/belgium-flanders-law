@@ -1,0 +1,17 @@
+{
+  "codex_id": 1017607,
+  "title": "Ministerieel besluit van 2009-02-02 tot wijziging van het ministerieel besluit van 21 december 2007 houdende uitvoering van een aantal bepalingen van het besluit van de Vlaamse Regering van 12 oktober 2007 tot reglementering van het sociale huurstelsel ter uitvoering van titel VII van de Vlaamse Wooncode en van het ministerieel besluit van 30 juli 2008 tot bepaling van nadere regels voor het vaststellen, de wijze van bijhouden, de inhoud en het actualiseren van het inschrijvingsregister voor kandidaat-huurders",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1017607/VolledigDocument?datum=2009-03-02",
+  "source_sha256": "65a4cf04ad88a057f0b8b1c59d890f3b2008f7e86baf1bcef31dbe3c75e1bd8a",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1017607&param=informatie",
+  "as_of": "2009-03-02",
+  "made": "2009-02-02",
+  "gazette": "2009-02-20",
+  "numac": 2009035157,
+  "document_start": "2009-03-02",
+  "document_end": null,
+  "in_force": "2009-03-02",
+  "article_versions": 9,
+  "record_form": "consolidated version as in force on 2009-03-02; oldest version available; future article versions excluded; article text as the API gives it"
+}
