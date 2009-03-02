@@ -1,0 +1,17 @@
+{
+  "codex_id": 1019145,
+  "title": "Besluit van de Vlaamse Regering van 2010-05-21 tot wijziging van het besluit van de Vlaamse Regering van 24 oktober 2008 tot uitvoering van het decreet van 7 maart 2008 inzake bijzondere jeugdbijstand en het kaderdecreet Bestuurlijk Beleid van 18 juli 2003",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1019145/VolledigDocument?datum=2009-03-02",
+  "source_sha256": "0ba0cde240e79b93bc4c17371857cfb53a362e0de4ad68c892b642f1ad4afe9a",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1019145&param=informatie",
+  "as_of": "2009-03-02",
+  "made": "2010-05-21",
+  "gazette": "2010-06-18",
+  "numac": 2010203167,
+  "document_start": "2009-03-02",
+  "document_end": null,
+  "in_force": "2009-03-02",
+  "article_versions": 11,
+  "record_form": "consolidated version as in force on 2009-03-02; oldest version available; future article versions excluded; article text as the API gives it"
+}
