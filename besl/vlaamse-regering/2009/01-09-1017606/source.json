@@ -1,0 +1,17 @@
+{
+  "codex_id": 1017606,
+  "title": "Besluit van de Vlaamse Regering van 2009-01-09 houdende het verlenen van machtiging aan de Universiteit Hasselt tot het aanvaarden van een legaat haar gedaan door Mevr. Rosa Vanbrabant",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1017606/VolledigDocument?datum=2009-03-02",
+  "source_sha256": "bea931bc01cbe2bd4ee9ba2f381b11bad10556c2de5a87bf9abe0a1304031936",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1017606&param=informatie",
+  "as_of": "2009-03-02",
+  "made": "2009-01-09",
+  "gazette": "2009-02-20",
+  "numac": 2009200622,
+  "document_start": "2009-03-02",
+  "document_end": null,
+  "in_force": "2009-03-02",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2009-03-02; oldest version available; future article versions excluded; article text as the API gives it"
+}
