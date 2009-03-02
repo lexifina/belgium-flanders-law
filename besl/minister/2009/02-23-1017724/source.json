@@ -1,0 +1,17 @@
+{
+  "codex_id": 1017724,
+  "title": "Ministerieel besluit van 2009-02-23 betreffende de oproep 2009 tot indiening van peterschapsprojecten",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1017724/VolledigDocument?datum=2009-03-02",
+  "source_sha256": "10f9799f785428ef499508c0173865113b74cbb2af52111483571cada7159fcd",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1017724&param=informatie",
+  "as_of": "2009-03-02",
+  "made": "2009-02-23",
+  "gazette": "2009-03-25",
+  "numac": 2009035207,
+  "document_start": "2009-03-02",
+  "document_end": null,
+  "in_force": "2009-03-02",
+  "article_versions": 12,
+  "record_form": "consolidated version as in force on 2009-03-02; oldest version available; future article versions excluded; article text as the API gives it"
+}
