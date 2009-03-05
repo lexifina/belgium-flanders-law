@@ -1,0 +1,17 @@
+{
+  "codex_id": 1017610,
+  "title": "Besluit van de Vlaamse Regering van 2008-12-19 houdende de uitbreiding van de watering Het Velpedal tot het deelbekken van de Velpe op het grondgebied van de provincie Vlaams-Brabant en de opheffing van de watering van Winge en Meenselbeek en de watering van Binkom",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1017610/VolledigDocument?datum=2009-03-05",
+  "source_sha256": "1dc87daccbc5f5155b7c92b0151fbc04d876403760726aacbb7ba2f5d29808c8",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1017610&param=informatie",
+  "as_of": "2009-03-05",
+  "made": "2008-12-19",
+  "gazette": "2009-02-23",
+  "numac": 2009035143,
+  "document_start": "2009-03-05",
+  "document_end": null,
+  "in_force": "2009-03-05",
+  "article_versions": 7,
+  "record_form": "consolidated version as in force on 2009-03-05; oldest version available; future article versions excluded; article text as the API gives it"
+}
