@@ -1,0 +1,17 @@
+{
+  "codex_id": 1017621,
+  "title": "Besluit van de Vlaamse Regering van 2009-02-06 houdende de overdracht van de middelen van het Herplaatsingsfonds aan het publiekrechtelijk vormgegeven extern verzelfstandigd agentschap Vlaamse Dienst voor Arbeidsbemiddeling en Beroepsopleiding",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1017621/VolledigDocument?datum=2009-03-06",
+  "source_sha256": "a31904f8c4bdcb9bc24a692b04311e4e1d11ac094c5263dec38640595ccb88c6",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1017621&param=informatie",
+  "as_of": "2009-03-06",
+  "made": "2009-02-06",
+  "gazette": "2009-02-24",
+  "numac": 2009035158,
+  "document_start": "2009-03-06",
+  "document_end": null,
+  "in_force": "2009-03-06",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2009-03-06; oldest version available; future article versions excluded; article text as the API gives it"
+}
