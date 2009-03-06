@@ -1,0 +1,17 @@
+{
+  "codex_id": 1017617,
+  "title": "Besluit van de Vlaamse Regering van 2009-02-06 tot bepaling van de datum van inwerkingtreding van de artikelen 86 tot 89 van het decreet van 19 december 2008 houdende bepalingen tot begeleiding van de begroting 2009",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1017617/VolledigDocument?datum=2009-03-06",
+  "source_sha256": "2a488ed32e0d8a95172e7755dbadd278c415a837946d52c5b08d84e8706977c3",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1017617&param=informatie",
+  "as_of": "2009-03-06",
+  "made": "2009-02-06",
+  "gazette": "2009-02-24",
+  "numac": 2009035169,
+  "document_start": "2009-03-06",
+  "document_end": null,
+  "in_force": "2009-03-06",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2009-03-06; oldest version available; future article versions excluded; article text as the API gives it"
+}
