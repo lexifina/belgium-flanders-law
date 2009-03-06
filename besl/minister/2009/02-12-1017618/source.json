@@ -1,0 +1,17 @@
+{
+  "codex_id": 1017618,
+  "title": "Ministerieel besluit van 2009-02-12 tot erkenning van de jachtexamengetuigschriften van Duitsland en Frankrijk",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1017618/VolledigDocument?datum=2009-03-06",
+  "source_sha256": "405df401615105543fbf79a664adb8503e90417ebe24dc185b5ac2639793fcbb",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1017618&param=informatie",
+  "as_of": "2009-03-06",
+  "made": "2009-02-12",
+  "gazette": "2009-02-24",
+  "numac": 2009035165,
+  "document_start": "2009-03-06",
+  "document_end": null,
+  "in_force": "2009-03-06",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2009-03-06; oldest version available; future article versions excluded; article text as the API gives it"
+}
