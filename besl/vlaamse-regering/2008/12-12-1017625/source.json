@@ -1,0 +1,17 @@
+{
+  "codex_id": 1017625,
+  "title": "Besluit van de Vlaamse Regering van 2008-12-12 tot wijziging van het besluit van de Vlaamse Regering van 18 februari 2005 betreffende de projectmatige financiering van toegepast collectief onderzoek voor de land- en tuinbouwsector",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1017625/VolledigDocument?datum=2009-03-07",
+  "source_sha256": "beb686001ced1215584f43507c3c7fec684b7b408b2341c8d0f617251fe84d40",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1017625&param=informatie",
+  "as_of": "2009-03-07",
+  "made": "2008-12-12",
+  "gazette": "2009-02-25",
+  "numac": 2009200673,
+  "document_start": "2009-03-07",
+  "document_end": null,
+  "in_force": "2009-03-07",
+  "article_versions": 5,
+  "record_form": "consolidated version as in force on 2009-03-07; oldest version available; future article versions excluded; article text as the API gives it"
+}
