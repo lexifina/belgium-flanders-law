@@ -1,0 +1,17 @@
+{
+  "codex_id": 1017629,
+  "title": "Besluit van de Vlaamse Regering van 2008-12-12 tot wijziging van het besluit van de Vlaamse Regering van 3 oktober 2003 houdende de instelling van een financieringskanaal voor het strategisch basisonderzoek in Vlaanderen",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1017629/VolledigDocument?datum=2009-03-08",
+  "source_sha256": "b8279ec09aa5f960a165ef0d5a3da6c70132db3a789bf7f28d7caf4917dea0e3",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1017629&param=informatie",
+  "as_of": "2009-03-08",
+  "made": "2008-12-12",
+  "gazette": "2009-02-26",
+  "numac": 2009200748,
+  "document_start": "2009-03-08",
+  "document_end": null,
+  "in_force": "2009-03-08",
+  "article_versions": 7,
+  "record_form": "consolidated version as in force on 2009-03-08; oldest version available; future article versions excluded; article text as the API gives it"
+}
