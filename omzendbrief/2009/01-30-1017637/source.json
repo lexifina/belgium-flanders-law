@@ -1,0 +1,17 @@
+{
+  "codex_id": 1017637,
+  "title": "Omzendbrief van 2009-01-30 BB 2009/01 betreffende de rechtspositieregeling van het personeel van de autonome gemeentebedrijven",
+  "type": "Omzendbrief",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1017637/VolledigDocument?datum=2009-03-09",
+  "source_sha256": "74eed98af1cf3dc9ba52027aaebc0b0523092b8dcebac91a2009efc3a2166bf5",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1017637&param=informatie",
+  "as_of": "2009-03-09",
+  "made": "2009-01-30",
+  "gazette": "2009-02-27",
+  "numac": 2009200772,
+  "document_start": "2009-03-09",
+  "document_end": null,
+  "in_force": "2009-03-09",
+  "article_versions": 1,
+  "record_form": "consolidated version as in force on 2009-03-09; oldest version available; future article versions excluded; article text as the API gives it"
+}
