@@ -4,17 +4,17 @@
 
 ### ART. 1.
 
-In dit besluit wordt verstaan onder:<br /><br />1° IWT-Vlaanderen: het Instituut voor de aanmoediging van Innovatie door Wetenschap en Technologie in Vlaanderen;<br /><br />2° raad van bestuur: de Raad van Bestuur van IWT-Vlaanderen;<br /><br />3° directiecomité: het directiecomité van IWT-Vlaanderen;<br /><br />4° de minister: de Vlaamse minister, belast met het toezicht op IWT-Vlaanderen;<br /><br />5° communautair kaderprogramma op het gebied van onderzoek en ontwikkeling: het meerjarig kaderprogramma dat door het Europees Parlement en de Raad is goedgekeurd en in de betrokken periode ten uitvoer is gelegd;<br /><br />6° project van industrieel basisonderzoek: onderzoek en haalbaarheidsstudies gericht op het verwerven van nieuwe kennis met als doel deze kennis bij de ontwikkeling van nieuwe producten, processen of diensten te gebruiken, of om bestaande producten, processen of diensten aanmerkelijk te verbeteren;<br /><br />7° prototype-, of ontwikkelingsproject: omzetting van de resultaten van industrieel onderzoek in plannen, schema's of ontwerpen voor nieuwe, gewijzigde of verbeterde producten, processen of diensten, of deze nu voor verkoop of gebruik zijn bestemd, met inbegrip van het vervaardigen van een eerste prototype die niet voor commerciële doeleinden kan worden aangewend. Voorts kan daaronder de conceptuele formulering en het ontwerp van alternatieve producten, processen of diensten worden verstaan en eerste demonstratie- of modelprojecten voor zover deze projecten niet voor industriële toepassingen of commerciële exploitatie worden gebruikt of geschikt gemaakt. Daaronder wordt niet verstaan routinematige of periodieke wijzigingen van bestaande producten, productielijnen, fabricageprocessen of diensten en andere courante werkzaamheden, zelfs indien deze wijzigingen verbeteringen kunnen zijn. Activiteiten die als innovatief beschouwd kunnen worden maar niet onder deze definitie vallen worden krachtens de Europese kaderregeling niet als onderzoek en ontwikkeling beschouwd;<br /><br />8° kleine of middelgrote onderneming: een onderneming die voldoet aan volgende voorwaarden:<br /><br />a) gemiddeld niet meer dan 250 personen (equivalent) voltijds tewerkstellen tijdens het kalenderjaar dat voorafgaat aan dat waarin de steun wordt aangevraagd;<br /><br />b) tijdens het kalenderjaar dat voorafgaat aan dat waarin de steun wordt aangevraagd een omzet exclusief BTW en accijnzen realiseren die minder bedraagt dan 40 miljoen euro of een balanstotaal hebben van minder dan 27 miljoen euro;<br /><br />c) niet meer dan 25 % van het kapitaal is rechtstreeks of onrechtstreeks in het bezit van één of meerdere ondernemingen, die zelf niet aan de definitie van kleine of middelgrote onderneming voldoen, met uitzondering van publieke investeringsmaatschappijen, participatiemaatschappijen of, mits geen controle wordt uitgeoefend, institutionele beleggers;<br /><br />9° kleine onderneming: een onderneming die voldoet aan de volgende voorwaarden:<br /><br />a) gemiddeld niet meer dan 50 personen (equivalent) voltijds tewerkstellen tijdens het kalenderjaar dat voorafgaat aan dat waarin de tegemoetkoming wordt aangevraagd;<br /><br />b) tijdens het kalenderjaar dat voorafgaat aan dat waarin de tegemoetkoming wordt aangevraagd een omzet exclusief BTW en accijnzen realiseren die minder bedraagt dan 7 miljoen euro of een balanstotaal van minder dan 5 miljoen euro;<br /><br />c) niet meer dan 25 % van het kapitaal is rechtstreeks of onrechtstreeks in het bezit is van één of meerdere ondernemingen, die zelf niet aan de definitie van kleine onderneming voldoen, met uitzondering van publieke investeringsmaatschappijen, participatiemaatschappijen of, mits geen controle wordt uitgeoefend, institutionele beleggers;<br /><br />10° steunpercentage: het percentage van de kosten die verband houden met het onderzoeksproject dat wordt gedekt door de steun;<br /><br />11° stimulerend karakter van steun (additionaliteit): de positieve invloed van steun op het gedrag van de ondernemingen in kwestie inzake hun onderzoek en ontwikkeling;<br /><br />12° sociaal-economische effecten: de sociaal-economische baten die het gevolg zijn van de uitvoering van onderzoek en ontwikkeling door bedrijven en die de rechtstreekse voordelen voor deze bedrijven overstijgen;<br /><br />13° actieprogramma: een programma tot ondersteuning van onderzoek en ontwikkeling van het bedrijfsleven, beslist door de Vlaamse regering, met specifieke voorwaarden en bepalingen;<br /><br />14° achtergestelde lening: een lening heeft een achtergesteld karakter indien de schuldeiser die de lening toestaat er uitdrukkelijk mee instemt, ingeval van vereffening van de onderneming die de lening ontvangt, pas na alle andere schuldeisers van de onderneming te worden uitbetaald. De andere schuldeisers kunnen deze achtergestelde leningen dan ook beschouwen als een aanvulling van het eigen vermogen van de onderneming.
+...
 
 ## HOOFDSTUK II STEUN TOT BEVORDERING VAN ONDERZOEK EN ONTWIKKELING VAN HET BEDRIJFSLEVEN
 
 ### ART. 2.
 
-Binnen de perken van de begrotingskredieten wordt voor onderzoek en ontwikkeling op initiatief van Vlaamse bedrijven steun verleend.
+...
 
 ### ART. 3.
 
-Tot een maximum van 80 % van de projectkosten kan de raad van bestuur bovenop een toegekende steun een aanvullende voorfinanciering toestaan tegen minimaal het rentepercentage van de langetermijninvesteringskredieten zoals bepaald door de referentierente van de Europese Commissie voor België, vermeerderd met 4 %, als het projecten zijn van kleine of middelgrote ondernemingen.<br /><br />Deze voorfinanciering kan pas toegekend worden als de financiering van het project onvoldoende tot stand kan komen door de gebruikelijke kanalen van krediet- en kapitaalverschaffing en als er voldoende zekerheid bestaat dat geen oneigenlijk gebruik zal worden gemaakt van deze voorfinanciering. Deze voorfinanciering kan de vorm aannemen van achtergestelde leningen.<br /><br />De nadere regelen van de terugbetaling van deze voorfinanciering worden door de raad van bestuur vastgelegd.
+...
 
 ## HOOFDSTUK III MAXIMAAL STEUNPERCENTAGE EN CUMULATIE MET ANDERE STEUN
 
@@ -22,120 +22,120 @@ Tot een maximum van 80 % van de projectkosten kan de raad van bestuur bovenop ee
 
 ### ART. 4.
 
-§ 1. Onverminderd het bepaalde in artikel 6 bedraagt de steun voor een project van industrieel basisonderzoek 50 % van de kosten die overeenkomstig de bijlage voor het project aanvaard worden.<br /><br />§ 2. Onverminderd het bepaalde in artikel 6, bedraagt de steun voor een prototype-, ontwikkelingsproject 25 % van de kosten die overeenkomstig de bijlage voor het project aanvaard worden.
+...
 
 ### ART. 5.
 
-In geval van O & O-activiteiten die zowel industrieel basisonderzoek als ontwikkeling omvatten, is de toelaatbare steunintensiteit niet hoger dan het gewogen gemiddelde van de steunpercentages die op de twee soorten onderzoek van toepassing zijn.
+...
 
 ### ART. 6.
 
-§ 1. De in artikelen 4 en 5 bepaalde steunpercentages kunnen binnen de perken van het wetenschaps- en technologiebeleid van de Vlaamse regering als volgt verhoogd worden:<br /><br />1° indien de steun ten goede komt aan kleine en middelgrote ondernemingen is een verhoging met maximaal 10 % van toepassing;<br /><br />2° indien het onderzoeksproject wordt uitgevoerd in een regio die in aanmerking komt voor steun krachtens artikel 87, lid 3 onder c) van het EG-verdrag: een verhoging van maximaal 5 % van toepassing;<br /><br />3° een verhoging met maximaal 15 % is van toepassing wanneer het onderzoeksproject aansluit bij de doelstellingen van een project of een specifiek programma dat is opgesteld ingevolgde het communautaire kaderprogramma op het gebied van onderzoek en ontwikkeling.<br /><br />Deze verhoging bedraagt maximaal 25 % wanneer het project wordt uitgevoerd op basis van grensoverschrijdende samenwerking waarbij ondernemingen en openbare instellingen van ten minste twee onafhankelijke partners uit twee Lid-Staten daadwerkelijk samenwerken, en het project gepaard gaat met een ruime verspreiding en publicatie van de resultaten, met inachtneming van de intellectuele en industriële eigendomsrechten;<br /><br />4° wanneer een onderzoeksproject niet aansluit bij de doelstellingen van een project of een specifiek programma dat is opgesteld ingevolge het Communautaire kaderprogramma op het gebied van onderzoek en ontwikkeling kan een verhoging met maximaal 10 % worden toegepast indien aan ten minste één van de 3 volgende voorwaarden wordt voldaan:<br /><br />a) het project wordt uitgevoerd op basis van daadwerkelijke grensoverschrijdende samenwerking waarbij ten minste twee onafhankelijke partners uit twee Lid-Staten zijn betrokken, met name in het kader van de coördinatie van het O&O- en innovatiebeleid van de Vlaamse regering;<br /><br />b) het project wordt uitgevoerd op basis van een daadwerkelijke samenwerking tussen ondernemingen en onderzoeksinstellingen in het bijzonder in het kader van een actieprogramma binnen het wetenschaps- en technologisch innovatiebeleid van de Vlaamse regering;<br /><br />c) het project gaat gepaard met een ruime verspreiding en publicatie van de resultaten, de toekenning van octrooivergunningen of welk ander adequaat middel dan ook volgens dezelfde voorwaarden als die welke gelden voor de verspreiding van de resultaten van communautair onderzoek en technologische ontwikkeling krachtens artikel 130 J van het EG-verdrag.<br /><br />§ 2. Cumulering van de in § 1 beschreven verhogingen en de in artikelen 4 en 5 vermelde steunpercentages mag evenwel niet leiden tot een steunpercentage van meer dan 75 % voor industrieel basisonderzoek en 50 % voor ontwikkeling. Deze maximumpercentages moeten in alle gevallen in acht worden genomen.
+...
 
 ## AFDELING 2 CUMULATIE MET ANDERE STEUN
 
 ### ART. 7.
 
-Projectkosten komen pas in aanmerking voor de toekenning van steun indien ze geen andere vorm van steun van de Vlaamse Overheid genieten.<br /><br />Indien een onderzoeksproject financieel wordt gesteund door een publiekrechtelijk persoon die niet ressorteert onder de Vlaamse Overheid, kan steun worden toegekend, met dien verstande dat voor de berekening van het maximale steunpercentage, zoals bepaald in de artikelen 4, 5 en 6 rekening zal worden gehouden met de samengestelde steun.
+...
 
 ## HOOFDSTUK IV PROCEDURE VOOR DE BEHANDELING VAN DE AANVRAGEN VOOR STEUN AAN BEDRIJVEN
 
 ### ART. 8.
 
-§ 1. De aanvragen van bedrijven moeten worden geformuleerd overeenkomstig de aanvraagprocedures die de raad van bestuur vaststelt. De raad van bestuur kan voorzien in één of meerdere uiterste indieningsdata vast te leggen in de loop van een werkjaar, naargelang van de specifieke projecttypes, met het oog op een gegroepeerde beslissing over steunaanvragen.<br /><br />Een aanvraag kan echter op elk moment worden ingediend.<br /><br />Voor elke aanvraag wordt binnen 14 werkdagen na indiening een bericht van ontvangstmelding bezorgd aan de aanvrager, met vraag naar verdere informatie ingeval het dossier formeel niet beantwoordt aan de indieningsinstructies van de algemene richtlijnen vastgesteld door de raad van bestuur.<br /><br />§ 2. Het directiecomité oordeelt over de ontvankelijkheid van de aanvraag met het oog op de grondige behandeling op basis van de formele indieningsvoorwaarden en instructies zoals bedoeld in § 1 hiervoor.<br /><br />§ 3. De aanvragen die niet ontvankelijk werden verklaard, kunnen door het directiecomité administratief worden afgesloten, wanneer de aanvrager binnen 75 werkdagen na het eerste verzoek van IWT-Vlaanderen om zijn dossier te vervolledigen, niet voldoet aan de formele vereisten van de aanvraag. De beslissing van het directiecomité wordt samen met de motivering medegedeeld aan de aanvrager en aan de raad van bestuur.<br /><br />§ 4. De aanvragen die binnen 14 werkdagen na een vastgestelde uiterste indieningsdatum die er betrekking op heeft, ontvankelijk kunnen worden verklaard, moeten een evaluatieprocedure doorlopen van maximaal 75 werkdagen tot de uiteindelijke beslissing door de raad van bestuur, te rekenen vanaf de datum van ontvankelijkheidsverklaring.<br /><br />§ 5. Indien de aanvrager tijdens de evaluatieprocedure bijkomend gevraagde informatie niet op tijd levert, kan de raad van bestuur een beslissing nemen binnen de voorgeschreven termijn, op basis van de beschikbare elementen van het dossier, tenzij de aanvrager schriftelijk en gemotiveerd verzoekt om de beslissing uit te stellen. Een volgende uiterste indieningsdatum is dan op deze aanvraag van toepassing.<br /><br />§ 6. De aanvrager kan zijn projectvoorstel opnieuw indienen indien geen positieve beslissing tot steun werd genomen. De eerstvolgende uiterste indieningsdatum is dan van toepassing. Bij voorkeur zal de aanvrager zijn projectvoorstel eventueel verbeteren en hierbij rekening houden met de elementen van de eerste evaluatie. Bij de eerste herkansing terzake zal de initiële indieningsdatum gelden voor de aanvaardbare kosten, zoals vastgesteld in de bijlage, behalve als de aanvrager een beroep doet op de mogelijkheid die bepaald is in § 5.
+...
 
 ### ART. 9.
 
-De raad van bestuur stelt de colleges van deskundigen samen, en bepaalt de procedure voor de adviesverstrekking en houdt rekening met de aard van de aanvragen die ontvankelijk werden verklaard. De raad van bestuur kan deze bevoegdheid delegeren aan het directiecomité of aan een specifieke commissie die de raad samenstelt.
+...
 
 ### ART. 10.
 
-De identiteit van de aanvrager wordt bekendgemaakt aan het college van deskundigen tenzij de aanvrager zelf uitdrukkelijk wenst dat de anonimiteit in acht wordt genomen ten aanzien van externe deskundigen. Tevens kan de aanvrager, om redenen van vertrouwelijkheid, het IWT-Vlaanderen verzoeken om sommige elementen van het dossier niet voor te leggen aan de deskundigen.
+...
 
 ### ART. 11.
 
-De raad van bestuur beslist op basis van het dossier, waaronder het advies van het college van deskundigen en bepaalt de omvang en de aard van de steun alsmede de bijzondere voorwaarden en de nadere regelen ervan.<br /><br />De raad van bestuur kan deze bevoegdheid delegeren aan het directiecomité of aan een specifieke commissie die de raad samenstelt.
+...
 
 ## HOOFDSTUK V BESLISSINGBEPALINGEN EN -CRITERIA
 
 ### ART. 12.
 
-§ 1. De raad van bestuur kan een negatieve beslissing nemen of extra voorwaarden stellen op basis van de volgende elementen:<br /><br />1° bij onvoldoende financiële draagkracht van de aanvrager of eventuele partners aan het project ten behoeve van de uitvoering of het welslagen ervan;<br /><br />2° indien de aanvrager of partners bij het project niet voldoen aan overige verplichtingen of vergunningen vanwege de overheid;<br /><br />3° indien de aanvrager of partners bij het project blijk hebben gegeven van niet- correct gedrag naar aanleiding van vorige aanvragen, onder meer inzake informatieverstrekking, inhoudelijke en financiële verplichtingen of verslaggeving.<br /><br />§ 2. Indien een project beantwoordt aan de indieningsvereisten van lopende actieprogramma's, kan de raad van bestuur beslissen om het project binnen dit specifieke kader te behandelen, zonder dat hiertoe een nieuwe aanvraag geformuleerd moet worden.
+...
 
 ### ART. 13.
 
-§ 1. De raad van bestuur zal bij zijn beslissing om een project al dan niet steun te verlenen, steunen op de volgende beoordelingsdimensies:<br /><br />1° de wetenschappelijk-technologische waarde van het project. Vooral de volgende aspecten zullen hierbij beoordeeld worden:<br /><br />a) de originaliteit en de creativiteit van het project;<br /><br />b) de omvang en de aanvaardbaarheid van het wetenschappelijk-technologisch risico;<br /><br />c) de haalbaarheid binnen het vastgestelde tijdsbestek;<br /><br />d) de deskundigheid van de uitvoerders;<br /><br />2° het valorisatiepotentieel van het project, met name de mogelijke economische toegevoegde waarde in Vlaanderen die het gevolg kan zijn van de valorisatie van de onderzoeksresultaten. Vooral de volgende aspecten zullen hierbij beoordeeld worden:<br /><br />a) het strategische belang voor het bedrijf;<br /><br />b) de marktvooruitzichten of de marktconsolidatie in verhouding tot de projectinvesteringen;<br /><br />c) de commerciële uitdagingen en risico's bij valorisatie door het bedrijf;<br /><br />d) de overige specifieke troeven of handicaps van de aanvragen met betrekking tot een succesvolle valorisatie;<br /><br />3° het stimulerende karakter van steunverlening en de potentiële sociaal-economische effecten bij valorisatie van de onderzoeksresultaten. Vooral de volgende aspecten zullen hierbij beoordeeld worden:<br /><br />a) het externe kennisdiffusiepotentieel van het project;<br /><br />b) de interactie met het Vlaams economisch weefsel;<br /><br />c) het potentieel positief werkgelegenheidssaldo bij valorisatie;<br /><br />d) de bijdrage aan een duurzame ontwikkeling;<br /><br />e) het effect van steun op de realisatie van het project of op latere fases ervan;<br /><br />f) het strategische belang voor het bedrijf;<br /><br />g) de bedrijfsomvang.<br /><br />§ 2. De raad van bestuur zal bij de nadere invulling van de beoordeling tevens rekening houden met de algemene beleidslijnen van de politieke overheid zoals vastgelegd in de beheersovereenkomst met de Vlaamse regering of volgens de bepalingen voor een actieprogramma op initiatief van de Vlaamse regering.<br /><br />§ 3. De raad van bestuur oordeelt over de prioriteitstelling inzake steun op basis van de budgettaire mogelijkheden, de gewogen beoordelingsdimensies en de eventuele bepalingen in de beheersovereenkomst met de Vlaamse regering of zoals vastgesteld in de bepalingen voor een actieprogramma.<br /><br />§ 4. Indien de budgettaire mogelijkheden in verhouding tot het volume aanvragen ongewenste verdringingseffecten zouden veroorzaken, kan de raad van bestuur beperkingen opleggen aan het jaarlijkse steunvolume per aanvrager op basis van het volume van de jaarlijkse portfolio gesteunde onderzoeksprojecten en van de ontwikkeling-inspanningen van de aanvrager zelf en voorzover dit algemeen geldend voor alle aanvragers is.
+...
 
 ### ART. 14.
 
-De raad van bestuur zal jaarlijks omstandig verantwoording afleggen bij de Vlaamse regering inzake de steunvoorwaarden en de overwegingen die tot zijn beslissingen hebben geleid.
+...
 
 ## HOOFDSTUK VI VERZOEK TOT HERZIENING
 
 ### ART. 15.
 
-Na de beslissing van de raad van bestuur wordt aan de aanvrager een afschrift betekend van de gemotiveerde beslissing.<br /><br />Ingeval de beslissing negatief is, wordt uitdrukkelijk verwezen naar het recht van de aanvrager om, overeenkomstig artikel 16, herziening van de beslissing te vragen of, overeenkomstig artikel 8, § 6, het project opnieuw in te dienen.
+...
 
 ### ART. 16.
 
-§ 1. De aanvrager kan de herziening vragen van de beslissing van de raad van bestuur tot weigering van een tegemoetkoming, zonder evenwel de opportuniteit van de beslissing in vraag te kunnen stellen. De herziening wordt, op straffe van verval, gevraagd per aangetekend schrijven, binnen een termijn van dertig werkdagen na afgifte bij de post van de betekening van de beslissing.<br /><br />§ 2. Het verzoekschrift tot herziening bevat, op straffe van onontvankelijkheid, een opgave van de objectief apprecieerbare wetenschappelijke, technologische of bedrijfseconomische elementen van het dossier, dat aan de raad van bestuur ter beslissing wordt voorgelegd, waarvan de aanvrager beweert dat de incorrecte appreciatie kennelijk bepalend is geweest voor het nemen van de bestreden beslissing, alsmede de argumenten ter weerlegging van bedoelde appreciatie. De aanvrager beschikt daartoe over het recht op inzage van het dossier, zoals het ter beslissing is voorgelegd aan de raad van bestuur.<br /><br />§ 3. Ingeval de beslissing van de raad van bestuur steunt op een negatief advies van het college van deskundigen, kan de aanvrager de samenstelling van een nieuw college van deskundigen vragen. De raad van bestuur oordeelt of dit redelijk is. Het college kan zijn advies beperken tot de beoordeling van de door de aanvrager aangevoerde argumenten weergegeven in zijn verzoekschrift.<br /><br />§ 4. De raad van bestuur beslist binnen dertig werkdagen na ontvangst van het verzoekschrift tot herziening.<br /><br />In geval de raad van bestuur beslist tot de samenstelling van een nieuw college van deskundigen wordt deze termijn met dertig dagen verlengd.<br /><br />§ 5. Ingeval de herziening wordt verworpen, motiveert de raad van bestuur zijn beslissing onder verwijzing naar de argumenten aangebracht door de aanvrager.<br /><br />Indien de herziening wordt aanvaard bepaalt de raad van bestuur de te volgen procedure en neemt een definitieve beslissing over het dossier binnen 45 werkdagen na de beslissing tot herziening. De beslissing van de raad van bestuur wordt per aangetekend schrijven betekend aan de aanvrager.<br /><br />§ 6. De raad van bestuur kan deze bevoegdheid niet delegeren.
+...
 
 ### ART. 17.
 
-Onverminderd de toepassing van artikel 23, worden de voorwaarden en de nadere regelen die de raad van bestuur heeft vastgelegd voor de steun opgenomen in een overeenkomst die IWT-Vlaanderen sluit met de aanvrager, volgens een type-overeenkomst goedgekeurd door de raad van bestuur.
+...
 
 ## HOOFDSTUK VII AANWENDING VAN DE STEUN EN TOEZICHT
 
 ### ART. 18.
 
-De exploitatie van de resultaten van het onderzoeksproject moet in voldoende mate plaatsvinden in het Vlaamse Gewest. De in artikel 17 bedoelde overeenkomst regelt hiervoor nader de verplichtingen.
+...
 
 ### ART. 19.
 
-IWT-Vlaanderen wordt belast met het toezicht op de aanwending door de begunstigden van de steun die krachtens dit besluit worden toegekend.
+...
 
 ### ART. 20.
 
-De begunstigde van steun levert op geregelde tijdstippen schriftelijk verslag aan IWT-Vlaanderen betreffende de vordering van het project en de aanwending van de steun en telkens als IWT-Vlaanderen daarom verzoekt. Hij brengt na afloop van het project een eindverslag uit over het verloop en de resultaten van het project.
+...
 
 ### ART. 21.
 
-De begunstigde die de voorwaarden en bepalingen waaronder de steun werd toegekend niet naleeft, wordt bij beslissing van de raad van bestuur van IWT-Vlaanderen in gebreke gesteld.<br /><br />Vanaf de ingebrekestelling wordt elke verdere uitbetaling van steun aan de begunstigde geschorst.<br /><br />De vordering van terugbetaling van de oneigenlijk aangewende steun wordt ingeleid door de raad van bestuur van IWT-Vlaanderen.<br /><br />De raad van bestuur kan de bevoegdheid tot vordering van terugbetaling delegeren.
+...
 
 ### ART. 22.
 
-De begunstigde kan in beroep gaan tegen de beslissingen van de raad van bestuur inzake de ingebrekestelling of vordering tot terugbetaling overeenkomstig artikel 21 van onderhavig besluit.<br /><br />Het beroep moet aangetekend bezorgd worden binnen een termijn van 30 werkdagen na de betekening van de beslissing.<br /><br />Het beroep moet door IWT-Vlaanderen behandeld worden binnen een termijn van 30 werkdagen, waarna de raad van bestuur een nieuwe beslissing kan bepalen.
+...
 
 ### ART. 23.
 
-§ 1. De toekenning van de steun en het recht op het behoud ervan is afhankelijk van de uitdrukkelijke voorwaarde dat de steunverkrijger de informatie- en raadplegingsprocedures zoals omschreven in artikel 35, § 2 van het decreet van 19 december 1998 houdende bepalingen tot begeleiding van de begroting 1999 volledig naleeft ingeval van collectief ontslag van het personeel.<br /><br />§ 2. De niet naleving van de informatie- en raadplegingsprocedures wordt door de Vlaamse regering vastgesteld. De datum van haar beslissing geldt als uitgangspunt voor het bepalen van de periode van vijf jaar waarbinnen alle steun zal worden teruggevorderd, zoals bepaald in artikel 35, § 1, van het voormelde decreet van 19 december 1998.<br /><br />Met ingang van de datum van de in het eerste lid voormelde beslissing van de Vlaamse regering is het IWT-Vlaanderen bevrijd van elke verdere verplichting tot uitbetaling waarin de contractuele bepalingen van op dat ogenblik lopende toekenningsovereenkomsten zouden voorzien.<br /><br />§ 3. Het recht op terugvordering door het IWT-Vlaanderen betreft het geheel van de in voormelde periode van vijf jaar door de steunverkrijger ontvangen betalingen of de onmiddellijke terugbetaling van toegezegde achtergestelde leningen, ongeacht het aantal projecten of het aantal aparte overeenkomsten en hun stand van uitvoering in de periode van vijf jaar voorafgaand aan de in artikel 23, § 2, bedoelde beslissing van de Vlaamse regering.<br /><br />Ingeval de steunverkrijger medecontractant is in een gezamenlijke overeenkomst met andere toelageverkrijgers, dan is de terugvordering beperkt tot het aandeel en de steun van diesteunverkrijger volgens die overeenkomst.<br /><br />§ 4. De bepalingen van dit artikel worden opgenomen in alle nieuwe overeenkomsten die IWT-Vlaanderen vanaf de inwerkingtreding van dit besluit afsluit met elke aanvrager van steun.
+...
 
 ## HOOFDSTUK VIII GEHEIMHOUDING
 
 ### ART. 24.
 
-De personeelsleden van IWT-Vlaanderen, de leden van de raad van bestuur van IWT-Vlaanderen, de leden van het college van deskundigen alsmede alle andere personen die ambtshalve kennis krijgen van een dossier zoals bedoeld in dit besluit, zullen de gegevens in kwestie als strikt vertrouwelijk behandelen, ze niet mededelen aan derden, noch in hun eigen voordeel aanwenden.
+...
 
 ## HOOFDSTUK IX SLOTBEPALINGEN
 
 ### ART. 25.
 
-§ 1. (niet opgenomen)<br /><br />(Heft het besluit van de Vlaamse regering van 23 oktober 1991 tot regeling van de bevordering van het industrieel-wetenschappelijk-technologisch onderzoek in Vlaanderen op)<br /><br />§ 2. Bij overgangsmaatregel worden de aanvragen die, overeenkomstig het voormelde besluit van 23 oktober 1991, vóór de datum van inwerkingtreding van dit besluit werden ingediend, behandeld volgens de procedures bepaald door dat besluit.<br /><br />§ 3. Bij overgangsmaatregel worden de aanvragen die overeenkomstig het besluit van de Vlaamse regering van 27 mei 1987 tot bevordering van het industrieel wetenschappelijk onderzoek, vóór 1 november 1991 werden ingediend, behandeld volgens de procedures, bepaald door dat besluit, met dien verstande dat de bevoegdheden m.b.t. de behandeling van deze aanvragen door de raad van bestuur van IWT-Vlaanderen worden uitgeoefend.
+...
 
 ### ART. 26.
 
-De artikelen 3, 1°, en 5 van het decreet van 18 mei 1999 betreffende het voeren van een beleid ter aanmoediging van de technologische innovatie, treden in werking op 5 oktober 2001.
+...
 
 ### ART. 27.
 
-Dit besluit heeft uitwerking met ingang van 5 oktober 2001.
+...
 
 ### ART. 28.
 
-De Vlaamse minister bevoegd voor het wetenschaps- en technologisch innovatiebeleid is belast met de uitvoering van dit besluit.
+...
 
 ## Bijlage
 
 ### Tekst
 
-Als projectkosten kunnen in aanmerking worden genomen de volgende kosten die, na de datum van indiening van de aanvraag door de aanvrager en zijn partners gemaakt en betaald zijn. Deze kosten moeten noodzakelijk zijn en rechtstreeks aan het project toegerekend kunnen worden. Wanneer de kosten ook uit andere O & O-projecten voortvloeien, moeten zij worden omgeslagen over het gesteunde O & O-project en de andere activiteiten:<br /><br />- personeelskosten (onderzoekers, technici en ander ondersteunend personeel dat zich uitsluitend met onderzoek bezighoudt);<br /><br />- kosten van apparatuur, uitrusting, land en gebouwen die uitsluitend en permanent (behalve indien ze op commerciële basis worden afgestaan) voor onderzoek worden gebruikt;<br /><br />- kosten verschuldigd aan derden voor advies en soortgelijke diensten die uitsluitend voor onderzoek worden gebruikt, met inbegrip van uitbesteed onderzoek, aangekochte technische kennis, octrooien, enz.;<br /><br />- extra algemene kosten die rechtstreeks uit de onderzoeksactiviteiten voortvloeien maar die niet direct toewijsbaar zijn;<br /><br />- andere exploitatiekosten (zoals die van materieel, leveranties en dergelijke) die rechtstreeks uit de onderzoeksactiviteiten voortvloeien.<br /><br />Het is toegestaan extra algemene kosten en andere exploitatiekosten forfaitair te berekenen met een maximum van 20 % van de directe kosten. De raad van bestuur kan binnen deze algemene bepalingen de aanvaarde kosten vastleggen en beperken. Hierbij zullen de nodige garanties worden ingebouwd dat de gemaakte kosten reëel zijn en betrekking hebben op onderzoek en ontwikkeling.
+...
