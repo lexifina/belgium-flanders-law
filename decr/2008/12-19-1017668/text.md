@@ -24,6 +24,10 @@ In artikel 12, § 1, van hetzelfde decreet worden de volgende wijzigingen aangeb
 
 In artikel 13 van hetzelfde decreet worden de volgende wijzigingen aangebracht : <br />1° in § 4, eerste zin, wordt tussen de woorden "voor tuinbouwteelten" en de woorden "de toegelaten hoeveelheid" de woorden "en voor graszodenteelt" ingevoegd;<br /><br />2° een § 11 wordt toegevoegd, die luidt als volgt : <br />« § 11. De Vlaamse Regering kan bepalen dat onder welbepaalde voorwaarden voor wetenschappelijke proefnemingen de toelating gegeven kan worden om af te wijken van voorgaande paragrafen. »<br /><br />
 
+### ART. 6.
+
+In artikel 18, § 1, van hetzelfde decreet wordt, na het eerste lid, een nieuw lid ingevoegd, dat luidt als volgt : <br />« Op landbouwgronden die voor een deel gelegen zijn in meerdere gebieden met verschillende bemestingsregels of bemestingsnormen, worden voor de beperkingen voor difosforpentoxide, stikstof, stikstof uit dierlijke mest, stikstof uit andere meststoffen en stikstof uit kunstmest, de bepalingen die van toepassing zijn op het grootste gedeelte van het perceel van toepassing op het volledige perceel. »<br /><br />
+
 ### ART. 7.
 
 In artikel 22 van hetzelfde decreet worden de volgende wijzigingen aangebracht : <br />1° in § 1, eerste lid, 2°, a), worden de woorden "zode-injectie of sleepslangtechniek" vervangen door de woorden "zode-injectie, sleepslangtechniek of sleufkouter";<br /><br />2° een § 3 wordt toegevoegd, die luidt als volgt : <br />« § 3. De Vlaamse Regering kan bepalen dat onder welbepaalde voorwaarden voor wetenschappelijke proefnemingen de toelating gegeven kan worden om af te wijken van voorgaande paragrafen. »<br /><br />
@@ -36,9 +40,17 @@ In artikel 24, § 1, van hetzelfde decreet worden tussen de woorden "elke landbo
 
 In artikel 26, § 4, eerste lid, van hetzelfde decreet wordt het woord "mestuitscheidingsbalans" vervangen door het woord "nutriëntenbalans".<br /><br />
 
+### ART. 10.
+
+In de tabel van artikel 27, § 1, eerste lid, van hetzelfde decreet worden de woorden "Kwekerij (per vrouwelijk konijn)" en de woorden "Kwekerij (per moederdier)" telkens vervangen door de woorden "Kwekerij (per volwassen dier)".<br /><br />
+
 ### ART. 11.
 
 In artikel 29, § 3, derde lid, van hetzelfde decreet worden de volgende wijzigingen aangebracht : <br />1° de woorden "pluimveemest of van paardenmest" worden vervangen door de woorden "dierlijke mest";<br />2° de woorden "pluimveemest of paardenmest" worden vervangen door de woorden "dierlijke mest".<br /><br />
+
+### ART. 12.
+
+In de tabel van artikel 30, § 3, eerste lid, van hetzelfde decreet worden de woorden "Kwekerij (per vrouwelijk konijn)" en de woorden "Kwekerij (per moederdier)" telkens vervangen door de woorden "Kwekerij (per volwassen dier)".<br /><br />
 
 ### ART. 13.
 
