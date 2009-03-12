@@ -2,16 +2,16 @@
   "codex_id": 1015794,
   "title": "Besluit van de Vlaamse Regering van 2007-04-20 betreffende de invoering van het energieprestatiecertificaat voor publieke gebouwen",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1015794/VolledigDocument?datum=2007-06-04",
-  "source_sha256": "515ec6caf67af2994200ef32172c94989f78127116ae0fcb8dcd73bf1e760369",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1015794/VolledigDocument?datum=2009-03-12",
+  "source_sha256": "593ec838524e78cab08a2097e93888ea82bb21672f52cd6edcc6195552b61630",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1015794&param=informatie",
-  "as_of": "2007-06-04",
+  "as_of": "2009-03-12",
   "made": "2007-04-20",
   "gazette": "2007-05-25",
   "numac": 2007035778,
   "document_start": "2007-06-04",
   "document_end": "2010-12-31",
-  "in_force": "2007-06-04",
+  "in_force": "2009-03-12",
   "article_versions": 13,
-  "record_form": "consolidated version as in force on 2007-06-04; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2009-03-12; future article versions excluded; article text as the API gives it"
 }
