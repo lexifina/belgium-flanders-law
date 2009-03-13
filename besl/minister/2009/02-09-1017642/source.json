@@ -1,0 +1,17 @@
+{
+  "codex_id": 1017642,
+  "title": "Ministerieel besluit van 2009-02-09 betreffende de vaststelling van het zoneringsplan van de gemeente Lovendegem",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1017642/VolledigDocument?datum=2009-03-13",
+  "source_sha256": "75576b9b28af35b4be4ee850ae34d79a37e4c3ca65c9c58e763434dd9f6be02a",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1017642&param=informatie",
+  "as_of": "2009-03-13",
+  "made": "2009-02-09",
+  "gazette": "2009-03-03",
+  "numac": 2009035176,
+  "document_start": "2009-03-13",
+  "document_end": null,
+  "in_force": "2009-03-13",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2009-03-13; oldest version available; future article versions excluded; article text as the API gives it"
+}
