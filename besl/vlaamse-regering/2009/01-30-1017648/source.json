@@ -1,0 +1,17 @@
+{
+  "codex_id": 1017648,
+  "title": "Besluit van de Vlaamse Regering van 2009-01-30 houdende de vaststelling van de bekkenbeheerplannen overeenkomstig artikel 48 van het decreet van 18 juli 2003 betreffende het integraal waterbeleid",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1017648/VolledigDocument?datum=2009-03-15",
+  "source_sha256": "b9bff9f2382515af4c6e0f52dd73cccc2f7de3161f45e85850a9bab08ebe04ab",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1017648&param=informatie",
+  "as_of": "2009-03-15",
+  "made": "2009-01-30",
+  "gazette": "2009-03-05",
+  "numac": 2009200812,
+  "document_start": "2009-03-15",
+  "document_end": null,
+  "in_force": "2009-03-15",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2009-03-15; oldest version available; future article versions excluded; article text as the API gives it"
+}
