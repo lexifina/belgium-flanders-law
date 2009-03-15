@@ -1,0 +1,17 @@
+{
+  "codex_id": 1017651,
+  "title": "Ministerieel besluit van 2009-02-05 houdende de wijziging van het ministerieel besluit van 16 maart 2005 tot erkenning van verenigingen voor de paardenfokkerij en het ministerieel besluit van 25 oktober 2005 houdende de organisatie van de uitbouw van fokkerijstructuren in Vlaanderen, wat betreft de erkenning van de fokkersvereniging Vlaamse Federatie voor Paardenwedrennen VZW",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1017651/VolledigDocument?datum=2009-03-15",
+  "source_sha256": "ab15dc2d53f7b06e3e6f18d8effcca6246ae8f3ef6e5f86f4416b91e8dcf7d8a",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1017651&param=informatie",
+  "as_of": "2009-03-15",
+  "made": "2009-02-05",
+  "gazette": "2009-03-05",
+  "numac": 2009200811,
+  "document_start": "2009-03-15",
+  "document_end": null,
+  "in_force": "2009-03-15",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2009-03-15; oldest version available; future article versions excluded; article text as the API gives it"
+}
