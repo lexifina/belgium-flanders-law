@@ -1,0 +1,17 @@
+{
+  "codex_id": 1017656,
+  "title": "Decreet van 2009-02-20 houdende instemming met het protocol inzake ontplofbare oorlogsresten en de technische bijlage, aangenomen in Genève, op 28 november 2003",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1017656/VolledigDocument?datum=2009-03-19",
+  "source_sha256": "fe6070ddea5a27ea643041aa8389ac32c456ada142e7c5dc675835cf90040432",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1017656&param=informatie",
+  "as_of": "2009-03-19",
+  "made": "2009-02-20",
+  "gazette": "2009-03-09",
+  "numac": 2009200877,
+  "document_start": "2009-03-19",
+  "document_end": null,
+  "in_force": "2009-03-19",
+  "article_versions": 2,
+  "record_form": "consolidated version as in force on 2009-03-19; oldest version available; future article versions excluded; article text as the API gives it"
+}
