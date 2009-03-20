@@ -1,5 +1,9 @@
 # Decreet van 2008-12-19 houdende de vergoeding, verschuldigd door de gebruikers van het verkeersbegeleidingssysteem voor vaartuigen
 
+### ART. 1.
+
+Dit decreet regelt een gewestaangelegenheid.<br /><br />
+
 ### ART. 2.
 
 <p>In het decreet van 19 april 1995 betreffende de organisatie en de werking van de loodsdienst van het Vlaamse Gewest en betreffende het brevet van havenloods, wordt voor de periode van 1 april 1996 tot en met 31 maart 1997 een artikel 14bis opgenomen in de volgende lezing :<br>
@@ -8568,3 +8572,7 @@ In het geval van gesleepte vaart is de VBS-vergoeding verschuldigd voor de sleep
 ### ART. 7.
 
 Het besluit van de Vlaamse Regering van 28 februari 1996 betreffende de vergoeding verschuldigd door de gebruikers van het verkeersbegeleidingssysteem voor vaartuigen, gewijzigd bij het besluit van de Vlaamse Regering van 25 maart 1997, het besluit van de Vlaamse Regering van 7 december 2001 en het besluit van 24 juni 2005, houdt op uitwerking te hebben met ingang van 1 april 1996.<br /><br />
+
+### ART. 8.
+
+Dit decreet treedt in werking op de tiende dag na de bekendmaking ervan in het Belgisch Staatsblad, met uitzondering van :<br />1° artikel 14bis van het decreet van 19 april 1995 betreffende de organisatie en de werking van de loodsdienst van het Vlaamse Gewest en betreffende het brevet van havenloods, ingevoegd bij artikel 2, dat uitwerking heeft van 1 april 1996 tot en met 31 maart 1997;<br />2° artikel 14bis van het decreet van 19 april 1995 betreffende de organisatie en de werking van de loodsdienst van het Vlaamse Gewest en betreffende het brevet van havenloods, ingevoegd bij artikel 3, dat uitwerking heeft van 1 april 1997 tot en met 31 december 2001;<br />3° artikel 14bis van het decreet van 19 april 1995 betreffende de organisatie en de werking van de loodsdienst van het Vlaamse Gewest en betreffende het brevet van havenloods, ingevoegd bij artikel 4, dat uitwerking heeft van 1 januari 2002 tot en met 28 februari 2005;<br />4° artikel 14bis van het decreet van 19 april 1995 betreffende de organisatie en de werking van de loodsdienst van het Vlaamse Gewest en betreffende het brevet van havenloods, ingevoegd bij artikel 5, dat uitwerking heeft van 1 maart 2005 tot en met 4 november 2006;<br />5° artikel 37bis van het decreet van 16 juni 2006 betreffende de begeleiding van de scheepvaart op de maritieme toegangswegen en de organisatie van het Maritiem Reddings- en Coördinatiecentrum, ingevoegd bij artikel 6, dat uitwerking heeft vanaf 5 november 2006.<br /><br />
