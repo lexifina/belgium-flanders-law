@@ -1,0 +1,17 @@
+{
+  "codex_id": 1017790,
+  "title": "Ministerieel besluit van 2009-04-01 tot vaststelling van de presentiegelden en vergoedingen voor het Raadgevend Comité van het Instituut voor Landbouw- en Visserijonderzoek (ILVO)",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1017790/VolledigDocument?datum=2009-03-20",
+  "source_sha256": "659b7f644207ea258539fd241233215f083b2372c3bd797e808fa39f4a8b5a13",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1017790&param=informatie",
+  "as_of": "2009-03-20",
+  "made": "2009-04-01",
+  "gazette": "2009-04-09",
+  "numac": 2009035304,
+  "document_start": "2009-03-20",
+  "document_end": null,
+  "in_force": "2009-03-20",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2009-03-20; oldest version available; future article versions excluded; article text as the API gives it"
+}
