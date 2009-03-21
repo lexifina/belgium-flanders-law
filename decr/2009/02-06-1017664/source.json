@@ -1,0 +1,17 @@
+{
+  "codex_id": 1017664,
+  "title": "Decreet van 2009-02-06 houdende instemming met het verdrag met betrekking tot de maatregelen die moeten worden genomen om de ongeoorloofde invoer, uitvoer en overdracht van eigendom van cultuurgoederen te voorkomen, aangenomen door de Algemene Conferentie van UNESCO tijdens haar zestiende zitting in Parijs op 14 november 1970",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1017664/VolledigDocument?datum=2009-03-21",
+  "source_sha256": "8aaa991c4ace73c880f6232f3fb077376d398a2294e5c81cce4cdeda054caa01",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1017664&param=informatie",
+  "as_of": "2009-03-21",
+  "made": "2009-02-06",
+  "gazette": "2009-03-11",
+  "numac": 2009200901,
+  "document_start": "2009-03-21",
+  "document_end": null,
+  "in_force": "2009-03-21",
+  "article_versions": 2,
+  "record_form": "consolidated version as in force on 2009-03-21; oldest version available; future article versions excluded; article text as the API gives it"
+}
