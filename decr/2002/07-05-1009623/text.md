@@ -60,7 +60,7 @@ Voor elke maatstaf worden de recentste waarden in aanmerking genomen waarover de
 
 ### ART. 13.
 
-Op het einde van de eerste maand van elk kwartaal wordt, onverminderd de bepalingen van artikel 21, aan elke gemeente en aan elk OCMW een voorschot uitbetaald dat gelijk is aan één vierde van hun aandeel, volgens de verhouding bepaald in artikel 12, van het laatste jaar waarvoor de Vlaamse regering de definitieve verdeling heeft bepaald.
+Op het einde van de eerste maand van elk kwartaal wordt, onverminderd de bepalingen van artikel 21, aan elke gemeente en aan elk OCMW een voorschot uitbetaald dat gelijk is aan één vierde van hun aandeel, volgens de verhouding bepaald in artikel 12, en zonder de jaarlijkse inhouding bepaald in artikel 19sexies, § 1, en de vermindering bepaald in artikel 19septies van het laatste jaar waarvoor de Vlaamse regering de definitieve verdeling heeft bepaald.
 
 ### ART. 14.
 
@@ -105,6 +105,18 @@ De gemeentelijke aandelen in de aanvullende dotatie waarvan sprake in artikel 19
 De bepalingen vermeld in de artikelen 6 tot en met 15 van dit decreet zijn niet van toepassing op de aanvullende dotatie, bedoeld in artikel 19bis van dit decreet.
 
 ## [HOOFDSTUK IIIter BIJZONDERE BEPALINGEN MET BETREKKING TOT DE GEMEENTEN DIE EEN GRENSOVERSCHRIJDENDE LEASINGOPERATIE VOOR HUN RIOOLSTELSEL HEBBEN AANGEGAAN, WAARAAN DE VLAAMSE REGERING WAARBORG HEEFT VERLEEND (ing. decr. 18 december 2009, art. 37)]
+
+### ART. 19sexies.
+
+§ 1. Onder de voorwaarde bepaald in artikel 19sexies, § 2, wordt het aandeel van Sint-Niklaas, Dendermonde en Hamme jaarlijks verminderd met een bedrag, dat de Vlaamse Regering vaststelt.<br /><br />Die jaarlijkse inhouding wordt voor elk van de besturen beperkt tot 10 % van hun aandeel, bepaald voor het jaar 2010 en berekend overeenkomstig artikel 6 tot en met artikel 11 van dit decreet en na toepassing van de waarborgregeling, bedoeld in artikel 10 van dit decreet, en zonder het OCMW-aandeel, berekend overeenkomstig artikel 12 van dit decreet.<br /><br />§ 2. De inhouding geschiedt wanneer de waarborg, verleend aan elk van de besturen voor de dekking van de grensoverschrijdende leasingoperatie met betrekking tot hun rioolstelsel, geheel of gedeeltelijk wordt uitgewonnen, conform de modaliteiten van het besluit van de Vlaamse Regering van 9 januari 2009 houdende toekenning van 3 gewestwaarborgen.<br /><br />§ 3. Indien het uitgewonnen bedrag per gemeente hoger ligt dan het maximum, bepaald in artikel 19 sexies , § 1, tweede lid, wordt het verschil overgedragen naar het volgende jaar.
+
+### ART. 19septies.
+
+Vóór de jaarlijkse inhouding bepaald in artikel 19sexies, § 1, tweede lid, wordt het aandeel verminderd met een bedrag van 3.743.677,28 euro bij Sint-Niklaas, 2.387.859,14 euro bij Dendermonde en 1.274.873,48 euro bij Hamme.<br /><br />Indien het conform het eerste lid uitgewonnen bedrag per gemeente hoger ligt dan het aandeel, wordt het verschil overgedragen naar het volgende jaar.
+
+### ART. 19octies.
+
+De inhouding zoals bepaald in artikel 19 sexies, § 1, en de vermindering van artikel 19septies worden gelijkmatig verrekend op de vier kwartaalvoorschotten op het aandeel van elk van de genoemde besturen voor het daaropvolgende jaar.
 
 ## [HOOFDSTUK IIIquater BIJZONDERE BEPALINGEN OVER DE VASTSTELLING VAN DE AANVULLENDE DOTATIE (ing. decr. 22 december 2017, art. 46, I: 1 januari 2018)]
 
