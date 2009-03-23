@@ -1,0 +1,17 @@
+{
+  "codex_id": 1017716,
+  "title": "Ministerieel besluit van 2008-11-24 tot vaststelling van het huishoudelijk reglement van de Geschillencommissie Overheidsopdrachten Mobiliteit",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1017716/VolledigDocument?datum=2009-03-23",
+  "source_sha256": "b57f708a0ab3f62bda005d8615f54d661abf0536297bac0cad07d9823e855cfc",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1017716&param=informatie",
+  "as_of": "2009-03-23",
+  "made": "2008-11-24",
+  "gazette": "2009-03-23",
+  "numac": 2009201121,
+  "document_start": "2009-03-23",
+  "document_end": null,
+  "in_force": "2009-03-23",
+  "article_versions": 13,
+  "record_form": "consolidated version as in force on 2009-03-23; oldest version available; future article versions excluded; article text as the API gives it"
+}
