@@ -2,16 +2,16 @@
   "codex_id": 1011078,
   "title": "Ministerieel besluit van 2003-05-05 tot vaststelling van het Huishoudelijk Reglement van de Geschillencommissie Overheidsopdrachten Mobiliteit",
   "type": "Ministerieel besluit",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1011078/VolledigDocument?datum=2006-06-01",
-  "source_sha256": "89cf3be387851e32b76227125d7cd91c8df1cf78504599089aa2be531cf03a47",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1011078/VolledigDocument?datum=2009-03-23",
+  "source_sha256": "7078f0199f7fb8568fc2a87aca01856a8a09e8b46fd5c504ca57a9ce149e15e1",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1011078&param=informatie",
-  "as_of": "2006-06-01",
+  "as_of": "2009-03-23",
   "made": "2003-05-05",
   "gazette": "2003-05-26",
   "numac": 2003035521,
   "document_start": "2003-05-26",
   "document_end": "2009-03-22",
-  "in_force": "2006-06-01",
+  "in_force": "2009-03-23",
   "article_versions": 12,
-  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2009-03-23; future article versions excluded; article text as the API gives it"
 }
