@@ -1,0 +1,17 @@
+{
+  "codex_id": 1017679,
+  "title": "Ministerieel besluit van 2009-02-18 betreffende de vaststelling van het zoneringsplan van de gemeente Roeselare",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1017679/VolledigDocument?datum=2009-03-23",
+  "source_sha256": "c8e198cefef4d4af8863184d1c9f257c66ef03491520a173a9113c27a0bc5850",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1017679&param=informatie",
+  "as_of": "2009-03-23",
+  "made": "2009-02-18",
+  "gazette": "2009-03-13",
+  "numac": 2009035191,
+  "document_start": "2009-03-23",
+  "document_end": null,
+  "in_force": "2009-03-23",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2009-03-23; oldest version available; future article versions excluded; article text as the API gives it"
+}
