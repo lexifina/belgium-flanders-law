@@ -1,0 +1,17 @@
+{
+  "codex_id": 1017706,
+  "title": "Ministerieel besluit van 2009-02-27 tot aanwijzing van een lid van de algemene vergadering van de NV Lijninvest",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1017706/VolledigDocument?datum=2009-03-29",
+  "source_sha256": "77b54619de38ab731bd5c7f42c405c2d4e53622847308c3d93a49f740b1ebd5f",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1017706&param=informatie",
+  "as_of": "2009-03-29",
+  "made": "2009-02-27",
+  "gazette": "2009-03-19",
+  "numac": 2009201069,
+  "document_start": "2009-03-29",
+  "document_end": null,
+  "in_force": "2009-03-29",
+  "article_versions": 2,
+  "record_form": "consolidated version as in force on 2009-03-29; oldest version available; future article versions excluded; article text as the API gives it"
+}
