@@ -384,6 +384,10 @@ In artikel 1, 7° en in artikel 31 van het besluit van de Vlaamse Regering van 1
 
 ## HOOFDSTUK XXXVI Opheffing van het besluit van de Vlaamse Regering van 26 januari 2007 inzake de erkenning en de subsidiëring van de inrichters van VLAO-aanspreekpunten en van de VLAO-aanspreekpunten
 
+### ART. 78.
+
+Het besluit van de Vlaamse Regering van 26 januari 2007 inzake de erkenning en de subsidiëring van de inrichters van VLAO-aanspreekpunten en van de VLAO-aanspreekpunten wordt opgeheven.<br /><br />
+
 ## HOOFDSTUK XXXVII Opheffing van het besluit van de Vlaamse Regering van 1 februari 2008 tot nadere regeling van het raadgevend comité dat bij het Vlaams Agentschap Ondernemen is opgericht
 
 ## HOOFDSTUK XXXVIII Slotbepalingen
