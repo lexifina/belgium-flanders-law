@@ -16,6 +16,10 @@ In artikel V 30 van hetzelfde besluit wordt het eerste lid vervangen door wat vo
 
 In artikel V 35 van hetzelfde besluit, gewijzigd bij het besluit van de Vlaamse Regering van 16 maart 2007, wordt een paragraaf 4 toegevoegd, die luidt als volgt :<br />« § 4. In afwijking van paragraaf 2, is artikel I 5, § 5, van toepassing op de N-1 functies. »<br /><br />
 
+### ART. 51.
+
+Aan artikel VI 1 van hetzelfde besluit, vervangen bij het besluit van de Vlaamse Regering van 16 maart 2007 en gewijzigd bij het besluit van de Vlaamse Regering van 23 mei 2008, worden de volgende wijzigingen aangebracht :<br />1° in het tweede lid worden tussen het woord « niveau » en « kan » de woorden « of de horizontale mobiliteit » ingevoegd;<br /><br />2° in het derde lid wordt het woord « ander » vervangen door het woord « hoger »;<br /><br />3° er wordt een vierde lid toegevoegd, dat luidt als volgt :<br />« Voor de toepassing van de interne arbeidsmarkt wordt het Gemeenschapsonderwijs geacht deel uit te maken van het beleidsdomein Onderwijs en Vorming. »<br /><br />
+
 ### ART. 53.
 
 In artikel VI 11, § 1, van hetzelfde besluit, ingevoegd bij het besluit van de Vlaamse Regering van 16 maart 2007, worden de woorden « rang A2 » telkens vervangen door de woorden « rang A2E ».<br /><br />
