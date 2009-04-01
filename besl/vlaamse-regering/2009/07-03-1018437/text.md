@@ -6,6 +6,10 @@ De Vlaamse Regering,<br /><br />Gelet op het decreet van 27 maart 1991 betreffen
 
 ## HOOFDSTUK I Toepassingsgebied
 
+### ART. 1.
+
+§ 1. Dit besluit is van toepassing op de volgende personeelsleden : <br />1° de personeelsleden, vermeld in artikel 2, § 1, van het decreet van 27 maart 1991 betreffende de rechtspositie van bepaalde personeelsleden van het gemeenschapsonderwijs;<br />2° de personeelsleden, vermeld in artikel 4, § 1, van het decreet van 27 maart 1991 betreffende de rechtspositie van sommige personeelsleden van het gesubsidieerd onderwijs en de gesubsidieerde centra voor leerlingenbegeleiding;<br />3° de leden van de Onderwijsinspectie van de Vlaamse Gemeenschap, vermeld in artikel 4 van het decreet van 17 juli 1991 betreffende inspectie, Dienst voor Onderwijsontwikkeling en pedagogische begeleidingsdiensten;<br />4° de personeelsleden van de dienst voor onderwijsontwikkeling, vermeld in artikel 9 van het decreet van 17 juli 1991 betreffende inspectie, Dienst voor Onderwijsontwikkeling en pedagogische begeleidingsdiensten;<br />5° de personeelsleden van de pedagogische begeleidingsdiensten, vermeld in artikel 88 van het decreet van 17 juli 1991 betreffende inspectie, Dienst voor Onderwijsontwikkeling en pedagogische begeleidingsdiensten;<br />6° de personeelsleden, vermeld in artikel 10 van het decreet van 1 december 1993 betreffende de inspectie en de begeleiding van de levensbeschouwelijke vakken. <br /><br />§ 2. Voor de tijdelijk aangestelde personeelsleden gelden de bepalingen van dit besluit enkel voor de afwezigheid die ligt binnen de periode van hun aanstelling.<br /><br />
+
 ## HOOFDSTUK II Omstandigheidsverlof en verlof wegens overmacht
 
 ### ART. 2.
@@ -24,12 +28,56 @@ De verloven, vermeld in artikel 2 en 3, worden gelijkgesteld met een periode van
 
 ## HOOFDSTUK III Onbezoldigd ouderschapsverlof
 
+### ART. 5.
+
+Het personeelslid, vermeld in artikel 1, dat in dienstactiviteit is, heeft bij de geboorte of adoptie van een kind recht op voltijds onbezoldigd ouderschapsverlof. Het personeelslid dat voor een gedeelte van zijn opdracht verlof wegens moederschapsbescherming tijdens de lactatie geniet, kan voor het resterend gedeelte van de opdracht onbezoldigd ouderschapsverlof nemen.<br /><br />Het verlof bedraagt maximaal drie maanden. Het moet ononderbroken worden genomen en aanvangen binnen het jaar na de geboorte van het kind. <br /><br />In geval van adoptie moet het onbezoldigde ouderschapsverlof aanvangen binnen het jaar na de inschrijving van het kind als deel uitmakend van het gezin in het bevolkingsregister of in het vreemdelingenregister in de gemeente waar zij hun verblijfplaats hebben. <br />
+
+### ART. 6.
+
+Het onbezoldigde ouderschapsverlof wordt gelijkgesteld met een periode van dienstactiviteit.<br /><br />
+
 ## HOOFDSTUK IV [Geboorteverlof in geval van overlijden of hospitalisatie van de moeder (verv. BVR 30 september 2011, art. 3)]
+
+### ART. 7.
+
+Als de moeder van het kind opgenomen wordt in het ziekenhuis, krijgt de vader van het kind op zijn verzoek vaderschapsverlof om in de opvang van het kind te voorzien, op voorwaarde dat : <br />1° het kind het ziekenhuis heeft verlaten;<br />2° de opname van de moeder in het ziekenhuis meer dan zeven opeenvolgende kalenderdagen bedraagt.<br /><br />Het vaderschapsverlof kan op zijn vroegst aanvangen vanaf de achtste dag, te rekenen vanaf de geboorte van het kind. Het verlof eindigt op het ogenblik dat de opname van de moeder in het ziekenhuis een einde neemt en uiterlijk bij het verstrijken van de periode die overeenstemt met het deel van het bevallingsverlof dat door de moeder op het ogenblik van haar opname in het ziekenhuis nog niet was opgenomen.<br /><br />
+
+### ART. 8.
+
+Als de moeder van het kind overlijdt, krijgt de vader van het kind op zijn verzoek vaderschapsverlof om in de opvang van het kind te voorzien. In dat geval is de duur van het vaderschapsverlof ten hoogst gelijk aan de duur van het bevallingsverlof dat de moeder bij haar overlijden nog niet had opgenomen.<br /><br />
+
+### ART. 9.
+
+§ 1. Het vaderschapsverlof wordt gelijkgesteld met een periode van dienstactiviteit.<br /><br />§ 2. Tijdens het verlof heeft het personeelslid dat vastbenoemd of tot de proeftijd toegelaten is, recht op salaris of salaristoelage en op verhoging tot een hoger salaris of hogere salaristoelage.<br /><br />De tijdelijke personeelsleden hebben tijdens het verlof geen recht op salaris of salaristoelage.<br /><br />
 
 ## HOOFDSTUK V Wijzigingsbepaling
 
+### ART. 10.
+
+In artikel 6, § 1, 2°, en in artikel 13, § 1, 2°, van het besluit van de Vlaamse Regering van 26 april 1990 betreffende het verlof voor verminderde prestaties, gewettigd door sociale of familiale redenen en de afwezigheid voor verminderde prestaties wegens persoonlijke aangelegenheid ten gunste van de personeelsleden van het onderwijs en de centra voor leerlingenbegeleiding, gewijzigd bij het besluit van de Vlaamse Regering van 13 november 1991, wordt het woord "borstvoedingsverlof" vervangen door de woorden "loopbaanonderbreking voor medische bijstand".<br /><br />
+
 ## HOOFDSTUK VI Opheffingsbepalingen
+
+### ART. 11.
+
+§ 1. De volgende regelingen worden opgeheven : <br />1° artikel 4 van het koninklijk besluit van 8 december 1967, genomen ter uitvoering van artikel 3 van het koninklijk besluit van 28 februari 1967 houdende vaststelling van de administratieve stand van de leden van het administratief personeel en van het meesters-, vak- en dienstpersoneel van de rijksinrichtingen voor kleuteronderwijs, voor lager, buitengewoon, middelbaar, technisch, kunst- en normaalonderwijs, gewijzigd bij de besluiten van de Vlaamse Regering van 20 januari en 31 maart 2006;<br />2° artikel 5 van het koninklijk besluit van 15 januari 1974, genomen ter toepassing van artikel 160 van het koninklijk besluit van 22 maart 1969 tot vaststelling van het statuut van de leden van het bestuurs- en onderwijzend personeel, van het opvoedend hulppersoneel, van het paramedisch personeel der inrichtingen voor kleuter-, lager, buitengewoon, middelbaar, technisch, kunst- en normaalonderwijs van de Staat, alsmede der internaten die van deze inrichtingen afhangen, en van de leden van de inspectiedienst die belast is met het toezicht op deze inrichtingen,gewijzigd bij de besluiten van de Vlaamse Regering van 20 januari en 31 maart 2006;<br />3° het koninklijk besluit van 27 februari 1979 betreffende het uitzonderlijk verlof in gevallen van overmacht, toegestaan aan de leden van de gesubsidieerde psycho-medisch-sociale centra en diensten voor studie- en beroepsoriëntering;<br />4° artikel 4, gewijzigd bij het besluit van de Vlaamse Regering van 20 januari 2006, en artikel 5 van het koninklijk besluit van 19 mei 1981 betreffende de verlofregeling van het vastbenoemd technisch personeel van de centra voor leerlingenbegeleiding.<br /><br />§ 2. De volgende regelingen worden opgeheven voor de instellingen en de personeelsleden waarop dit besluit van toepassing is : <br />1° artikel 4bis van het koninklijk besluit van 8 december 1967, genomen ter uitvoering van artikel 3 van het koninklijk besluit van 28 februari 1967 houdende vaststelling van de administratieve stand van de leden van het administratief personeel en van het meesters-, vak- en dienstpersoneel van de rijksinrichtingen voor kleuteronderwijs, voor lager, buitengewoon, middelbaar, technisch, kunst- en normaalonderwijs, ingevoegd bij het koninklijk besluit van 20 december 1976 en gewijzigd bij het koninklijk besluit van 16 december 1981;<br />2° artikel 5bis van het koninklijk besluit van 15 januari 1974, genomen ter toepassing van artikel 160 van het koninklijk besluit van 22 maart 1969 tot vaststelling van het statuut van de leden van het bestuurs- en onderwijzend personeel, van het opvoedend hulppersoneel, van het paramedisch personeel der inrichtingen voor kleuter-, lager, buitengewoon, middelbaar, technisch, kunst- en normaalonderwijs van de Staat, alsmede der internaten die van deze inrichtingen afhangen, en van de leden van de inspectiedienst die belast is met het toezicht op deze inrichtingen, ingevoegd bij het koninklijk besluit van 15 april 1977; <br />3° het koninklijk besluit van 28 november 1978 betreffende het uitzonderlijk verlof in gevallen van overmacht, toegestaan aan de leden van het gesubsidieerd personeel;<br />4° het koninklijk besluit van 14 januari 1979 betreffende het omstandigheidsverlof, toegekend aan sommige tijdelijk aangestelde personeelsleden van rijksonderwijsinrichtingen, gewijzigd bij de besluiten van de Vlaamse Regering van 20 januari en 31 maart 2006;<br />5° artikel 6 van het besluit van de Vlaamse Regering van 22 juli 1993 betreffende het bevallings- en borstvoedingsverlof voor de personeelsleden van het onderwijs en de centra voor leerlingenbegeleiding;<br />6° artikel 7 van het besluit van de Vlaamse Regering van 22 juli 1993 betreffende het ziekte-, bevallings- en borstvoedingsverlof, toegekend aan tijdelijk aangestelde personeelsleden van de onderwijsinstellingen, georganiseerd of gesubsidieerd door de Vlaamse Gemeenschap.<br /><br />
 
 ## HOOFDSTUK VII Overgangsbepalingen
 
+### ART. 12.
+
+Het borstvoedingsverlof dat aanvangt vóór 1 april 2009 en na deze datum eindigt, wordt behandeld overeenkomstig de bepalingen die golden vóór die datum.<br /><br />
+
+### ART. 13.
+
+Personeelsleden die vóór 1 april 2009 borstvoedingsverlof hebben opgenomen voor hun kind, kunnen geen aanspraak maken op onbezoldigd ouderschapsverlof voor datzelfde kind.<br /><br />
+
 ## HOOFDSTUK VIII Slotbepalingen
+
+### ART. 14.
+
+Dit besluit heeft uitwerking met ingang van 1 april 2009, met uitzondering van hoofdstuk II, dat uitwerking heeft met ingang van 1 september 1999, behalve artikel 2, § 1, 2°, dat uitwerking heeft met ingang van 1 september 2005.<br /><br />
+
+### ART. 15.
+
+De Vlaamse minister, bevoegd voor het onderwijs, is belast met de uitvoering van dit besluit.<br /><br />
