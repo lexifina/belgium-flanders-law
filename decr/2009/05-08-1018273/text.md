@@ -174,6 +174,10 @@
 
 ## TITEL II. Wijzigingsbepalingen met betrekking tot het syndicaal statuut
 
+### ART. 185.
+
+In afwijking van artikel 34 van het koninklijk besluit van 28 september 1984, zoals gewijzigd bij het koninklijk besluit van 20 juli 2007, wordt met betrekking tot de materies, bedoeld in artikel 11, § 1 en § 2, van de wet van 19 december 1974 tot regeling van de betrekkingen tussen de overheid en de vakbonden van haar personeel, een onderhandelingscomité opgericht. De coördinerend inspecteur-generaal en met ingang van 1 september 2009 de inspecteur-generaal of zijn gemandateerde zit dit onderhandelingscomité voor.
+
 ## TITEL III. Overige wijzigingsbepalingen
 
 ## HOOFDSTUK I. Wijzigingen in de wet van 29 mei 1959 tot wijziging van sommige bepalingen van de onderwijswetgeving
