@@ -2,16 +2,16 @@
   "codex_id": 1013812,
   "title": "Besluit van de Vlaamse Regering van 2005-04-15 betreffende de toepassing van de heffing in de sector melk en zuivelproducten",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1013812/VolledigDocument?datum=2008-04-01",
-  "source_sha256": "e06338a64cd93ddedd4fd8d68c42b02c8dd6e48d88f5b28f5aee0857b3d4e0f5",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1013812/VolledigDocument?datum=2009-04-01",
+  "source_sha256": "510c66de41ab4e017290a22d191734425268776c32a5c17a51b8ca4c18ae9da1",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1013812&param=informatie",
-  "as_of": "2008-04-01",
+  "as_of": "2009-04-01",
   "made": "2005-04-15",
   "gazette": "2005-06-10",
   "numac": 2005035665,
   "document_start": "2005-04-01",
   "document_end": "2023-12-31",
-  "in_force": "2008-04-01",
+  "in_force": "2009-04-01",
   "article_versions": 27,
-  "record_form": "consolidated version as in force on 2008-04-01; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2009-04-01; future article versions excluded; article text as the API gives it"
 }
