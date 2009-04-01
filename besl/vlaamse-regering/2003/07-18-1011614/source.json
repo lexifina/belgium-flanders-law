@@ -2,16 +2,16 @@
   "codex_id": 1011614,
   "title": "Besluit van de Vlaamse Regering van 2003-07-18 betreffende de verzekering gewaarborgd wonen",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1011614/VolledigDocument?datum=2006-07-01",
-  "source_sha256": "7fe66247c74068db90046ed1b4ec08451557c47340e92e9791cfb295a0efb359",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1011614/VolledigDocument?datum=2009-04-01",
+  "source_sha256": "380ba66361ac89cfc553591bece96ead56f82199e22f3c546243aed0c588a22c",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1011614&param=informatie",
-  "as_of": "2006-07-01",
+  "as_of": "2009-04-01",
   "made": "2003-07-18",
   "gazette": "2003-10-10",
   "numac": 2003201194,
   "document_start": "2003-06-01",
   "document_end": "2009-03-31",
-  "in_force": "2006-07-01",
+  "in_force": "2009-04-01",
   "article_versions": 13,
-  "record_form": "consolidated version as in force on 2006-07-01; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2009-04-01; future article versions excluded; article text as the API gives it"
 }
