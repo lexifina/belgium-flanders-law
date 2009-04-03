@@ -1,0 +1,17 @@
+{
+  "codex_id": 1017719,
+  "title": "Besluit van de Vlaamse Regering van 2009-02-06 houdende wijziging van het besluit van de Vlaamse Regering van 16 april 2004 tot oprichting van het intern verzelfstandigd agentschap Interne Audit van de Vlaamse Administratie en tot omvorming van het auditcomité van de Vlaamse Gemeenschap tot het Auditcomité van de Vlaamse Administratie",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1017719/VolledigDocument?datum=2009-04-03",
+  "source_sha256": "aac7c7156115562f9d2bc7913880e4592042ec88eedc48d32be4d4a324af0eeb",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1017719&param=informatie",
+  "as_of": "2009-04-03",
+  "made": "2009-02-06",
+  "gazette": "2009-03-24",
+  "numac": 2009201073,
+  "document_start": "2009-04-03",
+  "document_end": null,
+  "in_force": "2009-04-03",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2009-04-03; oldest version available; future article versions excluded; article text as the API gives it"
+}
