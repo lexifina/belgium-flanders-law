@@ -2,16 +2,16 @@
   "codex_id": 1015033,
   "title": "Besluit van de Vlaamse Regering van 2006-07-20 tot bepaling van de beroepen waarvoor een titel van beroepsbekwaamheid kan worden uitgereikt",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1015033/VolledigDocument?datum=2008-01-01",
-  "source_sha256": "41672d3f52bddb52d6249f91e66e37a280ff2aa37f14cd3c2a8989519f608a96",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1015033/VolledigDocument?datum=2009-04-03",
+  "source_sha256": "b0badd7a4ef1cb4887f6c81577bbb76e26e306e21bafcb9b4a7e6a4d8deb9fc1",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1015033&param=informatie",
-  "as_of": "2008-01-01",
+  "as_of": "2009-04-03",
   "made": "2006-07-20",
   "gazette": "2006-10-16",
   "numac": 2006036657,
   "document_start": "2006-10-16",
   "document_end": "2018-12-31",
-  "in_force": "2008-01-01",
+  "in_force": "2009-04-03",
   "article_versions": 4,
-  "record_form": "consolidated version as in force on 2008-01-01; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2009-04-03; future article versions excluded; article text as the API gives it"
 }
