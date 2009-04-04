@@ -1,0 +1,17 @@
+{
+  "codex_id": 1017722,
+  "title": "Ministerieel besluit van 2009-03-12 tot toekenning van premies voor de aankoop en installatie van emissieverminderende voorzieningen in voertuigen met een dieselmotor",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1017722/VolledigDocument?datum=2009-04-04",
+  "source_sha256": "53d2f652d5e237504d7f960ef49afa813dbee178b9ece13ff647ea03187c3bbf",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1017722&param=informatie",
+  "as_of": "2009-04-04",
+  "made": "2009-03-12",
+  "gazette": "2009-03-25",
+  "numac": 2009035262,
+  "document_start": "2009-04-04",
+  "document_end": null,
+  "in_force": "2009-04-04",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2009-04-04; oldest version available; future article versions excluded; article text as the API gives it"
+}
