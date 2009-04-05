@@ -1,0 +1,17 @@
+{
+  "codex_id": 1017729,
+  "title": "Besluit van de Vlaamse Regering van 2009-01-23 betreffende de aanvullende reglementen en de plaatsing en bekostiging van verkeerstekens",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1017729/VolledigDocument?datum=2009-04-05",
+  "source_sha256": "2546c6bed5b0a9b2118f6d91c232fbc10892efc095c3da6ffeadcb45863b1c19",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1017729&param=informatie",
+  "as_of": "2009-04-05",
+  "made": "2009-01-23",
+  "gazette": "2009-03-26",
+  "numac": 2009035258,
+  "document_start": "2009-04-05",
+  "document_end": null,
+  "in_force": "2009-04-05",
+  "article_versions": 9,
+  "record_form": "consolidated version as in force on 2009-04-05; oldest version available; future article versions excluded; article text as the API gives it"
+}
