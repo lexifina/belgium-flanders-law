@@ -1,0 +1,5 @@
+# Omzendbrief van 2009-03-24 nr. 49bis : Over het verkrijgen van VLIF-steun en ELFPO-steun voor investeringen in de agrovoedingssector : aanvulling bij omzendbrief 49, oproep 2009
+
+### Tekst
+
+Bedrijven uit de agrovoedingssector die de verwerking en afzet van land- en tuinbouwproducten tot voorwerp hebben, kunnen Europese en/of Vlaamse steun genieten voor hun investeringen. <br /><br />Omzendbrief 49 van 9 februari 2009 (Belgisch Staatsblad van 18 februari 2009), regelt de voorwaarden en modaliteiten van de oproep 2009. <br />Voorliggende omzendbrief 49bis betreft een aanvulling bij omzendbrief 49 met betrekking tot de aanvoer van grondstoffen door de vervaardigers van voeders voor hoevedieren (nace-code 15710).<br /><br />Aanvoer van grondstoffen<br /><br />Voor vervaardigers van voeders voor hoevedieren (nace-code 15710) geldt dat de verwerkte basisgrondstoffen voor minstens 50 % afkomstig moeten zijn uit landen binnen de Europese Unie (EU-27). Producten uit derde landen (niet-EU) die via een tussenpersoon in een EU-land werden aangekocht, worden beschouwd als producten van derde landen.<br /><br />
