@@ -4,6 +4,10 @@
 
 De Vlaamse Regering,<br /><br />Gelet op het decreet van 28 juni 1983 houdende oprichting van de instelling Vlaamse Maatschappij voor Watervoorziening, artikel 17, vervangen bij het decreet van 7 juli 1998;<br /><br />Gelet op het besluit van de Vlaamse Regering van 1 december 2000 houdende organisatie van de Vlaamse Maatschappij voor Watervoorziening en de regeling van de rechtspositie van het personeel, gewijzigd bij de besluiten van de Vlaamse Regering van 19 september 2003, 14 mei 2004 en 3 februari 2006;<br /><br />Gelet op het advies van de Raad van Bestuur van de Vlaamse Maatschappij voor Watervoorziening, gegeven op 25 januari 2008;<br /><br />Gelet op het akkoord van de Vlaamse minister, bevoegd voor de begroting, gegeven op 16 juli 2008;<br /><br />Gelet op het akkoord van de Vlaamse minister, bevoegd voor algemeen beleid inzake personeel en organisatieontwikkeling, gegeven op 1 juli 2008;<br /><br />Gelet op het protocol nr. 265.855 van 13 oktober 2008 van het Sectorcomité XVIII Vlaamse Gemeenschap - Vlaams Gewest;<br /><br />Gelet op het advies nr. 45.503/3 van de Raad van State, gegeven op 9 december 2008 met toepassing van artikel 84, § 1, eerste lid, 1° van de gecoördineerde wetten op de Raad van State;<br /><br />Op voorstel van de Vlaamse minister van Openbare Werken, Energie, Leefmilieu en Natuur;<br /><br />Na beraadslaging,<br /><br />Besluit : <br /><br />
 
+### ART. 1.
+
+Artikel II 4 van het besluit van de Vlaamse Regering van 1 december 2000 houdende de organisatie van de Vlaamse Maatschappij voor Watervoorziening en de regeling van de rechtspositie van het personeel, wordt vervangen door wat volgt :<br />« Art. II 4. § 1. De raad van beroep, opgericht bij besluit van de Vlaamse Regering van 13 januari 2006 houdende vaststelling van de rechtspositie van het personeel van de diensten van de Vlaamse overheid, neemt kennis van alle beroepen die krachtens dit besluit kunnen worden ingesteld.<br /><br />De raad van beroep heeft een adviserende bevoegdheid. <br /><br />In afwijking van het voorgaande lid wordt aan de raad van beroep een beslissingsbevoegdheid toegekend ingeval van eenparigheid van stemmen.<br /><br />§ 2. Het statutaire personeelslid kan in beroep gaan tegen volgende beslissingen :<br />- de loopbaanvertraging;<br />- een definitief voorstel tot ontslag van ambtswege of tot afzetting en de uitspraak van een andere tuchtstraf of van de schorsing in het belang van de dienst;<br />- de evaluatie onvoldoende;<br />- de negatieve eindevaluatie van de stage;<br />- de weigering van een verlof voor deeltijdse prestaties of van het verlof en de non-activiteit wegens persoonlijke redenen en van het verlof voor loopbaanonderbreking.<br /><br />§ 3. De raad van beroep hoort het statutaire personeelslid alvorens een gemotiveerd advies te formuleren.<br /><br />Behalve bij gewettigde verhindering verschijnt de verzoeker persoonlijk. Hij mag zich voor zijn verdediging laten bijstaan door een persoon van zijn keuze of bij gewettigde verhindering zich door die persoon van zijn keuze laten vertegenwoordigen.<br /><br />Indien het statutaire personeelslid, ofschoon volgens de voorschriften opgeroepen, zonder geldige reden niet verschijnt of zich niet laat vertegenwoordigen bij gewettigde afwezigheid, wordt het statutaire personeelslid geacht af te zien van zijn beroep. De uitspraak of beslissing vòòr het beroep wordt in dit geval de definitieve uitspraak of beslissing.<br /><br />§ 4. Het beroep is opschortend tenzij anders bepaald. »<br /><br />
+
 ### ART. 2.
 
 Aan artikel III 1 van hetzelfde besluit, waarvan de bestaande tekst § 1 zal vormen, wordt een § 2 toegevoegd, die luidt als volgt : <br />« § 2. Het statutaire personeelslid dat in de uitoefening van zijn functie onregelmatigheden vaststelt, brengt zijn afdelingshoofd hiervan onmiddellijk op de hoogte. Hij kan ook rechtstreeks de leidend ambtenaar of de binnen de Maatschappij opgerichte afdeling Interne Audit op de hoogte brengen.<br /><br />Een onregelmatigheid is een nalatigheid, misbruik of misdrijf als vermeld in artikel 3, § 2, eerste lid, van het decreet van 7 juli 1998 houdende instelling van de Vlaamse ombudsdienst.<br /><br />Indien hij op basis van gegronde reden vermoedt of vaststelt dat de Maatschappij hem zal verbieden of verhinderen om misdrijven bekend te maken, brengt hij rechtstreeks de procureur des Konings hiervan op de hoogte.<br /><br />Het statutaire personeelslid kan, buiten de gevallen van kwade trouw, persoonlijk voordeel of valse aangifte die een dienst of persoon schade toebrengen, niet onderworpen zijn aan een tuchtstraf of een andere vorm van openlijke of verdoken sanctie, om de enkele reden dat hij onregelmatigheden aangeeft of bekendmaakt. »<br /><br />
@@ -16,17 +20,129 @@ In deel III van hetzelfde besluit wordt een artikel III 1bis ingevoegd, dat luid
 
 In deel III van hetzelfde besluit wordt een artikel III 1ter ingevoegd, dat luidt als volgt :<br />« Art. III 1ter. § 1. Tijdens de beschermingsperiode, bedoeld in artikel III 1bis § 2, kan het statutaire personeelslid niet onderworpen zijn aan een tuchtstraf of een andere open of verdoken maatregel om redenen die verband houden met de melding van de onregelmatigheid. De bewijslast hiervoor berust bij de persoon of instantie die bevoegd is voor het opleggen van een tuchtstraf of het nemen van een andere maatregel ten aanzien van het statutaire personeelslid.<br /><br />Als de in het vorige lid bedoelde persoon of instantie tijdens de beschermingsperiode een tuchtstraf oplegt of andere maatregelen neemt ten aanzien van het personeelslid, moet hij in de motivering duidelijk aangeven dat er geen verband is tussen de tuchtstraf of de maatregel en de melding van de onregelmatigheid.<br /><br />§ 2. Als het statutaire personeelslid vermoedt dat een maatregel bedoeld in § 1, toch verband houdt met de melding van de onregelmatigheid, kan hij aan de Vlaamse Ombudsman vragen om dit mogelijke verband te onderzoeken. De bewijslast hiervoor berust bij de persoon of instantie bevoegd voor het opleggen van de maatregel ten aanzien van het statutaire personeelslid.<br /><br />De Vlaamse Ombudsman deelt het resultaat van zijn onderzoek mede aan het statutaire personeelslid en aan de leidend ambtenaar.<br /><br />Als de Vlaamse Ombudsman van oordeel is dat er een mogelijk verband is tussen de maatregel bedoeld in § 1, en de melding van de onregelmatigheid, dan richt hij aan de leidend ambtenaar het verzoek om de maatregel te laten herzien.<br /><br />De leidend ambtenaar deelt binnen een termijn van twintig werkdagen na ontvangst van het verzoek aan de Vlaamse Ombudsman mede of de voor het opleggen van de maatregel bevoegde persoon of instantie al dan niet akkoord gaat met dat verzoek.<br /><br />Als de voor het opleggen van de maatregel bevoegde persoon of instantie niet akkoord gaat met het verzoek van de Vlaamse Ombudsman of weigert uitvoering te geven aan zijn verzoek of als de leidend ambtenaar niet antwoordt aan de Vlaamse Ombudsman binnen de voormelde termijn van twintig werkdagen, dan brengt de Vlaamse Ombudsman hierover verslag uit bij de Vlaamse minister bevoegd voor bestuurszaken die in overleg met de minister een standpunt bepaalt en dit standpunt mededeelt aan de Vlaamse Ombudsman en aan de leidend ambtenaar. »<br /><br />
 
+### ART. 5.
+
+In artikel IV 1 van hetzelfde besluit worden de woorden « verminderde prestaties » vervangen door de woorden « deeltijdse prestaties ».<br /><br />
+
+### ART. 6.
+
+Artikel VII 12 van hetzelfde besluit wordt vervangen door wat volgt : Onverminderd artikel II 4, § 1, derde lid, beslist de raad van bestuur over de definitieve benoeming.<br /><br />
+
+### ART. 7.
+
+In artikel VIII 20, § 5, van hetzelfde besluit wordt het eerste lid vervangen door wat volgt : « Onverminderd artikel II 4, § 1, derde lid, wordt het dossier vervolgens voorgelegd aan de raad van bestuur die bevoegd is voor de definitieve beslissing. »<br /><br />
+
+### ART. 8.
+
+In artikel VIII 28 van hetzelfde besluit, gewijzigd bij het besluit van de Vlaamse Regering van 3 februari 2006, worden de woorden « verminderde prestaties » vervangen door de woorden « deeltijdse prestaties ».<br /><br />
+
+### ART. 9.
+
+In artikel VIII 56, § 4, tweede lid van hetzelfde besluit, gewijzigd bij het besluit van de Vlaamse Regering van 19 september 2003, worden de woorden « verminderde prestaties » vervangen door de woorden « deeltijdse prestaties ».<br /><br />
+
+### ART. 10.
+
+In artikel IX 27 van hetzelfde besluit wordt het eerste lid vervangen door wat volgt : « Onverminderd artikel II 4, § 1, derde lid, stuurt de raad van beroep binnen 15 kalenderdagen na het uitbrengen van het gemotiveerd advies het dossier aan de overheid bevoegd voor het definitief uitspreken van de tuchtstraf. »<br /><br />
+
 ### ART. 11.
 
 In hetzelfde besluit wordt een artikel IX 33bis ingevoegd, dat luidt als volgt :<br />« Art. IX 33bis.<br />§ 1. De tuchtprocedure wordt van rechtswege opgeschort vanaf het verzoek van het statutaire personeelslid om onder de bescherming van de Vlaamse Ombudsman te worden geplaatst tot na het onderzoek door de Vlaamse Ombudsman naar het mogelijk verband tussen de tuchtprocedure en de melding van de onregelmatigheid. De bewijslast hiervoor berust bij de bevoegde overheid voor het voorstellen of opleggen van de tuchtstraf.<br /><br />§ 2. De Vlaamse Ombudsman deelt het resultaat van zijn onderzoek mee aan het statutaire personeelslid en aan de leidend ambtenaar.<br /><br />§ 3. Als de Vlaamse Ombudsman van oordeel is dat er geen verband is tussen de tuchtprocedure en de melding van de onregelmatigheid, kan de in § 1 bedoelde overheid de tuchtprocedure verderzetten.<br /><br />§ 4. Als de Vlaamse Ombudsman meent dat er een mogelijk verband bestaat tussen de tuchtprocedure en de melding van de onregelmatigheid, richt hij aan de leidend ambtenaar het verzoek om de tuchtprocedure te laten beëindigen.<br /><br />De leidend ambtenaar deelt binnen een termijn van twintig werkdagen na ontvangst van het verzoek aan de Vlaamse Ombudsman mede of de bevoegde overheid voor het voorstellen of opleggen van de tuchtstraf al dan niet akkoord gaat met dat verzoek. Als de bevoegde overheid niet akkoord gaat met het verzoek van de Vlaamse Ombudsman of weigert uitvoering te geven aan zijn verzoek of als de leidend ambtenaar niet antwoordt aan de Vlaamse Ombudsman binnen de voormelde termijn van twintig werkdagen, brengt de Vlaamse Ombudsman hierover verslag uit bij de Vlaamse minister, bevoegd voor de bestuurszaken, die in overleg met de minister zijn standpunt bepaalt en dit meedeelt aan de Vlaamse Ombudsman en aan de leidend ambtenaar.<br /><br />§ 5. Dit artikel is niet van toepassing in het geval van opheffing van de bescherming, ingevolge artikel III 1bis, § 2.<br /><br />
+
+### ART. 12.
+
+In artikel IX 37 van hetzelfde besluit wordt het eerste lid van § 1 vervangen door wat volgt : « Elke tuchtstraf, behalve het ontslag van ambtswege en de afzetting, wordt in het persoonlijk dossier van het statutaire personeelslid doorgehaald onder de in § 2 bepaalde voorwaarden en uit het personeelsdossier verwijderd. »<br /><br />
+
+### ART. 13.
+
+In artikel X 6 van hetzelfde besluit, vervangen bij het besluit van de Vlaamse Regering van 3 februari 2006, wordt het derde lid vervangen door wat volgt : « Indien de raad van beroep gunstig advies uitbrengt over de opheffing van de schorsing, beslist de raad van bestuur of, voor de leidend en de adjunct-leidend ambtenaar, de minister, onverminderd de toepassing van artikel II 4, § 1, derde lid. »<br /><br />
+
+### ART. 14.
+
+In deel XI van hetzelfde besluit wordt het opschrift van titel IX vervangen door wat volgt : « TITEL IX. - Verlof voor deeltijdse prestaties ».<br /><br />
+
+### ART. 15.
+
+In artikel XI 27 van hetzelfde besluit wordt het eerste lid vervangen door wat volgt : « Het statutaire personeelslid kan een verlof voor deeltijdse prestaties krijgen ».<br /><br />
+
+### ART. 16.
+
+In artikel XI 28 van hetzelfde besluit worden de volgende wijzigingen aangebracht :<br />1° in § 1 worden de woorden « verminderde prestaties » vervangen door de woorden « deeltijdse prestaties »;<br />2° in § 3 wordt het derde lid vervangen door wat volgt : « Onverminderd artikel II 4, § 1, derde lid, wordt na het advies van de raad van beroep de definitieve beslissing genomen door de raad van bestuur. Deze laatste neemt een beslissing binnen 30 kalenderdagen na ontvangst van het advies van de raad van beroep. »<br /><br />
+
+### ART. 17.
+
+In artikel XI 30, eerste lid van hetzelfde besluit worden de woorden « verminderde prestaties » vervangen door de woorden « deeltijdse prestaties ».<br /><br />
+
+### ART. 18.
+
+In artikel XI 31 van hetzelfde besluit worden de woorden « verminderde prestaties » vervangen door de woorden « deeltijdse prestaties ».<br /><br />
+
+### ART. 19.
+
+In artikel XI 32, eerste lid van hetzelfde besluit worden de woorden « verminderde prestaties » vervangen door « deeltijdse prestaties ».<br /><br />
+
+### ART. 20.
+
+In artikel XI 33, § 1 en § 2 van hetzelfde besluit worden de woorden « verminderde prestaties » telkens vervangen door de woorden « deeltijdse prestaties ».<br /><br />
+
+### ART. 21.
+
+In artikel XI 34, §1 van hetzelfde besluit worden de woorden « verminderde prestaties » vervangen door de woorden « deeltijdse prestaties ».<br /><br />
+
+### ART. 22.
+
+In artikel XI 44, § 3, tweede lid van hetzelfde besluit, ingevoegd bij het besluit van de Vlaamse Regering van 19 september 2003, worden de woorden « bij de raad van beroep die door de Vlaamse Regering is opgericht voor sommige openbare instellingen die onder de Vlaamse Gemeenschap en/of het Vlaamse Gewest ressorteren » vervangen door de woorden « overeenkomstig de procedure bepaald in artikel XI 28, § 3 ».<br /><br />
+
+### ART. 23.
+
+In artikel XI 44quater, tweede lid van hetzelfde besluit, ingevoegd bij het besluit van de Vlaamse Regering van 19 september 2003, worden de woorden « verminderde prestaties » vervangen door de woorden « deeltijdse prestaties ».<br /><br />
+
+### ART. 24.
+
+In artikel XI 73, eerste lid, 1° van hetzelfde besluit worden de woorden « verminderde prestaties » vervangen door de woorden « deeltijdse prestaties ».<br /><br />
+
+### ART. 25.
+
+In artikel XI 74, § 2, eerste lid van hetzelfde besluit worden de woorden « verminderde prestaties » vervangen door de woorden « deeltijdse prestaties ».<br /><br />
+
+### ART. 26.
+
+In artikel XI 75, eerste en tweede lid van hetzelfde besluit worden de woorden « verminderde prestaties » vervangen door de woorden « deeltijdse prestaties ».<br /><br />
+
+### ART. 27.
+
+In deel XI van hetzelfde besluit wordt het opschrift van titel XVI vervangen door wat volgt : « Titel XVI- Verlof voor deeltijdse prestaties wegens ziekte ».<br /><br />
+
+### ART. 28.
+
+In artikel XI 80, eerste lid van hetzelfde besluit worden de woorden « verminderde prestaties » vervangen door de woorden « deeltijdse prestaties ».<br /><br />
+
+### ART. 29.
+
+In artikel XI 83, § 2 van hetzelfde besluit worden de woorden « verminderde prestaties » vervangen door de woorden « deeltijdse prestaties ».<br /><br />
 
 ### ART. 30.
 
 In artikel XI 87 van hetzelfde besluit worden de woorden « , de eventuele restructuratiebonificatie » geschrapt.<br /><br />
 
+### ART. 31.
+
+In artikel XI 94, eerste en tweede lid van hetzelfde besluit worden de woorden « verminderde prestaties » vervangen door de woorden « deeltijdse prestaties ».<br /><br />
+
+### ART. 32.
+
+In artikel XII 5, tweede lid van hetzelfde besluit, ingevoegd bij het besluit van de Vlaamse Regering van 3 februari 2006, worden de woorden « verminderde prestaties » vervangen door de woorden « deeltijdse prestaties ».<br /><br />
+
 ### ART. 33.
 
 In artikel XIII 1, vierde lid van hetzelfde besluit worden de woorden « de restructuratiebonificatie bedoeld in hoofdstuk VII, en » geschrapt.<br /><br />
+
+### ART. 34.
+
+In artikel XIII 10, § 2, 2° van hetzelfde besluit worden de woorden « verminderde prestaties » vervangen door de woorden « deeltijdse prestaties ».<br /><br />
+
+### ART. 35.
+
+In artikel XIII 23, § 1 en § 2 van hetzelfde besluit worden de woorden « verminderde prestaties » vervangen door de woorden « deeltijdse prestaties ».<br />
 
 ### ART. 36.
 
@@ -198,6 +314,14 @@ In artikel XIII 131, 1° van hetzelfde besluit, gewijzigd bij het besluit van de
 
 In deel XIV, titel III, hoofdstuk I, afdeling 8, onderafdeling B van hetzelfde besluit wordt een artikel XIV 22bis ingevoegd, dat luidt als volgt :<br />« Art. XIV 22bis. De regelingen vermeld in de artikelen III 1 § 2, III 1bis en III 1ter zijn van toepassing op het contractuele personeelslid. »<br /><br />
 
+### ART. 51.
+
+In artikel XIV 41, tweede lid van hetzelfde besluit, ingevoegd bij het besluit van de Vlaamse Regering van 3 februari 2006, worden de woorden « verminderde prestaties » vervangen door de woorden « deeltijdse prestaties ».<br /><br />
+
+### ART. 52.
+
+In artikel XIV 46, § 4 van hetzelfde besluit worden de woorden « artikel XIII 22, § 5 » vervangen door de woorden « artikel XIII 21, § 5 ».<br /><br />
+
 ### ART. 53.
 
 In deel XIV, titel III, hoofdstuk IV van hetzelfde besluit wordt afdeling 2, bestaande uit artikel XIV 47, opgeheven.<br /><br />
@@ -209,6 +333,14 @@ In artikel XV 9 van hetzelfde besluit wordt het punt 2° opgeheven.<br /><br />
 ### ART. 55.
 
 In hetzelfde besluit wordt bijlage 6, vervangen bij het besluit van de Vlaamse Regering van 3 februari 2006, vervangen door de bijlage die bij dit besluit is gevoegd.<br /><br />
+
+### ART. 56.
+
+Dit besluit treedt in werking op de tiende dag na de bekendmaking ervan in het Belgisch Staatsblad met uitzondering van :<br />- de artikelen 2, 3, 4, 11 en 50 die uitwerking hebben met ingang van 4 juli 2005;<br />- artikel 45, 2°, dat uitwerking heeft met ingang van 1 januari 2003; <br />- artikel 45, 1° en 3°, dat uitwerking heeft met ingang van 1 december 2007;<br />- de artikelen 30, 33, 36, 37, 38, 39, 40, 41, 42, 43, 44, 46, 47, 48, 49, 53, 54 en 55 die uitwerking hebben met ingang van 1 januari 2008.<br /><br />
+
+### ART. 57.
+
+De Vlaamse minister bevoegd voor het leefmilieu en het waterbeleid is belast met de uitvoering van dit besluit,<br /><br />
 
 ## Bijlage 6 Salarisschalen 1/1/2008
 
