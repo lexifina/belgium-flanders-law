@@ -1,0 +1,17 @@
+{
+  "codex_id": 1021257,
+  "title": "Protocol van 2009-03-02 Aanhangsel bij het « Protocolakkoord gesloten tussen de Federale Regering en de Overheden bedoeld in de artikelen 128, 130, en 135 van de Grondwet, betreffende de harmonisering van het vaccinatiebeleid van 20 maart 2003 »",
+  "type": "Protocol",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1021257/VolledigDocument?datum=2009-04-10",
+  "source_sha256": "d4b20e1159b39254090ff56374190e21da526e5404b846a4c233d159be16bec2",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1021257&param=informatie",
+  "as_of": "2009-04-10",
+  "made": "2009-03-02",
+  "gazette": "2009-03-31",
+  "numac": 200924093,
+  "document_start": "2009-04-10",
+  "document_end": null,
+  "in_force": "2009-04-10",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2009-04-10; oldest version available; future article versions excluded; article text as the API gives it"
+}
