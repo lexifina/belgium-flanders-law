@@ -1,0 +1,17 @@
+{
+  "codex_id": 1017758,
+  "title": "Ministerieel besluit van 2009-02-23 houdende vaststelling van het subsidiëringsprogramma voor gemeentelijke rioleringen, KWZI's en individuele waterzuiveringsinstallaties, voor het derde en vierde kwartaalprogramma 2009",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1017758/VolledigDocument?datum=2009-04-11",
+  "source_sha256": "4430ae6545769822793d49b712672f1a6f1249366ef498c42d762242c1b6472f",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1017758&param=informatie",
+  "as_of": "2009-04-11",
+  "made": "2009-02-23",
+  "gazette": "2009-04-01",
+  "numac": 2009035259,
+  "document_start": "2009-04-11",
+  "document_end": null,
+  "in_force": "2009-04-11",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2009-04-11; oldest version available; future article versions excluded; article text as the API gives it"
+}
