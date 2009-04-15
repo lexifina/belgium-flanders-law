@@ -2,16 +2,16 @@
   "codex_id": 1017766,
   "title": "Decreet van 2009-02-20 tot wijziging van het decreet van 6 februari 2004 betreffende een waarborgregeling voor kleine en middelgrote ondernemingen",
   "type": "Decreet",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1017766/VolledigDocument?datum=2009-04-06",
-  "source_sha256": "de7667f53e3dc05e0401b3a56cb2b0734710d1e626f09c36d46b572f5cf975e3",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1017766/VolledigDocument?datum=2009-04-15",
+  "source_sha256": "d4d8331458f92c00e507aec82ff6729855bc7778e3aac195bdebc4bdc38b4655",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1017766&param=informatie",
-  "as_of": "2009-04-06",
+  "as_of": "2009-04-15",
   "made": "2009-02-20",
   "gazette": "2009-04-06",
   "numac": 2009035296,
   "document_start": "2009-04-06",
   "document_end": null,
-  "in_force": "2009-04-06",
-  "article_versions": 26,
-  "record_form": "consolidated version as in force on 2009-04-06; oldest version available; future article versions excluded; article text as the API gives it"
+  "in_force": "2009-04-15",
+  "article_versions": 27,
+  "record_form": "consolidated version as in force on 2009-04-15; future article versions excluded; article text as the API gives it"
 }
