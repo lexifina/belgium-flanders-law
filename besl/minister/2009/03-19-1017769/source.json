@@ -1,0 +1,17 @@
+{
+  "codex_id": 1017769,
+  "title": "Ministerieel besluit van 2009-03-19 tot vaststelling van de subsidiabele urencontingenten 2009 van de openbare diensten voor gezinszorg",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1017769/VolledigDocument?datum=2009-04-16",
+  "source_sha256": "08cf676eacf015d98191ccf23e5dbb62a75b29e3c0bcbdcf5baf838bd1c9dd69",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1017769&param=informatie",
+  "as_of": "2009-04-16",
+  "made": "2009-03-19",
+  "gazette": "2009-04-06",
+  "numac": 2009035275,
+  "document_start": "2009-04-16",
+  "document_end": null,
+  "in_force": "2009-04-16",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2009-04-16; oldest version available; future article versions excluded; article text as the API gives it"
+}
