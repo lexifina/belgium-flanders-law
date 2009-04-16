@@ -30,6 +30,10 @@ Voor de toepassing van dit decreet wordt verstaan onder:<br /><br />1° administ
 
 ## [HOOFDSTUK IIbis WERKGROEPEN (ing. Decr. 20 maart 2009, art. 10)]
 
+### ART. 6bis.
+
+De Vlaamse Regering kan ondersteunende werkgroepen oprichten in de eerstelijnsgezondheidszorg.<br /><br />De Vlaamse Regering bepaalt in voorkomend geval de opdracht, de samenstelling, de werkingsmodaliteiten en de eventuele financiering voor de ondersteuning van die werkgroepen.
+
 ## [HOOFDSTUK IIter ONDERSTEUNING VAN HUISARTSENGENEESKUNDE (ing. decr. 15 juli 2016, art. 18, I: te bepalen door de Vlaamse Regering)]
 
 ## HOOFDSTUK III SAMENWERKINGSVERBANDEN OP NIVEAU VAN DE PRAKTIJKVOERING IN HET KADER VAN DE EERSTELIJNSGEZONDHEIDSZORG
@@ -86,11 +90,11 @@ Geïntegreerde diensten voor thuisverzorging hebben de vorm van een privaatrecht
 
 ### ART. 14.
 
-§ 1. De Vlaamse regering kan in het kader van dit decreet partnerorganisaties met rechtspersoon-lijkheid erkennen en eventueel hun werkgebied bepalen.<br /><br />§ 2. De Vlaamse regering bepaalt de erkenningsvoorwaarden, de regels inzake de duur, de schorsing en de intrekking van de erkenning.<br /><br />§ 3. Enkel een erkende partnerorganisatie waarmee de Vlaamse regering een beheersovereenkomst afsluit, komt in aanmerking voor subsidiëring.<br /><br />Deze beheersovereenkomst geldt voor minimaal drie en maximaal vijf jaar en omvat minstens:<br /><br />1° het beleidsplan voor de duurtijd van de beheersovereenkomst dat minstens de volgende gegevens bevat:<br /><br />a) de resultaatgebieden voor de uitvoering van de beheersovereenkomst;<br /><br />b) de indicatoren met betrekking tot de resultaatgebieden om onder meer de uitvoering van de beheersovereenkomst te kunnen evalueren;<br /><br />2° de financieringsvoorwaarden en -modaliteiten, waaronder de bepaling van de subsidie-enveloppe en de mate waarin die ingevolge indexering en weddendrift evolueert.
+De Vlaamse Regering kan in het kader van dit decreet partnerorganisaties met rechtspersoonlijkheid erkennen of er een beheersovereenkomst mee afsluiten en eventueel hun werkgebied bepalen.<br /><br />De Vlaamse Regering bepaalt in voorkomend geval de erkenningsvoorwaarden, de duur van de erkenning en de regels voor het verlenen, schorsen en intrekken van de erkenning.<br /><br />De beheersovereenkomst geldt in voorkomend geval voor minimaal drie en voor maximaal vijf jaar en omvat minstens het beleidsplan voor de duurtijd van de beheersovereenkomst. Het beleidsplan bevat minstens de volgende gegevens : de resultaatgebieden voor de uitvoering van de beheersovereenkomst en de evaluatiecriteria met betrekking tot de resultaatgebieden om onder meer de uitvoering van de beheersovereenkomst te kunnen evalueren.<br /><br />De Vlaamse Regering kan in het kader van dit decreet de partnerorganisaties subsidiëren en bepaalt daarvoor de voorwaarden en procedure.
 
 ### ART. 15.
 
-Het erkenningsbesluit van de partnerorganisatie en/of het beleidsplan, bedoeld in artikel 14, § 3, 1°, vermelden de aard van de deskundigheid van de partnerorganisatie, aan welke doelgroepen de partnerorganisatie minstens ondersteuning biedt en welke haar opdrachten zijn ten aanzien van de Vlaamse overheid.
+In het erkenningsbesluit of de beheersovereenkomst van de partnerorganisatie wordt de aard van deskundigheid van de partnerorganisatie vermeld, alsook aan welke doelgroepen de partnerorganisatie ondersteuning biedt en welke de opdrachten zijn ten aanzien van de Vlaamse overheid.
 
 ## [HOOFDSTUK Vbis ORGANISATIES MET TERREINWERKING (ing. decr. 21 juni 2013, art. 62)]
 
