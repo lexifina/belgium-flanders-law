@@ -530,7 +530,7 @@ In het kader van zijn opdracht dient een centrum een kwaliteitsbeleid te ontwikk
 
 ### ART. 96.
 
-§ 1. De thema's waarop het kwaliteitsbeleid van het centrum zich richt, worden vastgelegd in het kwaliteitshandboek.<br /><br />§ 2. Het centrum bepaalt de eigen thema's waarop het kwaliteitsbeleid zich richt. Die thema's hebben betrekking op één van beide elementen, genoemd in artikel 95, eerste lid.<br /><br />§ 3. De regering kan zelf een aantal thema's bepalen. Zij doet dit, al naargelang van het thema, na advies van de Vlaamse Gezondheidsraad en/of de Vlaamse Onderwijsraad.<br /><br />§ 4. De regering geeft aan welke van de door haar opgegeven thema's verplicht deel uitmaken van het kwaliteitsbeleid van elk centrum. De regering kan voor de verplichte thema's kwaliteitsindicatoren bepalen.
+§ 1. De thema's waarop het kwaliteitsbeleid van het centrum zich richt, worden vastgelegd in het kwaliteitshandboek.<br /><br />§ 2. Het centrum bepaalt de eigen thema's waarop het kwaliteitsbeleid zich richt. Die thema's hebben betrekking op één van beide elementen, genoemd in artikel 95, eerste lid.<br /><br />§ 3. De regering kan zelf een aantal thema's bepalen. Zij doet dit, al naargelang van het thema, na advies van de Vlaamse Onderwijsraad.<br /><br />§ 4. De regering geeft aan welke van de door haar opgegeven thema's verplicht deel uitmaken van het kwaliteitsbeleid van elk centrum. De regering kan voor de verplichte thema's kwaliteitsindicatoren bepalen.
 
 ### ART. 97.
 
