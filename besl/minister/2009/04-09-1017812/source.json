@@ -1,0 +1,17 @@
+{
+  "codex_id": 1017812,
+  "title": "Ministerieel besluit van 2009-04-09 houdende de vastlegging van bevolkingsprojecties als vermeld in artikel 4 van het besluit van de Vlaamse Regering van 17 maart 1998 houdende vaststelling van het programma voor serviceflatgebouwen, woningcomplexen met dienstverlening en rusthuizen",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1017812/VolledigDocument?datum=2009-04-17",
+  "source_sha256": "f80e98c8376df575b4ffbc7fe05eb67d2f73f2a9cfd2e2452cd97a5692a33d1e",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1017812&param=informatie",
+  "as_of": "2009-04-17",
+  "made": "2009-04-09",
+  "gazette": "2009-04-17",
+  "numac": 2009035337,
+  "document_start": "2009-04-17",
+  "document_end": "2009-12-31",
+  "in_force": "2009-04-17",
+  "article_versions": 6,
+  "record_form": "consolidated version as in force on 2009-04-17; oldest version available; future article versions excluded; article text as the API gives it"
+}
