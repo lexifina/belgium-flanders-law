@@ -1,0 +1,17 @@
+{
+  "codex_id": 1017823,
+  "title": "Besluit van de Vlaamse Regering van 2009-03-06 tot wijziging van het besluit van de Vlaamse Regering van 26 oktober 2007 betreffende de begeleiding van de scheepvaart",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1017823/VolledigDocument?datum=2009-04-23",
+  "source_sha256": "6047c6e9ae31f90f915cacfe5886d702bf5db7fd031cbf95f26ea32a357a4abf",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1017823&param=informatie",
+  "as_of": "2009-04-23",
+  "made": "2009-03-06",
+  "gazette": "2009-04-23",
+  "numac": 2009201725,
+  "document_start": "2009-04-23",
+  "document_end": null,
+  "in_force": "2009-04-23",
+  "article_versions": 9,
+  "record_form": "consolidated version as in force on 2009-04-23; oldest version available; future article versions excluded; article text as the API gives it"
+}
