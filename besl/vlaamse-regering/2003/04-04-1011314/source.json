@@ -2,16 +2,16 @@
   "codex_id": 1011314,
   "title": "Besluit van de Vlaamse Regering van 2003-04-04 ter ondersteuning van brugprojecten tussen economie en onderwijs",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1011314/VolledigDocument?datum=2009-01-01",
-  "source_sha256": "fea367eee95cba5aa63ac90f6b93b680d97a27b25b6cf521e88245cea61d7377",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1011314/VolledigDocument?datum=2009-04-24",
+  "source_sha256": "d101ba0695760a046cddf7ce4071dfee797ea77480551b774fdb573251413d93",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1011314&param=informatie",
-  "as_of": "2009-01-01",
+  "as_of": "2009-04-24",
   "made": "2003-04-04",
   "gazette": "2003-06-25",
   "numac": 2003035665,
   "document_start": "2003-06-25",
   "document_end": "2009-04-23",
-  "in_force": "2009-01-01",
+  "in_force": "2009-04-24",
   "article_versions": 13,
-  "record_form": "consolidated version as in force on 2009-01-01; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2009-04-24; future article versions excluded; article text as the API gives it"
 }
