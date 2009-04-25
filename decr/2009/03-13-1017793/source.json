@@ -1,0 +1,17 @@
+{
+  "codex_id": 1017793,
+  "title": "Decreet van 2009-03-13 houdende instemming met de wijziging van het Verdrag van Helsinki van 17 maart 1992 inzake de bescherming en het gebruik van grensoverschrijdende waterlopen en internationale meren, aangenomen op 28 november 2003 in Madrid",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1017793/VolledigDocument?datum=2009-04-25",
+  "source_sha256": "7e56f9aa4c0f871b63aec6e7fcf06d20a8184887913707783befad456ebfc283",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1017793&param=informatie",
+  "as_of": "2009-04-25",
+  "made": "2009-03-13",
+  "gazette": "2009-04-15",
+  "numac": 2009201594,
+  "document_start": "2009-04-25",
+  "document_end": null,
+  "in_force": "2009-04-25",
+  "article_versions": 2,
+  "record_form": "consolidated version as in force on 2009-04-25; oldest version available; future article versions excluded; article text as the API gives it"
+}
