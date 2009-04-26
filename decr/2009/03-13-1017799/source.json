@@ -1,0 +1,17 @@
+{
+  "codex_id": 1017799,
+  "title": "Decreet van 2009-03-13 houdende instemming met het raamakkoord tussen de Regering van het Koninkrijk België en de Regering van de Franse Republiek betreffende de grensoverschrijdende samenwerking inzake gezondheidszorg, ondertekend in Moeskroen op 30 september 2005",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1017799/VolledigDocument?datum=2009-04-26",
+  "source_sha256": "12ee26b40957c684f31dd9302803383eea419b089caa5705bcd3e70fbdd64c23",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1017799&param=informatie",
+  "as_of": "2009-04-26",
+  "made": "2009-03-13",
+  "gazette": "2009-04-16",
+  "numac": 2009201593,
+  "document_start": "2009-04-26",
+  "document_end": null,
+  "in_force": "2009-04-26",
+  "article_versions": 2,
+  "record_form": "consolidated version as in force on 2009-04-26; oldest version available; future article versions excluded; article text as the API gives it"
+}
