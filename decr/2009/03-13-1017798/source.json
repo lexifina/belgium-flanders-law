@@ -1,0 +1,17 @@
+{
+  "codex_id": 1017798,
+  "title": "Decreet van 2009-03-13 houdende instemming met het verdrag nr. 128 betreffende uitkeringen bij invaliditeit en ouderdom en aan nagelaten betrekkingen, en de bijlage, aangenomen door de Internationale Arbeidsconferentie tijdens haar eenenvijftigste zitting te Genève op 29 juni 1967",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1017798/VolledigDocument?datum=2009-04-26",
+  "source_sha256": "6b677db2bf8fd6bca8bd0ed0f91e8ae7af4f4fc04d9e1a260a85b06eec19fa25",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1017798&param=informatie",
+  "as_of": "2009-04-26",
+  "made": "2009-03-13",
+  "gazette": "2009-04-16",
+  "numac": 2009201592,
+  "document_start": "2009-04-26",
+  "document_end": null,
+  "in_force": "2009-04-26",
+  "article_versions": 2,
+  "record_form": "consolidated version as in force on 2009-04-26; oldest version available; future article versions excluded; article text as the API gives it"
+}
