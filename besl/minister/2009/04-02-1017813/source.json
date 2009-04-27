@@ -1,0 +1,17 @@
+{
+  "codex_id": 1017813,
+  "title": "Ministerieel besluit van 2009-04-02 houdende de erkenning van Sporkingshove als centrum voor kunstmatige inseminatie bij paarden",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1017813/VolledigDocument?datum=2009-04-27",
+  "source_sha256": "b79be96e4b602f80fb6adcbbc7e011617a99addc847cd8e28f89680f00d95433",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1017813&param=informatie",
+  "as_of": "2009-04-27",
+  "made": "2009-04-02",
+  "gazette": "2009-04-17",
+  "numac": 2009201610,
+  "document_start": "2009-04-27",
+  "document_end": null,
+  "in_force": "2009-04-27",
+  "article_versions": 2,
+  "record_form": "consolidated version as in force on 2009-04-27; oldest version available; future article versions excluded; article text as the API gives it"
+}
