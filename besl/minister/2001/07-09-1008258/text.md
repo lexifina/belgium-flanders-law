@@ -18,7 +18,7 @@ Het kinderdagverblijf kan buitenschoolse opvang organiseren mits K&G toestemming
 
 ### ART. 4.
 
-§ 1. De buitenschoolse opvang voldoet aan de criteria, opgenomen in het Kwaliteitscharter buitenschoolse kinderopvang, vastgelegd in het besluit van de Vlaamse regering van 24 juni 1997 houdende de algemene voorwaarden inzake het organiseren van buitenschoolse opvang.<br /><br />§ 2. De buitenschoolse opvang wordt expliciet gedefinieerd en uitgewerkt in het kwaliteitsbeleid dat het kinderdagverblijf uittekent conform de bepalingen in het decreet van 17 oktober 2003 betreffende de kwaliteit van de gezondheids- en welzijnsvoorzieningen.
+§ 1. De buitenschoolse opvang voldoet aan de bepalingen die opgenomen zijn in het kwaliteitscharter buitenschoolse opvang en aan de bepaling over een beleid voor veiligheid en gezondheid, vermeld in artikel 8 en 11, 4°, van het besluit van de Vlaamse Regering van 23 februari 2001 houdende de erkenning en subsidiëring van initiatieven voor buitenschoolse opvang.<br /><br />§ 2. De buitenschoolse opvang wordt expliciet gedefinieerd en uitgewerkt in het kwaliteitsbeleid dat het kinderdagverblijf uittekent conform de bepalingen in het decreet van 17 oktober 2003 betreffende de kwaliteit van de gezondheids- en welzijnsvoorzieningen.
 
 ### ART. 5.
 
@@ -276,7 +276,7 @@ Kind en Gezin neemt na onderzoek van het beroep uiterlijk vijfenveertig dagen na
 
 ### ART. 24.
 
-Het forfaitair bedrag, vermeld in dit besluit, wordt elk jaar op 1 januari verhoogd met de procentuele stijging van de index van de consumptieprijzen tussen 1 november van het vorige kalenderjaar en 1 november van het voorafgaande kalenderjaar.
+Het forfaitaire bedrag, vermeld in dit besluit, wordt elk jaar op 1 januari verhoogd met de procentuele stijging van het gezondheidsindexcijfer tussen 1 november van het vorige kalenderjaar en 1 november van het daaraan voorafgaande kalenderjaar. Onder gezondheidsindexcijfer wordt het prijsindexcijfer verstaan dat berekend wordt voor de toepassing van artikel 2 van het koninklijk besluit van 24 december 1993 ter uitvoering van de wet van 6 januari 1989 tot vrijwaring van 's lands concurrentievermogen, bekrachtigd bij de wet van 30 maart 1994 houdende sociale bepalingen.
 
 ### ART. 25.
 
