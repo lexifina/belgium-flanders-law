@@ -1,0 +1,17 @@
+{
+  "codex_id": 1018039,
+  "title": "Decreet van 2009-04-30 tot wijziging van het decreet van 5 april 1995 houdende algemene bepalingen inzake milieubeleid en tot wijziging aan diverse bepalingen inzake de milieuhandhaving",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1018039/VolledigDocument?datum=2009-04-30",
+  "source_sha256": "bfb9256533d1d42d1d0631be6cdbc30cb8fd5543e65f462ceceb8548fc067085",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1018039&param=informatie",
+  "as_of": "2009-04-30",
+  "made": "2009-04-30",
+  "gazette": "2009-06-25",
+  "numac": 2009035500,
+  "document_start": "2009-06-25",
+  "document_end": null,
+  "in_force": "2009-04-30",
+  "article_versions": 1,
+  "record_form": "consolidated version as in force on 2009-04-30; oldest version available; future article versions excluded; article text as the API gives it"
+}
