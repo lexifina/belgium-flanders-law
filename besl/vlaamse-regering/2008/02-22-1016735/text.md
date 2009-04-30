@@ -34,7 +34,7 @@ Er wordt geen steun verleend aan ondernemingen die niet voldoen aan de regelgevi
 
 ### ART. 6.
 
-Onverminderd artikel 4, 2, laatste alinea, van de verordening regionale investeringssteun gaat de termijn van vijf jaar, vermeld in artikel 7 van het decreet, in vanaf het beëindigen van de investeringen in geval het een investeringsproject of een gecombineerd project betreft.
+Onverminderd artikel 4, 2, laatste alinea, van de algemene vrijstellingsverordening gaat de termijn van vijf jaar, vermeld in artikel 7 van het decreet, in vanaf het beëindigen van de investeringen in geval het een investeringsproject of een gecombineerd project betreft.
 
 ### ART. 7.
 
@@ -60,7 +60,7 @@ Alleen ondernemingen die behoren tot de sectoren, vermeld in de bijlage bij dit 
 
 ### ART. 11.
 
-Het strategisch opleidingsproject start op zijn vroegst op de datum van de bevestigingsbrief en uiterlijk zes maanden na die datum.<br /><br />Het strategisch opleidingsproject heeft een duur van maximaal drie jaar, die loopt vanaf de datum van de bevestigingsbrief. De minister kan deze termijn op gemotiveerd verzoek verlengen.<br /><br />Het strategisch opleidingsproject start op de datum van de aanvang van de eerste opleiding.
+Het strategisch opleidingsproject start op zijn vroegst op de datum van de bevestigingsbrief en uiterlijk zes maanden na die datum.<br /><br />Het strategisch opleidingsproject heeft een duur van maximaal vijf jaar, die loopt vanaf de datum van de bevestigingsbrief. De minister kan deze termijn op gemotiveerd verzoek verlengen.<br /><br />Het strategisch opleidingsproject start op de datum van de aanvang van de eerste opleiding.
 
 ### ART. 12.
 
@@ -142,7 +142,7 @@ Alleen ondernemingen die behoren tot de sectoren, vermeld in de bijlage bij dit 
 
 ### ART. 27.
 
-Het strategisch investeringsproject start op zijn vroegst op de datum van de bevestigingsbrief en uiterlijk zes maanden na die datum.<br /><br />Het strategisch investeringsproject heeft een duur van maximaal drie jaar, die loopt vanaf de datum van de bevestigingsbrief. De minister kan deze termijn op gemotiveerd verzoek verlengen.<br /><br />Het strategisch investeringsproject start ofwel met de datum van de eerste factuur, ofwel met de datum van de akte van de verwerving van een onroerend goed, ofwel met de datum van het leasingcontract.
+Het strategisch investeringsproject start op zijn vroegst op de datum van de bevestigingsbrief en uiterlijk zes maanden na die datum.<br /><br />Het strategisch investeringsproject heeft een duur van maximaal vijf jaar, die loopt vanaf de datum van de bevestigingsbrief. De minister kan deze termijn op gemotiveerd verzoek verlengen.<br /><br />Het strategisch investeringsproject start ofwel met de datum van de eerste factuur, ofwel met de datum van de akte van de verwerving van een onroerend goed, ofwel met de datum van het leasingcontract.
 
 ### ART. 28.
 
@@ -230,7 +230,7 @@ Bij een gecombineerd dossier bedraagt de score die de onderneming ten minste moe
 
 ### ART. 45.
 
-§ 1. De subsidie wordt aan de onderneming uitbetaald in drie schijven :<br />1° een bedrag van 30 % wordt op zijn vroegst dertig dagen na de beslissing tot toekenning van de subsidie uitbetaald, op voorwaarde dat de onderneming :<br />a) de uitbetaling van de schijf aanvraagt;<br />b) verklaart dat het strategisch investerings- of opleidingsproject is gestart, zoals bepaald in respectievelijk artikel 12 en 28;<br />2° een bedrag van 30 % wordt op zijn vroegst dertig dagen na de beslissing tot toekenning van de subsidie uitbetaald, op voorwaarde dat de onderneming :<br />a) de uitbetaling van de schijf aanvraagt;<br />b) verklaart dat het strategisch investerings- of opleidingsproject voor 60 % is gerealiseerd;<br />3° een resterend bedrag van 40 % wordt op zijn vroegst dertig dagen na de beslissing tot toekenning van de subsidie uitbetaald, na de volledige realisatie van het strategisch investerings- of opleidingsproject, op voorwaarde dat :<br />a) de onderneming de uitbetaling van de schijf aanvraagt;<br />b) het Agentschap Ondernemen vaststelt dat :<br />1) het strategisch investerings- of opleidingsproject volledig is gerealiseerd, en in geval van een investeringsproject, de investeringen in en door de aanvragende onderneming worden geëxploiteerd. <br />2) er geen achterstallige schulden zijn vastgesteld bij de Rijksdienst voor Sociale Zekerheid en in het kader van steunmaatregelen met toepassing van het decreet. Als de onderneming achterstallige schulden heeft, wordt de uitbetaling opgeschort tot ze het bewijs levert dat die schulden werden aangezuiverd;<br />3) aan alle voorwaarden, bepaald in het decreet en in dit besluit, is voldaan.<br /><br />§ 2. Bij een gecombineerd dossier, als vermeld in hoofdstuk IV, wordt § 1 toegepast per deel.
+§ 1. De subsidie wordt aan de onderneming uitbetaald in drie schijven :<br />1° een bedrag van 50 % wordt op zijn vroegst dertig dagen na de beslissing tot toekenning van de subsidie uitbetaald, op voorwaarde dat de onderneming :<br />a) de uitbetaling van de schijf aanvraagt;<br />b) verklaart dat het strategisch investerings- of opleidingsproject is gestart, zoals bepaald in respectievelijk artikel 12 en 28;<br />2° een bedrag van 20 % wordt op zijn vroegst dertig dagen na de beslissing tot toekenning van de subsidie uitbetaald, op voorwaarde dat de onderneming :<br />a) de uitbetaling van de schijf aanvraagt;<br />b) verklaart dat het strategisch investerings- of opleidingsproject voor 70 % is gerealiseerd;<br />3° een resterend bedrag van 30 % wordt op zijn vroegst dertig dagen na de beslissing tot toekenning van de subsidie uitbetaald, na de volledige realisatie van het strategisch investerings- of opleidingsproject, op voorwaarde dat :<br />a) de onderneming de uitbetaling van de schijf aanvraagt;<br />b) het Agentschap Ondernemen vaststelt dat :<br />1) het strategisch investerings- of opleidingsproject volledig is gerealiseerd, en in geval van een investeringsproject, de investeringen in en door de aanvragende onderneming worden geëxploiteerd. <br />2) er geen achterstallige schulden zijn vastgesteld bij de Rijksdienst voor Sociale Zekerheid en in het kader van steunmaatregelen met toepassing van het decreet. Als de onderneming achterstallige schulden heeft, wordt de uitbetaling opgeschort tot ze het bewijs levert dat die schulden werden aangezuiverd;<br />3) aan alle voorwaarden, bepaald in het decreet en in dit besluit, is voldaan.<br /><br />§ 2. Bij een gecombineerd dossier, als vermeld in hoofdstuk IV, wordt § 1 toegepast per deel.
 
 ### ART. 46.
 
