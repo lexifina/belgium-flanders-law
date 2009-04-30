@@ -14,7 +14,7 @@ De Vlaamse overheid, de lokale overheid, de Vlaamse Vervoermaatschappij en in vo
 
 ### ART. 4.
 
-Het moederconvenant bevat minimaal:<br />1° de algemene doelstellingen en uitgangspunten van een duurzaam mobiliteitsbeleid;<br />2° de basisvoorwaarden waaraan het lokale mobiliteitsplan minimaal voldoet;<br />3° het toepassingsgebied;<br />4° de organisatie van de besluitvorming;<br />5° de engagementen van de partijen;<br />6° de evaluatiemethodiek.<br /><br />Het moederconvenant geldt voor een periode van vijf jaar vanaf de datum van de ondertekening en zolang een module bij het moederconvenant in uitvoering is.
+Het moederconvenant bevat minimaal:<br />1° een verwijzing naar de doelstellingen en beginselen van artikel 4 van het decreet van 20 maart 2009 betreffende het mobiliteitsbeleid;<br />2° een overzicht van de richtinggevende bepalingen van het Mobiliteitsplan Vlaanderen en het gemeentelijk mobiliteitsplan;".<br />3° het toepassingsgebied;<br />4° de organisatie van de besluitvorming;<br />5° de engagementen van de partijen;<br />6° de evaluatiemethodiek.<br /><br />Het moederconvenant geldt voor een periode van vijf jaar vanaf de datum van de ondertekening en zolang een module bij het moederconvenant in uitvoering is.
 
 ### ART. 5.
 
