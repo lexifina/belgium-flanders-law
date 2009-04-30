@@ -2,16 +2,16 @@
   "codex_id": 1015904,
   "title": "Besluit van de Vlaamse Regering van 2007-05-16 tot toekenning van steun aan ondernemingen voor ecologie-investeringen in het Vlaamse Gewest",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1015904/VolledigDocument?datum=2009-02-20",
-  "source_sha256": "0d02673dfa7f7bf9c52a0451600e96da55d08def79ee3b1499016c7eb4042de6",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1015904/VolledigDocument?datum=2009-04-30",
+  "source_sha256": "8dec7507e79b50aec7f67cf635379e10b02ed141a35d0fc76a5e2605ccb14140",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1015904&param=informatie",
-  "as_of": "2009-02-20",
+  "as_of": "2009-04-30",
   "made": "2007-05-16",
   "gazette": "2007-06-29",
   "numac": 2007035957,
   "document_start": "2007-05-17",
   "document_end": "2011-01-31",
-  "in_force": "2009-02-20",
+  "in_force": "2009-04-30",
   "article_versions": 35,
-  "record_form": "consolidated version as in force on 2009-02-20; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2009-04-30; future article versions excluded; article text as the API gives it"
 }
