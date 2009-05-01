@@ -94,29 +94,15 @@ De Vlaamse regering stelt de voorwaarden vast waarop een algemene telling van de
 
 ### ART. 11.
 
-Onverminderd de bevoegdheden van de officieren van de gerechtelijke politie, zijn de ambtenaren, die daartoe worden aangewezen door de Vlaamse regering, gerechtigd om de overtreding van dit decreet en zijn uitvoeringsbesluit op te sporen en vast te stellen. Zij hebben bij dag en nacht toegang tot alle instellingen of inrichtingen - woongelegenheden uitgezonderd - als ze redenen hebben om aan te nemen dat dit decreet of zijn uitvoeringsbesluiten worden overtreden. Hun processen-verbaal hebben bewijskracht tot het tegendeel bewezen is. Een afschrift ervan wordt aan de overtreders toegezonden binnen de tien dagen na de vaststelling.<br>
-<br>
-Indien er voldoende aanwijzingen zijn om te vermoeden dat een dergelijke overtreding in woongelegenheden wordt begaan, mag door twee van die ambtenaren huiszoeking worden gedaan, krachtens een machtiging van de vrederechter.
+Voor dit decreet en zijn uitvoeringsbesluiten worden het toezicht en de bestuurlijke handhaving uitgeoefend en worden veiligheidsmaatregelen genomen volgens de regels bepaald in hoofdstukken III, IV en VII van titel XVI van het decreet van 5 april 1995 houdende algemene bepalingen inzake milieubeleid.
 
 ### ART. 12.
 
-De overeenkomstig artikel 11 aangewezen ambtenaren nemen monsters of doen monsters nemen van stoffen, die het grondwater kunnen verontreinigen, of waarvan vermoed wordt dat ze het verontreinigd hebben.<br>
-<br>
-Op verzoek van de exploitant van een grondwaterwinning kunnen de ambtenaren monsters van de bodem nemen of doen nemen wanneer wordt vermoed dat deze stoffen bevat als bedoeld in het vorige lid. Van die monsterneming wordt proces-verbaal opgemaakt, waarvan een afschrift aan de vermoedelijke dader van de overtreding wordt toegezonden.<br>
-<br>
-De ontleding van de monsters wordt verricht door een laboratorium, dat daartoe is erkend door de Vlaamse regering.<br>
-<br>
-De Vlaamse regering bepaalt, onder vrijwaring van de rechten van de verdediging, de wijze waarop de monsters worden genomen, de regels van de procedure van erkenning van de laboratoria evenals het model van het protocol van de ontledingen. Zij kan eveneens de ontledingsmethodes vaststellen.
+...
 
 ### ART. 13.
 
-De overeenkomstig artikel 11 aangewezen ambtenaren kunnen voorlopig het gebruik verbieden van inrichtingen en toestellen die wegens hun bouw of gebrekkige werking niet kunnen functioneren, overeenkomstig dit decreet en zijn uitvoeringsbesluiten; zij kunnen de inrichtingen en toestellen verzegelen en alle maatregelen nemen, die in de gegeven omstandigheden noodzakelijk zijn voor de bescherming van het grondwater. De overeenkomstig artikel 11 aangewezen ambtenaren kunnen voor de vervulling van hun opdracht de bijstand van de gemeentelijke overheid vorderen. Zij kunnen die overheid eveneens verzoeken om de vereiste dringende maatregelen te nemen bij verontreiniging van het grondwater.<br>
-<br>
-Indien de gemeentelijke overheid in gebreke blijft of bij dreigend gevaar, nemen de overeenkomstig artikel 11 aangewezen ambtenaren de passende maatregelen of doen ze de nodige opeisingen.<br>
-<br>
-Zij geven hiervan onmiddellijk kennis aan de Gouverneur van de provincie.<br>
-<br>
-Al deze maatregelen houden op gevolg te hebben na verloop van dertig dagen, indien ze binnen deze termijn niet bekrachtigd zijn door de Vlaamse regering.
+...
 
 ## HOOFDSTUK IV VOORKOMEN EN VERGOEDEN VAN SCHADE
 
@@ -222,33 +208,7 @@ De Vlaamse regering benoemt de leden van de Raad en wijst onder hen de voorzitte
 
 ### ART. 29.
 
-§ 1. Onverminderd de toepassing van het bij het Strafwetboek of bij andere wetten bepaalde straffen, wordt met een gevangenisstraf van acht dagen tot vijf jaar en met een geldboete van zesentwintig tot tienduizend frank, of met één van die straffen alleen, gestraft:<br>
-<br>
-1. hij die niet in het bezit is van een vergunning en handelingen of werkzaamheden verricht waarvoor overeenkomstig de bepalingen van dit decreet en zijn uitvoeringsbesluiten een voorafgaande vergunning vereist is;<br>
-<br>
-2. hij die de voorwaarden van een vergunning niet naleeft;<br>
-<br>
-3. hij die werken of werkzaamheden verricht of laat verrichten die verboden zijn in toepassing van dit decreet en zijn uitvoeringsbesluiten;<br>
-<br>
-4. hij die wegens nalatigheid of gebrek aan vooruitzicht bij het gebruik van roerende of onroerende goederen, oorzaak is van verontreiniging van het grondwater;<br>
-<br>
-5. hij die de bijdrageplicht, zoals bepaald in artikel 24 van dit decreet en zijn uitvoeringsbesluiten niet nakomt;<br>
-<br>
-6. hij die zich niet leent tot of zich verzet tegen de inspecties en de monsternemingen voorzien in dit decreet en zijn uitvoeringsbesluiten.<br>
-<br>
-§ 2. De straffen kunnen worden verdubbeld indien een nieuwe overtreding wordt begaan binnen twee jaar na een onherroepelijk geworden vonnis tot veroordeling wegens een der in dit artikel bepaalde overtredingen.<br>
-<br>
-§ 3. Alle bepalingen van Boek I van het Strafwetboek, met inbegrip van hoofdstuk VII en artikel 85, zijn toepasselijk op de in dit decreet bepaalde misdrijven.<br>
-<br>
-§ 4. De rechter kan de inbeslagneming van machines en het afbreken van de gebouwen, inrichtingen en kunstwerken bevelen die tot stand zijn gebracht met overtreding van de ter uitvoering van dit decreet gegeven voorschriften. Hij kan eveneens bevelen de plaatsen in hun vroegere staat te herstellen.<br>
-<br>
-Indien de veroordeelde het vonnis niet binnen de gestelde tijd ten uitvoer legt, geschiedt dit van ambtswege, op zijn kosten en risico, op bevel van de daartoe door de Vlaamse regering gemachtigde ambtenaar.<br>
-<br>
-In dat geval heeft deze het recht de materialen en voorwerpen afkomstig van het herstel van de plaatsen in hun vroegere toestand te verkopen, te vervoeren, op te slaan of te vernietigen op een plaats die hij uitkiest. De veroordeelde is ertoe gehouden alle uitvoeringskosten, verminderd met de opbrengst van de verkoop der materialen en voorwerpen, te vergoeden op vertoon van een staatbegroot en invorderbaar verklaard door de beslagrechter.<br>
-<br>
-§ 5. De vennootschappen zijn burgerlijk aansprakelijk voor veroordelingen tot geldboeten en verbeurdverklaringen uitgesproken tegen hun orgaan of aangestelden wegens overtreding van de bepalingen van dit decreet.<br>
-<br>
-Die vennootschappen kunnen voor de strafrechtbank worden gedagvaard.
+Met betrekking tot dit decreet en zijn uitvoeringsbesluiten gebeuren het onderzoek, de vaststelling en de sanctionering van de milieu-inbreuken en milieumisdrijven volgens de regels bepaald in titel XVI van het decreet van 5 april 1995 houdende algemene bepalingen inzake milieubeleid.<br /><br />Deze bepaling is evenwel niet van toepassing op de niet-aangifte, onvolledige of onjuiste aangifte, vermeld in artikel 28undecies, § 1, § 2 en § 3, en op elke andere overtreding van hoofdstuk IVbis, als vermeld in artikel 28undecies, § 4.
 
 ## HOOFDSTUK VI SLOTBEPALINGEN
 
