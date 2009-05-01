@@ -206,4 +206,8 @@ In afwijking van artikel 34 van het koninklijk besluit van 28 september 1984, zo
 
 ## TITEL IV. Opheffings- en overgangsbepalingen
 
+### ART. 224.
+
+In afwijking van artikel 10 van het besluit van de Vlaamse Regering van 17 juli 1991 tot uitvoering van het decreet van 17 juli 1991 betreffende inspectie, Dienst voor Onderwijsontwikkeling en pedagogische begeleidingsdiensten, worden de kandidaten die geslaagd zijn in de proef, vermeld in artikel 23 van het decreet van 17 juli 1991 betreffende inspectie, Dienst voor Onderwijsontwikkeling en pedagogische begeleidingsdiensten, vanaf 1 mei 2009, ambtshalve toegelaten tot de proeftijd in het ambt van onderwijsadviseur bij de Dienst voor Onderwijsontwikkeling.
+
 ## TITEL V. Slotbepaling
