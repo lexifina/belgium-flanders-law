@@ -36,6 +36,10 @@ In artikel 60, § 1, van hetzelfde besluit worden de volgende wijzigingen aangeb
 
 In artikel 81, § 1, 2, van hetzelfde besluit worden de woorden « 4 werkdagen » vervangen door de woorden « 10 werkdagen ».<br /><br />
 
+### ART. 23.
+
+In artikel 91 van hetzelfde besluit wordt tussen het eerste en het tweede lid een lid ingevoegd, dat luidt als volgt :<br />« De relevante ervaring in de private sector of als zelfstandige kan eveneens in aanmerking genomen worden voor de berekening van de geldelijke anciënniteit. »<br /><br />
+
 ### ART. 24.
 
 Aan deel VII, titel 1, hoofdstuk 3, afdeling 3, van hetzelfde besluit worden een artikel 94/1 en 94/2 toegevoegd, die luiden als volgt :<br />« Art. 94/1. De verplichte deeltijdse prestaties verricht in het kader van de stages der jongeren gepresteerd binnen de openbare sector worden met ingang van 1 januari 2007 in aanmerking genomen voor de berekening van het salaris.<br /><br />Art. 94/2. De geldelijke anciënniteit van de arrondissementscommissaris bij zijn indiensttreding kan niet minder bedragen dan de geldelijke anciënniteit die in rekening werd gebracht bij een vorige werkgever uit de openbare sector. »<br /><br />
