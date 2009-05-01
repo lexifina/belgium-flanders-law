@@ -68,3 +68,7 @@ In artikel VII 70quinquies § 2 van hetzelfde besluit, ingevoegd bij het besluit
 ### ART. 47.
 
 Aan artikel VII 155, § 1, van hetzelfde besluit, ingevoegd bij het besluit van de Vlaamse Regering van 29 mei 2009, wordt een tweede lid toegevoegd, dat luidt als volgt :<br /><br />« Artikel VII 20, § 3 en § 4, zijn van toepassing op de extra dertiende maand, vermeld in het eerste lid. In afwijking van artikel VII 22, § 3, wordt de extra dertiende maand uitbetaald tijdens de maand januari van het volgende kalenderjaar ».
+
+### ART. 56.
+
+In artikel 28, 9°, van het besluit van de Vlaamse Regering van 18 juni 2010 tot wijziging van het besluit van de Vlaamse Regering van 5 maart 2004 tot vaststelling van het statuut van de arrondissementscommissarissen en de adjunct-arrondissementscommissaris, worden de woorden « 1 mei 2009 » vervangen door de woorden « 1 juli 2010 ».
