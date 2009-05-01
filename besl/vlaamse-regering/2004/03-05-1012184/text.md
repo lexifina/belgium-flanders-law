@@ -456,7 +456,7 @@ De gerechtigde in een schaal ontvangt te allen tijde het salaris dat overeenstem
 
 ### ART. 91.
 
-De arrondissementscommissaris valoriseert alle voltijdse diensten die hij heeft verricht als perso-neelslid in de publieke sector in één van de lid-Staten van de Europese Economische Ruimte of bij een internationale openbare instelling.<br /><br />De minister van Binnenlandse Aangelegenheden beslist welke diensten worden in aanmerking genomen.
+De arrondissementscommissaris valoriseert alle voltijdse diensten die hij heeft verricht als perso-neelslid in de publieke sector in één van de lid-Staten van de Europese Economische Ruimte of bij een internationale openbare instelling.<br /><br />De relevante ervaring in de private sector of als zelfstandige kan eveneens in aanmerking genomen worden voor de berekening van de geldelijke anciënniteit. <br /><br />De minister van Binnenlandse Aangelegenheden beslist welke diensten worden in aanmerking genomen.
 
 ## AFDELING 2 AANREKENING VAN DEELTIJDSE DIENSTEN
 
