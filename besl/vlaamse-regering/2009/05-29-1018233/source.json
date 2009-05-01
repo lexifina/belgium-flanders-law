@@ -1,0 +1,17 @@
+{
+  "codex_id": 1018233,
+  "title": "Besluit van de Vlaamse Regering van 2009-05-29 houdende de overdracht van de personeelsleden van het publiekrechtelijk vormgegeven extern verzelfstandigd agentschap Vlaamse Dienst voor Arbeidsbemiddeling en Beroepsopleiding aan het intern verzelfstandigd Vlaams Subsidieagentschap voor Werk en Sociale Economie",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1018233/VolledigDocument?datum=2009-05-01",
+  "source_sha256": "4578b0dca65eecabea9d1e1a8df0d71563c7016ebd69c2042257c04becdcc70b",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1018233&param=informatie",
+  "as_of": "2009-05-01",
+  "made": "2009-05-29",
+  "gazette": "2009-08-14",
+  "numac": 2009203646,
+  "document_start": "2009-05-01",
+  "document_end": null,
+  "in_force": "2009-05-01",
+  "article_versions": 7,
+  "record_form": "consolidated version as in force on 2009-05-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
