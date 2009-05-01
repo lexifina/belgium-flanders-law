@@ -98,7 +98,7 @@ De keuringsinstelling bezorgt maandelijks aan de afdeling een overzicht van de g
 
 ### ART. 18.
 
-De ambtenaren van de afdeling worden aangewezen om toezicht uit te oefenen op de naleving van de bepalingen van dit besluit.<br /><br />Andere ambtenaren dan de ambtenaren, vermeld in het eerste lid, kunnen in het kader van hun werkzaamheden steeds de nodige informatie bekomen bij de afdeling.<br /><br />Overtredingen van de bepalingen van dit besluit worden bestraft overeenkomstig de bepalingen in de wet van 28 december 1964 betreffende de bestrijding van de luchtverontreiniging.<br /><br />
+...
 
 ## HOOFDSTUK VII Wijzigingen in titel II van het Vlarem
 
