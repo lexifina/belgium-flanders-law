@@ -1,0 +1,17 @@
+{
+  "codex_id": 1018748,
+  "title": "Besluit van de Vlaamse Regering van 2009-05-15 tot verlenging van het besluit van de Vlaamse Regering van 13 maart 2009 betreffende de toekenning van een tijdelijke economische herstelsubsidie aan de beschutte werkplaatsen",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1018748/VolledigDocument?datum=2009-05-01",
+  "source_sha256": "967afd0a4897e3c4c509c91171636a59a66667972636605591d5a056f92fe0de",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1018748&param=informatie",
+  "as_of": "2009-05-01",
+  "made": "2009-05-15",
+  "gazette": "2010-02-02",
+  "numac": 2010035084,
+  "document_start": "2009-05-01",
+  "document_end": null,
+  "in_force": "2009-05-01",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2009-05-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
