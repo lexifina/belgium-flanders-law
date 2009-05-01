@@ -128,15 +128,39 @@ Deze subsectie is van toepassing op:<br />1° de personeelsleden, die door een s
 
 ## [Sectie 1. Oprichting (ing. decr. 8 mei 2009, art. V.31, I: 1 mei 2009)]
 
+### ART. 9quater decies.
+
+Onder de benaming de Vlaamse Universiteiten en Hogescholen Raad (VLUHR) richten de hogescholen, de universiteiten en de associaties in de Vlaamse Gemeenschap vóór eind 2009 een vereniging zonder winstoogmerk op waarvan de statuten moeten voldoen aan de in dit decreet bepaalde voorwaarden.
+
 ## [Sectie 2. Bevoegdheid (ing. decr. 8 mei 2009, art. V.31, I: 1 mei 2009)]
+
+### ART. 9quinquies decies.
+
+§ 1. De VLUHR verstrekt adviezen en doet voorstellen aan de minister tot wiens bevoegdheid het hoger onderwijs behoort en aan de minister tot wiens bevoegdheid wetenschap en innovatie behoort. De VLUHR kan ook overleg onder de hogescholen, universiteiten of associaties organiseren. Het overleg, de adviezen en de voorstellen betreffen alle aangelegenheden die de Vlaamse hogescholen, universiteiten en associaties aanbelangen. <br /><br />§ 2. De VLUHR is bevoegd voor de externe kwaliteitsbeoordelingen in de instellingen zoals bepaald in artikel 93 van dit decreet. De VLUHR kan daartoe een verzelfstandigd orgaan oprichten.<br /><br />§ 3. Op vraag van de Vlaamse Regering en de Erkenningscommissie verstrekt de VLUHR adviezen in diverse materies.<br /><br />§ 4. De VLUHR moet ook aspecten zoals internationalisering, ontwikkelingssamenwerking en wetenschap en innovatie op volwaardige manier aan bod laten komen binnen haar werking.<br /><br />§ 5. De VLUHR fungeert als forum voor interassociatieoverleg.
 
 ## [Sectie 3. Samenstelling (ing. decr. 8 mei 2009, art. V.31, I: 1 mei 2009)]
 
+### ART. 9sexies decies.
+
+§ 1. De VLUHR vertegenwoordigt alle hogescholen, alle universiteiten en alle associaties in de Vlaamse Gemeenschap.<br /><br />§ 2. De VLUHR kan andere natuurlijke personen of rechtspersonen uitnodigen om zijn vergaderingen bij te wonen.
+
 ## [Sectie 4. Rapportering (ing. decr. 8 mei 2009, art. V.31, I: 1 mei 2009)]
+
+### ART. 9septies decies.
+
+De VLUHR bezorgt jaarlijks vóór 1 juni een verslag van de activiteiten van het afgesloten kalenderjaar aan de Vlaamse Regering en het Vlaams Parlement. De jaarrekening maakt deel uit van dit activiteitenverslag.
 
 ## [Sectie 5. Personeel (ing. decr. 8 mei 2009, art. V.31, I: 1 mei 2009)]
 
+### ART. 9duodevicies.
+
+Personeelsleden van de universiteiten of de hogescholen kunnen met hun instemming belast worden met een opdracht in de VLUHR. De VLUHR sluit daartoe een overeenkomst met de universiteit of de hogeschool en het personeelslid. Deze overeenkomst bepaalt ten minste de duurtijd van de overeenkomst, de salarisschaal waarop het personeelslid recht heeft en de wijze van verrekening van de personeelskost aan de VLUHR.<br /><br />De benoemde personeelsleden die belast zijn met een opdracht in de VLUHR behouden hun statutaire rechten als personeelslid van de universiteit of hogeschool en blijven deel uitmaken van de personeelsformatie van de universiteit of de hogeschool. Op het ogenblik dat de opdracht in de VLUHR eindigt, belast het universiteits- of het hogeschoolbestuur het betrokken personeelslid met een opdracht en wordt het bezoldigd met de salarisschaal verbonden met de functie die het in de universiteit of de hogeschool bekleedt.
+
 ## [Sectie 6. Overgangsbepaling (ing. decr. 8 mei 2009, art. V.31, I: 1 mei 2009)]
+
+### ART. 9undevicies.
+
+De VLIR en de VLHORA blijven werkzaam onder de huidige constellatie tot de VLUHR operationeel is. <br /><br />Daar waar in regelgevende teksten sprake is van « na of op advies van de Vlaamse Interuniversitaire Raad » of « na of op advies van de Vlaamse Hogescholenraad » of « op voorstel van de Vlaamse Interuniversitaire Raad » of « op voorstel van de Vlaamse Hogescholenraad », moeten deze bewoordingen vanaf 1 januari 2010 gelezen worden als « na of op advies van de Vlaamse Universiteiten en Hogescholen Raad » of « op voorstel van de Vlaamse Universiteiten en Hogescholen Raad ».<br /><br />In afwijking van het bepaalde in het tweede lid, treedt de VLUHR vanaf de visitaties die plaatsvinden op basis van de zelfevaluatierapporten die op 1 september 2010 moeten klaar zijn, in de plaats van de VLIR en de VLHORA als evaluatieorgaan voor de externe evaluatie van de opleidingen. Waar in artikel 93 van dit decreet sprake is van de « Vlaamse Interuniversitaire Raad » of de « Vlaamse Hogescholenraad » moet dit voor de visitaties waarvoor vanaf 1 september 2010 de VLUHR als evaluatieorgaan optreedt, gelezen worden als « Vlaamse Universiteiten en Hogescholen Raad.
 
 ## HOOFDSTUK II ZENDING
 
@@ -530,9 +554,37 @@ Het Accreditatieorgaan kan de accreditatie verlenen op grond van een als equival
 
 ## [Sectie 1. Uitbreiding studieomvang (ing. decr. 8 mei 2009, art. V.46, I: 1 mei 2009)]
 
+### ART. 63bis.
+
+Hogescholen en universiteiten kunnen uiterlijk op 30 juni 2009, 30 juni 2010 of 30 juni 2011 een aanvraag indienen bij de Vlaamse Regering tot uitbreiding van de studieomvang van een masteropleiding met een studieomvang van 60 studiepunten met het oog op het opstarten van deze masteropleidingen vanaf het academiejaar 2010-2011, 2011-2012 of 2012-2013. De aanvraag wordt gezamenlijk ingediend door alle instellingen die de betrokken opleiding aanbieden.<br /><br />De aanvraag maakt deel uit van een rationalisatieplan zoals bepaald in artikel 51 van het decreet van 14 maart 2008 betreffende de financiering van de werking van de hogescholen en de universiteiten in Vlaanderen.
+
+### ART. 63ter.
+
+In de aanvraag tonen de instellingen gezamenlijk aan dat de masteropleidingen van 120 studiepunten zullen beantwoorden aan volgende structuur :<br />- de vakinhoudelijke vorming betreft 90 studiepunten en kan een differentiatie bevatten naar verschillende specialismen; <br />- de gerichte opleidingscomponenten betreffen ten minste 30 studiepunten en zijn specifiek gericht op één of meer van de volgende finaliteiten :<br />1° onderzoeksgerichte finaliteit; <br />2° lerarenopleiding, waarbij een deel van de lerarenopleiding ingebouwd wordt als afstudeerrichting in de initiële master zoals bepaald in artikel 55octies, § 2 en § 3, van dit decreet;<br />3° finaliteit naar andere beroepen dan leraar;<br />4° doorgedreven vakinhoudelijke specialisatie.
+
+### ART. 63quater.
+
+De voorstellen tot uitbreiding van de studieomvang van de masteropleidingen zullen getoetst worden aan de volgende criteria :<br />1° de opleidingen kunnen aantonen dat de context tot een uitbreiding van de studieomvang noodzaakt :<br />- de voorwaarden voor de erkenning van de kwalificatie zijn gewijzigd;<br />- de leerresultaten kunnen niet meer bereikt worden binnen de huidige studieomvang;<br />- de opleidingsomvang in de omringende landen voor vergelijkbare opleidingen bedraagt meer dan 60 studiepunten; <br />- de internationale en nationale arbeidsmarkt vraagt kwalificaties van meer dan 60 studiepunten;<br />2° de opleidingen kunnen aantonen dat er een objectief probleem van studeerbaarheid bestaat en dat de nieuwe studieomvang en opbouw van het curriculum de studeerbaarheid significant zal verbeteren;<br />3° de opleiding leidt in hoge mate tot een uitstroom naar onderzoeksloopbanen, gemeten in het relatieve aantal doctoraten dat in deze domeinen wordt behaald. De uitbreiding van de studieomvang dient zich te vertalen in een hoger streefcijfer wat het aantal doctoraten betreft;<br />4° de betreffende instellingen hebben de capaciteit en de kritische massa inzake academisch en wetenschappelijk personeel en infrastructuur om de nieuwe opleidingen op kwaliteitsvolle basis aan te bieden. Zij kunnen aantonen dat zij hierover beschikken door samenwerking met andere hogescholen en universiteiten.
+
+### ART. 63quinquies.
+
+Wanneer enkel aan de beide laatste criteria is voldaan, dan kan de uitbreiding van de studieomvang enkel betrekking hebben op de oprichting van masters met een onderzoeksgerichte finaliteit, waarbij er in dat vakgebied een aanbod van masteropleidingen van 60 studiepunten behouden blijft. Wanneer aan de vier criteria is voldaan, wordt er een algemene aanpassing van de studieomvang doorgevoerd. De instellingen specificeren voor welke variant zij een aanvraag indienen. <br /><br />Ingeval een veralgemeende uitbreiding van de studieomvang wordt doorgevoerd zullen instellingen die niet over voldoende capaciteit beschikken om de uitbreiding te realiseren, verplicht zijn om samen te werken met een andere instelling of verplicht zijn het opleidingsaanbod van de betreffende master stop te zetten.
+
+### ART. 63sexies.
+
+De Vlaamse Regering neemt op basis van het advies van de commissie van experten zoals bepaald in artikel 52, § 3, van het decreet van 14 maart 2008 betreffende de financiering van de werking van de hogescholen en de universiteiten in Vlaanderen en het ingediende dossier een besluit inzake uitbreiding van de studieomvang uiterlijk vijf maanden na datum van ontvangst van de aanvraag.
+
 ## [Sectie 2. Vermindering studieomvang (ing. decr. 8 mei 2009, art. V.46, I: 1 mei 2009)]
 
+### ART. 63septies.
+
+De Vlaamse Regering kan op basis van het advies van de commissie van experten zoals bepaald in artikel 52, § 3, van het decreet van 14 maart 2008 betreffende de financiering van de werking van de hogescholen en de universiteiten in Vlaanderen beslissen om de studieomvang van een bestaande masteropleiding te verminderen.
+
 ## [Sectie 3. Overgangsbepaling (ing. decr. 8 mei 2009, art. V.46, I: 1 mei 2009)]
+
+### ART. 63octies.
+
+Studenten die ingeschreven waren in een masteropleiding van 60 studiepunten in het academiejaar voorafgaand aan het academiejaar waarin de uitbreiding van de studieomvang van de masteropleiding wordt ingevoerd, kunnen hun masteropleiding voltooien binnen de twee daaropvolgende academiejaren of kunnen inschrijven voor de in studieomvang uitgebreide masteropleiding met behoud van de verworven creditbewijzen.<br /><br />Instellingen moeten door middel van de organisatie van specifieke studietrajecten met een studieomvang van ten hoogste 60 studiepunten, studenten die een masteropleiding van 60 studiepunten hebben voltooid, de mogelijkheid bieden om de graad van master te behalen van de in studieomvang uitgebreide masteropleiding.
 
 ## [ONDERAFDELING 3ter HERSCHIKKINGEN IN HET OPLEIDINGSAANBOD (ing. decr. 9 juli 2010, art. V.20, I: 1 september 2009)]
 
