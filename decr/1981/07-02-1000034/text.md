@@ -454,11 +454,7 @@ Het is verboden afvalstoffen in of uit te voeren in strijd met de bepalingen van
 
 ### ART. 37.
 
-[Wanneer afvalstoffen worden achtergelaten of (verv. decr. 20 april 1994, art. 4, I: 7 mei 1994) ] [beheerd (verv. decr. 22 april 2005, art. 23, I: 1 januari 2005) ] [in overtreding van artikel 12 van dit decreet, en er hierdoor risico bestaat van hinder of schade voor de mens of het leefmilieu, kan de OVAM deze afvalstoffen ambtshalve (verv. decr. 20 april 1994, art. 4, I: 7 mei 1994) ] [inzamelen, vervoeren en verwerken. (verv. decr. 22 april 2005, art. 23, I: 1 januari 2005) ] [De OVAM kan hiertoe de bijstand vorderen van de rijkswacht, de politie, de brandweer, de civiele bescherming en andere besturen.<br>
-<br>
-Zo mogelijk wordt de overtreder vooraf gehoord. In ieder geval worden de maatregel en de motieven ervan ter kennis gebracht van de overtreder bij aangetekend schrijven. (verv. decr. 20 april 1994, art. 4, I: 7 mei 1994) ]<br>
-<br>
-[Het ambtshalve inzamelen, vervoeren en verwerken (verv. decr. 22 april 2005, art. 23, I: 1 januari 2005) ] [vindt plaats op kosten van de overtreder. (verv. decr. 20 april 1994, art. 4, I: 7 mei 1994) ]
+...
 
 ## HOOFDSTUK VIII [MILIEUBIJDRAGEN (verv. W. 23 december 2010, art. 6)]
 
@@ -604,17 +600,17 @@ De gemeenten zijn ertoe gerechtigd een beroep te doen op de nodige medewerking v
 
 ### ART. 54.
 
-Onverminderd de bevoegdheid van de officieren van gerechtelijke politie houden de ambtenaren en de contractuele personeelsleden die de Vlaamse Regering aanwijst, toezicht op de uitvoering van dit decreet en de uitvoeringsbesluiten ervan, de Verordening (EG) Nr. 1013/2006 van het Europees Parlement en de Raad van 14 juni 2006 betreffende de overbrenging van afvalstoffen, de Verordening (EG) nr. 2037/2000 van het Europees Parlement en de Raad van 29 juni 2000 betreffende de ozonlaag afbrekende stoffen en de Verordening (EG) nr. 1774/2002 van het Europees Parlement en de Raad van 3 oktober 2002 tot vaststelling van gezondheidsvoorschriften inzake niet voor menselijke consumptie bestemde dierlijke bijproducten, en de Verordening (EG) nr. 850/2004 van het Europees Parlement en de Raad van 29 april 2004 betreffende de persistente organische verontreinigde stoffen en tot wijziging van richtlijn 97/117/EEG. <br /><br />De gouverneur van de provincie of de burgemeester van de gemeente waar afvalstoffen worden achtergelaten of worden aangetroffen in overtreding met de bepalingen van dit decreet of de uitvoeringsbesluiten ervan, kunnen het beheer ervan bevelen en alle nodige maatregelen hiertoe nemen.
+Voor dit decreet en zijn uitvoeringsbesluiten worden het toezicht en de bestuurlijke handhaving uitgeoefend en worden veiligheidsmaatregelen genomen volgens de regels bepaald in hoofdstukken III, IV en VII van titel XVI van het decreet van 5 april 1995 houdende algemene bepalingen inzake milieubeleid.
 
 ### ART. 55.
 
-§ 1. De gouverneur van de provincie, de burgemeester en de ambtenaren bedoeld in artikel 54 mogen bij de uitoefening van hun opdracht:<br />1. op elk ogenblik van de dag of van de nacht, zonder voorafgaande verwittiging, vrij binnen gaan in alle inrichtingen, gedeelten van inrichtingen, lokalen en werkplaatsen waar afvalstoffen worden opgeslagen of verwijderd; tot de bewoonde lokalen hebben zij slechts toegang tussen vijf uur 's morgens en negen uur 's avonds en met toestemming van de politierechter;<br />2. elk onderzoek, elke controle en enquête instellen, alsook alle inlichtingen inwinnen die zij nodig achten om zich ervan te vergewissen dat de decreets- en reglementsbepalingen worden nageleefd, en met name:<br />a) alle personen ondervragen over feiten welke het nuttig is te kennen voor de uitoefening van het toezicht;<br />b) zich zonder verplaatsing alle boeken en bescheiden doen voorleggen die bij dit decreet en de uitvoeringsbesluiten ervan zijn voorgeschreven, afschriften of uittreksels ervan opmaken en ze tegen ontvangstbewijs in beslag nemen;<br />c) inzage nemen van alle boeken en bescheiden die vereist zijn voor het volbrengen van hun opdracht;<br />d) zonder kosten monsters nemen voor het bepalen van de samenstelling van de afvalstoffen in voorkomend geval van de houders van die zaken de nodige verpakking eisen voor het vervoeren en het bewaren van die monsters; de Vlaamse regering bepaalt de wijze waarop en de voorwaarden waaronder monsters worden genomen;<br />3. in de uitoefening van hun ambt de bijstand van de gemeentepolitie en van de rijkswacht vorderen;<br />4. de voor vervoer over de weg gebruikte voertuigen ophouden en hun lading controleren en, zo nodig, hiervan monsters nemen, teneinde na te gaan of met deze voertuigen afvalstoffen worden vervoerd, en, in voorkomend geval, of de vervoerder beschikt over de krachtens artikel 14 vereiste erkenning of registratie, of die afvalstoffen vergezeld gaan van de krachtens dit decreet of krachtens de in artikel 33, § 2 vermelde Verordening (EG) nr. 1013/2006 vereiste documenten en of hun overbrenging gebeurt conform de bepalingen van dit decreet en zijn uitvoeringsbesluiten en van voormelde verordening. <br /><br />§ 2. De ambtenaren, bedoeld in artikel 54 zijn bevoegd in geval van overtredingen processen-verbaal op te stellen die bewijskracht hebben tot het tegendeel bewezen is. <br /><br />Op straffe van nietigheid moet een afschrift van het proces-verbaal ter kennis van de overtreder gebracht worden binnen de veertien dagen na de vaststelling van de overtreding.
+...
 
 ## [HOOFDSTUK XI STRAFBEPALINGEN (verv. decr. 20 april 1994, art. 9)]
 
 ### ART. 56.
 
-Met gevangenisstraf van één maand tot 5 jaar en met geldboete van honderd frank tot 10 miljoen frank of met één van die straffen alleen, wordt gestraft: <br />1. hij die de voorschriften, vastgesteld door of krachtens dit decreet of de voorschriften van de verleende vergunning overtreedt;<br />2. hij die het krachtens dit decreet geregelde toezicht verhindert;<br />3° hij die afvalstoffen overbrengt in strijd met de bepalingen van verordening (EG) nr. 1013/2006 van het Europees Parlement en de Raad van 14 juni 2006 betreffende de overbrenging van afvalstoffen;<br />4° hij die afvalstoffen uitvoert in strijd met de bepalingen van de verordening vastgesteld krachtens artikel 37 van voormelde verordening (EG) nr. 1013/2006;<br />5. ...<br />6. ...<br />7. ...<br />8. hij die zich schuldig maakt aan de uitvoer uit de Europese Gemeenschap van afvalstoffen zoals bedoeld in artikel 11 van de verordening 2037/2000/EG van het Europees Parlement en de Raad van 29 juni 2000 betreffende de ozonlaag afbrekende stoffen;<br />9. hij die teruggewonnen gebruikte gereguleerde stoffen niet verwerkt zoals bepaald in artikel 16, lid 1, 2 en 3 van voormelde verordening; <br />10° hij die dierlijke bijproducten van categorie 1, 2 en 3, voor zover ze kunnen beschouwd worden als afvalstoffen, beheert in strijd met de Verordening (EG) nr. 1774/2002 van het Europees Parlement en de Raad van 3 oktober 2002 tot vaststelling van gezondheidsvoorschriften inzake niet voor menselijke consumptie bestemde dierlijke bijproducten;<br />11° hij die persistente organische verontreinigde stoffen, voor zover ze kunnen beschouwd worden als afvalstoffen, beheert in strijd met de Verordening (EG) nr. 850/2004 van het Europees Parlement en de Raad van 29 april 2004 betreffende de persistente organische verontreinigde stoffen en tot wijziging van richtlijn 97/117/EEG. <br /><br />In afwijking van de straffen vermeld in het eerste lid, kunnen gemeenten voor kleine vormen van openbare overlast gemeentelijke sancties bepalen overeenkomstig artikel 119bis van de Nieuwe Gemeentewet.<br /><br />Wanneer de gemeente geen gemeentelijke sancties overeenkomstig artikel 119bis van de Nieuwe Gemeentewet heeft bepaald, worden in die gemeente deze kleine vormen van openbare overlast gestraft met een geldboete van maximum 45,45 euro.
+Met betrekking tot dit decreet en zijn uitvoeringsbesluiten gebeuren het onderzoek, de vaststelling en de sanctionering van de milieu-inbreuken en milieumisdrijven volgens de regels bepaald in titel XVI van het decreet van 5 april 1995 houdende algemene bepalingen inzake milieubeleid.<br /><br />Deze bepaling is evenwel niet van toepassing op de overtreding van de verplichting om aan de heffing te voldoen, vermeld in artikel 51.
 
 ### ART. 57.
 
@@ -622,29 +618,19 @@ Met gevangenisstraf van één maand tot 5 jaar en met geldboete van honderd fran
 
 ### ART. 58.
 
-De afval, de verpakking, [... (vernietigd arrest A.H. nr. 11/89, 11 mei 1989) ] die gediend hebben om de overtredingen te plegen, kunnen verbeurd verklaard worden, zelfs wanneer ze niet aan de overtreder toebehoren.<br>
-<br>
-(Art. 58 werd vernietigd door het Arbitragehof op 11 mei 1989 bij arrest nr 11/89 waar het de verbeurdverklaring regelt van de werktuigen en de vervoermiddelen. Door de verbeurdverklaring te regelen van de afval en de verpakking gaat het de bevoegdheid van de decreetgever niet te buiten waar die verbeurdverklaring een beveilingingsmaatregel uitmaakt)
+...
 
 ### ART. 59.
 
-§ 1. Degene die afvalstoffen achterlaat in strijd met de bepalingen van dit decreet, wordt door de rechtbank veroordeeld tot het verwijderen ervan binnen een door haar vastgestelde termijn.<br>
-<br>
-§ 2. [Onverminderd het bepaalde in § 1 kan de veroordeelde worden verplicht tot terugbetaling van de kosten voor het verwijderen door de gemeente, door de afvalstoffenmaatschappij of door het Vlaamse Gewest.<br>
-<br>
-Bij een veroordeling tot terugbetaling van de kosten voor het verwijderen van afvalstoffen in de bossen en aanverwante grondoppervlakten, de onbevaarbare waterlopen en natuurreservaten, wordt dit bedrag gestort op de rekening van het Fonds voor preventie en sanering inzake leefmilieu en natuur.<br>
-<br>
-Bij een veroordeling tot terugbetaling van de kosten voor het verwijderen van afvalstoffen op de openbare wegen, de waterwegen en de havens en hun specifieke aanhorigheden, wordt dit bedrag gestort op de rekening van het Verkeers-infrastructuurfonds. (verv. decr. 21 december 1994, art. 9, I: 1 januari 1995) ]
+...
 
 ### ART. 60.
 
-De werkgever is burgerrechtelijk aansprakelijk voor de betaling van de geldboeten, waartoe zijn aangestelden of lasthebbers zijn veroordeeld, evenals voor de betaling van de gerechtskosten.<br>
-<br>
-(Art. 60 werd vernietigd door het Arbitragehof op 11 mei 1989 bij arrest nr. 11/89 in de mate dat een andere persoon dan die welke veroordeeld werd, wordt aangeduid als "burgerrechtelijk aansprakelijk voor de betaling van de geldboeten")
+...
 
 ### ART. 61.
 
-De inrichtingen die vergunningsplichtig zijn met toepassing van de bepalingen vastgesteld door of krachtens dit decreet, zijn ertoe gehouden de natuurlijke persoon aan te wijzen die verantwoordelijk is voor het naleven van de bepalingen, vastgesteld door of krachtens dit decreet, en van de voorschriften van de verleende vergunning.
+...
 
 ### ART. 62.
 
