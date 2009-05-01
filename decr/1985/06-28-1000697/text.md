@@ -162,31 +162,31 @@ Bij gemotiveerd besluit kan de bevoegde overheid de termijn waarbinnen zij uitsp
 
 ### ART. 29.
 
-§ 1. Onverminderd de bevoegdheden van de officieren van gerechtelijke politie, houden de bur-gemeester en de ambtenaren die de Vlaamse Regering aanwijst, toezicht op de toepassing van dit decreet en zijn uitvoeringsbesluiten en op de naleving van de milieuvergunning en de bijzondere milieuvoorwaarden voor de inrichtingen van de derde klasse volgens de regels bepaald in dit hoofdstuk.<br /><br />§ 2. De burgemeester zal er zich van gewissen of de in bedrijf gestelde inrichtingen vergund zijn. Hij zal waken over de naleving van de voor de inrichtingen van tweede en derde klasse geldende exploitatievoorwaarden.<br /><br />De Vlaamse Regering kan hem gelasten toezicht uit te oefenen over de naleving van sommige vergunningsvoorwaarden van de door haar aangewezen inrichtingen van eerste klasse.<br /><br />§ 3. Het toezicht over alle inrichtingen zal door de overeenkomstig § 1 van dit artikel aangewezen ambtenaren uitgeoefend worden. Bovendien oefenen alleen zij het toezicht uit over de naleving van de voorwaarden die zijn opgelegd met het oog op de bescherming van de oppervlaktewateren tegen verontreiniging.
+Voor dit decreet en zijn uitvoeringsbesluiten worden het toezicht en de bestuurlijke handhaving uitgeoefend en worden veiligheidsmaatregelen genomen volgens de regels bepaald in hoofdstukken III, IV en VII van titel XVI van het decreet van 5 april 1995 houdende algemene bepalingen inzake milieubeleid.
 
 ### ART. 30.
 
-§ 1. Binnen de hen overeenkomstig artikel 29 toegewezen bevoegdheden, kunnen de burgemeester en de in artikel 29 bedoelde ambtenaren, mondelinge of schriftelijke raadgevingen, aanmaningen en bevelen geven.<br /><br />§ 2. Zij stellen de overtredingen vast door middel van processen-verbaal die bewijskracht hebben tot het tegendeel bewezen is. Een afschrift van het proces-verbaal wordt bij aangetekend schrijven ter kennis gebracht van de overtreder binnen de vijf werkdagen na de vaststelling van de overtreding.<br /><br />[Aan de burgemeester wordt door de in artikel 29, § 1, bedoelde ambtenaren in de gevallen, bedoeld in artikel 29, §§ 1 en 3, en aan deze ambtenaren wordt door de burgemeester in de gevallen, bedoeld in artikel 29, §§ 1 en 2, gemeld dat er overtredingen werden vastgesteld en dat er een proces-verbaal werd opgesteld. Dit gebeurt binnen vijf werkdagen na de vaststelling van de overtreding. De naam van het gecontroleerd bedrijf, de datum van de vaststelling én de voortgangsbewaking na de overtreding worden gemeld.  <span class="reference">(ing. decr. 8 juli 1996, art. 2, I: 12 augustus 1996)</span> ]<br /><br />§ 3. Zij mogen bij de uitoefening van hun ambt op elk ogenblik van de dag of van de nacht, zonder voorafgaande verwittiging, vrij binnen gaan in alle inrichtingen.<br /><br />Tot de ruimten die als woning dienen hebben zij slechts toegang tussen vijf uur 's morgens en eenentwintig uur 's avonds en mits machtiging van de onderzoeksrechter.<br /><br />§ 4. Bij de uitoefening van hun ambt kunnen zij de bijstand van de gemeentepolitie en van de rijkswacht vorderen. Zij kunnen tevens de nodige onderzoeksmaatregelen treffen volgens de modaliteiten bepaald door de Vlaamse Regering.
+...
 
 ### ART. 31.
 
-§ 1. De burgemeester kan ambtshalve of op voorstel van de krachtens artikel 29, § 1, aangewezen ambtenaren, mondeling en ter plaatse de stopzetting bevelen van de activiteiten, de toestellen verzegelen en de onmiddellijke sluiting van de inrichting opleggen, wanneer hij vaststelt dat een vergunningsplichtige inrichting zonder vergunning wordt geëxploiteerd.<br /><br />Deze maatregelen worden van rechtswege opgeheven door het verlenen van de vergunning.<br /><br />§ 2. Wanneer de burgemeester vaststelt dat een inrichting van de tweede klasse wordt geëxploiteerd in strijd met de vergunningsvoorwaarden, en wanneer de exploitant weigert gevolg te geven aan de schriftelijk gegeven onderrichtingen, kan de burgemeester op advies van de krachtens artikel 29, § 1, aangewezen ambtenaren de stopzetting bevelen van een activiteit binnen de termijn die hij bepaalt en de toestellen verzegelen, en zo nodig, de voorlopige sluiting van een deel van de inrichting opleggen. Hetzelfde geldt wanneer een inrichting van de derde klasse wordt geëxploiteerd in strijd met de algemene, sectorale of bijzondere exploitatievoorwaarden.<br /><br />§ 3. De burgemeester mag, op advies van de krachtens artikel 29, § 1, aangewezen ambtenaren, de in § 2 bedoelde maatregelen nemen in inrichtingen van de eerste klasse ingeval van dreigend of ernstig gevaar voor de mens en het leefmilieu, en wanneer de exploitant weigert gevolg te geven aan de schriftelijk gegeven onderrichtingen.<br /><br />§ 4. Wanneer de burgemeester niet of onvolkomen optreedt, kunnen de maatregelen, vermeld in de § 1, 2 en 3, getroffen worden door de krachtens artikel 29, § 1, aangewezen ambtenaren.<br /><br />§ 5. Het proces-verbaal van de vaststelling der inbreuken en de beslissing tot stopzetting, verzegeling of sluiting zoals bedoeld in de vorige paragrafen van dit artikel, worden binnen vijf werkdagen bij ter post aangetekende brief ter kennis gebracht van de exploitant. Een afschrift van het proces-verbaal en van de beslissing wordt onverwijld gezonden aan de krachtens artikel 29, § 1, aangewezen ambtenaren in de gevallen bedoeld in § 1, § 2 en § 3 van dit artikel en aan de bur-gemeester en aan de Vlaamse Regering in het geval bedoeld in § 4 van dit artikel.
+...
 
 ### ART. 32.
 
-§ 1. De krachtens artikel 29, § 1, aangewezen ambtenaren kunnen mondeling en ter plaatse de stopzetting bevelen van een activiteit binnen de termijn die zij bepalen en de toestellen verzegelen en zo nodig, de voorlopige sluiting van een deel van de inrichting opleggen, wanneer zij vaststellen dat een inrichting wordt geëxploiteerd in strijd met de exploitatievoorwaarden en wanneer de exploitant weigert gevolg te geven aan de gegeven onderrichtingen. Hetzelfde geldt ingeval van dreigend of ernstig gevaar voor de mens en het leefmilieu.<br /><br />§ 2. Het proces-verbaal van vaststelling van de inbreuken en de in de vorige paragraaf van dit artikel bedoelde beslissing, worden binnen vijf werkdagen, bij ter post aangetekende brief, ter kennis gebracht van de exploitant.<br /><br />Een afschrift van het proces-verbaal en van de beslissing wordt onverwijld gezonden aan de burgemeester en aan de Vlaamse Regering.
+...
 
 ### ART. 33.
 
-§ 1. De krachtens artikel 31 en 32 getroffen maatregelen moeten gemotiveerd worden.<br /><br />§ 2. Indien binnen de gestelde termijn geen gevolg wordt gegeven aan de maatregelen en bevelen bedoeld in artikel 31 en 32, dan kunnen de overeenkomstig artikel 29, § 1, aangewezen ambtenaren de nodige maatregelen ambtshalve uitvoeren of doen uitvoeren. De uitvoering van deze maatregel geschiedt op kosten en risico van de exploitant van de inrichting op wie ze worden toegepast.
+...
 
 ### ART. 34.
 
-De exploitant kan beroep indienen bij de Vlaamse Regering tegen de maatregelen genomen op grond van artikel 31, § 2, § 3 en § 4, en van artikel 32. Het beroep schorst de beslissingen niet. Binnen een termijn van twee maanden wordt over het beroep uitspraak gedaan.<br /><br />De Vlaamse Regering regelt de modaliteiten en de termijnen van het beroep.
+...
 
 ### ART. 35.
 
-§ 1. Wanneer de vergunningsvoorwaarden ontoereikend blijken te zijn, en in afwachting dat zij worden gewijzigd, kunnen de overeenkomstig artikel 29, § 1, aangewezen ambtenaren binnen de termijn die zij bepalen, in alle inrichtingen, alle maatregelen voorschrijven die zij nodig achten om een einde te stellen aan de tekortkomingen die zij vaststellen en als gevaar beschouwen voor de mens en het leefmilieu. Zij kunnen daartoe, zonder uitstel, het gebruik van een machine, een produkt of enig materieel, en de toegang tot een bepaalde ruimte tijdelijk verbieden en het tijdelijk stopzetten bevelen van elke activiteit, wanneer de exploitant weigert gevolg te geven aan de gegeven onderrichtingen.<br /><br />§ 2. De beslissing moet met redenen worden omkleed. Zij wordt, binnen vijf werkdagen bij een ter post aangetekend schrijven, bevestigd aan de exploitant. Een afschrift hiervan wordt onverwijld aan de vergunningverlenende overheid toegezonden.
+...
 
 ## HOOFDSTUK VIII SCHORSING EN OPHEFFING VAN DE VERGUNNING
 
@@ -206,11 +206,11 @@ Wanneer tegen de schorsing of de opheffing van de vergunning geen beroep werd in
 
 ### ART. 39.
 
-§ 1. Onverminderd de toepassing van de in het Strafwetboek gestelde straffen, wordt gestraft met een gevangenisstraf van acht dagen tot één jaar en met een geldboete van 100 frank tot 100 000 frank of met één van die straffen alleen:<br /><br />1° hij die zonder vergunning een vergunningsplichtige inrichting exploiteert of verandert;<br /><br />2° hij die de bepalingen van dit decreet en zijn uitvoeringsbesluiten of de vergunningsvoorwaarden niet naleeft;<br /><br />3° hij die het bij of krachtens dit decreet geregeld toezicht op de inrichtingen verhindert;<br /><br />4° hij die geen gevolg geeft aan de opgelegde dwangmaatregelen.<br /><br />§ 2. Na de partijen gehoord te hebben kan de rechter bij wijze van veiligheidsmaatregel het verbod uitspreken om de inrichtingen, die aan de oorsprong van de inbreuk liggen te exploiteren gedurende de termijnen die bij bepaalt.<br /><br />§ 3. Alle bepalingen van Boek I van het Strafwetboek, hoofdstuk VII en artikel 85 niet uitgezonderd, zijn toepasselijk op de bij dit decreet bepaalde misdrijven.
+Met betrekking tot dit decreet en zijn uitvoeringsbesluiten gebeuren het onderzoek, de vaststelling en de sanctionering van de milieu-inbreuken en milieumisdrijven volgens de regels bepaald in titel XVI van het decreet van 5 april 1995 houdende algemene bepalingen inzake milieubeleid.
 
 ### ART. 40.
 
-De werkgever is burgerrechtelijk aansprakelijk voor de betaling van de geldboete waartoe zijn aangestelden of lasthebbers worden veroordeeld evenals voor de betaling van de gerechtskosten.
+...
 
 ## HOOFDSTUK X WIJZIGINGS- EN OPHEFFINGSBEPALINGEN
 
