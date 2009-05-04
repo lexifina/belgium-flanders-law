@@ -1,0 +1,17 @@
+{
+  "codex_id": 1017825,
+  "title": "Besluit van de Vlaamse Regering van 2009-04-03 ter oprichting van de expertencommissie risicovechtsporten",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1017825/VolledigDocument?datum=2009-05-04",
+  "source_sha256": "83b94495f07c1273c301d016cc081fb61b6719f59314008ce4a6f00f86e1dd05",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1017825&param=informatie",
+  "as_of": "2009-05-04",
+  "made": "2009-04-03",
+  "gazette": "2009-04-24",
+  "numac": 2009201748,
+  "document_start": "2009-05-04",
+  "document_end": "2014-12-31",
+  "in_force": "2009-05-04",
+  "article_versions": 9,
+  "record_form": "consolidated version as in force on 2009-05-04; oldest version available; future article versions excluded; article text as the API gives it"
+}
