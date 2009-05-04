@@ -1,0 +1,17 @@
+{
+  "codex_id": 1017824,
+  "title": "Decreet van 2009-04-03 houdende wijziging van het decreet van 14 juli 1993 tot oprichting van het Grindfonds en tot regeling van de grindwinning",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1017824/VolledigDocument?datum=2009-05-04",
+  "source_sha256": "3bb772b25f0db9040f5c39a85057694a379e4698ea286bdcfc5d36a23d1d53bd",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1017824&param=informatie",
+  "as_of": "2009-05-04",
+  "made": "2009-04-03",
+  "gazette": "2009-04-24",
+  "numac": 2009201747,
+  "document_start": "2009-05-04",
+  "document_end": null,
+  "in_force": "2009-05-04",
+  "article_versions": 5,
+  "record_form": "consolidated version as in force on 2009-05-04; oldest version available; future article versions excluded; article text as the API gives it"
+}
