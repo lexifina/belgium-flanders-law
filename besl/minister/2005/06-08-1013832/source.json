@@ -2,16 +2,16 @@
   "codex_id": 1013832,
   "title": "Ministerieel besluit van 2005-06-08 tot uitvoering van bepaalde bepalingen van het besluit van de Vlaamse Regering van 27 mei 2005 betreffende bepaalde procedurele aspecten van de waarborgregeling voor kleine en middelgrote ondernemingen die hinder ondervinden als gevolg van openbare werken",
   "type": "Ministerieel besluit",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1013832/VolledigDocument?datum=2006-10-20",
-  "source_sha256": "777760d29a94ad90b1a250d391f55fc41968ad0aa4b67f54e2458cfe4f40a5b4",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1013832/VolledigDocument?datum=2009-05-06",
+  "source_sha256": "e9ced77137c95021769b644d4dafb5f0ef09e4fba74bda1f0c48135525c10bf2",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1013832&param=informatie",
-  "as_of": "2006-10-20",
+  "as_of": "2009-05-06",
   "made": "2005-06-08",
   "gazette": "2005-06-23",
   "numac": 2005035738,
   "document_start": "2005-06-10",
   "document_end": "2023-01-27",
-  "in_force": "2006-10-20",
+  "in_force": "2009-05-06",
   "article_versions": 18,
-  "record_form": "consolidated version as in force on 2006-10-20; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2009-05-06; future article versions excluded; article text as the API gives it"
 }
