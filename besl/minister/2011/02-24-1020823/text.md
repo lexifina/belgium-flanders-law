@@ -8,6 +8,10 @@ De Vlaamse minister van Energie, Wonen, Steden en Sociale Economie,<br /><br />G
 
 Artikel 2 van het ministerieel besluit van 3 februari 2009 tot bepaling van de voorwaarden waaronder de kosten voor het invullen van de functie van een conciërge in aanmerking genomen worden voor de berekening van de gewestelijke sociale correctie (GSC) wordt vervangen door wat volgt : <br /><br />« Art. 2. Het bedrag, vermeld in artikel 1, derde lid, wordt jaarlijks op 1 januari aangepast aan de evolutie van de gezondheidsindex, naar het gezondheidsindexcijfer van de maand december van het voorgaande jaar en met als basis het gezondheidsindexcijfer van 110,90 van 2009. Het resultaat wordt afgerond naar het eerstvolgende veelvoud van 100 euro. ».
 
+### ART. 2.
+
+In artikel 2, eerste lid, van het ministerieel besluit van 7 mei 2009 tot bepaling van de inkomsten en uitgaven die bijkomend in aanmerking worden genomen voor de berekening van de Gewestelijke Sociale Correctie (GSC) wordt punt 2° vervangen door wat volgt : <br /><br />« 2° de met toepassing van het besluit van de Vlaamse Regering van 19 mei 1987 tot instelling van een huurcompensatie of van het besluit van de Vlaamse Regering van 4 april 1990 tot aanmoediging van de bouw van sociale huurwoningen betaalde huurprijs; ».<br />
+
 ### ART. 3.
 
 Artikel 1 heeft uitwerking met ingang van 3 februari 2009.<br /><br />Artikel 2 heeft uitwerking met ingang van 7 mei 2009.
