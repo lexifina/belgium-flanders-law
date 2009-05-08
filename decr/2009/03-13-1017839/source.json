@@ -1,0 +1,17 @@
+{
+  "codex_id": 1017839,
+  "title": "Decreet van 2009-03-13 houdende wijziging van het Cultureel-erfgoeddecreeet van 23 mei 2008, wat betreft de indeling van musea en culturele archiefinstellingen en de interbestuurlijke samenwerking",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1017839/VolledigDocument?datum=2009-05-08",
+  "source_sha256": "e4378faa2dd55de2e14979f24960d8469189e29dc71b54af7b285a1e00391127",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1017839&param=informatie",
+  "as_of": "2009-05-08",
+  "made": "2009-03-13",
+  "gazette": "2009-04-28",
+  "numac": 2009201808,
+  "document_start": "2009-05-08",
+  "document_end": null,
+  "in_force": "2009-05-08",
+  "article_versions": 7,
+  "record_form": "consolidated version as in force on 2009-05-08; oldest version available; future article versions excluded; article text as the API gives it"
+}
