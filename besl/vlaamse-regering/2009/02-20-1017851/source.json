@@ -1,0 +1,17 @@
+{
+  "codex_id": 1017851,
+  "title": "Besluit van de Vlaamse Regering van 2009-02-20 tot erkenning van de master-na-masteropleiding Master of Space Studies als nieuwe opleiding van de Katholieke Universiteit Leuven en de Universiteit Gent",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1017851/VolledigDocument?datum=2009-05-10",
+  "source_sha256": "e4e435df69fd970fc40d4d6f6f650d3ea4c691d6f67c2167039e126fb0b8a62a",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1017851&param=informatie",
+  "as_of": "2009-05-10",
+  "made": "2009-02-20",
+  "gazette": "2009-04-30",
+  "numac": 2009201855,
+  "document_start": "2009-05-10",
+  "document_end": null,
+  "in_force": "2009-05-10",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2009-05-10; oldest version available; future article versions excluded; article text as the API gives it"
+}
