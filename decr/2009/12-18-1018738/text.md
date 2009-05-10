@@ -94,6 +94,10 @@ In artikel 60bis van het Wetboek der successierechten, zoals van toepassing in h
 
 ## HOOFDSTUK V Vlaamse Regulator voor de Media
 
+### ART. 20.
+
+In artikel 232 van het decreet betreffende radio-omroep en televisie van 27 maart 2009 wordt de zin « De inkomsten van de administratieve geldboeten, vermeld in artikelen 228 en 229, komen in de algemene middelenbegroting van de Vlaamse overheid. » vervangen door de zinnen « De inkomsten van de administratieve geldboeten, vermeld in artikelen 228 en 229, worden geïnd door de Vlaamse Regulator voor de Media.<br /><br />De Vlaamse Regulator voor de Media zal de ontvangen geldboeten doorstorten aan de algemene middelenbegroting van de Vlaamse Overheid of, indien de beslissing waarbij de geldboete werd opgelegd door de Raad van State wordt vernietigd, terugstorten aan de omroeporganisatie, de dienstenverlener of het netwerk. ».<br /><br />
+
 ## HOOFDSTUK VI Overdracht wegenis Kasteel van Ham
 
 ## HOOFDSTUK VII Vlaams Gemeentefonds
