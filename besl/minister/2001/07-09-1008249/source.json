@@ -2,16 +2,16 @@
   "codex_id": 1008249,
   "title": "Ministerieel besluit van 2001-07-09 houdende de voorwaarden tot toekenning van een extra financiële ondersteuning voor de inclusieve opvang van kinderen met een specifieke zorgbehoefte, aan de opvangvoorzieningen die erkend zijn door of onder toezicht staan van Kind en Gezin",
   "type": "Ministerieel besluit",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1008249/VolledigDocument?datum=2006-06-01",
-  "source_sha256": "aab36a8026f467e613d343fa5a86936faea86edc0a5bd86cedf397b84d649af3",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1008249/VolledigDocument?datum=2009-05-13",
+  "source_sha256": "8633c6b514b73660a21522dcdc0ec0399ce00659975c12b646d59eb5bedd4cc9",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1008249&param=informatie",
-  "as_of": "2006-06-01",
+  "as_of": "2009-05-13",
   "made": "2001-07-09",
   "gazette": "2001-08-28",
   "numac": 2001035976,
   "document_start": "2001-01-01",
   "document_end": "2009-05-12",
-  "in_force": "2006-06-01",
+  "in_force": "2009-05-13",
   "article_versions": 28,
-  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2009-05-13; future article versions excluded; article text as the API gives it"
 }
