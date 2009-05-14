@@ -1,0 +1,17 @@
+{
+  "codex_id": 1017864,
+  "title": "Ministerieel besluit van 2009-03-20 betreffende de vaststelling van het zoneringsplan van de gemeente Westerlo",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1017864/VolledigDocument?datum=2009-05-14",
+  "source_sha256": "b8ce3f70c3dac5f0648696a640bb215bb1672887fe402078bd6d8866a14dd0c6",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1017864&param=informatie",
+  "as_of": "2009-05-14",
+  "made": "2009-03-20",
+  "gazette": "2009-05-04",
+  "numac": 2009035301,
+  "document_start": "2009-05-14",
+  "document_end": null,
+  "in_force": "2009-05-14",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2009-05-14; oldest version available; future article versions excluded; article text as the API gives it"
+}
