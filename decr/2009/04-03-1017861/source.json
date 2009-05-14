@@ -1,0 +1,17 @@
+{
+  "codex_id": 1017861,
+  "title": "Decreet van 2009-04-03 houdende instemming met het Zetelakkoord tussen het Koninkrijk België en het Internationaal Centrum voor de Ontwikkeling van het Migratiebeleid, ondertekend in Brussel op 21 mei 2008",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1017861/VolledigDocument?datum=2009-05-14",
+  "source_sha256": "7554768a13292cd1bf137c07898b0622bb81e6aac7c426db8bfefd24c9532f52",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1017861&param=informatie",
+  "as_of": "2009-05-14",
+  "made": "2009-04-03",
+  "gazette": "2009-05-04",
+  "numac": 2009035351,
+  "document_start": "2009-05-14",
+  "document_end": null,
+  "in_force": "2009-05-14",
+  "article_versions": 2,
+  "record_form": "consolidated version as in force on 2009-05-14; oldest version available; future article versions excluded; article text as the API gives it"
+}
