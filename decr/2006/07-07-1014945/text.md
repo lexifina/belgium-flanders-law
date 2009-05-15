@@ -40,6 +40,18 @@ Tot de taak van de DBFM-vennootschap behoort de terbeschikkingstelling van schoo
 
 ## [Afdeling 3bis Herfinancieringsgarantie (ing. decr. 8 mei 2009, art. IX.21, I: 15 mei 2009)]
 
+### ART. 7bis.
+
+De bepalingen van het decreet van 7 mei 2004 houdende bepalingen inzake kas- schuld-, en waarborgbeheer van de Vlaamse Gemeenschap en het Vlaamse Gewest zijn niet van toepassing op de verbintenissen opgenomen in dit decreet.
+
+### ART. 7ter.
+
+Indien de financieringsovereenkomst(en) met betrekking tot het vreemd vermogen van de DBFM-vennootschap voorziet(n) in een verplicht herfinancieringsmoment tussen het verstrijken van het vijfde en het tiende jaar vanaf de afsluiting van de financieringsovereenkomsten, zal de Vlaamse Gemeenschap of een rechtspersoon waarop de Vlaamse Gemeenschap en/of het Vlaamse Gewest rechtstreeks of onrechtstreeks een determinerende invloed heeft, zoals een door haar opgerichte of gecontroleerde financieringsmaatschappij, op verzoek van de DBFM-vennootschap, het integrale openstaande saldo van het vreemd vermogen overeenkomstig de geldende financieringsvoorwaarden, met uitzondering van de eventueel toepasselijke herfinancieringsvergoeding en enige schulden die het gevolg zijn van tekortkomingen van de DBFM-vennootschap, zoals nalatigheidsintresten, terugbetalen en het vreemd vermogen van de DBFM-vennootschap overnemen, onder de hiernavolgende cumulatieve voorwaarden en modaliteiten :<br />1° de DBFM-vennootschap kan, om redenen die haar niet toerekenbaar zijn en ondanks alle mogelijke redelijke inspanningen, geen herfinanciering van het vreemd vermogen verkrijgen aan financieringsvoorwaarden die gunstiger zijn dan de geldende financieringsvoorwaarden of hiermee overeenstemmen;<br />2° het vreemd vermogen wordt door de Vlaamse Gemeenschap of een rechtspersoon waarop de Vlaamse Gemeenschap en/of het Vlaamse Gewest rechtstreeks of onrechtstreeks een determinerende invloed heeft zoals een door haar opgerichte of gecontroleerde financieringsmaatschappij terugbetaald aan de kredietverstrekker(s) in naam en voor rekening van de DBFM-vennootschap en aan de DBFM-vennootschap ter beschikking gesteld voor de resterende looptijd van het DBFM-programma tegen de geldende financierings-voorwaarden; <br />3° in de aandeelhoudersovereenkomst met betrekking tot de DBFM-vennootschap, en met uitdrukkelijke toestemming in de financieringsovereenkomsten, wordt aan de publieke aandeelhouder - na hieromtrent de goedkeuring van de Vlaamse Regering te hebben bekomen - het recht toegekend om te allen tijde het initiatief te nemen om aan de raad van bestuur van de DBFM-vennootschap een gemotiveerd voorstel te doen tot herfinanciering tegen gunstiger financieringsvoorwaarden, waarbij alle aandeelhouders van de DBFM-vennootschap zich in de aandeelhoudersovereenkomst voor de op hun voordracht benoemde bestuurders sterk maken dat een dergelijk voorstel vervolgens door de raad van bestuur van de DBFM-vennootschap wordt goedgekeurd;<br />4° in de kaderovereenkomst wordt voorzien dat het eventuele financiële voordeel van de DBFM-vennootschap bij een vrijwillige of verplichte herfinanciering voor 75 % toekomt aan de Vlaamse Gemeenschap en voor 100 % in geval van een eerste herfinanciering na de toepassing van de in dit decreet bedoelde herfinancieringsgarantie van de Vlaamse Gemeenschap.
+
+### ART. 7quater.
+
+De Vlaamse Regering kan de nadere regels bepalen met betrekking tot de voorwaarden of modaliteiten voor het stellen van deze herfinancieringsgarantie.
+
 ## Afdeling 4 Informatieverplichting
 
 ### ART. 8.
@@ -105,6 +117,10 @@ De DBFM-toelage wordt berekend als een percentage van de beschikbaarheidsvergoed
 ### ART. 19.
 
 De DBFM-toelage bedraagt 70 % voor de instellingen van het gewoon en buitengewoon basisonderwijs in het gesubsidieerd onderwijs en 60 % voor de instellingen van andere onderwijsniveaus, internaten en centra, vermeld in artikel 4, in het gesubsidieerd onderwijs.<br />
+
+### ART. 19bis.
+
+Voor instellingen, internaten en centra vermeld in artikel 4, in het gesubsidieerd onderwijs, wordt de DBFM-toelage zoals berekend overeenkomstig artikel 19 verhoogd, derwijze dat 90 % van de daadwerkelijk verschuldigde onderhoudscomponent in de beschikbaarheidsvergoeding wordt betoelaagd. Voor de toepassing van dit artikel wordt de daadwerkelijk verschuldigde onderhoudscomponent in de beschikbaarheidsvergoeding begrensd tot 1,54 % van de bouwkost zoals nader gedefinieerd in de overeenkomst bedoeld in artikel 7.
 
 ### ART. 20.
 
@@ -196,4 +212,4 @@ De Vlaamse Regering is gemachtigd om een gemeenschapswaarborg te hechten aan de 
 
 ### ART. 38.
 
-De Vlaamse Regering is gemachtigd om een gemeenschapswaarborg te stellen voor de betaling van het niet door de DBFM-toelage gedekte gedeelte van de beschikbaarheidsvergoeding voor het gesubsidieerd onderwijs.<br /><br />De Vlaamse Regering kan de nadere regels bepalen met betrekking tot de voorwaarden of modaliteiten voor het stellen van deze waarborg.<br /><br />
+De Vlaamse Regering is gemachtigd om een gemeenschapswaarborg te stellen voor de overige financiële verplichtingen van de inrichtende machten voortvloeiende uit een individueel DBFM-contract in het kader van het DBFM-programma en die niet gedekt worden door een DBFM-toelage, REG-toelage of Pilootproject-toelage.
