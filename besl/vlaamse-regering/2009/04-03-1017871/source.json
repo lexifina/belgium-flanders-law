@@ -1,0 +1,17 @@
+{
+  "codex_id": 1017871,
+  "title": "Besluit van de Vlaamse Regering van 2009-04-03 tot wijziging van het besluit van de Vlaamse Regering van 11 oktober 2002 tot bepaling van de wapens die tot de reglementaire uitrusting behoren van sommige ambtenaren van het Agentschap voor Natuur en Bos en tot vaststelling van de bijzondere bepalingen betreffende het voorhanden hebben, het bewaren en het dragen van wapens",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1017871/VolledigDocument?datum=2009-05-15",
+  "source_sha256": "bda4e9e4ecbe285bfc92736c9fe4c46e82fb12a4d659b5a1dd201e60ffc597ad",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1017871&param=informatie",
+  "as_of": "2009-05-15",
+  "made": "2009-04-03",
+  "gazette": "2009-05-05",
+  "numac": 2009035359,
+  "document_start": "2009-05-15",
+  "document_end": null,
+  "in_force": "2009-05-15",
+  "article_versions": 7,
+  "record_form": "consolidated version as in force on 2009-05-15; oldest version available; future article versions excluded; article text as the API gives it"
+}
