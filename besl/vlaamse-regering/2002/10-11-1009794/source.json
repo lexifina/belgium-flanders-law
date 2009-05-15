@@ -2,16 +2,16 @@
   "codex_id": 1009794,
   "title": "Besluit van de Vlaamse Regering van 2002-10-11 tot bepaling van de wapens die tot de reglementaire uitrusting behoren van sommige ambtenaren van het Agentschap voor Natuur en Bos en tot vaststelling van de bijzondere bepalingen betreffende het voorhanden hebben, het bewaren en het dragen van wapens",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1009794/VolledigDocument?datum=2008-05-21",
-  "source_sha256": "eea8bddda46142df202d6e7192fb83483f625b08da790861fbf61388f4b48280",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1009794/VolledigDocument?datum=2009-05-15",
+  "source_sha256": "c6ef3d6ff51e2a538cfe7cab98a59eaefbb6b8a9af446e007e7a38b5875943b0",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1009794&param=informatie",
-  "as_of": "2008-05-21",
+  "as_of": "2009-05-15",
   "made": "2002-10-11",
   "gazette": "2002-10-31",
   "numac": 2002036350,
   "document_start": null,
   "document_end": null,
-  "in_force": "2008-05-21",
+  "in_force": "2009-05-15",
   "article_versions": 8,
-  "record_form": "consolidated version as in force on 2008-05-21; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2009-05-15; future article versions excluded; article text as the API gives it"
 }
