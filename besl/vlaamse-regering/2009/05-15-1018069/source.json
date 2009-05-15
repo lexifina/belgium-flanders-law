@@ -1,0 +1,17 @@
+{
+  "codex_id": 1018069,
+  "title": "Besluit van de Vlaamse Regering van 2009-05-15 houdende verdere verdeling van het provisioneel krediet tot dekking van de uitgaven in het kader van de uitdagingen op de arbeidsmarkt",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1018069/VolledigDocument?datum=2009-05-15",
+  "source_sha256": "022434e9d4f7bea984c9e6953f2fe7e4ac33d576e7caaa0418bc6ba883ada775",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1018069&param=informatie",
+  "as_of": "2009-05-15",
+  "made": "2009-05-15",
+  "gazette": "2009-07-02",
+  "numac": 2009035545,
+  "document_start": "2009-05-15",
+  "document_end": null,
+  "in_force": "2009-05-15",
+  "article_versions": 5,
+  "record_form": "consolidated version as in force on 2009-05-15; oldest version available; future article versions excluded; article text as the API gives it"
+}
