@@ -1,0 +1,17 @@
+{
+  "codex_id": 1017873,
+  "title": "Decreet van 2009-03-27 houdende vaststelling van een kader voor de gebruikerscompensatie bij bestemmingswijzigingen, overdrukken en erfdienstbaarheden tot openbaar nut",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1017873/VolledigDocument?datum=2009-05-16",
+  "source_sha256": "143a23f095bdebaec04803526f8d17759bb7f449e8af3eb735f5daaec5b1e36e",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1017873&param=informatie",
+  "as_of": "2009-05-16",
+  "made": "2009-03-27",
+  "gazette": "2009-05-06",
+  "numac": 2009035371,
+  "document_start": "2009-05-16",
+  "document_end": null,
+  "in_force": "2009-05-16",
+  "article_versions": 11,
+  "record_form": "consolidated version as in force on 2009-05-16; oldest version available; future article versions excluded; article text as the API gives it"
+}
