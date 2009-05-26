@@ -1,0 +1,17 @@
+{
+  "codex_id": 1017916,
+  "title": "Ministerieel besluit van 2009-05-02 tot wijziging van het ministerieel besluit van 2 februari 2009 tot aanwijzing van sociaalrechtelijke inspecteurs en de ambtenaren bevoegd voor het opleggen van de administratieve geldboeten",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1017916/VolledigDocument?datum=2009-05-26",
+  "source_sha256": "932968a39649ad60c699f3fda69e42db2dd41dd525da32814b52d1326ec49f83",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1017916&param=informatie",
+  "as_of": "2009-05-26",
+  "made": "2009-05-02",
+  "gazette": "2009-05-26",
+  "numac": 2009202234,
+  "document_start": "2009-05-26",
+  "document_end": null,
+  "in_force": "2009-05-26",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2009-05-26; oldest version available; future article versions excluded; article text as the API gives it"
+}
