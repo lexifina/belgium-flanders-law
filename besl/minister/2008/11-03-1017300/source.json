@@ -2,16 +2,16 @@
   "codex_id": 1017300,
   "title": "Ministerieel besluit van 2008-11-03 houdende de erkenning van het intern tuchtreglement van de KBWB en de WBV inzake dopingpraktijken",
   "type": "Ministerieel besluit",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1017300/VolledigDocument?datum=2008-11-17",
-  "source_sha256": "85ac64746674dad094779cc98c766497c335a376852ce296957d42726b671fab",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1017300/VolledigDocument?datum=2009-05-26",
+  "source_sha256": "9dee883560eb50a78219d1602853b1afcb1c19cfd0501560358670fd1536f03f",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1017300&param=informatie",
-  "as_of": "2008-11-17",
+  "as_of": "2009-05-26",
   "made": "2008-11-03",
   "gazette": "2008-11-17",
   "numac": 2008204053,
   "document_start": "2008-11-17",
   "document_end": "2009-11-16",
-  "in_force": "2008-11-17",
+  "in_force": "2009-05-26",
   "article_versions": 2,
-  "record_form": "consolidated version as in force on 2008-11-17; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2009-05-26; future article versions excluded; article text as the API gives it"
 }

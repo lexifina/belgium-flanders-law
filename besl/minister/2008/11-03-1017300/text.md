@@ -6,4 +6,4 @@ De Vlaamse minister van Cultuur, Jeugd, Sport en Brussel,<br /><br />Gelet op he
 
 ### Enig artikel.
 
-De interne tuchtregeling van de VZW KBWB en de VZW WBV wordt erkend vanaf de publicatie van dit besluit in het Belgisch Staatsblad voor een termijn van één jaar.
+...
