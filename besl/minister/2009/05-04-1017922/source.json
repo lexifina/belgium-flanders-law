@@ -1,0 +1,17 @@
+{
+  "codex_id": 1017922,
+  "title": "Ministerieel besluit van 2009-05-04 tot bepaling van de standaard voor de titel van sorteerder",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1017922/VolledigDocument?datum=2009-05-27",
+  "source_sha256": "fdda4874210a4bc509c57d316ef31fdf5699a58254647ca328238f2254fcaf55",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1017922&param=informatie",
+  "as_of": "2009-05-27",
+  "made": "2009-05-04",
+  "gazette": "2009-05-27",
+  "numac": 2009202245,
+  "document_start": "2009-05-27",
+  "document_end": "2018-12-31",
+  "in_force": "2009-05-27",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2009-05-27; oldest version available; future article versions excluded; article text as the API gives it"
+}
