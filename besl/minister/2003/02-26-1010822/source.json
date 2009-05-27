@@ -2,16 +2,16 @@
   "codex_id": 1010822,
   "title": "Ministerieel besluit van 2003-02-26 houdende vaststelling van de procedure en de modaliteiten voor de toekenning en de intrekking van het attest van toezicht voor zelfstandige opvanginitiatieven",
   "type": "Ministerieel besluit",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1010822/VolledigDocument?datum=2006-06-01",
-  "source_sha256": "8108ea5a7c73edcd73c7e9f1c9ad74f5bf570c0b879820f9a1d91c06647179d9",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1010822/VolledigDocument?datum=2009-05-27",
+  "source_sha256": "5e7eca6cb59f8dac7868a9d9c27e456987881483544558ef4def6d59d1f92b7a",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1010822&param=informatie",
-  "as_of": "2006-06-01",
+  "as_of": "2009-05-27",
   "made": "2003-02-26",
   "gazette": "2003-03-31",
   "numac": 2003200535,
   "document_start": "2003-02-15",
   "document_end": "2009-05-26",
-  "in_force": "2006-06-01",
+  "in_force": "2009-05-27",
   "article_versions": 30,
-  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2009-05-27; future article versions excluded; article text as the API gives it"
 }
