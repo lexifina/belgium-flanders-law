@@ -2,16 +2,16 @@
   "codex_id": 1012950,
   "title": "Samenwerkingsakkoord van 2004-03-30 tussen het Vlaamse Gewest, het Waalse Gewest en het Brussels Hoofdstedelijk Gewest met betrekking tot de uitoefening van de geregionaliseerde bevoegdheden op het gebied van Landbouw en Visserij",
   "type": "Samenwerkingsakkoord",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1012950/VolledigDocument?datum=2006-11-09",
-  "source_sha256": "80ee7d1d0705a6169ec90efad512be4f48e48ee29b1d460d7f4491a3aa81b5b1",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1012950/VolledigDocument?datum=2009-05-28",
+  "source_sha256": "acbcd681ba50c06934c2906d9a4e313a8adc950fb3273640dae2f7ede8cd0e1e",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1012950&param=informatie",
-  "as_of": "2006-11-09",
+  "as_of": "2009-05-28",
   "made": "2004-03-30",
   "gazette": "2004-04-20",
   "numac": 0,
   "document_start": null,
   "document_end": null,
-  "in_force": "2006-11-09",
+  "in_force": "2009-05-28",
   "article_versions": 24,
-  "record_form": "consolidated version as in force on 2006-11-09; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2009-05-28; future article versions excluded; article text as the API gives it"
 }
