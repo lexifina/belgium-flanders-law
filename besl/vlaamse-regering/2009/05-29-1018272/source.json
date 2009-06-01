@@ -1,0 +1,17 @@
+{
+  "codex_id": 1018272,
+  "title": "Besluit van de Vlaamse Regering van 2009-05-29 betreffende de waarborgen in het kader van de inhaalbeweging voor schoolinfrastructuur Vlaanderen",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1018272/VolledigDocument?datum=2009-06-01",
+  "source_sha256": "82c6be634c161cf6683acafd612ee53fbf743e3676d8f77faacfb42693d89cf9",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1018272&param=informatie",
+  "as_of": "2009-06-01",
+  "made": "2009-05-29",
+  "gazette": "2009-08-28",
+  "numac": 2009203796,
+  "document_start": "2009-06-01",
+  "document_end": "2010-03-31",
+  "in_force": "2009-06-01",
+  "article_versions": 14,
+  "record_form": "consolidated version as in force on 2009-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
