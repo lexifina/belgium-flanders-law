@@ -600,7 +600,7 @@ De bepalingen van deze titel zijn van toepassing op het voltijds gewoon secundai
 
 ### ART. 93.
 
-§ 1. Deze titel is van toepassing op het gewoon en buitengewoon secundair onderwijs. <br /><br />§ 2. Deze titel is niet van toepassing op het ambt van bode-kamerbewaarder.
+§ 1. De bepalingen van deze titel zijn van toepassing op het gewoon en buitengewoon secundair onderwijs.<br /><br />§ 2. Deze titel is niet van toepassing op het ambt van bode-kamerbewaarder.<br /><br />§ 3. De bepalingen van deze titel gelden voor de schooljaren 2009-2010 en 2010-2011.
 
 ## [AFDELING II TOEKENNING VAN EEN GLOBALE PUNTENENVELOPPE (verv. decr. 8 mei 2009, art. III.18, I: 1 september 2009)]
 
