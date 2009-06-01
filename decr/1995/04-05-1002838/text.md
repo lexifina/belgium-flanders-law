@@ -194,7 +194,7 @@ Milieukwaliteitsnormen bepalen de maximaal toelaatbare hoeveelheden verontreinig
 
 ### ART. 2.2.2.
 
-Elk ontwerp van besluit houdende vaststelling of wijziging van milieukwaliteitsnormen wordt door de Vlaamse regering medegedeeld aan de Milieu- en Natuurraad van Vlaanderen en aan de Sociaal-Economische Raad van Vlaanderen.  Deze brengen een met redenen omkleed advies uit binnen een vervaltermijn van twee maanden na ontvangst van het ontwerp.<br /><br />In zoverre dit vanwege door internationale verplichtingen opgelegde termijnen noodzakelijk is, kan de Vlaamse regering de in het vorige lid bepaalde adviestermijn inkorten.
+Elk ontwerp van besluit houdende vaststelling of wijziging van milieukwaliteitsnormen wordt door de Vlaamse regering medegedeeld aan de Milieu- en Natuurraad van Vlaanderen, die een met redenen omkleed advies uitbrengt binnen een vervaltermijn van twee maanden na ontvangst van het ontwerp.<br /><br />In zoverre dit vanwege door internationale verplichtingen opgelegde termijnen noodzakelijk is, kan de Vlaamse regering de in het vorige lid bepaalde adviestermijn inkorten, met inachtname van de minimumtermijn, bepaald in artikel 16, § 2, van het decreet van 18 juli 2003 tot regeling van strategische adviesraden.
 
 ### ART. 2.2.3.
 
@@ -1087,6 +1087,10 @@ In het kader van hun missie en taken dragen de in deze titel bedoelde   agentsch
 
 ## [HOOFDSTUK I INLEIDENDE BEPALINGEN (ing. decr. 30 april 2004, art. 2)]
 
+### ART. 11.1.1.
+
+In dit decreet wordt verstaan onder ontwerpen van besluit van de Vlaamse regering die van strategisch belang zijn : ontwerpen van reglementair of organiek besluit die uitvoering geven aan de inhoud van een decreet en door de Vlaamse regering worden beschouwd als basisuitvoeringsbesluiten.
+
 ### ART. 11.1.2.
 
 Er wordt een strategische adviesraad voor het milieubeleid ingesteld, zoals bedoeld in artikel 2 van het decreet tot regeling van strategische adviesraden van 18 juli 2003.<br>
@@ -1099,9 +1103,124 @@ De bepalingen van het decreet van 18 juli 2003 tot regeling van strategische adv
 
 ## [HOOFDSTUK II TAAKOMSCHRIJVING (ing. decr. 30 april 2004, art. 2)]
 
+### ART. 11.2.1.
+
+§ 1. De Minaraad heeft de opdracht om, vanuit het oogpunt van de doelstellingen en beginselen, geformuleerd in artikel 1.2.1 van dit decreet:<br>
+1° uit eigen beweging of op verzoek advies uit te brengen over de hoofdlijnen van het milieubeleid of over het beleid betreffende het milieuaspect van duurzame ontwikkeling;<br>
+2° bij te dragen tot het vormen van een beleidsvisie over het milieubeleid of over het beleid betreffende het milieuaspect van duurzame ontwikkeling;<br>
+3° de maatschappelijke en beleidsontwikkelingen inzake milieu en inzake het milieuaspect van duurzame ontwikkeling op de verschillende beleidsniveaus en in de verschillende beleidsdomeinen te volgen en te interpreteren;<br>
+4° advies uit te brengen over voorontwerpen van decreet met betrekking tot het milieubeleid of voorontwerpen van decreet, met betrekking tot andere beleidsdomeinen, die aanzienlijke gevolgen kunnen hebben voor het milieu;<br>
+5° uit eigen beweging of op verzoek advies uit te brengen over voorstellen van decreet met betrekking tot het milieubeleid of over voorstellen van decreet met betrekking tot andere beleidsdomeinen die aanzienlijke gevolgen kunnen hebben voor het milieu;<br>
+6° uit eigen beweging of op verzoek advies uit te brengen over ontwerpen van besluit van de Vlaamse regering met betrekking tot het milieubeleid;<br>
+7° reflecties te leveren over de bij het Vlaams Parlement ingediende beleidsnota's aangaande het milieubeleid en het milieuaspect van duurzame ontwikkeling in Vlaanderen;<br>
+8° uit eigen beweging of op verzoek advies uit te brengen over ontwerpen van samenwerkingsakkoord van strategisch belang voor het beleid inzake milieu of het milieuaspect van duurzame ontwikkeling die het Vlaamse Gewest wil sluiten met de Staat of met andere gewesten, evenals over nationale plannen van strategisch belang voor het milieubeleid of voor het beleid betreffende het milieuaspect van duurzame ontwikkeling;<br>
+9° uit eigen beweging of op verzoek advies uit te brengen over beleidsvoornemens, beleidsplannen en in voorbereiding zijnde regelgeving op het niveau van de Europese Unie, alsook over in voorbereiding zijnde internationale verdragen, van strategisch belang voor het milieubeleid of voor het beleid betreffende het milieuaspect van duurzame ontwikkeling.<br>
+<br>
+§ 2.De Vlaamse regering is verplicht om advies te vragen over :<br>
+1° de voorontwerpen van decreet, bedoeld in § 1, 4°;<br>
+2° de ontwerpen van besluit van de Vlaamse regering die van strategisch belang zijn, bedoeld in § 1, 6°.<br>
+<br>
+§ 3. De Vlaamse regering kan gemotiveerd afwijken van de adviezen van de strategische adviesraad, bedoeld in § 2, en informeert de MiNa-Raad daarover.<br>
+<br>
+§ 4. De adviezen van de Minaraad zijn openbaar.
+
 ## [HOOFDSTUK III SAMENSTELLING EN ORGANISATIE (ing. decr. 30 april 2004, art. 2)]
 
+### ART. 11.3.1.
+
+Samenstelling<br>
+<br>
+§ 1. De MiNa-raad wordt samengesteld uit vertegenwoordigers van het maatschappelijke middenveld die actief zijn in of gevat worden door het milieubeleid, uit onafhankelijke deskundigen inzake het milieu of het milieubeleid, evenals uit de vertegenwoordigers van steden, gemeenten en provincies.<br>
+<br>
+§ 2. De volgende organisaties of groeperingen uit het maatschappelijke middenveld zijn in de MiNa-raad vertegenwoordigd:<br>
+<br>
+1° de milieuverenigingen, waaronder elke organisatie begrepen wordt die opgericht is op particulier initiatief en zonder winstoogmerk, die hoofdzakelijk Vlaanderen als actieterrein heeft, die als centrale en ondubbelzinnige doelstelling heeft de bevordering van de milieubescherming of het natuurbehoud in de zin van artikel 1.2.1 van dit decreet, en die daartoe een brede beleidswerking ontplooit;<br>
+<br>
+2° de sociaal-economische organisaties, waaronder elke organisatie begrepen wordt die opgericht is op particulier initiatief en zonder winstoogmerk, die hoofdzakelijk Vlaanderen als actieterrein heeft en die als centrale en ondubbelzinnige doelstelling heeft het verdedigen van de belangen van werkgevers en werknemers in de bedrijfswereld of specifieke economische sectoren of bedrijfstakken;<br>
+<br>
+3° de landbouworganisaties, waaronder elke organisatie begrepen wordt die opgericht is op particulier initiatief en zonder winstoogmerk, de organisaties vermeld onder 1° en 2° uitgezonderd, die het landbouwbelang vertegenwoordigen op Vlaams niveau;<br>
+<br>
+4° de organisaties die verbonden zijn aan de open ruimte, waaronder elke organisatie begrepen wordt die opgericht is op particulier initiatief en zonder winstoogmerk, de organisaties vermeld onder 1°, 2° en 3° uitgezonderd, die een specifiek belang vertegenwoordigt op Vlaams niveau dat verband houdt met het economische of recreatieve gebruik van milieu en natuur in de open ruimte in Vlaanderen;<br>
+<br>
+5° de socio-culturele organisaties die de belangen van consumenten en gezinnen vertegenwoordigen, waaronder elke organisatie begrepen wordt die opgericht is op particulier initiatief en zonder winstoogmerk, de milieuverenigingen uitgezonderd, die op Vlaams niveau de belangen vertegenwoordigt van de consumenten, de gezinnen of andere groepen in de samenleving en aldus belang heeft bij de goede staat van het leefmilieu of van de natuur in Vlaanderen.<br>
+<br>
+§ 3. Onder onafhankelijke deskundigen wordt begrepen: academici, milieudeskundigen die werken voor een onafhankelijk adviesbureau of als zelfstandige of andere personen die op grond van hun ervaring, engagement of deskundigheid gezag verworven hebben wat betreft de verwezenlijking van de doelstellingen, vermeld in artikel 1.2.1 van dit decreet.
+
+### ART. 11.3.2.
+
+Wijze van samenstellen<br>
+<br>
+§ 1. De MiNa-raad bestaat uit vierentwintig leden, door de Vlaamse regering benoemd voor een termijn van vier jaar.<br>
+<br>
+Daarvan worden er achttien vertegenwoordigers benoemd op voordracht van het maatschappelijke middenveld, met name:<br>
+1° voor de milieuverenigingen: acht vertegenwoordigers op voordracht van een koepelorganisatie, bedoeld in artikel 11, § 2, eerste lid, van het decreet van 29 april 1991 tot vaststelling van de algemene regelen inzake de erkenning en de subsidiëring van de milieuverenigingen, of op voordracht van gewestelijke ledenverenigingen die als zodanig erkend zijn op grond van datzelfde decreet, na advies van een koepelorganisatie;<br>
+2° voor de sociaal-economische organisaties: zes vertegenwoordigers op voordracht van de sociaal-economische organisaties vertegenwoordigd in de Sociaal-Economische Raad van Vlaanderen, met inbegrip van één vertegenwoordiger van een landbouworganisatie;<br>
+3° voor de organisaties die verbonden zijn aan de open ruimte: twee vertegenwoordigers op voordracht van deze organisaties;<br>
+4° voor de socio-culturele organisaties die de belangen van consumenten en gezinnen vertegenwoordigen: twee vertegenwoordigers op voordracht van deze organisaties.<br>
+<br>
+Twee leden worden benoemd op voordracht van de organisaties die de Vlaamse steden en gemeenten of de Vlaamse provincies vertegenwoordigen.<br>
+<br>
+De overige vier leden zijn onafhankelijke deskundigen. Zij worden aangewezen na een openbare oproep tot kandidaatstelling.<br>
+<br>
+§ 2. De organisaties die optreden namens het maatschappelijke middenveld, evenals de organisaties die optreden namens steden, gemeenten of provincies, dragen bij elke voordracht zowel een effectieve vertegenwoordiger als ook een plaatsvervangend lid voor. Voor de onafhankelijke deskundigen wordt geen plaatsvervangend lid aangewezen.<br>
+<br>
+§ 3. De vertegenwoordigers van het maatschappelijke middenveld en hun plaatsvervangers, evenals de vertegenwoordigers van steden, gemeenten en provincies en hun plaatsvervangers, worden voorgedragen op dubbele lijsten die in een evenwichtige vertegenwoordiging van man en vrouw voorzien.<br>
+<br>
+§ 4. De voorzitter van de MiNa-Raad wordt door de Vlaamse regering onder de leden benoemd. De voorzitter vertegenwoordigt de raad in rechte, onverminderd de mogelijkheid tot delegatie van die bevoegdheid.<br>
+<br>
+§ 5. De voordragende organisaties kunnen te allen tijde overgaan tot de vervanging van de door hen voorgedragen leden en plaatsvervangers, volgens de procedure, vermeld in § 3. Wanneer een vertegenwoordiger van het maatschappelijke middenveld zelf ontslag neemt, treedt de plaatsvervanger van rechtswege in zijn plaats, en duidt de Vlaamse regering een nieuwe plaatsvervanger aan op voordracht van de organisatie die het ontslagnemend lid voorgedragen had, volgens dezelfde procedure.<br>
+<br>
+§ 6. Wanneer een onafhankelijke deskundige ontslag neemt, wijst de Vlaamse regering een nieuw raadslid aan na een openbare oproep tot kandidaatstelling.<br>
+<br>
+§ 7. Wanneer uit het jaarverslag blijkt dat een raadslid zich kennelijk niet engageert in de werking van de Raad, dan wordt dat raadslid van rechtswege ontslagen. Een raadslid engageert zich kennelijk niet in de raadswerking wanneer het voor meer dan de helft van de in een werkjaar vastgestelde adviezen noch aan de voorbereidende werkzaamheden deelgenomen heeft, noch een standpunt ingenomen heeft op het moment dat het advies werd vastgesteld. De Vlaamse regering duidt op dat moment en voor rest van de looptijd van het betrokken mandaat voor de desbetreffende categorie, zoals gedefinieerd in artikel 11.3.1, § 2, een nieuw raadslid aan, na openbare oproep tot kandidaatstelling.
+
+### ART. 11.3.3.
+
+Onafhankelijkheid<br>
+<br>
+De leden van de MiNa-raad oefenen hun functie uit in volledige onafhankelijkheid ten opzichte van de Vlaamse overheid.
+
 ## [HOOFDSTUK IV WERKING (ing. decr. 30 april 2004, art. 2)]
+
+### ART. 11.4.1.
+
+Interne werking<br>
+<br>
+Inzake de werking van de MiNa-raad, is hoofdstuk IV van het decreet van 18 juli 2003 tot regeling van strategische adviesraden van toepassing.<br>
+<br>
+De raad regelt zijn werking in een huishoudelijk reglement dat ten minste de samenstelling, werking en bevoegdheden van het dagelijks bestuur bepaalt, alsook de bevoegdheden van de voorzitter en de directeur. De directeur maakt van rechtswege deel uit van het dagelijks bestuur. Noch het dagelijks bestuur, noch de voorzitter, noch de directeur kunnen worden belast met het vaststellen van een advies.
+
+### ART. 11.4.2.
+
+Permanente werkcommissies<br>
+<br>
+§ 1. In de schoot van de MiNa-raad worden permanente werkcommissies opgericht voor het natuurbeleid, het bosbeleid, het jachtbeleid, het binnenvisserijbeleid, het mestbeleid, het energiebeleid, het mobiliteitsbeleid, Natuur- en milieueducatie (NME) en Duurzame ontwikkeling.<br>
+<br>
+§ 2. De Vlaamse regering kan in de schoot van de MiNa-raad nog andere permanente werkcommissies instellen betreffende onderdelen of aspecten van het milieubeleid waarvoor een specifieke deskundigheid bestaat en waarbij specifieke doelgroepen of maatschappelijke groepen aangesproken worden.<br>
+<br>
+§ 3. De samenstelling van deze permanente werkcommissies gebeurt, rekening houdende met de evenwichtige vertegenwoordiging van mannen en vrouwen, waarbij niet meer dan twee derden van de leden van hetzelfde geslacht mogen zijn, als volgt:<br>
+<br>
+1° de helft van de leden wordt door de Vlaamse regering geselecteerd en benoemd op grond van specifieke deskundigheid en op grond van specifieke representativiteit in verband met het onderwerp dat in de permanente werkcommissie behandeld wordt;<br>
+<br>
+2° de helft van de leden wordt door de Vlaamse regering geselecteerd en benoemd op grond van specifieke deskundigheid en op grond van een voordracht van de MiNa-raad.<br>
+<br>
+De permanente werkcommissies kunnen nooit meer dan 16 leden tellen.<br>
+<br>
+§ 4. De MiNa-raad delegeert aan de permanente werkcommissies de voorbereiding van de activiteiten beschreven onder artikel 11.2.1, voorzover die activiteiten verband houden met het beleid dat het voorwerp uitmaakt van de opdracht van de werkcommissie.<br>
+<br>
+§ 5. De MiNa-raad neemt steeds de eindbeslissing over de ontwerpadviezen en andere ontwerpdocumenten die tot stand komen in de permanente werkcommissies.
+
+### ART. 11.4.3.
+
+Financiële middelen<br>
+<br>
+De MiNa-raad verkrijgt de middelen voor zijn werking en voor de uitvoering van zijn opdracht uit:<br>
+1° dotaties;<br>
+2° eigen inkomsten.
+
+### ART. 11.4.4.
+
+Samenwerking<br /><br />§ 1. De Minaraad kan, voor het onderzoeken van bijzondere vraagstukken, een beroep doen op deskundige derden, al dan niet tegen betaling.<br /><br />§ 2. De Minaraad kan bij het vervullen van zijn opdracht onder meer volgende samenwerkingsvormen aangaan:<br /><br />1° samenwerking met vergelijkbare adviesorganen buiten het Vlaamse Gewest, om informatie en ideeën uit te wisselen over het intergewestelijke, het nationale, het Europese en het internationale milieubeleid en het beleid inzake het milieuaspect van duurzame ontwikkeling;<br /><br />2° samenwerking met andere strategische adviesraden van het Vlaamse Gewest of de Vlaamse Gemeenschap, om over beleidsaangelegenheden te adviseren die verschillende beleidsdomeinen overspannen;<br /><br />3° samenwerking met provinciale en gemeentelijke milieuadviesraden, om informatie en ideeën uit te wisselen over het Vlaamse, het provinciale of het gemeentelijke milieubeleid.
 
 ## [TITEL XII GENETISCHE RIJKDOMMEN (ing. decr. 22 maart 2019, art. 2, I: 22 april 2019)]
 
