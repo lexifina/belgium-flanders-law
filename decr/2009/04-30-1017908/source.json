@@ -1,0 +1,17 @@
+{
+  "codex_id": 1017908,
+  "title": "Decreet van 2009-04-30 houdende diverse wijzigingen van de wet van 19 oktober 1921 tot regeling van de provincieraadsverkiezingen, de Gemeentekieswet gecoördineerd op 4 augustus 1932, het Gemeentedecreet van 15 juli 2005 en het Provinciedecreet van 9 december 2005 wat de regeling van de procedure inzake verkiezingsbezwaren betreft",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1017908/VolledigDocument?datum=2009-06-01",
+  "source_sha256": "cc49953d7c948a253610889e8a1b7b5056ed6473aa5878812f805cf512c2f8f6",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1017908&param=informatie",
+  "as_of": "2009-06-01",
+  "made": "2009-04-30",
+  "gazette": "2009-05-22",
+  "numac": 2009202264,
+  "document_start": "2009-06-01",
+  "document_end": null,
+  "in_force": "2009-06-01",
+  "article_versions": 8,
+  "record_form": "consolidated version as in force on 2009-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
