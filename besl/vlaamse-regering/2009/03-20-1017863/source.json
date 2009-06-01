@@ -1,0 +1,17 @@
+{
+  "codex_id": 1017863,
+  "title": "Besluit van de Vlaamse Regering van 2009-03-20 houdende vaststelling van de nadere regels voor de registratie alsook de inwerkingtreding van het decreet van 14 maart 2008 houdende de ontsluiting en de uitwisseling van informatie over ondergrondse kabels en leidingen",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1017863/VolledigDocument?datum=2009-06-01",
+  "source_sha256": "86d32927b0bb843daac5c4fe56d2bf176192c5cdd69602e632556f49f9d234e9",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1017863&param=informatie",
+  "as_of": "2009-06-01",
+  "made": "2009-03-20",
+  "gazette": "2009-05-04",
+  "numac": 2009201590,
+  "document_start": "2009-06-01",
+  "document_end": null,
+  "in_force": "2009-06-01",
+  "article_versions": 9,
+  "record_form": "consolidated version as in force on 2009-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
