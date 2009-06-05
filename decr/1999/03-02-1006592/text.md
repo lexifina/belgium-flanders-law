@@ -172,11 +172,11 @@ De havenbedrijven kunnen met publiekrechtelijke rechtspersonen economische samen
 
 ### ART. 29.
 
-[Onverminderd artikelen 9 en 31 is het Vlaamse Gewest verantwoordelijk voor de aanleg, de instandhouding, met inbegrip van het verwerken van de specie, het onderhoud en de exploitatie van de maritieme toegangswegen en de basisinfrastructuur, de haveninterne basisinfrastructuur uitgezonderd.  <span class="reference">(verv. decr. 21 december 2001, art. 53, I: 1 januari 2002)</span> ] [In afwijking van het eerste lid van artikel 18 blijft het Antwerpse Havenbedrijf verant-woordelijk voor de instandhouding, het onderhoud en de exploitatie van de kanaaldokken en zwaaikommen, met uitzondering van het verwerken van de specie.  <span class="reference">(verv. decr. 24 december 2004, art. 65, I: 1 januari 2005)</span> ]
+§ 1. Onverminderd artikelen 9 en 31 is het Vlaamse Gewest verantwoordelijk voor de aanleg, de instandhouding, met inbegrip van het verwerken van de specie, het onderhoud en de exploitatie van de maritieme toegangswegen en de basisinfrastructuur, de haveninterne basisinfrastructuur uitgezonderd. In afwijking van het eerste lid van artikel 18 blijft het Antwerpse Havenbedrijf verant-woordelijk voor de instandhouding, het onderhoud en de exploitatie van de kanaaldokken en zwaaikommen, met uitzondering van het verwerken van de specie. <br /><br />§ 2. In afwijking van § 1 en artikel 9, draagt het Vlaamse Gewest de verantwoordelijkheid voor de uitvoering en de financiering van de aanleg en terbeschikkingstelling van de nieuw te realiseren zeesluizen op het ogenblik van de oprichting van de NV Vlaamse Havens over aan die vennootschap.<br /><br />Het voorgaande lid doet geen afbreuk aan de verantwoordelijkheid van de havenbedrijven voor de instandhouding, de exploitatie en het onderhoud, met inbegrip van het verwerken van de specie, van de binnen het havengebied gelegen zeesluizen.
 
 ### ART. 29bis.
 
-De Vlaamse regering wordt ertoe gemachtigd binnen de perken van de begroting toelagen toe te kennen aan de havenbedrijven voor de instandhouding, met inbegrip van het verwerken van de specie, het onderhoud en de exploitatie van de binnen de havengebieden gelegen zeesluizen.  <span class="reference">(ing. decr. 21 december 2001, art. 53, I: 1 januari 2002)</span> ]
+De Vlaamse regering wordt ertoe gemachtigd binnen de perken van de begroting toelagen toe te kennen aan de havenbedrijven voor de aanleg en de instandhouding, met inbegrip van het verwerken van de specie, het onderhoud en de exploitatie van de binnen de havengebieden gelegen zeesluizen.
 
 ### ART. 29ter.
 
