@@ -26,13 +26,13 @@ Onverminderd de verplichting tot CO2-neutraliteit voor elke onderneming bij inge
 
 ### ART. 5.
 
-Aan de verplichting van CO2-neutraliteit kan worden voldaan op een van de volgende wijzen :<br />1° de afname van groene stroom;<br />2° de productie van groene stroom door het bedrijf zelf ter plaatse of door deelname van het bedrijf in de productie van groene stroom op het terrein;<br />3° de compensatie van de CO2-emissies tengevolge van het elektriciteitsverbruik door de aankoop van emissiekredieten;<br />4° de combinatie van de mogelijkheden vermeld in 1°, 2° en 3°.<br /><br />
+Aan de verplichting van CO2-neutraliteit kan worden voldaan op een van de volgende wijzen :<br />1° het verbruik van groene stroom;<br />2° ...<br />3° de compensatie van de CO2-emissies tengevolge van het elektriciteitsverbruik door de aankoop van emissiekredieten;<br />4° de combinatie van de mogelijkheden vermeld in punt 1° en 3°.<br /><br />
 
 ## HOOFDSTUK III Berekenings- en handelwijze te compenseren CO2-emissies
 
 ### ART. 6.
 
-Als de onderneming ervoor opteert om aan de verplichting tot CO2-neutraliteit te voldoen door geheel of gedeeltelijk het elektriciteitsverbruik te compenseren voor de CO2-emissies, worden de te compenseren CO2-emissies per kalenderjaar en per onderneming, uitgedrukt in kg, als volgt berekend :<br /><br />het elektriciteitsjaarverbruik tijdens het voorgaande kalenderjaar minus de door het bedrijf afgenomen groene stroom in diezelfde periode minus de door het bedrijf zelf geproduceerde groene stroom in diezelfde periode, telkens uitgedrukt in kWh, vermenigvuldigd met de emissiefactor van het Vlaams fossiel elektriciteitspark, exclusief warmtekrachtkoppelinginstallaties en netgekoppelde stoomturbines, uitgedrukt in kg CO2/kWh.<br /><br />§ 2. Voor toepassing van dit besluit geldt als emissiefactor van het Vlaams fossiel elektriciteitspark, een factor 0,6.<br /><br />
+§ 1. Als de onderneming ervoor opteert om aan de verplichting tot CO2-neutraliteit te voldoen door geheel of gedeeltelijk het elektriciteitsverbruik te compenseren voor de CO2-emissies, worden de te compenseren CO2-emissies per kalenderjaar en per onderneming, uitgedrukt in kg, als volgt berekend : het elektriciteitsjaarverbruik tijdens het voorgaande kalenderjaar minus de door het bedrijf verbruikte groene stroom in diezelfde periode, telkens uitgedrukt in kWh, vermenigvuldigd met de emissiefactor van het Vlaamse fossiele elektriciteitspark, exclusief warmtekrachtkoppelingsinstallaties en netgekoppelde stoomturbines, uitgedrukt in kg CO2/kWh.<br /><br />§ 2. Voor de toepassing van dit besluit geldt als emissiefactor van het Vlaamse fossiele elektriciteitspark een factor 0,6.
 
 ### ART. 7.
 
@@ -42,7 +42,7 @@ Als de onderneming ervoor opteert om aan de verplichting tot CO2-neutraliteit te
 
 ### ART. 8.
 
-§ 1. Uiterlijk op 31 maart van het jaar dat volgt op een jaar waarin de onderneming aan de CO2-neutraliteitsverplichting moet voldoen, rapporteert de onderneming aan de beheerder over de wijze waarop ze voldaan heeft aan de CO2-neutraliteit conform de bepalingen die zijn opgenomen in de voorwaarden van de verkoopsovereenkomst of een andere overeenkomst voor de terbeschikkingstelling van de kavel.<br /><br />§ 2. In principe rapporteert de onderneming jaarlijks aan de beheerder door het contract van groene stroom voor te leggen dat ze heeft gesloten of door een bewijs van storting van verhandelbare emissiekredieten op het Nationaal register voor te leggen of door de productie van groene stroom op de eigen bedrijfskavel aan te tonen of door een combinatie van die mogelijkheden, tenzij de ontwikkelaar heeft voorzien in andersluidende bepalingen in de verkoopsovereenkomst of een andere overeenkomst tot terbeschikkingstelling van de kavel.<br /><br />
+§ 1. Uiterlijk op 31 maart van het jaar dat volgt op een jaar waarin de onderneming aan de CO2-neutraliteitsverplichting moet voldoen, rapporteert de onderneming aan de beheerder over de wijze waarop ze voldaan heeft aan de CO2-neutraliteit conform de bepalingen die zijn opgenomen in de voorwaarden van de verkoopsovereenkomst of een andere overeenkomst voor de terbeschikkingstelling van de kavel.<br /><br />§ 2. De onderneming rapporteert jaarlijks aan de beheerder door een bewijs van het verbruik van groene stroom of een bewijs van storting van verhandelbare emissiekredieten op het nationaal register of een combinatie van die bewijzen voor te leggen.<br />
 
 ### ART. 9.
 
@@ -52,11 +52,11 @@ Als de onderneming ervoor opteert om aan de verplichting tot CO2-neutraliteit te
 
 ### ART. 10.
 
-In de verkoopsovereenkomst of een andere overeenkomst tot terbeschikkingstelling van de kavel worden de sancties opgenomen die aan de onderneming opgelegd worden bij de niet-naleving van de maatregelen inzake de CO2-neutraliteit zoals vermeld in het deelplan CO2-neutraliteit, het uitgifteplan of het terreinbeheerplan. De sanctie moet in verhouding staan tot de potentiële schade die de beheerder lijdt.<br /><br />
+In de verkoopsovereenkomst of een andere overeenkomst tot terbeschikkingstelling van de kavel worden de sancties opgenomen die aan de onderneming opgelegd worden bij de niet-naleving van de maatregelen inzake de CO2-neutraliteit, vermeld in het deelplan CO2-neutraliteit, het uitgifteplan of het terreinbeheerplan. De sancties moeten in verhouding staan tot de overtreding. De sancties kunnen onder andere strekken tot al dan niet forfaitaire schadevergoeding voor de beheerder en tot de indeplaatsstelling op kosten en voor risico van het bedrijf door de beheerder of een daartoe door de beheerder aangewezen derde opdat de beheerder of een door de beheerder daartoe aangewezen derde een of meer door het bedrijf niet-nageleefde maatregelen alsnog kan uitvoeren op kosten en voor risico van de onderneming.
 
 ### ART. 11.
 
-Behoudens overmacht vordert het agentschap bij de beheerder van het terrein de beheervergoeding geheel terug die werd toegekend op basis van het besluit van de Vlaamse Regering van 16 mei 2007 houdende subsidiëring van bedrijventerreinen.<br /><br />
+Behoudens overmacht vordert het agentschap bij niet-naleving van de subsidievoorwaarden, overeenkomstig de bepalingen van het besluit van de Vlaamse Regering van 16 mei 2007 houdende subsidiëring van bedrijventerreinen bij de beheerder van het terrein de beheervergoeding terug die werd toegekend op basis van het vermelde besluit.<br />
 
 ## HOOFDSTUK VI Slotbepalingen
 

@@ -2,16 +2,16 @@
   "codex_id": 1016248,
   "title": "Ministerieel besluit van 2007-10-01 houdende de uitwerking van de CO2-neutraliteit op de bedrijventerreinen",
   "type": "Ministerieel besluit",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1016248/VolledigDocument?datum=2007-01-01",
-  "source_sha256": "b11fbb271d335135be4fb68d6ceb46c34dd0e879a42d9eeebe67c2041ce42c09",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1016248/VolledigDocument?datum=2009-06-05",
+  "source_sha256": "e5f02653b5a50978b60d24886ed06aa934c967f6f646b606e953ecb6bd3a44d2",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1016248&param=informatie",
-  "as_of": "2007-01-01",
+  "as_of": "2009-06-05",
   "made": "2007-10-01",
   "gazette": "2007-10-15",
   "numac": 2007036745,
   "document_start": "2007-01-01",
   "document_end": null,
-  "in_force": "2007-01-01",
+  "in_force": "2009-06-05",
   "article_versions": 13,
-  "record_form": "consolidated version as in force on 2007-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2009-06-05; future article versions excluded; article text as the API gives it"
 }
