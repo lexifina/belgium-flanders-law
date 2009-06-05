@@ -1,0 +1,17 @@
+{
+  "codex_id": 1017910,
+  "title": "Decreet van 2009-04-30 houdende wijziging van het decreet van 8 mei 2002 houdende evenredige participatie op de arbeidsmarkt",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1017910/VolledigDocument?datum=2009-06-05",
+  "source_sha256": "9bd5969d2fdafa18c677637d7a1a3eb9ec7c6b2c82be35d8db9042a688d7bbd4",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1017910&param=informatie",
+  "as_of": "2009-06-05",
+  "made": "2009-04-30",
+  "gazette": "2009-05-26",
+  "numac": 2009202266,
+  "document_start": "2009-06-05",
+  "document_end": null,
+  "in_force": "2009-06-05",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2009-06-05; oldest version available; future article versions excluded; article text as the API gives it"
+}
