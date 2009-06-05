@@ -1,0 +1,29 @@
+# Ministerieel besluit van 2009-06-05 tot wijziging van artikelen 5, 6, 8, 10 en 11 van het ministerieel besluit van 1 oktober 2007 houdende de uitwerking van de CO2-neutraliteit op de bedrijventerreinen
+
+### Aanhef
+
+Gelet op het decreet van 31 januari 2003 betreffende het economisch ondersteuningsbeleid, artikel 25;<br /><br />Gelet op het decreet van 19 december 2003 houdende bepalingen tot begeleiding van de begroting 2004, artikel 75, 76, 77 en 78;<br /><br />Gelet op het besluit van de Vlaamse Regering van 5 maart 2004 inzake de bevordering van elektriciteitsopwekking uit hernieuwbare energiebronnen, gewijzigd bij de besluiten van de Vlaamse Regering van 25 februari 2005, 25 maart 2005, 8 juli 2005, 7 juli 2006, 20 april 2007 en 7 maart 2008;<br /><br />Gelet op het besluit van de Vlaamse Regering van 27 juli 2004 tot bepaling van de bevoegdheden van de leden van de Vlaamse Regering, gewijzigd bij de besluiten van de Vlaamse Regering van 15 oktober 2004, 23 december 2005, 19 mei 2006, 30 juni 2006, 1 september 2006, 15 juni 2007, 28 juni 2007, 10 oktober 2007, 14 november 2007, 5 september 2008, 22 september 2008, 6 januari 2009 en 30 januari 2009;<br /><br />Gelet op het besluit van de Vlaamse Regering van 12 januari 2007 tot wijziging van het besluit van de Vlaamse Regering van 4 februari 2005 inzake de verhandelbare emissierechten voor broeikasgassen en tot wijziging van het besluit van de Vlaamse Regering van 6 februari 1991 houdende vaststelling van het Vlaams reglement betreffende de milieuvergunning en van het besluit van de Vlaamse Regering van 1 juni 1995 houdende de algemene en sectorale bepalingen inzake milieuhygiëne, wat betreft de inzet van de flexibiliteitsmechanismen van het Protocol van Kyoto door het Vlaamse Gewest;<br /><br />Gelet op het besluit van de Vlaamse Regering van 16 mei 2007 houdende subsidiëring van bedrijventerreinen, artikel 1, 16°, en artikel 42;<br /><br />Gelet op het besluit van de Vlaamse Regering van 30 mei 2008 tot wijziging van artikel 23 en 43 van het besluit van de Vlaamse Regering van 16 mei 2007 houdende subsidiëring van bedrijventerreinen;<br /><br />Gelet op het ministerieel besluit van 1 oktober 2007 houdende de uitwerking van de CO2-neutraliteit op de bedrijventerreinen;<br /><br />Gelet op de wetten op de Raad van State, gecoördineerd op 12 januari 1973, artikel 3, § 1,vervangen bij de wet van 4 juli 1989 en gewijzigd bij de wet van 4 augustus 1996;<br /><br />Overwegende dat het ministerieel besluit van 1 oktober 2007 houdende de uitwerking van de CO2-neutraliteit op de bedrijventerreinen op een aantal juridisch-technische punten verbeterd moet worden, meer bepaald de aflijning van het begrip CO2-neutraliteit van het elektriciteitsverbruik en het sanctiebeleid,<br /><br />Besluit :
+
+### ART. 1.
+
+In artikel 5 van het ministerieel besluit van 1 oktober 2007 houdende de uitwerking van de CO2-neutraliteit op de bedrijventerreinen worden de volgende wijzigingen aangebracht :<br />1° in punt 1° worden de woorden « de afname » vervangen door de woorden « het verbruik »;<br />2° punt 2° wordt opgeheven;<br />3° in punt 4° worden de woorden « vermeld in 1°, 2° en 3° » vervangen door de woorden « vermeld in punt 1° en 3° ».
+
+### ART. 2.
+
+Artikel 6 van hetzelfde besluit wordt vervangen door wat volgt :<br /><br />« Art. 6. § 1. Als de onderneming ervoor opteert om aan de verplichting tot CO2-neutraliteit te voldoen door geheel of gedeeltelijk het elektriciteitsverbruik te compenseren voor de CO2-emissies, worden de te compenseren CO2-emissies per kalenderjaar en per onderneming, uitgedrukt in kg, als volgt berekend : het elektriciteitsjaarverbruik tijdens het voorgaande kalenderjaar minus de door het bedrijf verbruikte groene stroom in diezelfde periode, telkens uitgedrukt in kWh, vermenigvuldigd met de emissiefactor van het Vlaamse fossiele elektriciteitspark, exclusief warmtekrachtkoppelingsinstallaties en netgekoppelde stoomturbines, uitgedrukt in kg CO2/kWh.<br /><br />§ 2. Voor de toepassing van dit besluit geldt als emissiefactor van het Vlaamse fossiele elektriciteitspark een factor 0,6. »
+
+### ART. 3.
+
+In artikel 8 van hetzelfde besluit wordt paragraaf 2 vervangen door wat volgt :<br /><br />« § 2. De onderneming rapporteert jaarlijks aan de beheerder door een bewijs van het verbruik van groene stroom of een bewijs van storting van verhandelbare emissiekredieten op het nationaal register of een combinatie van die bewijzen voor te leggen »
+
+### ART. 4.
+
+Artikel 10 van hetzelfde besluit wordt vervangen door wat volgt :<br /><br />« Art. 10. In de verkoopsovereenkomst of een andere overeenkomst tot terbeschikkingstelling van de kavel worden de sancties opgenomen die aan de onderneming opgelegd worden bij de niet-naleving van de maatregelen inzake de CO2-neutraliteit, vermeld in het deelplan CO2-neutraliteit, het uitgifteplan of het terreinbeheerplan. De sancties moeten in verhouding staan tot de overtreding. De sancties kunnen onder andere strekken tot al dan niet forfaitaire schadevergoeding voor de beheerder en tot de indeplaatsstelling op kosten en voor risico van het bedrijf door de beheerder of een daartoe door de beheerder aangewezen derde opdat de beheerder of een door de beheerder daartoe aangewezen derde een of meer door het bedrijf niet-nageleefde maatregelen alsnog kan uitvoeren op kosten en voor risico van de onderneming. »
+
+### ART. 5.
+
+Artikel 11 van hetzelfde besluit wordt vervangen door wat volgt :<br /><br />« Art. 11. Behoudens overmacht vordert het agentschap bij niet-naleving van de subsidievoorwaarden, overeenkomstig de bepalingen van het besluit van de Vlaamse Regering van 16 mei 2007 houdende subsidiëring van bedrijventerreinen bij de beheerder van het terrein de beheervergoeding terug die werd toegekend op basis van het vermelde besluit. »
+
+### ART. 6.
+
+Dit besluit treedt in werking op 5 juni 2009.
