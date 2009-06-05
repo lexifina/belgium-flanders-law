@@ -1,0 +1,17 @@
+{
+  "codex_id": 1026468,
+  "title": "Besluit van de Vlaamse Regering van 2016-01-15 houdende wijziging van artikel 10 van het besluit van de Vlaamse Regering van 29 mei 2009 betreffende de ondersteuning van de Industriële Onderzoeksfondsen en de interfaceactiviteiten van de associaties in de Vlaamse Gemeenschap",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1026468/VolledigDocument?datum=2009-06-05",
+  "source_sha256": "6fa7afd4984be6b8b31dfcf8bf287640687375dc3fe33169c9226be10374e3ed",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1026468&param=informatie",
+  "as_of": "2009-06-05",
+  "made": "2016-01-15",
+  "gazette": "2016-02-11",
+  "numac": 2016035154,
+  "document_start": "2009-06-05",
+  "document_end": null,
+  "in_force": "2009-06-05",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2009-06-05; oldest version available; future article versions excluded; article text as the API gives it"
+}
