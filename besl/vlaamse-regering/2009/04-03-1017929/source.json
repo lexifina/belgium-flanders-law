@@ -1,0 +1,17 @@
+{
+  "codex_id": 1017929,
+  "title": "Besluit van de Vlaamse Regering van 2009-04-03 betreffende de aanwijzing van speciale beschermingszones en de vaststelling van instandhoudingsdoelstellingen",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1017929/VolledigDocument?datum=2009-06-07",
+  "source_sha256": "a111d36c0aaebcc859eb8b7b0046f76acf2bf83b9dae6dd510b75732fec280da",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1017929&param=informatie",
+  "as_of": "2009-06-07",
+  "made": "2009-04-03",
+  "gazette": "2009-05-28",
+  "numac": 2009202265,
+  "document_start": "2009-06-07",
+  "document_end": null,
+  "in_force": "2009-06-07",
+  "article_versions": 16,
+  "record_form": "consolidated version as in force on 2009-06-07; oldest version available; future article versions excluded; article text as the API gives it"
+}
