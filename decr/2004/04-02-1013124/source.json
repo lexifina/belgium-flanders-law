@@ -2,16 +2,16 @@
   "codex_id": 1013124,
   "title": "Decreet van 2004-04-02 tot vermindering van de uitstoot van broeikasgassen in het Vlaamse Gewest door het bevorderen van het rationeel energiegebruik, het gebruik van hernieuwbare energiebronnen en de toepassing van flexibiliteitsmechanismen uit het Protocol van Kyoto (citeeropschrift: \"REG-decreet\")",
   "type": "Decreet",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1013124/VolledigDocument?datum=2009-02-14",
-  "source_sha256": "3854f04f3d36b30679f6e02d88ef961f193d306dee1848f53014c6bc8fc7ea43",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1013124/VolledigDocument?datum=2009-06-09",
+  "source_sha256": "fa5c1224acffde9bfc73b54d7432067c0e626e0272600a18bdeebaea1bfbb527",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1013124&param=informatie",
-  "as_of": "2009-02-14",
+  "as_of": "2009-06-09",
   "made": "2004-04-02",
   "gazette": "2004-06-23",
   "numac": 2004035904,
   "document_start": "2004-06-23",
   "document_end": "2010-12-31",
-  "in_force": "2009-02-14",
-  "article_versions": 42,
-  "record_form": "consolidated version as in force on 2009-02-14; future article versions excluded; article text as the API gives it"
+  "in_force": "2009-06-09",
+  "article_versions": 46,
+  "record_form": "consolidated version as in force on 2009-06-09; future article versions excluded; article text as the API gives it"
 }
