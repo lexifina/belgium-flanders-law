@@ -1,0 +1,17 @@
+{
+  "codex_id": 1017963,
+  "title": "Decreet van 2009-05-08 houdende wijziging van het REG-decreet van 2 april 2004, wat de uitbreiding tot luchtvaartactiviteiten betreft",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1017963/VolledigDocument?datum=2009-06-09",
+  "source_sha256": "e1a87cf433bde070937c5f1fe0354da5bcb39d59d014934fe2473bbabccc3d2f",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1017963&param=informatie",
+  "as_of": "2009-06-09",
+  "made": "2009-05-08",
+  "gazette": "2009-06-09",
+  "numac": 2009035487,
+  "document_start": "2009-06-09",
+  "document_end": "2011-12-31",
+  "in_force": "2009-06-09",
+  "article_versions": 9,
+  "record_form": "consolidated version as in force on 2009-06-09; oldest version available; future article versions excluded; article text as the API gives it"
+}
