@@ -2,16 +2,16 @@
   "codex_id": 1013422,
   "title": "Besluit van de Vlaamse Regering van 2004-07-14 betreffende het rapporteren van afname- en productiegegevens door de beheerders van de aardgas- en elektriciteitsnetten, de brandstofleveranciers, de exploitanten van warmtekracht-, hernieuwbare energie en zelfopwekkingsinstallaties",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1013422/VolledigDocument?datum=2006-06-01",
-  "source_sha256": "5ab8ecc48a196780defe83d2e442baccb2bf6a666dbf7201eb9c6e6115ce3fae",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1013422/VolledigDocument?datum=2009-06-12",
+  "source_sha256": "d78b9446b2bf9d989941857183841e79c44a79f39f4c3c414cd67bfb5681e7b5",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1013422&param=informatie",
-  "as_of": "2006-06-01",
+  "as_of": "2009-06-12",
   "made": "2004-07-14",
   "gazette": "2004-09-24",
   "numac": 2004036453,
   "document_start": null,
   "document_end": "2010-12-31",
-  "in_force": "2006-06-01",
-  "article_versions": 12,
-  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "in_force": "2009-06-12",
+  "article_versions": 14,
+  "record_form": "consolidated version as in force on 2009-06-12; future article versions excluded; article text as the API gives it"
 }
