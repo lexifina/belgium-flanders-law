@@ -1,0 +1,17 @@
+{
+  "codex_id": 1017935,
+  "title": "Besluit van de Vlaamse Regering van 2009-04-24 tot wijziging van het besluit van de Vlaamse Regering van 14 juli 2004 betreffende het rapporteren van afname- en productiegegevens door de beheerders van de aardgas- en elektriciteitsnetten, de brandstofleveranciers, de exploitanten van warmtekracht-, hernieuwbare-energie- en zelfopwekkingsinstallaties",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1017935/VolledigDocument?datum=2009-06-12",
+  "source_sha256": "b22967a6f2ab0a58537c8481fad8a77972d38535ef6c9b17e757e91946a28d7c",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1017935&param=informatie",
+  "as_of": "2009-06-12",
+  "made": "2009-04-24",
+  "gazette": "2009-06-02",
+  "numac": 2009202281,
+  "document_start": "2009-06-12",
+  "document_end": null,
+  "in_force": "2009-06-12",
+  "article_versions": 10,
+  "record_form": "consolidated version as in force on 2009-06-12; oldest version available; future article versions excluded; article text as the API gives it"
+}
