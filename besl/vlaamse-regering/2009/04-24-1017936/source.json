@@ -1,0 +1,17 @@
+{
+  "codex_id": 1017936,
+  "title": "Besluit van de Vlaamse Regering van 2009-04-24 tot wijziging van het besluit van de Vlaamse Regering van 3 juni 2005 met betrekking tot de organisatie van de Vlaamse administratie",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1017936/VolledigDocument?datum=2009-06-12",
+  "source_sha256": "cb96cf479448415b2952cb62cd4f055260cd80117235375223fa88f18690cb81",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1017936&param=informatie",
+  "as_of": "2009-06-12",
+  "made": "2009-04-24",
+  "gazette": "2009-06-02",
+  "numac": 2009202283,
+  "document_start": "2009-06-12",
+  "document_end": null,
+  "in_force": "2009-06-12",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2009-06-12; oldest version available; future article versions excluded; article text as the API gives it"
+}
