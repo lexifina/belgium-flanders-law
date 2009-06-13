@@ -1,0 +1,17 @@
+{
+  "codex_id": 1017489,
+  "title": "Decreet van 2008-11-28 tot wijziging van het decreet van 13 februari 2004 tot vaststelling van de algemene regels inzake de erkenning en basissubsidiëring van mobiliteitsverenigingen en koepels van verenigingen en de subsidiëring van mobiliteitsverenigingen",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1017489/VolledigDocument?datum=2009-06-13",
+  "source_sha256": "e3624a40a201f8db1d7710e76ebec9f54cc65aa51e41ce414f579a9195fd53a7",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1017489&param=informatie",
+  "as_of": "2009-06-13",
+  "made": "2008-11-28",
+  "gazette": "2009-01-21",
+  "numac": 2009200058,
+  "document_start": "2009-06-13",
+  "document_end": null,
+  "in_force": "2009-06-13",
+  "article_versions": 18,
+  "record_form": "consolidated version as in force on 2009-06-13; oldest version available; future article versions excluded; article text as the API gives it"
+}
